@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T05:26:00+00:00
+ai_modified: 2026-05-01T05:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 05:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Word count**: 2991 → 3014 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Tallis-regress section presented the bare regress without acknowledging at point-of-statement that it turns on whether "seeming" is itself phenomenal — the very claim illusionism denies; substantive illusionist response was two H2 sections later. Added a 60-word dialectical caveat with two intra-document forward-references; trimmed the now-redundant regress-blocking framing in the Functional Seeming response section and a redundant clause in the "Where the Functional Account Falls Short" intro. Net length-neutral.)
+- **Enhancements made**: 2 intra-document forward-references (`[[#The Illusionist Response Functional Seeming]]`, `[[#Where the Functional Account Falls Short]]`)
+- **Cross-review trigger**: Issue 4 of [[reviews/pessimistic-2026-05-01]] flagged the bare Tallis regress as question-begging in the cognitive-phenomenology context; the canonical Tallis treatment in the illusionism page now signals the same dialectical limitation
+- **Output**: [[reviews/deep-review-2026-05-01-illusionism-tallis-cross]]
 
 ## 2026-05-01 05:26 UTC - deep-review
 - **Status**: Success

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/illusionism considering Tallis-regress critique from pessimistic-2026-05-01
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from `reviews/pessimistic-2026-05-01.md` Issue 4 (Medium severity). The pessimistic review of `concepts/cognitive-phenomenology.md` flags that the article's Tallis regress argument against illusionism — "if physical processes cannot generate phenomenal understanding, they cannot generate the *illusion* of it either" — begs the question by assuming the illusion-vs-reality dichotomy that illusionism explicitly denies. The recommended replacements are Frankish (2016) "Illusionism as a Theory of Consciousness," Dennett (1991) *Consciousness Explained*, or Pereboom (2011) *Consciousness and the Prospects of Physicalism*. Cross-review `concepts/illusionism.md` to (a) verify that the Map's existing illusionism page does *not* itself rely on Tallis-regress-style move when characterising the Map's anti-illusionist position; (b) install a §"The Tallis Regress and Why It Fails as a Refutation" subsection (~200–300 words) acknowledging the regress is *rhetorical, not philosophical* — illusionism does not posit a "real illusion" requiring explanation alongside missing real phenomenology; the explanandum just is the functional/representational state, redescribed in phenomenal vocabulary; (c) cross-link reciprocally to `concepts/cognitive-phenomenology.md` once that article's Issue 4 fix lands, with the bridging move being that the *substantive* anti-illusionist arguments the Map relies on (constitutive-vs-referring observation, self-stultification, presupposition of phenomenality) operate at a deeper level than the Tallis regress; (d) audit for "This is not X. It is Y." cliché violations. **DISTINCT FROM** the existing P3 task on illusionism's constitutive-observation challenge (todo.md, source: optimistic-2026-04-26b) which is a different defect. Short-medium scope (~300–500 words touched). Tenet alignment: Dualism — defending the anti-illusionist position with arguments illusionists actually take seriously. See [[reviews/pessimistic-2026-05-01]].
-- **Source**: pessimistic-review (2026-05-01)
-- **Generated**: 2026-05-01
-
 ### P2: Cross-review concepts/phenomenology-vs-function-axis considering methodological-asymmetry critique from pessimistic-2026-05-01
 - **Type**: cross-review
 - **Status**: pending
@@ -3272,6 +3265,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Cross-review concepts/illusionism considering Tallis-regress critique from pessimistic-2026-05-01
+- **Type**: cross-review
+- **Notes**: Chain from `reviews/pessimistic-2026-05-01.md` Issue 4 (Medium severity). The pessimistic review of `concepts/cognitive-phenomenology.md` flags that the article's Tallis regress argument against illusionism — "if physical processes cannot generate phenomenal understanding, they cannot generate the *illusion* of it either" — begs the question by assuming the illusion-vs-reality dichotomy that illusionism explicitly denies. The recommended replacements are Frankish (2016) "Illusionism as a Theory of Consciousness," Dennett (1991) *Consciousness Explained*, or Pereboom (2011) *Consciousness and the Prospects of Physicalism*. Cross-review `concepts/illusionism.md` to (a) verify that the Map's existing illusionism page does *not* itself rely on Tallis-regress-style move when characterising the Map's anti-illusionist position; (b) install a §"The Tallis Regress and Why It Fails as a Refutation" subsection (~200–300 words) acknowledging the regress is *rhetorical, not philosophical* — illusionism does not posit a "real illusion" requiring explanation alongside missing real phenomenology; the explanandum just is the functional/representational state, redescribed in phenomenal vocabulary; (c) cross-link reciprocally to `concepts/cognitive-phenomenology.md` once that article's Issue 4 fix lands, with the bridging move being that the *substantive* anti-illusionist arguments the Map relies on (constitutive-vs-referring observation, self-stultification, presupposition of phenomenality) operate at a deeper level than the Tallis regress; (d) audit for "This is not X. It is Y." cliché violations. **DISTINCT FROM** the existing P3 task on illusionism's constitutive-observation challenge (todo.md, source: optimistic-2026-04-26b) which is a different defect. Short-medium scope (~300–500 words touched). Tenet alignment: Dualism — defending the anti-illusionist position with arguments illusionists actually take seriously. See [[reviews/pessimistic-2026-05-01]].
+- **Output**: None -- Context: Cross-review concepts/illusionism considering Tallis-regress critique from pessimistic-2026-05-01
 
 ### ✓ 2026-05-01: Condense concepts/cognitive-phenomenology.md (5326 words, 213% of target)
 - **Type**: condense
