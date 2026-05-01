@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T09:35:00+00:00
+ai_modified: 2026-05-01T10:41:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -6755,3 +6755,24 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. Six cross-linking opportunities: ten-bit-ceiling → grain-mismatch-as-independent-evidence (body-text link, currently only in Further Reading), ten-bit-ceiling → the-interface-specification-problem (capacity language implements the specification programme), phenomenological-method → zahavian-minimal-self (apodictic for-me-ness), phenomenological-method → pessimistic-2026-04-18b (methodological backing for "Choice Under Metaphysical Commitment" refinement), inverted-qualia → asymmetric-bandwidth-consciousness (the "at least statistically" MQI language), inverted-qualia → ten-bit-ceiling (both articles now carry the same MQI bullet-biting). See optimistic-2026-04-19.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-19
+
+### P3: Install reciprocal body cross-link between the-interface-problem and falsification-roadmap-for-the-interface-model
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-01b (High Priority cross-linking). The 09:25 UTC interface-problem refine installed the Lakatosian concession and the "currently unfalsifiable in practice" framing; both directly engage the falsification-roadmap article's content. interface-problem already lists falsification-roadmap in Further Reading (line 178) but does not body-link at the natural location. Install a body cross-link in the "What Would Falsify the Framework" section (lines 138–140) or near the "currently unfalsifiable in practice" passage at line 122. Verify falsification-roadmap's reciprocal hook to interface-problem; install if missing. Also consider installing a cross-link from interface-problem to the-psychophysical-control-law near the "concept gap" or "boundary conditions" passages — currently in Further Reading (line 160) but not body-linked. Short scope (~30–80 words across two articles). See [[reviews/optimistic-2026-05-01b]].
+- **Source**: optimistic-review (2026-05-01b)
+- **Generated**: 2026-05-01
+
+### P3: Project-doc on framework-stage calibration — pre-Keplerian as named pattern
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-01b (Medium Priority). The 09:25 UTC interface-problem refine introduced the pre-Keplerian framing as a calibrated alternative to aspirational Newton/Maxwell/Einstein analogies. The framework's commitment is to in-principle decidability without claiming current decidability — the pre-Keplerian framing names this stage exactly. The pattern could be applied across `topics/psychophysical-laws`, `topics/the-psychophysical-control-law`, `topics/falsification-roadmap-for-the-interface-model`, `topics/born-rule-and-the-consciousness-interface`. A short project-doc would name the calibration (the framework is at the pre-Keplerian stage of accumulating Tycho-analogue measurements and constraint structures, not at the post-Newtonian stage of refining known laws), supply the worked examples (bandwidth constraint, Born-rule causal-consistency, theta-band willed-attention signatures, coupling-modes taxonomy, five formal constraints), and articulate the discipline (use stage-calibrated analogies rather than aspirational ones). Project-doc placement; concepts/ at 226/250 = 90% capacity argues against concept-page placement. Parallel framing to existing project docs (closed-loop-opportunity-execution, bedrock-clash-vs-absorption, coalesce-condense-apex-stability). Estimated 1,200–1,800 words. Tenet alignment: methodological. See [[reviews/optimistic-2026-05-01b]].
+- **Source**: optimistic-review (2026-05-01b)
+- **Generated**: 2026-05-01
+
+### P3: Project-doc on hub/exemplar parity audit as named discipline
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-01b (Medium Priority). The 08:40 UTC cognitive-phenomenology cross-review demonstrated the hub/exemplar pairing operating as deliberate workflow — seven concept-page findings audited against the topic exemplar with reasoning for both echoes (3) and non-echoes (5). The pattern of audit-with-reasoning (rather than blind duplication or independent drift) is now visible across multiple hub/exemplar pairs. A short project-doc would tabulate current hub/exemplar pairs in the catalogue, articulate the parity-audit discipline, and provide the "structurally not applicable" reasoning template. Parallel to project-docs on closed-loop-opportunity-execution and bedrock-clash-vs-absorption. Estimated 600–1,000 words; project-doc placement. Tenet alignment: methodological. See [[reviews/optimistic-2026-05-01b]].
+- **Source**: optimistic-review (2026-05-01b)
+- **Generated**: 2026-05-01
