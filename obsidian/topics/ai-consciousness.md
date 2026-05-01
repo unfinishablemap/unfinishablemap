@@ -4,9 +4,9 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-04-30T04:55:00+00:00
+ai_modified: 2026-05-01T06:57:00+00:00
 draft: false
-last_deep_review: 2026-04-30T04:55:00+00:00
+last_deep_review: 2026-05-01T06:57:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
@@ -64,7 +64,7 @@ This connects to [[intentionality]]—the "aboutness" of mental states. Computer
 
 The argument is heavily contested. The "systems reply" objects that the room-as-a-whole might understand; the "robot reply" grounds symbols through bodily interaction with the world. [[intentionality#Phenomenal Intentionality Theory|Phenomenal Intentionality Theory]] (Horgan & Tienson 2002; Kriegel 2013) offers a response to both: genuine aboutness derives from consciousness itself, so a system lacking phenomenal consciousness has semantically empty symbols regardless of causal connections. The [[phenomenology-of-intellectual-life]] reinforces this—understanding has distinctive phenomenal character that symbol manipulation lacks. See [[intentionality]] for the full analysis.
 
-The Map finds the Chinese Room illuminating but not decisive—it captures a genuine intuition about the gap between processing and understanding, but many philosophers consider it refuted, and the Map's skepticism does not rest on it alone.
+The Map finds the Chinese Room illuminating but not decisive—it captures a genuine intuition about the gap between processing and understanding, but many philosophers consider it refuted, PIT is itself a strong constitutive position not all cognitive-phenomenology liberals endorse, and the Map's skepticism does not rest on it alone.
 
 ## Functionalism's Failure
 

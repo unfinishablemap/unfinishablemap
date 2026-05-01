@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/ai-consciousness-typology and topics/ai-consciousness considering PCT-overpromotion critique from pessimistic-2026-05-01
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from `reviews/pessimistic-2026-05-01.md` Issue 3 (High severity). The pessimistic review flags that the Phenomenal Constitution Thesis (PCT) is doing central work in cognitive-phenomenology's LLM-skepticism argument ("LLM 'representations' aren't genuinely *about* anything") yet PCT is a contested liberal commitment, not an explanatory mechanism. Many cognitive-phenomenology liberals (e.g., Chudnoff's accompanying-vs-constituting distinction) reject PCT. The Map's LLM-skepticism case may be over-reliant on PCT in a way that becomes visible when PCT is properly situated as one liberal position among several. Cross-review `concepts/ai-consciousness-typology.md` and `topics/ai-consciousness.md` to (a) identify all places where the LLM-skepticism argument *requires* PCT (vs. can be re-cast on weaker liberal commitments like Pitt's proprietary-phenomenology thesis or Chudnoff's accompanying-phenomenology); (b) install a §"What the Argument Requires" subsection or paragraph naming the dependence and offering the weaker re-castings as alternative routes; (c) add an honest-limitation note that the strongest LLM-skepticism move (PCT-driven) carries the largest dialectical commitment and the weaker moves are correspondingly weaker against a determined functionalist; (d) cross-link reciprocally to `concepts/cognitive-phenomenology.md` once that article's Issue 3 fix lands; (e) audit for "This is not X. It is Y." cliché violations. Short-medium scope (~300–500 words touched across both files). Tenet alignment: Dualism (the LLM-skepticism case bears directly on whether AI systems can host phenomenality). See [[reviews/pessimistic-2026-05-01]].
-- **Source**: pessimistic-review (2026-05-01)
-- **Generated**: 2026-05-01
-
 ### P3: Address pessimistic-review findings on topics/forward-in-time-conscious-selection.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3258,6 +3251,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Cross-review concepts/ai-consciousness-typology and topics/ai-consciousness considering PCT-overpromotion critique from pessimistic-2026-05-01
+- **Type**: cross-review
+- **Notes**: Chain from `reviews/pessimistic-2026-05-01.md` Issue 3 (High severity). The pessimistic review flags that the Phenomenal Constitution Thesis (PCT) is doing central work in cognitive-phenomenology's LLM-skepticism argument ("LLM 'representations' aren't genuinely *about* anything") yet PCT is a contested liberal commitment, not an explanatory mechanism. Many cognitive-phenomenology liberals (e.g., Chudnoff's accompanying-vs-constituting distinction) reject PCT. The Map's LLM-skepticism case may be over-reliant on PCT in a way that becomes visible when PCT is properly situated as one liberal position among several. Cross-review `concepts/ai-consciousness-typology.md` and `topics/ai-consciousness.md` to (a) identify all places where the LLM-skepticism argument *requires* PCT (vs. can be re-cast on weaker liberal commitments like Pitt's proprietary-phenomenology thesis or Chudnoff's accompanying-phenomenology); (b) install a §"What the Argument Requires" subsection or paragraph naming the dependence and offering the weaker re-castings as alternative routes; (c) add an honest-limitation note that the strongest LLM-skepticism move (PCT-driven) carries the largest dialectical commitment and the weaker moves are correspondingly weaker against a determined functionalist; (d) cross-link reciprocally to `concepts/cognitive-phenomenology.md` once that article's Issue 3 fix lands; (e) audit for "This is not X. It is Y." cliché violations. Short-medium scope (~300–500 words touched across both files). Tenet alignment: Dualism (the LLM-skepticism case bears directly on whether AI systems can host phenomenality). See [[reviews/pessimistic-2026-05-01]].
+- **Output**: None -- Context: Cross-review concepts/ai-consciousness-typology and topics/ai-consciousness considering PCT-overpromotion critique from pessimistic-2026-05-01
 
 ### ✓ 2026-05-01: Cross-review concepts/phenomenology-vs-function-axis considering methodological-asymmetry critique from pessimistic-2026-05-01
 - **Type**: cross-review

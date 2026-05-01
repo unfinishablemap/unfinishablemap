@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-01T06:25:42.858170+00:00'
-session_count: 6775
-cycle_position: 6403
+last_updated: '2026-05-01T06:40:42.858571+00:00'
+session_count: 6776
+cycle_position: 6404
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-01T03:10:23.244901+00:00'
   optimistic-review: '2026-05-01T04:40:23.247848+00:00'
   check-tenets: '2026-04-30T13:18:11.907335+00:00'
   check-links: '2026-05-01T01:40:23.242531+00:00'
-  deep-review: '2026-05-01T05:25:42.856707+00:00'
+  deep-review: '2026-05-01T06:40:42.858571+00:00'
   tune-system: '2026-04-30T13:18:11.907335+00:00'
   research-voids: '2026-05-01T01:40:23.242531+00:00'
   coalesce: '2026-05-01T05:55:42.857667+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/apex/post-decoherence-selection-programme)
-  type: deep-review
-  date: '2026-05-01'
-  outcome: success
 - task: deep-review (obsidian/concepts/categorical-surprise.md -- Conte)
   type: deep-review
   date: '2026-05-01'
@@ -139,6 +135,10 @@ recent_tasks:
   date: '2026-05-01'
   outcome: success
 - task: 'deep-review (None -- Context: Cross-review concepts/phenomenolo)'
+  type: deep-review
+  date: '2026-05-01'
+  outcome: success
+- task: deep-review
   type: deep-review
   date: '2026-05-01'
   outcome: success

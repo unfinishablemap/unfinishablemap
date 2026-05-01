@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T06:40:00+00:00
+ai_modified: 2026-05-01T06:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 06:57 UTC - deep-review
+- **Status**: Success
+- **Files**: [[concepts/ai-consciousness-typology]] and [[topics/ai-consciousness]]
+- **Word count**: typology 2745 → 2765 (+20); ai-consciousness 3206 → 3218 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (PCT-overpromotion echo at the points of cognitive-phenomenology / PIT invocation)
+- **Enhancements made**: 2 (typology line 113 reframed to mark cog-phen as a Map commitment and explicitly distinguish PCT from cog-phen liberalism; ai-consciousness Chinese Room hedge expanded to acknowledge PIT-internal contestation)
+- **Notes**: Cross-review applying the PCT-overpromotion critique (Issue 3 in [[reviews/pessimistic-2026-05-01]], originally aimed at `concepts/cognitive-phenomenology.md`) to the two AI-consciousness articles that invoke cognitive-phenomenology / PIT as discriminators against AI experience. Both articles were declared stable in 2026-04-30 reviews; targeted edits sharpen hedging at exactly the points where the PCT-overpromotion shape recurs. The typology fix also resolves an LLM-cliché ("This is X, not Y") flagged by the writing-style guide. Length-neutral mode preserved — both articles remain in soft_warning, well below hard thresholds. Bedrock disagreements from prior reviews not re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-01-ai-consciousness-cross]]
 
 ## 2026-05-01 06:40 UTC - deep-review
 - **Status**: Success
