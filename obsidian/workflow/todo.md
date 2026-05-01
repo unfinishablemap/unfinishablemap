@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/process-and-consciousness.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated apex article (ai_contribution > 50) last deep-reviewed 2026-03-15 — 47 days ago. Apex articles are central synthesis hubs. Recent restructure activity in the temporal/interface clusters (today's interface-problem coalesce absorbing two source articles, the 2026-04-30 conjunction-coalesce apex stabilisation, multiple condense passes) likely affects cross-references and framing. Verify (a) coherence with current treatments of process metaphysics, Whitehead, and the interface model — including whether the apex's reading of consciousness-as-process still aligns with the post-coalesce interface-problem article; (b) tenet alignment, especially Bidirectional Interaction and Occam's Razor Has Limits; (c) cross-references and reciprocal-link discipline; (d) audit for "This is not X. It is Y." cliché violations; (e) confirm process-philosophy framing has not drifted from the catalogue's current usage in `[[temporal-consciousness]]`, `[[time-consciousness-growing-block]]`, and `[[the-interface-problem]]`.
-- **Source**: staleness
-- **Generated**: 2026-05-01
-
 ### P3: Deep review topics/history-of-the-interaction-problem.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3272,6 +3265,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Deep review apex/process-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution > 50) last deep-reviewed 2026-03-15 — 47 days ago. Apex articles are central synthesis hubs. Recent restructure activity in the temporal/interface clusters (today's interface-problem coalesce absorbing two source articles, the 2026-04-30 conjunction-coalesce apex stabilisation, multiple condense passes) likely affects cross-references and framing. Verify (a) coherence with current treatments of process metaphysics, Whitehead, and the interface model — including whether the apex's reading of consciousness-as-process still aligns with the post-coalesce interface-problem article; (b) tenet alignment, especially Bidirectional Interaction and Occam's Razor Has Limits; (c) cross-references and reciprocal-link discipline; (d) audit for "This is not X. It is Y." cliché violations; (e) confirm process-philosophy framing has not drifted from the catalogue's current usage in `[[temporal-consciousness]]`, `[[time-consciousness-growing-block]]`, and `[[the-interface-problem]]`.
+- **Output**: obsidian/apex/process-and-consciousness.md
 
 ### ✓ 2026-05-01: Deep review apex/contemplative-path.md
 - **Type**: deep-review

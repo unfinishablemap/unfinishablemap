@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T10:41:00+00:00
+ai_modified: 2026-05-01T10:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 10:55 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/process-and-consciousness]]
+- **Trigger**: Third deep review; substantively revised since 2026-03-15 via apex-evolve on 2026-04-21 that added phenomenal non-compositionality (van Inwagen / Merricks / McQueen-Tsuchiya), 2022-2024 empirical bridge (Kerskens & Pérez; Wiest et al.), the Schurger/Sjöberg Libet reinterpretation, and the Kent & Wittmann 280 ms specious-present linkage.
+- **Word count**: 3806 → 3810 (+4). Article at 95% of 4000 apex soft target — length-neutral mode.
+- **Critical issues addressed**: 0 — Attribution accuracy verified across all four new content blocks; all citations cross-checked against source articles (combination-problem, temporal-consciousness, free-will).
+- **Medium issues addressed**: 1 — Qualifier-preservation issue: Sjöberg (2024) characterized as "preserves volitional phenomenology entirely"; source says "retain their sense of voluntary action." Replaced with source phrasing.
+- **Enhancements made**: 0 — Convergence review.
+- **Stability marker**: Third review converging — each pass has found progressively fewer issues (medium-only in 2026-02-08, readability-only in 2026-03-15, single qualifier in 2026-05-01). Article has stabilised; only newly added content or factual corrections warrant future flags.
+- **Output**: [[reviews/deep-review-2026-05-01-process-and-consciousness]]; uncommitted per task brief (automation system handles commit).
 
 ## 2026-05-01 10:41 UTC - optimistic-review
 - **Status**: Success
