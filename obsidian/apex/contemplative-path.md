@@ -2,10 +2,10 @@
 title: "The Contemplative Path"
 description: "First-person investigation reveals consciousness structures invisible to external observation. Two millennia of contemplative practice offer systematic data the Map takes seriously."
 created: 2026-01-31
-modified: 2026-04-28
+modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-04-28T12:59:00+00:00
-last_deep_review: 2026-03-14T21:39:00+00:00
+ai_modified: 2026-05-01T10:25:00+00:00
+last_deep_review: 2026-05-01T10:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -154,7 +154,7 @@ Three responses preserve the contemplative case, though each has limitations the
 
 **Training should dissolve illusion.** If contemplative phenomenology were fabricated, extended practice should reveal this—as understanding dissolves other cognitive errors. Instead, traditions report that practice *refines* phenomenological access. The distinctions between choosing and observing, between effort and effortlessness, become *clearer* with training. Meditators report increasingly subtle phenomenological distinctions, not recognition that there was nothing there.
 
-**The convergence problem.** The illusionist must still explain why systematic investigation across radically different traditions—Buddhist *vipassanā*, Hindu *dhyāna*, Christian contemplative prayer, Sufi *murāqaba*, and secular mindfulness, with no mutual influence and opposed metaphysical commitments—produced converging structural descriptions of an experience that should have dissolved under scrutiny. Where theory-ladenness predicts artefacts diverging across frameworks, structural convergence despite theoretical disagreement is the better explanation by genuine discovery.
+**The convergence problem.** The illusionist must still explain why systematic investigation across radically different traditions—Buddhist *vipassanā*, Hindu *dhyāna*, Christian contemplative prayer, Sufi *murāqaba*, and secular mindfulness, with no mutual influence and opposed metaphysical commitments—produced converging structural descriptions of an experience that should have dissolved under scrutiny. Where theory-ladenness predicts artefacts diverging across frameworks, structural convergence despite theoretical disagreement is better explained as genuine discovery.
 
 ## What Would Challenge This View?
 

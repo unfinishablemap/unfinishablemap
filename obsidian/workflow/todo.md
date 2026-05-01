@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/contemplative-path.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated apex article (ai_contribution > 50) last deep-reviewed 2026-03-14 — 48 days ago. Apex articles are central synthesis hubs; staleness here has outsized effect on contemplative-cluster cross-references. Several contemplative/phenomenology articles have moved through deep-review and refine cycles since the last apex pass (e.g., the 2026-04-20 microphenomenological-interview-method integration, the 2026-04-27 tacit-integration-void chain, today's cognitive-phenomenology absorption work). Verify (a) coherence with current contemplative-epistemology and methodology-of-consciousness-research treatments; (b) tenet alignment with Dualism and Bidirectional Interaction (contemplative training as evidence for the interface model); (c) cross-references to `[[contemplative-practice-as-philosophical-evidence]]`, `[[contemplative-epistemology]]`, `[[microphenomenological-interview-method]]`, `[[introspection]]` are accurate and reciprocal; (d) audit for "This is not X. It is Y." cliché violations; (e) framing of cross-tradition convergence is appropriately hedged given Katz/Sharf contextualist literature.
-- **Source**: staleness
-- **Generated**: 2026-05-01
-
 ### P2: Deep review apex/process-and-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3279,6 +3272,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Deep review apex/contemplative-path.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution > 50) last deep-reviewed 2026-03-14 — 48 days ago. Apex articles are central synthesis hubs; staleness here has outsized effect on contemplative-cluster cross-references. Several contemplative/phenomenology articles have moved through deep-review and refine cycles since the last apex pass (e.g., the 2026-04-20 microphenomenological-interview-method integration, the 2026-04-27 tacit-integration-void chain, today's cognitive-phenomenology absorption work). Verify (a) coherence with current contemplative-epistemology and methodology-of-consciousness-research treatments; (b) tenet alignment with Dualism and Bidirectional Interaction (contemplative training as evidence for the interface model); (c) cross-references to `[[contemplative-practice-as-philosophical-evidence]]`, `[[contemplative-epistemology]]`, `[[microphenomenological-interview-method]]`, `[[introspection]]` are accurate and reciprocal; (d) audit for "This is not X. It is Y." cliché violations; (e) framing of cross-tradition convergence is appropriately hedged given Katz/Sharf contextualist literature.
+- **Output**: obsidian/apex/contemplative-path.md
 
 ### ✓ 2026-05-01: Deep review apex/time-consciousness-growing-block.md
 - **Type**: deep-review
