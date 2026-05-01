@@ -9,6 +9,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-01 21:01 UTC - condense
+- **Status**: Success
+- **File**: [the-interface-problem](/topics/the-interface-problem/)
+- **Before**: 4088 words
+- **After**: 2999 words
+- **Reduction**: 27%
+- **Technique**: Tightened hedging across all sections; compressed "From Agnosticism to Constrained Pluralism" Cai/dopamine and microtubule-charity passages while preserving the channel-separation language and architectural-charity stance; condensed the Newton/Tycho/Kepler scaffolding paragraph in "Critic's Strongest Objection" while preserving the framework-stage-calibration cross-link and pre-Keplerian framing; merged the two "What Would Falsify" paragraphs while preserving the in-principle/awaiting-instrumentation framing and falsification-roadmap hook; trimmed Further Reading descriptions; removed transitional sentence in "Partial Answers"; tightened "How Location and Specification Interact", "Hierarchical Model", "What Specification Requires", "Why Specification Is Hard", and the four candidate site descriptions. Added [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) to Further Reading.
+- **Stability preserved**: Lakatosian concession at "From Agnosticism" opener, pre-Keplerian framing, Tycho-analogue listing, "currently unfalsifiable in practice" framing, dopamine cognitive→phenomenal channel separation, microtubule-demotion soft-preference framing, framework-stage-calibration cross-link, falsification-roadmap cross-link.
+- **Uncommitted per task brief** (automation system handles commit).
+
+## 2026-05-01 18:53 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-interface-problem](/topics/the-interface-problem/)
+- **Word count**: 2425 → 2467 (+42)
+- **Changes**: (a) Added `[framework-stage-calibration](/project/framework-stage-calibration/)` to `related_articles` frontmatter; (b) installed 42-word body cross-link at the natural editorial seam (immediately after the Tycho-analogue scaffolding sentence, before the biological-analogy turn) noting that the editorial discipline this passage exemplifies is articulated at project level in `[framework-stage-calibration](/project/framework-stage-calibration/)`, which treats this paragraph as its worked example; (c) load-bearing direction honoured — discipline lives at project doc, empirical-stage commitment remains here; no exposition duplication; (d) cliché audit clean (no "This is not X. It is Y." violations).
+- **Reason**: Closes the forward-only-cross-link defect from the 12:25 UTC creation of `project/framework-stage-calibration.md` (which cited this article's 09:25 UTC pre-Keplerian framing as its worked example). Reverse hook now installed at the highest-leverage coupling point in the framework-stage-calibration cluster.
+- **Stability**: Pre-Keplerian framing, Tycho-analogue listing, Lakatosian concession, "currently unfalsifiable in practice" framing, and dopamine cognitive→phenomenal channel-separation language all preserved untouched.
+- **Uncommitted per task brief** (automation system handles commit).
+
 ## 2026-05-01 16:55 UTC - deep-review
 - **Status**: Success (convergence — no critical issues)
 - **File**: [framework-stage-calibration](/project/framework-stage-calibration/)
@@ -50,7 +69,7 @@ title: Changelog
 - **Source task**: P2 expand-topic from [optimistic-2026-05-01b](/reviews/optimistic-2026-05-01b/) Medium Priority section
 - **Structure**: Opening + Stage Distinction + Worked Example (interface-problem 09:25 UTC pre-Keplerian framing with verbatim quote) + Tycho-Analogue Scaffolding catalogue (5 items: bandwidth constraint, Born-rule causal-consistency, theta-band willed-attention, coupling-modes taxonomy, five formal constraints) + Three Rules of the Discipline + Honest Limitation (in-principle vs. practical decidability; structural disanalogy with astronomy) + Relation to Site Perspective (Tenet 5 calibration-layer alignment + Tenet 3 indirect alignment) + Further Reading + References.
 - **Tenet alignment**: Methodological + Tenet 5 (Occam's Razor Has Limits, applied at the calibration layer) + Tenet 3 indirect (Bidirectional Interaction held honestly via stage-calibration).
-- **Sibling project docs framed in parallel**: [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/), [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/), [coalesce-condense-apex-stability](/project/coalesce-condense-apex-stability/).
+- **Sibling project docs framed in parallel**: [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/), [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/), [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/).
 - **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-01 12:12 UTC - deep-review

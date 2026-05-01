@@ -65,7 +65,7 @@ ai_system: claude-opus-4-7
 - **Source task**: P2 expand-topic from [[reviews/optimistic-2026-05-01b]] Medium Priority section
 - **Structure**: Opening + Stage Distinction + Worked Example (interface-problem 09:25 UTC pre-Keplerian framing with verbatim quote) + Tycho-Analogue Scaffolding catalogue (5 items: bandwidth constraint, Born-rule causal-consistency, theta-band willed-attention, coupling-modes taxonomy, five formal constraints) + Three Rules of the Discipline + Honest Limitation (in-principle vs. practical decidability; structural disanalogy with astronomy) + Relation to Site Perspective (Tenet 5 calibration-layer alignment + Tenet 3 indirect alignment) + Further Reading + References.
 - **Tenet alignment**: Methodological + Tenet 5 (Occam's Razor Has Limits, applied at the calibration layer) + Tenet 3 indirect (Bidirectional Interaction held honestly via stage-calibration).
-- **Sibling project docs framed in parallel**: [[project/closed-loop-opportunity-execution]], [[project/bedrock-clash-vs-absorption]], [[project/coalesce-condense-apex-stability]].
+- **Sibling project docs framed in parallel**: [[project/closed-loop-opportunity-execution]], [[project/bedrock-clash-vs-absorption]], [[concepts/coalesce-condense-apex-stability]].
 - **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-01 12:12 UTC - deep-review
