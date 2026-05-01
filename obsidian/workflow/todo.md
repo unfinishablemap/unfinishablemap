@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30T22:36:00+00:00
+ai_modified: 2026-05-01T00:40:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review concepts/intentionality.md to install reciprocal link to topics/the-naturalisation-failure-for-content.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-30e (Cross-Linking Suggestions). The 2026-04-30 21:45 UTC creation of `topics/the-naturalisation-failure-for-content.md` forward-links to `concepts/intentionality.md` at lines 38, 64, 84, 94, 96 — five distinct anchors expounding aboutness as the irreducible feature the HPC argument turns on. The reverse link is not yet installed on the intentionality concept page. Cross-review should (a) verify `concepts/intentionality.md` has `topics/the-naturalisation-failure-for-content` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~50–100 words) at a natural anchor in the intentionality article noting the topic-level dialectical position the Map takes (HPC-as-naturalisation-failure, with Hutto and Myin's argument as the central exemplar); (c) verify wording does not duplicate the topic article's exposition — the concept page should expound aboutness; the bridging paragraph should point to the topic article as the canonical home of the dialectical-position treatment; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). **DISTINCT FROM** P3 task at todo.md:3210 which covers argument-from-reason ↔ consciousness-and-the-normativity-of-reason ↔ self-stultification reciprocal links — that task operates on the parallel-diagnosis-cluster anchors; this task operates on the aboutness-conceptual layer. Short scope (~80–150 words touched). Tenet alignment: Dualism, methodological — closing forward-only-cross-link defect after expand-topic. See [[reviews/optimistic-2026-04-30e]].
+- **Source**: chain (from optimistic-2026-04-30e)
+- **Generated**: 2026-05-01
+
+### P2: Cross-review topics/free-will.md to install bridging paragraph to topics/forward-in-time-conscious-selection.md trilemma
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-30e (Cross-Linking Suggestions). The 2026-04-30 21:20 UTC deep-review of `topics/forward-in-time-conscious-selection.md` installed a substantive trilemma-of-selection treatment at lines 168–171 that owns route (iii) — non-reducible primitive at the heart of the framework — as the Map's likely path. The free-will topic article is already in forward-in-time-conscious-selection's `topics:` frontmatter (forward link installed) but no substantive bridging paragraph noting the trilemma's relevance to the libertarian-free-will commitment is installed on the free-will side. The trilemma's route (iii) is the framework that preserves authorship without collapsing into either functionalism (route i) or randomness (route ii) — directly load-bearing for the Map's free-will treatment. Cross-review should (a) verify `topics/free-will.md` has `topics/forward-in-time-conscious-selection` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~75–120 words) at the natural anchor in free-will (likely the consciousness-physics-interface section, or the trilemma-of-selection section if one exists) noting that forward-in-time-conscious-selection provides the topic-level treatment of how route (iii) operates at the consciousness-physics interface; (c) verify wording does not duplicate the topic article's trilemma exposition — the bridging paragraph should locate the trilemma's relevance to free-will, not re-state it; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~100–180 words touched). Tenet alignment: Bidirectional Interaction, Dualism. See [[reviews/optimistic-2026-04-30e]].
+- **Source**: chain (from optimistic-2026-04-30e)
+- **Generated**: 2026-05-01
+
+### P2: Cross-review apex/post-decoherence-selection-programme.md to forward-link to topics/forward-in-time-conscious-selection.md as canonical worked example
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-30e (Cross-Linking Suggestions). The 2026-04-30 19:05 UTC coalesce of `non-retrocausal-conscious-selection-models` + `post-decoherence-selection-mechanisms` into `topics/forward-in-time-conscious-selection.md` produced the topic-layer treatment of two of the apex's five strands operating in coordination (von Neumann movable cut, relocated Stapp framework, actualisation model). The 2026-04-30 wikilink-repoint task explicitly noted that `apex/post-decoherence-selection-programme.md` had no references to either source slug — i.e., no link installed at all, not just missing repoint. The apex should now forward-link to the unified topic as the canonical worked example of three of its strands in integrated treatment. Cross-review should (a) verify `apex/post-decoherence-selection-programme.md` has `topics/forward-in-time-conscious-selection` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~75–150 words) at a natural anchor (likely the canonical-examples section if one exists, or the strand-integration discussion otherwise) noting that the unified topic is the canonical worked example of three strands in integrated treatment, with explicit pointers to the trilemma-of-selection and improper-mixture-FAPP-framing as the two structurally important methodological commitments the topic installs; (c) verify the bridging paragraph does not re-state the topic's exposition — the apex should locate the topic as worked example; the worked-example expansion belongs in the topic article; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~100–180 words touched). Tenet alignment: Dualism, Minimal Quantum Interaction, methodological. See [[reviews/optimistic-2026-04-30e]].
+- **Source**: chain (from optimistic-2026-04-30e)
+- **Generated**: 2026-05-01
+
+### P2: Cross-review concepts/categorical-surprise.md to install reciprocal link to concepts/creative-consciousness.md restructuring
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-30e (Cross-Linking Suggestions). The 2026-04-30 17:54 UTC coalesce / 19:39 UTC condense / 20:51 UTC deep-review of `concepts/creative-consciousness.md` installs at lines 95–96 the framing of creative restructuring as "a form of categorical surprise where the framework, not merely a prediction, collapses." The forward link is installed on the creative-consciousness side; the reverse link is not yet installed on the categorical-surprise side. The categorical-surprise article should have a reciprocal back-link noting creative restructuring as a Map-side exemplar of categorical surprise — when the framework (not merely a prediction) collapses. Cross-review should (a) verify `concepts/categorical-surprise.md` has `concepts/creative-consciousness` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~50–100 words) at the natural anchor in categorical-surprise (likely the worked-examples section or the framework-collapse discussion) noting creative restructuring as a Map-side exemplar of categorical surprise's framework-collapse subtype; (c) verify the bridging paragraph does not duplicate creative-consciousness's exposition — the categorical-surprise article should expound the categorical-surprise concept; the bridge should locate the creative-restructuring case as exemplar; (d) audit for "This is not X. It is Y." cliché violations (note: third deep-review of categorical-surprise on 2026-04-30 at 18:36 UTC already addressed two such violations — preserve the corrections). Short scope (~80–150 words touched). Tenet alignment: methodological — closing forward-only-cross-link defect after coalesce-and-deep-review. See [[reviews/optimistic-2026-04-30e]].
+- **Source**: chain (from optimistic-2026-04-30e)
+- **Generated**: 2026-05-01
 
 ### P3: Address pessimistic-review findings on topics/forward-in-time-conscious-selection.md
 - **Type**: refine-draft
