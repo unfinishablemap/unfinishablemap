@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 00:47:00+00:00
+ai_modified: 2026-05-01 00:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 00:56 UTC - deep-review
+- **Status**: Success (cross-review, reciprocal link installed)
+- **File**: [[concepts/intentionality]]
+- **Word count**: 3433 → 3475 (+42 words; 139% of 2500 soft cap, just under 3500 hard threshold)
+- **Critical issues addressed**: 0 (none found; article mature after seven reviews)
+- **Medium issues addressed**: 1 (missing reciprocal link to the-naturalisation-failure-for-content)
+- **Enhancements made**: 3 (frontmatter topic entry, inline pointer in Naturalization section, Further Reading entry)
+- **Context**: Cross-review triggered by creation of [[the-naturalisation-failure-for-content]] (2026-04-30). The new topic article references intentionality four times and explicitly frames itself as standing apart from this concept page; intentionality.md now reciprocates with three cross-references. Future reviews should treat the concept/topic distinction as established (concept surveys aboutness broadly; topic works through naturalisation dilemma against each resource).
+- **Output**: [[reviews/deep-review-2026-05-01-intentionality-naturalisation]]
 
 ## 2026-05-01 00:47 UTC - deep-review
 - **Status**: Success

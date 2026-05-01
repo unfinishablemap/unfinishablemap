@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/intentionality.md to install reciprocal link to topics/the-naturalisation-failure-for-content.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-30e (Cross-Linking Suggestions). The 2026-04-30 21:45 UTC creation of `topics/the-naturalisation-failure-for-content.md` forward-links to `concepts/intentionality.md` at lines 38, 64, 84, 94, 96 — five distinct anchors expounding aboutness as the irreducible feature the HPC argument turns on. The reverse link is not yet installed on the intentionality concept page. Cross-review should (a) verify `concepts/intentionality.md` has `topics/the-naturalisation-failure-for-content` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~50–100 words) at a natural anchor in the intentionality article noting the topic-level dialectical position the Map takes (HPC-as-naturalisation-failure, with Hutto and Myin's argument as the central exemplar); (c) verify wording does not duplicate the topic article's exposition — the concept page should expound aboutness; the bridging paragraph should point to the topic article as the canonical home of the dialectical-position treatment; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). **DISTINCT FROM** P3 task at todo.md:3210 which covers argument-from-reason ↔ consciousness-and-the-normativity-of-reason ↔ self-stultification reciprocal links — that task operates on the parallel-diagnosis-cluster anchors; this task operates on the aboutness-conceptual layer. Short scope (~80–150 words touched). Tenet alignment: Dualism, methodological — closing forward-only-cross-link defect after expand-topic. See [[reviews/optimistic-2026-04-30e]].
-- **Source**: chain (from optimistic-2026-04-30e)
-- **Generated**: 2026-05-01
-
 ### P2: Cross-review topics/free-will.md to install bridging paragraph to topics/forward-in-time-conscious-selection.md trilemma
 - **Type**: cross-review
 - **Status**: pending
@@ -3258,6 +3251,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Cross-review concepts/intentionality.md to install reciprocal link to topics/the-naturalisation-failure-for-content.md
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-30e (Cross-Linking Suggestions). The 2026-04-30 21:45 UTC creation of `topics/the-naturalisation-failure-for-content.md` forward-links to `concepts/intentionality.md` at lines 38, 64, 84, 94, 96 — five distinct anchors expounding aboutness as the irreducible feature the HPC argument turns on. The reverse link is not yet installed on the intentionality concept page. Cross-review should (a) verify `concepts/intentionality.md` has `topics/the-naturalisation-failure-for-content` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~50–100 words) at a natural anchor in the intentionality article noting the topic-level dialectical position the Map takes (HPC-as-naturalisation-failure, with Hutto and Myin's argument as the central exemplar); (c) verify wording does not duplicate the topic article's exposition — the concept page should expound aboutness; the bridging paragraph should point to the topic article as the canonical home of the dialectical-position treatment; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). **DISTINCT FROM** P3 task at todo.md:3210 which covers argument-from-reason ↔ consciousness-and-the-normativity-of-reason ↔ self-stultification reciprocal links — that task operates on the parallel-diagnosis-cluster anchors; this task operates on the aboutness-conceptual layer. Short scope (~80–150 words touched). Tenet alignment: Dualism, methodological — closing forward-only-cross-link defect after expand-topic. See [[reviews/optimistic-2026-04-30e]].
+- **Output**: obsidian/concepts/intentionality.md -- Context: Cross-review concepts/intentionality.md to install reciprocal link to topics/the-naturalisation-failure-for-content.md
 
 ### ✓ 2026-05-01: Reconcile apex/taxonomy-of-voids.md conjoint-voids list with apex/conjunction-coalesce.md cognate inventory
 - **Type**: cross-review
