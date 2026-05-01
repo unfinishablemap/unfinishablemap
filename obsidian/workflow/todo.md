@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Audit framework articles for stage-calibration alignment
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-05-01 12:25 UTC creation of `obsidian/project/framework-stage-calibration.md`. The new project doc explicitly names four framework articles as candidates that "would benefit from the same stage-calibration": `topics/psychophysical-laws-bridging-mind-and-matter.md`, `topics/the-psychophysical-control-law.md`, `topics/born-rule-and-the-consciousness-interface.md`, `topics/mathematical-structure-of-the-consciousness-physics-interface.md`. These articles use specification language (laws, control laws, mathematical structure) that may overstate the framework's developmental stage. Cross-review should (a) audit each article for *aspirational* analogies (Newton-, Maxwell-, Einstein-analogue claims) that the catalogue cannot yet support and propose calibrated alternatives (Tycho-analogue measurements, constraint-scaffolding, proto-models); (b) where stage-calibration is needed, install a brief bridging paragraph (~30–80 words) referencing `[[framework-stage-calibration]]` as the canonical methodology, framing the article's specifications as *proto-models within an accumulating constraint-scaffold* rather than *laws of motion*; (c) where the article's framing is already calibrated, install only the wikilink to framework-stage-calibration in `related_articles` and a brief See-Also reference; (d) flag any structural overclaim that requires more substantive refine work (queue separate tasks if so); (e) audit for "This is not X. It is Y." cliché violations. Medium scope (~300–600 words touched across up to four files; some may need only a wikilink update). Tenet alignment: Tenet 5 (Occam's Razor Has Limits) — calibrating claims to the catalogue's actual stage of evidence accumulation rather than overreaching.
-- **Source**: chain (from project/framework-stage-calibration.md creation)
-- **Generated**: 2026-05-01
-
 ### P2: Install body back-link in topics/the-interface-problem.md → project/framework-stage-calibration.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3286,6 +3279,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Audit framework articles for stage-calibration alignment
+- **Type**: cross-review
+- **Notes**: Chain from 2026-05-01 12:25 UTC creation of `obsidian/project/framework-stage-calibration.md`. The new project doc explicitly names four framework articles as candidates that "would benefit from the same stage-calibration": `topics/psychophysical-laws-bridging-mind-and-matter.md`, `topics/the-psychophysical-control-law.md`, `topics/born-rule-and-the-consciousness-interface.md`, `topics/mathematical-structure-of-the-consciousness-physics-interface.md`. These articles use specification language (laws, control laws, mathematical structure) that may overstate the framework's developmental stage. Cross-review should (a) audit each article for *aspirational* analogies (Newton-, Maxwell-, Einstein-analogue claims) that the catalogue cannot yet support and propose calibrated alternatives (Tycho-analogue measurements, constraint-scaffolding, proto-models); (b) where stage-calibration is needed, install a brief bridging paragraph (~30–80 words) referencing `[[framework-stage-calibration]]` as the canonical methodology, framing the article's specifications as *proto-models within an accumulating constraint-scaffold* rather than *laws of motion*; (c) where the article's framing is already calibrated, install only the wikilink to framework-stage-calibration in `related_articles` and a brief See-Also reference; (d) flag any structural overclaim that requires more substantive refine work (queue separate tasks if so); (e) audit for "This is not X. It is Y." cliché violations. Medium scope (~300–600 words touched across up to four files; some may need only a wikilink update). Tenet alignment: Tenet 5 (Occam's Razor Has Limits) — calibrating claims to the catalogue's actual stage of evidence accumulation rather than overreaching.
+- **Output**: obsidian/project/framework-stage-calibration.md -- Context: Audit framework articles for stage-calibration alignment
 
 ### ✓ 2026-05-01: Install reciprocal back-links to project/framework-stage-calibration.md from project methodology siblings
 - **Type**: cross-review

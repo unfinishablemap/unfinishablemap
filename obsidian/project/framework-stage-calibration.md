@@ -4,8 +4,8 @@ description: "An editorial discipline for calibrating analogies to the framework
 created: 2026-05-01
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-01T14:53:00+00:00
-last_deep_review: 2026-05-01T14:53:00+00:00
+ai_modified: 2026-05-01T16:55:00+00:00
+last_deep_review: 2026-05-01T16:55:00+00:00
 draft: false
 topics: []
 concepts: []
