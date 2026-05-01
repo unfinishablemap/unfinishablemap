@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-27 19:57:00+00:00
+ai_modified: 2026-05-01 21:33:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-03-22 13:36:00+00:00
+apex_last_synthesis: 2026-05-01 21:33:00+00:00
 apex_sources:
 - topics/meaning-of-life
 - topics/ethics-of-consciousness
 - topics/purpose-and-alignment
-- concepts/phenomenal-value-realism
-- concepts/phenomenal-normativity
+- topics/phenomenal-value-realism
+- concepts/evaluative-phenomenal-character
 - concepts/moral-responsibility
-- concepts/existentialism
+- concepts/nihilism-and-existentialism
 - topics/free-will
 apex_thesis: 'If consciousness is fundamental and our choices genuinely matter, then
   the quest to understand our situation—what we are, why we exist, what we should
@@ -29,7 +29,7 @@ concepts:
 - '[[process-philosophy]]'
 - '[[temporal-consciousness]]'
 created: 2026-01-31
-date: &id001 2026-03-06
+date: &id001 2026-05-01
 description: 'What consciousness-first philosophy means for daily life. The Map offers
   practical guidance: pursue answers because they may be within reach, and let that
   pursuit inform how you live.'
@@ -71,6 +71,8 @@ The practical implication follows: *attend to the quality of your conscious expe
 The Map's framework is not merely about what you are but about what you do. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that consciousness causally influences physical outcomes. Your choices are not epiphenomenal afterthoughts; they shape what happens.
 
 [Free will](/topics/free-will/), on this picture, operates through [agent causation](/concepts/agent-causation/). You—as a conscious being, not as a collection of prior causes—originate actions. Genuine choice requires [counterfactual reasoning](/concepts/counterfactual-reasoning/)—the capacity to imagine alternatives and evaluate what would follow from each. And consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Each exploratory movement of attention opens further possibilities that didn't exist before the exploration. You are an author, not a spectator—contributing both which options become actual and which options exist to begin with.
+
+The [control-theoretic](/concepts/control-theoretic-will/) picture clarifies what authorship demands. Consciousness need not compute outcomes from scratch; it gates, stabilises, and steers neural dynamics that the brain prepares. Most action is also [spontaneous](/concepts/spontaneous-intentional-action/)—reaching for a friend's hand, speaking a sentence that surprises you with its precision. These are authored without prior deliberation. Selection can be effortful or immediate. What varies is the difficulty of selection, not its nature.
 
 This transforms how choices feel. The [phenomenology of willing](/concepts/phenomenology-of-choice-and-volition/) reveals a structured process—initiation, sustained control, effort, and veto—each with its own experiential character, and clinical dissociations between agency and ownership confirm the structure tracks real causal differences rather than being blanket confabulation. The hesitation before a difficult decision, the felt strain of holding attention on a difficult option, the resolution when you commit: these track genuine causal engagement, not decorative afterthoughts. [Existentialist philosophy](/concepts/nihilism-and-existentialism/) captures the deeper structure: Sartre's "condemned to be free" describes the fact that consciousness is always able to take a stance toward its situation. The pour-soi's constitutive self-distance means you can never simply *be* your circumstances—you are always already beyond them, able to choose.
 
@@ -136,7 +138,9 @@ Second, uncertainty itself has practical implications. The [Occam's Razor Has Li
 
 Technology amplifies these stakes. Current AI systems lack consciousness on this analysis—they process information and generate sophisticated behaviour, but there is nothing it is like to be them. Yet the Map's [confidence about AI](/topics/ethics-of-consciousness/#what-would-change-the-ai-assessment) is only as strong as the framework itself. If consciousness doesn't require quantum interfaces—a possibility the Map acknowledges—the categorical exclusion fails. Intellectual honesty requires specifying what would change the assessment, and remaining epistemically humble about the framework's completeness.
 
-[AI alignment](/topics/purpose-and-alignment/) faces a deeper problem: we haven't resolved what human interests ultimately are. If our preferences are unreliable guides to our own good—shaped by evolution for survival rather than flourishing—then learning from them cannot produce genuine alignment. Conscious beings must remain in the loop, not because humans are infallible, but because only conscious beings can verify whether experiential quality is being served.
+[AI alignment](/topics/purpose-and-alignment/) faces a deeper problem: we haven't resolved what human interests ultimately are. If our preferences are unreliable guides to our own good—shaped by evolution for survival rather than flourishing—then learning from them cannot produce genuine alignment. The [experiential alignment](/concepts/experiential-alignment/) framework follows: aligned systems should target predicted distributions over conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices, with special weight to felt valence because the badness of suffering is constitutive of what suffering *is*. Conscious beings must remain in the loop, not because humans are infallible, but because only conscious beings can verify whether experiential quality is being served.
+
+A second limit is internal rather than technological. The [agency void](/voids/agency-void/) names a structural circularity: consciousness cannot verify its own causal power from inside, because every check is performed by the very faculty under investigation. This applies symmetrically to interactionism and its critics—both [epiphenomenalism](/concepts/epiphenomenalism/) and the Map's agent-causal framework hit the same first-person verification limit. The Map's case therefore rests on coherence with phenomenology, neural data, and convergent cross-cultural evidence, not on an introspective proof that no framework could deliver. Practical guidance follows the same shape: act on the framework that best integrates the evidence available, while accepting that some aspects of your own agency may remain structurally opaque. Buddhist Madhyamika offers a complementary positive view—*upādāna* and *duḥkha* form a competing analysis of choice and suffering rather than the Map's only rival being eliminativism—and the symmetric disagreement is itself a feature of the territory rather than a defect of either map.
 
 The appropriate response is to *keep inquiring*. The unfinishable aspect of the Map is built into its name. Understanding is a process, not a destination. [Mysterian](/concepts/mysterianism/) philosophy suggests some aspects of consciousness may exceed our cognitive capacity to fully comprehend—yet evidence can point toward truths we cannot fully articulate.
 
@@ -189,9 +193,18 @@ This apex article draws together practical implications from all five tenets:
 This apex article synthesizes:
 - [The Meaning of Life](/topics/meaning-of-life/) — Meaning grounded in consciousness itself, with contemplative evidence and process philosophy perspective
 - [Ethics of Consciousness](/topics/ethics-of-consciousness/) — How consciousness creates moral status and extends consideration to all sentient beings
-- [Purpose and AI Alignment](/topics/purpose-and-alignment/) — Why AI alignment faces the meaning problem and requires human judgment
+- [Purpose and AI Alignment](/topics/purpose-and-alignment/) — Why AI alignment faces the meaning problem and requires human judgment, with the experiential alignment framework as its constructive proposal
 - [Phenomenal Value Realism](/topics/phenomenal-value-realism/) — Value as a feature of experience, extended to phenomenal value pluralism
-- [Phenomenal Normativity](/concepts/evaluative-phenomenal-character/) — Why experience carries intrinsic normative force, grounding the is-ought bridge
-- [Moral Responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
-- [Existentialism](/concepts/nihilism-and-existentialism/) — Sartre's pour-soi and the structure of freedom
-- [Free Will and Determinism](/topics/free-will/) — The libertarian framework grounding genuine authorship
+- [Evaluative Phenomenal Character](/concepts/evaluative-phenomenal-character/) — Why experience carries intrinsic normative force, grounding the is-ought bridge
+- [Moral Responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert, with agency-void's symmetric verification limit
+- [Nihilism and Existentialism](/concepts/nihilism-and-existentialism/) — Sartre's pour-soi, Buddhist competing positive views, and the structure of freedom
+- [Free Will and Determinism](/topics/free-will/) — The libertarian framework grounding genuine authorship, including spontaneous and control-theoretic action
+
+## Further Reading
+
+- [agency-void](/voids/agency-void/) — Why first-person verification of causal power is structurally circular
+- [control-theoretic-will](/concepts/control-theoretic-will/) — Consciousness as low-bandwidth controller of neural dynamics
+- [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) — Authored action without prior deliberation
+- [experiential-alignment](/concepts/experiential-alignment/) — Targeting conscious experience rather than preferences in alignment
+- [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages genuine agency versus running on scripts
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What genuine agency implies for obligation and character
