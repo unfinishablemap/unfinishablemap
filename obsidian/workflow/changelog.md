@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T08:30:00+00:00
+ai_modified: 2026-05-01T08:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 08:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-phenomenology-and-the-irreducibility-of-thought]]
+- **Cross-review trigger**: Mirror the seven `[[pessimistic-2026-05-01]]` fixes (applied to the [[cognitive-phenomenology|concept page]]) into the topic exemplar where structurally relevant. The 2026-04-29 hub/exemplar pairing requires parity audits when the concept page receives revisions of this magnitude.
+- **Word count**: 2350 → 2428 (+78; 81% of 3000 soft target — well below threshold)
+- **Critical issues addressed**: 0 new; 2 of 7 pessimistic-2026-05-01 echoes mirrored from concept page (PCT framing, MQI tenet bridge) plus 1 counterargument-framing echo (click of comprehension)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 — (1) PCT introduced as abductive bet with Chudnoff acknowledgment and rabbits/symbol-grounding conclusions explicitly conditional on PCT; (2) MQI bridge rewritten as honest non-link, declining the structural-metaphor temptation and redirecting to [[neural-implementation-specifics]]; (3) "click of understanding" rewritten with two-reading framing, removing the "is not X — it is Y" cliché the style guide prohibits
+- **Pessimistic issues not applicable**: 5 of 7 (Würzburg-Titchener, Tallis, methodological asymmetry, Introspective-Limits self-undermining, falsification/irresolvability contradiction) — none have structural analogues in the topic article
+- **Attribution check**: All citations verified; PCT now correctly framed as contested intra-liberal commitment; MQI bridge no longer claims load-bearing quantum interactionism; no qualifier drops; no source/Map conflation
+- **Output**: [[reviews/deep-review-2026-05-01b-cognitive-phenomenology-and-the-irreducibility-of-thought]]
 
 ## 2026-05-01 08:28 UTC - deep-review
 - **Status**: Success (stability-confirming)
