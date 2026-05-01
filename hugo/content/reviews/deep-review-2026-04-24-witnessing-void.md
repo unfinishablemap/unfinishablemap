@@ -32,7 +32,7 @@ None. Attribution check passed on all load-bearing citations (Albahari 2009, Zah
 - **Zahavi-minimal-self connection not explicit**: The "attenuable without being eliminable" passage parallels the zahavian-minimal-self treatment of constitutive-in-kind-not-uniformity-of-intensity. *Resolution: added inline reference in the weak-challenge discussion.*
 
 ### Counterarguments Considered
-- **Buddhist no-self objection (Mādhyamaka)**: The article cites Buddhist convergence as cartographic evidence but does not engage the sharper Mādhyamaka claim that the witness itself is *śūnya* (empty). This is flagged as a stability note rather than a critical issue — the deeper treatment belongs in [zahavian-minimal-self](/concepts/zahavian-minimal-self/) and [buddhism-and-dualism](/concepts/buddhism-and-dualism/), not in every article that touches witness-consciousness.
+- **Buddhist no-self objection (Mādhyamaka)**: The article cites Buddhist convergence as cartographic evidence but does not engage the sharper Mādhyamaka claim that the witness itself is *śūnya* (empty). This is flagged as a stability note rather than a critical issue — the deeper treatment belongs in [zahavian-minimal-self](/concepts/self-and-self-consciousness/) and [buddhism-and-dualism](/concepts/buddhism-and-dualism/), not in every article that touches witness-consciousness.
 - **Attribution of "background hum" to Chalmers**: Presented as Chalmers' phenomenological observation. Chalmers does discuss phenomenological residue in *The Conscious Mind* (1996) in compatible terms; the attribution is defensible but not a direct quotation. Left as-is (article uses single quotes around the phrase as terminology rather than as a direct quote with page citation).
 
 ## Optimistic Analysis Summary
@@ -59,7 +59,7 @@ None. Attribution check passed on all load-bearing citations (Albahari 2009, Zah
 5. [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Added witnessing-boundary to the Multiple Edges list; Further Reading entry.
 6. [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Added to related_articles; inline mention in the Regress Problem section tying the phenomenological aptness to the void's epistemic consequence.
 7. [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Added to the Self-Knowledge Cluster list with explicit differentia.
-8. [zahavian-minimal-self](/concepts/zahavian-minimal-self/) — Added to related_articles (Zahavi is a load-bearing citation in witnessing-void).
+8. [zahavian-minimal-self](/concepts/self-and-self-consciousness/) — Added to related_articles (Zahavi is a load-bearing citation in witnessing-void).
 
 ## Remaining Items
 

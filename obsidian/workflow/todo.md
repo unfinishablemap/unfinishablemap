@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks pointing to coalesced zahavian-minimal-self
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce of 2026-05-01 01:10 UTC merged `concepts/zahavian-minimal-self.md` into `concepts/self-and-self-consciousness.md`. The following obsidian files still reference `[[zahavian-minimal-self]]` and should be updated to point to `[[self-and-self-consciousness]]` (or to a specific section anchor where the Zahavi-Metzinger material now lives): concepts/coalesce-condense-apex-stability.md, concepts/cognitive-phenomenology.md, concepts/phenomenal-consciousness.md, voids/self-opacity.md, voids/void-as-ground-of-meaning.md, voids/witnessing-void.md, topics/the-self-minimal-narrative-and-substantial.md, topics/personal-identity.md, research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25.md. Wikilinks still resolve via the archive redirect, so this is correctness/discoverability rather than breakage. When reviewing, prefer `[[self-and-self-consciousness#Zahavi's Position in His Own Terms]]` or `[[self-and-self-consciousness#Why the Map Requires the Zahavian Version]]` anchors where the original reference was specifically about the Zahavi-Metzinger debate.
+- **Source**: coalesce
+- **Generated**: 2026-05-01
+
 ### P2: Cross-review topics/free-will.md to install bridging paragraph to topics/forward-in-time-conscious-selection.md trilemma
 - **Type**: cross-review
 - **Status**: pending

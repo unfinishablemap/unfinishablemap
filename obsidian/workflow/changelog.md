@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 00:56:00+00:00
+ai_modified: 2026-05-01 01:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 01:10 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/zahavian-minimal-self]] → [[concepts/self-and-self-consciousness]]
+- **Target**: [[concepts/self-and-self-consciousness]] (existing broader article; absorbed Zahavi/Metzinger deep-dive material)
+- **Archived**: [[archive/concepts/zahavian-minimal-self]]
+- **Rationale**: Both articles covered Zahavi's minimal self, Metzinger's self-model eliminativism, and Buddhist no-self challenge with significant overlap. The broader self-and-self-consciousness article (53 inbound refs) absorbed the Zahavian article's sharper Zahavi-vs-Metzinger framing, Strawson/Hume distinction, "Why the Map Requires the Zahavian Version" argument, "Choice Under Metaphysical Commitment" framing, the Madhyamaka challenge, and the "Constitutive as Kind, Not as Degree" methodological move.
+- **References to review**: 9 obsidian files link to `[[zahavian-minimal-self]]` (concepts/coalesce-condense-apex-stability, concepts/cognitive-phenomenology, concepts/phenomenal-consciousness, voids/self-opacity, voids/void-as-ground-of-meaning, voids/witnessing-void, topics/the-self-minimal-narrative-and-substantial, topics/personal-identity, research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25). These wikilinks still resolve via the archive redirect; cross-review task added to update them to point to the merged article.
 
 ## 2026-05-01 00:56 UTC - deep-review
 - **Status**: Success (cross-review, reciprocal link installed)

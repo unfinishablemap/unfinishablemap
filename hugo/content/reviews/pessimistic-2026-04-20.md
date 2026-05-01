@@ -158,7 +158,7 @@ Despite the criticisms, several elements work well and should be preserved durin
 
 - **Citation density**: The bibliography is substantive and well-targeted; Berghofer 2019/2023 and Himanka 2018 are the right contemporary anchors for the technical claims.
 - **Engagement with critics**: Dennett and Schwitzgebel are named and engaged, not dismissed. The Schwitzgebel/disciplined-vs-naive-introspection distinction is a fair response and well-stated.
-- **Cross-reference to the Zahavi/Metzinger worked example**: line 58's pointer to "[the Zahavi/Metzinger worked example](/concepts/zahavian-minimal-self/#choice-under-metaphysical-commitment), developed in response to [pessimistic-2026-04-18b](/reviews/pessimistic-2026-04-18b/)" is exactly the kind of internal-thread connectivity the Map should be building.
+- **Cross-reference to the Zahavi/Metzinger worked example**: line 58's pointer to "[the Zahavi/Metzinger worked example](/concepts/self-and-self-consciousness/#choice-under-metaphysical-commitment), developed in response to [pessimistic-2026-04-18b](/reviews/pessimistic-2026-04-18b/)" is exactly the kind of internal-thread connectivity the Map should be building.
 - **Microphenomenological-method integration**: The 2026-04-20 cross-review's addition of the epilepsy-prodrome example with explicit Husserlian-taxonomy mapping (line 105) is a strong empirical anchor for the otherwise abstract evidence-types discussion.
 - **Tenet alignment is explicit and substantive**: The Relation to Site Perspective section connects to three tenets, not just one, and explains the connection rather than asserting it.
 

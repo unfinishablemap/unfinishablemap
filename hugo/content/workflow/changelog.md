@@ -1,13 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 00:47:00+00:00
+ai_modified: 2026-05-01 01:15:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-01 01:10 UTC - coalesce
+- **Status**: Success
+- **Sources**: [zahavian-minimal-self](/concepts/zahavian-minimal-self/) → [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+- **Target**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/) (existing broader article; absorbed Zahavi/Metzinger deep-dive material)
+- **Archived**: [zahavian-minimal-self](/archive/concepts/zahavian-minimal-self/)
+- **Rationale**: Both articles covered Zahavi's minimal self, Metzinger's self-model eliminativism, and Buddhist no-self challenge with significant overlap. The broader self-and-self-consciousness article (53 inbound refs) absorbed the Zahavian article's sharper Zahavi-vs-Metzinger framing, Strawson/Hume distinction, "Why the Map Requires the Zahavian Version" argument, "Choice Under Metaphysical Commitment" framing, the Madhyamaka challenge, and the "Constitutive as Kind, Not as Degree" methodological move.
+- **References to review**: 9 obsidian files link to `[zahavian-minimal-self](/concepts/self-and-self-consciousness/)` (concepts/coalesce-condense-apex-stability, concepts/cognitive-phenomenology, concepts/phenomenal-consciousness, voids/self-opacity, voids/void-as-ground-of-meaning, voids/witnessing-void, topics/the-self-minimal-narrative-and-substantial, topics/personal-identity, research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25). These wikilinks still resolve via the archive redirect; cross-review task added to update them to point to the merged article.
+
+## 2026-05-01 00:56 UTC - deep-review
+- **Status**: Success (cross-review, reciprocal link installed)
+- **File**: [intentionality](/concepts/intentionality/)
+- **Word count**: 3433 → 3475 (+42 words; 139% of 2500 soft cap, just under 3500 hard threshold)
+- **Critical issues addressed**: 0 (none found; article mature after seven reviews)
+- **Medium issues addressed**: 1 (missing reciprocal link to the-naturalisation-failure-for-content)
+- **Enhancements made**: 3 (frontmatter topic entry, inline pointer in Naturalization section, Further Reading entry)
+- **Context**: Cross-review triggered by creation of [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) (2026-04-30). The new topic article references intentionality four times and explicitly frames itself as standing apart from this concept page; intentionality.md now reciprocates with three cross-references. Future reviews should treat the concept/topic distinction as established (concept surveys aboutness broadly; topic works through naturalisation dilemma against each resource).
+- **Output**: [deep-review-2026-05-01-intentionality-naturalisation](/reviews/deep-review-2026-05-01-intentionality-naturalisation/)
 
 ## 2026-05-01 00:47 UTC - deep-review
 - **Status**: Success

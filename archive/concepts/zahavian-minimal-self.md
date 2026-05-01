@@ -2,10 +2,15 @@
 title: "Zahavian Minimal Self (vs Metzinger)"
 description: "Dan Zahavi defends a pre-reflective minimal self as the constitutive form of every conscious experience. The Map adopts this over Metzinger's self-model eliminativism."
 created: 2026-04-18
-modified: 2026-04-18
+modified: 2026-05-01
 human_modified:
-ai_modified: 2026-04-30T02:55:00+00:00
+ai_modified: 2026-05-01T01:15:00+00:00
 draft: false
+archived: true
+archived_date: 2026-05-01T01:15:00+00:00
+superseded_by: "/concepts/self-and-self-consciousness/"
+archive_reason: "Coalesced into Self and Self-Consciousness"
+original_path: "/concepts/zahavian-minimal-self/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[psychedelics-and-the-filter-model]]"

@@ -24,7 +24,7 @@ topics: []
 
 Since the previous review (2026-03-23), this article received three substantive changes plus minor link maintenance:
 
-1. **New section**: "Constitutive as Kind, Not as Degree" (~250 words) — methodological clarification distinguishing the kind-claim about phenomenal character from a stronger uniformity claim. Cross-references [zahavian-minimal-self](/concepts/zahavian-minimal-self/) as exemplar of the same move.
+1. **New section**: "Constitutive as Kind, Not as Degree" (~250 words) — methodological clarification distinguishing the kind-claim about phenomenal character from a stronger uniformity claim. Cross-references [zahavian-minimal-self](/concepts/self-and-self-consciousness/) as exemplar of the same move.
 2. **New extended-cognition sentence** in the A/P distinction section: notes that A-consciousness plausibly extends into tools via functional parity while P-consciousness does not, framing the asymmetry as evidence for the dualist case. Links to [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/).
 3. **Wikilink update**: `[architecture-of-cognitive-closure](/voids/biological-cognitive-closure/)` → `[biological-cognitive-closure](/voids/biological-cognitive-closure/)` after coalesce of cognitive-closure articles.
 4. Minor: opening paragraph wikilink to `[perception](/concepts/perception/)`; Further Reading entry for `[types-of-ai-phenomenal-experience](/concepts/ai-consciousness-typology/)`.
@@ -65,7 +65,7 @@ This article is exposition rather than source-based interpretation, so attributi
 - Jackson (1982) Mary's Room: accurate
 - McGinn (1989) cognitive closure: accurate
 - Frankish (2016) illusionism: accurate
-- New "exemplar treatment ... in [zahavian-minimal-self](/concepts/zahavian-minimal-self/)" cross-reference: target file exists; the constitutive-vs-scalar move is genuinely the one that article makes for first-personal givenness, so the cross-link is accurate.
+- New "exemplar treatment ... in [zahavian-minimal-self](/concepts/self-and-self-consciousness/)" cross-reference: target file exists; the constitutive-vs-scalar move is genuinely the one that article makes for first-personal givenness, so the cross-link is accurate.
 - New "[biological-cognitive-closure](/voids/biological-cognitive-closure/)" wikilink: resolves to existing file at obsidian/voids/biological-cognitive-closure.md; Hugo target exists.
 
 No misattribution, dropped qualifiers, overstated positions, or source/Map conflation.

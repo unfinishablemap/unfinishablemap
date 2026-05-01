@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-18
-**Article**: [Zahavian Minimal Self (vs Metzinger)](/concepts/zahavian-minimal-self/)
+**Article**: [Zahavian Minimal Self (vs Metzinger)](/concepts/self-and-self-consciousness/)
 **Previous review**: [2026-04-18 (pessimistic)](/reviews/pessimistic-2026-04-18b/) — addressed in commit c805381a2
 
 ## Pessimistic Analysis Summary

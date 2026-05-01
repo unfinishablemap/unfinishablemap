@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-27 03:00:00+00:00
+ai_modified: 2026-05-01 00:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: 'The aboutness of mental states: why thoughts are directed at objec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 03:00:00+00:00
+last_deep_review: 2026-05-01 00:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,6 +40,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
 - '[[phenomenology-of-intellectual-life]]'
+- '[[the-naturalisation-failure-for-content]]'
 ---
 
 Intentionality is the "aboutness" of mental states—their directedness toward objects, states of affairs, or contents. When you believe that snow is white, your belief is *about* snow. When you fear a spider, your fear is *directed at* the spider. This directedness is what philosophers call intentionality, and it remains one of [philosophy of mind](/concepts/philosophy-of-mind/)'s core puzzles.
@@ -82,7 +83,7 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 
 The [symbol grounding problem](/concepts/symbol-grounding-problem/) sharpens this challenge for computational systems: symbols cannot acquire meaning intrinsic to the system without some foothold in genuine understanding.
 
-No naturalistic theory has achieved consensus after over a century of attempts. Hutto and Myin's [Hard Problem of Content](/concepts/hard-problem-of-content/) gives the failure its sharpest formulation: covariational and teleosemantic resources deliver causal and statistical facts but never the normative dimension semantic content requires. Their conclusion is deflationary—basic minds are contentless, content a sociocultural achievement. PIT draws the converse conclusion the Map endorses: content is real, its grounding non-physical. The [meaning void](/voids/meaning-void/) explores why the mechanism of reference may lie below the threshold of formal modelling, supporting the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet.
+No naturalistic theory has achieved consensus after over a century of attempts. Hutto and Myin's [Hard Problem of Content](/concepts/hard-problem-of-content/) gives the failure its sharpest formulation: covariational and teleosemantic resources deliver causal and statistical facts but never the normative dimension semantic content requires. Their conclusion is deflationary—basic minds are contentless, content a sociocultural achievement. PIT draws the converse conclusion the Map endorses: content is real, its grounding non-physical. The [naturalisation failure for content](/topics/the-naturalisation-failure-for-content/) topic article develops this diagnosis as a stand-alone argument running parallel to the phenomenal hard problem. The [meaning void](/voids/meaning-void/) explores why the mechanism of reference may lie below the threshold of formal modelling, supporting the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet.
 
 ## Phenomenal Intentionality Theory
 
@@ -245,6 +246,7 @@ Intentionality connects to all five foundational tenets:
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — The phenomenal intentionality case applied to thought
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that intentionality parallels
 - [hard-problem-of-content](/concepts/hard-problem-of-content/) — Hutto and Myin's structural argument that naturalism cannot deliver semantic content; PIT and REC are converse responses
+- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — Topic-level treatment: the dilemma against covariation, teleosemantics, and predictive processing, and what the Map inherits from the diagnosis
 - [ai-consciousness](/topics/ai-consciousness/) — Why original intentionality matters for AI
 - [functionalism](/concepts/functionalism/) — A view that PIT challenges
 - [qualia](/concepts/qualia/) — The phenomenal properties that may ground intentionality
