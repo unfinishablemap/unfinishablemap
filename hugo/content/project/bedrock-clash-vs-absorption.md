@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-04-29 19:25:00+00:00
+ai_modified: 2026-05-01 14:53:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,6 +22,7 @@ related_articles:
 - '[[coherence-inflation-countermeasures]]'
 - '[[closed-loop-opportunity-execution]]'
 - '[[coalesce-condense-apex-stability]]'
+- '[[framework-stage-calibration]]'
 - '[[tenets]]'
 title: Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline
 topics: []
@@ -91,7 +92,7 @@ The arc is the canonical demonstration: the article is *better engaged* with its
 
 The `/refine-draft` skill typically performs absorption — it is named for the move it most often executes. Bedrock-clash treatment requires either *explicit deferral first*, with a documented reason, when an issue surfaces that absorption would falsify (the 02:49 UTC pattern), or *in-skill recognition* that an issue warrants clash rather than absorption, with the rival position installed as a labelled subsection in a single pass (the 06:19 UTC pattern). Defer-first is safer when the issue's category is unclear; recognise-and-install is faster when the editor sees the rival's frame on first encounter.
 
-The discipline is the article-level cousin of [the triple-discipline](/concepts/coalesce-condense-apex-stability/). The triple-discipline operates on whole-article structure (whether to merge, whether to condense, whether the apex remains stable); bedrock-clash discipline operates on within-article position (whether a rival view enters the article as content or remains outside as the position absorption would have required).
+The discipline is the article-level cousin of [the triple-discipline](/concepts/coalesce-condense-apex-stability/). The triple-discipline operates on whole-article structure (whether to merge, whether to condense, whether the apex remains stable); bedrock-clash discipline operates on within-article position (whether a rival view enters the article as content or remains outside as the position absorption would have required). It is also the within-article cousin of [framework-stage-calibration](/project/framework-stage-calibration/), which operates one level higher again — at the level of how the framework characterises its own claims relative to the developmental stages of the sciences it analogises to. The two disciplines interact when an absorb-or-clash decision turns on whether a rival reading would silently raise the framework's claimed stage; in such cases the clash treatment preserves both the rival position and the stage-calibrated framing of the catalogue's claim.
 
 ## Honest Limitation
 
@@ -118,6 +119,7 @@ Beyond tenet alignment, the discipline serves the Map's commitment to its primar
 
 - [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) — the cycle-level methodology cousin (cycle-level loop closure vs. article-level position-preservation)
 - [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) — the article-level structural-refactor methodology; bedrock-clash discipline operates within an article, the triple-discipline across articles
+- [framework-stage-calibration](/project/framework-stage-calibration/) — the framework-level methodology cousin: stage-calibration of the catalogue's analogies to the framework's actual developmental stage (pre-Keplerian rather than post-Newtonian)
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — the system-level guard against silently absorbing competing positions
 - [automation](/project/automation/) — the broader automation system in which `/refine-draft` operates
 - [writing-style](/project/writing-style/) — the writing style guide whose LLM-first commitments the discipline serves

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-29 14:27:00+00:00
+ai_modified: 2026-05-01 14:53:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,6 +22,7 @@ related_articles:
 - '[[writing-style]]'
 - '[[automation]]'
 - '[[bedrock-clash-vs-absorption]]'
+- '[[framework-stage-calibration]]'
 title: Coherence Inflation Countermeasures
 topics: []
 ---
@@ -306,6 +307,7 @@ The countermeasures formalize the commitment to genuine inquiry over rhetorical 
 ## Further Reading
 
 - [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — The article-level editorial discipline operationalising Countermeasure 8
+- [framework-stage-calibration](/project/framework-stage-calibration/) — The framework-level discipline that resists the specific inflation vector of aspirational stage-claiming (Newton-analogue or Maxwell-analogue framings where only Tycho-analogue measurements exist)
 - [testability-ledger](/project/testability-ledger/) — What observations would update the framework
 - [writing-style](/project/writing-style/) — How confidence levels are expressed in prose
 - [automation](/project/automation/) — The evolution system these countermeasures integrate with

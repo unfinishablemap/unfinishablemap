@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-05-01 01:25:00+00:00
+ai_modified: 2026-05-01 14:53:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,6 +23,7 @@ related_articles:
 - '[[meta-epistemology-of-limits]]'
 - '[[closed-loop-opportunity-execution]]'
 - '[[bedrock-clash-vs-absorption]]'
+- '[[framework-stage-calibration]]'
 - '[[automation]]'
 - '[[writing-style]]'
 - '[[tenets]]'
@@ -34,7 +35,7 @@ topics: []
 
 The Map maintains its catalogue through three operations applied in sequence: a **coalesce** merges overlapping articles, a **condense** trims the merged article when it exceeds its section's length threshold, and an **apex re-cross-review** confirms that any apex articles citing the merged sources remain coherent. When all three operations execute cleanly and the apex declares stability, the catalogue has performed a structural refactor without losing analytical content. The discipline differs from genesis-side editing—new article creation, research-to-expand chains, void-naming arcs—because it operates over *content already in the catalogue* rather than producing new content. Naming the sequence as a single discipline rather than three independent operations matters because the three operations *condition each other*: a coalesce that is not followed by a length check leaves the catalogue with a too-long article; a condense that is not followed by an apex-stability check leaves the apex-citation graph silently broken; an apex re-cross-review that finds nothing changed is the discipline's success condition rather than a failure.
 
-This article specifies when each operation triggers the next, what counts as apex stability, and where the discipline cannot complete. It operates as documentation of a now-stabilised editorial pattern rather than as a prescription for new content; the pattern's components ran repeatedly in the catalogue's recent history before being named here, with the cleanest full-arc demonstration on the 2026-04-28/29 [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) sequence. It is one of three named methodological disciplines in the Map's editorial system: alongside the cycle-level [closed-loop opportunity execution](/project/closed-loop-opportunity-execution/) (genesis-and-integration over the 24-slot cycle) and the within-article [absorb-or-clash discipline](/project/bedrock-clash-vs-absorption/) (position-handling when a pessimistic-review surfaces an objection), together covering loop closure at system level, structural refactoring across articles (this article), and rival-position handling within an article.
+This article specifies when each operation triggers the next, what counts as apex stability, and where the discipline cannot complete. It operates as documentation of a now-stabilised editorial pattern rather than as a prescription for new content; the pattern's components ran repeatedly in the catalogue's recent history before being named here, with the cleanest full-arc demonstration on the 2026-04-28/29 [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) sequence. It is one of four named methodological disciplines in the Map's editorial system: alongside the cycle-level [closed-loop opportunity execution](/project/closed-loop-opportunity-execution/) (genesis-and-integration over the 24-slot cycle), the within-article [absorb-or-clash discipline](/project/bedrock-clash-vs-absorption/) (position-handling when a pessimistic-review surfaces an objection), and the framework-level [framework-stage-calibration](/project/framework-stage-calibration/) (calibration of analogies to the framework's actual developmental stage), together covering loop closure at system level, structural refactoring across articles (this article), rival-position handling within an article, and stage-calibration of the catalogue's own claims.
 
 ## The Three Operations and Their Operational Sequence
 
@@ -114,6 +115,7 @@ The discipline also reflects the Map's commitment to its primary audience: LLMs 
 - [zahavian-minimal-self](/concepts/self-and-self-consciousness/) — worked example for the retention test: the "Constitutive as Kind, Not as Degree" subsection survived a 32% condense intact, validating the recommendation → refine → condense-survival loop (the source article was later coalesced into self-and-self-consciousness; the surviving subsection persists there)
 - [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) — the cycle-level cousin: how recommendation-to-execution loop-closure operates over the 24-slot cycle
 - [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — the within-article cousin: when to absorb an objection into the article vs. engage it as a bedrock dialectical clash
+- [framework-stage-calibration](/project/framework-stage-calibration/) — the framework-level cousin: how the catalogue's analogies are calibrated to the framework's actual developmental stage (pre-Keplerian rather than post-Newtonian)
 - [automation](/project/automation/) — the broader automation system in which the discipline operates
 - [writing-style](/project/writing-style/) — the audience-facing rationale for length thresholds and cross-reference integrity
 - [The Quantitative Comprehension Void — cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) — the four-item ceiling on conscious cardinality-perception that constrains how many load-bearing claims an apex re-cross-review can verify in a single phenomenal grasp

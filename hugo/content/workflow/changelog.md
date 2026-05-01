@@ -1,13 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 11:40:00+00:00
+ai_modified: 2026-05-01 16:55:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-01 16:55 UTC - deep-review
+- **Status**: Success (convergence — no critical issues)
+- **File**: [framework-stage-calibration](/project/framework-stage-calibration/)
+- **Word count**: 2425 → 2425 (no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral mode — article at 97% of soft threshold)
+- **Output**: [deep-review-2026-05-01b-framework-stage-calibration](/reviews/deep-review-2026-05-01b-framework-stage-calibration/)
+- **Stability**: Second review of the same day (~2 hours after the 14:53 UTC review). Verified attribution accuracy on a fresh sweep, confirmed cross-article "four named methodological disciplines" framing intact across closed-loop, coalesce-condense-apex-stability, framework-stage-calibration; verified all five sibling back-links remain installed; ran a self-application check (does the article apply its own discipline to itself coherently — pass). Per the convergence rule, no body changes proposed.
+- **Uncommitted per task brief** (automation system handles commit).
+
+## 2026-05-01 14:53 UTC - deep-review
+- **Status**: Success
+- **File**: [framework-stage-calibration](/project/framework-stage-calibration/)
+- **Word count**: 2223 → 2425 (+202)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (sibling-cluster framing expanded from two to three peers, naming the four-discipline cluster; physicalist re-reading of Tycho-analogues acknowledged as a third Honest Limitation paragraph)
+- **Enhancements made**: Reciprocal back-links installed across the methodology cluster — `closed-loop-opportunity-execution`, `bedrock-clash-vs-absorption`, `coherence-inflation-countermeasures`, `coalesce-condense-apex-stability`, and `testability-ledger` now link back to `framework-stage-calibration` (related_articles + Further Reading entries; cluster framings updated to "four named methodological disciplines" in `closed-loop-opportunity-execution.md` and `coalesce-condense-apex-stability.md`)
+- **Output**: [deep-review-2026-05-01-framework-stage-calibration](/reviews/deep-review-2026-05-01-framework-stage-calibration/)
+- **Stability**: First review of the project-doc (created 12:25 UTC same day); attribution checks pass; pre-Keplerian framing and Honest Limitation structure now load-bearing per stability notes
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-01 12:47 UTC - deep-review
 - **Status**: Success
