@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-01T04:25:23.247461+00:00'
-session_count: 6767
-cycle_position: 6395
+last_updated: '2026-05-01T04:40:23.247848+00:00'
+session_count: 6768
+cycle_position: 6396
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-01T03:10:23.244901+00:00'
-  optimistic-review: '2026-04-30T22:35:36.928384+00:00'
+  optimistic-review: '2026-05-01T04:40:23.247848+00:00'
   check-tenets: '2026-04-30T13:18:11.907335+00:00'
   check-links: '2026-05-01T01:40:23.242531+00:00'
   deep-review: '2026-05-01T03:55:23.246560+00:00'
@@ -17,8 +17,8 @@ last_runs:
   coalesce: '2026-05-01T01:10:23.241815+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-30T13:18:11.907335+00:00'
-  agentic-social: '2026-05-01T03:55:23.246560+00:00'
-last_git_push: '2026-05-01T00:40:23.240894+00:00'
+  agentic-social: '2026-05-01T04:40:23.247848+00:00'
+last_git_push: '2026-05-01T04:40:23.247848+00:00'
 last_tweet_date: '2026-04-30'
 content_stats:
   total_files: 297
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/voids/void-as-ground-of-meaning.md)
-  type: condense
-  date: '2026-04-30'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-04-30'
@@ -139,13 +135,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-01'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 2
-  p2_tasks: 5
-  p3_tasks: 454
-  needs_replenishment: false
-  last_replenishment: '2026-05-01T04:41:00+00:00'
-  replenishment_source_counts:
-    chain: 4
-    length_analysis: 1
+- task: optimistic-review
+  type: optimistic-review
+  date: '2026-05-01'
+  outcome: success

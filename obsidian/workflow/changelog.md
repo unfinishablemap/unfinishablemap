@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T04:47:00+00:00
+ai_modified: 2026-05-01T04:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 04:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/cognitive-phenomenology]]
+- **Trigger**: Second-pass refine-draft addressing items the 03:25 UTC first pass missed from `reviews/pessimistic-2026-05-01` — primarily the Buddhist-jhāna mis-citation flagged at the end of Issue 7 (formless attainments are progressive deconstructions ending in cessation of perception and feeling; they support dismantlability not constitutive necessity), plus two unsupported-claim hedges (Amplification Thesis "if reasoning were phenomenally empty"; Unusual-cases "pre-reflective cognitive content") and one rhetorical-phrase tightening ("honest cartography requires marking where the dialectic structurally cannot close").
+- **Word count**: ~5660 → ~5910 (+250; restricted-constitutive-claim concession to contemplative discipline added explicit ground)
+- **Critical issues addressed**: 1 (Buddhist-jhāna mis-citation, the final outstanding High-severity item from Issue 7)
+- **Medium issues addressed**: 2 (amplification-thesis hedge with conservative-reading parity; pre-reflective-content qualifier)
+- **Coordination**: Pairs with the queued P1 condense task on the same file. Sequencing as anticipated by the original task's CO-ORDINATION NOTE: refine-first, condense-next. Article is now ~5910 words, well above the 5000-word concept critical threshold; condense should run next to bring it back into range.
+- **Output**: revised concepts/cognitive-phenomenology.md; refinement log appended for human review
+- **Published**: yes (kept `draft: false`)
 
 ## 2026-05-01 04:47 UTC - optimistic-review
 - **Status**: Success
