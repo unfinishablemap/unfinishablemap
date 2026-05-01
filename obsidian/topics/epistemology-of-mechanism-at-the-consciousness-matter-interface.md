@@ -4,7 +4,7 @@ description: "What kind of knowledge is possible about how consciousness interac
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-05-01T07:25:00+00:00
+ai_modified: 2026-05-01T08:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
-last_deep_review: 2026-03-21T02:13:00+00:00
+last_deep_review: 2026-05-01T08:30:00+00:00
 ---
 
 Can we know *how* consciousness interacts with matter, or only *that* it does? The Unfinishable Map's interactionist framework asserts bidirectional causation between mind and body—but this commitment raises a question that precedes the search for specific mechanisms: what kind of knowledge about the interface is epistemically available to us? The [[the-interface-problem|specification problem]] asks what a complete theory must contain. This article asks the prior question: what epistemic tools and methods can reach the interface at all, and what structural features of the problem constrain what we can learn?
