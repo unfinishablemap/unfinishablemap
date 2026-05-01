@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T05:55:00+00:00
+ai_modified: 2026-05-01T06:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 06:11 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/interface-specification-programme]]
+- **Word count**: 3512 → 3512 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (wikilink updates following coalescence of `the-interface-specification-problem` into `the-interface-problem`)
+- **Notes**: Targeted link-maintenance review. Article remains stable per 2026-04-21 review. Updated `[[the-interface-specification-problem]]` → `[[the-interface-problem]]` in `related_articles` and in the inline reference at the head of "The Specification Gap" section; display text "interface specification problem" preserved to scope which aspect of the combined target is being invoked.
+- **Output**: [[reviews/deep-review-2026-05-01-interface-specification-programme]]
 
 ## 2026-05-01 05:55 UTC - coalesce
 - **Status**: Success
