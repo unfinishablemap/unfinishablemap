@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T03:25:00+00:00
+ai_modified: 2026-05-01T03:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 03:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/explanatory-gap]]
+- **Trigger**: Cross-review prompted by creation of [[topics/the-naturalisation-failure-for-content]] (2026-04-30)
+- **Word count**: 3427 → 3444 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal link to topic-level companion)
+- **Enhancements made**: 2 (added to `related_articles` frontmatter; added Further Reading entry adjacent to existing `hard-problem-of-content` entry)
+- **Body unchanged**: per previous review's stability note that further HPC-related body expansion would unbalance the convergence passage
+- **Output**: [[reviews/deep-review-2026-05-01-explanatory-gap]]
 
 ## 2026-05-01 03:25 UTC - refine-draft
 - **Status**: Success

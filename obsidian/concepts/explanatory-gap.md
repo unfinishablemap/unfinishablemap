@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-27T03:19:00+00:00
+ai_modified: 2026-05-01T03:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,12 +31,13 @@ related_articles:
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
+  - "[[the-naturalisation-failure-for-content]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-04-27T03:19:00+00:00
+last_deep_review: 2026-05-01T03:40:00+00:00
 ---
 
 The explanatory gap is the conceptual chasm between physical descriptions and conscious experience. Even a complete account of what the brain does—every neuron, every synapse, every chemical cascade—leaves unexplained *why* there is something it is like to undergo those processes. Joseph Levine introduced the term in 1983 to articulate what's missing from [[concepts/materialism|physicalist]] explanations of consciousness. The gap is central to [[philosophy-of-mind|philosophy of mind]], shaping debates between physicalists, dualists, and mysterians alike.
@@ -198,6 +199,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 
 - [[hard-problem-of-consciousness]] — The metaphysical problem the gap points to
 - [[hard-problem-of-content]] — The structural parallel: physical resources cannot yield aboutness any more than they yield experience
+- [[the-naturalisation-failure-for-content]] — Topic-level companion treating the content failure as a separate front, and what dualism inherits
 - [[dualism]] — The explanatory gap as one of seven converging arguments
 - [[knowledge-argument]] — Mary's Room: the gap dramatized through a thought experiment
 - [[qualia]] — The experiential properties the gap concerns
