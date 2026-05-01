@@ -5,6 +5,18 @@ ai_modified: 2026-05-01T11:40:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-01 12:25 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Framework-stage calibration (pre-Keplerian as named pattern)
+- **Output**: [[project/framework-stage-calibration]]
+- **Word count**: 2223 (89% of 2500 soft target — ok)
+- **Based on research**: No (project-doc; built directly from optimistic-2026-05-01b suggestion + worked example in [[the-interface-problem]] 09:25 UTC refine)
+- **Source task**: P2 expand-topic from [[reviews/optimistic-2026-05-01b]] Medium Priority section
+- **Structure**: Opening + Stage Distinction + Worked Example (interface-problem 09:25 UTC pre-Keplerian framing with verbatim quote) + Tycho-Analogue Scaffolding catalogue (5 items: bandwidth constraint, Born-rule causal-consistency, theta-band willed-attention, coupling-modes taxonomy, five formal constraints) + Three Rules of the Discipline + Honest Limitation (in-principle vs. practical decidability; structural disanalogy with astronomy) + Relation to Site Perspective (Tenet 5 calibration-layer alignment + Tenet 3 indirect alignment) + Further Reading + References.
+- **Tenet alignment**: Methodological + Tenet 5 (Occam's Razor Has Limits, applied at the calibration layer) + Tenet 3 indirect (Bidirectional Interaction held honestly via stage-calibration).
+- **Sibling project docs framed in parallel**: [[project/closed-loop-opportunity-execution]], [[project/bedrock-clash-vs-absorption]], [[project/coalesce-condense-apex-stability]].
+- **Uncommitted per task brief** (automation system handles commit).
+
 ## 2026-05-01 12:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/falsification-roadmap-for-the-interface-model]]
