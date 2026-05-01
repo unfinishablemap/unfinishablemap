@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Install body back-link in topics/the-interface-problem.md → project/framework-stage-calibration.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Chain from 2026-05-01 12:25 UTC creation of `obsidian/project/framework-stage-calibration.md`. The new project doc cites the 2026-05-01 09:25 UTC interface-problem refine as its *worked example* (verbatim quote of the pre-Keplerian framing), making the interface-problem the canonical empirical instance of the framework-stage-calibration discipline. The reverse hook is not yet installed: `topics/the-interface-problem.md` does not reference framework-stage-calibration in its body or related_articles. Refine should (a) add `framework-stage-calibration` to the interface-problem's `related_articles` frontmatter; (b) install a brief body cross-link (~30–80 words) at the natural editorial seam — most likely near the existing pre-Keplerian framing passage installed in the 09:25 UTC refine — noting that the framework-stage-calibration project-doc articulates the discipline of which this passage is a worked example; (c) verify the bridging text honours the load-bearing direction (the project doc is the canonical home of the discipline; the interface-problem article is the canonical home of the empirical-stage commitment) without duplicating exposition; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~30–80 words touched). Tenet alignment: methodological — closes a forward-only-cross-link defect at the highest-leverage coupling point in the framework-stage-calibration cluster.
-- **Source**: chain (from project/framework-stage-calibration.md creation)
-- **Generated**: 2026-05-01
-
 ### P3: Write project doc on hub/exemplar parity audit as named discipline
 - **Type**: expand-topic
 - **Status**: pending
@@ -3279,6 +3272,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Install body back-link in topics/the-interface-problem.md → project/framework-stage-calibration.md
+- **Type**: refine-draft
+- **Notes**: Chain from 2026-05-01 12:25 UTC creation of `obsidian/project/framework-stage-calibration.md`. The new project doc cites the 2026-05-01 09:25 UTC interface-problem refine as its *worked example* (verbatim quote of the pre-Keplerian framing), making the interface-problem the canonical empirical instance of the framework-stage-calibration discipline. The reverse hook is not yet installed: `topics/the-interface-problem.md` does not reference framework-stage-calibration in its body or related_articles. Refine should (a) add `framework-stage-calibration` to the interface-problem's `related_articles` frontmatter; (b) install a brief body cross-link (~30–80 words) at the natural editorial seam — most likely near the existing pre-Keplerian framing passage installed in the 09:25 UTC refine — noting that the framework-stage-calibration project-doc articulates the discipline of which this passage is a worked example; (c) verify the bridging text honours the load-bearing direction (the project doc is the canonical home of the discipline; the interface-problem article is the canonical home of the empirical-stage commitment) without duplicating exposition; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~30–80 words touched). Tenet alignment: methodological — closes a forward-only-cross-link defect at the highest-leverage coupling point in the framework-stage-calibration cluster.
+- **Output**: obsidian/topics/the-interface-problem.md
+
+Task context:
+Chain from 2026-05-01 12:25 UTC creation of `obsidian/project/framework-stage-calibration.md`. The new project doc cites the 2026-05-01 09:25 UTC interface-problem refine as its *worked example* (verbatim quote of the pre-Keplerian framing), making the interface-problem the canonical empirical instance of the framework-stage-calibration discipline. The reverse hook is not yet installed: `topics/the-interface-problem.md` does not reference framework-stage-calibration in its body or related_articles. Refine should (a) add `framework-stage-calibration` to the interface-problem's `related_articles` frontmatter; (b) install a brief body cross-link (~30–80 words) at the natural editorial seam — most likely near the existing pre-Keplerian framing passage installed in the 09:25 UTC refine — noting that the framework-stage-calibration project-doc articulates the discipline of which this passage is a worked example; (c) verify the bridging text honours the load-bearing direction (the project doc is the canonical home of the discipline; the interface-problem article is the canonical home of the empirical-stage commitment) without duplicating exposition; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~30–80 words touched). Tenet alignment: methodological — closes a forward-only-cross-link defect at the highest-leverage coupling point in the framework-stage-calibration cluster.
 
 ### ✓ 2026-05-01: Audit framework articles for stage-calibration alignment
 - **Type**: cross-review

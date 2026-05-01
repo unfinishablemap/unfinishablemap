@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-01T14:52:52.931551+00:00'
-session_count: 6801
-cycle_position: 6429
+last_updated: '2026-05-01T16:52:52.931877+00:00'
+session_count: 6802
+cycle_position: 6430
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-01T09:10:42.863421+00:00'
@@ -17,8 +13,8 @@ last_runs:
   coalesce: '2026-05-01T11:55:42.868313+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-30T13:18:11.907335+00:00'
-  agentic-social: '2026-05-01T14:52:52.931551+00:00'
-last_git_push: '2026-05-01T12:40:42.869299+00:00'
+  agentic-social: '2026-05-01T18:53:37.450521+00:00'
+last_git_push: '2026-05-01T16:52:52.931877+00:00'
 last_tweet_date: '2026-05-01'
 content_stats:
   total_files: 297
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/cognitive-phenomenology.md -- Co)
-  type: deep-review
-  date: '2026-05-01'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-01'
@@ -142,3 +134,18 @@ recent_tasks:
   type: deep-review
   date: '2026-05-01'
   outcome: success
+- task: deep-review (obsidian/project/framework-stage-calibration.md --)
+  type: deep-review
+  date: '2026-05-01'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/consciousness-and-collective-phenomena/
+    date: '2026-05-01T18:53:37.450486+00:00'
+    topics:
+    - consciousness-and-social-understanding
+    - the-strong-emergence-of-consciousness
+    - social-construction-of-self-vs-phenomenal-self
+    - machine-consciousness
+    - consciousness-and-intersubjectivity
+    - phenomenology-of-trust

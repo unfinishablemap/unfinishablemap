@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-01T11:17:00+00:00
+ai_modified: 2026-05-01T18:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,6 +38,7 @@ related_articles:
   - "[[bandwidth-of-consciousness]]"
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[interface-specification-programme]]"
+  - "[[framework-stage-calibration]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -129,7 +130,7 @@ Each candidate site implies different families of viable mappings. **Microtubule
 
 The specification half provides the strongest objection from critics: if consciousness influences physical outcomes there must be specifiable laws; no such laws exist despite decades of effort; the difficulty is best explained by there being nothing to specify. The Map's responses: consciousness science is genuinely young (serious empirical work dates to the 1990s, while physics took centuries), so demanding mature specification now is unreasonable — though this honest reply risks indefinite deferral. Stapp's and Eccles' models, whatever their limits, demonstrate specification is possible in principle, refuting the *impossibility* claim. The alternative is worse on the framework's own terms: if consciousness does not influence outcomes ([[concepts/epiphenomenalism]]), beliefs about consciousness appear causally disconnected from it — often charged as self-stultifying, though Chalmers (1996) and Robinson (2004) have detailed responses that loosen the charge once phenomenal content is separated from semantic content. Rather than a clincher, the argument supplies a reason interactionists prefer the burden of specification to the burden of explaining how reports about experience track experience under epiphenomenalism. And specification difficulty is evidence of complexity, not nonexistence (turbulence, protein folding, the genotype-phenotype map all resist easy formula).
 
-The Newton analogy — gravitational theory specified *that* masses attract and *how much* without the mechanism, succeeding for centuries before relativity — has limits. Newton had precise measurements and a mathematical law; the specification problem has neither. The honest comparison is pre-Keplerian: a research programme awaiting its founding measurements rather than a mature science awaiting refinement. Stapp's and Eccles' partial accounts are proto-models, not laws; the optimism elsewhere in this article about partial specifications and incremental progress should be read against that scaling. What the framework can claim are the analogues of Tycho's measurements — the bandwidth constraint (Zheng & Meister 2024), the Born-rule causal-consistency result (Torres Alegre), the theta-band willed-attention signatures (Rajan et al. 2019) — together with constraint structures (the [[coupling-modes|coupling-modes taxonomy]], the [[consciousness-physics-interface-formalism|five formal constraints]]) of the kind that precede laws. None of these is yet a Kepler's law; together they are the data and constraint scaffolding from which such a law might one day be inferred. The biological analogy is more apt: genotype-to-phenotype involves regulatory networks, epigenetics, and developmental contingency — perhaps the interface is similarly a web of context-dependent relationships rather than a single law. But biological relationships remain physical, amenable to ordinary investigation; if the interface involves non-physical variables, the usual tools may not apply.
+The Newton analogy — gravitational theory specified *that* masses attract and *how much* without the mechanism, succeeding for centuries before relativity — has limits. Newton had precise measurements and a mathematical law; the specification problem has neither. The honest comparison is pre-Keplerian: a research programme awaiting its founding measurements rather than a mature science awaiting refinement. Stapp's and Eccles' partial accounts are proto-models, not laws; the optimism elsewhere in this article about partial specifications and incremental progress should be read against that scaling. What the framework can claim are the analogues of Tycho's measurements — the bandwidth constraint (Zheng & Meister 2024), the Born-rule causal-consistency result (Torres Alegre), the theta-band willed-attention signatures (Rajan et al. 2019) — together with constraint structures (the [[coupling-modes|coupling-modes taxonomy]], the [[consciousness-physics-interface-formalism|five formal constraints]]) of the kind that precede laws. None of these is yet a Kepler's law; together they are the data and constraint scaffolding from which such a law might one day be inferred. The editorial discipline this passage exemplifies — calibrating a borrowed analogy to the framework's actual developmental stage rather than to its rhetorical convenience — is articulated at project level in [[framework-stage-calibration]], which treats this paragraph as its worked example. The biological analogy is more apt: genotype-to-phenotype involves regulatory networks, epigenetics, and developmental contingency — perhaps the interface is similarly a web of context-dependent relationships rather than a single law. But biological relationships remain physical, amenable to ordinary investigation; if the interface involves non-physical variables, the usual tools may not apply.
 
 ## What Would Count as Progress
 
@@ -211,6 +212,19 @@ Preserved (per [[optimistic-2026-05-01b]] Stability Notes): the Lakatosian conce
 
 Based on pessimistic review [[pessimistic-2026-05-01b]] deferred items + optimistic review [[optimistic-2026-05-01b]] reciprocal-hook task. No curate-tool quality score.
 Key improvements: cognitive→phenomenal channel separation made explicit at the two Cai-citation sites; microtubule demotion framed as soft preference rather than structural exclusion; "What Would Falsify" reframed as in-principle conditions awaiting instrumentation, with reciprocal hook to falsification-roadmap; methodological honesty (Tenet 5 / Bidirectional Interaction load) extended at the three weakest remaining points without disturbing the load-bearing concessions installed by the 09:25 UTC pass.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-01 (18:53 UTC follow-up to 11:17 UTC pass)
+Changes made (short scope, ~42 words touched, addressing the queued P2 reciprocal-hook task installing the reverse-direction back-link to the 12:25 UTC project-doc creation of [[framework-stage-calibration]]):
+- (a) Added `[[framework-stage-calibration]]` to `related_articles` frontmatter (now last entry in the list).
+- (b) Installed body cross-link at the natural editorial seam — immediately after the Tycho-analogue scaffolding sentence ("...the data and constraint scaffolding from which such a law might one day be inferred.") and before the biological-analogy turn. New text: "The editorial discipline this passage exemplifies — calibrating a borrowed analogy to the framework's actual developmental stage rather than to its rhetorical convenience — is articulated at project level in [[framework-stage-calibration]], which treats this paragraph as its worked example." (42 words; in target range.)
+- (c) Load-bearing direction honoured: the bridging text locates the *discipline* at the project doc ("articulated at project level in framework-stage-calibration") and retains the *empirical-stage commitment* (the pre-Keplerian framing, the Tycho-analogue listing, the proto-model characterisation) at the interface-problem article. The cross-link does not duplicate the project doc's exposition of the three rules, the Tycho/Kepler/Newton stage distinction, or the honest-limitation structure — those remain at the project doc, where they belong.
+- (d) Cliché audit: re-read the full article for "This is not X. It is Y." cliché violations. None found. The article's existing rhetorical handling of contrast uses "X rather than Y" patterns ("reorganisation under an architectural umbrella rather than elimination by experiment", "the editorial discipline... rather than to its rhetorical convenience"), which is the preferred construction per CLAUDE.md.
+- ai_modified bumped to 2026-05-01T18:53:00+00:00.
+
+Pre-Keplerian framing, Tycho-analogue listing, Lakatosian concession, "currently unfalsifiable in practice" framing, and dopamine cognitive→phenomenal channel-separation language all preserved untouched. Stability holds.
 
 This log should be removed after human review.
 -->

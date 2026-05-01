@@ -5,6 +5,15 @@ ai_modified: 2026-05-01T16:55:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-01 18:53 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-interface-problem]]
+- **Word count**: 2425 → 2467 (+42)
+- **Changes**: (a) Added `[[framework-stage-calibration]]` to `related_articles` frontmatter; (b) installed 42-word body cross-link at the natural editorial seam (immediately after the Tycho-analogue scaffolding sentence, before the biological-analogy turn) noting that the editorial discipline this passage exemplifies is articulated at project level in `[[framework-stage-calibration]]`, which treats this paragraph as its worked example; (c) load-bearing direction honoured — discipline lives at project doc, empirical-stage commitment remains here; no exposition duplication; (d) cliché audit clean (no "This is not X. It is Y." violations).
+- **Reason**: Closes the forward-only-cross-link defect from the 12:25 UTC creation of `project/framework-stage-calibration.md` (which cited this article's 09:25 UTC pre-Keplerian framing as its worked example). Reverse hook now installed at the highest-leverage coupling point in the framework-stage-calibration cluster.
+- **Stability**: Pre-Keplerian framing, Tycho-analogue listing, Lakatosian concession, "currently unfalsifiable in practice" framing, and dopamine cognitive→phenomenal channel-separation language all preserved untouched.
+- **Uncommitted per task brief** (automation system handles commit).
+
 ## 2026-05-01 16:55 UTC - deep-review
 - **Status**: Success (convergence — no critical issues)
 - **File**: [[project/framework-stage-calibration]]
