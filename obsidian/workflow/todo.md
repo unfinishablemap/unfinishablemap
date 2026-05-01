@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/the-interface-problem.md (4088 words, 102% of 4000-word hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 4000-word hard threshold for `topics/` (current 4088 / soft 3000 / hard 4000 / critical 6000) at 136% of soft target. The article was coalesced 2026-05-01 absorbing two source articles, with extensive subsequent refines (Lakatosian concession, "currently unfalsifiable in practice" framing, pre-Keplerian framing, body cross-link to falsification-roadmap, three deferred-item closures). Density is partly intentional, but the article is now ~88 words over the hard threshold and may carry redundancy from the absorbing-two-sources operation. **Important constraint**: condense should preserve the recently-installed load-bearing framings (per `reviews/optimistic-2026-05-01b.md` Stability Notes): (a) the Lakatosian concession at "From Agnosticism" opener; (b) the pre-Keplerian framing; (c) the "currently unfalsifiable in practice" line; (d) the body cross-links to `[[framework-stage-calibration]]` and `[[falsification-roadmap-for-the-interface-model]]`; (e) Part 1 (Location) / Part 2 (Specification) section structure from the coalesce. Trim should target Further Reading inflation, restated-section-structure prose, and any redundancy introduced by the coalesce-merge of the two source articles. Audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Target post-condense: ~3,400–3,800 words (10–17% reduction). Tenet alignment: Bidirectional Interaction + methodological. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-01
-
 ### P3: Deep review apex/moral-architecture-of-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3300,6 +3293,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Condense topics/the-interface-problem.md (4088 words, 102% of 4000-word hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word hard threshold for `topics/` (current 4088 / soft 3000 / hard 4000 / critical 6000) at 136% of soft target. The article was coalesced 2026-05-01 absorbing two source articles, with extensive subsequent refines (Lakatosian concession, "currently unfalsifiable in practice" framing, pre-Keplerian framing, body cross-link to falsification-roadmap, three deferred-item closures). Density is partly intentional, but the article is now ~88 words over the hard threshold and may carry redundancy from the absorbing-two-sources operation. **Important constraint**: condense should preserve the recently-installed load-bearing framings (per `reviews/optimistic-2026-05-01b.md` Stability Notes): (a) the Lakatosian concession at "From Agnosticism" opener; (b) the pre-Keplerian framing; (c) the "currently unfalsifiable in practice" line; (d) the body cross-links to `[[framework-stage-calibration]]` and `[[falsification-roadmap-for-the-interface-model]]`; (e) Part 1 (Location) / Part 2 (Specification) section structure from the coalesce. Trim should target Further Reading inflation, restated-section-structure prose, and any redundancy introduced by the coalesce-merge of the two source articles. Audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Target post-condense: ~3,400–3,800 words (10–17% reduction). Tenet alignment: Bidirectional Interaction + methodological. See `/condense` skill.
+- **Output**: obsidian/topics/the-interface-problem.md
 
 ### ✓ 2026-05-01: Install body back-link in topics/the-interface-problem.md → project/framework-stage-calibration.md
 - **Type**: refine-draft
