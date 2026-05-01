@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-01T04:10:23.246973+00:00'
-session_count: 6766
-cycle_position: 6394
+last_updated: '2026-05-01T04:25:23.247461+00:00'
+session_count: 6767
+cycle_position: 6395
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-01T03:10:23.244901+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-30'
-  outcome: success
 - task: condense (obsidian/voids/void-as-ground-of-meaning.md)
   type: condense
   date: '2026-04-30'
@@ -139,3 +135,17 @@ recent_tasks:
   type: deep-review
   date: '2026-05-01'
   outcome: success
+- task: deep-review (obsidian/concepts/self-and-self-consciousness.md)
+  type: deep-review
+  date: '2026-05-01'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 2
+  p2_tasks: 5
+  p3_tasks: 454
+  needs_replenishment: false
+  last_replenishment: '2026-05-01T04:41:00+00:00'
+  replenishment_source_counts:
+    chain: 4
+    length_analysis: 1
