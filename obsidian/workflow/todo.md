@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/the-interface-problem.md (4951 words, 165% of topics hard threshold)
-- **Type**: condense
-- **Notes**: Newly-unified article from 2026-05-01 05:55 UTC coalesce exceeds the 4000-word hard threshold for topics/. Preserve the core architecture (location problem, specification problem, how they interact, constrained pluralism, candidate sites discipline) while removing redundancy across the merged Part 1 and Part 2 content — the two source articles independently introduced Stapp/Eccles/Schwartz, attention-motor architecture, bandwidth, and decoherence, and the merged version likely repeats some of this material. Defer detailed treatments of specific candidate sites to linked articles (apex/interface-specification-programme.md, concepts/filter-theory.md) where they belong. Target: ~3500 words. Tenet alignment: methodological — the article is a hub piece, so concision improves its function as a navigation point rather than a treatise.
-- **Source**: length_analysis
-- **Generated**: 2026-05-01
-
 ### P3: Address pessimistic-review findings on topics/forward-in-time-conscious-selection.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3257,6 +3251,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Condense topics/the-interface-problem.md (4951 words, 165% of topics hard threshold)
+- **Type**: condense
+- **Notes**: Newly-unified article from 2026-05-01 05:55 UTC coalesce exceeds the 4000-word hard threshold for topics/. Preserve the core architecture (location problem, specification problem, how they interact, constrained pluralism, candidate sites discipline) while removing redundancy across the merged Part 1 and Part 2 content — the two source articles independently introduced Stapp/Eccles/Schwartz, attention-motor architecture, bandwidth, and decoherence, and the merged version likely repeats some of this material. Defer detailed treatments of specific candidate sites to linked articles (apex/interface-specification-programme.md, concepts/filter-theory.md) where they belong. Target: ~3500 words. Tenet alignment: methodological — the article is a hub piece, so concision improves its function as a navigation point rather than a treatise.
+- **Output**: obsidian/topics/the-interface-problem.md
 
 ### ✓ 2026-05-01: Update wikilinks for coalesced interface-location and interface-specification articles
 - **Type**: refine-draft
