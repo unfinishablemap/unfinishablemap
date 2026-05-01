@@ -38,6 +38,11 @@ last_curated:
 coalesced_from:
   - "/topics/the-interface-location-problem/"
   - "/topics/the-interface-location-problem-revisited/"
+archived: true
+archived_date: 2026-05-01T05:55:00+00:00
+superseded_by: "/topics/the-interface-problem/"
+archive_reason: "Coalesced into The Interface Problem: Location and Specification"
+original_path: "/topics/the-interface-location-problem/"
 ---
 
 If consciousness interfaces with the brain at quantum indeterminacies — as The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds — a natural question follows: *where in the brain* does this interface operate? Multiple candidate sites have been proposed, each with distinct mechanisms, timescales, and empirical support. The interface location problem asks which of these sites actually serves as the point of contact between consciousness and neural activity, and whether the question even has a single answer.

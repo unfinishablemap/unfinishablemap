@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks pointing to coalesced interface articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-05-01 05:55 UTC merged `the-interface-location-problem` and `the-interface-specification-problem` into `topics/the-interface-problem` (split into Part 1: Location, Part 2: Specification). The following active files reference the archived slugs and may benefit from updating to the unified target — many are correct as-is because the archive preserves URLs, but where Further Reading sections or inline references would benefit from a single consolidated link, replace with `[[the-interface-problem]]`: `obsidian/apex/interface-specification-programme.md`, `obsidian/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface.md`, `obsidian/topics/dopamine-and-the-unified-interface.md`, `obsidian/topics/the-psychophysical-control-law.md`, `obsidian/topics/bandwidth-of-consciousness.md`, `obsidian/topics/anaesthesia-and-the-consciousness-interface.md`, `obsidian/topics/consciousness-and-causal-powers.md`, `obsidian/topics/consciousness-and-the-physics-of-information.md`, `obsidian/topics/falsification-roadmap-for-the-interface-model.md`, `obsidian/topics/brain-computer-interfaces-and-the-interface-boundary.md`, `obsidian/topics/perceptual-failure-and-the-interface.md`, `obsidian/topics/mathematical-structure-of-the-consciousness-physics-interface.md`, `obsidian/topics/consciousness-interface-development.md`, `obsidian/topics/born-rule-and-the-consciousness-interface.md`, `obsidian/concepts/psychophysical-laws.md`, `obsidian/concepts/consciousness-physics-interface-formalism.md`, `obsidian/concepts/von-neumann-wigner-interpretation.md`, `obsidian/concepts/embodied-cognition.md`, `obsidian/concepts/filter-theory.md`, `obsidian/concepts/perceptual-degradation-and-the-interface.md`, `obsidian/concepts/interface-heterogeneity.md`, `obsidian/concepts/metaphysics-of-information-under-dualism.md`. Pay particular attention to `filter-theory.md` which links to BOTH archived slugs separately — collapse into single link. Apex file `interface-specification-programme.md` should retain its inline reference but update Further Reading and frontmatter related_articles. Use `#part-1-where-does-the-interface-operate` and `#part-2-how-does-consciousness-map-to-physical-effects` anchors when finer targeting is wanted. Short scope per file (~5–20 lines touched per file).
+- **Source**: coalesce
+- **Generated**: 2026-05-01
+
 ### P2: Cross-review concepts/phenomenology-vs-function-axis considering methodological-asymmetry critique from pessimistic-2026-05-01
 - **Type**: cross-review
 - **Status**: pending

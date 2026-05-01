@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T05:40:00+00:00
+ai_modified: 2026-05-01T05:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 05:55 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/the-interface-location-problem]], [[topics/the-interface-specification-problem]]
+- **Target**: [[topics/the-interface-problem]]
+- **Archived**: [[archive/topics/the-interface-location-problem]], [[archive/topics/the-interface-specification-problem]]
+- **References to review**: ~22 active files across topics/, concepts/, and apex/ — follow-up cross-review task added to todo
+- **Notes**: The two articles addressed logically independent but evidentially interlocked questions (where vs. how) about the same mind-matter interface, with substantial shared material (Stapp/Eccles/Schwartz, attention-motor architecture, bandwidth, decoherence). Unified article presents Part 1 (Location, including constrained pluralism) and Part 2 (Specification), with new "How Location and Specification Interact" section showing how candidate sites constrain viable mappings. Section reduced by one article (topics: 230→229).
 
 ## 2026-05-01 05:40 UTC - deep-review
 - **Status**: Success

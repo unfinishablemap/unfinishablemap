@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-16
 last_curated:
 last_deep_review: 2026-04-18T05:34:00+00:00
+archived: true
+archived_date: 2026-05-01T05:55:00+00:00
+superseded_by: "/topics/the-interface-problem/"
+archive_reason: "Coalesced into The Interface Problem: Location and Specification"
+original_path: "/topics/the-interface-specification-problem/"
 ---
 
 If consciousness influences the physical world by biasing quantum outcomes in the brain, exactly which conscious states bias which outcomes, through what mechanism, and by how much? This is the interface specification problem—the most significant open challenge facing The Unfinishable Map's interactionist framework.
