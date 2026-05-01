@@ -5,6 +5,17 @@ ai_modified: 2026-05-01T11:40:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-01 12:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/falsification-roadmap-for-the-interface-model]]
+- **Trigger**: P2 cross-review chain task — verify roadmap parity against post-Lakatosian framing installed in [[topics/the-interface-problem]] on 2026-05-01 (09:25 UTC + 11:17 UTC). Seventh deep review on this article.
+- **Word count**: 2660 → 2747 (+87 words; 92% of 3000 topics/ soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — Tenet 2 honest-assessment paragraph rewritten to (i) name the Lakatosian degenerating-problem-shift charge directly, (ii) cross-link to [[the-interface-problem]]'s open concession that recent narrowing is post-hoc accommodation rather than predictive narrowing, (iii) replace the closing "challenge distinct from falsification" with "currently unfalsifiable in practice, in-principle accessible as detection thresholds improve" — the parity wording matching the interface-problem's framing at line 122 and the 11:17 UTC reframe of the "What Would Falsify" section. Single edit; ~140 words touched at lines 83-85; no other content changes.
+- **Enhancements made**: 1 — second body cross-link to [[the-interface-problem]] at the Lakatosian-concession reference (load-bearing, not ornamental).
+- **Strengths preserved**: corridor/minimum-outside-corridor/trumping taxonomy at Tenet 2, Maier-Dechamps preregistered null at Tenet 3, six-programme list at "What the Map Should Watch," Falsification Asymmetry table, "honest assessment" subsection pattern across all five tenets, "What would not count" disclosure at Tenet 1.
+- **Output**: [[reviews/deep-review-2026-05-01-falsification-roadmap-for-the-interface-model]]; uncommitted per task brief (automation system handles commit).
+
 ## 2026-05-01 11:55 UTC - coalesce (no-op)
 - **Status**: Success (no merge performed — no strong candidates after multi-cluster search)
 - **Section pressure**: voids 99/100, topics 230/250, concepts 229/250 — voids most pressured but searched all three.
