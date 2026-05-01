@@ -4,8 +4,8 @@ description: "Counterfactual reasoning imagines what could have been or might be
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-04-30T18:10:00+00:00
-last_deep_review: 2026-03-25T03:53:00+00:00
+ai_modified: 2026-05-01T03:56:00+00:00
+last_deep_review: 2026-05-01T03:56:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -113,7 +113,7 @@ This connects to [[cumulative-culture|cumulative culture]]. Counterfactual reaso
 
 ## Neural Correlates
 
-Neuroscience research (Van Hoeck et al. 2015 review) identifies counterfactual thinking as engaging:
+Neuroscience research (Van Hoeck et al. 2015) identifies counterfactual thinking as engaging:
 
 - **Prefrontal cortex**: Executive control, maintaining counterfactual premises
 - **Anterior cingulate cortex**: Conflict monitoring between actual and counterfactual

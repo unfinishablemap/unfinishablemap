@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T03:40:00+00:00
+ai_modified: 2026-05-01T03:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 03:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/counterfactual-reasoning]]
+- **Word count**: 2343 → 2342 (-1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (removed inaccurate "review" qualifier from Van Hoeck et al. 2015 citation, which is an fMRI study)
+- **Convergence**: 4th review; article remains stable. Only changes since last review were mechanical wikilink retargets from coalesce operations. All wikilinks verified.
+- **Output**: [[reviews/deep-review-2026-05-01-counterfactual-reasoning]]
 
 ## 2026-05-01 03:40 UTC - deep-review
 - **Status**: Success
