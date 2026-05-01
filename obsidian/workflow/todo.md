@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review topics/the-self-minimal-narrative-and-substantial.md considering zahavian-minimal-self → self-and-self-consciousness coalesce
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from 2026-05-01 01:15 UTC coalesce: `concepts/zahavian-minimal-self.md` was archived, with all of its content absorbed into `concepts/self-and-self-consciousness.md` (now post-coalesce + 44% condense, 2770 words). `topics/the-self-minimal-narrative-and-substantial.md` is the only active topic article that still uses both the term "zahavian" and the phrase "minimal self" / "minimal-self" in inline prose, making it the highest-touch reciprocal target. Cross-review should (a) verify any inline references to "zahavian-minimal-self" or `[[zahavian-minimal-self]]` are redirected to `[[self-and-self-consciousness]]` (Hugo redirects preserve URLs but inline body prose should point to the live home); (b) check the article's framing of the minimal/narrative/substantial trichotomy against the coalesced concept page's post-restructure exposition — the coalesced page is now the canonical home for the Zahavi treatment, and the topics article should defer to it rather than restate; (c) audit cross-link discipline both directions (forward link from `the-self-minimal-narrative-and-substantial` to the coalesced concept; reciprocal back-link from `self-and-self-consciousness` if substantive bridging content exists); (d) light terminology consistency check — the coalesced concept may have shifted phrasing during the condense pass. Short scope (~150–300 words touched). Tenet alignment: methodological — coalesce-discipline reciprocal-link maintenance.
+- **Source**: chain (from 2026-05-01 self-and-self-consciousness coalesce)
+- **Generated**: 2026-05-01
+
+### P2: Deep review apex/time-consciousness-growing-block.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated apex article (ai_contribution > 50) last deep-reviewed 2026-03-13 — 49 days ago. Apex articles are central synthesis hubs in the catalogue, so staleness here propagates faster than at the topic/concept layer. Multiple coalesces and restructures have landed since the last review (recent self-and-self-consciousness coalesce, interface-problem coalesce, conjunction-coalesce apex stabilisation, the cognitive-phenomenology absorption of its void research). Verify (a) coherence with current site state — cross-references to `[[forward-in-time-conscious-selection]]`, `[[temporal-consciousness]]`, and any retrocausal/transactional articles for terminology drift; (b) tenet alignment, particularly No Many Worlds and Bidirectional Interaction (the growing-block ontology is load-bearing for both); (c) whether claims about block-universe arguments and the physics of time still match the catalogue's current treatment; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md ban); (e) confirm reciprocal cross-link discipline at the apex/topic interface. See `/deep-review` skill.
+- **Source**: staleness
+- **Generated**: 2026-05-01
+
+### P2: Deep review apex/contemplative-path.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated apex article (ai_contribution > 50) last deep-reviewed 2026-03-14 — 48 days ago. Apex articles are central synthesis hubs; staleness here has outsized effect on contemplative-cluster cross-references. Several contemplative/phenomenology articles have moved through deep-review and refine cycles since the last apex pass (e.g., the 2026-04-20 microphenomenological-interview-method integration, the 2026-04-27 tacit-integration-void chain, today's cognitive-phenomenology absorption work). Verify (a) coherence with current contemplative-epistemology and methodology-of-consciousness-research treatments; (b) tenet alignment with Dualism and Bidirectional Interaction (contemplative training as evidence for the interface model); (c) cross-references to `[[contemplative-practice-as-philosophical-evidence]]`, `[[contemplative-epistemology]]`, `[[microphenomenological-interview-method]]`, `[[introspection]]` are accurate and reciprocal; (d) audit for "This is not X. It is Y." cliché violations; (e) framing of cross-tradition convergence is appropriately hedged given Katz/Sharf contextualist literature.
+- **Source**: staleness
+- **Generated**: 2026-05-01
+
+### P2: Deep review apex/process-and-consciousness.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated apex article (ai_contribution > 50) last deep-reviewed 2026-03-15 — 47 days ago. Apex articles are central synthesis hubs. Recent restructure activity in the temporal/interface clusters (today's interface-problem coalesce absorbing two source articles, the 2026-04-30 conjunction-coalesce apex stabilisation, multiple condense passes) likely affects cross-references and framing. Verify (a) coherence with current treatments of process metaphysics, Whitehead, and the interface model — including whether the apex's reading of consciousness-as-process still aligns with the post-coalesce interface-problem article; (b) tenet alignment, especially Bidirectional Interaction and Occam's Razor Has Limits; (c) cross-references and reciprocal-link discipline; (d) audit for "This is not X. It is Y." cliché violations; (e) confirm process-philosophy framing has not drifted from the catalogue's current usage in `[[temporal-consciousness]]`, `[[time-consciousness-growing-block]]`, and `[[the-interface-problem]]`.
+- **Source**: staleness
+- **Generated**: 2026-05-01
+
+### P3: Deep review topics/history-of-the-interaction-problem.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-19 — 42 days ago. Historical-survey topic article on the philosophical history of the mind-body interaction problem (Descartes, Princess Elisabeth, Spinoza, Leibniz, occasionalism, Cartesian dualism critiques, modern revivals). Verify (a) coherence with current site state — particularly today's interface-problem coalesce, which is the modern continuation of the historical thread; (b) cross-references to `[[the-interface-problem]]` (today's coalesced apex/topic), `[[parsimony-case-for-interactionist-dualism]]`, `[[causal-closure-debate-historical-survey]]`, `[[mental-causation]]`; (c) tenet alignment, especially Dualism and Bidirectional Interaction (the historical thread is positioning evidence for the Map's central commitment); (d) historical accuracy on the Princess Elisabeth correspondence, Leibniz's pre-established harmony, and 20th-century revivals; (e) audit for "This is not X. It is Y." cliché violations.
+- **Source**: staleness
+- **Generated**: 2026-05-01
+
+### P3: Deep review voids/the-surplus-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-16 — 46 days ago. Voids article, originally created via 2026-04-05 coalesce of phenomenal-presence-void + phenomenal-absence-void, then merged into a single phenomenal-quality-void treatment in subsequent coalesces. Need to verify the article's current state: is it a standalone void treatment of the surplus phenomenon (more in experience than functional analysis can capture), or was it superseded by another coalesce? If still active, verify (a) coherence with the current voids cluster and apex/taxonomy-of-voids treatment; (b) cross-references — particularly to `[[transparency-void]]`, `[[phenomenal-quality-void]]`, `[[spontaneous-thought-void]]` if those still exist; (c) tenet alignment with Dualism (the surplus is what functional reduction misses); (d) audit for "This is not X. It is Y." cliché violations; (e) confirm the article does not duplicate work now done by adjacent voids articles. If superseded by archive, this task closes immediately as no-op with a note documenting the supersession.
+- **Source**: staleness
+- **Generated**: 2026-05-01
+
 ### P3: Address pessimistic-review findings on topics/forward-in-time-conscious-selection.md
 - **Type**: refine-draft
 - **Status**: pending
