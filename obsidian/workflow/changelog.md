@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 01:15:00+00:00
+ai_modified: 2026-05-01 01:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 01:25 UTC - cross-review (wikilink repoint)
+- **Status**: Success
+- **Trigger**: Coalesce of `concepts/zahavian-minimal-self` → `concepts/self-and-self-consciousness` (2026-05-01 01:10 UTC)
+- **Files updated** (9): topics/personal-identity, topics/the-self-minimal-narrative-and-substantial, voids/void-as-ground-of-meaning, concepts/phenomenal-consciousness, concepts/cognitive-phenomenology, concepts/coalesce-condense-apex-stability, voids/self-opacity, voids/witnessing-void, research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25
+- **Anchor selection**: Zahavi-vs-Metzinger debate references retargeted to specific anchors (`#Zahavi's Position in His Own Terms`, `#Why the Map Requires the Zahavian Version`, `#Metzinger's Alternative and Why It Differs`, `#Constitutive as Kind, Not as Degree`); general minimal-self references point to the merged article without anchor; coalesce-condense-apex-stability worked-example references preserve "zahavian-minimal-self" display text since they document the historical case study.
+- **Frontmatter dedup**: Removed duplicate `[[zahavian-minimal-self]]` entries from `concepts:` lists in `topics/personal-identity` and `topics/the-self-minimal-narrative-and-substantial` (the merged target was already present); merged Further Reading descriptions on both topic articles into single entries.
 
 ## 2026-05-01 01:10 UTC - coalesce
 - **Status**: Success

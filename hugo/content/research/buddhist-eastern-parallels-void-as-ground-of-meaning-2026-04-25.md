@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-25
-ai_modified: 2026-04-25 23:29:00+00:00
+ai_modified: 2026-05-01 01:25:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -213,7 +213,7 @@ The Map's [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) thesis�
 - **Sides**: Buddhist anātman (no enduring self) vs. dualist views that posit a phenomenal subject
 - **Core disagreement**: Is there a continuous experiencer, or only a stream of dependently arisen mental events?
 - **Current state**: Persistent disagreement; some Buddhist schools (Pudgalavāda, certain Tibetan tantric views) blunt the contrast; some Western philosophers (Galen Strawson, panpsychists) propose minimal-self views compatible with both
-- **Relevance to Map**: This is the most significant tenet-level tension. The Map's [zahavian-minimal-self](/concepts/self-and-self-consciousness/) and indexical-identity commitments require *some* continuity. Mahāyāna anātman is compatible with conventional self-continuity (the conventional truth) while denying ultimate self-substance — this can be brought into dialogue with the Map's view but not assimilated.
+- **Relevance to Map**: This is the most significant tenet-level tension. The Map's [Zahavian minimal-self](/concepts/self-and-self-consciousness/) and indexical-identity commitments require *some* continuity. Mahāyāna anātman is compatible with conventional self-continuity (the conventional truth) while denying ultimate self-substance — this can be brought into dialogue with the Map's view but not assimilated.
 
 ---
 

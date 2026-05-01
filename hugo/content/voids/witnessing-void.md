@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-04-24 23:29:00+00:00
+ai_modified: 2026-05-01 01:25:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -110,7 +110,7 @@ If AI can perform every cognitive function associated with consciousness *withou
 
 The void's structural status would be undermined if: a contemplative tradition or training protocol produced stable, articulable knowledge of the witnessing operation itself—process-access with the specificity science demands, not contentless testimony; neuroscience isolated the subjective perspective as such, rather than neural correlates accompanying it; a formal proof showed self-modelling systems can achieve complete self-transparency without infinite regress; or functional explanations satisfied practitioners that no phenomenal remainder exists. After millennia of contemplative method and decades of cognitive science, none of these conditions has been met.
 
-A weaker challenge: the void might be attenuable without being eliminable. Advanced meditators report deepening intimacy with witnessing without acquiring the ability to make it an object. This matches the Map's general treatment of first-personal givenness as *constitutive in kind, not uniform in intensity* (see [self-opacity](/voids/self-opacity/) and [zahavian-minimal-self](/concepts/self-and-self-consciousness/)). What would undermine the constitutive reading is witnessing continuing fully *in the absence* of the subject-object asymmetry—not the asymmetry becoming intimate.
+A weaker challenge: the void might be attenuable without being eliminable. Advanced meditators report deepening intimacy with witnessing without acquiring the ability to make it an object. This matches the Map's general treatment of first-personal givenness as *constitutive in kind, not uniform in intensity* (see [self-opacity](/voids/self-opacity/) and [self-and-self-consciousness](/concepts/self-and-self-consciousness/)). What would undermine the constitutive reading is witnessing continuing fully *in the absence* of the subject-object asymmetry—not the asymmetry becoming intimate.
 
 ## Further Reading
 

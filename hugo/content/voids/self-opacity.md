@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-30 06:25:00+00:00
+ai_modified: 2026-05-01 01:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -135,7 +135,7 @@ The eliminativist response—if the self cannot be found, perhaps it does not ex
 
 Clinical evidence shows the subject-object asymmetry varies in strength. Sass and Parnas's studies of schizophrenic ipseity disturbance document patients whose first-personal givenness is attenuated or fragmented—thoughts appearing as alien, the sense of being the one thinking wavering, self-reference producing intensified felt instabilities (Sass & Parnas 2003). Depersonalisation shows similar scalar disruption. If self-opacity can be partially breached, how can it be constitutive?
 
-The resolution mirrors the Map's general treatment of first-personal givenness (see [zahavian-minimal-self](/concepts/self-and-self-consciousness/#constitutive-as-kind-not-as-degree)). The constitutive claim is about *kind*, not uniformity of intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise—not that it fully dissolves while experience continues. Schizophrenic reports describe felt encounters with the breakdown itself; depersonalisation is reported *from* a subjective position even when that position feels unreal. Every reported case is reported from somewhere.
+The resolution mirrors the Map's general treatment of first-personal givenness (see [self-and-self-consciousness](/concepts/self-and-self-consciousness/#constitutive-as-kind-not-as-degree)). The constitutive claim is about *kind*, not uniformity of intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise—not that it fully dissolves while experience continues. Schizophrenic reports describe felt encounters with the breakdown itself; depersonalisation is reported *from* a subjective position even when that position feels unreal. Every reported case is reported from somewhere.
 
 What would undermine the constitutive reading is phenomenal life continuing fully *without* the asymmetry—a clean elimination, not an attenuation. Evidence to date supplies only the latter.
 

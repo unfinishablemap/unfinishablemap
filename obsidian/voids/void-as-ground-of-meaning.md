@@ -4,7 +4,7 @@ description: "Why cognitive limits are preconditions for meaning, not merely obs
 created: 2026-02-24
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T23:40:00+00:00
+ai_modified: 2026-05-01T01:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ The convergences above are all Western. A separate hemisphere reaches the same t
 
 Buddhist *anātman*—the denial of an enduring self-substance—sits awkwardly with the Map's [[tenets#^dualism|Dualism]] and indexical-identity commitments. The parallel is structural, not wholesale alliance.
 
-Three points clarify. First, Madhyamaka denies *svabhāva* of *all* phenomena—phenomenal and physical alike—so its anti-substantialism is symmetric. Second, *anātman* is compatible with conventional self-continuity: at the conventional level where the Map's tenets operate there is a continuous experiencer, and the Map's dualism requires irreducibility rather than Cartesian substance. Third, indexical identity ([[tenets#^no-many-worlds|No Many Worlds]]) and any defensible [[zahavian-minimal-self|minimal-self]] view require *some* phenomenal continuity—genuinely harder to reconcile with strict Madhyamaka, though Yogācāra sits closer to the Map. See [[indian-philosophy-of-mind]] for Samkhya, Nyaya, and Vedanta on the bearer question. The convergence on the constitutive thesis is real; the convergence on what *bears* the meaning is not.
+Three points clarify. First, Madhyamaka denies *svabhāva* of *all* phenomena—phenomenal and physical alike—so its anti-substantialism is symmetric. Second, *anātman* is compatible with conventional self-continuity: at the conventional level where the Map's tenets operate there is a continuous experiencer, and the Map's dualism requires irreducibility rather than Cartesian substance. Third, indexical identity ([[tenets#^no-many-worlds|No Many Worlds]]) and any defensible [[self-and-self-consciousness|minimal-self]] view require *some* phenomenal continuity—genuinely harder to reconcile with strict Madhyamaka, though Yogācāra sits closer to the Map. See [[indian-philosophy-of-mind]] for Samkhya, Nyaya, and Vedanta on the bearer question. The convergence on the constitutive thesis is real; the convergence on what *bears* the meaning is not.
 
 ### The Contextualist Worry
 

@@ -4,7 +4,7 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-04-29T23:40:00+00:00
+ai_modified: 2026-05-01T01:25:00+00:00
 last_deep_review: 2026-04-29T04:49:00+00:00
 draft: false
 topics:
@@ -109,7 +109,7 @@ This connects to [[biological-cognitive-closure]]: if the concepts needed to und
 
 A methodological clarification bears on what the constitutive claim does and does not assert. Anaesthesia produces clear gradations of phenomenal vividness — light sedation, deep surgical anaesthesia, emergence states with fragmentary awareness. Minimally conscious states, advanced dementia, and the ordinary daily oscillation between full vigilance and drowsiness exhibit further gradations. Critics sometimes take this clinical evidence as grounds for scepticism about treating P-consciousness as a sharply demarcated kind.
 
-The reply is that the claim "phenomenal character is constitutive of conscious mental states" is a claim about *kind*, not uniform intensity. P-consciousness is a scalar feature: it admits of degrees of vividness, determinacy, and integration (see [[degrees-of-consciousness]]) without ceasing to be the kind of thing it is. Every instance above zero instantiates the kind; variation in degree is compatible with structural necessity. The exemplar treatment of this constitutive-vs-scalar distinction is in [[zahavian-minimal-self]], applied to first-personal givenness against parallel clinical-variation objections, and the same move applies here.
+The reply is that the claim "phenomenal character is constitutive of conscious mental states" is a claim about *kind*, not uniform intensity. P-consciousness is a scalar feature: it admits of degrees of vividness, determinacy, and integration (see [[degrees-of-consciousness]]) without ceasing to be the kind of thing it is. Every instance above zero instantiates the kind; variation in degree is compatible with structural necessity. The exemplar treatment of this constitutive-vs-scalar distinction is in [[self-and-self-consciousness#Constitutive as Kind, Not as Degree|self-and-self-consciousness]], applied to first-personal givenness against parallel clinical-variation objections, and the same move applies here.
 
 Clinical data refute a stronger claim the dualist need not make — that phenomenal consciousness is uniform or all-or-nothing. They do not refute the weaker, sufficient claim that whenever there is genuine mental life, there is some phenomenal character to it that resists replacement by functional description. The hard problem survives gradation: it concerns phenomenality wherever it occurs, at whatever intensity. A dim or attenuated "what it is like" still exceeds functional-access description in the way a vivid one does; the explanatory gap is not closed by turning the dial down.
 

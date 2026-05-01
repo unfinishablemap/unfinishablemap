@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-01T00:55:23.241462+00:00'
-session_count: 6753
-cycle_position: 6381
+last_updated: '2026-05-01T01:10:23.241815+00:00'
+session_count: 6754
+cycle_position: 6382
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-30T21:05:36.925386+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-05-01T00:40:23.240894+00:00'
   tune-system: '2026-04-30T13:18:11.907335+00:00'
   research-voids: '2026-04-30T13:18:11.907335+00:00'
-  coalesce: '2026-04-30T23:55:23.239599+00:00'
+  coalesce: '2026-05-01T01:10:23.241815+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-30T13:18:11.907335+00:00'
   agentic-social: '2026-05-01T00:55:23.241462+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (min-max dualism taxonomy)
-  type: expand-topic
-  date: '2026-04-30'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-30'
@@ -132,5 +128,9 @@ recent_tasks:
   outcome: success
 - task: 'deep-review (obsidian/concepts/intentionality.md -- Context: Cr)'
   type: deep-review
+  date: '2026-05-01'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-05-01'
   outcome: success

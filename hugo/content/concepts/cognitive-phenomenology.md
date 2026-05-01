@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-01 01:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -264,7 +264,7 @@ The Map's position would face difficulty if: (1) neuroscience showed phenomenal 
 
 A methodological clarification strengthens the liberal position against clinical-variation objections. Aphantasia, attentional dissociation, wide individual variation in introspective access, and Sass and Parnas's documentation of attenuated self-presence in schizophrenia all show that cognitive phenomenology admits of *degrees* — more or less vivid, more or less stable, partially disrupted in ipseity disturbance without disappearing entirely (Sass & Parnas 2003). Conservatives sometimes take this scalar evidence as grounds for scepticism about cognitive phenomenology as a category.
 
-The reply is that the liberal claim is one about *kind*, not uniformity of intensity. Cognitive phenomenology is constitutive of genuine understanding in the following sense: whenever a subject grasps a meaning, there is some phenomenal character to the grasping, and that character individuates thoughts with different contents. Every value above zero counts as instantiation; variation in degree is compatible with structural necessity. The exemplar treatment of this constitutive-vs-scalar distinction is in [zahavian-minimal-self](/concepts/self-and-self-consciousness/), where first-personal givenness is defended as structurally necessary in kind while acknowledged as scalar in degree across clinical and meditative cases. The same move licenses liberalism here: a scalar feature can still be structurally necessary if every instantiation above zero counts as an instance of the kind.
+The reply is that the liberal claim is one about *kind*, not uniformity of intensity. Cognitive phenomenology is constitutive of genuine understanding in the following sense: whenever a subject grasps a meaning, there is some phenomenal character to the grasping, and that character individuates thoughts with different contents. Every value above zero counts as instantiation; variation in degree is compatible with structural necessity. The exemplar treatment of this constitutive-vs-scalar distinction is in [self-and-self-consciousness](/concepts/self-and-self-consciousness/#constitutive-as-kind-not-as-degree), where first-personal givenness is defended as structurally necessary in kind while acknowledged as scalar in degree across clinical and meditative cases. The same move licenses liberalism here: a scalar feature can still be structurally necessary if every instantiation above zero counts as an instance of the kind.
 
 The conservative would need to produce not merely variation — liberalism predicts this — but a clear case of genuine understanding occurring with no phenomenal character whatsoever. Clinical variation supplies gradients, not cases of zero; gradients are what a scalar structural feature should produce.
 

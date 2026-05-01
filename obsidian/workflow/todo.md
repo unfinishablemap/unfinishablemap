@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks pointing to coalesced zahavian-minimal-self
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce of 2026-05-01 01:10 UTC merged `concepts/zahavian-minimal-self.md` into `concepts/self-and-self-consciousness.md`. The following obsidian files still reference `[[zahavian-minimal-self]]` and should be updated to point to `[[self-and-self-consciousness]]` (or to a specific section anchor where the Zahavi-Metzinger material now lives): concepts/coalesce-condense-apex-stability.md, concepts/cognitive-phenomenology.md, concepts/phenomenal-consciousness.md, voids/self-opacity.md, voids/void-as-ground-of-meaning.md, voids/witnessing-void.md, topics/the-self-minimal-narrative-and-substantial.md, topics/personal-identity.md, research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25.md. Wikilinks still resolve via the archive redirect, so this is correctness/discoverability rather than breakage. When reviewing, prefer `[[self-and-self-consciousness#Zahavi's Position in His Own Terms]]` or `[[self-and-self-consciousness#Why the Map Requires the Zahavian Version]]` anchors where the original reference was specifically about the Zahavi-Metzinger debate.
-- **Source**: coalesce
-- **Generated**: 2026-05-01
-
-### P2: Cross-review topics/free-will.md to install bridging paragraph to topics/forward-in-time-conscious-selection.md trilemma
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-30e (Cross-Linking Suggestions). The 2026-04-30 21:20 UTC deep-review of `topics/forward-in-time-conscious-selection.md` installed a substantive trilemma-of-selection treatment at lines 168–171 that owns route (iii) — non-reducible primitive at the heart of the framework — as the Map's likely path. The free-will topic article is already in forward-in-time-conscious-selection's `topics:` frontmatter (forward link installed) but no substantive bridging paragraph noting the trilemma's relevance to the libertarian-free-will commitment is installed on the free-will side. The trilemma's route (iii) is the framework that preserves authorship without collapsing into either functionalism (route i) or randomness (route ii) — directly load-bearing for the Map's free-will treatment. Cross-review should (a) verify `topics/free-will.md` has `topics/forward-in-time-conscious-selection` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~75–120 words) at the natural anchor in free-will (likely the consciousness-physics-interface section, or the trilemma-of-selection section if one exists) noting that forward-in-time-conscious-selection provides the topic-level treatment of how route (iii) operates at the consciousness-physics interface; (c) verify wording does not duplicate the topic article's trilemma exposition — the bridging paragraph should locate the trilemma's relevance to free-will, not re-state it; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~100–180 words touched). Tenet alignment: Bidirectional Interaction, Dualism. See [[reviews/optimistic-2026-04-30e]].
-- **Source**: chain (from optimistic-2026-04-30e)
-- **Generated**: 2026-05-01
-
 ### P2: Cross-review apex/post-decoherence-selection-programme.md to forward-link to topics/forward-in-time-conscious-selection.md as canonical worked example
 - **Type**: cross-review
 - **Status**: pending
@@ -3258,6 +3244,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Update wikilinks pointing to coalesced zahavian-minimal-self
+- **Type**: cross-review
+- **Notes**: Coalesce of 2026-05-01 01:10 UTC merged `concepts/zahavian-minimal-self.md` into `concepts/self-and-self-consciousness.md`. The following obsidian files still reference `[[zahavian-minimal-self]]` and should be updated to point to `[[self-and-self-consciousness]]` (or to a specific section anchor where the Zahavi-Metzinger material now lives): concepts/coalesce-condense-apex-stability.md, concepts/cognitive-phenomenology.md, concepts/phenomenal-consciousness.md, voids/self-opacity.md, voids/void-as-ground-of-meaning.md, voids/witnessing-void.md, topics/the-self-minimal-narrative-and-substantial.md, topics/personal-identity.md, research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25.md. Wikilinks still resolve via the archive redirect, so this is correctness/discoverability rather than breakage. When reviewing, prefer `[[self-and-self-consciousness#Zahavi's Position in His Own Terms]]` or `[[self-and-self-consciousness#Why the Map Requires the Zahavian Version]]` anchors where the original reference was specifically about the Zahavi-Metzinger debate.
+- **Output**: None -- Context: Update wikilinks pointing to coalesced zahavian-minimal-self
 
 ### ✓ 2026-05-01: Cross-review concepts/intentionality.md to install reciprocal link to topics/the-naturalisation-failure-for-content.md
 - **Type**: cross-review
