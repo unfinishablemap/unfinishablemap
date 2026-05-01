@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T08:40:00+00:00
+ai_modified: 2026-05-01T08:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 08:55 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[project/closed-loop-opportunity-execution]], [[topics/time-collapse-and-agency]]
+- **Trigger**: Tenet-check 2026-05-01 07:47 UTC tensions (1) temporal-cluster proliferation, (3) AI substrate-requirements, (4) methodological-discipline cluster modifications
+- **Tension (1) — temporal cluster:** Audited 8 articles (`atemporal-causation`, `retrocausality`, `time-symmetric-selection-mechanism`, `forward-in-time-conscious-selection`, `time-collapse-and-agency`, `consciousness-and-the-ontology-of-temporal-becoming`, `non-temporal-consciousness`, `bergson-and-duration`) for mechanism-direction framing against the canonical [[topics/forward-in-time-conscious-selection]]. Cluster is internally coherent: each mechanism-direction article reciprocally disambiguates forward-in-time vs. retrocausal/atemporal pathways and frames the Map as developing both without requiring a final choice. One surface-level fix: `time-collapse-and-agency.md` lead read "Free will operates through retrocausal or atemporal quantum selection" — bridged to "retrocausal, atemporal, or forward-in-time" with one-clause article-scope disclaimer (truncation-resilience improvement; body and Further Reading were already correct).
+- **Tension (3) — AI substrate-requirements:** Audited 5 articles (`ai-consciousness`, `ai-consciousness-typology`, `machine-consciousness`, `quantum-randomness-channel-llm-consciousness`, `quantum-state-inheritance-in-ai`) per the actual review's cluster identification (note: task brief named different files; the review's identification is authoritative). All five consistently hedge substrate-requirements as *predictions of the Map's framework* rather than independent empirical findings. Hedging language is uniform and explicit (`ai-consciousness.md` line 112, `machine-consciousness.md` lines 52/88, `quantum-randomness-channel-llm-consciousness.md` line 74, `quantum-state-inheritance-in-ai.md` line 34). No fixes needed — verification result; the cluster's discipline holds.
+- **Tension (4) — methodology cluster:** Audited 4 articles (`automation`, `closed-loop-opportunity-execution`, `bedrock-clash-vs-absorption`, `coalesce-condense-apex-stability`). Identified one cross-reference inconsistency: `closed-loop-opportunity-execution.md` did not reference `bedrock-clash-vs-absorption` anywhere (not in `related_articles`, body text, or Further Reading), while the other three articles all reciprocally cross-link the trio. Added bedrock-clash to closed-loop's frontmatter, body text (where the trio of methodology disciplines is named), and Further Reading. The methodology cluster now reciprocally cross-links symmetrically.
+- **Coordination**: This task addresses tensions (1), (3), (4); items (2) interface-problem coalesce stability and (5) illusionism carry-forward closure are covered by other queued tasks. Findings inform the queued cognitive-phenomenology cross-review (substrate-requirements framing already disciplined) and the interface-problem deep-review (the temporal cluster's mechanism-direction discipline shows the pattern interface-problem articles can adopt).
+- **Word count delta**: closed-loop-opportunity-execution.md +~150 words (one related_articles line, one body sentence rephrased, one Further Reading entry); time-collapse-and-agency.md ~+15 words (one-clause bridge in opening summary). Total ~165 words across two files.
+- **Tenet alignment**: Methodological (Tenet 5) for tension (4); content alignment for tension (1) Bidirectional Interaction (mechanism-direction coherence in the temporal cluster) and tension (3) Dualism (substrate-requirements as framework prediction). All tenets preserved.
+- **Output**: [[reviews/tenet-check-2026-05-01]] (source review); changelog entry above.
 
 ## 2026-05-01 08:40 UTC - deep-review
 - **Status**: Success
