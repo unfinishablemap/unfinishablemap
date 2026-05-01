@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T02:55:00+00:00
+ai_modified: 2026-05-01T03:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 03:11 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/cognitive-phenomenology]] — refined 2026-05-01 02:55 UTC absorbing voids research; ~5,200 words; new "Introspective Limits" section (~770 words) installing Würzburg-Titchener precedent and Fürst's three-faces conjunction
+- **Output**: [[reviews/pessimistic-2026-05-01]]
+- **Key findings**: Self-undermining tension between new "Introspective Limits" section and the article's introspection-based central evidence; Würzburg-Titchener precedent read backwards (historical lesson is abandonment, not qualified-liberal default); PCT promoted to explanatory tool without independent defence; Tallis regress argument against illusionism begs the question; methodological asymmetry justifications reduce to functional differences; MQI tenet bridge decorative and No Many Worlds bridge question-begging; internal contradiction between "What Would Challenge This View?" falsification list and "Three Faces" structural-irresolvability claim. Seven critical issues filed (one High, several Medium-High); follow-up refine task added to todo.md.
 
 ## 2026-05-01 02:55 UTC - refine-draft
 - **Status**: Success
