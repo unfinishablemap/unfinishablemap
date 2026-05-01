@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-05-01
 human_modified:
-ai_modified: 2026-05-01T02:17:00+00:00
+ai_modified: 2026-05-01T04:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,12 +46,14 @@ related_articles:
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[the-observer-witness-in-meditation]]"
   - "[[witnessing-void]]"
+  - "[[the-subject-object-distinction-as-philosophical-discovery]]"
+  - "[[indexical-knowledge-and-identity]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-01
 last_curated:
-last_deep_review: 2026-04-29T03:19:00+00:00
+last_deep_review: 2026-05-01T04:25:00+00:00
 coalesced_from:
   - "/concepts/self-and-consciousness/"
   - "/concepts/self-consciousness/"

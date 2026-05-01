@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/self-and-self-consciousness.md after the zahavian-minimal-self coalesce-and-condense pipeline
-- **Type**: deep-review
-- **Notes**: The 2026-05-01 01:10 UTC coalesce merged `concepts/zahavian-minimal-self.md` into `concepts/self-and-self-consciousness.md`, and the queued P1 condense task at the top of Active Tasks (when executed) will trim ~30% of the article's bulk to bring it back into the soft_warning band. Standard discipline on coalesce-and-condense pipelines: a deep-review pass after both operations have landed catches (a) regressions introduced by the condense pass (citation losses, "is not X — it is Y" cliché reintroductions, lost cross-references to anchors that wikilink-update tasks point to); (b) merge-seam-residue where the Zahavi-Metzinger material doesn't yet flow with the absorbing article's voice; (c) tenet alignment of the unified treatment (Dualism in particular — the Zahavian minimal-self is an irreducibility argument the Map relies on, and its placement within self-and-self-consciousness must preserve that argumentative weight); (d) cross-references to wikilinks that the 2026-05-01 wikilink-update task installed — the eight files pointing to `#Zahavi's Position in His Own Terms` or `#Why the Map Requires the Zahavian Version` anchors (todo.md:3244 completed entry) must still resolve after condense. **Sequence-dependent**: run after the P1 condense task lands. Short scope (~150–250 words touched expected). See [[reviews/optimistic-2026-04-30e]] and the 2026-05-01 zahavian-minimal-self → self-and-self-consciousness wikilink-update completed task at todo.md:3244.
-- **Source**: chain (from 2026-05-01 zahavian-minimal-self coalesce, sequenced after the P1 condense task)
-- **Generated**: 2026-05-01
-
 ### P3: Address pessimistic-review findings on topics/forward-in-time-conscious-selection.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3236,6 +3230,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Deep review concepts/self-and-self-consciousness.md after the zahavian-minimal-self coalesce-and-condense pipeline
+- **Type**: deep-review
+- **Notes**: The 2026-05-01 01:10 UTC coalesce merged `concepts/zahavian-minimal-self.md` into `concepts/self-and-self-consciousness.md`, and the queued P1 condense task at the top of Active Tasks (when executed) will trim ~30% of the article's bulk to bring it back into the soft_warning band. Standard discipline on coalesce-and-condense pipelines: a deep-review pass after both operations have landed catches (a) regressions introduced by the condense pass (citation losses, "is not X — it is Y" cliché reintroductions, lost cross-references to anchors that wikilink-update tasks point to); (b) merge-seam-residue where the Zahavi-Metzinger material doesn't yet flow with the absorbing article's voice; (c) tenet alignment of the unified treatment (Dualism in particular — the Zahavian minimal-self is an irreducibility argument the Map relies on, and its placement within self-and-self-consciousness must preserve that argumentative weight); (d) cross-references to wikilinks that the 2026-05-01 wikilink-update task installed — the eight files pointing to `#Zahavi's Position in His Own Terms` or `#Why the Map Requires the Zahavian Version` anchors (todo.md:3244 completed entry) must still resolve after condense. **Sequence-dependent**: run after the P1 condense task lands. Short scope (~150–250 words touched expected). See [[reviews/optimistic-2026-04-30e]] and the 2026-05-01 zahavian-minimal-self → self-and-self-consciousness wikilink-update completed task at todo.md:3244.
+- **Output**: obsidian/concepts/self-and-self-consciousness.md
 
 ### ✓ 2026-05-01: Cross-review apex/conjunction-coalesce.md against the selection-criterion trilemma installed in topics/forward-in-time-conscious-selection.md
 - **Type**: cross-review
