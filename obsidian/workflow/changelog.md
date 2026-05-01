@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T08:00:00+00:00
+ai_modified: 2026-05-01T08:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 08:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/cognitive-phenomenology]]
+- **Cross-review trigger**: Verify the seven `[[pessimistic-2026-05-01]]` fixes survived the 05:10 UTC condense (5645 → 2963 words, 47% reduction).
+- **Word count**: 2963 → 2963 (0; verification-only pass, length-neutral preserved at 119% of soft threshold)
+- **Critical issues addressed**: 0 (all seven pessimistic-2026-05-01 fixes verified intact: self-application worry framing; Würzburg-Titchener neutral reading; PCT abductive-bet defence with Chinese Room/LLM-skepticism conditional on PCT; Frankish engagement replacing Tallis; methodological asymmetry as defeating-symmetry-charge with functional-only concession; MQI honest non-link + MWI within-branch consistency; "What Would Challenge" reframed to abductive-balance shifters; Buddhist-jhāna dismantlability correction with constitutive claim restricted to ordinary range)
+- **Medium issues addressed**: 0 (all preserved through condense)
+- **Enhancements made**: 0 (verification-only)
+- **Attribution check**: Strawson, Tye, Pitt, Chudnoff, Frankish, Sass-Parnas, Lennon, Fürst (×2), and Pāli-Buddhist sources all faithful; no qualifier-drops; Map/source separation maintained throughout (PCT abductive bet with downstream applications conditional)
+- **Convergence**: 10th review pass. The cross-review chain triggered by `[[pessimistic-2026-05-01]]` is now closed: pessimistic (03:11) → refine (03:25) → second refine (04:55, Buddhist-jhāna fix) → condense (05:10) → this verification (08:12). Article at convergence; no further reviews warranted by this editorial cycle.
+- **Output**: [[reviews/deep-review-2026-05-01-cognitive-phenomenology]]
 
 ## 2026-05-01 08:00 UTC - deep-review
 - **Status**: Success

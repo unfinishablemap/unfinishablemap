@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-05-01T05:10:00+00:00
+ai_modified: 2026-05-01T08:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,7 +55,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-04-30T01:41:00+00:00
+last_deep_review: 2026-05-01T08:12:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
 ---
