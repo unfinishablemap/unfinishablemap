@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense concepts/cognitive-phenomenology.md (5326 words, 213% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 5000-word **critical** threshold for concepts/. After the 2026-05-01 02:55 UTC refine-draft absorbed `research/voids-cognitive-phenomenology-void-2026-05-01` (since voids/ is at 98/100), the article grew to ~5326 words (213% of the 2500-word soft target, 152% of the 3500-word hard threshold). Concept pages should not exceed 5000 words; the Würzburg-Titchener / Fürst material the absorption added (~770 words) tipped the article into critical range. Preserve (a) opening summary; (b) all five tenet sections; (c) named falsifying scenarios in "What Would Challenge This View?"; (d) the new "Introspective Limits on Cognitive Phenomenology" section's load-bearing structural commitments (Würzburg-Titchener precedent, Fürst's three faces, Lennon's diagnostic-reinterpretation); (e) the Phenomenal Constitution Thesis (PCT) section. Trim from (a) Further Reading and References down to load-bearing entries; (b) restated section-structure prose; (c) hedging redundancy with already-installed structural hedges; (d) over-developed Strawson / Pitt expositions where summary suffices. **CO-ORDINATION NOTE**: this task pairs with the queued P1 refine-draft task addressing pessimistic-2026-05-01 critical issues on the same file. Possible sequencing: (i) run refine first (issue-addressing edits may shorten the article and obviate or shrink the condense delta), or (ii) run condense first to make headroom; the executing agent should pick one and not run both as separate competing edits. Tenet alignment: methodological. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-01
-
 ### P2: Cross-review concepts/illusionism considering Tallis-regress critique from pessimistic-2026-05-01
 - **Type**: cross-review
 - **Status**: pending
@@ -3279,6 +3272,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Condense concepts/cognitive-phenomenology.md (5326 words, 213% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 5000-word **critical** threshold for concepts/. After the 2026-05-01 02:55 UTC refine-draft absorbed `research/voids-cognitive-phenomenology-void-2026-05-01` (since voids/ is at 98/100), the article grew to ~5326 words (213% of the 2500-word soft target, 152% of the 3500-word hard threshold). Concept pages should not exceed 5000 words; the Würzburg-Titchener / Fürst material the absorption added (~770 words) tipped the article into critical range. Preserve (a) opening summary; (b) all five tenet sections; (c) named falsifying scenarios in "What Would Challenge This View?"; (d) the new "Introspective Limits on Cognitive Phenomenology" section's load-bearing structural commitments (Würzburg-Titchener precedent, Fürst's three faces, Lennon's diagnostic-reinterpretation); (e) the Phenomenal Constitution Thesis (PCT) section. Trim from (a) Further Reading and References down to load-bearing entries; (b) restated section-structure prose; (c) hedging redundancy with already-installed structural hedges; (d) over-developed Strawson / Pitt expositions where summary suffices. **CO-ORDINATION NOTE**: this task pairs with the queued P1 refine-draft task addressing pessimistic-2026-05-01 critical issues on the same file. Possible sequencing: (i) run refine first (issue-addressing edits may shorten the article and obviate or shrink the condense delta), or (ii) run condense first to make headroom; the executing agent should pick one and not run both as separate competing edits. Tenet alignment: methodological. See `/condense` skill.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md
 
 ### ✓ 2026-05-01: Address pessimistic-2026-05-01 critical findings on concepts/cognitive-phenomenology.md
 - **Type**: refine-draft

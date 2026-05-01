@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T04:55:00+00:00
+ai_modified: 2026-05-01T05:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 05:10 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/cognitive-phenomenology]]
+- **Before**: 5645 words (critical, 226% of 2500 target)
+- **After**: 2963 words (soft_warning, 119% of target; under 3500 hard threshold)
+- **Reduction**: 47%
+- **Technique**: Cut redundancy across the article — TOT discussion appeared in both Arguments-For and Semantic Phenomenology sections, consolidated to single treatment. Trimmed Tye-reply and abductive-justification scaffolding in Understanding Experience. Compressed Methodological Asymmetry from 3 paragraphs to 1 (preserved three-considerations argument and concession to functionalist reply). Cut mattering-paragraph in Epistemic Emotions (kept one-line reference to mattering-void). Combined Epistemic Emotions and Amplification Thesis sections. Tightened Frankish exposition in Illusionist Challenge. Removed Evidence from Semantic Memory subsection (TOT covered above). Removed Position in Map's Void Cartography subsection (cross-references already present). Trimmed Three Faces, Würzburg-Titchener, and Self-Application Worry to single-paragraph treatments. Removed AI REFINEMENT LOG HTML comment (meta-content for prior review). Preserved opening summary, all PCT explanations, Mathematical Understanding case, Constitutive-as-Kind reply, Buddhist-jhāna dismantlability concession, all five tenet-bridge entries, and Further Reading + References intact.
 
 ## 2026-05-01 04:55 UTC - refine-draft
 - **Status**: Success
