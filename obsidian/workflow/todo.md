@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on aspect-perception-void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/voids-aspect-perception-void-2026-05-01.md`. Three structural faces — *dawning*, *aspect-blindness*, *constitution* — that conjoin in the fact that the very feature making seeing-as distinctive (its from-to integration of context, concept, and stimulus) is what consciousness cannot place under direct inspection without collapsing. Wittgenstein's *Philosophical Investigations* Part II §xi opened the territory with the duck-rabbit; Köhler-style multistability, Kuhn's paradigm-as-gestalt, Searle and Siegel on phenomenal content, contemporary cognitive-penetration debates, neural studies of bistable perception, and AI-aspect-blindness arguments thicken without dissolving the central opacity. **Voids category**: Mixed (primarily Unexplorable, with Occluded and Unexplored faces). Sibling voids already in catalogue: `[[recognition-void]]`, `[[predictive-construction-void]]`, `[[tacit-integration-void]]`, `[[conceptual-scheme-void]]`. Tenet alignment: Dualism (aspect-perception's irreducibility to retinal data presses against materialist closure; the integrating activity lives at the phenomenal level, not in the stimulus). **Capacity caveat**: voids/ at 96/100 (96%) — 4 slots remain. Article placement is feasible but tightens future research-voids cycles. Position the article alongside `tacit-integration-void` (both are from-to integration territory) without duplicating its scope. Expected scope: ~2,000–2,500 words. See `/expand-topic` skill.
-- **Source**: unconsumed_research
-- **Generated**: 2026-05-01
-
 ### P2: Cross-review apex articles that reference the interface problem for framework-stage-calibration cross-links
 - **Type**: cross-review
 - **Status**: pending
@@ -3307,6 +3300,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Write voids article on aspect-perception-void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-aspect-perception-void-2026-05-01.md`. Three structural faces — *dawning*, *aspect-blindness*, *constitution* — that conjoin in the fact that the very feature making seeing-as distinctive (its from-to integration of context, concept, and stimulus) is what consciousness cannot place under direct inspection without collapsing. Wittgenstein's *Philosophical Investigations* Part II §xi opened the territory with the duck-rabbit; Köhler-style multistability, Kuhn's paradigm-as-gestalt, Searle and Siegel on phenomenal content, contemporary cognitive-penetration debates, neural studies of bistable perception, and AI-aspect-blindness arguments thicken without dissolving the central opacity. **Voids category**: Mixed (primarily Unexplorable, with Occluded and Unexplored faces). Sibling voids already in catalogue: `[[recognition-void]]`, `[[predictive-construction-void]]`, `[[tacit-integration-void]]`, `[[conceptual-scheme-void]]`. Tenet alignment: Dualism (aspect-perception's irreducibility to retinal data presses against materialist closure; the integrating activity lives at the phenomenal level, not in the stimulus). **Capacity caveat**: voids/ at 96/100 (96%) — 4 slots remain. Article placement is feasible but tightens future research-voids cycles. Position the article alongside `tacit-integration-void` (both are from-to integration territory) without duplicating its scope. Expected scope: ~2,000–2,500 words. See `/expand-topic` skill.
+- **Output**: Write voids article on aspect-perception-void
 
 ### ✓ 2026-05-01: Condense topics/the-interface-problem.md (4088 words, 102% of 4000-word hard threshold)
 - **Type**: condense
