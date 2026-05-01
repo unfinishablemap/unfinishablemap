@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-01T07:41:00+00:00
+ai_modified: 2026-05-01T08:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-01
 last_curated: null
-last_deep_review: 2026-05-01T05:55:00+00:00
+last_deep_review: 2026-05-01T08:00:00+00:00
 coalesced_from:
   - "/topics/the-interface-location-problem/"
   - "/topics/the-interface-specification-problem/"
@@ -57,7 +57,7 @@ The Map's position has evolved on the location half. Initial agnosticism among f
 
 ## Why Both Questions Matter
 
-Different candidate sites generate different experimental predictions: anaesthetics targeting tubulin should disrupt consciousness selectively if microtubules host the interface; ion channel quantum tunnelling rates should correlate with decision outcomes if those do. Each site faces different [[decoherence]] timescales and different connections to the [[attention-as-interface|attention system]] — the mapping depends on what is being mapped onto. And the location constrains what consciousness can affect while the specification constrains how strongly: a synapse-level interface with a steep threshold could shape fine-grained patterns; a column-level interface with smooth bias selects among coarser alternatives, consistent with the ~10 bits/second [[psychophysical-laws|bandwidth constraint]].
+Different candidate sites generate different experimental predictions: anaesthetics targeting tubulin should disrupt consciousness selectively if microtubules host the interface; ion channel quantum tunnelling rates should correlate with decision outcomes if those do. Each site faces different [[decoherence]] timescales and different connections to the [[attention-as-interface|attention system]] — the mapping depends on what is being mapped onto. And the location constrains what consciousness can affect while the specification constrains how strongly: a synapse-level interface with a steep threshold could shape fine-grained patterns; a column-level interface with smooth bias selects among coarser alternatives, consistent with the ~10 bits/second [[psychophysical-laws|bandwidth constraint]] (Zheng & Meister 2024).
 
 # Part 1: Where Does the Interface Operate?
 
@@ -67,7 +67,7 @@ Four primary candidate sites have been proposed, each grounded in different theo
 
 ### Microtubules (Orch OR)
 
-Penrose and Hameroff propose that consciousness interfaces through quantum computations in microtubules — cylindrical protein structures within neurons. On Orchestrated Objective Reduction, tubulin proteins exist in superposition, with consciousness selecting which pattern collapses at roughly 40 events per second, in concert with gamma-band synchrony. A 2024 epothilone B study found microtubule-stabilising drugs delayed anaesthetic-induced unconsciousness in rats, and Hagan et al. (2002) proposed revised decoherence estimates of 10⁻⁵–10⁻⁴ seconds — though both findings have non-quantum explanations and remain contested. The decoherence timescale problem is severe: even optimistic revised estimates are shorter than the millisecond timescales at which neural processes operate. Penrose's reliance on gravitational self-collapse introduces physics beyond the standard model.
+Penrose and Hameroff propose that consciousness interfaces through quantum computations in microtubules — cylindrical protein structures within neurons. On Orchestrated Objective Reduction, tubulin proteins exist in superposition, with consciousness selecting which pattern collapses at roughly 40 events per second, in concert with gamma-band synchrony. A 2024 epothilone B study found microtubule-stabilising drugs delayed anaesthetic-induced unconsciousness in rats — consistent with Orch OR though also explicable through non-quantum microtubule function in neural stability. Hagan et al. (2002) proposed revised decoherence estimates of 10⁻⁵–10⁻⁴ seconds, though Tegmark (2000) and others contend the original calculations stand. The decoherence timescale problem is severe: even optimistic revised estimates are shorter than the millisecond timescales at which neural processes operate. Penrose's reliance on gravitational self-collapse introduces physics beyond the standard model.
 
 ### Ion Channels (Stapp/Schwartz)
 
@@ -180,22 +180,20 @@ The interface problem is the Map's most significant open challenge. Acknowledgin
 
 ## References
 
-1. Bell, J.S. (1990). Against 'Measurement'. *Physics World*, 3(8), 33-40.
-2. Cai, X., Liu, C., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635, 406-414. https://doi.org/10.1038/s41586-024-08038-z
-3. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-4. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
-5. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
-6. Georgiev, D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.
-7. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-8. Litt, A., et al. (2006). Is the brain a quantum computer? *Cognitive Science*, 30(3), 593-603.
-9. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Science*.
-10. Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-11. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
-12. Rizzolatti, G., et al. (1987). Reorienting attention across the horizontal and vertical meridians. *Neuropsychologia*, 25(1A), 31-40.
-13. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
-14. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
-15. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-16. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-17. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
-18. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-19. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
+1. Cai, X., Liu, C., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635, 406-414. https://doi.org/10.1038/s41586-024-08038-z
+2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+3. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
+4. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
+5. Georgiev, D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.
+6. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+7. Litt, A., et al. (2006). Is the brain a quantum computer? *Cognitive Science*, 30(3), 593-603.
+8. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Science*.
+9. Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+10. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+11. Rizzolatti, G., et al. (1987). Reorienting attention across the horizontal and vertical meridians. *Neuropsychologia*, 25(1A), 31-40.
+12. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+14. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+15. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
+16. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+17. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).

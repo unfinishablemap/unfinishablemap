@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T07:47:00+00:00
+ai_modified: 2026-05-01T08:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 08:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-interface-problem]]
+- **Word count**: 3379 → 3375 (−4)
+- **Critical issues addressed**: 1 (Tegmark attribution restored — dropped during 07:41 UTC condense; the original location article's "Tegmark and others arguing the original calculations stand" inline reference was collapsed into a generic "remain contested" qualifier)
+- **Medium issues addressed**: 3 (Bell 1990 orphan reference removed; Schaffer "Naturalistic Dualism" orphan reference removed; Zheng & Meister 2024 added as inline cite for the 10 bits/second figure — was implicit-only)
+- **Enhancements made**: 0 (length-neutral, no expansions)
+- **Notes**: First deep review of the coalesced unified article (created 05:55 UTC, condensed 07:41 UTC, wikilinks retargeted 07:25 UTC). Inherits convergence from 2026-04-11 location and 2026-04-18 specification reviews — bedrock disagreements catalogued there are not re-flagged. Coalesce/condense fidelity check: structure is sound, all five tenet connections preserved, hierarchical model and constrained-pluralism arc intact, four-question specification framework intact. Three references re-rationalised (one restored, two removed) and reference list renumbered 1–17. Length-neutral mode preserved at 112% of soft threshold.
+- **Output**: [[reviews/deep-review-2026-05-01-the-interface-problem]]
 
 ## 2026-05-01 07:47 UTC - check-tenets
 - **Status**: Success
