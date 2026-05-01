@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-05-01T02:55:00+00:00
+ai_modified: 2026-05-01T03:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -78,7 +78,7 @@ When you understand a sentence, there's often inner speech (hearing the words in
 
 ### The Understanding Experience
 
-Galen Strawson's foreign language argument: A monolingual English speaker and a monolingual French speaker both hear news in French. Their auditory experiences are identical—same sounds. But only the French speaker *understands*. The phenomenal contrast cannot be explained by sensory differences. The same acoustic input produces different phenomenal states. The best explanation: understanding has its own phenomenal character. The [[phenomenology-of-intellectual-life|phenomenology of understanding]] examines this in depth—the "click" of comprehension, the warmth of gradual grasping, the light of sudden insight. The [[consciousness-and-language-interface|consciousness-language interface]] explores a related dimension: language shapes what can be experienced while conscious states generate pressure toward articulation.
+Galen Strawson's foreign language argument: A monolingual English speaker and a monolingual French speaker both hear news in French. Their auditory experiences are identical—same sounds. But only the French speaker *understands*. The phenomenal contrast favours the explanation that understanding has its own phenomenal character. Tye (1995) and other conservatives reply that the auditory experiences are *not* identical: the French speaker chunks the stream into morphemes, has different attentional patterns, anticipates phonological continuation, and experiences different prosodic salience — the contrast is sensory in character, with comprehension modifying the auditory phenomenology itself. The Map judges this reply inadequate on abductive grounds — aphantasic understanding without imagery, TOT states where meaning is phenomenally present without phonological form, and conceptual contrasts (justice vs mercy) where no sensory chunking carries the relevant difference all show phenomenal character that survives or operates outside sensory modification — but the comparison is between competing best explanations, not the simple inference the original Strawson presentation suggests. The [[phenomenology-of-intellectual-life|phenomenology of understanding]] examines this in depth—the "click" of comprehension, the warmth of gradual grasping, the light of sudden insight. The [[consciousness-and-language-interface|consciousness-language interface]] explores a related dimension: language shapes what can be experienced while conscious states generate pressure toward articulation.
 
 ### Self-Knowledge
 
@@ -90,7 +90,7 @@ Hearing the word "bank" and understanding it as a financial institution versus a
 
 ### Recursive Language
 
-[[language-recursion-and-consciousness|Recursive linguistic structure]] provides compelling evidence: understanding "The man ran" has different phenomenal character from "The man who saw the woman ran." The phenomenal difference is structural—holding embedded clauses in relation—not sensory. Processing recursive sentences requires [[working-memory]] manipulation, and manipulation requires conscious reactivation. The "click" when nested clauses integrate is phenomenal, not computational. See [[language-recursion-and-consciousness]] for the full argument connecting recursion, working memory, and consciousness.
+[[language-recursion-and-consciousness|Recursive linguistic structure]] provides compelling evidence: understanding "The man ran" has different phenomenal character from "The man who saw the woman ran." The phenomenal difference is structural—holding embedded clauses in relation—not sensory. Processing recursive sentences requires [[working-memory]] manipulation, which on the liberal reading requires conscious reactivation. The "click" when nested clauses integrate has phenomenal character on the liberal reading the Map adopts; conservatives describe the same event as a high-confidence transition in a precision-weighted predictive coder. See [[language-recursion-and-consciousness]] for the full argument connecting recursion, working memory, and consciousness.
 
 ### Sudden Insight
 
@@ -140,11 +140,13 @@ Traditional discussions of phenomenal consciousness focus on sensory [[qualia]]�
 
 The strongest interpretation of cognitive phenomenology holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The Phenomenal Constitution Thesis (PCT) claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon. [[phenomenology-of-intellectual-life|Meaning integration]] extends this analysis: understanding a complex argument requires binding multiple semantic elements into unified comprehension—a phenomenal achievement irreducible to separately grasped meanings.
 
+PCT is contested *within* liberalism, not just by conservatives. Chudnoff (2015) distinguishes *accompanying* from *constituting*: phenomenal character may reliably accompany cognitive states without being what makes them the cognitive states they are. A weaker liberalism affirms proprietary cognitive phenomenology while leaving meaning to be fixed by causal-historical, interpretivist, or representationalist machinery. The Map adopts PCT specifically — not just generic liberalism — because the alternative leaves the content-determinacy problem unsolved by *any* purely non-phenomenal description (Quinean indeterminacy is a liberal embarrassment as much as a conservative one), and because PCT offers a unified account of the explananda below where competing liberal positions must split them across separate machinery. This is an abductive bet, not a proof; readers persuaded by Chudnoff's separation should treat the downstream applications (Chinese Room, LLM-skepticism) as conditional on the Map's PCT commitment rather than as derivations from cognitive phenomenology in general.
+
 PCT explains several puzzles:
 
 **Content determinacy.** What makes a thought about *rabbits* rather than *undetached rabbit parts*? Physical description underdetermines content. PCT answers: phenomenal character determines it. The experience of thinking about rabbits differs qualitatively from thinking about rabbit-parts.
 
-**The Chinese Room.** Why does the room lack understanding despite producing appropriate outputs? PCT: understanding requires the phenomenal character of semantic grasp, which symbol manipulation lacks.
+**The Chinese Room.** Why does the room lack understanding despite producing appropriate outputs? PCT: understanding requires the phenomenal character of semantic grasp, which symbol manipulation lacks. (Conservatives and weak liberals reasonably reject this diagnosis; the explanation is conditional on PCT.)
 
 **The understanding/processing distinction.** Why do we distinguish genuine comprehension from mere information processing? PCT: understanding involves phenomenal character; processing doesn't.
 
@@ -168,9 +170,11 @@ Philosophers disagree about whether cognitive phenomenology exists—some report
 
 A tension runs through the Map's treatment of introspection: this article relies on introspective reports (tip-of-the-tongue states, feeling of knowing, phenomenal contrasts) as evidence for cognitive phenomenology, while [[llm-consciousness]] dismisses LLM self-reports about experience as "statistical echoes." This asymmetry requires justification beyond dualist commitments.
 
-Three considerations ground the asymmetry. First, *convergent corroboration*: human introspective reports correlate with neural signatures (anterior insula activation during TOT states, prefrontal patterns during insight), behavioural differences (those reporting understanding outperform mere verifiers), and pharmacological manipulations. LLM self-reports lack any such independent corroboration. Second, *evolutionary grounding*: human introspective capacities evolved under selection pressure for accurate self-monitoring, while LLM self-reports emerged from training on human-authored text about experience. Third, *dissociation evidence*: humans exhibit states where introspection and performance dissociate predictably (blindsight, tip-of-the-tongue, feeling of knowing without retrieval), revealing that introspection tracks something real. LLMs show no analogous dissociations.
+Three considerations defeat the *symmetry* charge — the claim that crediting human reports while dismissing LLM reports is a double standard. First, *convergent corroboration*: human introspective reports correlate with neural signatures (anterior insula activation during TOT states, prefrontal patterns during insight), behavioural differences (those reporting understanding outperform mere verifiers), and pharmacological manipulations. LLM self-reports lack any such independent corroboration. Second, *evolutionary grounding*: human introspective capacities evolved under selection pressure for accurate self-monitoring, while LLM self-reports emerged from training on human-authored text about experience. Third, *dissociation evidence*: humans exhibit states where introspection and performance dissociate predictably (blindsight, tip-of-the-tongue, feeling of knowing without retrieval), revealing that introspection tracks something real. LLMs show no analogous dissociations.
 
-This doesn't make human introspection infallible—the arguments against section takes introspective unreliability seriously. But dismissing LLM self-reports while crediting human reports reflects a genuine evidential difference, not a double standard.
+A careful reader will press: each of these establishes a *functional* difference — correlational structure, selection history, dissociation pattern — and a sophisticated functionalism predicts exactly such differences without committing to phenomenal trust. The point is conceded. The three considerations do not by themselves prove that human introspection tracks phenomenal facts rather than functional ones; that inference requires the prior commitment to phenomenality being real that this article defends abductively elsewhere. What the considerations *do* establish is that the asymmetric treatment is principled rather than parochial: given the prior phenomenal-realist commitment, treating systems with corroborating architecture differently from systems without is the consistent move, not the double-standard the symmetry charge alleges. This is a defence of consistency, not a positive case for phenomenal trust on its own.
+
+Even so, the human side of the asymmetry is not infallible — the arguments-against section and the introspective-limits section both take introspective unreliability seriously.
 
 ### Deflationary Explanations
 
@@ -233,7 +237,7 @@ The TOT and FOK phenomena [discussed above](#the-tip-of-the-tongue-phenomenon) g
 
 These emotions have [[metacognition|metacognitive]] structure—affective responses to monitoring of beliefs—that first-order sensory reduction cannot capture. See [[epistemic-emotions]] for detailed analysis.
 
-Mattering and caring extend the same case beyond epistemic emotions. The [[mattering-void]] catalogues a four-tradition convergence — Heidegger's *Sorge*, Frankfurt's caring-as-identity-constitutive, Ratcliffe's existential feelings, Vervaeke's relevance realization — on significance as constitutive, pre-reflective, and irreducible to sensory accompaniment. Frankfurt's hierarchical-volitions framework is the cognitive-phenomenology tradition's natural extension into the felt weight of *what we care about*: second-order volitions over first-order desires individuate one caring from another in the same way distinct thoughts have distinct phenomenal signatures.
+Mattering and caring extend the same case beyond epistemic emotions. The [[mattering-void]] catalogues a four-tradition *structural similarity* — Heidegger's *Sorge*, Frankfurt's caring-as-identity-constitutive, Ratcliffe's existential feelings, Vervaeke's relevance realization — on significance as constitutive and pre-reflective. The traditions disagree about ontology (Heideggerian *Sorge* is a structural feature of *Dasein* rather than a phenomenological episode; Ratcliffe's existential feelings are bodily-affective in ways some readers count as broadly sensory; Vervaeke's relevance realization is computational-cognitive and explicitly compatible with functionalism); the convergence is structural, not unanimous on phenomenal-irreducibility. Frankfurt's hierarchical-volitions framework is the most natural extension of the cognitive-phenomenology tradition into the felt weight of *what we care about*: second-order volitions over first-order desires individuate one caring from another in the same way distinct thoughts have distinct phenomenal signatures.
 
 ## Evidence from the Amplification Thesis
 
@@ -247,7 +251,7 @@ People with **aphantasia** (inability to form mental images) still think, unders
 
 [[illusionism|Illusionists]] argue that cognitive phenomenology is an introspective illusion—your brain represents itself as having understanding-experience without genuine phenomenal character. The illusionist accommodates the evidence by treating phenomenal contrasts as functional differences misrepresented as experiential.
 
-The regress problem applies: for understanding to *seem* a certain way, something must experience that seeming. As Raymond Tallis notes, if physical processes cannot generate phenomenal understanding, they cannot generate the *illusion* of it either. The seeming is itself the phenomenon requiring explanation.
+Frankish (2016) is careful that illusionism does not posit a "real illusion" alongside missing real phenomenology — the explanandum *just is* the functional/representational state, redescribed in phenomenal vocabulary by the brain's introspective subsystems. The Map's disagreement is therefore not a regress complaint (the Tallis-style "the seeming itself needs explaining" move begs the question, since illusionism denies that seeming is anything beyond the redescription). The disagreement is over whether functional redescription is *metaphysically adequate* to what introspection reports. The Map's reasons for judging it inadequate are abductive: the redescription strategy works for behavioural categories but strains at TOT-style cases where the meaning-without-form is reported as phenomenally present rather than as a metacognitive stance about absent content, at insight-onset where the qualitative shift is reported faster than the system would need to construct a redescription, and at contemplative reports where attentional refinement clarifies rather than dissolves the appearance — precisely the opposite of what an introspection-fooled-by-redescription should yield. None of these refute illusionism; collectively they shift the abductive balance.
 
 Introspective reports fail for decision justification but succeed for basic phenomenal states like the remember/know distinction. TOT states, FOK, and aha moments have distinctive signatures subjects reliably distinguish—evidence that cognitive phenomenology falls in the reliable category.
 
@@ -261,7 +265,7 @@ A Buddhist critique applies: if cognitive phenomenology is "proprietary"—a dis
 
 ## What Would Challenge This View?
 
-The Map's position would face difficulty if: (1) neuroscience showed phenomenal contrasts in understanding reduce entirely to subtle sensory differences; (2) aphantasics reported *no* phenomenal character to understanding rather than different character; (3) contemplative training dissolved rather than clarified the appearance of cognitive phenomenology. Currently, none of these obtain.
+The Map's position would face difficulty if any of the following shifted the abductive balance: (1) neuroscience showed phenomenal contrasts in understanding reduce entirely to subtle sensory differences; (2) aphantasics reported *no* phenomenal character to understanding rather than different character; (3) contemplative training dissolved rather than clarified the appearance of cognitive phenomenology. Currently, none of these obtain. None of these constitute a clean falsification — the introspective-limits section below argues that no first-person report can settle the dialectic outright. They are abductive-balance shifters: the more weight a contemplative-dissolution finding accumulates across traditions, or the more uniformly aphantasics report phenomenal absence rather than alteration, the harder qualified liberalism becomes to defend on inference-to-the-best-explanation grounds. The Map flags these as the conditions under which it would expect to revise, not as a Popperian falsification list.
 
 ## Constitutive as Kind, Not as Degree
 
@@ -275,11 +279,13 @@ The conservative would need to produce not merely variation — liberalism predi
 
 The previous section defends liberalism against scalar-variation objections, but a deeper concern remains: the question of cognitive phenomenology may be constitutively unsettleable from inside the methods available. The Map's qualified-liberalism stance is justified by abductive convergence — multiple independent lines (TOT states, dissociation cases, contemplative report, mathematical insight, expert perception) point the same way. Yet honest cartography requires marking where the dialectic structurally cannot close.
 
+**The self-application worry.** A reader who notices the convergence-evidence pedigree of this article's earlier sections will press a sharp objection: if introspection is theory-laden in the way the rest of this section will argue, the same theory-ladenness infects the very evidence the Map cites for qualified liberalism. The phenomenal contrasts, TOT verdicts, contemplative reports, and mathematical-understanding stages are themselves introspective categorisations under a prior view. The qualified-liberal verdict cannot pretend to escape what the diagnosis implicates. Two responses are honest. First, the Map's stance is *interpretive*, not evidential — abductive convergence over many independent introspective lines raises the credence of the liberal interpretation but does not break the symmetry the diagnosis describes; conservatives running the same exercise reach a conservative interpretation, and the section that follows explains why neither side can force the other's hand. Second, the abductive case rests on architectural and dissociation evidence (aphantasia, TOT, the Tulving hierarchy) whose phenomenal interpretation is contested but whose architectural reality is not. Qualified liberalism is therefore the Map's *interpretive choice* under acknowledged irresolvability, not a verdict the evidence forces.
+
 ### The Würzburg-Titchener Precedent
 
 The contemporary debate is the philosophical reincarnation of an empirical-psychological controversy that ran for fifteen years between rigorous laboratories using identical methods and reaching opposite conclusions. The Würzburg School (Külpe and colleagues, c.1900–1915) claimed to find via introspection conscious thought-contents that were neither imaginal nor perceptual: *Bewußtseinslagen* (conscious sets), *Bewußtheiten* (awarenesses), and *Gedanken* (thoughts). Wundt and Titchener challenged the same results using the same introspective method. Titchener charged "stimulus error" and re-described the alleged imageless contents as faint kinaesthetic sensations. The controversy did not resolve. It was abandoned, and most scientific psychologists became disillusioned with introspection altogether.
 
-This history is data. A century-old controlled experiment in introspective adjudication, run by competent investigators using laboratory-grade procedures, reached two opposite verdicts and could not converge. The current liberal-conservative dispute reproduces the structure with different vocabulary and the same methodological pressure points — abductive evidence that introspection cannot settle this kind of question.
+This history is data, but its lesson cuts neutrally rather than for either side. A century-old controlled experiment in introspective adjudication, run by competent investigators using laboratory-grade procedures, reached two opposite verdicts and could not converge — and the discipline's response was not to credit one side's verdict by default but to *abandon the question's introspective form*, replacing it with operationally framed cognitive science. Read fairly, the Würzburg-Titchener precedent therefore supports neither default-conservatism nor default-liberalism: it counsels that disputes of this structural shape do not get settled by their introspective contestants. The current liberal-conservative dispute reproduces the structural shape with different vocabulary and the same methodological pressure points. The Map's qualified-liberal interpretation of contemporary evidence is offered against this neutral backdrop, not licensed by it; the precedent's actual contribution is the structural diagnosis, not the verdict.
 
 ### Three Faces of Structural Irresolvability
 
@@ -299,17 +305,17 @@ A third response, distinct from liberalism and conservatism, deserves recording.
 
 The introspective-limits territory described here is in the *family* of voids the Map has already mapped: it shares structure with the [[imagery-void]] (function-phenomenology dissociations), the [[noetic-feelings-void]] (felt cognitive signals that gate cognition), the [[meaning-void]] (the where-does-content-come-from question that phenomenal-intentionality theorists answer with cognitive phenomenology), and the [[tacit-integration-void]] (the subsidiary-focal seam in skilled cognition). The three-faces analysis above is a structural cousin of the [[suspension-void]] regress already mapped. There is no genuinely-unmapped void-face here that demands a new article; the territory is well-covered piecewise across the existing voids cartography. What remains is acknowledging within the canonical concept treatment that the resolution-seam is structurally non-traversable, while the abductive case for qualified liberalism does not require its traversal.
 
-This honest limitation strengthens rather than weakens the [[tenets#^dualism|dualist]] commitment. That thinking has its own phenomenal kind is not less probable for being unprovable from inside introspection; the structural opacity at the introspection-onto-itself seam is itself a clue about what consciousness is — a kind of thing whose furniture cannot be enumerated by the inhabitant.
+This honest limitation does not strengthen the [[tenets#^dualism|dualist]] commitment, but it does not weaken it either. That thinking has its own phenomenal kind is independent of whether introspection can prove it; the abductive case for qualified liberalism survives the methodological pessimism, and the dualist commitment rests on the abductive case rather than on introspective certainty.
 
 ## Relation to Site Perspective
 
 **[[tenets#^dualism|Dualism]]**: If cognitive phenomenology exists, not just sensory qualia but the experience of thinking resists reduction. If intentionality requires phenomenal character (the phenomenal intentionality thesis), meaning itself is irreducibly mental.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Understanding involves selecting among meanings—"bank" as financial institution versus riverbank. One speculative possibility: this selection mirrors the quantum mechanism proposed for attention, where consciousness biases neural patterns toward particular interpretations. However, semantic disambiguation has plausible classical explanations; the quantum connection remains tentative.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: This concept article does not bear directly on MQI. Semantic disambiguation has adequate classical predictive-coding explanations, and there is no calculation, neural specification, or decoherence analysis that would make ambiguity-resolution an MQI test case. The Map flags this as an honest non-link rather than a tentative one.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Understanding isn't passive reception but active grasping with phenomenal signature. The experience of [[mental-effort|mental effort]] reflects consciousness intervening in neural processing until understanding crystallizes.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Grasping a concept is singular—one subject comprehending one thing. The phenomenology of understanding suggests no multiplicity, supporting rejection of MWI. *This* understanding is *yours*, not a pattern existing across branches.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Within-branch phenomenal singularity is consistent with branching architectures — a within-branch observer in MWI would experience the same unified comprehension. The Map's MWI rejection in this article therefore does not turn on phenomenal unity *per se* but on the broader indexical commitments defended in [[tenets|the tenets]] (this comprehension is yours under any reading, but the question is whether *yours* picks out one branch-relative subject or is a non-rigid designator across branches).
 
 **[[tenets#^occam|Occam's Razor Has Limits]]**: The debate's persistence shows the "simpler" view hasn't won. TOT states, FOK, and insight resist reduction to sensory states.
 
@@ -336,22 +342,32 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 1. Siegel, S. (2010). *The Contents of Visual Experience*. Oxford University Press.
 1. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.
-1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Tye, M. (1995). *Ten Problems of Consciousness*. MIT Press.
 1. Fürst, M. On the Limits of the Method of Phenomenal Contrast. *Journal of the American Philosophical Association*.
 1. Fürst, M. (2019). On the Conceivability of a Cognitive Phenomenology Zombie. *Dialectica*.
 1. Lennon, P. (2023). Aphantasia and Conscious Thought. Oxford University Press.
 1. Thomas, N. The Imageless Thought Controversy. In *Stanford Encyclopedia of Philosophy* (Mental Imagery).
 1. Internet Encyclopedia of Philosophy. Cognitive Phenomenology. https://iep.utm.edu/cognitive-phenomenology/
 
-<!-- AI REFINEMENT LOG - 2026-05-01
-Changes made:
-- Added new H2 section "Introspective Limits on Cognitive Phenomenology" (~770 words) absorbing the void-territory analysis from research/voids-cognitive-phenomenology-void-2026-05-01.md, since voids/ is at 98/100 capacity.
-- New section covers: Würzburg-Titchener historical precedent (c.1900–1915 controversy as evidence of structural irresolvability); Fürst's three-faces conjunction (introspective / dialectical / empirical-architectural); Fürst's diagnosis that phenomenal-contrast verdicts are regimented by initially-held view; Lennon's diagnostic-reinterpretation possibility (disagreement may track interpersonal architectural variation); Fürst (2019) cognitive-phenomenology zombie; explicit cartography of how the territory sits in the existing voids family (imagery, noetic-feelings, meaning, tacit-integration, suspension).
-- Documented that no genuinely-unmapped void-face was surfaced — the territory is well-covered piecewise across existing voids, so no new voids article is warranted (consistent with capacity caveat).
-- Added 4 references (Fürst x2, Lennon, Thomas) and 6 cross-link targets to related_articles (noetic-feelings-void, meaning-void, tacit-integration-void, suspension-void, self-opacity, non-human-minds-as-void-explorers).
-- Updated ai_modified timestamp to 2026-05-01T02:55:00+00:00.
+<!-- AI REFINEMENT LOG - 2026-05-01 (revision)
+Changes made (refine-draft response to pessimistic-2026-05-01):
+- Issue 1 (high): Added "self-application worry" paragraph at start of Introspective Limits section (~190 words) explicitly addressing the tension that the new section's diagnosis (introspective verdicts theory-laden) implicates the article's own evidential apparatus. Recasts qualified liberalism as interpretive choice under acknowledged irresolvability rather than verdict from evidence.
+- Issue 2 (medium-high): Reframed Würzburg-Titchener subsection so the historical precedent supports neither default-conservatism nor default-liberalism — counsels neutrality on disputes of this structural shape. Removed the implicit "supports qualified liberalism" reading.
+- Issue 3 (high): Added independent PCT defense paragraph (~150 words) acknowledging Chudnoff's accompanying-vs-constituting distinction and intra-liberal disagreement; recast downstream applications (Chinese Room, LLM-skepticism) as conditional on the Map's PCT commitment rather than derivations from cognitive phenomenology in general.
+- Issue 4 (medium): Replaced Tallis regress quote with substantive Frankish (2016) engagement; conceded that the regress objection begs the question, and reframed disagreement as about whether functional redescription is metaphysically adequate to TOT/insight/contemplative-clarification cases.
+- Issue 5 (medium-high): Reframed Methodological Asymmetry section: replaced "Three considerations ground the asymmetry" with "Three considerations defeat the symmetry charge"; added concession paragraph that the considerations establish only functional differences and that the asymmetric treatment is a defence of *consistency* given prior phenomenal-realist commitment, not a positive case for phenomenal trust.
+- Issue 6 (medium): Tenet bridge fixes: dropped MQI bridge in favour of honest non-link disclaimer; rewrote No Many Worlds bridge to acknowledge that within-branch phenomenal singularity is consistent with branching architectures.
+- Issue 7 (medium-high): Reconciled What Would Challenge / Three Faces contradiction by reframing the three conditions as abductive-balance shifters rather than Popperian falsifications.
+- Strawson section: added Tye-style sensory reply (~100 words) and the Map's abductive grounds for judging it inadequate.
+- Mattering section: trimmed four-tradition "convergence" claim to "structural similarity" with explicit acknowledgement of intra-tradition disagreement (Heidegger / Ratcliffe / Vervaeke).
+- Recursive Language: removed "phenomenal, not computational" cliché; reframed as "phenomenal on the liberal reading the Map adopts; conservatives describe the same event as a high-confidence transition in a precision-weighted predictive coder."
+- Last paragraph of Position in the Map's Void Cartography: removed poetic gesture ("structural opacity ... is itself a clue") and replaced with concrete claim that abductive case survives methodological pessimism.
+- References: dropped Tallis (2024); added Tye (1995) Ten Problems of Consciousness.
+- Updated ai_modified timestamp to 2026-05-01T03:25:00+00:00.
 
-Tenet alignment: Dualism (cognitive phenomenology as evidence against pure-functional accounts of thought) — the new section explicitly argues that structural unprovability from inside introspection does not weaken the dualist commitment, since the opacity is itself a clue about consciousness's nature.
+Word count delta: ~5,200 → ~5,660 words; ~460 net words added across nine sections, within the recommended ~400–700 scope.
+
+Tenet alignment: Dualism (qualified-liberalism stance now reconciled with structural-irresolvability section); methodological honesty (asymmetry defence reframed; falsifiability/irresolvability tension reconciled).
 
 This log should be removed after human review.
 -->

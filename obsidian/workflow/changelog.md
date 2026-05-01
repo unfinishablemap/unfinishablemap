@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T03:11:00+00:00
+ai_modified: 2026-05-01T03:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 03:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/cognitive-phenomenology]]
+- **Task**: Address seven critical issues from [[reviews/pessimistic-2026-05-01]] — self-undermining tension between new "Introspective Limits" section and the article's introspection-based central evidence; Würzburg-Titchener precedent read backwards; PCT promoted to explanatory tool without independent defence; Tallis regress argument begs the question; methodological asymmetry justifications reduce to functional differences; MQI/No Many Worlds tenet bridges over-claimed; falsifiability/structural-irresolvability internal contradiction
+- **Word count delta**: ~5,200 → ~5,660 words (+~460 words across 9 sections, within recommended 400–700 scope)
+- **High-priority fixes**:
+  - Issue 1: Added "self-application worry" paragraph (~190 words) framing qualified liberalism as interpretive choice under acknowledged irresolvability rather than verdict from evidence
+  - Issue 3: Added independent PCT defense (~150 words) acknowledging Chudnoff's accompanying-vs-constituting distinction; recast Chinese Room and LLM-skepticism downstream applications as conditional on PCT commitment
+- **Medium-high fixes**:
+  - Issue 2: Reframed Würzburg-Titchener as supporting neutrality on disputes of this structural shape, not default-liberal verdict
+  - Issue 5: Reframed Methodological Asymmetry from "ground" to "defeat the symmetry charge"; conceded considerations establish only functional differences
+  - Issue 7: Reframed three challenge conditions as abductive-balance shifters rather than Popperian falsifications
+- **Medium fixes**:
+  - Issue 4: Replaced Tallis quote with substantive Frankish (2016) engagement; added abductive grounds (TOT, insight-onset, contemplative clarification) for judging illusionist redescription inadequate
+  - Issue 6: Dropped MQI tenet bridge as honest non-link; rewrote No Many Worlds bridge to acknowledge within-branch phenomenal singularity is consistent with branching architectures
+- **Counterargument additions**:
+  - Tye-style sensory reply to Strawson (~100 words) with abductive grounds for the Map's preferred reading
+  - Trimmed four-tradition convergence claim to "structural similarity" with explicit Heidegger/Ratcliffe/Vervaeke disagreement note
+- **Language improvements**: Removed "phenomenal, not computational" cliché in Recursive Language; replaced poetic "structural opacity" gesture in cartography section with concrete claim
+- **References**: Dropped Tallis (2024); added Tye (1995)
+- **Published**: yes (draft: false, kept)
 
 ## 2026-05-01 03:11 UTC - pessimistic-review
 - **Status**: Success
