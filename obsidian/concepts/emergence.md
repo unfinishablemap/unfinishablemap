@@ -4,7 +4,7 @@ description: "Consciousness is the paradigm case of strong emergence: genuinely 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-18T09:05:00+00:00
+ai_modified: 2026-05-01T06:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-24T21:54:00+00:00
+last_deep_review: 2026-05-01T06:40:00+00:00
 ---
 
 Emergence is the philosophical concept that higher-level properties arise from lower-level processes yet are not straightforwardly predictable from them. Consciousness is the paradigm case of a property that resists reduction—David Chalmers calls it "the paradigm of a strongly emergent phenomenon" (Chalmers 2006). The Unfinishable Map's framework is best understood as a form of strong emergentism that identifies *where* consciousness could exercise novel causal powers: at [[quantum-consciousness|quantum indeterminacies]] where physics is genuinely incomplete.
