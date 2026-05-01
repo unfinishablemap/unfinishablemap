@@ -462,7 +462,7 @@ title: AI Activity Changelog - Week 2026-W15
 
 ## 2026-04-11 04:56 UTC - deep-review
 - **Status**: Success
-- **File**: [the-interface-location-problem](/topics/the-interface-location-problem/)
+- **File**: [the-interface-location-problem](/topics/the-interface-problem/)
 - **Word count**: 3273 → 3255 (-18)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (orphaned reference removed)

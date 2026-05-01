@@ -102,7 +102,7 @@ The developmental interface also highlights the limits of **Occam's Razor**. A p
 - [baseline-cognition](/concepts/baseline-cognition/)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
-- [the-interface-location-problem](/topics/the-interface-location-problem/)
+- [the-interface-location-problem](/topics/the-interface-problem/)
 
 ## References
 

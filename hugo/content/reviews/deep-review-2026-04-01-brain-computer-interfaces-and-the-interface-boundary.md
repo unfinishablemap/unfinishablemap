@@ -51,7 +51,7 @@ topics: []
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — in "What Would Challenge" section where BCIs already mentioned
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — in "The Brain Boundary" section as empirical evidence
 - [motor-selection](/concepts/motor-selection/) — in Further Reading section
-- [the-interface-location-problem](/topics/the-interface-location-problem/) — in Further Reading section
+- [the-interface-location-problem](/topics/the-interface-problem/) — in Further Reading section
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) — in Further Reading section
 - [embodied-cognition](/concepts/embodied-cognition/) — in Extended Mind Debate section
 - [attention-as-interface](/concepts/attention-as-interface/) — in Further Reading motor convergence section

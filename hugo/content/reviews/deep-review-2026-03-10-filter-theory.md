@@ -68,16 +68,16 @@ All six adversarial personas engaged:
 ### Enhancements Made
 
 - Added [attention-as-interface](/concepts/attention-as-interface/) cross-link (new concept article about filtering mechanism)
-- Added [the-interface-specification-problem](/topics/the-interface-specification-problem/) cross-link (addresses "how" of transmission)
-- Added [the-interface-location-problem](/topics/the-interface-location-problem/) cross-link (addresses "where" of transmission)
+- Added [the-interface-specification-problem](/topics/the-interface-problem/) cross-link (addresses "how" of transmission)
+- Added [the-interface-location-problem](/topics/the-interface-problem/) cross-link (addresses "where" of transmission)
 - Fixed section title to match style guide ("Relation to Site Perspective")
 - Cleaned up stale AI refinement log
 
 ### Cross-links Added
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The specific mechanism by which filtering occurs
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — How conscious states map to physical selections
-- [the-interface-location-problem](/topics/the-interface-location-problem/) — Where consciousness meets the brain
+- [the-interface-specification-problem](/topics/the-interface-problem/) — How conscious states map to physical selections
+- [the-interface-location-problem](/topics/the-interface-problem/) — Where consciousness meets the brain
 
 ## Length Management
 

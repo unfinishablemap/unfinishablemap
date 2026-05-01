@@ -106,7 +106,7 @@ The degradation-as-diagnostic approach connects to several of the Map's [tenets]
 ## Further Reading
 
 - [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/)
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- [the-interface-specification-problem](/topics/the-interface-problem/)
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - [interface-friction](/concepts/interface-friction/)
 - [filter-theory](/concepts/filter-theory/)

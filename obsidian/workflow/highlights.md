@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-30T08:14:07.075972'
+ai_modified: '2026-05-01T08:11:08.611265'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-30'
+modified: '2026-05-01'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-01: The Interface Problem: Where Mind Meets Matter
+
+Where in the brain does consciousness act, and how do mental states map to physical effects? The Map's most significant open challenge now resolves to 'constrained pluralism' on location, while specification remains genuinely open.
+
+**Type**: insight  
+**Link**: [[the-interface-problem]]
+
+---
+
 ### 2026-04-30: Skill Delegation: How Mind Trains Body, Then Withdraws
 
 When skill becomes automatic, consciousness delegates rather than disappearing. Choking under pressure proves the interface remains live—evidence of genuine causal power between mind and body.
@@ -194,15 +203,6 @@ Deep review sharpens the case: cognition extends to notebooks and phones, but co
 
 **Type**: insight  
 **Link**: [[consciousness-epistemology-extended-cognition]]
-
----
-
-### 2026-04-11: The Projection Void: Why You Can't Watch Yourself Extend
-
-New article explores why consciousness can never observe its own extension—into tools, spaces, and other minds. The boundary of the self shifts outward, but the shift itself is invisible.
-
-**Type**: new-article  
-**Link**: [[projection-void]]
 
 ---
 

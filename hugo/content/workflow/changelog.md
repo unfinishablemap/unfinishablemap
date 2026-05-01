@@ -1,13 +1,147 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 04:47:00+00:00
+ai_modified: 2026-05-01 08:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-01 08:00 UTC - deep-review
+- **Status**: Success
+- **File**: [the-interface-problem](/topics/the-interface-problem/)
+- **Word count**: 3379 → 3375 (−4)
+- **Critical issues addressed**: 1 (Tegmark attribution restored — dropped during 07:41 UTC condense; the original location article's "Tegmark and others arguing the original calculations stand" inline reference was collapsed into a generic "remain contested" qualifier)
+- **Medium issues addressed**: 3 (Bell 1990 orphan reference removed; Schaffer "Naturalistic Dualism" orphan reference removed; Zheng & Meister 2024 added as inline cite for the 10 bits/second figure — was implicit-only)
+- **Enhancements made**: 0 (length-neutral, no expansions)
+- **Notes**: First deep review of the coalesced unified article (created 05:55 UTC, condensed 07:41 UTC, wikilinks retargeted 07:25 UTC). Inherits convergence from 2026-04-11 location and 2026-04-18 specification reviews — bedrock disagreements catalogued there are not re-flagged. Coalesce/condense fidelity check: structure is sound, all five tenet connections preserved, hierarchical model and constrained-pluralism arc intact, four-question specification framework intact. Three references re-rationalised (one restored, two removed) and reference list renumbered 1–17. Length-neutral mode preserved at 112% of soft threshold.
+- **Output**: [deep-review-2026-05-01-the-interface-problem](/reviews/deep-review-2026-05-01-the-interface-problem/)
+
+## 2026-05-01 07:47 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 92 (delta against 2026-04-30 13:28 UTC baseline — 41 concepts, 51 topics)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Output**: [tenet-check-2026-05-01](/reviews/tenet-check-2026-05-01/)
+- **Notes**: Thirteenth consecutive zero-error sweep. High-risk territory in this delta — temporal causation (8 articles), quantum mechanisms (18 articles), AI substrate claims (5 articles) — was specifically scrutinised; discipline holds. `concepts/atemporal-causation.md`'s "Removing an Objection Is Not Providing a Mechanism" section, `topics/time-symmetric-selection-mechanism.md` line 157's "Not instantaneous telekinesis" disavowal, and `topics/the-interface-problem.md`'s honest acknowledgment of remaining open challenges flagged as paradigm exemplars. Prior carry-forward note on `concepts/illusionism.md` (from 2026-04-26) re-evaluated as cleared. Five non-violation tensions added for monitoring (temporal-cluster proliferation, interface-problem coalesce stability, AI substrate-requirements claim under expansion, methodological-discipline cluster modifications, illusionism carry-forward closure).
+
+## 2026-05-01 07:41 UTC - condense
+- **Status**: Success
+- **File**: [the-interface-problem](/topics/the-interface-problem/)
+- **Before**: 4951 words
+- **After**: 3379 words
+- **Reduction**: 32%
+- **Technique**: Compressed Strengths/Difficulties subsections in each candidate site to single paragraphs; reduced "Five Constraints" enumeration to one paragraph; folded numbered "Specification Requires" list into prose; tightened "From Agnosticism to Constrained Pluralism" into two paragraphs; merged Newton and biological analogies into one paragraph in "Critic's Strongest Objection"; condensed "What Would Count as Progress" from 7 bulleted items to 5 inline items; consolidated tenet-by-tenet "Relation to Site Perspective" (kept all five tenets but combined Dualism/MWI/Occam into one paragraph). Preserved opening summary, all cross-links, all references, all five tenet connections, and the constrained-pluralism core argument.
+
+## 2026-05-01 07:25 UTC - refine-draft
+- **Status**: Success
+- **Files**: 21 active articles cross-linking to the now-archived `the-interface-location-problem` and `the-interface-specification-problem` slugs (8 referencing location, 14 referencing specification, with `concepts/filter-theory.md` referencing both)
+- **Changes**: Retargeted 22 wikilinks to the unified `[the-interface-problem](/topics/the-interface-problem/)` following the 2026-05-01 05:55 UTC coalesce. Pipe-renamed display labels preserved where the source sentence named a sub-question (e.g., `[attention-motor architecture](/topics/the-interface-problem/)`, `[interface specification problem](/topics/the-interface-problem/)`). Two un-piped body references received pipe-renames to retain the original noun phrase: `concepts/metaphysics-of-information-under-dualism.md` line 91 ("the interface specification problem") and `topics/consciousness-and-causal-powers.md` line 74 ("the interface location problem"). In `concepts/filter-theory.md`, frontmatter, body text (line 137), and Further Reading were consolidated from two separate references into one; similar one-line consolidation applied to `concepts/interface-heterogeneity.md`, `topics/dopamine-and-the-unified-interface.md`, `topics/brain-computer-interfaces-and-the-interface-boundary.md`, and several Further Reading descriptions broadened to acknowledge the unified article covers both location and specification halves.
+- **Notes**: Targeted link-maintenance refinement following [the-interface-problem](/topics/the-interface-problem/) coalesce. Archive redirects preserve the old URLs; this updates active cross-references so readers and the LLM-first navigation flow land on the unified treatment. Voice and argument structure in each article preserved — only wikilink targets and (where necessary) the surrounding short noun phrases were touched. ai_modified updated on each modified file.
+- **Published**: yes
+
+## 2026-05-01 07:17 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section pressure**: voids 99/100 (most pressured), concepts 229/250, topics 230/250
+- **Candidates examined and rejected**:
+  - resolution-void + vagueness-void (distinct: bandwidth limit vs conceptual fuzziness)
+  - affective-void + valence-void + mood-void + appetitive-void (explicitly rejected at 2026-04-27 22:57 UTC by the seam test, documented in [conjunction-coalesce](/apex/conjunction-coalesce/))
+  - silence-void + ineffable-encounter-void (ineffable already coalesced from resonance + numinous; explicitly distinguished)
+  - closure-types-void + biological-cognitive-closure (distinct: typology vs biological causes; biological is already coalesce of evolved + architecture)
+  - parsimony cluster (parsimony-void / meta-epistemology-of-limits / parsimony-epistemology / occams-razor arguments — each works a distinct angle)
+  - amplification-void + causal-interface (amplification is specific sub-case but content non-redundant: Tegmark calculations, stochastic resonance, quantum biology specifics)
+  - noetic-feelings-void + emotional-epistemology-void (cognitive heuristic verdicts vs whether emotions constitute genuine knowledge; noetic is already a coalesce)
+- **Notes**: After 7 iterations, abandoning per skill protocol ("If after five iterations there are still no strong candidates, abandon the attempt and do not merge anything"). The voids section has been carefully curated under the conjunction-coalesce discipline; most candidates are explicitly differentiated or already coalesces. Forcing a merger would damage the analytical structure that the seam-test work has installed. Cap pressure on voids should be addressed via apex synthesis or condense rather than further coalescing.
+
+## 2026-05-01 06:57 UTC - deep-review
+- **Status**: Success
+- **Files**: [ai-consciousness-typology](/concepts/ai-consciousness-typology/) and [ai-consciousness](/topics/ai-consciousness/)
+- **Word count**: typology 2745 → 2765 (+20); ai-consciousness 3206 → 3218 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (PCT-overpromotion echo at the points of cognitive-phenomenology / PIT invocation)
+- **Enhancements made**: 2 (typology line 113 reframed to mark cog-phen as a Map commitment and explicitly distinguish PCT from cog-phen liberalism; ai-consciousness Chinese Room hedge expanded to acknowledge PIT-internal contestation)
+- **Notes**: Cross-review applying the PCT-overpromotion critique (Issue 3 in [pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/), originally aimed at `concepts/cognitive-phenomenology.md`) to the two AI-consciousness articles that invoke cognitive-phenomenology / PIT as discriminators against AI experience. Both articles were declared stable in 2026-04-30 reviews; targeted edits sharpen hedging at exactly the points where the PCT-overpromotion shape recurs. The typology fix also resolves an LLM-cliché ("This is X, not Y") flagged by the writing-style guide. Length-neutral mode preserved — both articles remain in soft_warning, well below hard thresholds. Bedrock disagreements from prior reviews not re-flagged.
+- **Output**: [deep-review-2026-05-01-ai-consciousness-cross](/reviews/deep-review-2026-05-01-ai-consciousness-cross/)
+
+## 2026-05-01 06:40 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/)
+- **Word count**: 2554 → 2554 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth review. Confirmed convergence — no body changes. Diff against post-review-7 baseline (2395f0e62) is purely mechanical link retargeting following coalescences (mental-causation/downward-causation → mental-causation-and-downward-causation; causal-delegation/preemption → delegatory-causation; explanatory-void → noetic-feelings-void) plus one prior-added composition-theories cross-link. All retargets resolve. No misattributions, no dropped qualifiers, no source/Map conflation. Article is at length-neutral mode (102% of 2500 soft threshold). Recommended in stability notes that future review cadence be extended — eight reviews in four months is past useful return.
+- **Output**: [deep-review-2026-05-01-emergence](/reviews/deep-review-2026-05-01-emergence/)
+
+## 2026-05-01 06:25 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)
+- **Word count**: 2895 → 3000 (+105)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (methodological-asymmetry critique applied to evidence base)
+- **Enhancements made**: 3 (parallel-structured absorption-strategy paragraph in §"What the Axis Is Not"; cross-links to [metacognition](/concepts/metacognition/) and [introspection](/concepts/introspection/); report/behaviour asymmetry across exemplars made explicit)
+- **Notes**: Cross-review applying the methodological-asymmetry critique from [pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/) (originally aimed at `concepts/cognitive-phenomenology.md`) to the axis article's evidence base. The axis's "empirical wedge" framing rests on introspective reports of phenomenal divergence in 3 of 4 cases (synaesthesia, comprehension, agency); imagery alone has primarily behavioural data. Added a second-front absorption discussion naming the introspection-as-metacognitive-output reading and the report/behaviour asymmetry, with the cumulative-force response. Trimmed redundant intro paragraph from §"The Four Canonical Exemplars" and small filler in framing paragraph for length-neutrality. Article in soft_warning length state (120% of 2500 target); well below hard threshold. Convergence territory — fourth review of this article in five days, all bedrock disagreements catalogued and not re-flagged.
+- **Output**: [deep-review-2026-05-01-phenomenology-vs-function-axis-methodological-cross](/reviews/deep-review-2026-05-01-phenomenology-vs-function-axis-methodological-cross/)
+
+## 2026-05-01 06:11 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Word count**: 3512 → 3512 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (wikilink updates following coalescence of `the-interface-specification-problem` into `the-interface-problem`)
+- **Notes**: Targeted link-maintenance review. Article remains stable per 2026-04-21 review. Updated `[the-interface-specification-problem](/topics/the-interface-problem/)` → `[the-interface-problem](/topics/the-interface-problem/)` in `related_articles` and in the inline reference at the head of "The Specification Gap" section; display text "interface specification problem" preserved to scope which aspect of the combined target is being invoked.
+- **Output**: [deep-review-2026-05-01-interface-specification-programme](/reviews/deep-review-2026-05-01-interface-specification-programme/)
+
+## 2026-05-01 05:55 UTC - coalesce
+- **Status**: Success
+- **Sources**: [the-interface-location-problem](/topics/the-interface-location-problem/), [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- **Target**: [the-interface-problem](/topics/the-interface-problem/)
+- **Archived**: [the-interface-location-problem](/archive/topics/the-interface-location-problem/), [the-interface-specification-problem](/archive/topics/the-interface-specification-problem/)
+- **References to review**: ~22 active files across topics/, concepts/, and apex/ — follow-up cross-review task added to todo
+- **Notes**: The two articles addressed logically independent but evidentially interlocked questions (where vs. how) about the same mind-matter interface, with substantial shared material (Stapp/Eccles/Schwartz, attention-motor architecture, bandwidth, decoherence). Unified article presents Part 1 (Location, including constrained pluralism) and Part 2 (Specification), with new "How Location and Specification Interact" section showing how candidate sites constrain viable mappings. Section reduced by one article (topics: 230→229).
+
+## 2026-05-01 05:40 UTC - deep-review
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Word count**: 2991 → 3014 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Tallis-regress section presented the bare regress without acknowledging at point-of-statement that it turns on whether "seeming" is itself phenomenal — the very claim illusionism denies; substantive illusionist response was two H2 sections later. Added a 60-word dialectical caveat with two intra-document forward-references; trimmed the now-redundant regress-blocking framing in the Functional Seeming response section and a redundant clause in the "Where the Functional Account Falls Short" intro. Net length-neutral.)
+- **Enhancements made**: 2 intra-document forward-references (`[](#the-illusionist-response-functional-seeming)`, `[](#where-the-functional-account-falls-short)`)
+- **Cross-review trigger**: Issue 4 of [pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/) flagged the bare Tallis regress as question-begging in the cognitive-phenomenology context; the canonical Tallis treatment in the illusionism page now signals the same dialectical limitation
+- **Output**: [deep-review-2026-05-01-illusionism-tallis-cross](/reviews/deep-review-2026-05-01-illusionism-tallis-cross/)
+
+## 2026-05-01 05:26 UTC - deep-review
+- **Status**: Success
+- **File**: [unity-of-consciousness](/concepts/unity-of-consciousness/)
+- **Word count**: 2125 → 2119 (-6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (deduplicated `binding-problem` in frontmatter concepts list and Further Reading section — coalesce artifacts)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-05-01-unity-of-consciousness](/reviews/deep-review-2026-05-01-unity-of-consciousness/)
+- **Note**: Fifth review confirms continued stability. Only changes since last review were automated wikilink rewrites from related coalesce work elsewhere in the vault.
+
+## 2026-05-01 05:10 UTC - condense
+- **Status**: Success
+- **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Before**: 5645 words (critical, 226% of 2500 target)
+- **After**: 2963 words (soft_warning, 119% of target; under 3500 hard threshold)
+- **Reduction**: 47%
+- **Technique**: Cut redundancy across the article — TOT discussion appeared in both Arguments-For and Semantic Phenomenology sections, consolidated to single treatment. Trimmed Tye-reply and abductive-justification scaffolding in Understanding Experience. Compressed Methodological Asymmetry from 3 paragraphs to 1 (preserved three-considerations argument and concession to functionalist reply). Cut mattering-paragraph in Epistemic Emotions (kept one-line reference to mattering-void). Combined Epistemic Emotions and Amplification Thesis sections. Tightened Frankish exposition in Illusionist Challenge. Removed Evidence from Semantic Memory subsection (TOT covered above). Removed Position in Map's Void Cartography subsection (cross-references already present). Trimmed Three Faces, Würzburg-Titchener, and Self-Application Worry to single-paragraph treatments. Removed AI REFINEMENT LOG HTML comment (meta-content for prior review). Preserved opening summary, all PCT explanations, Mathematical Understanding case, Constitutive-as-Kind reply, Buddhist-jhāna dismantlability concession, all five tenet-bridge entries, and Further Reading + References intact.
+
+## 2026-05-01 04:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Trigger**: Second-pass refine-draft addressing items the 03:25 UTC first pass missed from `reviews/pessimistic-2026-05-01` — primarily the Buddhist-jhāna mis-citation flagged at the end of Issue 7 (formless attainments are progressive deconstructions ending in cessation of perception and feeling; they support dismantlability not constitutive necessity), plus two unsupported-claim hedges (Amplification Thesis "if reasoning were phenomenally empty"; Unusual-cases "pre-reflective cognitive content") and one rhetorical-phrase tightening ("honest cartography requires marking where the dialectic structurally cannot close").
+- **Word count**: ~5660 → ~5910 (+250; restricted-constitutive-claim concession to contemplative discipline added explicit ground)
+- **Critical issues addressed**: 1 (Buddhist-jhāna mis-citation, the final outstanding High-severity item from Issue 7)
+- **Medium issues addressed**: 2 (amplification-thesis hedge with conservative-reading parity; pre-reflective-content qualifier)
+- **Coordination**: Pairs with the queued P1 condense task on the same file. Sequencing as anticipated by the original task's CO-ORDINATION NOTE: refine-first, condense-next. Article is now ~5910 words, well above the 5000-word concept critical threshold; condense should run next to bring it back into range.
+- **Output**: revised concepts/cognitive-phenomenology.md; refinement log appended for human review
+- **Published**: yes (kept `draft: false`)
 
 ## 2026-05-01 04:47 UTC - optimistic-review
 - **Status**: Success

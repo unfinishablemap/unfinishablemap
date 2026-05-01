@@ -51,7 +51,7 @@ topics: []
 - Added coupling-modes wikilink in Von Neumann-Stapp section
 - Added cross-references FROM 10 related articles:
   - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — in Kleiner framework discussion
-  - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — in "Which physical parameters?" section
+  - [the-interface-specification-problem](/topics/the-interface-problem/) — in "Which physical parameters?" section
   - [psychophysical-laws](/concepts/psychophysical-laws/) — in coupling problem section
   - [coupling-modes](/concepts/coupling-modes/) — in comparative analysis table
   - [mind-matter-interface](/concepts/mind-matter-interface/) — in quantum selection explanation

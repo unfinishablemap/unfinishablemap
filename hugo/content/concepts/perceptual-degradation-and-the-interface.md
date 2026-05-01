@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-28 23:53:00+00:00
+ai_modified: 2026-05-01 07:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ modified: *id001
 related_articles:
 - '[[perceptual-failure-and-the-interface]]'
 - '[[bandwidth-of-consciousness]]'
-- '[[the-interface-specification-problem]]'
+- '[[the-interface-problem]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[attention-as-interface]]'
 title: Perceptual Degradation and the Interface
@@ -101,7 +101,7 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- [the-interface-problem](/topics/the-interface-problem/)
 - [interface-friction](/concepts/interface-friction/)
 - [filter-theory](/concepts/filter-theory/)
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/)

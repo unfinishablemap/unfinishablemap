@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-23 18:19:00+00:00
+ai_modified: 2026-05-01 07:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ related_articles:
 - '[[history-of-the-interaction-problem]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[consciousness-bandwidth-architecture]]'
-- '[[the-interface-specification-problem]]'
+- '[[the-interface-problem]]'
 - '[[amplification-mechanisms-consciousness-physics]]'
 - '[[born-rule-violation-brain-interface-empirical-status]]'
 title: Psychophysical Laws and Coupling
@@ -135,7 +135,7 @@ A psychophysical coupling law would specify:
 
 The [content-specificity](/concepts/content-specificity-of-mental-causation/) evidence constrains selection laws: empirically, the *meaning* of a conscious state determines which physical effect occurs with striking granularity—different placebo beliefs produce different neurochemical cascades.
 
-What Schaffer calls the "t-shirt problem"—the lack of a compact systematization of psychophysical correlations—remains unsolved. The [interface specification problem](/topics/the-interface-specification-problem/) develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines what any such mapping requires formally: an experiential state space E, a physical state space P, and a coupling map C: E × P → P satisfying five non-negotiable constraints from quantum foundations.
+What Schaffer calls the "t-shirt problem"—the lack of a compact systematization of psychophysical correlations—remains unsolved. The [interface specification problem](/topics/the-interface-problem/) develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines what any such mapping requires formally: an experiential state space E, a physical state space P, and a coupling map C: E × P → P satisfying five non-negotiable constraints from quantum foundations.
 
 ### Constraints on Coupling
 
@@ -268,7 +268,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [trumping-preemption](/concepts/trumping-preemption/) — Schaffer's fourth species of redundant causation, supplying the structural template for authority-selecting coupling
 - [delegatory-causation](/concepts/delegatory-causation/) — Saad's Subset Law* and Delegatory Law: the developed authority-selecting psychophysical law
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The Born-rule distribution as the physical grounding of Saad's default causal profile, giving empirical content to psychophysical coupling
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — The challenge of specifying the mind-matter mapping
+- [the-interface-problem](/topics/the-interface-problem/) — Where consciousness meets the brain and the challenge of specifying the mind-matter mapping
 - [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — Which coupling proposals require Born-rule violation, active experimental programmes, and what negative results would and would not foreclose
 - [functionalism](/concepts/functionalism/) — The view the Map rejects
 - [haecceity](/concepts/haecceity/) — Why organizational invariance is rejected

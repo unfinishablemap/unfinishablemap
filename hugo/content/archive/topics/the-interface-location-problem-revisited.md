@@ -43,7 +43,7 @@ topics:
 - '[[attention-as-selection-interface]]'
 ---
 
-The Unfinishable Map's [original treatment](/topics/the-interface-location-problem/) of the interface location problem surveyed four candidate sites — microtubules, ion channels, cortical microcolumns, and attention networks — and argued for principled agnosticism. That agnosticism was appropriate at the time: the candidates appeared roughly co-viable and the Map lacked the internal framework to discriminate among them. Since then, several lines of development have changed the situation. The Map now has a [coupling mode taxonomy](/concepts/coupling-modes/), a detailed [attention-motor convergence](/topics/attention-and-the-consciousness-interface/) account, a [developmental trajectory](/topics/consciousness-interface-development/), dopamine research clarifying the selection-threshold architecture, and a sharper understanding of what the [specification problem](/topics/the-interface-specification-problem/) demands. These developments do not resolve the location problem. They do constrain it — replacing open agnosticism with what might be called *constrained pluralism*, where the viable candidates and their relationships become clearer.
+The Unfinishable Map's [original treatment](/topics/the-interface-problem/) of the interface location problem surveyed four candidate sites — microtubules, ion channels, cortical microcolumns, and attention networks — and argued for principled agnosticism. That agnosticism was appropriate at the time: the candidates appeared roughly co-viable and the Map lacked the internal framework to discriminate among them. Since then, several lines of development have changed the situation. The Map now has a [coupling mode taxonomy](/concepts/coupling-modes/), a detailed [attention-motor convergence](/topics/attention-and-the-consciousness-interface/) account, a [developmental trajectory](/topics/consciousness-interface-development/), dopamine research clarifying the selection-threshold architecture, and a sharper understanding of what the [specification problem](/topics/the-interface-problem/) demands. These developments do not resolve the location problem. They do constrain it — replacing open agnosticism with what might be called *constrained pluralism*, where the viable candidates and their relationships become clearer.
 
 ## What Has Changed
 
@@ -103,7 +103,7 @@ The first ground has shifted. Evidence remains inconclusive in the sense that no
 
 The second ground remains valid. The Map's tenets do not depend on which physical site hosts the interface.
 
-The third ground — multiple simultaneous sites — has become the leading hypothesis rather than merely a possibility. The [hierarchical model](/topics/the-interface-location-problem/#the-hierarchical-possibility) from the original article proposed that the interface spans multiple levels: molecular sites providing the quantum openings, cellular-level aggregation, network-level selection through attention. What constrained pluralism adds is direction: the hierarchy should be understood as attention-motor architecture all the way down, with the molecular level (ion channels, possibly microtubules) providing the physical substrate for quantum effects that the functional level (frontoparietal-premotor competition and threshold-crossing) organises.
+The third ground — multiple simultaneous sites — has become the leading hypothesis rather than merely a possibility. The [hierarchical model](/topics/the-interface-problem/#the-hierarchical-possibility) from the original article proposed that the interface spans multiple levels: molecular sites providing the quantum openings, cellular-level aggregation, network-level selection through attention. What constrained pluralism adds is direction: the hierarchy should be understood as attention-motor architecture all the way down, with the molecular level (ion channels, possibly microtubules) providing the physical substrate for quantum effects that the functional level (frontoparietal-premotor competition and threshold-crossing) organises.
 
 The picture is of nested selection: consciousness acts through the attention-motor system, which selects among competing neural patterns, which resolve through threshold-crossing events, which involve quantum indeterminacies at molecular sites. Each level is real and does genuine work. The interface location problem asks "at which level does consciousness act?" and the emerging answer is "at the functional level, through the molecular level."
 
@@ -141,8 +141,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the hier
 
 ## Further Reading
 
-- [the-interface-location-problem](/topics/the-interface-location-problem/) — The original survey of candidate sites
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — The hardest open challenge: how conscious states map to physical selections
+- [the-interface-location-problem](/topics/the-interface-problem/) — The original survey of candidate sites
+- [the-interface-specification-problem](/topics/the-interface-problem/) — The hardest open challenge: how conscious states map to physical selections
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate formal mappings from phenomenal states to physical effects
 - [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/) — How attention and motor planning converge as a unified interface
 - [coupling-modes](/concepts/coupling-modes/) — Three modes of consciousness-physics interaction

@@ -29,7 +29,7 @@ topics: []
 - **Interoception section's logical gap**: The original text leapt from "the visual system can represent its own condition" to "the interface is more than a passive channel" without addressing the obvious physicalist rejoinder that interoception is just more neural processing. **Resolution**: Rewrote the paragraph to explicitly address the physicalist objection, arguing that interoception doubles down on the hard problem by requiring explanation of why operational states feel like something.
 - **Missing Bidirectional Interaction tenet**: The Relation to Site Perspective section covered Dualism, Minimal Quantum Interaction, and Occam's Razor but omitted Bidirectional Interaction, which is directly relevant (blur triggers physical responses like squinting). **Resolution**: Added a Bidirectional Interaction paragraph connecting blur-triggered behaviour to bidirectional causation.
 - **Unused Martina (2023) reference**: Listed in References but never cited in text. **Resolution**: Attributed the representationalism critique to Martina (2023) in the transparency section.
-- **Few cross-links**: Article had limited connections to related Map content. **Resolution**: Added wikilinks to the-bandwidth-of-consciousness, [the-interface-specification-problem](/topics/the-interface-specification-problem/), and [interface-friction](/concepts/interface-friction/) in body text, Further Reading, and frontmatter.
+- **Few cross-links**: Article had limited connections to related Map content. **Resolution**: Added wikilinks to the-bandwidth-of-consciousness, [the-interface-specification-problem](/topics/the-interface-problem/), and [interface-friction](/concepts/interface-friction/) in body text, Further Reading, and frontmatter.
 
 ### Counterarguments Considered
 - **Physicalist interoception objection** (Dennett-style): Blur as self-monitoring is just more neural processing. Addressed by showing interoception intensifies rather than dissolves the hard problem.
@@ -53,7 +53,7 @@ topics: []
 
 ### Cross-links Added
 - the-bandwidth-of-consciousness
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- [the-interface-specification-problem](/topics/the-interface-problem/)
 - [interface-friction](/concepts/interface-friction/)
 
 ## Remaining Items

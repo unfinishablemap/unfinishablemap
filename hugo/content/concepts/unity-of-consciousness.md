@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-11 00:56:00+00:00
+ai_modified: 2026-05-01 05:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,6 @@ concepts:
 - '[[minimal-consciousness]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
-- '[[binding-problem]]'
 - '[[consciousness]]'
 created: 2026-01-21
 date: &id001 2026-02-25
@@ -37,7 +36,7 @@ description: Experience comes as an integrated whole—unified across features a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-24 18:39:00+00:00
+last_deep_review: 2026-05-01 05:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,9 +144,8 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 
 ## Further Reading
 
-- [binding-problem](/concepts/binding-problem/) — Neural feature binding and the combination challenge
+- [binding-problem](/concepts/binding-problem/) — Neural feature binding, the combination challenge, and how binding relates to phenomenal unity
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the unity puzzle
-- [binding-problem](/concepts/binding-problem/) — Mechanistic analysis of how binding relates to phenomenal unity
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Extended argument for structural failure of physical explanation
 - [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — The testable hypothesis and experimental evidence for quantum binding
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation

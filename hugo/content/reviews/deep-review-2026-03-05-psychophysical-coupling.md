@@ -58,7 +58,7 @@ None. The article is well-constructed with accurate attributions.
 - [princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/) (in article body + related_articles)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) (in article body + related_articles)
 - [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) (in article body + related_articles)
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) (in related_articles)
+- [the-interface-specification-problem](/topics/the-interface-problem/) (in related_articles)
 - [downward-causation](/concepts/mental-causation-and-downward-causation/) (in article body)
 - Added [psychophysical-coupling](/concepts/psychophysical-laws/) to further reading of: the-epiphenomenalist-threat, princess-elizabeths-challenge
 - Added [psychophysical-coupling](/concepts/psychophysical-laws/) wikilink in psychophysical-laws.md body text

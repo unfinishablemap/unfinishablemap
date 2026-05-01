@@ -133,7 +133,7 @@ The Map treats the ten-bit figure as one of several convergent structural signat
 - [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — How coarse conscious intentions produce fine-grained physical effects
 - [filter-theory](/concepts/filter-theory/) — The transmission/filter model of consciousness
 - [interface-friction](/concepts/interface-friction/) — The phenomenology of the ceiling from the inside
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — Programme for specifying the interface formally
+- [the-interface-specification-problem](/topics/the-interface-problem/) — Programme for specifying the interface formally
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the selection mechanism operating at the ceiling
 - [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) — The bandwidth ceiling as one of three convergent grain mismatches
 - [mental-effort](/concepts/mental-effort/) — Effort phenomenology as bandwidth utilisation

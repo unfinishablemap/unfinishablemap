@@ -65,7 +65,7 @@ None. The article remains internally consistent, factually accurate, and well-st
 ### Cross-links Added
 - [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/)
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- [the-interface-specification-problem](/topics/the-interface-problem/)
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)
 
 ## Remaining Items

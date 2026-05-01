@@ -26,7 +26,7 @@ topics: []
 None. The previous review found no critical issues; this cross-review confirms that finding.
 
 ### Medium Issues Found
-- **Interface specification problem not cross-referenced in Tenet 2**: The article discussed falsification of the quantum interaction tenet without noting that even confirming quantum effects leaves the deeper specification problem unsolved. Resolution: Added cross-reference to [the-interface-specification-problem](/topics/the-interface-specification-problem/) in Tenet 2's honest assessment, noting the distinction between falsification and specification challenges.
+- **Interface specification problem not cross-referenced in Tenet 2**: The article discussed falsification of the quantum interaction tenet without noting that even confirming quantum effects leaves the deeper specification problem unsolved. Resolution: Added cross-reference to [the-interface-specification-problem](/topics/the-interface-problem/) in Tenet 2's honest assessment, noting the distinction between falsification and specification challenges.
 - **Invertebrate section underspecified on mechanism constraints**: The "What the Map Should Watch" invertebrate entry mentioned anaesthetic convergence and masking paradigms but not the architectural constraints (scale independence, architectural flexibility) that the [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/) article identifies as ruling out mechanism candidates tied to specific structures. Resolution: Added brief mention of architectural diversity constraints.
 
 ### Counterarguments Considered
@@ -38,7 +38,7 @@ None. The previous review found no critical issues; this cross-review confirms t
 
 ### Consistency with Related Articles
 
-**[the-interface-specification-problem](/topics/the-interface-specification-problem/)**: The falsification roadmap correctly identifies this in Further Reading. The new inline cross-reference in Tenet 2 strengthens the connection by noting that falsification and specification are distinct challenges — even a positive result on quantum biology doesn't solve specification.
+**[the-interface-specification-problem](/topics/the-interface-problem/)**: The falsification roadmap correctly identifies this in Further Reading. The new inline cross-reference in Tenet 2 strengthens the connection by noting that falsification and specification are distinct challenges — even a positive result on quantum biology doesn't solve specification.
 
 **[testing-consciousness-collapse](/topics/testing-consciousness-collapse/)**: The three-tier structure in testing-consciousness-collapse is consistent with the falsification roadmap's treatment of Tenet 4. The reference to levitated-optomechanical experiments and arXiv:2512.02838 matches between both articles. No inconsistencies found.
 
@@ -63,7 +63,7 @@ All major related articles are linked either inline or in Further Reading. No si
 - Expanded invertebrate section in "What the Map Should Watch" with architectural constraint detail
 
 ### Cross-links Added
-None new (inline cross-reference to [the-interface-specification-problem](/topics/the-interface-specification-problem/) uses existing wikilink target)
+None new (inline cross-reference to [the-interface-specification-problem](/topics/the-interface-problem/) uses existing wikilink target)
 
 ## Remaining Items
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-23 16:28:00+00:00
+ai_modified: 2026-05-01 07:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -38,7 +38,7 @@ title: Mathematical Structure of the Consciousness-Physics Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[quantum-measurement-and-consciousness]]'
-- '[[the-interface-specification-problem]]'
+- '[[the-interface-problem]]'
 ---
 
 If consciousness interacts with the physical world at quantum indeterminacies, the mathematics of quantum mechanics does not leave this interaction unconstrained. The Unfinishable Map argues that, wherever the standard quantum postulates hold, Hilbert space structure, the Born rule, and the no-signalling principle together define a narrow mathematical corridor through which any consciousness-physics interaction must pass. The corridor binds every tested regime; whether it extends into brain-internal conscious selection remains empirically open. Several formal frameworks attempt to work within these bounds; their successes and limitations reveal what the mathematics permits and what it cannot yet express.
@@ -69,7 +69,7 @@ This means quantum probability is "second-order" in a precise mathematical sense
 
 ### The Corridor Defined
 
-Together, these three results define the mathematical corridor that applies wherever the standard quantum postulates are satisfied: consciousness can select among quantum outcomes, but must preserve squared-amplitude statistics at the ensemble level, respect the Hilbert-space inner product, and introduce no higher-order interference. Combined with the [conservation law analysis](/concepts/conservation-laws-and-mental-causation/)—which shows that selection among equiprobable outcomes requires no energy transfer—the corridor constrains the interface to a remarkably narrow space *within that regime*. The constraint is mathematical rather than a philosophical preference, and it binds every model that satisfies its premises. The [interface specification problem](/topics/the-interface-specification-problem/) asks what the consciousness-physics mapping looks like; these results constrain what mathematical form any corridor-compliant answer can take.
+Together, these three results define the mathematical corridor that applies wherever the standard quantum postulates are satisfied: consciousness can select among quantum outcomes, but must preserve squared-amplitude statistics at the ensemble level, respect the Hilbert-space inner product, and introduce no higher-order interference. Combined with the [conservation law analysis](/concepts/conservation-laws-and-mental-causation/)—which shows that selection among equiprobable outcomes requires no energy transfer—the corridor constrains the interface to a remarkably narrow space *within that regime*. The constraint is mathematical rather than a philosophical preference, and it binds every model that satisfies its premises. The [interface specification problem](/topics/the-interface-problem/) asks what the consciousness-physics mapping looks like; these results constrain what mathematical form any corridor-compliant answer can take.
 
 ### Corridor Dualism and the Conditionality of the Bound
 
@@ -127,7 +127,7 @@ This framework partially supports the Map's dualism tenet—the mental domain ha
 
 The competing frameworks reveal a common gap: none provides a mathematical expression for the act of conscious selection itself. They specify where consciousness acts (measurement, collapse, the E × P product space), what constraints it must satisfy (Born-rule preservation, no-signalling), and what formal structures might represent experiential states—but the operator that represents "consciousness choosing outcome A over outcome B" has no agreed mathematical form.
 
-This gap is arguably the mathematical expression of the [interface specification problem](/topics/the-interface-specification-problem/). The physical side is well-formalised: Hilbert spaces, projection operators, density matrices, stochastic differential equations. The phenomenal side has candidate formalisations: Kleiner's experience space, IIT's Φ, Atmanspacher's non-commutative observables. What is missing is the mathematical coupling—a function, operator, or structural correspondence that maps states in E to biases on outcomes in P within the Born-rule corridor.
+This gap is arguably the mathematical expression of the [interface specification problem](/topics/the-interface-problem/). The physical side is well-formalised: Hilbert spaces, projection operators, density matrices, stochastic differential equations. The phenomenal side has candidate formalisations: Kleiner's experience space, IIT's Φ, Atmanspacher's non-commutative observables. What is missing is the mathematical coupling—a function, operator, or structural correspondence that maps states in E to biases on outcomes in P within the Born-rule corridor.
 
 Whether this gap reflects scientific immaturity or a fundamental limit of mathematical description is itself an open question. Russell's insight remains pertinent: "physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover." The [intrinsic-nature-void](/voids/intrinsic-nature-void/) develops this boundary: mathematics maps relational structure with extraordinary precision while remaining silent about what the relata *are*—and consciousness is where intrinsic nature is given directly. If the consciousness-physics interface involves something that mathematics can only partially capture, the specification gap may narrow without ever fully closing.
 
@@ -150,7 +150,7 @@ The mathematical structure of the consciousness-physics interface connects direc
 ## Further Reading
 
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule's underivability suggests consciousness at the interface
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — What a complete specification of the interface must contain
+- [the-interface-problem](/topics/the-interface-problem/) — Where the interface operates and what a complete specification must contain
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — What epistemic methods can reach the interface
 - [psychophysical-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control

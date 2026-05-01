@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-27 04:58:00+00:00
+ai_modified: 2026-05-01 05:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: The radical claim that phenomenal consciousness is an introspective
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-26 17:07:00+00:00
+last_deep_review: 2026-05-01 05:40:00+00:00
 modified: *id001
 related_articles:
 - '[[parsimony-epistemology]]'
@@ -96,6 +96,8 @@ How can I be wrong about the existence of something for which I have inescapable
 
 Raymond Tallis argues illusionism compounds rather than solves the hard problem. "Misrepresentation presupposes presentation"—all illusions presuppose experience. To be under an illusion, something must be experiencing the illusion. There must be *something it's like* to have the mistaken belief that consciousness is phenomenal.
 
+The bare regress as stated assumes "seeming" is itself phenomenal—precisely what illusionists deny. Frankish replies ([below](#the-illusionist-response-functional-seeming)) that a system can represent itself as phenomenally conscious without any phenomenal consciousness existing, dissolving the regress at its first step. The substantive critique is whether that reply succeeds—the [five objections](#where-the-functional-account-falls-short) press the case without leaning on the bare regress.
+
 ### The Moorean Argument
 
 Chalmers (2018) presents a Moorean argument: the existence of phenomenal pain is more obvious than any premises used to deny it. We know we're conscious with more certainty than we know any philosophical theory is correct. Chalmers himself later (2022) argued his original Moorean argument was flawed—that "phenomenal consciousness" may be too theory-laden a term for Moorean common-sense reasoning. Loginov (2024) has attempted to rehabilitate the Moorean strategy, arguing that the pre-theoretical certainty of pain survives Chalmers's self-critique. The debate remains live, but the core intuition—that denying pain's reality is harder to believe than any theory motivating the denial—continues to exert force.
@@ -108,11 +110,11 @@ Even if illusionism relocates the hard problem to a [meta-problem](/concepts/met
 
 The strongest illusionist defence is Frankish's argument that phenomenal properties are not intrinsic qualities of experience but functional roles—what he calls [functional-seeming](/concepts/functional-seeming/) (see the concept page for the full treatment and the Map's detailed objections). Where dualists hold that the redness of red is an intrinsic property irreducible to any functional description, Frankish (2016, 2021) contends that "phenomenal properties" reduce entirely to dispositions to judge, report, and react as if phenomenally conscious.
 
-This blocks the standard regress objection. When critics argue that an illusion of consciousness requires consciousness, they assume "seeming" is itself phenomenal. Frankish denies this: a system can represent itself as phenomenally conscious without any phenomenal consciousness existing. His central concept is **quasi-phenomenal properties**: non-phenomenal physical properties of inner states that introspection systematically misrepresents as phenomenal. Pereboom and Frankish (2021) develop this through the **distortion thesis**—introspective *access* is real, but introspective *interpretation* is systematically flawed, like pre-scientific theories positing phlogiston. Kammerer (2022) extends the line: the illusion is "rich," persisting regardless of what one comes to believe about its reality—a feature he attributes to introspective opacity rather than phenomenal access.
+The mechanism that dissolves the regress is **quasi-phenomenal properties**: non-phenomenal physical properties of inner states that introspection systematically misrepresents as phenomenal. Pereboom and Frankish (2021) develop this through the **distortion thesis**—introspective *access* is real, but introspective *interpretation* is systematically flawed, like pre-scientific theories positing phlogiston. Kammerer (2022) extends the line: the illusion is "rich," persisting regardless of what one comes to believe about its reality—a feature he attributes to introspective opacity rather than phenomenal access.
 
 ### Where the Functional Account Falls Short
 
-The functional-seeming move is the best version of illusionism available. It deserves engagement on its own terms rather than dismissal via the bare regress. Even so, it faces problems that the access/interpretation distinction does not resolve—problems that trace to the gap the Map's [Dualism tenet](/tenets/#dualism) identifies: the gap between what experience *does* (its functional role) and what experience *is* (its intrinsic character). The [functional-seeming](/concepts/functional-seeming/) article develops the first three objections in detail; the following summarises all five.
+The functional-seeming move is the best version of illusionism available and deserves engagement on its own terms. Even so, it faces problems that the access/interpretation distinction does not resolve—problems that trace to the gap the Map's [Dualism tenet](/tenets/#dualism) identifies: the gap between what experience *does* (its functional role) and what experience *is* (its intrinsic character). The [functional-seeming](/concepts/functional-seeming/) article develops the first three objections in detail; the following summarises all five.
 
 **The vantage-point problem.** The distortion thesis analogises introspective error to phlogiston-style theoretical error. But combustion scientists had independent evidence (oxygen experiments) to reveal the distortion. For consciousness, no independent vantage point exists—the seeming itself is all the evidence available. Whether neuroscience describes the same phenomenon introspection accesses, or merely its physical correlates, is precisely what is at issue.
 

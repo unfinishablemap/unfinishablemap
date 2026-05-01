@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-25 05:29:00+00:00
+ai_modified: 2026-05-01 07:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ last_deep_review: 2026-04-25 05:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[the-interface-specification-problem]]'
+- '[[the-interface-problem]]'
 - '[[psychophysical-laws]]'
 - '[[born-rule-and-the-consciousness-interface]]'
 - '[[mind-matter-interface]]'
@@ -47,7 +47,7 @@ A complete interface formalism requires three mathematical ingredients.
 
 **Component 3: Coupling map C: E × P → P.** This is the mathematical expression of consciousness influencing physics — a function, operator, or structural correspondence that maps states in the product space E × P to evolved states in P. The coupling map is where the [psychophysical law](/concepts/psychophysical-laws/) lives in formal terms. It must specify: given a conscious state e ∈ E and a physical state p ∈ P (typically a superposition awaiting measurement), which outcome becomes actual? The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires C to be non-trivial — consciousness genuinely changes what happens in P. Note that C as defined here captures only the E → P direction. A complete bidirectional formalism also requires a map D: P → E specifying how physical states generate conscious experiences — the "upward" direction from brain states to qualia. Most frameworks treat D as implicit (the "easy problems" of consciousness), while C formalises the harder, more contested causal direction.
 
-No existing framework fully specifies all three components. Proposals specify one or two while leaving the coupling underspecified — the formal expression of the [interface specification problem](/topics/the-interface-specification-problem/).
+No existing framework fully specifies all three components. Proposals specify one or two while leaving the coupling underspecified — the formal expression of the [interface specification problem](/topics/the-interface-problem/).
 
 ## The Five Mathematical Constraints
 
@@ -110,7 +110,7 @@ The interface formalism concept connects directly to the Map's foundational comm
 ## Further Reading
 
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — Survey of how existing frameworks work within these formal constraints
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — What a complete specification of C must contain
+- [the-interface-problem](/topics/the-interface-problem/) — What a complete specification of C must contain, and where in the brain the interface operates
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The philosophical framework behind the coupling map
 - [coupling-modes](/concepts/coupling-modes/) — How C might operate: basis, timing, or probability control
 - [interface-formalization-void](/voids/interface-formalization-void/) — Whether the specification gap is closable in principle

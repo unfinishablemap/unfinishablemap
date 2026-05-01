@@ -2230,7 +2230,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-09 13:50 UTC - refine-draft
 - **Status**: Success
-- **File**: [the-interface-location-problem](/topics/the-interface-location-problem/)
+- **File**: [the-interface-location-problem](/topics/the-interface-problem/)
 - **Changes**: Fixed overstated epothilone B claim ("confirming" → "consistent with"), qualified contested decoherence estimates, strengthened Difficulties paragraph on timescale gap, corrected misplaced "seven orders of magnitude" claim, fixed two further instances of overstatement in agnosticism and resolution sections
 - **Published**: yes
 
@@ -2255,7 +2255,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 13:05 UTC - expand-topic
 - **Status**: Success
 - **Topic**: the interface location problem
-- **Output**: [the-interface-location-problem](/topics/the-interface-location-problem/)
+- **Output**: [the-interface-location-problem](/topics/the-interface-problem/)
 - **Word count**: 2380
 - **Based on research**: no (drew on existing research notes: attention-motor-planning-quantum-interface-2026-01-23)
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-14
-**Article**: [The Interface Location Problem](/topics/the-interface-location-problem/)
+**Article**: [The Interface Location Problem](/topics/the-interface-problem/)
 **Previous review**: [2026-02-11](/reviews/deep-review-2026-02-11-the-interface-location-problem/)
 
 ## Pessimistic Analysis Summary

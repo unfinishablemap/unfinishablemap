@@ -29,7 +29,7 @@ topics: []
 - **Missing `description` field**: Added 155-character description emphasising the programme's six converging lines. [Resolved]
 - **"Independent" convergence overclaimed**: The six source articles share the Map's tenets as constraints; calling them "independent" was misleading. Qualified the claim to acknowledge shared constraints while preserving the genuine insight about mutual consistency. [Resolved]
 - **Clinical evidence compatibility caveat**: The "What Breaks" section presented clinical findings as uniquely supporting the interface model without noting compatibility with computational accounts. Added honest caveat. [Resolved]
-- **Missing cross-links**: No link to [the-interface-specification-problem](/topics/the-interface-specification-problem/) or [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) despite thematic relevance. Added to related_articles and inline. [Resolved]
+- **Missing cross-links**: No link to [the-interface-specification-problem](/topics/the-interface-problem/) or [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) despite thematic relevance. Added to related_articles and inline. [Resolved]
 - **Thin Related Apex Articles section**: Listed only one related apex article despite strong thematic connections to [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) and [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/). Added both. [Resolved]
 - **Missing `last_deep_review` timestamp**: Added. [Resolved]
 
@@ -54,13 +54,13 @@ topics: []
 - Added `description` field
 - Qualified convergence claim for intellectual honesty
 - Added clinical evidence honesty caveat
-- Added cross-link to [the-interface-specification-problem](/topics/the-interface-specification-problem/) in the Specification Gap section
-- Added [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) and [the-interface-specification-problem](/topics/the-interface-specification-problem/) to related_articles
+- Added cross-link to [the-interface-specification-problem](/topics/the-interface-problem/) in the Specification Gap section
+- Added [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) and [the-interface-specification-problem](/topics/the-interface-problem/) to related_articles
 - Added two related apex articles: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) and [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
 - Updated `ai_modified` and added `last_deep_review` timestamps
 
 ### Cross-links Added
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) (inline and related_articles)
+- [the-interface-specification-problem](/topics/the-interface-problem/) (inline and related_articles)
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) (related_articles)
 - [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) (Related Apex Articles)
 - [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) (Related Apex Articles)

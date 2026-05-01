@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-19 12:38:00+00:00
+ai_modified: 2026-05-01 07:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -159,7 +159,7 @@ Unconscious systems handle execution at full neural bandwidth; consciousness han
 
 ## The Bandwidth Shapes the Interface
 
-At 10 bits per second, consciousness selects *patterns*—action policies, attentional targets, cognitive strategies—not individual neural firing events. Musslick et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, and the ~280–300ms timing window for [motor commitment](/concepts/motor-selection/) aligns with conscious selection at ~3 Hz. This matches the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness *cannot* interact at finer grain because the channel is too narrow. The same capacity language puts a concrete handle on [the interface specification problem](/topics/the-interface-specification-problem/)—the otherwise under-constrained question of how conscious states map lawfully to physical selections. The [inverted-qualia](/concepts/inverted-qualia/) argument meets the MQI discipline on the qualitative side: if phenomenal character is causally efficacious, qualitative differences must eventually reach behaviour through exactly this narrow channel, which is why the Map treats strict behavioural identity paired with qualia-difference as a limit case that is physically unrealised even where it remains conceivable.
+At 10 bits per second, consciousness selects *patterns*—action policies, attentional targets, cognitive strategies—not individual neural firing events. Musslick et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, and the ~280–300ms timing window for [motor commitment](/concepts/motor-selection/) aligns with conscious selection at ~3 Hz. This matches the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness *cannot* interact at finer grain because the channel is too narrow. The same capacity language puts a concrete handle on [the interface specification problem](/topics/the-interface-problem/)—the otherwise under-constrained question of how conscious states map lawfully to physical selections. The [inverted-qualia](/concepts/inverted-qualia/) argument meets the MQI discipline on the qualitative side: if phenomenal character is causally efficacious, qualitative differences must eventually reach behaviour through exactly this narrow channel, which is why the Map treats strict behavioural identity paired with qualia-difference as a limit case that is physically unrealised even where it remains conceivable.
 
 The bandwidth constraint applies per unit time, but effects accumulate—the basis of [attentional economics](/concepts/attentional-economics/). Schwartz's OCD research illustrates this: patients showed measurable caudate nucleus changes through accumulated conscious effort over weeks, though the original study was small (18 participants) and has not been independently replicated.
 
@@ -236,7 +236,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 - [resolution-void](/voids/resolution-void/) — The resolution gap between brain processing and conscious access
 - [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) — The bandwidth constraint as one of three converging grain mismatches
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — The open challenge of specifying how conscious states map lawfully to physical selections within this channel
+- [the-interface-problem](/topics/the-interface-problem/) — The open challenge of specifying how conscious states map lawfully to physical selections within this channel, and where in the brain the interface operates
 - [inverted-qualia](/concepts/inverted-qualia/) — The qualitative-side companion argument, disciplined by the same narrow outbound channel
 - [baseline-cognition](/concepts/baseline-cognition/) — What the brain achieves without conscious involvement
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Energy conservation and why selection without injection respects physics

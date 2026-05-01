@@ -82,7 +82,7 @@ Eigengrau is difficult for any account that treats conscious experience as funda
 
 The compensatory character of this baseline becomes more striking in Charles Bonnet syndrome, where people with deteriorating vision experience vivid visual hallucinations—detailed faces, landscapes, geometric patterns—that bear no relation to current input. The interface does not merely maintain a noise floor; when external signal drops far enough, it generates rich phenomenal content of its own. This is not random neural firing producing noise. It is structured experience, suggesting a system that actively sustains a phenomenal field rather than passively relaying whatever arrives.
 
-These compensatory phenomena support the Map's claim that consciousness contributes something of its own to perception. The interface is not merely a conduit; it generates phenomenal content from its own activity. The "noise floor" of perception—eigengrau, phosphenes, visual snow—and its escalation into compensatory hallucination reveal the interface in the absence of signal. The question of what this interface *is* and where it sits remains one of the Map's central open problems (see [the interface specification problem](/topics/the-interface-specification-problem/)).
+These compensatory phenomena support the Map's claim that consciousness contributes something of its own to perception. The interface is not merely a conduit; it generates phenomenal content from its own activity. The "noise floor" of perception—eigengrau, phosphenes, visual snow—and its escalation into compensatory hallucination reveal the interface in the absence of signal. The question of what this interface *is* and where it sits remains one of the Map's central open problems (see [the interface specification problem](/topics/the-interface-problem/)).
 
 ## The Blur Paradox Stated
 
@@ -117,7 +117,7 @@ The blur paradox engages several of the Map's [tenets](/tenets/).
 - [visual-consciousness](/concepts/visual-consciousness/)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- [the-interface-specification-problem](/topics/the-interface-problem/)
 - [interface-friction](/concepts/interface-friction/)
 
 ## References

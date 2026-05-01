@@ -57,7 +57,7 @@ topics: []
 ### Cross-links Added
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — quantum Zeno mechanism attribution
 - [structure-of-attention](/topics/structure-of-attention/) — sustained attention details
-- [the-interface-location-problem](/topics/the-interface-location-problem/) — why consciousness interfaces where it does
+- [the-interface-location-problem](/topics/the-interface-problem/) — why consciousness interfaces where it does
 - [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) — conservation law preservation
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — probabilistic constraint
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — microtubule controversy

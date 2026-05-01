@@ -68,7 +68,7 @@ A complete selection law would answer:
 
 **4. Scope constraints**: What is *not* selectable? External quantum systems, others' brains, events outside attention—selection operates through the brain's representational interface.
 
-Without answers to these questions, "consciousness selects" remains metaphorical rather than scientific. The [interface specification problem](/topics/the-interface-specification-problem/) examines the epistemic challenges of answering them. The [content-specificity](/concepts/content-specificity-of-mental-causation/) evidence constrains what selection laws must accommodate: empirically, the *meaning* of a conscious state determines *which* physical effect occurs with striking granularity—different placebo beliefs produce different neurochemical cascades, and finer distinctions in conscious content produce correspondingly finer distinctions in physiological response.
+Without answers to these questions, "consciousness selects" remains metaphorical rather than scientific. The [interface specification problem](/topics/the-interface-problem/) examines the epistemic challenges of answering them. The [content-specificity](/concepts/content-specificity-of-mental-causation/) evidence constrains what selection laws must accommodate: empirically, the *meaning* of a conscious state determines *which* physical effect occurs with striking granularity—different placebo beliefs produce different neurochemical cascades, and finer distinctions in conscious content produce correspondingly finer distinctions in physiological response.
 
 ## Why Quantum Selection?
 
@@ -161,7 +161,7 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [downward-causation](/concepts/mental-causation-and-downward-causation/) — The general framework for higher-level causes affecting lower-level processes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for selection
 - [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — The ~10 bits/second constraint on conscious selection
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — Epistemic challenges of specifying the mind-matter interface
+- [the-interface-specification-problem](/topics/the-interface-problem/) — Epistemic challenges of specifying the mind-matter interface
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Formal approaches to the control relationship
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The attention-observation mechanism in detail
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view selection laws are designed to avoid

@@ -83,7 +83,7 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 Stating that coupling exists and listing its constraints is necessary but insufficient. The deeper challenge is *specifying* the coupling — identifying which phenomenal properties map to which physical parameters through which mechanisms.
 
-This is what Schaffer calls the "t-shirt problem": the lack of a compact systematisation of psychophysical correlations. For physical laws, we can write F = ma on a t-shirt. For psychophysical coupling, no equivalent formula exists. The [interface specification problem](/topics/the-interface-specification-problem/) develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail.
+This is what Schaffer calls the "t-shirt problem": the lack of a compact systematisation of psychophysical correlations. For physical laws, we can write F = ma on a t-shirt. For psychophysical coupling, no equivalent formula exists. The [interface specification problem](/topics/the-interface-problem/) develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail.
 
 Candidate couplings have been proposed:
 

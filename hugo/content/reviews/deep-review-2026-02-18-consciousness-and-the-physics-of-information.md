@@ -30,7 +30,7 @@ topics: []
 
 3. **Wheeler's MWI stance oversimplified** (line 100): Article implied Wheeler straightforwardly rejected many-worlds, ignoring his role as Everett's PhD advisor and his complicated evolving relationship with MWI. Resolution: Added parenthetical acknowledging Wheeler's history with MWI, his initial support, and his 1980 distancing.
 
-4. **Decoherence objection entirely absent**: The primary empirical objection to quantum consciousness theories (Tegmark 2000 decoherence timescales) was never mentioned. Resolution: Added full paragraph engaging with the decoherence objection, citing Tegmark, and explaining the Map's response. Added cross-link to [decoherence](/concepts/decoherence/) and [the-interface-specification-problem](/topics/the-interface-specification-problem/).
+4. **Decoherence objection entirely absent**: The primary empirical objection to quantum consciousness theories (Tegmark 2000 decoherence timescales) was never mentioned. Resolution: Added full paragraph engaging with the decoherence objection, citing Tegmark, and explaining the Map's response. Added cross-link to [decoherence](/concepts/decoherence/) and [the-interface-specification-problem](/topics/the-interface-problem/).
 
 5. **Landauer's principle misapplied to "quantum biasing"**: The article claimed quantum biasing events carry Landauer cost, but Landauer's principle applies to logically irreversible operations (bit erasure), not arbitrary biasing. Resolution: Rewrote the Landauer section to correctly apply the principle to neural computation (which does involve irreversible operations) rather than to the hypothetical biasing mechanism itself.
 
@@ -42,7 +42,7 @@ topics: []
 - **"As the philosophical analysis of measurement suggests"** presented a contested minority position as consensus. Resolution: Rewritten to "as some interpretations of the measurement problem suggest—a contested position, associated with von Neumann and Stapp rather than mainstream physics."
 - **Black hole section performed argumentative work it disclaimed**. Resolution: Rewritten to "The Map treats this as a suggestive observation, not a load-bearing argument" with reframed epiphenomenalism diagnostic.
 - **Energy conservation claim**: "Landauer's principle ensures this participation has physical consequences without requiring energy injection" was physically confused. Resolution: Replaced with cross-reference to [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) for the actual energy conservation treatment.
-- **"Quantum biasing" undefined**: The central mechanism is unnamed and unspecified. Resolution: Added cross-references to [quantum-consciousness](/concepts/quantum-consciousness/) and [the-interface-specification-problem](/topics/the-interface-specification-problem/).
+- **"Quantum biasing" undefined**: The central mechanism is unnamed and unspecified. Resolution: Added cross-references to [quantum-consciousness](/concepts/quantum-consciousness/) and [the-interface-specification-problem](/topics/the-interface-problem/).
 
 ### Counterarguments Considered
 
@@ -67,7 +67,7 @@ topics: []
 ### Enhancements Made
 
 - Added decoherence engagement paragraph with Tegmark citation
-- Added cross-links to [decoherence](/concepts/decoherence/), [epiphenomenalism](/concepts/epiphenomenalism/), [attention-as-interface](/concepts/attention-as-interface/), [the-interface-specification-problem](/topics/the-interface-specification-problem/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)
+- Added cross-links to [decoherence](/concepts/decoherence/), [epiphenomenalism](/concepts/epiphenomenalism/), [attention-as-interface](/concepts/attention-as-interface/), [the-interface-specification-problem](/topics/the-interface-problem/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)
 - Corrected Wheeler quote to include full qualifiers
 - Replaced unverified Chalmers quote with verified quote
 - Added nuanced Wheeler-MWI history
@@ -80,7 +80,7 @@ topics: []
 - [decoherence](/concepts/decoherence/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 - [attention-as-interface](/concepts/attention-as-interface/)
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- [the-interface-specification-problem](/topics/the-interface-problem/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
 - [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)
 - [quantum-consciousness](/concepts/quantum-consciousness/) (inline)

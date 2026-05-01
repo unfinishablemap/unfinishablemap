@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-18 09:05:00+00:00
+ai_modified: 2026-05-01 07:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[illusionism]]'
 - '[[attention-as-interface]]'
 - '[[brain-specialness-boundary]]'
-- '[[the-interface-location-problem]]'
+- '[[the-interface-problem]]'
 - '[[witness-consciousness]]'
 - '[[consciousness-as-amplifier]]'
 - '[[phenomenology-of-choice-and-volition]]'

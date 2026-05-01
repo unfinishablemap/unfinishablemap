@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [The Interface Specification Problem](/topics/the-interface-specification-problem/)
+**Article**: [The Interface Specification Problem](/topics/the-interface-problem/)
 **Previous review**: [2026-02-20](/reviews/deep-review-2026-02-20-the-interface-specification-problem/)
 
 ## Pessimistic Analysis Summary

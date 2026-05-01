@@ -58,7 +58,7 @@ topics: []
 - Added page references to Chalmers quotes
 
 ### Cross-links Added
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — complementary article on interface location
+- [the-interface-specification-problem](/topics/the-interface-problem/) — complementary article on interface location
 - [mysterianism](/concepts/mysterianism/) — cognitive closure as specification gap explanation
 - [princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/) — original form of the specification problem
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — methodology for constraining phenomenal inputs

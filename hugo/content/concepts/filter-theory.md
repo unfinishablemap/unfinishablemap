@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-17 17:56:00+00:00
+ai_modified: 2026-05-01 07:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -42,8 +42,7 @@ related_articles:
 title: Filter Theory of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[the-interface-specification-problem]]'
-- '[[the-interface-location-problem]]'
+- '[[the-interface-problem]]'
 - '[[terminal-lucidity-and-filter-transmission-theory]]'
 - '[[bandwidth-of-consciousness]]'
 ---
@@ -136,7 +135,7 @@ Filter theory doesn't require locating consciousness spatially. Consciousness mi
 
 ### "What is the mechanism of transmission?"
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems, selecting among outcomes physics leaves undetermined. The [interface specification problem](/topics/the-interface-specification-problem/) and [interface location problem](/topics/the-interface-location-problem/) examine the technical details. A significant caveat: such consciousness-selection is empirically indistinguishable from random collapse (see [measurement-problem](/concepts/measurement-problem/)).
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems, selecting among outcomes physics leaves undetermined. The [interface problem](/topics/the-interface-problem/) examines the technical details on both fronts—where in the brain the interface operates and how conscious states map to physical selections. A significant caveat: such consciousness-selection is empirically indistinguishable from random collapse (see [measurement-problem](/concepts/measurement-problem/)).
 
 ### "Why brains specifically?"
 
@@ -187,8 +186,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how filter theory explains identity persistence through anesthesia and death
 - [default-mode-network](/concepts/default-mode-network/) — The brain's self-referential system as a specific filter mechanism
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — How conscious states map to physical selections
-- [the-interface-location-problem](/topics/the-interface-location-problem/) — Where consciousness meets the brain
+- [the-interface-problem](/topics/the-interface-problem/) — Where consciousness meets the brain and how conscious states map to physical selections
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological dissection of separable filter components
 - [anesthesia-void](/voids/anesthesia-void/) — The first-person gap under anesthesia as a void probe for the filter-vs-production question

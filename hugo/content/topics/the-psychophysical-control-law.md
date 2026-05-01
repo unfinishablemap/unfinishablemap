@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-23 20:41:00+00:00
+ai_modified: 2026-05-01 07:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,7 +33,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[psychophysical-laws-bridging-mind-and-matter]]'
-- '[[the-interface-specification-problem]]'
+- '[[the-interface-problem]]'
 - '[[history-of-the-interaction-problem]]'
 - '[[psychophysical-coupling-law-mechanisms-2026-01-23]]'
 - '[[psychophysical-coupling-problem-2026-01-15]]'
@@ -179,7 +179,7 @@ The psychophysical control law is the specification gap at the centre of the Map
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The concept: Chalmers' framework and candidate coupling laws
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview of upward and downward laws
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — The complementary problem: where does consciousness couple to the brain?
+- [the-interface-problem](/topics/the-interface-problem/) — The complementary location question: where does consciousness couple to the brain, alongside the specification half this article develops
 - [control-theoretic-will](/concepts/control-theoretic-will/) — The control-theoretic framing this article builds on
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control as coupling modes
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The mechanism the control law governs

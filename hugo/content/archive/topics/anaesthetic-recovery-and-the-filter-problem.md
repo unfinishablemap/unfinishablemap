@@ -95,7 +95,7 @@ Three features of recovery jointly constrain theory:
 
 **Asymmetry with induction** rules out the simplest production models. If consciousness were merely a function of aggregate neural activity — total firing rates, global connectivity — it should return at the same threshold it disappeared. The hysteresis demonstrates that something about the state itself, not just the chemical environment, matters.
 
-**Hierarchical restoration** reveals the interface's layered architecture. Executive function before reaction time, frontal-parietal dynamics before sensorimotor integration — the order implies that higher-order interface components are more fundamental to consciousness than lower-order sensory channels. This aligns with the Map's position that the interface operates primarily through the [attention-motor architecture](/topics/the-interface-location-problem/), with sensory channels serving as secondary routes.
+**Hierarchical restoration** reveals the interface's layered architecture. Executive function before reaction time, frontal-parietal dynamics before sensorimotor integration — the order implies that higher-order interface components are more fundamental to consciousness than lower-order sensory channels. This aligns with the Map's position that the interface operates primarily through the [attention-motor architecture](/topics/the-interface-problem/), with sensory channels serving as secondary routes.
 
 **Stochastic timing** indicates that the transition involves processes not fully determined by measurable physical variables. Whether this indeterminacy is quantum, classical-stochastic, or something else, it resists the picture of consciousness as a deterministic readout of neural state.
 
@@ -120,7 +120,7 @@ Anaesthetic recovery connects to the Map's [tenets](/tenets/) in ways distinct f
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological dissection of the consciousness-brain interface during induction
 - [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Broader treatment of consciousness loss including coma and the filter argument
 - [filter-theory](/concepts/filter-theory/) — The transmission model of brain-consciousness relation
-- [the-interface-location-problem](/topics/the-interface-location-problem/) — Where consciousness meets the brain: candidates and constraints
+- [the-interface-location-problem](/topics/the-interface-problem/) — Where consciousness meets the brain: candidates and constraints
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for the consciousness-brain interface
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as consciousness interfaces
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity, richness, and complexity

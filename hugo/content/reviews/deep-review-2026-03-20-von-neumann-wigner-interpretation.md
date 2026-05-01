@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Broken link to archived content**: `[interface-locality](/concepts/brain-interface-boundary/)` pointed to an archived article. Replaced with `[brain-interface-boundary](/concepts/brain-interface-boundary/)` which covers the same concept (interface locality / brain specialness). Applied in both body text and Further Reading.
-- **Broken link**: `[interface-specification-programme](/apex/interface-specification-programme/)` pointed to a non-existent concepts file. Corrected to `[the-interface-specification-problem](/topics/the-interface-specification-problem/)` which is the actual topics article.
+- **Broken link**: `[interface-specification-programme](/apex/interface-specification-programme/)` pointed to a non-existent concepts file. Corrected to `[the-interface-specification-problem](/topics/the-interface-problem/)` which is the actual topics article.
 - **Section heading capitalization**: "From Von Neumann–Wigner to Stapp" used uppercase "Von" inconsistent with the article title's lowercase "von". Corrected.
 - **Mechanism deficit objection thin**: The objection named the problem but didn't connect to the Map's efforts to address it. Added cross-link to `[consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)`.
 
@@ -69,7 +69,7 @@ This article discusses historical figures' work. Attribution check results:
 ### Cross-links Added
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) (new concept link + Further Reading + body text)
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) (replaced archived [interface-locality](/concepts/brain-interface-boundary/))
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/) (corrected from non-existent [interface-specification-programme](/apex/interface-specification-programme/))
+- [the-interface-specification-problem](/topics/the-interface-problem/) (corrected from non-existent [interface-specification-programme](/apex/interface-specification-programme/))
 
 ## Remaining Items
 

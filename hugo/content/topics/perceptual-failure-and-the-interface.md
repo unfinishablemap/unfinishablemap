@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-04-29 01:49:00+00:00
+ai_modified: 2026-05-01 07:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[dualist-perception]]'
-- '[[the-interface-specification-problem]]'
+- '[[the-interface-problem]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[bandwidth-of-consciousness]]'
@@ -139,7 +139,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 ## Further Reading
 
 - [dualist-perception](/topics/dualist-perception/)
-- [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- [the-interface-problem](/topics/the-interface-problem/)
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - [interface-friction](/concepts/interface-friction/)
 - [filter-theory](/concepts/filter-theory/)
