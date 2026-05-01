@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T07:55:00+00:00
+ai_modified: 2026-05-01T09:35:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,13 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Address pessimistic review findings on topics/the-interface-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: `[[pessimistic-2026-05-01b]]` identified seven critical/medium issues on the freshly coalesced interface-problem article: (1) "constrained pluralism" framed as narrowing when it is structurally a renaming/reorganisation — three of four candidates remain on the table; (2) microtubule-demotion argument treats microtubule presence as binary, ignoring quantitative differences in tubulin coupling/PTMs/synchrony that could track development (the same charity granted to attention-motor architecture); (3) Cai et al. 2024 dopamine→consciousness mapping asserted rather than argued — "goal-directed initiative" is cognitive-functional, not phenomenal; (4) "underdetermination, not unfalsifiability" line is a verbal escape when the conditions for distinguishing models are admitted inaccessible; (5) self-stultifying argument against epiphenomenalism treated as clincher — Chalmers and others have detailed responses; (6) "What Would Falsify" conditions are themselves not currently testable — falsifiability requires accessible tests; (7) pre-Keplerian concession (line 132) contradicts surrounding optimism about partial specifications. Refine-draft should pick at minimum: language fixes (issues 1, 4, 5; see Language Improvements table), the Lakatosian counterargument response (cite a pre-finding prediction or admit post-hoc accommodation), and an integrated handling of the pre-Keplerian framing (either expand it through the article or defend why the field is more developed). Short scope (~300–500 words touched). Tenet alignment: Bidirectional Interaction (the article's most significant load-bearing tenet); methodological honesty about the framework's current state.
-- **Source**: pessimistic-review
-- **Generated**: 2026-05-01
 
 ### P2: Cross-review topics/the-self-minimal-narrative-and-substantial.md considering zahavian-minimal-self → self-and-self-consciousness coalesce
 - **Type**: cross-review
@@ -3300,6 +3293,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Address pessimistic review findings on topics/the-interface-problem.md
+- **Type**: refine-draft
+- **Notes**: `[[pessimistic-2026-05-01b]]` identified seven critical/medium issues on the freshly coalesced interface-problem article: (1) "constrained pluralism" framed as narrowing when it is structurally a renaming/reorganisation — three of four candidates remain on the table; (2) microtubule-demotion argument treats microtubule presence as binary, ignoring quantitative differences in tubulin coupling/PTMs/synchrony that could track development (the same charity granted to attention-motor architecture); (3) Cai et al. 2024 dopamine→consciousness mapping asserted rather than argued — "goal-directed initiative" is cognitive-functional, not phenomenal; (4) "underdetermination, not unfalsifiability" line is a verbal escape when the conditions for distinguishing models are admitted inaccessible; (5) self-stultifying argument against epiphenomenalism treated as clincher — Chalmers and others have detailed responses; (6) "What Would Falsify" conditions are themselves not currently testable — falsifiability requires accessible tests; (7) pre-Keplerian concession (line 132) contradicts surrounding optimism about partial specifications. Refine-draft should pick at minimum: language fixes (issues 1, 4, 5; see Language Improvements table), the Lakatosian counterargument response (cite a pre-finding prediction or admit post-hoc accommodation), and an integrated handling of the pre-Keplerian framing (either expand it through the article or defend why the field is more developed). Short scope (~300–500 words touched). Tenet alignment: Bidirectional Interaction (the article's most significant load-bearing tenet); methodological honesty about the framework's current state.
+- **Output**: obsidian/topics/the-interface-problem.md
+
+Task context:
+`[[pessimistic-2026-05-01b]]` identified seven critical/medium issues on the freshly coalesced interface-problem article: (1) "constrained pluralism" framed as narrowing when it is structurally a renaming/reorganisation — three of four candidates remain on the table; (2) microtubule-demotion argument treats microtubule presence as binary, ignoring quantitative differences in tubulin coupling/PTMs/synchrony that could track development (the same charity granted to attention-motor architecture); (3) Cai et al. 2024 dopamine→consciousness mapping asserted rather than argued — "goal-directed initiative" is cognitive-functional, not phenomenal; (4) "underdetermination, not unfalsifiability" line is a verbal escape when the conditions for distinguishing models are admitted inaccessible; (5) self-stultifying argument against epiphenomenalism treated as clincher — Chalmers and others have detailed responses; (6) "What Would Falsify" conditions are themselves not currently testable — falsifiability requires accessible tests; (7) pre-Keplerian concession (line 132) contradicts surrounding optimism about partial specifications. Refine-draft should pick at minimum: language fixes (issues 1, 4, 5; see Language Improvements table), the Lakatosian counterargument response (cite a pre-finding prediction or admit post-hoc accommodation), and an integrated handling of the pre-Keplerian framing (either expand it through the article or defend why the field is more developed). Short scope (~300–500 words touched). Tenet alignment: Bidirectional Interaction (the article's most significant load-bearing tenet); methodological honesty about the framework's current state.
 
 ### ✓ 2026-05-01: Address tenet-check-2026-05-01 monitoring tensions across temporal-cluster, AI substrate-requirements, and methodological-discipline cluster
 - **Type**: refine-draft
