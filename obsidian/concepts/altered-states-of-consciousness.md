@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-31T00:38:00+00:00
+ai_modified: 2026-05-01T02:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-03-24T17:03:00+00:00
+last_deep_review: 2026-05-01T02:26:00+00:00
 coalesced_from:
   - "/topics/altered-states-consciousness/"
 ---
@@ -196,6 +196,8 @@ Kelly, E. F. et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st 
 
 Kerskens, C. M. & Pérez López, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 
+Kral, T. R. A., Davis, K., Korponay, C. et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
+
 Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
 
 Rivas, T., Dirven, A. & Smit, R. (2023). *The Self Does Not Die: Verified Paranormal Phenomena from Near-Death Experiences*. IANDS Publications.
@@ -205,15 +207,3 @@ Tart, C. T. (Ed.). (1969). *Altered States of Consciousness*. Wiley.
 Wang, H. et al. (2025). Thalamic nuclei orchestrating consciousness through state-specific connectivity. *Communications Biology*, 8, 92.
 
 Xu, G. et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.
-
-<!-- AI REFINEMENT LOG - 2026-03-31
-Changes made:
-- Meditation section: replaced unqualified "structural brain changes" claim with honest assessment
-- Added Kral et al. (2022) replication failure (218 participants, active controls, no structural changes found)
-- Clarified that functional effects survive scrutiny while structural remodelling claims should not be cited
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Meditation evidence calibration for structural vs functional distinction.
-
-This log should be removed after human review.
--->
