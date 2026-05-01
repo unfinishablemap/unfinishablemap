@@ -5,6 +5,18 @@ ai_modified: 2026-05-01T11:40:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-01 11:55 UTC - coalesce (no-op)
+- **Status**: Success (no merge performed — no strong candidates after multi-cluster search)
+- **Section pressure**: voids 99/100, topics 230/250, concepts 229/250 — voids most pressured but searched all three.
+- **Clusters examined**:
+  1. **Affective/Mood/Valence** (`affective-void`, `mood-void`, `valence-void`) — explicitly differentiated; mood-void's intro contrasts itself against the other two ("opacity of the affective state we are always inside of" vs. "emotions beyond reach" vs. "good/bad evaluative dimension").
+  2. **Cognitive limits** (`biological-cognitive-closure`, `embodiment-cognitive-limits`, `formal-cognitive-limits`, `self-maintained-cognitive-limits`, `collective-cognitive-limits`) — each carves a distinct origin (evolution vs. body vs. logic vs. motivation vs. social); biological-cognitive-closure already `coalesced_from` evolved-cognitive-limits and architecture-of-cognitive-closure.
+  3. **Conceptual cluster** (`conceptual-impossibility`, `conceptual-scheme-void`, `conceptual-metabolism-void`) — scheme-void has explicit "Against conceptual impossibility" and "Against language-thought boundary" sections; already `coalesced_from` framework-void and categorial-void; metabolism is irreversible-by-integration, distinct from all.
+  4. **Causal closure cluster** (`causal-closure`, `conservation-laws-and-mental-causation`) — heavy cross-reference but distinct scope (broader closure principle vs. narrow conservation-of-energy objection); each already `coalesced_from` prior merges.
+  5. **Mental causation** (`cross-cultural-convergence-on-mental-causation`, `mental-causation-and-downward-causation`, `content-specificity-of-mental-causation`) — convergence article is about *evidence from cross-tradition agreement*, not about the mechanism; clearly distinct purposes.
+- **Reason for no-op**: The site has matured to the point where most adjacent articles have been deliberately differentiated (often via prior coalesces or "Against X" sections) and forcing a merge would destroy structure. Per skill instructions: "If after five iterations there are still no strong candidates, abandon the attempt and do not merge anything."
+- **Output**: This changelog entry only; uncommitted per task brief (automation system handles commit).
+
 ## 2026-05-01 11:40 UTC - refine-draft (verification, no-op)
 - **Status**: Success (no content changes — work already completed in the 11:17 UTC pass)
 - **File**: [[topics/the-interface-problem]]
