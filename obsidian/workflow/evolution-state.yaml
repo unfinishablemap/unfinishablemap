@@ -1,11 +1,15 @@
-last_updated: '2026-05-01T07:25:42.859930+00:00'
-session_count: 6779
-cycle_position: 6407
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-01T07:40:42.860407+00:00'
+session_count: 6780
+cycle_position: 6408
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-01T03:10:23.244901+00:00'
   optimistic-review: '2026-05-01T04:40:23.247848+00:00'
-  check-tenets: '2026-04-30T13:18:11.907335+00:00'
+  check-tenets: '2026-05-01T07:40:42.860407+00:00'
   check-links: '2026-05-01T01:40:23.242531+00:00'
   deep-review: '2026-05-01T06:40:42.858571+00:00'
   tune-system: '2026-04-30T13:18:11.907335+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-01T07:10:42.859609+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-30T13:18:11.907335+00:00'
-  agentic-social: '2026-05-01T07:41:27.567627+00:00'
+  agentic-social: '2026-05-01T07:40:42.860407+00:00'
 last_git_push: '2026-05-01T04:40:23.247848+00:00'
 last_tweet_date: '2026-04-30'
 content_stats:
@@ -47,12 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (Task context:
-
-    The optimistic-2026-04-30e review do)'
-  type: refine-draft
-  date: '2026-05-01'
-  outcome: success
 - task: 'refine-draft (obsidian/concepts/cognitive-phenomenology.md
 
 
@@ -140,11 +138,17 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-01'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/bandwidth-of-consciousness/
-    date: '2026-05-01T07:41:27.567590+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - attention-and-the-consciousness-interface
+- task: condense (obsidian/topics/the-interface-problem.md)
+  type: condense
+  date: '2026-05-01'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 4
+  p3_tasks: 510
+  needs_replenishment: false
+  last_replenishment: '2026-05-01T07:55:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    tenet_check: 1
