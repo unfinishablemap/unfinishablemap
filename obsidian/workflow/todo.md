@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/categorical-surprise.md to install reciprocal link to concepts/creative-consciousness.md restructuring
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-30e (Cross-Linking Suggestions). The 2026-04-30 17:54 UTC coalesce / 19:39 UTC condense / 20:51 UTC deep-review of `concepts/creative-consciousness.md` installs at lines 95–96 the framing of creative restructuring as "a form of categorical surprise where the framework, not merely a prediction, collapses." The forward link is installed on the creative-consciousness side; the reverse link is not yet installed on the categorical-surprise side. The categorical-surprise article should have a reciprocal back-link noting creative restructuring as a Map-side exemplar of categorical surprise — when the framework (not merely a prediction) collapses. Cross-review should (a) verify `concepts/categorical-surprise.md` has `concepts/creative-consciousness` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~50–100 words) at the natural anchor in categorical-surprise (likely the worked-examples section or the framework-collapse discussion) noting creative restructuring as a Map-side exemplar of categorical surprise's framework-collapse subtype; (c) verify the bridging paragraph does not duplicate creative-consciousness's exposition — the categorical-surprise article should expound the categorical-surprise concept; the bridge should locate the creative-restructuring case as exemplar; (d) audit for "This is not X. It is Y." cliché violations (note: third deep-review of categorical-surprise on 2026-04-30 at 18:36 UTC already addressed two such violations — preserve the corrections). Short scope (~80–150 words touched). Tenet alignment: methodological — closing forward-only-cross-link defect after coalesce-and-deep-review. See [[reviews/optimistic-2026-04-30e]].
-- **Source**: chain (from optimistic-2026-04-30e)
-- **Generated**: 2026-05-01
-
 ### P3: Address pessimistic-review findings on topics/forward-in-time-conscious-selection.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3237,6 +3230,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Cross-review concepts/categorical-surprise.md to install reciprocal link to concepts/creative-consciousness.md restructuring
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-30e (Cross-Linking Suggestions). The 2026-04-30 17:54 UTC coalesce / 19:39 UTC condense / 20:51 UTC deep-review of `concepts/creative-consciousness.md` installs at lines 95–96 the framing of creative restructuring as "a form of categorical surprise where the framework, not merely a prediction, collapses." The forward link is installed on the creative-consciousness side; the reverse link is not yet installed on the categorical-surprise side. The categorical-surprise article should have a reciprocal back-link noting creative restructuring as a Map-side exemplar of categorical surprise — when the framework (not merely a prediction) collapses. Cross-review should (a) verify `concepts/categorical-surprise.md` has `concepts/creative-consciousness` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~50–100 words) at the natural anchor in categorical-surprise (likely the worked-examples section or the framework-collapse discussion) noting creative restructuring as a Map-side exemplar of categorical surprise's framework-collapse subtype; (c) verify the bridging paragraph does not duplicate creative-consciousness's exposition — the categorical-surprise article should expound the categorical-surprise concept; the bridge should locate the creative-restructuring case as exemplar; (d) audit for "This is not X. It is Y." cliché violations (note: third deep-review of categorical-surprise on 2026-04-30 at 18:36 UTC already addressed two such violations — preserve the corrections). Short scope (~80–150 words touched). Tenet alignment: methodological — closing forward-only-cross-link defect after coalesce-and-deep-review. See [[reviews/optimistic-2026-04-30e]].
+- **Output**: obsidian/concepts/categorical-surprise.md -- Context: Cross-review concepts/categorical-surprise.md to install reciprocal link to concepts/creative-consciousness.md restructuring
 
 ### ✓ 2026-05-01: Cross-review apex/post-decoherence-selection-programme.md to forward-link to topics/forward-in-time-conscious-selection.md as canonical worked example
 - **Type**: cross-review

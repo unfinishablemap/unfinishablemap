@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 01:46:00+00:00
+ai_modified: 2026-05-01 01:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 01:55 UTC - deep-review
+- **Status**: Success (cross-review, terminology aligned to restructured target)
+- **File**: [[concepts/categorical-surprise]]
+- **Word count**: 1864 → 1865 (+1 word; 75% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 1 (stale "theoretical vertigo" terminology that no longer exists in the linked destination)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (rewrote inline cross-reference at line 68 to match the new `creative-consciousness` article's actual phrasing — "felt destabilisation of the interpretive framework that Kuhn called *anomaly*" — replacing a phrase coined in the now-archived `phenomenology-of-creative-insight` ancestor)
+- **Context**: Cross-review triggered by 2026-04-30 coalesce + condense + deep-review of `creative-consciousness` (unified `consciousness-and-creativity` + `phenomenology-of-creative-insight`). Reciprocal wikilinks were already in place from the 2026-04-30 cross-review reference-update pass; the only outstanding work was an inline description that named a specific phrase ("theoretical vertigo") that did not survive the coalesce. Anchored link `creative-consciousness#The Phenomenology of Creative Insight` verified resolving correctly. Article remains stable across four deep reviews.
+- **Output**: [[reviews/deep-review-2026-05-01-categorical-surprise]]
 
 ## 2026-05-01 01:46 UTC - research-voids
 - **Status**: Success

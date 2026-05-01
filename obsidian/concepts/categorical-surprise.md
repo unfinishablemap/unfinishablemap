@@ -4,7 +4,7 @@ description: "When expectation fails not at the level of prediction but at the l
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-30T18:36:00+00:00
+ai_modified: 2026-05-01T01:55:00+00:00
 draft: false
 topics:
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-04-30T18:36:00+00:00
+last_deep_review: 2026-05-01T01:55:00+00:00
 ---
 
 Categorical surprise is the experience of encountering something that falls outside the space of possibilities one's framework was built to cover. Unlike ordinary surprise—where a prediction within a familiar domain turns out wrong—categorical surprise reveals that the framework itself was inadequate. You expected a red car and saw a blue one: ordinary surprise. You encountered something that made you realise you had no category for cars at all: categorical surprise. The Unfinishable Map argues that this distinction marks a critical test case for theories of consciousness, because categorical surprise requires a vantage point outside one's own representational space—something [[predictive-processing]] models struggle to provide.
@@ -65,7 +65,7 @@ The [[epistemic-emotions|epistemic emotions]] surrounding categorical surprise h
 
 **Disorientation.** Ordinary surprise produces a jolt; categorical surprise produces something closer to vertigo. The ground of expectation itself has shifted. There is a moment of phenomenal free-fall before the new framework begins to coalesce.
 
-**Retrospective reinterpretation.** After categorical surprise, previous experiences are reinterpreted through the new framework. Kuhn described this at the social scale in scientific revolutions: when Lavoisier reinterpreted combustion as combination with oxygen rather than release of phlogiston, chemists did not simply add a new fact—they reinterpreted decades of experimental results as having been about the wrong thing entirely (Kuhn 1962, ch. X). The Map's analysis of the [[creative-consciousness#The Phenomenology of Creative Insight|phenomenology of creative insight]] examines this process in detail — the distinctive *theoretical vertigo* of anomaly recognition, and the felt sense that the new framework was already there in nature rather than constructed by the scientist. At the individual scale, the same restructuring produces the felt sense that one was seeing the world wrong all along, not merely predicting it inaccurately.
+**Retrospective reinterpretation.** After categorical surprise, previous experiences are reinterpreted through the new framework. Kuhn described this at the social scale in scientific revolutions: when Lavoisier reinterpreted combustion as combination with oxygen rather than release of phlogiston, chemists did not simply add a new fact—they reinterpreted decades of experimental results as having been about the wrong thing entirely (Kuhn 1962, ch. X). The Map's analysis of the [[creative-consciousness#The Phenomenology of Creative Insight|phenomenology of creative insight]] examines this process in detail — the felt destabilisation of the interpretive framework that Kuhn called *anomaly*, and the felt sense that the new pattern was already there in nature rather than constructed by the scientist. At the individual scale, the same restructuring produces the felt sense that one was seeing the world wrong all along, not merely predicting it inaccurately.
 
 **Epistemic humility.** Categorical surprise generates awareness of one's own cognitive limitations in a way ordinary surprise does not. Ordinary surprise teaches that a specific prediction was wrong. Categorical surprise teaches that one's way of making predictions was incomplete—and raises the question of how many other blind spots remain.
 
