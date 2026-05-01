@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-27 02:43:00+00:00
+ai_modified: 2026-04-30 23:10:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -12,20 +12,21 @@ concepts:
 - '[[predictive-processing]]'
 - '[[symbol-grounding-problem]]'
 created: 2026-04-27
-date: &id001 2026-04-27
+date: &id001 2026-04-30
 description: The argument by Hutto and Myin that no naturalistic theory can explain
   how neural states acquire genuine semantic content. The Map treats it as a structural
   ally to the explanatory gap.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 02:43:00+00:00
+last_deep_review: 2026-04-30 23:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[hutto-myin-hard-problem-of-content-2026-04-27]]'
 title: Hutto-Myin's Hard Problem of Content
 topics:
+- '[[the-naturalisation-failure-for-content]]'
 - '[[enactivism-challenge-to-interactionist-dualism]]'
 - '[[eliminative-materialism]]'
 - '[[arguments-against-materialism]]'
@@ -59,6 +60,10 @@ Millikan's teleosemantics aims to repair this by adding biological function. A n
 Hutto and Myin argue that teleosemantics inherits the covariational problem rather than solving it. The selection-historical fact that a state was selected to track food does not, on their reading, change the underlying point that the state's content is being read off causal and historical facts that are themselves silent about meaning. The teleosemantic theorist can specify *when* the consumer system is supposed to use the state, but "biology lacks the resources for specifying under which guise such states might represent" their targets (Roberts, NDPR review). The intensional dimension of content—the difference between representing something *as* food and representing it *as* the nutritionally optimal nearby item—does not fall out of evolutionary function.
 
 The dilemma Hutto and Myin press: emphasise the covariational component of teleosemantics and inherit covariation's problems; emphasise the consumer-function component and lose intensionality. Neither horn delivers what content was supposed to be.
+
+## Predictive Processing as a Third Target
+
+More recent representationalist programmes—chiefly the predictive-processing accounts of Andy Clark and others—appear to escape the dilemma by recasting representation as the encoding of generative-model parameters tuned by prediction-error minimisation. In *Evolving Enactivism* (2017) Hutto and Myin argue that these accounts inherit the same chokepoint. Calling a parameter a "representation" because it figures in a model that minimises error does not change the underlying point that what the parameter does is covary with something. The third horn extends rather than escapes the original argument; for the topic-level treatment of all three horns together, see [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/).
 
 ## The Positive Alternative: Contentless Basic Minds
 
@@ -107,6 +112,7 @@ The honest limitation: Hutto and Myin would reject the Map's conclusion. They ar
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [predictive-processing](/concepts/predictive-processing/)
 - [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/)
+- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)
 - [hutto-myin-hard-problem-of-content-2026-04-27](/research/hutto-myin-hard-problem-of-content-2026-04-27/)
 
 ## References

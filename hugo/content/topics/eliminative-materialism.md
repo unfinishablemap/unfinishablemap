@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-04-27 05:43:00+00:00
+ai_modified: 2026-04-30 22:55:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,14 +14,14 @@ concepts:
 - '[[self-stultification]]'
 - '[[parsimony-epistemology]]'
 created: 2026-04-26
-date: &id001 2026-04-26
+date: &id001 2026-04-30
 description: Eliminative materialism holds beliefs and qualia are theoretical fictions
   awaiting replacement by neuroscience. The Map distinguishes two strands and rejects
   both.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 05:43:00+00:00
+last_deep_review: 2026-04-30 22:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,6 +32,7 @@ related_articles:
 - '[[methodology-of-consciousness-research]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
+- '[[the-naturalisation-failure-for-content]]'
 title: Eliminative Materialism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -103,7 +104,7 @@ Three families of objection have shaped the literature.
 
 **The self-refutation objection.** The classical version: to assert eliminativism, the eliminativist must believe it; if there are no beliefs, the assertion is incoherent. The Churchland-Devitt-Rey reply is that this begs the question—the bare thesis "there are no beliefs" is not contradictory; the objection presupposes folk-psychological semantics in framing the contradiction. Boghossian's 1990 paper "The Status of Content" offers a more sophisticated version: arguments for irrealism about propositional-attitude content generalise to all content, including the linguistic content of the eliminativist's assertions. Devitt and Rey reply that this still presupposes truth-conditional semantics that the eliminativist can decline. The state of play is unsettled; most philosophers regard the simple version as question-begging and Boghossian-style versions as more challenging. (See [self-stultification](/concepts/self-stultification/) for the Map's broader treatment of self-undermining-position arguments.)
 
-**The [hard problem of content](/concepts/hard-problem-of-content/).** Hutto and Myin (2013, 2017) argue that naturalistic theories of mental representation cannot explain how neurological states acquire genuine semantic properties—how a pattern of neural activity comes to be *about* anything. This is distinct from Churchland's eliminativism: Hutto and Myin reject inner mental representations entirely (radical enactivism) rather than reducing them to neural ones. The argument tells against the *replacement programme* by undercutting the assumption that something representational survives the replacement. Together with Boghossian's [status-of-content](/concepts/status-of-content/) argument, the two form a pincer: Boghossian shows that content irrealism cannot be coherently asserted; Hutto and Myin show that content realism cannot be naturalised.
+**The [hard problem of content](/concepts/hard-problem-of-content/).** Hutto and Myin (2013, 2017) argue that naturalistic theories of mental representation cannot explain how neurological states acquire genuine semantic properties—how a pattern of neural activity comes to be *about* anything (the Map develops this as a parallel to the phenomenal hard problem in [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)). This is distinct from Churchland's eliminativism: Hutto and Myin reject inner mental representations entirely (radical enactivism), and their positive thesis—that basic minds are contentless—is itself a form of eliminativism about content rather than about propositional-attitude structure. The argument tells against the *replacement programme* by undercutting the assumption that something representational survives the replacement. Together with Boghossian's [status-of-content](/concepts/status-of-content/) argument, the two form a pincer: Boghossian shows that content irrealism cannot be coherently asserted; Hutto and Myin show that content realism cannot be naturalised.
 
 **The Moorean response to illusionism.** Realists from Searle onwards have argued that phenomenal consciousness is the one domain where appearance and reality cannot come apart. "Where consciousness is concerned," Searle writes, "the existence of the appearance is the reality." If it seems to me that I am in pain, I am in pain; the seeming and the being are not separable. A 2024 *Frontiers in Psychology* paper, "In Defence of the Moorean Argument Against Illusionism," develops this line: I am more certain that phenomenal consciousness exists than I am of any premise an illusionist could deploy against it. Modus tollens beats modus ponens.
 
@@ -137,7 +138,7 @@ Three concessions belong to any defence the Map makes against eliminativism.
 
 ## Why Eliminativism Persists
 
-Eliminativism continues to attract serious philosophers despite the objections. The reason is that physicalism keeps failing to produce a satisfying account of consciousness, and eliminativism is the cleanest physicalist exit. If you have already committed to the view that there cannot be irreducible phenomenal facts, eliminating the appearance of such facts is the most economical response. The eliminativist's bet is that the explanatory gap will close once the right science arrives. The Map's bet is that it will not, because the gap reflects something real about the structure of consciousness rather than the immaturity of its science.
+Eliminativism persists because physicalism keeps failing to produce a satisfying account of consciousness, and eliminativism is the cleanest physicalist exit. If irreducible phenomenal facts are unacceptable in advance, eliminating their appearance is the most economical response. The eliminativist bets the explanatory gap will close once the right science arrives; the Map bets it will not, because the gap reflects something real about consciousness rather than the immaturity of its science.
 
 ## Further Reading
 
@@ -154,6 +155,7 @@ Eliminativism continues to attract serious philosophers despite the objections. 
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person method for studying consciousness, on which the illusionist case for introspective error rests
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist anatta as instructive parallel to classical eliminativism about the self; the Map borrows the no-self analysis but resists Madhyamaka's extension of *pratītyasamutpāda* to phenomenal events
 - [hard-problem-of-content](/concepts/hard-problem-of-content/) — Hutto and Myin's structural ally to the explanatory gap; pincer with Boghossian against naturalised content
+- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — the Map's topic-level argument that content resists naturalisation, paralleling the phenomenal hard problem and the normativity of reason
 - [status-of-content](/concepts/status-of-content/) — Boghossian's sophisticated self-refutation argument against eliminativism about propositional-attitude content
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — broader methodological context
 

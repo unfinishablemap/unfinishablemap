@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-28 03:13:00+00:00
+ai_modified: 2026-04-30 22:25:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: If thoughts are fully explained by physical causes, no belief is ra
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-26 17:37:00+00:00
+last_deep_review: 2026-04-30 22:25:00+00:00
 modified: *id001
 related_articles:
 - '[[topics/free-will]]'

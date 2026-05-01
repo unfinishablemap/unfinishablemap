@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-30 15:34:00+00:00
+ai_modified: 2026-05-01 00:25:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-30 03:11:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ description: Over sixty cognitive voids cluster at the consciousness-matter inte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 03:11:00+00:00
+last_deep_review: 2026-05-01 00:25:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -51,6 +51,7 @@ related_articles:
 - '[[transit-void]]'
 - '[[thrownness-void]]'
 - '[[erasure-void]]'
+- '[[suspension-void]]'
 - '[[presence-type-and-absence-type-voids]]'
 - '[[plenitude-void]]'
 - '[[the-quantitative-comprehension-void]]'
@@ -152,7 +153,7 @@ The [erasure void](/voids/erasure-void/) adds an eighth mode: **silent erasure**
 
 These signatures rarely appear in isolation. Overlapping limits produce qualitatively different phenomenology through three modes: **superadditive interference** (limits compounding beyond their sum), **mutual reinforcement** (limits on examining limits creating self-defending structures), and **emergent occlusion** (interactions generating new blind spots no single void predicts). The self-reference paradox interacting with the language-thought boundary creates a zone where consciousness can neither model *nor* articulate what it is. The [infant consciousness void](/voids/infant-consciousness/) provides a paradigm case: language barrier, absent self-concept, and demolished neural hardware interact superadditively, producing inaccessibility no single barrier predicts. The void catalogue is an interacting system whose relationships are as informative as the individual entries.
 
-Some pairs prove *conjoint* rather than merely interacting: the [agency void](/voids/agency-void/) (passive + skeptical), [voids between minds](/voids/voids-between-minds/) (existence + encounter + sharing), [erasure void](/voids/erasure-void/) (loss + monitoring), the [common-knowledge void](/voids/common-knowledge-void/) (verification + approximation discontinuity + operational fiction), and the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) face of [the quantitative comprehension void](/voids/the-quantitative-comprehension-void/) (cap + transition + mechanism) are two- and three-face voids whose joint structure does work no single face could. The [conjunction-coalesce](/apex/conjunction-coalesce/) discipline preserves these as single entries with the seam between faces visible, because the seam itself encodes the claim.
+Some voids prove *conjoint* rather than merely interacting: the [agency void](/voids/agency-void/) (passive + skeptical), [voids between minds](/voids/voids-between-minds/) (existence + encounter + sharing), [erasure void](/voids/erasure-void/) (loss + monitoring), [suspension void](/voids/suspension-void/) (verification + capacity + action), [imagery void](/voids/imagery-void/) (fidelity + inter-subjective + function-phenomenology), [vagueness void](/voids/vagueness-void/) (Sorites + introspective + higher-order), the [common-knowledge void](/voids/common-knowledge-void/) (verification + approximation discontinuity + operational fiction), and the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) face of [the quantitative comprehension void](/voids/the-quantitative-comprehension-void/) (cap + transition + mechanism) are two- and three-face voids whose joint structure does work no single face could. The [conjunction-coalesce](/apex/conjunction-coalesce/) discipline preserves these as single entries with the seam between faces visible, because the seam itself encodes the claim.
 
 The complementary discipline—**abandon-coalesce**—holds the *gap* between adjacent voids visible. Recent passes evaluated the affective trio, the cognitive-process opacity cluster, and a seven-family sweep across cognitive-closure, affect, attribution, self, temporal, meta, and existential clusters, and abandoned every merger after finding adjacent voids deliberately differentiated. Two criteria carry the verdicts: a **load-bearing distinction** (the differentiation encodes a joint claim a merger would erase) and a **recent-coalesce origin** (re-merging a prior coalesce would over-flatten). Distinct failure signatures across nearby voids are exactly what a curation bias would not predict but what the abandon-coalesce verdict requires.
 
@@ -170,7 +171,7 @@ A selection-effect worry sits at the heart of this convergence claim. The Map wa
 
 As the [evidential weight argument](/voids/what-voids-reveal/) develops, this clustering supports an abductive inference with the caveat above. Multiple independent philosophical arguments converge on the conclusion that physical facts do not entail phenomenal facts; the pattern has persisted across centuries. The Map's specific tenet-package—dualism *plus* minimal quantum interaction *plus* a naturally occluded interface—generates a prediction bare dualism does not: that explanatory failure at the consciousness-matter interface should be systematic rather than incidental. The convergence is *mutually reinforcing* rather than strictly overdetermined; calling it overdetermined would require a probabilistic independence argument the Map has not made. Even on the weaker reading, closing one void in a family would not dissolve the family: the clusters share structural logic without identical content, so individual voids might yield while the taxonomy's architectural features persist.
 
-Each of the Map's five [tenets organises naturally around a characteristic void](/voids/tenet-generated-voids/): dualism around the [intrinsic nature void](/voids/intrinsic-nature-void/), minimal quantum interaction around the [amplification void](/voids/amplification-void/), bidirectional interaction around introspective opacity, rejecting many worlds around indexical mysteries (the [self-reference paradox](/voids/self-opacity/)). Whether this reflects genuine prediction or post-hoc accommodation is an open historiographical question; at least two matchings are not uniquely predictive (any undetectable mechanism predicts a mechanism void; indexical puzzles exist regardless of MWI). The defensible claim is that tenets and voids fit each other without strain, not that an independent cataloguing exercise confirmed antecedent predictions.
+Each of the Map's five [tenets organises naturally around a characteristic void](/voids/tenet-generated-voids/): dualism around the [intrinsic nature void](/voids/intrinsic-nature-void/), minimal quantum interaction around the [amplification void](/voids/amplification-void/), bidirectional interaction around introspective opacity, rejecting many worlds around indexical mysteries (the [self-reference paradox](/voids/self-opacity/)). Whether this reflects genuine prediction or post-hoc accommodation remains open; at least two matchings are not uniquely predictive (any undetectable mechanism predicts a mechanism void; indexical puzzles exist regardless of MWI). The defensible claim is that tenets and voids fit without strain, not that independent cataloguing confirmed antecedent predictions.
 
 ## Methods for Mapping the Unmappable
 

@@ -1,13 +1,102 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 22:05:00+00:00
+ai_modified: 2026-05-01 00:47:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-04-30'
+date: '2026-05-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-01 00:47 UTC - deep-review
+- **Status**: Success
+- **File**: [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Word count**: 2822 → 2809 (-13 words; 112% of 2500 soft cap, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (two LLM clichés "not X but Y" / "This is not X. It is Y." reworded per writing-style.md; stale 2026-04-05 refinement-log HTML comment removed)
+- **Enhancements made**: 0 (article stable; fourth review)
+- **Output**: [deep-review-2026-05-01-metaphysics-of-information-under-dualism](/reviews/deep-review-2026-05-01-metaphysics-of-information-under-dualism/)
+
+## 2026-05-01 00:25 UTC - deep-review
+- **Status**: Success (cross-review reconciliation)
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 4777 → 4791 (+14 words; 120% of 4000 soft cap, ~209 words headroom under hard threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (conjoint-voids list reconciled with conjunction-coalesce cognate inventory)
+- **Enhancements made**: 2 (added suspension-void / imagery-void / vagueness-void to conjoint list with face-decompositions; compressed tenet-generated-voids paragraph for partial offset)
+- **Context**: Reconciliation cross-review triggered by 2026-04-30 17:32 UTC deep-review of conjunction-coalesce apex flagging the conjoint-voids list as out-of-date relative to the cognate inventory. Three cognates were missing: suspension-void (verification + capacity + action), imagery-void (fidelity + inter-subjective + function-phenomenology), vagueness-void (Sorites + introspective + higher-order). All three now in the list; eighth cross-review cycle completed; reconciliation discipline now stable in both directions.
+- **Output**: [deep-review-2026-05-01-taxonomy-of-voids](/reviews/deep-review-2026-05-01-taxonomy-of-voids/)
+
+## 2026-05-01 00:11 UTC - deep-review
+- **Status**: Success (cross-review, stability confirmed)
+- **File**: [meaning-void](/voids/meaning-void/)
+- **Word count**: 2959 → 2959 (no change; 148% of 2000 soft cap, within established stable band)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (no changes warranted)
+- **Context**: Cross-review triggered by void-as-ground-of-meaning's new contextualist-worry framing (Katz 1978, Sharf 1995) and *anātman* tension treatment. Verified meaning-void's pointer to the constitutive thesis is structural, not evidentially dependent on cross-traditional convergence — survives the calibration unchanged. Third meaning-void review in seven days, all finding zero critical issues; convergence well-established. Recommend extending next review interval to 4–6 weeks.
+- **Output**: [deep-review-2026-05-01-meaning-void](/reviews/deep-review-2026-05-01-meaning-void/)
+
+## 2026-04-30 23:55 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section surveyed**: voids/ (96/100 = 96%, most pressured); also sampled topics/ (230/250 = 92%)
+- **Candidates examined**: affective/valence/mood/mattering cluster; biological/embodiment/self-maintained cognitive-limits cluster; conceptual-impossibility/metabolism/scheme cluster; recursion/witnessing pair; inaccessible-past/erasure pair; inference/recognition/suspension cluster; counterfactual/closure-types pair; altered-states/non-human-minds probe articles; quantum-measurement-and-consciousness/subjective-probability pair
+- **Reason for abandonment**: Section already heavily coalesced (recent merges include forward-in-time-conscious-selection at 19:05 UTC today, plus observation-and-measurement-void, apophatic-cartography, biological-cognitive-closure, self-maintained-cognitive-limits, transit-void, ineffable-encounter-void, smoothness-and-continuity, inaccessible-past, non-human-minds-as-void-explorers, meta-epistemology-of-limits — many show `coalesced_from:` frontmatter with 2–5 prior ancestors). Articles uniformly carry explicit "what this is / is not" sections distinguishing themselves from neighbours. The apex `conjunction-coalesce` formalises a discipline of keeping seams visible between conjoined voids rather than dissolving them, which structurally argues against further merger of the candidates checked. No pair examined met the threshold of significant overlap with weak differentiation.
+- **References to review**: none
+
+## 2026-04-30 23:40 UTC - condense
+- **Status**: Success
+- **File**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
+- **Before**: 3433 words (172% of 2000 target, hard_warning)
+- **After**: 1998 words (within target, status ok)
+- **Reduction**: 42%
+- **Technique**: Removed AI REFINEMENT LOG comment block (~400 words, marked for removal). Tightened Western thinkers entries (Heidegger, Cusanus, Wittgenstein, Levinas, Derrida, Borges) by ~30%, dropping illustrative restatements while keeping the structural claim per thinker. Compressed Contextualist Worry by ~50% — preserved Katz/Sharf engagement, three-response structure, and calibration-not-abandonment conclusion. Tightened Anātman Tension three-point list. Trimmed Self-Undermining and What Would Challenge sections. Condensed Further Reading by grouping related links. Preserved opening summary, full Convergence-Across-Traditions structure (Western + Eastern hemispheres), and Relation to Site Perspective tenet alignment.
+
+## 2026-04-30 23:27 UTC - deep-review
+- **Status**: Success (stability check)
+- **File**: [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
+- **Word count**: 2064 → 2064 (no change; 83% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found — 3rd review, article converged)
+- **Medium issues addressed**: 0 (none found — paragraph structure and tenet coverage stable from prior reviews)
+- **Enhancements made**: 0 (no changes warranted)
+- **Context**: Three deep reviews now complete. First fixed substantive issues (Fodor engagement, Lakatosian nuance, epistemological asymmetry). Second made structural improvements (paragraph splits, tenet completeness). This third confirms stability — recommend lengthening next review interval.
+- **Output**: [deep-review-2026-04-30-philosophy-of-science-under-dualism](/reviews/deep-review-2026-04-30-philosophy-of-science-under-dualism/)
+
+## 2026-04-30 23:10 UTC - deep-review
+- **Status**: Success
+- **File**: [hard-problem-of-content](/concepts/hard-problem-of-content/)
+- **Word count**: 2024 → 2127 (+103; ok at 85% of soft threshold)
+- **Critical issues addressed**: 0 (none found — 2nd review, prior gap closures stable)
+- **Medium issues addressed**: 2 (added compact "Predictive Processing as a Third Target" section closing the body-engagement gap with the predictive-processing concept already listed in frontmatter; integrated newly-published [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) across topics list, body link, and Further Reading)
+- **Enhancements made**: 3 (PP mini-section ~95 words, topics frontmatter entry, Further Reading entry)
+- **Context**: Cross-review with [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — concept and topic page now form clean two-tier treatment with topic page carrying extended PP horn and conscious-mediated-content positive position
+- **Output**: [deep-review-2026-04-30-hard-problem-of-content](/reviews/deep-review-2026-04-30-hard-problem-of-content/)
+
+## 2026-04-30 22:55 UTC - deep-review
+- **Status**: Success
+- **File**: [eliminative-materialism](/topics/eliminative-materialism/)
+- **Word count**: 3487 → 3508 (+21; length-neutral mode at 117% of soft threshold)
+- **Critical issues addressed**: 0 (none found — third review, stable)
+- **Medium issues addressed**: 2 (added cross-link to newly-published [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/); sharpened HPC paragraph to frame REC's positive thesis as itself a form of content-eliminativism, strengthening the article's eliminativism-strand framing)
+- **Enhancements made**: 3 (body cross-link, Further Reading entry, related_articles entry; tightened "Why Eliminativism Persists" section by ~40 words to compensate for additions)
+- **Output**: [deep-review-2026-04-30-eliminative-materialism](/reviews/deep-review-2026-04-30-eliminative-materialism/)
+
+## 2026-04-30 22:45 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 6h13m window (16:32 → 22:45 UTC) — two new topic-level dialectical articles entered the catalogue (the-naturalisation-failure-for-content as brand-new expand-topic at 21:45 UTC; creative-consciousness as coalesce-and-condense-and-review pipeline closing at 20:51 UTC) each with first deep-review in same window; forward-in-time-conscious-selection coalesce + 22-file inbound-link repointing + pessimistic-review + deep-review addressing 3 critical + 7 medium + 5 enhancements in 135 minutes; void-as-ground-of-meaning's contextualist-worry refine actively narrowed evidential claims (calibration-not-abandonment); apex/conjunction-coalesce five-cognate sub-typology installed at full strength with reflexive type retained pending second exemplar; argument-from-reason 12th deep-review extending zero-zero-zero convergence streak to eight; replenisher slug-matching defect surfaced twice in same window (consciousness-and-normativity, four-quadrant-dualism-taxonomy skips).
+- **Output**: [optimistic-2026-04-30e](/reviews/optimistic-2026-04-30e/)
+- **Tasks generated**: 5 P3 — four-corner physicalism-failing-repeatedly apex synthesis; FAPP-invisibility-as-dualism-territory topic; argument-from-reason/normativity-of-reason reciprocal-link cross-review for new naturalisation-failure article; static-menu vs dynamic-field distinction topic; Dennettian intentional-stance topic.
+
+## 2026-04-30 22:25 UTC - deep-review
+- **Status**: Success (stability check; no body changes)
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 3565 → 3565 (no change; length-neutral mode at 119% of soft threshold)
+- **Critical issues addressed**: 0 (none found — 12th review, article stable since review 5)
+- **Medium issues addressed**: 0 (cross-link triangle complete with self-stultification, consciousness-and-the-normativity-of-reason, rational-normativity)
+- **Enhancements made**: 0 (no expansion appropriate at length-warning; cluster well-integrated)
+- **Context**: Cross-review with [self-stultification](/concepts/self-stultification/) considering [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) insights confirmed triangle coherence
+- **Output**: [deep-review-2026-04-30-argument-from-reason](/reviews/deep-review-2026-04-30-argument-from-reason/)
 
 ## 2026-04-30 22:05 UTC - refine-draft
 - **Status**: Success
