@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T10:55:00+00:00
+ai_modified: 2026-05-01T11:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 11:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-interface-problem]]
+- **Trigger**: P2 follow-up to 09:25 UTC refine that addressed four of seven [[reviews/pessimistic-2026-05-01b]] findings; this pass closes the three deferred items (microtubule-demotion charity, Cai dopamine→consciousness mapping, "What Would Falsify" testability) and folds in the queued P2 reciprocal-hook task from [[reviews/optimistic-2026-05-01b]] (forward link to [[falsification-roadmap-for-the-interface-model]] installed at the natural editorial seam in the reframed "What Would Falsify" section).
+- **Original score**: No curate-tool score; pessimistic-review skill output drove the queue.
+- **Changes**: (1) microtubule-demotion passage expanded to name what would constitute a meaningful tubulin-coupling/PTM/synchrony differentiator (isoform expression, acetylation/detyrosination/polyglutamylation, gamma-band coupling maturation), with the same charity granted to the attention-motor architecture extended in principle to microtubules — demotion now framed as soft preference rather than structural exclusion; (2) Cai et al. citation qualified at both occurrence sites — "From Agnosticism" passage now separates Channel A (Cai's cognitive-functional finding: initiative as disposition to begin purposive behaviour) from Channel B (Map interpretation: same architecture is what conscious selection would have to act *through*), explicitly stating the framework adds the second to the first rather than deriving it from Cai; "Relation to Site Perspective" Bidirectional Interaction passage softened from "gains from" to "gains qualified support from" with the dissociation reframed as "consistent with" rather than "establishes"; (3) "What Would Falsify the Framework" section reframed consistent with the line-122 "currently unfalsifiable in practice" framing — opening sentence rewritten (in-principle falsifiable even where not so in practice yet; "rules out quantum effects" qualified to "consciousness-relevant quantum effects" / "the relevant indeterminacy"), new paragraph added stating the conditions are not currently testable, naming them as "in-principle falsification conditions awaiting detection-threshold improvements," and pointing to [[falsification-roadmap-for-the-interface-model]] for the catalogue of intermediate experimental advances (single-molecule quantum readout, sharper attentional probes, joint phenomenal-physical correlation tools); (4) ai_modified bumped to 2026-05-01T11:17:00+00:00; refinement log block replaced with the 11:17 UTC follow-up log.
+- **Preserved** (per [[reviews/optimistic-2026-05-01b]] Stability Notes): Lakatosian concession at "From Agnosticism" opener, pre-Keplerian framing, "currently unfalsifiable in practice" wording at line 122 — all left untouched.
+- **Word count**: ~430 words touched (within the brief's 300–500 range); article net growth ~280 words (~3,500 → ~3,780).
+- **Output**: obsidian/topics/the-interface-problem.md; uncommitted per task brief (automation system handles commit).
 
 ## 2026-05-01 10:55 UTC - deep-review
 - **Status**: Success
