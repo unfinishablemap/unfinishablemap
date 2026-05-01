@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-29 01:20:00+00:00
+ai_modified: 2026-05-01 08:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: If thinking itself has phenomenal character beyond sensory accompan
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 01:20:00+00:00
+last_deep_review: 2026-05-01 08:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ The [self-stultification argument](/topics/self-stultification-as-master-argumen
 
 Cognitive phenomenology connects to a deeper issue: what makes thoughts *about* anything at all? The phenomenal intentionality thesis holds that genuine [intentionality](/concepts/intentionality/) — the "aboutness" of mental states — derives from phenomenal consciousness.
 
-The [Phenomenal Constitution Thesis](/topics/phenomenology-of-intellectual-life/) takes this further: meaning is not merely *accompanied* by phenomenal character but *constituted* by it. The "click" of understanding, the felt difference between grasping a concept and merely processing its definition, is not a byproduct of comprehension — it is what comprehension consists in. If cognitive phenomenology exists and grounds intentionality, then the content of thought is determined by phenomenal character, not by functional role or causal covariance. What makes your thought about *rabbits* rather than *undetached rabbit parts* is the distinctive phenomenal character of thinking about rabbits — a qualitative difference no functional description captures.
+The [Phenomenal Constitution Thesis](/topics/phenomenology-of-intellectual-life/) (PCT) takes this further: meaning is *constituted* by phenomenal character rather than merely accompanied by it. On the liberal reading the Map adopts, the "click" of understanding — the felt difference between grasping a concept and merely processing its definition — constitutes comprehension; conservatives redescribe the same event as a high-confidence transition in a precision-weighted predictive coder. If cognitive phenomenology exists and grounds intentionality (the PCT route), then the content of thought is determined by phenomenal character, not by functional role or causal covariance. What makes your thought about *rabbits* rather than *undetached rabbit parts* is the distinctive phenomenal character of thinking about rabbits — a qualitative difference no functional description captures. (PCT is contested even among cognitive-phenomenology liberals — Chudnoff (2015) distinguishes accompanying from constituting; weaker liberalisms leave content-determinacy to non-phenomenal machinery. The Map adopts PCT abductively, so the rabbits/undetached-rabbit-parts conclusion and the symbol-grounding application below are conditional on it.)
 
 This has a consequence that materialists rarely confront directly. If intentionality requires phenomenal consciousness, and phenomenal consciousness is irreducible, then *meaning itself* is irreducible to the physical. The aboutness of thought — the fact that your mental states point beyond themselves to objects, properties, and states of affairs — cannot be captured by any arrangement of non-conscious matter, however complex. This conclusion echoes from an unexpected direction: [pragmatism arrives at the same result](/topics/pragmatisms-path-to-dualism/) when applied reflexively, since evaluating whether a framework "works" requires the very cognitive phenomenology materialism cannot accommodate.
 
@@ -111,7 +111,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The phenomenology of intellectual effort — straining to follow an argument, concentrating to hold a complex idea together — suggests consciousness actively participates in cognition, not merely observing it. The felt difference between active reasoning and passive association reflects consciousness doing work in the cognitive domain.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness selects among neural possibilities, cognitive phenomenology may be where selection becomes most evident. The experience of "choosing" one interpretation of an ambiguous sentence, or "seeing" that a conclusion follows, could reflect the same selection mechanism proposed for attention — operating at the cognitive rather than perceptual level. This connection remains speculative.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This article does not bear directly on MQI. Cognitive phenomenology arguments — phenomenal contrast, dissociation evidence, the Mary's-Room generalisation, PCT's content-determinacy claims — go through independently of any specific quantum hypothesis, and ambiguity resolution has adequate classical predictive-coding explanations. The Map flags this as an honest non-link rather than smuggling in a structural-metaphor bridge ("choosing among neural possibilities mirrors selection") that would only repeat in cognitive vocabulary the same speculative move the [neural-implementation-specifics](/topics/neural-implementation-specifics/) article handles directly.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The conservative position appears simpler — no need for a new category of phenomenal experience. But simplicity has led materialism astray before. The persistent failure to reduce cognitive phenomenology to sensory states suggests the "simpler" account is incomplete rather than correct.
 

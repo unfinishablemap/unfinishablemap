@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-05-01 07:25:00+00:00
+ai_modified: 2026-05-01 08:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: What kind of knowledge is possible about how consciousness interact
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 02:13:00+00:00
+last_deep_review: 2026-05-01 08:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

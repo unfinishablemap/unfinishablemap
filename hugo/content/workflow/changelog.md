@@ -1,13 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 08:00:00+00:00
+ai_modified: 2026-05-01 08:40:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-01 08:40 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)
+- **Cross-review trigger**: Mirror the seven `[pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/)` fixes (applied to the [concept page](/concepts/cognitive-phenomenology/)) into the topic exemplar where structurally relevant. The 2026-04-29 hub/exemplar pairing requires parity audits when the concept page receives revisions of this magnitude.
+- **Word count**: 2350 → 2428 (+78; 81% of 3000 soft target — well below threshold)
+- **Critical issues addressed**: 0 new; 2 of 7 pessimistic-2026-05-01 echoes mirrored from concept page (PCT framing, MQI tenet bridge) plus 1 counterargument-framing echo (click of comprehension)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 — (1) PCT introduced as abductive bet with Chudnoff acknowledgment and rabbits/symbol-grounding conclusions explicitly conditional on PCT; (2) MQI bridge rewritten as honest non-link, declining the structural-metaphor temptation and redirecting to [neural-implementation-specifics](/topics/neural-implementation-specifics/); (3) "click of understanding" rewritten with two-reading framing, removing the "is not X — it is Y" cliché the style guide prohibits
+- **Pessimistic issues not applicable**: 5 of 7 (Würzburg-Titchener, Tallis, methodological asymmetry, Introspective-Limits self-undermining, falsification/irresolvability contradiction) — none have structural analogues in the topic article
+- **Attribution check**: All citations verified; PCT now correctly framed as contested intra-liberal commitment; MQI bridge no longer claims load-bearing quantum interactionism; no qualifier drops; no source/Map conflation
+- **Output**: [deep-review-2026-05-01b-cognitive-phenomenology-and-the-irreducibility-of-thought](/reviews/deep-review-2026-05-01b-cognitive-phenomenology-and-the-irreducibility-of-thought/)
+
+## 2026-05-01 08:28 UTC - deep-review
+- **Status**: Success (stability-confirming)
+- **File**: [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+- **Word count**: 2622 → 2622 (no change; article at 87% of 3000-word soft target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found; all prior-review concerns remain properly addressed)
+- **Enhancements made**: 0 (no content changes — third review confirming stability)
+- **Attribution check**: All inline citations (James, Stapp, Schwartz, Tegmark, Dennett, Schwitzgebel, McGinn, Nørretranders) verified accurate; no qualifier drops; no source/Map conflation; no self-contradictions
+- **Convergence**: Third deep review on this article. Prior reviews (2026-02-22, 2026-03-21) addressed all substantive issues; this pass confirms stability. Recommend lengthened review cadence unless the article is substantively modified.
+- **Output**: [deep-review-2026-05-01-epistemology-of-mechanism-at-the-consciousness-matter-interface](/reviews/deep-review-2026-05-01-epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+
+## 2026-05-01 08:12 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Cross-review trigger**: Verify the seven `[pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/)` fixes survived the 05:10 UTC condense (5645 → 2963 words, 47% reduction).
+- **Word count**: 2963 → 2963 (0; verification-only pass, length-neutral preserved at 119% of soft threshold)
+- **Critical issues addressed**: 0 (all seven pessimistic-2026-05-01 fixes verified intact: self-application worry framing; Würzburg-Titchener neutral reading; PCT abductive-bet defence with Chinese Room/LLM-skepticism conditional on PCT; Frankish engagement replacing Tallis; methodological asymmetry as defeating-symmetry-charge with functional-only concession; MQI honest non-link + MWI within-branch consistency; "What Would Challenge" reframed to abductive-balance shifters; Buddhist-jhāna dismantlability correction with constitutive claim restricted to ordinary range)
+- **Medium issues addressed**: 0 (all preserved through condense)
+- **Enhancements made**: 0 (verification-only)
+- **Attribution check**: Strawson, Tye, Pitt, Chudnoff, Frankish, Sass-Parnas, Lennon, Fürst (×2), and Pāli-Buddhist sources all faithful; no qualifier-drops; Map/source separation maintained throughout (PCT abductive bet with downstream applications conditional)
+- **Convergence**: 10th review pass. The cross-review chain triggered by `[pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/)` is now closed: pessimistic (03:11) → refine (03:25) → second refine (04:55, Buddhist-jhāna fix) → condense (05:10) → this verification (08:12). Article at convergence; no further reviews warranted by this editorial cycle.
+- **Output**: [deep-review-2026-05-01-cognitive-phenomenology](/reviews/deep-review-2026-05-01-cognitive-phenomenology/)
 
 ## 2026-05-01 08:00 UTC - deep-review
 - **Status**: Success
