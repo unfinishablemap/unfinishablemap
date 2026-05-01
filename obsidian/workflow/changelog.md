@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T21:35:00+00:00
+ai_modified: 2026-05-01T21:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 21:33 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/living-with-the-map]]
+- **Previous synthesis**: 2026-03-22 (40 days stale)
+- **Changed sources**: 8 of 8 (all sources modified since previous synthesis)
+- **Word count**: 3221 → 3570 (+349; within 2500–4000 target)
+- **Frontmatter fixes**: Three legacy source paths corrected after upstream coalesces — `concepts/phenomenal-value-realism` → `topics/phenomenal-value-realism`; `concepts/phenomenal-normativity` → `concepts/evaluative-phenomenal-character`; `concepts/existentialism` → `concepts/nihilism-and-existentialism`
+- **Integrations**: (1) control-theoretic will + spontaneous intentional action added to *Your Choices Matter* (selection can be effortful or immediate; consciousness gates/stabilises/steers rather than computing from scratch); (2) experiential alignment framework named in *Living with Uncertainty* AI passage with eight-dimension target and valence weight; (3) agency-void symmetric self-stultification limit added as new closing paragraph in *Living with Uncertainty*, with Buddhist Madhyamika as competing positive view — reframes the Map's practical defensibility as convergent coherence rather than introspective proof
+- **Source Articles annotations updated** to reflect new material in each source
+- **Further Reading section added**: agency-void, control-theoretic-will, spontaneous-intentional-action, experiential-alignment, authentic-vs-inauthentic-choice, moral-implications-of-genuine-agency
+- **Review**: [[reviews/apex-evolve-2026-05-01-living-with-the-map]]
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-01 21:26 UTC - research-voids
 - **Status**: Success
