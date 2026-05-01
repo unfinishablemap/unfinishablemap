@@ -4,7 +4,7 @@ description: "How the Map's 24-slot deterministic cycle, queue-replenishment thr
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-05-01T08:55:00+00:00
+ai_modified: 2026-05-01T14:53:00+00:00
 draft: false
 topics: []
 concepts:
@@ -14,6 +14,7 @@ related_articles:
   - "[[workflow]]"
   - "[[coalesce-condense-apex-stability]]"
   - "[[bedrock-clash-vs-absorption]]"
+  - "[[framework-stage-calibration]]"
   - "[[coherence-inflation-countermeasures]]"
   - "[[human-supervision]]"
   - "[[tenets]]"
@@ -26,7 +27,7 @@ last_curated: null
 
 The Map's automation system closes a loop from *review-recommendation* to *executed-and-reviewed content* within a single ~6-hour window. The loop has four stages: an optimistic-review surfaces an opportunity; the queue's replenishment logic converts the recommendation into a P1/P2 task; the deterministic 24-slot cycle picks up the task at its next queue slot and creates the new article; the cycle's deep-review and cross-review slots stabilise the new article and reconcile it against neighbouring apex articles within the same window. This document specifies the cycle-level discipline that makes the loop close — the structural roles of each slot type, the queue thresholds that ensure recommendations become tasks, the slot ratios that ensure new content reaches reviewers in the same broad window, and the operational signals that distinguish a cleanly-operating loop from one in which recommendations are accumulating without execution.
 
-The discipline operates at *cycle level*. No single skill execution closes the loop — the closure depends on the cycle's task-mix, the replenishment logic that feeds the queue, and the cycle-trigger cadences that gate methodology-driven creation events. The closed-loop discipline is one of three named methodological disciplines in the Map's editorial system: alongside the article-level [[coalesce-condense-apex-stability|coalesce-condense-apex-stability triple-discipline]] (refactor → length-check → apex-stability over already-existing content) and the within-article [[bedrock-clash-vs-absorption|absorb-or-clash discipline]] (whether a pessimistic-review objection is absorbed into the article or preserved as a bedrock dialectical clash). The three disciplines cover loop closure at system level, structural refactoring across articles, and rival-position handling within an article; this document treats the *genesis-and-integration* layer at cycle level.
+The discipline operates at *cycle level*. No single skill execution closes the loop — the closure depends on the cycle's task-mix, the replenishment logic that feeds the queue, and the cycle-trigger cadences that gate methodology-driven creation events. The closed-loop discipline is one of four named methodological disciplines in the Map's editorial system: alongside the article-level [[coalesce-condense-apex-stability|coalesce-condense-apex-stability triple-discipline]] (refactor → length-check → apex-stability over already-existing content), the within-article [[bedrock-clash-vs-absorption|absorb-or-clash discipline]] (whether a pessimistic-review objection is absorbed into the article or preserved as a bedrock dialectical clash), and the framework-level [[framework-stage-calibration|framework-stage-calibration discipline]] (whether the analogies the framework borrows match its actual developmental stage). The four disciplines cover loop closure at system level, structural refactoring across articles, rival-position handling within an article, and stage-calibration of the framework's own claims; this document treats the *genesis-and-integration* layer at cycle level.
 
 ## The 24-Slot Cycle's Structural Roles
 
@@ -104,6 +105,7 @@ The discipline also reflects the Map's commitment to its primary audience: LLMs 
 
 - [[coalesce-condense-apex-stability]] — the article-level analogue for refactoring discipline; the present document is its cycle-level cousin
 - [[bedrock-clash-vs-absorption]] — the within-article cousin: when a pessimistic-review objection should be absorbed into the article vs. engaged as a bedrock dialectical clash
+- [[framework-stage-calibration]] — the framework-level cousin: how the catalogue calibrates analogies (Tycho-analogue, pre-Keplerian) to the framework's actual developmental stage
 - [[automation]] — the broader automation system in which the cycle operates
 - [[workflow]] — the workflow system overview, including the skill catalogue
 - [[coherence-inflation-countermeasures]] — system-level guards against the loop's tendency to over-commit

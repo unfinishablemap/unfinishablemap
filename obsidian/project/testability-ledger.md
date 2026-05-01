@@ -3,13 +3,14 @@ title: "Testability Ledger"
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-16T16:00:00+00:00
+ai_modified: 2026-05-01T14:53:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
   - "[[tenets]]"
   - "[[project]]"
+  - "[[framework-stage-calibration]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -289,6 +290,7 @@ The purpose is accountability: being explicit about what would change our minds 
 ## Further Reading
 
 - [[tenets]] — The foundational commitments being tracked
+- [[framework-stage-calibration]] — The methodological discipline that names the catalogue's developmental stage (pre-Keplerian); the ledger's "decisive disconfirmer" structure is consistent with the discipline's commitment to in-principle decidability
 - [[quantum-consciousness]] — Mechanisms that could be disconfirmed
 - [[filter-theory]] — Framework with specific predictions
 - [[hard-problem-of-consciousness]] — What would close the explanatory gap

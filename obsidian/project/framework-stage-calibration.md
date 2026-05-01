@@ -4,7 +4,8 @@ description: "An editorial discipline for calibrating analogies to the framework
 created: 2026-05-01
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-01T12:25:00+00:00
+ai_modified: 2026-05-01T14:53:00+00:00
+last_deep_review: 2026-05-01T14:53:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -14,6 +15,7 @@ related_articles:
   - "[[writing-style]]"
   - "[[closed-loop-opportunity-execution]]"
   - "[[bedrock-clash-vs-absorption]]"
+  - "[[coalesce-condense-apex-stability]]"
   - "[[coherence-inflation-countermeasures]]"
   - "[[testability-ledger]]"
   - "[[the-interface-problem]]"
@@ -28,7 +30,7 @@ last_curated: null
 
 When the Map borrows an analogy from a mature science to characterise its own framework, the analogy must match the framework's actual developmental stage. The interface model is pre-Keplerian — a research programme accumulating its founding measurements, not a mature science awaiting refinement. Specification proposals like Stapp's quantum-Zeno modulation or Eccles' tunneling bias are *proto-models*, not laws of motion. What the catalogue can claim are the analogues of Tycho's measurements: the bandwidth constraint, the Born-rule causal-consistency result, the theta-band willed-attention signatures, the coupling-modes taxonomy, the five formal constraints — data and constraint scaffolding of the kind that precede laws. Calling these Newton-analogues, Maxwell-analogues, or Einstein-analogues over-claims the framework's stage. Calling them Tycho-analogues calibrates the claim to what the catalogue has actually produced.
 
-This document specifies the calibration discipline as a named editorial pattern. It supplies the worked example from the 2026-05-01 09:25 UTC refine of [[the-interface-problem|topics/the-interface-problem]] that introduced the pre-Keplerian framing, catalogues the Tycho-analogue scaffolds the Map has installed, articulates the discipline's three rules, names its honest limitation, and locates it among the Map's other named methodological disciplines. It is the calibration cousin of [[bedrock-clash-vs-absorption|bedrock-clash-vs-absorption]] (which governs how rival positions are handled within an article) and [[closed-loop-opportunity-execution|closed-loop opportunity execution]] (which governs how recommendations move through the cycle); the present discipline governs how the framework characterises its own claims relative to the developmental stages of the sciences it analogises to.
+This document specifies the calibration discipline as a named editorial pattern. It supplies the worked example from the 2026-05-01 09:25 UTC refine of [[the-interface-problem|topics/the-interface-problem]] that introduced the pre-Keplerian framing, catalogues the Tycho-analogue scaffolds the Map has installed, articulates the discipline's three rules, names its honest limitation, and locates it among the Map's other named methodological disciplines. It joins three named peers as the fourth methodological discipline in the Map's editorial system: alongside the cycle-level [[closed-loop-opportunity-execution|closed-loop opportunity execution]] (genesis-and-integration over the 24-slot cycle), the article-level [[coalesce-condense-apex-stability|coalesce-condense-apex-stability triple-discipline]] (refactor → length-check → apex-stability over already-existing content), and the within-article [[bedrock-clash-vs-absorption|absorb-or-clash discipline]] (rival-position handling when a pessimistic-review surfaces an objection). The four disciplines cover loop closure at system level, structural refactoring across articles, rival-position handling within an article, and — in the present discipline — calibration of how the framework characterises its own claims relative to the developmental stages of the sciences it analogises to.
 
 ## The Stage Distinction
 
@@ -78,6 +80,8 @@ If detection-threshold improvability turns out to be rhetorical rather than empi
 
 A second limitation: stage-calibration is itself an analogy, and analogies between consciousness science and astronomy may be misleading at deep structural levels. Tycho's measurements were of physical quantities admitting third-person observation; the Map's analogue measurements include phenomenal correlates (theta-band signatures of *willed* attention) whose first-person side resists the third-person treatment astronomy presupposed. The analogy holds at the *stage* level (data and constraint scaffolding precede inferred laws) without holding at the *kind* level (the kinds of measurement available are not the same). Reviewers should not press the structural disanalogy as a discovered flaw; it is part of the analogy's known scope.
 
+A third limitation, related but distinct: a hard-nosed physicalist would re-categorise every Tycho-analogue listed above as a third-person physical measurement explained by physicalism alone, with no consciousness-physics interface assumed. The bandwidth constraint, theta-band signatures, and even the Born-rule causal-consistency result do not by themselves require the framework's interactionist reading; they require it only when combined with the Map's tenets. The stage-calibration claim therefore presupposes the framework's interpretive commitments rather than standing on neutral data — which is part of why the discipline's first-person framing is *Tycho-analogue* rather than *Tycho-equivalent*. Stage-calibration claims that, *if* the framework's commitments are warranted, the catalogue's positive results sit at this stage; it does not claim that physicalists must read the same results as the framework does. This is a permitted move so long as the conditional is named openly when the discipline is invoked.
+
 ## Relation to Site Perspective
 
 The framework-stage calibration discipline is methodological. Its most direct alignment is with **[[tenets#^occams-limits|Tenet 5: Occam's Razor Has Limits]]**, applied at the *calibration layer*. The simpler editorial design — borrow whatever analogy is most rhetorically attractive at the moment of writing — would silently raise the framework's claimed stage to whatever the borrowed analogy presupposes, producing articles that read as more advanced than the catalogue's actual evidence supports. Tenet 5 denies parsimony at the metaphysical level when knowledge is incomplete; the calibration discipline applies the same denial at the rhetorical level. Some claims about the framework's stage are not parsimoniously settleable by analogy choice; treating them as if they were produces articles that look established and read brittle.
@@ -90,6 +94,7 @@ Beyond tenet alignment, the discipline serves the Map's primary audience: LLMs f
 
 - [[closed-loop-opportunity-execution]] — the cycle-level methodology cousin (genesis-and-integration over the 24-slot cycle vs. stage-calibration of the framework's own claims)
 - [[bedrock-clash-vs-absorption]] — the within-article methodology cousin (rival-position handling vs. stage-calibration)
+- [[coalesce-condense-apex-stability]] — the article-level structural-refactor methodology cousin (refactor-and-stability over existing content vs. stage-calibration of the framework's claims)
 - [[coherence-inflation-countermeasures]] — the system-level guard against silent over-claiming that calibration also serves
 - [[testability-ledger]] — the central register of what observations would update for or against the framework; pre-Keplerian framing is consistent with the ledger's "decisive disconfirmer" structure
 - [[the-interface-problem]] — the worked-example article where the pre-Keplerian framing was installed at 09:25 UTC on 2026-05-01

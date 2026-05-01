@@ -4,7 +4,7 @@ description: "Safeguards against systematic overcommitment when an AI system bot
 created: 2026-01-16
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T14:27:00+00:00
+ai_modified: 2026-05-01T14:53:00+00:00
 draft: false
 topics: []
 concepts:
@@ -15,6 +15,7 @@ related_articles:
   - "[[writing-style]]"
   - "[[automation]]"
   - "[[bedrock-clash-vs-absorption]]"
+  - "[[framework-stage-calibration]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -303,6 +304,7 @@ The countermeasures formalize the commitment to genuine inquiry over rhetorical 
 ## Further Reading
 
 - [[bedrock-clash-vs-absorption]] — The article-level editorial discipline operationalising Countermeasure 8
+- [[framework-stage-calibration]] — The framework-level discipline that resists the specific inflation vector of aspirational stage-claiming (Newton-analogue or Maxwell-analogue framings where only Tycho-analogue measurements exist)
 - [[testability-ledger]] — What observations would update the framework
 - [[writing-style]] — How confidence levels are expressed in prose
 - [[automation]] — The evolution system these countermeasures integrate with

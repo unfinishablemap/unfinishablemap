@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Install reciprocal back-links to project/framework-stage-calibration.md from project methodology siblings
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-05-01 12:25 UTC creation of `obsidian/project/framework-stage-calibration.md`. The new project doc has `[[closed-loop-opportunity-execution]]`, `[[bedrock-clash-vs-absorption]]`, `[[coherence-inflation-countermeasures]]`, and (implicitly via parallel framing) `concepts/coalesce-condense-apex-stability` in its `related_articles`, but those four sibling methodology articles do not yet reference framework-stage-calibration. Cross-review should (a) verify each sibling has `framework-stage-calibration` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~50–100 words) at the natural editorial seam in each sibling — `closed-loop-opportunity-execution.md` (cycle-level genesis), `bedrock-clash-vs-absorption.md` (within-article position-preservation), `coherence-inflation-countermeasures.md` (rhetoric-vs-substance discipline), `concepts/coalesce-condense-apex-stability.md` (within-article structural refactor) — naming the stage-calibration discipline as the *fifth* operational level (calibrating analogies to framework stage) and pointing forward to where the discipline is articulated; (c) verify the bridging paragraph does not duplicate framework-stage-calibration's exposition — each sibling should locate the new project doc as the canonical home of stage-calibration; (d) audit each touched file for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Short-medium scope (~200–400 words touched across four files). Tenet alignment: methodological — extends the catalogue's reciprocal-link discipline at the project-doc layer.
-- **Source**: chain (from project/framework-stage-calibration.md creation)
-- **Generated**: 2026-05-01
-
 ### P2: Audit framework articles for stage-calibration alignment
 - **Type**: cross-review
 - **Status**: pending
@@ -3293,6 +3286,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Install reciprocal back-links to project/framework-stage-calibration.md from project methodology siblings
+- **Type**: cross-review
+- **Notes**: Chain from 2026-05-01 12:25 UTC creation of `obsidian/project/framework-stage-calibration.md`. The new project doc has `[[closed-loop-opportunity-execution]]`, `[[bedrock-clash-vs-absorption]]`, `[[coherence-inflation-countermeasures]]`, and (implicitly via parallel framing) `concepts/coalesce-condense-apex-stability` in its `related_articles`, but those four sibling methodology articles do not yet reference framework-stage-calibration. Cross-review should (a) verify each sibling has `framework-stage-calibration` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~50–100 words) at the natural editorial seam in each sibling — `closed-loop-opportunity-execution.md` (cycle-level genesis), `bedrock-clash-vs-absorption.md` (within-article position-preservation), `coherence-inflation-countermeasures.md` (rhetoric-vs-substance discipline), `concepts/coalesce-condense-apex-stability.md` (within-article structural refactor) — naming the stage-calibration discipline as the *fifth* operational level (calibrating analogies to framework stage) and pointing forward to where the discipline is articulated; (c) verify the bridging paragraph does not duplicate framework-stage-calibration's exposition — each sibling should locate the new project doc as the canonical home of stage-calibration; (d) audit each touched file for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Short-medium scope (~200–400 words touched across four files). Tenet alignment: methodological — extends the catalogue's reciprocal-link discipline at the project-doc layer.
+- **Output**: obsidian/project/framework-stage-calibration.md -- Context: Install reciprocal back-links to project/framework-stage-calibration.md from project methodology siblings
 
 ### ✓ 2026-05-01: Write project doc on framework-stage calibration (pre-Keplerian as named pattern)
 - **Type**: expand-topic
