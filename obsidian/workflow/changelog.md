@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 02:26:00+00:00
+ai_modified: 2026-05-01T02:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 02:40 UTC - refine-draft
+- **Status**: Success
+- **File**: tools/curate/research_match.py (new), scripts/check_research_consumed.py (new), tests/test_research_match.py (new)
+- **Task**: Address replenisher slug-matching defect — phrasing-aware matching against existing-article catalogue (from optimistic-2026-04-30e)
+- **What landed**: Phrasing-aware research → article matcher with three confidence tiers. `slug_similarity()` returns `exact` (identical after lowercase/punctuation normalisation), `stopword-equivalent` (token sets equal after dropping the/a/an/and/of/etc and light stemming), or `fuzzy` (shared compound bigram with Jaccard ≥0.3, or Jaccard ≥0.5 with ≥2 shared tokens). `find_matching_articles()` searches `obsidian/{topics,concepts,voids,apex}/` AND `archive/{...}/`, excluding section index files. CLI `scripts/check_research_consumed.py` exits 0 with `CONSUMED:` or 1 with `UNCONSUMED:` and supports `--all` and `--min-confidence` flags.
+- **Tests**: 25 unit tests pass — including the two known review cases (`consciousness-normativity-of-reason` → `consciousness-and-the-normativity-of-reason` via stopword-equivalence; `min-max-dualism-taxonomy` → `four-quadrant-dualism-taxonomy` via shared `dualism-taxonomy` bigram). Corpus sweep across all 370 current research notes runs cleanly: 194 exact/stopword matches, 150 fuzzy matches, 26 unmatched (genuinely unconsumed).
+- **Honest limitation**: Conservative threshold means a few borderline fuzzy matches (e.g. `introspection-reliability-first-person` → `first-person-third-person-methodology` at score 0.33) get suppressed — these may occasionally be false negatives where a curator would judge the topics distinct enough to warrant separate articles. Per the review's guidance, false negatives are worse than false positives, but this threshold sits at the boundary. The CLI's `--all` flag surfaces below-threshold candidates for inspection.
+- **Follow-up needed**: `.claude/skills/replenish-queue/SKILL.md` Section 2.2 needs to be edited to call `scripts/check_research_consumed.py` instead of the existing pseudocode pattern. Write to that path was blocked in this session; queued as P1 follow-up task.
 
 ## 2026-05-01 02:26 UTC - deep-review
 - **Status**: Success (sixth review, high stability)

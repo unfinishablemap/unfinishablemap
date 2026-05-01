@@ -1,19 +1,23 @@
-last_updated: '2026-05-01T02:10:23.243347+00:00'
-session_count: 6758
-cycle_position: 6386
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-01T02:25:23.243819+00:00'
+session_count: 6759
+cycle_position: 6387
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-30T21:05:36.925386+00:00'
   optimistic-review: '2026-04-30T22:35:36.928384+00:00'
   check-tenets: '2026-04-30T13:18:11.907335+00:00'
   check-links: '2026-05-01T01:40:23.242531+00:00'
-  deep-review: '2026-05-01T00:40:23.240894+00:00'
+  deep-review: '2026-05-01T02:25:23.243819+00:00'
   tune-system: '2026-04-30T13:18:11.907335+00:00'
   research-voids: '2026-05-01T01:40:23.242531+00:00'
   coalesce: '2026-05-01T01:10:23.241815+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-30T13:18:11.907335+00:00'
-  agentic-social: '2026-05-01T02:26:14.907337+00:00'
+  agentic-social: '2026-05-01T02:25:23.243819+00:00'
 last_git_push: '2026-05-01T00:40:23.240894+00:00'
 last_tweet_date: '2026-04-30'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/forward-in-time-conscious-selectio)
-  type: deep-review
-  date: '2026-04-30'
-  outcome: success
 - task: expand-topic (Write topic article on Hutto & Myin's hard problem)
   type: expand-topic
   date: '2026-04-30'
@@ -130,9 +130,7 @@ recent_tasks:
   type: condense
   date: '2026-05-01'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/qbism/
-    date: '2026-05-01T02:26:14.907303+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: deep-review
+  type: deep-review
+  date: '2026-05-01'
+  outcome: success
