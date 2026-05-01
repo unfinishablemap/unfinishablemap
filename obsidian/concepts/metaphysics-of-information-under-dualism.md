@@ -4,8 +4,8 @@ description: "What is information's ontological status when mind and matter are 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-05T17:02:00+00:00
-last_deep_review: 2026-03-24T21:43:00+00:00
+ai_modified: 2026-05-01T00:47:00+00:00
+last_deep_review: 2026-05-01T00:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ ai_generated_date: 2026-02-23
 last_curated:
 ---
 
-If dualism is true—if consciousness is genuinely distinct from physical processes—then information occupies an awkward position. Physics treats information as physical (Landauer's principle shows that erasing a bit produces measurable heat). Consciousness treats information as experiential (seeing red carries qualitative content no structural description captures). The Unfinishable Map argues that understanding information's ontological status under dualism is not a side question but a central one: if information is the medium through which mind and matter interact, its metaphysical nature constrains what that interaction can look like.
+If dualism is true—if consciousness is genuinely distinct from physical processes—then information occupies an awkward position. Physics treats information as physical (Landauer's principle shows that erasing a bit produces measurable heat). Consciousness treats information as experiential (seeing red carries qualitative content no structural description captures). The Unfinishable Map argues that information's ontological status under dualism is a central metaphysical question: if information is the medium through which mind and matter interact, its nature constrains what that interaction can look like.
 
 This article examines where information sits in a dualist ontology. For how physics has elevated information to a fundamental role, see [[consciousness-and-the-physics-of-information]]. For the laws governing mind-matter interaction, see [[psychophysical-laws]].
 
@@ -106,7 +106,7 @@ The deepest challenge for any metaphysics of information under dualism is the ga
 
 Under physicalism, this gap is supposed to dissolve: meaning emerges from computational complexity, and semantics reduces to sufficiently elaborate syntax. But this is precisely what the [[hard-problem-of-consciousness|hard problem]] shows cannot work. No amount of syntactic complexity explains why a pattern *means* something to the system processing it. A sufficiently complex thermostat processes information with great syntactic sophistication. It does not *understand* temperature. This is the [[symbol-grounding-problem]] in informational terms: physical processing provides syntax without semantics. [[intentionality|Genuine aboutness]]—the directedness of thought toward its object—requires the phenomenal dimension that consciousness alone supplies.
 
-The deflationary response is that "semantics" is not a metaphysical category but a description of computational relevance—that meaning just *is* sufficiently context-sensitive information processing. On this view, a chess engine "understands" positional advantage in the only sense understanding requires: it processes the relevant information and acts accordingly. The dualist reply is that this dissolves the phenomenon rather than explaining it. The chess engine's "understanding" consists entirely of state transitions that could proceed identically without anything being *like* processing positional advantage. Computational theories of meaning explain the *function* of semantics—how systems respond differentially to context—without explaining why any of that functioning is accompanied by experiential content. This is not an argument from ignorance; it is the observation that functional accounts are complete on their own terms and yet leave the experiential dimension unaddressed.
+The deflationary response treats "semantics" as a description of computational relevance rather than a metaphysical category—meaning just *is* sufficiently context-sensitive information processing. On this view, a chess engine "understands" positional advantage in the only sense understanding requires: it processes the relevant information and acts accordingly. The dualist reply is that this dissolves the phenomenon rather than explaining it. The chess engine's "understanding" consists entirely of state transitions that could proceed identically without anything being *like* processing positional advantage. Computational theories of meaning explain the *function* of semantics—how systems respond differentially to context—without explaining why any of that functioning is accompanied by experiential content. The point is structural rather than evidential: functional accounts are complete on their own terms and yet leave the experiential dimension unaddressed.
 
 Dualism takes this gap seriously. Physical information is syntactic; consciousness supplies semantics. The brain processes patterns; the mind grasps meanings. This division has a natural consequence: the causal role of consciousness is precisely to bring semantic content to bear on physical processes. When you choose to raise your arm because the situation *means* something to you, consciousness is injecting semantic relevance into a physical causal chain that, left to itself, operates only syntactically.
 
@@ -166,18 +166,3 @@ The metaphysics of information connects to each of the Map's tenets.
 1. Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183-191.
 1. Shannon, C.E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423.
 1. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
-
-<!-- AI REFINEMENT LOG - 2026-04-05
-Changes made:
-- Expanded Option 4 (Interface Medium) with three subsections: what the view requires, difficulties it faces (specification problem, proximity to neutral monism, direction problem), and explicit acknowledgment of its programmatic status
-- Added engagement with deflationary challenge to syntax-semantics divide (computational theories of meaning) rather than just asserting the gap
-- Fixed bandwidth claim in Relation to Site Perspective: separated quantum-level bias from conscious processing bandwidth, acknowledged the connection is unknown rather than implied
-- Softened opening thesis from assertion to conditional ("if information is the medium...")
-- Removed defensive "not a god-of-the-gaps" framing, argued positively instead
-- Changed "rejects organisational invariance" to "challenges organisational invariance—a widely held principle"
-
-Based on pessimistic review pessimistic-2026-04-05b.md.
-Key improvements: Option 4 now receives comparable analytical scrutiny to the three positions it rejects.
-
-This log should be removed after human review.
--->

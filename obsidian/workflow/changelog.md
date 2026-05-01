@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 00:25:00+00:00
+ai_modified: 2026-05-01 00:47:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 00:47 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/metaphysics-of-information-under-dualism]]
+- **Word count**: 2822 → 2809 (-13 words; 112% of 2500 soft cap, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (two LLM clichés "not X but Y" / "This is not X. It is Y." reworded per writing-style.md; stale 2026-04-05 refinement-log HTML comment removed)
+- **Enhancements made**: 0 (article stable; fourth review)
+- **Output**: [[reviews/deep-review-2026-05-01-metaphysics-of-information-under-dualism]]
 
 ## 2026-05-01 00:25 UTC - deep-review
 - **Status**: Success (cross-review reconciliation)
