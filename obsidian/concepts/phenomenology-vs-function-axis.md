@@ -4,8 +4,8 @@ description: "A cross-cutting taxonomic axis identifying voids where phenomenal 
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T20:39:00+00:00
-last_deep_review: 2026-04-28T20:08:00+00:00
+ai_modified: 2026-05-01T06:25:00+00:00
+last_deep_review: 2026-05-01T06:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ last_curated:
 
 The phenomenology-vs-function axis is a cross-cutting structural feature of the Map's void catalogue: a sorting dimension that picks out cognitive limits at which **phenomenal character and the cognitive work it appears to perform come apart**. It runs orthogonal to the four-kinds typology (unexplored, unexplorable, occluded, naturally occluded) and to the [[presence-type-and-absence-type-voids|presence/absence axis]]. Where the typology asks *why* thought fails and the presence/absence axis asks *what the phenomenology of approach feels like*, this third axis asks *what comes apart at the boundary*. The dissociations it tracks form an empirical wedge against any framework that identifies phenomenal character with functional or representational role.
 
-The axis is named in [[taxonomy-of-voids|the apex synthesis]] of the voids programme. It was named when the apex compiler noticed that several articles in the catalogue—the [[imagery-void|imagery]], [[synesthetic-void|synesthetic]], and [[agency-void|agency]] voids, and the [[cognitive-phenomenology-and-the-irreducibility-of-thought|cognitive-phenomenology]] topic—articulate a function-phenomenology dissociation under different vocabularies, and a cluster-internal placement would have lost that cross-cluster signal. This concept page documents the axis as a standalone category, gives the four canonical exemplars in source-accurate form, and explains why the Map treats it as a structural slot rather than a one-off curiosity.
+The axis is named in [[taxonomy-of-voids|the apex synthesis]] of the voids programme. Several articles in the catalogue—the [[imagery-void|imagery]], [[synesthetic-void|synesthetic]], and [[agency-void|agency]] voids, and the [[cognitive-phenomenology-and-the-irreducibility-of-thought|cognitive-phenomenology]] topic—articulate a function-phenomenology dissociation under different vocabularies, and cluster-internal placement would have lost that cross-cluster signal. This concept page documents the axis as a standalone category, gives the four canonical exemplars in source-accurate form, and explains why the Map treats it as a structural slot rather than a one-off curiosity.
 
 ## What the Axis Sorts
 
@@ -49,8 +49,6 @@ The axis identifies voids exhibiting one of two complementary dissociation patte
 Either pattern undermines the assumption that phenomenal character is fixed by, or fully explained by, the functional role a state plays. Neither pattern requires inverted-qualia thought experiments: each canonical exemplar discussed below is empirically anchored, not merely conceivable.
 
 ## The Four Canonical Exemplars
-
-The 2026-04-28 apex synthesis of the voids catalogue identifies four articles—three voids and the cognitive-phenomenology topic page—whose substantive content already articulates a function-phenomenology dissociation, under different vocabularies.
 
 ### Imagery: The Grain-of-Function Wedge
 
@@ -114,6 +112,8 @@ The Map's [[tenets#^occams-limits|fifth tenet—Occam's Razor Has Limits]]—gov
 The axis is not a knockdown argument against functionalism. The functionalist has principled responses available to each exemplar: the function may differ at a finer grain than the experiments resolve; the synaesthetic difference might be cashed out as a higher-order representational difference; aphantasic and visualising minds might in fact perform subtly different functional operations on the same task. These responses move the dispute to the level of *which* function is the relevant one, not to whether function-phenomenology identity holds.
 
 The canonical functionalist resource here is **multi-realizability** (Putnam 1967; Block & Fodor 1972): different lower-level realisations of the same task-level function are functionally identical *as functions*. On this reading, the aphantasic strategy-difference is a multiple realisation of mental rotation rather than a function-difference, and the axis's pattern (b) for imagery dissolves at strategy-level grain. The axis does not refute multi-realizability; it constrains it. The functionalist who absorbs imagery via task-level individuation has to absorb synaesthesia, comprehension, and agency by the same move—and answer why phenomenology diverges *at any grain compatible with task-level function-identity*. The cross-domain pattern is what makes single-case absorptions less satisfying as a joint package than as individual rejoinders. The cognitive-phenomenology literature (Pitt, Bayne, Smithies) has run substantive arguments for individuating function at the level that lets phenomenology track grain-changes rather than wash out under them; the axis points to where that work has to land if the absorption strategy is to succeed in aggregate.
+
+A second front in the absorption strategy attacks the evidence base directly: introspective reports of phenomenal divergence are themselves functional outputs of [[metacognition|metacognitive]] subsystems, so "different report" need not entail "different phenomenal fact" for any individual case. This pressure is uneven across the four exemplars. Imagery's wedge rests primarily on behavioural data—mental rotation timing and accuracy under matched task-level performance—so the report-as-metacognitive-output reading bites less. Synaesthesia, comprehension, and agency depend more substantially on [[introspection|introspective reports]] of phenomenal divergence, and a conservative reading absorbs each as metacognitive divergence rather than phenomenal divergence. The axis treats this absorption the same way it treats finer-grain functional individuation: each individual case is locally absorbable, but the joint-level convergence across four otherwise independent domains is what each rejoinder leaves unexplained, and the cumulative-force claim has to absorb the report/behaviour asymmetry across exemplars rather than wave it away.
 
 What the axis does is identify the **empirical pressure point** where this dispute concentrates, and connect four otherwise scattered findings to a shared theoretical claim. The dissociations are loci where theories of consciousness make differential predictions and where empirical work can tighten the screws—they constrain rather than refute. The axis would be falsified—or at least heavily de-weighted—if subsequent work showed that the four exemplars dissolve at the *task* level of functional individuation rather than only at the strategy level already documented in the imagery case: if synaesthetic extra qualia map onto a task-level representational difference (not just a deep-grain pipeline difference), if Strawson's understanding-difference reduces to a difference in tacit motor or auditory simulation at matched processing levels, if the I-Spy attribution failure is pure noise in a normally veridical reporting channel. The four cases are evidentially independent but theoretically aligned, which is why a single rejoinder cannot dispatch them; the axis's load-bearing prediction is that absorption attempts will continue to succeed for individual cases—as the multi-realizability move plausibly already does for imagery—and fail for the joint set.
 

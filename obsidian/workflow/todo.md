@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/phenomenology-vs-function-axis considering methodological-asymmetry critique from pessimistic-2026-05-01
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from `reviews/pessimistic-2026-05-01.md` Issue 5 (Medium-High severity). The pessimistic review flags that the methodological asymmetry justifying introspection-trust for humans while withholding it from LLMs (lines ~167–173 in cognitive-phenomenology) lists three considerations — convergent corroboration with neural/behavioural correlates, evolutionary grounding, dissociation evidence — that all reduce cleanly to *functional* differences. The honest qualified-liberal defence has to concede the asymmetry can only be cashed out *given* prior commitment to phenomenality being real, which is what is in dispute. `concepts/phenomenology-vs-function-axis.md` is the canonical Map article on the function-vs-phenomenology distinction and shares the structural commitment that *some* differences are non-functional. Cross-review should (a) verify that phenomenology-vs-function-axis does not itself collapse the asymmetry argument by treating functional differences as evidence of phenomenal differences; (b) check whether the article's task-level grain commitment (the load-bearing argumentative move installed 2026-04-30 20:39 UTC) provides the principled way to deliver the asymmetry — at the chosen grain, the Map's claim is that human introspection tracks task-level functional facts that *correlate with* phenomenal facts in a way LLM introspection does not, but the correlation is what is in dispute; (c) install a §"The Asymmetry-Argument Limit" subsection (~250–400 words) explicitly distinguishing what the asymmetry establishes (different functional/architectural status) from what it does not (different phenomenal status); (d) cross-link reciprocally to `concepts/cognitive-phenomenology.md` once that article's Issue 5 fix lands. Short-medium scope (~250–400 words touched). Tenet alignment: Dualism (the asymmetry is what makes the Map's phenomenal-realism commitment dialectically contestable, not what establishes it). See [[reviews/pessimistic-2026-05-01]].
-- **Source**: pessimistic-review (2026-05-01)
-- **Generated**: 2026-05-01
-
 ### P2: Cross-review concepts/ai-consciousness-typology and topics/ai-consciousness considering PCT-overpromotion critique from pessimistic-2026-05-01
 - **Type**: cross-review
 - **Status**: pending
@@ -3265,6 +3258,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Cross-review concepts/phenomenology-vs-function-axis considering methodological-asymmetry critique from pessimistic-2026-05-01
+- **Type**: cross-review
+- **Notes**: Chain from `reviews/pessimistic-2026-05-01.md` Issue 5 (Medium-High severity). The pessimistic review flags that the methodological asymmetry justifying introspection-trust for humans while withholding it from LLMs (lines ~167–173 in cognitive-phenomenology) lists three considerations — convergent corroboration with neural/behavioural correlates, evolutionary grounding, dissociation evidence — that all reduce cleanly to *functional* differences. The honest qualified-liberal defence has to concede the asymmetry can only be cashed out *given* prior commitment to phenomenality being real, which is what is in dispute. `concepts/phenomenology-vs-function-axis.md` is the canonical Map article on the function-vs-phenomenology distinction and shares the structural commitment that *some* differences are non-functional. Cross-review should (a) verify that phenomenology-vs-function-axis does not itself collapse the asymmetry argument by treating functional differences as evidence of phenomenal differences; (b) check whether the article's task-level grain commitment (the load-bearing argumentative move installed 2026-04-30 20:39 UTC) provides the principled way to deliver the asymmetry — at the chosen grain, the Map's claim is that human introspection tracks task-level functional facts that *correlate with* phenomenal facts in a way LLM introspection does not, but the correlation is what is in dispute; (c) install a §"The Asymmetry-Argument Limit" subsection (~250–400 words) explicitly distinguishing what the asymmetry establishes (different functional/architectural status) from what it does not (different phenomenal status); (d) cross-link reciprocally to `concepts/cognitive-phenomenology.md` once that article's Issue 5 fix lands. Short-medium scope (~250–400 words touched). Tenet alignment: Dualism (the asymmetry is what makes the Map's phenomenal-realism commitment dialectically contestable, not what establishes it). See [[reviews/pessimistic-2026-05-01]].
+- **Output**: None -- Context: Cross-review concepts/phenomenology-vs-function-axis considering methodological-asymmetry critique from pessimistic-2026-05-01
 
 ### ✓ 2026-05-01: Update wikilinks pointing to coalesced interface articles
 - **Type**: cross-review

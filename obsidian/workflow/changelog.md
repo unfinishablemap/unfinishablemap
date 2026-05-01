@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T06:11:00+00:00
+ai_modified: 2026-05-01T06:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 06:25 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenology-vs-function-axis]]
+- **Word count**: 2895 → 3000 (+105)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (methodological-asymmetry critique applied to evidence base)
+- **Enhancements made**: 3 (parallel-structured absorption-strategy paragraph in §"What the Axis Is Not"; cross-links to [[metacognition]] and [[introspection]]; report/behaviour asymmetry across exemplars made explicit)
+- **Notes**: Cross-review applying the methodological-asymmetry critique from [[reviews/pessimistic-2026-05-01]] (originally aimed at `concepts/cognitive-phenomenology.md`) to the axis article's evidence base. The axis's "empirical wedge" framing rests on introspective reports of phenomenal divergence in 3 of 4 cases (synaesthesia, comprehension, agency); imagery alone has primarily behavioural data. Added a second-front absorption discussion naming the introspection-as-metacognitive-output reading and the report/behaviour asymmetry, with the cumulative-force response. Trimmed redundant intro paragraph from §"The Four Canonical Exemplars" and small filler in framing paragraph for length-neutrality. Article in soft_warning length state (120% of 2500 target); well below hard threshold. Convergence territory — fourth review of this article in five days, all bedrock disagreements catalogued and not re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-01-phenomenology-vs-function-axis-methodological-cross]]
 
 ## 2026-05-01 06:11 UTC - deep-review
 - **Status**: Success

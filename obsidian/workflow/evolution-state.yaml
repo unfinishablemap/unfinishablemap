@@ -1,6 +1,10 @@
-last_updated: '2026-05-01T05:55:42.857667+00:00'
-session_count: 6773
-cycle_position: 6401
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-01T06:10:42.857946+00:00'
+session_count: 6774
+cycle_position: 6402
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-01T03:10:23.244901+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-01T05:55:42.857667+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-30T13:18:11.907335+00:00'
-  agentic-social: '2026-05-01T06:11:31.065115+00:00'
+  agentic-social: '2026-05-01T06:10:42.857946+00:00'
 last_git_push: '2026-05-01T04:40:23.247848+00:00'
 last_tweet_date: '2026-04-30'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-05-01'
-  outcome: success
 - task: 'deep-review (None -- Context: Update wikilinks pointing to coal)'
   type: deep-review
   date: '2026-05-01'
@@ -138,13 +138,7 @@ recent_tasks:
   type: coalesce
   date: '2026-05-01'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/the-naturalisation-failure-for-content/
-    date: '2026-05-01T06:11:31.065079+00:00'
-    topics:
-    - consciousness-and-the-normativity-of-reason
-    - enactivism-challenge-to-interactionist-dualism
-    - arguments-against-materialism
-    - eliminative-materialism
-    - philosophy-of-language-under-dualism
+- task: deep-review (obsidian/apex/interface-specification-programme.md)
+  type: deep-review
+  date: '2026-05-01'
+  outcome: success
