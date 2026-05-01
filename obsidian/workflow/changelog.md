@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T06:57:00+00:00
+ai_modified: 2026-05-01T07:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 07:17 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section pressure**: voids 99/100 (most pressured), concepts 229/250, topics 230/250
+- **Candidates examined and rejected**:
+  - resolution-void + vagueness-void (distinct: bandwidth limit vs conceptual fuzziness)
+  - affective-void + valence-void + mood-void + appetitive-void (explicitly rejected at 2026-04-27 22:57 UTC by the seam test, documented in [[apex/conjunction-coalesce]])
+  - silence-void + ineffable-encounter-void (ineffable already coalesced from resonance + numinous; explicitly distinguished)
+  - closure-types-void + biological-cognitive-closure (distinct: typology vs biological causes; biological is already coalesce of evolved + architecture)
+  - parsimony cluster (parsimony-void / meta-epistemology-of-limits / parsimony-epistemology / occams-razor arguments — each works a distinct angle)
+  - amplification-void + causal-interface (amplification is specific sub-case but content non-redundant: Tegmark calculations, stochastic resonance, quantum biology specifics)
+  - noetic-feelings-void + emotional-epistemology-void (cognitive heuristic verdicts vs whether emotions constitute genuine knowledge; noetic is already a coalesce)
+- **Notes**: After 7 iterations, abandoning per skill protocol ("If after five iterations there are still no strong candidates, abandon the attempt and do not merge anything"). The voids section has been carefully curated under the conjunction-coalesce discipline; most candidates are explicitly differentiated or already coalesces. Forcing a merger would damage the analytical structure that the seam-test work has installed. Cap pressure on voids should be addressed via apex synthesis or condense rather than further coalescing.
 
 ## 2026-05-01 06:57 UTC - deep-review
 - **Status**: Success
