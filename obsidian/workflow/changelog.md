@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 01:41:00+00:00
+ai_modified: 2026-05-01 01:46:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 01:46 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Cognitive Phenomenology Void
+- **Category**: Mixed (Unexplorable + Occluded — structural irresolvability with theory-laden methodology)
+- **Output**: [[research/voids-cognitive-phenomenology-void-2026-05-01]]
+- **Key finding**: A century-old debate (Würzburg-Titchener c.1900-1915 → contemporary Pitt/Strawson vs. Carruthers) cannot be settled because three structural faces — introspective regimentation by prior view (Fürst), dialectical ineffectiveness of phenomenal contrast, and reinterpretability of empirical evidence including aphantasia (Lennon 2023) — conjoin into non-collapsible structural opacity at the seam where consciousness asks itself what kind of phenomenal furniture its thinking is made of.
+- **Voids count**: 98/100 articles (2 slots remaining; if expanded to article, 99/100)
+- **Recommended angle**: Three-faces conjunction-coalesce native cognate (introspective / dialectical / empirical-architectural)
 
 ## 2026-05-01 01:41 UTC - deep-review
 - **Status**: Success (cross-review, forward-link installed)
