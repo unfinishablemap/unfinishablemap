@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 01:55:00+00:00
+ai_modified: 2026-05-01 02:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 02:17 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/self-and-self-consciousness]]
+- **Before**: 4914 words (197% of 2500 concepts target, hard_warning)
+- **After**: 2770 words (111% of target, soft_warning — well within 3500 hard threshold)
+- **Reduction**: 44%
+- **Technique**: Cut redundancy between "Zahavi's Position in His Own Terms" and earlier sections (merged into Circularity Problem); collapsed three short topical sections (Autonoetic, Metacognition, Comparative Cognition) into one "Layers Above the Minimal Self"; merged Meta-Hard, Binding, and Testability into one combined section; trimmed Buddhist/Madhyamaka section by deferring detailed exposition to [[buddhism-and-dualism]]; tightened Diachronic Identity exposition; trimmed Relation to Site Perspective and Further Reading. Preserved opening summary, all four tenet connections, Zahavi/Metzinger/Strawson/Hume distinctions, the kind/degree methodological move, and the candid Mādhyamaka reply.
 
 ## 2026-05-01 01:55 UTC - deep-review
 - **Status**: Success (cross-review, terminology aligned to restructured target)

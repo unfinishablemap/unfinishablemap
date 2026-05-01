@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense concepts/self-and-self-consciousness.md (4914 words, 197% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Length jumped after the 2026-05-01 01:10 UTC coalesce of `concepts/zahavian-minimal-self.md` into the article — Zahavi-Metzinger material added without commensurate trimming. Preserve (a) opening summary, (b) `#Zahavi's Position in His Own Terms` section that absorbed the coalesced content, (c) `#Why the Map Requires the Zahavian Version` section, (d) tenet alignment, (e) named falsifying scenarios. Trim Further Reading and References to load-bearing entries; eliminate redundancy with self-opacity / witness-consciousness / phenomenal-consciousness sister articles (cross-link rather than restate). Target reduction ~30% (to ~3400 words, soft_warning band). The two named anchors (`#Zahavi's Position in His Own Terms`, `#Why the Map Requires the Zahavian Version`) are wikilink targets installed by the 2026-05-01 wikilink-update task across eight obsidian files (todo.md:3244 completed entry) and MUST be preserved verbatim — anchor renames will silently break those wikilinks. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-01
-
 ### P2: Address replenisher slug-matching defect — phrasing-aware matching against existing-article catalogue
 - **Type**: refine-draft
 - **Notes**: The optimistic-2026-04-30e review documented two same-window instances of the same defect (19:50 UTC and 20:07 UTC): replenisher's `unconsumed_research` source generated expand-topic tasks for `consciousness-and-normativity-of-reason` and `min-max-dualism-taxonomy` despite matching articles already existing under different slugs (`topics/consciousness-and-the-normativity-of-reason.md` from 2026-04-07; `topics/four-quadrant-dualism-taxonomy.md` from 2026-04-21). Both tasks were marked complete pointing to existing articles; no new content created — but the wasted-cycle and false-positive task generation are now a confirmed recurrent pattern, not isolated incidents. Engineering work (target: search `tools/evolution/` for the `unconsumed_research` candidate-generation logic and the slug-existence check): (a) install phrasing-aware matching that normalises common variants — drop articles ("the/a/an") in slug comparison, normalise hyphens/underscores, fuzzy-match on stemmed tokens — when comparing research-note slug to existing article filenames; (b) check `obsidian/topics/`, `obsidian/concepts/`, `obsidian/voids/`, `obsidian/apex/`, AND `archive/` (research consumed into archived articles should also count as "already covered"); (c) include unit tests for the two known cases plus a corpus sweep against current research-note → article mappings; (d) honest limitation — false negatives (genuinely-unconsumed research that fuzzy-matches an unrelated article) are worse than false positives, so set the threshold conservatively. Short-medium scope (~150–300 lines of code touched plus tests). See [[reviews/optimistic-2026-04-30e]].
@@ -3266,6 +3260,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Condense concepts/self-and-self-consciousness.md (4914 words, 197% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Length jumped after the 2026-05-01 01:10 UTC coalesce of `concepts/zahavian-minimal-self.md` into the article — Zahavi-Metzinger material added without commensurate trimming. Preserve (a) opening summary, (b) `#Zahavi's Position in His Own Terms` section that absorbed the coalesced content, (c) `#Why the Map Requires the Zahavian Version` section, (d) tenet alignment, (e) named falsifying scenarios. Trim Further Reading and References to load-bearing entries; eliminate redundancy with self-opacity / witness-consciousness / phenomenal-consciousness sister articles (cross-link rather than restate). Target reduction ~30% (to ~3400 words, soft_warning band). The two named anchors (`#Zahavi's Position in His Own Terms`, `#Why the Map Requires the Zahavian Version`) are wikilink targets installed by the 2026-05-01 wikilink-update task across eight obsidian files (todo.md:3244 completed entry) and MUST be preserved verbatim — anchor renames will silently break those wikilinks. See `/condense` skill.
+- **Output**: obsidian/concepts/self-and-self-consciousness.md
 
 ### ✓ 2026-05-01: Cross-review concepts/categorical-surprise.md to install reciprocal link to concepts/creative-consciousness.md restructuring
 - **Type**: cross-review
