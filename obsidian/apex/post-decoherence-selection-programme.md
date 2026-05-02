@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-01T01:41:00+00:00
+ai_modified: 2026-05-02T00:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[conservation-laws-and-mental-causation]]"
   - "[[amplification-void]]"
   - "[[forward-in-time-conscious-selection]]"
+  - "[[framework-stage-calibration]]"
 
 ai_contribution: 100
 author: null
@@ -125,7 +126,7 @@ The five lines of inquiry converge on a research programme with identified compo
 
 **The formal law.** The [[interface-specification-programme|Interface Specification Programme]] seeks the psychophysical control law governing how consciousness operates at the interface. The post-decoherence selection programme adds a physics-side requirement: whatever selection principle consciousness applies must respect Born-rule statistics, operate within the pointer-state menu, and be consistent with quantum contextuality. These constraints narrow the space but do not yet determine the law.
 
-The programme is incomplete. What makes it a programme rather than speculation is that the components constrain each other: quantum Darwinism's menu limits what contextuality must accommodate; contextuality constrains what the selection mechanism can do; the selection mechanism determines what stochastic amplification must bridge. Progress on any component restricts the others, creating a web of mutual constraint that drives toward specificity.
+The programme is incomplete. What makes it a programme rather than speculation is that the components constrain each other: quantum Darwinism's menu limits what contextuality must accommodate; contextuality constrains what the selection mechanism can do; the selection mechanism determines what stochastic amplification must bridge. Progress on any component restricts the others, creating a web of mutual constraint that drives toward specificity. The Map's [[framework-stage-calibration|framework-stage calibration discipline]] locates the programme at the *pre-Keplerian* stage: the components catalogued above—Zurek's einselection results, Kochen-Specker contextuality, weak-measurement boundary structure, the three-stage amplification chain—are Tycho-analogue measurements and constraint scaffolds, not Kepler-analogue laws. Calling them constraints rather than mechanisms is calibration to what the programme has actually produced; calling the programme "incomplete" is the same calibration in different words.
 
 ## Relation to Site Perspective
 

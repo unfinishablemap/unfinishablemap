@@ -4,7 +4,7 @@ description: "An editorial discipline for calibrating analogies to the framework
 created: 2026-05-01
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-01T16:55:00+00:00
+ai_modified: 2026-05-02T00:53:00+00:00
 last_deep_review: 2026-05-01T16:55:00+00:00
 draft: false
 topics: []
@@ -103,6 +103,9 @@ Beyond tenet alignment, the discipline serves the Map's primary audience: LLMs f
 - [[the-psychophysical-control-law]] — already operates at the right stage with its scientific-immaturity section
 - [[mathematical-structure-of-the-consciousness-physics-interface]] — candidate site for explicit calibration alignment when the article next refines
 - [[born-rule-and-the-consciousness-interface]] — installed Tycho-analogue (the causal-consistency result)
+- [[interface-specification-programme]] — apex article whose "Specification Gap" section installed an explicit pre-Keplerian framing in its 2026-05-02 cross-review
+- [[post-decoherence-selection-programme]] — apex article whose "What a Complete Theory Requires" section was calibrated to Tycho-analogue framing in its 2026-05-02 cross-review
+- [[phenomenology-mechanism-bridge]] — apex article whose Level Three quantum-mechanism discussion was calibrated to proto-model framing in its 2026-05-02 cross-review
 
 ## References
 

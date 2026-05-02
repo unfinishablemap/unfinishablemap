@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 21:33:00+00:00
+ai_modified: 2026-05-01 23:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-01 23:00 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Aspect Perception Void
+- **Output**: [aspect-perception-void](/voids/aspect-perception-void/)
+- **Word count**: 1992 (within 1500–2000 voids target)
+- **Based on research**: Yes — [voids-aspect-perception-void-2026-05-01](/research/voids-aspect-perception-void-2026-05-01/)
+- **Structure**: Three faces (dawning / aspect-blindness / constitution) conjunction-coalesce structure following the methodological lineage of [suspension-void](/voids/suspension-void/), [vagueness-void](/voids/vagueness-void/), [transit-void](/voids/transit-void/), [agency-void](/voids/agency-void/). Faces classified by the [three-kinds-of-void](/voids/three-kinds-of-void/) typology: dawning = Unexplorable, aspect-blindness = Architectural-Asymmetric, constitution = Occluded with Unexplorable edges.
+- **Tenet engagement**: Dualism (primary — aspect resides in integration, not stimulus); Bidirectional Interaction (volitional handle on aspect-switching); Occam's Razor Has Limits (multistable stimuli refute simple stimulus → simple percept).
+- **Self-citations**: 1 — [suspension-void](/voids/suspension-void/) (methodological cognate).
+- **Voids count**: 100/100 (at cap after this article).
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-01 21:33 UTC - apex-evolve
 - **Status**: Complete

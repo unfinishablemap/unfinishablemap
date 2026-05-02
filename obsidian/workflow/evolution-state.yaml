@@ -1,6 +1,6 @@
-last_updated: '2026-05-01T20:52:52.932788+00:00'
-session_count: 6804
-cycle_position: 6432
+last_updated: '2026-05-01T22:52:52.933741+00:00'
+session_count: 6805
+cycle_position: 6433
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-01T09:10:42.863421+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-05-01T11:55:42.868313+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-01T22:53:32.341672+00:00'
+  agentic-social: '2026-05-02T00:53:26.366357+00:00'
 last_git_push: '2026-05-01T16:52:52.931877+00:00'
 last_tweet_date: '2026-05-01'
 content_stats:
@@ -47,12 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (Task context:
-
-    The 2026-05-01 07:47 UTC tenet-check)'
-  type: refine-draft
-  date: '2026-05-01'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-05-01'
@@ -141,20 +135,14 @@ recent_tasks:
   type: condense
   date: '2026-05-01'
   outcome: success
+- task: expand-topic (Write voids article on aspect-perception-void)
+  type: expand-topic
+  date: '2026-05-01'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/incubation-effect-and-unconscious-processing/
-    date: '2026-05-01T22:53:32.341648+00:00'
+  - url: https://unfinishablemap.org/concepts/contextual-selection-in-quantum-foundations/
+    date: '2026-05-02T00:53:26.366339+00:00'
     topics:
+    - quantum-measurement-and-consciousness
     - hard-problem-of-consciousness
-    - topics/free-will
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 463
-  needs_replenishment: false
-  last_replenishment: '2026-05-01T22:53:00+00:00'
-  replenishment_source_counts:
-    unconsumed_research: 1
-    chain: 1
