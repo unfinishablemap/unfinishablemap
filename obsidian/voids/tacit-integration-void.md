@@ -2,10 +2,10 @@
 title: "The Tacit Integration Void"
 description: "Subsidiary cues bear on a focal meaning only by not being focal themselves; thematising the integration collapses what it carries. The Map names the structural void this opens."
 created: 2026-04-27
-modified: 2026-04-27
+modified: 2026-05-02
 human_modified:
-ai_modified: 2026-04-30T04:25:00+00:00
-last_deep_review: 2026-04-27T13:46:00+00:00
+ai_modified: 2026-05-02T04:54:00+00:00
+last_deep_review: 2026-05-02T04:54:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[noetic-feelings-void]]"
   - "[[binding-void]]"
   - "[[inference-void]]"
+  - "[[aspect-perception-void]]"
   - "[[carrolls-regress]]"
   - "[[apophatic-cartography]]"
   - "[[what-voids-reveal]]"
@@ -39,7 +40,7 @@ last_curated:
 
 When consciousness integrates subsidiary cues into a focal meaning — feeling the hammer through the hand, hearing words through their sounds, sensing the shape of a problem before articulating it — the *integration itself* cannot be made focal. Michael Polanyi formalised this as the *from-to* structure of tacit knowing: we attend *from* subsidiaries *to* a focal whole, and converting the subsidiaries into focal objects collapses the whole they were bearing. The Unfinishable Map names this the *tacit integration void*: a candidate structural impossibility of simultaneously thematising the cues we attend *from* and the meaning we attend *to*. The claim is conditional — presupposing that phenomenological identification of the from-to relation is non-redundant with third-person specification — and the [Honest Limitation](#honest-limitation) section states the falsifier. Granted the antecedent, the void's *interior* is unexplorable in principle while its *boundary* admits indirect mapping.
 
-The void is distinct from siblings: the [[expertise-and-its-occlusion|expertise void]] (skill's *irreversible transformation* of perception), the [[attention-and-consciousness|attention void]] (*figure–ground organisation*), and the [[binding-void]] (*qualia unification*). The [[inference-void]] is a *narrower case*, not a sibling: it applies the from-to structure to logical transitions, where premises function as subsidiaries borne on a focal conclusion. This article isolates the bearing relation itself — how subsidiaries function as carriers, and why that function is destroyed by being looked at directly.
+The void is distinct from siblings: the [[expertise-and-its-occlusion|expertise void]] (skill's *irreversible transformation* of perception), the [[attention-and-consciousness|attention void]] (*figure–ground organisation*), and the [[binding-void]] (*qualia unification*). Two narrower applications of the from-to structure should be distinguished from siblings: the [[inference-void]] applies it to logical transitions, where premises function as subsidiaries borne on a focal conclusion; the constitution face of the [[aspect-perception-void]] applies it to seeing-as, where context, expectation, and internal relations function as subsidiaries borne on a focal aspect. This article isolates the bearing relation itself — how subsidiaries function as carriers, and why that function is destroyed by being looked at directly.
 
 ## The From-To Structure
 
@@ -71,7 +72,7 @@ Gestalt psychology treats figure–ground organisation as a constitutive princip
 
 Dual-task interference (Pashler, 1994) measures the cost of two simultaneous foci. Focal capacity is graded rather than strictly binary, with measurable cost when subjects thematise a tacit process — necessary but not sufficient for the structural claim.
 
-Inattentional blindness provides a third complement. Subjects who fail to consciously detect an unexpected stimulus show residual sensitivity in priming and neural measures (eLife, 2025): inattention degrades awareness rather than abolishing it — corroborating the gradient precondition, not the claim itself. Linguistic experience offers a daily case: native speakers grasp meaning *through* phonemes, and attending focally to phonemes (as in unfamiliar second-language listening) collapses comprehension.
+Inattentional blindness provides a third complement. Subjects who fail to consciously detect an unexpected stimulus show residual sensitivity in priming and neural measures (eLife, 2025): inattention degrades awareness rather than abolishing it — corroborating the gradient precondition, not the claim itself.
 
 ## What Approaches Are Possible
 
@@ -87,7 +88,7 @@ The interior is unexplorable, but the boundary admits indirect mapping. Three ap
 
 The tacit integration void is *unexplorable* in the [[three-kinds-of-void|Map's taxonomy]], structural rather than contingent. The from-to relation is what makes meaning possible; thematising it would require a vantage point outside the relation. As with Gurwitsch's thematic field, attempting to dissolve the void creates a new instance: the new focal object brings its own subsidiaries. The materialist objection — that the integration is in principle specifiable as a pattern of neural activation, and the void is just a practical limit of introspection — is a substantive challenge to the conditional, addressed in [Honest Limitation](#honest-limitation) below.
 
-The from-to relation is one architectural ceiling among several. The [[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor of the quantitative comprehension void]] supplies a quantitative sibling: any single-act apprehension exceeding about four phenomenal-content units must serialise rather than grasp them at once. Both ceilings are structural rather than contingent, and both bound apophatic catalogues from inside — the from-to ceiling prevents grasping the bearing relation as it bears, while the four-item ceiling caps how many bearings can be held in one phenomenal grasp at all. Sibling architectural caps on what consciousness can carry as a single act.
+The from-to relation is one architectural ceiling among several. The [[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor of the quantitative comprehension void]] supplies a quantitative sibling: any single-act apprehension exceeding about four phenomenal-content units must serialise rather than grasp them at once. Both ceilings are structural rather than contingent, and both bound apophatic catalogues from inside — the from-to ceiling prevents grasping the bearing relation as it bears, while the four-item ceiling caps how many bearings can be held in one phenomenal grasp at all.
 
 ## Relation to Site Perspective
 
@@ -119,6 +120,7 @@ A third limitation: described from inside human integration. Minds with differen
 - [[attention-and-consciousness]] — Gurwitsch-style figure–ground organisation, distinct from the bearing relation
 - [[binding-void]] — Integration of qualia across modalities; a different level
 - [[inference-void]] — A narrower case: the from-to structure applied to logical transitions
+- [[aspect-perception-void]] — Another narrower case: the from-to structure applied to seeing-as
 - [[carrolls-regress]] — Carroll's 1895 dialogue: stating the rule cannot do what following the rule does, the same shape applied to inference
 - [[acquaintance-void]] — The gap between having an experience and describing it
 - [[noetic-feelings-void]] — Felt verdicts whose generation is opaque

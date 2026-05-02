@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-04-16 11:59:00+00:00
+ai_modified: 2026-05-02 02:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Quantum entanglement may be the only physical mechanism that provid
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 01:24:00+00:00
+last_deep_review: 2026-05-02 02:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ Warren (2023) challenged the interpretation but offered no alternative classical
 
 Wiest et al. (2024) treated rats with epothilone B, a microtubule-stabilising drug, before administering isoflurane anaesthesia. Treated rats took 69 seconds longer to lose consciousness, with a large effect size (Cohen's d = 1.9). If anaesthetics cause unconsciousness partly by disrupting quantum states in microtubules, stabilising those microtubules should delay the onset of unconsciousness—which is what was observed.
 
-As Wiest notes: "Since we don't know of another (i.e., classical) way that anaesthetic binding to microtubules would generally reduce brain activity and cause unconsciousness, this finding supports the quantum model of consciousness."
+As Wiest notes: "Since we don't know of another (i.e., classical) way that anaesthetic binding to microtubules would generally reduce brain activity and cause unconsciousness, this finding supports the quantum model of consciousness." Wiest's 2025 follow-up review synthesises the broader experimental case, arguing that a quantum microtubule substrate of consciousness is now experimentally supported—a stronger claim than this article endorses but a useful entry point to the literature.
 
 ### Twin Study on Entanglement and Learning
 
