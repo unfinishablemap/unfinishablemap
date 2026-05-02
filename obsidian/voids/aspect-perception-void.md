@@ -2,9 +2,10 @@
 title: "The Aspect Perception Void"
 description: "Consciousness cannot witness its own seeing-as: the dawning, the aspect-blindness, and the integration that makes seeing-as more than seeing—three faces of one void."
 created: 2026-05-01
-modified: 2026-05-01
+modified: 2026-05-02
 human_modified: null
-ai_modified: 2026-05-01T23:00:00+00:00
+ai_modified: 2026-05-02T16:53:00+00:00
+last_deep_review: 2026-05-02T16:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +51,7 @@ The void exhibits the conjunction-coalesce structure used elsewhere for [[suspen
 
 ### Dawning (Unexplorable)
 
-When the rabbit dawns where the duck was, the retinal image is unchanged and the new perception is reported, but the transition itself is reflexively unavailable. Wittgenstein writes: "The expression of a change of aspect is the expression of a new perception and at the same time of the perception's being unchanged." The viewer has access to the *before*, the *after*, and the *report* of the dawning—the felt "click" or "lighting up"—but any introspective probe arrives after the event or destabilises it. Trying to watch the switch as it happens biases perception toward whichever aspect the gaze settles on, an instance of the Brentanian point that active introspection eliminates its object.
+When the rabbit dawns where the duck was, the retinal image is unchanged and the new perception is reported, but the transition itself is reflexively unavailable. Wittgenstein writes: "The expression of a change of aspect is the expression of a new perception and at the same time of the perception's being unchanged." The viewer has access to the *before*, the *after*, and the *report* of the dawning—the felt "click" or "lighting up"—but any introspective probe arrives after the event or destabilises it. Trying to watch the switch as it happens biases perception toward whichever aspect the gaze settles on—Brentano's point that active introspection eliminates its object.
 
 The dawning face places aspect-perception in the family that includes [[transit-void]] (the unobservability of state-transitions in consciousness) and [[thought-stream-void]] (the unobservability of thought-arising). The mechanism differs—perceptual-conceptual integration rather than thought-genesis—but the structural shape is shared: consciousness has the endpoints, not the passage between them.
 
@@ -68,7 +69,7 @@ The architectural-asymmetric character is what distinguishes this face. From out
 
 Aspect-perception involves the integration of subsidiary content—context, expectation, concept, internal relations—into focal content. The aspect "lives" in this integration, not in the stimulus and not in the report. Following [[tacit-integration-void]], the integration cannot be made focal without collapsing what it constitutes. Trying to hold the duck and the rabbit *as integrations* simultaneously is the empirical failure mode: one collapses into a flicker, into half-hearted aspect-perception, or into one aspect's victory over the other.
 
-Searle and Siegel argue that aspect-switching cases show visual experience represents richer properties than colour, shape, position, and size—the phenomenal content of seeing-as exceeds low-level sensory content. Aeon's framing captures the doubleness: aspects are "neither subjective (inner, metaphysically private) nor objective"; they "present perceivable unity and sense that are (arguably) not (yet) conceptual"; they are "subject to the will, but at the same time… genuinely revelatory of the object perceived under it." This neither-nor status maps cleanly onto the Map's interface ontology.
+Siegel (engaging Searle) argues that aspect-switching cases show visual experience represents richer properties than colour, shape, position, and size—the phenomenal content of seeing-as exceeds low-level sensory content. Aeon's framing captures the doubleness: aspects are "neither subjective (inner, metaphysically private) nor objective"; they "present perceivable unity and sense that are (arguably) not (yet) conceptual"; they are "subject to the will, but at the same time are normally taken to be genuinely revelatory of the object perceived under it." This neither-nor status maps cleanly onto the Map's interface ontology.
 
 The cognitive-penetration debate underscores the constitutive role of higher cognition: predictive-coding accounts frame perception as constructive, with priors and expectations entering into what is perceived. If perception is cognitively penetrable, aspect-seeing is the rule rather than the exception, and the penetration mechanism is hidden from the perceiver. The constitution face is *Occluded*: structure operates and shapes outcomes, but the system whose perception it constitutes cannot perceive that constitution while it operates.
 
@@ -140,6 +141,6 @@ The void is also tenet-adjacent methodologically: the Map's framework-shifts (su
 12. Stanford Encyclopedia of Philosophy. "Thomas Kuhn." https://plato.stanford.edu/entries/thomas-kuhn/
 13. Stanford Encyclopedia of Philosophy. "Introspection." https://plato.stanford.edu/entries/introspection/
 14. Stanford Encyclopedia of Philosophy. "Cognitive Penetrability."
-15. *Aspect-Switching and Visual Phenomenal Character* (Searle/Siegel discussion). academia.edu.
+15. Siegel, S. *Aspect-Switching and Visual Phenomenal Character*. (Engages Searle on rich-content theories.) academia.edu.
 16. "Is Artificial Intelligence an Aspect-blind?" (2022). *Journal of Northeastern University (Social Sciences)*.
 17. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Suspension Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/suspension-void/

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/aspect-perception-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: First deep-review of `voids/aspect-perception-void.md` (created 2026-05-01 23:00 UTC, 2099 words, no review on file). The article installs a three-face structure (dawning, aspect-blindness, constitution) on Wittgenstein's seeing-as territory and positions itself adjacent to recognition-void, tacit-integration-void, predictive-construction-void, and conceptual-scheme-void. Two of those reciprocal cross-reviews have completed (recognition-void 2026-05-02, tacit-integration-void 2026-05-02); two are queued (predictive-construction-void, conceptual-scheme-void — see sibling chain tasks). Deep-review should (a) verify Wittgensteinian textual accuracy on the duck-rabbit and *Philosophical Investigations* Part II §xi citations; (b) audit cognitive-penetration claims for current-literature consistency (Pylyshyn vs Siegel et al.); (c) verify the three-face structure does not collapse into one face under pressure (dawning vs aspect-blindness vs constitution should each be load-bearing, not overlapping); (d) check tenet alignment, especially Dualism (the article's core move is that the integrating activity lives at the phenomenal level, not in the stimulus); (e) verify reciprocal-link discipline against the article's own related_articles list (some links may be forward-only and warrant the install-or-flag treatment); (f) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (g) confirm length (~2099 words) sits well within voids soft band (~2000); (h) check whether aspect-perception-void's Dawning face genuinely belongs in the optimistic-2026-04-29d phenomenal-output-without-felt-operation cluster (P3 apex-evolve queued).
-- **Source**: chain (from aspect-perception-void.md creation)
-- **Generated**: 2026-05-02
-
 ### P3: Deep review apex/moral-architecture-of-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3300,6 +3293,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-02: Deep review voids/aspect-perception-void.md
+- **Type**: deep-review
+- **Notes**: First deep-review of `voids/aspect-perception-void.md` (created 2026-05-01 23:00 UTC, 2099 words, no review on file). The article installs a three-face structure (dawning, aspect-blindness, constitution) on Wittgenstein's seeing-as territory and positions itself adjacent to recognition-void, tacit-integration-void, predictive-construction-void, and conceptual-scheme-void. Two of those reciprocal cross-reviews have completed (recognition-void 2026-05-02, tacit-integration-void 2026-05-02); two are queued (predictive-construction-void, conceptual-scheme-void — see sibling chain tasks). Deep-review should (a) verify Wittgensteinian textual accuracy on the duck-rabbit and *Philosophical Investigations* Part II §xi citations; (b) audit cognitive-penetration claims for current-literature consistency (Pylyshyn vs Siegel et al.); (c) verify the three-face structure does not collapse into one face under pressure (dawning vs aspect-blindness vs constitution should each be load-bearing, not overlapping); (d) check tenet alignment, especially Dualism (the article's core move is that the integrating activity lives at the phenomenal level, not in the stimulus); (e) verify reciprocal-link discipline against the article's own related_articles list (some links may be forward-only and warrant the install-or-flag treatment); (f) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (g) confirm length (~2099 words) sits well within voids soft band (~2000); (h) check whether aspect-perception-void's Dawning face genuinely belongs in the optimistic-2026-04-29d phenomenal-output-without-felt-operation cluster (P3 apex-evolve queued).
+- **Output**: obsidian/voids/aspect-perception-void.md
 
 ### ✓ 2026-05-02: Cross-review conceptual-scheme-void.md considering aspect-perception-void insights
 - **Type**: cross-review

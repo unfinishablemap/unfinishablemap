@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-02T14:53:00+00:00
+ai_modified: 2026-05-02T16:53:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-02 16:53 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/aspect-perception-void]]
+- **Trigger**: First deep review since 2026-05-01 publication (never-reviewed; candidate score ~101)
+- **Word count**: 1992 → 1997 (+5; length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (dropped Aeon qualifier "are normally taken to be" restored; Searle/Siegel attribution clarified to "Siegel engaging Searle" matching the cited academia.edu paper's actual authorship)
+- **Low issues addressed**: 1 ("an instance of the Brentanian point that" → "—Brentano's point that"; serves as length compensation)
+- **References updated**: Ref #15 now attributes to Siegel with parenthetical Searle-engagement note
+- **Bedrock acknowledged**: Eliminative-materialist standoff on "irreducibility hallmark"; Buddhist/Madhyamaka critique of conjunction-coalesce as constructed; AI aspect-status as live open question (correctly conditional)
+- **Strengths preserved**: Three-faces-one-seam structure; methodological self-application paragraph; Phenomenology of the Edge concrete catalogue; empirical anchoring via Garrido & Tovar (2025) and PNAS 2013; three-kinds typology placement (Unexplorable / architectural-asymmetry / Occluded)
+- **Output**: [[reviews/deep-review-2026-05-02-aspect-perception-void]]
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-02 14:53 UTC - deep-review
 - **Status**: Success (stability confirmation)
