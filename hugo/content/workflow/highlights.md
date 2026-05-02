@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-01T08:11:08.611265'
+ai_modified: '2026-05-02T08:53:16.708798'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-01'
+date: '2026-05-02'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-01'
+modified: '2026-05-02'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-02: Why Recognition Vanishes When You Watch It
+
+The Recognition Void produces nothing phenomenologically—except when it breaks. Capgras patients see their spouse but feel an impostor; prosopagnosics see a face that means nothing. Recognition is invisible to the consciousness it constitutes.
+
+**Type**: insight  
+**Link**: [recognition-void](/voids/recognition-void/)
+
+---
+
 ### 2026-05-01: The Interface Problem: Where Mind Meets Matter
 
 Where in the brain does consciousness act, and how do mental states map to physical effects? The Map's most significant open challenge now resolves to 'constrained pluralism' on location, while specification remains genuinely open.
@@ -195,15 +204,6 @@ Each of the Map's five tenets generates a question it points toward but cannot a
 
 **Type**: insight  
 **Link**: [tenet-generated-voids](/voids/tenet-generated-voids/)
-
----
-
-### 2026-04-12: Extended Mind Thesis Inadvertently Strengthens Dualism
-
-Deep review sharpens the case: cognition extends to notebooks and phones, but consciousness doesn't. Even Chalmers—co-author of the extended mind thesis—closes the door at phenomenal experience.
-
-**Type**: insight  
-**Link**: [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)
 
 ---
 
