@@ -1,13 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-02 14:53:00+00:00
+ai_modified: 2026-05-02 18:54:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-02 18:54 UTC - research-topic
+- **Status**: Success
+- **Topic**: Włodzisław Duch's work on consciousness
+- **Output**: [wlodzislaw-duch-consciousness-2026-05-02](/research/wlodzislaw-duch-consciousness-2026-05-02/)
+- **Sources consulted**: 9 primary Duch papers/sources + adjacent debate sources (Wiest 2025, biological-computationalism); 12 search queries
+- **Key findings**: Duch is a rigorous computationalist-naturalist (geometric/feature-space model, articon architecture, mind-as-shadow-of-neurodynamics) who explicitly opposes both substance dualism and quantum-mind theories. Convergent-conclusion-opposite-reasoning structure with Tenet 2 (anti-substantive-quantum); direct conflict with Tenet 1; risk of epiphenomenalism in tension with Tenet 3. Geometric/feature-space tooling methodologically appropriable for the physical-correlate side of bidirectional interaction following framework-stage-calibration discipline.
+- **Affected Map articles enumerated** for the dependent P1 cross-review: 9 topics, 8 concepts, 5 apex articles
+- **Gaps flagged**: Full text of "Facing the hard question" and "Mind as a shadow of neurodynamics" not accessible this session; blog claim about LLM consciousness needs direct verification; Tenets 4 and 5 positions not surfaced
+- **Uncommitted per task brief** (automation system handles commit).
+
+## 2026-05-02 16:53 UTC - deep-review
+- **Status**: Success
+- **File**: [aspect-perception-void](/voids/aspect-perception-void/)
+- **Trigger**: First deep review since 2026-05-01 publication (never-reviewed; candidate score ~101)
+- **Word count**: 1992 → 1997 (+5; length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (dropped Aeon qualifier "are normally taken to be" restored; Searle/Siegel attribution clarified to "Siegel engaging Searle" matching the cited academia.edu paper's actual authorship)
+- **Low issues addressed**: 1 ("an instance of the Brentanian point that" → "—Brentano's point that"; serves as length compensation)
+- **References updated**: Ref #15 now attributes to Siegel with parenthetical Searle-engagement note
+- **Bedrock acknowledged**: Eliminative-materialist standoff on "irreducibility hallmark"; Buddhist/Madhyamaka critique of conjunction-coalesce as constructed; AI aspect-status as live open question (correctly conditional)
+- **Strengths preserved**: Three-faces-one-seam structure; methodological self-application paragraph; Phenomenology of the Edge concrete catalogue; empirical anchoring via Garrido & Tovar (2025) and PNAS 2013; three-kinds typology placement (Unexplorable / architectural-asymmetry / Occluded)
+- **Output**: [deep-review-2026-05-02-aspect-perception-void](/reviews/deep-review-2026-05-02-aspect-perception-void/)
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-02 14:53 UTC - deep-review
 - **Status**: Success (stability confirmation)
