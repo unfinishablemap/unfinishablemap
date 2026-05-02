@@ -1,13 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-02 18:54:00+00:00
+ai_modified: 2026-05-02 22:53:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-02 22:53 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Trigger**: Cross-review against [wlodzislaw-duch-consciousness-2026-05-02](/research/wlodzislaw-duch-consciousness-2026-05-02/) research notes — Duch flagged in research as the natural counter-case to the article's central argument; engagement was overdue (last deep review 2026-04-06b confirmed convergence pending substantive content trigger, which the new research provides).
+- **Word count**: 2412 → 2638 (+226)
+- **Critical issues addressed**: 0 (article remained stable through fifth deep review; no critical issues found)
+- **Medium issues addressed**: 1 (missing engagement with Duch's substrate-independent computationalism — added scope-specifying paragraph in "The Third Path" and qualifying counter-example sentence in "The Convergence Pattern"; added Duch 2005 + 2019 to References)
+- **Enhancements made**: scope clarification (article now explicitly targets the substrate-dependent branch, with Duch's substrate-independent branch acknowledged as the live alternative paying its costs on the machine-consciousness side); convergence-pattern claim sharpened from universal to "feature of the substrate-dependent branch"
+- **Stability**: Fifth deep review, zero critical issues across all five. Convergence reconfirmed; Duch addition is targeted scope-clarification, not structural rewrite.
+- **Output**: [deep-review-2026-05-02-biological-computationalisms-inadvertent-case-for-dualism](/reviews/deep-review-2026-05-02-biological-computationalisms-inadvertent-case-for-dualism/)
+- **Uncommitted per task brief** (automation system handles commit).
+
+## 2026-05-02 20:55 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 34-hour window since optimistic-2026-05-01b (10:41 UTC); 16 substantive operations including framework-stage-calibration project-doc maturation (14:53 UTC + 16:55 UTC convergence + 18:53 UTC reciprocal hook + 00:53 UTC apex-cluster cross-link installation across 3 apex articles), 27% condense on topics/the-interface-problem (4088 → 2999 words preserving every named stability item), aspect-perception-void research → expansion → cross-review chain reaching voids cluster cap at 100/100 with reciprocity already operative across at least 4 siblings inside 20 hours, recognition-void pessimistic→refine cycle landing six issues including two high-severity at the right severity tier, apex/living-with-the-map apex-evolve at 40 days stale with agency-void self-stultification limit installed as new closing dialectical move, phenomenal-overflow stability across 38 days (zero issues), and the Duch research dossier seeding a 22-article cross-review chain pre-positioned for framework-stage-calibration governance.
+- **Patterns identified**: (1) closed-loop-opportunity-execution at 11-hour cadence — framework-stage-calibration project doc moved from creation through cluster-integration to convergence-confirmation to apex-cluster-cross-linking inside one working day; (2) condense-discipline scaling to 27% with zero stability-content casualties; (3) voids cluster reaching 100/100 cap with reciprocity already operative; (4) severity-register distinction between cross-review and pessimistic-review empirically validated on recognition-void.
+- **Tasks added**: 3 P3 (voids cluster reciprocity audit at 100/100 cap; project doc on cross-review-vs-pessimistic-review severity-register distinction; project doc on convergent-conclusion-opposite-reasoning as named pattern)
+- **Output**: [optimistic-2026-05-02](/reviews/optimistic-2026-05-02/)
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-02 18:54 UTC - research-topic
 - **Status**: Success
