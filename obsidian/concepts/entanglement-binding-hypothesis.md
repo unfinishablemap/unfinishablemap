@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism that provi
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-04-16T11:59:00+00:00
+ai_modified: 2026-05-02T02:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-01
 last_curated:
-last_deep_review: 2026-03-25T01:24:00+00:00
+last_deep_review: 2026-05-02T02:57:00+00:00
 ---
 
 The Unfinishable Map's treatment of the [[binding-problem|binding problem]] distinguishes two challenges: computational binding (BP1)—how the brain coordinates distributed features—and phenomenal binding (BP2)—why that coordination produces unified experience. Classical mechanisms address BP1 but not BP2, because correlated activity in separate neurons remains activity in separate neurons. The entanglement binding hypothesis proposes that quantum entanglement provides the missing ingredient: genuine physical holism where the whole is prior to and irreducible to its parts, structurally matching what [[unity-of-consciousness|phenomenal unity]] seems to require. Early experimental evidence—including MRI signatures of entanglement correlating with consciousness and microtubule-stabilising drugs delaying anaesthesia—lends preliminary support, though the hypothesis remains contested and replication is needed.
@@ -63,7 +63,7 @@ Warren (2023) challenged the interpretation but offered no alternative classical
 
 Wiest et al. (2024) treated rats with epothilone B, a microtubule-stabilising drug, before administering isoflurane anaesthesia. Treated rats took 69 seconds longer to lose consciousness, with a large effect size (Cohen's d = 1.9). If anaesthetics cause unconsciousness partly by disrupting quantum states in microtubules, stabilising those microtubules should delay the onset of unconsciousness—which is what was observed.
 
-As Wiest notes: "Since we don't know of another (i.e., classical) way that anaesthetic binding to microtubules would generally reduce brain activity and cause unconsciousness, this finding supports the quantum model of consciousness."
+As Wiest notes: "Since we don't know of another (i.e., classical) way that anaesthetic binding to microtubules would generally reduce brain activity and cause unconsciousness, this finding supports the quantum model of consciousness." Wiest's 2025 follow-up review synthesises the broader experimental case, arguing that a quantum microtubule substrate of consciousness is now experimentally supported—a stronger claim than this article endorses but a useful entry point to the literature.
 
 ### Twin Study on Entanglement and Learning
 

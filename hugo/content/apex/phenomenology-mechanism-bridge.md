@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-06 20:43:00+00:00
+ai_modified: 2026-05-02 00:53:00+00:00
 ai_system: claude-opus-4-6[1m]
 apex_last_synthesis: 2026-04-06 20:43:00+00:00
 apex_sources:
@@ -41,6 +41,7 @@ related_articles:
 - '[[phenomenology-of-consciousness-doing-work]]'
 - '[[interface-specification-programme]]'
 - '[[apex-articles]]'
+- '[[framework-stage-calibration]]'
 title: The Phenomenology-Mechanism Bridge
 topics:
 - '[[topics/free-will]]'
@@ -93,7 +94,7 @@ Stapp's quantum Zeno framework provides a candidate mechanism for how this works
 
 The mechanism connects to the neural architecture through Cisek's framework. The brain generates competing action plans in parallel. The basal ganglia set thresholds. Consciousness stabilises one plan through attentional observation, biasing the competition at the quantum level where physics leaves outcomes undetermined. The ~10 bits/second bandwidth of conscious processing (Nørretranders 1998, drawing on Zimmermann's sensory channel estimates) matches policy-level selection — choosing "reach for the glass," not directing individual motor neurons.
 
-Honest gaps remain. Tegmark's original calculations placed neural coherence times at femtoseconds — a twelve-order-of-magnitude gap from conscious timescales. The most favourable revised estimates (Hagan et al. 2002) extend coherence to microseconds in microtubules, narrowing the gap to roughly three orders of magnitude from the millisecond timescales of neural competition. [Consciousness and Motor Selection](/topics/motor-control-quantum-zeno/) details how Stapp's mechanism requires observation events that outpace decoherence rather than sustained coherence — if each observation cycle operates at microsecond timescales, approximately 1,000 observations within a 300-millisecond decision window would suffice — but no concrete model yet demonstrates observation events occurring at the required rates. This remains the framework's most serious empirical vulnerability. See [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) for six proposed mechanisms addressing the quantum-to-macroscopic gap.
+Honest gaps remain. Tegmark's original calculations placed neural coherence times at femtoseconds — a twelve-order-of-magnitude gap from conscious timescales. The most favourable revised estimates (Hagan et al. 2002) extend coherence to microseconds in microtubules, narrowing the gap to roughly three orders of magnitude from the millisecond timescales of neural competition. [Consciousness and Motor Selection](/topics/motor-control-quantum-zeno/) details how Stapp's mechanism requires observation events that outpace decoherence rather than sustained coherence — if each observation cycle operates at microsecond timescales, approximately 1,000 observations within a 300-millisecond decision window would suffice — but no concrete model yet demonstrates observation events occurring at the required rates. This remains the framework's most serious empirical vulnerability. See [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) for six proposed mechanisms addressing the quantum-to-macroscopic gap. The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) frames Stapp's quantum Zeno proposal as a *proto-model* at the pre-Keplerian stage—a candidate specification awaiting the founding measurements that would convert it from speculative mechanism into inferable law—rather than a Newton-analogue theory awaiting refinement.
 
 A deeper concern: the quantum Zeno mechanism requires consciousness to perform rapid observations that prevent decoherence — but explaining how consciousness interacts with the physical is the very problem the mechanism is meant to address. This risks circularity. The chain's response is that Level Three is not self-standing in the way Levels One and Two are. It is a *candidate mechanism* — a proposal for how the selection gap identified at Level Two might be filled — rather than an independently established result. Its plausibility derives from the fit between what the phenomenology describes (sustained attentional effort), what the neural architecture requires (a selection mechanism), and what quantum mechanics permits (undetermined outcomes). The circularity is real but contained: the mechanism presupposes the kind of entity whose existence is argued for at the other three levels.
 

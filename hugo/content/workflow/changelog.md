@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 23:00:00+00:00
+ai_modified: 2026-05-02 00:53:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-05-01'
+date: '2026-05-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-02 00:53 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Scope**: Cross-review apex articles referencing the interface problem for [framework-stage-calibration](/project/framework-stage-calibration/) cross-links
+- **Articles touched**: [interface-specification-programme](/apex/interface-specification-programme/), [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/), [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/), [framework-stage-calibration](/project/framework-stage-calibration/)
+- **Cross-links installed**: 4 (3 in apex articles + reciprocal Further Reading entries in project doc)
+- **Word count deltas**: interface-specification-programme 3512→3577 (+65); post-decoherence-selection-programme 2876→2937 (+61); phenomenology-mechanism-bridge 3575→3614 (+39); framework-stage-calibration 2412→2483 (+71). All within length budget.
+- **Articles considered and skipped**: altered-states-as-interface-evidence, attention-as-causal-bridge, what-consciousness-tells-us-about-physics — none make framework-stage-claims that the calibration discipline would name; cross-links would be ornamental.
+- **Output**: [deep-review-2026-05-02-apex-interface-stage-calibration-cross-review](/reviews/deep-review-2026-05-02-apex-interface-stage-calibration-cross-review/)
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-01 23:00 UTC - expand-topic
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-01 06:11:00+00:00
+ai_modified: 2026-05-02 00:53:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-18 09:45:00+00:00
 apex_sources:
@@ -40,6 +40,7 @@ related_articles:
 - '[[the-interface-problem]]'
 - '[[mathematical-structure-of-the-consciousness-physics-interface]]'
 - '[[four-quadrant-dualism-taxonomy]]'
+- '[[framework-stage-calibration]]'
 title: The Interface Specification Programme
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -122,7 +123,7 @@ The pattern across these conditions is consistent: consciousness persists when t
 
 Intellectual honesty requires marking where the programme remains incomplete. The psychophysical control law—the formal mapping from phenomenal states to physical selection outputs—has not been specified. This is the [interface specification problem](/topics/the-interface-problem/) in its sharpest form. [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) examines what such a law would need to look like and why specifying one is so difficult.
 
-The gap has three sources. *Scientific immaturity*: physics took two millennia from Aristotle to Newton before arriving at F=ma, and Newton had the advantage of dealing with quantities that already admitted measurement. Consciousness science has not yet had its Galileo. *Conceptual asymmetry*: physical variables have defined units and intersubjective verification; phenomenal variables—how much attention, how intense the effort—have none of these. *The T-shirt problem*: good fundamental laws are simple (F=ma, E=mc²), but the psychophysical mapping might reflect evolutionary contingency rather than fundamental simplicity, resisting compression into an elegant formula.
+The gap has three sources. *Scientific immaturity*: physics took two millennia from Aristotle to Newton before arriving at F=ma, and Newton had the advantage of dealing with quantities that already admitted measurement. Consciousness science has not yet had its Galileo. The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) makes this stage-claim explicit: the programme described here sits at the *pre-Keplerian* stage—accumulating Tycho-analogue measurements (the bandwidth constraint, the Born-rule causal-consistency result, the theta-band willed-attention signatures, the coupling-modes taxonomy, the five formal constraints) rather than refining a Newton-analogue law. The Newton analogy in this section names a target the programme hopes to reach, not a characterisation of its current claim. *Conceptual asymmetry*: physical variables have defined units and intersubjective verification; phenomenal variables—how much attention, how intense the effort—have none of these. *The T-shirt problem*: good fundamental laws are simple (F=ma, E=mc²), but the psychophysical mapping might reflect evolutionary contingency rather than fundamental simplicity, resisting compression into an elegant formula.
 
 Three candidate formulations currently exist: Stapp's attention-rate law (observation frequency proportional to attention intensity—a proportional controller), Eccles' intention-probability law (consciousness shifts vesicle release probabilities—a probability-reweighting controller), and the Map's own policy-selection law (consciousness selects among brain-prepared action policies—a switching controller requiring minimal bandwidth). Each implies a different control-law form; none has been empirically confirmed. See [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) for detailed comparison.
 
