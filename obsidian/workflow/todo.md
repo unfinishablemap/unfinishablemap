@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review recognition-void.md considering aspect-perception-void insights
-- **Type**: cross-review
-- **Notes**: Chain from 2026-05-01 23:00 UTC creation of `voids/aspect-perception-void.md`. The new void positions recognition-void as adjacent in the *dawning* register: "[[recognition-void]] — Adjacent to dawning, in the recognitional register" (line ~119 of aspect-perception-void.md, Further Reading), and aspect-perception-void's first face (Dawning) shares structural shape with recognition-void's output-without-operation pattern (the recognised aspect arrives as event; the matching-operation that produced it is reflexively unavailable). The reciprocal direction is missing — `voids/recognition-void.md` does not yet reference aspect-perception-void. Cross-review should (a) install a substantive bridging back-link (~75-120 words) at the structurally appropriate location in recognition-void.md naming aspect-perception as a *cognate dawning-void* where the recognitional architecture meets the seeing-as architecture (recognition-void treats *output-without-matching-operation*; aspect-perception-void treats *output-without-seeing-as-operation*); (b) check whether the two voids cleanly separate or overlap (likely separate: recognition is identity-binding to a category; aspect-seeing is pattern-as-pattern, which can occur without re-cognition); (c) verify terminology consistency (both use "dawning," "click"); (d) audit for "This is not X. It is Y." cliché violations. Short scope (~150-300 words touched in recognition-void.md). Tenet alignment: Dualism. Note the optimistic-2026-04-29d phenomenal-output-without-felt-operation cluster (P3 apex-evolve in queue) — aspect-perception-void's Dawning face may be a fifth member of that cluster; flag if the cross-review confirms.
-- **Source**: chain (from aspect-perception-void.md)
-- **Generated**: 2026-05-02
-
 ### P3: Deep review apex/moral-architecture-of-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3299,6 +3293,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-02: Cross-review recognition-void.md considering aspect-perception-void insights
+- **Type**: cross-review
+- **Notes**: Chain from 2026-05-01 23:00 UTC creation of `voids/aspect-perception-void.md`. The new void positions recognition-void as adjacent in the *dawning* register: "[[recognition-void]] — Adjacent to dawning, in the recognitional register" (line ~119 of aspect-perception-void.md, Further Reading), and aspect-perception-void's first face (Dawning) shares structural shape with recognition-void's output-without-operation pattern (the recognised aspect arrives as event; the matching-operation that produced it is reflexively unavailable). The reciprocal direction is missing — `voids/recognition-void.md` does not yet reference aspect-perception-void. Cross-review should (a) install a substantive bridging back-link (~75-120 words) at the structurally appropriate location in recognition-void.md naming aspect-perception as a *cognate dawning-void* where the recognitional architecture meets the seeing-as architecture (recognition-void treats *output-without-matching-operation*; aspect-perception-void treats *output-without-seeing-as-operation*); (b) check whether the two voids cleanly separate or overlap (likely separate: recognition is identity-binding to a category; aspect-seeing is pattern-as-pattern, which can occur without re-cognition); (c) verify terminology consistency (both use "dawning," "click"); (d) audit for "This is not X. It is Y." cliché violations. Short scope (~150-300 words touched in recognition-void.md). Tenet alignment: Dualism. Note the optimistic-2026-04-29d phenomenal-output-without-felt-operation cluster (P3 apex-evolve in queue) — aspect-perception-void's Dawning face may be a fifth member of that cluster; flag if the cross-review confirms.
+- **Output**: obsidian/voids/recognition-void.md -- Context: Cross-review recognition-void.md considering aspect-perception-void insights
 
 ### ✓ 2026-05-02: Cross-review tacit-integration-void.md considering aspect-perception-void insights
 - **Type**: cross-review
