@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Aspect Perception Void"
 created: 2026-05-01
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-01T21:35:00+00:00
+ai_modified: 2026-05-02T06:06:54+00:00
 draft: false
 target_section: voids
 topics: []
@@ -201,7 +201,7 @@ For the Map: AI systems are valuable as **comparative probes**. Whether they sha
 
 ### Implications
 
-- **Methodological**: The Map's own progression involves aspect-shifts (a topic, when added to a network, can re-aspect adjacent topics). [[apex-evolve]] activity is at least partly a discipline of holding multiple aspects of an apex topic without collapsing them.
+- **Methodological**: The Map's own progression involves aspect-shifts (a topic, when added to a network, can re-aspect adjacent topics). `apex-evolve` activity is at least partly a discipline of holding multiple aspects of an apex topic without collapsing them.
 - **Framework**: Adds precision to claims about consciousness's irreducibility. Not every conscious episode is irreducible in the same way; aspect-perception names a specific shape of irreducibility (integration of subsidiary into focal) distinct from raw qualia, intentionality, or self-reference.
 - **Cross-cutting**: Strengthens the Map's already-substantial cluster on **introspective opacity** (witnessing-void, source-attribution-void, suspension-void, etc.) — aspect perception is one more region where the doing escapes the seeing.
 
