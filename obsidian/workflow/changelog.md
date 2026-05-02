@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-02T10:53:00+00:00
+ai_modified: 2026-05-02T12:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-02 12:54 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/conceptual-scheme-void]]
+- **Trigger**: Cross-review against [[voids/aspect-perception-void]] (published 2026-05-01) which positions itself as the perceptual-scale analogue of conceptual-scheme-void's framework-scale concerns
+- **Word count**: 2307 → 2335 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal acknowledgment of [[aspect-perception-void]] — established three-level reciprocity to match the sibling article's existing three-level link to this one)
+- **Enhancements made**: 1 frontmatter wikilink, 1 body sentence at the *Framework slippage* seam, 1 Further Reading entry; 2 compensating trims (vagueness-contrast redundant phrase, Nagel 1986 sentence)
+- **Bedrock preserved**: Davidson objection, MWI tangentiality, eliminativist-suspicion response, compact reflexivity treatment, three partial methods structure, four-candidate voids structure, medium-status cluster placement
+- **Output**: [[reviews/deep-review-2026-05-02-conceptual-scheme-void]]
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-02 10:53 UTC - refine-draft
 - **Status**: Success
