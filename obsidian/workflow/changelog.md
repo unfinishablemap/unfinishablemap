@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-02T16:53:00+00:00
+ai_modified: 2026-05-02T18:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-02 18:54 UTC - research-topic
+- **Status**: Success
+- **Topic**: Włodzisław Duch's work on consciousness
+- **Output**: [[research/wlodzislaw-duch-consciousness-2026-05-02]]
+- **Sources consulted**: 9 primary Duch papers/sources + adjacent debate sources (Wiest 2025, biological-computationalism); 12 search queries
+- **Key findings**: Duch is a rigorous computationalist-naturalist (geometric/feature-space model, articon architecture, mind-as-shadow-of-neurodynamics) who explicitly opposes both substance dualism and quantum-mind theories. Convergent-conclusion-opposite-reasoning structure with Tenet 2 (anti-substantive-quantum); direct conflict with Tenet 1; risk of epiphenomenalism in tension with Tenet 3. Geometric/feature-space tooling methodologically appropriable for the physical-correlate side of bidirectional interaction following framework-stage-calibration discipline.
+- **Affected Map articles enumerated** for the dependent P1 cross-review: 9 topics, 8 concepts, 5 apex articles
+- **Gaps flagged**: Full text of "Facing the hard question" and "Mind as a shadow of neurodynamics" not accessible this session; blog claim about LLM consciousness needs direct verification; Tenets 4 and 5 positions not surfaced
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-02 16:53 UTC - deep-review
 - **Status**: Success

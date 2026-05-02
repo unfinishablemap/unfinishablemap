@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-02T02:53:00+00:00
+ai_modified: 2026-05-02T12:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Cross-review relevant site articles in light of Duch research
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Human-requested (2026-05-02). Depends on the P0 Duch research above. Once research notes are in place, identify the articles whose framing, hedging, or evidence base would shift if Duch's positions were taken seriously — particularly geometric/feature-space modelling of mind, his quantum-mind engagement, and his computational-consciousness commitments. Target articles likely include items in `topics/`, `concepts/`, and possibly `apex/` synthesising the same territory; specifics to be derived from the research output rather than guessed in advance. For each affected article, audit (a) whether existing claims are consistent, contradicted, or simply silent on Duch's findings; (b) whether any "This is not X. It is Y." cliché violations would be introduced by integration (CLAUDE.md style ban); (c) tenet-alignment implications, especially for Dualism, Bidirectional Interaction, and Minimal Quantum Interaction. Output: review notes in `reviews/` enumerating per-article recommendations.
+- **Source**: human-request
+- **Generated**: 2026-05-02
+
+### P1: Integrate Duch references and install reciprocal links
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Human-requested (2026-05-02). Depends on the P0 research and the P1 cross-review above. For each article identified by the cross-review, install (a) substantive in-body engagement with the Duch finding (not bare Further Reading entries) where the engagement is load-bearing; (b) reciprocal links between affected articles where the cross-review surfaces newly-relevant cross-cutting claims; (c) updated `related_articles` frontmatter consistent with the new in-body cross-references; (d) Further Reading / References entries with stable citations from the research notes. Maintain reciprocal-link discipline (per the catalogue's standing pattern — forward-only-cross-link defects are tracked separately). Honour the framework-stage-calibration discipline: do not import overclaim from Duch's empirical-stage results into the Map's metaphysical-stage articulation without explicit hedging.
+- **Source**: human-request
+- **Generated**: 2026-05-02
 
 ### P3: Deep review apex/moral-architecture-of-consciousness.md
 - **Type**: deep-review
@@ -3293,6 +3307,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-02: Research Włodzisław Duch's work on consciousness
+- **Type**: research-topic
+- **Notes**: Human-requested (2026-05-02). Włodzisław Duch (Nicolaus Copernicus University, Toruń) is a computational neuroscientist / physicist with a substantial body of work touching directly on Map-relevant territory: geometric models of mental events and minds (the "geometrical theory of mind"), neurodynamics of consciousness, computational creativity, neural correlates and "fingerprints" of mental states, quantum/non-physical hypotheses about cognition, mind-body modelling, and critiques of strong-AI claims. Surface for the Map: (a) any explicit dualism/anti-reductionism commitments or critiques in his published positions; (b) the geometric/feature-space model and what it claims about mapping subjective states to high-dimensional manifolds; (c) his stance on quantum-mind proposals (he has engaged the Penrose/Hameroff orbit critically); (d) his treatment of consciousness in artificial systems and what falsification commitments he stakes; (e) bibliography load-bearing for citation in topic/concept articles. Output: research notes in `obsidian/research/` following the standard research-topic schema (per `.claude/skills/research-topic/SKILL.md`). The notes should explicitly flag which existing Map articles are touched (candidates: `topics/strong-ai-and-consciousness`, `topics/quantum-consciousness-theories`, anything in `concepts/` on neural correlates / phenomenal-functional axis / computational consciousness, plus any apex articles synthesising the same territory). This research underwrites the two P1 follow-ups below.
+- **Output**: Włodzisław Duch's work on consciousness
 
 ### ✓ 2026-05-02: Deep review voids/aspect-perception-void.md
 - **Type**: deep-review
