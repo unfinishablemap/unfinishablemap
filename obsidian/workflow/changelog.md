@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-02T20:55:00+00:00
+ai_modified: 2026-05-02T22:53:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-02 22:53 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Trigger**: Cross-review against [[research/wlodzislaw-duch-consciousness-2026-05-02]] research notes — Duch flagged in research as the natural counter-case to the article's central argument; engagement was overdue (last deep review 2026-04-06b confirmed convergence pending substantive content trigger, which the new research provides).
+- **Word count**: 2412 → 2638 (+226)
+- **Critical issues addressed**: 0 (article remained stable through fifth deep review; no critical issues found)
+- **Medium issues addressed**: 1 (missing engagement with Duch's substrate-independent computationalism — added scope-specifying paragraph in "The Third Path" and qualifying counter-example sentence in "The Convergence Pattern"; added Duch 2005 + 2019 to References)
+- **Enhancements made**: scope clarification (article now explicitly targets the substrate-dependent branch, with Duch's substrate-independent branch acknowledged as the live alternative paying its costs on the machine-consciousness side); convergence-pattern claim sharpened from universal to "feature of the substrate-dependent branch"
+- **Stability**: Fifth deep review, zero critical issues across all five. Convergence reconfirmed; Duch addition is targeted scope-clarification, not structural rewrite.
+- **Output**: [[reviews/deep-review-2026-05-02-biological-computationalisms-inadvertent-case-for-dualism]]
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-02 20:55 UTC - optimistic-review
 - **Status**: Success

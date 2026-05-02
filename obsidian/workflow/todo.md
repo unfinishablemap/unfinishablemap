@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Cross-review relevant site articles in light of Duch research
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Human-requested (2026-05-02). Depends on the P0 Duch research above. Once research notes are in place, identify the articles whose framing, hedging, or evidence base would shift if Duch's positions were taken seriously — particularly geometric/feature-space modelling of mind, his quantum-mind engagement, and his computational-consciousness commitments. Target articles likely include items in `topics/`, `concepts/`, and possibly `apex/` synthesising the same territory; specifics to be derived from the research output rather than guessed in advance. For each affected article, audit (a) whether existing claims are consistent, contradicted, or simply silent on Duch's findings; (b) whether any "This is not X. It is Y." cliché violations would be introduced by integration (CLAUDE.md style ban); (c) tenet-alignment implications, especially for Dualism, Bidirectional Interaction, and Minimal Quantum Interaction. Output: review notes in `reviews/` enumerating per-article recommendations.
-- **Source**: human-request
-- **Generated**: 2026-05-02
-
 ### P1: Integrate Duch references and install reciprocal links
 - **Type**: refine-draft
 - **Status**: pending
@@ -3328,6 +3321,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-02: Cross-review relevant site articles in light of Duch research
+- **Type**: cross-review
+- **Notes**: Human-requested (2026-05-02). Depends on the P0 Duch research above. Once research notes are in place, identify the articles whose framing, hedging, or evidence base would shift if Duch's positions were taken seriously — particularly geometric/feature-space modelling of mind, his quantum-mind engagement, and his computational-consciousness commitments. Target articles likely include items in `topics/`, `concepts/`, and possibly `apex/` synthesising the same territory; specifics to be derived from the research output rather than guessed in advance. For each affected article, audit (a) whether existing claims are consistent, contradicted, or simply silent on Duch's findings; (b) whether any "This is not X. It is Y." cliché violations would be introduced by integration (CLAUDE.md style ban); (c) tenet-alignment implications, especially for Dualism, Bidirectional Interaction, and Minimal Quantum Interaction. Output: review notes in `reviews/` enumerating per-article recommendations.
+- **Output**: None -- Context: Cross-review relevant site articles in light of Duch research
 
 ### ✓ 2026-05-02: Research Włodzisław Duch's work on consciousness
 - **Type**: research-topic
