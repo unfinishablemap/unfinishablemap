@@ -1,13 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-02 10:53:00+00:00
+ai_modified: 2026-05-02 14:53:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-02 14:53 UTC - deep-review
+- **Status**: Success (stability confirmation)
+- **File**: [phenomenal-overflow](/concepts/phenomenal-overflow/)
+- **Word count**: 1937 → 1937 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Trigger**: Selected by candidate scorer (38 days since last review). Fourth deep review of the article.
+- **Outcome**: No critical, medium, or low issues found. Two commits since 2026-03-25 were mechanical (wikilink retarget pre-conceptual-knowing → acquaintance-void; reciprocal Further Reading entry to consciousness-epistemology-extended-cognition). Article remains stable across all six pessimistic personas; bedrock disagreements catalogued in prior reviews unchanged.
+- **Output**: [deep-review-2026-05-02-phenomenal-overflow](/reviews/deep-review-2026-05-02-phenomenal-overflow/)
+- **Uncommitted per task brief** (automation system handles commit).
+
+## 2026-05-02 12:54 UTC - deep-review
+- **Status**: Success
+- **File**: [conceptual-scheme-void](/voids/conceptual-scheme-void/)
+- **Trigger**: Cross-review against [aspect-perception-void](/voids/aspect-perception-void/) (published 2026-05-01) which positions itself as the perceptual-scale analogue of conceptual-scheme-void's framework-scale concerns
+- **Word count**: 2307 → 2335 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal acknowledgment of [aspect-perception-void](/voids/aspect-perception-void/) — established three-level reciprocity to match the sibling article's existing three-level link to this one)
+- **Enhancements made**: 1 frontmatter wikilink, 1 body sentence at the *Framework slippage* seam, 1 Further Reading entry; 2 compensating trims (vagueness-contrast redundant phrase, Nagel 1986 sentence)
+- **Bedrock preserved**: Davidson objection, MWI tangentiality, eliminativist-suspicion response, compact reflexivity treatment, three partial methods structure, four-candidate voids structure, medium-status cluster placement
+- **Output**: [deep-review-2026-05-02-conceptual-scheme-void](/reviews/deep-review-2026-05-02-conceptual-scheme-void/)
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-02 10:53 UTC - refine-draft
 - **Status**: Success

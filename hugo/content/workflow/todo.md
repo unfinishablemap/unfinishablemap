@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review conceptual-scheme-void.md considering aspect-perception-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-05-01 23:00 UTC creation of `voids/aspect-perception-void.md`. The new void lists `[conceptual-scheme-void](/voids/conceptual-scheme-void/)` as a sibling void in its `related_articles` frontmatter — the seeing-as operation is concept-loaded (Wittgenstein's duck-rabbit requires possession of the duck-concept and the rabbit-concept to switch), so aspect-perception-void's third face (Constitution) leans on the conceptual-scheme territory the older void already maps. The reciprocal direction is missing — `voids/conceptual-scheme-void.md` does not yet reference aspect-perception-void in body or frontmatter (verified by grep). Cross-review should (a) install a substantive bridging back-link (~75–120 words) at the structurally appropriate location in conceptual-scheme-void.md naming aspect-perception-void as a *worked instance* of conceptual-scheme effects becoming empirically observable at the perception-cognition seam (where the scheme determines what aspect can be seen at all — Kuhn's paradigm-as-gestalt extension is the connector); (b) check whether the two voids cleanly separate (conceptual-scheme = system-of-categories opacity; aspect-perception = seeing-as integration opacity) or whether aspect-perception extends the medium-status-voids cluster the conceptual-scheme-void already sits in; (c) verify terminology consistency; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Short scope (~150–300 words touched in conceptual-scheme-void.md). Tenet alignment: Dualism + Occam's Razor Has Limits.
-- **Source**: chain (from aspect-perception-void.md creation)
-- **Generated**: 2026-05-02
-
 ### P2: Deep review voids/aspect-perception-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3308,6 +3301,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-02: Cross-review conceptual-scheme-void.md considering aspect-perception-void insights
+- **Type**: cross-review
+- **Notes**: Chain from 2026-05-01 23:00 UTC creation of `voids/aspect-perception-void.md`. The new void lists `[conceptual-scheme-void](/voids/conceptual-scheme-void/)` as a sibling void in its `related_articles` frontmatter — the seeing-as operation is concept-loaded (Wittgenstein's duck-rabbit requires possession of the duck-concept and the rabbit-concept to switch), so aspect-perception-void's third face (Constitution) leans on the conceptual-scheme territory the older void already maps. The reciprocal direction is missing — `voids/conceptual-scheme-void.md` does not yet reference aspect-perception-void in body or frontmatter (verified by grep). Cross-review should (a) install a substantive bridging back-link (~75–120 words) at the structurally appropriate location in conceptual-scheme-void.md naming aspect-perception-void as a *worked instance* of conceptual-scheme effects becoming empirically observable at the perception-cognition seam (where the scheme determines what aspect can be seen at all — Kuhn's paradigm-as-gestalt extension is the connector); (b) check whether the two voids cleanly separate (conceptual-scheme = system-of-categories opacity; aspect-perception = seeing-as integration opacity) or whether aspect-perception extends the medium-status-voids cluster the conceptual-scheme-void already sits in; (c) verify terminology consistency; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Short scope (~150–300 words touched in conceptual-scheme-void.md). Tenet alignment: Dualism + Occam's Razor Has Limits.
+- **Output**: obsidian/voids/conceptual-scheme-void.md -- Context: Cross-review conceptual-scheme-void.md considering aspect-perception-void insights
 
 ### ✓ 2026-05-02: Address pessimistic-review findings in voids/recognition-void.md
 - **Type**: refine-draft

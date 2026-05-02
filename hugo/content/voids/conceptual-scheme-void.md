@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-04-30 15:18:00+00:00
+ai_modified: 2026-05-02 12:54:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -13,14 +13,14 @@ concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 created: 2026-02-20
-date: &id001 2026-04-30
+date: &id001 2026-05-02
 description: Every mind operates with a finite system of categories and inferential
   patterns that constitutes thought, excludes what it cannot represent, and cannot
   be audited from within.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 12:33:00+00:00
+last_deep_review: 2026-05-02 12:54:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -49,6 +49,7 @@ related_articles:
 - '[[transformative-experience-void]]'
 - '[[question-formation-void]]'
 - '[[vagueness-void]]'
+- '[[aspect-perception-void]]'
 title: The Conceptual Scheme Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -83,7 +84,7 @@ A categorial gap also resists acquisition. The [language-thought boundary](/void
 
 **Against the [language-thought boundary](/voids/language-thought-boundary/).** That boundary can be felt — one senses content resisting articulation. The scheme void typically produces no such signal: the framework feels like transparent access to truth; the walls of the prison are made of the same material as the air inside.
 
-**Against the [vagueness void](/voids/vagueness-void/).** That void operates *within* any scheme: every concept the scheme deploys admits borderline cases the scheme cannot resolve from inside, regardless of which categorial apparatus it uses. The scheme void operates *between* schemes, or at the level of the apparatus as a whole, where the inventory may lack shapes for features reality permits. Vagueness is the limit internal to any framework; the scheme void marks the framework's outer edge.
+**Against the [vagueness void](/voids/vagueness-void/).** That void operates *within* any scheme: every concept the scheme deploys admits borderline cases the scheme cannot resolve from inside. The scheme void operates *between* schemes, or at the level of the apparatus as a whole, where the inventory may lack shapes for features reality permits. Vagueness is the limit internal to any framework; the scheme void marks the framework's outer edge.
 
 ## Candidate Voids
 
@@ -91,7 +92,7 @@ Each candidate is offered as *a place the void might lie*, not a proven instance
 
 **The phenomenal-physical shape.** The hard problem persists partly because no categorial schema unifies the two sides. The physical-object category gives structure, causal role, location; the phenomenal category gives what-it-is-likeness, perspectival character, felt quality. No available schema treats both as aspects of one kind. Persistent failure across functionalism, identity theories, panpsychism, and Russellian monism may be evidence that the required shape is not among those our minds can produce.
 
-**Other minds and the view from nowhere.** Nagel (1974) argued we cannot form the concept of *what it is like to be a bat* because it would require acquaintance with phenomenal features human cognition cannot host — a candidate categorial limit, not a missing concept. Nagel (1986) extended this to a fully objective viewpoint: it would require a category representing reality apart from any perspective, including our own.
+**Other minds and the view from nowhere.** Nagel (1974) argued we cannot form the concept of *what it is like to be a bat* because it would require acquaintance with phenomenal features human cognition cannot host — a candidate categorial limit, not a missing concept. Nagel (1986) extended this to the view from nowhere: a category representing reality apart from any perspective.
 
 **Experience structured by apparatus we do not possess.** Our categories of *space*, *object*, and *action* are built from the invariance structure of human perception (Sonesson, 2020). A being with radically different sensors or embodiment might operate with categorial shapes our apparatus cannot instantiate — testable rather than settled, per [non-human minds as void-explorers](/voids/non-human-minds-as-void-explorers/).
 
@@ -105,7 +106,7 @@ Kant held the categorial apparatus he catalogued was *determinate* — fixed, un
 
 ## Phenomenology and Approaches to the Edge
 
-The [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) describes vertigo at most void boundaries; the scheme void more often produces *false clarity* — a confident sense one understands the alternative framework when one has only translated it. Encountering an incommensurable framework typically registers not as wonder but as irritation — the framework protecting its coherence by treating alien frameworks as errors ([self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) asks whether this protection is structural or whether consciousness has a *stake* in its current framework). *Framework slippage* — reading a text from a radically different tradition producing a brief, disorienting moment where one's own framework becomes visible as a framework — is the strongest first-person signature, before transparency reasserts.
+The [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) describes vertigo at most void boundaries; the scheme void more often produces *false clarity* — a confident sense one understands the alternative framework when one has only translated it. Encountering an incommensurable framework typically registers not as wonder but as irritation — the framework protecting its coherence by treating alien frameworks as errors ([self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) asks whether this protection is structural or whether consciousness has a *stake* in its current framework). *Framework slippage* — reading a text from a radically different tradition producing a brief, disorienting moment where one's own framework becomes visible as a framework — is the strongest first-person signature, before transparency reasserts. The [aspect-dawning](/voids/aspect-perception-void/) of a gestalt-switch is the perceptual-scale sibling: in both, the endpoints are reportable but the transition cannot be inspected from inside the shift.
 
 Davidson's translatability challenge may not reach the level the void operates at: not beliefs, but what counts as a belief, what questions seem meaningful, and what forms an explanation can take. Three partial methods remain.
 
@@ -141,6 +142,7 @@ The Map is unfinishable not merely because the territory is vast, but because ev
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — How to reason about cognitive limits without a view from outside
 - [apophatic-cartography](/voids/apophatic-cartography/) — The method of tracing scheme limits through structured negation
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether AI and alien minds can transcend human scheme limits
+- [aspect-perception-void](/voids/aspect-perception-void/) — Perceptual-scale sibling: the void around aspect-dawning, aspect-blindness, and the integration that constitutes seeing-as
 
 ## References
 
