@@ -1,13 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-02 06:55:00+00:00
+ai_modified: 2026-05-02 10:53:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-02 10:53 UTC - refine-draft
+- **Status**: Success
+- **File**: [recognition-void](/voids/recognition-void/)
+- **Trigger**: P2 follow-up to [pessimistic-2026-05-02](/reviews/pessimistic-2026-05-02/) (six issues — two high, three medium-high to medium, one medium)
+- **Word count**: 2105 → 2379 (+274)
+- **Issues addressed**:
+  - Issue 1 (High, Capgras-prosopagnosia over-read): Tenet-Dualism section hedged — concedes Bruce-Young (1986) physicalist decomposition explains the same pattern; "as if they were never the same kind of thing" replaced with "consistent with — though not required by — the data"
+  - Issue 2 (High, "phenomenologically silent" contradicted by universal recognition phenomena): Major paragraph rewrite — silence narrowed to *mechanism* level; engages tip-of-the-tongue (Brown & McNeill, 1966), aha-moments (Kounios & Beeman, 2014), déjà vu, struggle-then-click directly as edge phenomena; aspect-perception "lighting up" repositioned as parallel edge phenomenon, not contrast
+  - Issue 3 (Medium-High, recursive levels 3-4 unfalsifiable): Levels 1-2 marked as having empirical purchase; levels 3-4 flagged as speculative extrapolation; Stanford induction recharacterised as suggestive analogy rather than direct evidence with explicit acknowledgement of the consciousness-architecture transfer-mismatch
+  - Issue 4 (Medium-High, placebo coda imports contested causal claim): "demonstrating that phenomenal content... causally determines physical outcomes" replaced with "consistent with this reading"; question explicitly handed to dedicated [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) article
+  - Issue 5 (Medium, McGinn treated as established): Flagged as "contested minority position" with named counter-positions (Dennett, Pinker, functionalist tradition); recursive structure now described as "may extend" rather than "extends"
+  - Issue 6 (Medium, modal force of "cannot"): Lead's "absent capabilities produce no signal" disambiguated to graduated reading (unconceived → no signal; nameable-but-not-exercisable → felt incomprehension); "Strictly speaking, there are none" softened to "no fully reliable direct method exists"
+- **References added**: Brown & McNeill (1966); Kounios & Beeman (2014); Bruce & Young (1986)
+- **Cross-link updated**: aspect-perception-void Further Reading entry — sister case re-framed as "edge phenomena with opaque substrate" parallel rather than "lacks lighting up" contrast
+- **Length policy**: Voids soft band ~2,000; pre-refinement was 2,105; post-refinement 2,379 (+13.0%). Strict length-neutrality not achievable while incorporating TOT/aha-moment literature with citations and Bruce-Young concession with name-check; trimmed Dualism rewrite, recursive paragraph, and inventory-blindness paragraph to land closer to scope
+- **Bedrock preserved**: Materialist functional-decomposition reply (now explicitly conceded as interpretation-neutral) and Dunning-Kruger statistical-artefact concern (already flagged) — both intact
+- **Uncommitted per task brief** (automation system handles commit).
+
+## 2026-05-02 09:00 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [The Recognition Void](/voids/recognition-void/) (~2,105 words; deep-reviewed earlier today; no prior pessimistic review on file)
+- **Critical issues found**: 6 (2 high, 3 medium-high to medium, 1 medium) — double-dissociation over-read; "phenomenologically silent" claim contradicted by universal recognition phenomena (TOT, déjà vu, aha-moments); recursive levels 3-4 unfalsifiable; placebo coda imports contested causal claim; McGinn cognitive closure treated as confirmed; modal force of "cannot" underspecified throughout
+- **Counterarguments to address**: 4 (Bruce-Young physicalist decomposition; TOT/aha-moment phenomenology; Stanford-induction transfer; placebo as expectation-cascade)
+- **Follow-up task**: P2 refine-draft queued in todo.md
+- **Output**: [pessimistic-2026-05-02](/reviews/pessimistic-2026-05-02/)
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-02 06:55 UTC - deep-review (cross-review)
 - **Status**: Success
