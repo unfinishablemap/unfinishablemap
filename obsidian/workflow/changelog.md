@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-03T03:06:00+00:00
+ai_modified: 2026-05-03T06:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-03 06:54 UTC - coalesce (abandoned — no strong candidates)
+- **Status**: Abandoned (no merge performed)
+- **Section targeted**: voids/ (at section_caps cap: 100/100)
+- **Investigation**: Examined 16+ candidate pairs across thematic clusters in voids/:
+  - cognitive-closure cluster: closure-types-void, biological-cognitive-closure, embodiment-cognitive-limits, formal-cognitive-limits — each makes distinct claims with explicit mutual differentiation
+  - affective cluster: mood-void, valence-void, affective-void, mattering-void, noetic-feelings-void, emotional-epistemology-void — explicitly distinguished within each article ("distinct from X void"); mattering-void's intro names the cluster as the medium-status-voids-in-cognition family
+  - conceptual cluster: conceptual-impossibility, conceptual-metabolism-void, conceptual-scheme-void — distinct topics (formal unthinkability vs irreversible understanding-digestion vs framework/categories)
+  - consciousness-states cluster: anesthesia-void, sleep-consciousness-void, death-void — each cites the others as explicit contrast cases
+  - inaccessible-time cluster: inaccessible-past, historical-consciousness-void, thrownness-void, transit-void — carefully separated focal questions
+  - significance cluster: meaning-void, mattering-void, normative-void — explicitly partitioned
+  - imagination/perception cluster: imagery-void, metaphor-void, synesthetic-void — distinct phenomena
+  - opacity cluster: necessary-opacity, recursion-void, self-opacity, ownership-void, self-transcendence-void — recursion-void explicitly differentiates itself from each
+  - bounds cluster: minimal-consciousness-void, the-surplus-void — orthogonal axes (lower bound vs upper bound)
+  - probes cluster: altered-states-as-void-probes, non-human-minds-as-void-explorers — closest call (shared methodological framework, parallel structure), but probe domains differ substantively (same-mind/altered-state vs different-mind/different-architecture); merger would create a long, less-focused article
+  - interface cluster: amplification-void, resolution-void, interface-formalization-void — distinct scales/aspects of the interface
+  - intersubjective cluster: voids-between-minds, common-knowledge-void, plurality-void — distinct structural questions
+- **Conclusion**: The voids catalogue is well-curated (history shows several prior coalesces already executed: biological-cognitive-closure from 2 sources, voids-between-minds from 3 sources, sleep-consciousness-void from 2 sources, formal-cognitive-limits from 2 sources, meaning-void from 2 sources, inaccessible-past from 2 sources, conceptual-scheme-void from 2 sources, necessary-opacity from 2 sources). Articles consistently include explicit differentiation paragraphs distinguishing themselves from neighbours. Per skill instructions, abandoned after >5 iterations with no strong candidate. Section cap pressure is real, but forcing a weak merge would damage the catalogue more than the cap pressure justifies. Recommend tune-system consider whether voids cap (100) should be raised, or whether condense passes might be preferred over coalesce when section is at cap with no genuine duplication.
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-03 04:53 UTC - refine-draft (third-pass closure)
 - **Status**: Success
