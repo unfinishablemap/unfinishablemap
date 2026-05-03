@@ -4,7 +4,7 @@ description: "Dualism opens intellectual territory materialism forecloses. Epist
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-15T16:51:00+00:00
+ai_modified: 2026-05-03T03:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,12 +34,12 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-26T01:31:00+00:00
+last_deep_review: 2026-05-03T03:06:00+00:00
 ---
 
 Dualism opens intellectual territory that materialism forecloses by assumption. If mind is reducible to matter, certain possibilities cannot arise—certain questions become meaningless, certain risks invisible. But if mind is irreducible, the space of what might be true expands dramatically. This epistemic openness is a feature, not a bug. When confronting the deepest questions about consciousness and value, epistemically humble positions favor taking dualism seriously—even if unproven—precisely because it keeps more possibilities on the table.
 
-This argument doesn't claim dualism is true. It claims that treating dualism as a live option is the epistemically responsible stance given our ignorance about consciousness.
+The claim here is narrower than dualism's truth: treating dualism as a live option is the epistemically responsible stance given our ignorance about consciousness.
 
 ## The Closing Move of Materialism
 
@@ -125,7 +125,7 @@ This framework reframes the epistemic argument in several ways:
 
 **Openness as constitutive.** For Whitehead, creativity—the arising of genuinely new actualities—is the ultimate category. A metaphysics that closes possibilities in advance restricts creativity itself. Materialism's foreclosure isn't just epistemically premature; it misunderstands the creative advance of nature. Dualism's openness better reflects reality's character as ongoing creation.
 
-**Experience as fundamental.** Process philosophy treats experience as intrinsic to events at all scales—not as an emergent add-on to fundamentally non-experiential matter. This isn't panpsychism as usually conceived but recognition that the "physical" is an abstraction from experiential reality. The epistemic advantage of dualism—keeping experiential facts on the table—aligns with treating experience as ontologically fundamental rather than derivative.
+**Experience as fundamental.** Process philosophy treats experience as intrinsic to events at all scales—not as an emergent add-on to fundamentally non-experiential matter. This view differs from standard panpsychism: the "physical" is itself an abstraction from experiential reality. The epistemic advantage of dualism—keeping experiential facts on the table—aligns with treating experience as ontologically fundamental rather than derivative.
 
 **Limits as structure.** Whitehead's insight that each actual occasion achieves definiteness by excluding infinite alternatives connects to [[mysterianism|cognitive closure]]. Our cognitive architecture—a specific pattern of how experiences constitute themselves—enables some thoughts while excluding others. The epistemic humility argument gains depth: we should expect limits on what we can think, and those limits counsel openness about what lies beyond them.
 
