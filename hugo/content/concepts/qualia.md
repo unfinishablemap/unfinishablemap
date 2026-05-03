@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-04-29 23:40:00+00:00
+ai_modified: 2026-05-03 01:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -44,6 +44,7 @@ related_articles:
 - '[[concepts/materialism]]'
 - '[[concepts/functionalism]]'
 - '[[emotion-and-dualism]]'
+- '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
 title: Qualia
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -152,6 +153,8 @@ Further, the seeming has specific character that needs explaining: *why* does qu
 
 But functionalism struggles with inverted qualia: if two beings can be functionally identical yet have different qualitative experiences, qualia are not captured by functional role. Block's "absent qualia" objection sharpens the point: imagine China's population organized to replicate a brain's functional organization, each person playing a neuron's role. Would there be something it's like to be China? The intuition that there would not—that the system would lack inner life—suggests consciousness requires more than functional structure. See [functionalism](/concepts/functionalism/) for detailed treatment.
 
+A specific functionalist-deflationary position deserves separate engagement. Włodzisław Duch (2005) argues that *qualia are inseparable from perception and action* — that the felt qualities of experience reduce to non-verbal discriminations among internal working-memory states, and that an articon-style architecture with self-reflective dynamical access to its own states therefore "experiences different qualities of internal states." This is structuralism about qualia at its most rigorous: qualitative character is exhausted by structural-relational features the architecture instantiates. The objection cuts especially against the *intrinsic* property above — Duch denies qualia have any intrinsic-non-relational dimension to begin with. The Map's reply is that the structuralist reduction succeeds at predicting *which* discriminations a conscious system reports while leaving the *felt* difference between e.g. red-experience and the absence of red-experience entirely unexplained — exactly the residue Mary's Room and the inverted-spectrum scenarios identify. The disagreement is a productive bedrock-clash; the engagement is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
+
 ## The Phenomenal Concepts Strategy
 
 The [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) locates the explanatory gap in our *concepts* rather than in reality. When we introspect qualia, we use phenomenal concepts that present experience from the inside; physical concepts present the same properties from the outside. The gap would thus be conceptual, not ontological—like knowing everything about the morning star without realizing it's the evening star.
@@ -231,6 +234,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [affective-void](/voids/affective-void/) - Emotions and affects beyond human phenomenological reach
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories for what AI phenomenal experience could be, including alien qualia with no human analogue
 - [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/) — Why qualitative character resists functional extension into notebooks and tools, marking the boundary where parity arguments break down
+- [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — Duch's structuralist-functional position on qualia (qualia inseparable from perception and action) as a competent functionalist-deflationary alternative
 
 **Background:**
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) - Lucid dream control as evidence that qualia are causally efficacious, not epiphenomenal
@@ -253,6 +257,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*.
 1. Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). The Knowledge Argument (Mary's Room). *The Unfinishable Map*. https://unfinishablemap.org/concepts/knowledge-argument/
+1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 
 <!-- AI REFINEMENT LOG - 2026-03-19
 Changes made:

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-30 19:21:00+00:00
+ai_modified: 2026-05-03 01:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,6 +32,7 @@ related_articles:
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[causal-closure]]'
 - '[[terminal-lucidity-and-filter-transmission-theory]]'
+- '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
 title: Quantum Biology and Neural Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -167,6 +168,12 @@ The convergence of quantum biology evidence connects to all five of the Map's [t
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The assumption that warm biology must be classical seemed parsimonious. Nature proved otherwise. The same caution applies to dismissing neural quantum effects: apparent implausibility may reflect ignorance rather than nature's constraints.
 
+## The External Critic: Duch's Classical-Computational Alternative
+
+The article's central claim — that the burden has shifted toward neural systems specifically exploiting quantum effects — must engage the strongest competent dissent. Włodzisław Duch (Duch 2005, 2019) argues that brain dynamics require *differentiation* across regions and timescales rather than the global synchronisation quantum-coherence proposals require, that decoherence timescales (per Tegmark) make sustained quantum effects implausible at biological temperatures, and that classical-computational self-reflective dynamical access ("mind as a shadow of neurodynamics") suffices to ground consciousness without any quantum role. On Duch's reading, the quantum-biology evidence surveyed above demonstrates only that *some* biological systems (cryptochrome, photosynthesis, enzyme catalysis) exploit quantum effects for *specific molecular tasks* — not that neural tissue does so for consciousness, and not that consciousness requires the quantum interface at all.
+
+Two structural responses follow. *First*, the convergent-conclusion-opposite-reasoning structure with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet must be kept distinct: the Map and Duch *converge* against Penrose-Hameroff-scale macroscopic-coherence proposals while *diverging* on whether the *minimal* interface (post-decoherence selection within Born statistics) is required. This article's evidence base is consistent with both readings — discrete-event mechanisms (Stapp's Zeno; Fisher's Posner; ion channel tunnelling) survive Duch's anti-coherence arguments, while sustained-coherence Orch-OR-style proposals do not. *Second*, the framework-stage-calibration discipline (per [framework-stage-calibration](/project/framework-stage-calibration/)) is the right anchor for the disagreement: the article's evidence converges *Tycho-analogue measurements* (the bandwidth, the willed-attention signatures, the cryptochrome biological precedent) without yet delivering a *Kepler-analogue specification law*. Duch's confidence that no such law will be forthcoming is itself a stage-calibrated bet, just one running in the opposite direction. The detailed engagement is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
+
 ## Further Reading
 
 - [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — Established quantum effects in living systems and five proposed mechanisms for neural quantum effects
@@ -183,6 +190,7 @@ The convergence of quantum biology evidence connects to all five of the Map's [t
 - [causal-closure](/concepts/causal-closure/) — Why causal closure is not absolute at quantum indeterminacies
 - [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
 - [tenets](/tenets/) — The Map's foundational commitments
+- [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The strongest competent classical-computational dissent against the article's central claim
 
 ## References
 
@@ -206,3 +214,5 @@ The convergence of quantum biology evidence connects to all five of the Map's [t
 18. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 19. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
 20. Xu, J., et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
+21. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
+22. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/

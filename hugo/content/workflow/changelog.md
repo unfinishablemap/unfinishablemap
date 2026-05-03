@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-02 22:53:00+00:00
+ai_modified: 2026-05-03 03:06:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-05-02'
+date: '2026-05-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-03 03:06 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
+- **Word count**: 3086 → 3082 (-4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (LLM cliché patterns flagged by writing-style guide)
+- **Enhancements made**: 2 (length-neutral rephrasings)
+- **Output**: [deep-review-2026-05-03-epistemic-advantages-of-dualism](/reviews/deep-review-2026-05-03-epistemic-advantages-of-dualism/)
+- **Stability**: Fifth deep review; article remains stable. No new substantive issues; only style-guide compliance touch-ups.
+
+## 2026-05-03 00:53 UTC - refine-draft (Duch integration chain)
+- **Status**: Success
+- **Trigger**: Human-requested P1 task — install substantive in-body engagement with the Duch research notes ([wlodzislaw-duch-consciousness-2026-05-02](/research/wlodzislaw-duch-consciousness-2026-05-02/)) across the 22 articles enumerated by the cross-review.
+- **Articles modified**: 14 articles + research dossier (reciprocal links and integration log)
+  - **Topics (6)**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) (added "External Critic: Duch's Classical-Computational Alternative" section, ~250 words); [machine-consciousness](/topics/machine-consciousness/) (added "The Articon Counter-Case" section, ~200 words); [ai-consciousness](/topics/ai-consciousness/) (added "The Strongest Affirmative Position: Duch's Articon" section, ~200 words); [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) (added "The External Critic" section, ~250 words); [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) (added Duch as high-water mark of mind-as-shadow weak-emergence in Weak Emergence subsection, ~150 words)
+  - **Concepts (5)**: [biological-computationalism](/concepts/biological-computationalism/) (added Duch substrate-independent paragraph in Historical Context, ~180 words); [quantum-consciousness](/concepts/quantum-consciousness/) (added "Convergent Critic" section, ~250 words); [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) (added "Borrowed Tooling" subsection in Interface Question, ~250 words); [qualia](/concepts/qualia/) (added Duch structuralist-functional paragraph in Functionalist Challenge, ~180 words); [self-and-self-consciousness](/concepts/self-and-self-consciousness/) (added Duch self-reflection thesis paragraph after HOT discussion, ~200 words)
+  - **Apex (4)**: [machine-question](/apex/machine-question/) (added Duch programme paragraph as third programme in Functionalist Gambit, ~180 words); [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) (added "The Strongest Affirmative Side" section, ~250 words); [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/) (added "Borrowed Intermediate-Level Description" subsection in Level Two, ~200 words); [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) (added "Rival Programme" section, ~250 words)
+- **Reciprocal links installed**: Each modified article gained `related_articles` entry to research dossier; research dossier gained `related_articles` listing all 16 reciprocally-linked articles plus integration-status section enumerating engagement scope and rationale for deferred articles.
+- **Further Reading entries added**: 14 articles received Duch dossier entry in Further Reading; 14 articles received Duch 2005 / 2019 / 1998 / 2022 / 1996 References entries appropriate to engagement scope.
+- **Framework-stage-calibration discipline honoured**: Duch's empirical-stage geometric/feature-space tooling explicitly appropriated only at the empirical-stage layer (NCC, phenomenology-mechanism-bridge); Duch's metaphysical-stage thesis (mind as shadow / substrate-independent computationalism) explicitly distinguished from the Map's metaphysical-stage articulation throughout. Convergent-conclusion-opposite-reasoning structure with Tenet 2 preserved as the load-bearing distinction in every quantum-side article.
+- **Articles deferred** (engagement would be ornamental or duplicative; documented in research dossier integration-status section): hard-problem-of-consciousness, emergence-as-universal-hard-problem, phenomenology-of-imagination, symbol-grounding-problem, adaptive-computational-depth, inverted-qualia, what-it-might-be-like-to-be-an-ai.
+- **Phase 2 dependencies preserved**: Direct verification of Duch's reportedly extended LLM-consciousness blog statements still required before peer-reviewed-position citation; full text of "Facing the hard question" and "Mind as a shadow of neurodynamics" still required before citation-load-bearing use of those specific texts.
+- **Output**: 15 file modifications across topics/, concepts/, apex/, research/.
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-02 22:53 UTC - deep-review
 - **Status**: Success

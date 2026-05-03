@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-04-30 19:21:00+00:00
+ai_modified: 2026-05-03 00:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -39,6 +39,7 @@ related_articles:
 - '[[decoherence-and-macroscopic-superposition]]'
 - '[[amplification-void]]'
 - '[[post-decoherence-selection-programme]]'
+- '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
 title: Quantum Consciousness Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -168,6 +169,12 @@ Quantum entanglement is different—entangled systems form genuinely unified who
 
 These proposals are contested but engage real physics.
 
+## A Convergent Critic: Duch's Classical-Computational Alternative
+
+Włodzisław Duch — quantum-physicist-turned-cognitive-scientist — is the strongest competent critic of substantive quantum-mind proposals at the Penrose-Hameroff scale. Duch (2005, 2019) argues that brain processing requires *differentiation* across regions and timescales rather than the global synchronisation quantum-coherence proposals require, that decoherence timescales make sustained quantum effects implausible at biological temperatures (with Tegmark 2000 as his anchor), and that quantum proposals function as "pseudo-mysticism" — using exotic physics to fill explanatory gaps a classical-computational model can already fill via self-reflective dynamical access. His positive view (consciousness as the "shadow" of neurodynamics, articon-style architectures sufficient in principle) is a classical-computational alternative.
+
+The relationship to the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is structurally subtle: it is a *convergent-conclusion-opposite-reasoning* relationship. Duch and the Map agree that *substantive* quantum-mind proposals at Orch-OR-style macroscopic scale face severe obstacles. They part ways at the *minimal* interface — Duch wants zero quantum role for consciousness on the grounds that classical-computational dynamical access suffices; the Map wants minimal-but-real interaction on the grounds that some non-physical selection at the indeterminacy boundary is required for the *Bidirectional Interaction* tenet to do its work. The Map can therefore appropriate Duch's anti-Penrose-Hameroff arguments without inheriting his classical-sufficiency commitment, but only if the convergence-point and the divergence-point are kept structurally distinct. Articles citing Duch's quantum critique must specify which point is being borrowed; importing the classical-sufficiency commitment alongside the anti-coherence arguments would be a category error. The detailed convergence-and-divergence map is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
+
 ## What Would Challenge This View?
 
 The framework could be falsified by:
@@ -240,6 +247,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which interpretations leave room for consciousness as causal participant
 - [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) — Evolution exploiting quantum effects
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
+- [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The strongest competent classical-computational critique of substantive quantum-mind proposals; convergence and divergence with the Minimal Quantum Interaction tenet
 
 ## References
 
@@ -257,3 +265,5 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 1. Tegmark, M. (2000). Quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine*.
 1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1).
+1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
+1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/

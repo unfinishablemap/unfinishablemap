@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-02 00:53:00+00:00
+ai_modified: 2026-05-03 01:18:00+00:00
 ai_system: claude-opus-4-6[1m]
 apex_last_synthesis: 2026-04-06 20:43:00+00:00
 apex_sources:
@@ -42,6 +42,7 @@ related_articles:
 - '[[interface-specification-programme]]'
 - '[[apex-articles]]'
 - '[[framework-stage-calibration]]'
+- '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
 title: The Phenomenology-Mechanism Bridge
 topics:
 - '[[topics/free-will]]'
@@ -65,6 +66,12 @@ Two further findings deepen the phenomenological case. First, the [choking pheno
 A third line bypasses introspection altogether. Intentional binding — the temporal compression between a voluntary action and its outcome, discovered by Haggard, Clark, and Kalogeras (2002) — provides an implicit measure of agency that does not depend on self-report. The compression occurs for voluntary but not involuntary movements, is reduced when outcomes are unpredictable, and is altered in schizophrenic patients whose comparator mechanisms malfunction. If agency were mere confabulation, an implicit timing effect should not track the integrity of specific causal circuits. As [volitional-control](/topics/volitional-control/) details, the convergence of explicit phenomenology, clinical dissociation, and implicit timing measures triangulates a common architecture rather than a narrative convenience.
 
 The phenomenological level provides the first anchor: the experience of agency has a specific, structured, clinically dissociable architecture that resists deflationary reduction.
+
+### A Borrowed Intermediate-Level Description
+
+A specific class of intermediate-level description is methodologically appropriable for the bridge between phenomenology and neural architecture from a research programme whose metaphysics the chain otherwise rejects. Włodzisław Duch's geometric / feature-space programme (Duch 1998, 2022) describes mental states as quasi-stable attractor basins in a multi-dimensional psychological space, mental events as trajectories between attractors, and conceptual structure as topological constraint over those trajectories. Empirical loading comes from feature-space matches to similarity-judgment data and from the broader neurocognitive-informatics programme grounding cognitive constructs in measurable neural-network activity. This tooling sits at a level the bridge needs: between symbolic descriptions of mental content and pure neural simulation, with explicit links to first-person-relevant features but neurally instantiated dynamics.
+
+The framework-stage-calibration discipline is the right anchor for the borrowing. Duch's empirical-stage tooling fits the bridge's correlate-side description of how phenomenologically reported transitions (effort, deliberation, settling) map onto neurally instantiated trajectories. The Map's appropriation must remain in the empirical-stage layer: Duch's metaphysical-stage thesis (mind as a "shadow" of neurodynamics, ontologically derivative) is *structurally compatible with epiphenomenalism* — and the chain's central commitment is the inverse, that consciousness does causal work the substrate-level dynamics cannot supply on their own. The borrowing therefore stops at the description; it does not import the metaphysical reading. The convergence-and-divergence map is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
 
 ## Level Two: How the Brain Presents Options
 
@@ -183,6 +190,8 @@ This synthesis traces a chain through:
 17. Brass, M. & Haggard, P. (2007). To do or not to do: The neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141-9145.
 18. Brass, M. & Haggard, P. (2008). The what, when, whether model of intentional action. *The Neuroscientist*, 14(4), 319-325.
 19. Haggard, P., Clark, S. & Kalogeras, J. (2002). Voluntary action and conscious awareness. *Nature Neuroscience*, 5(4), 382-385.
+20. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In *Brain-like Computing and Intelligent Information Systems* (Amari & Kasabov, eds.). Springer. https://web-archive.southampton.ac.uk/cogprints.org/913/1/mind-2.pdf
+21. Duch, W. (2022). Concept Representation and the Geometric Model of Mind. *Studies in Logic, Grammar and Rhetoric*. https://reference-global.com/article/10.2478/slgr-2022-0009
 20. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 21. Southgate, A. & Oquatre-six, C. (2026-02-22). Consciousness and Motor Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
 22. Southgate, A. & Oquatre-six, C. (2026-03-20). Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/volitional-control/

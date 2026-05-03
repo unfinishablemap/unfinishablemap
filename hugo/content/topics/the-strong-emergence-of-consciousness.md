@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-04-29 21:32:00+00:00
+ai_modified: 2026-05-03 01:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -46,6 +46,7 @@ related_articles:
 - '[[the-epiphenomenalist-threat]]'
 - '[[causal-closure-debate-historical-survey]]'
 - '[[parsimony-case-for-interactionist-dualism]]'
+- '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
 title: The Strong Emergence of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -62,6 +63,8 @@ Every position on the nature of consciousness is also a position on emergence. T
 If consciousness is only weakly emergent, it is in principle derivable from a complete physical description. Temperature is weakly emergent from molecular motion — surprising to observers, but calculable in principle from microphysics. Weak emergentists say consciousness is like this: astonishingly complex, but ultimately just what sophisticated information processing *is* when viewed from the inside.
 
 This position is [functionalism](/concepts/functionalism/) applied to the emergence question. Consciousness is defined by its functional role rather than by the substrate implementing it. The appeal is parsimony: only physics exists; consciousness is physics doing something intricate. The cost is the [hard problem](/topics/hard-problem-of-consciousness/). If consciousness is derivable from physics, then a hypothetical being with complete knowledge of every particle's behaviour could deduce what red looks like, what pain feels like, what it is to wonder about emergence. No one has shown how such a derivation could work. The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/) argues that this derivation problem is not unique to consciousness — every level transition harbours the same gap between arrangement and qualitative character, and consciousness is where the gap becomes undeniable. Weak emergence also entails substrate independence — if the computation is what matters, consciousness could run on anything. The Map rejects this: if consciousness interfaces with matter through [quantum processes](/concepts/quantum-consciousness/), the physical substrate is not interchangeable.
+
+Włodzisław Duch's *mind as a shadow of neurodynamics* (Duch 2019) is the contemporary high-water mark of the weak-emergence reading and the strongest competent denial of the Map's strong-emergence position. Duch's "shadow" framing makes mind ontologically derivative on the brain's dynamical state — in his geometric programme (Duch 1998, 2022), mind objects are quasi-stable attractor basins of neurodynamics in psychological space, and mental events are trajectories between attractors. The Map's quarrel is sharpest exactly here: the shadow framing is *structurally compatible with epiphenomenalism* (the Map's central worry, per [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)), even though Duch himself is not avowedly epiphenomenalist. The downward-causation gap [the next subsection](/concepts/mental-causation-and-downward-causation/) requires the strongly-emergent property to fill remains unfilled by the shadow account: shadows do not act on what casts them. Duch's reportedly extended substrate-independence (consciousness mechanisms instantiable in articons and possibly LLMs) deepens rather than resolves the worry. The detailed engagement is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
 
 ### Strong Emergence: Consciousness as Genuine Novelty
 
@@ -176,6 +179,7 @@ Affirming strong emergence is not the same as explaining it. The deeper question
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories of consciousness collapse into epiphenomenalism by default, and what genuine escape requires
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from a physics claim into a metaphysical axiom
 - [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) — Why the parsimony advantage may favour strong emergence with mechanism over physicalism
+- [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The contemporary high-water mark of the weak-emergence / mind-as-shadow position the article distinguishes itself from
 
 ## References
 
@@ -190,3 +194,6 @@ Affirming strong emergence is not the same as explaining it. The deeper question
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. O'Connor, T. & Wong, H.Y. (2005). "The Metaphysics of Emergence." *Noûs*, 39: 658-678.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4): 4194-4206.
+1. Duch, W. (1998). "Platonic model of mind as an approximation to neurodynamics." In *Brain-like Computing and Intelligent Information Systems* (Amari & Kasabov, eds.). Springer.
+1. Duch, W. (2019). "Mind as a shadow of neurodynamics." *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+1. Duch, W. (2022). "Concept Representation and the Geometric Model of Mind." *Studies in Logic, Grammar and Rhetoric*. https://reference-global.com/article/10.2478/slgr-2022-0009

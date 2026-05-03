@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-04-28 00:42:00+00:00
+ai_modified: 2026-05-03 01:22:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-27 12:43:00+00:00
 apex_sources:
@@ -57,6 +57,7 @@ related_articles:
 - '[[vertiginous-question]]'
 - '[[four-quadrant-dualism-taxonomy]]'
 - '[[delegatory-dualism]]'
+- '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
 title: What Consciousness Tells Us About Physics
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -176,6 +177,12 @@ If this picture is correct, a genuine theory of everything would need to be *bi-
 
 **Connect to spacetime geometry.** Penrose's objective reduction links collapse to gravitational self-energy—suggesting the interface has geometric structure. The [nomic void](/voids/nomic-void/) raises the further possibility, following Wheeler's participatory ontology, that consciousness co-creates the nomic structure it inhabits—that the laws of physics are not prior to consciousness but mutually constituted with it.
 
+## The Rival Programme: A Physics-of-Mind That Goes the Other Way
+
+The reverse inference runs from consciousness to constraints on physics. The most rigorous *programmatic competitor* runs in the opposite direction: from physics to mind. Włodzisław Duch's "computational physics of the mind" (Duch 1996, 2019) explicitly proposes that cognitive science should be a target for the same modelling discipline physics applies to other domains — mind objects as quasi-stable attractor states of brain dynamics, mental events as trajectories through psychological space, mind as the "shadow" of neurodynamics. The directionality is the inverse of the reverse inference: physics is the secure starting point and mind is the *expressed approximation*. Duch's anti-quantum-mind position (extensively documented in [the research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/)) deepens the rivalry — he argues that quantum proposals are "pseudo-mysticism" using exotic physics to fill gaps a classical-computational model can already fill. His position is the strongest competent denial of *both* moves the reverse inference makes: that consciousness is not exhausted by neurodynamics, and that quantum indeterminacies are the right place for the interface to sit.
+
+The two programmes are not symmetrically opposed; they are calibrated against each other along two axes. *On the directionality axis*: the reverse inference reads the measurement problem as disclosure of a structural-actualising boundary; Duch reads it as a within-physics problem to be settled by spontaneous-collapse mechanisms (which the reverse inference accepts as the baseline) without consciousness contributing anything additional. *On the substantive-quantum axis*: the reverse inference and Duch *converge* against Penrose-Hameroff-scale macroscopic coherence proposals while *diverging* on whether anything below that scale (the Map's minimal interface) is required at all. The framework-stage-calibration discipline (per [framework-stage-calibration](/project/framework-stage-calibration/)) is the right anchor for the disagreement: the reverse inference is *pre-Keplerian* — accumulating Tycho-analogue measurements (bandwidth, Born-rule consistency, theta-band signatures) en route to specification laws Duch's classical-computational model claims are unnecessary. The empirical-equivalence problem below is where both programmes meet on equal terms: until the falsification roadmap delivers, the choice between Duch's classical-shadow reading and the reverse inference's bi-aspectual reading runs along philosophical rather than experimental axes.
+
 ## The Empirical Equivalence Problem
 
 The reverse inference has a significant vulnerability: if the tenets are correct and consciousness operates strictly within the Born probabilities, then the framework generates *no empirically distinguishable predictions* from standard quantum mechanics with random collapse. This is a structural feature of the position, not a minor caveat.
@@ -243,3 +250,5 @@ This apex article synthesises:
 14. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
 15. Wheeler, J.A. (1983). "Law without law." In *Quantum Theory and Measurement*.
 16. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
+17. Duch, W. (1996). Computational physics of the mind. *Computer Physics Communications*. https://web-archive.southampton.ac.uk/cogprints.org/914/1/96compmind.pdf
+18. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
