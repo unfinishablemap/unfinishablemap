@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-05-01T12:12:00+00:00
+ai_modified: 2026-05-03T08:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,12 +34,13 @@ related_articles:
   - "[[parsimony-case-for-interactionist-dualism]]"
   - "[[penrose-gravity-induced-collapse-empirical-prospects]]"
   - "[[born-rule-violation-brain-interface-empirical-status]]"
+  - "[[framework-stage-calibration]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-09
 last_curated:
-last_deep_review: 2026-05-01T12:12:00+00:00
+last_deep_review: 2026-05-03T08:54:00+00:00
 ---
 
 The Unfinishable Map claims consciousness is irreducible, causally efficacious, and operates through quantum indeterminacies. Critics ask: what would change your mind? If nothing could, the framework is unfalsifiable metaphysics rather than honest philosophy. This article answers the question directly, mapping falsification conditions for each of the five [[tenets]] and identifying which conditions are experimentally accessible, which remain out of reach, and which the Map shares with every theory of consciousness.
@@ -80,7 +81,7 @@ A principled resolution of the [[knowledge-argument|knowledge argument]] (Mary's
 
 **Current experimental status**: This is the Map's most empirically tractable tenet. Hameroff (2020) argues Orch OR is "the most complete, and most easily falsifiable theory of consciousness," with 20 testable predictions published in 1998—six confirmed and zero refuted as of a 2014 review by the theory's proponents (Hameroff & Penrose, 2014). Independent assessment of these claims remains limited. The Gran Sasso experiment (Donadi et al., 2021) rules out the simplest form of the Diosi-Penrose collapse model but not Penrose's original proposal. The 2025 experimental blueprint for distinguishing decoherence from objective collapse using levitated nanoparticles (arXiv:2512.02838) offers a near-term path to testing whether collapse is real.
 
-**Honest assessment**: The tenet is broader than any single mechanism. It commits to *some* quantum-level interface, not to microtubules or the Zeno effect specifically. This breadth makes the tenet harder to falsify than any individual mechanism—a feature the Lakatosian critic reasonably reads as a protective belt absorbing each empirical advance without commitment to a specific mechanism. The Map's response is to acknowledge the worry directly rather than rebut it: see [[the-interface-problem]] for the framework's open concession that the recent narrowing toward an attention-motor architectural umbrella is post-hoc accommodation rather than predictive narrowing, with the defence being that the resulting picture is more constrained than agnosticism while remaining empirically tractable. The same discipline applies here. Falsifying Orch OR would not falsify the tenet, but the framework should specify that falsifying *all* quantum biology in neural systems would, and should not silently absorb each disconfirmation into the next mechanism without acknowledgment. Even confirming quantum effects in the brain would leave the deeper challenge: [[the-interface-problem|specifying exactly how conscious states map to physical selections]]—currently unfalsifiable in practice, in-principle accessible as detection thresholds improve, and the hardest open problem facing the Map's framework.
+**Honest assessment**: The tenet is broader than any single mechanism. It commits to *some* quantum-level interface, not to microtubules or the Zeno effect specifically. This breadth makes the tenet harder to falsify than any individual mechanism—a feature the Lakatosian critic reasonably reads as a protective belt absorbing each empirical advance without commitment to a specific mechanism. The Map's response is to acknowledge the worry directly rather than rebut it: see [[the-interface-problem]] for the framework's open concession that the recent narrowing toward an attention-motor architectural umbrella is post-hoc accommodation rather than predictive narrowing, with the defence being that the resulting picture is more constrained than agnosticism while remaining empirically tractable. The same discipline applies here. Falsifying Orch OR would not falsify the tenet, but the framework should specify that falsifying *all* quantum biology in neural systems would, and should not silently absorb each disconfirmation into the next mechanism without acknowledgment. The methodology that licenses this kind of post-hoc accommodation while keeping it visible is articulated at project-doc level in [[framework-stage-calibration]]: the framework sits at a pre-Keplerian stage accumulating Tycho-analogue measurements, and the present roadmap is the catalogue of intermediate experimental advances the discipline's in-principle decidability commitment depends on. Even confirming quantum effects in the brain would leave the deeper challenge: [[the-interface-problem|specifying exactly how conscious states map to physical selections]]—currently unfalsifiable in practice, in-principle accessible as detection thresholds improve, and the hardest open problem facing the Map's framework.
 
 A further distinction sharpens the falsification picture. The "minimum" in Minimal Quantum Interaction admits at least three readings: *corridor* (consciousness biases single-event selection but ensemble statistics remain Born-compliant), *minimum-outside-the-corridor* (consciousness produces detectable deviations from Born statistics—Stapp's Zeno rate, Chalmers-McQueen Φ-collapse, Arana's λ-suppressed weighting, Orch OR), and *trumping* (consciousness is authoritative on an axis orthogonal to Born-rule dynamics). These three readings have different falsification conditions: corridor predicts no statistical signature by construction and is therefore the hardest to directly test, minimum-outside-corridor is the most empirically distinguishable, and trumping treats Born-rule tests as neither confirming nor threatening. The [[born-rule-violation-brain-interface-empirical-status|empirical status of Born-rule tests at the brain interface]] catalogues which current experimental programmes bear on which reading.
 
@@ -173,6 +174,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 - [[invertebrate-consciousness-as-interface-test]] — Insect and cephalopod architectures as interface model constraints
 - [[methodology-of-consciousness-research]] — Epistemological challenges in studying consciousness
 - [[testability-ledger]] — Running ledger of the Map's testable predictions
+- [[framework-stage-calibration]] — The editorial discipline that names this roadmap as the catalogue of intermediate experimental advances on which the framework's in-principle decidability commitment depends
 
 ## References
 
