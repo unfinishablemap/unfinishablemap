@@ -4,7 +4,7 @@ description: "Why cognitive limits are preconditions for meaning, not merely obs
 created: 2026-02-24
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-05-01T01:25:00+00:00
+ai_modified: 2026-05-03T04:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,11 +76,11 @@ The convergences above are all Western. A separate hemisphere reaches the same t
 
 Buddhist *anātman*—the denial of an enduring self-substance—sits awkwardly with the Map's [[tenets#^dualism|Dualism]] and indexical-identity commitments. The parallel is structural, not wholesale alliance.
 
-Three points clarify. First, Madhyamaka denies *svabhāva* of *all* phenomena—phenomenal and physical alike—so its anti-substantialism is symmetric. Second, *anātman* is compatible with conventional self-continuity: at the conventional level where the Map's tenets operate there is a continuous experiencer, and the Map's dualism requires irreducibility rather than Cartesian substance. Third, indexical identity ([[tenets#^no-many-worlds|No Many Worlds]]) and any defensible [[self-and-self-consciousness|minimal-self]] view require *some* phenomenal continuity—genuinely harder to reconcile with strict Madhyamaka, though Yogācāra sits closer to the Map. See [[indian-philosophy-of-mind]] for Samkhya, Nyaya, and Vedanta on the bearer question. The convergence on the constitutive thesis is real; the convergence on what *bears* the meaning is not.
+Three points clarify. First, Madhyamaka denies *svabhāva* of *all* phenomena—phenomenal and physical alike—so its anti-substantialism is symmetric. Second, *anātman* is compatible with conventional self-continuity: at the conventional level where the Map's tenets operate there is a continuous experiencer, and the Map's dualism requires irreducibility rather than Cartesian substance. Third, indexical identity ([[tenets#^no-many-worlds|No Many Worlds]]) and any defensible [[self-and-self-consciousness|minimal-self]] view require *some* phenomenal continuity—genuinely harder to reconcile with strict Madhyamaka, though Yogācāra sits closer to the Map. See [[indian-philosophy-of-mind]] for Samkhya, Nyaya, and Vedanta on the bearer question. The convergence on the constitutive thesis is real; the convergence on what *bears* the meaning is not. This is the *convergent-conclusion-opposite-reasoning* structure—agreement on the architectural claim paired with opposite metaphysics of the bearer—and it is the appropriate frame for Buddhist parallels generally on the Map.
 
 ### The Contextualist Worry
 
-Critics in the comparative philosophy of mysticism deny that the Eastern and Western entries point at structurally the same insight. Steven Katz (1978) argued that traditions constitute the experiences they describe—there are only Madhyamaka experiences, Zen experiences, Kyoto-School experiences, each shaped by the practitioner's framework. Apparent agreement between Heidegger's being-toward-death and Nāgārjuna's emptiness may be a translation artefact. Robert Sharf (1995) pressed further: the emphasis on direct meditative experience as Buddhism's foundation is partly a modern, Western-influenced construction, so comparative arguments leaning on lived realisation stand on shakier ground than convergence rhetoric suggests.
+Critics in the comparative philosophy of mysticism—answering the perennialist tradition of Stace (1960) and Forman (1990)—deny that the Eastern and Western entries point at structurally the same insight. Steven Katz (1978) argued that traditions constitute the experiences they describe—there are only Madhyamaka experiences, Zen experiences, Kyoto-School experiences, each shaped by the practitioner's framework. Apparent agreement between Heidegger's being-toward-death and Nāgārjuna's emptiness may be a translation artefact. Robert Sharf (1995) pressed further: the emphasis on direct meditative experience as Buddhism's foundation is partly a modern, Western-influenced construction, so comparative arguments leaning on lived realisation stand on shakier ground than convergence rhetoric suggests.
 
 Three responses preserve a defensible structural claim while conceding ground. First, the structural argument does not require perennialism: even if Madhyamaka commentator and Heideggerian are *not* having the same experience, they can independently produce the same structural claim. Convergence on a thesis differs from convergence on lived experience. Second, the constitutive-thesis reading is the *contested* anti-nihilist reading—mainstream (Garfield, Westerhoff, Heisig) but not the only one. Third, the critique cuts both ways: claiming the traditions are *unrelated* presupposes the same tradition-transcending access that strong contextualism denies.
 
@@ -166,3 +166,6 @@ The thesis connects to each of the Map's [[tenets]]:
 15. Laozi. *Daodejing*, chapter 11.
 16. Katz, S.T. (1978). "Language, Epistemology, and Mysticism." In S.T. Katz (ed.), *Mysticism and Philosophical Analysis*, 22–74. Oxford University Press. (Foundational statement of contextualism in mystical-experience studies.)
 17. Sharf, R.H. (1995). "Buddhist Modernism and the Rhetoric of Meditative Experience." *Numen* 42(3): 228–283.
+18. Siderits, M. (2007). *Buddhism as Philosophy: An Introduction*. Ashgate. (Standard analytic treatment of the semantic interpretation of *śūnyatā*; companion to Garfield.)
+19. Stace, W.T. (1960). *Mysticism and Philosophy*. Macmillan. (Classical perennialist statement Katz argues against.)
+20. Forman, R.K.C. (ed.) (1990). *The Problem of Pure Consciousness: Mysticism and Philosophy*. Oxford University Press. (Anti-contextualist response defending a "pure consciousness event" across traditions.)
