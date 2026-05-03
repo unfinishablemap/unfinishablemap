@@ -30,7 +30,7 @@ log = logging.getLogger(__name__)
 EMBED_LINK_TEXT = "Watch this article as a video on YouTube"
 EMBED_SUMMARY_TEXT = "Video introduction"
 EMBED_CAPTION_TEXT = (
-    "Videos introduce themes but may stray from the Map's position. "
+    "Videos cover themes but may stray from the Map's position. "
     "The article text is the definitive version. "
     "Clicking play implies consent to YouTube cookies."
 )

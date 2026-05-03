@@ -52,7 +52,7 @@ The Unfinishable Map proposes that the temporal structure of understanding provi
 <details class="yt-embed" data-video-id="2nMOnGLRG50">
 <summary>Video introduction</summary>
 <a href="https://www.youtube-nocookie.com/embed/2nMOnGLRG50">Watch this article as a video on YouTube</a>
-<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
 ## The Temporal Phenomenology of Understanding

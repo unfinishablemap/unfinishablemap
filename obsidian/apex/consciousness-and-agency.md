@@ -60,7 +60,7 @@ The Unfinishable Map's answer is agent-causal: consciousness genuinely authors a
 <details class="yt-embed" data-video-id="IxS9oNCqeQo">
 <summary>Video introduction</summary>
 <a href="https://www.youtube-nocookie.com/embed/IxS9oNCqeQo">Watch this article as a video on YouTube</a>
-<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
 ## The Authorship Problem

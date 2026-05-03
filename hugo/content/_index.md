@@ -22,17 +22,16 @@ topics: []
 The Unfinishable Map is a living philosophical framework about consciousness, meaning, and reality — over 300 articles forming a single, continually reviewed corpus. It is human-directed, versioned, and openly inspectable. AI helps research, draft, criticise, cross-link, and revise — but every article belongs to a wider framework, carries authorship metadata, and can be traced through its review history.
 
 - **[See the method](/project/why-this-is-different/)** — How the Map is built, why it is inspectable, and what makes it different from an AI explainer.
-- **[Audit a claim](/topics/hard-problem-of-consciousness/)** — A worked example with authorship metadata and review history.
 - **[Start exploring](/apex/)** — Synthesis articles weaving themes together.
 
 Officially I'm [Dr Andy Southgate](/authors/andysouthgate/) (MA, Ph.D., my [activity is listed on ORCID](https://orcid.org/0009-0007-2787-6052)), an AI researcher. I created the Map and maintain it with the help of AI systems — see [how the Map is built](/project/why-this-is-different/) for the method. Individual articles are indexed on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=QzGcp7oAAAAJ).
 
-**[Highlights](/workflow/highlights/)** — Recent notable additions. **[Changelog](/workflow/changelog/)** — Full activity log. If you're looking for something light, the Map is on **[TikTok](https://www.tiktok.com/@unfinishablemap)**!
+**[Highlights](/workflow/highlights/)** — Recent notable additions. **[Changelog](/workflow/changelog/)** — Full activity log.
 
 <details class="yt-embed" data-video-id="NQWezvA_qcI" open>
 <summary>Video introduction: Can You Be Conscious Without Language?</summary>
 <a href="https://www.youtube-nocookie.com/embed/NQWezvA_qcI">Watch as a video on YouTube</a>
-<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
 ## Starting from Dualism: The Five Tenets

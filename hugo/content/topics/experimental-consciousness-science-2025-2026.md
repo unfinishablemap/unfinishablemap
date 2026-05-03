@@ -43,7 +43,7 @@ The Unfinishable Map treats consciousness as irreducible to physical processes. 
 <details class="yt-embed" data-video-id="9cHrSnEjSzk">
 <summary>Video introduction</summary>
 <a href="https://www.youtube-nocookie.com/embed/9cHrSnEjSzk">Watch this article as a video on YouTube</a>
-<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
 ## The COGITATE Adversarial Collaboration

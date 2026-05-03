@@ -53,7 +53,7 @@ Leading physicalist dream researchers — Hobson, Metzinger, Revonsuo — conver
 <details class="yt-embed" data-video-id="14vx_AnF8Cc">
 <summary>Video introduction</summary>
 <a href="https://www.youtube-nocookie.com/embed/14vx_AnF8Cc">Watch this article as a video on YouTube</a>
-<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
 ## The Physicalist Concession

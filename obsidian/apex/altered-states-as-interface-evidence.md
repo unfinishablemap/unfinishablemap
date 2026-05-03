@@ -66,7 +66,7 @@ Altered states of consciousness are usually treated as curiosities—isolated ph
 <details class="yt-embed" data-video-id="fihonjLV5CQ">
 <summary>Video introduction</summary>
 <a href="https://www.youtube-nocookie.com/embed/fihonjLV5CQ">Watch this article as a video on YouTube</a>
-<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
 ## Why Altered States Matter for the Interface

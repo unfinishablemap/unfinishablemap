@@ -54,7 +54,7 @@ The Unfinishable Map holds that cognitive phenomenology probably exists, drawing
 <details class="yt-embed" data-video-id="w-S0oHEGOGY">
 <summary>Video introduction</summary>
 <a href="https://www.youtube-nocookie.com/embed/w-S0oHEGOGY">Watch this article as a video on YouTube</a>
-<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
 ## The Materialist Retreat

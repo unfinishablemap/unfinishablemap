@@ -68,7 +68,7 @@ This article examines the principled obstacles that current AI faces. If conscio
 <details class="yt-embed" data-video-id="NnRRVu1qk7Q">
 <summary>Video introduction</summary>
 <a href="https://www.youtube-nocookie.com/embed/NnRRVu1qk7Q">Watch this article as a video on YouTube</a>
-<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
 ## The Chinese Room and Intentionality

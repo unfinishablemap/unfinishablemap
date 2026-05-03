@@ -17,11 +17,10 @@
         // Mirror YouTube's canonical embed markup exactly so the player
         // serves the standard chrome (controls, fullscreen, etc.).
         var iframe = document.createElement('iframe');
-        iframe.setAttribute('src', 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(id));
+        iframe.setAttribute('src', 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(id) + '?rel=0&playsinline=1&iv_load_policy=3');
         iframe.setAttribute('title', 'YouTube video player');
         iframe.setAttribute('loading', 'lazy');
         iframe.setAttribute('frameborder', '0');
-        iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
         iframe.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
         iframe.setAttribute('allowfullscreen', '');
 
@@ -32,7 +31,12 @@
     }
 
     function init() {
-        document.querySelectorAll('.yt-embed[data-video-id]').forEach(hydrate);
+        var nodes = document.querySelectorAll('.yt-embed[data-video-id]');
+        console.log('[yt-embed] hydrating', nodes.length, 'placeholders');
+        nodes.forEach(function (el) {
+            try { hydrate(el); }
+            catch (err) { console.error('[yt-embed] hydrate failed', err, el); }
+        });
     }
 
     if (document.readyState === 'loading') {
