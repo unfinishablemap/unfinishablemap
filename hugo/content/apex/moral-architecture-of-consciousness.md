@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-05-03 11:28:31.596166+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-05 19:58:00+00:00
 apex_sources:
@@ -33,6 +33,11 @@ description: How irreducible consciousness unifies value, agency, normativity, a
   moral perception into a coherent ethical framework that materialist approaches cannot
   achieve.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.596166+00:00
+  id: adavuTQkxwQ
+  source: notebooklm/0018-01-moral-architecture-of-consciousness
+  url: https://www.youtube-nocookie.com/embed/adavuTQkxwQ
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-17 13:13:00+00:00
@@ -56,6 +61,12 @@ topics:
 If consciousness is irreducible and causally efficacious, ethics gains a distinctive kind of unification. The Unfinishable Map's dualism does not merely add a metaphysical layer to existing moral philosophy—it provides an architecture in which four traditionally separate domains of ethics share a single ground. Value theory, agency theory, normativity, and moral epistemology have long drawn on different and often incompatible foundations. Under dualism, all four converge on conscious experience. What has value, who bears responsibility, why moral claims bind, and how moral properties are perceived become aspects of a single phenomenon rather than outputs of four separate theories that never quite fit together. This is the moral architecture of consciousness—and its coherence is a significant meta-ethical argument for taking dualism seriously.
 
 The architecture has concrete consequences. It generates a graded account of responsibility tied to attentional capacity, extends moral status to all conscious beings, and opens a frontier question about whether value itself participates in the mechanism through which consciousness acts on the physical world.
+
+<details class="yt-embed" data-video-id="adavuTQkxwQ">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/adavuTQkxwQ">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Problem the Architecture Solves
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-05-01 07:25:00+00:00
+ai_modified: 2026-05-03 11:28:31.692517+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,6 +21,11 @@ description: Quantum mechanics' mathematical form—Hilbert space, the Born rule
   constrains how consciousness can interact with physics, narrowing the interface
   to a precise corridor.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.692517+00:00
+  id: xicd38uVq7A
+  source: notebooklm/0009-01-mathematical-structure-of-the-consciousness-physics-interface
+  url: https://www.youtube-nocookie.com/embed/xicd38uVq7A
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-23 16:28:00+00:00
@@ -42,6 +47,12 @@ topics:
 ---
 
 If consciousness interacts with the physical world at quantum indeterminacies, the mathematics of quantum mechanics does not leave this interaction unconstrained. The Unfinishable Map argues that, wherever the standard quantum postulates hold, Hilbert space structure, the Born rule, and the no-signalling principle together define a narrow mathematical corridor through which any consciousness-physics interaction must pass. The corridor binds every tested regime; whether it extends into brain-internal conscious selection remains empirically open. Several formal frameworks attempt to work within these bounds; their successes and limitations reveal what the mathematics permits and what it cannot yet express.
+
+<details class="yt-embed" data-video-id="xicd38uVq7A">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/xicd38uVq7A">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Mathematical Corridor
 

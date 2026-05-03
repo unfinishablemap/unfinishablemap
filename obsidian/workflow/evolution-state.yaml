@@ -18,7 +18,8 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
   agentic-social: '2026-05-03T08:52:52.942593+00:00'
-last_git_push: '2026-05-03T06:52:52.942017+00:00'
+  embed-videos: null
+last_git_push: '2026-05-03T10:17:16.706057+00:00'
 last_tweet_date: '2026-05-03'
 content_stats:
   total_files: 297

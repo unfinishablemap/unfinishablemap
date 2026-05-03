@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-02T00:53:00+00:00
+ai_modified: 2026-05-03T11:28:31.579836+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,9 +41,20 @@ apex_sources:
   - topics/attention-and-the-consciousness-interface
 apex_last_synthesis: 2026-04-18T09:45:00+00:00
 apex_thesis: "Six converging lines of inquiry—the psychophysical control law, the bandwidth problem, control-theoretic will, causal delegation, the nature of causal powers, and attention disorders—collectively specify the mind-matter interface as a unified research programme rather than scattered philosophical speculation."
+embedded_videos:
+  - id: F7XUN6ZIywA
+    url: https://www.youtube-nocookie.com/embed/F7XUN6ZIywA
+    embedded: 2026-05-03T11:28:31.579836+00:00
+    source: notebooklm/0021-01-interface-specification-programme
 ---
 
 The Unfinishable Map does not merely assert that consciousness influences the physical world. It is developing a specification of *how*. Across six distinct lines of inquiry—the [[the-psychophysical-control-law|psychophysical control law]], the [[consciousness-bandwidth-architecture|bandwidth problem]], [[control-theoretic-will|control-theoretic will]], [[delegatory-causation|causal delegation]], the nature of [[consciousness-and-causal-powers|consciousness's causal powers]], and what [[attention-and-the-consciousness-interface|attention disorders reveal about the interface]]—a single architecture emerges. The mind-matter interface is a low-bandwidth, feedback-dependent control channel through which consciousness selects among brain-prepared alternatives without injecting energy or violating conservation laws. Each line of inquiry constrains this picture from a different direction: causal powers define what the interface can do, bandwidth defines how much it can carry, control theory specifies the operations it performs, causal delegation describes its causal structure, the psychophysical control law seeks its formal specification, and attention disorders reveal what happens when it breaks. Together they constitute not scattered observations but a unified research programme—one precise enough to generate predictions and honest enough to mark where specification remains incomplete.
+
+<details class="yt-embed" data-video-id="F7XUN6ZIywA">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/F7XUN6ZIywA">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Problem: From Commitment to Specification
 

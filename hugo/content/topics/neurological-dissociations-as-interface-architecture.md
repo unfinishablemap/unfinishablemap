@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-17 15:13:00+00:00
+ai_modified: 2026-05-03 11:28:31.695888+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,6 +19,11 @@ description: Blindsight, anosognosia, alien hand syndrome, and other dissociatio
   each disconnect a specific interface component—together mapping the functional anatomy
   of the mind-brain channel.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.695888+00:00
+  id: cSU9xQDKiW4
+  source: notebooklm/0008-01-neurological-dissociations-as-interface-architecture
+  url: https://www.youtube-nocookie.com/embed/cSU9xQDKiW4
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-17 15:13:00+00:00
@@ -43,6 +48,12 @@ topics:
 The Unfinishable Map discusses neurological dissociations individually—[blindsight](/concepts/blindsight/) here, [pain-asymbolia](/concepts/pain-asymbolia/) there, [split-brain](/topics/split-brain-consciousness/) elsewhere—but the pattern they form collectively has not been drawn out. Each dissociation disconnects a specific component of the mind-brain interface. Taken together, they map the interface's functional anatomy: ascending channels that deliver sensory content to consciousness, descending channels through which consciousness acts on the body, a self-model channel that reports the system's own state, and bilateral connections that maintain unity across hemispheres. The dissociation pattern is more informative than any single case because it reveals which components are separable—and therefore which are architecturally distinct.
 
 This matters for the Map's framework. If consciousness were identical to neural processing, neurological damage should degrade consciousness uniformly—more damage, less mind. Instead, dissociations produce selective disconnections: processing continues but consciousness loses access to it, or consciousness issues commands the body does not execute. The selectivity argues for an interface with distinct, separable channels rather than an identity between mind and brain.
+
+<details class="yt-embed" data-video-id="cSU9xQDKiW4">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/cSU9xQDKiW4">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Dissociation Logic
 

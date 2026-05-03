@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-11 17:56:00+00:00
+ai_modified: 2026-05-03 11:28:31.705816+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,6 +20,11 @@ description: Terminal lucidity—cognitive clarity returning despite severe brai
   the strongest single-phenomenon case for filter/transmission theory over production
   models of consciousness.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.705816+00:00
+  id: 5djGZdk-GM8
+  source: notebooklm/0038-01-terminal-lucidity-and-filter-transmission-theory
+  url: https://www.youtube-nocookie.com/embed/5djGZdk-GM8
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-11 17:56:00+00:00
@@ -40,6 +45,12 @@ topics:
 ---
 
 Terminal lucidity—the return of mental clarity, memory, and personality in patients with severe neurological conditions shortly before death—provides the strongest single-phenomenon case for [filter/transmission theory](/concepts/filter-theory/) over productive (generative) models of consciousness. Where other anomalies like [near-death-experiences](/concepts/near-death-experiences/) and [psychedelic states](/topics/psychedelics-and-the-filter-model/) each admit plausible materialist explanations taken individually, terminal lucidity poses a structural problem for production models: if the brain generates consciousness the way a factory produces goods, then a factory with its machinery destroyed cannot produce a final flawless product. Yet that is what terminal lucidity appears to involve. Coined by Michael Nahm in 2009, the term describes episodes in which patients who have been nonverbal and cognitively absent for months or years suddenly recognise family members, hold coherent conversations, and recall long-lost autobiographical memories.
+
+<details class="yt-embed" data-video-id="5djGZdk-GM8">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/5djGZdk-GM8">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Evidence Base
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-03-28 07:42:00+00:00
+ai_modified: 2026-05-03 11:28:31.670214+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,6 +17,11 @@ description: Major consciousness experiments of 2025-2026—COGITATE adversarial
   brain biophotons, split-brain unity, and quantum field models—and what they reveal
   about irreducibility.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.670214+00:00
+  id: 9cHrSnEjSzk
+  source: notebooklm/0016-01-experimental-consciousness-science-2025-2026
+  url: https://www.youtube-nocookie.com/embed/9cHrSnEjSzk
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-28 07:42:00+00:00
@@ -34,6 +39,12 @@ topics:
 ---
 
 The Unfinishable Map treats consciousness as irreducible to physical processes. In 2025 and early 2026, a series of landmark experiments tested that assumption from the physicalist side—and the results are striking. The two dominant physicalist-adjacent theories, [Integrated Information Theory](/concepts/integrated-information-theory/) (IIT) and [Global Neuronal Workspace Theory](/concepts/global-workspace-theory/) (GNWT), were tested head-to-head in the largest adversarial collaboration in consciousness science history. Neither theory's predictions were fully confirmed. Meanwhile, new findings in brain biophoton emission, split-brain unity, quantum field models, and covert consciousness detection have opened empirical windows that physicalist frameworks struggle to interpret. This article synthesises these developments and examines what they mean for the Map's dualist framework.
+
+<details class="yt-embed" data-video-id="9cHrSnEjSzk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/9cHrSnEjSzk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The COGITATE Adversarial Collaboration
 

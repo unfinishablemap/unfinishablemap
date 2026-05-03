@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-01 21:33:00+00:00
+ai_modified: 2026-05-03 11:28:31.583340+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-01 21:33:00+00:00
 apex_sources:
@@ -34,6 +34,11 @@ description: 'What consciousness-first philosophy means for daily life. The Map 
   practical guidance: pursue answers because they may be within reach, and let that
   pursuit inform how you live.'
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.583340+00:00
+  id: sgXxVi3Qlmw
+  source: notebooklm/0037-01-living-with-the-map
+  url: https://www.youtube-nocookie.com/embed/sgXxVi3Qlmw
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-27 19:57:00+00:00
@@ -53,6 +58,12 @@ You wake up tomorrow. What matters about that day? One materialist implication: 
 Philosophy can seem remote from daily life—abstract puzzles debated by specialists. The Map rejects this separation. If consciousness is fundamental rather than accidental, if your choices genuinely author your life rather than merely decorating a predetermined script, then understanding your situation becomes practically urgent. What you are, why you exist, what you should do—these questions matter not as intellectual exercises but as prerequisites for living well.
 
 What follows draws together what this framework implies for daily existence. Not prescriptions for particular lifestyles, but orientations for meaningful living—grounded in the conviction that conscious experience is where value actually resides.
+
+<details class="yt-embed" data-video-id="sgXxVi3Qlmw">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/sgXxVi3Qlmw">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Starting Point: You Are Real
 

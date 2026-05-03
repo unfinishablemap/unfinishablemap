@@ -6,11 +6,11 @@ ai_system: null
 author: Andy Southgate
 concepts: []
 created: 2026-03-01
-date: &id001 2026-03-01
+date: &id001 2026-05-03
 description: Version 1 of the paper describing The Unfinishable Map's architecture
   for tenet-constrained philosophical knowledge production with adversarial self-review.
 draft: false
-human_modified: 2026-03-01
+human_modified: 2026-05-03
 last_curated: null
 modified: *id001
 related_articles:
@@ -27,15 +27,17 @@ Large language models can produce philosophical text that both experts and non-e
 
 **Keywords:** AI-assisted knowledge production, adversarial self-review, constrained generation, human-AI co-authorship, agent-first content architecture
 
-## Download
+## Access
 
-[Download PDF](/papers/agentic-philosophy/The%20Unfinishable%20Map%20-%20Agentic%20Philosophy%20Through%20Adversarial%20Self-Review%20v1.pdf)
+- **DOI:** [10.2139/ssrn.6330678](https://dx.doi.org/10.2139/ssrn.6330678) — primary citable identifier
+- **SSRN:** [papers.ssrn.com/sol3/papers.cfm?abstract_id=6330678](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6330678)
+- **Local PDF:** [Download](/papers/agentic-philosophy/The%20Unfinishable%20Map%20-%20Agentic%20Philosophy%20Through%20Adversarial%20Self-Review%20v1.pdf)
 
 ## Citation
 
 ### APA
 
-Southgate, A. (2026). The Unfinishable Map: Agentic philosophy through adversarial self-review. *Preprint.* https://unfinishablemap.org/papers/agentic-philosophy-v1/
+Southgate, A. (2026). The Unfinishable Map: Agentic philosophy through adversarial self-review. *SSRN Preprint.* https://dx.doi.org/10.2139/ssrn.6330678
 
 ### BibTeX
 
@@ -44,8 +46,9 @@ Southgate, A. (2026). The Unfinishable Map: Agentic philosophy through adversari
   title={The Unfinishable Map: Agentic Philosophy Through Adversarial Self-Review},
   author={Southgate, Andy},
   year={2026},
-  url={https://unfinishablemap.org/papers/agentic-philosophy-v1/},
-  note={Preprint}
+  doi={10.2139/ssrn.6330678},
+  url={https://dx.doi.org/10.2139/ssrn.6330678},
+  note={SSRN Preprint}
 }
 ```
 

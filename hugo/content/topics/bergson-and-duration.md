@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-03 11:28:31.658378+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,6 +20,11 @@ description: Henri Bergson's durée reveals time as qualitative flow rather than
   measurement—a philosophical foundation for understanding consciousness as irreducible
   and causally creative.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.658378+00:00
+  id: q-HgvQtumhQ
+  source: notebooklm/0040-01-bergson-and-duration
+  url: https://www.youtube-nocookie.com/embed/q-HgvQtumhQ
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-15 23:21:00+00:00
@@ -35,6 +40,12 @@ topics:
 ---
 
 Henri Bergson argued that Western philosophy systematically misunderstands time by treating it as a spatial medium—moments arrayed like points on a line, measurable, divisible, inert. His concept of *durée* (duration) names what this spatialization obscures: the qualitative, interpenetrating flow of lived experience where past permeates present and each moment carries the whole of what came before. For The Unfinishable Map, Bergson matters because his critique targets the same assumption that makes materialism seem plausible—the assumption that reality can be exhaustively described in quantitative, third-person terms. If Bergson is right that lived time resists spatial representation, then consciousness does something physics cannot capture—strengthening the case that the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) marks a genuine ontological boundary, not merely an explanatory gap. The Map's [dualism](/tenets/#dualism) gains independent philosophical support.
+
+<details class="yt-embed" data-video-id="q-HgvQtumhQ">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/q-HgvQtumhQ">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Spatialization of Time
 

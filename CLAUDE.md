@@ -122,6 +122,14 @@ ai_system: null          # or model name like "claude-sonnet-4-7"
 ai_generated_date: null  # when AI generated content
 last_curated: null       # last human review date
 last_deep_review: null   # ISO timestamp of last comprehensive review
+
+# Optional — managed by /embed-videos. One entry per YouTube video
+# embedded in the body of this article. Used for idempotency.
+embedded_videos:
+  - id: VIDEO_ID
+    url: https://youtu.be/VIDEO_ID
+    embedded: ISO timestamp
+    source: notebooklm/<auto_unfin slug>
 ---
 ```
 
@@ -207,6 +215,7 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/archive` | Archive an article while preserving its URL for external links. | Yes (moves to archive) |
 | `/apex-evolve` | Build and maintain apex articles—human-readable synthesis pieces. | Yes (creates, modifies) |
 | `/agent-commit` | Analyze changes and create a meaningful commit with agent authorship. Internal skill for evolve_loop. | Yes (git only) |
+| `/embed-videos` | Embed published YouTube videos from sibling `../auto_unfin` repo into matching Obsidian articles. Idempotent. Runs every cycle. | Yes (obsidian source) |
 
 ### Section Caps
 
@@ -281,6 +290,7 @@ The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. S
 - Research-voids: via cycle trigger (voids at capacity)
 
 **Cycle triggers** (run every N complete cycles):
+- embed-videos: every cycle
 - check-links: every 2 cycles
 - check-tenets: every 3 cycles
 - apex-evolve: every 4 cycles

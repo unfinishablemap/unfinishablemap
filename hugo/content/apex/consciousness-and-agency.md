@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-04-27 08:30:00+00:00
+ai_modified: 2026-05-03 11:28:31.569911+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-29 17:27:00+00:00
 apex_sources:
@@ -27,6 +27,11 @@ description: How does consciousness author action in a physical world? Through a
   selection among possibilities physics leaves undetermined—grounding free will and
   moral responsibility.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.569911+00:00
+  id: IxS9oNCqeQo
+  source: notebooklm/0025-01-consciousness-and-agency
+  url: https://www.youtube-nocookie.com/embed/IxS9oNCqeQo
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-27 08:30:00+00:00
@@ -53,6 +58,12 @@ We believe ourselves to be authors of our actions. When you choose to speak rath
 Yet they face a formidable challenge: if every physical event has a sufficient physical cause, where is there room for consciousness to contribute anything? If your decision was determined by neural events stretching back before your birth, in what sense did *you* decide?
 
 The Unfinishable Map's answer is agent-causal: consciousness genuinely authors action by selecting among quantum possibilities that physics leaves undetermined. It is consciousness as source—the agent who determines which of several genuinely open alternatives becomes actual. This selection grounds both free will and the moral responsibility that depends on it.
+
+<details class="yt-embed" data-video-id="IxS9oNCqeQo">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/IxS9oNCqeQo">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Authorship Problem
 

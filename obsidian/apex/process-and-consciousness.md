@@ -4,7 +4,7 @@ description: "Reality as becoming, not being. Whitehead and Bergson's process fr
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-01T10:55:00+00:00
+ai_modified: 2026-05-03T11:28:31.620998+00:00
 last_deep_review: 2026-05-01T10:55:00+00:00
 draft: false
 topics:
@@ -35,11 +35,22 @@ apex_sources:
   - topics/free-will
 apex_last_synthesis: 2026-04-21T12:51:00+00:00
 apex_thesis: "Process philosophy—reality as dynamic becoming rather than static substance—provides conceptual resources for the Map's dualist framework, illuminating how consciousness is irreducible, temporally structured, and causally efficacious."
+embedded_videos:
+  - id: LmrcMeoMZyY
+    url: https://www.youtube-nocookie.com/embed/LmrcMeoMZyY
+    embedded: 2026-05-03T11:28:31.620998+00:00
+    source: notebooklm/0036-01-process-and-consciousness
 ---
 
 What if reality is not made of things but of happenings? This question, which animates process philosophy, transforms how we understand consciousness and its place in nature. Alfred North Whitehead and Henri Bergson developed sophisticated frameworks in which experience is not an anomaly—a spark of subjectivity in an inert cosmos—but paradigmatic of what reality fundamentally is: temporal, creative, experiential.
 
 The Unfinishable Map does not adopt process philosophy wholesale. It maintains interactionist dualism where process thinkers embrace panpsychism. But process philosophy provides conceptual resources that illuminate all five of the Map's tenets. Where substance metaphysics makes consciousness mysterious—how does subjective experience emerge from or interact with objective matter?—process thought dissolves the dichotomy. Reality is already experiential, already temporal, already creative. The Map can draw on these insights while charting its own course on the metaphysical specifics.
+
+<details class="yt-embed" data-video-id="LmrcMeoMZyY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/LmrcMeoMZyY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Process Turn
 

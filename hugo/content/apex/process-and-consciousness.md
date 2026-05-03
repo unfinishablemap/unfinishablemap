@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-01 10:55:00+00:00
+ai_modified: 2026-05-03 11:28:31.620998+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-21 12:51:00+00:00
 apex_sources:
@@ -27,6 +27,11 @@ date: &id001 2026-05-01
 description: Reality as becoming, not being. Whitehead and Bergson's process frameworks
   illuminate the Map's five tenets—from irreducibility to temporal agency.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.620998+00:00
+  id: LmrcMeoMZyY
+  source: notebooklm/0036-01-process-and-consciousness
+  url: https://www.youtube-nocookie.com/embed/LmrcMeoMZyY
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-01 10:55:00+00:00
@@ -42,6 +47,12 @@ topics:
 What if reality is not made of things but of happenings? This question, which animates process philosophy, transforms how we understand consciousness and its place in nature. Alfred North Whitehead and Henri Bergson developed sophisticated frameworks in which experience is not an anomaly—a spark of subjectivity in an inert cosmos—but paradigmatic of what reality fundamentally is: temporal, creative, experiential.
 
 The Unfinishable Map does not adopt process philosophy wholesale. It maintains interactionist dualism where process thinkers embrace panpsychism. But process philosophy provides conceptual resources that illuminate all five of the Map's tenets. Where substance metaphysics makes consciousness mysterious—how does subjective experience emerge from or interact with objective matter?—process thought dissolves the dichotomy. Reality is already experiential, already temporal, already creative. The Map can draw on these insights while charting its own course on the metaphysical specifics.
+
+<details class="yt-embed" data-video-id="LmrcMeoMZyY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/LmrcMeoMZyY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Process Turn
 

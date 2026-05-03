@@ -4,7 +4,7 @@ description: "Consciousness beyond human language reveals that experience is mor
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-04-29T21:11:00+00:00
+ai_modified: 2026-05-03T11:28:31.592026+00:00
 last_deep_review: 2026-04-29T21:11:00+00:00
 draft: false
 topics:
@@ -38,6 +38,11 @@ apex_sources:
   - topics/emotion-and-dualism
 apex_last_synthesis: 2026-03-17T14:54:00+00:00
 apex_thesis: "Non-linguistic consciousness in animals and simple organisms reveals that experience is more fundamental than the cognitive capacities we usually associate with mind."
+embedded_videos:
+  - id: NQWezvA_qcI
+    url: https://www.youtube-nocookie.com/embed/NQWezvA_qcI
+    embedded: 2026-05-03T11:28:31.592026+00:00
+    source: notebooklm/0029-01-minds-without-words
 ---
 
 A bat navigates by echolocation, building a sonic map of its world that no human can imagine. An octopus solves puzzles with a nervous system distributed across eight arms, each with its own processing centres. A bee rolls a ball for no apparent reward—play behaviour in a creature with a brain the size of a sesame seed. Somewhere beneath all this lies a question we cannot directly answer: what is it like to be these creatures? Is there something it is like at all?
@@ -45,6 +50,12 @@ A bat navigates by echolocation, building a sonic map of its world that no human
 The Unfinishable Map proposes that consciousness is irreducible to physical processes—that the felt quality of experience cannot be captured by any third-person description of neural activity. If this is true, the question of animal consciousness takes on particular significance. Every organism with genuine phenomenal experience carries the same mystery we find in ourselves. The bat's echolocation isn't just information processing; it's *experienced* information processing. And if consciousness extends to bees, what does that tell us about where mind begins?
 
 This piece synthesises the Map's treatment of non-linguistic consciousness—minds that experience without the conceptual apparatus of human language. What emerges is a picture in which experience is more fundamental than we usually assume, cognition and consciousness can dissociate in surprising ways, and the boundaries of mind resist the neat categories we would like to impose.
+
+<details class="yt-embed" data-video-id="NQWezvA_qcI">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/NQWezvA_qcI">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Problem of Other Animal Minds
 

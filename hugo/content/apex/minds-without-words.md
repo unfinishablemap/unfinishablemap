@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-29 21:11:00+00:00
+ai_modified: 2026-05-03 11:28:31.592026+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-17 14:54:00+00:00
 apex_sources:
@@ -27,6 +27,11 @@ description: Consciousness beyond human language reveals that experience is more
   than cognition. From animals to simple organisms, minds without words illuminate
   the Map's dualist framework.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.592026+00:00
+  id: NQWezvA_qcI
+  source: notebooklm/0029-01-minds-without-words
+  url: https://www.youtube-nocookie.com/embed/NQWezvA_qcI
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-29 21:11:00+00:00
@@ -48,6 +53,12 @@ A bat navigates by echolocation, building a sonic map of its world that no human
 The Unfinishable Map proposes that consciousness is irreducible to physical processes—that the felt quality of experience cannot be captured by any third-person description of neural activity. If this is true, the question of animal consciousness takes on particular significance. Every organism with genuine phenomenal experience carries the same mystery we find in ourselves. The bat's echolocation isn't just information processing; it's *experienced* information processing. And if consciousness extends to bees, what does that tell us about where mind begins?
 
 This piece synthesises the Map's treatment of non-linguistic consciousness—minds that experience without the conceptual apparatus of human language. What emerges is a picture in which experience is more fundamental than we usually assume, cognition and consciousness can dissociate in surprising ways, and the boundaries of mind resist the neat categories we would like to impose.
+
+<details class="yt-embed" data-video-id="NQWezvA_qcI">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/NQWezvA_qcI">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Problem of Other Animal Minds
 

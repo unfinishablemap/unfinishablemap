@@ -4,7 +4,7 @@ description: "Terminal lucidity—cognitive clarity returning despite severe bra
 created: 2026-01-16
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-04-11T17:56:00+00:00
+ai_modified: 2026-05-03T11:28:31.705816+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,9 +34,20 @@ last_deep_review: 2026-04-11T17:56:00+00:00
 coalesced_from:
   - "/concepts/terminal-lucidity/"
   - "/topics/terminal-lucidity-and-filter-transmission-theory/"
+embedded_videos:
+  - id: 5djGZdk-GM8
+    url: https://www.youtube-nocookie.com/embed/5djGZdk-GM8
+    embedded: 2026-05-03T11:28:31.705816+00:00
+    source: notebooklm/0038-01-terminal-lucidity-and-filter-transmission-theory
 ---
 
 Terminal lucidity—the return of mental clarity, memory, and personality in patients with severe neurological conditions shortly before death—provides the strongest single-phenomenon case for [[filter-theory|filter/transmission theory]] over productive (generative) models of consciousness. Where other anomalies like [[near-death-experiences]] and [[psychedelics-and-the-filter-model|psychedelic states]] each admit plausible materialist explanations taken individually, terminal lucidity poses a structural problem for production models: if the brain generates consciousness the way a factory produces goods, then a factory with its machinery destroyed cannot produce a final flawless product. Yet that is what terminal lucidity appears to involve. Coined by Michael Nahm in 2009, the term describes episodes in which patients who have been nonverbal and cognitively absent for months or years suddenly recognise family members, hold coherent conversations, and recall long-lost autobiographical memories.
+
+<details class="yt-embed" data-video-id="5djGZdk-GM8">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/5djGZdk-GM8">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Evidence Base
 

@@ -4,7 +4,7 @@ description: "Does consciousness survive bodily death? Dualism keeps the questio
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-04-06T01:00:00+00:00
+ai_modified: 2026-05-03T11:41:37.772459+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

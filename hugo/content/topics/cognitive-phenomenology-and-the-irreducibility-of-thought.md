@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-05-01 08:40:00+00:00
+ai_modified: 2026-05-03 11:28:31.664520+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,6 +25,11 @@ description: If thinking itself has phenomenal character beyond sensory accompan
   materialism must explain not just the redness of red but the very experience of
   understanding — a challenge it cannot meet.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.664520+00:00
+  id: w-S0oHEGOGY
+  source: notebooklm/0017-01-cognitive-phenomenology-and-the-irreducibility-of-thought
+  url: https://www.youtube-nocookie.com/embed/w-S0oHEGOGY
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-01 08:40:00+00:00
@@ -48,6 +53,12 @@ topics:
 The [hard problem of consciousness](/topics/hard-problem-of-consciousness/) is usually framed around sensation: why does seeing red feel like *something*? But if [cognitive-phenomenology](/concepts/cognitive-phenomenology/) is real — if there is something it is like to *think*, to grasp a meaning, to follow an argument — then the hard problem extends far beyond perception into the very fabric of rational life. Materialism must explain not just [sensory qualia](/concepts/qualia/) but the phenomenal character of understanding itself. This expansion transforms what looked like a localised puzzle about sensation into a pervasive challenge to every reductive programme.
 
 The Unfinishable Map holds that cognitive phenomenology probably exists, drawing on phenomenal contrast arguments, dissociation evidence, and contemplative testimony (see [cognitive-phenomenology](/concepts/cognitive-phenomenology/) for the full case). This article explores what follows. If thought is phenomenally conscious, the materialist position faces difficulties that go well beyond the familiar sensory hard problem — difficulties that bear directly on functionalism, the nature of intentionality, and the scope of dualist explanation.
+
+<details class="yt-embed" data-video-id="w-S0oHEGOGY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/w-S0oHEGOGY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Materialist Retreat
 

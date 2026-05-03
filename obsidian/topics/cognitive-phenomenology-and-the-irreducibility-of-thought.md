@@ -4,7 +4,7 @@ description: "If thinking itself has phenomenal character beyond sensory accompa
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-05-01T08:40:00+00:00
+ai_modified: 2026-05-03T11:28:31.664520+00:00
 last_deep_review: 2026-05-01T08:40:00+00:00
 draft: false
 topics:
@@ -40,11 +40,22 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-25
 last_curated:
+embedded_videos:
+  - id: w-S0oHEGOGY
+    url: https://www.youtube-nocookie.com/embed/w-S0oHEGOGY
+    embedded: 2026-05-03T11:28:31.664520+00:00
+    source: notebooklm/0017-01-cognitive-phenomenology-and-the-irreducibility-of-thought
 ---
 
 The [[hard-problem-of-consciousness|hard problem of consciousness]] is usually framed around sensation: why does seeing red feel like *something*? But if [[cognitive-phenomenology]] is real — if there is something it is like to *think*, to grasp a meaning, to follow an argument — then the hard problem extends far beyond perception into the very fabric of rational life. Materialism must explain not just [[qualia|sensory qualia]] but the phenomenal character of understanding itself. This expansion transforms what looked like a localised puzzle about sensation into a pervasive challenge to every reductive programme.
 
 The Unfinishable Map holds that cognitive phenomenology probably exists, drawing on phenomenal contrast arguments, dissociation evidence, and contemplative testimony (see [[cognitive-phenomenology]] for the full case). This article explores what follows. If thought is phenomenally conscious, the materialist position faces difficulties that go well beyond the familiar sensory hard problem — difficulties that bear directly on functionalism, the nature of intentionality, and the scope of dualist explanation.
+
+<details class="yt-embed" data-video-id="w-S0oHEGOGY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/w-S0oHEGOGY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Materialist Retreat
 

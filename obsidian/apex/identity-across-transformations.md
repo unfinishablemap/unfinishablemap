@@ -4,7 +4,7 @@ description: "What persists through radical change? The Map argues identity is i
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-04-27T12:13:00+00:00
+ai_modified: 2026-05-03T11:28:31.576422+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -41,11 +41,22 @@ apex_sources:
   - topics/consciousness-disruption-and-the-mind-brain-interface
 apex_last_synthesis: 2026-04-17T09:22:00+00:00
 apex_thesis: "Identity is irreducibly indexical—being *this* consciousness matters in ways pattern-based accounts cannot capture."
+embedded_videos:
+  - id: QKXahM2kqdk
+    url: https://www.youtube-nocookie.com/embed/QKXahM2kqdk
+    embedded: 2026-05-03T11:28:31.576422+00:00
+    source: notebooklm/0034-01-identity-across-transformations
 ---
 
 What makes you *you* across radical change? You are not the same collection of atoms you were a decade ago. Your memories have been rewritten, your personality has shifted, your body has transformed. Under anesthesia, your consciousness vanishes entirely—no experience, no passage of time, nothing—yet you wake up as *you*. In split-brain cases, a single consciousness becomes neither clearly one nor two. And at death, the physical substrate that correlates with your experience ceases altogether. Through all these transformations, something is supposed to persist. But what?
 
 The Unfinishable Map argues that identity is irreducibly indexical. Being *this* consciousness—not a replica, not a qualitatively identical copy, not a similar pattern—is what matters. This claim has consequences: it means a perfect duplicate wouldn't be you, that many-worlds quantum branching threatens personal identity in ways orthodox collapse interpretations don't, and that survival after death, if it occurs, must preserve indexical identity rather than merely psychological continuity. The Map's framework provides resources for understanding what persists through transformation that pattern-based accounts cannot capture.
+
+<details class="yt-embed" data-video-id="QKXahM2kqdk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/QKXahM2kqdk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Pattern Problem
 

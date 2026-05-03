@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-25 05:27:00+00:00
+ai_modified: 2026-05-03 11:28:31.641445+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,6 +14,11 @@ date: &id001 2026-02-15
 description: The 10¹²-fold mismatch between quantum decoherence and neural decision
   timescales challenges quantum consciousness theories.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.641445+00:00
+  id: vxL7OeBmSJM
+  source: notebooklm/0015-01-timing-gap-problem
+  url: https://www.youtube-nocookie.com/embed/vxL7OeBmSJM
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-25 05:27:00+00:00
@@ -33,6 +38,12 @@ topics:
 The timing gap problem is the mismatch between quantum decoherence timescales and neural decision timescales. Tegmark (2000) calculated that quantum superpositions in neural systems collapse in approximately 10⁻¹³ seconds (femtoseconds), while conscious neural decisions operate at 200-550 milliseconds. This twelve-order-of-magnitude gap poses a direct challenge to any theory proposing that consciousness interacts with the brain through quantum mechanics: if superpositions vanish trillions of times faster than neurons decide, quantum effects cannot meaningfully influence neural outcomes.
 
 The timing gap is The Unfinishable Map's most important empirical challenge. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness biases quantum indeterminacies in the brain. If the relevant quantum states collapse before neural processes can register them, this tenet faces a serious difficulty. For comprehensive treatment of the timing hierarchy and mechanism-specific responses, see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/).
+
+<details class="yt-embed" data-video-id="vxL7OeBmSJM">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/vxL7OeBmSJM">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Gap Defined
 

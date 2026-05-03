@@ -4,7 +4,7 @@ description: "First-person investigation reveals consciousness structures invisi
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-01T10:25:00+00:00
+ai_modified: 2026-05-03T11:28:31.573328+00:00
 last_deep_review: 2026-05-01T10:25:00+00:00
 draft: false
 topics:
@@ -36,11 +36,22 @@ apex_sources:
   - topics/aesthetics-and-consciousness
 apex_last_synthesis: 2026-04-28T12:59:00+00:00
 apex_thesis: "Contemplative traditions and phenomenological philosophy access aspects of consciousness that third-person neuroscience cannot reach. Two millennia of systematic first-person investigation constitute systematic observational data—trained practitioners refining their reports of mental phenomena across independent traditions."
+embedded_videos:
+  - id: oWB25iuCF2I
+    url: https://www.youtube-nocookie.com/embed/oWB25iuCF2I
+    embedded: 2026-05-03T11:28:31.573328+00:00
+    source: notebooklm/0014-01-contemplative-path
 ---
 
 Some things can only be seen from inside. A neuroscientist can map the brain correlates of meditation, but the quality of witnessing awareness—the spacious, effortless observation that contemplatives describe—remains invisible to brain scans. [[phenomenology|Phenomenological investigation]] accesses what third-person methods cannot reach. The Unfinishable Map takes contemplative traditions seriously as sources of evidence, not merely as objects of study.
 
 This matters because consciousness is fundamentally first-person. Whatever else it is, experience is experience *for* someone. A complete science of consciousness must incorporate the testimony of those who have investigated experience systematically from within. Two millennia of contemplative practice across diverse traditions constitute systematic first-person data—the refined observations of trained practitioners who have developed phenomenological precision far beyond ordinary introspection. Whether this data supports dualism specifically, or is equally compatible with sophisticated physicalism, is a question the Map engages honestly throughout.
+
+<details class="yt-embed" data-video-id="oWB25iuCF2I">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/oWB25iuCF2I">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Epistemic Situation
 

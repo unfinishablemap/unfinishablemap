@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-04-30T22:25:00+00:00
+ai_modified: 2026-05-03T11:28:31.655803+00:00
 draft: false
 last_deep_review: 2026-04-30T22:25:00+00:00
 topics:
@@ -43,11 +43,22 @@ author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-23
 last_curated:
+embedded_videos:
+  - id: 3p6g3W_8h-Q
+    url: https://www.youtube-nocookie.com/embed/3p6g3W_8h-Q
+    embedded: 2026-05-03T11:28:31.655803+00:00
+    source: notebooklm/0039-01-argument-from-reason
 ---
 
 If physicalism is true—if thoughts are fully explainable by nonrational physical causes—then no belief is rationally justified, including the belief in physicalism itself. The argument from reason claims that rational inference requires tracking normative relationships (what follows from what, what counts as good evidence), but physical causation operates via efficient causes that cannot instantiate these normative relationships. This self-defeat structure provides one of the strongest cases for [[dualism]]: consciousness must involve irreducible normative properties that physical processes cannot capture.
 
 The argument originated with C.S. Lewis's *Miracles* (1947), was substantially revised after Elizabeth Anscombe's 1948 critique for the 1960 second edition, and has been developed by contemporary philosophers Victor Reppert, Alvin Plantinga, and William Hasker. It remains a central challenge to physicalism precisely because it doesn't depend on controversial intuitions about [[qualia]] or [[philosophical-zombies|zombies]]—it targets the very possibility of rational justification for any belief, including physicalism.
+
+<details class="yt-embed" data-video-id="3p6g3W_8h-Q">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/3p6g3W_8h-Q">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Core Argument
 

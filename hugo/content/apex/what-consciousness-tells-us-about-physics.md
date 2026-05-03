@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-05-03 01:22:00+00:00
+ai_modified: 2026-05-03 11:28:31.632243+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-27 12:43:00+00:00
 apex_sources:
@@ -41,6 +41,11 @@ description: If consciousness participates in quantum outcomes, quantum mechanic
   is structurally partial—complete about possibilities, silent about actuality. The
   reverse inference from mind to matter constrains what physics can be.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.632243+00:00
+  id: rwOc9oy8OEk
+  source: notebooklm/0032-01-what-consciousness-tells-us-about-physics
+  url: https://www.youtube-nocookie.com/embed/rwOc9oy8OEk
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-22 09:38:00+00:00
@@ -72,6 +77,12 @@ The answer developed here: quantum mechanics is not incomplete in the way Einste
 This is the reverse inference. Instead of asking "does physics leave room for consciousness?" we ask "what does consciousness tell us about physics?"—and the answer is surprisingly specific.
 
 **Headline guard.** The argument below sometimes uses "consciousness selects" as shorthand. The Map's actual thesis is weaker than that headline: collapse occurs whether or not anyone is conscious—objective-collapse mechanisms (e.g. GRW-style spontaneous reduction) supply the baseline—and consciousness biases statistics within those collapse events under [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) limits. This is structurally different from the von Neumann–Wigner reading on which "consciousness causes collapse"; see [the V-N-W article](/concepts/von-neumann-wigner-interpretation/#relation-to-site-perspective) for the full disclosure of where the Map departs from that lineage.
+
+<details class="yt-embed" data-video-id="rwOc9oy8OEk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/rwOc9oy8OEk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Usual Direction: Physics First
 

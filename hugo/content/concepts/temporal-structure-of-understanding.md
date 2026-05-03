@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-28 07:34:00+00:00
+ai_modified: 2026-05-03 11:28:31.638938+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,6 +26,11 @@ date: &id001 2026-01-22
 description: 'The click of comprehension has temporal phenomenology: suddenness, integration,
   completion. Understanding may require consciousness, not just computation.'
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.638938+00:00
+  id: 2nMOnGLRG50
+  source: notebooklm/0028-01-temporal-structure-of-understanding
+  url: https://www.youtube-nocookie.com/embed/2nMOnGLRG50
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-28 07:34:00+00:00
@@ -43,6 +48,12 @@ topics:
 Understanding unfolds in time. The "click" when a proof resolves, the gradual emergence of meaning as a complex sentence is parsed, the sudden insight after incubation—all have distinctive temporal phenomenology. This temporal structure is not incidental to understanding but may be constitutive of it. If understanding has a characteristic temporal shape, and if that shape requires phenomenal consciousness, then systems lacking temporal phenomenology may manipulate symbols without genuinely understanding them.
 
 The Unfinishable Map proposes that the temporal structure of understanding provides evidence for [cognitive-phenomenology](/concepts/cognitive-phenomenology/)—the view that thinking itself has irreducible phenomenal character. The phenomenology of understanding is inherently temporal: we experience understanding *happening*, unfolding across the [specious present](/concepts/temporal-consciousness/) in ways that mere information processing cannot capture.
+
+<details class="yt-embed" data-video-id="2nMOnGLRG50">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/2nMOnGLRG50">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Temporal Phenomenology of Understanding
 

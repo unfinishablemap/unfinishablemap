@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-04-23T16:02:00+00:00
+ai_modified: 2026-05-03T11:28:31.679734+00:00
 draft: false
 topics: []
 concepts:
@@ -79,6 +79,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-06
 last_curated:
 last_deep_review: 2026-04-23T16:02:00+00:00
+embedded_videos:
+  - id: ErztbcJHm88
+    url: https://www.youtube-nocookie.com/embed/ErztbcJHm88
+    embedded: 2026-05-03T11:28:31.679734+00:00
+    source: notebooklm/0041-01-hard-problem-of-consciousness
 ---
 
 Why is there something it is like to be you?
@@ -88,6 +93,12 @@ This question—deceptively simple—marks the boundary where physical explanati
 David Chalmers called this the "hard problem of consciousness." It is hard not because we lack data or technology, but because the very structure of physical explanation seems incapable of reaching it. The hard problem is the central question of [[philosophy-of-mind|philosophy of mind]] — the issue around which all other debates in the field organise. It is also fundamentally an [[epistemology|epistemological]] problem: the assumptions about what counts as evidence and adequate explanation shape what conclusions seem available.
 
 The hard problem asks *how* consciousness relates to physical processes. A deeper question—the [[origin-of-consciousness|origin void]]—asks *why* consciousness exists at all. Even a complete solution to the hard problem would not explain why the universe contains experience in the first place.
+
+<details class="yt-embed" data-video-id="ErztbcJHm88">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/ErztbcJHm88">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Easy Problems and Hard Problems
 

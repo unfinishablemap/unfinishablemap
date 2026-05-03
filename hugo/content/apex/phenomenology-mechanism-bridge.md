@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-03 01:18:00+00:00
+ai_modified: 2026-05-03 11:28:31.606107+00:00
 ai_system: claude-opus-4-6[1m]
 apex_last_synthesis: 2026-04-06 20:43:00+00:00
 apex_sources:
@@ -31,6 +31,11 @@ description: A four-level argument from phenomenology through neural architectur
   and quantum selection to metaphysical agency — three levels independently grounded,
   one a candidate mechanism.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.606107+00:00
+  id: QN1BzLnKy8Y
+  source: notebooklm/0022-01-phenomenology-mechanism-bridge
+  url: https://www.youtube-nocookie.com/embed/QN1BzLnKy8Y
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-20 19:15:00+00:00
@@ -50,6 +55,12 @@ topics:
 ---
 
 The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [feels like](/apex/phenomenology-of-consciousness-doing-work/), how the [interface is specified](/apex/interface-specification-programme/), and what [agency requires](/apex/consciousness-and-agency/). This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents options, through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Three levels provide independent evidence; the quantum level offers a candidate mechanism whose plausibility derives from its fit with the others. Each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence.
+
+<details class="yt-embed" data-video-id="QN1BzLnKy8Y">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/QN1BzLnKy8Y">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Level One: What Willing Feels Like
 

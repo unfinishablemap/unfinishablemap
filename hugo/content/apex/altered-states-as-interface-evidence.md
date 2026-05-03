@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-04-17 11:56:00+00:00
+ai_modified: 2026-05-03 11:28:31.565352+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-04-16 09:14:00+00:00
 apex_sources:
@@ -40,6 +40,11 @@ description: Five altered states—psychedelics, dreams, hypnagogia, meditation,
   on the same multi-channel interface architecture, mapping consciousness-brain coupling
   through systematic perturbation.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.565352+00:00
+  id: fihonjLV5CQ
+  source: notebooklm/0013-01-altered-states-as-interface-evidence
+  url: https://www.youtube-nocookie.com/embed/fihonjLV5CQ
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-17 11:56:00+00:00
@@ -63,6 +68,12 @@ topics:
 ---
 
 Altered states of consciousness are usually treated as curiosities—isolated phenomena to be explained one at a time. The Unfinishable Map argues they are something more: a systematic dataset that maps the architecture of the consciousness-brain interface with a precision no single state achieves alone. Meditation, psychedelics, dreaming, hypnagogia, and anaesthesia each modulate specific components of the interface in distinct ways. When these modulations are compared—when we ask which features of consciousness survive, which degrade, and which intensify across states—a coherent picture emerges. The interface is not a single channel but a multi-layered architecture with separable components that can be individually reconfigured. This convergent evidence supports the Map's [filter theory](/concepts/filter-theory/): the brain constrains consciousness through configurable filtering, and altered states reveal the filter's structure by varying its settings.
+
+<details class="yt-embed" data-video-id="fihonjLV5CQ">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/fihonjLV5CQ">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Why Altered States Matter for the Interface
 

@@ -4,7 +4,7 @@ description: "MWI faces a deep crisis: if all outcomes occur, probability loses 
 created: 2026-03-04
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-04-10T21:56:00+00:00
+ai_modified: 2026-05-03T11:28:31.698967+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,9 +31,20 @@ coalesced_from:
   - "/topics/probability-problem-in-many-worlds/"
   - "/topics/decision-theory-cannot-save-many-worlds/"
   - "/concepts/probability-objections-many-worlds/"
+embedded_videos:
+  - id: Dr6q2X4A5Xc
+    url: https://www.youtube-nocookie.com/embed/Dr6q2X4A5Xc
+    embedded: 2026-05-03T11:28:31.698967+00:00
+    source: notebooklm/0011-01-probability-problem-in-many-worlds
 ---
 
 The Many-Worlds Interpretation faces a probability crisis that may be fatal. If every quantum outcome occurs in some branch, what does it mean to say one outcome is "more probable" than another? The Unfinishable Map's [[concepts/many-worlds|existing critique of MWI]] identifies the probability problem as one of five major objections. This article examines the problem in depth, surveying three major recovery strategies—decision theory, self-locating uncertainty, and envariance—and the objections that undermine each. After seven decades, the probability problem remains unresolved. This failure provides strong independent support for the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet.
+
+<details class="yt-embed" data-video-id="Dr6q2X4A5Xc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Dr6q2X4A5Xc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Problems, Not One
 

@@ -4,7 +4,7 @@ description: "Major consciousness experiments of 2025-2026—COGITATE adversaria
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-03-28T07:42:00+00:00
+ai_modified: 2026-05-03T11:28:31.670214+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,9 +28,20 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated:
 last_deep_review: 2026-03-28T07:42:00+00:00
+embedded_videos:
+  - id: 9cHrSnEjSzk
+    url: https://www.youtube-nocookie.com/embed/9cHrSnEjSzk
+    embedded: 2026-05-03T11:28:31.670214+00:00
+    source: notebooklm/0016-01-experimental-consciousness-science-2025-2026
 ---
 
 The Unfinishable Map treats consciousness as irreducible to physical processes. In 2025 and early 2026, a series of landmark experiments tested that assumption from the physicalist side—and the results are striking. The two dominant physicalist-adjacent theories, [[integrated-information-theory|Integrated Information Theory]] (IIT) and [[global-workspace-theory|Global Neuronal Workspace Theory]] (GNWT), were tested head-to-head in the largest adversarial collaboration in consciousness science history. Neither theory's predictions were fully confirmed. Meanwhile, new findings in brain biophoton emission, split-brain unity, quantum field models, and covert consciousness detection have opened empirical windows that physicalist frameworks struggle to interpret. This article synthesises these developments and examines what they mean for the Map's dualist framework.
+
+<details class="yt-embed" data-video-id="9cHrSnEjSzk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/9cHrSnEjSzk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The COGITATE Adversarial Collaboration
 

@@ -41,6 +41,7 @@ CYCLE_LENGTH = len(TASK_CYCLE)
 # Less frequent tasks - run every N complete cycles
 # Key = skill name, Value = run every N cycles
 CYCLE_TRIGGERS: dict[str, int] = {
+    "embed-videos": 1,     # Every cycle — picks up newly-published YouTube videos
     "check-links": 2,      # Every 2 cycles (48 sessions)
     "research-voids": 2,   # Every 2 cycles (48 sessions) - moved from main cycle; voids at capacity
     "check-tenets": 3,     # Every 3 cycles (72 sessions)

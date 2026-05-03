@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-26 02:48:00+00:00
+ai_modified: 2026-05-03 11:28:31.610507+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-26 02:48:00+00:00
 apex_sources:
@@ -30,6 +30,11 @@ description: What does it feel like when consciousness acts on matter? Effort, s
   holding, and opacity form a coherent phenomenological profile that materialist accounts
   struggle to explain.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.610507+00:00
+  id: GnGdrzel6OA
+  source: notebooklm/0023-01-phenomenology-of-consciousness-doing-work
+  url: https://www.youtube-nocookie.com/embed/GnGdrzel6OA
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-17 07:55:00+00:00
@@ -51,6 +56,12 @@ topics:
 The Unfinishable Map holds that consciousness does real work — that it selects among physical possibilities the brain generates, biasing quantum indeterminacies toward outcomes that reflect what we intend, value, and deliberate about. Other apex articles address the mechanism (attention as the [causal bridge](/apex/attention-as-causal-bridge/)) and the philosophical case for agency ([consciousness and agency](/apex/consciousness-and-agency/)). This article asks a different question: what does the work *feel like*? The phenomenology of consciousness in action — its texture, structure, and cross-cultural invariants — constitutes evidence in its own right. The physicalist can grant that the brain generates phenomenology, but under epiphenomenalism there is no reason the phenomenological profile should *track genuine cognitive demand* — no reason effort should scale with difficulty, selection should correlate with open alternatives, or holding should deplete with duration. That systematic tracking is a brute coincidence if consciousness is disconnected from the processes it mirrors, but a natural consequence if phenomenology reflects real causal engagement. That the features form a coherent pattern across independent lines of evidence is significant evidence for taking mental causation seriously.
 
 The argument builds through four phenomenological features of consciousness at work, examines test cases that reveal these features in action, and shows that cross-cultural evidence confirms the profile's universality.
+
+<details class="yt-embed" data-video-id="GnGdrzel6OA">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/GnGdrzel6OA">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Four Features of Working Consciousness
 

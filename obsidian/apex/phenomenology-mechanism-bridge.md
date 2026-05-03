@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-05-03T01:18:00+00:00
+ai_modified: 2026-05-03T11:28:31.606107+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -41,9 +41,20 @@ apex_sources:
   - concepts/mental-causation
 apex_last_synthesis: 2026-04-06T20:43:00+00:00
 apex_thesis: "A complete argument chain runs from the phenomenology of willing through neural motor architecture through quantum selection to metaphysical agency — three levels providing independent evidence, the quantum level serving as a candidate mechanism — while the connections between levels constitute a mutually supporting structure whose coherence across four explanatory domains is a theoretical virtue consistent with the Map's interactionist framework capturing something real."
+embedded_videos:
+  - id: QN1BzLnKy8Y
+    url: https://www.youtube-nocookie.com/embed/QN1BzLnKy8Y
+    embedded: 2026-05-03T11:28:31.606107+00:00
+    source: notebooklm/0022-01-phenomenology-mechanism-bridge
 ---
 
 The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [[phenomenology-of-consciousness-doing-work|feels like]], how the [[interface-specification-programme|interface is specified]], and what [[consciousness-and-agency|agency requires]]. This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents options, through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Three levels provide independent evidence; the quantum level offers a candidate mechanism whose plausibility derives from its fit with the others. Each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence.
+
+<details class="yt-embed" data-video-id="QN1BzLnKy8Y">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/QN1BzLnKy8Y">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Level One: What Willing Feels Like
 

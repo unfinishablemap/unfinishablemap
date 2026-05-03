@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-02 00:53:00+00:00
+ai_modified: 2026-05-03 11:28:31.579836+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-18 09:45:00+00:00
 apex_sources:
@@ -29,6 +29,11 @@ description: Six converging lines of inquiry—bandwidth, control operations, ca
   delegation, causal powers, the psychophysical control law, and attention disorders—specify
   the mind-matter interface as a research programme.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.579836+00:00
+  id: F7XUN6ZIywA
+  source: notebooklm/0021-01-interface-specification-programme
+  url: https://www.youtube-nocookie.com/embed/F7XUN6ZIywA
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-01 06:11:00+00:00
@@ -48,6 +53,12 @@ topics:
 ---
 
 The Unfinishable Map does not merely assert that consciousness influences the physical world. It is developing a specification of *how*. Across six distinct lines of inquiry—the [psychophysical control law](/topics/the-psychophysical-control-law/), the [bandwidth problem](/concepts/consciousness-bandwidth-architecture/), [control-theoretic will](/concepts/control-theoretic-will/), [causal delegation](/concepts/delegatory-causation/), the nature of [consciousness's causal powers](/topics/consciousness-and-causal-powers/), and what [attention disorders reveal about the interface](/topics/attention-and-the-consciousness-interface/)—a single architecture emerges. The mind-matter interface is a low-bandwidth, feedback-dependent control channel through which consciousness selects among brain-prepared alternatives without injecting energy or violating conservation laws. Each line of inquiry constrains this picture from a different direction: causal powers define what the interface can do, bandwidth defines how much it can carry, control theory specifies the operations it performs, causal delegation describes its causal structure, the psychophysical control law seeks its formal specification, and attention disorders reveal what happens when it breaks. Together they constitute not scattered observations but a unified research programme—one precise enough to generate predictions and honest enough to mark where specification remains incomplete.
+
+<details class="yt-embed" data-video-id="F7XUN6ZIywA">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/F7XUN6ZIywA">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Problem: From Commitment to Specification
 

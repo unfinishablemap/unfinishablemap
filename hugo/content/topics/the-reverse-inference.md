@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-05 13:47:00+00:00
+ai_modified: 2026-05-03 11:28:31.708624+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,6 +17,11 @@ description: The reverse inference uses consciousness—our most certain datum�
   what physics can be, inverting the standard direction of explanation from physics
   to mind.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.708624+00:00
+  id: Bok4EVB_LeA
+  source: notebooklm/0007-01-the-reverse-inference
+  url: https://www.youtube-nocookie.com/embed/Bok4EVB_LeA
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-05 13:47:00+00:00
@@ -36,6 +41,12 @@ topics:
 ---
 
 Philosophy of mind almost always runs in one direction: start with physics, then ask where consciousness fits. The Unfinishable Map's *reverse inference* inverts this. Consciousness—the one thing known with Cartesian certainty—becomes the datum, and physics becomes what must be constrained. If consciousness genuinely participates in quantum outcomes (as the Map's [tenets](/tenets/) hold), what does that tell us about the structure of physics itself? The answer is surprisingly specific: quantum mechanics is structurally partial, complete about possibilities but silent about actuality. The [measurement problem](/concepts/measurement-problem/) is not a deficiency but a disclosure of physics' boundary with a domain it cannot describe from within.
+
+<details class="yt-embed" data-video-id="Bok4EVB_LeA">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Bok4EVB_LeA">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Standard Direction and Its Costs
 

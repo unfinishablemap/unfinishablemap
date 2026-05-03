@@ -4,7 +4,7 @@ description: "What consciousness-first philosophy means for daily life. The Map 
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-01T21:33:00+00:00
+ai_modified: 2026-05-03T11:28:31.583340+00:00
 last_deep_review: 2026-04-27T19:57:00+00:00
 draft: false
 topics:
@@ -41,6 +41,11 @@ apex_sources:
   - topics/free-will
 apex_last_synthesis: 2026-05-01T21:33:00+00:00
 apex_thesis: "If consciousness is fundamental and our choices genuinely matter, then the quest to understand our situation—what we are, why we exist, what we should do—becomes the essential precursor to every meaningful decision. The Map offers not just a metaphysical picture but practical guidance: pursue answers because they may be within reach, and let that pursuit inform how you live."
+embedded_videos:
+  - id: sgXxVi3Qlmw
+    url: https://www.youtube-nocookie.com/embed/sgXxVi3Qlmw
+    embedded: 2026-05-03T11:28:31.583340+00:00
+    source: notebooklm/0037-01-living-with-the-map
 ---
 
 You wake up tomorrow. What matters about that day? One materialist implication: nothing, ultimately—you're patterns of neural firing that will dissolve, in a universe indifferent to your existence. Some materialists resist this conclusion, but the logic pulls toward it: if consciousness is just what brains do, significance has no ground beyond the biological drives that produced it. The Unfinishable Map offers a different answer: what matters is the quality of your conscious experience, and that quality is something you genuinely influence through choices that are yours to make.
@@ -48,6 +53,12 @@ You wake up tomorrow. What matters about that day? One materialist implication: 
 Philosophy can seem remote from daily life—abstract puzzles debated by specialists. The Map rejects this separation. If consciousness is fundamental rather than accidental, if your choices genuinely author your life rather than merely decorating a predetermined script, then understanding your situation becomes practically urgent. What you are, why you exist, what you should do—these questions matter not as intellectual exercises but as prerequisites for living well.
 
 What follows draws together what this framework implies for daily existence. Not prescriptions for particular lifestyles, but orientations for meaningful living—grounded in the conviction that conscious experience is where value actually resides.
+
+<details class="yt-embed" data-video-id="sgXxVi3Qlmw">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/sgXxVi3Qlmw">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Starting Point: You Are Real
 

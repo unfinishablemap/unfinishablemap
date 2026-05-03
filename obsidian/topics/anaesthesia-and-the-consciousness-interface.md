@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-04-17
 human_modified:
-ai_modified: 2026-05-01T07:25:00+00:00
+ai_modified: 2026-05-03T11:41:37.772459+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

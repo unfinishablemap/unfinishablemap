@@ -4,7 +4,7 @@ description: "Erik Hoel argues no scientific theory can attribute consciousness 
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-04-23T16:41:00+00:00
+ai_modified: 2026-05-03T11:41:37.772459+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"

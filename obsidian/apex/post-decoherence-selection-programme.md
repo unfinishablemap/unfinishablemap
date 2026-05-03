@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-02T00:53:00+00:00
+ai_modified: 2026-05-03T11:28:31.616441+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,9 +42,20 @@ apex_sources:
   - concepts/contextual-selection-in-quantum-foundations
 apex_last_synthesis: 2026-03-29T13:56:00+00:00
 apex_thesis: "Five converging lines of inquiry—the post-decoherence selection gap, quantum Darwinism's menu specification, contextuality's structural constraints, weak measurement's boundary-condition alternative, and stochastic amplification's causal bridge—together constitute a physics research programme that specifies how consciousness could act after decoherence, sidestepping the timing objection that has stalled quantum consciousness theories for two decades."
+embedded_videos:
+  - id: oWWgbZPoD9Q
+    url: https://www.youtube-nocookie.com/embed/oWWgbZPoD9Q
+    embedded: 2026-05-03T11:28:31.616441+00:00
+    source: notebooklm/0020-01-post-decoherence-selection-programme
 ---
 
 The strongest empirical objection to quantum consciousness theories is the [[timing-gap-problem|timing gap]]: decoherence destroys quantum superpositions in neural tissue within femtoseconds, while conscious decisions take hundreds of milliseconds. For two decades this objection has seemed decisive. The Unfinishable Map proposes a response that does not dispute the physics but reframes the question. If consciousness acts *after* decoherence—selecting which element of the already-decohered mixture becomes actual—then the decoherence timescale is irrelevant. This is not a single hypothesis but a research programme built from five converging lines of inquiry: the [[post-decoherence-selection|post-decoherence selection]] gap that decoherence leaves, [[quantum-darwinism-and-consciousness|quantum Darwinism's]] specification of the menu, [[contextual-selection-in-quantum-foundations|quantum contextuality's]] structural constraints on what selection can mean, [[weak-measurement-and-post-selection|weak measurement and post-selection's]] alternative mechanism through boundary conditions, and [[amplification-mechanisms-consciousness-physics|stochastic amplification's]] causal bridge from quantum bias to neural behaviour. Together they specify what a complete theory of consciousness acting after decoherence would require—and where the gaps remain.
+
+<details class="yt-embed" data-video-id="oWWgbZPoD9Q">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/oWWgbZPoD9Q">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Gap That Physics Cannot Close
 

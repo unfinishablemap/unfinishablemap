@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-05-03T01:22:00+00:00
+ai_modified: 2026-05-03T11:28:31.632243+00:00
 last_deep_review: 2026-04-22T09:38:00+00:00
 draft: false
 topics:
@@ -58,6 +58,11 @@ apex_sources:
   - voids/nomic-void
 apex_last_synthesis: 2026-04-27T12:43:00+00:00
 apex_thesis: "If consciousness participates in quantum outcomes, quantum mechanics is structurally partial—a complete theory of possibilities that is silent about actuality. The Born rule is an interface specification. The measurement problem is a disclosure, not a deficiency. This reverse inference constrains what a more complete ontology would look like."
+embedded_videos:
+  - id: rwOc9oy8OEk
+    url: https://www.youtube-nocookie.com/embed/rwOc9oy8OEk
+    embedded: 2026-05-03T11:28:31.632243+00:00
+    source: notebooklm/0032-01-what-consciousness-tells-us-about-physics
 ---
 
 Philosophy of mind usually asks whether physics *permits* consciousness to play a role. The Unfinishable Map's [[tenets]] answer yes and go further: consciousness is irreducible, causally efficacious, and interacts with physics at quantum indeterminacies. But this article reverses the question. If the tenets are correct—if consciousness modulates which quantum possibilities actualise within an otherwise lawful collapse process—what does that tell us about the structure of physics itself? What does consciousness, taken as a datum, reveal about what lies behind the wavefunction?
@@ -67,6 +72,12 @@ The answer developed here: quantum mechanics is not incomplete in the way Einste
 This is the reverse inference. Instead of asking "does physics leave room for consciousness?" we ask "what does consciousness tell us about physics?"—and the answer is surprisingly specific.
 
 **Headline guard.** The argument below sometimes uses "consciousness selects" as shorthand. The Map's actual thesis is weaker than that headline: collapse occurs whether or not anyone is conscious—objective-collapse mechanisms (e.g. GRW-style spontaneous reduction) supply the baseline—and consciousness biases statistics within those collapse events under [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] limits. This is structurally different from the von Neumann–Wigner reading on which "consciousness causes collapse"; see [[von-neumann-wigner-interpretation#relation-to-site-perspective|the V-N-W article]] for the full disclosure of where the Map departs from that lineage.
+
+<details class="yt-embed" data-video-id="rwOc9oy8OEk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/rwOc9oy8OEk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Usual Direction: Physics First
 

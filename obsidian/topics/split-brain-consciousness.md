@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-23T20:16:25+00:00
+ai_modified: 2026-05-03T11:41:37.772459+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

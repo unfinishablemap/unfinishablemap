@@ -104,6 +104,48 @@
         }
         .archive-notice strong { color: #ef4444; }
 
+        /* YouTube embed: a collapsible <details> placeholder. Closed by
+           default; the user opts in. JS swaps the inner anchor for an
+           iframe wrapper while leaving the summary and caption intact. */
+        details.yt-embed {
+            margin: 1.5rem 0;
+        }
+        details.yt-embed > summary {
+            cursor: pointer;
+            color: var(--pico-primary);
+            text-decoration: underline;
+            text-decoration-color: var(--pico-primary-underline);
+            text-underline-offset: 0.125em;
+            transition: color var(--pico-transition), text-decoration-color var(--pico-transition);
+        }
+        details.yt-embed > summary:hover,
+        details.yt-embed > summary:focus {
+            color: var(--pico-primary-hover);
+            text-decoration-color: var(--pico-primary-hover-underline);
+        }
+        details.yt-embed > .yt-frame {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 16 / 9;
+            background: #000;
+            border-radius: 0.25rem;
+            overflow: hidden;
+            margin: 0.5rem 0;
+        }
+        details.yt-embed > .yt-frame iframe {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+        details.yt-embed > .yt-caption {
+            font-size: 0.875rem;
+            color: var(--pico-muted-color);
+            font-style: italic;
+            margin: 0.25rem 0 0 0;
+        }
+
         /* List page table styling */
         .title-row {
             display: flex;
@@ -134,8 +176,8 @@
             padding: 0.25rem 0.75rem;
             font-size: 0.875rem;
         }
-        table td:nth-child(2),
-        table td:nth-child(3) {
+        .table-sort td:nth-child(2),
+        .table-sort td:nth-child(3) {
             white-space: nowrap;
             font-size: 0.875rem;
             vertical-align: top;
@@ -217,8 +259,8 @@
                 padding: 0.5rem 0.25rem;
             }
             /* Hide Modified column */
-            table th:nth-child(3),
-            table td:nth-child(3) {
+            .table-sort th:nth-child(3),
+            .table-sort td:nth-child(3) {
                 display: none;
             }
         }
@@ -393,6 +435,9 @@
         });
     });
     </script>
+
+    <!-- YouTube embed hydration -->
+    <script defer src="{{ "js/yt-embed.js" | relURL }}"></script>
 
     <!-- Mermaid.js for diagrams -->
     <script type="module">

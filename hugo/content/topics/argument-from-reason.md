@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-30 22:25:00+00:00
+ai_modified: 2026-05-03 11:28:31.655803+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -26,6 +26,11 @@ date: &id001 2026-01-24
 description: If thoughts are fully explained by physical causes, no belief is rationally
   justified—including physicalism itself. A self-defeat argument for dualism.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.655803+00:00
+  id: 3p6g3W_8h-Q
+  source: notebooklm/0039-01-argument-from-reason
+  url: https://www.youtube-nocookie.com/embed/3p6g3W_8h-Q
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-30 22:25:00+00:00
@@ -50,6 +55,12 @@ topics:
 If physicalism is true—if thoughts are fully explainable by nonrational physical causes—then no belief is rationally justified, including the belief in physicalism itself. The argument from reason claims that rational inference requires tracking normative relationships (what follows from what, what counts as good evidence), but physical causation operates via efficient causes that cannot instantiate these normative relationships. This self-defeat structure provides one of the strongest cases for [dualism](/concepts/dualism/): consciousness must involve irreducible normative properties that physical processes cannot capture.
 
 The argument originated with C.S. Lewis's *Miracles* (1947), was substantially revised after Elizabeth Anscombe's 1948 critique for the 1960 second edition, and has been developed by contemporary philosophers Victor Reppert, Alvin Plantinga, and William Hasker. It remains a central challenge to physicalism precisely because it doesn't depend on controversial intuitions about [qualia](/concepts/qualia/) or [zombies](/concepts/philosophical-zombies/)—it targets the very possibility of rational justification for any belief, including physicalism.
+
+<details class="yt-embed" data-video-id="3p6g3W_8h-Q">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/3p6g3W_8h-Q">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Core Argument
 

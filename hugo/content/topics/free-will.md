@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-29 21:40:00+00:00
+ai_modified: 2026-05-03 11:28:31.674020+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -37,6 +37,11 @@ description: Can we genuinely author our choices? The Map defends agent-causal l
   free will grounded in phenomenology—the felt difference between choosing and merely
   observing.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.674020+00:00
+  id: ltzeYOXCUvY
+  source: notebooklm/0042-01-free-will
+  url: https://www.youtube-nocookie.com/embed/ltzeYOXCUvY
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-29 17:40:00+00:00
@@ -57,6 +62,12 @@ topics:
 ---
 
 Free will is the capacity to have done otherwise—to be the genuine author of one's choices rather than a puppet of prior causes. The Unfinishable Map defends a distinctive position: consciousness is an [agent-causal](/concepts/agent-causation/) power that genuinely influences physical outcomes. The core evidence is phenomenological—the felt difference between choosing and observing, the effort of deliberation, the distinctive neural signatures of willed action. These phenomena survive regardless of which physical mechanism enables consciousness-brain interaction.
+
+<details class="yt-embed" data-video-id="ltzeYOXCUvY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/ltzeYOXCUvY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Core Problem
 

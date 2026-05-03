@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-04-02 18:38:00+00:00
+ai_modified: 2026-05-03 11:28:31.711331+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,6 +17,11 @@ description: How does consciousness construct a unified three-dimensional world 
   fragmented sensory inputs? Exploring why computational accounts leave the phenomenal
   spatial model unexplained.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.711331+00:00
+  id: 3xGk-mlkqoY
+  source: notebooklm/0005-01-three-dimensional-world-representation-problem
+  url: https://www.youtube-nocookie.com/embed/3xGk-mlkqoY
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-02 18:38:00+00:00
@@ -36,6 +41,12 @@ topics:
 ---
 
 The Unfinishable Map identifies a deep puzzle at the intersection of perception, consciousness, and spatial cognition: how does a brain receiving fragmented, two-dimensional sensory signals produce the unified three-dimensional world we consciously inhabit? Computational neuroscience has made remarkable progress explaining how the brain processes depth cues, integrates sensory modalities, and maintains spatial maps. Yet none of this explains why the processing is accompanied by a phenomenal 3D world—a seamless spatial arena in which objects have solidity, distance feels real, and space itself seems to stretch outward from the perceiver. This is the 3D world representation problem, and it is a specific instance of the [hard problem](/topics/hard-problem-of-consciousness/) that reveals something important about the relationship between physical processing and conscious experience.
+
+<details class="yt-embed" data-video-id="3xGk-mlkqoY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/3xGk-mlkqoY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Computational Achievement
 

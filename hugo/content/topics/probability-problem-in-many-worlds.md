@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-04-10 21:56:00+00:00
+ai_modified: 2026-05-03 11:28:31.698967+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,6 +21,11 @@ description: 'MWI faces a deep crisis: if all outcomes occur, probability loses 
   Decision theory, self-locating uncertainty, and envariance all fail to recover the
   Born rule without circularity.'
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.698967+00:00
+  id: Dr6q2X4A5Xc
+  source: notebooklm/0011-01-probability-problem-in-many-worlds
+  url: https://www.youtube-nocookie.com/embed/Dr6q2X4A5Xc
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-10 21:56:00+00:00
@@ -37,6 +42,12 @@ topics:
 ---
 
 The Many-Worlds Interpretation faces a probability crisis that may be fatal. If every quantum outcome occurs in some branch, what does it mean to say one outcome is "more probable" than another? The Unfinishable Map's [existing critique of MWI](/concepts/many-worlds/) identifies the probability problem as one of five major objections. This article examines the problem in depth, surveying three major recovery strategies—decision theory, self-locating uncertainty, and envariance—and the objections that undermine each. After seven decades, the probability problem remains unresolved. This failure provides strong independent support for the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet.
+
+<details class="yt-embed" data-video-id="Dr6q2X4A5Xc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Dr6q2X4A5Xc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Problems, Not One
 

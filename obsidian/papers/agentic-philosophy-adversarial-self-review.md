@@ -2,8 +2,8 @@
 title: "Agentic Philosophy Through Adversarial Self-Review"
 description: "Preprint describing The Unfinishable Map: a continuously operating system that produces and evolves a philosophical knowledge base through tenet-constrained generation and multi-layer adversarial self-review."
 created: 2026-03-01
-modified: 2026-03-01
-human_modified: 2026-03-01
+modified: 2026-05-03
+human_modified: 2026-05-03
 ai_modified: null
 draft: false
 topics: []
@@ -24,6 +24,8 @@ Large language models can produce philosophical text that experts find difficult
 
 ## External Listings
 
+- **DOI:** [10.2139/ssrn.6330678](https://dx.doi.org/10.2139/ssrn.6330678)
+- [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6330678)
 - [PhilPapers](https://philpapers.org/rec/SOUTUM) — [Direct PDF download](https://philpapers.org/go.pl?id=SOUTUM&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FSOUTUM.pdf)
 
 ## Versions

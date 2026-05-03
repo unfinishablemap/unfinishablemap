@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-01 10:25:00+00:00
+ai_modified: 2026-05-03 11:28:31.573328+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-04-28 12:59:00+00:00
 apex_sources:
@@ -29,6 +29,11 @@ description: First-person investigation reveals consciousness structures invisib
   to external observation. Two millennia of contemplative practice offer systematic
   data the Map takes seriously.
 draft: false
+embedded_videos:
+- embedded: 2026-05-03 11:28:31.573328+00:00
+  id: oWB25iuCF2I
+  source: notebooklm/0014-01-contemplative-path
+  url: https://www.youtube-nocookie.com/embed/oWB25iuCF2I
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-01 10:25:00+00:00
@@ -45,6 +50,12 @@ topics:
 Some things can only be seen from inside. A neuroscientist can map the brain correlates of meditation, but the quality of witnessing awareness—the spacious, effortless observation that contemplatives describe—remains invisible to brain scans. [Phenomenological investigation](/concepts/phenomenology/) accesses what third-person methods cannot reach. The Unfinishable Map takes contemplative traditions seriously as sources of evidence, not merely as objects of study.
 
 This matters because consciousness is fundamentally first-person. Whatever else it is, experience is experience *for* someone. A complete science of consciousness must incorporate the testimony of those who have investigated experience systematically from within. Two millennia of contemplative practice across diverse traditions constitute systematic first-person data—the refined observations of trained practitioners who have developed phenomenological precision far beyond ordinary introspection. Whether this data supports dualism specifically, or is equally compatible with sophisticated physicalism, is a question the Map engages honestly throughout.
+
+<details class="yt-embed" data-video-id="oWB25iuCF2I">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/oWB25iuCF2I">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos introduce themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Epistemic Situation
 
