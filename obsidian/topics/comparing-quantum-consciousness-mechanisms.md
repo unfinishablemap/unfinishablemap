@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-04-30T19:21:00+00:00
+ai_modified: 2026-05-03T01:00:00+00:00
 last_deep_review: 2026-03-31T19:38:00+00:00
 draft: false
 topics:
@@ -35,6 +35,7 @@ related_articles:
   - "[[quantum-darwinism-and-consciousness]]"
   - "[[post-decoherence-selection-programme]]"
   - "[[falsification-roadmap-for-the-interface-model]]"
+  - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -116,6 +117,12 @@ Hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousnes
 
 **Falsifiability: Split.** The physical collapse component is highly falsifiable. The consciousness modulation component is not currently testable — computing Q-shapes is intractable beyond toy models, and this may be a principled limit rather than a technological one (see [[testing-consciousness-collapse|the experimental landscape]]). The part we most want to test may be the part we cannot reach.
 
+## The External Critic: Duch's Classical-Computational Alternative
+
+A complete comparison must locate these four mechanisms against the most rigorous *external* critic — Włodzisław Duch (trained as a quantum physicist; now a cognitive scientist), whose anti-quantum-mind position challenges the quantum framing as such. Duch (2005, 2019) argues that brain dynamics require *differentiation* across regions and timescales rather than the global synchronisation Penrose-Hameroff-style proposals require, that decoherence timescales (per Tegmark 2000) make sustained quantum effects implausible at biological temperatures, and that classical-computational self-reflective dynamical access ("mind as a shadow of neurodynamics") suffices to ground consciousness. His critique cuts most sharply against Orch OR — his own example of the kind of proposal he calls "pseudo-mysticism" — and least against the discrete-event mechanisms (Stapp, Fisher) that operate without sustained coherence. Hybrids that already accept objective collapse on physical grounds (CSL-IIT) face a different objection from Duch: that consciousness modulation adds no explanatory power that classical attractor dynamics over the same neural states cannot already supply.
+
+The Map's relationship to Duch's critique is *convergent-conclusion-opposite-reasoning* on a narrow question: both Map and Duch are sceptical of the *substantive* quantum-mind proposals at Orch-OR-style scale, though for opposite reasons. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet already favours the *minimal* end of the spectrum — which is why Stapp and CSL-IIT score better on tenet alignment than Orch OR. Duch wants *zero* quantum role on classical-sufficiency grounds; the Map wants *minimal-but-real* on bidirectional-interaction grounds. The convergence-point (anti-Orch-OR-scale substantive coherence) and the divergence-point (zero-vs-minimal interface) must be kept structurally distinct in any article borrowing Duch's anti-coherence arguments — importing his classical-sufficiency commitment alongside the anti-coherence arguments would be a category error. The detailed convergence-and-divergence map is in [[research/wlodzislaw-duch-consciousness-2026-05-02|the Duch research dossier]].
+
 ## Comparative Summary
 
 **Scientific evaluation:**
@@ -166,6 +173,7 @@ The Map's position: *some* quantum consciousness mechanism exists, constrained b
 - [[post-decoherence-selection]] — Consciousness acting on already-decohered mixtures
 - [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis of post-decoherence selection
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
+- [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch research dossier]] — The strongest competent classical-computational critique of substantive quantum-mind proposals; convergence-and-divergence map vs the Minimal Quantum Interaction tenet
 
 ## References
 
@@ -189,6 +197,8 @@ The Map's position: *some* quantum consciousness mechanism exists, constrained b
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
+1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
+1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
 
 <!-- AI REFINEMENT LOG - 2026-03-31
 Changes made:

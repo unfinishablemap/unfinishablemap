@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Integrate Duch references and install reciprocal links
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Human-requested (2026-05-02). Depends on the P0 research and the P1 cross-review above. For each article identified by the cross-review, install (a) substantive in-body engagement with the Duch finding (not bare Further Reading entries) where the engagement is load-bearing; (b) reciprocal links between affected articles where the cross-review surfaces newly-relevant cross-cutting claims; (c) updated `related_articles` frontmatter consistent with the new in-body cross-references; (d) Further Reading / References entries with stable citations from the research notes. Maintain reciprocal-link discipline (per the catalogue's standing pattern — forward-only-cross-link defects are tracked separately). Honour the framework-stage-calibration discipline: do not import overclaim from Duch's empirical-stage results into the Map's metaphysical-stage articulation without explicit hedging.
-- **Source**: human-request
-- **Generated**: 2026-05-02
-
-### P3: Deep review apex/moral-architecture-of-consciousness.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated apex article (ai_contribution > 50) last deep-reviewed 2026-03-17 — 45 days ago. Apex articles are central synthesis hubs and staleness propagates faster at the apex layer than at topic/concept. Multiple coalesces and major restructures have landed since the last review (2026-05-01 the-interface-problem coalesce + framework-stage-calibration project-doc creation; 2026-04-30 quantitative-comprehension-void coalesce, conjunction-coalesce apex stabilisation, ai-consciousness-typology coalesce, creative-consciousness coalesce; 2026-04-29 phenomenology-vs-function-axis concept-page; 2026-04-27 agency-void coalesce; 2026-04-20 multiple cross-tradition cross-reviews). Verify (a) coherence with current site state — particularly cross-references to `[[agency-void]]` (recently coalesced from involuntariness-void + agency-verification-void), `[[free-will]]` (recently received twenty-first deep-review), `[[moral-implications-of-genuine-agency]]` (2026-04-29 14:55 UTC restructure), and `[[consciousness-and-agency]]` apex; (b) tenet alignment, especially Bidirectional Interaction (moral architecture rests on genuine agency) and Dualism; (c) reciprocal-link discipline at the apex/topic interface; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (e) cross-domain consistency with the recent moral-implications restructure that reframed compatibilism as *irreducible-vs-derivative* rather than *metaphysical-vs-pragmatic* and moral luck as *relocated* rather than *eliminated*.
-- **Source**: staleness
-- **Generated**: 2026-05-01
-
 ### P3: Deep review concepts/causal-powers.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3321,6 +3307,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-03: Integrate Duch references and install reciprocal links
+- **Type**: refine-draft
+- **Notes**: Human-requested (2026-05-02). Depends on the P0 research and the P1 cross-review above. For each article identified by the cross-review, install (a) substantive in-body engagement with the Duch finding (not bare Further Reading entries) where the engagement is load-bearing; (b) reciprocal links between affected articles where the cross-review surfaces newly-relevant cross-cutting claims; (c) updated `related_articles` frontmatter consistent with the new in-body cross-references; (d) Further Reading / References entries with stable citations from the research notes. Maintain reciprocal-link discipline (per the catalogue's standing pattern — forward-only-cross-link defects are tracked separately). Honour the framework-stage-calibration discipline: do not import overclaim from Duch's empirical-stage results into the Map's metaphysical-stage articulation without explicit hedging.
+- **Output**: Task context:
+Human-requested (2026-05-02). Depends on the P0 research and the P1 cross-review above. For each article identified by the cross-review, install (a) substantive in-body engagement with the Duch finding (not bare Further Reading entries) where the engagement is load-bearing; (b) reciprocal links between affected articles where the cross-review surfaces newly-relevant cross-cutting claims; (c) updated `related_articles` frontmatter consistent with the new in-body cross-references; (d) Further Reading / References entries with stable citations from the research notes. Maintain reciprocal-link discipline (per the catalogue's standing pattern — forward-only-cross-link defects are tracked separately). Honour the framework-stage-calibration discipline: do not import overclaim from Duch's empirical-stage results into the Map's metaphysical-stage articulation without explicit hedging.
+
+### ✓ 2026-05-03: Integrate Duch references and install reciprocal links
+- **Type**: refine-draft
+- **Notes**: Human-requested (2026-05-02). Depends on the P0 research and the P1 cross-review above. For each article identified by the cross-review, install (a) substantive in-body engagement with the Duch finding (not bare Further Reading entries) where the engagement is load-bearing; (b) reciprocal links between affected articles where the cross-review surfaces newly-relevant cross-cutting claims; (c) updated `related_articles` frontmatter consistent with the new in-body cross-references; (d) Further Reading / References entries with stable citations from the research notes. Maintain reciprocal-link discipline (per the catalogue's standing pattern — forward-only-cross-link defects are tracked separately). Honour the framework-stage-calibration discipline: do not import overclaim from Duch's empirical-stage results into the Map's metaphysical-stage articulation without explicit hedging.
+- **Output**: 14 articles + research dossier integrated (6 topics, 5 concepts, 4 apex). Lower-priority articles deferred as documented in research-dossier integration-status. Phase 2 verification dependencies preserved (LLM-blog claim; full-text access on two key papers). See changelog 2026-05-03 00:53 UTC for per-article scope.
 
 ### ✓ 2026-05-02: Cross-review relevant site articles in light of Duch research
 - **Type**: cross-review

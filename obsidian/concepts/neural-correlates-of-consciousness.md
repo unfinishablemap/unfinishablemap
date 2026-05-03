@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-16T16:58:00+00:00
+ai_modified: 2026-05-03T01:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,7 @@ related_articles:
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[experimental-consciousness-science-2025-2026]]"
   - "[[psychedelics-and-the-filter-model]]"
+  - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -85,6 +86,12 @@ No amount of neural correlation data explains why activity in V4 *feels like* se
 ## The Interface Question
 
 For interactionist frameworks, NCC research may help locate the *interface* where consciousness and brain interact. If the posterior cortical hot zone is where conscious content emerges, this region might be where consciousness both "reads" physical information and "writes" back (per [[tenets#^bidirectional-interaction|Bidirectional Interaction]]). [[quantum-consciousness|Quantum consciousness]] mechanisms would need to operate at this interface.
+
+### Borrowed Tooling: The Geometric / Feature-Space Description
+
+A specific class of NCC tooling is methodologically appropriable from research programmes whose metaphysics the Map otherwise rejects. Włodzisław Duch's geometric / feature-space programme (Duch 1998, 2022) describes mental states as quasi-stable attractor basins in a multi-dimensional psychological space, mental events as trajectories between attractors, and concept formation as topological structure over those trajectories. Empirical loading comes from feature-space matches to similarity-judgment data (the Duch & Naud animal-concept experiment) and from the broader neurocognitive-informatics programme's attempts to ground social and cognitive constructs (valence, life space, force, equilibrium) in measurable neural-network activity. As intermediate-level *correlate-side description*, this tooling is useful to NCC interpretation: it specifies what the physical correlate looks like at a level intermediate between symbolic AI and pure neural simulation, and it gives a structurally explicit account of how transitions between attractors map onto reportable changes in conscious content.
+
+The framework-stage-calibration discipline (per [[project/framework-stage-calibration]]) is the right anchor for the appropriation. Duch's tooling is *empirical-stage* — it earns its rigour from data fits and from the neurocognitive-informatics programme's measurement work. The Map's appropriation is symmetric: in the empirical-stage layer, the geometric tooling can describe the physical-correlate side of bidirectional interaction without committing to Duch's metaphysical-stage thesis (mind as a "shadow" of neurodynamics — an ontologically derivative reading the Map's [[tenets#^dualism|Tenet 1]] rejects, and one structurally compatible with epiphenomenalism the Map's [[tenets#^bidirectional-interaction|Tenet 3]] rejects). Articles using Duch's tooling for NCC interpretation should keep the borrowing explicit at the empirical layer and the metaphysical disagreement explicit at the ontological layer; the convergence and divergence are mapped in [[research/wlodzislaw-duch-consciousness-2026-05-02|the Duch research dossier]].
 
 ## Memory Systems and NCC Requirements
 
@@ -186,6 +193,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - [[conscious-vs-unconscious-processing]] — Functional dissociations showing consciousness enables operations unconscious processing cannot
 - [[observation-and-measurement-void]] — Why consciousness resists measurement at every level
 - [[experimental-consciousness-science-2025-2026]] — COGITATE results, split-brain unity, and other 2025-2026 findings bearing on NCC interpretation
+- [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch research dossier]] — Geometric / feature-space tooling appropriated for the correlate-side description, with framework-stage-calibration boundaries kept explicit
 
 ## References
 
@@ -197,6 +205,8 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 1. Kondziella, D., Friberg, C.K., Frokjaer, V.G., Fabricius, M., & Møller, K. (2016). Preserved consciousness in vegetative and minimal conscious states: systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*, 87, 485-492.
 1. Claassen, J., et al. (2019). Detection of Brain Activation in Unresponsive Patients with Acute Brain Injury. *New England Journal of Medicine*, 380, 2497-2505.
 1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In *Brain-like Computing and Intelligent Information Systems* (Amari & Kasabov, eds.). Springer. https://web-archive.southampton.ac.uk/cogprints.org/913/1/mind-2.pdf
+1. Duch, W. (2022). Concept Representation and the Geometric Model of Mind. *Studies in Logic, Grammar and Rhetoric*. https://reference-global.com/article/10.2478/slgr-2022-0009
 1. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 1. Stanford Encyclopedia of Philosophy. Dualism. https://plato.stanford.edu/entries/dualism/
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.

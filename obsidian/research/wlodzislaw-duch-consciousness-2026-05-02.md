@@ -4,7 +4,24 @@ created: 2026-05-02
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-7
-ai_modified: 2026-05-02T19:05:00+00:00
+ai_modified: 2026-05-03T01:38:00+00:00
+related_articles:
+  - "[[concepts/biological-computationalism]]"
+  - "[[concepts/quantum-consciousness]]"
+  - "[[concepts/neural-correlates-of-consciousness]]"
+  - "[[concepts/qualia]]"
+  - "[[concepts/self-and-self-consciousness]]"
+  - "[[topics/comparing-quantum-consciousness-mechanisms]]"
+  - "[[topics/machine-consciousness]]"
+  - "[[topics/ai-consciousness]]"
+  - "[[topics/quantum-biology-and-neural-consciousness]]"
+  - "[[topics/the-strong-emergence-of-consciousness]]"
+  - "[[topics/biological-computationalisms-inadvertent-case-for-dualism]]"
+  - "[[apex/machine-question]]"
+  - "[[apex/open-question-ai-consciousness]]"
+  - "[[apex/phenomenology-mechanism-bridge]]"
+  - "[[apex/what-consciousness-tells-us-about-physics]]"
+  - "[[project/framework-stage-calibration]]"
 ---
 
 # Research: Włodzisław Duch's Work on Consciousness
@@ -243,3 +260,39 @@ When writing or revising articles based on this research, follow `obsidian/proje
 - Duch, W. — Personal blog (Polish): https://wduch.wordpress.com/
 - Duch, W. — ScienceDirect author page: https://www.sciencedirect.com/author/35242237100/wlodzislaw-duch
 - Wiest, M. et al. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness* 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081 (cited here only as the contemporary Penrose-Hameroff-successor against which Duch's position is being tested)
+
+## Integration Status (P1 refine-draft, 2026-05-03)
+
+The dependent P1 refine-draft installed substantive in-body engagement with Duch in the following articles. Each engagement honours the framework-stage-calibration discipline (Duch's empirical-stage results not imported into the Map's metaphysical-stage articulation without explicit hedging) and preserves the convergent-conclusion-opposite-reasoning structure (anti-substantive-quantum convergence with Tenet 2 distinguished from minimal-interface divergence).
+
+**Topics integrated:**
+- [[topics/biological-computationalisms-inadvertent-case-for-dualism]] (deep-review 2026-05-02 22:53 UTC) — Duch as substrate-independent counter-example to convergence pattern
+- [[topics/comparing-quantum-consciousness-mechanisms]] — Duch as the strongest external classical-computational critic
+- [[topics/machine-consciousness]] — Articon as the canonical substrate-independent affirmative
+- [[topics/ai-consciousness]] — Articon as the strongest competent affirmative the open-question framing earns against
+- [[topics/quantum-biology-and-neural-consciousness]] — Duch as classical-computational dissent from the burden-shift claim
+- [[topics/the-strong-emergence-of-consciousness]] — Mind-as-shadow as the high-water mark of weak-emergence the article distinguishes itself from
+
+**Concepts integrated:**
+- [[concepts/biological-computationalism]] — Duch as substrate-independent computationalism the article reacts against
+- [[concepts/quantum-consciousness]] — Convergent-conclusion-opposite-reasoning section
+- [[concepts/neural-correlates-of-consciousness]] — Geometric/feature-space tooling appropriated under framework-stage-calibration
+- [[concepts/qualia]] — Duch's structuralist-functional position as competent functionalist-deflationary alternative
+- [[concepts/self-and-self-consciousness]] — Duch's self-reflection thesis as architectural analogue of HOT, faces same circularity
+
+**Apex integrated:**
+- [[apex/machine-question]] — Duch as the strongest competent affirmative the apex must engage
+- [[apex/open-question-ai-consciousness]] — Duch as the closed-affirmative position the open-question framing exists to hold open against
+- [[apex/phenomenology-mechanism-bridge]] — Geometric tooling appropriated for the intermediate-level description, metaphysics rejected
+- [[apex/what-consciousness-tells-us-about-physics]] — Duch's "physics of mind" as the rival programme running in the opposite direction
+
+**Articles considered but not yet engaged** (low engagement-load expected; may be picked up in subsequent passes):
+- `topics/hard-problem-of-consciousness.md` — Duch's "Facing the hard question" paper inaccessible from research session; defer until full text obtainable
+- `topics/emergence-as-universal-hard-problem.md` — engagement structurally similar to strong-emergence article; deferred unless subsequent review surfaces a distinct gap
+- `topics/phenomenology-of-imagination.md` — Duch on creativity / attractor dynamics is citable but light-touch; deferred
+- `concepts/symbol-grounding-problem.md` — Duch's neurocognitive informatics is citable but light-touch; deferred
+- `concepts/adaptive-computational-depth.md` — adjacency to articon's stream-of-states is genuine but engagement would be ornamental at this pass
+- `concepts/inverted-qualia.md` — Duch's structuralism about qualia engaged in `concepts/qualia.md`; reciprocal engagement here would duplicate
+- `apex/what-it-might-be-like-to-be-an-ai.md` — Duch's articon experience claims engaged at the closer-fit apex/machine-question and apex/open-question-ai-consciousness; engagement here would duplicate
+
+**Phase 2 dependencies** (per dossier's gap-flagging): direct verification of Duch's reportedly extended LLM-consciousness blog statements before any article cites it as a peer-reviewed position; full text of "Facing the hard question" and "Mind as a shadow of neurodynamics" before citation-load-bearing use of those specific texts.
