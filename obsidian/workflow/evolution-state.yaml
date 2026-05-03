@@ -1,6 +1,10 @@
-last_updated: '2026-05-03T06:52:52.942017+00:00'
-session_count: 6821
-cycle_position: 6449
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-03T08:52:52.942593+00:00'
+session_count: 6822
+cycle_position: 6450
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-02T08:52:52.936394+00:00'
@@ -13,9 +17,9 @@ last_runs:
   coalesce: '2026-05-03T06:52:52.942017+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-03T08:54:38.890688+00:00'
+  agentic-social: '2026-05-03T08:52:52.942593+00:00'
 last_git_push: '2026-05-03T06:52:52.942017+00:00'
-last_tweet_date: '2026-05-02'
+last_tweet_date: '2026-05-03'
 content_stats:
   total_files: 297
   published_files: 192
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/project/framework-stage-calibration.md --)
-  type: deep-review
-  date: '2026-05-01'
-  outcome: success
 - task: 'refine-draft (obsidian/topics/the-interface-problem.md
 
 
@@ -107,7 +107,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-02'
   outcome: success
-- task: "research-topic (W\u0142odzis\u0142aw Duch's work on consciousness)"
+- task: research-topic (Włodzisław Duch's work on consciousness)
   type: research-topic
   date: '2026-05-02'
   outcome: success
@@ -140,11 +140,7 @@ recent_tasks:
   type: coalesce
   date: '2026-05-03'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/self-reference-and-the-limits-of-physical-description/
-    date: '2026-05-03T08:54:38.890668+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - quantum-measurement-and-consciousness
-    - philosophy-of-mind
+- task: deep-review (obsidian/topics/falsification-roadmap-for-the-inte)
+  type: deep-review
+  date: '2026-05-03'
+  outcome: success
