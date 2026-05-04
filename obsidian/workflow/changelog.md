@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 09:49:00+00:00
+ai_modified: 2026-05-04 10:14:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-04 10:14 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5 Pro (OpenAI)
+- **File**: [[reviews/outer-review-2026-05-3-chatgpt-5-5-pro]]
+- **Prompt**: Whether the Map's drift toward strong animal-consciousness claims (down to nematodes) is evidence-driven or a systemic ratchet from tenets and review machinery.
+- **Diagnosis**: Both. The conclusion is partly evidence-driven for mammals/birds/cephalopods/decapods/insects, but exhibits **possibility/probability slippage** for nematodes/Hydra/slime molds — treating "cannot be ruled out under our metaphysics" as if it were "positively supported by evidence."
+- **Proposed fix**: A tenet may remove a defeater, but it must not upgrade the evidence level. Five-tier evidential-status scale: established / strongly supported / realistic possibility / live hypothesis / speculative integration.
+- **Claims verified**: 9 (4 external — NY Declaration, SEP, Conscious Nematode paper, Gutfreund 2024; 5 internal — simple-organisms page quotes, animal-consciousness "no anthropocentric barrier" inference, optimistic-review's Whitehead persona, check-tenets' physicalism flagging, deep-review's "philosophical disagreement is not critical" rule). All verified accurate as quoted.
+- **High-value findings**: 5 (the systemic ratchet diagnosis is the headline finding; corollaries are the simple-organisms page calibration, the animal-consciousness lede framing, the downstream cross-cluster audit, and the review-machinery structural fix).
+- **Tasks generated**: 5 (P1: 2, P2: 3) — refine simple-organisms with evidential-status labels; write project-doc on evidential-status discipline; refine animal-consciousness lede; cross-review consciousness-cluster; tune optimistic-review and deep-review to handle slippage as correctable defect distinct from bedrock-clash.
+- **Note**: The dualist tenet-load is *not* the bug — the reviewer explicitly grants that the Map is genuinely pulled toward expansive animal consciousness by its tenets, and that this is correct for vertebrates and sophisticated invertebrates. The fix is calibration discipline, not retraction.
 
 ## 2026-05-04 09:49 UTC - deep-review
 - **Status**: Success
