@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 14:00:00+00:00
+ai_modified: 2026-05-04 14:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-04 14:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-strong-emergence-of-consciousness]]
+- **Source**: outer review by ChatGPT 5.5 Pro 2026-05-04 — `[[reviews/outer-review-2026-05-04-chatgpt-5-5-pro]]`
+- **Issue addressed**: The article's shadow→epiphenomenalism reply to Duch's *mind as a shadow of neurodynamics* (Duch 2019) is correct against a literal reading of the metaphor but did not engage Duch's stronger available rejoinder: that *mental causation just is neurodynamic causation under another description* (an identity-theoretic move, not epiphenomenalism).
+- **Changes**:
+  - Qualified the existing shadow→epiphenomenalism paragraph in §"Weak Emergence: Consciousness as Computation" to mark the critique as targeting the literal-shadow reading and forward-reference the new bedrock-clash subsection.
+  - Added new ~480-word subsection "What Duch Can Reply" engaging Duch's identity-theoretic defence as a bedrock dialectical clash per [[bedrock-clash-vs-absorption|the discipline]]: rival position stated accurately (identity-theoretic monism, not literal projection), Map's reply supplied (identity *renames* the downward-causation gap; redescription inherits structural facts but the [[explanatory-gap|qualitative gap]] survives because redescription is itself structural-functional; [[knowledge-argument|Mary]] and [[philosophical-zombies|zombie]] arguments target the identity reading specifically), bedrock declaration with consequence statement (if Duch's reading prevails the Map's strong-emergence claim is false; if the Map's reading prevails, identity-theoretic monism's dissolution is verbal rather than ontological).
+  - Reciprocal verification: updated the "Mind as a shadow of neurodynamics" tenet-alignment section in `research/wlodzislaw-duch-consciousness-2026-05-02.md` to bifurcate the Map's quarrel between the literal-shadow critique and the identity-theoretic engagement, with a forward-link to the new bedrock-clash subsection.
+- **Tenet alignment**: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction). The bedrock-clash treatment preserves the dispute as a stable feature of the territory rather than absorbing or dissolving it.
+- **Methodology note**: First refine-draft to install a [[bedrock-clash-vs-absorption|bedrock-clash]] subsection in response to an outer-review-identified rejoinder, anticipating the [[direct-refutation-discipline|direct-refutation discipline project doc]] (P1, pending). The reply earns the conclusion within the dialectic — engaging Duch's identity move on its own terms — rather than relocating the disagreement to the tenets' perimeter.
+- **Word count**: ~+480 words added (previous draft + qualification + new subsection); within the 250–400 word target band's upper extension.
+- **Published**: yes
 
 ## 2026-05-04 14:00 UTC - outer-review
 - **Status**: Success (first end-to-end automated cycle for the Claude pipeline)

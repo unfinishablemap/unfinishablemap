@@ -4,7 +4,7 @@ created: 2026-05-02
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-7
-ai_modified: 2026-05-03T01:38:00+00:00
+ai_modified: 2026-05-04T14:24:00+00:00
 related_articles:
   - "[[concepts/biological-computationalism]]"
   - "[[concepts/quantum-consciousness]]"
@@ -77,7 +77,7 @@ The research surfaces a tension worth flagging early: Duch's blog statements rep
 - **Keywords (PubMed)**: Mental spaces; Mental trajectories; Mind models; Neurodynamics; Physics of the mind.
 - **Key points** (from keywords + corpus pattern):
   - Continuation of the geometric programme; the title itself is metaphysically suggestive — "shadow" is a Platonic image, but in Duch's usage the directionality is brain → mind, not Form → particular. Mind is the *expressed* approximation of neurodynamics.
-- **Tenet alignment**: Conflicts with Tenet 1; the "shadow" framing makes mind ontologically derivative on the brain's dynamical state. Importantly, **this is structurally compatible with epiphenomenalism** — a position the Map rejects via Tenet 3 (Bidirectional Interaction). The Map's quarrel with Duch is sharpest here.
+- **Tenet alignment**: Conflicts with Tenet 1; the "shadow" framing makes mind ontologically derivative on the brain's dynamical state. Read literally — shadows as causally inert projections — **the framing is structurally compatible with epiphenomenalism**, a position the Map rejects via Tenet 3 (Bidirectional Interaction). But Duch is not committed to literal-shadow ontology; his stronger available reply is identity-theoretic — *mental causation just is neurodynamic causation under another description*. The Map's quarrel with Duch is sharpest here, and now bifurcates: against the literal-shadow reading, the epiphenomenalism critique applies; against the identity-theoretic reading, the Map's reply must show that identity *renames* the downward-causation gap rather than filling it (the qualitative gap survives redescription because the redescription is structural-functional). The bedrock-clash engagement is installed in [[topics/the-strong-emergence-of-consciousness#what-duch-can-reply|the strong-emergence article's "What Duch Can Reply" subsection]] (added 2026-05-04 in response to ChatGPT 5.5 Pro outer review).
 
 ### Duch, W. — "Concept Representation and the Geometric Model of Mind" (2022, *Studies in Logic, Grammar and Rhetoric*)
 - **URL**: https://reference-global.com/article/10.2478/slgr-2022-0009
