@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 22:28:00+00:00
+ai_modified: 2026-05-04 23:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-04 23:30 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cetacean-and-corvid-consciousness]]
+- **Trigger**: Cross-review consciousness-cluster articles against evidential-status discipline (outer-review-2026-05-03) and direct-refutation discipline (2026-05-04). Re-opens an article the 2026-04-08 review marked stable; re-opening is propagation of two new disciplines that postdate that verdict, not oscillation.
+- **Word count**: 2700 → 3228 (+528 net; ~900 words added, ~370 trimmed). 108% of soft threshold (3000), well below hard threshold (4000).
+- **Critical issues addressed**: 3 (epiphenomenalism thesis-direction error in two locations; missing evidential-status calibration; missing standing-agnostic-challenge constraint).
+- **Medium issues addressed**: 4 (materialist engagement reasoning-mode unlabelled; MWI tenet connection presented as refutation; selective citation on microtubule decoherence; falsification framework not aligned with discipline).
+- **Reasoning-mode classifications recorded** (per [[direct-refutation-discipline]]):
+  - **Materialist (Neural Architecture Challenge)**: *mixed-with-distinct-roles*. Bedrock-perimeter residue named explicitly (Dualism tenet excludes the sufficiency claim; cited evidence underdetermines whether consciousness amplifies or merely accompanies). Unsupported-jump callout by materialist's own mechanistic-specification standard (the bridge from "the same computational property emerges" to "the same phenomenal seeming arises" is unspecified; the hard problem is the form this callout takes for materialism in general).
+  - **Epiphenomenalism (Convergent Evolution + BI tenet)**: *bedrock-clash with explicit honest residue*. Same fix as today's animal-consciousness propagation. Convergent-emergence downgraded from refutation-claim to "consistent with bidirectional interaction without forcing it." James (1890) cited in body; evolutionary case routed to [[evolutionary-case-for-mental-causation]].
+  - **MWI defender (No Many Worlds tenet)**: *bedrock-perimeter*. MWI's standard internal reply (branch-relative selection is causal within branch; indexical identity makes selection causally real for the agent) named; the Map's tenet explicitly excludes that reading rather than refuting it inside MWI's framework. Removes a perimeter-substitution.
+- **Changes**:
+  - **Lede + calibration paragraph** (after line 37): Five-tier evidential calibration installed (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*). Cetaceans and corvids labelled at **realistic possibility, contested** for phenomenal consciousness; the amplification hypothesis itself labelled at **live hypothesis** since it depends on the cognition→experience inference Gutfreund's challenge denies the field can presently make.
+  - **Convergent Evolution Argument**: Epiphenomenalism thesis-direction fix; James (1890) cited in body; materialist convergent-computation flagged as a viable third reading.
+  - **Neural Architecture Challenge**: Rewrote as mixed-with-distinct-roles with bedrock-perimeter + unsupported-jump callout passages explicitly labelled.
+  - **The Standing Agnostic Challenge** (new section, ~230 words): Gutfreund (2024) installed as standing constraint applying across every species-claim. Parallels the section in animal-consciousness.md.
+  - **Amplification Void**: Decoherence calibration paralleling animal-consciousness fix (Tegmark/Hagan/Reimers/McKemmish dispute framed as live; microtubule-scale interest framed as tenet-driven).
+  - **What Would Challenge This View?**: Reorganised under in-practice vs in-principle headers, paralleling [[topics/the-interface-problem]] discipline. One condition labelled in-practice, three labelled in-principle. Honest closer added.
+  - **Relation to Site Perspective**: Dualism, MQI, BI, MWI, Occam's Razor passages tightened for the discipline; MWI explicitly bedrock-perimeter; BI epiphenomenalism fix; Occam's Razor reframed to acknowledge that both amplification and convergent-computation accounts are unifying explanations.
+  - **References**: Gutfreund (2024), James (1890), Reimers et al. (2009), McKemmish et al. (2009) added.
+  - **Frontmatter**: description added; [[direct-refutation-discipline]] and [[animal-consciousness]] added to related_articles; last_deep_review updated.
+- **Tenet alignment**: methodological + Tenets 1, 2, 3, 4. The discipline propagation now covers the two largest sister articles in the consciousness cluster (animal-consciousness, consciousness-in-simple-organisms) plus this third one.
+- **Hub/exemplar parity**: Holds against [[topics/animal-consciousness]] (parent article, just updated 22:28 UTC), [[topics/consciousness-in-simple-organisms]] (already discipline-aligned), and [[topics/the-interface-problem]] (whose in-principle/in-practice framing supplied the discipline this article now applies).
+- **Output**: [[reviews/deep-review-2026-05-04-cetacean-and-corvid-consciousness]]
+- **Published**: yes (draft: false; changes applied directly)
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-04 22:28 UTC - refine-draft
 - **Status**: Success
