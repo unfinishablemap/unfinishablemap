@@ -131,6 +131,24 @@ If the article is based on a specific source (research paper, philosopher's work
 
 **If any check fails, this is a CRITICAL issue.** Fix it before proceeding to optimistic review.
 
+### 2.6 Reasoning-Mode Classification (Required for Articles That Reply to Named Opponents)
+
+When the article replies to a named opponent (Duch, Frankish, Dennett, Chalmers, the materialist, the functionalist, etc.), classify each engagement by reasoning mode. See [[direct-refutation-discipline]] for the full discipline. The four primary classifications:
+
+- **direct-refutation-feasible** — internal-to-the-opponent argument is available; the reply earns the disagreement inside the opponent's framework
+- **unsupported-jump** — the framework has helped itself to a foundational move it has not earned by its own standards (e.g., materialism stipulating "computation produces experience" without specifying the bridge; functionalism asserting "functional pattern is what matters" without arguing why it would generate qualia). The callout invokes the opponent's own commitments to mechanism, evidence, or argument
+- **bedrock-perimeter** — the disagreement is at the framework boundary; reply marks it explicitly using the named pattern *the Map's tenets exclude X; the Map does not refute X inside X's framework*
+- **mixed-with-distinct-roles** — most full engagements warrant a sequence: open with unsupported-jump callout, deepen with direct refutation, close with perimeter-marking for the residue. Each move labelled in the article
+
+For each named-opponent reply:
+
+1. **Identify the mode** — flag perimeter-substitution as a CRITICAL issue when an internal-to-the-opponent argument or unsupported-jump callout was available but the article presented tenet-incompatibility as if it refuted the opponent inside the opponent's framework.
+2. **Verify mode honesty** — direct refutation must derive from the opponent's *own* commitments; unsupported-jump must invoke a standard the opponent's framework actually endorses; perimeter-marking must explicitly name the tenet-incompatibility rather than dressing it as refutation.
+3. **Apply or upgrade** — if the engagement is currently weaker than the available mode, either upgrade it (find the direct refutation or unsupported-jump callout) or downgrade the language (state the perimeter explicitly).
+4. **Record** — list each engagement's mode in the deep-review changelog entry.
+
+Perimeter-substitution is the failure mode three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) converged on; it is the structural weakness the discipline is designed to catch. Upgrade where possible; declare bedrock honestly where not.
+
 ### 3. Run Optimistic Review (Deep Mode)
 
 Apply supportive analysis using the six sympathetic philosopher personas from `/optimistic-review`:

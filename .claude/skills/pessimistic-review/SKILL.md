@@ -97,6 +97,17 @@ Also check for:
 - Is the "Relation to Site Perspective" section present and substantive?
 - Is redundant background minimised (focus on what's novel)?
 
+**Reasoning-Mode Failures** (see [[direct-refutation-discipline]])
+
+When the article replies to a named opponent, classify the reply by reasoning mode and flag substitution failures:
+
+- **Perimeter-substitution** — the article rejects the opponent by appealing to a tenet incompatibility, dressed as if it refuted the opponent inside the opponent's framework. *Critical issue.* Reply mode must either be upgraded to direct refutation / unsupported-jump callout (where one is feasible) or honestly downgraded to explicit perimeter-marking using the named pattern *the Map's tenets exclude X; the Map does not refute X inside X's framework*.
+- **Missed unsupported-jump callout** — the opponent's framework helps itself to a foundational move it has not earned by its own standards (materialism stipulating "computation produces experience" without specifying the bridge; functionalism asserting "functional pattern is what matters" without arguing why; eliminativism declaring folk-psychology terms non-referential without specifying the reduction). The article fails to name the unmet standard the opponent's own commitments demand. *Medium issue.*
+- **Direct refutation attempted but not derived from opponent's commitments** — the article's "direct argument" actually appeals to Map-specific commitments rather than to the opponent's. The reply is labelled as direct refutation but functions as perimeter-marking. *Critical issue.*
+- **Unlabelled mixed engagement** — the reply combines modes (e.g., opens with unsupported-jump callout, follows with perimeter-marking) without labelling each move. The reader cannot see which moves earn the disagreement and which declare the boundary. *Medium issue.*
+
+The classification is the discipline's enforcement step: if a reply does not pass mode-classification, it has either over-claimed (presenting perimeter as refutation) or under-claimed (failing to mount an available direct refutation or unsupported-jump callout). Three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) converged on perimeter-substitution as the catalogue's primary structural weakness; this check exists to catch it.
+
 ### 3. Generate Report
 
 Create a report at `obsidian/reviews/pessimistic-YYYY-MM-DD.md`:

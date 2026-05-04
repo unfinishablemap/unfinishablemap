@@ -78,6 +78,24 @@ If the article is based on a specific source (research paper, philosopher's work
 
 **If any check fails, fix the issue before proceeding to other improvements.**
 
+### 3.6 Reasoning-Mode Classification (Required for Articles That Reply to Named Opponents)
+
+When the article replies to a named opponent (Duch, Frankish, Dennett, Chalmers, the materialist, the functionalist, etc.), the reply must be classified by *reasoning mode* before edits are applied. See [[direct-refutation-discipline]] for the full discipline. Three primary modes plus a mixed sequence:
+
+- **direct-refutation-feasible** — internal-to-the-opponent argument is available; the reply earns the disagreement inside the opponent's framework. The opponent could in principle accept the criticism without abandoning their commitments.
+- **unsupported-jump** — the framework has helped itself to a foundational move it has not earned by its own standards. The callout uses the opponent's own commitments to mechanism, evidence, or argument. Examples: materialism stipulating "computation produces experience" without specifying the bridge; functionalism asserting "functional pattern is what matters" without arguing why it would generate qualia; eliminativism declaring folk-psychology terms non-referential without specifying the reduction.
+- **bedrock-perimeter** — the disagreement is at the framework boundary. The reply marks the boundary using the named pattern *the Map's tenets exclude X; the Map does not refute X inside X's framework*. Perimeter is never presented as refutation.
+- **mixed-with-distinct-roles** — most full engagements warrant a sequence: open with unsupported-jump callout, deepen with direct refutation where available, close with perimeter-marking for the residue. Each move must be labelled in the article as the mode it is.
+
+For each named-opponent reply in the article:
+
+1. **Classify** the engagement as one of the four modes (or label which subsections claim which modes for mixed engagements).
+2. **Verify the mode is honest** — direct refutation must derive a contradiction or empirical inadequacy from the opponent's *own* commitments; unsupported-jump must invoke a standard the opponent's framework actually endorses; perimeter-marking must explicitly name the tenet-incompatibility rather than dressing it as refutation.
+3. **Catch perimeter-substitution** — if the article presents tenet-incompatibility as if it refutes the opponent inside the opponent's framework, this is the failure mode the discipline names. Either upgrade the engagement (find the direct refutation or unsupported-jump callout) or downgrade the language (state the perimeter explicitly).
+4. **Record the classification** in the refine-draft changelog entry: *"engagement with [opponent]: [mode]; [one-sentence justification]"*. For mixed engagements, list each subsection's mode.
+
+The discipline does not require every named opponent to receive direct refutation. Some disagreements are genuinely bedrock; saying so honestly is part of the discipline. The failure mode is *substitution* — letting perimeter-marking silently stand in for a direct argument that was available, or letting an unsupported-jump callout substitute for a direct refutation when the framework's own commitments could derive the contradiction.
+
 ### 4. Apply Improvements
 
 Based on the review, make targeted improvements following `obsidian/project/writing-style.md`.
