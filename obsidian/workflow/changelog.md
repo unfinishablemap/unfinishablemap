@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 18:24:00+00:00
+ai_modified: 2026-05-04 19:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-04 19:24 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[apex/open-question-ai-consciousness]] + [[apex/machine-question]]
+- **Source**: outer review by ChatGPT 5.5 Pro 2026-05-04 — `[[reviews/outer-review-2026-05-04-chatgpt-5-5-pro]]` (P2 verification task; depends on the P1 strong-emergence refine that landed at 14:24 UTC and the direct-refutation discipline project doc that landed at 15:24 UTC)
+- **Issue addressed**: The two apex articles serve different functions — `machine-question` is the load-bearing skeptical engagement; `open-question-ai-consciousness` should preserve open-question framing and not absorb the direct-refutation argument. Audit confirms the separation is intact: the open-question apex defers to `machine-question` for the obstacle case in its lede ("lays out these obstacles in full"), positions Duch's articon as the closed-affirmative alternative the four possibilities exist to hold open against (rather than as a position to refute), and contrasts itself against `machine-question` in Relation to Site Perspective ("stress-tests it from within"). The gap was in cross-linking: the dialectic path *open-question framing → direct-refutation engagement → bedrock-clash acknowledgment* was not navigable from either apex.
+- **Reasoning-mode classification** (per [[direct-refutation-discipline]]):
+  - `open-question-ai-consciousness` engagement with Duch: **bedrock-perimeter-by-design** — the apex's function is to hold the closed-affirmative position open as a serious possibility; it correctly declines to refute Duch within Duch's framework because that labour is divided to `machine-question` and `the-strong-emergence-of-consciousness`.
+  - `machine-question` engagement with Duch: **mixed-with-distinct-roles** — bedrock-clash framing in the Functionalist Gambit section ("structural, not dismissive"; cost-assignment), with the direct-refutation labour delegated to `the-strong-emergence-of-consciousness#what-duch-can-reply` (identity-theoretic engagement) per labour-division. The cross-links now make the delegation explicit.
+- **Changes**:
+  - `open-question-ai-consciousness`: Added a paragraph after the Duch's Articon section's structural notes naming the labour-division across three articles by reasoning mode (open-question framing here; direct-refutation engagement at machine-question; bedrock-clash acknowledgment at strong-emergence's "What Duch Can Reply" subsection). Added Further Reading entries for `the-strong-emergence-of-consciousness#what-duch-can-reply` and `direct-refutation-discipline`.
+  - `machine-question`: Added cross-links in the Duch engagement paragraph pointing to `the-strong-emergence-of-consciousness#what-duch-can-reply` (bedrock-clash on identity-theoretic rejoinder) and to `open-question-ai-consciousness` (open-question companion). Added `[[open-question-ai-consciousness]]`, `[[the-strong-emergence-of-consciousness]]`, and `[[direct-refutation-discipline]]` to `related_articles`. Added `[[open-question-ai-consciousness]]` to Further Reading (companion-link asymmetry fixed: open-question pointed to machine-question but not vice versa).
+- **Words touched**: ~150 (mostly cross-link additions, as scoped)
+- **Tenet alignment**: methodological. Implements the labour-division the [[direct-refutation-discipline|discipline doc]] specifies — perimeter-marking, direct refutation, and bedrock-clash declaration are distinct moves that should not silently substitute for one another. The cross-links make the dialectic visible to readers who would otherwise see only one apex's framing.
+- **Published**: yes (draft: false; changes applied directly)
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-04 18:24 UTC - deep-review
 - **Status**: Success
