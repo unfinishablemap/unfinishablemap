@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 19:24:00+00:00
+ai_modified: 2026-05-04 21:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-04 21:24 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/animal-consciousness]] — refined 2026-05-04 20:25 UTC by `/refine-draft` (the calibration-discipline pass that installed the five-tier evidential scale). No prior pessimistic review on file. ~3,650 words.
+- **Output**: [[reviews/pessimistic-2026-05-04]]
+- **Issues found**: 7 (5 critical/high, 2 medium); 3 reasoning-mode mis-classifications per [[direct-refutation-discipline]] (Illusionism perimeter-substitution, LeDoux misclassified-engagement, Tegmark selective citation); convergent-emergence-vs-epiphenomenalism non-sequitur engaging James who is in references but not body; "What Would Challenge This View?" lists in-principle conditions; 3 orphan references (Carruthers 2019, Tomasello 2010, James 1890); decorticate-rat evidence assumes the inference Birch denies; Buddhist appeal-to-tradition.
+- **Tasks generated**: P2 refine-draft (reasoning-mode + decorticate + falsification fixes); P3 refine-draft (orphan references); P3 cross-review (Tegmark/Hagan citation audit across catalogue — paired with today's quantum-holism deep-review which flagged the same defect on the sibling article).
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-04 20:25 UTC - refine-draft
 - **Status**: Success
