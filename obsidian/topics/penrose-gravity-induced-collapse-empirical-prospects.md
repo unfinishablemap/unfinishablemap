@@ -4,8 +4,8 @@ description: "Penrose argues spacetime instability causes quantum collapse—a t
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-04-30T19:21:00+00:00
-last_deep_review: 2026-04-29T06:11:00+00:00
+ai_modified: 2026-05-04T09:19:00+00:00
+last_deep_review: 2026-05-04T09:19:00+00:00
 draft: false
 topics:
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
@@ -75,6 +75,8 @@ Penrose extended his collapse mechanism to consciousness through the Orchestrate
 
 Orch OR faces serious challenges. Tegmark calculated decoherence times in microtubules of 10⁻¹³ to 10⁻²⁰ seconds; Hameroff's group disputed these estimates, obtaining 10⁻⁵ to 10⁻⁴ seconds with revised model parameters. Subsequent biophysics literature (Reimers, McKemmish, Wilson) has examined those revised parameters in detail and found them either to assume unphysical conditions or to specify regimes microtubules do not occupy in living tissue—the dispute is less symmetric than a "Tegmark vs. Hameroff" framing suggests. The Penrose-Lucas argument from Gödel's theorems is also widely contested by logicians. The chain from "non-computable" to "quantum gravitational" to "microtubules" involves multiple speculative leaps, each individually contentious.
 
+A more thoroughgoing classical-sufficiency critique comes from Włodzisław Duch, who argues that brain dynamics require *differentiation* across regions and timescales rather than the global synchronisation Orch OR posits, and that classical-computational self-reflective access ("mind as a shadow of neurodynamics") suffices to ground consciousness without invoking quantum mechanics at all. This [[comparing-quantum-consciousness-mechanisms#the-external-critic-duchs-classical-computational-alternative|classical-sufficiency argument]] differs in form from decoherence-based objections: it claims quantum effects are not *needed* in the brain, not merely that they cannot survive there. The Map's relation to it is convergent-conclusion-opposite-reasoning on Orch-OR-scale substantive coherence — the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet already favours the minimal end of the spectrum, so Duch's anti-Orch-OR conclusion (separated from his classical-sufficiency commitment) sits closer to the Map's position than Penrose-Hameroff's full coherence proposal. The convergence holds against macroscopic neural coherence; the divergence holds at whether *any* quantum interface for consciousness is needed.
+
 The Map's interest in OR does not depend on the Penrose-Lucas chain. The motivation runs the other way: the [[prebiotic-collapse|prebiotic-collapse problem]] requires a collapse mechanism that operates without observers, and the [[tenets#^no-many-worlds|fourth tenet]] requires that mechanism to deliver definite outcomes rather than branches. Gravitational OR is a candidate baseline mechanism for those reasons, independently of whether human cognition exceeds algorithmic capacity. If Penrose-Lucas fails, Penrose's *Gödelian* motivation for OR is undermined—but the Map's *own* motivation is not.
 
 Penrose himself is not a dualist. He seeks consciousness within physics—through new physical laws governing objective reduction—rather than positing anything beyond the physical. The Map can adopt the gravitational collapse mechanism while diverging from Penrose's ontological commitments, treating OR as the physical side of a mind-matter interface rather than as the whole explanation.
@@ -127,4 +129,6 @@ The partial falsification of the parameter-free DP model is instructive. It show
 8. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
 9. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
 10. McQueen, K.J. (2023). "Have underground radiation measurements refuted the Orch OR theory?" *PhilArchive*.
-11. Southgate, A. & Oquatre-six, C. (2026-02-22). The Philosophical Stakes of Spontaneous Collapse. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
+11. Duch, W. (2005). "Brain-inspired conscious computing architecture." *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
+12. Duch, W. (2019). "Mind as a shadow of neurodynamics." *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+13. Southgate, A. & Oquatre-six, C. (2026-02-22). The Philosophical Stakes of Spontaneous Collapse. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
