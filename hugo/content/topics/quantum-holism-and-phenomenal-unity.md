@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-29 02:06:00+00:00
+ai_modified: 2026-05-04 18:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -9,7 +9,6 @@ coalesced_from:
 - /topics/quantum-binding-and-phenomenal-unity/
 concepts:
 - '[[unity-of-consciousness]]'
-- '[[binding-problem]]'
 - '[[binding-problem]]'
 - '[[quantum-consciousness]]'
 - '[[combination-problem]]'
@@ -36,7 +35,7 @@ description: Classical binding mechanisms coordinate separate processes but cann
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 16:14:00+00:00
+last_deep_review: 2026-05-04 18:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -199,7 +198,6 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of feature binding (BP1 and BP2)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Comprehensive taxonomy of five binding varieties
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest case, with empirical phenomena (temporal recalibration, inverse effectiveness) that resist classical explanation
-- [binding-problem](/concepts/binding-problem/) — Why classical mechanisms fail and quantum mechanisms may succeed
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gulf between physical and phenomenal
 - [emergence](/concepts/emergence/) — Weak vs strong emergence and consciousness

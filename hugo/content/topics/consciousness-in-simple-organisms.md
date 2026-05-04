@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-15 12:50:00+00:00
+ai_modified: 2026-05-04 16:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -58,6 +58,17 @@ In April 2024, over 500 scientists and philosophers signed the New York Declarat
 
 The declaration's precautionary stance is notable: "If there's a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility." This represents a shift from requiring proof of consciousness to acknowledging that uncertainty itself carries moral weight. The Map endorses this epistemic humility—consistent with the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet.
 
+## Evidential Register: Tenet vs. Evidence
+
+Two registers operate in this article and must be kept distinct:
+
+- **Tenet register (metaphysical possibility)**: The Map's dualist framework removes one common defeater for invertebrate consciousness—the move "simpler nervous systems are merely unconscious mechanisms; positing experience is unnecessary." Under dualism, no anthropocentric or substrate-specific barrier guarantees that *C. elegans*, Hydra, or *Physarum* lack experience.
+- **Evidence register (empirical support)**: Whether a particular organism is conscious is an empirical question. Removing a defeater does not supply positive evidence that consciousness is present. A tenet may keep a hypothesis live; it cannot upgrade the evidence level on its own.
+
+The slippage risk to defend against is **possibility/probability slippage**: treating "not ruled out by our metaphysics" as if it were "positively supported by the evidence." Dualism's denial of a principled emergence threshold is a tenet-register claim; the question "is *this* organism conscious?" is an evidence-register question. The two cannot trade off against each other—the metaphysical removal of a defeater does not absorb negative empirical findings.
+
+The remainder of this article tries to keep the registers separate. Each model organism is labelled with an evidential status drawn from the scale: *established → strongly supported → realistic possibility → live hypothesis → speculative integration*. The dualist framing is invoked to defeat dismissive a priori arguments, not to elevate the evidence.
+
 ## Three Model Organisms
 
 ### *C. elegans*: The Conscious Nematode?
@@ -81,6 +92,8 @@ The evidence for minimal consciousness in *C. elegans* is tantalising but inconc
 
 As researchers ask: "Is there something that feels like to be a worm? Or are worms blind machines?"
 
+**Evidential status: live hypothesis / speculative integration.** *C. elegans* is **not established as conscious**. The dualist framework keeps the question live by removing the defeater "302 neurons cannot suffice in principle"; the empirical record remains predominantly negative on the markers that most reliably accompany consciousness elsewhere (failed trace conditioning, no demonstrated multimodal integration, no self-other distinction). Becerra et al.'s "Conscious Nematode" paper is a critical reassessment proposing further research, not a positive establishment of phenomenal experience.
+
 ### Hydra: Consciousness Without Centralization?
 
 The freshwater Hydra possesses approximately 900 neurons arranged in a decentralized nerve net—no brain, no ganglia, no central processing. Multiple non-overlapping neural networks control different behaviors: one for somersaulting, another for feeding, another for prey capture.
@@ -88,6 +101,8 @@ The freshwater Hydra possesses approximately 900 neurons arranged in a decentral
 What Hydra reveals is startling: nerve-free Hydra can survive indefinitely (when force-fed) but lose prey detection and feeding behavior. The nervous system appears to enable specific behaviors rather than create some general capacity for experience. Hydra shows habituation and sensitisation but no published evidence of associative learning.
 
 The Hydra case challenges assumptions that consciousness requires centralized processing. If subjective experience arises from neural activity, must it be unified? Or could experience be as distributed as Hydra's nerve net—multiple micro-experiences without [phenomenal unity](/concepts/unity-of-consciousness/)?
+
+**Evidential status: speculative integration.** Habituation and sensitisation are present; associative learning is unestablished; distributed processing leaves no clear behavioural signature of unified experience. The architectural challenge to centralisation requirements is theoretically interesting, but it raises the metaphysical question without supplying positive evidence that Hydra is a subject.
 
 ### Slime Molds: Cognition Without Neurons
 
@@ -103,17 +118,19 @@ For the Map's framework, slime molds present a puzzle. If [quantum effects in mi
 
 The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm biological systems—applies differently to organisms of varying complexity. In single-celled organisms without neurons, the question of quantum consciousness interfaces may not arise at all. Slime molds may process information through entirely classical biochemical mechanisms while lacking the quantum-coherent structures that, on the Map's view, enable consciousness to interface with matter. This would explain sophisticated cognition without phenomenal experience.
 
+**Evidential status: speculative integration / cognition without consciousness.** The defensible reading of *Physarum* is that it exhibits sophisticated information processing without phenomenal experience—a clear case where cognition and consciousness can dissociate. Attributing experience to slime molds remains a panpsychist or process-philosophical possibility, not an empirically supported finding.
+
 ## The Baseline Cognition Framework
 
 The [baseline-cognition](/concepts/baseline-cognition/) concept—what cognition achieves without substantial conscious contribution—provides a useful framework for interpreting simple organism behaviour. Great apes demonstrate sophisticated cognitive capacities that appear to operate without the metarepresentational consciousness that distinguishes human cognition: tool use, social reasoning, procedural metacognition, cultural traditions—all within what Tomasello calls the "zone of latent solutions."
 
 Applied to simple organisms:
 
-| Organism | Cognition Present? | Consciousness Indicators |
-|----------|-------------------|-------------------------|
-| *C. elegans* | Habituation, sensitisation, associative learning | Anaesthetic response, positive Phi, but fails trace conditioning |
-| Hydra | Habituation, sensitisation, prey detection | No associative learning; distributed processing |
-| Slime molds | Maze-solving, network optimisation, habituation | No neurons at all; purely biochemical? |
+| Organism | Cognition Present? | Consciousness Indicators | Evidential Status |
+|----------|-------------------|-------------------------|-------------------|
+| *C. elegans* | Habituation, sensitisation, associative learning | Anaesthetic response, positive Phi, but fails trace conditioning | Live hypothesis / speculative integration; not established as conscious |
+| Hydra | Habituation, sensitisation, prey detection | No associative learning; distributed processing | Speculative integration |
+| Slime molds | Maze-solving, network optimisation, habituation | No neurons at all; purely biochemical? | Speculative integration / cognition without consciousness |
 
 If baseline cognition marks what neural systems achieve without consciousness, and great apes represent that boundary, simple organisms help define the lower limit of cognition itself. The gradient from slime mold to nematode to great ape to human may track not just complexity but qualitatively different cognitive regimes—and possibly qualitatively different relationships to consciousness. The [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) article examines the upper end of this gradient, where consciousness crosses a threshold and transforms what brains can do—enabling logical reasoning, cumulative culture, and counterfactual thinking that even sophisticated great ape cognition cannot achieve.
 
@@ -144,6 +161,8 @@ Simona Ginsburg and Eva Jablonka propose that consciousness emerged when learnin
 On this view, UAL marks where consciousness *interfaces* with biological systems. The framework places the transition in the Cambrian explosion (~540 million years ago) for vertebrates and arthropods. Crucially, *C. elegans*, Hydra, and slime molds all fail UAL criteria—they cannot perform trace conditioning or demonstrate unlimited associative learning.
 
 For the Map, UAL is valuable not as a consciousness-emergence criterion but as an interface-identification tool. It tells us where consciousness reliably *couples with* physical systems, not where it *emerges from* them. The hard problem remains untouched: UAL cannot explain why meeting these functional criteria produces felt experience.
+
+The interface reading must not absorb the negative empirical signal. *Failing* UAL remains evidentially meaningful even when UAL is treated as a coupling-marker rather than an emergence threshold: it tells us we lack the behavioural signature that most reliably accompanies known instances of consciousness elsewhere in the animal kingdom. *C. elegans*, Hydra, and slime molds all fail UAL. That failure is not erased by the absence of a principled threshold for emergence; it should flow through to the evidential-status verdict for each organism, as it does in the labels above. The interface reading lowers our confidence that UAL marks a *necessary* boundary; it does not raise our confidence that organisms below it are conscious.
 
 ## The Distribution Problem
 
@@ -286,3 +305,38 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Whiten, A. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
+
+<!-- AI REFINEMENT LOG - 2026-05-04
+Changes made in response to outer review by ChatGPT 5 Pro (2026-05-03), which identified
+"possibility/probability slippage" as the central systemic risk in this article: tenet-derived
+consequences (no anthropocentric barrier; no principled threshold; UAL-as-interface-tool) sitting
+in proximity to negative empirical evidence in a way that lets the metaphysical framing absorb
+the negative findings.
+
+- Added new H2 section "Evidential Register: Tenet vs. Evidence" between New York Declaration
+  and Three Model Organisms. Explicitly distinguishes tenet-register claims (metaphysical
+  possibility, defeater-removal) from evidence-register claims (positive support). Names the
+  slippage risk explicitly so future refinements have a marker to defend against. Introduces
+  the five-tier scale (established → strongly supported → realistic possibility → live
+  hypothesis → speculative integration) used in the labels below.
+- Added "Evidential status" labels at the end of each model-organism subsection:
+  - C. elegans: "live hypothesis / speculative integration; not established as conscious"
+  - Hydra: "speculative integration"
+  - Slime molds: "speculative integration / cognition without consciousness"
+- Added "Evidential Status" column to the calibration table in the Baseline Cognition Framework
+  section (mirrors the per-organism labels).
+- Added a paragraph after the UAL-as-interface-tool paragraph explicitly preventing the interface
+  reading from absorbing the negative empirical signal of UAL failure. Failing UAL remains
+  evidentially meaningful even on the interface reading.
+- Preserved the dualist framing throughout (the tenet-load is correct; that is not the bug).
+- Reciprocal verification confirmed that internal references in topics/animal-consciousness.md
+  and topics/ethics-of-consciousness-invertebrate-question.md do not rely on stronger framing
+  than the refined article supports — they hedge appropriately or use simple-organism material
+  as critique-of-illusionism rather than positive consciousness attribution.
+
+Tenet alignment: Tenet 1 (Dualism) preserved + epistemic discipline added. The refinement
+implements the reviewer's clean correction: "a tenet may remove a defeater, but it must not
+upgrade the evidence level."
+
+This log should be removed after human review.
+-->

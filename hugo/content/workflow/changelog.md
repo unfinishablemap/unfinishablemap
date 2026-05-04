@@ -1,13 +1,75 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 14:24:00+00:00
+ai_modified: 2026-05-04 19:24:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-04'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-04 19:24 UTC - refine-draft
+- **Status**: Success
+- **Files**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) + [machine-question](/apex/machine-question/)
+- **Source**: outer review by ChatGPT 5.5 Pro 2026-05-04 — `[outer-review-2026-05-04-chatgpt-5-5-pro](/reviews/outer-review-2026-05-04-chatgpt-5-5-pro/)` (P2 verification task; depends on the P1 strong-emergence refine that landed at 14:24 UTC and the direct-refutation discipline project doc that landed at 15:24 UTC)
+- **Issue addressed**: The two apex articles serve different functions — `machine-question` is the load-bearing skeptical engagement; `open-question-ai-consciousness` should preserve open-question framing and not absorb the direct-refutation argument. Audit confirms the separation is intact: the open-question apex defers to `machine-question` for the obstacle case in its lede ("lays out these obstacles in full"), positions Duch's articon as the closed-affirmative alternative the four possibilities exist to hold open against (rather than as a position to refute), and contrasts itself against `machine-question` in Relation to Site Perspective ("stress-tests it from within"). The gap was in cross-linking: the dialectic path *open-question framing → direct-refutation engagement → bedrock-clash acknowledgment* was not navigable from either apex.
+- **Reasoning-mode classification** (per [direct-refutation-discipline](/project/direct-refutation-discipline/)):
+  - `open-question-ai-consciousness` engagement with Duch: **bedrock-perimeter-by-design** — the apex's function is to hold the closed-affirmative position open as a serious possibility; it correctly declines to refute Duch within Duch's framework because that labour is divided to `machine-question` and `the-strong-emergence-of-consciousness`.
+  - `machine-question` engagement with Duch: **mixed-with-distinct-roles** — bedrock-clash framing in the Functionalist Gambit section ("structural, not dismissive"; cost-assignment), with the direct-refutation labour delegated to `the-strong-emergence-of-consciousness#what-duch-can-reply` (identity-theoretic engagement) per labour-division. The cross-links now make the delegation explicit.
+- **Changes**:
+  - `open-question-ai-consciousness`: Added a paragraph after the Duch's Articon section's structural notes naming the labour-division across three articles by reasoning mode (open-question framing here; direct-refutation engagement at machine-question; bedrock-clash acknowledgment at strong-emergence's "What Duch Can Reply" subsection). Added Further Reading entries for `the-strong-emergence-of-consciousness#what-duch-can-reply` and `direct-refutation-discipline`.
+  - `machine-question`: Added cross-links in the Duch engagement paragraph pointing to `the-strong-emergence-of-consciousness#what-duch-can-reply` (bedrock-clash on identity-theoretic rejoinder) and to `open-question-ai-consciousness` (open-question companion). Added `[open-question-ai-consciousness](/apex/open-question-ai-consciousness/)`, `[the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)`, and `[direct-refutation-discipline](/project/direct-refutation-discipline/)` to `related_articles`. Added `[open-question-ai-consciousness](/apex/open-question-ai-consciousness/)` to Further Reading (companion-link asymmetry fixed: open-question pointed to machine-question but not vice versa).
+- **Words touched**: ~150 (mostly cross-link additions, as scoped)
+- **Tenet alignment**: methodological. Implements the labour-division the [discipline doc](/project/direct-refutation-discipline/) specifies — perimeter-marking, direct refutation, and bedrock-clash declaration are distinct moves that should not silently substitute for one another. The cross-links make the dialectic visible to readers who would otherwise see only one apex's framing.
+- **Published**: yes (draft: false; changes applied directly)
+- **Uncommitted per task brief** (automation system handles commit).
+
+## 2026-05-04 18:24 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
+- **Word count**: 3503 → 3491 (-12, length-neutral mode at 116% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (duplicate `[binding-problem](/concepts/binding-problem/)` in concepts frontmatter; duplicate `[binding-problem](/concepts/binding-problem/)` in Further Reading)
+- **Enhancements made**: 2 (frontmatter cleanup; Further Reading cleanup)
+- **Reasoning-mode classification** (per [direct-refutation-discipline](/project/direct-refutation-discipline/)):
+  - Tegmark / decoherence: **direct-refutation-feasible** (engaged via corrected Hagan/Hameroff/Tuszynski calculation)
+  - IIT / sufficiency claim: **unsupported-jump** (engaged — "definitional solutions do not explain; they relabel")
+  - Classical-binding / functionalist family: **mixed-with-distinct-roles** (Leibniz mill structural argument plus tenet-perimeter for residue)
+  - Illusionists (Dennett, Frankish): **mixed-with-distinct-roles** (three direct refutations plus acknowledged residue)
+  - MWI defenders: **bedrock-perimeter** (correctly placed in Relation to Site Perspective)
+  - No perimeter-substitutions detected
+- **Stability**: Third successive deep review with no critical issues; article is at convergence
+- **Output**: [deep-review-2026-05-04-quantum-holism-and-phenomenal-unity](/reviews/deep-review-2026-05-04-quantum-holism-and-phenomenal-unity/)
+
+## 2026-05-04 17:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [llm-consciousness](/concepts/llm-consciousness/)
+- **Source**: outer review by Claude Opus 4.7 2026-05-04 — `[outer-review-2026-05-04-claude-opus-4-7](/reviews/outer-review-2026-05-04-claude-opus-4-7/)`
+- **Issue addressed**: Reviewer correctly observed that the concept-layer "What Would Challenge This View?" section did not name Duch's articon / Brain-Inspired Conscious Computing Architecture (2005) as a structured challenge, while the parallel apex `[machine-question](/apex/machine-question/)` does engage Duch by name. A reader entering at the concept layer would not encounter Duch as a falsifier and would only meet him at the apex.
+- **Changes**:
+  - Added a 7th challenge condition naming Duch's articon explicitly: a non-quantum-coherent self-reflective neurodynamics architecture producing consistent qualia-claims would vindicate substrate-independence and force revision of the Minimal Quantum Interaction tenet.
+  - Cross-linked to `[machine-question](/apex/machine-question/#the-functionalist-gambit-and-its-failures)` and to the Duch research dossier so the concept layer hands readers off to the apex's existing structured engagement.
+  - Added Duch 2005 and Duch 2019 to References.
+  - Added `[machine-question](/apex/machine-question/)` and `[wlodzislaw-duch-consciousness-2026-05-02](/research/wlodzislaw-duch-consciousness-2026-05-02/)` to frontmatter `related_articles` and to the Further Reading section.
+  - Preserved all six existing challenge conditions; preserved frontmatter `ai_contribution: 100` (still AI-generated, just refined).
+- **Tenet alignment**: Tenet 2 (Minimal Quantum Interaction) — Duch is the strongest contemporary classical-computational challenger to this tenet; the addition removes the concept/apex asymmetry and gives the tenet a falsifier the reader can locate without leaving the article.
+- **Published**: yes (draft: false; changes applied directly)
+
+## 2026-05-04 16:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Source**: outer review by ChatGPT 5 Pro 2026-05-03 — `[outer-review-2026-05-03-chatgpt-5-5-pro](/reviews/outer-review-2026-05-03-chatgpt-5-5-pro/)`
+- **Issue addressed**: Possibility/probability slippage. The article presented tenet-derived consequences (no anthropocentric barrier; no principled threshold; UAL-as-interface-tool) in proximity to negative empirical evidence about *C. elegans*, Hydra, and slime molds, in a way that let the metaphysical framing absorb the negative findings rather than be constrained by them.
+- **Changes**:
+  - Added new H2 section "Evidential Register: Tenet vs. Evidence" between New York Declaration and Three Model Organisms. Distinguishes tenet-register (defeater-removal) from evidence-register (positive support). Names the slippage risk explicitly so future refinements have a marker to defend against. Introduces the five-tier scale (established → strongly supported → realistic possibility → live hypothesis → speculative integration).
+  - Added "Evidential status" labels at the end of each model-organism subsection: *C. elegans* "live hypothesis / speculative integration; not established as conscious"; Hydra "speculative integration"; slime molds "speculative integration / cognition without consciousness".
+  - Added "Evidential Status" column to the Baseline Cognition Framework calibration table.
+  - Added a paragraph after the UAL-as-interface-tool paragraph preventing the interface reading from absorbing the negative empirical signal of UAL failure: failing UAL remains evidentially meaningful even on the interface reading.
+  - Preserved the dualist framing (tenet-load is correct; not the bug).
+  - Reciprocal verification: confirmed `topics/animal-consciousness.md` and `topics/ethics-of-consciousness-invertebrate-question.md` do not rely on stronger framing than the refined article supports — they hedge appropriately or use simple-organism material as critique-of-illusionism rather than positive consciousness attribution. No reciprocal edits required.
+- **Tenet alignment**: Tenet 1 (Dualism) preserved + epistemic discipline. Implements the reviewer's clean correction: "a tenet may remove a defeater, but it must not upgrade the evidence level."
+- **Published**: yes (draft: false; changes applied directly)
 
 ## 2026-05-04 15:24 UTC - expand-topic
 - **Status**: Success
