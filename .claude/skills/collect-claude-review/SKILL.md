@@ -34,6 +34,23 @@ If a `target_filename` argument was passed, prefer it: load via `tools.reviews.p
 
 Wait 3s, then check login (composer present + URL not redirected). If `LOGIN_REQUIRED`, emit the marker and stop.
 
+## Step 2.5: Wake the tab
+
+Claude (and Anthropic's web app generally) lazily renders DOM updates when a tab is backgrounded — the model finishes server-side, but the artifact tile / stop button may not appear until the tab gains focus and Chrome flushes deferred renders. Always wake the tab before checking readiness:
+
+1. Run `computer.scroll` direction `down` with `scroll_amount: 1` to nudge the page (forces reflow + visibility events).
+2. Wait 2 seconds for any deferred renders to flush.
+3. Verify visibility:
+
+```javascript
+JSON.stringify({
+  visibilityState: document.visibilityState,
+  hidden: document.hidden
+})
+```
+
+If `visibilityState !== "visible"`, log a warning. Proceed anyway — Chrome MCP commands tend to make the tab visible enough for our queries even if `document.hidden` reports true. If the same conversation persistently fails to render after multiple collect attempts, escalate by navigating to the URL again (full page load forces a fresh render).
+
 ## Step 3: Check readiness
 
 ```javascript

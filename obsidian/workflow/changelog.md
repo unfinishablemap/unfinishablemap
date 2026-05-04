@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 12:05:00+00:00
+ai_modified: 2026-05-04 14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-04 14:00 UTC - outer-review
+- **Status**: Success (first end-to-end automated cycle for the Claude pipeline)
+- **Reviewer**: Claude Opus 4.7 (Anthropic) — Adaptive thinking + Research + Web Search
+- **File**: [[reviews/outer-review-2026-05-04-claude-opus-4-7]]
+- **Conversation**: https://claude.ai/chat/b67c8269-c208-4ef6-869c-d4e40189a928
+- **Pipeline**: Test query commissioned manually via the Chrome MCP exploration session (no clarifying-questions stage triggered for this prompt); collected via `collect-chatgpt-review`-pattern DOM walker (largest `.standard-markdown` extracted; 5,824 chars markdown after walk). Processed via `outer-review`. **First successful run of the Claude commission/collect path.**
+- **Prompt**: Whether the Map's recent integration of Wlodzislaw Duch's classical-computational reduction is substantive engagement or performative inoculation citation.
+- **Diagnosis**: Performative inoculation at best, more likely simple absence — but **the empirical premise (no Duch references on site) is FALSE**. 33 files in obsidian/ reference Duch including a dedicated dossier and integrations across 14+ articles per commit `b90a58310` (today). Likely cause: external search index lag against same-day commits.
+- **Methodological claim survives the empirical error**: the architecture-risks-absorption observation converges with 2026-05-03 (ChatGPT, animal consciousness) and 2026-05-04 (ChatGPT, Duch) reviews. Three independent reviewers from different epistemic starting points reach the same structural critique.
+- **Claims verified**: 5 (1 empirical claim disputed via grep + git log + Hugo content check; 1 confirmed via cross-reference between concept-level llm-consciousness.md and apex machine-question.md; 3 methodological claims converged with prior reviews).
+- **High-value findings**: 2 (the llm-consciousness "What Would Challenge This View?" gap relative to the apex's Duch engagement; the index-lag pipeline-calibration pattern).
+- **Tasks generated**: 2 (P2: 1, P3: 1) — refine concepts/llm-consciousness.md to name Duch's articon in the challenge conditions; project-doc on outer-review pipeline calibration (empirical staleness vs methodological transcendence).
+- **Pipeline performance note**: First successful Claude run. Adaptive thinking phase is the slow part (~30 min observed); the actual Research panel completed in 2m 10s with 138 sources. Claude lazy-renders DOM updates when tab is backgrounded — added an explicit "wake the tab" step (Step 2.5) to all three collect skills based on this finding. Wake step verified by live test: scroll + 2s wait + visibility check yielded the artifact tile and stop button reflecting completion that had been suppressed in the backgrounded state.
 
 ## 2026-05-04 12:05 UTC - outer-review
 - **Status**: Success (first end-to-end automated commission/collect/process cycle)

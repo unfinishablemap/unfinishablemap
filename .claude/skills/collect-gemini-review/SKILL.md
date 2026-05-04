@@ -34,6 +34,23 @@ If a `target_filename` arg was passed, use it. Reject if its status is not `pend
 
 Wait 4s, then check login (composer + URL not redirected to accounts.google.com). If `LOGIN_REQUIRED`, emit the marker and stop.
 
+## Step 2.5: Wake the tab
+
+Web apps lazy-render DOM updates when a tab is backgrounded — the model finishes server-side, but the stop button / streaming class may persist in the DOM until Chrome flushes deferred renders. Wake the tab before checking readiness:
+
+1. Run `computer.scroll` direction `down` with `scroll_amount: 1` to nudge the page (forces reflow + visibility events).
+2. Wait 2 seconds for any deferred renders to flush.
+3. Verify visibility:
+
+```javascript
+JSON.stringify({
+  visibilityState: document.visibilityState,
+  hidden: document.hidden
+})
+```
+
+If `visibilityState !== "visible"`, log a warning and proceed. If multiple collect attempts fail to detect a ready report, escalate by re-navigating to the URL (full page load forces a fresh render).
+
 ## Step 3: Check readiness
 
 The Gemini Deep Research conversation contains MULTIPLE `.markdown.markdown-main-panel` elements:
