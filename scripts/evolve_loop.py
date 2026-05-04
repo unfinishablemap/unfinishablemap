@@ -651,20 +651,45 @@ def should_post_agentic_social(now: datetime, state: EvolutionState) -> bool:
     return minutes_since >= AGENTIC_SOCIAL_INTERVAL_MINUTES
 
 
-# Outer-review commission gating (debug cadence — daily 06:00 UTC).
-# Once stable, revisit this — likely move to weekly or longer.
-COMMISSION_REVIEW_HOUR_UTC = 6
+# Outer-review commission gating.
+#
+# Chrome-using tasks are confined to a nightly window when the user is not
+# driving Chrome interactively. Within the window, new task starts are
+# permitted only up to AUTOMATION_LAST_START_HOUR_UTC; the gap between that
+# and AUTOMATION_WINDOW_END_HOUR_UTC is buffer for in-flight tasks to finish
+# before Chrome must be released back to the user.
+AUTOMATION_WINDOW_START_HOUR_UTC = 0  # window opens
+AUTOMATION_LAST_START_HOUR_UTC = 7    # last hour we may start a new task
+AUTOMATION_WINDOW_END_HOUR_UTC = 8    # by this hour everything must be done
+
+# Commission fires early in the window so the ~14-min Pro response and 90-min
+# minimum collect age fit comfortably before AUTOMATION_LAST_START_HOUR_UTC.
+COMMISSION_REVIEW_HOUR_UTC = 2
+
+
+def is_automation_window(now: datetime) -> bool:
+    """True if we may START a new Chrome-using task right now.
+
+    Returns False outside the window, and False after AUTOMATION_LAST_START_HOUR_UTC
+    even though the window technically extends to AUTOMATION_WINDOW_END_HOUR_UTC —
+    that final hour is buffer for in-flight tasks, not for new starts.
+    """
+    return AUTOMATION_WINDOW_START_HOUR_UTC <= now.hour < AUTOMATION_LAST_START_HOUR_UTC
 
 
 def should_commission_outer_review(now: datetime, state: EvolutionState) -> bool:
     """Check if we should commission a fresh outer review from ChatGPT.
 
-    Currently fires at 06:00 UTC daily, gated by:
+    Fires daily at COMMISSION_REVIEW_HOUR_UTC (currently 02:00 UTC). Gated by:
+    - In-window check (00:00 — last-start hour UTC)
     - 24h backoff after a `LOGIN_REQUIRED` skill failure
     - 1h cooldown after a recent failed commission
-    - One commission per day (tracked via state.last_runs key 'commission-chatgpt-review-date')
+    - One commission per day (tracked via state.last_runs['commission-chatgpt-review'])
     - No commission already in flight for the chatgpt service
     """
+    if not is_automation_window(now):
+        return False
+
     blocked_until = state.last_runs.get("commission-chatgpt-review-blocked-until")
     if blocked_until is not None and now < blocked_until:
         return False
@@ -672,15 +697,13 @@ def should_commission_outer_review(now: datetime, state: EvolutionState) -> bool
     if now.hour < COMMISSION_REVIEW_HOUR_UTC:
         return False
 
-    # last_runs values are datetime; we use a sentinel datetime at midnight UTC
-    # of the date we last ran. Reading back: compare the date portion.
     last_run = state.last_runs.get("commission-chatgpt-review")
     if last_run is not None and last_run.date() == now.date():
         return False
 
     # Already in flight?
     try:
-        from tools.reviews.pending import has_in_flight, find_recent_failed
+        from tools.reviews.pending import find_recent_failed, has_in_flight
     except Exception as e:
         log.warning(f"Outer-review module unavailable: {e}")
         return False
@@ -696,7 +719,13 @@ def should_commission_outer_review(now: datetime, state: EvolutionState) -> bool
 
 
 def find_ready_outer_review(now: datetime):
-    """Return a PendingReview that's ready for collection, or None."""
+    """Return a PendingReview that's ready for collection, or None.
+
+    Returns None outside the automation window — collect needs Chrome and
+    can only run inside the window.
+    """
+    if not is_automation_window(now):
+        return None
     try:
         from tools.reviews.pending import find_ready
     except Exception as e:
@@ -811,6 +840,9 @@ def run_session(
     # 1.6. Collect any ready outer reviews (latency-sensitive — runs before
     # cycle dispatch so a ready review takes priority over a generic queue
     # task). The collect skill itself invokes /outer-review on success.
+    # Chrome is launched fresh for the duration of the skill — Chrome with
+    # the Claude Code extension degrades over long sessions, so each task
+    # runs against a clean process.
     ready_review = find_ready_outer_review(now)
     if ready_review is not None:
         log.info(
@@ -819,14 +851,16 @@ def run_session(
             f"attempts={ready_review.collect_attempts})"
         )
         try:
-            success, output = run_skill(
-                SkillInvocation(
-                    "collect-chatgpt-review",
-                    ready_review.target_filename,
-                ),
-                timeout_seconds=600,  # 10 min — extraction + outer-review
-                verbose=verbose,
-            )
+            from tools.chrome_session import ChromeUnavailableError, chrome_session
+            with chrome_session():
+                success, output = run_skill(
+                    SkillInvocation(
+                        "collect-chatgpt-review",
+                        ready_review.target_filename,
+                    ),
+                    timeout_seconds=600,  # 10 min — extraction + outer-review
+                    verbose=verbose,
+                )
             output_lower = (output or "").lower()
             if "login_required" in output_lower:
                 backoff_until = now + timedelta(hours=24)
@@ -846,20 +880,25 @@ def run_session(
                     for line in output.strip().split("\n")[-5:]:
                         if line.strip():
                             log.warning(f"  {line}")
+        except ChromeUnavailableError as e:
+            log.warning(f"Collect skipped — Chrome unavailable: {e}")
         except SkillTimeoutError:
             log.warning("Collect-chatgpt-review timed out (non-fatal)")
         except Exception as e:
             log.warning(f"Collect-chatgpt-review error (non-fatal): {e}")
 
-    # 1.7. Time-triggered: Commission a new outer review at 06:00 UTC daily.
+    # 1.7. Time-triggered: Commission a new outer review at COMMISSION_REVIEW_HOUR_UTC.
+    # Chrome is launched fresh for the duration of the skill (see 1.6 for rationale).
     if should_commission_outer_review(now, state):
-        log.info(f"Outer-review commission triggered ({now.hour}:00 UTC)")
+        log.info(f"Outer-review commission triggered ({now.hour:02d}:{now.minute:02d} UTC)")
         try:
-            success, output = run_skill(
-                SkillInvocation("commission-chatgpt-review"),
-                timeout_seconds=600,
-                verbose=verbose,
-            )
+            from tools.chrome_session import ChromeUnavailableError, chrome_session
+            with chrome_session():
+                success, output = run_skill(
+                    SkillInvocation("commission-chatgpt-review"),
+                    timeout_seconds=600,
+                    verbose=verbose,
+                )
             output_lower = (output or "").lower()
             if "login_required" in output_lower:
                 backoff_until = now + timedelta(hours=24)
@@ -884,6 +923,11 @@ def run_session(
                             log.warning(f"  {line}")
                 # Mark as run so we don't retry repeatedly today
                 state.last_runs["commission-chatgpt-review"] = now
+        except ChromeUnavailableError as e:
+            log.warning(f"Commission skipped — Chrome unavailable: {e}")
+            # Don't mark last_runs — try again later in the window once Chrome
+            # is free. The window check still gates against retrying after
+            # AUTOMATION_LAST_START_HOUR_UTC.
         except SkillTimeoutError:
             log.warning("Commission-chatgpt-review timed out (non-fatal)")
             state.last_runs["commission-chatgpt-review"] = now

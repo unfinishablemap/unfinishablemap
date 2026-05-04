@@ -9,10 +9,20 @@ Drives Chrome via the `mcp__claude-in-chrome__*` tools to commission an outer re
 
 ## When to Use
 
-- Time-triggered daily at 06:00 UTC by `evolve_loop.py`.
+- Time-triggered daily at 02:00 UTC by `evolve_loop.py` (within the 00:00–07:00 UTC automation window).
 - Manual invocation: `/commission-chatgpt-review`.
 
 The skill is a no-op if a `pending` ChatGPT review already exists in `obsidian/workflow/pending-reviews.yaml` — only one in-flight commission per service.
+
+## Chrome lifecycle
+
+When invoked by `evolve_loop.py`, Chrome is **already running** under the dedicated profile at `~/unfin/chrome-profiles/unfinishable` — the dispatcher launches it in a `chrome_session()` context manager and stops it after this skill returns. The skill should therefore:
+
+- Use `tabs_context_mcp` / `tabs_create_mcp` to find or create a tab in the running Chrome.
+- NOT attempt to launch Chrome itself.
+- NOT attempt to stop Chrome on exit — that's the dispatcher's job.
+
+For manual invocation, the user must ensure their own Chrome with the Claude Code extension is running (any profile works for manual use).
 
 ## Pre-flight checks (do these first; bail early if any fail)
 

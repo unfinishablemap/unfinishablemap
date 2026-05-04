@@ -9,10 +9,16 @@ Pairs with `commission-chatgpt-review`. Reads `obsidian/workflow/pending-reviews
 
 ## When to Use
 
-- Triggered every loop iteration by `evolve_loop.py` when a pending review is older than 90 minutes (configurable, see `tools.reviews.find_ready`).
+- Triggered every loop iteration by `evolve_loop.py` when a pending review is older than 90 minutes AND the loop is inside the 00:00–07:00 UTC automation window.
 - Manual invocation: `/collect-chatgpt-review` (uses oldest ready entry) or `/collect-chatgpt-review <target_filename>` (specific entry).
 
 The skill is a no-op if no ready entry exists.
+
+## Chrome lifecycle
+
+When invoked by `evolve_loop.py`, Chrome is **already running** under the dedicated profile at `~/unfin/chrome-profiles/unfinishable` — the dispatcher launches it in a `chrome_session()` context manager and stops it after this skill returns. The skill should use `tabs_context_mcp` / `tabs_create_mcp` against the running Chrome and never launch or stop Chrome itself.
+
+For manual invocation, the user's own Chrome with the Claude Code extension must be running (any profile works for manual use).
 
 ## Step 1: Pick the ready entry
 
