@@ -1,13 +1,68 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 19:24:00+00:00
+ai_modified: 2026-05-04 22:28:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-04'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-04 22:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Source**: [pessimistic-2026-05-04](/reviews/pessimistic-2026-05-04/) — propagating reasoning-mode discipline to the opponent-engagement level after the 20:25 UTC calibration pass installed evidential-status discipline at the species-claim level only.
+- **Reasoning-mode classifications recorded** (per [direct-refutation-discipline](/project/direct-refutation-discipline/)):
+  - Engagement with **Illusionism**: **mixed-with-distinct-roles**. Bedrock-perimeter (the Map's Dualism tenet excludes illusionism, named explicitly using the discipline's named pattern) + unsupported-jump callout (Frankish's unspecified bridge from meta-representational machinery to felt unity of seeming, by illusionism's own mechanistic-specification standard). The "appearance must appear *to* something" regress (which presupposed phenomenal realism) and the scaling-problem framing (which reversed inference direction) are both withdrawn.
+  - Engagement with **Epiphenomenalism (James)**: **bedrock-clash with explicit honest residue**. Convergent-emergence claim downgraded from "makes epiphenomenalism harder to sustain" to "consistent with bidirectional interaction without forcing it." James (1890), formerly orphan reference, now cited in body as the classical response the convergent-emergence argument needed to engage. The genuine evolutionary-case-for-mental-causation argument is now clearly routed via [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) rather than smuggled into the convergent-emergence observation.
+  - Engagement with **LeDoux**: **direct-refutation-feasible but currently unresolved**. Pain asymbolia is now noted as the wrong anchor (sensory/affective dissociation within cortex, not cortical/subcortical). Anencephalic-infant data installed as the right anchor inside LeDoux's framework; LeDoux's reflex rejoinder given a paragraph rather than a sentence.
+  - Engagement with **Tegmark**: **direct-refutation-feasible**, now executed without selective citation. Reimers et al. (2009) and McKemmish et al. (2009) installed as standing critique alongside Hagan; dispute framed as live; microtubule-scale interest framed as tenet-driven, not empirically forced. Mirrors today's quantum-holism deep-review fix on the sibling article.
+- **Changes**:
+  - **Emotional Consciousness section** (lines 152–156): Anencephalic-infant data + Birch's *Edge of Sentience* methodological constraint installed; LeDoux's reflex rejoinder expanded to a paragraph; pain asymbolia repositioned as the wrong anchor for the LeDoux engagement; evidential-status label "realistic possibility for subcortical valenced experience, contested" applied.
+  - **Illusionist Challenge section** (lines 172–182): Rewrote with the three modes named explicitly (bedrock-perimeter, unsupported-jump callout, the withdrawn scaling-problem framing). Buddhist appeal-to-tradition reframed and routed to [buddhism-and-dualism](/concepts/buddhism-and-dualism/) for careful handling.
+  - **What Would Challenge This View?** (lines 188–196): Reorganised under in-principle vs in-practice headers, mirroring [the-interface-problem](/topics/the-interface-problem/)'s discipline. Three of five conditions labelled in-principle (currently inaccessible); two labelled in-practice (methodologically accessible). Closer added: the framework supplies a falsification structure whose application waits on instrumentation.
+  - **Decoherence handling in Relation to Site Perspective** (lines 202–206): Reimers/McKemmish installed alongside Hagan; dispute framed as live; selective citation explicitly disavowed.
+  - **Bidirectional Interaction passage** (line 208): Convergent-emergence claim downgraded; James (1890) cited in body; genuine evolutionary argument routed to [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/).
+  - **References**: Reimers et al. (2009), McKemmish et al. (2009), LeDoux (2015), Panksepp (1998), Frankish (2016) added. James (1890) is now cited in body (orphan resolved).
+  - **Frontmatter related_articles**: [direct-refutation-discipline](/project/direct-refutation-discipline/) and [the-interface-problem](/topics/the-interface-problem/) added.
+- **Words touched**: ~1300 across all seven fixes (above the ~300–500 target; the seven distinct mode-classification + calibration-discipline interventions each required substantive in-place rewriting rather than line-edits, and several issues required adding the named-pattern language the discipline calls for. The Illusionist Challenge rewrite (~440 words, mixed-with-distinct-roles classification + Buddhist routing) and the Emotional Consciousness rewrite (~370 words, anencephalic-infant + Birch-constraint installation) account for the majority. Decoherence (~80 words added), convergent-emergence (~160 words touched), and falsification reorganisation (~210 words touched) each ran modestly above the per-issue budget. The article was 167% of length target before this pass and remains so; this pass did not address length, which is queued for a separate condense task if needed).
+- **Tenet alignment**: methodological + Tenets 1, 2, 3. The reasoning-mode discipline now propagates from species-claim level (calibration scale, 20:25 UTC pass) to opponent-engagement level (this pass).
+- **Hub/exemplar parity**: Holds against [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) (which already passed today's calibration discipline) and [the-interface-problem](/topics/the-interface-problem/) (whose unfalsifiability-in-practice framing supplied the discipline this article now applies).
+- **Published**: yes (draft: false; changes applied directly)
+- **Uncommitted per task brief** (automation system handles commit).
+
+## 2026-05-04 21:24 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [animal-consciousness](/topics/animal-consciousness/) — refined 2026-05-04 20:25 UTC by `/refine-draft` (the calibration-discipline pass that installed the five-tier evidential scale). No prior pessimistic review on file. ~3,650 words.
+- **Output**: [pessimistic-2026-05-04](/reviews/pessimistic-2026-05-04/)
+- **Issues found**: 7 (5 critical/high, 2 medium); 3 reasoning-mode mis-classifications per [direct-refutation-discipline](/project/direct-refutation-discipline/) (Illusionism perimeter-substitution, LeDoux misclassified-engagement, Tegmark selective citation); convergent-emergence-vs-epiphenomenalism non-sequitur engaging James who is in references but not body; "What Would Challenge This View?" lists in-principle conditions; 3 orphan references (Carruthers 2019, Tomasello 2010, James 1890); decorticate-rat evidence assumes the inference Birch denies; Buddhist appeal-to-tradition.
+- **Tasks generated**: P2 refine-draft (reasoning-mode + decorticate + falsification fixes); P3 refine-draft (orphan references); P3 cross-review (Tegmark/Hagan citation audit across catalogue — paired with today's quantum-holism deep-review which flagged the same defect on the sibling article).
+- **Uncommitted per task brief** (automation system handles commit).
+
+## 2026-05-04 20:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Source**: outer review by ChatGPT 5 Pro 2026-05-03 — `[outer-review-2026-05-03-chatgpt-5-5-pro](/reviews/outer-review-2026-05-03-chatgpt-5-5-pro/)` (P2 task; complements the simple-organisms refine that landed at 16:24 UTC by installing the same five-tier evidential calibration in the article that *imports* the consciousness-distribution claim).
+- **Issue addressed**: The lede's "no anthropocentric / substrate-specific barrier" inference is correct under the tenets but conditioned downstream sections to interpret behavioural evidence permissively — the reviewer's "possibility/probability slippage." Gutfreund (2024) was structurally quarantined as a single section that the rest of the article overrode rather than being treated as a standing constraint that calibrates each tier. Species-claim hedging was uncalibrated against the five-tier scale (notably "insects, cephalopods, and crustaceans are *probably* conscious" in the Moral Status section).
+- **Reasoning-mode classification** (per [direct-refutation-discipline](/project/direct-refutation-discipline/)):
+  - Engagement with Gutfreund (2024): **cooperative-acknowledgment** — Gutfreund's standing critique is *adopted* as evidential discipline, not refuted within his framework. The refined Standing Agnostic Challenge section explicitly says Tenet 1 (Dualism) "removes a defeater … but does not absorb Gutfreund's challenge." This is the correct mode here: Gutfreund is a discipline, not an opponent.
+  - Engagement with LeDoux (cortical higher-order requirement for conscious feelings): **direct-refutation-feasible** (unchanged this pass) — pain asymbolia + Panksepp decortication evidence operates inside LeDoux's neural-evidence framework.
+  - Engagement with Illusionism: **mixed-with-distinct-roles** (unchanged this pass) — regress argument + scaling-problem callout function as unsupported-jump callouts within the illusionist's own commitments.
+  - No perimeter-substitutions detected; the refined Gutfreund section explicitly does *not* substitute tenet-perimeter for engagement.
+- **Changes**:
+  - **Lede** (after the existing "no substrate-specific barrier" sentence): Added the defeater-vs-evidence paragraph naming the five-tier scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*), tagging mammals/birds at strongly supported and cephalopods/decapods/insects at realistic-possibility-contested, deferring boundary organisms to [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/), and forward-linking to the Standing Agnostic Challenge.
+  - **Growing Scientific Agreement**: Added a paragraph mapping the Cambridge / New York declarations onto the calibration scale (mammals/birds = strongly supported; "realistic possibility" read literally as realistic-possibility / live-hypothesis, not established).
+  - **Minimal Neural Requirements** (UAL paragraph): Reframed UAL as interface-identification framework (already partially present) and made explicit that passing UAL keeps consciousness live for a lineage while failing it pushes the case toward the speculative end of the scale; closed with "tenet-coherent but does not, on its own, upgrade evidential status."
+  - **Insect Consciousness**: Appended an "Evidential status: realistic possibility, contested" paragraph that points back to the Standing Agnostic Challenge.
+  - **Multiple Independent Origins**: Reworded "supports The Unfinishable Map's dualist position" → "*coherent with* The Unfinishable Map's dualist position"; added a closing paragraph stating the coherence runs in one direction only — multiple-origins observation does not raise evidential status above realistic-possibility-contested. UAL-as-interface and multiple-origins explicitly labelled "tenet-coherent, not evidence-elevating."
+  - **The Agnostic Challenge → The Standing Agnostic Challenge**: Renamed and structurally promoted. Added an explicit second paragraph stating that Gutfreund's critique applies *across every species-claim in this article*, naming the three sections it constrains (New York Declaration, UAL, multiple-origins) and explicitly stating that Tenet 1 removes a defeater but does not absorb Gutfreund's challenge. Two anchor links from earlier sections (lede + Insect Consciousness) now route into this section.
+  - **Moral Status**: Replaced "if insects, cephalopods, and crustaceans are *probably* conscious" with "sit at **realistic possibility, contested**" — the moral-weight argument now turns on the precautionary scale of obligation under that tier rather than on a stronger evidential claim.
+- **Words touched**: ~440 (slightly above the ~200–400 target; the Standing Agnostic Challenge expansion plus the lede defeater-vs-evidence paragraph drove most of the budget; Moral Status fix added in audit step (b)).
+- **Tenet alignment**: Tenet 1 (Dualism) preserved + epistemic discipline (the calibration scale + register separation). The "no anthropocentric barrier" inference is preserved verbatim and explicitly defended as a tenet-register move; what changes is what the inference licenses *next*.
+- **Reciprocal verification**: Cross-references in the article body are intact (lede `[discussed in the ape cognition section]` anchor unchanged; new `[](#the-standing-agnostic-challenge)` anchors match the renamed heading). Consistent with the earlier same-day refinement of [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — both articles now use the same five-tier vocabulary and the same defeater-vs-evidence framing.
+- **Published**: yes (draft: false; changes applied directly)
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-04 19:24 UTC - refine-draft
 - **Status**: Success
