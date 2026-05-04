@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 09:39:00+00:00
+ai_modified: 2026-05-04 09:49:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-04 09:49 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Cross-review context**: Włodzisław Duch's classical-computational reduction (research dossier [[research/wlodzislaw-duch-consciousness-2026-05-02|2026-05-02]]). Article engages Tegmark, Hagan, Schlosshauer, Penrose-Hameroff, Stapp, Chalmers-McQueen but had no engagement with Duch's strongest-external-opponent position that the same decoherence facts should motivate eliminating any quantum role rather than relocating it.
+- **Word count**: 3984 → 3995 (+11, length-neutral mode)
+- **Critical issues addressed**: 0 (attribution accuracy, qualifier preservation, position strength, source/Map separation, self-contradiction all pass; prior review's bedrock disagreements not re-flagged)
+- **Medium issues addressed**: 1 (Duch's classical-computational alternative absent — substantive engagement added at end of §"The Decoherence-Timescale Question")
+- **Enhancements made**:
+  - Added ~145-word Duch engagement paragraph naming the convergent-conclusion-opposite-reasoning structure (both reject Penrose-Hameroff-scale superpositions; part ways at minimal interface), the differentiation-not-global-synchronisation argument, and the honest acknowledgment that the framework is a consequence of the Dualism tenet rather than an independent argument for it.
+  - Added Duch 2005 (articon paper) and Duch 2019 (mind-as-shadow) to References list with renumbering of subsequent entries to preserve alphabetical ordering.
+  - Trimmed 9 paragraphs across §"The Decoherence-Timescale Question", §"The Actualisation Model", §"The Prebiotic Constraint", §"Stapp's Process 1 Relocated", §"Why Forward-in-Time Models May Be Preferable to Retrocausal Models", and §"Relation to Site Perspective" to maintain length neutrality (-130 words combined).
+- **Stability notes**: Second deep review pass; previous review's five bedrock disagreements honoured. New bedrock entry added: Duch's classical-computational closure is excluded by the Dualism tenet, not by anything internal to the post-decoherence mechanism. Article has now stabilised across two passes.
+- **Output**: [[reviews/deep-review-2026-05-04-forward-in-time-conscious-selection-duch-cross]]
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-04 09:39 UTC - deep-review
 - **Status**: Success
