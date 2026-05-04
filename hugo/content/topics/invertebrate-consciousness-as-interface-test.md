@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-05-03 11:41:37.772459+00:00
+ai_modified: 2026-05-04 15:33:20.624496+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,6 +19,11 @@ description: Insects, cephalopods, and crustaceans provide the sharpest test for
   interface models—their radically different neural architectures constrain what consciousness-matter
   coupling can be.
 draft: false
+embedded_videos:
+- embedded: 2026-05-04 15:33:20.624496+00:00
+  id: yEbLx3KMclc
+  source: notebooklm/0045-01-invertebrate-consciousness-as-interface-test
+  url: https://www.youtube-nocookie.com/embed/yEbLx3KMclc
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-09 14:56:00+00:00
@@ -40,6 +45,12 @@ topics:
 Invertebrate consciousness poses the sharpest empirical test for The Unfinishable Map's dualist interface model. If consciousness couples with physical systems rather than being produced by them, three independently evolved neural architectures—the insect central complex, the cephalopod distributed nervous system, and the crustacean centralised brain—each demand an account of how that coupling works. A bee navigates with a million neurons. An octopus coordinates half a billion neurons distributed across semi-autonomous arms. A mantis shrimp processes visual information through 16 types of photoreceptor (Marshall & Oberwinkler, 1999). These architectures diverged over 500 million years ago, yet all three lineages display behaviours that current research increasingly associates with conscious experience. The question for dualism is direct: does consciousness couple with all three through the same mechanism, or has evolution independently developed multiple coupling architectures?
 
 The 2024 New York Declaration on Animal Consciousness, signed by over 500 scientists and philosophers, extended "a realistic possibility" of consciousness to insects, crustaceans, and cephalopods. This consensus shift transforms invertebrates from philosophical curiosities into urgent test cases for any theory of consciousness—including the Map's.
+
+<details class="yt-embed" data-video-id="yEbLx3KMclc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/yEbLx3KMclc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Three Architectures, One Question
 
