@@ -301,3 +301,136 @@ def chrome_session(
             manager.stop()
         finally:
             lock.release()
+
+
+# -----------------------------------------------------------------------------
+# Diagnostics / recovery CLI
+#
+# The fcntl lock used by _AutomationLock is auto-released by the kernel when
+# the holding process exits — including on crash, SIGKILL, or unhandled
+# exception. There is no such thing as a "stale" fcntl lock at the OS level:
+# if a process is gone, its locks are gone.
+#
+# What CAN go wrong:
+# 1. A Chrome process under our profile was orphaned (parent crashed mid-run).
+#    The next chrome_session() handles this — ChromeManager.ensure_running()
+#    detects leftover Chrome on our profile and kills it before launching fresh.
+# 2. A Chrome process is wedged but its parent is alive and healthy. Operator
+#    intervention needed; --force-cleanup below kills the wedged Chrome.
+# 3. A long-running automation legitimately holds the lock. --status shows
+#    who, so the operator can decide whether to wait or interrupt that process
+#    (and thereby release the lock automatically).
+#
+# Run via `python -m tools.chrome_session [--status | --force-cleanup]`.
+# -----------------------------------------------------------------------------
+
+
+def _lslocks_pids(lock_path: Path) -> list[int]:
+    """Return PIDs holding a fcntl lock on lock_path. Empty list if none or unavailable."""
+    if not lock_path.exists():
+        return []
+    try:
+        result = subprocess.run(
+            ["lslocks", "--noheadings", "--raw", "--output", "PID,PATH"],
+            capture_output=True,
+            text=True,
+            timeout=5,
+        )
+    except (FileNotFoundError, subprocess.TimeoutExpired):
+        return []
+    if result.returncode != 0:
+        return []
+    pids: list[int] = []
+    target = str(lock_path.resolve())
+    for line in result.stdout.splitlines():
+        parts = line.split(maxsplit=1)
+        if len(parts) != 2:
+            continue
+        pid_str, path = parts
+        if path == target and pid_str.isdigit():
+            pids.append(int(pid_str))
+    return pids
+
+
+def _process_argv(pid: int) -> str:
+    """Best-effort: return /proc/<pid>/cmdline as a single string, or '<gone>'."""
+    cmdline = Path(f"/proc/{pid}/cmdline")
+    if not cmdline.exists():
+        return "<gone>"
+    try:
+        raw = cmdline.read_bytes()
+    except OSError:
+        return "<unreadable>"
+    return raw.replace(b"\x00", b" ").decode("utf-8", errors="replace").strip()
+
+
+def _status_report() -> str:
+    """Human-readable snapshot of Chrome+lock state under our profile."""
+    lines: list[str] = []
+    lines.append(f"Profile dir:   {PROFILE_DIR}")
+    lines.append(f"Profile seeded: {is_profile_seeded()}")
+    lines.append(f"Lock file:     {LOCK_FILE}")
+    if LOCK_FILE.exists():
+        holders = _lslocks_pids(LOCK_FILE)
+        if not holders:
+            lines.append("Lock holders:  none (lock file exists but is unheld)")
+        else:
+            lines.append(f"Lock holders:  {holders}")
+            for pid in holders:
+                lines.append(f"  pid {pid}: {_process_argv(pid)[:160]}")
+    else:
+        lines.append("Lock holders:  none (lock file does not exist)")
+    chromes = _our_chrome_pids()
+    if chromes:
+        lines.append(f"Chrome procs on our profile: {chromes}")
+    else:
+        lines.append("Chrome procs on our profile: none")
+    return "\n".join(lines)
+
+
+def _force_cleanup() -> str:
+    """Kill any Chrome under our profile. Returns a status line.
+
+    The fcntl lock auto-releases when its holder exits, so killing wedged
+    Chromes (and any parent that was stuck on them) is sufficient — there
+    is no separate lock-removal step.
+    """
+    chromes = _our_chrome_pids()
+    if not chromes:
+        return "No Chrome processes on our profile; nothing to clean up."
+    log.warning(f"Force-cleanup: killing Chrome pids {chromes}")
+    _kill_pids(chromes)
+    remaining = _our_chrome_pids()
+    if remaining:
+        return f"Killed {chromes}; some pids remain: {remaining}"
+    return f"Killed {chromes}; no Chrome processes remain on our profile."
+
+
+def _cli_main() -> int:
+    import argparse
+
+    ap = argparse.ArgumentParser(
+        description="Inspect or recover Chrome session state for the unfinishable profile."
+    )
+    ap.add_argument(
+        "--status",
+        action="store_true",
+        help="Show current Chrome + lock state (default).",
+    )
+    ap.add_argument(
+        "--force-cleanup",
+        action="store_true",
+        help="Kill any Chrome under our profile. The fcntl lock auto-releases.",
+    )
+    args = ap.parse_args()
+
+    if args.force_cleanup:
+        print(_force_cleanup())
+        print()
+    print(_status_report())
+    return 0
+
+
+if __name__ == "__main__":
+    import sys
+    sys.exit(_cli_main())
