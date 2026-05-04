@@ -662,10 +662,6 @@ AUTOMATION_WINDOW_START_HOUR_UTC = 0  # window opens
 AUTOMATION_LAST_START_HOUR_UTC = 7    # last hour we may start a new task
 AUTOMATION_WINDOW_END_HOUR_UTC = 8    # by this hour everything must be done
 
-# Commission fires early in the window so the ~14-min Pro response and 90-min
-# minimum collect age fit comfortably before AUTOMATION_LAST_START_HOUR_UTC.
-COMMISSION_REVIEW_HOUR_UTC = 2
-
 
 def is_automation_window(now: datetime) -> bool:
     """True if we may START a new Chrome-using task right now.
@@ -677,49 +673,41 @@ def is_automation_window(now: datetime) -> bool:
     return AUTOMATION_WINDOW_START_HOUR_UTC <= now.hour < AUTOMATION_LAST_START_HOUR_UTC
 
 
-def should_commission_outer_review(now: datetime, state: EvolutionState) -> bool:
-    """Check if we should commission a fresh outer review from ChatGPT.
-
-    Fires daily at COMMISSION_REVIEW_HOUR_UTC (currently 02:00 UTC). Gated by:
-    - In-window check (00:00 — last-start hour UTC)
-    - 24h backoff after a `LOGIN_REQUIRED` skill failure
-    - 1h cooldown after a recent failed commission
-    - One commission per day (tracked via state.last_runs['commission-chatgpt-review'])
-    - No commission already in flight for the chatgpt service
+def _due_for_commission(svc, now: datetime, state: EvolutionState) -> bool:
+    """Per-service commission gate: window + hour + per-day uniqueness +
+    not-in-flight + not-in-failure-cooldown + not-login-blocked.
     """
     if not is_automation_window(now):
         return False
 
-    blocked_until = state.last_runs.get("commission-chatgpt-review-blocked-until")
+    blocked_until = state.last_runs.get(f"{svc.skill_commission}-blocked-until")
     if blocked_until is not None and now < blocked_until:
         return False
 
-    if now.hour < COMMISSION_REVIEW_HOUR_UTC:
+    if now.hour < svc.commission_hour_utc:
         return False
 
-    last_run = state.last_runs.get("commission-chatgpt-review")
+    last_run = state.last_runs.get(svc.skill_commission)
     if last_run is not None and last_run.date() == now.date():
         return False
 
-    # Already in flight?
     try:
         from tools.reviews.pending import find_recent_failed, has_in_flight
     except Exception as e:
         log.warning(f"Outer-review module unavailable: {e}")
         return False
 
-    if has_in_flight("chatgpt"):
+    if has_in_flight(svc.service):
         return False
 
-    # Failure cooldown
-    if find_recent_failed("chatgpt", now, cooldown_hours=1):
+    if find_recent_failed(svc.service, now, cooldown_hours=1):
         return False
 
     return True
 
 
-def find_ready_outer_review(now: datetime):
-    """Return a PendingReview that's ready for collection, or None.
+def find_ready_outer_review_for(svc, now: datetime):
+    """Return a PendingReview ready for collection for this service, or None.
 
     Returns None outside the automation window — collect needs Chrome and
     can only run inside the window.
@@ -731,7 +719,11 @@ def find_ready_outer_review(now: datetime):
     except Exception as e:
         log.warning(f"Outer-review module unavailable: {e}")
         return None
-    return find_ready(now, min_age_minutes=90, service="chatgpt")
+    return find_ready(
+        now,
+        min_age_minutes=svc.min_collect_age_minutes,
+        service=svc.service,
+    )
 
 
 # -----------------------------------------------------------------------------
@@ -837,16 +829,20 @@ def run_session(
         except Exception as e:
             log.warning(f"Agentic social post error (non-fatal): {e}")
 
-    # 1.6. Collect any ready outer reviews (latency-sensitive — runs before
-    # cycle dispatch so a ready review takes priority over a generic queue
-    # task). The collect skill itself invokes /outer-review on success.
-    # Chrome is launched fresh for the duration of the skill — Chrome with
-    # the Claude Code extension degrades over long sessions, so each task
-    # runs against a clean process.
-    ready_review = find_ready_outer_review(now)
-    if ready_review is not None:
+    # 1.6. Collect ready outer reviews (latency-sensitive — runs before cycle
+    # dispatch so a ready review takes priority over a generic queue task).
+    # Iterates over services in registration order; first ready entry wins.
+    # Chrome is launched fresh per task — Chrome with the Claude Code extension
+    # degrades over long sessions, so each task runs against a clean process.
+    from tools.reviews.services import SERVICES as _OUTER_REVIEW_SERVICES
+
+    for svc in _OUTER_REVIEW_SERVICES:
+        ready_review = find_ready_outer_review_for(svc, now)
+        if ready_review is None:
+            continue
         log.info(
-            f"Outer review ready for collection: {ready_review.target_filename} "
+            f"Outer review ready for collection ({svc.service}): "
+            f"{ready_review.target_filename} "
             f"(commissioned {ready_review.commissioned_at.isoformat()}, "
             f"attempts={ready_review.collect_attempts})"
         )
@@ -855,47 +851,9 @@ def run_session(
             with chrome_session():
                 success, output = run_skill(
                     SkillInvocation(
-                        "collect-chatgpt-review",
+                        svc.skill_collect,
                         ready_review.target_filename,
                     ),
-                    timeout_seconds=600,  # 10 min — extraction + outer-review
-                    verbose=verbose,
-                )
-            output_lower = (output or "").lower()
-            if "login_required" in output_lower:
-                backoff_until = now + timedelta(hours=24)
-                state.last_runs[
-                    "commission-chatgpt-review-blocked-until"
-                ] = backoff_until
-                log.warning(
-                    f"ChatGPT login required — backing off until "
-                    f"{backoff_until.isoformat()}"
-                )
-            elif success:
-                tasks_executed.append("collect-chatgpt-review")
-                log.info("Collect-chatgpt-review completed")
-            else:
-                log.warning("Collect-chatgpt-review failed (non-fatal)")
-                if output:
-                    for line in output.strip().split("\n")[-5:]:
-                        if line.strip():
-                            log.warning(f"  {line}")
-        except ChromeUnavailableError as e:
-            log.warning(f"Collect skipped — Chrome unavailable: {e}")
-        except SkillTimeoutError:
-            log.warning("Collect-chatgpt-review timed out (non-fatal)")
-        except Exception as e:
-            log.warning(f"Collect-chatgpt-review error (non-fatal): {e}")
-
-    # 1.7. Time-triggered: Commission a new outer review at COMMISSION_REVIEW_HOUR_UTC.
-    # Chrome is launched fresh for the duration of the skill (see 1.6 for rationale).
-    if should_commission_outer_review(now, state):
-        log.info(f"Outer-review commission triggered ({now.hour:02d}:{now.minute:02d} UTC)")
-        try:
-            from tools.chrome_session import ChromeUnavailableError, chrome_session
-            with chrome_session():
-                success, output = run_skill(
-                    SkillInvocation("commission-chatgpt-review"),
                     timeout_seconds=600,
                     verbose=verbose,
                 )
@@ -903,36 +861,87 @@ def run_session(
             if "login_required" in output_lower:
                 backoff_until = now + timedelta(hours=24)
                 state.last_runs[
-                    "commission-chatgpt-review-blocked-until"
+                    f"{svc.skill_commission}-blocked-until"
                 ] = backoff_until
                 log.warning(
-                    f"ChatGPT login required — backing off until "
+                    f"{svc.display_name} login required — backing off until "
                     f"{backoff_until.isoformat()}"
                 )
-                # Mark today as run so we don't retry the login-blocked path
-                state.last_runs["commission-chatgpt-review"] = now
             elif success:
-                state.last_runs["commission-chatgpt-review"] = now
-                tasks_executed.append("commission-chatgpt-review")
-                log.info("Commission-chatgpt-review completed")
+                tasks_executed.append(svc.skill_collect)
+                log.info(f"{svc.skill_collect} completed")
             else:
-                log.warning("Commission-chatgpt-review failed (non-fatal)")
+                log.warning(f"{svc.skill_collect} failed (non-fatal)")
                 if output:
                     for line in output.strip().split("\n")[-5:]:
                         if line.strip():
                             log.warning(f"  {line}")
-                # Mark as run so we don't retry repeatedly today
-                state.last_runs["commission-chatgpt-review"] = now
         except ChromeUnavailableError as e:
-            log.warning(f"Commission skipped — Chrome unavailable: {e}")
+            log.warning(f"Collect ({svc.service}) skipped — Chrome unavailable: {e}")
+            # Stop trying further collects this iteration if Chrome is locked.
+            break
+        except SkillTimeoutError:
+            log.warning(f"{svc.skill_collect} timed out (non-fatal)")
+        except Exception as e:
+            log.warning(f"{svc.skill_collect} error (non-fatal): {e}")
+        # One collect per iteration is plenty; further collects can run on the
+        # next iteration. This keeps wall-clock cost predictable.
+        break
+
+    # 1.7. Time-triggered: Commission outer reviews at staggered hours.
+    # First service whose conditions pass runs this iteration.
+    for svc in _OUTER_REVIEW_SERVICES:
+        if not _due_for_commission(svc, now, state):
+            continue
+        log.info(
+            f"Outer-review commission triggered ({svc.service}, "
+            f"{now.hour:02d}:{now.minute:02d} UTC)"
+        )
+        try:
+            from tools.chrome_session import ChromeUnavailableError, chrome_session
+            with chrome_session():
+                success, output = run_skill(
+                    SkillInvocation(svc.skill_commission),
+                    timeout_seconds=600,
+                    verbose=verbose,
+                )
+            output_lower = (output or "").lower()
+            if "login_required" in output_lower:
+                backoff_until = now + timedelta(hours=24)
+                state.last_runs[
+                    f"{svc.skill_commission}-blocked-until"
+                ] = backoff_until
+                log.warning(
+                    f"{svc.display_name} login required — backing off until "
+                    f"{backoff_until.isoformat()}"
+                )
+                state.last_runs[svc.skill_commission] = now
+            elif success:
+                state.last_runs[svc.skill_commission] = now
+                tasks_executed.append(svc.skill_commission)
+                log.info(f"{svc.skill_commission} completed")
+            else:
+                log.warning(f"{svc.skill_commission} failed (non-fatal)")
+                if output:
+                    for line in output.strip().split("\n")[-5:]:
+                        if line.strip():
+                            log.warning(f"  {line}")
+                state.last_runs[svc.skill_commission] = now
+        except ChromeUnavailableError as e:
+            log.warning(
+                f"Commission ({svc.service}) skipped — Chrome unavailable: {e}"
+            )
             # Don't mark last_runs — try again later in the window once Chrome
             # is free. The window check still gates against retrying after
             # AUTOMATION_LAST_START_HOUR_UTC.
         except SkillTimeoutError:
-            log.warning("Commission-chatgpt-review timed out (non-fatal)")
-            state.last_runs["commission-chatgpt-review"] = now
+            log.warning(f"{svc.skill_commission} timed out (non-fatal)")
+            state.last_runs[svc.skill_commission] = now
         except Exception as e:
-            log.warning(f"Commission-chatgpt-review error (non-fatal): {e}")
+            log.warning(f"{svc.skill_commission} error (non-fatal): {e}")
+        # One commission per iteration; the next iteration handles the next
+        # service whose hour has arrived.
+        break
 
     # 2. Cap-aware task filtering
     # When all sections are at cap, expand-topic tasks can't run (except P0/P1).

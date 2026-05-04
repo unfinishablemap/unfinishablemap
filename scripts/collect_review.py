@@ -1,11 +1,18 @@
 #!/usr/bin/env python3
-"""Build an outer-review file from extracted ChatGPT data.
+"""Build an outer-review file from extracted commission data.
 
-Invoked by the collect-chatgpt-review skill after JS extraction. Takes:
+Invoked by collect-{chatgpt,claude,gemini}-review skills after JS extraction.
+Service-agnostic — the model slug picks the right display name and ai_system
+field via _slug_to_display_name / _slug_to_ai_system. Supported slug shapes:
+gpt-X-Y-pro, claude-{opus,sonnet,haiku}-X-Y, gemini-X-Y-{pro,flash,ultra}.
+
+Inputs:
 - the user prompt (plain text)
-- the assistant response HTML (base64 encoded to bypass MCP content filters)
+- the assistant response, either as HTML (base64 encoded to bypass MCP content
+  filters) or as already-converted markdown (--response-md-file)
 - conversation URL
 - model slug
+- ISO date the prompt was commissioned
 
 Writes the file to obsidian/reviews/<target_filename> with seed frontmatter
 that the outer-review skill will then extend.
@@ -73,16 +80,54 @@ outer_review_extraction_method: {extraction_method}
 
 
 def _slug_to_display_name(slug: str) -> str:
-    """gpt-5-5-pro → ChatGPT 5.5 Pro"""
+    """Map a service-specific model slug to a human-readable display name.
+
+    Examples:
+        gpt-5-5-pro       → ChatGPT 5.5 Pro
+        claude-opus-4-7   → Claude Opus 4.7
+        gemini-2-5-pro    → Gemini 2.5 Pro
+    """
     if slug.startswith("gpt-"):
         rest = slug[len("gpt-"):]
-        # Pull off trailing model class
         for suffix in ("-pro", "-thinking", "-instant"):
             if rest.endswith(suffix):
                 version = rest[: -len(suffix)]
                 cls = suffix[1:].capitalize()
                 return f"ChatGPT {version.replace('-', '.')} {cls}"
         return f"ChatGPT {rest.replace('-', '.')}"
+
+    if slug.startswith("claude-"):
+        # claude-opus-4-7 → Opus 4.7
+        rest = slug[len("claude-"):]
+        # Variant name first (opus / sonnet / haiku), then version
+        for variant in ("opus", "sonnet", "haiku"):
+            if rest.startswith(variant + "-"):
+                version = rest[len(variant) + 1:].replace("-", ".")
+                return f"Claude {variant.capitalize()} {version}"
+        return f"Claude {rest.replace('-', '.')}"
+
+    if slug.startswith("gemini-"):
+        # gemini-2-5-pro → 2.5 Pro
+        rest = slug[len("gemini-"):]
+        for suffix in ("-pro", "-flash", "-ultra"):
+            if rest.endswith(suffix):
+                version = rest[: -len(suffix)].replace("-", ".")
+                cls = suffix[1:].capitalize()
+                return f"Gemini {version} {cls}"
+        return f"Gemini {rest.replace('-', '.')}"
+
+    return slug
+
+
+def _slug_to_ai_system(slug: str) -> str:
+    """Map a model slug to the ai_system frontmatter convention.
+
+    The convention is `<service>-<model>` (with the service prefix lowercase).
+    For ChatGPT we strip the `gpt-` prefix and rebuild as `chatgpt-<rest>`;
+    Claude and Gemini slugs already match the convention.
+    """
+    if slug.startswith("gpt-"):
+        return "chatgpt-" + slug[len("gpt-"):]
     return slug
 
 
@@ -100,12 +145,7 @@ def build_review_file(
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     today = datetime.now(timezone.utc).date().isoformat()
 
-    # ai_system needs to identify the service+model in our convention
-    if model_slug.startswith("gpt-"):
-        ai_system = "chatgpt-" + model_slug[len("gpt-"):]
-    else:
-        ai_system = model_slug
-
+    ai_system = _slug_to_ai_system(model_slug)
     display_name = _slug_to_display_name(model_slug)
     content = SEED_FRONTMATTER_TEMPLATE.format(
         display_name=display_name,
@@ -141,7 +181,7 @@ def main() -> int:
                           "converted to markdown (skips html_to_markdown)")
     ap.add_argument("--conversation-url", required=True)
     ap.add_argument("--model-slug", required=True,
-                    help="e.g., gpt-5-5-pro")
+                    help="e.g., gpt-5-5-pro, claude-opus-4-7, gemini-2-5-pro")
     ap.add_argument("--commissioned-date", required=True,
                     help="ISO date the prompt was commissioned, e.g., 2026-05-04")
     ap.add_argument("--extraction-method", default="js-dom",
@@ -187,10 +227,7 @@ def _write_with_markdown(
     """Same as build_review_file but takes already-converted markdown."""
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     today = datetime.now(timezone.utc).date().isoformat()
-    if model_slug.startswith("gpt-"):
-        ai_system = "chatgpt-" + model_slug[len("gpt-"):]
-    else:
-        ai_system = model_slug
+    ai_system = _slug_to_ai_system(model_slug)
     display_name = _slug_to_display_name(model_slug)
     content = SEED_FRONTMATTER_TEMPLATE.format(
         display_name=display_name,

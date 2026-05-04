@@ -181,7 +181,7 @@ If a chunk gets blocked by the MCP filter (`[BLOCKED: ...]`), narrow the slice (
 ## Step 6: Write the review file
 
 ```bash
-uv run python scripts/collect_chatgpt_review.py \
+uv run python scripts/collect_review.py \
   --target obsidian/reviews/<target_filename> \
   --prompt "<user prompt>" \
   --response-html-b64 "<base64 of full markdown body>" \
@@ -196,7 +196,7 @@ Note: despite the flag name (`--response-html-b64`), pass the *markdown body* ba
 Actually, since Step 4 produces markdown directly, the helper is doing redundant work. The cleanest path:
 
 1. Save the assembled markdown to a temp file (e.g., `tmp/collect-body.md`).
-2. Invoke a thin variant: `python scripts/collect_chatgpt_review.py --target ... --prompt ... --response-md-file tmp/collect-body.md --conversation-url ... --model-slug ... --commissioned-date ...`
+2. Invoke a thin variant: `python scripts/collect_review.py --target ... --prompt ... --response-md-file tmp/collect-body.md --conversation-url ... --model-slug ... --commissioned-date ...`
 
 If the helper script doesn't yet support `--response-md-file`, fall back to `--response-html-b64` (which still works because plain markdown contains no HTML tags and passes through `html_to_markdown` essentially unchanged).
 

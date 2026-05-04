@@ -211,8 +211,12 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/add-highlight` | Add item to highlights page (max 1/day). Supports backlog: can feature any content not highlighted in last 90 days | Yes (highlights.md) |
 | `/tweet-highlight` | [DEPRECATED] Use add-highlight --tweet instead. Tweets existing highlight without deployment verification. | No (external only) |
 | `/outer-review` | Commission and process external AI analysis to reduce blind spots | Yes (creates review, tasks) |
-| `/commission-chatgpt-review` | Drives Chrome to commission a fresh outer review from ChatGPT GPT-5.5 Pro Extended. Time-triggered daily 02:00 UTC (debug cadence) within the automation window. | Yes (pending-reviews.yaml) |
-| `/collect-chatgpt-review` | Polls a pending ChatGPT conversation, extracts the response when ready (≥90 min), writes the review file, invokes outer-review. Runs every loop iteration when an entry is ready and the automation window is open. | Yes (creates review file, invokes outer-review) |
+| `/commission-chatgpt-review` | Drives Chrome to commission a fresh outer review from ChatGPT GPT-5.5 Pro Extended. Time-triggered daily 02:00 UTC within the automation window. | Yes (pending-reviews.yaml) |
+| `/collect-chatgpt-review` | Polls a pending ChatGPT conversation, extracts the response when ready (≥90 min), writes the review file, invokes outer-review. | Yes (creates review file, invokes outer-review) |
+| `/commission-claude-review` | Drives Chrome to commission a fresh outer review from Claude Opus 4.7 (Adaptive thinking + Research + Web Search) in the Map's project. Time-triggered daily 03:00 UTC. Navigates the optional clarifying-questions stage with "go". | Yes (pending-reviews.yaml) |
+| `/collect-claude-review` | Polls a pending Claude conversation, opens the artifact panel, extracts the body when ready (≥60 min), writes the review file, invokes outer-review. | Yes (creates review file, invokes outer-review) |
+| `/commission-gemini-review` | Drives Chrome to commission a fresh outer review from Gemini 2.5 Pro Deep Research. Time-triggered daily 04:00 UTC. Clicks "Start research" on the research-plan stage. | Yes (pending-reviews.yaml) |
+| `/collect-gemini-review` | Polls a pending Gemini conversation, extracts the report when ready (≥20 min), writes the review file, invokes outer-review. | Yes (creates review file, invokes outer-review) |
 | `/coalesce` | Combine multiple related articles into one unified piece. Archives originals to preserve URLs. | Yes (creates, archives) |
 | `/archive` | Archive an article while preserving its URL for external links. | Yes (moves to archive) |
 | `/apex-evolve` | Build and maintain apex articles—human-readable synthesis pieces. | Yes (creates, modifies) |
@@ -301,7 +305,9 @@ The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. S
 **Time-triggered** (wall clock):
 - add-highlight-tweet: 8am UTC daily (finds highlight-worthy work, adds highlight, pushes, waits for deploy, tweets)
 - commission-chatgpt-review: 2am UTC daily (within automation window) — drives Chrome to commission a fresh outer review; pending-reviews.yaml records the in-flight entry.
-- collect-chatgpt-review: every loop iteration during the automation window when a pending review is ≥90 min old (extracts response, writes file, invokes outer-review). 4h abandon cutoff for stuck conversations.
+- commission-claude-review: 3am UTC daily — Opus 4.7 with Adaptive thinking + Research.
+- commission-gemini-review: 4am UTC daily — 2.5 Pro with Deep Research.
+- collect-{chatgpt,claude,gemini}-review: every loop iteration during the automation window when a pending review of the relevant service is ready (chatgpt ≥90 min, claude ≥60 min, gemini ≥20 min). 4h abandon cutoff for stuck conversations on all three. One commission and one collect per loop iteration to keep wall-clock cost predictable.
 
 **Chrome automation window** (UTC):
 
@@ -315,7 +321,7 @@ Tasks that drive Chrome (commission/collect outer reviews; future Gemini/Claude 
 
 A cross-repo advisory lock at `~/unfin/chrome-profiles/.automation.lock` ensures only one automation (this repo or auto_unfin) drives Chrome at a time. Each task launches a fresh Chrome from `~/unfin/chrome-profiles/unfinishable` and stops it when the task finishes — Chrome with the Claude Code extension degrades over long sessions, so per-task lifecycle is the cure.
 
-**One-time profile setup (required before automation can run)**: launch Chrome with `--user-data-dir=$HOME/unfin/chrome-profiles/unfinishable`, install the Claude Code extension, and log in to ChatGPT. The dispatcher's `is_profile_seeded()` check refuses to run tasks until this is done.
+**One-time profile setup (required before automation can run)**: launch Chrome with `--user-data-dir=$HOME/unfin/chrome-profiles/unfinishable`, install the Claude Code extension, and log in to all three services: **ChatGPT** (chatgpt.com), **Claude** (claude.ai), and **Gemini** (gemini.google.com). The dispatcher's `is_profile_seeded()` check refuses to run tasks until the extension is present; per-service `LOGIN_REQUIRED` markers from the skills will set 24h backoffs if a session expires.
 
 **Speed examples:**
 | Interval | Sessions/day | Cycle duration |
