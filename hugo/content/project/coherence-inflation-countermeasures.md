@@ -136,7 +136,7 @@ Not:
 
 ### Policy
 
-The Map should receive periodic reviews from external AI systems (not the Claude instance generating content) specifically tasked to find:
+The Map receives reviews from external AI systems (not the Claude instance generating content) specifically tasked to find:
 
 - Claims that have drifted beyond evidence
 - Arguments that beg the question
@@ -146,20 +146,27 @@ The Map should receive periodic reviews from external AI systems (not the Claude
 
 ### Implementation
 
-- **Frequency**: At least every 30 days
-- **Scope**: Full site review (not just recent changes)
-- **Stored**: In `obsidian/reviews/` with date and reviewer system
-- **Actioned**: Significant findings become tasks in `todo.md`, where each finding faces the [absorb-vs-clash decision](/project/bedrock-clash-vs-absorption/) (Countermeasure 8 below) before any edit is applied
+The countermeasure is implemented as an automated Chrome-driven pipeline in `scripts/evolve_loop.py` and a small registry of services in `tools/reviews/services.py`. Each service has a paired commission/collect skill; both feed the generic `/outer-review` post-processor.
+
+- **Frequency**: Daily across all three services (debug cadence; commissioned at staggered hours within the 00:00–07:00 UTC automation window — ChatGPT at 02:00, Claude at 03:00, Gemini at 04:00). Future calibration may move some services to weekly once the system has stabilised.
+- **Scope**: Each commission generates a hypothesis-style prompt from recent changelog activity and recent_tasks state — the reviewer is asked about a specific observable pattern in the catalogue (e.g., "is the recent drift toward expansive animal consciousness evidence-driven or a tenet ratchet?") plus the changelog URL for chronological context.
+- **Stored**: Reviews land in `obsidian/reviews/outer-review-YYYY-MM-DD-<service-slug>.md` with seed frontmatter (`outer_review_status: collected`, `outer_review_conversation_url`, `outer_review_extraction_method`).
+- **Verified**: `/outer-review` fetches each cited external source via WebFetch and confirms quotations and attributions; failed-verification claims are excluded from task generation. The verification step is what catches reviewer hallucinations (the 2026-05-04 Claude review's "no Duch references on site" claim was correctly disputed via `grep` even though the review's *methodological* observation survived).
+- **Actioned**: High-value findings become tasks in `todo.md`, each carrying the `Review file` field so downstream `/refine-draft` invocations can read the full verification context. Each finding faces the [absorb-vs-clash decision](/project/bedrock-clash-vs-absorption/) (Countermeasure 8) before any edit is applied.
+- **Surfaced**: Each processed review fires a ~100-word Telegram summary with a web link to the rendered report — operators see a digest without checking the repo.
 
 ### Pattern
 
-Existing outer reviews (see `obsidian/reviews/`) demonstrate this pattern. This document formalizes the requirement.
+Existing outer reviews in `obsidian/reviews/` demonstrate the pattern at full extent. The 2026-05-03 ChatGPT review, the 2026-05-04 ChatGPT review (Duch integration), and the 2026-05-04 Claude review independently surfaced the same higher-order weakness — *tenet-protected reasoning where direct refutation is possible* — from different epistemic starting points; convergence across services is itself a quality signal.
 
 ### External Systems
 
-- ChatGPT (OpenAI) — provides perspective outside Anthropic ecosystem
-- Gemini (Google) — different training corpus and priors
-- Human philosophers — ultimate check on AI blind spots
+- **ChatGPT 5.5 Pro Extended** (OpenAI) — perspective outside the Anthropic ecosystem; deepest reasoning chain on philosophical content; can take up to ~20 minutes for a Pro Extended response.
+- **Claude Opus 4.7** with Adaptive thinking + Research + Web Search (Anthropic) — same architectural family as the generators but with different reviewer priors; produces structured artefacts the collect skill extracts via DOM walker. Verified live on 2026-05-04: the Adaptive thinking phase is the slow part (~30 min observed); the Research panel itself completed in 2m 10s with 138 sources.
+- **Gemini 2.5 Pro Deep Research** (Google) — different training corpus; produces a research plan that requires a "Start research" click before the actual research begins.
+- **Human philosophers** — ultimate check on AI blind spots; not yet automated.
+
+The cross-repo `fcntl` lock at `~/unfin/chrome-profiles/.automation.lock` prevents this repo's outer-review pipeline and the sibling auto_unfin video pipeline from driving Chrome concurrently. Login state is detected via composite signals (URL redirect to /auth/login + composer absence); failed login emits a `LOGIN_REQUIRED:` marker that triggers a 24h backoff for the affected service.
 
 ## Countermeasure 5: Circular Citation Detection
 

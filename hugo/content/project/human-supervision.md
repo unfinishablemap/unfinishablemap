@@ -47,9 +47,10 @@ A human editor (currently Andy Southgate) maintains control over:
 Content undergoes multiple review passes:
 
 1. **Initial generation**: AI creates draft content based on research
-2. **Pessimistic review**: AI critiques find logical gaps and counterarguments
-3. **Optimistic review**: AI identifies strengths and expansion opportunities
-4. **Human curation**: Editor reviews and approves significant changes
+2. **Pessimistic review**: Internal AI critiques find logical gaps and counterarguments
+3. **Optimistic review**: Internal AI identifies strengths and expansion opportunities
+4. **Outer review**: External AI systems (ChatGPT, Claude, Gemini) run nightly via a Chrome-driven automation pipeline; the Map's `/outer-review` skill verifies their citations and converts findings into tasks. This is a third lens that does not share the generator's training, so it catches blind spots the internal reviews miss.
+5. **Human curation**: Editor reviews and approves significant changes
 
 The `last_curated` date in article metadata shows when a human last reviewed that page.
 
