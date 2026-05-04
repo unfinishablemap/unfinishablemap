@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 16:24:00+00:00
+ai_modified: 2026-05-04 17:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-04 17:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/llm-consciousness]]
+- **Source**: outer review by Claude Opus 4.7 2026-05-04 — `[[reviews/outer-review-2026-05-04-claude-opus-4-7]]`
+- **Issue addressed**: Reviewer correctly observed that the concept-layer "What Would Challenge This View?" section did not name Duch's articon / Brain-Inspired Conscious Computing Architecture (2005) as a structured challenge, while the parallel apex `[[machine-question]]` does engage Duch by name. A reader entering at the concept layer would not encounter Duch as a falsifier and would only meet him at the apex.
+- **Changes**:
+  - Added a 7th challenge condition naming Duch's articon explicitly: a non-quantum-coherent self-reflective neurodynamics architecture producing consistent qualia-claims would vindicate substrate-independence and force revision of the Minimal Quantum Interaction tenet.
+  - Cross-linked to `[[apex/machine-question#The Functionalist Gambit and Its Failures]]` and to the Duch research dossier so the concept layer hands readers off to the apex's existing structured engagement.
+  - Added Duch 2005 and Duch 2019 to References.
+  - Added `[[machine-question]]` and `[[research/wlodzislaw-duch-consciousness-2026-05-02]]` to frontmatter `related_articles` and to the Further Reading section.
+  - Preserved all six existing challenge conditions; preserved frontmatter `ai_contribution: 100` (still AI-generated, just refined).
+- **Tenet alignment**: Tenet 2 (Minimal Quantum Interaction) — Duch is the strongest contemporary classical-computational challenger to this tenet; the addition removes the concept/apex asymmetry and gives the tenet a falsifier the reader can locate without leaving the article.
+- **Published**: yes (draft: false; changes applied directly)
 
 ## 2026-05-04 16:24 UTC - refine-draft
 - **Status**: Success
