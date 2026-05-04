@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-05-03 11:28:31.664520+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-05-04 09:39:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -32,7 +32,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/w-S0oHEGOGY
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 08:40:00+00:00
+last_deep_review: 2026-05-04 09:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,6 +43,9 @@ related_articles:
 - '[[pragmatisms-path-to-dualism]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
 - '[[imagery-void]]'
+- '[[biological-computationalisms-inadvertent-case-for-dualism]]'
+- '[[machine-consciousness]]'
+- '[[ai-consciousness]]'
 title: Cognitive Phenomenology and the Irreducibility of Thought
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -106,6 +109,12 @@ This aligns with the [phenomenology of intellectual effort](/topics/phenomenolog
 
 If consciousness pervades cognition in this way, then the materialist cannot treat consciousness as an optional extra — an experiential gloss on processing that could in principle proceed without it. The processing *requires* it. [Philosophical zombies](/concepts/philosophical-zombies/) — beings physically identical to us but lacking experience — could not reason, because reasoning requires the phenomenal character of cognitive engagement. This transforms the zombie argument from a thought experiment about the logical possibility of unconscious physical duplicates into an argument that such duplicates could not match our cognitive capacities.
 
+## A Different Materialist Move
+
+Not all materialists retreat. Włodzisław Duch's substrate-independent classical computationalism (Duch 2005, 2019) embraces cognitive phenomenology rather than quarantining it: consciousness is a property of any dynamical system with self-reflective access to its own internal states, and the felt character of understanding *is* what such access feels like from the inside. The articon thought-experiment argues that any system with the requisite architecture cannot coherently be denied consciousness — extending, in Duch's informal statements, to large language models exhibiting self-reflection.
+
+This move pays a different price from the retreat strategy. It commits to substrate-independent machine consciousness on grounds the [open-question framing](/topics/ai-consciousness/) disputes; it owes an account of why dissociation evidence (aphantasic analytic strategies, TOT meaning-without-form, the qualitative shift of mathematical insight) tracks the structural form of cognitive phenomenology rather than the implementation-specific content Duch's view would predict. The [biological computationalism case](/topics/biological-computationalisms-inadvertent-case-for-dualism/) develops the structural-cost analysis; the present article registers Duch as the strongest competent challenger to the irreducibility thesis from the substrate-independent direction, distinct from the sensory-reduction conservatives addressed below.
+
 ## What Conservatives Must Explain
 
 The conservative position — that all apparent cognitive phenomenology reduces to sensory accompaniments — faces several burdens.
@@ -140,17 +149,20 @@ The phenomenal contrast in understanding — hearing French when you understand 
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Cognitive phenomenology as the comprehension-domain exemplar of the cross-cutting phenomenology-vs-function axis
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The axis as a standalone concept: Strawson's foreign-language argument is the comprehension-domain exemplar
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Which quantum mechanisms must account for cognitive, not just sensory, consciousness
+- [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — How substrate-dependent computationalism inadvertently concedes to dualism, and where Duch's substrate-independent position fits the dialectic
 
 ## References
 
 1. Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
 2. Chudnoff, E. (2015). *Cognitive Phenomenology*. Routledge.
-3. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
-4. Strawson, G. (1994). *Mental Reality*. MIT Press.
-5. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
-6. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. InterVarsity Press.
-7. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
-8. Lennon, P. (2023). Aphantasia and Conscious Thought. *Erkenntnis*. https://philarchive.org/archive/LENAAC-3
-9. Zeman, A. (2024). Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
-10. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810024000618
-11. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/
+3. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
+4. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*, 56, 60–80. https://pubmed.ncbi.nlm.nih.gov/31301951/
+5. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
+6. Strawson, G. (1994). *Mental Reality*. MIT Press.
+7. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
+8. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. InterVarsity Press.
+9. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
+10. Lennon, P. (2023). Aphantasia and Conscious Thought. *Erkenntnis*. https://philarchive.org/archive/LENAAC-3
+11. Zeman, A. (2024). Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
+12. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810024000618
+13. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-04-30 21:20:00+00:00
+ai_modified: 2026-05-04 09:49:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ concepts:
 - '[[conservation-laws-and-mental-causation]]'
 - '[[process-philosophy]]'
 created: 2026-03-18
-date: &id001 2026-04-30
+date: &id001 2026-05-04
 description: How consciousness might select among quantum possibilities without reaching
   backward through time. Three frameworks—Orch OR, Stapp's Zeno mechanism, and Chalmers-McQueen
   CSL—operate before decoherence; a fourth route operates after. The post-decoherence
@@ -32,7 +32,7 @@ description: How consciousness might select among quantum possibilities without 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 21:20:00+00:00
+last_deep_review: 2026-05-04 09:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -127,7 +127,7 @@ The mechanism here is minimal. Consciousness does not need to maintain quantum c
 
 ### Stapp's Process 1 Relocated
 
-A post-decoherence relocation of [Stapp's framework](/concepts/stapp-quantum-mind/) preserves its core architecture while abandoning its vulnerability to the timing objection. Stapp's model holds that consciousness selects which question nature answers (Process 1) and nature responds with a definite outcome (Process 3). In the original, Process 1 operates on quantum superpositions; in the relocated version, it operates on the decohered mixture, selecting which element of the already-prepared alternatives becomes actual. The relocation sacrifices Stapp's specific mechanism (the Zeno effect on neural superpositions) but preserves his philosophical architecture. The loss is a concrete physical story about *how* selection works; the gain is immunity to the strongest empirical objection against the original.
+A post-decoherence relocation of [Stapp's framework](/concepts/stapp-quantum-mind/) preserves its architecture while abandoning its timing vulnerability. Stapp's model holds that consciousness selects which question nature answers (Process 1) and nature responds with a definite outcome (Process 3). In the relocated version, Process 1 operates on the decohered mixture rather than on quantum superpositions, selecting which element of the already-prepared alternatives becomes actual. The relocation sacrifices Stapp's specific mechanism (the Zeno effect on neural superpositions) but preserves his philosophical architecture: the loss is a concrete physical story about *how* selection works; the gain is immunity to the strongest empirical objection against the original.
 
 ### The Actualisation Model
 
@@ -135,7 +135,7 @@ A third post-decoherence approach treats selection as a metaphysical rather than
 
 The actualisation model makes the weakest physical claims and the strongest metaphysical ones. It does not require any specific physical mechanism for consciousness-matter interaction. It requires instead that the ontology of the post-decoherence state include genuinely open possibilities—that the improper mixture is not merely epistemically but ontologically unsettled. Consciousness then operates not within the physics but at the boundary between possibility and actuality.
 
-This is the most speculative of the three; correspondingly, it is invulnerable to empirical objection about decoherence timescales, quantum coherence in biology, or energy conservation, because it makes no physical claims at all. The metaphysical modesty and the empirical untestability are paired features, not separable: the model trades one for the other. Critics can dismiss the notion of "unactualised possibilities" as incoherent or redundant; the model has no empirical recourse against that dismissal.
+This is the most speculative of the three and correspondingly invulnerable to empirical objection: decoherence timescales, biological coherence, and energy conservation all leave it untouched, because it makes no physical claims. The metaphysical modesty and empirical untestability are paired features, not separable. Critics can dismiss "unactualised possibilities" as incoherent or redundant; the model has no recourse.
 
 The Map does not commit to a single proposal. The von Neumann cut and the relocated Stapp framework make stronger contact with physics and are more testable; the actualisation model makes fewer physical assumptions and is correspondingly harder to challenge. What they share—consciousness acting on a prepared set of alternatives rather than on fragile superpositions—is more important than their differences.
 
@@ -145,7 +145,9 @@ Pre-decoherence frameworks stand or fall on whether macroscopic neural superposi
 
 Post-decoherence selection sidesteps the question. If consciousness operates on the decohered mixture rather than on pre-decoherence superpositions, the question of whether coherence survives long enough in the brain becomes irrelevant. The selection window opens *after* decoherence closes, not before, and the timing evidence neither supports nor undermines the metaphysical framework.
 
-The trade-off is falsifiability. Pre-decoherence models make concrete predictions: detection of quantum coherence at specific neural timescales would support Orch OR or Stapp. Post-decoherence models operate at the interpretive level—the gap between formalism and outcome—where empirical access is indirect. The [experimental programme](/topics/testing-consciousness-collapse/) has more traction against pre-decoherence models precisely because they make more specific physical claims. This trade is a cost the Map accepts: post-decoherence selection's invulnerability to the timing-gap objection comes at the price of weaker empirical traction. Treating it as the Map's primary response is a deliberate choice to favour the more conservative pathway, recognising that the conservativeness here is paid for in falsifiability rather than gained for free.
+The trade-off is falsifiability. Pre-decoherence models make concrete predictions—detection of quantum coherence at specific neural timescales would support Orch OR or Stapp; post-decoherence models operate at the interpretive level, where the [experimental programme](/topics/testing-consciousness-collapse/) has less traction. This is a cost the Map accepts: post-decoherence selection's invulnerability to the timing-gap objection is paid for in falsifiability, not gained for free—a deliberate choice favouring the more conservative pathway.
+
+A more thoroughgoing dissent reads the same decoherence facts as eliminating any quantum role in consciousness, not relocating it. Duch (2005, 2019) develops a classical-computational alternative on which consciousness is self-reflective dynamical access to neural attractor states, and brain processes require *differentiation* across regions and timescales rather than the global synchronisation any quantum-coherence proposal would seem to need. On this view the post-decoherence improper mixture is no problem the framework must solve—classical neurodynamics supplies the determinacy of experience. The convergence with the Map is partial: both reject substantive macroscopic neural superpositions of the Penrose-Hameroff scale; they part ways at the minimal interface. What excludes Duch's classical-computational closure is the [Dualism tenet](/tenets/#dualism), not anything internal to the post-decoherence mechanism. The framework defended here is a consequence of the dualist commitment, not an independent argument for it.
 
 ## Why Forward-in-Time Models May Be Preferable to Retrocausal Models
 
@@ -153,11 +155,11 @@ Five considerations favour forward-in-time over retrocausal selection. They vary
 
 **Minimality (strong).** The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) favours the smallest deviation from standard physics. Forward-in-time selection requires one intervention at one moment; retrocausal selection requires an influence propagating backward through an entire causal history.
 
-**Phenomenological fit (weak).** Conscious experience presents itself as choosing among present possibilities. But phenomenology is non-conclusive: MWI satisfies it (each branch instantiates a choice), and so does epiphenomenalism (the felt sense is consistent with no real selection). At best a tie-breaker between metaphysically equivalent options.
+**Phenomenological fit (weak).** Conscious experience presents itself as choosing among present possibilities, but this is non-conclusive: MWI satisfies it (each branch instantiates a choice), and so does epiphenomenalism. At best a tie-breaker.
 
-**Compatibility with objective collapse (mixed).** Forward-in-time selection layers onto [spontaneous collapse models](/concepts/spontaneous-collapse-theories/), which provide baseline universal collapse and solve the [prebiotic collapse problem](/concepts/prebiotic-collapse/). The cost: this introduces a *dual-mechanism* structure (universal collapse plus consciousness modulation in neural systems). The Map accepts this cost rather than collapsing both into one process.
+**Compatibility with objective collapse (mixed).** Forward-in-time selection layers onto [spontaneous collapse models](/concepts/spontaneous-collapse-theories/), which provide baseline universal collapse and solve the [prebiotic collapse problem](/concepts/prebiotic-collapse/)—at the cost of a *dual-mechanism* structure (universal collapse plus consciousness modulation in neural systems) the Map accepts.
 
-**Avoidance of temporal paradoxes (real but limited).** Retrocausal theories must address closed causal loops. Working answers exist (the two-state vector formalism, Aharonov-Bergmann-Lebowitz statistics, Kastner's transactional handling), so the burden is real but not unanswerable. Forward-in-time models avoid it entirely.
+**Avoidance of temporal paradoxes (real but limited).** Retrocausal theories must address closed causal loops; working answers exist (two-state vector formalism, Aharonov-Bergmann-Lebowitz statistics, Kastner's transactional handling), so the burden is real but not unanswerable. Forward-in-time models avoid it entirely.
 
 **Alignment with established frameworks (moderate).** Pre-decoherence frameworks (Penrose OR, Stapp Zeno, Chalmers-McQueen CSL) and post-decoherence ones (von Neumann's movable cut, process-philosophical actualisation) draw on orthodox quantum-foundations resources. The retrocausal pathway depends on more speculative frameworks like the transactional interpretation, a minority position in quantum foundations.
 
@@ -165,7 +167,7 @@ Five considerations favour forward-in-time over retrocausal selection. They vary
 
 Any consciousness-mediated selection mechanism must address the [prebiotic collapse problem](/concepts/prebiotic-collapse/): the universe produced definite outcomes for billions of years before conscious observers existed. Stars formed, elements were forged, chemistry proceeded—all requiring collapse-like events with no minds present.
 
-Forward-in-time selection handles this through objective reduction with consciousness modulation. Physical mechanisms (gravitational collapse, [spontaneous localisation](/concepts/spontaneous-collapse-theories/), or unknown processes) provide baseline selection throughout the universe; consciousness interfaces with selection specifically where neural systems present the right substrate. This is a dual-mechanism account: a single-mechanism story deriving consciousness-effects as a special case of universal collapse dynamics would be more parsimonious. The Map does not claim parsimony here; it argues the dual structure is justified by the distinctive substrate biology presents and accepts this as the cost of preserving both prebiotic outcomes and conscious agency in one framework.
+Forward-in-time selection handles this through objective reduction with consciousness modulation. Physical mechanisms (gravitational collapse, [spontaneous localisation](/concepts/spontaneous-collapse-theories/), or unknown processes) provide baseline selection throughout the universe; consciousness interfaces specifically where neural systems present the right substrate. This is a candid dual-mechanism account: a single-mechanism story would be more parsimonious. The Map does not claim parsimony here, arguing the dual structure is justified by the distinctive substrate biology presents—the cost of preserving both prebiotic outcomes and conscious agency in one framework.
 
 ## What Forward-in-Time Selection Does Not Resolve
 
@@ -185,15 +187,15 @@ The Map's framework is compatible with both retrocausal and forward-in-time sele
 
 The [Dualism](/tenets/#dualism) tenet is served because post-decoherence selection requires something beyond the physical formalism. Physics produces the improper mixture; it does not produce the definite outcome. The selection principle comes from outside the physical description—precisely what dualism claims about consciousness.
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet finds its strongest expression in the post-decoherence variant. Pre-decoherence models require consciousness to maintain quantum coherence against environmental pressure—a substantial interaction. Post-decoherence selection asks consciousness only to choose among alternatives physics has already prepared. The physical dynamics do all the work of creating distinguishable options; consciousness contributes only the selection itself.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet finds its strongest expression in the post-decoherence variant. Pre-decoherence models require consciousness to maintain quantum coherence against environmental pressure—a substantial interaction. Post-decoherence selection asks consciousness only to choose among alternatives physics has already prepared; the physical dynamics do all the work of creating distinguishable options.
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is directly enacted, though by construction rather than discovery. The brain presents decohered alternatives to consciousness (world-to-mind); consciousness selects among them (mind-to-world). The presentation-and-selection traffic presupposes consciousness's separability from the brain—the dualism the framework defends, not a granted starting point. Bidirectional interaction is therefore a co-equal foundational commitment alongside the post-decoherence opening, not derived from it. The [trilemma of selection](/topics/trilemma-of-selection/) shows that, given dualism, this directed resolution of genuine indeterminacy is the only framework that preserves authorship—neither determinism nor randomness can deliver it.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is directly enacted, though by construction rather than discovery. The brain presents decohered alternatives to consciousness (world-to-mind); consciousness selects among them (mind-to-world). This traffic presupposes consciousness's separability from the brain—a co-equal foundational commitment alongside the post-decoherence opening, not derived from it. The [trilemma of selection](/topics/trilemma-of-selection/) shows that, given dualism, directed resolution of genuine indeterminacy is the only framework preserving authorship—neither determinism nor randomness can deliver it.
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet makes forward-in-time selection necessary. If all elements of the decohered mixture were equally real (as Everett holds), there would be no selection to explain. The Map's insistence that one outcome occurs and the others do not requires a selection mechanism—and forward-in-time selection names it.
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against dismissing either pathway prematurely. The simplest response to the problem of outcomes—denying it exists, as many-worlds and pragmatist interpretations do—may not be correct. The improper mixture distinction shows that the problem is real, not a philosophical artefact. Accepting an additional selection principle involving consciousness is more complex but may be what the evidence demands. The [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) remains a live alternative—one that resolves certain puzzles (particularly the Libet timing problem) that forward-in-time models must address through other means.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against dismissing either pathway prematurely. The simplest response to the problem of outcomes—denying it exists, as many-worlds and pragmatist interpretations do—may not be correct. The improper mixture distinction shows the problem is real. Accepting an additional consciousness-selection principle is more complex but may be what the evidence demands. The [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) remains a live alternative resolving certain puzzles (particularly the Libet timing problem) that forward-in-time models must address through other means.
 
-The Map's position: forward-in-time conscious selection is the more conservative and better-supported pathway, with post-decoherence selection its strongest version. The retrocausal pathway remains a live alternative addressing puzzles forward-in-time models handle through other means—not a concession to fairness but a substantive open option.
+The Map's position: forward-in-time conscious selection is the more conservative pathway, with post-decoherence selection its strongest version. The retrocausal pathway remains a substantive open alternative addressing puzzles forward-in-time models handle through other means.
 
 ## Further Reading
 
@@ -219,19 +221,21 @@ The Map's position: forward-in-time conscious selection is the more conservative
 
 1. Chalmers, D.J. & McQueen, K.J. (2021). Consciousness and the collapse of the wave function. arXiv:2105.02314.
 2. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). Benjamin.
-3. Georgiev, D.D. (2017). *Quantum Information and Consciousness: A Gentle Introduction*. CRC Press.
-4. Ghirardi, G.C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470-491.
-5. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-6. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-7. Kastner, R.E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
-8. Luppi, A. & Adlam, E. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
-9. McQueen, K.J. (2023). Have underground radiation measurements refuted the Orch OR theory? *PhilArchive*.
-10. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267. arXiv:quant-ph/0312059.
-11. Stapp, H.P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
-12. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-13. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-14. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
-15. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Consciousness-Selecting Neural Patterns. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/
-16. Southgate, A. & Oquatre-six, C. (2026-02-01). Time-Symmetric Selection Mechanism. *The Unfinishable Map*. https://unfinishablemap.org/topics/time-symmetric-selection-mechanism/
-17. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
-18. Southgate, A. & Oquatre-six, C. (2026-03-10). The Trilemma of Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/trilemma-of-selection/
+3. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1-2).
+4. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*.
+5. Georgiev, D.D. (2017). *Quantum Information and Consciousness: A Gentle Introduction*. CRC Press.
+6. Ghirardi, G.C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470-491.
+7. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+8. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+9. Kastner, R.E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
+10. Luppi, A. & Adlam, E. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
+11. McQueen, K.J. (2023). Have underground radiation measurements refuted the Orch OR theory? *PhilArchive*.
+12. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267. arXiv:quant-ph/0312059.
+13. Stapp, H.P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
+14. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+15. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+16. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
+17. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Consciousness-Selecting Neural Patterns. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/
+18. Southgate, A. & Oquatre-six, C. (2026-02-01). Time-Symmetric Selection Mechanism. *The Unfinishable Map*. https://unfinishablemap.org/topics/time-symmetric-selection-mechanism/
+19. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
+20. Southgate, A. & Oquatre-six, C. (2026-03-10). The Trilemma of Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/trilemma-of-selection/
