@@ -53,9 +53,13 @@ Identify ONE pattern that fits *at least one* of these shapes:
 
 Compose a hypothesis-style prompt matching the 2026-05-03 review's shape. Template:
 
-> Take a look at https://unfinishablemap.org. [State the observation in one sentence — what the site appears to be doing.] [Why this is suspicious in one sentence.] What is causing it to say that? Can you see a systemic error, or is that conclusion genuinely what the facts support, given that the tenets are taken as inviolate. Broaden your research outside of the site as necessary.
+> Examine the site https://unfinishablemap.org and its activity changelog https://unfinishablemap.org/workflow/changelog/. [State the observation in one sentence — what the site appears to be doing.] [Why this is suspicious in one sentence.] What is causing it to say that? Can you see a systemic error, or is that conclusion genuinely what the facts support, given that the tenets are taken as inviolate? Broaden your research outside of the site as necessary. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
 
-Keep the prompt under ~120 words. Save the full prompt text and a short summary (≤80 chars) for the pending-reviews record.
+Keep the prompt under ~150 words. Save the full prompt text and a short summary (≤80 chars) for the pending-reviews record.
+
+The explicit changelog reference matters — without it, external reviewers may search via Google indexing alone and miss content from the past 24-48 hours (the same-day index lag that caused the 2026-05-04 Claude review's empirical claim to fail verification). The changelog URL gives the reviewer a chronological view of recent activity that the search index may not yet reflect.
+
+The "list of concrete potential improvements" closer makes task generation cleaner — it asks the reviewer to translate diagnosis into actionable suggestions rather than leaving the synthesis to outer-review processing.
 
 If no clear pattern emerges, rotate through these meta-prompts (track via `state.last_runs["outer-review-meta-prompt-<slug>"]` to avoid repeats):
 - **tenet-coherence**: "Audit the five tenets for internal coherence. Are there latent contradictions when combined with claims load-bearing in recent articles?"
