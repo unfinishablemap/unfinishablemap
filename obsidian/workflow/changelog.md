@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 17:24:00+00:00
+ai_modified: 2026-05-04 18:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-04 18:24 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]]
+- **Word count**: 3503 → 3491 (-12, length-neutral mode at 116% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (duplicate `[[binding-problem]]` in concepts frontmatter; duplicate `[[binding-problem]]` in Further Reading)
+- **Enhancements made**: 2 (frontmatter cleanup; Further Reading cleanup)
+- **Reasoning-mode classification** (per [[direct-refutation-discipline]]):
+  - Tegmark / decoherence: **direct-refutation-feasible** (engaged via corrected Hagan/Hameroff/Tuszynski calculation)
+  - IIT / sufficiency claim: **unsupported-jump** (engaged — "definitional solutions do not explain; they relabel")
+  - Classical-binding / functionalist family: **mixed-with-distinct-roles** (Leibniz mill structural argument plus tenet-perimeter for residue)
+  - Illusionists (Dennett, Frankish): **mixed-with-distinct-roles** (three direct refutations plus acknowledged residue)
+  - MWI defenders: **bedrock-perimeter** (correctly placed in Relation to Site Perspective)
+  - No perimeter-substitutions detected
+- **Stability**: Third successive deep review with no critical issues; article is at convergence
+- **Output**: [[reviews/deep-review-2026-05-04-quantum-holism-and-phenomenal-unity]]
 
 ## 2026-05-04 17:24 UTC - refine-draft
 - **Status**: Success
