@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 14:24:00+00:00
+ai_modified: 2026-05-04 16:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-04 16:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-in-simple-organisms]]
+- **Source**: outer review by ChatGPT 5 Pro 2026-05-03 — `[[reviews/outer-review-2026-05-03-chatgpt-5-5-pro]]`
+- **Issue addressed**: Possibility/probability slippage. The article presented tenet-derived consequences (no anthropocentric barrier; no principled threshold; UAL-as-interface-tool) in proximity to negative empirical evidence about *C. elegans*, Hydra, and slime molds, in a way that let the metaphysical framing absorb the negative findings rather than be constrained by them.
+- **Changes**:
+  - Added new H2 section "Evidential Register: Tenet vs. Evidence" between New York Declaration and Three Model Organisms. Distinguishes tenet-register (defeater-removal) from evidence-register (positive support). Names the slippage risk explicitly so future refinements have a marker to defend against. Introduces the five-tier scale (established → strongly supported → realistic possibility → live hypothesis → speculative integration).
+  - Added "Evidential status" labels at the end of each model-organism subsection: *C. elegans* "live hypothesis / speculative integration; not established as conscious"; Hydra "speculative integration"; slime molds "speculative integration / cognition without consciousness".
+  - Added "Evidential Status" column to the Baseline Cognition Framework calibration table.
+  - Added a paragraph after the UAL-as-interface-tool paragraph preventing the interface reading from absorbing the negative empirical signal of UAL failure: failing UAL remains evidentially meaningful even on the interface reading.
+  - Preserved the dualist framing (tenet-load is correct; not the bug).
+  - Reciprocal verification: confirmed `topics/animal-consciousness.md` and `topics/ethics-of-consciousness-invertebrate-question.md` do not rely on stronger framing than the refined article supports — they hedge appropriately or use simple-organism material as critique-of-illusionism rather than positive consciousness attribution. No reciprocal edits required.
+- **Tenet alignment**: Tenet 1 (Dualism) preserved + epistemic discipline. Implements the reviewer's clean correction: "a tenet may remove a defeater, but it must not upgrade the evidence level."
+- **Published**: yes (draft: false; changes applied directly)
 
 ## 2026-05-04 15:24 UTC - expand-topic
 - **Status**: Success
