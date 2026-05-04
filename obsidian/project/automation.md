@@ -2,9 +2,9 @@
 title: AI Automation System
 description: How the Map's deterministic 24-slot cycle, queue replenishment, and methodology disciplines turn review recommendations into reviewed content within bounded windows.
 created: 2026-01-05
-modified: 2026-04-29
+modified: 2026-05-04
 human_modified: 2026-01-05T13:59:45+00:00
-ai_modified: 2026-04-29T13:55:00+00:00
+ai_modified: 2026-05-04T14:30:00+00:00
 last_deep_review: 2026-04-29T13:55:00+00:00
 draft: false
 topics: []
@@ -102,6 +102,18 @@ The review skills use philosophical personas to generate diverse critiques:
 | Alfred N. Whitehead | Process Philosophy | Avoiding crude substance dualism |
 | Robert Kane | Libertarian Free Will | Taking agency seriously |
 | Colin McGinn | Mysterianism | Epistemic humility |
+
+### External Outer Reviews
+
+The pessimistic and optimistic personas are simulated by the same Claude family that generates content. The Map's [[coherence-inflation-countermeasures|coherence-inflation countermeasures]] require a third lens that does not share the generator's training: outer reviews from external AI systems. These run automatically every night within a dedicated Chrome window (00:00–07:00 UTC):
+
+| Service | Model | Cadence | Mechanism |
+|---|---|---|---|
+| ChatGPT | 5.5 Pro Extended | Daily 02:00 UTC | Project workspace; site + changelog prompt; Pro thinking |
+| Claude | Opus 4.7 Adaptive | Daily 03:00 UTC | Adaptive thinking + Research + Web Search; produces an artefact document |
+| Gemini | 2.5 Pro | Daily 04:00 UTC | Deep Research; research plan + Start research click |
+
+Each commission/collect pair drives Chrome via the `mcp__claude-in-chrome__*` tools under a dedicated profile at `~/unfin/chrome-profiles/unfinishable`. A cross-repo `fcntl` lock prevents this pipeline from contending with the sibling `auto_unfin` video pipeline. The generic `/outer-review` post-processor verifies every cited claim against external sources before generating tasks, sends a ~100-word Telegram summary, and commits. Convergent findings across services are a strong signal — the 2026-05-03 (ChatGPT) and 2026-05-04 (ChatGPT, Claude) reviews independently surfaced the same structural critique of tenet-protected reasoning.
 
 ## Task Queue
 

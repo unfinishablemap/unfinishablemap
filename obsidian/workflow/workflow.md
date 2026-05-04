@@ -1,9 +1,9 @@
 ---
 title: Workflow System
 created: 2026-01-05
-modified: 2026-01-28
+modified: 2026-05-04
 human_modified: 2026-01-05
-ai_modified: 2026-01-28T12:00:00+00:00
+ai_modified: 2026-05-04T14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -14,7 +14,7 @@ related_articles:
   - "[[highlights]]"
 ai_contribution: 100
 author: Andy Southgate
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-05
 last_curated:
 ---
@@ -34,7 +34,7 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 
 ### Orchestration
 
-The evolution loop (`scripts/evolve_loop.py`) is the main orchestrator. It runs a deterministic 24-slot task cycle with time-triggered events like daily highlights at 8am UTC.
+The evolution loop (`scripts/evolve_loop.py`) is the main orchestrator. It runs a deterministic 24-slot task cycle interleaved with several time-triggered events: daily highlights at 8am UTC, daily outer-review commissions at 02–04 UTC across three external services, and continuous agentic-social posting on a 45-minute interval.
 
 | Skill | Purpose | Modifies Content? |
 |-------|---------|-------------------|
@@ -49,6 +49,8 @@ The evolution loop (`scripts/evolve_loop.py`) is the main orchestrator. It runs 
 | `/refine-draft [file]` | Improve existing draft content | Yes (edits content) |
 | `/research-topic [topic]` | Web research, outputs notes to [[research]] | Research notes only |
 | `/research-voids` | Daily research on cognitive gaps and unchartable territories | Research notes only |
+| `/apex-evolve` | Build/maintain apex articles — human-readable synthesis pieces | Yes (creates, modifies) |
+| `/embed-videos` | Embed published YouTube videos from sibling auto_unfin repo into matching articles | Yes (obsidian source) |
 
 ### Review & Validation
 
@@ -60,18 +62,40 @@ The evolution loop (`scripts/evolve_loop.py`) is the main orchestrator. It runs 
 | `/pessimistic-review` | Find logical gaps, unsupported claims, counterarguments | No (reports only) |
 | `/optimistic-review` | Find strengths and expansion opportunities | No (reports only) |
 | `/deep-review [file]` | Comprehensive single-document review with improvements | Yes (modifies content) |
+| `/outer-review [file]` | Process an external AI review file, normalise links, verify claims, generate tasks, send Telegram summary | Yes (modifies review file, creates tasks) |
+
+### Outer-Review Automation (Chrome-driven)
+
+The Map commissions outer reviews from three external AI systems automatically every night within a dedicated Chrome window (00:00–07:00 UTC, with 07:00–08:00 as a buffer for in-flight tasks). Each service has a paired commission/collect skill; both feed the generic `/outer-review` post-processor.
+
+| Skill | Purpose | Modifies Content? |
+|-------|---------|-------------------|
+| `/commission-chatgpt-review` | 02:00 UTC daily. Drives Chrome to ChatGPT 5.5 Pro Extended in the Map's project workspace; submits prompt; records pending entry. | Yes (pending-reviews.yaml) |
+| `/collect-chatgpt-review` | Per-iteration when a pending ChatGPT entry is ≥90 min old. Extracts response, writes review file, invokes `/outer-review`. | Yes (creates review file) |
+| `/commission-claude-review` | 03:00 UTC daily. Claude Opus 4.7 Adaptive + Research + Web Search; navigates the optional clarifying-questions stage with "go". | Yes (pending-reviews.yaml) |
+| `/collect-claude-review` | Per-iteration when a pending Claude entry is ≥60 min old. Opens the artifact panel; extracts the body via DOM walker. | Yes (creates review file) |
+| `/commission-gemini-review` | 04:00 UTC daily. Gemini 2.5 Pro with Deep Research; clicks the mandatory "Start research" button on the research-plan stage. | Yes (pending-reviews.yaml) |
+| `/collect-gemini-review` | Per-iteration when a pending Gemini entry is ≥20 min old. Extracts the report from `.markdown.markdown-main-panel`. | Yes (creates review file) |
+
+Lifecycle: each task launches a fresh Chrome under `~/unfin/chrome-profiles/unfinishable`, runs to completion, and stops Chrome (Chrome with the Claude Code extension degrades over long sessions, so per-task lifecycle is the cure). A cross-repo `fcntl` lock at `~/unfin/chrome-profiles/.automation.lock` prevents this repo and the sibling auto_unfin video pipeline from driving Chrome simultaneously. The lock is auto-released on holder exit (kernel guarantee), so there is no stale-lock recovery problem; `python -m tools.chrome_session [--status | --force-cleanup]` exposes status and a wedged-Chrome cleanup path.
+
+The post-processor (`/outer-review`) is service-agnostic: it normalises links, fetches and verifies external citations, generates tasks in `[[todo]]`, logs to `[[changelog]]`, sends a ~100-word Telegram summary with a link to the published report, and commits.
 
 ### Content Maintenance
 
 | Skill | Purpose | Modifies Content? |
 |-------|---------|-------------------|
 | `/coalesce` | Merge overlapping articles into unified pieces, archiving originals | Yes (creates, archives) |
+| `/condense [file]` | Reduce article length while preserving value | Yes (modifies content) |
+| `/archive [file]` | Archive an article while preserving its URL for external links | Yes (moves to archive) |
 
 ### Publishing
 
 | Skill | Purpose | Modifies Content? |
 |-------|---------|-------------------|
-| `/add-highlight [topic]` | Add item to [[highlights\|What's New]] page (max 1/day). Supports backlog: can highlight any content not featured in last 90 days | Yes (highlights.md) |
+| `/add-highlight [topic]` | Add item to [[highlights\|What's New]] page (max 1/day). Supports backlog: can highlight any content not featured in last 90 days. With `--tweet`, also runs the full add → commit → push → wait-for-deploy → tweet pipeline. | Yes (highlights.md, optionally Twitter) |
+| `/agentic-social` | Post site content to an AI-agent social network on a ~45-minute cadence. | No (external only) |
+| `/compose-paper` | Compose an academic preprint for SSRN and PhilArchive. Drafts in markdown, then writes to Google Docs via Chrome for final formatting and PDF export. | Yes (creates paper drafts) |
 
 ### Internal (Automation Only)
 
