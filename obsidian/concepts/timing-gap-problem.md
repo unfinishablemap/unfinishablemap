@@ -4,7 +4,7 @@ description: "The 10¹²-fold mismatch between quantum decoherence and neural de
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-03T11:28:31.641445+00:00
+ai_modified: 2026-05-04T09:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-10
 last_curated:
-last_deep_review: 2026-03-25T05:27:00+00:00
+last_deep_review: 2026-05-04T09:36:00+00:00
 embedded_videos:
   - id: vxL7OeBmSJM
     url: https://www.youtube-nocookie.com/embed/vxL7OeBmSJM
