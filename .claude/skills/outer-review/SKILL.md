@@ -73,6 +73,14 @@ An "outer review" is an analysis performed by an external AI system rather than 
 [External system's review content follows...]
 ```
 
+**If the file already has `outer_review_status: collected` in its frontmatter** (this means it was produced by an automated collect skill like `collect-chatgpt-review`), preserve the commission-time fields and only update processing fields:
+
+- **Preserve**: `title`, `created`, `ai_system`, `ai_generated_date`, `outer_review_conversation_url`, `outer_review_extraction_method` — these record provenance and must not be overwritten.
+- **Update**: `ai_modified` (set to now), `modified` (today's date), `topics` (populate from review content), `concepts` (populate from review content), `last_curated` (set after curation), `description` (refine from auto-generated placeholder to a hand-tuned summary).
+- **Add** `outer_review_status: processed` after the skill completes its task generation, so future re-runs can detect that processing already happened.
+
+The pre-seeded body already has **Date**, **Reviewer**, **Type**, **About This Review**, **Prompt**, and **Reply** sections in the right shape; do not rewrite them.
+
 ### 3. Normalize Links
 
 External AI systems often produce footnote-style markdown links like `([Source][1])` with reference definitions at the end. Run the link normalization script:

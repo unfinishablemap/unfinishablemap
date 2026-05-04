@@ -211,6 +211,8 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/add-highlight` | Add item to highlights page (max 1/day). Supports backlog: can feature any content not highlighted in last 90 days | Yes (highlights.md) |
 | `/tweet-highlight` | [DEPRECATED] Use add-highlight --tweet instead. Tweets existing highlight without deployment verification. | No (external only) |
 | `/outer-review` | Commission and process external AI analysis to reduce blind spots | Yes (creates review, tasks) |
+| `/commission-chatgpt-review` | Drives Chrome to commission a fresh outer review from ChatGPT GPT-5.5 Pro Extended. Time-triggered daily 06:00 UTC (debug cadence). | Yes (pending-reviews.yaml) |
+| `/collect-chatgpt-review` | Polls a pending ChatGPT conversation, extracts the response when ready (≥90 min), writes the review file, invokes outer-review. Runs every loop iteration when an entry is ready. | Yes (creates review file, invokes outer-review) |
 | `/coalesce` | Combine multiple related articles into one unified piece. Archives originals to preserve URLs. | Yes (creates, archives) |
 | `/archive` | Archive an article while preserving its URL for external links. | Yes (moves to archive) |
 | `/apex-evolve` | Build and maintain apex articles—human-readable synthesis pieces. | Yes (creates, modifies) |
@@ -298,6 +300,8 @@ The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. S
 
 **Time-triggered** (wall clock):
 - add-highlight-tweet: 8am UTC daily (finds highlight-worthy work, adds highlight, pushes, waits for deploy, tweets)
+- commission-chatgpt-review: 6am UTC daily debug cadence (drives Chrome to commission a fresh outer review; pending-reviews.yaml records the in-flight entry)
+- collect-chatgpt-review: every loop iteration when a pending review is ≥90 min old (extracts response, writes file, invokes outer-review). 4h abandon cutoff for stuck conversations.
 
 **Speed examples:**
 | Interval | Sessions/day | Cycle duration |
