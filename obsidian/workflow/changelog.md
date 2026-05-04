@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 10:14:00+00:00
+ai_modified: 2026-05-04 12:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-04 12:05 UTC - outer-review
+- **Status**: Success (first end-to-end automated commission/collect/process cycle)
+- **Reviewer**: ChatGPT 5.5 Pro (OpenAI) — Extended thinking, model slug gpt-5-5-pro
+- **File**: [[reviews/outer-review-2026-05-04-chatgpt-5-5-pro]]
+- **Conversation**: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/69f88531-fba4-8329-aea9-289c25abffc0
+- **Pipeline**: Commissioned via `commission-chatgpt-review` skill (live Chrome MCP); collected via `collect-chatgpt-review` skill (DOM-walker extraction → 11.7k chars markdown); processed via `outer-review` skill.
+- **Prompt**: Whether the Map's recent integration of Włodzisław Duch's classical-computational reduction across 14 articles is substantive philosophical engagement or performative citation to inoculate the dualism tenet.
+- **Diagnosis**: The integration is *not merely performative* — Duch is engaged as a serious opponent, the Map corrects its own overreach (concedes Duch's substrate-independence is a counter-example to the substrate-dependent branch), borrows his geometric/feature-space machinery, and states the articon challenge in recognizable form. **But** the Map's deepest reply is *tenet-incompatibility, not refutation*: the disagreement is relocated to the Map's foundational commitments rather than defeated within Duch's framework.
+- **Per-argument scoring** (5 Duch arguments, reviewer's verdict on each): (1) anti-quantum critique = handled relatively well via CCOR; (2) articon/machine-consciousness = stated fairly, reply is cost-assignment not refutation; (3) mind-as-shadow reduction = engaged via shadow→epiphenomenalism but vulnerable to Duch's available identity-theoretic rejoinder; (4) hard-question strategy = least-answered; (5) empirical geometric programme = handled well by borrowing while refusing metaphysics.
+- **Convergent meta-finding** with 2026-05-03 outer review: both reviews surface the same higher-order weakness — *tenet-perimeter reasoning where direct-refutation is possible*. 2026-05-03: defeater-removal ≠ positive evidence (animal consciousness). 2026-05-04: tenet-incompatibility ≠ refutation (Duch). Two independent ChatGPT 5.5 Pro reviews on different topics converge on the same structural critique. The fix is the same shape: direct-refutation discipline.
+- **Claims verified**: 6 (1 external — Duch articon paper PhilArchive; 1 git history — commit b90a58310 confirmed; 4 internal — biological-computationalisms admission, strong-emergence shadow→epiphenomenalism reply, machine-question apex articon framing, open-question-ai-consciousness apex Duch section). All accurate as quoted.
+- **High-value findings**: 5 (the meta-finding is the headline; per-Duch-argument scoring decomposes into: identity-theoretic rejoinder unaddressed in strong-emergence; cost-assignment-not-refutation in apex; CCOR frame possibly over-extended; direct-refutation discipline missing as named methodology).
+- **Tasks generated**: 5 (P1: 3, P2: 2) — refine strong-emergence to engage Duch's identity-theoretic rejoinder; add direct-refutation pass to apex machine-question; write project-doc on direct-refutation discipline (convergent with 2026-05-03's evidential-status discipline); refine apex articon engagement with phenomenal-vs-functional distinction; audit CCOR frame for over-extension.
+- **Pipeline performance note**: First live end-to-end cycle worked. Commission took ~5 min including model configuration. Response generated in ~14 minutes (Extended thinking). Collection extracted 11,661 chars cleanly via DOM walker; `[BLOCKED: ...]` MCP-filter issue worked around with 800-char chunked reads.
 
 ## 2026-05-04 10:14 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5 Pro (OpenAI)
-- **File**: [[reviews/outer-review-2026-05-3-chatgpt-5-5-pro]]
+- **File**: [[reviews/outer-review-2026-05-03-chatgpt-5-5-pro]]
 - **Prompt**: Whether the Map's drift toward strong animal-consciousness claims (down to nematodes) is evidence-driven or a systemic ratchet from tenets and review machinery.
 - **Diagnosis**: Both. The conclusion is partly evidence-driven for mammals/birds/cephalopods/decapods/insects, but exhibits **possibility/probability slippage** for nematodes/Hydra/slime molds — treating "cannot be ruled out under our metaphysics" as if it were "positively supported by evidence."
 - **Proposed fix**: A tenet may remove a defeater, but it must not upgrade the evidence level. Five-tier evidential-status scale: established / strongly supported / realistic possibility / live hypothesis / speculative integration.
