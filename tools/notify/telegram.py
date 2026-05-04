@@ -261,3 +261,77 @@ class TelegramHandler(logging.Handler):
             print(f"[TelegramHandler] {message}", file=sys.stderr, flush=True)
         except Exception:
             pass
+
+
+def send_message_now(
+    text: str,
+    bot_token: str | None = None,
+    chat_id: str | None = None,
+) -> bool:
+    """Send a one-shot informational message to Telegram, bypassing any digest.
+
+    Used by skills like outer-review that want to surface a short summary to
+    the operator. No-op (returns False) if credentials aren't configured.
+
+    Returns True on successful send.
+    """
+    token = bot_token or os.environ.get(TELEGRAM_BOT_TOKEN_ENV)
+    cid = chat_id or os.environ.get(TELEGRAM_CHAT_ID_ENV)
+    if not token or not cid:
+        return False
+
+    if len(text) > TELEGRAM_MAX_MESSAGE_LENGTH:
+        text = text[: TELEGRAM_MAX_MESSAGE_LENGTH - 20] + "\n... (truncated)"
+
+    url = TELEGRAM_API_URL.format(token=token)
+    try:
+        response = httpx.post(
+            url,
+            json={"chat_id": cid, "text": text, "disable_web_page_preview": True},
+            timeout=10.0,
+        )
+        if response.status_code == 200:
+            return True
+        print(
+            f"[telegram.send_message_now] API {response.status_code}: "
+            f"{response.text[:200]}",
+            file=sys.stderr,
+            flush=True,
+        )
+        return False
+    except Exception as e:
+        print(f"[telegram.send_message_now] {e}", file=sys.stderr, flush=True)
+        return False
+
+
+def _cli_main() -> int:
+    """python -m tools.notify.telegram --text 'message'
+
+    Reads text from --text or stdin if --text is omitted.
+    """
+    import argparse
+
+    ap = argparse.ArgumentParser(
+        description="Send a one-shot informational message to the project's Telegram chat."
+    )
+    ap.add_argument(
+        "--text",
+        help="Message text. If omitted, read from stdin.",
+    )
+    args = ap.parse_args()
+
+    text = args.text if args.text is not None else sys.stdin.read()
+    text = text.strip()
+    if not text:
+        print("No text to send (empty input).", file=sys.stderr)
+        return 2
+
+    ok = send_message_now(text)
+    if not ok:
+        print("Telegram send failed or not configured.", file=sys.stderr)
+        return 1
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(_cli_main())

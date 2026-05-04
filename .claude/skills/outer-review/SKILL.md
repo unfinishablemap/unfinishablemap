@@ -190,7 +190,42 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 - **Tasks generated**: [count with priorities]
 ```
 
-### 8. Commit
+### 8. Send Telegram summary
+
+Send a short ~100-word summary to the project's Telegram chat so the operator sees the review without having to check the repo. Includes a web link to the rendered report — that link may 404 until the next sync+push (this is expected; the link is for after the deploy lands).
+
+URL pattern: `https://unfinishablemap.org/reviews/<filename-without-md>/`
+
+Compose a summary covering:
+- Reviewer display name + date
+- Headline finding (1–2 sentences from the review's verdict / TL;DR)
+- Tasks generated, with priority breakdown
+- Convergent finding flag (1 line) if this review echoes a prior outer review's structural critique
+- The web link
+
+Example shape (~100 words):
+
+```
+🤖 Outer Review: ChatGPT 5.5 Pro · 2026-05-04
+
+Headline: The Map's Duch integration is substantive philosophical engagement
+but tenet-protective — the deepest reply is incompatibility, not refutation.
+
+Tasks generated: 5 (P1: 3, P2: 2)
+Convergent with 2026-05-03 review: tenet-perimeter reasoning surfaces again.
+
+🔗 https://unfinishablemap.org/reviews/outer-review-2026-05-04-chatgpt-5-5-pro/
+```
+
+Send it via:
+
+```bash
+echo "<summary text>" | uv run python -m tools.notify.telegram
+```
+
+Or pass the text via `--text "<summary>"` if you prefer not to pipe. The helper is a no-op if `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` aren't configured — fail-safe, no error.
+
+### 9. Commit
 
 Create a git commit:
 
