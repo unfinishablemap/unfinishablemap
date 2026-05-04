@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-02T08:53:16.708798'
+ai_modified: '2026-05-04T09:18:38.964437'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-02'
+modified: '2026-05-04'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-04: The Frameworks We Cannot See
+
+Every mind operates with finite categories that shape thought before any specific thought occurs—and cannot audit itself from within. A meta-void generating many of the Map's other cognitive limits, where the walls of the prison are made of the same material as the air.
+
+**Type**: insight  
+**Link**: [[conceptual-scheme-void]]
+
+---
+
 ### 2026-05-02: Why Recognition Vanishes When You Watch It
 
 The Recognition Void produces nothing phenomenologically—except when it breaks. Capgras patients see their spouse but feel an impostor; prosopagnosics see a face that means nothing. Recognition is invisible to the consciousness it constitutes.
@@ -194,15 +203,6 @@ Deep review sharpened our article on invertebrate consciousness ethics. Under du
 
 **Type**: insight  
 **Link**: [[ethics-of-consciousness-invertebrate-question]]
-
----
-
-### 2026-04-13: Every Commitment Creates a Blind Spot
-
-Each of the Map's five tenets generates a question it points toward but cannot answer. The shape of what a framework cannot say reveals something about its structure.
-
-**Type**: insight  
-**Link**: [[tenet-generated-voids]]
 
 ---
 
