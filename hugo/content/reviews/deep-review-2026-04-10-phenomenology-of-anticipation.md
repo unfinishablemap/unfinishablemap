@@ -29,8 +29,8 @@ None. No factual errors, misattributions, internal contradictions, or missing re
 ### Medium Issues Found
 
 - **Missing Bergson reference** (M1): Bergson's durée is discussed substantively in the Specious Present section but had no entry in the References section. **Resolution**: Added Bergson (1910) *Time and Free Will* to References.
-- **Missing cross-link to deliberation under uncertainty** (M2): The agency section discusses deliberating about futures but didn't link to the dedicated article on deliberation under uncertainty. **Resolution**: Added cross-link to `[phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)` with contextual sentence.
-- **Missing cross-link to categorical surprise** (M3): The surprise section discussed protentional violation but didn't connect to the concept of categorical surprise, which extends this analysis to framework-level disruptions. **Resolution**: Added cross-link to `[categorical-surprise](/concepts/categorical-surprise/)` with explanatory sentence.
+- **Missing cross-link to deliberation under uncertainty** (M2): The agency section discusses deliberating about futures but didn't link to the dedicated article on deliberation under uncertainty. **Resolution**: Added cross-link to `[[phenomenology-of-deliberation-under-uncertainty]]` with contextual sentence.
+- **Missing cross-link to categorical surprise** (M3): The surprise section discussed protentional violation but didn't connect to the concept of categorical surprise, which extends this analysis to framework-level disruptions. **Resolution**: Added cross-link to `[[categorical-surprise]]` with explanatory sentence.
 
 ### Counterarguments Considered
 
@@ -61,8 +61,8 @@ No new counterarguments identified.
 ### Enhancements Made
 
 - Added Bergson reference to References section (data quality)
-- Added cross-link to `[phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)` in agency section
-- Added cross-link to `[categorical-surprise](/concepts/categorical-surprise/)` in surprise section
+- Added cross-link to `[[phenomenology-of-deliberation-under-uncertainty]]` in agency section
+- Added cross-link to `[[categorical-surprise]]` in surprise section
 - Added three new entries to Further Reading (deliberation under uncertainty, categorical surprise, temporal becoming)
 - Added three entries to frontmatter related_articles
 

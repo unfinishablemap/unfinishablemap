@@ -26,10 +26,10 @@ topics: []
 - None identified
 
 ### Medium Issues Found
-- **Misleading Further Reading cross-link**: `[self-reference paradox](/voids/self-opacity/)` linked to the self-opacity void but displayed as "self-reference paradox" — a separate concept article. These are distinct pages; a reader clicking "self-reference paradox" would land on the wrong article. *Resolution*: Split into two properly labeled entries: `[self-reference-paradox](/concepts/self-reference-paradox/)` and `[self-opacity](/voids/self-opacity/)`, each with appropriate descriptions.
+- **Misleading Further Reading cross-link**: `[[self-opacity|self-reference paradox]]` linked to the self-opacity void but displayed as "self-reference paradox" — a separate concept article. These are distinct pages; a reader clicking "self-reference paradox" would land on the wrong article. *Resolution*: Split into two properly labeled entries: `[[self-reference-paradox]]` and `[[self-opacity]]`, each with appropriate descriptions.
 
 ### Low Issues Found
-- `[zombies](/concepts/functionalism/)` display text doesn't perfectly match link target (zombies discussed within functionalism, no dedicated page). Acceptable since the zombie argument is central to the functionalism article. Not changed.
+- `[[concepts/functionalism|zombies]]` display text doesn't perfectly match link target (zombies discussed within functionalism, no dedicated page). Acceptable since the zombie argument is central to the functionalism article. Not changed.
 
 ### Counterarguments Considered
 - All previously addressed counterarguments remain adequate (HOROR, illusionism, prefrontal prediction, dreaming, contemplative evidence)
@@ -61,7 +61,7 @@ topics: []
 - Assessment section that is fair but decisive
 
 ### Enhancements Made
-- Fixed misleading Further Reading cross-link: split `[self-reference paradox](/voids/self-opacity/)` into two properly labeled entries
+- Fixed misleading Further Reading cross-link: split `[[self-opacity|self-reference paradox]]` into two properly labeled entries
 
 ### Cross-links Verified
 - All 14 wikilink targets confirmed as existing files

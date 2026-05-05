@@ -22,7 +22,7 @@ topics: []
 
 ## Review Context
 
-Cross-review prompted by phenomenal-attention insights. However, the previous review (45 minutes earlier, same day) already performed this exact cross-review—integrating the `[phenomenal-attention](/concepts/attention-as-interface/)` concept link into the article's frontmatter, inline text, and Further Reading. This review confirms stability.
+Cross-review prompted by phenomenal-attention insights. However, the previous review (45 minutes earlier, same day) already performed this exact cross-review—integrating the `[[phenomenal-attention]]` concept link into the article's frontmatter, inline text, and Further Reading. This review confirms stability.
 
 ## Pessimistic Analysis Summary
 

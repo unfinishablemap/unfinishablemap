@@ -80,7 +80,7 @@ topics: []
 ## Remaining Items
 
 - The frontmatter `description` field is approximately 187 characters, slightly over the 150-160 character target. Not flagged as critical because the description is content-accurate and on-topic. Could be trimmed in a future light-touch refinement if a reviewer wishes.
-- The `concepts:` frontmatter lists `[conjunction-coalesce](/apex/conjunction-coalesce/)`, which is actually filed under `apex/` rather than `concepts/`. The wikilink resolves correctly, and using the field as a "related concepts" pointer rather than a path-strict claim appears to match site convention. No change made.
+- The `concepts:` frontmatter lists `[[conjunction-coalesce]]`, which is actually filed under `apex/` rather than `concepts/`. The wikilink resolves correctly, and using the field as a "related concepts" pointer rather than a path-strict claim appears to match site convention. No change made.
 
 ## Stability Notes
 

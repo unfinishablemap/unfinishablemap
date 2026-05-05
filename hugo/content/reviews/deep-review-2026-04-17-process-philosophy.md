@@ -61,14 +61,14 @@ None. The only candidates for minor refinement (e.g., "developed before quantum 
 None this cycle. The article has converged through three prior reviews and requires no substantive changes.
 
 ### Cross-links Verified
-- `[Process haecceitism](/concepts/haecceity/)` — resolves (process-haecceitism was coalesced into haecceity on 2026-04-04; display text remains substantively accurate)
-- `[bergson-and-duration](/topics/bergson-and-duration/)` — exists at topics/
-- `[william-james-consciousness](/topics/william-james-consciousness/)` — exists at topics/
-- `[interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)` — exists at topics/; "five recurring structural types" claim matches target article
-- `[islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/)` — exists at concepts/
-- `[prehension](/concepts/prehension/)`, `[subjective-aim](/concepts/subjective-aim/)`, `[haecceity](/concepts/haecceity/)` — all present
-- `[time-consciousness-growing-block](/apex/time-consciousness-growing-block/)` — exists at apex/
-- `[process-and-consciousness](/apex/process-and-consciousness/)` — exists at apex/
+- `[[haecceity|Process haecceitism]]` — resolves (process-haecceitism was coalesced into haecceity on 2026-04-04; display text remains substantively accurate)
+- `[[bergson-and-duration]]` — exists at topics/
+- `[[william-james-consciousness]]` — exists at topics/
+- `[[interaction-problem-across-traditions]]` — exists at topics/; "five recurring structural types" claim matches target article
+- `[[islamic-sufi-philosophy-of-consciousness]]` — exists at concepts/
+- `[[prehension]]`, `[[subjective-aim]]`, `[[haecceity]]` — all present
+- `[[time-consciousness-growing-block]]` — exists at apex/
+- `[[process-and-consciousness]]` — exists at apex/
 - All Further Reading entries resolve
 
 ## Remaining Items

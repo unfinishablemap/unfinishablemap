@@ -67,11 +67,11 @@ Added inbound links from 7 locations across 6 articles:
    - Added to Further Reading section
 
 3. **meaning-and-consciousness.md**
-   - Changed link from `[phenomenal intentionality thesis](/concepts/intentionality/)` to direct `[phenomenal intentionality thesis](/concepts/intentionality/)`
+   - Changed link from `[[intentionality|phenomenal intentionality thesis]]` to direct `[[phenomenal-intentionality|phenomenal intentionality thesis]]`
    - Added to Further Reading section
 
 4. **symbol-grounding-problem.md**
-   - Changed link from `[phenomenal intentionality thesis](/concepts/intentionality/)` to direct `[phenomenal intentionality thesis](/concepts/intentionality/)`
+   - Changed link from `[[intentionality|phenomenal intentionality thesis]]` to direct `[[phenomenal-intentionality|phenomenal intentionality thesis]]`
    - Added to Further Reading section
 
 5. **ai-consciousness.md**

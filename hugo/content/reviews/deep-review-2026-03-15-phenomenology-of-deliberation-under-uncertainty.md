@@ -24,12 +24,12 @@ topics: []
 
 ### Critical Issues Found
 
-- **Duplicate frontmatter topic**: `[phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)` listed twice in `topics:` array. Removed duplicate.
-- **Duplicate Further Reading entry**: `[phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)` appeared twice with different descriptions ("The felt sense of epistemic weight" and "What it feels like to change your mind"). No separate belief-revision article exists; the epistemic judgment article covers both. Removed duplicate.
+- **Duplicate frontmatter topic**: `[[phenomenology-of-epistemic-judgment]]` listed twice in `topics:` array. Removed duplicate.
+- **Duplicate Further Reading entry**: `[[phenomenology-of-epistemic-judgment]]` appeared twice with different descriptions ("The felt sense of epistemic weight" and "What it feels like to change your mind"). No separate belief-revision article exists; the epistemic judgment article covers both. Removed duplicate.
 
 ### Medium Issues Found
 
-- **Missing inline link to `[epistemic-emotions](/concepts/epistemic-emotions/)`**: The concept was listed in frontmatter but never linked in body text. Added inline link at the counterfactual flooding discussion where "emotional weight" is discussed.
+- **Missing inline link to `[[epistemic-emotions]]`**: The concept was listed in frontmatter but never linked in body text. Added inline link at the counterfactual flooding discussion where "emotional weight" is discussed.
 - **Epiphenomenalist response slightly overstated**: The claim that practitioner testimony "resists this prediction" was too strong — the epiphenomenalist can reinterpret testimony as itself produced by the common cause. Softened to "sits uncomfortably with this prediction, even if the epiphenomenalist can reinterpret such testimony."
 
 ### Counterarguments Considered
@@ -44,7 +44,7 @@ topics: []
 - Three-tier phenomenological taxonomy (risk / ambiguity / deep uncertainty) — structural backbone
 - "Deliberative vertigo" as named phenomenal state
 - Metacognitive monitoring objection section — strong, well-structured engagement with computational alternative
-- Process-philosophical grounding via `[subjective-aim](/concepts/subjective-aim/)`
+- Process-philosophical grounding via `[[subjective-aim]]`
 - Self-forming dimension connecting uncertainty to identity constitution
 - All five tenet connections remain substantive and specific
 - Attribution accuracy is clean throughout (Kierkegaard/de Silentio, Knight, Sartre, Heidegger, Dreyfus)
@@ -52,7 +52,7 @@ topics: []
 
 ### Enhancements Made
 
-- Added inline `[epistemic-emotions](/concepts/epistemic-emotions/)` link in counterfactual flooding discussion
+- Added inline `[[epistemic-emotions]]` link in counterfactual flooding discussion
 - Tightened epiphenomenalist response for intellectual honesty
 - Cleaned duplicate frontmatter and Further Reading entries
 

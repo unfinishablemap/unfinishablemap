@@ -47,7 +47,7 @@ None. Article has been stable since the 2026-01-20 review's substantial improvem
    - **Resolution**: Expanded the Occam's Razor paragraph in "Relation to Site Perspective" to summarize the three-part argument (precondition unmet, simplicity fragments, scientific parsimony doesn't transfer) with a link to the full article.
 
 2. **Missing Further Reading entry**: The epistemological limits article wasn't in the Further Reading section.
-   - **Resolution**: Added `[epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)` to Further Reading and `related_articles` frontmatter.
+   - **Resolution**: Added `[[epistemological-limits-occams-razor]]` to Further Reading and `related_articles` frontmatter.
 
 ### Low Issues Found
 

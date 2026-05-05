@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 - **Duplicate topic in frontmatter**: `consciousness-and-skilled-performance` listed twice in topics array. **Resolution**: Removed duplicate.
-- **Path prefix inconsistency**: `[free-will](/topics/free-will/)` used path prefix while all other topic links use bare slugs. **Resolution**: Changed to `[free-will](/topics/free-will/)`.
+- **Path prefix inconsistency**: `[[topics/free-will]]` used path prefix while all other topic links use bare slugs. **Resolution**: Changed to `[[free-will]]`.
 - **Duplicate Further Reading entry**: `consciousness-and-skilled-performance` appeared twice with different display text (lines 150-151). **Resolution**: Consolidated into single entry combining both descriptions.
 
 ### Medium Issues Found

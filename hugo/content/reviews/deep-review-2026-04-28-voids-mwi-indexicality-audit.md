@@ -121,7 +121,7 @@ None of the medium-priority articles strictly mis-frame MWI; if a future audit c
 
 ## Stability Notes
 
-- The fix pattern is uniform: concede branch-local indexicality, reposition Map's claim as the stronger one-branch-only reading, cross-link `[many-worlds](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply)`. Future reviews should not reintroduce the misframe (e.g., "MWI cannot accommodate felt singularity") since branch-relative indexicality already secures it.
+- The fix pattern is uniform: concede branch-local indexicality, reposition Map's claim as the stronger one-branch-only reading, cross-link `[[many-worlds#MWI's Branch-Relative Indexicality Reply]]`. Future reviews should not reintroduce the misframe (e.g., "MWI cannot accommodate felt singularity") since branch-relative indexicality already secures it.
 - The stronger Map claim—that MWI's needed cross-branch personal-identity relation (for Born-rule recovery via Deutsch-Wallace decision theory) is unavailable—is the load-bearing argument. This is a bedrock disagreement with sophisticated MWI defenders, not a fixable problem.
 - If a future review wants to *expand* engagement with branch-relative indexicality in any voids article, link to the canonical statement rather than re-explaining the reply each time. Length-neutral mode applies: voids/ soft threshold is 2000 words; the canonical-statement cross-link mechanism is the right way to keep individual sections compact.
 

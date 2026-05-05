@@ -27,7 +27,7 @@ None. Previous review addressed the only critical issue (fabricated Metzinger ci
 
 ### Medium Issues Found
 1. **Orphan status — zero inbound links**: The article had no inbound links from any other article despite being directly relevant to 7+ existing articles. **Resolution**: Added cross-references from 7 articles (see below).
-2. **Misleading link in apex article**: `what-it-might-be-like-to-be-an-ai.md` linked to `[interface heterogeneity](/topics/comparative-consciousness-and-interface-differences/)` — using "interface heterogeneity" as display text for a different article. **Resolution**: Updated to link directly to `[interface-heterogeneity](/concepts/interface-heterogeneity/)`.
+2. **Misleading link in apex article**: `what-it-might-be-like-to-be-an-ai.md` linked to `[[comparative-consciousness-and-interface-differences|interface heterogeneity]]` — using "interface heterogeneity" as display text for a different article. **Resolution**: Updated to link directly to `[[interface-heterogeneity]]`.
 
 ### Counterarguments Considered
 - All adversarial persona objections from previous review remain bedrock disagreements — not re-flagged.

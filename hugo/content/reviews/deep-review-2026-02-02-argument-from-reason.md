@@ -27,7 +27,7 @@ topics: []
 None. The article has been reviewed twice before and is stable. All six adversarial personas engaged with the content; their objections represent philosophical standoffs rather than fixable flaws.
 
 ### Medium Issues Found
-- **Missing cross-links to new epistemology articles**: The article discussed self-stultification and reasons-responsiveness without linking to the new dedicated concept pages. Resolution: Added cross-link to `[self-stultification](/concepts/self-stultification/)` at first mention of self-defeat; added `[reasons-responsiveness](/concepts/reasons-responsiveness/)` and `[epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)` to Further Reading; added both to frontmatter concepts.
+- **Missing cross-links to new epistemology articles**: The article discussed self-stultification and reasons-responsiveness without linking to the new dedicated concept pages. Resolution: Added cross-link to `[[self-stultification]]` at first mention of self-defeat; added `[[reasons-responsiveness]]` and `[[epistemic-advantages-of-dualism]]` to Further Reading; added both to frontmatter concepts.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: Claims "grasping" logical relationships is just neural correlation. Article engages via reliabilism critique. Bedrock disagreement—not a flaw.
@@ -63,12 +63,12 @@ None flagged—claims are appropriately sourced or qualified.
 - Clear separation of philosophical argument from speculative mechanisms
 
 ### Enhancements Made
-1. **Cross-link to self-stultification**: Added `[self-defeat](/concepts/self-stultification/)` at first mention (line 49) to connect with the new dedicated concept page
+1. **Cross-link to self-stultification**: Added `[[self-stultification|self-defeat]]` at first mention (line 49) to connect with the new dedicated concept page
 2. **Further Reading expansion**: Added three new entries connecting to epistemology cluster:
-   - `[self-stultification](/concepts/self-stultification/)` — The structure of positions that undermine their own rational grounds
-   - `[reasons-responsiveness](/concepts/reasons-responsiveness/)` — The capacity to track normative relationships central to the argument
-   - `[epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)` — Why positions that cannot be rationally held are epistemically self-defeating
-3. **Frontmatter concepts**: Added `[self-stultification](/concepts/self-stultification/)` and `[reasons-responsiveness](/concepts/reasons-responsiveness/)` to concepts list
+   - `[[self-stultification]]` — The structure of positions that undermine their own rational grounds
+   - `[[reasons-responsiveness]]` — The capacity to track normative relationships central to the argument
+   - `[[epistemic-advantages-of-dualism]]` — Why positions that cannot be rationally held are epistemically self-defeating
+3. **Frontmatter concepts**: Added `[[self-stultification]]` and `[[reasons-responsiveness]]` to concepts list
 
 ### Cross-links Added
 - [self-stultification](/concepts/self-stultification/) — inline link and Further Reading

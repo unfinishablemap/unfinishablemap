@@ -58,16 +58,16 @@ topics: []
 
 ### Enhancements Made
 - Fixed incorrect "2025 MIT study" → "2021 study from Graziano's Princeton lab"
-- Ensured `[mental-effort](/concepts/mental-effort/)` cross-link is properly formatted in Relation to Site Perspective
+- Ensured `[[mental-effort]]` cross-link is properly formatted in Relation to Site Perspective
 - Capitalized "The Map's" for consistency in Bidirectional Interaction paragraph
 
 ### Cross-links Verified
 All cross-links from previous review remain valid:
-- `[introspection](/concepts/introspection/)`
-- `[mysterianism](/concepts/mysterianism/)`
-- `[knowledge-argument](/concepts/knowledge-argument/)`
-- `[arguments-against-materialism](/topics/arguments-against-materialism/)`
-- `[mental-effort](/concepts/mental-effort/)`
+- `[[introspection]]`
+- `[[mysterianism]]`
+- `[[knowledge-argument]]`
+- `[[arguments-against-materialism]]`
+- `[[mental-effort]]`
 
 ## Remaining Items
 

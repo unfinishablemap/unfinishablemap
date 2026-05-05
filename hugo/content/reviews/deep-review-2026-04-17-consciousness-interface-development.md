@@ -28,7 +28,7 @@ Third deep review of this article. The first (2026-03-17) made substantive conte
 2. `architecture-of-cognitive-closure` → `biological-cognitive-closure`
 3. `cognitive-closure` → `mysterianism`
 
-Plus two small inbound cross-link additions (`[infant-consciousness](/voids/infant-consciousness/)` and `[interface-heterogeneity](/concepts/interface-heterogeneity/)`). This is a convergence review confirming content stability.
+Plus two small inbound cross-link additions (`[[infant-consciousness]]` and `[[interface-heterogeneity]]`). This is a convergence review confirming content stability.
 
 ## Pessimistic Analysis Summary
 

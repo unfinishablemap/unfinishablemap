@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- [Broken wikilink `[phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)`]: Fixed — actual file is `phenomenology-of-choice-and-volition.md` with no aliases. Updated to `[phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)`.
+- [Broken wikilink `[[phenomenology-of-choice]]`]: Fixed — actual file is `phenomenology-of-choice-and-volition.md` with no aliases. Updated to `[[phenomenology-of-choice-and-volition]]`.
 
 ### Medium Issues Found
 - [Description exceeded 150-160 char guideline (~200 chars)]: Shortened to ~156 chars while preserving key claim
@@ -58,7 +58,7 @@ topics: []
 - References are comprehensive (26 citations) and well-formatted
 
 ### Enhancements Made
-- Fixed broken `[phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)` wikilink → `[phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)`
+- Fixed broken `[[phenomenology-of-choice]]` wikilink → `[[phenomenology-of-choice-and-volition]]`
 - Shortened description to 150-160 char guideline
 - Tightened two passages for concision (intentional binding conclusion, Libet paradigm description)
 

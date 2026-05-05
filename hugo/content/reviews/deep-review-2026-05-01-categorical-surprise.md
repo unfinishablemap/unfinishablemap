@@ -29,9 +29,9 @@ topics: []
 
 The 2026-04-30 cross-review reference-update pass (see [cross-review-2026-04-30-creative-consciousness-references](/reviews/cross-review-2026-04-30-creative-consciousness-references/)) already touched this file's frontmatter, inline body, and Further Reading entries to point at the new unified `creative-consciousness` slug:
 
-- Frontmatter `related_articles` includes `[creative-consciousness](/concepts/creative-consciousness/)` ✓
-- Inline body anchored link `[phenomenology of creative insight](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight)` resolves correctly (anchor section exists at line 87 of the new article) ✓
-- Further Reading entry `[creative-consciousness](/concepts/creative-consciousness/)` ✓
+- Frontmatter `related_articles` includes `[[creative-consciousness]]` ✓
+- Inline body anchored link `[[creative-consciousness#The Phenomenology of Creative Insight|phenomenology of creative insight]]` resolves correctly (anchor section exists at line 87 of the new article) ✓
+- Further Reading entry `[[creative-consciousness]]` ✓
 - Reciprocal link confirmed: `creative-consciousness.md` line 95 names restructuring "a form of [categorical surprise](/concepts/categorical-surprise/) where the framework, not merely a prediction, collapses" ✓
 
 ### Critical Issue Found
@@ -42,7 +42,7 @@ The 2026-04-30 cross-review reference-update pass (see [cross-review-2026-04-30-
 
 ### Items Verified, No Change Needed
 
-- The "Categorical Surprise and Creativity" section (lines 74–80) routes its zone-of-latent-solutions reference through `[consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)`, which remains the canonical site for that Tomasello-derived concept. The new `creative-consciousness` article is reciprocally linked elsewhere in the section through the substantive claim "Creative acts produce categorical surprise in their audience (and often in the creator)" — this claim is mirrored by `creative-consciousness.md`'s explicit restructuring-as-categorical-surprise framing. Adding a second wikilink to `creative-consciousness` here would be redundant with the inline body link at line 68 and the Further Reading entry.
+- The "Categorical Surprise and Creativity" section (lines 74–80) routes its zone-of-latent-solutions reference through `[[consciousness-and-cognitive-distinctiveness]]`, which remains the canonical site for that Tomasello-derived concept. The new `creative-consciousness` article is reciprocally linked elsewhere in the section through the substantive claim "Creative acts produce categorical surprise in their audience (and often in the creator)" — this claim is mirrored by `creative-consciousness.md`'s explicit restructuring-as-categorical-surprise framing. Adding a second wikilink to `creative-consciousness` here would be redundant with the inline body link at line 68 and the Further Reading entry.
 - Line 80 contains "is often categorical rather than ordinary: not 'I didn't expect this particular output' but 'I didn't know this kind of output was available to me.'" The "X rather than Y" form is the recommended replacement for the LLM-cliché construct (per 2026-04-30 review's resolution); the colon-introduced contrasting quotations illustrate two different phenomenal states rather than asserting a position. Left as-is.
 
 ## Pessimistic Analysis Summary

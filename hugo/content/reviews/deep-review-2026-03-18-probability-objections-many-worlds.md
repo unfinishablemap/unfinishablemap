@@ -28,7 +28,7 @@ None. The article is factually accurate with no misattributions, internal contra
 ### Medium Issues Found
 1. **Missing references for cited works**: Vaidman (1998) and Wallace (2012) were cited in the "Pattern of Failure" section but absent from the References list. Zurek was cited as "2003-2005" but only the 2005 paper was referenced. **Resolution**: Added Vaidman (1998) and Wallace (2012) to References; simplified Zurek citation to "2005" to match the existing reference.
 2. **Graham (1973) attribution precision**: The quote "worlds displaying proper quantum statistics are in a numerical minority" may originate from DeWitt's introduction to the DeWitt-Graham volume rather than Graham's chapter. **Resolution**: Deferred — the attribution to the volume is conventional and not misleading. Would require source verification to resolve definitively.
-3. **No inline cross-links to key concepts**: The Many-Worlds Interpretation and decoherence were discussed extensively without wikilinks to their concept pages. **Resolution**: Added inline links to `[many-worlds](/concepts/many-worlds/)` and `[decoherence](/concepts/decoherence/)`.
+3. **No inline cross-links to key concepts**: The Many-Worlds Interpretation and decoherence were discussed extensively without wikilinks to their concept pages. **Resolution**: Added inline links to `[[concepts/many-worlds]]` and `[[decoherence]]`.
 
 ### Counterarguments Considered
 - All six adversarial personas engaged. The Deutsch persona's strongest objection — that the betting-frequency gap applies to collapse interpretations too — is a legitimate philosophical point, but the article handles it by framing collapse's postulation of the Born rule as "honest" rather than claiming it as a solution. This is an acceptable editorial stance for the Map's perspective.
@@ -49,15 +49,15 @@ None identified. All factual claims are attributed with citations.
 - Appropriate concept-page scope — catalogues objections and points to topic page for extended argument
 
 ### Enhancements Made
-- Added inline wikilink to `[Many-Worlds Interpretation](/concepts/many-worlds/)` in opening paragraph
-- Added inline wikilink to `[decoherence](/concepts/decoherence/)` in circularity section
+- Added inline wikilink to `[[concepts/many-worlds|Many-Worlds Interpretation]]` in opening paragraph
+- Added inline wikilink to `[[decoherence]]` in circularity section
 - Added missing references: Vaidman (1998), Wallace (2012)
 - Corrected Zurek date range from "2003-2005" to "2005"
 - Renumbered references for consistency
 
 ### Cross-links Added
-- `[many-worlds](/concepts/many-worlds/)` (inline, opening)
-- `[decoherence](/concepts/decoherence/)` (inline, circularity section)
+- `[[concepts/many-worlds]]` (inline, opening)
+- `[[decoherence]]` (inline, circularity section)
 
 ## Word Count
 - Before: 1402 words

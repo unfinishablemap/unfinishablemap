@@ -26,7 +26,7 @@ topics: []
 None. The previous review's critical fix (VanRullen reference) remains correct.
 
 ### Medium Issues Found
-- **Missing GWT cross-link**: "Global Workspace Theory" mentioned in the dissolution section without wikilink to the existing `[global-workspace-theory](/concepts/global-workspace-theory/)` concept page. Resolution: added wikilink.
+- **Missing GWT cross-link**: "Global Workspace Theory" mentioned in the dissolution section without wikilink to the existing `[[global-workspace-theory]]` concept page. Resolution: added wikilink.
 
 ### Attribution Accuracy Check
 - Sellars (1965, 1971): Correctly attributed spatial grain argument ✓
@@ -53,7 +53,7 @@ All six adversarial personas were considered. No new counterarguments beyond tho
 - Prediction 4 (cross-species) appropriately hedged after previous review
 
 ### Enhancements Made
-- Added `[global-workspace-theory](/concepts/global-workspace-theory/)` wikilink in the dissolution section
+- Added `[[global-workspace-theory]]` wikilink in the dissolution section
 
 ### Cross-links Added
 - [global-workspace-theory](/concepts/global-workspace-theory/) (in "What Would Dissolve the Programme")

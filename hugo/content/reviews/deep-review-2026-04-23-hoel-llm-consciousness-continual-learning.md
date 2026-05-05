@@ -24,8 +24,8 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken wikilink `[expertise-void](/voids/expertise-and-its-occlusion/)` (two occurrences)**: The `expertise-void` article was coalesced with `expertise-occlusion` into `expertise-and-its-occlusion` (see changelog 2026-W15). The inline link in the Continual Learning section and the Further Reading entry both pointed to the archived slug. Fixed to `[expertise void](/voids/expertise-and-its-occlusion/)` and `[The Expertise Void](/voids/expertise-and-its-occlusion/)`.
-- **Broken section anchor**: The inline link `[...](/topics/phenomenology-of-intellectual-life/#inferential-understanding-the-visibility-of-the-because)` targeted an anchor that no longer exists in the current coalesced parent article. The section was consolidated into "The Work of Reasoning" (which explicitly covers blind vs. insightful inference). Updated link to `#The Work of Reasoning` with display text "the phenomenology of reasoning."
+- **Broken wikilink `[[expertise-void]]` (two occurrences)**: The `expertise-void` article was coalesced with `expertise-occlusion` into `expertise-and-its-occlusion` (see changelog 2026-W15). The inline link in the Continual Learning section and the Further Reading entry both pointed to the archived slug. Fixed to `[[expertise-and-its-occlusion|expertise void]]` and `[[expertise-and-its-occlusion|The Expertise Void]]`.
+- **Broken section anchor**: The inline link `[[phenomenology-of-intellectual-life#Inferential Understanding: The Visibility of the Because|...]]` targeted an anchor that no longer exists in the current coalesced parent article. The section was consolidated into "The Work of Reasoning" (which explicitly covers blind vs. insightful inference). Updated link to `#The Work of Reasoning` with display text "the phenomenology of reasoning."
 - **Stale refinement log**: The HTML comment "AI REFINEMENT LOG - 2026-04-16" carried an explicit self-destruct instruction ("This log should be removed after human review"). Removed.
 
 ### Medium Issues Found

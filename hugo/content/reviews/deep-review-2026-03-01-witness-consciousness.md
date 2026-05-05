@@ -28,7 +28,7 @@ None. This is the third deep review. The article has been stable since the secon
 
 ### Medium Issues Found
 
-- **Frontmatter duplication**: `[free-will](/topics/free-will/)` appeared in both `topics` and `concepts` arrays. **Resolution**: Removed from `concepts`.
+- **Frontmatter duplication**: `[[topics/free-will]]` appeared in both `topics` and `concepts` arrays. **Resolution**: Removed from `concepts`.
 - **Shankara attribution imprecise**: Quote on line 47 ("a passive observer...") was presented as Shankara's words but is from Gupta's analysis. **Resolution**: Reattributed quote to Gupta; Shankara's position described in the author's words.
 - **Missing Hume citation**: David Hume directly quoted ("I can never catch myself at any time without a perception") but absent from References. **Resolution**: Added Hume (1739) *A Treatise of Human Nature* to References.
 

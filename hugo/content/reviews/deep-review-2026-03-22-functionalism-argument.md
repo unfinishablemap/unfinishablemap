@@ -26,7 +26,7 @@ topics: []
 - None. The article is well-structured with no factual errors, attribution problems, or internal contradictions.
 
 ### Medium Issues Found
-- **Duplicate/misdirected `related_articles` link**: The wikilink fix commit (628f49ee6) changed `[epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)` to `[epiphenomenalism](/concepts/epiphenomenalism/)` in `related_articles`, which now resolves to [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/)—already listed in `concepts`. The intended reference was the companion argument article. Fixed to `[epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)`.
+- **Duplicate/misdirected `related_articles` link**: The wikilink fix commit (628f49ee6) changed `[[epiphenomenalism-argument]]` to `[[epiphenomenalism]]` in `related_articles`, which now resolves to [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/)—already listed in `concepts`. The intended reference was the companion argument article. Fixed to `[[arguments/epiphenomenalism-argument]]`.
 - **Tallis quote lacked citation**: "Misrepresentation presupposes presentation" was attributed to Raymond Tallis without naming the source work. Added *Aping Mankind* (2011) inline and in External Sources. Resolves the note from the previous review.
 
 ### Counterarguments Considered
@@ -45,11 +45,11 @@ topics: []
 - Haecceity-to-No Many Worlds connection—creative and well-argued
 
 ### Enhancements Made
-1. **Fixed `related_articles` link**: `[epiphenomenalism](/concepts/epiphenomenalism/)` → `[epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)` (companion argument article)
+1. **Fixed `related_articles` link**: `[[epiphenomenalism]]` → `[[arguments/epiphenomenalism-argument]]` (companion argument article)
 2. **Added Tallis citation**: *Aping Mankind* (2011) inline and in External Sources
 
 ### Cross-links Added
-- `[epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)` in related_articles (corrected from misdirected link)
+- `[[arguments/epiphenomenalism-argument]]` in related_articles (corrected from misdirected link)
 
 ## Remaining Items
 

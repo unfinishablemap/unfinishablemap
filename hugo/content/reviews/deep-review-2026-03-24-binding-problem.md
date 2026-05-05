@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)`**: This concept was archived and superseded by `phenomenal-binding-and-holism`. The link appeared in both the concepts frontmatter and body text (line 69). Fixed: updated body link to `[Cross-modal binding](/topics/phenomenal-binding-and-multimodal-integration/)` (the dedicated treatment) and frontmatter concept to `[phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)`.
+- **Broken wikilink `[[multimodal-binding]]`**: This concept was archived and superseded by `phenomenal-binding-and-holism`. The link appeared in both the concepts frontmatter and body text (line 69). Fixed: updated body link to `[[phenomenal-binding-and-multimodal-integration|Cross-modal binding]]` (the dedicated treatment) and frontmatter concept to `[[phenomenal-binding-and-multimodal-integration]]`.
 
 ### Medium Issues Found
 - **Missing cross-link to consciousness-collapse-experimental-landscape**: The Testable Commitments section discusses quantum coherence predictions overlapping with the new coalesced article on consciousness-collapse experiments. Fixed: added cross-link in the Testable Commitments section and Further Reading.
@@ -53,8 +53,8 @@ All previously considered counterarguments remain adequately addressed. No new p
 - Mysterian caveat adds appropriate humility
 
 ### Enhancements Made
-- Fixed broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` wikilink (archived concept)
-- Added cross-link to `[consciousness-collapse-experimental-landscape](/topics/testing-consciousness-collapse/)` in Testable Commitments and Further Reading
+- Fixed broken `[[multimodal-binding]]` wikilink (archived concept)
+- Added cross-link to `[[consciousness-collapse-experimental-landscape]]` in Testable Commitments and Further Reading
 - Added `consciousness-collapse-experimental-landscape` to related_articles
 - Replaced `multimodal-binding` with `phenomenal-binding-and-multimodal-integration` in concepts frontmatter
 

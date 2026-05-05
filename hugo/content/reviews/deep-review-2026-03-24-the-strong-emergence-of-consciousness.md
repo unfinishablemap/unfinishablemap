@@ -26,7 +26,7 @@ topics: []
 None. All six adversarial personas engaged. No factual errors, attribution problems, self-contradictions, or source/Map conflation detected. All attributions remain accurate (Broad 1925, Chalmers 2006, James 1890, Kim 1998, O'Connor & Wong 2005, Tegmark 2000, Hagan et al. 2002, Khan et al. 2024, Bedau 1997, Alexander 1920).
 
 ### Medium Issues Found
-- [Missing supervenience cross-link]: The newly created [concepts/supervenience.md](/concepts/supervenience/) (2026-03-24) provides detailed treatment of the supervenience varieties and their implications for the mind-body problem. The strong emergence article's "supervenience problem" subsection discusses these concepts without linking to the concept page. **Resolution**: Added `[supervenience](/concepts/supervenience/)` wikilink in text, concepts frontmatter, and Further Reading.
+- [Missing supervenience cross-link]: The newly created [concepts/supervenience.md](/concepts/supervenience/) (2026-03-24) provides detailed treatment of the supervenience varieties and their implications for the mind-body problem. The strong emergence article's "supervenience problem" subsection discusses these concepts without linking to the concept page. **Resolution**: Added `[[supervenience]]` wikilink in text, concepts frontmatter, and Further Reading.
 
 ### Counterarguments Considered
 All counterarguments from previous reviews remain adequately handled. No new counterarguments identified. Bedrock disagreements (eliminativism, Dennettian heterophenomenology, MWI) remain correctly identified and not re-flagged.
@@ -46,7 +46,7 @@ All attributions re-verified clean. No changes to source-referencing content sin
 - Cross-traditional convergence paragraph (added 2026-03-20)
 
 ### Enhancements Made
-- Added `[supervenience](/concepts/supervenience/)` wikilink in "The supervenience problem" subsection for readers wanting deeper treatment
+- Added `[[supervenience]]` wikilink in "The supervenience problem" subsection for readers wanting deeper treatment
 - Added supervenience to concepts frontmatter
 - Added supervenience to Further Reading with description
 

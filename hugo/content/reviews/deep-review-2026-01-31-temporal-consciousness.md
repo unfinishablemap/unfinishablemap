@@ -80,7 +80,7 @@ The process-and-consciousness apex article (created 2026-01-31) extensively refe
 
 ### Enhancement Made
 
-- **Added cross-link to apex article**: Added `[process-and-consciousness](/apex/process-and-consciousness/)` to Further Reading section with description "Apex synthesis of process philosophy and the Map's framework"
+- **Added cross-link to apex article**: Added `[[process-and-consciousness]]` to Further Reading section with description "Apex synthesis of process philosophy and the Map's framework"
 
 This improves navigation from concept to synthesis without expanding article length beyond threshold.
 

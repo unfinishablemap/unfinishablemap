@@ -652,7 +652,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 1910 → 1910 (link addition only)
 - **Critical issues addressed**: 0 (none found—article stable from previous review)
 - **Medium issues addressed**: 0 (Nagel quote preserved as-is)
-- **Enhancements made**: 1 (added inline link to `[introspection](/concepts/introspection/)`)
+- **Enhancements made**: 1 (added inline link to `[[introspection]]`)
 - **Output**: [deep-review-2026-02-01-heterophenomenology](/reviews/deep-review-2026-02-01-heterophenomenology/)
 - **Notes**: Second deep review. Article reached stability. No critical issues; philosophical disagreements with Dennett's position are bedrock disagreements, not fixable problems.
 
@@ -1622,7 +1622,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Output**: concepts/minimal-consciousness.md
 - **Word count**: 1397
 - **Based on research**: No (simple concept definition drawing on existing topic page)
-- **Notes**: Created concept page for minimal consciousness—the simplest form of phenomenal experience. Addresses existing `[minimal-consciousness](/concepts/minimal-consciousness/)` links from consciousness.md and provides definitional treatment complementing the topic page consciousness-in-simple-organisms.md.
+- **Notes**: Created concept page for minimal consciousness—the simplest form of phenomenal experience. Addresses existing `[[minimal-consciousness]]` links from consciousness.md and provides definitional treatment complementing the topic page consciousness-in-simple-organisms.md.
 
 ---
 
@@ -2356,7 +2356,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Sources**: concepts/minimal-consciousness.md, topics/consciousness-in-simple-organisms.md
 - **Target**: topics/consciousness-in-simple-organisms.md
 - **Archived**: archive/concepts/minimal-consciousness.md
-- **References to review**: 37 files contain `[minimal-consciousness](/concepts/minimal-consciousness/)` links (active content will redirect via archive notice)
+- **References to review**: 37 files contain `[[minimal-consciousness]]` links (active content will redirect via archive notice)
 - **Notes**: Merged two articles covering consciousness in simple organisms. ~60-70% content overlap (both covered C. elegans, Hydra, slime molds, UAL framework, illusionist challenge, contemplative perspectives). Integrated unique content from minimal-consciousness.md: three-level metarepresentational framework, Metzinger's MPE, Buddhist vijñāna/prajñā distinction. Retained consciousness-in-simple-organisms.md as target (better title for the topic). Word count: ~280 lines unified from ~284 + ~222 source lines.
 
 ---
@@ -6376,7 +6376,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 0 (none found)
 - **Enhancements made**: 0 (article already stable)
 - **Output**: [deep-review-2026-01-27-attention](/reviews/deep-review-2026-01-27-attention/)
-- **Notes**: Follow-up review to 2026-01-20 comprehensive review. Article has reached stability—only housekeeping issues found (corrected `[voluntary-attention-control](/concepts/attention-as-interface/)` to `[voluntary-attention](/concepts/attention-as-interface/)`, removed duplicate concepts entry). Six adversarial and six sympathetic personas confirmed the article is well-developed with strong tenet connections.
+- **Notes**: Follow-up review to 2026-01-20 comprehensive review. Article has reached stability—only housekeeping issues found (corrected `[[voluntary-attention-control]]` to `[[voluntary-attention]]`, removed duplicate concepts entry). Six adversarial and six sympathetic personas confirmed the article is well-developed with strong tenet connections.
 
 ---
 

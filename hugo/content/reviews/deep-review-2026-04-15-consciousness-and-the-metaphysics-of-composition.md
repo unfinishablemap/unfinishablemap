@@ -44,7 +44,7 @@ topics: []
 - All additions from previous reviews (7 inbound cross-links, binding-problem, quantum-holism, three dimensions of unity)
 
 ### Enhancements Made
-- Added `[metaphysics-of-composition](/concepts/metaphysics-of-composition/)` to concepts frontmatter
+- Added `[[metaphysics-of-composition]]` to concepts frontmatter
 - Added body-text cross-link in SCQ section introducing the concept page as the formal mereological framework
 - Added Further Reading entry for the concept page with brief description
 

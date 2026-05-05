@@ -23,9 +23,9 @@ topics: []
 ## Summary
 
 Article remains at convergence (5th review). Changes since 2026-03-22 are entirely mechanical:
-- Wikilink rename: `[downward-causation](/concepts/mental-causation-and-downward-causation/)` → `[downward causation](/concepts/mental-causation-and-downward-causation/)` (auto-coalesce, no semantic change)
+- Wikilink rename: `[[downward-causation]]` → `[[mental-causation-and-downward-causation|downward causation]]` (auto-coalesce, no semantic change)
 - Wikilink rename: phenomenology-of-choice/volition → phenomenology-of-choice-and-volition (auto-coalesce)
-- One Further Reading bullet added: `[brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)`
+- One Further Reading bullet added: `[[brain-computer-interfaces-and-the-interface-boundary]]`
 
 No new content claims, no new attribution risks, no new factual claims requiring verification.
 
@@ -73,7 +73,7 @@ No misattribution, no dropped qualifiers, no source/Map conflation, no overstate
 Verified all body and frontmatter wikilinks resolve to existing files:
 - All 14 frontmatter concept links resolve
 - All Further Reading links resolve
-- `[post-decoherence selection response](/concepts/psychophysical-laws/)` — target article does discuss collapse/selection (Chalmers-McQueen super-resistance), label is appropriate
+- `[[psychophysical-laws|post-decoherence selection response]]` — target article does discuss collapse/selection (Chalmers-McQueen super-resistance), label is appropriate
 
 ## Optimistic Analysis Summary
 

@@ -32,7 +32,7 @@ topics: []
 
 - **Opening did not front-load the Map's position**: Added a new second paragraph stating the Map's endorsement of the inference for ideal positive conceivability of fundamental conceptual separations. (Style guide compliance.)
 - **Only two tenets engaged**: Added connection to Bidirectional Interaction tenet in Relation to Site Perspective, noting that conceivability of consciousness as separate creates conceptual room for causal efficacy.
-- **Empty `topics` field**: Populated with `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)`.
+- **Empty `topics` field**: Populated with `[[hard-problem-of-consciousness]]`.
 - **"Unresolvable without begging the question" was unsupported**: Softened to "Neither side can resolve the dispute without presupposing something about the reliability of rational reflection."
 - **References too thin**: Added Block & Stalnaker (1999) and Yablo (1993) to provide physicalist/skeptical sources alongside the Chalmers-only original references.
 - **Missing cross-links**: Added links to explanatory-gap, phenomenal-concepts-strategy, mysterianism, introspection, meta-problem-of-consciousness, and interactionist-dualism throughout the article.

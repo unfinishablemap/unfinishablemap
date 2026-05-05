@@ -49,15 +49,15 @@ All counterarguments from previous reviews remain well-addressed. No new issues 
 
 ### Cross-links Added (from other articles → this concept)
 
-1. **biological-computationalisms-inadvertent-case-for-dualism.md** — Added `[biological-computationalism](/concepts/biological-computationalism/)` wikilink in opening paragraph and added to concepts frontmatter. The companion topic article now links directly to the concept it discusses.
+1. **biological-computationalisms-inadvertent-case-for-dualism.md** — Added `[[biological-computationalism]]` wikilink in opening paragraph and added to concepts frontmatter. The companion topic article now links directly to the concept it discusses.
 
-2. **functionalism.md** — Changed existing link from `[Biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)` to `[Biological computationalism](/concepts/biological-computationalism/)` in the "A Physicalist Rejection of Functionalism" section. The concept page is the more appropriate link target here (the topic article remains in Further Reading).
+2. **functionalism.md** — Changed existing link from `[[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]]` to `[[biological-computationalism|Biological computationalism]]` in the "A Physicalist Rejection of Functionalism" section. The concept page is the more appropriate link target here (the topic article remains in Further Reading).
 
-3. **substrate-independence.md** — Added `[biological-computationalism](/concepts/biological-computationalism/)` wikilink where the concept was previously mentioned as plain text in the "Arguments For" section.
+3. **substrate-independence.md** — Added `[[biological-computationalism]]` wikilink where the concept was previously mentioned as plain text in the "Arguments For" section.
 
-4. **concession-convergence.md** — Changed existing link from `[Biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)` to `[Biological computationalism](/concepts/biological-computationalism/)` in the case study section. The concept page provides the foundational exposition; the topic article remains linked in Further Reading.
+4. **concession-convergence.md** — Changed existing link from `[[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]]` to `[[biological-computationalism|Biological computationalism]]` in the case study section. The concept page provides the foundational exposition; the topic article remains linked in Further Reading.
 
-5. **consciousness-evolution-and-biology.md** — Added `[biological-computationalism](/concepts/biological-computationalism/)` to concepts frontmatter. The existing inline link to the topic article was preserved as it discusses the specific "inadvertent case for dualism" angle relevant to that sentence's context.
+5. **consciousness-evolution-and-biology.md** — Added `[[biological-computationalism]]` to concepts frontmatter. The existing inline link to the topic article was preserved as it discusses the specific "inadvertent case for dualism" angle relevant to that sentence's context.
 
 ## Remaining Items
 

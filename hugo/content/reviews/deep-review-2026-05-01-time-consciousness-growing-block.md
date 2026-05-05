@@ -56,7 +56,7 @@ All six adversarial personas engaged with the revised content:
 - Thura & Cisek (2014) ~280ms commitment point — correct.
 - Kent & Wittmann (2021) functional-moments-to-experienced-seconds gap — correct.
 - Penrose on gravity as "root of the arrow of time" — correct quotation.
-- The 12-order-of-magnitude decoherence/specious-present gap — correctly sourced via wikilink to `[temporal-consciousness](/concepts/temporal-consciousness/)`, where it traces to the standard Tegmark-style critique of warm-tissue quantum coherence.
+- The 12-order-of-magnitude decoherence/specious-present gap — correctly sourced via wikilink to `[[temporal-consciousness]]`, where it traces to the standard Tegmark-style critique of warm-tissue quantum coherence.
 - The two-tier collapse response is presented as the Map's resolution, not attributed to any external source — appropriate framing.
 - No misattributions, dropped qualifiers, source/Map conflation, or self-contradictions detected.
 

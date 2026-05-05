@@ -56,16 +56,16 @@ All six adversarial personas engaged with cross-review focus. The most substanti
 - Added corridor/minimum-outside-corridor/trumping paragraph to Tenet 2 honest assessment with cross-link to the Born-rule-brain-interface article
 - Added Maier-Dechamps (2018) preregistered null to Tenet 3 moderate criterion with the Map's response
 - Expanded "What the Map Should Watch" from five to six programmes, inserting Born-rule tests at the brain interface
-- Added `[born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/)` to related_articles
+- Added `[[born-rule-violation-brain-interface-empirical-status]]` to related_articles
 - Added Maier-Dechamps and the Born-rule-brain-interface article to References
 
 ### Cross-links Added
-- `[born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/)` — in related_articles, in Tenet 2 honest assessment, in Tenet 3 moderate criterion, and in "What the Map Should Watch" item 3
+- `[[born-rule-violation-brain-interface-empirical-status]]` — in related_articles, in Tenet 2 honest assessment, in Tenet 3 moderate criterion, and in "What the Map Should Watch" item 3
 
 ## Remaining Items
 
 - Melloni et al. (2025) reference date: deferred for human verification (carried from previous reviews).
-- `[consciousness-independent-baseline-cognition](/concepts/baseline-cognition/)` wikilink may not resolve correctly (site-wide issue, not specific to this article).
+- `[[consciousness-independent-baseline-cognition]]` wikilink may not resolve correctly (site-wide issue, not specific to this article).
 
 ## Stability Notes
 

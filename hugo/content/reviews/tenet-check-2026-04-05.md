@@ -39,9 +39,9 @@ None.
 
 ### topics/social-construction-of-self-vs-phenomenal-self.md
 - **Tenet**: 5 (Occam's Razor Has Limits)
-- **Issue**: Uses broken wikilink anchor `[tenets](/tenets/#occams-razor)` instead of the correct `[tenets](/tenets/#occams-limits)`. Every other article on the site uses the correct anchor.
-- **Quote**: `[tenets](/tenets/#occams-razor)`
-- **Recommendation**: Fix the anchor to `[tenets](/tenets/#occams-limits)`.
+- **Issue**: Uses broken wikilink anchor `[[tenets#^occams-razor]]` instead of the correct `[[tenets#^occams-limits]]`. Every other article on the site uses the correct anchor.
+- **Quote**: `[[tenets#^occams-razor]]`
+- **Recommendation**: Fix the anchor to `[[tenets#^occams-limits]]`.
 
 ### concepts/spontaneous-collapse-theories.md
 - **Tenet**: 2 (Minimal Quantum Interaction)

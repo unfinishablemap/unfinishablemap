@@ -72,8 +72,8 @@ None new.
 
 ### Cross-links Added
 
-- `[question-formation-void](/voids/question-formation-void/)` — added to `related_articles`, inline in inspection-paradox paragraph, and in Further Reading.
-- `[relevance-void](/voids/relevance-void/)` — added to `related_articles`, inline in inspection-paradox paragraph, and in Further Reading.
+- `[[question-formation-void]]` — added to `related_articles`, inline in inspection-paradox paragraph, and in Further Reading.
+- `[[relevance-void]]` — added to `related_articles`, inline in inspection-paradox paragraph, and in Further Reading.
 
 ## Length Tracking
 
@@ -86,7 +86,7 @@ None new.
 
 None. The article remains structurally sound. Future reviews should treat the question-formation-void and relevance-void parallels as established context rather than re-discovering them.
 
-The reciprocal direction — adding `[predictive-construction-void](/voids/predictive-construction-void/)` to `question-formation-void`'s related_articles — is a possible future refinement task on that article. Out of scope for this review (which focuses on the named target).
+The reciprocal direction — adding `[[predictive-construction-void]]` to `question-formation-void`'s related_articles — is a possible future refinement task on that article. Out of scope for this review (which focuses on the named target).
 
 ## Stability Notes
 

@@ -26,7 +26,7 @@ topics: []
 None. Article remains stable. All six adversarial personas applied; no critical issues identified.
 
 ### Medium Issues Found
-- **Broken semantic reference from stale wikilink fix**: Line 55 had "the concept of the [temporal-consciousness](/concepts/temporal-consciousness/)" which was originally "the concept of the [specious-present](/concepts/temporal-consciousness/)." The stale wikilink replacement lost James's specific term. Fixed by using display text: `[specious present](/concepts/temporal-consciousness/)`.
+- **Broken semantic reference from stale wikilink fix**: Line 55 had "the concept of the [temporal-consciousness](/concepts/temporal-consciousness/)" which was originally "the concept of the [specious-present](/concepts/temporal-consciousness/)." The stale wikilink replacement lost James's specific term. Fixed by using display text: `[[temporal-consciousness|specious present]]`.
 
 ### Counterarguments Considered
 All six adversarial personas applied:

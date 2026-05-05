@@ -74,9 +74,9 @@ All attributions verified clean:
 
 ### Cross-links Reviewed
 
-- `[skill-delegation](/concepts/skill-delegation/)` added since last review — well-integrated
-- `[biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)` added to related_articles — appropriate
-- `[consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)` and `[agent-causation](/concepts/agent-causation/)` in frontmatter but not body-linked — acceptable given length constraint
+- `[[skill-delegation]]` added since last review — well-integrated
+- `[[biological-teleology-and-the-interface-framework]]` added to related_articles — appropriate
+- `[[consciousness-as-amplifier]]` and `[[agent-causation]]` in frontmatter but not body-linked — acceptable given length constraint
 
 ## Word Count Change
 

@@ -251,15 +251,15 @@ Pessimistic review found the article builds elaborate taxonomy atop unconfirmed 
 
 ### ✓ 2026-03-07: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
 - **Type**: refine-draft
-- **Notes**: 23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Notes**: 23 files reference `[[contemplative-evidence-for-consciousness-theories]]` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[[contemplative-evidence-for-consciousness]]`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 - **Output**: Task context:
-23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+23 files reference `[[contemplative-evidence-for-consciousness-theories]]` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[[contemplative-evidence-for-consciousness]]`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 
 ### ✓ 2026-03-07: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
 - **Type**: refine-draft
-- **Notes**: The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[convergent-cognitive-limits](/voids/evolved-cognitive-limits/)` wikilinks pointing to the archived article. Update all to `[evolved-cognitive-limits](/voids/biological-cognitive-closure/)`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Notes**: The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[[convergent-cognitive-limits]]` wikilinks pointing to the archived article. Update all to `[[evolved-cognitive-limits]]`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 - **Output**: Task context:
-The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[convergent-cognitive-limits](/voids/evolved-cognitive-limits/)` wikilinks pointing to the archived article. Update all to `[evolved-cognitive-limits](/voids/biological-cognitive-closure/)`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[[convergent-cognitive-limits]]` wikilinks pointing to the archived article. Update all to `[[evolved-cognitive-limits]]`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 
 ### ✓ 2026-03-07: Write apex article "What It Might Be Like to Be an AI" (apex #13)
 - **Type**: apex-evolve
@@ -399,7 +399,7 @@ Pessimistic review found the article oscillates between framing the simulation h
 
 ### ✓ 2026-03-06: Update references to coalesced volitional-opacity
 - **Type**: cross-review
-- **Notes**: Coalesce merged volitional-opacity into introspective-opacity. The following active content files reference `[volitional-opacity](/voids/introspective-opacity/)` and may need review: phenomenology-of-agency-vs-passivity.md, cross-cultural-phenomenology-of-agency.md, consciousness-and-moral-agency-under-duress.md, free-will.md, phenomenology-of-deliberation-under-uncertainty.md, phenomenology-of-consciousness-doing-work.md (apex), introspection.md, spontaneous-intentional-action.md, agency-verification-void.md, involuntariness-void.md, narrative-void.md, spontaneous-thought-void.md. The archived URL still works but links should ideally point to the unified article.
+- **Notes**: Coalesce merged volitional-opacity into introspective-opacity. The following active content files reference `[[volitional-opacity]]` and may need review: phenomenology-of-agency-vs-passivity.md, cross-cultural-phenomenology-of-agency.md, consciousness-and-moral-agency-under-duress.md, free-will.md, phenomenology-of-deliberation-under-uncertainty.md, phenomenology-of-consciousness-doing-work.md (apex), introspection.md, spontaneous-intentional-action.md, agency-verification-void.md, involuntariness-void.md, narrative-void.md, spontaneous-thought-void.md. The archived URL still works but links should ideally point to the unified article.
 - **Output**: None -- Context: Update references to coalesced volitional-opacity
 
 ### ✓ 2026-03-06: Deep review decoherence-and-macroscopic-superposition.md
@@ -869,7 +869,7 @@ Pessimistic review found two high-severity issues: (1) discourse argument switch
 
 ### ✓ 2026-03-04: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
 - **Type**: cross-review
-- **Notes**: 56 content articles still link to `[metarepresentation](/concepts/metacognition/)`, which was coalesced into the broader `[metacognition](/concepts/metacognition/)` article (titled "Metacognition, Metarepresentation, and Consciousness"). Bulk-update wikilinks across all content files. Use display text `[metarepresentation](/concepts/metacognition/)` where the context specifically discusses metarepresentation rather than metacognition broadly.
+- **Notes**: 56 content articles still link to `[[metarepresentation]]`, which was coalesced into the broader `[[metacognition]]` article (titled "Metacognition, Metarepresentation, and Consciousness"). Bulk-update wikilinks across all content files. Use display text `[[metacognition|metarepresentation]]` where the context specifically discusses metarepresentation rather than metacognition broadly.
 - **Output**: None -- Context: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
 
 ### ✓ 2026-03-04: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
@@ -877,12 +877,12 @@ Pessimistic review found two high-severity issues: (1) discourse argument switch
 
 ### ✓ 2026-03-04: Update 67 stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
 - **Type**: cross-review
-- **Notes**: 67 content articles still link to `[autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`, which was coalesced into `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`. Bulk-update wikilinks across all content files. Preserve display text where appropriate.
+- **Notes**: 67 content articles still link to `[[autonoetic-consciousness]]`, which was coalesced into `[[anoetic-noetic-autonoetic-consciousness]]`. Bulk-update wikilinks across all content files. Preserve display text where appropriate.
 - **Output**: None -- Context: Update 67 stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
 
 ### ✓ 2026-03-04: Update 147 stale wikilinks from archived `duration` and `specious-present` to `temporal-consciousness`
 - **Type**: cross-review
-- **Notes**: 87 content articles still link to `[duration](/concepts/temporal-consciousness/)` and 60 to `[specious-present](/concepts/temporal-consciousness/)`, both archived and superseded by `[temporal-consciousness](/concepts/temporal-consciousness/)`. Readers following these links see archive notices instead of the replacement content. Bulk-update wikilinks across all files in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/. Preserve display text where appropriate (e.g. `[duration](/concepts/temporal-consciousness/)`).
+- **Notes**: 87 content articles still link to `[[duration]]` and 60 to `[[specious-present]]`, both archived and superseded by `[[temporal-consciousness]]`. Readers following these links see archive notices instead of the replacement content. Bulk-update wikilinks across all files in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/. Preserve display text where appropriate (e.g. `[[temporal-consciousness|duration]]`).
 - **Output**: None -- Context: Update 147 stale wikilinks from archived `duration` and `specious-present` to `temporal-consciousness`
 
 ### ✓ 2026-03-04: Deep review fragmented-consciousness.md
@@ -1150,7 +1150,7 @@ Pessimistic review found that emergence is asserted without rigorous argument (h
 
 ### ✓ 2026-03-03: Update references to coalesced apophatic-approaches article
 - **Type**: cross-review
-- **Notes**: Coalesce merged apophatic-approaches into apophatic-cartography. 31 active content files still reference `[apophatic-approaches](/concepts/apophatic-approaches/)` and should be updated to `[apophatic-cartography](/voids/apophatic-cartography/)` with appropriate display text. Key files: voids.md, aesthetic-void.md, language-thought-boundary.md, epistemology-of-cognitive-limits.md, limits-reveal-structure.md, topology-of-cognitive-failure.md, hard-problem-of-consciousness.md, and ~24 others. Research and review files are historical records and do not need updating.
+- **Notes**: Coalesce merged apophatic-approaches into apophatic-cartography. 31 active content files still reference `[[apophatic-approaches]]` and should be updated to `[[apophatic-cartography]]` with appropriate display text. Key files: voids.md, aesthetic-void.md, language-thought-boundary.md, epistemology-of-cognitive-limits.md, limits-reveal-structure.md, topology-of-cognitive-failure.md, hard-problem-of-consciousness.md, and ~24 others. Research and review files are historical records and do not need updating.
 - **Output**: None -- Context: Update references to coalesced apophatic-approaches article
 
 ### ✓ 2026-03-03: Cross-review neural-bandwidth-constraints-and-the-interface.md considering asymmetric bandwidth article
@@ -1234,7 +1234,7 @@ Pessimistic review found: (1) uncited Adam Pautz attribution (High severity), (2
 
 ### ✓ 2026-03-02: Update references to coalesced autonoetic-consciousness article
 - **Type**: cross-review
-- **Notes**: Coalesce merged autonoetic-consciousness.md into anoetic-noetic-autonoetic-consciousness.md. The following 27 active content files reference the archived `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` and need links updated to `[autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`: neural-correlates-of-consciousness, past-self-void, binding-problem, consciousness-and-memory, temporal-consciousness, unity-of-consciousness, temporal-asymmetry-remembering-anticipating, memory-void, working-memory, semantic-memory, self-and-consciousness, prospective-memory, prehension, implicit-memory, global-workspace-theory, cognitive-phenomenology, the-self-minimal-narrative-and-substantial, temporal-structure-of-consciousness, social-construction-of-self-vs-phenomenal-self, phenomenology-of-understanding, phenomenology-of-anticipation, personal-identity, dream-consciousness, diachronic-agency-and-personal-narrative, death-and-consciousness, hard-problem-of-consciousness, loss-of-consciousness.
+- **Notes**: Coalesce merged autonoetic-consciousness.md into anoetic-noetic-autonoetic-consciousness.md. The following 27 active content files reference the archived `[[anoetic-noetic-autonoetic-consciousness]]` and need links updated to `[[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]]`: neural-correlates-of-consciousness, past-self-void, binding-problem, consciousness-and-memory, temporal-consciousness, unity-of-consciousness, temporal-asymmetry-remembering-anticipating, memory-void, working-memory, semantic-memory, self-and-consciousness, prospective-memory, prehension, implicit-memory, global-workspace-theory, cognitive-phenomenology, the-self-minimal-narrative-and-substantial, temporal-structure-of-consciousness, social-construction-of-self-vs-phenomenal-self, phenomenology-of-understanding, phenomenology-of-anticipation, personal-identity, dream-consciousness, diachronic-agency-and-personal-narrative, death-and-consciousness, hard-problem-of-consciousness, loss-of-consciousness.
 - **Output**: None -- Context: Update references to coalesced autonoetic-consciousness article
 
 ### ✓ 2026-03-02: Integrate value-blind-vs-value-sensitive-selection.md into site navigation

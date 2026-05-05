@@ -60,7 +60,7 @@ None. All issues flagged in the 2026-03-28 and 2026-04-21 reviews remain resolve
 - **Prose tightening**: Husserl/Varela paragraph, PCI sentence, meta-methodological layer, and False authority signature each tightened by 1-9 words to offset the additions.
 
 ### Cross-links Added
-- `[witnessing-void](/voids/witnessing-void/)` — added to frontmatter related_articles, Contemplative Convergence (with structural complement framing), Phenomenology of the Edge → Recursive vertigo, and Further Reading.
+- `[[witnessing-void]]` — added to frontmatter related_articles, Contemplative Convergence (with structural complement framing), Phenomenology of the Edge → Recursive vertigo, and Further Reading.
 
 ## Remaining Items
 

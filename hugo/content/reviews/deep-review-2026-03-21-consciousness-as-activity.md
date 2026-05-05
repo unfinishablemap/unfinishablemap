@@ -26,8 +26,8 @@ topics: []
 1. **"Dehaene et al." citation mismatch**: Text said "Dehaene et al.'s (2011)" but the reference lists only two authors (Dehaene & Changeux). **Resolution**: Corrected to "Dehaene and Changeux's (2011)".
 
 ### Medium Issues Found
-1. **Missing cross-link for Kim's exclusion problem**: Mentioned without linking to existing `[causal-closure](/concepts/causal-closure/)` article. **Resolution**: Added cross-link.
-2. **Missing cross-links in Occam's Razor tenet section**: "Combination problem" and "explanatory gap" mentioned without links to existing articles. **Resolution**: Added `[combination-problem](/concepts/combination-problem/)` and `[explanatory-gap](/concepts/explanatory-gap/)` wikilinks.
+1. **Missing cross-link for Kim's exclusion problem**: Mentioned without linking to existing `[[causal-closure]]` article. **Resolution**: Added cross-link.
+2. **Missing cross-links in Occam's Razor tenet section**: "Combination problem" and "explanatory gap" mentioned without links to existing articles. **Resolution**: Added `[[combination-problem]]` and `[[explanatory-gap]]` wikilinks.
 
 ### Counterarguments Considered
 - **Churchland/Eliminativist**: Whirlpool caveat from prior review remains effective. The "activities cannot be inert" argument could be challenged (physical activities are also causal without needing dualism), but the article's strategy of establishing the activity category first and arguing for irreducibility separately is sound.

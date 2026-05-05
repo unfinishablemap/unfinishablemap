@@ -32,7 +32,7 @@ None. The article remains stable after five review cycles.
    - **Resolution**: Strengthened the Bidirectional Interaction section to reference the evolutionary argument for mental causation and the convergent evidence from cetaceans and corvids, making the tenet connection more empirically grounded.
 
 2. **Missing cross-link to evolutionary-case-for-mental-causation**: The article discusses the evolutionary argument for consciousness's causal role but didn't link to the dedicated article developing that argument.
-   - **Resolution**: Added `[evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)` to the Bidirectional Interaction tenet section and Further Reading.
+   - **Resolution**: Added `[[evolutionary-case-for-mental-causation]]` to the Bidirectional Interaction tenet section and Further Reading.
 
 ### Counterarguments Considered
 
@@ -66,7 +66,7 @@ All six adversarial personas re-engaged. No new critical gaps:
 ### Enhancements Made
 
 1. Strengthened Bidirectional Interaction tenet connection with convergent evidence from cetaceans/corvids and evolutionary argument for mental causation
-2. Added cross-link to `[evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)` in body and Further Reading
+2. Added cross-link to `[[evolutionary-case-for-mental-causation]]` in body and Further Reading
 3. Trimmed Process Philosophy section, Void section, and Agnostic Challenge section to stay length-neutral
 
 ### Cross-links Added
@@ -75,7 +75,7 @@ All six adversarial personas re-engaged. No new critical gaps:
 
 ## Remaining Items
 
-- **Site-wide**: `[metarepresentation](/concepts/metacognition/)` concept page still needed (61+ files link to it) — carried forward from previous reviews
+- **Site-wide**: `[[metarepresentation]]` concept page still needed (61+ files link to it) — carried forward from previous reviews
 
 ## Stability Notes
 

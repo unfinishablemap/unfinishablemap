@@ -31,7 +31,7 @@ None. The previous pessimistic review (2026-03-27) identified five issues (struc
 - Dualism argument now engages physicalist monitoring-process counter
 
 ### Medium Issues Found
-- **Missing cross-links to closely related articles**: The reinvestment/choking discussion had no link to `[choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)` which covers this exact evidence in depth. Skill acquisition phases had no link to `[consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)`. Resolution: Added both cross-links in text and Further Reading.
+- **Missing cross-links to closely related articles**: The reinvestment/choking discussion had no link to `[[choking-phenomenon-mental-causation]]` which covers this exact evidence in depth. Skill acquisition phases had no link to `[[consciousness-and-skill-acquisition]]`. Resolution: Added both cross-links in text and Further Reading.
 - **`skill-delegation` concept in frontmatter but unreferenced in text**: The three-phase delegation process maps directly onto the scaffolding paradox. Resolution: Added natural reference in the scaffolding section.
 - **Parent article gap (cross-review)**: expertise-void.md did not link back to expertise-occlusion despite being the parent article. Resolution: Added to related_articles and Further Reading in expertise-void.md.
 
@@ -57,7 +57,7 @@ All substantive counterarguments from the pessimistic review were already addres
 - Cross-link to [choking under pressure](/topics/choking-phenomenon-mental-causation/) in reinvestment passage
 - Cross-link to [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) in scaffolding section and Further Reading
 - Reference to [skill-delegation](/concepts/skill-delegation/) concept (three-phase process) in scaffolding section
-- Added `[mental-causation](/concepts/mental-causation-and-downward-causation/)` to concepts frontmatter
+- Added `[[mental-causation]]` to concepts frontmatter
 
 ### Cross-links Added
 - In expertise-occlusion.md: [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/), [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/), [skill-delegation](/concepts/skill-delegation/)

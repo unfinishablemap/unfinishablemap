@@ -47,7 +47,7 @@ This review focused on integrating an orphaned article into the site navigation.
 
 ### Cross-links Added
 
-Added `[phenomenological-evidence](/concepts/phenomenological-evidence/)` links to:
+Added `[[phenomenological-evidence]]` links to:
 
 1. **[phenomenological-evidence-methodology](/concepts/phenomenological-evidence/)** — Opening sentence now links to the concept page for readers wanting the foundational definition before methodology details
 2. **[introspection](/concepts/introspection/)** — Process/content distinction section now points readers to the specific conditions making phenomenal content evidential

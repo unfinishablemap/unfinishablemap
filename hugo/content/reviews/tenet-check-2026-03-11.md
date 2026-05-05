@@ -47,12 +47,12 @@ Comprehensive scan of all 220 topics and 200 concepts. The corpus is in strong a
 
 | File | Broken Anchor | Should Be |
 |------|---------------|-----------|
-| consciousness-and-the-philosophy-of-biology.md | `[...](/tenets/#minimal-interaction\)` | `[...](/tenets/#minimal-quantum-interaction\)` |
-| phenomenal-normativity-environmental-ethics.md | `[...](/tenets/#minimal-interaction\)` | `[...](/tenets/#minimal-quantum-interaction\)` |
-| semantic-memory.md | `[...](/tenets/#occam\)` | `[...](/tenets/#occams-limits\)` |
-| substance-property-dualism.md | `[...](/tenets/#occam\)` | `[...](/tenets/#occams-limits\)` |
-| temporal-consciousness.md | `[...](/tenets/#occam\)` | `[...](/tenets/#occams-limits\)` |
-| temporal-thickness.md | `[...](/tenets/#occam\)` | `[...](/tenets/#occams-limits\)` |
+| consciousness-and-the-philosophy-of-biology.md | `[[tenets#^minimal-interaction\|...]]` | `[[tenets#^minimal-quantum-interaction\|...]]` |
+| phenomenal-normativity-environmental-ethics.md | `[[tenets#^minimal-interaction\|...]]` | `[[tenets#^minimal-quantum-interaction\|...]]` |
+| semantic-memory.md | `[[tenets#^occam\|...]]` | `[[tenets#^occams-limits\|...]]` |
+| substance-property-dualism.md | `[[tenets#^occam\|...]]` | `[[tenets#^occams-limits\|...]]` |
+| temporal-consciousness.md | `[[tenets#^occam\|...]]` | `[[tenets#^occams-limits\|...]]` |
+| temporal-thickness.md | `[[tenets#^occam\|...]]` | `[[tenets#^occams-limits\|...]]` |
 
 ### Content Notes
 

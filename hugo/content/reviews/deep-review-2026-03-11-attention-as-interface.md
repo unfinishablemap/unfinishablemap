@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Three broken wikilinks to archived content**: `[interface-locality](/concepts/brain-interface-boundary/)`, `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)`, and `[dopamine-selection-interface](/concepts/motor-selection/)` all pointed to articles that were coalesced into other pages. These appeared in frontmatter concepts, inline text, and Further Reading. **Resolved** — Updated to their coalesced replacements: `[brain-interface-boundary](/concepts/brain-interface-boundary/)`, `[attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)`, and `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)` / `[motor-selection](/concepts/motor-selection/)` respectively.
+- **Three broken wikilinks to archived content**: `[[interface-locality]]`, `[[attention-interface-mechanisms]]`, and `[[dopamine-selection-interface]]` all pointed to articles that were coalesced into other pages. These appeared in frontmatter concepts, inline text, and Further Reading. **Resolved** — Updated to their coalesced replacements: `[[brain-interface-boundary]]`, `[[attention-as-selection-interface]]`, and `[[dopamine-and-the-unified-interface]]` / `[[motor-selection]]` respectively.
 
 ### Medium Issues Found
 

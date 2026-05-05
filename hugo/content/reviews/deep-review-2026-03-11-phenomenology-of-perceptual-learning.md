@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link**: `[contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)` did not exist as a file. Replaced with `[filter-theory](/concepts/filter-theory/)` in both Further Reading and frontmatter related_articles.
+- **Broken link**: `[[contemplative-training-and-phenomenal-access]]` did not exist as a file. Replaced with `[[filter-theory]]` in both Further Reading and frontmatter related_articles.
 
 ### Medium Issues Found
 - **Paul (2014) attribution**: Described irreversibility as a "hallmark" Paul identifies for perceptual learning specifically. Paul's *Transformative Experience* is primarily about rational choice under epistemic transformation; irreversibility is a feature of her framework but not specifically identified as a hallmark of perceptual learning. **Resolution**: Rewritten to more accurately describe Paul's contribution—the epistemic opacity of transformative choices due to lost access to pre-transformation phenomenology, with perceptual learning fitting this pattern.

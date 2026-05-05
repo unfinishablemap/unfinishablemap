@@ -65,12 +65,12 @@ topics: []
 ### Enhancements Made
 
 - **Empirical anchor strengthened**: aphantasic mental-rotation evidence is now empirically anchored to the controlled study (Kay/Keogh/Pearson 2024) rather than to a vaguer "reduced performance" gloss.
-- **Sister-article integration**: `[imagery-void](/voids/imagery-void/)` is now properly linked from the body and Further Reading, surfacing the introspective-verification limit explicitly within an article that depends on introspective reports of imagery.
+- **Sister-article integration**: `[[imagery-void]]` is now properly linked from the body and Further Reading, surfacing the introspective-verification limit explicitly within an article that depends on introspective reports of imagery.
 - **Length-neutral discipline**: trimmed the classical-philosophy intro and tightened the trumping-preemption paragraph to absorb the additions.
 
 ### Cross-links Added
 
-- `[imagery-void](/voids/imagery-void/)` (body, Further Reading, related_articles)
+- `[[imagery-void]]` (body, Further Reading, related_articles)
 
 ## Remaining Items
 

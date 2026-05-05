@@ -51,7 +51,7 @@ The three positive candidates each had a structurally central section where the 
 
 ### 1. interface-specification-programme.md
 
-Added `[framework-stage-calibration](/project/framework-stage-calibration/)` to `related_articles` frontmatter. Augmented "The Specification Gap" section to include explicit pre-Keplerian framing:
+Added `[[framework-stage-calibration]]` to `related_articles` frontmatter. Augmented "The Specification Gap" section to include explicit pre-Keplerian framing:
 
 > The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) makes this stage-claim explicit: the programme described here sits at the *pre-Keplerian* stage—accumulating Tycho-analogue measurements (the bandwidth constraint, the Born-rule causal-consistency result, the theta-band willed-attention signatures, the coupling-modes taxonomy, the five formal constraints) rather than refining a Newton-analogue law. The Newton analogy in this section names a target the programme hopes to reach, not a characterisation of its current claim.
 
@@ -59,7 +59,7 @@ This installation does not contradict anything in the article; it makes the arti
 
 ### 2. post-decoherence-selection-programme.md
 
-Added `[framework-stage-calibration](/project/framework-stage-calibration/)` to `related_articles` frontmatter. Augmented the "Synthesis" paragraph at the close of "What a Complete Theory Requires" to install Tycho-analogue framing:
+Added `[[framework-stage-calibration]]` to `related_articles` frontmatter. Augmented the "Synthesis" paragraph at the close of "What a Complete Theory Requires" to install Tycho-analogue framing:
 
 > The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) locates the programme at the *pre-Keplerian* stage: the components catalogued above—Zurek's einselection results, Kochen-Specker contextuality, weak-measurement boundary structure, the three-stage amplification chain—are Tycho-analogue measurements and constraint scaffolds, not Kepler-analogue laws. Calling them constraints rather than mechanisms is calibration to what the programme has actually produced; calling the programme "incomplete" is the same calibration in different words.
 
@@ -67,7 +67,7 @@ This re-frames the article's own "incomplete" language as discipline-conformant 
 
 ### 3. phenomenology-mechanism-bridge.md
 
-Added `[framework-stage-calibration](/project/framework-stage-calibration/)` to `related_articles` frontmatter. Augmented the Level Three "Honest gaps remain" passage to frame Stapp's quantum Zeno proposal as a proto-model:
+Added `[[framework-stage-calibration]]` to `related_articles` frontmatter. Augmented the Level Three "Honest gaps remain" passage to frame Stapp's quantum Zeno proposal as a proto-model:
 
 > The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) frames Stapp's quantum Zeno proposal as a *proto-model* at the pre-Keplerian stage—a candidate specification awaiting the founding measurements that would convert it from speculative mechanism into inferable law—rather than a Newton-analogue theory awaiting refinement.
 

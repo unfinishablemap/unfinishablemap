@@ -23,12 +23,12 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Conflated wikilink**: `[representationalist](/concepts/phenomenal-consciousness/)` linked to phenomenal-consciousness but displayed as "representationalist" — phenomenal-consciousness is not about representationalism. **Resolution**: Removed misleading wikilink, kept plain text "representationalist."
+- **Conflated wikilink**: `[[phenomenal-consciousness|representationalist]]` linked to phenomenal-consciousness but displayed as "representationalist" — phenomenal-consciousness is not about representationalism. **Resolution**: Removed misleading wikilink, kept plain text "representationalist."
 - **Unused reference**: Fox et al. (2012) was listed as Reference 1 but never cited in the text. **Resolution**: Integrated into the "What Makes It Distinct" section to anchor the claim that contemplative training refines introspective accuracy.
 
 ### Medium Issues Found
 - **Husserl reference uncited**: Reference 2 (Husserl 1913/1983) was listed but not referenced. **Resolution**: Added brief anchoring mention in the "What Makes It Distinct" section.
-- **Missing cross-links**: No links to `[introspection](/concepts/introspection/)` or `[altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)` despite relevant content. **Resolution**: Added both cross-links in natural context.
+- **Missing cross-links**: No links to `[[introspection]]` or `[[altered-states-of-consciousness]]` despite relevant content. **Resolution**: Added both cross-links in natural context.
 - **No engagement with heterophenomenology**: The article discussed trained observation and reporting without addressing Dennett's challenge that reports show beliefs, not realities. **Resolution**: Added "The heterophenomenological challenge" paragraph in Limitations section with the Map's response.
 - **Typo**: "koanic inquiry" → "koan inquiry." **Resolution**: Fixed.
 
@@ -51,7 +51,7 @@ topics: []
 - Integrated Fox et al. (2012) citation into the text, strengthening the empirical grounding
 - Anchored Husserl reference to establish methodological lineage
 - Added heterophenomenology engagement in Limitations for a more complete defensive position
-- Added cross-links to `[introspection](/concepts/introspection/)` and `[altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)`
+- Added cross-links to `[[introspection]]` and `[[altered-states-of-consciousness]]`
 - Split overlong opening paragraph for readability
 
 ### Cross-links Added

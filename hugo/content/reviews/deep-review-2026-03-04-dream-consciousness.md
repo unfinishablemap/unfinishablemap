@@ -48,8 +48,8 @@ topics: []
 ### Enhancements Made
 - Added Voss et al. (2014) causal evidence for gamma-lucidity link
 - Added phenomenal/access consciousness dissociation insight with cross-reference
-- Added `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` and `[access-consciousness](/concepts/access-consciousness/)` to concepts
-- Added `[dreams-as-consciousness-laboratory](/topics/dream-consciousness/)` cross-link in frontmatter and Further Reading
+- Added `[[phenomenal-consciousness]]` and `[[access-consciousness]]` to concepts
+- Added `[[dreams-as-consciousness-laboratory]]` cross-link in frontmatter and Further Reading
 - Tightened prose in five locations to maintain length neutrality (production models section, "Why Dreams Might Solve" section, contemplative connections, two-way communication, Type-B physicalist passage)
 
 ### Cross-links Added

@@ -29,11 +29,11 @@ This review was triggered by the archived article remaining flagged as orphaned.
 
 ### Critical Issues Found
 
-- **2 stale links to `measurement-problem-as-hard-problem` in active content**: `hard-problem-of-consciousness` (line 149) and `consciousness-and-the-problem-of-measurement-standards` (line 109) still used the archived slug. **Resolution**: Updated both to `[the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)`.
+- **2 stale links to `measurement-problem-as-hard-problem` in active content**: `hard-problem-of-consciousness` (line 149) and `consciousness-and-the-problem-of-measurement-standards` (line 109) still used the archived slug. **Resolution**: Updated both to `[[the-measurement-problem-as-philosophical-problem]]`.
 
-- **4 stale links to `consciousness-and-quantum-measurement` in active content**: A second archived article's slug persisted in `history-of-interactionist-dualism` (line 89), `stapp-quantum-mind` (line 113), `prebiotic-collapse` (line 97), and `multi-mind-collapse-problem` (Further Reading). **Resolution**: Updated all 4 to `[the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)` (the content describes the hard-problem/measurement-problem structural parallel, which is the successor's domain).
+- **4 stale links to `consciousness-and-quantum-measurement` in active content**: A second archived article's slug persisted in `history-of-interactionist-dualism` (line 89), `stapp-quantum-mind` (line 113), `prebiotic-collapse` (line 97), and `multi-mind-collapse-problem` (Further Reading). **Resolution**: Updated all 4 to `[[the-measurement-problem-as-philosophical-problem]]` (the content describes the hard-problem/measurement-problem structural parallel, which is the successor's domain).
 
-- **Stale link in `quantum-consciousness` body and Further Reading**: Line 54 used `[...](/topics/quantum-measurement-consciousness-interface/)` and line 199 used `[consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/)`. **Resolution**: Both updated to `[the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)`.
+- **Stale link in `quantum-consciousness` body and Further Reading**: Line 54 used `[[consciousness-and-quantum-measurement|...]]` and line 199 used `[[consciousness-and-quantum-measurement]]`. **Resolution**: Both updated to `[[the-measurement-problem-as-philosophical-problem]]`.
 
 ### Medium Issues Found
 
@@ -72,7 +72,7 @@ The successor article (`the-measurement-problem-as-philosophical-problem`) remai
 ## Remaining Items
 
 - `consciousness-and-probability-interpretation` was listed as a Tier B candidate but does not exist as a file. No action needed.
-- Additional stale `[consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/)` references exist in review/workflow files but these are historical records and should not be updated.
+- Additional stale `[[consciousness-and-quantum-measurement]]` references exist in review/workflow files but these are historical records and should not be updated.
 
 ## Stability Notes
 

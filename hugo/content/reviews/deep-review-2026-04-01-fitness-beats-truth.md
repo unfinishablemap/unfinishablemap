@@ -26,7 +26,7 @@ topics: []
 None. The article is clean after the previous review's corrections.
 
 ### Medium Issues Found
-- **Orphan status (0 inbound wikilinks from content articles besides probability-intuition-void)**: Seven articles mentioned "Fitness-Beats-Truth" by name without wikilinks to the concept page. Resolution: added `[Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/)` wikilinks to all seven articles.
+- **Orphan status (0 inbound wikilinks from content articles besides probability-intuition-void)**: Seven articles mentioned "Fitness-Beats-Truth" by name without wikilinks to the concept page. Resolution: added `[[fitness-beats-truth|Fitness-Beats-Truth theorem]]` wikilinks to all seven articles.
 - **Missing cross-links in Further Reading**: Article lacked connections to adaptive-cognitive-limits and perceptual-degradation-and-the-interface despite deep thematic overlap. Resolution: added both to related_articles frontmatter and Further Reading section.
 
 ### Counterarguments Considered
@@ -59,7 +59,7 @@ None. The article is clean after the previous review's corrections.
 ### Enhancements Made
 - Added adaptive-cognitive-limits to related_articles and Further Reading
 - Added perceptual-degradation-and-the-interface to related_articles and Further Reading
-- Added inbound `[fitness-beats-truth](/concepts/fitness-beats-truth/)` wikilinks from 7 articles that mentioned FBT by name without linking
+- Added inbound `[[fitness-beats-truth]]` wikilinks from 7 articles that mentioned FBT by name without linking
 
 ### Cross-links Added (inbound)
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) (line 86: section heading reference)

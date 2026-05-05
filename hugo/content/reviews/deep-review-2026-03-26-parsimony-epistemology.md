@@ -31,7 +31,7 @@ Article was substantially revised since last review: coalesced from 3 parsimony 
 
 ### Medium Issues Found
 - **Von Neumann attribution slightly overstated** (line 129): "Von Neumann showed that adding consciousness to the ontology... may actually *simplify* explanation" understated what von Neumann actually demonstrated (the mathematical cut placement flexibility). Resolution: expanded to clarify the proof about the mathematical "cut" between observer and observed, making the attribution more precise.
-- **Missing cross-link to causal-closure**: The Triple Failure section discusses physicalism's explanatory failure but didn't link to the causal closure concept, which is directly relevant. Resolution: added `[causal-closure](/concepts/causal-closure/)` link in context and to related_articles.
+- **Missing cross-link to causal-closure**: The Triple Failure section discusses physicalism's explanatory failure but didn't link to the causal closure concept, which is directly relevant. Resolution: added `[[causal-closure]]` link in context and to related_articles.
 
 ### Counterarguments Considered
 - All six adversarial personas engaged. No content-level critical issues identified.

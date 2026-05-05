@@ -30,7 +30,7 @@ This review focused on cleanup rather than content analysis, since the article c
 
 ### Critical Issues Found
 - **Orphaned hugo/content file**: `hugo/content/topics/phenomenology-of-inferential-understanding.md` existed without a corresponding obsidian source. The article was coalesced on 2026-02-22 but the hugo/content copy was not removed. **Resolution**: Deleted the orphaned file.
-- **5 stale wikilinks**: Five active obsidian articles still referenced `[phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/)` instead of the replacement article. **Resolution**: Updated all references (see details below).
+- **5 stale wikilinks**: Five active obsidian articles still referenced `[[phenomenology-of-inferential-understanding]]` instead of the replacement article. **Resolution**: Updated all references (see details below).
 
 ### Medium Issues Found
 - **Missing cross-link in argument-from-reason.md**: This article discusses "seeing why," cognitive phenomenology of inference, and the felt character of reasoning — all core topics of the coalesced parent article — but had no link to `phenomenology-of-understanding`. **Resolution**: Added cross-link in frontmatter, body text, and Further Reading.

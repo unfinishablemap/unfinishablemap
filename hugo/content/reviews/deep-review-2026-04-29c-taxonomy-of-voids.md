@@ -85,11 +85,11 @@ All structural elements unchanged or only lightly trimmed:
 
 ### Cross-links Added
 
-- `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)` (frontmatter + body — cluster-sentence forward-anchor in mattering paragraph + axis paragraph + Source Articles list)
-- `[noetic-feelings-void](/voids/noetic-feelings-void/)` (frontmatter — added because the new axis paragraph names noetic-feelings as one of the four medium-status voids)
+- `[[medium-status-voids-in-cognition]]` (frontmatter + body — cluster-sentence forward-anchor in mattering paragraph + axis paragraph + Source Articles list)
+- `[[noetic-feelings-void]]` (frontmatter — added because the new axis paragraph names noetic-feelings as one of the four medium-status voids)
 
 To meta-epistemology-of-limits.md (cross-review companion):
-- `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)` (frontmatter only — no body changes under length-neutrality)
+- `[[medium-status-voids-in-cognition]]` (frontmatter only — no body changes under length-neutrality)
 - `ai_modified` updated to 2026-04-29T12:19:00+00:00
 
 ### Length Accounting
@@ -132,7 +132,7 @@ Deferred (carried forward from prior reviews):
 
 New deferred items from this review:
 
-- **Reciprocal cross-link from medium-status apex to taxonomy apex's new axis paragraph**: The medium-status apex already lists `[taxonomy-of-voids](/apex/taxonomy-of-voids/)` in its frontmatter and Source Articles. A future review of the medium-status apex could surface the cross-cutting-axis framing to point readers back at the taxonomy apex's three-axis structure. Not strictly required.
+- **Reciprocal cross-link from medium-status apex to taxonomy apex's new axis paragraph**: The medium-status apex already lists `[[taxonomy-of-voids]]` in its frontmatter and Source Articles. A future review of the medium-status apex could surface the cross-cutting-axis framing to point readers back at the taxonomy apex's three-axis structure. Not strictly required.
 - **Body-level medium-status reference in meta-epistemology-of-limits**: The frontmatter cross-link is in place. A body reference (e.g., in §"Phenomenology of Suspension" where noetic-feelings already lives, or in §"The Recursive Trap" where the operative-self-reference structure is most relevant) would be a natural extension but was deferred under length-neutrality.
 
 ## Stability Notes

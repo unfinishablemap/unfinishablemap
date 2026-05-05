@@ -28,7 +28,7 @@ None. The previous review's critical issues (5 fabricated citations, overstated 
 
 ### Medium Issues Found
 
-1. **Duplicate `[decoherence](/concepts/decoherence/)` in frontmatter concepts list**: The concept appeared twice (lines 15 and 17 of original).
+1. **Duplicate `[[decoherence]]` in frontmatter concepts list**: The concept appeared twice (lines 15 and 17 of original).
    - **Resolution**: Removed duplicate entry.
 
 2. **Orphan status — zero inbound links**: No article on the entire site linked to neural-implementation-specifics, making it undiscoverable through navigation. This was the primary focus of this review.
@@ -72,8 +72,8 @@ All citations verified as correct in the 2026-02-08 review. No new content has b
 
 ### Enhancements Made
 
-1. Removed duplicate `[decoherence](/concepts/decoherence/)` from frontmatter concepts
-2. Added `[comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)` to Further Reading section
+1. Removed duplicate `[[decoherence]]` from frontmatter concepts
+2. Added `[[comparing-quantum-consciousness-mechanisms]]` to Further Reading section
 3. Added inbound links from 6 related articles to resolve orphan status
 4. Updated ai_modified and last_deep_review timestamps
 

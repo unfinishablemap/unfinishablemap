@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **Broken wikilinks to coalesced article**: The article linked to `[self-locating-beliefs](/concepts/indexical-knowledge-and-identity/)` in two places (one with section anchor, one standalone) but `self-locating-beliefs` was coalesced into `indexical-knowledge-and-identity` in February. **Resolution**: Updated both links to point to `indexical-knowledge-and-identity`.
+1. **Broken wikilinks to coalesced article**: The article linked to `[[self-locating-beliefs]]` in two places (one with section anchor, one standalone) but `self-locating-beliefs` was coalesced into `indexical-knowledge-and-identity` in February. **Resolution**: Updated both links to point to `indexical-knowledge-and-identity`.
 
 ### Medium Issues Found
 1. **Unattributed quote in MWI section**: A passage presented in quotation marks ("it is inherently clear who 'I' refers to...") lacked attribution to any specific author. **Resolution**: Reformulated as direct prose rather than a quote, preserving the philosophical point without false attribution.

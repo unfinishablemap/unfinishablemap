@@ -28,7 +28,7 @@ topics: []
 - None
 
 ### Medium Issues Found
-- **Missing cross-link to new neighbor**: `[anesthesia-void](/voids/anesthesia-void/)` was published 2026-04-17 (after the previous deep review). It is a directly adjacent disappearance void absent from related_articles, Further Reading, and the body. Resolution: added in all three places.
+- **Missing cross-link to new neighbor**: `[[anesthesia-void]]` was published 2026-04-17 (after the previous deep review). It is a directly adjacent disappearance void absent from related_articles, Further Reading, and the body. Resolution: added in all three places.
 - **Outdated treatment of anesthesia evidence**: The Fatigue section described anesthesia as a "parallel hierarchy" — accurate for the simple switch picture but superseded by the three-states taxonomy (unconsciousness, disconnected consciousness, connected consciousness) developed in the new neighbor article. Resolution: rewrote the anesthesia paragraph to introduce the three-states taxonomy and reframe convergence as evidence of dissociable couplings rather than a unified hierarchy.
 - **Site Perspective claim under-specified**: The Dualism section said anesthesia evidence supports "a dissociation harder to explain as straightforward neural hierarchy" without giving the alternative. Resolution: revised to "harder to explain as a single neural hierarchy than as dissociable couplings" and linked to anesthesia-void.
 

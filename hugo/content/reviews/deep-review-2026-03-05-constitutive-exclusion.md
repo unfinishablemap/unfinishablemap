@@ -27,7 +27,7 @@ topics: []
 - **Wheeler observer quote misattributed**: "The observer is not only passive, but the observer in certain situations makes reality happen" is from Anton Zeilinger describing Wheeler, not Wheeler himself. Resolution: replaced with Wheeler's own "no phenomenon is a phenomenon until it is an observed phenomenon."
 - **Heidegger quote was a paraphrase**: "not something that we can simply transcend or overcome, but is an inherent aspect of our existence" is from a secondary source (PHILO-notes), not Heidegger's text. Resolution: removed quotation marks, rephrased as description.
 - **Merleau-Ponty "active and constitutive dimension"**: Could not verify as a direct quote. Resolution: rephrased without quotation marks.
-- **Three broken wikilinks**: `[causal-interface](/voids/causal-interface/)`, `[consciousness-only-territories](/voids/consciousness-only-territories/)`, `[philosophy-of-mind](/concepts/philosophy-of-mind/)` point to non-existent files. Resolution: replaced with existing articles.
+- **Three broken wikilinks**: `[[causal-interface]]`, `[[consciousness-only-territories]]`, `[[philosophy-of-mind]]` point to non-existent files. Resolution: replaced with existing articles.
 
 ### Medium Issues Found
 - **Putnam quote minor wording**: Missing "the" — should be "the mind and the world." Resolution: corrected to match source.
@@ -52,7 +52,7 @@ topics: []
 - Attribution accuracy improved across all six philosopher summaries
 - Added Wheeler 1990 reference for "It from Bit" doctrine
 - Replaced broken links with existing articles
-- Replaced `[philosophy-of-mind](/concepts/philosophy-of-mind/)` topic with `against-materialism` in frontmatter
+- Replaced `[[philosophy-of-mind]]` topic with `[[against-materialism]]` in frontmatter
 
 ### Cross-links Added
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (replaced broken links)

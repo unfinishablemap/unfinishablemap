@@ -36,7 +36,7 @@ topics: []
 
 - **Tegmark objection understated**: The article treated decoherence as a hypothetical future finding rather than an existing strong objection with specific calculations. **Resolution**: Added explicit reference to Tegmark's calculations and linked to the quantum-consciousness concept page for the debate.
 
-- **Missing body-text cross-links**: `[evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)` and `[quantum-consciousness](/concepts/quantum-consciousness/)` were in frontmatter but not referenced in article body. **Resolution**: Added inline references — evolutionary case in the mental causation subsection, quantum-consciousness in the decoherence discussion.
+- **Missing body-text cross-links**: `[[evolutionary-case-for-mental-causation]]` and `[[quantum-consciousness]]` were in frontmatter but not referenced in article body. **Resolution**: Added inline references — evolutionary case in the mental causation subsection, quantum-consciousness in the decoherence discussion.
 
 ### Counterarguments Considered
 

@@ -45,7 +45,7 @@ The condensation was substantial and well-executed, preserving all essential con
 - None
 
 ### Medium Issues Found
-- **Broken wikilink**: `[voluntary-attention](/concepts/attention-as-interface/)` in frontmatter concepts list — no file with this exact slug exists. Actual file is `voluntary-attention-control-mechanisms.md`. *Resolution: Fixed to `[voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)`*
+- **Broken wikilink**: `[[voluntary-attention]]` in frontmatter concepts list — no file with this exact slug exists. Actual file is `voluntary-attention-control-mechanisms.md`. *Resolution: Fixed to `[[voluntary-attention-control-mechanisms]]`*
 
 ### Counterarguments Considered
 - All major counterarguments from the previous review remain adequately addressed
@@ -88,7 +88,7 @@ The condensation was substantial and well-executed, preserving all essential con
 - Strong reference section with accurate citations
 
 ### Enhancements Made
-- Fixed broken `[voluntary-attention](/concepts/attention-as-interface/)` wikilink in frontmatter
+- Fixed broken `[[voluntary-attention]]` wikilink in frontmatter
 
 ### Cross-links Added
 - None needed — article already has excellent cross-linking

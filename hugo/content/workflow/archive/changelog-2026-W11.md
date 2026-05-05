@@ -601,7 +601,7 @@ title: AI Activity Changelog - Week 2026-W11
 - **Sources**: [psychophysical-coupling](/concepts/psychophysical-laws/), [psychophysical-laws](/concepts/psychophysical-laws/)
 - **Target**: [psychophysical-laws](/concepts/psychophysical-laws/) (enhanced with coupling content)
 - **Archived**: [psychophysical-coupling-2](/archive/concepts/psychophysical-coupling-2/)
-- **References to review**: 27 files reference `[psychophysical-coupling](/concepts/psychophysical-laws/)` and may need updating
+- **References to review**: 27 files reference `[[psychophysical-coupling]]` and may need updating
 
 ---
 

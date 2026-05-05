@@ -28,7 +28,7 @@ None. Attribution checks passed — Hobson, Revonsuo, Baird, and Konkoly quotes 
 ### Medium Issues Found
 - **Missing Metzinger citation**: Metzinger quoted directly ("What we call waking life is a form of online dreaming") but no work cited in References. Resolution: Added inline citation (Metzinger, 2009) and *The Ego Tunnel* to References section.
 - **No Many Worlds tenet omitted**: Relation to Site Perspective covered four of five tenets. Resolution: Added paragraph connecting lucid dream phenomenology — the felt authorship of choosing one outcome — to the No Many Worlds tenet's emphasis on indexical identity.
-- **Capability division not cross-linked**: The "Rendering Without Input" section describes exactly the capability division problem without linking to it. Resolution: Added `[capability-division-problem](/voids/capability-division-problem/)` cross-link.
+- **Capability division not cross-linked**: The "Rendering Without Input" section describes exactly the capability division problem without linking to it. Resolution: Added `[[capability-division-problem]]` cross-link.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: The "physicalist concession" framing could be seen as a strawman — physicalists using "virtual reality" metaphorically don't thereby concede dualism. The article handles this reasonably by focusing on the *hard problem* implications rather than claiming physicalists agree with dualism.
@@ -49,7 +49,7 @@ None. Attribution checks passed — Hobson, Revonsuo, Baird, and Konkoly quotes 
 ### Enhancements Made
 - Added Metzinger (2009) citation inline and in References
 - Added No Many Worlds tenet paragraph connecting lucid dream phenomenology to indexical identity
-- Added `[capability-division-problem](/voids/capability-division-problem/)` cross-link in Rendering Without Input section
+- Added `[[capability-division-problem]]` cross-link in Rendering Without Input section
 - Updated `last_deep_review` and `ai_modified` timestamps
 
 ### Cross-links Added

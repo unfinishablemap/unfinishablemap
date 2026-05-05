@@ -43,7 +43,7 @@ All attributions verified:
 2. **Opening paragraph redundancy**: "information is no longer treated as a description" restated as "treats information not as a description." Resolution: Merged into single sentence, eliminating the redundant first clause.
 3. **"completed the picture"** overstated quantum information theory's finality: Resolution: Changed to "extended the framework further."
 4. **"most physicists have not followed to their conclusion"** implied awareness rather than disagreement: Resolution: Changed to "most physicists either overlook or reject."
-5. **Missing frontmatter concept**: `[adaptive-computational-depth](/concepts/adaptive-computational-depth/)` linked in body but absent from concepts list. Resolution: Added to concepts.
+5. **Missing frontmatter concept**: `[[adaptive-computational-depth]]` linked in body but absent from concepts list. Resolution: Added to concepts.
 
 ### Low Issues Found
 
@@ -80,7 +80,7 @@ No new counterarguments requiring response were identified.
 - Removed redundancy in opening paragraph
 - Softened "completed the picture" to accurate "extended the framework further"
 - Changed "not followed to their conclusion" to "either overlook or reject" (more honest)
-- Added `[adaptive-computational-depth](/concepts/adaptive-computational-depth/)` to frontmatter concepts
+- Added `[[adaptive-computational-depth]]` to frontmatter concepts
 - Reframed ACD as hypothesis rather than logical consequence
 
 ### Cross-links Added

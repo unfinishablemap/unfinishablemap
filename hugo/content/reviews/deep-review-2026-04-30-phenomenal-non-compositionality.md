@@ -55,7 +55,7 @@ None. The article is in stable form following the 2026-03-24 deep review and 202
 - William James's mind-dust paragraph distinguishing functional from phenomenal composition
 
 ### Enhancements Made
-- Added cross-link to `[metaphysics-of-composition](/concepts/metaphysics-of-composition/)` concept page (the SCQ concept page that links back here — bidirectional connection now established)
+- Added cross-link to `[[metaphysics-of-composition]]` concept page (the SCQ concept page that links back here — bidirectional connection now established)
 - Tightened Coleman attribution to clearly separate his argument from the Map's generalization
 - Removed stale HTML refinement-log comment
 

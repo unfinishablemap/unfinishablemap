@@ -66,7 +66,7 @@ None requiring action beyond the cross-review finding above.
 - Removed the fourth, redundant pain-quality example ("throbbing pain triggers different self-care behaviours than stabbing pain").
 
 ### Cross-links Added
-- Second `[pain-asymbolia](/concepts/pain-asymbolia/)` link with anchor text emphasizing the compound-property reading.
+- Second `[[pain-asymbolia]]` link with anchor text emphasizing the compound-property reading.
 
 ## Remaining Items
 

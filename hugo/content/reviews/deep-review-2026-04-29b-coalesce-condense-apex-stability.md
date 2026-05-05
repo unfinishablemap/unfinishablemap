@@ -76,7 +76,7 @@ Three hubs were intentionally not given reciprocal links: `apex.md` is a 22-line
 ## Remaining Items
 
 - The `description` field length flag from the morning review (~187 chars vs. 150–160 target) remains; not addressed because the description is content-accurate and the cost of trimming is greater than the benefit at this stage.
-- The `concepts:` frontmatter listing of `[conjunction-coalesce](/apex/conjunction-coalesce/)` (which is filed under `apex/`) remains; the wikilink resolves correctly and the convention treats `concepts` frontmatter as a "related concepts" pointer rather than a path-strict claim.
+- The `concepts:` frontmatter listing of `[[conjunction-coalesce]]` (which is filed under `apex/`) remains; the wikilink resolves correctly and the convention treats `concepts` frontmatter as a "related concepts" pointer rather than a path-strict claim.
 
 ## Stability Notes
 

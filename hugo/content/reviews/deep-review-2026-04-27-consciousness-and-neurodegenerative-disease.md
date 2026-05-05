@@ -28,7 +28,7 @@ None. All previously identified critical issues remain resolved (fabricated Mash
 
 ### Medium Issues Found
 
-- **Inconsistent wikilink style**: Line 119 used `[epiphenomenal](/concepts/epiphenomenalism/)` with explicit directory prefix while every other concept reference in the article uses bare basenames. **Resolution**: Normalised to `[epiphenomenal](/concepts/epiphenomenalism/)` for consistency with the rest of the article.
+- **Inconsistent wikilink style**: Line 119 used `[[concepts/epiphenomenalism|epiphenomenal]]` with explicit directory prefix while every other concept reference in the article uses bare basenames. **Resolution**: Normalised to `[[epiphenomenalism|epiphenomenal]]` for consistency with the rest of the article.
 
 ### Counterarguments Considered
 
@@ -54,7 +54,7 @@ None. All previously identified critical issues remain resolved (fabricated Mash
 
 ### Enhancements Made
 
-- **Wikilink consistency fix**: Single normalisation of `[...](/concepts/epiphenomenalism/)` to bare-basename form. No content additions — the article is at 2716 words (91% of soft threshold), and existing content quality does not warrant expansion.
+- **Wikilink consistency fix**: Single normalisation of `[[concepts/epiphenomenalism|...]]` to bare-basename form. No content additions — the article is at 2716 words (91% of soft threshold), and existing content quality does not warrant expansion.
 
 ### Cross-links Added
 

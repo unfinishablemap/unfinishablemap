@@ -93,7 +93,7 @@ On terminal lucidity: Nagarjuna would note that the phenomenon is equally compat
 ### Issue 4: Bridge Article's "Delegatory Dualism" Wikilink to Nonexistent Page
 
 - **File**: apex/phenomenology-mechanism-bridge.md
-- **Location**: Level Four, `[delegatory dualism](/topics/delegatory-dualism/)`
+- **Location**: Level Four, `[[delegatory-dualism|delegatory dualism]]`
 - **Problem**: The wikilink targets a page that does not exist ([concepts/delegatory-dualism.md](/topics/delegatory-dualism/)). This will produce a broken link after sync.
 - **Severity**: Low
 - **Recommendation**: Either create a concept page for delegatory dualism or remove the wikilink and use plain text.

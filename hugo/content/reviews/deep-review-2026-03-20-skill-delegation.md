@@ -46,7 +46,7 @@ topics: []
 
 ### Enhancements Made
 - Strengthened "Learning Curves" section with phenomenological argument and explicit qualification
-- Added inline link to `[conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)` (was in frontmatter concepts but unused)
+- Added inline link to `[[conscious-vs-unconscious-processing]]` (was in frontmatter concepts but unused)
 
 ### Cross-links Added (Primary Focus)
 Inbound links added from 6 articles to resolve orphan status:

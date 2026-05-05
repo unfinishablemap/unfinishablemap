@@ -26,7 +26,7 @@ topics: []
 None.
 
 ### Medium Issues Found
-- **Orphan frontmatter entries**: `[semantic-memory](/concepts/semantic-memory/)` and `[motor-selection](/concepts/motor-selection/)` listed in frontmatter concepts but never referenced in article body. → Removed both from frontmatter.
+- **Orphan frontmatter entries**: `[[semantic-memory]]` and `[[motor-selection]]` listed in frontmatter concepts but never referenced in article body. → Removed both from frontmatter.
 
 ### Low Issues Found
 None.

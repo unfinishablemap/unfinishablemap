@@ -26,7 +26,7 @@ topics: []
 None. Article remains stable after five reviews. No attribution errors, factual issues, internal contradictions, or source/Map conflation.
 
 ### Medium Issues Found
-- **Duplicate Further Reading entries**: Two separate entries both linked to `[quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)` with different display text ("quantum biology" and "quantum neural mechanisms") and different descriptions. Confusing for both humans and LLMs. **Resolution**: Merged into a single entry with consolidated description.
+- **Duplicate Further Reading entries**: Two separate entries both linked to `[[quantum-biology-and-neural-mechanisms]]` with different display text ("quantum biology" and "quantum neural mechanisms") and different descriptions. Confusing for both humans and LLMs. **Resolution**: Merged into a single entry with consolidated description.
 
 ### Low Issues Found
 - **Missing cross-link to new content**: The stochastic-amplification-and-neural-selection article (created 2026-03-29) is directly relevant to the "Stochastic Search and Decision-Making" section but was not yet cross-linked. **Resolution**: Added inline cross-reference and Further Reading entry.

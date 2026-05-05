@@ -33,7 +33,7 @@ The article was re-synthesized on 2026-04-17 (per `apex_last_synthesis`) and las
 ### Medium Issues Found
 
 - **2017 split-brain finding uncited (line 84)**: Body referenced "2017 findings that patients can report shapes presented to either field" without inline citation. Source [topics/split-brain-consciousness.md](/topics/split-brain-consciousness/) cites Pinto et al. (2017) for this claim. **Resolution**: Changed to "Pinto et al. (2017) found that patients can report shapes presented to either field" and added the reference to the bibliography.
-- **Process haecceitism mentioned without link (line 120)**: The previous review (2026-03-12) added `[process-haecceitism](/concepts/haecceity/)` as a cross-link, but the concept article was subsequently archived (2026-04-04, coalesced into `[haecceity](/concepts/haecceity/)`). The 2026-04-17 re-synthesis dropped the link entirely, leaving the term unlinked. **Resolution**: Updated to `[process haecceitism](/concepts/haecceity/#process-haecceitism)`, pointing to the dedicated section in the superseding article.
+- **Process haecceitism mentioned without link (line 120)**: The previous review (2026-03-12) added `[[process-haecceitism]]` as a cross-link, but the concept article was subsequently archived (2026-04-04, coalesced into `[[haecceity]]`). The 2026-04-17 re-synthesis dropped the link entirely, leaving the term unlinked. **Resolution**: Updated to `[[haecceity#process-haecceitism|process haecceitism]]`, pointing to the dedicated section in the superseding article.
 
 ### Low Issues Found
 
@@ -47,7 +47,7 @@ The article was re-synthesized on 2026-04-17 (per `apex_last_synthesis`) and las
 - **Miller et al. 2025 PNAS** (line 86–87): Reference 2 in bibliography correctly cites this; verified against `split-brain-consciousness.md`.
 - **Bodien et al. 2024 NEJM** (line 104): Reference 3 verified; consistent with `consciousness-disruption-and-the-mind-brain-interface.md`.
 - **Nagel 1971** (line 82): Verified against `split-brain-consciousness.md`.
-- **Process haecceitism** (line 120): Now correctly linked to `[haecceity](/concepts/haecceity/#process-haecceitism)`. The Map's process-haecceitism content lives in the haecceity article since the 2026-04-04 coalescence.
+- **Process haecceitism** (line 120): Now correctly linked to `[[haecceity#process-haecceitism]]`. The Map's process-haecceitism content lives in the haecceity article since the 2026-04-04 coalescence.
 - **Filter theory, autonoetic consciousness, three dimensions of phenomenal unity, MWI self-locating uncertainty**: All previously verified and unchanged since 2026-03-12 review.
 - No misattributions, dropped qualifiers, position overstatements, or source/Map conflation found in the article body. Reference list is the only attribution defect, now repaired.
 
@@ -72,12 +72,12 @@ All major counterarguments from previous reviews remain well-addressed: eliminat
 
 - Fixed Mashour citation (correct 2023 BJA Open paper for three-states taxonomy)
 - Added Pinto et al. (2017) inline citation for the 2017 split-brain findings
-- Restored process haecceitism cross-link via `[haecceity](/concepts/haecceity/#process-haecceitism)` anchor (the originally-linked `[process-haecceitism](/concepts/haecceity/)` article was archived/coalesced)
+- Restored process haecceitism cross-link via `[[haecceity#process-haecceitism]]` anchor (the originally-linked `[[process-haecceitism]]` article was archived/coalesced)
 - Added two missing references to bibliography (Mashour 2023 BJA Open, Pinto et al. 2017)
 
 ### Cross-links Added
 
-- `[process haecceitism](/concepts/haecceity/#process-haecceitism)` (replacing the dropped link, using anchored target since standalone article was archived)
+- `[[haecceity#process-haecceitism|process haecceitism]]` (replacing the dropped link, using anchored target since standalone article was archived)
 
 ## Word Count
 

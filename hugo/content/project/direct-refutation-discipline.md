@@ -177,7 +177,7 @@ The following editor-vocabulary terms must not appear in article prose. They bel
 - `mode-mixed` / `mixed-with-distinct-roles`
 - `tenet-register move`
 - `Engagement classification:`
-- `per [direct-refutation-discipline](/project/direct-refutation-discipline/)` (as a meta-commentary parenthetical in prose)
+- `per [[direct-refutation-discipline]]` (as a meta-commentary parenthetical in prose)
 - Bold-headed `**Evidential status:**` callouts (see [the writing-style guide](/project/writing-style/) for evidence-calibration in prose)
 
 `/pessimistic-review` flags any of these as a critical issue when found in article prose; `/refine-draft` and `/deep-review` are responsible for not introducing them.

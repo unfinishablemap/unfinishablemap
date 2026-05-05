@@ -70,7 +70,7 @@ Nagarjuna would challenge both articles' unexamined assumption of a unified self
 ### Issue 4: Unsupported Claim About Dream Consciousness
 - **File**: [concepts/higher-order-theories.md](/concepts/higher-order-theories/)
 - **Location**: "Dreaming Without Metacognition" section
-- **Problem**: The article links to `[dream-consciousness](/topics/dream-consciousness/)` but the claim that non-lucid dreams involve "vivid conscious experience without recognizing that we're dreaming" is more contested than presented. Some researchers argue dream consciousness is degraded or different in kind from waking consciousness. This is presented as an unproblematic counterexample to HOT.
+- **Problem**: The article links to `[[dream-consciousness]]` but the claim that non-lucid dreams involve "vivid conscious experience without recognizing that we're dreaming" is more contested than presented. Some researchers argue dream consciousness is degraded or different in kind from waking consciousness. This is presented as an unproblematic counterexample to HOT.
 - **Severity**: Low
 - **Recommendation**: Acknowledge that the nature of dream consciousness is itself debated, which somewhat weakens its force as a counterexample.
 

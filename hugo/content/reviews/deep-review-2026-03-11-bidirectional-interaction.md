@@ -40,7 +40,7 @@ Attribution accuracy check passed:
 
 1. **Unattributed "~1000 observations per 300ms window" claim**: This quantitative figure appeared without attribution. Known site-wide issue — the figure comes from Stapp (2007) but lacks a specific page number (flagged in reviews of comparing-quantum-consciousness-mechanisms). **Resolution**: Added "Stapp estimates" qualifier to attribute the figure.
 
-2. **Free will absent from body despite frontmatter topic listing**: `[free-will](/topics/free-will/)` appeared in frontmatter topics but was never discussed in the article body. **Resolution**: Added one sentence in Relation to Site Perspective connecting bidirectional interaction to free will through quantum indeterminacy.
+2. **Free will absent from body despite frontmatter topic listing**: `[[topics/free-will]]` appeared in frontmatter topics but was never discussed in the article body. **Resolution**: Added one sentence in Relation to Site Perspective connecting bidirectional interaction to free will through quantum indeterminacy.
 
 ### Counterarguments Considered
 

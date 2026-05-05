@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - **Eliminativism application too thin**: The original treated eliminativism in two sentences, dismissing the successor-vocabulary response without engaging it. **Resolution**: Expanded to acknowledge the crude objection, explain why eliminativists can parry it, then identify the deeper self-defeat targeting normative residue in any successor framework.
 - **Missing functionalist response**: The Responses section had no engagement with functionalism—the most common physicalist reply to self-defeat arguments. **Resolution**: Added "The Functionalist Reply" subsection presenting the functional-organisation argument and its dilemma (descriptive vs. constitutive normativity).
-- **Missing cross-link from self-stultification.md**: The parent concept page did not link back to epistemic-self-defeat. **Resolution**: Added `[epistemic-self-defeat](/concepts/self-stultification/)` to self-stultification's concepts frontmatter.
+- **Missing cross-link from self-stultification.md**: The parent concept page did not link back to epistemic-self-defeat. **Resolution**: Added `[[epistemic-self-defeat]]` to self-stultification's concepts frontmatter.
 
 ### Low Issues Found
 - Reppert (2003) cited in References but never referenced in body text. Retained as relevant further reading for the argument-from-reason connection.

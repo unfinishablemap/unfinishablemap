@@ -81,8 +81,8 @@ All strengths from prior reviews remain intact: front-loaded thesis paragraph, e
 ### Cross-links Added
 
 In this article (forward links):
-- Two body-text wikilinks to `[closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/)` (intro paragraph 2, "Honest Limitations" section)
-- Two body-text wikilinks to `[bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/)` (intro paragraph 2, Further Reading)
+- Two body-text wikilinks to `[[closed-loop-opportunity-execution]]` (intro paragraph 2, "Honest Limitations" section)
+- Two body-text wikilinks to `[[bedrock-clash-vs-absorption]]` (intro paragraph 2, Further Reading)
 - Frontmatter `related_articles` entries for both
 
 Reciprocal links from the cousin articles (already present, audited):

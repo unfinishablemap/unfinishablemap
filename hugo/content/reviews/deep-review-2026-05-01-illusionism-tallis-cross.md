@@ -46,7 +46,7 @@ The other five adversarial personas re-engaged briefly. None identified new crit
 
 - **Tallis (2024)**: quote preserved verbatim in quotation marks ("Misrepresentation presupposes presentation"). The new dialectical caveat is clearly the Map's framing, not Tallis's — phrased as "The bare regress as stated assumes..." rather than as a Tallis claim. Source/Map separation is clean.
 - **Frankish reply**: characterised as "Frankish replies that a system can represent itself as phenomenally conscious without any phenomenal consciousness existing." This is faithful to Frankish (2016, 2021): quasi-phenomenal properties and the disposition-to-judge framing appear in both papers. No dropped qualifiers; "without any phenomenal consciousness existing" matches Frankish's strong eliminativist commitment.
-- **Forward-references** to in-document anchors (`[below](#the-illusionist-response-functional-seeming)` and `[five objections](#where-the-functional-account-falls-short)`) follow the Map's intra-document-anchor convention used in [topics/ai-consciousness.md](/topics/ai-consciousness/) and [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/) (verified by ripgrep before writing).
+- **Forward-references** to in-document anchors (`[[#The Illusionist Response Functional Seeming|below]]` and `[[#Where the Functional Account Falls Short|five objections]]`) follow the Map's intra-document-anchor convention used in [topics/ai-consciousness.md](/topics/ai-consciousness/) and [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/) (verified by ripgrep before writing).
 - All previously verified attributions preserved (Frankish, Dennett, Graziano, Chalmers, Loginov, Pereboom, Kammerer, Strawson, Tallis, Hutto and Myin, Boghossian).
 - No self-contradiction. The new caveat is consistent with the article's existing "The functional-seeming move is the best version of illusionism available and deserves engagement on its own terms" commitment, and with the closing observation in the Structural Parallel section that Tallis's regress, on its strongest reading, is a *phenomenal-state counterpart of Boghossian's diagnosis* — not the bare-regress reading the cognitive-phenomenology article exposed.
 
@@ -72,7 +72,7 @@ The other five adversarial personas re-engaged briefly. None identified new crit
 - Net length change: +23 words (2991 → 3014 words; 120% → 121% of 2500-word soft target). Essentially length-neutral given the substantive improvement in dialectical structure.
 
 ### Cross-links Added
-- Two intra-document forward-references — `[](#the-illusionist-response-functional-seeming)` and `[](#where-the-functional-account-falls-short)` — making the dialectical structure explicit at the regress section.
+- Two intra-document forward-references — `[[#The Illusionist Response Functional Seeming]]` and `[[#Where the Functional Account Falls Short]]` — making the dialectical structure explicit at the regress section.
 
 ## Length Status
 

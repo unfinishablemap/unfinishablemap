@@ -24,12 +24,12 @@ topics: []
 
 ### Critical Issues Found
 - **Fabricated citation (Field et al.)**: Reference #5 cited "Field, M. H., Lachmann, M., & Bergstrom, C. T. (2018). *Ecology and Evolution*, 8(2), 1352-1359." The actual paper is "Field, J. M., & Bonsall, M. B. (2018). *Ecology and Evolution*, 8(1), 71-77." Wrong author names, wrong co-authors, wrong volume, wrong pages. **Resolution**: Corrected all bibliographic details and in-text citations.
-- **Broken wikilinks to archived articles**: `[evolved-cognitive-limits](/voids/biological-cognitive-closure/)` and `[topology-of-cognitive-failure](/voids/compound-failure-signatures/)` were both archived via coalesce operations. The first was superseded by `biological-cognitive-closure`, the second by `compound-failure-signatures`. **Resolution**: Updated all wikilinks in frontmatter, body, and Further Reading section.
+- **Broken wikilinks to archived articles**: `[[evolved-cognitive-limits]]` and `[[topology-of-cognitive-failure]]` were both archived via coalesce operations. The first was superseded by `biological-cognitive-closure`, the second by `compound-failure-signatures`. **Resolution**: Updated all wikilinks in frontmatter, body, and Further Reading section.
 
 ### Medium Issues Found
 - **Author order wrong on von Hippel & Trivers (2011)**: Article cited "Trivers, R., & von Hippel, W." but von Hippel is first author. **Resolution**: Corrected to "von Hippel, W., & Trivers, R."
 - **Author order wrong on Todd & Gigerenzer (2012)**: Article cited "Gigerenzer, G., & Todd, P. M." but the book lists Todd as first author. **Resolution**: Corrected to "Todd, P. M., & Gigerenzer, G."
-- **Missing cross-link**: No connection to `[perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)`, which directly engages Hoffman's interface theory. **Resolution**: Added to related_articles and Further Reading.
+- **Missing cross-link**: No connection to `[[perceptual-degradation-and-the-interface]]`, which directly engages Hoffman's interface theory. **Resolution**: Added to related_articles and Further Reading.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: The FBT theorem and ecological rationality research are fully compatible with physicalism — they don't require dualism. The article's move from "evolved limits exist" to "parsimony judgments favoring physicalism are unreliable" is an inferential leap. However, this is the Map's distinctive contribution and is appropriately framed as the Map's argument, not as something the cited research proves.

@@ -23,8 +23,8 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink in topics**: `consciousness-and-science` — no such file exists in obsidian or archive. **Resolved**: Replaced with `[consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)` (concepts/consciousness-and-scientific-explanation.md).
-- **Stale wikilink**: `[consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/)` in related_articles and Further Reading — archived, superseded by `consciousness-and-the-limits-of-explanation`. **Resolved**: Updated both references.
+- **Broken wikilink in topics**: `[[consciousness-and-science]]` — no such file exists in obsidian or archive. **Resolved**: Replaced with `[[consciousness-and-scientific-explanation]]` (concepts/consciousness-and-scientific-explanation.md).
+- **Stale wikilink**: `[[consciousness-and-the-meta-problem-of-scientific-explanation]]` in related_articles and Further Reading — archived, superseded by `consciousness-and-the-limits-of-explanation`. **Resolved**: Updated both references.
 
 ### Medium Issues Found
 None. The substantive content remains strong and unchanged since the previous review.
@@ -60,8 +60,8 @@ No attribution errors, dropped qualifiers, source/Map conflation, or self-contra
 - Front-loaded opening summary — survives truncation well
 
 ### Enhancements Made
-- Fixed broken `consciousness-and-science` wikilink → `[consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)`
-- Fixed stale `[consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/)` → `[consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/)` (in related_articles and Further Reading)
+- Fixed broken `[[consciousness-and-science]]` wikilink → `[[consciousness-and-scientific-explanation]]`
+- Fixed stale `[[consciousness-and-the-meta-problem-of-scientific-explanation]]` → `[[consciousness-and-the-limits-of-explanation]]` (in related_articles and Further Reading)
 
 ### Cross-links Added
 None new — previous review already established comprehensive cross-linking (8 inbound links added).

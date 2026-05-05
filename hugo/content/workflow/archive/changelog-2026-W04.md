@@ -2072,16 +2072,16 @@ Comprehensive deep review of the core phenomenology concept article. Applied six
 
 ### Summary
 
-Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `kane-self-forming-actions`, `[many-worlds](/concepts/many-worlds/)`, `[process-philosophy](/concepts/process-philosophy/)`, `cognition`, `[visual-consciousness](/concepts/visual-consciousness/)`, `temporal-synchrony`, `quantum-measurement-problem`, `[tenets](/tenets/#minimal-quantum-interaction)`, `teleportation-and-identity`.
+Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `kane-self-forming-actions`, `[[concepts/many-worlds]]`, `[[process-philosophy]]`, `cognition`, `[[visual-consciousness]]`, `temporal-synchrony`, `quantum-measurement-problem`, `[[tenets#minimal-quantum-interaction]]`, `teleportation-and-identity`.
 
 ### Fixes Applied
 
-- `[many-worlds](/concepts/many-worlds/)` → `[many-worlds](/concepts/many-worlds/)` (page exists with shorter name)
-- `quantum-measurement-problem` → `[measurement-problem](/concepts/measurement-problem/)` (page exists with shorter name)
-- `[tenets](/tenets/#minimal-quantum-interaction)` → `[tenets](/tenets/#minimal-quantum-interaction)` (anchor to tenets page)
+- `[[concepts/many-worlds]]` → `[[concepts/many-worlds]]` (page exists with shorter name)
+- `quantum-measurement-problem` → `[[measurement-problem]]` (page exists with shorter name)
+- `[[tenets#minimal-quantum-interaction]]` → `[[tenets#^minimal-quantum-interaction]]` (anchor to tenets page)
 - `kane-self-forming-actions` → plain text (no page exists)
-- `[process-philosophy](/concepts/process-philosophy/)`, `cognition`, `[visual-consciousness](/concepts/visual-consciousness/)`, `temporal-synchrony` → plain text
-- `teleportation-and-identity` → `[personal-identity](/topics/personal-identity/)` or plain text
+- `[[process-philosophy]]`, `cognition`, `[[visual-consciousness]]`, `temporal-synchrony` → plain text
+- `teleportation-and-identity` → `[[personal-identity]]` or plain text
 
 ### Output
 
@@ -2493,7 +2493,7 @@ Cross-reviewed mental-causation.md in light of the new psychophysical-coupling-m
 
 ### Changes Made
 
-1. Added `[psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/)` to frontmatter concepts (first position)
+1. Added `[[psychophysical-coupling-mechanisms]]` to frontmatter concepts (first position)
 2. Added new "The Specification Challenge" section after "The Quantum Opening" explaining:
    - Specification problem is distinct from overdetermination and conservation challenges
    - Integrated the five candidate coupling mechanisms as concrete proposals
@@ -2566,7 +2566,7 @@ Cross-reviewed stapp-quantum-mind.md in light of the new psychophysical-coupling
 
 ### Changes Made
 
-1. Added `[psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/)` to frontmatter concepts (first position)
+1. Added `[[psychophysical-coupling-mechanisms]]` to frontmatter concepts (first position)
 2. Added new "Comparative Standing" subsection under "The Core Mechanism" explaining:
    - Stapp's model is the most developed among five candidate coupling mechanisms
    - Only Stapp's mechanism satisfies all three criteria for scientific adequacy (precision, mechanism, falsifiability)
@@ -2595,7 +2595,7 @@ Cross-reviewed phenomenology.md in light of the new intersubjectivity.md article
 
 ### Changes Made
 
-1. Added `[intersubjectivity](/concepts/intersubjectivity/)` to frontmatter concepts (first position)
+1. Added `[[intersubjectivity]]` to frontmatter concepts (first position)
 2. Added new section "Intersubjective Validation" after the reliability objection, covering:
    - How Husserl's analysis of intersubjectivity grounds phenomenological method
    - Intersubjective convergence across independent phenomenological traditions as evidence for genuine structure
@@ -2652,7 +2652,7 @@ Cross-reviewed measurement-problem.md in light of the new subjective-probability
 
 ### Changes Made
 
-1. Added `[subjective-probability-quantum-measurement](/concepts/quantum-probability-consciousness/)` to frontmatter concepts and related_articles
+1. Added `[[subjective-probability-quantum-measurement]]` to frontmatter concepts and related_articles
 2. Added new section "What Are Born Probabilities?" covering:
    - Three major interpretations (objective chance, QBism, many-worlds branch measure)
    - Each interpretation's blind spots regarding probability meaning
@@ -6311,7 +6311,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - **Duration**: ~5 minutes
 - **Task**: Cross-review materialism.md with dualism.md insights
 - **Changes made**:
-  - Added `[dualism](/concepts/dualism/)` to concepts frontmatter
+  - Added `[[dualism]]` to concepts frontmatter
   - Integrated cross-link in "Why Materialism Fails" section
   - Added explicit link to dualism.md in "Relation to the Map's Perspective"
   - Added dualism.md at top of Further Reading with description

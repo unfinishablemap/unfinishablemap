@@ -41,10 +41,10 @@ None.
 
 Four files use incorrect anchors when linking to `tenets.md`, which would silently fail to navigate to the correct section:
 
-- **animal-consciousness.md**: `[tenets](/tenets/#occams-razor)` should be `[tenets](/tenets/#occams-limits)`
-- **consciousness-and-the-philosophy-of-biology.md**: `[tenets](/tenets/#minimal-interaction)` should be `[tenets](/tenets/#minimal-quantum-interaction)`
-- **consciousness-and-the-problem-of-measurement-standards.md**: `[tenets](/tenets/#bidirectional)` should be `[tenets](/tenets/#bidirectional-interaction)`
-- **phenomenal-normativity-environmental-ethics.md**: `[tenets](/tenets/#minimal-interaction)` should be `[tenets](/tenets/#minimal-quantum-interaction)`
+- **animal-consciousness.md**: `[[tenets#^occams-razor]]` should be `[[tenets#^occams-limits]]`
+- **consciousness-and-the-philosophy-of-biology.md**: `[[tenets#^minimal-interaction]]` should be `[[tenets#^minimal-quantum-interaction]]`
+- **consciousness-and-the-problem-of-measurement-standards.md**: `[[tenets#^bidirectional]]` should be `[[tenets#^bidirectional-interaction]]`
+- **phenomenal-normativity-environmental-ethics.md**: `[[tenets#^minimal-interaction]]` should be `[[tenets#^minimal-quantum-interaction]]`
 
 ### AI Refinement Logs in Published Content
 

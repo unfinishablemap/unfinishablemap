@@ -26,8 +26,8 @@ topics: []
 None. Substantive content has been stable since the two reviews on 2026-03-17. The only changes since were mechanical wikilink replacements driven by the archival of `fragmented-consciousness` and its replacement by `split-brain-consciousness`.
 
 ### Medium Issues Found
-- **Duplicate `[split-brain-consciousness](/topics/split-brain-consciousness/)` entry in `related_articles` frontmatter**: The wikilink migration left two identical entries (originally one was `fragmented-consciousness`, replaced wholesale by `split-brain-consciousness`). **Resolution**: Removed the duplicate.
-- **Duplicate `[split-brain-consciousness](/topics/split-brain-consciousness/)` entries in Further Reading**: Two distinct framings ("broader fragmentation question and dualist responses" and "paradigm bilateral disconnection case") pointed to the same coalesced article. **Resolution**: Merged into one entry combining both framings, since the target article now legitimately covers both.
+- **Duplicate `[[split-brain-consciousness]]` entry in `related_articles` frontmatter**: The wikilink migration left two identical entries (originally one was `fragmented-consciousness`, replaced wholesale by `split-brain-consciousness`). **Resolution**: Removed the duplicate.
+- **Duplicate `[[split-brain-consciousness]]` entries in Further Reading**: Two distinct framings ("broader fragmentation question and dualist responses" and "paradigm bilateral disconnection case") pointed to the same coalesced article. **Resolution**: Merged into one entry combining both framings, since the target article now legitimately covers both.
 
 ### Counterarguments Considered
 - **Functionalist precision problem rebuttal**: Already addressed in prior review. Not re-flagged per stability notes.

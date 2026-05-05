@@ -35,8 +35,8 @@ Six adversarial personas engaged with the content. Context: reviewed in light of
 None. Third consecutive review with no critical issues.
 
 ### Medium Issues Found
-- **No connection to binding void**: The Nature Void discusses the inability to positively characterize consciousness, but did not mention that even its most basic feature — phenomenal unity — resists analysis. *Resolution*: Added one sentence connecting Nature Void to `[binding-void](/voids/binding-void/)`.
-- **Missing cross-link**: *Resolution*: Added `[binding-void](/voids/binding-void/)` to Further Reading and related_articles.
+- **No connection to binding void**: The Nature Void discusses the inability to positively characterize consciousness, but did not mention that even its most basic feature — phenomenal unity — resists analysis. *Resolution*: Added one sentence connecting Nature Void to `[[binding-void]]`.
+- **Missing cross-link**: *Resolution*: Added `[[binding-void]]` to Further Reading and related_articles.
 
 ### Counterarguments Considered
 All counterarguments from previous reviews remain bedrock disagreements. No new counterarguments emerged from the binding-void context.
@@ -62,7 +62,7 @@ Six sympathetic personas identified strengths:
 
 ### Enhancements Made
 - Connected Nature Void to binding void — phenomenal unity as the sharpest instance of characterization failure
-- Added `[binding-void](/voids/binding-void/)` to Further Reading
+- Added `[[binding-void]]` to Further Reading
 - Trimmed redundant opening in "The Nature of These Limits" section to maintain length neutrality
 
 ### Cross-links Added

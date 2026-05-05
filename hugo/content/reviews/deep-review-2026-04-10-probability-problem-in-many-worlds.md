@@ -33,7 +33,7 @@ This review was triggered as a cross-review considering [Against Many-Worlds](/a
 - None. All attributions, qualifiers, source/Map separations, and factual claims remain correct. No contradictions with many-worlds-argument.md or concepts/many-worlds.md.
 
 ### Medium Issues Found
-- **Missing cross-link to many-worlds-argument**: The article linked to `[many-worlds](/concepts/many-worlds/)` but not to the formal argument article `[many-worlds-argument](/arguments/many-worlds-argument/)`, despite the argument article linking back. **Resolution**: Added to related_articles frontmatter and Further Reading.
+- **Missing cross-link to many-worlds-argument**: The article linked to `[[concepts/many-worlds]]` but not to the formal argument article `[[many-worlds-argument]]`, despite the argument article linking back. **Resolution**: Added to related_articles frontmatter and Further Reading.
 - **Zhang (2026) absent**: The companion article concepts/many-worlds.md (updated 2026-04-10) cites Zhang (2026) identifying additivity of orthogonal outcome probabilities as a unifying bottleneck across all five derivation strategies. This directly strengthens the article's proliferation-of-strategies argument. **Resolution**: Integrated into the circularity/proliferation paragraph with compensating prose trims for length neutrality.
 
 ### Counterarguments Considered

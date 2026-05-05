@@ -32,7 +32,7 @@ topics: []
 
 ### Low Issues Found
 - **Missing cross-link to interested-party-void** (L1): The interested-party-void's insight about motivational corruption applies to the article's project of consciousness investigating its own causal powers. Resolution: Added to Further Reading and related_articles frontmatter.
-- **Duplicate Further Reading entry**: `[volitional-control](/topics/volitional-control/)` appeared twice (lines 154 and 165). Resolution: Removed duplicate.
+- **Duplicate Further Reading entry**: `[[volitional-control]]` appeared twice (lines 154 and 165). Resolution: Removed duplicate.
 
 ### Counterarguments Considered
 - **Eliminative materialist**: Folk-psychological categories may not carve nature at joints. Bedrock disagreement — not re-flagged (per stability notes from 3rd review).

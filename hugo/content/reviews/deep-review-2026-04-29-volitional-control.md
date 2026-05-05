@@ -74,7 +74,7 @@ None. Article continues to demonstrate stability across multiple reviews.
 ## Stability Notes
 
 - This is the **third deep review** of `volitional-control.md` (post-coalescence on 2026-03-24). Previous review on 2026-03-24b explicitly marked it "fully stable."
-- Modifications since 2026-03-24b were external (refine-draft fixes for stale wikilinks `[concept-of-free-will](/topics/free-will/)` → `[free-will](/topics/free-will/)` on 2026-04-15, and Schwartz n=18 qualifier added on 2026-04-15) — these were positive consistency improvements, not signs of instability.
+- Modifications since 2026-03-24b were external (refine-draft fixes for stale wikilinks `[[concept-of-free-will]]` → `[[topics/free-will]]` on 2026-04-15, and Schwartz n=18 qualifier added on 2026-04-15) — these were positive consistency improvements, not signs of instability.
 - All adversarial persona disagreements remain bedrock philosophical standoffs:
   - Physicalists will always read the clinical evidence as compatible with their framework
   - Eliminativists will always reject the phenomenological evidence as introspection-bound

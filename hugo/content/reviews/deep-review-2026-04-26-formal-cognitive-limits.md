@@ -72,8 +72,8 @@ All seven strengths from the 2026-04-17 review remain intact:
 
 ### Cross-links Added
 
-- `[carrolls-regress](/concepts/carrolls-regress/)` (concepts) — added to frontmatter `concepts:` list, body, and Further Reading
-- `[inference-void](/voids/inference-void/)` (voids) — added to frontmatter `related_articles:`, body, and Further Reading
+- `[[carrolls-regress]]` (concepts) — added to frontmatter `concepts:` list, body, and Further Reading
+- `[[inference-void]]` (voids) — added to frontmatter `related_articles:`, body, and Further Reading
 - Carroll (1895) and Engel (HAL working paper) added to References section
 
 ### Length Management

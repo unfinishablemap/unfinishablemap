@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 1. **Duplicate `the-case-for-dualism`**: Appeared twice in both `related_articles` frontmatter and Further Reading section. **Resolution**: Removed duplicates from both locations.
-2. **Orphan status — no inbound links**: The article linked extensively to 20+ concept and topic pages but received zero body-text links from any of them. For a field-overview article, this isolation meant readers of core concepts like consciousness, dualism, or qualia had no pathway to the broader field survey. **Resolution**: Added `[philosophy of mind](/concepts/philosophy-of-mind/)` cross-references to 9 core articles (see Cross-links Added below).
+2. **Orphan status — no inbound links**: The article linked extensively to 20+ concept and topic pages but received zero body-text links from any of them. For a field-overview article, this isolation meant readers of core concepts like consciousness, dualism, or qualia had no pathway to the broader field survey. **Resolution**: Added `[[philosophy-of-mind|philosophy of mind]]` cross-references to 9 core articles (see Cross-links Added below).
 3. **No mention of non-Western philosophy of mind**: The article surveyed Western analytic philosophy exclusively without acknowledging this limitation. The site has an `indian-philosophy-of-mind` topic article. **Resolution**: Added a paragraph after the Alternative Frameworks section acknowledging Indian philosophical traditions and linking to the existing article.
 
 ### Counterarguments Considered

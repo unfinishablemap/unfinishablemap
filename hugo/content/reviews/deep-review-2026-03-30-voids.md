@@ -27,8 +27,8 @@ topics: []
 Six adversarial personas engaged with the content:
 
 ### Critical Issues Found
-1. **Two archived wikilinks**: `[attention-created-voids](/voids/attention-and-consciousness/)` and `[attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/)` pointed to articles archived after coalescing into `[attention-and-consciousness](/voids/attention-and-consciousness/)`. These were broken links in the section index.
-   - **Resolution**: Replaced both entries with single `[Attention and the Voids of Consciousness](/voids/attention-and-consciousness/)` entry in the Phenomenology of Limits section.
+1. **Two archived wikilinks**: `[[attention-created-voids]]` and `[[attention-disorders-and-consciousness]]` pointed to articles archived after coalescing into `[[attention-and-consciousness]]`. These were broken links in the section index.
+   - **Resolution**: Replaced both entries with single `[[attention-and-consciousness|Attention and the Voids of Consciousness]]` entry in the Phenomenology of Limits section.
 
 ### Medium Issues Found
 - **Two unlisted articles**: `attention-and-consciousness` (coalesced 2026-03-30) and `second-person-void` (created 2026-03-28) were missing from the index.

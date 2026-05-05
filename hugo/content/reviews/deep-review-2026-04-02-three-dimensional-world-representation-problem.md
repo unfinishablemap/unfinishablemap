@@ -26,7 +26,7 @@ topics: []
 - None. Article remains factually accurate and structurally sound.
 
 ### Medium Issues Found
-- **Misleading wikilink from mechanical rename**: The bulk rename of `memory-as-dual-domain-capability` → `episodic-memory` left `[dual-domain architecture](/concepts/episodic-memory/)` pointing at episodic memory instead of the general dual-domain concept. Resolution: relinked to `[dual-domain architecture](/voids/capability-division-problem/)`, which is the proper general concept in voids/.
+- **Misleading wikilink from mechanical rename**: The bulk rename of `memory-as-dual-domain-capability` → `episodic-memory` left `[[episodic-memory|dual-domain architecture]]` pointing at episodic memory instead of the general dual-domain concept. Resolution: relinked to `[[capability-division-problem|dual-domain architecture]]`, which is the proper general concept in voids/.
 - **Self-citation misalignment**: Reference 3 cited "Episodic Memory" as the source for dual-domain architecture, but episodic memory is one instance of the pattern, not the concept itself. Resolution: updated to cite "The Capability Division Problem."
 - **Missing cross-link to directly relevant article**: `dual-domain-capabilities-in-proprioception-and-spatial-imagination` covers dual-domain architecture applied specifically to spatial cognition but was not linked. Resolution: added to Further Reading and related_articles.
 

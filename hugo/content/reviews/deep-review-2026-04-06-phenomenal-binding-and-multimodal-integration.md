@@ -32,7 +32,7 @@ topics: []
 
 2. **Missing decoherence acknowledgment in quantum tenet**: The quantum interaction section proposed thalamic quantum collapse without addressing the strongest empirical objection — decoherence in warm biological tissue. **Resolution**: Added explicit acknowledgment of the decoherence challenge (femtosecond timescales, implausibility of sustained entanglement) while noting the Map's minimal interaction framework requires only influence over collapses already occurring, not maintenance of coherence.
 
-3. **Missing cross-links**: Natural connection points to `[qualia](/concepts/qualia/)` and `[explanatory-gap](/concepts/explanatory-gap/)` were not linked. **Resolution**: Added both cross-links at appropriate locations in the text.
+3. **Missing cross-links**: Natural connection points to `[[qualia]]` and `[[explanatory-gap]]` were not linked. **Resolution**: Added both cross-links at appropriate locations in the text.
 
 ### Counterarguments Considered
 
@@ -57,13 +57,13 @@ topics: []
 
 - Strengthened bidirectional interaction argument by engaging with functionalist counter
 - Added decoherence acknowledgment that makes the quantum proposal more intellectually honest
-- Added cross-links to `[qualia](/concepts/qualia/)` and `[explanatory-gap](/concepts/explanatory-gap/)`
+- Added cross-links to `[[qualia]]` and `[[explanatory-gap]]`
 - Fixed duplicate frontmatter entry
 
 ### Cross-links Added
 
-- `[qualia](/concepts/qualia/)` in inverse effectiveness section
-- `[explanatory-gap](/concepts/explanatory-gap/)` in neural mechanisms section
+- `[[qualia]]` in inverse effectiveness section
+- `[[explanatory-gap]]` in neural mechanisms section
 
 ## Remaining Items
 

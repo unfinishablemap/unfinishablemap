@@ -48,7 +48,7 @@ topics: []
 
 ### Enhancements Made
 - Corrected Macnamara et al. 2014 to show domain-specific variance figures
-- Added cross-links to `[phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)` and `[motor-selection](/concepts/motor-selection/)`
+- Added cross-links to `[[phenomenology-of-cognitive-automatisation]]` and `[[motor-selection]]`
 
 ### Cross-links Added
 - [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)

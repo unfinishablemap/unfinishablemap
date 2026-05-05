@@ -26,8 +26,8 @@ topics: []
 None. The article has been reviewed twice before (2026-01-20 and 2026-02-03) and was declared stable. No new critical issues identified.
 
 ### Medium Issues Found
-- Duplicate `[temporal-consciousness](/concepts/temporal-consciousness/)` in frontmatter concepts list (appeared at positions 2 and 5). **Resolution**: Removed duplicate.
-- Duplicate `[temporal-consciousness](/concepts/temporal-consciousness/)` entry in Further Reading section with slightly different descriptions. **Resolution**: Consolidated to single entry.
+- Duplicate `[[temporal-consciousness]]` in frontmatter concepts list (appeared at positions 2 and 5). **Resolution**: Removed duplicate.
+- Duplicate `[[temporal-consciousness]]` entry in Further Reading section with slightly different descriptions. **Resolution**: Consolidated to single entry.
 - Limited cross-linking to newer articles about protention, phenomenology of anticipation, diachronic agency, mental imagery, counterfactual reasoning, and intentionality. **Resolution**: Added 6 cross-links inline and in Further Reading.
 
 ### Counterarguments Considered

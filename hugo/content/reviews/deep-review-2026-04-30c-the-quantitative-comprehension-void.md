@@ -38,7 +38,7 @@ None. All attribution checks pass; all qualifier-preservation checks pass; sourc
 
 One medium issue resolved this pass:
 
-- **Missing reciprocal back-link to apex**: The apex `medium-status-voids-in-cognition.md` (created 2026-04-29; deep-reviewed 2026-04-30 07:10 UTC) added `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` to its own `related_articles` and references QCV twice in body (capacity-status example at apex line 60; compounding observation in Bidirectional Interaction at apex line 134). QCV did not reciprocate. **Resolution**: appended `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)` to QCV's `related_articles`. Frontmatter-only addition preserves length-neutrality and the previous review's "no body churn" verdict.
+- **Missing reciprocal back-link to apex**: The apex `medium-status-voids-in-cognition.md` (created 2026-04-29; deep-reviewed 2026-04-30 07:10 UTC) added `[[the-quantitative-comprehension-void]]` to its own `related_articles` and references QCV twice in body (capacity-status example at apex line 60; compounding observation in Bidirectional Interaction at apex line 134). QCV did not reciprocate. **Resolution**: appended `[[medium-status-voids-in-cognition]]` to QCV's `related_articles`. Frontmatter-only addition preserves length-neutrality and the previous review's "no body churn" verdict.
 
 ### Issues Explicitly Not Re-Flagged
 
@@ -90,7 +90,7 @@ All strengths from prior reviews are reaffirmed:
 
 ### Cross-link Added
 
-- `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)` — reciprocal to the apex's existing forward link. The apex synthesises four medium-status voids (mattering, relevance, noetic-feelings, conceptual-scheme) and explicitly contrasts QCV's magnitude-probability face as a *capacity-status* counterpoint. The apex also draws on QCV's Minimal Quantum Interaction discussion to compound channel opacity (medium-status invisibility) with variable opacity (quantitative incomprehension). Reciprocity is now structurally complete.
+- `[[medium-status-voids-in-cognition]]` — reciprocal to the apex's existing forward link. The apex synthesises four medium-status voids (mattering, relevance, noetic-feelings, conceptual-scheme) and explicitly contrasts QCV's magnitude-probability face as a *capacity-status* counterpoint. The apex also draws on QCV's Minimal Quantum Interaction discussion to compound channel opacity (medium-status invisibility) with variable opacity (quantitative incomprehension). Reciprocity is now structurally complete.
 
 ### Body Mention Considered, Deferred
 
@@ -115,7 +115,7 @@ None. Article remains at convergence. Future reviews should:
 
 The 03:40 UTC and 05:10 UTC Stability Notes remain in force without modification. The reciprocal-back-link addition does not introduce any new bedrock disagreements or new issues to track. The article's structural-family framing, post-hoc evolutionary-mismatch hedging, intrinsic/non-relational claim about phenomenal grasp, regulative introspective-ceiling, and tenet-by-tenet engagement all stand.
 
-A new sub-note for future reviewers: the `medium-status-voids-in-cognition` apex frames QCV's magnitude-probability face as paradigmatically *capacity-status*, distinct from the four *medium-status* voids the apex synthesises. This typological distinction is the apex's contribution, not QCV's; QCV continues to use the unexplored/unexplorable/occluded taxonomy from `[three-kinds-of-void](/voids/three-kinds-of-void/)`. Both typologies are explicitly orthogonal (apex line 66). Future reviewers should NOT introduce a redundant content/capacity/medium classification into QCV — the apex carries the load. Reciprocity is now achieved via `related_articles`; conceptual reciprocity is already correct.
+A new sub-note for future reviewers: the `medium-status-voids-in-cognition` apex frames QCV's magnitude-probability face as paradigmatically *capacity-status*, distinct from the four *medium-status* voids the apex synthesises. This typological distinction is the apex's contribution, not QCV's; QCV continues to use the unexplored/unexplorable/occluded taxonomy from `[[three-kinds-of-void]]`. Both typologies are explicitly orthogonal (apex line 66). Future reviewers should NOT introduce a redundant content/capacity/medium classification into QCV — the apex carries the load. Reciprocity is now achieved via `related_articles`; conceptual reciprocity is already correct.
 
 ## Convergence Indicator
 

@@ -38,7 +38,7 @@ topics: []
 
 3. **Thin process philosophy section**: The Reframe the Problem section was one paragraph—shorter than all three other landscape responses. **Resolution**: Added a paragraph explaining how the process reframing changes the evolutionary question from binary (present/absent) to scalar (degrees of organisation), making it more tractable for natural selection.
 
-4. **Missing inline cross-links**: Several concepts mentioned without links. **Resolution**: Added inline links to `[mysterianism](/concepts/mysterianism/)`, `[process-philosophy](/concepts/process-philosophy/)`, `[panpsychism](/concepts/panpsychism/)`, `[philosophical-zombies](/concepts/philosophical-zombies/)`, `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)`, `[free-will](/topics/free-will/)`.
+4. **Missing inline cross-links**: Several concepts mentioned without links. **Resolution**: Added inline links to `[[mysterianism]]`, `[[process-philosophy]]`, `[[panpsychism]]`, `[[philosophical-zombies]]`, `[[phenomenal-consciousness]]`, `[[topics/free-will]]`.
 
 5. **Missing conceivability-possibility caveat**: The zombie section presented the conditional ("if a zombie could exist") without noting it is contested. **Resolution**: Added parenthetical acknowledging physicalists contest this, arguing conceivability does not entail metaphysical possibility.
 
@@ -73,13 +73,13 @@ topics: []
 
 ### Cross-links Added
 
-- `[mysterianism](/concepts/mysterianism/)` (inline in Accept the Mystery)
-- `[process-philosophy](/concepts/process-philosophy/)` (inline in Reframe the Problem)
-- `[panpsychism](/concepts/panpsychism/)` (inline in Reframe the Problem)
-- `[philosophical-zombies](/concepts/philosophical-zombies/)` (second inline link in Zombie Intuition)
-- `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` (inline in Analogy Gap)
-- `[free-will](/topics/free-will/)` (inline in Embrace Dualism, Further Reading, related_articles)
-- `[emergence-and-strong-emergence](/topics/the-strong-emergence-of-consciousness/)` (Further Reading, related_articles)
+- `[[mysterianism]]` (inline in Accept the Mystery)
+- `[[process-philosophy]]` (inline in Reframe the Problem)
+- `[[panpsychism]]` (inline in Reframe the Problem)
+- `[[philosophical-zombies]]` (second inline link in Zombie Intuition)
+- `[[phenomenal-consciousness]]` (inline in Analogy Gap)
+- `[[topics/free-will]]` (inline in Embrace Dualism, Further Reading, related_articles)
+- `[[emergence-and-strong-emergence]]` (Further Reading, related_articles)
 
 ## Remaining Items
 

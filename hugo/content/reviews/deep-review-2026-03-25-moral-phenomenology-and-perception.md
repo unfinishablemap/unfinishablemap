@@ -45,7 +45,7 @@ This review was triggered because the article had no inbound links from many clo
 - Article at 96% of soft threshold — appropriate length
 
 ### Enhancements Made
-- Added cross-links from 9 articles to `[moral-phenomenology-and-perception](/concepts/evaluative-phenomenal-character/)` in their Further Reading sections:
+- Added cross-links from 9 articles to `[[moral-phenomenology-and-perception]]` in their Further Reading sections:
   1. `obsidian/topics/emotion-and-dualism.md` — moral qualia connection to valence
   2. `obsidian/topics/phenomenal-value-realism.md` — moral experience as evidence for phenomenal value
   3. `obsidian/topics/ethics-of-consciousness.md` — moral perception in context of consciousness-based ethics

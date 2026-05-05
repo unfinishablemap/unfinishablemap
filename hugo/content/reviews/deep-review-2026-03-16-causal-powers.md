@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 - **First-mention style violation**: "the Map" appeared (line 40) before "The Unfinishable Map" (line 42), violating the writing style guide's first-mention rule. Resolution: Swapped so first occurrence uses the full name.
-- **Inconsistent wikilink**: `[epiphenomenalism](/concepts/epiphenomenalism/)` used a path prefix while all other wikilinks use bare slugs. Resolution: Changed to `[epiphenomenalism](/concepts/epiphenomenalism/)`.
+- **Inconsistent wikilink**: `[[concepts/epiphenomenalism]]` used a path prefix while all other wikilinks use bare slugs. Resolution: Changed to `[[epiphenomenalism]]`.
 - **Stale AI refinement log**: HTML comment from 2026-03-14 refinement said "should be removed after human review" but persisted for a month. Resolution: Removed.
 
 ### Counterarguments Considered

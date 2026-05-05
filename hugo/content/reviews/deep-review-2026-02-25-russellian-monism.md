@@ -62,7 +62,7 @@ All checks passed:
 - Appropriate hedging throughout after 2026-02-20 attribution refinement
 
 ### Enhancements Made
-1. Added `[emergence](/concepts/emergence/)` wikilink at "avoids emergence" mention (line 56)
+1. Added `[[emergence]]` wikilink at "avoids emergence" mention (line 56)
 2. Fixed citation mismatch: "2022-2023" → "2022"
 3. Removed stale AI refinement log (HTML comment)
 

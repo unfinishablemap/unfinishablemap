@@ -28,7 +28,7 @@ None. The article remains stable after four prior reviews. All attributions veri
 
 ### Medium Issues Found
 
-- **Stale slug in consciousness.md**: The hub article `consciousness.md` line 152 used `[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` pointing to the archived slug. Updated to `[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`.
+- **Stale slug in consciousness.md**: The hub article `consciousness.md` line 152 used `[[Autonoetic-consciousness|Autonoetic consciousness]]` pointing to the archived slug. Updated to `[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]`.
 - **Missing cross-link in baseline-cognition.md**: The article discusses anoetic/autonoetic distinctions extensively (great ape consciousness levels) without linking to the tripartite hierarchy article. Added inline link at the "Great Ape Phenomenal Consciousness" section and Further Reading entry.
 - **Missing cross-link in phenomenology-of-cognitive-capacity.md**: The article mentions "Tulving (1985) called this *anoetic consciousness*" without linking to the hierarchy article. Added wikilink and Further Reading entry.
 
@@ -63,7 +63,7 @@ No content changes to the article itself. Enhancements focused on completing cro
 
 Updated three articles to create additional inbound links:
 
-1. **[consciousness](/concepts/consciousness/)**: Fixed stale slug `[Autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` → `[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` in the "Dimensions of Consciousness" section
+1. **[consciousness](/concepts/consciousness/)**: Fixed stale slug `[[Autonoetic-consciousness]]` → `[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]` in the "Dimensions of Consciousness" section
 2. **[baseline-cognition](/concepts/baseline-cognition/)**: Added inline link in "Great Ape Phenomenal Consciousness" section connecting Tulving's tripartite hierarchy to the ape consciousness discussion; added Further Reading entry
 3. **[phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)**: Wrapped existing "anoetic consciousness" mention in wikilink to the hierarchy article; added Further Reading entry
 

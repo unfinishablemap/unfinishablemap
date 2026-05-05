@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-This is the first review of the coalesced article created on 2026-03-30 from [concepts/mental-causation.md](/concepts/mental-causation-and-downward-causation/) + [concepts/downward-causation.md](/concepts/mental-causation-and-downward-causation/). The article was at 3836 words (153% of 2500 soft threshold, exceeding the 3500 hard threshold). Additionally, 127 content files across the site still referenced the old `[mental-causation](/concepts/mental-causation-and-downward-causation/)` and `[downward-causation](/concepts/mental-causation-and-downward-causation/)` slugs.
+This is the first review of the coalesced article created on 2026-03-30 from [concepts/mental-causation.md](/concepts/mental-causation-and-downward-causation/) + [concepts/downward-causation.md](/concepts/mental-causation-and-downward-causation/). The article was at 3836 words (153% of 2500 soft threshold, exceeding the 3500 hard threshold). Additionally, 127 content files across the site still referenced the old `[[mental-causation]]` and `[[downward-causation]]` slugs.
 
 ## Pessimistic Analysis Summary
 
@@ -33,10 +33,10 @@ This is the first review of the coalesced article created on 2026-03-30 from [co
 
 ### Medium Issues Found
 
-1. **Duplicate frontmatter concept**: Both `[psychophysical-laws](/concepts/psychophysical-laws/)` and `[psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)` listed in concepts. Removed duplicate.
-   - **Resolution**: Removed `[psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)` from concepts list (still linked in body text).
+1. **Duplicate frontmatter concept**: Both `[[psychophysical-laws]]` and `[[psychophysical-laws-bridging-mind-and-matter]]` listed in concepts. Removed duplicate.
+   - **Resolution**: Removed `[[psychophysical-laws-bridging-mind-and-matter]]` from concepts list (still linked in body text).
 
-2. **127 stale cross-references across site**: Content files still linked to archived `[mental-causation](/concepts/mental-causation-and-downward-causation/)` and `[downward-causation](/concepts/mental-causation-and-downward-causation/)` slugs.
+2. **127 stale cross-references across site**: Content files still linked to archived `[[mental-causation]]` and `[[downward-causation]]` slugs.
    - **Resolution**: Updated all content files (concepts, topics, apex, voids, arguments, research, workflow/todo). Reviews and changelog archives left as historical records. Deduplicated 13 Further Reading sections that had duplicate entries pointing to the coalesced article.
 
 ### Counterarguments Considered

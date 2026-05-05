@@ -24,13 +24,13 @@ topics: []
 
 ### Critical Issues Found
 
-- **Frontmatter categorization error**: `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)` was listed under `concepts:` but the file is a topic (`obsidian/topics/`). Resolution: moved to `topics:` list.
+- **Frontmatter categorization error**: `[[dopamine-and-the-unified-interface]]` was listed under `concepts:` but the file is a topic (`obsidian/topics/`). Resolution: moved to `topics:` list.
 
 ### Medium Issues Found
 
 - **Cai et al. three-layer interpretation presented ambiguously**: The three-layer architecture (neural computation → dopamine threshold → consciousness) is the Map's interpretive framework, not the paper's conclusion. The hedging word "appears" was insufficient to distinguish Map interpretation from source claim. Resolution: prefixed with "On the Map's reading" and added wikilink to dopamine-and-the-unified-interface.
 
-- **Occluded void link mismatch**: Article linked `[occluded void](/voids/attention-and-consciousness/)` as if that page defined the concept. The definitional page is `[three-kinds-of-void](/voids/three-kinds-of-void/)`. Resolution: changed primary link to three-kinds-of-void, added voids/attention-and-consciousness as a "further exploration" reference.
+- **Occluded void link mismatch**: Article linked `[[voids/attention-and-consciousness|occluded void]]` as if that page defined the concept. The definitional page is `[[three-kinds-of-void]]`. Resolution: changed primary link to three-kinds-of-void, added voids/attention-and-consciousness as a "further exploration" reference.
 
 - **Unsupported claim about stimulant patients**: "Stimulant-treated patients do not report altered consciousness" was stated without citation. Resolution: added Barkley (2015) citation and reworded to avoid the "not X. Y" construct flagged by style guide.
 

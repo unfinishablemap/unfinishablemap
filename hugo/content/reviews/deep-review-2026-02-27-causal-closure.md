@@ -77,7 +77,7 @@ No dropped qualifiers, no source/Map conflation, no misattributions found.
 
 ### Cross-links Added
 
-- `[conservation-laws-mind-brain-causation](/concepts/conservation-laws-and-mental-causation/)` — concepts frontmatter and Further Reading
+- `[[conservation-laws-mind-brain-causation]]` — concepts frontmatter and Further Reading
 
 ## Length Management
 

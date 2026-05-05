@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 
-- **M1: Second-tier articles still lack cross-links**: The previous review added 9 cross-links from core quantum consciousness articles, resolving the orphan status. However, 7 second-tier articles discussed the timing gap (using phrases like "timescale gap," "twelve orders of magnitude," or describing the Tegmark calculation) without linking to the dedicated article. **Resolution**: Added `[timing-gap-problem](/concepts/timing-gap-problem/)` links to all 7 articles (see Cross-links Added below).
+- **M1: Second-tier articles still lack cross-links**: The previous review added 9 cross-links from core quantum consciousness articles, resolving the orphan status. However, 7 second-tier articles discussed the timing gap (using phrases like "timescale gap," "twelve orders of magnitude," or describing the Tegmark calculation) without linking to the dedicated article. **Resolution**: Added `[[timing-gap-problem]]` links to all 7 articles (see Cross-links Added below).
 
 ### Counterarguments Considered
 
@@ -73,7 +73,7 @@ All checks pass:
 
 ### Cross-links Added (Second-Tier Orphan Integration)
 
-Added `[timing-gap-problem](/concepts/timing-gap-problem/)` to 7 additional articles, extending the 9 links from the previous review:
+Added `[[timing-gap-problem]]` to 7 additional articles, extending the 9 links from the previous review:
 
 1. **[measurement-problem](/concepts/measurement-problem/)** — In Stapp's Quantum Zeno Framework subsection: "creating a [twelve-order-of-magnitude timing gap](/concepts/timing-gap-problem/)"
 2. **[quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)** — In "The Decoherence Challenge" section: "—the [timing-gap-problem](/concepts/timing-gap-problem/)"

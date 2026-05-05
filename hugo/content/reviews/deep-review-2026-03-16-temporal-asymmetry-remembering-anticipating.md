@@ -24,7 +24,7 @@ topics: []
 
 Since the last review (2026-02-04), the article received maintenance changes only:
 - Wikilink fixes: `autonoetic-consciousness` → `anoetic-noetic-autonoetic-consciousness`, `temporal-consciousness-void` → `temporal-void`, `free-will` → `topics/free-will`, `functionalism` → `concepts/functionalism`
-- Enhanced MQI tenet connection with `[collapse-and-time](/concepts/collapse-and-time/)` cross-link
+- Enhanced MQI tenet connection with `[[collapse-and-time]]` cross-link
 - References reformatted from bullet list to numbered list
 - Scholar indexing optimizations
 
@@ -40,7 +40,7 @@ None. Article remains philosophically sound after four reviews.
    - **Resolution**: Added inline citation "(Addis, Wong & Schacter, 2007)" and the full reference to the References section.
 
 ### Low Issues Found
-1. **`[collapse-and-time](/concepts/collapse-and-time/)` linked in body but missing from Further Reading**: The MQI tenet section cross-links to this article but it wasn't listed for discoverability.
+1. **`[[collapse-and-time]]` linked in body but missing from Further Reading**: The MQI tenet section cross-links to this article but it wasn't listed for discoverability.
    - **Resolution**: Added to Further Reading with description. Also added to `related_articles` frontmatter.
 
 ### Issues NOT Re-flagged (per previous review stability notes)
@@ -94,7 +94,7 @@ All checks passed:
 
 1. Added specific citation for neuroimaging claim (Addis, Wong & Schacter, 2007)
 2. Added Addis et al. (2007) to References section
-3. Added `[collapse-and-time](/concepts/collapse-and-time/)` to Further Reading
+3. Added `[[collapse-and-time]]` to Further Reading
 4. Added `collapse-and-time` to `related_articles` frontmatter
 5. Updated `ai_modified` and `last_deep_review` timestamps
 

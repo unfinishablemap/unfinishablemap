@@ -30,7 +30,7 @@ None. The article has no factual errors, attribution mistakes, internal contradi
 ### Medium Issues Found
 
 1. **Missing cross-link to experiential-alignment**: The experiential-alignment article heavily references phenomenal-value-realism as its metaethical foundation, but the reverse link was missing.
-   - **Resolution**: Added `[experiential-alignment](/concepts/experiential-alignment/)` to related_articles frontmatter and Further Reading section.
+   - **Resolution**: Added `[[experiential-alignment]]` to related_articles frontmatter and Further Reading section.
 
 2. **Buddhist section incomplete**: The previous review added "The Buddhist Complication" but didn't address how phenomenal value pluralism resonates with Buddhist concerns about attachment to pleasure.
    - **Resolution**: Added sentence connecting phenomenal value pluralism to Buddhist middle-way thinking.

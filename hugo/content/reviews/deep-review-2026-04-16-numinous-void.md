@@ -26,7 +26,7 @@ topics: []
 - None. Attribution checks pass for all sources (Otto, James, Keltner/Haidt, Swinburne, Alston, Persinger/Granqvist, Beauregard, Pseudo-Dionysius, Eckhart, Nicholas of Cusa). No source/Map conflation. No self-contradictions.
 
 ### Medium Issues Found
-- [Duplicate in Further Reading]: `[consciousness-only-territories](/voids/consciousness-only-territories/)` appeared twice. Resolution: removed duplicate.
+- [Duplicate in Further Reading]: `[[consciousness-only-territories]]` appeared twice. Resolution: removed duplicate.
 - [Repetition in Reflexivity Problem]: The evaluator-dissolution contrast was stated twice consecutively in the same paragraph. Resolution: removed the verbatim repetition, keeping the first statement.
 - [Cross-linking gaps]: Three strongly related articles lacked inbound links to numinous-void despite thematic overlap. Resolution: added inline cross-links and Further Reading entries (see below).
 
@@ -43,7 +43,7 @@ topics: []
 - All four tenet connections are substantive
 
 ### Enhancements Made
-- Removed duplicate `[consciousness-only-territories](/voids/consciousness-only-territories/)` from Further Reading
+- Removed duplicate `[[consciousness-only-territories]]` from Further Reading
 - Removed verbatim repetition of the evaluator-dissolution contrast in the Reflexivity Problem section
 
 ### Cross-links Added (Inbound)

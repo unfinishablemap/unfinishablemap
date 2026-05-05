@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Duplicate `[idealism](/concepts/idealism/)` in Further Reading**: Two entries pointed to the same article with different descriptions, introduced during mechanical wikilink migration (analytic-idealism → idealism coalesce). Merged into single entry with combined description.
+- **Duplicate `[[idealism]]` in Further Reading**: Two entries pointed to the same article with different descriptions, introduced during mechanical wikilink migration (analytic-idealism → idealism coalesce). Merged into single entry with combined description.
 
 ### Medium Issues Found
 - None
@@ -51,7 +51,7 @@ topics: []
 - New cross-link to analytic-idealism-and-mind-centric-metaphysics survey (added since last review)
 
 ### Enhancements Made
-1. Merged duplicate `[idealism](/concepts/idealism/)` Further Reading entries into single entry with combined description
+1. Merged duplicate `[[idealism]]` Further Reading entries into single entry with combined description
 
 ### Cross-links Added
 - None needed — cross-linking is comprehensive

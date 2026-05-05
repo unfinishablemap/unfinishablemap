@@ -24,9 +24,9 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Duplicate frontmatter entries**: `[temporal-consciousness](/concepts/temporal-consciousness/)` appeared three times in the `concepts` list. **Resolution**: Deduplicated to single entry.
+1. **Duplicate frontmatter entries**: `[[temporal-consciousness]]` appeared three times in the `concepts` list. **Resolution**: Deduplicated to single entry.
 
-2. **Duplicate Further Reading entries**: Three separate `[temporal-consciousness](/concepts/temporal-consciousness/)` links with slightly different descriptions. **Resolution**: Consolidated into one entry with combined description.
+2. **Duplicate Further Reading entries**: Three separate `[[temporal-consciousness]]` links with slightly different descriptions. **Resolution**: Consolidated into one entry with combined description.
 
 3. **Incomplete reference**: "Neuroscience of Consciousness (2025). Deep computational neurophenomenology. *Oxford Academic*." lacked author names and proper citation format. **Resolution**: Corrected to "Sandved Smith, L. et al. (2025). Deep computational neurophenomenology. *Neuroscience of Consciousness*, 2025(1), niae053."
 

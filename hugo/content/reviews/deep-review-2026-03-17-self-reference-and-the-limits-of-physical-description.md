@@ -29,7 +29,7 @@ None. The article is well-constructed with honest epistemic boundaries in "What 
 1. **Missing Bidirectional Interaction tenet** in "Relation to Site Perspective" — all other tenets were covered: Added dedicated paragraph connecting self-referential obstruction to bidirectional causation.
 2. **"Consciousness of the gaps" objection unaddressed**: The strongest physicalist counter — that outcomes could be genuinely random brute facts requiring no cause — was not engaged: Added paragraph after Tonetto's analysis addressing this directly.
 3. **Opening attribution ambiguity**: "Both arise from the same formal structure" presented Szangolies' specific claim as established fact before introducing him: Reworded to attribute the mechanism to Szangolies immediately.
-4. **Missing inline wikilinks**: Concepts mentioned in body text (causal closure, measurement problem, quantum consciousness) lacked wikilinks: Added `[causal-closure](/concepts/causal-closure/)`, `[measurement-problem](/concepts/measurement-problem/)`, `[quantum-consciousness](/concepts/quantum-consciousness/)` links.
+4. **Missing inline wikilinks**: Concepts mentioned in body text (causal closure, measurement problem, quantum consciousness) lacked wikilinks: Added `[[causal-closure]]`, `[[measurement-problem]]`, `[[quantum-consciousness]]` links.
 
 ### Counterarguments Considered
 - **Brute randomness objection** (Dennett/physicalist): Outcomes could be causeless random events, not consciousness-mediated. Addressed by noting this concedes the essential point — causal closure fails either way.

@@ -68,8 +68,8 @@ topics: []
 - Integration of Petitmengin and Thompson into body text
 - Citations for previously unsupported claims (Hagerty 2013, Lindahl 2017)
 - Qualification of process/content distinction as contested
-- Cross-link to `[contemplative-reliability](/concepts/contemplative-epistemology/)` in Training Requirement section
-- Cross-link to `[first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)` in heterophenomenology response
+- Cross-link to `[[contemplative-reliability]]` in Training Requirement section
+- Cross-link to `[[first-person-third-person-methodology]]` in heterophenomenology response
 - Expanded Further Reading with 4 new entries
 - Expanded topics frontmatter with 4 new topic links
 - Removed stale AI refinement log

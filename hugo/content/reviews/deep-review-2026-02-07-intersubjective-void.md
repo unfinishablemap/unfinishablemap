@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Hofstadter framing misleading**: The article presented Hofstadter as observing that the inverted spectrum "entails a form of solipsism," implying he endorsed this concern. In *I Am a Strange Loop* Ch. 23, Hofstadter actually presents inverted spectrum variants as *reductio ad absurdum*—he argues against the inverted spectrum, not for it. **Resolution**: Reframed to accurately present Hofstadter's argumentative intent (exploring implications to expose absurdity) while preserving the relevant insight about the void's force. Added chapter reference.
-- **Missing body links to frontmatter concepts**: The `[intersubjectivity](/concepts/intersubjectivity/)` and `[phenomenology](/concepts/phenomenology/)` concept pages were listed in frontmatter but never linked in the article body. **Resolution**: Added wikilinks to both concepts in contextually appropriate locations (inverted spectrum section for intersubjectivity/qualia, empathy section for phenomenology).
+- **Missing body links to frontmatter concepts**: The `[[intersubjectivity]]` and `[[phenomenology]]` concept pages were listed in frontmatter but never linked in the article body. **Resolution**: Added wikilinks to both concepts in contextually appropriate locations (inverted spectrum section for intersubjectivity/qualia, empathy section for phenomenology).
 
 ### Counterarguments Considered
 - **Eliminative materialist**: The void framework presupposes qualia as meaningful—eliminativists would dissolve the question entirely. This is a bedrock philosophical disagreement, not a flaw.

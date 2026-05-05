@@ -39,7 +39,7 @@ topics: []
   - **Resolution**: Revised to acknowledge "2,500 years of contemplative investigation" and reframed as "genuinely uncertain" rather than dismissively binary.
 
 - **Missing cross-link to quantum-consciousness**: The Bidirectional Interaction tenet section discussed consciousness causally influencing physical processes but didn't link to relevant quantum consciousness article.
-  - **Resolution**: Added `[quantum-level mechanisms](/concepts/quantum-consciousness/)` cross-link.
+  - **Resolution**: Added `[[quantum-consciousness|quantum-level mechanisms]]` cross-link.
 
 ### Counterarguments Considered
 

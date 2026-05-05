@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink to archived article**: `[why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/)` pointed to a page that was archived and coalesced into `quantum-holism-and-phenomenal-unity`. Resolution: Updated link to `[Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/)`.
+- **Broken wikilink to archived article**: `[[why-phenomenal-unity-resists-explanation]]` pointed to a page that was archived and coalesced into `quantum-holism-and-phenomenal-unity`. Resolution: Updated link to `[[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]]`.
 
 ### Medium Issues Found
 - **Nagel paraphrase presented as direct quote**: Line 127 used `Nagel's "too much unity to say 'two', yet too much separation to say 'one'"` with quotation marks, implying a direct quote. This is a commonly used paraphrase, not Nagel's exact wording (the full quote includes "There is no whole number of 'centres of consciousness'..." and "in the specially contrived laboratory situations"). Previous reviews of unity-of-consciousness and phenomenal-unity both flagged and fixed this same pattern. Resolution: Converted to paraphrase form consistent with other Map articles.

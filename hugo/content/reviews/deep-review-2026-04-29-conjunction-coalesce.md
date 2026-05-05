@@ -52,7 +52,7 @@ This review honours all five. None is re-flagged. The article has not been subst
 
 **Missing cross-link to the triple-discipline.** The article's §"Maintaining the Discipline Downstream" discusses editorial pressures on merged articles (pessimistic review, refine-draft, staleness-driven deep-review) at the level of *reviewer recognition*. The new concept page documents the same territory at the *procedural* level (when a coalesce triggers a condense, when it triggers an apex re-cross-review, what counts as apex stability). Without a cross-link, the article reads as if these editorial pressures were unsystematised. Resolution: added one paragraph at the end of §"Maintaining the Discipline Downstream" pointing at [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) and naming the relationship — the triple-discipline supplies the procedural infrastructure; the seam test supplies the semantic criterion that decides which mergers should be protected by it.
 
-**Frontmatter cross-link absent.** Resolution: added `[coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)` to `related_articles`.
+**Frontmatter cross-link absent.** Resolution: added `[[coalesce-condense-apex-stability]]` to `related_articles`.
 
 ### Counterarguments considered
 
@@ -86,7 +86,7 @@ The article's claims about what the concept page documents are stated as a descr
 
 ### Cross-links added
 
-- `[coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)` (in body and in `related_articles` frontmatter)
+- `[[coalesce-condense-apex-stability]]` (in body and in `related_articles` frontmatter)
 
 ## Length Assessment
 

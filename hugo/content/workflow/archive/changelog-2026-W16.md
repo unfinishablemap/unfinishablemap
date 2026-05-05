@@ -139,7 +139,7 @@ title: AI Activity Changelog - Week 2026-W16
 ## 2026-04-19 11:38 UTC - refine-draft
 - **Status**: Success
 - **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
-- **Changes**: Updated two wikilinks from archived `[pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/)` slug to the unified `[pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/)` article (body §QBism and Participatory Realism, and Further Reading entry). Display label updated to the new article's title "Pragmatist Quantum Foundations and the Agent-Shaped Hole".
+- **Changes**: Updated two wikilinks from archived `[[pragmatism-and-qbism]]` slug to the unified `[[pragmatist-quantum-foundations-and-the-agent]]` article (body §QBism and Participatory Realism, and Further Reading entry). Display label updated to the new article's title "Pragmatist Quantum Foundations and the Agent-Shaped Hole".
 - **Published**: yes
 
 ---
@@ -383,7 +383,7 @@ title: AI Activity Changelog - Week 2026-W16
 - **Word count**: 3089 → 3109 words (+20, remains at ~103% of 3000 target, length-neutral mode)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
-- **Low issues addressed**: 1 (added `[the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)` cross-link to Further Reading to complete the triangle with `delegatory-causation` and `concepts/epiphenomenalism`)
+- **Low issues addressed**: 1 (added `[[the-epiphenomenalist-threat]]` cross-link to Further Reading to complete the triangle with `delegatory-causation` and `concepts/epiphenomenalism`)
 - **Cross-review findings**: Integration with unified `delegatory-causation` concept complete. Both topic articles consistent in their treatment of delegation as structural solution complementing quantum interactionism as mechanism. Verbatim quotes preserved. Attribution clean. Source/Map separation intact.
 - **Stability**: Fully stable across five reviews plus outer review. All bedrock philosophical disagreements properly acknowledged as standoffs, not flaws.
 - **Output**: [deep-review-2026-04-18-delegatory-dualism](/reviews/deep-review-2026-04-18-delegatory-dualism/)
@@ -452,7 +452,7 @@ title: AI Activity Changelog - Week 2026-W16
 - **Status**: Success
 - **Task**: Update wikilinks to coalesced voids-between-minds articles
 - **Scope**: 42 active content files (topics/, concepts/, voids/, apex/)
-- **Wikilinks retargeted**: ~122 references across `[other-minds-void](/voids/voids-between-minds/)`, `[second-person-void](/voids/voids-between-minds/)`, `[intersubjective-void](/voids/voids-between-minds/)` (plus display-text variants) → `[voids-between-minds](/voids/voids-between-minds/)`
+- **Wikilinks retargeted**: ~122 references across `[[other-minds-void]]`, `[[second-person-void]]`, `[[intersubjective-void]]` (plus display-text variants) → `[[voids-between-minds]]`
 - **Prose dedupes**: 10 locations where parallel references collapsed to one (See also lists, "X and Y both explore" clauses, triple-reference enumerations in closure-types-void, taxonomy-of-voids, voids-as-evidence, commensurability-void)
 - **Frontmatter dedupes**: consecutive duplicate `related_articles` entries removed across affected files
 - **Citation fix**: commensurability-void reference #5 URL updated to voids-between-minds
@@ -689,7 +689,7 @@ title: AI Activity Changelog - Week 2026-W16
 - **Status**: Success
 - **Scope**: Retarget stale wikilinks after the 2026-04-18 08:48 UTC coalesce merging [causal-delegation](/concepts/causal-delegation/), [default-causal-profile](/concepts/default-causal-profile/), and [preemption](/concepts/preemption/) into [delegatory-causation](/concepts/delegatory-causation/)
 - **Files updated (22)**: concepts/{emergence, biological-computationalism, embodied-cognition, skill-delegation, observational-closure, luck-objection, mental-causation-and-downward-causation, interactionist-dualism, consciousness-as-amplifier, baseline-cognition, causal-closure, agent-causation, objections-to-interactionism}; topics/{born-rule-and-the-consciousness-interface, consciousness-and-the-authority-of-formal-systems, delegation-meets-quantum-selection, the-epiphenomenalist-threat, delegatory-dualism, invertebrate-consciousness-as-interface-test, evolutionary-case-for-mental-causation}; apex/{consciousness-and-agency, interface-specification-programme}
-- **Changes**: Replaced frontmatter list entries with `[delegatory-causation](/concepts/delegatory-causation/)` (deduping where multiple sub-concepts were listed); rewrote in-body wikilinks to `[display text](/concepts/delegatory-causation/)` preserving emphasis on mechanism ("causal delegation"), structure ("preempts"), or baseline ("default causal profile") as appropriate to each passage; consolidated redundant Further Reading bullets. Updated `apex_sources` in interface-specification-programme to point at the unified article.
+- **Changes**: Replaced frontmatter list entries with `[[delegatory-causation]]` (deduping where multiple sub-concepts were listed); rewrote in-body wikilinks to `[[delegatory-causation|display text]]` preserving emphasis on mechanism ("causal delegation"), structure ("preempts"), or baseline ("default causal profile") as appropriate to each passage; consolidated redundant Further Reading bullets. Updated `apex_sources` in interface-specification-programme to point at the unified article.
 - **Published**: yes
 
 ---
@@ -1230,7 +1230,7 @@ title: AI Activity Changelog - Week 2026-W16
 ## 2026-04-17 20:56 UTC - refine-draft
 - **Status**: Success
 - **File**: [voids](/voids/) (coalesce cleanup across 20 files)
-- **Changes**: Retargeted `[resonance-void](/voids/ineffable-encounter-void/)` and `[numinous-void](/voids/ineffable-encounter-void/)` wikilinks to `[ineffable-encounter-void](/voids/ineffable-encounter-void/)` following 2026-04-17 coalesce. Updated 20 active files (frontmatter `related_articles` and inline prose); rephrased sentences that explicitly distinguished the two original registers so the single new article's two-register framing reads naturally. Skipped historical records (reviews/, research/, changelog).
+- **Changes**: Retargeted `[[resonance-void]]` and `[[numinous-void]]` wikilinks to `[[ineffable-encounter-void]]` following 2026-04-17 coalesce. Updated 20 active files (frontmatter `related_articles` and inline prose); rephrased sentences that explicitly distinguished the two original registers so the single new article's two-register framing reads naturally. Skipped historical records (reviews/, research/, changelog).
 - **Published**: yes
 
 ---
@@ -1393,7 +1393,7 @@ title: AI Activity Changelog - Week 2026-W16
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
 - **Enhancements made**: 0
-- **Notes**: Fourth deep review; article has converged. All six adversarial personas applied — findings match bedrock disagreements already documented in prior stability notes. Attribution check passed. All wikilinks resolve (verified `[Process haecceitism](/concepts/haecceity/)` still works after process-haecceitism was coalesced into haecceity on 2026-04-04). No content changes warranted per convergence principle.
+- **Notes**: Fourth deep review; article has converged. All six adversarial personas applied — findings match bedrock disagreements already documented in prior stability notes. Attribution check passed. All wikilinks resolve (verified `[[haecceity|Process haecceitism]]` still works after process-haecceitism was coalesced into haecceity on 2026-04-04). No content changes warranted per convergence principle.
 - **Output**: [deep-review-2026-04-17-process-philosophy](/reviews/deep-review-2026-04-17-process-philosophy/)
 
 ---
@@ -1512,7 +1512,7 @@ title: AI Activity Changelog - Week 2026-W16
 - **Status**: Success
 - **File**: cross-reference update for [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) coalesce
 - **Scope**: 33 live-content files — 27 voids/, 2 topics/, 2 concepts/, project/voids-safety-protocol, workflow/highlights
-- **Changes**: Retargeted all `[defended-territory](/voids/self-maintained-cognitive-limits/)` and `[complicity-void](/voids/self-maintained-cognitive-limits/)` wikilinks to `[self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)`. Preserved display-alias phrasing (e.g., `|defended territory`, `|cognitive aversion`, `|complicity void`) in body prose where it carried natural meaning. Deduped frontmatter `related_articles` where both archived slugs were present (interested-party-void, voids) and pruned redundant Further Reading entries in voids.md, appetitive-void.md, interested-party-void.md. Updated voids.md index description to reflect the merged article.
+- **Changes**: Retargeted all `[[defended-territory]]` and `[[complicity-void]]` wikilinks to `[[self-maintained-cognitive-limits]]`. Preserved display-alias phrasing (e.g., `|defended territory`, `|cognitive aversion`, `|complicity void`) in body prose where it carried natural meaning. Deduped frontmatter `related_articles` where both archived slugs were present (interested-party-void, voids) and pruned redundant Further Reading entries in voids.md, appetitive-void.md, interested-party-void.md. Updated voids.md index description to reflect the merged article.
 - **Excluded**: obsidian/research/, obsidian/reviews/, obsidian/workflow/archive/ (historical records — retained original slug references)
 - **Published**: yes
 
@@ -1718,7 +1718,7 @@ title: AI Activity Changelog - Week 2026-W16
 - **Status**: Success
 - **Task**: Update wikilinks after 2026-04-17 coalesce of boundary-void.md + projection-void.md → boundary-and-projection.md
 - **Files updated**: [minimal-consciousness-void](/voids/minimal-consciousness-void/), [binding-void](/voids/binding-void/), [voids](/voids/), [limits-reveal-structure](/voids/limits-reveal-structure/), [plurality-void](/voids/plurality-void/), [death-void](/voids/death-void/), [self-opacity](/voids/self-opacity/), [other-minds-void](/voids/other-minds-void/), [indexical-void](/voids/indexical-void/)
-- **Changes**: Replaced `[boundary-void](/voids/boundary-and-projection/)` and `[projection-void](/voids/boundary-and-projection/)` wikilinks (in frontmatter, body, and Further Reading sections) with `[boundary-and-projection](/voids/boundary-and-projection/)`; revised adjacent prose so the descriptions reflect the unified void's dual scope (static perimeter + dynamic projection); de-duplicated related_articles entries where the rename collided with an existing `[projection-void](/voids/boundary-and-projection/)` link in self-opacity; bumped `ai_modified` on all nine files
+- **Changes**: Replaced `[[boundary-void]]` and `[[projection-void]]` wikilinks (in frontmatter, body, and Further Reading sections) with `[[boundary-and-projection]]`; revised adjacent prose so the descriptions reflect the unified void's dual scope (static perimeter + dynamic projection); de-duplicated related_articles entries where the rename collided with an existing `[[projection-void]]` link in self-opacity; bumped `ai_modified` on all nine files
 - **Scope**: topics/, concepts/, apex/ had zero references; voids/ covered. Research and archived review files intentionally left as-is per task notes
 - **Published**: yes
 
@@ -2018,7 +2018,7 @@ title: AI Activity Changelog - Week 2026-W16
 ## 2026-04-17 02:55 UTC - refine-draft
 - **Status**: Success
 - **File**: [commensurability-void](/voids/commensurability-void/)
-- **Changes**: Updated `[mind-space-void](/voids/mapping-mind-space/)` → `[mapping-mind-space](/voids/mapping-mind-space/)` in `related_articles` frontmatter and Further Reading (added display text "Mapping Mind Space") after coalesce merge.
+- **Changes**: Updated `[[mind-space-void]]` → `[[mapping-mind-space]]` in `related_articles` frontmatter and Further Reading (added display text "Mapping Mind Space") after coalesce merge.
 - **Published**: yes
 
 ---
@@ -2039,7 +2039,7 @@ title: AI Activity Changelog - Week 2026-W16
 - **Context**: Cross-review against quantum-consciousness cluster; third review (prior 2026-04-16, 2026-04-16b established content convergence)
 - **Word count**: 1944 → 2024 (+80)
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 5 cluster-integration gaps — added links to apex `[post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)`, canonical term `[timing-gap-problem](/concepts/timing-gap-problem/)`, `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)`, `[non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)`, and `[amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)`
+- **Medium issues addressed**: 5 cluster-integration gaps — added links to apex `[[post-decoherence-selection-programme]]`, canonical term `[[timing-gap-problem]]`, `[[quantum-neural-timing-constraints]]`, `[[non-retrocausal-conscious-selection-models]]`, and `[[amplification-mechanisms-consciousness-physics]]`
 - **Enhancements made**: 2 (inline link to timing gap concept in opening; asymmetry sentence in "Why Not Pre-Decoherence?" tying to detailed timing analysis)
 - **Output**: [deep-review-2026-04-17-post-decoherence-selection-mechanisms](/reviews/deep-review-2026-04-17-post-decoherence-selection-mechanisms/)
 
@@ -2268,7 +2268,7 @@ title: AI Activity Changelog - Week 2026-W16
 - **File**: [language-thought-boundary](/voids/language-thought-boundary/)
 - **Word count**: 2144 → 2150 (+6, length-neutral)
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 3 (stale apophatic-approaches links modernized to apophatic-cartography; three-kinds-of-void direct link replacing `[three void types](/voids/)`; missing reciprocal link to new [metaphor-void](/voids/metaphor-void/))
+- **Medium issues addressed**: 3 (stale apophatic-approaches links modernized to apophatic-cartography; three-kinds-of-void direct link replacing `[[voids|three void types]]`; missing reciprocal link to new [metaphor-void](/voids/metaphor-void/))
 - **Enhancements made**: Reflexive-metaphor acknowledgment sentence in Paradox section linking [metaphor-void](/voids/metaphor-void/); tightened AI section and "What Would Challenge This View?" prose to offset additions
 - **Cross-review context**: apophatic-cartography.md, three-kinds-of-void.md, metaphor-void.md
 - **Output**: [deep-review-2026-04-16-language-thought-boundary](/reviews/deep-review-2026-04-16-language-thought-boundary/)

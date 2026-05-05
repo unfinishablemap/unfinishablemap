@@ -58,8 +58,8 @@ None. The article contains no factual errors, no misattributed claims, no intern
 
 ### Enhancements Made
 
-- Added cross-link to `[phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)` in synchronic agency discussion
-- Added cross-link to `[witness-consciousness](/concepts/witness-consciousness/)` in amnesia discussion
+- Added cross-link to `[[phenomenology-of-choice]]` in synchronic agency discussion
+- Added cross-link to `[[witness-consciousness]]` in amnesia discussion
 - Added materialist competing account and Map's response (constitution vs. implementation)
 - Added Buddhist no-self engagement and Map's phenomenological response
 - Nuanced Parfit characterisation for fairness

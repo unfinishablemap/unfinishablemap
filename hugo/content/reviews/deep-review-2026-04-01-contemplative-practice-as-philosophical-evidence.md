@@ -30,7 +30,7 @@ Cross-review considering phenomenological method insights. The article was subst
 None.
 
 ### Medium Issues Found
-- **Self-referencing wikilink**: `related_articles` included `[contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)` — the article linking to itself. **Resolution**: Removed.
+- **Self-referencing wikilink**: `related_articles` included `[[contemplative-practice-as-philosophical-evidence]]` — the article linking to itself. **Resolution**: Removed.
 - **Uncited references**: 6 of 16 references (Davidson 2012, Lutz & Thompson 2003, Lutz et al. 2020, Parkinson 2022, Petitmengin 2006, Thompson 2007) were never cited in article text — artifacts of condensation. Misleading in numbered reference format. **Resolution**: Removed uncited references, retaining only those cited in text.
 - **Missing cross-link**: No connection to [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) despite shared subject matter (Husserl's epoché, evidence taxonomy). **Resolution**: Added wikilink in methodology section, related_articles, and Further Reading.
 

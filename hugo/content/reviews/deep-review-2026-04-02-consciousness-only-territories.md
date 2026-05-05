@@ -26,14 +26,14 @@ topics: []
 None. Fourth review confirms continued stability. No attribution errors, source/Map conflation, or self-contradictions found.
 
 ### Medium Issues Found
-1. **Misleading display text on self-opacity links**: Two links used display text from pre-coalesce article names (`[phenomenology of error recognition](/voids/self-opacity/)` and `[self-reference paradox](/voids/self-opacity/)`). The link targets were valid but the display text implied different articles.
-   - **Resolution**: Updated display text to match the actual article name: `[Self-opacity](/voids/self-opacity/)` and `[self-opacity](/voids/self-opacity/)`.
+1. **Misleading display text on self-opacity links**: Two links used display text from pre-coalesce article names (`[[self-opacity|phenomenology of error recognition]]` and `[[self-opacity|self-reference paradox]]`). The link targets were valid but the display text implied different articles.
+   - **Resolution**: Updated display text to match the actual article name: `[[self-opacity|Self-opacity]]` and `[[self-opacity]]`.
 
 2. **Missing wikilink to symbol-grounding-problem**: The Grounding Asymmetry section discussed symbol grounding extensively without linking to the existing concept page.
-   - **Resolution**: Added `[symbol-grounding-problem](/concepts/symbol-grounding-problem/)` inline link and to frontmatter concepts.
+   - **Resolution**: Added `[[symbol-grounding-problem]]` inline link and to frontmatter concepts.
 
 3. **Missing wikilink to knowledge-argument**: The article's central argument revolves around the knowledge argument (Mary's Room) without linking to the existing concept page.
-   - **Resolution**: Added `[knowledge-argument](/concepts/knowledge-argument/)` inline link and to frontmatter concepts.
+   - **Resolution**: Added `[[knowledge-argument]]` inline link and to frontmatter concepts.
 
 ### Low Issues Found
 None.

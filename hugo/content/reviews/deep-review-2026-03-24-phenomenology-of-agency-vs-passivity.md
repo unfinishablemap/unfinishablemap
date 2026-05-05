@@ -24,7 +24,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink: `[phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/)`** (lines 54 and 152): The article linked to `phenomenology-of-volition` which was coalesced into `volitional-control` on 2026-03-24. Both the in-text reference and the Further Reading entry pointed to a non-existent file. Resolution: Updated both links to `[volitional-control](/topics/volitional-control/)` with appropriate display text.
+- **Broken wikilink: `[[phenomenology-of-volition]]`** (lines 54 and 152): The article linked to `phenomenology-of-volition` which was coalesced into `volitional-control` on 2026-03-24. Both the in-text reference and the Further Reading entry pointed to a non-existent file. Resolution: Updated both links to `[[volitional-control]]` with appropriate display text.
 
 ### Medium Issues Found
 - **Missing intentional binding evidence** (M1): The "Against Epiphenomenalism" section relied solely on the calibration problem and Rajan et al.'s neural signature. Intentional binding — an implicit, non-introspective measure of agency — was absent despite being directly relevant. Resolution: Added a paragraph on Haggard et al. (2002) intentional binding as converging implicit evidence against epiphenomenalism.
@@ -57,15 +57,15 @@ topics: []
 - Appropriate restraint on quantum Zeno mechanism (delegated via links)
 
 ### Enhancements Made
-- Fixed broken `[phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/)` wikilinks → `[volitional-control](/topics/volitional-control/)` (2 instances)
+- Fixed broken `[[phenomenology-of-volition]]` wikilinks → `[[volitional-control]]` (2 instances)
 - Added intentional binding paragraph in "Against Epiphenomenalism" with Haggard et al. (2002) citation
 - Added Schwartz et al. (1996) neuroplasticity evidence grounding the effort phenomenology claim
 - Added two reference entries (Haggard et al. 2002, Schwartz et al. 1996)
 - Updated Further Reading entry to reflect volitional-control's broader scope
 
 ### Cross-links Added
-- `[Intentional binding](/topics/volitional-control/#intentional-binding-an-implicit-measure)` — section-specific link to implicit evidence
-- `[Volitional control research](/topics/volitional-control/)` — updated from broken `[phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/)`
+- `[[volitional-control#Intentional Binding: An Implicit Measure|Intentional binding]]` — section-specific link to implicit evidence
+- `[[volitional-control|Volitional control research]]` — updated from broken `[[phenomenology-of-volition]]`
 
 ## Remaining Items
 

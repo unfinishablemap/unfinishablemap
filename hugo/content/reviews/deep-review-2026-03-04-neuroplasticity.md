@@ -24,10 +24,10 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken wikilink `bidirectional-causation`**: Frontmatter linked to non-existent file. Actual file is `bidirectional-interaction`.
-   - **Resolution**: Fixed to `[bidirectional-interaction](/concepts/bidirectional-interaction/)`.
+1. **Broken wikilink `[[bidirectional-causation]]`**: Frontmatter linked to non-existent file. Actual file is `bidirectional-interaction`.
+   - **Resolution**: Fixed to `[[bidirectional-interaction]]`.
 
-2. **Broken wikilink `[contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)`**: Referenced in both frontmatter and body. Actual file is `contemplative-evidence-for-consciousness`.
+2. **Broken wikilink `[[contemplative-evidence-for-consciousness]]`**: Referenced in both frontmatter and body. Actual file is `contemplative-evidence-for-consciousness`.
    - **Resolution**: Fixed in both locations.
 
 ### Medium Issues Found

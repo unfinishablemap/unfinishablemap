@@ -27,7 +27,7 @@ None. Attribution accuracy verified throughout. Source/Map separation clean. No 
 
 ### Medium Issues Found
 - **Circular self-citations (refs 20, 21)**: The article cited "The Interaction Problem in Non-Western Philosophy" and "Interaction Solutions Across Philosophical Traditions"—both articles that were coalesced INTO this one (recorded in `coalesced_from` frontmatter). Citing your own predecessors is circular. **Resolution**: Removed both self-citations. Provenance is already recorded in the `coalesced_from` field.
-- **Lost cross-link from coalesce**: The pre-coalesce review (2026-03-11b) had added a `[buddhism-and-dualism](/concepts/buddhism-and-dualism/)` link in the Buddhist section of Type 3, but this was lost during the coalesce operation. **Resolution**: Restored as wikilink on "Buddhist dependent origination."
+- **Lost cross-link from coalesce**: The pre-coalesce review (2026-03-11b) had added a `[[buddhism-and-dualism]]` link in the Buddhist section of Type 3, but this was lost during the coalesce operation. **Resolution**: Restored as wikilink on "Buddhist dependent origination."
 
 ### Counterarguments Considered
 No new counterarguments needed. Previous reviews addressed functionalist convergence objection, decoherence, and MWI. All remain bedrock disagreements.
@@ -44,7 +44,7 @@ No new counterarguments needed. Previous reviews addressed functionalist converg
 
 ### Enhancements Made
 - Removed circular self-citations to coalesced source articles
-- Restored `[buddhism-and-dualism](/concepts/buddhism-and-dualism/)` cross-link lost during coalesce
+- Restored `[[buddhism-and-dualism]]` cross-link lost during coalesce
 
 ### Cross-links Added
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) (Type 3 Buddhist section)

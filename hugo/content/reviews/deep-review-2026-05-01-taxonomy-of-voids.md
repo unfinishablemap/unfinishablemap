@@ -96,12 +96,12 @@ All structural elements unchanged:
 
 1. **Conjoint-voids list reconciled** (line 150): Added [suspension-void](/voids/suspension-void/) (verification + capacity + action), [imagery-void](/voids/imagery-void/) (fidelity + inter-subjective + function-phenomenology), [vagueness-void](/voids/vagueness-void/) (Sorites + introspective + higher-order). Changed introductory phrase from "Some pairs prove *conjoint*" to "Some voids prove *conjoint*" (most entries are three-face, not pairs). Net +18 words.
 2. **Tenet-generated voids paragraph compression** (line 168): Trimmed verbose phrasings ("is an open historiographical question" → "remains open"; "fit each other without strain" → "fit without strain"; "an independent cataloguing exercise" → "independent cataloguing"). Net -7 words.
-3. **Frontmatter `related_articles`**: added `[suspension-void](/voids/suspension-void/)` after `[erasure-void](/voids/erasure-void/)` (proximity reflecting both being conjunction-coalesce cognates).
+3. **Frontmatter `related_articles`**: added `[[suspension-void]]` after `[[erasure-void]]` (proximity reflecting both being conjunction-coalesce cognates).
 
 ### Cross-links Added
 
-- `[suspension-void](/voids/suspension-void/)` (frontmatter + body conjoint list)
-- `[imagery-void](/voids/imagery-void/)` and `[vagueness-void](/voids/vagueness-void/)` were already in the article body and frontmatter; the conjoint-list addition adds explicit cross-link to the structural-conjunction context.
+- `[[suspension-void]]` (frontmatter + body conjoint list)
+- `[[imagery-void]]` and `[[vagueness-void]]` were already in the article body and frontmatter; the conjoint-list addition adds explicit cross-link to the structural-conjunction context.
 
 ### Length Accounting
 

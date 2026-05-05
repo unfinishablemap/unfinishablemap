@@ -28,7 +28,7 @@ None. The previous review addressed all critical issues (strength-mismatch examp
 
 ### Medium Issues Found
 
-- **Qualified wikilink inconsistency**: `[physicalism](/concepts/materialism/)` used a folder-qualified path while all other wikilinks in the article use bare slugs. Fixed to `[physicalism](/concepts/materialism/)`.
+- **Qualified wikilink inconsistency**: `[[concepts/materialism|physicalism]]` used a folder-qualified path while all other wikilinks in the article use bare slugs. Fixed to `[[materialism|physicalism]]`.
 - **Yablo cited but not discussed**: The references include Yablo (1993) but his contribution was never mentioned in the text. His analysis of conceivability as defeasible evidence for possibility is foundational to the framework Chalmers builds on. Added a brief mention in the Chalmers' Refinement section.
 
 ### Counterarguments Considered
@@ -49,7 +49,7 @@ No new counterarguments needed. The four challenges (confabulation, two-dimensio
 ### Enhancements Made
 
 - Added Yablo's contribution to the conceivability taxonomy discussion (he's now mentioned where his cited work is relevant)
-- Added `[libertarian free will](/topics/free-will/)` cross-link in the Bidirectional Interaction paragraph, connecting conceivability of separation to its implications for causal efficacy and free will
+- Added `[[free-will|libertarian free will]]` cross-link in the Bidirectional Interaction paragraph, connecting conceivability of separation to its implications for causal efficacy and free will
 - Fixed qualified wikilink path for consistency
 
 ### Cross-links Added

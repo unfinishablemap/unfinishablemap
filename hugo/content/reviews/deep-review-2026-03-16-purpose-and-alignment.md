@@ -24,9 +24,9 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken wikilink in frontmatter**: `[nihilism](/concepts/nihilism-and-existentialism/)` in concepts list — actual file is `nihilism-and-existentialism.md`. **Resolution**: Fixed to `[nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)`.
+1. **Broken wikilink in frontmatter**: `[[nihilism]]` in concepts list — actual file is `nihilism-and-existentialism.md`. **Resolution**: Fixed to `[[nihilism-and-existentialism]]`.
 
-2. **Duplicate Further Reading entry**: `[phenomenal-value-realism](/topics/phenomenal-value-realism/)` appeared twice with different display text. **Resolution**: Merged into single entry with combined description.
+2. **Duplicate Further Reading entry**: `[[topics/phenomenal-value-realism]]` appeared twice with different display text. **Resolution**: Merged into single entry with combined description.
 
 ### Medium Issues Found
 
@@ -71,7 +71,7 @@ No attribution errors found. Source/Map separation is clean throughout.
 
 ### Enhancements Made
 
-- Fixed broken `[nihilism](/concepts/nihilism-and-existentialism/)` wikilink to `[nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)`
+- Fixed broken `[[nihilism]]` wikilink to `[[nihilism-and-existentialism]]`
 - Merged duplicate Further Reading entry for phenomenal-value-realism
 
 ### Cross-links Verified

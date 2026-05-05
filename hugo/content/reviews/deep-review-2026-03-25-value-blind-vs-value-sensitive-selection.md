@@ -23,10 +23,10 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken section anchor**: `[selection laws article](/concepts/psychophysical-laws/#what-selection-laws-must-specify)` pointed to a non-existent section. The psychophysical-laws article was restructured since the article was written; the relevant content is under "The Coupling Problem." Fixed anchor to `[selection laws article](/concepts/psychophysical-laws/#the-coupling-problem)` and updated "selection law" to "coupling law" for consistency with current terminology.
+- **Broken section anchor**: `[[psychophysical-laws#What Selection Laws Must Specify|selection laws article]]` pointed to a non-existent section. The psychophysical-laws article was restructured since the article was written; the relevant content is under "The Coupling Problem." Fixed anchor to `[[psychophysical-laws#The Coupling Problem|selection laws article]]` and updated "selection law" to "coupling law" for consistency with current terminology.
 
 ### Medium Issues Found
-None. Changes since the last review (2026-03-02) were purely mechanical: wikilink renames (`[selection-laws](/concepts/psychophysical-laws/)` → `[psychophysical-laws](/concepts/psychophysical-laws/)`), case fixes on wikilinks, and removal of a duplicate frontmatter entry. No substantive content was altered.
+None. Changes since the last review (2026-03-02) were purely mechanical: wikilink renames (`[[selection-laws]]` → `[[psychophysical-laws]]`), case fixes on wikilinks, and removal of a duplicate frontmatter entry. No substantive content was altered.
 
 ### Attribution Accuracy Check
 

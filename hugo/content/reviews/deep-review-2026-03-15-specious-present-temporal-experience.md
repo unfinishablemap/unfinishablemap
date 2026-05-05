@@ -72,14 +72,14 @@ However, two articles discussed temporal concepts relevant to the specious prese
 ### Cross-links Added
 
 **consciousness-and-memory.md:**
-- Added `[temporal-consciousness](/concepts/temporal-consciousness/)` to concepts frontmatter
+- Added `[[temporal-consciousness]]` to concepts frontmatter
 - Added inline link: "the [specious present](/concepts/temporal-consciousness/)" where the experienced present is discussed
-- Added `[temporal-consciousness](/concepts/temporal-consciousness/)` to Further Reading
+- Added `[[temporal-consciousness]]` to Further Reading
 
 **phenomenology-of-recursive-thought.md:**
-- Added `[temporal-consciousness](/concepts/temporal-consciousness/)` to concepts frontmatter
+- Added `[[temporal-consciousness]]` to concepts frontmatter
 - Added inline link: "[temporal thickness](/concepts/temporal-consciousness/)" in the Temporal Thickness section
-- Added `[temporal-consciousness](/concepts/temporal-consciousness/)` to Further Reading with description
+- Added `[[temporal-consciousness]]` to Further Reading with description
 
 ## Remaining Items
 

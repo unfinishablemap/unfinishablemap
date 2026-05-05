@@ -105,7 +105,7 @@ The article's prior claim that "the cognate" (singular, referring to erasure-voi
 
 ### Cross-links added
 
-- `[numerosity-void](/voids/the-quantitative-comprehension-void/)` (in `related_articles` frontmatter, in §"Two Coalesces and Two Cognates", in §"Source Articles" with descriptive subtext)
+- `[[numerosity-void]]` (in `related_articles` frontmatter, in §"Two Coalesces and Two Cognates", in §"Source Articles" with descriptive subtext)
 - `voids/numerosity-void` (in `apex_sources` frontmatter)
 
 ### Effective patterns retained

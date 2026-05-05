@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Triple-duplicated concept entry** (frontmatter lines 24-26): `[evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)` was listed three times with no aliases. This was an artifact of the 2026-04-06 coalesce that merged `moral-phenomenology-and-perception`, `phenomenal-normativity`, and `normative-phenomenology` into the unified `evaluative-phenomenal-character` concept — the wikilink updater rewrote the targets but did not deduplicate. **Resolution**: Collapsed to a single entry.
+- **Triple-duplicated concept entry** (frontmatter lines 24-26): `[[evaluative-phenomenal-character]]` was listed three times with no aliases. This was an artifact of the 2026-04-06 coalesce that merged `moral-phenomenology-and-perception`, `phenomenal-normativity`, and `normative-phenomenology` into the unified `evaluative-phenomenal-character` concept — the wikilink updater rewrote the targets but did not deduplicate. **Resolution**: Collapsed to a single entry.
 - **Misleading aliased duplicates in Further Reading** (lines 145-148): Three separate bullets read as different concepts (`moral phenomenology and perception`, `phenomenal normativity`, `normative phenomenology`) but all linked to the same `evaluative-phenomenal-character` target. Readers clicking each would arrive at the same page. **Resolution**: Consolidated into a single bullet that names the unified treatment and what it covers; preserved the distinct `consciousness-and-normative-force` link that sits between them.
 
 ### Medium Issues Found

@@ -28,7 +28,7 @@ Six adversarial personas re-engaged briefly. No new content has been added since
 
 ### Critical Issues Found
 
-- **Broken/archived cross-reference in `related_articles`**: `[concept-of-free-will](/topics/free-will/)` was coalesced into `[free-will](/topics/free-will/)` and the concepts-level page is now an archive stub. Since `topics/free-will` is already listed under `topics`, a duplicate pointer would add no value. [Resolution: replaced with `[trilemma-of-selection](/topics/trilemma-of-selection/)`, which is prominently invoked in the Authorship Problem section but was absent from `related_articles`.]
+- **Broken/archived cross-reference in `related_articles`**: `[[concept-of-free-will]]` was coalesced into `[[topics/free-will]]` and the concepts-level page is now an archive stub. Since `topics/free-will` is already listed under `topics`, a duplicate pointer would add no value. [Resolution: replaced with `[[trilemma-of-selection]]`, which is prominently invoked in the Authorship Problem section but was absent from `related_articles`.]
 
 No other critical issues: attribution, qualifier preservation, self-contradiction, and source/Map separation checks all pass unchanged.
 
@@ -56,11 +56,11 @@ Unchanged from 2026-04-17. All adequately addressed.
 
 ### Enhancements Made
 
-- `related_articles` now points to `[trilemma-of-selection](/topics/trilemma-of-selection/)` rather than the archived concepts-level free-will article. This better reflects the article's actual referential structure—the trilemma framing opens the Authorship Problem and its linked page supports the exhaustive framing.
+- `related_articles` now points to `[[trilemma-of-selection]]` rather than the archived concepts-level free-will article. This better reflects the article's actual referential structure—the trilemma framing opens the Authorship Problem and its linked page supports the exhaustive framing.
 
 ### Cross-links Added
 
-- `[trilemma-of-selection](/topics/trilemma-of-selection/)` (replaces archived reference)
+- `[[trilemma-of-selection]]` (replaces archived reference)
 
 ## Remaining Items
 

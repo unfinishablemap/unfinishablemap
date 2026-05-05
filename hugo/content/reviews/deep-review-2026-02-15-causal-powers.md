@@ -24,14 +24,14 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilinks**: `dispositions` and `powers-metaphysics` referenced files that do not exist. Resolution: Removed from frontmatter concepts and Further Reading; replaced with links to existing articles (`[causal-closure](/concepts/causal-closure/)`, `[agent-causation](/concepts/agent-causation/)`, `[consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)`, `[objections-to-interactionism](/concepts/objections-to-interactionism/)`).
+- **Broken wikilinks**: `dispositions` and `powers-metaphysics` referenced files that do not exist. Resolution: Removed from frontmatter concepts and Further Reading; replaced with links to existing articles (`[[causal-closure]]`, `[[agent-causation]]`, `[[consciousness-and-causal-powers]]`, `[[objections-to-interactionism]]`).
 - **Missing full site name**: All references used "The Map's" without ever introducing "The Unfinishable Map" as required by the writing style guide. Resolution: Changed first mention (line 42) to "The Unfinishable Map's".
 - **Description field described process, not content**: Original description ("iterative refinement, collaborative human-AI dialogue") was meaningless to readers. Resolution: Rewritten to describe the article's actual argument.
 
 ### Medium Issues Found
 - **Finkish disposition attribution**: The term "finkish" was coined by Lewis (1997), not Martin (1994). Martin introduced the counterexample. Resolution: Clarified attribution and added Lewis 1997 to References.
 - **Molière/dormitive virtue objection unaddressed**: Applying powers talk to consciousness risks being merely redescriptive rather than explanatory. Resolution: Added a paragraph in "Relation to Site Perspective" acknowledging this gap and pointing to how the Map addresses it.
-- **Quantum decoherence not flagged as contested**: The article invoked quantum branch points in neural systems without noting this is disputed. Resolution: Added a sentence flagging the decoherence objection with a link to `[objections-to-interactionism](/concepts/objections-to-interactionism/)`.
+- **Quantum decoherence not flagged as contested**: The article invoked quantum branch points in neural systems without noting this is disputed. Resolution: Added a sentence flagging the decoherence objection with a link to `[[objections-to-interactionism]]`.
 - **Neutral monism introduced then dropped**: The three-position taxonomy mentioned neutral monism without explaining why the Map rejects it. Resolution: Expanded neutral monism description with a brief explanation of why the Map favours powers realism.
 - **No empirical grounding acknowledged**: The article presented the powers framework without noting the gap between physical powers (empirically characterised) and mental powers (not). Resolution: Addressed in the new Molière objection paragraph.
 

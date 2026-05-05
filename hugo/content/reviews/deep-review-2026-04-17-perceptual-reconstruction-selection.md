@@ -28,7 +28,7 @@ None. Attribution check clean: Leopold & Logothetis (1999), Carter et al. (2005)
 ### Medium Issues Found
 - **Uncited reference**: Clark (2013) appeared in References but was not cited in body text — previous review noted this but deferred. Resolution: added inline "(Clark, 2013)" at the PP framework introduction.
 - **Stale archive URLs in references**: References 7 and 8 pointed to URLs that were preserved-via-archive after the 2026-04-02 coalesce of the two perception articles into `selective-correction-and-reconstruction-paradox`. Resolution: replaced with a single reference to the active unified article.
-- **Bare wikilink**: One instance of `[selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)` rendered without display text in body prose. Resolution: added display text "selective correction".
+- **Bare wikilink**: One instance of `[[selective-correction-and-reconstruction-paradox]]` rendered without display text in body prose. Resolution: added display text "selective correction".
 
 ### Counterarguments Considered
 No new counterarguments beyond those addressed in the 2026-03-18 review. The phenomenal-vs-computational discreteness argument remains a bedrock disagreement with functionalism and is not re-flagged.

@@ -68,7 +68,7 @@ All six adversarial personas engaged:
 
 ### Cross-links Added
 
-- `[anesthesia-void](/voids/anesthesia-void/)` — frontmatter related_articles, body text (Anesthetic Divergence), Further Reading
+- `[[anesthesia-void]]` — frontmatter related_articles, body text (Anesthetic Divergence), Further Reading
 
 ## Length Management
 

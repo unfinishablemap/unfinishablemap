@@ -51,7 +51,7 @@ None.
 - Added illusionist acknowledgment in Premise 1 discussion
 - Clarified Churchland 1984/1988 chronology
 - Added Swinburne (1986) and von Neumann (1932/1955) to References
-- Added cross-links: `[von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)`, `[measurement-problem](/concepts/measurement-problem/)`, `[quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)`
+- Added cross-links: `[[von-neumann-wigner-interpretation]]`, `[[measurement-problem]]`, `[[quantum-measurement-and-consciousness]]`
 
 ### Cross-links Added
 - [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — in body text and Further Reading

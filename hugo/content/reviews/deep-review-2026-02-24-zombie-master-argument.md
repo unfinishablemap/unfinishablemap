@@ -26,7 +26,7 @@ topics: []
 None. Attribution accuracy check passed on all counts — Chalmers, Jackson, Levine, and Kripke all accurately credited. Type-Q correctly flagged as non-standard nomenclature. Source/Map separation clean. No self-contradictions.
 
 ### Medium Issues Found
-- **Frontmatter path inconsistency**: `[materialism](/concepts/materialism/)` and `[functionalism](/concepts/functionalism/)` used path prefixes inconsistent with all other concept links. **Resolution**: Fixed to `[materialism](/concepts/materialism/)` and `[functionalism](/concepts/functionalism/)`.
+- **Frontmatter path inconsistency**: `[[concepts/materialism]]` and `[[concepts/functionalism]]` used path prefixes inconsistent with all other concept links. **Resolution**: Fixed to `[[materialism]]` and `[[functionalism]]`.
 - **"The gap seems to widen" (contested claim)**: Original phrasing presented as fact that the explanatory gap is widening. **Resolution**: Replaced with balanced framing — "Type-A advocates argue progress is being made; critics contend the gap has not narrowed."
 - **Question-begging phrasing**: "An uncomfortable position for anyone who trusts their own phenomenal judgments" presupposes the reliability of phenomenal judgments, which is precisely what Type-A physicalists dispute. **Resolution**: Replaced with "a position that carries its own explanatory burden, since it must account for the widespread and persistent intuition that zombies are conceivable."
 - **No mention of illusionism**: The article mentioned Dennett and Frankish without engaging illusionism as a distinct response, despite `illusionism.md` existing on the site. **Resolution**: Added illusionism as the most developed Type-A position with cross-link.

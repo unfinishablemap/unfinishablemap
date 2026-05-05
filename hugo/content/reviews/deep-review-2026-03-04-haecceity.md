@@ -24,8 +24,8 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken wikilink `[indexical-facts](/concepts/indexical-knowledge-and-identity/)`** (4 locations: frontmatter, body definition, Lewis "Two Gods" reference, Further Reading): Archived article, superseded by `indexical-knowledge-and-identity`. **Resolution**: Replaced all 4 instances with `[indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)`.
-- **Broken wikilink `[eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-consciousness/)`** (Buddhist challenge section): Archived article, superseded by `eastern-philosophy-consciousness`. **Resolution**: Replaced with `[Eastern Philosophy and Consciousness](/topics/eastern-philosophy-consciousness/)`.
+- **Broken wikilink `[[indexical-facts]]`** (4 locations: frontmatter, body definition, Lewis "Two Gods" reference, Further Reading): Archived article, superseded by `indexical-knowledge-and-identity`. **Resolution**: Replaced all 4 instances with `[[indexical-knowledge-and-identity]]`.
+- **Broken wikilink `[[eastern-philosophy-haecceity-tension]]`** (Buddhist challenge section): Archived article, superseded by `eastern-philosophy-consciousness`. **Resolution**: Replaced with `[[eastern-philosophy-consciousness|Eastern Philosophy and Consciousness]]`.
 
 ### Medium Issues Found
 
@@ -66,8 +66,8 @@ All six adversarial personas applied. No new philosophical issues beyond those i
 
 ### Cross-links Updated
 
-- `[indexical-facts](/concepts/indexical-knowledge-and-identity/)` → `[indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)` (4 locations)
-- `[eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-consciousness/)` → `[eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)` (1 location)
+- `[[indexical-facts]]` → `[[indexical-knowledge-and-identity]]` (4 locations)
+- `[[eastern-philosophy-haecceity-tension]]` → `[[eastern-philosophy-consciousness]]` (1 location)
 
 ## Changes Summary
 

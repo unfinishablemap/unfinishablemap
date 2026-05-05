@@ -30,16 +30,16 @@ None. Attribution is accurate across all source claims (Gödel, Turing, Lucas, P
 
 1. **LLM cliché violation** (line 169): "This is not pessimism—it is mathematical precision about where explanation ends" used the "This is not X—it is Y" construct forbidden by the writing style guide. The same violation pattern was inherited from the pre-coalesce computational-cognitive-limits article. **Resolution**: Rephrased to "The claim carries mathematical precision about where explanation ends, not pessimism."
 
-2. **Stale wikilinks to coalesced slugs across 20 content files**: Twenty non-review, non-research files linked to either `[computational-cognitive-limits](/voids/formal-cognitive-limits/)` or `[incompleteness-void](/voids/formal-cognitive-limits/)` (or both). Archive pages with `superseded_by` pointers exist, but cross-references should point to the live article. **Resolution**: Bulk-updated 56 wikilinks across:
+2. **Stale wikilinks to coalesced slugs across 20 content files**: Twenty non-review, non-research files linked to either `[[computational-cognitive-limits]]` or `[[incompleteness-void]]` (or both). Archive pages with `superseded_by` pointers exist, but cross-references should point to the live article. **Resolution**: Bulk-updated 56 wikilinks across:
    - obsidian/topics/ (4 files)
    - obsidian/concepts/ (4 files)
    - obsidian/voids/ (11 files)
    - obsidian/apex/ (1 file)
    Three files had duplicate related_articles entries after conversion (mathematical-void, self-transcendence-void, voids); deduplicated.
 
-3. **voids.md index duplication**: The voids index listed the coalesced article once in "Voids of Consciousness and Self-Reference" (under the former incompleteness-void entry) and once in "Types of Cognitive Limits" (under the former computational-cognitive-limits entry). **Resolution**: Kept a single entry in "Types of Cognitive Limits" (the article's primary taxonomic home), removed the entry in the self-reference section where `[The Self-Reference Paradox](/voids/self-opacity/)` already serves as the primary entry.
+3. **voids.md index duplication**: The voids index listed the coalesced article once in "Voids of Consciousness and Self-Reference" (under the former incompleteness-void entry) and once in "Types of Cognitive Limits" (under the former computational-cognitive-limits entry). **Resolution**: Kept a single entry in "Types of Cognitive Limits" (the article's primary taxonomic home), removed the entry in the self-reference section where `[[self-opacity|The Self-Reference Paradox]]` already serves as the primary entry.
 
-4. **Grammar from slug pluralisation**: Three content files used `[formal-cognitive-limits](/voids/formal-cognitive-limits/)` as a singular subject after the rename ("The formal-cognitive-limits applies...", "...explores..."). The plural noun phrase requires "apply/explore". **Resolution**: Fixed subject-verb agreement in cartography-problem.md, self-reference-paradox.md, and self-transcendence-void.md.
+4. **Grammar from slug pluralisation**: Three content files used `[[formal-cognitive-limits]]` as a singular subject after the rename ("The formal-cognitive-limits applies...", "...explores..."). The plural noun phrase requires "apply/explore". **Resolution**: Fixed subject-verb agreement in cartography-problem.md, self-reference-paradox.md, and self-transcendence-void.md.
 
 5. **Length at 165% of soft threshold (3304 words)**: Article exceeds hard threshold (3000 for voids/). Post-coalesce articles are expected to run longer, but the "Implications for the Map" section substantially duplicated the Relation to Site Perspective section that immediately followed. **Resolution**: Removed the "Implications for the Map" section (~100 words), preserving its one distinct contribution (cartography-problem link) by folding it into the Relation to Site Perspective closing paragraph. Post-edit: 3203 words (107% of hard threshold).
 

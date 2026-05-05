@@ -79,7 +79,7 @@ None. The article has reached stability.
 
 ## Stability Notes
 
-This is the third deep review of this article. Changes since the previous review were limited to link fixes (`[lucid-dreaming-and-consciousness](/topics/dream-consciousness/)` → `[dream-consciousness](/topics/dream-consciousness/)`), reference formatting, and addition of a dream-consciousness-void cross-link. No substantive content changes.
+This is the third deep review of this article. Changes since the previous review were limited to link fixes (`[[lucid-dreaming-and-consciousness]]` → `[[dream-consciousness]]`), reference formatting, and addition of a dream-consciousness-void cross-link. No substantive content changes.
 
 - **Article has converged**: Three reviews have now confirmed stability. The computational/phenomenal binding distinction, interface modes framework, and falsifiability conditions are all strong and well-established.
 

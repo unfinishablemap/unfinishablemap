@@ -23,11 +23,11 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[consciousness-and-meaning-integration](/topics/consciousness-and-semantic-understanding/)`** (line 104): No such file exists. Resolution: Removed wikilink, kept "Narrative integration" as plain text description.
-- **Broken wikilink `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)`** (Further Reading): No such file exists. Resolution: Removed entry from Further Reading.
+- **Broken wikilink `[[consciousness-and-meaning-integration]]`** (line 104): No such file exists. Resolution: Removed wikilink, kept "Narrative integration" as plain text description.
+- **Broken wikilink `[[consciousness-and-semantic-understanding]]`** (Further Reading): No such file exists. Resolution: Removed entry from Further Reading.
 
 ### Medium Issues Found
-- **Duplicate Further Reading entry**: `[phenomenal-value-realism](/topics/phenomenal-value-realism/)` appeared twice with slightly different display text. Resolution: Removed duplicate.
+- **Duplicate Further Reading entry**: `[[topics/phenomenal-value-realism]]` appeared twice with slightly different display text. Resolution: Removed duplicate.
 - **Orphaned citation**: Rawlette (2016) in References but never referenced in text. Resolution: Integrated Rawlette's argument into "Conscious Experience Has Intrinsic Value" section.
 - **Vague attribution for "Sunny Nihilism"**: "Recent work distinguishes" used relative time and lacked specific attribution. Resolution: Rephrased to avoid relative time reference per style guide.
 

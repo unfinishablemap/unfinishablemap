@@ -27,7 +27,7 @@ None. Article is well-structured with all required sections. Attribution accurac
 
 ### Medium Issues Found
 
-1. **Missing cross-link to `[minimal-consciousness](/concepts/minimal-consciousness/)`**
+1. **Missing cross-link to `[[minimal-consciousness]]`**
    - A dedicated concept page was created 2026-01-31 (after previous review) but wasn't linked
    - Resolution: Added wikilink in Contemplative Perspectives section and Further Reading
 
@@ -70,8 +70,8 @@ All six adversarial personas engaged. No new substantive objections beyond those
 
 ### Enhancements Made
 
-1. **Added `[minimal-consciousness](/concepts/minimal-consciousness/)` cross-link** in Contemplative Perspectives section and Further Reading
-2. **Added `[minimal-consciousness](/concepts/minimal-consciousness/)` to frontmatter concepts**
+1. **Added `[[minimal-consciousness]]` cross-link** in Contemplative Perspectives section and Further Reading
+2. **Added `[[minimal-consciousness]]` to frontmatter concepts**
 3. **Tightened Process Philosophy section** (~20 words trimmed for length neutrality)
 
 ### Cross-links Added

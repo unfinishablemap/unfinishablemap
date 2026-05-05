@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 
-- **Inconsistent wikilink style**: The intuitionism section used `[epiphenomenal](/concepts/epiphenomenalism/)` (path-prefixed) while every other wikilink in the article uses bare-slug style. **Resolution**: Normalised to `[epiphenomenal](/concepts/epiphenomenalism/)`.
+- **Inconsistent wikilink style**: The intuitionism section used `[[concepts/epiphenomenalism|epiphenomenal]]` (path-prefixed) while every other wikilink in the article uses bare-slug style. **Resolution**: Normalised to `[[epiphenomenalism|epiphenomenal]]`.
 
 ### Counterarguments Considered
 

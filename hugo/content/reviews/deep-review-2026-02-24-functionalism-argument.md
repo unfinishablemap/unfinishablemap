@@ -55,7 +55,7 @@ topics: []
 4. **Fixed frontmatter concepts accuracy**: Removed `knowledge-argument` (not discussed), added `explanatory-gap` (discussed in body)
 
 ### Cross-links Added
-- `[explanatory-gap](/concepts/explanatory-gap/)` added to frontmatter concepts (was already inline-linked in body)
+- `[[explanatory-gap]]` added to frontmatter concepts (was already inline-linked in body)
 
 ## Remaining Items
 

@@ -23,8 +23,8 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **Broken wikilink `[Attention](/concepts/attention-as-interface/)`**: Line 82 used bare `[Attention](/concepts/attention-as-interface/)` but no `attention.md` file exists. The correct target is `attention-as-interface.md`.
-   - **Resolution**: Changed to `[Attention](/concepts/attention-as-interface/)`.
+1. **Broken wikilink `[[Attention]]`**: Line 82 used bare `[[Attention]]` but no `attention.md` file exists. The correct target is `attention-as-interface.md`.
+   - **Resolution**: Changed to `[[attention-as-interface|Attention]]`.
 
 ### Medium Issues Found
 1. **Ganzfeld experiments mentioned but never cited**: Line 44 references Ganzfeld experiments as an example of parapsychological research, but no citation is provided and they're never revisited. This is a minor loose thread but doesn't damage the argument since they're used only as a passing example alongside PEAR and the Global Consciousness Project.
@@ -58,7 +58,7 @@ No new substantive counterarguments emerged.
 7. Embodiment discussion in "Why This Matters" gives philosophical depth
 
 ### Enhancements Made
-1. Fixed broken `[Attention](/concepts/attention-as-interface/)` wikilink → `[Attention](/concepts/attention-as-interface/)`
+1. Fixed broken `[[Attention]]` wikilink → `[[attention-as-interface|Attention]]`
 
 ### Cross-links Added
 None new (previous review already added all relevant cross-links).

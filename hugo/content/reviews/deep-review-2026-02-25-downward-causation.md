@@ -35,8 +35,8 @@ Current word count: 2427 words (97% of 2500 soft threshold).
 
 ### Critical Issues Found
 
-1. **Broken wikilink to psychophysical-laws-framework**: Line 40 referenced `[psychophysical laws](/topics/psychophysical-laws-bridging-mind-and-matter/)` but this file no longer exists — it was merged into `psychophysical-laws-bridging-mind-and-matter` by the coalesce operation. The body text was missed when Further Reading was updated.
-   - **Resolution**: Changed to `[psychophysical laws](/concepts/psychophysical-laws/)` (the concept page, appropriate for an inline terminology reference).
+1. **Broken wikilink to psychophysical-laws-framework**: Line 40 referenced `[[psychophysical-laws-framework|psychophysical laws]]` but this file no longer exists — it was merged into `psychophysical-laws-bridging-mind-and-matter` by the coalesce operation. The body text was missed when Further Reading was updated.
+   - **Resolution**: Changed to `[[psychophysical-laws|psychophysical laws]]` (the concept page, appropriate for an inline terminology reference).
 
 ### Medium Issues Found
 

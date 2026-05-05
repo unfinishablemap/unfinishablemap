@@ -229,13 +229,13 @@ Tegmark vs. Hameroff; what timescales dualism actually requires.
 
 **Related articles to link**:
 - `quantum-measurement-problem` - spontaneous collapse as solution
-- `[tenets](/tenets/#minimal-quantum-interaction)` - consciousness modulates baseline collapse
-- `[many-worlds](/concepts/many-worlds/)` - collapse theories reject branching
-- `[decoherence](/concepts/decoherence/)` - relationship to spontaneous collapse (complementary vs. competing)
-- `[quantum-consciousness](/concepts/quantum-consciousness/)` - Orch OR as controversial quantum mind theory
-- `[causal-closure](/concepts/causal-closure/)` - spontaneous collapse modifies microphysics
-- `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` - comparison with Stapp's observer-collapse model
-- `[psychophysical-coupling](/concepts/psychophysical-laws/)` - CSL-IIT as coupling law specification
+- `[[tenets#minimal-quantum-interaction]]` - consciousness modulates baseline collapse
+- `[[concepts/many-worlds]]` - collapse theories reject branching
+- `[[decoherence]]` - relationship to spontaneous collapse (complementary vs. competing)
+- `[[quantum-consciousness]]` - Orch OR as controversial quantum mind theory
+- `[[causal-closure]]` - spontaneous collapse modifies microphysics
+- `[[stapp-quantum-mind]]` - comparison with Stapp's observer-collapse model
+- `[[psychophysical-coupling]]` - CSL-IIT as coupling law specification
 
 **Tenet alignment summary**:
 - **Dualism**: Consciousness-modulated collapse (hybrid models) preserves ontological distinction

@@ -88,9 +88,9 @@ The new sentence about inferential transitions is presented as a Map-side archit
 
 ### Cross-links Added
 
-- `[inference-void](/voids/inference-void/)` in `related_articles` frontmatter
-- `[inference-void](/voids/inference-void/)` in body text (Family of Noetic Feelings paragraph)
-- `[inference-void](/voids/inference-void/)` in Further Reading list with descriptor
+- `[[inference-void]]` in `related_articles` frontmatter
+- `[[inference-void]]` in body text (Family of Noetic Feelings paragraph)
+- `[[inference-void]]` in Further Reading list with descriptor
 
 ## Remaining Items
 

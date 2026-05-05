@@ -50,8 +50,8 @@ All six adversarial personas applied. No new counterarguments beyond those addre
 ### Cross-Review Assessment: Metaproblem Integration
 The article adequately reflects metaproblem insights through three integration points:
 1. **Body text** (illusionism paragraph): connects illusionism's meta-problem burden to interactionism's advantage
-2. **Concepts frontmatter**: links `[meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/)` and `[phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)`
-3. **Further Reading**: links `[metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)`
+2. **Concepts frontmatter**: links `[[meta-problem-of-consciousness]]` and `[[phenomenal-concepts-strategy]]`
+3. **Further Reading**: links `[[metaproblem-of-consciousness-under-dualism]]`
 
 Additional metaproblem content (zombie divergence prediction, realizationism details, debunking argument) would over-expand an article at 102% of the soft threshold. These are thoroughly covered in the dedicated metaproblem articles, which are properly linked.
 

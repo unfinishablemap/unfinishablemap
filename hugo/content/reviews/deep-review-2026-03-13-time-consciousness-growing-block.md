@@ -23,13 +23,13 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/)` referenced in "What Durée Feels Like" section does not exist as an article. Resolution: Replaced with `[temporal consciousness analysis](/concepts/temporal-consciousness/)`, which is the actual article containing the retention/protention-to-collapse mapping.
+- **Broken wikilink**: `[[temporal-phenomenology-quantum-selection]]` referenced in "What Durée Feels Like" section does not exist as an article. Resolution: Replaced with `[[temporal-consciousness|temporal consciousness analysis]]`, which is the actual article containing the retention/protention-to-collapse mapping.
 
 ### Medium Issues Found
 - **Duplicate frontmatter entries**: `temporal-consciousness` listed 3 times in `concepts` field and twice in `apex_sources`. Resolution: Deduplicated to single entries.
 - **Specious present range inaccuracy**: Opening paragraph stated "100 to 750 milliseconds" but the 100ms figure is for basic perceptual binding, not the specious present proper. Source article (`temporal-consciousness`) gives ~300-750ms. Resolution: Changed to "roughly 300 to 750 milliseconds".
-- **Source Articles redundancy**: Three separate entries all pointed to `[temporal-consciousness](/concepts/temporal-consciousness/)` with different display text (Temporal Consciousness, Duration (Durée), The Specious Present and Temporal Experience). Resolution: Consolidated into single entry covering all subtopics. Added `[retrocausality](/concepts/retrocausality/)` as a source article, since the atemporal selection section draws on it.
-- **Missing cross-link**: The atemporal selection section discussed retrocausal physics without linking to the `[retrocausality](/concepts/retrocausality/)` concept page. Resolution: Added cross-link.
+- **Source Articles redundancy**: Three separate entries all pointed to `[[temporal-consciousness]]` with different display text (Temporal Consciousness, Duration (Durée), The Specious Present and Temporal Experience). Resolution: Consolidated into single entry covering all subtopics. Added `[[retrocausality]]` as a source article, since the atemporal selection section draws on it.
+- **Missing cross-link**: The atemporal selection section discussed retrocausal physics without linking to the `[[retrocausality]]` concept page. Resolution: Added cross-link.
 
 ### Counterarguments Considered
 
@@ -72,8 +72,8 @@ All six adversarial personas engaged:
 
 ### Enhancements Made
 - Fixed broken wikilink to nonexistent article
-- Added `[retrocausality](/concepts/retrocausality/)` cross-link in atemporal selection section
-- Added `[retrocausality](/concepts/retrocausality/)` to Source Articles
+- Added `[[retrocausality]]` cross-link in atemporal selection section
+- Added `[[retrocausality]]` to Source Articles
 - Corrected specious present range to match source article
 - Cleaned up duplicate frontmatter entries
 - Consolidated redundant Source Articles entries

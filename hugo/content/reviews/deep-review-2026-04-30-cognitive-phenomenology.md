@@ -23,7 +23,7 @@ topics: []
 
 ## Scope
 
-Eighth review pass. Triggered by the coalescence of `numerosity-void` (along with `quantitative-intuition-void` and `mathematical-void`) into the new unified void [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/) on 2026-04-30. The cognitive-phenomenology article referenced `[numerosity-void](/voids/the-quantitative-comprehension-void/)` in two places (frontmatter `related_articles` and one body sentence in "Evidence from Unusual Cases"). Both required retargeting to preserve the function-phenomenology dissociation argument anchored to cardinal perception ≤4. No other content review was conducted; the previous review (2026-04-29) documented full convergence and stability, and no new content has been added that would warrant re-evaluation.
+Eighth review pass. Triggered by the coalescence of `numerosity-void` (along with `quantitative-intuition-void` and `mathematical-void`) into the new unified void [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/) on 2026-04-30. The cognitive-phenomenology article referenced `[[numerosity-void]]` in two places (frontmatter `related_articles` and one body sentence in "Evidence from Unusual Cases"). Both required retargeting to preserve the function-phenomenology dissociation argument anchored to cardinal perception ≤4. No other content review was conducted; the previous review (2026-04-29) documented full convergence and stability, and no new content has been added that would warrant re-evaluation.
 
 ## Pessimistic Analysis Summary
 
@@ -42,7 +42,7 @@ No new counterarguments. All bedrock disagreements from previous reviews remain 
 ## Attribution Accuracy Check
 
 - All existing attributions (Strawson, Pitt, Tye, Dretske, Siegel, Tulving, Tallis, Sass & Parnas, Kay/Keogh/Pearson, Lennon, Wager, Wegner) unchanged from previous reviews, all correct.
-- The retargeted reference now points to `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-cardinality-floor)` — the canonical anchor for the cardinality-floor argument in the coalesced void. The supporting empirical citations in that section (Feigenson/Dehaene/Spelke 2004, Trick & Pylyshyn 1994, Cowan 2001, Frank et al. 2008, Pica et al. 2004) underwrite the reference claim about cardinal perception ≤4.
+- The retargeted reference now points to `[[the-quantitative-comprehension-void#the-cardinality-floor]]` — the canonical anchor for the cardinality-floor argument in the coalesced void. The supporting empirical citations in that section (Feigenson/Dehaene/Spelke 2004, Trick & Pylyshyn 1994, Cowan 2001, Frank et al. 2008, Pica et al. 2004) underwrite the reference claim about cardinal perception ≤4.
 - No qualifiers dropped, no source/Map conflations introduced, no overstatement of position strength.
 
 ## Optimistic Analysis Summary
@@ -65,8 +65,8 @@ All strengths from the 2026-04-29 review preserved unchanged:
 
 ### Enhancements Made
 
-- Retargeted `[numerosity-void](/voids/the-quantitative-comprehension-void/)` → `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` in `related_articles` frontmatter.
-- Retargeted body-text wikilink to `[cardinality floor of the quantitative comprehension void](/voids/the-quantitative-comprehension-void/#the-cardinality-floor)` — the section-anchored phrasing is more specific than the previous bare reference and aligns the reader's expectation with the section they will land on if they follow the link.
+- Retargeted `[[numerosity-void]]` → `[[the-quantitative-comprehension-void]]` in `related_articles` frontmatter.
+- Retargeted body-text wikilink to `[[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor of the quantitative comprehension void]]` — the section-anchored phrasing is more specific than the previous bare reference and aligns the reader's expectation with the section they will land on if they follow the link.
 
 ### Cross-links Added
 

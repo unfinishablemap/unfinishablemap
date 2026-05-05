@@ -29,11 +29,11 @@ None. All attributions from previous reviews remain accurate. No contradictions 
 ### Medium Issues Found — Cluster Integration Gaps
 The prior deep reviews treated the article as a standalone document and reached convergence on that axis. A focused cross-review against the quantum-consciousness cluster surfaces distinct issues the standalone review mode did not:
 
-- **Missing link to the apex article.** `[post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)` is the apex synthesis built from this mechanism and four converging strands. The Map's cluster structure positions the apex as the integration point, so an article titled "Post-Decoherence Selection Mechanisms" is expected to reference it. **Resolution**: Added as the first entry in Further Reading and to `related_articles`.
-- **Missing link to `[timing-gap-problem](/concepts/timing-gap-problem/)`.** The opening sentence describes exactly what that concept names ("the timing gap"). Using the canonical cluster term tightens integration. **Resolution**: Inline link added in the opening sentence; added to `related_articles`.
-- **Missing link to `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)`.** That topic does the detailed empirical analysis of what the "Why Not Pre-Decoherence?" section sketches, and it explicitly notes that timing evidence does not bear on post-decoherence selection as a metaphysical framework. Surfacing this alignment avoids the impression that the two articles compete rather than complement. **Resolution**: Added inline in "Why Not Pre-Decoherence?" with a sentence preserving the asymmetry the timing article itself acknowledges.
-- **Missing link to `[non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)`.** That topic catalogues this article's framework alongside alternatives. The catalogue references this article's predecessor (the concept) but the back-link was missing. **Resolution**: Added to Further Reading and `related_articles`.
-- **Missing link to `[amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)`.** That topic names the causal bridge a post-decoherence bias needs to reach neural behaviour. Linking it closes a natural follow-up question for any reader accepting the mechanisms described here. **Resolution**: Added to Further Reading and `related_articles`.
+- **Missing link to the apex article.** `[[post-decoherence-selection-programme]]` is the apex synthesis built from this mechanism and four converging strands. The Map's cluster structure positions the apex as the integration point, so an article titled "Post-Decoherence Selection Mechanisms" is expected to reference it. **Resolution**: Added as the first entry in Further Reading and to `related_articles`.
+- **Missing link to `[[timing-gap-problem]]`.** The opening sentence describes exactly what that concept names ("the timing gap"). Using the canonical cluster term tightens integration. **Resolution**: Inline link added in the opening sentence; added to `related_articles`.
+- **Missing link to `[[quantum-neural-timing-constraints]]`.** That topic does the detailed empirical analysis of what the "Why Not Pre-Decoherence?" section sketches, and it explicitly notes that timing evidence does not bear on post-decoherence selection as a metaphysical framework. Surfacing this alignment avoids the impression that the two articles compete rather than complement. **Resolution**: Added inline in "Why Not Pre-Decoherence?" with a sentence preserving the asymmetry the timing article itself acknowledges.
+- **Missing link to `[[non-retrocausal-conscious-selection-models]]`.** That topic catalogues this article's framework alongside alternatives. The catalogue references this article's predecessor (the concept) but the back-link was missing. **Resolution**: Added to Further Reading and `related_articles`.
+- **Missing link to `[[amplification-mechanisms-consciousness-physics]]`.** That topic names the causal bridge a post-decoherence bias needs to reach neural behaviour. Linking it closes a natural follow-up question for any reader accepting the mechanisms described here. **Resolution**: Added to Further Reading and `related_articles`.
 
 ### Counterarguments Considered
 All counterarguments from the two 2026-04-16 reviews remain bedrock disagreements and are not re-flagged:
@@ -44,7 +44,7 @@ All counterarguments from the two 2026-04-16 reviews remain bedrock disagreement
 
 ## Attribution Accuracy Check
 
-Re-verified against the 2026-04-16b accuracy pass. No text in the source exposition sections was modified in this review. The one inline addition in the "Why Not Pre-Decoherence?" section attributes the timing-evidence asymmetry to `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)`, which itself states the same claim explicitly at line 129 and line 177 of that article. No new misattribution, no dropped qualifiers, no overstated positions, no source/Map conflation introduced.
+Re-verified against the 2026-04-16b accuracy pass. No text in the source exposition sections was modified in this review. The one inline addition in the "Why Not Pre-Decoherence?" section attributes the timing-evidence asymmetry to `[[quantum-neural-timing-constraints]]`, which itself states the same claim explicitly at line 129 and line 177 of that article. No new misattribution, no dropped qualifiers, no overstated positions, no source/Map conflation introduced.
 
 ## Optimistic Analysis Summary
 
@@ -56,17 +56,17 @@ Re-verified against the 2026-04-16b accuracy pass. No text in the source exposit
 - Tenet engagement section — untouched, remains substantive and non-generic.
 
 ### Enhancements Made
-- Opened the article with the canonical cluster term "timing gap" linked to `[timing-gap-problem](/concepts/timing-gap-problem/)`, aligning vocabulary with the apex and neighbouring topics.
-- Added a closing sentence to "Why Not Pre-Decoherence?" explicitly stating the asymmetry in how timing evidence bears on scientific hypotheses versus metaphysical frameworks, directed to the detailed treatment in `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)`. This makes explicit a point that was previously only implicit.
-- Promoted the apex article `[post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)` to the head of Further Reading.
-- Added `[non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)` and `[amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)` to Further Reading so readers reach the natural follow-up articles in the cluster.
+- Opened the article with the canonical cluster term "timing gap" linked to `[[timing-gap-problem]]`, aligning vocabulary with the apex and neighbouring topics.
+- Added a closing sentence to "Why Not Pre-Decoherence?" explicitly stating the asymmetry in how timing evidence bears on scientific hypotheses versus metaphysical frameworks, directed to the detailed treatment in `[[quantum-neural-timing-constraints]]`. This makes explicit a point that was previously only implicit.
+- Promoted the apex article `[[post-decoherence-selection-programme]]` to the head of Further Reading.
+- Added `[[non-retrocausal-conscious-selection-models]]` and `[[amplification-mechanisms-consciousness-physics]]` to Further Reading so readers reach the natural follow-up articles in the cluster.
 
 ### Cross-links Added
-- `[timing-gap-problem](/concepts/timing-gap-problem/)` (inline + related_articles)
-- `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)` (inline + related_articles)
-- `[post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)` (Further Reading + related_articles)
-- `[non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)` (Further Reading + related_articles)
-- `[amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)` (Further Reading + related_articles)
+- `[[timing-gap-problem]]` (inline + related_articles)
+- `[[quantum-neural-timing-constraints]]` (inline + related_articles)
+- `[[post-decoherence-selection-programme]]` (Further Reading + related_articles)
+- `[[non-retrocausal-conscious-selection-models]]` (Further Reading + related_articles)
+- `[[amplification-mechanisms-consciousness-physics]]` (Further Reading + related_articles)
 
 ## Remaining Items
 

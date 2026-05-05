@@ -23,12 +23,12 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- Broken wikilink `[psychophysical-coupling](/concepts/psychophysical-laws/)` in frontmatter concepts — file does not exist: **Fixed** — removed from concepts list
+- Broken wikilink `[[psychophysical-coupling]]` in frontmatter concepts — file does not exist: **Fixed** — removed from concepts list
 
 ### Medium Issues Found
 - Georgiev's criticism of Stapp referenced in text without citation in References section: **Fixed** — added year in text (2017), added full citation, renumbered references
-- `[interactionist-dualism](/concepts/interactionist-dualism/)` listed in `related_articles` but never linked in body text: **Fixed** — added natural cross-link in "The Core Distinction" section
-- `[measurement-problem](/concepts/measurement-problem/)` concept not linked despite being in frontmatter concepts: **Fixed** — added inline wikilink in Stapp section
+- `[[interactionist-dualism]]` listed in `related_articles` but never linked in body text: **Fixed** — added natural cross-link in "The Core Distinction" section
+- `[[measurement-problem]]` concept not linked despite being in frontmatter concepts: **Fixed** — added inline wikilink in Stapp section
 
 ### Counterarguments Considered
 - Eliminative materialist: consciousness not well-defined enough for the causal role — bedrock disagreement per previous review, not re-flagged

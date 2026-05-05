@@ -96,8 +96,8 @@ No new critical counterarguments emerged.
 
 ### Cross-links Added
 
-- Personal Identity → `[zahavian-minimal-self](/concepts/self-and-self-consciousness/)` (inline in minimal-self paragraph; concepts frontmatter; Further Reading)
-- The Self → `[zahavian-minimal-self](/concepts/self-and-self-consciousness/)` (inline in The Minimal Self section; inline in Eliminativist Temptation section; concepts frontmatter; Further Reading)
+- Personal Identity → `[[zahavian-minimal-self]]` (inline in minimal-self paragraph; concepts frontmatter; Further Reading)
+- The Self → `[[zahavian-minimal-self]]` (inline in The Minimal Self section; inline in Eliminativist Temptation section; concepts frontmatter; Further Reading)
 
 ## Word Count
 

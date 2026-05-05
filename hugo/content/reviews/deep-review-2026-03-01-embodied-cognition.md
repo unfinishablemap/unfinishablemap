@@ -27,7 +27,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **Broken wikilinks in frontmatter**: `[brain-specialness](/concepts/brain-interface-boundary/)` and `[interface-locality](/concepts/brain-interface-boundary/)` referenced non-existent slugs. Fixed to `[brain-specialness-boundary](/topics/brain-specialness-boundary/)` and `[the-interface-location-problem](/topics/the-interface-problem/)`.
+1. **Broken wikilinks in frontmatter**: `[[brain-specialness]]` and `[[interface-locality]]` referenced non-existent slugs. Fixed to `[[brain-specialness-boundary]]` and `[[the-interface-location-problem]]`.
 2. **Corrupted text** (line 56): "It is The Unfinishable Map where consciousness and world interpenetrate" — a substitution error where "the nexus" or similar was replaced with the site name. Fixed to "the nexus."
 
 ### Medium Issues Found

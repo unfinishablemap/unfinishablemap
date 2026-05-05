@@ -28,9 +28,9 @@ None. Attribution accuracy verified across all six checks (no misattribution, qu
 
 ### Medium Issues Found
 
-1. **Combination problem mentioned by name without wikilink**: The Vital Force section discussed "the combination problem" as a Western panpsychist difficulty but did not link to the existing concept page. **Resolution**: Added `[combination-problem](/concepts/combination-problem/)` wikilink.
+1. **Combination problem mentioned by name without wikilink**: The Vital Force section discussed "the combination problem" as a Western panpsychist difficulty but did not link to the existing concept page. **Resolution**: Added `[[combination-problem]]` wikilink.
 
-2. **Inconsistent wikilink syntax to materialism**: The Yoruba section used `[materialism](/concepts/materialism/)` with explicit folder path while every other wikilink in the article used the bare slug form. **Resolution**: Normalized to `[materialism](/concepts/materialism/)`.
+2. **Inconsistent wikilink syntax to materialism**: The Yoruba section used `[[concepts/materialism|materialism]]` with explicit folder path while every other wikilink in the article used the bare slug form. **Resolution**: Normalized to `[[materialism]]`.
 
 ### Counterarguments Considered
 
@@ -54,7 +54,7 @@ None. Attribution accuracy verified across all six checks (no misattribution, qu
 
 ### Enhancements Made
 
-- Added wikilink to `[combination-problem](/concepts/combination-problem/)` where the concept is mentioned by name
+- Added wikilink to `[[combination-problem]]` where the concept is mentioned by name
 - Normalized inconsistent materialism wikilink to bare-slug form
 
 ### Cross-links Added

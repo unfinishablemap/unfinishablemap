@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken tenets anchor**: `[Bidirectional Interaction](/tenets/#bidirectional)` — anchor `^bidirectional` does not exist; tenets.md uses `^bidirectional-interaction`. Previously identified in tenet-check 2026-03-29 but not yet fixed. **Resolved**: Updated to `[Bidirectional Interaction](/tenets/#bidirectional-interaction)`.
+- **Broken tenets anchor**: `[[tenets#^bidirectional|Bidirectional Interaction]]` — anchor `^bidirectional` does not exist; tenets.md uses `^bidirectional-interaction`. Previously identified in tenet-check 2026-03-29 but not yet fixed. **Resolved**: Updated to `[[tenets#^bidirectional-interaction|Bidirectional Interaction]]`.
 - **LLM cliché violation**: Two instances of the "This is not X. It is Y." construct flagged in writing-style.md. **Resolved**:
   - "The problem is not imprecision. It is that pain intensity lacks…" → "The problem goes deeper than imprecision: pain intensity lacks…"
   - "This is not a measurement artefact. It reflects the nature of phenomenal experience itself." → "This reflects the nature of phenomenal experience itself rather than any measurement artefact."

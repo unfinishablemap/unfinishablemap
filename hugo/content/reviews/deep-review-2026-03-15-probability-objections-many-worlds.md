@@ -24,7 +24,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **Duplicate topic entry**: `[probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)` appeared twice in frontmatter `topics` field. **Resolution**: Removed duplicate.
+1. **Duplicate topic entry**: `[[probability-problem-in-many-worlds]]` appeared twice in frontmatter `topics` field. **Resolution**: Removed duplicate.
 2. **Duplicate Further Reading entry**: The same link to `probability-problem-in-many-worlds` appeared twice with slightly different descriptions. **Resolution**: Consolidated to single entry.
 3. **Duplicate reference entries**: References #17 and #18 were identical self-citations. **Resolution**: Removed duplicate.
 
@@ -52,7 +52,7 @@ None identified. All factual claims are attributed with citations.
 - Added cross-link from `measurement-problem.md` → `probability-problem-in-many-worlds` (strengthens successor's integration)
 
 ### Cross-links Added
-- `measurement-problem.md`: Added inline link to `[probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)` in the MWI section
+- `measurement-problem.md`: Added inline link to `[[probability-problem-in-many-worlds]]` in the MWI section
 
 ## Word Count
 - Before: 1285 words

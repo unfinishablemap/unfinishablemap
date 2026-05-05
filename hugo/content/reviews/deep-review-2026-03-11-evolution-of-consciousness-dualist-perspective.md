@@ -28,7 +28,7 @@ None.
 ### Medium Issues Found
 - **Zombie impossibility claim unsupported**: The "What the Models Agree On" section asserted that psychophysical laws are "lawful rather than contingent" without explaining why. Resolution: Added argument that contingent laws would undermine the stable consciousness-architecture correlation that evolution requires.
 - **Empirical testability hand-wavy**: The "What the Models Disagree About" section claimed disagreements "may be empirically approachable" without concrete proposals. Resolution: Added convergent evolution test case (corvid vs primate forebrains) that could distinguish fixed-domain from co-evolution models.
-- **Missing wikilinks**: Body text mentioned panpsychism and implicitly referenced simple organisms without linking to existing concept/topic pages. Resolution: Added `[panpsychism](/concepts/panpsychism/)` and `[consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)` wikilinks.
+- **Missing wikilinks**: Body text mentioned panpsychism and implicitly referenced simple organisms without linking to existing concept/topic pages. Resolution: Added `[[panpsychism]]` and `[[consciousness-in-simple-organisms]]` wikilinks.
 
 ### Low Issues Found
 - **Model Three's Difficulty self-aware but passive**: The section acknowledged obscurity without gesturing at what would fix it. Resolution: Added sentence specifying what neural-level predictions would strengthen the model.
@@ -59,8 +59,8 @@ None.
 - Added brief support for why psychophysical laws must be nomological (evolution argument)
 - Added convergent evolution test case for empirical distinguishability
 - Added sentence to Model Three's Difficulty specifying what would make it more concrete
-- Added `[consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)` reference in Fixed Domain model
-- Added `[panpsychism](/concepts/panpsychism/)` wikilink in Unfolding model
+- Added `[[consciousness-in-simple-organisms]]` reference in Fixed Domain model
+- Added `[[panpsychism]]` wikilink in Unfolding model
 
 ### Cross-links Added
 - [panpsychism](/concepts/panpsychism/)

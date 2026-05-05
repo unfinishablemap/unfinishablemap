@@ -32,7 +32,7 @@ None. Condensation preserved all critical elements: opening thesis, systematic h
 ### Medium Issues Found
 
 1. **Missing cross-link to cumulative-culture**: "Cumulative culture" appears multiple times but was never linked to the existing `cumulative-culture` concept article.
-   - **Resolution**: Added `[cumulative-culture](/concepts/cumulative-culture/)` wikilink at first mention and to frontmatter concepts.
+   - **Resolution**: Added `[[cumulative-culture]]` wikilink at first mention and to frontmatter concepts.
 
 ### Attribution Accuracy Check
 
@@ -73,7 +73,7 @@ All previously addressed counterarguments remain intact post-condensation:
 
 ### Enhancements Made
 
-1. Added `[cumulative-culture](/concepts/cumulative-culture/)` cross-link at first body mention
+1. Added `[[cumulative-culture]]` cross-link at first body mention
 2. Added `cumulative-culture` to frontmatter concepts list
 
 ### Cross-links Added

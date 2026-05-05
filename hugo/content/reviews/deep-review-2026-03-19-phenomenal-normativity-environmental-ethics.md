@@ -24,9 +24,9 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken wikilink `[aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)`**: Referenced 4 times (concepts frontmatter, inline text, Further Reading). File does not exist anywhere in the repository. **Resolution**: Replaced all instances with `[aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)`, which exists and covers the same subject matter.
+1. **Broken wikilink `[[aesthetic-dimension-of-consciousness]]`**: Referenced 4 times (concepts frontmatter, inline text, Further Reading). File does not exist anywhere in the repository. **Resolution**: Replaced all instances with `[[aesthetics-and-consciousness]]`, which exists and covers the same subject matter.
 
-2. **Broken section anchor `[phenomenal value pluralism](/topics/phenomenal-value-realism/#the-maps-position-phenomenal-value-pluralism)`**: No heading "The Map's Position: Phenomenal Value Pluralism" exists in phenomenal-value-realism.md. **Resolution**: Updated to `[phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-hedonism)`, which is the correct section.
+2. **Broken section anchor `[[topics/phenomenal-value-realism#The Map's Position: Phenomenal Value Pluralism|phenomenal value pluralism]]`**: No heading "The Map's Position: Phenomenal Value Pluralism" exists in phenomenal-value-realism.md. **Resolution**: Updated to `[[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value pluralism]]`, which is the correct section.
 
 ### Medium Issues Found
 
@@ -51,7 +51,7 @@ No new counterarguments needed addressing. The previous review's additions (Rols
 
 ### Enhancements Made
 
-1. Fixed 4 broken `[aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)` wikilinks → `[aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)`
+1. Fixed 4 broken `[[aesthetic-dimension-of-consciousness]]` wikilinks → `[[aesthetics-and-consciousness]]`
 2. Fixed broken section anchor to phenomenal-value-realism
 3. Fixed species/populations imprecision
 

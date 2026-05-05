@@ -68,7 +68,7 @@ No attribution errors found.
 ### Enhancements Made
 
 1. **Added cross-link to [functional-seeming](/concepts/functional-seeming/)**: A new article (created 2026-04-12) directly articulates Frankish's claim that "seeming conscious" reduces to functional dispositions—precisely the position the illusionism section engages with via the regress argument. Linking the word "seeming" where the illusionist response is described creates a clean conceptual bridge.
-2. **Added [functional-seeming](/concepts/functional-seeming/) to frontmatter concepts list** alongside `[illusionism](/concepts/illusionism/)`.
+2. **Added [functional-seeming](/concepts/functional-seeming/) to frontmatter concepts list** alongside `[[illusionism]]`.
 
 ### Cross-links Added
 

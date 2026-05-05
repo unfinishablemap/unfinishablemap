@@ -54,7 +54,7 @@ All previously-handled counterarguments remain appropriately handled; no new obj
 
 ### Enhancements Made
 - Added a new paragraph at the close of "Consciousness at the Interface" acknowledging the three-way dualist taxonomy (corridor, Born-bending, trumping). Names Stapp, Chalmers-McQueen, and Arana as specific Born-bending examples; cross-links trumping-preemption and born-rule-violation-brain-interface-empirical-status. Explicitly argues the article's core thesis survives under all three readings.
-- Added `[born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/)` to related_articles frontmatter.
+- Added `[[born-rule-violation-brain-interface-empirical-status]]` to related_articles frontmatter.
 - Added Further Reading entry for born-rule-violation-brain-interface-empirical-status with a description that captures the empirical-adjudication framing.
 
 ### Cross-links Added

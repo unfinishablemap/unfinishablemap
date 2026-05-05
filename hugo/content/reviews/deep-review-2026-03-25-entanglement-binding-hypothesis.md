@@ -29,7 +29,7 @@ None. Previous review's critical issues (Neven misquotation, missing references)
 ### Medium Issues Found
 
 - **Zero-lag gamma synchrony presented without caveat**: Baum's argument treats zero-lag gamma synchrony as established, but its existence is debated in neuroscience (volume conduction, measurement artifacts). **Resolution**: Added caveat noting the debate and conditional framing ("If genuine, such synchrony cannot arise classically...").
-- **Wikilink path prefix inconsistency**: `[epiphenomenalism](/concepts/epiphenomenalism/)` used a path prefix inconsistent with the rest of the article. **Resolution**: Changed to `[epiphenomenalism](/concepts/epiphenomenalism/)`.
+- **Wikilink path prefix inconsistency**: `[[concepts/epiphenomenalism|epiphenomenalism]]` used a path prefix inconsistent with the rest of the article. **Resolution**: Changed to `[[epiphenomenalism]]`.
 - **Missing Occam's Razor tenet cross-link**: The Relation to Site Perspective section covered four tenets but omitted Occam's Razor Has Limits, which is directly relevant since quantum consciousness theories are routinely dismissed on parsimony grounds. **Resolution**: Added substantive Occam's Razor tenet paragraph with cross-link to [parsimony-epistemology](/concepts/parsimony-epistemology/).
 
 ### Counterarguments Considered

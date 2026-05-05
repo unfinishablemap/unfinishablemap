@@ -30,7 +30,7 @@ Stability confirmation review. Fourth deep review of this article. No critical, 
 Two mechanical commits touched this file since 2026-03-25, neither substantive:
 
 1. **3aa6a08ff** (2026-04-25): Retargeted three pre-conceptual-knowing wikilinks to acquaintance-void, preserving alias text. Anchor `#Phenomenal Overflow` preserved in the linked-from articles.
-2. **91b95eda9** (2026-04-25): Added a single Further Reading entry — `[consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)` — as part of a reciprocal-link campaign. The connection is appropriate: that article cites phenomenal-overflow inline and explicitly invokes the A/P distinction.
+2. **91b95eda9** (2026-04-25): Added a single Further Reading entry — `[[consciousness-epistemology-extended-cognition]]` — as part of a reciprocal-link campaign. The connection is appropriate: that article cites phenomenal-overflow inline and explicitly invokes the A/P distinction.
 
 Per the 2026-03-25 review's recommendation, mechanical wikilink updates do not warrant full re-review. This stability confirmation discharges the candidate from the review queue.
 

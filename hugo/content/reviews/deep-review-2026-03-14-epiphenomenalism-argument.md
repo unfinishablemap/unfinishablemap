@@ -37,8 +37,8 @@ None. Article content is unchanged since previous review which also found no cri
 
 ### Medium Issues Found
 
-1. **Broken link in arguments index**: [arguments/arguments.md](/arguments/) line 69 had `[epiphenomenalism](/arguments/epiphenomenalism/)` — a broken wikilink pointing to a non-existent path.
-   - **Resolution**: Fixed to `[Against Epiphenomenalism](/arguments/epiphenomenalism-argument/)`
+1. **Broken link in arguments index**: [arguments/arguments.md](/arguments/) line 69 had `[[arguments/epiphenomenalism|epiphenomenalism]]` — a broken wikilink pointing to a non-existent path.
+   - **Resolution**: Fixed to `[[epiphenomenalism-argument|Against Epiphenomenalism]]`
 
 2. **Severely orphaned**: Only 2 inbound links (mental-causation.md, materialism-argument.md) despite being a central argument article referenced by dozens of related files.
    - **Resolution**: Added 13 inbound links across concept, topic, and argument files (see Cross-links Added below)

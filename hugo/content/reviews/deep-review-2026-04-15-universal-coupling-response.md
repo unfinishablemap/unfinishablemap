@@ -28,7 +28,7 @@ None. The article is well-constructed with accurate attributions, no internal co
 ### Medium Issues Found
 - **No engagement with IIT as strongest threshold view**: The article dismissed threshold views without addressing Integrated Information Theory, which offers the most principled version of a threshold. Resolution: Added a paragraph engaging with IIT, acknowledging its strengths while explaining why it remains insufficient from a dualist perspective (it identifies correlates, not coupling).
 - **Vague empirical predictions**: The distinction between universal coupling and threshold views was underspecified — both predict evidence extending downward. Resolution: Added a paragraph clarifying the predictive difference: threshold views predict a zone where adequate-looking architectures produce no consciousness; universal coupling predicts no such zone.
-- **Missing cross-link in frontmatter**: `[interactionist-dualism](/concepts/interactionist-dualism/)` was referenced in the body but absent from `related_articles`. Resolution: Added to frontmatter.
+- **Missing cross-link in frontmatter**: `[[interactionist-dualism]]` was referenced in the body but absent from `related_articles`. Resolution: Added to frontmatter.
 
 ### Counterarguments Considered
 - **IIT provides non-arbitrary thresholds** (Tegmark/Tononi perspective): Addressed by noting IIT's operational intractability and its status as a physicalist identity theory rather than an explanation of coupling.
@@ -48,7 +48,7 @@ None. The article is well-constructed with accurate attributions, no internal co
 ### Enhancements Made
 - Added IIT engagement paragraph in "Why Universal Coupling Is Most Coherent" section
 - Added empirical predictions paragraph sharpening the falsifiable distinction from threshold views
-- Added `[interactionist-dualism](/concepts/interactionist-dualism/)` to frontmatter related_articles
+- Added `[[interactionist-dualism]]` to frontmatter related_articles
 
 ### Cross-links Added
 - [interactionist-dualism](/concepts/interactionist-dualism/) (frontmatter)

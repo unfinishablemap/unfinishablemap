@@ -33,42 +33,42 @@ The archived `consciousness-and-pain.md` was not modified. All changes target th
 ## Cross-Links Added (10 files, 20 link instances)
 
 ### 1. topics/hard-problem-of-consciousness.md
-- **Inline**: Added `[why pain *hurts*](/topics/pain-consciousness-and-causal-power/)` in the Explanatory Gap section where C-fiber firing and pain's felt quality are discussed
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry — "Pain as the hard problem made personal"
+- **Inline**: Added `[[why-pain-hurts|why pain *hurts*]]` in the Explanatory Gap section where C-fiber firing and pain's felt quality are discussed
+- **Further Reading**: Added `[[why-pain-hurts]]` entry — "Pain as the hard problem made personal"
 
 ### 2. topics/reductionism-and-consciousness.md
-- **Inline**: Added `[phenomenal awfulness is a distinct contributor to motivation](/topics/pain-consciousness-and-causal-power/)` after the pain asymbolia evidence in the functional analysis section
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry — "Why pain is the strongest case against reduction"
+- **Inline**: Added `[[why-pain-hurts|phenomenal awfulness is a distinct contributor to motivation]]` after the pain asymbolia evidence in the functional analysis section
+- **Further Reading**: Added `[[why-pain-hurts]]` entry — "Why pain is the strongest case against reduction"
 
 ### 3. topics/phenomenal-value-realism.md
-- **Inline**: Added `[Pain asymbolia](/topics/pain-consciousness-and-causal-power/)` link in the Pain Dissociation challenge section
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry — "Why pain's phenomenal character is inseparable from its causal and evaluative role"
+- **Inline**: Added `[[why-pain-hurts|Pain asymbolia]]` link in the Pain Dissociation challenge section
+- **Further Reading**: Added `[[why-pain-hurts]]` entry — "Why pain's phenomenal character is inseparable from its causal and evaluative role"
 
 ### 4. concepts/phenomenal-consciousness.md
-- **Inline**: Added `[pain *hurts*](/topics/pain-consciousness-and-causal-power/)` in the illusionism section where pain's experiential quality is the core objection
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry — "Pain as the paradigm case for phenomenal causation"
+- **Inline**: Added `[[why-pain-hurts|pain *hurts*]]` in the illusionism section where pain's experiential quality is the core objection
+- **Further Reading**: Added `[[why-pain-hurts]]` entry — "Pain as the paradigm case for phenomenal causation"
 
 ### 5. topics/value-blind-vs-value-sensitive-selection.md
-- **Inline**: Added `[Pain asymbolia](/topics/pain-consciousness-and-causal-power/)` link in the testability hook predicting reduced selection efficacy
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry — "Pain asymbolia as evidence that valence does causal work in selection"
+- **Inline**: Added `[[why-pain-hurts|Pain asymbolia]]` link in the testability hook predicting reduced selection efficacy
+- **Further Reading**: Added `[[why-pain-hurts]]` entry — "Pain asymbolia as evidence that valence does causal work in selection"
 
 ### 6. topics/psychophysical-laws-bridging-mind-and-matter.md
-- **Inline**: Added `[Pain asymbolia](/topics/pain-consciousness-and-causal-power/)` link in Tier 3 coupling mechanism section (valence as motivational force)
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry — "Pain's inseparable phenomenal-causal character as evidence for coupling"
+- **Inline**: Added `[[why-pain-hurts|Pain asymbolia]]` link in Tier 3 coupling mechanism section (valence as motivational force)
+- **Further Reading**: Added `[[why-pain-hurts]]` entry — "Pain's inseparable phenomenal-causal character as evidence for coupling"
 
 ### 7. topics/the-epiphenomenalist-threat.md
-- **Inline**: Added `[something it is like to be in pain](/topics/pain-consciousness-and-causal-power/)` in the functionalism qualia problem section
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry — "Pain as the hardest case for epiphenomenalism"
+- **Inline**: Added `[[why-pain-hurts|something it is like to be in pain]]` in the functionalism qualia problem section
+- **Further Reading**: Added `[[why-pain-hurts]]` entry — "Pain as the hardest case for epiphenomenalism"
 
 ### 8. topics/animal-consciousness.md
-- **Inline**: Replaced `[pain asymbolia](/topics/emotion-and-dualism/#valence)` with `[pain asymbolia](/topics/pain-consciousness-and-causal-power/)` in the emotional consciousness section (more specific target)
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry under Related Topics
+- **Inline**: Replaced `[[emotional-consciousness#valence|pain asymbolia]]` with `[[why-pain-hurts|pain asymbolia]]` in the emotional consciousness section (more specific target)
+- **Further Reading**: Added `[[why-pain-hurts]]` entry under Related Topics
 
 ### 9. topics/disorders-of-consciousness-as-test-cases.md
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry alongside existing `[pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/)`
+- **Further Reading**: Added `[[why-pain-hurts]]` entry alongside existing `[[pain-asymbolia-as-central-test-case]]`
 
 ### 10. apex/living-with-the-map.md
-- **Inline**: Added `[suffering's badness is constitutive of what suffering *is*](/topics/pain-consciousness-and-causal-power/)` in the ethics section (also added `[Phenomenal normativity](/concepts/evaluative-phenomenal-character/)` link to previously unlinked mention)
+- **Inline**: Added `[[why-pain-hurts|suffering's badness is constitutive of what suffering *is*]]` in the ethics section (also added `[[phenomenal-normativity|Phenomenal normativity]]` link to previously unlinked mention)
 
 ## Pessimistic Analysis Summary
 

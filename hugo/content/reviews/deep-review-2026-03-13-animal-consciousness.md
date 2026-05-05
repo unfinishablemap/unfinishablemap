@@ -28,7 +28,7 @@ None. The article remains stable after four review cycles.
 
 ### Medium Issues Found
 
-1. **Missing cross-link to new cetacean-and-corvid article**: The companion article `[cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)` (created 2026-03-13) provides convergent test cases for the amplification hypothesis across non-primate lineages. The animal-consciousness article lacked any reference to it.
+1. **Missing cross-link to new cetacean-and-corvid article**: The companion article `[[cetacean-and-corvid-consciousness]]` (created 2026-03-13) provides convergent test cases for the amplification hypothesis across non-primate lineages. The animal-consciousness article lacked any reference to it.
    - **Resolution**: Added cross-link in related_articles frontmatter, a two-paragraph integration in the human-ape intelligence gap section, and a Further Reading entry.
 
 2. **Multiple Independent Origins section treated vertebrates as monolithic**: Listed "vertebrates" as one category without noting that even within vertebrates, cetacean cortex (lacking layer IV) and avian pallium (nuclear clusters) represent radically different architectures supporting consciousness.
@@ -73,7 +73,7 @@ All six adversarial personas re-engaged. No new critical gaps:
 1. Added cetacean and corvid evidence as intermediate test cases in the human-ape intelligence gap section, strengthening the amplification argument with convergent evolution evidence from non-primate lineages
 2. Expanded vertebrate entry in Multiple Independent Origins to acknowledge within-vertebrate architectural diversity
 3. Trimmed redundancies in Dualism section and decoherence section to stay length-neutral
-4. Added `[cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)` to related_articles and Further Reading
+4. Added `[[cetacean-and-corvid-consciousness]]` to related_articles and Further Reading
 
 ### Cross-links Added
 
@@ -81,7 +81,7 @@ All six adversarial personas re-engaged. No new critical gaps:
 
 ## Remaining Items
 
-- **Site-wide**: `[metarepresentation](/concepts/metacognition/)` concept page still needed (61 files link to it) — carried forward from previous review
+- **Site-wide**: `[[metarepresentation]]` concept page still needed (61 files link to it) — carried forward from previous review
 
 ## Stability Notes
 

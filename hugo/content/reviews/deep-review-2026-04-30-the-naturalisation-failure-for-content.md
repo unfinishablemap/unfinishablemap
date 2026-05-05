@@ -66,13 +66,13 @@ None flagged. Each empirical claim (Ash & Welshon on subitization, Pantsar on nu
 
 ### Enhancements Made
 
-- Added cross-link from "*ought* of inference" to `[rational-normativity](/concepts/rational-normativity/)` in the Parallel section, strengthening the connective tissue between the content-failure and rational-normativity arguments.
-- Added concept entry `[rational-normativity](/concepts/rational-normativity/)` to frontmatter to reflect the new wikilink.
+- Added cross-link from "*ought* of inference" to `[[concepts/rational-normativity]]` in the Parallel section, strengthening the connective tissue between the content-failure and rational-normativity arguments.
+- Added concept entry `[[rational-normativity]]` to frontmatter to reflect the new wikilink.
 - Added the Dennettian limitation paragraph (~115 words). Article moved from 87% to 91% of soft threshold — still within `ok` status.
 
 ### Cross-links Added
 
-- `[rational-normativity](/concepts/rational-normativity/)` (in body and frontmatter)
+- `[[concepts/rational-normativity]]` (in body and frontmatter)
 
 ### Effective Patterns
 

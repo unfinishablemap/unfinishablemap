@@ -27,7 +27,7 @@ topics: []
 None. Fifth review, cross-review focused. Attribution accuracy check passed — all source claims properly qualified across both the roadmap and the new concept page. No misattributions, dropped qualifiers, source/Map conflation, or self-contradictions between the two articles.
 
 ### Medium Issues Found
-- **Missing cross-link to new concept page**: The roadmap referenced the research note `[tenet-falsification-conditions-2026-04-05](/research/tenet-falsification-conditions-2026-04-05/)` but not the new concept page `[tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)`. Resolution: Added to `related_articles`.
+- **Missing cross-link to new concept page**: The roadmap referenced the research note `[[tenet-falsification-conditions-2026-04-05]]` but not the new concept page `[[tenet-falsification-conditions]]`. Resolution: Added to `related_articles`.
 - **Falsification taxonomy not connected**: The concept page introduces a clean three-part taxonomy (Decisive / Cumulative / Structural unfalsifiability) that the roadmap's asymmetry table implicitly uses without naming. Resolution: Added inline reference in the Falsification Asymmetry section connecting to the concept page's taxonomy.
 
 ### Counterarguments Considered
@@ -51,16 +51,16 @@ All six adversarial personas engaged with cross-review focus. No content inconsi
 - Five experimental programmes section — concrete and forward-looking
 
 ### Enhancements Made
-- Added `[tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)` to `related_articles` — connects to the new concept page that provides the taxonomic framework
+- Added `[[tenet-falsification-conditions]]` to `related_articles` — connects to the new concept page that provides the taxonomic framework
 - Added inline reference in the Falsification Asymmetry section linking to the concept page's three-part taxonomy of falsification condition types
 
 ### Cross-links Added
-- `[tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)` — added to related_articles and as inline link in Falsification Asymmetry section
+- `[[tenet-falsification-conditions]]` — added to related_articles and as inline link in Falsification Asymmetry section
 
 ## Remaining Items
 
 - Melloni et al. (2025) reference date: deferred for human verification (carried from previous reviews).
-- `[consciousness-independent-baseline-cognition](/concepts/baseline-cognition/)` wikilink may not resolve correctly (site-wide issue, not specific to this article).
+- `[[consciousness-independent-baseline-cognition]]` wikilink may not resolve correctly (site-wide issue, not specific to this article).
 
 ## Stability Notes
 

@@ -32,7 +32,7 @@ None. All six adversarial personas engaged with the content. No new issues surfa
 
 ### Medium Issues Found
 
-None. All 30 wikilinks verified as valid, including section anchor `[response](/topics/free-will/#the-agent-causal-response-to-luck)`.
+None. All 30 wikilinks verified as valid, including section anchor `[[topics/free-will#The Agent-Causal Response to Luck|response]]`.
 
 ### Attribution Accuracy Check
 

@@ -45,8 +45,8 @@ None.
 
 ### phenomenal-normativity-environmental-ethics.md
 - **Tenet**: Tenet 2 (Minimal Quantum Interaction)
-- **Issue**: Uses wikilink anchor `[Minimal Quantum Interaction](/tenets/#minimal-interaction)` but the standard anchor across the site is `[...](/tenets/#minimal-quantum-interaction)`. This likely produces a broken internal link.
-- **Recommendation**: Change the anchor to `[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)`.
+- **Issue**: Uses wikilink anchor `[[tenets#^minimal-interaction|Minimal Quantum Interaction]]` but the standard anchor across the site is `[[tenets#^minimal-quantum-interaction|...]]`. This likely produces a broken internal link.
+- **Recommendation**: Change the anchor to `[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]`.
 
 ## Files Passing All Checks
 

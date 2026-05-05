@@ -29,7 +29,7 @@ topics: []
 - [Missing unfalsifiability acknowledgment]: Added sentence noting consciousness-selection within Born probabilities is empirically indistinguishable from random collapse, consistent with the honest limitation already stated in [measurement-problem](/concepts/measurement-problem/).
 - [AI refinement log comment left in file]: Removed the HTML comment block (lines 137-151) which contained a refinement log marked "should be removed after human review."
 - [Missing inline wikilinks]: Added inline links to [measurement-problem](/concepts/measurement-problem/), [many-worlds](/concepts/many-worlds/), and [qbism](/concepts/qbism/) at their first substantive mentions in the article body. Also added these to frontmatter concepts list.
-- [Orphaned article — zero inbound links]: Added `[quantum-completeness](/concepts/quantum-completeness/)` to the concepts frontmatter of 7 related articles (measurement-problem, quantum-interpretations, quantum-consciousness, decoherence, many-worlds, stapp-quantum-mind, qbism).
+- [Orphaned article — zero inbound links]: Added `[[quantum-completeness]]` to the concepts frontmatter of 7 related articles (measurement-problem, quantum-interpretations, quantum-consciousness, decoherence, many-worlds, stapp-quantum-mind, qbism).
 
 ### Counterarguments Considered
 - **Churchland (eliminative materialist)**: Process 1 gap may be an approximation artifact. Article handles this via no-go theorems — bedrock disagreement.
@@ -55,7 +55,7 @@ topics: []
 - Added inline wikilinks to [measurement-problem](/concepts/measurement-problem/), [many-worlds](/concepts/many-worlds/), [qbism](/concepts/qbism/)
 - Added measurement-problem, many-worlds, qbism to frontmatter concepts
 - Removed stale AI refinement log HTML comment
-- Added `[quantum-completeness](/concepts/quantum-completeness/)` to 7 related articles' frontmatter to resolve orphan status
+- Added `[[quantum-completeness]]` to 7 related articles' frontmatter to resolve orphan status
 
 ### Cross-links Added
 - [measurement-problem](/concepts/measurement-problem/) (inline + frontmatter)

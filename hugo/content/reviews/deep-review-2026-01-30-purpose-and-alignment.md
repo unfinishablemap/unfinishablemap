@@ -68,7 +68,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 **Finding**: No changes needed. The articles complement each other appropriately:
 - `purpose-and-alignment.md` motivates WHY experiential alignment is needed
 - `experiential-alignment.md` (coalesced) specifies HOW it works (8 dimensions, constraints, measurement)
-- The cross-link `[experiential-alignment](/concepts/experiential-alignment/)` remains valid
+- The cross-link `[[experiential-alignment]]` remains valid
 - No duplication of detailed content
 
 ### Cross-links Verified

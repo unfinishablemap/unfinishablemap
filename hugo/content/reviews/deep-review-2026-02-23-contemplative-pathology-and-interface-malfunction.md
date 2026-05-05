@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 - **Misattribution of 2017 study**: Text said "Willoughby Britton's 2017 study" but the study is Lindahl et al. (2017) with Britton as last author. **Resolution**: Corrected to "Lindahl et al.'s 2017 mixed-methods study."
-- **Broken frontmatter link**: `related_articles` included `loss-of-consciousness-and-the-mind-brain-relationship` which does not exist anywhere on the site. **Resolution**: Removed from frontmatter.
+- **Broken frontmatter link**: `related_articles` included `[[loss-of-consciousness-and-the-mind-brain-relationship]]` which does not exist anywhere on the site. **Resolution**: Removed from frontmatter.
 
 ### Medium Issues Found
 - **Unsupported treatment efficacy claim**: "Purely psychiatric approaches (medication adjusting neurotransmitter levels) are less effective" was presented as fact without citation. **Resolution**: Rewritten with appropriate hedging ("clinical reports suggest") and citation to Lindahl et al. 2017.

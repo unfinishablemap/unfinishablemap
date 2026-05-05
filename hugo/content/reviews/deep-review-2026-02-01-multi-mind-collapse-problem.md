@@ -24,8 +24,8 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken wikilinks to coalesced page**: Multiple references to `[interface-locality](/concepts/brain-interface-boundary/)` were broken after the page was coalesced into `[brain-interface-boundary](/concepts/brain-interface-boundary/)`.
-   - **Resolution**: Updated all 6 references to `[brain-interface-boundary](/concepts/brain-interface-boundary/)` or `[interface locality](/concepts/brain-interface-boundary/)` to preserve readability while fixing links.
+1. **Broken wikilinks to coalesced page**: Multiple references to `[[interface-locality]]` were broken after the page was coalesced into `[[brain-interface-boundary]]`.
+   - **Resolution**: Updated all 6 references to `[[brain-interface-boundary]]` or `[[brain-interface-boundary|interface locality]]` to preserve readability while fixing links.
 
 ### Medium Issues Found
 
@@ -64,12 +64,12 @@ No attribution errors found.
 
 ### Enhancements Made
 
-- Fixed all broken wikilinks to `[brain-interface-boundary](/concepts/brain-interface-boundary/)`
+- Fixed all broken wikilinks to `[[brain-interface-boundary]]`
 - Updated frontmatter concepts list to reference correct page
 
 ### Cross-links Updated
 
-- `[interface-locality](/concepts/brain-interface-boundary/)` → `[brain-interface-boundary](/concepts/brain-interface-boundary/)` (6 occurrences)
+- `[[interface-locality]]` → `[[brain-interface-boundary]]` (6 occurrences)
 
 ## Remaining Items
 

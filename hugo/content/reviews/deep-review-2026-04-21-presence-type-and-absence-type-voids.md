@@ -27,7 +27,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken wikilink**: `[The transition void](/voids/transit-void/)` pointed to an archived article (`archive/voids/transition-void.md`). The live article is `transit-void.md`, which coalesced transition-void and initiation-void. **Resolution**: Updated link to `[The transit void](/voids/transit-void/)` with a phrasing that matches the coalesced article's scope ("witnesses its own crossings between states"). Note: the apex `taxonomy-of-voids.md` also still contains a stale `[transition-void](/voids/transit-void/)` link — that is out of scope for this review but should be tracked.
+- **Broken wikilink**: `[[transition-void|The transition void]]` pointed to an archived article (`archive/voids/transition-void.md`). The live article is `transit-void.md`, which coalesced transition-void and initiation-void. **Resolution**: Updated link to `[[transit-void|The transit void]]` with a phrasing that matches the coalesced article's scope ("witnesses its own crossings between states"). Note: the apex `taxonomy-of-voids.md` also still contains a stale `[[transition-void]]` link — that is out of scope for this review but should be tracked.
 
 ### Medium Issues Found
 
@@ -73,7 +73,7 @@ None critical. All factual claims (cross-tradition sources, the apex quote, the 
 
 ### Cross-links Added
 
-- `[taxonomy apex](/apex/taxonomy-of-voids/)` — now explicitly named rather than ambiguously referenced.
+- `[[taxonomy-of-voids|taxonomy apex]]` — now explicitly named rather than ambiguously referenced.
 
 ### Effective Patterns
 
@@ -81,7 +81,7 @@ None critical. All factual claims (cross-tradition sources, the apex quote, the 
 
 ## Remaining Items
 
-- The apex `taxonomy-of-voids.md` still contains a stale `[transition-void](/voids/transit-void/)` wikilink (line 97). This is out of scope for this review but should be tracked as a follow-up refine-draft task. Low priority since it only affects the apex, not our concept article.
+- The apex `taxonomy-of-voids.md` still contains a stale `[[transition-void]]` wikilink (line 97). This is out of scope for this review but should be tracked as a follow-up refine-draft task. Low priority since it only affects the apex, not our concept article.
 - A sharper empirical falsification programme for the Bidirectional Interaction speculation would strengthen the tenet-relation section further, but this belongs in a dedicated article rather than this classificatory page.
 
 ## Stability Notes

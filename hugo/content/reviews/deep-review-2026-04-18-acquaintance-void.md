@@ -27,7 +27,7 @@ topics: []
 - None. No attribution errors, factual errors, or internal contradictions. Prior review's concerns (Nagel quotation, ability hypothesis, unused Chalmers citation) remain resolved.
 
 ### Medium Issues Found
-- **Missing cross-link to transformative-experience-void**: The new void directly extends the acquaintance-void's scope by identifying intrapersonal (temporal) acquaintance gaps. With transformative-experience-void explicitly citing and differentiating itself from this article, reciprocal linking is now warranted. Resolution: added `[transformative-experience-void](/voids/transformative-experience-void/)` to `related_articles` and to Further Reading with an annotated description.
+- **Missing cross-link to transformative-experience-void**: The new void directly extends the acquaintance-void's scope by identifying intrapersonal (temporal) acquaintance gaps. With transformative-experience-void explicitly citing and differentiating itself from this article, reciprocal linking is now warranted. Resolution: added `[[transformative-experience-void]]` to `related_articles` and to Further Reading with an annotated description.
 - **Scope limitation**: The article framed the acquaintance void almost entirely in cross-architecture terms (cross-species, human↔AI). The transformative-experience case reveals an intrapersonal dimension that the article did not acknowledge. Resolution: added a new section "Acquaintance Within a Life" positioned between "Beyond Missing Qualia" and "The Philosophical Case."
 
 ### Counterarguments Considered

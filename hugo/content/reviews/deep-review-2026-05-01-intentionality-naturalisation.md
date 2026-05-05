@@ -27,7 +27,7 @@ topics: []
 None. The article remains mature after seven prior reviews.
 
 ### Medium Issues Found
-- **Missing reciprocal link to the-naturalisation-failure-for-content**: The new topic article (created 2026-04-30) explicitly frames itself as standing apart from the intentionality concept page and references `[intentionality](/concepts/intentionality/)` four times. The intentionality page did not reciprocate. Resolution: Added the topic to frontmatter `topics:`, an inline parenthetical-style reference in the "Naturalization Project and Its Failures" section, and a Further Reading entry.
+- **Missing reciprocal link to the-naturalisation-failure-for-content**: The new topic article (created 2026-04-30) explicitly frames itself as standing apart from the intentionality concept page and references `[[concepts/intentionality]]` four times. The intentionality page did not reciprocate. Resolution: Added the topic to frontmatter `topics:`, an inline parenthetical-style reference in the "Naturalization Project and Its Failures" section, and a Further Reading entry.
 
 ### Counterarguments Considered
 All adversarial personas previously addressed; no new philosophical challenges introduced by the cross-link. The naturalisation topic article shares the Map's PIT-aligned position, so adding the link reinforces rather than challenges existing positions.
@@ -45,7 +45,7 @@ All adversarial personas previously addressed; no new philosophical challenges i
 - The Naturalization Project section's logical flow is preserved; the new sentence is additive rather than restructuring
 
 ### Enhancements Made
-- Added `[the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)` to frontmatter `topics:` (third topic-level cross-reference, alongside hard-problem-of-consciousness, ai-consciousness, phenomenology-of-intellectual-life)
+- Added `[[the-naturalisation-failure-for-content]]` to frontmatter `topics:` (third topic-level cross-reference, alongside hard-problem-of-consciousness, ai-consciousness, phenomenology-of-intellectual-life)
 - Added inline pointer in The Naturalization Project section: "The naturalisation failure for content topic article develops this diagnosis as a stand-alone argument running parallel to the phenomenal hard problem"
 - Added Further Reading entry distinguishing the topic-level treatment from the concept-level hard-problem-of-content entry
 

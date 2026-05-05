@@ -25,7 +25,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken wikilink to archived article**: `[Perception](/topics/dualist-perception/)` pointed to an article archived on 2026-03-19 and superseded by `dualist-perception`. **Resolution**: Updated link to `[Perception](/topics/dualist-perception/)`.
+- **Broken wikilink to archived article**: `[[Perception-and-conscious-experience|Perception]]` pointed to an article archived on 2026-03-19 and superseded by `dualist-perception`. **Resolution**: Updated link to `[[dualist-perception|Perception]]`.
 
 ### Medium Issues Found
 

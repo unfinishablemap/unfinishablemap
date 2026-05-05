@@ -26,13 +26,13 @@ topics: []
 
 - **Boesch (1991) misattribution**: The article cited Boesch (1991) alongside Inoue-Nakamura & Matsuzawa (1997) as finding "no evidence that mothers adjust their cracking behaviour pedagogically." However, Boesch (1991)—titled "Teaching among wild chimpanzees"—actually reported facilitative behaviours he interpreted as teaching (mothers repositioning stones, demonstrating slow-motion cracking). Citing it as evidence against teaching misrepresented the source. Resolution: Revised the nut-cracking paragraph to accurately describe Boesch's findings as facilitative behaviours with debated interpretation, and Inoue-Nakamura & Matsuzawa as finding learning through observation and practice.
 
-- **Duplicate frontmatter concept**: `[metacognition](/concepts/metacognition/)` appeared twice in the `concepts` list (artifact of automated `[metarepresentation](/concepts/metacognition/)` → `[metacognition](/concepts/metacognition/)` link rename). Resolution: Removed duplicate entry.
+- **Duplicate frontmatter concept**: `[[metacognition]]` appeared twice in the `concepts` list (artifact of automated `[[metarepresentation]]` → `[[metacognition]]` link rename). Resolution: Removed duplicate entry.
 
-- **Duplicate Further Reading entries**: `[metarepresentation](/concepts/metacognition/)` and `[metacognition](/concepts/metacognition/)` both linked to the same page. Resolution: Consolidated into a single entry.
+- **Duplicate Further Reading entries**: `[[metacognition|metarepresentation]]` and `[[metacognition]]` both linked to the same page. Resolution: Consolidated into a single entry.
 
 ### Medium Issues Found
 
-- **Missing body cross-link**: `[concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/)` appeared in Further Reading but was not linked in the body text. Resolution: Added inline link in the theory of mind section where it naturally fits.
+- **Missing body cross-link**: `[[concept-of-consciousness-and-social-cognition]]` appeared in Further Reading but was not linked in the body text. Resolution: Added inline link in the theory of mind section where it naturally fits.
 
 ### Counterarguments Considered
 

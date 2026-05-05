@@ -86,12 +86,12 @@ No misattributions, dropped qualifiers, source/Map conflation, or self-contradic
 
 ### Site-Wide Reference Updates
 Fixed 360 stale wikilinks across 147 files:
-- `[introspective-opacity](/voids/self-opacity/)` → `[introspective opacity](/voids/self-opacity/)` (130 refs in 71 files)
-- `[self-reference-paradox](/concepts/self-reference-paradox/)` → `[self-reference paradox](/voids/self-opacity/)` (197 refs in 96 files)
-- `[phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)` → `[phenomenology of self-awareness](/voids/self-opacity/)` (33 refs in 15 files)
-- `[volitional-opacity](/voids/introspective-opacity/)` → `[volitional opacity](/voids/self-opacity/)` (6 refs in 6 files)
-- `[unobservable-self](/voids/self-opacity/)` → `[the unobservable self](/voids/self-opacity/)` (1 ref in 1 file)
-- Deduplicated 33 files where multiple coalesced slugs created duplicate `[self-opacity](/voids/self-opacity/)` frontmatter entries
+- `[[introspective-opacity]]` → `[[self-opacity|introspective opacity]]` (130 refs in 71 files)
+- `[[self-reference-paradox]]` → `[[self-opacity|self-reference paradox]]` (197 refs in 96 files)
+- `[[phenomenology-of-self-awareness]]` → `[[self-opacity|phenomenology of self-awareness]]` (33 refs in 15 files)
+- `[[volitional-opacity]]` → `[[self-opacity|volitional opacity]]` (6 refs in 6 files)
+- `[[unobservable-self]]` → `[[self-opacity|the unobservable self]]` (1 ref in 1 file)
+- Deduplicated 33 files where multiple coalesced slugs created duplicate `[[self-opacity]]` frontmatter entries
 
 ## Word Count
 - Before: 2750 words (138% of 2000 soft threshold — soft_warning)

@@ -26,7 +26,7 @@ topics: []
 - None. All attribution checks pass. No factual errors, misattributions, or internal contradictions.
 
 ### Medium Issues Found
-- **Missing functionalism engagement**: Article listed `[functionalism](/concepts/functionalism/)` in frontmatter concepts but never engaged with the functionalist response to the normative gap by name. Reliabilism, evolution, and emergence were all explicitly addressed — functionalism was conspicuously absent despite being a major physicalist framework. **Resolution**: Added a paragraph in "Why Physical Processes Cannot Close the Gap" arguing that functional descriptions specify causal relations (what causes what) but cannot capture normative relations (what justifies what).
+- **Missing functionalism engagement**: Article listed `[[functionalism]]` in frontmatter concepts but never engaged with the functionalist response to the normative gap by name. Reliabilism, evolution, and emergence were all explicitly addressed — functionalism was conspicuously absent despite being a major physicalist framework. **Resolution**: Added a paragraph in "Why Physical Processes Cannot Close the Gap" arguing that functional descriptions specify causal relations (what causes what) but cannot capture normative relations (what justifies what).
 
 ### Counterarguments Considered
 - Reliabilism: addressed (unchanged)
@@ -59,7 +59,7 @@ All checks passed (unchanged from prior reviews):
 - Added functionalism paragraph completing the counterargument battery (reliabilism → functionalism → evolution → emergence)
 
 ### Cross-links Added
-- `[functionalism](/concepts/functionalism/)` inline link in new paragraph (concept was in frontmatter but not linked in body)
+- `[[functionalism]]` inline link in new paragraph (concept was in frontmatter but not linked in body)
 
 ## Remaining Items
 

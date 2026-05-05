@@ -28,8 +28,8 @@ None. The article's core structure and arguments remain sound.
 
 ### Medium Issues Found
 
-1. **Duplicate frontmatter entries**: `[temporal-consciousness](/concepts/temporal-consciousness/)` and `[metacognition](/concepts/metacognition/)` each appeared twice in the concepts list.
-   - **Resolution**: Removed duplicates, added `[interface-friction](/concepts/interface-friction/)` and `[phenomenal-overflow](/concepts/phenomenal-overflow/)` as new relevant concepts.
+1. **Duplicate frontmatter entries**: `[[temporal-consciousness]]` and `[[metacognition]]` each appeared twice in the concepts list.
+   - **Resolution**: Removed duplicates, added `[[interface-friction]]` and `[[phenomenal-overflow]]` as new relevant concepts.
 
 2. **Miller 7±2 used uncritically**: The article cited Miller 1956's 7±2 figure without noting Cowan's (2001) widely accepted revision to ~4±1 items for pure capacity without chunking. The combinatorial argument ("twenty-one pairwise comparisons") depended on the higher figure.
    - **Resolution**: Added Cowan's revision, adjusted the combinatorial claims to use the range 4-7, and added Cowan 2001 to References.

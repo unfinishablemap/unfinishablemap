@@ -24,10 +24,10 @@ topics: []
 
 ### Critical Issues Found
 - **Missing Kant reference**: Line 123 cited Kant's concept of mathematical sublimity and *Unübersehbarkeit* without any Kant work in the References section. Resolution: Added *Critique of the Power of Judgment* (1790) to references.
-- **Dead frontmatter link**: `mathematical-structure-of-reality` in the concepts list pointed to a file that doesn't exist anywhere in the vault. Resolution: Removed the broken link.
+- **Dead frontmatter link**: `[[mathematical-structure-of-reality]]` in the concepts list pointed to a file that doesn't exist anywhere in the vault. Resolution: Removed the broken link.
 
 ### Medium Issues Found
-- **Missing body cross-links**: `[argument-from-reason](/topics/argument-from-reason/)` and `[epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)` appeared only in Further Reading but were not linked in the body where their arguments are directly relevant. Resolution: Added contextual links in the "What Dualism Offers" and "Relation to Site Perspective" sections.
+- **Missing body cross-links**: `[[argument-from-reason]]` and `[[epistemic-advantages-of-dualism]]` appeared only in Further Reading but were not linked in the body where their arguments are directly relevant. Resolution: Added contextual links in the "What Dualism Offers" and "Relation to Site Perspective" sections.
 - **Thin Wigner section**: The section stated the puzzle and offered one resolution but didn't explain why physicalist alternatives (selection effects, structural necessity) fall short. Resolution: Added a sentence on why standard physicalist explanations are insufficient and a closing sentence reinforcing the dualist framework's explanatory advantage.
 
 ### Counterarguments Considered
@@ -58,7 +58,7 @@ No misattributions, dropped qualifiers, or source/Map conflations found. The art
 - **Confidence calibration**: The quantum interaction paragraph is properly hedged as speculative while core philosophical claims are stated directly. The dual-process qualification shows intellectual honesty.
 
 ### Enhancements Made
-- Added cross-links to `[epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)` and `[argument-from-reason](/topics/argument-from-reason/)` in body text
+- Added cross-links to `[[epistemic-advantages-of-dualism]]` and `[[argument-from-reason]]` in body text
 - Strengthened Wigner section with physicalist counterpoint and dualist resolution
 - Added Kant citation to References
 - Removed dead concept link

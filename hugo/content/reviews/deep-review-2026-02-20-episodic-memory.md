@@ -111,7 +111,7 @@ The article was substantially modified since the previous review (2026-01-20): c
 
 ### Cross-links Status
 
-The article already has extensive cross-links (26 concepts, 6 related articles, 17 Further Reading entries). No new cross-links added — the article is at soft threshold and adding links would require cuts elsewhere. Potential links to `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`, `[explanatory-gap](/concepts/explanatory-gap/)`, and `[mysterianism](/concepts/mysterianism/)` noted for future consideration if the article is revisited.
+The article already has extensive cross-links (26 concepts, 6 related articles, 17 Further Reading entries). No new cross-links added — the article is at soft threshold and adding links would require cuts elsewhere. Potential links to `[[anoetic-noetic-autonoetic-consciousness]]`, `[[explanatory-gap]]`, and `[[mysterianism]]` noted for future consideration if the article is revisited.
 
 ## Remaining Items
 

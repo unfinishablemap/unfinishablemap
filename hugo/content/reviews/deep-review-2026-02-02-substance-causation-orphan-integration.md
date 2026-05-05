@@ -35,7 +35,7 @@ Searched for articles mentioning:
 - "event causation" (contrasting concept)
 - "unmoved mover" (related terminology)
 
-Found 6 content articles discussing substance causation concepts without linking to `[substance-causation](/concepts/agent-causation/)`:
+Found 6 content articles discussing substance causation concepts without linking to `[[substance-causation]]`:
 
 1. **agent-causation.md** - Extensively discusses Lowe's substance causation framework
 2. **mental-causation.md** - References Lowe's argument that all causation is substance causation
@@ -47,7 +47,7 @@ Found 6 content articles discussing substance causation concepts without linking
 ## Cross-References Added
 
 ### agent-causation.md
-- Added `[substance-causation](/concepts/agent-causation/)` to concepts frontmatter
+- Added `[[substance-causation]]` to concepts frontmatter
 - Added link in "Major Defenders" section: "O'Connor (2000, 2021) developed [substance causation](/concepts/agent-causation/)..."
 - Added explanatory sentence in "Substance Causation and the Map's Framework" section
 - Added to Further Reading: "[substance-causation](/concepts/agent-causation/) — The metaphysical framework: substances as fundamental causal agents"

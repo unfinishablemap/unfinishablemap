@@ -57,7 +57,7 @@ All eleven strengths catalogued in the 2026-04-25 review remain intact. Specific
 
 ### Cross-links Added
 
-- `[agency-void](/voids/agency-void/)` added to:
+- `[[agency-void]]` added to:
   - frontmatter `related_articles`
   - inline reference in "Mental Causation and Epiphenomenalism" section
   - "Further Reading" list with descriptor

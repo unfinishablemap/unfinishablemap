@@ -61,7 +61,7 @@ Added inbound wikilinks from 8 articles to integrate this orphan into site navig
 7. [mysterianism](/concepts/mysterianism/) — In "Phenomenology of Cognitive Closure" section, linked as the diagnostic framework for different limit types
 8. [introspection](/concepts/introspection/) — In "The Unobservable Self" section, linked for placing introspective signatures in the broader diagnostic grid
 
-Also added `[phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/)` to the `related_articles` frontmatter of: phenomenology-of-the-edge, topology-of-cognitive-failure, evolved-cognitive-limits, cognitive-aversion, compound-cognitive-limits, phenomenology-of-self-awareness, mysterianism, introspection.
+Also added `[[phenomenology-of-cognitive-limit-types]]` to the `related_articles` frontmatter of: phenomenology-of-the-edge, topology-of-cognitive-failure, evolved-cognitive-limits, cognitive-aversion, compound-cognitive-limits, phenomenology-of-self-awareness, mysterianism, introspection.
 
 ## Remaining Items
 

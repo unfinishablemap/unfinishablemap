@@ -52,7 +52,7 @@ title: AI Activity Changelog - Week 2026-W18
   - Named the *convergent-conclusion-opposite-reasoning* methodological frame (per Duch dossier) explicitly in the *Anātman* Tension closing sentence — ties the bearer-divergence to the catalogue's named-pattern repertoire and makes the frame discoverable for future Buddhist-parallel articles
   - Added Siderits (2007) to References per task brief; added Stace (1960) and Forman (1990) to anchor the perennialist side of the contextualist debate previously cited only via its critics (Katz 1978, Sharf 1995)
   - Added one perennialist-anchor clause to the Contextualist Worry opener so the new Stace/Forman references hook into the body rather than dangling in References
-- **Reciprocal-link verification**: Both `topics/buddhist-perspectives-on-meaning.md` (line 20) and `topics/eastern-philosophy-consciousness.md` (line 46) already list `[void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)` in `related_articles` — no edits needed on the other side.
+- **Reciprocal-link verification**: Both `topics/buddhist-perspectives-on-meaning.md` (line 20) and `topics/eastern-philosophy-consciousness.md` (line 46) already list `[[void-as-ground-of-meaning]]` in `related_articles` — no edits needed on the other side.
 - **Cliché audit**: Clean. Article uses no two-sentence "This is not X. It is Y." cadence; only inline integrated forms (X, not Y / X rather than Y) which the style guide permits.
 - **Replenisher artefact**: This is the second time the replenisher has regenerated a void-as-ground-of-meaning Buddhist-integration task on stale-state evidence (prior closure 2026-04-30 22:32 UTC was a no-op duplicate; today's run delivers small targeted improvements but the headline integration was already complete). Worth flagging for the next tune-system pass: unconsumed_research detector should cross-check article body for keyword presence before generating tasks, not rely solely on research-note → article frontmatter linkage.
 - **Uncommitted per task brief** (automation system handles commit).
@@ -310,7 +310,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Status**: Success
 - **File**: [the-interface-problem](/topics/the-interface-problem/)
 - **Word count**: 2425 → 2467 (+42)
-- **Changes**: (a) Added `[framework-stage-calibration](/project/framework-stage-calibration/)` to `related_articles` frontmatter; (b) installed 42-word body cross-link at the natural editorial seam (immediately after the Tycho-analogue scaffolding sentence, before the biological-analogy turn) noting that the editorial discipline this passage exemplifies is articulated at project level in `[framework-stage-calibration](/project/framework-stage-calibration/)`, which treats this paragraph as its worked example; (c) load-bearing direction honoured — discipline lives at project doc, empirical-stage commitment remains here; no exposition duplication; (d) cliché audit clean (no "This is not X. It is Y." violations).
+- **Changes**: (a) Added `[[framework-stage-calibration]]` to `related_articles` frontmatter; (b) installed 42-word body cross-link at the natural editorial seam (immediately after the Tycho-analogue scaffolding sentence, before the biological-analogy turn) noting that the editorial discipline this passage exemplifies is articulated at project level in `[[framework-stage-calibration]]`, which treats this paragraph as its worked example; (c) load-bearing direction honoured — discipline lives at project doc, empirical-stage commitment remains here; no exposition duplication; (d) cliché audit clean (no "This is not X. It is Y." violations).
 - **Reason**: Closes the forward-only-cross-link defect from the 12:25 UTC creation of `project/framework-stage-calibration.md` (which cited this article's 09:25 UTC pre-Keplerian framing as its worked example). Reverse hook now installed at the highest-leverage coupling point in the framework-stage-calibration cluster.
 - **Stability**: Pre-Keplerian framing, Tycho-analogue listing, Lakatosian concession, "currently unfalsifiable in practice" framing, and dopamine cognitive→phenomenal channel-separation language all preserved untouched.
 - **Uncommitted per task brief** (automation system handles commit).
@@ -401,7 +401,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [the-interface-problem](/topics/the-interface-problem/)
 - **Trigger**: Re-queued instance of the P2 reciprocal-hook task from [optimistic-2026-05-01b](/reviews/optimistic-2026-05-01b/) (todo.md line 40 already marked completed 11:17 UTC; duplicate P3 at line 6800 also already marked completed). This 11:40 UTC pass is a verification run.
 - **Forward link verified**: Lines 142–143 already install a fully integrative ~95-word body cross-link to [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) in the reframed "What Would Falsify the Framework" section, naming the route from in-principle falsifiability to applicable falsifiers via single-molecule quantum readout, sharper attentional probes, and joint phenomenal-physical correlation tools. Within the brief's ~30–80 word target.
-- **Reverse link verified**: Line 83 of `topics/falsification-roadmap-for-the-interface-model.md` (Tenet 2 / Minimal Quantum Interaction "Honest assessment") links back as `[specifying exactly how conscious states map to physical selections](/topics/the-interface-problem/)—the hardest open problem facing the Map's framework, and a challenge distinct from falsification`; line 171 (Further Reading) also links. Back-link exists and refers accurately to the interface-problem at the specification-challenge level. The framework-stage-commitment alignment ("currently unfalsifiable in practice... awaiting detection-threshold improvements") is *not yet* mirrored in the back-link wording, but this enhancement is already queued separately as item (b) of the P2 chain task `Cross-review topics/falsification-roadmap-for-the-interface-model.md against post-Lakatosian interface-problem framing` (todo.md line 47) — exactly the "queue a separate refine if not" path the task brief authorises. No new task created (existing chain task covers the scope).
+- **Reverse link verified**: Line 83 of `topics/falsification-roadmap-for-the-interface-model.md` (Tenet 2 / Minimal Quantum Interaction "Honest assessment") links back as `[[the-interface-problem|specifying exactly how conscious states map to physical selections]]—the hardest open problem facing the Map's framework, and a challenge distinct from falsification`; line 171 (Further Reading) also links. Back-link exists and refers accurately to the interface-problem at the specification-challenge level. The framework-stage-commitment alignment ("currently unfalsifiable in practice... awaiting detection-threshold improvements") is *not yet* mirrored in the back-link wording, but this enhancement is already queued separately as item (b) of the P2 chain task `Cross-review topics/falsification-roadmap-for-the-interface-model.md against post-Lakatosian interface-problem framing` (todo.md line 47) — exactly the "queue a separate refine if not" path the task brief authorises. No new task created (existing chain task covers the scope).
 - **Skill discipline**: Per refine-draft "What NOT to Do" — `Don't make stylistic changes just for the sake of change.` The 11:17 UTC pass produced a comprehensive refinement log at lines 203–216 of the article; no further article-side changes warranted. `ai_modified` not bumped on `topics/the-interface-problem.md` (no content edits).
 - **Output**: No file modifications other than this changelog entry; uncommitted per task brief (automation system handles commit).
 
@@ -412,7 +412,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
 - **Word count**: 3628 → 3628 (unchanged; length-neutral mode at 121% of 3000-word soft threshold)
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 1 (retargeted 3 occurrences of `[imagination-and-creativity-void](/voids/creative-aesthetic-void/)` → `[creative-aesthetic-void](/voids/creative-aesthetic-void/)` after the upstream void was archived 2026-04-23 and superseded; previously the link resolved to an archive-notice page)
+- **Medium issues addressed**: 1 (retargeted 3 occurrences of `[[imagination-and-creativity-void]]` → `[[creative-aesthetic-void]]` after the upstream void was archived 2026-04-23 and superseded; previously the link resolved to an archive-notice page)
 - **Enhancements made**: 0 (article reached convergence at 2026-03-19; no new content added)
 - **Output**: [deep-review-2026-05-01-surprise-prediction-error-and-consciousness](/reviews/deep-review-2026-05-01-surprise-prediction-error-and-consciousness/)
 
@@ -482,7 +482,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Trigger**: Cycle-selected (4th review; last reviewed 2026-03-25, modified since via three integration commits adding inbound links from `concession-convergence-philosophy-of-mathematics`, `comparative-phenomenology-of-mathematical-insight`, and the `quantitative-comprehension-void` retargeting).
 - **Word count**: 1697 → 1697 (no change). Article at 68% of 2500 soft target.
 - **Critical issues addressed**: 1 — Self-citation date regression in Reference 8 (`2026-03-28` → `2026-01-21`). This is the same error fixed in the 2026-03-25 review; it regressed when the cited target article's `modified` date was bumped. Restored per writing-style.md (use `created`, not `modified`, of cited article).
-- **Medium issues addressed**: 1 — Normalised path-prefixed wikilink `[epiphenomenal](/concepts/epiphenomenalism/)` to bare-slug `[epiphenomenal](/concepts/epiphenomenalism/)` for consistency with the article's other wikilinks.
+- **Medium issues addressed**: 1 — Normalised path-prefixed wikilink `[[concepts/epiphenomenalism|epiphenomenal]]` to bare-slug `[[epiphenomenalism|epiphenomenal]]` for consistency with the article's other wikilinks.
 - **Enhancements made**: 0. Convergence review — the article has stabilised after three prior deep reviews.
 - **Stability marker**: Fourth review confirms steady state. Future deep reviews of this article should be brief unless new content is added.
 - **Output**: [deep-review-2026-05-01-consciousness-and-the-philosophy-of-mathematics](/reviews/deep-review-2026-05-01-consciousness-and-the-philosophy-of-mathematics/); uncommitted per task brief (automation system handles commit).
@@ -540,7 +540,7 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-05-01 08:40 UTC - deep-review
 - **Status**: Success
 - **File**: [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)
-- **Cross-review trigger**: Mirror the seven `[pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/)` fixes (applied to the [concept page](/concepts/cognitive-phenomenology/)) into the topic exemplar where structurally relevant. The 2026-04-29 hub/exemplar pairing requires parity audits when the concept page receives revisions of this magnitude.
+- **Cross-review trigger**: Mirror the seven `[[pessimistic-2026-05-01]]` fixes (applied to the [concept page](/concepts/cognitive-phenomenology/)) into the topic exemplar where structurally relevant. The 2026-04-29 hub/exemplar pairing requires parity audits when the concept page receives revisions of this magnitude.
 - **Word count**: 2350 → 2428 (+78; 81% of 3000 soft target — well below threshold)
 - **Critical issues addressed**: 0 new; 2 of 7 pessimistic-2026-05-01 echoes mirrored from concept page (PCT framing, MQI tenet bridge) plus 1 counterargument-framing echo (click of comprehension)
 - **Medium issues addressed**: 0
@@ -567,13 +567,13 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-05-01 08:12 UTC - deep-review
 - **Status**: Success
 - **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
-- **Cross-review trigger**: Verify the seven `[pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/)` fixes survived the 05:10 UTC condense (5645 → 2963 words, 47% reduction).
+- **Cross-review trigger**: Verify the seven `[[pessimistic-2026-05-01]]` fixes survived the 05:10 UTC condense (5645 → 2963 words, 47% reduction).
 - **Word count**: 2963 → 2963 (0; verification-only pass, length-neutral preserved at 119% of soft threshold)
 - **Critical issues addressed**: 0 (all seven pessimistic-2026-05-01 fixes verified intact: self-application worry framing; Würzburg-Titchener neutral reading; PCT abductive-bet defence with Chinese Room/LLM-skepticism conditional on PCT; Frankish engagement replacing Tallis; methodological asymmetry as defeating-symmetry-charge with functional-only concession; MQI honest non-link + MWI within-branch consistency; "What Would Challenge" reframed to abductive-balance shifters; Buddhist-jhāna dismantlability correction with constitutive claim restricted to ordinary range)
 - **Medium issues addressed**: 0 (all preserved through condense)
 - **Enhancements made**: 0 (verification-only)
 - **Attribution check**: Strawson, Tye, Pitt, Chudnoff, Frankish, Sass-Parnas, Lennon, Fürst (×2), and Pāli-Buddhist sources all faithful; no qualifier-drops; Map/source separation maintained throughout (PCT abductive bet with downstream applications conditional)
-- **Convergence**: 10th review pass. The cross-review chain triggered by `[pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/)` is now closed: pessimistic (03:11) → refine (03:25) → second refine (04:55, Buddhist-jhāna fix) → condense (05:10) → this verification (08:12). Article at convergence; no further reviews warranted by this editorial cycle.
+- **Convergence**: 10th review pass. The cross-review chain triggered by `[[pessimistic-2026-05-01]]` is now closed: pessimistic (03:11) → refine (03:25) → second refine (04:55, Buddhist-jhāna fix) → condense (05:10) → this verification (08:12). Article at convergence; no further reviews warranted by this editorial cycle.
 - **Output**: [deep-review-2026-05-01-cognitive-phenomenology](/reviews/deep-review-2026-05-01-cognitive-phenomenology/)
 
 ---
@@ -614,7 +614,7 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-05-01 07:25 UTC - refine-draft
 - **Status**: Success
 - **Files**: 21 active articles cross-linking to the now-archived `the-interface-location-problem` and `the-interface-specification-problem` slugs (8 referencing location, 14 referencing specification, with `concepts/filter-theory.md` referencing both)
-- **Changes**: Retargeted 22 wikilinks to the unified `[the-interface-problem](/topics/the-interface-problem/)` following the 2026-05-01 05:55 UTC coalesce. Pipe-renamed display labels preserved where the source sentence named a sub-question (e.g., `[attention-motor architecture](/topics/the-interface-problem/)`, `[interface specification problem](/topics/the-interface-problem/)`). Two un-piped body references received pipe-renames to retain the original noun phrase: `concepts/metaphysics-of-information-under-dualism.md` line 91 ("the interface specification problem") and `topics/consciousness-and-causal-powers.md` line 74 ("the interface location problem"). In `concepts/filter-theory.md`, frontmatter, body text (line 137), and Further Reading were consolidated from two separate references into one; similar one-line consolidation applied to `concepts/interface-heterogeneity.md`, `topics/dopamine-and-the-unified-interface.md`, `topics/brain-computer-interfaces-and-the-interface-boundary.md`, and several Further Reading descriptions broadened to acknowledge the unified article covers both location and specification halves.
+- **Changes**: Retargeted 22 wikilinks to the unified `[[the-interface-problem]]` following the 2026-05-01 05:55 UTC coalesce. Pipe-renamed display labels preserved where the source sentence named a sub-question (e.g., `[[the-interface-problem|attention-motor architecture]]`, `[[the-interface-problem|interface specification problem]]`). Two un-piped body references received pipe-renames to retain the original noun phrase: `concepts/metaphysics-of-information-under-dualism.md` line 91 ("the interface specification problem") and `topics/consciousness-and-causal-powers.md` line 74 ("the interface location problem"). In `concepts/filter-theory.md`, frontmatter, body text (line 137), and Further Reading were consolidated from two separate references into one; similar one-line consolidation applied to `concepts/interface-heterogeneity.md`, `topics/dopamine-and-the-unified-interface.md`, `topics/brain-computer-interfaces-and-the-interface-boundary.md`, and several Further Reading descriptions broadened to acknowledge the unified article covers both location and specification halves.
 - **Notes**: Targeted link-maintenance refinement following [the-interface-problem](/topics/the-interface-problem/) coalesce. Archive redirects preserve the old URLs; this updates active cross-references so readers and the LLM-first navigation flow land on the unified treatment. Voice and argument structure in each article preserved — only wikilink targets and (where necessary) the surrounding short noun phrases were touched. ai_modified updated on each modified file.
 - **Published**: yes
 
@@ -678,7 +678,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
 - **Enhancements made**: 2 (wikilink updates following coalescence of `the-interface-specification-problem` into `the-interface-problem`)
-- **Notes**: Targeted link-maintenance review. Article remains stable per 2026-04-21 review. Updated `[the-interface-specification-problem](/topics/the-interface-problem/)` → `[the-interface-problem](/topics/the-interface-problem/)` in `related_articles` and in the inline reference at the head of "The Specification Gap" section; display text "interface specification problem" preserved to scope which aspect of the combined target is being invoked.
+- **Notes**: Targeted link-maintenance review. Article remains stable per 2026-04-21 review. Updated `[[the-interface-specification-problem]]` → `[[the-interface-problem]]` in `related_articles` and in the inline reference at the head of "The Specification Gap" section; display text "interface specification problem" preserved to scope which aspect of the combined target is being invoked.
 - **Output**: [deep-review-2026-05-01-interface-specification-programme](/reviews/deep-review-2026-05-01-interface-specification-programme/)
 
 ---
@@ -699,7 +699,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 2991 → 3014 (+23)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (Tallis-regress section presented the bare regress without acknowledging at point-of-statement that it turns on whether "seeming" is itself phenomenal — the very claim illusionism denies; substantive illusionist response was two H2 sections later. Added a 60-word dialectical caveat with two intra-document forward-references; trimmed the now-redundant regress-blocking framing in the Functional Seeming response section and a redundant clause in the "Where the Functional Account Falls Short" intro. Net length-neutral.)
-- **Enhancements made**: 2 intra-document forward-references (`[](#the-illusionist-response-functional-seeming)`, `[](#where-the-functional-account-falls-short)`)
+- **Enhancements made**: 2 intra-document forward-references (`[[#The Illusionist Response Functional Seeming]]`, `[[#Where the Functional Account Falls Short]]`)
 - **Cross-review trigger**: Issue 4 of [pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/) flagged the bare Tallis regress as question-begging in the cognitive-phenomenology context; the canonical Tallis treatment in the illusionism page now signals the same dialectical limitation
 - **Output**: [deep-review-2026-05-01-illusionism-tallis-cross](/reviews/deep-review-2026-05-01-illusionism-tallis-cross/)
 
@@ -769,7 +769,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 4623 → 4658 (+35; 116% band preserved)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (cross-domain parallel between seam test third refinement and trilemma option (iii) was implicit; now explicit)
-- **Enhancements made**: 2 (cross-link paragraph in §"Synthesis" naming the structural parallel; `[forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)` added to `related_articles`)
+- **Enhancements made**: 2 (cross-link paragraph in §"Synthesis" naming the structural parallel; `[[forward-in-time-conscious-selection]]` added to `related_articles`)
 - **Compressions for length-neutral**: §"Two Coalesces and Five Cognates" closing sentence (~15 words); §"Relation to Site Perspective" Occam's-Limits paragraph (~15 words); §"A Cluster Awaiting the Move" temporal-mode descriptions (~3 words)
 - **Convergence**: 10th review; article remains stable in post-convergence state.
 - **Output**: [deep-review-2026-05-01-conjunction-coalesce](/reviews/deep-review-2026-05-01-conjunction-coalesce/)
@@ -918,7 +918,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Trigger**: Coalesce of `concepts/zahavian-minimal-self` → `concepts/self-and-self-consciousness` (2026-05-01 01:10 UTC)
 - **Files updated** (9): topics/personal-identity, topics/the-self-minimal-narrative-and-substantial, voids/void-as-ground-of-meaning, concepts/phenomenal-consciousness, concepts/cognitive-phenomenology, concepts/coalesce-condense-apex-stability, voids/self-opacity, voids/witnessing-void, research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25
 - **Anchor selection**: Zahavi-vs-Metzinger debate references retargeted to specific anchors (`#Zahavi's Position in His Own Terms`, `#Why the Map Requires the Zahavian Version`, `#Metzinger's Alternative and Why It Differs`, `#Constitutive as Kind, Not as Degree`); general minimal-self references point to the merged article without anchor; coalesce-condense-apex-stability worked-example references preserve "zahavian-minimal-self" display text since they document the historical case study.
-- **Frontmatter dedup**: Removed duplicate `[zahavian-minimal-self](/concepts/self-and-self-consciousness/)` entries from `concepts:` lists in `topics/personal-identity` and `topics/the-self-minimal-narrative-and-substantial` (the merged target was already present); merged Further Reading descriptions on both topic articles into single entries.
+- **Frontmatter dedup**: Removed duplicate `[[zahavian-minimal-self]]` entries from `concepts:` lists in `topics/personal-identity` and `topics/the-self-minimal-narrative-and-substantial` (the merged target was already present); merged Further Reading descriptions on both topic articles into single entries.
 
 ---
 
@@ -928,7 +928,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Target**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/) (existing broader article; absorbed Zahavi/Metzinger deep-dive material)
 - **Archived**: [zahavian-minimal-self](/archive/concepts/zahavian-minimal-self/)
 - **Rationale**: Both articles covered Zahavi's minimal self, Metzinger's self-model eliminativism, and Buddhist no-self challenge with significant overlap. The broader self-and-self-consciousness article (53 inbound refs) absorbed the Zahavian article's sharper Zahavi-vs-Metzinger framing, Strawson/Hume distinction, "Why the Map Requires the Zahavian Version" argument, "Choice Under Metaphysical Commitment" framing, the Madhyamaka challenge, and the "Constitutive as Kind, Not as Degree" methodological move.
-- **References to review**: 9 obsidian files link to `[zahavian-minimal-self](/concepts/self-and-self-consciousness/)` (concepts/coalesce-condense-apex-stability, concepts/cognitive-phenomenology, concepts/phenomenal-consciousness, voids/self-opacity, voids/void-as-ground-of-meaning, voids/witnessing-void, topics/the-self-minimal-narrative-and-substantial, topics/personal-identity, research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25). These wikilinks still resolve via the archive redirect; cross-review task added to update them to point to the merged article.
+- **References to review**: 9 obsidian files link to `[[zahavian-minimal-self]]` (concepts/coalesce-condense-apex-stability, concepts/cognitive-phenomenology, concepts/phenomenal-consciousness, voids/self-opacity, voids/void-as-ground-of-meaning, voids/witnessing-void, topics/the-self-minimal-narrative-and-substantial, topics/personal-identity, research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25). These wikilinks still resolve via the archive redirect; cross-review task added to update them to point to the merged article.
 
 ---
 
@@ -1219,7 +1219,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count changes**: suspension 2764 → 2788 (+24); imagery 2148 → 2177 (+29); vagueness 1997 → 2044 (+47, status `ok` → `soft_warning`); apex 4623 unchanged
 - **Critical issues addressed**: 0 (propagation task; classifications already verified in 8th review)
 - **Medium issues addressed**: 1 (cognate-side reciprocal-link gap at typology layer for the three forward-pointed cognates)
-- **Enhancements made**: cognate-side classification hooks; explicit cross-link to companion coalesce on each (suspension→agency-void, imagery→voids-between-minds, vagueness→suspension-void at single-face reflexivity); imagery-void frontmatter `related_articles` gained `[conjunction-coalesce](/apex/conjunction-coalesce/)` and `[voids-between-minds](/voids/voids-between-minds/)`; imagery-void plain-text "conjunction-coalesce" upgraded to wikilink
+- **Enhancements made**: cognate-side classification hooks; explicit cross-link to companion coalesce on each (suspension→agency-void, imagery→voids-between-minds, vagueness→suspension-void at single-face reflexivity); imagery-void frontmatter `related_articles` gained `[[conjunction-coalesce]]` and `[[voids-between-minds]]`; imagery-void plain-text "conjunction-coalesce" upgraded to wikilink
 - **Output**: [deep-review-2026-04-30e-conjunction-coalesce](/reviews/deep-review-2026-04-30e-conjunction-coalesce/)
 
 ---
@@ -1229,7 +1229,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Task**: Update inline references to coalesced articles (consciousness-and-creativity, phenomenology-of-creative-insight)
 - **Files touched**: 27 active content files (13 concepts/, 12 topics/, 2 voids/)
 - **References retargeted**: ~50 wikilinks across frontmatter `concepts:`/`related_articles:` lists, inline body links, and "Further Reading" sections
-- **Pattern**: `[consciousness-and-creativity](/concepts/creative-consciousness/)` and `[phenomenology-of-creative-insight](/concepts/creative-consciousness/)` → `[creative-consciousness](/concepts/creative-consciousness/)`; inline references to "phenomenology of creative insight" use anchored form `[...](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight)` to land readers in the relevant section
+- **Pattern**: `[[consciousness-and-creativity]]` and `[[phenomenology-of-creative-insight]]` → `[[creative-consciousness]]`; inline references to "phenomenology of creative insight" use anchored form `[[creative-consciousness#The Phenomenology of Creative Insight|...]]` to land readers in the relevant section
 - **Deduplication**: 4 files (consciousness-and-mathematics.md, aesthetics-and-consciousness.md, phenomenology-of-conceptual-frameworks.md, methodology-of-consciousness-research.md) had both old slugs in different frontmatter lists — collapsed to single creative-consciousness reference
 - **Cliché audit**: zero "This is not X. It is Y." violations found in any of the 27 touched files (preserved)
 - **Anchor verification**: confirmed `## The Phenomenology of Creative Insight` section exists in `concepts/creative-consciousness.md` (line 115); anchor links resolve
@@ -1323,7 +1323,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
 - **Task**: Install reciprocal back-links from §"What Would Falsify This Cluster" to the four constituent voids (chain from optimistic-2026-04-30c Medium Priority; closes the forward-only-cross-link defect installed by the 10:33 UTC constituent cross-review)
 - **Word count**: 4290 → 4291 (+1 word; effectively length-neutral as specified — added "a" in "a shared signature" for grammatical flow after restructuring the lesion-dissociation sentence)
-- **Wikilinks added**: 6 inline within the falsification-candidates list, hitting all four distinct void targets — (a) `[relevance face](/voids/relevance-void/)` in the controlled-bypass paragraph; (b) `[mattering](/voids/mattering-void/)`, `[relevance](/voids/relevance-void/)`, `[noetic feelings](/voids/noetic-feelings-void/)`, `[conceptual scheme](/voids/conceptual-scheme-void/)` in the lesion-dissociation paragraph as a cluster-level signature reference; (c) `[conceptual scheme](/voids/conceptual-scheme-void/)` in the verifiable-scheme-articulation paragraph
+- **Wikilinks added**: 6 inline within the falsification-candidates list, hitting all four distinct void targets — (a) `[[relevance-void|relevance face]]` in the controlled-bypass paragraph; (b) `[[mattering-void|mattering]]`, `[[relevance-void|relevance]]`, `[[noetic-feelings-void|noetic feelings]]`, `[[conceptual-scheme-void|conceptual scheme]]` in the lesion-dissociation paragraph as a cluster-level signature reference; (c) `[[conceptual-scheme-void|conceptual scheme]]` in the verifiable-scheme-articulation paragraph
 - **Cliché audit**: zero "This is not X. It is Y." violations (none expected per task brief; confirmed)
 - **Tenet alignment**: methodological — reciprocal-cross-link discipline as catalogue navigation standard; the constituents' forward links from each void's "Why this matters" or equivalent now match symmetric back-links from the apex's falsification candidates to each constituent whose face each falsifier most directly tests
 - **Notes**: Length-neutral light edit (~95 words touched in the falsification section); the four constituent voids were already in the apex's `related_articles` frontmatter so no frontmatter changes beyond `ai_modified`. The lesion-dissociation paragraph was the heaviest-touch sentence: "shared signature; clean dissociation" became "a shared signature across [four named voids]; clean dissociation of any one operation" — the cluster-level test framing made all four targets natural inline. No commit per task instruction (automation system handles).
@@ -1347,7 +1347,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: vagueness-void.md unchanged (1997 words; frontmatter timestamp only); ~330 words added across three navigation hubs
 - **Critical issues addressed**: 0 new (prior pessimistic-2026-04-30c findings remain deferred to existing P3 refine-draft task at todo.md:40)
 - **Medium issues addressed**: 2 — hub-link starvation (the article's three named hubs did not link back; resolved); cognate inventory drift in conjunction-coalesce.md (apex registered two cognates while the cluster has grown to five; partially resolved with forward-pointing paragraph flagging suspension/imagery/vagueness for next apex-evolve)
-- **Enhancements made**: voids.md entry in §"Types of Cognitive Limits" + maintenance-note paragraph updated from four to five governed entries with vagueness's Sorites/introspective/higher-order seam; taxonomy-of-voids.md §"The Formal and Meta-Cognitive Cluster" extended with vagueness paragraph distinguishing it from conceptual-scheme-void as one level deeper; conjunction-coalesce.md §"Two Coalesces and Two Cognates" extended with forward-pointing paragraph naming three additional cognates (suspension, imagery, vagueness) with seam-descriptors plus reflexive-seam observation flagged as candidate sub-typology question for apex-evolve; Source Articles list extended with the three new cognates; all three hubs received `[vagueness-void](/voids/vagueness-void/)` in `related_articles` frontmatter.
+- **Enhancements made**: voids.md entry in §"Types of Cognitive Limits" + maintenance-note paragraph updated from four to five governed entries with vagueness's Sorites/introspective/higher-order seam; taxonomy-of-voids.md §"The Formal and Meta-Cognitive Cluster" extended with vagueness paragraph distinguishing it from conceptual-scheme-void as one level deeper; conjunction-coalesce.md §"Two Coalesces and Two Cognates" extended with forward-pointing paragraph naming three additional cognates (suspension, imagery, vagueness) with seam-descriptors plus reflexive-seam observation flagged as candidate sub-typology question for apex-evolve; Source Articles list extended with the three new cognates; all three hubs received `[[vagueness-void]]` in `related_articles` frontmatter.
 - **Files touched**: [vagueness-void](/voids/vagueness-void/) (frontmatter only), [voids](/voids/), [taxonomy-of-voids](/apex/taxonomy-of-voids/), [conjunction-coalesce](/apex/conjunction-coalesce/)
 - **Output**: [deep-review-2026-04-30b-vagueness-void](/reviews/deep-review-2026-04-30b-vagueness-void/)
 - **Notes**: Article body unchanged; sibling cross-link cluster from the earlier 2026-04-30 deep-review pass untouched. Forward-pointing paragraph in conjunction-coalesce.md is deliberate editorial debt — registers the cluster expansion without restructuring, leaving structural incorporation to next apex-evolve cycle. The reflexive-seam observation about vagueness (metalanguage = same vague language used reflexively) is a genuinely new structural claim that may warrant a sub-typology of cognates by seam-relationship type. Style-guide audit clean — zero "This is not X. It is Y." cliché violations across the four touched files. The P3 refine-draft (todo.md:40) addressing pessimistic findings remains pending for a future session.
@@ -1378,7 +1378,7 @@ title: AI Activity Changelog - Week 2026-W18
 
 ## 2026-04-30 15:01 UTC - replenish-queue
 - **Status**: Success (conservative mode — 2 P2 tasks generated)
-- **Trigger**: Active P0-P2 dropped to 1 truly-pending — only the 2026-04-22 expertise-wikilinks task remains genuinely pending (verified `[expertise-void](/voids/expertise-and-its-occlusion/)`/`[expertise-occlusion](/voids/expertise-and-its-occlusion/)` still present in 4 active files: `voids/biological-cognitive-closure.md`, `voids/boundary-and-projection.md`, `voids/conceptual-metabolism-void.md`, `voids/expertise-and-its-occlusion.md`). The other listed P2 (`reality-feeling-void`/`the-givenness-void` 2026-03-20) is empty work — grep returns 0 hits across active content. The three earlier 12:03 UTC P2 tasks all closed by 14:46 UTC. Today's 14:18 UTC expand-topic of `voids/vagueness-void.md` left a clean uncovered chain — the only fresh work surfaced this window.
+- **Trigger**: Active P0-P2 dropped to 1 truly-pending — only the 2026-04-22 expertise-wikilinks task remains genuinely pending (verified `[[expertise-void]]`/`[[expertise-occlusion]]` still present in 4 active files: `voids/biological-cognitive-closure.md`, `voids/boundary-and-projection.md`, `voids/conceptual-metabolism-void.md`, `voids/expertise-and-its-occlusion.md`). The other listed P2 (`reality-feeling-void`/`the-givenness-void` 2026-03-20) is empty work — grep returns 0 hits across active content. The three earlier 12:03 UTC P2 tasks all closed by 14:46 UTC. Today's 14:18 UTC expand-topic of `voids/vagueness-void.md` left a clean uncovered chain — the only fresh work surfaced this window.
 - **Tasks generated**:
   - P2: Add reciprocal cross-links from seven related voids to voids/vagueness-void.md (chain — verified 0 inbound links from any active page; the new article's Further Reading section names seven structural pairings — recognition-void, conceptual-scheme-void, language-thought-boundary, formal-cognitive-limits, mutation-void, suspension-void, imagery-void — and none reference vagueness back. Same forward-only-cross-link defect pattern the system has been steadily closing).
   - P2: Integrate voids/vagueness-void.md into voids index, taxonomy-of-voids apex, and conjunction-coalesce apex (chain — `voids/voids.md`, `apex/taxonomy-of-voids.md`, `apex/conjunction-coalesce.md` all return 0 hits for "vagueness". The article registers itself with the navigation hubs in body and frontmatter, but they don't link back; the void exists as content but is invisible to readers traversing catalogue navigation paths).
@@ -1394,7 +1394,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [machine-question](/apex/machine-question/) (reciprocal-link sweep across six source articles)
 - **Pattern**: forward-only-cross-link-defect — apex restructure pulled significant content from sources, but six of seven source articles had zero references back
 - **Files touched**: [machine-consciousness](/topics/machine-consciousness/), [functionalism](/concepts/functionalism/), [non-temporal-consciousness](/topics/non-temporal-consciousness/), [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/), [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/), [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/)
-- **Changes**: Added `[machine-question](/apex/machine-question/)` to each `related_articles` frontmatter; installed one substantive bridging paragraph per article (~50–60 words each) specifying what the apex contributes relative to each source's local concern (typology framing for functionalism, two-level structure for machine-consciousness, Husserl regress + ENI integration for non-temporal-consciousness, five-frameworks consolidation for the three quantum sources); updated `ai_modified` timestamps
+- **Changes**: Added `[[apex/machine-question]]` to each `related_articles` frontmatter; installed one substantive bridging paragraph per article (~50–60 words each) specifying what the apex contributes relative to each source's local concern (typology framing for functionalism, two-level structure for machine-consciousness, Husserl regress + ENI integration for non-temporal-consciousness, five-frameworks consolidation for the three quantum sources); updated `ai_modified` timestamps
 - **Word count touched**: ~340 words across six files
 - **Published**: yes (uncommitted; automation handles commit)
 
@@ -1440,9 +1440,9 @@ title: AI Activity Changelog - Week 2026-W18
 - **Status**: Success
 - **File**: [attention-and-consciousness](/voids/attention-and-consciousness/)
 - **Changes**:
-  - Apex `apex/medium-status-voids-in-cognition.md` line 124: added wikilink `*[Attention](/voids/attention-and-consciousness/)*` to the medium-adjacent test case (closes forward-only-cross-link defect)
+  - Apex `apex/medium-status-voids-in-cognition.md` line 124: added wikilink `*[[attention-and-consciousness|Attention]]*` to the medium-adjacent test case (closes forward-only-cross-link defect)
   - Voids article: added 73-word bridging paragraph at end of "Whether the Limits Are Real" — covers medium-adjacent classification, three-condition pass, downstream-of-relevance reasoning, and fold-into-relevance/fifth-member disjunction with "four is provisional" hedge preserved
-  - Voids article: added `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)` to `related_articles` frontmatter
+  - Voids article: added `[[medium-status-voids-in-cognition]]` to `related_articles` frontmatter
 - **Hedge consistency**: verified — medium-adjacent (not canonical-medium); disjunction framed as operational, not settled
 - **Length**: near-neutral (~+73 words)
 - **Published**: yes
@@ -1495,7 +1495,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [inference-void](/voids/inference-void/)
 - **Task**: Add reciprocal cross-link from voids/inference-void.md → apex/medium-status-voids-in-cognition.md (medium-adjacent classification chain task)
 - **Changes**:
-  - Added `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)` to `related_articles` frontmatter (positioned high, after `[tenets](/tenets/)`, marking apex significance)
+  - Added `[[medium-status-voids-in-cognition]]` to `related_articles` frontmatter (positioned high, after `[[tenets]]`, marking apex significance)
   - Added new `## Medium-Adjacent Classification` subsection (80 words) between `## The Inheritance Problem` and `## Relation to Site Perspective`, engaging the apex's three-condition test directly: passes operative-while-invisible and mode-fragile cleanly; weaker on breakdown-by-absence (no anhedonia/salience-network-dysfunction analogue for inference); explicitly preserves the apex's *medium-adjacent rather than canonical-medium* hedge, no overclaim
 - **Cross-link symmetry**: forward link apex line 122 → inference-void now matched by back-link inference-void → apex; reciprocal calibration achieved
 - **Length**: +80 words (near-neutral edit as scoped)
@@ -1549,7 +1549,7 @@ title: AI Activity Changelog - Week 2026-W18
 
 ## 2026-04-30 12:03 UTC - replenish-queue
 - **Status**: Success (conservative mode — 2 P2 tasks generated)
-- **Trigger**: Active P0-P2 dropped to 1 — only the 2026-04-22 expertise-wikilinks task remains genuinely pending (verified `[expertise-void](/voids/expertise-and-its-occlusion/)`/`[expertise-occlusion](/voids/expertise-and-its-occlusion/)` still present in 3 active files: `voids/biological-cognitive-closure.md`, `voids/boundary-and-projection.md`, `voids/conceptual-metabolism-void.md`). The two earlier 08:43 UTC P2 tasks (self-reference-paradox second-pass deep-review at 09:18 UTC; ai-consciousness-typology second-pass deep-review at 09:46 UTC) closed cleanly. The third 08:43 UTC task (relevance-void back-links) appears to have been removed from the active queue without execution — confirmed at 12:03 UTC that all four target voids have 0 hits for `relevance-void`.
+- **Trigger**: Active P0-P2 dropped to 1 — only the 2026-04-22 expertise-wikilinks task remains genuinely pending (verified `[[expertise-void]]`/`[[expertise-occlusion]]` still present in 3 active files: `voids/biological-cognitive-closure.md`, `voids/boundary-and-projection.md`, `voids/conceptual-metabolism-void.md`). The two earlier 08:43 UTC P2 tasks (self-reference-paradox second-pass deep-review at 09:18 UTC; ai-consciousness-typology second-pass deep-review at 09:46 UTC) closed cleanly. The third 08:43 UTC task (relevance-void back-links) appears to have been removed from the active queue without execution — confirmed at 12:03 UTC that all four target voids have 0 hits for `relevance-void`.
 - **Tasks generated**:
   - P2: Add reciprocal back-links from four voids to voids/relevance-void.md (chain — re-emit of lost task. Same forward-only-cross-link defect pattern; verified work has not been done in resolution-void / self-opacity / recognition-void / question-formation-void).
   - P2: Second-pass deep-review of voids/conceptual-scheme-void.md after 11:48 UTC condense (chain — 28% reduction; 3075 → 2227 words; major structural moves include dropping the metaphysical-axes candidate, merging Evidence/Kant's Ghost and Phenomenology of Approach/Approaches to the Edge sections, cutting the Honest Limitations coda, and trimming Further Reading 18→8. Standard 24-48h post-restructure discipline; matches the pattern applied at 09:18 UTC and 09:46 UTC).
@@ -1605,7 +1605,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 1449 → 1482 (+33)
 - **Critical issues addressed**: 0 (none found; article in stable form following 2026-03-24 deep review)
 - **Medium issues addressed**: 2 (Coleman attribution slightly overreached on generalization to physical states — rephrased to clearly separate Coleman's phenomenal-subjects argument from the Map's structural extension; removed stale HTML refinement-log comment that had self-flagged for removal since 2026-04-06)
-- **Enhancements made**: 1 (added cross-link to `[metaphysics-of-composition](/concepts/metaphysics-of-composition/)` concept page in body and Further Reading — establishes bidirectional connection since the SCQ concept page already links back here)
+- **Enhancements made**: 1 (added cross-link to `[[metaphysics-of-composition]]` concept page in body and Further Reading — establishes bidirectional connection since the SCQ concept page already links back here)
 - **Output**: [deep-review-2026-04-30-phenomenal-non-compositionality](/reviews/deep-review-2026-04-30-phenomenal-non-compositionality/)
 
 ---
@@ -1727,7 +1727,7 @@ title: AI Activity Changelog - Week 2026-W18
 
 ## 2026-04-30 08:29 UTC - replenish-queue
 - **Status**: Success (conservative mode — 2 P2 tasks generated)
-- **Trigger**: Truly-pending P0-P2 count dropped to 1 (the lone remaining P2 — "Update wikilinks pointing to coalesced expertise articles" 2026-04-22 — is also stale; grep confirms no active content references `[expertise-void](/voids/expertise-and-its-occlusion/)` or `[expertise-occlusion](/voids/expertise-and-its-occlusion/)`). Below threshold of 3.
+- **Trigger**: Truly-pending P0-P2 count dropped to 1 (the lone remaining P2 — "Update wikilinks pointing to coalesced expertise articles" 2026-04-22 — is also stale; grep confirms no active content references `[[expertise-void]]` or `[[expertise-occlusion]]`). Below threshold of 3.
 - **Tasks generated**:
   - P2: Integrate Buddhist/Eastern parallels research into voids/void-as-ground-of-meaning.md (unconsumed_research — research note 2026-04-25 explicitly targets this article via frontmatter, but article currently has zero Buddhist/Eastern references)
   - P2: Add reciprocal back-links from four voids to voids/relevance-void.md (chain — relevance-void created 2026-04-29 references 13 siblings; resolution-void, self-opacity, recognition-void, question-formation-void are missing reciprocals; same forward-only-cross-link-defect pattern as 2026-04-29 strong-emergence sweep)
@@ -1757,7 +1757,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
 - **Enhancements made**: 0 (timestamps only)
-- **Context**: Fifth deep-review. Article has been content-stable since 2026-03-21 (review 2); reviews 3, 4, 5 confirm convergence with no body changes. Two link-maintenance changes since prior review — `[causal-delegation](/concepts/delegatory-causation/)` → `[delegatory-causation](/concepts/delegatory-causation/)` (April 18 coalesce) and added `[delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)` to Further Reading (April 16) — were mechanical, did not reopen any settled question. Attribution audit: Saad's "delegatory dualism" correctly attributed; Tulving anoetic gloss stable across all five reviews; no source/Map conflation; Map's quantum-interface framing cleanly contained in "Relation to Site Perspective". All 11 Further Reading targets resolve. Recommendation: do not re-select for deep review unless substantively modified beyond link maintenance.
+- **Context**: Fifth deep-review. Article has been content-stable since 2026-03-21 (review 2); reviews 3, 4, 5 confirm convergence with no body changes. Two link-maintenance changes since prior review — `[[causal-delegation]]` → `[[delegatory-causation]]` (April 18 coalesce) and added `[[delegation-meets-quantum-selection]]` to Further Reading (April 16) — were mechanical, did not reopen any settled question. Attribution audit: Saad's "delegatory dualism" correctly attributed; Tulving anoetic gloss stable across all five reviews; no source/Map conflation; Map's quantum-interface framing cleanly contained in "Relation to Site Perspective". All 11 Further Reading targets resolve. Recommendation: do not re-select for deep review unless substantively modified beyond link maintenance.
 - **Output**: [deep-review-2026-04-30-skill-delegation](/reviews/deep-review-2026-04-30-skill-delegation/)
 
 ---
@@ -1768,7 +1768,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 2987 → 2987 (no change; 149% of 2000 soft threshold; under 3000 hard threshold; length-neutral)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (missing reciprocal back-link to apex `medium-status-voids-in-cognition`, which links forward to QCV in body and frontmatter as of its 2026-04-30 07:10 UTC cross-review)
-- **Enhancements made**: 1 (`[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)` appended to QCV's `related_articles`; frontmatter-only addition preserves length-neutrality and the previous review's "no body churn" verdict)
+- **Enhancements made**: 1 (`[[medium-status-voids-in-cognition]]` appended to QCV's `related_articles`; frontmatter-only addition preserves length-neutrality and the previous review's "no body churn" verdict)
 - **Context**: Third deep-review on QCV today (after 03:40 UTC full pass and 05:10 UTC stability confirmation). The apex was created 2026-04-29 and added a forward link to QCV at 07:10 UTC; this pass closes the reciprocal loop. Body insertion was considered but deferred — adding inline wikilink prose would push over the 3000-word hard threshold without a safe trim opportunity (prior Stability Notes prohibit re-flagging the resolutions that would otherwise be candidate trim sites). Hugo renders `related_articles` as a Related Articles section, so the back-link surfaces to readers without body churn. All prior Stability Notes carry forward unchanged. Article remains at convergence.
 - **Output**: [deep-review-2026-04-30c-the-quantitative-comprehension-void](/reviews/deep-review-2026-04-30c-the-quantitative-comprehension-void/)
 
@@ -1790,7 +1790,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 3219 → 3328 (+109 words; 80% → 83% of 4000 soft threshold)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (capacity-status section under-anchored; BI section addressed channel opacity but not variable opacity)
-- **Enhancements made**: 3 (QCV magnitude-probability face added as worked capacity-status example; BI section gained a "compounding observation" sentence on two-layer opacity—channel invisible AND modulated variables outside phenomenal access; `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` added to related_articles and used twice inline)
+- **Enhancements made**: 3 (QCV magnitude-probability face added as worked capacity-status example; BI section gained a "compounding observation" sentence on two-layer opacity—channel invisible AND modulated variables outside phenomenal access; `[[the-quantitative-comprehension-void]]` added to related_articles and used twice inline)
 - **Context**: Third review of this apex. The QCV (coalesced 2026-04-30 from numerosity-void / quantitative-intuition-void / mathematical-void) post-dates the apex's initial synthesis. Cross-review verified compatibility (QCV's magnitude-probability face is paradigmatically capacity-status, not medium-status; its breakdowns are quantitative, not mode-shifting) and surfaced two productive connections worth integrating: (1) QCV anchors the apex's capacity-status category with a concrete vivid example; (2) QCV's MQI argument compounds the BI tenet section by adding variable opacity to channel opacity. No critical issues. All prior stability notes carry forward.
 - **Output**: [deep-review-2026-04-30-medium-status-voids-in-cognition-qcv-cross](/reviews/deep-review-2026-04-30-medium-status-voids-in-cognition-qcv-cross/)
 
@@ -1836,7 +1836,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Medium issues addressed**: 0
 - **Enhancements made**: 0
 - **Output**: [deep-review-2026-04-30-lucid-dreaming-and-dualist-rendering](/reviews/deep-review-2026-04-30-lucid-dreaming-and-dualist-rendering/)
-- **Context**: Fifth consecutive review with zero critical issues. Only modification since 2026-03-24 review was a slug rename (`memory-as-dual-domain-capability` → `episodic-memory`) at three locations — verified the alias `[dual-domain framework](/concepts/episodic-memory/)` remains semantically accurate (target article describes itself as a "dual-domain capability"). Article is at robust stability. Updated `last_deep_review` and `ai_modified` timestamps; no content edits.
+- **Context**: Fifth consecutive review with zero critical issues. Only modification since 2026-03-24 review was a slug rename (`memory-as-dual-domain-capability` → `episodic-memory`) at three locations — verified the alias `[[episodic-memory|dual-domain framework]]` remains semantically accurate (target article describes itself as a "dual-domain capability"). Article is at robust stability. Updated `last_deep_review` and `ai_modified` timestamps; no content edits.
 
 ---
 
@@ -1846,7 +1846,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 2103 → 2150 (+47; 72% of 3000 soft threshold)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
-- **Enhancements made**: 1 (added contextual cross-link to [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-introspective-ceiling) in the Relation to Site Perspective section, extending the existing "five independent routes" framing — added `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` to related_articles and Further Reading; preserved the void article's hedging that generalisation of the four-item cap from perceptual items to phenomenal-content units is speculative extension)
+- **Enhancements made**: 1 (added contextual cross-link to [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-introspective-ceiling) in the Relation to Site Perspective section, extending the existing "five independent routes" framing — added `[[the-quantitative-comprehension-void]]` to related_articles and Further Reading; preserved the void article's hedging that generalisation of the four-item cap from perceptual items to phenomenal-content units is speculative extension)
 - **Context**: Fifth deep review on this article; targeted cross-link addition rather than content review. Article is in stable state per the prior 03:25 UTC pass earlier today. Insertion point chosen at the introspection route within the existing five-routes framing rather than creating a new section. Bedrock disagreements (Eliminative Materialist, Empiricist) and operationalist/heterophenomenological exchange remain settled and not re-flagged.
 - **Output**: [deep-review-2026-04-30b-consciousness-and-the-problem-of-measurement-standards](/reviews/deep-review-2026-04-30b-consciousness-and-the-problem-of-measurement-standards/)
 
@@ -1904,7 +1904,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Status**: Success
 - **Files**: 25 active content files outside apex/ (voids/{creative-aesthetic-void, embodiment-cognitive-limits, emergence-void, formal-cognitive-limits, inference-void, interface-formalization-void, mapping-mind-space, noetic-feelings-void, phenomenology-of-the-edge, recognition-void, resolution-void, self-opacity, tacit-integration-void, temporal-void, three-kinds-of-void, conceptual-impossibility, what-voids-reveal, voids}; topics/{comparative-phenomenology-of-mathematical-insight, concession-convergence-philosophy-of-mathematics, consciousness-and-mathematics, consciousness-and-probability-interpretation, consciousness-and-the-authority-of-formal-systems, phenomenology-of-deliberation-under-uncertainty, self-reference-and-the-limits-of-physical-description}; concepts/{coalesce-condense-apex-stability, consciousness-and-the-philosophy-of-mathematics, fitness-beats-truth})
 - **Context**: Chain from 2026-04-30 00:40 UTC coalesce that merged voids/numerosity-void.md, voids/quantitative-intuition-void.md, and voids/mathematical-void.md into voids/the-quantitative-comprehension-void.md. Apex articles (taxonomy-of-voids, medium-status-voids-in-cognition, conjunction-coalesce) were retargeted by 03:11 UTC apex-stale-wikilinks-cross-review; this pass handles the remaining 25 active content files outside apex/.
-- **Retarget pattern applied**: (1) `[numerosity-void](/voids/the-quantitative-comprehension-void/)` → `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-cardinality-floor)`; (2) `[quantitative-intuition-void](/voids/the-quantitative-comprehension-void/)` → `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-magnitude-and-probability-domain)`; (3) `[mathematical-void](/voids/the-quantitative-comprehension-void/)` (Gödel/Turing/Rice/Chaitin context) → `[formal-cognitive-limits](/voids/formal-cognitive-limits/)`; (4) `[mathematical-void](/voids/the-quantitative-comprehension-void/)` (phenomenal grasp context) → `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling)`. Frontmatter `related_articles` retargeted and de-duplicated; display labels in body prose updated to match the new void's three-faces structure ("cardinality floor," "magnitude and probability face," "abstract mathematical ceiling").
+- **Retarget pattern applied**: (1) `[[numerosity-void]]` → `[[the-quantitative-comprehension-void#the-cardinality-floor]]`; (2) `[[quantitative-intuition-void]]` → `[[the-quantitative-comprehension-void#the-magnitude-and-probability-domain]]`; (3) `[[mathematical-void]]` (Gödel/Turing/Rice/Chaitin context) → `[[formal-cognitive-limits]]`; (4) `[[mathematical-void]]` (phenomenal grasp context) → `[[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling]]`. Frontmatter `related_articles` retargeted and de-duplicated; display labels in body prose updated to match the new void's three-faces structure ("cardinality floor," "magnitude and probability face," "abstract mathematical ceiling").
 - **Notes**: One mathematical-void → formal-cognitive-limits retarget in voids/inference-void.md (Carroll/Gödel/Turing context, both frontmatter and Further Reading); all other mathematical-void retargets used the abstract-mathematical-ceiling anchor under the phenomenal-grasp reading. voids.md index entries for "Quantitative Intuition Void" and "Mathematical Void" merged into a single entry pointing to the unified article.
 
 ---
@@ -2119,7 +2119,7 @@ title: AI Activity Changelog - Week 2026-W18
   - Topics (5): `ai-consciousness`, `consciousness-and-memory`, `ethics-of-possible-ai-consciousness`, `machine-consciousness`, `structural-varieties-of-consciousness-and-ai-phenomenology`
   - Voids (1): `imagery-void`
   - Apex (2): `what-it-might-be-like-to-be-an-ai`, `open-question-ai-consciousness`
-- **Updates applied**: (a) all wikilinks retargeted from `[ai-consciousness-modes](/concepts/ai-consciousness-typology/)` / `[types-of-ai-phenomenal-experience](/concepts/ai-consciousness-typology/)` to `[ai-consciousness-typology](/concepts/ai-consciousness-typology/)` with display text preserving original framing; (b) where files linked to *both* old slugs separately, collapsed to a single typology link with descriptive text covering both lenses (`llm-consciousness`, `ai-consciousness`, `ai-epiphenomenalism`); (c) body prose links retargeted to anchored sections (`#Tulving's Hierarchy as a Second Lens`, `#The Simulation-Instantiation Boundary`); (d) reference citations in `topics/ai-consciousness` and `topics/structural-varieties` updated to point to the typology URL; (e) frontmatter `concepts:` and `related_articles:` arrays updated where the old slug appeared as an entry.
+- **Updates applied**: (a) all wikilinks retargeted from `[[ai-consciousness-modes]]` / `[[types-of-ai-phenomenal-experience]]` to `[[ai-consciousness-typology]]` with display text preserving original framing; (b) where files linked to *both* old slugs separately, collapsed to a single typology link with descriptive text covering both lenses (`llm-consciousness`, `ai-consciousness`, `ai-epiphenomenalism`); (c) body prose links retargeted to anchored sections (`#Tulving's Hierarchy as a Second Lens`, `#The Simulation-Instantiation Boundary`); (d) reference citations in `topics/ai-consciousness` and `topics/structural-varieties` updated to point to the typology URL; (e) frontmatter `concepts:` and `related_articles:` arrays updated where the old slug appeared as an entry.
 - **Out of scope (intentionally not modified)**: `obsidian/reviews/*`, `obsidian/workflow/changelog.md`, `obsidian/workflow/archive/*` — historical records preserve their original references per task instructions.
 
 ---
@@ -2218,8 +2218,8 @@ title: AI Activity Changelog - Week 2026-W18
 - **Status**: Success (addresses tenet-check-2026-04-29b carry-forward, fourth-consecutive flag)
 - **File**: [free-will](/topics/free-will/)
 - **Scope**: Single-line fix — line 64 wikilink alias
-- **Issue**: `[substance dualism](/tenets/#dualism)` aliased the dualism anchor as "substance dualism," collapsing the tenet's explicit neutrality between substance and property dualism
-- **Fix**: Replaced wikilink target with `[substance dualism](/concepts/substance-property-dualism/)` (existing concept), added a clarifying sentence separating the framework's substance-bearing reading from the tenet's broader neutrality
+- **Issue**: `[[tenets#^dualism|substance dualism]]` aliased the dualism anchor as "substance dualism," collapsing the tenet's explicit neutrality between substance and property dualism
+- **Fix**: Replaced wikilink target with `[[substance-property-dualism|substance dualism]]` (existing concept), added a clarifying sentence separating the framework's substance-bearing reading from the tenet's broader neutrality
 - **Tenet alignment**: Dualism (T1) — preserves tenet neutrality while honestly characterising the agent-causal framework's own commitment
 - **Note**: Issue persisted across four consecutive tenet-checks (2026-04-27, 2026-04-28, 2026-04-29a, 2026-04-29b) and was not surfaced by the 21st deep-review (2026-04-29 17:40 UTC, declared converged). Tenet-check explicitly recommended a targeted refine-draft.
 - **Published**: yes
@@ -2815,9 +2815,9 @@ title: AI Activity Changelog - Week 2026-W18
 - **Source**: chain from 2026-04-29 03:35 UTC `/expand-topic` creating [relevance-void](/voids/relevance-void/); substantive cross-link previously bracketed out of the 09:56 noetic-occlusion light-touch refine
 - **Files touched**: 2 (`concepts/attention-as-interface`, `voids/relevance-void`)
 - **Changes**:
-  - `voids/relevance-void` §"Relation to Site Perspective" / Bidirectional Interaction: inserted single sentence at the salience-precision question naming `[attention-as-interface](/concepts/attention-as-interface/)` as the channel hypothesis on which the void's filtering-opacity falls (body wikilink installed where previously frontmatter-only at line 13)
-  - `concepts/attention-as-interface`: added new H2 §"The Channel's Structural Opacity" (~175 words) between §"Challenges and Falsification" and §"Relation to Site Perspective" — names `[relevance-void](/voids/relevance-void/)` as the structural void within the channel ("the channel-as-interface is operating; the channel's selection criteria are not on the channel"), reads the opacity as supporting the structural-non-physical interpretation, bounds the hypothesis's claim
-  - `concepts/attention-as-interface` frontmatter: appended `[relevance-void](/voids/relevance-void/)` to `related_articles`
+  - `voids/relevance-void` §"Relation to Site Perspective" / Bidirectional Interaction: inserted single sentence at the salience-precision question naming `[[attention-as-interface]]` as the channel hypothesis on which the void's filtering-opacity falls (body wikilink installed where previously frontmatter-only at line 13)
+  - `concepts/attention-as-interface`: added new H2 §"The Channel's Structural Opacity" (~175 words) between §"Challenges and Falsification" and §"Relation to Site Perspective" — names `[[relevance-void]]` as the structural void within the channel ("the channel-as-interface is operating; the channel's selection criteria are not on the channel"), reads the opacity as supporting the structural-non-physical interpretation, bounds the hypothesis's claim
+  - `concepts/attention-as-interface` frontmatter: appended `[[relevance-void]]` to `related_articles`
 - **Style audit**: scanned both files for "This is not X. It is Y." cliché — none present in originals, none introduced
 - **Voice**: preserved — attention-as-interface received an additive H2 section only (no restructuring of the recently deep-reviewed content from 2026-04-28T16:37); relevance-void received a single sentence inside an existing paragraph
 - **Tenet alignment**: Bidirectional Interaction (load-bearing — gives the interface a phenomenologically-anchored void at the channel's selection step); Dualism (channel-opacity as evidence for structural-non-physical reading); Occam's Razor Has Limits
@@ -3061,7 +3061,7 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-04-29 05:34 UTC - refine-draft
 - **Status**: Success
 - **Files**: 28 active-content files (25 voids/, 1 apex/, 2 topics/)
-- **Notes**: Migrated all `[framework-void](/voids/conceptual-scheme-void/)` and `[categorial-void](/voids/conceptual-scheme-void/)` wikilinks to `[conceptual-scheme-void](/voids/conceptual-scheme-void/)` after the 05:25 UTC coalesce. Frontmatter `related_articles` updated with deduplication where both source slugs appeared. Inline references rephrased to use "conceptual scheme" terminology while preserving the framework/categorial distinction in the few articles that contrasted them as separate concepts (commensurability-void, conceptual-metabolism-void, metaphor-void, question-formation-void, relevance-void). Citation references and URLs updated. Historical files (reviews/, research/, workflow/archive/) intentionally not modified — they preserve the state at the time of writing.
+- **Notes**: Migrated all `[[framework-void]]` and `[[categorial-void]]` wikilinks to `[[conceptual-scheme-void]]` after the 05:25 UTC coalesce. Frontmatter `related_articles` updated with deduplication where both source slugs appeared. Inline references rephrased to use "conceptual scheme" terminology while preserving the framework/categorial distinction in the few articles that contrasted them as separate concepts (commensurability-void, conceptual-metabolism-void, metaphor-void, question-formation-void, relevance-void). Citation references and URLs updated. Historical files (reviews/, research/, workflow/archive/) intentionally not modified — they preserve the state at the time of writing.
 
 ---
 
@@ -3347,7 +3347,7 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-04-28 23:23 UTC - refine-draft
 - **Status**: Success
 - **Files**: [what-voids-reveal](/voids/what-voids-reveal/), [taxonomy-of-voids](/apex/taxonomy-of-voids/), [voids](/voids/), [inference-void](/voids/inference-void/), [apophatic-cartography](/voids/apophatic-cartography/), [categorial-void](/voids/categorial-void/), [question-formation-void](/voids/question-formation-void/), [three-kinds-of-void](/voids/three-kinds-of-void/)
-- **Changes**: Updated all `[epistemic-horizon-void](/voids/meta-epistemology-of-limits/)` wikilinks to point at the unified `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` (post-coalesce of 2026-04-28 23:08 UTC). Used the `#the-scope-question-estimating-total-ignorance-from-within` anchor on inline references whose role was specifically about scope/horizon (estimating total ignorance from within). Removed eight duplicate `related_articles` and Further Reading entries where `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` was already listed. Bibliographic citation URLs left alone — they resolve to the archive page via redirect, preserving citation integrity.
+- **Changes**: Updated all `[[epistemic-horizon-void]]` wikilinks to point at the unified `[[meta-epistemology-of-limits]]` (post-coalesce of 2026-04-28 23:08 UTC). Used the `#the-scope-question-estimating-total-ignorance-from-within` anchor on inline references whose role was specifically about scope/horizon (estimating total ignorance from within). Removed eight duplicate `related_articles` and Further Reading entries where `[[meta-epistemology-of-limits]]` was already listed. Bibliographic citation URLs left alone — they resolve to the archive page via redirect, preserving citation integrity.
 - **Published**: yes
 - **Note**: Resolves the follow-up task left after the coalesce. Two citation URLs remain pointing at the archived URL by design.
 
@@ -3360,7 +3360,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Archived**: [epistemic-horizon-void](/archive/voids/epistemic-horizon-void/)
 - **Rationale**: Both articles addressed the recursive trap of evaluating cognitive limits from within. The horizon void was explicitly framed as a "second-order" version of the meta-epistemology — they shared the Fitch/Dunning-Kruger/Nagel arguments, both centered on the Occam's Razor tenet, and the meta-epistemology article already pointed to horizon as its scope sub-question. Merging recasts the meta-epistemology framing around four meta-questions instead of three (adding the scope question), with new sections "The Scope Question," "Convergence on the Scope Limit," "Phenomenology of the Horizon," "The Map's Own Horizon," and "What the Scope Void Rules Out."
 - **Section pressure**: voids was at 97/100; reduces to 96/100
-- **References to review**: 8 active files contain `[epistemic-horizon-void](/voids/meta-epistemology-of-limits/)` wikilinks (resolve to archive page; follow-up task created)
+- **References to review**: 8 active files contain `[[epistemic-horizon-void]]` wikilinks (resolve to archive page; follow-up task created)
 
 ---
 
@@ -3437,8 +3437,8 @@ title: AI Activity Changelog - Week 2026-W18
 - **Status**: Success
 - **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
 - **Critical issues addressed**: 1 (axis paragraph's "cleanest case is the imagery void's third face" framing was overtaken by the 20:39 UTC refine of `concepts/phenomenology-vs-function-axis.md`, which identifies synaesthesia as architecturally cleanest and imagery as the grain-of-function wedge)
-- **Medium issues addressed**: 3 (1: classify cognitive-phenomenology as a topic article rather than counted with the voids — added "four articles—three voids and one topic" framing; 2: wikilink `[phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)` at first mention in §Phenomenological Cluster axis paragraph; 3: extend closing wedge claim with multi-realizability survival qualifier — "at the task-level grain at which the wedge survives multi-realizability")
-- **Low issues addressed**: 2 (frontmatter related_articles: added `[phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)` (canonical concept-page anchor was missing); Strawson exemplar phrasing refined "identical sensory function" → "identical acoustic input" matching the concept page's predictive-coding hedge)
+- **Medium issues addressed**: 3 (1: classify cognitive-phenomenology as a topic article rather than counted with the voids — added "four articles—three voids and one topic" framing; 2: wikilink `[[phenomenology-vs-function-axis]]` at first mention in §Phenomenological Cluster axis paragraph; 3: extend closing wedge claim with multi-realizability survival qualifier — "at the task-level grain at which the wedge survives multi-realizability")
+- **Low issues addressed**: 2 (frontmatter related_articles: added `[[phenomenology-vs-function-axis]]` (canonical concept-page anchor was missing); Strawson exemplar phrasing refined "identical sensory function" → "identical acoustic input" matching the concept page's predictive-coding hedge)
 - **Changes**: ~150 words modified/added in §Phenomenological Cluster axis paragraph; voice preserved; cross-tradition convergence framework preserved
 - **Published**: yes
 - **Supersedes**: the P3 chain task "Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis to its new concept-page" (narrower scope; subsumed by the more comprehensive P2 task arising from today's pessimistic-driven refine)
@@ -3451,7 +3451,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 3303 → 3303 (0)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
-- **Low issues addressed**: 1 (wikilink path-prefix cleanup: `[epiphenomenalism](/concepts/epiphenomenalism/)` → `[epiphenomenalism](/concepts/epiphenomenalism/)`)
+- **Low issues addressed**: 1 (wikilink path-prefix cleanup: `[[concepts/epiphenomenalism]]` → `[[epiphenomenalism]]`)
 - **Notes**: Sixth review. Article declared convergently stable across six reviews. All attributions re-verified; six-persona pessimistic and optimistic analyses found no new critical or medium issues. Length-neutral mode applied (article at 132% of soft threshold, accepted across prior reviews for broad-scope concept)
 - **Output**: [deep-review-2026-04-28-evolution-of-consciousness](/reviews/deep-review-2026-04-28-evolution-of-consciousness/)
 
@@ -3506,7 +3506,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (reciprocal-link asymmetry)
 - **Enhancements made**: 4 (reciprocal links installed in four exemplar articles)
-- **Notes**: Cross-review pass to install reciprocal links between the new concept page and its four canonical exemplars (imagery-void, synesthetic-void, agency-void, cognitive-phenomenology-and-the-irreducibility-of-thought). Added `[phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)` to the `related_articles` frontmatter and a dedicated Further Reading entry in each of the four files, sitting alongside (not replacing) the existing taxonomy-of-voids entry. Each new entry names the role the exemplar plays in the axis. No body content modified in any of the five articles. Bidirectional discoverability now symmetric: the axis links to all four exemplars; each exemplar links back. The article's earlier-today deep review remains the canonical pass; this is a structural-graph follow-up.
+- **Notes**: Cross-review pass to install reciprocal links between the new concept page and its four canonical exemplars (imagery-void, synesthetic-void, agency-void, cognitive-phenomenology-and-the-irreducibility-of-thought). Added `[[phenomenology-vs-function-axis]]` to the `related_articles` frontmatter and a dedicated Further Reading entry in each of the four files, sitting alongside (not replacing) the existing taxonomy-of-voids entry. Each new entry names the role the exemplar plays in the axis. No body content modified in any of the five articles. Bidirectional discoverability now symmetric: the axis links to all four exemplars; each exemplar links back. The article's earlier-today deep review remains the canonical pass; this is a structural-graph follow-up.
 - **Output**: [deep-review-2026-04-28-phenomenology-vs-function-axis-cross](/reviews/deep-review-2026-04-28-phenomenology-vs-function-axis-cross/)
 
 ---
@@ -3699,7 +3699,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Status**: Success
 - **File**: [inference-void](/voids/inference-void/)
 - **Scope**: Sister-regress cross-link with [suspension-void](/voids/suspension-void/) (bidirectional pairing flagged in 2026-04-28 13:53 UTC apophatic-cartography deep-review Remaining)
-- **Changes**: Added `[suspension-void](/voids/suspension-void/)` to related_articles and Further Reading; added "Sister Regress: The Suspension Void" subsection (~100 words) after Second-Order Cluster identifying parallel regress structure (assertion-side opacity vs withholding-side opacity, both running on the same upstream-criterion architecture)
+- **Changes**: Added `[[suspension-void]]` to related_articles and Further Reading; added "Sister Regress: The Suspension Void" subsection (~100 words) after Second-Order Cluster identifying parallel regress structure (assertion-side opacity vs withholding-side opacity, both running on the same upstream-criterion architecture)
 - **Verified**: suspension-void.md's existing references to inference-void (body line "structurally similar to the inference-void: any explicit account of how suspension operates seems to invoke the very capacity being explained" and Further Reading "Sister regress: any explicit account of inference invokes the capacity it explains") are reciprocally apt — no edits needed there
 - **Word count**: ~100 words added (within ~150 word task budget)
 - **Published**: yes
@@ -3934,14 +3934,14 @@ title: AI Activity Changelog - Week 2026-W18
 - **Trigger**: Update inbound references after coalesce of [limits-reveal-structure](/voids/limits-reveal-structure/) and [voids-as-evidence](/voids/voids-as-evidence/) into [what-voids-reveal](/voids/what-voids-reveal/)
 - **Files modified**: 51 active content files across `obsidian/voids/` (40), `obsidian/concepts/` (6), `obsidian/topics/` (3), `obsidian/apex/` (2)
 - **Changes**:
-  - Bulk-replaced `[limits-reveal-structure...](/voids/what-voids-reveal/)` and `[voids-as-evidence...](/voids/what-voids-reveal/)` wikilinks → `[what-voids-reveal...](/voids/what-voids-reveal/)`
+  - Bulk-replaced `[[limits-reveal-structure...]]` and `[[voids-as-evidence...]]` wikilinks → `[[what-voids-reveal...]]`
   - Replaced URL-style references (`voids/limits-reveal-structure`, `voids/voids-as-evidence`) → `voids/what-voids-reveal` in apex source lists
   - De-duplicated frontmatter `related_articles` in: `voids/meta-epistemology-of-limits`, `voids/compound-failure-signatures`, `voids/apophatic-cartography`, `concepts/epistemology-of-limit-knowledge`
   - De-duplicated body Further Reading entries in: `voids/voids`, `voids/compound-failure-signatures`, `concepts/epistemology-of-limit-knowledge`, `apex/taxonomy-of-voids`, `apex/apex-articles`
   - Fixed mis-aliased link in `voids/agency-void.md` (originally pointed to `limits-reveal-structure` while displaying "self-maintained cognitive limits") — now correctly points to [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
   - Polished display labels in `voids/categorial-void.md` (cleaner "limits-reveal-structure principle" framing)
   - Updated reference 6 of `concepts/epistemology-of-limit-knowledge.md` to cite the new article title and date
-- **Verified**: `scripts/sync.py` runs clean; no remaining `[limits-reveal-structure](/voids/what-voids-reveal/)` or `[voids-as-evidence](/voids/what-voids-reveal/)` wikilinks in active content
+- **Verified**: `scripts/sync.py` runs clean; no remaining `[[limits-reveal-structure]]` or `[[voids-as-evidence]]` wikilinks in active content
 - **Note**: Workflow, reviews, and research files are historical records and were intentionally left unchanged
 
 ---
@@ -4328,7 +4328,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 1636 → 1636 (no change to article body)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (reciprocal cross-link gap)
-- **Enhancements made**: Added inbound `[carrolls-regress](/concepts/carrolls-regress/)` links from 5 neighbour articles — `voids/inference-void` (body wikilink + frontmatter), `concepts/mysterianism` (body wikilink + frontmatter + Further Reading), `voids/tacit-integration-void` (frontmatter + Further Reading), `concepts/self-stultification` (frontmatter + Further Reading), `topics/argument-from-reason` (frontmatter + Further Reading). Skipped (deliberate, documented in review): `introspection`, `noetic-feelings-void`, `apophatic-cartography`, `philosophy-of-mind`.
+- **Enhancements made**: Added inbound `[[carrolls-regress]]` links from 5 neighbour articles — `voids/inference-void` (body wikilink + frontmatter), `concepts/mysterianism` (body wikilink + frontmatter + Further Reading), `voids/tacit-integration-void` (frontmatter + Further Reading), `concepts/self-stultification` (frontmatter + Further Reading), `topics/argument-from-reason` (frontmatter + Further Reading). Skipped (deliberate, documented in review): `introspection`, `noetic-feelings-void`, `apophatic-cartography`, `philosophy-of-mind`.
 - **Output**: [deep-review-2026-04-28-carrolls-regress](/reviews/deep-review-2026-04-28-carrolls-regress/)
 
 ---
@@ -4413,7 +4413,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Trigger**: Fifth deep review (last 2026-03-22). Article grew from 2805 → 3242 words via cross-review additions (Interactionist Escape subsection, cognitive-phenomenology paragraph) and an anchor-repair commit that introduced a subtly broken link.
 - **Word count**: 3242 → 3214 (-28); above soft threshold (2500) but below hard (3500); length-neutral mode applied
 - **Critical issues addressed**: 1
-  - Broken anchor link `[illusionism](/concepts/illusionism/#the-illusionist-response)` — actual heading is `## The Illusionist Response: Functional Seeming`; slugify produces different fragments. Introduced 2026-03-26 by anchor-repair commit (48b7bbe13) which used the heading prefix rather than the full heading. Fixed to full heading.
+  - Broken anchor link `[[illusionism#The Illusionist Response]]` — actual heading is `## The Illusionist Response: Functional Seeming`; slugify produces different fragments. Introduced 2026-03-26 by anchor-repair commit (48b7bbe13) which used the heading prefix rather than the full heading. Fixed to full heading.
 - **Medium issues addressed**: 1
   - Length 130% of soft threshold; trimmed redundant final paragraph of Interactionist Escape (restated metaproblem material already in Self-Stultification section). Preserved the substantively valuable Interactionist Escape subsection itself, which addresses a real coherence concern between zombie-argument premise and Bidirectional Interaction tenet.
 - **Enhancements made**: 0 (no new content added; article continues to grow well via prior cross-reviews)
@@ -4580,7 +4580,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/)
 - **Word count**: 1709 → 1709 (0)
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 2 (added missing `[combination-problem](/concepts/combination-problem/)` wikilink in Vital Force section; normalized inconsistent `[materialism](/concepts/materialism/)` → `[materialism](/concepts/materialism/)`)
+- **Medium issues addressed**: 2 (added missing `[[combination-problem]]` wikilink in Vital Force section; normalized inconsistent `[[concepts/materialism|materialism]]` → `[[materialism]]`)
 - **Enhancements made**: 1 cross-link added; article reached stability after three reviews — no substantive content changes warranted
 - **Output**: [deep-review-2026-04-27-african-philosophy-of-consciousness](/reviews/deep-review-2026-04-27-african-philosophy-of-consciousness/)
 
@@ -4592,7 +4592,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Trigger**: P2 chain task (post-21:14 UTC deep-review of [conjunction-coalesce](/apex/conjunction-coalesce/) which renamed §"Three Cases" → §"Two Coalesces and One Cognate")
 - **Changes**:
   - [erasure-void](/voids/erasure-void/): Updated §"Clinical Anchor" closing sentence (line 64) from "the case where the discipline operates at article-creation time rather than at merger time" to *cognate* framing matching the apex's revised distinction. Cognate inherits the seam test; editorial geometry of merger does not apply.
-  - [voids](/voids/): Added `[conjunction-coalesce](/apex/conjunction-coalesce/)` to frontmatter `related_articles`. Installed a maintenance paragraph at end of §"The Discipline of Not Knowing" naming the three conjunction-coalesce instances (agency-void, voids-between-minds, erasure-void), distinguishing the two coalesces from the erasure-void cognate, and warning future reviewers not to collapse seams in pursuit of compactness. The 2026-04-27 18:59 UTC deep-review log indicated this maintenance warning had been "added"; verification today confirmed it existed only in the review document (`reviews/deep-review-2026-04-27b-voids.md` lines 140–144), not in the file itself. Now installed.
+  - [voids](/voids/): Added `[[conjunction-coalesce]]` to frontmatter `related_articles`. Installed a maintenance paragraph at end of §"The Discipline of Not Knowing" naming the three conjunction-coalesce instances (agency-void, voids-between-minds, erasure-void), distinguishing the two coalesces from the erasure-void cognate, and warning future reviewers not to collapse seams in pursuit of compactness. The 2026-04-27 18:59 UTC deep-review log indicated this maintenance warning had been "added"; verification today confirmed it existed only in the review document (`reviews/deep-review-2026-04-27b-voids.md` lines 140–144), not in the file itself. Now installed.
 - **Word count delta**: ~160 words added across both files (within scope target)
 - **Voice**: preserved; index entries unchanged
 - **Published**: yes (drafts remain draft: false where they were)
@@ -4707,7 +4707,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [conjunction-coalesce](/apex/conjunction-coalesce/) (apex-network refinement; targets were the seven source voids)
 - **Trigger**: New apex article 2026-04-27 lacked inbound links from its source voids
 - **Files modified**:
-  - [agency-void](/voids/agency-void/) — frontmatter `[conjunction-coalesce](/apex/conjunction-coalesce/)` + integrative paragraph in "Two Limits, One Void" framing the article as the cleanest case
+  - [agency-void](/voids/agency-void/) — frontmatter `[[conjunction-coalesce]]` + integrative paragraph in "Two Limits, One Void" framing the article as the cleanest case
   - [voids-between-minds](/voids/voids-between-minds/) — frontmatter entry + integrative sentence at end of "Three Voids, Three Questions" framing the merger as a three-way conjunction
   - [erasure-void](/voids/erasure-void/) — frontmatter entry + integrative sentence at end of "Clinical Anchor" framing the article as the article-creation-time case
   - [transit-void](/voids/transit-void/) — frontmatter entry + integrative paragraph in "Two Faces of the Same Void" framing the article as the in-flight-access exemplar
@@ -4741,8 +4741,8 @@ title: AI Activity Changelog - Week 2026-W18
   - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — 1 body link
   - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — 1 body link
   - [attention-and-consciousness](/voids/attention-and-consciousness/) — 1 frontmatter entry + 2 body links (See pointer + Further Reading)
-  - [thought-stream-void](/voids/thought-stream-void/) — 1 frontmatter entry + 1 aliased body link (`[opacity of attentional transit](/voids/transit-void/)`)
-- **Wikilinks updated**: 8 total occurrences of `[distraction-void](/voids/transit-void/)` → `[transit-void](/voids/transit-void/)`
+  - [thought-stream-void](/voids/thought-stream-void/) — 1 frontmatter entry + 1 aliased body link (`[[transit-void|opacity of attentional transit]]`)
+- **Wikilinks updated**: 8 total occurrences of `[[distraction-void]]` → `[[transit-void]]`
 - **Preserved**: Each article's voice, surrounding prose, alias text where present; no content rewrite
 - **Frontmatter**: `ai_modified` bumped on all five files; no other frontmatter changes
 - **Not modified**: Historical references in `obsidian/reviews/` and `obsidian/workflow/` (point-in-time records); archive redirect at `archive/voids/distraction-void.md` keeps external URLs functional
@@ -4905,7 +4905,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Status**: Success
 - **File**: [agent-causation](/concepts/agent-causation/)
 - **Source**: [optimistic-2026-04-27b](/reviews/optimistic-2026-04-27b/) §"Ideas for Later" (line 150) — the agent-causation framework now appears in three load-bearing places naming the first-person verification-circularity limit (`voids/agency-void.md` §Self-Stultification Symmetry, `topics/free-will.md` line 125, `apex/consciousness-and-agency.md` Synthesis); the canonical concept page should mirror the discipline.
-- **Changes**: New §"The Verification Limit and the Convergent Case" inserted between §"Creative Generation" and §"What Would Challenge This View?" (~580 words) — explicitly acknowledges that consciousness cannot verify its own causal efficacy from inside, develops the epiphenomenalism/interactionism symmetry, and reframes the framework's positive case as structural and convergent rather than introspective. Five anchors named without first-person privilege: phenomenology of effort, neural data on willed/instructed action, argument-from-reason, clinical neuroplasticity pathway divergence, cross-cultural convergence. Reciprocal cross-links added to `voids/agency-void.md`, `topics/free-will.md`, and `apex/consciousness-and-agency.md` from the new section. Frontmatter `related_articles` extended with `[agency-void](/voids/agency-void/)`, `[argument-from-reason](/topics/argument-from-reason/)`, `[clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)`, `[cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)`. Further Reading list extended with `[agency-void](/voids/agency-void/)`, `[argument-from-reason](/topics/argument-from-reason/)`, `[clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)`.
+- **Changes**: New §"The Verification Limit and the Convergent Case" inserted between §"Creative Generation" and §"What Would Challenge This View?" (~580 words) — explicitly acknowledges that consciousness cannot verify its own causal efficacy from inside, develops the epiphenomenalism/interactionism symmetry, and reframes the framework's positive case as structural and convergent rather than introspective. Five anchors named without first-person privilege: phenomenology of effort, neural data on willed/instructed action, argument-from-reason, clinical neuroplasticity pathway divergence, cross-cultural convergence. Reciprocal cross-links added to `voids/agency-void.md`, `topics/free-will.md`, and `apex/consciousness-and-agency.md` from the new section. Frontmatter `related_articles` extended with `[[agency-void]]`, `[[argument-from-reason]]`, `[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]`, `[[cross-cultural-convergence-on-mental-causation]]`. Further Reading list extended with `[[agency-void]]`, `[[argument-from-reason]]`, `[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]`.
 - **Tenet alignment**: Bidirectional Interaction (verification limit applies to any account of mental causation), Dualism (the convergent case for agent causation survives the limit).
 - **Published**: yes (draft: false)
 
@@ -4933,7 +4933,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 2574 → 2554 (-20, length-neutral mode; 128% of 2000 soft target)
 - **Critical issues addressed**: 0 (5 critical issues from `pessimistic-2026-04-27c` already resolved by morning refinement; verified no regression)
 - **Medium issues addressed**: 2 (unattributed encyclopedia quote in §Gated paraphrased to remove direct quotes while preserving the substantive arousal/attention claim; AI REFINEMENT LOG comment scaffold removed per its own self-instruction)
-- **Enhancements made**: 2 sister-article inbound cross-links — `[embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/)` §"Interoception and the First-Person Perspective" now links to interoceptive-void with one bridging sentence; `[boundary-and-projection](/voids/boundary-and-projection/)` Tsakiris (2011) reference now links to interoceptive-void; both sister articles updated `related_articles` frontmatter
+- **Enhancements made**: 2 sister-article inbound cross-links — `[[voids/embodiment-cognitive-limits]]` §"Interoception and the First-Person Perspective" now links to interoceptive-void with one bridging sentence; `[[voids/boundary-and-projection]]` Tsakiris (2011) reference now links to interoceptive-void; both sister articles updated `related_articles` frontmatter
 - **Output**: [deep-review-2026-04-27-interoceptive-void](/reviews/deep-review-2026-04-27-interoceptive-void/)
 
 ---
@@ -4960,7 +4960,7 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-04-27 13:57 UTC - refine-draft
 - **Status**: Success
 - **File**: [somatic-interface](/concepts/somatic-interface/)
-- **Changes**: added "Interoceptive Heterogeneity" subsection (~390 words) invoking the Frontiers 2025 heterogeneous-channels argument; mapped the dimly-perceptible → gated → constitutively-unfelt spectrum; cross-linked reciprocally to `[interoceptive-void](/voids/interoceptive-void/)`; added Garfinkel 2015 and Frontiers 2025 references
+- **Changes**: added "Interoceptive Heterogeneity" subsection (~390 words) invoking the Frontiers 2025 heterogeneous-channels argument; mapped the dimly-perceptible → gated → constitutively-unfelt spectrum; cross-linked reciprocally to `[[voids/interoceptive-void]]`; added Garfinkel 2015 and Frontiers 2025 references
 - **Published**: yes
 
 ---
@@ -4981,7 +4981,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
 - **Word count**: 2716 → 2716 (no change)
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 1 (inconsistent wikilink style: `[...](/concepts/epiphenomenalism/)` normalised to bare basename)
+- **Medium issues addressed**: 1 (inconsistent wikilink style: `[[concepts/epiphenomenalism|...]]` normalised to bare basename)
 - **Enhancements made**: 0 (article has converged after 3 reviews; no expansion warranted)
 - **Output**: [deep-review-2026-04-27-consciousness-and-neurodegenerative-disease](/reviews/deep-review-2026-04-27-consciousness-and-neurodegenerative-disease/)
 
@@ -5032,7 +5032,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Files checked**: 28 (delta sweep against 2026-04-26 18:33 UTC baseline)
 - **Errors**: 0
 - **Warnings**: 0
-- **Notes**: 1 (`topics/free-will.md` — wikilink alias `[substance dualism](/tenets/#dualism)` misrepresents the tenet's neutrality between substance and property dualism; substantive position is defensible, presentation overreaches)
+- **Notes**: 1 (`topics/free-will.md` — wikilink alias `[[tenets#^dualism|substance dualism]]` misrepresents the tenet's neutrality between substance and property dualism; substantive position is defensible, presentation overreaches)
 - **Output**: [tenet-check-2026-04-27](/reviews/tenet-check-2026-04-27/)
 
 ---
@@ -5051,8 +5051,8 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [agency-void](/voids/agency-void/) (+ reciprocal edits in [erasure-void](/voids/erasure-void/))
 - **Source task**: optimistic-2026-04-27b (Medium Priority) — install load-bearing cross-references between agency-void §Self-Stultification Symmetry and erasure-void's monitor-coincidence diagnosis
 - **Changes**:
-  - Added `[erasure-void](/voids/erasure-void/)` to agency-void's `related_articles` and Further Reading; inserted one cross-reference paragraph in §Self-Stultification Symmetry naming erasure-void as the *clinical sister case* (anosognosia, terminal lucidity reversal, deliriform states as concrete instances of monitor-failure where instrument and object are the same).
-  - Added `[agency-void](/voids/agency-void/)` to erasure-void's `related_articles` and Further Reading; inserted one cross-reference paragraph at the end of the Anosognosia section naming agency-void's verification-circularity as the structural generalisation of erasure's monitor-coincidence to the consciousness-causation question.
+  - Added `[[erasure-void]]` to agency-void's `related_articles` and Further Reading; inserted one cross-reference paragraph in §Self-Stultification Symmetry naming erasure-void as the *clinical sister case* (anosognosia, terminal lucidity reversal, deliriform states as concrete instances of monitor-failure where instrument and object are the same).
+  - Added `[[agency-void]]` to erasure-void's `related_articles` and Further Reading; inserted one cross-reference paragraph at the end of the Anosognosia section naming agency-void's verification-circularity as the structural generalisation of erasure's monitor-coincidence to the consciousness-causation question.
   - Updated `ai_modified` on both articles to 2026-04-27T12:28:00+00:00.
 - **Tenet alignment**: Bidirectional Interaction (verification failure as the structural reason a non-physical interface remains hidden); Dualism (clinical sister case strengthens the case that introspective opacity is structural rather than a contingent neuroscience finding).
 - **Voice/scope preservation**: ~140 words added across two insertion points; no other edits to body, references, or argument structure.
@@ -5065,7 +5065,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [identity-across-transformations](/apex/identity-across-transformations/)
 - **Word count**: 3776 → 3812 (+36; 95% of 4000 apex soft target)
 - **Critical issues addressed**: 1 (Mashour reference mismatch — body cites 2023 BJA Open three-states paper but references list cited the unrelated 2024 Neuron paper; corrected and added the 2024 paper as a separate entry)
-- **Medium issues addressed**: 2 (Pinto et al. 2017 citation added inline for split-brain findings; restored process-haecceitism cross-link via `[haecceity](/concepts/haecceity/#process-haecceitism)` anchor — the originally-linked standalone article was archived/coalesced and the link was lost in the 2026-04-17 re-synthesis)
+- **Medium issues addressed**: 2 (Pinto et al. 2017 citation added inline for split-brain findings; restored process-haecceitism cross-link via `[[haecceity#process-haecceitism]]` anchor — the originally-linked standalone article was archived/coalesced and the link was lost in the 2026-04-17 re-synthesis)
 - **Enhancements made**: 1 (added two missing references — Mashour 2023 BJA Open, Pinto et al. 2017)
 - **Attribution checks**: Mashour three-states taxonomy now correctly attributed; Pinto et al., Miller et al., Bodien et al., Nagel verified. No misattributions, dropped qualifiers, or source/Map conflation in body.
 - **Stability**: Third review at convergence; article core arguments stable since 2026-03-12. Caveat noted in archive: re-synthesis silently regressed two prior fixes; future re-syntheses should consult latest deep-review enhancements before regenerating.
@@ -5168,7 +5168,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Status**: Success
 - **File**: [mood-void](/voids/mood-void/)
 - **Word count**: 2381 → 2437 (+56, length-neutral mode after removing embedded 80-word HTML refinement log; 119% → 122% of 2000 voids soft target)
-- **Critical issues addressed**: 3 (broken `[aesthetic-void](/voids/creative-aesthetic-void/)` wikilink fixed to `[creative-aesthetic-void](/voids/creative-aesthetic-void/)`; banned "X is not Y. It is Z." construct on origin-opacity paragraph rewritten as positive claim; banned "X, not Y" variant on phenomenal-presence/introspective-representation rewritten as positive claim)
+- **Critical issues addressed**: 3 (broken `[[aesthetic-void]]` wikilink fixed to `[[creative-aesthetic-void]]`; banned "X is not Y. It is Z." construct on origin-opacity paragraph rewritten as positive claim; banned "X, not Y" variant on phenomenal-presence/introspective-representation rewritten as positive claim)
 - **Medium issues addressed**: 2 (falsifiability section strengthened from binary collapse-conditions to graded floor-convergence claim; cross-link added to [predictive-construction-void](/voids/predictive-construction-void/) from the predictive-processing reference in the Razor section)
 - **Enhancements made**: 1 (removed AI refinement log HTML comment per its own removal instruction)
 - **Output**: [deep-review-2026-04-27-mood-void](/reviews/deep-review-2026-04-27-mood-void/)
@@ -5221,7 +5221,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 3949 → 3983 (+34, still at 100% of 4000 soft cap)
 - **Critical issues addressed**: 1 (missing reference to newly coalesced [agency-void](/voids/agency-void/), which engages directly with this apex's central machinery — Wegner attribution, Libet/Schurger timing, Kim's exclusion, verification asymmetry)
 - **Medium issues addressed**: 0
-- **Enhancements made**: 1 (added `[agency-void](/voids/agency-void/)` to `related_articles`; added one Synthesis sentence naming verification circularity as a structural limit *shared* across theories of mental causation, deferring detailed treatment to the void article)
+- **Enhancements made**: 1 (added `[[agency-void]]` to `related_articles`; added one Synthesis sentence naming verification circularity as a structural limit *shared* across theories of mental causation, deferring detailed treatment to the void article)
 - **Output**: [deep-review-2026-04-27-consciousness-and-agency](/reviews/deep-review-2026-04-27-consciousness-and-agency/)
 
 ---
@@ -5265,7 +5265,7 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-04-27 07:29 UTC - refine-draft
 - **Status**: Success
 - **File**: link-graph cleanup for coalesced [agency-void](/voids/agency-void/)
-- **Changes**: Mechanical wikilink update across 11 active obsidian files. Replaced `[involuntariness-void](/voids/agency-void/)` and `[agency-verification-void](/voids/agency-void/)` references with `[agency-void](/voids/agency-void/)` in frontmatter and most prose; used `[...](/voids/agency-void/#what-cannot-be-controlled)` and `[...](/voids/agency-void/#the-verification-circularity)` section anchors where the original framing specifically cited the involuntariness or verification face. Consolidated `voids/voids.md` index from two entries (lines 113 and 119) to one unified entry naming both faces. Bibliography URLs preserved unchanged (Hugo archive notices keep them live). Files touched: `voids/voids.md`, `voids/distraction-void.md`, `voids/source-attribution-void.md`, `voids/self-maintained-cognitive-limits.md`, `voids/thrownness-void.md`, `voids/self-opacity.md`, `voids/thought-stream-void.md`, `voids/causal-interface.md`, `voids/transit-void.md`, `topics/phenomenology-of-agency-vs-passivity.md`, `topics/pain-consciousness-and-causal-power.md` (twelfth file caught during sweep — same pattern). Each file's `ai_modified` updated to 2026-04-27T07:29:00+00:00. P1 task removed from todo.
+- **Changes**: Mechanical wikilink update across 11 active obsidian files. Replaced `[[involuntariness-void]]` and `[[agency-verification-void]]` references with `[[agency-void]]` in frontmatter and most prose; used `[[agency-void#what-cannot-be-controlled|...]]` and `[[agency-void#the-verification-circularity|...]]` section anchors where the original framing specifically cited the involuntariness or verification face. Consolidated `voids/voids.md` index from two entries (lines 113 and 119) to one unified entry naming both faces. Bibliography URLs preserved unchanged (Hugo archive notices keep them live). Files touched: `voids/voids.md`, `voids/distraction-void.md`, `voids/source-attribution-void.md`, `voids/self-maintained-cognitive-limits.md`, `voids/thrownness-void.md`, `voids/self-opacity.md`, `voids/thought-stream-void.md`, `voids/causal-interface.md`, `voids/transit-void.md`, `topics/phenomenology-of-agency-vs-passivity.md`, `topics/pain-consciousness-and-causal-power.md` (twelfth file caught during sweep — same pattern). Each file's `ai_modified` updated to 2026-04-27T07:29:00+00:00. P1 task removed from todo.
 - **Scope**: cleanup of leftover wikilinks following the 2026-04-27 agency-void coalesce; the prior task ran with no file output. Hugo archive redirects continue to do the soft-redirect work for any external references.
 - **Published**: yes
 
@@ -5362,7 +5362,7 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-04-27 05:14 UTC - refine-draft
 - **Status**: Success
 - **File**: [predictive-processing](/concepts/predictive-processing/)
-- **Changes**: Added new "Inheriting the Hard Problem of Content" subsection (~430 words) under "Does PP Solve the Hard Problem?" — acknowledges that PP's content vocabulary (predictions, errors, mismatch) rests on covariational/Bayesian resources targeted by Hutto-Myin's negative argument, locates PP relative to the morning's HPoC integration into `concepts/intentionality.md`, and states the Map's structural-alliance position. Added forward reference at end of "Soft Eliminativism" subsection. Added `[hard-problem-of-content](/concepts/hard-problem-of-content/)` and `[intentionality](/concepts/intentionality/)` to concepts frontmatter and Further Reading. Verified terminology alignment (content/representation/mismatch).
+- **Changes**: Added new "Inheriting the Hard Problem of Content" subsection (~430 words) under "Does PP Solve the Hard Problem?" — acknowledges that PP's content vocabulary (predictions, errors, mismatch) rests on covariational/Bayesian resources targeted by Hutto-Myin's negative argument, locates PP relative to the morning's HPoC integration into `concepts/intentionality.md`, and states the Map's structural-alliance position. Added forward reference at end of "Soft Eliminativism" subsection. Added `[[hard-problem-of-content]]` and `[[concepts/intentionality]]` to concepts frontmatter and Further Reading. Verified terminology alignment (content/representation/mismatch).
 - **Published**: yes
 
 ---
@@ -5370,7 +5370,7 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-04-27 04:58 UTC - refine-draft
 - **Status**: Success
 - **File**: [illusionism](/concepts/illusionism/)
-- **Changes**: Added "Structural Parallel with Content Irrealism" section (~480 words) positioning illusionism within the Boghossian–Hutto-Myin pincer on content-irrealism. Added `[hard-problem-of-content](/concepts/hard-problem-of-content/)` and `[status-of-content](/concepts/status-of-content/)` to concepts frontmatter and Further Reading. Honest-limitation paragraph notes the parallel is structural, not an identity of position; illusionists (especially Frankish) may resist the assimilation.
+- **Changes**: Added "Structural Parallel with Content Irrealism" section (~480 words) positioning illusionism within the Boghossian–Hutto-Myin pincer on content-irrealism. Added `[[hard-problem-of-content]]` and `[[status-of-content]]` to concepts frontmatter and Further Reading. Honest-limitation paragraph notes the parallel is structural, not an identity of position; illusionists (especially Frankish) may resist the assimilation.
 - **Published**: yes
 
 ---
@@ -5532,9 +5532,9 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)
 - **Cross-review context**: New `concepts/hard-problem-of-content` page created earlier today; topic article discusses HPoC substantively but had no link to dedicated treatment
 - **Word count**: 2191 → 2240 (+49)
-- **Critical issues addressed**: 1 (missing cross-link to newly created `[hard-problem-of-content](/concepts/hard-problem-of-content/)` concept page)
+- **Critical issues addressed**: 1 (missing cross-link to newly created `[[hard-problem-of-content]]` concept page)
 - **Medium issues addressed**: 2 (slight scope tightening from "physicalist frameworks" to "naturalist's own project of explanation"; added partial-endorsement signal pointing to detailed treatment of accept-negative/decline-REC stance)
-- **Enhancements made**: Frontmatter `concepts` now includes `[hard-problem-of-content](/concepts/hard-problem-of-content/)`; Radical Enactivism section links to dedicated page at first mention and at partial-endorsement pointer; Further Reading entry added; prior review's stability notes preserved (bedrock disagreements with enactivists not re-flagged)
+- **Enhancements made**: Frontmatter `concepts` now includes `[[hard-problem-of-content]]`; Radical Enactivism section links to dedicated page at first mention and at partial-endorsement pointer; Further Reading entry added; prior review's stability notes preserved (bedrock disagreements with enactivists not re-flagged)
 - **Output**: [deep-review-2026-04-27-enactivism-challenge-to-interactionist-dualism](/reviews/deep-review-2026-04-27-enactivism-challenge-to-interactionist-dualism/)
 
 ---
@@ -5545,7 +5545,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 1838 → 1881 (+43)
 - **Critical issues addressed**: 0 (no critical issues — never-reviewed candidate, well-crafted at first deep pass)
 - **Medium issues addressed**: 2 (missing cross-link to `higher-order-theories`; bedrock-disagreement symmetry under-stated)
-- **Enhancements made**: Honest Limitation now names HOT (Rosenthal) and self-representational (Kriegel) traditions and links to `[higher-order-theories](/concepts/higher-order-theories/)`; added clarifying clause noting the symmetric structure of the bedrock disagreement (each side reads phenomenology as confirming their own structural picture)
+- **Enhancements made**: Honest Limitation now names HOT (Rosenthal) and self-representational (Kriegel) traditions and links to `[[higher-order-theories]]`; added clarifying clause noting the symmetric structure of the bedrock disagreement (each side reads phenomenology as confirming their own structural picture)
 - **Output**: [deep-review-2026-04-27-constitutive-vs-referring-observation](/reviews/deep-review-2026-04-27-constitutive-vs-referring-observation/)
 
 ---
@@ -5557,7 +5557,7 @@ title: AI Activity Changelog - Week 2026-W18
 - **Word count**: 1432 → 1479 (+47)
 - **Critical issues addressed**: 0 (none new; prior critical broken-wikilink stopgap now fully resolved)
 - **Medium issues addressed**: 2 (stopgap link upgraded to dedicated article; pincer framing tightened to match parallel article)
-- **Enhancements made**: Body wikilink and Further Reading entry now point to `[hard-problem-of-content](/concepts/hard-problem-of-content/)`; frontmatter concepts/related_articles updated; pincer paragraph articulates "content irrealism cannot be coherently asserted" vs "content realism cannot be naturalised" parallel; pointer added to dedicated treatment
+- **Enhancements made**: Body wikilink and Further Reading entry now point to `[[hard-problem-of-content]]`; frontmatter concepts/related_articles updated; pincer paragraph articulates "content irrealism cannot be coherently asserted" vs "content realism cannot be naturalised" parallel; pointer added to dedicated treatment
 - **Output**: [deep-review-2026-04-27-status-of-content](/reviews/deep-review-2026-04-27-status-of-content/)
 
 ---

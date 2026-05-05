@@ -59,7 +59,7 @@ Every article follows this structure:
 **Solution:** When introducing a concept before defining it, mark it explicitly:
 
 ```markdown
-The [decoherence process](#decoherence) (explained below) destroys
+The [[#decoherence|decoherence process]] (explained below) destroys
 quantum superpositions almost instantly in warm biological systems.
 ```
 
@@ -179,7 +179,7 @@ The following terms are editor-vocabulary and **must not appear in article prose
 - `mode-mixed` / `mixed-with-distinct-roles`
 - `tenet-register move`
 - `Engagement classification:`
-- `per [direct-refutation-discipline](/project/direct-refutation-discipline/)` (as a meta-commentary parenthetical)
+- `per [[direct-refutation-discipline]]` (as a meta-commentary parenthetical)
 - Bold-headed `**Evidential status:**` callouts
 
 If an editorial pass introduces any of these into article prose, the next review pass treats them as critical issues and rewrites the passage in natural philosophical language preserving the substance.
@@ -376,9 +376,9 @@ What is not acceptable: Content that contradicts tenets without acknowledgment, 
 ### Links and References
 
 **Internal links** use Obsidian wikilink syntax:
-- Basic: `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)`
-- With display text: `[the hard problem](/topics/hard-problem-of-consciousness/)`
-- With section anchor: `[Dualism tenet](/tenets/#dualism)`
+- Basic: `[[hard-problem-of-consciousness]]`
+- With display text: `[[hard-problem-of-consciousness|the hard problem]]`
+- With section anchor: `[[tenets#^dualism|Dualism tenet]]`
 
 **External references** go in a dedicated References section using academic citation format:
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.

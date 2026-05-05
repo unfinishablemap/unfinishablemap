@@ -53,7 +53,7 @@ This review focused on **integration** rather than content enhancement:
 6. [concepts/quantum-consciousness.md](/concepts/quantum-consciousness/) — new sentence connecting selection laws
 
 **Frontmatter updates:**
-- Added `[selection-laws](/concepts/psychophysical-laws/)` to concepts list in all six articles
+- Added `[[selection-laws]]` to concepts list in all six articles
 - Added to Further Reading sections with consistent description
 
 ### Cross-links Added

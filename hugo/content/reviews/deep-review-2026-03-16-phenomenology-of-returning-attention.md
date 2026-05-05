@@ -26,7 +26,7 @@ topics: []
 None. Citations accurate, no misattributions, required sections present, no internal contradictions.
 
 ### Medium Issues Found
-- Duplicate Further Reading link: both `[voluntary attention](/concepts/attention-as-interface/)` and `[attention-as-interface](/concepts/attention-as-interface/)` pointed to the same article. [Resolved] Merged into a single entry with combined description.
+- Duplicate Further Reading link: both `[[attention-as-interface|voluntary attention]]` and `[[attention-as-interface]]` pointed to the same article. [Resolved] Merged into a single entry with combined description.
 - Uncited references: Schooler (2002) and Smallwood & Schooler (2015) appeared in References but were never cited in text. [Resolved] Added inline citation for Schooler (2002) in Phase One (meta-consciousness dissociation) and Smallwood & Schooler (2015) in the Meditator's Laboratory section (cross-cultural convergence).
 - Hasenkamp claim slightly overstated in Contemplative Refinement: "experienced meditators showed faster re-engagement of executive networks" was more specific than the paper's findings warrant. [Resolved] Reworded to describe the paper's methodology and findings more accurately.
 - "What Returns?" bundling argument: claimed mechanistic accounts would predict decoupling, but a mechanistic account could equally predict bundling via executive control re-engagement. [Resolved] Revised to acknowledge the mechanistic counter (executive control bundling) then argue the bundling extends beyond what a single network predicts.

@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - [Missing References section]: Added formal citations for Levine (1983), Leibniz (1714), Chalmers (1995), and McGinn (1989).
 - [Unsupported "enormous institutional pressure" claim]: Replaced with factual statement about most academic philosophers leaning physicalist.
-- [Missing cross-links to existing concept pages]: Added links to `[philosophical-zombies](/concepts/philosophical-zombies/)`, `[panpsychism](/concepts/panpsychism/)`, `[idealism](/concepts/idealism/)`, `[access-consciousness](/concepts/access-consciousness/)`, `[epiphenomenalism](/concepts/epiphenomenalism/)`, `[causal-closure](/concepts/causal-closure/)`, and `[Materialism](/concepts/materialism/)`.
+- [Missing cross-links to existing concept pages]: Added links to `[[philosophical-zombies]]`, `[[panpsychism]]`, `[[idealism]]`, `[[access-consciousness]]`, `[[epiphenomenalism]]`, `[[causal-closure]]`, and `[[concepts/materialism|Materialism]]`.
 
 ### Counterarguments Considered
 - **Churchland's eliminativism**: Article engages via "Explanation Two" but conflates eliminativism with logical positivism. Not critical — the response (you can't dismiss first-person experience) applies to both.
@@ -48,11 +48,11 @@ topics: []
 ### Enhancements Made
 - Added References section with four formal citations
 - Replaced unsupported "enormous institutional pressure" with factual characterization
-- Added cross-link to `[philosophical-zombies](/concepts/philosophical-zombies/)` at "functional duplicate" reference in opening
-- Added cross-links to `[panpsychism](/concepts/panpsychism/)`, `[idealism](/concepts/idealism/)`, `[mysterianism](/concepts/mysterianism/)` in the competing positions list
-- Added `[access-consciousness](/concepts/access-consciousness/)` link
-- Added `[epiphenomenalism](/concepts/epiphenomenalism/)` link in framework advantages section
-- Added `[causal-closure](/concepts/causal-closure/)` link in Relation to Site Perspective section
+- Added cross-link to `[[philosophical-zombies]]` at "functional duplicate" reference in opening
+- Added cross-links to `[[panpsychism]]`, `[[idealism]]`, `[[mysterianism]]` in the competing positions list
+- Added `[[access-consciousness]]` link
+- Added `[[epiphenomenalism]]` link in framework advantages section
+- Added `[[causal-closure]]` link in Relation to Site Perspective section
 - Removed cliché "The cure is worse than the disease"
 
 ### Cross-links Added

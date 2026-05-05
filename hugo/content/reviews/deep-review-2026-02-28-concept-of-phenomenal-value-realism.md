@@ -46,11 +46,11 @@ None. The article has no factual errors, misattributions, internal contradiction
 
 ### Medium Issues Found
 
-1. **Orphan status — no inbound links**: The concept page was entirely disconnected from site navigation. All content articles linked to `[phenomenal-value-realism](/topics/phenomenal-value-realism/)` but never to `[concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)`.
+1. **Orphan status — no inbound links**: The concept page was entirely disconnected from site navigation. All content articles linked to `[[topics/phenomenal-value-realism]]` but never to `[[concept-of-phenomenal-value-realism]]`.
    - **Resolution**: Added cross-references from 4 key articles (see below)
 
 2. **Missing `consciousness-value-connection` in related_articles**: Referenced in body (opening paragraph) but absent from frontmatter.
-   - **Resolution**: Added to related_articles along with `[living-with-the-map](/apex/living-with-the-map/)`
+   - **Resolution**: Added to related_articles along with `[[living-with-the-map]]`
 
 3. **Wolf reference unused**: Wolf (2010) cited in References but not referenced in text.
    - **Resolution**: Deferred — minor reference section issue, not worth adding text just to justify the citation
@@ -74,7 +74,7 @@ All six adversarial personas found no critical issues. The article is well-struc
 
 ### Enhancements Made
 
-1. Added `[consciousness-value-connection](/concepts/consciousness-value-connection/)` and `[living-with-the-map](/apex/living-with-the-map/)` to related_articles frontmatter
+1. Added `[[consciousness-value-connection]]` and `[[living-with-the-map]]` to related_articles frontmatter
 2. Added cross-reference from **qualia.md** — in "Why Qualia Matter" section, connecting emotional valence to phenomenal value realism's identity claim
 3. Added cross-reference from **consciousness-value-connection.md** — concept page added to concepts list and inline link updated to point to concept page
 4. Added cross-reference from **animal-consciousness.md** — in "Moral Status" section, connecting valence sentientism to phenomenal value realism

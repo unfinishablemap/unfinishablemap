@@ -64,7 +64,7 @@ All major counterarguments were addressed in the previous review:
 
 ### Enhancements Made
 
-1. **Added inline link to `[introspection](/concepts/introspection/)`** where change blindness and confabulation are mentioned — improves navigation for readers wanting more on empirical challenges
+1. **Added inline link to `[[introspection]]`** where change blindness and confabulation are mentioned — improves navigation for readers wanting more on empirical challenges
 
 ### Cross-links Assessment
 

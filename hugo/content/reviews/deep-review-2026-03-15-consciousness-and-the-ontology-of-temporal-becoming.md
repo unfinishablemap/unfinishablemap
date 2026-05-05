@@ -32,7 +32,7 @@ None.
 
 ### Low Issues Found
 - Greene & Sullivan (2015) and Weyl (1949) listed in references but uncited in text. Resolution: added in-text citations for both.
-- Frontmatter listed `[personal-identity](/topics/personal-identity/)` under `concepts:` but the file is in `topics/`. Resolution: corrected to `[personal-identity](/topics/personal-identity/)`.
+- Frontmatter listed `[[personal-identity]]` under `concepts:` but the file is in `topics/`. Resolution: corrected to `[[topics/personal-identity]]`.
 
 ### Counterarguments Considered
 - Eliminative materialist: "melody" analogy presupposes unity — acknowledged as expected philosophical disagreement, not a flaw in the article's reasoning.

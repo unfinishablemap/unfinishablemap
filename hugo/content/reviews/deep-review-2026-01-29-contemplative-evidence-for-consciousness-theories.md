@@ -27,10 +27,10 @@ topics: []
 None. Article remains stable from previous reviews.
 
 ### Medium Issues Found
-- **Missing cross-link to neuroplasticity**: The article discussed neuroplasticity extensively without linking to the newly-created `[neuroplasticity](/concepts/neuroplasticity/)` concept page, which provides detailed treatment of Schwartz's OCD research and the causal direction question. Resolution: Added cross-link in "Neuroplastic Changes from Willed Practice" section with parenthetical reference to Schwartz's research.
+- **Missing cross-link to neuroplasticity**: The article discussed neuroplasticity extensively without linking to the newly-created `[[neuroplasticity]]` concept page, which provides detailed treatment of Schwartz's OCD research and the causal direction question. Resolution: Added cross-link in "Neuroplastic Changes from Willed Practice" section with parenthetical reference to Schwartz's research.
 
 ### Low Issues Found
-- **Concepts frontmatter missing neuroplasticity**: The article's concepts list didn't include `[neuroplasticity](/concepts/neuroplasticity/)` despite discussing the topic extensively. Resolution: Added to frontmatter.
+- **Concepts frontmatter missing neuroplasticity**: The article's concepts list didn't include `[[neuroplasticity]]` despite discussing the topic extensively. Resolution: Added to frontmatter.
 
 ### Counterarguments Considered
 All six adversarial personas engaged with cross-review focus:
@@ -56,8 +56,8 @@ All six adversarial personas engaged with cross-review focus:
 - The "brute correlations" argument against epiphenomenalism
 
 ### Enhancements Made
-- Added cross-link to `[neuroplasticity](/concepts/neuroplasticity/)` in "Neuroplastic Changes from Willed Practice" section
-- Added `[neuroplasticity](/concepts/neuroplasticity/)` to concepts frontmatter
+- Added cross-link to `[[neuroplasticity]]` in "Neuroplastic Changes from Willed Practice" section
+- Added `[[neuroplasticity]]` to concepts frontmatter
 
 ### Cross-links Added
 - [neuroplasticity](/concepts/neuroplasticity/) (in body text and frontmatter)

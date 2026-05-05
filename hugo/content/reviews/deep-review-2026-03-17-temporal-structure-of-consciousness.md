@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 - **No cross-link to neural-refresh-rates article**: The new smoothness problem article covers directly overlapping territory (discrete neural processing vs. continuous experience) but temporal-structure-of-consciousness had no reference to it. **Resolution**: Added cross-links in Missing Link Problem section, Temporal Binding section, Further Reading, and related_articles frontmatter.
-- **Triplicate Further Reading entries**: `[temporal-consciousness](/concepts/temporal-consciousness/)` appeared three times with different descriptions (specious present, durée, experienced duration). **Resolution**: Consolidated into single entry covering all three aspects.
+- **Triplicate Further Reading entries**: `[[temporal-consciousness]]` appeared three times with different descriptions (specious present, durée, experienced duration). **Resolution**: Consolidated into single entry covering all three aspects.
 - **Missing link to VanRullen's perceptual cycles**: The Temporal Binding section discussed neural oscillations without referencing the discrete perceptual sampling evidence that the new article develops. **Resolution**: Added VanRullen reference with link to smoothness problem article.
 
 ### Counterarguments Considered

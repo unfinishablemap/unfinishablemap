@@ -26,8 +26,8 @@ topics: []
 None. The article is stable after the previous review's improvements.
 
 ### Medium Issues Found
-- **Missing body wikilink to companion concept article**: The frontmatter listed `[consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)` as a concept but it was never wikilinked in the article body. **Resolution**: Added inline wikilink in "The Pattern in Mathematics" section.
-- **Missing related article**: `[arguments-against-materialism](/topics/arguments-against-materialism/)` discusses concession convergence and mathematical philosophy but was not in related_articles. **Resolution**: Added to frontmatter.
+- **Missing body wikilink to companion concept article**: The frontmatter listed `[[consciousness-and-the-philosophy-of-mathematics]]` as a concept but it was never wikilinked in the article body. **Resolution**: Added inline wikilink in "The Pattern in Mathematics" section.
+- **Missing related article**: `[[arguments-against-materialism]]` discusses concession convergence and mathematical philosophy but was not in related_articles. **Resolution**: Added to frontmatter.
 - **Orphan status — no inbound links**: The article had zero inbound links from other articles despite being closely related to 8+ existing articles. **Resolution**: Added inbound cross-links from 8 articles (see below).
 
 ### Counterarguments Considered

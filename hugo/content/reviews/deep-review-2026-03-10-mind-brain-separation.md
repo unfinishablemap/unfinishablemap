@@ -26,7 +26,7 @@ topics: []
 None. Article remains stable. No attribution errors, no source/Map conflation, no self-contradictions.
 
 ### Medium Issues Found
-1. **Frontmatter miscategorization**: `[dream-consciousness](/topics/dream-consciousness/)` was listed under `concepts:` but the file exists at `obsidian/topics/dream-consciousness.md`. [Resolution: Moved to `topics:` list.]
+1. **Frontmatter miscategorization**: `[[dream-consciousness]]` was listed under `concepts:` but the file exists at `obsidian/topics/dream-consciousness.md`. [Resolution: Moved to `topics:` list.]
 2. **Missing cross-links**: Relevant articles on split-brain consciousness, unity of consciousness, and disorders of consciousness were not linked despite direct topical relevance. [Resolution: Added to frontmatter and Further Reading.]
 
 ### Counterarguments Considered
@@ -56,8 +56,8 @@ All major counterarguments remain well-addressed from previous reviews:
 
 ### Enhancements Made
 1. Added split-brain evidence paragraph to the dissociation section, complementing blindsight with corpus callosum evidence and its implications for phenomenal unity
-2. Fixed frontmatter: moved `[dream-consciousness](/topics/dream-consciousness/)` from concepts to topics
-3. Added `[split-brain-consciousness](/topics/split-brain-consciousness/)` and `[unity-of-consciousness](/concepts/unity-of-consciousness/)` to frontmatter
+2. Fixed frontmatter: moved `[[dream-consciousness]]` from concepts to topics
+3. Added `[[split-brain-consciousness]]` and `[[unity-of-consciousness]]` to frontmatter
 4. Added three cross-links to Further Reading: unity-of-consciousness, split-brain-consciousness, disorders-of-consciousness-as-test-cases
 
 ### Cross-links Added

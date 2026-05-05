@@ -33,7 +33,7 @@ None. Ninth review; article at high stability.
 ### Medium Issues Found and Addressed
 
 1. **Missing cross-link to physical-completeness**: The article referenced [physical-completeness](/concepts/physical-completeness/) in body text (probabilistic causation response) but omitted it from frontmatter concepts and Further Reading. The physical-completeness article links back to causal-closure in three places; the reverse linkage was incomplete.
-   - **Resolution**: Added `[physical-completeness](/concepts/physical-completeness/)` to frontmatter concepts. Added Further Reading entry with description of the structural-ontological gap framing.
+   - **Resolution**: Added `[[physical-completeness]]` to frontmatter concepts. Added Further Reading entry with description of the structural-ontological gap framing.
 
 ### Low Issues Addressed
 

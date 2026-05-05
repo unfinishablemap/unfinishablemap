@@ -24,13 +24,13 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken wikilink to `[hard-problem-of-content](/concepts/hard-problem-of-content/)`** (3 occurrences: frontmatter `related_articles`, body §"Why It Is the Sophisticated Version", Further Reading list). The target article does not exist in the obsidian vault. It is planned in [workflow/todo.md](/workflow/todo/) (research-topic task generated 2026-04-26) but has not been created. A research note exists at [research/eliminative-materialism-2026-04-26.md](/research/eliminative-materialism-2026-04-26/) that mentions Hutto-Myin's argument, and [topics/enactivism-challenge-to-interactionist-dualism.md](/topics/enactivism-challenge-to-interactionist-dualism/) already discusses Hutto-Myin's radical enactivism. The wikilink would degrade to plain display text on sync, but readers lose the navigation path to existing related Map content. **Resolution applied**: Replaced all three references. Frontmatter now links to `[enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)`. Body inline reference removed wikilink and added parenthetical pointer to the enactivism article. Further Reading entry rewritten to point to `[enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)` with a note that this is where the Map currently engages Hutto and Myin's argument.
+- **Broken wikilink to `[[hard-problem-of-content]]`** (3 occurrences: frontmatter `related_articles`, body §"Why It Is the Sophisticated Version", Further Reading list). The target article does not exist in the obsidian vault. It is planned in [workflow/todo.md](/workflow/todo/) (research-topic task generated 2026-04-26) but has not been created. A research note exists at [research/eliminative-materialism-2026-04-26.md](/research/eliminative-materialism-2026-04-26/) that mentions Hutto-Myin's argument, and [topics/enactivism-challenge-to-interactionist-dualism.md](/topics/enactivism-challenge-to-interactionist-dualism/) already discusses Hutto-Myin's radical enactivism. The wikilink would degrade to plain display text on sync, but readers lose the navigation path to existing related Map content. **Resolution applied**: Replaced all three references. Frontmatter now links to `[[enactivism-challenge-to-interactionist-dualism]]`. Body inline reference removed wikilink and added parenthetical pointer to the enactivism article. Further Reading entry rewritten to point to `[[enactivism-challenge-to-interactionist-dualism]]` with a note that this is where the Map currently engages Hutto and Myin's argument.
 
 ### Medium Issues Found
 
-- **Body never explicitly links to `self-stultification-as-master-argument`** despite frontmatter listing it as a related article. The methodological-lesson section was a natural place to direct readers to the synthesis piece. **Resolution applied**: Added `[master-argument synthesis](/topics/self-stultification-as-master-argument/)` link in the methodological-lesson paragraph along with a brief description of what the master argument does ("examines how this single dialectical structure plays out across each of these targets").
+- **Body never explicitly links to `self-stultification-as-master-argument`** despite frontmatter listing it as a related article. The methodological-lesson section was a natural place to direct readers to the synthesis piece. **Resolution applied**: Added `[[self-stultification-as-master-argument|master-argument synthesis]]` link in the methodological-lesson paragraph along with a brief description of what the master argument does ("examines how this single dialectical structure plays out across each of these targets").
 
-- **Body never references `argument-from-reason`** despite frontmatter listing it as related and despite it being the most prominent structurally-adjacent self-defeat argument in the Map. **Resolution applied**: Added `[argument-from-reason](/topics/argument-from-reason/)` to the methodological-lesson section as one of the other self-refutation arguments the Map deploys against naturalism.
+- **Body never references `argument-from-reason`** despite frontmatter listing it as related and despite it being the most prominent structurally-adjacent self-defeat argument in the Map. **Resolution applied**: Added `[[argument-from-reason]]` to the methodological-lesson section as one of the other self-refutation arguments the Map deploys against naturalism.
 
 ### Counterarguments Considered
 
@@ -73,19 +73,19 @@ No internal contradictions detected. The article maintains a consistent stance: 
 
 ### Enhancements Made
 
-- Added inline reference to `[master-argument synthesis](/topics/self-stultification-as-master-argument/)` in the methodological-lesson section, showing readers where the Map develops this structural pattern across multiple targets.
-- Added inline reference to `[argument-from-reason](/topics/argument-from-reason/)` as one of the other self-refutation arguments the Map deploys, alongside epiphenomenalism and illusionism.
-- Replaced broken wikilink `[hard-problem-of-content](/concepts/hard-problem-of-content/)` with working link to `[enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)` where the Map currently engages Hutto and Myin's argument. Inline parenthetical now reads: "developed in their *Radicalizing Enactivism* and *Evolving Enactivism*; see [enactivism's challenge](/topics/enactivism-challenge-to-interactionist-dualism/) for the Map's treatment".
+- Added inline reference to `[[self-stultification-as-master-argument|master-argument synthesis]]` in the methodological-lesson section, showing readers where the Map develops this structural pattern across multiple targets.
+- Added inline reference to `[[argument-from-reason]]` as one of the other self-refutation arguments the Map deploys, alongside epiphenomenalism and illusionism.
+- Replaced broken wikilink `[[hard-problem-of-content]]` with working link to `[[enactivism-challenge-to-interactionist-dualism]]` where the Map currently engages Hutto and Myin's argument. Inline parenthetical now reads: "developed in their *Radicalizing Enactivism* and *Evolving Enactivism*; see [enactivism's challenge](/topics/enactivism-challenge-to-interactionist-dualism/) for the Map's treatment".
 
 ### Cross-links Added
 
-- `[self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)` — body link in methodological-lesson section
-- `[argument-from-reason](/topics/argument-from-reason/)` — body link in methodological-lesson section
-- `[enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)` — body link in §"Why It Is the Sophisticated Version", Further Reading entry, and frontmatter `related_articles`
+- `[[self-stultification-as-master-argument]]` — body link in methodological-lesson section
+- `[[argument-from-reason]]` — body link in methodological-lesson section
+- `[[enactivism-challenge-to-interactionist-dualism]]` — body link in §"Why It Is the Sophisticated Version", Further Reading entry, and frontmatter `related_articles`
 
 ## Remaining Items
 
-- **`[hard-problem-of-content](/concepts/hard-problem-of-content/)` article still needs to be created**. The research-topic task is in [workflow/todo.md](/workflow/todo/) (generated 2026-04-26 from gap analysis). When that article is created, this article (and others referencing the term) should be updated to use the dedicated wikilink. The current pointer to `enactivism-challenge-to-interactionist-dualism` is a stopgap — that article discusses Hutto-Myin's enactivism broadly, not the hard problem of content specifically.
+- **`[[hard-problem-of-content]]` article still needs to be created**. The research-topic task is in [workflow/todo.md](/workflow/todo/) (generated 2026-04-26 from gap analysis). When that article is created, this article (and others referencing the term) should be updated to use the dedicated wikilink. The current pointer to `enactivism-challenge-to-interactionist-dualism` is a stopgap — that article discusses Hutto-Myin's enactivism broadly, not the hard problem of content specifically.
 
 ## Stability Notes
 

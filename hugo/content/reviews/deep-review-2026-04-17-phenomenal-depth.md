@@ -67,6 +67,6 @@ None.
 
 - This is the third deep review; the article has fully converged. No structural, argumentative, or reference-level issues remain.
 - The bedrock disagreements noted in prior reviews (eliminativist, Dennettian, constructivist) should continue to not be re-flagged as critical.
-- The `[phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)` frontmatter concept is still not mentioned in the body. Prior review noted this is a minor metadata choice not worth forcing body text for; confirmed again.
+- The `[[phenomenal-transparency-opacity-spectrum]]` frontmatter concept is still not mentioned in the body. Prior review noted this is a minor metadata choice not worth forcing body text for; confirmed again.
 - Length at 1313 words (~53% of concepts soft threshold) leaves room for expansion, but no expansion is needed — the article is complete as written. Future reviews should resist adding content for its own sake.
 - The April 15 edit demonstrates the right kind of between-review change: a single integrative sentence linking to a sister concept, not a rewrite. Future edits should follow that pattern.

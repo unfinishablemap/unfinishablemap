@@ -28,7 +28,7 @@ Six adversarial personas re-engaged briefly. No body content has been substantiv
 
 ### Critical Issues Found
 
-- **Missing reference to a directly relevant void article.** The new `agency-void.md` engages explicitly with this apex's central machinery—Wegner's attribution mechanism, Libet/Schurger timing, Kim's exclusion argument, the verification asymmetry under Bidirectional Interaction—and concludes that the verification limit is endemic to any account of mental causation. The apex synthesised these challenges before the void existed, but did not point to the void's structural framing. [Resolution: added `[agency-void](/voids/agency-void/)` to `related_articles` and a single sentence in Synthesis that names the verification limit as shared rather than framework-specific.]
+- **Missing reference to a directly relevant void article.** The new `agency-void.md` engages explicitly with this apex's central machinery—Wegner's attribution mechanism, Libet/Schurger timing, Kim's exclusion argument, the verification asymmetry under Bidirectional Interaction—and concludes that the verification limit is endemic to any account of mental causation. The apex synthesised these challenges before the void existed, but did not point to the void's structural framing. [Resolution: added `[[agency-void]]` to `related_articles` and a single sentence in Synthesis that names the verification limit as shared rather than framework-specific.]
 
 No other critical issues.
 
@@ -58,12 +58,12 @@ All previously enumerated strengths intact:
 
 ### Enhancements Made
 
-- New cross-link in Synthesis names the verification limit and points to `[agency-void](/voids/agency-void/)`. The phrasing emphasises that the limit is *shared* (epiphenomenalism faces it too)—matching the void article's self-stultification symmetry argument—so the apex does not concede ground its source articles do not also concede.
+- New cross-link in Synthesis names the verification limit and points to `[[agency-void]]`. The phrasing emphasises that the limit is *shared* (epiphenomenalism faces it too)—matching the void article's self-stultification symmetry argument—so the apex does not concede ground its source articles do not also concede.
 - The sentence sits where the existing Synthesis already enumerates "Significant uncertainties remain"; the addition is structurally aligned with what was already there.
 
 ### Cross-links Added
 
-- `[agency-void](/voids/agency-void/)` (in `related_articles` and in the Synthesis section)
+- `[[agency-void]]` (in `related_articles` and in the Synthesis section)
 
 ## Length Discipline
 

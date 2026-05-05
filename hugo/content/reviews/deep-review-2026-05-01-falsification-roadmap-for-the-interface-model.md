@@ -74,7 +74,7 @@ All six adversarial personas engaged with cross-review focus on the post-Lakatos
 ## Remaining Items
 
 - Melloni et al. (2025) reference date: deferred for human verification (carried from prior reviews; site-wide issue not specific to this article).
-- `[consciousness-independent-baseline-cognition](/concepts/baseline-cognition/)` wikilink may not resolve correctly (site-wide issue, not specific to this article; carried from prior reviews).
+- `[[consciousness-independent-baseline-cognition]]` wikilink may not resolve correctly (site-wide issue, not specific to this article; carried from prior reviews).
 
 ## Stability Notes
 

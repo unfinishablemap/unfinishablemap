@@ -37,7 +37,7 @@ None. The previous review (2026-01-22) resolved major issues including:
 1. **Missing connection to delegatory dualism** (identified from cross-review context): The article discussed "complementary determination" but didn't reference Bradford Saad's 2025 delegatory dualism framework, which provides a more rigorous treatment of avoiding overdetermination through preemption rather than complementary causation.
    - **Resolution**: Added paragraph explaining Saad's delegation mechanism and how it relates to the Map's quantum framework. The two approaches may be complementary—quantum indeterminacy as substrate, delegation as causal structure.
 
-2. **Missing concept link**: The concepts list didn't include `[delegatory-dualism](/topics/delegatory-dualism/)`.
+2. **Missing concept link**: The concepts list didn't include `[[delegatory-dualism]]`.
    - **Resolution**: Added to frontmatter concepts list.
 
 ### Low Issues
@@ -63,12 +63,12 @@ None. The previous review (2026-01-22) resolved major issues including:
 
 1. **Delegatory dualism integration**: Added substantive connection to Saad's 2025 framework in the overdetermination response section, explaining preemption mechanism and how it complements quantum interactionism.
 
-2. **Further Reading expansion**: Added `[delegatory-dualism](/topics/delegatory-dualism/)` entry with brief description.
+2. **Further Reading expansion**: Added `[[delegatory-dualism]]` entry with brief description.
 
 ### Cross-links Added
 
-- `[delegatory-dualism](/topics/delegatory-dualism/)` in overdetermination response section
-- `[delegatory-dualism](/topics/delegatory-dualism/)` in Further Reading
+- `[[delegatory-dualism]]` in overdetermination response section
+- `[[delegatory-dualism]]` in Further Reading
 
 ### Condensations Applied (Length-Neutral Mode)
 

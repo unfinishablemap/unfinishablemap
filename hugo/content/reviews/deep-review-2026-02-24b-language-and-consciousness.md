@@ -27,7 +27,7 @@ None. The previous review (earlier today) addressed all critical issues. The art
 
 ### Medium Issues Found
 - **Orphaned article**: Zero inbound links despite high relevance to 5+ existing articles. **Resolution**: Added cross-links from 5 articles (see below).
-- **Missing symbol grounding connection**: The AI/LLM discussion in the Meaning section lacked a cross-link to the symbol grounding problem, which directly addresses why symbols lack intrinsic meaning without consciousness. **Resolution**: Added `[symbol-grounding-problem](/concepts/symbol-grounding-problem/)` inline link and to frontmatter/Further Reading.
+- **Missing symbol grounding connection**: The AI/LLM discussion in the Meaning section lacked a cross-link to the symbol grounding problem, which directly addresses why symbols lack intrinsic meaning without consciousness. **Resolution**: Added `[[symbol-grounding-problem]]` inline link and to frontmatter/Further Reading.
 
 ### Counterarguments Considered
 - Previous review's stability notes were respected: no re-flagging of resolved issues, no demand for deeper inferentialist engagement, no flagging of absent Minimal Quantum Interaction / No Many Worlds tenet connections.
@@ -39,11 +39,11 @@ None. The previous review (earlier today) addressed all critical issues. The art
 - The article is well-positioned as the philosophical infrastructure complement to the empirical articles (consciousness-and-language-interface, language-recursion-and-consciousness, language-thought-boundary)
 
 ### Enhancements Made
-- Added `[symbol-grounding-problem](/concepts/symbol-grounding-problem/)` cross-link in the Meaning section (AI/LLM discussion)
-- Added `[symbol-grounding-problem](/concepts/symbol-grounding-problem/)` to frontmatter concepts and Further Reading
+- Added `[[symbol-grounding-problem]]` cross-link in the Meaning section (AI/LLM discussion)
+- Added `[[symbol-grounding-problem]]` to frontmatter concepts and Further Reading
 
 ### Cross-links Added TO This Article (Orphan Integration)
-The following 5 articles now link to `[language-and-consciousness](/concepts/language-and-consciousness/)`:
+The following 5 articles now link to `[[language-and-consciousness]]`:
 
 1. **[consciousness-and-language-interface](/topics/consciousness-and-language-interface/)** — Added to Further Reading. Natural complement: this article covers empirical interface, language-and-consciousness covers philosophical infrastructure.
 2. **[intentionality](/concepts/intentionality/)** — Added in "From Intentionality to Meaning" section. Direct connection: Grice's meaning theory and Searle's connection principle are discussed in both articles.
@@ -52,7 +52,7 @@ The following 5 articles now link to `[language-and-consciousness](/concepts/lan
 5. **[qualia](/concepts/qualia/)** — Added in "Ineffable" subsection. language-and-consciousness explains why reference to phenomenal properties resists standard theories, directly relevant to qualia's ineffability.
 
 ### Cross-links Added FROM This Article
-- `[symbol-grounding-problem](/concepts/symbol-grounding-problem/)` — Added inline and to Further Reading
+- `[[symbol-grounding-problem]]` — Added inline and to Further Reading
 
 ## Remaining Items
 

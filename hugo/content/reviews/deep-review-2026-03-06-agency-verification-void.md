@@ -27,7 +27,7 @@ None. All six citations (De Brigard, Libet, Schurger et al., Kim, Wegner, Velman
 
 ### Medium Issues Found
 - **Perspectival layer overstated** (line 74): Original claimed "A fact that changes depending on the observer's location is not a fact about the world." This is too strong—observer-dependent facts in physics (relativity) are still facts about the world. **Resolution**: Replaced with a nuanced comparison to special relativity, noting that for agency the perspectives yield contradictory verdicts with no shared formalism to reconcile them.
-- **Missing cross-links**: `[epiphenomenalism](/concepts/epiphenomenalism/)` and `[causal-closure](/concepts/causal-closure/)` exist as concept pages and are central to this article but were not linked. **Resolution**: Added wikilinks to both concepts in body text and frontmatter.
+- **Missing cross-links**: `[[epiphenomenalism]]` and `[[causal-closure]]` exist as concept pages and are central to this article but were not linked. **Resolution**: Added wikilinks to both concepts in body text and frontmatter.
 - **False dichotomy in AI section**: "What AI Might See" presented only two interpretations (epiphenomenalism vs. dualist interactionism). **Resolution**: Added a third possibility (functional agency without phenomenal accompaniment) to avoid the false dichotomy.
 
 ### Counterarguments Considered
@@ -46,7 +46,7 @@ None. All six citations (De Brigard, Libet, Schurger et al., Kim, Wegner, Velman
 
 ### Enhancements Made
 - Qualified the perspectival layer claim with a physics analogy (special relativity) that strengthens rather than weakens the argument
-- Added cross-links to `[epiphenomenalism](/concepts/epiphenomenalism/)` and `[causal-closure](/concepts/causal-closure/)`
+- Added cross-links to `[[epiphenomenalism]]` and `[[causal-closure]]`
 - Expanded AI section to include a third interpretation, avoiding false dichotomy
 - Added `last_deep_review` frontmatter field
 

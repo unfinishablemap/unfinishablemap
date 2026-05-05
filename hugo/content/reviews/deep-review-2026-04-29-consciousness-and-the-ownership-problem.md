@@ -27,7 +27,7 @@ topics: []
 None.
 
 ### Medium Issues Found
-- **Cross-link asymmetry**: `[vertiginous-question](/topics/vertiginous-question/)` listed in frontmatter `related_articles` but missing from Further Reading. This is the closest conceptual kin (Hellie's "why am I this person rather than another?" maps directly onto "why does this experience belong to me rather than to no one"). Resolution: Added to Further Reading with one-line gloss.
+- **Cross-link asymmetry**: `[[vertiginous-question]]` listed in frontmatter `related_articles` but missing from Further Reading. This is the closest conceptual kin (Hellie's "why am I this person rather than another?" maps directly onto "why does this experience belong to me rather than to no one"). Resolution: Added to Further Reading with one-line gloss.
 
 ### Low Issues Found
 - Functionalism critique remains question-begging to a committed functionalist — bedrock disagreement (confirmed across four reviews).
@@ -67,7 +67,7 @@ None.
 - New indexical-gap cross-link in MWI section — tight integration with the indexical-identity article
 
 ### Enhancements Made
-- Added `[vertiginous-question](/topics/vertiginous-question/)` to Further Reading with one-line gloss noting Hellie's framing
+- Added `[[vertiginous-question]]` to Further Reading with one-line gloss noting Hellie's framing
 
 ### Cross-links Added
 - [vertiginous-question](/topics/vertiginous-question/) (Further Reading)

@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 21:18:00+00:00
+ai_modified: 2026-05-05 22:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 22:16 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/birch-edge-of-sentience-and-the-five-tier-scale]]
+- **Source review**: [[reviews/pessimistic-2026-05-05]] (seven issues; three at high/medium-high severity)
+- **Words touched**: ~600 (replaced ~200; added ~400) — within scope estimate
+- **Changes**:
+  - Issue 1 (high): Removed LLM "live hypothesis" tier projection from verdict table and closing paragraph; replaced with explicit "outside the scheme — run-ahead is action-layer posture, licenses no evidential-tier placement" and prose making clear the run-ahead principle is not a probability claim. Cured the article's own worked example of possibility/probability slippage.
+  - Issue 2 (medium-high): Renamed subsection to "Metaphysical and Procedural Layers"; removed Birch's biographical 10% non-materialist estimate; engaged Schwitzgebel & Sinnott-Armstrong (2025) and O'Brien (2025) on democratic deliberation; distinguished the eight-indicator empirical apparatus (tenet-stable in the strong sense) from the third foundational principle (conditionally portable). Tightened the Relation-to-Site-Perspective section accordingly.
+  - Issue 3 (medium): Sharpened convergences section — replaced "share more structural commitments than is initially visible" with concrete "share four structural commitments"; rewrote asymmetric-risk paragraph to acknowledge opposite failure modes (Birch fights false negatives at action layer; the Map fights false positives at description layer). The complementarity claim is now stronger because it acknowledges the schemes run in different directions.
+  - Issue 4 (low-medium): Softened *C. elegans* verdict-table cell to register Birch's ambivalence about IP-vs-below-IP placement.
+  - Issue 5 (low): Installed body citations for Birch (2022) *Noûs* in anti-parsimony convergence and SEP "Animal Consciousness" in recognised-sentient consensus claim. Both orphans resolved.
+  - Issue 6 (medium): Expanded aggregation paragraph from gesture to substantive engagement — explained how *speculative integration* blocks probability-coded sentience claims, *live hypothesis* discourages them, and *realistic possibility (contested)* under-specifies aggregation inputs, providing a principled stopping-point for retreat from radical-aggregation conclusions.
+  - Issue 7 (medium): Distinguished modal possibility (Map's tenet-register: compatibility) from probabilistic possibility (Birch's "credible, non-negligible possibility"). Reframed convergence as second-order (against shared slippage) rather than first-order (same conceptual move).
+- **Reasoning-mode classification**: No new direct-refutation passages added. Engagement with Schwitzgebel & Sinnott-Armstrong and O'Brien is honest framework-internal noting at the procedural layer (Mode Three — framework-boundary marking). No editor-vocabulary leakage.
+- **Style audit**: No "This is not X. It is Y." cliché violations introduced.
+- **Frontmatter**: `ai_modified` updated to 2026-05-05T22:16:00+00:00; `ai_contribution: 100` preserved.
+- **Published**: yes (article was already published; refinement preserves publication state)
 
 ## 2026-05-05 21:18 UTC - pessimistic-review
 - **Status**: Success

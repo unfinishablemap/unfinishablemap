@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **C1: Broken wikilink** (line 203): `[conservation laws](/concepts/conservation-laws-and-mental-causation/)` linked to a non-existent file. The actual slug is `conservation-laws-and-mental-causation`. **Resolution**: Fixed to `[conservation laws](/concepts/conservation-laws-and-mental-causation/)`.
+- **C1: Broken wikilink** (line 203): `[[conservation-laws-and-mind|conservation laws]]` linked to a non-existent file. The actual slug is `conservation-laws-and-mental-causation`. **Resolution**: Fixed to `[[conservation-laws-and-mental-causation|conservation laws]]`.
 
 ### Medium Issues Found
 

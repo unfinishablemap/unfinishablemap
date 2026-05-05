@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - [Description overstated "solving" exclusion problem]: Changed to "addressing" — philosophical problems are not definitively solved
 - [Zero inbound links — orphaned article]: Added 7 inbound cross-references from related articles (see Cross-links Added)
-- [Inconsistent `concepts/epiphenomenalism` path prefix in frontmatter and body]: Normalized to `[epiphenomenalism](/concepts/epiphenomenalism/)` throughout
+- [Inconsistent `concepts/epiphenomenalism` path prefix in frontmatter and body]: Normalized to `[[epiphenomenalism]]` throughout
 
 ### Counterarguments Considered
 - Eliminative materialist: Theory is empirically invisible by design — article already acknowledges honestly ("same predictive boat")
@@ -54,9 +54,9 @@ topics: []
 - Appropriate scope — doesn't try to replicate the full delegatory-dualism article
 
 ### Enhancements Made
-- Added `[observational-closure](/concepts/observational-closure/)` inline link in Observational Closure section
-- Expanded concepts frontmatter with `[downward-causation](/concepts/mental-causation-and-downward-causation/)`, `[agent-causation](/concepts/agent-causation/)`, `[observational-closure](/concepts/observational-closure/)`
-- Normalized `[epiphenomenalism](/concepts/epiphenomenalism/)` to `[epiphenomenalism](/concepts/epiphenomenalism/)` for consistency
+- Added `[[observational-closure]]` inline link in Observational Closure section
+- Expanded concepts frontmatter with `[[downward-causation]]`, `[[agent-causation]]`, `[[observational-closure]]`
+- Normalized `[[concepts/epiphenomenalism]]` to `[[epiphenomenalism]]` for consistency
 - Added Further Reading entries: observational-closure, downward-causation, agent-causation
 
 ### Cross-links Added (Orphan Integration)

@@ -30,8 +30,8 @@ Cross-review of dualism articles considering this article's position within the 
 None. Attribution accuracy, qualifier preservation, source/Map separation, and self-contradiction checks all pass. No issues from previous review have regressed.
 
 ### Medium Issues Found
-1. **Missing `[dualism](/concepts/dualism/)` concept in frontmatter and body**: The article is fundamentally about dualism but lacked a link to the parent concept page, which itself links back to this article.
-   - **Resolution**: Added `[dualism](/concepts/dualism/)` to concepts frontmatter and added body wikilink at the Cutter quote ("march on to [dualism](/concepts/dualism/)").
+1. **Missing `[[dualism]]` concept in frontmatter and body**: The article is fundamentally about dualism but lacked a link to the parent concept page, which itself links back to this article.
+   - **Resolution**: Added `[[dualism]]` to concepts frontmatter and added body wikilink at the Cutter quote ("march on to [dualism](/concepts/dualism/)").
 
 ### Counterarguments Considered
 All six adversarial personas re-engaged with cross-review focus:
@@ -70,11 +70,11 @@ All six adversarial personas re-engaged with cross-review focus:
 - Effective Cutter quote at structural turning point
 
 ### Enhancements Made
-1. Added `[dualism](/concepts/dualism/)` to concepts frontmatter for taxonomic completeness
-2. Added body wikilink to `[dualism](/concepts/dualism/)` at the Cutter quote
+1. Added `[[dualism]]` to concepts frontmatter for taxonomic completeness
+2. Added body wikilink to `[[dualism]]` at the Cutter quote
 
 ### Cross-links Added
-- `[dualism](/concepts/dualism/)` — parent concept page
+- `[[dualism]]` — parent concept page
 
 ## Length Management
 
@@ -93,7 +93,7 @@ This is the second deep review within a single day. The article was well-constru
 
 **The article has reached stability.** Future reviews should not re-flag:
 - Bedrock philosophical disagreements (eliminativism, physicalism, MWI, empiricism, no-self) — all acknowledged in the first review
-- Cross-linking completeness — now comprehensive with the addition of `[dualism](/concepts/dualism/)`
+- Cross-linking completeness — now comprehensive with the addition of `[[dualism]]`
 - Attribution accuracy — verified twice, consistent across the ecosystem
 
 The only future enhancement opportunity noted in the first review (empirical distinguishability section) remains valid but is not urgent. The article functions well as a comparative piece without it.

@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **C1: Two broken wikilinks to archived article**: `[why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/)` appeared in body text (line 109) and Further Reading (line 211). This article was archived and superseded by `quantum-holism-and-phenomenal-unity`. Resolution: Updated both links and the `related_articles` frontmatter field.
+- **C1: Two broken wikilinks to archived article**: `[[why-phenomenal-unity-resists-explanation]]` appeared in body text (line 109) and Further Reading (line 211). This article was archived and superseded by `quantum-holism-and-phenomenal-unity`. Resolution: Updated both links and the `related_articles` frontmatter field.
 
 ### Medium Issues Found
 - **M1: Crick & Koch citation range inaccuracy**: Article cited "40-70 Hz gamma oscillations" attributed to Crick & Koch (1990), but their paper discusses ~40 Hz specifically. The 40-70 Hz range reflects later literature. Resolution: Changed to "~40 Hz" to match the cited source.

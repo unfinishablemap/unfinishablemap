@@ -31,7 +31,7 @@ None. Article content is stable from the earlier review.
 
 ### Medium Issues Found
 - **Zero inbound links**: The article linked out to 7 articles but received zero inbound links from any content file. This made the article unreachable through site navigation. **Resolution**: Added inbound links from 6 related articles (see below).
-- **Misattributed link in bandwidth-problem-mental-causation.md**: Line 64 referenced "asymmetric bandwidth of consciousness" but linked to `[bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)` instead of the dedicated concept article. **Resolution**: Fixed link target to `[asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/)`.
+- **Misattributed link in bandwidth-problem-mental-causation.md**: Line 64 referenced "asymmetric bandwidth of consciousness" but linked to `[[bandwidth-of-consciousness]]` instead of the dedicated concept article. **Resolution**: Fixed link target to `[[asymmetric-bandwidth-consciousness]]`.
 
 ### Counterarguments Considered
 None new — content unchanged from earlier review.
@@ -46,7 +46,7 @@ None to the article itself — focus was on site integration.
 
 ### Cross-links Added (Inbound)
 
-Six articles now link to `[asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/)`:
+Six articles now link to `[[asymmetric-bandwidth-consciousness]]`:
 
 1. **bandwidth-of-consciousness.md** — Added to concepts frontmatter and Further Reading section as the dedicated concept article for the asymmetry
 2. **bandwidth-problem-mental-causation.md** — Fixed existing inline reference (was pointing to wrong target) and added to concepts frontmatter

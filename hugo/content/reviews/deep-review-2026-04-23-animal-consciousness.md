@@ -96,7 +96,7 @@ All wikilinks from the previous review still resolve:
 
 ## Remaining Items
 
-- **Site-wide**: `[metarepresentation](/concepts/metacognition/)` concept page still needed (61+ files link to it) — carried forward from previous reviews.
+- **Site-wide**: `[[metarepresentation]]` concept page still needed (61+ files link to it) — carried forward from previous reviews.
 - **Length**: Article sits at 3650 words (22% over 3000 soft threshold). The recent additions (Hassin counter-citation, molecular-scale qualifier, alternative-reading paragraph) were substantive and worth keeping. Not yet at hard threshold (4000). Defer dedicated condensation unless further additions push toward hard threshold.
 
 ## Stability Notes

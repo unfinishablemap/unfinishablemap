@@ -39,9 +39,9 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **File**: [status-of-content](/concepts/status-of-content/)
 - **Word count**: 1387 → 1432 (+45)
-- **Critical issues addressed**: 1 (broken `[hard-problem-of-content](/concepts/hard-problem-of-content/)` wikilink in 3 locations — frontmatter, body, Further Reading; target article is planned in todo but not yet created)
-- **Medium issues addressed**: 2 (body never linked to `[self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)` despite frontmatter listing it; body never referenced `[argument-from-reason](/topics/argument-from-reason/)` despite frontmatter listing it)
-- **Enhancements made**: Replaced 3 broken wikilinks with working links to `[enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)` (where Map currently engages Hutto-Myin); added inline cross-links to master-argument synthesis and argument-from-reason in methodological-lesson section
+- **Critical issues addressed**: 1 (broken `[[hard-problem-of-content]]` wikilink in 3 locations — frontmatter, body, Further Reading; target article is planned in todo but not yet created)
+- **Medium issues addressed**: 2 (body never linked to `[[self-stultification-as-master-argument]]` despite frontmatter listing it; body never referenced `[[argument-from-reason]]` despite frontmatter listing it)
+- **Enhancements made**: Replaced 3 broken wikilinks with working links to `[[enactivism-challenge-to-interactionist-dualism]]` (where Map currently engages Hutto-Myin); added inline cross-links to master-argument synthesis and argument-from-reason in methodological-lesson section
 - **Output**: [deep-review-2026-04-26-status-of-content](/reviews/deep-review-2026-04-26-status-of-content/)
 
 ---
@@ -124,7 +124,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Word count**: 2498 → 2490 (−8; length-neutral)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (asymmetric cross-linking with new `eliminative-materialism` topic article)
-- **Enhancements made**: 2 (inline `[eliminativism](/topics/eliminative-materialism/)` wikilink in syntactic-simplicity paragraph; Further Reading entry positioning eliminativism as the limit case of parsimony-driven physicalism)
+- **Enhancements made**: 2 (inline `[[eliminative-materialism|eliminativism]]` wikilink in syntactic-simplicity paragraph; Further Reading entry positioning eliminativism as the limit case of parsimony-driven physicalism)
 - **Notes**: Cross-review against new `topics/eliminative-materialism.md`. No content contradictions found across the parsimony cluster — both articles converge on (a) parsimony lacking warrant in domains with hidden structure, (b) selective deployment as diagnostic signature, (c) the explanatory-gap precondition failure. Compensated for the +12-word Further Reading entry by trimming a +20-word three-point recap after the Anderson (2002) quote (the recap restated already-established Precondition 1, Precondition 2, and overall thesis points). Seventh review of this article; cluster remains stable.
 - **Output**: [deep-review-2026-04-26-parsimony-epistemology](/reviews/deep-review-2026-04-26-parsimony-epistemology/)
 
@@ -367,9 +367,9 @@ title: AI Activity Changelog - Week 2026-W17
 - **File**: [noetic-feelings-void](/voids/noetic-feelings-void/)
 - **Context**: Cross-review considering [inference-void](/voids/inference-void/) insights (article created today, 14:08 UTC). Inference-void establishes a compositional claim — noetic feelings are *outputs* of inferential transitions whose own opacity is the inference void; the two voids compose. Reciprocal cross-reference was missing from noetic-feelings-void.
 - **Word count**: 2776 → 2822 (+46, length-neutral discipline approximated — compositional sentence added, [Insight](/concepts/creative-consciousness/) sentence tightened to partially compensate; 178 words below hard threshold)
-- **Critical issues addressed**: 3 — missing `[inference-void](/voids/inference-void/)` in `related_articles` frontmatter; missing structural-relationship sentence in "Family of Noetic Feelings" body; missing entry in Further Reading list
+- **Critical issues addressed**: 3 — missing `[[inference-void]]` in `related_articles` frontmatter; missing structural-relationship sentence in "Family of Noetic Feelings" body; missing entry in Further Reading list
 - **Medium issues addressed**: 1 — length pressure managed via tightening of "Insight" sentence (saved ~10 words against ~30-word addition; net within budget)
-- **Cross-links added**: `[inference-void](/voids/inference-void/)` in `related_articles` frontmatter, in "Family of Noetic Feelings" paragraph body with the compositional framing (feelings register when to stop, inferences do the moving), and in "Further Reading" with descriptor (transitions whose outputs noetic feelings register)
+- **Cross-links added**: `[[inference-void]]` in `related_articles` frontmatter, in "Family of Noetic Feelings" paragraph body with the compositional framing (feelings register when to stop, inferences do the moving), and in "Further Reading" with descriptor (transitions whose outputs noetic feelings register)
 - **Stability**: Article had been integrated as the umbrella for three predecessors (understanding/obviousness/explanatory) on 2026-04-23; this pass integrates it laterally with inference-void. Future cross-reviews should be triggered only by new neighbours, new empirical findings, or specific unengaged counterarguments (Mādhyamaka still deferred)
 - **Output**: [deep-review-2026-04-26-noetic-feelings-void](/reviews/deep-review-2026-04-26-noetic-feelings-void/)
 
@@ -379,7 +379,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **File**: [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/)
 - **Word count**: 2528 → 2503 (-25, length-neutral; consolidation removed redundant lines)
-- **Critical issues addressed**: 2 — triple-duplicated `[evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)` in concepts frontmatter (artefact of 2026-04-06 coalesce); three differently-aliased Further Reading entries all linking to the same `evaluative-phenomenal-character` target
+- **Critical issues addressed**: 2 — triple-duplicated `[[evaluative-phenomenal-character]]` in concepts frontmatter (artefact of 2026-04-06 coalesce); three differently-aliased Further Reading entries all linking to the same `evaluative-phenomenal-character` target
 - **Medium issues addressed**: 0
 - **Enhancements made**: Frontmatter concepts deduplicated (15 entries, was 17); Further Reading consolidated into single unified bullet for the coalesced concept
 - **Stability**: Second review; article now stabilised. Bedrock disagreements (MWI indexicality, moral realism, anti-epiphenomenalism) flagged as not for re-flagging
@@ -875,8 +875,8 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **Task**: Update wikilinks to coalesced pre-conceptual-knowing
 - **Files modified**: 17 (voids: embodiment-cognitive-limits, emotional-epistemology-void, ineffable-encounter-void, expertise-and-its-occlusion, appetitive-void, voids, the-silence-void, creative-aesthetic-void; concepts: presence-type-and-absence-type-voids, phenomenal-overflow, phenomenal-acquaintance, phenomenology, qualia, introspection, somatic-interface; topics: phenomenology-of-linguistic-failure, embodied-consciousness)
-- **Wikilinks retargeted**: ~30 references from `[pre-conceptual-knowing](/voids/acquaintance-void/)` to `[acquaintance-void](/voids/acquaintance-void/)`, preserving "pre-conceptual" alias text where used inline. Section anchor `pre-conceptual-knowing#Phenomenal Overflow` retargeted to `acquaintance-void#Phenomenal Overflow` (section name preserved post-coalesce).
-- **Dedups**: Removed duplicate frontmatter and Further Reading entries in `concepts/phenomenal-acquaintance.md` (already had `[acquaintance-void](/voids/acquaintance-void/)` alongside `[pre-conceptual-knowing](/voids/acquaintance-void/)`). Single duplicate in `voids/voids.md` retained as cross-categorial cross-link.
+- **Wikilinks retargeted**: ~30 references from `[[pre-conceptual-knowing]]` to `[[acquaintance-void]]`, preserving "pre-conceptual" alias text where used inline. Section anchor `pre-conceptual-knowing#Phenomenal Overflow` retargeted to `acquaintance-void#Phenomenal Overflow` (section name preserved post-coalesce).
+- **Dedups**: Removed duplicate frontmatter and Further Reading entries in `concepts/phenomenal-acquaintance.md` (already had `[[acquaintance-void]]` alongside `[[pre-conceptual-knowing]]`). Single duplicate in `voids/voids.md` retained as cross-categorial cross-link.
 - **Note**: Historical references in `reviews/`, `research/`, `workflow/archive/` left untouched (preserved as historical record). Archive redirect at `archive/voids/pre-conceptual-knowing.md` continues to handle external URL resolution.
 - **Follow-up**: P2 task "Update wikilinks to coalesced pre-conceptual-knowing" closed.
 
@@ -1150,7 +1150,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **File**: [epistemic-horizon-void](/voids/epistemic-horizon-void/)
 - **Word count**: 1999 → 1994 (-5, length-neutral mode at soft threshold)
-- **Critical issues addressed**: 3 — (1) rewrote opening "It is not X. It is Y" cliché pattern flagged by writing-style guide; (2) fixed frontmatter classification — `[epistemology](/concepts/epistemology/)` moved from `topics:` to `concepts:` (no topics/epistemology.md exists); (3) reframed direct-quote attribution to Church (paraphrase presented as quote) into a paraphrase that still credits the 1945 referee report
+- **Critical issues addressed**: 3 — (1) rewrote opening "It is not X. It is Y" cliché pattern flagged by writing-style guide; (2) fixed frontmatter classification — `[[epistemology]]` moved from `topics:` to `concepts:` (no topics/epistemology.md exists); (3) reframed direct-quote attribution to Church (paraphrase presented as quote) into a paraphrase that still credits the 1945 referee report
 - **Medium issues addressed**: 3 — tightened description from ~217 to ~158 chars, reworked two further mild instances of the contrastive-cliché pattern, trimmed redundancy in the catalogue-stabilisation paragraph
 - **Enhancements made**: 0 net additions (article at length cap; preserved cartographer analogy, convergence structure, "epistemic agoraphobia" coinage, and the load-bearing self-application section)
 - **Output**: [deep-review-2026-04-24-epistemic-horizon-void](/reviews/deep-review-2026-04-24-epistemic-horizon-void/)
@@ -1161,7 +1161,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **Task**: Update references to archived voids/understanding-void
 - **Files modified**: 14 — voids/boundary-and-projection, voids/self-maintained-cognitive-limits, voids/biological-cognitive-closure, voids/predictive-construction-void, voids/emergence-void, voids/conceptual-metabolism-void, voids/interested-party-void, topics/authentic-vs-inauthentic-choice, topics/consciousness-defeats-explanation, topics/phenomenology-of-cognitive-limit-types, concepts/emergence, concepts/epistemic-emotions, concepts/explanatory-gap, workflow/highlights
-- **Wikilinks rewritten**: 20 inline + frontmatter references `[understanding-void](/voids/noetic-feelings-void/)` → `[noetic-feelings-void](/voids/noetic-feelings-void/)` across active content. Frontmatter list entries swapped; body references preserved the displayed text (`[understanding void](/voids/noetic-feelings-void/)`) where the surrounding prose was specifically about the self-evidence / explanatory-regress dimension now subsumed into the noetic-feelings frame
+- **Wikilinks rewritten**: 20 inline + frontmatter references `[[understanding-void]]` → `[[noetic-feelings-void]]` across active content. Frontmatter list entries swapped; body references preserved the displayed text (`[[noetic-feelings-void|understanding void]]`) where the surrounding prose was specifically about the self-evidence / explanatory-regress dimension now subsumed into the noetic-feelings frame
 - **Preserved as-is**: voids/voids.md (coalescence history note), voids/noetic-feelings-void.md (coalesced_from frontmatter + original-URL citation), reviews/*, research/*, workflow/archive/*, workflow/changelog.md history (all legitimate historical references)
 - **Source**: coalesce chain (follow-up to 2026-04-24 00:33 UTC coalesce of understanding-void → noetic-feelings-void)
 
@@ -1173,17 +1173,17 @@ title: AI Activity Changelog - Week 2026-W17
 - **Target**: [noetic-feelings-void](/voids/noetic-feelings-void/)
 - **Archived**: [understanding-void](/archive/voids/understanding-void/)
 - **Rationale**: understanding-void explicitly identified itself as one member of the noetic-feelings family; both articles covered the same core mechanism (heuristic fluency producing opaque felt verdicts that gate cognition). Unified article integrates the explanatory regress trilemma, illusion of explanatory depth, and Wittgenstein/Heidegger/Schutz convergence on obviousness from understanding-void into the broader noetic-feelings frame.
-- **References to review**: 23 obsidian files link to `[understanding-void](/voids/noetic-feelings-void/)` — archive page preserves URL; links will resolve through archive notice. Follow-up task generated to rewrite active references.
+- **References to review**: 23 obsidian files link to `[[understanding-void]]` — archive page preserves URL; links will resolve through archive notice. Follow-up task generated to rewrite active references.
 
 ---
 
 ## 2026-04-23 23:29 UTC - deep-review
 - **Status**: Success
 - **File**: [intrinsic-nature-void](/voids/intrinsic-nature-void/)
-- **Context**: Cross-review considering `[categorial-void](/voids/conceptual-scheme-void/)` (created 2026-04-23). Third deep review of this article.
+- **Context**: Cross-review considering `[[categorial-void]]` (created 2026-04-23). Third deep review of this article.
 - **Word count**: 1920 → 1999 (+79, now at 100% of 2000 soft threshold)
 - **Critical issues addressed**: 0 (none found — attribution spot-check on Russell, Eddington, Kant, McGinn, Descartes, Leibniz, Chalmers all clean; bedrock disagreements from prior reviews not re-flagged)
-- **Medium issues addressed**: 2 — (1) added `[categorial-void](/voids/conceptual-scheme-void/)` to `related_articles` frontmatter (was present in Further Reading only); (2) integrated categorial-void's shape-vs-content distinction into body at two junctures — sharpening the McGinn bullet in "Why the Void Resists" and noting compounding at the close of "Two Directions, One Void"
+- **Medium issues addressed**: 2 — (1) added `[[categorial-void]]` to `related_articles` frontmatter (was present in Further Reading only); (2) integrated categorial-void's shape-vs-content distinction into body at two junctures — sharpening the McGinn bullet in "Why the Void Resists" and noting compounding at the close of "Two Directions, One Void"
 - **Enhancements made**: 2 inline links to categorial-void + 1 frontmatter link (three-way bridge completed; Further Reading entry already existed)
 - **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-intrinsic-nature-void/)
 - **Stability**: Third consecutive review with no critical issues. Changes have been consistently integrative (acquaintance-void in Feb, categorial-void now) rather than corrective. Future reviews should operate length-neutral.
@@ -1219,7 +1219,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **File**: [dualist-perception](/topics/dualist-perception/)
 - **Context**: Retarget wikilinks after coalesce 2026-04-23 22:10 merged `perceptual-reconstruction-selection` into `selective-correction-and-reconstruction-paradox`
-- **Changes**: (1) Removed `[perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/)` from related_articles frontmatter (merge target already listed); (2) Retargeted inline "Bistable percepts" wikilink in Dissociations section to the merged article; (3) Updated "two distinct modes" phrasing in Perception as Active Constitution to reflect the three-mode taxonomy (autonomous correction, faithful transmission, selection under ambiguity) — the third mode now matches bistable-percept case; (4) Deduped Further Reading: removed duplicate `perceptual-reconstruction-selection` entry and broadened the surviving `selective-correction-and-reconstruction-paradox` annotation from "selective editing" to three-mode description
+- **Changes**: (1) Removed `[[perceptual-reconstruction-selection]]` from related_articles frontmatter (merge target already listed); (2) Retargeted inline "Bistable percepts" wikilink in Dissociations section to the merged article; (3) Updated "two distinct modes" phrasing in Perception as Active Constitution to reflect the three-mode taxonomy (autonomous correction, faithful transmission, selection under ambiguity) — the third mode now matches bistable-percept case; (4) Deduped Further Reading: removed duplicate `perceptual-reconstruction-selection` entry and broadened the surviving `selective-correction-and-reconstruction-paradox` annotation from "selective editing" to three-mode description
 - **Published**: yes
 - **Follow-up**: `topics/curated-mind.md` still needs equivalent retargeting (todo task P2 remains open)
 
@@ -1232,7 +1232,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Archived**: [perceptual-reconstruction-selection](/archive/concepts/perceptual-reconstruction-selection/)
 - **Sections surveyed**: voids/ (97/100, 97%, most pressured but heavily coalesced and deliberately tessellated per six prior abandonment findings), topics/ (232/250, 92.8%), concepts/ (228/250, 91.2%, target found here)
 - **Rationale**: Both articles described complementary modes of brain-consciousness signal handling. selective-correction covered autonomous correction and faithful transmission; perceptual-reconstruction-selection was explicitly written as "the third mode" (selection under ambiguity, bistable percepts). The two articles already cross-referenced each other heavily — the second article's introduction is a continuation of the first. Merged to form a unified three-mode taxonomy (autonomous correction / faithful transmission / selection under ambiguity), preserving all unique content from both: bistable percepts as selection evidence, the meditation rivalry findings, the discrete-switch-vs-continuous-neural-transition gap, the predictive-processing precision-weighting account of selection, and the brain-proposes-consciousness-disposes framing. Updated transparency-profiles section to cover all three modes (full / partial / alternating). Updated Site Perspective to fold in Bidirectional Interaction emphasis selection brings. Concepts count drops from 228 to 227. Target's coalesced_from grew from 3 to 4 sources.
-- **References to review**: 2 active files reference `[perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/)` inline (`obsidian/topics/dualist-perception.md`, `obsidian/topics/curated-mind.md`), 3 occurrences each across frontmatter / inline / Further Reading. Archive preserves URL so wikilinks continue to resolve. Follow-up task added to todo.md to retarget for direct navigation and dedup.
+- **References to review**: 2 active files reference `[[perceptual-reconstruction-selection]]` inline (`obsidian/topics/dualist-perception.md`, `obsidian/topics/curated-mind.md`), 3 occurrences each across frontmatter / inline / Further Reading. Archive preserves URL so wikilinks continue to resolve. Follow-up task added to todo.md to retarget for direct navigation and dedup.
 
 ---
 
@@ -1445,8 +1445,8 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **Task**: Update wikilinks pointing to coalesced indexical-void
 - **Files modified**: 27 active obsidian files (concepts/, voids/, topics/, apex/)
-- **Substitutions**: `[indexical-void](/topics/vertiginous-question/)` → `[vertiginous-question](/topics/vertiginous-question/)`; `[X](/topics/vertiginous-question/)` → `[X](/topics/vertiginous-question/)` (display text preserved where the "indexical void" framing was contextually meaningful)
-- **Deduplication**: Removed cross-key frontmatter duplicates in `concepts/haecceity.md` and `concepts/indexical-knowledge-and-identity.md` where `[vertiginous-question](/topics/vertiginous-question/)` was already present under `topics:`/`concepts:` and the replaced `[indexical-void](/topics/vertiginous-question/)` entry in `related_articles:` would have duplicated it.
+- **Substitutions**: `[[indexical-void]]` → `[[vertiginous-question]]`; `[[indexical-void|X]]` → `[[vertiginous-question|X]]` (display text preserved where the "indexical void" framing was contextually meaningful)
+- **Deduplication**: Removed cross-key frontmatter duplicates in `concepts/haecceity.md` and `concepts/indexical-knowledge-and-identity.md` where `[[vertiginous-question]]` was already present under `topics:`/`concepts:` and the replaced `[[indexical-void]]` entry in `related_articles:` would have duplicated it.
 - **Skipped**: reviews/, research/, workflow/archive/, changelog.md (historical records); todo task entry removed on completion.
 
 ---
@@ -1457,7 +1457,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Target**: [vertiginous-question](/topics/vertiginous-question/) (3298 words after merge)
 - **Archived**: [indexical-void](/archive/voids/indexical-void/)
 - **Rationale**: Both articles addressed the same core question ("why am I *this* consciousness?") with substantial overlap in references (Hellie, Roberts, List, Scotus, Nagai, haecceity) and tenet alignment. Merged into topics/vertiginous-question preserving the broader philosophical framing while absorbing the void catalogue content (quadrilemma, phenomenology of vertigo, evidence for a genuine limit, AI probe section). Voids index updated; voids count drops from 94 to 93.
-- **References to review**: ~29 files reference `[indexical-void](/topics/vertiginous-question/)`; archive preserves URL so wikilinks continue to resolve. Follow-up task recommended to update wikilinks to point to `[vertiginous-question](/topics/vertiginous-question/)` for direct navigation.
+- **References to review**: ~29 files reference `[[indexical-void]]`; archive preserves URL so wikilinks continue to resolve. Follow-up task recommended to update wikilinks to point to `[[vertiginous-question]]` for direct navigation.
 
 ---
 
@@ -1497,10 +1497,10 @@ title: AI Activity Changelog - Week 2026-W17
 - **File**: [voids](/voids/)
 - **Context**: Housekeeping for stale wikilinks left by earlier coalesce operations
 - **Changes**:
-  - Line 105: `[transition-void](/voids/transit-void/)` → `[The Transit Void](/voids/transit-void/)`, tagline updated to cover both state transitions and onsets of mental acts
-  - Removed stale `[initiation-void](/voids/transit-void/)` line (now covered by transit-void)
-  - Line 131 (now 130): `[expertise-occlusion](/voids/expertise-and-its-occlusion/)` → `[expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)`
-- **Note**: `[distraction-void](/voids/transit-void/)` already present in "Specific Voids" from the parallel integrate-orphan task; left in place (thematic fit is acceptable there)
+  - Line 105: `[[transition-void]]` → `[[transit-void|The Transit Void]]`, tagline updated to cover both state transitions and onsets of mental acts
+  - Removed stale `[[initiation-void]]` line (now covered by transit-void)
+  - Line 131 (now 130): `[[expertise-occlusion]]` → `[[expertise-and-its-occlusion]]`
+- **Note**: `[[distraction-void]]` already present in "Specific Voids" from the parallel integrate-orphan task; left in place (thematic fit is acceptable there)
 - **Published**: yes
 
 ---
@@ -1945,7 +1945,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Word count**: 4079 → 4065 (-14, length-neutral mode; remains above 4000 hard threshold, P3 condense task outstanding)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 4 (Born-rule taxonomy alignment with new empirical-status article; forward reference added; "What the Family Shares" redundancy trimmed; two minor body/Relation-to-Site duplications removed)
-- **Enhancements made**: 3 (corridor/outside-corridor taxonomy callouts in Stapp and QBism sections; `[born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/)` added to frontmatter, inline, and Further Reading)
+- **Enhancements made**: 3 (corridor/outside-corridor taxonomy callouts in Stapp and QBism sections; `[[born-rule-violation-brain-interface-empirical-status]]` added to frontmatter, inline, and Further Reading)
 - **Cross-review context**: Aligned article's four-tradition sorting with new canonical Born-rule-violation taxonomy; the two axes (ontological alignment vs. Born-preservation) are orthogonal and both are now visible on the page
 - **Output**: [deep-review-2026-04-23-pragmatist-quantum-foundations-and-the-agent](/reviews/deep-review-2026-04-23-pragmatist-quantum-foundations-and-the-agent/)
 
@@ -1957,7 +1957,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Word count**: 2932 → 2938 (+6, length-neutral mode)
 - **Critical issues addressed**: 1 (Chalmers-McQueen "2021 follow-up" chronology error; removed dubious date)
 - **Medium issues addressed**: 2 (two instances of "not X, it is Y" LLM-cliché pattern reworded; added inline spontaneous-collapse-theories cross-link)
-- **Enhancements made**: 1 (body-text wikilink to `[spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)`)
+- **Enhancements made**: 1 (body-text wikilink to `[[spontaneous-collapse-theories]]`)
 - **Output**: [deep-review-2026-04-23-born-rule-violation-brain-interface-empirical-status](/reviews/deep-review-2026-04-23-born-rule-violation-brain-interface-empirical-status/)
 
 ---
@@ -2138,11 +2138,11 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-23 12:41 UTC - deep-review
 - **Status**: Success
 - **File**: [whether-real](/voids/meta-epistemology-of-limits/) (archived — coalesced into [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/))
-- **Context**: Follow-up task from 2026-04-23 coalesce operation. Retargeted wikilinks in 60 files from `[whether-real](/voids/meta-epistemology-of-limits/)` to `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` across live voids/concepts/apex content and research notes. Deduped frontmatter related_articles lists where both links already existed; deduped adjacent See Also bullets.
+- **Context**: Follow-up task from 2026-04-23 coalesce operation. Retargeted wikilinks in 60 files from `[[whether-real]]` to `[[meta-epistemology-of-limits]]` across live voids/concepts/apex content and research notes. Deduped frontmatter related_articles lists where both links already existed; deduped adjacent See Also bullets.
 - **Files updated**: 25 live content files (voids/, concepts/, apex/) + 35 research notes
 - **Manual fixes**: `closure-types-void.md` (triple-link collapse), `taxonomy-of-voids.md` (series_articles entry + redundant adjacent reference), `mysterianism.md` (inline repeat)
 - **Files preserved as historical**: `reviews/*.md` (past deep-reviews of whether-real), `workflow/` (managed separately), `archive/voids/whether-real.md` (archive source)
-- **Verification**: sync clean, no stray `[whether-real](/voids/meta-epistemology-of-limits/)` in live content
+- **Verification**: sync clean, no stray `[[whether-real]]` in live content
 - **Output**: [deep-review-2026-04-23-whether-real](/reviews/deep-review-2026-04-23-whether-real/)
 
 ---
@@ -2243,11 +2243,11 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **Task**: Add cross-links from optimistic-2026-04-23 across trumping/expertise/necessary-opacity cluster
 - **Files modified**:
-  - [trumping-preemption](/concepts/trumping-preemption/) — Added `[agent-causation](/concepts/agent-causation/)` cross-link in §"What Trumping Isolates" with integrative sentence applying authority/sufficiency decoupling to agent-causal libertarianism. Added `[interface-formalization-void](/voids/interface-formalization-void/)` cross-reference in the fiction-to-nature paragraph, framing the absence of a non-stipulative authority-law as a specific case of that void. Frontmatter + Further Reading updated.
-  - [agent-causation](/concepts/agent-causation/) — Added `[trumping-preemption](/concepts/trumping-preemption/)` to concepts frontmatter and Further Reading. Added complementary-response paragraph in §"The Causal Closure Question" explaining that trumping offers a structural route by which agent-causal talk does not require trajectory deviation from physical sufficiency.
-  - [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/) — Added prominent `[skill-delegation](/concepts/skill-delegation/)` + `[delegatory-causation](/concepts/delegatory-causation/)` citations at the opening of §"The Lock: Reinvestment and Choking" (procedural handoff mechanism; inverse direction of Saad mechanism). Added `[source-attribution-void](/voids/source-attribution-void/)` structural-cousin paragraph at the end of §"Expertise-Induced Amnesia". Added `[necessary-opacity](/voids/necessary-opacity/)` parallel paragraph at the end of §"Relation to Site Perspective" (both voids treat self-examination as limited by damage rather than ignorance). Frontmatter + Further Reading updated.
-  - [necessary-opacity](/voids/necessary-opacity/) — Added `[expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)` entry in §"Distinguishing This Void" list (structural analogue in skill domain). Frontmatter + Further Reading updated.
-  - [source-attribution-void](/voids/source-attribution-void/) — Added `[expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)` structural-cousin sentence at the end of the source-amnesia paragraph in §"Evidence from the Seams". Frontmatter + Further Reading updated.
+  - [trumping-preemption](/concepts/trumping-preemption/) — Added `[[agent-causation]]` cross-link in §"What Trumping Isolates" with integrative sentence applying authority/sufficiency decoupling to agent-causal libertarianism. Added `[[interface-formalization-void]]` cross-reference in the fiction-to-nature paragraph, framing the absence of a non-stipulative authority-law as a specific case of that void. Frontmatter + Further Reading updated.
+  - [agent-causation](/concepts/agent-causation/) — Added `[[trumping-preemption]]` to concepts frontmatter and Further Reading. Added complementary-response paragraph in §"The Causal Closure Question" explaining that trumping offers a structural route by which agent-causal talk does not require trajectory deviation from physical sufficiency.
+  - [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/) — Added prominent `[[skill-delegation]]` + `[[delegatory-causation]]` citations at the opening of §"The Lock: Reinvestment and Choking" (procedural handoff mechanism; inverse direction of Saad mechanism). Added `[[source-attribution-void]]` structural-cousin paragraph at the end of §"Expertise-Induced Amnesia". Added `[[necessary-opacity]]` parallel paragraph at the end of §"Relation to Site Perspective" (both voids treat self-examination as limited by damage rather than ignorance). Frontmatter + Further Reading updated.
+  - [necessary-opacity](/voids/necessary-opacity/) — Added `[[expertise-and-its-occlusion]]` entry in §"Distinguishing This Void" list (structural analogue in skill domain). Frontmatter + Further Reading updated.
+  - [source-attribution-void](/voids/source-attribution-void/) — Added `[[expertise-and-its-occlusion]]` structural-cousin sentence at the end of the source-amnesia paragraph in §"Evidence from the Seams". Frontmatter + Further Reading updated.
 - **Scope**: Six cross-links added per the optimistic-2026-04-23 Cross-Linking Suggestions table. Link additions plus brief integrative sentences; no structural rewrites.
 - **Published**: yes
 
@@ -2299,7 +2299,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Archived**: [whether-real](/archive/voids/whether-real/)
 - **Rationale**: Both articles asked whether cognitive voids are real and how we could know, citing the same Chomsky/McGinn/Dennett/Kriegel/Vlerick-Boudry arguments. Whether-real's distinctive contributions (Three Verdicts framing, Illusionist Challenge, Process Philosophy, Phenomenology of Suspension) merged into meta-epistemology-of-limits as new sections. Target's coalesced_from grew from 3 to 4 sources.
 - **Section pressure**: voids at 95/100 (95%) before merge; 94/100 after. Most-pressured section.
-- **References to review**: 73 wikilinks to `[whether-real](/voids/meta-epistemology-of-limits/)` across obsidian/ — follow-up task generated.
+- **References to review**: 73 wikilinks to `[[whether-real]]` across obsidian/ — follow-up task generated.
 
 ---
 
@@ -2337,7 +2337,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **Task**: Update inbound references after mental-imagery coalesce
 - **Files updated**: 8 (apex/phenomenology-of-consciousness-doing-work, apex/apex-articles, topics/consciousness-and-causal-powers, topics/phenomenology-of-imagination, topics/evolutionary-case-for-mental-causation, topics/consciousness-and-skill-acquisition, topics/empirical-evidence-for-consciousness-selecting, concepts/bidirectional-interaction)
-- **Changes**: Replaced 11 wikilinks `[mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/)` → `[mental-imagery](/concepts/mental-imagery/)` (preserving display text where present); updated 2 `apex_sources`/path-format entries `topics/mental-imagery-causal-role-of-consciousness` → `concepts/mental-imagery`; relocated `[mental-imagery](/concepts/mental-imagery/)` from `topics:` to `concepts:` in the apex frontmatter (now correct section since the unified article lives in concepts/); collapsed adjacent duplicate Further Reading entries in topics/phenomenology-of-imagination (the two old links would have pointed to the same coalesced article)
+- **Changes**: Replaced 11 wikilinks `[[mental-imagery-causal-role-of-consciousness]]` → `[[mental-imagery]]` (preserving display text where present); updated 2 `apex_sources`/path-format entries `topics/mental-imagery-causal-role-of-consciousness` → `concepts/mental-imagery`; relocated `[[mental-imagery]]` from `topics:` to `concepts:` in the apex frontmatter (now correct section since the unified article lives in concepts/); collapsed adjacent duplicate Further Reading entries in topics/phenomenology-of-imagination (the two old links would have pointed to the same coalesced article)
 - **Verification**: no remaining `mental-imagery-causal-role-of-consciousness` references in live articles (only historical reviews, archived workflow records, and the intentional `coalesced_from` field in concepts/mental-imagery itself)
 
 ---
@@ -2367,7 +2367,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Previous review**: [deep-review-2026-03-19-consciousness-and-integrated-information](/reviews/deep-review-2026-03-19-consciousness-and-integrated-information/); article was substantively refined 2026-03-25 (Kim exclusion engagement, Tegmark decoherence, circularity acknowledgement)
 - **Word count**: 3534 → 3523 (-11; remains 118% → 117% of 3000 soft target; well below 4000 hard threshold). Operated in length-neutral mode.
 - **Critical issues addressed**: 0 (attribution re-verified; Kim, Tegmark, Fisher citations from 2026-03-25 refinement all accurate; no source/Map conflation)
-- **Medium issues addressed**: 2 (removed stale AI refinement log HTML comment explicitly marked for removal; consolidated duplicate `[binding-problem](/concepts/binding-problem/)` entry in Further Reading)
+- **Medium issues addressed**: 2 (removed stale AI refinement log HTML comment explicitly marked for removal; consolidated duplicate `[[binding-problem]]` entry in Further Reading)
 - **Enhancements made**: 0 — article has reached convergence; 2026-03-25 refinement already applied enhancements identified by previous review
 - **Output**: [deep-review-2026-04-23-consciousness-and-integrated-information](/reviews/deep-review-2026-04-23-consciousness-and-integrated-information/)
 
@@ -2508,7 +2508,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Word count**: 2627 → 2661 (+34 words, 89% of 3000 target)
 - **Critical issues addressed**: 1 (frontmatter duplicate concept entry)
 - **Medium issues addressed**: 1 (missing link to new evaluative-qualia cross-traditional article)
-- **Enhancements made**: Added one-sentence reference in Cross-Traditional Convergences plus Further Reading entry and frontmatter cross-links to [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) (created 2026-03-29). Cleaned duplicate `[nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)` from concepts frontmatter. Seventh deep review; article remains at full stability per prior notes.
+- **Enhancements made**: Added one-sentence reference in Cross-Traditional Convergences plus Further Reading entry and frontmatter cross-links to [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) (created 2026-03-29). Cleaned duplicate `[[nihilism-and-existentialism]]` from concepts frontmatter. Seventh deep review; article remains at full stability per prior notes.
 - **Output**: [deep-review-2026-04-22-eastern-philosophy-consciousness](/reviews/deep-review-2026-04-22-eastern-philosophy-consciousness/)
 
 ---
@@ -2933,7 +2933,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **Scope**: Retarget wikilinks following [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) coalesce
 - **Files modified**: voids/consciousness-only-territories, voids/acquaintance-void, voids/transformative-experience-void, voids/pre-conceptual-knowing, topics/phenomenal-authority-and-first-person-evidence, topics/aesthetics-and-consciousness, topics/evaluative-qualia-phenomenal-normativity-across-traditions, concepts/evaluative-phenomenal-character, concepts/indexical-knowledge-and-identity, concepts/epistemology
-- **Changes**: Retargeted `[acquaintance-knowledge](/concepts/phenomenal-acquaintance/)` → `[phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)` across body text, frontmatter, and Further Reading lists; removed 4 duplicate frontmatter entries (acquaintance-void, consciousness-only-territories, phenomenal-authority-and-first-person-evidence) and 2 redundant Further Reading entries where phenomenal-acquaintance already appeared adjacent
+- **Changes**: Retargeted `[[acquaintance-knowledge]]` → `[[phenomenal-acquaintance]]` across body text, frontmatter, and Further Reading lists; removed 4 duplicate frontmatter entries (acquaintance-void, consciousness-only-territories, phenomenal-authority-and-first-person-evidence) and 2 redundant Further Reading entries where phenomenal-acquaintance already appeared adjacent
 - **Preserved**: Display labels ("knowledge by acquaintance", "Acquaintance") kept in pipe-linked references where the Russellian framing is foregrounded
 - **Published**: yes
 
@@ -2944,7 +2944,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Sources**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/), [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
 - **Target**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
 - **Archived**: [acquaintance-knowledge](/archive/concepts/acquaintance-knowledge/)
-- **References to review**: 10 active files wikilink to `[acquaintance-knowledge](/concepts/phenomenal-acquaintance/)` and may be retargeted to `[phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)`
+- **References to review**: 10 active files wikilink to `[[acquaintance-knowledge]]` and may be retargeted to `[[phenomenal-acquaintance]]`
 
 ---
 
@@ -2961,7 +2961,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **File**: [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/)
 - **Word count**: 1547 → 1768 (+221, below soft threshold at 71%)
-- **Critical issues addressed**: 1 (broken wikilink `[transition-void](/voids/transit-void/)` → `[transit-void](/voids/transit-void/)`; target was archived after a coalesce)
+- **Critical issues addressed**: 1 (broken wikilink `[[transition-void]]` → `[[transit-void]]`; target was archived after a coalesce)
 - **Medium issues addressed**: 3 (unqualified "six signatures" framing; ambiguous "apex article" attribution; missing engagement with heterophenomenological challenge)
 - **Enhancements made**: 2 (added Heterophenomenological Challenge section; added falsification-relevant pointers to Bidirectional Interaction paragraph)
 - **Output**: [deep-review-2026-04-21-presence-type-and-absence-type-voids](/reviews/deep-review-2026-04-21-presence-type-and-absence-type-voids/)
@@ -3034,8 +3034,8 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-20 20:38 UTC - refine-draft
 - **Status**: Success
 - **Files**: 13 edited — [agent-causation](/concepts/agent-causation/), [control-theoretic-will](/concepts/control-theoretic-will/), [luck-objection](/concepts/luck-objection/), [moral-responsibility](/concepts/moral-responsibility/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [reasons-responsiveness](/concepts/reasons-responsiveness/), [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/), [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/), [trilemma-of-selection](/topics/trilemma-of-selection/), [volitional-control](/topics/volitional-control/)
-- **Task**: Update `[concept-of-free-will](/topics/free-will/)` wikilinks across files after 2026-04-20 coalesce (commit 2c870a9ce) merged the concept into [free-will](/topics/free-will/)
-- **Changes**: Removed 12 frontmatter entries that would have become duplicates (topics/free-will already present in each file's `topics` list); replaced 5 body wikilinks with `[free will](/topics/free-will/)` or `[free-will](/topics/free-will/)` (in luck-objection lede, reasons-responsiveness luck-objection paragraph, phenomenology-of-choice-and-volition opening and removed duplicate Further Reading entry, spontaneous-intentional-action lede, volitional-control Mele paragraph, control-theoretic-will Further Reading). topics/free-will.md required no edit (only reference was the legitimate `coalesced_from` metadata).
+- **Task**: Update `[[concept-of-free-will]]` wikilinks across files after 2026-04-20 coalesce (commit 2c870a9ce) merged the concept into [free-will](/topics/free-will/)
+- **Changes**: Removed 12 frontmatter entries that would have become duplicates (topics/free-will already present in each file's `topics` list); replaced 5 body wikilinks with `[[topics/free-will|free will]]` or `[[topics/free-will]]` (in luck-objection lede, reasons-responsiveness luck-objection paragraph, phenomenology-of-choice-and-volition opening and removed duplicate Further Reading entry, spontaneous-intentional-action lede, volitional-control Mele paragraph, control-theoretic-will Further Reading). topics/free-will.md required no edit (only reference was the legitimate `coalesced_from` metadata).
 - **Published**: yes
 
 ---
@@ -3226,7 +3226,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **File**: [consciousness-and-memory](/topics/consciousness-and-memory/)
 - **Word count**: 3791 → 3785 (-6)
-- **Critical issues addressed**: 3 (duplicate wikilink in prose at line 170; duplicate `[binding-problem](/concepts/binding-problem/)` in concepts frontmatter; duplicate `[episodic-memory](/concepts/episodic-memory/)` in Further Reading)
+- **Critical issues addressed**: 3 (duplicate wikilink in prose at line 170; duplicate `[[binding-problem]]` in concepts frontmatter; duplicate `[[episodic-memory]]` in Further Reading)
 - **Medium issues addressed**: 0
 - **Enhancements made**: 0
 - **Context**: Fifth review. Focused on artifacts from the 2026-03 coalesce merge and subsequent wikilink renames. Verified attribution accuracy for new MTT, reconsolidation, and phenomenological-trajectory sections.

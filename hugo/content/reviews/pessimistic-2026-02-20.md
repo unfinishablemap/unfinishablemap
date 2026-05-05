@@ -80,9 +80,9 @@ Similarly, the intersubjectivity article's claim that minds across cultures conv
 
 - **File**: concepts/phenomenal-overflow.md
 - **Location**: "Bidirectional Interaction" in Relation to Site Perspective
-- **Problem**: The anchor link `[Bidirectional Interaction tenet](/tenets/#bidirectional)` appears to use `^bidirectional` but the actual anchor in tenets.md is `^bidirectional-interaction`. This may produce a broken link.
+- **Problem**: The anchor link `[[tenets#^bidirectional|Bidirectional Interaction tenet]]` appears to use `^bidirectional` but the actual anchor in tenets.md is `^bidirectional-interaction`. This may produce a broken link.
 - **Severity**: Low
-- **Recommendation**: Fix the anchor to `[Bidirectional Interaction tenet](/tenets/#bidirectional-interaction)`.
+- **Recommendation**: Fix the anchor to `[[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]`.
 
 ### Issue 5: Russellian Monism's Asymmetric Treatment of Bridging Problems
 

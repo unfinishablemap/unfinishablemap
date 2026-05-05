@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Stale wikilinks (3 instances)**: `[consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-formal-systems/)` appeared in frontmatter topics, body text, and Further Reading. The article was renamed to `consciousness-and-the-authority-of-formal-systems`. Resolution: Updated all three references to the correct slug.
+- **Stale wikilinks (3 instances)**: `[[consciousness-and-the-authority-of-mathematics]]` appeared in frontmatter topics, body text, and Further Reading. The article was renamed to `consciousness-and-the-authority-of-formal-systems`. Resolution: Updated all three references to the correct slug.
 
 ### Medium Issues Found
 - **Missing cross-link to consciousness-and-scientific-explanation**: This concept article links back to galilean-exclusion but the reverse link was absent. Resolution: Added to related_articles frontmatter and Further Reading section.

@@ -71,7 +71,7 @@ topics: []
 - Good cross-reference network to companion articles
 
 ### Enhancements Made
-- Added `[QBism](/concepts/qbism/)` wikilink on first substantive body mention for better cross-linking
+- Added `[[qbism|QBism]]` wikilink on first substantive body mention for better cross-linking
 
 ### Cross-links Verified
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Core dependency, well-integrated

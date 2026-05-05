@@ -28,7 +28,7 @@ None. All attributions (Huemer 2009, Sober 2001, Anderson 2002, Zanotti 2021) ve
 ### Medium Issues Found
 - **Type-B physicalist response unaddressed in Precondition 1**: The strongest physicalist reply — that the explanatory gap is epistemic, not metaphysical — was not engaged. Resolution: Added paragraph explaining why promissory parity does not satisfy parsimony's synchronic requirement.
 - **Proliferation argument slightly overstated in Precondition 2**: Claiming that multiple competing theories "suggest the single-substance constraint forces explanatory contortions" is too strong — competing theories exist in many domains. Resolution: Qualified the claim to focus on the distinctive pattern (each theory requires different apparatus to bridge the same gap).
-- **Missing cross-link to functionalism**: Added `[functionalism](/concepts/functionalism/)` wikilink in the list of physicalist theories.
+- **Missing cross-link to functionalism**: Added `[[functionalism]]` wikilink in the list of physicalist theories.
 
 ### Counterarguments Considered
 - **Eliminativist response**: Consciousness as described doesn't exist, so the explanatory gap is illusory. Not addressed directly — this is covered in other Map articles and doesn't affect the structural parsimony argument.

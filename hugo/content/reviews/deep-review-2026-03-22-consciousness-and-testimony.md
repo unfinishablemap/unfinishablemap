@@ -23,10 +23,10 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Stale frontmatter link to archived article**: `[social-epistemic-void](/voids/intersubjective-void/)` in `related_articles` pointed to an article archived on 2026-03-22 (superseded by `intersubjective-void`, already in the list). **Resolution**: Removed the stale reference.
+- **Stale frontmatter link to archived article**: `[[social-epistemic-void]]` in `related_articles` pointed to an article archived on 2026-03-22 (superseded by `intersubjective-void`, already in the list). **Resolution**: Removed the stale reference.
 
 ### Medium Issues Found
-- **Path-prefixed wikilink**: `[social cognition](/topics/consciousness-and-social-cognition/)` used a path prefix inconsistent with all other wikilinks. **Resolution**: Changed to `[social cognition](/topics/consciousness-and-social-understanding/)`.
+- **Path-prefixed wikilink**: `[[topics/consciousness-and-social-cognition|social cognition]]` used a path prefix inconsistent with all other wikilinks. **Resolution**: Changed to `[[consciousness-and-social-cognition|social cognition]]`.
 - **Oversimplified Wegener example**: Attributed rejection of continental drift primarily to "felt authority" without acknowledging legitimate scientific reasons (lack of a viable mechanism). **Resolution**: Added qualifier acknowledging Wegener lacked a plausible mechanism while preserving the point about phenomenal authority discouraging engagement with evidence.
 
 ### Counterarguments Considered

@@ -27,8 +27,8 @@ None.
 
 ### Medium Issues Found
 - **"Experience without processing" overstatement**: The concluding sentence of the dissociations paragraph summarized lucid dreaming as "experience without processing," contradicting the corrected claim of "largely decoupled from external sensory input." Dreaming involves extensive neural processing. **Resolution**: Changed to "experience without external sensory input."
-- **Intentionality in frontmatter but absent from text**: `[intentionality](/concepts/intentionality/)` was listed in concepts but never mentioned in the body — the first review caught this pattern for predictive-processing and attention-as-interface but missed intentionality. **Resolution**: Added sentence to "What Perception Involves" section noting that perceptual experience exhibits intentionality (directedness toward objects).
-- **Zero inbound [perception](/concepts/perception/) links from related articles**: None of the 14 existing related articles contained a `[perception](/concepts/perception/)` wikilink back to perception.md. **Resolution**: Added cross-references from 8 articles (see below).
+- **Intentionality in frontmatter but absent from text**: `[[intentionality]]` was listed in concepts but never mentioned in the body — the first review caught this pattern for predictive-processing and attention-as-interface but missed intentionality. **Resolution**: Added sentence to "What Perception Involves" section noting that perceptual experience exhibits intentionality (directedness toward objects).
+- **Zero inbound [perception](/concepts/perception/) links from related articles**: None of the 14 existing related articles contained a `[[perception]]` wikilink back to perception.md. **Resolution**: Added cross-references from 8 articles (see below).
 
 ### Counterarguments Considered
 No new counterarguments beyond those addressed in the first review. The bedrock philosophical disagreements noted in the first review's stability notes remain valid.

@@ -77,8 +77,8 @@ No body changes that affect source attribution. The new paragraph adds machinery
 
 ### Cross-links Added
 
-- `[metacognition](/concepts/metacognition/)` — first link from this article, naming the subsystem class the absorption strategy invokes.
-- `[introspection](/concepts/introspection/)` — first link from this article, naming the report mechanism whose evidential standing the absorption strategy contests.
+- `[[metacognition]]` — first link from this article, naming the subsystem class the absorption strategy invokes.
+- `[[introspection]]` — first link from this article, naming the report mechanism whose evidential standing the absorption strategy contests.
 
 ## Length Management
 

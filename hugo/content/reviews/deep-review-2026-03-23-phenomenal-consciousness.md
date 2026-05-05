@@ -24,9 +24,9 @@ topics: []
 
 Since the previous review (2026-02-25), this article received only maintenance changes:
 1. Wikilink case fixes (lowercase slugs) across a bulk repair pass
-2. Updated `[emotional-consciousness](/topics/emotion-and-dualism/)` → `[emotion-and-dualism](/topics/emotion-and-dualism/)` after coalesce merged emotion articles
-3. Added cross-links in Further Reading: `[pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)`, `[degrees-of-consciousness](/concepts/degrees-of-consciousness/)`, `[types-of-consciousness](/concepts/types-of-consciousness/)`, `[dream-consciousness](/topics/dream-consciousness/)`, `[lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)`, `[objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)`
-4. Added Apex Synthesis subsection linking `[minds-without-words](/apex/minds-without-words/)`
+2. Updated `[[emotional-consciousness]]` → `[[emotion-and-dualism]]` after coalesce merged emotion articles
+3. Added cross-links in Further Reading: `[[pain-consciousness-and-causal-power]]`, `[[degrees-of-consciousness]]`, `[[types-of-consciousness]]`, `[[dream-consciousness]]`, `[[lucid-dreaming-and-dualist-rendering]]`, `[[objectivity-and-consciousness]]`
+4. Added Apex Synthesis subsection linking `[[minds-without-words]]`
 5. Reference list reformatted (no content changes)
 
 No substantive content modifications to the article's arguments or prose.

@@ -23,10 +23,10 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Fake "Mysterianism" tenet**: The Relation to Site Perspective section included a "### Mysterianism" subsection referencing `[Mysterianism](/tenets/#mysterianism)` as if it were one of the five tenets. No such tenet exists. **Resolution**: Restructured as "### Cognitive Closure" connecting to the `[cognitive-closure](/concepts/mysterianism/)` concept, and folded tenet relevance into the Occam's Razor connection where it belongs.
+- **Fake "Mysterianism" tenet**: The Relation to Site Perspective section included a "### Mysterianism" subsection referencing `[[tenets#^mysterianism|Mysterianism]]` as if it were one of the five tenets. No such tenet exists. **Resolution**: Restructured as "### Cognitive Closure" connecting to the `[[cognitive-closure]]` concept, and folded tenet relevance into the Occam's Razor connection where it belongs.
 
 ### Medium Issues Found
-- **Links to archived articles**: `[the-unobservable-self](/voids/self-reference-paradox/)` and `[calibration-void](/voids/measurement-void/)` both link to archived content. **Resolution**: Updated to successors — `self-reference-paradox` (already linked) and `measurement-void` respectively. Updated Further Reading descriptions. Replaced inline `the-unobservable-self` reference with direct description of the phenomenon (since `self-reference-paradox` was already linked in the same sentence).
+- **Links to archived articles**: `[[the-unobservable-self]]` and `[[calibration-void]]` both link to archived content. **Resolution**: Updated to successors — `self-reference-paradox` (already linked) and `measurement-void` respectively. Updated Further Reading descriptions. Replaced inline `the-unobservable-self` reference with direct description of the phenomenon (since `self-reference-paradox` was already linked in the same sentence).
 - **Weak functionalist engagement in Dualism section**: The original claimed "if consciousness were merely information processing, there would be no reason for self-referential processing to feel different" — but a functionalist would note that self-reference IS computationally different. **Resolution**: Strengthened to explicitly engage with the strange-loop objection and distinguish structural from phenomenal distinctiveness.
 - **"What AI Might See" section generic**: Three paragraphs for a relatively thin point. **Resolution**: Tightened to two paragraphs, removing redundancy.
 
@@ -57,9 +57,9 @@ topics: []
 - Updated all archived article links to live successors
 
 ### Cross-links Updated
-- `[the-unobservable-self](/voids/self-reference-paradox/)` → removed (archived, successor `self-reference-paradox` already linked)
-- `[calibration-void](/voids/measurement-void/)` → `[measurement-void](/voids/observation-and-measurement-void/)`
-- Added `[observation-void](/voids/observation-and-measurement-void/)` in Further Reading
+- `[[the-unobservable-self]]` → removed (archived, successor `self-reference-paradox` already linked)
+- `[[calibration-void]]` → `[[measurement-void]]`
+- Added `[[observation-void]]` in Further Reading
 
 ## Remaining Items
 

@@ -51,7 +51,7 @@ This review was triggered as a cross-review considering the new [phenomenology-v
 
 ### Enhancements Made
 - Added the *Empirical Wedge* bullet to *Connection to Related Arguments* (~85 words). Frames Mary's Room as the most stringent thought-experiment version of a wedge with empirical exemplars in other domains.
-- Added `[phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)` to the `concepts` list in the frontmatter.
+- Added `[[phenomenology-vs-function-axis]]` to the `concepts` list in the frontmatter.
 
 ### Cross-links Added
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — taxonomic-axis cross-link from this article's *Connection to Related Arguments* section to the new concept article. Reciprocal cross-link from the axis article to the knowledge argument is a candidate for the next deep review of the axis (not done here to avoid scope creep).

@@ -56,8 +56,8 @@ topics: []
 - Tightened the Berghofer paragraph (~30 words) to keep article length-neutral
 
 ### Cross-links Added
-- `[question-formation-void](/voids/question-formation-void/)` added to `related_articles` frontmatter
-- `[question-formation-void](/voids/question-formation-void/)` added to "Further Reading" with annotation: "The upstream constraint on which methodological questions the apparatus can pose at all"
+- `[[question-formation-void]]` added to `related_articles` frontmatter
+- `[[question-formation-void]]` added to "Further Reading" with annotation: "The upstream constraint on which methodological questions the apparatus can pose at all"
 - Inline wikilink in the new paragraph
 
 ## Remaining Items

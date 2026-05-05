@@ -31,7 +31,7 @@ None. All attributions verified, no factual errors, no internal contradictions, 
 
 ### Medium Issues Found
 - **Dense cross-reference sentence**: The sentence added by a prior cross-review operation (linking to consciousness-and-memory) packed three claims into 43 words. **Resolution**: Tightened to preserve meaning while improving readability.
-- **Duplicate wikilink**: `[introspection](/concepts/introspection/)` appeared twice in close succession in the illusionist challenge section. **Resolution**: Removed redundant link, kept the first instance.
+- **Duplicate wikilink**: `[[introspection]]` appeared twice in close succession in the illusionist challenge section. **Resolution**: Removed redundant link, kept the first instance.
 
 ### Counterarguments Considered
 All six adversarial personas engaged:

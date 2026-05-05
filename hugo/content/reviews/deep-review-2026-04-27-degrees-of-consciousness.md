@@ -26,7 +26,7 @@ topics: []
 None. The article remains factually accurate and internally consistent. No regressions since the previous review.
 
 ### Medium Issues Found
-- **Frontmatter duplicate**: After the link consolidation that merged `[loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/)` and `[disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)` into `[consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)`, the same target appeared in both `topics` and `related_articles`. Resolution: Removed from `related_articles` (kept in `topics`, which is the more appropriate field for this broader topic article).
+- **Frontmatter duplicate**: After the link consolidation that merged `[[loss-of-consciousness]]` and `[[disorders-of-consciousness-as-test-cases]]` into `[[consciousness-disruption-and-the-mind-brain-interface]]`, the same target appeared in both `topics` and `related_articles`. Resolution: Removed from `related_articles` (kept in `topics`, which is the more appropriate field for this broader topic article).
 
 ### Counterarguments Considered
 All counterarguments from the two previous reviews remain stable:

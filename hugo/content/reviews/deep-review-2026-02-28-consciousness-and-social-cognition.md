@@ -32,7 +32,7 @@ The article was condensed from 3,034 to 2,153 words between the last review and 
 - None. Post-condensation article is clean.
 
 ### Medium Issues Found
-- **Missing Further Reading entries** (fixed): `[theory-of-mind](/concepts/theory-of-mind/)`, `[consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)`, `[consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/)` (topic counterpart), and `[recursion-void](/voids/recursion-void/)` were absent from Further Reading despite being closely related content.
+- **Missing Further Reading entries** (fixed): `[[theory-of-mind]]`, `[[consciousness-as-amplifier]]`, `[[topics/consciousness-and-social-cognition]]` (topic counterpart), and `[[recursion-void]]` were absent from Further Reading despite being closely related content.
 - **Zero inbound links** (fixed): The concept file's slug (`concept-of-consciousness-and-social-cognition`) differs from the topic version (`consciousness-and-social-cognition`), so no existing cross-links reached it. Added inbound links from 8 articles.
 
 ### Attribution Accuracy Check
@@ -63,11 +63,11 @@ All attributions verified:
 - Post-condensation density is good — no padding or filler
 
 ### Enhancements Made
-- Added 4 entries to Further Reading: `[theory-of-mind](/concepts/theory-of-mind/)`, `[consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)`, `[consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/)`, `[recursion-void](/voids/recursion-void/)`
+- Added 4 entries to Further Reading: `[[theory-of-mind]]`, `[[consciousness-as-amplifier]]`, `[[topics/consciousness-and-social-cognition]]`, `[[recursion-void]]`
 - Updated frontmatter timestamps
 
 ### Cross-links Added (orphan integration — primary task)
-Added `[concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/)` to Further Reading of 8 articles:
+Added `[[concept-of-consciousness-and-social-cognition]]` to Further Reading of 8 articles:
 - [theory-of-mind](/concepts/theory-of-mind/) — "The metarepresentational threshold in social cognition"
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — "Consciousness enabling metarepresentational social cognition"
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — "How consciousness enables the social cognition teaching depends on"

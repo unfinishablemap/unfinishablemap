@@ -26,13 +26,13 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken wikilinks to non-existent articles**: `[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` (2 occurrences) and `[quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/)` (1 occurrence) referenced articles that don't exist. With the new `entanglement-binding-hypothesis.md` covering the structural argument, experimental evidence, and limitations, all three links redirected to `[entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)`. The duplicate Further Reading entry was consolidated into one.
+1. **Broken wikilinks to non-existent articles**: `[[quantum-binding-and-phenomenal-unity]]` (2 occurrences) and `[[quantum-coherence-and-binding-evidence]]` (1 occurrence) referenced articles that don't exist. With the new `entanglement-binding-hypothesis.md` covering the structural argument, experimental evidence, and limitations, all three links redirected to `[[entanglement-binding-hypothesis]]`. The duplicate Further Reading entry was consolidated into one.
 
 ### Medium Issues Found
 
 1. **Unattributed quote** (line 66): "As researchers note, 'A unified conscious moment...'" used vague attribution violating the style guide. Rephrased as the article's own argument, removing the unattributed quote while preserving the substantive point.
 2. **Missing cross-link to entanglement-binding-hypothesis**: The new article is the most detailed treatment of quantum binding on the site. Added to frontmatter concepts list and integrated into the quantum section body text.
-3. **`[why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/)` still doesn't exist** (line 90): Deferred from previous review. This planned article is referenced consistently across multiple articles and should be created or redirected systematically. Not changed in this review.
+3. **`[[why-phenomenal-unity-resists-explanation]]` still doesn't exist** (line 90): Deferred from previous review. This planned article is referenced consistently across multiple articles and should be created or redirected systematically. Not changed in this review.
 
 ### Counterarguments Considered
 
@@ -60,7 +60,7 @@ topics: []
 1. **Entanglement-binding-hypothesis integration**: Quantum section now links to the new dedicated article, pointing readers to the structural argument (non-separability of entangled states), experimental evidence, and acknowledged limitations.
 2. **Broken links resolved**: Three references to non-existent articles replaced with links to `entanglement-binding-hypothesis`, which covers the same territory.
 3. **Unattributed quote fixed**: Vague "as researchers note" replaced with the article's own formulation of the same point.
-4. **Frontmatter updated**: Added `[entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)` to concepts list, establishing the bidirectional cross-reference.
+4. **Frontmatter updated**: Added `[[entanglement-binding-hypothesis]]` to concepts list, establishing the bidirectional cross-reference.
 
 ### Cross-Links Added/Strengthened
 

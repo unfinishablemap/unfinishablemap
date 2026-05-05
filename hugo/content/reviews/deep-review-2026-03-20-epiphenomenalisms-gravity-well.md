@@ -57,8 +57,8 @@ topics: []
 - **Diagnostic tool framing**: Provides practical philosophical value by giving readers a test to apply to any consciousness theory.
 
 ### Enhancements Made
-- Added inline `[emergence](/concepts/emergence/)` cross-link in the emergence strategy section
-- Added `[self-stultification argument](/concepts/epiphenomenalism/#the-self-stultification-problem)` link for the reference in Relation to Site Perspective
+- Added inline `[[emergence]]` cross-link in the emergence strategy section
+- Added `[[concepts/epiphenomenalism#The Self-Stultification Problem|self-stultification argument]]` link for the reference in Relation to Site Perspective
 - Refined Russellian monism characterisation to engage more substantively with the constitutive claim
 - Added qualifier to absent qualia scenario acknowledging the debate
 - Added perspective framing to the "central question" claim

@@ -42,7 +42,7 @@ No new counterarguments surfaced beyond those already documented in the previous
 
 ### Enhancements Made
 - **Intersubjective epistemics paragraph**: Added to "What Cultural Variation Reveals" section. The key insight: cross-cultural phenomenological comparison is itself an intersubjective achievement. Accessing another culture's phenomenology of agency requires bridging both the constitutive gap between individual minds and the additional gap between cultural interpretive frameworks. That invariants persist despite this "double barrier" strengthens the case that they track real features of consciousness. This connects Husserl's appresentation (from the intersubjectivity article) with the cross-cultural evidence base.
-- Added `[consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)` to related_articles frontmatter
+- Added `[[consciousness-and-intersubjectivity]]` to related_articles frontmatter
 - Added Further Reading entry with descriptive annotation
 
 ### Cross-links Added

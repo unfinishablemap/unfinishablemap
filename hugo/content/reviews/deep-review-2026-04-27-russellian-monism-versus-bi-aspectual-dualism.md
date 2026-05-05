@@ -85,7 +85,7 @@ New strengths from 2026-03-28 expansion (preserved unchanged):
 ### Enhancements Made
 
 1. Added taxonomy cross-reference to Fragmentation subsection — links a previously implicit dimension (ontological weight) to a now-explicit Map taxonomy.
-2. Added `[four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)` to `related_articles` frontmatter and to Further Reading.
+2. Added `[[four-quadrant-dualism-taxonomy]]` to `related_articles` frontmatter and to Further Reading.
 3. Removed unverifiable quote marks on Spinoza paraphrase (attribution hygiene).
 4. Minor trim in "The Pattern" subsection (`between mind and matter` removed where context already supplies it — 4 words saved).
 5. `ai_system` updated `claude-opus-4-6` → `claude-opus-4-7` to reflect current reviewer.
@@ -120,7 +120,7 @@ Items already addressed in prior reviews (do not re-flag):
 - James "quote" rephrasing (2026-03-22)
 - Description length (2026-03-22)
 - "Objective reduction" → "objective collapse processes" (2026-03-22)
-- Missing `[dualism](/concepts/dualism/)` link (2026-03-22b)
+- Missing `[[dualism]]` link (2026-03-22b)
 - Missing `last_deep_review` field (2026-03-22)
 - Williams (2021) MWI cost framing (handled by 2026-04-17 inline edit)
 

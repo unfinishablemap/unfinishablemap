@@ -59,7 +59,7 @@ topics: []
 
 ## Additional Work: Stale Reference Updates
 
-Updated 8 content files where `[phenomenology-of-scientific-discovery](/concepts/phenomenology-of-creative-insight/)` references needed updating to `[phenomenology-of-creative-insight](/concepts/creative-consciousness/)` following the coalesce of phenomenology-of-creative-problem-solving and phenomenology-of-scientific-discovery:
+Updated 8 content files where `[[phenomenology-of-scientific-discovery]]` references needed updating to `[[phenomenology-of-creative-insight]]` following the coalesce of phenomenology-of-creative-problem-solving and phenomenology-of-scientific-discovery:
 
 - concepts/philosophy-of-science-under-dualism.md (inline + Further Reading)
 - concepts/categorical-surprise.md (inline + Further Reading)

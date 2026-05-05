@@ -26,7 +26,7 @@ topics: []
 - **Roberts citation year and completeness**: Listed as Roberts (2017) with no journal info. The paper was published in *NeuroQuantology* 5(2), 214-221, in 2007 (not 2017). *Resolution*: Corrected year to 2007 and added full journal citation.
 
 ### Medium Issues Found
-- **Frontmatter inconsistency**: `[indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)` was added to body text and Further Reading in the previous session's wikilink update but not added to the concepts frontmatter. *Resolution*: Added to concepts frontmatter for consistency.
+- **Frontmatter inconsistency**: `[[indexical-knowledge-and-identity]]` was added to body text and Further Reading in the previous session's wikilink update but not added to the concepts frontmatter. *Resolution*: Added to concepts frontmatter for consistency.
 
 ### Attribution Accuracy Check
 - **Hellie coining "the vertiginous question"**: ✓ Verified — Analysis 73(2), 2013

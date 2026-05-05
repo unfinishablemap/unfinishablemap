@@ -38,23 +38,23 @@ The live successor has 50+ inbound links and is well-integrated into the site.
 ### Cross-links added (5 files, 10 link instances)
 
 **1. concepts/somatic-interface.md**
-- **Inline**: Added `[Pain asymbolia](/topics/pain-consciousness-and-causal-power/)` link in nociception section
+- **Inline**: Added `[[pain-consciousness-and-causal-power|Pain asymbolia]]` link in nociception section
 - **Further Reading**: Added entry — "Pain's resistance to reduction and the inseparability of phenomenal character from causal power"
 
 **2. topics/phenomenology-of-embodiment-under-dualism.md**
-- **Inline**: Added `[pain asymbolia](/topics/pain-consciousness-and-causal-power/)` link in "Pain and the Phenomenological Argument" section
+- **Inline**: Added `[[pain-consciousness-and-causal-power|pain asymbolia]]` link in "Pain and the Phenomenological Argument" section
 - **Further Reading**: Added entry — "Why pain's felt awfulness is inseparable from its causal role"
 
 **3. topics/anaesthesia-and-the-consciousness-interface.md**
-- **Inline**: Added `[pain's inherent aim at cessation](/topics/pain-consciousness-and-causal-power/)` in Phenomenal Presence section
+- **Inline**: Added `[[pain-consciousness-and-causal-power|pain's inherent aim at cessation]]` in Phenomenal Presence section
 - **Further Reading**: Added entry — "Pain's resistance to reduction and the decisive test case of pain asymbolia"
 
 **4. topics/emergence-as-universal-hard-problem.md**
-- **Inline**: Added `[Phenomenal pain](/topics/pain-consciousness-and-causal-power/)` link where nociception-to-suffering gradient is discussed
+- **Inline**: Added `[[pain-consciousness-and-causal-power|Phenomenal pain]]` link where nociception-to-suffering gradient is discussed
 - **Further Reading**: Added entry — "Pain as the hard problem made personal"
 
 **5. concepts/acquaintance-knowledge.md**
-- **Inline**: Added `[pain](/topics/pain-consciousness-and-causal-power/)` link in the grounding role section where pain is the paradigm case
+- **Inline**: Added `[[pain-consciousness-and-causal-power|pain]]` link in the grounding role section where pain is the paradigm case
 
 ## Pessimistic Analysis Summary
 

@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link in Further Reading**: `[consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/)` referenced an article that does not exist anywhere in the vault. *Resolution*: Removed the broken link. The measurement-problem and quantum-consciousness articles already cover this territory.
+- **Broken link in Further Reading**: `[[consciousness-and-quantum-measurement]]` referenced an article that does not exist anywhere in the vault. *Resolution*: Removed the broken link. The measurement-problem and quantum-consciousness articles already cover this territory.
 
 - **Inaccurate reference citation**: Reference 1 cited "Nature Physics Survey (August 2025)" but the actual publication was in Nature (not Nature Physics). Web search confirmed: Nature, 643(8074), August 2025. *Resolution*: Corrected to proper Nature citation with volume/issue.
 

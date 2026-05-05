@@ -24,9 +24,9 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken link `[voluntary-attention](/concepts/attention-as-interface/)`**: Slug does not exist; the file was renamed to `voluntary-attention-control-mechanisms`. Appeared in frontmatter concepts, body text, and Further Reading (3 occurrences). Resolution: Updated all three to `[voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)`.
+1. **Broken link `[[voluntary-attention]]`**: Slug does not exist; the file was renamed to `voluntary-attention-control-mechanisms`. Appeared in frontmatter concepts, body text, and Further Reading (3 occurrences). Resolution: Updated all three to `[[voluntary-attention-control-mechanisms]]`.
 
-2. **Broken link `[psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/)`**: Article was archived, superseded by `[psychophysical-laws](/concepts/psychophysical-laws/)`. Resolution: Updated link target.
+2. **Broken link `[[psychophysical-coupling-mechanisms]]`**: Article was archived, superseded by `[[psychophysical-laws]]`. Resolution: Updated link target.
 
 ### Medium Issues Found
 
@@ -73,8 +73,8 @@ All attributions verified clean:
 
 ### Cross-links Updated
 
-- `[voluntary-attention](/concepts/attention-as-interface/)` → `[voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)` (3 occurrences)
-- `[psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/)` → `[psychophysical-laws](/concepts/psychophysical-laws/)` (1 occurrence)
+- `[[voluntary-attention]]` → `[[voluntary-attention-control-mechanisms]]` (3 occurrences)
+- `[[psychophysical-coupling-mechanisms]]` → `[[psychophysical-laws]]` (1 occurrence)
 
 ## Word Count Change
 

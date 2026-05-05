@@ -58,7 +58,7 @@ topics: []
 - None. Article is at stability.
 
 ### Cross-links Added
-- None. Existing cross-links to `[mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)`, `[consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)`, `[valence-and-conscious-selection](/topics/valence-and-conscious-selection/)`, `[history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/)`, `[epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)`, `[attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)`, `[bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)`, `[psychophysical-laws](/concepts/psychophysical-laws/)`, `[coupling-modes](/concepts/coupling-modes/)`, `[pairing-problem](/concepts/pairing-problem/)`, `[valence](/concepts/valence/)` all verified.
+- None. Existing cross-links to `[[mental-causation-and-downward-causation]]`, `[[consciousness-physics-interface-formalism]]`, `[[valence-and-conscious-selection]]`, `[[history-of-the-interaction-problem]]`, `[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]`, `[[attention-and-the-consciousness-interface]]`, `[[bandwidth-of-consciousness]]`, `[[psychophysical-laws]]`, `[[coupling-modes]]`, `[[pairing-problem]]`, `[[valence]]` all verified.
 
 ## Remaining Items
 

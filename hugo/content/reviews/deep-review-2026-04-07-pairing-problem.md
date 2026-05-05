@@ -29,7 +29,7 @@ None. Article has been stable across four reviews. The only changes since last r
 None.
 
 ### Low Issues Found
-- **Inconsistent wikilink style** (line 157): `[epiphenomenalism](/concepts/epiphenomenalism/)` used path prefix while all other links use bare slugs. Fixed to `[epiphenomenalism](/concepts/epiphenomenalism/)`.
+- **Inconsistent wikilink style** (line 157): `[[concepts/epiphenomenalism]]` used path prefix while all other links use bare slugs. Fixed to `[[epiphenomenalism]]`.
 - **Quantum field/particles analogy** (line 116-117): Noted in prior review as debatable in QFT context. Not modified — philosophical point is valid and serves its purpose.
 
 ### Attribution Accuracy Check
@@ -56,7 +56,7 @@ All six adversarial personas engaged. No new counterarguments beyond those addre
 - Extensive cross-linking (11 related concepts, 2 related articles)
 
 ### Enhancements Made
-- Normalized `[epiphenomenalism](/concepts/epiphenomenalism/)` → `[epiphenomenalism](/concepts/epiphenomenalism/)` for consistency
+- Normalized `[[concepts/epiphenomenalism]]` → `[[epiphenomenalism]]` for consistency
 
 ### Cross-links Added
 None needed — comprehensive cross-linking established in prior reviews. All links verified as resolving to existing articles.

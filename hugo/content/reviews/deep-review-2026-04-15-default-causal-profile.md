@@ -36,9 +36,9 @@ None.
 
 ### Medium Issues Found
 - Missing No Many Worlds tenet in Relation to Site Perspective: Added paragraph explaining why MWI undermines delegation — if all outcomes occur, there is no preemption
-- Missing cross-link to `[consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)`: Added in Born-Rule section where observational closure is discussed, noting Born-rule preservation as first of five non-negotiable constraints
-- Missing cross-link to `[trilemma-of-selection](/topics/trilemma-of-selection/)`: Added in profile matching section, establishing why selection at indeterminacies must be conscious
-- Missing `[asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/)` in frontmatter concepts: Added, since the bandwidth constraint warrants its own section
+- Missing cross-link to `[[consciousness-physics-interface-formalism]]`: Added in Born-Rule section where observational closure is discussed, noting Born-rule preservation as first of five non-negotiable constraints
+- Missing cross-link to `[[trilemma-of-selection]]`: Added in profile matching section, establishing why selection at indeterminacies must be conscious
+- Missing `[[asymmetric-bandwidth-consciousness]]` in frontmatter concepts: Added, since the bandwidth constraint warrants its own section
 
 ### Counterarguments Considered
 - Counterfactual nature of default profiles: Already well-addressed via three-pronged defense (functional specification, zombie thought experiment, physical law)

@@ -29,7 +29,7 @@ topics: []
 
 ### Medium Issues Found
 - Article at 2765 words (111% of 2500 soft threshold for concepts/) — operates in length-neutral mode
-- Further Reading had 9 entries; trimmed to 7 to maintain length neutrality (removed `[brain-interface-boundary](/concepts/brain-interface-boundary/)` and `[decoherence](/concepts/decoherence/)` — both still linked inline or from other articles)
+- Further Reading had 9 entries; trimmed to 7 to maintain length neutrality (removed `[[brain-interface-boundary]]` and `[[decoherence]]` — both still linked inline or from other articles)
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: Conservation argument begs the question — article already addresses this via Pitts/Cucu

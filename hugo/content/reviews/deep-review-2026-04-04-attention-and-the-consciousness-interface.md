@@ -24,11 +24,11 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Duplicate concept in frontmatter**: `[attention-as-interface](/concepts/attention-as-interface/)` appeared twice in concepts list. Resolution: removed duplicate.
+- **Duplicate concept in frontmatter**: `[[attention-as-interface]]` appeared twice in concepts list. Resolution: removed duplicate.
 
 ### Medium Issues Found
 - **Clinical section lacked cross-reference to expanded evidence**: The companion article `attention-disorders-and-consciousness` now covers neglect, Balint syndrome, and extinction in depth, significantly expanding the clinical evidence for the interface model. Resolution: added cross-reference in the clinical section intro, pointing readers to the expanded analysis.
-- **Missing `[interface-friction](/concepts/interface-friction/)` concept link**: The bandwidth constraint discussion relates directly to this concept (used in the companion article) but didn't link to it. Resolution: added to concepts frontmatter and inline link in the bandwidth section.
+- **Missing `[[interface-friction]]` concept link**: The bandwidth constraint discussion relates directly to this concept (used in the companion article) but didn't link to it. Resolution: added to concepts frontmatter and inline link in the bandwidth section.
 - **Further Reading description outdated**: The companion article description ("The epistemological void of attention disorders") didn't reflect its actual content covering four specific disorders. Resolution: updated to describe the clinical cases covered.
 
 ### Counterarguments Considered
@@ -55,9 +55,9 @@ All attributions previously verified (2026-03-17 review). No new attributed clai
 
 ### Enhancements Made
 - Cross-reference to companion article's expanded clinical evidence (neglect, Balint, extinction)
-- Added `[interface-friction](/concepts/interface-friction/)` concept to frontmatter and inline link in bandwidth section
+- Added `[[interface-friction]]` concept to frontmatter and inline link in bandwidth section
 - Updated Further Reading description for companion article
-- Removed duplicate `[attention-as-interface](/concepts/attention-as-interface/)` from concepts
+- Removed duplicate `[[attention-as-interface]]` from concepts
 - Trimmed tangential computer-comparison sentence in Attention Fatigue to offset additions
 
 ### Cross-links Added

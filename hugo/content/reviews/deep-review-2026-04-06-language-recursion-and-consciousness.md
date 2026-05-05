@@ -28,8 +28,8 @@ None. This is the fourth review. The article remains stable with no critical iss
 
 ### Medium Issues Found
 
-1. **`related_articles` frontmatter too sparse**: Only listed `[tenets](/tenets/)` despite strong mutual relationship with `consciousness-and-language-interface` (which already reciprocally links here).
-   - **Resolution**: Added `[consciousness-and-language-interface](/topics/consciousness-and-language-interface/)` to `related_articles`.
+1. **`related_articles` frontmatter too sparse**: Only listed `[[tenets]]` despite strong mutual relationship with `consciousness-and-language-interface` (which already reciprocally links here).
+   - **Resolution**: Added `[[consciousness-and-language-interface]]` to `related_articles`.
 
 2. **Informal editorial comment in published text**: Line 36 contained `[Andy: I've no idea how it came up with this 🤷‍♂️]`—an inline comment with emoji that doesn't match the writing style guide's voice. Missed by three prior reviews.
    - **Resolution**: Replaced with formal acknowledgment that the claim is strong but independently motivated by WM premises.
@@ -77,7 +77,7 @@ The consciousness-and-language-interface article's key insights were checked aga
 3. Updated timestamps
 
 ### Cross-links Added
-- `[consciousness-and-language-interface](/topics/consciousness-and-language-interface/)` added to `related_articles` frontmatter (already linked in body text)
+- `[[consciousness-and-language-interface]]` added to `related_articles` frontmatter (already linked in body text)
 
 ## Remaining Items
 

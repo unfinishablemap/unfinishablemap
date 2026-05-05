@@ -34,7 +34,7 @@ None.
 
 ### Medium Issues Found
 
-- **Missing reciprocal cross-link to numerosity-void**: The numerosity-void article (published today) explicitly cross-links here in its closing paragraph and frames itself as "the smallest end of the same structural pattern." The quantitative-intuition-void article had no reciprocal link, leaving the architectural continuity asserted in only one direction. **Resolution applied**: Added `[numerosity-void](/voids/the-quantitative-comprehension-void/)` to related_articles, added a paragraph in "Why Magnitudes and Probabilities Belong Together" framing the numerosity void as the architectural floor of the same symbol/referent dissociation, and added a Further Reading entry.
+- **Missing reciprocal cross-link to numerosity-void**: The numerosity-void article (published today) explicitly cross-links here in its closing paragraph and frames itself as "the smallest end of the same structural pattern." The quantitative-intuition-void article had no reciprocal link, leaving the architectural continuity asserted in only one direction. **Resolution applied**: Added `[[numerosity-void]]` to related_articles, added a paragraph in "Why Magnitudes and Probabilities Belong Together" framing the numerosity void as the architectural floor of the same symbol/referent dissociation, and added a Further Reading entry.
 
 ### Counterarguments Considered
 
@@ -70,7 +70,7 @@ None.
 
 ### Cross-links Added
 
-- `[numerosity-void](/voids/the-quantitative-comprehension-void/)` (frontmatter related_articles, body text, Further Reading)
+- `[[numerosity-void]]` (frontmatter related_articles, body text, Further Reading)
 
 ## Remaining Items
 

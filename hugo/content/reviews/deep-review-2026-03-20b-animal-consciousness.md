@@ -90,7 +90,7 @@ Existing cross-links to consciousness-in-simple-organisms confirmed accurate:
 
 ## Remaining Items
 
-- **Site-wide**: `[metarepresentation](/concepts/metacognition/)` concept page still needed (61+ files link to it) — carried forward from previous reviews
+- **Site-wide**: `[[metarepresentation]]` concept page still needed (61+ files link to it) — carried forward from previous reviews
 
 ## Stability Notes
 

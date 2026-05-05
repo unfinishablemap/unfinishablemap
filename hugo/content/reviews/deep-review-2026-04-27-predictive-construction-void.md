@@ -70,7 +70,7 @@ None new.
 
 ### Cross-links Added
 
-- `[interoceptive-void](/voids/interoceptive-void/)` — added to `related_articles`, inline in the second paragraph, and in Further Reading with description.
+- `[[interoceptive-void]]` — added to `related_articles`, inline in the second paragraph, and in Further Reading with description.
 
 ## Length Tracking
 

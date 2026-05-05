@@ -41,7 +41,7 @@ The following editorial observations were noted during the scan but are not tene
 
 ### Broken Wikilink Anchors
 
-Two files reference `[tenets](/tenets/#minimal-interaction)` instead of the correct `[tenets](/tenets/#minimal-quantum-interaction)`:
+Two files reference `[[tenets#^minimal-interaction]]` instead of the correct `[[tenets#^minimal-quantum-interaction]]`:
 - [topics/consciousness-and-the-philosophy-of-biology.md](/topics/consciousness-evolution-and-biology/)
 - [topics/diachronic-agency-and-personal-narrative.md](/topics/diachronic-agency-and-personal-narrative/)
 

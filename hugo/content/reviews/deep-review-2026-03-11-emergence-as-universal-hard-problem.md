@@ -29,7 +29,7 @@ topics: []
 - **Equivocation objection unaddressed**: The strongest counterargument — that phenomenal character is categorically different from descriptive categories like wetness — was never engaged with. Resolution: Added "The Equivocation Objection" section directly addressing this, acknowledging the objection's force while arguing that the clean phenomenal/descriptive boundary is itself a product of domestication.
 - **Computation example is consciousness-dependent**: The interpretation example ("this represents the number seven") arguably requires a conscious interpreter, making it a disguised instance of the consciousness gap rather than an independent case. Resolution: Added parenthetical acknowledging this while noting it illustrates how deeply entangled the explanatory gap is with consciousness.
 - **Broad (1925) in References but never mentioned**: Resolution: Added brief mention of Broad's anticipation of genuine emergence in the reduction section.
-- **`[combination-problem](/concepts/combination-problem/)` in frontmatter but never discussed**: Resolution: Removed from concepts list.
+- **`[[combination-problem]]` in frontmatter but never discussed**: Resolution: Removed from concepts list.
 - **Bedau attribution imprecise**: The strong/weak emergence distinction was developed by both Bedau and Chalmers. Resolution: Adjusted attribution to credit both.
 
 ### Counterarguments Considered
@@ -53,8 +53,8 @@ topics: []
 - Added parenthetical to computation example acknowledging consciousness-dependency
 - Added C.D. Broad mention connecting to his 1925 emergentism
 - Refined Bedau/Chalmers attribution for accuracy
-- Added `[explanatory-gap](/concepts/explanatory-gap/)` wikilink in body text
-- Removed unused `[combination-problem](/concepts/combination-problem/)` from frontmatter
+- Added `[[explanatory-gap]]` wikilink in body text
+- Removed unused `[[combination-problem]]` from frontmatter
 
 ### Cross-links Added
 - [explanatory-gap](/concepts/explanatory-gap/) (was in frontmatter, now also wikilinked in body)

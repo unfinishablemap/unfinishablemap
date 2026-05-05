@@ -28,7 +28,7 @@ The article `consciousness-and-pain.md` was **archived on 2026-02-22** and coale
 - `superseded_by: "/topics/why-pain-hurts/"`
 - `archive_reason: "Coalesced into Why Pain Hurts: Phenomenal Character and Causal Power"`
 
-The "orphan" status flagged by the automation was caused by stale wikilinks — live content files were still linking to the old `[consciousness-and-pain](/topics/pain-consciousness-and-causal-power/)` path instead of the replacement `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)`.
+The "orphan" status flagged by the automation was caused by stale wikilinks — live content files were still linking to the old `[[consciousness-and-pain]]` path instead of the replacement `[[why-pain-hurts]]`.
 
 ## Stale Links Found and Fixed
 
@@ -39,7 +39,7 @@ The "orphan" status flagged by the automation was caused by stale wikilinks — 
 3. **topics/phenomenal-normativity-environmental-ethics.md** — Updated related_articles frontmatter, inline link in factory farming section, and Further Reading link (3 instances)
 4. **topics/placebo-effect-and-mental-causation.md** — Updated related_articles frontmatter and inline link
 5. **topics/suffering-versus-pain.md** — Updated topics frontmatter and Further Reading link
-6. **topics/pain-asymbolia-as-central-test-case.md** — Updated topics frontmatter; removed redundant Further Reading entry (already had `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` listed)
+6. **topics/pain-asymbolia-as-central-test-case.md** — Updated topics frontmatter; removed redundant Further Reading entry (already had `[[why-pain-hurts]]` listed)
 
 ### Additional Files Updated (2 files)
 
@@ -48,7 +48,7 @@ The "orphan" status flagged by the automation was caused by stale wikilinks — 
 
 ### Files Not Updated (correct — historical records)
 
-- Reviews, changelogs, and todo.md entries referencing `[consciousness-and-pain](/topics/pain-consciousness-and-causal-power/)` were left unchanged as they are historical records of past activity.
+- Reviews, changelogs, and todo.md entries referencing `[[consciousness-and-pain]]` were left unchanged as they are historical records of past activity.
 
 ## No Content Changes to Archived Article
 

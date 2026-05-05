@@ -26,8 +26,8 @@ topics: []
 None. The article remains stable. Changes since the last review were mechanical (opening restructure, wikilink qualification, comparative survey cross-reference).
 
 ### Medium Issues Found
-- Missing cross-link to Occam's Razor Has Limits tenet in parsimony section: **Resolved** — added `[Occam's Razor Has Limits](/tenets/#occams-razor-has-limits)` link where parsimony sacrifice is discussed
-- Missing body-text link to `[agent-causation](/concepts/agent-causation/)` despite appearing in Further Reading: **Resolved** — added link in indexical identity section where genuine choice is discussed
+- Missing cross-link to Occam's Razor Has Limits tenet in parsimony section: **Resolved** — added `[[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]]` link where parsimony sacrifice is discussed
+- Missing body-text link to `[[agent-causation]]` despite appearing in Further Reading: **Resolved** — added link in indexical identity section where genuine choice is discussed
 
 ### Low Issues Found
 None new.
@@ -71,8 +71,8 @@ No misattributions, dropped qualifiers, overstated positions, or source/Map conf
 - Added agent-causation cross-link in indexical identity section
 
 ### Cross-links Added
-- `[Occam's Razor Has Limits](/tenets/#occams-razor-has-limits)` (in body text)
-- `[genuine causal power](/concepts/agent-causation/)` (in body text)
+- `[[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]]` (in body text)
+- `[[agent-causation|genuine causal power]]` (in body text)
 
 ## Remaining Items
 

@@ -28,12 +28,12 @@ topics: []
 **Three broken wikilinks to archived `thoughts-that-slip-away`.** The article coalesced into [thought-stream-void](/voids/thought-stream-void/) on 2026-04-17 (per W16 changelog), but `three-kinds-of-void.md` still referenced the old slug in:
 
 1. Frontmatter `related_articles` (line 19)
-2. Body of the Occluded section: `[phenomenology of slippage](/voids/thought-stream-void/)` (line 72)
+2. Body of the Occluded section: `[[thoughts-that-slip-away|phenomenology of slippage]]` (line 72)
 3. Further Reading entry (line 102)
 
 The 2026-04-23 review predated the coalesce date, so this is the first deep review with the opportunity to catch these. The 2026-04-29 morning revision (medium-status reciprocal links) added a new link but did not audit existing ones.
 
-*Resolution*: All three references retargeted to `[thought-stream-void](/voids/thought-stream-void/)`. The body alias `phenomenology of slippage` was preserved — the replacement article description ("Why thoughts arise unbidden and vanish when we reach for them") explicitly covers the phenomenology of slippage, so the alias remains accurate. Further Reading entry text preserved verbatim.
+*Resolution*: All three references retargeted to `[[thought-stream-void]]`. The body alias `phenomenology of slippage` was preserved — the replacement article description ("Why thoughts arise unbidden and vanish when we reach for them") explicitly covers the phenomenology of slippage, so the alias remains accurate. Further Reading entry text preserved verbatim.
 
 ### Medium Issues Found
 

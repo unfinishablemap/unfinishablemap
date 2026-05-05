@@ -59,8 +59,8 @@ Six sympathetic personas (Property Dualist, Quantum Mind Theorist, Phenomenologi
 
 - Softened materialist characterization for philosophical accuracy
 - Added Buddhist non-substantialism qualifier to contemplative section
-- Fixed wikilink case: `[Mental-causation](/concepts/mental-causation-and-downward-causation/)` → `[mental-causation](/concepts/mental-causation-and-downward-causation/)`
-- Simplified AI consciousness link: `[AI consciousness](/topics/ai-consciousness/)` → `[ai-consciousness](/topics/ai-consciousness/)`
+- Fixed wikilink case: `[[Mental-causation]]` → `[[mental-causation]]`
+- Simplified AI consciousness link: `[[ai-consciousness|AI consciousness]]` → `[[ai-consciousness]]`
 
 ### Cross-links Added
 

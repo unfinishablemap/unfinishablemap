@@ -31,7 +31,7 @@ topics: []
 - **Speculative paragraph partially redundant with new topic**: The original paragraph covered territory now more thoroughly developed in `grain-mismatch-as-independent-evidence.md`. Resolution: Tightened the paragraph to serve as a bridge between the concept-level treatment and the full evidence programme, rather than attempting its own mini-version of the argument.
 
 ### Low Issues Found
-- **Missing `related_articles` entry**: The new topic article was not listed in frontmatter. Resolution: Added `[grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)` to `related_articles`.
+- **Missing `related_articles` entry**: The new topic article was not listed in frontmatter. Resolution: Added `[[grain-mismatch-as-independent-evidence]]` to `related_articles`.
 
 ### Counterarguments Considered
 - **Eliminativist denial of phenomenal properties**: Bedrock disagreement, stable across three reviews. Not re-flagged.

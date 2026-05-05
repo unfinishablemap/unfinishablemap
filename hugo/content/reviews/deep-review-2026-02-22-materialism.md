@@ -23,12 +23,12 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Duplicate frontmatter entry**: `[the-case-for-dualism](/concepts/dualism/)` appeared twice in `concepts` list. **Resolution**: Removed duplicate.
-- **Duplicate Further Reading entry**: `[the-case-for-dualism](/concepts/dualism/)` appeared twice in Further Reading with different descriptions. **Resolution**: Consolidated into single entry.
+- **Duplicate frontmatter entry**: `[[the-case-for-dualism]]` appeared twice in `concepts` list. **Resolution**: Removed duplicate.
+- **Duplicate Further Reading entry**: `[[the-case-for-dualism]]` appeared twice in Further Reading with different descriptions. **Resolution**: Consolidated into single entry.
 
 ### Medium Issues Found
 - **PhilPapers survey claim inaccuracy**: Article stated "22% of philosophers accept or lean toward dualism" citing the 2020 survey. The 22% figure is actually for "accept non-physicalism" (broader than dualism; includes panpsychism, idealism, etc.), and "accept or lean" totals ~32%. **Resolution**: Corrected to "approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism."
-- **No inbound links (orphaned)**: Core concept page had zero inbound wikilinks from other articles. **Resolution**: Added `[materialism](/concepts/materialism/)` links to explanatory-gap.md, functionalism.md, and emergence.md (both inline and frontmatter). Idealism.md already had the link.
+- **No inbound links (orphaned)**: Core concept page had zero inbound wikilinks from other articles. **Resolution**: Added `[[concepts/materialism]]` links to explanatory-gap.md, functionalism.md, and emergence.md (both inline and frontmatter). Idealism.md already had the link.
 
 ### Counterarguments Considered
 - Eliminative materialist: treatment fair but could more precisely engage strongest version (Churchland's replacement vs. denial framing). Adequate for concept page that links to [illusionism](/concepts/illusionism/).
@@ -51,17 +51,17 @@ topics: []
 - Added 3 inbound cross-references from related concept pages
 
 ### Cross-links Added (from other articles TO materialism)
-- [explanatory-gap](/concepts/explanatory-gap/) — added `[physicalist](/concepts/materialism/)` inline link and frontmatter entry
-- [functionalism](/concepts/functionalism/) — added `[physicalism](/concepts/materialism/)` inline link and frontmatter entry
-- [emergence](/concepts/emergence/) — added `[physicalism](/concepts/materialism/)` inline link (frontmatter already present)
+- [explanatory-gap](/concepts/explanatory-gap/) — added `[[concepts/materialism|physicalist]]` inline link and frontmatter entry
+- [functionalism](/concepts/functionalism/) — added `[[concepts/materialism|physicalism]]` inline link and frontmatter entry
+- [emergence](/concepts/emergence/) — added `[[concepts/materialism|physicalism]]` inline link (frontmatter already present)
 
 ### Cross-links Already Present (no action needed)
-- [idealism](/concepts/idealism/) — already has `[materialism](/concepts/materialism/)` inline (line 62) and frontmatter
-- [philosophical-zombies](/concepts/philosophical-zombies/) — already has `[physicalism](/concepts/materialism/)` inline
-- [illusionism](/concepts/illusionism/) — already has `[materialism](/concepts/materialism/)` inline
-- [knowledge-argument](/concepts/knowledge-argument/) — already has `[physicalism](/concepts/materialism/)` inline
-- [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — already has `[materialism](/concepts/materialism/)` inline
-- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — already has `[Materialism](/concepts/materialism/)` inline
+- [idealism](/concepts/idealism/) — already has `[[concepts/materialism]]` inline (line 62) and frontmatter
+- [philosophical-zombies](/concepts/philosophical-zombies/) — already has `[[concepts/materialism|physicalism]]` inline
+- [illusionism](/concepts/illusionism/) — already has `[[concepts/materialism]]` inline
+- [knowledge-argument](/concepts/knowledge-argument/) — already has `[[concepts/materialism|physicalism]]` inline
+- [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — already has `[[concepts/materialism]]` inline
+- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — already has `[[concepts/materialism|Materialism]]` inline
 
 ## Remaining Items
 

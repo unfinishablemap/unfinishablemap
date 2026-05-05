@@ -32,8 +32,8 @@ None. All medium issues from the previous review (2026-03-11) remain resolved:
 - Cross-links to buddhism-and-dualism, self-opacity, contemplative-practice-as-philosophical-evidence — all present
 
 ### Low Issues Found
-1. **Inconsistent frontmatter path prefix**: `[free-will](/topics/free-will/)` used path prefix while all other frontmatter links use bare slugs.
-   - Resolution: Changed to `[free-will](/topics/free-will/)` for consistency
+1. **Inconsistent frontmatter path prefix**: `[[topics/free-will]]` used path prefix while all other frontmatter links use bare slugs.
+   - Resolution: Changed to `[[free-will]]` for consistency
 
 ### Counterarguments Considered
 All major counterarguments from previous reviews remain adequately addressed:
@@ -68,7 +68,7 @@ No new counterarguments identified that aren't already covered.
 - Comprehensive tenet connections covering Dualism, Bidirectional Interaction, Minimal Quantum Interaction, and Occam's Razor
 
 ### Enhancements Made
-1. Fixed inconsistent frontmatter path prefix (`[free-will](/topics/free-will/)` → `[free-will](/topics/free-will/)`)
+1. Fixed inconsistent frontmatter path prefix (`[[topics/free-will]]` → `[[free-will]]`)
 
 ### Cross-links Verified
 All cross-links confirmed as pointing to existing files:

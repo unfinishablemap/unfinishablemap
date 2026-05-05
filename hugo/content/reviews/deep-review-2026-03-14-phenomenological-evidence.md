@@ -26,7 +26,7 @@ topics: []
 - None. The article is factually accurate, internally consistent, and well-structured. All attributions verified correct.
 
 ### Medium Issues Found
-- **Missing cross-links to new concept pages**: `[phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)` (created 2026-02-15) and `[contemplative-epistemology](/concepts/contemplative-epistemology/)` (created 2026-02-10) are highly relevant but weren't linked. **Resolution applied**: Added inline links and Further Reading entries.
+- **Missing cross-links to new concept pages**: `[[phenomenal-acquaintance]]` (created 2026-02-15) and `[[contemplative-epistemology]]` (created 2026-02-10) are highly relevant but weren't linked. **Resolution applied**: Added inline links and Further Reading entries.
 - **Stale AI refinement log**: HTML comment at end of file (from 2026-02-07) says "remove after human review" — flagged for human attention but not removed by this review.
 
 ### Counterarguments Considered
@@ -54,8 +54,8 @@ topics: []
 - Honest Limitations section acknowledges real constraints proportionately
 
 ### Enhancements Made
-- Added cross-link to `[phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)` in Defining the Term section (where "first-person acquaintance" is explicitly discussed)
-- Added cross-link to `[contemplative-epistemology](/concepts/contemplative-epistemology/)` in Varela's Neurophenomenology section (contemplative convergence discussion)
+- Added cross-link to `[[phenomenal-acquaintance]]` in Defining the Term section (where "first-person acquaintance" is explicitly discussed)
+- Added cross-link to `[[contemplative-epistemology]]` in Varela's Neurophenomenology section (contemplative convergence discussion)
 - Added both to frontmatter concepts and Further Reading section
 
 ### Cross-links Added

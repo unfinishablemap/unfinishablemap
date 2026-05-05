@@ -26,7 +26,7 @@ topics: []
 - None
 
 ### Medium Issues Found
-- **Epiphenomenalism wikilink missing display text**: `[epiphenomenalism](/concepts/epiphenomenalism/)` would render with path prefix visible. Fixed to `[epiphenomenalism](/concepts/epiphenomenalism/)`.
+- **Epiphenomenalism wikilink missing display text**: `[[concepts/epiphenomenalism]]` would render with path prefix visible. Fixed to `[[concepts/epiphenomenalism|epiphenomenalism]]`.
 - **Inaccurate grouping of collapse papers**: Kremnizer & Ranchin (2015) and Okon & Sebastián (2016) were described as both modifying CSL. K&R propose their own IIT-based collapse model, not a CSL modification. Fixed to distinguish the two approaches.
 
 ### Counterarguments Considered
@@ -48,7 +48,7 @@ topics: []
 - Three-part "Responses to the Gap" structure — clear taxonomy
 
 ### Enhancements Made
-- Added cross-link to `[quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)` in prebiotic collapse discussion for better site connectivity
+- Added cross-link to `[[quantum-indeterminacy-free-will]]` in prebiotic collapse discussion for better site connectivity
 - Distinguished Kremnizer & Ranchin's IIT-based collapse model from Okon & Sebastián's CSL modification for attribution accuracy
 - Fixed epiphenomenalism wikilink display text
 

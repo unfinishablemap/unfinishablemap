@@ -31,7 +31,7 @@ This review was conducted as the first review of the newly coalesced article, wh
 
 ### Medium Issues Found
 - **Redundant meta-description paragraph**: The second paragraph was a structural overview that repeated information immediately provided by the sections themselves. **Resolution**: Tightened from ~50 words to ~30 words.
-- **Stale wikilinks across 29 content files**: References to `perception-and-conscious-experience` and `philosophy-of-perception-under-dualism` still pointed to archived articles. **Resolution**: Batch-updated all content files, deduplicated frontmatter and Further Reading entries, fixed display-text mismatches (e.g., `[Blindsight](/topics/dualist-perception/)` → `[Blindsight](/concepts/blindsight/)` in reconstruction-paradox.md).
+- **Stale wikilinks across 29 content files**: References to `perception-and-conscious-experience` and `philosophy-of-perception-under-dualism` still pointed to archived articles. **Resolution**: Batch-updated all content files, deduplicated frontmatter and Further Reading entries, fixed display-text mismatches (e.g., `[[dualist-perception|Blindsight]]` → `[[blindsight|Blindsight]]` in reconstruction-paradox.md).
 
 ### Attribution Accuracy Check
 - All citations verified: Palmer 1999, Nagel 1974, Jackson 1982, Weiskrantz 1986, Sperling 1960, Block 2007, Clark 2013, Husserl 1913/1982, Marcel 1983, Simons & Chabris 1999, Chalmers 1996.
@@ -64,7 +64,7 @@ This review was conducted as the first review of the newly coalesced article, wh
 
 ## Reference Update Summary
 
-Updated 29 content files replacing `[perception-and-conscious-experience](/topics/dualist-perception/)` and `[philosophy-of-perception-under-dualism](/topics/dualist-perception/)` with `[dualist-perception](/topics/dualist-perception/)`:
+Updated 29 content files replacing `[[perception-and-conscious-experience]]` and `[[philosophy-of-perception-under-dualism]]` with `[[dualist-perception]]`:
 
 **Files with deduplication applied** (had links to both old articles):
 - topics/consciousness-as-perceptual-architect.md
@@ -74,8 +74,8 @@ Updated 29 content files replacing `[perception-and-conscious-experience](/topic
 - voids/reconstruction-paradox.md
 
 **Display text fixes**:
-- reconstruction-paradox.md: `[Blindsight](/topics/dualist-perception/)` → `[Blindsight](/concepts/blindsight/)`
-- reconstruction-paradox.md: `[Dualist philosophy of perception](/topics/dualist-perception/)` → `[Dualist perception theory](/topics/dualist-perception/)`
+- reconstruction-paradox.md: `[[dualist-perception|Blindsight]]` → `[[blindsight|Blindsight]]`
+- reconstruction-paradox.md: `[[dualist-perception|Dualist philosophy of perception]]` → `[[dualist-perception|Dualist perception theory]]`
 
 **Duplicate Further Reading entries consolidated**:
 - consciousness-as-perceptual-architect.md: merged two entries into one

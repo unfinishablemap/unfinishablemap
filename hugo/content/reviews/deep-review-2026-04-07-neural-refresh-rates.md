@@ -24,7 +24,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Duplicate frontmatter entry**: `[binding-problem](/concepts/binding-problem/)` appeared twice in concepts list. Resolution: removed duplicate.
+- **Duplicate frontmatter entry**: `[[binding-problem]]` appeared twice in concepts list. Resolution: removed duplicate.
 
 ### Medium Issues Found
 - **Missing cross-link to evidence programme**: The article discussed grain mismatch convergence but did not reference the new `grain-mismatch-as-independent-evidence` article that formalises the three-mismatch convergence argument. Resolution: added cross-link in Relation to Site Perspective and Further Reading.

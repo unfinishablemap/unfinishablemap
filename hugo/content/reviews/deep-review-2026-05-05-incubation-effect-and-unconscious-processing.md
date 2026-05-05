@@ -24,8 +24,8 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken link to archived article**: The concepts list and Further Reading section both linked `[imagination-and-creativity-void](/voids/creative-aesthetic-void/)`, which was archived on 2026-04-19 when it was coalesced into [voids/creative-aesthetic-void.md](/voids/creative-aesthetic-void/). *Resolution*: retargeted both references to `[creative-aesthetic-void](/voids/creative-aesthetic-void/)` and updated the Further Reading description to reflect the merged article's three-failure framing (imagination + process opacity + aesthetic articulation).
-- **Broken anchor**: The body text linked `[network switching mechanism](/topics/consciousness-and-cognitive-distinctiveness/#network-switching)`, but the target article has no `## Network Switching` heading. *Resolution*: retargeted to `#The Creative Mechanism`, the section that actually discusses the DMN/ECN switching evidence.
+- **Broken link to archived article**: The concepts list and Further Reading section both linked `[[imagination-and-creativity-void]]`, which was archived on 2026-04-19 when it was coalesced into [voids/creative-aesthetic-void.md](/voids/creative-aesthetic-void/). *Resolution*: retargeted both references to `[[creative-aesthetic-void]]` and updated the Further Reading description to reflect the merged article's three-failure framing (imagination + process opacity + aesthetic articulation).
+- **Broken anchor**: The body text linked `[[consciousness-and-cognitive-distinctiveness#Network Switching|network switching mechanism]]`, but the target article has no `## Network Switching` heading. *Resolution*: retargeted to `#The Creative Mechanism`, the section that actually discusses the DMN/ECN switching evidence.
 
 ### Medium Issues Found
 - None. Article calibration on minimal-organism / phenomenal-mode claims remains appropriately hedged ("suggests," "predicted," "requires replication"), and the "What Would Challenge This View" section provides four genuinely falsifiable conditions.

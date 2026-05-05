@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken section anchor**: `[Mutual constraint](/concepts/neurophenomenology-and-contemplative-neuroscience/#contemplative-science)` referenced an anchor (`#Contemplative Science`) that does not exist in the target file. The "mutual constraint" concept is defined in the "Varela's Neurophenomenological Method" section (line 58 of the target). The broken anchor is an artefact of the file rename from `neurophenomenology` to `neurophenomenology-and-contemplative-neuroscience` — the anchor was carried forward without verification. **Resolution**: Removed the broken anchor; wikilink now points to the article's top. Display text "Mutual constraint" preserved.
+- **Broken section anchor**: `[[neurophenomenology-and-contemplative-neuroscience#Contemplative Science|Mutual constraint]]` referenced an anchor (`#Contemplative Science`) that does not exist in the target file. The "mutual constraint" concept is defined in the "Varela's Neurophenomenological Method" section (line 58 of the target). The broken anchor is an artefact of the file rename from `neurophenomenology` to `neurophenomenology-and-contemplative-neuroscience` — the anchor was carried forward without verification. **Resolution**: Removed the broken anchor; wikilink now points to the article's top. Display text "Mutual constraint" preserved.
 
 ### Medium Issues Found
 

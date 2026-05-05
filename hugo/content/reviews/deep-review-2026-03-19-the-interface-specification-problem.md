@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[selection-laws](/concepts/psychophysical-laws/)`**: The concept `selection-laws` was archived on 2026-03-18 (coalesced into `psychophysical-laws`). Appeared in frontmatter concepts, body text, and Further Reading. **Resolution**: Removed from concepts frontmatter (psychophysical-laws already present), updated body text to `[Selection laws](/concepts/psychophysical-laws/)`, removed redundant Further Reading entry and expanded psychophysical-laws description.
+- **Broken wikilink `[[selection-laws]]`**: The concept `selection-laws` was archived on 2026-03-18 (coalesced into `psychophysical-laws`). Appeared in frontmatter concepts, body text, and Further Reading. **Resolution**: Removed from concepts frontmatter (psychophysical-laws already present), updated body text to `[[psychophysical-laws|Selection laws]]`, removed redundant Further Reading entry and expanded psychophysical-laws description.
 
 ### Medium Issues Found
 - None new. Previous review fixes (Chalmers attribution, Rajan terminology, Georgiev citation) remain correct and in place.

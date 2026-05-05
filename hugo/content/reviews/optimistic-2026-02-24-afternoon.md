@@ -102,13 +102,13 @@ The Map shows appropriate epistemic humility throughout. The consistent "What Wo
 
 #### Metarepresentation (concept page)
 - **Builds on**: jourdain-hypothesis.md, baseline-cognition.md, consciousness-as-amplifier.md
-- **Would address**: 22+ broken wikilinks referencing `[metarepresentation](/concepts/metacognition/)` across the site; foundational concept for the Map's strongest empirical argument for bidirectional interaction
+- **Would address**: 22+ broken wikilinks referencing `[[metarepresentation]]` across the site; foundational concept for the Map's strongest empirical argument for bidirectional interaction
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Tenet 3 (Bidirectional Interaction) — metarepresentation as the distinctively conscious cognitive capacity
 
 #### Voluntary Attention (concept page)
 - **Builds on**: attention-as-interface.md, attention-as-causal-bridge.md (apex)
-- **Would address**: 43+ broken wikilinks referencing `[voluntary-attention](/concepts/attention-as-interface/)`; the most-referenced missing article on the site
+- **Would address**: 43+ broken wikilinks referencing `[[voluntary-attention]]`; the most-referenced missing article on the site
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction) — voluntary attention as the proposed mechanism of consciousness-brain interaction
 
@@ -140,13 +140,13 @@ The Map shows appropriate epistemic humility throughout. The consistent "What Wo
 
 #### Duration (Bergsonian concept page)
 - **Builds on**: bergson-and-duration.md, phenomenology-of-musical-understanding.md, time-consciousness-growing-block.md
-- **Would address**: 28 broken wikilinks referencing `[temporal-consciousness](/concepts/temporal-consciousness/)`
+- **Would address**: 28 broken wikilinks referencing `[[temporal-consciousness]]`
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports the temporal consciousness framework across multiple tenets
 
 #### Specious Present (concept page)
 - **Builds on**: time-consciousness-growing-block.md, phenomenology-of-time.md
-- **Would address**: 25 broken wikilinks referencing `[temporal-consciousness](/concepts/temporal-consciousness/)`
+- **Would address**: 25 broken wikilinks referencing `[[temporal-consciousness]]`
 - **Estimated scope**: Short article
 - **Tenet alignment**: Temporal consciousness framework
 
@@ -207,6 +207,6 @@ The site's hub structure is strong:
 
 ### Structural Issues Worth Noting
 
-- **Case mismatch**: 32 references to `[Illusionism](/concepts/illusionism/)` with capital I fail to resolve to `illusionism` — quick fix
+- **Case mismatch**: 32 references to `[[Illusionism]]` with capital I fail to resolve to `illusionism` — quick fix
 - **Shadow articles**: Three `concept-of-*` articles (e.g., `concept-of-phenomenal-value-realism`) shadow main articles with 0 inbound links — candidates for archival
 - **Hub-to-hub gaps**: Several top-10 hub articles don't link to each other (e.g., `hard-problem-of-consciousness` doesn't link to `interactionist-dualism` or `free-will`)

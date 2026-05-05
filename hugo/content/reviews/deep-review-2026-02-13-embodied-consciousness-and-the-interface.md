@@ -37,7 +37,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 
 4. **Timing-to-quantum inferential leap unacknowledged** (lines 96-97): Added sentence clarifying that the attention-motor convergence supports the interface reading regardless of whether the mechanism is quantum or classical.
 
-5. **Broken links**: `[brain-specialness](/concepts/brain-interface-boundary/)` updated to `[brain-interface-boundary](/concepts/brain-interface-boundary/)` (concept was coalesced). `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)` removed from related_articles (article was archived). Inline link in convergence section updated.
+5. **Broken links**: `[[brain-specialness]]` updated to `[[brain-interface-boundary]]` (concept was coalesced). `[[attention-interface-mechanisms]]` removed from related_articles (article was archived). Inline link in convergence section updated.
 
 6. **Uncited choking predictors claim** (line 117): Rephrased from "the best predictors involve phenomenological variables" to "the most informative explanatory models involve phenomenological variables that pure neural-state descriptions have not replaced" — avoids claiming predictive superiority without citation.
 

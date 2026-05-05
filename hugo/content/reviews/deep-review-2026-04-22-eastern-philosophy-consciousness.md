@@ -23,10 +23,10 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Duplicate concept entry in frontmatter**: `[nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)` appeared twice on consecutive lines in the `concepts` frontmatter list. **Resolution**: Removed duplicate.
+- **Duplicate concept entry in frontmatter**: `[[nihilism-and-existentialism]]` appeared twice on consecutive lines in the `concepts` frontmatter list. **Resolution**: Removed duplicate.
 
 ### Medium Issues Found
-- **New non-western philosophy article unlinked**: [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) (created 2026-03-29) covers Buddhist *vedanā*, Confucian moral feeling, Indian *rasa*, and Islamic knowledge-by-presence—directly extending this article's cross-traditional convergence thesis into the evaluative domain. It lists `eastern-philosophy-consciousness` in its own topics frontmatter but the reverse link was missing. **Resolution**: Added one sentence in Cross-Traditional Convergences section, Further Reading entry, and frontmatter `related_articles` plus `[evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)` in concepts.
+- **New non-western philosophy article unlinked**: [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) (created 2026-03-29) covers Buddhist *vedanā*, Confucian moral feeling, Indian *rasa*, and Islamic knowledge-by-presence—directly extending this article's cross-traditional convergence thesis into the evaluative domain. It lists `eastern-philosophy-consciousness` in its own topics frontmatter but the reverse link was missing. **Resolution**: Added one sentence in Cross-Traditional Convergences section, Further Reading entry, and frontmatter `related_articles` plus `[[evaluative-phenomenal-character]]` in concepts.
 
 ### Low Issues Found
 - Cessation/brain activity claim still lacks specific citation (carried forward from previous reviews—not urgent).

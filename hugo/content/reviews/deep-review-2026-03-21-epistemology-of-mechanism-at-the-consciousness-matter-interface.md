@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)` referenced on two lines but the article does not exist. Actual article is `consciousness-and-the-limits-of-explanation`. [Resolution: Fixed both occurrences (inline and Further Reading).]
+- **Broken wikilink**: `[[consciousness-and-the-philosophy-of-explanation]]` referenced on two lines but the article does not exist. Actual article is `consciousness-and-the-limits-of-explanation`. [Resolution: Fixed both occurrences (inline and Further Reading).]
 
 ### Medium Issues Found
 - **Born rule detection understated** (carried from previous review): "detectable in principle with sufficient data" failed to convey the extraordinary practical difficulty of isolating quantum-level signals from thermal noise in biological tissue. [Resolution: Rewrote to emphasize this is a theoretical benchmark rather than near-term experimental programme, noting the isolation challenge.]

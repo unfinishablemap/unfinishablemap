@@ -23,11 +23,11 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[selection-laws](/concepts/psychophysical-laws/)`**: The `selection-laws` concept was archived on 2026-03-18 and superseded by `psychophysical-laws`. Two references existed — one in body text (governing laws section) and one in Further Reading. Resolution: Updated body text to reference `[psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)` with natural phrasing; removed the archived entry from Further Reading and frontmatter `related_articles`.
+- **Broken wikilink `[[selection-laws]]`**: The `selection-laws` concept was archived on 2026-03-18 and superseded by `psychophysical-laws`. Two references existed — one in body text (governing laws section) and one in Further Reading. Resolution: Updated body text to reference `[[psychophysical-laws-bridging-mind-and-matter]]` with natural phrasing; removed the archived entry from Further Reading and frontmatter `related_articles`.
 
 ### Medium Issues Found
 - **Stale AI refinement log**: An HTML comment from the 2026-03-14 refinement stated "This log should be removed after human review." Resolution: Removed the comment.
-- **Inconsistent wikilink path prefix**: `[epiphenomenalism](/concepts/epiphenomenalism/)` used an explicit path prefix while all other wikilinks omit the path. Resolution: Changed to `[epiphenomenalism](/concepts/epiphenomenalism/)` for consistency.
+- **Inconsistent wikilink path prefix**: `[[concepts/epiphenomenalism]]` used an explicit path prefix while all other wikilinks omit the path. Resolution: Changed to `[[epiphenomenalism]]` for consistency.
 
 ### Counterarguments Considered
 - No new counterarguments needed response. The article already engages the Humean symmetry objection, the zombie-world disanalogy, and the governing-vs-dispositional trade-off. The March 2026 refinement significantly strengthened the conditional necessity analysis.

@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Duplicate entry in Further Reading**: Lines 107–108 both pointed to `[phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)`—one with alias "phenomenology of epistemic cognition," one bare—introduced by the wikilink migration after the coalesce of `phenomenology-of-epistemic-cognition` into `phenomenology-of-intellectual-life`. Fixed: removed the aliased duplicate.
+- **Duplicate entry in Further Reading**: Lines 107–108 both pointed to `[[phenomenology-of-intellectual-life]]`—one with alias "phenomenology of epistemic cognition," one bare—introduced by the wikilink migration after the coalesce of `phenomenology-of-epistemic-cognition` into `phenomenology-of-intellectual-life`. Fixed: removed the aliased duplicate.
 
 ### Medium Issues Found
 - **LLM cliché "not X. It is Y." pattern**: Style guide explicitly prohibits this construct. Article had three instances:

@@ -40,13 +40,13 @@ topics: []
 
 ### Medium Issues Found
 
-1. **Missing cross-link to `[causal-closure](/concepts/causal-closure/)`**: Relation to Site Perspective discussed gaps in causal closure without linking to the dedicated concept page.
+1. **Missing cross-link to `[[causal-closure]]`**: Relation to Site Perspective discussed gaps in causal closure without linking to the dedicated concept page.
    - **Resolution**: Added wikilink in the Dualism connection paragraph.
 
-2. **Missing cross-link to `[measurement-problem](/concepts/measurement-problem/)`**: Article discussed quantum indeterminacies and outcome determination without linking to the relevant concept page.
+2. **Missing cross-link to `[[measurement-problem]]`**: Article discussed quantum indeterminacies and outcome determination without linking to the relevant concept page.
    - **Resolution**: Added wikilink alongside causal-closure link.
 
-3. **Missing cross-link to `[altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)`**: The consciousness-level correlation section listed consciousness states without linking.
+3. **Missing cross-link to `[[altered-states-of-consciousness]]`**: The consciousness-level correlation section listed consciousness states without linking.
    - **Resolution**: Added wikilink in the Crucial Experiments section.
 
 ### Counterarguments Considered

@@ -57,13 +57,13 @@ This deep review was scoped to a specific cross-review task: adding reciprocal c
 - Seven reciprocal cross-links from related voids to vagueness-void, each with a body sentence (~25–60 words) anchoring the structural connection at a natural point in the target article. The connections distinguish vagueness's role across each target rather than installing generic "see also" links.
 
 ### Cross-links Added
-- `[recognition-void](/voids/recognition-void/)` — Phenomenology of Silence section: recognition's binary verdict absorbs categorial vagueness without trace; the silence covers two opacities (mechanism + vagueness-discharge).
-- `[conceptual-scheme-void](/voids/conceptual-scheme-void/)` — How the Void Differs from Its Neighbours section: vagueness operates *within* a scheme; the scheme void operates *between* schemes or at the apparatus's outer edge.
-- `[language-thought-boundary](/voids/language-thought-boundary/)` — Linguistic Limits section: translation forces closure on Sorites series the source language did not close (siniy/goluboy as worked example).
-- `[formal-cognitive-limits](/voids/formal-cognitive-limits/)` — Cognitive Architecture and Mathematical Access section: formal undecidability (no algorithm computes/proves) and structural vagueness (no determinate verdict at any computational scale) are sister voids of complementary type.
-- `[mutation-void](/voids/mutation-void/)` — Attention Mutations section: the introspective face of vagueness shares mutation's structure — asking shifts the state without either earlier or later being determinately the answer.
-- `[suspension-void](/voids/suspension-void/)` — Three Faces, One Void section: vagueness instantiates the conjunction-coalesce template; the metalanguage-level reflexivity that joins vagueness's three faces parallels the verification-face self-application of suspension.
-- `[imagery-void](/voids/imagery-void/)` — The Three Faces section: imagery's three-faced architecture is the conjunction-coalesce template that suspension and vagueness also instantiate.
+- `[[recognition-void]]` — Phenomenology of Silence section: recognition's binary verdict absorbs categorial vagueness without trace; the silence covers two opacities (mechanism + vagueness-discharge).
+- `[[conceptual-scheme-void]]` — How the Void Differs from Its Neighbours section: vagueness operates *within* a scheme; the scheme void operates *between* schemes or at the apparatus's outer edge.
+- `[[language-thought-boundary]]` — Linguistic Limits section: translation forces closure on Sorites series the source language did not close (siniy/goluboy as worked example).
+- `[[formal-cognitive-limits]]` — Cognitive Architecture and Mathematical Access section: formal undecidability (no algorithm computes/proves) and structural vagueness (no determinate verdict at any computational scale) are sister voids of complementary type.
+- `[[mutation-void]]` — Attention Mutations section: the introspective face of vagueness shares mutation's structure — asking shifts the state without either earlier or later being determinately the answer.
+- `[[suspension-void]]` — Three Faces, One Void section: vagueness instantiates the conjunction-coalesce template; the metalanguage-level reflexivity that joins vagueness's three faces parallels the verification-face self-application of suspension.
+- `[[imagery-void]]` — The Three Faces section: imagery's three-faced architecture is the conjunction-coalesce template that suspension and vagueness also instantiate.
 
 ## Remaining Items
 

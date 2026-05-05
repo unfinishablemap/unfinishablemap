@@ -29,7 +29,7 @@ None. The article remains at convergence per the 2026-04-24 review's stability n
 
 ### Medium Issues Found
 
-- **Missing cross-link to conjunction-coalesce**: Cross-review surfaced a structural parallel between the article's mutual-constraint framework and the conjunction-coalesce discipline named in the new apex piece. Both refuse to dissolve a load-bearing distinction; both treat the joint operation of two methods/faces as the analytical object. Resolution: Added a single linking sentence in the Mutual Constraint section noting the parallel and pointing the reader to `conjunction-coalesce`. Added `[conjunction-coalesce](/apex/conjunction-coalesce/)` to `related_articles`. Cross-link is at the structural-parallel level (object-level method pluralism vs editorial-meta seam preservation), not constitutive.
+- **Missing cross-link to conjunction-coalesce**: Cross-review surfaced a structural parallel between the article's mutual-constraint framework and the conjunction-coalesce discipline named in the new apex piece. Both refuse to dissolve a load-bearing distinction; both treat the joint operation of two methods/faces as the analytical object. Resolution: Added a single linking sentence in the Mutual Constraint section noting the parallel and pointing the reader to `conjunction-coalesce`. Added `[[conjunction-coalesce]]` to `related_articles`. Cross-link is at the structural-parallel level (object-level method pluralism vs editorial-meta seam preservation), not constitutive.
 
 ### Counterarguments Considered
 

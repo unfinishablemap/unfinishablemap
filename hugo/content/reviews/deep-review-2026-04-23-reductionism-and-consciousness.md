@@ -27,10 +27,10 @@ topics: []
 - None
 
 ### Medium Issues Found
-- **Duplicate Further Reading entry**: Lines 136–137 both linked to `[parsimony-epistemology](/concepts/parsimony-epistemology/)` with different descriptive text. This was a remnant of the coalesce that merged `limits-of-parsimony-in-consciousness-science` (now archived) into `parsimony-epistemology`. Resolution: Consolidated into a single entry that captures both dimensions (simplicity fragmentation + Occam's warrant).
+- **Duplicate Further Reading entry**: Lines 136–137 both linked to `[[parsimony-epistemology]]` with different descriptive text. This was a remnant of the coalesce that merged `limits-of-parsimony-in-consciousness-science` (now archived) into `parsimony-epistemology`. Resolution: Consolidated into a single entry that captures both dimensions (simplicity fragmentation + Occam's warrant).
 
 ### Low Issues Found
-- None requiring action. Levine (1983) is listed in References without an inline author citation; his term "explanatory gap" is invoked via the `[explanatory-gap](/concepts/explanatory-gap/)` wikilink. This is acceptable convention and not worth modifying.
+- None requiring action. Levine (1983) is listed in References without an inline author citation; his term "explanatory gap" is invoked via the `[[explanatory-gap]]` wikilink. This is acceptable convention and not worth modifying.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: Transparency test begs the question. Previous reviews flagged as bedrock disagreement — NOT re-flagged.
@@ -46,7 +46,7 @@ topics: []
 - Lewis (1966) / Kim (2005) functional reduction: Accurately characterized.
 - Nagel E. (1961) bridge laws: Accurately characterized.
 - Nagel T. (1974) "something it is like": Correct attribution.
-- Milinkovic & Aru (2025) biological computationalism: Characterized consistent with the `[biological-computationalism](/concepts/biological-computationalism/)` article.
+- Milinkovic & Aru (2025) biological computationalism: Characterized consistent with the `[[biological-computationalism]]` article.
 - No misattribution, dropped qualifier, overstatement, or source/Map conflation found.
 
 ## Optimistic Analysis Summary

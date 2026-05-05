@@ -31,7 +31,7 @@ None. The article is stable after the earlier review today.
 **Unsupported factual claim about intentionality ceiling**: Line stating "Research finds an asymptotic ceiling around fifth-order intentionality, with rare individuals reaching sixth or seventh" lacked a citation. The "sixth or seventh" claim may overstate findings from the empirical literature.
 - **Resolution**: Softened to "typical ceiling around fifth-order intentionality, with considerable individual variation" and added Stiller & Dunbar (2007) citation.
 
-**Duplicate cross-link in Further Reading**: `[metacognition](/concepts/metacognition/)` appeared twice—once as "metarepresentation" in Core Concepts and once as "metacognition" in Related Concepts.
+**Duplicate cross-link in Further Reading**: `[[metacognition]]` appeared twice—once as "metarepresentation" in Core Concepts and once as "metacognition" in Related Concepts.
 - **Resolution**: Removed duplicate entry from Related Concepts.
 
 ### Counterarguments Considered

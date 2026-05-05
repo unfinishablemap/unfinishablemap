@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 - **Misattribution of co-author**: "Bostrom and Sandström (2009)" should be "Bostrom and Sandberg (2009)" — Anders Sandberg is the co-author, not "Sandström." Both inline citation and References section were incorrect. Resolution: Corrected to "Sandberg" in both locations.
-- **Broken frontmatter reference**: `baseline-cognition-hypothesis` in related_articles does not match any file — the correct slug is `baseline-cognition`. Resolution: Fixed to `[baseline-cognition](/concepts/baseline-cognition/)`.
+- **Broken frontmatter reference**: `baseline-cognition-hypothesis` in related_articles does not match any file — the correct slug is `baseline-cognition`. Resolution: Fixed to `[[baseline-cognition]]`.
 
 ### Medium Issues Found
 - **Orphaned article**: No inbound links from any other article on the site. Resolution: Added inbound links from 7 articles (see cross-links below).

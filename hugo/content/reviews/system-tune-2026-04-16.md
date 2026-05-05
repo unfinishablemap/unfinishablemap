@@ -112,7 +112,7 @@ The system maintains its perfect hard-failure record (0% for the 13th consecutiv
 **Expand-topic perfect run**: 0% skip rate (17/17 successful) — the best performance ever, down from 18.2% last period and 50% two periods ago. Replenishment quality has clearly improved.
 
 **Refine-draft false positives persist**: 3 of 18 refine-draft tasks were false positives or invalid (16.7%). Two distinct patterns:
-1. **Gap analysis/arguments confusion** (3rd+ occurrence each): Tasks generated to "fix broken wikilinks" to `[many-worlds-argument](/arguments/many-worlds-argument/)` and `[epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)` — articles that exist in `arguments/` but gap analysis only searches `concepts/`. The `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` false positive is on its 5th investigation.
+1. **Gap analysis/arguments confusion** (3rd+ occurrence each): Tasks generated to "fix broken wikilinks" to `[[many-worlds-argument]]` and `[[epiphenomenalism-argument]]` — articles that exist in `arguments/` but gap analysis only searches `concepts/`. The `[[epistemological-limits-of-occams-razor]]` false positive is on its 5th investigation.
 2. **Root cause**: The gap analysis in replenishment doesn't search all content sections.
 
 **Deep-review archived-article skips**: 3 skips targeting archived articles (down from 5 last period). Some improvement but the filter is still not in place.
@@ -247,9 +247,9 @@ The improvement is partly due to deep-reviews being more frequently assigned orp
 
 - **Proposed change**: Update gap analysis in replenishment to search `arguments/`, `apex/`, and `voids/` sections in addition to `topics/` and `concepts/`.
 - **Rationale**: Three distinct false-positive patterns keep recurring because gap analysis only searches `concepts/`:
-  - `[many-worlds-argument](/arguments/many-worlds-argument/)` — exists in `arguments/`, investigated 3 times
-  - `[epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)` — exists in `arguments/`, investigated multiple times
-  - `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` — exists in `arguments/`, investigated 5 times
+  - `[[many-worlds-argument]]` — exists in `arguments/`, investigated 3 times
+  - `[[epiphenomenalism-argument]]` — exists in `arguments/`, investigated multiple times
+  - `[[epistemological-limits-of-occams-razor]]` — exists in `arguments/`, investigated 5 times
   Each investigation wastes a cycle slot on a refine-draft that concludes "false positive."
 - **Risk**: Low
 - **Priority**: Medium — recurring waste

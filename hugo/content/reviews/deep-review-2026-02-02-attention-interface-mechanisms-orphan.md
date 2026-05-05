@@ -46,7 +46,7 @@ All strengths identified in the earlier review remain intact:
 
 ### Cross-links Added
 
-The following articles now link to `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)`:
+The following articles now link to `[[attention-interface-mechanisms]]`:
 
 1. **[stapp-quantum-mind](/concepts/stapp-quantum-mind/)** — Added contextual link in the opening section pointing to candidate sites and timing constraints
 2. **[quantum-consciousness](/concepts/quantum-consciousness/)** — Added to "Mechanisms and timing" Further Reading section

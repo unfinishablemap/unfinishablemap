@@ -29,7 +29,7 @@ topics: []
 1. **Overstated bandwidth ratio**: Article claimed conscious processing is "five million times slower" than unconscious processing. Nørretranders (1998) gives ~11 million bits/s total sensory bandwidth vs. ~10 bits/s conscious—a ratio of ~1 million, not 5 million. The specific multiplier was replaced with "vastly slower" to avoid an unverifiable specific claim.
    - **Resolution**: Replaced "five million times slower" with "vastly slower."
 
-2. **Misleading cross-link display text**: `[transformational creativity](/concepts/phenomenology-of-choice-and-volition/)` used the display text "transformational creativity" for a page about choice and volition. The linked page doesn't discuss Boden's transformational creativity.
+2. **Misleading cross-link display text**: `[[phenomenology-of-choice-and-volition|transformational creativity]]` used the display text "transformational creativity" for a page about choice and volition. The linked page doesn't discuss Boden's transformational creativity.
    - **Resolution**: Removed misleading wikilink, kept "transformational creativity" as plain text (the concept is from Boden, discussed earlier in the same article).
 
 ### Counterarguments Considered

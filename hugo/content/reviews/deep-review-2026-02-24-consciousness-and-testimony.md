@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilinks to archived articles**: `[consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/)` and `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)` were archived and superseded by `consciousness-and-the-authority-of-formal-systems` and `phenomenology-of-understanding` respectively. The coalescing operation on 2026-02-24 re-introduced these stale links. **Resolution**: Updated all references in both frontmatter and body text to point to replacement articles.
+- **Broken wikilinks to archived articles**: `[[consciousness-and-the-authority-of-logic]]` and `[[consciousness-and-semantic-understanding]]` were archived and superseded by `consciousness-and-the-authority-of-formal-systems` and `phenomenology-of-understanding` respectively. The coalescing operation on 2026-02-24 re-introduced these stale links. **Resolution**: Updated all references in both frontmatter and body text to point to replacement articles.
 - **"This is not" LLM cliché** (style guide violation): "This is not a vicious circle" in the epistemic circle section. **Resolution**: Rephrased to "The circularity is productive rather than vicious."
 
 ### Medium Issues Found

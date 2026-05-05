@@ -24,7 +24,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken internal link**: `[Voluntary attention](/concepts/attention-as-interface/)` linked to a concept page that does not exist. Resolution: Changed to `[Voluntary attention](/concepts/attention-as-interface/)` and replaced `[voluntary-attention](/concepts/attention-as-interface/)` in frontmatter concepts with `[phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)`.
+- **Broken internal link**: `[[Voluntary-attention|Voluntary attention]]` linked to a concept page that does not exist. Resolution: Changed to `[[attention-as-interface|Voluntary attention]]` and replaced `[[voluntary-attention]]` in frontmatter concepts with `[[phenomenology-of-agency-vs-passivity]]`.
 
 ### Medium Issues Found
 - **Compatibilism strawman**: The "Against Binary Responsibility" section characterised compatibilism as uniformly "binary," ignoring Fischer and Ravizza's (1998) graded reasons-responsiveness theory—which was already in the bibliography. Resolution: Rewrote the section to acknowledge sophisticated compatibilism while distinguishing the Map's mechanistic explanation.

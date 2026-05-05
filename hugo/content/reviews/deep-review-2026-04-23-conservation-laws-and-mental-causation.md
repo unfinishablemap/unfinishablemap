@@ -60,8 +60,8 @@ The two accounts differ substantively — they are not alternative expressions o
 - Boundary condition disanalogy showing intellectual honesty
 
 ### Cross-links Added
-- `concepts` frontmatter: added `[trumping-preemption](/concepts/trumping-preemption/)`
-- Further Reading: added `[trumping-preemption](/concepts/trumping-preemption/)` with framing as "complementary structural template: causal authority decoupled from sufficiency, preserving observational closure at the level of causation itself"
+- `concepts` frontmatter: added `[[trumping-preemption]]`
+- Further Reading: added `[[trumping-preemption]]` with framing as "complementary structural template: causal authority decoupled from sufficiency, preserving observational closure at the level of causation itself"
 
 ### Length Discipline (Length-Neutral Mode)
 - Before: 2837 words (113% of 2500 soft threshold)

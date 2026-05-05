@@ -63,7 +63,7 @@ topics: []
 
 ### Cross-links Added (Orphan Integration)
 
-**Source articles** (added `[phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)` to related_articles):
+**Source articles** (added `[[phenomenology-mechanism-bridge]]` to related_articles):
 - [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
 - [phenomenology-of-volitional-control](/topics/volitional-control/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
@@ -71,7 +71,7 @@ topics: []
 - [agent-causation](/concepts/agent-causation/)
 - [mental-causation](/concepts/mental-causation-and-downward-causation/)
 
-**Related apex articles** (added `[phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)` to related_articles):
+**Related apex articles** (added `[[phenomenology-mechanism-bridge]]` to related_articles):
 - [consciousness-and-agency](/apex/consciousness-and-agency/)
 - [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
 - [interface-specification-programme](/apex/interface-specification-programme/)

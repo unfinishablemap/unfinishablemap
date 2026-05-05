@@ -53,7 +53,7 @@ None found.
 ### animal-consciousness.md
 
 - **Tenet**: Occam's Razor Has Limits
-- **Issue**: Minor tension in the reference to "Occam's Razor" tenet. The article references `[tenets](/tenets/#occams-razor)` at line 145, but the correct anchor is `[tenets](/tenets/#occams-limits)`. This appears to be a broken link.
+- **Issue**: Minor tension in the reference to "Occam's Razor" tenet. The article references `[[tenets#^occams-razor]]` at line 145, but the correct anchor is `[[tenets#^occams-limits]]`. This appears to be a broken link.
 - **Quote**: "The Map's [Occam's Razor Has Limits](/tenets/#occams-razor) tenet acknowledges..."
 - **Recommendation**: Fix the broken anchor reference from `#^occams-razor` to `#^occams-limits`.
 

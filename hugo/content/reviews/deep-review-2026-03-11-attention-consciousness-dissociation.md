@@ -23,11 +23,11 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)` in Further Reading pointed to a non-existent file. Removed and replaced with links to existing related articles.
+- **Broken wikilink**: `[[attention-as-selection-interface]]` in Further Reading pointed to a non-existent file. Removed and replaced with links to existing related articles.
 
 ### Medium Issues Found
 - **Quantum Zeno presented without sufficient hedging**: The Effort Question section stated Stapp's quantum Zeno mechanism as if established ("On Stapp's quantum Zeno mechanism, sustained attention requires..."). Per the writing style guide's restraint requirements for quantum Zeno, reframed as "one proposed mechanism" with explicit note that the core argument doesn't depend on any particular quantum mechanism.
-- **Duplicate Further Reading entry**: Two entries linked to `[attention-as-interface](/concepts/attention-as-interface/)` with different display text. Consolidated to single entry.
+- **Duplicate Further Reading entry**: Two entries linked to `[[attention-as-interface]]` with different display text. Consolidated to single entry.
 - **Missing cross-links to newer content**: Three articles created after the last review (neurological-dissociations-as-interface-architecture, attention-as-causal-bridge apex, attention-disorders-and-consciousness void) were not linked.
 - **Missing No Many Worlds tenet**: The Relation to Site Perspective section covered four of five tenets but omitted No Many Worlds. Added a connection arguing that dissociation evidence depends on indexical determinacy.
 

@@ -24,7 +24,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)`**: This concept was archived (superseded → `quantum-binding-and-phenomenal-unity` → `quantum-holism-and-phenomenal-unity`). The coalesce of phenomenal-binding-and-holism into binding-problem did not update this link. Fixed: replaced all three occurrences (concepts frontmatter, body text line 156, Further Reading) with `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)`.
+- **Broken wikilink `[[entanglement-binding-hypothesis]]`**: This concept was archived (superseded → `quantum-binding-and-phenomenal-unity` → `quantum-holism-and-phenomenal-unity`). The coalesce of phenomenal-binding-and-holism into binding-problem did not update this link. Fixed: replaced all three occurrences (concepts frontmatter, body text line 156, Further Reading) with `[[quantum-holism-and-phenomenal-unity]]`.
 - **Duplicate Further Reading entry**: After fixing the broken link, `quantum-holism-and-phenomenal-unity` appeared twice in Further Reading (the original entry and the replaced entry). Fixed: merged into single entry.
 
 ### Medium Issues Found
@@ -63,14 +63,14 @@ No new counterarguments needed. All previously addressed counterarguments remain
 - Coalesce integration is seamless — no visible seams from absorbed phenomenal-binding-and-holism content
 
 ### Enhancements Made
-- Fixed broken `[entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)` wikilink → `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` (3 locations)
+- Fixed broken `[[entanglement-binding-hypothesis]]` wikilink → `[[quantum-holism-and-phenomenal-unity]]` (3 locations)
 - Merged duplicate Further Reading entry for quantum-holism-and-phenomenal-unity
 
 ### Cross-links Verified
 - All body wikilinks now point to active (non-archived) articles
-- `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` (topics/) ✓
-- `[phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)` (topics/) ✓
-- `[testing-consciousness-collapse](/topics/testing-consciousness-collapse/)` (topics/) ✓
+- `[[quantum-holism-and-phenomenal-unity]]` (topics/) ✓
+- `[[phenomenal-binding-and-multimodal-integration]]` (topics/) ✓
+- `[[testing-consciousness-collapse]]` (topics/) ✓
 - All concepts/ links verified active ✓
 
 ## Remaining Items

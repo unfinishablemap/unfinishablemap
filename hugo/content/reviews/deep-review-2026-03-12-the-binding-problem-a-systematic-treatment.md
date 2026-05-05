@@ -28,17 +28,17 @@ None. The article is factually accurate, internally consistent, and structurally
 
 ### Medium Issues Found
 
-- **Missing cross-link to `[phenomenal-attention](/concepts/attention-as-interface/)`**: The newly created phenomenal-attention concept (2026-03-12) directly strengthens the Bidirectional Interaction section. The article discussed attention shaping binding without distinguishing computational from phenomenal attention — precisely the distinction that matters for the top-down causation argument. Fixed: added `[phenomenal-attention](/concepts/attention-as-interface/)` reference in Bidirectional Interaction tenet section with brief inline definition.
+- **Missing cross-link to `[[phenomenal-attention]]`**: The newly created phenomenal-attention concept (2026-03-12) directly strengthens the Bidirectional Interaction section. The article discussed attention shaping binding without distinguishing computational from phenomenal attention — precisely the distinction that matters for the top-down causation argument. Fixed: added `[[phenomenal-attention]]` reference in Bidirectional Interaction tenet section with brief inline definition.
 
 - **Stale HTML refinement log**: Lines 207-221 contained an AI refinement log from 2026-02-17 marked "This log should be removed after human review." The article has been through multiple review cycles since. Fixed: removed.
 
 ### Counterarguments Considered
 
 All previously considered counterarguments remain adequately addressed:
-- Eliminativist challenge (phenomenal unity as folk construct): deferred to `[binding-problem](/concepts/binding-problem/)` — bedrock disagreement
+- Eliminativist challenge (phenomenal unity as folk construct): deferred to `[[binding-problem]]` — bedrock disagreement
 - Functionalist deflation (Dennett's Multiple Drafts): engaged in Classical Approaches section
 - Quantum realism dependence (Tegmark): interpretation caveat present
-- Buddhist anatta challenge: deferred to `[split-brain-consciousness](/topics/split-brain-consciousness/)`
+- Buddhist anatta challenge: deferred to `[[split-brain-consciousness]]`
 - MWI branch-local definiteness: deferred as site-wide concern
 
 ## Attribution Accuracy Check
@@ -64,8 +64,8 @@ All previously considered counterarguments remain adequately addressed:
 
 ### Enhancements Made
 
-- Added `[phenomenal-attention](/concepts/attention-as-interface/)` cross-link in Bidirectional Interaction section with inline definition
-- Added `[phenomenal-attention](/concepts/attention-as-interface/)` to concepts frontmatter
+- Added `[[phenomenal-attention]]` cross-link in Bidirectional Interaction section with inline definition
+- Added `[[phenomenal-attention]]` to concepts frontmatter
 - Removed stale AI refinement log (HTML comment from 2026-02-17)
 
 ### Cross-links Added

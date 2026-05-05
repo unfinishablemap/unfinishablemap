@@ -23,14 +23,14 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **Broken wikilink to archived article**: `[missing link](/concepts/temporal-consciousness/#the-missing-link-in-consciousness-theories)` pointed to `duration`, which was archived and superseded by `temporal-consciousness`. The "missing link" discussion now lives in `bergson-and-duration`. Resolution: Updated link to `["missing link"](/topics/bergson-and-duration/)`.
+1. **Broken wikilink to archived article**: `[[duration#The "Missing Link" in Consciousness Theories|missing link]]` pointed to `duration`, which was archived and superseded by `temporal-consciousness`. The "missing link" discussion now lives in `bergson-and-duration`. Resolution: Updated link to `[[bergson-and-duration|"missing link"]]`.
 
 2. **Duplicate frontmatter entry**: `temporal-consciousness` appeared twice in the concepts list (lines 12 and 16). Resolution: Removed duplicate.
 
 3. **Duplicate Further Reading entry**: `temporal-consciousness` listed twice with inconsistent descriptions ("Bergson's durée and its connection to Whiteheadian process" and "The neuroscience of time experience"). Resolution: Removed duplicate, updated remaining description to "Time experience and its connection to Whiteheadian process."
 
 ### Medium Issues Found
-- **Missing cross-link to bergson-and-duration**: The Bergson section discussed durée without linking to the dedicated article. Resolution: Added parenthetical cross-link to `[bergson-and-duration](/topics/bergson-and-duration/)`.
+- **Missing cross-link to bergson-and-duration**: The Bergson section discussed durée without linking to the dedicated article. Resolution: Added parenthetical cross-link to `[[bergson-and-duration]]`.
 - **bergson-and-duration Further Reading description**: Updated to reference the "missing link" framing since that discussion now lives there.
 
 ### Counterarguments Considered
@@ -55,17 +55,17 @@ topics: []
 
 ### Enhancements Made
 1. Fixed broken link to archived `duration` article
-2. Added cross-link to `[bergson-and-duration](/topics/bergson-and-duration/)` in Bergson section
+2. Added cross-link to `[[bergson-and-duration]]` in Bergson section
 3. Deduplicated frontmatter concepts list
 4. Deduplicated and improved Further Reading entries
 
 ### Cross-links Verified
 Cross-review against process-related articles confirmed:
-- `[process-haecceitism](/concepts/haecceity/)` links back to `[process-philosophy](/concepts/process-philosophy/)` ✓
-- `[prehension](/concepts/prehension/)` links back to `[process-philosophy](/concepts/process-philosophy/)` ✓
-- `[subjective-aim](/concepts/subjective-aim/)` links back to `[process-philosophy](/concepts/process-philosophy/)` ✓
-- `[process-and-consciousness](/apex/process-and-consciousness/)` (apex) synthesises process-philosophy extensively ✓
-- `[interaction-solutions-across-traditions](/topics/interaction-problem-across-traditions/)` classifies process dissolution as one of five types ✓
+- `[[process-haecceitism]]` links back to `[[process-philosophy]]` ✓
+- `[[prehension]]` links back to `[[process-philosophy]]` ✓
+- `[[subjective-aim]]` links back to `[[process-philosophy]]` ✓
+- `[[process-and-consciousness]]` (apex) synthesises process-philosophy extensively ✓
+- `[[interaction-solutions-across-traditions]]` classifies process dissolution as one of five types ✓
 - All expected bidirectional links are in place
 
 ## Remaining Items

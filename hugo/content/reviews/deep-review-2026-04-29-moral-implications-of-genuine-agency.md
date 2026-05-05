@@ -72,7 +72,7 @@ None.
 ## Stability Notes
 
 - Fifth review of this article. Content is stable; the two LLM-cliché instances corrected today were stylistic patterns that pre-dated stricter style enforcement and were not flagged in earlier reviews.
-- Changes since last review (2026-03-24) were purely mechanical: removal of `[concept-of-free-will](/topics/free-will/)` from concepts (article was renamed/coalesced elsewhere) and update of `[moral-phenomenology-and-perception](/concepts/evaluative-phenomenal-character/)` to `[moral phenomenology and perception](/concepts/evaluative-phenomenal-character/)`. No body content changed.
+- Changes since last review (2026-03-24) were purely mechanical: removal of `[[concept-of-free-will]]` from concepts (article was renamed/coalesced elsewhere) and update of `[[moral-phenomenology-and-perception]]` to `[[evaluative-phenomenal-character|moral phenomenology and perception]]`. No body content changed.
 - All adversarial personas' philosophical disagreements remain bedrock standoffs documented in the 2026-02-23 review. Future reviews should NOT re-flag these.
 - Future reviews should focus on: (a) any new LLM-cliché patterns introduced, (b) attribution issues from new factual claims, (c) coherence after external cross-link modifications. Not on re-engaging settled philosophical disagreements.
 

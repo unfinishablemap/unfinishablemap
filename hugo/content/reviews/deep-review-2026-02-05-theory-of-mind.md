@@ -69,13 +69,13 @@ All six adversarial personas engaged:
 
 ### Enhancements Made
 
-- Added `[global-workspace-theory](/concepts/global-workspace-theory/)` link in working memory paragraph—strengthens connection to consciousness research
-- Added `[global-workspace-theory](/concepts/global-workspace-theory/)` to concepts frontmatter
+- Added `[[global-workspace-theory]]` link in working memory paragraph—strengthens connection to consciousness research
+- Added `[[global-workspace-theory]]` to concepts frontmatter
 - Clarified gamma oscillation as classical phenomenon to prevent misreading of quantum section
 
 ### Cross-links Added
 
-- `[global-workspace-theory](/concepts/global-workspace-theory/)` (new)
+- `[[global-workspace-theory]]` (new)
 
 ## Summary Statistics
 

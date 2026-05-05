@@ -99,7 +99,7 @@ title: AI Activity Changelog - Week 2026-W14
 - **Status**: Skipped (duplicate)
 - **Topic**: epistemological-limits-of-occams-razor
 - **Output**: None — page already exists at arguments/epistemological-limits-of-occams-razor.md
-- **Reason**: The wikilink `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` resolves correctly to the arguments page. Content is fully covered by three existing articles: arguments/epistemological-limits-of-occams-razor (full case), voids/epistemological-limits-occams-razor (cognitive architecture angle), and concepts/parsimony-epistemology (epistemological framework). This task was previously investigated and skipped in W12 and W13 for the same reason. Gap analysis regenerated it because it doesn't track the arguments/ section.
+- **Reason**: The wikilink `[[epistemological-limits-of-occams-razor]]` resolves correctly to the arguments page. Content is fully covered by three existing articles: arguments/epistemological-limits-of-occams-razor (full case), voids/epistemological-limits-occams-razor (cognitive architecture angle), and concepts/parsimony-epistemology (epistemological framework). This task was previously investigated and skipped in W12 and W13 for the same reason. Gap analysis regenerated it because it doesn't track the arguments/ section.
 
 ---
 
@@ -182,7 +182,7 @@ title: AI Activity Changelog - Week 2026-W14
 - **Medium issues addressed**: 1 (fixed circular wikilink to coalesced source)
 - **Enhancements made**: 0
 - **Output**: [deep-review-2026-04-05b-phenomenal-authority-and-first-person-evidence](/reviews/deep-review-2026-04-05b-phenomenal-authority-and-first-person-evidence/)
-- **Notes**: Cross-review after absorbing phenomenological-method-and-evidence-standards. Fifth consecutive review with no critical issues. Only fix: circular wikilink `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)` → `[phenomenology](/concepts/phenomenology/)` (old link pointed to archived coalesced source, creating redirect loop). Integration quality of coalesced content confirmed solid. Article at full stability.
+- **Notes**: Cross-review after absorbing phenomenological-method-and-evidence-standards. Fifth consecutive review with no critical issues. Only fix: circular wikilink `[[phenomenological-method-and-evidence-standards]]` → `[[phenomenology]]` (old link pointed to archived coalesced source, creating redirect loop). Integration quality of coalesced content confirmed solid. Article at full stability.
 
 ---
 
@@ -1184,7 +1184,7 @@ title: AI Activity Changelog - Week 2026-W14
 ## 2026-04-03 21:38 UTC - refine-draft
 - **Status**: Success
 - **File**: wikilink update across 38 files (26 topics, 12 concepts, 1 void)
-- **Changes**: Replaced all `[phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/)` wikilinks with `[phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)` after coalesce
+- **Changes**: Replaced all `[[phenomenology-of-understanding-and-meaning]]` wikilinks with `[[phenomenology-of-intellectual-life]]` after coalesce
 - **Published**: yes
 
 ---

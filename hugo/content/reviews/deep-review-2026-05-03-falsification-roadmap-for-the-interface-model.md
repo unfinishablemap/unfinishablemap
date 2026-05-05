@@ -42,7 +42,7 @@ Conformance check on this article:
 
 ### Medium Issues Found
 
-- **Reciprocity gap with the framework-stage-calibration discipline**. The new project-doc on stage-calibration cross-links to this article in three places (related_articles, Honest Limitation paragraph 1, and Further Reading) and explicitly positions this article as the operational catalogue licensing the discipline's near-term decidability commitment. This article had no reciprocal link to the discipline. Cross-article asymmetry of this kind creates the same coherence-inflation risk that `coherence-inflation-countermeasures` flags: methodology articles assert their relationship to subject articles unilaterally, while subject articles operate as if the methodology layer did not exist. **Resolution**: (i) added `[framework-stage-calibration](/project/framework-stage-calibration/)` to `related_articles`; (ii) added a single reciprocity sentence to Tenet 2's honest-assessment paragraph at the natural seam — directly after the Lakatosian acknowledgment — pointing to framework-stage-calibration as the methodology that licenses Lakatosian post-hoc accommodation when stage-named, and identifying this roadmap as the catalogue of intermediate experimental advances on which the discipline's in-principle decidability commitment depends; (iii) added an entry for framework-stage-calibration to Further Reading.
+- **Reciprocity gap with the framework-stage-calibration discipline**. The new project-doc on stage-calibration cross-links to this article in three places (related_articles, Honest Limitation paragraph 1, and Further Reading) and explicitly positions this article as the operational catalogue licensing the discipline's near-term decidability commitment. This article had no reciprocal link to the discipline. Cross-article asymmetry of this kind creates the same coherence-inflation risk that `coherence-inflation-countermeasures` flags: methodology articles assert their relationship to subject articles unilaterally, while subject articles operate as if the methodology layer did not exist. **Resolution**: (i) added `[[framework-stage-calibration]]` to `related_articles`; (ii) added a single reciprocity sentence to Tenet 2's honest-assessment paragraph at the natural seam — directly after the Lakatosian acknowledgment — pointing to framework-stage-calibration as the methodology that licenses Lakatosian post-hoc accommodation when stage-named, and identifying this roadmap as the catalogue of intermediate experimental advances on which the discipline's in-principle decidability commitment depends; (iii) added an entry for framework-stage-calibration to Further Reading.
 
 ### Counterarguments Considered
 
@@ -81,12 +81,12 @@ All six adversarial personas re-engaged. Per the convergence rule, bedrock disag
 ### Enhancements Made
 
 - One-sentence reciprocity addition at Tenet 2 honest assessment, naming framework-stage-calibration as the project-doc methodology and identifying this roadmap's role within it.
-- `[framework-stage-calibration](/project/framework-stage-calibration/)` added to `related_articles`.
+- `[[framework-stage-calibration]]` added to `related_articles`.
 - Further Reading entry added for framework-stage-calibration explaining its relationship to this article.
 
 ### Cross-links Added
 
-- `[framework-stage-calibration](/project/framework-stage-calibration/)` — in `related_articles`, in Tenet 2 honest assessment body, and in Further Reading. All three placements are load-bearing rather than ornamental: each occurrence performs a distinct function (frontmatter discoverability, in-prose binding at the methodology seam, navigation handoff).
+- `[[framework-stage-calibration]]` — in `related_articles`, in Tenet 2 honest assessment body, and in Further Reading. All three placements are load-bearing rather than ornamental: each occurrence performs a distinct function (frontmatter discoverability, in-prose binding at the methodology seam, navigation handoff).
 
 ## Length Check
 
@@ -97,7 +97,7 @@ All six adversarial personas re-engaged. Per the convergence rule, bedrock disag
 ## Remaining Items
 
 - Melloni et al. (2025) reference date: deferred for human verification (carried from prior reviews; site-wide issue not specific to this article).
-- `[consciousness-independent-baseline-cognition](/concepts/baseline-cognition/)` wikilink may not resolve correctly (site-wide issue, not specific to this article; carried from prior reviews).
+- `[[consciousness-independent-baseline-cognition]]` wikilink may not resolve correctly (site-wide issue, not specific to this article; carried from prior reviews).
 
 ## Stability Notes
 

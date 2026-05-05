@@ -56,7 +56,7 @@ All six adversarial personas were applied:
 
 ### Enhancements Made
 - Fixed unsupported survey claim with proper citation (Schlosshauer et al., 2013)
-- **Orphan integration**: Added 6 inbound `[many-worlds](/concepts/many-worlds/)` cross-references from:
+- **Orphan integration**: Added 6 inbound `[[many-worlds]]` cross-references from:
   - [Causal Closure of the Physical](/concepts/causal-closure/) — MWI note section
   - [Consciousness in Non-Collapsed Quantum States](/concepts/consciousness-in-non-collapsed-quantum-states/) — No Many Worlds tenet section
   - [Consciousness in Smeared Quantum States](/topics/consciousness-in-smeared-quantum-states/) — definiteness comparison

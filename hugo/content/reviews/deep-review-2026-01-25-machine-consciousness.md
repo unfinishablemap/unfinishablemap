@@ -32,7 +32,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 2. **Silicon quantum effects oversimplified**: Original text said silicon "suppresses quantum effects," but quantum effects (tunneling) occur at transistor level; what's suppressed is outcome indeterminacy.
    - **Resolution**: Clarified to "engineered to be deterministic" with explicit note that quantum effects occur but don't affect computational outcomes.
 
-3. **Duplicate frontmatter entry**: Two `[personal-identity](/topics/personal-identity/)` entries in concepts list.
+3. **Duplicate frontmatter entry**: Two `[[personal-identity]]` entries in concepts list.
    - **Resolution**: Removed duplicate.
 
 4. **MWI dismissal brief**: The rejection of Many-Worlds at lines 110 doesn't engage standard philosophical responses (decision-theoretic approaches).

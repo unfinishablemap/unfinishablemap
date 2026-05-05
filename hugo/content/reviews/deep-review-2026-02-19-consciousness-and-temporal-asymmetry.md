@@ -24,11 +24,11 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken concept link `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`**: No file exists at this path. The correct concept page is `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`. **Resolution**: Fixed link in both frontmatter and body text.
+1. **Broken concept link `[[anoetic-noetic-autonoetic-consciousness]]`**: No file exists at this path. The correct concept page is `[[anoetic-noetic-autonoetic-consciousness]]`. **Resolution**: Fixed link in both frontmatter and body text.
 
-2. **Broken concept link `[temporal-consciousness](/concepts/temporal-consciousness/)`**: No file exists. **Resolution**: Removed from frontmatter concepts list (Bergson's durée is discussed inline but needs no dedicated concept link).
+2. **Broken concept link `[[temporal-consciousness]]`**: No file exists. **Resolution**: Removed from frontmatter concepts list (Bergson's durée is discussed inline but needs no dedicated concept link).
 
-3. **Phantom frontmatter concept `[retrocausality](/concepts/retrocausality/)`**: Listed in concepts but never mentioned in the article body. **Resolution**: Removed from frontmatter.
+3. **Phantom frontmatter concept `[[retrocausality]]`**: Listed in concepts but never mentioned in the article body. **Resolution**: Removed from frontmatter.
 
 ### Medium Issues Found
 
@@ -38,11 +38,11 @@ topics: []
 
 3. **Deflationary response underengaged**: The article presented the deflationary position as "temporal flow is an illusion" (crude eliminativism) and missed the subtler functional realism position where temporal flow is real *as a functional pattern* but doesn't require non-physical constitution. **Resolution**: Expanded the deflationary response paragraph and the materialism section to engage with both the crude and subtle versions, then showed why both face Weyl's challenge.
 
-4. **Non-temporal consciousness tension unacknowledged**: The article links to `[non-temporal-consciousness](/topics/non-temporal-consciousness/)` but never addresses the challenge: if consciousness can exist without temporal flow, then consciousness cannot constitutively produce the phenomenological arrow in all cases. **Resolution**: Added a qualification paragraph clarifying the constitutive claim applies to temporally structured consciousness specifically.
+4. **Non-temporal consciousness tension unacknowledged**: The article links to `[[non-temporal-consciousness]]` but never addresses the challenge: if consciousness can exist without temporal flow, then consciousness cannot constitutively produce the phenomenological arrow in all cases. **Resolution**: Added a qualification paragraph clarifying the constitutive claim applies to temporally structured consciousness specifically.
 
 5. **"Temporal bias" research uncited**: Empirical claim about temporal bias lacked specific references. **Resolution**: Added Greene & Sullivan (2015) and Parfit (1984) citations.
 
-6. **Missing cross-links**: Several existing site articles on related topics were not linked. **Resolution**: Added inline links to `[prehension](/concepts/prehension/)`, `[protention](/concepts/temporal-consciousness/)`, `[phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)`, and Further Reading entries for `[phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)` and `[phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)`.
+6. **Missing cross-links**: Several existing site articles on related topics were not linked. **Resolution**: Added inline links to `[[prehension]]`, `[[protention]]`, `[[phenomenology-of-anticipation]]`, and Further Reading entries for `[[phenomenology-of-anticipation]]` and `[[phenomenology-of-memory-and-the-self]]`.
 
 ### Counterarguments Considered
 
@@ -75,7 +75,7 @@ topics: []
 - Separated Price attribution from Map interpretation
 - Separated Tulving attribution from Map interpretation
 - Added temporal bias research citations
-- Added inline cross-links to `[prehension](/concepts/prehension/)`, `[protention](/concepts/temporal-consciousness/)`, `[phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)`
+- Added inline cross-links to `[[prehension]]`, `[[protention]]`, `[[phenomenology-of-anticipation]]`
 - Added Further Reading entries
 - Removed stale AI refinement log comment
 - Added `last_deep_review` frontmatter field

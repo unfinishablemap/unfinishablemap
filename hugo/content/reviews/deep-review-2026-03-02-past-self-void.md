@@ -35,7 +35,7 @@ None. The article remains well-constructed with no factual errors, misattributio
 1. **Buddhist section quotes lacked specific citations**: Three direct quotes in the Buddhist Analysis section had no corresponding reference in the References section.
    - **Resolution**: Attributed the key quote to its source (Samyutta Nikaya 12.61, Assutavā Sutta), rephrased the other quotes as doctrinal descriptions rather than unattributed direct quotes, and added Bhikkhu Bodhi's Saṃyutta Nikāya translation to References.
 
-2. **Frontmatter categorization error**: `[personal-identity](/topics/personal-identity/)` was listed under `concepts:` but the article exists at `obsidian/topics/personal-identity.md`.
+2. **Frontmatter categorization error**: `[[personal-identity]]` was listed under `concepts:` but the article exists at `obsidian/topics/personal-identity.md`.
    - **Resolution**: Moved to `topics:` field.
 
 ### Counterarguments Considered

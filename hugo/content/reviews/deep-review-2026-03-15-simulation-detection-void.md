@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken wikilinks**: `[apophatic-approaches](/concepts/apophatic-approaches/)` appeared twice (body and Further Reading) but the actual file is `apophatic-cartography.md`. Fixed → `[apophatic-cartography](/voids/apophatic-cartography/)`.
+1. **Broken wikilinks**: `[[apophatic-approaches]]` appeared twice (body and Further Reading) but the actual file is `apophatic-cartography.md`. Fixed → `[[apophatic-cartography]]`.
 
 2. **Citation errors — fabricated authors**: References 2-5 had incorrect or unverifiable author attributions, a common AI hallucination pattern:
    - "Hanson, M., & Venkatesh, S. (2022)" — paper exists (arXiv:2212.04921) but actual authors are Neukart, Indset, Pflitsch, & Perelshtein. Fixed attribution.
@@ -40,7 +40,7 @@ topics: []
 
 - **Missing cross-links**: The Unexplorable subsection discussed structural inaccessibility without linking to [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/), which directly addresses how to confirm such limits. Added cross-link.
 - **Missing cross-link on natural/designed distinction**: The Occluded subsection raised the question of designed limits without linking to [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/). Added cross-link.
-- **Related articles incomplete**: `[natural-vs-designed-limits](/voids/meta-epistemology-of-limits/)` and `[causal-interface](/voids/causal-interface/)` were referenced in the body but missing from frontmatter `related_articles`. Added both.
+- **Related articles incomplete**: `[[natural-vs-designed-limits]]` and `[[causal-interface]]` were referenced in the body but missing from frontmatter `related_articles`. Added both.
 
 ### Counterarguments Considered
 

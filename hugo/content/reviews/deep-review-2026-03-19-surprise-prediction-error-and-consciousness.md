@@ -31,7 +31,7 @@ None. No factual errors, misattributions, internal contradictions, or missing re
 - **Word count 127% of soft threshold (3820 words)**: Article had grown significantly since last review (was 3165). Resolution: Tightened prose throughout, reducing to 3620 words (121%). Further reduction deferred — remaining content is dense and well-argued.
 
 ### Low Issues Found
-- **Path prefix inconsistency**: `[epiphenomenalism](/concepts/epiphenomenalism/)` uses explicit path while other concept links do not. Carried forward from previous review — functionally correct, serves as disambiguation.
+- **Path prefix inconsistency**: `[[concepts/epiphenomenalism]]` uses explicit path while other concept links do not. Carried forward from previous review — functionally correct, serves as disambiguation.
 
 ### Counterarguments Considered
 - **Eliminative materialist (Churchland)**: Folk-psychological "surprise" may not be a natural kind. The article's five-level spectrum partially addresses this. Bedrock disagreement per previous review.

@@ -26,7 +26,7 @@ topics: []
 - None. All attributions to Chalmers (2018), Frankish (2016), Graziano (2019), and Metzinger (2003) verified as accurate. No factual errors, internal contradictions, missing required sections, or new attribution problems introduced since the last review.
 
 ### Medium Issues Found
-- None. The only intervening edit (commit ecfa820c4, 2026-04-15) was a mechanical wikilink update — `[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)` → `[phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)` — driven by an upstream coalesce. Display text was preserved and prose reads naturally. No content changes to evaluate.
+- None. The only intervening edit (commit ecfa820c4, 2026-04-15) was a mechanical wikilink update — `[[phenomenal-transparency]]` → `[[phenomenal-transparency-opacity-spectrum]]` — driven by an upstream coalesce. Display text was preserved and prose reads naturally. No content changes to evaluate.
 
 ### Counterarguments Considered
 - **Heterophenomenology** (Dennett): Previously deferred to illusionism article. No change needed.

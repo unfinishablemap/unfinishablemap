@@ -33,11 +33,11 @@ None. All previous critical issues remain resolved. Attribution accuracy check p
 1. **Unattributed direct quote** (decoherence section): A quoted passage attributed only to "recent reviews" with no citation. Also violated style guide's rule against vague time references.
    - **Resolution**: Paraphrased the passage to eliminate the unattributed quote and vague temporal reference.
 
-2. **Case mismatch in wikilink**: `[Buddhism-and-dualism](/concepts/buddhism-and-dualism/)` used uppercase B; actual file is `buddhism-and-dualism.md`.
-   - **Resolution**: Fixed to `[buddhism-and-dualism](/concepts/buddhism-and-dualism/)`.
+2. **Case mismatch in wikilink**: `[[Buddhism-and-dualism]]` used uppercase B; actual file is `buddhism-and-dualism.md`.
+   - **Resolution**: Fixed to `[[buddhism-and-dualism]]`.
 
-3. **Missing cross-link**: Emergent dualism subsection didn't link to the existing `[emergence](/concepts/emergence/)` concept page.
-   - **Resolution**: Added `[emergence](/concepts/emergence/)` links in the emergent dualism passage.
+3. **Missing cross-link**: Emergent dualism subsection didn't link to the existing `[[emergence]]` concept page.
+   - **Resolution**: Added `[[emergence]]` links in the emergent dualism passage.
 
 4. **Stale AI refinement log**: HTML comment from 2026-03-02 revision still present, marked "should be removed after human review."
    - **Resolution**: Removed.
@@ -75,7 +75,7 @@ All six adversarial personas engaged. No new issues beyond what previous reviews
 2. Fixed Buddhism-and-dualism link case
 3. Added emergence cross-links in emergent dualism subsection
 4. Cleaned up stale AI refinement log
-5. Added `[emergence](/concepts/emergence/)` to frontmatter concepts
+5. Added `[[emergence]]` to frontmatter concepts
 
 ### Cross-links Added
 

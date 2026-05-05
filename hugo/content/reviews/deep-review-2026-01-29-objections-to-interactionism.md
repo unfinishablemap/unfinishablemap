@@ -50,7 +50,7 @@ None. The previous review (2026-01-20) addressed major gaps including the decohe
 
 ### Enhancements Made
 1. Added "Response 4: Delegatory Preemption" to exclusion argument section (~150 words)
-2. Added `[delegatory-dualism](/topics/delegatory-dualism/)` to frontmatter concepts
+2. Added `[[delegatory-dualism]]` to frontmatter concepts
 3. Updated summary table to mention delegatory preemption
 4. Added delegatory-dualism to Further Reading
 5. Updated Relation to Site Perspective to mention both quantum and delegation responses

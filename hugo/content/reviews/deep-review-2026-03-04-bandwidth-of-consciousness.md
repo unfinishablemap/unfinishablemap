@@ -28,11 +28,11 @@ Both source articles had reached stability through multiple review cycles (neura
 ### Critical Issues Found
 
 - **Self-citation in References**: The article cited its own two archived source articles as references (lines 220-221). These were the articles coalesced *into* this one — self-citation is incorrect. **Resolution**: Removed both self-citations.
-- **Broken wikilink**: `[psychophysical-coupling](/concepts/psychophysical-laws/)` in Further Reading — no such page exists. The correct target is `[psychophysical-laws](/concepts/psychophysical-laws/)`. **Resolution**: Fixed link.
+- **Broken wikilink**: `[[psychophysical-coupling]]` in Further Reading — no such page exists. The correct target is `[[psychophysical-laws]]`. **Resolution**: Fixed link.
 
 ### Medium Issues Found
 
-- **Path-prefixed wikilinks in frontmatter**: `[free-will](/topics/free-will/)` and `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` used path prefixes inconsistent with other entries. **Resolution**: Removed path prefixes.
+- **Path-prefixed wikilinks in frontmatter**: `[[topics/free-will]]` and `[[concepts/consciousness-selecting-neural-patterns]]` used path prefixes inconsistent with other entries. **Resolution**: Removed path prefixes.
 - **Missing `description` field**: Frontmatter lacked the required 150-160 char meta description. **Resolution**: Added description emphasising the 100-million-fold asymmetry and interface interpretation.
 - **Stale references across 13 content files**: The coalesce archived `neural-bandwidth-constraints-and-the-interface` and `asymmetric-bandwidth-of-consciousness` but 13 content files still linked to the old slugs. **Resolution**: Updated all 40 references across all 13 files to point to `bandwidth-of-consciousness`. Updated `ai_modified` timestamps on all changed files.
 - **Resolution-void.md URL reference**: Plain-text reference cited old article title but URL was updated to new path. **Resolution**: Updated title to match new article name.

@@ -48,7 +48,7 @@ topics: []
 - "What the Convergence Does and Does Not Show" remains well-calibrated.
 
 ### Enhancements Made
-- Added inline cross-link from [arguments-against-materialism](/topics/arguments-against-materialism/) to this article in its "Cumulative Case" section, where it discusses convergence among Western analytic arguments. The new sentence notes that cross-traditional convergence (Indian, Islamic, African, Buddhist) reinforces the pattern—mirroring the structure of the existing `[concession-convergence](/concepts/concession-convergence/)` reference that immediately precedes the cumulative case.
+- Added inline cross-link from [arguments-against-materialism](/topics/arguments-against-materialism/) to this article in its "Cumulative Case" section, where it discusses convergence among Western analytic arguments. The new sentence notes that cross-traditional convergence (Indian, Islamic, African, Buddhist) reinforces the pattern—mirroring the structure of the existing `[[concession-convergence]]` reference that immediately precedes the cumulative case.
 - Updated `related_articles` frontmatter on both this article and `arguments-against-materialism.md` to make the bidirectional link visible to navigation tooling.
 
 ### Cross-links Added

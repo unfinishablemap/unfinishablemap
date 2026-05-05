@@ -72,8 +72,8 @@ None needed. Article content unchanged; only timestamps updated.
 ### Cross-links Verified
 
 Wikilink targets confirmed via previous review plus mechanical renames:
-- `[neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)` — updated slug, target exists
-- `[indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)` — newly added link, target exists
+- `[[neurophenomenology-and-contemplative-neuroscience]]` — updated slug, target exists
+- `[[indexical-knowledge-and-identity]]` — newly added link, target exists
 - All other links unchanged and verified in 2026-03-15 review
 
 ## Remaining Items

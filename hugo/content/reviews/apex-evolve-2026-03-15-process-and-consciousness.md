@@ -25,13 +25,13 @@ title: 'Apex Evolve Review: Process and Consciousness'
 ## Pessimistic Review
 
 ### Clarity Critic
-- Synthesis section had confusing double-reference to `[temporal-consciousness](/concepts/temporal-consciousness/)` listing it as two separate source descriptions (artifact of coalescing duration/temporal-consciousness articles)
+- Synthesis section had confusing double-reference to `[[temporal-consciousness]]` listing it as two separate source descriptions (artifact of coalescing duration/temporal-consciousness articles)
 - The distinction between process philosophy's panpsychism and the Map's dualism was well-handled but stated in three separate places
 
 ### Redundancy Hunter
 - Map's distinctness from process philosophy stated three times: opening paragraph, "Dualism Through Process" section, and Synthesis section
 - Combination problem vs hard problem structural parallel mentioned in two places
-- Duplicate `[temporal-consciousness](/concepts/temporal-consciousness/)` entry in frontmatter concepts list
+- Duplicate `[[temporal-consciousness]]` entry in frontmatter concepts list
 - Source Articles listed temporal-consciousness twice with different display names
 
 ### Narrative Flow Analyst
@@ -64,11 +64,11 @@ title: 'Apex Evolve Review: Process and Consciousness'
 
 ## Changes Made
 
-1. **Fixed frontmatter**: Removed duplicate `[temporal-consciousness](/concepts/temporal-consciousness/)` in concepts list
+1. **Fixed frontmatter**: Removed duplicate `[[temporal-consciousness]]` in concepts list
 2. **Integrated temporal thickness**: Added new paragraph after durée introduction explaining how duration varies in qualitative depth, connecting to consciousness-as-activity and Whitehead's concrescence
 3. **Integrated protention**: Added Husserl's forward-directed anticipatory structure to the creative novelty paragraph, strengthening the connection between phenomenology and Whitehead's subjective aim
 4. **Integrated authentic choice**: Added passage connecting temporal thickness to authentic vs inauthentic choice in the Bergson/freedom discussion
-5. **Fixed Synthesis double-reference**: Merged the two `[temporal-consciousness](/concepts/temporal-consciousness/)` references into one coherent description
+5. **Fixed Synthesis double-reference**: Merged the two `[[temporal-consciousness]]` references into one coherent description
 6. **Condensed redundancy**: Tightened the third statement of Map/process philosophy distinctness in the Synthesis section
 7. **Updated Source Articles**: Merged duplicate temporal-consciousness entries into one with comprehensive description
 8. **Updated ai_system**: Changed from claude-opus-4-5-20251101 to claude-opus-4-6

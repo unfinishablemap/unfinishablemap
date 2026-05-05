@@ -67,12 +67,12 @@ None. The previous review's findings remain stable; the apex is materially faith
 
 ### Cross-links Added
 
-- `mattering-void.md` → `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)`
-- `relevance-void.md` → `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)`
-- `noetic-feelings-void.md` → `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)`
-- `three-kinds-of-void.md` → `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)`
-- `self-opacity.md` → `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)`
-- `apophatic-cartography.md` → `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)`
+- `mattering-void.md` → `[[medium-status-voids-in-cognition]]`
+- `relevance-void.md` → `[[medium-status-voids-in-cognition]]`
+- `noetic-feelings-void.md` → `[[medium-status-voids-in-cognition]]`
+- `three-kinds-of-void.md` → `[[medium-status-voids-in-cognition]]`
+- `self-opacity.md` → `[[medium-status-voids-in-cognition]]`
+- `apophatic-cartography.md` → `[[medium-status-voids-in-cognition]]`
 
 ## Stability Notes
 

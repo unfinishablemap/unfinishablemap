@@ -24,10 +24,10 @@ topics: []
 
 This is the seventh deep review. The previous review confirmed full stability and recommended removal from review rotation. Since then the article has received only minor structural changes:
 
-1. Wikilink migration: `[mental-causation](/concepts/mental-causation-and-downward-causation/)` → `[mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)`
-2. Added cross-link to `[recognition-void](/voids/recognition-void/)` in "Why Content Matters" section (parallels content-specificity through Capgras delusion)
+1. Wikilink migration: `[[mental-causation]]` → `[[mental-causation-and-downward-causation]]`
+2. Added cross-link to `[[recognition-void]]` in "Why Content Matters" section (parallels content-specificity through Capgras delusion)
 3. Updated Marueckova citation description from "Four converging" to "Three converging" streams (now consistent with the linked clinical-neuroplasticity article)
-4. Added `[recognition-void](/voids/recognition-void/)` to related_articles and Further Reading
+4. Added `[[recognition-void]]` to related_articles and Further Reading
 
 None of these are substantive philosophical changes. They are link hygiene plus one well-integrated cross-reference. This review reconfirms convergence.
 

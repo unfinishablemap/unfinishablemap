@@ -48,7 +48,7 @@ None. All attributions verified correct. No misattributions, dropped qualifiers,
 ### Coalescing Integration Check
 - **Content preserved**: All five limitations from archived article distributed across appropriate sections (Training Problem subsection, Circularity Objection, Limitations, Two Philosophical Approaches)
 - **Evidential structure preserved**: Three conditions (Independence, Specificity, Resistance to Debunking) maintained as subsections under Cross-Traditional Convergence
-- **Cross-links updated**: Other articles (buddhism-and-dualism, problem-of-other-minds, epistemology-of-convergence-arguments) properly updated to use `[Convergent Phenomenological Evidence](/concepts/phenomenological-evidence/#convergence)` anchor links
+- **Cross-links updated**: Other articles (buddhism-and-dualism, problem-of-other-minds, epistemology-of-convergence-arguments) properly updated to use `[[phenomenological-evidence#convergence|Convergent Phenomenological Evidence]]` anchor links
 - **Frontmatter complete**: `coalesced_from` field tracks provenance; all related_articles and concepts from archived article are present
 - **No orphaned references**: No content articles still link to the archived convergent-phenomenological-evidence
 
@@ -68,8 +68,8 @@ None. All attributions verified correct. No misattributions, dropped qualifiers,
 - Compressed Dualism paragraph in Relation to Site Perspective to avoid repeating convergence arguments already present in the convergence section, replacing with an internal anchor link
 
 ### Cross-links Added
-- Internal `[](#convergence)` anchor link in Two Philosophical Approaches section
-- Internal `[](#convergence)` anchor link in Relation to Site Perspective Dualism paragraph
+- Internal `[[#convergence]]` anchor link in Two Philosophical Approaches section
+- Internal `[[#convergence]]` anchor link in Relation to Site Perspective Dualism paragraph
 
 ## Remaining Items
 

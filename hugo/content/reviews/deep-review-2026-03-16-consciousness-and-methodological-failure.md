@@ -23,13 +23,13 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink to archived article**: Body text and frontmatter referenced `[consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)`, which was archived and superseded by `consciousness-and-the-limits-of-explanation`. Updated all references (body text, topics list, Further Reading) to point to the live successor article.
+- **Broken wikilink to archived article**: Body text and frontmatter referenced `[[consciousness-and-the-philosophy-of-explanation]]`, which was archived and superseded by `consciousness-and-the-limits-of-explanation`. Updated all references (body text, topics list, Further Reading) to point to the live successor article.
 - **Date inconsistency**: Text said Chalmers named the hard problem "in 1994" but the reference cited the 1995 JCS publication. Fixed to 1995 to match the citation.
 
 ### Medium Issues Found
 - **Orphaned reference**: Laudan (1984) appeared in References but was never cited in the text. Removed.
 - **Missing reference**: Paradigm crisis concept (Kuhn 1962) was referenced in the text but only Kuhn (1977) was cited. Added Kuhn (1962) *Structure of Scientific Revolutions* to references and in-text citation.
-- **Missing cross-link in body**: `[phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)` appeared only in Further Reading. Added contextual link in the "Progress Through Honest Framework Choice" section.
+- **Missing cross-link in body**: `[[phenomenology-of-philosophical-disagreement]]` appeared only in Further Reading. Added contextual link in the "Progress Through Honest Framework Choice" section.
 
 ### Counterarguments Considered
 - **Eliminative materialist**: Article treats "materialism" somewhat monolithically — identity theory, functionalism, eliminativism, and non-reductive physicalism have distinct responses to the hard problem. However, the article's argument targets the *shared* reliance on third-person methodology, so this generalization is defensible at the article's level of abstraction.
@@ -51,7 +51,7 @@ topics: []
 - Added Kuhn (1962) reference with in-text citation for paradigm crisis concept
 - Corrected Chalmers date from 1994 to 1995
 - Removed orphaned Laudan (1984) reference
-- Added contextual cross-link to `[phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)` in body text
+- Added contextual cross-link to `[[phenomenology-of-philosophical-disagreement]]` in body text
 - Added `consciousness-and-the-limits-of-explanation` and `phenomenology-of-philosophical-disagreement` to related_articles frontmatter
 
 ### Cross-links Added

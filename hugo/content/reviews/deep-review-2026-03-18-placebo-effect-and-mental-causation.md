@@ -35,11 +35,11 @@ None. The article has stabilized well since the previous review. All six adversa
 
 ### Medium Issues Found
 
-1. **Missing cross-link to content-specificity concept page**: The article's central argument revolves around content-specificity but never linked to the dedicated `[content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/)` concept page. **Resolution**: Added wikilink in "Why Content Matters" section and to frontmatter concepts list.
+1. **Missing cross-link to content-specificity concept page**: The article's central argument revolves around content-specificity but never linked to the dedicated `[[content-specificity-of-mental-causation]]` concept page. **Resolution**: Added wikilink in "Why Content Matters" section and to frontmatter concepts list.
 
-2. **Missing cross-links to related embodiment concepts**: The open-label placebos section discusses embodied meaning and therapeutic ritual without linking to `[somatic-interface](/concepts/somatic-interface/)` or `[embodied-cognition](/concepts/embodied-cognition/)`. **Resolution**: Added both links in the open-label placebos paragraph and to Further Reading.
+2. **Missing cross-links to related embodiment concepts**: The open-label placebos section discusses embodied meaning and therapeutic ritual without linking to `[[somatic-interface]]` or `[[embodied-cognition]]`. **Resolution**: Added both links in the open-label placebos paragraph and to Further Reading.
 
-3. **Missing cross-link to neuroplasticity**: The conditioning section discusses how meaning reshapes physiological responses without linking to the parallel phenomenon of directed mental activity reshaping neural structure. **Resolution**: Added `[neuroplasticity](/concepts/neuroplasticity/)` link in conditioning section and to Further Reading.
+3. **Missing cross-link to neuroplasticity**: The conditioning section discusses how meaning reshapes physiological responses without linking to the parallel phenomenon of directed mental activity reshaping neural structure. **Resolution**: Added `[[neuroplasticity]]` link in conditioning section and to Further Reading.
 
 ### Counterarguments Considered
 
@@ -67,7 +67,7 @@ No new counterarguments identified that aren't already covered.
 ### Enhancements Made
 
 1. **Content-specificity concept link**: Connected the article's central argument to the dedicated concept page, strengthening the Map's internal knowledge graph.
-2. **Embodiment cross-links**: Connected the open-label placebos discussion to `[somatic-interface](/concepts/somatic-interface/)` and `[embodied-cognition](/concepts/embodied-cognition/)`, grounding the "richer channels than propositional belief" argument in existing Map content.
+2. **Embodiment cross-links**: Connected the open-label placebos discussion to `[[somatic-interface]]` and `[[embodied-cognition]]`, grounding the "richer channels than propositional belief" argument in existing Map content.
 3. **Neuroplasticity parallel**: Connected conditioning discussion to neuroplasticity, showing how meaning-driven physiological change operates at multiple timescales.
 4. **Expanded Further Reading**: Added four new entries pointing to concept pages that support the article's arguments.
 

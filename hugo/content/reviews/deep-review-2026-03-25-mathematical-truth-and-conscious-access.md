@@ -42,7 +42,7 @@ topics: []
 - "What Would Challenge This View?" section with four falsifiers preserved
 
 ### Enhancements Made
-- Added `[consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)` to concepts frontmatter
+- Added `[[consciousness-and-the-philosophy-of-mathematics]]` to concepts frontmatter
 - Added brief cross-reference to concept page in opening paragraph alongside existing companion article reference
 - Added concept page as first entry in Further Reading section
 

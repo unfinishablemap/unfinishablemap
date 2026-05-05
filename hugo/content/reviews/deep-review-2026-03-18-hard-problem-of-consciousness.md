@@ -35,7 +35,7 @@ None. All attributions correct (Chalmers, Levine, Jackson, Kim, Russell/Eddingto
 
 ### Medium Issues Found
 - **Missing metaproblem cross-link in body text**: The illusionism paragraph noted illusionism "may not eliminate the explanatory gap but relocate it" but didn't connect to the metaproblem — which sharpens this critique by showing illusionism faces an escalating burden explaining why problem intuitions track the gap. **Resolution**: Added one sentence connecting to the metaproblem and interactionism's advantage.
-- **Phenomenal concepts strategy lacked wikilink**: The paragraph discussed the strategy extensively without linking to the dedicated concept page. **Resolution**: Added `[phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)` wikilink.
+- **Phenomenal concepts strategy lacked wikilink**: The paragraph discussed the strategy extensively without linking to the dedicated concept page. **Resolution**: Added `[[phenomenal-concepts-strategy]]` wikilink.
 
 ### Low Issues Found
 - **Redundant closing in phenomenal concepts paragraph**: The circularity point was stated twice in different formulations. **Resolution**: Tightened to a single formulation to compensate for the metaproblem addition.
@@ -54,8 +54,8 @@ All six adversarial personas applied. No new counterarguments beyond those addre
 
 ### Enhancements Made
 - Added metaproblem sentence to illusionism paragraph: the metaproblem sharpens the illusionism critique by showing problem intuitions precisely track the explanatory gap, and interactionism dissolves this burden
-- Added `[phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)` wikilink in body text
-- Added `[meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/)` and `[phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)` to concepts frontmatter
+- Added `[[phenomenal-concepts-strategy]]` wikilink in body text
+- Added `[[meta-problem-of-consciousness]]` and `[[phenomenal-concepts-strategy]]` to concepts frontmatter
 - Tightened phenomenal concepts paragraph closing (removed redundant circularity restatement)
 
 ### Cross-links Added

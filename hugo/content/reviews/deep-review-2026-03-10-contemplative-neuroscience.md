@@ -34,8 +34,8 @@ None. The article is in good shape after the previous review's resolutions.
 2. **Materialist-leaning language in gamma section** (line 76): "gamma synchrony may implement moment-to-moment binding" — "implement" implies the neural mechanism IS the experience.
    - **Resolution**: Changed to "may be the neural correlate of moment-to-moment binding" with cross-link to temporal-consciousness.
 
-3. **Awkward hyphenated display text** (lines 90, 194): `[Voluntary-attention-control](/concepts/attention-as-interface/)` read awkwardly.
-   - **Resolution**: Changed to `[Voluntary attention control](/concepts/attention-as-interface/)` (spaces instead of hyphens).
+3. **Awkward hyphenated display text** (lines 90, 194): `[[attention-as-interface|Voluntary-attention-control]]` read awkwardly.
+   - **Resolution**: Changed to `[[attention-as-interface|Voluntary attention control]]` (spaces instead of hyphens).
 
 ### Counterarguments Considered
 

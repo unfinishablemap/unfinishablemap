@@ -111,8 +111,8 @@ All pre-existing strengths intact:
 
 ### Cross-Links Added
 
-- `[forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)` to `related_articles`
-- Inline wikilink to `[the selection-criterion trilemma](/topics/forward-in-time-conscious-selection/)` in §"Synthesis"
+- `[[forward-in-time-conscious-selection]]` to `related_articles`
+- Inline wikilink to `[[forward-in-time-conscious-selection|the selection-criterion trilemma]]` in §"Synthesis"
 
 ## Length Assessment
 
@@ -143,4 +143,4 @@ Net change: +35 words (~0.75%). Article remains at 116% of soft threshold (same 
 
 ## Closing Verdict
 
-The cross-review surfaced a genuine logical-structural parallel between the seam test's third refinement (editorial discipline) and the selection-criterion trilemma's option (iii) (metaphysical commitment): both honor a non-reducible primitive when reduction is unavailable, on the same defeasibility terms. The parallel is now installed as a brief cross-link in §"Synthesis" with `[forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)` added to `related_articles`. No critical issues identified by the six-persona pessimistic pass. Length-neutral discipline honored (116% band preserved across the change). The article remains in stable post-convergence state.
+The cross-review surfaced a genuine logical-structural parallel between the seam test's third refinement (editorial discipline) and the selection-criterion trilemma's option (iii) (metaphysical commitment): both honor a non-reducible primitive when reduction is unavailable, on the same defeasibility terms. The parallel is now installed as a brief cross-link in §"Synthesis" with `[[forward-in-time-conscious-selection]]` added to `related_articles`. No critical issues identified by the six-persona pessimistic pass. Length-neutral discipline honored (116% band preserved across the change). The article remains in stable post-convergence state.

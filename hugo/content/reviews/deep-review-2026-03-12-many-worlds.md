@@ -26,7 +26,7 @@ topics: []
 None. Article remains stable after eight reviews.
 
 ### Medium Issues Found
-- **Duplicate related_articles entry**: `[probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)` appeared twice in frontmatter. **Resolution**: Removed duplicate.
+- **Duplicate related_articles entry**: `[[probability-problem-in-many-worlds]]` appeared twice in frontmatter. **Resolution**: Removed duplicate.
 
 ### Counterarguments Considered
 All six adversarial personas applied:

@@ -63,7 +63,7 @@ All six adversarial personas engaged:
 
 - **Moral cognition examples**: Now correctly demonstrate all four levels (0, 1, 2, 3) with the Level 3 example showing genuine recursive mindreading
 - **Neural correlates**: Condensed from ~150 words to ~100 words, eliminating textbook filler while preserving the substantive insights (DMN overlap, phylogenetic expansion)
-- **Cross-link added**: `[childhood-development-and-the-interface](/topics/childhood-development-and-the-interface/)` in developmental trajectory section
+- **Cross-link added**: `[[topics/childhood-development-and-the-interface]]` in developmental trajectory section
 - **Frontmatter corrected**: Proper topic/concept classification, duplicate removed
 
 ### Cross-links Added

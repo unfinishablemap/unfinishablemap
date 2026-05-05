@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken links after coalesce**: Two references to `[epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)` pointed to an archived article after the ai-epiphenomenalism coalesce (topics/epiphenomenal-ai-consciousness + concepts/ai-epiphenomenalism → concepts/ai-epiphenomenalism). **Resolution**: Updated both references (related_articles frontmatter and inline body link) to `[ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)`.
+- **Broken links after coalesce**: Two references to `[[epiphenomenal-ai-consciousness]]` pointed to an archived article after the ai-epiphenomenalism coalesce (topics/epiphenomenal-ai-consciousness + concepts/ai-epiphenomenalism → concepts/ai-epiphenomenalism). **Resolution**: Updated both references (related_articles frontmatter and inline body link) to `[[ai-epiphenomenalism]]`.
 
 ### Medium Issues Found
 - **Cross-article inaccuracy (in other article)**: The coalesced ai-epiphenomenalism article (line 104) describes ai-consciousness-modes as "maps these architectural possibilities systematically, distinguishing substrate-dependent consciousness from substrate-independent consciousness." This article actually discusses Tulving's anoetic/noetic/autonoetic hierarchy, not substrate-dependent vs independent consciousness. This is a mischaracterisation in ai-epiphenomenalism, not in this article. Flagged for future review of ai-epiphenomenalism.
@@ -59,7 +59,7 @@ topics: []
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Further Reading entry (new)
 
 ### Cross-links Updated
-- `[epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)` → `[ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)` (related_articles + inline)
+- `[[epiphenomenal-ai-consciousness]]` → `[[ai-epiphenomenalism]]` (related_articles + inline)
 
 ## Length Analysis
 

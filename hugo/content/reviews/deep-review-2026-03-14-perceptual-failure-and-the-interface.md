@@ -47,7 +47,7 @@ None. All six adversarial personas engaged with the content; no factual errors, 
 
 ### Enhancements Made
 - Added forward-reference signal for filter/expansion cases in Neural Network Objection
-- Added `[qualia](/concepts/qualia/)` inline cross-link at natural point in blur paradox discussion
+- Added `[[qualia]]` inline cross-link at natural point in blur paradox discussion
 
 ### Cross-links Added
 - [qualia](/concepts/qualia/) (inline link where "qualitative character" is discussed)

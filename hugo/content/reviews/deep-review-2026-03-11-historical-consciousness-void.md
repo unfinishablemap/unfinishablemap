@@ -65,4 +65,4 @@ None. The article is in good shape. Future reviews should focus on whether new v
 
 - The eliminative materialist and functionalist objections represent bedrock disagreements about whether "what it's like" is a meaningful category beyond functional description. Future reviews should NOT re-flag "functionalist response too weak" unless there is a specific new argumentative gap.
 - The empirical indistinguishability of the two interpretations (conceptual vs phenomenal change) is a feature of the void, not a flaw in the article. Future reviews should not treat this as an issue requiring resolution.
-- The `[philosophy-of-mind](/concepts/philosophy-of-mind/)` frontmatter topic reference has no corresponding file. This is a site-wide issue (the topic doesn't exist yet), not specific to this article.
+- The `[[philosophy-of-mind]]` frontmatter topic reference has no corresponding file. This is a site-wide issue (the topic doesn't exist yet), not specific to this article.

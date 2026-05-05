@@ -30,7 +30,7 @@ None. The article's factual claims, attributions, and structure remain sound. No
 
 - **Missing three-tier hierarchy reference**: The experimental section referenced testing-consciousness-collapse as a "concrete prediction catalogue" without mentioning the three-tier structure (collapse existence → consciousness-dependence → logical constraints) that organizes predictions in the enriched companion article. **Resolution**: Added explicit mention of the three-tier hierarchy after the "if confirmed" paragraph, giving readers the framework before they follow the link.
 
-- **Missing post-decoherence-selection cross-link**: The consciousness-modulated framework describes consciousness acting on an existing stochastic process but didn't link to the concept page explaining the conceptual gap where this action occurs. **Resolution**: Added `[post-decoherence-selection](/concepts/post-decoherence-selection/)` wikilink in the consciousness-modulated collapse description.
+- **Missing post-decoherence-selection cross-link**: The consciousness-modulated framework describes consciousness acting on an existing stochastic process but didn't link to the concept page explaining the conceptual gap where this action occurs. **Resolution**: Added `[[post-decoherence-selection]]` wikilink in the consciousness-modulated collapse description.
 
 - **Missing testability-ledger in Further Reading**: The article discusses experimental stakes extensively but didn't link to the systematic catalogue of disconfirmers. **Resolution**: Added to Further Reading.
 

@@ -59,8 +59,8 @@ Archive copies preserve URLs at `archive/voids/transparency-void.md` and `archiv
 
 ## Approach
 
-- **Frontmatter**: Replaced `[transparency-void](/voids/necessary-opacity/)` and `[destabilizing-self-knowledge](/voids/necessary-opacity/)` with `[necessary-opacity](/voids/necessary-opacity/)`. Where both appeared in the same file, consolidated to a single entry.
-- **Inline text**: Updated wikilinks to `[necessary-opacity](/voids/necessary-opacity/)` or `[display text](/voids/necessary-opacity/)` preserving contextual meaning.
+- **Frontmatter**: Replaced `[[transparency-void]]` and `[[destabilizing-self-knowledge]]` with `[[necessary-opacity]]`. Where both appeared in the same file, consolidated to a single entry.
+- **Inline text**: Updated wikilinks to `[[necessary-opacity]]` or `[[necessary-opacity|display text]]` preserving contextual meaning.
 - **Further Reading**: Updated wikilinks and adjusted descriptions to reflect the merged article's scope. Where both old articles appeared, consolidated to a single entry.
 - **References section**: Updated citation URL in mutation-void.md.
 - **Not updated**: Research notes, reviews, workflow archives, and changelog entries (historical records left intact).

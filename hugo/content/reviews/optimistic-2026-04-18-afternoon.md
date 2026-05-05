@@ -72,7 +72,7 @@ The **understanding-void** article's coalesced treatment of obviousness and expl
 
 - **Notable quote**: "Pain causes wincing not alongside the brain state but instead of it."
 
-- **Why it works**: The three precursor articles each redefined the Subset/Delegatory Laws and re-presented the major-sergeant analogy three times. The unified article presents them once, with trumping preemption positioned as the specific variety delegatory causation invokes. The 22-file post-coalesce wikilink-retargeting operation — replacing frontmatter entries with `[delegatory-causation](/concepts/delegatory-causation/)` and rewriting in-body wikilinks to `[display text](/concepts/delegatory-causation/)` preserving mechanism/structure/baseline emphasis — is the kind of cross-site maintenance that tests whether the coalesce has been done properly. Zero drift in 22 files is the stability signal the coalesce was engineered correctly.
+- **Why it works**: The three precursor articles each redefined the Subset/Delegatory Laws and re-presented the major-sergeant analogy three times. The unified article presents them once, with trumping preemption positioned as the specific variety delegatory causation invokes. The 22-file post-coalesce wikilink-retargeting operation — replacing frontmatter entries with `[[delegatory-causation]]` and rewriting in-body wikilinks to `[[delegatory-causation|display text]]` preserving mechanism/structure/baseline emphasis — is the kind of cross-site maintenance that tests whether the coalesce has been done properly. Zero drift in 22 files is the stability signal the coalesce was engineered correctly.
 
 ### concepts/zahavian-minimal-self.md (expand-topic 10:09 UTC + refine-draft 11:17 UTC + deep-review 11:48 UTC; 2432 words)
 

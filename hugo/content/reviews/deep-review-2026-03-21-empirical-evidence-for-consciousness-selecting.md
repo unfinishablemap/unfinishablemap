@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Cross-link display text mismatch**: The parenthetical link to contemplative practice used "contemplative evidence for consciousness theories" as display text, but the actual article title is "Contemplative Practice as Philosophical Evidence." → Fixed to match actual title.
-- **Missing inline cross-link**: The Relation to Site Perspective section discussed interactionist dualism conceptually but did not link to the existing `[interactionist-dualism](/concepts/interactionist-dualism/)` article despite it being listed in frontmatter concepts. → Fixed by adding inline link.
+- **Missing inline cross-link**: The Relation to Site Perspective section discussed interactionist dualism conceptually but did not link to the existing `[[concepts/interactionist-dualism]]` article despite it being listed in frontmatter concepts. → Fixed by adding inline link.
 
 ### Counterarguments Considered
 - **Byproduct hypothesis** (Churchland): Article acknowledges but dismisses as "increasingly strained." Previous review deferred to the evolutionary-case article for full treatment — still appropriate.

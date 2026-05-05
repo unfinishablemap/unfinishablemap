@@ -27,7 +27,7 @@ topics: []
 1. **Misattribution of "meta-problem" to Frankish** (line 66): The article said "Frankish's meta-problem asks why we *believe* we have phenomenal consciousness even if we don't." The meta-problem of consciousness was coined by Chalmers (2018), not Frankish. The article already cited Chalmers (2018) as reference 6, making this a clear attribution error.
    - **Resolution**: Changed to "Chalmers' meta-problem (2018)"
 
-2. **Duplicate Further Reading entry**: Two entries pointed to `[attention-as-interface](/concepts/attention-as-interface/)` — one with display text "attention" and one without. Redundant.
+2. **Duplicate Further Reading entry**: Two entries pointed to `[[attention-as-interface]]` — one with display text "attention" and one without. Redundant.
    - **Resolution**: Merged into single entry with combined description
 
 ### Medium Issues Found

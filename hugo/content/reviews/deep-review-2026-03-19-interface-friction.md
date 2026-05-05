@@ -49,7 +49,7 @@ topics: []
 - Quantum Zeno bandwidth tension explicitly acknowledged with creative resolution
 
 ### Enhancements Made
-- Added cross-link to `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` in Attentional Cost section — this concept directly discusses the Stapp Zeno mechanism referenced here and was previously only in the frontmatter concepts list
+- Added cross-link to `[[consciousness-selecting-neural-patterns]]` in Attentional Cost section — this concept directly discusses the Stapp Zeno mechanism referenced here and was previously only in the frontmatter concepts list
 
 ### Cross-links Added
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — body text link in Attentional Cost section

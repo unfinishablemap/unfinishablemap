@@ -29,7 +29,7 @@ None. Attribution checks passed: Alston (epistemic circularity), Brentano (inner
 ### Medium Issues Found
 - **Uncited references**: Schwitzgebel (2008) and Kirchhoff et al. (2018) listed in References but never integrated into the text. Resolution: integrated Schwitzgebel into the weak-form section (empirical sharpening of introspective unreliability) and Kirchhoff into the predictive-construction-void instantiation (Markov-blanket formalism makes the architectural sealing explicit).
 - **Heterophenomenology unnamed**: The "Third-person displacement is not dissolution" section argued against the materialist dissolution response but did not name Dennett's heterophenomenology, the most disciplined version of that move. Resolution: named it explicitly and clarified that the paradox is relocated to the interpreter rather than removed.
-- **Missing cognitive-closure link**: The article's permanent-limit thesis is a natural extension of McGinn's mysterianism, but the connection was absent. Resolution: added `[mysterianism](/concepts/mysterianism/)` to concepts frontmatter and Further Reading with a one-line framing of the relationship.
+- **Missing cognitive-closure link**: The article's permanent-limit thesis is a natural extension of McGinn's mysterianism, but the connection was absent. Resolution: added `[[mysterianism]]` to concepts frontmatter and Further Reading with a one-line framing of the relationship.
 
 ### Counterarguments Considered
 - **Eliminativist (Churchland)**: "No meta-instrument" too strong given neuroscience. Addressed by existing "Third-person displacement" section, now strengthened by heterophenomenology engagement.
@@ -40,7 +40,7 @@ None. Attribution checks passed: Alston (epistemic circularity), Brentano (inner
 - **Buddhist (Nagarjuna)**: Sympathetic rather than adversarial; the self cannot find itself. No change needed.
 
 ### Unsupported Claims
-- The Lawvere fixed-point unification is asserted via `[self-reference-paradox](/concepts/self-reference-paradox/)` cross-link; load-bearing work is in the linked article. Acceptable.
+- The Lawvere fixed-point unification is asserted via `[[self-reference-paradox]]` cross-link; load-bearing work is in the linked article. Acceptable.
 - Michel-year inconsistency ("2021" with "Erkenntnis 88") is a bibliographic artefact (online-first vs. print volume) and is standardised across the repo. Left unchanged to preserve consistency.
 
 ## Optimistic Analysis Summary

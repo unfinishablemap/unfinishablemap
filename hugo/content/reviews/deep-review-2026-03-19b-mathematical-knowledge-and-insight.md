@@ -24,7 +24,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilinks to archived articles**: Two references pointed to `[aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)` and `[aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/)`, both archived and superseded by `[aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)`. These appeared in the topics frontmatter, body text (line 93), and Further Reading. Resolution: Updated all three references to point to the replacement article.
+- **Broken wikilinks to archived articles**: Two references pointed to `[[aesthetic-dimension-of-consciousness]]` and `[[aesthetic-irreducibility-arguments]]`, both archived and superseded by `[[aesthetics-and-consciousness]]`. These appeared in the topics frontmatter, body text (line 93), and Further Reading. Resolution: Updated all three references to point to the replacement article.
 
 ### Medium Issues Found
 - **Missing Benacerraf/mind-body structural parallel**: The philosophy of mathematics article explicitly develops the insight that Benacerraf's dilemma and the mind-body interaction problem are structurally isomorphic — both ask how entities in one ontological domain contact a causally disconnected domain. This cross-review connection was absent from the "What Dualism Offers" section. Resolution: Added a sentence noting the parallel and pointing to the philosophy article for full development.

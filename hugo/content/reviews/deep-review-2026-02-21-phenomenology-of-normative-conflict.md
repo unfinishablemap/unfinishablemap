@@ -38,7 +38,7 @@ topics: []
 
 6. **Weak computationalist rebuttal**: The claim that moral residue "has no obvious computational analogue" was asserted without engaging the strongest computationalist response (multi-objective optimisation with Pareto trade-offs). **Resolution**: Strengthened the passage to anticipate and respond to the computational analogy, distinguishing moral residue from abstract trade-off recognition.
 
-7. **Inconsistent wikilink format**: `[phenomenal-value-realism](/topics/phenomenal-value-realism/)` in the concepts frontmatter included an unnecessary path prefix. **Resolution**: Fixed to `[phenomenal-value-realism](/topics/phenomenal-value-realism/)`.
+7. **Inconsistent wikilink format**: `[[topics/phenomenal-value-realism]]` in the concepts frontmatter included an unnecessary path prefix. **Resolution**: Fixed to `[[phenomenal-value-realism]]`.
 
 ### Counterarguments Considered
 

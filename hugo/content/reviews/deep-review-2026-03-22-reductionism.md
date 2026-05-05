@@ -30,7 +30,7 @@ Fourth deep review of the reductionism article. Since the last review (2026-02-2
 None.
 
 ### Medium Issues Found
-- [Missing body-text link to interactionist-dualism]: Added `[interactionist dualism](/concepts/interactionist-dualism/)` in the Relation to Site Perspective section. The concept was in frontmatter but not linked in the body where it's most relevant.
+- [Missing body-text link to interactionist-dualism]: Added `[[interactionist-dualism|interactionist dualism]]` in the Relation to Site Perspective section. The concept was in frontmatter but not linked in the body where it's most relevant.
 
 ### Counterarguments Considered
 
@@ -59,7 +59,7 @@ All attributions verified accurate (Nagel 1961, Lewis 1966/1972, Kim 1992/1998/2
 - Buddhist tradition paragraph acknowledges honest tension
 
 ### Enhancements Made
-- Added `[interactionist dualism](/concepts/interactionist-dualism/)` cross-link in Relation to Site Perspective
+- Added `[[interactionist-dualism|interactionist dualism]]` cross-link in Relation to Site Perspective
 
 ### Cross-links Added
 - [interactionist-dualism](/concepts/interactionist-dualism/) (body text, was previously only in frontmatter)

@@ -45,9 +45,9 @@ This review was triggered by the article's orphan status — no inbound links fr
 ### Enhancements Made
 
 **Stale link fixes (3 files):**
-- `ethics-of-cognitive-enhancement-under-dualism.md`: Updated 3 instances of `[childhood-development-and-the-interface](/topics/consciousness-interface-development/)` → `[consciousness-interface-development](/topics/consciousness-interface-development/)`
-- `phenomenology-of-collective-intentionality-and-we-consciousness.md`: Updated 2 instances of `[childhood-development-and-the-interface](/topics/consciousness-interface-development/)` → `[consciousness-interface-development](/topics/consciousness-interface-development/)`
-- `the-interface-location-problem.md`: Updated 3 instances of `[developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/)` → `[consciousness-interface-development](/topics/consciousness-interface-development/)`
+- `ethics-of-cognitive-enhancement-under-dualism.md`: Updated 3 instances of `[[childhood-development-and-the-interface]]` → `[[consciousness-interface-development]]`
+- `phenomenology-of-collective-intentionality-and-we-consciousness.md`: Updated 2 instances of `[[childhood-development-and-the-interface]]` → `[[consciousness-interface-development]]`
+- `the-interface-location-problem.md`: Updated 3 instances of `[[developmental-trajectory-of-the-interface]]` → `[[consciousness-interface-development]]`
 
 **New inbound cross-links added (4 files):**
 - `architecture-of-cognitive-closure.md` (void): Added inline link in "Developmental Limits" section and `related_articles` entry. Natural fit — developmental closure is the inverse of interface development.

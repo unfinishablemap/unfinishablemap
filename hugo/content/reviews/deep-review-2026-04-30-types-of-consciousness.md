@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Routine cycle review. The article was flagged stable in the prior review with the note "Future reviews should focus on cross-linking only unless substantive new content is added." Since then, three minor commits retargeted wikilinks (`ai-consciousness-modes` → `ai-consciousness-typology`) and added an `[interface-heterogeneity](/concepts/interface-heterogeneity/)` cross-link. No structural changes. Word count is 1938 (78% of 2500 soft threshold) — normal mode permitted but kept conservative per stability flag.
+Routine cycle review. The article was flagged stable in the prior review with the note "Future reviews should focus on cross-linking only unless substantive new content is added." Since then, three minor commits retargeted wikilinks (`ai-consciousness-modes` → `ai-consciousness-typology`) and added an `[[interface-heterogeneity]]` cross-link. No structural changes. Word count is 1938 (78% of 2500 soft threshold) — normal mode permitted but kept conservative per stability flag.
 
 ## Pessimistic Analysis Summary
 

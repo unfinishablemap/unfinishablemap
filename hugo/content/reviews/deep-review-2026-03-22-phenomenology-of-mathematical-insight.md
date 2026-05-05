@@ -43,7 +43,7 @@ The original article `phenomenology-of-mathematical-insight` was archived on 202
 
 ### Cross-links Added
 
-Links to `[mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/)` added in both `related_articles` frontmatter and Further Reading sections of:
+Links to `[[mathematical-knowledge-and-insight]]` added in both `related_articles` frontmatter and Further Reading sections of:
 
 1. **computational-cognitive-limits** (voids) — Discusses Gödel, Turing, and mathematical cognition; already linked to consciousness-and-mathematical-cognition but not to the epistemology/phenomenology companion
 2. **phenomenology-of-creative-insight** (concepts) — Discusses Poincaré's aesthetic sensibility and mathematical intuition; inline wikilink added in the aesthetic experience section
@@ -52,7 +52,7 @@ Links to `[mathematical-knowledge-and-insight](/topics/mathematical-truth-and-co
 5. **phenomenology-of-understanding-and-meaning** (topics) — Discusses felt necessity, the click of comprehension in proofs, and mathematical cognition as paradigm case
 
 ### Inline Links Added
-- `incubation-effect-and-unconscious-processing`: Poincaré reference now links to `[phenomenology of mathematical reception](/topics/mathematical-truth-and-conscious-access/)`
+- `incubation-effect-and-unconscious-processing`: Poincaré reference now links to `[[mathematical-knowledge-and-insight|phenomenology of mathematical reception]]`
 - `phenomenology-of-creative-insight`: Poincaré/aesthetic sensibility passage now cross-references the full mathematical insight phenomenology
 
 ## Remaining Items

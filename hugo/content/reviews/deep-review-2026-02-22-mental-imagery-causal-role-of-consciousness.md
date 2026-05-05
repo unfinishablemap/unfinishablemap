@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link**: `[baseline cognition](/concepts/baseline-cognition/)` pointed to a non-existent page. Fixed to `[baseline cognition](/concepts/baseline-cognition/)` (the actual concept page).
+- **Broken link**: `[[consciousness-independent-baseline-cognition|baseline cognition]]` pointed to a non-existent page. Fixed to `[[baseline-cognition|baseline cognition]]` (the actual concept page).
 
 ### Medium Issues Found
 - **Content Matching argument conflation** (Breaking the Standoff § Content Matching): The original text assumed first-person perspective imagery involves "richer phenomenal engagement" without justification. Tightened to acknowledge the physicalist counter (perspective differences may reflect different motor circuits) while noting the consistent correlation between phenomenological richness and outcome strength. Resolution: rewrote passage to present the argument more carefully and include the physicalist response.

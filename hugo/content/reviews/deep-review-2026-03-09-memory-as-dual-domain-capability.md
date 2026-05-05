@@ -25,7 +25,7 @@ topics: []
 ### Critical Issues Found
 - **Misattributed lead author (Reference 7)**: Article cited "Hameroff et al., 2025" but the paper's lead author is Wiest, M.C. Corrected to "Wiest et al. (2025)" in both in-text citation and References.
 - **Experimental finding attributed to wrong paper**: The working memory entanglement finding is from Kerskens & Pérez (2022), not the 2025 review. Corrected to properly attribute the MRI study to Kerskens & Pérez with the Wiest review as secondary citation.
-- **Broken wikilinks**: `[consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)` and `constructive-perception` referenced non-existent files. Removed from Further Reading and related_articles frontmatter.
+- **Broken wikilinks**: `[[consciousness-and-temporal-integration]]` and `[[constructive-perception]]` referenced non-existent files. Removed from Further Reading and related_articles frontmatter.
 
 ### Medium Issues Found
 - **Unattributed quote**: "a goal-directed activity guided by the need for consonance, alignment, and internal stability" lacked citation. Added attribution to Kube et al. (2025) and added reference entry.

@@ -29,7 +29,7 @@ topics: []
 None. This is the seventh review of self-opacity. No critical issues across any of the seven.
 
 ### Medium Issues Found
-1. **Asymmetric anchored linking on parallel sections**: The forward link from zahavian-minimal-self (line 118) used an anchored wikilink `[self-opacity void](/voids/self-opacity/#constitutive-as-kind-not-as-degree)` while the back-link from self-opacity (line 135) used only `[zahavian-minimal-self](/concepts/self-and-self-consciousness/)`. For a paired section calibration—where the parallel sections share matching H2 headings, mutually mirror the same kind/degree resolution, both name the falsifying scenario as "clean elimination, not attenuation," and both cite Sass & Parnas—the back-link should anchor at the corresponding section. **Resolution**: retargeted to `[zahavian-minimal-self](/concepts/self-and-self-consciousness/#constitutive-as-kind-not-as-degree)`. Display text preserved as the slug, mirroring the forward-link convention of including a short readable referent ("self-opacity void") rather than rendering the bare anchor.
+1. **Asymmetric anchored linking on parallel sections**: The forward link from zahavian-minimal-self (line 118) used an anchored wikilink `[[self-opacity#Constitutive as Kind, Not as Degree|self-opacity void]]` while the back-link from self-opacity (line 135) used only `[[zahavian-minimal-self]]`. For a paired section calibration—where the parallel sections share matching H2 headings, mutually mirror the same kind/degree resolution, both name the falsifying scenario as "clean elimination, not attenuation," and both cite Sass & Parnas—the back-link should anchor at the corresponding section. **Resolution**: retargeted to `[[zahavian-minimal-self#Constitutive as Kind, Not as Degree|zahavian-minimal-self]]`. Display text preserved as the slug, mirroring the forward-link convention of including a short readable referent ("self-opacity void") rather than rendering the bare anchor.
 
 ### Attribution Accuracy Check
 - All citations verified across six previous reviews and unchanged in this sweep.
@@ -65,8 +65,8 @@ None new. Existing back-link retargeted to anchored form.
 
 The pair is now symmetrically anchored:
 
-- **zahavian-minimal-self §"Constitutive as Kind, Not as Degree"** (line 118): `[self-opacity void](/voids/self-opacity/#constitutive-as-kind-not-as-degree)` — anchored, display text "self-opacity void"
-- **self-opacity §"Constitutive as Kind, Not as Degree"** (line 135): `[zahavian-minimal-self](/concepts/self-and-self-consciousness/#constitutive-as-kind-not-as-degree)` — anchored, display text "zahavian-minimal-self"
+- **zahavian-minimal-self §"Constitutive as Kind, Not as Degree"** (line 118): `[[self-opacity#Constitutive as Kind, Not as Degree|self-opacity void]]` — anchored, display text "self-opacity void"
+- **self-opacity §"Constitutive as Kind, Not as Degree"** (line 135): `[[zahavian-minimal-self#Constitutive as Kind, Not as Degree|zahavian-minimal-self]]` — anchored, display text "zahavian-minimal-self"
 
 Conceptual reciprocity confirmed:
 - Both share the matching H2 heading "Constitutive as Kind, Not as Degree" verbatim.

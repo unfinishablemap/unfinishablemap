@@ -27,7 +27,7 @@ None. The article has not been modified since the previous review. All critical 
 
 ### Medium Issues Found
 - **Opening redundancy**: "The path runs through three stages" (paragraph 1) and "The argument runs through three stages" (paragraph 2) were redundant. **Resolution**: Removed the duplicative phrase, tightening the opening.
-- **Missing cross-link to constitutive-exclusion**: The Putnam section discusses how consciousness constitutes the meaningful world, which connects directly to the constitutive exclusion. **Resolution**: Added `[constitutive-exclusion](/topics/constitutive-exclusion/)` link with contextual explanation after the Putnam discussion.
+- **Missing cross-link to constitutive-exclusion**: The Putnam section discusses how consciousness constitutes the meaningful world, which connects directly to the constitutive exclusion. **Resolution**: Added `[[constitutive-exclusion]]` link with contextual explanation after the Putnam discussion.
 - **Orphan status — no inbound links**: The article had zero inbound links from other articles despite clear thematic connections to six articles. **Resolution**: Added inbound cross-links from all six related articles (see below).
 
 ### Counterarguments Considered

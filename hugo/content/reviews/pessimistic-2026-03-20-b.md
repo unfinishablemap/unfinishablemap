@@ -77,7 +77,7 @@ Nagarjuna would question why the parsimony article assumes consciousness is a *t
 ### Issue 5: Duplicate/Confused Related Articles
 - **File**: topics/limits-of-parsimony-in-consciousness-science.md
 - **Location**: Frontmatter lines 23-24
-- **Problem**: The related_articles list includes both `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` and `[epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)`. These appear to be the same article with inconsistent slug formatting. The Further Reading section (lines 108-109) similarly lists both as separate entries with different display names.
+- **Problem**: The related_articles list includes both `[[epistemological-limits-of-occams-razor]]` and `[[epistemological-limits-occams-razor]]`. These appear to be the same article with inconsistent slug formatting. The Further Reading section (lines 108-109) similarly lists both as separate entries with different display names.
 - **Severity**: Low
 - **Recommendation**: Verify which slug is correct and remove the duplicate.
 

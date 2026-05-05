@@ -33,7 +33,7 @@ None. No factual errors, misattributions, internal contradictions, or missing re
 - **Word count at 121% of soft threshold (3620 words)**: Unchanged from previous review. Length-neutral mode applied — no content added to the article.
 
 ### Low Issues Found
-- **Path prefix inconsistency**: `[epiphenomenalism](/concepts/epiphenomenalism/)` uses explicit path while other concept links do not. Carried forward — functionally correct, serves as disambiguation.
+- **Path prefix inconsistency**: `[[concepts/epiphenomenalism]]` uses explicit path while other concept links do not. Carried forward — functionally correct, serves as disambiguation.
 
 ### Attribution Accuracy
 All attributions verified in previous review (2026-03-19) and content unchanged since. Poincare, Hadamard/Gauss, Boden (2004), Wallas (1926), Husserl, Kuhn, Clark, Friston — all correctly attributed with inline citations.

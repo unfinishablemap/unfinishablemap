@@ -26,7 +26,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken wikilink**: Line 47 used `pessimistic-review` which has no matching content file (only `.claude/skills/pessimistic-review/SKILL.md`, which Hugo does not render). The rest of the article references the same skill in plain text on lines 85 and 87. **Resolution**: Removed wikilink syntax; kept "pessimistic-review" as plain text to match the article's existing convention.
+- **Broken wikilink**: Line 47 used `[[pessimistic-review]]` which has no matching content file (only `.claude/skills/pessimistic-review/SKILL.md`, which Hugo does not render). The rest of the article references the same skill in plain text on lines 85 and 87. **Resolution**: Removed wikilink syntax; kept "pessimistic-review" as plain text to match the article's existing convention.
 
 ### Medium Issues Found
 

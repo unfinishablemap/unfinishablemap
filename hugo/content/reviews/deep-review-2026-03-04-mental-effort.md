@@ -24,9 +24,9 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken link `[...](/concepts/attention-as-interface/)`**: Line 53 linked to `attention` which doesn't exist as a standalone article. Fixed by redirecting to `[Attention and consciousness are dissociable](/concepts/attention-as-interface/)`.
+1. **Broken link `[[attention|...]]`**: Line 53 linked to `attention` which doesn't exist as a standalone article. Fixed by redirecting to `[[attention-as-interface|Attention and consciousness are dissociable]]`.
 
-2. **Broken link `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)`**: Further Reading linked to an archived article. Replaced with `[structure-of-attention](/topics/structure-of-attention/)` which covers related material and is a live article.
+2. **Broken link `[[attention-interface-mechanisms]]`**: Further Reading linked to an archived article. Replaced with `[[structure-of-attention]]` which covers related material and is a live article.
 
 ### Medium Issues Found
 
@@ -75,8 +75,8 @@ No misattribution, qualifier dropping, or source/Map conflation issues found.
 
 ### Enhancements Made
 
-1. Fixed broken `[...](/concepts/attention-as-interface/)` link → `[...](/concepts/attention-as-interface/)`
-2. Replaced archived `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)` → `[structure-of-attention](/topics/structure-of-attention/)` in Further Reading
+1. Fixed broken `[[attention|...]]` link → `[[attention-as-interface|...]]`
+2. Replaced archived `[[attention-interface-mechanisms]]` → `[[structure-of-attention]]` in Further Reading
 3. Removed stale AI refinement log comment
 
 ### Cross-links Verified

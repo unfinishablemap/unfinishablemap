@@ -70,7 +70,7 @@ None.
 ### consciousness-and-the-philosophy-of-biology.md
 - **Tenet**: 2 (Minimal Quantum Interaction)
 - **Issue**: Broken wikilink anchor in tenet cross-reference
-- **Quote**: `[tenets](/tenets/#minimal-interaction)` should be `[tenets](/tenets/#minimal-quantum-interaction)`
+- **Quote**: `[[tenets#^minimal-interaction]]` should be `[[tenets#^minimal-quantum-interaction]]`
 - **Recommendation**: Fix the broken anchor link
 
 ## Housekeeping Issues

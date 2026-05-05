@@ -72,7 +72,7 @@ Six sympathetic philosopher personas examined the document:
    - Quantum response (existing content, slightly condensed)
    - Delegation response (new, referencing Saad 2025)
 
-2. **Frontmatter**: Added `[delegatory-dualism](/topics/delegatory-dualism/)` to concepts list
+2. **Frontmatter**: Added `[[delegatory-dualism]]` to concepts list
 
 3. **Further Reading**: Added delegatory-dualism to Related topics
 

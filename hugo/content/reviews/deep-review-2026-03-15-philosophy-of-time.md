@@ -25,7 +25,7 @@ topics: []
 ### Critical Issues Found
 
 - **Duplicate frontmatter entries**: `temporal-consciousness` appeared 3 times in the concepts list. **Resolution**: Removed duplicates, keeping single entry.
-- **Duplicate Further Reading entries**: Three separate entries all linked to `[temporal-consciousness](/concepts/temporal-consciousness/)` with different descriptions. **Resolution**: Consolidated into single entry covering all three aspects.
+- **Duplicate Further Reading entries**: Three separate entries all linked to `[[temporal-consciousness]]` with different descriptions. **Resolution**: Consolidated into single entry covering all three aspects.
 
 ### Medium Issues Found
 

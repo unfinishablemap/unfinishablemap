@@ -27,9 +27,9 @@ None. Previous review resolved all critical issues. Attribution verified through
 
 ### Medium Issues Found
 - **Orphan status — zero inbound links**: The article's primary problem was not content quality but complete isolation from the site's link graph. Seven closely related articles discussed the same territory without referencing this typology. **Resolution**: Added contextual cross-references from 7 articles (see below).
-- **Missing measurement-problem link in Type 4**: Quantum section didn't reference the measurement problem despite it being the structural basis for Type 4 solutions. **Resolution**: Added `[measurement-problem](/concepts/measurement-problem/)` link with brief context.
-- **Missing stapp-quantum-mind link**: Stapp mentioned by name without linking to his dedicated article. **Resolution**: Added `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` wikilink.
-- **Missing buddhism-and-dualism cross-link**: Type 3 discussed Buddhist dissolution without linking to the dedicated article on Buddhist-dualist tensions. **Resolution**: Added `[buddhism-and-dualism](/concepts/buddhism-and-dualism/)` parenthetical.
+- **Missing measurement-problem link in Type 4**: Quantum section didn't reference the measurement problem despite it being the structural basis for Type 4 solutions. **Resolution**: Added `[[measurement-problem]]` link with brief context.
+- **Missing stapp-quantum-mind link**: Stapp mentioned by name without linking to his dedicated article. **Resolution**: Added `[[stapp-quantum-mind]]` wikilink.
+- **Missing buddhism-and-dualism cross-link**: Type 3 discussed Buddhist dissolution without linking to the dedicated article on Buddhist-dualist tensions. **Resolution**: Added `[[buddhism-and-dualism]]` parenthetical.
 
 ### Counterarguments Considered
 No new counterarguments needed. Previous review already addressed functionalist convergence objection and noted decoherence/MWI as bedrock disagreements.
@@ -44,9 +44,9 @@ No new counterarguments needed. Previous review already addressed functionalist 
 - Appropriate length (2103 words, 70% of target)
 
 ### Enhancements Made
-- `[measurement-problem](/concepts/measurement-problem/)` link grounding Type 4 in the unsolved physics question
-- `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` link for Stapp's quantum Zeno approach
-- `[buddhism-and-dualism](/concepts/buddhism-and-dualism/)` cross-reference in Type 3
+- `[[measurement-problem]]` link grounding Type 4 in the unsolved physics question
+- `[[stapp-quantum-mind]]` link for Stapp's quantum Zeno approach
+- `[[buddhism-and-dualism]]` cross-reference in Type 3
 
 ### Cross-links Added (Inbound — Primary Focus)
 - **[interaction-problem-in-non-western-philosophy](/topics/interaction-problem-across-traditions/)**: Added contextual link in convergence paragraph + Further Reading

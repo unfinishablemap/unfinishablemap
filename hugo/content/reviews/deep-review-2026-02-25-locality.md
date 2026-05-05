@@ -38,7 +38,7 @@ None. The 2026-02-20 rewrite addressed the major structural problems identified 
 
 - **AI refinement log left in article**: A detailed HTML comment (13 lines) from the 2026-02-20 rewrite was left for "human review" but had been sitting for over a month. → Removed.
 
-- **Bare "quantum-entanglement" in concepts frontmatter**: A bare string among otherwise wikilinked concepts, pointing to a non-existent article. → Replaced with `[causal-closure](/concepts/causal-closure/)`, which is directly relevant and exists.
+- **Bare "quantum-entanglement" in concepts frontmatter**: A bare string among otherwise wikilinked concepts, pointing to a non-existent article. → Replaced with `[[causal-closure]]`, which is directly relevant and exists.
 
 ### Counterarguments Considered
 
@@ -63,7 +63,7 @@ None. The 2026-02-20 rewrite addressed the major structural problems identified 
 ### Enhancements Made
 
 - Tightened Response 1's entanglement argument with no-signaling distinction (preempts strongest counter)
-- Added `[causal-closure](/concepts/causal-closure/)` cross-link in Further Reading and concepts frontmatter
+- Added `[[causal-closure]]` cross-link in Further Reading and concepts frontmatter
 - Cleaned up stale references and process artifacts
 
 ### Cross-links Added

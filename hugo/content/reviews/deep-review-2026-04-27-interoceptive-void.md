@@ -68,8 +68,8 @@ None. The five issues flagged by `pessimistic-2026-04-27c` (symmetric prediction
 
 Sister voids that already discussed interoception substantively but lacked a wikilink:
 
-- [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — §"Interoception and the First-Person Perspective" now links to the interoceptive-void article and adds one sentence framing the asymmetry; `[interoceptive-void](/voids/interoceptive-void/)` added to `related_articles`.
-- [The Boundary and Projection Void](/voids/boundary-and-projection/) — Tsakiris (2011) interoceptive-awareness reference now links to the interoceptive-void article; `[interoceptive-void](/voids/interoceptive-void/)` added to `related_articles`.
+- [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — §"Interoception and the First-Person Perspective" now links to the interoceptive-void article and adds one sentence framing the asymmetry; `[[interoceptive-void]]` added to `related_articles`.
+- [The Boundary and Projection Void](/voids/boundary-and-projection/) — Tsakiris (2011) interoceptive-awareness reference now links to the interoceptive-void article; `[[interoceptive-void]]` added to `related_articles`.
 
 The [predictive construction void](/voids/predictive-construction-void/) already cross-links bidirectionally (added during its own 2026-04-27 deep review). The interoceptive-void's own related-articles list already names mood-void, three-kinds-of-void, self-opacity, resolution-void, embodiment-cognitive-limits, boundary-and-projection, causal-interface, interface-formalization-void, and non-human-minds-as-void-explorers, so the outbound cross-link economy is already complete.
 
@@ -99,5 +99,5 @@ None requiring immediate action. Two items noted for future consideration if con
 
 | File | Change | Rationale |
 |------|--------|-----------|
-| [voids/embodiment-cognitive-limits.md](/voids/embodiment-cognitive-limits/) | Added wikilink + one sentence in §"Interoception and the First-Person Perspective"; added `[interoceptive-void](/voids/interoceptive-void/)` to related_articles | The article had a full section on interoception but no cross-link to the new void article. |
-| [voids/boundary-and-projection.md](/voids/boundary-and-projection/) | Added wikilink at Tsakiris (2011) reference in §Evidence; added `[interoceptive-void](/voids/interoceptive-void/)` to related_articles | The article cited interoceptive-awareness research as evidence for boundary plasticity but did not connect it to the interoceptive void. |
+| [voids/embodiment-cognitive-limits.md](/voids/embodiment-cognitive-limits/) | Added wikilink + one sentence in §"Interoception and the First-Person Perspective"; added `[[interoceptive-void]]` to related_articles | The article had a full section on interoception but no cross-link to the new void article. |
+| [voids/boundary-and-projection.md](/voids/boundary-and-projection/) | Added wikilink at Tsakiris (2011) reference in §Evidence; added `[[interoceptive-void]]` to related_articles | The article cited interoceptive-awareness research as evidence for boundary plasticity but did not connect it to the interoceptive void. |

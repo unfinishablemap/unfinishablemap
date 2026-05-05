@@ -38,7 +38,7 @@ None.
 
 ### Low Issues Found
 1. **Missing reciprocal link to `four-quadrant-dualism-taxonomy`**: The taxonomy links to `delegatory-dualism` from its quadrant bullets, related_articles, Further Reading, and references; `delegatory-dualism` did not link back, leaving a one-way cross-reference.
-   - **Resolution**: Added `[four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)` to Further Reading with a one-line hook that identifies the taxonomy's placement without duplicating its content. Offset by lightly tightening the `delegatory-causation` descriptor (removed trailing restatement "one cause operates, the other is sidelined," which is already covered in the main body).
+   - **Resolution**: Added `[[four-quadrant-dualism-taxonomy]]` to Further Reading with a one-line hook that identifies the taxonomy's placement without duplicating its content. Offset by lightly tightening the `delegatory-causation` descriptor (removed trailing restatement "one cause operates, the other is sidelined," which is already covered in the main body).
 
 ### Attribution Accuracy Check
 
@@ -86,11 +86,11 @@ All six adversarial personas engaged, no new critical issues:
 - Clean routing of Born-rule identification through `delegation-meets-quantum-selection`.
 
 ### Enhancements Made
-1. Added `[four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)` to Further Reading with a one-line hook identifying Q1 placement.
+1. Added `[[four-quadrant-dualism-taxonomy]]` to Further Reading with a one-line hook identifying Q1 placement.
 2. Lightly tightened the `delegatory-causation` descriptor to keep net word count effectively stable.
 
 ### Cross-links Added
-- `[four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)` in Further Reading.
+- `[[four-quadrant-dualism-taxonomy]]` in Further Reading.
 
 ## Word Count
 - Before: 3107 words (104% of 3000 target).

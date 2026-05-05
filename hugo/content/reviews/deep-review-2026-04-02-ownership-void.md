@@ -37,7 +37,7 @@ None. All attributions re-verified (Zahavi, Heidegger, Billon, Ciaunica, Gallagh
 - No dropped qualifiers, no overstated positions, no source/Map conflation detected
 
 ### Medium Issues Found
-- **Outdated cross-links**: The `[self-reference paradox](/voids/self-opacity/)` links pointed to an anchored section in self-opacity, but a standalone [self-reference-paradox](/concepts/self-reference-paradox/) concept page was created in March 2026. Resolution: Updated links to point to the standalone page.
+- **Outdated cross-links**: The `[[self-opacity|self-reference paradox]]` links pointed to an anchored section in self-opacity, but a standalone [self-reference-paradox](/concepts/self-reference-paradox/) concept page was created in March 2026. Resolution: Updated links to point to the standalone page.
 - **Missing cross-links to new content**: Several highly relevant articles created in March 2026 had no connections to this article — phenomenal-transparency, phenomenology-of-self-awareness, comparative-phenomenology-of-meditative-traditions, transition-void. Resolution: Added inline cross-links and Further Reading entries.
 
 ### Counterarguments Considered

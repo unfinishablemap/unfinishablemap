@@ -30,7 +30,7 @@ None. Fourth review confirms continued stability.
 ### Medium Issues Found
 
 1. **Missing cross-reference to [epiphenomenalism](/concepts/epiphenomenalism/)**: Line 161 used "epiphenomenal" without linking to the concept page. The epiphenomenalism article (line 124) explicitly cites "working memory manipulation" as amplification evidence against causal inertness, but the reciprocal link was absent.
-   - **Resolution**: Added `[epiphenomenal](/concepts/epiphenomenalism/)` wikilink in the Illusionist Challenge section; added [epiphenomenalism](/concepts/epiphenomenalism/) to Further Reading with annotation about the maintenance/manipulation asymmetry.
+   - **Resolution**: Added `[[epiphenomenalism|epiphenomenal]]` wikilink in the Illusionist Challenge section; added [epiphenomenalism](/concepts/epiphenomenalism/) to Further Reading with annotation about the maintenance/manipulation asymmetry.
 
 ### Counterarguments Considered
 

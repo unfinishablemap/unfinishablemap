@@ -32,8 +32,8 @@ None. All six adversarial personas engaged. No factual errors, internal contradi
 2. **Description below target length**: At 121 characters, below the 150-160 character guideline.
    - **Resolution**: Expanded to 152 characters: "Six philosophical approaches to the epistemic asymmetry between first-person certainty and third-person inference."
 
-3. **Missing display text on wikilink**: `[functionalism](/concepts/functionalism/)` lacked explicit display text, risking rendering as "concepts/functionalism" rather than "functionalism."
-   - **Resolution**: Changed to `[functionalism](/concepts/functionalism/)`.
+3. **Missing display text on wikilink**: `[[concepts/functionalism]]` lacked explicit display text, risking rendering as "concepts/functionalism" rather than "functionalism."
+   - **Resolution**: Changed to `[[concepts/functionalism|functionalism]]`.
 
 ### Low Issues Found
 - Buddhist section could note that the *self* (not just mind-boundaries) is questioned — but at 88% of soft threshold, expansion inadvisable. Deferred.

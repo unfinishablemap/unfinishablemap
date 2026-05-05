@@ -50,10 +50,10 @@ The recurring machine-consciousness.md warning from prior checks persists. Two n
 
 | File | Anchor used | Correct anchor |
 |------|-------------|----------------|
-| `consciousness-and-the-philosophy-of-biology.md` | `[tenets](/tenets/#minimal-interaction)` | `[tenets](/tenets/#minimal-quantum-interaction)` |
-| `consciousness-and-the-problem-of-measurement-standards.md` | `[tenets](/tenets/#bidirectional)` | `[tenets](/tenets/#bidirectional-interaction)` |
-| `animal-consciousness.md` | `[tenets](/tenets/#occams-razor)` | `[tenets](/tenets/#occams-limits)` |
-| `phenomenal-normativity-environmental-ethics.md` | `[tenets](/tenets/#minimal-interaction)` | `[tenets](/tenets/#minimal-quantum-interaction)` |
+| `consciousness-and-the-philosophy-of-biology.md` | `[[tenets#^minimal-interaction]]` | `[[tenets#^minimal-quantum-interaction]]` |
+| `consciousness-and-the-problem-of-measurement-standards.md` | `[[tenets#^bidirectional]]` | `[[tenets#^bidirectional-interaction]]` |
+| `animal-consciousness.md` | `[[tenets#^occams-razor]]` | `[[tenets#^occams-limits]]` |
+| `phenomenal-normativity-environmental-ethics.md` | `[[tenets#^minimal-interaction]]` | `[[tenets#^minimal-quantum-interaction]]` |
 
 These are link-precision issues only — prose content correctly describes the relevant tenets.
 

@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken grammar from bare wikilink**: `[the-case-for-dualism](/concepts/dualism/)` rendered as "The standard The Case for Dualism". Fixed to `[arguments for dualism](/concepts/dualism/)`.
+- **Broken grammar from bare wikilink**: `[[the-case-for-dualism]]` rendered as "The standard The Case for Dualism". Fixed to `[[the-case-for-dualism|arguments for dualism]]`.
 - **Four references never cited in body**: Kant, Schopenhauer, Levinson, and Scarry were listed in References but never engaged in the text. Each has now been cited where relevant: Kant and Scarry in the normative gap section, Schopenhauer in the gestalt dependence section, Levinson as a general survey reference.
 - **Empirical claims lacked citations**: Cross-cultural aesthetic convergence and colour space asymmetries were asserted without support. Added Trehub (2000) for musical universals and Byrne & Hilbert (2003) for colour space structure.
 
@@ -59,8 +59,8 @@ topics: []
 
 - Expanded temporal complexity section with musical suspense example
 - Added defense of normative gap independence
-- Added cross-links: `[inverted-qualia](/concepts/inverted-qualia/)`, `[phenomenal-binding-and-holism](/concepts/binding-problem/)`, `[temporal-consciousness](/concepts/temporal-consciousness/)`, `[consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)`, `[consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/)`, `[epiphenomenalism](/concepts/epiphenomenalism/)`, `[consciousness-and-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)`, `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)`, `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)`
-- Added `[emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/)` and `[consciousness-and-aesthetic-value](/topics/aesthetic-dimension-of-consciousness/)` to Further Reading
+- Added cross-links: `[[inverted-qualia]]`, `[[phenomenal-binding-and-holism]]`, `[[temporal-consciousness]]`, `[[consciousness-and-temporal-integration]]`, `[[consciousness-and-aesthetic-creation]]`, `[[concepts/epiphenomenalism]]`, `[[consciousness-and-normative-authority]]`, `[[consciousness-and-mathematical-creativity]]`, `[[stapp-quantum-mind]]`
+- Added `[[emotion-as-evidence-for-dualism]]` and `[[consciousness-and-aesthetic-value]]` to Further Reading
 - Integrated all four previously unused references into body text
 - Added Byrne & Hilbert and Trehub citations for empirical claims
 - Added brief response to evolutionary convergence objection in cultural variability section
@@ -69,15 +69,15 @@ topics: []
 
 ### Cross-links Added
 
-- `[inverted-qualia](/concepts/inverted-qualia/)` in aesthetic conceivability section
-- `[phenomenal-binding-and-holism](/concepts/binding-problem/)` in gestalt dependence section
-- `[temporal-consciousness](/concepts/temporal-consciousness/)` and `[consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)` in temporal complexity section
-- `[consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/)` in bidirectional interaction section
-- `[epiphenomenalism](/concepts/epiphenomenalism/)` in bidirectional interaction section
-- `[consciousness-and-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)` in normative gap section
-- `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)` in illusionist response section
-- `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` in Relation to Site Perspective
-- `[emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/)` and `[consciousness-and-aesthetic-value](/topics/aesthetic-dimension-of-consciousness/)` in Further Reading
+- `[[inverted-qualia]]` in aesthetic conceivability section
+- `[[phenomenal-binding-and-holism]]` in gestalt dependence section
+- `[[temporal-consciousness]]` and `[[consciousness-and-temporal-integration]]` in temporal complexity section
+- `[[consciousness-and-aesthetic-creation]]` in bidirectional interaction section
+- `[[concepts/epiphenomenalism]]` in bidirectional interaction section
+- `[[consciousness-and-normative-authority]]` in normative gap section
+- `[[consciousness-and-mathematical-creativity]]` in illusionist response section
+- `[[stapp-quantum-mind]]` in Relation to Site Perspective
+- `[[emotion-as-evidence-for-dualism]]` and `[[consciousness-and-aesthetic-value]]` in Further Reading
 
 ## Remaining Items
 

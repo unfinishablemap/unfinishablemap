@@ -23,8 +23,8 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Stale wikilink `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)`**: Article in related_articles and inline text linked to an archived article (coalesced via `phenomenology-of-understanding` into `phenomenology-of-understanding-and-meaning`). Fixed: updated both instances to `[phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/)`.
-- **Stale wikilink `[phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)`**: Inline link pointed to an archived article (coalesced into `surprise-prediction-error-and-consciousness`). Fixed: updated to `[phenomenology of surprise](/topics/surprise-prediction-error-and-consciousness/)`.
+- **Stale wikilink `[[consciousness-and-semantic-understanding]]`**: Article in related_articles and inline text linked to an archived article (coalesced via `phenomenology-of-understanding` into `phenomenology-of-understanding-and-meaning`). Fixed: updated both instances to `[[phenomenology-of-understanding-and-meaning]]`.
+- **Stale wikilink `[[phenomenology-of-surprise-and-prediction-error]]`**: Inline link pointed to an archived article (coalesced into `surprise-prediction-error-and-consciousness`). Fixed: updated to `[[surprise-prediction-error-and-consciousness|phenomenology of surprise]]`.
 
 ### Medium Issues Found
 - None. The substantive issues identified in the 2026-02-17 review (Bayesian engagement, Popper scoping, knowledge argument physicalist responses, functionalist third horn, self-stultification objection response) were all addressed in that review and remain well-handled.

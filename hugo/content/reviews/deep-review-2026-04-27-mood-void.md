@@ -26,7 +26,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken wikilink**: Body referenced `[Aesthetic Void](/voids/creative-aesthetic-void/)` (line 96) but the actual file is `creative-aesthetic-void.md`. **Resolution**: changed wikilink to `[Creative Aesthetic Void](/voids/creative-aesthetic-void/)`.
+- **Broken wikilink**: Body referenced `[[aesthetic-void|Aesthetic Void]]` (line 96) but the actual file is `creative-aesthetic-void.md`. **Resolution**: changed wikilink to `[[creative-aesthetic-void|Creative Aesthetic Void]]`.
 - **Banned "not X. It is Y." construct (missed by previous review)**: "Origin opacity is therefore not a contingent ignorance soluble by more attention. It is a structural feature..." (line 55). **Resolution**: rewrote as a direct positive claim — "Origin opacity is therefore a structural feature of how the affect-producing machinery interfaces with the introspective surface — more attention does not soften it, because attention is among the cognitive operations the affect already shapes."
 - **Banned "X, not Y" variant**: "The phenomenal presence of mood and the introspective representation of mood are separable capacities, not a single one." (line 61). **Resolution**: rewrote as direct positive claim — "operate as separable capacities, each able to vary while the other holds steady."
 

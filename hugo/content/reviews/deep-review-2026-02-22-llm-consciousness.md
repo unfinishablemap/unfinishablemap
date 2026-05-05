@@ -25,7 +25,7 @@ topics: []
 
 ### Critical Issues Found
 - **Hoel date inconsistency (2025 vs 2026)**: Article said "2025 paper" and reference cited "Hoel, E. (2025)." The Hoel topics article (created today) standardized to 2026 per arXiv v2 (January 2026). The research notes also specify "(v2, January 2026)." → **Resolved**: Updated to 2026 throughout, including full paper title in reference.
-- **Cross-link to research note instead of topics article**: Body text linked to `[hoel-llm-consciousness-continual-learning-2026-01-15](/research/hoel-llm-consciousness-continual-learning-2026-01-15/)` (raw research notes) as "detailed analysis." The new topics article `[hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/)` is the published analytical treatment. → **Resolved**: Updated body link to topics article, kept research note as secondary link, added topics article to related_articles and Further Reading.
+- **Cross-link to research note instead of topics article**: Body text linked to `[[hoel-llm-consciousness-continual-learning-2026-01-15]]` (raw research notes) as "detailed analysis." The new topics article `[[hoel-llm-consciousness-continual-learning]]` is the published analytical treatment. → **Resolved**: Updated body link to topics article, kept research note as secondary link, added topics article to related_articles and Further Reading.
 
 ### Attribution Accuracy Check
 

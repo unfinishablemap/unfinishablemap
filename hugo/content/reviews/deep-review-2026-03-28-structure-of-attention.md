@@ -57,10 +57,10 @@ All six adversarial personas engaged. The physicalist rebuttal (lines 182-184), 
 
 ### Enhancements Made
 
-- Added cross-link to `[free-will](/topics/free-will/)` at James quote (natural connection point)
-- Added cross-link to `[introspection](/concepts/introspection/)` in contemplative evidence section
-- Added cross-link to `[agent-causation](/concepts/agent-causation/)` in the structure-and-interface section
-- Added cross-link to `[quantum-consciousness](/concepts/quantum-consciousness/)` in the 300ms window section
+- Added cross-link to `[[free-will]]` at James quote (natural connection point)
+- Added cross-link to `[[introspection]]` in contemplative evidence section
+- Added cross-link to `[[agent-causation]]` in the structure-and-interface section
+- Added cross-link to `[[quantum-consciousness]]` in the 300ms window section
 
 ### Cross-links Verified
 

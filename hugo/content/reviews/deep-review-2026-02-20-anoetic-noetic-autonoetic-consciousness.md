@@ -25,7 +25,7 @@ topics: []
 ### Critical Issues Found
 
 - **Klein citation error**: Year was 2015 (correct: 2012) and missing co-author Shaun Nichols. Fixed to Klein, S.B. & Nichols, S. (2012).
-- **Broken wikilinks**: `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` linked to an archived/coalesced file. All references updated to `[episodic-memory](/concepts/episodic-memory/)`.
+- **Broken wikilinks**: `[[anoetic-noetic-autonoetic-consciousness]]` linked to an archived/coalesced file. All references updated to `[[episodic-memory]]`.
 - **Patient KC lesion misdescription**: Described as "bilateral hippocampal damage" but KC suffered extensive bilateral brain damage from a motorcycle accident including frontal, occipital, thalamic lesions. Fixed to "extensive bilateral brain damage from a motorcycle accident, including severe hippocampal lesions."
 - **Tulving quote misattribution**: Quote attributed to "Tulving" alone but originates from Wheeler, Stuss, & Tulving (1997). Fixed attribution. Also corrected "subjective time" to "time" per the original source.
 
@@ -38,7 +38,7 @@ topics: []
 - **Table contradiction**: Anoetic self-awareness listed as "None" while text described genuine phenomenal experience. Changed to "Pre-reflective."
 - **Missing cross-links**: Added inline links to [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [explanatory-gap](/concepts/explanatory-gap/), [consciousness](/concepts/consciousness/), [qualia](/concepts/qualia/), [personal-identity](/topics/personal-identity/).
 - **Missing citations**: Added Clayton & Dickinson (1998) for scrub-jay claims; added in-text citations for Tulving (1985, 2002).
-- **Duplicate frontmatter entry**: Fixed duplicate `[episodic-memory](/concepts/episodic-memory/)` in concepts list.
+- **Duplicate frontmatter entry**: Fixed duplicate `[[episodic-memory]]` in concepts list.
 
 ### Counterarguments Considered
 

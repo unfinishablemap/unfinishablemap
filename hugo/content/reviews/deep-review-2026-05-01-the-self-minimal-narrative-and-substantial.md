@@ -22,7 +22,7 @@ topics: []
 
 ## Review Context
 
-Cross-review prompted by the coalesce of [zahavian-minimal-self](/concepts/self-and-self-consciousness/) → [self-and-self-consciousness](/concepts/self-and-self-consciousness/) (completed 2026-05-01T01:15:00+00:00). The standalone Zahavian concept article was merged into the broader Self and Self-Consciousness page, which now houses the minimal/Metzinger contrast, the Strawson and Hume distinctions, the circularity problem, the Madhyamaka challenge, the kind-vs-degree methodological move, and diachronic identity. The article being reviewed had already been auto-edited at 2026-05-01T01:25:00 to retarget two `[zahavian-minimal-self](/concepts/self-and-self-consciousness/)` references onto anchored sections of the coalesced page. This review verifies that retargeting and addresses minor display-text and Further Reading scope issues introduced by the coalesce.
+Cross-review prompted by the coalesce of [zahavian-minimal-self](/concepts/self-and-self-consciousness/) → [self-and-self-consciousness](/concepts/self-and-self-consciousness/) (completed 2026-05-01T01:15:00+00:00). The standalone Zahavian concept article was merged into the broader Self and Self-Consciousness page, which now houses the minimal/Metzinger contrast, the Strawson and Hume distinctions, the circularity problem, the Madhyamaka challenge, the kind-vs-degree methodological move, and diachronic identity. The article being reviewed had already been auto-edited at 2026-05-01T01:25:00 to retarget two `[[zahavian-minimal-self]]` references onto anchored sections of the coalesced page. This review verifies that retargeting and addresses minor display-text and Further Reading scope issues introduced by the coalesce.
 
 ## Pessimistic Analysis Summary
 
@@ -30,8 +30,8 @@ Cross-review prompted by the coalesce of [zahavian-minimal-self](/concepts/self-
 
 None. All anchors verified live in the coalesced target:
 
-- `[Zahavi's version](/concepts/self-and-self-consciousness/#why-the-map-requires-the-zahavian-version)` — anchor present (line 115 of target).
-- `[...](/concepts/self-and-self-consciousness/#metzingers-alternative-and-why-it-differs)` — anchor present (line 97 of target).
+- `[[self-and-self-consciousness#Why the Map Requires the Zahavian Version|Zahavi's version]]` — anchor present (line 115 of target).
+- `[[self-and-self-consciousness#Metzinger's Alternative and Why It Differs|...]]` — anchor present (line 97 of target).
 
 Grep for `zahavian-minimal-self` returns no matches in the article. Coalesce cleanup is complete.
 

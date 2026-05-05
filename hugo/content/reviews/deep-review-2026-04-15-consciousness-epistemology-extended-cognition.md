@@ -23,11 +23,11 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/)`**: No file exists with this slug. The correct target is `phenomenal-transparency-opacity-spectrum`. Appeared in frontmatter concepts, body text (line 86), inline reference (line 88), and Further Reading section. **Resolution**: All four instances updated to `[phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)` or `[Phenomenal opacity](/concepts/phenomenal-transparency-opacity-spectrum/)`.
+- **Broken wikilink `[[phenomenal-opacity]]`**: No file exists with this slug. The correct target is `phenomenal-transparency-opacity-spectrum`. Appeared in frontmatter concepts, body text (line 86), inline reference (line 88), and Further Reading section. **Resolution**: All four instances updated to `[[phenomenal-transparency-opacity-spectrum]]` or `[[phenomenal-transparency-opacity-spectrum|Phenomenal opacity]]`.
 
 ### Medium Issues Found
-- **Missing cross-link to `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)`**: The P-consciousness/A-consciousness distinction is central to the article but the existing `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` concept was not linked. **Resolution**: Added inline wikilink at Block's distinction and added to frontmatter concepts and Further Reading.
-- **Missing cross-link to `[phenomenal-overflow](/concepts/phenomenal-overflow/)`**: The claim that conscious experience exceeds functional access is a direct instance of phenomenal overflow, but the concept was not cross-linked. **Resolution**: Added inline reference where P-consciousness is shown not to extend, added to frontmatter concepts and Further Reading.
+- **Missing cross-link to `[[phenomenal-consciousness]]`**: The P-consciousness/A-consciousness distinction is central to the article but the existing `[[phenomenal-consciousness]]` concept was not linked. **Resolution**: Added inline wikilink at Block's distinction and added to frontmatter concepts and Further Reading.
+- **Missing cross-link to `[[phenomenal-overflow]]`**: The claim that conscious experience exceeds functional access is a direct instance of phenomenal overflow, but the concept was not cross-linked. **Resolution**: Added inline reference where P-consciousness is shown not to extend, added to frontmatter concepts and Further Reading.
 - **No inbound links from other articles**: No articles in the Map currently link back to this one, creating orphan risk. **Deferred**: Adding inbound links from other articles is outside single-file review scope.
 
 ### Counterarguments Considered
@@ -48,9 +48,9 @@ topics: []
 - Source/Map separation markers added in prior review remain clear
 
 ### Enhancements Made
-- Fixed broken `[phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/)` wikilinks (4 instances)
-- Added cross-link to `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` at Block's P/A distinction
-- Added cross-link to `[phenomenal-overflow](/concepts/phenomenal-overflow/)` at consciousness-exceeds-function passage
+- Fixed broken `[[phenomenal-opacity]]` wikilinks (4 instances)
+- Added cross-link to `[[phenomenal-consciousness]]` at Block's P/A distinction
+- Added cross-link to `[[phenomenal-overflow]]` at consciousness-exceeds-function passage
 - Added both new concepts to frontmatter and Further Reading
 
 ### Cross-links Added
@@ -59,7 +59,7 @@ topics: []
 
 ## Remaining Items
 
-- **Orphan risk**: No other articles link back to this one. A future `integrate-orphan` task should add inbound links from `[embodied-cognition](/concepts/embodied-cognition/)`, `[epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)`, or `[cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)`.
+- **Orphan risk**: No other articles link back to this one. A future `integrate-orphan` task should add inbound links from `[[embodied-cognition]]`, `[[epistemic-advantages-of-dualism]]`, or `[[cognitive-science-of-dualism]]`.
 
 ## Stability Notes
 

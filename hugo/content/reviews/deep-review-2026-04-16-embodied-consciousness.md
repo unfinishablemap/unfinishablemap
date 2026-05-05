@@ -27,9 +27,9 @@ topics: []
 None. The coalesced article integrates content from both source articles without introducing factual errors, attribution errors, or internal contradictions. All philosopher attributions (Husserl, Merleau-Ponty, Zahavi, Leder, Gallagher, Noë, Rizzolatti, Thompson, Nagel, Dreyfus, Thura & Cisek, Wise & Murray) verified against references. Required "Relation to Site Perspective" section present and substantive. All five tenets engaged.
 
 ### Medium Issues Found
-1. **Missing wikilinks from source article**: The intercorporeality section lost `[consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)` and `[intersubjectivity](/concepts/intersubjectivity/)` links that were present in the phenomenology source article (added during its 2026-03-18 deep review). **Resolved**: Restored both links in the intercorporeality paragraph.
+1. **Missing wikilinks from source article**: The intercorporeality section lost `[[consciousness-and-social-understanding]]` and `[[intersubjectivity]]` links that were present in the phenomenology source article (added during its 2026-03-18 deep review). **Resolved**: Restored both links in the intercorporeality paragraph.
 
-2. **17 files still referenced archived slugs**: Active content files throughout the site contained wikilinks to `[embodied-consciousness-and-the-interface](/topics/embodied-consciousness/)` and `[phenomenology-of-embodiment-under-dualism](/topics/embodied-consciousness/)`, which now redirect to archive pages. **Resolved**: Updated all 17 files listed in the P2 cross-review task to reference `[embodied-consciousness](/topics/embodied-consciousness/)` instead. Updated frontmatter, body text wikilinks, Further Reading entries, and one self-citation URL.
+2. **17 files still referenced archived slugs**: Active content files throughout the site contained wikilinks to `[[embodied-consciousness-and-the-interface]]` and `[[phenomenology-of-embodiment-under-dualism]]`, which now redirect to archive pages. **Resolved**: Updated all 17 files listed in the P2 cross-review task to reference `[[embodied-consciousness]]` instead. Updated frontmatter, body text wikilinks, Further Reading entries, and one self-citation URL.
 
 ### Counterarguments Considered
 No new counterarguments beyond those addressed in previous reviews of the source articles. The coalesced article preserves all substantive engagements: enactivism's deep continuity thesis, the constitution claim, the hard problem at the embodied level, and the identity theory challenge from bodily absence.
@@ -47,7 +47,7 @@ No new counterarguments beyond those addressed in previous reviews of the source
 8. **All five tenets substantively engaged** — Not perfunctory; each connection is argued
 
 ### Enhancements Made
-1. Restored `[consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)` and `[intersubjectivity](/concepts/intersubjectivity/)` wikilinks in intercorporeality section
+1. Restored `[[consciousness-and-social-understanding]]` and `[[intersubjectivity]]` wikilinks in intercorporeality section
 2. Updated 17 cross-referencing files to point to the new coalesced slug
 
 ### Cross-links Added

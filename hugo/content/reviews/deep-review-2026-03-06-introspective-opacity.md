@@ -71,7 +71,7 @@ All 16 citations verified across the merged article. No misattribution found. Ke
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (related_articles, Further Reading)
 
 ### Site-Wide Reference Updates
-Updated `[volitional-opacity](/voids/introspective-opacity/)` → `[introspective-opacity](/voids/self-opacity/)` in 12 content files:
+Updated `[[volitional-opacity]]` → `[[introspective-opacity]]` in 12 content files:
 - concepts/introspection.md
 - concepts/spontaneous-intentional-action.md
 - voids/involuntariness-void.md
@@ -86,7 +86,7 @@ Updated `[volitional-opacity](/voids/introspective-opacity/)` → `[introspectiv
 - topics/consciousness-and-moral-agency-under-duress.md
 - topics/cross-cultural-phenomenology-of-agency.md
 
-Removed duplicate frontmatter/Further Reading entries where files already had `[introspective-opacity](/voids/self-opacity/)`.
+Removed duplicate frontmatter/Further Reading entries where files already had `[[introspective-opacity]]`.
 
 ## Word Count
 - Before: 3477 words (174% of 2000 soft threshold — hard_warning)
@@ -101,4 +101,4 @@ None.
 - The coalesced volitional opacity content is well-integrated into the article structure, fitting naturally as "The Special Case of Volition" under the general opacity framework
 - The three interpretations (illusion, partial access, closure) and Merleau-Ponty's fourth interpretation are valuable additions that strengthen the article
 - **New note**: The article is now at 2998 words, just below the 3000 hard threshold. Future reviews should not expand further without equivalent cuts. The article covers both general and volitional opacity — any new cross-links should be brief mentions, not new subsections.
-- **Reference update note**: All site-wide references to `[volitional-opacity](/voids/introspective-opacity/)` have been updated. Reviews, research notes, and workflow archives retain historical references (correctly, as historical records). The archive at `archive/voids/volitional-opacity.md` serves as a redirect.
+- **Reference update note**: All site-wide references to `[[volitional-opacity]]` have been updated. Reviews, research notes, and workflow archives retain historical references (correctly, as historical records). The archive at `archive/voids/volitional-opacity.md` serves as a redirect.

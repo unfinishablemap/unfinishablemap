@@ -30,7 +30,7 @@ None. Attribution accuracy check passed on all five dimensions:
 - Source/Map separation maintained (Wheeler programme noted as supporting Option 4 while Map's irreducibility commitment distinguishes it)
 - No self-contradictions
 
-All wikilinks and section anchors verified valid (`[psychophysical-laws](/concepts/psychophysical-laws/#attention)`, `[tenets](/tenets/#bidirectional-interaction)`, `[wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)`, `[attention-as-causal-bridge](/apex/attention-as-causal-bridge/)`, all concept and topic targets exist).
+All wikilinks and section anchors verified valid (`[[psychophysical-laws#attention]]`, `[[tenets#^bidirectional-interaction]]`, `[[wheelers-participatory-universe-and-it-from-bit]]`, `[[attention-as-causal-bridge]]`, all concept and topic targets exist).
 
 ### Medium Issues Found
 - **LLM cliché in opening paragraph**: "is not a side question but a central one" — exactly the "not X but Y" construct CLAUDE.md and writing-style.md flag as overused → Reworded to "is a central metaphysical question," making the positive claim directly.

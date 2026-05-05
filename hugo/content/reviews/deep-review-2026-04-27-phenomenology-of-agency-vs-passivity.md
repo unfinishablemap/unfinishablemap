@@ -42,11 +42,11 @@ topics: []
 - No new attribution claims introduced since last review
 
 ### Cross-Review Specific Checks (post agency-void coalesce)
-- **Wikilink targets**: All `[agency-void](/voids/agency-void/)` references resolve to the coalesced article ✓
-- **Anchor link**: `[agency-void](/voids/agency-void/#the-verification-circularity)` at line 120 resolves correctly — the coalesced article retains `## The Verification Circularity` section ✓
+- **Wikilink targets**: All `[[agency-void]]` references resolve to the coalesced article ✓
+- **Anchor link**: `[[agency-void#the-verification-circularity]]` at line 120 resolves correctly — the coalesced article retains `## The Verification Circularity` section ✓
 - **Phrasing post-coalesce**: "verification face of the agency void" remains apt — the phrasing implies a multi-faceted void, which matches the new structure (verification + involuntariness) ✓
 - **Further Reading description**: "Why consciousness cannot verify its own causal powers, and cannot fully control its own states" correctly captures both faces of the coalesced void ✓
-- **Frontmatter**: `related_articles` cleanly lists `[agency-void](/voids/agency-void/)` (no stale `agency-verification-void` reference) ✓
+- **Frontmatter**: `related_articles` cleanly lists `[[agency-void]]` (no stale `agency-verification-void` reference) ✓
 - **Internal consistency**: No claims in this article contradict the broader scope of the coalesced agency-void
 
 ## Optimistic Analysis Summary

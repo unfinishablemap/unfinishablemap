@@ -59,7 +59,7 @@ All six adversarial personas engaged:
 - All five tenets addressed in "Relation to Site Perspective"
 
 ### Enhancements Made
-1. Added `[intrinsic-nature-void](/voids/intrinsic-nature-void/)` to related_articles frontmatter
+1. Added `[[intrinsic-nature-void]]` to related_articles frontmatter
 2. Added Kant paragraph connecting phenomena/noumena to structural closure
 3. Added intrinsic-nature-void link in Further Reading section
 4. Tightened "What Russellian Monism Gets Right" section for length neutrality

@@ -91,7 +91,7 @@ None this pass. The article was substantively enhanced 2 hours earlier; this rev
 
 ### Cross-links Considered and Rejected
 
-- A link from this article to `[psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)`'s "consciousness science has not yet had its Galileo" passage was considered. The article already cites this work in its Further Reading and notes that it operates at the right stage. A direct in-prose reference would add length without adding value. Rejected on length-neutral grounds.
+- A link from this article to `[[psychophysical-laws-bridging-mind-and-matter]]`'s "consciousness science has not yet had its Galileo" passage was considered. The article already cites this work in its Further Reading and notes that it operates at the right stage. A direct in-prose reference would add length without adding value. Rejected on length-neutral grounds.
 
 ## Length Check
 

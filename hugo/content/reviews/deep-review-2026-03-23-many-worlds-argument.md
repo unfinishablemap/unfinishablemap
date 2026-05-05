@@ -31,7 +31,7 @@ Previous review (Feb 25) declared stability with zero critical issues. This revi
 All attributions remain accurate (verified in Feb 25 review). No changes to attributed claims since last review.
 
 ### Medium Issues Found
-- **Persistent orphan status**: Despite the Feb 25 review adding 4 inbound links (arguments index, tenets, quantum-interpretations, concepts/many-worlds), the article remained under-linked. Multiple articles discussing MWI substantively linked only to `[tenets](/tenets/#no-many-worlds)` or `[many-worlds](/concepts/many-worlds/)` without referencing the formal argument page. **Resolution**: Added 6 new inbound links (see enhancements below).
+- **Persistent orphan status**: Despite the Feb 25 review adding 4 inbound links (arguments index, tenets, quantum-interpretations, concepts/many-worlds), the article remained under-linked. Multiple articles discussing MWI substantively linked only to `[[tenets#^no-many-worlds]]` or `[[concepts/many-worlds]]` without referencing the formal argument page. **Resolution**: Added 6 new inbound links (see enhancements below).
 - **Missing cross-reference to probability-objections-many-worlds**: The newer concept page (created 2026-03-18) covers the probability argument in detail but wasn't linked from this article's Further Reading. **Resolution**: Added to Further Reading.
 
 ### Counterarguments Considered
@@ -53,7 +53,7 @@ All counterarguments remain well-addressed from previous reviews:
 - Comprehensive tenet connections covering all 5 tenets
 
 ### Enhancements Made
-- Added outbound link to `[probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)` in Further Reading
+- Added outbound link to `[[probability-objections-many-worlds]]` in Further Reading
 - **Orphan integration — 6 new inbound links from**:
   1. [free-will](/topics/free-will/) — No Many Worlds tenet discussion, linking to cumulative case
   2. [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Collapse requirement discussion
@@ -63,7 +63,7 @@ All counterarguments remain well-addressed from previous reviews:
   6. [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) — Further Reading cross-reference
 
 ### Cross-links Added
-- Outbound: `[probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)` in Further Reading
+- Outbound: `[[probability-objections-many-worlds]]` in Further Reading
 - Inbound: 6 new links from key articles (see above)
 
 ### Total Inbound Links After This Review

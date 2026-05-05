@@ -30,7 +30,7 @@ None. Eighth review continues the stability pattern. Attribution accuracy check 
 
 ### Coalesced Voids Audit
 
-The recent merger of [voids/boundary-void.md](/voids/boundary-and-projection/) + [voids/projection-void.md](/voids/boundary-and-projection/) into [voids/boundary-and-projection.md](/voids/boundary-and-projection/) (commit 47b0e3e82) has no impact on this article. The measurement-problem article does not reference either of the coalesced slugs — it references `[indexical-void](/topics/vertiginous-question/)` (unaffected) and does not cite boundary-void or projection-void. No stale-reference updates needed.
+The recent merger of [voids/boundary-void.md](/voids/boundary-and-projection/) + [voids/projection-void.md](/voids/boundary-and-projection/) into [voids/boundary-and-projection.md](/voids/boundary-and-projection/) (commit 47b0e3e82) has no impact on this article. The measurement-problem article does not reference either of the coalesced slugs — it references `[[indexical-void]]` (unaffected) and does not cite boundary-void or projection-void. No stale-reference updates needed.
 
 ### Medium Issues Found
 
@@ -68,7 +68,7 @@ None. Article is stable and at 115% of soft threshold — length-neutral mode ap
 
 ### Cross-links Verified
 
-All 40+ wikilinks resolve to existing files. No missing references. `[retrocausality](/concepts/retrocausality/#the-atemporal-selection-model)` anchor confirmed present in target file.
+All 40+ wikilinks resolve to existing files. No missing references. `[[retrocausality#The Atemporal Selection Model]]` anchor confirmed present in target file.
 
 ## Remaining Items
 

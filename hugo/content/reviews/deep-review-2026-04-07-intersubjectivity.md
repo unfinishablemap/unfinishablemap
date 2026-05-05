@@ -26,8 +26,8 @@ topics: []
 None. All attributions verified: Husserl (appresentation, Vergemeinschaftung), Depraz (second-person methodology), Lutz et al. 2004 (gamma synchrony), Zahavi (phenomenological approaches), Dennett (heterophenomenology). No misattributions, dropped qualifiers, source/Map conflation, or self-contradictions.
 
 ### Medium Issues Found
-- **Duplicate Further Reading entry**: `[consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)` appeared twice — artifact of wikilink migration from coalesced `phenomenology-of-collective-intentionality-and-we-consciousness`. Resolution: Removed duplicate entry.
-- **Stale description for coalesced article**: `[consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)` described as "How phenomenal consciousness enables human social cognition" — carried over from old `consciousness-and-social-cognition` slug. Resolution: Updated to reflect the coalesced article's broader scope ("social cognition and interpersonal understanding").
+- **Duplicate Further Reading entry**: `[[consciousness-and-collective-phenomena]]` appeared twice — artifact of wikilink migration from coalesced `phenomenology-of-collective-intentionality-and-we-consciousness`. Resolution: Removed duplicate entry.
+- **Stale description for coalesced article**: `[[consciousness-and-social-understanding]]` described as "How phenomenal consciousness enables human social cognition" — carried over from old `consciousness-and-social-cognition` slug. Resolution: Updated to reflect the coalesced article's broader scope ("social cognition and interpersonal understanding").
 
 ### Counterarguments Considered
 All six adversarial personas applied. No new counterarguments beyond those documented in previous reviews. All bedrock disagreements remain stable and unchanged.
@@ -52,8 +52,8 @@ All six adversarial personas applied. No new counterarguments beyond those docum
 - Confidence calibration exemplary throughout
 
 ### Enhancements Made
-- Removed duplicate `[consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)` from Further Reading
-- Updated `[consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)` description to reflect coalesced scope
+- Removed duplicate `[[consciousness-and-collective-phenomena]]` from Further Reading
+- Updated `[[consciousness-and-social-understanding]]` description to reflect coalesced scope
 
 ### Cross-links Added
 None needed — all relevant articles already linked.

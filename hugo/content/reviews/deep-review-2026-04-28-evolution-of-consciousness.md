@@ -31,7 +31,7 @@ None.
 None.
 
 ### Low Issues Found
-- **Wikilink path-prefix inconsistency**: One wikilink rendered as `[epiphenomenalism](/concepts/epiphenomenalism/)` rather than `[epiphenomenalism](/concepts/epiphenomenalism/)`. The sync layer handles the prefixed form correctly, so this is purely a source-side consistency cleanup. Resolution: simplified to `[epiphenomenalism](/concepts/epiphenomenalism/)`.
+- **Wikilink path-prefix inconsistency**: One wikilink rendered as `[[concepts/epiphenomenalism]]` rather than `[[epiphenomenalism]]`. The sync layer handles the prefixed form correctly, so this is purely a source-side consistency cleanup. Resolution: simplified to `[[epiphenomenalism]]`.
 
 ### Counterarguments Considered
 All adversarial responses (eliminativist, MWI, quantum skeptic, etc.) remain at bedrock philosophical standoff per prior stability notes. No new counterarguments identified that aren't already addressed in the article's illusionism section, decoherence challenge section, or falsifiability conditions.

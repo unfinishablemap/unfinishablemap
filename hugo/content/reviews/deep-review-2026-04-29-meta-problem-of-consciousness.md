@@ -27,7 +27,7 @@ topics: []
 - None. Article remains in convergence after three prior deep reviews. No factual errors, internal contradictions, missing required sections, or new attribution problems.
 
 ### Medium Issues Found
-- **Missing back-link to new hub**: The newly elevated `consciousness.md` hub now cites this article as part of its "Hard Problem" section, but no reciprocal link existed in either the article frontmatter or Further Reading. Resolution: added `[consciousness](/concepts/consciousness/)` to `related_articles` and as the leading entry in Further Reading.
+- **Missing back-link to new hub**: The newly elevated `consciousness.md` hub now cites this article as part of its "Hard Problem" section, but no reciprocal link existed in either the article frontmatter or Further Reading. Resolution: added `[[consciousness]]` to `related_articles` and as the leading entry in Further Reading.
 
 ### Counterarguments Considered
 - **Heterophenomenology** (Dennett): Previously deferred to illusionism article. No change needed.

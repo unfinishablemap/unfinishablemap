@@ -27,9 +27,9 @@ topics: []
 
 ### Medium Issues Found
 - None. Changes since previous review were mechanical wikilink retargets caused by coalesce/refine operations:
-  - `[consciousness-and-creativity](/concepts/creative-consciousness/)` → `[creative-consciousness](/concepts/creative-consciousness/)` (concepts list and inline)
-  - `[consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/)` → `[consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/)`
-  - `*reasons-responsiveness*` → `*[reasons-responsiveness](/concepts/reasons-responsiveness/)*` (added in 2026-03-25 review)
+  - `[[consciousness-and-creativity]]` → `[[creative-consciousness]]` (concepts list and inline)
+  - `[[consciousness-and-intelligence|consciousness threshold]]` → `[[consciousness-and-cognitive-distinctiveness|consciousness threshold]]`
+  - `*reasons-responsiveness*` → `*[[reasons-responsiveness]]*` (added in 2026-03-25 review)
   All targets verified to exist. No substantive content drift.
 
 ### Low Issues Found

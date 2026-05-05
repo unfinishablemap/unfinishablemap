@@ -49,7 +49,7 @@ Not re-engaged — article at stability per nine prior reviews. The emergence-st
 All strengths from prior reviews remain intact. The gravity well metaphor, degrees of proximity taxonomy, four escape strategies, the pattern diagnostic, and tenet coordination framing continue to function well. No content was rewritten or trimmed.
 
 ### Enhancements Made
-- Redirected body link at line 131: `Strong [emergence](/concepts/emergence/)` → `[Strong emergence](/topics/the-strong-emergence-of-consciousness/)` (zero-word change; integrates topic-level navigation at the natural point)
+- Redirected body link at line 131: `Strong [[emergence]]` → `[[the-strong-emergence-of-consciousness|Strong emergence]]` (zero-word change; integrates topic-level navigation at the natural point)
 - Added [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) to `related_articles`
 - Added [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) to Further Reading with concise annotation positioning it relative to the emergence strategy
 

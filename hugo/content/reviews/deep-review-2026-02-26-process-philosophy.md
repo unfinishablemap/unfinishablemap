@@ -23,8 +23,8 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **Broken wikilink to archived article**: Line 98 referenced `[Eastern Philosophy–Haecceity Tension](/topics/eastern-philosophy-consciousness/)` but this article was archived on 2026-02-06 (coalesced into `eastern-philosophy-consciousness`). The content about process haecceitism and the flame analogy now lives in `[process-haecceitism](/concepts/haecceity/)`.
-   - **Resolution**: Updated link to `[Process haecceitism](/concepts/haecceity/)` which is the dedicated concept article covering this material.
+1. **Broken wikilink to archived article**: Line 98 referenced `[[eastern-philosophy-haecceity-tension|Eastern Philosophy–Haecceity Tension]]` but this article was archived on 2026-02-06 (coalesced into `eastern-philosophy-consciousness`). The content about process haecceitism and the flame analogy now lives in `[[process-haecceitism]]`.
+   - **Resolution**: Updated link to `[[process-haecceitism|Process haecceitism]]` which is the dedicated concept article covering this material.
 
 ### Medium Issues Found
 1. **Missing Stapp reference**: Henry Stapp's work was discussed in the Quantum Connection section (added in previous review) but no citation was included in References.

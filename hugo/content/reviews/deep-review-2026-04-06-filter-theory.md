@@ -72,8 +72,8 @@ All six adversarial personas engaged:
 
 ### Cross-links Added
 
-- `[bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)` — frontmatter topics, body text (objections section), Further Reading
-- `[baseline-cognition](/concepts/baseline-cognition/)` — frontmatter concepts, body text (Simple Organisms section), Further Reading
+- `[[bandwidth-of-consciousness]]` — frontmatter topics, body text (objections section), Further Reading
+- `[[baseline-cognition]]` — frontmatter concepts, body text (Simple Organisms section), Further Reading
 
 ## Length Management
 

@@ -22,7 +22,7 @@ topics: []
 
 ## Summary
 
-Stability-confirming review. No substantive content changes since last review — only wikilink migrations (e.g., `[moral-phenomenology-and-perception](/concepts/evaluative-phenomenal-character/)` → `[moral phenomenology and perception](/concepts/evaluative-phenomenal-character/)`). All critical issues from the previous review were addressed and remain fixed. Per convergence principles, no content modifications applied in this review.
+Stability-confirming review. No substantive content changes since last review — only wikilink migrations (e.g., `[[moral-phenomenology-and-perception]]` → `[[evaluative-phenomenal-character|moral phenomenology and perception]]`). All critical issues from the previous review were addressed and remain fixed. Per convergence principles, no content modifications applied in this review.
 
 ## Length Check
 

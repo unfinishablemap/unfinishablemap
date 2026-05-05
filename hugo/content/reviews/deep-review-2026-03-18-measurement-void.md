@@ -26,8 +26,8 @@ topics: []
 - **Missing MacKay reference**: Article attributed a claim about psychophysical function underdetermination to "MacKay" with no corresponding entry in the References section. **Resolution**: Replaced the specific MacKay attribution with a general statement about the underdetermination of psychophysical functions, which is a well-established result in the field. The core argument—that identical behavioural data is compatible with radically different internal experiences—is preserved without an unverifiable attribution.
 
 ### Medium Issues Found
-- **Broken frontmatter topic link**: `[epistemology](/concepts/epistemology/)` had no corresponding file. **Resolution**: Changed to `[epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/)`, which exists and is more precisely relevant to the article's concerns about the limits of measurement.
-- **Missing inline cross-links**: The article discussed introspection and the explanatory gap without linking to existing concept pages. **Resolution**: Added `[introspection](/concepts/introspection/)` link in the calibration section and `[explanatory-gap](/concepts/explanatory-gap/)` link in the proxy metrics section.
+- **Broken frontmatter topic link**: `[[epistemology]]` had no corresponding file. **Resolution**: Changed to `[[epistemology-of-cognitive-limits]]`, which exists and is more precisely relevant to the article's concerns about the limits of measurement.
+- **Missing inline cross-links**: The article discussed introspection and the explanatory gap without linking to existing concept pages. **Resolution**: Added `[[introspection]]` link in the calibration section and `[[explanatory-gap]]` link in the proxy metrics section.
 - **Style guide tension**: Opening paragraph used a "This is not X. It is Y." construction that the style guide flags as an overused LLM pattern. **Resolution**: Rephrased to "The barrier is structural, not technological:" — more direct and avoids the flagged pattern.
 
 ### Counterarguments Considered
@@ -55,9 +55,9 @@ topics: []
 - **Tenet connections**: The Occam's Razor analysis is particularly strong—turning the unmeasurability of consciousness against the assumption that everything real must be quantifiable.
 
 ### Enhancements Made
-- Added `[introspection](/concepts/introspection/)` cross-link in calibration section
-- Added `[explanatory-gap](/concepts/explanatory-gap/)` cross-link in proxy metrics section
-- Fixed `[epistemology](/concepts/epistemology/)` → `[epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/)` in frontmatter
+- Added `[[introspection]]` cross-link in calibration section
+- Added `[[explanatory-gap]]` cross-link in proxy metrics section
+- Fixed `[[epistemology]]` → `[[epistemology-of-cognitive-limits]]` in frontmatter
 - Tightened opening construction and Varela paragraph for style and concision
 - Removed unverifiable MacKay attribution, preserving the underdetermination argument
 
@@ -69,7 +69,7 @@ topics: []
 ## Remaining Items
 
 - Article remains at 2379 words (119% of 2000 soft threshold for voids/). Further condensation could be warranted in a future review, particularly in the "Attempted Bridges" and "Formal Calibration Problem" subsections, which are thorough but verbose relative to the section's overall scope. However, given the article's role as a coalescence of two prior articles (calibration-void and quantification-void), the current length is reasonable.
-- Many files across the codebase still reference `[calibration-void](/voids/measurement-void/)` and `[quantification-void](/voids/measurement-void/)` rather than `[measurement-void](/voids/observation-and-measurement-void/)`. These stale references should be updated in a separate cross-review pass.
+- Many files across the codebase still reference `[[calibration-void]]` and `[[quantification-void]]` rather than `[[measurement-void]]`. These stale references should be updated in a separate cross-review pass.
 
 ## Stability Notes
 

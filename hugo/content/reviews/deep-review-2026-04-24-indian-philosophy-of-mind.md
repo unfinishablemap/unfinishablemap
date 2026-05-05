@@ -24,7 +24,7 @@ topics: []
 
 Two minor modifications since 2026-03-20:
 1. **2026-04-07**: Added one sentence at the "No Many Worlds" tenet section connecting Samkhya's "Why am I *this* purusha?" question to the [indexical-void](/topics/vertiginous-question/) (later retargeted), plus a Further Reading entry.
-2. **2026-04-23**: Link retargeting after coalesce — `[indexical-void](/topics/vertiginous-question/)` → `[vertiginous-question](/topics/vertiginous-question/)` in both the tenet paragraph and the Further Reading list.
+2. **2026-04-23**: Link retargeting after coalesce — `[[indexical-void]]` → `[[vertiginous-question]]` in both the tenet paragraph and the Further Reading list.
 
 Both changes are substantively minor. The vertiginous-question target is the correct semantic match: the article there explicitly asks "Why, of all conscious beings, am *I* this one?"—which is the direct Western analogue of Samkhya's formulation.
 
@@ -74,7 +74,7 @@ None. Link inventory remains comprehensive and all targets resolve.
 
 ## Verification
 
-- All wikilink targets resolved (including the retargeted `[vertiginous-question](/topics/vertiginous-question/)`, confirmed present at `obsidian/topics/vertiginous-question.md`)
+- All wikilink targets resolved (including the retargeted `[[vertiginous-question]]`, confirmed present at `obsidian/topics/vertiginous-question.md`)
 - Word count: 2,465 (82% of 3000-word topics target — healthy margin, no length action needed)
 - No duplicate or stale links
 - Description remains truthful and front-loads the convergence insight

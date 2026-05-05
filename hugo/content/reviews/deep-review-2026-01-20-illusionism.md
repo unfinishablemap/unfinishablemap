@@ -56,10 +56,10 @@ topics: []
 - Enhanced references with full citations
 
 ### Cross-links Added
-- `[introspection](/concepts/introspection/)` — reliability of phenomenal reports
-- `[mysterianism](/concepts/mysterianism/)` — cognitive closure as alternative explanation
-- `[knowledge-argument](/concepts/knowledge-argument/)` — Mary's Room and learning
-- `[arguments-against-materialism](/topics/arguments-against-materialism/)` — illusionism as physicalist response
+- `[[introspection]]` — reliability of phenomenal reports
+- `[[mysterianism]]` — cognitive closure as alternative explanation
+- `[[knowledge-argument]]` — Mary's Room and learning
+- `[[arguments-against-materialism]]` — illusionism as physicalist response
 
 ## Remaining Items
 

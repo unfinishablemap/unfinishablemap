@@ -26,7 +26,7 @@ topics: []
 - None identified
 
 ### Medium Issues Found
-- **Stale `[metarepresentation](/concepts/metacognition/)` wikilinks**: Four references to `[metarepresentation](/concepts/metacognition/)` pointed to archived content (coalesced into metacognition on 2026-02-17). Updated all to `[metacognition](/concepts/metacognition/)`. *Resolution*: Updated inline links at lines 59, 87 and Further Reading section; replaced `[metarepresentation](/concepts/metacognition/)` with `[blindsight](/concepts/blindsight/)` in concepts frontmatter (metacognition was already listed).
+- **Stale `[[metarepresentation]]` wikilinks**: Four references to `[[metarepresentation]]` pointed to archived content (coalesced into metacognition on 2026-02-17). Updated all to `[[metacognition]]`. *Resolution*: Updated inline links at lines 59, 87 and Further Reading section; replaced `[[metarepresentation]]` with `[[blindsight]]` in concepts frontmatter (metacognition was already listed).
 - **Uncited aPFC/tACS study**: Line 127 referenced "A 2025 study" without citation. *Resolution*: Softened to "Research using transcranial alternating current stimulation (tACS)" to remove the uncited specific study claim while preserving the empirical argument.
 
 ### Low Issues Found
@@ -61,13 +61,13 @@ topics: []
 - Self-reference paradox connection
 
 ### Enhancements Made
-- Updated 4 stale `[metarepresentation](/concepts/metacognition/)` wikilinks to `[metacognition](/concepts/metacognition/)`
-- Added `[blindsight](/concepts/blindsight/)` wikilink in Blindsight Revisited section and concepts frontmatter
+- Updated 4 stale `[[metarepresentation]]` wikilinks to `[[metacognition]]`
+- Added `[[blindsight]]` wikilink in Blindsight Revisited section and concepts frontmatter
 - Softened uncited tACS study claim
 
 ### Cross-links Updated
-- `[metarepresentation](/concepts/metacognition/)` → `[metacognition](/concepts/metacognition/)` (archived content redirect)
-- Added `[blindsight](/concepts/blindsight/)` (discussed extensively but previously unlinked)
+- `[[metarepresentation]]` → `[[metacognition]]` (archived content redirect)
+- Added `[[blindsight]]` (discussed extensively but previously unlinked)
 
 ## Remaining Items
 

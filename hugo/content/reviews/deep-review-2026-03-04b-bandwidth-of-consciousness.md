@@ -42,7 +42,7 @@ All citations verified via web search:
 
 ### Medium Issues Found
 
-- **Path-prefixed wikilink in body text**: `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` in Further Reading section still had path prefix (previous review fixed frontmatter occurrences but missed this one). **Resolution**: Removed path prefix.
+- **Path-prefixed wikilink in body text**: `[[concepts/consciousness-selecting-neural-patterns]]` in Further Reading section still had path prefix (previous review fixed frontmatter occurrences but missed this one). **Resolution**: Removed path prefix.
 - **Unsupported Sperling claim**: "Sperling's partial-report paradigm" cited without reference. **Resolution**: Added "1960" inline and Sperling (1960) to References.
 - **Unsupported psychedelic entropy claim**: "Psychedelic research finds increased neural entropy" lacked specific citation. **Resolution**: Added Carhart-Harris et al. (2014) inline citation and full reference.
 - **Missing reciprocal cross-links**: hard-problem-of-consciousness and consciousness-and-memory both reference this article but weren't listed in related_articles. **Resolution**: Added both.

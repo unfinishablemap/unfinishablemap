@@ -64,7 +64,7 @@ All five bedrock disagreements from previous review remain bedrock disagreements
 1. Varied three instances of repetitive "no one experiencing" phrasing to improve readability.
 
 ### Cross-links Verified
-All wikilinks resolve to existing files. The `[ai-machine-consciousness-2026-01-08](/research/ai-machine-consciousness-2026-01-08/)` in related_articles correctly points to `obsidian/research/ai-machine-consciousness-2026-01-08.md`.
+All wikilinks resolve to existing files. The `[[ai-machine-consciousness-2026-01-08]]` in related_articles correctly points to `obsidian/research/ai-machine-consciousness-2026-01-08.md`.
 
 ## Remaining Items
 

@@ -67,16 +67,16 @@ No significant unsupported claims. All factual claims are either cited (Sinha 20
 
 ### Enhancements Made
 
-- Added inline cross-link `[spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)` at first mention of GRW/CSL/Diósi-Penrose to strengthen navigation.
+- Added inline cross-link `[[spontaneous-collapse-theories]]` at first mention of GRW/CSL/Diósi-Penrose to strengthen navigation.
 - Clarified the Chalmers-McQueen "no single scalar Φ measure" point by naming Φ explicitly rather than referring vaguely to "scalar measure."
 
 ### Cross-links Added
 
-- `[spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)` in the "Collapse-Theory Parameter Bounds" section.
+- `[[spontaneous-collapse-theories]]` in the "Collapse-Theory Parameter Bounds" section.
 
 ### Effective Patterns Noted
 
-- Named-anchor forward reference: `{#corridor-taxonomy}` with `[taxonomy below](#corridor-taxonomy)` — textbook use of the writing-style guide's pattern.
+- Named-anchor forward reference: `{#corridor-taxonomy}` with `[[#corridor-taxonomy|taxonomy below]]` — textbook use of the writing-style guide's pattern.
 - Per-proposal italic-header structure in the "minimum-outside-corridor" section makes the five sub-positions easy to scan.
 - Explicit labelling of some programmes as "specific proposals rather than established mechanisms" with self-reference to the writing-style guide's restraint on microtubule load-bearing claims.
 

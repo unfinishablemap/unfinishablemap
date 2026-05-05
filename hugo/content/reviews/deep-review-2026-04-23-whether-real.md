@@ -34,13 +34,13 @@ A content-level deep review is not applicable: the source article no longer exis
 - 35 research notes in `obsidian/research/`
 
 Replacement logic:
-- Frontmatter `related_articles`/`concepts` list entries: deduped where both `[whether-real](/voids/meta-epistemology-of-limits/)` and `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` already existed; otherwise replaced.
-- Body text: `[whether-real](/voids/meta-epistemology-of-limits/)` and `[display text](/voids/meta-epistemology-of-limits/)` retargeted to `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)`, preserving display text.
+- Frontmatter `related_articles`/`concepts` list entries: deduped where both `[[whether-real]]` and `[[meta-epistemology-of-limits]]` already existed; otherwise replaced.
+- Body text: `[[whether-real]]` and `[[whether-real|display text]]` retargeted to `[[meta-epistemology-of-limits]]`, preserving display text.
 - Adjacent "See Also" bullets pointing to both articles were deduped, keeping the entry with meta-epistemology-matching display text.
 
 **Manual fixes for edge cases**:
-- `obsidian/voids/closure-types-void.md` line 54: collapsed `[phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` to `[phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) and [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)`.
-- `obsidian/apex/taxonomy-of-voids.md`: removed `voids/whether-real` from the apex `series_articles` list (now points to archive) and dropped a redundant adjacent `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` reference with awkward repeated display text.
+- `obsidian/voids/closure-types-void.md` line 54: collapsed `[[phenomenology-of-the-edge]], [[meta-epistemology-of-limits]], [[meta-epistemology-of-limits]]` to `[[phenomenology-of-the-edge]] and [[meta-epistemology-of-limits]]`.
+- `obsidian/apex/taxonomy-of-voids.md`: removed `voids/whether-real` from the apex `series_articles` list (now points to archive) and dropped a redundant adjacent `[[meta-epistemology-of-limits]]` reference with awkward repeated display text.
 - `obsidian/concepts/mysterianism.md`: removed redundant inline repeat where two consecutive sentences linked to the same article.
 
 ## Files Not Modified
@@ -53,7 +53,7 @@ Replacement logic:
 
 - `grep '\[\[whether-real' obsidian/` now returns only `workflow/` and `reviews/` files (expected).
 - `uv run python scripts/sync.py` completed with all files syncing cleanly.
-- No adjacent duplicate `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` bullets remain in live content.
+- No adjacent duplicate `[[meta-epistemology-of-limits]]` bullets remain in live content.
 
 ## Remaining Items
 

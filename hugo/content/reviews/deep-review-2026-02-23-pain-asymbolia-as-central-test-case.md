@@ -29,8 +29,8 @@ None. The article is factually sound, properly attributed, internally consistent
 - **"No other clinical condition" overstated uniqueness** (original line 44): Absolute empirical claim that ignores partial parallels in hypnotic analgesia, opioid dissociation, etc. **Resolution**: Qualified to "Arguably no other clinical condition."
 - **Broader deficit pattern unacknowledged**: Berthier et al. (1988) report deficits extending to threatening gestures, not just pain affect. Article said deficit was "specifically" the affective-motivational dimension. **Resolution**: Added parenthetical noting the broader threat-evaluation deficit while clarifying the core pattern remains selective.
 - **Representationalism section thinner than others**: Followed same argumentative pattern as higher-order theories without distinct analytical depth. **Resolution**: Strengthened to distinguish representationalism's specific challenge (why some *contents* are intrinsically aversive) from higher-order theory's challenge (why some *monitoring* produces felt quality).
-- **Missing cross-links**: `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` (which already links back to this article) and `[the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)` were absent. **Resolution**: Added to both Further Reading and frontmatter related_articles.
-- **Epiphenomenalist challenge unaddressed**: Bidirectional interaction section claimed causal efficacy of felt suffering without engaging the epiphenomenalist objection. **Resolution**: Added epiphenomenalist challenge and the Map's selectivity-based response, with cross-link to `[the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)`.
+- **Missing cross-links**: `[[why-pain-hurts]]` (which already links back to this article) and `[[the-epiphenomenalist-threat]]` were absent. **Resolution**: Added to both Further Reading and frontmatter related_articles.
+- **Epiphenomenalist challenge unaddressed**: Bidirectional interaction section claimed causal efficacy of felt suffering without engaging the epiphenomenalist objection. **Resolution**: Added epiphenomenalist challenge and the Map's selectivity-based response, with cross-link to `[[the-epiphenomenalist-threat]]`.
 
 ### Low Issues Found
 - IIT 4.0 mentioned without citation — deferred (the citation would be Albantakis et al. 2023, but adding it is marginal value)
@@ -58,11 +58,11 @@ None. The article is factually sound, properly attributed, internally consistent
 - Added Grahek's feeling-pain/being-in-pain philosophical framework
 - Strengthened representationalism section with distinct analytical point
 - Added epiphenomenalist challenge and response in bidirectional interaction section
-- Added cross-links to `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` and `[the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)`
+- Added cross-links to `[[why-pain-hurts]]` and `[[the-epiphenomenalist-threat]]`
 
 ### Cross-links Added
-- `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` — phenomenal character and causal power in pain
-- `[the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)` — the broader argument against epiphenomenalism
+- `[[why-pain-hurts]]` — phenomenal character and causal power in pain
+- `[[the-epiphenomenalist-threat]]` — the broader argument against epiphenomenalism
 
 ## Remaining Items
 

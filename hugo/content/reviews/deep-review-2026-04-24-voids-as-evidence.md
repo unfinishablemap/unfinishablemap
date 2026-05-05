@@ -64,14 +64,14 @@ None. Second-order-void additions use consistent terminology.
 - Four Supporting Lines (Heidegger/Chomsky/Socrates/transcendental) untouched
 
 ### Enhancements Made
-- **Phenomenal Core family** now includes `[plenitude-void](/voids/plenitude-void/)` alongside the existing hard problem, intrinsic nature, binding, surplus, and phenomenal quality voids. Plenitude joins naturally because it concerns what phenomenal content *is* (rich vs. sparse) when inspection itself alters the target.
-- **Framework Reflexivity Family** now includes the `[categorial-void](/voids/conceptual-scheme-void/)` and `[epistemic-horizon-void](/voids/meta-epistemology-of-limits/)` with explicit second-order framing: "they shadow every other family." This makes the family's self-referential structure more visible and strengthens the convergence argument — the catalogue contains voids that are *about* the catalogue's own completeness and categorial adequacy.
+- **Phenomenal Core family** now includes `[[plenitude-void]]` alongside the existing hard problem, intrinsic nature, binding, surplus, and phenomenal quality voids. Plenitude joins naturally because it concerns what phenomenal content *is* (rich vs. sparse) when inspection itself alters the target.
+- **Framework Reflexivity Family** now includes the `[[categorial-void]]` and `[[epistemic-horizon-void]]` with explicit second-order framing: "they shadow every other family." This makes the family's self-referential structure more visible and strengthens the convergence argument — the catalogue contains voids that are *about* the catalogue's own completeness and categorial adequacy.
 - Three `related_articles` frontmatter entries added.
 
 ### Cross-links Added
-- `[epistemic-horizon-void](/voids/meta-epistemology-of-limits/)`
-- `[plenitude-void](/voids/plenitude-void/)`
-- `[categorial-void](/voids/conceptual-scheme-void/)`
+- `[[epistemic-horizon-void]]`
+- `[[plenitude-void]]`
+- `[[categorial-void]]`
 
 ### Trimmed
 - "Convergence adds cumulative weight: any single gap might be explained away, but the same explanation must account for the clustering, the shared boundaries, and the irreducibility of the questioner." (paragraph 2) — redundant with the paragraph "What convergence adds is cumulative weight. Any single gap might be explained away, but can the same strategy explain why..." in the Physicalist Responses section.

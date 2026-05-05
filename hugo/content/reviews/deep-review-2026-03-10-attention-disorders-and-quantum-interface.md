@@ -24,9 +24,9 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken wikilinks to archived concepts**: `[dopamine-selection-interface](/concepts/motor-selection/)` and `[attention-motor-quantum-interface](/concepts/attention-as-interface/)` in frontmatter `concepts:` list pointed to files that were coalesced and archived. Removed from concepts list and replaced `[attention-motor-quantum-interface](/concepts/attention-as-interface/)` in Further Reading with `[attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)` (its replacement). Resolution: updated frontmatter concepts and Further Reading links.
+- **Broken wikilinks to archived concepts**: `[[dopamine-selection-interface]]` and `[[attention-motor-quantum-interface]]` in frontmatter `concepts:` list pointed to files that were coalesced and archived. Removed from concepts list and replaced `[[attention-motor-quantum-interface]]` in Further Reading with `[[attention-as-selection-interface]]` (its replacement). Resolution: updated frontmatter concepts and Further Reading links.
 
-- **Hallucinated Further Reading entry**: `[voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic attention` described content that doesn't exist in the target article. The original `voluntary-attention` concept was never created. Resolution: removed the misleading entry entirely. The willed/automatic attention distinction is already covered in the article's own table.
+- **Hallucinated Further Reading entry**: `[[attention-as-interface|voluntary attention]] — Neural signatures distinguishing willed from automatic attention` described content that doesn't exist in the target article. The original `voluntary-attention` concept was never created. Resolution: removed the misleading entry entirely. The willed/automatic attention distinction is already covered in the article's own table.
 
 ### Medium Issues Found
 

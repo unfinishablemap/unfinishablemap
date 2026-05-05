@@ -32,7 +32,7 @@ None. The article is well-structured and the Feb 18 refinements addressed the ma
 
 ### Medium Issues Found
 
-1. **Broken section anchor**: `[response](/topics/free-will/#why-the-maps-framework-escapes-luck)` referenced a non-existent heading in free-will.md. The correct section is `## The Agent-Causal Response to Luck`.
+1. **Broken section anchor**: `[[topics/free-will#Why the Map's Framework Escapes Luck|response]]` referenced a non-existent heading in free-will.md. The correct section is `## The Agent-Causal Response to Luck`.
    - **Resolution**: Fixed anchor to `#The Agent-Causal Response to Luck`.
 
 2. **Stale HTML comment**: AI refinement log from 2026-02-18 (lines 206-218) contained a note "This log should be removed after human review." The log documented changes already incorporated into the article.

@@ -28,7 +28,7 @@ None. Article content remains accurate and well-structured. No attribution error
 
 ### Medium Issues Found
 
-1. **Duplicate Further Reading entries**: Three separate links to `[attention-as-interface](/concepts/attention-as-interface/)` with different display text ("attention", standalone link, "voluntary attention"). Consolidated to a single entry.
+1. **Duplicate Further Reading entries**: Three separate links to `[[attention-as-interface]]` with different display text ("attention", standalone link, "voluntary attention"). Consolidated to a single entry.
    - **Resolution**: Merged into one entry covering attention and voluntary attention.
 
 2. **Uncited reference**: Chalmers & McQueen (2022) listed in References but never mentioned in the body, despite being directly relevant to the consciousness-collapse framework.

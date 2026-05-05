@@ -26,7 +26,7 @@ topics: []
 - None. The article is stable after the previous review's corrections.
 
 ### Medium Issues Found
-- **Missing body cross-link to hard-problem-of-consciousness**: The hard problem is discussed extensively throughout the article and listed in frontmatter topics, but was never linked in the body text. Added `[hard problem](/topics/hard-problem-of-consciousness/)` at the most natural point (the explanatory division of labour section).
+- **Missing body cross-link to hard-problem-of-consciousness**: The hard problem is discussed extensively throughout the article and listed in frontmatter topics, but was never linked in the body text. Added `[[hard-problem-of-consciousness|hard problem]]` at the most natural point (the explanatory division of labour section).
 
 ### Counterarguments Considered
 - All six adversarial personas engaged. No new counterarguments identified beyond those already addressed in the article (science-stopping charge, brute correlations, illusionism, mechanism demand). The previous review's additions — particularly the illusionism objection and meta-problem response — remain effective.
@@ -51,7 +51,7 @@ topics: []
 - Honest hedging of quantum testability
 
 ### Enhancements Made
-- Added `[hard problem](/topics/hard-problem-of-consciousness/)` cross-link in body text
+- Added `[[hard-problem-of-consciousness|hard problem]]` cross-link in body text
 
 ### Cross-links Added
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — linked in the explanatory division of labour section

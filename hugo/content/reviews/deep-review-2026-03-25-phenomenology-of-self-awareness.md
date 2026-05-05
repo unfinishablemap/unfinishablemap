@@ -29,7 +29,7 @@ topics: []
 - **"Confirm" too strong for contemplative evidence (line 63)**: "Contemplative traditions confirm this structure" treats first-person reports as scientific confirmation. **Resolution**: Changed to "corroborate."
 - **Functionalist engagement missing from Transformation Thesis**: The "standard picture" was presented without engaging the strongest functionalist counter — that higher-order theories (Rosenthal, Carruthers) predict phenomenal changes from metacognitive representations, and recursive processing is computationally distinctive. **Resolution**: Added paragraph engaging directly with HOT theories and the computational distinctiveness objection, with dualist counterpoint about the explanatory gap persisting at the recursive level.
 - **Contemplative convergence overstated**: Cross-tradition convergence presented as independent discovery without acknowledging historical influence between traditions. **Resolution**: Added sceptical caveat and noted the strongest cases for independence (minimal historical contact, structural rather than cultural convergence).
-- **Frontmatter concepts not linked in body**: `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)`, `[metacognition](/concepts/metacognition/)`, `[epistemic-emotions](/concepts/epistemic-emotions/)` appeared in frontmatter but not in article text. **Resolution**: Wove `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` into the doubled intentionality section, `[metacognition](/concepts/metacognition/)` into the functionalist engagement paragraph, and `[epistemic-emotions](/concepts/epistemic-emotions/)` into the contemplative evidence section.
+- **Frontmatter concepts not linked in body**: `[[cognitive-phenomenology]]`, `[[metacognition]]`, `[[epistemic-emotions]]` appeared in frontmatter but not in article text. **Resolution**: Wove `[[cognitive-phenomenology]]` into the doubled intentionality section, `[[metacognition]]` into the functionalist engagement paragraph, and `[[epistemic-emotions]]` into the contemplative evidence section.
 
 ### Counterarguments Considered
 - **Eliminative Materialist (Churchland)**: Introspective reliability of phenomenological claims is suspect. The article doesn't have an explicit "introspective reliability" section but the contemplative evidence section now includes epistemic caveats. This is a bedrock disagreement about first-person evidence.
@@ -54,17 +54,17 @@ topics: []
 
 ### Enhancements Made
 - Added functionalist engagement paragraph with HOT theory counter and dualist response
-- Wove `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` into doubled intentionality section
-- Added `[metacognition](/concepts/metacognition/)` link via functionalist engagement
-- Added `[epistemic-emotions](/concepts/epistemic-emotions/)` link in contemplative evidence
+- Wove `[[cognitive-phenomenology]]` into doubled intentionality section
+- Added `[[metacognition]]` link via functionalist engagement
+- Added `[[epistemic-emotions]]` link in contemplative evidence
 - Softened "confirm" → "corroborate" for contemplative evidence
 - Added sceptical caveat about cross-tradition influence in convergence argument
 - Added epistemic qualification to advanced contemplative findings
 
 ### Cross-links Added
-- `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` — in doubled intentionality section
-- `[metacognition](/concepts/metacognition/)` — in functionalist engagement paragraph
-- `[epistemic-emotions](/concepts/epistemic-emotions/)` — in contemplative evidence section
+- `[[cognitive-phenomenology]]` — in doubled intentionality section
+- `[[metacognition]]` — in functionalist engagement paragraph
+- `[[epistemic-emotions]]` — in contemplative evidence section
 
 ## Remaining Items
 

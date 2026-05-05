@@ -27,7 +27,7 @@ None. The article was reviewed earlier today and remains in good shape. No new c
 
 ### Medium Issues Found
 - **Zero inbound links (orphaned)**: The concept had no wikilinks from any other article on the site, despite being foundational to the Map's position on invertebrate consciousness and the distribution problem. Resolution: Added 9 cross-references from existing articles (see below).
-- **Missing `[panpsychism](/concepts/panpsychism/)` wikilink**: The panpsychism section discussed panpsychism without linking to the concept page. Resolution: Added wikilink.
+- **Missing `[[panpsychism]]` wikilink**: The panpsychism section discussed panpsychism without linking to the concept page. Resolution: Added wikilink.
 
 ### Counterarguments Considered
 No new counterarguments beyond those addressed in the earlier review.
@@ -41,12 +41,12 @@ No new counterarguments beyond those addressed in the earlier review.
 - All five tenets substantively connected
 
 ### Enhancements Made
-- Added `[panpsychism](/concepts/panpsychism/)` wikilink in the Distinguishing section
+- Added `[[panpsychism]]` wikilink in the Distinguishing section
 - Added 9 inbound cross-references from existing articles:
 
 ### Cross-links Added (FROM other articles TO this one)
 
-1. **[invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)** — Converted prose "universal coupling response" to `[universal-coupling-response](/concepts/universal-coupling-response/)` wikilink at the three-response discussion
+1. **[invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)** — Converted prose "universal coupling response" to `[[universal-coupling-response]]` wikilink at the three-response discussion
 2. **[ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)** — Added reference in opening paragraph where "adequate coupling architecture" is discussed
 3. **[consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)** — Added link in the Distribution Problem section's Interface dualism paragraph
 4. **[panpsychism](/concepts/panpsychism/)** — Added link in "The Map's Alternative" section explaining what universal coupling specifies

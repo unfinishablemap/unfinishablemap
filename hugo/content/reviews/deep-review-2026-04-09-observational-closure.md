@@ -40,8 +40,8 @@ All six adversarial personas engaged. No persona identified a critical flaw:
 - **Buddhist Philosopher**: Subject/object distinction is a bedrock framework commitment, not a flaw
 
 ### Medium Issues Found
-- **Unnecessary path prefix in wikilinks**: `[epiphenomenalism](/concepts/epiphenomenalism/)` used in frontmatter and body when only one epiphenomenalism.md exists. Fixed to `[epiphenomenalism](/concepts/epiphenomenalism/)` for consistency with other entries. (Resolved)
-- **Duplicate Further Reading entries**: Two entries both linked to `[mysterianism](/concepts/mysterianism/)` — one for "cognitive closure" and one for "broader philosophical position." Consolidated into single entry. (Resolved)
+- **Unnecessary path prefix in wikilinks**: `[[concepts/epiphenomenalism]]` used in frontmatter and body when only one epiphenomenalism.md exists. Fixed to `[[epiphenomenalism]]` for consistency with other entries. (Resolved)
+- **Duplicate Further Reading entries**: Two entries both linked to `[[mysterianism]]` — one for "cognitive closure" and one for "broader philosophical position." Consolidated into single entry. (Resolved)
 
 ### Counterarguments Considered
 No new counterarguments emerged beyond those already addressed in the article's objections section and previous reviews. The unfalsifiability concern remains a bedrock feature acknowledged in the article, not a flaw to fix.
@@ -69,7 +69,7 @@ All checks passed:
 - Good length at 54% of soft threshold — appropriately concise
 
 ### Enhancements Made
-- Cleaned up `[epiphenomenalism](/concepts/epiphenomenalism/)` path prefix to `[epiphenomenalism](/concepts/epiphenomenalism/)` (frontmatter and body)
+- Cleaned up `[[concepts/epiphenomenalism]]` path prefix to `[[epiphenomenalism]]` (frontmatter and body)
 - Consolidated duplicate mysterianism/cognitive closure Further Reading entries into one
 
 ### Cross-links

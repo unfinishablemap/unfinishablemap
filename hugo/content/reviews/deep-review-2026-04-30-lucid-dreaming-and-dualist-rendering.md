@@ -26,7 +26,7 @@ This is the **fifth deep review** of this article. All four prior reviews (2026-
 
 ## Modifications Since Last Review
 
-Diff since 2026-03-24 review (commit `35ea05799`) shows a single change: a wikilink rename `[memory-as-dual-domain-capability](/concepts/episodic-memory/)` → `[episodic-memory](/concepts/episodic-memory/)` applied at three locations (concepts list, "Four Capability Signatures" intro, Further Reading). This is a slug rename — the successor target `obsidian/concepts/episodic-memory.md` describes itself in its `description` field as a "dual-domain capability" article, so the alias `[dual-domain framework](/concepts/episodic-memory/)` remains semantically accurate.
+Diff since 2026-03-24 review (commit `35ea05799`) shows a single change: a wikilink rename `[[memory-as-dual-domain-capability]]` → `[[episodic-memory]]` applied at three locations (concepts list, "Four Capability Signatures" intro, Further Reading). This is a slug rename — the successor target `obsidian/concepts/episodic-memory.md` describes itself in its `description` field as a "dual-domain capability" article, so the alias `[[episodic-memory|dual-domain framework]]` remains semantically accurate.
 
 This is **not a substantive content modification**. The candidate selection algorithm flagged the file because the modification timestamp advanced after the last review, but the change is purely a link-target rename.
 

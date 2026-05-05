@@ -64,7 +64,7 @@ None. Fifth review of a stabilized article. The cross-review against Duch's clas
 ### Enhancements Made
 
 - Added a new paragraph in the "Orch OR: The Consciousness Extension" section engaging Włodzisław Duch's classical-sufficiency critique. The paragraph distinguishes Duch's argument-form ("quantum effects are not *needed* in the brain") from decoherence-based objections ("quantum effects cannot survive there"), and explicitly maps the convergent-conclusion-opposite-reasoning structure: the Map and Duch concur on rejecting Orch-OR-scale macroscopic neural coherence but diverge on whether *any* quantum interface for consciousness is needed.
-- Cross-link added to `[comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/#the-external-critic-duchs-classical-computational-alternative)`, where Duch is more substantively engaged. The anchor was verified against Hugo's rendered output before linking.
+- Cross-link added to `[[comparing-quantum-consciousness-mechanisms#the-external-critic-duchs-classical-computational-alternative]]`, where Duch is more substantively engaged. The anchor was verified against Hugo's rendered output before linking.
 - Added Duch (2005) and Duch (2019) to the article's references list.
 
 ### Cross-links Verified

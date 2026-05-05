@@ -39,9 +39,9 @@ None. All six adversarial personas engaged. No new issues beyond the bedrock dis
 
 ### Medium Issues Found
 1. **Missing cross-link to post-decoherence-selection-mechanisms**: The post-decoherence concession section discussed a fallback position now covered by a dedicated article.
-   - **Resolution**: Added cross-link to `[post-decoherence-selection-mechanisms](/topics/forward-in-time-conscious-selection/)` in the concession paragraph.
+   - **Resolution**: Added cross-link to `[[post-decoherence-selection-mechanisms]]` in the concession paragraph.
 2. **Missing cross-link to tenet-falsification-conditions**: The "What Would Challenge This View?" section covers falsification without linking to the broader concept page.
-   - **Resolution**: Added cross-link to `[tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)` in the section introduction.
+   - **Resolution**: Added cross-link to `[[tenet-falsification-conditions]]` in the section introduction.
 
 ### Counterarguments Considered
 All six personas engaged. No new counterarguments beyond those handled by the article's existing content and the bedrock disagreements noted in previous reviews.
@@ -59,8 +59,8 @@ All six personas engaged. No new counterarguments beyond those handled by the ar
 - Bidirectional Interaction grounded in phenomenology of agency
 
 ### Enhancements Made
-1. Added cross-link to `[post-decoherence-selection-mechanisms](/topics/forward-in-time-conscious-selection/)` in Stapp section — connects the post-decoherence fallback to its full dedicated treatment
-2. Added cross-link to `[tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)` in "What Would Challenge This View?" — connects article-specific falsification to the broader framework
+1. Added cross-link to `[[post-decoherence-selection-mechanisms]]` in Stapp section — connects the post-decoherence fallback to its full dedicated treatment
+2. Added cross-link to `[[tenet-falsification-conditions]]` in "What Would Challenge This View?" — connects article-specific falsification to the broader framework
 3. Added both new pages to Further Reading section
 4. Added `post-decoherence-selection` and `tenet-falsification-conditions` to frontmatter concepts
 5. Trimmed prose in decoherence section for length neutrality (removed redundant "categorical dismissal is premature" and "Evolution has found ways to harness quantum effects in biology")

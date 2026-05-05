@@ -45,8 +45,8 @@ All strengths from the prior review preserved unchanged. The "five independent r
 
 ### Enhancements Made
 - Added contextual cross-link in the Relation to Site Perspective section: a single sentence connecting the article's introspection-as-route claim to the quantitative comprehension void's introspective ceiling, with the cap's generalisation explicitly hedged.
-- Added `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` to `related_articles` frontmatter.
-- Added `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` to Further Reading list.
+- Added `[[the-quantitative-comprehension-void]]` to `related_articles` frontmatter.
+- Added `[[the-quantitative-comprehension-void]]` to Further Reading list.
 
 ### Cross-links Added
 - [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-introspective-ceiling) — inline anchor link (introspective route's architectural cap)

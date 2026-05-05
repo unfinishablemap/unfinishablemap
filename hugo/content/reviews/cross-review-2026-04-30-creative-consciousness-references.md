@@ -30,7 +30,7 @@ The coalesce installed `superseded_by` pointers in both archive notes, so wikili
 1. **Link decay defense.** Each redirect hop is a future-failure point. Direct links survive future archive-format changes.
 2. **Editorial honesty.** Active prose linking to archived slugs reads as stale; readers seeing two different surface labels for the same destination article will wonder if they're distinct sources.
 
-For inline body references where the prose specifically names the *phenomenology of creative insight* sub-topic, anchored links point to the matching section in the unified article: `[phenomenology of creative insight](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight)`. For frontmatter and "Further Reading" lists, plain `[creative-consciousness](/concepts/creative-consciousness/)` references suffice.
+For inline body references where the prose specifically names the *phenomenology of creative insight* sub-topic, anchored links point to the matching section in the unified article: `[[creative-consciousness#The Phenomenology of Creative Insight|phenomenology of creative insight]]`. For frontmatter and "Further Reading" lists, plain `[[creative-consciousness]]` references suffice.
 
 ## Files Modified
 
@@ -72,7 +72,7 @@ For inline body references where the prose specifically names the *phenomenology
 
 ## Anchor Verification
 
-Confirmed `## The Phenomenology of Creative Insight` section exists in [concepts/creative-consciousness.md](/concepts/creative-consciousness/) (line 115) before applying anchored references. Inline references that previously pointed to `[...](/concepts/creative-consciousness/)` now use `[...](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight)` so readers land at the relevant section rather than the article top.
+Confirmed `## The Phenomenology of Creative Insight` section exists in [concepts/creative-consciousness.md](/concepts/creative-consciousness/) (line 115) before applying anchored references. Inline references that previously pointed to `[[phenomenology-of-creative-insight|...]]` now use `[[creative-consciousness#The Phenomenology of Creative Insight|...]]` so readers land at the relevant section rather than the article top.
 
 ## Cliché Audit
 

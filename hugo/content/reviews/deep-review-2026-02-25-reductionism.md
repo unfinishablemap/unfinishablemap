@@ -30,9 +30,9 @@ Third deep review of the reductionism article. Since the last review (2026-01-27
 None.
 
 ### Medium Issues Found
-- [Missing cross-link to functionalism]: Added `[functionalism](/concepts/functionalism/)` in the Functional Reduction section where Lewis's causal-role view is introduced.
-- [Missing cross-link to heterophenomenology]: Added `[heterophenomenology](/concepts/heterophenomenology/)` in the Dennett paragraph.
-- [Missing cross-link to epiphenomenalism]: Added `[epiphenomenal](/concepts/epiphenomenalism/)` in Kim's Challenge where the reduction-vs-epiphenomenalism dilemma is stated.
+- [Missing cross-link to functionalism]: Added `[[functionalism]]` in the Functional Reduction section where Lewis's causal-role view is introduced.
+- [Missing cross-link to heterophenomenology]: Added `[[heterophenomenology]]` in the Dennett paragraph.
+- [Missing cross-link to epiphenomenalism]: Added `[[epiphenomenalism|epiphenomenal]]` in Kim's Challenge where the reduction-vs-epiphenomenalism dilemma is stated.
 - [Missing Dennett references]: Added *Consciousness Explained* (1991) and *Darwin's Dangerous Idea* (1995) to references, since both concepts are discussed.
 - [AI refinement log still present]: Removed the HTML comment log from the 2026-02-17 refine-draft (marked "should be removed after human review").
 - ["Even Dennett" rhetoric]: Softened to "Dennett—a committed physicalist—acknowledges" to reduce appeal-to-authority framing.
@@ -81,10 +81,10 @@ No misattributions, dropped qualifiers, overstated positions, or source/Map conf
 - Buddhist tradition paragraph acknowledges honest tension with substance categories
 
 ### Enhancements Made
-- Added `[functionalism](/concepts/functionalism/)` cross-link in Functional Reduction section
-- Added `[heterophenomenology](/concepts/heterophenomenology/)` cross-link in Dennett paragraph
-- Added `[epiphenomenalism](/concepts/epiphenomenalism/)` cross-link in Kim's Challenge
-- Added `[mental-causation](/concepts/mental-causation-and-downward-causation/)` and `[knowledge-argument](/concepts/knowledge-argument/)` to Further Reading
+- Added `[[functionalism]]` cross-link in Functional Reduction section
+- Added `[[heterophenomenology]]` cross-link in Dennett paragraph
+- Added `[[epiphenomenalism]]` cross-link in Kim's Challenge
+- Added `[[mental-causation]]` and `[[knowledge-argument]]` to Further Reading
 - Added Dennett references (*Consciousness Explained* 1991, *Darwin's Dangerous Idea* 1995)
 - Removed stale AI refinement log
 - Softened "Even Dennett" rhetoric

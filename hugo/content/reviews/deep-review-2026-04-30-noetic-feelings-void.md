@@ -26,7 +26,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Mistargeted section anchor (body)**: The body sentence `[cardinality floor of the quantitative comprehension void](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) exposes the same output-without-operation shape outside the affective family` was pointing readers to one *instance* of the shared signature rather than to the section that *names* the signature. Resolution: retargeted to `#a-shared-signature-multiple-faces` and rephrased to `shared signature of the quantitative comprehension void names the same output-without-operation shape...`. The cardinality floor remains an apt example, but the conceptual anchor is the shared-signature section.
+- **Mistargeted section anchor (body)**: The body sentence `[[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor of the quantitative comprehension void]] exposes the same output-without-operation shape outside the affective family` was pointing readers to one *instance* of the shared signature rather than to the section that *names* the signature. Resolution: retargeted to `#a-shared-signature-multiple-faces` and rephrased to `shared signature of the quantitative comprehension void names the same output-without-operation shape...`. The cardinality floor remains an apt example, but the conceptual anchor is the shared-signature section.
 - **Mistargeted section anchor (Further Reading)**: The Further Reading entry pointed to the same wrong section. Resolution: retargeted to `#a-shared-signature-multiple-faces`; descriptor updated to "Output-without-operation as a diagnostic signature across quantitative cognition" to reflect the section's actual content.
 
 ### Medium Issues Found
@@ -68,7 +68,7 @@ The retargeting introduces no new attributed claims, no new philosophical commit
 
 ### Cross-links Added
 
-- None new. Existing `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` references retargeted in two locations (body, Further Reading); related_articles entry unchanged (no anchor needed there).
+- None new. Existing `[[the-quantitative-comprehension-void]]` references retargeted in two locations (body, Further Reading); related_articles entry unchanged (no anchor needed there).
 
 ## Remaining Items
 

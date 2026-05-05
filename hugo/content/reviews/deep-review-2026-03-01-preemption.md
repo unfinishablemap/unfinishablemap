@@ -58,14 +58,14 @@ All checks passed (unchanged from previous review):
 - **Removed stale AI refinement log**: Log was marked for removal after human review; article had been deep-reviewed.
 
 ### Cross-links Added (Orphan Integration)
-The primary focus of this review was integrating preemption.md into the site navigation. The article had zero inbound wikilinks. Added `[preemption](/concepts/delegatory-causation/)` links in 6 articles:
+The primary focus of this review was integrating preemption.md into the site navigation. The article had zero inbound wikilinks. Added `[[preemption]]` links in 6 articles:
 
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added `[preempt](/concepts/delegatory-causation/)` inline link (line 98) + frontmatter concept
-- [delegatory-dualism](/topics/delegatory-dualism/) — Added `[preempts](/concepts/delegatory-causation/)` inline link (line 97) + frontmatter concept + Further Reading entry
-- [objections-to-interactionism](/concepts/objections-to-interactionism/) — Added `[preempts](/concepts/delegatory-causation/)` inline link (line 249) + frontmatter concept + Further Reading entry
-- [causal-closure](/concepts/causal-closure/) — Added `[preempt](/concepts/delegatory-causation/)` inline link (line 107) + frontmatter concept
-- [interactionist-dualism](/concepts/interactionist-dualism/) — Added `[preempted](/concepts/delegatory-causation/)` inline link (line 116)
-- [consciousness-and-agency](/apex/consciousness-and-agency/) (apex) — Added `[preempt](/concepts/delegatory-causation/)` inline link (line 120)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added `[[preemption|preempt]]` inline link (line 98) + frontmatter concept
+- [delegatory-dualism](/topics/delegatory-dualism/) — Added `[[preemption|preempts]]` inline link (line 97) + frontmatter concept + Further Reading entry
+- [objections-to-interactionism](/concepts/objections-to-interactionism/) — Added `[[preemption|preempts]]` inline link (line 249) + frontmatter concept + Further Reading entry
+- [causal-closure](/concepts/causal-closure/) — Added `[[preemption|preempt]]` inline link (line 107) + frontmatter concept
+- [interactionist-dualism](/concepts/interactionist-dualism/) — Added `[[preemption|preempted]]` inline link (line 116)
+- [consciousness-and-agency](/apex/consciousness-and-agency/) (apex) — Added `[[preemption|preempt]]` inline link (line 120)
 
 ## Remaining Items
 

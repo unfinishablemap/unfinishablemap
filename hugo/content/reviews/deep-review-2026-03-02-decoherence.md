@@ -31,13 +31,13 @@ topics: []
 ### Medium Issues Found
 
 1. **Six foundational articles mentioned decoherence without linking to concept article**: The coalesced content from quantum-decoherence-objection-responses.md was well-integrated into decoherence.md, but several high-profile articles discussed the decoherence objection without linking to the concept page.
-   - **Resolution**: Added `[decoherence](/concepts/decoherence/)` cross-references in interactionist-dualism.md, bidirectional-interaction.md, causal-closure.md, selection-laws.md, history-of-interactionist-dualism.md, and apex/attention-as-causal-bridge.md.
+   - **Resolution**: Added `[[decoherence]]` cross-references in interactionist-dualism.md, bidirectional-interaction.md, causal-closure.md, selection-laws.md, history-of-interactionist-dualism.md, and apex/attention-as-causal-bridge.md.
 
-2. **Broken link in causal-closure.md**: `[consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/)` pointed to an archived article.
-   - **Resolution**: Updated to `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)`.
+2. **Broken link in causal-closure.md**: `[[consciousness-and-quantum-measurement]]` pointed to an archived article.
+   - **Resolution**: Updated to `[[quantum-measurement-consciousness-interface]]`.
 
-3. **Stale link in causal-closure.md and bidirectional-interaction.md**: Both linked to `[quantum-consciousness](/concepts/quantum-consciousness/#the-decoherence-objection)` section anchor, but the comprehensive decoherence response content now lives in the decoherence concept article.
-   - **Resolution**: Updated links to point to `[decoherence](/concepts/decoherence/)` directly.
+3. **Stale link in causal-closure.md and bidirectional-interaction.md**: Both linked to `[[quantum-consciousness#The Decoherence Objection]]` section anchor, but the comprehensive decoherence response content now lives in the decoherence concept article.
+   - **Resolution**: Updated links to point to `[[decoherence]]` directly.
 
 ### Counterarguments Considered
 
@@ -67,7 +67,7 @@ All attributions verified — no changes since 2026-03-01 review. The factual er
 
 ### Cross-links Added (inbound to decoherence.md)
 
-- [interactionist-dualism](/concepts/interactionist-dualism/) — 3 new `[decoherence](/concepts/decoherence/)` links in decoherence section, objections list, and assessment
+- [interactionist-dualism](/concepts/interactionist-dualism/) — 3 new `[[decoherence]]` links in decoherence section, objections list, and assessment
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — 2 new links in timing challenge section
 - [causal-closure](/concepts/causal-closure/) — 2 new links replacing stale section anchor
 - [selection-laws](/concepts/psychophysical-laws/) — 1 new link in falsifiability section

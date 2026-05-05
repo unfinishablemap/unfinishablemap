@@ -32,7 +32,7 @@ None. The article is internally consistent and cross-consistent with all related
 
 ### Medium Issues Found
 
-- **Missing IIT cross-link**: The "IIT Parsimony Paradox" section discussed Integrated Information Theory and panpsychism without linking to either concept page, creating a navigation dead-end. [Resolution: Added `[integrated-information-theory](/concepts/integrated-information-theory/)` and `[panpsychism](/concepts/panpsychism/)` wikilinks.]
+- **Missing IIT cross-link**: The "IIT Parsimony Paradox" section discussed Integrated Information Theory and panpsychism without linking to either concept page, creating a navigation dead-end. [Resolution: Added `[[integrated-information-theory]]` and `[[panpsychism]]` wikilinks.]
 
 ### Counterarguments Considered
 
@@ -76,8 +76,8 @@ All attributions re-verified against previous review's verification log:
 
 ### Enhancements Made
 
-- Added `[integrated-information-theory](/concepts/integrated-information-theory/)` wikilink in IIT section
-- Added `[panpsychism](/concepts/panpsychism/)` wikilink in IIT section
+- Added `[[integrated-information-theory]]` wikilink in IIT section
+- Added `[[panpsychism]]` wikilink in IIT section
 
 ### Cross-links Added
 

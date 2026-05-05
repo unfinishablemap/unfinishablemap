@@ -28,9 +28,9 @@ None. The previous review's critical issues (McQueen citation misattribution, in
 
 ### Medium Issues Found
 
-- **Misleading display text on quantum-consciousness link**: `[Quantum mechanics](/concepts/quantum-consciousness/)` used "Quantum mechanics" as display text for a link to the quantum-consciousness article. The sentence was about quantum mechanics broadly, making the link destination unexpected. **Resolution**: Moved the quantum-consciousness link to where it fits naturally ("a different answer to the quantum consciousness question") and left the generic QM reference unlinked.
+- **Misleading display text on quantum-consciousness link**: `[[quantum-consciousness|Quantum mechanics]]` used "Quantum mechanics" as display text for a link to the quantum-consciousness article. The sentence was about quantum mechanics broadly, making the link destination unexpected. **Resolution**: Moved the quantum-consciousness link to where it fits naturally ("a different answer to the quantum consciousness question") and left the generic QM reference unlinked.
 
-- **Missing causal-closure inline link**: The concept appeared in frontmatter but had no wikilink in the body text. **Resolution**: Added `[causal closure](/concepts/causal-closure/)` in the Bidirectional Interaction tenet section, where it fits naturally.
+- **Missing causal-closure inline link**: The concept appeared in frontmatter but had no wikilink in the body text. **Resolution**: Added `[[causal-closure|causal closure]]` in the Bidirectional Interaction tenet section, where it fits naturally.
 
 - **Bidirectional Interaction tenet language**: "Selects among outcomes" slightly blurred the modulation/causation distinction the article carefully builds. **Resolution**: Reworded to "biases outcomes... modulating probabilities rather than overriding them" to maintain consistency with the consciousness-modulated framework.
 

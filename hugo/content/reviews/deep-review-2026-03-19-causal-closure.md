@@ -86,7 +86,7 @@ No dropped qualifiers, no source/Map conflation, no misattributions.
 
 ### Cross-links Added
 
-- `[causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)` — related_articles frontmatter, inline in exclusion argument section
+- `[[causal-closure-debate-historical-survey]]` — related_articles frontmatter, inline in exclusion argument section
 
 ## Length Management
 

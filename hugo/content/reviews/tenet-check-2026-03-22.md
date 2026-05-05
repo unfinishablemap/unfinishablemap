@@ -37,8 +37,8 @@ Additionally, one non-tenet citation discrepancy was observed: `consciousness-in
 
 ### consciousness-and-the-philosophy-of-biology.md
 - **Tenet**: Minimal Quantum Interaction (Tenet 2)
-- **Issue**: Broken tenet wikilink anchor — uses `[tenets](/tenets/#minimal-interaction)` instead of the correct `[tenets](/tenets/#minimal-quantum-interaction)`. The link will fail to resolve. Not a content violation but should be fixed.
-- **Recommendation**: Update the anchor to `[tenets](/tenets/#minimal-quantum-interaction)`.
+- **Issue**: Broken tenet wikilink anchor — uses `[[tenets#^minimal-interaction]]` instead of the correct `[[tenets#^minimal-quantum-interaction]]`. The link will fail to resolve. Not a content violation but should be fixed.
+- **Recommendation**: Update the anchor to `[[tenets#^minimal-quantum-interaction]]`.
 
 ### consciousness-in-smeared-quantum-states.md
 - **Tenet**: Minimal Quantum Interaction / Bidirectional Interaction (Tenets 2 & 3)

@@ -60,8 +60,8 @@ topics: []
 - Added [eliminative-materialism](/topics/eliminative-materialism/) to Further Reading with annotation explaining what the parent article contributes
 
 ### Cross-links Added
-- `[eliminative-materialism](/topics/eliminative-materialism/)` (body and Further Reading)
-- `[self-stultification](/concepts/self-stultification/)` (body — already present in concepts frontmatter, now also linked inline in the new paragraph)
+- `[[eliminative-materialism]]` (body and Further Reading)
+- `[[self-stultification]]` (body — already present in concepts frontmatter, now also linked inline in the new paragraph)
 
 ## Length Status
 

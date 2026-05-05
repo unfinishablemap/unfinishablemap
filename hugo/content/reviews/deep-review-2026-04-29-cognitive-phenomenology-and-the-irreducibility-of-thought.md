@@ -48,7 +48,7 @@ None. The article remains free of factual errors, misattributions, dropped quali
   - "Synaesthesia (extra qualia)" — terminology canonical in axis article and synaesthesia literature
   - "Wegner's I-Spy paradigm in agency" — accurately paraphrases Wegner's paradigm as documented in [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) and [agency-void](/voids/agency-void/)
   - "Strawson's foreign-language case" — already attributed elsewhere in the article (line on phenomenal contrast in understanding); reusing the canonical Strawson reference
-- The axis is named as `[function-phenomenology axis](/concepts/phenomenology-vs-function-axis/)` — matches the canonical title.
+- The axis is named as `[[phenomenology-vs-function-axis|function-phenomenology axis]]` — matches the canonical title.
 - Hedge language ("the joint package constrains absorption in aggregate") preserves the axis article's careful position. No source/Map conflation.
 
 ## Optimistic Analysis Summary

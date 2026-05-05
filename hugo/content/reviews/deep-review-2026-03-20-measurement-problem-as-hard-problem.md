@@ -33,7 +33,7 @@ The orphan detection was caused by stale `hugo/content/topics/` artifacts — th
 
 - **Article no longer exists in obsidian**: No source file to review. Cannot perform content analysis. This is not a problem — the content lives on in the ultimate successor `quantum-measurement-and-consciousness`.
 
-- **1 stale frontmatter link to first-generation successor**: `self-reference-and-the-limits-of-physical-description.md` (line 10) referenced `[the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)` which was itself archived on 2026-03-17. **Resolution**: Updated to `[quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)`.
+- **1 stale frontmatter link to first-generation successor**: `self-reference-and-the-limits-of-physical-description.md` (line 10) referenced `[[the-measurement-problem-as-philosophical-problem]]` which was itself archived on 2026-03-17. **Resolution**: Updated to `[[quantum-measurement-and-consciousness]]`.
 
 - **2 stale Hugo artifacts**: `hugo/content/topics/measurement-problem-as-hard-problem.md` and `hugo/content/topics/the-measurement-problem-as-philosophical-problem.md` existed alongside their proper `hugo/content/archive/topics/` counterparts. These caused the orphan detector to flag the files as live but unlinked. **Resolution**: Deleted both stale non-archive Hugo files.
 

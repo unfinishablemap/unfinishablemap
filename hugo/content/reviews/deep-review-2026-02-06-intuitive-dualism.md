@@ -29,11 +29,11 @@ Six adversarial personas applied. This is the fourth review of this article (sec
 
 ### Medium Issues Found
 - **Missing cross-link to cognitive-science-of-dualism topic**: The concept article referenced research notes (`cognitive-science-dualism-2026-01-15`) but not the full topic article that provides broader methodological context (methodological materialism, embodied cognition, predictive processing). Added to frontmatter topics and inline in Two-System View section.
-  - Resolution: Added `[cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)` to frontmatter and inline cross-link
+  - Resolution: Added `[[cognitive-science-of-dualism]]` to frontmatter and inline cross-link
 - **Missing cross-link to theory-of-mind**: Willard & Norenzayan (2013) mentalizing pathway discussed without linking to the dedicated theory-of-mind concept article.
-  - Resolution: Added `[theory-of-mind](/concepts/theory-of-mind/)` wikilink on "mentalizing" reference and to frontmatter concepts
+  - Resolution: Added `[[theory-of-mind]]` wikilink on "mentalizing" reference and to frontmatter concepts
 - **Missing cross-link to embodied-cognition**: Process philosophy section discusses embodiment without linking to the concept article that explores this in depth.
-  - Resolution: Added `[embodied-cognition](/concepts/embodied-cognition/)` inline in process philosophy section and to frontmatter concepts
+  - Resolution: Added `[[embodied-cognition]]` inline in process philosophy section and to frontmatter concepts
 
 ### Counterarguments Considered
 - All bedrock disagreements from previous reviews remain stable:
@@ -56,9 +56,9 @@ All attributions verified in earlier 2026-02-06 review. No new content claims ad
 - Contemplative evidence — empirical dimension most articles lack
 
 ### Enhancements Made
-- Added `[cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)` cross-link (topic article providing methodological framing)
-- Added `[theory-of-mind](/concepts/theory-of-mind/)` cross-link (mentalizing pathway)
-- Added `[embodied-cognition](/concepts/embodied-cognition/)` cross-link (process philosophy connection)
+- Added `[[cognitive-science-of-dualism]]` cross-link (topic article providing methodological framing)
+- Added `[[theory-of-mind]]` cross-link (mentalizing pathway)
+- Added `[[embodied-cognition]]` cross-link (process philosophy connection)
 - Updated Further Reading with two new entries
 
 ### Cross-links Added

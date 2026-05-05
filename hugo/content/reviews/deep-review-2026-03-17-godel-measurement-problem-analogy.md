@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Kochen-Specker/Gödel parallel slightly imprecise**: The original text said both involve "propositions that resist consistent assignment of truth values," which conflates Gödel's provability gap with Kochen-Specker's value indefiniteness. **Resolution**: Tightened the parallel to distinguish truth values (Gödel) from measurement outcomes (Kochen-Specker) while preserving the structural connection.
-- **Missing wikilink for hard problem of consciousness**: Referenced in the Lucas-Penrose section without a link to the existing article. **Resolution**: Added `[hard problem of consciousness](/topics/hard-problem-of-consciousness/)` wikilink.
+- **Missing wikilink for hard problem of consciousness**: Referenced in the Lucas-Penrose section without a link to the existing article. **Resolution**: Added `[[hard-problem-of-consciousness|hard problem of consciousness]]` wikilink.
 - **Hawking "angels" quote**: "We are not angels, who view the universe from the outside" is attributed to Hawking but does not appear in the research notes. The quote is plausibly from the cited 2002 lecture but could not be verified against the source text. **Deferred**: Left as-is since the lecture is cited; flagged for human verification.
 
 ### Counterarguments Considered

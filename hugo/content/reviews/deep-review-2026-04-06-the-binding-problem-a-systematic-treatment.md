@@ -28,7 +28,7 @@ None. No factual errors, attribution problems, or structural flaws. The article 
 
 ### Medium Issues Found
 
-- **Duplicate Further Reading entry**: `[binding-problem](/concepts/binding-problem/)` appeared twice — the second entry was created when `[phenomenal-binding-and-holism](/concepts/binding-problem/)` was bulk-replaced with `[binding-problem](/concepts/binding-problem/)` during a coalesce without deduplication. Fixed: merged into single entry with combined description.
+- **Duplicate Further Reading entry**: `[[binding-problem]]` appeared twice — the second entry was created when `[[phenomenal-binding-and-holism]]` was bulk-replaced with `[[binding-problem]]` during a coalesce without deduplication. Fixed: merged into single entry with combined description.
 - **Frontmatter miscategorisation**: Three items were listed under `concepts:` but are actually topics: `split-brain-consciousness`, `language-recursion-and-consciousness`, and `topics/free-will`. Fixed: moved to `topics:` list, removed `topics/` path prefix from `free-will`.
 - **Sensory latency numbers uncited**: Vision ~50ms, audition ~20ms, touch ~20ms are in a defensible range but lack citations. Carried forward from five reviews. These are commonly cited approximate values in neuroscience textbooks — accepting as common knowledge.
 
@@ -60,15 +60,15 @@ All previously considered counterarguments remain adequately addressed. No new c
 
 ### Enhancements Made
 
-- Merged duplicate `[binding-problem](/concepts/binding-problem/)` Further Reading entry
+- Merged duplicate `[[binding-problem]]` Further Reading entry
 - Moved `split-brain-consciousness`, `language-recursion-and-consciousness`, `free-will` from concepts to topics in frontmatter
 
 ### Cross-links Verified
 
 - All body wikilinks point to active (non-archived) articles ✓
 - All concepts and topics in frontmatter verified as active files ✓
-- `[phenomenal-attention](/concepts/attention-as-interface/)` correctly removed from frontmatter (archived, coalesced into attention-as-interface) ✓
-- Body link updated to `[Phenomenal attention](/concepts/attention-as-interface/)` ✓
+- `[[phenomenal-attention]]` correctly removed from frontmatter (archived, coalesced into attention-as-interface) ✓
+- Body link updated to `[[attention-as-interface|Phenomenal attention]]` ✓
 
 ## Remaining Items
 

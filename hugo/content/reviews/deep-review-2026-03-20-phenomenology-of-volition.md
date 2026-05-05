@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Wrong wikilink on effort phenomenology**: `[effort phenomenology](/concepts/phenomenology-of-choice-and-volition/)` linked to phenomenology-of-choice but described effort, not choice. Resolution: changed to `[effort phenomenology](/concepts/mental-effort/)`.
+- **Wrong wikilink on effort phenomenology**: `[[phenomenology-of-choice|effort phenomenology]]` linked to phenomenology-of-choice but described effort, not choice. Resolution: changed to `[[mental-effort|effort phenomenology]]`.
 - **James quote misattributed to Chapter 26**: "Sustained voluntary attention is a repetition of successive efforts" comes from Chapter 11 (Attention), not Chapter 26 (Will). Resolution: updated reference to cite both chapters.
 
 ### Medium Issues Found

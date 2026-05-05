@@ -45,7 +45,7 @@ topics: []
 - Knowledge argument integration as epistemic complement to zombie argument
 
 ### Enhancements Made
-- Added `[arguments-against-materialism](/topics/arguments-against-materialism/)` to related_articles in target article
+- Added `[[arguments-against-materialism]]` to related_articles in target article
 
 ### Cross-links Added (FROM other articles TO materialism-argument)
 1. [materialism](/concepts/materialism/) — Inline link in "Why Materialism Fails" section + related_articles

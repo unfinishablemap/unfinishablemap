@@ -26,7 +26,7 @@ topics: []
 None. The article's attributions are accurate (Shannon 1948, Landauer 1961, Chalmers's double-aspect theory, Zheng & Meister 2025 all verified), there are no internal contradictions, and all required sections are present and substantive.
 
 ### Medium Issues Found
-- **Inconsistent wikilink format**: `[organisational invariance](/concepts/functionalism/)` used path prefix while all other links used plain slugs → Fixed to `[organisational invariance](/concepts/functionalism/)`
+- **Inconsistent wikilink format**: `[[concepts/functionalism|organisational invariance]]` used path prefix while all other links used plain slugs → Fixed to `[[functionalism|organisational invariance]]`
 - **Decoherence challenge unaddressed in causal exclusion section**: Article claimed consciousness acts at quantum indeterminacies and protested this isn't god-of-the-gaps, but didn't mention the standard decoherence objection → Added brief acknowledgment with cross-links to [decoherence](/concepts/decoherence/) and [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
 - **"10 bits per second" claim underexplained**: Cited as "empirical constraint" without explaining what it means for the framework → Added context about the contrast with 10 billion bits/s sensory processing, framing consciousness as a narrow semantic bottleneck
 - **Missing cross-links**: No connection to [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) (the mechanism article) or [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) (the causal framework) → Added inline references and Further Reading entries

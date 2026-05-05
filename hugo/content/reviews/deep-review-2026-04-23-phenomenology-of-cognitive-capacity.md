@@ -22,7 +22,7 @@ topics: []
 
 ## Summary
 
-**No critical or medium issues found.** The article has converged. Changes since the 2026-03-20 review were limited to mechanical wikilink updates driven by three coalesce operations (consciousness-and-skill-acquisition, phenomenology-of-intellectual-life, disappearance-voids) and one new body reference to `[skill-delegation](/concepts/skill-delegation/)`. All updates were applied cleanly and are verified against their targets.
+**No critical or medium issues found.** The article has converged. Changes since the 2026-03-20 review were limited to mechanical wikilink updates driven by three coalesce operations (consciousness-and-skill-acquisition, phenomenology-of-intellectual-life, disappearance-voids) and one new body reference to `[[skill-delegation]]`. All updates were applied cleanly and are verified against their targets.
 
 ## Pessimistic Analysis Summary
 
@@ -71,7 +71,7 @@ All six adversarial personas engaged. Each either raises objections already addr
 None — the article has converged. Length is at 87% of soft threshold (2616/3000 words); no expansion is needed and none would strengthen the piece.
 
 ### Cross-links Added
-None — coverage remains comprehensive (13 Further Reading items including the new `[skill-delegation](/concepts/skill-delegation/)` entry).
+None — coverage remains comprehensive (13 Further Reading items including the new `[[skill-delegation]]` entry).
 
 ## Remaining Items
 

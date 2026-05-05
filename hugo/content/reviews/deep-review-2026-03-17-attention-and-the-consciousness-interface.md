@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Stale wikilinks to archived concepts**: Three concept links (`[attention-motor-quantum-interface](/concepts/attention-as-interface/)`, `[dopamine-selection-interface](/concepts/motor-selection/)`, `[psychophysical-coupling](/concepts/psychophysical-laws/)`) pointed to archived files. Resolution: replaced with current targets (`[attention-as-interface](/concepts/attention-as-interface/)`, `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)`, `[psychophysical-laws](/concepts/psychophysical-laws/)`). Also removed resulting duplicate entries in frontmatter and Further Reading.
+- **Stale wikilinks to archived concepts**: Three concept links (`[[attention-motor-quantum-interface]]`, `[[dopamine-selection-interface]]`, `[[psychophysical-coupling]]`) pointed to archived files. Resolution: replaced with current targets (`[[attention-as-interface]]`, `[[dopamine-and-the-unified-interface]]`, `[[psychophysical-laws]]`). Also removed resulting duplicate entries in frontmatter and Further Reading.
 - **Hard length warning**: Article was 4397 words (147% of 3000 soft target, exceeding 4000 hard threshold). Resolution: condensed to 3998 words through prose tightening, trimming Further Reading from 23 to 15 items, removing research note references from frontmatter, and compressing redundant passages.
 
 ### Medium Issues Found

@@ -62,7 +62,7 @@ No attribution errors, dropped qualifiers, overstated positions, or source/Map c
 No content changes to the article itself (article has reached stability after 3 reviews). Timestamps updated.
 
 ### Cross-links Added TO This Article (Continued Orphan Integration)
-Three additional articles now link to `[language-and-consciousness](/concepts/language-and-consciousness/)`:
+Three additional articles now link to `[[language-and-consciousness]]`:
 
 1. **[phenomenal-intentionality](/concepts/intentionality/)** — Added inline in "Original vs. Derived Intentionality" section connecting Grice's meaning analysis to PIT's thesis. Also added to Further Reading. Both articles discuss Searle's connection principle and meaning requiring consciousness.
 2. **[symbol-grounding-problem](/concepts/symbol-grounding-problem/)** — Added inline in "The Consciousness Connection" section before the discussion of intentionality and genuine meaning. Also added to Further Reading. Both articles examine why meaning requires consciousness.

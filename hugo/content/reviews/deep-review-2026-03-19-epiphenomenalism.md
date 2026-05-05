@@ -35,7 +35,7 @@ None. The article's recent expansion (2026-03-19T04:09) addressed the honest ack
 1. **AI refinement log still present** (lines 218-231): HTML comment from the 2026-03-19 edit contained "This log should be removed after human review." This is a recurring issue — the previous review (2026-03-01) removed a similar log.
    - **Resolution**: Removed.
 
-2. **Self-referential wikilink**: `[epiphenomenalism](/concepts/epiphenomenalism/)` appeared in `related_articles` frontmatter, linking to itself.
+2. **Self-referential wikilink**: `[[epiphenomenalism]]` appeared in `related_articles` frontmatter, linking to itself.
    - **Resolution**: Removed.
 
 3. **Missing cross-links to companion articles**: The new [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) concept article (created 2026-03-19) expands significantly on the AI Exception section, and [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) covers the broader pattern of epiphenomenalism recurring across theories. Neither was linked.

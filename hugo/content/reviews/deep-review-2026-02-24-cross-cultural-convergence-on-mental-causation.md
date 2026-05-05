@@ -31,7 +31,7 @@ topics: []
 - **Contemplative evidence conflated physical and non-physical causation**: Meditation changing heart rate is compatible with physical-to-physical causation. Fixed by acknowledging the physicalist reading and clarifying that the evidential weight comes from the cross-cultural *interpretation* of these phenomena, not the physiological effects themselves.
 - **Akan diacritics inconsistent**: "ōkra" with macron was non-standard and inconsistent with african-philosophy-of-consciousness article. Fixed to "okra."
 - **Missing cross-links**: Added links to the-hard-problem-in-non-western-philosophy, samkhya-three-way-distinction, eastern-philosophy-consciousness, and witness-consciousness.
-- **Path-style frontmatter link**: `[epiphenomenalism](/concepts/epiphenomenalism/)` fixed to `[epiphenomenalism](/concepts/epiphenomenalism/)` in both frontmatter and body.
+- **Path-style frontmatter link**: `[[concepts/epiphenomenalism]]` fixed to `[[epiphenomenalism]]` in both frontmatter and body.
 
 ### Counterarguments Considered
 - **Eliminative materialist**: Folk psychology as shared error across traditions — article addresses this adequately through the cognitive architecture objection and Barrett et al. evidence.

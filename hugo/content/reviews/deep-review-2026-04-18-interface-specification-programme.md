@@ -29,7 +29,7 @@ topics: []
 
 ### Critical Issues Found
 - None. Attribution verified: Saad 2025 (Subset Law*, Delegatory Law, default causal profile — with "default" qualifier preserved throughout), Schaffer 2000 (trumping preemption), Zheng & Meister 2025 (10 bits/second with bridging caveat intact), Wise & Murray 2022 (premotor theory), Map-specific Born-rule identification correctly flagged as the Map's addition (line 96: "The Map adds a specifically physical interpretation") — matches source article's explicit framing that this is "a Map-specific integration, not a claim Saad makes."
-- No broken wikilinks. `[delegatory-causation](/concepts/delegatory-causation/)` resolves to the coalesced 2026-04-18 concept article (current canonical location). `[clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)` resolves to the topics/ article. Neither of today's coalesces leaves stale references in this apex.
+- No broken wikilinks. `[[delegatory-causation]]` resolves to the coalesced 2026-04-18 concept article (current canonical location). `[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]` resolves to the topics/ article. Neither of today's coalesces leaves stale references in this apex.
 - No source/Map conflation. Saad's laws, Schaffer's trumping preemption, and the Map's Born-rule identification are kept structurally distinct.
 - No self-contradiction detected across sections.
 
@@ -59,11 +59,11 @@ topics: []
 - Updated `ai_modified` and `last_deep_review` timestamps to 2026-04-18T14:23:00+00:00.
 
 ### Cross-links Considered and Declined
-- `[closure-types-void](/voids/closure-types-void/)` (new today): Thematic proximity to the Specification Gap section, but the T-shirt problem / scientific-immaturity framing handles the point at the right level of abstraction. Adding would bloat without clarifying.
-- `[zahavian-minimal-self](/concepts/zahavian-minimal-self/)` (new today): No architectural connection to the interface specification programme's six-line cluster. Correctly absent.
-- `[voids-between-minds](/voids/voids-between-minds/)` (coalesced today): Interface specification is about the self-body interface, not inter-subject communication. No natural integration point.
-- `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` (condensed today): The specification gap is a scientific-immaturity gap, not an in-principle epistemic limit. Conflating them would weaken the programme's epistemic honesty.
-- `[understanding-void](/voids/understanding-void/)` (coalesced earlier today): Same reasoning — the gap here is not a limit on understanding but a pending scientific specification.
+- `[[voids/closure-types-void]]` (new today): Thematic proximity to the Specification Gap section, but the T-shirt problem / scientific-immaturity framing handles the point at the right level of abstraction. Adding would bloat without clarifying.
+- `[[concepts/zahavian-minimal-self]]` (new today): No architectural connection to the interface specification programme's six-line cluster. Correctly absent.
+- `[[voids/voids-between-minds]]` (coalesced today): Interface specification is about the self-body interface, not inter-subject communication. No natural integration point.
+- `[[voids/meta-epistemology-of-limits]]` (condensed today): The specification gap is a scientific-immaturity gap, not an in-principle epistemic limit. Conflating them would weaken the programme's epistemic honesty.
+- `[[voids/understanding-void]]` (coalesced earlier today): Same reasoning — the gap here is not a limit on understanding but a pending scientific specification.
 
 Length is well within budget (3423 / 4000 soft threshold = 86%), so declining adds was not length-driven. The cross-review simply finds no cluster article that earns a place in this apex.
 

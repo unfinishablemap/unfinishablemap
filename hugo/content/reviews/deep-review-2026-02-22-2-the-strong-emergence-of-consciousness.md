@@ -26,7 +26,7 @@ topics: []
 None. All six adversarial personas engaged; no factual errors, attribution problems, self-contradictions, or source/Map conflation detected. Previous review's findings confirmed.
 
 ### Medium Issues Found
-- [Missing Stapp cross-link]: Quantum mechanism discussion extended but no link to existing `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` concept page. Flagged in previous review as "remaining item." **Resolution**: Added inline wikilink in O'Connor-Wong paragraph: "the Map's quantum framework — drawing on proposals like [Stapp's quantum Zeno model](/concepts/stapp-quantum-mind/) — supplies specificity."
+- [Missing Stapp cross-link]: Quantum mechanism discussion extended but no link to existing `[[stapp-quantum-mind]]` concept page. Flagged in previous review as "remaining item." **Resolution**: Added inline wikilink in O'Connor-Wong paragraph: "the Map's quantum framework — drawing on proposals like [Stapp's quantum Zeno model](/concepts/stapp-quantum-mind/) — supplies specificity."
 
 ### Counterarguments Considered
 All counterarguments from previous review remain adequately handled:
@@ -56,10 +56,10 @@ All attributions re-verified clean:
 - Careful attributions throughout
 
 ### Enhancements Made
-- Added `[Stapp's quantum Zeno model](/concepts/stapp-quantum-mind/)` inline link in O'Connor-Wong paragraph, resolving previous review's flagged remaining item
+- Added `[[stapp-quantum-mind|Stapp's quantum Zeno model]]` inline link in O'Connor-Wong paragraph, resolving previous review's flagged remaining item
 
 ### Cross-links Added
-- `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` — inline in Kim's Challenge section, O'Connor-Wong paragraph
+- `[[stapp-quantum-mind]]` — inline in Kim's Challenge section, O'Connor-Wong paragraph
 
 ## Remaining Items
 

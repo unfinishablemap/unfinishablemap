@@ -26,9 +26,9 @@ topics: []
 - None. All six adversarial personas engaged; no factual errors, attribution problems, or internal contradictions found. All citations verified (Gallagher 2000, Zahavi 2005, Gallagher & Zahavi 2012, Bortolan 2020, Crick & Koch 1990, Gazzaniga 2005).
 
 ### Medium Issues Found
-- **M1: Path-prefix wikilink**: `[free will](/topics/free-will/)` used path-prefix style inconsistent with all other links. Resolution: Changed to `[free will](/topics/free-will/)`.
-- **M2: Missing explanatory-gap cross-links**: "Explanatory gap" mentioned twice without linking to existing `[explanatory-gap](/concepts/explanatory-gap/)` concept page. Resolution: Added wikilinks at both occurrences.
-- **M3: Missing hard-problem cross-link**: Binding problem section discussed the hard problem by description without linking to `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)`. Resolution: Added cross-link with brief connecting phrase.
+- **M1: Path-prefix wikilink**: `[[topics/free-will|free will]]` used path-prefix style inconsistent with all other links. Resolution: Changed to `[[free-will|free will]]`.
+- **M2: Missing explanatory-gap cross-links**: "Explanatory gap" mentioned twice without linking to existing `[[explanatory-gap]]` concept page. Resolution: Added wikilinks at both occurrences.
+- **M3: Missing hard-problem cross-link**: Binding problem section discussed the hard problem by description without linking to `[[hard-problem-of-consciousness]]`. Resolution: Added cross-link with brief connecting phrase.
 
 ### Counterarguments Considered
 - All six adversarial persona positions (Eliminative Materialist, Physicalist, Quantum Skeptic, MWI Defender, Empiricist, Buddhist Philosopher) represent bedrock disagreements with the Map's tenets, consistent with previous review findings.
@@ -47,8 +47,8 @@ topics: []
 
 ### Enhancements Made
 - Fixed path-prefix wikilink for free-will
-- Added `[explanatory-gap](/concepts/explanatory-gap/)` cross-links (2 occurrences)
-- Added `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)` cross-link in binding section
+- Added `[[explanatory-gap]]` cross-links (2 occurrences)
+- Added `[[hard-problem-of-consciousness]]` cross-link in binding section
 
 ### Cross-links Added
 - [explanatory-gap](/concepts/explanatory-gap/) (new, 2 instances)
@@ -56,7 +56,7 @@ topics: []
 
 ## Remaining Items
 
-- **Buddhist no-self engagement**: Carried from previous reviews. Now partially addressed via the line 77 cross-link to `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` which engages Buddhist no-self, Metzinger's eliminativism, and the hard problem. A dedicated treatment within this article is no longer necessary.
+- **Buddhist no-self engagement**: Carried from previous reviews. Now partially addressed via the line 77 cross-link to `[[self-and-self-consciousness]]` which engages Buddhist no-self, Metzinger's eliminativism, and the hard problem. A dedicated treatment within this article is no longer necessary.
 - **MWI decision-theoretic response**: Carried from previous reviews. The Deutsch-Wallace program offers a response to the vertiginous question under MWI. This remains an expansion opportunity but is not critical—the article's treatment of MWI is adequate for its scope.
 
 ## Stability Notes

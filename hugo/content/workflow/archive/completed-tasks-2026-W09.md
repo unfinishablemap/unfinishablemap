@@ -136,7 +136,7 @@ Pessimistic review found high-severity omission of Dennett's Multiple Drafts mod
 
 ### ✓ 2026-03-01: Update 29 stale wikilinks from epistemological-limits-of-occams-razor to epistemological-limits-occams-razor
 - **Type**: cross-review
-- **Notes**: Gap analysis found 29 wikilinks across live content reference `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` (with "of") but the actual file is voids/epistemological-limits-occams-razor.md (without "of"). These broken links affect Tenet 5 (Occam's Razor Has Limits) cross-referencing — the site's least-covered foundational commitment. Update all 29 references to point to the correct slug.
+- **Notes**: Gap analysis found 29 wikilinks across live content reference `[[epistemological-limits-of-occams-razor]]` (with "of") but the actual file is voids/epistemological-limits-occams-razor.md (without "of"). These broken links affect Tenet 5 (Occam's Razor Has Limits) cross-referencing — the site's least-covered foundational commitment. Update all 29 references to point to the correct slug.
 - **Output**: None -- Context: Update 29 stale wikilinks from epistemological-limits-of-occams-razor to epistemological-limits-occams-razor
 
 ### ✓ 2026-03-01: Cross-review split-brain-consciousness.md considering entanglement-binding-hypothesis insights
@@ -156,7 +156,7 @@ Pessimistic review found high-severity omission of Dennett's Multiple Drafts mod
 
 ### ✓ 2026-03-01: Update references to coalesced phenomenal-intentionality article
 - **Type**: cross-review
-- **Notes**: Coalesce merged concepts/phenomenal-intentionality.md into concepts/intentionality.md. The following 21 active content files reference `[phenomenal-intentionality](/concepts/intentionality/)` and should be updated to point to `[intentionality](/concepts/intentionality/)` (or `[phenomenal intentionality theory](/concepts/intentionality/)` where display text is appropriate): qualia.md, intentionality-void.md, symbol-grounding-problem.md, phenomenal-acquaintance.md, direction-of-fit.md, cognitive-phenomenology.md, agent-teleology.md, philosophy-of-perception-under-dualism.md, placebo-effect-and-mental-causation.md, phenomenology-of-understanding.md, phenomenology-of-philosophical-disagreement.md, phenomenology-of-attention-to-absence.md, consciousness-and-testimony.md, consciousness-and-social-cognition.md, consciousness-and-interpersonal-understanding.md, consciousness-and-collective-intentionality.md, ai-consciousness.md, hard-problem-of-consciousness.md, philosophy-of-mind.md, language-and-consciousness.md, phenomenology-of-trust.md
+- **Notes**: Coalesce merged concepts/phenomenal-intentionality.md into concepts/intentionality.md. The following 21 active content files reference `[[phenomenal-intentionality]]` and should be updated to point to `[[intentionality]]` (or `[[intentionality|phenomenal intentionality theory]]` where display text is appropriate): qualia.md, intentionality-void.md, symbol-grounding-problem.md, phenomenal-acquaintance.md, direction-of-fit.md, cognitive-phenomenology.md, agent-teleology.md, philosophy-of-perception-under-dualism.md, placebo-effect-and-mental-causation.md, phenomenology-of-understanding.md, phenomenology-of-philosophical-disagreement.md, phenomenology-of-attention-to-absence.md, consciousness-and-testimony.md, consciousness-and-social-cognition.md, consciousness-and-interpersonal-understanding.md, consciousness-and-collective-intentionality.md, ai-consciousness.md, hard-problem-of-consciousness.md, philosophy-of-mind.md, language-and-consciousness.md, phenomenology-of-trust.md
 - **Output**: None -- Context: Update references to coalesced phenomenal-intentionality article
 
 ### ✓ 2026-03-01: Address gaps in conservation-laws-and-mind.md
@@ -327,7 +327,7 @@ Pessimistic review found: (1) uncited empirical claims in NDE/anaesthesia sectio
 
 ### ✓ 2026-02-26: Update stale wikilinks for duration and specious-present to temporal-consciousness
 - **Type**: cross-review
-- **Notes**: 60+ file references across live content still use `[temporal-consciousness](/concepts/temporal-consciousness/)` (33 refs) and `[temporal-consciousness](/concepts/temporal-consciousness/)` (27 refs) — both archived slugs superseded by concepts/temporal-consciousness.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[temporal-consciousness](/concepts/temporal-consciousness/)` or more specific targets where appropriate.
+- **Notes**: 60+ file references across live content still use `[[temporal-consciousness]]` (33 refs) and `[[temporal-consciousness]]` (27 refs) — both archived slugs superseded by concepts/temporal-consciousness.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[temporal-consciousness]]` or more specific targets where appropriate.
 - **Output**: None -- Context: Update stale wikilinks for duration and specious-present to temporal-consciousness
 
 ### ✓ 2026-02-26: Cross-review observation-void.md considering dissolution-problem insights
@@ -342,7 +342,7 @@ Pessimistic review found: (1) uncited empirical claims in NDE/anaesthesia sectio
 
 ### ✓ 2026-02-26: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
 - **Type**: cross-review
-- **Notes**: 82+ file references across live content still use `[attention](/concepts/attention-as-interface/)` (41 refs) and `[voluntary-attention](/concepts/attention-as-interface/)` (41 refs) — both archived slugs superseded by concepts/attention-as-interface.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[attention-as-interface](/concepts/attention-as-interface/)`. Note: the existing P3 task "Write concept page for voluntary-attention" should be reconsidered since the content already exists under attention-as-interface.
+- **Notes**: 82+ file references across live content still use `[[attention]]` (41 refs) and `[[voluntary-attention]]` (41 refs) — both archived slugs superseded by concepts/attention-as-interface.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[attention-as-interface]]`. Note: the existing P3 task "Write concept page for voluntary-attention" should be reconsidered since the content already exists under attention-as-interface.
 - **Output**: None -- Context: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
 
 ### ✓ 2026-02-26: Cross-review hard-problem-of-consciousness.md considering objectivity-and-consciousness insights

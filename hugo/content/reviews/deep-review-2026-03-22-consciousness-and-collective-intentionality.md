@@ -29,13 +29,13 @@ This article was archived on 2026-03-10 and coalesced into [Consciousness and Co
 The task flagged this article as orphaned with no inbound links. Since it is archived, the integration effort was redirected to its successor article.
 
 ### Stale Link Fixed
-- `african-philosophy-of-consciousness.md` line 44: Updated `[collective intentionality](/topics/consciousness-and-collective-phenomena/)` to `[collective intentionality](/topics/consciousness-and-collective-phenomena/)`
+- `african-philosophy-of-consciousness.md` line 44: Updated `[[consciousness-and-collective-intentionality|collective intentionality]]` to `[[consciousness-and-collective-phenomena|collective intentionality]]`
 
 ### Cross-links Added to Successor
 The successor article `consciousness-and-collective-phenomena` had 6 inbound content links. The following cross-links were added to increase integration:
 
-- **theory-of-mind.md**: Inline link to `[shared intentionality](/topics/consciousness-and-collective-phenomena/)` in Tomasello's shared intentionality discussion
-- **objectivity-and-consciousness.md**: Inline link to `[shared intentionality](/topics/consciousness-and-collective-phenomena/)` in second-person methodology section
+- **theory-of-mind.md**: Inline link to `[[consciousness-and-collective-phenomena|shared intentionality]]` in Tomasello's shared intentionality discussion
+- **objectivity-and-consciousness.md**: Inline link to `[[consciousness-and-collective-phenomena|shared intentionality]]` in second-person methodology section
 - **social-construction-of-self-vs-phenomenal-self.md**: Added to Further Reading section
 - **consciousness-and-interpersonal-understanding.md**: Added to Further Reading section
 

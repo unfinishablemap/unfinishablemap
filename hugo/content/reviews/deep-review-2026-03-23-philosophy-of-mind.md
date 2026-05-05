@@ -26,7 +26,7 @@ topics: []
 - None. The article remains factually accurate, internally consistent, and free of attribution errors.
 
 ### Medium Issues Found
-1. **Missing strong emergentism**: The Alternative Frameworks section covered panpsychism, Russellian monism, and analytic idealism but omitted strong emergentism — a significant contemporary position sitting between physicalism and dualism. **Resolution**: Added a bullet on strong emergence with link to `[emergence](/concepts/emergence/)`, noting its challenge (explaining brute emergence).
+1. **Missing strong emergentism**: The Alternative Frameworks section covered panpsychism, Russellian monism, and analytic idealism but omitted strong emergentism — a significant contemporary position sitting between physicalism and dualism. **Resolution**: Added a bullet on strong emergence with link to `[[emergence]]`, noting its challenge (explaining brute emergence).
 2. **Awkward cross-reference placement**: The "See [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/)" reference was appended to the analytic idealism bullet, making "these frameworks" ambiguous. **Resolution**: Moved to a standalone line after all bullet points, clarifying it covers the full set of alternatives.
 3. **No References section**: A field overview article lacked academic citations for foundational claims. **Resolution**: Added References section with Chalmers (1996), Kim (1998), and Nagel (1974).
 
@@ -52,10 +52,10 @@ topics: []
 1. Added strong emergentism to Alternative Frameworks, filling a genuine gap in the field survey
 2. Fixed cross-reference placement for analytic idealism comparative article
 3. Added References section with three foundational works (Chalmers, Kim, Nagel)
-4. Added `[emergence](/concepts/emergence/)` to frontmatter concepts list
+4. Added `[[emergence]]` to frontmatter concepts list
 
 ### Cross-links Added
-- `[Strong emergentism](/concepts/emergence/)` in Alternative Frameworks section
+- `[[emergence|Strong emergentism]]` in Alternative Frameworks section
 
 ## Remaining Items
 

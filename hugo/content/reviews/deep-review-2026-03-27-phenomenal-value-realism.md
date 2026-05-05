@@ -42,7 +42,7 @@ All attributions verified in previous reviews and remain accurate. No new source
 
 ### Medium Issues Found
 
-1. **Missing cross-link to evaluative-qualia**: The article discusses evaluative dimensions of phenomenal experience extensively but did not link to the new `evaluative-qualia` concept article, which formalizes the category this article depends on. **Resolution**: Added `[evaluative-qualia](/concepts/evaluative-phenomenal-character/)` to concepts frontmatter, inline cross-link in Beyond Hedonism section, and Further Reading entry.
+1. **Missing cross-link to evaluative-qualia**: The article discusses evaluative dimensions of phenomenal experience extensively but did not link to the new `evaluative-qualia` concept article, which formalizes the category this article depends on. **Resolution**: Added `[[evaluative-qualia]]` to concepts frontmatter, inline cross-link in Beyond Hedonism section, and Further Reading entry.
 
 ### Counterarguments Considered
 
@@ -64,7 +64,7 @@ All previously addressed per stability notes. No new counterarguments from evalu
 
 ### Enhancements Made
 
-- Added `[evaluative-qualia](/concepts/evaluative-phenomenal-character/)` to concepts frontmatter
+- Added `[[evaluative-qualia]]` to concepts frontmatter
 - Added inline cross-link in Beyond Hedonism section: "what the Map calls [evaluative qualia](/concepts/evaluative-phenomenal-character/), phenomenal qualities whose character is simultaneously descriptive and normative"
 - Added evaluative-qualia to Further Reading
 - Minor prose tightening for length neutrality (scope problem conclusion, measurement problem)

@@ -27,8 +27,8 @@ topics: []
 None.
 
 ### Medium Issues Found
-- **Duplicate `[binding-problem](/concepts/binding-problem/)` in concepts list**: The frontmatter listed `[binding-problem](/concepts/binding-problem/)` twice. Resolution: removed the duplicate.
-- **Duplicate `[binding-problem](/concepts/binding-problem/)` in Further Reading**: Two entries pointed to the same target with different descriptions ("The neural challenge of feature binding (BP1 and BP2)" and "Why classical mechanisms fail and quantum mechanisms may succeed"). Resolution: removed the second; the first is more representative of `[binding-problem](/concepts/binding-problem/)`'s scope, while the article body itself covers the second framing.
+- **Duplicate `[[binding-problem]]` in concepts list**: The frontmatter listed `[[binding-problem]]` twice. Resolution: removed the duplicate.
+- **Duplicate `[[binding-problem]]` in Further Reading**: Two entries pointed to the same target with different descriptions ("The neural challenge of feature binding (BP1 and BP2)" and "Why classical mechanisms fail and quantum mechanisms may succeed"). Resolution: removed the second; the first is more representative of `[[binding-problem]]`'s scope, while the article body itself covers the second framing.
 
 ### Low Issues Found
 - **"Seven orders of magnitude"** (Decoherence Debate section): Math arithmetic suggests 8 orders (10⁻¹³ → 10⁻⁵). Carried forward from prior reviews — both the 2026-03-03 and 2026-03-25 reviews documented the decision to leave unchanged for site-wide consistency. Honoured for convergence.
@@ -82,8 +82,8 @@ No perimeter-substitutions identified. The article does not let tenet-incompatib
 - Reasoning-mode discipline already applied implicitly across the article — IIT critique, decoherence engagement, and illusionist engagement all earn the disagreement inside the opponent's framework
 
 ### Enhancements Made
-- Removed duplicate `[binding-problem](/concepts/binding-problem/)` from concepts frontmatter
-- Removed duplicate `[binding-problem](/concepts/binding-problem/)` from Further Reading list (artifact of the original coalesce)
+- Removed duplicate `[[binding-problem]]` from concepts frontmatter
+- Removed duplicate `[[binding-problem]]` from Further Reading list (artifact of the original coalesce)
 
 ### Cross-links Verified
 No new cross-links needed — article is well-connected (orphan status resolved in 2026-03-03 review). All wikilinks point to current article slugs.

@@ -23,11 +23,11 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[phenomenology-of-pain](/topics/why-pain-hurts/)`**: This article was coalesced into `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` (commit 64ca3cfbd) but the link in pain-asymbolia was never updated. Appeared in both `topics:` frontmatter and Further Reading. **Resolution**: Updated to `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` in both locations.
+- **Broken wikilink `[[phenomenology-of-pain]]`**: This article was coalesced into `[[why-pain-hurts]]` (commit 64ca3cfbd) but the link in pain-asymbolia was never updated. Appeared in both `topics:` frontmatter and Further Reading. **Resolution**: Updated to `[[why-pain-hurts]]` in both locations.
 
 ### Medium Issues Found
 - **Uncited references in bibliography**: Rubins & Friedman (1948) and Geschwind (1965) appeared in the References section but were never mentioned in the article body. **Resolution**: Added a sentence in Clinical Presentation contextualising these as foundational works.
-- **Missing cross-link to `[valence](/concepts/valence/)`**: The affective dimension discussed throughout the article is essentially about phenomenal valence, but the concept was never linked. **Resolution**: Added `[valence](/concepts/valence/)` inline link in the "What Asymbolia Dissociates" section and in concepts frontmatter and Further Reading.
+- **Missing cross-link to `[[valence]]`**: The affective dimension discussed throughout the article is essentially about phenomenal valence, but the concept was never linked. **Resolution**: Added `[[valence]]` inline link in the "What Asymbolia Dissociates" section and in concepts frontmatter and Further Reading.
 
 ### Counterarguments Considered
 - All counterarguments from previous review remain well-addressed. The epiphenomenalist response is engaged honestly with the Berthier et al. data. The sophisticated functionalist response is directly confronted.
@@ -44,14 +44,14 @@ topics: []
 - Front-loaded opening summary for LLM truncation resilience
 
 ### Enhancements Made
-- Fixed broken `[phenomenology-of-pain](/topics/why-pain-hurts/)` → `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` link
+- Fixed broken `[[phenomenology-of-pain]]` → `[[why-pain-hurts]]` link
 - Added historical context (Rubins & Friedman 1948, Geschwind 1965) to ground the clinical narrative
-- Added `[valence](/concepts/valence/)` cross-link inline and in Further Reading
-- Added `[valence](/concepts/valence/)` to concepts frontmatter
+- Added `[[valence]]` cross-link inline and in Further Reading
+- Added `[[valence]]` to concepts frontmatter
 
 ### Cross-links Added
-- `[valence](/concepts/valence/)` — the affective dimension asymbolia abolishes
-- `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` — replacement for coalesced phenomenology-of-pain
+- `[[valence]]` — the affective dimension asymbolia abolishes
+- `[[why-pain-hurts]]` — replacement for coalesced phenomenology-of-pain
 
 ## Remaining Items
 

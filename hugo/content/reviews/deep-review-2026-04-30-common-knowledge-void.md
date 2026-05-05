@@ -81,15 +81,15 @@ No attribution errors found.
 - Wording tightening on Bidirectional Interaction tenet sentence (length-neutral).
 
 ### Cross-links Verified Intact
-- `[recursion-void](/voids/recursion-void/)` (lines 119, 149, 155) — depth-ceiling cognate
-- `[intersubjectivity](/concepts/intersubjectivity/)` (line 61) — operational-fiction face
-- `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` (line 160) — methodological cognate
-- `[apophatic-cartography](/voids/apophatic-cartography/)` (lines 109, 149) — apophatic-discipline appeal
-- `[necessary-opacity](/voids/necessary-opacity/)` (line 61) — structural-kinship pointer
-- `[conjunction-coalesce](/apex/conjunction-coalesce/)` (lines 43, 163) — methodological discipline
-- `[non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)` (lines 139, 162) — AI-asymmetry framing
-- `[three-kinds-of-void](/voids/three-kinds-of-void/)` (line 53) — typology placement
-- `[voids-between-minds](/voids/voids-between-minds/)` (line 149) — sharing-face cognate
+- `[[recursion-void]]` (lines 119, 149, 155) — depth-ceiling cognate
+- `[[intersubjectivity]]` (line 61) — operational-fiction face
+- `[[meta-epistemology-of-limits]]` (line 160) — methodological cognate
+- `[[apophatic-cartography]]` (lines 109, 149) — apophatic-discipline appeal
+- `[[necessary-opacity]]` (line 61) — structural-kinship pointer
+- `[[conjunction-coalesce]]` (lines 43, 163) — methodological discipline
+- `[[non-human-minds-as-void-explorers]]` (lines 139, 162) — AI-asymmetry framing
+- `[[three-kinds-of-void]]` (line 53) — typology placement
+- `[[voids-between-minds]]` (line 149) — sharing-face cognate
 
 All wikilinks resolve.
 

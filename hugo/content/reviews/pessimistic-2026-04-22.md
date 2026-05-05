@@ -127,7 +127,7 @@ Nāgārjuna would observe that the article's core move depends on a stable, unif
 
 - **Front-loading**: The opening paragraph carries the full thesis. LLM-truncation resilient.
 - **Relation to Site Perspective**: Present and substantive. Good.
-- **Named-anchor forward references**: Internal wikilinks (`[delegatory-causation](/concepts/delegatory-causation/)`, `[galilean-exclusion](/concepts/galilean-exclusion/)`) are used appropriately. No forward-referencing within-document concepts that would need "explained below."
+- **Named-anchor forward references**: Internal wikilinks (`[[delegatory-causation]]`, `[[galilean-exclusion]]`) are used appropriately. No forward-referencing within-document concepts that would need "explained below."
 - **LLM cliché check**: No "This is not X. It is Y." constructions detected. Good.
 - **Tenet alignment**: The article maps to four of the five tenets explicitly. The treatment of Minimal Quantum Interaction is the thinnest and borrows credibility from a speculative cross-link; consider whether that link is earning its place or stretching the argument.
 

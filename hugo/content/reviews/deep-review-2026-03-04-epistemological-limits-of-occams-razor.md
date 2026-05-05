@@ -28,10 +28,10 @@ None. All three critical issues from the previous review (IEP quote, Churchland 
 
 ### Medium Issues Found
 
-- **Duplicate in Further Reading**: `[the-case-for-dualism](/concepts/dualism/)` appeared twice in Further Reading section. **Resolution**: Removed duplicate.
+- **Duplicate in Further Reading**: `[[the-case-for-dualism]]` appeared twice in Further Reading section. **Resolution**: Removed duplicate.
 - **Tu quoque objection unaddressed**: The brute psychophysical laws objection (dualism's own explanatory debts) was flagged in previous review as a remaining item. **Resolution**: Added brief paragraph in Relation to Site Perspective acknowledging dualism's own commitments while clarifying the article's defensive (not offensive) use of the parsimony argument.
 - **Zero inbound links**: No content article linked to this file despite it being the Map's dedicated treatment of Tenet 5's epistemological foundations. **Resolution**: Added inbound cross-links from 7 articles (see below).
-- **Missing outbound link**: "Physicalism" in body text never linked to `[materialism](/concepts/materialism/)`. **Resolution**: Added link.
+- **Missing outbound link**: "Physicalism" in body text never linked to `[[concepts/materialism]]`. **Resolution**: Added link.
 - **Krizek (2017) quote status**: Direct quote "yields contradictory verdicts depending on which dimension of simplicity is weighted" remains unverifiable from abstract alone. **Deferred**: Plausible given paper topic; full paper inaccessible.
 
 ### Counterarguments Considered
@@ -52,8 +52,8 @@ None. All three critical issues from the previous review (IEP quote, Churchland 
 
 ### Enhancements Made
 
-- Added outbound link to `[Physicalism](/concepts/materialism/)` in opening paragraph
-- Added outbound link to `[psychophysical-laws](/concepts/psychophysical-laws/)` in new tu quoque response
+- Added outbound link to `[[concepts/materialism|Physicalism]]` in opening paragraph
+- Added outbound link to `[[psychophysical-laws]]` in new tu quoque response
 - Removed duplicate Further Reading entry
 - Added tu quoque response paragraph
 

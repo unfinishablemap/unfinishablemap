@@ -23,11 +23,11 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Frontmatter categorization error**: `[consciousness-only-territories](/voids/consciousness-only-territories/)` was listed under `concepts:` but the file is in `voids/`. Moved to `related_articles:`. Resolution: fixed.
+- **Frontmatter categorization error**: `[[consciousness-only-territories]]` was listed under `concepts:` but the file is in `voids/`. Moved to `related_articles:`. Resolution: fixed.
 
 ### Medium Issues Found
 - **Three-condition framework attribution**: The framework (confident prior, ambiguous evidence, adaptive function) was presented as if from predictive processing literature but is the Map's own synthesis from that literature. Resolution: added explicit attribution noting it draws on Friston/Clark but is the Map's synthesis.
-- **Missing cross-link**: No link to `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` despite the third mode (selection under ambiguity) being directly about this concept. Resolution: added cross-link and connecting sentence in the computational account section, added to frontmatter concepts.
+- **Missing cross-link**: No link to `[[consciousness-selecting-neural-patterns]]` despite the third mode (selection under ambiguity) being directly about this concept. Resolution: added cross-link and connecting sentence in the computational account section, added to frontmatter concepts.
 - **Illusionism response could be sharper**: The "functional bifurcation" counter was good but lacked a concrete analogy showing why functional difference alone is insufficient. Resolution: added thermostat analogy to make the point concrete — a thermostat has two modes without generating distinct experiential states.
 - **Unannotated Further Reading items**: Four items at the end of Further Reading lacked brief descriptions. Resolution: added annotations.
 

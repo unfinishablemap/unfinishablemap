@@ -28,9 +28,9 @@ None. No factual errors, misattributions, internal contradictions, or missing re
 
 ### Medium Issues Found
 
-- **Duplicate frontmatter concepts** (M1): `[temporal-consciousness](/concepts/temporal-consciousness/)` appeared 3 times in the concepts list. **Resolution**: Deduplicated to single entry.
-- **Redundant Further Reading entries** (M2): Three separate entries all pointed to `[temporal-consciousness](/concepts/temporal-consciousness/)` with different descriptions. **Resolution**: Consolidated into one entry covering specious present, tripartite structure, and durée.
-- **Missing cross-link to surprise article** (M3): The "Protention and Surprise" section discussed surprise phenomenology but didn't link to `[surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)` despite it being in related_articles. **Resolution**: Added cross-link with contextual sentence.
+- **Duplicate frontmatter concepts** (M1): `[[temporal-consciousness]]` appeared 3 times in the concepts list. **Resolution**: Deduplicated to single entry.
+- **Redundant Further Reading entries** (M2): Three separate entries all pointed to `[[temporal-consciousness]]` with different descriptions. **Resolution**: Consolidated into one entry covering specious present, tripartite structure, and durée.
+- **Missing cross-link to surprise article** (M3): The "Protention and Surprise" section discussed surprise phenomenology but didn't link to `[[surprise-prediction-error-and-consciousness]]` despite it being in related_articles. **Resolution**: Added cross-link with contextual sentence.
 
 ### Counterarguments Considered
 
@@ -61,8 +61,8 @@ No new counterarguments identified that weren't already addressed.
 
 - Deduplicated frontmatter concepts (data quality)
 - Consolidated redundant Further Reading entries
-- Added cross-link to `[surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)` in the surprise section
-- Added `[surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)` to Further Reading
+- Added cross-link to `[[surprise-prediction-error-and-consciousness]]` in the surprise section
+- Added `[[surprise-prediction-error-and-consciousness]]` to Further Reading
 
 ### Cross-links Added
 

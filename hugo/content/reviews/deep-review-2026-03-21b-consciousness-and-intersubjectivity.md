@@ -27,7 +27,7 @@ None.
 
 ### Medium Issues Found
 - **Missing Heidegger citation**: Heidegger's *Mitsein* is discussed substantively in the Priority Question section but *Being and Time* was absent from References despite Husserl, Levinas, and Merleau-Ponty all receiving proper citations. Resolution: Added Heidegger (1927/1962) reference.
-- **Phenomenology concept not wikilinked**: `[phenomenology](/concepts/phenomenology/)` listed in frontmatter concepts but never linked in article body. Resolution: Added wikilink at first substantive mention of the phenomenological tradition.
+- **Phenomenology concept not wikilinked**: `[[phenomenology]]` listed in frontmatter concepts but never linked in article body. Resolution: Added wikilink at first substantive mention of the phenomenological tradition.
 
 ### Counterarguments Considered
 - All six adversarial personas re-engaged. No new substantive issues beyond what the first review identified and resolved. The article handles counterarguments appropriately for its scope.
@@ -44,7 +44,7 @@ None.
 
 ### Enhancements Made
 - Added Heidegger (1927/1962) *Being and Time* reference
-- Added `[phenomenology](/concepts/phenomenology/)` wikilink in body text
+- Added `[[phenomenology]]` wikilink in body text
 - Renumbered references for consistency
 
 ### Cross-links Added

@@ -28,9 +28,9 @@ None. All attributions verified correct (Grice, Searle, Wittgenstein, Kripke, Ca
 ### Medium Issues Found
 - **Long Kripke paragraph (7 sentences)**: Violated style guide's 1-3 sentence paragraph guideline. **Resolution**: Split into two paragraphs at the natural break between Kripke's sceptical solution and the rule-following/pattern-matching distinction.
 - **Long Gricean implications paragraph (5 sentences)**: Covered two distinct points (meaning requires consciousness + AI implications). **Resolution**: Split after the phenomenal intentionality claim, separating the philosophical point from the AI application.
-- **`[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` in frontmatter but unreferenced in body**: Listed as a concept but never mentioned. **Resolution**: Added contextual reference in the rule-following paragraph where "grasping what ought to come next" directly instantiates cognitive phenomenology.
-- **Missing `[mental-causation](/concepts/mental-causation-and-downward-causation/)` cross-link**: The Relation to Site Perspective section discusses downward causation through meaningful speech without linking to the dedicated mental-causation article. **Resolution**: Added wikilink on "downward causation" in the bidirectional interaction paragraph.
-- **Missing Further Reading entries**: `[problem-of-other-minds](/concepts/problem-of-other-minds/)`, `[mental-causation](/concepts/mental-causation-and-downward-causation/)`, and `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` all relevant but absent. **Resolution**: Added all three to Further Reading with descriptive text.
+- **`[[cognitive-phenomenology]]` in frontmatter but unreferenced in body**: Listed as a concept but never mentioned. **Resolution**: Added contextual reference in the rule-following paragraph where "grasping what ought to come next" directly instantiates cognitive phenomenology.
+- **Missing `[[mental-causation]]` cross-link**: The Relation to Site Perspective section discusses downward causation through meaningful speech without linking to the dedicated mental-causation article. **Resolution**: Added wikilink on "downward causation" in the bidirectional interaction paragraph.
+- **Missing Further Reading entries**: `[[problem-of-other-minds]]`, `[[mental-causation]]`, and `[[cognitive-phenomenology]]` all relevant but absent. **Resolution**: Added all three to Further Reading with descriptive text.
 
 ### Counterarguments Considered
 All previous stability notes respected:
@@ -62,8 +62,8 @@ All attributions verified correct — no changes to attributed claims since last
 
 ### Enhancements Made
 - Split two long paragraphs for style guide compliance (readability improvement)
-- Added contextual `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` reference connecting rule-following to the phenomenology of understanding
-- Added `[mental-causation](/concepts/mental-causation-and-downward-causation/)` inline link strengthening the bidirectional interaction argument
+- Added contextual `[[cognitive-phenomenology]]` reference connecting rule-following to the phenomenology of understanding
+- Added `[[mental-causation]]` inline link strengthening the bidirectional interaction argument
 - Added 3 entries to Further Reading: cognitive-phenomenology, mental-causation, problem-of-other-minds
 
 ### Cross-links Added

@@ -29,7 +29,7 @@ None.
 
 ### Medium Issues Found
 - **Missing Whiten reference**: Whiten 2015 cited inline (amplification section) but absent from References section. Resolution: Added full citation (Whiten, A. (2015). *Philosophical Transactions of the Royal Society B*, 370(1682), 20140359).
-- **Missing cross-link in consciousness-and-intelligence.md**: The closely related article on consciousness and intelligence discusses the evolutionary argument for mental causation without linking to this article. Resolution: Added `[evolution-of-consciousness](/concepts/evolution-of-consciousness/)` wikilink in the "Evolutionary Argument" section.
+- **Missing cross-link in consciousness-and-intelligence.md**: The closely related article on consciousness and intelligence discusses the evolutionary argument for mental causation without linking to this article. Resolution: Added `[[evolution-of-consciousness]]` wikilink in the "Evolutionary Argument" section.
 
 ### Low Issues Found
 - **Missing inline wikilink for threshold emergence**: The threshold emergence paragraph mentioned concepts covered by `consciousness-threshold-in-cognitive-evolution` without linking. Resolution: Added inline wikilink.
@@ -43,7 +43,7 @@ All previously identified counterarguments remain at bedrock philosophical stand
 - [x] All other attributions verified in prior reviews and unchanged
 
 ### Orphan Status Note
-The task context claimed this file has no inbound links and is orphaned. This is **incorrect**: grep found 46 files linking to `[evolution-of-consciousness](/concepts/evolution-of-consciousness/)` across the site. The article is among the best-integrated in the concepts section.
+The task context claimed this file has no inbound links and is orphaned. This is **incorrect**: grep found 46 files linking to `[[evolution-of-consciousness]]` across the site. The article is among the best-integrated in the concepts section.
 
 ## Optimistic Analysis Summary
 
@@ -59,8 +59,8 @@ The task context claimed this file has no inbound links and is orphaned. This is
 
 ### Enhancements Made
 - Added missing Whiten 2015 reference entry
-- Added `[consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/)` inline wikilink
-- Added `[evolution-of-consciousness](/concepts/evolution-of-consciousness/)` cross-link from consciousness-and-intelligence.md
+- Added `[[consciousness-threshold-in-cognitive-evolution]]` inline wikilink
+- Added `[[evolution-of-consciousness]]` cross-link from consciousness-and-intelligence.md
 
 ### Cross-links Added
 - [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) (inline in threshold emergence paragraph)

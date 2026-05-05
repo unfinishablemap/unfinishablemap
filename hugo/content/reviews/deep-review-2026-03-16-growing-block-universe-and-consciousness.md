@@ -23,9 +23,9 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Garbled wikilink from automated replacement** (line 48): Stale wikilink fixer replaced `[specious-present](/concepts/temporal-consciousness/)` and `[duration](/concepts/temporal-consciousness/)` with `[temporal-consciousness](/concepts/temporal-consciousness/)` and `[duration](/concepts/temporal-consciousness/)`, producing the nonsensical "The temporal-consciousness has duration." Resolution: Restored to `[specious present](/concepts/temporal-consciousness/) has duration`.
-- **Triple duplicate concept in frontmatter**: `temporal-consciousness` appeared 3 times in the concepts list after automated replacement of `[duration](/concepts/temporal-consciousness/)` and `[specious-present](/concepts/temporal-consciousness/)`. Resolution: Deduplicated to single entry.
-- **Duplicate Further Reading entries**: Two `[temporal-consciousness](/concepts/temporal-consciousness/)` entries with different descriptions (specious present, Bergson's durée). Resolution: Consolidated into single entry covering both.
+- **Garbled wikilink from automated replacement** (line 48): Stale wikilink fixer replaced `[[specious-present]]` and `[[duration|duration]]` with `[[temporal-consciousness]]` and `[[temporal-consciousness|duration]]`, producing the nonsensical "The temporal-consciousness has duration." Resolution: Restored to `[[temporal-consciousness|specious present]] has duration`.
+- **Triple duplicate concept in frontmatter**: `temporal-consciousness` appeared 3 times in the concepts list after automated replacement of `[[duration]]` and `[[specious-present]]`. Resolution: Deduplicated to single entry.
+- **Duplicate Further Reading entries**: Two `[[temporal-consciousness]]` entries with different descriptions (specious present, Bergson's durée). Resolution: Consolidated into single entry covering both.
 
 ### Medium Issues Found
 - None. The article's argumentation and structure remain strong from the previous review.

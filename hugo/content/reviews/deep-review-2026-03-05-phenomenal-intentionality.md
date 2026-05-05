@@ -24,7 +24,7 @@ topics: []
 
 This review was triggered by orphan detection: phenomenal-intentionality.md had no inbound links. However, the article was **archived on 2026-03-01** and coalesced into [intentionality](/concepts/intentionality/). The replacement article thoroughly covers all PIT content including content determinacy, three versions, cognitive phenomenology connection, original vs. derived intentionality, objections, and AI implications.
 
-Rather than a traditional deep review, this session migrated 21 active content files from stale `[phenomenal-intentionality](/concepts/intentionality/)` links to the live `[intentionality](/concepts/intentionality/)` page.
+Rather than a traditional deep review, this session migrated 21 active content files from stale `[[phenomenal-intentionality]]` links to the live `[[intentionality]]` page.
 
 ## Findings
 
@@ -35,23 +35,23 @@ Rather than a traditional deep review, this session migrated 21 active content f
 
 ### Stale Link Inventory
 
-27 active content files still referenced `[phenomenal-intentionality](/concepts/intentionality/)` after archival. These links technically worked (archive page still renders) but directed readers to archived content rather than the comprehensive live page.
+27 active content files still referenced `[[phenomenal-intentionality]]` after archival. These links technically worked (archive page still renders) but directed readers to archived content rather than the comprehensive live page.
 
 ## Changes Made
 
 ### Link Migration (21 files updated)
 
 **Frontmatter concepts lists:**
-- Files that already had `"[intentionality](/concepts/intentionality/)"`: removed duplicate `"[phenomenal-intentionality](/concepts/intentionality/)"` entry
-- Files without `"[intentionality](/concepts/intentionality/)"`: replaced `"[phenomenal-intentionality](/concepts/intentionality/)"` with `"[intentionality](/concepts/intentionality/)"`
+- Files that already had `"[[intentionality]]"`: removed duplicate `"[[phenomenal-intentionality]]"` entry
+- Files without `"[[intentionality]]"`: replaced `"[[phenomenal-intentionality]]"` with `"[[intentionality]]"`
 
 **Body text wikilinks:**
-- `[display text](/concepts/intentionality/)` → `[display text](/concepts/intentionality/#phenomenal-intentionality-theory)`
-- Bare `[phenomenal-intentionality](/concepts/intentionality/)` → `[phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory)`
+- `[[phenomenal-intentionality|display text]]` → `[[intentionality#Phenomenal Intentionality Theory|display text]]`
+- Bare `[[phenomenal-intentionality]]` → `[[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]]`
 
 **Further Reading deduplication:**
-- 7 files had both `[intentionality](/concepts/intentionality/)` and a new `[phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory)` entry
-- Removed the duplicate PIT-specific entries, keeping the general `[intentionality](/concepts/intentionality/)` link
+- 7 files had both `[[intentionality]]` and a new `[[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]]` entry
+- Removed the duplicate PIT-specific entries, keeping the general `[[intentionality]]` link
 
 ### Files Updated
 
@@ -85,7 +85,7 @@ Rather than a traditional deep review, this session migrated 21 active content f
 ## Remaining Items
 
 - Research notes in `obsidian/research/` still reference the SEP URL for phenomenal intentionality — these are reference materials, not navigation links, so left unchanged
-- Review files reference `[phenomenal-intentionality](/concepts/intentionality/)` in historical context — left unchanged as archives
+- Review files reference `[[phenomenal-intentionality]]` in historical context — left unchanged as archives
 
 ## Stability Notes
 

@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 
-1. **Concept listed but never linked in body**: `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` appeared in frontmatter concepts but was never linked in the article text. **Resolution**: Added link at the natural point where "subjective experience" is introduced in the Disturbing Scenario section.
+1. **Concept listed but never linked in body**: `[[phenomenal-consciousness]]` appeared in frontmatter concepts but was never linked in the article text. **Resolution**: Added link at the natural point where "subjective experience" is introduced in the Disturbing Scenario section.
 
 2. **Stale AI refinement log**: The HTML comment log from the 2026-03-08 refine-draft was still present, marked "should be removed after human review." Since the article has undergone multiple subsequent AI modifications, this log was outdated. **Resolution**: Removed.
 
@@ -63,7 +63,7 @@ topics: []
 
 ### Enhancements Made
 
-- Added `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` cross-link in body text
+- Added `[[phenomenal-consciousness]]` cross-link in body text
 - Cleaned up stale refinement log
 - Fixed grammatical error in opening paragraph
 

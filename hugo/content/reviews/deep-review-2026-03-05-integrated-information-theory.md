@@ -23,8 +23,8 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken internal link**: `[specious present](/topics/temporal-structure-of-consciousness/#experienced-duration)` linked to non-existent article (coalesced into temporal-structure-of-consciousness). Fixed to `[specious present](/topics/temporal-consciousness-structure-and-agency/#the-specious-present)`.
-- **Duplicate frontmatter entry**: `[temporal-consciousness](/concepts/temporal-consciousness/)` appeared twice in concepts list. Removed duplicate.
+- **Broken internal link**: `[[time-perception-consciousness-theories#experienced-duration|specious present]]` linked to non-existent article (coalesced into temporal-structure-of-consciousness). Fixed to `[[temporal-structure-of-consciousness#the-specious-present|specious present]]`.
+- **Duplicate frontmatter entry**: `[[temporal-consciousness]]` appeared twice in concepts list. Removed duplicate.
 
 ### Medium Issues Found
 - **Imprecise illusionism characterization**: "The illusionist must deny not just qualia-rich phenomenality but any inner life whatsoever" conflated phenomenal consciousness with all mental life. Frankish and Dennett accept functional/access consciousness while denying phenomenal consciousness. Reworded to clarify the illusionist must deny phenomenal consciousness in any form, not all inner life.

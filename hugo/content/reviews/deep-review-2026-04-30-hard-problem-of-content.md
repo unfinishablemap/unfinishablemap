@@ -33,10 +33,10 @@ None. The 2026-04-27 review addressed the LLM cliché, the Mike-Ash speculative 
 
 ### Medium Issues Found
 
-- **Predictive processing absent from body** (real gap): The article listed `[predictive-processing](/concepts/predictive-processing/)` in concepts and Further Reading but never engaged it in prose. The new topic article makes predictive processing a third horn of the dilemma. Without acknowledgement here, a reader of the topic article would land on the concept page expecting at least a pointer.
+- **Predictive processing absent from body** (real gap): The article listed `[[predictive-processing]]` in concepts and Further Reading but never engaged it in prose. The new topic article makes predictive processing a third horn of the dilemma. Without acknowledgement here, a reader of the topic article would land on the concept page expecting at least a pointer.
   - **Resolution**: Added a brief "Predictive Processing as a Third Target" section after the teleosemantic variant, with an inline link to [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) for the extended topic-level treatment. ~95 words. Compact rather than a full third section.
 
-- **Topic-level treatment uncross-linked**: The new `[the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)` topic article elaborates the same argument at greater scope and was not yet cross-referenced from the concept page.
+- **Topic-level treatment uncross-linked**: The new `[[the-naturalisation-failure-for-content]]` topic article elaborates the same argument at greater scope and was not yet cross-referenced from the concept page.
   - **Resolution**: Added to topics list, body (via the predictive-processing section), and Further Reading. Three integration points so different reader entry-paths reach it.
 
 ### Counterarguments Considered
@@ -66,8 +66,8 @@ The cross-review did not surface new counterarguments — the new topic article 
 ### Enhancements Made
 
 - New "Predictive Processing as a Third Target" mini-section (95 words). This both fills a real gap and provides the load-bearing link from the concept page to the topic page.
-- Added `[the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)` to topics frontmatter list.
-- Added `[the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)` to Further Reading.
+- Added `[[the-naturalisation-failure-for-content]]` to topics frontmatter list.
+- Added `[[the-naturalisation-failure-for-content]]` to Further Reading.
 
 ### Cross-links Added
 

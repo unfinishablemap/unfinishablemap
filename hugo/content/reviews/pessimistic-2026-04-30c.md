@@ -179,7 +179,7 @@ Second, the recursive frustration listed under "Phenomenology of the Edge" — "
 
 - "This is not X. It is Y." cliché: zero violations detected. The article uses positive constructions throughout.
 - Front-loading: strong — first paragraph compresses the thesis well.
-- Named-anchor forward references: section anchors are used (`[Williamson 1994](#references)`, `[Vagueness in Psychiatry](#references)`).
+- Named-anchor forward references: section anchors are used (`[[#references|Williamson 1994]]`, `[[#references|Vagueness in Psychiatry]]`).
 - Relation to Site Perspective: present, substantive, three-tenet alignment, reflexive consequence — meets style guide bar.
 - Length: ~2,030 words, appropriate for a void article (under typical 2,500 cap).
 

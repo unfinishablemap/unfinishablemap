@@ -25,7 +25,7 @@ topics: []
 ### Critical Issues Found
 - **Petitmengin attribution error** (line 54): Article attributed its own phenomenological categories (weight, pull, tipping, afterimage) to Petitmengin's elicitation interview findings. Petitmengin (2006) describes a method, not these specific categories. **Resolution**: Rewrote to separate the Map's framework from Petitmengin's method, explicitly flagging the categories as the Map's own.
 - **AGM framework mischaracterization** (line 84): Described AGM as assuming "fixed standards for evaluating revisions," which oversimplifies its actual formal constraints. **Resolution**: Rewrote to accurately describe AGM's formal constraints (success, consistency, inclusion) and clarify what it does not model.
-- **Broken link**: `[self-locating-beliefs](/concepts/indexical-knowledge-and-identity/)` in frontmatter — concept is archived. **Resolution**: Removed from related_articles.
+- **Broken link**: `[[self-locating-beliefs]]` in frontmatter — concept is archived. **Resolution**: Removed from related_articles.
 - **Uncited references**: Festinger (1957), Goldman (2006), Schwitzgebel (2011) listed but never cited. **Resolution**: Integrated Festinger into the Resistance section, Schwitzgebel into the expanded Limits section. Removed Goldman (not naturally integrable).
 
 ### Medium Issues Found

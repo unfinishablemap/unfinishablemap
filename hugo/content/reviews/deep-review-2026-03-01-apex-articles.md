@@ -33,7 +33,7 @@ topics: []
 - **Non-standard frontmatter**: Removed `date: &id001` YAML anchor and `modified: *id001` alias; normalized to standard schema
 - **Missing `last_deep_review` field**: Added
 - **Missing "Relation to Site Perspective" section**: Added brief section connecting curation rationale to the Map's tenets
-- **No cross-links in opening paragraph**: Added wikilinks to `[apex](/apex/)`, `[topics](/topics/)`, `[concepts](/concepts/)`, `[writing-style](/project/writing-style/)`, and three representative apex articles
+- **No cross-links in opening paragraph**: Added wikilinks to `[[apex]]`, `[[topics]]`, `[[concepts]]`, `[[writing-style]]`, and three representative apex articles
 
 ### Counterarguments Considered
 - **Eliminative Materialist / Hard-Nosed Physicalist**: The theses listed for each apex article assert dualist positions, but this is appropriate for an index page reflecting the Map's foundational commitments — not a flaw to fix.

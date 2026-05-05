@@ -33,11 +33,11 @@ Cross-checking against [concepts/hard-problem-of-content.md](/concepts/hard-prob
 
 ### Critical Issues Found
 
-None new. The previously addressed broken-wikilink critical issue is now fully resolved (not stopgap-resolved): `[hard-problem-of-content](/concepts/hard-problem-of-content/)` resolves to the new dedicated article rather than the broader enactivism page.
+None new. The previously addressed broken-wikilink critical issue is now fully resolved (not stopgap-resolved): `[[hard-problem-of-content]]` resolves to the new dedicated article rather than the broader enactivism page.
 
 ### Medium Issues Found
 
-- **Stopgap link to `enactivism-challenge-to-interactionist-dualism` should be upgraded to the dedicated `hard-problem-of-content` article.** The previous review explicitly anticipated this upgrade. **Resolution applied**: Replaced body wikilink in the pincer paragraph (§"Relation to Site Perspective") to point to `[hard problem of content](/concepts/hard-problem-of-content/)`. Reordered Further Reading entries so `[hard-problem-of-content](/concepts/hard-problem-of-content/)` is the primary cross-link with `[enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)` reframed as the broader REC programme link. Added `[hard-problem-of-content](/concepts/hard-problem-of-content/)` to frontmatter `concepts` and `related_articles`.
+- **Stopgap link to `enactivism-challenge-to-interactionist-dualism` should be upgraded to the dedicated `hard-problem-of-content` article.** The previous review explicitly anticipated this upgrade. **Resolution applied**: Replaced body wikilink in the pincer paragraph (§"Relation to Site Perspective") to point to `[[hard-problem-of-content|hard problem of content]]`. Reordered Further Reading entries so `[[hard-problem-of-content]]` is the primary cross-link with `[[enactivism-challenge-to-interactionist-dualism]]` reframed as the broader REC programme link. Added `[[hard-problem-of-content]]` to frontmatter `concepts` and `related_articles`.
 
 - **Pincer framing could leverage the new dedicated article's formulation.** The new article expresses the pincer as "Boghossian shows that content irrealism cannot be coherently asserted; Hutto and Myin show that content realism cannot be naturalised." This is a sharper formulation of what status-of-content already says less compactly. **Resolution applied**: Tightened the pincer paragraph to incorporate the parallel formulation (assertion-incoherence vs. naturalisation-failure) without overlapping the new article's territory. Added one sentence pointing readers to the dedicated treatment.
 
@@ -81,9 +81,9 @@ All strengths from the previous review are preserved unchanged:
 
 ### Cross-links Added
 
-- `[hard-problem-of-content](/concepts/hard-problem-of-content/)` — body link in pincer paragraph (§"Relation to Site Perspective")
-- `[hard-problem-of-content](/concepts/hard-problem-of-content/)` — Further Reading entry (now primary; the enactivism entry retained but reframed)
-- `[hard-problem-of-content](/concepts/hard-problem-of-content/)` — frontmatter `concepts` and `related_articles`
+- `[[hard-problem-of-content]]` — body link in pincer paragraph (§"Relation to Site Perspective")
+- `[[hard-problem-of-content]]` — Further Reading entry (now primary; the enactivism entry retained but reframed)
+- `[[hard-problem-of-content]]` — frontmatter `concepts` and `related_articles`
 
 ### Length
 
@@ -93,7 +93,7 @@ All strengths from the previous review are preserved unchanged:
 
 ## Remaining Items
 
-- **[topics/eliminative-materialism.md](/topics/eliminative-materialism/) does not link to `[status-of-content](/concepts/status-of-content/)` or `[hard-problem-of-content](/concepts/hard-problem-of-content/)`.** Both are dedicated treatments of objections it summarises in "Principal Objections." This should be a separate refine-draft task on the topic article (not in scope for this cross-review of the concept article).
+- **[topics/eliminative-materialism.md](/topics/eliminative-materialism/) does not link to `[[status-of-content]]` or `[[hard-problem-of-content]]`.** Both are dedicated treatments of objections it summarises in "Principal Objections." This should be a separate refine-draft task on the topic article (not in scope for this cross-review of the concept article).
 
 ## Stability Notes
 

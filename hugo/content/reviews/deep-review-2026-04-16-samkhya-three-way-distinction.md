@@ -26,7 +26,7 @@ topics: []
 - None. Article is stable after two prior reviews.
 
 ### Medium Issues Found
-- **Missing frontmatter entries (M1)**: `[functionalism](/concepts/functionalism/)`, `[qualia](/concepts/qualia/)`, and `[causal-closure](/concepts/causal-closure/)` are all wikilinked in body text but absent from frontmatter `concepts` list. **Resolution**: Added all three to `concepts`.
+- **Missing frontmatter entries (M1)**: `[[functionalism]]`, `[[qualia]]`, and `[[causal-closure]]` are all wikilinked in body text but absent from frontmatter `concepts` list. **Resolution**: Added all three to `concepts`.
 - **Possessive inconsistency (M2)**: "Descartes'" (line 53) used informal possessive while "Chalmers's" (line 92) used modern convention. **Resolution**: Standardised to "Descartes's" throughout.
 - **Missing Block citation (M3)**: Ned Block's access/phenomenal consciousness distinction is substantively used but his seminal 1995 paper was not in References. **Resolution**: Added Block (1995) citation.
 
@@ -50,7 +50,7 @@ topics: []
 - "Honor-then-extend" pattern in tenet discussions
 
 ### Enhancements Made
-- Added `[functionalism](/concepts/functionalism/)`, `[qualia](/concepts/qualia/)`, `[causal-closure](/concepts/causal-closure/)` to frontmatter concepts — ensures cross-references are discoverable via metadata, not just body text
+- Added `[[functionalism]]`, `[[qualia]]`, `[[causal-closure]]` to frontmatter concepts — ensures cross-references are discoverable via metadata, not just body text
 - Standardised possessive form ("Descartes's") for consistency
 - Added Block (1995) citation to References section
 

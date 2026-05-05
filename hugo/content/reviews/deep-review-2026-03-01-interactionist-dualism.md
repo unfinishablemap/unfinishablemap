@@ -48,7 +48,7 @@ All attributions verified accurate:
 ### Medium Issues Found
 1. **Missing amplification-void cross-link** (addressed): The article discussed quantum mechanisms and decoherence without referencing the amplification void — the multi-scale opacity problem of tracing quantum influence to macroscopic effect. Added a sentence in the Decoherence Objection section and a Further Reading entry.
 
-2. **Misdirected wikilink** (addressed): `[evolutionary evidence](/concepts/consciousness-as-amplifier/)` pointed to an archived topic. Corrected to `[evolutionary evidence](/concepts/consciousness-as-amplifier/)` to point to the canonical concepts article.
+2. **Misdirected wikilink** (addressed): `[[consciousness-as-intelligence-amplifier|evolutionary evidence]]` pointed to an archived topic. Corrected to `[[consciousness-as-amplifier|evolutionary evidence]]` to point to the canonical concepts article.
 
 ### Counterarguments Previously Addressed
 All prior resolutions from previous reviews remain intact:
@@ -88,10 +88,10 @@ Six sympathetic philosopher personas examined the document:
 **Content**:
 - Added sentence in Decoherence Objection section referencing the amplification void
 - Added amplification-void to Further Reading (Mechanisms subsection)
-- Fixed `[consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/)` → `[consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)`
+- Fixed `[[consciousness-as-intelligence-amplifier]]` → `[[consciousness-as-amplifier]]`
 
 **Frontmatter**:
-- Added `[amplification-void](/voids/amplification-void/)` to concepts list
+- Added `[[amplification-void]]` to concepts list
 - Updated `ai_modified` timestamp
 - Updated `last_deep_review` timestamp
 

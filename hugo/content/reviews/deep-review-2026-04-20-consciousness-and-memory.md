@@ -33,11 +33,11 @@ Word count grew from 3699 to 3791 (+92 words). Review focused on the new content
 
 ### Critical Issues Found
 
-1. **Duplicate wikilink in prose**: Line 170 read `[inaccessible-past](/voids/inaccessible-past/) and the [inaccessible-past](/voids/inaccessible-past/)`—an artifact of the `memory-void` + `past-self-void` → `inaccessible-past` rename. Made the sentence incoherent. [Resolved: rewrote as single reference to `[inaccessible past](/voids/inaccessible-past/)`]
+1. **Duplicate wikilink in prose**: Line 170 read `[[inaccessible-past]] and the [[inaccessible-past]]`—an artifact of the `memory-void` + `past-self-void` → `inaccessible-past` rename. Made the sentence incoherent. [Resolved: rewrote as single reference to `[[inaccessible-past|inaccessible past]]`]
 
-2. **Duplicate concept in frontmatter**: `[binding-problem](/concepts/binding-problem/)` appeared twice in the `concepts` list. [Resolved: removed duplicate]
+2. **Duplicate concept in frontmatter**: `[[binding-problem]]` appeared twice in the `concepts` list. [Resolved: removed duplicate]
 
-3. **Duplicate in Further Reading**: `[episodic-memory](/concepts/episodic-memory/)` listed twice in the Further Reading section. [Resolved: removed duplicate]
+3. **Duplicate in Further Reading**: `[[episodic-memory]]` listed twice in the Further Reading section. [Resolved: removed duplicate]
 
 ### Medium Issues Found
 
@@ -108,7 +108,7 @@ All attribution checks pass.
 
 ### Cross-links Added
 
-None new in this review. The coalesce merge already added appropriate cross-links to `[phenomenal-contrast-method](/concepts/phenomenal-contrast-method/)`, `[personal-identity](/topics/personal-identity/)`, `[infant-consciousness](/voids/infant-consciousness/)`, and `[interactionist-dualism](/concepts/interactionist-dualism/)`.
+None new in this review. The coalesce merge already added appropriate cross-links to `[[phenomenal-contrast-method]]`, `[[personal-identity]]`, `[[infant-consciousness]]`, and `[[interactionist-dualism]]`.
 
 ## Remaining Items
 

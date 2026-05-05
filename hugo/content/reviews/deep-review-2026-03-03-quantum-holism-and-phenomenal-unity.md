@@ -74,12 +74,12 @@ Not a source-based article (synthesis piece), but key attributions verified:
 Updated 6 articles to add inbound links, resolving the orphan status:
 
 **related_articles updated:**
-- [unity-of-consciousness](/concepts/unity-of-consciousness/) — replaced stale `[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link
-- [binding-problem](/concepts/binding-problem/) — replaced stale `[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link
-- [quantum-consciousness](/concepts/quantum-consciousness/) — replaced stale `[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link (concepts list)
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — replaced stale `[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link
-- [phenomenal-binding-and-holism](/concepts/binding-problem/) — added new `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link
-- [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — added new `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link
+- [unity-of-consciousness](/concepts/unity-of-consciousness/) — replaced stale `[[quantum-binding-and-phenomenal-unity]]` link
+- [binding-problem](/concepts/binding-problem/) — replaced stale `[[quantum-binding-and-phenomenal-unity]]` link
+- [quantum-consciousness](/concepts/quantum-consciousness/) — replaced stale `[[quantum-binding-and-phenomenal-unity]]` link (concepts list)
+- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — replaced stale `[[quantum-binding-and-phenomenal-unity]]` link
+- [phenomenal-binding-and-holism](/concepts/binding-problem/) — added new `[[quantum-holism-and-phenomenal-unity]]` link
+- [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — added new `[[quantum-holism-and-phenomenal-unity]]` link
 
 **Inline references updated:**
 - unity-of-consciousness: Updated "Quantum Binding" → "Quantum Holism" in body text and Further Reading
@@ -92,8 +92,8 @@ Updated 6 articles to add inbound links, resolving the orphan status:
 
 ## Remaining Items
 
-- The stale `[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link persists in other articles not edited in this review (archive redirects handle these gracefully). A site-wide find-and-replace could catch remaining instances.
-- The `[why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/)` link (the other coalesced source) also persists in several articles. Same mitigation: archive redirects work.
+- The stale `[[quantum-binding-and-phenomenal-unity]]` link persists in other articles not edited in this review (archive redirects handle these gracefully). A site-wide find-and-replace could catch remaining instances.
+- The `[[why-phenomenal-unity-resists-explanation]]` link (the other coalesced source) also persists in several articles. Same mitigation: archive redirects work.
 
 ## Stability Notes
 

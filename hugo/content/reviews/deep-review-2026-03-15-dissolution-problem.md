@@ -27,7 +27,7 @@ None. Attribution checks passed—Vlerick & Boudry, Gauss, McGinn, Dennett, Leib
 
 ### Medium Issues Found
 - [Illusionism in frontmatter but absent from text]: Resolved — added inline reference to illusionism as an attempted dissolution strategy that illustrates the hard problem's resistance to standard approaches
-- [Mysterianism not wikilinked inline]: Resolved — added `[mysterianism](/concepts/mysterianism/)` wikilink where McGinn's position is discussed
+- [Mysterianism not wikilinked inline]: Resolved — added `[[mysterianism]]` wikilink where McGinn's position is discussed
 - [Missing cross-links to related voids articles]: Resolved — added links to `evolved-cognitive-limits`, `framework-void`, and `ai-as-void-explorer` in body text and Further Reading
 - [Measurement problem / hard problem structural similarity under-argued]: Resolved — expanded the claim with a parallel sentence showing how both cases have working mathematics but resist interpretive resolution
 - [cognitive-closure concept missing from frontmatter]: Resolved — added to concepts list and linked inline in pessimist position

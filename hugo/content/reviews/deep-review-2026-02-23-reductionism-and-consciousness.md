@@ -47,8 +47,8 @@ topics: []
 ### Enhancements Made
 - Added pain asymbolia as empirical evidence that function and phenomenal character come apart
 - Added engagement with Type-B physicalism and the conceivability-possibility objection
-- Added `[functionalism](/concepts/functionalism/)` link in the functional analysis section
-- Added `[conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)` and `[philosophical-zombies](/concepts/philosophical-zombies/)` to frontmatter concepts
+- Added `[[functionalism]]` link in the functional analysis section
+- Added `[[conceivability-possibility-inference]]` and `[[philosophical-zombies]]` to frontmatter concepts
 - Expanded Further Reading with four new entries: functionalism, philosophical-zombies, conceivability-possibility-inference, pain-asymbolia-as-central-test-case
 
 ### Cross-links Added

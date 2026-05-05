@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken concept links to archived articles**: `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)`, `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`, and `[neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/)` were all archived but still referenced in frontmatter and body text. Fixed: replaced with `[phenomenal-binding-and-holism](/concepts/binding-problem/)`, `[episodic-memory](/concepts/episodic-memory/)`, and updated body wikilinks accordingly.
+- **Broken concept links to archived articles**: `[[multimodal-binding]]`, `[[anoetic-noetic-autonoetic-consciousness]]`, and `[[neural-binding-mechanisms]]` were all archived but still referenced in frontmatter and body text. Fixed: replaced with `[[phenomenal-binding-and-holism]]`, `[[episodic-memory]]`, and updated body wikilinks accordingly.
 
 - **Bayne & Chalmers attribution precision**: Article stated "This is Bayne and Chalmers's 'conjoint phenomenology' applied to thought" — implying they made this extension. Fixed: rephrased to "Extending Bayne and Chalmers's concept of 'conjoint phenomenology' from perception to thought" to make clear this is the Map's extension.
 
@@ -40,17 +40,17 @@ topics: []
 
 - **Speculative quantum-collapse/agent-causation claim insufficiently hedged**: The cognitive binding section connected quantum collapse, agent causation, and parsing selection without hedging markers. Fixed: prefaced with "One speculative possibility" and restructured as conditional.
 
-- **Missing cross-links**: Added `[downward-causation](/concepts/mental-causation-and-downward-causation/)` and `[prehension](/concepts/prehension/)` to concepts list. Added `[downward-causation](/concepts/mental-causation-and-downward-causation/)` to Further Reading. Removed broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` from Further Reading.
+- **Missing cross-links**: Added `[[downward-causation]]` and `[[prehension]]` to concepts list. Added `[[downward-causation]]` to Further Reading. Removed broken `[[multimodal-binding]]` from Further Reading.
 
 ### Counterarguments Considered
 
-- **Eliminativist challenge** (phenomenal unity as folk-psychological construct): Deferred — the concept-level `[binding-problem](/concepts/binding-problem/)` article engages with this directly. The systematic treatment appropriately assumes the reality of phenomenal unity as its working framework.
+- **Eliminativist challenge** (phenomenal unity as folk-psychological construct): Deferred — the concept-level `[[binding-problem]]` article engages with this directly. The systematic treatment appropriately assumes the reality of phenomenal unity as its working framework.
 
 - **Functionalist deflation** (Dennett's Multiple Drafts): Addressed — added brief engagement in Classical Approaches section pointing to dissociation evidence.
 
 - **Quantum realism dependence** (Tegmark): Addressed — added interpretation caveat to quantum alternative section.
 
-- **Buddhist anatta challenge** (subject binding assumes what it proves): Deferred — the `[split-brain-consciousness](/topics/split-brain-consciousness/)` article includes a Buddhist Complication section. Subject binding section in this article correctly identifies the presupposition without claiming to resolve it.
+- **Buddhist anatta challenge** (subject binding assumes what it proves): Deferred — the `[[split-brain-consciousness]]` article includes a Buddhist Complication section. Subject binding section in this article correctly identifies the presupposition without claiming to resolve it.
 
 - **MWI branch-local definiteness** (each branch has definite binding): Noted but deferred — the No Many Worlds tenet connection uses the same argument found across the Map's other articles. Strengthening this specific argument is a site-wide concern, not specific to this article.
 
@@ -75,8 +75,8 @@ topics: []
 - Added hedging to speculative agent-causation claim
 - Corrected NREM sleep characterization
 - Fixed misleading filling-in claim
-- Added cross-links: `[downward-causation](/concepts/mental-causation-and-downward-causation/)`, `[prehension](/concepts/prehension/)`
-- Replaced broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` Further Reading entry with `[downward-causation](/concepts/mental-causation-and-downward-causation/)`
+- Added cross-links: `[[downward-causation]]`, `[[prehension]]`
+- Replaced broken `[[multimodal-binding]]` Further Reading entry with `[[downward-causation]]`
 
 ### Cross-links Added
 

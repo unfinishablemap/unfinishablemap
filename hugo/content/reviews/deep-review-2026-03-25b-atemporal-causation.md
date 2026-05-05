@@ -28,7 +28,7 @@ None. The coalesce integrated retrocausal-selection content cleanly. All attribu
 
 ### Medium Issues Found
 - **Overly long description field** (418 chars vs. 150-160 target): The description had ballooned during the coalesce to include three framework names and multiple claims. **Resolution**: Condensed to 141 chars focusing on the core concept and Libet dissolution.
-- **Inaccurate Further Reading description**: `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` was described as "Non-retrocausal selection pathways" — misleading since the article covers consciousness selecting neural patterns generally, not specifically non-retrocausal. The dedicated non-retrocausal article is already listed separately. **Resolution**: Reworded to "How consciousness selects among neural configurations."
+- **Inaccurate Further Reading description**: `[[consciousness-selecting-neural-patterns]]` was described as "Non-retrocausal selection pathways" — misleading since the article covers consciousness selecting neural patterns generally, not specifically non-retrocausal. The dedicated non-retrocausal article is already listed separately. **Resolution**: Reworded to "How consciousness selects among neural configurations."
 
 ### Attribution Accuracy Check
 - Cramer (1986) quote: Correctly attributed
@@ -41,10 +41,10 @@ None. The coalesce integrated retrocausal-selection content cleanly. All attribu
 - Price (2012) physics/metaphysics distinction: Reasonable paraphrase of the paper's argument
 
 ### Cross-Reference Integrity Check
-- No content articles link to old `[retrocausal-selection](/concepts/atemporal-causation/)` slug — coalesce handled wikilink updates
+- No content articles link to old `[[retrocausal-selection]]` slug — coalesce handled wikilink updates
 - Archive file exists at `archive/concepts/retrocausal-selection.md`
 - `coalesced_from` frontmatter correctly lists both source URLs
-- Related articles (time-collapse-and-agency, non-retrocausal-conscious-selection-models, time-symmetric-selection-mechanism, retrocausality, consciousness-selecting-neural-patterns) all use consistent terminology and point to `[atemporal-causation](/concepts/atemporal-causation/)` where appropriate
+- Related articles (time-collapse-and-agency, non-retrocausal-conscious-selection-models, time-symmetric-selection-mechanism, retrocausality, consciousness-selecting-neural-patterns) all use consistent terminology and point to `[[atemporal-causation]]` where appropriate
 
 ### Counterarguments Considered
 All stability notes from previous reviews confirmed. No new counterarguments from the cross-review context.

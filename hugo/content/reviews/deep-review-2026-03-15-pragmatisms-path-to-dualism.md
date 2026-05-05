@@ -27,8 +27,8 @@ topics: []
 
 ### Medium Issues Found
 - **Weak engagement with functionalist response**: The materialist counter at the reflexive argument section lacked specificity about *why* functionalism fails for pragmatic evaluation. **Resolution**: Added explicit connection to functionalism and the phenomenal character of cognitive satisfaction that pragmatism relies on.
-- **Missing cross-link to phenomenal-normativity**: The article's core argument depends on evaluation having normative force grounded in phenomenal experience, but didn't link to the concept that grounds this. **Resolution**: Added `[phenomenal-normativity](/concepts/evaluative-phenomenal-character/)` link with contextual explanation.
-- **Missing cross-link to functionalism**: The information-processing response is the functionalist move but wasn't labeled as such. **Resolution**: Added `[functionalism](/concepts/functionalism/)` link.
+- **Missing cross-link to phenomenal-normativity**: The article's core argument depends on evaluation having normative force grounded in phenomenal experience, but didn't link to the concept that grounds this. **Resolution**: Added `[[phenomenal-normativity]]` link with contextual explanation.
+- **Missing cross-link to functionalism**: The information-processing response is the functionalist move but wasn't labeled as such. **Resolution**: Added `[[functionalism]]` link.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: Evaluation is just error minimization — no qualia needed. Article addresses this through the circularity argument; strengthened with phenomenal specificity.

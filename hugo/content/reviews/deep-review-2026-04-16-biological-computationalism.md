@@ -60,15 +60,15 @@ All counterarguments from previous reviews remain well-addressed. The six advers
 
 ### Cross-links Added (from other articles → this concept)
 
-1. **experimental-consciousness-science-2025-2026.md** — Added `[biological computationalism](/concepts/biological-computationalism/)` wikilink where the concept was previously mentioned as plain text in the "Biological Computationalism: An Inadvertent Ally" section. Also added to concepts frontmatter.
+1. **experimental-consciousness-science-2025-2026.md** — Added `[[biological-computationalism|biological computationalism]]` wikilink where the concept was previously mentioned as plain text in the "Biological Computationalism: An Inadvertent Ally" section. Also added to concepts frontmatter.
 
-2. **consciousness-and-the-structure-of-scientific-revolutions.md** — Changed first mention from `[biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)` to `[biological computationalism](/concepts/biological-computationalism/)` in the "Loosening of methodological standards" section. The concept page is the more appropriate link target for a general introduction of the framework; the topic article remains linked where the specific "inadvertent case" argument is discussed. Also added to concepts frontmatter.
+2. **consciousness-and-the-structure-of-scientific-revolutions.md** — Changed first mention from `[[biological-computationalisms-inadvertent-case-for-dualism|biological computationalism]]` to `[[biological-computationalism|biological computationalism]]` in the "Loosening of methodological standards" section. The concept page is the more appropriate link target for a general introduction of the framework; the topic article remains linked where the specific "inadvertent case" argument is discussed. Also added to concepts frontmatter.
 
-3. **reductionism-and-consciousness.md** — Added inline `[Biological computationalism](/concepts/biological-computationalism/)` reference in the "Functional Analysis Falls Short" section after Kim's concession, noting it reaches similar conclusions from the computational side. Also added to Further Reading.
+3. **reductionism-and-consciousness.md** — Added inline `[[biological-computationalism|Biological computationalism]]` reference in the "Functional Analysis Falls Short" section after Kim's concession, noting it reaches similar conclusions from the computational side. Also added to Further Reading.
 
-4. **llm-consciousness.md** — Added inline `[Biological computationalism](/concepts/biological-computationalism/)` reference in "The Transformer Architecture" section, connecting substrate-dependent computation to the argument against digital consciousness. Also added to Further Reading.
+4. **llm-consciousness.md** — Added inline `[[biological-computationalism|Biological computationalism]]` reference in "The Transformer Architecture" section, connecting substrate-dependent computation to the argument against digital consciousness. Also added to Further Reading.
 
-5. **concession-convergence.md** — Added `[biological-computationalism](/concepts/biological-computationalism/)` to concepts frontmatter. The inline link already existed at line 68.
+5. **concession-convergence.md** — Added `[[biological-computationalism]]` to concepts frontmatter. The inline link already existed at line 68.
 
 ### Updated Inbound Link Count
 - Previous: 5 inbound links (from prior review)

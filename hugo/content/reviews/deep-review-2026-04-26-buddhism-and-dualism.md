@@ -68,8 +68,8 @@ Synthesis piece, not single-source. All checks pass:
 ### Enhancements Made
 
 - Added a paragraph to The Emptiness Challenge section making the structural parallel between Buddhist no-self vs. emptiness-of-phenomenal-events and the Map's stance on classical eliminativism vs. illusionism
-- Added `[eliminative-materialism](/topics/eliminative-materialism/)` to frontmatter related_articles
-- Added `[eliminative-materialism](/topics/eliminative-materialism/)` to Further Reading with annotation about the Madhyamaka divergence
+- Added `[[eliminative-materialism]]` to frontmatter related_articles
+- Added `[[eliminative-materialism]]` to Further Reading with annotation about the Madhyamaka divergence
 - Trimmed the redundant flame analogy restatement in the Karma section (the analogy is established earlier and didn't need re-explanation)
 
 ### Cross-links Added

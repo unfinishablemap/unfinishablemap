@@ -27,8 +27,8 @@ topics: []
 
 ### Medium Issues Found
 - **Missing cross-links from key articles**: Despite previous review claiming 8 inbound links, several high-priority articles (bidirectional-interaction, quantum-measurement-and-consciousness, born-rule-derivation-failures, self-stultification, conservation-laws-and-mental-causation) still lacked links to this article. Resolution: added cross-references from all 6 articles.
-- **Indirect reverse-inference link in quantum-probability-consciousness**: Line 95 linked to `[reverse inference](/apex/what-consciousness-tells-us-about-physics/)` rather than directly to `[the-reverse-inference](/topics/the-reverse-inference/)`. Resolution: changed to direct link with apex article as separate reference.
-- **Missing panpsychism wikilink**: The "Why Not Panpsychism?" section mentioned panpsychism without linking to the existing `[panpsychism](/concepts/panpsychism/)` concept page. Resolution: added wikilink.
+- **Indirect reverse-inference link in quantum-probability-consciousness**: Line 95 linked to `[[what-consciousness-tells-us-about-physics|reverse inference]]` rather than directly to `[[the-reverse-inference]]`. Resolution: changed to direct link with apex article as separate reference.
+- **Missing panpsychism wikilink**: The "Why Not Panpsychism?" section mentioned panpsychism without linking to the existing `[[panpsychism]]` concept page. Resolution: added wikilink.
 - **Missing Further Reading entries**: Article could benefit from linking to convergence argument and Born rule derivation failures. Resolution: added both.
 
 ### Counterarguments Considered
@@ -45,14 +45,14 @@ topics: []
 - Comprehensive Relation to Site Perspective connecting all five tenets
 
 ### Enhancements Made
-- Added `[panpsychism](/concepts/panpsychism/)` wikilink in "Why Not Panpsychism?" section
-- Added `[the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)` to related_articles and Further Reading
-- Added `[born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/)` to Further Reading
+- Added `[[panpsychism]]` wikilink in "Why Not Panpsychism?" section
+- Added `[[the-convergence-argument-for-dualism]]` to related_articles and Further Reading
+- Added `[[born-rule-derivation-failures-consciousness-collapse]]` to Further Reading
 
 ### Cross-links Added (Orphan Integration)
 New inbound links added from 6 articles:
 1. [bidirectional-interaction](/concepts/bidirectional-interaction/) — Added sentence in "The Quantum Interface" section connecting the reverse inference as epistemic justification
-2. [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Changed indirect link to direct `[the-reverse-inference](/topics/the-reverse-inference/)` link in "Born Probability as Interface Structure" section
+2. [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Changed indirect link to direct `[[the-reverse-inference]]` link in "Born Probability as Interface Structure" section
 3. [self-stultification](/concepts/self-stultification/) — Added to Further Reading
 4. [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Added to Further Reading
 5. [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — Added sentence in "The Structural Identity with the Hard Problem" section

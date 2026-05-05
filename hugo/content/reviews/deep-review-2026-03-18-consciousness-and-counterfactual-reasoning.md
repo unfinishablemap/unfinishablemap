@@ -23,11 +23,11 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- [Broken wikilink]: `[voids-counterfactual-void-2026-02-13](/research/voids-counterfactual-void-2026-02-13/)` pointed to a non-existent file. The actual file is `counterfactual-void.md`. Fixed in both frontmatter and body text.
+- [Broken wikilink]: `[[voids-counterfactual-void-2026-02-13]]` pointed to a non-existent file. The actual file is `counterfactual-void.md`. Fixed in both frontmatter and body text.
 
 ### Medium Issues Found
 - [Stale refinement log]: AI refinement log comment from 2026-03-16 was still in the article with note "This log should be removed after human review." Removed after one month.
-- [Missing related article]: `[consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/)` was referenced in the body but not listed in frontmatter `related_articles`. Added.
+- [Missing related article]: `[[consciousness-threshold-in-cognitive-evolution]]` was referenced in the body but not listed in frontmatter `related_articles`. Added.
 
 ### Counterarguments Considered
 - **Churchland**: Dual-status awareness argument begs the question by assuming phenomenal consciousness is required for "grasping." Acknowledged as bedrock disagreement — the article concedes computational counterfactual processing while maintaining the phenomenological distinction.

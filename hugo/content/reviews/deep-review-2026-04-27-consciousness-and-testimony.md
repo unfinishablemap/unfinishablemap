@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Duplicate entry in Further Reading**: After the 2026-04-18 wikilink retargeting (post-coalesce), the Further Reading list contained `[phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/)` and `[phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)` ("Meaning and conscious comprehension") — two entries pointing to the same coalesced target. Pre-coalesce, these had been distinct articles (`phenomenology-of-epistemic-cognition` and `phenomenology-of-understanding-and-meaning`). **Resolution**: Removed the second entry, keeping the "epistemic cognition" framing which aligns with the in-body reference at the Wegener passage.
+- **Duplicate entry in Further Reading**: After the 2026-04-18 wikilink retargeting (post-coalesce), the Further Reading list contained `[[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]]` and `[[phenomenology-of-intellectual-life]]` ("Meaning and conscious comprehension") — two entries pointing to the same coalesced target. Pre-coalesce, these had been distinct articles (`phenomenology-of-epistemic-cognition` and `phenomenology-of-understanding-and-meaning`). **Resolution**: Removed the second entry, keeping the "epistemic cognition" framing which aligns with the in-body reference at the Wegener passage.
 
 ### Medium Issues Found
 - None new. Length remains in soft_warning at 3,483 words (116% of 3,000 target). Justified by scope (coalesced from three articles); previous reviews accepted this overage.

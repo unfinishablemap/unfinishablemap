@@ -34,11 +34,11 @@ None. All six adversarial personas applied. Attribution accuracy check passed on
 
 Three medium issues identified from the quantum Darwinism cross-review:
 
-1. **Missing post-decoherence selection concept link** — The CSL-IIT section described consciousness modulating "an already-occurring physical process" without naming or linking the now-defined concept. **Resolution**: Added `[post-decoherence-selection](/concepts/post-decoherence-selection/)` link inline.
+1. **Missing post-decoherence selection concept link** — The CSL-IIT section described consciousness modulating "an already-occurring physical process" without naming or linking the now-defined concept. **Resolution**: Added `[[post-decoherence-selection]]` link inline.
 
 2. **Decoherence divide lacked quantum Darwinism framing** — The "What the Comparison Reveals" section's decoherence divide paragraph didn't reference einselection or pointer states as the shared framework underlying all four mechanisms. **Resolution**: Added sentence noting quantum Darwinism's role in preparing pointer states and sharpening the pre/post-decoherence distinction.
 
-3. **Missing cross-links** — No links to `[quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/)` or `[post-decoherence-selection](/concepts/post-decoherence-selection/)` despite direct relevance. **Resolution**: Added both to Further Reading and frontmatter.
+3. **Missing cross-links** — No links to `[[quantum-darwinism-and-consciousness]]` or `[[post-decoherence-selection]]` despite direct relevance. **Resolution**: Added both to Further Reading and frontmatter.
 
 ### Counterarguments Considered
 

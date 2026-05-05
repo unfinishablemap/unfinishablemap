@@ -66,7 +66,7 @@ All prior resolutions remain intact. No new counterarguments arise from the bi-a
 - Added bi-aspectual-ontology to Further Reading (Core framework subsection)
 
 **Frontmatter**:
-- Added `[bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)` to concepts list
+- Added `[[bi-aspectual-ontology]]` to concepts list
 - Updated `ai_modified` timestamp
 - Updated `last_deep_review` timestamp
 

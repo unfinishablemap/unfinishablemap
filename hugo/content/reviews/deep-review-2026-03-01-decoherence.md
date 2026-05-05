@@ -30,7 +30,7 @@ topics: []
    - **Resolution**: Condensed experimental developments section, illusionist challenge, "Relation to the Map's Perspective", and "How the Responses Combine" sections. Trimmed Further Reading from 21 to 12 entries. Reduced from 4030 to 3471 words (-559).
 
 ### Medium Issues Found
-1. **Self-referencing wikilink**: Line 76 had `[decoherence](/concepts/decoherence/)` linking to itself.
+1. **Self-referencing wikilink**: Line 76 had `[[decoherence]]` linking to itself.
    - **Resolution**: Replaced with plain text "Decoherence".
 
 ### Counterarguments Considered

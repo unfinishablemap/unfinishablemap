@@ -830,9 +830,9 @@ Pessimistic review found the filter model as presented accommodates every possib
 
 ### ✓ 2026-04-06: Fix broken wikilinks: epistemological-limits-of-occams-razor → epistemological-limits-occams-razor (11 files)
 - **Type**: refine-draft
-- **Notes**: Gap analysis found 11 content files link to `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` but the actual article slug is `epistemological-limits-occams-razor` (without "of"). Update all wikilinks to the correct slug.
+- **Notes**: Gap analysis found 11 content files link to `[[epistemological-limits-of-occams-razor]]` but the actual article slug is `epistemological-limits-occams-razor` (without "of"). Update all wikilinks to the correct slug.
 - **Output**: Task context:
-Gap analysis found 11 content files link to `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` but the actual article slug is `epistemological-limits-occams-razor` (without "of"). Update all wikilinks to the correct slug.
+Gap analysis found 11 content files link to `[[epistemological-limits-of-occams-razor]]` but the actual article slug is `epistemological-limits-occams-razor` (without "of"). Update all wikilinks to the correct slug.
 
 ### ✓ 2026-04-06: Fix broken wikilinks with trailing backslashes across content files
 - **Type**: refine-draft

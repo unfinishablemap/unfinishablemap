@@ -51,7 +51,7 @@ All checks passed:
 ### Cross-Review: Consistency with Unified Concept and Threat Article
 
 **Against `delegatory-causation.md` (unified concept)**:
-- References `[delegatory-causation](/concepts/delegatory-causation/)` as unified mechanism in concepts list, body, and Further Reading ✓
+- References `[[delegatory-causation]]` as unified mechanism in concepts list, body, and Further Reading ✓
 - Describes two laws consistently (Subset Law*, Delegatory Law) with matching verbatim quotes ✓
 - Preemption mechanism described consistently (major/sergeant analogy in topic; trumping preemption varieties in concept — appropriate division of labor) ✓
 - Default causal profile treatment consistent across both articles ✓
@@ -87,10 +87,10 @@ All six adversarial personas engaged, no new critical issues:
 - Clean routing of Born-rule identification through `delegation-meets-quantum-selection`
 
 ### Enhancements Made
-1. Added `[the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)` to Further Reading, completing the cross-link triangle with `delegatory-causation` and `concepts/epiphenomenalism`.
+1. Added `[[the-epiphenomenalist-threat]]` to Further Reading, completing the cross-link triangle with `delegatory-causation` and `concepts/epiphenomenalism`.
 
 ### Cross-links Added
-- `[the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)` in Further Reading
+- `[[the-epiphenomenalist-threat]]` in Further Reading
 
 ## Word Count
 - Before: 3089 words (103% of threshold)

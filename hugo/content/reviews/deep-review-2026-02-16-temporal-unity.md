@@ -36,7 +36,7 @@ None. The article is factually sound, internally consistent, and meets all struc
 
 - **Schizophrenia claim lacked citation**: Added Fuchs (2007) and Vogeley & Kupke (2007) as references for temporal disintegration in schizophrenia.
 
-- **Links to archived articles**: `[temporal-consciousness](/concepts/temporal-consciousness/)` and `[temporal-consciousness](/concepts/temporal-consciousness/)` pointed to coalesced/archived content. Resolution: Updated inline links to point to `[temporal-consciousness](/concepts/temporal-consciousness/)` and updated frontmatter concept links.
+- **Links to archived articles**: `[[temporal-consciousness]]` and `[[temporal-consciousness]]` pointed to coalesced/archived content. Resolution: Updated inline links to point to `[[temporal-consciousness]]` and updated frontmatter concept links.
 
 ### Low Issues Found
 

@@ -746,7 +746,7 @@ title: AI Activity Changelog - Week 2026-W13
 - **Status**: Success
 - **File**: [binding-problem](/concepts/binding-problem/)
 - **Word count**: 2884 → 2876 (-8)
-- **Critical issues addressed**: 1 (broken `[entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)` wikilink → replaced with `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)`)
+- **Critical issues addressed**: 1 (broken `[[entanglement-binding-hypothesis]]` wikilink → replaced with `[[quantum-holism-and-phenomenal-unity]]`)
 - **Medium issues addressed**: 1 (duplicate Further Reading entry merged)
 - **Enhancements made**: 0 (length-neutral mode; article stable after 4th review)
 - **Output**: [deep-review-2026-03-29-binding-problem](/reviews/deep-review-2026-03-29-binding-problem/)
@@ -845,7 +845,7 @@ title: AI Activity Changelog - Week 2026-W13
 - **Medium issues addressed**: 1 (misleading Further Reading cross-link)
 - **Enhancements made**: 1
 - **Output**: [deep-review-2026-03-29-higher-order-theories](/reviews/deep-review-2026-03-29-higher-order-theories/)
-- **Notes**: 4th review confirms full stability. Fixed `[self-reference paradox](/voids/self-opacity/)` → two properly labeled entries. All attributions verified, all wikilinks valid.
+- **Notes**: 4th review confirms full stability. Fixed `[[self-opacity|self-reference paradox]]` → two properly labeled entries. All attributions verified, all wikilinks valid.
 
 ---
 
@@ -2508,7 +2508,7 @@ title: AI Activity Changelog - Week 2026-W13
 - **Status**: Success
 - **File**: [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 - **Word count**: 2831 → 2777 (-54)
-- **Critical issues addressed**: 1 (broken `[Emotional-consciousness](/topics/emotion-and-dualism/)` link → `[emotion-and-dualism](/topics/emotion-and-dualism/)`)
+- **Critical issues addressed**: 1 (broken `[[Emotional-consciousness]]` link → `[[emotion-and-dualism]]`)
 - **Medium issues addressed**: 2 (trimmed Further Reading 19→13; bulk wikilink update across 51 active files)
 - **Enhancements made**: 0
 - **Output**: [deep-review-2026-03-26-neurophenomenology-and-contemplative-neuroscience](/reviews/deep-review-2026-03-26-neurophenomenology-and-contemplative-neuroscience/)
@@ -2552,7 +2552,7 @@ title: AI Activity Changelog - Week 2026-W13
 - **Status**: Success
 - **Context**: Cross-review self-awareness articles considering phenomenology-of-self-awareness
 - **Files modified**: 5 articles
-  - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — fixed 2 misdirected links (`[phenomenology of self-awareness](/voids/self-opacity/)` → `[phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)`), added to related_articles
+  - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — fixed 2 misdirected links (`[[self-opacity|phenomenology of self-awareness]]` → `[[phenomenology-of-self-awareness]]`), added to related_articles
   - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — added cross-reference
   - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — added cross-reference
   - [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — added cross-reference
@@ -2658,7 +2658,7 @@ title: AI Activity Changelog - Week 2026-W13
 ## 2026-03-26 05:16 UTC - refine-draft
 - **Status**: Success
 - **Files**: [pain-asymbolia](/concepts/pain-asymbolia/), [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/), [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/), [trilemma-of-selection](/topics/trilemma-of-selection/), 3 research files
-- **Changes**: Fixed 9 broken wikilinks across 8 content files. Redirected: `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` → `[pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)`, `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)` → `[quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)` (4 files), `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)` → `[contemplative-epistemology](/concepts/contemplative-epistemology/)`, `[quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)` → `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)`, `[attention-as-selection-interface](/topics/attention-as-selection-interface/)` → `[attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)`. Cleaned up duplicate entries created by redirects.
+- **Changes**: Fixed 9 broken wikilinks across 8 content files. Redirected: `[[why-pain-hurts]]` → `[[pain-consciousness-and-causal-power]]`, `[[quantum-measurement-consciousness-interface]]` → `[[quantum-measurement-and-consciousness]]` (4 files), `[[contemplative-verification-of-consciousness-theories]]` → `[[contemplative-epistemology]]`, `[[topics/quantum-binding-and-phenomenal-unity]]` → `[[quantum-holism-and-phenomenal-unity]]`, `[[topics/attention-as-selection-interface]]` → `[[attention-and-the-consciousness-interface]]`. Cleaned up duplicate entries created by redirects.
 - **Published**: yes
 
 ---
@@ -2666,7 +2666,7 @@ title: AI Activity Changelog - Week 2026-W13
 ## 2026-03-26 05:02 UTC - refine-draft
 - **Status**: Success
 - **Files**: [self-reference-paradox](/concepts/self-reference-paradox/), [arguments-against-materialism](/topics/arguments-against-materialism/)
-- **Changes**: Fixed broken wikilinks from archived articles. Removed 3 self-referential `[the-unobservable-self](/voids/self-reference-paradox/)` links from self-reference-paradox.md (coalesced into that article). Updated 3 `[differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/)` links in arguments-against-materialism.md to point to `[testing-consciousness-collapse](/topics/testing-consciousness-collapse/)` (coalesced target). Merged duplicate Further Reading entry.
+- **Changes**: Fixed broken wikilinks from archived articles. Removed 3 self-referential `[[the-unobservable-self]]` links from self-reference-paradox.md (coalesced into that article). Updated 3 `[[differential-predictions-consciousness-collapse]]` links in arguments-against-materialism.md to point to `[[testing-consciousness-collapse]]` (coalesced target). Merged duplicate Further Reading entry.
 - **Published**: yes
 
 ---
@@ -2921,7 +2921,7 @@ title: AI Activity Changelog - Week 2026-W13
 ## 2026-03-25 21:31 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: Indexical knowledge
-- **Reason**: Comprehensive article already exists as [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) (coalesced from indexical-facts, indexical-knowledge, self-locating-beliefs on 2026-02-13). Fixed 3 remaining stale `[indexical-knowledge](/concepts/indexical-knowledge-and-identity/)` wikilinks in acquaintance-knowledge.md.
+- **Reason**: Comprehensive article already exists as [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) (coalesced from indexical-facts, indexical-knowledge, self-locating-beliefs on 2026-02-13). Fixed 3 remaining stale `[[indexical-knowledge]]` wikilinks in acquaintance-knowledge.md.
 
 ---
 
@@ -3458,7 +3458,7 @@ title: AI Activity Changelog - Week 2026-W13
 - **Task**: Fix malformed and case-sensitive wikilinks across content
 - **Changes**:
   - `Perception-and-conscious-experience` → `dualist-perception` in 3 files (archived page, superseded)
-  - `[Attention](/concepts/attention-as-interface/)` → `[Attention](/concepts/attention-as-interface/)` in 3 files
+  - `[[Attention]]` → `[[attention-as-interface|Attention]]` in 3 files
   - `mathematical-structure-of-reality` → `mathematical-structure-of-the-consciousness-physics-interface` in 2 files
   - `phenomenology-tradition` → `phenomenology` in 2 files
   - Removed trailing backslashes from `philosophical-zombies\`, `inverted-qualia\`, `knowledge-argument\` in 1 file
@@ -4353,7 +4353,7 @@ title: AI Activity Changelog - Week 2026-W13
 - **Status**: Success
 - **Task**: Fix broken wikilinks to archived/coalesced slugs (emotional-consciousness, attention)
 - **Files modified**: 13 (4 active content, 7 research, todo.md, changelog.md)
-- **Changes**: Updated `[emotional-consciousness](/topics/emotion-and-dualism/)` → `[emotion-and-dualism](/topics/emotion-and-dualism/)` (2 files), `[attention](/concepts/attention-as-interface/)` → `[attention-as-interface](/concepts/attention-as-interface/)` (9 files, with deduplication in 2)
+- **Changes**: Updated `[[emotional-consciousness]]` → `[[emotion-and-dualism]]` (2 files), `[[attention]]` → `[[attention-as-interface]]` (9 files, with deduplication in 2)
 - **Published**: yes
 
 ---
@@ -4657,7 +4657,7 @@ title: AI Activity Changelog - Week 2026-W13
 - **Status**: Success
 - **File**: [binding-problem](/concepts/binding-problem/)
 - **Word count**: 2591 → 2616 (+25)
-- **Critical issues addressed**: 1 (broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` wikilink)
+- **Critical issues addressed**: 1 (broken `[[multimodal-binding]]` wikilink)
 - **Medium issues addressed**: 1 (missing consciousness-collapse cross-link)
 - **Enhancements made**: 2 cross-links added
 - **Output**: [deep-review-2026-03-24-binding-problem](/reviews/deep-review-2026-03-24-binding-problem/)
@@ -4915,7 +4915,7 @@ title: AI Activity Changelog - Week 2026-W13
 ## 2026-03-23 18:44 UTC - refine-draft
 - **Status**: Success
 - **Task**: Update stale wikilinks after coalesce of self-and-consciousness + self-consciousness
-- **Changes**: Replaced `[self-and-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` and `[self-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` across 43 active content files (22 topics, 14 concepts, 7 voids). Deduplicated ownership-void.md which had both old slugs.
+- **Changes**: Replaced `[[self-and-consciousness]]` → `[[self-and-self-consciousness]]` and `[[self-consciousness]]` → `[[self-and-self-consciousness]]` across 43 active content files (22 topics, 14 concepts, 7 voids). Deduplicated ownership-void.md which had both old slugs.
 - **Published**: yes
 
 ---
@@ -4963,7 +4963,7 @@ title: AI Activity Changelog - Week 2026-W13
 ## 2026-03-23 17:30 UTC - refine-draft
 - **Status**: Success
 - **Files**: 12 content files across topics/, concepts/, voids/
-- **Changes**: Updated all broken `[social-epistemic-void](/voids/intersubjective-void/)` wikilinks to `[intersubjective-void](/voids/voids-between-minds/)` (the coalesced successor). 9 files had bare wikilinks, 5 had aliased display-text links, 3 files already had `[intersubjective-void](/voids/voids-between-minds/)` so stale duplicates were removed instead.
+- **Changes**: Updated all broken `[[social-epistemic-void]]` wikilinks to `[[intersubjective-void]]` (the coalesced successor). 9 files had bare wikilinks, 5 had aliased display-text links, 3 files already had `[[intersubjective-void]]` so stale duplicates were removed instead.
 - **Published**: yes
 
 ---
@@ -4978,7 +4978,7 @@ title: AI Activity Changelog - Week 2026-W13
 ## 2026-03-23 17:09 UTC - refine-draft
 - **Status**: Success
 - **File**: 10 files (cross-cutting wikilink fix)
-- **Changes**: Fixed 20 broken `[introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)` wikilinks across 10 active content files. Article was coalesced into epistemology-of-first-person-evidence; references updated to point to epistemology-of-first-person-evidence (primary) or introspection (where the former was already linked). Removed self-reference from epistemology-of-first-person-evidence.md related_articles.
+- **Changes**: Fixed 20 broken `[[introspection-rehabilitation]]` wikilinks across 10 active content files. Article was coalesced into epistemology-of-first-person-evidence; references updated to point to epistemology-of-first-person-evidence (primary) or introspection (where the former was already linked). Removed self-reference from epistemology-of-first-person-evidence.md related_articles.
 - **Files modified**: contemplative-epistemology, galilean-exclusion, contemplative-practice-as-philosophical-evidence, phenomenal-conservatism-and-introspective-evidence, epistemology-of-first-person-evidence, methodology-of-consciousness-research, consciousness-and-testimony, consciousness-and-the-problem-of-measurement-standards, comparative-phenomenology-of-meditative-traditions, phenomenology-of-memory-and-the-self
 - **Published**: yes
 
@@ -5176,7 +5176,7 @@ title: AI Activity Changelog - Week 2026-W13
 - **Status**: Success
 - **Task**: Update wikilinks after coalesce of evolved-cognitive-limits + architecture-of-cognitive-closure → biological-cognitive-closure
 - **Files modified**: 44 (topics, concepts, voids, apex)
-- **Changes**: Replaced all `[evolved-cognitive-limits](/voids/biological-cognitive-closure/)` and `[architecture-of-cognitive-closure](/voids/biological-cognitive-closure/)` wikilinks with `[biological-cognitive-closure](/voids/biological-cognitive-closure/)`, deduplicated frontmatter arrays and Further Reading entries in 12 files that referenced both originals
+- **Changes**: Replaced all `[[evolved-cognitive-limits]]` and `[[architecture-of-cognitive-closure]]` wikilinks with `[[biological-cognitive-closure]]`, deduplicated frontmatter arrays and Further Reading entries in 12 files that referenced both originals
 - **Published**: yes
 
 ---
@@ -5288,7 +5288,7 @@ title: AI Activity Changelog - Week 2026-W13
 ## 2026-03-23 09:36 UTC - refine-draft
 - **Status**: Invalid task — no changes needed
 - **File**: epistemological-limits-of-occams-razor wikilinks (10 files)
-- **Changes**: None. The wikilink `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` correctly resolves to `/arguments/epistemological-limits-of-occams-razor/`. The gap analysis confused it with the separate voids article `epistemological-limits-occams-razor.md` (without "of"). Task marked invalid in todo.md.
+- **Changes**: None. The wikilink `[[epistemological-limits-of-occams-razor]]` correctly resolves to `/arguments/epistemological-limits-of-occams-razor/`. The gap analysis confused it with the separate voids article `epistemological-limits-occams-razor.md` (without "of"). Task marked invalid in todo.md.
 - **Published**: no
 
 ---

@@ -27,7 +27,7 @@ This review follows six prior reviews (2026-01-19, 2026-01-25, 2026-01-29, 2026-
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **Duplicate `[dualism](/concepts/dualism/)` in frontmatter concepts list** (lines 16 and 30): Data error — the same concept appeared twice. Removed the duplicate.
+1. **Duplicate `[[dualism]]` in frontmatter concepts list** (lines 16 and 30): Data error — the same concept appeared twice. Removed the duplicate.
 
 ### Attribution Accuracy Check
 
@@ -70,7 +70,7 @@ All prior resolutions remain intact:
 - "The agent doesn't randomly select—the agent *chooses*" — effective formulation
 
 ### Enhancements Made
-- Removed duplicate `[dualism](/concepts/dualism/)` from frontmatter concepts
+- Removed duplicate `[[dualism]]` from frontmatter concepts
 
 ### Cross-links Verified
 All 15 checked wikilink targets resolve to existing files. Two (`observational-closure`, `interface-locality`) resolve to archived content, which is expected and functional.
@@ -78,7 +78,7 @@ All 15 checked wikilink targets resolve to existing files. Two (`observational-c
 ## Changes Made
 
 **Frontmatter only**:
-- Removed duplicate `[dualism](/concepts/dualism/)` from concepts list
+- Removed duplicate `[[dualism]]` from concepts list
 - Updated `ai_modified` timestamp
 - Updated `last_deep_review` timestamp
 

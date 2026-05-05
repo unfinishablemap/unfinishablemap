@@ -67,7 +67,7 @@ All bedrock disagreements noted in prior reviews remain in effect and are NOT re
 - Substantive tenet connections in "Relation to Site Perspective"
 
 ### Enhancements Made
-None beyond the critical fix. The article already incorporates both prior reviews' enhancements (inline `[pragmatism](/concepts/pragmatism/)` link, the "What Would Challenge" section, cross-links from the bridge article to seven related pieces).
+None beyond the critical fix. The article already incorporates both prior reviews' enhancements (inline `[[pragmatism]]` link, the "What Would Challenge" section, cross-links from the bridge article to seven related pieces).
 
 ### Cross-links
 Already extensive. No additions needed — adding more would push the article further over its soft threshold.

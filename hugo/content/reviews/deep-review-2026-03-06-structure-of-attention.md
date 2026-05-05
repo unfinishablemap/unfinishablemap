@@ -28,9 +28,9 @@ None. The article has stabilized well since the previous review.
 
 ### Medium Issues Found
 
-1. **Broken link to `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)`**: Referenced on two lines but the article does not exist. **Resolution**: Removed both references. The remaining content stands without them.
+1. **Broken link to `[[attention-interface-mechanisms]]`**: Referenced on two lines but the article does not exist. **Resolution**: Removed both references. The remaining content stands without them.
 
-2. **Redundant Further Reading entries**: Three separate entries pointed to `[attention-as-interface](/concepts/attention-as-interface/)` with different display text, creating confusion. **Resolution**: Consolidated to a single entry.
+2. **Redundant Further Reading entries**: Three separate entries pointed to `[[attention-as-interface]]` with different display text, creating confusion. **Resolution**: Consolidated to a single entry.
 
 3. **Rizzolatti uncited**: Line 108 mentioned "Giacomo Rizzolatti's premotor theory of attention" without a reference. **Resolution**: Added Rizzolatti et al. (1987) to References section.
 
@@ -57,7 +57,7 @@ All six adversarial personas engaged. No new counterarguments beyond those alrea
 
 ### Enhancements Made
 
-- Removed broken links to non-existent `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)`
+- Removed broken links to non-existent `[[attention-interface-mechanisms]]`
 - Consolidated redundant Further Reading entries (3 → 1 for attention-as-interface)
 - Added Rizzolatti et al. (1987) reference for premotor theory of attention
 - Cleaned up awkward phrasing in Neural Architecture section

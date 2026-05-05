@@ -28,7 +28,7 @@ Six adversarial philosopher personas engaged. Per stability notes carried from p
 
 ### Critical Issues Found
 
-1. **Stale wikilink to archived sibling**: Line 112 carried `[The Distraction Void](/voids/transit-void/)`, but `obsidian/voids/distraction-void.md` was archived 2026-04-27 via `/coalesce`, merged into `transit-void.md`. A section index pointing to an archived sibling is a navigation/integrity flaw — the archive page exists for external-URL preservation, not for in-vault navigation.
+1. **Stale wikilink to archived sibling**: Line 112 carried `[[distraction-void|The Distraction Void]]`, but `obsidian/voids/distraction-void.md` was archived 2026-04-27 via `/coalesce`, merged into `transit-void.md`. A section index pointing to an archived sibling is a navigation/integrity flaw — the archive page exists for external-URL preservation, not for in-vault navigation.
    - **Resolution**: Removed the distraction-void index entry. Extended the adjacent transit-void entry to incorporate the attentional-capture face the merged article now carries: "Why consciousness cannot witness its own crossings: neither the onset of a mental act, nor the transition between states, nor the moment attention is captured (coalesced with distraction-void 2026-04-27)." Wording mirrors transit-void's own current description, so the index stays faithful to the source.
 
 ### Medium Issues Found

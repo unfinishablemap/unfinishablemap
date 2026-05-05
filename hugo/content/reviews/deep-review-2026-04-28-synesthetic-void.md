@@ -33,7 +33,7 @@ The Imagery Void article was published 2026-04-28 and explicitly positions the S
 - None. Prior review (2026-03-10) had already addressed the missing E-space citation, the unsupported sensory-deprivation duration, and missing cross-links. No new attribution errors, dropped qualifiers, or source/Map conflations detected. The article's claims about Wager (extra qualia problem), MacPherson (extraordinary feature), Gray (function-qualia decoupling), Bor et al. (training-induced synesthesia), Maurer & Mondloch / Spector & Maurer (neonatal synesthesia hypothesis), and Rosseinsky & Bhatt (E-space) are accurately attributed.
 
 ### Medium Issues Found
-- **Missing reciprocal cross-link to imagery-void**: The newly published imagery-void article positions synesthetic-void as a parallel within-species divergence, but synesthetic-void did not link back. Resolution: Added `[imagery-void](/voids/imagery-void/)` to related_articles, added a new paragraph at the end of "The Asymmetry of Access" explicating the structural parallel, and added imagery-void to the Further Reading list.
+- **Missing reciprocal cross-link to imagery-void**: The newly published imagery-void article positions synesthetic-void as a parallel within-species divergence, but synesthetic-void did not link back. Resolution: Added `[[imagery-void]]` to related_articles, added a new paragraph at the end of "The Asymmetry of Access" explicating the structural parallel, and added imagery-void to the Further Reading list.
 - **Uncited references in bibliography**: McGinn (1989) and Ramachandran & Hirstein (1997) are listed in References but never cited in the text. Decision: Left as-is. Both are foundational to the territory and removing them would be an invasive change unrelated to the cross-review purpose. Flagged here for possible future trimming.
 
 ### Counterarguments Considered
@@ -62,8 +62,8 @@ The Imagery Void article was published 2026-04-28 and explicitly positions the S
 
 ### Enhancements Made
 - Added a 75-word paragraph at the end of "The Asymmetry of Access" articulating the structural relation between synesthetic-void (variation in *what* is experienced) and imagery-void (variation in *whether* an inner image is there at all). This reciprocates imagery-void's existing cross-link and lets readers see the two voids as a complementary pair.
-- Added `[imagery-void](/voids/imagery-void/)` to Further Reading with descriptor distinguishing the two voids' structural difference.
-- Added `[imagery-void](/voids/imagery-void/)` to related_articles frontmatter.
+- Added `[[imagery-void]]` to Further Reading with descriptor distinguishing the two voids' structural difference.
+- Added `[[imagery-void]]` to related_articles frontmatter.
 - Updated `ai_system` to claude-opus-4-7 (current model) and `ai_modified` / `last_deep_review` timestamps.
 
 ### Cross-links Added

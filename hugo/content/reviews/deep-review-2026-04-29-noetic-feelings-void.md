@@ -89,9 +89,9 @@ The new triadic-positioning sentence is presented as a Map-side architectural cl
 
 ### Cross-links Added
 
-- `[relevance-void](/voids/relevance-void/)` in `related_articles` frontmatter
-- `[relevance-void](/voids/relevance-void/)` in body text (Family of Noetic Feelings paragraph)
-- `[relevance-void](/voids/relevance-void/)` in Further Reading list with descriptor
+- `[[relevance-void]]` in `related_articles` frontmatter
+- `[[relevance-void]]` in body text (Family of Noetic Feelings paragraph)
+- `[[relevance-void]]` in Further Reading list with descriptor
 
 ## Remaining Items
 

@@ -29,7 +29,7 @@ None. All previous critical issues (IEP quote, Churchland misquotation, Holsinge
 ### Medium Issues Found
 
 - **Missing Quine reference**: The Quine ontology-ideology trade-off was cited in the body text but Quine had no entry in the References section. **Resolution**: Added Quine (1951) "Ontology and Ideology" to References.
-- **Missing functionalism wikilink**: "functionalism" mentioned in the syntactic simplicity section without a link despite `obsidian/concepts/functionalism.md` existing. **Resolution**: Added `[functionalism](/concepts/functionalism/)` wikilink.
+- **Missing functionalism wikilink**: "functionalism" mentioned in the syntactic simplicity section without a link despite `obsidian/concepts/functionalism.md` existing. **Resolution**: Added `[[functionalism]]` wikilink.
 
 ### Counterarguments Considered
 
@@ -50,7 +50,7 @@ None. All previous critical issues (IEP quote, Churchland misquotation, Holsinge
 
 ### Enhancements Made
 
-- Added `[functionalism](/concepts/functionalism/)` wikilink in syntactic simplicity section
+- Added `[[functionalism]]` wikilink in syntactic simplicity section
 - Added Quine (1951) to References section
 
 ### Cross-links Added

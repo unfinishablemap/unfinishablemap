@@ -55,11 +55,11 @@ These are maintenance items that do not affect tenet alignment but were identifi
 
 | File | Broken Anchor | Correct Anchor |
 |------|--------------|----------------|
-| [topics/animal-consciousness.md](/topics/animal-consciousness/) | `[tenets](/tenets/#occams-razor)` | `[tenets](/tenets/#occams-limits)` |
-| [topics/consciousness-and-the-philosophy-of-biology.md](/topics/consciousness-evolution-and-biology/) | `[tenets](/tenets/#minimal-interaction)` | `[tenets](/tenets/#minimal-quantum-interaction)` |
-| [topics/consciousness-and-the-problem-of-measurement-standards.md](/topics/consciousness-and-the-problem-of-measurement-standards/) | `[tenets](/tenets/#bidirectional)` | `[tenets](/tenets/#bidirectional-interaction)` |
-| [topics/phenomenal-normativity-environmental-ethics.md](/topics/phenomenal-normativity-environmental-ethics/) | `[tenets](/tenets/#minimal-interaction)` | `[tenets](/tenets/#minimal-quantum-interaction)` |
-| [topics/social-construction-of-self-vs-phenomenal-self.md](/topics/social-construction-of-self-vs-phenomenal-self/) | `[tenets](/tenets/#occams-razor)` | `[tenets](/tenets/#occams-limits)` |
+| [topics/animal-consciousness.md](/topics/animal-consciousness/) | `[[tenets#^occams-razor]]` | `[[tenets#^occams-limits]]` |
+| [topics/consciousness-and-the-philosophy-of-biology.md](/topics/consciousness-evolution-and-biology/) | `[[tenets#^minimal-interaction]]` | `[[tenets#^minimal-quantum-interaction]]` |
+| [topics/consciousness-and-the-problem-of-measurement-standards.md](/topics/consciousness-and-the-problem-of-measurement-standards/) | `[[tenets#^bidirectional]]` | `[[tenets#^bidirectional-interaction]]` |
+| [topics/phenomenal-normativity-environmental-ethics.md](/topics/phenomenal-normativity-environmental-ethics/) | `[[tenets#^minimal-interaction]]` | `[[tenets#^minimal-quantum-interaction]]` |
+| [topics/social-construction-of-self-vs-phenomenal-self.md](/topics/social-construction-of-self-vs-phenomenal-self/) | `[[tenets#^occams-razor]]` | `[[tenets#^occams-limits]]` |
 
 ### AI Refinement Logs Not Yet Removed (22 files)
 

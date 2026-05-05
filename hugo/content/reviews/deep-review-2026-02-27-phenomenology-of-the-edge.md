@@ -67,7 +67,7 @@ The death-void article explores consciousness confronting its own cessation. Key
 Integration kept minimal due to word count constraints (article at 118% of soft threshold). Cross-link added at the taxonomic level rather than developing the philosophical connection in prose.
 
 ### Enhancements Made
-- Added `[death-void](/voids/death-void/)` to related_articles frontmatter
+- Added `[[death-void]]` to related_articles frontmatter
 - Added death-boundary to "Multiple edges exist" section
 - Added death-void to Further Reading
 - Trimmed redundant sentence from "Spontaneous experiences" paragraph (convergence point repeated in next paragraph)

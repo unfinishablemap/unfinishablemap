@@ -66,7 +66,7 @@ All six adversarial personas were applied:
 ### Enhancements Made
 
 1. Balanced the empirical distinguishability section to acknowledge unconfirmed predictions
-2. Added `[free-will](/topics/free-will/)` cross-link—the article discusses mental causation ("consciousness selects among outcomes"), which is directly relevant to free will debates
+2. Added `[[topics/free-will]]` cross-link—the article discusses mental causation ("consciousness selects among outcomes"), which is directly relevant to free will debates
 
 ### Cross-links Added
 

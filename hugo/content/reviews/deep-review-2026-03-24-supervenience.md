@@ -27,7 +27,7 @@ None. All philosopher attributions verified as accurate (Davidson 1970, Hare in 
 
 ### Medium Issues Found
 - **Zombie argument lacked engagement with type-B physicalism**: The original text dismissed physicalist responses with "the burden is on them." Added acknowledgment of the conceivability-possibility gap response and explained why it remains insufficient (no grounding story for the a posteriori necessity). Resolution: applied.
-- **Missing cross-links**: Article discussed materialism and causal powers extensively without linking to existing concept pages. Added `[materialism](/concepts/materialism/)` and `[causal-powers](/concepts/causal-powers/)` in body text, frontmatter, and Further Reading. Resolution: applied.
+- **Missing cross-links**: Article discussed materialism and causal powers extensively without linking to existing concept pages. Added `[[concepts/materialism]]` and `[[causal-powers]]` in body text, frontmatter, and Further Reading. Resolution: applied.
 - **Temperature analogy slightly overconfident**: Softened "Temperature *just is* mean molecular kinetic energy" to "Temperature is reductively identified with mean molecular kinetic energy" — more precise framing that doesn't overclaim about the philosophical status of the identity. Resolution: applied.
 
 ### Counterarguments Considered

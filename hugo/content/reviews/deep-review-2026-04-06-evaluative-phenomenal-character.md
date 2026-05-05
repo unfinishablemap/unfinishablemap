@@ -34,7 +34,7 @@ This article was created by coalescing four separate articles (phenomenal-normat
 - **Hume is-ought bridge too casual**: Original suggested phenomenal normativity "challenges" Hume by "denying phenomenal experiences are purely descriptive"—a non-sequitur in Hume's framework about logical derivation. Resolution: acknowledged the logical point stands while reframing as a premise shift.
 - **Orphan references**: Kriegel 2022 (Phenomenal Grounds of Epistemic Value) and Onof 2008 (Property Dualism, Epistemic Normativity) were never cited in article body. Resolution: removed both.
 - **Description too long**: 214 chars vs 150-160 target. Resolution: shortened to 107 chars.
-- **Frontmatter path inconsistency**: `[phenomenal-value-realism](/topics/phenomenal-value-realism/)` used path prefix unlike all other concept refs. Resolution: normalized to bare slug.
+- **Frontmatter path inconsistency**: `[[topics/phenomenal-value-realism]]` used path prefix unlike all other concept refs. Resolution: normalized to bare slug.
 
 ### Counterarguments Considered
 - All six pessimistic personas engaged. Philosophical disagreements (eliminativist, physicalist, quantum skeptic, MWI, empiricist, Buddhist) are expected given the dualist content and represent bedrock disagreements, not fixable flaws.

@@ -32,7 +32,7 @@ None. All factual claims verified, attributions accurate, no internal contradict
 ### Medium Issues Found
 
 1. **Missing connection to physics-as-disclosure framework**: The newly created `physics-as-disclosure.md` (2026-03-15) explicitly discusses GRW/CSL as examples of the "deficiency" reading — attempts to solve the measurement problem with more physics. The Map uses spontaneous collapse differently: as structural baseline while preserving the disclosed boundary where consciousness operates. This connection was absent.
-   - **Resolution**: Added a paragraph to "Implications for the Map's Framework" reframing the Map's use of spontaneous collapse through the disclosure lens. Added `[physics-as-disclosure](/concepts/physics-as-disclosure/)` and `[bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)` to concepts frontmatter and Further Reading.
+   - **Resolution**: Added a paragraph to "Implications for the Map's Framework" reframing the Map's use of spontaneous collapse through the disclosure lens. Added `[[physics-as-disclosure]]` and `[[bi-aspectual-ontology]]` to concepts frontmatter and Further Reading.
 
 2. **Verbose free will paragraph**: The "Connection to Free Will" paragraph in "Relation to Site Perspective" repeated content available in the free-will and luck-objection articles at unnecessary length.
    - **Resolution**: Tightened from ~95 words to ~70 words while preserving all key claims and cross-links.
@@ -70,8 +70,8 @@ No source/Map conflation found. The new disclosure paragraph explicitly frames t
 ### Enhancements Made
 
 1. Connected "Implications for the Map's Framework" to physics-as-disclosure framework — spontaneous collapse handles the structural side of the disclosed boundary, consciousness handles actuality
-2. Added `[physics-as-disclosure](/concepts/physics-as-disclosure/)` and `[bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)` to concepts frontmatter
-3. Added `[physics-as-disclosure](/concepts/physics-as-disclosure/)` to Further Reading with description
+2. Added `[[physics-as-disclosure]]` and `[[bi-aspectual-ontology]]` to concepts frontmatter
+3. Added `[[physics-as-disclosure]]` to Further Reading with description
 4. Tightened free will paragraph, illusionism response, and tenet list for length neutrality
 
 ### Cross-links Added

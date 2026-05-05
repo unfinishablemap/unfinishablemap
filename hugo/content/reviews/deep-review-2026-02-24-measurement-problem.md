@@ -34,7 +34,7 @@ None. Article remains factually accurate with no misattributions or internal con
    - *Resolution*: Rewrote QBism bullet to specify circularity and added cross-link to [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/).
 
 2. **"What Are Born Probabilities?" section missing phenomenological test** (Issue #2): The section listed three readings of Born probabilities without the sharpest diagnostic: "Can you define Born probabilities without presupposing conscious experiences?" For QBism, no; for objective interpretations, yes. This test is what makes QBism's dependence distinctive.
-   - *Resolution*: Added phenomenological test sentence. Trimmed `[mind-matter-interface](/concepts/mind-matter-interface/)` reference to compensate.
+   - *Resolution*: Added phenomenological test sentence. Trimmed `[[mind-matter-interface]]` reference to compensate.
 
 3. **Missing cross-link to quantum-measurement-and-subjective-probability** (Issue #3): The primary cross-review article was absent from both `related_articles` and Further Reading, despite the article referencing QBism multiple times.
    - *Resolution*: Added to both frontmatter and Further Reading.
@@ -43,9 +43,9 @@ None. Article remains factually accurate with no misattributions or internal con
    - *Resolution*: Merged into a single argument. Changed "None of these arguments" to "Neither argument."
 
 5. **Three wikilinks pointed to archived articles** (Issue #5):
-   - `[consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/)` → `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)`
-   - `[quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/)` → `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)`
-   - `[measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)` → `[the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)`
+   - `[[consciousness-and-quantum-measurement]]` → `[[quantum-measurement-consciousness-interface]]`
+   - `[[quantum-measurement-and-definite-outcomes]]` → `[[quantum-measurement-consciousness-interface]]`
+   - `[[measurement-problem-as-hard-problem]]` → `[[the-measurement-problem-as-philosophical-problem]]`
    - *Resolution*: All updated to active replacements.
 
 ### Counterarguments Considered

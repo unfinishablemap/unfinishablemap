@@ -30,7 +30,7 @@ topics: []
 - **Trace conditioning claim**: "which in mammals requires conscious attention" overstated the scientific consensus. Changed to "is associated with conscious attention." Resolution: applied.
 - **Physicalist strawman risk**: Physicalist ethics characterized as purely "graduated attribution" without acknowledging that some physicalist theories (e.g., Global Workspace Theory) also have threshold-like properties. Added parenthetical acknowledging this. Resolution: applied.
 - **Threshold argument cuts both ways**: The article presented the dualist threshold as expanding moral scope, but a high threshold could narrow it. Added two sentences noting this dual-edged nature. Resolution: applied.
-- **Missing body wikilink**: `[problem-of-other-minds](/concepts/problem-of-other-minds/)` was in frontmatter concepts but never linked in body text. Added wikilink where the concept is discussed. Resolution: applied.
+- **Missing body wikilink**: `[[problem-of-other-minds]]` was in frontmatter concepts but never linked in body text. Added wikilink where the concept is discussed. Resolution: applied.
 
 ### Counterarguments Considered
 - **Dennett/physicalist**: Physicalist accounts can also recognize thresholds — addressed by adding parenthetical acknowledgment
@@ -51,7 +51,7 @@ topics: []
 - Added nuance to physicalist characterization (parenthetical on GWT thresholds)
 - Added dual-edged threshold acknowledgment (intellectual honesty improvement)
 - Qualified empirical claims to match evidence strength
-- Added `[problem-of-other-minds](/concepts/problem-of-other-minds/)` wikilink in body text
+- Added `[[problem-of-other-minds]]` wikilink in body text
 
 ### Cross-links Added
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) (body text wikilink added)

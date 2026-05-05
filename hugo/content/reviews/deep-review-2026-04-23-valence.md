@@ -26,7 +26,7 @@ topics: []
 - None. All prior critical issues (Cleeremans & Tallon-Baudry attribution, Russell & Barrett author order, Smithies date) remain resolved.
 
 ### Medium Issues Found
-- **Duplicate Further Reading entries**: Two entries in Further Reading pointed to the same target file (`evaluative-phenomenal-character`) via different aliases: `[normative phenomenology](/concepts/evaluative-phenomenal-character/)` and `[evaluative qualia](/concepts/evaluative-phenomenal-character/)`. This was a residue of the coalesce that merged `phenomenal-normativity` and `evaluative-qualia` into `evaluative-phenomenal-character`. **Resolution**: Consolidated into a single entry using the canonical name with a description that covers both aspects.
+- **Duplicate Further Reading entries**: Two entries in Further Reading pointed to the same target file (`evaluative-phenomenal-character`) via different aliases: `[[evaluative-phenomenal-character|normative phenomenology]]` and `[[evaluative-phenomenal-character|evaluative qualia]]`. This was a residue of the coalesce that merged `phenomenal-normativity` and `evaluative-qualia` into `evaluative-phenomenal-character`. **Resolution**: Consolidated into a single entry using the canonical name with a description that covers both aspects.
 
 ### Attribution Accuracy Check
 - Russell & Barrett (1999): correct
@@ -56,9 +56,9 @@ topics: []
 
 ### Cross-links Added
 - None needed. Existing wikilinks resolve correctly:
-  - `[evaluative qualia](/concepts/evaluative-phenomenal-character/)` (body) — valid alias
-  - `[valence-and-conscious-selection](/topics/valence-and-conscious-selection/)` — valid
-  - `[invertebrate ethics question](/topics/ethics-of-consciousness-invertebrate-question/)` — valid
+  - `[[evaluative-phenomenal-character|evaluative qualia]]` (body) — valid alias
+  - `[[valence-and-conscious-selection]]` — valid
+  - `[[ethics-of-consciousness-invertebrate-question|invertebrate ethics question]]` — valid
 
 ## Remaining Items
 

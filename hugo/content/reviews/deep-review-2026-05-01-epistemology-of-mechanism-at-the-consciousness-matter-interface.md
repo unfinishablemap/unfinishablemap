@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-None. All wikilinks verified as pointing to existing articles (including `[consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)`, `[the-interface-problem](/topics/the-interface-problem/)`, `[psychophysical-laws](/concepts/psychophysical-laws/)`, `[causal-interface](/voids/causal-interface/)`, `[many-worlds](/concepts/many-worlds/)`, `[contemplative-epistemology](/concepts/contemplative-epistemology/)`, `[explanatory-gap](/concepts/explanatory-gap/)`, and tenet anchors). Attributions accurate; no qualifier drops; no source/Map conflation; no self-contradictions.
+None. All wikilinks verified as pointing to existing articles (including `[[consciousness-defeats-explanation]]`, `[[the-interface-problem]]`, `[[psychophysical-laws]]`, `[[causal-interface]]`, `[[concepts/many-worlds]]`, `[[contemplative-epistemology]]`, `[[explanatory-gap]]`, and tenet anchors). Attributions accurate; no qualifier drops; no source/Map conflation; no self-contradictions.
 
 ### Medium Issues Found
 None. The substantive issues raised in prior reviews — heterophenomenology, MWI dependency, James–Stapp retrospective framing, Tegmark decoherence timescale, Nørretranders bandwidth attribution, Schwartz OCD contested interpretation, and Born rule detection difficulty — all remain properly addressed in the current text.
@@ -58,7 +58,7 @@ None. The substantive issues raised in prior reviews — heterophenomenology, MW
 None. Per the prior review's explicit stability note ("Future reviews should expect few if any critical or medium issues") and the skill's anti-oscillation guidance, no content changes were applied.
 
 ### Cross-links Verified
-All inline wikilinks and Further Reading entries point to existing articles. The recent automated retargeting of `[the-interface-specification-problem](/topics/the-interface-problem/)` and similar links to the unified `[the-interface-problem](/topics/the-interface-problem/)` (commit 7beee9cc6) preserved meaning via pipe-renames; no follow-up needed.
+All inline wikilinks and Further Reading entries point to existing articles. The recent automated retargeting of `[[the-interface-specification-problem]]` and similar links to the unified `[[the-interface-problem]]` (commit 7beee9cc6) preserved meaning via pipe-renames; no follow-up needed.
 
 ## Remaining Items
 

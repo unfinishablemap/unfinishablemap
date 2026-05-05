@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-This is the fourth deep review (and effectively a fresh review). Since the prior review on 2026-03-26, the article was substantively rewritten by `/condense` (commit 160210358, 3659 → 2462 words) and the `[inspection-paradox](/concepts/self-reference-paradox/)` concept was coalesced in (commit 54298e24b). The condensed version introduces new structural elements not present at prior review:
+This is the fourth deep review (and effectively a fresh review). Since the prior review on 2026-03-26, the article was substantively rewritten by `/condense` (commit 160210358, 3659 → 2462 words) and the `[[inspection-paradox]]` concept was coalesced in (commit 54298e24b). The condensed version introduces new structural elements not present at prior review:
 - "The Three Conditions" section (architectural conditions for the paradox)
 - "Weak and Strong Forms" taxonomy
 - Reorganised treatment of the void-catalogue instantiations
@@ -34,7 +34,7 @@ Length is at 98% of the 2500-word soft threshold for `concepts/`, so this review
 
 ### Critical Issues Found
 
-1. **Hume quote word order**: Article rendered the quote as "I can never catch myself at any time without a perception." Hume's original (Treatise I.IV.VI) reads "I never can catch myself at any time without a perception." `[self-opacity](/voids/self-opacity/)` already uses the correct rendering; this article was inconsistent with both the original and the sibling void article.
+1. **Hume quote word order**: Article rendered the quote as "I can never catch myself at any time without a perception." Hume's original (Treatise I.IV.VI) reads "I never can catch myself at any time without a perception." `[[self-opacity]]` already uses the correct rendering; this article was inconsistent with both the original and the sibling void article.
    - **Resolution**: Fixed to match Hume's original word order.
 
 ### Medium Issues Found (Considered, Not Acted On)
@@ -60,7 +60,7 @@ Length is at 98% of the 2500-word soft threshold for `concepts/`, so this review
 - Lucas (1961), "Minds, Machines and Gödel" — accurate
 - Penrose (1989, 1994) — accurate; consistency-objection caveat noted
 - Hofstadter (1979, 2007) — accurate; "different lesson" framing preserves Hofstadter's strange-loops-as-origin reading rather than overstating
-- Lawvere (1969) fixed-point theorem — accurate; QMP extension correctly attributed to the Map's own work via `[self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)`
+- Lawvere (1969) fixed-point theorem — accurate; QMP extension correctly attributed to the Map's own work via `[[self-reference-and-the-limits-of-physical-description]]`
 - Metzinger (2003) — quoted phrase ("transparent...cognitively impenetrable") consistent with *Being No One*
 - Nisbett & Wilson (1977) — accurate
 - Schwitzgebel (2008) — accurate
@@ -86,7 +86,7 @@ No misattributions, dropped qualifiers, overstated positions, or false shared co
 
 ### Enhancements Made
 
-1. Fixed Hume quote word order to match original Treatise text and sibling article `[self-opacity](/voids/self-opacity/)`.
+1. Fixed Hume quote word order to match original Treatise text and sibling article `[[self-opacity]]`.
 
 ### Cross-links Added
 

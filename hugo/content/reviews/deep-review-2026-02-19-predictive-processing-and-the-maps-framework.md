@@ -23,8 +23,8 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken `[attention](/concepts/attention-as-interface/)` link**: Concept file `attention.md` does not exist; 58+ files across vault link to it. Resolution: Changed to `[attention](/concepts/attention-as-interface/)` in body text; removed from frontmatter concepts.
-- **Broken `[phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)` link**: File does not exist; actual file is `surprise-prediction-error-and-consciousness.md`. Resolution: Fixed in frontmatter topics and body text.
+- **Broken `[[attention]]` link**: Concept file `attention.md` does not exist; 58+ files across vault link to it. Resolution: Changed to `[[attention-as-interface|attention]]` in body text; removed from frontmatter concepts.
+- **Broken `[[phenomenology-of-surprise-and-prediction-error]]` link**: File does not exist; actual file is `surprise-prediction-error-and-consciousness.md`. Resolution: Fixed in frontmatter topics and body text.
 - **Unverifiable Seth quote**: "in and of itself makes no claims about subjective experience" could not be verified as a direct quote. Resolution: Removed quotation marks, reframed as paraphrase integrated with the verifiable Hohwy & Seth (2020) quote.
 - **Misattributed "dry goods" quote**: "moderate-sized specimens of dry goods" originates from J.L. Austin (*Sense and Sensibilia*, 1962), not unspecified "critics." Resolution: Properly attributed to Austin with citation added to References.
 - **Missing `last_deep_review` frontmatter field**: Field was absent entirely. Resolution: Added and set to current timestamp.
@@ -32,7 +32,7 @@ topics: []
 ### Medium Issues Found
 - **No meta-problem engagement**: The article's central claim (PP cannot close the consciousness gap) had no engagement with Clark/Friston/Wilkinson's meta-problem response — the strongest PP-internal counter. Resolution: Added a paragraph engaging with the meta-problem argument and explaining why the Map finds it insufficient. Added Clark et al. (2019) to References.
 - **Weather simulation analogy too weak**: PP proponents would note brains differ from weather models in self-modelling, embodiment, active inference, and hierarchical depth. Resolution: Added acknowledgment of these differences while arguing they matter for cognition but not for the processing→experiencing threshold.
-- **Missing cross-links**: No links to `[categorical-surprise](/concepts/categorical-surprise/)`, `[placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)`, or the correct surprise article. Resolution: Added all three with contextually appropriate inline links and Further Reading entries.
+- **Missing cross-links**: No links to `[[categorical-surprise]]`, `[[placebo-effect-and-mental-causation]]`, or the correct surprise article. Resolution: Added all three with contextually appropriate inline links and Further Reading entries.
 - **Superlative "most successful" claim**: Opening sentence claimed PP is "the most successful" framework — contested by GWT, IIT proponents. Resolution: Changed to "one of the most influential."
 - **Thin "subject of prediction" point**: The most important phenomenological argument was compressed into three sentences. Resolution: Expanded with the outside/inside observation distinction.
 - **AI refinement log still present**: HTML comment said "remove after human review" but was still in the file. Resolution: Removed.
@@ -70,8 +70,8 @@ topics: []
 - Added meta-problem engagement paragraph with Clark/Friston/Wilkinson (2019)
 - Strengthened weather simulation analogy by acknowledging PP proponents' response
 - Expanded "subject of prediction" point with outside/inside observation distinction
-- Added `[categorical-surprise](/concepts/categorical-surprise/)` cross-link in surprise paragraph
-- Added `[placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)` in Bidirectional Interaction tenet with empirical grounding
+- Added `[[categorical-surprise]]` cross-link in surprise paragraph
+- Added `[[placebo-effect-and-mental-causation]]` in Bidirectional Interaction tenet with empirical grounding
 - Added 2 new Further Reading entries (categorical-surprise, placebo-effect)
 - Added 2 new references (Austin 1962, Clark/Friston/Wilkinson 2019)
 - Fixed all broken links

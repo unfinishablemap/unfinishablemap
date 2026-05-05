@@ -26,9 +26,9 @@ topics: []
 - **Missing description in frontmatter**: Required for SEO/social per style guide. Resolution: Added description capturing the section's purpose.
 
 ### Medium Issues Found
-- **Ambiguous wikilink**: `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` could resolve to either concepts/ or questions/ versions. Resolution: Added display text to clarify link intent.
+- **Ambiguous wikilink**: `[[concepts/consciousness-selecting-neural-patterns]]` could resolve to either concepts/ or questions/ versions. Resolution: Added display text to clarify link intent.
 - **Section appears underdeveloped**: Only one question listed. Deferred: Expanding section requires creating new discussion pages (out of scope for this review).
-- **No link to tenets**: Opening mentions "foundational tenets" without linking. Resolution: Added `[tenets](/tenets/)` link.
+- **No link to tenets**: Opening mentions "foundational tenets" without linking. Resolution: Added `[[tenets]]` link.
 
 ### Counterarguments Considered
 
@@ -49,14 +49,14 @@ topics: []
 
 ### Enhancements Made
 - Added description to frontmatter
-- Added link to `[tenets](/tenets/)` in opening paragraph
+- Added link to `[[tenets]]` in opening paragraph
 - Clarified wikilink with explicit display text
 - Added `ai_modified` and `last_deep_review` timestamps
 - Added `ai_system` field
 
 ### Cross-links Added
-- `[tenets](/tenets/)` in opening paragraph
-- `[tenets](/tenets/)` in related_articles
+- `[[tenets]]` in opening paragraph
+- `[[tenets]]` in related_articles
 
 ## Remaining Items
 

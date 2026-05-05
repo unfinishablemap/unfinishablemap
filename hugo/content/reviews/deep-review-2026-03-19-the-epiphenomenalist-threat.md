@@ -26,7 +26,7 @@ topics: []
 None. The article has been through one prior deep review (2026-02-22) and a refinement pass (2026-03-18). All previously identified issues have been resolved.
 
 ### Medium Issues Found
-- **Broken wikilink `[psychophysical-coupling](/concepts/psychophysical-laws/)`**: The Further Reading section linked to `[psychophysical-coupling](/concepts/psychophysical-laws/)`, but no obsidian source file exists at that path (the concept was archived and coalesced into `[psychophysical-laws](/concepts/psychophysical-laws/)`). **Resolution**: Updated link to `[psychophysical-laws](/concepts/psychophysical-laws/)`.
+- **Broken wikilink `[[psychophysical-coupling]]`**: The Further Reading section linked to `[[psychophysical-coupling]]`, but no obsidian source file exists at that path (the concept was archived and coalesced into `[[psychophysical-laws]]`). **Resolution**: Updated link to `[[psychophysical-laws]]`.
 - **Stale AI refinement log comment**: An HTML comment at the end of the article noted "This log should be removed after human review." **Resolution**: Removed the comment.
 - **Cross-article decoherence timescale discrepancy** (noted, not changed): This article states corrected decoherence times of "~10⁻⁶ seconds" (microseconds), while the tenets article states "10⁻⁵ to 10⁻⁴ seconds" for the Hagan et al. corrections. Within this article the math is consistent (10⁻⁶ / 10⁻¹³ = 10⁷, matching the "seven orders of magnitude" claim). The discrepancy is cross-article and should be reconciled in a future review of either article by checking against Hagan et al. (2002) directly.
 
@@ -54,7 +54,7 @@ None new. The Kim "not a stable position" paraphrase (flagged as low-priority in
 - **Calibrated closing confidence**: "Whether the specific mechanism is correct is an empirical question. That *some* such mechanism is needed is a philosophical lesson."
 
 ### Enhancements Made
-- Fixed broken `[psychophysical-coupling](/concepts/psychophysical-laws/)` → `[psychophysical-laws](/concepts/psychophysical-laws/)` wikilink
+- Fixed broken `[[psychophysical-coupling]]` → `[[psychophysical-laws]]` wikilink
 - Removed stale AI refinement log comment
 
 ### Cross-links Added

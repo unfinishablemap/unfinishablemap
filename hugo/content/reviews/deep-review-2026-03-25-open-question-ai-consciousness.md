@@ -29,7 +29,7 @@ topics: []
 ### Medium Issues Found
 - **Husserl-Bergson synthesis lost attribution**: The apex-evolve resynthesis dropped the "Map's own construction, not something either Husserl or Bergson proposed" label from the durée/absolute-flow synthesis. Resolution: re-added attribution label.
 - **Incorrect apex_sources path**: `arguments/epiphenomenalism` does not match any file — actual path is `concepts/epiphenomenalism`. Resolution: fixed to `concepts/epiphenomenalism`.
-- **Source Articles display text mismatch**: `[Against Epiphenomenalism](/concepts/epiphenomenalism/)` used the title of the arguments version, not the linked concepts version (titled "Epiphenomenalism"). Resolution: fixed display text to "Epiphenomenalism".
+- **Source Articles display text mismatch**: `[[concepts/epiphenomenalism|Against Epiphenomenalism]]` used the title of the arguments version, not the linked concepts version (titled "Epiphenomenalism"). Resolution: fixed display text to "Epiphenomenalism".
 - **Flow states under "Clinical evidence" header**: Flow states are experiential, not clinical. Resolution: renamed header to "Clinical and experiential evidence."
 
 ### Low Issues Found

@@ -30,7 +30,7 @@ None. Article remains philosophically sound, well-structured, and properly cited
 ### Medium Issues Found
 - **Overly long intro paragraph**: The second paragraph had grown to ~6 sentences after cross-link additions, violating the 1-3 sentence guideline. The cross-links felt tacked on.
   - **Resolution**: Split into two paragraphs. Cross-links now form their own concise paragraph introducing companion articles.
-- **Missing inline concept link**: `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` was in frontmatter concepts but never linked in article body.
+- **Missing inline concept link**: `[[cognitive-phenomenology]]` was in frontmatter concepts but never linked in article body.
   - **Resolution**: Added inline link in the Phenomenology of the Boundary section opener.
 
 ### Low Issues Found

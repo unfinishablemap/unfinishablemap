@@ -28,7 +28,7 @@ None.
 ### Medium Issues Found
 - **Imprecise no-hidden-variables claim**: Original stated Bell/Kochen-Specker "show that quantum mechanics is not missing physical information." This overstates the theorems — Bell rules out local hidden variables, Kochen-Specker rules out noncontextual ones, but nonlocal completions (Bohmian mechanics) remain viable. Rewritten as "Constraints on hidden completions" with accurate scope and acknowledgment of Bohmian mechanics.
 - **Duration argument lacked preemptive response**: The claim that "a century without resolution is unusual" invites the objection that the measurement problem is interpretational, not empirical. Added concrete examples (Mercury's precession, ultraviolet catastrophe, the aether) and a preemptive response explaining why the measurement problem is not purely interpretational.
-- **Missing body cross-links**: `[causal-closure](/concepts/causal-closure/)`, `[spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)`, and `[interactionist-dualism](/concepts/interactionist-dualism/)` appeared in frontmatter concepts but were never linked in the article body. Added natural inline links.
+- **Missing body cross-links**: `[[causal-closure]]`, `[[spontaneous-collapse-theories]]`, and `[[interactionist-dualism]]` appeared in frontmatter concepts but were never linked in the article body. Added natural inline links.
 
 ### Counterarguments Considered
 - Materialist objection that measurement problem persistence reflects interpretational nature rather than ontological boundary — addressed in strengthened duration argument
@@ -48,7 +48,7 @@ None.
 - Clarified *aletheia* with inline gloss for accessibility
 - Strengthened duration argument with concrete examples and preemptive rebuttal
 - Rewrote no-hidden-variables point for accuracy while preserving argumentative force
-- Added cross-links to `[causal-closure](/concepts/causal-closure/)`, `[spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)`, `[interactionist-dualism](/concepts/interactionist-dualism/)`
+- Added cross-links to `[[causal-closure]]`, `[[spontaneous-collapse-theories]]`, `[[interactionist-dualism]]`
 
 ### Cross-links Added
 - [causal-closure](/concepts/causal-closure/) (in "Standard View" section)

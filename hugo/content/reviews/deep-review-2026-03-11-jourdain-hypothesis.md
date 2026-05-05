@@ -24,13 +24,13 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Duplicate `[metacognition](/concepts/metacognition/)` in frontmatter concepts**: Two identical entries at lines 13-14. **Resolution**: Removed duplicate.
+1. **Duplicate `[[metacognition]]` in frontmatter concepts**: Two identical entries at lines 13-14. **Resolution**: Removed duplicate.
 
-2. **Link to archived article `[quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/)`**: This article was archived; the wikilink in the quantum binding paragraph pointed to archived content. **Resolution**: Removed the speculative quantum binding paragraph entirely — it was the weakest part of the social cognition section, venturing into speculative mechanism territory the writing style guide warns against. The dual-structure phenomenology point about unity-of-consciousness was preserved.
+2. **Link to archived article `[[quantum-coherence-and-binding-evidence]]`**: This article was archived; the wikilink in the quantum binding paragraph pointed to archived content. **Resolution**: Removed the speculative quantum binding paragraph entirely — it was the weakest part of the social cognition section, venturing into speculative mechanism territory the writing style guide warns against. The dual-structure phenomenology point about unity-of-consciousness was preserved.
 
 ### Medium Issues Found
 
-1. **Redundant Further Reading entries**: `[metarepresentation](/concepts/metacognition/)` and `[metacognition](/concepts/metacognition/)` both appeared; `[concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/)` and `[consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/)` covered overlapping ground. **Resolution**: Consolidated metacognition entries, removed redundant concept link, added `[theory-of-mind](/concepts/theory-of-mind/)` cross-link.
+1. **Redundant Further Reading entries**: `[[metacognition|metarepresentation]]` and `[[metacognition]]` both appeared; `[[concept-of-consciousness-and-social-cognition]]` and `[[topics/consciousness-and-social-cognition]]` covered overlapping ground. **Resolution**: Consolidated metacognition entries, removed redundant concept link, added `[[theory-of-mind]]` cross-link.
 
 2. **Theory of Mind section redundancy**: "Theory of Mind Limits" subsection under Evidence overlapped substantially with the Social Cognition section immediately following. **Resolution**: Merged — removed the Evidence subsection, letting the more detailed Social Cognition section handle theory of mind levels.
 
@@ -54,7 +54,7 @@ No new counterarguments identified beyond those addressed in the 2026-01-22 revi
 
 ### Enhancements Made
 
-1. **Added `[theory-of-mind](/concepts/theory-of-mind/)` cross-link** in Social Cognition section and Further Reading
+1. **Added `[[theory-of-mind]]` cross-link** in Social Cognition section and Further Reading
 2. **Consolidated Further Reading** — removed duplicates, improved descriptions
 3. **Tightened prose** throughout without losing substance (Contemplative Evidence, Process Philosophy, Shared Intentionality, Moral Agency)
 

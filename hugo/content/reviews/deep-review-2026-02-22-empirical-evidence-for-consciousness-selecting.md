@@ -37,7 +37,7 @@ topics: []
 **Buddhist Philosopher (Nagarjuna):** The article assumes a stable, unified consciousness that "selects"—a reification that Buddhist analysis would challenge. However, this follows from the Map's dualist commitments and is not a flaw within those commitments.
 
 ### Critical Issues Found
-- **Broken concept link** `[attention](/concepts/attention-as-interface/)`: File does not exist. → Fixed to `[attention-as-interface](/concepts/attention-as-interface/)`.
+- **Broken concept link** `[[attention]]`: File does not exist. → Fixed to `[[concepts/attention-as-interface]]`.
 - **Dangling reference** Meister (2024): Listed in References but never cited in text. → Fixed by adding inline citation in the Minimal Quantum Interaction paragraph.
 
 ### Medium Issues Found

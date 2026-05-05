@@ -41,7 +41,7 @@ No self-contradictions, no source/Map conflation, no dropped qualifiers, no over
 
 ### Medium Issues Found
 
-1. **Missing frontmatter concept**: `[panpsychism](/concepts/panpsychism/)` referenced in body (line 110) but absent from frontmatter concepts list.
+1. **Missing frontmatter concept**: `[[panpsychism]]` referenced in body (line 110) but absent from frontmatter concepts list.
    - **Resolution**: Added to frontmatter.
 
 2. **Uncited philosophers in pairing problem section**: Bailey, Rasmussen, Van Horn, and Hasker cited by name in body (line 108) without individual References entries. Robinson (2020) SEP article covers these positions but doesn't serve as a direct citation.
@@ -78,11 +78,11 @@ All six adversarial personas engaged. No new issues beyond what previous reviews
 
 ### Enhancements Made
 
-1. Added `[panpsychism](/concepts/panpsychism/)` to frontmatter concepts
+1. Added `[[panpsychism]]` to frontmatter concepts
 
 ### Cross-links Added
 
-- `[panpsychism](/concepts/panpsychism/)` (frontmatter only — already linked in body)
+- `[[panpsychism]]` (frontmatter only — already linked in body)
 
 ## Remaining Items
 

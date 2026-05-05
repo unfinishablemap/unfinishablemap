@@ -69,7 +69,7 @@ This is a cross-review prompted by the creation of [tacit-integration-void](/voi
 
 ### Cross-links Added
 
-- `[tacit-integration-void](/voids/tacit-integration-void/)` — added in frontmatter related_articles, in body (Within Voids Taxonomy), and Further Reading.
+- `[[tacit-integration-void]]` — added in frontmatter related_articles, in body (Within Voids Taxonomy), and Further Reading.
 
 ## Remaining Items
 

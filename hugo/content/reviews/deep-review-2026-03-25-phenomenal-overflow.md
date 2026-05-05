@@ -27,8 +27,8 @@ topics: []
 None. The article has been reviewed twice previously and the content changes since the last review were purely mechanical (wikilink case normalization, link target update from perception-and-conscious-experience to dualist-perception).
 
 ### Medium Issues Found
-1. **Functionalism wikilink used path prefix** (line 120): `[functionalism](/concepts/functionalism/)` included a path prefix inconsistent with all other wikilinks in the article.
-   - **Resolution**: Changed to `[functionalism](/concepts/functionalism/)`.
+1. **Functionalism wikilink used path prefix** (line 120): `[[concepts/functionalism]]` included a path prefix inconsistent with all other wikilinks in the article.
+   - **Resolution**: Changed to `[[functionalism]]`.
 
 2. **McDowell reference lacked citation**: McDowell's demonstrative concepts response was attributed by name (line 102) but no work was cited in the References section. Per the style guide, attributed claims need verifiable citations.
    - **Resolution**: Added McDowell, J. (1994). *Mind and World*. Harvard University Press.

@@ -31,7 +31,7 @@ topics: []
 - **Lost mysterian engagement from coalescence**: The original arguments-against-materialism article had a dedicated "Mysterian Alternative" subsection within the convergence section—the strongest meta-level challenge to the convergence argument (cognitive closure might explain why multiple arguments seem compelling). The coalesced article listed mysterianism in frontmatter and Further Reading but never engaged with it in the body text. **Resolution**: Added two sentences to the convergence section briefly engaging the mysterian challenge and noting that cognitive closure doesn't favour materialism.
 
 ### Low Issues Found
-- **Duplicate related_article**: `[epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)` appeared twice in frontmatter `related_articles`. **Resolution**: Removed duplicate.
+- **Duplicate related_article**: `[[epistemological-limits-occams-razor]]` appeared twice in frontmatter `related_articles`. **Resolution**: Removed duplicate.
 - Heterophenomenology not discussed in body text (only in frontmatter concepts). Noted in all four previous reviews; minor gap given summary nature of article.
 - Jackson quote ("should be addressed really seriously if you are a physicalist") exact publication source not cited. Consistent with Jackson's known stance; carried forward from previous reviews.
 
@@ -81,7 +81,7 @@ The original arguments-against-materialism article (now archived, coalesced into
 ### Enhancements Made
 - Added mysterian engagement (~40 words) to convergence section, restoring key content from original arguments-against-materialism
 - Trimmed redundant phrases in Core Problem, opening paragraph, and Why Dualism Not Idealism sections (~25 words) for length neutrality
-- Removed duplicate `[epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)` from related_articles
+- Removed duplicate `[[epistemological-limits-occams-razor]]` from related_articles
 
 ### Cross-links Added
 - [mysterianism](/concepts/mysterianism/) (convergence section, body text engagement)

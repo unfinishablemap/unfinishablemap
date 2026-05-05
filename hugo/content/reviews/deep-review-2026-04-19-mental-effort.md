@@ -65,7 +65,7 @@ No misattribution or source/Map conflation.
 
 ### Enhancements Made
 
-1. Added `[the-ten-bit-ceiling](/topics/the-ten-bit-ceiling/)` to frontmatter topics
+1. Added `[[topics/the-ten-bit-ceiling]]` to frontmatter topics
 2. Refined the bandwidth sentence to accurately reflect conscious-vs-unconscious throughput and cite Sauerbrei-Pruszynski
 3. Added prose noting the narrowing sits "where consciousness participates, not in the neural hardware around it"—a one-sentence distillation of the interface argument from the ten-bit-ceiling article
 4. Added Further Reading entry for the ten-bit-ceiling article
@@ -75,7 +75,7 @@ No misattribution or source/Map conflation.
 
 ### Cross-links Added
 
-- `[the-ten-bit-ceiling](/topics/the-ten-bit-ceiling/)` (frontmatter + inline + Further Reading)
+- `[[topics/the-ten-bit-ceiling]]` (frontmatter + inline + Further Reading)
 
 ## Remaining Items
 

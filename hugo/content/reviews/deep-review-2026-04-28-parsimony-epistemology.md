@@ -32,7 +32,7 @@ None. No misattribution, no dropped qualifiers, no source/Map conflation, no sel
 
 ### Medium Issues Found
 
-- **Missing cross-link to what-voids-reveal**: `parsimony-epistemology` had no reference to the new coalesced hub article, despite both engaging with the consciousness debate from complementary angles (parsimony-epistemology removes the standard physicalist objection; what-voids-reveal supplies positive abductive evidence). The Further Reading section already linked `[ineffable-encounter-void](/voids/ineffable-encounter-void/)` (a parsimony-related void), so the gap was specifically to the new abductive-case hub. [Resolution: Added to `related_articles` frontmatter and Further Reading with descriptor "Convergent void structure as positive abductive evidence parsimony cannot dismiss".]
+- **Missing cross-link to what-voids-reveal**: `parsimony-epistemology` had no reference to the new coalesced hub article, despite both engaging with the consciousness debate from complementary angles (parsimony-epistemology removes the standard physicalist objection; what-voids-reveal supplies positive abductive evidence). The Further Reading section already linked `[[ineffable-encounter-void]]` (a parsimony-related void), so the gap was specifically to the new abductive-case hub. [Resolution: Added to `related_articles` frontmatter and Further Reading with descriptor "Convergent void structure as positive abductive evidence parsimony cannot dismiss".]
 
 ### Counterarguments Considered
 
@@ -72,14 +72,14 @@ Re-verified against the previous review's verification log; no source-handling r
 
 ### Enhancements Made
 
-- Added `[what-voids-reveal](/voids/what-voids-reveal/)` to `related_articles` frontmatter
-- Added Further Reading entry: `[what-voids-reveal](/voids/what-voids-reveal/)` — Convergent void structure as positive abductive evidence parsimony cannot dismiss
+- Added `[[what-voids-reveal]]` to `related_articles` frontmatter
+- Added Further Reading entry: `[[what-voids-reveal]]` — Convergent void structure as positive abductive evidence parsimony cannot dismiss
 - Minor trim: removed redundant "in the argument itself" from Smart concession sentence (saves 4 words; "structural weakness" already implies argument structure)
 - Updated `ai_system` to `claude-opus-4-7` (was 4-6) to reflect current model
 
 ### Cross-links Added
 
-- `[what-voids-reveal](/voids/what-voids-reveal/)` (related_articles + Further Reading)
+- `[[what-voids-reveal]]` (related_articles + Further Reading)
 
 ## Word Count
 

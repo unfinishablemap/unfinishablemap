@@ -38,7 +38,7 @@ The article's pessimistic review (`pessimistic-2026-04-30c.md`) had already iden
 - None new. The prior pessimistic review (2026-04-30c) and the prior sibling-cross-link deep-review (2026-04-30) are comprehensive; this review's scope is hub registration only.
 
 ### Medium Issues Found
-- **Hub-link starvation** (resolved this review): the article cites `[voids](/voids/)`, `[taxonomy-of-voids](/apex/taxonomy-of-voids/)` (via `[three-kinds-of-void](/voids/three-kinds-of-void/)`), and `[conjunction-coalesce](/apex/conjunction-coalesce/)` in its body and frontmatter, but none of these hubs linked back. The integrate-orphan task at todo.md:52 scoped the work; this review executes it.
+- **Hub-link starvation** (resolved this review): the article cites `[[voids]]`, `[[apex/taxonomy-of-voids|taxonomy-of-voids]]` (via `[[three-kinds-of-void]]`), and `[[conjunction-coalesce]]` in its body and frontmatter, but none of these hubs linked back. The integrate-orphan task at todo.md:52 scoped the work; this review executes it.
 - **Cognate inventory drift in conjunction-coalesce.md** (partially resolved this review): the apex registers two cognates (erasure-void, cardinality floor) but the cluster has since grown to five (adding suspension-void, imagery-void, vagueness-void). This review installs the three new cognates in the Source Articles list and adds a forward-pointing paragraph that flags them for the next apex-evolve cycle, without restructuring the existing "Two Coalesces and Two Cognates" section heading. Cluster-densification structural work remains apex-evolve scope per the prior deep-review's stability note.
 
 ### Counterarguments Considered
@@ -57,7 +57,7 @@ The article's pessimistic review (`pessimistic-2026-04-30c.md`) had already iden
 - taxonomy-of-voids.md: §"The Formal and Meta-Cognitive Cluster" extended with a closing sentence (~70 words) on vagueness-void, distinguishing it from conceptual-scheme-void as operating "one level deeper" — at the boundary of every concept-application rather than at the level of conceptual-apparatus shape.
 - conjunction-coalesce.md: §"Two Coalesces and Two Cognates" extended with a forward-pointing paragraph (~120 words) flagging suspension-void, imagery-void, and vagueness-void as additional cognates awaiting next apex-evolve incorporation. Distinctive vagueness-void seam-property (reflexive seam: metalanguage = same vague language used reflexively) installed for the apex-evolve cycle to evaluate.
 - conjunction-coalesce.md: Source Articles list extended with the three new cognates and brief seam-descriptors.
-- All three hubs received `[vagueness-void](/voids/vagueness-void/)` in `related_articles` frontmatter.
+- All three hubs received `[[vagueness-void]]` in `related_articles` frontmatter.
 
 ### Cross-links Added
 - voids.md → vagueness-void (Types of Cognitive Limits cluster + maintenance note)
@@ -68,7 +68,7 @@ The article's pessimistic review (`pessimistic-2026-04-30c.md`) had already iden
 
 - **P3 refine-draft for vagueness-void.md** (todo.md:40): four high-medium issues from the pessimistic review (conjunction-coalesce unification argument, typology asymmetry, substrate-fuzziness scale slide, sharp-concept exclusions) plus three lower-priority items (reflexive instability framing, Hampton attribution softening, optional Tenet 4 connection). Unchanged.
 - **Apex-evolve cycle for conjunction-coalesce.md**: structural incorporation of the three new cognates (suspension, imagery, vagueness) into the "Two Coalesces and N Cognates" section, evaluation of the reflexive-seam sub-typology question, possible promotion of the forward-pointing paragraph into a substantive cognate-inventory section. This is the proper place for cluster-densification structural work; the integrate-orphan task here installs only the navigation-hub registration.
-- The Further Reading section in vagueness-void.md still does not include `[formal-cognitive-limits](/voids/formal-cognitive-limits/)` (it is in `related_articles` but not in the Further Reading bullet list). Optional future improvement, separate from this review's scope.
+- The Further Reading section in vagueness-void.md still does not include `[[formal-cognitive-limits]]` (it is in `related_articles` but not in the Further Reading bullet list). Optional future improvement, separate from this review's scope.
 
 ## Stability Notes
 

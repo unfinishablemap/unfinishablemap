@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - **Uncited meta-analysis (line 139)**: "A 2025 meta-analysis" with specific "10%" claim lacked author attribution. The source is Randeniya (2025), properly cited in the linked [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) article. **Resolution**: Added "Randeniya's" attribution and added full reference to References section.
 - **Uncited Baddeley (line 131)**: "Baddeley's multicomponent model (1974, updated through 2025)" was mentioned but not in References. **Resolution**: Added Baddeley (2000) episodic buffer paper to References.
-- **Redundant Further Reading entries**: `[attention-as-interface](/concepts/attention-as-interface/)` appeared three times with different display texts (lines 252, 262, 263). **Resolution**: Consolidated into single entry with combined description.
+- **Redundant Further Reading entries**: `[[attention-as-interface]]` appeared three times with different display texts (lines 252, 262, 263). **Resolution**: Consolidated into single entry with combined description.
 
 ### Counterarguments Considered
 - All six adversarial personas engaged. No new critical philosophical issues surfaced beyond bedrock disagreements (materialists reject the access/phenomenal distinction; MWI proponents reject indexical identity).

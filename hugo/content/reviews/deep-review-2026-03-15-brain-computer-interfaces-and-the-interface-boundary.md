@@ -26,9 +26,9 @@ topics: []
 - None
 
 ### Medium Issues Found
-- Frontmatter listed `[psychophysical-coupling](/concepts/psychophysical-laws/)` as a concept — no concept page exists (only research notes). Replaced with `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` which is directly relevant and exists.
+- Frontmatter listed `[[psychophysical-coupling]]` as a concept — no concept page exists (only research notes). Replaced with `[[consciousness-selecting-neural-patterns]]` which is directly relevant and exists.
 - No Many Worlds tenet (tenet 4) was not addressed in Relation to Site Perspective — only 4 of 5 tenets covered. Added MWI connection focusing on how indexical identity makes BCI control meaningful.
-- Missing cross-link to `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` in body text. Added at the key passage about consciousness selecting among neural patterns.
+- Missing cross-link to `[[consciousness-selecting-neural-patterns]]` in body text. Added at the key passage about consciousness selecting among neural patterns.
 - Andy Clark extended mind engagement was somewhat dismissive. Expanded to give Clark's position a fairer hearing before distinguishing computational from phenomenal extension.
 
 ### Counterarguments Considered
@@ -47,7 +47,7 @@ topics: []
 
 ### Enhancements Made
 - Added No Many Worlds tenet connection to complete all five tenet engagements
-- Added `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` cross-link at the key argumentative passage
+- Added `[[consciousness-selecting-neural-patterns]]` cross-link at the key argumentative passage
 - Strengthened Andy Clark engagement to acknowledge functional extension while maintaining the phenomenal distinction
 - Fixed frontmatter concept list (replaced broken link with relevant existing concept)
 

@@ -27,7 +27,7 @@ topics: []
 - None
 
 ### Medium Issues Found
-- **Whitehead subsection lacked inline link to process-philosophy**: The Whitehead subsection mentioned "process philosophy" but used display-text linking (`[process philosophy](/concepts/process-philosophy/)`) which is less discoverable than a direct wikilink. Changed to `[process-philosophy](/concepts/process-philosophy/)` for cleaner cross-reference now that the dedicated article exists.
+- **Whitehead subsection lacked inline link to process-philosophy**: The Whitehead subsection mentioned "process philosophy" but used display-text linking (`[[process-philosophy|process philosophy]]`) which is less discoverable than a direct wikilink. Changed to `[[process-philosophy]]` for cleaner cross-reference now that the dedicated article exists.
 
 ### Counterarguments Considered
 - **Eliminativist challenge**: Previous review noted this is acceptable given tenet commitments—represents bedrock disagreement, not fixable flaw.

@@ -57,7 +57,7 @@ topics: []
 
 ## Reference Update Summary
 
-Updated wikilinks from `[consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/)` and `[consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)` to `[consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)` across 39 active content files:
+Updated wikilinks from `[[consciousness-and-intelligence]]` and `[[consciousness-and-creative-distinctiveness]]` to `[[consciousness-and-cognitive-distinctiveness]]` across 39 active content files:
 - 15 concepts files
 - 18 topics files
 - 3 voids files

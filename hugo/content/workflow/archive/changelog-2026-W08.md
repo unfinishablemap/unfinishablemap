@@ -1062,7 +1062,7 @@ title: AI Activity Changelog - Week 2026-W08
 - **Status**: Success
 - **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
 - **Word count**: 3190 → 3165 (-25)
-- **Critical issues addressed**: 1 (broken `[attention](/concepts/attention-as-interface/)` wikilink)
+- **Critical issues addressed**: 1 (broken `[[attention]]` wikilink)
 - **Medium issues addressed**: 2 (unsupported meditator claim hedged, uncited references removed)
 - **Enhancements made**: 0 (article already in strong shape — first review of coalesced article)
 - **Output**: [deep-review-2026-02-22-surprise-prediction-error-and-consciousness](/reviews/deep-review-2026-02-22-surprise-prediction-error-and-consciousness/)
@@ -1136,7 +1136,7 @@ title: AI Activity Changelog - Week 2026-W08
 - **Status**: Success
 - **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
 - **Word count**: 2227 → 2333 (+106)
-- **Critical issues addressed**: 1 (broken `[voluntary-attention](/concepts/attention-as-interface/)` link)
+- **Critical issues addressed**: 1 (broken `[[voluntary-attention]]` link)
 - **Medium issues addressed**: 3 (compatibilism strawman, thin MWI argument, missing cross-links)
 - **Enhancements made**: 4 (moral-perception cross-link, 3 Further Reading additions)
 - **Output**: [deep-review-2026-02-22-responsibility-gradient-from-attentional-capacity](/reviews/deep-review-2026-02-22-responsibility-gradient-from-attentional-capacity/)

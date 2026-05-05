@@ -24,14 +24,14 @@ topics: []
 
 ## Scope
 
-Ninth review pass; pure verification. The 00:56 UTC pass retargeted `[numerosity-void](/voids/the-quantitative-comprehension-void/)` (archived 2026-04-30) → `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` in two places: the `related_articles` frontmatter, and the body sentence in "Evidence from Unusual Cases" that cites the cardinality floor as an exemplar of the function-phenomenology axis. This pass was queued as a separate cross-review task to verify the integration is well-anchored. No content changes were needed.
+Ninth review pass; pure verification. The 00:56 UTC pass retargeted `[[numerosity-void]]` (archived 2026-04-30) → `[[the-quantitative-comprehension-void]]` in two places: the `related_articles` frontmatter, and the body sentence in "Evidence from Unusual Cases" that cites the cardinality floor as an exemplar of the function-phenomenology axis. This pass was queued as a separate cross-review task to verify the integration is well-anchored. No content changes were needed.
 
 ## Verification Findings
 
 ### Wikilink Targets Resolve Correctly
 
-- Frontmatter `related_articles` line 46: `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` — file exists at `obsidian/voids/the-quantitative-comprehension-void.md`.
-- Body line 238: `[cardinality floor of the quantitative comprehension void](/voids/the-quantitative-comprehension-void/#the-cardinality-floor)` — section anchor `## The Cardinality Floor` exists at line 64 of the target. Display text matches the section title.
+- Frontmatter `related_articles` line 46: `[[the-quantitative-comprehension-void]]` — file exists at `obsidian/voids/the-quantitative-comprehension-void.md`.
+- Body line 238: `[[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor of the quantitative comprehension void]]` — section anchor `## The Cardinality Floor` exists at line 64 of the target. Display text matches the section title.
 - Grep confirms no surviving references to the three archived slugs (`numerosity-void`, `quantitative-intuition-void`, `mathematical-void`) anywhere in the article.
 
 ### Bidirectional Anchor Quality

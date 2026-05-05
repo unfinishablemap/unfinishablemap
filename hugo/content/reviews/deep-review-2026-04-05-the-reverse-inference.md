@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Precision on "understand"**: Line 40 originally stated "the physical world—at its most fundamental level—is the thing we understand least." This conflates predictive success (quantum mechanics is spectacularly precise) with interpretive consensus. Resolution: changed to "at the level of interpretation" to distinguish empirical success from interpretive uncertainty.
-- **6 missing inbound links**: Despite previous review claiming 14 inbound links, several important articles lacked direct links to `[the-reverse-inference](/topics/the-reverse-inference/)`. Some linked only to the apex article `[what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)` with "reverse inference" as display text. Resolution: added direct wikilinks from all 6 articles (see below).
+- **6 missing inbound links**: Despite previous review claiming 14 inbound links, several important articles lacked direct links to `[[the-reverse-inference]]`. Some linked only to the apex article `[[what-consciousness-tells-us-about-physics]]` with "reverse inference" as display text. Resolution: added direct wikilinks from all 6 articles (see below).
 
 ### Counterarguments Considered
 - No new counterarguments needed. The article's four objection responses remain adequate. All adversarial personas' core objections are bedrock disagreements documented in previous reviews.
@@ -63,7 +63,7 @@ New inbound links added from 6 articles:
 3. [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) — Added to Further Reading: reverse inference derives the bi-aspectual picture
 4. [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Added to Further Reading: reverse inference as convergent strand
 5. [observational-closure](/concepts/observational-closure/) — Added to Further Reading: reverse inference operates within observational closure
-6. [measurement-problem](/concepts/measurement-problem/) — Added direct `[the-reverse-inference](/topics/the-reverse-inference/)` link alongside existing apex article link
+6. [measurement-problem](/concepts/measurement-problem/) — Added direct `[[the-reverse-inference]]` link alongside existing apex article link
 
 Combined with ~14 inbound links from previous reviews, the article now has ~20 inbound links from content articles.
 

@@ -58,7 +58,7 @@ None. All issues flagged in the 2026-03-28 review (Occam's Razor framing, descri
 - **Further Reading entry** added with one-line description identifying the weak/strong distinction readers can explore.
 
 ### Cross-links Added
-- `[inspection-paradox](/concepts/self-reference-paradox/)` — added to frontmatter related_articles, Alston paragraph (Calibration Impasse), closing paragraph of Convergent Structure, opening of Quantum Parallel, and Further Reading.
+- `[[inspection-paradox]]` — added to frontmatter related_articles, Alston paragraph (Calibration Impasse), closing paragraph of Convergent Structure, opening of Quantum Parallel, and Further Reading.
 
 ## Remaining Items
 

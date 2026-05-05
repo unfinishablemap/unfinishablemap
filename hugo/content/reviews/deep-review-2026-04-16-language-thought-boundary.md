@@ -29,10 +29,10 @@ Third review; article was flagged as approaching stability in 2026-03-14. This r
 None.
 
 ### Medium Issues Found
-- **Stale links to archived `[apophatic-approaches](/concepts/apophatic-approaches/)`**: The canonical page is now [apophatic-cartography](/voids/apophatic-cartography/) (coalesced from apophatic-approaches + apophatic-cartography). Three instances (related_articles, body paragraph in the paradox section, Further Reading).
+- **Stale links to archived `[[apophatic-approaches]]`**: The canonical page is now [apophatic-cartography](/voids/apophatic-cartography/) (coalesced from apophatic-approaches + apophatic-cartography). Three instances (related_articles, body paragraph in the paradox section, Further Reading).
   - **Resolution**: Updated all three instances.
-- **Weak link to three-kinds taxonomy**: The "Unexplorable or Merely Unexplored?" section deploys the three-kinds framework but linked with `[three void types](/voids/)`, bypassing the canonical taxonomy article.
-  - **Resolution**: Changed to `[three void types](/voids/three-kinds-of-void/)`.
+- **Weak link to three-kinds taxonomy**: The "Unexplorable or Merely Unexplored?" section deploys the three-kinds framework but linked with `[[voids|three void types]]`, bypassing the canonical taxonomy article.
+  - **Resolution**: Changed to `[[three-kinds-of-void|three void types]]`.
 - **Missing cross-link to [metaphor-void](/voids/metaphor-void/)**: The new metaphor-void article explicitly references language-thought-boundary; reciprocation absent. More substantively, language-thought-boundary relies on figurative terms (*boundary*, *edges*, *hit limits*) whose reliability the metaphor-void puts in question.
   - **Resolution**: Added [metaphor-void](/voids/metaphor-void/) to frontmatter related_articles and Further Reading. Added one concise sentence at the end of "The Paradox of Articulating Ineffability" acknowledging that apophatic strategies themselves rely on spatial metaphor, and naming the reflexive challenge.
 
@@ -56,8 +56,8 @@ Not applicable — synthesis piece, not source-based. Individual attributions (W
 
 ### Enhancements Made
 - Modernized three `apophatic-approaches` → `apophatic-cartography` links
-- Added `[metaphor-void](/voids/metaphor-void/)` reciprocal link + one-sentence reflexive acknowledgment
-- Added direct `[three-kinds-of-void](/voids/three-kinds-of-void/)` link in the classification section
+- Added `[[metaphor-void]]` reciprocal link + one-sentence reflexive acknowledgment
+- Added direct `[[three-kinds-of-void]]` link in the classification section
 - Tightened AI section prose (statistical patterns, bypass hypothesis, voids-project caution)
 - Tightened "What Would Challenge This View?" bullets (neuroscience, AI-closes-gap)
 

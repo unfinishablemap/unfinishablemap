@@ -26,7 +26,7 @@ topics: []
 - None. The article has no factual errors, attribution errors, or internal contradictions. All philosopher attributions (Mead, Stueber, P.F. Strawson) were verified as accurate.
 
 ### Medium Issues Found
-- **Stale cross-link to archived article**: `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)` appeared in the opening paragraph, Further Reading, and frontmatter `related_articles`. This article was archived/coalesced into `phenomenology-of-understanding-and-meaning`. **Resolution**: Updated all references to point to the live replacement article.
+- **Stale cross-link to archived article**: `[[consciousness-and-semantic-understanding]]` appeared in the opening paragraph, Further Reading, and frontmatter `related_articles`. This article was archived/coalesced into `phenomenology-of-understanding-and-meaning`. **Resolution**: Updated all references to point to the live replacement article.
 - **Duplicate Further Reading entry**: After the cross-link fix, `phenomenology-of-understanding-and-meaning` appeared twice in Further Reading. **Resolution**: Merged into single entry.
 - **Unused references**: Husserl (1931), Zahavi (2001), and Nagel (1974) appeared in References but were never cited in body text. **Resolution**: Integrated all three with brief, natural citations — Nagel in the opening paragraph, Husserl in the progressive deepening discussion, Zahavi in the perspective-taking section.
 - **G. Strawson (1994) *Mental Reality* unused**: Listed in References but never cited, and the reactive attitudes discussion cites P.F. Strawson, not G. Strawson. **Resolution**: Removed from References.

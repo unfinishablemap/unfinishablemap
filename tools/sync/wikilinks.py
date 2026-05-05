@@ -4,6 +4,29 @@ import re
 from pathlib import Path
 from typing import Callable, Optional
 
+# Splits content into alternating non-code / code segments. Even indices are
+# outside any code; odd indices are fenced or inline code spans (left untouched
+# by transforms that should respect markdown code semantics).
+_FENCED_CODE = re.compile(r"```[\s\S]*?```")
+_INLINE_CODE = re.compile(r"`[^`\n]*`")
+
+
+def _split_code_segments(content: str) -> list[str]:
+    """Split content so even indices are outside-code, odd indices are code."""
+    fenced_parts = _FENCED_CODE.split(content)
+    fenced_blocks = _FENCED_CODE.findall(content)
+    out: list[str] = []
+    for i, segment in enumerate(fenced_parts):
+        inline_parts = _INLINE_CODE.split(segment)
+        inline_blocks = _INLINE_CODE.findall(segment)
+        for j, sub in enumerate(inline_parts):
+            out.append(sub)
+            if j < len(inline_blocks):
+                out.append(inline_blocks[j])
+        if i < len(fenced_blocks):
+            out.append(fenced_blocks[i])
+    return out
+
 # Directories that sync scans for content (must match converter.py sync_dirs)
 SYNC_DIRS = [
     "apex",
@@ -100,7 +123,10 @@ def convert_wikilinks(
 
         return f"[{display_text}]({url})"
 
-    return wikilink_pattern.sub(replace_wikilink, content)
+    segments = _split_code_segments(content)
+    for i in range(0, len(segments), 2):
+        segments[i] = wikilink_pattern.sub(replace_wikilink, segments[i])
+    return "".join(segments)
 
 
 def promote_backticked_paths_to_links(

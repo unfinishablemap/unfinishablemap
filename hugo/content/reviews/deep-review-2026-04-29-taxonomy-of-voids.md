@@ -21,7 +21,7 @@ topics: []
 **Previous review**: [2026-04-28 (cross-review with abandon-coalesce)](/reviews/deep-review-2026-04-28-taxonomy-of-voids/)
 **Context**: Cross-review with the post-coalesce, post-condense state of [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/). The relevant source-side history is a three-step chain:
 1. **2026-04-28 23:08 UTC coalesce**: `voids/epistemic-horizon-void` (2077 words) merged into `voids/meta-epistemology-of-limits` (existing 2899 words → 4073). The merger reframed meta-epistemology around four meta-questions instead of three (adding the scope question), with new sections for The Scope Question, Convergence on the Scope Limit, Phenomenology of the Horizon, The Map's Own Horizon, and What the Scope Void Rules Out.
-2. **2026-04-28 23:23 UTC refine-draft**: Updated `[epistemic-horizon-void](/voids/meta-epistemology-of-limits/)` wikilinks across 8 articles (including this apex) to point at the unified `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)`, with the `#the-scope-question-estimating-total-ignorance-from-within` anchor on inline references where the role was specifically about scope. De-duplicated frontmatter `related_articles` entries.
+2. **2026-04-28 23:23 UTC refine-draft**: Updated `[[epistemic-horizon-void]]` wikilinks across 8 articles (including this apex) to point at the unified `[[meta-epistemology-of-limits]]`, with the `#the-scope-question-estimating-total-ignorance-from-within` anchor on inline references where the role was specifically about scope. De-duplicated frontmatter `related_articles` entries.
 3. **2026-04-29 00:39 UTC condense**: Reduced meta-epistemology from 3924 → 2731 words (30% reduction, hard_warning → soft_warning, comfortably under the 3000-word voids hard threshold). Compressed Three Verdicts, Historical Evidence, Illusionist Challenge, Detection Problem, Phenomenology of Suspension, Process Philosophy, and Scope Question. **Preserved**: opening four-question summary, all five tenet connections, all cross-links and key terminology (epistemic agoraphobia, suspension-void inheritance, question-formation void), distinctive phrasings.
 
 The cross-review question: does the apex's treatment of meta-epistemology — primarily in §"Taxonomy's Own Limits" but also referenced from §"Formal and Meta-Cognitive Cluster" — remain coherent after the coalesce-then-condense?
@@ -104,7 +104,7 @@ The 2026-04-28 23:23 UTC refine-draft already handled the only wikilink-level in
 
 ### Cross-links Added
 
-None. All required cross-links (`[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` in body and frontmatter; anchor links to `#the-scope-question-estimating-total-ignorance-from-within`) are already present and correct.
+None. All required cross-links (`[[meta-epistemology-of-limits]]` in body and frontmatter; anchor links to `#the-scope-question-estimating-total-ignorance-from-within`) are already present and correct.
 
 ### Length Accounting
 

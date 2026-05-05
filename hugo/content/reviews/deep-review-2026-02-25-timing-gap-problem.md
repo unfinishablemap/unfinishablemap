@@ -24,13 +24,13 @@ topics: []
 
 ### Critical Issues Found
 
-- **C1: Duplicate `decoherence` in concepts frontmatter**: The concept `[decoherence](/concepts/decoherence/)` appeared twice in the YAML concepts list (lines 14 and 17). **Resolution**: Removed the duplicate entry.
+- **C1: Duplicate `decoherence` in concepts frontmatter**: The concept `[[decoherence]]` appeared twice in the YAML concepts list (lines 14 and 17). **Resolution**: Removed the duplicate entry.
 
-- **C2: Duplicate `[decoherence](/concepts/decoherence/)` in Further Reading**: `[decoherence](/concepts/decoherence/)` appeared on consecutive lines in the Further Reading section. **Resolution**: Removed the duplicate entry.
+- **C2: Duplicate `[[decoherence]]` in Further Reading**: `[[decoherence]]` appeared on consecutive lines in the Further Reading section. **Resolution**: Removed the duplicate entry.
 
 ### Medium Issues Found
 
-- **M1: Zero inbound links — completely orphaned**: No content article anywhere in the site linked to `[timing-gap-problem](/concepts/timing-gap-problem/)`. Only review files, changelog, and todo referenced it. For a concept that is self-described as "The Unfinishable Map's most important empirical challenge," this is a significant navigation gap. **Resolution**: Added `[timing-gap-problem](/concepts/timing-gap-problem/)` cross-links to 8 articles (see Cross-links Added below).
+- **M1: Zero inbound links — completely orphaned**: No content article anywhere in the site linked to `[[timing-gap-problem]]`. Only review files, changelog, and todo referenced it. For a concept that is self-described as "The Unfinishable Map's most important empirical challenge," this is a significant navigation gap. **Resolution**: Added `[[timing-gap-problem]]` cross-links to 8 articles (see Cross-links Added below).
 
 ### Counterarguments Considered
 
@@ -67,12 +67,12 @@ All checks pass:
 
 ### Enhancements Made
 
-- Added `[quantum-decoherence-objection-responses](/concepts/decoherence/)` to Further Reading (natural complement)
+- Added `[[quantum-decoherence-objection-responses]]` to Further Reading (natural complement)
 - Cleaned duplicate frontmatter and Further Reading entries
 
 ### Cross-links Added (Orphan Integration)
 
-This was the primary focus of this review. Added `[timing-gap-problem](/concepts/timing-gap-problem/)` to 8 articles:
+This was the primary focus of this review. Added `[[timing-gap-problem]]` to 8 articles:
 
 1. **[quantum-consciousness](/concepts/quantum-consciousness/)** — In "The Decoherence Challenge" section: "the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated"
 2. **[decoherence](/concepts/decoherence/)** — In "The Tegmark-Hameroff Debate" section: "This twelve-order-of-magnitude disparity—the [timing gap problem](/concepts/timing-gap-problem/)—became the standard objection"

@@ -47,7 +47,7 @@ All six adversarial personas engaged. No new issues beyond bedrock disagreements
 - New attributions introduced via the axis cross-link:
   - "Synaesthesia (extra qualia)" — terminology from Wager (1999, 2001), accurately summarised as "extra qualia" matching the axis article's phrasing.
   - "Agency (Wegner's I-Spy)" — accurate paraphrase of Wegner's paradigm as documented in the axis article and the [agency-void](/voids/agency-void/).
-- The axis is named as `[function-phenomenology axis](/concepts/phenomenology-vs-function-axis/)` — matches the canonical title in the source article.
+- The axis is named as `[[phenomenology-vs-function-axis|function-phenomenology axis]]` — matches the canonical title in the source article.
 - The hedge "constraining functionalist absorption in aggregate" preserves the axis article's careful position that single-case absorption is granted; the cumulative cross-domain force is the load-bearing claim. No overstatement, no source/Map conflation.
 
 ## Optimistic Analysis Summary

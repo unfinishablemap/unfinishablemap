@@ -27,10 +27,10 @@ topics: []
 ### Critical Issues Found
 
 1. **Broken link — `psychophysical-coupling-law`** (frontmatter + inline): Archived article, superseded by `psychophysical-laws`. Updated both the frontmatter concepts list and inline reference at "coupling law research."
-   - Resolution: Replaced with `[psychophysical-laws](/concepts/psychophysical-laws/)` in both locations.
+   - Resolution: Replaced with `[[psychophysical-laws]]` in both locations.
 
 2. **Broken link — `phenomenal-unity`** (frontmatter only): Archived article, superseded by `phenomenal-binding-and-holism`.
-   - Resolution: Replaced with `[phenomenal-binding-and-holism](/concepts/binding-problem/)` in concepts list.
+   - Resolution: Replaced with `[[phenomenal-binding-and-holism]]` in concepts list.
 
 ### Medium Issues Found
 
@@ -82,8 +82,8 @@ All major strengths from prior reviews remain intact:
 2. **Broken link fixes**: Two archived article references updated to current replacement articles
 
 ### Cross-links Updated
-- `[psychophysical-coupling-law](/concepts/psychophysical-laws/)` → `[psychophysical-laws](/concepts/psychophysical-laws/)`
-- `[phenomenal-unity](/concepts/unity-of-consciousness/)` → `[phenomenal-binding-and-holism](/concepts/binding-problem/)`
+- `[[psychophysical-coupling-law]]` → `[[psychophysical-laws]]`
+- `[[phenomenal-unity]]` → `[[phenomenal-binding-and-holism]]`
 
 ## Word Count
 

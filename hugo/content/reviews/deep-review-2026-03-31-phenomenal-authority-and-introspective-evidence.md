@@ -61,7 +61,7 @@ Updated `phenomenal-conservatism-and-introspective-evidence` → `phenomenal-aut
 
 ### New Cross-References Added
 
-Added `[phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/)` to related_articles in:
+Added `[[phenomenal-authority-and-introspective-evidence]]` to related_articles in:
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — reliability of trained introspection grounded in phenomenal authority framework
 - [explanatory-gap](/concepts/explanatory-gap/) — introspective access to the gap depends on phenomenal authority
 - [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — acquaintance grounds the strongest layer of authority (also added to Further Reading)

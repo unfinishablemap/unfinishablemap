@@ -27,7 +27,7 @@ topics: []
 - **Duplicate related_articles entries**: `phenomenology-of-intellectual-effort`, `phenomenology-of-understanding`, and `epistemic-advantages-of-dualism` appeared twice in frontmatter (in both topics and related_articles, or duplicated within related_articles). **Resolution**: Removed duplicates.
 
 ### Medium Issues Found
-- **"Type-B materialist" used without definition or link**: Term appeared twice without context for general readers. **Resolution**: Added wikilinks to `type-b-materialism` at both occurrences, added to concepts list.
+- **"Type-B materialist" used without definition or link**: Term appeared twice without context for general readers. **Resolution**: Added wikilinks to `[[type-b-materialism]]` at both occurrences, added to concepts list.
 - **`knowledge-argument` missing from concepts**: Referenced in body text (line 65) via wikilink but not listed in frontmatter concepts. **Resolution**: Added to concepts list.
 - **Missing cross-links**: Several relevant articles not linked, particularly consciousness-and-testimony and consciousness-and-the-problem-of-induction. **Resolution**: Added to related_articles and Further Reading.
 

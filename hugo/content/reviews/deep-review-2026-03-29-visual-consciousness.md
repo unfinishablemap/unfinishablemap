@@ -26,7 +26,7 @@ topics: []
 None.
 
 ### Medium Issues Found
-- `[temporal-consciousness](/concepts/temporal-consciousness/)` displayed with hyphens in running text, producing "The temporal-consciousness—the felt duration of 'now'". **Resolved** — Changed to `[Temporal consciousness](/concepts/temporal-consciousness/)` for natural reading.
+- `[[temporal-consciousness]]` displayed with hyphens in running text, producing "The temporal-consciousness—the felt duration of 'now'". **Resolved** — Changed to `[[temporal-consciousness|Temporal consciousness]]` for natural reading.
 - "Lateral occipital cortex correlates with object consciousness: The 'what' stream's endpoint" — LOC is part of the ventral stream but not its endpoint. **Resolved** — Changed to "A key node in the ventral ('what') stream."
 - Abrupt transition from NCC discussion ("compatible with both materialist and interactionist interpretations") directly into interactionist capability division framework. **Resolved** — Added "On the interactionist reading" to signal the interpretive shift.
 

@@ -76,9 +76,9 @@ topics: []
 
 ### Cross-links Added
 
-- Added `[free-will](/topics/free-will/)` to concepts frontmatter
-- Added link to `[free-will](/topics/free-will/)` in new moral cognition section
-- Reinforced existing link to `[tenets](/tenets/#minimal-quantum-interaction)` in neural synchronization paragraph
+- Added `[[topics/free-will]]` to concepts frontmatter
+- Added link to `[[topics/free-will]]` in new moral cognition section
+- Reinforced existing link to `[[tenets#^minimal-quantum-interaction]]` in neural synchronization paragraph
 
 ## Summary Statistics
 

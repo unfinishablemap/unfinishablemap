@@ -30,7 +30,7 @@ None. No factual errors, internal contradictions, misattributions, or missing re
    - **Resolution**: Added to related_articles.
 
 2. **Missing inline cross-link for defended territory**: The RLHF paragraph described "AI's own occluded zones" without linking to [defended-territory](/voids/self-maintained-cognitive-limits/), which is exactly the concept being invoked.
-   - **Resolution**: Added inline wikilink `[defended territory](/voids/self-maintained-cognitive-limits/)`.
+   - **Resolution**: Added inline wikilink `[[defended-territory|defended territory]]`.
 
 3. **Redundant prose in cross-domain synthesis**: "perceiving patterns invisible to domain-constrained human attention" restates what the opening sentence already says.
    - **Resolution**: Trimmed redundant clause (offset for length neutrality).
@@ -74,8 +74,8 @@ None. No factual errors, internal contradictions, misattributions, or missing re
 - Kevin Kelly and MIT Technology Review framings as authoritative anchors
 
 ### Enhancements Made
-1. Added `[apophatic-cartography](/voids/apophatic-cartography/)` to `related_articles` frontmatter for consistency with Further Reading
-2. Added inline `[defended territory](/voids/self-maintained-cognitive-limits/)` cross-link in RLHF paragraph — connects AI's trained suppression to the Map's concept of actively blocked cognition
+1. Added `[[apophatic-cartography]]` to `related_articles` frontmatter for consistency with Further Reading
+2. Added inline `[[defended-territory|defended territory]]` cross-link in RLHF paragraph — connects AI's trained suppression to the Map's concept of actively blocked cognition
 3. Trimmed redundant clause in cross-domain synthesis for length neutrality
 
 ### Cross-links Added

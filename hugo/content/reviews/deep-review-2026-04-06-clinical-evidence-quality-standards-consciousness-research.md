@@ -26,8 +26,8 @@ topics: []
 None. Attribution accuracy check passed cleanly — all cited sources are accurately characterised, no dropped qualifiers, no source/Map conflation.
 
 ### Medium Issues Found
-- `[epiphenomenalism](/concepts/epiphenomenalism/)` used unnecessary path prefix inconsistent with all other wikilinks: **Resolved** (changed to `[epiphenomenalism](/concepts/epiphenomenalism/)`)
-- Relation to Site Perspective section discussed causal closure implicitly without linking the concept page: **Resolved** (added `[causal-closure](/concepts/causal-closure/)` wikilink)
+- `[[concepts/epiphenomenalism|epiphenomenalism]]` used unnecessary path prefix inconsistent with all other wikilinks: **Resolved** (changed to `[[epiphenomenalism]]`)
+- Relation to Site Perspective section discussed causal closure implicitly without linking the concept page: **Resolved** (added `[[causal-closure]]` wikilink)
 - Schwartz sample size described as "n=9 new participants" without noting total sample was 18: **Resolved** (changed to "n=18 with 9 new participants")
 
 ### Counterarguments Considered
@@ -48,8 +48,8 @@ None. Attribution accuracy check passed cleanly — all cited sources are accura
 - **Front-loaded opening**: Core claim survives truncation
 
 ### Enhancements Made
-- Fixed inconsistent wikilink path prefix (`[...](/concepts/epiphenomenalism/)` → `[epiphenomenalism](/concepts/epiphenomenalism/)`)
-- Added `[causal-closure](/concepts/causal-closure/)` cross-link in Relation to Site Perspective where causal closure is implicitly discussed
+- Fixed inconsistent wikilink path prefix (`[[concepts/epiphenomenalism|...]]` → `[[epiphenomenalism]]`)
+- Added `[[causal-closure]]` cross-link in Relation to Site Perspective where causal closure is implicitly discussed
 - Clarified Schwartz sample size (n=18 total, 9 new) for transparency
 
 ### Cross-links Added

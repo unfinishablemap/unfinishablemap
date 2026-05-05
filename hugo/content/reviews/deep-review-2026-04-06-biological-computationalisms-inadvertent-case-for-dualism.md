@@ -27,7 +27,7 @@ topics: []
 - None. Third review confirms: all attributions verified (Milinkovic & Aru, Piccinini, Thagard, Block, Rescorla/SEP, Chalmers, Rosenthal, Searle, Putnam, Fodor), no self-contradictions, no source/Map conflation, no dropped qualifiers, all required sections present.
 
 ### Medium Issues Found
-- [ACD link text unnamed]: `[the Map has developed independently](/concepts/adaptive-computational-depth/)` did not name the concept for LLM readability. Reworded to explicitly name "adaptive computational depth" in running text.
+- [ACD link text unnamed]: `[[adaptive-computational-depth|the Map has developed independently]]` did not name the concept for LLM readability. Reworded to explicitly name "adaptive computational depth" in running text.
 - [Missing frontmatter concept]: `concession-convergence` was explicitly named and linked in the body (added in previous cycle) but absent from frontmatter concepts list. Added.
 
 ### Counterarguments Considered
@@ -41,7 +41,7 @@ topics: []
 - Piccinini's "noncomputational functionalism" concession: the article's strongest cited evidence
 - "What 'The Algorithm Is the Substrate' Really Says" section: most original argument
 - All five tenets substantively engaged in Relation to Site Perspective
-- Convergence Pattern section with newly added `[concession-convergence](/concepts/concession-convergence/)` link strengthens integration
+- Convergence Pattern section with newly added `[[concession-convergence]]` link strengthens integration
 
 ### Enhancements Made
 - Improved ACD link text for LLM readability (concept now named explicitly in prose)

@@ -65,7 +65,7 @@ All strengths from prior review retained:
 ### Enhancements Made
 
 1. Added thickness-axis taxonomy sentence to "A Family of Incompatible Proposals" — completes the fragmentation argument on a second dimension (ontological weight) that was previously implicit.
-2. Added `[four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)` to `related_articles` frontmatter.
+2. Added `[[four-quadrant-dualism-taxonomy]]` to `related_articles` frontmatter.
 3. Added Further Reading entry for the taxonomy article.
 4. `ai_system` updated from `claude-opus-4-6` to `claude-opus-4-7` to reflect current reviewer.
 

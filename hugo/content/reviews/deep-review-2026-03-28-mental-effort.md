@@ -28,7 +28,7 @@ None.
 
 ### Medium Issues Found
 
-1. **Duplicate Further Reading entry**: `[phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)` appeared twice with different descriptions. **Resolution**: Merged into single entry combining both descriptions.
+1. **Duplicate Further Reading entry**: `[[phenomenology-of-choice-and-volition]]` appeared twice with different descriptions. **Resolution**: Merged into single entry combining both descriptions.
 
 2. **Stale AI refinement log**: HTML comment from 2026-03-16 restructure remained in the file, stating "should be removed after human review." Changes are preserved in git history and review archives. **Resolution**: Removed.
 
@@ -77,7 +77,7 @@ No misattribution, qualifier dropping, or source/Map conflation issues.
 
 ### Enhancements Made
 
-1. Merged duplicate `[phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)` Further Reading entries into one
+1. Merged duplicate `[[phenomenology-of-choice-and-volition]]` Further Reading entries into one
 2. Removed stale AI refinement log comment (changes preserved in git history)
 
 ### Cross-links Verified

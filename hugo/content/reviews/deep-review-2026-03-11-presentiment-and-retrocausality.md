@@ -27,7 +27,7 @@ None. Third consecutive review with no critical issues. Article is stable.
 
 ### Medium Issues Found
 - **Dalkvist et al. uncited**: Line 57 references "Computational simulations by Dalkvist et al." with a specific empirical claim (~10% effects) but no full citation in References. Deferred — requires verification of exact publication details before adding.
-- **Cross-linking gaps**: Missing links to `[time-symmetric-physics](/concepts/time-symmetric-physics/)` and `[time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)`, both created/updated since last review. **Resolved** — added wikilink in body and two Further Reading entries.
+- **Cross-linking gaps**: Missing links to `[[time-symmetric-physics]]` and `[[time-symmetric-selection-mechanism]]`, both created/updated since last review. **Resolved** — added wikilink in body and two Further Reading entries.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: The conscious/unconscious distinction (presentiment = autonomic, Map's claim = conscious selection) remains sound. No new issue.
@@ -52,8 +52,8 @@ All attributions previously verified (2026-02-03 review). No content changes sin
 7. Comprehensive references with primary sources
 
 ### Enhancements Made
-- Added `[time-symmetric](/concepts/time-symmetric-physics/)` wikilink in "Two Distinct Claims" section for cross-linking
-- Added `[time-symmetric-physics](/concepts/time-symmetric-physics/)` and `[time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)` to Further Reading section
+- Added `[[time-symmetric-physics|time-symmetric]]` wikilink in "Two Distinct Claims" section for cross-linking
+- Added `[[time-symmetric-physics]]` and `[[time-symmetric-selection-mechanism]]` to Further Reading section
 
 ### Cross-links Added
 - [time-symmetric-physics](/concepts/time-symmetric-physics/) — concept article on time-symmetric quantum mechanics

@@ -23,11 +23,11 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **Broken link to archived article**: `[Phenomenal Constitution Thesis](/topics/consciousness-and-semantic-understanding/)` pointed to an archived article. Updated to `[Phenomenal Constitution Thesis](/concepts/cognitive-phenomenology/#the-phenomenal-constitution-thesis)` which is the active article covering this concept.
+1. **Broken link to archived article**: `[[meaning-and-consciousness|Phenomenal Constitution Thesis]]` pointed to an archived article. Updated to `[[cognitive-phenomenology#The Phenomenal Constitution Thesis|Phenomenal Constitution Thesis]]` which is the active article covering this concept.
 
 ### Medium Issues Found
-1. **Frontmatter topic `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)` points to archived article**: Updated to `[phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)` which covers similar ground and is active.
-2. **Further Reading entry for same archived article**: Updated to `[phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)`.
+1. **Frontmatter topic `[[consciousness-and-semantic-understanding]]` points to archived article**: Updated to `[[phenomenology-of-understanding]]` which covers similar ground and is active.
+2. **Further Reading entry for same archived article**: Updated to `[[phenomenology-of-understanding]]`.
 3. **Missing reference citation**: "Three Symbol Ungrounding Problems" (2015) was referenced in body text (Embodiment section) but not listed in References. Added Cangelosi & Greco (2015) citation.
 
 ### Attribution Accuracy Check
@@ -67,8 +67,8 @@ No new counterarguments beyond those addressed in previous reviews. The article 
 3. Added missing reference citation (Cangelosi & Greco 2015)
 
 ### Cross-links Updated
-- `[meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/)` → `[cognitive-phenomenology](/concepts/cognitive-phenomenology/#the-phenomenal-constitution-thesis)`
-- `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)` → `[phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)` (frontmatter + Further Reading)
+- `[[meaning-and-consciousness]]` → `[[cognitive-phenomenology#The Phenomenal Constitution Thesis]]`
+- `[[consciousness-and-semantic-understanding]]` → `[[phenomenology-of-understanding]]` (frontmatter + Further Reading)
 
 ## Word Count
 

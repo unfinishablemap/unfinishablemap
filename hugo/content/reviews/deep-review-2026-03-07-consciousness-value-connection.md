@@ -28,8 +28,8 @@ Six adversarial philosopher personas (Eliminative Materialist, Hard-Nosed Physic
 - None
 
 ### Medium Issues Found
-- **Duplicate Further Reading entry**: `[phenomenal-value-realism](/topics/phenomenal-value-realism/)` appeared twice in Further Reading with different descriptions, both pointing to the same file. **Resolution**: Consolidated into a single entry with combined description.
-- **Frontmatter prefix inconsistencies**: The concepts field had `[phenomenal-value-realism](/topics/phenomenal-value-realism/)` (topics/ prefix unusual in concepts field) and `[epiphenomenalism](/concepts/epiphenomenalism/)` (concepts/ prefix redundant). **Resolution**: Removed prefixes to match standard wikilink conventions.
+- **Duplicate Further Reading entry**: `[[topics/phenomenal-value-realism]]` appeared twice in Further Reading with different descriptions, both pointing to the same file. **Resolution**: Consolidated into a single entry with combined description.
+- **Frontmatter prefix inconsistencies**: The concepts field had `[[topics/phenomenal-value-realism]]` (topics/ prefix unusual in concepts field) and `[[concepts/epiphenomenalism]]` (concepts/ prefix redundant). **Resolution**: Removed prefixes to match standard wikilink conventions.
 
 ### Counterarguments Considered
 - **Eliminative materialist**: The article defines mattering in terms of experience, which begs the question against eliminativism. However, this is a tenet-level commitment, not a fixable flaw.

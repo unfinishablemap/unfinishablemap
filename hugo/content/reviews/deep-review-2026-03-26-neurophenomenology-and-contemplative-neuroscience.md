@@ -28,13 +28,13 @@ This is the first review of the coalesced article, which merged [concepts/neurop
 
 ### Critical Issues Found
 
-1. **Broken wikilink `[Emotional-consciousness](/topics/emotion-and-dualism/)`** (Further Reading): Pointed to an archived article with no active replacement. The concept and topics files were both archived. **Resolution**: Replaced with `[emotion-and-dualism](/topics/emotion-and-dualism/)`, the closest active equivalent covering phenomenal character of emotions.
+1. **Broken wikilink `[[Emotional-consciousness]]`** (Further Reading): Pointed to an archived article with no active replacement. The concept and topics files were both archived. **Resolution**: Replaced with `[[emotion-and-dualism]]`, the closest active equivalent covering phenomenal character of emotions.
 
 ### Medium Issues Found
 
-1. **Excessive Further Reading** (19 entries): Trimmed to 13 by removing entries that were redundant with frontmatter cross-links or tangential to the article's core concerns. Removed: `[free-will](/topics/free-will/)`, `[emotion-and-dualism](/topics/emotion-and-dualism/)`, `[epiphenomenalism](/concepts/epiphenomenalism/)`, `[mysterianism](/concepts/mysterianism/)` — all already linked in frontmatter concepts or body text. **Resolution**: Reduced from 19 to 13 entries, saving ~54 words.
+1. **Excessive Further Reading** (19 entries): Trimmed to 13 by removing entries that were redundant with frontmatter cross-links or tangential to the article's core concerns. Removed: `[[topics/free-will]]`, `[[emotion-and-dualism]]`, `[[concepts/epiphenomenalism]]`, `[[mysterianism]]` — all already linked in frontmatter concepts or body text. **Resolution**: Reduced from 19 to 13 entries, saving ~54 words.
 
-2. **Stale wikilinks across ~51 active files**: References to the old `[neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)` and `[contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)` slugs needed updating to `[neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)`. **Resolution**: Bulk-updated all active content in topics/, concepts/, apex/. Frontmatter links updated; body text links given display text preserving readability. Duplicate entries deduplicated where files referenced both old slugs.
+2. **Stale wikilinks across ~51 active files**: References to the old `[[neurophenomenology]]` and `[[contemplative-neuroscience]]` slugs needed updating to `[[neurophenomenology-and-contemplative-neuroscience]]`. **Resolution**: Bulk-updated all active content in topics/, concepts/, apex/. Frontmatter links updated; body text links given display text preserving readability. Duplicate entries deduplicated where files referenced both old slugs.
 
 ### Counterarguments Considered
 
@@ -74,7 +74,7 @@ All six adversarial personas engaged with the coalesced article:
 
 ### Enhancements Made
 
-- Fixed broken `[Emotional-consciousness](/topics/emotion-and-dualism/)` link
+- Fixed broken `[[Emotional-consciousness]]` link
 - Trimmed Further Reading from 19 to 13 entries (length-neutral operation)
 - Updated wikilinks across 51 active content files to point to coalesced article
 

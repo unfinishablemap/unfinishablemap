@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link**: `[contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)` in Further Reading — file does not exist. Corrected to `[contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)`.
+- **Broken link**: `[[contemplative-evidence-for-consciousness]]` in Further Reading — file does not exist. Corrected to `[[contemplative-evidence-for-consciousness]]`.
 - **Opening overclaim**: Opening paragraph claimed fragmentation "transforms from a threat to dualism into evidence for it," but the conclusion admits "The arguments are symmetric in their capacity to accommodate the data." Softened opening to "something dualism can accommodate — and perhaps accommodate more naturally than physicalism."
 
 ### Medium Issues Found
@@ -50,7 +50,7 @@ topics: []
 
 ### Enhancements Made
 - Strengthened Dennett rebuttal with engagement with his actual response
-- Added cross-links to `[consciousness](/concepts/consciousness/)` and `[altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)`
+- Added cross-links to `[[consciousness]]` and `[[altered-states-of-consciousness]]`
 - Added named anchor to anaesthesia section
 
 ### Cross-links Added

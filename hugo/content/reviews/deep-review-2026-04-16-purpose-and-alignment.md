@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Duplicate concept in frontmatter**: `[nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)` appeared twice in the concepts list. Introduced by a batch wikilink replacement (commit 299511e) that changed `[existentialism](/concepts/nihilism-and-existentialism/)` to `[nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)` without deduplicating against the existing entry. **Resolution**: Removed duplicate.
+1. **Duplicate concept in frontmatter**: `[[nihilism-and-existentialism]]` appeared twice in the concepts list. Introduced by a batch wikilink replacement (commit 299511e) that changed `[[existentialism]]` to `[[nihilism-and-existentialism]]` without deduplicating against the existing entry. **Resolution**: Removed duplicate.
 
 ### Medium Issues Found
 
@@ -70,7 +70,7 @@ No attribution errors. Source/Map separation clean throughout.
 
 ### Enhancements Made
 
-- Removed duplicate `[nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)` from concepts frontmatter
+- Removed duplicate `[[nihilism-and-existentialism]]` from concepts frontmatter
 
 ### Cross-links Verified
 

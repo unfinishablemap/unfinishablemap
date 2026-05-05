@@ -70,9 +70,9 @@ None. Attribution accuracy check passed across all sources (Kant, Langton, Kuhn,
 - Closing thematic line: "every map is drawn from within a scheme, and the tools of understanding are part of the territory being mapped."
 
 ### Enhancements Made
-1. **Frontmatter cross-link**: Added `[aspect-perception-void](/voids/aspect-perception-void/)` to `related_articles`, completing the reciprocal acknowledgment.
+1. **Frontmatter cross-link**: Added `[[aspect-perception-void]]` to `related_articles`, completing the reciprocal acknowledgment.
 2. **Body sentence**: Appended to the *Framework slippage* description: "The [aspect-dawning](/voids/aspect-perception-void/) of a gestalt-switch is the perceptual-scale sibling: in both, the endpoints are reportable but the transition cannot be inspected from inside the shift." This makes the structural analogy explicit at the strongest natural seam — the article already locates *Framework slippage* as the strongest first-person signature, and the aspect-dawning of a gestalt-switch is the perceptual-scale instance of the same opacity.
-3. **Further Reading entry**: Added `[aspect-perception-void](/voids/aspect-perception-void/) — Perceptual-scale sibling: the void around aspect-dawning, aspect-blindness, and the integration that constitutes seeing-as`.
+3. **Further Reading entry**: Added `[[aspect-perception-void]] — Perceptual-scale sibling: the void around aspect-dawning, aspect-blindness, and the integration that constitutes seeing-as`.
 4. **Compensating trims**: Removed "regardless of which categorial apparatus it uses" from vagueness contrast; tightened Nagel 1986 sentence.
 
 ### Cross-links Added

@@ -42,7 +42,7 @@ Previously flagged bedrock disagreements (functionalist "qualia are just informa
 - All four tenet connections — unchanged
 
 ### Enhancements Made
-- Added `[erasure-void](/voids/erasure-void/)` to `related_articles` frontmatter
+- Added `[[erasure-void]]` to `related_articles` frontmatter
 - Added one-sentence distinction in "Memory confidence masking the void" bullet: the erasure-void as sharper case where monitoring shares fate with what it monitors, producing no felt gap at all — situating it beside the transition-void's masking pattern
 - Added entry to "Further Reading" describing erasure-void as structural counterpart
 

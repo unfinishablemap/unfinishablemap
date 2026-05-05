@@ -32,8 +32,8 @@ None. All six adversarial personas engaged. Attribution checks passed (Stapp 200
 2. **Missing cross-link to amplification mechanisms**: The article describes how consciousness selects among quantum outcomes in neural systems but didn't link to the newer [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) article explaining how quantum-level selection scales to macroscopic neural effects.
    - **Resolution**: Added cross-link in The Challenge Stated section.
 
-3. **Inconsistent wikilink display text**: `[epiphenomenalism](/concepts/epiphenomenalism/)` on line 117 lacked display text, rendering the section prefix visibly unlike other wikilinks.
-   - **Resolution**: Changed to `[epiphenomenalism](/concepts/epiphenomenalism/)`.
+3. **Inconsistent wikilink display text**: `[[concepts/epiphenomenalism]]` on line 117 lacked display text, rendering the section prefix visibly unlike other wikilinks.
+   - **Resolution**: Changed to `[[concepts/epiphenomenalism|epiphenomenalism]]`.
 
 ### Counterarguments Considered
 All six adversarial personas engaged. The same bedrock disagreements from the 2026-03-16 and 2026-03-11 reviews persist unchanged:
@@ -66,9 +66,9 @@ No new substantive counterarguments emerged.
 ### Enhancements Made
 1. Added cross-link to [locality](/concepts/locality/) in Interface Locality section
 2. Added cross-link to [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) in The Challenge Stated section
-3. Fixed `[epiphenomenalism](/concepts/epiphenomenalism/)` display text to `[epiphenomenalism](/concepts/epiphenomenalism/)`
-4. Added `[locality](/concepts/locality/)` to concepts frontmatter
-5. Added `[amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)` to related_articles frontmatter
+3. Fixed `[[concepts/epiphenomenalism]]` display text to `[[concepts/epiphenomenalism|epiphenomenalism]]`
+4. Added `[[locality]]` to concepts frontmatter
+5. Added `[[amplification-mechanisms-consciousness-physics]]` to related_articles frontmatter
 
 ### Cross-links Added
 - [locality](/concepts/locality/)

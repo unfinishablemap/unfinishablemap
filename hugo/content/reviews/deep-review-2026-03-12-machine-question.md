@@ -25,7 +25,7 @@ topics: []
 Six adversarial personas engaged with the article. The article has been resynthesized by apex-evolve since the last review (2026-02-27), which reintroduced one previously-fixed issue and introduced a citation error.
 
 ### Critical Issues Found
-- **Broken link reintroduced**: `[substrate-independence-critique](/concepts/substrate-independence/)` in Further Reading pointed to non-existent file — Fixed by changing to `[substrate-independence](/concepts/substrate-independence/)`. This was fixed in the 2026-02-02 review but reintroduced by the apex resynthesis on 2026-02-27.
+- **Broken link reintroduced**: `[[substrate-independence-critique]]` in Further Reading pointed to non-existent file — Fixed by changing to `[[substrate-independence]]`. This was fixed in the 2026-02-02 review but reintroduced by the apex resynthesis on 2026-02-27.
 - **Wrong Hoel paper title**: Reference cited "The Proximity Argument Against LLM Consciousness" but the actual paper title is "A Disproof of Large Language Model Consciousness" (arXiv:2512.12802). Also corrected year from 2025 to 2026 (v2 is January 2026, consistent with the Map's own source article).
 
 ### Medium Issues Found

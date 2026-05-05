@@ -27,7 +27,7 @@ None.
 
 ### Medium Issues Found
 1. **Stale AI refinement log**: HTML comment block at end of article from 2026-03-25 refinement cycle, explicitly marked "This log should be removed after human review." Resolution: Removed.
-2. **Duplicate wikilink in Further Reading**: `[binding-problem](/concepts/binding-problem/)` appeared twice on lines 184 and 186 with different descriptions. Resolution: Consolidated into one entry; reordered so binding-problem and binding-problem-a-systematic-treatment appear adjacent.
+2. **Duplicate wikilink in Further Reading**: `[[binding-problem]]` appeared twice on lines 184 and 186 with different descriptions. Resolution: Consolidated into one entry; reordered so binding-problem and binding-problem-a-systematic-treatment appear adjacent.
 
 ### Low Issues Found
 None.

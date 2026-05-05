@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilinks to coalesced article**: `[stochastic-amplification-and-neural-selection](/topics/amplification-mechanisms-consciousness-physics/)` appeared 3 times (frontmatter, body, Further Reading) but the original article was coalesced into `amplification-mechanisms-consciousness-physics`. Resolution: updated all three links to point to the active article.
+- **Broken wikilinks to coalesced article**: `[[stochastic-amplification-and-neural-selection]]` appeared 3 times (frontmatter, body, Further Reading) but the original article was coalesced into `amplification-mechanisms-consciousness-physics`. Resolution: updated all three links to point to the active article.
 
 ### Medium Issues Found
 - **Envariance misattributed to 2022 paper**: Article said Zurek "introduces envariance" in his 2022 paper, but envariance was developed in his earlier work (~2003). The 2022 paper deploys it, not introduces it. Resolution: changed "introduces" to "deploys" with note that it was "developed in earlier work."

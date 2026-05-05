@@ -26,8 +26,8 @@ topics: []
 - None. The article remains logically consistent, well-structured, and free of attribution errors. The earlier review today addressed all significant issues.
 
 ### Medium Issues Found
-- **Missing cross-link to physics-as-disclosure**: The body discussed the measurement problem as a "boundary marker" between ontological domains—exactly the concept developed in the `physics-as-disclosure` article—but did not link to it. Resolution: added `[disclosure reading](/concepts/physics-as-disclosure/)` link in the "What the Reverse Inference Derives" section.
-- **Orphan status**: Zero inbound links from any content article. The article was created today and had not yet been integrated into the site's link network. Resolution: added `[the-reverse-inference](/topics/the-reverse-inference/)` links to 8 related articles (see below).
+- **Missing cross-link to physics-as-disclosure**: The body discussed the measurement problem as a "boundary marker" between ontological domains—exactly the concept developed in the `physics-as-disclosure` article—but did not link to it. Resolution: added `[[physics-as-disclosure|disclosure reading]]` link in the "What the Reverse Inference Derives" section.
+- **Orphan status**: Zero inbound links from any content article. The article was created today and had not yet been integrated into the site's link network. Resolution: added `[[the-reverse-inference]]` links to 8 related articles (see below).
 
 ### Counterarguments Considered
 - No new counterarguments needed beyond those already addressed. The previous review's stability notes remain accurate.
@@ -43,8 +43,8 @@ topics: []
 - "Private Datum, Public Science" objection (added in earlier review) is thorough
 
 ### Enhancements Made
-- Added `[physics-as-disclosure](/concepts/physics-as-disclosure/)` cross-link in body text and Further Reading
-- Added `[physics-as-disclosure](/concepts/physics-as-disclosure/)` to frontmatter related_articles
+- Added `[[physics-as-disclosure]]` cross-link in body text and Further Reading
+- Added `[[physics-as-disclosure]]` to frontmatter related_articles
 
 ### Cross-links Added (Orphan Integration)
 Inbound links added from 8 articles:

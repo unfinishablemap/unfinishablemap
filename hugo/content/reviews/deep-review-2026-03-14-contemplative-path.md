@@ -63,8 +63,8 @@ Six adversarial personas engaged with the content:
 - Buddhist tensions acknowledged rather than papered over
 
 ### Enhancements Made
-- Added `[Phenomenological investigation](/concepts/phenomenology/)` wikilink in opening paragraph
-- Added cross-link to `[comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)` in two-mode section where three traditions converge
+- Added `[[phenomenology|Phenomenological investigation]]` wikilink in opening paragraph
+- Added cross-link to `[[comparative-phenomenology-of-meditative-traditions]]` in two-mode section where three traditions converge
 
 ### Cross-links Added
 - [phenomenology](/concepts/phenomenology/)

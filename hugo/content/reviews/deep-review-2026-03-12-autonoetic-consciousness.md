@@ -35,7 +35,7 @@ This review was triggered by orphan detection identifying `hugo/content/concepts
 ### Resolution
 
 - Removed stale `hugo/content/concepts/autonoetic-consciousness.md`
-- Verified no live obsidian content uses the old `[autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` wikilink (migration completed in W10)
+- Verified no live obsidian content uses the old `[[autonoetic-consciousness]]` wikilink (migration completed in W10)
 - Verified the coalesced article `anoetic-noetic-autonoetic-consciousness.md` has comprehensive inbound links (69 files reference it)
 - Verified the archive redirect is properly configured
 

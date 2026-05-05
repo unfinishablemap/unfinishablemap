@@ -33,11 +33,11 @@ None. All six adversarial personas engaged; no new issues surfaced.
 ### Medium Issues Found
 
 None. All cross-links verified functional:
-- `[response](/topics/free-will/#the-agent-causal-response-to-luck)` — anchor confirmed at line 66 of free-will.md
-- `[attention](/concepts/attention-as-interface/)`, `[motor control](/concepts/motor-selection/)` — both exist
-- `[consciousness-value-connection](/concepts/consciousness-value-connection/)`, `[attentional-economics](/concepts/attentional-economics/)` — both exist
-- `[moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)`, `[living-with-the-map](/apex/living-with-the-map/)` — both exist (topics/ and apex/ respectively)
-- `[phenomenal-value-realism](/topics/phenomenal-value-realism/)` — exists
+- `[[topics/free-will#The Agent-Causal Response to Luck|response]]` — anchor confirmed at line 66 of free-will.md
+- `[[attention-as-interface|attention]]`, `[[motor-selection|motor control]]` — both exist
+- `[[consciousness-value-connection]]`, `[[attentional-economics]]` — both exist
+- `[[moral-implications-of-genuine-agency]]`, `[[living-with-the-map]]` — both exist (topics/ and apex/ respectively)
+- `[[topics/phenomenal-value-realism]]` — exists
 - All Further Reading links verified
 
 ### Counterarguments Considered

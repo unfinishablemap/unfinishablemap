@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- `[unity of consciousness](/concepts/unity-of-consciousness/)` linked to non-existent `phenomenal-unity` when `unity-of-consciousness` exists as a proper article: Fixed by updating to `[unity of consciousness](/concepts/unity-of-consciousness/)` in both frontmatter concepts and body text
+- `[[phenomenal-unity|unity of consciousness]]` linked to non-existent `phenomenal-unity` when `unity-of-consciousness` exists as a proper article: Fixed by updating to `[[unity-of-consciousness|unity of consciousness]]` in both frontmatter concepts and body text
 
 ### Medium Issues Found
 - `binding-void` in frontmatter and Further Reading lacked wikilink syntax: Fixed by adding `[[]]` brackets in both locations
@@ -31,7 +31,7 @@ topics: []
 - Minimal Quantum Interaction tenet not discussed in Relation to Site Perspective despite being referenced in the body: Fixed by adding dedicated paragraph
 
 ### Low Issues Found
-- `process-philosophy` listed in concepts but not cross-linked in body: Addressed indirectly through new `[process-haecceitism](/concepts/haecceity/)` link in haecceity paragraph
+- `process-philosophy` listed in concepts but not cross-linked in body: Addressed indirectly through new `[[process-haecceitism]]` link in haecceity paragraph
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: Would challenge the premise that no physical criterion can explain subject boundaries. Article acknowledges this through the physicalism paragraph (line 49) but could expand. Deferred — the article is appropriately focused on the dualist framing.
@@ -65,8 +65,8 @@ All attributions checked and verified:
 
 ### Enhancements Made
 - Added Minimal Quantum Interaction paragraph to Relation to Site Perspective, completing coverage of all five tenets
-- Added `[process-haecceitism](/concepts/haecceity/)` cross-link in haecceity discussion, connecting static and dynamic accounts of thisness
-- Added `[unity-of-consciousness](/concepts/unity-of-consciousness/)` and `[varieties-of-unity](/concepts/unity-of-consciousness/)` to Further Reading section
+- Added `[[process-haecceitism]]` cross-link in haecceity discussion, connecting static and dynamic accounts of thisness
+- Added `[[unity-of-consciousness]]` and `[[varieties-of-unity]]` to Further Reading section
 - Fixed broken concept link: `phenomenal-unity` → `unity-of-consciousness`
 - Fixed wikilink syntax on `binding-void` in frontmatter and Further Reading
 

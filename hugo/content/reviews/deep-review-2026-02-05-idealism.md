@@ -57,15 +57,15 @@ All six adversarial personas applied. No new critical issues identified:
 
 1. **Removed AI refinement log** — The comment at the end of the article instructed removal after human review; cleaned up accordingly
 2. **Orphan integration** — Added inbound links from 5 articles that mentioned idealism without linking:
-   - `objectivity-and-consciousness.md` — Added `[Idealism](/concepts/idealism/)` link in "Why Not Idealism?" header
-   - `panpsychism.md` — Added `[idealism](/concepts/idealism/)` to Further Reading section
-   - `materialism.md` — Added `[idealism](/concepts/idealism/)` to Alternative Frameworks paragraph
-   - `buddhism-and-dualism.md` — Added `[idealism](/concepts/idealism/)` link where idealism is mentioned
-   - `eastern-philosophy-consciousness.md` — Added `[idealism](/concepts/idealism/)` link where "Western idealism" is mentioned
+   - `objectivity-and-consciousness.md` — Added `[[idealism|Idealism]]` link in "Why Not Idealism?" header
+   - `panpsychism.md` — Added `[[idealism]]` to Further Reading section
+   - `materialism.md` — Added `[[idealism]]` to Alternative Frameworks paragraph
+   - `buddhism-and-dualism.md` — Added `[[idealism]]` link where idealism is mentioned
+   - `eastern-philosophy-consciousness.md` — Added `[[idealism]]` link where "Western idealism" is mentioned
 
 ### Cross-links Added
 
-From other articles TO `[idealism](/concepts/idealism/)`:
+From other articles TO `[[idealism]]`:
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [panpsychism](/concepts/panpsychism/)
 - [materialism](/concepts/materialism/)

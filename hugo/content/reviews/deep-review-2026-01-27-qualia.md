@@ -49,7 +49,7 @@ All counterarguments represent bedrock philosophical disagreements rather than f
 - "What Would Challenge This View" section provides falsifiability conditions
 
 ### Enhancements Made
-- Added `[pre-conceptual-knowing](/voids/acquaintance-void/)` to concepts list in frontmatter
+- Added `[[pre-conceptual-knowing]]` to concepts list in frontmatter
 - Connected ineffability property to the structural features of conceptual thought (concepts classify by abstracting from particulars)
 - Integrated Block's phenomenal overflow research into cognitive qualia section
 - Added pre-conceptual-knowing to Further Reading under Background

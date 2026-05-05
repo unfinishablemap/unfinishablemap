@@ -48,7 +48,7 @@ All six adversarial personas were engaged in the previous review (same day). No 
 - Substantive "Relation to Site Perspective" connecting to two specific tenets
 
 ### Enhancements Made
-- Added `[observational-closure](/concepts/observational-closure/)` wikilinks in 7 other articles to integrate this concept into the site's link graph:
+- Added `[[observational-closure]]` wikilinks in 7 other articles to integrate this concept into the site's link graph:
   1. **causal-closure.md**: 3 inline links + 1 frontmatter concept + 1 Further Reading entry
   2. **epiphenomenalism.md**: 1 inline link in interactionism response
   3. **the-epiphenomenalist-threat.md**: 1 inline link in How the Map Escapes section

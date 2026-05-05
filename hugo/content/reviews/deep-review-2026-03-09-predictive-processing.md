@@ -26,7 +26,7 @@ topics: []
 - None. The article is substantively sound after the previous review's major improvements.
 
 ### Medium Issues Found
-- **Duplicate Further Reading entry**: `[attention-as-interface](/concepts/attention-as-interface/)` was listed twice with different display text. Resolution: Merged into single entry.
+- **Duplicate Further Reading entry**: `[[attention-as-interface]]` was listed twice with different display text. Resolution: Merged into single entry.
 - **Missing references**: Clark, Friston & Wilkinson (2019) cited in text but absent from references; Solms cited but no reference. Resolution: Added both to External Sources.
 - **Nirodha samāpatti claim overstated**: Presented one interpretation of cessation as definitive. Resolution: Added qualifier noting the debate within Buddhist traditions.
 

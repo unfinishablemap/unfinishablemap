@@ -34,8 +34,8 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken inline links**: Two references to `[functionalism](/arguments/functionalism/)` pointed to a non-existent file. The correct target is `[functionalism-argument](/arguments/functionalism-argument/)`. The frontmatter already had the correct path.
-   - **Resolution**: Fixed both inline links (lines 43, 95) to `[functionalism-argument](/arguments/functionalism-argument/)`.
+1. **Broken inline links**: Two references to `[[arguments/functionalism]]` pointed to a non-existent file. The correct target is `[[arguments/functionalism-argument]]`. The frontmatter already had the correct path.
+   - **Resolution**: Fixed both inline links (lines 43, 95) to `[[arguments/functionalism-argument]]`.
 
 ### Medium Issues Found
 

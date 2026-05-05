@@ -27,7 +27,7 @@ None. Attribution is accurate across all referenced sources (Russell, Conee, Lew
 
 ### Medium Issues Found
 - **Ambiguous phrasing in Dualism paragraph**: "what the Map holds is irreducible to physical processes" could be parsed as "what the Map contains is irreducible" rather than the intended "what the Map maintains is irreducible." Fixed: changed to "which the Map maintains is irreducible to physical processes."
-- **Broken concept link**: Frontmatter listed `"symbol-grounding"` as a bare string, but `obsidian/concepts/symbol-grounding-problem.md` exists. Fixed: updated to `"[symbol-grounding-problem](/concepts/symbol-grounding-problem/)"`.
+- **Broken concept link**: Frontmatter listed `"symbol-grounding"` as a bare string, but `obsidian/concepts/symbol-grounding-problem.md` exists. Fixed: updated to `"[[symbol-grounding-problem]]"`.
 
 ### Low Issues Found
 - **Unreferenced citation**: Tye (2009) *Consciousness Revisited* appeared in References but was never cited in the article text. Fixed: removed dangling reference.

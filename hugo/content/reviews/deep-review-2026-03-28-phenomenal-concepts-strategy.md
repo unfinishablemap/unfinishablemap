@@ -46,7 +46,7 @@ No misattribution, dropped qualifiers, source/Map conflation, or self-contradict
 
 ### Changes Since Last Review
 Only mechanical fixes (automated refine-draft tasks):
-- Wikilink case normalization: `[Illusionism](/concepts/illusionism/)` → `[illusionism](/concepts/illusionism/)`, `[Introspection](/concepts/introspection/)` → `[introspection](/concepts/introspection/)`, `[Haecceity](/concepts/haecceity/)` → `[haecceity](/concepts/haecceity/)`
+- Wikilink case normalization: `[[Illusionism]]` → `[[illusionism]]`, `[[Introspection]]` → `[[introspection]]`, `[[Haecceity]]` → `[[haecceity]]`
 - Frontmatter formatting repair (broken `ai_modified` field)
 
 No substantive content changes.

@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- Broken wikilink `[indexical identity](/concepts/indexical-knowledge-and-identity/)` — no file `indexical-facts.md` exists. Correct target is `indexical-knowledge-and-identity.md`. **Resolved** — Fixed wikilink.
+- Broken wikilink `[[indexical-facts|indexical identity]]` — no file `indexical-facts.md` exists. Correct target is `indexical-knowledge-and-identity.md`. **Resolved** — Fixed wikilink.
 
 ### Medium Issues Found
 - Line 36 claimed blindsight "reveals that visual consciousness is not reducible to visual processing" — a logical overreach (dissociation shows separability, not irreducibility). **Resolved** — Reworded to "shows that visual consciousness is separable from visual processing—the two can come apart, which any purely reductive account must explain."
@@ -48,7 +48,7 @@ topics: []
 - Comprehensive COGITATE reference with appropriate scope
 
 ### Enhancements Made
-- Fixed broken `[indexical-facts](/concepts/indexical-knowledge-and-identity/)` → `[indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)` wikilink
+- Fixed broken `[[indexical-facts]]` → `[[indexical-knowledge-and-identity]]` wikilink
 - Tightened reducibility claim to more precise "separability" language
 - Added Occam's Razor Has Limits tenet section — now covers all 5 tenets
 

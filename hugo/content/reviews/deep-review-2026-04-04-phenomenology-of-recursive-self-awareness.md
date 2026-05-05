@@ -32,7 +32,7 @@ None. The coalesce merged two stable, well-reviewed articles cleanly:
 - All wikilink targets verified as existing
 
 ### Medium Issues Found
-1. **Stale display text on self-opacity link (line 104)**: `[self-reference paradox](/voids/self-opacity/)` used the old article name as display text. Since self-reference-paradox was coalesced into self-opacity months ago, this display text was misleading. **Resolution**: Updated to `[self-opacity](/voids/self-opacity/)` — the article title "Self-Opacity" is clearer in context.
+1. **Stale display text on self-opacity link (line 104)**: `[[self-opacity|self-reference paradox]]` used the old article name as display text. Since self-reference-paradox was coalesced into self-opacity months ago, this display text was misleading. **Resolution**: Updated to `[[self-opacity]]` — the article title "Self-Opacity" is clearer in context.
 
 ### Counterarguments Considered
 All six adversarial personas engaged. Per stability notes from source article reviews, all represent bedrock disagreements that have been addressed in previous review cycles:
@@ -66,7 +66,7 @@ All checks pass:
 - Comprehensive Further Reading with 13 entries
 
 ### Enhancements Made
-- Updated stale `[self-reference paradox](/voids/self-opacity/)` display text
+- Updated stale `[[self-opacity|self-reference paradox]]` display text
 
 ### Cross-links Updated (14 files)
 Stale wikilinks to archived source articles updated in:

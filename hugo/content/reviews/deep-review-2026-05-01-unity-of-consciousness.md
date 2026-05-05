@@ -31,7 +31,7 @@ None. All attributions remain accurate, required sections present, no internal c
 1. **Duplicate concepts entry**: `binding-problem` appeared twice in the frontmatter `concepts:` list (once near the top, once near the bottom). Likely a coalesce artifact.
    - *Resolution*: Removed the duplicate entry.
 
-2. **Duplicate Further Reading entries**: Two `[binding-problem](/concepts/binding-problem/)` entries appeared in the Further Reading section with different descriptions ("Neural feature binding and the combination challenge" and "Mechanistic analysis of how binding relates to phenomenal unity"). The second arose from automated wikilink rewrites (`phenomenal-binding-and-holism` → `binding-problem`) during recent coalesce work, leaving two pointers to the same target.
+2. **Duplicate Further Reading entries**: Two `[[binding-problem]]` entries appeared in the Further Reading section with different descriptions ("Neural feature binding and the combination challenge" and "Mechanistic analysis of how binding relates to phenomenal unity"). The second arose from automated wikilink rewrites (`phenomenal-binding-and-holism` → `binding-problem`) during recent coalesce work, leaving two pointers to the same target.
    - *Resolution*: Merged into a single entry combining both descriptions: "Neural feature binding, the combination challenge, and how binding relates to phenomenal unity."
 
 ### Low Issues Found

@@ -56,9 +56,9 @@ topics: []
 - Primary source references throughout; no secondhand attribution
 
 ### Enhancements Made
-- Added `[phenomenal acquaintance](/concepts/phenomenal-acquaintance/)` cross-link in the apodictic-certainty discussion — connects the Husserlian "that I am experiencing cannot be doubted" claim to the Map's concept of non-inferential phenomenal contact, which is listed in concepts frontmatter but was previously unlinked in body
+- Added `[[phenomenal-acquaintance|phenomenal acquaintance]]` cross-link in the apodictic-certainty discussion — connects the Husserlian "that I am experiencing cannot be doubted" claim to the Map's concept of non-inferential phenomenal contact, which is listed in concepts frontmatter but was previously unlinked in body
 - Reworded Chalmers citation into a self-standing dilemma — strengthens the argumentative spine while removing the bibliographic ambiguity
-- Made `[explanatory-gap](/concepts/explanatory-gap/)` an inline wikilink where previously appearing as plain prose
+- Made `[[explanatory-gap]]` an inline wikilink where previously appearing as plain prose
 
 ### Cross-links Added
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — in apodictic certainty section

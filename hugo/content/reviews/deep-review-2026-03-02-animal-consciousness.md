@@ -37,7 +37,7 @@ None. The article has stabilised well after the initial deep review (2026-01-20)
 3. **Stale AI refinement log**: HTML comment from 2026-02-21 still present, stating "This log should be removed after human review." Over a month old; changes documented elsewhere.
    - **Resolution**: Removed the HTML comment block.
 
-4. **Broken wikilink `[metarepresentation](/concepts/metacognition/)`**: No concept page exists for metarepresentation, but 61 files across the site link to it. The concept is defined inline in this article ("knowing that you know"). This is a site-wide infrastructure issue rather than an article-specific error.
+4. **Broken wikilink `[[metarepresentation]]`**: No concept page exists for metarepresentation, but 61 files across the site link to it. The concept is defined inline in this article ("knowing that you know"). This is a site-wide infrastructure issue rather than an article-specific error.
    - **Resolution**: Retained the wikilink for consistency with rest of site. Noted as site-wide todo: create [concepts/metarepresentation.md](/concepts/metacognition/).
 
 ### Counterarguments Considered
@@ -87,7 +87,7 @@ None needed. The article already has excellent cross-linking (25+ concept and ar
 
 ## Remaining Items
 
-- **Site-wide**: `[metarepresentation](/concepts/metacognition/)` concept page should be created (61 files link to it)
+- **Site-wide**: `[[metarepresentation]]` concept page should be created (61 files link to it)
 
 ## Stability Notes
 

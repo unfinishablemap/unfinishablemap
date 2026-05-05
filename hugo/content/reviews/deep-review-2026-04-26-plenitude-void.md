@@ -33,7 +33,7 @@ The article was deeply reviewed two days ago and the prior review explicitly cla
 None. The prior critical issues (dualism circularity, foveation accuracy) remain resolved.
 
 ### Medium Issues Found
-- **Asymmetric integration with inference-void**: inference-void (created 2026-04-26) cross-links to plenitude-void and classifies it within a "second-order cluster" of architectural-introspective voids; plenitude-void had no return cross-link. **Resolution**: Added `[inference-void](/voids/inference-void/)` to related_articles, Further Reading, and one inline reference in the "check-and-find loop" subsection.
+- **Asymmetric integration with inference-void**: inference-void (created 2026-04-26) cross-links to plenitude-void and classifies it within a "second-order cluster" of architectural-introspective voids; plenitude-void had no return cross-link. **Resolution**: Added `[[inference-void]]` to related_articles, Further Reading, and one inline reference in the "check-and-find loop" subsection.
 
 ### Counterarguments Considered
 - Bedrock disagreements from prior review (eliminativist, MWI, Buddhist, Popperian) — left as marked.

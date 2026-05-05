@@ -27,7 +27,7 @@ topics: []
 - None. The article remains stable across four reviews; no substantive content changes have occurred since the 2026-04-20 mood-void cross-integration.
 
 ### Medium Issues Found
-- [Missing reciprocal cross-link to new sibling void]: The mattering-void article (2026-04-29) explicitly distinguishes itself from valence-void and frames "valence as one mode of mattering — perhaps the most primitive." The valence-void article had no reciprocal acknowledgement, leaving the affect/significance taxonomy asymmetric. **Resolution**: Renamed "Distinct from Affective and Mood Voids" to "Distinct from Affective, Mood, and Mattering Voids" and added a parallel clause for mattering-void that acknowledges the broader-category relationship without conflating the two voids. Added `[mattering-void](/voids/mattering-void/)` to `related_articles` frontmatter and Further Reading.
+- [Missing reciprocal cross-link to new sibling void]: The mattering-void article (2026-04-29) explicitly distinguishes itself from valence-void and frames "valence as one mode of mattering — perhaps the most primitive." The valence-void article had no reciprocal acknowledgement, leaving the affect/significance taxonomy asymmetric. **Resolution**: Renamed "Distinct from Affective and Mood Voids" to "Distinct from Affective, Mood, and Mattering Voids" and added a parallel clause for mattering-void that acknowledges the broader-category relationship without conflating the two voids. Added `[[mattering-void]]` to `related_articles` frontmatter and Further Reading.
 - [Style guide: LLM-cliché "not X. It is Y." pattern]: Found one instance — "This is not merely an inconvenience. It is a structural feature of evaluative cognition." **Resolution**: Rephrased as "The circularity is a structural feature of evaluative cognition, not a mere inconvenience" — same content, integrated contrast.
 
 ### Counterarguments Considered
@@ -51,7 +51,7 @@ No new sources cited. All existing attributions (Panksepp 1998, Veit 2024, Johns
 ### Enhancements Made
 - Renamed and expanded "Distinct from" section to a four-member family (affective, mood, mattering, valence) — symmetric to mattering-void's own four-way distinction
 - Added the "valence as one mode of mattering" framing (consistent with mattering-void's own framing) without surrendering the orthogonal-question framing of the valence void itself
-- Added `[mattering-void](/voids/mattering-void/)` to related_articles and Further Reading
+- Added `[[mattering-void]]` to related_articles and Further Reading
 - Cleaned up one LLM-cliché construct (style guide compliance)
 - Length-neutral compensating trims preserved meaning while removing redundancy in the Buddhist *vedanā* paragraph, the Veit Vulcan paragraph, the asymbolia paragraph (motivation phrasing), and the Phenomenology opening
 

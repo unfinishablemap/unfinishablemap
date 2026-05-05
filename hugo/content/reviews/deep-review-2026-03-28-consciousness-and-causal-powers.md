@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- Broken wikilink `[conservation laws](/concepts/conservation-laws-and-mental-causation/)` — no file `conservation-laws-and-mind` exists. Fixed to `[conservation laws](/concepts/conservation-laws-and-mental-causation/)`.
+- Broken wikilink `[[conservation-laws-and-mind|conservation laws]]` — no file `conservation-laws-and-mind` exists. Fixed to `[[conservation-laws-and-mental-causation|conservation laws]]`.
 
 ### Medium Issues Found
 - Stale AI refinement log comment (from 2026-03-20 cross-linking session) was still present with note "should be removed after human review." Removed.

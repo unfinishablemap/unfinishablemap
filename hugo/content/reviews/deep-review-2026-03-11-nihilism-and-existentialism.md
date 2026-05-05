@@ -32,7 +32,7 @@ None. The article is well-structured, accurately attributed, and philosophically
 1. **De Beauvoir unreferenced**: Cited in References but never mentioned in article text.
    - Resolution: Added mention of *The Ethics of Ambiguity* in "Existentialism Is Not Nihilism" section, connecting her argument that authentic freedom requires recognising others' freedom.
 
-2. **`[introspection](/concepts/introspection/)` orphaned in frontmatter**: Listed in concepts but never linked in article body.
+2. **`[[introspection]]` orphaned in frontmatter**: Listed in concepts but never linked in article body.
    - Resolution: Added natural wikilink in Contemplative Connections section where introspection is directly relevant to authentic choice.
 
 3. **Opening omitted Eastern path**: ~25% of the article covers Buddhist thought, but opening mentioned only nihilism and existentialism.

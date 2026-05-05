@@ -31,7 +31,7 @@ The target article was archived on 2026-03-29 and coalesced into [Phenomenal Aut
 
 ## Cross-References Added to Successor
 
-Added `[phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/)` to related_articles in:
+Added `[[phenomenal-authority-and-introspective-evidence]]` to related_articles in:
 - [introspection](/concepts/introspection/) — Core concept discussed extensively in the successor article (also added to Further Reading)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — Closely related epistemological content (also added to Further Reading)
 - [self-stultification](/concepts/self-stultification/) — Self-undermining argument is a key theme of the successor

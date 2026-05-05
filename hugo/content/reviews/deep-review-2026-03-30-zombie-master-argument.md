@@ -26,11 +26,11 @@ topics: []
 None. Attribution accuracy check passed on all counts. All attributions (Chalmers, Jackson, Levine, Kripke, Frankish, Dennett) verified as accurate. Type-Q correctly flagged as non-standard. Source/Map separation clean throughout. No self-contradictions. No dropped qualifiers. No misattributions.
 
 ### Medium Issues Found
-- **Missing cross-link to qualia**: "Qualitative experience" mentioned in Type-B section without linking to existing `[qualia](/concepts/qualia/)` concept page. **Resolution**: Added `[qualitative experience](/concepts/qualia/)` wikilink.
+- **Missing cross-link to qualia**: "Qualitative experience" mentioned in Type-B section without linking to existing `[[qualia]]` concept page. **Resolution**: Added `[[qualia|qualitative experience]]` wikilink.
 - **Two-dimensional semantics terminology**: "Primary" and "secondary" intensions introduced with only parenthetical "(epistemic)" and "(metaphysical)" glosses — insufficient for non-specialist readers and LLM traversal. **Resolution**: Added inline gloss explaining what primary and secondary intensions pick out.
 
 ### Low Issues Found
-- **Illusionism missing from frontmatter concepts**: Discussed substantively in body but not listed in concepts. **Resolution**: Added `[illusionism](/concepts/illusionism/)` to frontmatter.
+- **Illusionism missing from frontmatter concepts**: Discussed substantively in body but not listed in concepts. **Resolution**: Added `[[illusionism]]` to frontmatter.
 
 ### Counterarguments Considered
 All six adversarial personas engaged. No new substantive issues found beyond those identified and resolved in the 2026-03-07 and 2026-02-24 reviews. The previous reviews' stability notes remain valid — philosophical disagreements from eliminative materialists, Dennettians, empiricists, and Buddhist philosophers are bedrock disagreements, not fixable flaws.
@@ -51,8 +51,8 @@ All six adversarial personas engaged. No new substantive issues found beyond tho
 
 ### Enhancements Made
 - Added inline gloss for primary/secondary intensions in two-dimensional semantics section
-- Added `[qualia](/concepts/qualia/)` cross-link in Type-B section
-- Added `[illusionism](/concepts/illusionism/)` and `[qualia](/concepts/qualia/)` to frontmatter concepts
+- Added `[[qualia]]` cross-link in Type-B section
+- Added `[[illusionism]]` and `[[qualia]]` to frontmatter concepts
 
 ### Cross-links Added
 - [qualia](/concepts/qualia/) (body cross-link and frontmatter)

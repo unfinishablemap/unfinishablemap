@@ -23,8 +23,8 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken internal link**: `[Recent neuroscience](/concepts/attention-as-interface/)` pointed to non-existent file. Resolved by correcting to `[Recent neuroscience](/concepts/attention-as-interface/)`.
-- **Duplicate frontmatter entry**: `[voluntary-attention](/concepts/attention-as-interface/)` appeared twice in concepts list. Resolved by removing duplicate.
+- **Broken internal link**: `[[voluntary-attention-control|Recent neuroscience]]` pointed to non-existent file. Resolved by correcting to `[[voluntary-attention|Recent neuroscience]]`.
+- **Duplicate frontmatter entry**: `[[voluntary-attention]]` appeared twice in concepts list. Resolved by removing duplicate.
 
 ### Medium Issues Found
 - None requiring changes. The decoherence treatment, while brief, already includes appropriate hedging ("The objection remains serious but not categorical") and links to the full treatment.

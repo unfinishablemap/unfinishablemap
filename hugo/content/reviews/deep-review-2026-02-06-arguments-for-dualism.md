@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken tenet anchor links (2 instances)**: `[...](/tenets/#occam)` used but the actual anchor in tenets.md is `^occams-limits`. Fixed to `[Occam's Razor Has Limits](/tenets/#occams-limits)` in both the Parsimony Objection section and Relation to Site Perspective.
+- **Broken tenet anchor links (2 instances)**: `[[tenets#^occam|...]]` used but the actual anchor in tenets.md is `^occams-limits`. Fixed to `[[tenets#^occams-limits|Occam's Razor Has Limits]]` in both the Parsimony Objection section and Relation to Site Perspective.
 - **PhilPapers survey statistic conflation**: Article stated "22% accept dualism—second only to materialism (51%)" but the 22% comes from the consciousness question (where functionalism leads at 33%) while 51% comes from a different question (mind: physicalism vs non-physicalism). Fixed to cite numbers from the same question: "22%... second only to functionalism (33%)."
 
 ### Medium Issues Found
@@ -46,7 +46,7 @@ All major counterarguments were already addressed in previous reviews. No new co
 
 ### Enhancements Made
 - Substantially upgraded parsimony section to reference Huemer, Sober, and Zanotti's independent philosophical analyses, with link to new dedicated article
-- Added `[epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)` to frontmatter related_articles, Parsimony Objection section, Relation to Site Perspective, and Further Reading
+- Added `[[epistemological-limits-occams-razor]]` to frontmatter related_articles, Parsimony Objection section, Relation to Site Perspective, and Further Reading
 - Added 7 missing references for citation integrity (Barlev & Shtulman, Barrett et al., Bloom, Huemer, Sober, Zanotti; removed duplicate Bourget & Chalmers reordering)
 - Tightened prose in conservation laws response, exclusion argument response, post-objections summary, process philosophy section, and illusionist concluding paragraph to offset additions
 

@@ -35,7 +35,7 @@ None.
 
 ### Medium Issues Found
 
-1. **Duplicate Further Reading entry**: `[temporal-consciousness](/concepts/temporal-consciousness/)` appeared twice in Further Reading (lines 187 and 199)—once as "The phenomenology of temporal experience" and again as "The experienced duration of 'now' and its connection to collapse timing." **Resolution**: Removed duplicate entry.
+1. **Duplicate Further Reading entry**: `[[temporal-consciousness]]` appeared twice in Further Reading (lines 187 and 199)—once as "The phenomenology of temporal experience" and again as "The experienced duration of 'now' and its connection to collapse timing." **Resolution**: Removed duplicate entry.
 
 2. **Müller et al. redundancy**: The same experimental finding (forward-to-backward transition probability ratios) was discussed in near-identical language in both "What Un-Collapse Reveals" and "Empirical Anchors." **Resolution**: Tightened Empirical Anchors to reference the un-collapse discussion rather than repeat it, adding a new insight (consciousness participates in the process generating this asymmetry).
 

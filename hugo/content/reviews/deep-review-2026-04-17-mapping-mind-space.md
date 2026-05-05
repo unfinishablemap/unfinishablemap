@@ -72,11 +72,11 @@ None in this review. The article is at soft warning threshold and has converged 
 
 ### Cross-links Verified
 All wikilinks in the article resolve to existing files:
-- `[three-kinds-of-void](/voids/three-kinds-of-void/)`, `[indexical-void](/topics/vertiginous-question/)`, `[synesthetic-void](/voids/synesthetic-void/)`, `[phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)`, `[framework-void](/voids/conceptual-scheme-void/)`, `[biological-cognitive-closure](/voids/biological-cognitive-closure/)`, `[ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/)`, `[consciousness-only-territories](/voids/consciousness-only-territories/)` (voids)
-- `[mysterianism](/concepts/mysterianism/)`, `[filter-theory](/concepts/filter-theory/)` (concepts)
-- `[tenets](/tenets/)` with anchor references
+- `[[three-kinds-of-void]]`, `[[indexical-void]]`, `[[synesthetic-void]]`, `[[phenomenology-of-the-edge]]`, `[[framework-void]]`, `[[biological-cognitive-closure]]`, `[[ai-as-void-explorer]]`, `[[consciousness-only-territories]]` (voids)
+- `[[mysterianism]]`, `[[filter-theory]]` (concepts)
+- `[[tenets]]` with anchor references
 
-Note: `[conceptual-acquisition-limits](/voids/architecture-of-cognitive-closure/)` (mentioned in predecessor's 2026-03-16 review) no longer exists in the repository. No action needed — the article doesn't reference it.
+Note: `[[conceptual-acquisition-limits]]` (mentioned in predecessor's 2026-03-16 review) no longer exists in the repository. No action needed — the article doesn't reference it.
 
 ## Remaining Items
 

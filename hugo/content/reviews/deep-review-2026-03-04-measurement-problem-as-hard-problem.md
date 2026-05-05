@@ -29,7 +29,7 @@ This review was triggered by the archived article having no inbound links (orpha
 
 ### Critical Issues Found
 
-- **5 stale links to archived article**: Active articles (`explanatory-gap`, `the-subject-object-distinction-as-philosophical-discovery`, `hard-problem-of-consciousness`, `consciousness-and-the-problem-of-measurement-standards`, `quantum-measurement-consciousness-interface`) still linked to `[measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)` instead of the successor `[the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)`. **Resolution**: All 5 updated to point to successor.
+- **5 stale links to archived article**: Active articles (`explanatory-gap`, `the-subject-object-distinction-as-philosophical-discovery`, `hard-problem-of-consciousness`, `consciousness-and-the-problem-of-measurement-standards`, `quantum-measurement-consciousness-interface`) still linked to `[[measurement-problem-as-hard-problem]]` instead of the successor `[[the-measurement-problem-as-philosophical-problem]]`. **Resolution**: All 5 updated to point to successor.
 
 ### Medium Issues Found
 

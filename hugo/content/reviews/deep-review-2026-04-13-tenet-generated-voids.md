@@ -61,7 +61,7 @@ Six sympathetic personas confirmed ongoing strengths:
 - Dissolution-problem qualification from previous review
 
 ### Enhancements Made
-- Updated `[self-reference paradox](/voids/self-opacity/)` display text to match current article title
+- Updated `[[self-opacity|self-reference paradox]]` display text to match current article title
 - Updated Further Reading entry for self-opacity to use current title
 
 ### Cross-links Added

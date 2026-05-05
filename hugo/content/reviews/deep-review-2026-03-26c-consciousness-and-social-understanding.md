@@ -46,7 +46,7 @@ None. All cross-references are accurate. The article's characterizations of rela
 - **Testimony**: Article doesn't directly cite the testimony article but is compatible with its claims about consciousness being required on both ends of testimonial exchange.
 - **Social construction of self**: Article's claim that "social construction of identity depends on the phenomenal self being already in place" matches the social construction article's thesis exactly.
 - **Cumulative culture**: Wikilink resolves correctly (file is in concepts/, not topics/). The article's description of teaching and shared intentionality aligns with cumulative culture's argument.
-- **Intentionality**: The `[intentionality](/concepts/intentionality/#phenomenal-intentionality-theory)` anchor resolves correctly to the section heading in intentionality.md.
+- **Intentionality**: The `[[intentionality#Phenomenal Intentionality Theory]]` anchor resolves correctly to the section heading in intentionality.md.
 
 ### Medium Issues Found
 None. Previous reviews already addressed all medium-priority issues (Zahavi harmonization, Tomasello integration, baseline cognition qualification, knowledge argument analogy precision).

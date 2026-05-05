@@ -24,10 +24,10 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[recent work confirms](/topics/contemplative-evidence-for-consciousness-theories/)` — the original article was archived and coalesced into `contemplative-evidence-for-consciousness-theories`, but that replacement also doesn't exist. Resolution: Replaced with `[cross-traditional evidence confirms](/topics/contemplative-practice-as-philosophical-evidence/)`, which exists and covers the same claim about trained meditators producing convergent reports.
+- **Broken wikilink**: `[[contemplative-training-and-phenomenal-access|recent work confirms]]` — the original article was archived and coalesced into `contemplative-evidence-for-consciousness-theories`, but that replacement also doesn't exist. Resolution: Replaced with `[[contemplative-practice-as-philosophical-evidence|cross-traditional evidence confirms]]`, which exists and covers the same claim about trained meditators producing convergent reports.
 
 ### Medium Issues Found
-- **Phenomenological method article missing from frontmatter**: The article linked to `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)` inline but did not include it in `related_articles` or Further Reading. Resolution: Added to both `related_articles` frontmatter and Further Reading section (replacing the broken `contemplative-training-and-phenomenal-access` entry in related_articles).
+- **Phenomenological method article missing from frontmatter**: The article linked to `[[phenomenological-method-and-evidence-standards]]` inline but did not include it in `related_articles` or Further Reading. Resolution: Added to both `related_articles` frontmatter and Further Reading section (replacing the broken `contemplative-training-and-phenomenal-access` entry in related_articles).
 - **Evidence taxonomy connection underspecified**: The trained introspection paragraph referenced Husserl's evidence taxonomy but didn't articulate the key insight — that the hard problem's philosophical weight rests on apodictic/adequate evidence, not on speculative fine-grained phenomenological claims. Resolution: Expanded the inline explanation to make the apodictic/presumptive gradient and its philosophical consequences explicit.
 
 ### Counterarguments Considered

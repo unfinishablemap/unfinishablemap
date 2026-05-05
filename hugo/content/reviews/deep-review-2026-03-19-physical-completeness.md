@@ -26,7 +26,7 @@ topics: []
 None.
 
 ### Medium Issues Found
-- **Broken link**: `structural-realism` appeared in concepts frontmatter and Further Reading but no such article exists. Resolution: Replaced with `[conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)` which is substantively relevant and exists.
+- **Broken link**: `[[structural-realism]]` appeared in concepts frontmatter and Further Reading but no such article exists. Resolution: Replaced with `[[conservation-laws-and-mental-causation]]` which is substantively relevant and exists.
 - **Unacknowledged dependency on hard problem**: Step 3 of the numbered argument ("Consciousness is not a structural property — this follows from the hard problem") depends on accepting the hard problem, which eliminativists and strong functionalists contest. Resolution: Added parenthetical acknowledging the contestation with a pointer to the Map's defense elsewhere.
 - **Casual connection between hard problem and measurement problem**: The claim that these "may be the same gap" was presented without enough bridging support. Resolution: Added a sentence making explicit what the two gaps share (the transition from complete formal description to something formal description does not capture).
 

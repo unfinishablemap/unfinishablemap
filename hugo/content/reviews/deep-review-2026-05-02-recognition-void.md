@@ -29,7 +29,7 @@ topics: []
   - No dropped qualifiers. No source/Map conflation. No self-contradiction.
 
 ### Medium Issues Found
-- [Missing reciprocal cross-link to aspect-perception-void]: The newly-published aspect-perception-void already lists recognition-void in its `related_articles` (line 22) and Further Reading ("Adjacent to dawning, in the recognitional register"), but the link was one-way. Resolution: Added `[aspect-perception-void](/voids/aspect-perception-void/)` to recognition-void's frontmatter `related_articles`, to the "Phenomenology of Silence" section as a contrast (recognition produces no felt event whereas aspect-perception's dawning produces a felt "lighting up"), and to Further Reading with annotation.
+- [Missing reciprocal cross-link to aspect-perception-void]: The newly-published aspect-perception-void already lists recognition-void in its `related_articles` (line 22) and Further Reading ("Adjacent to dawning, in the recognitional register"), but the link was one-way. Resolution: Added `[[aspect-perception-void]]` to recognition-void's frontmatter `related_articles`, to the "Phenomenology of Silence" section as a contrast (recognition produces no felt event whereas aspect-perception's dawning produces a felt "lighting up"), and to Further Reading with annotation.
 
 ### Counterarguments Considered
 - Eliminative materialist (Churchland): Capgras as functional decomposition. Bedrock disagreement, addressed in prior reviews.

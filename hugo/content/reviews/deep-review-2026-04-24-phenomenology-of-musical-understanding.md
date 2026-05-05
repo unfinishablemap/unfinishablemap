@@ -37,7 +37,7 @@ This review focuses on the new material while respecting convergence of the olde
 None.
 
 ### Medium Issues Found
-- **Missed cross-links in new content**: The new Predictive-Coding Challenge section lacked links to the Map's existing coverage of these ideas — `[predictive-processing](/concepts/predictive-processing/)`, `[predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)`, `[explanatory-gap](/concepts/explanatory-gap/)`, and `[philosophical-zombies](/concepts/philosophical-zombies/)`. The recast Bidirectional Interaction paragraph lacked link to `[epiphenomenalism](/concepts/epiphenomenalism/)`. **Resolution**: Added inline links at natural mention points, and added these articles to the frontmatter concepts/related_articles lists.
+- **Missed cross-links in new content**: The new Predictive-Coding Challenge section lacked links to the Map's existing coverage of these ideas — `[[predictive-processing]]`, `[[predictive-processing-and-dualism]]`, `[[explanatory-gap]]`, and `[[philosophical-zombies]]`. The recast Bidirectional Interaction paragraph lacked link to `[[epiphenomenalism]]`. **Resolution**: Added inline links at natural mention points, and added these articles to the frontmatter concepts/related_articles lists.
 - **Minor phrasing ambiguity**: "ITPRA framework...tracked by neuroimaging" was ambiguous — could be read as claiming Huron's framework itself uses neuroimaging (Huron's book is primarily theoretical/psychophysical). **Resolution**: Rephrased to "with subsequent neuroimaging work mapping these stages to specific cortical and subcortical responses" to clarify that neuroimaging followed the framework rather than constituting it.
 
 ### Counterarguments Considered

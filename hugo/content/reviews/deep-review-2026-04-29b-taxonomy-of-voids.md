@@ -81,10 +81,10 @@ All structural elements unchanged:
 
 ### Cross-links Added
 
-- `[mattering-void](/voids/mattering-void/)` (frontmatter + body)
-- `[relevance-void](/voids/relevance-void/)` (frontmatter + body)
-- `[common-knowledge-void](/voids/common-knowledge-void/)` (frontmatter + body, two body locations)
-- Frontmatter dedupe: removed duplicate `[agency-void](/voids/agency-void/)` entry.
+- `[[mattering-void]]` (frontmatter + body)
+- `[[relevance-void]]` (frontmatter + body)
+- `[[common-knowledge-void]]` (frontmatter + body, two body locations)
+- Frontmatter dedupe: removed duplicate `[[agency-void]]` entry.
 
 ### Length Accounting
 

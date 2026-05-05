@@ -30,7 +30,7 @@ topics: []
 ### Medium Issues Found
 - **McGinn reference unused**: Ref 6 (McGinn, 1989) was in the references but never mentioned in text. Resolution: integrated McGinn's cognitive closure concept into the self-concealing structure section, drawing a productive contrast with the obviousness void.
 - **"Three independent" overstatement**: Schutz was influenced by Husserl, who influenced Heidegger, so "three independent philosophical traditions" was too strong. Resolution: changed to "Multiple philosophical traditions" and "significantly different methodological premises" (still accurate — they diverge methodologically despite shared influences).
-- **Missing in-text cross-link**: `[epistemic-emotions](/concepts/epistemic-emotions/)` was in frontmatter but not linked in the article body. Resolution: added as cross-link in the self-concealing structure section.
+- **Missing in-text cross-link**: `[[epistemic-emotions]]` was in frontmatter but not linked in the article body. Resolution: added as cross-link in the self-concealing structure section.
 - **No connection to Tenet 4 (No Many Worlds)**: Not addressed — this tenet has limited natural connection to the obviousness void topic. Forcing a connection would weaken the article. Deferred.
 
 ### Counterarguments Considered

@@ -146,5 +146,5 @@ The Map displays exactly the kind of epistemic humility that mysterianism demand
 
 ## New Concept Pages Needed
 
-- **Metarepresentation**: 22+ broken wikilinks across the site reference `[metarepresentation](/concepts/metacognition/)` but no concept page exists. Central to the Jourdain hypothesis and baseline cognition clusters. (Already noted in P3 queue—endorsing priority.)
+- **Metarepresentation**: 22+ broken wikilinks across the site reference `[[metarepresentation]]` but no concept page exists. Central to the Jourdain hypothesis and baseline cognition clusters. (Already noted in P3 queue—endorsing priority.)
 - **Phenomenal Intentionality**: Referenced across AI consciousness and philosophy of mind articles. The thesis that intentionality is grounded in phenomenal consciousness deserves its own treatment, connecting to the argument from reason and self-stultification.

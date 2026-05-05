@@ -80,9 +80,9 @@ All major strengths from prior reviews remain intact:
 
 ### Cross-links Maintained
 
-- `[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` — existing, preserved
-- `[temporal self](/concepts/anoetic-noetic-autonoetic-consciousness/)` — existing, preserved
-- `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` in Further Reading — existing, preserved
+- `[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]` — existing, preserved
+- `[[anoetic-noetic-autonoetic-consciousness|temporal self]]` — existing, preserved
+- `[[anoetic-noetic-autonoetic-consciousness]]` in Further Reading — existing, preserved
 
 ## Word Count
 

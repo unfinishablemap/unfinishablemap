@@ -23,10 +23,10 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink to archived slug**: Both `related_articles` frontmatter and the Further Reading section pointed to `[thoughts-that-slip-away](/voids/thought-stream-void/)`, which was coalesced and archived on 2026-04-17 (superseded by `thought-stream-void`). Fixed by replacing both references with `[thought-stream-void](/voids/thought-stream-void/)` and updating the Further Reading description to reflect the broader scope of the new void article while retaining the cognitive-absence connection.
+- **Broken wikilink to archived slug**: Both `related_articles` frontmatter and the Further Reading section pointed to `[[thoughts-that-slip-away]]`, which was coalesced and archived on 2026-04-17 (superseded by `thought-stream-void`). Fixed by replacing both references with `[[thought-stream-void]]` and updating the Further Reading description to reflect the broader scope of the new void article while retaining the cognitive-absence connection.
 
 ### Medium Issues Found
-None. All other attributions, citations, and cross-links verified intact. Tenet anchors (`^dualism`, `^bidirectional-interaction`, `^occams-limits`) all resolve correctly. Sub-heading anchor `[...](/concepts/intentionality/#phenomenal-intentionality-theory)` confirmed valid.
+None. All other attributions, citations, and cross-links verified intact. Tenet anchors (`^dualism`, `^bidirectional-interaction`, `^occams-limits`) all resolve correctly. Sub-heading anchor `[[intentionality#Phenomenal Intentionality Theory|...]]` confirmed valid.
 
 ### Counterarguments Considered
 - **Functionalist objection (Dennett)**: Adequately addressed in prior reviews; not re-flagged per stability notes.
@@ -52,7 +52,7 @@ None. All other attributions, citations, and cross-links verified intact. Tenet 
 - None beyond the critical fix. The article continues to satisfy the convergence criterion flagged in the prior review.
 
 ### Cross-links Added
-- `[thought-stream-void](/voids/thought-stream-void/)` (replacement, not net-new)
+- `[[thought-stream-void]]` (replacement, not net-new)
 
 ## Remaining Items
 

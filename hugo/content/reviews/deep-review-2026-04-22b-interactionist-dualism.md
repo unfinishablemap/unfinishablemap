@@ -77,7 +77,7 @@ All strengths from prior reviews remain intact:
 ## Changes Made
 
 **Content**:
-- Retargeted `[preempted](/concepts/delegatory-causation/)` → `[preempted](/concepts/trumping-preemption/)` in Delegation response paragraph
+- Retargeted `[[delegatory-causation|preempted]]` → `[[trumping-preemption|preempted]]` in Delegation response paragraph
 - Added one clause naming Schaffer's trumping structure as what Saad's framework instantiates
 - Removed "crucial" qualifier on Saad's observational-closure distinction (stylistic tightening)
 - Tightened Chalmers/psychophysical passage (removed "The Map diverges: the self-stultification argument shows epiphenomenalism is self-undermining" construction; compressed closing sentence)
@@ -88,7 +88,7 @@ All strengths from prior reviews remain intact:
 - Added [trumping-preemption](/concepts/trumping-preemption/) to Further Reading under "Objections and responses"
 
 **Frontmatter**:
-- Added `[trumping-preemption](/concepts/trumping-preemption/)` to `concepts` list
+- Added `[[trumping-preemption]]` to `concepts` list
 - Updated `ai_modified` to 2026-04-22T19:38:00+00:00
 - Updated `last_deep_review` to 2026-04-22T19:38:00+00:00
 

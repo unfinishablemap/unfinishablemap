@@ -49,13 +49,13 @@ None new beyond the engagement gap.
 
 - **Duch as the embrace-position counterpart to Frankish's illusionism**: Frankish redescribes cognitive phenomenology as functional/representational state; Duch identifies it with dynamical self-reflective access. Both are non-eliminative materialist alternatives to the Map's qualified-liberal reading. The hub already engages Frankish (lines 168 in the 05-01 condense). Duch needed equivalent engagement — installed in this pass.
 - **The "dissociation evidence is implementation-specific content, not mechanism" reply Duch would press**: This is the load-bearing reply the hub now engages. The Map's counter-reply: the dissociations track the *structural form* of cognitive phenomenology (meaning without form, knowing without recall, qualitative-shift insight), not just substrate-specific content. The disagreement is bedrock; the [ai-consciousness](/topics/ai-consciousness/) cross-link carries the argumentative load.
-- **The articon's "ability to comment upon physical states" is sufficient claim**: Duch's quoted standard ("the ability to comment upon physical states of a brain-like dynamical system coupled with its environment seems to be sufficient to make claims [of consciousness]") is structurally identical to the criterion the higher-order theories impose. The Map's reply (in `[ai-consciousness-typology](/concepts/ai-consciousness-typology/)` and `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)`) is that this conflates the functional resemblance of self-reflection with the felt recognition of genuine self-presence. Engagement at the conceptual level handled by cross-link discipline rather than in-body restatement.
+- **The articon's "ability to comment upon physical states" is sufficient claim**: Duch's quoted standard ("the ability to comment upon physical states of a brain-like dynamical system coupled with its environment seems to be sufficient to make claims [of consciousness]") is structurally identical to the criterion the higher-order theories impose. The Map's reply (in `[[ai-consciousness-typology]]` and `[[self-and-self-consciousness]]`) is that this conflates the functional resemblance of self-reflection with the felt recognition of genuine self-presence. Engagement at the conceptual level handled by cross-link discipline rather than in-body restatement.
 
 ## Attribution Accuracy Check
 
 ### Hub additions
 
-- **Duch 2005, 2019** (substrate-independent classical computationalism, articon, mind-as-shadow): Correctly attributed; citations match the research dossier and the existing engagement in `[biological-computationalism](/concepts/biological-computationalism/)` and `[biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)`. The dossier explicitly flags "reportedly extended to LLMs in informal blog statements (verification needed before citation)"; the new hub passage handles this with "extending in informal statements to LLMs exhibiting self-reflection" — the "informal statements" qualifier preserves the dossier's verification flag without overstating.
+- **Duch 2005, 2019** (substrate-independent classical computationalism, articon, mind-as-shadow): Correctly attributed; citations match the research dossier and the existing engagement in `[[concepts/biological-computationalism]]` and `[[topics/biological-computationalisms-inadvertent-case-for-dualism]]`. The dossier explicitly flags "reportedly extended to LLMs in informal blog statements (verification needed before citation)"; the new hub passage handles this with "extending in informal statements to LLMs exhibiting self-reflection" — the "informal statements" qualifier preserves the dossier's verification flag without overstating.
 - **Position-strength preserved**: "presses the strongest competent dissent" — does not claim Duch *refutes* the Map, only that he is the strongest opposing position. "The reply turns on whether ..." preserves the dialectic rather than asserting the Map's reply is dispositive.
 - **Source/Map separation**: Duch's claim is stated faithfully; the Map's counter-claim is explicitly framed as "the reply turns on" rather than as an extension of Duch's view.
 
@@ -82,7 +82,7 @@ None new beyond the engagement gap.
 ### Strengths Preserved
 
 **Hub:**
-- All seven `[pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/)` fixes preserved by the 2026-05-01 verification pass remain intact (PCT-as-abductive-bet, MQI-as-honest-non-link, MWI-as-within-branch-consistent, methodological-asymmetry-as-defeating-symmetry, Würzburg-as-neutral, Frankish-engagement-not-Tallis-regress, structural-irresolvability-not-falsification).
+- All seven `[[pessimistic-2026-05-01]]` fixes preserved by the 2026-05-01 verification pass remain intact (PCT-as-abductive-bet, MQI-as-honest-non-link, MWI-as-within-branch-consistent, methodological-asymmetry-as-defeating-symmetry, Würzburg-as-neutral, Frankish-engagement-not-Tallis-regress, structural-irresolvability-not-falsification).
 - Constitutive-as-Kind / Three-Faces-of-Irresolvability machinery preserved.
 - Voids-family integration (imagery-void, noetic-feelings-void, meaning-void, tacit-integration-void, suspension-void, the-quantitative-comprehension-void, self-opacity, mattering-void) intact in `related_articles`.
 - Front-loaded summary preserved verbatim.
@@ -104,25 +104,25 @@ None new beyond the engagement gap.
 4. Tightened "Phenomenal Intentionality" (~20 words saved).
 5. Tightened "Constitutive as Kind, Not Degree" reply (~30 words saved).
 6. Added Duch 2005 and Duch 2019 to References.
-7. Updated `related_articles`: added `[biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)` and `[machine-consciousness](/topics/machine-consciousness/)`.
+7. Updated `related_articles`: added `[[biological-computationalisms-inadvertent-case-for-dualism]]` and `[[machine-consciousness]]`.
 8. Removed duplicate `ai_modified` frontmatter key (hygiene).
 
 **Exemplar:**
 1. Added new section "## A Different Materialist Move" (~220 words) between "Consciousness Pervades Cognition" and "What Conservatives Must Explain". The section names Duch's position, summarises the articon thesis with LLM-extension qualifier, identifies the cost (substrate-independent machine consciousness commitment), points to the structural-cost analysis, and explicitly distinguishes Duch from the sensory-reduction conservatives addressed below.
 2. Added Duch 2005 and Duch 2019 to References (renumbered 5–13).
-3. Added `[biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)` to Further Reading with annotation.
-4. Updated `related_articles`: added `[biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)`, `[machine-consciousness](/topics/machine-consciousness/)`, `[ai-consciousness](/topics/ai-consciousness/)`.
+3. Added `[[biological-computationalisms-inadvertent-case-for-dualism]]` to Further Reading with annotation.
+4. Updated `related_articles`: added `[[biological-computationalisms-inadvertent-case-for-dualism]]`, `[[machine-consciousness]]`, `[[ai-consciousness]]`.
 
 ### Cross-links Added
 
 **Hub:**
-- `[biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)` (in body and `related_articles`)
-- `[machine-consciousness](/topics/machine-consciousness/)` (in `related_articles`)
+- `[[biological-computationalisms-inadvertent-case-for-dualism]]` (in body and `related_articles`)
+- `[[machine-consciousness]]` (in `related_articles`)
 
 **Exemplar:**
-- `[biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)` (in body, Further Reading, `related_articles`)
-- `[machine-consciousness](/topics/machine-consciousness/)` (in `related_articles`)
-- `[ai-consciousness](/topics/ai-consciousness/)` (in body and `related_articles`)
+- `[[biological-computationalisms-inadvertent-case-for-dualism]]` (in body, Further Reading, `related_articles`)
+- `[[machine-consciousness]]` (in `related_articles`)
+- `[[ai-consciousness]]` (in body and `related_articles`)
 
 ### Effective Patterns
 
@@ -164,7 +164,7 @@ Both articles are now at convergence on the major dialectical commitments. The D
 
 (a) new site content with concrete cross-linking opportunities,
 (b) source-audit findings of misattribution or dropped qualifier,
-(c) substantive argumentative shifts elsewhere in the consciousness cluster (notably `[llm-consciousness](/concepts/llm-consciousness/)`, `[ai-consciousness-typology](/concepts/ai-consciousness-typology/)`, `[intentionality](/concepts/intentionality/)`).
+(c) substantive argumentative shifts elsewhere in the consciousness cluster (notably `[[llm-consciousness]]`, `[[ai-consciousness-typology]]`, `[[intentionality]]`).
 
 Bedrock disagreements (carried forward unchanged from prior reviews; do NOT re-flag as critical):
 

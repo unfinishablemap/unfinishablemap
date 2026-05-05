@@ -43,8 +43,8 @@ None. All six adversarial personas engaged with the content. Attribution accurac
 - Appropriate hedging on contested evidence (NDEs, psychedelics)
 
 ### Enhancements Made
-- Added inline cross-link to `[perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)` in Transmission Channel Hypothesis section
-- Added inline cross-link to `[selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)` in Bandwidth Signatures compensatory phenomena subsection, connecting the selective correction asymmetry to the interface's active maintenance of phenomenal fields
+- Added inline cross-link to `[[perceptual-degradation-and-the-interface]]` in Transmission Channel Hypothesis section
+- Added inline cross-link to `[[selective-correction-and-reconstruction-paradox]]` in Bandwidth Signatures compensatory phenomena subsection, connecting the selective correction asymmetry to the interface's active maintenance of phenomenal fields
 - Added both concept pages to frontmatter and Further Reading
 
 ### Cross-links Added

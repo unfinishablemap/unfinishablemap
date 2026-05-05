@@ -52,7 +52,7 @@ All previously noted bedrock disagreements (eliminativist, functionalist, zombie
 - 2026-02-25 refinements successfully resolved "deepest void" contradiction
 
 ### Enhancements Made
-- Added `[emergence](/concepts/emergence/)` cross-link in apophatic section
+- Added `[[emergence]]` cross-link in apophatic section
 - Tightened prose in three sections (~88 words trimmed) without losing substance
 - Cleaned up stale AI refinement log
 - Fixed Pseudo-Dionysius attribution accuracy

@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - **EPR citation unreferenced**: Reference #3 (Einstein, Podolsky, & Rosen 1935) was listed but never cited in the article text. Resolution: removed the dangling citation and renumbered.
 - **Strongest objection unaddressed**: The historical analogies (thermodynamics, spectra, general covariance) all involve publicly measurable phenomena, while consciousness is private. This is the most natural objection from empiricists and physicalists, and the Objections section did not address it. Resolution: added "Private Datum, Public Science" objection subsection with a three-part response (existence is intersubjective, constraining work uses existence not qualia, objection proves too much).
-- **Missing body cross-links**: `[causal-closure](/concepts/causal-closure/)` and `[epiphenomenalism](/concepts/epiphenomenalism/)` were in frontmatter concepts but never linked in the article body. Resolution: wove both into "The Standard Direction and Its Costs" section where they naturally fit.
+- **Missing body cross-links**: `[[causal-closure]]` and `[[epiphenomenalism]]` were in frontmatter concepts but never linked in the article body. Resolution: wove both into "The Standard Direction and Its Costs" section where they naturally fit.
 
 ### Counterarguments Considered
 - **Motivated reasoning/circularity**: Already well-addressed in the article with the conditional reasoning distinction.

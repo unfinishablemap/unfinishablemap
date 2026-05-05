@@ -50,7 +50,7 @@ All strengths from previous review remain intact:
 
 ### Cross-links Added
 
-Added `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)` to the Further Reading sections of:
+Added `[[dopamine-and-the-unified-interface]]` to the Further Reading sections of:
 
 1. **[attention-motor-quantum-interface](/concepts/attention-as-interface/)** — "Comprehensive treatment of dopamine's preparatory role in conscious selection"
 2. **[dopamine-selection-interface](/concepts/motor-selection/)** — "Comprehensive topics treatment: salience bridge, tonic/phasic modes, theta oscillations"

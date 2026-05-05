@@ -58,7 +58,7 @@ None. No misattribution, dropped qualifiers, source/Map conflation, or self-cont
 
 - **Bidirectional Interaction section addresses channel opacity but not variable opacity.** The apex argues the channel is invisible-while-operating; the QCV's MQI section observes that the channel's modulated variables (probabilities, magnitudes at quantum scale) are themselves outside phenomenal access. Resolved: added a 55-word "compounding observation" sentence that names the QCV explicitly and articulates the two-layer opacity. This is a substantive cross-void contribution, not boilerplate.
 
-- **Wikilink absent.** The apex did not link to the QCV. Resolved: added `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` to `related_articles` and used the wikilink twice in body.
+- **Wikilink absent.** The apex did not link to the QCV. Resolved: added `[[the-quantitative-comprehension-void]]` to `related_articles` and used the wikilink twice in body.
 
 ### Counterarguments Considered
 
@@ -86,11 +86,11 @@ None. No misattribution, dropped qualifiers, source/Map conflation, or self-cont
 
 - Capacity-status section now cites the QCV as a concrete example, sharpening the typology by giving readers a vivid case (~45 words).
 - Bidirectional Interaction section now acknowledges variable opacity as a compounding layer, naming the QCV explicitly (~55 words).
-- `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` added to `related_articles`.
+- `[[the-quantitative-comprehension-void]]` added to `related_articles`.
 
 ### Cross-links Added
 
-- Inline wikilinks: two new `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` references in the body (typology section + BI tenet section).
+- Inline wikilinks: two new `[[the-quantitative-comprehension-void]]` references in the body (typology section + BI tenet section).
 - Frontmatter: one new entry in `related_articles`.
 
 ### Effective Patterns Preserved

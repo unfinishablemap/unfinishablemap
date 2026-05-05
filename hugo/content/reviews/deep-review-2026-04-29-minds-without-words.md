@@ -27,7 +27,7 @@ None. The article is stable. Two prior reviews resolved all critical and medium 
 
 ### Medium Issues Found
 1. **LLM cliché construct**: Line 115 contained "Consciousness without words is not consciousness diminished; it is consciousness in its more basic form." This is the "is not X; is Y" pattern flagged in the writing style guide. Rephrased to a direct positive claim: "Consciousness without words represents experience in its more basic form, prior to the conceptual elaboration that human language enables." (Fixed)
-2. **Frontmatter concepts not surfaced in body**: `[minimal-consciousness](/concepts/minimal-consciousness/)` and `[evolution-of-consciousness](/concepts/evolution-of-consciousness/)` were listed in the concepts frontmatter but never wikilinked in the body. Added natural body links in the "Multiple Independent Origins" section (evolution-of-consciousness) and the "Minimal Consciousness" section (minimal-consciousness). (Fixed)
+2. **Frontmatter concepts not surfaced in body**: `[[minimal-consciousness]]` and `[[evolution-of-consciousness]]` were listed in the concepts frontmatter but never wikilinked in the body. Added natural body links in the "Multiple Independent Origins" section (evolution-of-consciousness) and the "Minimal Consciousness" section (minimal-consciousness). (Fixed)
 
 ### Low Issues Found
 - Other "not X but Y" formulations in the article (line 89 hedonic-vs-evaluativist contrast, line 105 "doesn't emerge; interfaces with") are load-bearing philosophical contrasts—the previous review preserved them and they remain appropriate.

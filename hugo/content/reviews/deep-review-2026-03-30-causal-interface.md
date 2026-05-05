@@ -26,7 +26,7 @@ topics: []
 None. Article remains stable across three reviews. All attributions accurate. No internal contradictions. No source/Map conflation.
 
 ### Medium Issues Found
-None. Changes since last review were purely mechanical (wikilink fixes: `[self-reference-paradox](/concepts/self-reference-paradox/)` → `[self-reference paradox](/voids/self-opacity/)`, `[mysterianism](/concepts/mysterianism/)` moved from related_articles to concepts only, `[what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)` added to related_articles and Further Reading). No substantive content was altered.
+None. Changes since last review were purely mechanical (wikilink fixes: `[[self-reference-paradox]]` → `[[self-opacity|self-reference paradox]]`, `[[mysterianism]]` moved from related_articles to concepts only, `[[what-consciousness-tells-us-about-physics]]` added to related_articles and Further Reading). No substantive content was altered.
 
 ### Low Issues Found
 - **"Persistence = structural" argument** (carried from two previous reviews): The closing claim in "What Would Challenge This View?" is defensible but remains an argument from absence. **Status**: Deferred again — this is a philosophical limitation of the argument form, not an article flaw. The formulation hedges appropriately.
@@ -64,7 +64,7 @@ All six adversarial personas engaged:
 None. Article requires no content changes — it has reached stability.
 
 ### Cross-links Verified
-- 61 files across the site reference `[causal-interface](/voids/causal-interface/)` — comprehensive integration
+- 61 files across the site reference `[[causal-interface]]` — comprehensive integration
 - All 12 outbound wikilinks verified as pointing to existing files
 - First-mention style ("The Unfinishable Map's") compliant
 

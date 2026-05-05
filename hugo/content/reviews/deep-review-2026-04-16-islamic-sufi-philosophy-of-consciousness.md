@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Al-Ghazālī/Mary's Room temporal gap**: Article said "seven centuries" but al-Ghazālī (~1100 CE) to Jackson (1982) is ~880 years, closer to nine centuries. Fixed to "nearly nine centuries."
-- **Explanatory gap cross-link**: The `[explanatory-gap](/concepts/explanatory-gap/)` reference in Relation to Site Perspective lacked display text. Added `[explanatory gap](/concepts/explanatory-gap/)` for proper rendering.
+- **Explanatory gap cross-link**: The `[[explanatory-gap]]` reference in Relation to Site Perspective lacked display text. Added `[[explanatory-gap|explanatory gap]]` for proper rendering.
 
 ### Attribution Accuracy Check
 - Avicenna's Flying Man, dual-aspect soul, holistic causation: Correctly attributed. ✓

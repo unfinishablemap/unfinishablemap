@@ -67,7 +67,7 @@ None needed — the article already has extensive cross-linking to 13 related ar
 
 ## Remaining Items
 
-- **Missing inbound links from related articles**: Several key articles that the smoothness article links to don't link back: grain-mismatch, neural-refresh-rates-and-the-smoothness-problem, bergson-and-duration, unity-of-consciousness, temporal-structure-of-consciousness, binding-problem. These articles should add `[smoothness-and-continuity](/voids/smoothness-and-continuity/)` references. This is outside scope for a review of THIS article — recommend cross-review tasks for those articles.
+- **Missing inbound links from related articles**: Several key articles that the smoothness article links to don't link back: grain-mismatch, neural-refresh-rates-and-the-smoothness-problem, bergson-and-duration, unity-of-consciousness, temporal-structure-of-consciousness, binding-problem. These articles should add `[[smoothness-and-continuity]]` references. This is outside scope for a review of THIS article — recommend cross-review tasks for those articles.
 - **Herzog quote source**: The quote "The brain wants to give you the best, clearest information it can" may be from a popular interview rather than the cited 2020 paper. Low priority — the substantive scientific claim is correctly sourced.
 
 ## Stability Notes

@@ -30,7 +30,7 @@ Seventh review pass on this article. Cross-review focused on auditing the seven 
 
 ### Issue 1 (High): Self-undermining tension between "Introspective Limits" and central evidence
 
-- **Applies to topic article?** No. Topic article has no Introspective Limits section. The article's qualified-liberalism premise is established in two introductory paragraphs that point readers to `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` for the full case ("see [cognitive-phenomenology](/concepts/cognitive-phenomenology/) for the full case"), so the methodological-pessimism load is carried entirely by the concept page. No mirroring required.
+- **Applies to topic article?** No. Topic article has no Introspective Limits section. The article's qualified-liberalism premise is established in two introductory paragraphs that point readers to `[[cognitive-phenomenology]]` for the full case ("see [cognitive-phenomenology](/concepts/cognitive-phenomenology/) for the full case"), so the methodological-pessimism load is carried entirely by the concept page. No mirroring required.
 - **Verdict**: NOT APPLICABLE.
 
 ### Issue 2 (Medium-High): Würzburg-Titchener precedent read backwards
@@ -51,13 +51,13 @@ Seventh review pass on this article. Cross-review focused on auditing the seven 
 
 ### Issue 5 (Medium-High): Methodological asymmetry reduces to functional differences
 
-- **Applies to topic article?** No. Topic article does not have a methodological-asymmetry section; the LLM-vs-human introspective-trust question is handled in the concept page and `[llm-consciousness](/concepts/llm-consciousness/)`. No mirroring required.
+- **Applies to topic article?** No. Topic article does not have a methodological-asymmetry section; the LLM-vs-human introspective-trust question is handled in the concept page and `[[llm-consciousness]]`. No mirroring required.
 - **Verdict**: NOT APPLICABLE.
 
 ### Issue 6 (Medium): MQI tenet bridge decorative
 
 - **Applies to topic article?** YES. The pre-cross-review MQI bridge was a structural-metaphor argument identical in form to the one the pessimistic review criticised on the concept page: "If consciousness selects among neural possibilities, cognitive phenomenology may be where selection becomes most evident. The experience of 'choosing' one interpretation of an ambiguous sentence, or 'seeing' that a conclusion follows, could reflect the same selection mechanism proposed for attention — operating at the cognitive rather than perceptual level. This connection remains speculative." The "speculative" hedge is too weak given the structural-metaphor diagnosis; classical predictive-coding handles ambiguity resolution adequately.
-- **Resolution**: Rewrote the MQI bridge as an explicit honest non-link, mirroring the concept-page resolution applied at 03:25 UTC. The new bridge: (a) declares the article does not bear directly on MQI, (b) explains why (cognitive phenomenology arguments go through independently; classical accounts cover ambiguity), (c) declines the structural-metaphor temptation explicitly (naming the move so future cross-reviews don't reintroduce it), and (d) redirects readers to `[neural-implementation-specifics](/topics/neural-implementation-specifics/)` for the load-bearing quantum-mechanism question.
+- **Resolution**: Rewrote the MQI bridge as an explicit honest non-link, mirroring the concept-page resolution applied at 03:25 UTC. The new bridge: (a) declares the article does not bear directly on MQI, (b) explains why (cognitive phenomenology arguments go through independently; classical accounts cover ambiguity), (c) declines the structural-metaphor temptation explicitly (naming the move so future cross-reviews don't reintroduce it), and (d) redirects readers to `[[neural-implementation-specifics]]` for the load-bearing quantum-mechanism question.
 - **Verdict**: APPLIED.
 
 ### Issue 7 (Medium-High): Internal contradiction between "What Would Challenge" and "Three Faces"
@@ -95,7 +95,7 @@ None.
 - **Strawson 1994** (foreign-language argument): correctly attributed; *Mental Reality* citation present in References.
 - **Lennon 2023, Zeman 2024, Kay/Keogh/Pearson 2024** (aphantasia evidence): correctly attributed; URL stability confirmed in 2026-04-28 and 2026-04-29 reviews.
 - **PCT framing**: New phrasing flags PCT as an abductive bet rather than presenting it as established; this is the strongest position-strength check the pessimistic review demanded and is now satisfied.
-- **MQI bridge**: New phrasing is an honest non-link rather than a structural-metaphor bridge; the source/Map separation is now clean (no quantum interactionism is asserted in this article; the pointer to `[neural-implementation-specifics](/topics/neural-implementation-specifics/)` makes the proper venue explicit).
+- **MQI bridge**: New phrasing is an honest non-link rather than a structural-metaphor bridge; the source/Map separation is now clean (no quantum interactionism is asserted in this article; the pointer to `[[neural-implementation-specifics]]` makes the proper venue explicit).
 - **Map/Source separation**: Maintained throughout. PCT, the MQI non-link, and the click-of-understanding two-reading framing all explicitly mark which claims are conditional on the Map's interpretive stance versus which are source attributions.
 
 ## Optimistic Analysis Summary
@@ -105,7 +105,7 @@ None.
 - **Front-loaded summary** (lines 45–47): Two introductory paragraphs preserved verbatim; the "see [cognitive-phenomenology](/concepts/cognitive-phenomenology/) for the full case" bridge to the concept page remains intact.
 - **The Materialist Retreat** section: Unchanged. The expansion-from-sensation-to-cognition framing is the article's load-bearing move and is intact.
 - **Mary's Room generalisation to mathematical understanding**: Unchanged. This remains the article's most distinctive contribution (the Mary variant for mathematical insight does not appear in standard treatments at this resolution).
-- **Argument from Reason and self-stultification connections**: Unchanged. Cross-links to `[argument-from-reason](/topics/argument-from-reason/)`, `[self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)`, `[consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)`, and `[phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)` preserved.
+- **Argument from Reason and self-stultification connections**: Unchanged. Cross-links to `[[argument-from-reason]]`, `[[self-stultification-as-master-argument]]`, `[[consciousness-and-the-normativity-of-reason]]`, and `[[phenomenology-of-intellectual-life]]` preserved.
 - **Symbol grounding paragraph**: Now correctly conditional on PCT (per the parenthetical in the rewritten PCT paragraph) but otherwise preserved.
 - **Consciousness Pervades Cognition** section: Unchanged. Amplification thesis and zombie-argument transformation preserved.
 - **What Conservatives Must Explain** section: Unchanged. The 2026-04-28 imagery-void integration (Lennon/Zeman/Kay anchors) and the 2026-04-29 phenomenology-vs-function-axis cross-link remain load-bearing.
@@ -151,4 +151,4 @@ Bedrock disagreements (carried forward unchanged from prior reviews; do NOT re-f
 5. **MWI defender** finds the irreducibility argument unconvincing: expected disagreement; this article does not have an MWI bridge so the issue is not load-bearing here.
 6. **PCT-skeptical liberals (Chudnoff line)**: now explicitly acknowledged with downstream applications conditional on PCT; further objection is bedrock disagreement, not flaw.
 
-The cross-review chain triggered by `[pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/)` is now closed across both the concept page and this topic exemplar. The article and the concept page form a tightly coupled pair anchored on the PCT-as-abductive-bet framing, the MQI-as-honest-non-link framing, and the click-of-understanding two-reading framing. No further reviews of this article are warranted by this editorial cycle; future modifications should only follow (a) new site content with concrete cross-linking opportunities, (b) source-audit findings of misattribution or dropped qualifier, or (c) substantive concept-page restructuring that warrants mirroring here.
+The cross-review chain triggered by `[[pessimistic-2026-05-01]]` is now closed across both the concept page and this topic exemplar. The article and the concept page form a tightly coupled pair anchored on the PCT-as-abductive-bet framing, the MQI-as-honest-non-link framing, and the click-of-understanding two-reading framing. No further reviews of this article are warranted by this editorial cycle; future modifications should only follow (a) new site content with concrete cross-linking opportunities, (b) source-audit findings of misattribution or dropped qualifier, or (c) substantive concept-page restructuring that warrants mirroring here.

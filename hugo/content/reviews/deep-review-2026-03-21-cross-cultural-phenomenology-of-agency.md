@@ -26,11 +26,11 @@ topics: []
 None. All critical issues from the previous review (wu wei misattribution, Barrett citation error, Buddhist "selects" language) remain properly resolved.
 
 ### Medium Issues Found
-- **Broken frontmatter link**: `[phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/)` in related_articles pointed to a file that doesn't exist. Resolution: replaced with `[cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)`, a directly relevant companion article.
-- **Misleading wikilink**: `[minimal quantum interaction](/topics/free-will/)` linked to the free-will article but displayed as "minimal quantum interaction." Resolution: changed to `[minimal quantum interaction](/tenets/#minimal-quantum-interaction)` to link to the tenets page section anchor.
+- **Broken frontmatter link**: `[[phenomenology-of-skill-and-the-lived-body]]` in related_articles pointed to a file that doesn't exist. Resolution: replaced with `[[cross-traditional-convergence-on-consciousness-irreducibility]]`, a directly relevant companion article.
+- **Misleading wikilink**: `[[topics/free-will|minimal quantum interaction]]` linked to the free-will article but displayed as "minimal quantum interaction." Resolution: changed to `[[tenets#^minimal-quantum-interaction|minimal quantum interaction]]` to link to the tenets page section anchor.
 - **Buddhist "underdetermined" framing**: Line 61 claimed Buddhist conditions "leave the future underdetermined," projecting quantum-style indeterminacy onto Buddhist dependent origination, which is deterministic given conditions. Resolution: rewrote to acknowledge dependent origination's determinism while preserving the phenomenological point about experienced openness.
 - **Uncited references**: Thompson (2007) and Slingerland (2003) were in the references section but never cited in body text. Resolution: added in-text citations where their claims are invoked.
-- **Missing cross-links**: Two highly relevant companion articles — `[cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)` and `[cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)` — were not linked despite direct thematic overlap. Resolution: added cross-links in body text and Further Reading.
+- **Missing cross-links**: Two highly relevant companion articles — `[[cross-cultural-convergence-on-mental-causation]]` and `[[cross-traditional-convergence-on-consciousness-irreducibility]]` — were not linked despite direct thematic overlap. Resolution: added cross-links in body text and Further Reading.
 
 ### Counterarguments Considered
 - **Biological universals** (Churchland/Dennett): Already addressed in previous review — functional vs. phenomenological invariant distinction holds. Not re-flagged.

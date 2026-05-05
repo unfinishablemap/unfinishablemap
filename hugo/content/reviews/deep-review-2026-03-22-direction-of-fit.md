@@ -26,9 +26,9 @@ topics: []
 None. The article's factual claims are accurate (Anscombe 1957, Searle 1983 attributions correct), the argument is internally consistent, and required sections are present. No attribution errors detected — the Anscombe shopping list analogy, Searle's systematisation, and the double direction of fit in intentions-in-action are all correctly attributed.
 
 ### Medium Issues Found
-1. **Inconsistent wikilink path prefix**: `[epiphenomenalism](/concepts/epiphenomenalism/)` used unnecessary `concepts/` prefix while all other wikilinks omit section prefixes. File is unambiguous. **Resolution**: Normalized to `[epiphenomenalism](/concepts/epiphenomenalism/)` across frontmatter, body text, and Further Reading (3 occurrences).
+1. **Inconsistent wikilink path prefix**: `[[concepts/epiphenomenalism]]` used unnecessary `concepts/` prefix while all other wikilinks omit section prefixes. File is unambiguous. **Resolution**: Normalized to `[[epiphenomenalism]]` across frontmatter, body text, and Further Reading (3 occurrences).
 
-2. **Missing inline cross-links**: `[mental-causation](/concepts/mental-causation-and-downward-causation/)` and `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` were discussed substantively in the body but only linked in Further Reading. **Resolution**: Added `[mind-body problem](/concepts/mental-causation-and-downward-causation/)` in the World-to-Mind section and `[phenomenal character](/concepts/cognitive-phenomenology/)` in the Normative Dimension section.
+2. **Missing inline cross-links**: `[[mental-causation]]` and `[[cognitive-phenomenology]]` were discussed substantively in the body but only linked in Further Reading. **Resolution**: Added `[[mental-causation|mind-body problem]]` in the World-to-Mind section and `[[cognitive-phenomenology|phenomenal character]]` in the Normative Dimension section.
 
 ### Counterarguments Considered
 All six adversarial personas engaged. Findings align with previous review's stability notes:

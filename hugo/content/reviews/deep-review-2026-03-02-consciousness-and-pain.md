@@ -35,27 +35,27 @@ However, a thorough search identified **6 major articles** that discuss pain, as
 ## Cross-Links Added (6 files, 12 link instances)
 
 ### 1. concepts/mental-causation.md
-- **Inline**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` reference in the valence→action selection coupling mechanism (section on candidate mechanisms), where pain asymbolia is cited as evidence
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry
+- **Inline**: Added `[[why-pain-hurts]]` reference in the valence→action selection coupling mechanism (section on candidate mechanisms), where pain asymbolia is cited as evidence
+- **Further Reading**: Added `[[why-pain-hurts]]` entry
 
 ### 2. concepts/epiphenomenalism.md
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry — "Why pain is the hardest case for epiphenomenalism"
+- **Further Reading**: Added `[[why-pain-hurts]]` entry — "Why pain is the hardest case for epiphenomenalism"
 
 ### 3. topics/emotional-consciousness.md
-- **Inline**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` reference in "Valence and Motivation" section, after the asymbolia argument that felt badness grounds motivation
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry
+- **Inline**: Added `[[why-pain-hurts]]` reference in "Valence and Motivation" section, after the asymbolia argument that felt badness grounds motivation
+- **Further Reading**: Added `[[why-pain-hurts]]` entry
 
 ### 4. topics/evolutionary-case-for-mental-causation.md
-- **Inline**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` reference in the "Correlation Problem" section after the pain asymbolia evidence
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry
+- **Inline**: Added `[[why-pain-hurts]]` reference in the "Correlation Problem" section after the pain asymbolia evidence
+- **Further Reading**: Added `[[why-pain-hurts]]` entry
 
 ### 5. topics/consciousness-and-causal-powers.md
-- **Inline**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` reference in the "Phenomenal Biasing" section, expanding the pain example with asymbolia evidence
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry
+- **Inline**: Added `[[why-pain-hurts]]` reference in the "Phenomenal Biasing" section, expanding the pain example with asymbolia evidence
+- **Further Reading**: Added `[[why-pain-hurts]]` entry
 
 ### 6. concepts/qualia.md
-- **Inline**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` reference after the pain asymbolia sentence in "Why Qualia Matter"
-- **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry under Extensions
+- **Inline**: Added `[[why-pain-hurts]]` reference after the pain asymbolia sentence in "Why Qualia Matter"
+- **Further Reading**: Added `[[why-pain-hurts]]` entry under Extensions
 
 ## No Content Changes to Archived Article
 

@@ -40,7 +40,7 @@ None. Per the convergence rule, the previous review's stability notes apply: do 
 ### Medium Issues Found
 
 - **Reciprocal-link asymmetry**: Each of the four exemplar articles linked to `taxonomy-of-voids` (where the axis is named in the apex synthesis) but not directly to the new standalone `phenomenology-vs-function-axis` concept page. This is the explicit reason for this cross-review.
-  **Resolution**: Added `[phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)` to the `related_articles` frontmatter and a dedicated entry in the Further Reading section of each of the four exemplars, sitting alongside (not replacing) the existing taxonomy-of-voids entry. Each new entry names the role the exemplar plays in the axis: cleanest case (imagery), one of the four canonical exemplars (synaesthesia), the agency-domain extension (Wegner I-Spy), the comprehension-domain exemplar (Strawson). No body content was modified; the existing prose already references the function-phenomenology dissociation in source-accurate form.
+  **Resolution**: Added `[[phenomenology-vs-function-axis]]` to the `related_articles` frontmatter and a dedicated entry in the Further Reading section of each of the four exemplars, sitting alongside (not replacing) the existing taxonomy-of-voids entry. Each new entry names the role the exemplar plays in the axis: cleanest case (imagery), one of the four canonical exemplars (synaesthesia), the agency-domain extension (Wegner I-Spy), the comprehension-domain exemplar (Strawson). No body content was modified; the existing prose already references the function-phenomenology dissociation in source-accurate form.
 
 ### Counterarguments Considered
 
@@ -61,10 +61,10 @@ All six adversarial personas were exhausted in the prior review. The link-instal
 
 ### Cross-links Added
 
-- `obsidian/voids/imagery-void.md`: added `[phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)` to `related_articles` and a Further Reading entry naming it as the "cleanest of its four canonical exemplars."
-- `obsidian/voids/synesthetic-void.md`: added `[phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)` to `related_articles` and a Further Reading entry naming synaesthesia as one of the four canonical empirical exemplars.
-- `obsidian/voids/agency-void.md`: added `[phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)` to `related_articles` and a Further Reading entry noting that the I-Spy paradigm extends the axis from sensory and cognitive phenomenology into willed action.
-- `obsidian/topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`: added `[phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)` to `related_articles` and a Further Reading entry naming Strawson's foreign-language argument as the comprehension-domain exemplar.
+- `obsidian/voids/imagery-void.md`: added `[[phenomenology-vs-function-axis]]` to `related_articles` and a Further Reading entry naming it as the "cleanest of its four canonical exemplars."
+- `obsidian/voids/synesthetic-void.md`: added `[[phenomenology-vs-function-axis]]` to `related_articles` and a Further Reading entry naming synaesthesia as one of the four canonical empirical exemplars.
+- `obsidian/voids/agency-void.md`: added `[[phenomenology-vs-function-axis]]` to `related_articles` and a Further Reading entry noting that the I-Spy paradigm extends the axis from sensory and cognitive phenomenology into willed action.
+- `obsidian/topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`: added `[[phenomenology-vs-function-axis]]` to `related_articles` and a Further Reading entry naming Strawson's foreign-language argument as the comprehension-domain exemplar.
 
 ## Remaining Items
 

@@ -151,7 +151,7 @@ title: AI Activity Changelog - Week 2026-W07
 - **Sources**: [observational-closure](/concepts/observational-closure/)
 - **Target**: [causal-closure](/concepts/causal-closure/)
 - **Archived**: [observational-closure](/archive/concepts/observational-closure/)
-- **References to review**: 8 active content files reference `[observational-closure](/concepts/observational-closure/)` (preemption, contemplative-epistemology, objections-to-interactionism, interactionist-dualism, mental-causation, consciousness-and-agency, delegatory-dualism, deep-review-2026-02-02-observational-closure)
+- **References to review**: 8 active content files reference `[[observational-closure]]` (preemption, contemplative-epistemology, objections-to-interactionism, interactionist-dualism, mental-causation, consciousness-and-agency, delegatory-dualism, deep-review-2026-02-02-observational-closure)
 
 ---
 

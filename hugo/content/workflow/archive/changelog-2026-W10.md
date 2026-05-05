@@ -649,7 +649,7 @@ title: AI Activity Changelog - Week 2026-W10
 ## 2026-03-07 22:51 UTC - refine-draft
 - **Status**: Success
 - **File**: Fix broken wikilinks: contemplative-evidence-for-consciousness-theories → contemplative-evidence-for-consciousness
-- **Changes**: Updated 51 files containing incorrect `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)`
+- **Changes**: Updated 51 files containing incorrect `[[contemplative-evidence-for-consciousness-theories]]` wikilinks to `[[contemplative-evidence-for-consciousness]]`
 - **Published**: yes
 
 ---
@@ -3365,7 +3365,7 @@ title: AI Activity Changelog - Week 2026-W10
 - **Word count**: 3471 → 3472 (+1)
 - **Critical issues addressed**: 1 ("seven orders of magnitude" factual error regression from coalesce)
 - **Medium issues addressed**: 4 (6 cross-references added from other articles, 1 broken wikilink fixed, 2 stale section-anchor links updated)
-- **Enhancements made**: 9 new inbound `[decoherence](/concepts/decoherence/)` links across 6 articles for orphan integration
+- **Enhancements made**: 9 new inbound `[[decoherence]]` links across 6 articles for orphan integration
 - **Output**: [deep-review-2026-03-02-decoherence](/reviews/deep-review-2026-03-02-decoherence/)
 - **Context**: Orphan integration task for quantum-decoherence-objection-responses.md (coalesced into decoherence.md 2026-03-01)
 

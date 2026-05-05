@@ -26,8 +26,8 @@ topics: []
 None. The coalesced article is well-constructed with accurate attributions, no self-contradictions, and no source/Map conflation.
 
 ### Medium Issues Found
-- [Broken frontmatter concept link]: `[phenomenal-unity](/concepts/unity-of-consciousness/)` in frontmatter concepts — no such file exists anywhere in the obsidian directory. **Resolution**: Removed from frontmatter.
-- [Missing decoherence wikilink]: Decoherence discussed at length in Kim's Challenge section but never wikilinked to existing `[decoherence](/concepts/decoherence/)` concept page. **Resolution**: Added wikilink.
+- [Broken frontmatter concept link]: `[[phenomenal-unity]]` in frontmatter concepts — no such file exists anywhere in the obsidian directory. **Resolution**: Removed from frontmatter.
+- [Missing decoherence wikilink]: Decoherence discussed at length in Kim's Challenge section but never wikilinked to existing `[[decoherence]]` concept page. **Resolution**: Added wikilink.
 - [Description over length guideline]: Description was 199 characters, exceeding the 150-160 char guideline. **Resolution**: Trimmed to ~157 characters while preserving key message.
 - [Born rule claim vague]: Testability section mentioned "deviations from standard Born rule probabilities" without explaining what this would mean in practice. **Resolution**: Added brief clarification ("outcomes occurring more or less frequently than quantum mechanics predicts, correlated with conscious states").
 
@@ -64,17 +64,17 @@ None. The coalesced article is well-constructed with accurate attributions, no s
 - Careful attributions throughout
 
 ### Enhancements Made
-- Added `[decoherence](/concepts/decoherence/)` wikilink in quantum mechanism section
+- Added `[[decoherence]]` wikilink in quantum mechanism section
 - Clarified Born rule deviation claim in testability section
 - Trimmed description to guideline-appropriate length
 
 ### Cross-links Added
-- `[decoherence](/concepts/decoherence/)` — inline in Kim's Challenge quantum mechanism paragraph
+- `[[decoherence]]` — inline in Kim's Challenge quantum mechanism paragraph
 
 ## Remaining Items
 
 - "Dimensional mismatch" is non-standard terminology — communicates effectively but may warrant replacement if future reviews flag it (third mention would trigger consideration per previous review note)
-- Stapp's quantum Zeno approach is not mentioned by name despite `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` concept existing — the general quantum mechanism discussion implies it but an explicit cross-link could strengthen the connection in a future edit
+- Stapp's quantum Zeno approach is not mentioned by name despite `[[stapp-quantum-mind]]` concept existing — the general quantum mechanism discussion implies it but an explicit cross-link could strengthen the connection in a future edit
 
 ## Stability Notes
 

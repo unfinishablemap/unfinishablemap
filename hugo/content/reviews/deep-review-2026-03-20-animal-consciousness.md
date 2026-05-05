@@ -29,8 +29,8 @@ None. The article remains stable after six review cycles. All attributions verif
 
 ### Medium Issues Found
 
-1. **Missing cross-link to `[degrees-of-consciousness](/concepts/degrees-of-consciousness/)`**: The article discussed consciousness as "not an all-or-nothing property" and referenced gradients across species, but didn't link to the new concept page developing the multidimensional framework (intensity, richness, complexity, access).
-   - **Resolution**: Added `[degrees-of-consciousness](/concepts/degrees-of-consciousness/)` cross-link in the opening paragraph, the gradient discussion in the ape/dualism section, and Further Reading. Added to frontmatter concepts.
+1. **Missing cross-link to `[[degrees-of-consciousness]]`**: The article discussed consciousness as "not an all-or-nothing property" and referenced gradients across species, but didn't link to the new concept page developing the multidimensional framework (intensity, richness, complexity, access).
+   - **Resolution**: Added `[[degrees-of-consciousness]]` cross-link in the opening paragraph, the gradient discussion in the ape/dualism section, and Further Reading. Added to frontmatter concepts.
 
 2. **Gradient language conflated degrees with types**: The phrase "may interface with different cognitive architectures in different ways, producing different amplification profiles" blurred the distinction between degrees (how much consciousness) and types (what kind). The degrees-of-consciousness article carefully distinguishes these.
    - **Resolution**: Replaced with multidimensional vocabulary from degrees-of-consciousness, clarifying that what appears as "less" consciousness may be consciousness configured differently across intensity, richness, complexity, and access dimensions.
@@ -64,10 +64,10 @@ All attributions verified: Nagel, Cambridge Declaration, New York Declaration, G
 
 ### Enhancements Made
 
-1. Integrated `[degrees-of-consciousness](/concepts/degrees-of-consciousness/)` multidimensional framework into the gradient discussion, replacing imprecise "not an all-or-nothing property" with specific dimensions (intensity, richness, complexity, access)
+1. Integrated `[[degrees-of-consciousness]]` multidimensional framework into the gradient discussion, replacing imprecise "not an all-or-nothing property" with specific dimensions (intensity, richness, complexity, access)
 2. Added degrees cross-link in opening paragraph for early reader orientation
 3. Trimmed redundant sentence from opening paragraph ("Materialism cannot explain...") that duplicated the Dualism tenet section, maintaining length neutrality
-4. Added `[degrees-of-consciousness](/concepts/degrees-of-consciousness/)` to frontmatter concepts and Further Reading
+4. Added `[[degrees-of-consciousness]]` to frontmatter concepts and Further Reading
 
 ### Cross-links Added
 
@@ -75,7 +75,7 @@ All attributions verified: Nagel, Cambridge Declaration, New York Declaration, G
 
 ## Remaining Items
 
-- **Site-wide**: `[metarepresentation](/concepts/metacognition/)` concept page still needed (61+ files link to it) — carried forward from previous reviews
+- **Site-wide**: `[[metarepresentation]]` concept page still needed (61+ files link to it) — carried forward from previous reviews
 
 ## Stability Notes
 

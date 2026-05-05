@@ -25,7 +25,7 @@ topics: []
 ### Critical Issues Found
 - **Orphaned references**: Gödel (1931), Lucas (1961), Penrose (1989), and Nagel (1997) listed in References but not cited in article text — remnants from the two archived source articles. Resolution: Added Gödel paragraph (incompleteness as internal limit of formal systems) and Nagel mention (reason's autonomy in *The Last Word*). Removed Lucas and Penrose references since their specific arguments (Lucas-Penrose re: machines and Gödel) are not developed in the coalesced version.
 - **Russell "quote" may not be verbatim**: The phrase "abstract, consisting entirely of structure" was presented in quotation marks but may be a paraphrase compression. Resolution: Converted to paraphrase without quotation marks.
-- **IIT in frontmatter but absent from body**: `[integrated-information-theory](/concepts/integrated-information-theory/)` listed as a concept but never discussed. Resolution: Removed from concepts list; removed Tononi (2008) from references.
+- **IIT in frontmatter but absent from body**: `[[integrated-information-theory]]` listed as a concept but never discussed. Resolution: Removed from concepts list; removed Tononi (2008) from references.
 - **Relation to Site Perspective covered only 3 of 5 relevant tenets**: Missing Minimal Quantum Interaction despite discussing it in the body. Resolution: Added dedicated MQI subsection.
 
 ### Medium Issues Found
@@ -34,8 +34,8 @@ topics: []
 - **Internal tension between formal limits and quantum interaction underdeveloped**: The article simultaneously argues formal systems cannot capture consciousness and that consciousness interfaces with formally described quantum mechanics, addressing this in a single sentence. Resolution: Developed into a full argument using the authority/sovereignty distinction and a gravity analogy.
 - **Category error vs cognitive closure too thin**: Single sentence choosing category error without argument. Resolution: Added sentences explaining the distinction and why the Galilean precedent supports category error.
 - **Opening paragraph "not X but Y" construction**: "These are not two separate observations but two faces..." follows the prohibited negative-positive pattern. Resolution: Rephrased to lead with positive claim.
-- **Stale related_articles**: Two archived articles still in frontmatter and Further Reading. Resolution: Updated to point to coalesced replacement `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)`.
-- **Frontmatter inconsistency**: `[materialism](/concepts/materialism/)` used path prefix unlike other concepts. Resolution: Changed to `[materialism](/concepts/materialism/)`.
+- **Stale related_articles**: Two archived articles still in frontmatter and Further Reading. Resolution: Updated to point to coalesced replacement `[[consciousness-and-mathematical-cognition]]`.
+- **Frontmatter inconsistency**: `[[concepts/materialism]]` used path prefix unlike other concepts. Resolution: Changed to `[[materialism]]`.
 
 ### Counterarguments Considered
 - **Dual-process challenge** (Churchland): Valid inference without phenomenal compulsion. Addressed with new paragraph distinguishing implementing logic from encountering its authority.

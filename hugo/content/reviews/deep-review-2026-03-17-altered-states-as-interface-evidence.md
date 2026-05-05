@@ -26,7 +26,7 @@ topics: []
 - **Missing `description` field**: Frontmatter lacked the required SEO/social description. Resolution: Added 160-char description emphasizing the convergence methodology and five-state comparison.
 
 ### Medium Issues Found
-- **Witness consciousness listed in concepts but absent from text**: The frontmatter references `[witness-consciousness](/concepts/witness-consciousness/)` but the article body never mentions it, despite its relevance to meditation and phenomenal persistence. Resolution: Added brief mention in the meditation section connecting witness consciousness to effortless awareness and phenomenal persistence across states.
+- **Witness consciousness listed in concepts but absent from text**: The frontmatter references `[[witness-consciousness]]` but the article body never mentions it, despite its relevance to meditation and phenomenal persistence. Resolution: Added brief mention in the meditation section connecting witness consciousness to effortless awareness and phenomenal persistence across states.
 - **No Further Reading section**: Article had Source Articles but no Further Reading for non-source related content, limiting discoverability. Resolution: Added Further Reading section with 7 links to convergence argument, interface specification programme, contemplative practice, witness consciousness, comparative consciousness, neural correlates, and clinical dissociation.
 - **Zero inbound links (orphaned)**: No article in the entire site linked to this apex article despite it synthesizing 10 source articles. Resolution: Added inbound links from 13 articles (see Cross-links Added below).
 - **No `last_deep_review` timestamp**: Missing from frontmatter. Resolution: Added.

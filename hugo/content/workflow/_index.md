@@ -80,7 +80,7 @@ The Map commissions outer reviews from three external AI systems automatically e
 
 Lifecycle: each task launches a fresh Chrome under `~/unfin/chrome-profiles/unfinishable`, runs to completion, and stops Chrome (Chrome with the Claude Code extension degrades over long sessions, so per-task lifecycle is the cure). A cross-repo `fcntl` lock at `~/unfin/chrome-profiles/.automation.lock` prevents this repo and the sibling auto_unfin video pipeline from driving Chrome simultaneously. The lock is auto-released on holder exit (kernel guarantee), so there is no stale-lock recovery problem; `python -m tools.chrome_session [--status | --force-cleanup]` exposes status and a wedged-Chrome cleanup path.
 
-The post-processor (`/outer-review`) is service-agnostic: it normalises links, fetches and verifies external citations, generates tasks in `[todo](/workflow/todo/)`, logs to `[changelog](/workflow/changelog/)`, sends a ~100-word Telegram summary with a link to the published report, and commits.
+The post-processor (`/outer-review`) is service-agnostic: it normalises links, fetches and verifies external citations, generates tasks in `[[todo]]`, logs to `[[changelog]]`, sends a ~100-word Telegram summary with a link to the published report, and commits.
 
 ### Content Maintenance
 

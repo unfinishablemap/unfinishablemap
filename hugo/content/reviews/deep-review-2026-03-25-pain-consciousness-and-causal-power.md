@@ -26,8 +26,8 @@ topics: []
 - None. Article remains stable. No attribution errors, no source/Map conflation, no internal contradictions.
 
 ### Medium Issues Found
-- **Missing cross-links to supervenience concept**: The article used "supervenes" and "supervenience mapping" (lines 158, 172) without wikilinks to the newly created `[supervenience](/concepts/supervenience/)` concept page. The supervenience page's discussion of Kim's exclusion argument, nomological vs. metaphysical necessity, and the Map's position on supervenience-without-reduction all directly reinforce this article's arguments. **Resolution**: Added `[supervenience](/concepts/supervenience/)` wikilinks at both textual mentions plus frontmatter concept and Further Reading entry.
-- **Bidirectional link gap**: The supervenience concept page had no related_articles link back to this article despite directly relevant content (supervenience mapping in epiphenomenalism section, No Many Worlds tenet argument). **Resolution**: Added `[pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)` to supervenience's related_articles.
+- **Missing cross-links to supervenience concept**: The article used "supervenes" and "supervenience mapping" (lines 158, 172) without wikilinks to the newly created `[[supervenience]]` concept page. The supervenience page's discussion of Kim's exclusion argument, nomological vs. metaphysical necessity, and the Map's position on supervenience-without-reduction all directly reinforce this article's arguments. **Resolution**: Added `[[supervenience]]` wikilinks at both textual mentions plus frontmatter concept and Further Reading entry.
+- **Bidirectional link gap**: The supervenience concept page had no related_articles link back to this article despite directly relevant content (supervenience mapping in epiphenomenalism section, No Many Worlds tenet argument). **Resolution**: Added `[[pain-consciousness-and-causal-power]]` to supervenience's related_articles.
 
 ### Counterarguments Considered
 - All six adversarial personas' objections remain bedrock philosophical disagreements (confirmed in previous two reviews). No re-flagging warranted.
@@ -43,9 +43,9 @@ topics: []
 - The epiphenomenalism section's use of supervenience is well-calibrated — it presents the epiphenomenalist's supervenience response fairly before pressing the "why this mapping?" challenge, which aligns perfectly with the supervenience concept page's thesis that supervenience describes a pattern without explaining it
 
 ### Enhancements Made
-- Added `[supervenience](/concepts/supervenience/)` to frontmatter concepts
-- Added 3 wikilinks to `[supervenience](/concepts/supervenience/)` in body text (lines 158, 172)
-- Added `[supervenience](/concepts/supervenience/)` to Further Reading with description
+- Added `[[supervenience]]` to frontmatter concepts
+- Added 3 wikilinks to `[[supervenience]]` in body text (lines 158, 172)
+- Added `[[supervenience]]` to Further Reading with description
 - Added bidirectional link from supervenience concept page back to this article
 
 ### Cross-links Added

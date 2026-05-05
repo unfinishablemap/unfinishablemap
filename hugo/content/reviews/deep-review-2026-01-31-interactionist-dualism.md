@@ -79,7 +79,7 @@ Six sympathetic philosopher personas examined the document:
    - "exercises causal power over brain states" → "exercising causal power"
    - "feels like *doing* something" → "feels like *doing*"
 
-3. **Frontmatter**: Added `[causal-interface](/voids/causal-interface/)` to concepts list
+3. **Frontmatter**: Added `[[causal-interface]]` to concepts list
 
 4. **Further Reading**: Added causal-interface to Related topics
 

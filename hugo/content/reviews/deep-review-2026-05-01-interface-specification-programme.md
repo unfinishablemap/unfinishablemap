@@ -48,8 +48,8 @@ topics: []
 - The article structure was not modified; voice and substance preserved entirely.
 
 ### Enhancements Made
-- Updated frontmatter `related_articles` wikilink: `[the-interface-specification-problem](/topics/the-interface-problem/)` → `[the-interface-problem](/topics/the-interface-problem/)`.
-- Updated inline wikilink at the head of the Specification Gap section: `[interface specification problem](/topics/the-interface-problem/)` → `[interface specification problem](/topics/the-interface-problem/)`.
+- Updated frontmatter `related_articles` wikilink: `[[the-interface-specification-problem]]` → `[[the-interface-problem]]`.
+- Updated inline wikilink at the head of the Specification Gap section: `[[the-interface-specification-problem|interface specification problem]]` → `[[the-interface-problem|interface specification problem]]`.
 - Updated `modified`, `ai_modified`, and `last_deep_review` timestamps.
 
 ### Cross-links Added

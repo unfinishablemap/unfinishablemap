@@ -27,7 +27,7 @@ The article remains stable in substance. The only issue found was a stale wikili
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Stale wikilink to archived article**: Line 81 referenced `[Phenomenal Constitution Thesis (PCT)](/topics/consciousness-and-semantic-understanding/)` but this article was coalesced into `consciousness-and-semantic-understanding` on 2026-02-04. The frontmatter concepts list was updated at that time, but the body text link was missed. **Resolution**: Updated to `[Phenomenal Constitution Thesis (PCT)](/topics/phenomenology-of-understanding/)`.
+- **Stale wikilink to archived article**: Line 81 referenced `[[meaning-and-consciousness|Phenomenal Constitution Thesis (PCT)]]` but this article was coalesced into `consciousness-and-semantic-understanding` on 2026-02-04. The frontmatter concepts list was updated at that time, but the body text link was missed. **Resolution**: Updated to `[[consciousness-and-semantic-understanding|Phenomenal Constitution Thesis (PCT)]]`.
 
 ### Medium Issues Found
 None.

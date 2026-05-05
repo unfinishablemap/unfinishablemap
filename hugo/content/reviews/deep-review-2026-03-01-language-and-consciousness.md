@@ -62,7 +62,7 @@ No attribution errors, dropped qualifiers, overstated positions, or source/Map c
 No content changes to the article itself (article remains stable after 4 reviews). Timestamps updated only.
 
 ### Cross-links Added TO This Article (Continued Orphan Integration)
-Six additional articles now link to `[language-and-consciousness](/concepts/language-and-consciousness/)`:
+Six additional articles now link to `[[language-and-consciousness]]`:
 
 1. **[philosophical-zombies](/concepts/philosophical-zombies/)** — Added inline in "Self-Stultification Problem" section connecting Grice's meaning analysis to zombie utterances lacking genuine semantic content. Also added to Further Reading.
 2. **[knowledge-argument](/concepts/knowledge-argument/)** — Added to Further Reading, noting how reference to consciousness resists standard theories of meaning.

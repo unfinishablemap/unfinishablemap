@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Frontmatter miscategorization**: `phenomenal-value-realism` was listed under `concepts:` but the file lives in `topics/`. Resolution: moved to `topics:` list.
-- **Missing cross-link**: `valence` listed as a concept in frontmatter but never linked in body text despite "hedonic valence" appearing multiple times. Resolution: added `[valence](/concepts/valence/)` link at first substantive use.
+- **Missing cross-link**: `valence` listed as a concept in frontmatter but never linked in body text despite "hedonic valence" appearing multiple times. Resolution: added `[[valence]]` link at first substantive use.
 
 ### Low Issues Found
 - **Description slightly short**: At ~142 chars, slightly below 150-160 target. Resolution: expanded "that extends" → "extending the hard problem of consciousness into value" to reach ~157 chars.
@@ -54,7 +54,7 @@ topics: []
 
 ### Enhancements Made
 - Frontmatter `phenomenal-value-realism` moved from `concepts:` to `topics:` (correct categorization)
-- Added `[valence](/concepts/valence/)` wikilink in body to connect to concept page
+- Added `[[valence]]` wikilink in body to connect to concept page
 - Description expanded to 150-160 char target range
 
 ### Cross-links Added

@@ -26,8 +26,8 @@ topics: []
 None. Attribution accuracy verified: James ("Human Immortality" 1898, "The Will to Believe" 1896), van Fraassen (*The Scientific Image* 1980), Putnam (*Reason, Truth and History* 1981) all correctly cited with proper source/Map separation. No misattribution, dropped qualifiers, source/Map conflation, or self-contradiction.
 
 ### Medium Issues Found
-- **Missing inline `[pragmatism](/concepts/pragmatism/)` wikilink**: The new pragmatism concept page (created 2026-03-26) provides the broader tradition context this topic article deliberately omits. The article had `pragmatism` in its frontmatter concepts list but no inline link. **Resolution**: Added `[Pragmatism](/concepts/pragmatism/)` link at first mention in opening paragraph.
-- **Missing from Further Reading**: The concept page was not listed in Further Reading despite being the natural companion piece for tradition background. **Resolution**: Added `[pragmatism](/concepts/pragmatism/)` as first Further Reading entry.
+- **Missing inline `[[pragmatism]]` wikilink**: The new pragmatism concept page (created 2026-03-26) provides the broader tradition context this topic article deliberately omits. The article had `pragmatism` in its frontmatter concepts list but no inline link. **Resolution**: Added `[[pragmatism|Pragmatism]]` link at first mention in opening paragraph.
+- **Missing from Further Reading**: The concept page was not listed in Further Reading despite being the natural companion piece for tradition background. **Resolution**: Added `[[pragmatism]]` as first Further Reading entry.
 
 ### Counterarguments Considered
 All counterarguments from previous reviews remain addressed. No new counterarguments identified. Stability notes from previous reviews apply unchanged:
@@ -47,11 +47,11 @@ All counterarguments from previous reviews remain addressed. No new counterargum
 - Clean concept/topic division with the new pragmatism concept page
 
 ### Enhancements Made
-- Added inline `[pragmatism](/concepts/pragmatism/)` wikilink at first mention (cross-review integration)
-- Added `[pragmatism](/concepts/pragmatism/)` to Further Reading section
+- Added inline `[[pragmatism]]` wikilink at first mention (cross-review integration)
+- Added `[[pragmatism]]` to Further Reading section
 
 ### Cross-links Added
-- `[pragmatism](/concepts/pragmatism/)` — inline in opening paragraph + Further Reading entry
+- `[[pragmatism]]` — inline in opening paragraph + Further Reading entry
 
 ## Remaining Items
 

@@ -30,7 +30,7 @@ This review was triggered by orphan integration: the article had zero inbound li
 - None. The first review addressed the only critical issue (broken wikilink).
 
 ### Medium Issues Found
-- Duplicate `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` in frontmatter concepts list (lines 15 and 19). **Resolution**: Removed duplicate.
+- Duplicate `[[cognitive-phenomenology]]` in frontmatter concepts list (lines 15 and 19). **Resolution**: Removed duplicate.
 
 ### Counterarguments Considered
 - No new counterarguments beyond those documented in the first review. The article's engagement with functionalist identity claims, cross-cultural divergence, and AI meaning-making challenges remains adequate.

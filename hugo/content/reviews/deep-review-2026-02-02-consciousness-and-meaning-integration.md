@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- Duplicate Further Reading entry: Two identical `[binding-problem](/concepts/binding-problem/)` entries with different descriptions. **Resolution**: Removed duplicate, kept single entry.
+- Duplicate Further Reading entry: Two identical `[[binding-problem]]` entries with different descriptions. **Resolution**: Removed duplicate, kept single entry.
 - Broken concept reference: `narrative-identity` listed without wikilink brackets, but no such article exists. **Resolution**: Removed from Further Reading list.
 
 ### Medium Issues Found

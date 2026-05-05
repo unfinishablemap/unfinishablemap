@@ -104,11 +104,11 @@ All structural elements unchanged:
 
 1. **Numerosity-void integrated into Phenomenological Cluster** (~45 words added at end of the cluster's main paragraph, after the plenitude-void treatment): cluster-sentence positioning the numerosity-void as a specialisation onto cardinal perception, with the architectural ceiling and the output-without-operation framing, citing Trick & Pylyshyn 1994 and Cowan 2001 as the canonical empirical anchors.
 2. **Numerosity-void added to conjunction-coalesce conjoint-voids list** (~10 words added at line 148): expanding the conjoint-voids enumeration from four to five entries — agency, voids-between-minds, erasure, common-knowledge, numerosity. The three-face structure (cap + transition + mechanism) is explicit.
-3. **Frontmatter `related_articles`**: added `[numerosity-void](/voids/the-quantitative-comprehension-void/)` after `[plenitude-void](/voids/plenitude-void/)` (proximity reflecting both voids' shared phenomenal-content focus).
+3. **Frontmatter `related_articles`**: added `[[numerosity-void]]` after `[[plenitude-void]]` (proximity reflecting both voids' shared phenomenal-content focus).
 
 ### Cross-links Added
 
-- `[numerosity-void](/voids/the-quantitative-comprehension-void/)` (frontmatter + body — cluster sentence + conjoint-voids list)
+- `[[numerosity-void]]` (frontmatter + body — cluster sentence + conjoint-voids list)
 
 ### Length Accounting
 
@@ -140,7 +140,7 @@ New deferred items from this review:
 
 - **Numerosity-void in AI-as-void-explorer paragraph**: A concrete asymmetry case (AI computer-vision shows no elbow-at-four) would extend the AI-as-void-explorer discussion. Deferred under length-neutrality. The cross-link from the Phenomenological Cluster carries discoverability.
 - **Numerosity-void's three tenet connections** (dualism partial-dialectical, bidirectional-interaction speculative, Occam's-limits worked-example): not mirrored in apex §"Relation to Site Perspective". Deferred under length-neutrality and consistent with the established convention that source articles carry per-void tenet arguments.
-- **Reciprocal cross-link from numerosity-void to taxonomy-of-voids apex**: The numerosity-void source article does not currently list `[taxonomy-of-voids](/apex/taxonomy-of-voids/)` in its frontmatter related_articles. A future refine-draft on the numerosity-void could add this. Not strictly required for apex stability.
+- **Reciprocal cross-link from numerosity-void to taxonomy-of-voids apex**: The numerosity-void source article does not currently list `[[taxonomy-of-voids]]` in its frontmatter related_articles. A future refine-draft on the numerosity-void could add this. Not strictly required for apex stability.
 
 ## Stability Notes
 

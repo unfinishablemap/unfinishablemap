@@ -73,8 +73,8 @@ None. All factual claims have sourced citations (Gendlin, Otto, Polanyi, Rosa, J
 
 ### Cross-links Added
 
-- `[presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/)` — added to related_articles frontmatter, paragraph-2 body, Phenomenology of the Edge, Relation to Site Perspective, Further Reading.
-- `[compound-failure-signatures](/voids/compound-failure-signatures/)` — added to related_articles frontmatter, Phenomenology of the Edge, Further Reading.
+- `[[presence-type-and-absence-type-voids]]` — added to related_articles frontmatter, paragraph-2 body, Phenomenology of the Edge, Relation to Site Perspective, Further Reading.
+- `[[compound-failure-signatures]]` — added to related_articles frontmatter, Phenomenology of the Edge, Further Reading.
 
 ### Effective Patterns
 

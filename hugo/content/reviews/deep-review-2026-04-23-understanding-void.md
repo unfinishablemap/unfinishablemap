@@ -26,7 +26,7 @@ topics: []
 ### Critical Issues Found
 
 - **Missing umbrella framing**: The article treats the feeling of understanding as a self-standing phenomenon without acknowledging its place within the broader family of noetic feelings now catalogued in [noetic-feelings-void](/voids/noetic-feelings-void/). Readers arriving at understanding-void via the noetic-feelings-void would encounter an unsignalled taxonomy mismatch. Resolution: added a framing sentence at the top of the `Where the Void Intersects Other Voids` second paragraph identifying the feeling of understanding as one member of the noetic feelings family.
-- **Missing inbound reference target**: `related_articles` frontmatter did not include `[noetic-feelings-void](/voids/noetic-feelings-void/)` despite it being the natural parent/umbrella article. Resolution: added to related_articles in its logical position (after `three-kinds-of-void`, before the more specific voids).
+- **Missing inbound reference target**: `related_articles` frontmatter did not include `[[noetic-feelings-void]]` despite it being the natural parent/umbrella article. Resolution: added to related_articles in its logical position (after `three-kinds-of-void`, before the more specific voids).
 - **Missing Further Reading entry**: No entry for noetic-feelings-void in the Further Reading list. Resolution: added between `three-kinds-of-void` and `disappearance-voids` with a descriptor clarifying the member/family relationship.
 
 ### Medium Issues Found
@@ -82,9 +82,9 @@ No misattribution, no dropped qualifiers, no source/Map conflation, no overstate
 
 ### Cross-links Added
 
-- `[noetic-feelings-void](/voids/noetic-feelings-void/)` in `related_articles` frontmatter
-- `[noetic-feelings-void](/voids/noetic-feelings-void/)` in body text (within `Where the Void Intersects Other Voids`)
-- `[noetic-feelings-void](/voids/noetic-feelings-void/)` in `Further Reading` list with descriptor
+- `[[noetic-feelings-void]]` in `related_articles` frontmatter
+- `[[noetic-feelings-void]]` in body text (within `Where the Void Intersects Other Voids`)
+- `[[noetic-feelings-void]]` in `Further Reading` list with descriptor
 
 ### Compensating Trims
 

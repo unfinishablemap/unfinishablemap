@@ -54,17 +54,17 @@ No source/Map conflation detected across the cluster.
 ### Cross-Link Resolution
 
 All wikilinks in `default-causal-profile.md` resolve:
-- `[causal-delegation](/concepts/delegatory-causation/)` → concepts/causal-delegation.md ✓
-- `[interactionist-dualism](/concepts/interactionist-dualism/)` → concepts/interactionist-dualism.md ✓
-- `[preemption](/concepts/delegatory-causation/)` → concepts/preemption.md ✓
-- `[observational-closure](/concepts/observational-closure/)` → concepts/observational-closure.md ✓
-- `[consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)` → concepts/consciousness-physics-interface-formalism.md ✓
-- `[trilemma-of-selection](/topics/trilemma-of-selection/)` → topics/trilemma-of-selection.md ✓ (cross-section link)
-- `[asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/)` → concepts/asymmetric-bandwidth-consciousness.md ✓
-- `[skill-delegation](/concepts/skill-delegation/)` → concepts/skill-delegation.md ✓
-- `[delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)` → topics/delegation-meets-quantum-selection.md ✓
-- `[prebiotic-collapse](/concepts/prebiotic-collapse/)` → concepts/prebiotic-collapse.md ✓
-- `[philosophical-zombies](/concepts/philosophical-zombies/)` → concepts/philosophical-zombies.md ✓
+- `[[causal-delegation]]` → concepts/causal-delegation.md ✓
+- `[[interactionist-dualism]]` → concepts/interactionist-dualism.md ✓
+- `[[preemption]]` → concepts/preemption.md ✓
+- `[[observational-closure]]` → concepts/observational-closure.md ✓
+- `[[consciousness-physics-interface-formalism]]` → concepts/consciousness-physics-interface-formalism.md ✓
+- `[[trilemma-of-selection]]` → topics/trilemma-of-selection.md ✓ (cross-section link)
+- `[[asymmetric-bandwidth-consciousness]]` → concepts/asymmetric-bandwidth-consciousness.md ✓
+- `[[skill-delegation]]` → concepts/skill-delegation.md ✓
+- `[[delegation-meets-quantum-selection]]` → topics/delegation-meets-quantum-selection.md ✓
+- `[[prebiotic-collapse]]` → concepts/prebiotic-collapse.md ✓
+- `[[philosophical-zombies]]` → concepts/philosophical-zombies.md ✓
 
 ## Pessimistic Analysis Summary
 

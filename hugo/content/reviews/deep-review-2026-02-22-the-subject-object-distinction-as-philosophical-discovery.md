@@ -27,8 +27,8 @@ topics: []
 
 ### Medium Issues Found
 - **Knowledge argument stated without responses**: The article presented Mary's Room as conclusive without acknowledging physicalist replies. **Resolution**: Added brief acknowledgment of the ability and acquaintance hypotheses, while noting both concede the phenomenological point.
-- **Epiphenomenal wikilink misdirected**: `[epiphenomenal](/tenets/#minimal-quantum-interaction)` linked "epiphenomenal" to the quantum interaction tenet rather than the epiphenomenalism concept. **Resolution**: Changed to `[epiphenomenal](/concepts/epiphenomenalism/)`.
-- **Self-stultification argument unnamed**: The article made this argument ("could not produce the philosophical tradition that discovered it") without naming or cross-linking it. **Resolution**: Added wikilink to `[self-stultification](/concepts/self-stultification/)`.
+- **Epiphenomenal wikilink misdirected**: `[[tenets#^minimal-quantum-interaction|epiphenomenal]]` linked "epiphenomenal" to the quantum interaction tenet rather than the epiphenomenalism concept. **Resolution**: Changed to `[[epiphenomenalism|epiphenomenal]]`.
+- **Self-stultification argument unnamed**: The article made this argument ("could not produce the philosophical tradition that discovered it") without naming or cross-linking it. **Resolution**: Added wikilink to `[[self-stultification]]`.
 - **Missing cross-links**: Several highly relevant articles were not linked. **Resolution**: Added objectivity-and-consciousness, self-stultification, philosophical-zombies, and the-convergence-argument-for-dualism to Further Reading.
 
 ### Counterarguments Considered

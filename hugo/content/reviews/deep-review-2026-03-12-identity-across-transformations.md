@@ -29,7 +29,7 @@ None. The article was re-synthesized on 2026-03-08 and remains philosophically c
 - **"Three considerations" but four listed** (line 66): The text said "three considerations support taking the phenomenology seriously" but listed four arguments (First through Fourth). Resolution: Changed to "four considerations."
 - **Relative time reference**: "Recent analysis distinguishes three dimensions" violated style guide's explicit-dates guideline. Resolution: Replaced "Recent analysis" with "Analysis of [phenomenal unity](/concepts/unity-of-consciousness/) distinguishes" which removes the temporal claim and adds a useful cross-link.
 - **Missing References section**: The article cited a specific PNAS study and Nagel's 1971 paper without formal citations. Resolution: Added References section with both citations.
-- **Suboptimal cross-link for process haecceitism**: Linked to `[process haecceitism](/topics/personal-identity/#arguing-for-haecceity)` when a dedicated `[process-haecceitism](/concepts/haecceity/)` concept article exists. Resolution: Updated to link directly to the concept article.
+- **Suboptimal cross-link for process haecceitism**: Linked to `[[personal-identity#Arguing for Haecceity|process haecceitism]]` when a dedicated `[[process-haecceitism]]` concept article exists. Resolution: Updated to link directly to the concept article.
 - **Dense paragraph in Altered States section**: A single paragraph mixed psychedelics, psychiatric conditions, and meditation examples. Resolution: Split into two paragraphs for readability.
 
 ### Low Issues Found

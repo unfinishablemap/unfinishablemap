@@ -33,10 +33,10 @@ topics: []
 3. **"Remarkably close" convergence claim false**: The article argued ~300ms (willed attention) and ~280ms (motor commitment) were "remarkably close" enough to suggest a single selection mechanism. With the corrected ~500ms timing, this convergence does not exist.
    - **Resolution**: Removed convergence claim. Reframed as different stages of the decision process. Preserved premotor theory of attention link with honest "despite differing timescales" qualification.
 
-4. **Duplicate `[decoherence](/concepts/decoherence/)` in concepts frontmatter**: Appeared twice (lines 15 and 19).
+4. **Duplicate `[[decoherence]]` in concepts frontmatter**: Appeared twice (lines 15 and 19).
    - **Resolution**: Removed duplicate.
 
-5. **Duplicate `[decoherence](/concepts/decoherence/)` in Further Reading**: Two entries with different descriptions.
+5. **Duplicate `[[decoherence]]` in Further Reading**: Two entries with different descriptions.
    - **Resolution**: Removed the second entry ("The physical process of coherence loss"), kept the first ("The decoherence objection and biological precedents").
 
 ### Medium Issues Found

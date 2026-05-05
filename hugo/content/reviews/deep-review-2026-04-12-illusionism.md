@@ -53,7 +53,7 @@ topics: []
 - Condensed functional-seeming exposition (removed duplicated material now covered in dedicated concept page)
 - Condensed three shared critique sub-problems to concise summaries with cross-reference
 - Added cross-reference sentence in critique intro directing readers to functional-seeming for full treatment
-- Added `[functional-seeming](/concepts/functional-seeming/)` to Further Reading section
+- Added `[[functional-seeming]]` to Further Reading section
 - Removed stale HTML refinement log comment
 - Word count: 2470 → 2253 (-217 words, from 99% to 90% of soft threshold)
 

@@ -47,7 +47,7 @@ No new counterarguments emerged from the additions.
 - Cerullo (2026) in-context adaptation objection: ✓ correctly noted
 - Tulving's anoetic/noetic/autonoetic hierarchy: ✓ correctly applied
 - Baseline cognition interdependence: ✓ now properly disclosed
-- `[cognitive-phenomenology](/concepts/cognitive-phenomenology/#the-methodological-asymmetry)`: ✓ section verified to exist
+- `[[cognitive-phenomenology#The Methodological Asymmetry]]`: ✓ section verified to exist
 - No misattributions, no dropped qualifiers, no source/Map conflation
 
 ## Optimistic Analysis Summary

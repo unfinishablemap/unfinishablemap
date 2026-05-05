@@ -49,10 +49,10 @@ None.
 - Appropriate restraint on quantum speculation
 
 ### Enhancements Made
-- Added `[temporal-consciousness](/concepts/temporal-consciousness/)` cross-link (concept discussed extensively but not linked)
-- Added `[temporal-consciousness](/concepts/temporal-consciousness/)` cross-link in Bergson section
-- Added `[self-and-consciousness](/concepts/self-and-self-consciousness/)` cross-link in self-entanglement discussion
-- Added `[default-mode-network](/concepts/default-mode-network/)` cross-link in neurological evidence
+- Added `[[temporal-consciousness]]` cross-link (concept discussed extensively but not linked)
+- Added `[[temporal-consciousness]]` cross-link in Bergson section
+- Added `[[self-and-consciousness]]` cross-link in self-entanglement discussion
+- Added `[[default-mode-network]]` cross-link in neurological evidence
 - Tightened AI section (reduced from 3 paragraphs to 2, removed redundancy)
 - Expanded Further Reading with specious-present and duration entries
 - Updated frontmatter concepts to include newly linked articles

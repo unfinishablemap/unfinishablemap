@@ -38,14 +38,14 @@ None. The coalesced article is well-structured, attributions are accurate, all r
 3. **No engagement with Multiple Drafts alternative**: The varieties-of-unity review (2026-02-04) added engagement with Dennett's Multiple Drafts model. This was lost in coalescing.
    - *Resolution*: Added Multiple Drafts paragraph in Proposed Explanations with the Map's response (post-hoc narrative requires a narrator).
 
-4. **~50 wikilinks pointing to archived articles**: 41 files referenced `[phenomenal-unity](/concepts/unity-of-consciousness/)` and 9 referenced `[varieties-of-unity](/concepts/unity-of-consciousness/)`, pointing to archived pages instead of the coalesced article.
-   - *Resolution*: Updated all 44 affected files. Frontmatter entries → `[unity-of-consciousness](/concepts/unity-of-consciousness/)`. Body text → `[display text](/concepts/unity-of-consciousness/)` preserving original display text. Consolidated 5 files with duplicate Further Reading entries.
+4. **~50 wikilinks pointing to archived articles**: 41 files referenced `[[phenomenal-unity]]` and 9 referenced `[[varieties-of-unity]]`, pointing to archived pages instead of the coalesced article.
+   - *Resolution*: Updated all 44 affected files. Frontmatter entries → `[[unity-of-consciousness]]`. Body text → `[[unity-of-consciousness|display text]]` preserving original display text. Consolidated 5 files with duplicate Further Reading entries.
 
 ### Low Issues Found
 
 1. Falsifiability section dropped from both source articles (was praised by multiple reviewers). Not critical for a concepts article that links to the extended argument in why-phenomenal-unity-resists-explanation.
 2. Process philosophy perspective from varieties-of-unity not carried forward. Covered by process-philosophy concept page and process-and-consciousness apex article.
-3. `[consciousness](/concepts/consciousness/)` missing from frontmatter concepts despite being in Further Reading — added.
+3. `[[consciousness]]` missing from frontmatter concepts despite being in Further Reading — added.
 
 ### Counterarguments Considered
 
@@ -87,8 +87,8 @@ All six adversarial personas engaged:
 2. **Neural-binding-mechanisms cross-link restored** (+15 words): In frontmatter, body text, and Further Reading
 3. **Multiple Drafts engagement added** (+95 words): New paragraph in Proposed Explanations with the Map's response
 4. **Dennett reference added**: Dennett, D.C. (1991). *Consciousness Explained*.
-5. **`[consciousness](/concepts/consciousness/)` added to frontmatter concepts**
-6. **44 files updated**: Wikilinks from `[phenomenal-unity](/concepts/unity-of-consciousness/)` and `[varieties-of-unity](/concepts/unity-of-consciousness/)` → `[unity-of-consciousness](/concepts/unity-of-consciousness/)`
+5. **`[[consciousness]]` added to frontmatter concepts**
+6. **44 files updated**: Wikilinks from `[[phenomenal-unity]]` and `[[varieties-of-unity]]` → `[[unity-of-consciousness]]`
 7. **5 files de-duplicated**: Consolidated overlapping Further Reading entries
 
 ### Cross-links Added

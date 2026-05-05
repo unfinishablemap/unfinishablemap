@@ -44,8 +44,8 @@ topics: []
 
 ### Enhancements Made (Cross-review)
 - Added one body-text sentence to the Occam's Razor paragraph in "Relation to Site Perspective" connecting the parsimony judgement to the [feeling of sufficiency](/voids/noetic-feelings-void/). This gives the tenet discussion a new edge: the verdict that one account is "simpler" is itself a felt signal, and the noetic-feelings-void shows why such verdicts are opaque. Adds roughly 35 words; article moved from 93% to 94% of soft threshold.
-- Added `[noetic-feelings-void](/voids/noetic-feelings-void/)` to `related_articles` frontmatter.
-- Added a `[noetic-feelings-void](/voids/noetic-feelings-void/)` entry to the Further Reading section with a one-line hook.
+- Added `[[noetic-feelings-void]]` to `related_articles` frontmatter.
+- Added a `[[noetic-feelings-void]]` entry to the Further Reading section with a one-line hook.
 
 ### Cross-links Added
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — linked in the Occam's Razor paragraph, in Further Reading, and in `related_articles`.

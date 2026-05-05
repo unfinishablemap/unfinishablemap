@@ -27,10 +27,10 @@ None. Attribution remains accurate across all referenced sources (Russell, Conee
 
 ### Medium Issues Found
 None. Changes since the 2026-03-16 review are exclusively mechanical wikilink updates produced by intervening coalesce/rename operations:
-- `[indexical-knowledge](/concepts/indexical-knowledge-and-identity/)` → `[indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)`
-- `[aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/)` → `[aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)`
-- `[epistemology-of-introspection](/topics/epistemology-of-introspection-and-calibration/)` → `[phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)`
-- Two new in-line links added: `[epistemically](/concepts/epistemology/)` and `[pain](/topics/pain-consciousness-and-causal-power/)`
+- `[[indexical-knowledge]]` → `[[indexical-knowledge-and-identity]]`
+- `[[aesthetic-irreducibility-arguments]]` → `[[aesthetics-and-consciousness]]`
+- `[[epistemology-of-introspection]]` → `[[phenomenal-authority-and-first-person-evidence]]`
+- Two new in-line links added: `[[epistemology|epistemically]]` and `[[pain-consciousness-and-causal-power|pain]]`
 
 All five new targets exist and the redirected destinations remain semantically appropriate.
 
@@ -53,7 +53,7 @@ All strengths catalogued in the 2026-03-16 review remain intact:
 None. The article reached convergence over its previous two reviews, and intervening edits were structural maintenance only. Adding content here would risk oscillation against prior trim decisions.
 
 ### Cross-links Added
-None new. The two added since last review (`[epistemically](/concepts/epistemology/)`, `[pain](/topics/pain-consciousness-and-causal-power/)`) are well-placed and require no further additions.
+None new. The two added since last review (`[[epistemology|epistemically]]`, `[[pain-consciousness-and-causal-power|pain]]`) are well-placed and require no further additions.
 
 ## Length Status
 

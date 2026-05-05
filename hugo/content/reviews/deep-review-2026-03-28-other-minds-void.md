@@ -59,7 +59,7 @@ Not a source-based article. All attributions verified in previous reviews. No ch
 ### Enhancements Made
 1. Added second-person-void cross-reference in Husserl's Paradox section — connects constitutive inaccessibility to Buber's *Zwischen* and the relational space of encounter
 2. Added second-person-void cross-reference in direct perception response — links the question of how expressions give access to experience with the second-person mode
-3. Added `[second-person-void](/voids/voids-between-minds/)` to related_articles and Further Reading
+3. Added `[[second-person-void]]` to related_articles and Further Reading
 4. Tightened Hogan twins description (removed redundant anatomical detail)
 5. Tightened multi-subject states and AI sections
 
@@ -67,7 +67,7 @@ Not a source-based article. All attributions verified in previous reviews. No ch
 - [second-person-void](/voids/voids-between-minds/) — the irreducible gap in genuine I-You meeting
 
 ### Cross-Review: Other Articles Updated
-Added `[second-person-void](/voids/voids-between-minds/)` to related_articles and Further Reading in:
+Added `[[second-person-void]]` to related_articles and Further Reading in:
 - [intersubjective-void](/voids/voids-between-minds/) — also expanded "Distinguishing the Voids" table from 2-column (other-minds vs intersubjective) to 3-column (other-minds vs second-person vs intersubjective)
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — second-person encounter as consciousness-only territory
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — natural companion treating the priority question

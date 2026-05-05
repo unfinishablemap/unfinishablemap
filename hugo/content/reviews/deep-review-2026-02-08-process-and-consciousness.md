@@ -26,7 +26,7 @@ topics: []
 None. The article's attributions are accurate, positions are consistently maintained, and source/Map separation is clear throughout.
 
 ### Medium Issues Found
-- **"The self-defeat is obvious" overstatement**: The argument from reason is strong but contested; functionalists claim physical systems can track normative relationships. **Resolution**: Softened language, added brief engagement with functionalist response (thermostat analogy for why causal correlation differs from normative grasp), and added cross-link to `[argument-from-reason](/topics/argument-from-reason/)`.
+- **"The self-defeat is obvious" overstatement**: The argument from reason is strong but contested; functionalists claim physical systems can track normative relationships. **Resolution**: Softened language, added brief engagement with functionalist response (thermostat analogy for why causal correlation differs from normative grasp), and added cross-link to `[[argument-from-reason]]`.
 - **MWI section didn't address strongest Everettian response**: Each branch would experience continuity, so phenomenology alone can't distinguish collapse from branching. **Resolution**: Added explicit engagement with the Everettian response, then showed how process philosophy reveals its cost—prehensive inheritance becoming "metaphysically promiscuous" across branches.
 - **Stapp paragraph lacked specific citation and understated controversy**: "This remains controversial" was thin. **Resolution**: Added *Mindful Universe* (2011) citation and specified the nature of the controversy (whether Stapp's QM interpretation is standard).
 - **Testability admission creates tension with physics parallels**: The article admits process philosophy is metaphysical but draws parallels with quantum mechanics. This tension exists but is inherent in the subject matter—flagged but not "fixed" as it reflects genuine philosophical difficulty.
@@ -49,7 +49,7 @@ None. The article's attributions are accurate, positions are consistently mainta
 
 ### Enhancements Made
 - Strengthened argument from reason passage with functionalist engagement
-- Added cross-link to `[argument-from-reason](/topics/argument-from-reason/)`
+- Added cross-link to `[[argument-from-reason]]`
 - Improved MWI section with Everettian response and process-philosophical counter
 - Added Stapp citation (*Mindful Universe*) and specified controversy
 - Changed "non-structural" to "qualitative" for precision in describing consciousness

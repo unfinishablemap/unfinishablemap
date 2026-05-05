@@ -28,7 +28,7 @@ topics: []
 None. The 2026-04-26 review concluded with explicit stability notes; no factual, attribution, or contradiction issues have arisen since. No new sources introduced by mattering-void warrant re-attribution checks against meaning-void.
 
 ### Medium Issues Found
-- **Asymmetric cross-link with mattering-void**: mattering-void.md (newly created today) links to meaning-void in three places — `related_articles` frontmatter, Further Reading, and inline within the "meta-mattering face" section ("what makes the [meaning-void](/voids/meaning-void/) phenomenologically distinctive: not just that meaning may be inaccessible, but that its inaccessibility itself shows up as significant"). Meaning-void carried no reciprocal link. **Resolution**: Added `[mattering-void](/voids/mattering-void/)` to `related_articles` frontmatter (positioned next to `intrinsic-nature-void`, since both are neighbouring-void cross-references) and to the Further Reading section with the gloss "Why anything shows up as significant; meaning's inaccessibility itself shows up as mattering" — this gloss preserves the directional asymmetry mattering-void establishes (meta-mattering captures the phenomenology of meaning's inaccessibility).
+- **Asymmetric cross-link with mattering-void**: mattering-void.md (newly created today) links to meaning-void in three places — `related_articles` frontmatter, Further Reading, and inline within the "meta-mattering face" section ("what makes the [meaning-void](/voids/meaning-void/) phenomenologically distinctive: not just that meaning may be inaccessible, but that its inaccessibility itself shows up as significant"). Meaning-void carried no reciprocal link. **Resolution**: Added `[[mattering-void]]` to `related_articles` frontmatter (positioned next to `intrinsic-nature-void`, since both are neighbouring-void cross-references) and to the Further Reading section with the gloss "Why anything shows up as significant; meaning's inaccessibility itself shows up as mattering" — this gloss preserves the directional asymmetry mattering-void establishes (meta-mattering captures the phenomenology of meaning's inaccessibility).
 
 ### Counterarguments Considered
 All six adversarial personas' core objections from the predecessor lineage remain engaged in the article. The mattering-void coalesce-context does not introduce new counterargument vectors specific to meaning-void; the mattering/meaning distinction strengthens rather than complicates the dualist case (both voids are independent attestations of phenomenological irreducibility).
@@ -58,8 +58,8 @@ Mattering-void.md (cited only as a wikilink target, not as a source) was checked
 - Gloss in Further Reading explicitly captures the meta-mattering link mattering-void asserts: meaning's inaccessibility itself shows up as significant
 
 ### Cross-links Added
-- `[mattering-void](/voids/mattering-void/)` (frontmatter `related_articles`)
-- `[mattering-void](/voids/mattering-void/) — Why anything shows up as significant; meaning's inaccessibility itself shows up as mattering` (Further Reading)
+- `[[mattering-void]]` (frontmatter `related_articles`)
+- `[[mattering-void]] — Why anything shows up as significant; meaning's inaccessibility itself shows up as mattering` (Further Reading)
 
 ### Cross-links Considered but Not Added
 - **Inline body reference to mattering-void**: Considered adding a clause to "Why the Void May Be Structural" or "Phenomenology of the Void's Edge" sections, but rejected on length-neutral grounds — the article is at 147% of soft cap, the previous review explicitly placed it in length-neutral mode, and the canonical pointer-style cross-link is sufficient at this stage. If mattering-void itself stabilises through subsequent reviews and the reciprocal relationship clarifies further, a minimal inline reference can be considered in a future cycle with an equivalent cut.

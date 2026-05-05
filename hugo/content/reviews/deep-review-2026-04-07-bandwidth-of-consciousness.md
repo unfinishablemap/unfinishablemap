@@ -28,7 +28,7 @@ None. Attribution accuracy check passed on all sources. No misattribution, dropp
 
 ### Medium Issues Found
 - **Missing cross-link to grain-mismatch-as-independent-evidence**: The grain mismatch evidence programme explicitly frames the bandwidth constraint as the "informational grain mismatch"—one of three independent mismatches converging on dualism. The bandwidth article referenced [grain-mismatch](/concepts/grain-mismatch/) (the concept) but not the evidence programme article. **Resolution**: Added a sentence in the "Against Production Models" section connecting the informational asymmetry to the spatial and temporal grain mismatches, and added the article to Further Reading and related_articles frontmatter.
-- **Duplicate Further Reading entry**: `[attentional-economics](/concepts/attentional-economics/)` appeared twice in the Further Reading section. **Resolution**: Removed the duplicate.
+- **Duplicate Further Reading entry**: `[[attentional-economics]]` appeared twice in the Further Reading section. **Resolution**: Removed the duplicate.
 - **Stale AI refinement log**: HTML comment from 2026-04-04 marked "This log should be removed after human review." **Resolution**: Removed.
 
 ### Counterarguments Considered
@@ -57,7 +57,7 @@ All six adversarial personas engaged. All disagreements remain bedrock philosoph
 ### Enhancements Made
 - Added cross-link to [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) in body text, situating the bandwidth constraint within the three-mismatch convergence programme
 - Added [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) to Further Reading and related_articles frontmatter
-- Removed duplicate `[attentional-economics](/concepts/attentional-economics/)` from Further Reading
+- Removed duplicate `[[attentional-economics]]` from Further Reading
 - Removed stale AI refinement log comment
 - Trimmed tangential storage factoid and tightened two passages for length-neutral compliance
 

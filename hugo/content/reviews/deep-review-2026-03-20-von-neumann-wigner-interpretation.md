@@ -26,14 +26,14 @@ topics: []
 - **Factual error: universe age**: "13.7 billion years" corrected to "~13.8 billion years" (Planck 2018 results give 13.787 ± 0.020 Gyr)
 
 ### Medium Issues Found
-- **Broken link to archived content**: `[interface-locality](/concepts/brain-interface-boundary/)` pointed to an archived article. Replaced with `[brain-interface-boundary](/concepts/brain-interface-boundary/)` which covers the same concept (interface locality / brain specialness). Applied in both body text and Further Reading.
-- **Broken link**: `[interface-specification-programme](/apex/interface-specification-programme/)` pointed to a non-existent concepts file. Corrected to `[the-interface-specification-problem](/topics/the-interface-problem/)` which is the actual topics article.
+- **Broken link to archived content**: `[[interface-locality]]` pointed to an archived article. Replaced with `[[brain-interface-boundary]]` which covers the same concept (interface locality / brain specialness). Applied in both body text and Further Reading.
+- **Broken link**: `[[interface-specification-programme]]` pointed to a non-existent concepts file. Corrected to `[[the-interface-specification-problem]]` which is the actual topics article.
 - **Section heading capitalization**: "From Von Neumann–Wigner to Stapp" used uppercase "Von" inconsistent with the article title's lowercase "von". Corrected.
-- **Mechanism deficit objection thin**: The objection named the problem but didn't connect to the Map's efforts to address it. Added cross-link to `[consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)`.
+- **Mechanism deficit objection thin**: The objection named the problem but didn't connect to the Map's efforts to address it. Added cross-link to `[[consciousness-physics-interface-formalism]]`.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: Would reject the entire framing — consciousness has no special role. The article's "Strengths" section adequately addresses why the interpretation takes the measurement problem seriously rather than dissolving it.
-- **Quantum Skeptic (Tegmark)**: Decoherence objection is noted but handled elsewhere via `[prebiotic-collapse](/concepts/prebiotic-collapse/)` link. Appropriate for a concepts article to defer to detailed treatment.
+- **Quantum Skeptic (Tegmark)**: Decoherence objection is noted but handled elsewhere via `[[prebiotic-collapse]]` link. Appropriate for a concepts article to defer to detailed treatment.
 - **Many-Worlds Defender**: Would argue the interpretation is unnecessary if you accept MWI. The article addresses this directly in "Relation to Site Perspective" — MWI is rejected per tenet.
 - **Empiricist**: Would demand testable predictions. The "mechanism deficit" objection captures this concern. The interpretation is honestly presented as ancestral rather than the Map's final position.
 - **Buddhist Philosopher**: Would question the assumption of a unified observer. The demarcation problem section touches this.

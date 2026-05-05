@@ -26,9 +26,9 @@ topics: []
 - None. No misattributions, no internal contradictions, no missing required sections. Schopenhauer, Helmholtz, Plomp & Levelt, Dewey, Moles, and Jackson references are all correctly attributed and contextually appropriate.
 
 ### Medium Issues Found
-- **Duplicate frontmatter entry**: `[binding-problem](/concepts/binding-problem/)` appeared twice in concepts list. **Resolution**: Removed the duplicate.
+- **Duplicate frontmatter entry**: `[[binding-problem]]` appeared twice in concepts list. **Resolution**: Removed the duplicate.
 - **Seven uncited references**: Birkhoff (1933), Byrne & Hilbert (2003), Kant (1790), Ramachandran & Hirstein (1999), Revonsuo (2006), Scarry (1999), and Zeki (1999) were listed in References but never cited in body text. **Resolution**: Integrated all seven into contextually appropriate locations—Birkhoff in Failed Reductions as the most rigorous attempt at mathematical aesthetics; Byrne & Hilbert in the Pervasiveness section for the gap between colour science and aesthetic quality; Kant in Beauty's For-Ness for disinterested pleasure; Ramachandran & Hirstein and Zeki in Failed Reductions for neuroaesthetics; Revonsuo in Aesthetic Binding for phenomenal unity; Scarry in Beauty's For-Ness for beauty demanding response.
-- **Missing frontmatter cross-reference**: `[phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)` was linked in body text but absent from related_articles. **Resolution**: Added to related_articles.
+- **Missing frontmatter cross-reference**: `[[phenomenology-of-intellectual-life]]` was linked in body text but absent from related_articles. **Resolution**: Added to related_articles.
 
 ### Counterarguments Considered
 - **Eliminative materialist**: The opening claim "beauty exists only for a subject" presupposes irreducibility. However, this is a bedrock commitment of the Map and the article's five convergent arguments do the argumentative work—the opening is framing, not proof.
@@ -55,11 +55,11 @@ topics: []
 - Added Scarry (1999) citation for beauty demanding response
 - Added Byrne & Hilbert (2003) for the gap between colour science and aesthetic quality
 - Added Revonsuo (2006) citation in binding section for phenomenal unity
-- Fixed duplicate `[binding-problem](/concepts/binding-problem/)` in frontmatter
-- Added `[phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)` to related_articles
+- Fixed duplicate `[[binding-problem]]` in frontmatter
+- Added `[[phenomenology-of-intellectual-life]]` to related_articles
 
 ### Cross-links Added
-- `[phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)` (added to frontmatter; already linked in body)
+- `[[phenomenology-of-intellectual-life]]` (added to frontmatter; already linked in body)
 
 ## Remaining Items
 

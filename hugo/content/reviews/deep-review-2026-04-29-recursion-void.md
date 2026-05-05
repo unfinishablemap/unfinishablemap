@@ -50,7 +50,7 @@ topics: []
 
 ### Enhancements Made
 - Added "Shared knowledge inherits the ceiling" bullet to "Why the Limit Matters" — connecting the personal-cognition recursion limit to its inter-personal consequences via the common-knowledge regress.
-- Added `[common-knowledge-void](/voids/common-knowledge-void/)` to `related_articles`.
+- Added `[[common-knowledge-void]]` to `related_articles`.
 - Added Further Reading entry: "[The Common-Knowledge Void](/voids/common-knowledge-void/) — How the recursion ceiling bounds shared knowledge between minds".
 - Tightened paragraph 2 (differentiation paragraph) by collapsing four "differs from" sentences into a single inline list — preserves all distinctions while removing repetitive phrasing.
 - Compressed Resource Hypothesis intro and Collapse-and-return phenomenology and AI section opener for length-neutral compensation.

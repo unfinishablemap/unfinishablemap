@@ -31,7 +31,7 @@ None. Third consecutive review with no critical issues. Attribution checks all p
 - **Disproportionate preemption bullet in "Why Preemption"**: The preemption bullet was much longer than the other three, mixing structural explanation with its defence of causal closure violation. **Resolution**: Split the bullet into the core comparison point and a follow-up paragraph elaborating the causal closure implications.
 
 ### Low Issues Found
-- **Inconsistent path prefixes in frontmatter**: `[free-will](/topics/free-will/)` and `[epiphenomenalism](/concepts/epiphenomenalism/)` used path prefixes while other entries didn't. **Resolution**: Removed prefixes for consistency.
+- **Inconsistent path prefixes in frontmatter**: `[[topics/free-will]]` and `[[concepts/epiphenomenalism]]` used path prefixes while other entries didn't. **Resolution**: Removed prefixes for consistency.
 
 ### Counterarguments Considered
 - **Eliminative materialist**: Presupposes mental/physical ontological divide—bedrock disagreement, as previous reviews noted.

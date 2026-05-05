@@ -29,7 +29,7 @@ None. Article body has not been substantively modified since the previous review
 
 ### Medium Issues Found
 
-1. **Missing cross-link to new companion article**: A new topic article `phenomenological-method-and-evidence-standards` was published 2026-04-18 that covers complementary territory (Husserl's evidence taxonomy, Berghofer's mentalist evidentialism, the Dennett-Chalmers debate with sharper formulation, and a self-stultification argument against introspective skepticism). The new article already links *to* contemplative-epistemology, but contemplative-epistemology did not link back. **Resolution**: Added `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)` to frontmatter topics and to Further Reading with a descriptive tag noting the evidence taxonomy contribution.
+1. **Missing cross-link to new companion article**: A new topic article `phenomenological-method-and-evidence-standards` was published 2026-04-18 that covers complementary territory (Husserl's evidence taxonomy, Berghofer's mentalist evidentialism, the Dennett-Chalmers debate with sharper formulation, and a self-stultification argument against introspective skepticism). The new article already links *to* contemplative-epistemology, but contemplative-epistemology did not link back. **Resolution**: Added `[[phenomenological-method-and-evidence-standards]]` to frontmatter topics and to Further Reading with a descriptive tag noting the evidence taxonomy contribution.
 
 ### Counterarguments Considered
 
@@ -61,8 +61,8 @@ None. Article body has not been substantively modified since the previous review
 
 ### Enhancements Made
 
-- Added `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)` to frontmatter topics
-- Added `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)` to Further Reading with annotation flagging the Husserlian evidence taxonomy contribution
+- Added `[[phenomenological-method-and-evidence-standards]]` to frontmatter topics
+- Added `[[phenomenological-method-and-evidence-standards]]` to Further Reading with annotation flagging the Husserlian evidence taxonomy contribution
 
 ### Cross-links Added
 

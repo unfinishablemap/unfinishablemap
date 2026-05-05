@@ -32,7 +32,7 @@ None. Cross-cluster consistency holds. No misattribution, no dropped qualifiers,
 
 ### Medium Issues Found
 
-- **Asymmetric cross-linking**: `parsimony-epistemology` mentioned "eliminativism" twice in syntactic-complexity contexts but did not link to the new `[eliminative-materialism](/topics/eliminative-materialism/)` topic article, while the eliminative-materialism article both linked to and front-loaded its dependence on parsimony-epistemology. [Resolution: Wikilinked the first mention of "eliminativism" in the syntactic-simplicity dimension paragraph; added Further Reading entry positioning eliminativism as the limit case of parsimony-driven physicalism.]
+- **Asymmetric cross-linking**: `parsimony-epistemology` mentioned "eliminativism" twice in syntactic-complexity contexts but did not link to the new `[[eliminative-materialism]]` topic article, while the eliminative-materialism article both linked to and front-loaded its dependence on parsimony-epistemology. [Resolution: Wikilinked the first mention of "eliminativism" in the syntactic-simplicity dimension paragraph; added Further Reading entry positioning eliminativism as the limit case of parsimony-driven physicalism.]
 
 ### Counterarguments Considered
 
@@ -72,12 +72,12 @@ Re-verified against the previous review's verification log; no source-handling r
 
 ### Enhancements Made
 
-- Wikilinked first mention of "eliminativism" → `[eliminativism](/topics/eliminative-materialism/)` in the syntactic-simplicity dimension paragraph (matching the existing `[functionalism](/concepts/functionalism/)` and `[illusionism](/concepts/illusionism/)` linking convention in the same sentence)
-- Added Further Reading entry: `[eliminative-materialism](/topics/eliminative-materialism/)` — The limit case of parsimony-driven physicalism: applying Occam's Razor to consciousness itself
+- Wikilinked first mention of "eliminativism" → `[[eliminative-materialism|eliminativism]]` in the syntactic-simplicity dimension paragraph (matching the existing `[[functionalism]]` and `[[illusionism]]` linking convention in the same sentence)
+- Added Further Reading entry: `[[eliminative-materialism]]` — The limit case of parsimony-driven physicalism: applying Occam's Razor to consciousness itself
 
 ### Cross-links Added
 
-- `[eliminative-materialism](/topics/eliminative-materialism/)` (inline + Further Reading)
+- `[[eliminative-materialism]]` (inline + Further Reading)
 
 ## Word Count
 

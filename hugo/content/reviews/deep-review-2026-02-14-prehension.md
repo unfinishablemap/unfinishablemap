@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[phenomenal-unity](/concepts/unity-of-consciousness/)`**: No such file exists. Replaced with `[phenomenal-binding-and-holism](/concepts/binding-problem/)` in both frontmatter and Further Reading section.
+- **Broken wikilink `[[phenomenal-unity]]`**: No such file exists. Replaced with `[[phenomenal-binding-and-holism]]` in both frontmatter and Further Reading section.
 - **Attribution imprecision**: Article stated Whitehead called prehensions "feelings" without qualification. Corrected: Whitehead called *positive* prehensions "feelings" (*Process and Reality*, Part III); negative prehensions are "eliminations." Added citation reference.
 
 ### Medium Issues Found
@@ -59,7 +59,7 @@ topics: []
 - Added "vacuous actuality" citation to Process and Reality preface
 - Expanded Relation to Site Perspective with explicit justification for selective borrowing from panpsychist framework
 - Strengthened eliminativist engagement in Criticisms
-- Added `[causal-closure](/concepts/causal-closure/)` cross-link in Further Reading
+- Added `[[causal-closure]]` cross-link in Further Reading
 
 ### Cross-links Added
 - [causal-closure](/concepts/causal-closure/)

@@ -89,7 +89,7 @@ The article's metaphor—"Just as a physical organism remains numerically the sa
 ### Issue 5: Duplicate Frontmatter Entry
 - **File**: concepts/self-and-consciousness.md
 - **Location**: Frontmatter concepts list (lines 19 and 27)
-- **Problem**: `[temporal-consciousness](/concepts/temporal-consciousness/)` appears twice in the concepts list.
+- **Problem**: `[[temporal-consciousness]]` appears twice in the concepts list.
 - **Severity**: Low
 - **Recommendation**: Remove the duplicate entry.
 

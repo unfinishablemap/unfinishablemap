@@ -72,8 +72,8 @@ None new.
 
 ### Cross-links Added
 
-- `[mood-void](/voids/mood-void/)` — added to related_articles and Further Reading (with description); inline link in self-erasing-void section
-- `[mutation-void](/voids/mutation-void/)` — added to related_articles and Further Reading (with description); inline link in inspection-paradox mechanism
+- `[[mood-void]]` — added to related_articles and Further Reading (with description); inline link in self-erasing-void section
+- `[[mutation-void]]` — added to related_articles and Further Reading (with description); inline link in inspection-paradox mechanism
 
 ## Length Tracking
 

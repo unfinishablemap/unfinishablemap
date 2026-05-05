@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link `[neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/)`**: File does not exist. **Resolution**: Replaced with `[binding-problem](/concepts/binding-problem/)` — the binding problem article exists and is contextually appropriate (explaining unified experience from distributed processing).
+- **Broken link `[[neural-binding-mechanisms]]`**: File does not exist. **Resolution**: Replaced with `[[binding-problem]]` — the binding problem article exists and is contextually appropriate (explaining unified experience from distributed processing).
 
 ### Medium Issues Found
 - **Missing reference for "participatory realism" claim**: Paragraph 2 states Fuchs coined the term in 2017 but the relevant paper ("On Participatory Realism," in *Information and Interaction*, Springer 2017) was not in the references — only "Notwithstanding Bohr" was cited for Fuchs 2017. **Resolution**: Added the "On Participatory Realism" reference.
@@ -59,12 +59,12 @@ No new counterarguments beyond those addressed in the 2026-01-28 review. All six
 - Strong cross-linking to measurement-problem, relational-quantum-mechanics, haecceity, hard-problem-of-consciousness
 
 ### Enhancements Made
-- Fixed broken `[neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/)` → `[binding-problem](/concepts/binding-problem/)`
+- Fixed broken `[[neural-binding-mechanisms]]` → `[[binding-problem]]`
 - Added missing "On Participatory Realism" reference for the participatory realism claim
 - Improved description to 152 characters
 
 ### Cross-links Added
-- `[binding-problem](/concepts/binding-problem/)` replacing non-existent `[neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/)`
+- `[[binding-problem]]` replacing non-existent `[[neural-binding-mechanisms]]`
 
 ## Word Count
 - Before: 1842 words

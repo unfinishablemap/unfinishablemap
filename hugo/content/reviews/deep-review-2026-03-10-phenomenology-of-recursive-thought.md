@@ -23,10 +23,10 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Duplicate `[metacognition](/concepts/metacognition/)` in concepts frontmatter**: The metarepresentation→metacognition link rename created a duplicate entry (lines 12 and 18 both listed `[metacognition](/concepts/metacognition/)`). Removed the duplicate.
+- **Duplicate `[[metacognition]]` in concepts frontmatter**: The metarepresentation→metacognition link rename created a duplicate entry (lines 12 and 18 both listed `[[metacognition]]`). Removed the duplicate.
 
 ### Medium Issues Found
-- **Redundant Further Reading entries**: After the wikilink rename, both `[metacognition](/concepts/metacognition/)` and `[metarepresentation](/concepts/metacognition/)` pointed to the same article. Consolidated into a single entry with clarifying note.
+- **Redundant Further Reading entries**: After the wikilink rename, both `[[metacognition]]` and `[[metacognition|metarepresentation]]` pointed to the same article. Consolidated into a single entry with clarifying note.
 
 ### Counterarguments Considered
 Per previous review stability notes, all six adversarial personas engaged but found only bedrock philosophical disagreements:
@@ -56,14 +56,14 @@ All attributions verified:
 - Four numbered conclusions in "What This Reveals" — specific, follow from analysis
 - Anti-HOT argument — well-crafted, engages fairly without strawmanning
 - Tenet connections — substantive, non-formulaic, cover 4 of 5 tenets appropriately
-- New `[recursion-void](/voids/recursion-void/)` cross-reference — adds empirical grounding to tower-collapse discussion
+- New `[[recursion-void]]` cross-reference — adds empirical grounding to tower-collapse discussion
 
 ### Enhancements Made
-- Removed duplicate `[metacognition](/concepts/metacognition/)` from concepts frontmatter
+- Removed duplicate `[[metacognition]]` from concepts frontmatter
 - Consolidated redundant Further Reading entries (metacognition and metarepresentation now one entry)
 
 ### Cross-links Added
-None needed — article already has extensive cross-linking (10 Further Reading entries + multiple inline links). The `[recursion-void](/voids/recursion-void/)` addition from a prior commit was the last needed cross-reference.
+None needed — article already has extensive cross-linking (10 Further Reading entries + multiple inline links). The `[[recursion-void]]` addition from a prior commit was the last needed cross-reference.
 
 ## Remaining Items
 

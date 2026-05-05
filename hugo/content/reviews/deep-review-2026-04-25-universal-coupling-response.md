@@ -26,7 +26,7 @@ topics: []
 None. Article remains stable. The two prior reviews on 2026-04-15 already addressed all critical and medium issues. No new content has been added since then that would reintroduce problems.
 
 ### Medium Issues Found
-- **Five candidate articles flagged for cross-references in prior review remained without inbound links**: The 2026-04-15b review's "Remaining Items" list named cetacean-and-corvid-consciousness, consciousness-and-integrated-information, evolution-of-consciousness, substrate-independence, and apex/minds-without-words as future cross-link targets. Resolution: All five now contain inbound `[universal-coupling-response](/concepts/universal-coupling-response/)` links at conceptually appropriate insertion points.
+- **Five candidate articles flagged for cross-references in prior review remained without inbound links**: The 2026-04-15b review's "Remaining Items" list named cetacean-and-corvid-consciousness, consciousness-and-integrated-information, evolution-of-consciousness, substrate-independence, and apex/minds-without-words as future cross-link targets. Resolution: All five now contain inbound `[[universal-coupling-response]]` links at conceptually appropriate insertion points.
 
 ### Counterarguments Considered
 No new counterarguments beyond those addressed in the two prior reviews.

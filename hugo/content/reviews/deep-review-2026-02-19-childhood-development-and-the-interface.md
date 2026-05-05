@@ -26,19 +26,19 @@ topics: []
 
 - **Missing Tenet 4 (No Many Worlds) in Relation to Site Perspective**: The section covered four of five tenets but omitted No Many Worlds entirely. Resolution: Added a paragraph connecting developmental closure's irreversibility to the rejection of MWI — permanent loss requires genuine exclusion of alternatives, not branching.
 
-- **Broken link to archived `consciousness-independent-baseline-cognition`**: The concept was never published as a standalone article; only research notes exist. Resolution: Updated all links to point to `[baseline-cognition](/concepts/baseline-cognition/)` (the active concept article) and reframed "the baseline cognition hypothesis" as "the Map's baseline cognition framework" to avoid presenting a Map construct as established literature.
+- **Broken link to archived `consciousness-independent-baseline-cognition`**: The concept was never published as a standalone article; only research notes exist. Resolution: Updated all links to point to `[[baseline-cognition]]` (the active concept article) and reframed "the baseline cognition hypothesis" as "the Map's baseline cognition framework" to avoid presenting a Map construct as established literature.
 
 - **Orphaned reference: Schwartz et al. (1996)**: Listed in References but never cited in the article body. The study concerns OCD treatment and cerebral glucose metabolism — unrelated to childhood development. Resolution: Removed.
 
 ### Medium Issues Found
 
-- **Archived `dopamine-selection-interface` link**: Resolution: Updated to `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)`.
+- **Archived `dopamine-selection-interface` link**: Resolution: Updated to `[[dopamine-and-the-unified-interface]]`.
 
 - **Internal tension — "consciousness is least developed"**: The phrase "the consciousness using it is least developed" attributed development to consciousness itself, contradicting the article's own dualist claim that consciousness is unchanging. Resolution: Rewritten to "its control affordances are least developed" — locating the developmental limitation in the interface, not consciousness.
 
-- **Missing cross-link to bandwidth article**: The 10 bits/second figure was stated without citation or cross-reference. Resolution: Added `[bandwidth constraint](/topics/bandwidth-of-consciousness/)` inline link.
+- **Missing cross-link to bandwidth article**: The 10 bits/second figure was stated without citation or cross-reference. Resolution: Added `[[neural-bandwidth-constraints-and-the-interface|bandwidth constraint]]` inline link.
 
-- **"Orders of magnitude" unsupported**: Quantitative claim without evidence. Resolution: Softened to "vastly smaller" and added contextual link to `[interface-friction](/concepts/interface-friction/)` to ground the claim in the Map's established framework.
+- **"Orders of magnitude" unsupported**: Quantitative claim without evidence. Resolution: Softened to "vastly smaller" and added contextual link to `[[interface-friction]]` to ground the claim in the Map's established framework.
 
 - **"Baseline cognition hypothesis" as if established**: Presented a Map-internal framework as though it were a named hypothesis in the literature. Resolution: Reframed as "the Map's baseline cognition framework" with explicit attribution to the Map.
 
@@ -69,10 +69,10 @@ topics: []
 ### Enhancements Made
 
 - Added No Many Worlds tenet connection to Relation to Site Perspective
-- Added cross-link to `[interface-friction](/concepts/interface-friction/)` in critical periods section
-- Added cross-link to `[neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)` in bandwidth section
-- Added cross-link to `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)` replacing archived concept
-- Added `[developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/)` to Further Reading and related_articles
+- Added cross-link to `[[interface-friction]]` in critical periods section
+- Added cross-link to `[[neural-bandwidth-constraints-and-the-interface]]` in bandwidth section
+- Added cross-link to `[[dopamine-and-the-unified-interface]]` replacing archived concept
+- Added `[[developmental-trajectory-of-the-interface]]` to Further Reading and related_articles
 - Updated Further Reading to include all active cross-references
 - Clarified Map-internal attribution of baseline cognition framework
 

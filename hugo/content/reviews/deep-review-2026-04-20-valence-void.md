@@ -27,7 +27,7 @@ topics: []
 - None. The two prior reviews confirmed stability and no substantive modifications have occurred since.
 
 ### Medium Issues Found
-- [Missing cross-link to new sibling void]: The mood-void article (2026-04-19) explicitly distinguishes itself from the valence void, but valence-void had no reciprocal link. This left the affect-void taxonomy asymmetric from the valence-void side. **Resolution**: Renamed "Distinct from the Affective Void" to "Distinct from Affective and Mood Voids" and added a parallel clause for mood-void. Added `[mood-void](/voids/mood-void/)` to `related_articles` frontmatter and Further Reading.
+- [Missing cross-link to new sibling void]: The mood-void article (2026-04-19) explicitly distinguishes itself from the valence void, but valence-void had no reciprocal link. This left the affect-void taxonomy asymmetric from the valence-void side. **Resolution**: Renamed "Distinct from the Affective Void" to "Distinct from Affective and Mood Voids" and added a parallel clause for mood-void. Added `[[mood-void]]` to `related_articles` frontmatter and Further Reading.
 - [Missing substantive cross-integration]: The circularity problem in valence-void structurally parallels mood-void's constitutive-opacity layer but sharpens it (mood admits indirect probing; valence does not, since every probe carries hedonic tone). **Resolution**: Added a short paragraph at the end of "The Circularity Problem" drawing the parallel and articulating the sharpening.
 
 ### Counterarguments Considered
@@ -49,7 +49,7 @@ All cited sources verified (Panksepp 1998, Veit 2024, Johnson 2016) — no new c
 ### Enhancements Made
 - Renamed and expanded the "Distinct from" section to situate the valence void within a three-member family (affective-void, mood-void, valence-void)
 - Added mood-void constitutive-opacity parallel at the end of "The Circularity Problem," positioning valence's circularity as a sharpening of a general pattern rather than an isolated oddity
-- Added `[mood-void](/voids/mood-void/)` to related_articles and Further Reading
+- Added `[[mood-void]]` to related_articles and Further Reading
 
 ### Cross-links Added
 - [mood-void](/voids/mood-void/) — `Distinct from` section (inline), Circularity Problem (inline), related_articles, Further Reading

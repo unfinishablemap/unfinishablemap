@@ -83,7 +83,7 @@ None this review. The article stabilised after the prior coalesce → deep-revie
 
 ### Cross-links Verified
 
-All in-body wikilinks resolve, including the section-anchor link to `[Witness Model](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/#five-models-of-ai-phenomenology)`. All sub-section anchors (`tenets#^dualism`, `tenets#^minimal-quantum-interaction`, etc.) target valid headings.
+All in-body wikilinks resolve, including the section-anchor link to `[[structural-varieties-of-consciousness-and-ai-phenomenology#Five Models of AI Phenomenology|Witness Model]]`. All sub-section anchors (`tenets#^dualism`, `tenets#^minimal-quantum-interaction`, etc.) target valid headings.
 
 ## Length Analysis
 

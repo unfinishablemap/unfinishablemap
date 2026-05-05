@@ -83,7 +83,7 @@ The skill argument also names [inference-void](/voids/inference-void/) for cross
 
 ## Remaining Items
 
-- **inference-void.md** should add `[suspension-void](/voids/suspension-void/)` to its `related_articles` frontmatter and a brief Further Reading entry, since the new article calls inference-void a "sister regress" and the structural-similarity claim is bidirectional. This is a minor refine-draft task and should be queued separately rather than handled in this single-document review. See Stability Notes for cadence guidance.
+- **inference-void.md** should add `[[suspension-void]]` to its `related_articles` frontmatter and a brief Further Reading entry, since the new article calls inference-void a "sister regress" and the structural-similarity claim is bidirectional. This is a minor refine-draft task and should be queued separately rather than handled in this single-document review. See Stability Notes for cadence guidance.
 
 ## Stability Notes
 

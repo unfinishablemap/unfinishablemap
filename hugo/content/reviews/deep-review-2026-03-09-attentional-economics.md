@@ -26,7 +26,7 @@ topics: []
 None. The article remains well-constructed with appropriate hedging and accurate tenet connections. No attribution errors (article is not source-based). No internal contradictions.
 
 ### Medium Issues Found
-- **Misleading Further Reading link**: `[voluntary attention](/concepts/attention-as-interface/)` linked to the broad attention-as-interface article but described "neural signatures of willed versus automatic attention," which is covered by the separate `voluntary-attention-control-mechanisms` article. *Resolution*: Fixed link target.
+- **Misleading Further Reading link**: `[[attention-as-interface|voluntary attention]]` linked to the broad attention-as-interface article but described "neural signatures of willed versus automatic attention," which is covered by the separate `voluntary-attention-control-mechanisms` article. *Resolution*: Fixed link target.
 - **Uncited reference**: Schwartz & Begley (2002) appeared in References but was never cited in the body. This is the most directly relevant source for the neuroplasticity/mental effort claims. *Resolution*: Added inline citation in the mental effort section.
 - **Quantum Zeno overemphasis**: The writing style guide warns against structuring arguments around the quantum Zeno effect. One instance (mental effort section) treated the Zeno hypothesis as explanatory rather than hedged. *Resolution*: Softened to mechanism-neutral phrasing ("whatever the mechanism, sustained attention holds neural patterns stable").
 

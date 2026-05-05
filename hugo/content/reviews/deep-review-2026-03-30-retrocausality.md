@@ -22,7 +22,7 @@ topics: []
 
 ## Pessimistic Analysis Summary
 
-Six adversarial philosopher perspectives were applied. This is the sixth deep review. The only changes since the previous review (2026-03-06) are two wikilink repairs: `[quantum-consciousness](/concepts/quantum-consciousness/)` → `[non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)` and `[temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/)` → `[temporal-consciousness](/concepts/temporal-consciousness/)`. No substantive content changes.
+Six adversarial philosopher perspectives were applied. This is the sixth deep review. The only changes since the previous review (2026-03-06) are two wikilink repairs: `[[quantum-consciousness]]` → `[[non-retrocausal-conscious-selection-models]]` and `[[temporal-phenomenology-quantum-selection]]` → `[[temporal-consciousness]]`. No substantive content changes.
 
 ### Eliminative Materialist (Churchland)
 - **Previous resolution**: Illusionist challenge section adequate (2026-01-21)

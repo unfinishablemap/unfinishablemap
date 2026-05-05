@@ -30,7 +30,7 @@ None. The article has been through five prior reviews and is structurally stable
 ### Medium Issues Found
 
 1. **Missing connection to physics-as-disclosure framework**: The newly created `physics-as-disclosure.md` (2026-03-15) explicitly builds on this article's "What Decoherence Does Not Do" section, arguing that decoherence's clean partition between basis selection and outcome selection is evidence for a real ontological boundary. The decoherence article didn't link back.
-   - **Resolution**: Added a paragraph connecting decoherence's clean partition to the disclosure reading and bi-aspectual ontology. Added `[physics-as-disclosure](/concepts/physics-as-disclosure/)` and `[bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)` to concepts frontmatter.
+   - **Resolution**: Added a paragraph connecting decoherence's clean partition to the disclosure reading and bi-aspectual ontology. Added `[[physics-as-disclosure]]` and `[[bi-aspectual-ontology]]` to concepts frontmatter.
 
 2. **Missing bi-aspectual-ontology concept link**: The article discusses the boundary between structural description and conscious actuality without referencing the concept that formalizes this distinction.
    - **Resolution**: Added to concepts and integrated into the new disclosure paragraph.
@@ -60,8 +60,8 @@ All attributions verified. No new claims introduced — the physics-as-disclosur
 ### Enhancements Made
 
 1. Connected "What Decoherence Does Not Do" section to physics-as-disclosure framework — strengthens the measurement-problem response (Claim 3) by showing decoherence's clean partition is predicted by bi-aspectual ontology
-2. Added `[physics-as-disclosure](/concepts/physics-as-disclosure/)` to Further Reading with description
-3. Added `[physics-as-disclosure](/concepts/physics-as-disclosure/)` and `[bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)` to concepts frontmatter
+2. Added `[[physics-as-disclosure]]` to Further Reading with description
+3. Added `[[physics-as-disclosure]]` and `[[bi-aspectual-ontology]]` to concepts frontmatter
 4. Tightened stochastic events rebuttal and process philosophy paragraphs for length neutrality
 
 ### Cross-links Added

@@ -48,9 +48,9 @@ None. The article correctly attributes concepts to Bradford Saad and accurately 
 - Clear Relation to Site Perspective connecting to three tenets
 
 ### Enhancements Made
-- Added link to `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` in Statistical Invisibility section
-- Added link to `[quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)` in Domain Specificity section
-- Added `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` and `[quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)` to frontmatter concepts
+- Added link to `[[stapp-quantum-mind]]` in Statistical Invisibility section
+- Added link to `[[quantum-indeterminacy-free-will]]` in Domain Specificity section
+- Added `[[stapp-quantum-mind]]` and `[[quantum-indeterminacy-free-will]]` to frontmatter concepts
 
 ### Cross-links Added (Orphan Integration)
 The following articles now link TO observational-closure:

@@ -28,8 +28,8 @@ None. The article has been reviewed twice previously and remains stable. Changes
 
 ### Medium Issues Found
 
-1. **Incorrect wikilink target for "process philosophy"**: The mechanical link updates changed `[process philosophy](/concepts/temporal-consciousness/)` to `[process philosophy](/concepts/temporal-consciousness/)`, but a standalone `[process-philosophy](/concepts/process-philosophy/)` article exists and is the correct target. Process philosophy is Whitehead's broader metaphysical framework, not a subtopic of temporal consciousness.
-   - **Resolution**: Changed to `[process philosophy](/concepts/process-philosophy/)` and added `[process-philosophy](/concepts/process-philosophy/)` to frontmatter concepts list.
+1. **Incorrect wikilink target for "process philosophy"**: The mechanical link updates changed `[[duration|process philosophy]]` to `[[temporal-consciousness|process philosophy]]`, but a standalone `[[process-philosophy]]` article exists and is the correct target. Process philosophy is Whitehead's broader metaphysical framework, not a subtopic of temporal consciousness.
+   - **Resolution**: Changed to `[[process-philosophy|process philosophy]]` and added `[[process-philosophy]]` to frontmatter concepts list.
 
 2. **Limited inbound cross-references**: Only 5 non-review articles linked to this concept despite its relevance to insight, comprehension, and temporal phenomenology topics across the site.
    - **Resolution**: Added inbound cross-references from 4 highly relevant articles (see below).
@@ -51,13 +51,13 @@ All counterarguments from previous reviews remain adequately addressed. No new i
 
 ### Enhancements Made
 
-1. **Fixed process-philosophy link**: Corrected `[process philosophy](/concepts/temporal-consciousness/)` to `[process philosophy](/concepts/process-philosophy/)`
+1. **Fixed process-philosophy link**: Corrected `[[temporal-consciousness|process philosophy]]` to `[[process-philosophy|process philosophy]]`
 2. **Added process-philosophy to concepts**: Frontmatter now includes the correctly targeted concept
 3. **Added 4 inbound cross-references** from related articles (see below)
 
 ### Cross-links Added
 
-Inbound links to `[temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)` added in:
+Inbound links to `[[temporal-structure-of-understanding]]` added in:
 - [phenomenology-of-creative-insight](/concepts/creative-consciousness/) (Further Reading)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) (inline, at "aha" discussion)
 - [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/) (Further Reading)

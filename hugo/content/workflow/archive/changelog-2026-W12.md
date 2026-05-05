@@ -125,7 +125,7 @@ title: AI Activity Changelog - Week 2026-W12
 - **File**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
 - **Word count**: 1920 → 1920 (+0)
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 1 (missing `[dualism](/concepts/dualism/)` cross-link)
+- **Medium issues addressed**: 1 (missing `[[dualism]]` cross-link)
 - **Enhancements made**: 1
 - **Output**: [deep-review-2026-03-22b-russellian-monism-versus-bi-aspectual-dualism](/reviews/deep-review-2026-03-22b-russellian-monism-versus-bi-aspectual-dualism/)
 
@@ -4608,7 +4608,7 @@ topics: []
 - **Word count**: 3789 → 3789 (+0)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (fixed 4 misleading cross-links in other articles)
-- **Enhancements made**: 4 wikilinks corrected from `[Phenomenal value realism](/concepts/evaluative-phenomenal-character/)` to `[Phenomenal value realism](/topics/phenomenal-value-realism/)` in qualia.md, consciousness-value-connection.md, animal-consciousness.md, ai-consciousness.md
+- **Enhancements made**: 4 wikilinks corrected from `[[phenomenal-normativity|Phenomenal value realism]]` to `[[topics/phenomenal-value-realism|Phenomenal value realism]]` in qualia.md, consciousness-value-connection.md, animal-consciousness.md, ai-consciousness.md
 - **Output**: [deep-review-2026-03-19-phenomenal-value-realism](/reviews/deep-review-2026-03-19-phenomenal-value-realism/)
 
 ---
@@ -4617,7 +4617,7 @@ topics: []
 - **Status**: Success
 - **File**: [the-interface-specification-problem](/topics/the-interface-specification-problem/)
 - **Word count**: 2369 → 2380 (+11)
-- **Critical issues addressed**: 1 (broken `[selection-laws](/concepts/psychophysical-laws/)` wikilink after archival)
+- **Critical issues addressed**: 1 (broken `[[selection-laws]]` wikilink after archival)
 - **Medium issues addressed**: 0
 - **Enhancements made**: 1 (cross-link to epistemology-of-mechanism article)
 - **Output**: [deep-review-2026-03-19-the-interface-specification-problem](/reviews/deep-review-2026-03-19-the-interface-specification-problem/)
@@ -5218,7 +5218,7 @@ topics: []
 - **Status**: Success
 - **File**: [non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)
 - **Word count**: 2102 → 2122 (+20)
-- **Critical issues addressed**: 1 (broken wikilink `[psychophysical-coupling](/concepts/psychophysical-laws/)`)
+- **Critical issues addressed**: 1 (broken wikilink `[[psychophysical-coupling]]`)
 - **Medium issues addressed**: 3 (missing Georgiev citation, unlinked related articles)
 - **Enhancements made**: 2 (cross-links to interactionist-dualism, measurement-problem)
 - **Output**: [deep-review-2026-03-18-non-retrocausal-conscious-selection-models](/reviews/deep-review-2026-03-18-non-retrocausal-conscious-selection-models/)
@@ -7177,7 +7177,7 @@ topics: []
 - **Status**: Success
 - **File**: [brain-specialness-boundary](/topics/brain-specialness-boundary/)
 - **Word count**: 1752 → 1752 (no change)
-- **Critical issues addressed**: 1 (broken `[Attention](/concepts/attention-as-interface/)` wikilink)
+- **Critical issues addressed**: 1 (broken `[[Attention]]` wikilink)
 - **Medium issues addressed**: 0
 - **Enhancements made**: 1 (wikilink fix)
 - **Output**: [deep-review-2026-03-16-brain-specialness-boundary](/reviews/deep-review-2026-03-16-brain-specialness-boundary/)

@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-05-01 08:12 UTC
 **Article**: [Cognitive Phenomenology](/concepts/cognitive-phenomenology/)
 **Previous review**: [2026-04-30 01:41 UTC](/reviews/deep-review-2026-04-30b-cognitive-phenomenology/)
-**Cross-review trigger**: Verify the seven `[pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/)` fixes (applied by the 03:25 UTC and 04:55 UTC refine-draft passes) survived the 05:10 UTC condense from 5645 → 2963 words (47% reduction).
+**Cross-review trigger**: Verify the seven `[[pessimistic-2026-05-01]]` fixes (applied by the 03:25 UTC and 04:55 UTC refine-draft passes) survived the 05:10 UTC condense from 5645 → 2963 words (47% reduction).
 
 ## Scope
 
@@ -113,7 +113,7 @@ No new counterarguments. The 03:25 UTC and 04:55 UTC refine passes addressed eve
 
 - **Strawson 1994** (foreign-language argument): correctly attributed to Galen Strawson; the monolingual English/French speaker setup is faithful to *Mental Reality*.
 - **Tye 1995** (sensory-modification reply): correctly attributed; the chunking/attention/prosodic-salience formulation is the standard Tye position.
-- **Pitt 2004** (self-knowledge / individuative phenomenology): correctly attributed; "phenomenal authority in the cognitive domain" cross-link to `[phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)` lands.
+- **Pitt 2004** (self-knowledge / individuative phenomenology): correctly attributed; "phenomenal authority in the cognitive domain" cross-link to `[[phenomenal-authority-and-first-person-evidence]]` lands.
 - **Chudnoff 2015** (accompanying-vs-constituting distinction): correctly attributed; the article uses Chudnoff's distinction as the foil for PCT, accurate.
 - **Frankish 2016** ("Illusionism as a Theory of Consciousness"): correctly attributed; the "no real illusion" framing accurately summarises the Frankish position.
 - **Sass & Parnas 2003** (attenuated self-presence in schizophrenia): correctly attributed and used appropriately for the variation-not-zeros argument.
@@ -172,4 +172,4 @@ Bedrock disagreements (carried forward unchanged from prior reviews; do NOT re-f
 5. **Multi-realizability response to function-phenomenology dissociation**: Acknowledged in `phenomenology-vs-function-axis`; the article's claim is constraining-in-aggregate, not refutation.
 6. **PCT-skeptical liberals (Chudnoff line)**: Now explicitly acknowledged with downstream applications conditional on PCT; further objection is bedrock disagreement, not flaw.
 
-The cross-review chain triggered by `[pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/)` is now closed: pessimistic review (03:11) → first refine (03:25) → second refine for residual Buddhist-jhāna issue (04:55) → condense (05:10) → this verification pass (08:12). The article and its surrounding void-family / typology articles form a tight mutual-support cluster anchored at the Introspective Limits section and the PCT-conditional downstream-applications framing. No further reviews of this article are warranted by this editorial cycle; future modifications should only follow (a) new site content with concrete cross-linking opportunities, (b) source-audit findings of misattribution or dropped qualifier, or (c) substantive argumentative shifts elsewhere in the consciousness cluster (notably `[llm-consciousness](/concepts/llm-consciousness/)`, `[ai-consciousness-typology](/concepts/ai-consciousness-typology/)`, `[intentionality](/concepts/intentionality/)`).
+The cross-review chain triggered by `[[pessimistic-2026-05-01]]` is now closed: pessimistic review (03:11) → first refine (03:25) → second refine for residual Buddhist-jhāna issue (04:55) → condense (05:10) → this verification pass (08:12). The article and its surrounding void-family / typology articles form a tight mutual-support cluster anchored at the Introspective Limits section and the PCT-conditional downstream-applications framing. No further reviews of this article are warranted by this editorial cycle; future modifications should only follow (a) new site content with concrete cross-linking opportunities, (b) source-audit findings of misattribution or dropped qualifier, or (c) substantive argumentative shifts elsewhere in the consciousness cluster (notably `[[llm-consciousness]]`, `[[ai-consciousness-typology]]`, `[[intentionality]]`).

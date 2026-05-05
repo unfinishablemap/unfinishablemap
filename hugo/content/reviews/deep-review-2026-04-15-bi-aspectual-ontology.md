@@ -27,7 +27,7 @@ None.
 
 ### Medium Issues Found
 - **Zheng & Meister characterization**: "Consciousness operates at approximately 10 bits per second" was imprecise — the paper measures *conscious perception* throughput (sensory-to-motor information rate), not consciousness per se. **Resolution**: Changed to "Conscious perception operates at approximately 10 bits per second."
-- **Missing body-text cross-link**: `[the-reverse-inference](/topics/the-reverse-inference/)` appeared in Further Reading but was never referenced in the article body, despite the reverse inference being directly relevant to the convergence argument in the Actuality section. **Resolution**: Added inline reference where the two-consideration convergence is introduced.
+- **Missing body-text cross-link**: `[[the-reverse-inference]]` appeared in Further Reading but was never referenced in the article body, despite the reverse inference being directly relevant to the convergence argument in the Actuality section. **Resolution**: Added inline reference where the two-consideration convergence is introduced.
 - **IIT characterization**: "Sophisticated physicalism about consciousness's causal role, despite its anti-reductionist rhetoric about qualia" was slightly misleading — Tononi considers IIT closer to property dualism. **Resolution**: Reframed to focus on the causal-role critique ("physicalist about consciousness's *causal role*") while acknowledging IIT's self-classification is contested.
 
 ### Counterarguments Considered
@@ -47,7 +47,7 @@ None.
 
 ### Enhancements Made
 - Fixed Zheng & Meister citation accuracy (conscious perception, not consciousness)
-- Added `[the-reverse-inference](/topics/the-reverse-inference/)` body-text cross-link in Actuality section
+- Added `[[the-reverse-inference]]` body-text cross-link in Actuality section
 - Nuanced IIT characterization to acknowledge ontological classification debate
 - Removed stale AI refinement log comment (housekeeping)
 

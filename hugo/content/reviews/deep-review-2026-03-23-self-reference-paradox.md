@@ -35,7 +35,7 @@ None. The rewritten article is well-constructed with accurate attributions and a
 1. **Missing Penrose (1994) reference**: Body text cites "Penrose (1989, 1994)" but References only listed the 1989 work.
    - **Resolution**: Added Penrose (1994) *Shadows of the Mind* to References.
 
-2. **Archived cross-link**: `[the-unobservable-self](/voids/self-reference-paradox/)` in related_articles and body text points to an archived void. The site URL is preserved via redirect, but the Obsidian-side link is unresolved.
+2. **Archived cross-link**: `[[the-unobservable-self]]` in related_articles and body text points to an archived void. The site URL is preserved via redirect, but the Obsidian-side link is unresolved.
    - **Resolution**: Noted; link kept since URL works on site. Future content may replace this reference.
 
 3. **Self-stultification in frontmatter but not body**: Listed in concepts but never mentioned in the article text.
@@ -100,7 +100,7 @@ No misattribution, dropped qualifiers, or source/Map conflation detected.
 
 ## Remaining Items
 
-- `[the-unobservable-self](/voids/self-reference-paradox/)` remains an archived link — functional on site but unresolved in Obsidian. Will resolve naturally if the void is republished or if a replacement article is created.
+- `[[the-unobservable-self]]` remains an archived link — functional on site but unresolved in Obsidian. Will resolve naturally if the void is republished or if a replacement article is created.
 
 ## Stability Notes
 

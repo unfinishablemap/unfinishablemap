@@ -28,7 +28,7 @@ None.
 
 ### Medium Issues Found
 1. **Description frontmatter inconsistency**: Description still said "Six philosophical traditions" despite body text being corrected to "six thinkers from divergent frameworks" in previous review. Also exceeded 150-160 char guideline at 258 chars. Resolution: rewrote description to match body text and fit within style guidelines (169 chars).
-2. **Bare wikilink slug**: `[inventory-blindness](/concepts/inventory-blindness/)` lacked display text, reading as a raw slug in prose. Resolution: changed to `[inventory blindness](/concepts/inventory-blindness/)`.
+2. **Bare wikilink slug**: `[[inventory-blindness]]` lacked display text, reading as a raw slug in prose. Resolution: changed to `[[inventory-blindness|inventory blindness]]`.
 
 ### Attribution Accuracy Check
 All citations re-verified from previous review. No changes to body text attributions. No new issues found.

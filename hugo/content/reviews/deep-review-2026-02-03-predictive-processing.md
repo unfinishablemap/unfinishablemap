@@ -27,7 +27,7 @@ None. The previous deep review (2026-01-20) comprehensively addressed the major 
 
 ### Medium Issues Found
 - **Sartre attribution precision**: The quote "self-affirming, immune to doubt" was in direct quote format without verifiable citation. Resolution: Softened to paraphrase ("waking perception carries an inherent self-certainty absent from dreams").
-- **Missing qualia cross-link**: Line 97 mentioned "qualia" without linking to the concept page. Resolution: Added `[qualia](/concepts/qualia/)` link.
+- **Missing qualia cross-link**: Line 97 mentioned "qualia" without linking to the concept page. Resolution: Added `[[qualia]]` link.
 
 ### Counterarguments Considered
 All six adversarial personas engaged with the content:
@@ -64,7 +64,7 @@ All six adversarial personas engaged with the content:
 - Well-structured Further Reading with both internal and external sources
 
 ### Enhancements Made
-- Added `[qualia](/concepts/qualia/)` cross-link at line 97
+- Added `[[qualia]]` cross-link at line 97
 - Softened Sartre attribution to avoid potential misquotation
 
 ### Cross-links Status

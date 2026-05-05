@@ -47,9 +47,9 @@ All attributions re-verified clean. No changes to source-referencing content sin
 - O'Connor-Wong framework with Stapp cross-link
 
 ### Enhancements Made
-- Added `[the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)` cross-link in the strong-emergence subsection (where article notes that without a mechanism, strongly emergent properties risk becoming epiphenomenal)
-- Added `[causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)` cross-link in Kim's Challenge section, supporting the targeted denial of causal closure
-- Added `[parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)` cross-link in Occam's Razor section, reinforcing the rebuttal to the simplicity intuition
+- Added `[[the-epiphenomenalist-threat]]` cross-link in the strong-emergence subsection (where article notes that without a mechanism, strongly emergent properties risk becoming epiphenomenal)
+- Added `[[causal-closure-debate-historical-survey]]` cross-link in Kim's Challenge section, supporting the targeted denial of causal closure
+- Added `[[parsimony-case-for-interactionist-dualism]]` cross-link in Occam's Razor section, reinforcing the rebuttal to the simplicity intuition
 - Added all three to related_articles frontmatter
 - Added all three to Further Reading with concise descriptions
 

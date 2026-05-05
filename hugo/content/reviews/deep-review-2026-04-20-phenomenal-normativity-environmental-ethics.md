@@ -26,11 +26,11 @@ topics: []
 
 1. **Stale AI REFINEMENT LOG comment**: An HTML comment block from 2026-04-02 (after the previous deep review on 2026-03-19) was left at the bottom of the file. Its own instructions said "This log should be removed after human review." It had not been cleaned up. **Resolution**: Removed.
 
-2. **Duplicate frontmatter entries**: `[evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)` appeared twice in the `concepts` list and once redundantly in `related_articles` (already present in `concepts`). **Resolution**: Removed duplicates from `concepts` and from `related_articles` (kept only in `concepts`, where it belongs).
+2. **Duplicate frontmatter entries**: `[[evaluative-phenomenal-character]]` appeared twice in the `concepts` list and once redundantly in `related_articles` (already present in `concepts`). **Resolution**: Removed duplicates from `concepts` and from `related_articles` (kept only in `concepts`, where it belongs).
 
 ### Medium Issues Found
 
-1. **Three aliased copies of the same wikilink in Further Reading**: `[phenomenal normativity](/concepts/evaluative-phenomenal-character/)`, `[Moral Phenomenology and Perception](/concepts/evaluative-phenomenal-character/)`, and `[evaluative qualia](/concepts/evaluative-phenomenal-character/)` all linked to the same target with different aliases, creating visual redundancy. **Resolution**: Consolidated into one entry with a combined description covering all three framings.
+1. **Three aliased copies of the same wikilink in Further Reading**: `[[evaluative-phenomenal-character|phenomenal normativity]]`, `[[evaluative-phenomenal-character|Moral Phenomenology and Perception]]`, and `[[evaluative-phenomenal-character|evaluative qualia]]` all linked to the same target with different aliases, creating visual redundancy. **Resolution**: Consolidated into one entry with a combined description covering all three framings.
 
 ### Counterarguments Considered
 

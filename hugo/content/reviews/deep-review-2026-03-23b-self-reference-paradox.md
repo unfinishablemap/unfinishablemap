@@ -87,7 +87,7 @@ All strengths identified in the earlier review remain intact:
 
 ## Remaining Items
 
-- `[the-unobservable-self](/voids/self-reference-paradox/)` remains an archived link — functional on site but unresolved in Obsidian. (Carried forward from earlier review.)
+- `[[the-unobservable-self]]` remains an archived link — functional on site but unresolved in Obsidian. (Carried forward from earlier review.)
 
 ## Stability Notes
 

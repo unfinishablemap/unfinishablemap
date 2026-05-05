@@ -29,7 +29,7 @@ topics: []
 - None. Changes since previous review were purely mechanical (wikilink updates from coalesce and refine-draft operations). No substantive content changes requiring new critical or medium findings.
 
 ### Low Issues Found
-- [Missing cross-link]: The article mentions "reasons-responsiveness" (line 91) without a wikilink, though a dedicated `reasons-responsiveness` concept article now exists (created 2026-02-01). **Resolution**: Added `[reasons-responsiveness](/concepts/reasons-responsiveness/)` wikilink and added to frontmatter concepts list.
+- [Missing cross-link]: The article mentions "reasons-responsiveness" (line 91) without a wikilink, though a dedicated `reasons-responsiveness` concept article now exists (created 2026-02-01). **Resolution**: Added `[[reasons-responsiveness]]` wikilink and added to frontmatter concepts list.
 
 ### Counterarguments Considered
 All six adversarial personas engaged. All findings match bedrock disagreements identified in previous review:
@@ -53,7 +53,7 @@ All six adversarial personas engaged. All findings match bedrock disagreements i
 - Reasons-responsiveness concept strengthening free will connection
 
 ### Enhancements Made
-- Added `[reasons-responsiveness](/concepts/reasons-responsiveness/)` wikilink (concept article now exists)
+- Added `[[reasons-responsiveness]]` wikilink (concept article now exists)
 - Added reasons-responsiveness to frontmatter concepts list
 
 ### Cross-links Added

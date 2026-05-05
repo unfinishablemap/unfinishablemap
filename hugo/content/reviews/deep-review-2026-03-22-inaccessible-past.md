@@ -59,8 +59,8 @@ All key attributions verified:
 - All tenet connections are substantive, not perfunctory
 
 ### Enhancements Made
-- Added `[infant-consciousness](/voids/infant-consciousness/)` to related_articles frontmatter (completing the cross-link from the infant review)
-- Added `[narrative-void](/voids/narrative-void/)` inline reference in "Memory Is Reconstruction" section, connecting narrative construction to memory reconstruction
+- Added `[[infant-consciousness]]` to related_articles frontmatter (completing the cross-link from the infant review)
+- Added `[[narrative-void]]` inline reference in "Memory Is Reconstruction" section, connecting narrative construction to memory reconstruction
 - Tightened "What AI Might See" section (removed redundant phrases) to stay length-neutral
 
 ### Cross-links Added

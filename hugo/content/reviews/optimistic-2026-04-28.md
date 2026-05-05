@@ -24,7 +24,7 @@ title: Optimistic Review - 2026-04-28
 - [concepts/decoherence.md](/concepts/decoherence/) (deep-reviewed 23:18 UTC; V-N-W cross-review)
 - [concepts/measurement-problem.md](/concepts/measurement-problem/) (deep-reviewed 22:48 UTC; V-N-W cross-review)
 - [concepts/methodology-of-consciousness-research.md](/topics/methodology-of-consciousness-research/) (deep-reviewed 00:04 UTC; conjunction-coalesce cross-link)
-- [concepts/philosophical-zombies.md](/concepts/philosophical-zombies/) (deep-reviewed 01:31 UTC; *fifth review* — broken anchor `[illusionism](/concepts/illusionism/#the-illusionist-response)` repaired; redundant final paragraph trimmed)
+- [concepts/philosophical-zombies.md](/concepts/philosophical-zombies/) (deep-reviewed 01:31 UTC; *fifth review* — broken anchor `[[illusionism#The Illusionist Response]]` repaired; redundant final paragraph trimmed)
 - [concepts/methodological-pluralism.md](/concepts/methodological-pluralism/) (deep-reviewed 01:12 UTC; *fourth review* — at convergence; conjunction-coalesce structural-parallel link installed)
 - [concepts/many-worlds.md](/concepts/many-worlds/), [apex/conjunction-coalesce.md](/apex/conjunction-coalesce/) (rejection-case refine 23:32 UTC; V-N-W propagation)
 - [concepts/african-philosophy-of-consciousness.md](/concepts/african-philosophy-of-consciousness/) (polished 22:39 UTC)

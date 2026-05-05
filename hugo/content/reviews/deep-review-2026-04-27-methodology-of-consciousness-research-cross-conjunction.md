@@ -57,15 +57,15 @@ topics: []
 
 ### Enhancements Made
 - One-sentence parallel to [conjunction-coalesce](/apex/conjunction-coalesce/) inserted in Occam's Razor Has Limits subsection
-- `[conjunction-coalesce](/apex/conjunction-coalesce/)` added to `related_articles` frontmatter
+- `[[conjunction-coalesce]]` added to `related_articles` frontmatter
 - Further Reading entry annotating the parallel
 - Galilean P2 tightened (-11 words) — "what could be quantified independently of any particular observer" → "observer-independent quantities"; removed "eventually" before "neuroscience" and "observer-independent terms" tail
 - Three Methodological Approaches preview tightened (-5 words) — "Each acknowledges the problem at different depths — and one denies it entirely" → "at different depths; one denies it entirely"
 
 ### Cross-links Added
-- `[conjunction-coalesce](/apex/conjunction-coalesce/)` in Occam's Razor Has Limits subsection body
-- `[conjunction-coalesce](/apex/conjunction-coalesce/)` in `related_articles` frontmatter
-- `[conjunction-coalesce](/apex/conjunction-coalesce/)` in Further Reading
+- `[[conjunction-coalesce]]` in Occam's Razor Has Limits subsection body
+- `[[conjunction-coalesce]]` in `related_articles` frontmatter
+- `[[conjunction-coalesce]]` in Further Reading
 
 ## Remaining Items
 

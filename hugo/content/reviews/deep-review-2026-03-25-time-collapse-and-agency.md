@@ -29,8 +29,8 @@ None. Article is factually sound, internally consistent, with no attribution err
 
 ### Medium Issues Found
 
-1. **Weak agent-causation integration**: Article referenced `[agent-causation](/concepts/agent-causation/)` three times but didn't engage with the substance-causation framework that forms the concept page's core metaphysical argument. The agent-causation page cites this article's framework in its "Sourcehood" section, but this article didn't reciprocate.
-   - *Resolution*: Strengthened the "Sourcehood without prior causes" subsection to explicitly connect to Lowe's substance-causation framework with a section anchor link. Added `[agent-causation](/concepts/agent-causation/)` to frontmatter `related_articles`.
+1. **Weak agent-causation integration**: Article referenced `[[agent-causation]]` three times but didn't engage with the substance-causation framework that forms the concept page's core metaphysical argument. The agent-causation page cites this article's framework in its "Sourcehood" section, but this article didn't reciprocate.
+   - *Resolution*: Strengthened the "Sourcehood without prior causes" subsection to explicitly connect to Lowe's substance-causation framework with a section anchor link. Added `[[agent-causation]]` to frontmatter `related_articles`.
 
 2. **Capitalization error**: "the Map's framework predicts" at sentence-like position after conditional clause.
    - *Resolution*: Capitalized to "The Map's framework predicts".
@@ -62,8 +62,8 @@ No new counterarguments beyond those already addressed. All major objections (il
 
 ### Cross-links Added
 
-- `[substance-causation framework](/concepts/agent-causation/#the-metaphysical-foundation-substance-causation)` (inline)
-- `[agent-causation](/concepts/agent-causation/)` (frontmatter)
+- `[[agent-causation#The Metaphysical Foundation: Substance Causation|substance-causation framework]]` (inline)
+- `[[agent-causation]]` (frontmatter)
 
 ## Remaining Items
 

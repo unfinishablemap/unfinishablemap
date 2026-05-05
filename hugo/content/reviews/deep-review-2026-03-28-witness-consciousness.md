@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Conflated wikilink in Further Reading**: `[self-reference paradox](/voids/self-opacity/)` linked to self-opacity (a voids article about the unobservable self) but displayed as "self-reference paradox" (a separate concepts article about Gödelian structural limits). These are distinct articles. **Resolution**: Split into two separate Further Reading entries with accurate descriptions.
+- **Conflated wikilink in Further Reading**: `[[self-opacity|self-reference paradox]]` linked to self-opacity (a voids article about the unobservable self) but displayed as "self-reference paradox" (a separate concepts article about Gödelian structural limits). These are distinct articles. **Resolution**: Split into two separate Further Reading entries with accurate descriptions.
 
 ### Medium Issues Found
 

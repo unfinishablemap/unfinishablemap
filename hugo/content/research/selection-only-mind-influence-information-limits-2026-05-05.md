@@ -370,26 +370,26 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 ## Connection to Existing Map Content
 
 Strong direct connections (article should wikilink):
-- `[forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)` — catalogues the candidate selection mechanisms.
-- `[post-decoherence-selection](/concepts/post-decoherence-selection/)` and `[post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)` — locates *where* selection happens; this article specifies *what* it can and cannot do.
-- `[trilemma-of-selection](/topics/trilemma-of-selection/)` — names the structural choice that selection-only resolves in a specific way.
-- `[motor-selection](/concepts/motor-selection/)` and `[attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)` — operationalised cases of selection.
-- `[bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)` and `[consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)` — the macroscopic bandwidth target (10 bits/s).
-- `[asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/)` — directly relevant: physical→mind vs. mind→physical asymmetry.
-- `[conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)` — selection-only is the canonical answer to the energy-conservation objection.
-- `[interactionist-dualism](/concepts/interactionist-dualism/)` — selection-only is the strictest version compatible with orthodox QM.
-- `[the-interface-problem](/topics/the-interface-problem/)` and `[interface-specification-programme](/apex/interface-specification-programme/)` — the article's distinguishing-observables table is an Interface Specification Programme contribution.
-- `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` — historical exemplar.
-- `[comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)` — generation-model contrast (Orch OR is the canonical generation model evaluated there).
-- `[mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)` — directly relevant for the bandwidth-derivation work.
-- `[evidential-status-discipline](/project/evidential-status-discipline/)` and `[framework-stage-calibration](/project/framework-stage-calibration/)` — cite at lede for tier-discipline.
+- `[[forward-in-time-conscious-selection]]` — catalogues the candidate selection mechanisms.
+- `[[post-decoherence-selection]]` and `[[post-decoherence-selection-programme]]` — locates *where* selection happens; this article specifies *what* it can and cannot do.
+- `[[trilemma-of-selection]]` — names the structural choice that selection-only resolves in a specific way.
+- `[[motor-selection]]` and `[[attention-as-selection-interface]]` — operationalised cases of selection.
+- `[[bandwidth-of-consciousness]]` and `[[consciousness-bandwidth-architecture]]` — the macroscopic bandwidth target (10 bits/s).
+- `[[asymmetric-bandwidth-consciousness]]` — directly relevant: physical→mind vs. mind→physical asymmetry.
+- `[[conservation-laws-and-mental-causation]]` — selection-only is the canonical answer to the energy-conservation objection.
+- `[[interactionist-dualism]]` — selection-only is the strictest version compatible with orthodox QM.
+- `[[the-interface-problem]]` and `[[interface-specification-programme]]` — the article's distinguishing-observables table is an Interface Specification Programme contribution.
+- `[[stapp-quantum-mind]]` — historical exemplar.
+- `[[comparing-quantum-consciousness-mechanisms]]` — generation-model contrast (Orch OR is the canonical generation model evaluated there).
+- `[[mathematical-structure-of-the-consciousness-physics-interface]]` — directly relevant for the bandwidth-derivation work.
+- `[[evidential-status-discipline]]` and `[[framework-stage-calibration]]` — cite at lede for tier-discipline.
 
 Cross-link recommended:
-- `[contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/)` — Kochen-Specker constraints on what selection can mean.
-- `[weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)` — alternative selection-as-boundary-condition framing.
-- `[amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)` — bridges quantum-scale bias to behavioural output.
-- `[timing-gap-problem](/concepts/timing-gap-problem/)` — the original objection that the post-decoherence selection programme answers.
-- `[possibility-probability-slippage](/concepts/possibility-probability-slippage/)` — relevant to the Walach-Atmanspacher decline-effect framing.
+- `[[contextual-selection-in-quantum-foundations]]` — Kochen-Specker constraints on what selection can mean.
+- `[[weak-measurement-and-post-selection]]` — alternative selection-as-boundary-condition framing.
+- `[[amplification-mechanisms-consciousness-physics]]` — bridges quantum-scale bias to behavioural output.
+- `[[timing-gap-problem]]` — the original objection that the post-decoherence selection programme answers.
+- `[[possibility-probability-slippage]]` — relevant to the Walach-Atmanspacher decline-effect framing.
 
 ## Gaps in Research
 

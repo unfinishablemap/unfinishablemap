@@ -24,12 +24,12 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken link to archived article**: `[eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-consciousness/)` was archived and coalesced into `eastern-philosophy-consciousness` on 2026-02-06. Updated link to point to the superseding article.
+- **Broken link to archived article**: `[[eastern-philosophy-haecceity-tension]]` was archived and coalesced into `eastern-philosophy-consciousness` on 2026-02-06. Updated link to point to the superseding article.
 
 ### Medium Issues Found
 
 - **Frontmatter categorization error**: `eastern-philosophy-consciousness` was listed under `concepts:` but the file lives in `topics/`. Moved to the `topics:` array. **Resolution**: Fixed.
-- **Missing cross-link**: Whitehead's "actual occasions" discussed in Comparative Advantages section without linking to the existing `[process-philosophy](/concepts/process-philosophy/)` article. **Resolution**: Added cross-link and added `process-philosophy` to frontmatter concepts.
+- **Missing cross-link**: Whitehead's "actual occasions" discussed in Comparative Advantages section without linking to the existing `[[process-philosophy]]` article. **Resolution**: Added cross-link and added `process-philosophy` to frontmatter concepts.
 
 ### Counterarguments Considered
 

@@ -61,10 +61,10 @@ topics: []
 - Added [eliminative-materialism](/topics/eliminative-materialism/) to `related_articles` and to "Further Reading" with annotation summarising what the dedicated article contributes (two strands, connectionist challenge, Moorean defence)
 
 ### Cross-links Added
-- `[eliminative-materialism](/topics/eliminative-materialism/)` in the heterophenomenology section body
-- `[eliminativism](/topics/eliminative-materialism/)` in the second-person methods closing
-- `[eliminative-materialism](/topics/eliminative-materialism/)` in `related_articles` frontmatter
-- `[eliminative-materialism](/topics/eliminative-materialism/)` in "Further Reading"
+- `[[eliminative-materialism]]` in the heterophenomenology section body
+- `[[eliminative-materialism|eliminativism]]` in the second-person methods closing
+- `[[eliminative-materialism]]` in `related_articles` frontmatter
+- `[[eliminative-materialism]]` in "Further Reading"
 
 ## Remaining Items
 

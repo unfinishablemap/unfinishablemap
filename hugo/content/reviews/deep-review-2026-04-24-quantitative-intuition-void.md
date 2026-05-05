@@ -24,7 +24,7 @@ This review was scoped by the explicit task context: retarget wikilinks that poi
 
 ## Wikilink Cleanup
 
-Scanned obsidian/ excluding reviews/, research/, archive/, hugo/, and workflow/ archives. Fourteen active-content files contained inbound `[scale-void](/voids/quantitative-intuition-void/)` or `[probability-intuition-void](/voids/quantitative-intuition-void/)` wikilinks; all were retargeted.
+Scanned obsidian/ excluding reviews/, research/, archive/, hugo/, and workflow/ archives. Fourteen active-content files contained inbound `[[scale-void]]` or `[[probability-intuition-void]]` wikilinks; all were retargeted.
 
 ### Files updated
 
@@ -47,13 +47,13 @@ Scanned obsidian/ excluding reviews/, research/, archive/, hugo/, and workflow/ 
 
 ### Anchor strategy
 
-For inline references where the calling context invoked one face specifically (magnitude or probability), the link uses a section anchor (`#the-magnitude-face` / `#the-probability-face`) to preserve the specific framing. For generic references (frontmatter related_articles, generic Further Reading entries), the plain `[quantitative-intuition-void](/voids/the-quantitative-comprehension-void/)` target was used. This keeps the unified article reachable from both narrow and broad contexts without flattening the two-face distinction at the reader-facing level.
+For inline references where the calling context invoked one face specifically (magnitude or probability), the link uses a section anchor (`#the-magnitude-face` / `#the-probability-face`) to preserve the specific framing. For generic references (frontmatter related_articles, generic Further Reading entries), the plain `[[quantitative-intuition-void]]` target was used. This keeps the unified article reachable from both narrow and broad contexts without flattening the two-face distinction at the reader-facing level.
 
 ### Files deliberately not updated
 
 - `reviews/**` — historical review archives; references preserve the state of the articles at review time. Updating would rewrite history.
 - `research/**` — pre-coalesce research notes; they are chronologically prior and document the research that fed into the eventual articles.
-- `archive/voids/scale-void.md`, `archive/voids/probability-intuition-void.md` — the archive copies of the originals. These carry redirect frontmatter to the unified article and do not need their own `...` references rewritten.
+- `archive/voids/scale-void.md`, `archive/voids/probability-intuition-void.md` — the archive copies of the originals. These carry redirect frontmatter to the unified article and do not need their own `[[...]]` references rewritten.
 - [workflow/todo.md](/workflow/todo/) — the task description itself references both old slugs by design (describing what was coalesced). This entry is marked complete in the same commit as the cleanup.
 
 ## Coherence Check Per Calling Context

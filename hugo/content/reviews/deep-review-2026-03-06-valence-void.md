@@ -26,7 +26,7 @@ topics: []
 - None
 
 ### Medium Issues Found
-- [Frontmatter misclassification]: `[phenomenal-value-realism](/topics/phenomenal-value-realism/)` was listed under `concepts:` but is a topic file. The `topics/` path prefix was also non-standard for frontmatter wikilinks. **Resolution**: Moved to `topics:` as `[phenomenal-value-realism](/topics/phenomenal-value-realism/)`.
+- [Frontmatter misclassification]: `[[topics/phenomenal-value-realism]]` was listed under `concepts:` but is a topic file. The `topics/` path prefix was also non-standard for frontmatter wikilinks. **Resolution**: Moved to `topics:` as `[[phenomenal-value-realism]]`.
 - [Missing inline cross-link]: `phenomenal-value-realism` was in frontmatter but never referenced in body text. **Resolution**: Added inline link near Veit discussion where phenomenal value realism is directly relevant.
 
 ### Counterarguments Considered

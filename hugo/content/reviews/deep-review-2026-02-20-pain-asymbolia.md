@@ -25,7 +25,7 @@ topics: []
 ### Critical Issues Found
 - **Grahek attribution distortion**: The article originally stated Grahek argues "what vanishes in asymbolia is not pain as information but pain as experience." This inverts Grahek's actual distinction between *feeling pain* (sensory, preserved in asymbolia) and *being in pain* (affective, abolished). The Map's interpretive gloss was conflated with Grahek's own analysis. **Resolution**: Rewrote to accurately present Grahek's feeling-pain/being-in-pain distinction, then clearly separated the Map's interpretation.
 - **"General emotional responsiveness" preserved — factually unsupported**: Berthier et al. (1988) report deficits extending to threatening gestures and verbal menaces, contradicting the claim that only pain-specific phenomenal motivation was lost. **Resolution**: Acknowledged the broader deficit honestly, then showed the core argument survives because the deficit remains centred on the affective dimension of bodily threat rather than cognition generally.
-- **Broken wikilink `psychophysical-coupling`**: No such file existed. **Resolution**: Updated to `[psychophysical-laws](/concepts/psychophysical-laws/)`.
+- **Broken wikilink `psychophysical-coupling`**: No such file existed. **Resolution**: Updated to `[[psychophysical-laws]]`.
 
 ### Medium Issues Found
 - **Anti-functionalist argument targeted a weaker version**: A sophisticated functionalist would simply deny asymbolia patients are in pain. **Resolution**: Restructured to engage with this stronger response and show that the concession itself supports the dualist point.
@@ -49,16 +49,16 @@ topics: []
 
 ### Enhancements Made
 - Connected asymbolia to philosophical zombies as an "empirical partial case"
-- Added wikilink to `[functionalism](/concepts/functionalism/)` in the anti-functionalist section
-- Added wikilink to `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)`
-- Expanded Further Reading with 4 new cross-links: `[philosophical-zombies](/concepts/philosophical-zombies/)`, `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)`, `[placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)`, `[blindsight](/concepts/blindsight/)`
+- Added wikilink to `[[concepts/functionalism]]` in the anti-functionalist section
+- Added wikilink to `[[hard-problem-of-consciousness]]`
+- Expanded Further Reading with 4 new cross-links: `[[philosophical-zombies]]`, `[[hard-problem-of-consciousness]]`, `[[placebo-effect-and-mental-causation]]`, `[[blindsight]]`
 
 ### Cross-links Added
-- `[functionalism](/concepts/functionalism/)` — target of the anti-functionalist argument
-- `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)` — the "miniature" framing
-- `[philosophical-zombies](/concepts/philosophical-zombies/)` — empirical partial zombie connection
-- `[placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)` — another dissociation route
-- `[blindsight](/concepts/blindsight/)` — parallel clinical dissociation
+- `[[concepts/functionalism]]` — target of the anti-functionalist argument
+- `[[hard-problem-of-consciousness]]` — the "miniature" framing
+- `[[philosophical-zombies]]` — empirical partial zombie connection
+- `[[placebo-effect-and-mental-causation]]` — another dissociation route
+- `[[blindsight]]` — parallel clinical dissociation
 
 ## Remaining Items
 

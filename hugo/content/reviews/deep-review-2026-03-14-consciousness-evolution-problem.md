@@ -28,9 +28,9 @@ None. The previous review addressed all critical issues (fabricated citation, un
 
 ### Medium Issues Found
 
-1. **Missing inline cross-links to theory pages**: The article explicitly discusses functionalism, global workspace theory, integrated information theory, and higher-order theories without linking to the dedicated concept pages. **Resolution**: Added inline links to `[functionalism](/concepts/functionalism/)`, `[global-workspace-theory](/concepts/global-workspace-theory/)`, `[higher-order-theories](/concepts/higher-order-theories/)`, and `[integrated-information-theory](/concepts/integrated-information-theory/)` at the points where these theories are discussed.
+1. **Missing inline cross-links to theory pages**: The article explicitly discusses functionalism, global workspace theory, integrated information theory, and higher-order theories without linking to the dedicated concept pages. **Resolution**: Added inline links to `[[functionalism]]`, `[[global-workspace-theory]]`, `[[higher-order-theories]]`, and `[[integrated-information-theory]]` at the points where these theories are discussed.
 
-2. **Missing cross-links to closely related articles**: The "Embrace Dualism" section discusses evolution under dualism and causal closure without linking to the dedicated articles on these subjects. **Resolution**: Added inline links to `[evolution-under-dualism](/topics/evolution-under-dualism/)` and `[causal-closure](/concepts/causal-closure/)`, plus `[biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)` in related_articles and Further Reading.
+2. **Missing cross-links to closely related articles**: The "Embrace Dualism" section discusses evolution under dualism and causal closure without linking to the dedicated articles on these subjects. **Resolution**: Added inline links to `[[evolution-under-dualism]]` and `[[causal-closure]]`, plus `[[biological-teleology-and-the-interface-framework]]` in related_articles and Further Reading.
 
 3. **Thin references section**: Only 4 references for a 2200-word article that engages with Nagel's "what it is like" framing and Strawson's panpsychism. **Resolution**: Added Nagel (1974) and Strawson (2006) to References. Added self-citations for the two Map articles this piece builds on most substantively (evolutionary-case-for-mental-causation, consciousness-as-amplifier).
 
@@ -66,13 +66,13 @@ No new counterarguments identified that require response in this article.
 
 ### Cross-links Added
 
-- `[functionalism](/concepts/functionalism/)` (inline in Three Versions, materialist paragraph)
-- `[global-workspace-theory](/concepts/global-workspace-theory/)` (inline in Sufficiency of Function and What the Problem Reveals)
-- `[integrated-information-theory](/concepts/integrated-information-theory/)` (inline in What the Problem Reveals)
-- `[higher-order-theories](/concepts/higher-order-theories/)` (inline in What the Problem Reveals)
-- `[evolution-under-dualism](/topics/evolution-under-dualism/)` (inline in Embrace Dualism, Further Reading, related_articles)
-- `[causal-closure](/concepts/causal-closure/)` (inline in Embrace Dualism, Further Reading, related_articles)
-- `[biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)` (Further Reading, related_articles)
+- `[[functionalism]]` (inline in Three Versions, materialist paragraph)
+- `[[global-workspace-theory]]` (inline in Sufficiency of Function and What the Problem Reveals)
+- `[[integrated-information-theory]]` (inline in What the Problem Reveals)
+- `[[higher-order-theories]]` (inline in What the Problem Reveals)
+- `[[evolution-under-dualism]]` (inline in Embrace Dualism, Further Reading, related_articles)
+- `[[causal-closure]]` (inline in Embrace Dualism, Further Reading, related_articles)
+- `[[biological-teleology-and-the-interface-framework]]` (Further Reading, related_articles)
 
 ## Remaining Items
 

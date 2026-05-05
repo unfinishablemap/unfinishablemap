@@ -47,7 +47,7 @@ All six adversarial personas engaged. No new counterarguments beyond those addre
 - Careful caveating of Konkoly 2026 study
 
 ### Enhancements Made
-- Added wikilink from N1 hypnagogia table row to `[hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)`
+- Added wikilink from N1 hypnagogia table row to `[[hypnagogic-phenomenology-and-interface-modulation]]`
 - Added hypnagogic article to Further Reading section
 - Added hypnagogic article to `related_articles` frontmatter
 

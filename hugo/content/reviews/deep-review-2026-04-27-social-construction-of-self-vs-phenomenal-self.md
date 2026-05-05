@@ -27,7 +27,7 @@ topics: []
 - None. Fifth review of a stable article. All twelve cited sources re-verified for attribution. No factual errors, no dropped qualifiers, no source/Map conflation, no internal contradictions.
 
 ### Medium Issues Found
-- None. The only modification since 2026-03-22 was site-wide retargeting of `[other-minds-void](/voids/voids-between-minds/)` → `[voids-between-minds](/voids/voids-between-minds/)` (commit b5cbfd988, 2026-04-18). The retargeted phrasing — "the constitutive void between minds — the gap that makes genuine intersubjectivity possible" — reads naturally with the new target. All wikilinks resolve.
+- None. The only modification since 2026-03-22 was site-wide retargeting of `[[other-minds-void]]` → `[[voids-between-minds]]` (commit b5cbfd988, 2026-04-18). The retargeted phrasing — "the constitutive void between minds — the gap that makes genuine intersubjectivity possible" — reads naturally with the new target. All wikilinks resolve.
 
 ### Counterarguments Considered
 - All six adversarial personas re-engaged. No new objections beyond what the prior four reviews covered. The article remains well-defended against eliminativism (regress argument), functionalism (zombie circularity acknowledged in text), MWI (haecceity argument), Buddhist no-self (witness-consciousness reference), and constructionist-only views (asymmetry argument).

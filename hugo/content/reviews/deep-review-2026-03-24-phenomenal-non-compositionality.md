@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 - **Orphaned reference**: Seager (1995) appeared in References but was never cited in text. Resolution: removed.
-- **Missing qualia link**: `qualia` was in frontmatter concepts but never wikilinked in text body. Resolution: added `[qualitative character](/concepts/qualia/)` link in the new functionalist response paragraph.
+- **Missing qualia link**: `qualia` was in frontmatter concepts but never wikilinked in text body. Resolution: added `[[qualia|qualitative character]]` link in the new functionalist response paragraph.
 - **Incomplete tenet coverage**: Bidirectional Interaction tenet was not addressed in Relation to Site Perspective. Resolution: added paragraph connecting non-compositionality to unified causal action.
 - **No functionalist engagement**: The article asserted perspectives can't compose without engaging the functionalist counter that functional states do compose. Resolution: added paragraph with James's mind-dust critique distinguishing functional from phenomenal composition.
 
@@ -52,7 +52,7 @@ topics: []
 ### Enhancements Made
 - Added functionalist response paragraph with James's mind-dust critique
 - Added Bidirectional Interaction tenet connection
-- Wove `[qualia](/concepts/qualia/)` link into text naturally
+- Wove `[[qualia]]` link into text naturally
 - Fixed self-citation (pseudonym, date, title)
 - Removed orphaned Seager reference
 - Fixed banned style pattern

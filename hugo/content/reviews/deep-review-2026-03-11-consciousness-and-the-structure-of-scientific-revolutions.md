@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 - **Uncited reference**: Lakatos (1978) appeared in References but was never mentioned in the text. Resolution: integrated Lakatos's research programmes concept into the "Why No Revolution Has Occurred" section, strengthening the argument about why physicalism persists despite crisis.
-- **Missing cross-link**: Dualism discussed as candidate successor without linking to `[interactionist-dualism](/concepts/interactionist-dualism/)`. Resolution: added wikilink.
+- **Missing cross-link**: Dualism discussed as candidate successor without linking to `[[interactionist-dualism]]`. Resolution: added wikilink.
 - **Philosophical vs empirical anomaly distinction**: The article's key vulnerability — that Kuhn's anomalies were empirical, while consciousness anomalies are philosophical — was only addressed at the end in "What Makes Consciousness Distinctive." Resolution: added an early qualifier in the Anomalies section with a named-anchor forward reference, so readers encounter this distinction before the detailed anomaly list.
 
 ### Counterarguments Considered
@@ -50,7 +50,7 @@ topics: []
 - Integrated Lakatos's research programme degeneracy concept, adding theoretical depth to "Why No Revolution Has Occurred"
 - Added early acknowledgment that consciousness anomalies are philosophical rather than empirical, with forward reference
 - Added named anchor for cross-section referencing
-- Added `[interactionist-dualism](/concepts/interactionist-dualism/)` cross-link
+- Added `[[interactionist-dualism]]` cross-link
 
 ### Cross-links Added
 - [interactionist-dualism](/concepts/interactionist-dualism/) (in "Why No Revolution Has Occurred" section)

@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-This is the third deep review, triggered by the article's orphan status: after a mass rename of `[self-reference-paradox](/concepts/self-reference-paradox/)` → `[self-reference paradox](/voids/self-opacity/)` across ~96 files, the concept article had 0 inbound links. This review focused on:
+This is the third deep review, triggered by the article's orphan status: after a mass rename of `[[self-reference-paradox]]` → `[[self-opacity|self-reference paradox]]` across ~96 files, the concept article had 0 inbound links. This review focused on:
 1. Confirming the article covers distinct ground from the self-opacity void (it does)
 2. Adding inbound cross-references from related articles
 3. Minor improvements to the article itself
@@ -45,7 +45,7 @@ None. The article remains well-attributed, internally consistent, and properly h
    - **Resolution**: Added to related_articles and Further Reading
 
 4. **Missing phenomenal-transparency body link**: Transparency limits section discussed Metzinger's work without linking to the concept article.
-   - **Resolution**: Added `[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)` link in transparency limits paragraph
+   - **Resolution**: Added `[[phenomenal-transparency]]` link in transparency limits paragraph
 
 ### Counterarguments Considered
 
@@ -65,7 +65,7 @@ All strengths from prior reviews remain intact:
 
 ### Enhancements Made
 
-1. Added `[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)` link in transparency limits section
+1. Added `[[phenomenal-transparency]]` link in transparency limits section
 2. Added self-opacity, phenomenal-transparency, phenomenology-of-recursive-thought to related_articles
 3. Added three new entries to Further Reading (self-opacity, phenomenal-transparency, phenomenology-of-recursive-thought)
 

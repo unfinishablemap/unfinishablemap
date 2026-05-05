@@ -63,10 +63,10 @@ Per previous reviews, these remain bedrock disagreements:
 - All five tenet connections
 
 ### Enhancements Made (This Review)
-1. Added `[continual-learning-argument](/concepts/continual-learning-argument/)` link in LLM section with explanation of proximity argument
-2. Added `[baseline-cognition](/concepts/baseline-cognition/)` reference in embodiment section
+1. Added `[[continual-learning-argument]]` link in LLM section with explanation of proximity argument
+2. Added `[[baseline-cognition]]` reference in embodiment section
 3. Tightened No Many Worlds tenet connection (clearer argument about indexical anchoring)
-4. Added `[baseline-cognition](/concepts/baseline-cognition/)` and `[continual-learning-argument](/concepts/continual-learning-argument/)` to frontmatter concepts
+4. Added `[[baseline-cognition]]` and `[[continual-learning-argument]]` to frontmatter concepts
 5. Added two entries to Further Reading section
 
 ### Cross-links Added

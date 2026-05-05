@@ -24,11 +24,11 @@ topics: []
 
 ### Critical Issues Found
 
-- **[CRITICAL-1] Stale wikilink to archived article**: `[temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/)` in the "Temporal Selection and the Interface" section pointed to an article that was archived on 2026-03-10 and coalesced into `temporal-consciousness`. **Resolution**: Updated link to `[temporal phenomenology of quantum selection](/concepts/temporal-consciousness/)`.
+- **[CRITICAL-1] Stale wikilink to archived article**: `[[temporal-phenomenology-quantum-selection]]` in the "Temporal Selection and the Interface" section pointed to an article that was archived on 2026-03-10 and coalesced into `temporal-consciousness`. **Resolution**: Updated link to `[[temporal-consciousness|temporal phenomenology of quantum selection]]`.
 
 ### Medium Issues Found
 
-- **[MEDIUM-1] Missing neurophenomenology cross-link**: Varela's neurophenomenological research programme was discussed without linking to the existing `[neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)` concept page. **Resolution**: Added wikilink `[neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/)` in the Varela paragraph.
+- **[MEDIUM-1] Missing neurophenomenology cross-link**: Varela's neurophenomenological research programme was discussed without linking to the existing `[[neurophenomenology]]` concept page. **Resolution**: Added wikilink `[[neurophenomenology|neurophenomenological]]` in the Varela paragraph.
 
 ### Counterarguments Considered
 
@@ -56,7 +56,7 @@ All six adversarial personas engaged with the content. No new critical issues we
 
 ### Enhancements Made
 
-- Added `[neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)` cross-link for Varela paragraph
+- Added `[[neurophenomenology]]` cross-link for Varela paragraph
 - Fixed stale link to archived `temporal-phenomenology-quantum-selection`
 
 ### Cross-links Added

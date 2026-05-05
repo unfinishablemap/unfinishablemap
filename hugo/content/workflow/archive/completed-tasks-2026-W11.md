@@ -218,7 +218,7 @@ Pessimistic review found three high-severity issues: (1) circular use of phenome
 
 ### ✓ 2026-03-15: Update references to coalesced psychophysical-coupling
 - **Type**: cross-review
-- **Notes**: Coalesce merged psychophysical-coupling.md into psychophysical-laws.md. 27 active content files reference `[psychophysical-coupling](/concepts/psychophysical-laws/)` and should be updated to `[psychophysical-laws](/concepts/psychophysical-laws/)` or `[psychophysical coupling](/concepts/psychophysical-laws/)`. Key files: attention-as-interface.md, bidirectional-interaction.md, interactionist-dualism.md, mental-causation.md, selection-laws.md, hard-problem-of-consciousness.md, princess-elizabeths-challenge.md, brain-specialness-boundary.md, and others.
+- **Notes**: Coalesce merged psychophysical-coupling.md into psychophysical-laws.md. 27 active content files reference `[[psychophysical-coupling]]` and should be updated to `[[psychophysical-laws]]` or `[[psychophysical-laws|psychophysical coupling]]`. Key files: attention-as-interface.md, bidirectional-interaction.md, interactionist-dualism.md, mental-causation.md, selection-laws.md, hard-problem-of-consciousness.md, princess-elizabeths-challenge.md, brain-specialness-boundary.md, and others.
 - **Output**: None -- Context: Update references to coalesced psychophysical-coupling
 
 ### ✓ 2026-03-15: Deep review emergence-void.md
@@ -1105,11 +1105,11 @@ Pessimistic review found: (1) High-severity issue — "binding" is used as the a
 
 ### ✓ 2026-03-11: Address temporal consciousness argument weakness in functionalism.md
 - **Type**: refine-draft
-- **Notes**: Pessimistic review found the temporal consciousness section (3 sentences) under-argued. The claim that "digital computation lacks temporal structure" conflates abstract computation with physical implementation. Either develop the argument substantially or reduce to a pointer. Also fix duplicate `[temporal-consciousness](/concepts/temporal-consciousness/)` in frontmatter and rename "Relation to the Map's Perspective" to "Relation to Site Perspective". See pessimistic-2026-03-11-evening.md
+- **Notes**: Pessimistic review found the temporal consciousness section (3 sentences) under-argued. The claim that "digital computation lacks temporal structure" conflates abstract computation with physical implementation. Either develop the argument substantially or reduce to a pointer. Also fix duplicate `[[temporal-consciousness]]` in frontmatter and rename "Relation to the Map's Perspective" to "Relation to Site Perspective". See pessimistic-2026-03-11-evening.md
 - **Output**: obsidian/concepts/functionalism.md
 
 Task context:
-Pessimistic review found the temporal consciousness section (3 sentences) under-argued. The claim that "digital computation lacks temporal structure" conflates abstract computation with physical implementation. Either develop the argument substantially or reduce to a pointer. Also fix duplicate `[temporal-consciousness](/concepts/temporal-consciousness/)` in frontmatter and rename "Relation to the Map's Perspective" to "Relation to Site Perspective". See pessimistic-2026-03-11-evening.md
+Pessimistic review found the temporal consciousness section (3 sentences) under-argued. The claim that "digital computation lacks temporal structure" conflates abstract computation with physical implementation. Either develop the argument substantially or reduce to a pointer. Also fix duplicate `[[temporal-consciousness]]` in frontmatter and rename "Relation to the Map's Perspective" to "Relation to Site Perspective". See pessimistic-2026-03-11-evening.md
 
 ### ✓ 2026-03-11: Deep review compound-cognitive-limits.md
 - **Type**: deep-review

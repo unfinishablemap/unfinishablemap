@@ -134,7 +134,7 @@ The candle flame analogy (line 102) actually undermines the Map's position: if t
 | "This seems obvious from experience" (mental-causation.md, line 49) | Slightly informal for the article's otherwise rigorous tone | "This is pre-theoretically compelling" |
 | "more problematically" (emergence.md quoting tenets on MWI) | Hedging without argument | Provide the argument or remove the comparative |
 | "but honestly, not as far as one might wish" (emergence.md, line 104) | Conversational aside that weakens credibility | "but the advance is more modest than it might appear" |
-| duplicate `[temporal-consciousness](/concepts/temporal-consciousness/)` in self-and-consciousness.md concepts frontmatter | Lines 19 and 27 | Remove the duplicate entry |
+| duplicate `[[temporal-consciousness]]` in self-and-consciousness.md concepts frontmatter | Lines 19 and 27 | Remove the duplicate entry |
 
 ## Strengths (Brief)
 

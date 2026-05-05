@@ -29,7 +29,7 @@ topics: []
 
 ### Medium Issues Found
 
-- **Frontmatter category errors**: `topics: [mysterianism](/concepts/mysterianism/)` was wrong (mysterianism is a concept, not a topic—file lives at [concepts/mysterianism.md](/concepts/mysterianism/)). `concepts: [conceptual-impossibility](/voids/conceptual-impossibility/)` was wrong (file lives at [voids/conceptual-impossibility.md](/voids/conceptual-impossibility/)). **Resolved**: Removed mysterianism from topics (it remains in concepts where it belongs); moved conceptual-impossibility to related_articles.
+- **Frontmatter category errors**: `topics: [[mysterianism]]` was wrong (mysterianism is a concept, not a topic—file lives at [concepts/mysterianism.md](/concepts/mysterianism/)). `concepts: [[conceptual-impossibility]]` was wrong (file lives at [voids/conceptual-impossibility.md](/voids/conceptual-impossibility/)). **Resolved**: Removed mysterianism from topics (it remains in concepts where it belongs); moved conceptual-impossibility to related_articles.
 - **LLM cliché construct**: "The distinction is not a taxonomy we can apply from within and rest on. It is a lens that exposes the limits of our self-diagnosis." This is the discouraged "Not X. It is Y." pattern. **Resolved**: Rephrased to "works as a lens exposing the limits of our self-diagnosis, rather than as a taxonomy we can apply from within and rest on."
 
 ### Counterarguments Considered

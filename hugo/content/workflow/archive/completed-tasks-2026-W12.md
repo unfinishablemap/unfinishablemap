@@ -543,11 +543,11 @@ Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides subs
 
 ### ✓ 2026-03-21: Fix broken wikilink in phenomenology-mechanism-bridge.md
 - **Type**: refine-draft
-- **Notes**: Pessimistic review found `[delegatory-dualism](/topics/delegatory-dualism/)` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
+- **Notes**: Pessimistic review found `[[delegatory-dualism]]` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
 - **Output**: obsidian/apex/phenomenology-mechanism-bridge.md
 
 Task context:
-Pessimistic review found `[delegatory-dualism](/topics/delegatory-dualism/)` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
+Pessimistic review found `[[delegatory-dualism]]` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
 
 ### ✓ 2026-03-21: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review

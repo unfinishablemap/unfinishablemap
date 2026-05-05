@@ -30,7 +30,7 @@ None. The article remains at full stability. Changes since last review were limi
 
 1. **Missing parenthetical year for Johansson reference**: Body text mentioned "Johansson's choice blindness paradigm" without a year, inconsistent with other in-text citations (Nisbett & Wilson 1977, Schwitzgebel 2011). Same issue type the previous review fixed for Schwitzgebel and Petitmengin. **Resolution**: Added "(Johansson et al. 2005)".
 
-2. **Unlinked heterophenomenology in body text**: First substantive mention of heterophenomenology (line 48) lacked a wikilink — the `[heterophenomenology](/concepts/heterophenomenology/)` concept page exists but was only linked in Further Reading. **Resolution**: Added wikilink to first body-text mention.
+2. **Unlinked heterophenomenology in body text**: First substantive mention of heterophenomenology (line 48) lacked a wikilink — the `[[heterophenomenology]]` concept page exists but was only linked in Further Reading. **Resolution**: Added wikilink to first body-text mention.
 
 ### Counterarguments Considered
 
@@ -65,7 +65,7 @@ None. The article remains at full stability. Changes since last review were limi
 ### Enhancements Made
 
 - Added parenthetical year "(Johansson et al. 2005)" to body text citation
-- Added `[heterophenomenology](/concepts/heterophenomenology/)` wikilink to first body-text mention
+- Added `[[heterophenomenology]]` wikilink to first body-text mention
 
 ### Cross-links Added
 

@@ -67,9 +67,9 @@ Full check completed:
 
 ### Enhancements Made
 
-- Added cross-link to `[nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)` (coalesced article) — directly relevant given Sartre, Kierkegaard, and Heidegger references throughout
-- Added `[nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)` to frontmatter concepts
-- Added `[nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)` to Further Reading with description connecting existentialist roots to deliberative vertigo
+- Added cross-link to `[[nihilism-and-existentialism]]` (coalesced article) — directly relevant given Sartre, Kierkegaard, and Heidegger references throughout
+- Added `[[nihilism-and-existentialism]]` to frontmatter concepts
+- Added `[[nihilism-and-existentialism]]` to Further Reading with description connecting existentialist roots to deliberative vertigo
 - Added inline link at Sartre reference in Deliberative Vertigo section
 
 ### Cross-links Added

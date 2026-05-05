@@ -32,11 +32,11 @@ None. No factual errors, misattributions, internal contradictions, or missing re
 
 ### Medium Issues Found
 
-- **Stale wikilink to archived target**: `[imagination-and-creativity-void](/voids/creative-aesthetic-void/)` (3 occurrences: concepts list, body §"The Gradient of Creative Surprise," Further Reading) pointed to `archive/voids/imagination-and-creativity-void.md` (archived 2026-04-23). The replacement is `[creative-aesthetic-void](/voids/creative-aesthetic-void/)`. **Resolved**: all three retargeted.
+- **Stale wikilink to archived target**: `[[imagination-and-creativity-void]]` (3 occurrences: concepts list, body §"The Gradient of Creative Surprise," Further Reading) pointed to `archive/voids/imagination-and-creativity-void.md` (archived 2026-04-23). The replacement is `[[creative-aesthetic-void]]`. **Resolved**: all three retargeted.
 
 ### Low Issues Found
 
-- **Path prefix inconsistency**: `[epiphenomenalism](/concepts/epiphenomenalism/)` uses explicit path while sibling concept links do not. Carried forward from prior reviews — functionally correct, serves as disambiguation.
+- **Path prefix inconsistency**: `[[concepts/epiphenomenalism]]` uses explicit path while sibling concept links do not. Carried forward from prior reviews — functionally correct, serves as disambiguation.
 
 ### Attribution Accuracy
 

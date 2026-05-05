@@ -28,9 +28,9 @@ None. Article remains well-constructed after two prior reviews. All attributions
 
 ### Medium Issues Found
 
-1. **Duplicate `[metacognition](/concepts/metacognition/)` in frontmatter concepts**: The concepts list had `[metacognition](/concepts/metacognition/)` listed twice. *Resolution*: Removed duplicate.
+1. **Duplicate `[[metacognition]]` in frontmatter concepts**: The concepts list had `[[metacognition]]` listed twice. *Resolution*: Removed duplicate.
 
-2. **Redundant Further Reading entries**: Both `[metarepresentation](/concepts/metacognition/)` and `[metacognition](/concepts/metacognition/)` linked to the same target article with slightly different descriptions. *Resolution*: Consolidated into single entry.
+2. **Redundant Further Reading entries**: Both `[[metacognition|metarepresentation]]` and `[[metacognition]]` linked to the same target article with slightly different descriptions. *Resolution*: Consolidated into single entry.
 
 3. **Working memory figure slightly dated**: Article cited Miller's classic "7±2 items" for human working memory. Modern research (Cowan 2001) estimates ~4 items for unstructured content. *Resolution*: Updated figure to reflect Cowan's estimate with note about chunking; added Cowan reference.
 

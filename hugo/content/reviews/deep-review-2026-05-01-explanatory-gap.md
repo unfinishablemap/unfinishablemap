@@ -31,7 +31,7 @@ None. The article remains in the converged state achieved across five prior revi
 
 ### Medium Issues Found
 
-- **Missing reciprocal link to newly published [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)**: The new topic article (created 2026-04-30) is the topic-level companion to the existing concept-level [hard-problem-of-content](/concepts/hard-problem-of-content/) mention in the gap article. The naturalisation-failure topic article already lists `[explanatory-gap](/concepts/explanatory-gap/)` in its concepts frontmatter and Further Reading; the reciprocal link from the gap article to the topic was missing. **Resolution**: Added `[the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)` to `related_articles` frontmatter and to the Further Reading section as a topic-level companion to the existing `hard-problem-of-content` entry.
+- **Missing reciprocal link to newly published [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)**: The new topic article (created 2026-04-30) is the topic-level companion to the existing concept-level [hard-problem-of-content](/concepts/hard-problem-of-content/) mention in the gap article. The naturalisation-failure topic article already lists `[[concepts/explanatory-gap]]` in its concepts frontmatter and Further Reading; the reciprocal link from the gap article to the topic was missing. **Resolution**: Added `[[the-naturalisation-failure-for-content]]` to `related_articles` frontmatter and to the Further Reading section as a topic-level companion to the existing `hard-problem-of-content` entry.
 
 ### Counterarguments Considered
 

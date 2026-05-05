@@ -26,8 +26,8 @@ topics: []
 - None. The article is substantively sound after the first review's major improvements (attribution fixes, meta-problem engagement, broken link repairs).
 
 ### Medium Issues Found
-- **Missing parsimony-epistemology cross-link**: The Occam's Razor tenet section made a behaviourism analogy but lacked engagement with the deeper epistemological argument articulated in the newly created `[parsimony-epistemology](/concepts/parsimony-epistemology/)` concept — specifically, that parsimony requires competing theories to explain the data equally well (a precondition physicalism fails in the consciousness domain). Resolution: Added parsimony-epistemology link and precondition argument to Occam's section.
-- **Missing cross-link in frontmatter and Further Reading**: `[parsimony-epistemology](/concepts/parsimony-epistemology/)` not referenced despite direct relevance. Resolution: Added to concepts frontmatter and Further Reading.
+- **Missing parsimony-epistemology cross-link**: The Occam's Razor tenet section made a behaviourism analogy but lacked engagement with the deeper epistemological argument articulated in the newly created `[[parsimony-epistemology]]` concept — specifically, that parsimony requires competing theories to explain the data equally well (a precondition physicalism fails in the consciousness domain). Resolution: Added parsimony-epistemology link and precondition argument to Occam's section.
+- **Missing cross-link in frontmatter and Further Reading**: `[[parsimony-epistemology]]` not referenced despite direct relevance. Resolution: Added to concepts frontmatter and Further Reading.
 
 ### Counterarguments Considered
 - All six adversarial personas engaged. No new arguments beyond those already addressed in the previous review. The meta-problem engagement, weather simulation acknowledgment, and precision weighting regress remain robust.
@@ -54,7 +54,7 @@ topics: []
 
 ### Enhancements Made
 - Strengthened Occam's Razor tenet section with parsimony-epistemology precondition argument
-- Added `[parsimony-epistemology](/concepts/parsimony-epistemology/)` to frontmatter concepts
+- Added `[[parsimony-epistemology]]` to frontmatter concepts
 - Added parsimony-epistemology to Further Reading with descriptive text
 
 ### Cross-links Added

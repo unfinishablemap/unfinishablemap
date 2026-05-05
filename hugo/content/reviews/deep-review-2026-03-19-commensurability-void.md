@@ -28,8 +28,8 @@ topics: []
 ### Medium Issues Found
 - **Missing IIT engagement**: Article claimed phenomenal comparison is only partial without acknowledging the major counterargument (IIT's Φ as universal measure). Resolution: Added paragraph engaging with IIT, arguing Φ measures quantity not qualitative character.
 - **Incomplete citation**: Reference 4 lacked author information. Resolution: Added Kagan et al. attribution.
-- **Nonexistent frontmatter topic**: `other-minds` topic file doesn't exist. Resolution: Removed from frontmatter topics (other-minds-void is already in related_articles).
-- **Unused concept cross-link**: `[mysterianism](/concepts/mysterianism/)` in frontmatter concepts but never wikilinked in text. Resolution: Added contextual wikilink in ethical stakes section.
+- **Nonexistent frontmatter topic**: `[[other-minds]]` topic file doesn't exist. Resolution: Removed from frontmatter topics (other-minds-void is already in related_articles).
+- **Unused concept cross-link**: `[[mysterianism]]` in frontmatter concepts but never wikilinked in text. Resolution: Added contextual wikilink in ethical stakes section.
 
 ### Counterarguments Considered
 - **IIT's universal measure (Φ)**: Engaged directly — Φ measures integrated information quantity, not qualitative phenomenal character. Two systems with identical Φ could have incommensurable experiences.
@@ -52,7 +52,7 @@ topics: []
 - Added mysterianism cross-link in "Ethical Stakes" section
 - Added hard problem cross-link in "Relation to Site Perspective" opening
 - Fixed incomplete citation (Reference 4)
-- Cleaned frontmatter: removed nonexistent `other-minds` topic
+- Cleaned frontmatter: removed nonexistent `[[other-minds]]` topic
 
 ### Cross-links Added
 - [mysterianism](/concepts/mysterianism/)

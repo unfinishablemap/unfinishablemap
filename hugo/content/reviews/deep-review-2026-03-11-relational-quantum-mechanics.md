@@ -23,10 +23,10 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilinks to archived concept**: `[interface-locality](/concepts/brain-interface-boundary/)` appeared on lines 99 and 188 but the concept was archived and replaced by `[brain-interface-boundary](/concepts/brain-interface-boundary/)`. Fixed both references.
+- **Broken wikilinks to archived concept**: `[[interface-locality]]` appeared on lines 99 and 188 but the concept was archived and replaced by `[[brain-interface-boundary]]`. Fixed both references.
 
 ### Medium Issues Found
-- **Inconsistent path-prefixed wikilinks**: `[many-worlds](/concepts/many-worlds/)` and `[epiphenomenalism](/concepts/epiphenomenalism/)` used path prefixes while all other body links used bare slugs. Fixed to `[many-worlds](/concepts/many-worlds/)` and `[epiphenomenalism](/concepts/epiphenomenalism/)` for consistency.
+- **Inconsistent path-prefixed wikilinks**: `[[concepts/many-worlds]]` and `[[concepts/epiphenomenalism]]` used path prefixes while all other body links used bare slugs. Fixed to `[[many-worlds]]` and `[[epiphenomenalism]]` for consistency.
 - **Stale AI refinement log**: HTML comment block from 2026-03-11 refinement marked "should be removed after human review." Removed.
 
 ### Attribution Accuracy Check
@@ -59,7 +59,7 @@ All six pessimistic personas found the article engages their objections fairly. 
 - Balanced illusionism engagement (post-March refinement)
 
 ### Enhancements Made
-- Fixed 2 broken wikilinks (`[interface-locality](/concepts/brain-interface-boundary/)` → `[brain-interface-boundary](/concepts/brain-interface-boundary/)`)
+- Fixed 2 broken wikilinks (`[[interface-locality]]` → `[[brain-interface-boundary]]`)
 - Normalized 2 path-prefixed wikilinks for consistency
 - Removed stale refinement log
 

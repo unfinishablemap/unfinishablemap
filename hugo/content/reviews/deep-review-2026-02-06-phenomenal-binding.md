@@ -39,27 +39,27 @@ However, a stale copy remained at `hugo/content/concepts/phenomenal-binding.md` 
 Deleted `hugo/content/concepts/phenomenal-binding.md`. The archive copy at `hugo/content/archive/concepts/phenomenal-binding.md` preserves the URL with proper redirect to the canonical article.
 
 ### 2. Cross-Reference Audit
-Searched all obsidian content files for "phenomenal binding" phrase usage and checked whether each occurrence links to `[binding-problem](/concepts/binding-problem/)`.
+Searched all obsidian content files for "phenomenal binding" phrase usage and checked whether each occurrence links to `[[binding-problem]]`.
 
 ### 3. Cross-Links Added
 
 **psychophysical-coupling.md:**
-- Added `[binding-problem](/concepts/binding-problem/)` to frontmatter concepts
-- Added inline link `[Phenomenal binding](/concepts/binding-problem/)` in comparison table (line 221)
-- Added `[binding-problem](/concepts/binding-problem/)` to Further Reading section
+- Added `[[binding-problem]]` to frontmatter concepts
+- Added inline link `[[binding-problem|Phenomenal binding]]` in comparison table (line 221)
+- Added `[[binding-problem]]` to Further Reading section
 
 **baseline-cognition.md:**
-- Added inline link `[phenomenal binding](/concepts/binding-problem/)` in body text (line 153)
-- Already had `[binding-problem](/concepts/binding-problem/)` in frontmatter
+- Added inline link `[[binding-problem|phenomenal binding]]` in body text (line 153)
+- Already had `[[binding-problem]]` in frontmatter
 
 **intentionality.md:**
-- Added `[binding-problem](/concepts/binding-problem/)` to frontmatter concepts
-- Added inline link `[*binding*](/concepts/binding-problem/)` in "Understanding as Phenomenal Binding" section
-- Added `[binding-problem](/concepts/binding-problem/)` to Further Reading section
+- Added `[[binding-problem]]` to frontmatter concepts
+- Added inline link `[[binding-problem|*binding*]]` in "Understanding as Phenomenal Binding" section
+- Added `[[binding-problem]]` to Further Reading section
 
 **language-recursion-and-consciousness.md:**
-- Added inline link `[phenomenal binding](/concepts/binding-problem/)` at line 133
-- Already had `[binding-problem](/concepts/binding-problem/)` in frontmatter and other body locations
+- Added inline link `[[binding-problem|phenomenal binding]]` at line 133
+- Already had `[[binding-problem]]` in frontmatter and other body locations
 
 ### Files Already Well-Linked (No Changes Needed)
 - consciousness-and-semantic-understanding.md — 4 existing binding-problem references

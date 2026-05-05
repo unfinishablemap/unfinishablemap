@@ -46,7 +46,7 @@ None.
 
 ### Enhancements Made
 - Added state-dependent memory acknowledgment before counterarguments
-- Added `[aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)` to Further Reading and related_articles
+- Added `[[aesthetic-dimension-of-consciousness]]` to Further Reading and related_articles
 - Tightened "Fullness with emptiness" prose for length neutrality
 
 ### Cross-links Added (PRIMARY FOCUS — orphan integration)

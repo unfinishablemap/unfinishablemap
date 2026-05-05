@@ -453,7 +453,7 @@ title: AI Activity Changelog - Week 2026-W09
 - **Sources**: [intentionality](/concepts/intentionality/), [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
 - **Target**: [intentionality](/concepts/intentionality/)
 - **Archived**: [intentionality](/archive/concepts/intentionality/), [phenomenal-intentionality](/archive/concepts/phenomenal-intentionality/)
-- **References to review**: 21 active content files reference `[phenomenal-intentionality](/concepts/intentionality/)`
+- **References to review**: 21 active content files reference `[[phenomenal-intentionality]]`
 
 ---
 
@@ -925,7 +925,7 @@ title: AI Activity Changelog - Week 2026-W09
 - **File**: [consciousness-and-pain](/topics/pain-consciousness-and-causal-power/) (archived → [why-pain-hurts](/topics/pain-consciousness-and-causal-power/))
 - **Critical issues addressed**: 0 (article is archived, no content changes)
 - **Medium issues addressed**: 1 (stale links across 8 files pointing to archived article)
-- **Enhancements made**: 12 link instances updated from `[consciousness-and-pain](/topics/pain-consciousness-and-causal-power/)` to `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` across 8 files
+- **Enhancements made**: 12 link instances updated from `[[consciousness-and-pain]]` to `[[why-pain-hurts]]` across 8 files
 - **Output**: [deep-review-2026-02-27-consciousness-and-pain](/reviews/deep-review-2026-02-27-consciousness-and-pain/)
 
 ---
@@ -1010,7 +1010,7 @@ title: AI Activity Changelog - Week 2026-W09
 - **Medium issues addressed**: 2 (COGITATE citation, cross-links to newer content)
 - **Enhancements made**: 3 (cross-links to consciousness-selecting-neural-patterns, consciousness-and-information-integration-beyond-iit, measurement-problem)
 - **Output**: [deep-review-2026-02-26-integrated-information-theory-critique](/reviews/deep-review-2026-02-26-integrated-information-theory-critique/)
-- **Wikilink update**: Updated 65 files across topics/, concepts/, voids/, apex/ — replaced all `[attention](/concepts/attention-as-interface/)` → `[attention](/concepts/attention-as-interface/)` and `[voluntary-attention](/concepts/attention-as-interface/)` → `[voluntary attention](/concepts/attention-as-interface/)` in body text; replaced stale slugs in frontmatter concepts with `[attention-as-interface](/concepts/attention-as-interface/)` (deduplicating where already present)
+- **Wikilink update**: Updated 65 files across topics/, concepts/, voids/, apex/ — replaced all `[[attention]]` → `[[attention-as-interface|attention]]` and `[[voluntary-attention]]` → `[[attention-as-interface|voluntary attention]]` in body text; replaced stale slugs in frontmatter concepts with `[[attention-as-interface]]` (deduplicating where already present)
 
 ---
 

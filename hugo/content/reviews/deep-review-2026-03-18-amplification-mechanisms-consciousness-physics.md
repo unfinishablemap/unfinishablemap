@@ -24,12 +24,12 @@ topics: []
 
 ### Critical Issues Found
 - **Uncited 2025 sources in SOC section**: Two studies referenced without authors or formal citations — "A 2025 study" and "A 2025 *Frontiers in Human Neuroscience* article". Resolution: Added proper author attributions (Kalra & Bhatt 2025; Sáenz-Cuesta 2025) and full References entries.
-- **Broken related_articles link**: `[quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)` pointed to non-existent slug; actual file is `quantum-neural-mechanisms-and-coherence`. Resolution: Fixed to `[quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)`.
+- **Broken related_articles link**: `[[quantum-neural-mechanisms]]` pointed to non-existent slug; actual file is `quantum-neural-mechanisms-and-coherence`. Resolution: Fixed to `[[quantum-neural-mechanisms-and-coherence|quantum neural mechanisms]]`.
 - **Missing Fisher's Posner molecule hypothesis**: A survey article omitting a major proposed quantum consciousness mechanism. Resolution: Added paragraph in Evaluating the Landscape explaining why Fisher's model is excluded from the amplification taxonomy (it addresses quantum processing, not amplification per se).
 
 ### Medium Issues Found
 - **Orch OR source/Map conflation**: "Consciousness selects among the superposed alternatives at the moment of collapse" presented Map's interpretation as if it were Penrose-Hameroff's claim. Resolution: Reworded to "the collapse event itself is linked to consciousness—the selection among alternatives occurs at the moment of reduction" which more accurately represents Orch OR.
-- **Missing cross-links**: No inline links to `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)`, `[mind-matter-interface](/concepts/mind-matter-interface/)`, or `[mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)` despite high relevance. Resolution: Added inline cross-links and related_articles entries.
+- **Missing cross-links**: No inline links to `[[stapp-quantum-mind]]`, `[[mind-matter-interface]]`, or `[[mathematical-structure-of-the-consciousness-physics-interface]]` despite high relevance. Resolution: Added inline cross-links and related_articles entries.
 - **Zero-point field speculation**: The Sáenz-Cuesta proposal about zero-point field resonance was stated without qualification. Resolution: Added "remains highly speculative and awaits experimental corroboration."
 
 ### Counterarguments Considered

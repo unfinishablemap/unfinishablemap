@@ -26,8 +26,8 @@ topics: []
 None. Attribution accuracy check passed on all counts. All six attributions (Chalmers, Jackson, Levine, Kripke, Frankish, Dennett) verified as accurate. Type-Q correctly flagged as non-standard. Source/Map separation clean throughout. No self-contradictions. No dropped qualifiers.
 
 ### Medium Issues Found
-- **Missing cross-link to phenomenal-concepts-strategy**: The "Why the Argument Resists Defeat" section discussed the phenomenal concepts strategy without linking to the existing site page. **Resolution**: Added `[phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)` wikilink.
-- **Missing cross-link to phenomenal-acquaintance**: Type-B section referenced "direct acquaintance" without linking to the existing concept page. **Resolution**: Added `[direct acquaintance](/concepts/phenomenal-acquaintance/)` wikilink.
+- **Missing cross-link to phenomenal-concepts-strategy**: The "Why the Argument Resists Defeat" section discussed the phenomenal concepts strategy without linking to the existing site page. **Resolution**: Added `[[phenomenal-concepts-strategy]]` wikilink.
+- **Missing cross-link to phenomenal-acquaintance**: Type-B section referenced "direct acquaintance" without linking to the existing concept page. **Resolution**: Added `[[phenomenal-acquaintance|direct acquaintance]]` wikilink.
 - **Frankish without first name**: "Frankish" appeared without "Keith" — inconsistent with the level of identification given to other philosophers. **Resolution**: Added first name.
 
 ### Counterarguments Considered

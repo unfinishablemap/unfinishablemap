@@ -74,8 +74,8 @@ All major strengths from prior reviews remain intact:
 
 ### Cross-links Added
 
-- `[Whitehead's concrescence](/concepts/process-philosophy/)` in Temporal Thickness section
-- `[Whitehead](/concepts/process-philosophy/)` in Connection to Quantum Consciousness intro
+- `[[process-philosophy|Whitehead's concrescence]]` in Temporal Thickness section
+- `[[process-philosophy|Whitehead]]` in Connection to Quantum Consciousness intro
 
 ## Length Check
 

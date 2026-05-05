@@ -56,10 +56,10 @@ All checks pass:
 
 Confirmed all incompleteness-phenomena cross-references are clean:
 
-- `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)` in `related_articles:` ✓
-- `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling)` body link ✓ (anchor exists; section heading is `## The Abstract Mathematical Ceiling` in the target)
+- `[[the-quantitative-comprehension-void]]` in `related_articles:` ✓
+- `[[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling]]` body link ✓ (anchor exists; section heading is `## The Abstract Mathematical Ceiling` in the target)
 - Further Reading entry with display label "The Quantitative Comprehension Void — abstract mathematical ceiling" ✓
-- No stale references to `[mathematical-void](/voids/the-quantitative-comprehension-void/)`, `[numerosity-void](/voids/the-quantitative-comprehension-void/)`, `[quantitative-intuition-void](/voids/the-quantitative-comprehension-void/)`, `[computational-cognitive-limits](/voids/formal-cognitive-limits/)`, or `[incompleteness-void](/voids/formal-cognitive-limits/)` in body
+- No stale references to `[[mathematical-void]]`, `[[numerosity-void]]`, `[[quantitative-intuition-void]]`, `[[computational-cognitive-limits]]`, or `[[incompleteness-void]]` in body
 - Frontmatter `coalesced_from:` history correctly preserved (these are not wikilinks)
 
 ## Division of Labor Verified

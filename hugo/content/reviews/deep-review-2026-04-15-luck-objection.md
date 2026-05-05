@@ -67,7 +67,7 @@ All major counterarguments from previous reviews remain adequately addressed. No
 ### Enhancements Made
 
 - Added delegation/default-causal-profile paragraph giving mechanistic precision to "selection"
-- Added `[default-causal-profile](/concepts/delegatory-causation/)` and `[causal-delegation](/concepts/delegatory-causation/)` to concepts frontmatter
+- Added `[[default-causal-profile]]` and `[[causal-delegation]]` to concepts frontmatter
 - Added two cross-links in Further Reading section
 
 ### Cross-links Added

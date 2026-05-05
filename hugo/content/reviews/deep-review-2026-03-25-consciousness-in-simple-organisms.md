@@ -27,10 +27,10 @@ None. Article unchanged since last review apart from mechanical wikilink updates
 
 ### Medium Issues Found
 None. All wikilink migrations verified:
-- `[metarepresentation](/concepts/metacognition/)` → `[metacognition](/concepts/metacognition/)` (concept rename)
-- `[consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/)` → `[consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/)` (coalesce)
-- `[phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)` → `[phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)` (coalesce)
-- Added `[degrees-of-consciousness](/concepts/degrees-of-consciousness/)` to Further Reading
+- `[[metarepresentation]]` → `[[metacognition]]` (concept rename)
+- `[[consciousness-threshold-in-cognitive-evolution]]` → `[[consciousness-and-intelligence]]` (coalesce)
+- `[[phenomenology-of-choice]]` → `[[phenomenology-of-choice-and-volition]]` (coalesce)
+- Added `[[degrees-of-consciousness]]` to Further Reading
 
 ### Attribution Accuracy Check
 No content changes since last review's verified attribution check. All claims remain accurate.

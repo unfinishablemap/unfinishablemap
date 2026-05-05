@@ -23,14 +23,14 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[attention](/concepts/attention-as-interface/)` in frontmatter**: No `attention.md` exists in the vault. Replaced with `[attention-as-interface](/concepts/attention-as-interface/)` which is the appropriate concept file. Resolution: Fixed.
+- **Broken wikilink `[[attention]]` in frontmatter**: No `attention.md` exists in the vault. Replaced with `[[attention-as-interface]]` which is the appropriate concept file. Resolution: Fixed.
 
 ### Medium Issues Found
 - **Unsupported meditator claim**: "Meditators trained in fine-grained introspection report noticing a continuous subtle texture..." lacked citation. Resolution: Reworded to "Contemplative traditions suggest that fine-grained introspection can reveal..." — shifts from specific empirical claim to softer attribution.
 - **Uncited references**: Seth (2021) *Being You* and Meyer (1956) *Emotion and Meaning in Music* appeared in References but were never cited in the article body. Resolution: Removed both. In length-neutral mode, phantom references are clutter.
 
 ### Low Issues Found
-- **Path prefix inconsistency**: `[epiphenomenalism](/concepts/epiphenomenalism/)` uses an explicit path prefix while other concept links do not. Not fixed — the prefix is functionally correct and serves as deliberate disambiguation.
+- **Path prefix inconsistency**: `[[concepts/epiphenomenalism]]` uses an explicit path prefix while other concept links do not. Not fixed — the prefix is functionally correct and serves as deliberate disambiguation.
 
 ### Counterarguments Considered
 - **Eliminative materialist (Churchland)**: Folk-psychological concept "surprise" may not carve nature at its joints. The article's spectrum analysis partially addresses this by showing fine-grained phenomenological structure that folk categories miss.
@@ -57,12 +57,12 @@ topics: []
 - **Tenet connections**: All five tenets engaged substantively with specific arguments, not generic mappings.
 
 ### Enhancements Made
-- Fixed broken `[attention](/concepts/attention-as-interface/)` wikilink
+- Fixed broken `[[attention]]` wikilink
 - Softened unsupported empirical claim about meditators
 - Removed uncited phantom references (net word reduction: ~25 words)
 
 ### Cross-links Verified
-All 14 Further Reading links verified as existing files. Key cross-links in body text (`[predictive-processing](/concepts/predictive-processing/)`, `[phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)`, `[consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)`, `[epistemic-emotions](/concepts/epistemic-emotions/)`, etc.) all resolve correctly.
+All 14 Further Reading links verified as existing files. Key cross-links in body text (`[[predictive-processing]]`, `[[phenomenology-of-anticipation]]`, `[[consciousness-as-amplifier]]`, `[[epistemic-emotions]]`, etc.) all resolve correctly.
 
 ## Remaining Items
 

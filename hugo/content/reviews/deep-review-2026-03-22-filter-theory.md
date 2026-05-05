@@ -72,7 +72,7 @@ All six adversarial personas engaged:
 
 ### Cross-links Added
 
-- `[anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)` — related_articles frontmatter, body text, Further Reading
+- `[[anaesthesia-and-the-consciousness-interface]]` — related_articles frontmatter, body text, Further Reading
 
 ## Length Management
 

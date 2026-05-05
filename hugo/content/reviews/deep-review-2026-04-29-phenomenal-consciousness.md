@@ -26,8 +26,8 @@ Since the previous review (2026-03-23), this article received three substantive 
 
 1. **New section**: "Constitutive as Kind, Not as Degree" (~250 words) — methodological clarification distinguishing the kind-claim about phenomenal character from a stronger uniformity claim. Cross-references [zahavian-minimal-self](/concepts/self-and-self-consciousness/) as exemplar of the same move.
 2. **New extended-cognition sentence** in the A/P distinction section: notes that A-consciousness plausibly extends into tools via functional parity while P-consciousness does not, framing the asymmetry as evidence for the dualist case. Links to [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/).
-3. **Wikilink update**: `[architecture-of-cognitive-closure](/voids/biological-cognitive-closure/)` → `[biological-cognitive-closure](/voids/biological-cognitive-closure/)` after coalesce of cognitive-closure articles.
-4. Minor: opening paragraph wikilink to `[perception](/concepts/perception/)`; Further Reading entry for `[types-of-ai-phenomenal-experience](/concepts/ai-consciousness-typology/)`.
+3. **Wikilink update**: `[[architecture-of-cognitive-closure]]` → `[[biological-cognitive-closure]]` after coalesce of cognitive-closure articles.
+4. Minor: opening paragraph wikilink to `[[perception]]`; Further Reading entry for `[[types-of-ai-phenomenal-experience]]`.
 
 Word count: 1908 → 2210 (+302). Now at 88% of 2500 soft threshold (still in normal range; near future expansions should be length-neutral).
 

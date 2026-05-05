@@ -29,7 +29,7 @@ topics: []
 ### Medium Issues Found
 - **Tenets 4 and 5 absent from Relation to Site Perspective**: Only Tenets 1-3 were discussed. Tenet 5 (Occam's Razor Has Limits) is directly relevant to the void framing. Added Tenet 5. Tenet 4 (No Many Worlds) has no natural connection here; omission is appropriate.
 - **Missing cross-links to related voids**: No links to binding-void, interface-formalization-void, or causal-interface despite strong thematic overlap. Added cross-links in body text and Further Reading.
-- **Broken related_articles link**: `[consciousness-independent-baseline-cognition](/concepts/baseline-cognition/)` pointed to an archived article. Removed and replaced with three relevant void articles.
+- **Broken related_articles link**: `[[consciousness-independent-baseline-cognition]]` pointed to an archived article. Removed and replaced with three relevant void articles.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: Would argue the "capability division" is an artifact of dualist framing — there's nothing to divide because there's no separate mind. Article's void framing already acknowledges this as a physicalist assumption (line 83).

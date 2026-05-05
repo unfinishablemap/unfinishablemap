@@ -44,10 +44,10 @@ None. The coalesced article passes all attribution checks, has no factual errors
    - **Resolution**: Rewrote final paragraph of specification section to acknowledge gap between "testable in principle" and "currently testable."
 
 2. **Missing cross-link to downward-causation concept**: The Upward-Downward Asymmetry section discussed downward causation without linking the dedicated concept page.
-   - **Resolution**: Added `[downward-causation](/concepts/mental-causation-and-downward-causation/)` link and added to concepts frontmatter.
+   - **Resolution**: Added `[[downward-causation]]` link and added to concepts frontmatter.
 
 3. **Missing cross-link to coupling-modes concept**: Candidate mechanisms section didn't reference the coupling modes taxonomy.
-   - **Resolution**: Added `[coupling-modes](/concepts/coupling-modes/)` parenthetical and added to concepts frontmatter.
+   - **Resolution**: Added `[[coupling-modes]]` parenthetical and added to concepts frontmatter.
 
 ### Low Issues Found
 1. **William James citation incomplete**: "The essential phenomenon of will" quote lacked source work.

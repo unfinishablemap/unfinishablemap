@@ -32,7 +32,7 @@ None.
 ### Medium Issues Found
 
 1. **Missing cross-link to [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)**: The No Many Worlds tenet section (line 170) referenced "indexical identity" linking to [haecceity](/concepts/haecceity/), but the indexical-knowledge-and-identity article has a dedicated "Implications for Many-Worlds" section that treats the framework mismatch, haecceitistic problem, and phenomenological mismatch in detail. The link target was imprecise.
-   - **Resolution**: Changed `[indexical identity](/concepts/haecceity/)` to `[indexical identity](/concepts/indexical-knowledge-and-identity/)` for more precise cross-linking. Added [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) to concepts frontmatter and Further Reading.
+   - **Resolution**: Changed `[[haecceity|indexical identity]]` to `[[indexical-knowledge-and-identity|indexical identity]]` for more precise cross-linking. Added [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) to concepts frontmatter and Further Reading.
 
 ### Low Issues Noted
 

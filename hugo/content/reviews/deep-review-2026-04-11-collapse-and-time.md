@@ -38,7 +38,7 @@ None. The condensation was well-executed, preserving all essential arguments whi
 
 3. **Cross-links lost in condensation**: The 2026-03-15 review added links to [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/), [temporal-asymmetry-remembering-anticipating](/voids/temporal-void/), [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/), and [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/). The latter two articles were archived after the review. The first and fourth are still live and relevant. **Resolution**: Restored Further Reading links to [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) and [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/).
 
-4. **Path-qualified wikilink**: `[many-worlds](/concepts/many-worlds/)` used an unnecessary path prefix (only one many-worlds.md exists). **Resolution**: Normalized to `[many-worlds](/concepts/many-worlds/)` in both body text and Further Reading.
+4. **Path-qualified wikilink**: `[[concepts/many-worlds]]` used an unnecessary path prefix (only one many-worlds.md exists). **Resolution**: Normalized to `[[many-worlds]]` in both body text and Further Reading.
 
 ### Attribution Accuracy Check
 

@@ -25,12 +25,12 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken wikilink to archived void article**: Line 128 referenced `[creativity void](/voids/creative-aesthetic-void/)`. The void was coalesced into [creative-aesthetic-void](/voids/creative-aesthetic-void/) and the original is archived (with `superseded_by: /voids/creative-aesthetic-void/`). Direct wikilinks to archived slugs leave the link unresolved in Hugo.
-   - **Resolution**: Updated to `[creativity void](/voids/creative-aesthetic-void/)`. Display text preserved.
+1. **Broken wikilink to archived void article**: Line 128 referenced `[[imagination-and-creativity-void|creativity void]]`. The void was coalesced into [creative-aesthetic-void](/voids/creative-aesthetic-void/) and the original is archived (with `superseded_by: /voids/creative-aesthetic-void/`). Direct wikilinks to archived slugs leave the link unresolved in Hugo.
+   - **Resolution**: Updated to `[[creative-aesthetic-void|creativity void]]`. Display text preserved.
 
 ### Medium Issues Found
 
-1. **Duplicate Further Reading entry**: The Further Reading list contained two consecutive bullets pointing to `[phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)` with different descriptions ("The four components of willing..." and "The experiential structure of deciding"). This is residue from the volitional-control / phenomenology-of-choice coalesce.
+1. **Duplicate Further Reading entry**: The Further Reading list contained two consecutive bullets pointing to `[[phenomenology-of-choice-and-volition]]` with different descriptions ("The four components of willing..." and "The experiential structure of deciding"). This is residue from the volitional-control / phenomenology-of-choice coalesce.
    - **Resolution**: Removed the second, less specific entry. Kept the four-component description.
 
 ### Counterarguments Considered (Adversarial Personas)

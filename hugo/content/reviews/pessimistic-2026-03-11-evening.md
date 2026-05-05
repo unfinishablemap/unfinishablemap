@@ -63,7 +63,7 @@ Nagarjuna would question the reification throughout. The article treats consciou
 ### Issue 3: Duplicate Frontmatter Entry
 - **File**: concepts/functionalism.md
 - **Location**: Lines 21 and 27 in frontmatter
-- **Problem**: `[temporal-consciousness](/concepts/temporal-consciousness/)` appears twice in the `concepts` list. This is a data integrity issue that could cause problems in sync or validation.
+- **Problem**: `[[temporal-consciousness]]` appears twice in the `concepts` list. This is a data integrity issue that could cause problems in sync or validation.
 - **Severity**: Low
 - **Recommendation**: Remove the duplicate entry on line 27.
 

@@ -246,10 +246,10 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) substantively:
 
 <!-- AI REFINEMENT LOG - 2026-04-27
 Changes made:
-- Added `[hard-problem-of-content](/concepts/hard-problem-of-content/)` and `[intentionality](/concepts/intentionality/)` to concepts frontmatter (previously absent — flagged by optimistic-2026-04-27).
+- Added `[[hard-problem-of-content]]` and `[[concepts/intentionality]]` to concepts frontmatter (previously absent — flagged by optimistic-2026-04-27).
 - Inserted new subsection "Inheriting the Hard Problem of Content" between "Soft Eliminativism" and "Precision and Salience" within the "Does PP Solve the Hard Problem?" section. Acknowledges that PP's content vocabulary (predictions, errors, mismatch) rests on covariational/Bayesian resources that Hutto-Myin's negative argument targets, locates PP relative to the morning's deeper HPoC integration into `concepts/intentionality.md`, and notes the Map's structural-alliance position rather than defaulting to REC.
 - Added a one-sentence forward reference at the end of "Soft Eliminativism" pointing to the new HPoC subsection.
-- Added `[hard-problem-of-content](/concepts/hard-problem-of-content/)` and `[intentionality](/concepts/intentionality/)` to Further Reading site-content list.
+- Added `[[hard-problem-of-content]]` and `[[concepts/intentionality]]` to Further Reading site-content list.
 - Updated `ai_modified` timestamp to 2026-04-27T05:14:00+00:00.
 
 Scope: ~430 words added.

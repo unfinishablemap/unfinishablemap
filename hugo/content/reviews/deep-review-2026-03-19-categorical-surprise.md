@@ -24,12 +24,12 @@ topics: []
 
 ### Critical Issues Found
 
-- **Duplicate Further Reading entry**: `[surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)` appeared twice with different descriptions (editing artifact from previous review). Fixed by consolidating into a single entry with combined description.
+- **Duplicate Further Reading entry**: `[[surprise-prediction-error-and-consciousness]]` appeared twice with different descriptions (editing artifact from previous review). Fixed by consolidating into a single entry with combined description.
 
 ### Medium Issues Found
 
-- **Quantum interaction tenet connection too thin**: The Minimal Quantum Interaction paragraph made a general claim about consciousness biasing quantum indeterminacies but didn't connect to the Map's specific non-retrocausal selection models. Fixed by adding explicit reference to `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` and framing categorical surprise as where forward-in-time conscious selection matters most.
-- **Missing cross-link to predictive processing framework**: Article discussed predictive processing extensively but only linked to the generic concept page. Fixed by linking to `[predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/)` in the opening of the Ordinary vs. Categorical section.
+- **Quantum interaction tenet connection too thin**: The Minimal Quantum Interaction paragraph made a general claim about consciousness biasing quantum indeterminacies but didn't connect to the Map's specific non-retrocausal selection models. Fixed by adding explicit reference to `[[consciousness-selecting-neural-patterns]]` and framing categorical surprise as where forward-in-time conscious selection matters most.
+- **Missing cross-link to predictive processing framework**: Article discussed predictive processing extensively but only linked to the generic concept page. Fixed by linking to `[[predictive-processing-and-the-maps-framework]]` in the opening of the Ordinary vs. Categorical section.
 
 ### Counterarguments Considered
 
@@ -63,8 +63,8 @@ All counterarguments from the previous review remain adequately addressed:
 ### Enhancements Made
 
 - Strengthened Minimal Quantum Interaction tenet connection with explicit reference to non-retrocausal selection models
-- Added cross-link to `[predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/)`
-- Added `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` to frontmatter and Further Reading
+- Added cross-link to `[[predictive-processing-and-the-maps-framework]]`
+- Added `[[consciousness-selecting-neural-patterns]]` to frontmatter and Further Reading
 - Fixed duplicate Further Reading entry
 
 ### Cross-links Added

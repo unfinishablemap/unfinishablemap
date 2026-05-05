@@ -31,7 +31,7 @@ Applied six adversarial philosopher personas (Eliminative Materialist, Hard-Nose
 
 ### Medium Issues Found
 
-1. **Duplicate `[decoherence](/concepts/decoherence/)` link in Further Reading**: After the coalesce of `quantum-decoherence-objection` into `decoherence`, two entries pointed to the same article with different descriptions ("Comprehensive treatment..." and "The Tegmark-Hameroff debate...").
+1. **Duplicate `[[decoherence]]` link in Further Reading**: After the coalesce of `quantum-decoherence-objection` into `decoherence`, two entries pointed to the same article with different descriptions ("Comprehensive treatment..." and "The Tegmark-Hameroff debate...").
    - **Resolution**: Merged into a single entry combining both description aspects.
 
 2. **"Free Will tenet" misnomer**: The text referred to "The [Free Will tenet](/topics/free-will/)" as if free will were one of the five foundational tenets. The five tenets are Dualism, Minimal Quantum Interaction, Bidirectional Interaction, No Many Worlds, and Occam's Razor Has Limits. Free will is a topic supported by the Bidirectional Interaction tenet, not a tenet itself.

@@ -25,7 +25,7 @@ topics: []
 
 ### Critical Issues Found
 
-None. Diff against the post-review-7 baseline (2395f0e62) shows only mechanical link retargeting: `[downward-causation](/concepts/mental-causation-and-downward-causation/)` and `[mental-causation](/concepts/mental-causation-and-downward-causation/)` consolidated into `[mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)` (after coalescence); `[causal-delegation](/concepts/delegatory-causation/)` and `[preemption](/concepts/delegatory-causation/)` consolidated into `[delegatory-causation](/concepts/delegatory-causation/)` (after coalescence); `[explanatory-void](/voids/understanding-void/)` retargeted to `[noetic-feelings-void](/voids/noetic-feelings-void/)`. One substantive sentence added in the Unified-Awareness paragraph cross-linking `[consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)`. All retargets resolve to existing files. No misattributions, no dropped qualifiers, no source/Map conflation introduced.
+None. Diff against the post-review-7 baseline (2395f0e62) shows only mechanical link retargeting: `[[downward-causation]]` and `[[mental-causation]]` consolidated into `[[mental-causation-and-downward-causation]]` (after coalescence); `[[causal-delegation]]` and `[[preemption]]` consolidated into `[[delegatory-causation]]` (after coalescence); `[[explanatory-void]]` retargeted to `[[noetic-feelings-void]]`. One substantive sentence added in the Unified-Awareness paragraph cross-linking `[[consciousness-and-the-metaphysics-of-composition]]`. All retargets resolve to existing files. No misattributions, no dropped qualifiers, no source/Map conflation introduced.
 
 ### Attribution Accuracy Check
 
@@ -40,8 +40,8 @@ None. Diff against the post-review-7 baseline (2395f0e62) shows only mechanical 
 
 None requiring action. Two latent observations recorded for stability rather than re-flagging:
 
-- The article uses path-prefixed wikilinks `[materialism](/concepts/materialism/)` and `[epiphenomenalism](/concepts/epiphenomenalism/)` despite each filename being unique in the vault. Stylistic only; resolves correctly through sync. Not flagged in any of the seven prior reviews.
-- `[delegatory-causation](/concepts/delegatory-causation/)` is referenced twice in body text but not in `concepts:` frontmatter. The reverse-link from delegatory-causation → emergence is also absent. Not a bidirectional asymmetry like supervenience was — both sides are silent — so adding it here unilaterally would be churn, not completion. Leave for a future coalescence-driven cross-review if it ever runs.
+- The article uses path-prefixed wikilinks `[[concepts/materialism]]` and `[[concepts/epiphenomenalism]]` despite each filename being unique in the vault. Stylistic only; resolves correctly through sync. Not flagged in any of the seven prior reviews.
+- `[[delegatory-causation]]` is referenced twice in body text but not in `concepts:` frontmatter. The reverse-link from delegatory-causation → emergence is also absent. Not a bidirectional asymmetry like supervenience was — both sides are silent — so adding it here unilaterally would be churn, not completion. Leave for a future coalescence-driven cross-review if it ever runs.
 
 ### Counterarguments Considered
 
@@ -60,10 +60,10 @@ All bedrock disagreements from prior reviews remain. Not re-flagged:
 - "Emergentist dualism" as a clean compact synthesis label
 - Honest mechanism framing ("locus and mode, not full mechanism") — preserves epistemic humility while avoiding the British-emergentist trap of "natural piety"
 - Two comparison tables (positions and challenges) doing real load-bearing work
-- The transparency test argument with its explicit recursion concession (`[noetic-feelings-void](/voids/noetic-feelings-void/)` ties the test back to the very phenomenon it diagnoses)
+- The transparency test argument with its explicit recursion concession (`[[noetic-feelings-void]]` ties the test back to the very phenomenon it diagnoses)
 - Causal-delegation included as a third Kim-exclusion option without being privileged over closure denial
 - Testability section's explicit acknowledgement of the unfalsifiability risk
-- New `[consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)` cross-link in the Unity paragraph integrates emergence with the convergence-of-composition-theories thread
+- New `[[consciousness-and-the-metaphysics-of-composition]]` cross-link in the Unity paragraph integrates emergence with the convergence-of-composition-theories thread
 
 ### Enhancements Made
 
@@ -94,7 +94,7 @@ None.
 
 **Latent low-priority items that should not be churn-flagged:**
 
-- Path-prefixed wikilinks `[materialism](/concepts/materialism/)`, `[epiphenomenalism](/concepts/epiphenomenalism/)` (stylistic, working)
-- `[delegatory-causation](/concepts/delegatory-causation/)` not in concepts frontmatter (symmetric absence — leave alone)
+- Path-prefixed wikilinks `[[concepts/materialism]]`, `[[concepts/epiphenomenalism]]` (stylistic, working)
+- `[[delegatory-causation]]` not in concepts frontmatter (symmetric absence — leave alone)
 
 **The article remains at convergence.** Future reviews should only flag factual errors, broken links, tenet misalignment, or new content that introduces regressions. Recommend extending the review cadence on this article — eight reviews in four months is past the point of useful return.

@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **"Random noise doesn't heal" oversimplification**: The therapeutic outcomes argument dismissed materialist responses too glibly. A sophisticated materialist would argue that disrupting maladaptive neural patterns explains healing without requiring filter theory. **Resolution**: Replaced with a more substantive engagement that concedes the disruption explanation while arguing it still supports the key point—the disruption produces specific insight, not confusion.
-- **Missing cross-links**: Several highly relevant articles were not linked, particularly `[bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)` (information-theoretic asymmetry) and `[william-james-consciousness](/topics/william-james-consciousness/)` (James's transmission theory as philosophical ancestor). **Resolution**: Added both to Further Reading section.
+- **Missing cross-links**: Several highly relevant articles were not linked, particularly `[[bandwidth-of-consciousness]]` (information-theoretic asymmetry) and `[[william-james-consciousness]]` (James's transmission theory as philosophical ancestor). **Resolution**: Added both to Further Reading section.
 - **Reference numbering**: Previous edit had introduced a duplicate "2." in the reference list. **Resolution**: Fixed numbering across all 16 references.
 
 ### Counterarguments Considered
@@ -67,7 +67,7 @@ All attribution checks passed:
 ### Enhancements Made
 - Added Babcock et al. (2024) citation for tryptophan superradiance (critical fix)
 - Strengthened therapeutic outcomes argument with more substantive materialist engagement
-- Added cross-links to `[bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)` and `[william-james-consciousness](/topics/william-james-consciousness/)`
+- Added cross-links to `[[bandwidth-of-consciousness]]` and `[[william-james-consciousness]]`
 - Fixed reference numbering (16 references, properly sequenced)
 
 ### Cross-links Added

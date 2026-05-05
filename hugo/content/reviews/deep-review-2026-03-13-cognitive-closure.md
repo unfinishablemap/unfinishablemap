@@ -52,7 +52,7 @@ Third review of this article, prompted by the creation of [observational-closure
 
 ### Enhancements Made
 - Added paragraph connecting cognitive closure to observational closure, showing how the two theses compound
-- Added `[observational-closure](/concepts/observational-closure/)` to concepts frontmatter and Further Reading
+- Added `[[observational-closure]]` to concepts frontmatter and Further Reading
 
 ### Cross-links Added
 - [observational-closure](/concepts/observational-closure/) — in body text, concepts list, and Further Reading

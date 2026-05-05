@@ -28,11 +28,11 @@ The requested target `surprise-and-creativity.md` was coalesced into `surprise-p
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)`**: No file with this name exists. The actual file is `consciousness-and-mathematical-cognition.md` with no aliases. Present in both frontmatter `related_articles` and Further Reading section. **Resolution**: Fixed both instances to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)`.
+- **Broken wikilink `[[consciousness-and-mathematical-creativity]]`**: No file with this name exists. The actual file is `consciousness-and-mathematical-cognition.md` with no aliases. Present in both frontmatter `related_articles` and Further Reading section. **Resolution**: Fixed both instances to `[[consciousness-and-mathematical-cognition]]`.
 
 ### Medium Issues Found
 - **Article at 128% of soft threshold** (3828 words / 3000 target): Length-neutral mode applied. No content added; only link fixes made.
-- **Stale wikilinks in 2 other files**: `consciousness-and-the-problem-of-induction.md` and `phenomenology-of-perceptual-constancy.md` still linked to `[phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)` (old coalesced name). **Resolution**: Updated both to `[surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)`.
+- **Stale wikilinks in 2 other files**: `consciousness-and-the-problem-of-induction.md` and `phenomenology-of-perceptual-constancy.md` still linked to `[[phenomenology-of-surprise-and-prediction-error]]` (old coalesced name). **Resolution**: Updated both to `[[surprise-prediction-error-and-consciousness]]`.
 - **Orphaned article**: The coalesced article had only 4 inbound links from active content files despite being a major article touching creativity, prediction error, and consciousness. **Resolution**: Added `related_articles` cross-links from 8 additional files (see below).
 
 ### Counterarguments Considered
@@ -53,8 +53,8 @@ All attributions verified: Poincaré, Hadamard/Gauss, Boden, Husserl (protention
 - All five tenets engaged substantively with specific arguments
 
 ### Enhancements Made
-- Fixed broken `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)` wikilink (2 instances)
-- Fixed stale `[phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)` links in 2 files
+- Fixed broken `[[consciousness-and-mathematical-creativity]]` wikilink (2 instances)
+- Fixed stale `[[phenomenology-of-surprise-and-prediction-error]]` links in 2 files
 - Added inbound cross-links from 8 related articles
 
 ### Cross-links Added (from other articles → this article)
@@ -81,4 +81,4 @@ None. The article was reviewed earlier today and found stable. This review focus
 
 - This article is a coalescence of three prior articles and has been reviewed twice today. It should be considered stable. Future reviews should not re-flag the philosophical disagreements noted in the 02:47 review unless substantive new content is added.
 - The 3828-word count exceeds the 3000-word soft threshold by 28%. If future edits add content, equivalent cuts should be made. The `/condense` skill may be appropriate if the article grows further.
-- The broken `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)` link likely originated from the pre-coalescence article `surprise-and-creativity.md` which referenced a file by the wrong name. This was carried forward during coalescence.
+- The broken `[[consciousness-and-mathematical-creativity]]` link likely originated from the pre-coalescence article `surprise-and-creativity.md` which referenced a file by the wrong name. This was carried forward during coalescence.

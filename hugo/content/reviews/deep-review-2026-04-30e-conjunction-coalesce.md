@@ -59,8 +59,8 @@ The other two cognates (erasure-void, the cardinality floor in the-quantitative-
 - **Location**: §"The Three Faces" opening paragraph
 - **Insertion**: "The apex's sub-typology classifies this void's seam-relationship as **evidential-triangulation**—the three faces are distinct epistemic vantages on a single phenomenon, and the conjunction is forced because each face supplies an angle the others cannot; the [voids-between-minds](/voids/voids-between-minds/) coalesce shares the same shape."
 - **Compression offset**: dropped trailing "with each face's seam to the others the load-bearing structural unit" clause (already redundant with the new evidential-triangulation framing)
-- **Frontmatter**: added `[conjunction-coalesce](/apex/conjunction-coalesce/)` and `[voids-between-minds](/voids/voids-between-minds/)` to `related_articles` (both wikilinks now appear in body and were missing from related_articles list)
-- **Wikilink upgrade**: changed plain-text "conjunction-coalesce" → `[conjunction-coalesce](/apex/conjunction-coalesce/)` (template was previously named without a link)
+- **Frontmatter**: added `[[conjunction-coalesce]]` and `[[voids-between-minds]]` to `related_articles` (both wikilinks now appear in body and were missing from related_articles list)
+- **Wikilink upgrade**: changed plain-text "conjunction-coalesce" → `[[conjunction-coalesce]]` (template was previously named without a link)
 - **Length status**: 2148 → 2177 words (107% → 109% of 2000-word soft threshold). Net +29 words.
 
 ### [vagueness-void](/voids/vagueness-void/) — reflexive hook installed

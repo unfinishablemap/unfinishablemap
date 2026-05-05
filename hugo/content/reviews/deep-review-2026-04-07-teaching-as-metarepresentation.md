@@ -28,7 +28,7 @@ None. The article has been through four review cycles and all previously identif
 
 ### Medium Issues Found
 
-- **Frontmatter categorization error**: `[free-will](/topics/free-will/)` was listed in the `concepts:` frontmatter field despite being a topic. Resolution: moved to `topics:` field.
+- **Frontmatter categorization error**: `[[topics/free-will]]` was listed in the `concepts:` frontmatter field despite being a topic. Resolution: moved to `topics:` field.
 
 ### Counterarguments Considered
 
@@ -57,7 +57,7 @@ All six adversarial personas engaged. No new philosophical challenges beyond the
 
 ### Enhancements Made
 
-- Fixed frontmatter: moved `[free-will](/topics/free-will/)` from `concepts:` to `topics:` field
+- Fixed frontmatter: moved `[[topics/free-will]]` from `concepts:` to `topics:` field
 
 ### Cross-links Added
 

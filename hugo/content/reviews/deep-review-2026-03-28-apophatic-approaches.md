@@ -48,8 +48,8 @@ Fifth review. The article was declared converged at the fourth review (no critic
 - Appropriate length (1496 words, well below 2500 threshold)
 
 ### Enhancements Made
-- Added `[apophatic traditions](/concepts/apophatic-approaches/)` link in taxonomy-of-voids.md (line 126)
-- Added `[learned ignorance](/concepts/apophatic-approaches/)` link in cartography-problem.md (line 86)
+- Added `[[apophatic-approaches|apophatic traditions]]` link in taxonomy-of-voids.md (line 126)
+- Added `[[apophatic-approaches|learned ignorance]]` link in cartography-problem.md (line 86)
 
 ### Cross-links Added (Inbound)
 - **[taxonomy-of-voids](/apex/taxonomy-of-voids/)** — Added contextual link where the apex article discusses the traditions underpinning apophatic cartography

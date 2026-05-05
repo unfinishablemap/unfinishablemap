@@ -24,8 +24,8 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken wikilink `[Counterfactual-reasoning](/concepts/counterfactual-reasoning/)`**: Capital C mismatch with actual file `counterfactual-reasoning.md`. Fixed to `[Counterfactual reasoning](/concepts/counterfactual-reasoning/)`.
-- **Archived link `[voluntary-attention](/concepts/attention-as-interface/)`**: File archived to `archive/concepts/voluntary-attention.md`, replaced by `attention-as-interface.md`. Fixed to `[attentional effort](/concepts/attention-as-interface/)`.
+- **Broken wikilink `[[Counterfactual-reasoning]]`**: Capital C mismatch with actual file `counterfactual-reasoning.md`. Fixed to `[[counterfactual-reasoning|Counterfactual reasoning]]`.
+- **Archived link `[[voluntary-attention]]`**: File archived to `archive/concepts/voluntary-attention.md`, replaced by `attention-as-interface.md`. Fixed to `[[attention-as-interface|attentional effort]]`.
 - **Kierkegaard attribution looseness**: "Leap of faith" phrasing oversimplified the pseudonymous *Fear and Trembling*. Rewritten to properly attribute through Johannes de Silentio and qualify the sphere (religious vs. mundane).
 - **Four uncited references**: James, Kahneman & Tversky, Gigerenzer, Dreyfus listed in References but never cited in text. Resolved by weaving Kahneman/Tversky, Gigerenzer, and Dreyfus into the new metacognitive monitoring engagement section. Replaced James with Simon (now cited for bounded rationality).
 - **Description too long (180 chars)**: Exceeded 150-160 char guideline. Shortened to 131 chars.
@@ -36,10 +36,10 @@ topics: []
 
 - **Weak engagement with computational counterargument**: The article asserted that computation cannot produce deliberative phenomenology without engaging the substantial metacognitive monitoring literature. Resolved by adding a new subsection "The Metacognitive Monitoring Objection" that directly engages Simon, Kahneman & Tversky, Gigerenzer, and Dreyfus before presenting the Map's response.
 - **Overlap between "What Deliberative Phenomenology Reveals" and "Relation to Site Perspective"**: Both sections argued similar points. Resolved by restructuring the former to lead with the computational objection and present three condensed positive arguments, while the latter retains tenet-specific connections.
-- **Missing cross-link to `[metacognition](/concepts/metacognition/)`**: Now linked inline in the metacognitive monitoring subsection.
+- **Missing cross-link to `[[metacognition]]`**: Now linked inline in the metacognitive monitoring subsection.
 - **Missing gloss for "das Man"**: Added inline explanation: "*das Man* ('the They,' the impersonal social norm)".
 - **Grammar: "determined or fully-informed decision"**: Fixed to "decision-making".
-- **Missing cross-links to related content**: Added `[subjective-aim](/concepts/subjective-aim/)`, `[temporal-thickness](/concepts/temporal-consciousness/)`, `[spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)` to frontmatter, body text, and Further Reading.
+- **Missing cross-links to related content**: Added `[[subjective-aim]]`, `[[temporal-thickness]]`, `[[spontaneous-intentional-action]]` to frontmatter, body text, and Further Reading.
 
 ### Counterarguments Considered
 
@@ -64,9 +64,9 @@ topics: []
 
 - Added engagement with metacognitive monitoring objection (strongest computational alternative)
 - Added self-forming dimension to "Uncertainty and Authentic Choice" section — decisions under uncertainty constitute the self
-- Added process-philosophical grounding via `[subjective-aim](/concepts/subjective-aim/)` for the commitment concept
-- Added `[temporal-thickness](/concepts/temporal-consciousness/)` connection for the experiential density of uncertain deliberation
-- Added `[spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)` as complement (commitment without extended deliberation)
+- Added process-philosophical grounding via `[[subjective-aim]]` for the commitment concept
+- Added `[[temporal-thickness]]` connection for the experiential density of uncertain deliberation
+- Added `[[spontaneous-intentional-action]]` as complement (commitment without extended deliberation)
 - Restructured "What Deliberative Phenomenology Reveals" into objection-then-response format
 - Cited previously uncited references (Dreyfus, Gigerenzer, Kahneman & Tversky) and added Simon
 

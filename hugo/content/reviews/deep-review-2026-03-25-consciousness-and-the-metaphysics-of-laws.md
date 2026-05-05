@@ -30,8 +30,8 @@ This review was triggered as a cross-review following the creation of [superveni
 - None. The article remains factually accurate, internally consistent, and well-structured.
 
 ### Medium Issues Found
-- **Missing cross-link to `[supervenience](/concepts/supervenience/)`**: The article discusses "Humean supervenience" directly (line 66) without linking to the new concept page. Resolution: Added wikilink `[Humean supervenience](/concepts/supervenience/)` at the relevant mention.
-- **Missing frontmatter concept**: `supervenience` was not listed in the `concepts` frontmatter despite being discussed in the article. Resolution: Added `[supervenience](/concepts/supervenience/)` to concepts list.
+- **Missing cross-link to `[[supervenience]]`**: The article discusses "Humean supervenience" directly (line 66) without linking to the new concept page. Resolution: Added wikilink `[[supervenience|Humean supervenience]]` at the relevant mention.
+- **Missing frontmatter concept**: `supervenience` was not listed in the `concepts` frontmatter despite being discussed in the article. Resolution: Added `[[supervenience]]` to concepts list.
 
 ### Counterarguments Considered
 - No new counterarguments needed. The supervenience concept page's treatment of nomological vs. metaphysical necessity aligns well with this article's conditional necessity analysis. No contradictions between the two pages.
@@ -43,7 +43,7 @@ This review was triggered as a cross-review following the creation of [superveni
 - The article's discussion of Humean supervenience in the context of dualism (line 66) complements the supervenience page's "Supervenience Without Reduction" section — the two pages reinforce each other
 
 ### Enhancements Made
-- Added `[supervenience](/concepts/supervenience/)` cross-link in body text (1 instance)
+- Added `[[supervenience]]` cross-link in body text (1 instance)
 - Added `supervenience` to frontmatter concepts
 
 ### Cross-links Added

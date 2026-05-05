@@ -27,7 +27,7 @@ topics: []
 - None. Article is well-structured with accurate attributions and proper source/Map separation.
 
 ### Medium Issues Found
-- **Stale frontmatter link**: `[voluntary-attention](/concepts/attention-as-interface/)` pointed to an archived article (coalesced into attention-as-interface). [Resolution: Updated to `[voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)`]
+- **Stale frontmatter link**: `[[voluntary-attention]]` pointed to an archived article (coalesced into attention-as-interface). [Resolution: Updated to `[[voluntary-attention-control-mechanisms]]`]
 - **Missing cross-link to new article**: The "Voluntary Attention" section lacked reference to the new `voluntary-attention-control-mechanisms` article, which provides detailed mechanistic grounding (salience network, thalamic gating, three-component framework). [Resolution: Added cross-link with brief mechanism summary]
 - **Neural claims lacked inline citation**: Timing and spectral claims (~300ms, frontal theta, bidirectional coherence) had no direct citation in this article. [Resolution: Added Rajan et al. 2019 and Nadra & Mangun 2023 inline and in References]
 
@@ -56,7 +56,7 @@ topics: []
 ### Enhancements Made
 1. **Cross-link to voluntary-attention-control-mechanisms**: Added reference to salience network switching, thalamic gating, and frontal decision circuits as specific candidate sites for agent-causal intervention
 2. **Inline citations added**: Rajan et al. 2019 and Nadra & Mangun 2023 now cited directly for willed/instructed attention claims
-3. **Stale link fixed**: `[voluntary-attention](/concepts/attention-as-interface/)` → `[voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)` in frontmatter
+3. **Stale link fixed**: `[[voluntary-attention]]` → `[[voluntary-attention-control-mechanisms]]` in frontmatter
 
 ### Cross-links Added
 - [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) (frontmatter concepts + Further Reading + inline)

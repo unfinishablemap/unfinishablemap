@@ -33,7 +33,7 @@ None.
 ### Medium Issues Found
 
 - **Six uncited references in the bibliography** (Cowan 2010, Feigenson/Dehaene/Spelke 2004, Dehaene's *Number Sense*, Vetter et al. 2008, Nieder & Dehaene 2009, and a self-reference to the Map's own quantitative-intuition-void article styled as an academic citation). Sister article cites all 11 of its references in body; convention break is real. **Resolution applied**: Trimmed reference list to 8 cited works. Added `(Feigenson, Dehaene, & Spelke, 2004)` parenthetical citation in The Two-System Architecture section to keep that canonical reference active. Removed self-reference to sister article (wikilinks already carry the connection three times in body).
-- **Frontmatter missing `topics`**: Sister article has `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)` and `[philosophy-of-mind](/concepts/philosophy-of-mind/)`; asymmetric. **Resolution applied**: Added matching topics.
+- **Frontmatter missing `topics`**: Sister article has `[[hard-problem-of-consciousness]]` and `[[philosophy-of-mind]]`; asymmetric. **Resolution applied**: Added matching topics.
 - **Frontmatter missing `last_deep_review`**: Standard field for deep-reviewed articles. **Resolution applied**: Added.
 
 ### Counterarguments Considered
@@ -79,7 +79,7 @@ None.
 
 ### Cross-links Added
 
-None new — the article was already comprehensively cross-linked at creation. `[quantitative-intuition-void](/voids/the-quantitative-comprehension-void/)` appears in `related_articles`, in the closing of "Relation to Site Perspective," and in Further Reading. `[non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)`, `[noetic-feelings-void](/voids/noetic-feelings-void/)`, `[self-opacity](/voids/self-opacity/)`, `[apophatic-cartography](/voids/apophatic-cartography/)`, `[three-kinds-of-void](/voids/three-kinds-of-void/)`, `[resolution-void](/voids/resolution-void/)`, `[tacit-integration-void](/voids/tacit-integration-void/)`, and the tenets all already linked.
+None new — the article was already comprehensively cross-linked at creation. `[[quantitative-intuition-void]]` appears in `related_articles`, in the closing of "Relation to Site Perspective," and in Further Reading. `[[non-human-minds-as-void-explorers]]`, `[[noetic-feelings-void]]`, `[[self-opacity]]`, `[[apophatic-cartography]]`, `[[three-kinds-of-void]]`, `[[resolution-void]]`, `[[tacit-integration-void]]`, and the tenets all already linked.
 
 ## Remaining Items
 

@@ -26,7 +26,7 @@ topics: []
 None. Article remains stable after fourth review. No attribution errors, no source/Map conflation, no self-contradictions.
 
 ### Medium Issues Found
-1. **Missing frontmatter and Further Reading entries**: Since the last review, cross-reference tasks added body references to `[terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)` and `[lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)` without updating frontmatter or Further Reading. Similarly, `[process-philosophy](/concepts/process-philosophy/)` is discussed in a dedicated section but was absent from frontmatter concepts. [Resolution: Added all three to frontmatter and two to Further Reading.]
+1. **Missing frontmatter and Further Reading entries**: Since the last review, cross-reference tasks added body references to `[[terminal-lucidity-and-filter-transmission-theory]]` and `[[lucid-dreaming-and-dualist-rendering]]` without updating frontmatter or Further Reading. Similarly, `[[process-philosophy]]` is discussed in a dedicated section but was absent from frontmatter concepts. [Resolution: Added all three to frontmatter and two to Further Reading.]
 
 ### Counterarguments Considered
 All major counterarguments remain well-addressed from previous reviews:
@@ -57,8 +57,8 @@ All major counterarguments remain well-addressed from previous reviews:
 - Terminal lucidity and rendering dilemma additions (since last review) strengthen the filter theory section with specific evidence
 
 ### Enhancements Made
-1. Added `[process-philosophy](/concepts/process-philosophy/)` to frontmatter concepts
-2. Added `[terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)` and `[lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)` to frontmatter related_articles
+1. Added `[[process-philosophy]]` to frontmatter concepts
+2. Added `[[terminal-lucidity-and-filter-transmission-theory]]` and `[[lucid-dreaming-and-dualist-rendering]]` to frontmatter related_articles
 3. Added terminal lucidity and rendering dilemma entries to Further Reading section
 
 ### Cross-links Added

@@ -47,9 +47,9 @@ None. All six adversarial personas engaged with the content. Attribution accurac
 - Appropriate hedging on contested evidence (NDEs, psychedelics)
 
 ### Enhancements Made
-- Added inline cross-link to `[consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)` in the Bandwidth Signatures opening sentence, where "bandwidth limitation" first appears as a structural claim.
-- Replaced bare "Psilocybin and other psychedelic compounds" with `[Psilocybin and other psychedelic compounds](/topics/psychedelics-and-the-filter-model/)` in the Selective Preservation and the Filter section.
-- Added `[neurological dissociations](/topics/neurological-dissociations-as-interface-architecture/)` to the anaesthesia section's pattern-extension sentence, alongside the existing disorders-of-consciousness link.
+- Added inline cross-link to `[[consciousness-bandwidth-architecture]]` in the Bandwidth Signatures opening sentence, where "bandwidth limitation" first appears as a structural claim.
+- Replaced bare "Psilocybin and other psychedelic compounds" with `[[psychedelics-and-the-filter-model|Psilocybin and other psychedelic compounds]]` in the Selective Preservation and the Filter section.
+- Added `[[neurological-dissociations-as-interface-architecture|neurological dissociations]]` to the anaesthesia section's pattern-extension sentence, alongside the existing disorders-of-consciousness link.
 - Added all three to frontmatter (concepts/related_articles) and to Further Reading with brief annotations indicating the connection.
 
 ### Cross-links Added

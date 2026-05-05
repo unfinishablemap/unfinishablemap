@@ -72,9 +72,9 @@ None across all three articles.
 
 ### Enhancements Made
 
-- **mysterianism.md**: Added `[closure-types-void](/voids/closure-types-void/)` to related_articles, appended a two-sentence closure-types pointer to the end of the Kriegel/Demircioglu paragraph in "Can We Know If the Limits Are Real?", added to Further Reading.
-- **consciousness-defeats-explanation.md**: Added `[closure-types-void](/voids/closure-types-void/)` to related_articles, sharpened the third interpretation (mysterian reading) with a closure-types clarification that distinguishes representational from psychological closure, added to Further Reading, removed stale 2026-04-09 AI refinement log comment block.
-- **meta-epistemology-of-limits.md**: Added `[closure-types-void](/voids/closure-types-void/)` to related_articles, appended a one-sentence second-order-void pointer to the Kriegel/Demircioglu paragraph in Problems and Mysteries, added to Further Reading.
+- **mysterianism.md**: Added `[[closure-types-void]]` to related_articles, appended a two-sentence closure-types pointer to the end of the Kriegel/Demircioglu paragraph in "Can We Know If the Limits Are Real?", added to Further Reading.
+- **consciousness-defeats-explanation.md**: Added `[[closure-types-void]]` to related_articles, sharpened the third interpretation (mysterian reading) with a closure-types clarification that distinguishes representational from psychological closure, added to Further Reading, removed stale 2026-04-09 AI refinement log comment block.
+- **meta-epistemology-of-limits.md**: Added `[[closure-types-void]]` to related_articles, appended a one-sentence second-order-void pointer to the Kriegel/Demircioglu paragraph in Problems and Mysteries, added to Further Reading.
 
 ### Cross-links Added
 

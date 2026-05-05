@@ -58,7 +58,7 @@ None new—the addition strengthens an existing argument rather than responding 
 
 ### Cross-links Added
 
-- `[Saad's delegatory framework](/topics/delegatory-dualism/)` in new subsection
+- `[[delegatory-dualism|Saad's delegatory framework]]` in new subsection
 
 ## Length Management
 

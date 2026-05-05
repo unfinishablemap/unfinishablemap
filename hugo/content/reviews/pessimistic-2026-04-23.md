@@ -131,7 +131,7 @@ Nāgārjuna would read the thickness axis as an exemplary case of reification. B
 ## Style Guide Compliance
 
 - **Front-loading**: Opening two paragraphs carry the full thesis and the four-quadrant structure; LLM-truncation-resilient. Good.
-- **Named-anchor forward references**: Quadrant anchors `{#q1}–{#q4}` are defined at their sections but not cross-referenced within the article via "(see §q3)" patterns. The anchors are present but under-used; consider one or two internal `[](#q3)`-style cross-references where forward-looking text ("Q3 collapses into idealism") appears before §Q3.
+- **Named-anchor forward references**: Quadrant anchors `{#q1}–{#q4}` are defined at their sections but not cross-referenced within the article via "(see §q3)" patterns. The anchors are present but under-used; consider one or two internal `[[#q3]]`-style cross-references where forward-looking text ("Q3 collapses into idealism") appears before §Q3.
 - **Relation to Site Perspective**: Present, substantive, and tenet-by-tenet rather than perfunctory. Good.
 - **LLM cliché check**: No "This is not X. It is Y." constructions detected. Good.
 - **Tenet alignment**: All five tenets are engaged with (not just name-dropped) in §"Relation to Site Perspective." Good. The MQI treatment is the thinnest — see Unsupported Claims row 5.

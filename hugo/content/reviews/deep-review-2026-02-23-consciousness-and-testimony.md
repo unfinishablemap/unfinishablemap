@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken frontmatter link**: `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)` in related_articles — file does not exist anywhere in the repository. **Resolution**: Removed from frontmatter.
+- **Broken frontmatter link**: `[[consciousness-and-semantic-understanding]]` in related_articles — file does not exist anywhere in the repository. **Resolution**: Removed from frontmatter.
 
 ### Medium Issues Found
 - **Heterophenomenology dismissal too thin** (line 70): Single paragraph dismissed Dennett's position as "denial in practice" without explaining *why* the method's claimed neutrality is unstable. **Resolution**: Expanded to show that heterophenomenology presupposes conscious subjects while bracketing their consciousness — the method works only because testifiers are conscious, yet treats their consciousness as an open question.
@@ -56,7 +56,7 @@ All attribution checks passed:
 
 ### Enhancements Made
 - Added paragraph in "What Testimony Cannot Convey" connecting the testimonial transmission limit to the intrinsic, non-relational nature of qualitative experience — the testimonial boundary marks something about consciousness itself
-- Added inline `[problem-of-other-minds](/concepts/problem-of-other-minds/)` link where the article discusses epistemic access to others' consciousness
+- Added inline `[[problem-of-other-minds]]` link where the article discusses epistemic access to others' consciousness
 
 ### Cross-links Added
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — inline link in "The Epistemic Circle" section

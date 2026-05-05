@@ -24,7 +24,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Duplicate Further Reading entry**: Two consecutive lines linked `[phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)` with overlapping annotations. Originated when an earlier `phenomenology-of-volition` article was coalesced into the choice-and-volition page during prior reviews. Resolved by consolidating into a single entry with merged annotation.
+- **Duplicate Further Reading entry**: Two consecutive lines linked `[[phenomenology-of-choice-and-volition]]` with overlapping annotations. Originated when an earlier `phenomenology-of-volition` article was coalesced into the choice-and-volition page during prior reviews. Resolved by consolidating into a single entry with merged annotation.
 
 ### Attribution Accuracy Check
 - All attributions verified correct (Searle, Dreyfus, Bergson, Lutz et al., Suzuki, Wegner, James). No source/Map conflation; no dropped qualifiers; no overstated positions. Unchanged from previous review.

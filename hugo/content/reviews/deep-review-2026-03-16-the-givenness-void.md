@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - [Missing in-text author name for Berghofer]: Added "Philipp Berghofer (2025)" in-text where previously only "A 2025 paper" appeared, improving traceability to the References section
-- [Missing hard-problem cross-link]: Added `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)` wikilink in the Relation to Site Perspective section where consciousness's irreducibility to functional description is discussed
+- [Missing hard-problem cross-link]: Added `[[hard-problem-of-consciousness]]` wikilink in the Relation to Site Perspective section where consciousness's irreducibility to functional description is discussed
 
 ### Counterarguments Considered
 - All counterarguments from the previous review remain adequately addressed

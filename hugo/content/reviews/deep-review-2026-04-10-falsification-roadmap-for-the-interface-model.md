@@ -68,7 +68,7 @@ None new (inline cross-reference to [the-interface-specification-problem](/topic
 ## Remaining Items
 
 - Melloni et al. (2025) reference date: deferred for human verification (carried from previous review). The research notes confirm the 2025 Nature source URL, suggesting this is a follow-up to the 2023 Nature Human Behaviour paper.
-- `[consciousness-independent-baseline-cognition](/concepts/baseline-cognition/)` wikilink may not resolve correctly (site-wide issue, not specific to this article).
+- `[[consciousness-independent-baseline-cognition]]` wikilink may not resolve correctly (site-wide issue, not specific to this article).
 
 ## Stability Notes
 

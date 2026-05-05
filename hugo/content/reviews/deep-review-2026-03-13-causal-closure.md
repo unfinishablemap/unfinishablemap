@@ -80,7 +80,7 @@ No dropped qualifiers, no source/Map conflation, no misattributions.
 
 ### Cross-links Added
 
-- `[causal-delegation](/concepts/delegatory-causation/)` — concepts frontmatter, inline, and Further Reading
+- `[[causal-delegation]]` — concepts frontmatter, inline, and Further Reading
 
 ## Length Management
 
