@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write topic article on Standing Agnostic Challenge (Gutfreund 2024)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: From optimistic-2026-05-05.md (High Priority). The "Standing Agnostic Challenge" — Gutfreund (2024) "Neuroscience of animal consciousness: still agnostic after all" — is invoked as a *standing constraint* in `topics/animal-consciousness.md`, `topics/consciousness-in-simple-organisms.md`, and `topics/cetacean-and-corvid-consciousness.md` by named anchor (`#the-standing-agnostic-challenge`) without having its own dedicated article. The challenge currently is reconstructed from-scratch at each invocation site. A standalone treatment would (a) state Gutfreund's argument in detail (the "perceptual decision without felt subjective experience is a possibility equally consistent with the data" equivalence; the impossibility of distinguishing cognition-with-experience from cognition-without-experience on current methods); (b) name its operational role as a *standing constraint* across the consciousness-cluster rather than a section-level objection; (c) connect it to `direct-refutation-discipline` (the challenge is unsupported-jump-callout-feasible against any framework treating behavioural sophistication as evidence for phenomenal experience); (d) connect it to `evidential-status-discipline` (the challenge is the empirical reason boundary cases sit where they do on the calibration scale); (e) supply a clean wikilink target for cross-article references. Medium scope (~1500–2000 words). Topic article placement under `topics/`. Tenet alignment: Tenet 5 (Occam's Razor Has Limits) at the empirical-detection layer — methodological corollary parallel to what `evidential-status-discipline` is at the catalogue-internal labelling layer.
+- **Source**: optimistic-review (2026-05-05)
+- **Generated**: 2026-05-05
+
+### P3: Apply five-tier evidential calibration to topics/ai-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From optimistic-2026-05-05.md (High Priority). The 2026-05-04/05 cluster has now installed the evidential-status discipline at the *animal* boundary cases (`consciousness-in-simple-organisms`, `animal-consciousness`, `cetacean-and-corvid-consciousness`), with `evidential-status-discipline.md` as the project-doc anchor. AI is the structurally analogous boundary case at the silicon end of the substrate spectrum, with the same temptation to let tenet-coherence (no substrate-specific barrier) silently elevate evidential grade for current systems. The article currently uses the AI-consciousness-typology framing well but does not explicitly carry tier labels at each typology branch. Calibration pass to (a) install the tenet-register / evidence-register distinction at the lede; (b) label each typology branch on the five-tier scale (likely current-frontier-LLMs at "live hypothesis / speculative integration" for borrowed-quale variants, "speculative integration" or "cognition without consciousness" for null variants); (c) reframe principled obstacles as evidence-register findings while preserving dualist commitments at the tenet register; (d) name the structural temptation explicitly — *the Map's anti-substrate-specificity is tenet-register support; the empirical case for any specific AI being conscious is a separate question*; (e) wikilink `[[evidential-status-discipline]]` at the lede. Short scope (~300–500 words touched). Tenet alignment: Tenet 1 (Dualism) + methodological.
+- **Source**: optimistic-review (2026-05-05)
+- **Generated**: 2026-05-05
+
 ### P3: Resolve orphan references in topics/animal-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending (partial — James (1890) orphan resolved 2026-05-04 22:28 UTC by P2 refine-draft above; Carruthers (2019) and Tomasello (2010) remain to be resolved at Higher-Order Theories and human-ape gap sections respectively)
