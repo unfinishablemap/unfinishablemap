@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-04-30 14:47:00+00:00
+ai_modified: 2026-05-05 00:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Can consciousness exist outside time? Husserl's absolute flow, medi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 18:26:00+00:00
+last_deep_review: 2026-05-05 00:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,11 +125,10 @@ Non-temporal consciousness connects directly to the Map's [tenets](/tenets/):
 ## Further Reading
 
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — How consciousness requires and constitutes temporal structure
-- [split-brain-consciousness](/topics/split-brain-consciousness/) — What splits when consciousness fragments — and what doesn't
+- [split-brain-consciousness](/topics/split-brain-consciousness/) — What callosotomy reveals about consciousness, and what resists fragmentation
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as phenomenological data
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The problem of experiential unity
-- [split-brain-consciousness](/topics/split-brain-consciousness/) — What callosotomy reveals about consciousness
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Non-western perspectives on consciousness and time
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — A complementary irreducibility argument: thought's phenomenal character resists reduction alongside non-temporality
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory
