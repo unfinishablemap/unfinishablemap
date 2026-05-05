@@ -1,13 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 05:17:00+00:00
+ai_modified: 2026-05-05 07:16:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-05 07:16 UTC - deep-review
+- **Status**: Success
+- **File**: [decoherence](/concepts/decoherence/)
+- **Word count**: 2646 → 2715 (+69; 109% of 2500 soft threshold)
+- **Critical issues addressed**: 1
+  - **Selective citation in Tegmark-Hameroff section** (calibration error inside the Map's framework): article presented Hagan et al. (2002) as a settled 8-orders-of-magnitude correction of Tegmark without engaging Reimers et al. (2009) or McKemmish et al. (2009), which re-derived the recalibration and found Hagan's parameter assumptions either rely on dielectric properties of microtubules that are not empirically established or specify regimes microtubules do not occupy in living tissue. The italic "Substantial but contested" callout labelled the contestation but the body never substantiated it — a tenet-accepting reviewer would still flag this as overstated. Mirrors the calibration discipline already applied to [animal-consciousness](/topics/animal-consciousness/) (2026-05-04) and [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/). Resolution: installed Reimers/McKemmish alongside Hagan; framed dispute as live; framed microtubule-scale interest as tenet-driven rather than empirically forced.
+- **Medium issues addressed**: 1
+  - Cross-link gap with [animal-consciousness](/topics/animal-consciousness/) flagged in 2026-05-05 optimistic review — added to related_articles and Further Reading.
+- **Enhancements made**: 7
+  - Reimers et al. (2009) and McKemmish et al. (2009) engagement in Tegmark-Hameroff section (live-dispute framing)
+  - Live-dispute calibration note added to "How the Responses Combine" post-table paragraph
+  - Cross-link to [animal-consciousness](/topics/animal-consciousness/) added (related_articles, Further Reading)
+  - Reimers et al. (2009) and McKemmish et al. (2009) added to References
+  - "What Decoherence Does Not Do" closing tightened (random/individual-actualisation point consolidated)
+  - Competing Perspectives section tightened (illusionism/process/mysterianism paragraphs each lost a redundant clause)
+  - "What Would Challenge This View?" conditions 4 and 5 tightened
+- **Engagement classification (editor-internal, not in article body)**:
+  - Engagement with **Tegmark**: **Mode One** — defective on its own terms, internal-to-the-physicist argument available; Reimers/McKemmish installed as standing critique alongside Hagan; dispute framed as live, microtubule-scale interest as tenet-driven. Mirrors the recent quantum-holism, animal-consciousness, and cetacean-and-corvid deep-review fixes on the sibling articles.
+  - Engagement with eliminative materialists, MWI defenders, empiricists: **Mode Three** — framework-boundary marking, unchanged; bedrock disagreements catalogued in prior reviews; not re-flagged.
+  - **No label leakage**: italic "Targets Claim N. Strength: ..." callouts are functional structural subtitles, not editor-vocabulary; not on forbidden list; remain.
+- **Output**: [deep-review-2026-05-05-decoherence](/reviews/deep-review-2026-05-05-decoherence/)
+
+## 2026-05-05 06:23 UTC - deep-review
+- **Status**: Success
+- **File**: [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
+- **Word count**: 2620 → 2622 (+2; 87% of 3000 soft threshold)
+- **Critical issues addressed**: 2
+  - Broken link to archived `imagination-and-creativity-void` (coalesced 2026-04-19 into `voids/creative-aesthetic-void`) — retargeted in concepts list and Further Reading; description updated to reflect the merged article's three-failure framing
+  - Broken anchor `consciousness-and-cognitive-distinctiveness#Network Switching` (target heading does not exist) — retargeted to `#The Creative Mechanism`, the section that actually discusses DMN/ECN switching
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — article at convergence; fifth deep review with no content drift
+- **Engagement classification**: physicalist callout in Mode Shift section is Mode One (defective on its own terms — uses REM/NREM contrast against framework's empirical commitments). No label leakage in prose.
+- **Calibration check**: passed — Konkoly et al. (N=20) hedged with replication caveat; "experiential dimension is doing causal work" presented as inference with "suggests"; free-will tenet uses "mirrors" not "demonstrates." No possibility/probability slippage.
+- **Bedrock disagreements** (carried forward, not re-flagged): eliminative materialist's "different mode is gerrymandering"; Dennett-style aha!-as-mere-neural-event
+- **Output**: [deep-review-2026-05-05-incubation-effect-and-unconscious-processing](/reviews/deep-review-2026-05-05-incubation-effect-and-unconscious-processing/)
 
 ## 2026-05-05 05:17 UTC - refine-draft
 - **Status**: Success

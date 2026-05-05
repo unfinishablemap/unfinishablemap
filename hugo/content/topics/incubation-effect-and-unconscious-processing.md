@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-05 06:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Walking away from a problem sometimes helps solve it. The incubatio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 19:16:00+00:00
+last_deep_review: 2026-05-05 06:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,7 +29,7 @@ related_articles:
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[consciousness-and-mathematics]]'
 - '[[surprise-prediction-error-and-consciousness]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 title: The Incubation Effect and Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -84,7 +84,7 @@ Stepping away shifts the brain from ECN-dominant focused attention to DMN-domina
 
 The claim here is about *phenomenal* consciousness — the experiential dimension — not merely [global workspace](/concepts/global-workspace-theory/) access. A physicalist might reinterpret "conscious preparation" as "information entering the global workspace," but the dream evidence (discussed in the next section) shows that *phenomenal mode* matters: REM dreaming produces creative benefits that NREM sleep does not, even though both involve brain-wide information processing. What distinguishes the effective state is the presence of experience, not just neural architecture.
 
-The [network switching mechanism](/topics/consciousness-and-cognitive-distinctiveness/#network-switching) is central here. Creative ability correlates not with DMN or ECN activity alone but with the capacity to dynamically switch between them. Incubation provides a natural switch from ECN to DMN. But the switch is only productive because the ECN phase — conscious, effortful problem engagement — has already structured what the DMN explores.
+The [network switching mechanism](/topics/consciousness-and-cognitive-distinctiveness/#the-creative-mechanism) is central here. Creative ability correlates not with DMN or ECN activity alone but with the capacity to dynamically switch between them. Incubation provides a natural switch from ECN to DMN. But the switch is only productive because the ECN phase — conscious, effortful problem engagement — has already structured what the DMN explores.
 
 ### Return and Selection (Conscious)
 
@@ -145,7 +145,7 @@ The Map's interpretation of incubation would face difficulty if:
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The phenomenology of sleep-onset consciousness and its creative potential
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — The phenomenology of mathematical insight, including Poincaré's incubation reports
-- [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — The twin voids of imaginative confinement and creative process opacity
+- [creative-aesthetic-void](/voids/creative-aesthetic-void/) — Imaginative confinement, creative process opacity, and aesthetic articulation failure as a unified void
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How incubation-insight patterns reveal the temporal phenomenology of understanding
 
 ## References

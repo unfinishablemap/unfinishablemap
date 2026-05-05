@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-27 23:12:00+00:00
+ai_modified: 2026-05-05 07:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: The decoherence objection bundles three independent claims. Five re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 23:12:00+00:00
+last_deep_review: 2026-05-05 07:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,6 +47,7 @@ related_articles:
 - '[[quantum-superposition-brain-consciousness-2026-01-18]]'
 - '[[quantum-decoherence-objection-responses-2026-01-15]]'
 - '[[what-consciousness-tells-us-about-physics]]'
+- '[[topics/animal-consciousness]]'
 title: Decoherence and the Quantum Consciousness Objection
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -84,7 +85,7 @@ The distinction between **basis selection** (which basis becomes preferred) and 
 
 The [physics-as-disclosure](/concepts/physics-as-disclosure/) framework strengthens this: decoherence's clean partition—handling all structural work while leaving actuality untouched—matches what a [bi-aspectual](/concepts/bi-aspectual-ontology/) reality predicts physics *can* do, stopping exactly where the actuality question requires something beyond structure.
 
-Since decoherence merely establishes preferred bases without collapsing them, something must select which outcome occurs. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) formalises this: Zurek's framework explains how environmental redundancy makes pointer states objectively accessible to multiple observers, yet the problem of outcomes—why *this* pointer state becomes actual—survives intact. The [No Many Worlds](/tenets/#no-many-worlds) tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting. Calling outcomes "random" describes the statistics without explaining why *this* particular outcome occurs—the measurement problem concerns individual actualisation, not probabilities.
+Since decoherence merely establishes preferred bases without collapsing them, something must select which outcome occurs. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) formalises this: Zurek's framework explains how environmental redundancy makes pointer states objectively accessible to multiple observers, yet why *this* pointer state becomes actual survives intact. The [No Many Worlds](/tenets/#no-many-worlds) tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting; calling outcomes "random" describes statistics without explaining individual actualisation.
 
 This response alone is sufficient to keep quantum consciousness viable regardless of decoherence timescales, provided one takes the measurement problem seriously.
 
@@ -94,11 +95,11 @@ This response alone is sufficient to keep quantum consciousness viable regardles
 
 In 2000, Tegmark calculated that quantum coherence in brain microtubules would decay in ~10⁻¹³ seconds—the [timing gap problem](/concepts/timing-gap-problem/) that became the standard objection to Penrose-Hameroff [Orch OR theory](/concepts/quantum-consciousness/).
 
-Hameroff and colleagues challenged this analysis (Hagan et al., 2002): Tegmark addressed a hybrid model rather than actual Orch OR, assumed incorrect superposition separations, and made questionable assumptions about charge interactions. After corrections, decoherence times increased to **10⁻⁵ to 10⁻⁴ seconds**—**eight or more orders of magnitude longer**. The [four proposed protection mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) may extend coherence further.
+Hameroff and colleagues challenged this analysis (Hagan et al., 2002): Tegmark addressed a hybrid model rather than actual Orch OR, assumed incorrect superposition separations, and made questionable assumptions about charge interactions. After corrections, decoherence times increased to **10⁻⁵ to 10⁻⁴ seconds**—**eight or more orders of magnitude longer**. Reimers et al. (2009) and McKemmish et al. (2009) then re-derived the recalibration and found Hagan's parameter assumptions either rely on dielectric properties of microtubules that are not empirically established, or specify regimes microtubules do not occupy in living tissue. The dispute is live rather than settled; citing Hagan as a closed rebuttal of Tegmark would be selective citation, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The [four proposed protection mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) may extend coherence further but do not, on their own, resolve the parameter dispute.
 
-The original Orch OR model required 25 milliseconds of coherence—still far longer than corrected estimates. But Bandyopadhyay (2014) found microtubule oscillations spanning kilohertz to terahertz frequencies. If Orch OR events occur at 10 MHz rather than 40 Hz, coherence need persist only **10⁻⁷ seconds** (100 nanoseconds), bringing theory into contact with experimentally observed timescales.
+The original Orch OR model required 25 milliseconds of coherence—still far longer than even Hagan's corrected estimates. But Bandyopadhyay (2014) found microtubule oscillations spanning kilohertz to terahertz frequencies. If Orch OR events occur at 10 MHz rather than 40 Hz, coherence need persist only **10⁻⁷ seconds** (100 nanoseconds), bringing theory into contact with experimentally observed timescales.
 
-Recent experiments are suggestive: epothilone B delayed anaesthetic-induced unconsciousness in rats (Wiest et al., 2024), confirming an Orch OR prediction. Anaesthetics specifically abolish a 613 THz quantum oscillation in microtubules while non-anaesthetics do not (Wiest et al., 2025). Fisher (2015) proposed theoretically that phosphorus nuclear spins in Posner molecules could maintain coherence for ~10⁵ seconds—a prediction not yet experimentally confirmed. No experiment has directly measured quantum coherence times in living neural tissue, but the story is more complex than Tegmark's early calculation indicated.
+Recent experiments are suggestive: epothilone B delayed anaesthetic-induced unconsciousness in rats (Wiest et al., 2024), confirming an Orch OR prediction; anaesthetics specifically abolish a 613 THz quantum oscillation in microtubules while non-anaesthetics do not (Wiest et al., 2025). Fisher (2015) proposed phosphorus nuclear spins in Posner molecules could maintain coherence for ~10⁵ seconds—not yet experimentally confirmed. No experiment has directly measured quantum coherence times in living neural tissue, but the story is more complex than Tegmark's early calculation indicated.
 
 ## Neural Decision Windows
 
@@ -122,7 +123,7 @@ Orch OR and similar proposals require superpositions to persist long enough for 
 
 This mechanism requires only that individual observation events occur faster than decoherence destroys the superposition—not coherence across the full 280–300ms decision window. If decoherence occurs at microseconds and attention cycles at ~1 kHz, consciousness would need approximately 1000 observation events per decision—a snapshot model rather than continuous film.
 
-The discrete-versus-sustained distinction extends beyond Stapp's model. Radical pair effects, ion channel tunnelling, and synaptic vesicle release all involve near-instantaneous quantum events. The [full survey of quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) and [mechanism comparison](/topics/comparing-quantum-consciousness-mechanisms/) map which proposals face the full decoherence objection and which sidestep it.
+The discrete-versus-sustained distinction extends beyond Stapp's model. Radical pair effects, ion channel tunnelling, and synaptic vesicle release all involve near-instantaneous quantum events. See [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) and [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) for which proposals face the full decoherence objection and which sidestep it.
 
 The [attention-as-interface](/concepts/attention-as-interface/) hypothesis develops this further: attention serves as the mechanism by which consciousness interfaces with neural dynamics. Attention feels effortful because it *is* continuous intervention—matching the Zeno mechanism's predictions.
 
@@ -154,17 +155,17 @@ The five responses form a layered defence with increasing strength:
 | Biological precedent | Quantum effects work in biology (Claim 1, categorical) | No, but eliminates categorical objection |
 | Parameter revision | Required timescales are shorter (Claim 1) | No, but narrows the gap |
 
-The philosophical response is independently sufficient: even if coherence decays in femtoseconds, quantum indeterminacy persists at measurement. The mechanistic response is independently sufficient for Zeno-type models: discrete observation sidesteps the objection's framing entirely. The empirical responses are not individually sufficient but collectively transform the landscape.
+The philosophical and mechanistic responses are each independently sufficient. The empirical responses are not individually sufficient but collectively transform the landscape; the live status of the Tegmark/Hagan/Reimers/McKemmish dispute means the microtubule-specific case rests on tenet coherence rather than settled empirical support.
 
 After all five responses, the decoherence objection retains force only in this narrowed form: **it is empirically uncertain whether the specific quantum effects required for consciousness occur in neural tissue**. That is a request for more evidence—not a demonstration of impossibility.
 
 ## Competing Perspectives
 
-[Illusionists](/concepts/illusionism/) might dismiss quantum consciousness as unnecessary, but the decoherence debate is independent of the illusionism debate—whether biological systems sustain quantum effects is empirical, and the evidence stands regardless of one's position on the hard problem. The [argument-from-reason](/topics/argument-from-reason/) also challenges illusionism directly: if phenomenal consciousness is illusory, the reasoning that leads to illusionism lacks genuine rational justification.
+[Illusionists](/concepts/illusionism/) might dismiss quantum consciousness as unnecessary, but the decoherence debate is independent of the illusionism debate—whether biological systems sustain quantum effects is empirical, and the evidence stands regardless of one's position on the hard problem. The [argument-from-reason](/topics/argument-from-reason/) separately challenges illusionism's coherence.
 
-[Whitehead's process philosophy](/concepts/process-philosophy/) offers a complementary framework where experience pervades reality at every level. On this view, the question shifts from "can quantum effects survive long enough?" to "how do micro-experiences combine into unified consciousness?"—the [combination-problem](/concepts/combination-problem/) replaces the decoherence problem. This provides metaphysical resilience against the decoherence objection independent of specific timescales.
+[Whitehead's process philosophy](/concepts/process-philosophy/) offers a complementary framework where experience pervades reality at every level. The question shifts from "can quantum effects survive long enough?" to "how do micro-experiences combine into unified consciousness?"—the [combination-problem](/concepts/combination-problem/) replaces the decoherence problem.
 
-[McGinn's cognitive closure](/concepts/mysterianism/) thesis adds a caveat: we may lack the conceptual resources to fully grasp how consciousness relates to quantum processes. This doesn't undermine the logical structure of the decoherence debate, but limits claims to complete understanding of *why* consciousness would interact with quantum processes. See [what-voids-reveal](/voids/what-voids-reveal/) for why encountering cognitive limits is itself informative.
+[McGinn's cognitive closure](/concepts/mysterianism/) thesis adds a caveat: we may lack the conceptual resources to fully grasp how consciousness relates to quantum processes. This limits claims to complete understanding of *why* consciousness would interact with quantum processes without undermining the logical structure of the debate. See [what-voids-reveal](/voids/what-voids-reveal/).
 
 ## What Would Challenge This View?
 
@@ -176,9 +177,9 @@ The Map's position on decoherence would face serious difficulty if:
 
 3. **Neural quantum effects are conclusively ruled out**: If experiments definitively demonstrate no quantum effects survive in neural tissue, the physical basis for quantum consciousness collapses. Current evidence is mixed but increasingly favourable.
 
-4. **Many-Worlds becomes consensus**: If physicists converge on MWI (though [current Born rule derivations remain contested](/topics/probability-problem-in-many-worlds/)), all outcomes occur and "selection" becomes illusory. The [Many-Worlds Interpretation](/concepts/many-worlds/) makes [Bidirectional Interaction](/tenets/#bidirectional-interaction) incoherent: consciousness doesn't select anything but merely labels which branch "we" are in.
+4. **Many-Worlds becomes consensus**: If physicists converge on MWI (though [Born rule derivations remain contested](/topics/probability-problem-in-many-worlds/)), all outcomes occur and "selection" becomes illusory, making [Bidirectional Interaction](/tenets/#bidirectional-interaction) incoherent.
 
-5. **Decoherence solves the measurement problem**: If a fully satisfactory account of definite outcomes emerges requiring only decoherence, the logical opening for consciousness at collapse closes. Current physics doesn't provide this, but future developments could.
+5. **Decoherence solves the measurement problem**: If a fully satisfactory account of definite outcomes emerges requiring only decoherence, the logical opening for consciousness at collapse closes.
 
 ## Relation to the Map's Perspective
 
@@ -207,6 +208,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is direct
 - [many-worlds](/concepts/many-worlds/) — The interpretation that dissolves the measurement problem differently
 - [tenets](/tenets/) — the Map's foundational commitments
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: decoherence selects the basis but not the outcome—what lies behind the wavefunction
+- [animal-consciousness](/topics/animal-consciousness/) — Cross-species framing of the live Tegmark/Hagan/Reimers/McKemmish dispute and the calibration discipline this article applies
 
 ## References
 
@@ -221,6 +223,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is direct
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Kerskens, C.M., & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
+1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *PNAS*, 113(4), 1080–1085.
 1. Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

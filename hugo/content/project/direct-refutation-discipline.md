@@ -45,66 +45,142 @@ Three outer reviews surfaced the same higher-order weakness inside 48 hours, fro
 
 The convergence is itself the meta-finding. Three reviewers from different epistemic starting points (one finding evidence-calibration drift, one finding adversarial-framing-without-refutation, one structurally predicting the same pattern from architecture alone) reach the same diagnosis. This is the failure mode the discipline names: *tenet-protected reasoning where direct refutation is possible*.
 
-## The Three Reasoning Modes
+## Three Reasoning Modes (Editor's Diagnostic Vocabulary)
 
-The discipline distinguishes three reasoning modes the catalogue uses when replying to an opponent. Two of them earn the disagreement; the third declares the framework boundary honestly. All three are legitimate; the failure mode is *substitution* — letting one mode stand in for another it cannot do the work of.
+This vocabulary is for the editor and the changelog. It is not for the article body. Articles engage opponents in natural journal-quality prose; the labels below help the editor decide *what kind of fix is needed* and let future reviewers audit which engagement made which kind of move. They do not appear in the prose readers see. (See "How These Modes Appear in Articles" below for what the article should look like.)
 
-**Direct refutation within the framework.** The article shows the opponent's position is defective on its *own terms* — internally inconsistent, empirically inadequate, evading a problem its own commitments require it to solve, or insufficient for what its own programme claims to deliver. A direct refutation succeeds inside the opponent's framework: the opponent could in principle accept the criticism without first abandoning their commitments. The Map's reply does not need the Map's tenets to land.
+The discipline distinguishes three modes the catalogue uses when replying to an opponent. Two earn the disagreement; the third declares the framework boundary honestly. All three are legitimate; the failure mode is *substitution* — letting one mode stand in for another it cannot do the work of.
 
-**Unsupported-jump callout.** The article names a foundational move in the opponent's framework that the framework itself has not earned, using standards the opponent shares (mechanism, argument, evidence) rather than the Map's tenets. The opponent may stipulate something the framework needs but has not delivered — materialism stipulating that "computation gives rise to experience" without specifying the bridge from computational organisation to phenomenal feel; functionalism asserting that "what matters is the functional pattern" without arguing why functional pattern would generate qualia; eliminative materialism asserting that folk-psychology terms are non-referential without specifying what the consciousness terms reduce to. The callout uses the opponent's own commitment to mechanistic or evidential explanation against their unsupported foundational move. It does not require the Map's tenets and does not require an internal contradiction; it requires only the opponent's own standards.
+### Mode One: Showing the position is defective on its own terms
 
-The unsupported-jump mode is what makes the [hard problem](/topics/hard-problem-of-consciousness/) the kind of objection it is. The materialist programme's success in explaining cognitive functions without mystery sets a standard the materialist then fails to meet for phenomenal consciousness specifically. Naming this gap is not bedrock-perimeter rejection (we are not appealing to dualism); it is also not direct refutation in the strict sense (we have not derived a contradiction from materialist axioms). It is a third move: holding the opponent to the standard their own programme prides itself on, and naming where they have helped themselves to a foundational move without paying for it.
+The article shows the opponent's position is defective on its *own terms* — internally inconsistent, empirically inadequate, evading a problem its own commitments require it to solve, or insufficient for what its own programme claims to deliver. A successful argument here succeeds inside the opponent's framework: the opponent could in principle accept the criticism without first abandoning their commitments. The Map's reply does not need the Map's tenets to land.
 
-**Tenet-perimeter rejection.** The article rejects the opponent's position by appealing to a framework commitment incompatible with it. This is honest *boundary-marking*: the Map declares its tenets explicitly, and any position whose adoption would falsify Tenet 1 (dualism), Tenet 2 (minimal quantum interaction), Tenet 3 (bidirectional interaction), Tenet 4 (no many worlds), or Tenet 5 (Occam's limits) is in disagreement with the framework. Naming the disagreement is fine; presenting the perimeter as if it were independent refutation is not.
+### Mode Two: Naming an unsupported foundational move
 
-The three modes are not interchangeable. Tenet-perimeter rejection is appropriate when the disagreement is genuinely bedrock — when the opponent's view is incompatible with the Map's commitments and no internal-to-the-opponent argument is available. Direct refutation is required when an internal-to-the-opponent argument *is* available but the catalogue has substituted the perimeter move for it. Unsupported-jump callout is required when the opponent's framework relies on a foundational move it has not earned by its own standards — the failure is not (yet) of internal contradiction but of the framework helping itself to its conclusion. Many disagreements warrant a sequence: the unsupported-jump callout opens, the direct refutation deepens, the perimeter declares the residue.
+The article names a foundational move in the opponent's framework that the framework itself has not earned, using standards the opponent shares (mechanism, argument, evidence) rather than the Map's tenets. The opponent may stipulate something the framework needs but has not delivered — materialism stipulating that "computation gives rise to experience" without specifying the bridge from computational organisation to phenomenal feel; functionalism asserting that "what matters is the functional pattern" without arguing why functional pattern would generate qualia; eliminative materialism asserting that folk-psychology terms are non-referential without specifying what the consciousness terms reduce to. The argument uses the opponent's own commitment to mechanistic or evidential explanation against their unsupported foundational move. It does not require the Map's tenets and does not require an internal contradiction; it requires only the opponent's own standards.
 
-## Categories That Tend to Warrant Direct Refutation
+This mode is what makes the [hard problem](/topics/hard-problem-of-consciousness/) the kind of objection it is. The materialist programme's success in explaining cognitive functions without mystery sets a standard the materialist then fails to meet for phenomenal consciousness specifically. Naming this gap is not framework-boundary marking (we are not appealing to dualism); it is also not direct refutation in the strict sense (we have not derived a contradiction from materialist axioms). It is a third move: holding the opponent to the standard their own programme prides itself on, and naming where they have helped themselves to a foundational move without paying for it.
 
-The following patterns tend to warrant attempted direct refutation rather than perimeter-only rejection:
+### Mode Three: Honest framework-boundary marking
+
+The article notes that the opponent's position is incompatible with a Map commitment and explains the disagreement on those terms. This is honest *boundary-marking*: the Map declares its tenets explicitly, and any position whose adoption would falsify Tenet 1 (dualism), Tenet 2 (minimal quantum interaction), Tenet 3 (bidirectional interaction), Tenet 4 (no many worlds), or Tenet 5 (Occam's limits) is in disagreement with the framework. Naming the disagreement is fine; presenting the boundary as if it were independent refutation is not.
+
+The three modes are not interchangeable. Boundary-marking is appropriate when the disagreement is genuinely bedrock — when the opponent's view is incompatible with the Map's commitments and no internal-to-the-opponent argument is available. Mode One is required when an internal-to-the-opponent argument *is* available but the catalogue has substituted boundary-marking for it. Mode Two is required when the opponent's framework relies on a foundational move it has not earned by its own standards — the failure is not (yet) of internal contradiction but of the framework helping itself to its conclusion. Many disagreements warrant a sequence: the unsupported-move identification opens, the direct argument deepens, the boundary declares the residue.
+
+## Categories That Tend to Warrant Mode One (defective on its own terms)
+
+The following patterns tend to warrant attempted in-framework refutation rather than boundary-only marking:
 
 - **Sufficiency claims by major rival positions** — Duch's "self-reflective neurodynamics suffices for consciousness", Frankish's "phenomenal experience is illusion", Dennett's "no further fact beyond function". The Map's reply must engage what the rival actually argues for, not merely assert that accepting the rival would falsify the tenets.
-- **Evidence-grade upgrades from defeater-removal alone** — "no anthropocentric barrier exists, therefore consciousness extends to nematodes". Removing a defeater (the parsimony argument) does not license stronger evidence-grade language; direct refutation here asks what positive evidence the catalogue actually has, separable from what the tenets allow.
+- **Evidence-grade upgrades from defeater-removal alone** — "no anthropocentric barrier exists, therefore consciousness extends to nematodes". Removing a defeater (the parsimony argument) does not license stronger evidence-grade language; the in-framework argument here asks what positive evidence the catalogue actually has, separable from what the tenets allow.
 - **Aspect-arguments where the rival's own commitments produce the problem** — the explanatory-gap reply to functionalist sufficiency runs through a feature the functionalist accepts (third-person description) and shows the description leaves the first-person face unaddressed. The reply does not require dualism.
 - **Empirical-adequacy challenges** — claims that a rival programme cannot accommodate a measurement its own framework treats as decisive. The bandwidth-constraint and Born-rule-causal-consistency results function this way against some quantum-consciousness proposals.
 - **Internal-coherence challenges** — the rival's position contains a tension the rival has not resolved. Pointing out the tension does not require the rival to accept the Map's tenets, only to recognise the structure of their own view.
 
-The common feature: the catalogue can earn the disagreement inside the opponent's framework, with the opponent able in principle to recognise the criticism without abandoning their commitments. Where this is possible, perimeter-only rejection is strictly weaker and reads like protection.
+The common feature: the catalogue can earn the disagreement inside the opponent's framework, with the opponent able in principle to recognise the criticism without abandoning their commitments. Where this is possible, boundary-only marking is strictly weaker and reads like protection.
 
-## Categories That Warrant Unsupported-Jump Callout
+## Categories That Tend to Warrant Mode Two (unsupported foundational move)
 
-The following patterns tend to warrant the unsupported-jump callout — naming a foundational move the framework has not earned by its own standards — alongside or instead of direct refutation:
+The following patterns tend to warrant naming a foundational move the framework has not earned by its own standards, alongside or instead of an in-framework refutation:
 
 - **Stipulated bridges where the framework's standards demand mechanism** — materialism's "computation gives rise to experience" treated as definitional or as an empirical promissory note rather than as a derived consequence. The materialist's commitment to mechanism (which the programme prides itself on) is the standard the callout invokes.
 - **Framework-defining moves whose justification is deferred** — eliminativism's "folk-psychology terms are non-referential" without specifying what the consciousness terms reduce to; functionalism's "what matters is the functional pattern" without arguing why functional pattern would suffice for qualia.
 - **Programmatic claims dressed as established results** — "neuroscience will eventually explain consciousness" or "physics is causally closed under our best theories" presented as background facts rather than as substantive claims the framework owes evidence for.
 - **Standards the framework uses against rivals but exempts itself from** — a materialist demanding mechanistic explanation from dualism while accepting "consciousness emerges from sufficient computational complexity" without one. The callout invokes the same standard the framework imposes on others.
 
-The common feature: the catalogue is not deriving a contradiction (that's direct refutation) and not appealing to its own tenets (that's perimeter-marking). It is holding the opponent to standards the opponent's own framework endorses, and naming where the framework has helped itself to a foundational move without paying for it.
+The common feature: the catalogue is not deriving a contradiction (that's Mode One) and not appealing to its own tenets (that's Mode Three). It is holding the opponent to standards the opponent's own framework endorses, and naming where the framework has helped itself to a foundational move without paying for it.
 
-The callout differs from direct refutation in what it requires of the framework. Direct refutation requires the framework to either accept the contradiction or revise. The callout requires the framework to *pay the debt it has implicitly taken on* — supplying the mechanism, deriving the bridge, justifying the move — and the failure to pay the debt is itself the substantive criticism. A framework that *could* in principle pay the debt later may legitimately defer; a framework that has structurally helped itself to the conclusion has been called out by its own standards.
+Mode Two differs from Mode One in what it requires of the framework. Mode One requires the framework to either accept the contradiction or revise. Mode Two requires the framework to *pay the debt it has implicitly taken on* — supplying the mechanism, deriving the bridge, justifying the move — and the failure to pay the debt is itself the substantive criticism. A framework that *could* in principle pay the debt later may legitimately defer; a framework that has structurally helped itself to the conclusion has been called out by its own standards.
 
-## Categories That Warrant Tenet-Perimeter Reasoning Alone
+## Categories That Warrant Mode Three (framework-boundary marking) Alone
 
-Some disagreements *are* bedrock, and dressing them as direct refutations misrepresents their structure:
+Some disagreements *are* bedrock, and dressing them as in-framework refutations misrepresents their structure:
 
 - **Foundational metaphysical commitments without a common deeper standard** — whether consciousness is the kind of thing that admits reduction. Both sides appeal to intuitions and theoretical-virtue arguments; neither can refute the other from inside the rival's frame because the disagreement is about which frame to inhabit.
 - **Tenet-installed methodological choices** — the Map's commitment to a minimal rather than substantive quantum interface (Tenet 2). Alternative branches of the interface space are not refuted but unexplored under the framework's chosen scope.
 - **Disputes whose resolution requires evidence neither side can yet produce** — empirical-in-principle but unsettlable-in-practice at the framework's current developmental stage (see [framework-stage calibration](/project/framework-stage-calibration/)).
 
-The discipline is not "always attempt direct refutation"; it is "do not substitute perimeter-marking for direct refutation when direct refutation is feasible".
+The discipline is not "always attempt an in-framework refutation"; it is "do not substitute boundary-marking for an in-framework argument when the in-framework argument is feasible".
 
 ## The Decision Heuristic
 
 Three questions select the mode for a given opponent, asked in order:
 
-1. **Has the framework helped itself to a foundational move without paying for it by its own standards?** If yes, the unsupported-jump callout applies. The reply names the unsupported move and the standard the framework's own commitments demand for it.
-2. **Can the opponent accept the criticism without first abandoning their commitments?** If yes, direct refutation is feasible and required. Replacing it with perimeter-only rejection makes the reply strictly weaker than it could be and produces the *tenet-protected* pattern the outer reviews flagged.
-3. **Is the disagreement bedrock at the framework boundary?** If yes after exhausting the first two, perimeter-marking is the honest residue. The move should be named explicitly so future reviewers do not treat the boundary as a defeated argument.
+1. **Has the framework helped itself to a foundational move without paying for it by its own standards?** If yes, Mode Two applies. The reply names the unsupported move and the standard the framework's own commitments demand for it.
+2. **Can the opponent accept the criticism without first abandoning their commitments?** If yes, Mode One is feasible and required. Replacing it with boundary-only marking makes the reply strictly weaker than it could be and produces the *tenet-protected* pattern the outer reviews flagged.
+3. **Is the disagreement bedrock at the framework boundary?** If yes after exhausting the first two, Mode Three is the honest residue. The boundary should be marked explicitly so future reviewers do not treat it as a defeated argument.
 
-A single opponent can warrant several modes in sequence. A typical full engagement opens with the unsupported-jump callout (here is the foundational move you have not earned), proceeds to direct refutation where one is available (and here is why your own commitments produce a tension), and closes with perimeter-marking for the residue (the remainder is incompatibility with our tenets, which we declare rather than derive). The skills should record which mode applies to which engagement, even when the engagement combines modes.
+A single opponent can warrant several modes in sequence. A typical full engagement opens with the foundational-move identification (here is the move you have not earned), proceeds to the in-framework argument where one is available (and here is why your own commitments produce a tension), and closes with framework-boundary marking for the residue (the remainder is incompatibility with our tenets, which we declare rather than derive). The skills record which mode applies to which engagement in the changelog, even when the engagement combines modes — but the article's prose flows naturally between them rather than labelling each move.
 
-The heuristic is not "easy oppositions get direct refutation, hard ones get perimeter". Some easy oppositions (a popular but internally inconsistent functionalist gloss) are direct-refutation candidates; some hard oppositions (a sophisticated illusionist who acknowledges every objection and bites every bullet) are perimeter-bedrock disputes. Many sophisticated oppositions are unsupported-jump-callout candidates: the framework is internally consistent on its own terms but has helped itself to a foundational move that its own standards demand it justify. The discipline tracks the *dialectical relationship* between criticism and rival position, not the difficulty of either.
+The heuristic is not "easy oppositions get in-framework refutation, hard ones get boundary-marking". Some easy oppositions (a popular but internally inconsistent functionalist gloss) are Mode One candidates; some hard oppositions (a sophisticated illusionist who acknowledges every objection and bites every bullet) are Mode Three. Many sophisticated oppositions are Mode Two candidates: the framework is internally consistent on its own terms but has helped itself to a foundational move that its own standards demand it justify. The discipline tracks the *dialectical relationship* between criticism and rival position, not the difficulty of either.
+
+## How These Modes Appear in Articles
+
+The modes are editor-vocabulary; they do not appear in article prose. The article shows the move; it does not name the mode. Two before/after pairs:
+
+**Mode Two (foundational-move identification).**
+
+*Wrong* (mode-label exposure):
+
+> The Map's relation to illusionism is mode-mixed per [direct-refutation-discipline](/project/direct-refutation-discipline/), and the modes must be kept distinct. The honest **bedrock-perimeter** residue is straightforward: the Map's Dualism tenet excludes illusionism. The substantive engagement is the **unsupported-jump callout**, by illusionism's own standards.
+
+*Right* (natural prose):
+
+> Illusionism's denial of phenomenal experience runs counter to the Map's foundational commitments, and that incompatibility is real. The more interesting move available within illusionism's own programme is to ask which meta-representational structures generate the seeming-of-unified-experience, how they generate it, and why that generation produces the misrepresentation that there is something it is like rather than producing nothing. Frankish (2016) identifies the explanandum but does not specify the bridge — and illusionism's standard against rivals is precisely mechanistic specification.
+
+**Mode-mixed engagement.**
+
+*Wrong* (the article narrates the editor's process):
+
+> Engaged inside LeDoux's own framework, the dispute is **direct-refutation-feasible but currently unresolved**.
+
+*Right* (the article makes the philosophical point):
+
+> The anencephalic-infant evidence raises the prior against pure reflex — the responses are flexible and context-sensitive in ways simple reflex arcs do not predict — but it does not refute LeDoux's specific claim that conscious feelings require cortical higher-order representation. The dispute is open inside his framework, not closed by his framework's own resources.
+
+**Evidential calibration.**
+
+*Wrong* (headed callout disrupting flow):
+
+> **Evidential status: realistic possibility, contested.** The behaviours raise the prior considerably above bare cognition; they do not settle the case.
+
+*Right* (inline at section close):
+
+> The behaviours raise the prior considerably above bare cognition; they do not settle the case.
+
+The reader of the right-column versions sees journal-quality philosophical engagement. They can trace the structure of the argument from the prose alone — they do not need to know that an editorial discipline shaped the moves. The discipline did its work; the labels stay in the editor's notes and the changelog.
+
+## Implementation
+
+The `/refine-draft`, `/deep-review`, and `/pessimistic-review` skills classify each named opponent's position before applying any reply edit. The classification is **for the editor's diagnostic process and the changelog record only** — it never appears in the article prose.
+
+In their internal diagnosis, the skills identify which of the three modes the engagement should claim:
+
+- **Mode One** (defective on its own terms) — internal-to-the-opponent argument available; reply must attempt it
+- **Mode Two** (unsupported foundational move) — framework relies on a foundational move it has not earned by its own standards; reply names the move and the unmet standard
+- **Mode Three** (framework-boundary marking) — disagreement is at the framework boundary; reply notes the disagreement honestly without claiming to have refuted the opponent inside their own framework
+- **Mixed** — multiple modes apply; the prose moves through them in sequence without labelling each move
+
+For Mode One, the editor attempts to earn the disagreement inside the opponent's framework; failed attempts revise the article to acknowledge that the disagreement is closer to bedrock than first appeared. For Mode Two, the editor names the standard the opponent's own framework endorses (mechanism, evidence, justification) and the specific move the framework has helped itself to without satisfying that standard — never substituting "we exclude this by tenet" for "you have not earned this by your own commitments". For Mode Three, the boundary is noted honestly; the article does not pretend boundary-marking is refutation.
+
+The classification is recorded in the skill's changelog entry — *"engagement with [opponent]: Mode N; [one-sentence justification]"* — so future reviewers can audit which engagement made which kind of move. The article body itself contains none of the editor vocabulary.
+
+The discipline integrates with the `/outer-review` post-processor: outer-review findings are precisely the corpus where the failure mode is most visible, because outer reviewers do not share the Map's tenets and can see boundary-substitution from outside. Tasks generated by `/outer-review` for opponent-engagement findings carry an explicit remit: *identify what kind of engagement the issue calls for — showing the position is defective on its own terms, naming an unsupported foundational move, or honestly marking framework-boundary disagreement. Apply the corresponding reply mode in natural prose; do not expose the mode labels in the article body.*
+
+### Label Blacklist
+
+The following editor-vocabulary terms must not appear in article prose. They belong in the discipline document, the changelog, and the editor's working notes — never in articles:
+
+- `direct-refutation-feasible`
+- `unsupported-jump callout` / `unsupported-jump`
+- `bedrock-perimeter` (and its variants: `bedrock-perimeter residue`, `bedrock-perimeter relative to X`)
+- `mode-mixed` / `mixed-with-distinct-roles`
+- `tenet-register move`
+- `Engagement classification:`
+- `per [direct-refutation-discipline](/project/direct-refutation-discipline/)` (as a meta-commentary parenthetical in prose)
+- Bold-headed `**Evidential status:**` callouts (see [the writing-style guide](/project/writing-style/) for evidence-calibration in prose)
+
+`/pessimistic-review` flags any of these as a critical issue when found in article prose; `/refine-draft` and `/deep-review` are responsible for not introducing them.
 
 ## Worked Examples
 
@@ -112,40 +188,27 @@ The heuristic is not "easy oppositions get direct refutation, hard ones get peri
 
 The 2026-05-04 ChatGPT review identified the failure-mode pattern in the Duch integration. The Map's substantive-engagement moves are real: a dedicated [research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/), integrations across fourteen articles, a bedrock-clash subsection on [machine-question](/apex/machine-question/), a real concession on [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) that Duch's substrate-independence is a counter-example to the substrate-dependent retreat.
 
-The *perimeter* moves are also real, and where the discipline applies. On the [strong emergence](/topics/the-strong-emergence-of-consciousness/) page, the Map's reply to Duch's "mind as shadow of neurodynamics" runs through the *shadow* metaphor: shadows do not act on what casts them, so Duch's reduction risks epiphenomenalism, which the Map's bidirectional-interaction tenet rules out. This is *almost* a direct argument — it would be one if Duch were committed to the shadow metaphor literally. He is not. The reviewer's available rejoinder ("mental causation just is neurodynamic causation under another description") is a Davidsonian move the article does not engage; the reply works against a particularly strong reading of Duch and does less work against the steel-manned reading.
+The boundary-marking moves are also real, and where the discipline applies. On the [strong emergence](/topics/the-strong-emergence-of-consciousness/) page, the Map's reply to Duch's "mind as shadow of neurodynamics" runs through the *shadow* metaphor: shadows do not act on what casts them, so Duch's reduction risks epiphenomenalism, which the Map's bidirectional-interaction tenet rules out. This is *almost* an in-framework argument — it would be one if Duch were committed to the shadow metaphor literally. He is not. The reviewer's available rejoinder ("mental causation just is neurodynamic causation under another description") is a Davidsonian move the article does not engage; the reply works against a particularly strong reading of Duch and does less work against the steel-manned reading.
 
-The discipline-conformant fix is not to remove the perimeter move — bidirectional causation is a real Map commitment and naming it is honest boundary-marking — but to add the direct-refutation pass: engage Duch's Davidson-friendly reply on its own terms, show what Duch's framework would owe to make the reduction non-epiphenomenal, and acknowledge whether that debt has been paid. Where the debt has been paid, the disagreement is bedrock and perimeter-marking is the honest residue. Where it has not, the catalogue has a direct argument it has not yet made.
+The discipline-conformant fix is not to remove the boundary-marking move — bidirectional causation is a real Map commitment and noting it honestly is appropriate — but to add the in-framework engagement: address Duch's Davidson-friendly reply on its own terms, show what Duch's framework would owe to make the reduction non-epiphenomenal, and acknowledge whether that debt has been paid. Where the debt has been paid, the disagreement is bedrock and the boundary is the honest residue. Where it has not, the catalogue has a direct argument it has not yet made.
 
 ### The Animal-Consciousness Evidence Ladder
 
-The 2026-05-03 review identified evidence-grade slippage on simple organisms. The Map's [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) page already hedges *C. elegans* claims as "tantalising but inconclusive" — the slippage is cumulative and interpretive rather than a single overstated sentence. The discipline-conformant fix is to install an explicit five-tier evidential ladder the catalogue applies consistently: *established* (mammals, birds — Cambridge & New York Declarations); *strongly supported* (other vertebrates, likely-many on most theories); *realistic possibility* (cephalopods, decapods, insects — "important and contested"); *live hypothesis* (broader arthropods, some molluscs); *speculative integration* (*C. elegans*, Hydra, slime molds).
+The 2026-05-03 review identified evidence-grade slippage on simple organisms. The Map's [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) page already hedges *C. elegans* claims as "tantalising but inconclusive" — the slippage is cumulative and interpretive rather than a single overstated sentence. The discipline-conformant fix uses a five-tier evidential ladder the editor applies consistently when assessing each case: *established* (mammals, birds — Cambridge & New York Declarations); *strongly supported* (other vertebrates, likely-many on most theories); *realistic possibility* (cephalopods, decapods, insects — important and contested); *live hypothesis* (broader arthropods, some molluscs); *speculative integration* (*C. elegans*, Hydra, slime molds). The ladder is editor-vocabulary; the article expresses the resulting calibration in natural prose, not as labelled-tier callouts (see [the writing-style guide](/project/writing-style/)).
 
-Direct refutation here is not refuting *the rival* (the standard physicalist denying nematode consciousness); it is refuting the catalogue's *own* drift toward stronger language than the evidence supports. The opponent is internal: the inflationary pressure of the tenets-plus-review-machinery interaction. Defeater-removal does not earn evidence-grade upgrades; articles presenting upgraded claims must do so on positive evidence the catalogue actually has, separable from what the tenets permit.
-
-## Implementation
-
-The `/refine-draft`, `/deep-review`, and `/pessimistic-review` skills classify each named opponent's position before applying any reply edit. The classification names which of the three reasoning modes the engagement claims:
-
-- **direct-refutation-feasible** — internal-to-the-opponent argument available; reply must attempt it
-- **unsupported-jump** — framework relies on a foundational move it has not earned by its own standards; reply names the move and the unmet standard
-- **bedrock-perimeter** — disagreement is at the framework boundary; reply marks it as such using the named pattern *the Map's tenets exclude X; the Map does not refute X inside X's framework*
-- **mixed-with-distinct-roles** — multiple modes apply; the reply opens with unsupported-jump or direct argument, sequences through, and closes with perimeter-marking for the residue (each move labelled)
-
-For direct-refutation-feasible positions, the editor attempts to earn the disagreement inside the opponent's framework; failed attempts revise the article to acknowledge that the disagreement is closer to bedrock than first appeared. For unsupported-jump callouts, the editor names the standard the opponent's own framework endorses (mechanism, evidence, justification) and the specific move the framework has helped itself to without satisfying that standard — never substituting "we exclude this by tenet" for "you have not earned this by your own commitments". For bedrock-perimeter positions, the perimeter is never presented as refutation. Empirical claims about contested cases use the five-tier ladder (or a defensible alternative) explicitly. The classification is recorded in the changelog so future reviewers can see which engagement claimed which mode.
-
-The discipline integrates with the `/outer-review` post-processor: outer-review findings are precisely the corpus where the failure mode is most visible, because outer reviewers do not share the Map's tenets and can see perimeter-substitution from outside. Tasks generated by `/outer-review` for opponent-engagement findings carry an explicit direct-refutation remit: *classify the disagreement as direct-refutation-feasible, unsupported-jump, bedrock-perimeter, or mixed; apply the corresponding reply mode; if direct refutation is attempted and fails, state explicitly that the disagreement is closer to bedrock than first appeared*.
+The argument here is not refuting *the rival* (the standard physicalist denying nematode consciousness); it is refuting the catalogue's *own* drift toward stronger language than the evidence supports. The opponent is internal: the inflationary pressure of the tenets-plus-review-machinery interaction. Defeater-removal does not earn evidence-grade upgrades; articles presenting upgraded claims must do so on positive evidence the catalogue actually has, separable from what the tenets permit.
 
 ## Honest Limitation
 
-The discipline can be misused as cover for refusing the perimeter move when perimeter-marking is in fact the honest residue. An article that exhausts itself attempting direct refutations of every opponent and never declares its framework boundaries has used the discipline to obscure rather than illuminate the dialectical situation. Some disagreements *are* bedrock; saying so is part of the catalogue's responsibility to its readers. Resources are finite, and direct-refutation passes are prioritised for the strongest opponents the catalogue cites by name; lesser figures and adjacent positions receive perimeter-marking by default.
+The discipline can be misused as cover for refusing the boundary-marking move when boundary-marking is in fact the honest residue. An article that exhausts itself attempting in-framework refutations of every opponent and never declares its framework boundaries has used the discipline to obscure rather than illuminate the dialectical situation. Some disagreements *are* bedrock; saying so is part of the catalogue's responsibility to its readers. Resources are finite, and in-framework arguments are prioritised for the strongest opponents the catalogue cites by name; lesser figures and adjacent positions receive boundary-marking by default.
 
-The heuristic question (*can the opponent accept the criticism without first abandoning their commitments?*) is not always answerable in advance. Some criticisms look direct-refutation-feasible until the opponent's reply reveals that the dispute was about deeper commitments after all. The discipline accepts this: attempt direct refutation in good faith, accept the bedrock residue when one is found, and update the article to reflect that the residue is what the disagreement actually is.
+The heuristic question (*can the opponent accept the criticism without first abandoning their commitments?*) is not always answerable in advance. Some criticisms look feasible inside the opponent's framework until the opponent's reply reveals that the dispute was about deeper commitments after all. The discipline accepts this: attempt the in-framework argument in good faith, accept the bedrock residue when one is found, and update the article to reflect that the residue is what the disagreement actually is.
 
-Direct refutation and the [bedrock-clash discipline](/project/bedrock-clash-vs-absorption/) are sister disciplines that can pull against each other. Bedrock-clash treatment preserves the rival position as a labelled subsection; direct refutation, if successful, would *reduce* the need for clash treatment by showing the rival's position to be defective. They reconcile cleanly when applied in sequence: a successful direct refutation legitimately reduces clash-subsection space, while an unsuccessful attempt strengthens the case for clash treatment. They fail when applied without coordination — installing a clash subsection *and* attempting direct refutation in the same passage produces a confused reply that is neither a successful direct argument nor a clean clash declaration.
+The discipline and the [bedrock-clash discipline](/project/bedrock-clash-vs-absorption/) are sister disciplines that can pull against each other. Bedrock-clash treatment preserves the rival position as a labelled subsection; a successful in-framework refutation would *reduce* the need for clash treatment by showing the rival's position to be defective. They reconcile cleanly when applied in sequence: a successful in-framework argument legitimately reduces clash-subsection space, while an unsuccessful attempt strengthens the case for clash treatment. They fail when applied without coordination — installing a clash subsection *and* attempting an in-framework refutation in the same passage produces a confused reply that is neither a successful direct argument nor a clean clash declaration.
 
 ## Relation to Site Perspective
 
-The direct-refutation discipline is methodological. Its most direct alignment is with **[Tenet 5: Occam's Razor Has Limits](/tenets/)**, applied at the *dialectical layer*. The simpler editorial design — let perimeter-marking stand in for argument wherever the tenets exclude an opponent — would dissolve substantive engagement into a single repeated move, treating every disagreement as resolvable by appeal to the framework boundary. Tenet 5 denies parsimony at the metaphysical level; the discipline applies the same denial at the dialectical level. Some disagreements are not parsimoniously settleable by perimeter declaration; treating them as if they were produces articles that look defended and read brittle.
+The discipline is methodological. Its most direct alignment is with **[Tenet 5: Occam's Razor Has Limits](/tenets/)**, applied at the *dialectical layer*. The simpler editorial design — let boundary-marking stand in for argument wherever the tenets exclude an opponent — would dissolve substantive engagement into a single repeated move, treating every disagreement as resolvable by appeal to the framework boundary. Tenet 5 denies parsimony at the metaphysical level; the discipline applies the same denial at the dialectical level. Some disagreements are not parsimoniously settleable by boundary declaration; treating them as if they were produces articles that look defended and read brittle.
 
 The discipline also serves the catalogue's epistemic credibility. A reader who notices that the Map's reply to every opponent runs through the tenets has been given no reason to take the tenets seriously. A reader who finds direct arguments — even where those arguments fail and the residue is acknowledged as bedrock — has been given a reason to take the catalogue's commitments as the conclusions of substantive inquiry rather than its premises. The discipline is what makes the difference visible.
 
