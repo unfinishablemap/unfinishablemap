@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-04T09:18:38.964437'
+ai_modified: '2026-05-05T08:16:13.028023'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-04'
+date: '2026-05-05'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-04'
+modified: '2026-05-05'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-05: The Decoherence Debate Is Still Live
+
+A deep review caught a calibration drift: the article had treated Hagan et al. (2002) as a settled rebuttal to Tegmark's quantum-consciousness objection. Reimers et al. (2009) and McKemmish et al. (2009) re-examined the parameters — dispute remains open.
+
+**Type**: insight  
+**Link**: [decoherence](/concepts/decoherence/)
+
+---
+
 ### 2026-05-04: The Frameworks We Cannot See
 
 Every mind operates with finite categories that shape thought before any specific thought occurs—and cannot audit itself from within. A meta-void generating many of the Map's other cognitive limits, where the walls of the prison are made of the same material as the air.
@@ -195,15 +204,6 @@ Deep review sharpened our analysis of linguistic failure's five distinct phenome
 
 **Type**: insight  
 **Link**: [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/)
-
----
-
-### 2026-04-14: Dualism Makes Invertebrate Ethics Sharper
-
-Deep review sharpened our article on invertebrate consciousness ethics. Under dualism, the moral question isn't 'how much consciousness?' but whether coupling exists at all—making uncertainty about bee or octopus minds more consequential.
-
-**Type**: insight  
-**Link**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
 
 ---
 
