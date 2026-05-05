@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-05-03T11:41:37.772459+00:00
+ai_modified: 2026-05-05T15:25:16.877598+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,9 +43,20 @@ coalesced_from:
   - "/concepts/brain-specialness/"
   - "/concepts/interface-locality/"
   - "/topics/fragmented-consciousness/"
+embedded_videos:
+  - id: ygshLBkDAGE
+    url: https://www.youtube-nocookie.com/embed/ygshLBkDAGE
+    embedded: 2026-05-05T15:25:16.877598+00:00
+    source: notebooklm/0046-01-split-brain-consciousness
 ---
 
 Consciousness can apparently break apart. Split-brain surgery, general anaesthesia, and dissociative disorders each produce conditions where unified experience fractures — or seems to. These cases carry high stakes for dualism. The classical unity argument holds that an indivisible mind cannot be composed of physical parts. If consciousness genuinely fragments, this argument appears to collapse. Yet the evidence, examined carefully, points somewhere unexpected: what breaks in each case is not consciousness itself but the physical interface through which consciousness expresses itself. The distinction matters. It transforms fragmentation from a decisive objection to dualism into something dualism can accommodate — and perhaps accommodate more naturally than physicalism.
+
+<details class="yt-embed" data-video-id="ygshLBkDAGE">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/ygshLBkDAGE">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Classic Split-Brain Experiments
 

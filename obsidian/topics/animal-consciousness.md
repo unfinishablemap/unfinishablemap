@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-05-04T22:28:00+00:00
+ai_modified: 2026-05-05T15:25:16.877598+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,11 +50,22 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-04-23T21:17:00+00:00
+embedded_videos:
+  - id: DnI0-3Z9EQE
+    url: https://www.youtube-nocookie.com/embed/DnI0-3Z9EQE
+    embedded: 2026-05-05T15:25:16.877598+00:00
+    source: notebooklm/0044-01-animal-consciousness
 ---
 
 Animal consciousness presents the [[problem-of-other-minds]] in its most acute form. We cannot directly access the subjective experience of a bat, octopus, or crow. Yet convergent behavioral and neurological evidence provides strong grounds for thinking many animals have phenomenal consciousness—there is *something it is like* to be them. Dualism faces different challenges than materialism here, but has a distinct advantage: if consciousness is irreducible to physical processes, the [[hard-problem-of-consciousness|hard problem]] applies equally to all conscious beings, and no anthropocentric barrier prevents non-human minds from possessing phenomenal experience. This does not mean all consciousness is identical—it may vary in kind and [[degrees-of-consciousness|degree]] across species, as [discussed in the ape cognition section](#consciousness-and-the-human-ape-intelligence-gap)—but the *capacity* for experience is not reserved for humans. Dualism's challenge lies in explaining how consciousness interfaces with radically different nervous systems, but it places no substrate-specific barrier on consciousness itself.
 
 Removing this metaphysical defeater does not, on its own, supply positive evidence for any particular species. *Whether* a given lineage is conscious is an empirical question, and the verdicts below differ accordingly. The case for mammals and birds is strongly supported, near-consensus among signatories of the major declarations. The case for cephalopods, decapods, and insects is a serious realistic possibility but contested. Boundary organisms — nematodes, Hydra, slime molds — are weaker still, and treated in [[consciousness-in-simple-organisms]]. The [[#the-standing-agnostic-challenge|standing agnostic challenge]] from Gutfreund (2024) applies across every section of this article and is not overridden by what follows.
+
+<details class="yt-embed" data-video-id="DnI0-3Z9EQE">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/DnI0-3Z9EQE">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Growing Scientific Agreement
 
