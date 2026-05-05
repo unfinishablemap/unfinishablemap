@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 11:16:00+00:00
+ai_modified: 2026-05-05 12:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 12:16 UTC - research-topic
+- **Status**: Success
+- **Topic**: selection-only mind-influence: information-transfer limits and physical-world signatures
+- **Output**: [[research/selection-only-mind-influence-information-limits-2026-05-05]]
+- **Sources consulted**: 23
 
 ## 2026-05-05 11:16 UTC - deep-review
 - **Status**: Success
