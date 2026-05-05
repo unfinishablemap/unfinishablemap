@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 10:17:00+00:00
+ai_modified: 2026-05-05 11:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 11:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/possibility-probability-slippage]]
+- **Previous review**: Never (first deep review)
+- **Word count**: 1493 → 1688 (+195; 68% of 2500 soft threshold; ok)
+- **Critical issues addressed**: 0 (none found — article is methodologically sound and does not commit the slippage it warns against)
+- **Medium issues addressed**: 3
+  - Tenet-5-only framing in Relation to Site Perspective expanded to acknowledge Tenets 1, 3, and 5 do defeater-removal work, while preserving Tenet 5 as the central case
+  - Popperian-circularity worry on the diagnostic test acknowledged and operationalized via the five-tier scale (the hypothetical reviewer is shorthand; the published-evidence-anchored scale does the work)
+  - Missing sister-discipline cross-link to [[coherence-inflation-countermeasures]] added to Further Reading and frontmatter; [[bedrock-clash-vs-absorption]] added to frontmatter related_articles for body-link symmetry
+- **Engagement classification**: not applicable (no named-opponent engagement; only friendly-source attribution to 2026-05-03 ChatGPT 5 Pro outer review)
+- **Stability flagged**: bedrock disagreements at framework boundary (eliminative materialist, hard-nosed physicalist, Buddhist) are expected and should not be re-flagged in future reviews; Tenet-5-centric framing is the deliberate stability choice; editor-vocabulary in body prose is legitimate here because this is the concept-anchor article that names the vocabulary
+- **Output**: [[reviews/deep-review-2026-05-05-possibility-probability-slippage]]
 
 ## 2026-05-05 10:17 UTC - expand-topic
 - **Status**: Success

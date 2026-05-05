@@ -4,7 +4,8 @@ description: "The reasoning move where a tenet that secures the metaphysical pos
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-05T10:17:00+00:00
+ai_modified: 2026-05-05T11:16:00+00:00
+last_deep_review: 2026-05-05T11:16:00+00:00
 draft: false
 topics: []
 concepts:
@@ -13,6 +14,8 @@ related_articles:
   - "[[evidential-status-discipline]]"
   - "[[direct-refutation-discipline]]"
   - "[[framework-stage-calibration]]"
+  - "[[coherence-inflation-countermeasures]]"
+  - "[[bedrock-clash-vs-absorption]]"
   - "[[tenets]]"
 ai_contribution: 100
 author: null
@@ -65,9 +68,13 @@ If no, the disagreement is bedrock at the framework boundary. The reviewer rejec
 
 The qualifier — *who fully accepts the Map's tenets* — is doing work. Without it, the test would catch every framework-boundary disagreement and demand de-escalation across the board, including in territory where the empirical evidence supports strong language. With it, the test isolates exactly the calibration errors the slippage produces: cases where the load-bearing support is the tenet rather than the evidence, and a tenet-accepting reviewer would still see the upgrade as unearned.
 
+A Popperian objection asks whether the test is operationally circular — whether *would a tenet-accepting reviewer flag X* depends on a hypothetical reviewer whose verdicts are unknowable in advance. The test cashes out via the [[evidential-status-discipline|five-tier evidential scale]]: a claim is overstated when the language used (*plausible*, *probable*, *supported*) ranges higher than the tier the empirical evidence supplies, and the tier is settled by published findings rather than reviewer intuition. The hypothetical tenet-accepting reviewer is shorthand for the scale; the scale is what does the actual work.
+
 ## Relation to Site Perspective
 
-The concept of possibility/probability slippage is methodological and operates at the empirical-detection layer of [[tenets|Tenet 5: Occam's Razor Has Limits]]. Tenet 5 denies that parsimony is decisive against dualism *at the metaphysical level*. The slippage concept applies a parallel restraint at the empirical-labelling layer: the tenets' anti-parsimony commitment must not silently licence stronger empirical claims than the evidence supports. The same denial that protects dualism from being dismissed by simplicity arguments also constrains how the catalogue is allowed to *cash in* the protection. Removing a defeater is what the tenets are entitled to do; upgrading the evidence level is not.
+The concept of possibility/probability slippage is methodological and operates wherever the Map's [[tenets]] do defeater-removal work. Three tenets are routinely load-bearing in the slippage zone. [[tenets|Tenet 1 (Dualism)]] denies a substrate-specific barrier to phenomenal experience, removing the standard physicalist defeater against consciousness in non-standard substrates. [[tenets|Tenet 3 (Bidirectional Interaction)]] rules out epiphenomenalism, removing the most common physicalist reason to deny experience to simple cognitive systems. [[tenets|Tenet 5 (Occam's Razor Has Limits)]] denies the parsimony dismissal, removing the *we can dismiss this as unnecessary* move. Each removal is genuine modal-register support; none is evidential-register support, and the slippage concept polices the boundary across all three.
+
+Tenet 5 deserves the central framing because the parsimony dismissal is the most syntactically tempting upgrade — *if simplicity does not refute, then complexity must be permitted, and what is permitted shades toward what is supported*. The same denial that protects dualism from being dismissed by simplicity arguments also constrains how the catalogue is allowed to *cash in* the protection. Removing a defeater is what the tenets are entitled to do; upgrading the evidence level is not.
 
 Naming the slippage is also what makes the catalogue's stronger claims credible. A reader who notices that boundary cases are flagged as boundary cases — that minimal organisms are labelled at the calibration tier their evidence supports rather than silently inflated — has been given a reason to take the catalogue's *strongly supported* claims seriously. A reader who finds the empirical language uniformly elevated whenever the tenets do work has been given a reason to suspect every label. The slippage concept is what lets the difference be visible.
 
@@ -76,6 +83,7 @@ Naming the slippage is also what makes the catalogue's stronger claims credible.
 - [[evidential-status-discipline]] — the operational discipline the slippage concept anchors; installs the five-tier evidential scale and the diagnostic test
 - [[direct-refutation-discipline]] — sister discipline at the reasoning-mode level; how the catalogue argues against opponents without substituting tenet-perimeter rejection for direct argument
 - [[framework-stage-calibration]] — sister discipline at the framework level; how the catalogue characterises its own developmental stage to avoid stage-mismatched analogies
+- [[coherence-inflation-countermeasures]] — sister discipline at the system level; safeguards against the broader pattern of treating internal consistency as evidence, of which slippage is the calibration-layer instance
 - [[bedrock-clash-vs-absorption]] — how rival positions are handled when the disagreement is genuine framework-boundary clash rather than calibration error
 - [[conceivability-possibility-inference]] — the modal-register epistemology the Map endorses for ideal positive conceivability; the slippage concept is the empirical-register counterpart that prevents the modal warrant from being misread
 - [[tenets]] — the foundational commitments whose modal-register entitlements the slippage concept disciplines
