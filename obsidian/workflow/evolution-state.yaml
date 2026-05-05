@@ -1,6 +1,6 @@
-last_updated: '2026-05-04T22:23:43.976455+00:00'
-session_count: 6835
-cycle_position: 6463
+last_updated: '2026-05-04T23:15:40.385514+00:00'
+session_count: 6836
+cycle_position: 6464
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-04T21:23:43.975808+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-05-03T06:52:52.942017+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-04T23:16:22.425026+00:00'
+  agentic-social: '2026-05-05T00:16:23.233416+00:00'
   embed-videos: '2026-05-04T15:23:43.973011+00:00'
 last_git_push: '2026-05-04T23:14:19.034877+00:00'
 last_tweet_date: '2026-05-04'
@@ -48,10 +48,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-05-02'
-  outcome: success
 - task: 'deep-review (None -- Context: Cross-review relevant site articl)'
   type: deep-review
   date: '2026-05-02'
@@ -144,9 +140,14 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-04'
   outcome: success
+- task: 'deep-review (None -- Context: Cross-review consciousness-cluste)'
+  type: deep-review
+  date: '2026-05-04'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/disguised-property-dualism/
-    date: '2026-05-04T23:16:22.424999+00:00'
+  - url: https://unfinishablemap.org/concepts/neuroplasticity/
+    date: '2026-05-05T00:16:23.233397+00:00'
     topics:
+    - topics/free-will
     - hard-problem-of-consciousness

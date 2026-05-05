@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 23:30:00+00:00
+ai_modified: 2026-05-05 00:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 00:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Word count**: 2656 → 2654 (-2; consolidated duplicate Further Reading entry)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate `[[split-brain-consciousness]]` entry in Further Reading — artifact of bulk wikilink replacement when fragmented-consciousness was archived/coalesced; consolidated into a single descriptive line)
+- **Enhancements made**: 0 (article at full stability after four reviews; no expansion warranted)
+- **Reasoning-mode classifications recorded** (per [[direct-refutation-discipline]]):
+  - **Bergson** (named opponent, Bergson's Challenge section): *mixed-with-distinct-roles*. Synthesis offered, then explicitly acknowledged as Bergsonian-contestable, then perimeter declared ("favours Husserl, and the genuine tension may not be fully resolvable"). Honest.
+  - **Representationalist** (unnamed but specific position, meditation section): *direct-refutation-feasible*. Reply invokes Husserl's regress argument as supporting the constitutive (not merely representational) reading — earns disagreement with an internal philosophical argument, not a tenet appeal.
+  - **Bayne switch model + 2025 layered unity model** (named alternatives): *acknowledgement without resolution*. "None is yet decisive" — appropriate hedge.
+  - **MWI** (tenets section only): *bedrock-perimeter*. Properly confined to tenet-incompatibility framing.
+  - No perimeter-substitution failures detected.
+- **Output**: [[reviews/deep-review-2026-05-05-non-temporal-consciousness]]
 
 ## 2026-05-04 23:30 UTC - deep-review
 - **Status**: Success

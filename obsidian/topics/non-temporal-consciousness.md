@@ -4,9 +4,9 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-30T14:47:00+00:00
+ai_modified: 2026-05-05T00:16:00+00:00
 draft: false
-last_deep_review: 2026-03-25T18:26:00+00:00
+last_deep_review: 2026-05-05T00:16:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[temporal-consciousness-structure-and-agency]]"
@@ -123,11 +123,10 @@ Non-temporal consciousness connects directly to the Map's [[tenets]]:
 ## Further Reading
 
 - [[temporal-consciousness-structure-and-agency]] — How consciousness requires and constitutes temporal structure
-- [[split-brain-consciousness]] — What splits when consciousness fragments — and what doesn't
+- [[split-brain-consciousness]] — What callosotomy reveals about consciousness, and what resists fragmentation
 - [[contemplative-practice-as-philosophical-evidence]] — Meditation as phenomenological data
 - [[hard-problem-of-consciousness]] — The broader challenge of explaining experience
 - [[unity-of-consciousness]] — The problem of experiential unity
-- [[split-brain-consciousness]] — What callosotomy reveals about consciousness
 - [[eastern-philosophy-consciousness]] — Non-western perspectives on consciousness and time
 - [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — A complementary irreducibility argument: thought's phenomenal character resists reduction alongside non-temporality
 - [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory
