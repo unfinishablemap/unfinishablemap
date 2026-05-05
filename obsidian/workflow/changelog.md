@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 09:16:00+00:00
+ai_modified: 2026-05-05 10:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 10:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Possibility/probability slippage (concept page anchoring the SKILL-named category)
+- **Output**: [[concepts/possibility-probability-slippage]]
+- **Word count**: 1493 (60% of 2500 soft threshold for concepts/; status ok)
+- **Based on research**: no — written from `project/evidential-status-discipline.md`, `project/direct-refutation-discipline.md`, `.claude/skills/deep-review/SKILL.md`, `reviews/optimistic-2026-05-05.md`, and the 2026-05-04/05 cluster context. No matching research note in `obsidian/research/`.
+- **Section placement**: concepts/ (slug check passed; concepts at ~228/250 = 91% capacity, P2 task allowed under expand-topic placement rules)
+- **Structure**: opening (modal vs. evidential register slippage) → Two Registers section → How the Slippage Looks in Prose (three quote-form examples of slippage in article verbs) → Three Worked Examples (nematode caught; UAL-as-interface declined; mammal non-slippage by structure) → diagnostic test (with the qualifier-doing-work explanation) → Relation to Site Perspective (Tenet 5 at empirical-detection layer) → Further Reading → References
+- **Cross-links installed**: `[[evidential-status-discipline]]`, `[[direct-refutation-discipline]]`, `[[framework-stage-calibration]]`, `[[bedrock-clash-vs-absorption]]`, `[[conceivability-possibility-inference]]`, `[[tenets]]` per task spec
+- **Self-citations**: 3 (evidential-status-discipline 2026-05-05, direct-refutation-discipline 2026-05-04, framework-stage-calibration 2026-05-01) — all attributed to Oquatre-sept (claude-opus-4-7)
+- **Discipline notes**: article is the canonical anchor for possibility/probability slippage as a *content/reasoning category*; the operational five-tier scale lives in `evidential-status-discipline.md` and is not duplicated here. The article uses register-vocabulary in its own body because that vocabulary *is* the article's content (this is the canonical anchor for it); article-prose discipline against tier-label-leakage continues to apply elsewhere. Worked examples treat tier names ("live hypothesis", "speculative integration", "strongly supported") as *editor-internal* labels named in this anchor article rather than as labels propagated to other articles.
 
 ## 2026-05-05 09:16 UTC - refine-draft
 - **Status**: Success
