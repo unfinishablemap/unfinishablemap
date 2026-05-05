@@ -362,6 +362,7 @@ def run_skill(
     timeout_seconds: int = 5400,
     verbose: bool = True,
     skip_commit: bool = False,
+    chrome: bool = False,
 ) -> tuple[bool, str]:
     """Run a skill via Claude CLI.
 
@@ -370,6 +371,12 @@ def run_skill(
         timeout_seconds: Maximum time to wait
         verbose: Whether to use verbose Claude output
         skip_commit: If True, append instruction to skip git commit
+        chrome: If True, pass --chrome so the claude-in-chrome MCP server is
+            registered for this invocation. Required for commission/collect
+            outer-review skills that drive Chrome via mcp__claude-in-chrome__*
+            tools; without it those skills silently no-op (the MCP tools are
+            absent, the skill's "if Chrome MCP errors, skip silently" branch
+            triggers, and no chat is created).
 
     Returns:
         Tuple of (success: bool, output: str)
@@ -390,6 +397,8 @@ def run_skill(
         "--dangerously-skip-permissions",
         "--output-format", "text",
     ]
+    if chrome:
+        cmd.append("--chrome")
     if verbose:
         cmd.append("--verbose")
     cmd.extend(["-p", prompt])
@@ -856,6 +865,7 @@ def run_session(
                     ),
                     timeout_seconds=600,
                     verbose=verbose,
+                    chrome=True,
                 )
             output_lower = (output or "").lower()
             if "login_required" in output_lower:
@@ -904,6 +914,7 @@ def run_session(
                     SkillInvocation(svc.skill_commission),
                     timeout_seconds=600,
                     verbose=verbose,
+                    chrome=True,
                 )
             output_lower = (output or "").lower()
             if "login_required" in output_lower:
