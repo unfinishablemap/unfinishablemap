@@ -41,7 +41,7 @@ Spot-checked every quoted source against sibling articles and research notes:
 - **Kiefer (2021)** — "we cannot read off metaphysical theses about the nature of target systems from our theories". Matches `research/predictive-processing-active-inference-dualism-2026-03-19.md:148`.
 - **Pautz (2017, 2019)** — "exactly the same swarm of extra-logical principles". Matches `topics/russellian-monism-versus-bi-aspectual-dualism.md:76`. Phrasing originally associated with Chalmers, repurposed in Pautz's demonstration; attribution to Pautz is correct for the *demonstration*, not the coinage. This was already noted and accepted in the prior review.
 - **Cutter (2019)** — "Russellian monism does not offer a comfortable resting place — one must turn back or else march on to dualism". Matches `topics/russellian-monism-versus-bi-aspectual-dualism.md:68` and `research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md:52`.
-- **Tononi & Koch (2015)** — IIT "intrinsic existence" axiom is correctly named; the hedge about some Tononi passages accepting dualism openly is consistent with `concepts/integrated-information-theory.md` and `research/iit-phenomenal-consciousness-2026-03-14.md` (not spot-checked in this pass but consistent with prior review).
+- **Tononi & Koch (2015)** — IIT "intrinsic existence" axiom is correctly named; the hedge about some Tononi passages accepting dualism openly is consistent with [concepts/integrated-information-theory.md](/concepts/integrated-information-theory/) and `research/iit-phenomenal-consciousness-2026-03-14.md` (not spot-checked in this pass but consistent with prior review).
 
 No misattribution, dropped qualifier, overstated position, source/Map conflation, or self-contradiction detected.
 

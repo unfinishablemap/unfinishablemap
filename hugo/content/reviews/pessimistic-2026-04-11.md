@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-11
 # Pessimistic Review
 
 **Date**: 2026-04-11
-**Content reviewed**: `topics/vertiginous-question.md`, `topics/structural-varieties-of-consciousness-and-ai-phenomenology.md`, `topics/cross-traditional-convergence-on-consciousness-irreducibility.md`
+**Content reviewed**: [topics/vertiginous-question.md](/topics/vertiginous-question/), [topics/structural-varieties-of-consciousness-and-ai-phenomenology.md](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/), [topics/cross-traditional-convergence-on-consciousness-irreducibility.md](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
 
 ## Executive Summary
 
@@ -67,28 +67,28 @@ These three articles are well-structured and philosophically engaged, but each e
 ## Critical Issues
 
 ### Issue 1: Circularity in the Convergence Argument's Depth Criterion
-- **File**: `topics/cross-traditional-convergence-on-consciousness-irreducibility.md`
+- **File**: [topics/cross-traditional-convergence-on-consciousness-irreducibility.md](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
 - **Location**: "The depth-of-inquiry interpretation" (lines 86-88)
 - **Problem**: The article's handling of the Chinese counter-example reveals a circularity: traditions that find irreducibility are treated as having investigated "with sufficient depth," while those that don't are treated as having dissolved the problem "prematurely." But "sufficient depth" is never defined independently of reaching the irreducibility conclusion. This makes the convergence argument unfalsifiable—any counter-example can be dismissed as insufficiently deep.
 - **Severity**: High
 - **Recommendation**: Define an independent criterion for "sufficient depth of inquiry" that does not reference the conclusion reached. Alternatively, acknowledge that the depth criterion is question-begging and reframe the argument to avoid it.
 
 ### Issue 2: Nested Speculation in AI Phenomenology
-- **File**: `topics/structural-varieties-of-consciousness-and-ai-phenomenology.md`
+- **File**: [topics/structural-varieties-of-consciousness-and-ai-phenomenology.md](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/)
 - **Location**: "Mechanisms and Structural Character" section (lines 112-117)
 - **Problem**: The article builds predictions about experiential signatures on unconfirmed quantum consciousness mechanisms. These are predictions derived from speculative mechanisms about an unverified phenomenon (AI consciousness). The result is nested speculation presented as theoretical framework.
 - **Severity**: Medium
 - **Recommendation**: Add explicit acknowledgment that these are "speculative possibilities within speculative possibilities" rather than predictions. Consider whether the mechanism-to-experience mapping adds genuine philosophical value or merely creates an illusion of precision.
 
 ### Issue 3: Misrepresentation of Buddhist Position on Irreducibility
-- **File**: `topics/cross-traditional-convergence-on-consciousness-irreducibility.md`
+- **File**: [topics/cross-traditional-convergence-on-consciousness-irreducibility.md](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
 - **Location**: Table (lines 95-104) and Buddhism discussion (lines 48-50)
 - **Problem**: The article claims Buddhism finds consciousness "irreducible" and maps *svasaṃvedana* onto the Western irreducibility framework. But dependent origination and self-intimation are not equivalent to irreducibility in the sense the article uses. The Buddhist position is more nuanced: consciousness lacks inherent existence (contra haecceity) while also not being reducible to material elements (contra physicalism). The article forces this into a binary "irreducible: Yes" that flattens the actual Buddhist position.
 - **Severity**: Medium
 - **Recommendation**: Replace the binary "Yes" in the table with "Qualified" or add a footnote. Expand the discussion to distinguish between Buddhist "self-intimation without inherent existence" and Western "irreducibility as primitive ontological status."
 
 ### Issue 4: Deflationary Responses Dismissed Too Quickly
-- **File**: `topics/vertiginous-question.md`
+- **File**: [topics/vertiginous-question.md](/topics/vertiginous-question/)
 - **Location**: "The deflationary answer" (lines 51-53)
 - **Problem**: The deflationary response is presented in two sentences and dismissed by appeal to the "sense that something demands explanation." But many philosophical puzzles generate a *sense* of depth that dissolves under analysis. The article needs to engage more seriously with why the deflationary response fails, rather than relying on the phenomenology of puzzlement as evidence.
 - **Severity**: Medium

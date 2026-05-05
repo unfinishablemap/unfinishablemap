@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-27
 **Content reviewed**:
-- `topics/hard-problem-of-consciousness.md`
-- `topics/personal-identity.md`
-- `topics/argument-from-reason.md`
+- [topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/)
+- [topics/personal-identity.md](/topics/personal-identity/)
+- [topics/argument-from-reason.md](/topics/argument-from-reason/)
 
 ## Executive Summary
 
@@ -115,7 +115,7 @@ The argument from reason is the most interesting from a Buddhist perspective. It
 
 ### Issue 1: The Hard Problem Article Treats Persistence of Puzzlement as Evidence
 
-- **File**: `topics/hard-problem-of-consciousness.md`
+- **File**: [topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/)
 - **Location**: Lines 83-96 (The Explanatory Gap section)
 - **Problem**: The article presents the explanatory gap as structural—'a consequence of what physical explanations *are*'—rather than as evidence that we lack the right explanatory framework. The argument runs: physical explanations describe 'structure, function, and dynamics'; experience is 'a different kind of thing entirely'; therefore the gap is permanent.
 
@@ -127,7 +127,7 @@ The article addresses Russellian monism but dismisses it: 'the view faces its ow
 
 ### Issue 2: Personal Identity Article's Fission Argument Begs the Question
 
-- **File**: `topics/personal-identity.md`
+- **File**: [topics/personal-identity.md](/topics/personal-identity/)
 - **Location**: Lines 139-145 (The Fission Problem Revisited section)
 - **Problem**: The article concludes: 'Your consciousness—the particular conscious perspective that makes you you—cannot split. One or both of the resulting consciousnesses would be new, not continuations of yours.'
 
@@ -141,7 +141,7 @@ The split-brain section (lines 148-163) provides empirical evidence but draws th
 
 ### Issue 3: The Argument from Reason May Prove Too Much
 
-- **File**: `topics/argument-from-reason.md`
+- **File**: [topics/argument-from-reason.md](/topics/argument-from-reason/)
 - **Location**: Lines 43-49 (Step 3 of the core argument)
 - **Problem**: The argument claims: if physicalism is true, 'your belief that 2+2=4 is entirely explained by neural causes that have nothing to do with mathematical truth.' The belief might be true, but not 'rationally justified.'
 
@@ -157,7 +157,7 @@ The self-defeat structure is powerful against physicalism. But it may apply equa
 
 ### Issue 4: Haecceity Is Treated as Given Rather Than Argued
 
-- **File**: `topics/personal-identity.md`
+- **File**: [topics/personal-identity.md](/topics/personal-identity/)
 - **Location**: Lines 129-137 (What Personal Identity Requires section)
 - **Problem**: The article lists three requirements for personal identity: consciousness persistence, causal continuity, and 'indexical uniqueness—the unrepeatable fact that *you* are this conscious being and not another, even if another were qualitatively identical.'
 
@@ -169,7 +169,7 @@ The appeal to process philosophy (lines 203-215) gestures at grounding haecceity
 
 ### Issue 5: The AI Objection Response Concedes Too Much
 
-- **File**: `topics/argument-from-reason.md`
+- **File**: [topics/argument-from-reason.md](/topics/argument-from-reason/)
 - **Location**: Lines 133-136 (AI systems objection)
 - **Problem**: The response to 'AI systems perform logical inference purely physically' is: 'The distinction between implementing truth-tracking mechanisms and engaging in rational inference is precisely what this argument highlights. AI systems may achieve the former; whether they achieve the latter remains deeply contested.'
 
@@ -183,7 +183,7 @@ If the AI objection shows that physical implementation can track validity, the a
 
 ### Issue 6: The C. elegans Example Doesn't Establish What's Claimed
 
-- **File**: `topics/hard-problem-of-consciousness.md`
+- **File**: [topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/)
 - **Location**: Lines 97-104 (Complete Knowledge of Simple Minds section)
 - **Problem**: The article claims that complete knowledge of C. elegans's connectome fails to tell us 'whether there is something it is like to be a worm.' This is presented as evidence that the hard problem is 'empirically vivid.'
 

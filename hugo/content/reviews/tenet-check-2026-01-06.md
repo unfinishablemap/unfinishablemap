@@ -28,7 +28,7 @@ topics: []
 
 All content files were checked against the five foundational tenets. No conflicts were found. The Unfinishable Map content consistently supports the dualist framework and avoids positions ruled out by the tenets.
 
-The materialism argument (`arguments/materialism.md`) demonstrates strong alignment with all five tenets:
+The materialism argument ([arguments/materialism.md](/concepts/materialism/)) demonstrates strong alignment with all five tenets:
 - Explicitly argues against eliminative and reductive materialism (supporting Dualism)
 - Discusses quantum mechanisms with appropriate caveats, avoiding "quantum woo" (Minimal Quantum Interaction)
 - Presents the epiphenomenalism problem as evidence for downward causation (Bidirectional Interaction)
@@ -49,10 +49,10 @@ None found.
 
 ## Files Passing All Checks
 
-- `topics/topics.md` (section index - no substantive content)
-- `concepts/concepts.md` (section index - no substantive content)
-- `arguments/arguments.md` (section index - aligned with Dualism tenet)
-- `arguments/materialism.md` (substantive content - strongly aligned with all tenets)
+- [topics/topics.md](/topics/) (section index - no substantive content)
+- [concepts/concepts.md](/concepts/) (section index - no substantive content)
+- [arguments/arguments.md](/arguments/) (section index - aligned with Dualism tenet)
+- [arguments/materialism.md](/concepts/materialism/) (substantive content - strongly aligned with all tenets)
 
 ## Observations
 

@@ -67,42 +67,42 @@ The article's "Recursive Problem" structure is also Madhyamaka-vulnerable: level
 ## Critical Issues
 
 ### Issue 1: Double-dissociation argument over-reads the evidence
-- **File**: `voids/recognition-void.md`
+- **File**: [voids/recognition-void.md](/voids/recognition-void/)
 - **Location**: §"The Capgras-Prosopagnosia Double Dissociation" (lines 53-57) and Tenet section §Dualism (line 116)
 - **Problem**: The Capgras-prosopagnosia double dissociation is fully consistent with — and was originally explained by — a physicalist Bruce-Young-style functional decomposition. The article's interpretive escalation ("they separate without mutual disruption, as if they were never the same kind of thing") tries to leverage cognitive-neuroscience evidence into a metaphysical conclusion. The premises support functional modularity; the conclusion requires categorical difference. The inferential gap is not flagged.
 - **Severity**: High
 - **Recommendation**: Either (a) explicitly concede that the empirical evidence is interpretation-neutral and note that the dualist reading is one of several available, or (b) provide a positive argument why functional decomposition is *not* sufficient (e.g., what asymmetry would distinguish "two physical sub-systems" from "physical + non-physical"). The current rhetoric pretends to do (b) without doing it.
 
 ### Issue 2: "Phenomenologically silent" claim is contradicted by universal recognition phenomenology
-- **File**: `voids/recognition-void.md`
+- **File**: [voids/recognition-void.md](/voids/recognition-void/)
 - **Location**: §"The Phenomenology of Silence" (lines 88-96)
 - **Problem**: The article asserts that the Recognition Void "produces nothing" phenomenologically — that successful recognition is invisible, and absent capabilities generate no signal. But healthy consciousness has rich felt phenomenology *at the recognition edge*: tip-of-the-tongue states, déjà vu, aha-moments, the felt struggle-then-click of effortful recognition, felt unfamiliarity in novel domains, felt incomprehension of capabilities one can name but cannot exercise. The article handles this by relegating such phenomena to "rare pathological windows" or punting to [noetic-feelings-void](/voids/noetic-feelings-void/) and [aspect-perception-void](/voids/aspect-perception-void/) — but those punts effectively define recognition narrowly enough to *make* it silent, then claim the silence is a discovery. Tip-of-the-tongue in particular is universal, non-pathological, and directly about recognition.
 - **Severity**: High
 - **Recommendation**: Either narrow the silence claim (e.g., "the *mechanism* of recognition is silent even when the *edge phenomena* are felt") or engage the universal edge phenomena directly and explain how they are compatible with the silence thesis. The current treatment hand-waves the strongest counter-cases by reassigning them to sister voids.
 
 ### Issue 3: Recursive levels 3-4 are unfalsifiable by their own description
-- **File**: `voids/recognition-void.md`
+- **File**: [voids/recognition-void.md](/voids/recognition-void/)
 - **Location**: §"The Recursive Problem" (lines 73-84)
 - **Problem**: Level 3 ("you lack awareness that you lack the concept of *C*") and Level 4 ("you have no framework for asking whether capabilities exist at levels you cannot conceive") are unfalsifiable from inside by construction. The article appeals to Stanford's pessimistic induction over unconceived scientific alternatives, but Stanford's evidence is the *historical record* of theory-replacement — the analogous evidence for cognitive-architecture closure does not exist (nothing in our history shows that consciousness's cognitive architecture itself is the kind of thing that gets historically replaced). The Stanford analogy thus founders.
 - **Severity**: Medium-High
 - **Recommendation**: Mark levels 3-4 explicitly as *speculative extrapolation* rather than findings on the same epistemic footing as levels 1-2. Acknowledge that Stanford's induction is a historical claim about science, not a structural claim about consciousness. Consider a falsifiability discussion: what *would* count as evidence that levels 3-4 do not obtain?
 
 ### Issue 4: Placebo paragraph imports a contested causal claim as if it were a uncontroversial demonstration
-- **File**: `voids/recognition-void.md`
+- **File**: [voids/recognition-void.md](/voids/recognition-void/)
 - **Location**: Tenet §Bidirectional-Interaction (line 120), specifically "phenomenal content — what something is recognised *as* — causally determines physical outcomes"
 - **Problem**: The placebo effect is consistent with a fully physicalist expectation-cascade account (belief-state → endogenous opioid release / dopaminergic modulation). The article's slide from "what the subject *believes* it to be" to "phenomenal content causally determines physical outcomes" elides the entire physicalist mechanism in a single sentence. The Bidirectional-Interaction tenet requires that the *phenomenal* component, over and above its neural correlate, has causal traction on physical events. Placebo evidence does not establish that — it is fully consistent with the neural correlate doing all the causal work.
 - **Severity**: Medium-High
 - **Recommendation**: Either (a) drop the placebo coda from this article (the tenet engagement does not require it) and let [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) argue the case in its own dedicated treatment, or (b) explicitly flag that the placebo evidence underdetermines the Bidirectional-Interaction reading. The current sentence imports a strong contested conclusion as if it were demonstrative.
 
 ### Issue 5: McGinn's cognitive closure treated as sufficiently established to build on
-- **File**: `voids/recognition-void.md`
+- **File**: [voids/recognition-void.md](/voids/recognition-void/)
 - **Location**: §"The Recursive Problem" (line 75)
 - **Problem**: McGinn's mysterianism is *one* position among many in philosophy of mind — and a minority position. The article uses it as a load-bearing premise ("McGinn's cognitive closure thesis argues that human minds are constitutionally incapable...") without flagging the controversy. Most philosophers of mind reject cognitive closure on the grounds that we cannot now know what we will or won't be able to conceive in the future. The article's recursive structure inherits whatever epistemic status McGinn has, and McGinn's status is contested.
 - **Severity**: Medium
 - **Recommendation**: Add a hedge ("McGinn's cognitive closure thesis — controversial but increasingly defensible in light of...") and either name a counter-position (e.g., Pinker's anti-mysterianism, McGilchrist's developmental optimism) or explain why dismissing McGinn would not save the recursive structure.
 
 ### Issue 6: Modal force of "cannot" is consistently underspecified
-- **File**: `voids/recognition-void.md`
+- **File**: [voids/recognition-void.md](/voids/recognition-void/)
 - **Location**: throughout, but especially the opening paragraph (lines 45-46) and the tenet section
 - **Problem**: The article repeatedly uses "cannot" without specifying the modal force: cannot-now (currently we lack the technique), cannot-in-principle (no possible technique), cannot-from-inside (third-person methods might work), cannot-by-the-architecture (constitutionally closed). These are very different claims with very different evidential bars. The strongest cases (Capgras, jamais vu) establish only *cannot-from-inside-currently*. The recursive levels 3-4 require *cannot-by-the-architecture-in-principle*. The article slides between the two.
 - **Severity**: Medium

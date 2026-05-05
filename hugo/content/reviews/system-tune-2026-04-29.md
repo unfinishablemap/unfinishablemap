@@ -137,7 +137,7 @@ topics: []
 
 **Section-cap pressure on voids**: 97/100 at start; voids/suspension-void created 2026-04-28 13:17 UTC (+1 → 98); coalesce of epistemic-horizon-void → meta-epistemology-of-limits at 2026-04-28 23:08 UTC (−1 → 97). Net zero this period despite 5 research-voids tasks (research is one step removed from creation). Catalogue self-regulating effectively at the cap, but the combination of high research-voids cadence (5 in this period) and capped voids creation will keep accumulating unconsumed research notes — currently 367, up from 364, with 11 of those expected to be void-research that will not consume into expand-topic until slots open.
 
-**Apex over governance cap**: 22 → 23 with creation of `apex/conjunction-coalesce.md` (deep-reviewed twice this period: 2026-04-27 21:14 UTC and 2026-04-27 23:28 UTC). Now **23/20** governance-listed; **3 apex pieces over the documented cap.** **4th consecutive period.** The cap exists in `obsidian/apex/apex-articles.md` text but is not enforced in code — no automation refuses an apex-evolve creation when over cap. This stands in contrast to voids/concepts/topics caps which are enforced.
+**Apex over governance cap**: 22 → 23 with creation of [apex/conjunction-coalesce.md](/apex/conjunction-coalesce/) (deep-reviewed twice this period: 2026-04-27 21:14 UTC and 2026-04-27 23:28 UTC). Now **23/20** governance-listed; **3 apex pieces over the documented cap.** **4th consecutive period.** The cap exists in `obsidian/apex/apex-articles.md` text but is not enforced in code — no automation refuses an apex-evolve creation when over cap. This stands in contrast to voids/concepts/topics caps which are enforced.
 
 ### Review Finding Patterns
 

@@ -40,7 +40,7 @@ None.
 - **Ericsson et al. (1993)**: "Qualitatively different skill development" from deliberate practice — correct (previous review fixed the "neural outcomes" overreach).
 - **Sweller (1988)**: Cognitive load theory systematising performance consequences — correct.
 - **Tulving (1985)**: Anoetic consciousness — correct.
-- **New reference to [skill-delegation](/concepts/skill-delegation/)**: Characterises the Map's account as "conscious calibration during learning, progressive withdrawal as procedural systems absorb the skill, and retained override capacity" — this faithfully mirrors the three-phase structure in `concepts/skill-delegation.md` (Phase 1 Conscious Calibration, Phase 2 Progressive Withdrawal, Phase 3 Retained Override Capacity).
+- **New reference to [skill-delegation](/concepts/skill-delegation/)**: Characterises the Map's account as "conscious calibration during learning, progressive withdrawal as procedural systems absorb the skill, and retained override capacity" — this faithfully mirrors the three-phase structure in [concepts/skill-delegation.md](/concepts/skill-delegation/) (Phase 1 Conscious Calibration, Phase 2 Progressive Withdrawal, Phase 3 Retained Override Capacity).
 
 No dropped qualifiers, no overstated positions, no source/Map conflation, no self-contradictions.
 
@@ -52,7 +52,7 @@ All six adversarial personas engaged. Each either raises objections already addr
 
 ### Link & Reference Integrity
 - All 24 wikilinks in body and frontmatter resolve to existing files.
-- All five tenet anchors (`^dualism`, `^bidirectional-interaction`, `^minimal-quantum-interaction`, `^no-many-worlds`, `^occams-limits`) verified in `tenets/tenets.md`.
+- All five tenet anchors (`^dualism`, `^bidirectional-interaction`, `^minimal-quantum-interaction`, `^no-many-worlds`, `^occams-limits`) verified in [tenets/tenets.md](/tenets/).
 - All ten bibliographic references are cited in the body (no dangling references).
 - Description (155 chars) within 150–160 target.
 

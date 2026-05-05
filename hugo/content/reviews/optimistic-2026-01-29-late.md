@@ -86,41 +86,41 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 
 ## Content Strengths
 
-### The Hard Problem Treatment (`topics/hard-problem-of-consciousness.md`)
+### The Hard Problem Treatment ([topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/))
 
 - **Strongest point**: The article systematically works through why the gap is structural rather than merely epistemic, using the complete connectome of *C. elegans* to make the point vivid: even complete physical knowledge doesn't tell us whether the worm is conscious.
 - **Notable quote**: "The gap is not about missing information. Complete physical description fails to tell us whether experience is present in even the simplest nervous systems we can fully characterise."
 - **Why it works**: This transforms an abstract philosophical point into a concrete empirical observation that any reader can appreciate.
 
-### The Free Will Treatment (`topics/free-will.md`)
+### The Free Will Treatment ([topics/free-will.md](/topics/free-will/))
 
 - **Strongest point**: The integration of Libet experiments, quantum mechanics, agent causation, and phenomenology into a unified framework that respects all the evidence.
 - **Notable quote**: "The brain prepares options; consciousness selects or vetoes."
 - **Why it works**: This succinct framing dissolves the apparent conflict between neuroscience (showing early neural preparation) and phenomenology (showing genuine choice).
 
-### The Argument from Reason (`topics/argument-from-reason.md`)
+### The Argument from Reason ([topics/argument-from-reason.md](/topics/argument-from-reason/))
 
 - **Strongest point**: The self-defeat structure is presented with devastating clarity—if physicalism is true, no belief is rationally justified, including belief in physicalism.
 - **Notable quote**: "Physical causation operates via efficient causes, not normative relationships."
 - **Why it works**: This targets physicalism from an angle that doesn't depend on contested intuitions about qualia—it challenges the very possibility of rational justification.
 
-### The Delegatory Dualism Treatment (`topics/delegatory-dualism.md`)
+### The Delegatory Dualism Treatment ([topics/delegatory-dualism.md](/topics/delegatory-dualism/))
 
 - **Strongest point**: Clean presentation of Saad's solution to the exclusion problem, with clear separation of Saad's theory from Map integration.
 - **Notable quote**: "Pain causes the wince. The physical state could have caused it but didn't—its causal role was taken over by the experience it enabled."
 - **Why it works**: The military analogy (major preempting sergeant) makes the abstract causal structure immediately graspable.
 
-### The AI Consciousness Treatment (`topics/ai-consciousness.md`)
+### The AI Consciousness Treatment ([topics/ai-consciousness.md](/topics/ai-consciousness/))
 
 - **Strongest point**: The continual learning argument provides a precise criterion: systems closer to lookup tables in substitution space cannot be conscious.
 - **Why it works**: This avoids both overconfident denial and overcredulous attribution, providing principled grounds for skepticism about current AI systems.
 
-### The Vertiginous Question (`topics/vertiginous-question.md`)
+### The Vertiginous Question ([topics/vertiginous-question.md](/topics/vertiginous-question/))
 
 - **Strongest point**: Identifies a problem that goes beyond Chalmers' hard problem—why am I *this* particular conscious being?
 - **Why it works**: Shows the Map engaging with cutting-edge debates (Hellie, List, Roberts) while making the philosophical vertigo accessible.
 
-### The Tenets Document (`tenets/tenets.md`)
+### The Tenets Document ([tenets/tenets.md](/tenets/))
 
 - **Strongest point**: The five tenets form a mutually supporting framework where each commitment reinforces the others while remaining individually defensible.
 - **Why it works**: Unlike arbitrary axiom sets, these tenets address genuine philosophical challenges (hard problem, mental causation, personal identity) with a coherent package of responses.

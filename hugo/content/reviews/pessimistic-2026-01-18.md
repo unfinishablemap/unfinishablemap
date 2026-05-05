@@ -21,10 +21,10 @@ topics: []
 
 **Date**: 2026-01-18
 **Content reviewed**: Recent concept articles from sessions 159-185
-- `concepts/metacognition.md`
-- `concepts/sleep-and-consciousness.md`
-- `concepts/luck-objection.md`
-- `concepts/multi-mind-collapse-problem.md`
+- [concepts/metacognition.md](/concepts/metacognition/)
+- [concepts/sleep-and-consciousness.md](/concepts/sleep-and-consciousness/)
+- [concepts/luck-objection.md](/concepts/luck-objection/)
+- [concepts/multi-mind-collapse-problem.md](/concepts/multi-mind-collapse-problem/)
 
 ## Executive Summary
 
@@ -71,28 +71,28 @@ The reviewed articles are well-structured and integrate smoothly with site tenet
 ## Critical Issues
 
 ### Issue 1: Self-Undermining Metacognition Argument
-- **File**: `concepts/metacognition.md`
+- **File**: [concepts/metacognition.md](/concepts/metacognition/)
 - **Location**: Throughout, especially "Metacognition vs. Consciousness: The Dissociation Evidence"
 - **Problem**: The article argues that metacognitive reports about consciousness can be unreliable (blind insight, dissociation evidence). But the Map elsewhere relies heavily on introspective access to consciousness as evidence for its views. If metacognition dissociates from consciousness, our reports about consciousness—including reports that consciousness is non-physical—may be systematically mistaken. The argument proves too much.
 - **Severity**: Medium
 - **Recommendation**: Add a section addressing this tension. Possible response: dissociation evidence shows metacognition can fail to track consciousness, not that it typically does. Trained introspection (meditation) improves reliability. The Map's claims don't depend on perfect introspective access, only on access being generally reliable for trained observers.
 
 ### Issue 2: Phenomenology-Dependent Response to Luck Objection
-- **File**: `concepts/luck-objection.md`
+- **File**: [concepts/luck-objection.md](/concepts/luck-objection/)
 - **Location**: "The Phenomenology of Effort" section
 - **Problem**: The core response to the luck objection is: selection feels different from random reception; effort distinguishes genuine choice from lucky outcome. But critics like Dennett deny that phenomenology tracks causation. Zombies or zimbos would have the same phenomenology without the causal efficacy. The response assumes what's contested—that phenomenology reflects real causal processes.
 - **Severity**: Medium
 - **Recommendation**: Strengthen the argument by engaging with the zombie objection to phenomenology-based reasoning. Possible response: the Map's dualism already rejects zombies' conceivability (consciousness is fundamental, not epiphenomenal), so zombie-based objections to phenomenology are question-begging from the Map's perspective. Make this dialectical structure explicit.
 
 ### Issue 3: Convenient Boundary-Drawing in Multi-Mind Resolution
-- **File**: `concepts/multi-mind-collapse-problem.md`
+- **File**: [concepts/multi-mind-collapse-problem.md](/concepts/multi-mind-collapse-problem/)
 - **Location**: "Why This Works" section
 - **Problem**: The interface locality solution draws consciousness's causal boundary exactly where problems would arise. Consciousness affects one brain, not multiple brains (avoiding coordination), not external systems (avoiding psychokinesis), but also not zero brains (avoiding epiphenomenalism). This Goldilocks boundary may appear ad hoc—designed to avoid problems rather than derived from independent principles.
 - **Severity**: Medium
 - **Recommendation**: The article does argue the boundary "predicts itself" from the quantum Zeno mechanism, but this argument needs strengthening. Explain more explicitly why attention-based modulation *necessarily* limits to neural systems. Consider acknowledging this as a point where the theory makes a specific prediction: no consciousness effects beyond neural systems. If effects were found, the theory would need revision.
 
 ### Issue 4: IIT Citation Inconsistency
-- **File**: `concepts/sleep-and-consciousness.md`
+- **File**: [concepts/sleep-and-consciousness.md](/concepts/sleep-and-consciousness/)
 - **Location**: "Why Slow Waves Disrupt Consciousness" section
 - **Problem**: The article cites IIT's bistability explanation for consciousness loss during slow-wave sleep. But the Map elsewhere notes COGITATE challenged IIT's predictions. Using IIT when convenient while criticising it elsewhere creates inconsistency.
 - **Severity**: Low

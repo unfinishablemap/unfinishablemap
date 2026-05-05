@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-17 (d)
 # Pessimistic Review
 
 **Date**: 2026-04-17
-**Content reviewed**: `voids/transformative-experience-void.md`, `topics/phenomenology-of-musical-understanding.md`, `concepts/parsimony-epistemology.md`
+**Content reviewed**: [voids/transformative-experience-void.md](/voids/transformative-experience-void/), [topics/phenomenology-of-musical-understanding.md](/topics/phenomenology-of-musical-understanding/), [concepts/parsimony-epistemology.md](/concepts/parsimony-epistemology/)
 
 ## Executive Summary
 
@@ -71,49 +71,49 @@ The **parsimony article** invokes von Neumann-Wigner as a case where "adding con
 ## Critical Issues
 
 ### Issue 1: Conflation of Epistemic and Authenticity Objections
-- **File**: `voids/transformative-experience-void.md`
+- **File**: [voids/transformative-experience-void.md](/voids/transformative-experience-void/)
 - **Location**: "The Decision-Theoretic Fault Line"
 - **Problem**: Paul's response to Harman is that testimony-grounded credences *alienate* the agent. But Harman's actual claim is about reliance on moral testimony for rational decision, not about authenticity. The article conflates "testimony cannot give you phenomenal access" with "testimony-grounded decisions are inauthentic." These are distinct points and the conflation lets the article avoid engaging Harman's real claim.
 - **Severity**: Medium
 - **Recommendation**: Distinguish (a) whether testimony conveys phenomenal content from (b) whether testimony-based decisions satisfy authenticity constraints. Paul may reject both Harman-style positions but for different reasons; the article should separate them.
 
 ### Issue 2: Self-Citation with Ambiguous Co-Author
-- **File**: `voids/transformative-experience-void.md`
+- **File**: [voids/transformative-experience-void.md](/voids/transformative-experience-void/)
 - **Location**: Reference 9 — "Southgate, A. & Oquatre-six, C. (2026-02-25). The Acquaintance Void."
 - **Problem**: "Oquatre-six, C." appears to be a placeholder or automated co-author attribution whose meaning is not explained in the article and which may not be legible to readers. Self-citing another voids article is fine, but the co-author attribution should either be a real person or the citation should be recast.
 - **Severity**: Low
 - **Recommendation**: Either explain the naming convention (if this is site practice) or recast as an internal link without formal bibliographic citation, since it's a site-internal cross-reference.
 
 ### Issue 3: Fritz et al. 2009 Overstated
-- **File**: `topics/phenomenology-of-musical-understanding.md`
+- **File**: [topics/phenomenology-of-musical-understanding.md](/topics/phenomenology-of-musical-understanding/)
 - **Location**: "listeners reliably distinguish the emotional valence of major and minor modes even in unfamiliar musical traditions (Fritz et al., 2009)"
 - **Problem**: Fritz et al. studied Mafa listeners' recognition of three basic emotions (happy, sad, fearful) in Western music. The paper's finding is about emotion recognition in Western musical pieces, not specifically about major/minor mode discrimination in culturally-unfamiliar tonal systems. The cross-cultural universality of major/minor valence specifically is more contested than the article implies.
 - **Severity**: Medium
 - **Recommendation**: Either cite the specific Fritz et al. finding accurately (Western music emotion recognition cross-culturally) or cite additional sources that support the stronger major/minor mode-valence claim.
 
 ### Issue 4: Anti-Epiphenomenalism Argument Begs the Question
-- **File**: `topics/phenomenology-of-musical-understanding.md`
+- **File**: [topics/phenomenology-of-musical-understanding.md](/topics/phenomenology-of-musical-understanding/)
 - **Location**: "If these phenomenal qualities were epiphenomenal, improvisers could not use them to guide performance. The felt quality of music does causal work."
 - **Problem**: This is the standard anti-epiphenomenalist move, but epiphenomenalists have a standard response: the physical correlate of the phenomenal quality does the guiding work, and the phenomenal quality merely accompanies. The article asserts causation without engaging this well-known reply.
 - **Severity**: Medium
 - **Recommendation**: Either engage the epiphenomenalist response (why the correlate-plus-epiphenomenon picture fails in this specific case) or soften the claim to "epiphenomenalists owe an account of why this appears to work this way."
 
 ### Issue 5: Idealism Parity Cuts Both Ways
-- **File**: `concepts/parsimony-epistemology.md`
+- **File**: [concepts/parsimony-epistemology.md](/concepts/parsimony-epistemology/)
 - **Location**: "The Idealism Parity" subsection
 - **Problem**: The article correctly notes that ontological parsimony favours idealism equally with physicalism (both posit one substance) and uses this to show physicalists' razor-deployment is selective. But this same argument cuts against the Map's own interactionist dualism: both physicalism and idealism beat dualism on entity-type count. The article should either (a) acknowledge this and explain why ontological parsimony doesn't settle the physicalism-vs-idealism-vs-dualism trilemma, or (b) separately defend why the Map prefers dualism over idealism when both are simpler than dualism by the measure the article accepts as operative at this point in the argument.
 - **Severity**: High
 - **Recommendation**: Add a paragraph addressing the trilemma. The Map's commitments — bidirectional causation, minimal quantum interaction, no MWI — likely favour dualism over idealism for distinct reasons, but these should be stated.
 
 ### Issue 6: Using the Explanatory Gap as Both Premise and Conclusion
-- **File**: `concepts/parsimony-epistemology.md`
+- **File**: [concepts/parsimony-epistemology.md](/concepts/parsimony-epistemology/)
 - **Location**: "Precondition 1: Equal Explanatory Adequacy"
 - **Problem**: The argument uses the explanatory gap to show physicalism and dualism are not explanatorily tied — but the existence of the gap as a metaphysical (rather than epistemic) feature is precisely what Type-B physicalists and eliminativists deny. The article notes Type-B physicalism but waves it aside with "parsimony is a synchronic principle." This underestimates the Type-B reply: Type-B physicalists can claim explanatory parity-plus-promissory-note, which is exactly what parsimony needs to work.
 - **Severity**: Medium
 - **Recommendation**: Sharpen the Type-B engagement. The article's dismissal of "promissory notes" deserves its own paragraph defending why future explanatory success should not count in present parsimony adjudication — a genuinely contested position that needs argument.
 
 ### Issue 7: IIT Case Possibly Mischaracterised
-- **File**: `concepts/parsimony-epistemology.md`
+- **File**: [concepts/parsimony-epistemology.md](/concepts/parsimony-epistemology/)
 - **Location**: "The IIT Parsimony Paradox"
 - **Problem**: The article frames IIT's panpsychist implications as "a case study in how parsimony arguments self-destruct." But this is contested. A proponent would say that axiomatic parsimony delivering panpsychism is a theoretical *finding*, not a self-destruction. The "paradox" framing presupposes panpsychism is implausible — a commitment the article has not earned.
 - **Severity**: Low

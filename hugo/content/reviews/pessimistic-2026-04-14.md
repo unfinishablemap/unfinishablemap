@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-14
 # Pessimistic Review
 
 **Date**: 2026-04-14
-**Content reviewed**: `topics/comparative-phenomenology-of-mathematical-insight.md`, `topics/pragmatist-normative-bridge.md`, `concepts/metarepresentation-threshold.md`
+**Content reviewed**: [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/comparative-phenomenology-of-mathematical-insight/), [topics/pragmatist-normative-bridge.md](/topics/pragmatisms-path-to-dualism/), [concepts/metarepresentation-threshold.md](/concepts/metarepresentation-threshold/)
 
 ## Executive Summary
 
@@ -71,35 +71,35 @@ Three recent articles demonstrate the Map's characteristic ambition in synthesis
 ## Critical Issues
 
 ### Issue 1: Evidential Gap in Cross-Cultural Phenomenology
-- **File**: `topics/comparative-phenomenology-of-mathematical-insight.md`
+- **File**: [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/comparative-phenomenology-of-mathematical-insight/)
 - **Location**: §Variations in the Experience of Proof
 - **Problem**: The article claims cross-cultural phenomenological variation but derives all evidence from historical texts about mathematical *methods*, not first-person phenomenological *reports*. Hadamard surveyed only Western mathematicians. No controlled cross-cultural study of mathematical phenomenology is cited because none appears to exist. The article presents scholarly reconstruction as phenomenological evidence.
 - **Severity**: High
 - **Recommendation**: Either explicitly acknowledge this is a hypothesis requiring empirical verification, or qualify claims to distinguish textual evidence about mathematical traditions from evidence about mathematical experience. The article should state clearly: "No systematic cross-cultural study of mathematical phenomenology has been conducted" rather than treating its historical review as though it establishes phenomenological facts.
 
 ### Issue 2: The Bridge Argument's Circularity Problem
-- **File**: `topics/pragmatist-normative-bridge.md`
+- **File**: [topics/pragmatist-normative-bridge.md](/topics/pragmatisms-path-to-dualism/)
 - **Location**: §The Functionalist Escape Route Closes
 - **Problem**: The bridge argument claims the functionalist cannot identify demand-character with a functional property because evaluating that identification uses demand-character. But the dualist faces an identical reflexivity: evaluating whether demand-character is irreducible uses demand-character. The argument shows that evaluation is reflexive, not that demand-character is irreducible. The article does not address this symmetry.
 - **Severity**: High
 - **Recommendation**: Add a section addressing the symmetry objection. The strongest response would be: the dualist's reflexivity is coherent (using consciousness to investigate consciousness is unproblematic if consciousness is fundamental), while the functionalist's reflexivity is incoherent (using demand-character to evaluate whether demand-character is mere function undermines the evaluation). But this response needs to be explicitly made and defended, not assumed.
 
 ### Issue 3: "No Intermediate Cases" Overstated
-- **File**: `concepts/metarepresentation-threshold.md`
+- **File**: [concepts/metarepresentation-threshold.md](/concepts/metarepresentation-threshold/)
 - **Location**: §Evidence for a Discrete Threshold
 - **Problem**: The claim that "no species occupies an intermediate position" is stated as a finding when it reflects the current state of ethological research, which has significant gaps. Corvids (known for sophisticated cognition), cetaceans, and elephants have not been systematically tested for declarative metarepresentation. The article presents absence of evidence as evidence of discreteness.
 - **Severity**: Medium
 - **Recommendation**: Qualify: "Among species studied to date, no intermediate cases have been identified, though systematic testing remains limited to primates." This preserves the interesting observation while acknowledging its provisional status.
 
 ### Issue 4: Neural Evidence Cuts Both Ways
-- **File**: `concepts/metarepresentation-threshold.md`
+- **File**: [concepts/metarepresentation-threshold.md](/concepts/metarepresentation-threshold/)
 - **Location**: §Evidence for a Discrete Threshold
 - **Problem**: The article cites Brodmann area 10 as evidence for a categorical transition supporting dualism. But specific neural localisation is precisely what physicalism predicts: a function depends on a physical structure. The article needs to explain why neural specificity supports dualism rather than undermining it.
 - **Severity**: Medium
 - **Recommendation**: The dualist reading should be that the neural substrate is *necessary but not sufficient* — BA10 is the interface through which consciousness enables metarepresentation. But the article should explicitly argue this rather than letting the neural evidence stand uninterpreted.
 
 ### Issue 5: Either-Or Dilemma Is Incomplete
-- **File**: `topics/comparative-phenomenology-of-mathematical-insight.md`
+- **File**: [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/comparative-phenomenology-of-mathematical-insight/)
 - **Location**: §What Variation Reveals About Consciousness
 - **Problem**: The "if genuine difference / if different descriptions" dilemma omits a third possibility: that the descriptions are post-hoc rationalisations shaped by cultural philosophy, bearing little relation to either uniform or varying phenomenal experience. Under this interpretation, the variation in reports reveals the influence of philosophical frameworks on self-report, not anything about consciousness or qualia.
 - **Severity**: Medium

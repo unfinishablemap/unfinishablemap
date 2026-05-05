@@ -13,11 +13,11 @@ title: Pessimistic Review - 2026-02-09b
 
 **Date**: 2026-02-09
 **Content reviewed**:
-- `topics/the-interface-location-problem.md`
-- `topics/consciousness-evolution-problem.md`
-- `topics/princess-elizabeths-challenge.md`
-- `topics/phenomenal-conservatism-and-introspective-evidence.md`
-- `topics/phenomenology-of-belief-revision.md`
+- [topics/the-interface-location-problem.md](/topics/the-interface-problem/)
+- [topics/consciousness-evolution-problem.md](/topics/consciousness-evolution-and-biology/)
+- [topics/princess-elizabeths-challenge.md](/topics/history-of-the-interaction-problem/)
+- [topics/phenomenal-conservatism-and-introspective-evidence.md](/topics/phenomenal-authority-and-introspective-evidence/)
+- [topics/phenomenology-of-belief-revision.md](/topics/phenomenology-of-epistemic-judgment/)
 
 ## Executive Summary
 
@@ -79,7 +79,7 @@ The **Elisabeth** article's treatment of Elisabeth's alternative—"the soul nee
 
 ### Issue 2: Phenomenal Conservatism's Circularity
 
-- **File**: `topics/phenomenal-conservatism-and-introspective-evidence.md`
+- **File**: [topics/phenomenal-conservatism-and-introspective-evidence.md](/topics/phenomenal-authority-and-introspective-evidence/)
 - **Location**: "The Burden-Shifting Move" section
 - **Problem**: The article's central argument is that PC shifts the burden to materialists. But the article never seriously engages the possibility that the seeming of irreducibility is itself a product of introspective architecture rather than transparent access to phenomenal facts. The article handles the Schwitzgebel objection by distinguishing "focal" from "peripheral" phenomenal states and invoking Gertler's acquaintance approach—but this response presupposes that attended phenomenal states are epistemically privileged in exactly the way the article claims. The argument is: "When you attend to your experience, you are directly acquainted with it, so introspective reports about attended states are trustworthy." But direct acquaintance with a state does not guarantee that characterising the state as "irreducible" is accurate. You can be directly acquainted with pain without being epistemically positioned to determine whether pain is reducible to physical processes.
 - **Severity**: High
@@ -87,7 +87,7 @@ The **Elisabeth** article's treatment of Elisabeth's alternative—"the soul nee
 
 ### Issue 3: Belief Revision Article Overstates Phenomenological Consensus
 
-- **File**: `topics/phenomenology-of-belief-revision.md`
+- **File**: [topics/phenomenology-of-belief-revision.md](/topics/phenomenology-of-epistemic-judgment/)
 - **Location**: Throughout, especially "The Moment of Rupture" and "The Bootstrap Problem"
 - **Problem**: The article describes specific phenomenological features of belief revision ("epistemic vertigo," "loss of coherence," "involuntary recognition") as if they are universal and well-established. No empirical sources are cited for these claims. The article references William James on "letting go" but provides no citation to a specific passage. The claim that "those who have experienced significant belief revision recognise immediately" the moment of rupture is an appeal to shared experience, not evidence. Many people report gradual belief change without discrete rupture; the article's phenomenology may describe one pattern among several rather than the essential structure of belief revision.
 - **Severity**: Medium
@@ -95,7 +95,7 @@ The **Elisabeth** article's treatment of Elisabeth's alternative—"the soul nee
 
 ### Issue 4: Interface Location Article Overstates Empirical Support
 
-- **File**: `topics/the-interface-location-problem.md`
+- **File**: [topics/the-interface-location-problem.md](/topics/the-interface-problem/)
 - **Location**: Microtubules section, especially the epothilone B discussion
 - **Problem**: The article describes the epothilone B study as having "confirmed an Orch OR prediction" (line 55). This overstates the finding. The study showed microtubule stabilisation delays anaesthetic effect—a result consistent with microtubules playing *any* role in neural function, not specifically a quantum consciousness role. Orch OR's distinctive prediction is that microtubule quantum computations produce consciousness, not that microtubules contribute to neural function generally. The article also claims "revised decoherence estimates extend coherence times to 10⁻⁵–10⁻⁴ seconds—seven orders of magnitude beyond Tegmark's original calculations" without noting that these revised estimates are themselves contested and that even 10⁻⁴ seconds is still far below neural timescales.
 - **Severity**: High
@@ -103,7 +103,7 @@ The **Elisabeth** article's treatment of Elisabeth's alternative—"the soul nee
 
 ### Issue 5: Elisabeth Article's Quantum Response Is Incomplete
 
-- **File**: `topics/princess-elizabeths-challenge.md`
+- **File**: [topics/princess-elizabeths-challenge.md](/topics/history-of-the-interaction-problem/)
 - **Location**: "Relation to Site Perspective" section
 - **Problem**: The article presents quantum selection as sidesteping Elisabeth's causal interface problem: "consciousness need not make physical contact with neurons because it operates at the point where physics is already incomplete." But this response merely asserts that quantum indeterminacy provides "an opening" without explaining *how* consciousness exploits it. Elisabeth asked for a mechanism; the Map's response is structurally identical to Descartes' "three primitive notions"—asserting that the connection is a brute fact (consciousness selects among quantum outcomes) without explaining how a non-physical entity interacts with a physical system even at a point of indeterminacy. Saying "selection is not contact" is a terminological distinction, not a mechanistic explanation.
 - **Severity**: Medium

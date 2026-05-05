@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-02
 **Content reviewed**:
-- `voids/normative-void.md`
-- `voids/scale-void.md`
-- `voids/dreamless-sleep-void.md`
+- [voids/normative-void.md](/voids/normative-void/)
+- [voids/scale-void.md](/voids/quantitative-intuition-void/)
+- [voids/dreamless-sleep-void.md](/voids/sleep-consciousness-void/)
 
 ## Executive Summary
 

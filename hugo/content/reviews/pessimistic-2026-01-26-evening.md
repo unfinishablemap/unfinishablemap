@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-26
 **Content reviewed**:
-- `concepts/dopamine-selection-interface.md`
-- `concepts/agent-causation.md`
-- `concepts/motor-selection.md`
+- [concepts/dopamine-selection-interface.md](/concepts/motor-selection/)
+- [concepts/agent-causation.md](/concepts/agent-causation/)
+- [concepts/motor-selection.md](/concepts/motor-selection/)
 
 ## Executive Summary
 
@@ -113,7 +113,7 @@ Contemplative traditions don't deny experience—they deny the substantial exper
 
 ### Issue 1: The Three-Layer Model Doesn't Specify Consciousness's Contribution
 
-- **File**: `concepts/dopamine-selection-interface.md`
+- **File**: [concepts/dopamine-selection-interface.md](/concepts/motor-selection/)
 - **Location**: Lines 50-56 (The Implications for Selection Architecture section)
 - **Problem**: The article presents a "three-layer model": (1) neural computation generates options, (2) dopamine marks salience and sets threshold, (3) consciousness selects. But it never explains what consciousness does that distinguishes it from stochastic neural noise operating at the same level.
 
@@ -125,7 +125,7 @@ Lines 92-93 attempt an answer: "pure randomness produces arbitrary selection, no
 
 ### Issue 2: Agent Causation's Answer to the Luck Objection May Be Circular
 
-- **File**: `concepts/agent-causation.md`
+- **File**: [concepts/agent-causation.md](/concepts/agent-causation/)
 - **Location**: Lines 59-73 (The Luck Objection section)
 - **Problem**: The luck objection asks: in identical situations where the agent chooses differently, what explains the difference? The article responds with four points: (1) selection vs randomness, (2) phenomenology of effort, (3) reasons-guided selection, (4) retrocausal deepening.
 
@@ -137,7 +137,7 @@ Point 4 (retrocausality) doesn't solve the problem but deepens it: if selection 
 
 ### Issue 3: Schurger Reinterpretation May Not Help the Map's Position
 
-- **File**: `concepts/motor-selection.md`
+- **File**: [concepts/motor-selection.md](/concepts/motor-selection/)
 - **Location**: Lines 56-78 (The Libet Challenge—and Its Dissolution)
 - **Problem**: The article celebrates Schurger's reinterpretation: the RP is noise, not decision, so consciousness might contribute "earlier—selecting when to let noise cross threshold." But this reinterpretation cuts both ways.
 
@@ -149,7 +149,7 @@ The article's proposed answer (lines 72-73): "What consciousness contributes is 
 
 ### Issue 4: Wanting/Liking Dissociation Doesn't Require Consciousness
 
-- **File**: `concepts/dopamine-selection-interface.md`
+- **File**: [concepts/dopamine-selection-interface.md](/concepts/motor-selection/)
 - **Location**: Lines 58-91 (Wanting vs. Liking section)
 - **Problem**: The article describes Berridge's wanting/liking dissociation as evidence for the selection model: "Dopamine tags options as **worth considering**—makes them salient, gives them pull. It doesn't determine whether consideration succeeds. Consciousness chooses among options that dopamine has marked as mattering."
 
@@ -161,7 +161,7 @@ Line 91: "The neurotransmitter does the motivational work; the non-physical infl
 
 ### Issue 5: The Zombie Reformulation Begs the Question
 
-- **File**: `concepts/motor-selection.md`
+- **File**: [concepts/motor-selection.md](/concepts/motor-selection/)
 - **Location**: Lines 279-286 (The Zombie Reformulation section)
 - **Problem**: The article argues: "Consider a philosophical zombie that exhibits all motor behaviour—willed and instructed alike—without any phenomenal experience. For the illusionist, there's no explanatory difference between the zombie and us. But then why does the zombie show the same neural signatures (frontal theta, bidirectional coherence) for 'willed' versus 'instructed' action?"
 
@@ -173,7 +173,7 @@ The article then poses a dilemma: "Either the signatures cause phenomenology (co
 
 ### Issue 6: Process Philosophy Section Doesn't Help the Mechanism Problem
 
-- **File**: `concepts/motor-selection.md`
+- **File**: [concepts/motor-selection.md](/concepts/motor-selection/)
 - **Location**: Lines 288-302 (Process Philosophy Perspective)
 - **Problem**: The article introduces Whitehead's process philosophy as an "angle on motor selection": "Motor selection isn't consciousness *intervening* in physics; it's the experiential pole of neural occasions shaping how those occasions concresce."
 

@@ -24,7 +24,7 @@ topics: []
 
 ## Review Context
 
-Sixth deep review, conducted as a cross-review with `topics/four-quadrant-dualism-taxonomy.md` (created 2026-04-21). The taxonomy names a thickness axis (mind-side and physical-side ontological weight) and places Saad's delegatory dualism as "the cleanest Q1 (min-mind / min-physical) inhabitant in contemporary philosophy." It links to `delegatory-dualism` from its quadrant populations, related_articles, Further Reading, and references.
+Sixth deep review, conducted as a cross-review with [topics/four-quadrant-dualism-taxonomy.md](/topics/four-quadrant-dualism-taxonomy/) (created 2026-04-21). The taxonomy names a thickness axis (mind-side and physical-side ontological weight) and places Saad's delegatory dualism as "the cleanest Q1 (min-mind / min-physical) inhabitant in contemporary philosophy." It links to `delegatory-dualism` from its quadrant populations, related_articles, Further Reading, and references.
 
 The previous review (2026-04-18) declared the article fully stable across all dimensions after five deep reviews plus an outer review. This cross-review checks (a) whether the taxonomy's characterization of delegatory dualism is consistent with the article's own framing, and (b) whether reciprocal linking should be added.
 

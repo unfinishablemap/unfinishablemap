@@ -21,10 +21,10 @@ topics: []
 
 **Date**: 2026-01-16
 **Content reviewed**: New argument pages and concepts created since 2026-01-13
-- `arguments/functionalism.md` (Against Functionalism)
-- `arguments/epiphenomenalism.md` (Against Epiphenomenalism)
-- `arguments/many-worlds.md` (Against Many-Worlds)
-- `concepts/pairing-problem.md` (The Pairing Problem)
+- [arguments/functionalism.md](/concepts/functionalism/) (Against Functionalism)
+- [arguments/epiphenomenalism.md](/concepts/epiphenomenalism/) (Against Epiphenomenalism)
+- [arguments/many-worlds.md](/concepts/many-worlds/) (Against Many-Worlds)
+- [concepts/pairing-problem.md](/concepts/pairing-problem/) (The Pairing Problem)
 
 ## Executive Summary
 
@@ -65,28 +65,28 @@ The new argument pages are well-structured and present compelling cases against 
 ## Critical Issues
 
 ### Issue 1: Conceivability Arguments Treated as Decisive
-- **File**: `arguments/functionalism.md`
+- **File**: [arguments/functionalism.md](/concepts/functionalism/)
 - **Location**: "Objections and Responses" section, response to "Zombies Aren't Really Conceivable"
 - **Problem**: The response claims we have "direct epistemic access" to what we're conceiving and that zombie scenarios contain "no contradiction." But this doesn't address the strongest version of the objection: that conceivability intuitions are unreliable precisely *about* consciousness. Dennett and others argue we can't coherently imagine zombies; we only think we can because we don't fully grasp the physical facts.
 - **Severity**: Medium
 - **Recommendation**: Engage more substantively with the "zombies aren't conceivable" position. Acknowledge that if consciousness just *is* functional organization (which physicalists claim), then zombies would be as inconceivable as "water that isn't H₂O." the Map's response should explain why the cases differ—perhaps that with consciousness we have first-person access that we lacked with water.
 
 ### Issue 2: Born Rule Derivations Not Substantively Addressed
-- **File**: `arguments/many-worlds.md`
+- **File**: [arguments/many-worlds.md](/concepts/many-worlds/)
 - **Location**: "The Probability Problem" section
 - **Problem**: The article mentions decision-theoretic derivations but dismisses them as "ingenious but controversial" without explaining what the controversy is. Wallace's book-length treatment has convinced many philosophers of physics. Simply noting that "critics argue they smuggle in assumptions" without specifying which assumptions is weak engagement.
 - **Severity**: Medium
 - **Recommendation**: Either substantively engage with the decision-theoretic approach (explain what it claims, what its key assumptions are, and why the Map finds those assumptions problematic) or acknowledge this is an open technical debate where reasonable people disagree. The current treatment is too dismissive.
 
 ### Issue 3: Property Dualism's Pairing "Triviality" Claim Too Quick
-- **File**: `concepts/pairing-problem.md`
+- **File**: [concepts/pairing-problem.md](/concepts/pairing-problem/)
 - **Location**: "Why This Matters" section
 - **Problem**: The article says property dualism faces "no comparable difficulty" because properties of a brain are "paired with that brain trivially—they're properties of it." But this doesn't dissolve the problem; it relocates it. If phenomenal properties are properties of brain states, what makes *this* brain state have *this* phenomenal property? Why does brain state B1 instantiate phenomenal property P1 rather than P2? The pairing problem becomes a correlation problem.
 - **Severity**: Medium
 - **Recommendation**: Acknowledge that property dualism faces an analogue of the pairing problem: explaining why specific physical configurations instantiate specific phenomenal properties. This is arguably the explanatory gap in different dress. Don't claim property dualism escapes too easily.
 
 ### Issue 4: Missing "Relation to Site Perspective" Section
-- **File**: `arguments/functionalism.md`
+- **File**: [arguments/functionalism.md](/concepts/functionalism/)
 - **Location**: After "Objections and Responses"
 - **Problem**: The article has a section titled "Relation to Site Perspective" but it's brief and doesn't follow the standard structure. It should be a full section engaging with each relevant tenet.
 - **Severity**: Low

@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-28
 **Content reviewed**:
-- `concepts/binding-problem.md`
-- `voids/consciousness-only-territories.md`
-- `topics/animal-consciousness.md`
+- [concepts/binding-problem.md](/concepts/binding-problem/)
+- [voids/consciousness-only-territories.md](/voids/consciousness-only-territories/)
+- [topics/animal-consciousness.md](/topics/animal-consciousness/)
 
 ## Executive Summary
 
@@ -115,7 +115,7 @@ This isn't eliminativism—experience is real. But reifying consciousness as a *
 
 ### Issue 1: Quantum Holism Doesn't Explain Phenomenal Unity
 
-- **File**: `concepts/binding-problem.md`
+- **File**: [concepts/binding-problem.md](/concepts/binding-problem/)
 - **Location**: Lines 149-179 (The Quantum Alternative section)
 - **Problem**: The article claims quantum entanglement provides 'genuine physical holism' that solves BP2. But it doesn't explain *how* quantum holism produces phenomenal unity. Entangled particles form an irreducible whole in that measurement outcomes are correlated. But correlation (even necessary correlation) is not phenomenal unity. The article says 'entangled state has properties irreducible to parts'—but the hard problem asks why *any* physical properties, reducible or not, produce experience.
 
@@ -125,7 +125,7 @@ The same explanatory gap that blocks classical theories blocks quantum theories.
 
 ### Issue 2: Consciousness-Only Territories Argument Is Circular Against Illusionism
 
-- **File**: `voids/consciousness-only-territories.md`
+- **File**: [voids/consciousness-only-territories.md](/voids/consciousness-only-territories/)
 - **Location**: Lines 31-51 (Acquaintance Knowledge and Grounding Asymmetry sections)
 - **Problem**: The article argues that acquaintance knowledge demonstrates consciousness-only territories. But acquaintance knowledge is precisely what illusionists deny. The knowledge argument is contested—many physicalists deny Mary learns anything that isn't functional. The article treats acquaintance knowledge as established to argue for consciousness-only territories, making the argument circular against those who deny the premise.
 
@@ -135,7 +135,7 @@ The article's response to illusionism (lines 114-116) merely says denying consci
 
 ### Issue 3: Correlation-Causation Conflation in Animal Consciousness
 
-- **File**: `topics/animal-consciousness.md`
+- **File**: [topics/animal-consciousness.md](/topics/animal-consciousness/)
 - **Location**: Lines 109-123 (Consciousness and the Human-Ape Intelligence Gap section)
 - **Problem**: The article correlates expanded consciousness with human cognitive superiority over great apes. But as with the consciousness-as-intelligence-amplifier article reviewed previously, this conflates correlation with causation. Humans differ from great apes in working memory, language, prefrontal architecture, developmental period, and social learning environment. The article acknowledges the working memory difference (7±2 vs 2±1) but treats this as possibly reflecting 'consciousness's capacity' rather than being the explanatory factor itself.
 
@@ -145,7 +145,7 @@ If working memory expansion explains the cognitive gap, consciousness isn't doin
 
 ### Issue 4: Decoherence Objection Insufficiently Addressed
 
-- **File**: `concepts/binding-problem.md`
+- **File**: [concepts/binding-problem.md](/concepts/binding-problem/)
 - **Location**: Lines 167-173 (Decoherence debate)
 - **Problem**: The article cites Hagan et al.'s correction yielding 'seven orders of magnitude longer coherence' than Tegmark's femtosecond estimate. But seven orders of magnitude from femtoseconds yields nanoseconds at most—still far shorter than the millisecond timescales of neural binding. The article doesn't address this timescale mismatch.
 
@@ -155,7 +155,7 @@ The article also mentions Fisher's Posner molecule proposal, which addresses *di
 
 ### Issue 5: Inference Asymmetry (Animals vs AI) Overstated
 
-- **File**: `topics/animal-consciousness.md`
+- **File**: [topics/animal-consciousness.md](/topics/animal-consciousness/)
 - **Location**: Lines 94-103 (Why the Inference Is Stronger for Animals Than for AI)
 - **Problem**: The article argues inference to animal consciousness is 'stronger' than inference to AI consciousness based on: (1) evolutionary analogy, (2) biological similarity, (3) structural homology. But 'stronger' is doing heavy lifting. The same hard problem applies: we cannot verify consciousness in any system other than ourselves. The *type* of inference differs; whether the probability is higher is unclear.
 
@@ -165,7 +165,7 @@ The article says AI explanations (pattern-matching, statistical correlation) 'ex
 
 ### Issue 6: Process Philosophy Tension Not Resolved
 
-- **File**: `topics/animal-consciousness.md`
+- **File**: [topics/animal-consciousness.md](/topics/animal-consciousness/)
 - **Location**: Lines 159-163 (Process Philosophy Perspective)
 - **Problem**: The article cites Whitehead's process philosophy favorably—experience is fundamental, actual occasions are basic constituents. But process philosophy is panpsychist: all actual occasions involve experience. This conflicts with the Map's position that consciousness interfaces with 'suitably organized matter'—implying not all matter is conscious.
 

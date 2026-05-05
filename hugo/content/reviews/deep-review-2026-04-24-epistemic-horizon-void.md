@@ -26,7 +26,7 @@ topics: []
 
 ### Critical Issues Found
 - **LLM cliché pattern in opening paragraph** ("It is not… nor… It is the *second-order* gap…"): rewritten to lead with the positive claim — "The void operates at the *second order* — beyond first-order ignorance and beyond the catalogue of specific territories…"
-- **Frontmatter misclassification**: `[epistemology](/concepts/epistemology/)` listed under `topics:` but the file lives in `concepts/` (no `topics/epistemology.md` exists). Moved to `concepts:` and emptied `topics:`.
+- **Frontmatter misclassification**: `[epistemology](/concepts/epistemology/)` listed under `topics:` but the file lives in `concepts/` (no [topics/epistemology.md](/concepts/epistemology/) exists). Moved to `concepts:` and emptied `topics:`.
 - **Risky direct quotation attributed to Church**: "Unless you know it all…" was presented in quotation marks, but appears to be a paraphrase rather than a documented Church quote. Reframed as the "load-bearing qualifier in standard expositions" without quote marks, while preserving the historical note that Church's 1945 referee report contained the proof later published by Fitch.
 
 ### Medium Issues Found

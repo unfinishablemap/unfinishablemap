@@ -31,7 +31,7 @@ topics: []
 
 ## Context
 
-This deep review was scoped to a specific cross-review task: adding reciprocal cross-links from seven related voids to `voids/vagueness-void.md`, which was created earlier today (2026-04-30 14:18 UTC) and had zero inbound links from any active page. The article's pessimistic review (`pessimistic-2026-04-30c.md`) had already identified four high-medium content issues, deferred to a separate P3 refine-draft task. This review applied the cross-link installation chain task and noted the prior review's findings rather than re-flagging them.
+This deep review was scoped to a specific cross-review task: adding reciprocal cross-links from seven related voids to [voids/vagueness-void.md](/voids/vagueness-void/), which was created earlier today (2026-04-30 14:18 UTC) and had zero inbound links from any active page. The article's pessimistic review (`pessimistic-2026-04-30c.md`) had already identified four high-medium content issues, deferred to a separate P3 refine-draft task. This review applied the cross-link installation chain task and noted the prior review's findings rather than re-flagging them.
 
 ## Pessimistic Analysis Summary
 

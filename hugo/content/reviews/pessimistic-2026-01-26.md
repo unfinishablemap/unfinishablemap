@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-26
 **Content reviewed**:
-- `concepts/panpsychism.md`
-- `concepts/idealism.md`
-- `concepts/epiphenomenalism.md`
+- [concepts/panpsychism.md](/concepts/panpsychism/)
+- [concepts/idealism.md](/concepts/idealism/)
+- [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/)
 
 ## Executive Summary
 
@@ -112,7 +112,7 @@ The deepest irony: these articles defend consciousness's causal power to justify
 
 ### Issue 1: The Interaction Problem Is Dismissed, Not Solved
 
-- **File**: `concepts/panpsychism.md`
+- **File**: [concepts/panpsychism.md](/concepts/panpsychism/)
 - **Location**: Lines 106-116 (comparison table and surrounding text)
 - **Problem**: The article presents a table showing that the Map's framework "doesn't face" the combination problem while panpsychism "doesn't face" the interaction problem. It then claims: "The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. The Map addresses this via quantum mechanics: consciousness influences outcomes that physics leaves undetermined, so no physical law is violated."
 
@@ -128,7 +128,7 @@ The article treats the interaction problem as "addressed" when it's merely reloc
 
 ### Issue 2: Idealism's Strongest Forms Are Not Engaged
 
-- **File**: `concepts/idealism.md`
+- **File**: [concepts/idealism.md](/concepts/idealism/)
 - **Location**: Lines 56-73 (The Crucial Disagreement section)
 - **Problem**: The article presents idealism as claiming "matter is merely appearance" and then asks: "If there's nothing physical to influence—if 'physical' is just appearance—what is consciousness interacting with?"
 
@@ -140,7 +140,7 @@ But sophisticated idealists (Kastrup, Hoffman) don't say there's "nothing" to in
 
 ### Issue 3: Self-Stultification Argument Presented as More Decisive Than Warranted
 
-- **File**: `concepts/epiphenomenalism.md`
+- **File**: [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/)
 - **Location**: Lines 77-96
 - **Problem**: The article presents the self-stultification argument as "the most powerful objection" and concludes: "This makes epiphenomenalism epistemically self-undermining. Not logically contradictory—it could still be true—but impossible to hold rationally."
 
@@ -158,7 +158,7 @@ The article acknowledges (line 95) that "this doesn't prove epiphenomenalism fal
 
 ### Issue 4: Evolutionary Argument Against Epiphenomenalism Proves Too Much
 
-- **File**: `concepts/epiphenomenalism.md`
+- **File**: [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/)
 - **Location**: Lines 99-127 (evolutionary sections)
 - **Problem**: The article argues that consciousness's systematic tracking of adaptive features is "too systematic for coincidence" and that epiphenomenalism "must explain this as cosmic coincidence."
 
@@ -172,7 +172,7 @@ The argument against epiphenomenalism threatens to become an argument against an
 
 ### Issue 5: Contemplative Neuroscience Evidence Overstated
 
-- **File**: `concepts/epiphenomenalism.md`
+- **File**: [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/)
 - **Location**: Lines 129-141
 - **Problem**: The article cites meditation-induced neuroplasticity as "direct empirical evidence against epiphenomenalism." The argument: "The causal pathway runs: conscious intention → deliberate practice → neural reorganization. If phenomenal consciousness were causally inert, this pathway couldn't exist."
 
@@ -186,7 +186,7 @@ Distinct neural signatures for willed vs. instructed attention are exactly what 
 
 ### Issue 6: Slime Mold Section Concedes More Than Acknowledged
 
-- **File**: `concepts/idealism.md`
+- **File**: [concepts/idealism.md](/concepts/idealism/)
 - **Location**: Lines 121-133 (The Slime Mold Puzzle and A Dualist Response)
 - **Problem**: The article notes that slime molds solve mazes without neurons, and acknowledges this "gives idealism an advantage the Map's framework lacks." It then responds: "cognition and consciousness may dissociate. Slime molds process information (cognition) without phenomenal experience (consciousness)."
 

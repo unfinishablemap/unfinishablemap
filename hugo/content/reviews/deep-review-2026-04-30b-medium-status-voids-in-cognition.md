@@ -65,7 +65,7 @@ The article otherwise handles each persona's likely critique with appropriate he
 ### Attribution Accuracy Check
 
 All checks pass:
-- **Misattribution check**: ✓ Each of Heidegger, Frankfurt, Ratcliffe, Carruthers, Vervaeke is correctly characterised in their primary stance, with explicit hedges naming what each would not endorse. McGinn's gloss "consciousness-physics interface" is Map-standard vocabulary used consistently across the site (cf. `concepts/observational-closure.md`); not an introduced misattribution.
+- **Misattribution check**: ✓ Each of Heidegger, Frankfurt, Ratcliffe, Carruthers, Vervaeke is correctly characterised in their primary stance, with explicit hedges naming what each would not endorse. McGinn's gloss "consciousness-physics interface" is Map-standard vocabulary used consistently across the site (cf. [concepts/observational-closure.md](/concepts/observational-closure/)); not an introduced misattribution.
 - **Qualifier preservation check**: ✓ "Default" qualifiers preserved; "candidate" qualifier maintained throughout BI section.
 - **Position strength check**: ✓ "The Map's reading," "the Map adds," "the Map proposes" all clearly attributed; no "explores" → "argues" overstatement.
 - **Source/Map separation check**: ✓ Each tradition paragraph distinguishes the source author's framing from the Map's medium-status reading.

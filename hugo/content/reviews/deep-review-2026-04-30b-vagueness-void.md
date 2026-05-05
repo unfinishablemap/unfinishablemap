@@ -28,7 +28,7 @@ topics: []
 
 ## Context
 
-This deep review was scoped to a specific orphan-integration task. The vagueness-void article (created 2026-04-30 14:18 UTC) had already received reciprocal cross-links from seven sibling voids in the earlier 2026-04-30 deep-review pass, but the three navigation hubs the article cites in its body — `voids/voids.md`, `apex/taxonomy-of-voids.md`, `apex/conjunction-coalesce.md` — did not yet link back. Without hub registration, the void existed as content but was invisible to readers traversing the catalogue's primary navigation paths. This review installed the hub registrations that make the article reachable from the catalogue's navigation web.
+This deep review was scoped to a specific orphan-integration task. The vagueness-void article (created 2026-04-30 14:18 UTC) had already received reciprocal cross-links from seven sibling voids in the earlier 2026-04-30 deep-review pass, but the three navigation hubs the article cites in its body — [voids/voids.md](/voids/), [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/), [apex/conjunction-coalesce.md](/apex/conjunction-coalesce/) — did not yet link back. Without hub registration, the void existed as content but was invisible to readers traversing the catalogue's primary navigation paths. This review installed the hub registrations that make the article reachable from the catalogue's navigation web.
 
 The article's pessimistic review (`pessimistic-2026-04-30c.md`) had already identified four high-medium content issues, deferred to a separate P3 refine-draft task at todo.md:40. This review preserved that scope: hub registration runs *before* substantive content revisions, so that the article's place in the catalogue is established before its content shifts.
 

@@ -31,7 +31,7 @@ This review was triggered because `attention-interface-mechanisms.md` was identi
 None. The article content remains in good shape from the earlier review.
 
 ### Medium Issues Found
-- **Orphan status**: The article had only 1 inbound link (from `concepts/attention-as-interface.md`) despite being highly relevant to multiple other articles.
+- **Orphan status**: The article had only 1 inbound link (from [concepts/attention-as-interface.md](/concepts/attention-as-interface/)) despite being highly relevant to multiple other articles.
 - **Resolution**: Added cross-references from 7 related articles (see below).
 
 ## Optimistic Analysis Summary

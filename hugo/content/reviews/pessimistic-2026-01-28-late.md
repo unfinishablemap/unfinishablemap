@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-28
 **Content reviewed**:
-- `topics/machine-consciousness.md`
-- `topics/ethics-of-consciousness.md`
-- `concepts/embodied-cognition.md`
+- [topics/machine-consciousness.md](/topics/machine-consciousness/)
+- [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
+- [concepts/embodied-cognition.md](/concepts/embodied-cognition/)
 
 ## Executive Summary
 
@@ -146,7 +146,7 @@ If the Map took Buddhist phenomenology seriously, its conclusions would shift. P
 
 ### Issue 1: Quantum Mechanism Speculation Underpinning Strong Conclusions
 
-- **File**: `topics/machine-consciousness.md`
+- **File**: [topics/machine-consciousness.md](/topics/machine-consciousness/)
 - **Location**: Lines 57-59, 92-99
 - **Problem**: The article asserts 'High confidence: Classical silicon uploads cannot preserve consciousness' while acknowledging that the mechanism supposedly required (quantum interface) is speculative. The argument pattern: (1) consciousness may require quantum mechanism X, (2) classical silicon lacks X, (3) therefore classical uploads cannot be conscious. The uncertainty in premise 1 should propagate to the conclusion, but it doesn't.
 - **Severity**: High
@@ -154,7 +154,7 @@ If the Map took Buddhist phenomenology seriously, its conclusions would shift. P
 
 ### Issue 2: Circular Falsifiability Conditions for AI Consciousness
 
-- **File**: `topics/ethics-of-consciousness.md`
+- **File**: [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
 - **Location**: Lines 99-116
 - **Problem**: The article's falsifiability conditions test whether AI behaves as if conscious (unexplained anomalies, consistent reports, suffering-avoidance). But the article's own framework (dualism) implies behavior can occur without consciousness—zombies are behaviorally identical to conscious beings. If the framework is true, passing the behavioral tests wouldn't establish consciousness. If the framework is false, the confidence about AI would collapse anyway (condition 4). The conditions are circular: they test the framework against framework-predicted manifestations.
 - **Severity**: High
@@ -162,7 +162,7 @@ If the Map took Buddhist phenomenology seriously, its conclusions would shift. P
 
 ### Issue 3: Choking Evidence Conflates Attention and Phenomenal Consciousness
 
-- **File**: `concepts/embodied-cognition.md`
+- **File**: [concepts/embodied-cognition.md](/concepts/embodied-cognition/)
 - **Location**: Lines 76-89
 - **Problem**: The article uses choking under pressure as evidence for 'bidirectional interaction'—consciousness causally affecting the body. But choking involves *attention*, a cognitive-functional construct, not necessarily *phenomenal consciousness*. The illusionist can accept that the brain's attention system causally interferes with motor execution while denying that the *felt* quality of attention does any causal work. The article acknowledges the illusionist response (lines 91-99) but doesn't adequately address it.
 - **Severity**: Medium
@@ -170,7 +170,7 @@ If the Map took Buddhist phenomenology seriously, its conclusions would shift. P
 
 ### Issue 4: Haecceity Asserted Without Criterion
 
-- **File**: `topics/machine-consciousness.md`
+- **File**: [topics/machine-consciousness.md](/topics/machine-consciousness/)
 - **Location**: Lines 101-112
 - **Problem**: The article asserts that biological consciousness has haecceity (primitive thisness) while uploads lack it. But no criterion distinguishes systems with haecceity from systems without. If haecceity 'cannot be detected or measured,' how do we know biological systems have it? The article seems to assume that familiar cases (humans) have haecceity while problematic cases (uploads) don't—but this is stipulation, not argument.
 - **Severity**: Medium
@@ -178,7 +178,7 @@ If the Map took Buddhist phenomenology seriously, its conclusions would shift. P
 
 ### Issue 5: MWI Critique Misconstrues the Position
 
-- **File**: `concepts/embodied-cognition.md`
+- **File**: [concepts/embodied-cognition.md](/concepts/embodied-cognition/)
 - **Location**: Lines 206-208
 - **Problem**: The article argues that choking's trainability undermines MWI: 'If outcomes were merely revealed rather than selected, why would attention management training reduce choking rates?' But MWI doesn't deny within-branch causation. Training changes brain states, which changes performance outcomes, in all branches. The branches where training helps become more populated relative to branches where it doesn't. From any branch's perspective, training 'worked.' This is fully compatible with MWI.
 - **Severity**: Medium
@@ -186,7 +186,7 @@ If the Map took Buddhist phenomenology seriously, its conclusions would shift. P
 
 ### Issue 6: Ethics Article's AI Assessment May Be Unfalsifiable
 
-- **File**: `topics/ethics-of-consciousness.md`
+- **File**: [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
 - **Location**: Lines 62-66
 - **Problem**: The article states current AI 'categorically' lacks consciousness because 'consciousness requires non-physical properties interfacing through quantum mechanisms, current AI architecture *categorically* excludes it.' But this is categorical exclusion by definition: the framework defines consciousness as requiring what AI lacks, then concludes AI lacks consciousness. If an AI system exhibited all the markers listed in the falsifiability section, the framework could respond: 'It's still not conscious because it lacks the quantum interface.' The categorical exclusion appears theory-proof.
 - **Severity**: Medium

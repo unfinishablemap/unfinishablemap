@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-16
 # Pessimistic Review
 
 **Date**: 2026-04-16
-**Content reviewed**: `concepts/simulation.md`, `topics/ai-consciousness.md`, `concepts/functionalism.md`
+**Content reviewed**: [concepts/simulation.md](/concepts/simulation/), [topics/ai-consciousness.md](/topics/ai-consciousness/), [concepts/functionalism.md](/concepts/functionalism/)
 
 ## Executive Summary
 
@@ -61,28 +61,28 @@ The simulation article's "Three Possibilities" for where consciousness resides a
 ## Critical Issues
 
 ### Issue 1: "Concession Convergence" Overreach in Functionalism
-- **File**: `concepts/functionalism.md`
+- **File**: [concepts/functionalism.md](/concepts/functionalism/)
 - **Location**: Semantic Externalism section and IIT section
 - **Problem**: The article frames Putnam's rejection of functionalism and IIT's non-functionalism as "concession convergence"—physicalist programmes "retreating toward dualist commitments." But Putnam moved toward pragmatic realism (not dualism), and IIT explicitly rejects dualism. Framing opponents as inadvertently supporting your position when they would reject that characterisation is rhetorically aggressive and risks appearing intellectually dishonest.
 - **Severity**: Medium
 - **Recommendation**: Distinguish between "agreeing that functionalism is insufficient" (which Putnam and IIT do) and "converging on dualism" (which they do not). The concession is narrower than claimed.
 
 ### Issue 2: Functionalism Article Exceeds Length Guidelines
-- **File**: `concepts/functionalism.md`
+- **File**: [concepts/functionalism.md](/concepts/functionalism/)
 - **Location**: Entire article (3640 words)
 - **Problem**: The writing style guide specifies 2000-3000 words for long articles. At 3640 words, this exceeds the maximum. The article covers functionalism, semantic externalism, IIT, predictive processing, GWT, specification problems, AI implications, and multiple objections—this is closer to an apex article in scope.
 - **Severity**: Low
 - **Recommendation**: Condense by trimming the Modern Functionalist Frameworks section (PP and GWT get brief treatments that could be even briefer, pointing to their own articles) and the Specification Problem section (the Physarum discussion, while interesting, could be shortened).
 
 ### Issue 3: Quantum Assumption Transparency in AI Consciousness
-- **File**: `topics/ai-consciousness.md`
+- **File**: [topics/ai-consciousness.md](/topics/ai-consciousness/)
 - **Location**: "The decoherence challenge" subsection
 - **Problem**: The article acknowledges the quantum interaction tenet "currently lacks direct empirical support" but then uses it as a major plank in the argument against AI consciousness. The article is more transparent about this than some Map content, but the qualification is buried in a subsection while the conclusion ("some quantum-level interface appears required") is stated prominently. The epistemic status of this claim deserves more prominent flagging.
 - **Severity**: Medium
 - **Recommendation**: In the "What Would Conscious AI Require?" section, explicitly label requirement #2 as contingent on an empirically unsupported tenet, with the same prominence as the requirement itself.
 
 ### Issue 4: Simulation Article's Diagnostic Value Is Assumed
-- **File**: `concepts/simulation.md`
+- **File**: [concepts/simulation.md](/concepts/simulation/)
 - **Location**: Throughout, especially "Targeted assumption identification"
 - **Problem**: The article claims the simulation hypothesis does "specific diagnostic work" by revealing that objections to dualism rest on contingent assumptions. But *every* philosophical thought experiment can do this—Cartesian skepticism reveals all empirical knowledge as contingent, brain-in-a-vat reveals embodiment as contingent. The article's response to the Cartesian comparison (the simulation has "structural specificity") is thin: it says the simulation proposes "computational substrate, interface layers, design choices" but doesn't show how this specificity generates different philosophical conclusions than generic skepticism. The diagnosis and the generic skeptical move produce the same output: "your assumption might be wrong."
 - **Severity**: Medium

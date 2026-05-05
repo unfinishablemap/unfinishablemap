@@ -13,11 +13,11 @@ title: Pessimistic Review - 2026-02-08
 
 **Date**: 2026-02-08
 **Content reviewed**:
-- `topics/psychophysical-laws-bridging-mind-and-matter.md`
-- `concepts/mental-imagery.md`
-- `concepts/baseline-cognition.md`
-- `concepts/intentionality.md`
-- `concepts/psychophysical-coupling.md`
+- [topics/psychophysical-laws-bridging-mind-and-matter.md](/topics/psychophysical-laws-bridging-mind-and-matter/)
+- [concepts/mental-imagery.md](/concepts/mental-imagery/)
+- [concepts/baseline-cognition.md](/concepts/baseline-cognition/)
+- [concepts/intentionality.md](/concepts/intentionality/)
+- [concepts/psychophysical-coupling.md](/concepts/psychophysical-laws/)
 
 ## Executive Summary
 
@@ -82,7 +82,7 @@ But haecceity is precisely what Buddhist analysis dissolves. The "subject" who s
 ## Critical Issues
 
 ### Issue 1: The Post-Decoherence Retreat Is Unfalsifiable
-- **File**: `topics/psychophysical-laws-bridging-mind-and-matter.md` and `concepts/psychophysical-coupling.md`
+- **File**: [topics/psychophysical-laws-bridging-mind-and-matter.md](/topics/psychophysical-laws-bridging-mind-and-matter/) and [concepts/psychophysical-coupling.md](/concepts/psychophysical-laws/)
 - **Location**: Stapp mechanism sections, decoherence response
 - **Problem**: Both articles acknowledge the decoherence objection against Stapp's quantum Zeno mechanism, then retreat to a "post-decoherence selection" version. The bridging article states this version is "difficult to distinguish from 'outcomes are stochastic'" and the coupling article concedes it "generates fewer unique predictions." Both articles present this retreat as reasonable scientific caution—but a theory that becomes untestable when its testable version fails is not progressing, it's immunising itself.
 - **Severity**: High
@@ -96,28 +96,28 @@ But haecceity is precisely what Buddhist analysis dissolves. The "subject" who s
 - **Recommendation**: Identify which claims in each article rest on independent empirical evidence versus claims that depend on other Map articles. Mark the self-referential ones explicitly so readers can distinguish independent support from internal consistency.
 
 ### Issue 3: Motor Imagery Evidence Doesn't Distinguish Dualist from Physicalist Accounts
-- **File**: `concepts/mental-imagery.md`
+- **File**: [concepts/mental-imagery.md](/concepts/mental-imagery/)
 - **Location**: "Motor Imagery and the Reality of Mental Causation" section
 - **Problem**: The article presents motor imagery training effects as evidence for consciousness's causal efficacy. It acknowledges the physicalist response ("the *neural* rehearsal doing the work") but dismisses it by noting the voluntary/involuntary dissociation. However, this dissociation is *equally well explained* by different neural circuits being engaged (LPFC-mediated vs not). The argument needs an additional step: evidence that the phenomenal experience itself contributes beyond what the neural circuit differences account for. No such evidence is presented.
 - **Severity**: High
 - **Recommendation**: Downgrade the confidence level from "paradigm evidence for consciousness's causal efficacy" to "consistent with but not uniquely supporting" the causal efficacy thesis. Or identify a specific prediction that distinguishes the dualist from the physicalist account.
 
 ### Issue 4: "Mark of the Mental" Claim Overstated
-- **File**: `concepts/intentionality.md`
+- **File**: [concepts/intentionality.md](/concepts/intentionality/)
 - **Location**: Brentano's Thesis section and throughout
 - **Problem**: The article presents the failure of naturalisation projects as strong evidence for dualism. But (a) absence of a current explanation doesn't imply impossibility, (b) naturalisation projects for other phenomena (life, heredity, chemical bonding) also seemed impossible before succeeding, and (c) the article doesn't engage with promising recent work in 4E cognition (embodied, embedded, enacted, extended) that offers alternative naturalistic accounts of intentionality.
 - **Severity**: Medium
 - **Recommendation**: Acknowledge 4E cognition as a serious alternative. Add a section on enactivist accounts (Hutto & Myin's "Radicalizing Enactivism" argues for content without phenomenal character). The article would be stronger if it addressed the best naturalistic alternatives rather than a curated selection of already-defeated ones.
 
 ### Issue 5: Working Memory Numbers Are Misleading
-- **File**: `concepts/baseline-cognition.md`
+- **File**: [concepts/baseline-cognition.md](/concepts/baseline-cognition/)
 - **Location**: "Working Memory Capacity" section
 - **Problem**: The article states "Chimpanzee working memory holds approximately 2±1 items compared to human 7±2 (Miller's limit)." Miller's 7±2 has been significantly revised. Cowan's (2001) estimate of 4±1 is now standard for human working memory capacity. The three-to-four-fold expansion claimed in the article shrinks to roughly twofold if Cowan's number is used. This affects the "qualitative difference" argument: a twofold increase may produce quantitative rather than qualitative change.
 - **Severity**: Medium
 - **Recommendation**: Update to Cowan's 4±1 estimate with citation. Recalibrate the argument for what a twofold increase enables versus what requires qualitative expansion.
 
 ### Issue 6: Psychophysical Laws Article Presents Coalesced Content Without Integration Issues
-- **File**: `topics/psychophysical-laws-bridging-mind-and-matter.md`
+- **File**: [topics/psychophysical-laws-bridging-mind-and-matter.md](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - **Location**: Throughout
 - **Problem**: This article was coalesced from three source articles. Some residual structural issues remain: the "Five Constraints on Dualist Laws" (from Saad 2025) appear in the Chalmers section but aren't Chalmers' own framework. The convergence problem section at the end feels disconnected from the preceding mechanistic analysis. The article covers a vast range (Chalmers' framework, super-resistance, coupling mechanisms, decoherence, specification problem, convergence problem) and some transitions feel forced rather than organic.
 - **Severity**: Low

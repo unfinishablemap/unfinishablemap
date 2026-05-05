@@ -58,7 +58,7 @@ topics: []
 
 ## Remaining Items
 
-None. The article addresses its scope (reductionism's failure at consciousness) effectively. The overlap with `concepts/reductionism.md` is acceptable — the topics article builds an argument using the concept page's framework rather than duplicating it.
+None. The article addresses its scope (reductionism's failure at consciousness) effectively. The overlap with [concepts/reductionism.md](/concepts/reductionism/) is acceptable — the topics article builds an argument using the concept page's framework rather than duplicating it.
 
 ## Stability Notes
 

@@ -55,11 +55,11 @@ These are maintenance items that do not affect tenet alignment but were identifi
 
 | File | Broken Anchor | Correct Anchor |
 |------|--------------|----------------|
-| `topics/animal-consciousness.md` | `[tenets](/tenets/#occams-razor)` | `[tenets](/tenets/#occams-limits)` |
-| `topics/consciousness-and-the-philosophy-of-biology.md` | `[tenets](/tenets/#minimal-interaction)` | `[tenets](/tenets/#minimal-quantum-interaction)` |
-| `topics/consciousness-and-the-problem-of-measurement-standards.md` | `[tenets](/tenets/#bidirectional)` | `[tenets](/tenets/#bidirectional-interaction)` |
-| `topics/phenomenal-normativity-environmental-ethics.md` | `[tenets](/tenets/#minimal-interaction)` | `[tenets](/tenets/#minimal-quantum-interaction)` |
-| `topics/social-construction-of-self-vs-phenomenal-self.md` | `[tenets](/tenets/#occams-razor)` | `[tenets](/tenets/#occams-limits)` |
+| [topics/animal-consciousness.md](/topics/animal-consciousness/) | `[tenets](/tenets/#occams-razor)` | `[tenets](/tenets/#occams-limits)` |
+| [topics/consciousness-and-the-philosophy-of-biology.md](/topics/consciousness-evolution-and-biology/) | `[tenets](/tenets/#minimal-interaction)` | `[tenets](/tenets/#minimal-quantum-interaction)` |
+| [topics/consciousness-and-the-problem-of-measurement-standards.md](/topics/consciousness-and-the-problem-of-measurement-standards/) | `[tenets](/tenets/#bidirectional)` | `[tenets](/tenets/#bidirectional-interaction)` |
+| [topics/phenomenal-normativity-environmental-ethics.md](/topics/phenomenal-normativity-environmental-ethics/) | `[tenets](/tenets/#minimal-interaction)` | `[tenets](/tenets/#minimal-quantum-interaction)` |
+| [topics/social-construction-of-self-vs-phenomenal-self.md](/topics/social-construction-of-self-vs-phenomenal-self/) | `[tenets](/tenets/#occams-razor)` | `[tenets](/tenets/#occams-limits)` |
 
 ### AI Refinement Logs Not Yet Removed (22 files)
 
@@ -69,8 +69,8 @@ These files contain HTML comment blocks with AI refinement logs that should be r
 
 ### Other Maintenance Items
 
-- `topics/language-recursion-and-consciousness.md` — Contains inline comment `[Andy: I've no idea how it came up with this]` that should be removed or moved before publication.
-- `topics/purpose-and-alignment.md` — Contains an inadvertent mid-sentence "The Unfinishable Map" insertion that disrupts a quoted passage.
+- [topics/language-recursion-and-consciousness.md](/topics/language-recursion-and-consciousness/) — Contains inline comment `[Andy: I've no idea how it came up with this]` that should be removed or moved before publication.
+- [topics/purpose-and-alignment.md](/topics/purpose-and-alignment/) — Contains an inadvertent mid-sentence "The Unfinishable Map" insertion that disrupts a quoted passage.
 
 ## Files Passing All Checks
 

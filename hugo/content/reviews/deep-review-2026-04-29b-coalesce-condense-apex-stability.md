@@ -63,10 +63,10 @@ Three hubs were intentionally not given reciprocal links: `apex.md` is a 22-line
 - Reciprocal navigation paths now exist from four hub destinations back to the methodology article: apex-articles (curation context), taxonomy-of-voids (canonical apex case), meta-epistemology-of-limits (canonical demonstration case), and automation (workflow context). This resolves the asymmetry where the methodology article cited many hubs but few hubs cited it back.
 
 ### Cross-links Added (in destination articles)
-- `apex/apex-articles.md`: added to `related_articles` and a new Guidelines bullet noting that source-side refactors trigger the triple-discipline
-- `apex/taxonomy-of-voids.md`: added to `related_articles`
-- `voids/meta-epistemology-of-limits.md`: added to `related_articles`
-- `project/automation.md`: added to `related_articles` and a new Safety Mechanisms bullet describing the discipline as part of catalogue coherence
+- [apex/apex-articles.md](/apex/apex-articles/): added to `related_articles` and a new Guidelines bullet noting that source-side refactors trigger the triple-discipline
+- [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/): added to `related_articles`
+- [voids/meta-epistemology-of-limits.md](/voids/meta-epistemology-of-limits/): added to `related_articles`
+- [project/automation.md](/project/automation/): added to `related_articles` and a new Safety Mechanisms bullet describing the discipline as part of catalogue coherence
 
 ## Length Status
 

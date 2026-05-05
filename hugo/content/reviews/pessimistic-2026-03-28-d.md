@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-03-28
 # Pessimistic Review
 
 **Date**: 2026-03-28
-**Content reviewed**: `concepts/simulation.md` (post March 27 deep review revision)
+**Content reviewed**: [concepts/simulation.md](/concepts/simulation/) (post March 27 deep review revision)
 
 ## Executive Summary
 
@@ -65,28 +65,28 @@ The article also treats indexical identity—'why am I *this* particular conscio
 ## Critical Issues
 
 ### Issue 1: The Player Analogy Concedes Its Own Failure
-- **File**: `concepts/simulation.md`
+- **File**: [concepts/simulation.md](/concepts/simulation/)
 - **Location**: Mind-Matter Interface section (lines 58-60)
 - **Problem**: The article acknowledges the analogy "breaks down in a way that limits its force" because players exist outside while we're inside. It then retreats to "it shows only that the *concept* of such coupling is coherent." But conceptual coherence of consciousness-physics coupling was never seriously disputed—even eliminativists grant the concept is coherent. The section devotes ~300 words to an argument whose conclusion is trivial.
 - **Severity**: Medium
 - **Recommendation**: Either substantially compress this section (the concession does more work than the argument) or strengthen by engaging with internal coupling models—e.g., emergent computation within cellular automata that modifies its own rules.
 
 ### Issue 2: MWI Section Uses Circular Reasoning
-- **File**: `concepts/simulation.md`
+- **File**: [concepts/simulation.md](/concepts/simulation/)
 - **Location**: No Many Worlds section (lines 95-100)
 - **Problem**: The section presents two possibilities for how simulation handles quantum mechanics and simply proceeds with the one that favours the Map's position. The preference for single-outcome simulation is grounded in it avoiding "the indexical identity problem that MWI faces"—but this presupposes the indexical argument works, which is the very claim MWI proponents contest. The phenomenological argument ("the felt reality of selecting one option aligns better with genuine single outcomes") cannot distinguish hypotheses that predict identical phenomenology.
 - **Severity**: High
 - **Recommendation**: Acknowledge that simulation is agnostic between single-outcome and branching implementations. Present both honestly. The section currently reads as if simulation supports No Many Worlds, when it equally supports MWI depending on the substrate.
 
 ### Issue 3: "Diagnostic Tool" Framing Masks Unfalsifiability
-- **File**: `concepts/simulation.md`
+- **File**: [concepts/simulation.md](/concepts/simulation/)
 - **Location**: Status section (lines 176-181) and Triviality Objection (lines 143-148)
 - **Problem**: Calling the hypothesis a "diagnostic tool" is a framing strategy that makes unfalsifiability seem purposeful rather than limiting. The Triviality Objection response claims the hypothesis does "specific diagnostic work" but doesn't show why this diagnostic power exceeds that of any thought experiment postulating radically different metaphysics. The claimed specificity—"targeted assumption identification"—applies equally to any counterfactual world where physics is different.
 - **Severity**: Medium
 - **Recommendation**: Add a sentence acknowledging this meta-objection: that the diagnostic power may be an artefact of choosing a thought experiment whose structure aligns with interactionist dualism, rather than a feature of the simulation hypothesis specifically.
 
 ### Issue 4: Computational Complexity Gap
-- **File**: `concepts/simulation.md`
+- **File**: [concepts/simulation.md](/concepts/simulation/)
 - **Location**: Physical Laws section (lines 63-64), MWI section (lines 95-100)
 - **Problem**: For an article built on the metaphor of reality as computation, it never addresses computational complexity. Can quantum physics be classically simulated? (Almost certainly not for large systems, per BQP ≠ BPP conjecture.) If the substrate is quantum, what are the implications for the MWI question? The February pessimistic review flagged this same gap; the March revision has not addressed it.
 - **Severity**: Medium

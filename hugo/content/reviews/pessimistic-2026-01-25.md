@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-25
 **Content reviewed**:
-- `topics/free-will.md`
-- `concepts/phenomenal-consciousness.md`
-- `topics/emotional-consciousness.md`
+- [topics/free-will.md](/topics/free-will/)
+- [concepts/phenomenal-consciousness.md](/concepts/phenomenal-consciousness/)
+- [topics/emotional-consciousness.md](/topics/emotion-and-dualism/)
 
 ## Executive Summary
 
@@ -109,7 +109,7 @@ The free will article's meditation section comes close: 'witness mode' involves 
 
 ### Issue 1: Quantum Zeno Mechanism Overreliance Contradicts Style Guide
 
-- **File**: `topics/free-will.md`
+- **File**: [topics/free-will.md](/topics/free-will/)
 - **Location**: Lines 168-170, 348-351, 442-446
 - **Problem**: The writing style guide explicitly warns: 'Quantum Zeno effect—A possible mechanism for consciousness-brain interaction, but speculative. Reference when discussing how interaction might work; don't structure arguments around it.' Yet the free will article mentions quantum Zeno mechanism at least 7 times, making it structurally central to the argument. The article's case would be significantly weaker if the quantum Zeno mechanism were removed.
 - **Severity**: High
@@ -117,7 +117,7 @@ The free will article's meditation section comes close: 'witness mode' involves 
 
 ### Issue 2: Pain Asymbolia Interpretation Overstated
 
-- **File**: `topics/emotional-consciousness.md`
+- **File**: [topics/emotional-consciousness.md](/topics/emotion-and-dualism/)
 - **Location**: Lines 56-58, 79-84, 124-126
 - **Problem**: The article treats pain asymbolia as decisive evidence that phenomenal valence is irreducible and causally efficacious. But the inference is contested. Alternative interpretation: asymbolia involves different neural processing (not the same functional processing minus a phenomenal property). The dissociation may be between neural systems rather than between function and phenomenality. The article presents one interpretation as established when it's contested.
 - **Severity**: Medium
@@ -125,7 +125,7 @@ The free will article's meditation section comes close: 'witness mode' involves 
 
 ### Issue 3: Illusionism Response Inadequate
 
-- **File**: `concepts/phenomenal-consciousness.md`
+- **File**: [concepts/phenomenal-consciousness.md](/concepts/phenomenal-consciousness/)
 - **Location**: Lines 176-201
 - **Problem**: The illusionism section presents the view, then dismisses it as 'denying what is most immediately known.' But illusionists don't deny that states exist—they deny those states have the properties folk phenomenology attributes. Frankish's response is more sophisticated than the article credits: phenomenal seemings can exist as representational states without phenomenal properties being instantiated. The regress objection ('illusions require phenomenology') assumes what illusionists deny.
 - **Severity**: Medium
@@ -133,7 +133,7 @@ The free will article's meditation section comes close: 'witness mode' involves 
 
 ### Issue 4: Retrocausality Creates Unfalsifiability
 
-- **File**: `topics/free-will.md`
+- **File**: [topics/free-will.md](/topics/free-will/)
 - **Location**: Lines 183-204
 - **Problem**: The retrocausality section attempts to answer temporal objections (Libet's findings, neural prediction) by positing that consciousness operates 'atemporally.' But if consciousness selects 'which temporal sequence becomes real,' any timing evidence can be explained away as part of the selected sequence. The framework becomes unfalsifiable: neural activity preceding awareness is just part of what consciousness selected, not evidence against conscious causation.
 - **Severity**: High
@@ -141,7 +141,7 @@ The free will article's meditation section comes close: 'witness mode' involves 
 
 ### Issue 5: Zombie Conceivability Treated as Metaphysically Decisive
 
-- **File**: `concepts/phenomenal-consciousness.md`
+- **File**: [concepts/phenomenal-consciousness.md](/concepts/phenomenal-consciousness/)
 - **Location**: Lines 109-119
 - **Problem**: The article presents zombie conceivability as strong evidence against materialism. But the move from conceivability to possibility is contested precisely for consciousness. We can conceive of water not being H₂O—this doesn't show water might not be H₂O. The article acknowledges 'critics challenge premise 1 (zombies may not be genuinely conceivable) or the move from conceivability to possibility' but doesn't engage with the strongest versions of these challenges.
 - **Severity**: Medium
@@ -149,7 +149,7 @@ The free will article's meditation section comes close: 'witness mode' involves 
 
 ### Issue 6: Neural Signature Evidence Overstated
 
-- **File**: `topics/free-will.md`
+- **File**: [topics/free-will.md](/topics/free-will/)
 - **Location**: Lines 316-377
 - **Problem**: The article claims neural signatures (frontal theta, bidirectional coherence) provide evidence that consciousness genuinely selects. But neural differences between willed and automatic action are exactly what physicalists expect: different types of processing should have different neural signatures. The differences support the *phenomenological* claim (willed action feels different) without supporting the *metaphysical* claim (consciousness is a non-physical selector). The inference from phenomenology to metaphysics requires additional argument.
 - **Severity**: Medium

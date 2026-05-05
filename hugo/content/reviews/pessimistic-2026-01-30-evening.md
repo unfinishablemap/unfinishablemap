@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-30
 **Content reviewed**:
-- `topics/authentic-vs-inauthentic-choice.md`
-- `concepts/existentialism.md`
-- `concepts/phenomenology-of-choice.md`
+- [topics/authentic-vs-inauthentic-choice.md](/topics/authentic-vs-inauthentic-choice/)
+- [concepts/existentialism.md](/concepts/nihilism-and-existentialism/)
+- [concepts/phenomenology-of-choice.md](/concepts/phenomenology-of-choice-and-volition/)
 
 ## Executive Summary
 
@@ -139,7 +139,7 @@ The cluster treats consciousness as something that exercises selection. Buddhist
 
 ### Issue 1: Correlation-Causation Gap in Selection Function Claim
 
-- **File**: `topics/authentic-vs-inauthentic-choice.md`
+- **File**: [topics/authentic-vs-inauthentic-choice.md](/topics/authentic-vs-inauthentic-choice/)
 - **Location**: Lines 126-133
 - **Problem**: The article claims that authentic choice engages the consciousness selection function while inauthentic choice doesn't, based on the correlation between authenticity and effort phenomenology. But correlation doesn't establish that the phenomenology does causal work. The selection function could operate identically in both cases, with phenomenology merely tracking which selections engage frontal systems. The article needs an argument that phenomenology makes a difference to selection outcomes, not just that phenomenology correlates with deliberative processing.
 - **Severity**: High
@@ -147,7 +147,7 @@ The cluster treats consciousness as something that exercises selection. Buddhist
 
 ### Issue 2: Regress Argument Proves Too Much
 
-- **File**: `concepts/existentialism.md`
+- **File**: [concepts/existentialism.md](/concepts/nihilism-and-existentialism/)
 - **Location**: Lines 47-58
 - **Problem**: The regress argument against illusionism—that misrepresentation presupposes presentation, so something must experience the illusion—would seem to establish phenomenal consciousness wherever there's self-representation. This would include sophisticated AI systems that represent their own states. Either the argument establishes phenomenality in such systems (counterintuitive) or something more than self-representation is required (which the argument doesn't specify). The article needs to address why the regress terminates in genuine phenomenality rather than in arbitrarily complex functional states.
 - **Severity**: High
@@ -155,7 +155,7 @@ The cluster treats consciousness as something that exercises selection. Buddhist
 
 ### Issue 3: Neural Evidence Supports Both Sides
 
-- **File**: `topics/authentic-vs-inauthentic-choice.md`
+- **File**: [topics/authentic-vs-inauthentic-choice.md](/topics/authentic-vs-inauthentic-choice/)
 - **Location**: Lines 135-139
 - **Problem**: The article cites frontal theta, 300ms decision windows, and frontoparietal coherence as supporting the authenticity-selection link. But physicalists would cite the same evidence: different phenomenologies correspond to different brain states, exactly as physicalism predicts. The neural evidence shows correlation between phenomenology and brain activity, not that phenomenology contributes beyond that activity.
 - **Severity**: Medium
@@ -163,7 +163,7 @@ The cluster treats consciousness as something that exercises selection. Buddhist
 
 ### Issue 4: Quantum Timing Problems Unaddressed
 
-- **File**: `concepts/phenomenology-of-choice.md`
+- **File**: [concepts/phenomenology-of-choice.md](/concepts/phenomenology-of-choice-and-volition/)
 - **Location**: Lines 122-134
 - **Problem**: The article invokes the quantum Zeno mechanism without addressing the timing mismatch: neural decoherence happens in femtoseconds while conscious deliberation takes hundreds of milliseconds. The 300ms decision window is cited as supporting quantum selection, but this window is billions of times longer than decoherence timescales. The article needs to address how consciousness can interface with quantum processes that have long since decohered.
 - **Severity**: Medium
@@ -171,7 +171,7 @@ The cluster treats consciousness as something that exercises selection. Buddhist
 
 ### Issue 5: MWI Response Underdeveloped
 
-- **File**: `concepts/existentialism.md`
+- **File**: [concepts/existentialism.md](/concepts/nihilism-and-existentialism/)
 - **Location**: Lines 93-98
 - **Problem**: The article claims MWI would dissolve existentialist choice-weight because 'every choice produces copies making every alternative.' But MWI defenders argue that authentic choice affects branch weights—amplitude flows preferentially to branches where deliberative processing has its effect. The article dismisses MWI's compatibility with choice-weight without engaging the branch-weight response.
 - **Severity**: Medium
@@ -179,7 +179,7 @@ The cluster treats consciousness as something that exercises selection. Buddhist
 
 ### Issue 6: Buddhist Self-Emptiness Not Adequately Addressed
 
-- **File**: `topics/authentic-vs-inauthentic-choice.md`
+- **File**: [topics/authentic-vs-inauthentic-choice.md](/topics/authentic-vs-inauthentic-choice/)
 - **Location**: Lines 157-162
 - **Problem**: The article cites Buddhist contemplative practice as revealing the gap where authentic choice occurs. But Buddhist philosophy argues that the agent who chooses in that gap is itself empty—there is choosing without a chooser. The article treats witnessing as enabling authentic agency; Buddhist analysis treats witnessing as revealing the absence of substantial agency. This tension isn't addressed.
 - **Severity**: Medium

@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-01
 **Content reviewed**:
-- `concepts/sleep-and-consciousness.md`
-- `concepts/materialism.md`
-- `voids/phenomenology-of-error-recognition.md`
+- [concepts/sleep-and-consciousness.md](/concepts/sleep-and-consciousness/)
+- [concepts/materialism.md](/concepts/materialism/)
+- [voids/phenomenology-of-error-recognition.md](/voids/phenomenology-of-self-awareness/)
 
 ## Executive Summary
 
@@ -117,7 +117,7 @@ The article's section on contemplative perspectives mentions Buddhist *avidyā* 
 
 ### Issue 1: Sleep Article Conflates Phenomenology with Metaphysics
 
-- **File**: `concepts/sleep-and-consciousness.md`
+- **File**: [concepts/sleep-and-consciousness.md](/concepts/sleep-and-consciousness/)
 - **Location**: Lines 39-67
 - **Problem**: The article moves from empirical observations (consciousness varies during sleep, posterior hot zone correlates with dreaming) to metaphysical conclusions (this reveals the "consciousness-brain interface") without adequate argumentation. The same empirical findings are fully consistent with identity theories: different neural configurations produce different cognitive profiles, with no interface required. The article needs an argument for why interface language is preferable to identity language given identical predictions.
 - **Severity**: High
@@ -125,7 +125,7 @@ The article's section on contemplative perspectives mentions Buddhist *avidyā* 
 
 ### Issue 2: Filter Theory vs Illusionism Underdetermined
 
-- **File**: `concepts/sleep-and-consciousness.md`
+- **File**: [concepts/sleep-and-consciousness.md](/concepts/sleep-and-consciousness/)
 - **Location**: Lines 110-124
 - **Problem**: The article claims that contemplative reports of "awareness through 'unconscious' states" support filter theory, while illusionist interpretations are supposedly "resisted" by asymmetries like temporal collapse during dreamless sleep. But illusionists can accommodate all cited phenomena: temporal collapse occurs when no self-model is being generated; lucid dreaming shows the self-model reactivating; sleep yoga reports reflect post-hoc construction. The article doesn't identify what finding would favor filter theory specifically over illusionism.
 - **Severity**: High
@@ -133,7 +133,7 @@ The article's section on contemplative perspectives mentions Buddhist *avidyā* 
 
 ### Issue 3: Error-Blindness Doesn't Specifically Support Dualism
 
-- **File**: `voids/phenomenology-of-error-recognition.md`
+- **File**: [voids/phenomenology-of-error-recognition.md](/voids/phenomenology-of-self-awareness/)
 - **Location**: Lines 93-112
 - **Problem**: The article claims error-blindness supports the Occam's Razor Has Limits tenet, dualism (through phenomenology of insight), and bidirectional interaction (through epistemic emotions). But error-blindness is fully compatible with—indeed predicted by—physicalism. Evolution producing good-enough cognition with systematic blind spots requires no non-physical component. The phenomenology of insight (suddenness, surprise) has neural correlates studied extensively by Kounios and Beeman. Epistemic emotions doing causal work requires only that certain brain states influence other brain states. None of this evidence specifically favors dualism.
 - **Severity**: High
@@ -141,7 +141,7 @@ The article's section on contemplative perspectives mentions Buddhist *avidyā* 
 
 ### Issue 4: Eliminativism Response Still Incomplete
 
-- **File**: `concepts/materialism.md`
+- **File**: [concepts/materialism.md](/concepts/materialism/)
 - **Location**: Lines 65-78
 - **Problem**: The article now acknowledges Churchland's functional-states response but claims it "shifts rather than resolves the problem." The claimed shift: "what explains the differential processing that constitutes the illusion of rich qualitative character?" But eliminativists have an answer: there is no illusion of qualitative character; there's just differential processing that's *misrepresented by folk psychology* as having qualitative character. The "illusion" framing already concedes too much to the dualist—eliminativists reject the category, they don't explain it.
 - **Severity**: Medium
@@ -149,7 +149,7 @@ The article's section on contemplative perspectives mentions Buddhist *avidyā* 
 
 ### Issue 5: Quantum Claims Not Connected to Sleep Phenomenology
 
-- **File**: `concepts/sleep-and-consciousness.md`
+- **File**: [concepts/sleep-and-consciousness.md](/concepts/sleep-and-consciousness/)
 - **Location**: Lines 133-134
 - **Problem**: The article claims the Map proposes consciousness operates through "attention-mediated quantum Zeno selection" and makes predictions about lucid dreaming neural signatures. But the predicted signatures (prefrontal reactivation, beta/gamma resonance) follow from standard neuroscience: lucid dreaming involves metacognition; metacognition involves prefrontal cortex; therefore lucid dreaming involves prefrontal activation. No quantum mechanics is needed to derive this prediction. The quantum Zeno mechanism is explanatorily idle here.
 - **Severity**: Medium
@@ -157,7 +157,7 @@ The article's section on contemplative perspectives mentions Buddhist *avidyā* 
 
 ### Issue 6: Bootstrap Problem Doesn't Favor Dualism
 
-- **File**: `voids/phenomenology-of-error-recognition.md`
+- **File**: [voids/phenomenology-of-error-recognition.md](/voids/phenomenology-of-self-awareness/)
 - **Location**: Lines 42-48
 - **Problem**: The bootstrap problem—how can a flawed system correct its own flaws?—is philosophically interesting but doesn't favor dualism. Physical systems correct errors routinely: thermostats, immune systems, machine learning algorithms. The article acknowledges "mechanisms partially resolve this" (external feedback, formal methods, redundancy) but calls these insufficient because they don't "eliminate circularity." But why should circularity be eliminated? Circular systems can be stable and effective. The mystery is asserted, not established.
 - **Severity**: Medium

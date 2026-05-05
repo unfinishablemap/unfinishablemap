@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-05
 **Content reviewed**:
-- `topics/quantum-neural-timing-constraints.md`
-- `concepts/consciousness-and-social-cognition.md`
-- `apex/identity-across-transformations.md`
+- [topics/quantum-neural-timing-constraints.md](/topics/quantum-neural-timing-constraints/)
+- [concepts/consciousness-and-social-cognition.md](/topics/consciousness-and-social-understanding/)
+- [apex/identity-across-transformations.md](/apex/identity-across-transformations/)
 
 ## Executive Summary
 
@@ -145,7 +145,7 @@ The social cognition article's treatment of Buddhist compassion is similarly pro
 
 ### Issue 1: Post-Decoherence Selection's Empirical Vacuity
 
-- **File**: `topics/quantum-neural-timing-constraints.md`
+- **File**: [topics/quantum-neural-timing-constraints.md](/topics/quantum-neural-timing-constraints/)
 - **Location**: Lines 151-155 (post-decoherence selection section)
 - **Problem**: The article presents the Map's preferred mechanism—post-decoherence selection—as surviving timing objections because it's 'timing-agnostic.' But timing-agnosticism is achieved by making no timing predictions. The article acknowledges 'the trade-off: timing-agnosticism makes the model immune to decoherence objections but also reduces its empirical content.' This is undersold. A model that survives all timing evidence by being indifferent to timing evidence is unfalsifiable by the dominant objection in the field. The 'four falsification conditions' listed (lines 173-183) mostly test other mechanisms (Orch OR, Stapp), not the Map's position.
 - **Severity**: High
@@ -153,7 +153,7 @@ The social cognition article's treatment of Buddhist compassion is similarly pro
 
 ### Issue 2: Great Ape Capacities Understated
 
-- **File**: `concepts/consciousness-and-social-cognition.md`
+- **File**: [concepts/consciousness-and-social-cognition.md](/topics/consciousness-and-social-understanding/)
 - **Location**: Lines 48-58 (primate baseline section), 73-75 (Level 2 discussion)
 - **Problem**: The article states great apes show 'mixed results' on Level 2 (belief attribution) tests and that the field 'remains actively debated.' But recent evidence—particularly the 2016 Krupenye et al. study using anticipatory looking and the 2019 Buttelmann replications—provides stronger support for great ape false belief understanding than the article conveys. The article's claim that apes proceed through '*implicit* social cognition' rather than genuine mental state attribution is precisely what's contested. Presenting the human-ape gap as tracking consciousness assumes what needs to be shown: that the gap isn't explained by working memory, language, or executive function differences that don't involve consciousness per se.
 - **Severity**: Medium-High
@@ -161,7 +161,7 @@ The social cognition article's treatment of Buddhist compassion is similarly pro
 
 ### Issue 3: Haecceity as Explanatory Placeholder
 
-- **File**: `apex/identity-across-transformations.md`
+- **File**: [apex/identity-across-transformations.md](/apex/identity-across-transformations/)
 - **Location**: Lines 55-56 (haecceity introduction), 129-130 (synthesis)
 - **Problem**: Haecceity—primitive thisness—is presented as the answer to personal identity puzzles. But critics argue haecceity is a label for the problem, not a solution. The article claims 'identity is *indexical*, grounded in the primitive thisness ([haecceity](/concepts/haecceity/)) of being *this* conscious subject.' But what grounds thisness? If there's no further fact that distinguishes you from a replica, 'haecceity' names a conceptual gap rather than filling one. The article's defence—that regress objections fail because 'the seeming itself requires a subject'—assumes what's in question (that seemings require additional subjects beyond the physical processes that constitute them).
 - **Severity**: High
@@ -169,7 +169,7 @@ The social cognition article's treatment of Buddhist compassion is similarly pro
 
 ### Issue 4: Filter Theory's Unfalsifiability
 
-- **File**: `apex/identity-across-transformations.md`
+- **File**: [apex/identity-across-transformations.md](/apex/identity-across-transformations/)
 - **Location**: Lines 86-90 (filter theory section)
 - **Problem**: Filter theory is invoked to explain how identity persists through anesthesia's temporal gap. The brain doesn't 'produce' consciousness but 'interfaces' with it; anesthesia disrupts the interface, not consciousness itself. This explains any consciousness-brain correlation: consciousness appears when the interface works, disappears when it doesn't. But it explains by stipulation. What pattern of evidence could distinguish filter theory from production theory? If every consciousness-brain correlation is compatible with both (since the filter could be calibrated to match), filter theory makes no distinctive predictions.
 - **Severity**: Medium
@@ -177,7 +177,7 @@ The social cognition article's treatment of Buddhist compassion is similarly pro
 
 ### Issue 5: Buddhist Philosophy Misappropriated
 
-- **File**: `apex/identity-across-transformations.md`, `concepts/consciousness-and-social-cognition.md`
+- **File**: [apex/identity-across-transformations.md](/apex/identity-across-transformations/), [concepts/consciousness-and-social-cognition.md](/topics/consciousness-and-social-understanding/)
 - **Location**: identity:93-98 (witness consciousness), 97 (anattā), social-cognition:186-197 (compassion meditation)
 - **Problem**: Both articles invoke Buddhist concepts selectively. The identity article claims Buddhist phenomenology supports persisting 'witnessing awareness' when advanced Buddhist practice reports the witness also dissolving. The social cognition article invokes Buddhist *tonglen* as evidence that empathic concern has 'phenomenal components amenable to training' when Buddhist analysis denies the irreducible consciousness the Map treats as foundational. The Map's framework is closer to Hindu Vedānta (eternal *ātman*) than Buddhist Madhyamaka (emptiness of self).
 - **Severity**: Medium
@@ -185,7 +185,7 @@ The social cognition article's treatment of Buddhist compassion is similarly pro
 
 ### Issue 6: The Consciousness-Metarepresentation Inference
 
-- **File**: `concepts/consciousness-and-social-cognition.md`
+- **File**: [concepts/consciousness-and-social-cognition.md](/topics/consciousness-and-social-understanding/)
 - **Location**: Lines 83-99 (metarepresentational threshold section)
 - **Problem**: The article argues that 'metarepresentation—representing representations as representations—marks the boundary where consciousness becomes necessary.' But this is an inference, not a demonstrated fact. The nested structure problem (holding multiple levels simultaneously) might be solved by enhanced working memory without phenomenal consciousness. The article's own citation of working memory research (line 99) notes that 'manipulating information... requires conscious access'—but 'conscious access' in cognitive science often means 'global availability,' not phenomenal consciousness. The slide from cognitive access to phenomenal consciousness is precisely what functionalists contest.
 - **Severity**: Medium-High

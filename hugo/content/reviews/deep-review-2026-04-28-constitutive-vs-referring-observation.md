@@ -52,15 +52,15 @@ All strengths from the prior review remain in place. The article body is unchang
 ### Enhancements Made
 Five inbound links added to integrate the orphan into site navigation:
 
-1. **`topics/phenomenal-authority-and-first-person-evidence.md`** — section opener now points to the dedicated concept page; added Further Reading entry. This is the most important integration: the section paraphrases the core argument and now hands readers the deeper treatment.
+1. **[topics/phenomenal-authority-and-first-person-evidence.md](/topics/phenomenal-authority-and-first-person-evidence/)** — section opener now points to the dedicated concept page; added Further Reading entry. This is the most important integration: the section paraphrases the core argument and now hands readers the deeper treatment.
 
-2. **`topics/eliminative-materialism.md`** — converted "constitutive-observation slogan" verbatim into a wikilink at line 115; added Further Reading entry. The article was *already* using the term as a concept; the wikilink simply discloses where the concept lives.
+2. **[topics/eliminative-materialism.md](/topics/eliminative-materialism/)** — converted "constitutive-observation slogan" verbatim into a wikilink at line 115; added Further Reading entry. The article was *already* using the term as a concept; the wikilink simply discloses where the concept lives.
 
-3. **`concepts/illusionism.md`** — added a parenthetical at the self-representation problem locating where the constitutive/referring distinction sharpens that objection; added Further Reading entry. The new sentence makes explicit that illusionism's task is to defend "introspection is referring" rather than presuppose it.
+3. **[concepts/illusionism.md](/concepts/illusionism/)** — added a parenthetical at the self-representation problem locating where the constitutive/referring distinction sharpens that objection; added Further Reading entry. The new sentence makes explicit that illusionism's task is to defend "introspection is referring" rather than presuppose it.
 
-4. **`concepts/phenomenal-acquaintance.md`** — added one clause to the Russell section pointing forward to the Map's metaphysical descendant. Closes the historical precursor → contemporary deployment loop.
+4. **[concepts/phenomenal-acquaintance.md](/concepts/phenomenal-acquaintance/)** — added one clause to the Russell section pointing forward to the Map's metaphysical descendant. Closes the historical precursor → contemporary deployment loop.
 
-5. **`concepts/introspection.md`** — added Further Reading entry. The introspection article's process/content distinction is structurally related to but not identical to constitutive/referring; the link lets readers find the sharper metaphysical formulation.
+5. **[concepts/introspection.md](/concepts/introspection/)** — added Further Reading entry. The introspection article's process/content distinction is structurally related to but not identical to constitutive/referring; the link lets readers find the sharper metaphysical formulation.
 
 ### Cross-links Added
 All cross-links are *to* the article (inbound). No new outbound links were added; the article's outbound link set was already comprehensive.

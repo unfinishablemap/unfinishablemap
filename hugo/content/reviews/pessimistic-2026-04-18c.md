@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-18c
 # Pessimistic Review
 
 **Date**: 2026-04-18
-**Content reviewed**: `concepts/inverted-qualia.md`, `concepts/prospective-memory.md`, `voids/epistemological-limits-occams-razor.md` (The Parsimony Void)
+**Content reviewed**: [concepts/inverted-qualia.md](/concepts/inverted-qualia/), [concepts/prospective-memory.md](/concepts/prospective-memory/), [voids/epistemological-limits-occams-razor.md](/voids/epistemological-limits-occams-razor/) (The Parsimony Void)
 
 ## Executive Summary
 
@@ -62,7 +62,7 @@ Prospective memory's "autonoetic self" that projects forward and backward in tim
 
 ### Issue 1: Selection-efficacy contradiction in inverted qualia
 
-- **File**: `concepts/inverted-qualia.md`
+- **File**: [concepts/inverted-qualia.md](/concepts/inverted-qualia/)
 - **Location**: "Bidirectional Interaction" section (lines 210-214)
 - **Problem**: The article says qualia differ without differing behaviourally in the inversion scenario, then proposes that qualia nonetheless bias quantum selection. But quantum selection that doesn't change macroscopic behaviour isn't doing the causal work the tenet requires. This quietly reintroduces a form of epiphenomenalism the article spends a paragraph rejecting.
 - **Severity**: High
@@ -70,7 +70,7 @@ Prospective memory's "autonoetic self" that projects forward and backward in tim
 
 ### Issue 2: Naming-as-explaining in "futuricity"
 
-- **File**: `concepts/prospective-memory.md`
+- **File**: [concepts/prospective-memory.md](/concepts/prospective-memory/)
 - **Location**: "Futuricity: The Temporal Quale" (lines 80-84) and throughout
 - **Problem**: The article coins "futuricity" and treats it as a discovered phenomenal feature. But no evidence is presented that futuricity is a distinct qualitative character rather than a cognitive tag (knowing, rather than feeling, that the simulation is forward-directed). The article later defends futuricity against the illusionist by saying "when you attend carefully to imagining a future event, the futuricity doesn't dissolve — it intensifies." This is exactly the move introspection-skeptics diagnose as confabulatory.
 - **Severity**: High
@@ -78,7 +78,7 @@ Prospective memory's "autonoetic self" that projects forward and backward in tim
 
 ### Issue 3: "None of these conditions are currently met"
 
-- **File**: `concepts/inverted-qualia.md`
+- **File**: [concepts/inverted-qualia.md](/concepts/inverted-qualia/)
 - **Location**: Line 196
 - **Problem**: After listing five conditions that would challenge the view, the article summarily declares none are met. Each summary is contestable: illusionism's regress is disputed (see Frankish's responses), functionalism's capture of intrinsic properties is an active research programme (see Clark's and Rosenthal's recent work), contemplative traditions are *not* uniform in the way the article's caveat-free summary implies. The closing is triumphalist in a way the rest of the article avoids.
 - **Severity**: Medium
@@ -86,7 +86,7 @@ Prospective memory's "autonoetic self" that projects forward and backward in tim
 
 ### Issue 4: Void-argument supports too much
 
-- **File**: `voids/epistemological-limits-occams-razor.md`
+- **File**: [voids/epistemological-limits-occams-razor.md](/voids/epistemological-limits-occams-razor/)
 - **Location**: "What This Changes" (lines 77-83) and "Relation to Site Perspective"
 - **Problem**: The argument that parsimony is architecturally biased applies equally to *every* theory that is currently implausible. If the bias reliably filters out correct-but-complex theories, it could as well be panpsychism, Russellian monism, or neutral monism as dualism. The article leaps from "parsimony may be unreliable" to "this strengthens dualism" without the intermediate step of explaining why dualism, rather than some other anti-parsimonious view, benefits.
 - **Severity**: Medium
@@ -94,7 +94,7 @@ Prospective memory's "autonoetic self" that projects forward and backward in tim
 
 ### Issue 5: Regress response to illusionism begs the question
 
-- **File**: `concepts/inverted-qualia.md`
+- **File**: [concepts/inverted-qualia.md](/concepts/inverted-qualia/)
 - **Location**: "The Regress Response" (lines 148-152)
 - **Problem**: The argument that "seemings are phenomenal states" is asserted rather than argued. Modern illusionists explicitly reject this: a seeming is a representational state that we mistake for a phenomenal state. The article treats Strawson's "self-stultifying" charge as if it settles the matter; it does not, and the literature has moved past it.
 - **Severity**: Medium
@@ -102,7 +102,7 @@ Prospective memory's "autonoetic self" that projects forward and backward in tim
 
 ### Issue 6: Conscious vividness → causal efficacy
 
-- **File**: `concepts/prospective-memory.md`
+- **File**: [concepts/prospective-memory.md](/concepts/prospective-memory/)
 - **Location**: "Future Simulation Influences Decisions" (lines 112-114) and "Occam's Razor Has Limits" (line 168)
 - **Problem**: "Evidence that conscious vividness predicts behavioral effects suggests phenomenology isn't epiphenomenal decoration." But vividness-reports correlate with richer neural activation, which correlates with stronger behavioural effects. The causal path could run entirely through the neural substrate, with phenomenology riding along. The article does not distinguish *phenomenology* causing behaviour from *the neural correlates of phenomenology* causing behaviour.
 - **Severity**: Medium

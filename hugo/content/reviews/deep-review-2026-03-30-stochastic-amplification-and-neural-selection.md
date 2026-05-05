@@ -41,13 +41,13 @@ The replacement article (`amplification-mechanisms-consciousness-physics`) has *
 
 Two content files still referenced the old slug in metadata fields:
 
-1. **`apex/post-decoherence-selection-programme.md`** — `apex_sources` field listed `topics/stochastic-amplification-and-neural-selection`. Updated to `topics/amplification-mechanisms-consciousness-physics`. (Note: the article body already correctly linked to the replacement.)
+1. **[apex/post-decoherence-selection-programme.md](/apex/post-decoherence-selection-programme/)** — `apex_sources` field listed `topics/stochastic-amplification-and-neural-selection`. Updated to `topics/amplification-mechanisms-consciousness-physics`. (Note: the article body already correctly linked to the replacement.)
 
-2. **`apex/apex-articles.md`** — Source articles list for the post-decoherence-selection-programme entry listed `topics/stochastic-amplification-and-neural-selection`. Updated to `topics/amplification-mechanisms-consciousness-physics`.
+2. **[apex/apex-articles.md](/apex/apex-articles/)** — Source articles list for the post-decoherence-selection-programme entry listed `topics/stochastic-amplification-and-neural-selection`. Updated to `topics/amplification-mechanisms-consciousness-physics`.
 
 ### Moot Todo Task Closed
 
-The P2 integrate-orphan task for this file was marked as moot in `workflow/todo.md` since the article is archived and its replacement is well-integrated.
+The P2 integrate-orphan task for this file was marked as moot in [workflow/todo.md](/workflow/todo/) since the article is archived and its replacement is well-integrated.
 
 ## Pessimistic Analysis Summary
 

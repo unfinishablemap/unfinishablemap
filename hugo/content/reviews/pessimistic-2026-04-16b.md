@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-16b
 # Pessimistic Review
 
 **Date**: 2026-04-16
-**Content reviewed**: `concepts/interface-friction.md`, `concepts/probability-objections-many-worlds.md`, `concepts/physical-completeness.md`
+**Content reviewed**: [concepts/interface-friction.md](/concepts/interface-friction/), [concepts/probability-objections-many-worlds.md](/concepts/probability-objections-many-worlds/), [concepts/physical-completeness.md](/concepts/physical-completeness/)
 
 ## Executive Summary
 
@@ -63,28 +63,28 @@ The branch-counting problem is the strongest objection, but the article's treatm
 ## Critical Issues
 
 ### Issue 1: Interface Friction Generates No Unique Predictions
-- **File**: `concepts/interface-friction.md`
+- **File**: [concepts/interface-friction.md](/concepts/interface-friction/)
 - **Location**: "Pathological Friction" section and throughout
 - **Problem**: Every phenomenon explained by interface friction (attentional limits, motor errors, ADHD patterns, depression phenomenology) is already explained by neuroscience without invoking dualism. The article offers no prediction that distinguishes interface friction from ordinary neural processing constraints.
 - **Severity**: High
 - **Recommendation**: Either identify at least one empirically distinguishable prediction or explicitly acknowledge that interface friction is a metaphysical reinterpretation, not an empirical theory. The article currently presents speculative clinical interpretations ("ADHD as low sustained-selection capacity") as though they illuminate something neuroscience misses — they do not.
 
 ### Issue 2: Physical Completeness Equivocates on "Structural"
-- **File**: `concepts/physical-completeness.md`
+- **File**: [concepts/physical-completeness.md](/concepts/physical-completeness/)
 - **Location**: "What Physics Describes" and "Structural Completeness Is Real" sections
 - **Problem**: "Structural" is used to mean at least three different things: (1) mathematical/relational description, (2) measurable quantities and their dynamics, (3) the totality of what physics can in principle describe. The argument's force depends on these being identical, but they may not be. If future physics develops new conceptual resources beyond current mathematical structure (as quantum gravity may require), the structural-ontological gap could narrow or change character.
 - **Severity**: Medium
 - **Recommendation**: Define "structural" precisely and acknowledge the possibility that future physics might expand what counts as structural description. The current framing makes the gap seem necessary when it may be contingent on current physics.
 
 ### Issue 3: Probability Objections Understates Counterarguments
-- **File**: `concepts/probability-objections-many-worlds.md`
+- **File**: [concepts/probability-objections-many-worlds.md](/concepts/probability-objections-many-worlds/)
 - **Location**: "The Circularity Objection" and "The Pattern of Failure" sections
 - **Problem**: Wallace's extensive responses to the circularity objection in *The Emergent Multiverse* are acknowledged in one sentence. The article also dismisses Sebens and Carroll (2018) and Zurek (2005) without engaging their actual arguments. For an article claiming to catalogue objections, the asymmetric treatment of responses undermines credibility.
 - **Severity**: Medium
 - **Recommendation**: Devote a paragraph to the strongest version of each counterargument before explaining why it fails. The article's case is stronger when it defeats the best counterarguments rather than ignoring them.
 
 ### Issue 4: Decoherence Claims Lack Quantitative Engagement
-- **File**: `concepts/interface-friction.md`
+- **File**: [concepts/interface-friction.md](/concepts/interface-friction/)
 - **Location**: "Decoherence Pressure" section
 - **Problem**: The article mentions "disputed microsecond-scale windows" and "even briefer openings" without citing Tegmark's (2000) decoherence calculations showing 10⁻¹³ second timescales for neural quantum states. Ignoring the strongest quantitative objection to neural quantum effects weakens the article's credibility.
 - **Severity**: Medium

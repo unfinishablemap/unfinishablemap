@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-02
 **Content reviewed**:
-- `voids/creativity-void.md`
-- `voids/consciousness-only-territories.md`
-- `voids/ai-as-void-explorer.md`
+- [voids/creativity-void.md](/voids/imagination-and-creativity-void/)
+- [voids/consciousness-only-territories.md](/voids/consciousness-only-territories/)
+- [voids/ai-as-void-explorer.md](/voids/non-human-minds-as-void-explorers/)
 
 ## Executive Summary
 

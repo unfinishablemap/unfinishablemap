@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-18b
 # Pessimistic Review
 
 **Date**: 2026-04-18
-**Content reviewed**: `concepts/zahavian-minimal-self.md`, `voids/boundary-and-projection.md`, `voids/predictive-construction-void.md`
+**Content reviewed**: [concepts/zahavian-minimal-self.md](/concepts/self-and-self-consciousness/), [voids/boundary-and-projection.md](/voids/boundary-and-projection/), [voids/predictive-construction-void.md](/voids/predictive-construction-void/)
 
 ## Executive Summary
 
@@ -71,56 +71,56 @@ Predictive-construction is closer to my view in spirit — the self as construct
 ## Critical Issues
 
 ### Issue 1: Framework choice by metaphysical convenience
-- **File**: `concepts/zahavian-minimal-self.md`
+- **File**: [concepts/zahavian-minimal-self.md](/concepts/self-and-self-consciousness/)
 - **Location**: "Why the Map Requires the Zahavian Version" and closing paragraph
 - **Problem**: The article explicitly chooses Zahavi over Metzinger because Zahavi supports the Map's existing tenets (indexical identity, bidirectional interaction, non-brain-produced consciousness). This inverts the proper direction of justification: tenets should be evaluated against evidence, not frameworks chosen to preserve tenets. The closing admits Metzinger is more parsimonious "but parsimony misleads when the dispensed-with entity is what the evidence… actually requires" — but the evidence cited (ego-dissolution reports) is precisely what Metzinger interprets differently.
 - **Severity**: High
 - **Recommendation**: Add a section honestly labelled "Choice under metaphysical commitment" acknowledging that the Zahavi/Metzinger question cannot be decided on ego-dissolution reports alone, and that the Map's preference is conditional on its other tenets being sound. This is more defensible than the current framing, which reads as special pleading.
 
 ### Issue 2: Representation/agency equivocation
-- **File**: `concepts/zahavian-minimal-self.md`
+- **File**: [concepts/zahavian-minimal-self.md](/concepts/self-and-self-consciousness/)
 - **Location**: Section "Why the Map Requires the Zahavian Version", paragraph on Bidirectional Interaction
 - **Problem**: "A self-model cannot be a causal agent; it is a representation." This is asserted, not argued. Cognitive science, predictive processing, and even dualist models that allow representations to be *carriers* of mental causation all treat representations as causally implicated. The sentence needs either defence or retraction.
 - **Severity**: High
 - **Recommendation**: Either argue explicitly why representations cannot bear agency (e.g., by defining agency in a way that excludes them, and defending that definition), or weaken the claim to "the Zahavian minimal self is a *more perspicuous* locus of agency than a self-model."
 
 ### Issue 3: Bundling heterogeneous phenomena as one void
-- **File**: `voids/boundary-and-projection.md`
+- **File**: [voids/boundary-and-projection.md](/voids/boundary-and-projection/)
 - **Location**: Section "Three Forms of Projection"
 - **Problem**: Tool projection (Heideggerian), peripersonal space remapping (empirical neuroscience), and interpersonal empathy (contested phenomenologically) are presented as three instances of the same void. The article admits parenthetically that the first two concern cognitive extension, not phenomenal extension, but then continues to treat them as variants of a single phenomenon.
 - **Severity**: Medium
 - **Recommendation**: Either separate these into distinct voids or make the argument for the unity of the phenomena explicit and defensible — currently the unification is asserted by section structure rather than argued.
 
 ### Issue 4: Paper-count as diagnostic of hidden depth
-- **File**: `voids/boundary-and-projection.md`
+- **File**: [voids/boundary-and-projection.md](/voids/boundary-and-projection/)
 - **Location**: "The scholarly neglect is itself a datum. The boundary problem has received approximately five scholarly papers, compared to ninety-two on binding…"
 - **Problem**: The article leans on a Gómez-Emilsson & Percy bibliometric claim without specifying methodology, and treats the asymmetry as evidence that the boundary problem is a hidden depth rather than a non-problem or a problem folded into adjacent discussions. The same statistic supports the null hypothesis that the boundary problem is comparatively underspecified and thus unattractive to serious researchers.
 - **Severity**: Medium
 - **Recommendation**: Either drop the bibliometric claim, treat it with greater hedging, or justify why the inference from neglect to depth is licensed here but not in general (there are thousands of crank hypotheses with few scholarly papers).
 
 ### Issue 5: Predictive processing presented as established fact
-- **File**: `voids/predictive-construction-void.md`
+- **File**: [voids/predictive-construction-void.md](/voids/predictive-construction-void/)
 - **Location**: Opening paragraph and "Four Mechanisms of the Barrier"
 - **Problem**: "Perception is largely prediction" and the Markov-blanket formalism are presented as settled rather than as specific theoretical commitments. Gibsonian ecological psychology, Noë-style enactivism, and recent critics of the Markov-blanket formalism (Bruineberg, Kiverstein, Raja, etc.) all contest these starting points. The article's argument collapses if predictive processing is wrong.
 - **Severity**: Medium
 - **Recommendation**: Add a "Dependence on the predictive-processing framework" paragraph acknowledging that the void is conditional on that framework being broadly correct, and noting the main alternative views.
 
 ### Issue 6: Calibration argument proves too much
-- **File**: `voids/predictive-construction-void.md`
+- **File**: [voids/predictive-construction-void.md](/voids/predictive-construction-void/)
 - **Location**: "The calibration problem" and "A Self-Erasing Void"
 - **Problem**: If "every reality check is a prediction compared against another prediction" and "there is no prediction-free standard," then all empirical knowledge faces the same barrier — not just knowledge of the construction/reception ratio. This turns the void into generic Cartesian scepticism, which is less interesting than the article claims.
 - **Severity**: Medium
 - **Recommendation**: Narrow the claim. The void is not that we cannot know anything; it is that we cannot distinguish, *within introspection*, constructive contributions from receptive contributions. That is weaker but defensible.
 
 ### Issue 7: Unfalsifiability of Minimal Quantum Interaction (inherited)
-- **File**: `voids/predictive-construction-void.md`
+- **File**: [voids/predictive-construction-void.md](/voids/predictive-construction-void/)
 - **Location**: "Bidirectional Interaction" in Relation to Site Perspective
 - **Problem**: The article states that consciousness's causal contributions "would become indistinguishable from the brain's predictions, making the bidirectional channel necessarily opaque from the inside." This frames a potential unfalsifier as a feature. A Popperian would flag this as the fingerprint of a protected research programme.
 - **Severity**: Medium
 - **Recommendation**: Acknowledge the unfalsifiability risk explicitly rather than treating in-principle opacity as virtue. Ask what *third-person* evidence could in principle bear on the tenet.
 
 ### Issue 8: "Constitutive" claim versus Sass-Parnas evidence
-- **File**: `concepts/zahavian-minimal-self.md`
+- **File**: [concepts/zahavian-minimal-self.md](/concepts/self-and-self-consciousness/)
 - **Location**: "Acknowledged Limits"
 - **Problem**: The article concedes that Sass and Parnas show the minimal self "admits of degrees — it can be attenuated, distorted, or partially disrupted," but then does not adjust the earlier claim that the minimal self is "constitutive, not contingent." If it admits of degrees, it is not strictly constitutive. This internal tension is left unresolved.
 - **Severity**: Medium

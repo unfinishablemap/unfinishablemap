@@ -19,15 +19,15 @@ topics: []
 **Date**: 2026-04-27
 **Article**: [The Status of Content: Boghossian's Sophisticated Self-Refutation](/concepts/status-of-content/)
 **Previous review**: [2026-04-26](/reviews/deep-review-2026-04-26-status-of-content/)
-**Cross-review context**: Triggered by `concepts/eliminative-materialism.md`'s dedicated treatment and the creation of `concepts/hard-problem-of-content.md` earlier today (commit `7b582251a`).
+**Cross-review context**: Triggered by [concepts/eliminative-materialism.md](/topics/eliminative-materialism/)'s dedicated treatment and the creation of [concepts/hard-problem-of-content.md](/concepts/hard-problem-of-content/) earlier today (commit `7b582251a`).
 
 ## Cross-Review Findings
 
 The previous review (2026-04-26) explicitly noted under Remaining Items: "When [hard-problem-of-content] article is created, this article (and others referencing the term) should be updated to use the dedicated wikilink. The current pointer to enactivism-challenge-to-interactionist-dualism is a stopgap." That article was created today. This cross-review applies the planned upgrade.
 
-Cross-checking against `topics/eliminative-materialism.md`: the topic article presents Boghossian's argument as one of three principal objections in its "Principal Objections > The self-refutation objection" paragraph, with consistent framing — Boghossian's version "has more force, but the literature has not converged" and the Map "should not lean on self-refutation as if it were a knockdown argument." No internal contradictions between the two articles. The topic article does not currently link back to status-of-content; that is a separate gap requiring an edit on the topic article (out of scope here).
+Cross-checking against [topics/eliminative-materialism.md](/topics/eliminative-materialism/): the topic article presents Boghossian's argument as one of three principal objections in its "Principal Objections > The self-refutation objection" paragraph, with consistent framing — Boghossian's version "has more force, but the literature has not converged" and the Map "should not lean on self-refutation as if it were a knockdown argument." No internal contradictions between the two articles. The topic article does not currently link back to status-of-content; that is a separate gap requiring an edit on the topic article (out of scope here).
 
-Cross-checking against `concepts/hard-problem-of-content.md`: the new article already references status-of-content as the pincer partner ("Together these form what the [treatment of Boghossian](/concepts/status-of-content/) calls a pincer"). The two articles can now mutually reinforce.
+Cross-checking against [concepts/hard-problem-of-content.md](/concepts/hard-problem-of-content/): the new article already references status-of-content as the pincer partner ("Together these form what the [treatment of Boghossian](/concepts/status-of-content/) calls a pincer"). The two articles can now mutually reinforce.
 
 ## Pessimistic Analysis Summary
 
@@ -76,7 +76,7 @@ All strengths from the previous review are preserved unchanged:
 
 ### Enhancements Made
 
-- Pincer paragraph now articulates the parallel as "content irrealism cannot be coherently asserted" (Boghossian) vs "content realism cannot be naturalised" (Hutto-Myin), matching the formulation used in `concepts/hard-problem-of-content.md`. This makes the structural alliance crisper without expanding word count materially.
+- Pincer paragraph now articulates the parallel as "content irrealism cannot be coherently asserted" (Boghossian) vs "content realism cannot be naturalised" (Hutto-Myin), matching the formulation used in [concepts/hard-problem-of-content.md](/concepts/hard-problem-of-content/). This makes the structural alliance crisper without expanding word count materially.
 - Added pointer sentence: "The Map's dedicated treatment of the second arm (in [hard-problem-of-content](/concepts/hard-problem-of-content/)) develops the structural alliance more fully." Lets readers navigate to the deeper treatment without the article having to itself develop Hutto-Myin in detail.
 
 ### Cross-links Added
@@ -93,7 +93,7 @@ All strengths from the previous review are preserved unchanged:
 
 ## Remaining Items
 
-- **`topics/eliminative-materialism.md` does not link to `[status-of-content](/concepts/status-of-content/)` or `[hard-problem-of-content](/concepts/hard-problem-of-content/)`.** Both are dedicated treatments of objections it summarises in "Principal Objections." This should be a separate refine-draft task on the topic article (not in scope for this cross-review of the concept article).
+- **[topics/eliminative-materialism.md](/topics/eliminative-materialism/) does not link to `[status-of-content](/concepts/status-of-content/)` or `[hard-problem-of-content](/concepts/hard-problem-of-content/)`.** Both are dedicated treatments of objections it summarises in "Principal Objections." This should be a separate refine-draft task on the topic article (not in scope for this cross-review of the concept article).
 
 ## Stability Notes
 

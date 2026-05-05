@@ -25,8 +25,8 @@ topics: []
 ## Scope
 
 The coalesce skill merged two articles into [necessary-opacity](/voids/necessary-opacity/):
-- `voids/transparency-void.md` — consciousness cannot verify its own representations
-- `voids/destabilizing-self-knowledge.md` — knowledge that undermines the knower's capacity to hold it
+- [voids/transparency-void.md](/voids/necessary-opacity/) — consciousness cannot verify its own representations
+- [voids/destabilizing-self-knowledge.md](/voids/necessary-opacity/) — knowledge that undermines the knower's capacity to hold it
 
 Archive copies preserve URLs at `archive/voids/transparency-void.md` and `archive/voids/destabilizing-self-knowledge.md`.
 

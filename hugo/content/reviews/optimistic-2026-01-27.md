@@ -22,15 +22,15 @@ The Unfinishable Map has developed into a remarkably coherent philosophical proj
 
 ### The Property Dualist (Chalmers)
 
-The Map takes the explanatory gap seriously in exactly the right way. The treatment of the hard problem in `topics/hard-problem-of-consciousness.md` correctly identifies that the gap is structural, not epistemic—no amount of neurological detail tells us *why* there is something it is like to be conscious. The article's progression from easy problems through the explanatory gap to zombies and Mary's Room follows Chalmers' own argumentative structure with precision.
+The Map takes the explanatory gap seriously in exactly the right way. The treatment of the hard problem in [topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/) correctly identifies that the gap is structural, not epistemic—no amount of neurological detail tells us *why* there is something it is like to be conscious. The article's progression from easy problems through the explanatory gap to zombies and Mary's Room follows Chalmers' own argumentative structure with precision.
 
-The site's handling of the phenomenal concept strategy in `concepts/phenomenal-consciousness.md` demonstrates sophisticated engagement with the strongest physicalist response. The presentation of Chalmers' master argument—the dilemma showing PCS either relocates the hard problem or fails to explain our epistemic situation—is philosophically astute.
+The site's handling of the phenomenal concept strategy in [concepts/phenomenal-consciousness.md](/concepts/phenomenal-consciousness/) demonstrates sophisticated engagement with the strongest physicalist response. The presentation of Chalmers' master argument—the dilemma showing PCS either relocates the hard problem or fails to explain our epistemic situation—is philosophically astute.
 
 Most impressively, the Map develops a positive framework (psychophysical laws, quantum interface) rather than merely criticising materialism. This constructive stance advances the debate.
 
 ### The Quantum Mind Theorist (Stapp)
 
-The treatment of quantum consciousness mechanisms in `concepts/quantum-consciousness.md` and `concepts/interactionist-dualism.md` demonstrates genuine understanding of how quantum mechanics might provide the interface for mental causation. Key strengths:
+The treatment of quantum consciousness mechanisms in [concepts/quantum-consciousness.md](/concepts/quantum-consciousness/) and [concepts/interactionist-dualism.md](/concepts/interactionist-dualism/) demonstrates genuine understanding of how quantum mechanics might provide the interface for mental causation. Key strengths:
 
 - **Correct distinction from "quantum woo"**: The site explicitly separates serious proposals (Stapp, Penrose-Hameroff, Fisher) from pseudoscience
 - **Engagement with decoherence**: Rather than ignoring the challenge, the site addresses it directly—citing Hameroff's corrections to Tegmark's calculations and explaining why decoherence doesn't solve the measurement problem
@@ -43,7 +43,7 @@ The site grasps the crucial point: quantum mechanics is not deterministic, and t
 
 The site centres first-person experience appropriately. The treatment of phenomenal consciousness correctly emphasises that the "what it is like" criterion is not mere metaphor but defines the phenomenon. Particularly strong:
 
-- **The minimal self**: `topics/personal-identity.md` draws on Gallagher and Zahavi's distinction between narrative and minimal self, recognising the pre-reflective first-person perspective that exists prior to narrative construction
+- **The minimal self**: [topics/personal-identity.md](/topics/personal-identity/) draws on Gallagher and Zahavi's distinction between narrative and minimal self, recognising the pre-reflective first-person perspective that exists prior to narrative construction
 - **Autonoetic consciousness**: The treatment of Tulving's mental time travel captures the phenomenal character of memory—not mere data retrieval but re-experiencing as *this* subject
 - **Witness consciousness**: The site engages with contemplative phenomenology, taking seriously reports from trained observers rather than dismissing introspection wholesale
 - **The objectivity problem**: The recognition that objective description cannot capture subjective experience is handled with appropriate nuance
@@ -54,7 +54,7 @@ The site avoids the trap of treating consciousness as merely another object to b
 
 While not making process philosophy central, the site integrates Whiteheadian insights effectively:
 
-- **Actual occasions and value**: `topics/meaning-of-life.md` draws on Whitehead's idea that value is constitutive of experience, not added from outside
+- **Actual occasions and value**: [topics/meaning-of-life.md](/topics/meaning-of-life/) draws on Whitehead's idea that value is constitutive of experience, not added from outside
 - **Concrescence and definiteness**: The rejection of many-worlds aligns with Whitehead's insistence that becoming actual requires definiteness—one outcome, not all possibilities persisting
 - **Temporal haecceity**: The treatment of personal identity recognises each moment of experience as unrepeatable and particular
 
@@ -62,7 +62,7 @@ The Map avoids crude substance dualism while preserving mind's reality. The proc
 
 ### The Libertarian Free Will Defender (Kane)
 
-The treatment of free will in `topics/free-will.md` and related articles demonstrates serious engagement with the metaphysics of agency:
+The treatment of free will in [topics/free-will.md](/topics/free-will/) and related articles demonstrates serious engagement with the metaphysics of agency:
 
 - **Agent causation**: The site correctly identifies that event-causal libertarianism is insufficient—genuine authorship requires the agent as substance to exercise causal powers
 - **Quantum indeterminacy and the luck objection**: The response (consciousness selects based on reasons; the phenomenology of effort; distinctive neural signatures) addresses the strongest objection to libertarian views
@@ -76,7 +76,7 @@ The framework gives free will genuine metaphysical grounding rather than merely 
 The site shows appropriate epistemic humility about human cognitive limits:
 
 - **Occam's Razor Has Limits**: The fifth tenet explicitly acknowledges that apparent simplicity may reflect conceptual inadequacy rather than ontological truth
-- **Cognitive closure**: The treatment of mysterianism (`concepts/mysterianism.md`) presents McGinn's view fairly—the explanation may exist but exceed human understanding
+- **Cognitive closure**: The treatment of mysterianism ([concepts/mysterianism.md](/concepts/mysterianism/)) presents McGinn's view fairly—the explanation may exist but exceed human understanding
 - **Historical counterexamples**: The site correctly notes that parsimony has pointed away from truth repeatedly (heliocentrism, atomic theory, quantum mechanics)
 
 This humility strengthens rather than weakens the position—it acknowledges that the Map may be pointing toward truths we cannot fully articulate rather than claiming complete understanding.

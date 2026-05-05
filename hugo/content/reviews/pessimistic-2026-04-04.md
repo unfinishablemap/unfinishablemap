@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-04
 # Pessimistic Review
 
 **Date**: 2026-04-04
-**Content reviewed**: `concepts/higher-order-theories.md`, `concepts/global-workspace-theory.md`
+**Content reviewed**: [concepts/higher-order-theories.md](/concepts/higher-order-theories/), [concepts/global-workspace-theory.md](/concepts/global-workspace-theory/)
 
 ## Executive Summary
 
@@ -47,35 +47,35 @@ Nagarjuna would challenge both articles' unexamined assumption of a unified self
 ## Critical Issues
 
 ### Issue 1: COGITATE Results Overstated in GWT Article
-- **File**: `concepts/global-workspace-theory.md`
+- **File**: [concepts/global-workspace-theory.md](/concepts/global-workspace-theory/)
 - **Location**: "The COGITATE Experiment" section
 - **Problem**: The article states GNW's predicted ignition "was not observed" when stimuli disappeared. The actual COGITATE results were more nuanced—the study found some support for GNW predictions (sustained activity during maintained perception) while failing to find others. Describing it as a straightforward failure overstates the case.
 - **Severity**: Medium
 - **Recommendation**: Qualify the claim. Note which GNW predictions were supported and which weren't. The article's own conclusion ("neither theory emerged unscathed") contradicts the stronger framing above it.
 
 ### Issue 2: The Rock Objection Is Weaker Than Presented
-- **File**: `concepts/higher-order-theories.md`
+- **File**: [concepts/higher-order-theories.md](/concepts/higher-order-theories/)
 - **Location**: "The Rock Objection" section
 - **Problem**: The article presents Rosenthal's response (rocks aren't mental states) and then says this "relocates rather than solves the puzzle." But Rosenthal's actual response is more substantive: HOT claims mental states have intrinsic properties that higher-order representation makes conscious—rocks lack these properties entirely. The article's dismissal is too quick and doesn't engage with the strongest version of the defense.
 - **Severity**: Medium
 - **Recommendation**: Engage more thoroughly with Rosenthal's actual defense. The objection has force, but the article makes it sound more devastating than it is among specialists.
 
 ### Issue 3: Baddeley Quote Attribution
-- **File**: `concepts/global-workspace-theory.md`
+- **File**: [concepts/global-workspace-theory.md](/concepts/global-workspace-theory/)
 - **Location**: "Working Memory as Workspace Content" section
 - **Problem**: The article claims "Baddeley's formulation that consciousness *accesses* bound representations implies something beyond the neural workspace does the accessing." This reads the Map's dualism *into* Baddeley's work. Baddeley's episodic buffer model is a cognitive architecture proposal, not a dualist argument. Presenting it as implying "something beyond the neural workspace" is a misuse of the source.
 - **Severity**: High
 - **Recommendation**: Clarify that this is the Map's interpretation of Baddeley, not what Baddeley himself implies. The current phrasing risks misattributing a dualist position to a researcher who does not hold it.
 
 ### Issue 4: Unsupported Claim About Dream Consciousness
-- **File**: `concepts/higher-order-theories.md`
+- **File**: [concepts/higher-order-theories.md](/concepts/higher-order-theories/)
 - **Location**: "Dreaming Without Metacognition" section
 - **Problem**: The article links to `[dream-consciousness](/topics/dream-consciousness/)` but the claim that non-lucid dreams involve "vivid conscious experience without recognizing that we're dreaming" is more contested than presented. Some researchers argue dream consciousness is degraded or different in kind from waking consciousness. This is presented as an unproblematic counterexample to HOT.
 - **Severity**: Low
 - **Recommendation**: Acknowledge that the nature of dream consciousness is itself debated, which somewhat weakens its force as a counterexample.
 
 ### Issue 5: Missing Strongest Case for GWT
-- **File**: `concepts/global-workspace-theory.md`
+- **File**: [concepts/global-workspace-theory.md](/concepts/global-workspace-theory/)
 - **Location**: Throughout
 - **Problem**: The article never presents the strongest positive case for GWT: its predictive success regarding the neural signatures of conscious versus unconscious processing (P3b wave, late sustained activity, frontoparietal network activation). These predictions were partially confirmed well before COGITATE. An article critiquing GWT should acknowledge what it gets right empirically before arguing it's incomplete.
 - **Severity**: Medium

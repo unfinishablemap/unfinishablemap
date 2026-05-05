@@ -68,7 +68,7 @@ The article's [ownership-void](/voids/ownership-void/) cross-reference partially
 
 ### Issue 1: Wegner deployed against his own conclusion
 
-- **File**: `voids/agency-void.md`
+- **File**: [voids/agency-void.md](/voids/agency-void/)
 - **Location**: §The Verification Circularity → "Four Layers of the Verification Void" → "Attribution"
 - **Problem**: The article cites Wegner (2002, *The Illusion of Conscious Will*) for the three conditions producing the sense of agency (priority, consistency, exclusivity), and uses these to support a *void* in self-verification. But Wegner's argument is that conscious will is an illusion — that the sense of agency *systematically misrepresents* its own cause. The Map's tenets (Bidirectional Interaction) hold that consciousness is causally efficacious. Citing Wegner without acknowledging his anti-causalist conclusion lets the reader infer Wegner is *evidence for* dualism when he is its principal sceptic.
 - **Severity**: High
@@ -76,7 +76,7 @@ The article's [ownership-void](/voids/ownership-void/) cross-reference partially
 
 ### Issue 2: Verification-circularity argument equivocates between first-person and third-person verification
 
-- **File**: `voids/agency-void.md`
+- **File**: [voids/agency-void.md](/voids/agency-void/)
 - **Location**: §The Verification Circularity, opening
 - **Problem**: The article writes "Consciousness checking its own causal powers has no external reference point." This is true if "checking" is restricted to introspective verification by the subject. It is false if "checking" includes third-person methodologies — which routinely test whether disrupting neural correlates of conscious access also disrupts motor causation (TMS, anaesthesia titration, locked-in syndrome studies, anarchic-hand cases). The article implicitly equivocates between "consciousness cannot verify itself from inside" and "verification is impossible." The first is well-defended; the second is not.
 - **Severity**: High
@@ -84,7 +84,7 @@ The article's [ownership-void](/voids/ownership-void/) cross-reference partially
 
 ### Issue 3: "Compound" asserted, not demonstrated
 
-- **File**: `voids/agency-void.md`
+- **File**: [voids/agency-void.md](/voids/agency-void/)
 - **Location**: §Two Limits, One Void; description frontmatter; opening paragraph
 - **Problem**: The article repeatedly says the two limits "compound into a single structural void," but the only argument offered is "control is narrow *and* its boundaries cannot be cleanly traced from within." That establishes a conjunction (limit A and limit B), not a compound (limit A and B interact such that the joint case is more than the sum). A genuine compounding argument would need to show that *narrow control with full self-verification* produces a different structural situation than *narrow control with no self-verification*, in such a way that the missing verification multiplies rather than adds. The article gestures at this but does not deliver it.
 - **Severity**: Medium
@@ -92,7 +92,7 @@ The article's [ownership-void](/voids/ownership-void/) cross-reference partially
 
 ### Issue 4: Functional-necessity explanation undermines structural-void claim
 
-- **File**: `voids/agency-void.md`
+- **File**: [voids/agency-void.md](/voids/agency-void/)
 - **Location**: §The Sovereignty Paradox → "Functional necessity"
 - **Problem**: The article offers an evolutionary explanation: "Organisms that could voluntarily shut off pain or alter emotional valence would face severe survival disadvantages." This is a contingent-design explanation. It locates the asymmetry in selection pressure on biological organisms, not in the structure of consciousness or the dualist interface. If accepted, the void is contingent — a different design (a non-organism, a hypothetical engineered consciousness) might have the missing self-control. This conflicts with the article's main claim that the void is structural. The section presents the three explanations as "non-exclusive" but does not notice that *interface constraint* and *functional necessity* point in opposite directions metaphysically.
 - **Severity**: Medium
@@ -100,7 +100,7 @@ The article's [ownership-void](/voids/ownership-void/) cross-reference partially
 
 ### Issue 5: The article's own claim falls under its own self-stultification structure
 
-- **File**: `voids/agency-void.md`
+- **File**: [voids/agency-void.md](/voids/agency-void/)
 - **Location**: §The Verification Circularity → "The Self-Stultification Symmetry"
 - **Problem**: The article observes that both epiphenomenalism and interactionism face self-stultification under verification scrutiny: "the witness is testifying about whether the witness exists." But the same structure applies one level up to the article's *own* claim that "verification is structurally impossible." That claim is itself made by consciousness, about consciousness. If consciousness cannot verify its own causal powers, can it verify its own *limits*? The article documents this exact regress in the case of [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) but does not apply it self-reflexively here.
 - **Severity**: Medium
@@ -108,7 +108,7 @@ The article's [ownership-void](/voids/ownership-void/) cross-reference partially
 
 ### Issue 6: Missing engagement with intervention-based methodologies
 
-- **File**: `voids/agency-void.md`
+- **File**: [voids/agency-void.md](/voids/agency-void/)
 - **Location**: §Four Layers of the Verification Void
 - **Problem**: The four layers (Timing, Exclusion, Attribution, Perspective) are well-chosen but the article omits a fifth that is widely discussed in current empirical literature: *Intervention*. TMS, optogenetic dissociation in animal models, propofol titration studies, and locked-in/anarchic-hand patient work all attempt to dissociate phenomenal access from motor causation by intervening on one without the other. These are precisely the third-person verification approaches the article needs to engage to make the verification-void argument complete. Their omission lets the reader assume the empirical landscape has been surveyed when one of its most active sub-areas has not.
 - **Severity**: Medium
@@ -116,7 +116,7 @@ The article's [ownership-void](/voids/ownership-void/) cross-reference partially
 
 ### Issue 7: Description frontmatter overclaims
 
-- **File**: `voids/agency-void.md`
+- **File**: [voids/agency-void.md](/voids/agency-void/)
 - **Location**: Frontmatter, line 3
 - **Problem**: The description reads "two complementary limits at the heart of conscious agency that compound into a single structural void." Per Issue 3, "compound" is not demonstrated. Per Issue 4, "structural" is in tension with the functional-necessity explanation the article offers. The description is the most-truncated piece of text the article exposes (search results, social shares, LLM ingest) and is therefore where overclaim does the most damage to the Map's credibility.
 - **Severity**: Medium

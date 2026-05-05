@@ -64,7 +64,7 @@ Additional articles that could benefit from cross-references in future:
 - `consciousness-and-integrated-information.md` — IIT's distribution implications
 - `evolution-of-consciousness.md` — phylogenetic evidence section
 - `substrate-independence.md` — coupling conditions discussion
-- `apex/minds-without-words.md` — "wherever the relevant organisational properties exist"
+- [apex/minds-without-words.md](/apex/minds-without-words/) — "wherever the relevant organisational properties exist"
 
 These are lower priority and can be addressed in future cross-review passes.
 

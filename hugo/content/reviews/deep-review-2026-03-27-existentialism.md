@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **Broken wikilink to coalesced article**: `[cognitive aversion](/voids/defended-territory/)` on line 92 pointed to `voids/cognitive-aversion.md`, which was coalesced into `voids/defended-territory.md` on 2026-03-27. Updated to `[defended territory](/voids/self-maintained-cognitive-limits/)`.
+1. **Broken wikilink to coalesced article**: `[cognitive aversion](/voids/defended-territory/)` on line 92 pointed to [voids/cognitive-aversion.md](/voids/defended-territory/), which was coalesced into [voids/defended-territory.md](/voids/self-maintained-cognitive-limits/) on 2026-03-27. Updated to `[defended territory](/voids/self-maintained-cognitive-limits/)`.
 
 ### Medium Issues Found
 None. All medium issues from the previous review were resolved and remain stable.

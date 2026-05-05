@@ -22,15 +22,15 @@ The Unfinishable Map has matured into an exceptionally coherent philosophical fr
 
 ### The Property Dualist (Chalmers)
 
-The Map takes the explanatory gap with utmost seriousness. The hard problem treatment (`topics/hard-problem-of-consciousness.md`) correctly identifies that the gap is *conceptual* rather than merely epistemic—no amount of neural detail tells us *why* there is something it is like. The C. elegans case makes this empirically vivid: complete connectome knowledge leaves phenomenal presence undetermined.
+The Map takes the explanatory gap with utmost seriousness. The hard problem treatment ([topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/)) correctly identifies that the gap is *conceptual* rather than merely epistemic—no amount of neural detail tells us *why* there is something it is like. The C. elegans case makes this empirically vivid: complete connectome knowledge leaves phenomenal presence undetermined.
 
-The delegatory dualism article (`topics/delegatory-dualism.md`) represents sophisticated engagement with Chalmers' psychophysical laws framework. Saad's five constraints—Efficacy, Non-Overdetermination, Observational Closure, Upward Systematicity, Organizational Invariance—systematize what any adequate dualist theory must achieve. The Map's integration of this with quantum interactionism shows theoretical maturity: delegatory dualism explains *causal structure* while quantum mechanisms explain *physical interface*.
+The delegatory dualism article ([topics/delegatory-dualism.md](/topics/delegatory-dualism/)) represents sophisticated engagement with Chalmers' psychophysical laws framework. Saad's five constraints—Efficacy, Non-Overdetermination, Observational Closure, Upward Systematicity, Organizational Invariance—systematize what any adequate dualist theory must achieve. The Map's integration of this with quantum interactionism shows theoretical maturity: delegatory dualism explains *causal structure* while quantum mechanisms explain *physical interface*.
 
-The functionalism critique (`concepts/functionalism.md`) would particularly resonate with Chalmers' view that structure-and-dynamics theories leave qualia unexplained. The C. elegans and slime mold examples powerfully demonstrate that functional organization underdetermines consciousness.
+The functionalism critique ([concepts/functionalism.md](/concepts/functionalism/)) would particularly resonate with Chalmers' view that structure-and-dynamics theories leave qualia unexplained. The C. elegans and slime mold examples powerfully demonstrate that functional organization underdetermines consciousness.
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map's quantum consciousness treatment continues to align with Stapp's orthodox quantum mechanics approach. The brain-interface boundary articles (`concepts/brain-interface-boundary.md`, `topics/brain-specialness-boundary.md`) show genuine understanding of the quantum Zeno mechanism—repeated observation holding neural patterns stable without requiring sustained coherence.
+The Map's quantum consciousness treatment continues to align with Stapp's orthodox quantum mechanics approach. The brain-interface boundary articles ([concepts/brain-interface-boundary.md](/concepts/brain-interface-boundary/), [topics/brain-specialness-boundary.md](/topics/brain-specialness-boundary/)) show genuine understanding of the quantum Zeno mechanism—repeated observation holding neural patterns stable without requiring sustained coherence.
 
 Stapp would particularly appreciate the four boundary constraints (interface locality, control loop integration, developmental integration, attention scope) that explain why consciousness acts locally rather than universally. The key insight—"prior to the choice to act there must be a representation in the brain of the intended consequences"—is directly from Stapp's work and correctly applied.
 
@@ -38,7 +38,7 @@ The decoherence objection receives serious treatment without dismissal. The site
 
 ### The Phenomenologist (Nagel)
 
-Nagel's "what it is like" question permeates the site appropriately. The apex article "Testing the Map from Inside" (`apex/testing-the-map-from-inside.md`) represents exactly the phenomenological methodology Nagel champions—using first-person observation to generate data any theory must explain.
+Nagel's "what it is like" question permeates the site appropriately. The apex article "Testing the Map from Inside" ([apex/testing-the-map-from-inside.md](/apex/testing-the-map-from-inside/)) represents exactly the phenomenological methodology Nagel champions—using first-person observation to generate data any theory must explain.
 
 The three-level agency structure (selecting, refraining, meta-selecting) is phenomenologically precise. The observation that "choosing feels different from observing" is simple but powerful—any adequate theory must accommodate this datum. The trained-introspection research showing meditators predict neural signatures better than novices provides empirical grounding for phenomenological method.
 
@@ -52,7 +52,7 @@ The temporal consciousness work connects naturally to Whitehead's specious prese
 
 ### The Libertarian Free Will Defender (Kane)
 
-The free will treatment (`topics/free-will.md`) develops exactly the libertarian framework Kane envisions. Three lines of evidence for genuine agent causation—phenomenology of effort, reasons-guidance, distinctive neural signatures (frontal theta oscillations, bidirectional coherence)—provide the empirical grounding Kane's libertarianism needs.
+The free will treatment ([topics/free-will.md](/topics/free-will/)) develops exactly the libertarian framework Kane envisions. Three lines of evidence for genuine agent causation—phenomenology of effort, reasons-guidance, distinctive neural signatures (frontal theta oscillations, bidirectional coherence)—provide the empirical grounding Kane's libertarianism needs.
 
 The luck objection receives serious treatment. The response—that consciousness-selected indeterminism differs from lucky indeterminism through reasons-responsiveness, effort phenomenology, and three-level agency structure—shows philosophical sophistication. A merely passive recipient of random quantum events couldn't choose to be passive.
 
@@ -60,7 +60,7 @@ The counterfactual reasoning treatment strengthens the case: holding alternative
 
 ### The Mysterian (McGinn)
 
-The voids framework (`voids/voids.md` and the extensive voids section) operationalizes McGinn's cognitive closure with remarkable thoroughness. The site identifies multiple types of voids: structural (architecture-generated), experiential (phenomenology-generated), and conceptual (language-generated).
+The voids framework ([voids/voids.md](/voids/) and the extensive voids section) operationalizes McGinn's cognitive closure with remarkable thoroughness. The site identifies multiple types of voids: structural (architecture-generated), experiential (phenomenology-generated), and conceptual (language-generated).
 
 The "Occam's Razor Has Limits" tenet provides formal grounding for mysterianism: when knowledge is incomplete, simplicity becomes unreliable. The Map correctly notes that the "simpler" materialist explanation may reflect ignoring phenomena rather than explaining them.
 

@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-03-05
 # Pessimistic Review
 
 **Date**: 2026-03-05
-**Content reviewed**: `topics/decision-theory-cannot-save-many-worlds.md`, `topics/panpsychisms-combination-problem.md`, `topics/philosophical-stakes-of-spontaneous-collapse.md`
+**Content reviewed**: [topics/decision-theory-cannot-save-many-worlds.md](/topics/probability-problem-in-many-worlds/), [topics/panpsychisms-combination-problem.md](/topics/panpsychisms-combination-problem/), [topics/philosophical-stakes-of-spontaneous-collapse.md](/topics/philosophical-stakes-of-spontaneous-collapse/)
 
 ## Executive Summary
 
@@ -47,28 +47,28 @@ The combination problem article engages seriously with the Buddhist perspective,
 ## Critical Issues
 
 ### Issue 1: Wallace's Responses Underrepresented in Decision Theory Article
-- **File**: `topics/decision-theory-cannot-save-many-worlds.md`
+- **File**: [topics/decision-theory-cannot-save-many-worlds.md](/topics/probability-problem-in-many-worlds/)
 - **Location**: Sections "The Axioms Are Not Constitutive of Rationality" and "Betting Is Not Frequency"
 - **Problem**: The article cites Wallace (2012) responses in single sentences, then moves on. For a 3000+ word article positioning itself as definitive analysis, the treatment of the strongest defender's best arguments is thin. Kent and Lewis get extensive discussion; Wallace's counter-responses do not.
 - **Severity**: Medium
 - **Recommendation**: Expand treatment of Wallace's responses to branching indifference (the basis-relativity argument) and the frequency question (chapter 6 of *The Emergent Multiverse*). Then explain why these responses fail. Currently the article is more "prosecution brief" than "critical analysis."
 
 ### Issue 2: Dualism's Escape from Composition Is Asserted, Not Argued
-- **File**: `topics/panpsychisms-combination-problem.md`
+- **File**: [topics/panpsychisms-combination-problem.md](/topics/panpsychisms-combination-problem/)
 - **Location**: "Relation to Site Perspective" — "Dualism gains by elimination"
 - **Problem**: The article argues: physicalism can't compose consciousness from non-experiential parts; panpsychism can't compose it from experiential parts; therefore dualism (which doesn't compose at all) wins by elimination. But this is a false trilemma. There are other options: mysterianism, neutral monism, process philosophy, idealism. The article mentions mysterianism and idealism in passing but dismisses them quickly, and the Further Reading links to idealism without engaging its response to the combination problem (which is to invert the direction of explanation entirely).
 - **Severity**: Medium
 - **Recommendation**: Acknowledge the elimination argument more carefully. The trilemma should be presented as "the combination problem favours frameworks that don't require composition" rather than "dualism wins by elimination."
 
 ### Issue 3: Trend Against Collapse Theories Underplayed
-- **File**: `topics/philosophical-stakes-of-spontaneous-collapse.md`
+- **File**: [topics/philosophical-stakes-of-spontaneous-collapse.md](/topics/philosophical-stakes-of-spontaneous-collapse/)
 - **Location**: "Experimental Stakes for Philosophy of Mind" — "Current status"
 - **Problem**: The article notes that GRW "survived by a whisker" and the simplest Diósi-Penrose model is "ruled out." This is presented neutrally, but the overall trend is towards exclusion. The article treats experimental falsification as a potential future challenge ("the Map faces a challenge") rather than acknowledging that the current trajectory already constitutes significant pressure.
 - **Severity**: Low-Medium
 - **Recommendation**: Reframe the experimental section to be more transparent about the direction of evidence. "Survived by a whisker" is honest; the surrounding analysis should match that honesty.
 
 ### Issue 4: Self-Citation Circularity Risk
-- **File**: `topics/decision-theory-cannot-save-many-worlds.md`
+- **File**: [topics/decision-theory-cannot-save-many-worlds.md](/topics/probability-problem-in-many-worlds/)
 - **Location**: Reference 10 (Southgate & Oquatre-six)
 - **Problem**: The article cites the Map's own "Probability Problem in Many Worlds" article as a reference. While self-citation is permitted, this specific citation supports the claim that the decision-theoretic program is "one of three major recovery strategies." The categorisation itself is the Map's own framing, not an established philosophical taxonomy. The article should either cite external sources for this taxonomy or present it explicitly as the Map's organising framework.
 - **Severity**: Low

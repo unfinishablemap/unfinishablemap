@@ -31,13 +31,13 @@ None.
 
 The 2026-04-21 apex-evolve pass added three substantive paragraphs grounded in 2022-2024 empirical work and a paragraph on phenomenal non-compositionality. Each was checked against source articles.
 
-- **Phenomenal non-compositionality (van Inwagen / Merricks / McQueen-Tsuchiya)** — The "convergence on consciousness as criterion for genuine composition" framing matches `concepts/combination-problem.md`. van Inwagen's view is rendered as "life criterion" where the source uses "organicism"; both terms appear in the literature. Acceptable.
+- **Phenomenal non-compositionality (van Inwagen / Merricks / McQueen-Tsuchiya)** — The "convergence on consciousness as criterion for genuine composition" framing matches [concepts/combination-problem.md](/concepts/combination-problem/). van Inwagen's view is rendered as "life criterion" where the source uses "organicism"; both terms appear in the literature. Acceptable.
 - **Kerskens and Pérez (2022)** — Real paper (*Journal of Physics Communications*, "Experimental indications of non-classical brain functions"). Characterized appropriately: "MRI signatures suggestive of brain-based entanglement correlating with conscious states." Hedged with "These results don't confirm the entanglement-binding hypothesis."
 - **Wiest et al. (2024) microtubule anaesthetics** — Result described as classical neural theories "struggle to predict" — strong but defensible given the appropriate hedge in the next sentence.
 - **Schurger et al. (2012)** — Accurately characterised. Real paper, *Journal of Neuroscience*.
 - **Sjöberg (2024)** — Real paper in *Brain* (147(7), 2267-2274). The apex previously read "preserves volitional phenomenology entirely" — slightly stronger than the source's "retain their sense of voluntary action." **Resolution**: replaced with the source's own phrasing ("retain their sense of voluntary action").
 - **Kent and Wittmann (2021)** — Real paper. The quote "one of the core issues" is preserved verbatim from the source concept article's quotation of the original.
-- **~280 ms commitment point inside 100-750 ms specious present** — Sourced from `concepts/temporal-consciousness.md` and `topics/free-will.md`. Within the documented range for motor commitment research.
+- **~280 ms commitment point inside 100-750 ms specious present** — Sourced from [concepts/temporal-consciousness.md](/concepts/temporal-consciousness/) and [topics/free-will.md](/topics/free-will/). Within the documented range for motor commitment research.
 
 ### Qualifier Preservation Check
 

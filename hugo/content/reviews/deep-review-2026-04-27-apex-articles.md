@@ -97,7 +97,7 @@ The previous review flagged "periodic verification of source paths would be valu
 ### Counterarguments Considered
 
 - **"Source-article lists aren't broken links, only informational"** — True at the rendering layer, but the index is consulted by `/apex-evolve` and by humans planning new apex pieces. Pointing at archived files misleads both. Treating these as critical was warranted.
-- **"Replacing chinese-room with symbol-grounding-problem changes the entry's intent"** — The replacement matches what the corresponding apex article (`apex/machine-question.md`) actually cites, so the index now reflects reality. The original chinese-room reference was aspirational, never grounded.
+- **"Replacing chinese-room with symbol-grounding-problem changes the entry's intent"** — The replacement matches what the corresponding apex article ([apex/machine-question.md](/apex/machine-question/)) actually cites, so the index now reflects reality. The original chinese-room reference was aspirational, never grounded.
 
 ## Optimistic Analysis Summary
 

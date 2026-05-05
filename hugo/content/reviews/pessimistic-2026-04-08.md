@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-08
 # Pessimistic Review
 
 **Date**: 2026-04-08
-**Content reviewed**: `topics/argument-from-reason.md`, `topics/consciousness-defeats-explanation.md`, `topics/consciousness-and-the-authority-of-formal-systems.md`
+**Content reviewed**: [topics/argument-from-reason.md](/topics/argument-from-reason/), [topics/consciousness-defeats-explanation.md](/topics/consciousness-defeats-explanation/), [topics/consciousness-and-the-authority-of-formal-systems.md](/topics/consciousness-and-the-authority-of-formal-systems/)
 
 ## Executive Summary
 
@@ -60,7 +60,7 @@ Three recently modified articles from the Map's rationality-and-consciousness cl
 
 ### Issue 1: Phenomenal Intentionality Treated as Established
 
-- **File**: `topics/argument-from-reason.md`
+- **File**: [topics/argument-from-reason.md](/topics/argument-from-reason/)
 - **Location**: "Why Consciousness Must Be Involved" section
 - **Problem**: The phenomenal intentionality thesis (PIT)—that genuine intentionality derives from phenomenal consciousness—is treated as established fact rather than a contested philosophical position. The article writes "if intentionality requires phenomenal character, then grasping logical relationships cannot be a purely physical achievement" but then proceeds as though the antecedent is established. PIT is a minority position even among philosophers of mind sympathetic to non-reductive views. The article's core argument depends on PIT but doesn't argue for it here, relying instead on a link to the intentionality article.
 - **Severity**: High
@@ -68,7 +68,7 @@ Three recently modified articles from the Map's rationality-and-consciousness cl
 
 ### Issue 2: Explanatory Model Survey Is Incomplete
 
-- **File**: `topics/consciousness-defeats-explanation.md`
+- **File**: [topics/consciousness-defeats-explanation.md](/topics/consciousness-defeats-explanation/)
 - **Location**: "Where Models of Explanation Fail" section
 - **Problem**: The article claims consciousness defeats "every model of explanation" but examines only three (DN, causal-mechanical, unificationist)—all from 20th-century philosophy of science. It omits interventionist/manipulationist accounts (Woodward 2003), which are now arguably dominant; mechanistic explanation as developed specifically for neuroscience (Craver 2007); and computational/information-theoretic approaches. A universal negative claim requires more thorough coverage.
 - **Severity**: High
@@ -76,7 +76,7 @@ Three recently modified articles from the Map's rationality-and-consciousness cl
 
 ### Issue 3: Gödel Analogy Overstretched
 
-- **File**: `topics/consciousness-and-the-authority-of-formal-systems.md`
+- **File**: [topics/consciousness-and-the-authority-of-formal-systems.md](/topics/consciousness-and-the-authority-of-formal-systems/)
 - **Location**: "Authority Without Sovereignty" section, paragraph on Szangolies/Lawvere
 - **Problem**: The article claims that Lawvere's fixed-point theorem shows that "consciousness — the phenomenon that constitutes the observer's side of every measurement — sits precisely at that boundary" of self-referential obstruction. But Lawvere's theorem is about morphisms in categories; it connects Gödel and Cantor structurally. The leap from "formal self-reference has limits" to "consciousness sits at those limits" is not justified by the mathematics. The article relies on the referenced Szangolies paper but attributes a stronger conclusion to the mathematical result than Szangolies himself draws.
 - **Severity**: Medium
@@ -84,7 +84,7 @@ Three recently modified articles from the Map's rationality-and-consciousness cl
 
 ### Issue 4: Reflexive Gap Argument Risks Circularity
 
-- **File**: `topics/consciousness-defeats-explanation.md`
+- **File**: [topics/consciousness-defeats-explanation.md](/topics/consciousness-defeats-explanation/)
 - **Location**: "The Reflexive Gap" section
 - **Problem**: The argument runs: (1) explanation produces understanding, (2) understanding is a phenomenal state, (3) therefore explanation depends on consciousness. But premise (2) is precisely what physicalists deny. Dennett's heterophenomenology, functionalist accounts of understanding, and predictive processing all characterize understanding without phenomenal residue. The article anticipates this with the heterophenomenologist response but dismisses it in one paragraph. The dismissal—that the heterophenomenologist "still needs to understand the reports"—assumes what's in question (that understanding is phenomenal).
 - **Severity**: Medium

@@ -55,7 +55,7 @@ The piece is structurally tight and the deep-review loop has already cleaned up 
 
 ### Issue 1: Agent-equivocation is load-bearing but unargued
 
-- **File**: `topics/pragmatist-quantum-foundations-and-the-agent.md`
+- **File**: [topics/pragmatist-quantum-foundations-and-the-agent.md](/topics/pragmatist-quantum-foundations-and-the-agent/)
 - **Location**: Paragraph beginning "But participatory realism generates a question it cannot answer on its own terms" (§ *Participatory Realism and the Agent Problem*, lines 82–86).
 - **Problem**: The article writes that QBism's agents "hold beliefs, form expectations, are surprised by outcomes, and update their credences in response to experience. These are capacities that presuppose [phenomenal consciousness](/concepts/phenomenal-consciousness/) — there must be something it is like to be an agent for the framework to operate." The inference "updates credences ⇒ phenomenal consciousness" is exactly the claim a functionalist, eliminativist, or operationalist QBist would deny, and it is the hinge on which the entire "agent-shaped hole" rhetoric turns. If the inference fails, QBism is not "under-specified"; it is adequately specified at the operational level and dualism is an optional metaphysical overlay.
 - **Severity**: High
@@ -63,15 +63,15 @@ The piece is structurally tight and the deep-review loop has already cleaned up 
 
 ### Issue 2: Decoherence rebuttal cites the wrong programme and missing references
 
-- **File**: `topics/pragmatist-quantum-foundations-and-the-agent.md`
+- **File**: [topics/pragmatist-quantum-foundations-and-the-agent.md](/topics/pragmatist-quantum-foundations-and-the-agent/)
 - **Location**: End of Stapp section (line 104): "The Map's answer to the decoherence objection, developed elsewhere, combines the revised Hagan-Hameroff estimates with the observation that the time-symmetric selection mechanisms in transactional and two-state-vector accounts do not require sustained in-brain coherence of the conventional kind."
 - **Problem**: Hagan-Hameroff-Tuszyński 2002 defends microtubule coherence for Orch-OR, which is Penrose-Hameroff, not Stapp. Stapp's Zeno mechanism operates on ion-channel / Heisenberg-choice timescales that are different from microtubule coherence timescales, and Stapp has himself been explicit that his programme does not require Orch-OR. Transactional interpretation (Cramer) and two-state-vector formalism (Aharonov-Bergmann-Lebowitz / Aharonov-Vaidman) are mathematically distinct from Stapp's Heisenberg-picture Zeno dynamics — they are rival mechanisms for the Map, not supporting lemmas for Stapp. Further, neither Hagan-Hameroff nor Cramer/Aharonov appears in the References list (entries 1–13). The "elsewhere" is a handwave inside the article itself.
 - **Severity**: High
-- **Recommendation**: Either (a) remove the sentence and simply cross-reference the canonical treatment in `topics/quantum-measurement-and-consciousness.md` or `topics/motor-control-quantum-zeno.md`, whichever is the Map's authoritative decoherence rebuttal for Stapp specifically; or (b) keep the sentence but correct the attribution (Stapp's actual decoherence response is about ion-channel superposition in Heisenberg-choice windows, not microtubule Orch-OR) and add the references. Current text invites precisely the reviewer critique Tegmark would mount.
+- **Recommendation**: Either (a) remove the sentence and simply cross-reference the canonical treatment in [topics/quantum-measurement-and-consciousness.md](/topics/quantum-measurement-and-consciousness/) or [topics/motor-control-quantum-zeno.md](/topics/motor-control-quantum-zeno/), whichever is the Map's authoritative decoherence rebuttal for Stapp specifically; or (b) keep the sentence but correct the attribution (Stapp's actual decoherence response is about ion-channel superposition in Heisenberg-choice windows, not microtubule Orch-OR) and add the references. Current text invites precisely the reviewer critique Tegmark would mount.
 
 ### Issue 3: Corridor-reading unfalsifiability is not confessed
 
-- **File**: `topics/pragmatist-quantum-foundations-and-the-agent.md`
+- **File**: [topics/pragmatist-quantum-foundations-and-the-agent.md](/topics/pragmatist-quantum-foundations-and-the-agent/)
 - **Location**: QBism section, paragraph beginning "The claim here concerns structural compatibility rather than covert dualism among QBists" (line 120).
 - **Problem**: The article places its preferred reading of QBism in the "corridor family: single-event and ensemble-invisible, preserving standard Born statistics and remaining compatible with every precision test of the Born rule to date." By construction, then, the interface reading yields no discriminating prediction relative to (a) QBism-without-dualism and (b) standard QM. The article does not pause to acknowledge that this is a strong limitation on the reading's scientific status. The taxonomy sister article `born-rule-violation-brain-interface-empirical-status` does own the trilemma, but this article — which is where most readers will first encounter the corridor placement of QBism — does not.
 - **Severity**: Medium
@@ -79,7 +79,7 @@ The piece is structurally tight and the deep-review loop has already cleaned up 
 
 ### Issue 4: James is over-conscripted; Peirce, Dewey, and neutral monism are absent
 
-- **File**: `topics/pragmatist-quantum-foundations-and-the-agent.md`
+- **File**: [topics/pragmatist-quantum-foundations-and-the-agent.md](/topics/pragmatist-quantum-foundations-and-the-agent/)
 - **Location**: § *QBism's Pragmatist Genealogy* (lines 66–76).
 - **Problem**: The article leans on Fuchs's "James as the veritable mascot" line to underwrite a reading in which QBism's experiential commitments point toward dualism. But James's later work (*Essays in Radical Empiricism*, 1912) is close to neutral monism, not substance dualism — "pure experience" is presented as neither mental nor physical. Fuchs has also cited Peirce (semiotic realism, Firstness as a quality of feeling compatible with panpsychism) and Dewey (transactional naturalism, explicitly non-dualist). By reading Fuchs through the narrowest Jamesian slice, the article makes the dualist reading look more natural than it is. A Buddhist-philosophy-sympathetic reader (Nagarjuna critic above) or a neutral-monist reader would read Fuchs as pointing *away* from dualism, not toward it.
 - **Severity**: Medium
@@ -87,7 +87,7 @@ The piece is structurally tight and the deep-review loop has already cleaned up 
 
 ### Issue 5: "Primitive within a theory" conflated with "metaphysically irreducible"
 
-- **File**: `topics/pragmatist-quantum-foundations-and-the-agent.md`
+- **File**: [topics/pragmatist-quantum-foundations-and-the-agent.md](/topics/pragmatist-quantum-foundations-and-the-agent/)
 - **Location**: QBism section, penultimate paragraph (line 118): "If consciousness is not reducible to physical processes, any physics that requires conscious agents at its foundations *should* find those agents irreducible within its own vocabulary. QBism's agent-shaped hole is exactly the shape dualism predicts."
 - **Problem**: Physics has many primitives (space-time points, mass, charge, field values) that are primitive *within a theory* without being metaphysically non-physical. QBism's primitive agent is primitive within QBism's formalism; this is a syntactic-theoretic fact. The jump from "primitive in the theory" to "metaphysically irreducible" to "non-physical" is the entire dualist inference. The article performs the jump in one sentence without marking it.
 - **Severity**: Medium
@@ -95,7 +95,7 @@ The piece is structurally tight and the deep-review loop has already cleaned up 
 
 ### Issue 6: Healey boundary-drawing objection is asserted, not argued
 
-- **File**: `topics/pragmatist-quantum-foundations-and-the-agent.md`
+- **File**: [topics/pragmatist-quantum-foundations-and-the-agent.md](/topics/pragmatist-quantum-foundations-and-the-agent/)
 - **Location**: § *Healey* (lines 127–130): "Any criterion robust enough to do this work while remaining purely physical will face the same counterexamples that [functionalist](/concepts/functionalism/) accounts of mind face: either the criterion is broad enough to count systems for which 'forming expectations' is clearly metaphorical, or it is narrow enough that it tacitly appeals to something like experience."
 - **Problem**: No counterexamples are cited. The claim is a compressed version of the Chinese Room / combination / triviality objections to functionalism, but Healey needs a much weaker notion of "agent" than functionalism needs for mind in general — he needs only enough structure for measurement-event ascription. The article does not engage this scope difference.
 - **Severity**: Low-Medium

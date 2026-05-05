@@ -20,7 +20,7 @@ topics: []
 # Pessimistic Review - 2026-01-22 Evening
 
 **Date**: 2026-01-22
-**Content reviewed**: `topics/consciousness-as-intelligence-amplifier.md`
+**Content reviewed**: [topics/consciousness-as-intelligence-amplifier.md](/concepts/consciousness-as-amplifier/)
 
 ## Executive Summary
 

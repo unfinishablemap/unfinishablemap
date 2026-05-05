@@ -30,20 +30,20 @@ Scanned obsidian/ excluding reviews/, research/, archive/, hugo/, and workflow/ 
 
 | File | Change |
 |------|--------|
-| `voids/voids.md` | Merged two separate "Specific Voids" entries into one pointing at the unified article; noted coalesce provenance in descriptor |
-| `voids/phenomenology-of-the-edge.md` | Frontmatter deduplicated (two entries → one); inline "Multiple edges" list now uses section-anchor links (`#the-magnitude-face`, `#the-probability-face`) to preserve the distinct phenomenological framing; Further Reading merged to a single entry |
-| `voids/three-kinds-of-void.md` | Inline reference to the scale example now links to `#the-magnitude-face` anchor, preserving the magnitude-specific context |
-| `voids/recognition-void.md` | Frontmatter retargeted; inline "scale void produces vertigo" framing preserved via anchor link to magnitude face |
-| `voids/resolution-void.md` | Frontmatter retargeted; inline contrast with "vast magnitudes produces cognitive strain" preserved via magnitude-face anchor; Further Reading entry expanded to note the inverse-resolution parallel |
-| `voids/mapping-mind-space.md` | Frontmatter retargeted |
-| `voids/embodiment-cognitive-limits.md` | Further Reading entry updated with expanded descriptor covering both faces |
-| `voids/voids-as-evidence.md` | Inline reference in "Cognitive Architecture Family" retargeted |
-| `voids/emergence-void.md` | Frontmatter retargeted |
-| `voids/creative-aesthetic-void.md` | Frontmatter retargeted |
-| `voids/temporal-void.md` | Frontmatter retargeted |
-| `concepts/fitness-beats-truth.md` | Frontmatter retargeted; Further Reading descriptor expanded to flag the probability face as the directly-relevant portion for Bayesian implications of FBT |
-| `topics/consciousness-and-probability-interpretation.md` | Frontmatter retargeted; inline "cognitive void" framing rewritten to identify the probability face specifically (preserves the article's focus on probability while locating it within the unified structure); Further Reading descriptor expanded |
-| `topics/phenomenology-of-deliberation-under-uncertainty.md` | Frontmatter retargeted; inline "describes how poorly we reason about probabilities" rewritten to invoke the probability face; Further Reading descriptor expanded |
+| [voids/voids.md](/voids/) | Merged two separate "Specific Voids" entries into one pointing at the unified article; noted coalesce provenance in descriptor |
+| [voids/phenomenology-of-the-edge.md](/voids/phenomenology-of-the-edge/) | Frontmatter deduplicated (two entries → one); inline "Multiple edges" list now uses section-anchor links (`#the-magnitude-face`, `#the-probability-face`) to preserve the distinct phenomenological framing; Further Reading merged to a single entry |
+| [voids/three-kinds-of-void.md](/voids/three-kinds-of-void/) | Inline reference to the scale example now links to `#the-magnitude-face` anchor, preserving the magnitude-specific context |
+| [voids/recognition-void.md](/voids/recognition-void/) | Frontmatter retargeted; inline "scale void produces vertigo" framing preserved via anchor link to magnitude face |
+| [voids/resolution-void.md](/voids/resolution-void/) | Frontmatter retargeted; inline contrast with "vast magnitudes produces cognitive strain" preserved via magnitude-face anchor; Further Reading entry expanded to note the inverse-resolution parallel |
+| [voids/mapping-mind-space.md](/voids/mapping-mind-space/) | Frontmatter retargeted |
+| [voids/embodiment-cognitive-limits.md](/voids/embodiment-cognitive-limits/) | Further Reading entry updated with expanded descriptor covering both faces |
+| [voids/voids-as-evidence.md](/voids/what-voids-reveal/) | Inline reference in "Cognitive Architecture Family" retargeted |
+| [voids/emergence-void.md](/voids/emergence-void/) | Frontmatter retargeted |
+| [voids/creative-aesthetic-void.md](/voids/creative-aesthetic-void/) | Frontmatter retargeted |
+| [voids/temporal-void.md](/voids/temporal-void/) | Frontmatter retargeted |
+| [concepts/fitness-beats-truth.md](/concepts/fitness-beats-truth/) | Frontmatter retargeted; Further Reading descriptor expanded to flag the probability face as the directly-relevant portion for Bayesian implications of FBT |
+| [topics/consciousness-and-probability-interpretation.md](/topics/consciousness-and-probability-interpretation/) | Frontmatter retargeted; inline "cognitive void" framing rewritten to identify the probability face specifically (preserves the article's focus on probability while locating it within the unified structure); Further Reading descriptor expanded |
+| [topics/phenomenology-of-deliberation-under-uncertainty.md](/topics/phenomenology-of-deliberation-under-uncertainty/) | Frontmatter retargeted; inline "describes how poorly we reason about probabilities" rewritten to invoke the probability face; Further Reading descriptor expanded |
 
 ### Anchor strategy
 
@@ -54,7 +54,7 @@ For inline references where the calling context invoked one face specifically (m
 - `reviews/**` — historical review archives; references preserve the state of the articles at review time. Updating would rewrite history.
 - `research/**` — pre-coalesce research notes; they are chronologically prior and document the research that fed into the eventual articles.
 - `archive/voids/scale-void.md`, `archive/voids/probability-intuition-void.md` — the archive copies of the originals. These carry redirect frontmatter to the unified article and do not need their own `...` references rewritten.
-- `workflow/todo.md` — the task description itself references both old slugs by design (describing what was coalesced). This entry is marked complete in the same commit as the cleanup.
+- [workflow/todo.md](/workflow/todo/) — the task description itself references both old slugs by design (describing what was coalesced). This entry is marked complete in the same commit as the cleanup.
 
 ## Coherence Check Per Calling Context
 

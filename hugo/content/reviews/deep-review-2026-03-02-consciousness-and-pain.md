@@ -65,16 +65,16 @@ The archived `consciousness-and-pain.md` was not modified. All changes target th
 
 The following articles were identified as Tier 2 candidates for `why-pain-hurts` links but were not updated in this review to keep changes focused:
 
-- `topics/the-epiphenomenalist-threat.md` — pain discussed in Functionalism section
-- `topics/reductionism-and-consciousness.md` — pain as explanatory gap illustration
-- `topics/phenomenal-value-realism.md` — pain asymbolia as challenge case
-- `topics/animal-consciousness.md` — nociception vs suffering distinction
-- `topics/hard-problem-of-consciousness.md` — pain as paradigm illustration
-- `concepts/phenomenal-consciousness.md` — pain as paradigm quale
-- `topics/psychophysical-laws-bridging-mind-and-matter.md` — pain asymbolia as evidence
-- `topics/disorders-of-consciousness-as-test-cases.md` — alongside existing pain-asymbolia link
-- `topics/value-blind-vs-value-sensitive-selection.md` — valence as candidate variable
-- `apex/living-with-the-map.md` — pain as illustration of direct acquaintance
+- [topics/the-epiphenomenalist-threat.md](/topics/the-epiphenomenalist-threat/) — pain discussed in Functionalism section
+- [topics/reductionism-and-consciousness.md](/topics/reductionism-and-consciousness/) — pain as explanatory gap illustration
+- [topics/phenomenal-value-realism.md](/topics/phenomenal-value-realism/) — pain asymbolia as challenge case
+- [topics/animal-consciousness.md](/topics/animal-consciousness/) — nociception vs suffering distinction
+- [topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/) — pain as paradigm illustration
+- [concepts/phenomenal-consciousness.md](/concepts/phenomenal-consciousness/) — pain as paradigm quale
+- [topics/psychophysical-laws-bridging-mind-and-matter.md](/topics/psychophysical-laws-bridging-mind-and-matter/) — pain asymbolia as evidence
+- [topics/disorders-of-consciousness-as-test-cases.md](/topics/consciousness-disruption-and-the-mind-brain-interface/) — alongside existing pain-asymbolia link
+- [topics/value-blind-vs-value-sensitive-selection.md](/topics/valence-and-conscious-selection/) — valence as candidate variable
+- [apex/living-with-the-map.md](/apex/living-with-the-map/) — pain as illustration of direct acquaintance
 
 These could be addressed in a future integrate-orphan task if further cross-linking is desired.
 

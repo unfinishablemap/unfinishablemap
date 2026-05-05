@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-None. The article remains stable across five reviews. The 2026-04-02 refinement that added the post-decoherence section was checked against the source concept article ([post-decoherence-selection](/concepts/post-decoherence-selection/)) and the underlying research note (`research/post-decoherence-selection-mechanisms-2026-03-29.md`). All five families of selection mechanism, the improper-mixture distinction, and Schlosshauer's "two of three sub-problems" framing are accurately represented.
+None. The article remains stable across five reviews. The 2026-04-02 refinement that added the post-decoherence section was checked against the source concept article ([post-decoherence-selection](/concepts/post-decoherence-selection/)) and the underlying research note ([research/post-decoherence-selection-mechanisms-2026-03-29.md](/research/post-decoherence-selection-mechanisms-2026-03-29/)). All five families of selection mechanism, the improper-mixture distinction, and Schlosshauer's "two of three sub-problems" framing are accurately represented.
 
 ### Medium Issues Found
 

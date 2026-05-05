@@ -38,7 +38,7 @@ None. The article has stabilised well after the initial deep review (2026-01-20)
    - **Resolution**: Removed the HTML comment block.
 
 4. **Broken wikilink `[metarepresentation](/concepts/metacognition/)`**: No concept page exists for metarepresentation, but 61 files across the site link to it. The concept is defined inline in this article ("knowing that you know"). This is a site-wide infrastructure issue rather than an article-specific error.
-   - **Resolution**: Retained the wikilink for consistency with rest of site. Noted as site-wide todo: create `concepts/metarepresentation.md`.
+   - **Resolution**: Retained the wikilink for consistency with rest of site. Noted as site-wide todo: create [concepts/metarepresentation.md](/concepts/metacognition/).
 
 ### Counterarguments Considered
 

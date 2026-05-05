@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-01
 **Content reviewed**:
-- `topics/aesthetic-dimension-of-consciousness.md`
-- `topics/language-recursion-and-consciousness.md`
-- `topics/meaning-and-consciousness.md`
+- [topics/aesthetic-dimension-of-consciousness.md](/topics/aesthetics-and-consciousness/)
+- [topics/language-recursion-and-consciousness.md](/topics/language-recursion-and-consciousness/)
+- [topics/meaning-and-consciousness.md](/topics/consciousness-and-semantic-understanding/)
 
 ## Executive Summary
 

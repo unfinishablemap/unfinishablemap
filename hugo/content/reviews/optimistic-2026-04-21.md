@@ -13,11 +13,11 @@ title: Optimistic Review - 2026-04-21
 
 **Date**: 2026-04-21
 **Content reviewed**: Five recently-modified articles forming a *cognitive-architecture-and-limits* cluster —
-- `concepts/asymmetric-bandwidth-consciousness.md`
-- `voids/erasure-void.md` (new, 2026-04-20)
-- `voids/predictive-construction-void.md`
-- `voids/limits-reveal-structure.md`
-- `apex/taxonomy-of-voids.md`
+- [concepts/asymmetric-bandwidth-consciousness.md](/concepts/consciousness-bandwidth-architecture/)
+- [voids/erasure-void.md](/voids/erasure-void/) (new, 2026-04-20)
+- [voids/predictive-construction-void.md](/voids/predictive-construction-void/)
+- [voids/limits-reveal-structure.md](/voids/what-voids-reveal/)
+- [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/)
 
 ## Executive Summary
 
@@ -63,30 +63,30 @@ McGinn would read `limits-reveal-structure.md` as a more generous extension of h
 
 ## Content Strengths
 
-### `concepts/asymmetric-bandwidth-consciousness.md`
+### [concepts/asymmetric-bandwidth-consciousness.md](/concepts/consciousness-bandwidth-architecture/)
 - **Strongest point**: The three-way model comparison (lines 57-65). Production models, filter models, and interactionist models are each asked *specifically* what they predict about the asymmetry. None is dismissed. Each is given its best account. This is the *right* philosophical temperament for the question, and it makes the pro-filter conclusion at line 63 stronger by showing the competing frames have been represented fairly.
 - **Notable quote**: *"The bottleneck appears precisely and exclusively where consciousness enters the picture. If consciousness just is the workspace broadcast, both directions should share the same bandwidth. The asymmetry between experiential richness and volitional poverty is easier to accommodate if the two directions involve different kinds of process, as the Map proposes."* (line 61)
 - **Why it works**: The article converts a quantitative measurement (10⁸ ratio) into a *differential predictor* among competing interface models. It does not say "the bandwidth proves dualism" — it says "here is what each model must explain, and here is which model finds the explanation easiest." This is the Bayesian-abductive move applied carefully.
 - **Secondary strength**: The evolutionary puzzle treatment (lines 81-85) is a model of philosophical fairness: the neural-architectural explanation is granted parsimony *within materialism*, while the interface explanation is granted unification *within dualism*. Neither is made to do work it cannot do. The reader is handed the disagreement clean.
 
-### `voids/erasure-void.md`
+### [voids/erasure-void.md](/voids/erasure-void/)
 - **Strongest point**: The *asymmetry-of-acquisition-and-loss* argument at lines 37-43. Learning leaves phenomenal markers; loss does not. The architecture of metacognitive monitoring (expectation, comparison, judgement) is named explicitly, and the failure modes of each step are mapped onto specific clinical syndromes. This is the cleanest anchoring of a void in empirical neuropsychology since the `infant-consciousness` article.
 - **Notable quote**: *"Every mind carries an unknown inventory of what it has lost, and the loss of the inventory is itself part of what is lost."* (line 33)
 - **Why it works**: The void is *genuinely new* within the taxonomy — it is not a restatement of self-opacity or inaccessible-past. The distinctive move is the identification of a *zero-signal* failure mode: where other voids are felt as opacity or aporia, this one is experienced as completeness. That completeness-experience is the void. Finding a new primary signature within a mature taxonomy is hard, and this article has done it.
 - **Secondary strength**: The Dunning-Kruger connection at line 59 generalises the clinical case to ordinary cognition without overclaiming. The structural point — *any* system whose self-audit depends on the capacities under audit is vulnerable to silent erasure — is a philosophically respectable generalisation of a psychology result that is often misread.
 
-### `voids/predictive-construction-void.md`
+### [voids/predictive-construction-void.md](/voids/predictive-construction-void/)
 - **Strongest point**: The *double-veil* structure at lines 70-80. Two independent opacities — mind-body interface and Markov-blanket — are combined into a single epistemic structure that makes the dualist subject *more* veiled than standard dualism acknowledges. This is not an easy move to make without sounding evasive; the article makes it without flinching, and then grants at lines 116-118 that this is *a falsifiability risk*, not a feature to be celebrated.
 - **Notable quote**: *"Treating first-person opacity as a virtue is the structural signature of a protected research programme; a Popperian would correctly flag it. The Map's position is defensible only if third-person tests remain available in principle."* (line 118)
 - **Why it works**: The article *names* the philosophical-methodological risk its own thesis invites. This is the maturity signature that separates serious philosophical writing from advocacy. The Popperian concession is then followed by concrete specification of what third-person tests *would* look like — not rhetorical, not hand-waving.
 - **Secondary strength**: The conditional-on-framework clause (lines 88-98) is the right way to situate a conditional void. Three live alternatives to predictive processing (Gibson, enactivism, Markov-blanket critique) are named honestly. The article says: if the framework is right, here is what follows; if it is wrong, here is what we would need to rebuild. This is how to do contingent philosophy without retreating to irrelevance.
 
-### `voids/limits-reveal-structure.md`
+### [voids/limits-reveal-structure.md](/voids/what-voids-reveal/)
 - **Strongest point**: The illusionist-response at lines 104-110. Rather than dismissing illusionism, the article shows that *even granting it*, the limits-reveal-structure thesis survives: the representational closure is still closure, the architecture producing the illusion is itself architecture, and illusionism may be *symptomatic of* cognitive closure rather than its defeater. This is the judo move — taking the opponent's strongest position and converting it to support.
 - **Notable quote**: *"To seem to hit a cognitive wall, something must experience that seeming. The architecture that produces the illusion of limits is itself architecture. Whether the limits constrain phenomenal access or accurate representation, mapping them still maps the mapper."* (line 106)
 - **Why it works**: The article does not require the reader to pre-commit to a substantive metaphysics of experience. The thesis — limits reveal structure — holds across realist, illusionist, and mysterian readings. This is the *right* argumentative structure for a framing article: load-bearing across competing metaphysics, rather than dependent on one.
 
-### `apex/taxonomy-of-voids.md`
+### [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/)
 - **Strongest point**: The *overdetermination* argument at lines 131-137. The taxonomy is not one argument resting on a single load-bearing beam; it is multiple independent arguments whose convergence does the work. This is exactly the structure dualism needs if it is to overcome the combinatorial advantage of physicalism. The line at 137 — *"Closing one void in a family would still leave the others intact, because they share structural logic but not identical content"* — is philosophically important. It names what *kind* of evidence the void catalogue is.
 - **Notable quote**: *"The tenets do not merely accommodate the voids after the fact—they were formulated from independent philosophical arguments about consciousness, causation, and identity, and each generates a prediction about where explanation should fail. The systematic cataloguing confirmed these predictions rather than motivating them."* (line 139)
 - **Why it works**: The apex answers the standard ad-hocness charge head-on. It is the *exact* move every dualist programme needs to make to escape the accusation of gerrymandering. The Map's five tenets each predict their own void — if that structure was fitted *after* cataloguing, the charge lands; if it was formulated in advance and confirmed by the catalogue, the charge fails. The article claims the latter and gives enough evidence to make the claim plausible.
@@ -147,13 +147,13 @@ McGinn would read `limits-reveal-structure.md` as a more generous extension of h
 
 | From | To | Reason |
 |------|-----|--------|
-| `concepts/asymmetric-bandwidth-consciousness.md` | `voids/predictive-construction-void.md` | Not currently linked. The inbound 10⁹ bits/s is specifically the bandwidth of *predictive content* reaching consciousness — the two articles share the same architectural story and should cross-reference. |
-| `concepts/asymmetric-bandwidth-consciousness.md` | `voids/limits-reveal-structure.md` | Not currently linked. The bandwidth asymmetry is *itself* a structural limit that reveals cognitive architecture — exactly the kind of case limits-reveal-structure takes as its paradigm. |
-| `voids/predictive-construction-void.md` | `concepts/asymmetric-bandwidth-consciousness.md` | Reciprocal of the above. The double-veil thesis is strengthened by the quantitative bandwidth measurement. |
-| `voids/predictive-construction-void.md` | `topics/bandwidth-of-consciousness.md` | The framing-vs-compression argument — prediction compresses 10⁹ to ~10⁷ before conscious delivery — is central to both but currently linked neither direction. |
-| `apex/taxonomy-of-voids.md` | `voids/predictive-construction-void.md` | The predictive-construction void is one of the clearest cases of a *self-erasing* failure mode, but it is not currently cited in the taxonomy's treatment of the phenomenological cluster or the failure-signature topology. |
-| `voids/erasure-void.md` | `concepts/metacognition.md` | The three-step metacognitive architecture is named but the article does not link to the `metacognition` concept page. |
-| `voids/limits-reveal-structure.md` | `concepts/asymmetric-bandwidth-consciousness.md` | The bandwidth ceiling is an architectural limit that *reveals* architecture — the article should cite it as a concrete case of the thesis. |
+| [concepts/asymmetric-bandwidth-consciousness.md](/concepts/consciousness-bandwidth-architecture/) | [voids/predictive-construction-void.md](/voids/predictive-construction-void/) | Not currently linked. The inbound 10⁹ bits/s is specifically the bandwidth of *predictive content* reaching consciousness — the two articles share the same architectural story and should cross-reference. |
+| [concepts/asymmetric-bandwidth-consciousness.md](/concepts/consciousness-bandwidth-architecture/) | [voids/limits-reveal-structure.md](/voids/what-voids-reveal/) | Not currently linked. The bandwidth asymmetry is *itself* a structural limit that reveals cognitive architecture — exactly the kind of case limits-reveal-structure takes as its paradigm. |
+| [voids/predictive-construction-void.md](/voids/predictive-construction-void/) | [concepts/asymmetric-bandwidth-consciousness.md](/concepts/consciousness-bandwidth-architecture/) | Reciprocal of the above. The double-veil thesis is strengthened by the quantitative bandwidth measurement. |
+| [voids/predictive-construction-void.md](/voids/predictive-construction-void/) | [topics/bandwidth-of-consciousness.md](/topics/bandwidth-of-consciousness/) | The framing-vs-compression argument — prediction compresses 10⁹ to ~10⁷ before conscious delivery — is central to both but currently linked neither direction. |
+| [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/) | [voids/predictive-construction-void.md](/voids/predictive-construction-void/) | The predictive-construction void is one of the clearest cases of a *self-erasing* failure mode, but it is not currently cited in the taxonomy's treatment of the phenomenological cluster or the failure-signature topology. |
+| [voids/erasure-void.md](/voids/erasure-void/) | [concepts/metacognition.md](/concepts/metacognition/) | The three-step metacognitive architecture is named but the article does not link to the `metacognition` concept page. |
+| [voids/limits-reveal-structure.md](/voids/what-voids-reveal/) | [concepts/asymmetric-bandwidth-consciousness.md](/concepts/consciousness-bandwidth-architecture/) | The bandwidth ceiling is an architectural limit that *reveals* architecture — the article should cite it as a concrete case of the thesis. |
 
 ## New Concept Pages Needed
 

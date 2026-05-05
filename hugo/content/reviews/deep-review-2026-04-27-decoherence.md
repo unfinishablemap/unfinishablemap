@@ -22,7 +22,7 @@ topics: []
 **Date**: 2026-04-27
 **Article**: [Decoherence and the Quantum Consciousness Objection](/concepts/decoherence/)
 **Previous review**: [2026-04-15](/reviews/deep-review-2026-04-15-decoherence/)
-**Context**: Cross-review of `concepts/decoherence.md` and `concepts/stapp-quantum-mind.md` against the V-N-W article's new "Decoherence pressure" subsection (added 2026-04-27 in [today's V-N-W refinement](/reviews/deep-review-2026-04-27-von-neumann-wigner-interpretation/)).
+**Context**: Cross-review of [concepts/decoherence.md](/concepts/decoherence/) and [concepts/stapp-quantum-mind.md](/concepts/stapp-quantum-mind/) against the V-N-W article's new "Decoherence pressure" subsection (added 2026-04-27 in [today's V-N-W refinement](/reviews/deep-review-2026-04-27-von-neumann-wigner-interpretation/)).
 
 ## Pessimistic Analysis Summary
 
@@ -81,7 +81,7 @@ Length-neutral: V-N-W cross-link addition (+17 words) offset by tightening of ph
 
 ## Stapp Article Cross-Check
 
-The skill's cross-review prompt asked to also consider `concepts/stapp-quantum-mind.md`. The Stapp article was deep-reviewed 2026-04-23 and remains stable:
+The skill's cross-review prompt asked to also consider [concepts/stapp-quantum-mind.md](/concepts/stapp-quantum-mind/). The Stapp article was deep-reviewed 2026-04-23 and remains stable:
 - Already has 2 references to von-neumann-wigner-interpretation (body and concepts frontmatter)
 - Already engages decoherence objection at appropriate length
 - Already cross-links to [decoherence](/concepts/decoherence/) in body and Further Reading

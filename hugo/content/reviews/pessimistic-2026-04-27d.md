@@ -52,7 +52,7 @@ The article reifies the very thing it should be deconstructing. "The observer's 
 
 ### Issue 1: Tegmark-style decoherence objection unaddressed
 
-- **File**: `concepts/von-neumann-wigner-interpretation.md`
+- **File**: [concepts/von-neumann-wigner-interpretation.md](/concepts/von-neumann-wigner-interpretation/)
 - **Location**: "Standard Objections" section (lines 70–80) and "From V-N-W to Stapp" section (lines 82–88)
 - **Problem**: The strongest physics-based objection to consciousness-causes-collapse — that decoherence in warm wet brains destroys the relevant quantum coherences in femtosecond timescales — is not engaged. The article lists [decoherence](/concepts/decoherence/) in the frontmatter but does not discuss timescales, candidate substrates, or the Stapp-Zeno response to decoherence pressure. A reader who knows the physics literature will treat this silence as decisive against the article's thesis.
 - **Severity**: High
@@ -60,7 +60,7 @@ The article reifies the very thing it should be deconstructing. "The observer's 
 
 ### Issue 2: Hybrid theory dilutes headline thesis without acknowledgement
 
-- **File**: `concepts/von-neumann-wigner-interpretation.md`
+- **File**: [concepts/von-neumann-wigner-interpretation.md](/concepts/von-neumann-wigner-interpretation/)
 - **Location**: "The prebiotic problem" (line 74) and "Beyond both" (line 98)
 - **Problem**: The article opens by characterising V-N-W as "consciousness causes collapse" and uses this as the bridge to the Map's framework. But the prebiotic resolution offloaded to [prebiotic-collapse](/concepts/prebiotic-collapse/) is "objective reduction with consciousness modulation" — i.e., collapse happens via thermal/spontaneous mechanisms even without consciousness, and consciousness then biases statistics within those collapse events. This is a substantively weaker claim than the headline. The article never flags that "modulation of objective collapse" is what the Map actually holds, leaving the reader with the impression that V-N-W's strong consciousness-causes-collapse position is preserved. This is misleading about the Map's actual commitments.
 - **Severity**: High
@@ -68,7 +68,7 @@ The article reifies the very thing it should be deconstructing. "The observer's 
 
 ### Issue 3: Frauchiger–Renner cited as supporting evidence; in fact pressures V-N-W
 
-- **File**: `concepts/von-neumann-wigner-interpretation.md`
+- **File**: [concepts/von-neumann-wigner-interpretation.md](/concepts/von-neumann-wigner-interpretation/)
 - **Location**: "Wigner's Consciousness Thesis" section (line 58)
 - **Problem**: The article says F–R "sharpens the original paradox for any single-world interpretation," framing this as continuity with V-N-W's relevance. But F–R is a no-go theorem: it shows that *any* single-world interpretation faces consistency problems with universal quantum mechanics plus measurement-result agreement. V-N-W is a single-world interpretation. The natural conclusion most quantum-foundations researchers draw from F–R is that one must drop universal quantum mechanics (instrumentalism), drop single-world (Many-Worlds), or drop subject-frame consistency (QBism, RQM) — none of which are friendly to V-N-W. The article's framing implies F–R is downstream support for V-N-W; the literature reads it as the opposite.
 - **Severity**: Medium
@@ -76,7 +76,7 @@ The article reifies the very thing it should be deconstructing. "The observer's 
 
 ### Issue 4: Self-stultification argument asserted without engaging rebuttal
 
-- **File**: `concepts/von-neumann-wigner-interpretation.md`
+- **File**: [concepts/von-neumann-wigner-interpretation.md](/concepts/von-neumann-wigner-interpretation/)
 - **Location**: "Strengths of the Interpretation" section, third bullet (line 68)
 - **Problem**: "It avoids the self-stultification problem: an epiphenomenal consciousness could not reliably report on its own states." This is asserted as a clean dialectical win. The standard physicalist rebuttal — that the *physical correlates* of consciousness do the reporting work, with experience running in parallel — is not addressed. Chalmers and others have written extensively on why this rebuttal does not fully succeed, but the rebuttal is not addressed *in this article*, which leaves the appeal to self-stultification looking weaker than it is.
 - **Severity**: Medium
@@ -84,7 +84,7 @@ The article reifies the very thing it should be deconstructing. "The observer's 
 
 ### Issue 5: "First rigorous proposal" overclaim
 
-- **File**: `concepts/von-neumann-wigner-interpretation.md`
+- **File**: [concepts/von-neumann-wigner-interpretation.md](/concepts/von-neumann-wigner-interpretation/)
 - **Location**: Opening paragraph (line 38)
 - **Problem**: "It is the first rigorous proposal placing consciousness at the centre of quantum mechanics." London and Bauer's 1939 *La Théorie de l'Observation en Mécanique Quantique* explicitly argues that consciousness terminates the measurement chain, a more direct ancestor of the consciousness-causes-collapse thesis than von Neumann's formalism (which, as the article correctly notes, von Neumann himself presented as mathematics rather than metaphysics). The "first rigorous proposal" claim is contestable historiography.
 - **Severity**: Low
@@ -92,7 +92,7 @@ The article reifies the very thing it should be deconstructing. "The observer's 
 
 ### Issue 6: Wigner's retreat treated as a footnote
 
-- **File**: `concepts/von-neumann-wigner-interpretation.md`
+- **File**: [concepts/von-neumann-wigner-interpretation.md](/concepts/von-neumann-wigner-interpretation/)
 - **Location**: "Wigner's Consciousness Thesis" section (line 58)
 - **Problem**: "Wigner later retreated from this strong position, partly due to concerns about solipsism and the difficulty of specifying *whose* consciousness triggers collapse." This is one sentence, treated as a curiosity. But the originator's retreat is significant evidence about the interpretation's internal stability, and the article's lineage claim ("ancestor of the Map's framework") is weakened by this retreat being unaddressed. The Map is in the position of pressing forward with a thesis the originator walked back.
 - **Severity**: Medium
@@ -100,7 +100,7 @@ The article reifies the very thing it should be deconstructing. "The observer's 
 
 ### Issue 7: "Within physics vs outside physics" distinction is rhetorical
 
-- **File**: `concepts/von-neumann-wigner-interpretation.md`
+- **File**: [concepts/von-neumann-wigner-interpretation.md](/concepts/von-neumann-wigner-interpretation/)
 - **Location**: "From V-N-W to Stapp" section (line 86)
 - **Problem**: The article claims Stapp's consciousness operates "*within* orthodox quantum mechanics" while Wigner's operates "*outside* physics," and that this difference makes Stapp's position "respect Minimal Quantum Interaction more naturally." But this distinction is rhetorical, not argued. If consciousness selects which question to pose to nature (Stapp's "Heisenberg choice"), that selection is still a non-physical influence on physics — it just enters at the question-selection step rather than at the collapse step. Calling this "within physics" because it lives at Process 1 in von Neumann's formalism does not change the metaphysical structure: consciousness is still doing causal work that the Schrödinger equation does not specify. The distinction may matter for *aesthetic* reasons (the formalism is not modified), but it is not clear it matters for *Minimal Quantum Interaction* reasons (which concern the *amount* of non-physical influence, not its location in the formalism).
 - **Severity**: Medium

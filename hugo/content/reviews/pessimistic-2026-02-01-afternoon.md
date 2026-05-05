@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-01
 **Content reviewed**:
-- `topics/conservation-laws-and-mind.md`
-- `topics/death-and-consciousness.md`
-- `concepts/causal-closure.md`
+- [topics/conservation-laws-and-mind.md](/concepts/conservation-laws-and-mental-causation/)
+- [topics/death-and-consciousness.md](/topics/death-and-consciousness/)
+- [concepts/causal-closure.md](/concepts/causal-closure/)
 
 ## Executive Summary
 
@@ -119,7 +119,7 @@ The Map's position requires indexical identity—that *I* am this particular con
 
 ### Issue 1: The Selection Regress Problem
 
-- **File**: `topics/conservation-laws-and-mind.md`
+- **File**: [topics/conservation-laws-and-mind.md](/concepts/conservation-laws-and-mental-causation/)
 - **Location**: Lines 86-100
 - **Problem**: The "selection not injection" framework faces a regress. If consciousness *selects* among quantum outcomes, what determines *how* it selects? Either (a) the selection is determined by prior mental states, in which case those prior states require explanation, or (b) the selection is undetermined, in which case it's indistinguishable from randomness, or (c) the selection is self-determining, which requires agent causation. The article assumes (c) without argument—that consciousness is a self-determining cause that resolves indeterminacy through "intentional directedness." But this is precisely what needs to be established, not assumed.
 - **Severity**: High
@@ -127,7 +127,7 @@ The Map's position requires indexical identity—that *I* am this particular con
 
 ### Issue 2: Gap-Filling Non Sequitur
 
-- **File**: `concepts/causal-closure.md`
+- **File**: [concepts/causal-closure.md](/concepts/causal-closure/)
 - **Location**: Lines 117-137
 - **Problem**: The argument structure is: (1) quantum mechanics doesn't determine which particular outcome occurs; (2) therefore consciousness might determine which outcome occurs. This is a non sequitur. From "physics doesn't determine X" we cannot infer "consciousness determines X" without establishing that consciousness is the *only* alternative to physics. Other alternatives: X is genuinely random, X is determined by hidden variables, X is determined by some other non-conscious process we haven't identified. The articles consider hidden variables and randomness but dismiss them too quickly. Hidden variables are dismissed because "Occam's Razor cuts both ways"—but this doesn't establish that consciousness is more parsimonious than hidden variables. Randomness is dismissed because "a sufficient cause produces its effect"—but why think outcomes need sufficient causes rather than being genuinely stochastic?
 - **Severity**: High
@@ -135,7 +135,7 @@ The Map's position requires indexical identity—that *I* am this particular con
 
 ### Issue 3: Filter Theory's Location Problem
 
-- **File**: `topics/death-and-consciousness.md`
+- **File**: [topics/death-and-consciousness.md](/topics/death-and-consciousness/)
 - **Location**: Lines 51-57
 - **Problem**: Filter theory claims the brain "constrains" or "transmits" consciousness rather than producing it. This requires consciousness to exist independently of the brain—to be "elsewhere" and get filtered through neural tissue. But where is this elsewhere? The article provides no account. If consciousness is non-spatial (has no location), how does it interface with spatially located neural tissue? If consciousness is somehow spatial, where is it located when not being filtered? The "rendering engine" analogy makes this worse: a rendering engine renders *something*—what is consciousness rendering, and where does the rendered content exist before rendering?
 - **Severity**: High
@@ -143,7 +143,7 @@ The Map's position requires indexical identity—that *I* am this particular con
 
 ### Issue 4: Stapp Framework Presented as More Established Than It Is
 
-- **File**: `concepts/causal-closure.md`
+- **File**: [concepts/causal-closure.md](/concepts/causal-closure/)
 - **Location**: Lines 139-162
 - **Problem**: The article states that Stapp's framework "uses orthodox quantum mechanics (von Neumann-Lüders projection)—no speculative new physics is required." This is misleading. Stapp's framework adds consciousness as the agent of quantum measurement, which is not part of standard quantum mechanics. Von Neumann noted the measurement problem but didn't claim consciousness solves it—he left it open. Stapp's claim that mental effort constitutes quantum observation is an interpretation, not a consequence of the formalism. The article presents this as settled physics when it's contested metaphysics.
 - **Severity**: Medium
@@ -151,7 +151,7 @@ The Map's position requires indexical identity—that *I* am this particular con
 
 ### Issue 5: Death Article's NDE Treatment Overstates Evidence
 
-- **File**: `topics/death-and-consciousness.md`
+- **File**: [topics/death-and-consciousness.md](/topics/death-and-consciousness/)
 - **Location**: Lines 124-133
 - **Problem**: The article claims NDEs provide "intriguing evidence" and mentions "verified cases" of out-of-body perception without citing specific cases or addressing methodological criticisms. The AWARE studies are mentioned but their actual findings are not: AWARE I found zero verified cases of targets seen during cardiac arrest (the main test of veridical perception); AWARE II had one case with some details but no target verification. The "gamma wave surges in dying brains" finding (Xu et al. 2023) is cited as paradoxical, but the same researchers interpreted it as neural correlates of experience, not evidence for consciousness independent of brain.
 - **Severity**: Medium
@@ -159,7 +159,7 @@ The Map's position requires indexical identity—that *I* am this particular con
 
 ### Issue 6: Haecceity Assumed but Not Defended
 
-- **File**: `topics/death-and-consciousness.md`
+- **File**: [topics/death-and-consciousness.md](/topics/death-and-consciousness/)
 - **Location**: Lines 61-80
 - **Problem**: The article assumes haecceity—that you have an "irreducible thisness" that couldn't be replicated—and uses this to reject Parfit's view that survival is pattern-continuity. But haecceity is precisely what's in dispute. Parfit's position is that there's no further fact about "who you are" beyond psychological continuity. The article treats our intuition that duplicates aren't us as evidence for haecceity, but Parfit would say this intuition is confused—a relic of folk metaphysics that dissolves under analysis. The article doesn't engage with Parfit's arguments for why haecceity is incoherent; it just asserts that haecceity is real because we feel it is.
 - **Severity**: Medium

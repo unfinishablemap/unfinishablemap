@@ -40,7 +40,7 @@ None. Both articles already passed clean deep reviews on 2026-04-30 with strong 
    - Two problems: (a) the "this is X, not Y" structure is the LLM cliché the writing-style guide forbids; (b) the dichotomy ("cog-phen, not info processing") implies a strong constitutive claim (PCT-style) that only some cognitive-phenomenology liberals accept — accompaniment-liberals would say phenomenal recognition can accompany information processing without being its alternative.
    - Resolution: rewrote as "noetic consciousness on the liberal cognitive-phenomenology reading the Map adopts involves phenomenal recognition... A language model that outputs correct facts may lack this accompanying recognition; whether that absence is decisive depends on contested intra-liberal commitments (e.g., the Phenomenal Constitution Thesis), not on cognitive phenomenology as such." This (i) drops the cliché, (ii) marks the position as a Map commitment rather than a settled fact, (iii) explicitly distinguishes PCT from cog-phen liberalism more broadly, and (iv) acknowledges that the LLM-discriminator argument depends on the contested PCT-strength claim, not on cognitive phenomenology itself.
 
-2. **`topics/ai-consciousness.md` — Chinese Room/PIT hedge addressed the Chinese Room but not PIT-internal contestation**:
+2. **[topics/ai-consciousness.md](/topics/ai-consciousness/) — Chinese Room/PIT hedge addressed the Chinese Room but not PIT-internal contestation**:
    - Original closing hedge: "...many philosophers consider it refuted, and the Map's skepticism does not rest on it alone."
    - The hedge correctly flagged the Chinese Room as non-decisive and decoupled the Map's skepticism from it, but didn't acknowledge that PIT (the Map's preferred response) is itself a strong cognitive-phenomenology commitment not all liberals endorse — the same overpromotion shape the pessimistic review flagged for PCT in the cog-phen article.
    - Resolution: inserted "PIT is itself a strong constitutive position not all cognitive-phenomenology liberals endorse" into the hedge. This mirrors the recommended fix for the cog-phen article: surface the intra-liberal disagreement at the point of commitment.
@@ -55,7 +55,7 @@ All six adversarial personas re-engaged on the targeted PCT-overpromotion questi
 ## Attribution Accuracy Check
 
 - `ai-consciousness-typology.md`: All citations re-verified (Block 1995, Chalmers 1996, DeWall et al. 2008, Klein 2016, Metzinger 2021, Schwitzgebel 2025, Tulving 1985 & 2002, Wheeler/Stuss/Tulving 1997). The new wording does not introduce attribution claims.
-- `topics/ai-consciousness.md`: All citations re-verified (Searle 1980, Block 1978, Hoel 2025 with preprint qualifier preserved, Engel 2007, Cao 2020, Husserl 1991, Josipovic 2019, Neven 2024, Harnad 2007, Horgan & Tienson 2002, Kriegel 2013, Chalmers 2010). The new clause about PIT correctly characterises it as a strong constitutive position; no source/Map conflation introduced.
+- [topics/ai-consciousness.md](/topics/ai-consciousness/): All citations re-verified (Searle 1980, Block 1978, Hoel 2025 with preprint qualifier preserved, Engel 2007, Cao 2020, Husserl 1991, Josipovic 2019, Neven 2024, Harnad 2007, Horgan & Tienson 2002, Kriegel 2013, Chalmers 2010). The new clause about PIT correctly characterises it as a strong constitutive position; no source/Map conflation introduced.
 
 ## Optimistic Analysis Summary
 

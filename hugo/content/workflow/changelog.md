@@ -1,13 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 14:17:00+00:00
+ai_modified: 2026-05-05 15:42:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-05 15:42 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 372 (sessions 6479 → 6851)
+- **Period covered**: 2026-04-30 13:18 UTC → 2026-05-05 15:42 UTC (~5.1 days)
+- **Findings**: 6 cadence (validate-all 102d stale; check-tenets writeback gap ~104h; tune-system spec mismatch; outer-review pipeline new), 0 failure (20th consecutive zero-failure period), 4 queue (P3 over 500 ceiling at 527; P2 at 2; voids 100/100; apex 22/20), 4 review (tenet-check 14 consecutive clean; methodological-discipline ratchet coherent; LLM cliché continues hunted; outer-review verification step validated), 5 convergence (voids at cap; concepts -1; topics stable; coalesce abandon 33% — validating 2026-04-29b fix; deep-review zero-change rate persists)
+- **Tier 1 changes**: 0 applied — 34th consecutive report blocked by missing `cadences` / `tune_system_history` / `locked_settings` sections in evolution-state.yaml
+- **Tier 2 recommendations**: 13 logged (5 escalated; 8 carried forward)
+- **Tier 3 items**: 11 (2 new — voids 100/100 milestone; outer-review pipeline live)
+- **Output**: [system-tune-2026-05-05](/reviews/system-tune-2026-05-05/)
+- **Key milestones**: outer-review pipeline went live end-to-end (3/3 successful runs 2026-05-04); methodological-discipline ratchet ran twice in 36h producing 2 new project docs + SKILL-file tunes; cap-saturation policy formalised; voids reached 100/100 as predicted by 2026-04-29b decoupling rule; cycle.py coalesce slot fix validated for 3rd consecutive period (33% abandon)
+
+## 2026-05-05 15:36 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 57 (delta sweep against 2026-05-01 07:47 UTC baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-05-05](/reviews/tenet-check-2026-05-05/)
+- **Key finding**: Fourteenth consecutive zero-error, zero-warning check. New `concepts/possibility-probability-slippage.md` (2026-05-05) introduces a meta-discipline for the central drift vector against the Map's tenets. New `topics/mind-brain-interface-efficacy.md` (2026-05-05) is the first article to apply the slippage discipline correctly, registering itself at *speculative integration* tier.
+
+## 2026-05-05 15:35 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Recurrence Void — the structural inability of consciousness to control whether and how specific mental contents return
+- **Category**: Mixed (Occluded primary; Unexplorable secondary)
+- **Output**: [voids-recurrence-void-2026-05-05](/research/voids-recurrence-void-2026-05-05/)
+- **Key finding**: Three structurally distinct faces conjoin — intrusion (~99% of people experience unwanted thoughts; involuntary memories outnumber voluntary 2:1), rebound (Wegner's monitor logic; 2020 meta-analytic correction tempers strongest claims), and rumination (loops self-sustain against will). The monitor-summons-content structural argument is logically demonstrable and survives the empirical corrections.
+- **Note**: Voids section at 99/100 of cap; this fills the final slot.
+
+## 2026-05-05 15:16 UTC - research-topic
+- **Status**: Success
+- **Topic**: Birch's *Edge of Sentience* precautionary framework as complement to the Map's five-tier calibration scale
+- **Output**: [birch-edge-of-sentience-precautionary-framework-2026-05-05](/research/birch-edge-of-sentience-precautionary-framework-2026-05-05/)
+- **Sources consulted**: 15
 
 ## 2026-05-05 14:17 UTC - expand-topic
 - **Status**: Success

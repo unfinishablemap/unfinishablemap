@@ -22,7 +22,7 @@ topics: []
 **Date**: 2026-05-01
 **Article**: [The Interface Specification Programme](/apex/interface-specification-programme/)
 **Previous review**: [2026-04-21](/reviews/deep-review-2026-04-21-interface-specification-programme/)
-**Trigger**: Wikilink maintenance — `topics/the-interface-specification-problem` and `topics/the-interface-location-problem` were coalesced into `topics/the-interface-problem.md` (commit b561b75cf, 2026-05-01)
+**Trigger**: Wikilink maintenance — `topics/the-interface-specification-problem` and `topics/the-interface-location-problem` were coalesced into [topics/the-interface-problem.md](/topics/the-interface-problem/) (commit b561b75cf, 2026-05-01)
 **Mode**: Targeted link-maintenance review — article was declared stable on 2026-04-21; this review verifies that the coalescence does not require substantive philosophical revision and updates the two affected wikilinks.
 **Word count**: 3512 → 3512 (no content change)
 

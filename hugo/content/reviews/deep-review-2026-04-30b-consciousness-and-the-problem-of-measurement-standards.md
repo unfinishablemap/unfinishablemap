@@ -22,7 +22,7 @@ topics: []
 
 ## Scope
 
-Targeted cross-link addition: link `topics/consciousness-and-the-problem-of-measurement-standards.md` to `voids/the-quantitative-comprehension-void.md#the-introspective-ceiling`. Article is in stable state per the prior review (4th pass earlier today); no other content review was performed.
+Targeted cross-link addition: link [topics/consciousness-and-the-problem-of-measurement-standards.md](/topics/consciousness-and-the-problem-of-measurement-standards/) to `voids/the-quantitative-comprehension-void.md#the-introspective-ceiling`. Article is in stable state per the prior review (4th pass earlier today); no other content review was performed.
 
 ## Pessimistic Analysis Summary
 

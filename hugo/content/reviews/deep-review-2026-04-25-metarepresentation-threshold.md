@@ -53,10 +53,10 @@ topics: []
 - Four high-value inbound links added from articles where the threshold does direct argumentative work.
 
 ### Cross-links Added (inbound, in other articles)
-1. **`concepts/jourdain-hypothesis.md`**: Added in-body link in opening paragraph (procedural/declarative boundary explicitly tagged as "the metarepresentation-threshold"). Also added bullet to Further Reading.
-2. **`concepts/theory-of-mind.md`**: Added in-body link in the existing "Metarepresentational Threshold" section (the section was named for this concept but did not link to the article). Also added bullet to Further Reading.
-3. **`topics/ai-consciousness.md`**: Added in-body link after the Jourdain analogy paragraph, framing the AI question as whether systems have crossed the threshold—a question that article was already implicitly raising but not naming.
-4. **`concepts/cumulative-culture.md`**: Added in-body link where metarepresentation is centrally invoked, framing cumulative culture as a diagnostic capacity above the threshold.
+1. **[concepts/jourdain-hypothesis.md](/concepts/jourdain-hypothesis/)**: Added in-body link in opening paragraph (procedural/declarative boundary explicitly tagged as "the metarepresentation-threshold"). Also added bullet to Further Reading.
+2. **[concepts/theory-of-mind.md](/concepts/theory-of-mind/)**: Added in-body link in the existing "Metarepresentational Threshold" section (the section was named for this concept but did not link to the article). Also added bullet to Further Reading.
+3. **[topics/ai-consciousness.md](/topics/ai-consciousness/)**: Added in-body link after the Jourdain analogy paragraph, framing the AI question as whether systems have crossed the threshold—a question that article was already implicitly raising but not naming.
+4. **[concepts/cumulative-culture.md](/concepts/cumulative-culture/)**: Added in-body link where metarepresentation is centrally invoked, framing cumulative culture as a diagnostic capacity above the threshold.
 
 ### Not Linked This Round
 - hard-problem-of-consciousness, cognitive-phenomenology, phenomenology-of-intellectual-life: Each is a plausible candidate but the threshold does less direct argumentative work in those articles. Deferring to avoid manufactured connections.

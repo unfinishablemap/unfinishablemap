@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-27
 **Content reviewed**:
-- `topics/consciousness-as-intelligence-amplifier.md`
-- `concepts/process-philosophy.md`
-- `concepts/temporal-consciousness.md`
+- [topics/consciousness-as-intelligence-amplifier.md](/concepts/consciousness-as-amplifier/)
+- [concepts/process-philosophy.md](/concepts/process-philosophy/)
+- [concepts/temporal-consciousness.md](/concepts/temporal-consciousness/)
 
 ## Executive Summary
 
@@ -111,7 +111,7 @@ I don't claim Buddhism is correct where the Map is wrong. I claim the Map's conf
 
 ### Issue 1: Correlation Treated as Causation in the Intelligence Argument
 
-- **File**: `topics/consciousness-as-intelligence-amplifier.md`
+- **File**: [topics/consciousness-as-intelligence-amplifier.md](/concepts/consciousness-as-amplifier/)
 - **Location**: Lines 58-78 (Consciousness-Dependent Cognitive Functions section)
 - **Problem**: The article identifies capacities humans have that great apes lack (logical reasoning, counterfactual thinking, metarepresentation), observes these capacities correlate with human consciousness, and concludes consciousness enables them. But this inference requires ruling out confounding variables—and the article doesn't do this.
 
@@ -123,7 +123,7 @@ The article doesn't distinguish: (A) phenomenal consciousness itself enables the
 
 ### Issue 2: The Evolutionary Argument Doesn't Establish Causal Efficacy
 
-- **File**: `topics/consciousness-as-intelligence-amplifier.md`
+- **File**: [topics/consciousness-as-intelligence-amplifier.md](/concepts/consciousness-as-amplifier/)
 - **Location**: Lines 89-96 (The Evolutionary Argument section)
 - **Problem**: The article argues: if consciousness were epiphenomenal, natural selection couldn't have favoured it. But the epiphenomenalist response—that selection operates on neural states that happen to produce consciousness—is acknowledged and then dismissed with: 'the correlation between pleasure and beneficial outcomes is coincidental on epiphenomenalism.' But coincidence isn't the epiphenomenalist's claim.
 
@@ -135,7 +135,7 @@ The article asserts: 'coincidences demand explanation, and the epiphenomenalist 
 
 ### Issue 3: Process Philosophy Cannot Support Empirical Claims
 
-- **File**: `concepts/process-philosophy.md`
+- **File**: [concepts/process-philosophy.md](/concepts/process-philosophy/)
 - **Location**: Lines 156-159 (Testability and Limitations section)
 - **Problem**: The article commendably acknowledges that process philosophy 'doesn't generate distinctive empirical predictions.' But this creates tension with how the Map deploys process philosophy elsewhere.
 
@@ -147,7 +147,7 @@ The Map can't consistently treat process philosophy as evidential support while 
 
 ### Issue 4: Temporal Argument Against AI Presupposes What It Needs to Prove
 
-- **File**: `concepts/temporal-consciousness.md`
+- **File**: [concepts/temporal-consciousness.md](/concepts/temporal-consciousness/)
 - **Location**: Lines 119-130 (Implications for Machine Consciousness section)
 - **Problem**: The article argues LLMs lack consciousness because they lack: specious present, reentrant dynamics, continual learning, continuous operation. But each criterion assumes temporal phenomenology is real—precisely what illusionists deny.
 
@@ -159,7 +159,7 @@ The article responds to illusionism briefly (lines 148-151): 'for there to *seem
 
 ### Issue 5: Working Memory Difference Undermines the Consciousness Explanation
 
-- **File**: `topics/consciousness-as-intelligence-amplifier.md`
+- **File**: [topics/consciousness-as-intelligence-amplifier.md](/concepts/consciousness-as-amplifier/)
 - **Location**: Lines 80-87 (Working Memory and Consciousness section)
 - **Problem**: The article notes humans have 7±2 working memory capacity vs chimps' 2±1. It then says: 'Expanded working memory may expand conscious capacity, or expanded consciousness may enable greater working memory.'
 
@@ -171,7 +171,7 @@ The article doesn't adjudicate between these options. If option (c) is correct, 
 
 ### Issue 6: Panpsychism Tension Not Fully Addressed
 
-- **File**: `concepts/process-philosophy.md`
+- **File**: [concepts/process-philosophy.md](/concepts/process-philosophy/)
 - **Location**: Lines 107-115 (Tensions with the Map's Framework section)
 - **Problem**: The article notes that process philosophy is panpsychist (every actual occasion involves experience) while the Map prefers interactionist dualism. This creates a significant tension: process philosophy attributes experience to rocks (however primitive), while the Map needs to explain why brains have experience and rocks don't.
 

@@ -56,7 +56,7 @@ Nāgārjuna would read the thickness axis as an exemplary case of reification. B
 
 ### Issue 1: "Thickness" axis conflates at least two distinct dimensions
 
-- **File**: `topics/four-quadrant-dualism-taxonomy.md`
+- **File**: [topics/four-quadrant-dualism-taxonomy.md](/topics/four-quadrant-dualism-taxonomy/)
 - **Location**: §"The Two Axes" (lines 45–65), §"Why the Thickness Axis Matters" (lines 115–121), Stapp illustration
 - **Problem**: The article characterises thickness variously as "how much ontological work each side does" (line 47, 56), "how much structure beyond introspection" (thick mind bullet, line 53), "counterfactual sufficiency and authority-law selection" (Q1 delegatory bullet), and "channel width vs. observer ontology" (Stapp illustration). These are not the same dimension. The Stapp paragraph (line 119) is presented as the cleanest illustration *of* the thickness axis, but it in fact shows that at least two dimensions have been bundled: Stapp is min-channel, max-observer, max-physics — three values, not two. The article's response is to classify him as Q4 by bundling the two "max" values, but this is a choice, not a derivation.
 - **Severity**: Medium (high conceptual stakes; the axis is the article's central contribution)
@@ -64,7 +64,7 @@ Nāgārjuna would read the thickness axis as an exemplary case of reification. B
 
 ### Issue 2: Empirical landscape claims lack evidence
 
-- **File**: `topics/four-quadrant-dualism-taxonomy.md`
+- **File**: [topics/four-quadrant-dualism-taxonomy.md](/topics/four-quadrant-dualism-taxonomy/)
 - **Location**: §41 opening ("three of which are heavily populated in the literature"), Q1 closing ("currently the cleanest Q1 inhabitant in contemporary philosophy"), Q2 closing ("Q2 dominates contemporary analytic philosophy of mind"), Q4 closing ("under-inhabited in contemporary analytic philosophy")
 - **Problem**: These are empirical claims about the distribution of positions in a discipline. They are asserted without citation (no PhilPapers survey reference, no bibliometric count, no canonical Stanford Encyclopedia landscape citation). "Heavily populated" for Q1 is in direct tension with the article's own hedging just a few paragraphs later, which lists Saad (2025) as the main inhabitant, describes neutral monism as "technically monist," qualifies some Russellian readings, and says "minimal interactionism... *drifts toward* Q1." If Q1 has one clear contemporary inhabitant (Saad), calling three quadrants "heavily populated" misleads the reader about the opening claim's support.
 - **Severity**: Medium
@@ -72,7 +72,7 @@ Nāgārjuna would read the thickness axis as an exemplary case of reification. B
 
 ### Issue 3: Monist positions placed in a dualist taxonomy without a clear rule
 
-- **File**: `topics/four-quadrant-dualism-taxonomy.md`
+- **File**: [topics/four-quadrant-dualism-taxonomy.md](/topics/four-quadrant-dualism-taxonomy/)
 - **Location**: Q1 bullet on neutral monism (line 74), Q3 bullets on Berkeley and Kastrup (lines 95–96)
 - **Problem**: Neutral monism, Berkeleyan idealism, and Kastrup's analytic idealism are repeatedly placed in quadrants of a dualist taxonomy, with hedges like "technically monist but behaves like deflationary dualism," "limit case toward which Q3 points," and "rigorously monist rather than dualist, but illustrates the edge of the quadrant." No principled rule is given for when a monist position is admitted to the taxonomy and when it is not. Functional behaviour? Historical influence on dualism? Being a "limit case"? The inclusion is useful but it makes the scope of the taxonomy unclear. A critic could reasonably ask: is this a taxonomy of *dualisms*, or of *non-reductive positions on mind-matter*? If the latter, the title misleads; if the former, the monist entries do not belong.
 - **Severity**: Low–Medium
@@ -80,7 +80,7 @@ Nāgārjuna would read the thickness axis as an exemplary case of reification. B
 
 ### Issue 4: "Stability" of Q1 is asserted as a philosophical outcome, not an argument
 
-- **File**: `topics/four-quadrant-dualism-taxonomy.md`
+- **File**: [topics/four-quadrant-dualism-taxonomy.md](/topics/four-quadrant-dualism-taxonomy/)
 - **Location**: Q1 closing paragraph (line 78), §"Where the Taxonomy Points Next" Q1 stability (line 137)
 - **Problem**: The article treats "can Q1 be stabilised by trumping-preemption?" as an open empirical-sounding question, with directional answers ("toward Q2 if the law needs thick physics; toward Q4 if it needs thick mind"). But "stability" here means "can a non-stipulative authority-selecting law be articulated?" — a philosophical question about the availability of an argument, not an observation about which way a position drifts under pressure. The dynamical-systems connotations of "stability" ("pressure," "drift") add nothing to the analysis and invite the reader to think in terms of landscape forces rather than argumentative burdens. The prior pessimistic review of [trumping-preemption](/concepts/trumping-preemption/) (2026-04-22, Issue 1) flagged the same fiction-to-nature gap; the current article imports trumping as a stabilizer without inheriting that review's caveats.
 - **Severity**: Medium (load-bearing for the cross-review's central integration)

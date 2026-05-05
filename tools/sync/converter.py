@@ -10,7 +10,12 @@ from typing import Optional
 import frontmatter
 
 from .errors import BrokenWikilink, SlugCollision, SyncReport, SyncValidationError
-from .wikilinks import SYNC_DIRS, convert_wikilinks, convert_block_references
+from .wikilinks import (
+    SYNC_DIRS,
+    convert_block_references,
+    convert_wikilinks,
+    promote_backticked_paths_to_links,
+)
 
 log = logging.getLogger(__name__)
 
@@ -256,6 +261,14 @@ def convert_file(
 
     # Convert Obsidian block references to HTML anchors (must be before wikilinks)
     content = convert_block_references(content)
+
+    # Review files: promote backticked file paths to links when resolvable.
+    # AI-generated reviews sometimes mention `section/slug.md` as inline code
+    # rather than wikilinks; auto-promote those to keep the published reviews
+    # navigable. Scoped to reviews/ to avoid touching deliberate code refs in
+    # concept/topic articles.
+    if content_index and "reviews" in source_path.parts:
+        content = promote_backticked_paths_to_links(content, content_index)
 
     # Convert Obsidian wikilinks to Hugo links
     # Use content-aware resolver if index is provided

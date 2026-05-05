@@ -74,7 +74,7 @@ The 2026-04-21 review surfaced six adversarial-philosopher critiques. All have b
 
 ## Remaining Items
 
-- **Reciprocal cross-link** from `voids/imagery-void.md` → `voids/source-attribution-void.md` should be added during imagery-void's next review cycle. The fidelity face's "the calibration tool is the imagery itself" connects directly to source-attribution-void's "the tag is the construction, not its input" — both articulate the same instrument-circularity diagnosis. Not addressed in this review (out of scope).
+- **Reciprocal cross-link** from [voids/imagery-void.md](/voids/imagery-void/) → [voids/source-attribution-void.md](/voids/source-attribution-void/) should be added during imagery-void's next review cycle. The fidelity face's "the calibration tool is the imagery itself" connects directly to source-attribution-void's "the tag is the construction, not its input" — both articulate the same instrument-circularity diagnosis. Not addressed in this review (out of scope).
 - **AI REFINEMENT LOG comments** (lines 152–174 in pre-edit version): preserved per the in-article instruction "should be removed after human review" — `human_modified` is still null.
 
 ## Stability Notes

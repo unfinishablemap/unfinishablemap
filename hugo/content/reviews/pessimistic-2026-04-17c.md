@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-17 (c)
 # Pessimistic Review
 
 **Date**: 2026-04-17 16:48 UTC
-**Content reviewed**: `topics/consciousness-interface-development.md`, `concepts/perceptual-degradation-and-the-interface.md`, `voids/apophatic-cartography.md`
+**Content reviewed**: [topics/consciousness-interface-development.md](/topics/consciousness-interface-development/), [concepts/perceptual-degradation-and-the-interface.md](/concepts/perceptual-degradation-and-the-interface/), [voids/apophatic-cartography.md](/voids/apophatic-cartography/)
 
 ## Executive Summary
 
@@ -62,7 +62,7 @@ The development article's "same irreducible consciousness" persisting across sta
 
 ### Issue 1: Terminal lucidity is rhetorically over-leveraged
 
-- **File**: `topics/consciousness-interface-development.md`
+- **File**: [topics/consciousness-interface-development.md](/topics/consciousness-interface-development/)
 - **Location**: §"Late Life and Terminal Phase," paragraphs on Nahm et al. (2012)
 - **Problem**: The article disclaims terminal lucidity as anecdotal in one sentence and then frames it as "precisely the kind of phenomenon the interface model predicts and identity theories find surprising." This is having it both ways. Identity theorists have plausible stories (transient neurotransmitter release is named, then dropped). The article does not discharge them.
 - **Severity**: Medium
@@ -70,7 +70,7 @@ The development article's "same irreducible consciousness" persisting across sta
 
 ### Issue 2: Anaesthesia "dissociation" is asserted as categorical, but the empirical picture is graded
 
-- **File**: `concepts/perceptual-degradation-and-the-interface.md`
+- **File**: [concepts/perceptual-degradation-and-the-interface.md](/concepts/perceptual-degradation-and-the-interface/)
 - **Location**: §"The Anaesthesia Dissociation"
 - **Problem**: "Not gradual degradation but apparent disconnection" overstates the empirical case. Anaesthesia is titratable; sedation, dissociation, and surgical anaesthesia form a continuum of phenomenal states with documented partial-awareness phenomena (intraoperative awareness, dexmedetomidine sedation phenomenology, ketamine-induced dissociation). The argument needs a cleaner categorical break than the literature provides.
 - **Severity**: High (one of four supposedly converging signatures)
@@ -78,7 +78,7 @@ The development article's "same irreducible consciousness" persisting across sta
 
 ### Issue 3: Falsifiability rhetoric is not actually applied
 
-- **File**: `voids/apophatic-cartography.md`
+- **File**: [voids/apophatic-cartography.md](/voids/apophatic-cartography/)
 - **Location**: §"Safeguards Against Unfalsifiable Mystique" and §"A Worked Example"
 - **Problem**: The stated falsifier — "a reductive explanation generating genuine understanding" — is unsatisfiable in principle if "understanding" is judged by the same phenomenally-committed observer. The article never specifies a procedure by which a candidate reduction could be evaluated independently. The safeguards are stated, not operationalised.
 - **Severity**: High (the article's central methodological claim)
@@ -86,7 +86,7 @@ The development article's "same irreducible consciousness" persisting across sta
 
 ### Issue 4: Cross-tradition convergence is overweighted
 
-- **File**: `voids/apophatic-cartography.md`
+- **File**: [voids/apophatic-cartography.md](/voids/apophatic-cartography/)
 - **Location**: §"Cross-Observer Convergence"
 - **Problem**: Christian *via negativa*, Maimonides, Buddhist *sunyata*, and Sufi practice are not independent observations. There is documented historical contact between Greek Christian theology, Jewish negative theology, and Islamic Sufism (the Pseudo-Dionysian corpus alone shaped all three). Buddhist transmission to the Christian West is later but real. This is not "different cognitive architectures."
 - **Severity**: Medium
@@ -94,7 +94,7 @@ The development article's "same irreducible consciousness" persisting across sta
 
 ### Issue 5: Quantum mechanism claims are quantitatively empty
 
-- **File**: `concepts/perceptual-degradation-and-the-interface.md` and `topics/consciousness-interface-development.md`
+- **File**: [concepts/perceptual-degradation-and-the-interface.md](/concepts/perceptual-degradation-and-the-interface/) and [topics/consciousness-interface-development.md](/topics/consciousness-interface-development/)
 - **Location**: §"Minimal Quantum Interaction" sections in both
 - **Problem**: Both articles invoke quantum selection sites and bandwidth ceilings without any commitment to magnitudes, timescales, or candidate physical mechanisms. The Tegmark decoherence objection is not engaged. "Interface friction" is a metaphor where a calculation is needed.
 - **Severity**: Medium (consistent with Map's general softness here, but worth flagging)
@@ -102,7 +102,7 @@ The development article's "same irreducible consciousness" persisting across sta
 
 ### Issue 6: Buddhist invocation conflicts with No-Many-Worlds indexicalism
 
-- **File**: `voids/apophatic-cartography.md`
+- **File**: [voids/apophatic-cartography.md](/voids/apophatic-cartography/)
 - **Location**: §"The Apophatic Tradition" (invokes *sunyata*) and §"Relation to Site Perspective" (asserts uniquely real determinate perspective)
 - **Problem**: The Madhyamaka *sunyata* tradition denies the reified continuant subject the No-Many-Worlds tenet section affirms. The article cannot enlist Nagarjuna as a methodological ally and then close with strong indexical realism without explanation.
 - **Severity**: Medium (internal inconsistency)

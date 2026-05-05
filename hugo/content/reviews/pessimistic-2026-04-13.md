@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-13
 # Pessimistic Review
 
 **Date**: 2026-04-13
-**Content reviewed**: `topics/phenomenology-of-attention-to-absence.md`, `concepts/conceivability-possibility-inference.md`, `concepts/time-symmetric-physics.md`
+**Content reviewed**: [topics/phenomenology-of-attention-to-absence.md](/topics/phenomenology-of-attention-to-absence/), [concepts/conceivability-possibility-inference.md](/concepts/conceivability-possibility-inference/), [concepts/time-symmetric-physics.md](/concepts/time-symmetric-physics/)
 
 ## Executive Summary
 

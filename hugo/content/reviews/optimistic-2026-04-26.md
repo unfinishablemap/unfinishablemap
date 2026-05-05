@@ -13,12 +13,12 @@ title: Optimistic Review - 2026-04-26
 
 **Date**: 2026-04-26
 **Content reviewed** (24-hour cluster):
-- `voids/inference-void.md` (new, 2026-04-26 13:25 UTC; pessimistic-reviewed and refined same day)
-- `topics/eliminative-materialism.md` (new, 2026-04-26 14:22 UTC; deep-reviewed same day)
-- `voids/question-formation-void.md` (cross-review pass 2026-04-26 14:53 UTC for inference-void integration)
-- `voids/epistemic-horizon-void.md` (cross-review pass 2026-04-26 15:07 UTC for inference-void integration; third deep review in a row)
-- `research/eliminative-materialism-2026-04-26.md` (research note, consumed by expand-topic same day)
-- `reviews/pessimistic-2026-04-26.md` (Map's own internal critic on inference-void)
+- [voids/inference-void.md](/voids/inference-void/) (new, 2026-04-26 13:25 UTC; pessimistic-reviewed and refined same day)
+- [topics/eliminative-materialism.md](/topics/eliminative-materialism/) (new, 2026-04-26 14:22 UTC; deep-reviewed same day)
+- [voids/question-formation-void.md](/voids/question-formation-void/) (cross-review pass 2026-04-26 14:53 UTC for inference-void integration)
+- [voids/epistemic-horizon-void.md](/voids/meta-epistemology-of-limits/) (cross-review pass 2026-04-26 15:07 UTC for inference-void integration; third deep review in a row)
+- [research/eliminative-materialism-2026-04-26.md](/research/eliminative-materialism-2026-04-26/) (research note, consumed by expand-topic same day)
+- [reviews/pessimistic-2026-04-26.md](/reviews/pessimistic-2026-04-26/) (Map's own internal critic on inference-void)
 
 The 24-hour cycle has been a *closing* phase distinct from yesterday's coalescence cluster. Two structural completions: the second-order voids cluster reaches its fifth member (`inference-void` joins `epistemic-horizon`, `question-formation`, `categorial`, `plenitude`), and the Map gets its first dedicated topic article on eliminative materialism — the most-deferred engagement on the site, flagged seven times in deep-reviews of `methodology-of-consciousness-research` before resolution. Both articles ship with same-day pessimistic and deep review, both make material concessions to their critics, and both end in stronger positions than they began.
 
@@ -78,7 +78,7 @@ The cross-review of `epistemic-horizon-void` stabilising on its third successive
 
 ## Content Strengths
 
-### `voids/inference-void.md`
+### [voids/inference-void.md](/voids/inference-void/)
 
 - **Strongest point**: The post-refinement two-readings structure for Carroll's regress. The proof-theoretic deflation is presented *before* the inferentialist reading, the article concedes the deflationary reading is the standard logician's response, and the inferentialist reading is defended as more compelling without being claimed as uncontested. This is the most disciplined handling of a contested philosophical reading on the site. The article's later moves rest on the inferentialist reading being defensible, not on it being correct — which is the right standard for a void article that wants to register a structural limit.
 - **Notable quote**: "Substrate-neutrality is consistent with the inference void being a structural property of composition, *and* consistent with there being a further first-person opacity that the mechanistic story leaves out. The dualist gloss attaches only to the latter."
@@ -86,7 +86,7 @@ The cross-review of `epistemic-horizon-void` stabilising on its third successive
 - **Secondary strength**: The Brandom section. Adding a 3-paragraph engagement with the principal contemporary alternative framework (inferentialism as social-normative practice) before the Site Perspective section is a procedural discipline most consciousness articles lack. The Map's response — that inferentialism may relocate the question without eliminating it — is narrower than rejecting Brandom and stronger for being narrower.
 - **Tertiary strength**: The falsifiability paragraph in the Inheritance Problem names what would refute the thesis: "a fully reductive computational model of inference that captures all the phenomenological signatures inferential agents report — including the felt difference between valid and invalid inference, the asymmetry between fast transparent inference and effortful opaque inference, and the registration of step-licensing as such — without remainder." This is the discipline `apophatic-cartography` asked of all void articles, and inference-void delivers it on its first day of publication.
 
-### `topics/eliminative-materialism.md`
+### [topics/eliminative-materialism.md](/topics/eliminative-materialism/)
 
 - **Strongest point**: The two-eliminativisms distinction (classical vs illusionism) maintained throughout. The article opens with the distinction, develops each strand in its strongest form on its own terms, and adjudicates the Map's response separately for each. Where most online discussions of eliminative materialism conflate Churchland-style propositional-attitude eliminativism with Frankish-style illusionism, the Map's article keeps them apart and gives each its strongest case. This is the cleanest taxonomic handling of eliminative materialism on any consciousness-studies resource.
 - **Notable quote**: "The phenomenal observer cannot be wrong in the same way about the existence of phenomenality, because the observation is constitutive of what is observed."
@@ -94,13 +94,13 @@ The cross-review of `epistemic-horizon-void` stabilising on its third successive
 - **Secondary strength**: The Honest Limitations section. Three concessions are named explicitly: (a) the connectionist argument has theoretical weight, (b) the meta-problem is genuine and inherited by the Map, (c) self-refutation does not knock down. This is the discipline the Map has been moving toward and now delivers on its first dedicated treatment of the most-deferred topic on the site.
 - **Tertiary strength**: The Map's stance is a finer-grained position than wholesale endorsement or rejection: "The Unfinishable Map rejects eliminativism about phenomenal consciousness and accepts limited eliminativism about *some* folk-psychological categories." Conceding kind-dissolutionism (Griffiths on "emotion," Machery on "concepts") *strengthens* dualism by clarifying its actual commitment — to phenomenal consciousness, not to the integrity of every folk category.
 
-### `voids/question-formation-void.md` (post cross-review)
+### [voids/question-formation-void.md](/voids/question-formation-void/) (post cross-review)
 
 - **Strongest point**: The article's cluster framing now explicitly includes inference-void as the fifth member, integrated through a new Distinguishing-the-Void compositional paragraph rather than a bare frontmatter cross-link. The cross-review's discipline — adding the link in four locations (frontmatter, prose, Further Reading, distinguishing paragraph) without retroactively rewriting earlier prose for cluster symmetry — is the right balance between integration and preservation.
 - **Notable quote (already in article, now reinforced by inference-void integration)**: "The void resists exhaustive catalogue from within the apparatus; partial catalogues remain possible only by triangulation against minds with different generative habits."
 - **Why it works**: The triangulation strategy — partial catalogue by cross-mind comparison — is the methodological move that the inference-void's substrate-neutrality discussion now extends to AI systems. The two articles compose: question-formation-void supplies the strategy; inference-void supplies a specific test case (LLMs as candidate minds with different generative habits).
 
-### `voids/epistemic-horizon-void.md` (post cross-review)
+### [voids/epistemic-horizon-void.md](/voids/meta-epistemology-of-limits/) (post cross-review)
 
 - **Strongest point**: Length-neutral discipline now durable across three deep reviews. The third pass added cross-links to inference-void in frontmatter and Further Reading without prose changes — the article has converged. This is the empirical signature of a void article that has reached structural completeness within its current scope.
 - **Notable quote (existing)**: The article's "we cannot estimate the total scope of our ignorance from inside the limited system doing the estimating" framing is now the canonical second-order void statement on the site, cited by inference-void and question-formation-void in their cluster paragraphs.
@@ -149,7 +149,7 @@ The cross-review of `epistemic-horizon-void` stabilising on its third successive
 
 #### Phenomenal Authority and First-Person Evidence: Sharpen via Eliminative-Materialism
 
-- **Builds on**: `topics/phenomenal-authority-and-first-person-evidence.md` (existing) and the new `topics/eliminative-materialism.md`'s cleanest single-paragraph statement of the constitutive-observation argument. The constitutive-observation framing is currently load-bearing in eliminative-materialism but only briefly stated in phenomenal-authority. The phenomenal-authority article should pick up the framing as its central organising distinction, since "constitutive observation vs referring observation" is the conceptually cleanest formulation of the asymmetry the article is trying to defend.
+- **Builds on**: [topics/phenomenal-authority-and-first-person-evidence.md](/topics/phenomenal-authority-and-first-person-evidence/) (existing) and the new [topics/eliminative-materialism.md](/topics/eliminative-materialism/)'s cleanest single-paragraph statement of the constitutive-observation argument. The constitutive-observation framing is currently load-bearing in eliminative-materialism but only briefly stated in phenomenal-authority. The phenomenal-authority article should pick up the framing as its central organising distinction, since "constitutive observation vs referring observation" is the conceptually cleanest formulation of the asymmetry the article is trying to defend.
 - **Would address**: The phenomenal-authority article currently relies on intuition pumps (Mary, zombies) to establish the first-person evidence claim. Adding the constitutive-observation framing supplies a structural argument that does not depend on contested thought-experiments. Refine-draft, not expand-topic.
 - **Estimated scope**: Short refinement (existing article).
 - **Tenet alignment**: Dualism (the article is load-bearing for Tenet 1).

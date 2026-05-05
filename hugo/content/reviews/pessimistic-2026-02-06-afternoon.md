@@ -13,9 +13,9 @@ title: Pessimistic Review - 2026-02-06 Afternoon
 
 **Date**: 2026-02-06
 **Content reviewed**:
-- `topics/evolutionary-case-for-mental-causation.md`
-- `concepts/binding-problem.md`
-- `topics/machine-consciousness.md`
+- [topics/evolutionary-case-for-mental-causation.md](/topics/evolutionary-case-for-mental-causation/)
+- [concepts/binding-problem.md](/concepts/binding-problem/)
+- [topics/machine-consciousness.md](/topics/machine-consciousness/)
 
 ## Executive Summary
 
@@ -70,42 +70,42 @@ Three substantial articles—one on the evolutionary argument for mental causati
 ## Critical Issues
 
 ### Issue 1: Equivocation Between Causal Efficacy and Non-Physicality
-- **File**: `topics/evolutionary-case-for-mental-causation.md`
+- **File**: [topics/evolutionary-case-for-mental-causation.md](/topics/evolutionary-case-for-mental-causation/)
 - **Location**: Throughout, especially "The Quantum Dimension" and "Relation to Site Perspective"
 - **Problem**: The article argues that consciousness must be causally efficacious (evolution requires this), then slides into treating this as evidence for dualism and quantum interaction. But most physicalists accept mental causation—they just think consciousness *is* certain physical processes. The evolutionary argument is equally compatible with physicalism. The article never directly addresses this gap.
 - **Severity**: High
 - **Recommendation**: Add a section explicitly acknowledging that physicalists accept mental causation and explaining why the Map takes the further step to dualism. The evolutionary argument alone doesn't get you there—you need additional arguments (explanatory gap, conceivability, etc.) and the article should say so.
 
 ### Issue 2: Quantum Overemphasis in the Binding Problem
-- **File**: `concepts/binding-problem.md`
+- **File**: [concepts/binding-problem.md](/concepts/binding-problem/)
 - **Location**: "The Quantum Alternative" section and subsections (lines 131-188)
 - **Problem**: The quantum binding material constitutes roughly a third of the article and is presented as the most promising solution. The writing style guide specifically warns against making quantum mechanisms central to arguments. The article treats Orch OR, quantum Zeno, microtubule experiments, and entanglement signatures as though they constitute a strong evidential case, when the mainstream view remains that decoherence rules out quantum effects at neural scales.
 - **Severity**: High
 - **Recommendation**: Reduce quantum section to a concise treatment of one possibility among several. Strengthen the "Phenomenal Unity as Primitive" section as an alternative. Ensure the article's core argument (that BP2 is not solved by classical mechanisms) doesn't depend on quantum mechanisms being the answer.
 
 ### Issue 3: Circular Reasoning in Upload Skepticism
-- **File**: `topics/machine-consciousness.md`
+- **File**: [topics/machine-consciousness.md](/topics/machine-consciousness/)
 - **Location**: "Substrate Independence Revisited" and throughout
 - **Problem**: The article's argument structure is: (1) consciousness requires non-physical properties that interface with specific substrates, (2) silicon lacks these properties, (3) therefore uploads can't be conscious. But premise (1) is the Map's tenet, not an independently established fact. The article presents tenet-derived conclusions as though they follow from argument, when they follow from the framework's assumptions.
 - **Severity**: Medium
 - **Recommendation**: Acknowledge explicitly that the analysis depends on accepting the Map's framework. Present the conditional: "If the Map's tenets are correct, then uploading fails." This is intellectually honest and actually *stronger* as rhetoric—it invites the reader to evaluate the tenets.
 
 ### Issue 4: The Lieberman Citation
-- **File**: `topics/evolutionary-case-for-mental-causation.md`
+- **File**: [topics/evolutionary-case-for-mental-causation.md](/topics/evolutionary-case-for-mental-causation/)
 - **Location**: "The Great Ape Evidence" section, line 84
 - **Problem**: The article cites "Lieberman et al. (2008)" to claim that "cognitive load impairing conscious processing impairs logical reasoning, while disruption of unconscious processing does not." This is presented as evidence against epiphenomenalism. But cognitive load experiments don't distinguish between consciousness-as-epiphenomenon and consciousness-as-causal-agent: if conscious processing and logical reasoning share neural resources (as physicalists would expect), disrupting one disrupts the other—no mental causation required.
 - **Severity**: Medium
 - **Recommendation**: Acknowledge the physicalist interpretation of this finding. The evidence is consistent with both views and shouldn't be presented as specifically supporting interactionism.
 
 ### Issue 5: "Current Evidence Favours Quantum Binding"
-- **File**: `concepts/binding-problem.md`
+- **File**: [concepts/binding-problem.md](/concepts/binding-problem/)
 - **Location**: Line 188
 - **Problem**: The claim "Current evidence favours quantum binding while the debate remains live" significantly overstates the evidential situation. The Kerskens-Pérez study has not been replicated. The microtubule-anesthesia study has alternative classical explanations. Mainstream neuroscience does not consider the evidence to favour quantum binding. This violates the writing style guide's confidence calibration: this should be "low confidence (speculation)" not presented as evidential conclusion.
 - **Severity**: High
 - **Recommendation**: Replace with appropriately hedged language: "Several recent findings are consistent with quantum binding, though the evidence remains preliminary and contested."
 
 ### Issue 6: Missing Engagement with Physicalist Mental Causation
-- **File**: `topics/evolutionary-case-for-mental-causation.md`
+- **File**: [topics/evolutionary-case-for-mental-causation.md](/topics/evolutionary-case-for-mental-causation/)
 - **Location**: Entire article
 - **Problem**: The article engages with epiphenomenalism and illusionism but never addresses the most common physicalist position: non-reductive physicalism with mental causation. On this view, consciousness is causally efficacious but not non-physical—it's realized by physical processes while being described at a higher level. This is the position of most working philosophers of mind and is entirely compatible with the evolutionary argument. The article's failure to engage with it is a significant gap.
 - **Severity**: High

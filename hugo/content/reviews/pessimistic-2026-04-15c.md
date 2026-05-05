@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-15c
 # Pessimistic Review
 
 **Date**: 2026-04-15
-**Content reviewed**: `concepts/embodied-cognition.md`, `concepts/mental-effort.md`, `concepts/phenomenology.md`
+**Content reviewed**: [concepts/embodied-cognition.md](/concepts/embodied-cognition/), [concepts/mental-effort.md](/concepts/mental-effort/), [concepts/phenomenology.md](/concepts/phenomenology/)
 
 ## Executive Summary
 
@@ -48,7 +48,7 @@ Nagarjuna would find `embodied-cognition.md`'s Buddhist section respectful but p
 
 ### Issue 1: Choking Evidence Overextended
 
-- **File**: `concepts/embodied-cognition.md`
+- **File**: [concepts/embodied-cognition.md](/concepts/embodied-cognition/)
 - **Location**: "Choking Under Pressure" section (lines 84-106)
 - **Problem**: The choking evidence is presented as "consistent with bidirectional interaction" but the article's own analysis demonstrates it's equally consistent with neural resource competition (the mainstream interpretation). The article acknowledges this, then spends 800+ words building the dualist reading anyway. The rhetorical weight vastly exceeds the epistemic warrant. The claim that "phenomenological categories carve at causal joints with surprising precision" (line 103) is presented as significant but is exactly what *any* taxonomy based on functional differences would do—categories like "absorbed" versus "self-monitoring" track functional states, and functional states have causal consequences under physicalism just as well as under dualism.
 - **Severity**: Medium
@@ -56,7 +56,7 @@ Nagarjuna would find `embodied-cognition.md`'s Buddhist section respectful but p
 
 ### Issue 2: Schwartz OCD Evidence Fragility
 
-- **File**: `concepts/mental-effort.md`
+- **File**: [concepts/mental-effort.md](/concepts/mental-effort/)
 - **Location**: Lines 80-87
 - **Problem**: The article appropriately flags the n=18 sample and lack of independent replication, but continues to build on this evidence for its central argument. An unreplicated study with 18 participants should be presented as a preliminary finding, not as the centrepiece illustration of "mental effort has physical consequences." The article's conclusion—"mental effort has physical consequences... harder to square with epiphenomenalism"—rests substantially on evidence the article itself identifies as weak.
 - **Severity**: High
@@ -64,7 +64,7 @@ Nagarjuna would find `embodied-cognition.md`'s Buddhist section respectful but p
 
 ### Issue 3: Phenomenology's Self-Sealing Methodology
 
-- **File**: `concepts/phenomenology.md`
+- **File**: [concepts/phenomenology.md](/concepts/phenomenology/)
 - **Location**: Lines 62-72
 - **Problem**: The article presents phenomenology's first-person irreducibility claim as a finding, but it's built into the methodology. The epoché brackets third-person approaches, then discovers that what remains can't be captured by third-person approaches. The article's strongest response—Peng and Hagar (2025)—is a single opinion piece in a social behaviour journal, not a robust empirical finding. The article would be stronger if it acknowledged more clearly that phenomenology's irreducibility claim is partly methodological.
 - **Severity**: Medium
@@ -72,7 +72,7 @@ Nagarjuna would find `embodied-cognition.md`'s Buddhist section respectful but p
 
 ### Issue 4: Radio Analogy in Filter Theory
 
-- **File**: `concepts/embodied-cognition.md`
+- **File**: [concepts/embodied-cognition.md](/concepts/embodied-cognition/)
 - **Location**: Lines 146-147
 - **Problem**: "A radio antenna's shape affects what signals it receives without producing those signals." This analogy is frequently criticized in consciousness studies because it presupposes exactly what needs to be shown—that there *are* external "signals" (consciousness) being received. The analogy smuggles in the conclusion as a premise. It also implies consciousness exists independently of bodies, which is substance dualism rather than the property dualism the article claims to defend.
 - **Severity**: Medium

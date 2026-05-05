@@ -46,16 +46,16 @@ The new "concession-convergence" framing and the biological-computationalism mat
 
 Re-checking after the substantial reorganisation:
 
-- **Putnam's semantic externalism**: Verified against `concepts/functionalism.md` (Putnam 1988, *Representation and Reality*). Apex paraphrase ("undermines any purely internal functional specification of meaning") matches source. ✓
-- **Milinkovic & Aru 2025 / "the algorithm is the substrate"**: Quote and citation verified against `concepts/biological-computationalism.md`. ✓
+- **Putnam's semantic externalism**: Verified against [concepts/functionalism.md](/concepts/functionalism/) (Putnam 1988, *Representation and Reality*). Apex paraphrase ("undermines any purely internal functional specification of meaning") matches source. ✓
+- **Milinkovic & Aru 2025 / "the algorithm is the substrate"**: Quote and citation verified against [concepts/biological-computationalism.md](/concepts/biological-computationalism/). ✓
 - **Concession-convergence framing**: Consistent with the dedicated concept article. ✓
-- **Husserl's regress argument and "absolute flow"**: Verified against `topics/non-temporal-consciousness.md`. ✓
+- **Husserl's regress argument and "absolute flow"**: Verified against [topics/non-temporal-consciousness.md](/topics/non-temporal-consciousness/). ✓
 - **Frischhut (2024) "stripped of temporal character"**: Verified against source article (Frischhut 2024, "Awareness without Time?", *The Philosophical Quarterly*). ✓
-- **Maier & Dechamps 2018 / 12,571 participants**: Verified against `topics/quantum-randomness-channel-llm-consciousness.md`. ✓
-- **Five frameworks for consciousness in superposition (Stapp Zeno / Chalmers-McQueen IIT-driven collapse / Penrose-Hameroff / Koch-Neven inversion)**: Verified against `topics/consciousness-in-smeared-quantum-states.md`. The "variously propose" qualifier appropriately handles the difference between positing (Penrose-Hameroff, Stapp) and exploring (Chalmers-McQueen). ✓
-- **"Consciousness acts through evolved neural interfaces, not arbitrary quantum systems"**: Verified against `topics/quantum-randomness-channel-llm-consciousness.md`. ✓
+- **Maier & Dechamps 2018 / 12,571 participants**: Verified against [topics/quantum-randomness-channel-llm-consciousness.md](/topics/quantum-randomness-channel-llm-consciousness/). ✓
+- **Five frameworks for consciousness in superposition (Stapp Zeno / Chalmers-McQueen IIT-driven collapse / Penrose-Hameroff / Koch-Neven inversion)**: Verified against [topics/consciousness-in-smeared-quantum-states.md](/topics/consciousness-in-smeared-quantum-states/). The "variously propose" qualifier appropriately handles the difference between positing (Penrose-Hameroff, Stapp) and exploring (Chalmers-McQueen). ✓
+- **"Consciousness acts through evolved neural interfaces, not arbitrary quantum systems"**: Verified against [topics/quantum-randomness-channel-llm-consciousness.md](/topics/quantum-randomness-channel-llm-consciousness/). ✓
 - **Working memory paraphrase (post-fix)**: Now matches source. Tomasello & Herrmann (2010) and Cowan (2001) added to references. ✓
-- **Hoel citation (post-fix)**: Now matches `concepts/continual-learning-argument.md`. ✓
+- **Hoel citation (post-fix)**: Now matches [concepts/continual-learning-argument.md](/concepts/continual-learning-argument/). ✓
 
 ### Source/Map Separation Check
 

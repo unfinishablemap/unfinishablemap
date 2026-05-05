@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [Mental Imagery and Consciousness](/concepts/mental-imagery/)
 **Previous review**: [2026-04-10](/reviews/deep-review-2026-04-10-mental-imagery/)
-**Context**: First deep review after today's coalescence merging `topics/mental-imagery-causal-role-of-consciousness.md` into `concepts/mental-imagery.md` (~30% reduction from deduplication).
+**Context**: First deep review after today's coalescence merging [topics/mental-imagery-causal-role-of-consciousness.md](/concepts/mental-imagery/) into [concepts/mental-imagery.md](/concepts/mental-imagery/) (~30% reduction from deduplication).
 
 ## Pessimistic Analysis Summary
 

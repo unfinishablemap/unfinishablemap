@@ -21,7 +21,7 @@ topics: []
 **Date**: 2026-05-01
 **Article**: [Categorical Surprise](/concepts/categorical-surprise/)
 **Previous review**: [2026-04-30](/reviews/deep-review-2026-04-30-categorical-surprise/)
-**Trigger**: Cross-review task to install reciprocal link to the restructured `concepts/creative-consciousness.md` (coalesced 2026-04-30 17:54 UTC from `consciousness-and-creativity` + `phenomenology-of-creative-insight`, condensed and reviewed 2026-04-30 20:51 UTC).
+**Trigger**: Cross-review task to install reciprocal link to the restructured [concepts/creative-consciousness.md](/concepts/creative-consciousness/) (coalesced 2026-04-30 17:54 UTC from `consciousness-and-creativity` + `phenomenology-of-creative-insight`, condensed and reviewed 2026-04-30 20:51 UTC).
 
 ## Cross-Review Findings
 

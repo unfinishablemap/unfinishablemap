@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-02
 **Content reviewed**:
-- `voids/volitional-opacity.md`
-- `voids/introspective-opacity.md`
-- `voids/mathematical-void.md`
+- [voids/volitional-opacity.md](/voids/introspective-opacity/)
+- [voids/introspective-opacity.md](/voids/self-opacity/)
+- [voids/mathematical-void.md](/voids/the-quantitative-comprehension-void/)
 
 ## Executive Summary
 

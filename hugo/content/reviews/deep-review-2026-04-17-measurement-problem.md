@@ -30,7 +30,7 @@ None. Eighth review continues the stability pattern. Attribution accuracy check 
 
 ### Coalesced Voids Audit
 
-The recent merger of `voids/boundary-void.md` + `voids/projection-void.md` into `voids/boundary-and-projection.md` (commit 47b0e3e82) has no impact on this article. The measurement-problem article does not reference either of the coalesced slugs — it references `[indexical-void](/topics/vertiginous-question/)` (unaffected) and does not cite boundary-void or projection-void. No stale-reference updates needed.
+The recent merger of [voids/boundary-void.md](/voids/boundary-and-projection/) + [voids/projection-void.md](/voids/boundary-and-projection/) into [voids/boundary-and-projection.md](/voids/boundary-and-projection/) (commit 47b0e3e82) has no impact on this article. The measurement-problem article does not reference either of the coalesced slugs — it references `[indexical-void](/topics/vertiginous-question/)` (unaffected) and does not cite boundary-void or projection-void. No stale-reference updates needed.
 
 ### Medium Issues Found
 

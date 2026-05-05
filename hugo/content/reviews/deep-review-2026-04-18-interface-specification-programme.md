@@ -34,7 +34,7 @@ topics: []
 - No self-contradiction detected across sections.
 
 ### Medium Issues Found
-- **LLM cliché pattern** (line 138): "The result is not yet a complete theory. It is something more honest: a specification precise enough to be wrong." The "is not X. It is Y" construct is flagged by `project/writing-style.md` as an overused LLM pattern. Rephrased to: "The result falls short of a complete theory but offers something more honest: a specification precise enough to be wrong." Preserves rhetorical force while integrating the contrast naturally. [Resolved]
+- **LLM cliché pattern** (line 138): "The result is not yet a complete theory. It is something more honest: a specification precise enough to be wrong." The "is not X. It is Y" construct is flagged by [project/writing-style.md](/project/writing-style/) as an overused LLM pattern. Rephrased to: "The result falls short of a complete theory but offers something more honest: a specification precise enough to be wrong." Preserves rhetorical force while integrating the contrast naturally. [Resolved]
 
 ### Counterarguments Considered
 - Previous review's stability note confirmed. MWI defenders, physicalists, and empiricists continue to disagree with the programme's foundations; the article handles each honestly within its text. Not re-flagged.

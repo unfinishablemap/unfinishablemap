@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-03-27
 # Pessimistic Review
 
 **Date**: 2026-03-27
-**Content reviewed**: `voids/expertise-occlusion.md`
+**Content reviewed**: [voids/expertise-occlusion.md](/voids/expertise-and-its-occlusion/)
 
 ## Executive Summary
 
@@ -47,35 +47,35 @@ Nagarjuna would question the article's reification of "consciousness" as an enti
 ## Critical Issues
 
 ### Issue 1: Structural Necessity Claimed Without Sufficient Argument
-- **File**: `voids/expertise-occlusion.md`
+- **File**: [voids/expertise-occlusion.md](/voids/expertise-and-its-occlusion/)
 - **Location**: "The Scaffolding Paradox" and "Defended, Not Merely Empty" sections
 - **Problem**: The article claims the expertise occlusion has an "unexplorable core" based on Polanyi's paradox—that "any system that integrates subsidiary elements into a meaningful whole must attend *through* those elements, not *to* them." This is presented as a structural impossibility, but it is actually a claim about attention that may not generalise beyond embodied cognition. A system with multiple independent attention mechanisms, or one that could create copies of its own states for inspection, might escape this constraint. The claim of structural necessity requires a formal argument, not an analogy about spectacles.
 - **Severity**: High
 - **Recommendation**: Soften the claim from "irreducible feature of any mind" to "feature of any mind with a single attentional focus" or provide a formal argument for why multi-focus attention wouldn't help.
 
 ### Issue 2: Reinvestment Theory Doesn't Prove "Defence"
-- **File**: `voids/expertise-occlusion.md`
+- **File**: [voids/expertise-occlusion.md](/voids/expertise-and-its-occlusion/)
 - **Location**: "The Scaffolding Paradox" — "The void defends itself"
 - **Problem**: Reinvestment theory shows that conscious intervention in automated processes degrades performance. This demonstrates interference, not defence. "Defence" implies purposive resistance—the void actively preventing re-entry. What the evidence shows is that two modes of processing are incompatible, which is a weaker and more standard finding. The language of "defence" and "patrolled boundaries" anthropomorphises a cognitive-architectural incompatibility.
 - **Severity**: Medium
 - **Recommendation**: Distinguish between "the void is defended" (implies active resistance) and "the void arises from processing incompatibility" (what the evidence actually shows). The current language is more dramatic than the evidence warrants.
 
 ### Issue 3: Style Violation — "This is not X" Construct
-- **File**: `voids/expertise-occlusion.md`
+- **File**: [voids/expertise-occlusion.md](/voids/expertise-and-its-occlusion/)
 - **Location**: Line 43 — "This is not the gradual fading of an unused capacity. It is an active barrier."
 - **Problem**: The writing style guide explicitly prohibits the "This is not X. It is Y." construct as an overused LLM pattern. This is a direct instance.
 - **Severity**: Medium
 - **Recommendation**: Rephrase to make the positive claim directly, e.g., "The barrier is active—consciousness attempting to re-enter automated territory causes measurable damage to performance."
 
 ### Issue 4: Missing Tenet Connections
-- **File**: `voids/expertise-occlusion.md`
+- **File**: [voids/expertise-occlusion.md](/voids/expertise-and-its-occlusion/)
 - **Location**: "Relation to Site Perspective"
 - **Problem**: Only three of five tenets are addressed (Dualism, Bidirectional Interaction, Occam's Limits). Minimal Quantum Interaction and No Many Worlds are absent. For a site that treats these as foundational, the omission is noticeable. The Quantum Skeptic section above highlights that the silence on quantum interaction is particularly conspicuous given the site's commitments.
 - **Severity**: Low
 - **Recommendation**: Either address all five tenets (even briefly noting when connection is tenuous) or add a note explaining why the remaining tenets are not engaged. Compare with `defended-territory.md` which addresses all five.
 
 ### Issue 5: Dualism Argument Relies on Gap Reasoning
-- **File**: `voids/expertise-occlusion.md`
+- **File**: [voids/expertise-occlusion.md](/voids/expertise-and-its-occlusion/)
 - **Location**: "Relation to Site Perspective" — Dualism section
 - **Problem**: The argument for dualism is: "If consciousness were identical to the computational processes underlying expertise, there would be no reason for introspective access to diminish as computation becomes more effective." This is a gap argument that physicalists can readily counter. Introspective access diminishing is exactly what you'd expect if introspection is a costly monitoring process that evolution selects against once performance stabilises. The argument confuses "consciousness as monitoring" with "consciousness as identical to computation." A physicalist who treats consciousness as a specific higher-order monitoring process would predict exactly this decoupling.
 - **Severity**: Medium

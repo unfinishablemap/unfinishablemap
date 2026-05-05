@@ -28,8 +28,8 @@ topics: []
 
 Cross-review of two coupled articles against Duch's classical-computational reduction:
 
-- **Hub** (`concepts/cognitive-phenomenology.md`): The "Implications for AI Consciousness" section claims LLMs lack the dissociations that reveal cognitive phenomenology (TOT, FOK, insight); under PCT, their representations aren't genuinely *about* anything. This is exactly the conclusion Duch (2005, 2019) contests via substrate-independent classical computationalism, with reported informal extension to LLMs.
-- **Exemplar** (`topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`): The argument structure — "the materialist retreat" + "expanding the explanatory gap" + "what conservatives must explain" — engages only sensory-reduction conservatives (Tye/Dretske). It does not engage Duch's *embrace* move: identifying cognitive phenomenology with classical-computational dynamical self-reflection rather than reducing it away.
+- **Hub** ([concepts/cognitive-phenomenology.md](/concepts/cognitive-phenomenology/)): The "Implications for AI Consciousness" section claims LLMs lack the dissociations that reveal cognitive phenomenology (TOT, FOK, insight); under PCT, their representations aren't genuinely *about* anything. This is exactly the conclusion Duch (2005, 2019) contests via substrate-independent classical computationalism, with reported informal extension to LLMs.
+- **Exemplar** ([topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)): The argument structure — "the materialist retreat" + "expanding the explanatory gap" + "what conservatives must explain" — engages only sensory-reduction conservatives (Tye/Dretske). It does not engage Duch's *embrace* move: identifying cognitive phenomenology with classical-computational dynamical self-reflection rather than reducing it away.
 
 The cross-review applied light-touch engagement to the hub (length-neutral mode triggered) and a more substantive engagement to the exemplar (headroom available below 3000-soft).
 

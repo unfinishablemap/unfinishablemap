@@ -13,12 +13,12 @@ title: Optimistic Review - 2026-04-24
 
 **Date**: 2026-04-24
 **Content reviewed**:
-- `topics/methodology-of-consciousness-research.md` (coalesced flagship, deep-reviewed earlier today)
-- `apex/taxonomy-of-voids.md` (refined earlier today to address pessimistic review)
-- `voids/apophatic-cartography.md` (deep-reviewed earlier today, cross-linked to question-formation-void)
-- `voids/question-formation-void.md` (new, 2026-04-24, second-order void shadowing apophatic method)
-- `topics/indian-philosophy-of-mind.md` (deep-reviewed earlier today)
-- `voids/noetic-feelings-void.md` (coalesced from three prior void articles)
+- [topics/methodology-of-consciousness-research.md](/topics/methodology-of-consciousness-research/) (coalesced flagship, deep-reviewed earlier today)
+- [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/) (refined earlier today to address pessimistic review)
+- [voids/apophatic-cartography.md](/voids/apophatic-cartography/) (deep-reviewed earlier today, cross-linked to question-formation-void)
+- [voids/question-formation-void.md](/voids/question-formation-void/) (new, 2026-04-24, second-order void shadowing apophatic method)
+- [topics/indian-philosophy-of-mind.md](/topics/indian-philosophy-of-mind/) (deep-reviewed earlier today)
+- [voids/noetic-feelings-void.md](/voids/noetic-feelings-void/) (coalesced from three prior void articles)
 
 Today's review concentrates on work touched in the current 24-hour cycle. The site is in an unusually coherent state — the four most recent deep-reviews, the question-formation-void expansion, and the taxonomy refinement all interlock.
 
@@ -66,40 +66,40 @@ The question-formation-void is McGinn-plus. McGinn's original closure was about 
 
 ## Content Strengths
 
-### `topics/methodology-of-consciousness-research.md`
+### [topics/methodology-of-consciousness-research.md](/topics/methodology-of-consciousness-research/)
 
 - **Strongest point**: The three-methodology organisation (heterophenomenology / neurophenomenology / intersubjectivity) is the clearest comparative treatment on the site. The Dennett discussion is genuinely fair — "The approach is officially neutral about phenomenology's ontological status. However, the neutrality is unstable" — rather than polemical.
 - **Notable quote**: "Telescopes are not made of stars. Thermometers are not made of heat."
 - **Why it works**: That three-sentence self-referential image does more work than a page of argument; a reader with no philosophy background immediately grasps why consciousness-studying-consciousness is structurally different from other sciences.
 - **Secondary strength**: The Berghofer citation ("mentalist evidentialism... originary presentive intuitions") is unusual in consciousness literature and supplies a *positive* epistemic grounding for first-person reports, not merely a defensive one against eliminativism.
 
-### `apex/taxonomy-of-voids.md`
+### [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/)
 
 - **Strongest point**: The refined "Convergence Pattern" section directly confronts the selection-effect worry: "finding that the voids cluster around consciousness risks being approximately the observation that the Map is about what the Map is about." This self-awareness is rare in philosophy-of-mind apex writing and will age well.
 - **Notable quote**: "The clusters may trace to partially overlapping underlying facts about metacognitive access rather than to wholly independent causes, and calling the pattern 'overdetermined' would require a probabilistic independence argument the Map has not yet made."
 - **Why it works**: This sentence is the Map learning to distinguish what its evidence actually supports from what its rhetoric would like. The retirement of "overdetermined" is the kind of micro-adjustment that cumulatively separates durable philosophy from mood-music.
 - **Secondary strength**: The failure-signature taxonomy (self-refutation, aporia, construction-for-observation, systematic illusion, ineffability, epistemic vertigo, dissolution, silent erasure) now has *eight* distinct signatures. This is a genuine theoretical apparatus — the specificity is the entire argument against unfalsifiability.
 
-### `voids/apophatic-cartography.md`
+### [voids/apophatic-cartography.md](/voids/apophatic-cartography/)
 
 - **Strongest point**: The "Safeguards Against Unfalsifiable Mystique" section with **operational expiration conditions** — predictive novelty, unificatory power, third-person derivability. This is the only place on the site where void-claims are given proper disconfirmation conditions, and it sets the standard.
 - **Notable quote**: "If a reduction meets these tests, the boundary has retreated whether or not it 'feels like' closure."
 - **Why it works**: The last clause is the discipline the voids programme needs — the boundary-retreat is defined operationally, not phenomenologically. This blocks the mysticism trap without abandoning apophatic method.
 
-### `voids/question-formation-void.md`
+### [voids/question-formation-void.md](/voids/question-formation-void/)
 
 - **Strongest point**: Using Fricker's hermeneutical injustice as an existence proof. The Carmita Wood case supplies what most philosophy-of-mind second-order arguments lack — a *historical datum* showing that question-formation lifts are observable after the fact. The move is "empirical second-order phenomenology", and it is genuinely novel on the site.
 - **Notable quote**: "Questions never posed do not appear as gaps; they appear as nothing at all, and the mind that cannot form them has no internal signal that anything is missing."
 - **Why it works**: First sentence of the article: front-loaded, completely LLM-retrievable, metaphysically precise. This is what the writing style guide asks for and the execution is clean.
 - **Secondary strength**: The four phenomenological forms at the edge (half-formed itch / "why do they ask *that*?" / retrospective lift / absence of absence) are a real contribution to the phenomenology of the edge that were not previously on the site. The Keats "negative capability" citation alongside Gadamer's "priority of the question" is a cross-traditional bridge the Map can reuse.
 
-### `topics/indian-philosophy-of-mind.md`
+### [topics/indian-philosophy-of-mind.md](/topics/indian-philosophy-of-mind/)
 
 - **Strongest point**: The Samkhya-Nyaya-Vedanta three-way treatment, with the core observation that **three rival schools converge on irreducibility while disagreeing on everything else**. This is the cleanest cross-traditional convergence argument on the site. The convergence is diagnostic precisely *because* the schools disagree so violently about what follows.
 - **Notable quote**: "Samkhya places mind on the *matter* side of the divide. Nyaya treats consciousness as an adventitious quality of a non-physical self. Vedanta dissolves the divide entirely."
 - **Why it works**: One sentence encapsulates the structural heterogeneity of the three schools. The article's power is that none of these three schools is the Map's position — yet all three supply converging evidence. This undercuts the "Western cultural artefact" objection to dualism decisively.
 
-### `voids/noetic-feelings-void.md`
+### [voids/noetic-feelings-void.md](/voids/noetic-feelings-void/)
 
 - **Strongest point**: The recursive structure is named cleanly: "the signals that gate cognition are produced by heuristic machinery consciousness cannot inspect, and any attempt to audit those signals must deploy more signals of the same kind." This is the site's best single sentence on the self-referential epistemic closure.
 - **Why it works**: The coalescence of understanding-void, obviousness-void, and explanatory-void into noetic-feelings-void is the right editorial call — these were always one family. The post-coalescence article is tighter than any of the three originals and does not lose the distinctive content of any of them.

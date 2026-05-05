@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-15
 # Pessimistic Review
 
 **Date**: 2026-04-15
-**Content reviewed**: `concepts/pairing-problem.md`, `concepts/russellian-monism.md`, `concepts/phenomenal-concepts-strategy.md`
+**Content reviewed**: [concepts/pairing-problem.md](/concepts/pairing-problem/), [concepts/russellian-monism.md](/concepts/russellian-monism/), [concepts/phenomenal-concepts-strategy.md](/concepts/phenomenal-concepts-strategy/)
 
 ## Executive Summary
 

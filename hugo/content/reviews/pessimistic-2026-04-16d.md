@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-16d
 # Pessimistic Review
 
 **Date**: 2026-04-16
-**Content reviewed**: `topics/phenomenology-of-resistance-across-domains.md`, `concepts/disguised-property-dualism.md`, `topics/duhem-quine-underdetermination-consciousness.md`
+**Content reviewed**: [topics/phenomenology-of-resistance-across-domains.md](/topics/phenomenology-of-resistance-across-domains/), [concepts/disguised-property-dualism.md](/concepts/disguised-property-dualism/), [topics/duhem-quine-underdetermination-consciousness.md](/topics/duhem-quine-underdetermination-consciousness/)
 
 ## Executive Summary
 
@@ -70,7 +70,7 @@ On disguised property dualism: Nagarjuna would observe a beautiful irony. The Ma
 
 ### Issue 1: Unified resistance signature may be projected rather than observed
 
-- **File**: `topics/phenomenology-of-resistance-across-domains.md`
+- **File**: [topics/phenomenology-of-resistance-across-domains.md](/topics/phenomenology-of-resistance-across-domains/)
 - **Location**: "Common Signatures" section and the preceding six-domain discussion
 - **Problem**: The article claims three specific features recur across all six domains: directedness-meeting-constraint, graded yielding, and asymmetric temporality. Each feature is strained in at least one domain. Graded yielding in logical resistance: "2+2=5" does not yield gradually; its resistance is binary. Asymmetric temporality in imaginative resistance: Gendler's puzzle is not about sustained effort gradually overcoming resistance, but about an immediate jarring response. The unifying signature is articulated at a level of abstraction that will make it fit almost any cognitive-effort phenomenon; at more specific levels, the domains come apart. This weakens the argument from unity.
 - **Severity**: Medium
@@ -78,7 +78,7 @@ On disguised property dualism: Nagarjuna would observe a beautiful irony. The Ma
 
 ### Issue 2: Disguised-property-dualism diagnostic may be unfalsifiable by design
 
-- **File**: `concepts/disguised-property-dualism.md`
+- **File**: [concepts/disguised-property-dualism.md](/concepts/disguised-property-dualism/)
 - **Location**: The three-condition diagnostic, especially condition (3) "No reduction is shown"
 - **Problem**: "No reduction is shown" is not given a standard: what would count as "showing" reduction? Type-B physicalists hold that water=H₂O is an identity not derived from water-concepts but discovered a posteriori; the reduction is "exhibited" by empirical investigation, not by logical derivation. The article hedges this in the type-B discussion but does not clarify the standard. Without a standard, almost any physicalist theory with a hard-problem-acknowledging architecture will fail condition (3), because the relevant reductions are philosophical end-states, not current achievements. The diagnostic thus risks being a label the Map applies at its discretion.
 - **Severity**: Medium-High
@@ -86,7 +86,7 @@ On disguised property dualism: Nagarjuna would observe a beautiful irony. The Ma
 
 ### Issue 3: The Map's own bi-aspectual ontology may satisfy the diagnostic's own criteria
 
-- **File**: `concepts/disguised-property-dualism.md`
+- **File**: [concepts/disguised-property-dualism.md](/concepts/disguised-property-dualism/)
 - **Location**: "From overt property dualism" subsection
 - **Problem**: The article says bi-aspectual dualism "satisfies condition (1) and rejects condition (2)." But it does not address condition (3). Does the Map exhibit a reduction between the mental and physical aspects of its bi-aspectual ontology? No—it posits "brute psychophysical linking principles" and defers the mechanism to the minimal quantum interaction tenet, which is itself speculative. Condition (3) is met: two structures, no exhibited reduction. What distinguishes the Map from disguised property dualism is only that it does not disavow the dualist label (rejects condition 2). By the article's own framing, this means the substantive philosophical difference is *labelling*, not structure—the very charge the article levels against Russellian monism. The self-consistency problem deserves explicit treatment.
 - **Severity**: High
@@ -94,7 +94,7 @@ On disguised property dualism: Nagarjuna would observe a beautiful irony. The Ma
 
 ### Issue 4: Progressive research programme claim is unsupported
 
-- **File**: `topics/duhem-quine-underdetermination-consciousness.md`
+- **File**: [topics/duhem-quine-underdetermination-consciousness.md](/topics/duhem-quine-underdetermination-consciousness/)
 - **Location**: "Relation to Site Perspective" subsection, "Dualism as a live research programme"
 - **Problem**: The article invokes Lakatos to legitimise dualism provided it is "progressive." It then lists three candidate predictions: (a) functional accounts will continue to face explanatory gaps, (b) first-person data will resist third-person reduction, (c) quantum-sensitive decision points will show anomalous statistical signatures. Prediction (a) is not a prediction but a tautology given the Map's dualism. Prediction (b) is similarly definitional. Only (c) is a genuine empirical prediction, and the article defers the specifics to the falsification roadmap without summarising them. A Lakatosian assessment requires novel, confirmed predictions; the article asserts the Map's progressiveness without exhibiting the goods.
 - **Severity**: Medium
@@ -102,7 +102,7 @@ On disguised property dualism: Nagarjuna would observe a beautiful irony. The Ma
 
 ### Issue 5: Underdetermination is used asymmetrically
 
-- **File**: `topics/duhem-quine-underdetermination-consciousness.md`
+- **File**: [topics/duhem-quine-underdetermination-consciousness.md](/topics/duhem-quine-underdetermination-consciousness/)
 - **Location**: Throughout, but especially "Kuhn's Values and Theory Choice" and "Relation to Site Perspective"
 - **Problem**: The article argues that underdetermination undermines physicalist confidence and legitimises dualism as an equal contender. But if underdetermination genuinely holds, it undermines *all* theoretical commitments, including the Map's. The article acknowledges this ("underdetermination cuts both ways") but immediately moves to the Lakatosian defence—which, per Issue 4, is itself underspecified. The net effect is that underdetermination is used to demote physicalism's epistemic standing while the Map's own commitments are preserved via a different defensive move. A single framework cannot do both consistently without argument.
 - **Severity**: Medium
@@ -110,7 +110,7 @@ On disguised property dualism: Nagarjuna would observe a beautiful irony. The Ma
 
 ### Issue 6: Self-undermining argument against illusionism is invoked without defence
 
-- **File**: `topics/phenomenology-of-resistance-across-domains.md`
+- **File**: [topics/phenomenology-of-resistance-across-domains.md](/topics/phenomenology-of-resistance-across-domains/)
 - **Location**: "The Deflationary Challenge" section
 - **Problem**: The article deploys the self-undermining argument against illusionism in two sentences: "if the phenomenology of resistance is illusory, our own reasoning about it—including the reasoning that produces illusionism—is no more reliable than any other neural noise." This argument has a rich critical literature (Frankish and Dennett have specifically addressed it), but the article does not engage any of it. The move trades on an equivocation between "illusory" (the phenomenology does not accurately represent underlying reality) and "unreliable" (reasoning itself fails). Illusionists generally deny the first and retain the second. The article treats the argument as decisive when it is contested.
 - **Severity**: Medium

@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-12
 # Pessimistic Review
 
 **Date**: 2026-04-12
-**Content reviewed**: `topics/panpsychisms-combination-problem.md`, `concepts/materialism.md`, `concepts/parfit-reductionism.md`
+**Content reviewed**: [topics/panpsychisms-combination-problem.md](/topics/panpsychisms-combination-problem/), [concepts/materialism.md](/concepts/materialism/), [concepts/parfit-reductionism.md](/concepts/parfit-reductionism/)
 
 ## Executive Summary
 
@@ -71,35 +71,35 @@ These three articles are philosophically substantive and well-structured, but sh
 ## Critical Issues
 
 ### Issue 1: Asymmetric Explanatory Standards
-- **File**: `concepts/materialism.md`
+- **File**: [concepts/materialism.md](/concepts/materialism/)
 - **Location**: "Why Materialism Fails" section and "The Materialist Response" section
 - **Problem**: The article demands that materialism explain *why* neural configurations produce qualia, but the Map's own position—consciousness is "fundamental"—declines to explain what it means for a non-physical entity to causally interact with physical systems. The interaction problem is handled in a single sentence ("Dualism makes no such claim," line 147), while materialism's failure to close the explanatory gap receives thousands of words. This asymmetry weakens the article's philosophical credibility.
 - **Severity**: High
 - **Recommendation**: Devote a substantive paragraph to acknowledging the interaction problem's difficulty at the same level of detail given to materialism's problems. The article currently reads as if dualism has no explanatory obligations.
 
 ### Issue 2: Question-Begging Phenomenological Appeals
-- **File**: `concepts/parfit-reductionism.md`
+- **File**: [concepts/parfit-reductionism.md](/concepts/parfit-reductionism/)
 - **Location**: "Patterns Don't Make Choices" (lines 69-76)
 - **Problem**: The argument that "*I* deliberate, *I* choose" proves something beyond pattern-continuity assumes what it needs to show. Parfit's whole point is that the felt distinctness of the "I" is compatible with there being nothing over and above continuity relations. Citing the phenomenology of agency as evidence against reductionism begs the question—the reductionist denies that phenomenology is a reliable guide to metaphysical structure.
 - **Severity**: Medium
 - **Recommendation**: Acknowledge that phenomenological evidence is contested between reductionists and anti-reductionists. Frame the argument as showing that reductionism has an explanatory cost (it must explain away the phenomenology), not as a straightforward refutation.
 
 ### Issue 3: Selective Citation of Contemplative Evidence
-- **File**: `concepts/parfit-reductionism.md`
+- **File**: [concepts/parfit-reductionism.md](/concepts/parfit-reductionism/)
 - **Location**: "Contemplative Evidence" (lines 176-179)
 - **Problem**: The article cites contemplative traditions that report a persisting "witness" after ego dissolution but doesn't mention traditions that report the dissolution of the witness itself (rigpa in Dzogchen, sunyata realization in Madhyamaka). This selective use of contemplative evidence undermines the article's claim to engage fairly with the phenomenological data.
 - **Severity**: Medium
 - **Recommendation**: Acknowledge that some traditions report complete dissolution of the witness and explain why the Map still maintains its position despite this. The "What Would Challenge This View?" section (criterion 4) partially addresses this but the main argument should engage with it directly.
 
 ### Issue 4: The Born Rule Dilemma Unaddressed
-- **File**: `concepts/materialism.md`
+- **File**: [concepts/materialism.md](/concepts/materialism/)
 - **Location**: "The Causal Closure Argument" (lines 82-91)
 - **Problem**: The article claims consciousness biases "otherwise indeterminate outcomes" at quantum collapse. But quantum mechanics predicts the probability distribution of outcomes precisely via the Born rule. Either consciousness shifts outcomes beyond Born-rule predictions (detectable and unfound) or it doesn't (then it's doing no causal work beyond what physics already determines statistically). This dilemma is central to the credibility of the Minimal Quantum Interaction tenet and goes unaddressed.
 - **Severity**: Medium
 - **Recommendation**: Address the Born rule dilemma explicitly. One response might be that consciousness operates within Born-rule statistics by selecting among outcomes that are all physically permitted—but this response needs articulation and defense.
 
 ### Issue 5: Turbulence Analogy Dismissed Too Quickly
-- **File**: `topics/panpsychisms-combination-problem.md`
+- **File**: [topics/panpsychisms-combination-problem.md](/topics/panpsychisms-combination-problem/)
 - **Location**: Lines 117-118
 - **Problem**: The article claims the turbulence analogy "fails at a crucial point" because the combination problem is "conceptual" while turbulence is merely "structural." But this distinction assumes we have clear concepts of phenomenal combination. If our concepts of consciousness are as confused as Dennett argues, the difficulty of conceiving phenomenal combination might reflect conceptual inadequacy, not metaphysical impossibility. The article doesn't consider this possibility.
 - **Severity**: Low

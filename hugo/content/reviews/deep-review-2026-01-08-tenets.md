@@ -17,7 +17,7 @@ title: Deep Review - Tenets
 topics: []
 ---
 
-**File reviewed**: `tenets/tenets.md`
+**File reviewed**: [tenets/tenets.md](/tenets/)
 **Date**: 2026-01-08
 **Review type**: Combined pessimistic + optimistic analysis
 

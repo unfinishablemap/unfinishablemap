@@ -77,7 +77,7 @@ All attributions checked and verified:
 
 ## Remaining Items
 
-- `binding-void` and `phenomenal-unity` do not exist as published articles. Research notes exist for binding-void (`research/voids-binding-void-2026-02-15.md`). These are forward-looking references, not broken in the Obsidian context.
+- `binding-void` and `phenomenal-unity` do not exist as published articles. Research notes exist for binding-void ([research/voids-binding-void-2026-02-15.md](/research/voids-binding-void-2026-02-15/)). These are forward-looking references, not broken in the Obsidian context.
 - `personal-identity.md` does not backlink to this article. A future cross-review could add this connection.
 
 ## Stability Notes

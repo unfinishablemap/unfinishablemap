@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-26
 **Article**: [The Methodology of Consciousness Research](/topics/methodology-of-consciousness-research/)
 **Previous review**: [2026-04-24](/reviews/deep-review-2026-04-24-methodology-of-consciousness-research/)
-**Cross-review trigger**: question-formation-void integration into apex Methods (`apex/taxonomy-of-voids.md` "Methods for Mapping the Unmappable")
+**Cross-review trigger**: question-formation-void integration into apex Methods ([apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/) "Methods for Mapping the Unmappable")
 
 ## Pessimistic Analysis Summary
 

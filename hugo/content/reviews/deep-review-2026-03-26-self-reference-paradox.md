@@ -82,7 +82,7 @@ All strengths from prior reviews remain intact:
 
 ## Distinct Ground Analysis
 
-The concept article (`concepts/self-reference-paradox.md`) covers ground distinct from the void article (`voids/self-opacity.md`):
+The concept article ([concepts/self-reference-paradox.md](/concepts/self-reference-paradox/)) covers ground distinct from the void article ([voids/self-opacity.md](/voids/self-opacity/)):
 
 | Aspect | Concept Article | Void Article |
 |--------|----------------|--------------|

@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-02-17 (Night)
 # Pessimistic Review
 
 **Date**: 2026-02-17
-**Content reviewed**: `concepts/combination-problem.md`, `concepts/near-death-experiences.md`, `concepts/moral-responsibility.md`
+**Content reviewed**: [concepts/combination-problem.md](/concepts/combination-problem/), [concepts/near-death-experiences.md](/concepts/near-death-experiences/), [concepts/moral-responsibility.md](/concepts/moral-responsibility/)
 
 ## Executive Summary
 
@@ -71,42 +71,42 @@ Three foundational concept articles—each never previously pessimistically revi
 ## Critical Issues
 
 ### Issue 1: Rigged Comparison Table in Combination Problem
-- **File**: `concepts/combination-problem.md`
+- **File**: [concepts/combination-problem.md](/concepts/combination-problem/)
 - **Location**: "Comparing the Problems" table
 - **Problem**: The table contrasts "Phenomenal bonding (unexplained)" with "Quantum selection (specifiable)" as if interactionism has a clear mechanism advantage. But quantum selection for consciousness is equally unexplained—no one has specified the selection dynamics, coupling constants, or detection methods. The table misleads by using asymmetric descriptors for problems at the same stage of development.
 - **Severity**: High
 - **Recommendation**: Reword the mechanism row honestly. Both should say something like "proposed but not yet specified" or distinguish what "specifiable" means (in principle vs. in detail). Alternatively, add a paragraph acknowledging that interactionism's mechanism is also unexplained at the detail level, even if the *type* of explanation (empirical vs. conceptual) differs.
 
 ### Issue 2: Filter Theory Prediction Failure Unaddressed
-- **File**: `concepts/near-death-experiences.md`
+- **File**: [concepts/near-death-experiences.md](/concepts/near-death-experiences/)
 - **Location**: "The Paradox of Heightened Experience" and filter theory discussion
 - **Problem**: Filter theory predicts that brain damage should reduce filtering and enhance consciousness. But the vast majority of brain damage cases (TBI, stroke, anoxia, dementia) produce *diminished* consciousness, not enhanced experience. NDEs are a narrow exception. The article treats filter theory as explaining the NDE paradox without addressing why filter removal enhances experience only in the very specific context of dying and not in other brain-compromise conditions.
 - **Severity**: High
 - **Recommendation**: Add a paragraph acknowledging this asymmetry. Why does filter reduction produce heightened experience during cardiac arrest but confusion during hypoxia at altitude? The article needs to engage with the selectivity problem for filter theory, not just present it as an elegant explanation.
 
 ### Issue 3: Agent Causation Presented as More Settled Than It Is
-- **File**: `concepts/moral-responsibility.md`
+- **File**: [concepts/moral-responsibility.md](/concepts/moral-responsibility/)
 - **Location**: Throughout, especially "Agent Causation and Desert" section
 - **Problem**: Phrases like "the agent determined by exercising irreducible causal power" and "the regress of causes stops at the agent" present agent causation as if it's an established framework rather than a deeply contested philosophical proposal. Agent causation is a minority position even among libertarians about free will. The article doesn't adequately convey how much work the concept of "irreducible causal power" is doing without explanation.
 - **Severity**: Medium
 - **Recommendation**: Add explicit acknowledgment that agent causation is a minority position. The opening should note that this is the Map's *chosen* framework, not an established result. The phrase "irreducible causal power" should be flagged as doing unexplained work, even if the article ultimately defends it.
 
 ### Issue 4: Selective Citation of NDE Statistics
-- **File**: `concepts/near-death-experiences.md`
+- **File**: [concepts/near-death-experiences.md](/concepts/near-death-experiences/)
 - **Location**: Opening paragraph and "Van Lommel (2001)" section
 - **Problem**: The article cites AWARE II's 39% figure and Van Lommel's 18% figure without noting that these use different definitions and methodologies, making them non-comparable. The 39% includes "CPR-induced consciousness" and "post-resuscitation emergence"—categories that don't require consciousness during arrest at all. Only 21.4% reported "transcendent RED." The juxtaposition implies NDEs are common (18-39%) when the comparable figure is closer to 18-21%.
 - **Severity**: Medium
 - **Recommendation**: Clarify that the 39% figure includes categories that don't involve consciousness during the arrest itself. The comparable figure to Van Lommel's 18% is AWARE II's 21.4% transcendent RED rate. Present both figures in their proper context.
 
 ### Issue 5: Quantum Zeno Mechanism Overplayed in Moral Responsibility
-- **File**: `concepts/moral-responsibility.md`
+- **File**: [concepts/moral-responsibility.md](/concepts/moral-responsibility/)
 - **Location**: "The Quantum Zeno Mechanism" section
 - **Problem**: The quantum Zeno mechanism is presented as the grounding for the "control" requirement of moral responsibility. But this is Stapp's speculative hypothesis, not established physics. Making moral desert depend on a contested quantum mechanism creates unnecessary fragility—if the quantum Zeno hypothesis is disproven, does moral responsibility collapse?
 - **Severity**: Medium
 - **Recommendation**: The writing style guide warns against overemphasis on speculative mechanisms (quantum Zeno effect is specifically mentioned as requiring restraint). The moral responsibility article should present agent causation as philosophically grounded regardless of which physical mechanism implements it, with quantum Zeno as one possible implementation. This matches the writing style guide's guidance that "the Map's core argument would survive if the mechanism were disproven."
 
 ### Issue 6: AWARE II Null Results Underplayed
-- **File**: `concepts/near-death-experiences.md`
+- **File**: [concepts/near-death-experiences.md](/concepts/near-death-experiences/)
 - **Location**: "Veridical Perception Cases" section
 - **Problem**: The hidden image test—the single most rigorous test of whether consciousness operates independently during cardiac arrest—has produced zero positive results. The article treats this as a methodological limitation ("few patients survive with memories, and fewer still would be positioned to see the hidden images"). While true, this framing systematically downplays the evidential weight of repeated null results.
 - **Severity**: Medium

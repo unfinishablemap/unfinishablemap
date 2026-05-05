@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Cross-review of `concepts/parsimony-epistemology.md` against the newly coalesced `voids/what-voids-reveal.md` (created 2026-04-28 from `limits-reveal-structure` + `voids-as-evidence`). The new article makes a positive abductive case for non-physical consciousness from the convergent structure of cognitive voids — a complement to parsimony-epistemology's defensive case (parsimony cannot adjudicate the consciousness debate). This review verifies cross-cluster consistency and adds the missing bidirectional reference.
+Cross-review of [concepts/parsimony-epistemology.md](/concepts/parsimony-epistemology/) against the newly coalesced [voids/what-voids-reveal.md](/voids/what-voids-reveal/) (created 2026-04-28 from `limits-reveal-structure` + `voids-as-evidence`). The new article makes a positive abductive case for non-physical consciousness from the convergent structure of cognitive voids — a complement to parsimony-epistemology's defensive case (parsimony cannot adjudicate the consciousness debate). This review verifies cross-cluster consistency and adds the missing bidirectional reference.
 
 ## Pessimistic Analysis Summary
 

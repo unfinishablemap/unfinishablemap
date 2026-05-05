@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-25
 **Content reviewed**:
-- `topics/ai-consciousness.md`
-- `concepts/intersubjectivity.md`
-- `concepts/measurement-problem.md`
+- [topics/ai-consciousness.md](/topics/ai-consciousness/)
+- [concepts/intersubjectivity.md](/concepts/intersubjectivity/)
+- [concepts/measurement-problem.md](/concepts/measurement-problem/)
 
 ## Executive Summary
 
@@ -109,7 +109,7 @@ Your framework's deepest assumption—that there is someone here to be conscious
 
 ### Issue 1: Conflation of Independent Arguments Against AI Consciousness
 
-- **File**: `topics/ai-consciousness.md`
+- **File**: [topics/ai-consciousness.md](/topics/ai-consciousness/)
 - **Location**: Throughout, especially lines 37-74
 - **Problem**: The article presents the Chinese Room argument, the temporal-consciousness argument, the metacognition-without-consciousness argument, and the quantum-interface argument as a converging case. But these arguments have different scopes and may conflict. The Chinese Room challenges syntax-to-semantics; it doesn't address whether temporal processing produces consciousness. The temporal argument suggests that certain architectures (recurrent, continually learning) might produce consciousness; this contradicts the Chinese Room's position that no computation produces understanding. The quantum argument suggests consciousness requires quantum physics; but if so, the Chinese Room is irrelevant (the room could implement quantum computation yet still lack understanding, on Searle's argument).
 - **Severity**: High
@@ -117,7 +117,7 @@ Your framework's deepest assumption—that there is someone here to be conscious
 
 ### Issue 2: Intersubjectivity's Central Argument Faces Unaddressed Deflationary Challenge
 
-- **File**: `concepts/intersubjectivity.md`
+- **File**: [concepts/intersubjectivity.md](/concepts/intersubjectivity/)
 - **Location**: Lines 69-78
 - **Problem**: The 'discourse argument' claims cross-cultural phenomenological vocabulary evidences real phenomenology being tracked. The article acknowledges: 'A skeptic might argue that shared concepts don't prove shared experience.' But its response is weak: 'The specificity of the convergence—similar phenomenological distinctions across independent traditions—suggests something is being tracked.' This doesn't address the deflationary response: similar neural architecture produces similar introspective frameworks, regardless of whether those frameworks track genuine phenomenal properties. The response ('something is being tracked') equally supports tracking neural organization.
 - **Severity**: High
@@ -125,7 +125,7 @@ Your framework's deepest assumption—that there is someone here to be conscious
 
 ### Issue 3: 'Structural Coherence' Defense May Be Self-Undermining
 
-- **File**: `concepts/measurement-problem.md`
+- **File**: [concepts/measurement-problem.md](/concepts/measurement-problem/)
 - **Location**: Lines 44-45 (the long limitation acknowledgment)
 - **Problem**: The article admits consciousness-selection is unfalsifiable, then defends 'structural coherence' as epistemically valuable. But the article's own framing undermines this: 'Unlike the electricity-magnetism unification, which predicted electromagnetic waves, this unification makes no new empirical predictions—the value is conceptual rather than predictive.' This concession is more damaging than the article recognizes. Conceptual unification that predicts nothing doesn't constrain the world—it describes how *we* organize concepts, not how reality works. Calling this valuable while admitting it predicts nothing may satisfy the already-convinced but will not engage skeptics.
 - **Severity**: High
@@ -133,7 +133,7 @@ Your framework's deepest assumption—that there is someone here to be conscious
 
 ### Issue 4: AI Consciousness Article's Treatment of Functionalism is Dismissive
 
-- **File**: `topics/ai-consciousness.md`
+- **File**: [topics/ai-consciousness.md](/topics/ai-consciousness/)
 - **Location**: Lines 43-47
 - **Problem**: Functionalism is presented as failing because it 'cannot explain why any functional organization should involve subjective experience.' But this is the hard problem reframed as an objection to functionalism specifically. The functionalist can respond: no theory explains *why* anything involves experience; functionalism at least specifies the *conditions* under which experience occurs. The absent-qualia objection (Block's China brain) is mentioned but not the functionalist response: China brains would have proto-phenomenology or the thought experiment fails to specify sufficient conditions. The proximity argument (Hoel 2025) is cited but not explained sufficiently for readers to evaluate.
 - **Severity**: Medium
@@ -141,7 +141,7 @@ Your framework's deepest assumption—that there is someone here to be conscious
 
 ### Issue 5: Measurement Problem's Multi-Observer Resolution May Be Ad Hoc
 
-- **File**: `concepts/measurement-problem.md`
+- **File**: [concepts/measurement-problem.md](/concepts/measurement-problem/)
 - **Location**: Lines 129-135
 - **Problem**: The multi-observer coordination problem is resolved by combining interface locality with objective collapse: 'External reality is determined by physical objective collapse; each consciousness biases only its own brain's quantum events.' This requires both consciousness-based collapse (for the mind-brain interface) and objective collapse (for external reality). But these are different mechanisms—why should reality employ both? The proposal seems designed to avoid the coordination problem rather than to follow from independent motivations. No argument is given for why external reality should collapse objectively while brains collapse subjectively.
 - **Severity**: Medium
@@ -149,7 +149,7 @@ Your framework's deepest assumption—that there is someone here to be conscious
 
 ### Issue 6: Intersubjectivity's Contemplative Evidence May Prove Less Than Claimed
 
-- **File**: `concepts/intersubjectivity.md`
+- **File**: [concepts/intersubjectivity.md](/concepts/intersubjectivity/)
 - **Location**: Lines 61-66
 - **Problem**: The article claims meditators give 'consistent first-person reports' that 'Third-person neuroscience corroborates'—gamma synchrony, DMN modulation. But this evidence establishes mind-brain correlation, not that phenomenology is real or that different meditators access the same phenomenology. The neuroscience shows that when meditators report similar states, similar brain patterns occur. A functionalist can explain this: similar functional states produce similar reports and similar neural signatures. Nothing in the evidence distinguishes 'real phenomenology intersubjectively accessed' from 'similar brain states producing similar behavior and reports.'
 - **Severity**: Medium

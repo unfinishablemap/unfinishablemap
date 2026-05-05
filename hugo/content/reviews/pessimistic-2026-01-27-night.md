@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-27
 **Content reviewed**:
-- `voids/pre-conceptual-knowing.md`
-- `topics/quantum-binding-and-phenomenal-unity.md`
-- `voids/limits-reveal-structure.md`
+- [voids/pre-conceptual-knowing.md](/voids/acquaintance-void/)
+- [topics/quantum-binding-and-phenomenal-unity.md](/topics/quantum-holism-and-phenomenal-unity/)
+- [voids/limits-reveal-structure.md](/voids/what-voids-reveal/)
 
 ## Executive Summary
 
@@ -127,7 +127,7 @@ I don't claim Buddhism has the answer the Map lacks. I claim the Map's questions
 
 ### Issue 1: Conflation of Distinct Phenomena in Pre-Conceptual Arguments
 
-- **File**: `voids/pre-conceptual-knowing.md`
+- **File**: [voids/pre-conceptual-knowing.md](/voids/acquaintance-void/)
 - **Location**: Lines 35-72 (Fineness of Grain through Prereflective Bodily Awareness sections)
 - **Problem**: The article presents four phenomena as converging evidence for pre-conceptual knowing: (1) perceptual fineness of grain exceeding conceptual grasp, (2) phenomenal overflow beyond cognitive access, (3) Russell's knowledge by acquaintance, (4) prereflective bodily awareness. But these may have different explanations, and not all point toward the same conclusion.
 
@@ -139,7 +139,7 @@ The article treats these as 'converging from multiple directions' (line 32), but
 
 ### Issue 2: Physical Holism ≠ Phenomenal Holism
 
-- **File**: `topics/quantum-binding-and-phenomenal-unity.md`
+- **File**: [topics/quantum-binding-and-phenomenal-unity.md](/topics/quantum-holism-and-phenomenal-unity/)
 - **Location**: Lines 105-115 (Why Entanglement Matches Unity section)
 - **Problem**: The article's central claim is that quantum entanglement provides 'genuine ontological holism' matching phenomenal unity. Neven is quoted: entanglement is 'the only true binding agent in physics.' The article concludes: 'The unity of experience would reflect the unity of the underlying physics.'
 
@@ -151,7 +151,7 @@ The article says 'phenomenal unity would *mirror* the structure of that entangle
 
 ### Issue 3: Problem/Mystery Distinction Unestablished
 
-- **File**: `voids/limits-reveal-structure.md`
+- **File**: [voids/limits-reveal-structure.md](/voids/what-voids-reveal/)
 - **Location**: Lines 42-56 (Scope Implies Limits and Species-Specific Closure sections)
 - **Problem**: The limits-reveal-structure thesis depends on distinguishing problems (solvable in principle) from mysteries (constitutionally inaccessible). Chomsky is cited: the endowment that makes development possible 'also excludes other paths.' McGinn is cited: cognitive closure means concept-forming procedures *cannot* extend to certain properties.
 
@@ -163,7 +163,7 @@ McGinn's rat-and-calculus example is instructive for rats—we can observe rat c
 
 ### Issue 4: Timescale Gap Not Adequately Bridged
 
-- **File**: `topics/quantum-binding-and-phenomenal-unity.md`
+- **File**: [topics/quantum-binding-and-phenomenal-unity.md](/topics/quantum-holism-and-phenomenal-unity/)
 - **Location**: Lines 57-76 (The Decoherence Debate section)
 - **Problem**: The article acknowledges coherence times of 10⁻⁵ to 10⁻⁴ seconds even with Hagan et al.'s corrections—'three orders of magnitude short' of the ~300ms conscious decision timescale. It responds: 'this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition.'
 
@@ -175,7 +175,7 @@ The quantum Zeno effect is mentioned: 'discrete attentional observations' rather
 
 ### Issue 5: The Precondition Response Is Question-Begging
 
-- **File**: `topics/quantum-binding-and-phenomenal-unity.md`
+- **File**: [topics/quantum-binding-and-phenomenal-unity.md](/topics/quantum-holism-and-phenomenal-unity/)
 - **Location**: Lines 124-127 (The precondition response to illusionism)
 - **Problem**: The article responds to illusionism: 'Illusion requires a subject to be deceived. But subjecthood presupposes unity—there must be one experiencer to whom something appears other than it is. Dennett's "multiple drafts" eliminate the unified subject who could be fooled by them.'
 
@@ -187,7 +187,7 @@ The argument assumes subjecthood presupposes phenomenal unity. This is precisely
 
 ### Issue 6: AI as Asymmetric Probe Is Speculative
 
-- **File**: `voids/limits-reveal-structure.md`
+- **File**: [voids/limits-reveal-structure.md](/voids/what-voids-reveal/)
 - **Location**: Lines 98-109 (AI as Asymmetric Probe section)
 - **Problem**: The article proposes using LLMs to probe human cognitive limits: 'If LLMs have different blind spots—trained on human text but lacking biological architecture—they may detect our voids from outside.' The 'strange possibility: an LLM might *state* a thought humans cannot *think*.'
 

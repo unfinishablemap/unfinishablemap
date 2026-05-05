@@ -22,7 +22,7 @@ topics: []
 **Date**: 2026-01-31
 **Content reviewed**:
 - `apex/ground-of-meaning.md`
-- `apex/consciousness-and-agency.md`
+- [apex/consciousness-and-agency.md](/apex/consciousness-and-agency/)
 - `apex/explanatory-frontier.md`
 
 ## Executive Summary
@@ -153,7 +153,7 @@ The Map treats emptiness as compatible with its framework: 'processes can select
 
 ### Issue 2: Agent Causation's Tension with Reasons-Responsiveness
 
-- **File**: `apex/consciousness-and-agency.md`
+- **File**: [apex/consciousness-and-agency.md](/apex/consciousness-and-agency/)
 - **Location**: Lines 55-64 and 71-77
 - **Problem**: The article claims agent causation is irreducible to event causation—the agent, not prior mental events, is the source. But it also claims selection is 'reasons-guided'—reasons shape which outcome becomes actual. These claims tension: if reasons (mental events) guide selection, the selection is explained by events, not by an irreducible agent. The article tries to finesse this by saying reasons 'guide without determining,' but this either collapses into soft determination (reasons strongly influence) or leaves selection arbitrary (reasons barely influence). The framework needs an account of how reasons guide without the guidance being causal—and lacks one.
 - **Severity**: High
@@ -177,7 +177,7 @@ The Map treats emptiness as compatible with its framework: 'processes can select
 
 ### Issue 5: Quantum Mechanism Acknowledged as Speculative, Then Treated as Available
 
-- **File**: `apex/consciousness-and-agency.md` (primarily) and references in other articles
+- **File**: [apex/consciousness-and-agency.md](/apex/consciousness-and-agency/) (primarily) and references in other articles
 - **Location**: Lines 51-53, 100-103
 - **Problem**: The articles repeatedly acknowledge that the quantum selection mechanism is 'speculative,' 'highly speculative,' or faces serious physics objections. But they proceed as if some mechanism must work because the philosophical arguments require it. The Ground of Meaning invokes 'consciousness biasing neural patterns' through quantum selection while calling it speculative. Consciousness and Agency's entire framework depends on consciousness selecting among quantum possibilities. If no quantum mechanism is viable (as Tegmark and others argue), the framework loses its account of how consciousness affects the physical world. Acknowledging speculation isn't enough if the framework collapses without the speculation being true.
 - **Severity**: Medium

@@ -100,7 +100,7 @@ None this pass — the cross-link network was substantially built out in the 202
 
 ## Remaining Items
 
-- **Site-wide Hume quote inconsistency**: Three other articles (`concepts/introspection.md`, `concepts/witness-consciousness.md`, `topics/phenomenology-of-recursive-self-awareness.md`) still render the quote with the modified word order ("I can never catch myself..."). A single P3 cleanup task could harmonise these to match Hume's original. Not urgent.
+- **Site-wide Hume quote inconsistency**: Three other articles ([concepts/introspection.md](/concepts/introspection/), [concepts/witness-consciousness.md](/concepts/witness-consciousness/), [topics/phenomenology-of-recursive-self-awareness.md](/topics/phenomenology-of-recursive-self-awareness/)) still render the quote with the modified word order ("I can never catch myself..."). A single P3 cleanup task could harmonise these to match Hume's original. Not urgent.
 - The three coexisting taxonomies (two faces / three conditions / three types of limit) could be more explicitly related in a future expansion — but only if length budget permits, which it does not at present.
 
 ## Stability Notes

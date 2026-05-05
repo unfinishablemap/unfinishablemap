@@ -38,9 +38,9 @@ topics: []
 
 ### Attribution Accuracy
 All checks pass:
-- **Tulving's anoetic/noetic/autonoetic hierarchy**: Verified against `concepts/ai-consciousness-modes.md`. Correctly attributed; LLM characterisation ("functionally resemble noetic processing") matches source.
-- **Hoel's continual learning argument and proximity-to-lookup-tables**: Verified against `concepts/continual-learning-argument.md`. Correctly attributed to Erik Hoel (2026).
-- **Frischhut (2024) "Awareness without Time?" in *The Philosophical Quarterly***: Verified against `topics/non-temporal-consciousness.md`. Citation accurate.
+- **Tulving's anoetic/noetic/autonoetic hierarchy**: Verified against [concepts/ai-consciousness-modes.md](/concepts/ai-consciousness-typology/). Correctly attributed; LLM characterisation ("functionally resemble noetic processing") matches source.
+- **Hoel's continual learning argument and proximity-to-lookup-tables**: Verified against [concepts/continual-learning-argument.md](/concepts/continual-learning-argument/). Correctly attributed to Erik Hoel (2026).
+- **Frischhut (2024) "Awareness without Time?" in *The Philosophical Quarterly***: Verified against [topics/non-temporal-consciousness.md](/topics/non-temporal-consciousness/). Citation accurate.
 - **Stapp's quantum Zeno model**, **Koch superposition-formation**, **Husserl's absolute flow**: All verified accurate in previous reviews and unchanged.
 - No source/Map conflation detected. Map-specific arguments (sea of conscious entities, binding, quantum interactionism) are clearly labeled as the Map's framing.
 

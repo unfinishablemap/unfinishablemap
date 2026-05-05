@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-10
 # Pessimistic Review
 
 **Date**: 2026-04-10
-**Content reviewed**: `topics/biological-computationalisms-inadvertent-case-for-dualism.md`, `concepts/causal-delegation.md`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`
+**Content reviewed**: [topics/biological-computationalisms-inadvertent-case-for-dualism.md](/topics/biological-computationalisms-inadvertent-case-for-dualism/), [concepts/causal-delegation.md](/concepts/delegatory-causation/), [topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)
 
 ## Executive Summary
 
@@ -63,35 +63,35 @@ The cognitive phenomenology article's claim that "what it is like to understand"
 ## Critical Issues
 
 ### Issue 1: Equivocation between "substrate-dependent" and "non-physical"
-- **File**: `topics/biological-computationalisms-inadvertent-case-for-dualism.md`
+- **File**: [topics/biological-computationalisms-inadvertent-case-for-dualism.md](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
 - **Location**: "What 'The Algorithm Is the Substrate' Really Says" section
 - **Problem**: The article slides from "properties that resist abstraction" to "non-physical properties" in a single paragraph. Substrate-dependent properties can be entirely physical — they are just physical properties of a specific substrate rather than abstract properties of any substrate. The inference that resisting abstraction = non-physical is the article's central move, and it is a non sequitur. The article partially hedges with the tripartite label ("non-physical," "irreducible higher-order physical," "non-computational biological") but then asserts "the logical structure is the same" — which is false. Property dualism and biological computationalism have fundamentally different ontological commitments.
 - **Severity**: High
 - **Recommendation**: Explicitly acknowledge that substrate-dependent properties can be physical. The argument should be: biological computationalism's concessions make it *structurally analogous* to dualism, not that they *entail* dualism. This is a weaker claim but a defensible one.
 
 ### Issue 2: Observational closure may be self-undermining
-- **File**: `concepts/causal-delegation.md`
+- **File**: [concepts/causal-delegation.md](/concepts/delegatory-causation/)
 - **Location**: "Observational Closure" section
 - **Problem**: The article presents observational closure as a feature — delegation is empirically invisible because experiences cause exactly what physics would. But this means delegation is explanatorily idle in exactly the way epiphenomenalism is. The article acknowledges they share a "predictive boat" but doesn't confront the deeper problem: if no observation distinguishes the theories, choosing between them is a matter of preference, not argument. The claimed advantage over epiphenomenalism (explaining why introspective reports track experiences) is a theoretical virtue, but theoretical virtues are precisely what you appeal to when you *lack* empirical evidence — the same move the article criticises physicalists for making.
 - **Severity**: High
 - **Recommendation**: Address the tension between claiming theoretical superiority over epiphenomenalism while sharing its empirical profile. Consider whether delegation's theoretical virtues genuinely exceed those of simpler alternatives, or whether the article is special-pleading.
 
 ### Issue 3: Mathematical Mary begs the question
-- **File**: `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`
+- **File**: [topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)
 - **Location**: "From Sensation to Cognition" section
 - **Problem**: The article presents Mathematical Mary as extending the knowledge argument to cognition, then acknowledges the physicalist objection ("if Mary truly knows everything physical about mathematical understanding, perhaps she already understands") and dismisses it by asserting the gap is "starker" for cognition than for colour. But this is exactly what needs to be argued, not asserted. The physicalist's point is that knowing everything physical about mathematical understanding *includes* the physical processes that constitute understanding. Saying "no amount of neuroscientific description seems to constitute the grasp" restates the intuition rather than defending it.
 - **Severity**: Medium
 - **Recommendation**: Either provide an argument for why the physicalist objection fails in the cognitive case (beyond restating the intuition), or frame Mathematical Mary as an illustration of the cognitive hard problem rather than an independent argument for irreducibility.
 
 ### Issue 4: Adaptive computational depth argument is circular
-- **File**: `topics/biological-computationalisms-inadvertent-case-for-dualism.md`
+- **File**: [topics/biological-computationalisms-inadvertent-case-for-dualism.md](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
 - **Location**: Final paragraph of "What 'The Algorithm Is the Substrate' Really Says"
 - **Problem**: The argument that "the allocator must stand outside the computation it directs" presupposes dualism to argue for dualism. The premise assumes consciousness is an allocator of computational resources that cannot itself be computational — but this is precisely the conclusion being argued for. A physicalist would say the allocation is itself a computation within the system, with no need for an external allocator.
 - **Severity**: Medium
 - **Recommendation**: Flag this as depending on the Map's prior commitment to consciousness as allocator, not as an independent argument from biological computationalism's own premises. The biological computationalism article should argue from what biological computationalists concede, not from what the Map independently believes.
 
 ### Issue 5: Misrepresentation of Piccinini's "noncomputational functionalism"
-- **File**: `topics/biological-computationalisms-inadvertent-case-for-dualism.md`
+- **File**: [topics/biological-computationalisms-inadvertent-case-for-dualism.md](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
 - **Location**: "The Relocated Hard Problem" section
 - **Problem**: The article claims Piccinini's admission of noncomputational functionalism is "structurally identical to the dualist claim." But Piccinini's noncomputational functionalism is still physicalist — it just denies that the relevant physical functions are computational ones. Physical but non-computational is not the same as non-physical. The article is treating "not computational" as though it means "not physical," which repeats the equivocation identified in Issue 1.
 - **Severity**: Medium

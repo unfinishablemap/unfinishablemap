@@ -30,9 +30,9 @@ On 2026-04-30 at 00:40 UTC, three voids articles were coalesced into a single ar
 - `voids/mathematical-void` → archived; replaced by [the abstract mathematical ceiling face](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling)
 
 The three archived articles redirect via Hugo-level URL preservation (the standard archive pattern), but in-text wikilinks pointing at the old slugs remained stale. The P2 task identified three apex articles needing fixes:
-1. `apex/taxonomy-of-voids.md` — wikilink retargeting (frontmatter + 2 in-body)
-2. `apex/medium-status-voids-in-cognition.md` — wikilink retargeting (1 in-body)
-3. `apex/conjunction-coalesce.md` — substantive content revision required (numerosity-void had been treated as a "second cognate" exemplifying the conjunction-coalesce discipline)
+1. [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/) — wikilink retargeting (frontmatter + 2 in-body)
+2. [apex/medium-status-voids-in-cognition.md](/apex/medium-status-voids-in-cognition/) — wikilink retargeting (1 in-body)
+3. [apex/conjunction-coalesce.md](/apex/conjunction-coalesce/) — substantive content revision required (numerosity-void had been treated as a "second cognate" exemplifying the conjunction-coalesce discipline)
 
 ## Pessimistic Analysis Summary
 

@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-05
 **Content reviewed**:
-- `concepts/simulation.md`
-- `concepts/knowledge-argument.md`
-- `topics/ethics-of-consciousness.md`
+- [concepts/simulation.md](/concepts/simulation/)
+- [concepts/knowledge-argument.md](/concepts/knowledge-argument/)
+- [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
 
 ## Executive Summary
 
@@ -103,7 +103,7 @@ The article's response—'emptiness doesn't mean nonexistence but rather that su
 
 ### Issue 1: Dissolving vs. Answering Objections
 
-- **Files**: `concepts/simulation.md`, throughout
+- **Files**: [concepts/simulation.md](/concepts/simulation/), throughout
 - **Location**: Lines 59-64 (locality dissolves), 76-78 (closure becomes contingent), 180-188 (four things simulation provides)
 - **Problem**: The article repeatedly claims the simulation hypothesis "dissolves" objections when it actually evades them. Dissolving the locality objection by saying "space is just data" doesn't explain how consciousness coordinates across neural distances—it posits a hypothetical context where the question doesn't arise. But the question *does* arise in our experience, whether or not we're simulated. If the simulation implements spatial constraints, the objection applies within the simulation. The article treats changing background assumptions as equivalent to answering the original question.
 - **Severity**: High
@@ -111,7 +111,7 @@ The article's response—'emptiness doesn't mean nonexistence but rather that su
 
 ### Issue 2: Intuition as Evidence
 
-- **Files**: `concepts/knowledge-argument.md`
+- **Files**: [concepts/knowledge-argument.md](/concepts/knowledge-argument/)
 - **Location**: Lines 60-61 (intuition claim), 150-151 (burden shifting)
 - **Problem**: The article treats the "learning intuition" as near-probative: "Surveys consistently show that most people share the intuition that Mary learns something new." But philosophical intuitions are methodologically contested. Intuitions about consciousness may reflect our ignorance rather than insight—we can't imagine what complete physical knowledge would feel like because no one has it. The article's framing puts the burden on physicalists to "explain away" an intuition, but methodologically, the burden should be on those using intuitions as evidence to show why *these* intuitions are reliable when so many others aren't.
 - **Severity**: Medium-High
@@ -119,7 +119,7 @@ The article's response—'emptiness doesn't mean nonexistence but rather that su
 
 ### Issue 3: Framework-Dependent Ethics Presented as Distinctive
 
-- **Files**: `topics/ethics-of-consciousness.md`
+- **Files**: [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
 - **Location**: Lines 81-82 (AI confidence), 89-93 (AI ethics), 169-181 (tenet connections)
 - **Problem**: The article presents "distinctive positions" on AI ethics: "current AI is likely not conscious and lacks moral patienthood." But this position depends entirely on the Map's framework—specifically the claim that consciousness requires quantum interfaces that current AI lacks. If the framework is wrong (a possibility acknowledged in the "What Would Change" section), the distinctive positions collapse. The article proceeds as if the framework were established when making practical recommendations, then acknowledges speculation when pressed. This is rhetorically misleading.
 - **Severity**: High
@@ -127,7 +127,7 @@ The article's response—'emptiness doesn't mean nonexistence but rather that su
 
 ### Issue 4: Phenomenal Concepts Strategy Dismissed Too Quickly
 
-- **Files**: `concepts/knowledge-argument.md`
+- **Files**: [concepts/knowledge-argument.md](/concepts/knowledge-argument/)
 - **Location**: Lines 75-81 (phenomenal concepts response)
 - **Problem**: The article presents Chalmers's "master argument" against the phenomenal concepts strategy as decisive: "Either phenomenal concepts are themselves physical (in which case zombies could have them) or they involve something non-physical (conceding dualism)." But this argument assumes zombie conceivability is metaphysically probative—a contested claim. Type-B physicalists (like Papineau) deny that conceivability tracks possibility; the phenomenal concepts strategy can reject the dilemma's first horn by denying that zombies are genuinely conceivable. The article doesn't engage this response.
 - **Severity**: Medium
@@ -143,7 +143,7 @@ The article's response—'emptiness doesn't mean nonexistence but rather that su
 
 ### Issue 6: Buddhist Philosophy Misappropriated
 
-- **Files**: `concepts/simulation.md`, `topics/ethics-of-consciousness.md`
+- **Files**: [concepts/simulation.md](/concepts/simulation/), [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
 - **Location**: simulation:242-251 (Buddhist section); ethics:45-48 (Buddhist convergence)
 - **Problem**: Both articles invoke Buddhist philosophy in support of the Map's positions, but the invocations are selective. The simulation article claims māyā parallels simulation when Buddhist māyā is about stripping conceptual elaboration, not adding metaphysical layers. The ethics article claims Buddhist ahimsa presupposes consciousness-grounding when Buddhist analysis deconstructs the very consciousness the Map treats as foundational. The response that "emptiness doesn't mean nonexistence" doesn't address how consciousness can be both dependently arisen (Buddhist) and irreducible (dualist).
 - **Severity**: Medium

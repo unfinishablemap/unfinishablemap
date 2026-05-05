@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-29
 **Content reviewed**:
-- `topics/delegatory-dualism.md`
-- `concepts/interactionist-dualism.md`
-- `concepts/mental-causation.md`
+- [topics/delegatory-dualism.md](/topics/delegatory-dualism/)
+- [concepts/interactionist-dualism.md](/concepts/interactionist-dualism/)
+- [concepts/mental-causation.md](/concepts/mental-causation-and-downward-causation/)
 
 ## Executive Summary
 
@@ -157,7 +157,7 @@ If consciousness is process rather than substance, the exclusion problem dissolv
 
 ### Issue 2: Organizational Invariance Tension with Non-Physicalism
 
-- **File**: `topics/delegatory-dualism.md`
+- **File**: [topics/delegatory-dualism.md](/topics/delegatory-dualism/)
 - **Location**: Lines 65-68
 - **Problem**: Saad's constraint 5 (Organizational Invariance) claims 'duplicating a system's functional organization should preserve its phenomenology.' But if functional organization determines phenomenology, this seems to support functionalism rather than dualism. The article acknowledges the tension ('favors views where physical structure determines what experiences arise') but doesn't resolve it. How can experiences be non-physical if they're determined by functional organization? The Map's dualism seems to require that something beyond organization—substrate, quantum interface, haecceity—matters. But then Organizational Invariance fails.
 - **Severity**: Medium
@@ -165,7 +165,7 @@ If consciousness is process rather than substance, the exclusion problem dissolv
 
 ### Issue 3: Self-Stultification Argument Insufficiently Defends Against Illusionism
 
-- **File**: `concepts/mental-causation.md`
+- **File**: [concepts/mental-causation.md](/concepts/mental-causation-and-downward-causation/)
 - **Location**: Lines 186-193
 - **Problem**: The illusionist response receives one paragraph. The article quotes Tallis ('misrepresentation presupposes presentation') but this is assertion, not argument. Illusionism claims the brain represents itself as having phenomenal properties without having them. The self-stultification argument claims accurate reports require causal connection to subject matter. But illusionism accepts that functional states cause reports—it just denies those functional states have phenomenal character. The article doesn't engage with how illusionism handles self-knowledge without positing phenomenal properties.
 - **Severity**: Medium
@@ -173,7 +173,7 @@ If consciousness is process rather than substance, the exclusion problem dissolv
 
 ### Issue 4: MWI Rejection Conflates Branch Selection with Mental Causation
 
-- **File**: `concepts/mental-causation.md`, `concepts/interactionist-dualism.md`
+- **File**: [concepts/mental-causation.md](/concepts/mental-causation-and-downward-causation/), [concepts/interactionist-dualism.md](/concepts/interactionist-dualism/)
 - **Location**: mental-causation.md lines 143-147, interactionist-dualism.md lines 287-289
 - **Problem**: The articles claim that MWI makes consciousness epiphenomenal because there's no selection for consciousness to perform. But MWI allows within-branch causation. If you decide to raise your arm, in branches where you decide this, the arm rises. That's mental causation—counterfactual dependence within a branch. The articles conflate 'consciousness selects between branches' (which MWI denies) with 'consciousness causes physical effects' (which MWI allows).
 - **Severity**: Medium
@@ -181,7 +181,7 @@ If consciousness is process rather than substance, the exclusion problem dissolv
 
 ### Issue 5: Specification Challenge Underdeveloped
 
-- **File**: `concepts/mental-causation.md`
+- **File**: [concepts/mental-causation.md](/concepts/mental-causation-and-downward-causation/)
 - **Location**: Lines 123-141
 - **Problem**: The article presents five candidate psychophysical coupling mechanisms, notes that only two meet basic adequacy standards, and concludes 'without such specification, mental causation risks unfalsifiability.' But then it proceeds as if mental causation is established. The gap between acknowledging specification challenges and affirming mental causation isn't bridged. If we don't know *how* consciousness biases outcomes, how confident should we be that it does?
 - **Severity**: Medium
@@ -189,7 +189,7 @@ If consciousness is process rather than substance, the exclusion problem dissolv
 
 ### Issue 6: Agent Causation Framework Assumed Without Defense
 
-- **File**: `concepts/mental-causation.md`, `concepts/interactionist-dualism.md`
+- **File**: [concepts/mental-causation.md](/concepts/mental-causation-and-downward-causation/), [concepts/interactionist-dualism.md](/concepts/interactionist-dualism/)
 - **Location**: mental-causation.md lines 149-162, interactionist-dualism.md lines 245-253
 - **Problem**: The articles present agent causation (substances causing events) as an alternative to event causation (events causing events). But agent causation is philosophically controversial—many philosophers deny it's coherent or distinct from event causation. The articles cite Lowe and Chisholm but don't defend agent causation against standard objections: What triggers the agent to act? If something triggers it, that's event causation. If nothing triggers it, agent causation is random. The framework is presented as if uncontroversial.
 - **Severity**: Low

@@ -27,7 +27,7 @@ topics: []
 
 ### 1. Retrocausality Mechanism Under-Specified (Medium-High)
 
-**Location**: `topics/free-will.md`, `concepts/retrocausality.md`
+**Location**: [topics/free-will.md](/topics/free-will/), [concepts/retrocausality.md](/concepts/retrocausality/)
 
 **Issue**: The free will article leans heavily on retrocausality to resolve the Libet timing problem, but the mechanism remains vague. The claim is that consciousness operates "atemporally" at the quantum level, selecting which temporal sequence becomes real. But what does "atemporal selection" actually mean?
 
@@ -44,7 +44,7 @@ topics: []
 
 ### 2. Functionalism Not Given Strongest Version (Medium)
 
-**Location**: `topics/ai-consciousness.md`
+**Location**: [topics/ai-consciousness.md](/topics/ai-consciousness/)
 
 **Issue**: The AI consciousness article critiques functionalism primarily through the Chinese Room argument. But sophisticated functionalists have responses, and the article doesn't engage with the strongest versions of functionalism.
 
@@ -79,7 +79,7 @@ The articles sometimes slip between these meanings. When the meaning-of-life art
 
 ### 4. Combination Problem Dismissed Too Quickly (Medium)
 
-**Location**: `concepts/panpsychism.md`
+**Location**: [concepts/panpsychism.md](/concepts/panpsychism/)
 
 **Issue**: The panpsychism article claims interactionist dualism "avoids the combination problem" because "matter doesn't have micro-experiences." But this might trade one problem for another.
 
@@ -95,7 +95,7 @@ If consciousness is a distinct substance that interacts with matter, where does 
 
 ### 5. No Many Worlds Rejection Under-Argued (Low-Medium)
 
-**Location**: `tenets.md`, `topics/meaning-of-life.md`
+**Location**: `tenets.md`, [topics/meaning-of-life.md](/topics/meaning-of-life/)
 
 **Issue**: The No Many Worlds tenet is justified primarily by saying it creates "unanswerable indexical questions." But MWI proponents have responses (self-locating uncertainty, decision-theoretic approaches). The rejection might be premature.
 

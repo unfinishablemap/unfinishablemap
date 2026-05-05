@@ -60,7 +60,7 @@ topics: []
 
 ## Remaining Items
 
-- **Parallel concession in `concepts/born-rule-and-the-consciousness-interface.md`**: The prior refinement log (2026-04-23 11:06) flagged this as a downstream inconsistency. Still outstanding. A future refine-draft task should apply the same conditionality framing (postulate-intact vs postulate-breaking regimes) and consider adding a parallel trumping-alternative note.
+- **Parallel concession in [concepts/born-rule-and-the-consciousness-interface.md](/topics/born-rule-and-the-consciousness-interface/)**: The prior refinement log (2026-04-23 11:06) flagged this as a downstream inconsistency. Still outstanding. A future refine-draft task should apply the same conditionality framing (postulate-intact vs postulate-breaking regimes) and consider adding a parallel trumping-alternative note.
 - **AI REFINEMENT LOG block at the end of the source file**: Left in place per the log's own "remove after human review" instruction; it should be cleaned up when a human reviews.
 
 ## Stability Notes

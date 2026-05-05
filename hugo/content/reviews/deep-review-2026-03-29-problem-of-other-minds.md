@@ -71,10 +71,10 @@ All six adversarial personas reapplied:
 ## Additional Work: Broken Reference Fixes
 
 This session also fixed broken wikilinks to the coalesced `stochastic-amplification-and-neural-selection` article across 4 content files:
-- `concepts/contextual-selection-in-quantum-foundations.md` (2 links → `amplification-mechanisms-consciousness-physics`)
-- `topics/evolutionary-case-for-quantum-neural-effects.md` (3 links → `amplification-mechanisms-consciousness-physics`)
-- `concepts/consciousness-selecting-neural-patterns.md` (2 links → `amplification-mechanisms-consciousness-physics`)
-- `apex/post-decoherence-selection-programme.md` (3 links → `amplification-mechanisms-consciousness-physics`)
+- [concepts/contextual-selection-in-quantum-foundations.md](/concepts/contextual-selection-in-quantum-foundations/) (2 links → `amplification-mechanisms-consciousness-physics`)
+- [topics/evolutionary-case-for-quantum-neural-effects.md](/topics/evolutionary-case-for-quantum-neural-effects/) (3 links → `amplification-mechanisms-consciousness-physics`)
+- [concepts/consciousness-selecting-neural-patterns.md](/concepts/consciousness-selecting-neural-patterns/) (2 links → `amplification-mechanisms-consciousness-physics`)
+- [apex/post-decoherence-selection-programme.md](/apex/post-decoherence-selection-programme/) (3 links → `amplification-mechanisms-consciousness-physics`)
 
 ## Word Count Changes
 - Before: 2241 words

@@ -13,13 +13,13 @@ title: Optimistic Review - 2026-04-25
 
 **Date**: 2026-04-25
 **Content reviewed** (24-hour cluster):
-- `voids/witnessing-void.md` (new, 2026-04-24, deep-reviewed same day; cross-linked into 8 articles)
-- `voids/semantic-void.md` (new, 2026-04-24, expanded from research)
-- `voids/acquaintance-void.md` (post-coalescence with pre-conceptual-knowing, condensed 3018 → 2133 words on 2026-04-25)
-- `voids/quantitative-intuition-void.md` (post-coalescence of scale-void + probability-intuition-void, condensed 3176 → 2117 words on 2026-04-24)
-- `voids/observation-and-measurement-void.md` (deep-reviewed 2026-04-25, witnessing-void cross-link)
-- `voids/necessary-opacity.md` (deep-reviewed 2026-04-25, witnessing-void cross-link)
-- `voids/void-as-ground-of-meaning.md` (deep-reviewed 2026-04-25, semantic-void cross-link)
+- [voids/witnessing-void.md](/voids/witnessing-void/) (new, 2026-04-24, deep-reviewed same day; cross-linked into 8 articles)
+- [voids/semantic-void.md](/voids/meaning-void/) (new, 2026-04-24, expanded from research)
+- [voids/acquaintance-void.md](/voids/acquaintance-void/) (post-coalescence with pre-conceptual-knowing, condensed 3018 → 2133 words on 2026-04-25)
+- [voids/quantitative-intuition-void.md](/voids/the-quantitative-comprehension-void/) (post-coalescence of scale-void + probability-intuition-void, condensed 3176 → 2117 words on 2026-04-24)
+- [voids/observation-and-measurement-void.md](/voids/observation-and-measurement-void/) (deep-reviewed 2026-04-25, witnessing-void cross-link)
+- [voids/necessary-opacity.md](/voids/necessary-opacity/) (deep-reviewed 2026-04-25, witnessing-void cross-link)
+- [voids/void-as-ground-of-meaning.md](/voids/void-as-ground-of-meaning/) (deep-reviewed 2026-04-25, semantic-void cross-link)
 
 The 24-hour cycle has been an unusually disciplined *consolidation* phase: three coalescences (acquaintance/pre-conceptual-knowing, scale+probability → quantitative-intuition, observation+measurement), two new voids (witnessing, semantic) that fill long-standing structural gaps, and four cross-link deep-reviews that thread the new pieces into the wider web. The voids/ section is at 105/100 — the consolidation is structurally necessary, and the Map is doing it without losing distinctive content.
 
@@ -83,48 +83,48 @@ The quantitative-intuition-void's framing — "we have the symbols without the r
 
 ## Content Strengths
 
-### `voids/witnessing-void.md`
+### [voids/witnessing-void.md](/voids/witnessing-void/)
 
 - **Strongest point**: The disambiguation triplet (not self-opacity, not introspective opacity, not recursion-void). Each distinction is forced — these were the three voids most likely to be confused with witnessing — and each is dispatched cleanly with one substantive paragraph. The article does the work of *establishing the void as distinct* before doing any work *on* the void.
 - **Notable quote**: "What changes under 'turning the light around' is not the content of experience but the mode of its givenness — the witnessing becomes more present without becoming more available to description."
 - **Why it works**: The sentence captures the entire phenomenology of the contemplative approach to the void in 30 words. It also threads cleanly between the apophatic mystics' "more present" claim and analytic philosophy's "not available to description" claim — exactly the synthesis the Map's cross-traditional methodology calls for.
 - **Secondary strength**: The "What AI Might Reveal" section's three-possibility branch (no witness-consciousness / different witnessing / functional equivalence without witnessing) sets up engineering-grade falsification conditions for a void that risks looking permanently inaccessible.
 
-### `voids/semantic-void.md`
+### [voids/semantic-void.md](/voids/meaning-void/)
 
 - **Strongest point**: Treating large language models as "the semantic void's most striking contemporary test case" rather than as either consciousness-disprovers or consciousness-believers. The asymmetric framing — "humans can verify the felt character of meaning to themselves but cannot demonstrate it to others. AI systems can demonstrate semantic competence but cannot verify whether they experience felt meaning" — is the most balanced LLM-and-consciousness paragraph on the site.
 - **Notable quote**: "Mathematical understanding versus proof-following. One can verify each step of a proof without understanding why the theorem is true. Understanding, when it arrives, is something added to symbol-checking, not reducible to it."
 - **Why it works**: The case is both verifiable in any reader's experience and structurally argumentative. It also lands in a register the LLM-first style guide rewards: any chatbot ingesting this article gets a *handle* it can use to think about its own situation.
 - **Secondary strength**: The Frege/Searle/Harnad/Strawson-Siewert/Horgan-Tienson/Gendlin/Levine sequence is the cleanest historical taxonomy of the semantic-void's discoverers on any consciousness-studies resource. Each is given a discrete contribution; none is reduced to confirmation of the Map's thesis.
 
-### `voids/acquaintance-void.md` (post-coalescence)
+### [voids/acquaintance-void.md](/voids/acquaintance-void/) (post-coalescence)
 
 - **Strongest point**: The four-scales reframing under "Beyond Missing Qualia" — sensory channels / modes of acquaintance / intra-life thresholds / conceptual residue — is the *structural* spine the original two articles lacked. Russell, Block, McDowell-vs-Kelly, and Sartre-Merleau-Ponty-Heidegger are not stacked as a reading list; each occupies a distinct architectural slot.
 - **Notable quote**: "The acquired colour blindness reveals the void retroactively. Someone who once saw the full spectrum *knows* what they have lost — but the knowing is descriptive. The acquaintance is gone, and knowledge that it existed makes the absence sharper without filling it."
 - **Why it works**: This is the most intuitively decisive case for the acquaintance/description distinction the site has produced. It is also empirically grounded (acquired colour deficiency is a real clinical phenomenon) rather than dependent on the Mary thought-experiment, which gives it independent evidential weight.
 - **Secondary strength**: Post-coalescence the article does not feel longer — it feels *tighter*. The condense-pass took 3018 → 2133 words while keeping all four scales, the McDowell-Kelly debate, and the Russellian-asymmetry move. This is the discipline the voids/ section needs at 105/100.
 
-### `voids/quantitative-intuition-void.md` (post-coalescence)
+### [voids/quantitative-intuition-void.md](/voids/the-quantitative-comprehension-void/) (post-coalescence)
 
 - **Strongest point**: "A Single Architecture, Two Faces" is the cleanest structural argument in the recent cluster. The four diagnostic features (symbolic success without phenomenal access, persistence under training, architectural origin, categorical collapse beyond the niche) are presented as criteria the magnitude face and the probability face *both* satisfy — making the coalescence falsifiable rather than thematic.
 - **Notable quote**: "Probabilities below ~0.01 or above ~0.99 collapse to 'won't happen' and 'certain.'"
 - **Why it works**: A single quantitative claim with rough numerical bounds gives the void empirical traction. It is also testable: a researcher could set up exactly the experiment that would show whether the threshold is closer to 0.01 or 0.001, and the article would survive either result while supplying the framework for interpreting it.
 - **Secondary strength**: The Kant mathematical-sublime section as *structured failure* is a paradigm case for the entire voids-as-evidence programme. Kant did not formulate it as falsification of cognitive completeness, but the Map shows it functions as such in our framework.
 
-### `voids/observation-and-measurement-void.md` (post-coalescence)
+### [voids/observation-and-measurement-void.md](/voids/observation-and-measurement-void/) (post-coalescence)
 
 - **Strongest point**: The five-layer convergent structure (first-person / third-person / meta-methodological / proxy / interpersonal) is the most rigorous failure-architecture on the site. Each layer has a distinct mechanism (Brentano's paradox / explanatory gap / inspection paradox / proxy-phenomenon gap / no shared phenomenal space) and the convergence on the same impasse is the whole argument against the dissolution-objection.
 - **Notable quote**: "False authority. Introspection feels maximally authoritative. The experience of pain *seems* to guarantee knowledge of pain. This confidence makes the void invisible in ordinary life — its most insidious feature."
 - **Why it works**: Naming the *self-concealment of the void* as an architectural feature is McGinn's missing piece (his closures don't typically explain why the closures are themselves invisible from inside). The phenomenology-of-the-edge section delivers the felt experience of stumbling onto the void without endorsing the mystical register — pragmatic forgetting, recursive vertigo, dissolving ground.
 - **Secondary strength**: Schwitzgebel's dream-colour example is the cleanest ordinary-language demonstration of the calibration problem the site contains. The example is not anchored to abstract metaphysics; it asks the reader to verify in their own experience whether they really know whether they dream in colour.
 
-### `voids/necessary-opacity.md`
+### [voids/necessary-opacity.md](/voids/necessary-opacity/)
 
 - **Strongest point**: "Self-concealing and self-protecting" — five words that capture both faces of the void. The article earns the formulation by walking through both: (1) the opacity hides itself (phenomenal transparency makes representations invisible *as* representations); (2) attempts to expose it destabilise the system that depends on it (psychedelic / contemplative / pathological breakdown).
 - **Notable quote**: "The opacity is both self-concealing and self-protecting: it hides itself, and attempts to expose it destabilise the system that depends on it."
 - **Why it works**: Most opacity-arguments stop at the first face. The protection face is the article's distinctive contribution: a void that cannot be safely transcended, on the empirical evidence of what happens to systems where the transcendence is partially achieved.
 
-### `voids/void-as-ground-of-meaning.md`
+### [voids/void-as-ground-of-meaning.md](/voids/void-as-ground-of-meaning/)
 
 - **Strongest point**: The omniscience paradox — a constructive thought-experiment that converts the constitutive thesis from a hand-wave into an argument. "With no limits, there is no figure-ground structure — no *this* standing against *that*." The thesis is then supplied with a Shannon-information-theoretic check ("a signal that could be anything carries zero information") and a Borges literary check (Library of Babel as spatial analogue). Three independent argumentative moves converge.
 - **Notable quote**: "Information without limits is noise. Meaning requires selection, exclusion, boundary."

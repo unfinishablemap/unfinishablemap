@@ -21,12 +21,12 @@ topics: []
 
 **Date**: 2026-01-13
 **Content reviewed**: Articles created since 2026-01-08 pessimistic review
-- `concepts/epiphenomenalism.md`
-- `concepts/quantum-consciousness.md`
-- `concepts/functionalism.md`
-- `topics/eastern-philosophy-consciousness.md`
-- `voids/apophatic-approaches.md`
-- `topics/purpose-and-alignment.md` (draft)
+- [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/)
+- [concepts/quantum-consciousness.md](/concepts/quantum-consciousness/)
+- [concepts/functionalism.md](/concepts/functionalism/)
+- [topics/eastern-philosophy-consciousness.md](/topics/eastern-philosophy-consciousness/)
+- [voids/apophatic-approaches.md](/concepts/apophatic-approaches/)
+- [topics/purpose-and-alignment.md](/topics/purpose-and-alignment/) (draft)
 
 ## Executive Summary
 
@@ -63,28 +63,28 @@ The new content shows strong engagement with philosophical counterpositions and 
 ## Critical Issues
 
 ### Issue 1: Quantum Evidence Overstated
-- **File**: `concepts/quantum-consciousness.md`
+- **File**: [concepts/quantum-consciousness.md](/concepts/quantum-consciousness/)
 - **Location**: "Evidence and Controversy" section
 - **Problem**: The article cites "2024-2025 research" suggesting macroscopic quantum entanglement correlated with conscious states. This is based on limited studies with contested methodology. Stating it as supporting evidence without acknowledging controversy is misleading.
 - **Severity**: Medium
 - **Recommendation**: Add explicit qualification: "These findings remain controversial and have not been independently replicated. The debate is ongoing." Also distinguish between different types of quantum effects—room-temperature superradiance is not the same as microtubule coherence.
 
 ### Issue 2: Purpose-Consciousness Link Underdeveloped
-- **File**: `topics/purpose-and-alignment.md`
+- **File**: [topics/purpose-and-alignment.md](/topics/purpose-and-alignment/)
 - **Location**: "What Consciousness Adds" section
 - **Problem**: The central claim—that consciousness is where purpose "resides" and that preference-learning AI cannot access it—is asserted rather than argued. Why would consciousness be where purpose resides? This needs more than the observation that two functionally identical beings might have different conscious lives.
 - **Severity**: Medium
 - **Recommendation**: Develop the argument: perhaps through connection to qualia (the felt quality of flourishing matters), or through the self-stultification argument (if consciousness didn't matter causally, we couldn't know our own purposes), or through the intrinsic value of experience. The claim is interesting but currently underdeveloped.
 
 ### Issue 3: Buddhist Accommodation May Undermine Dualism
-- **File**: `topics/eastern-philosophy-consciousness.md`
+- **File**: [topics/eastern-philosophy-consciousness.md](/topics/eastern-philosophy-consciousness/)
 - **Location**: "Points of Tension - No Permanent Self" section
 - **Problem**: The article suggests dualism could be compatible with Buddhist impermanence by switching to property dualism rather than substance dualism. But this may concede too much. If there's no permanent subject of experience, what exactly is irreducible about consciousness? the Map's other articles assume there's a "you" that persists and matters. Buddhist anattā undermines this.
 - **Severity**: Medium
 - **Recommendation**: Either strengthen the case for substance dualism (there *is* a permanent experiencer even if Buddhism denies it) or acknowledge this as genuine tension the Map hasn't resolved. The current formulation tries to have it both ways.
 
 ### Issue 4: Dennett's Response to Zombies Not Engaged
-- **File**: `concepts/functionalism.md`
+- **File**: [concepts/functionalism.md](/concepts/functionalism/)
 - **Location**: "The Absent Qualia Objection" section
 - **Problem**: The article mentions functionalist responses to zombies but doesn't engage with Dennett's specific argument that zombies are not genuinely conceivable. Dennett argues we only think we can imagine zombies because we don't understand consciousness; once we do, zombie scenarios will seem as confused as they are.
 - **Severity**: Low-Medium

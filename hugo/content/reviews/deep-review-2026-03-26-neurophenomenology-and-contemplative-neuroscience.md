@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-This is the first review of the coalesced article, which merged `concepts/neurophenomenology.md` and `concepts/contemplative-neuroscience.md` into a single unified piece. The review also served as the vehicle for updating ~51 active content files whose wikilinks still pointed to the old separate articles.
+This is the first review of the coalesced article, which merged [concepts/neurophenomenology.md](/concepts/neurophenomenology-and-contemplative-neuroscience/) and [concepts/contemplative-neuroscience.md](/concepts/neurophenomenology-and-contemplative-neuroscience/) into a single unified piece. The review also served as the vehicle for updating ~51 active content files whose wikilinks still pointed to the old separate articles.
 
 ## Pessimistic Analysis Summary
 

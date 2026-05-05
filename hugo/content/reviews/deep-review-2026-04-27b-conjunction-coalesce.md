@@ -29,7 +29,7 @@ topics: []
 - [2026-04-27 18:42 — first deep-review (broken-link fix)](/reviews/deep-review-2026-04-27-conjunction-coalesce/)
 - [2026-04-27 20:50 — pessimistic review (8 issues raised)](/reviews/pessimistic-2026-04-27e/)
 
-**Cross-review context**: This review was commissioned with the explicit instruction to cross-review against `apex/taxonomy-of-voids.md`, `apex/apex-articles.md`, and other methodological apex articles. The cross-review angle activates one of the pessimistic review's most substantive findings (Issue 7: apex category drift), so this deep review consolidates the cross-review with engagement of the pessimistic findings rather than treating them as separate workstreams.
+**Cross-review context**: This review was commissioned with the explicit instruction to cross-review against [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/), [apex/apex-articles.md](/apex/apex-articles/), and other methodological apex articles. The cross-review angle activates one of the pessimistic review's most substantive findings (Issue 7: apex category drift), so this deep review consolidates the cross-review with engagement of the pessimistic findings rather than treating them as separate workstreams.
 
 ## Stance Toward Previous Reviews
 

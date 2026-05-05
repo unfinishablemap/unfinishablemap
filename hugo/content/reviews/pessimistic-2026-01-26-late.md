@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-26
 **Content reviewed**:
-- `topics/psychophysical-laws-framework.md`
-- `topics/vertiginous-question.md`
-- `concepts/specious-present.md`
+- [topics/psychophysical-laws-framework.md](/topics/psychophysical-laws-bridging-mind-and-matter/)
+- [topics/vertiginous-question.md](/topics/vertiginous-question/)
+- [concepts/specious-present.md](/concepts/temporal-consciousness/)
 
 ## Executive Summary
 
@@ -116,7 +116,7 @@ You're seeking laws for entities that don't exist as the framework imagines them
 
 ### Issue 1: The Psychophysical Laws Framework Conflates Programmatic Hope with Scientific Status
 
-- **File**: `topics/psychophysical-laws-framework.md`
+- **File**: [topics/psychophysical-laws-framework.md](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - **Location**: Lines 149-161 (The Specification Problem section)
 - **Problem**: The article acknowledges that no "elegant formula captures how mind and matter relate" and that we lack any "compact systematization of psychophysical correlations." It then offers three responses: scientific immaturity, cognitive closure, and piecemeal progress.
 
@@ -128,7 +128,7 @@ The "scientific immaturity" response is particularly problematic. Physics achiev
 
 ### Issue 2: The Vertiginous Question's Unanswerable-ness Is Treated as Evidence Rather Than Diagnosis
 
-- **File**: `topics/vertiginous-question.md`
+- **File**: [topics/vertiginous-question.md](/topics/vertiginous-question/)
 - **Location**: Lines 40-51 (Why the Question Seems Unanswerable section)
 - **Problem**: The article presents three attempted answers (biological, psychological, deflationary), dismisses each, and concludes: "The vertiginous question reveals that first-person indexicality... may be irreducible."
 
@@ -142,7 +142,7 @@ The treatment assumes that if a question *seems* meaningful, it must point to so
 
 ### Issue 3: The Specious Present's Quantum Connection Relies on Unverified Coherence Estimates
 
-- **File**: `concepts/specious-present.md`
+- **File**: [concepts/specious-present.md](/concepts/temporal-consciousness/)
 - **Location**: Lines 81-88 (Connection to Quantum Consciousness section)
 - **Problem**: The article claims: "Revised microtubule coherence estimates (10-100 microseconds—seven orders of magnitude longer than Tegmark's) multiplied by multiple collapse events could produce the ~100-750ms specious present."
 
@@ -160,7 +160,7 @@ This is motte-and-bailey reasoning: defend the specific coherence claims (bailey
 
 ### Issue 4: The "Selection Laws" Concept Conflates Different Kinds of Influence
 
-- **File**: `topics/psychophysical-laws-framework.md`
+- **File**: [topics/psychophysical-laws-framework.md](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - **Location**: Lines 54-68 (Selection Laws section)
 - **Problem**: The article defines selection laws as specifying "how conscious states influence which physical outcomes become actual." It then lists what such laws must specify: variables on mental and physical sides, bandwidth constraints, scope constraints.
 
@@ -178,7 +178,7 @@ The impression is that "selection laws" is a placeholder concept—a label for "
 
 ### Issue 5: Haecceity Is Assumed Throughout Rather Than Argued For
 
-- **File**: `topics/vertiginous-question.md`
+- **File**: [topics/vertiginous-question.md](/topics/vertiginous-question/)
 - **Location**: Lines 52-60 (Connection to Haecceity section)
 - **Problem**: The article presents haecceity as providing "the metaphysical framework for taking the vertiginous question seriously." It states: "If haecceitism is true, two conscious beings could share all qualitative properties... yet differ in haecceity."
 
@@ -192,7 +192,7 @@ The appeal to physics ("If physics relies on haecceity for particles") in line 1
 
 ### Issue 6: The Illusionist Challenge Is Handled Inconsistently
 
-- **File**: `concepts/specious-present.md`
+- **File**: [concepts/specious-present.md](/concepts/temporal-consciousness/)
 - **Location**: Lines 98-106 (The Illusionist Challenge section)
 - **Problem**: The article presents three responses to illusionism:
 

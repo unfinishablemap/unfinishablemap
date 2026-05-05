@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-16c
 # Pessimistic Review
 
 **Date**: 2026-04-16
-**Content reviewed**: `concepts/neural-correlates-of-consciousness.md`, `concepts/philosophical-zombies.md`, `topics/animal-consciousness.md`
+**Content reviewed**: [concepts/neural-correlates-of-consciousness.md](/concepts/neural-correlates-of-consciousness/), [concepts/philosophical-zombies.md](/concepts/philosophical-zombies/), [topics/animal-consciousness.md](/topics/animal-consciousness/)
 
 ## Executive Summary
 

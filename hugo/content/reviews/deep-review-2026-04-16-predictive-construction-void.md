@@ -72,16 +72,16 @@ None. Attribution check passed:
 
 Primary focus of this review. Added inbound links from ten articles:
 
-1. `voids/voids.md` — Added to "Specific Voids" list on the voids index page
-2. `concepts/predictive-processing.md` — Added to Further Reading (Site Content section)
-3. `topics/predictive-processing-and-dualism.md` — Added to Further Reading list with substantive description referencing Markov blanket
-4. `topics/dualist-perception.md` — Added to Further Reading list near `predictive-processing-and-dualism`
-5. `concepts/perception.md` — Added to Further Reading list near `predictive-processing`
-6. `voids/obviousness-void.md` — Added with description connecting the two voids' mechanisms (successful prediction manufactures the feeling of self-evidence)
-7. `voids/self-opacity.md` — Added to Further Reading list
-8. `voids/necessary-opacity.md` — Added to Further Reading list
-9. `voids/simulation-detection-void.md` — Added with description connecting the inside-observer problem
-10. `voids/framework-void.md` — Added with description connecting perception-as-framework
+1. [voids/voids.md](/voids/) — Added to "Specific Voids" list on the voids index page
+2. [concepts/predictive-processing.md](/concepts/predictive-processing/) — Added to Further Reading (Site Content section)
+3. [topics/predictive-processing-and-dualism.md](/topics/predictive-processing-and-dualism/) — Added to Further Reading list with substantive description referencing Markov blanket
+4. [topics/dualist-perception.md](/topics/dualist-perception/) — Added to Further Reading list near `predictive-processing-and-dualism`
+5. [concepts/perception.md](/concepts/perception/) — Added to Further Reading list near `predictive-processing`
+6. [voids/obviousness-void.md](/voids/understanding-void/) — Added with description connecting the two voids' mechanisms (successful prediction manufactures the feeling of self-evidence)
+7. [voids/self-opacity.md](/voids/self-opacity/) — Added to Further Reading list
+8. [voids/necessary-opacity.md](/voids/necessary-opacity/) — Added to Further Reading list
+9. [voids/simulation-detection-void.md](/voids/simulation-detection-void/) — Added with description connecting the inside-observer problem
+10. [voids/framework-void.md](/voids/conceptual-scheme-void/) — Added with description connecting perception-as-framework
 
 ## Remaining Items
 

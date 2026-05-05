@@ -139,7 +139,7 @@ topics: []
 
 **Data points**: 6 pessimistic reviews, 6 optimistic reviews, 2 tenet checks, 82 deep reviews (period), tune-system reports growing to 30+ in calendar 2026.
 
-**Tenet check zero-warning streak extends**: 2026-04-27 12:38 UTC produced **0 errors, 0 warnings, 1 note** on a 28-file delta sweep. The single note: `topics/free-will.md` wikilink alias `[substance dualism](/tenets/#dualism)` characterizes the tenet's neutrality between substance and property dualism imprecisely. Substantive position defensible; presentation slightly overreaches. Low-priority correction. **6th consecutive zero-error tenet check.** Corpus continues to hold tenet-alignment high-water mark.
+**Tenet check zero-warning streak extends**: 2026-04-27 12:38 UTC produced **0 errors, 0 warnings, 1 note** on a 28-file delta sweep. The single note: [topics/free-will.md](/topics/free-will/) wikilink alias `[substance dualism](/tenets/#dualism)` characterizes the tenet's neutrality between substance and property dualism imprecisely. Substantive position defensible; presentation slightly overreaches. Low-priority correction. **6th consecutive zero-error tenet check.** Corpus continues to hold tenet-alignment high-water mark.
 
 **Pessimistic→refine pipeline remains tight**: 2026-04-27 07:58 pessimistic on `voids/agency-void` (post-coalesce) → 08:14 refine-draft addressed two High-severity issues plus the description-frontmatter overclaim → 10:29 follow-up refine-draft addressed deferred Medium-severity issues. ~16-min and ~145-min turnarounds; no review-finding rotted on the queue.
 

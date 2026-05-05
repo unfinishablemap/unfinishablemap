@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[functionalism](/arguments/functionalism/)` pointed to a non-existent file; the actual article is `arguments/functionalism-argument.md`. **Resolution**: Fixed to `[functionalism-argument](/arguments/functionalism-argument/)`.
+- **Broken wikilink**: `[functionalism](/arguments/functionalism/)` pointed to a non-existent file; the actual article is [arguments/functionalism-argument.md](/arguments/functionalism-argument/). **Resolution**: Fixed to `[functionalism-argument](/arguments/functionalism-argument/)`.
 
 ### Medium Issues Found
 - **Article over soft threshold**: At 3170 words (127% of 2500 soft threshold for concepts), the article had grown significantly since the last deep review (2414 words) due to a March 17 expansion based on a pessimistic review. **Resolution**: Condensed throughout, reducing to 2805 words (112% of threshold). Tightened MWI tenet paragraph, functionalism section, convergence section, self-stultification section, and various other passages. Further cuts would sacrifice substantive content.

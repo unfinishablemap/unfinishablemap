@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-None. Attribution accuracy was checked thoroughly against the research notes (`research/hutto-myin-hard-problem-of-content-2026-04-27.md`):
+None. Attribution accuracy was checked thoroughly against the research notes ([research/hutto-myin-hard-problem-of-content-2026-04-27.md](/research/hutto-myin-hard-problem-of-content-2026-04-27/)):
 
 - "Covariance does not constitute content" — exact quote present in source.
 - The longer Hutto-Myin quote about "informational content does not exist in nature" — accurate.
@@ -39,7 +39,7 @@ No source/Map conflation found. Map interpretations are clearly framed as Map po
 
 ### Medium Issues Found
 
-- **Dennettian "intentional stance" reply not engaged**: A major naturalist response to HPC-style arguments — that content is a useful interpretive pattern rather than a metaphysical kind — was missing from the Honest Limitations section. Resolution: Added a fourth limitation paragraph engaging this objection and pointing readers to the deeper engagement in `concepts/intentionality.md` (which already addresses Dennett's intentional stance directly under "The Eliminativist Challenge").
+- **Dennettian "intentional stance" reply not engaged**: A major naturalist response to HPC-style arguments — that content is a useful interpretive pattern rather than a metaphysical kind — was missing from the Honest Limitations section. Resolution: Added a fourth limitation paragraph engaging this objection and pointing readers to the deeper engagement in [concepts/intentionality.md](/concepts/intentionality/) (which already addresses Dennett's intentional stance directly under "The Eliminativist Challenge").
 - **Description over length budget (190 chars vs. 150-160 target)**: Tightened to 151 chars while preserving the human-AI collaboration framing.
 
 ### Counterarguments Considered

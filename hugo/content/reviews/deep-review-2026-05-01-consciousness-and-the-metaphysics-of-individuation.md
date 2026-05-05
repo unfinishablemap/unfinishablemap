@@ -26,7 +26,7 @@ topics: []
 - None. Article remains structurally sound. No regressions from the post-coalesce wikilink retargeting commits since the last review.
 
 ### Medium Issues Found
-- **Nagel quote elision marks missing**: The article rendered Nagel's split-brain quote as "too much unity to say 'two', yet too much separation to say 'one'." Cross-checked against the longer form preserved in `topics/split-brain-consciousness.md` and the source research note: Nagel's actual sentence is "too much unity ... to say 'two', yet too much separation in the specially contrived laboratory situations to say 'one'." The Map's condensation drops phrases without ellipses, mildly misrepresenting it as a direct quote. Fixed by adding ellipses and softening "called" to "characterised as" to flag the condensation.
+- **Nagel quote elision marks missing**: The article rendered Nagel's split-brain quote as "too much unity to say 'two', yet too much separation to say 'one'." Cross-checked against the longer form preserved in [topics/split-brain-consciousness.md](/topics/split-brain-consciousness/) and the source research note: Nagel's actual sentence is "too much unity ... to say 'two', yet too much separation in the specially contrived laboratory situations to say 'one'." The Map's condensation drops phrases without ellipses, mildly misrepresenting it as a direct quote. Fixed by adding ellipses and softening "called" to "characterised as" to flag the condensation.
 
 ### Low Issues Found
 - **Missing inline link to panpsychisms-combination-problem topic**: The combination-problem section linked only to the concept page. A topic-level treatment now exists. Fixed by adding a parenthetical inline pointer and a Further Reading entry.

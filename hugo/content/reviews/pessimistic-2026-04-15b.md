@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-15b
 # Pessimistic Review
 
 **Date**: 2026-04-15
-**Content reviewed**: `topics/cognitive-science-of-dualism.md`, `concepts/biological-computationalism.md`, `topics/testing-consciousness-collapse.md`
+**Content reviewed**: [topics/cognitive-science-of-dualism.md](/topics/cognitive-science-of-dualism/), [concepts/biological-computationalism.md](/concepts/biological-computationalism/), [topics/testing-consciousness-collapse.md](/topics/testing-consciousness-collapse/)
 
 ## Executive Summary
 

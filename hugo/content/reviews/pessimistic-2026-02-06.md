@@ -13,9 +13,9 @@ title: Pessimistic Review - 2026-02-06
 
 **Date**: 2026-02-06
 **Content reviewed**:
-- `topics/psychophysical-coupling-law-mechanisms.md`
-- `topics/cognitive-science-of-dualism.md`
-- `topics/attention-consciousness-dissociation.md`
+- [topics/psychophysical-coupling-law-mechanisms.md](/topics/psychophysical-laws-bridging-mind-and-matter/)
+- [topics/cognitive-science-of-dualism.md](/topics/cognitive-science-of-dualism/)
+- [topics/attention-consciousness-dissociation.md](/topics/attention-and-the-consciousness-interface/)
 
 ## Executive Summary
 
@@ -72,35 +72,35 @@ The article acknowledges that valence-as-motivational-force, qualia-as-basis-sel
 ## Critical Issues
 
 ### Issue 1: Unfalsifiable Retreat in Stapp's Model
-- **File**: `topics/psychophysical-coupling-law-mechanisms.md`
+- **File**: [topics/psychophysical-coupling-law-mechanisms.md](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - **Location**: "Possible responses" paragraph under the decoherence objection (line 77)
 - **Problem**: When the Zeno mechanism fails due to decoherence timescales, the article retreats to "consciousness biases which possible outcome becomes actual after decoherence." This revised mechanism has no testable predictions distinct from ordinary stochastic neural processes. The retreat strips the model of its empirical content while maintaining the dualist conclusion.
 - **Severity**: High
 - **Recommendation**: Explicitly acknowledge that this retreat reduces the mechanism's falsifiability. State what empirical finding would distinguish "consciousness selects among post-decoherence alternatives" from "neural processes are stochastic."
 
 ### Issue 2: Double Dissociation Misinterpreted as Evidence for Non-Physical Entity
-- **File**: `topics/attention-consciousness-dissociation.md`
+- **File**: [topics/attention-consciousness-dissociation.md](/topics/attention-and-the-consciousness-interface/)
 - **Location**: "What Dissociation Reveals" section (lines 84-99)
 - **Problem**: Double dissociations between attention and consciousness are presented as evidence that consciousness is "something over and above" attentional mechanisms—i.e., non-physical. But double dissociation is the standard method cognitive neuroscience uses to identify *distinct physical processes*. Perception and action dissociate (optic ataxia vs visual agnosia) without anyone concluding that perception is non-physical. The article treats dissociation as dualism-supporting without addressing why it couldn't simply indicate distinct neural circuits.
 - **Severity**: High
 - **Recommendation**: Add a section explicitly addressing the physicalist interpretation of double dissociation. Argue why consciousness-attention dissociation is different from other double dissociations if possible, or acknowledge the interpretive ambiguity.
 
 ### Issue 3: The Radio-Wave Analogy Is Misleading
-- **File**: `topics/cognitive-science-of-dualism.md`
+- **File**: [topics/cognitive-science-of-dualism.md](/topics/cognitive-science-of-dualism/)
 - **Location**: Paragraph on methodological assumption (line 41)
 - **Problem**: The article compares cognitive science's failure to detect non-physical causation to a thermometer failing to detect radio waves. But radio waves were predicted by electromagnetic theory—there was independent theoretical reason to expect them. No well-confirmed physical theory predicts non-physical mental causation. The analogy obscures this crucial disanalogy: radio waves were part of an established theoretical framework, while non-physical causation is postulated to fill an explanatory gap.
 - **Severity**: Medium
 - **Recommendation**: Acknowledge the disanalogy explicitly. The logical point (absence of evidence ≠ evidence of absence) is valid, but the analogy overstates the case by implying that non-physical causation is as theoretically motivated as radio waves were.
 
 ### Issue 4: Selective Use of Empirical Evidence
-- **File**: `topics/psychophysical-coupling-law-mechanisms.md`
+- **File**: [topics/psychophysical-coupling-law-mechanisms.md](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - **Location**: Lines 114-115 (Kerskens & Pérez, Wiest et al.)
 - **Problem**: The article cites the Kerskens and Pérez (2022) MRI study and the Wiest et al. (2024) microtubule study as evidence for quantum effects in the brain. It notes they "require independent replication" but presents them alongside established results without sufficiently flagging their preliminary status. Both are single studies, neither replicated, and Kerskens & Pérez has been questioned methodologically.
 - **Severity**: Medium
 - **Recommendation**: Strengthen the epistemic hedging. Differentiate more clearly between "established experimental results" (quantum Zeno effect in physics) and "single unreplicated studies" (brain entanglement, microtubule effects on anaesthesia).
 
 ### Issue 5: Genetic Fallacy Argument Cuts Too Deep
-- **File**: `topics/cognitive-science-of-dualism.md`
+- **File**: [topics/cognitive-science-of-dualism.md](/topics/cognitive-science-of-dualism/)
 - **Location**: "The Genetic Fallacy in Both Directions" section (lines 72-78)
 - **Problem**: The article correctly identifies the genetic fallacy in using cognitive origins to debunk dualism. But it then argues the same fallacy applies to intuitive materialism, concluding that "Evolution selects for behaviourally useful heuristics, not metaphysical truth." This is too strong—if applied consistently, it undermines *all* evolved cognitive capacities, including the reasoning capacity being used to make this very argument. The article needs to explain why philosophical reasoning can escape the evolutionary debunking it applies to intuitions.
 - **Severity**: Medium

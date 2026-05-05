@@ -61,7 +61,7 @@ topics: []
 
 ## Remaining Items
 
-- **Parallel conditionality concession in `concepts/born-rule-and-the-consciousness-interface.md`**: Carried forward from prior reviews. Still outstanding. A future refine-draft task should apply the same conditionality framing (postulate-intact vs postulate-breaking regimes) to the concept page and may wish to apply a parallel Born-modifying flag to its discussion of Chalmers-McQueen.
+- **Parallel conditionality concession in [concepts/born-rule-and-the-consciousness-interface.md](/topics/born-rule-and-the-consciousness-interface/)**: Carried forward from prior reviews. Still outstanding. A future refine-draft task should apply the same conditionality framing (postulate-intact vs postulate-breaking regimes) to the concept page and may wish to apply a parallel Born-modifying flag to its discussion of Chalmers-McQueen.
 - **AI REFINEMENT LOG block (lines 193-213)**: Left in place per the log's own "remove after human review" instruction; it should be cleaned up when a human reviews.
 - **Diósi-Penrose empirical status not noted**: The research notes indicate Diósi-Penrose (simplest form) is ruled out by germanium detector data and that CSL parameter space is squeezed by LISA Pathfinder. The article names Penrose-Hameroff as an outside-corridor candidate without flagging the parameter squeeze. Low priority — adding this would over-specify a point the article only mentions in passing.
 

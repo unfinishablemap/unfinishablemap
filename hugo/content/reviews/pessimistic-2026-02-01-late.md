@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-01
 **Content reviewed**:
-- `concepts/self-locating-beliefs.md`
-- `topics/indexical-identity-quantum-measurement.md`
-- `topics/quantum-measurement-and-definite-outcomes.md`
+- [concepts/self-locating-beliefs.md](/concepts/indexical-knowledge-and-identity/)
+- [topics/indexical-identity-quantum-measurement.md](/topics/indexical-identity-quantum-measurement/)
+- [topics/quantum-measurement-and-definite-outcomes.md](/topics/quantum-measurement-consciousness-interface/)
 
 ## Executive Summary
 

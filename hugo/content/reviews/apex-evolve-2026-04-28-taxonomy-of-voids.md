@@ -13,7 +13,7 @@ title: 'Apex-Evolve Review: Taxonomy of Voids (function-phenomenology resolution
 
 # Apex-Evolve Review — A Taxonomy of Voids
 
-**Article**: `apex/taxonomy-of-voids.md`
+**Article**: [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/)
 **Mode**: Targeted evolution to resolve a deferred taxonomic question
 **Trigger**: Deferred work flagged in the 2026-04-28 09:59 UTC refine-draft apex log
 

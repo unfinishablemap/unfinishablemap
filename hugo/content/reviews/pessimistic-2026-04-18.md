@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-18
 # Pessimistic Review
 
 **Date**: 2026-04-18
-**Content reviewed**: `topics/phenomenology-of-intellectual-life.md`, `topics/psychedelics-and-the-filter-model.md`, `topics/william-james-consciousness.md`
+**Content reviewed**: [topics/phenomenology-of-intellectual-life.md](/topics/phenomenology-of-intellectual-life/), [topics/psychedelics-and-the-filter-model.md](/topics/psychedelics-and-the-filter-model/), [topics/william-james-consciousness.md](/topics/william-james-consciousness/)
 
 ## Executive Summary
 
@@ -85,63 +85,63 @@ The James article gets closest to this when it discusses Whitehead and process p
 ## Critical Issues
 
 ### Issue 1: Inflation from phenomenology to metaphysics
-- **File**: `topics/phenomenology-of-intellectual-life.md`
+- **File**: [topics/phenomenology-of-intellectual-life.md](/topics/phenomenology-of-intellectual-life/)
 - **Location**: "Against Reduction" section; Phenomenal Constitution Thesis
 - **Problem**: The PCT ("meaning is constitutively phenomenal — the experience of understanding constitutes rather than merely accompanies the cognitive achievement") is stated as a Map commitment but argued for only via inference to the best explanation against straw versions of illusionism and epiphenomenalism. No positive argument is given for why "constitutes" is preferable to the weaker and sufficient claim that phenomenology is reliably correlated with and co-varies with the achievement.
 - **Severity**: High
 - **Recommendation**: Either weaken to a correlational/co-variation claim, or add a section explicitly arguing why "constitution" carries explanatory advantages over "reliable correlation" — and confront the parsimony objection: constitution adds an ontological posit that correlation does not.
 
 ### Issue 2: "Meaningfulness" ratings as evidence for filter theory
-- **File**: `topics/psychedelics-and-the-filter-model.md`
+- **File**: [topics/psychedelics-and-the-filter-model.md](/topics/psychedelics-and-the-filter-model/)
 - **Location**: "Neuroimaging Paradox" section, Griffiths 2006 citation
 - **Problem**: "67% of participants rated the experience among their top five most meaningful experiences" is presented as evidence that production models face a puzzle. But subjective meaningfulness ratings are not a measure of richness of experience, let alone of consciousness. High meaningfulness correlates with emotional salience and narrative integration — things neurochemical intervention plausibly ramps up without filter-theoretic interpretation. The argument elides "intense/meaningful" with "expanded/rich".
 - **Severity**: High
 - **Recommendation**: Distinguish "richness of conscious content" from "emotional/narrative salience of content". Concede that production models can accommodate increased salience via neuromodulatory disinhibition, and narrow the filter-theoretic claim to what genuinely exceeds production: e.g., reported access to otherwise-inaccessible content, selective retrieval patterns, or structural features that disinhibition cannot predict.
 
 ### Issue 3: MWI argument is confused
-- **File**: `topics/phenomenology-of-intellectual-life.md`
+- **File**: [topics/phenomenology-of-intellectual-life.md](/topics/phenomenology-of-intellectual-life/)
 - **Location**: "Relation to Site Perspective" → No Many Worlds paragraph
 - **Problem**: The claim that MWI undermines rational authority because "branches exist where your copy draws invalid conclusions with equal subjective conviction" misunderstands branch-weighting. Branches with invalid reasoning have vanishingly low amplitude relative to branches with reliable inference machinery, so the rational authority of seeing-why is preserved by the same probabilistic reliability that physicalists already appeal to for inference.
 - **Severity**: Medium
 - **Recommendation**: Either drop the MWI connection (it adds nothing to the core PCT argument) or rewrite it to address the indexical/amplitude issue directly. The current version will be read as tendentious by anyone familiar with MWI.
 
 ### Issue 4: Unresolved tension in James between radical empiricism and filter theory
-- **File**: `topics/william-james-consciousness.md`
+- **File**: [topics/william-james-consciousness.md](/topics/william-james-consciousness/)
 - **Location**: "Neutral monism tensions" and "What James Got Wrong"
 - **Problem**: The article acknowledges the tension in one paragraph but does not address that this tension is potentially fatal. If pure experience is the only stuff, what is being filtered *through the brain*? The suggested reconciliation — "transmission concerns the organisation of experience into individual streams rather than its fundamental existence" — is asserted, not defended, and is in tension with James's own language of "reducing" and "permitting" (which suggests an independent source, not an organisational principle).
 - **Severity**: Medium
 - **Recommendation**: Expand this section. Either commit to the organisational reading and argue for it textually from James, or concede that this was an unresolved tension in James's thought and that the Map adopts the filter side while setting aside radical empiricism's stronger claims.
 
 ### Issue 5: Falsification criteria partially protected
-- **File**: `topics/phenomenology-of-intellectual-life.md`
+- **File**: [topics/phenomenology-of-intellectual-life.md](/topics/phenomenology-of-intellectual-life/)
 - **Location**: "What Would Challenge This View"
 - **Problem**: Three of six criteria are insulated by other Map commitments (see Popperian critique above). This makes the section look more falsifiable than it is.
 - **Severity**: Medium
 - **Recommendation**: For each criterion, acknowledge the escape hatch explicitly ("we would count this as challenging even though our other commitments might be used to deflect it") or drop criteria that are not genuinely at risk.
 
 ### Issue 6: Overstatement of Huxley-Bergson legacy
-- **File**: `topics/psychedelics-and-the-filter-model.md`
+- **File**: [topics/psychedelics-and-the-filter-model.md](/topics/psychedelics-and-the-filter-model/)
 - **Location**: "Huxley's Reducing Valve"
 - **Problem**: The claim that reducing-valve predictions are "precisely what neuroimaging confirms" conflates a metaphor with a testable prediction. The prediction "subjective intensity correlates with decreased activity in filtering regions" is underdetermined: DMN suppression correlates with both intensity and ego dissolution, but many production-model disinhibition accounts predict the same correlation. The evidence is compatible with the filter view; it does not select for it.
 - **Severity**: Medium
 - **Recommendation**: Soften "confirms" to "is consistent with" and add a paragraph distinguishing filter theory's unique predictions from disinhibition accounts. What would filter theory predict that disinhibition does not?
 
 ### Issue 7: The "minimal self persists" claim undermines its own target
-- **File**: `topics/psychedelics-and-the-filter-model.md`
+- **File**: [topics/psychedelics-and-the-filter-model.md](/topics/psychedelics-and-the-filter-model/)
 - **Location**: "Ego Dissolution and the Filtering Self"
 - **Problem**: The article leans heavily on Metzinger for the narrative/minimal-self distinction, but Metzinger is a self-model eliminativist. He does *not* hold that the minimal self is a substantive witness. Using his distinction to support a persisting witness reverses his position.
 - **Severity**: Medium
 - **Recommendation**: Cite Zahavi rather than Metzinger for the minimal-self-as-persistent claim, or acknowledge that Metzinger's own view differs and explain why you adopt a modified version.
 
 ### Issue 8: Pitt's "proprietary phenomenology" cited as settled
-- **File**: `topics/phenomenology-of-intellectual-life.md`
+- **File**: [topics/phenomenology-of-intellectual-life.md](/topics/phenomenology-of-intellectual-life/)
 - **Location**: "Against Reduction"
 - **Problem**: Pitt's 2004 argument that cognitive phenomenology is proprietary (distinct from sensory/imagery phenomenology) is highly contested. Prinz, Carruthers, and others have argued the alleged proprietary phenomenology reduces to sensory imagery plus functional role. The article presents Pitt as providing the crux evidence ("the ambiguity case", "the aphantasia case") without noting that each of these has deflationary responses in the literature.
 - **Severity**: Medium
 - **Recommendation**: Add one paragraph acknowledging the deflationary responses (especially on aphantasia: aphantasics still have inner speech, which the skeptic takes to be the relevant quasi-sensory vehicle). Explain why you find the proprietary reading more plausible given these counterarguments.
 
 ### Issue 9: Self-referential argument in Occam section is too quick
-- **File**: `topics/phenomenology-of-intellectual-life.md`
+- **File**: [topics/phenomenology-of-intellectual-life.md](/topics/phenomenology-of-intellectual-life/)
 - **Location**: Tenet 5 paragraph
 - **Problem**: "The parsimony is self-undermining: the argument for the parsimonious view must itself be reasoned to, and reasoning, on this view, has no phenomenal character." This is question-begging. The functionalist denies that reasoning requires phenomenal character for its normative force; she can accept that the argument *has* phenomenal character while denying that the character is constitutive. The self-stultification framing presupposes the constitution claim it is used to support.
 - **Severity**: Low-Medium

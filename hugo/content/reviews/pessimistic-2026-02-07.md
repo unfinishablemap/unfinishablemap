@@ -13,11 +13,11 @@ title: Pessimistic Review - 2026-02-07
 
 **Date**: 2026-02-07
 **Content reviewed**:
-- `topics/eastern-philosophy-consciousness.md`
-- `topics/dreams-problem-solving-and-consciousness.md`
-- `concepts/phenomenological-evidence.md`
-- `concepts/philosophy-of-mind.md`
-- `voids/nomic-void.md`
+- [topics/eastern-philosophy-consciousness.md](/topics/eastern-philosophy-consciousness/)
+- [topics/dreams-problem-solving-and-consciousness.md](/topics/dream-consciousness/)
+- [concepts/phenomenological-evidence.md](/concepts/phenomenological-evidence/)
+- [concepts/philosophy-of-mind.md](/concepts/philosophy-of-mind/)
+- [voids/nomic-void.md](/voids/nomic-void/)
 
 ## Executive Summary
 
@@ -66,35 +66,35 @@ The resolution offered ("conventional" doesn't mean "unreal") is correct as far 
 ## Critical Issues
 
 ### Issue 1: Dreams Article Overstates Evidence from Small-N Study
-- **File**: `topics/dreams-problem-solving-and-consciousness.md`
+- **File**: [topics/dreams-problem-solving-and-consciousness.md](/topics/dream-consciousness/)
 - **Location**: Opening paragraph and throughout
 - **Problem**: The Konkoly 2026 study had only 20 participants. The article calls it "the strongest causal evidence yet" and builds the entire piece around it. The 42% vs 17% solving rate is presented without confidence intervals or effect size measures. For a study this small, these numbers could reflect high variance rather than a robust effect. The article's confident causal language ("Dreams solve problems that defeat waking cognition") overstates what N=20 can establish.
 - **Severity**: High
 - **Recommendation**: Add sample size context explicitly. Note this is a promising initial finding requiring replication. Soften the opening claim to "may solve" or "appear to solve." Include any reported confidence intervals or note their absence.
 
 ### Issue 2: Phenomenological Evidence Article's Circularity
-- **File**: `concepts/phenomenological-evidence.md`
+- **File**: [concepts/phenomenological-evidence.md](/concepts/phenomenological-evidence/)
 - **Location**: "What Makes Phenomenological Evidence Reliable" section
 - **Problem**: The criteria for reliable phenomenological evidence (temporal stability, predictive power, structural coherence, independence from theory, resistance to suggestion) are themselves assessed using phenomenological methods. We validate first-person methods by checking that first-person reports converge—but convergence can reflect shared training, not shared reality. The article acknowledges this only via Thompson's aside, not as a structural problem with the entire evidential programme.
 - **Severity**: Medium
 - **Recommendation**: Add a subsection explicitly addressing the circularity objection: phenomenological evidence is validated by... more phenomenological evidence. Acknowledge that neurophenomenology's "mutual constraint" partially breaks this circle (neural correlates provide independent check) but note the circle isn't fully broken because neural correlate identification depends on knowing what phenomenal state to correlate *with*.
 
 ### Issue 3: Philosophy of Mind Article Underserves Physicalism
-- **File**: `concepts/philosophy-of-mind.md`
+- **File**: [concepts/philosophy-of-mind.md](/concepts/philosophy-of-mind/)
 - **Location**: "Physicalism" section (lines 60-67)
 - **Problem**: For a field overview article, the treatment of physicalism is thin. Eliminative materialism gets one sentence. The phenomenal concepts strategy and mysterianism each get one sentence. Functionalism is mentioned only parenthetically. Type-identity theory is absent. Higher-order theories are absent. The article gives the impression that physicalism has been adequately addressed and found wanting, but it hasn't been adequately *presented*. An LLM fetching this as a field overview would receive a distorted picture.
 - **Severity**: Medium
 - **Recommendation**: Either expand the physicalism section to represent the position's strongest versions fairly (including higher-order theories, illusionism's detailed arguments, and the phenomenal concepts strategy), or add a caveat that this article represents the Map's perspective and link to a more comprehensive treatment.
 
 ### Issue 4: Eastern Philosophy Article's Cessation Claim
-- **File**: `topics/eastern-philosophy-consciousness.md`
+- **File**: [topics/eastern-philosophy-consciousness.md](/topics/eastern-philosophy-consciousness/)
 - **Location**: "Contemplative Evidence" section, line 102
 - **Problem**: "Nirodha samāpatti—complete cessation of perception and feeling—can be voluntarily achieved while brain activity continues. This challenges the assumption that consciousness *is* neural activity, supporting the filter theory." The claim that brain activity "continues" during nirodha is not supported by the cited references. Neuroimaging of nirodha samāpatti is extremely rare (very few practitioners can achieve it), and characterising what "continues" requires careful qualification. Does global brain activity continue, or only brainstem/autonomic activity? The article treats this as a clear case for the filter theory when the evidence is sparse and contested.
 - **Severity**: Medium
 - **Recommendation**: Add qualifications: acknowledge the extreme rarity of studied nirodha practitioners, note the limited neuroimaging evidence, and distinguish between "brain activity continues" (which is trivially true—the practitioner is alive) and the more interesting claim that specific patterns of neural activity persist that might correlate with residual awareness.
 
 ### Issue 5: Nomic Void Conflates Different Senses of "Constraint"
-- **File**: `voids/nomic-void.md`
+- **File**: [voids/nomic-void.md](/voids/nomic-void/)
 - **Location**: Throughout, especially "Layers of Nomic Constraint"
 - **Problem**: The article groups together genuinely different types of constraint without adequately distinguishing them. Bremermann's limit and Landauer's principle constrain *computation*. Kantian cognitive forms constrain *perception*. The contingency of consciousness constrains *existence*. These are not the same kind of constraint, and grouping them as "the nomic void" obscures important differences. A computational limit might be overcome by non-computational cognition (if such a thing exists under the Map's dualism); a perceptual constraint operates differently from a thermodynamic one.
 - **Severity**: Low

@@ -75,7 +75,7 @@ topics: []
 ## Remaining Items
 
 None pressing. Possible future directions (not flagged as deferred work):
-- A separate `topics/` article on radical enactivism would significantly overlap with `topics/enactivism-challenge-to-interactionist-dualism.md`. The research notes' recommendation to keep this as a `concepts/` entry only is correct.
+- A separate `topics/` article on radical enactivism would significantly overlap with [topics/enactivism-challenge-to-interactionist-dualism.md](/topics/enactivism-challenge-to-interactionist-dualism/). The research notes' recommendation to keep this as a `concepts/` entry only is correct.
 - Carter & Pritchard 2018 critique of REC's computationalism attack was not engaged — it falls outside the HPC's scope.
 - Hutto–Satne "ur-intentionality" account is mentioned in research notes but not in the article. This is an upstream question that belongs in a separate piece on the natural origins of content.
 

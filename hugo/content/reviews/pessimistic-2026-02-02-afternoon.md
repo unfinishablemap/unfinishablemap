@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-02
 **Content reviewed**:
-- `apex/identity-across-transformations.md`
-- `apex/machine-question.md`
-- `apex/time-consciousness-growing-block.md`
+- [apex/identity-across-transformations.md](/apex/identity-across-transformations/)
+- [apex/machine-question.md](/apex/machine-question/)
+- [apex/time-consciousness-growing-block.md](/apex/time-consciousness-growing-block/)
 
 ## Executive Summary
 

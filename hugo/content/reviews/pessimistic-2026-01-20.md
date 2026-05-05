@@ -21,10 +21,10 @@ topics: []
 
 **Date**: 2026-01-20
 **Content reviewed**: Recent concept articles from sessions 245-257
-- `concepts/dualism.md`
-- `concepts/reductionism.md`
-- `concepts/consciousness-and-creativity.md`
-- `concepts/substrate-independence-critique.md`
+- [concepts/dualism.md](/concepts/dualism/)
+- [concepts/reductionism.md](/concepts/reductionism/)
+- [concepts/consciousness-and-creativity.md](/concepts/creative-consciousness/)
+- [concepts/substrate-independence-critique.md](/concepts/substrate-independence/)
 
 ## Executive Summary
 
@@ -71,28 +71,28 @@ The reviewed articles present The Unfinishable Map's core positions clearly and 
 ## Critical Issues
 
 ### Issue 1: Temporal Structure Argument Proves Too Much
-- **File**: `concepts/substrate-independence-critique.md`
+- **File**: [concepts/substrate-independence-critique.md](/concepts/substrate-independence/)
 - **Location**: "Temporal Structure Requirements" section
 - **Problem**: The argument against digital computation—that sequential processing lacks the "specious present"—applies equally to neural processing. Neurons fire discretely; synaptic transmission takes time; there is no obvious physical basis for the "holding-together" of successive states that the article requires. Either the specious present is non-physical (which begs the question) or it emerges from sequential processing (which undermines the critique of digital systems).
 - **Severity**: Medium
 - **Recommendation**: Acknowledge that the temporal structure argument requires identifying a *physical* difference between neural and digital sequential processing. Possible response: neural processing involves continuous analog gradients (graded potentials, dendritic integration) that digital processing lacks. Or acknowledge this is a gap in the argument.
 
 ### Issue 2: "Convergence" as Evidence
-- **File**: `concepts/dualism.md`
+- **File**: [concepts/dualism.md](/concepts/dualism/)
 - **Location**: Multiple sections including opening paragraph
 - **Problem**: The article repeatedly emphasizes that "multiple independent arguments converge" on dualism. But convergence is evidential only if the arguments are truly independent. The explanatory gap, conceivability argument, knowledge argument, and qualia arguments all rely on the same core intuition: that physical description cannot capture qualitative character. A critic could argue these are reformulations of one insight, not independent confirmations. Convergence of dependent arguments proves less than convergence of independent ones.
 - **Severity**: Medium
 - **Recommendation**: Either defend the independence of these arguments (showing they don't all reduce to the same intuition) or acknowledge that convergence claims should be qualified. Perhaps: "These arguments, while sharing a family resemblance, target different aspects of the physical-phenomenal gap."
 
 ### Issue 3: Imagination "Constituting" Possibilities
-- **File**: `concepts/consciousness-and-creativity.md`
+- **File**: [concepts/consciousness-and-creativity.md](/concepts/creative-consciousness/)
 - **Location**: "The Synthesis: Generation-Through-Selection" section
 - **Problem**: The article claims imagination "constitutes the possibilities it considers"—that exploring options creates them. This risks idealism: if possibilities exist only when imagined, what about possibilities no one has imagined? Are undiscovered mathematical theorems not possible until someone thinks of them? The claim seems to confuse epistemic access to possibility (imagination reveals what's possible) with ontological constitution (imagination creates what's possible).
 - **Severity**: Medium
 - **Recommendation**: Clarify the claim. Possible interpretation: imagination expands the *agent's* possibility space—what options they can act on. The possibilities may have been metaphysically possible before, but they become practically available through imagination. This is less dramatic but more defensible.
 
 ### Issue 4: Quantum Indeterminacy as Causal Gap
-- **File**: `concepts/reductionism.md`
+- **File**: [concepts/reductionism.md](/concepts/reductionism/)
 - **Location**: "Kim's Challenge" section
 - **Problem**: The response to Kim's exclusion argument claims physics "leaves outcomes undetermined" at quantum indeterminacies. But quantum mechanics provides probabilistic determination—the wave function specifies exact probabilities for each outcome. Claiming consciousness "biases" these probabilities amounts to saying consciousness changes the physics. This isn't operating where physics is "incomplete" but operating where physics makes specific predictions. The Map needs to address whether consciousness violates quantum mechanical probability predictions.
 - **Severity**: Medium

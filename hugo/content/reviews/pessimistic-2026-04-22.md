@@ -55,7 +55,7 @@ Nāgārjuna would observe that the article's core move depends on a stable, unif
 
 ### Issue 1: Fiction-to-nature gap is never bridged
 
-- **File**: `concepts/trumping-preemption.md`
+- **File**: [concepts/trumping-preemption.md](/concepts/trumping-preemption/)
 - **Location**: §"Schaffer's Cases" through §"Applying the Template to Mental Causation"
 - **Problem**: Schaffer's cases are fictional (magic) or conventional (military rank). Both are authored by agents who stipulate the authority rule. The article imports the *structure* into psychophysical metaphysics without explaining why we should expect nature to supply a non-stipulative analogue of the "first spell of the day" rule. The "Costs of the Template" section acknowledges the need for a principled law but does not engage with the deeper worry that all Schaffer-style examples trade on our practices of authority-assignment, which are themselves intentional.
 - **Severity**: Medium
@@ -63,7 +63,7 @@ Nāgārjuna would observe that the article's core move depends on a stable, unif
 
 ### Issue 2: Counterfactual-dependence characterisation is loose
 
-- **File**: `concepts/trumping-preemption.md`
+- **File**: [concepts/trumping-preemption.md](/concepts/trumping-preemption/)
 - **Location**: §"Schaffer's Cases", sentence: "Counterfactual dependence fails in both directions: had Merlin not cast, Morgana's spell would have sufficed; had Morgana not cast, Merlin's would have sufficed."
 - **Problem**: This is correct as written but invites a reader to miss what is actually going on in the dialectic. The standard complaint is that *each* candidate cause fails to be counterfactually necessary for the effect — not that dependence "fails in both directions" in some symmetric sense. The sentence works but a sceptical reader may take it as misstating the symmetry: in overdetermination, counterfactual dependence also fails symmetrically, so the cited feature does not distinguish trumping from overdetermination on its own.
 - **Severity**: Low
@@ -71,7 +71,7 @@ Nāgārjuna would observe that the article's core move depends on a stable, unif
 
 ### Issue 3: Defensive middle, confident ending
 
-- **File**: `concepts/trumping-preemption.md`
+- **File**: [concepts/trumping-preemption.md](/concepts/trumping-preemption/)
 - **Location**: §"Relation to Site Perspective", final paragraph
 - **Problem**: The article's middle sections ("Lewis Response and its Limits," "Costs of the Template") are honestly hedged, acknowledging that (a) Lewis's influence theory may accommodate the cases, (b) Bernstein may reduce trumping to overdetermination with insensitive effects, (c) there is no empirical signature, and (d) the dualist inherits an overdetermination objection if reduction succeeds. The final paragraph then states "the second channel — experience as authoritative cause — [is] a genuine addition the evidence warrants." This is a strong claim given what the article has just conceded, and readers will feel the tonal break.
 - **Severity**: Medium
@@ -79,7 +79,7 @@ Nāgārjuna would observe that the article's core move depends on a stable, unif
 
 ### Issue 4: Saad's work is described but one claim is reported as settled
 
-- **File**: `concepts/trumping-preemption.md`
+- **File**: [concepts/trumping-preemption.md](/concepts/trumping-preemption/)
 - **Location**: §"Applying the Template to Mental Causation", sentence: "Saad argues that only unobservable violations of physical closure occur; observable closure is preserved."
 - **Problem**: Reported in the narrator's voice as Saad's claim, but the phrase "observable closure is preserved" has been contested (by Tim Crane-style challenges to the very distinction between observable and unobservable violations, and by critics who argue that "unobservable violation" is either an oxymoron or concedes that closure does not really hold). The article treats this as Saad's position rather than flagging that this is itself a philosophically contentious frame.
 - **Severity**: Low

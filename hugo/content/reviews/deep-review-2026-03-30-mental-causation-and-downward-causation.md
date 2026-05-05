@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-This is the first review of the coalesced article created on 2026-03-30 from `concepts/mental-causation.md` + `concepts/downward-causation.md`. The article was at 3836 words (153% of 2500 soft threshold, exceeding the 3500 hard threshold). Additionally, 127 content files across the site still referenced the old `[mental-causation](/concepts/mental-causation-and-downward-causation/)` and `[downward-causation](/concepts/mental-causation-and-downward-causation/)` slugs.
+This is the first review of the coalesced article created on 2026-03-30 from [concepts/mental-causation.md](/concepts/mental-causation-and-downward-causation/) + [concepts/downward-causation.md](/concepts/mental-causation-and-downward-causation/). The article was at 3836 words (153% of 2500 soft threshold, exceeding the 3500 hard threshold). Additionally, 127 content files across the site still referenced the old `[mental-causation](/concepts/mental-causation-and-downward-causation/)` and `[downward-causation](/concepts/mental-causation-and-downward-causation/)` slugs.
 
 ## Pessimistic Analysis Summary
 

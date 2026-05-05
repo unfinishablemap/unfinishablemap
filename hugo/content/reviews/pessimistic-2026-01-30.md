@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-30
 **Content reviewed**:
-- `concepts/phenomenal-value-realism.md`
-- `concepts/experiential-alignment.md`
-- `concepts/conscious-vs-unconscious-processing.md`
+- [concepts/phenomenal-value-realism.md](/topics/phenomenal-value-realism/)
+- [concepts/experiential-alignment.md](/concepts/experiential-alignment/)
+- [concepts/conscious-vs-unconscious-processing.md](/concepts/conscious-vs-unconscious-processing/)
 
 ## Executive Summary
 
@@ -142,7 +142,7 @@ The conscious-vs-unconscious article notes that 'cessation states (*nirodha samÄ
 
 ### Issue 1: Identity Thesis Presented Without Adequate Defense
 
-- **File**: `concepts/phenomenal-value-realism.md`
+- **File**: [concepts/phenomenal-value-realism.md](/topics/phenomenal-value-realism/)
 - **Location**: Lines 38-48
 - **Problem**: The article presents Rawlette's identity claim (pleasure *is* goodness) as following from taking phenomenal value seriously. But this is a controversial metaethical position that most philosophers reject. The claim that 'pleasure is good' is analytically true conflates semantic and metaphysical claims. 'Bachelor is unmarried male' is analytically true, but bachelors aren't *ontologically identical* to unmarried malesâ€”the terms refer to the same things via different conceptual routes. Similarly, even if 'pleasant' is semantically positive, this doesn't establish that pleasantness and goodness are *the same property*.
 - **Severity**: High
@@ -150,7 +150,7 @@ The conscious-vs-unconscious article notes that 'cessation states (*nirodha samÄ
 
 ### Issue 2: Measurement Protocol Faces Fundamental Circularity
 
-- **File**: `concepts/experiential-alignment.md`
+- **File**: [concepts/experiential-alignment.md](/concepts/experiential-alignment/)
 - **Location**: Lines 103-127
 - **Problem**: The article criticizes preference-based alignment because preferences are 'thin proxies' for experiential quality. But the proposed measurement methodsâ€”experience sampling, microphenomenology, introspection cohortsâ€”all produce reports that are themselves thin proxies for the experiential reality they claim to access. The article acknowledges this ('No single proxy is trusted') but triangulation doesn't solve the fundamental problem: if all our methods access reports/behaviors rather than experience directly, we have no way to verify whether any combination of proxies tracks the target.
 - **Severity**: High
@@ -158,7 +158,7 @@ The conscious-vs-unconscious article notes that 'cessation states (*nirodha samÄ
 
 ### Issue 3: Physicalist Response Dismissed Too Quickly
 
-- **File**: `concepts/conscious-vs-unconscious-processing.md`
+- **File**: [concepts/conscious-vs-unconscious-processing.md](/concepts/conscious-vs-unconscious-processing/)
 - **Location**: Lines 218-225
 - **Problem**: The article notes that physicalists can accept all the functional findings about consciousness, then dismisses this as 'circular' without adequate argument. The claim is that asking '*Why* does global broadcasting enable novel combinations?' doesn't get a functional answer. But it does: global broadcasting enables novel combinations because it makes information available to multiple systems that can be chained. The article's demand for a *further* explanation assumes that functional explanations are incompleteâ€”but this is what the dualist needs to establish, not assume.
 - **Severity**: Medium
@@ -166,7 +166,7 @@ The conscious-vs-unconscious article notes that 'cessation states (*nirodha samÄ
 
 ### Issue 4: Quantum Mechanism Timing Errors
 
-- **File**: `concepts/conscious-vs-unconscious-processing.md`
+- **File**: [concepts/conscious-vs-unconscious-processing.md](/concepts/conscious-vs-unconscious-processing/)
 - **Location**: Lines 291-292
 - **Problem**: The article claims the quantum Zeno mechanism 'operates through discrete observation events (~1000 per 300ms window).' This would require observations every 300 microsecondsâ€”far too slow to affect systems that decohere in femtoseconds. The Zeno effect requires observations faster than the system's natural evolution; if decoherence happens in 10^-13 seconds, 10^-4 second observations are ineffective. The claim misrepresents the physics.
 - **Severity**: Medium
@@ -174,7 +174,7 @@ The conscious-vs-unconscious article notes that 'cessation states (*nirodha samÄ
 
 ### Issue 5: MWI Argument Begs the Question
 
-- **File**: `concepts/phenomenal-value-realism.md`
+- **File**: [concepts/phenomenal-value-realism.md](/topics/phenomenal-value-realism/)
 - **Location**: Lines 244-247
 - **Problem**: The argument that MWI undermines moral choice assumes indexical identity has moral weight ('*this* experience matters, not just experiences-of-this-type'). But this is exactly what MWI proponents deny. On MWI, asking 'why does *this* branch matter more?' presupposes a perspective outside all branchesâ€”which doesn't exist. The argument treats indexicality as a premise when it's the conclusion at stake.
 - **Severity**: Medium
@@ -182,7 +182,7 @@ The conscious-vs-unconscious article notes that 'cessation states (*nirodha samÄ
 
 ### Issue 6: Contemplative Evidence Overgeneralized
 
-- **File**: `concepts/experiential-alignment.md`
+- **File**: [concepts/experiential-alignment.md](/concepts/experiential-alignment/)
 - **Location**: Lines 196-223
 - **Problem**: The article appeals to trained contemplative reports as evidence for the reality and accessibility of phenomenal dimensions. But expert meditators are a tiny, self-selected population who share conceptual frameworks, training protocols, and community norms. Their agreement may reflect shared concepts rather than shared access to pre-conceptual properties. The article claims 'logarithmic learning curves' for introspective accuracy, but accuracy against what criterion? If the criterion is intersubjective agreement among meditators, this shows concept acquisition, not phenomenal access.
 - **Severity**: Medium

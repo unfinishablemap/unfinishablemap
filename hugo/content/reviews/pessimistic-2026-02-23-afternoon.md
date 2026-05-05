@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-02-23 Afternoon
 # Pessimistic Review
 
 **Date**: 2026-02-23
-**Content reviewed**: `apex/phenomenology-of-consciousness-doing-work.md`, `concepts/consciousness-and-scientific-explanation.md`, `concepts/zombie-master-argument.md`
+**Content reviewed**: [apex/phenomenology-of-consciousness-doing-work.md](/apex/phenomenology-of-consciousness-doing-work/), [concepts/consciousness-and-scientific-explanation.md](/concepts/consciousness-and-scientific-explanation/), [concepts/zombie-master-argument.md](/concepts/zombie-master-argument/)
 
 ## Executive Summary
 
@@ -59,28 +59,28 @@ The zombie article assumes consciousness is a definite property that either exis
 ## Critical Issues
 
 ### Issue 1: Internal Tension Between Zombie Argument and Bidirectional Interaction
-- **File**: `concepts/zombie-master-argument.md`
+- **File**: [concepts/zombie-master-argument.md](/concepts/zombie-master-argument/)
 - **Location**: Entire article, but especially "Relation to Site Perspective"
 - **Problem**: The standard zombie argument assumes complete physical identity between a conscious being and its zombie twin. But the Map's Bidirectional Interaction tenet holds that consciousness *causally influences* physical outcomes — biasing quantum indeterminacies in neural systems. If consciousness makes a physical difference, then a being without consciousness would have *different physical states* (different quantum outcome distributions). Physically identical zombies would be impossible under the Map's own framework. The article presents the zombie argument as the "logical backbone" for Tenet 1 without addressing this tension with Tenet 3. This is not a minor oversight — it is a structural inconsistency in how the article relates to the Map's tenets.
 - **Severity**: High
 - **Recommendation**: The article should explicitly address this tension. One resolution: the zombie argument establishes conceivability under a *minimal* dualism (Tenet 1 alone), while the Map's full framework (adding Tenet 3) makes zombies impossible as a consequence. The argument's work is done once non-entailment is established; the Map then goes further by asserting bidirectional interaction.
 
 ### Issue 2: Thermodynamics Analogy Undermines the Argument
-- **File**: `concepts/consciousness-and-scientific-explanation.md`
+- **File**: [concepts/consciousness-and-scientific-explanation.md](/concepts/consciousness-and-scientific-explanation/)
 - **Location**: "Non-Reductive Explanation as Legitimate Science" section
 - **Problem**: The three analogies offered — thermodynamics, Ohm's law, pre-atomic chemistry — were all *eventually reduced* to more fundamental theories. They are better evidence for the physicalist's optimistic programme (the gap will eventually close) than for dualism's claim that the gap is permanent. The article uses them to argue that non-reductive explanation is legitimate science, but a physicalist can respond: "Yes, exactly — non-reductive explanation is a way-station toward reduction, as your own examples show."
 - **Severity**: Medium
 - **Recommendation**: Acknowledge this objection explicitly. The article needs cases of *permanently* non-reductive explanation, or it needs to argue why the consciousness case differs from the cases cited. One could argue that consciousness is disanalogous because introspection provides direct access to the explanandum in a way that was never true for thermodynamics.
 
 ### Issue 3: Unfalsifiable Core Inference in Phenomenology Article
-- **File**: `apex/phenomenology-of-consciousness-doing-work.md`
+- **File**: [apex/phenomenology-of-consciousness-doing-work.md](/apex/phenomenology-of-consciousness-doing-work/)
 - **Location**: Opening paragraph and "Synthesis" section
 - **Problem**: The article's central move — "if consciousness were epiphenomenal, the elaborate phenomenological profile of doing should not exist" — assumes without argument that epiphenomenal consciousness would lack structured phenomenology. This is never justified. If the brain generates both the processing and the phenomenology, a rich phenomenological profile is exactly what one would expect regardless of whether there is a separate non-physical entity involved. The claim needs an explicit argument for why epiphenomenalism predicts *different* phenomenology, not just an assertion.
 - **Severity**: High
 - **Recommendation**: Add an explicit argument for the prediction gap. For example: under epiphenomenalism, the correlation between phenomenology and genuine cognitive demand is unexplained — it would be a cosmic coincidence that the feeling of effort tracks exactly those situations where the brain is under genuine load, if the feeling is disconnected from the load-bearing process.
 
 ### Issue 4: "Identical Predictions" Claim in Tension with Map's Tenets
-- **File**: `concepts/consciousness-and-scientific-explanation.md`
+- **File**: [concepts/consciousness-and-scientific-explanation.md](/concepts/consciousness-and-scientific-explanation/)
 - **Location**: "What Neuroscience Explains Under Dualism" section (line ~51)
 - **Problem**: The article states "The empirical predictions are identical" between physicalism and dualism regarding NCC research. But if consciousness biases quantum outcomes (Tenet 2), there should be *different* physical states in conscious vs. non-conscious systems — subtle differences in quantum outcome distributions. This means dualism-with-bidirectional-interaction does NOT make identical predictions to physicalism. The article's claim of identical predictions is in tension with the Minimal Quantum Interaction tenet.
 - **Severity**: Medium

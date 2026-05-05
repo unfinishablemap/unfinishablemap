@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-29
 **Content reviewed**:
-- `concepts/attention-schema-theory.md`
-- `concepts/blindsight.md`
-- `concepts/emergence.md`
+- [concepts/attention-schema-theory.md](/concepts/attention-schema-theory/)
+- [concepts/blindsight.md](/concepts/blindsight/)
+- [concepts/emergence.md](/concepts/emergence/)
 
 ## Executive Summary
 
@@ -111,7 +111,7 @@ The Map's framework reifies consciousness into something—a property, a substan
 
 ### Issue 1: Regress Objection Applies to Dualism Too
 
-- **File**: `concepts/attention-schema-theory.md`
+- **File**: [concepts/attention-schema-theory.md](/concepts/attention-schema-theory/)
 - **Location**: Lines 103-108, 136-138
 - **Problem**: The article objects that AST's information states cannot constitute 'phenomenal seeming' because seeming requires a subject. But dualism faces the same regress: if a non-physical subject apprehends experiences, what apprehends the subject's apprehension? The article stops the regress for dualism by positing a primitive subject, but AST could equally stop it by positing primitive information-states. The asymmetry isn't justified.
 - **Severity**: High
@@ -119,7 +119,7 @@ The Map's framework reifies consciousness into something—a property, a substan
 
 ### Issue 2: Blindsight Interpretation Underdetermines Metaphysics
 
-- **File**: `concepts/blindsight.md`
+- **File**: [concepts/blindsight.md](/concepts/blindsight/)
 - **Location**: Lines 123-145
 - **Problem**: The article claims blindsight provides 'direct evidence for property dualism' because 'identical neural processing' can occur with or without consciousness. But the processing isn't identical—different pathways are involved. And even if it were identical, this would show consciousness correlates with specific neural organizations, not that it's non-physical. The article acknowledges three physicalist responses but doesn't engage with why the dualist interpretation is *better*, only why it's possible.
 - **Severity**: High
@@ -127,7 +127,7 @@ The Map's framework reifies consciousness into something—a property, a substan
 
 ### Issue 3: Emergence Article's Mechanism Claim is Overstated
 
-- **File**: `concepts/emergence.md`
+- **File**: [concepts/emergence.md](/concepts/emergence/)
 - **Location**: Lines 97-114
 - **Problem**: The article claims the quantum framework provides 'what classical emergentism lacked: a mechanism.' But specifying that consciousness operates at quantum indeterminacies doesn't constitute a mechanism—it specifies a *locus*. A mechanism would explain *how* consciousness biases outcomes, what determines the direction of bias, and why this particular interface rather than another. The quantum framework answers 'where' but not 'how.'
 - **Severity**: Medium
@@ -135,7 +135,7 @@ The Map's framework reifies consciousness into something—a property, a substan
 
 ### Issue 4: MWI Rejection Treated as Tenet Rather Than Argued
 
-- **File**: `concepts/emergence.md`
+- **File**: [concepts/emergence.md](/concepts/emergence/)
 - **Location**: Lines 111-113
 - **Problem**: The comparison table marks MWI rejection as distinguishing the Map from alternatives, but the article doesn't argue for rejecting MWI—it assumes it per the tenets. The emergence argument depends on quantum selection being real, which depends on MWI being false. This makes the emergence framework hostage to interpretive debates in foundations of physics. A reader sympathetic to MWI would find the framework unpersuasive not because of consciousness arguments but because of quantum interpretation commitments.
 - **Severity**: Medium
@@ -143,7 +143,7 @@ The Map's framework reifies consciousness into something—a property, a substan
 
 ### Issue 5: Blindsight Article Underuses Quantum Framework
 
-- **File**: `concepts/blindsight.md`
+- **File**: [concepts/blindsight.md](/concepts/blindsight/)
 - **Location**: Lines 163-165
 - **Problem**: The article notes that 'quantum selection hypothesis offers one proposal' but doesn't integrate this with the blindsight data. If quantum selection is the mechanism for conscious processing, blindsight provides a natural test case: the V1 pathway should show quantum signatures that the collicular pathway lacks. This prediction is mentioned but not developed. The article's 'Relation to Site Perspective' section mentions the quantum framework but doesn't show how blindsight evidence bears on it.
 - **Severity**: Low
@@ -151,7 +151,7 @@ The Map's framework reifies consciousness into something—a property, a substan
 
 ### Issue 6: AST Article's Contemplative Evidence Overclaimed
 
-- **File**: `concepts/attention-schema-theory.md`
+- **File**: [concepts/attention-schema-theory.md](/concepts/attention-schema-theory/)
 - **Location**: Lines 139-143
 - **Problem**: The article claims 'trained introspectors report accessing attention directly, not through a schema.' But this is contested phenomenology. Contemplatives from different traditions report different things, and interpreting reports requires theoretical frameworks. The claim that witness consciousness is 'not a model but the subject for whom models appear' assumes a dualist interpretation that practitioners from other frameworks (Buddhist, Advaita) would dispute. The article treats contemplative evidence as straightforward when it requires interpretive work.
 - **Severity**: Low

@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-29
 **Content reviewed**:
-- `topics/lucid-dreaming-and-consciousness.md`
-- `topics/integrated-information-theory-critique.md`
-- `concepts/simulation.md`
+- [topics/lucid-dreaming-and-consciousness.md](/topics/dream-consciousness/)
+- [topics/integrated-information-theory-critique.md](/topics/consciousness-and-integrated-information/)
+- [concepts/simulation.md](/concepts/simulation/)
 
 ## Executive Summary
 
@@ -135,7 +135,7 @@ The cluster treats consciousness as something—a substance, a property, a causa
 
 ### Issue 1: Dream Control Evidence Doesn't Establish Phenomenal Causation
 
-- **File**: `topics/lucid-dreaming-and-consciousness.md`
+- **File**: [topics/lucid-dreaming-and-consciousness.md](/topics/dream-consciousness/)
 - **Location**: Lines 89-98
 - **Problem**: The article claims dream control provides 'direct support' for bidirectional interaction because 'lucid dreamers exert causal influence over dream content through intention.' But this conflates two claims: (1) something called 'intention' causally affects dream content, and (2) phenomenal consciousness specifically does causal work. The epiphenomenalist accepts (1)—functional intention-states cause changes—while denying (2). The article provides no evidence that phenomenal properties rather than functional states do the causal work. The neural evidence (gamma connectivity, prefrontal activation) is entirely consistent with functional states causing both the phenomenology and the dream-content changes via common causation.
 - **Severity**: High
@@ -143,7 +143,7 @@ The cluster treats consciousness as something—a substance, a property, a causa
 
 ### Issue 2: IIT Passivity Objection Applies Reflexively
 
-- **File**: `topics/integrated-information-theory-critique.md`
+- **File**: [topics/integrated-information-theory-critique.md](/topics/consciousness-and-integrated-information/)
 - **Location**: Lines 35-44
 - **Problem**: The article claims IIT renders consciousness 'causally inert' because identifying consciousness with integrated information means 'physics alone does all the causal work.' But the Map's alternative—consciousness selecting quantum outcomes—faces a parallel objection. If consciousness operates only at quantum indeterminacies (to satisfy causal closure elsewhere), then physics plus quantum chance determines all outcomes, and consciousness merely accompanies the selection. What does 'selection' add beyond the quantum probability distribution? The article claims IIT is 'epiphenomenalism by another name' without acknowledging that critics make the same charge against quantum selection theories.
 - **Severity**: High
@@ -151,7 +151,7 @@ The cluster treats consciousness as something—a substance, a property, a causa
 
 ### Issue 3: Simulation Hypothesis Is Neutral Between Physicalism and Dualism
 
-- **File**: `concepts/simulation.md`
+- **File**: [concepts/simulation.md](/concepts/simulation/)
 - **Location**: Lines 79-98
 - **Problem**: The article presents the simulation hypothesis as supporting the Map's tenets, particularly dualism and bidirectional interaction. But the simulation hypothesis is actually neutral. A sufficiently sophisticated simulation could implement consciousness physically—consciousness could be identical to certain computational states within the simulation, satisfying physicalism. The article argues that simulation 'creates conceptual room for consciousness to be something genuinely different from simulated matter.' But simulated matter *is* computation, and consciousness could be certain computations without being 'different' from them. The conceptual room the article claims is assumed, not established by the hypothesis.
 - **Severity**: High
@@ -159,7 +159,7 @@ The cluster treats consciousness as something—a substance, a property, a causa
 
 ### Issue 4: Quantum Zeno Mechanism Faces Timescale Mismatch
 
-- **File**: `topics/lucid-dreaming-and-consciousness.md`
+- **File**: [topics/lucid-dreaming-and-consciousness.md](/topics/dream-consciousness/)
 - **Location**: Lines 159-160
 - **Problem**: The article proposes that dream control might operate through quantum Zeno effect mechanisms—'sustained attention stabilising certain neural patterns against decoherence.' But the quantum Zeno effect requires measurements at timescales faster than the system's evolution. Attention operates at hundreds of milliseconds; quantum decoherence in neural systems occurs at femtoseconds to microseconds. The timescale mismatch is at least six orders of magnitude. The article doesn't address how 'sustained attention' (slow cognitive process) could perform the rapid measurements the Zeno effect requires.
 - **Severity**: Medium
@@ -167,7 +167,7 @@ The cluster treats consciousness as something—a substance, a property, a causa
 
 ### Issue 5: MWI Rejection Arguments Don't Distinguish Phenomenologies
 
-- **File**: `topics/lucid-dreaming-and-consciousness.md`, `concepts/simulation.md`
+- **File**: [topics/lucid-dreaming-and-consciousness.md](/topics/dream-consciousness/), [concepts/simulation.md](/concepts/simulation/)
 - **Location**: lucid-dreaming:163-164, simulation:116-118
 - **Problem**: Both articles claim that the 'phenomenology of foreclosure'—experiencing choices as genuinely closing alternatives—supports collapse interpretations over MWI. But MWI predicts identical phenomenology within each branch. When I choose to fly in a lucid dream, the 'me' in this branch experiences the non-flying option as not taken. In other branches, other mes chose differently. The phenomenology of selection is identical whether branching occurs or not. The articles don't provide a criterion for distinguishing 'genuinely foreclosed' from 'branched but locally foreclosed.'
 - **Severity**: Medium
@@ -175,7 +175,7 @@ The cluster treats consciousness as something—a substance, a property, a causa
 
 ### Issue 6: Process Philosophy Interpretation Contested
 
-- **File**: `topics/lucid-dreaming-and-consciousness.md`
+- **File**: [topics/lucid-dreaming-and-consciousness.md](/topics/dream-consciousness/)
 - **Location**: Lines 132-140
 - **Problem**: The article presents Whitehead's process philosophy as supporting the Map's interpretation of lucid dreaming—'the transition to lucidity involves a distinctive kind of prehension: the dream experience prehends *itself as dream*.' But process philosophy doesn't require dualism; Whitehead's framework is often interpreted panpsychistically, with experience as a feature of all actual occasions, not a non-physical addition. The article treats process philosophy as supporting dualist conclusions when process philosophy is actually compatible with multiple interpretations, including physicalist panpsychism.
 - **Severity**: Low

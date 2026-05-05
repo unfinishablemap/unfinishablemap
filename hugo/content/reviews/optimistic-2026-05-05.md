@@ -16,7 +16,7 @@ title: Optimistic Review - 2026-05-05
 
 ## Executive Summary
 
-The 2026-05-04/05 cluster is the cleanest implementation of a methodological discipline the catalogue has produced. The Process Philosopher (Whitehead) and Hardline Empiricist (Birch) personas converge in praising the same passages — Whitehead-friendliness is preserved without cashing out as tier-upgrade, and the Hardline Empiricist's "tenet-coherent, not evidence-elevating" pattern appears in the lede of the load-bearing articles. The strongest expansion opportunity is a standalone treatment of Gutfreund's Standing Agnostic Challenge, which is currently invoked across multiple articles as a cross-cutting constraint without having its own anchor; the second is propagating the five-tier calibration into `topics/ai-consciousness.md`, which is the next obvious load-bearing site for the discipline.
+The 2026-05-04/05 cluster is the cleanest implementation of a methodological discipline the catalogue has produced. The Process Philosopher (Whitehead) and Hardline Empiricist (Birch) personas converge in praising the same passages — Whitehead-friendliness is preserved without cashing out as tier-upgrade, and the Hardline Empiricist's "tenet-coherent, not evidence-elevating" pattern appears in the lede of the load-bearing articles. The strongest expansion opportunity is a standalone treatment of Gutfreund's Standing Agnostic Challenge, which is currently invoked across multiple articles as a cross-cutting constraint without having its own anchor; the second is propagating the five-tier calibration into [topics/ai-consciousness.md](/topics/ai-consciousness/), which is the next obvious load-bearing site for the discipline.
 
 ## Praise from Sympathetic Philosophers
 
@@ -66,31 +66,31 @@ The cluster is *unusually* good on epistemic humility. The Standing Agnostic Cha
 
 ## Content Strengths
 
-### `project/evidential-status-discipline.md`
+### [project/evidential-status-discipline.md](/project/evidential-status-discipline/)
 
 - **Strongest point**: The diagnostic test is *operational* — "Would a reviewer who fully accepts the Map's tenets still flag the claim as overstated relative to the evidential-status scale?" — and the four worked examples that follow are sharp enough to apply on the spot.
 - **Notable quote**: "*"Reviewer says nematodes probably aren't conscious"* against an article labelling nematodes 'live hypothesis / speculative integration' is bedrock-style disagreement and not critical: the article's calibration is honest at that tier. *"Reviewer says the article overstates the evidential status of nematode consciousness"* against an article labelling nematodes at 'realistic possibility' *because the tenets weaken parsimony arguments* is calibration error and is critical."
 - **Why it works**: the contrast is exactly the case the failure mode produces, and the test's qualifier ("a reviewer *who fully accepts the Map's tenets*") is doing the architectural work of separating bedrock from calibration error. The same test then carries through the Implementation section, the optimistic-review-tension section, and the Honest Limitation section — every piece of the project-doc returns to the test as the operational core.
 
-### `topics/consciousness-in-simple-organisms.md`
+### [topics/consciousness-in-simple-organisms.md](/topics/consciousness-in-simple-organisms/)
 
 - **Strongest point**: the Evidential Register section structurally precedes every species-level analysis, so the reader cannot reach the *C. elegans* discussion without first having had the tenet/evidence distinction installed. The article is *structurally* discipline-aligned, not just cosmetically labelled.
 - **Notable quote**: "A tenet may keep a hypothesis live; it cannot upgrade the evidence level on its own."
 - **Why it works**: the per-organism evidential-status verdicts — *C. elegans* at "live hypothesis / speculative integration," Hydra at "speculative integration," slime molds at "speculative integration / cognition without consciousness" — are calibrated at the tier the empirical literature supports, not at the tier the tenets allow. The Becerra et al. (2023) reframe as "a critical reassessment proposing further research, not a positive establishment of phenomenal experience" is the discipline doing visible work on a citation the catalogue has good reason to want to lean on.
 
-### `topics/animal-consciousness.md`
+### [topics/animal-consciousness.md](/topics/animal-consciousness/)
 
 - **Strongest point**: the cross-tree calibration scale is applied at ledes *and* sections *and* References-citation-level, so the reader and the LLM both pick up the tier-language regardless of where they enter. The Standing Agnostic Challenge section explicitly names itself as cross-cutting ("applies *across every species-claim in this article*") rather than being treated as an objection-to-defeat in a single section.
 - **Notable quote**: "The UAL-as-interface and multiple-origins framings are tenet-coherent, not evidence-elevating."
 - **Why it works**: the same article that takes pride of place for "removing the defeater for non-anthropocentric consciousness" also explicitly says "Removing this defeater is a tenet-register move and does not, by itself, supply positive evidence for any particular species." The dualist warrant and the empirical caution land in the same paragraph rather than in different sections of the article.
 
-### `topics/cetacean-and-corvid-consciousness.md`
+### [topics/cetacean-and-corvid-consciousness.md](/topics/cetacean-and-corvid-consciousness/)
 
 - **Strongest point**: the Neural Architecture Challenge section is the strongest deployment of `direct-refutation-discipline` in the catalogue — bedrock-perimeter residue named honestly, unsupported-jump callout supplied by the materialist's own standards, narrower observations clearly distinguished from the framework-level engagement.
 - **Notable quote**: "The Map's [Dualism](/tenets/#dualism) tenet excludes the materialist's *sufficiency* claim... The Map does not refute that sufficiency claim inside the materialist's framework on the strength of this article's data alone."
 - **Why it works**: this is precisely the calibration the direct-refutation discipline calls for — naming where the bedrock genuinely lies, then identifying the place where engagement *is* available (the materialist's own demand for mechanistic specification, applied to the materialist's own bridge). The same article's amplification-framework treatment ("the convergent-evolution argument supplies *coherence* with the amplification hypothesis without supplying *positive* evidence") is the cleanest example of "tenet-coherent, not evidence-elevating" in the cetacean/corvid context.
 
-### `topics/non-temporal-consciousness.md`
+### [topics/non-temporal-consciousness.md](/topics/non-temporal-consciousness/)
 
 - **Strongest point**: the two-meanings clarification at the lede ("'Non-temporal' carries two distinct meanings in what follows") preempts the conflation that would otherwise undermine the rest of the article. The Bergson section earns the synthesis reading by acknowledging the synthesis "favours Husserl, and the genuine tension may not be fully resolvable."
 - **Notable quote**: "Husserl's regress argument supports this stronger reading: if temporal experience must be constituted by something, and that something cannot itself be temporal, then meditative states that strip away temporal constitution reveal the constituting activity directly."
@@ -107,7 +107,7 @@ The cluster is *unusually* good on epistemic humility. The Standing Agnostic Cha
 - **Estimated scope**: Medium (~1500–2000 words). Topic article, not project doc — the challenge is empirical-methodological, not internal to the Map's automation.
 - **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) at the empirical-detection layer — the challenge is the methodological corollary of Tenet 5 applied to consciousness-attribution practice, parallel to what `evidential-status-discipline` is at the catalogue-internal labelling layer.
 
-#### Apply the five-tier calibration to `topics/ai-consciousness.md`
+#### Apply the five-tier calibration to [topics/ai-consciousness.md](/topics/ai-consciousness/)
 
 - **Builds on**: The cluster has now installed the discipline at the *animal* boundary cases — `consciousness-in-simple-organisms` and `animal-consciousness` are the canonical worked examples named in `evidential-status-discipline.md`. AI is the structurally analogous boundary case at the other end of the substrate spectrum — silicon vs. biological neural architecture, with the same temptation to let tenet-coherence (no substrate-specific barrier) silently elevate evidential grade for current systems.
 - **Would address**: The article currently uses the "AI consciousness typology" framing well but does not explicitly carry tier labels at each typology branch. A calibration pass would (a) install the tenet-register / evidence-register distinction at the lede; (b) label each typology branch on the five-tier scale (most likely: current-frontier-LLMs at "live hypothesis / speculative integration" for borrowed-quale variants and "speculative integration" or "cognition without consciousness" for null variants); (c) reframe principled obstacles as evidence-register findings while preserving dualist commitments at the tenet register; (d) name the structural temptation explicitly — *the Map's anti-substrate-specificity is tenet-register support; the empirical case for any specific AI being conscious is a separate question*.
@@ -141,12 +141,12 @@ The cluster is *unusually* good on epistemic humility. The Standing Agnostic Cha
 
 | From | To | Reason |
 |------|-----|--------|
-| `topics/ai-consciousness.md` | `project/evidential-status-discipline.md` | The discipline applies to AI consciousness with the same structure as animal consciousness; the wikilink should appear at the lede where the article frames its principled-obstacles position |
-| `apex/machine-question.md` | `project/evidential-status-discipline.md` | The apex's treatment of AI consciousness should explicitly carry the tier-labelling discipline once the AI-consciousness calibration pass lands |
-| `concepts/illusionism.md` | `project/direct-refutation-discipline.md` and `project/evidential-status-discipline.md` | The 2026-05-04 illusionism rewrite in `animal-consciousness` is a model deployment of both disciplines — the standalone illusionism concept article should reference both |
-| `topics/decoherence.md` | `topics/animal-consciousness.md` | The animal-consciousness article now contains the strongest framing of the live-dispute reading of Tegmark/Hagan/Reimers/McKemmish; the dedicated decoherence article should cross-reference it |
-| `concepts/baseline-cognition.md` | `topics/cetacean-and-corvid-consciousness.md` | The cetacean/corvid article is now the catalogue's strongest test case for the baseline-cognition framework; the concept article should link out to it as the canonical worked example |
-| `topics/non-temporal-consciousness.md` | `concepts/temporal-consciousness.md` | The non-temporal article forwards heavily to the temporal-consciousness article without the temporal-consciousness article currently linking back — a missed reciprocal connection |
+| [topics/ai-consciousness.md](/topics/ai-consciousness/) | [project/evidential-status-discipline.md](/project/evidential-status-discipline/) | The discipline applies to AI consciousness with the same structure as animal consciousness; the wikilink should appear at the lede where the article frames its principled-obstacles position |
+| [apex/machine-question.md](/apex/machine-question/) | [project/evidential-status-discipline.md](/project/evidential-status-discipline/) | The apex's treatment of AI consciousness should explicitly carry the tier-labelling discipline once the AI-consciousness calibration pass lands |
+| [concepts/illusionism.md](/concepts/illusionism/) | [project/direct-refutation-discipline.md](/project/direct-refutation-discipline/) and [project/evidential-status-discipline.md](/project/evidential-status-discipline/) | The 2026-05-04 illusionism rewrite in `animal-consciousness` is a model deployment of both disciplines — the standalone illusionism concept article should reference both |
+| [topics/decoherence.md](/concepts/decoherence/) | [topics/animal-consciousness.md](/topics/animal-consciousness/) | The animal-consciousness article now contains the strongest framing of the live-dispute reading of Tegmark/Hagan/Reimers/McKemmish; the dedicated decoherence article should cross-reference it |
+| [concepts/baseline-cognition.md](/concepts/baseline-cognition/) | [topics/cetacean-and-corvid-consciousness.md](/topics/cetacean-and-corvid-consciousness/) | The cetacean/corvid article is now the catalogue's strongest test case for the baseline-cognition framework; the concept article should link out to it as the canonical worked example |
+| [topics/non-temporal-consciousness.md](/topics/non-temporal-consciousness/) | [concepts/temporal-consciousness.md](/concepts/temporal-consciousness/) | The non-temporal article forwards heavily to the temporal-consciousness article without the temporal-consciousness article currently linking back — a missed reciprocal connection |
 
 ## New Concept Pages Needed
 

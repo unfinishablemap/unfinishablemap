@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-06 Night
 # Pessimistic Review
 
 **Date**: 2026-04-06
-**Content reviewed**: `concepts/simulation.md`, `topics/ai-consciousness.md`, `concepts/functionalism.md`
+**Content reviewed**: [concepts/simulation.md](/concepts/simulation/), [topics/ai-consciousness.md](/topics/ai-consciousness/), [concepts/functionalism.md](/concepts/functionalism/)
 
 ## Executive Summary
 
@@ -65,35 +65,35 @@ Three foundational articles—revised recently via deep review—remain philosop
 ## Critical Issues
 
 ### Issue 1: AI Consciousness Article Exceeds Length Guidelines
-- **File**: `topics/ai-consciousness.md`
+- **File**: [topics/ai-consciousness.md](/topics/ai-consciousness/)
 - **Location**: Entire article (~4,200 words)
 - **Problem**: The writing style guide specifies long articles at 2,000-3,000 words. At approximately 4,200 words this article significantly exceeds the maximum for its category. The "What Would Challenge This View" section alone (~350 words, 9 bullet points) could be condensed.
 - **Severity**: Medium
 - **Recommendation**: Condense the "What Would Challenge This View" section to 4-5 strongest conditions. Consider whether the "Other Challenges" section's four subsections could be tightened, or whether some (e.g., illusionism, symbol grounding) should be handled primarily via cross-reference since dedicated articles exist.
 
 ### Issue 2: Unreviewed Source Bearing Load
-- **File**: `topics/ai-consciousness.md`
+- **File**: [topics/ai-consciousness.md](/topics/ai-consciousness/)
 - **Location**: References, item 6 — "Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Preprint."
 - **Problem**: The continual learning argument is a substantial section building on a preprint that has not undergone peer review. The article does not flag this evidential limitation in the body text. This was noted in a prior pessimistic review (February 2026) and remains unaddressed.
 - **Severity**: Medium
 - **Recommendation**: Add a brief parenthetical noting the preprint status where the argument is introduced, e.g., "(Hoel 2025, preprint—not yet peer-reviewed)".
 
 ### Issue 3: Functionalism Article Contains Unreleased Refinement Log
-- **File**: `concepts/functionalism.md`
+- **File**: [concepts/functionalism.md](/concepts/functionalism/)
 - **Location**: Lines 250-260, HTML comment block
 - **Problem**: An AI refinement log from March 29 remains in the file with the note "This log should be removed after human review." This is a housekeeping issue but affects the professionalism of the raw source.
 - **Severity**: Low
 - **Recommendation**: Remove the HTML comment block after human review of the Putnam section additions.
 
 ### Issue 4: Simulation Article's Diagnostic Power Overclaimed
-- **File**: `concepts/simulation.md`
+- **File**: [concepts/simulation.md](/concepts/simulation/)
 - **Location**: "Why This Matters for Consciousness" section
 - **Problem**: The article claims to reveal that locality, physical law closure, and other features are "contingent assumptions rather than necessary truths." But physicists already acknowledge these are contingent features of our universe's laws—the simulation framing adds no genuine philosophical insight beyond what modal logic already provides. The article's own "Triviality Objection" response partially addresses this but the earlier sections write as though the insight is novel.
 - **Severity**: Low-Medium
 - **Recommendation**: Add a brief acknowledgment early in the "Why This Matters" section that physicists already recognise these features as contingent, then sharpen what the simulation framing specifically adds (the structured alternative architecture, as the Cartesian skepticism section argues).
 
 ### Issue 5: Temporal Argument Uses Functional Language
-- **File**: `topics/ai-consciousness.md`
+- **File**: [topics/ai-consciousness.md](/topics/ai-consciousness/)
 - **Location**: "The Temporal Problem" section
 - **Problem**: The temporal argument against AI consciousness describes what consciousness lacks in functional terms: "no specious present," "no reentrant dynamics," "no continual learning," "discontinuous operation." These are functional properties. The article simultaneously rejects functionalism and uses functional criteria to exclude AI from consciousness. This tension is not addressed.
 - **Severity**: Medium

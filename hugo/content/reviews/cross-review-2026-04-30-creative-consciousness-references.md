@@ -20,7 +20,7 @@ topics: []
 ---
 
 **Date**: 2026-04-30
-**Task**: Update inline references in active content following the 17:54 UTC coalesce of `concepts/consciousness-and-creativity.md` + `concepts/phenomenology-of-creative-insight.md` into `concepts/creative-consciousness.md`.
+**Task**: Update inline references in active content following the 17:54 UTC coalesce of [concepts/consciousness-and-creativity.md](/concepts/creative-consciousness/) + [concepts/phenomenology-of-creative-insight.md](/concepts/creative-consciousness/) into [concepts/creative-consciousness.md](/concepts/creative-consciousness/).
 **Scope**: 27 active content files across `concepts/`, `topics/`, `voids/`. Excluded review archive, workflow files, and the new article's own citation/redirect frontmatter.
 
 ## Approach
@@ -72,7 +72,7 @@ For inline body references where the prose specifically names the *phenomenology
 
 ## Anchor Verification
 
-Confirmed `## The Phenomenology of Creative Insight` section exists in `concepts/creative-consciousness.md` (line 115) before applying anchored references. Inline references that previously pointed to `[...](/concepts/creative-consciousness/)` now use `[...](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight)` so readers land at the relevant section rather than the article top.
+Confirmed `## The Phenomenology of Creative Insight` section exists in [concepts/creative-consciousness.md](/concepts/creative-consciousness/) (line 115) before applying anchored references. Inline references that previously pointed to `[...](/concepts/creative-consciousness/)` now use `[...](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight)` so readers land at the relevant section rather than the article top.
 
 ## Cliché Audit
 
@@ -80,7 +80,7 @@ Zero "This is not X. It is Y." cliché violations found in any of the 27 touched
 
 ## Files Intentionally NOT Modified
 
-- `concepts/creative-consciousness.md` — its `superseded_by`/`original_path` references and References-list URLs to the archived original paths (lines 55–56, 263–264) are correct: they record the article's coalesce provenance and academic citations to the now-archived original publications.
+- [concepts/creative-consciousness.md](/concepts/creative-consciousness/) — its `superseded_by`/`original_path` references and References-list URLs to the archived original paths (lines 55–56, 263–264) are correct: they record the article's coalesce provenance and academic citations to the now-archived original publications.
 - `archive/concepts/consciousness-and-creativity.md`, `archive/concepts/phenomenology-of-creative-insight.md` — archive notes that hold the redirects.
 - Files under `obsidian/workflow/` (todo, changelog, weekly archives) and `obsidian/reviews/` — historical records; should not be retroactively rewritten.
 

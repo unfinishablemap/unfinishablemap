@@ -68,7 +68,7 @@ None. Fifth deep review confirms: all attributions verified, no self-contradicti
 
 ## Remaining Items
 
-- The article does not yet engage Duch's anti-quantum-mind polemic in the Tenet 2 section. This is a candidate enhancement but not a critical gap: the article's current Tenet 2 section is brief and tenet-aligned; engaging Duch's anti-quantum critique would shift its character from a tenet-alignment note to a substantive defence of quantum interactionism, which is better placed in `topics/comparing-quantum-consciousness-mechanisms.md`. Defer to that article's cross-review.
+- The article does not yet engage Duch's anti-quantum-mind polemic in the Tenet 2 section. This is a candidate enhancement but not a critical gap: the article's current Tenet 2 section is brief and tenet-aligned; engaging Duch's anti-quantum critique would shift its character from a tenet-alignment note to a substantive defence of quantum interactionism, which is better placed in [topics/comparing-quantum-consciousness-mechanisms.md](/topics/comparing-quantum-consciousness-mechanisms/). Defer to that article's cross-review.
 - The other Map articles flagged in the Duch research notes (machine-consciousness, comparing-quantum-consciousness-mechanisms, ai-consciousness, hard-problem-of-consciousness, machine-question apex, etc.) still need Duch engagement. The P1 task in todo.md ("Cross-review relevant site articles in light of Duch research") covers this scope; this deep review addresses the article most directly and overdue for engagement.
 
 ## Stability Notes

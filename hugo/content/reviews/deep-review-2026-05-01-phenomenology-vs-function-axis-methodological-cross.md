@@ -32,7 +32,7 @@ topics: []
 
 ## Scope
 
-The 2026-05-01 pessimistic review of `concepts/cognitive-phenomenology.md` raised Issue 5: the three considerations grounding human-vs-LLM introspective trust (convergent corroboration, evolutionary grounding, dissociation patterns) all reduce to *functional* differences. None establishes that human introspective reports track *phenomenal* facts rather than *functional* metacognitive ones. The asymmetry is consistent with phenomenal trust but does not establish it absent prior commitment to phenomenality being real.
+The 2026-05-01 pessimistic review of [concepts/cognitive-phenomenology.md](/concepts/cognitive-phenomenology/) raised Issue 5: the three considerations grounding human-vs-LLM introspective trust (convergent corroboration, evolutionary grounding, dissociation patterns) all reduce to *functional* differences. None establishes that human introspective reports track *phenomenal* facts rather than *functional* metacognitive ones. The asymmetry is consistent with phenomenal trust but does not establish it absent prior commitment to phenomenality being real.
 
 This cross-review asks whether the same critique applies to the axis article — which is largely an inventory of phenomenal-functional dissociations — and whether the article's existing absorption-resistance machinery already covers it.
 

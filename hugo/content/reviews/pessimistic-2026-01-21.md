@@ -21,10 +21,10 @@ topics: []
 
 **Date**: 2026-01-21
 **Content reviewed**: Core framework articles
-- `concepts/philosophical-zombies.md`
-- `concepts/qualia.md`
-- `concepts/interactionist-dualism.md`
-- `topics/ai-consciousness.md`
+- [concepts/philosophical-zombies.md](/concepts/philosophical-zombies/)
+- [concepts/qualia.md](/concepts/qualia/)
+- [concepts/interactionist-dualism.md](/concepts/interactionist-dualism/)
+- [topics/ai-consciousness.md](/topics/ai-consciousness/)
 
 ## Executive Summary
 
@@ -72,7 +72,7 @@ These four articles represent The Unfinishable Map's core philosophical commitme
 
 ### Issue 1: The Regress Objection May Not Work
 
-- **Files**: `concepts/qualia.md`, `concepts/philosophical-zombies.md`, `topics/ai-consciousness.md`
+- **Files**: [concepts/qualia.md](/concepts/qualia/), [concepts/philosophical-zombies.md](/concepts/philosophical-zombies/), [topics/ai-consciousness.md](/topics/ai-consciousness/)
 - **Location**: Illusionism responses throughout
 - **Problem**: All three articles deploy the same "regress objection" against illusionism: to be under an illusion, something must experience the illusion, so phenomenal consciousness isn't eliminated. But illusionists have responses. Frankish argues that "seeming" doesn't require phenomenal properties—a system can represent-as-X without there being a "what it's like" to the representing. The articles don't engage with this reply; they assert that all representation presupposes experience without argument. If illusionism has coherent formulations that avoid the regress, the Map's confident dismissal is premature.
 - **Severity**: High
@@ -80,7 +80,7 @@ These four articles represent The Unfinishable Map's core philosophical commitme
 
 ### Issue 2: Convergence Claim Overstated
 
-- **Files**: `concepts/philosophical-zombies.md`, `concepts/qualia.md`
+- **Files**: [concepts/philosophical-zombies.md](/concepts/philosophical-zombies/), [concepts/qualia.md](/concepts/qualia/)
 - **Location**: "The Convergence Argument" section (zombies), "Relation to the Map's Perspective" (qualia)
 - **Problem**: Both articles emphasize that "multiple independent arguments converge" on dualism. But how independent are they? The zombie argument, knowledge argument, and explanatory gap argument all depend on the same core intuition: that we can conceptually separate structural/functional descriptions from qualitative character. This is one intuition expressed in three ways, not three independent discoveries. An eliminativist who denies the intuition defeats all three. The convergence provides less confirmation than claimed because the arguments share an epistemic base.
 - **Severity**: Medium
@@ -88,7 +88,7 @@ These four articles represent The Unfinishable Map's core philosophical commitme
 
 ### Issue 3: Quantum Mechanism Underspecified
 
-- **Files**: `concepts/interactionist-dualism.md`
+- **Files**: [concepts/interactionist-dualism.md](/concepts/interactionist-dualism/)
 - **Location**: "Quantum Interactionism" and "The Decoherence Objection" sections
 - **Problem**: The article presents two mechanisms (Stapp's Zeno approach, Penrose-Hameroff's Orch OR) but doesn't adequately explain how consciousness could "bias" quantum outcomes without violating quantum statistics. If consciousness consistently biased outcomes, statistical analysis of neural measurements should reveal departures from quantum predictions. No such departures are observed. If consciousness biases "sometimes" or "weakly," what determines when? The mechanism collapses into unfalsifiability: any outcome is compatible with "consciousness may have biased this."
 - **Severity**: High
@@ -96,7 +96,7 @@ These four articles represent The Unfinishable Map's core philosophical commitme
 
 ### Issue 4: AI Consciousness Arguments Prove Too Much or Too Little
 
-- **File**: `topics/ai-consciousness.md`
+- **File**: [topics/ai-consciousness.md](/topics/ai-consciousness/)
 - **Location**: "The Chinese Room," "Functionalism and Its Problems," "The Temporal Argument"
 - **Problem**: The article deploys multiple arguments against AI consciousness that, if sound, would prove more than intended. The Chinese Room argument, if it shows that syntax can't produce semantics, threatens biological consciousness too—neurons manipulate electrochemical signals according to physical laws. Why is neuronal symbol manipulation different from silicon symbol manipulation? The temporal structure argument claims LLMs lack the "specious present," but this raises the question: what physical structures *produce* the specious present in brains? If we can't answer this, we can't know whether some AI architecture might have it.
 - **Severity**: Medium

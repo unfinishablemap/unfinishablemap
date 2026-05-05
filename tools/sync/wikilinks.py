@@ -103,6 +103,37 @@ def convert_wikilinks(
     return wikilink_pattern.sub(replace_wikilink, content)
 
 
+def promote_backticked_paths_to_links(
+    content: str,
+    content_index: dict[str, str],
+) -> str:
+    """
+    Rewrite inline-code file paths like ``topics/foo.md`` to markdown links when
+    the slug resolves to an existing page.
+
+    Scoped to single-backtick inline code outside fenced code blocks. Section
+    must be in SYNC_DIRS and the slug must be in content_index. Non-resolving
+    paths are left untouched.
+    """
+    section_alt = "|".join(re.escape(s) for s in SYNC_DIRS)
+    code_pattern = re.compile(
+        rf"(?<!`)`({section_alt})/([a-z0-9][a-z0-9\-]*)\.md`(?!`)"
+    )
+
+    def replace(match: re.Match) -> str:
+        section = match.group(1)
+        slug = match.group(2)
+        if slug not in content_index:
+            return match.group(0)
+        url = content_index[slug]
+        return f"[{section}/{slug}.md]({url})"
+
+    parts = re.split(r"(```[\s\S]*?```)", content)
+    for i in range(0, len(parts), 2):
+        parts[i] = code_pattern.sub(replace, parts[i])
+    return "".join(parts)
+
+
 def convert_block_references(content: str) -> str:
     """
     Convert Obsidian block reference markers to HTML anchors.

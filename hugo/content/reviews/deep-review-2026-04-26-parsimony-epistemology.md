@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Cross-review of `concepts/parsimony-epistemology.md` against the new `topics/eliminative-materialism.md` article (created 2026-04-26). The eliminative-materialism article positions parsimony-epistemology as the foundational hub for its diagnosis of eliminativism's central methodological move (applying Occam's Razor to the consciousness explanandum). This review verifies that the two articles converge rather than conflict, and that the parsimony-epistemology article reciprocates the link.
+Cross-review of [concepts/parsimony-epistemology.md](/concepts/parsimony-epistemology/) against the new [topics/eliminative-materialism.md](/topics/eliminative-materialism/) article (created 2026-04-26). The eliminative-materialism article positions parsimony-epistemology as the foundational hub for its diagnosis of eliminativism's central methodological move (applying Occam's Razor to the consciousness explanandum). This review verifies that the two articles converge rather than conflict, and that the parsimony-epistemology article reciprocates the link.
 
 ## Pessimistic Analysis Summary
 

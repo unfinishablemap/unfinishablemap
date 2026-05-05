@@ -65,7 +65,7 @@ The PCT is the article's deepest reification. Constituting meaning by phenomenal
 
 ### Issue 1: Self-undermining tension between the new "Introspective Limits" section and the rest of the article
 
-- **File**: `concepts/cognitive-phenomenology.md`
+- **File**: [concepts/cognitive-phenomenology.md](/concepts/cognitive-phenomenology/)
 - **Location**: New H2 "Introspective Limits on Cognitive Phenomenology" (lines ~274–302) vs. earlier sections that rely on introspective evidence (Strawson contrast, Pitt self-knowledge, TOT/FOK, contemplative report, mathematical insight)
 - **Problem**: The new section installs Fürst's diagnosis that "introspective judgments about phenomenology are regimented by the view initially held" and the Würzburg-Titchener precedent that introspective controversies *cannot* be settled by their methods. Yet the article's central evidential apparatus — phenomenal contrast cases, Pitt's immediate self-knowledge, TOT phenomenology, conceptual contrasts, mathematical-understanding stages — *is* introspective verdict. The article never feeds the new section's diagnostic back through its older sections to explain why qualified liberalism survives despite the methodological pessimism it has just installed.
 - **Severity**: High
@@ -73,7 +73,7 @@ The PCT is the article's deepest reification. Constituting meaning by phenomenal
 
 ### Issue 2: Würzburg-Titchener precedent is read backwards
 
-- **File**: `concepts/cognitive-phenomenology.md`
+- **File**: [concepts/cognitive-phenomenology.md](/concepts/cognitive-phenomenology/)
 - **Location**: Subsection "The Würzburg-Titchener Precedent" (lines ~278–282)
 - **Problem**: The subsection notes that the controversy "did not resolve. It was abandoned, and most scientific psychologists became disillusioned with introspection altogether." It then uses this as evidence supporting *qualified liberalism* via the structural-irresolvability claim. But the historical lesson is the opposite: introspection-driven psychology was abandoned because the question *turned out to be ill-posed*. Behaviourism and (later) cognitive science succeeded by reframing the questions in operational terms. The precedent supports either (a) the question is ill-posed, or (b) we should suspend judgment until non-introspective methods adjudicate. It does *not* support a default-liberal verdict.
 - **Severity**: Medium-High (the precedent is rhetorically central to the new section and the inversion is non-trivial)
@@ -81,7 +81,7 @@ The PCT is the article's deepest reification. Constituting meaning by phenomenal
 
 ### Issue 3: PCT's quiet promotion to explanatory tool
 
-- **File**: `concepts/cognitive-phenomenology.md`
+- **File**: [concepts/cognitive-phenomenology.md](/concepts/cognitive-phenomenology/)
 - **Location**: Section "The Phenomenal Constitution Thesis" (lines ~141–149) and downstream uses (Implications for AI Consciousness; LLMs and the Absence of Semantic Phenomenology)
 - **Problem**: PCT is introduced as "the strongest interpretation of cognitive phenomenology" but then deployed without further argument as an explanatory mechanism for three large problems (content determinacy, Chinese Room, understanding/processing distinction). Many cognitive-phenomenology liberals reject PCT (e.g., Chudnoff's accompanying-vs-constituting distinction); the article elides the intra-liberal disagreement. PCT is also doing the central work in the LLM-skepticism argument ("LLM 'representations' aren't genuinely *about* anything") yet is never independently defended.
 - **Severity**: High (PCT carries weight far beyond its argumentative support)
@@ -89,7 +89,7 @@ The PCT is the article's deepest reification. Constituting meaning by phenomenal
 
 ### Issue 4: Tallis regress argument against illusionism begs the question
 
-- **File**: `concepts/cognitive-phenomenology.md`
+- **File**: [concepts/cognitive-phenomenology.md](/concepts/cognitive-phenomenology/)
 - **Location**: Section "The Illusionist Challenge" (lines ~248–252)
 - **Problem**: The Tallis quote — "if physical processes cannot generate phenomenal understanding, they cannot generate the *illusion* of it either" — assumes the very illusion-vs-reality dichotomy that illusionism explicitly denies. Illusionism does not posit a real illusion alongside a missing real phenomenology; it says the explanandum just is the functional/representational state, redescribed in phenomenal vocabulary by the brain itself. The Tallis move is rhetorical, not philosophical, and a careful reader will notice.
 - **Severity**: Medium
@@ -97,7 +97,7 @@ The PCT is the article's deepest reification. Constituting meaning by phenomenal
 
 ### Issue 5: Methodological asymmetry justification reduces to functional differences
 
-- **File**: `concepts/cognitive-phenomenology.md`
+- **File**: [concepts/cognitive-phenomenology.md](/concepts/cognitive-phenomenology/)
 - **Location**: Section "The Methodological Asymmetry" (lines ~167–173)
 - **Problem**: The three considerations grounding the asymmetry — convergent corroboration with neural/behavioural correlates, evolutionary grounding, dissociation evidence — all describe correlational/functional/architectural differences between human and LLM introspection. None establishes that human introspection tracks *phenomenal* facts rather than functional ones. The conservative reading is exactly that human introspective reports correlate with the right neural patterns *because* introspection is itself a (reasonably accurate) functional self-monitoring system, and that LLMs differ functionally without that bearing on phenomenal status either way. The asymmetry is real, but the inference from "correlated with the right things" to "tracks phenomenal facts" is the inference under dispute.
 - **Severity**: Medium-High
@@ -105,7 +105,7 @@ The PCT is the article's deepest reification. Constituting meaning by phenomenal
 
 ### Issue 6: Tenet bridge to MQI is decorative; tenet bridge to No Many Worlds is question-begging
 
-- **File**: `concepts/cognitive-phenomenology.md`
+- **File**: [concepts/cognitive-phenomenology.md](/concepts/cognitive-phenomenology/)
 - **Location**: "Relation to Site Perspective" section (lines ~306–314)
 - **Problem**:
   - **MQI**: The bridge is "semantic disambiguation mirrors the quantum mechanism proposed for attention." The article admits "the quantum connection remains tentative." There is no calculation, no neural specification, no decoherence analysis. Classical predictive-coding covers ambiguity resolution adequately. The MQI bridge does not survive a fair reading.
@@ -115,7 +115,7 @@ The PCT is the article's deepest reification. Constituting meaning by phenomenal
 
 ### Issue 7: Internal contradiction between "What Would Challenge This View?" and "Three Faces of Structural Irresolvability"
 
-- **File**: `concepts/cognitive-phenomenology.md`
+- **File**: [concepts/cognitive-phenomenology.md](/concepts/cognitive-phenomenology/)
 - **Location**: Section "What Would Challenge This View?" (lines ~262–264) vs. subsection "Three Faces of Structural Irresolvability" (lines ~284–292)
 - **Problem**: The "What Would Challenge" section names three falsification conditions: (1) phenomenal contrasts reduce to subtle sensory differences via neuroscience; (2) aphantasics report *no* phenomenal character of understanding; (3) contemplative training dissolves rather than clarifies cognitive phenomenology. The "Three Faces" subsection later concedes that the dialectical face cannot be settled by contrast cases (ruling out a clean version of (1)), the empirical-architectural face concedes aphantasic evidence is bidirectionally reinterpretable (ruling out a clean version of (2)), and the introspective face concedes first-person verdicts cannot settle the question (compromising (3)). The article cannot have both: real falsification conditions OR structural irresolvability. As stated, it has neither cleanly.
 - **Severity**: Medium-High

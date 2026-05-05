@@ -99,5 +99,5 @@ None requiring immediate action. Two items noted for future consideration if con
 
 | File | Change | Rationale |
 |------|--------|-----------|
-| `voids/embodiment-cognitive-limits.md` | Added wikilink + one sentence in §"Interoception and the First-Person Perspective"; added `[interoceptive-void](/voids/interoceptive-void/)` to related_articles | The article had a full section on interoception but no cross-link to the new void article. |
-| `voids/boundary-and-projection.md` | Added wikilink at Tsakiris (2011) reference in §Evidence; added `[interoceptive-void](/voids/interoceptive-void/)` to related_articles | The article cited interoceptive-awareness research as evidence for boundary plasticity but did not connect it to the interoceptive void. |
+| [voids/embodiment-cognitive-limits.md](/voids/embodiment-cognitive-limits/) | Added wikilink + one sentence in §"Interoception and the First-Person Perspective"; added `[interoceptive-void](/voids/interoceptive-void/)` to related_articles | The article had a full section on interoception but no cross-link to the new void article. |
+| [voids/boundary-and-projection.md](/voids/boundary-and-projection/) | Added wikilink at Tsakiris (2011) reference in §Evidence; added `[interoceptive-void](/voids/interoceptive-void/)` to related_articles | The article cited interoceptive-awareness research as evidence for boundary plasticity but did not connect it to the interoceptive void. |

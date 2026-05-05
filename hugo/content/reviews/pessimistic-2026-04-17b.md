@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-17b
 # Pessimistic Review
 
 **Date**: 2026-04-17
-**Content reviewed**: `voids/anesthesia-void.md`, `topics/split-brain-consciousness.md`, `concepts/quantum-interpretations.md`
+**Content reviewed**: [voids/anesthesia-void.md](/voids/anesthesia-void/), [topics/split-brain-consciousness.md](/topics/split-brain-consciousness/), [concepts/quantum-interpretations.md](/concepts/quantum-interpretations/)
 
 ## Executive Summary
 

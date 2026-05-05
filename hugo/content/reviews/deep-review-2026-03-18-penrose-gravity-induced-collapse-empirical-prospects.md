@@ -48,14 +48,14 @@ None. All six adversarial personas engaged. Attribution accuracy remains strong�
 
 ### Enhancements Made
 - **8 inbound cross-links added** from existing articles to integrate this orphan into site navigation:
-  1. `concepts/spontaneous-collapse-theories.md` — inline link in Penrose OR section + Further Reading entry
-  2. `topics/comparing-quantum-consciousness-mechanisms.md` — inline link in Orch OR falsifiability section + Further Reading entry
-  3. `topics/amplification-mechanisms-consciousness-physics.md` — inline link in microtubule section
-  4. `concepts/prebiotic-collapse.md` — inline link in objective reduction section + Further Reading entry
-  5. `topics/philosophical-stakes-of-spontaneous-collapse.md` — inline link in Penrose OR section + Further Reading entry
-  6. `concepts/measurement-problem.md` — inline link in objective collapse theories section
-  7. `topics/decoherence-and-macroscopic-superposition.md` — Further Reading entry
-  8. `topics/consciousness-and-mathematical-cognition.md` — inline link in Penrose's Gödelian Argument section
+  1. [concepts/spontaneous-collapse-theories.md](/concepts/spontaneous-collapse-theories/) — inline link in Penrose OR section + Further Reading entry
+  2. [topics/comparing-quantum-consciousness-mechanisms.md](/topics/comparing-quantum-consciousness-mechanisms/) — inline link in Orch OR falsifiability section + Further Reading entry
+  3. [topics/amplification-mechanisms-consciousness-physics.md](/topics/amplification-mechanisms-consciousness-physics/) — inline link in microtubule section
+  4. [concepts/prebiotic-collapse.md](/concepts/prebiotic-collapse/) — inline link in objective reduction section + Further Reading entry
+  5. [topics/philosophical-stakes-of-spontaneous-collapse.md](/topics/philosophical-stakes-of-spontaneous-collapse/) — inline link in Penrose OR section + Further Reading entry
+  6. [concepts/measurement-problem.md](/concepts/measurement-problem/) — inline link in objective collapse theories section
+  7. [topics/decoherence-and-macroscopic-superposition.md](/topics/decoherence-and-macroscopic-superposition/) — Further Reading entry
+  8. [topics/consciousness-and-mathematical-cognition.md](/topics/consciousness-and-mathematics/) — inline link in Penrose's Gödelian Argument section
 
 ### Cross-links Added
 - 8 inbound links from existing articles (see above)

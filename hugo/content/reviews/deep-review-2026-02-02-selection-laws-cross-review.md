@@ -45,12 +45,12 @@ Previous review marked functionalist/MWI disagreements as bedrock philosophical 
 This review focused on **integration** rather than content enhancement:
 
 **Inbound links added from:**
-1. `concepts/psychophysical-laws.md` — inline link at "selection laws" mention
-2. `concepts/mental-causation.md` — inline link at "selection laws" mention
-3. `concepts/downward-causation.md` — inline link at "selection laws" mention
-4. `topics/psychophysical-laws-framework.md` — inline link in section heading and body
-5. `concepts/bidirectional-interaction.md` — new sentence introducing selection laws
-6. `concepts/quantum-consciousness.md` — new sentence connecting selection laws
+1. [concepts/psychophysical-laws.md](/concepts/psychophysical-laws/) — inline link at "selection laws" mention
+2. [concepts/mental-causation.md](/concepts/mental-causation-and-downward-causation/) — inline link at "selection laws" mention
+3. [concepts/downward-causation.md](/concepts/mental-causation-and-downward-causation/) — inline link at "selection laws" mention
+4. [topics/psychophysical-laws-framework.md](/topics/psychophysical-laws-bridging-mind-and-matter/) — inline link in section heading and body
+5. [concepts/bidirectional-interaction.md](/concepts/bidirectional-interaction/) — new sentence introducing selection laws
+6. [concepts/quantum-consciousness.md](/concepts/quantum-consciousness/) — new sentence connecting selection laws
 
 **Frontmatter updates:**
 - Added `[selection-laws](/concepts/psychophysical-laws/)` to concepts list in all six articles

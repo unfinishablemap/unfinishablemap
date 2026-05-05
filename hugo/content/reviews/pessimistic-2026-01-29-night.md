@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-29
 **Content reviewed**:
-- `concepts/access-consciousness.md`
-- `concepts/counterfactual-reasoning.md`
-- `concepts/phenomenal-overflow.md`
+- [concepts/access-consciousness.md](/concepts/access-consciousness/)
+- [concepts/counterfactual-reasoning.md](/concepts/counterfactual-reasoning/)
+- [concepts/phenomenal-overflow.md](/concepts/phenomenal-overflow/)
 
 ## Executive Summary
 
@@ -129,7 +129,7 @@ Buddhist analysis suggests a different interpretation. What appears as 'phenomen
 
 ### Issue 1: The Access/Phenomenal Distinction Begs the Question
 
-- **File**: `concepts/access-consciousness.md`
+- **File**: [concepts/access-consciousness.md](/concepts/access-consciousness/)
 - **Location**: Lines 36-39
 - **Problem**: The article presents Block's distinction as revealing something about consciousness, but the distinction is a conceptual stipulation that assumes phenomenology is distinct from function. Functionalists reject this assumption: they hold that phenomenology just *is* certain functional properties. The article claims dissociations (blindsight, overflow) support the distinction, but these cases are contested precisely because they presuppose the distinction. Blindsight's 'access without phenomenology' assumes we can identify absent phenomenology—but if phenomenology were functional availability, blindsight would show reduced phenomenology matching reduced access. The article uses the distinction to interpret the evidence, then cites the evidence as supporting the distinction.
 - **Severity**: High
@@ -137,7 +137,7 @@ Buddhist analysis suggests a different interpretation. What appears as 'phenomen
 
 ### Issue 2: Counterfactual Reasoning "Requires" Consciousness Is Stipulative
 
-- **File**: `concepts/counterfactual-reasoning.md`
+- **File**: [concepts/counterfactual-reasoning.md](/concepts/counterfactual-reasoning/)
 - **Location**: Lines 34-36
 - **Problem**: The article claims 'consciousness is *necessary* for generating and manipulating representations of non-actual states.' This strong claim is defended by correlation (working memory demands, great ape gaps) rather than demonstrated necessity. The article doesn't address AI systems that generate counterfactual scenarios (LLMs produce novel 'what if' reasoning) or non-conscious cognitive processes that might accomplish similar tasks. The distinction between 'implicit counterfactual reactions' (unconscious) and 'explicit counterfactual reasoning' (conscious) is stipulative—it defines conscious counterfactual reasoning as the real thing rather than establishing the distinction empirically.
 - **Severity**: High
@@ -145,7 +145,7 @@ Buddhist analysis suggests a different interpretation. What appears as 'phenomen
 
 ### Issue 3: Overflow Unfalsifiability Undermines Evidential Value
 
-- **File**: `concepts/phenomenal-overflow.md`
+- **File**: [concepts/phenomenal-overflow.md](/concepts/phenomenal-overflow/)
 - **Location**: Lines 166-170
 - **Problem**: The article acknowledges overflow 'may be unfalsifiable from a strictly third-person perspective' and that 'unfalsifiability is generally a mark against a hypothesis.' It then says this is 'exactly what we'd expect if phenomenology genuinely transcends function.' But this move is epistemically problematic: any unfalsifiable hypothesis can claim its unfalsifiability confirms its transcendence of our methods. The honest acknowledgment undermines the article's use of overflow as evidence for dualism—if we can't verify overflow empirically, it can't serve as an empirical argument for the phenomenal/functional distinction.
 - **Severity**: High
@@ -153,7 +153,7 @@ Buddhist analysis suggests a different interpretation. What appears as 'phenomen
 
 ### Issue 4: Stapp's Quantum Mechanism Faces Timescale Objections
 
-- **File**: `concepts/access-consciousness.md`
+- **File**: [concepts/access-consciousness.md](/concepts/access-consciousness/)
 - **Location**: Lines 141, 153-156
 - **Problem**: The article presents Stapp's quantum Zeno mechanism as a 'concrete proposal' for how attention controls what becomes accessible. It describes this as 'speculative and contested among physicists' but doesn't explain why it's contested. The core objection is timescales: the quantum Zeno effect requires measurements faster than system evolution (nanoseconds or less); attention operates at hundreds of milliseconds. The article's phrase 'rapid repeated observations' sounds scientific but doesn't engage with the six-order-of-magnitude timescale mismatch.
 - **Severity**: Medium
@@ -161,7 +161,7 @@ Buddhist analysis suggests a different interpretation. What appears as 'phenomen
 
 ### Issue 5: Great Ape Gap Evidence Is Qualified Into Unfalsifiability
 
-- **File**: `concepts/counterfactual-reasoning.md`
+- **File**: [concepts/counterfactual-reasoning.md](/concepts/counterfactual-reasoning/)
 - **Location**: Lines 72-78
 - **Problem**: The article claims great apes show 'limited capacity for counterfactual thinking' but acknowledges some evidence for future planning (tool preparation, delayed gratification). It handles this by adding temporal horizon qualifications: 'even supportive evidence reveals limited temporal horizons compared to human prospection.' This pattern—interpreting any animal success as 'limited' compared to humans—makes the claim unfalsifiable. Whatever great apes demonstrate can be recharacterized as not quite counterfactual reasoning.
 - **Severity**: Medium
@@ -169,7 +169,7 @@ Buddhist analysis suggests a different interpretation. What appears as 'phenomen
 
 ### Issue 6: MWI Phenomenology Arguments Don't Distinguish Interpretations
 
-- **File**: `concepts/access-consciousness.md`
+- **File**: [concepts/access-consciousness.md](/concepts/access-consciousness/)
 - **Location**: Lines 182-192
 - **Problem**: The article argues against MWI by claiming the phenomenology of selection ('which option *you* chose') can't be answered by 'both became A-conscious on different branches.' But MWI proponents have responses: within each branch, there's a determinate fact about what that branch's occupant chose. The phenomenology of choosing is identical on both interpretations—you deliberate, you choose, one outcome becomes actual for you. The article claims 'Why do I experience this option becoming A-conscious rather than that one?' can't be answered by branching, but MWI answers it: 'Because you're the version in this branch.'
 - **Severity**: Medium

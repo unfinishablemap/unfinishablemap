@@ -26,9 +26,9 @@ topics: []
 The prior deep review (2026-04-16) was the first review of the coalesced article and concluded: no critical issues, McGinn and Polanyi citations integrated, Husserl removed, length-neutral tightenings applied. It explicitly noted "Cross-linking is saturated."
 
 This review is the follow-up cross-review pass requested by the automation system, checking the article's relationships with:
-- `voids/framework-void.md`
-- `topics/phenomenology-of-intellectual-life.md`
-- `topics/phenomenology-of-intellectual-courage.md`
+- [voids/framework-void.md](/voids/conceptual-scheme-void/)
+- [topics/phenomenology-of-intellectual-life.md](/topics/phenomenology-of-intellectual-life/)
+- [topics/phenomenology-of-intellectual-courage.md](/topics/phenomenology-of-intellectual-courage/)
 
 ## Pessimistic Analysis Summary
 

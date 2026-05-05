@@ -104,7 +104,7 @@ The article reifies what should be deconstructed. A void, by its name, is empty 
 - **Location**: whole article
 - **Problem**: Apex articles were constituted as human-readable synthesis pieces drawing across the Map's content domains — philosophical territory, not editorial machinery. This article is an apex piece on how the Map's editor-agent does merger decisions. It synthesises across other apex articles' coalescence histories and the methodology pages, not across philosophical territory. The Map already has a `project/` section for methodology and infrastructure. Hosting editorial-discipline content at apex risks hollowing the apex layer — if the Map's most prominent synthesis pieces are about its own editorial habits, the synthesis layer drifts toward navel-gazing.
 - **Severity**: Medium
-- **Recommendation**: Consider relocating to `project/` as `project/conjunction-coalesce.md` (methodology and editorial discipline), keeping the seam-test content but framing it as project-internal documentation rather than apex synthesis. Alternatively, justify explicitly why this *is* apex-level synthesis (e.g., what philosophical claim it makes that isn't reducible to editorial procedure).
+- **Recommendation**: Consider relocating to `project/` as [project/conjunction-coalesce.md](/apex/conjunction-coalesce/) (methodology and editorial discipline), keeping the seam-test content but framing it as project-internal documentation rather than apex synthesis. Alternatively, justify explicitly why this *is* apex-level synthesis (e.g., what philosophical claim it makes that isn't reducible to editorial procedure).
 
 ### Issue 8: Self-praise without external validation
 

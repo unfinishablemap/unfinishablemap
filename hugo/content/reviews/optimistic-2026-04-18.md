@@ -130,7 +130,7 @@ The [metaphor-void](/voids/metaphor-void/) deep-review's catch of the Derrida/An
 ### Ideas for Later
 
 - The doubly-sealed void as a taxonomic category in [taxonomy-of-voids](/apex/taxonomy-of-voids/) — the transformative-experience-void introduces a specific structural shape (both temporal stages of the same subject sealed) that does not fit any existing category cleanly. The taxonomy article could add this as a distinct pattern.
-- Attribution hygiene as a cross-article discipline — four separate attribution fixes in a single night suggests that a brief methodological note in `project/writing-style.md` on when to suspect that a quoted phrase is second-hand (named sources, famous phrases, "coins" cases) would be helpful for future reviews.
+- Attribution hygiene as a cross-article discipline — four separate attribution fixes in a single night suggests that a brief methodological note in [project/writing-style.md](/project/writing-style/) on when to suspect that a quoted phrase is second-hand (named sources, famous phrases, "coins" cases) would be helpful for future reviews.
 - Preview states and their structural limits — the transformative-experience-void mentions preview states (babysitting, short trips, meditative retreats) in a single paragraph. A focused piece on which features of transformation previews can track and which they systematically cannot would be valuable.
 
 ## Cross-Linking Suggestions

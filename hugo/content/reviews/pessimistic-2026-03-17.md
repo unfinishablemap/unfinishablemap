@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-03-17
 # Pessimistic Review
 
 **Date**: 2026-03-17
-**Content reviewed**: `topics/ai-consciousness.md`, `concepts/epiphenomenalism.md`, `concepts/philosophical-zombies.md`
+**Content reviewed**: [topics/ai-consciousness.md](/topics/ai-consciousness/), [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/), [concepts/philosophical-zombies.md](/concepts/philosophical-zombies/)
 
 ## Executive Summary
 
@@ -51,35 +51,35 @@ The Epiphenomenalism article's "AI Exception" section is interesting from a Budd
 ## Critical Issues
 
 ### Issue 1: Self-Stultification Overreliance
-- **File**: `concepts/epiphenomenalism.md`, `concepts/philosophical-zombies.md`
+- **File**: [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/), [concepts/philosophical-zombies.md](/concepts/philosophical-zombies/)
 - **Location**: Self-stultification sections in both articles
 - **Problem**: Both articles treat the self-stultification argument as "the most powerful objection" to epiphenomenalism, but the argument has a well-known limitation: it shows that *rational belief* in epiphenomenalism is self-undermining, not that epiphenomenalism is *false*. The Epiphenomenalism article acknowledges this parenthetically ("Not logically contradictory—it could still be true") but then proceeds as if the argument is decisive. The AI Exception section in the same article actually *weakens* the argument further by showing its scope is limited to human consciousness. These qualifications need more prominence.
 - **Severity**: Medium
 - **Recommendation**: Restructure to present the self-stultification argument as one of several converging objections rather than the single "most powerful" one. Give equal prominence to the evolutionary and amplification arguments, which are empirically grounded and do not have the same epistemic-vs-metaphysical limitation.
 
 ### Issue 2: Functionalism Dismissed Too Quickly
-- **File**: `topics/ai-consciousness.md`
+- **File**: [topics/ai-consciousness.md](/topics/ai-consciousness/)
 - **Location**: "Functionalism's Failure" section (lines 66-70)
 - **Problem**: The entire critique of functionalism—the philosophical foundation for AI consciousness claims—is compressed into a single short section citing only Block (1978) and Hoel (2025). The section claims functionalism "has not explained why any functional organization should involve subjective experience," but this is the hard problem restated, not a critique specific to functionalism. Sophisticated functionalists (Shoemaker, Lewis, Schwitzgebel) have developed responses that are not engaged with here. The article delegates to the concepts/functionalism article, but as a standalone piece (per the writing style guide's self-containment requirement), it needs to present the strongest functionalist response before dismissing it.
 - **Severity**: Medium
 - **Recommendation**: Expand the functionalism section to engage with at least one sophisticated functionalist response (e.g., Shoemaker's realization functionalism or Lewis's analytic functionalism) before arguing that they fail. Even two sentences engaging the strongest version would improve intellectual credibility.
 
 ### Issue 3: Circular Quantum Argument Against AI
-- **File**: `topics/ai-consciousness.md`
+- **File**: [topics/ai-consciousness.md](/topics/ai-consciousness/)
 - **Location**: Decoherence challenge section (lines 109-115) and Relation to Site Perspective (lines 131-132)
 - **Problem**: The argument structure is: (1) We hold the Minimal Quantum Interaction tenet. (2) Current AI hardware suppresses quantum effects. (3) Therefore, AI probably isn't conscious. The article acknowledges the tenet lacks empirical support, but doesn't sufficiently flag that this makes the "obstacle" for AI consciousness tenet-dependent rather than independently motivated. Arguments that "stand independently of dualism" (as claimed in the Relation to Site Perspective) and arguments that depend on the Map's specific tenets should be more clearly separated throughout the article, not just in the concluding section.
 - **Severity**: Medium
 - **Recommendation**: In the decoherence section itself, explicitly note that this obstacle depends on the Minimal Quantum Interaction tenet and would not exist under physicalism. The current acknowledgment that the tenet "currently lacks direct empirical support" is good but should be connected to a clearer statement about the argument's conditional nature.
 
 ### Issue 4: No Many Worlds / Zombie Connection Unsupported
-- **File**: `concepts/philosophical-zombies.md`
+- **File**: [concepts/philosophical-zombies.md](/concepts/philosophical-zombies/)
 - **Location**: Relation to Site Perspective, Tenet 4 (line 189)
 - **Problem**: The claim that MWI "fragments" personal identity and thereby "undermines the haecceity that makes the zombie scenario coherent" is asserted in a single sentence without argument. MWI multiplies persons rather than fragmenting them; each branch contains determinate facts about consciousness. The zombie argument requires determinate consciousness facts, which MWI provides within each branch. The connection claimed here needs substantial argument to be persuasive.
 - **Severity**: High
 - **Recommendation**: Either develop the argument connecting MWI to zombie conceivability (explaining precisely why branch-multiplicity undermines conceivability—perhaps through issues of cross-branch identity or the lack of a unique consciousness fact), or soften the claim to note that MWI *raises questions about* haecceity rather than definitively undermining it.
 
 ### Issue 5: Unresolved AI Refinement Logs
-- **File**: `concepts/epiphenomenalism.md` (lines 207-217), `concepts/philosophical-zombies.md` (lines 222-235)
+- **File**: [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/) (lines 207-217), [concepts/philosophical-zombies.md](/concepts/philosophical-zombies/) (lines 222-235)
 - **Location**: End of both files
 - **Problem**: Both files contain HTML comment blocks labeled "AI REFINEMENT LOG" with notes stating "This log should be removed after human review." These logs have been present since 2026-02-24 and 2026-03-08 respectively—nearly a month and over a week without human review. While not a content issue per se, their persistence suggests the human review process may not be catching up with AI modifications.
 - **Severity**: Low

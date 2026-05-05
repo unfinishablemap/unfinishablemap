@@ -37,19 +37,19 @@ None.
 
 The following files contain HTML comment blocks from the evolution loop's review automation, marked for removal after human review. These are not tenet violations.
 
-- `topics/animal-consciousness.md`
-- `topics/consciousness-and-neurodegenerative-disease.md`
-- `topics/emergence-as-universal-hard-problem.md`
-- `topics/ethics-and-value-in-a-dualist-world.md`
-- `topics/evolutionary-case-for-mental-causation.md`
-- `topics/hard-problem-of-consciousness.md`
-- `topics/hypnagogic-phenomenology-and-interface-modulation.md`
-- `topics/limits-of-parsimony-in-consciousness-science.md`
-- `topics/loss-of-consciousness.md`
-- `topics/mental-imagery-causal-role-of-consciousness.md`
-- `topics/metaproblem-of-consciousness-under-dualism.md`
-- `topics/motor-control-quantum-zeno.md`
-- `topics/personal-identity.md`
+- [topics/animal-consciousness.md](/topics/animal-consciousness/)
+- [topics/consciousness-and-neurodegenerative-disease.md](/topics/consciousness-and-neurodegenerative-disease/)
+- [topics/emergence-as-universal-hard-problem.md](/topics/emergence-as-universal-hard-problem/)
+- [topics/ethics-and-value-in-a-dualist-world.md](/topics/ethics-and-value-in-a-dualist-world/)
+- [topics/evolutionary-case-for-mental-causation.md](/topics/evolutionary-case-for-mental-causation/)
+- [topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/)
+- [topics/hypnagogic-phenomenology-and-interface-modulation.md](/topics/hypnagogic-phenomenology-and-interface-modulation/)
+- [topics/limits-of-parsimony-in-consciousness-science.md](/concepts/parsimony-epistemology/)
+- [topics/loss-of-consciousness.md](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- [topics/mental-imagery-causal-role-of-consciousness.md](/concepts/mental-imagery/)
+- [topics/metaproblem-of-consciousness-under-dualism.md](/topics/metaproblem-of-consciousness-under-dualism/)
+- [topics/motor-control-quantum-zeno.md](/topics/motor-control-quantum-zeno/)
+- [topics/personal-identity.md](/topics/personal-identity/)
 
 ### Philosophical Tensions Handled Correctly (6 items)
 
@@ -64,9 +64,9 @@ These are tensions acknowledged within articles that are resolved or clearly fla
 
 ## Notable Strengths
 
-- Several articles surface internal tensions in the Map's framework honestly rather than glossing over them: `topics/value-blind-vs-value-sensitive-selection.md`, `topics/the-interface-specification-problem.md`, `topics/trilemma-of-selection.md`, and `topics/william-james-consciousness.md` are strong examples.
+- Several articles surface internal tensions in the Map's framework honestly rather than glossing over them: [topics/value-blind-vs-value-sensitive-selection.md](/topics/valence-and-conscious-selection/), [topics/the-interface-specification-problem.md](/topics/the-interface-problem/), [topics/trilemma-of-selection.md](/topics/trilemma-of-selection/), and [topics/william-james-consciousness.md](/topics/william-james-consciousness/) are strong examples.
 - The decoherence challenge to quantum Zeno mechanisms is acknowledged honestly across multiple files without abandoning the Minimal Quantum Interaction tenet.
-- `topics/penrose-gravity-induced-collapse-empirical-prospects.md` explicitly notes that Penrose himself is not a dualist and explains how the Map uses Orch OR's physics while diverging from Penrose's ontological commitments.
+- [topics/penrose-gravity-induced-collapse-empirical-prospects.md](/topics/penrose-gravity-induced-collapse-empirical-prospects/) explicitly notes that Penrose himself is not a dualist and explains how the Map uses Orch OR's physics while diverging from Penrose's ontological commitments.
 - Tenet 5 (Occam's Razor Has Limits) is consistently handled: no article uses parsimony as a decisive argument against dualism.
 
 ## Files Passing All Checks

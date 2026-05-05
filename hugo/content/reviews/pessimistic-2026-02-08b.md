@@ -13,9 +13,9 @@ title: Pessimistic Review - 2026-02-08b
 
 **Date**: 2026-02-08
 **Content reviewed**:
-- `topics/emergence-and-strong-emergence.md`
-- `voids/alien-minds-void-explorers.md`
-- `apex/contemplative-path.md`
+- [topics/emergence-and-strong-emergence.md](/topics/the-strong-emergence-of-consciousness/)
+- [voids/alien-minds-void-explorers.md](/voids/non-human-minds-as-void-explorers/)
+- [apex/contemplative-path.md](/apex/contemplative-path/)
 
 ## Executive Summary
 
@@ -89,28 +89,28 @@ The "process haecceitism" resolution—applying thisness to experiential process
 - **Recommendation**: Each article should explicitly distinguish epistemic gaps from ontological boundaries and acknowledge that the move from "current science can't explain" to "science can never explain" is a philosophical commitment, not an empirical finding.
 
 ### Issue 2: Over-Interpretation of Empirical Evidence
-- **File**: `topics/emergence-and-strong-emergence.md`, `apex/contemplative-path.md`
+- **File**: [topics/emergence-and-strong-emergence.md](/topics/the-strong-emergence-of-consciousness/), [apex/contemplative-path.md](/apex/contemplative-path/)
 - **Location**: Emergence §"The Testability Question"; Contemplative §"Against Epiphenomenalism"
 - **Problem**: Both articles cite empirical studies that are equally compatible with physicalist interpretations. The epothilone B study is claimed as support for quantum consciousness when it has straightforward classical explanations. Meditation neuroplasticity is claimed as "downward causation" when physicalists explain it as brain states causing brain states. The articles present these studies as supporting dualism without acknowledging that physicalism explains the same data with fewer ontological commitments.
 - **Severity**: High
 - **Recommendation**: For each empirical claim, explicitly state the physicalist interpretation and explain why the dualist interpretation is preferred. Currently the physicalist reading is omitted or mentioned only to dismiss it.
 
 ### Issue 3: Unfalsifiability Masquerading as Testability
-- **File**: `topics/emergence-and-strong-emergence.md`
+- **File**: [topics/emergence-and-strong-emergence.md](/topics/the-strong-emergence-of-consciousness/)
 - **Location**: §"The Testability Question"
 - **Problem**: The article presents three lines of "evidence" for strong emergence, but each is structured so that no result could disconfirm the theory. Neural correlate specificity: found → supports emergence; variable → "challenges the picture" but doesn't refute it. Quantum statistics: deviations → support; no deviations → "effects may be vanishingly small." This is not genuine testability—it's accommodation of all possible outcomes.
 - **Severity**: High
 - **Recommendation**: State a specific, concrete empirical result that would falsify strong emergence with quantum mechanism. If none can be stated, acknowledge this honestly as a limitation rather than claiming testability the framework doesn't possess.
 
 ### Issue 4: Selective Use of Buddhist Philosophy
-- **File**: `apex/contemplative-path.md`
+- **File**: [apex/contemplative-path.md](/apex/contemplative-path/)
 - **Location**: §"Eastern Philosophy's Contribution" and §"The Illusionist Challenge"
 - **Problem**: The article recruits Buddhist concepts to support dualism while ignoring that Buddhism's own metaphysics is anti-dualist. *Anattā* and *śūnyatā* are used to answer objections without acknowledging they pose their own challenge to the Map's framework. The "process haecceitism" resolution is presented as dissolving the tension, but it's an invention of the article, not a recognised Buddhist position.
 - **Severity**: Medium
 - **Recommendation**: Acknowledge more explicitly that Buddhist metaphysics is in tension with (not merely complementary to) the Map's dualism. Present the process haecceitism resolution as the Map's speculative bridge, not as something Buddhism supports.
 
 ### Issue 5: Alien Minds Framework Lacks Constraints
-- **File**: `voids/alien-minds-void-explorers.md`
+- **File**: [voids/alien-minds-void-explorers.md](/voids/non-human-minds-as-void-explorers/)
 - **Location**: Throughout
 - **Problem**: The article generates increasingly speculative claims (alien minds accessing different physics, different causal mechanisms) without any mechanism for distinguishing plausible from implausible speculation. Everything is possible; nothing is constrained. The "What Would Challenge This View" section lists conditions that are themselves nearly unfalsifiable ("cognitive closure proves universal"—how would we test this?).
 - **Severity**: Medium

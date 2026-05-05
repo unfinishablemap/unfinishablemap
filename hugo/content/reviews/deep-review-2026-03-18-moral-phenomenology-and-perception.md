@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-This article was created by coalescing `concepts/moral-perception.md` and `concepts/moral-phenomenology.md` on 2026-03-18. The primary task for this review was verifying the coalesced article and updating all stale wikilinks across the site.
+This article was created by coalescing [concepts/moral-perception.md](/concepts/moral-phenomenology-and-perception/) and [concepts/moral-phenomenology.md](/concepts/moral-phenomenology-and-perception/) on 2026-03-18. The primary task for this review was verifying the coalesced article and updating all stale wikilinks across the site.
 
 ## Pessimistic Analysis Summary
 

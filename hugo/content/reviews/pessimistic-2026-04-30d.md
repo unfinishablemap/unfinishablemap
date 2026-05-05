@@ -17,7 +17,7 @@ title: Pessimistic Review - 2026-04-30d
 # Pessimistic Review
 
 **Date**: 2026-04-30
-**Content reviewed**: [Forward-in-Time Conscious Selection](/topics/forward-in-time-conscious-selection/) — coalesced 2026-04-30 19:05 UTC from `topics/non-retrocausal-conscious-selection-models.md` and `topics/post-decoherence-selection-mechanisms.md`; ~4,105 words; cross-linked to 18 `related_articles` and 15 `concepts`. The merged article (i) introduces a four-mechanism taxonomy (Orch OR, Stapp Zeno, Chalmers-McQueen CSL pre-decoherence; a triple of post-decoherence options after); (ii) frames post-decoherence selection as the Map's *primary* response to the timing-gap objection; (iii) leans on the improper/proper mixture distinction (Luppi-Adlam 2012; d'Espagnat 1976) as the philosophical "opening" through which consciousness can act post-decoherence; (iv) lists five considerations favouring forward-in-time over retrocausal selection; (v) connects all five tenets, naming Bidirectional Interaction as enacted directly. No prior pessimistic review exists for the merged article, although both ancestors had multiple deep-reviews. A P2 deep-review chain task (todo.md:40) is queued to verify the merge structurally; this adversarial pass targets the load-bearing interpretive moves — the improper-mixture argument, the post-decoherence framework's coherence as a *mechanism*, the five-considerations list, the structural duplication between pre- and post-decoherence framings, and the selection-criterion regress.
+**Content reviewed**: [Forward-in-Time Conscious Selection](/topics/forward-in-time-conscious-selection/) — coalesced 2026-04-30 19:05 UTC from [topics/non-retrocausal-conscious-selection-models.md](/topics/forward-in-time-conscious-selection/) and [topics/post-decoherence-selection-mechanisms.md](/topics/forward-in-time-conscious-selection/); ~4,105 words; cross-linked to 18 `related_articles` and 15 `concepts`. The merged article (i) introduces a four-mechanism taxonomy (Orch OR, Stapp Zeno, Chalmers-McQueen CSL pre-decoherence; a triple of post-decoherence options after); (ii) frames post-decoherence selection as the Map's *primary* response to the timing-gap objection; (iii) leans on the improper/proper mixture distinction (Luppi-Adlam 2012; d'Espagnat 1976) as the philosophical "opening" through which consciousness can act post-decoherence; (iv) lists five considerations favouring forward-in-time over retrocausal selection; (v) connects all five tenets, naming Bidirectional Interaction as enacted directly. No prior pessimistic review exists for the merged article, although both ancestors had multiple deep-reviews. A P2 deep-review chain task (todo.md:40) is queued to verify the merge structurally; this adversarial pass targets the load-bearing interpretive moves — the improper-mixture argument, the post-decoherence framework's coherence as a *mechanism*, the five-considerations list, the structural duplication between pre- and post-decoherence framings, and the selection-criterion regress.
 
 ## Executive Summary
 
@@ -81,7 +81,7 @@ The "actualisation model" comes closest to seeing the issue — it treats select
 
 ### Issue 1: Improper/proper mixture distinction is FAPP-invisible to local observers
 
-- **File**: `topics/forward-in-time-conscious-selection.md`
+- **File**: [topics/forward-in-time-conscious-selection.md](/topics/forward-in-time-conscious-selection/)
 - **Location**: §"The Improper Mixture Opening" (lines 76–82)
 - **Problem**: The article rests its post-decoherence framework on the philosophical claim that improper and proper mixtures are not *physically equivalent* despite being mathematically identical. This is a real distinction in QM foundations (d'Espagnat is correct), but the article does not engage with the FAPP (For All Practical Purposes) result that the two mixtures produce identical predictions for any local observer with finite resources. Schlosshauer's quote — "decoherence does not tell how and why only one of these outcomes is measured" — describes an *interpretive* gap, not an *operational* one. The article slides from the interpretive gap to the operational claim that consciousness can act on the difference. If consciousness is to act on something that is FAPP-invisible, consciousness has access to information no physical apparatus can have, which is naked dualism rather than a mechanism with a place in the physics.
 - **Severity**: High
@@ -89,7 +89,7 @@ The "actualisation model" comes closest to seeing the issue — it treats select
 
 ### Issue 2: The "three post-decoherence mechanisms" are one mechanism described three ways
 
-- **File**: `topics/forward-in-time-conscious-selection.md`
+- **File**: [topics/forward-in-time-conscious-selection.md](/topics/forward-in-time-conscious-selection/)
 - **Location**: §"Three Post-Decoherence Mechanisms" (lines 110–136)
 - **Problem**: The von Neumann movable cut, the relocated Stapp framework, and the actualisation model are presented as three distinct mechanisms but, on inspection, are three vocabularies for the same minimal commitment: *post-decoherence indeterminacy + consciousness = definite outcome*. The relocated Stapp framework is admitted (line 126) to lose Stapp's specific physical mechanism (Zeno) and preserve only the architectural idea. The actualisation model is admitted (line 134) to make no physical claims at all. The von Neumann movable cut is admitted (line 116) to leave QM agnostic about *where* selection happens — which is mathematical equivalence, not preference for placement at consciousness. The taxonomy creates an appearance of theoretical richness where there is one undeveloped move re-labelled three times. This matters because the article's case for post-decoherence selection's strength leans partly on having multiple options in this section.
 - **Severity**: High
@@ -97,7 +97,7 @@ The "actualisation model" comes closest to seeing the issue — it treats select
 
 ### Issue 3: The selection-criterion problem is a regress, not an open question
 
-- **File**: `topics/forward-in-time-conscious-selection.md`
+- **File**: [topics/forward-in-time-conscious-selection.md](/topics/forward-in-time-conscious-selection/)
 - **Location**: §"What Forward-in-Time Selection Does Not Resolve" — first bullet (line 182)
 - **Problem**: The article lists "the selection criterion problem" as one of four open questions. But it is the question that determines whether the framework has any explanatory traction at all. If consciousness selects pattern A over pattern B, either (i) it has internal reasons (in which case the reason-bearing structure is the actual selection mechanism, and consciousness is a label for it — collapsing the dualism); (ii) it selects randomly (in which case the framework reduces to GRW + Born-rule statistics with no consciousness-specific contribution); or (iii) it selects according to a non-reducible "preference" that admits no further analysis (in which case an unanalysable primitive has been introduced — which is the explanatory failure dualism is often accused of and which the article was meant to remedy). The article does not face this trilemma.
 - **Severity**: High
@@ -105,7 +105,7 @@ The "actualisation model" comes closest to seeing the issue — it treats select
 
 ### Issue 4: Prebiotic-collapse handling introduces dual mechanisms despite framing as unified
 
-- **File**: `topics/forward-in-time-conscious-selection.md`
+- **File**: [topics/forward-in-time-conscious-selection.md](/topics/forward-in-time-conscious-selection/)
 - **Location**: §"The Prebiotic Constraint" (lines 172–176)
 - **Problem**: The article says forward-in-time selection handles the prebiotic problem through "the Map's standard resolution: objective reduction with consciousness modulation." But this is a *dual-mechanism* story: physical mechanisms (gravitational collapse, spontaneous localisation) provide baseline selection in the absence of consciousness; consciousness modulates selection in the presence of a brain. These are two mechanisms doing the same job (producing definite outcomes) with different triggers (universal vs neural). This is *less* parsimonious than a single-mechanism account, not more. The article uses "modulation" to obscure the fact that consciousness is being introduced as an additional cause on top of the physical baseline. The Minimal Quantum Interaction tenet is invoked as supporting forward-in-time selection (line 196) on the grounds that consciousness only acts at one moment — but this counts the per-event minimality while ignoring the *type* count.
 - **Severity**: Medium
@@ -113,7 +113,7 @@ The "actualisation model" comes closest to seeing the issue — it treats select
 
 ### Issue 5: Five considerations include weak grounds and self-undermining ones
 
-- **File**: `topics/forward-in-time-conscious-selection.md`
+- **File**: [topics/forward-in-time-conscious-selection.md](/topics/forward-in-time-conscious-selection/)
 - **Location**: §"Why Forward-in-Time Models May Be Preferable to Retrocausal Models" (lines 158–170)
 - **Problem**: Several of the five considerations do less work than the section implies:
   - **Phenomenological fit** (line 164): the article itself notes phenomenology is not conclusive evidence. Including it as a "favouring consideration" when it is admitted to be non-conclusive treats it asymmetrically; phenomenology is also satisfied by MWI (one experiences being in a branch where the choice is happening) and by epiphenomenalism (the felt sense of choosing is consistent with no real selection at all). It does not discriminate.
@@ -124,7 +124,7 @@ The "actualisation model" comes closest to seeing the issue — it treats select
 
 ### Issue 6: Falsifiability asymmetry is converted from cost to virtue
 
-- **File**: `topics/forward-in-time-conscious-selection.md`
+- **File**: [topics/forward-in-time-conscious-selection.md](/topics/forward-in-time-conscious-selection/)
 - **Location**: §"Why Pre-Decoherence Faces Pressure That Post-Decoherence Does Not" (lines 138–144); reinforced in §"The Actualisation Model" (line 134)
 - **Problem**: The article admits that post-decoherence models operate "at the interpretive level — the gap between formalism and outcome — where empirical access is indirect" (line 144). It then continues to position post-decoherence selection as the Map's "primary response" and "strongest version" of forward-in-time selection. The actualisation model goes further — being "invulnerable to any empirical objection" is described as a "distinctive advantage." Unfalsifiability is being treated as a feature rather than as the cost it is. Popper's ghost is a permanent resident of any methodology section that promises empirical contact.
 - **Severity**: Medium-High
@@ -132,7 +132,7 @@ The "actualisation model" comes closest to seeing the issue — it treats select
 
 ### Issue 7: Structural seam — the coalesce produced parallel framings, not integrated framings
 
-- **File**: `topics/forward-in-time-conscious-selection.md`
+- **File**: [topics/forward-in-time-conscious-selection.md](/topics/forward-in-time-conscious-selection/)
 - **Location**: Throughout — most visible in the alternation between §"The Core Distinction" (forward vs retrocausal) and §"Three Pre-Decoherence Frameworks" / §"Three Post-Decoherence Mechanisms" (pre vs post)
 - **Problem**: The article is structured around two distinct framings: forward-in-time vs retrocausal (a temporal-direction distinction), and pre- vs post-decoherence (a stage-of-collapse distinction). The two framings are not orthogonal — pre-decoherence selection is a sub-type of forward-in-time selection — but the article does not state the relationship clearly upfront. The intro lumps all four mechanisms as "forward-in-time" then bifurcates into pre- and post-decoherence. Readers must hold both framings in mind throughout. The "Macroscopic Superposition Question" section returns to pre-decoherence-specific empirical issues halfway through the article, after both pre- and post- frameworks have been introduced, breaking the structural flow.
 - **Severity**: Medium
@@ -140,7 +140,7 @@ The "actualisation model" comes closest to seeing the issue — it treats select
 
 ### Issue 8: Contested empirical claims do load-bearing work while being hedged
 
-- **File**: `topics/forward-in-time-conscious-selection.md`
+- **File**: [topics/forward-in-time-conscious-selection.md](/topics/forward-in-time-conscious-selection/)
 - **Location**: §"The Macroscopic Superposition Question" (lines 146–156)
 - **Problem**: The article cites Hagan et al. (2002) and the 2025 *Frontiers in Human Neuroscience* coherence-domain study to keep pre-decoherence selection viable. Both are explicitly hedged — Hagan as "contested" with "no independent group has replicated their results"; the 2025 study as "extraordinary and as yet unreplicated." Yet the article continues to treat these as evidence of plausibility ("recent findings support plausibility"). This is the *unfalsifiable middle*: claims hedged enough to escape refutation while invoked confidently enough to do supportive work. If these studies fail to replicate (which their hedging suggests is the prudent expectation), the entire pre-decoherence side of the four-mechanism taxonomy collapses.
 - **Severity**: Medium
@@ -148,7 +148,7 @@ The "actualisation model" comes closest to seeing the issue — it treats select
 
 ### Issue 9: McQueen (2023) defence of Orch OR is presented without burden-of-proof note
 
-- **File**: `topics/forward-in-time-conscious-selection.md`
+- **File**: [topics/forward-in-time-conscious-selection.md](/topics/forward-in-time-conscious-selection/)
 - **Location**: §"Orchestrated Objective Reduction" (line 92)
 - **Problem**: The article reports that the 2022 Gran Sasso experiment ruled out the simplest version of the Diósi-Penrose collapse model and that McQueen (2023) argues this does not apply to Orch OR proper because the refuted variant was generic DP collapse rather than biologically orchestrated collapse. This is reported without comment on the burden-of-proof asymmetry: when a theory's underlying physics is empirically refuted in its simplest form, the burden is on defenders to show *why* a more specific variant escapes the same constraint, not on critics to extend the refutation. McQueen's article presents the case but the field has not converged on accepting it, and a reasonable reader needs the burden-of-proof signal to evaluate the citation.
 - **Severity**: Low-Medium
@@ -156,7 +156,7 @@ The "actualisation model" comes closest to seeing the issue — it treats select
 
 ### Issue 10: Bidirectional Interaction tenet enacted by assumption rather than argument
 
-- **File**: `topics/forward-in-time-conscious-selection.md`
+- **File**: [topics/forward-in-time-conscious-selection.md](/topics/forward-in-time-conscious-selection/)
 - **Location**: §"Relation to Site Perspective" (line 198)
 - **Problem**: The article writes: "The brain presents decohered alternatives to consciousness (world-to-mind); consciousness selects among them (mind-to-world). The trilemma of selection shows that this directed resolution of genuine indeterminacy is the only framework that preserves authorship — neither determinism nor randomness can deliver it." This presupposes consciousness is *separable* from the brain in a way that allows the directed presentation-and-selection traffic to occur. The separability is the dualism the framework is trying to defend, not a granted starting point. The trilemma of selection appeals to "authorship" preservation, but authorship is itself a folk-psychological category whose preservation depends on accepting the agential framework that dualism asserts. The argument is circular: the tenet is satisfied because the framework has been built to satisfy the tenet.
 - **Severity**: Medium

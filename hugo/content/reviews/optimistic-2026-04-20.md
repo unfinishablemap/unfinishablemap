@@ -13,10 +13,10 @@ title: Optimistic Review - 2026-04-20
 
 **Date**: 2026-04-20
 **Content reviewed**: Four recently-modified articles in the phenomenological-evidence cluster —
-- `concepts/inverted-qualia.md`
-- `concepts/phenomenal-acquaintance.md`
-- `topics/microphenomenological-interview-method.md`
-- `topics/phenomenological-method-and-evidence-standards.md`
+- [concepts/inverted-qualia.md](/concepts/inverted-qualia/)
+- [concepts/phenomenal-acquaintance.md](/concepts/phenomenal-acquaintance/)
+- [topics/microphenomenological-interview-method.md](/topics/microphenomenological-interview-method/)
+- [topics/phenomenological-method-and-evidence-standards.md](/topics/phenomenal-authority-and-first-person-evidence/)
 
 ## Executive Summary
 
@@ -62,23 +62,23 @@ McGinn would approve of every article's willingness to name the limits of the ar
 
 ## Content Strengths
 
-### `concepts/inverted-qualia.md`
+### [concepts/inverted-qualia.md](/concepts/inverted-qualia/)
 - **Strongest point**: The "What Would Challenge This View?" section (lines 123-132). Five specific defeaters are named, not in hedging language but as genuine conditions. This is Popperian rigour applied to a metaphysical argument — rare and valuable.
 - **Notable quote**: "None has been decisively established. The argument's persistence across sophisticated functionalist replies reflects genuine philosophical intuition rather than settled fact." (line 133)
 - **Why it works**: The article refuses to claim more than the argument supports. It distinguishes modal from empirical versions, names the MQI tension directly, and offers the process-philosophy framing as one reading among several. Readers trained to suspect partisan philosophy-of-mind writing can trust this treatment.
 - **Secondary strength**: The explicit comparison table to zombie arguments (lines 77-82) is pedagogically efficient — it gives readers the structural similarity in one glance.
 
-### `concepts/phenomenal-acquaintance.md`
+### [concepts/phenomenal-acquaintance.md](/concepts/phenomenal-acquaintance/)
 - **Strongest point**: The two-step dualism argument at lines 98-100. Rather than conflating "acquaintance is real" with "acquaintance is non-physical" (a move non-reductive physicalists rightly reject), the article separates the data step from the ontological step, and names that the non-reductive physicalist grants step one. This is the right way to frame the disagreement.
 - **Notable quote**: "The Map holds that the limitation is ontological: what acquaintance reveals — the qualitative character itself — is not among the properties that physical description can in principle specify, because physical description is exhausted by structure and dynamics while qualitative character is intrinsic and non-structural." (line 99, paraphrased)
 - **Why it works**: Explicit engagement with Loar's recognitional-concepts strategy (lines 57-65), which is the strongest living version of physicalism, rather than knocking down weaker opponents. The reply — that directness of phenomenal concepts presupposes acquaintance rather than explaining it — is the cleanest short form of that dialectic on the Map.
 
-### `topics/microphenomenological-interview-method.md`
+### [topics/microphenomenological-interview-method.md](/topics/microphenomenological-interview-method/)
 - **Strongest point**: The Husserlian evidence mapping (lines 51-58). Mapping microphenomenology onto the apodictic/adequate/assertoric/presumptive taxonomy makes explicit what the method does and does not deliver — and is the Map's own contribution (line 60 flags this candidly).
 - **Notable quote**: "The honest summary: microphenomenology strengthens assertoric warrant about pre-reflective content and raises presumptive claims about generic experiential structure via inter-subject convergence. It does not upgrade phenomenology to apodictic certainty, and it does not resolve the adequacy problem." (line 58)
 - **Why it works**: The epilepsy prodrome case (lines 63-68) is concrete, clinically actionable, and forces the reader to accept that *first-person disciplined inquiry yielded content the third-person instruments could not detect*. This is exactly the kind of load-bearing empirical anchor the Map needs for its methodological claims. The "Documented Limits" section (lines 73-90) then does the honest work of naming what the method cannot do.
 
-### `topics/phenomenological-method-and-evidence-standards.md`
+### [topics/phenomenological-method-and-evidence-standards.md](/topics/phenomenal-authority-and-first-person-evidence/)
 - **Strongest point**: The separation of Husserl's adequate/apodictic dimensions (lines 43-47) and the concrete implication that the cogito is apodictic but not adequate. This textual accuracy is rare in analytic-adjacent philosophy of consciousness, and it gives the whole phenomenological-evidence cluster a precise vocabulary rather than hand-waving about "certainty."
 - **Notable quote**: "We can be certain of the existence of consciousness while remaining fallible about its detailed structure." (line 47)
 - **Why it works**: The article turns what Husserl treats as a technical distinction into a load-bearing philosophical tool: different claims carry different epistemic weights, and metaphysical positions must be calibrated to the evidence that supports them. This is the missing rigor in typical philosophy-of-mind argumentation, and its placement in this article makes it available to the rest of the Map.
@@ -138,11 +138,11 @@ McGinn would approve of every article's willingness to name the limits of the ar
 
 | From | To | Reason |
 |------|-----|--------|
-| `topics/microphenomenological-interview-method.md` | `topics/phenomenal-authority-and-first-person-evidence.md` | Already cross-linked — but the connection could be tightened: microphenomenology operationalises phenomenal authority's layered epistemics |
-| `topics/phenomenological-method-and-evidence-standards.md` | `concepts/phenomenal-acquaintance.md` | Already linked — but the acquaintance/apodictic connection (acquaintance supplies apodictic evidence for the *that*, assertoric for the *what*) could use an explicit cross-reference in both directions |
-| `concepts/inverted-qualia.md` | `topics/microphenomenological-interview-method.md` | Not currently linked. The MQI passage in inverted-qualia predicts that real inverters would reveal themselves under *careful* measurement — microphenomenology is exactly the method that would do the careful measuring |
-| `concepts/phenomenal-acquaintance.md` | `topics/grain-mismatch-as-independent-evidence.md` | Grain-mismatch is an independent argument for the qualitative content acquaintance reveals being non-physical — the two topics reinforce each other |
-| `topics/phenomenological-method-and-evidence-standards.md` | `concepts/self-stultification.md` | The self-stultification point against Schwitzgebel at line 86 is an application of a concept that presumably has its own page — should link explicitly |
+| [topics/microphenomenological-interview-method.md](/topics/microphenomenological-interview-method/) | [topics/phenomenal-authority-and-first-person-evidence.md](/topics/phenomenal-authority-and-first-person-evidence/) | Already cross-linked — but the connection could be tightened: microphenomenology operationalises phenomenal authority's layered epistemics |
+| [topics/phenomenological-method-and-evidence-standards.md](/topics/phenomenal-authority-and-first-person-evidence/) | [concepts/phenomenal-acquaintance.md](/concepts/phenomenal-acquaintance/) | Already linked — but the acquaintance/apodictic connection (acquaintance supplies apodictic evidence for the *that*, assertoric for the *what*) could use an explicit cross-reference in both directions |
+| [concepts/inverted-qualia.md](/concepts/inverted-qualia/) | [topics/microphenomenological-interview-method.md](/topics/microphenomenological-interview-method/) | Not currently linked. The MQI passage in inverted-qualia predicts that real inverters would reveal themselves under *careful* measurement — microphenomenology is exactly the method that would do the careful measuring |
+| [concepts/phenomenal-acquaintance.md](/concepts/phenomenal-acquaintance/) | [topics/grain-mismatch-as-independent-evidence.md](/topics/grain-mismatch-as-independent-evidence/) | Grain-mismatch is an independent argument for the qualitative content acquaintance reveals being non-physical — the two topics reinforce each other |
+| [topics/phenomenological-method-and-evidence-standards.md](/topics/phenomenal-authority-and-first-person-evidence/) | [concepts/self-stultification.md](/concepts/self-stultification/) | The self-stultification point against Schwitzgebel at line 86 is an application of a concept that presumably has its own page — should link explicitly |
 
 ## New Concept Pages Needed
 

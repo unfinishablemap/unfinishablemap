@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-03-19 (Night)
 # Pessimistic Review
 
 **Date**: 2026-03-19
-**Content reviewed**: `concepts/neural-correlates-of-consciousness.md`
+**Content reviewed**: [concepts/neural-correlates-of-consciousness.md](/concepts/neural-correlates-of-consciousness/)
 
 ## Executive Summary
 
@@ -47,28 +47,28 @@ Nagarjuna would find the "Contemplative Evidence" section interesting but fundam
 ## Critical Issues
 
 ### Issue 1: Repeated Stanford Encyclopedia Quote
-- **File**: `concepts/neural-correlates-of-consciousness.md`
+- **File**: [concepts/neural-correlates-of-consciousness.md](/concepts/neural-correlates-of-consciousness/)
 - **Location**: "Interactionism Predicts Correlations" section (line 75) and "Relation to Map's Perspective: Dualism" (line 143)
 - **Problem**: The Stanford Encyclopedia point that "Interactionism actually predicts that mental events are caused by brain events and vice versa" appears twice — once as a direct quote and once paraphrased with a parenthetical citation. The repetition weakens the article by making it seem reliant on a single source for its central claim.
 - **Severity**: Medium
 - **Recommendation**: Remove the second instance in the Relation section or rephrase it as a back-reference ("As noted in the section on interactionist predictions..."). The argument should be stated once and referenced thereafter.
 
 ### Issue 2: Unfalsifiability of the Interactionist Interpretation
-- **File**: `concepts/neural-correlates-of-consciousness.md`
+- **File**: [concepts/neural-correlates-of-consciousness.md](/concepts/neural-correlates-of-consciousness/)
 - **Location**: "What Would Challenge This View?" section (lines 129-137)
 - **Problem**: The four falsification conditions are set at bars the article itself argues are structurally unattainable (explanatory closure across the explanatory gap, "full" control via NCC manipulation). This makes the interactionist position unfalsifiable in practice, which is precisely the criticism the article should be defending against.
 - **Severity**: High
 - **Recommendation**: Add at least one falsification condition that is achievable in principle with current or near-future methods. For example: "If a complete computational model of posterior cortical activity could predict first-person reports with perfect accuracy, with no residual variance attributable to non-physical factors, this would weaken the case for interaction." The point should be something the interactionist would actually accept as evidence against their view.
 
 ### Issue 3: Unsourced Contemplative Claims
-- **File**: `concepts/neural-correlates-of-consciousness.md`
+- **File**: [concepts/neural-correlates-of-consciousness.md](/concepts/neural-correlates-of-consciousness/)
 - **Location**: "Contemplative Evidence and NCC" section (lines 122-126)
 - **Problem**: Claims about what "contemplatives report" lack citation. Which contemplatives? In which tradition? Published where? The claim that "when perceptual content subsides, something remains: awareness itself" is presented as a general finding but could be tradition-specific (more Advaita Vedanta than, say, Theravada Buddhism, where cessation experiences suggest consciousness *does* fully cease).
 - **Severity**: Medium
 - **Recommendation**: Cite specific sources (e.g., Josipovic 2019 on minimal phenomenal experience, or Thompson 2014 on contemplative neuroscience). Acknowledge that not all contemplative traditions agree — some report cessation, not persistent witness consciousness.
 
 ### Issue 4: Stale AI Refinement Log
-- **File**: `concepts/neural-correlates-of-consciousness.md`
+- **File**: [concepts/neural-correlates-of-consciousness.md](/concepts/neural-correlates-of-consciousness/)
 - **Location**: Lines 197-207 (HTML comment at end of file)
 - **Problem**: An AI refinement log from 2026-02-24 remains in the file with the note "This log should be removed after human review." It has been nearly a month. This is a housekeeping issue but signals incomplete editorial process.
 - **Severity**: Low

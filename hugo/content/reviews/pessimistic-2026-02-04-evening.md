@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-04
 **Content reviewed**:
-- `apex/contemplative-path.md`
-- `apex/living-with-the-map.md`
-- `apex/process-and-consciousness.md`
+- [apex/contemplative-path.md](/apex/contemplative-path/)
+- [apex/living-with-the-map.md](/apex/living-with-the-map/)
+- [apex/process-and-consciousness.md](/apex/process-and-consciousness/)
 
 ## Executive Summary
 
@@ -123,7 +123,7 @@ The process-and-consciousness article claims process philosophy's 'actual occasi
 
 ### Issue 2: Contemplative Evidence Overstated
 
-- **Files**: `apex/contemplative-path.md`
+- **Files**: [apex/contemplative-path.md](/apex/contemplative-path/)
 - **Location**: Lines 55-57 (Fox et al. learning curve), 66-68 (cross-tradition convergence), 86-91 (cessation interpretation)
 - **Problem**: The article presents contemplative evidence more favorably than the contested literature warrants. The Fox et al. finding (training predicts accuracy on a logarithmic curve) is real, but the measures of "accuracy" are third-person correlates, not direct access to phenomenal content. Cross-tradition convergence is asserted but Buddhism's no-self conclusion contradicts Advaita's atman-witness conclusion—the article acknowledges this then claims "compatibility" without resolving the contradiction. The cessation interpretation (complete filtering rather than absence) is speculation presented as if it favors filter theory when it's equally compatible with production theory (unusual brain state produces unusual non-phenomenology).
 - **Severity**: High
@@ -131,7 +131,7 @@ The process-and-consciousness article claims process philosophy's 'actual occasi
 
 ### Issue 3: Process Philosophy as Redescription
 
-- **Files**: `apex/process-and-consciousness.md`
+- **Files**: [apex/process-and-consciousness.md](/apex/process-and-consciousness/)
 - **Location**: Lines 49-51 (actual occasions), 76-79 (concrescence parallel), 133-143 (resources summary)
 - **Problem**: The article claims process philosophy provides "conceptual resources" for the Map's framework. But the resources are primarily vocabulary: "actual occasions" for events, "concrescence" for becoming determinate, "prehension" for taking account of, "subjective aim" for goal-directedness. The article doesn't show that this vocabulary explains anything that couldn't be said without it. Where is the explanatory gain? What prediction does process philosophy make that substance metaphysics doesn't? The article admits "process philosophy is primarily a metaphysical framework rather than a scientific theory" that "doesn't generate distinctive empirical predictions." If it generates no predictions and merely redescribes, its value is aesthetic, not explanatory.
 - **Severity**: Medium
@@ -139,7 +139,7 @@ The process-and-consciousness article claims process philosophy's 'actual occasi
 
 ### Issue 4: Acting on Uncertain Metaphysics
 
-- **Files**: `apex/living-with-the-map.md`
+- **Files**: [apex/living-with-the-map.md](/apex/living-with-the-map/)
 - **Location**: Lines 108-118 (living with uncertainty section)
 - **Problem**: The article acknowledges "uncertainty at every level" then asks "why take its guidance seriously?" The two responses are weak. First, "all practical life involves acting on imperfect information" is true but doesn't favor the Map over alternatives. Second, "epistemic humility counsels openness" doesn't explain why one should *act on* the Map's framework rather than merely remain open to it. The gap between epistemic and practical rationality is not addressed. It's one thing to say "materialism might be wrong"; it's another to say "therefore, live as if consciousness is fundamental." What justifies the practical commitment given acknowledged uncertainty?
 - **Severity**: Medium
@@ -147,7 +147,7 @@ The process-and-consciousness article claims process philosophy's 'actual occasi
 
 ### Issue 5: Selective Treatment of Introspection Reliability
 
-- **Files**: `apex/contemplative-path.md`
+- **Files**: [apex/contemplative-path.md](/apex/contemplative-path/)
 - **Location**: Lines 51-56 (process/content distinction)
 - **Problem**: The article invokes introspective reliability selectively. It acknowledges Nisbett and Wilson's critique (people confabulate reasons) but claims the critique targets cognitive *processes*, not phenomenal *content*. This distinction assumes what needs to be shown: that there *is* phenomenal content distinct from representational content. If illusionism is correct, what meditators access is representational structure all the way down—there's no separate "phenomenal content" to be reliably accessed. The process/content distinction begs the question against the position it's supposed to refute.
 - **Severity**: Medium
@@ -155,7 +155,7 @@ The process-and-consciousness article claims process philosophy's 'actual occasi
 
 ### Issue 6: Illusionist Responses Underdeveloped
 
-- **Files**: `apex/contemplative-path.md`
+- **Files**: [apex/contemplative-path.md](/apex/contemplative-path/)
 - **Location**: Lines 151-164 (four responses to illusionism)
 - **Problem**: The four responses to illusionism are weaker than they appear. (1) The "regress" response assumes that seemings must be experienced phenomenally; functional states can model other functional states without phenomenal experience. (2) "Training should dissolve illusion" assumes illusion must dissolve under scrutiny; but refined self-modeling refines the illusion, not dissolves it. (3) Yogācāra's "consciousness-only" isn't consciousness-as-substance; it's consciousness-as-process, closer to illusionism than to dualism. (4) "Contemplative investigation predates the theory" is irrelevant—pre-theoretical descriptions can be mistaken (phlogiston predated oxygen theory). None of these responses adequately engages illusionism's core claim: that phenomenal properties are representational fictions.
 - **Severity**: Medium

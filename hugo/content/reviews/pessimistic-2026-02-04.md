@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-04
 **Content reviewed**:
-- `topics/time-collapse-and-agency.md`
-- `topics/temporal-structure-of-consciousness.md`
-- `concepts/duration.md`
+- [topics/time-collapse-and-agency.md](/topics/time-collapse-and-agency/)
+- [topics/temporal-structure-of-consciousness.md](/topics/temporal-consciousness-structure-and-agency/)
+- [concepts/duration.md](/concepts/temporal-consciousness/)
 
 ## Executive Summary
 

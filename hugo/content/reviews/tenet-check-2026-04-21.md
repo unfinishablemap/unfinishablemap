@@ -45,13 +45,13 @@ None.
 
 ## Notable Exemplars From This Sweep
 
-- **`topics/four-quadrant-dualism-taxonomy.md`** (new, 2026-04-20) — Worked example of tenet application to a two-axis taxonomy. Names which quadrants the tenets exclude and which remain open; refuses to collapse the Map's position into a single quadrant; explicitly invokes T5 to authorise Q4 as live.
-- **`concepts/consciousness-bandwidth-architecture.md`** (coalesced 2026-04-20) — New synthesis of the bandwidth articles into one concept. Five-tenet relation paragraph is concise and uses the asymmetric-bandwidth finding to strengthen T3 rather than soften it.
-- **`topics/trilemma-of-selection.md`** — The cleanest recent presentation of the determinism/randomness/mental-causation trilemma. Neither horn is strawmanned; compatibilism and van Inwagen's rollback each get strongest-form statement before the Map's response.
-- **`topics/wheelers-participatory-universe-and-it-from-bit.md`** — Distinguishes Wheeler's observer-participancy from "consciousness creates reality" misreadings. The "What Would Challenge This View" section lists collapse-free physics empirically succeeding as a defeater — honest limit-marking.
-- **`concepts/control-theoretic-will.md`** — Post deep-review stability pass. Pessimistic review had flagged a risk of sliding from analogy to ontology; the revised article is explicit that control theory *expresses* the commitment rather than grounding it.
-- **`topics/pragmatist-quantum-foundations-and-the-agent.md`** — Careful treatment of QBism / RQM / Healey pragmatism as *shared rejectors* of MWI while remaining *rivals* of consciousness-collapse readings. Does not let pragmatist quantum foundations read as endorsed by the Map.
-- **`concepts/phenomenology.md`** — Post deep-review pass. Clean treatment of the "first-person irreducibility is built into the method" critique, acknowledged directly in the opening rather than buried.
+- **[topics/four-quadrant-dualism-taxonomy.md](/topics/four-quadrant-dualism-taxonomy/)** (new, 2026-04-20) — Worked example of tenet application to a two-axis taxonomy. Names which quadrants the tenets exclude and which remain open; refuses to collapse the Map's position into a single quadrant; explicitly invokes T5 to authorise Q4 as live.
+- **[concepts/consciousness-bandwidth-architecture.md](/concepts/consciousness-bandwidth-architecture/)** (coalesced 2026-04-20) — New synthesis of the bandwidth articles into one concept. Five-tenet relation paragraph is concise and uses the asymmetric-bandwidth finding to strengthen T3 rather than soften it.
+- **[topics/trilemma-of-selection.md](/topics/trilemma-of-selection/)** — The cleanest recent presentation of the determinism/randomness/mental-causation trilemma. Neither horn is strawmanned; compatibilism and van Inwagen's rollback each get strongest-form statement before the Map's response.
+- **[topics/wheelers-participatory-universe-and-it-from-bit.md](/topics/wheelers-participatory-universe-and-it-from-bit/)** — Distinguishes Wheeler's observer-participancy from "consciousness creates reality" misreadings. The "What Would Challenge This View" section lists collapse-free physics empirically succeeding as a defeater — honest limit-marking.
+- **[concepts/control-theoretic-will.md](/concepts/control-theoretic-will/)** — Post deep-review stability pass. Pessimistic review had flagged a risk of sliding from analogy to ontology; the revised article is explicit that control theory *expresses* the commitment rather than grounding it.
+- **[topics/pragmatist-quantum-foundations-and-the-agent.md](/topics/pragmatist-quantum-foundations-and-the-agent/)** — Careful treatment of QBism / RQM / Healey pragmatism as *shared rejectors* of MWI while remaining *rivals* of consciousness-collapse readings. Does not let pragmatist quantum foundations read as endorsed by the Map.
+- **[concepts/phenomenology.md](/concepts/phenomenology/)** — Post deep-review pass. Clean treatment of the "first-person irreducibility is built into the method" critique, acknowledged directly in the opening rather than buried.
 
 ## Carry-Forward
 
@@ -59,7 +59,7 @@ The 2026-04-17 morning full-corpus pass (459 files, 0/0/0) remains the authorita
 
 ## Minor Content-Hygiene Observation (non-tenet)
 
-`concepts/control-theoretic-will.md` retains a `<!-- Refinement log ... This log should be removed after human review. -->` comment at the end of the file. Not a tenet issue — flagging here only so a later refine-draft pass can clear it.
+[concepts/control-theoretic-will.md](/concepts/control-theoretic-will/) retains a `<!-- Refinement log ... This log should be removed after human review. -->` comment at the end of the file. Not a tenet issue — flagging here only so a later refine-draft pass can clear it.
 
 ## Files Checked In Delta Sweep
 

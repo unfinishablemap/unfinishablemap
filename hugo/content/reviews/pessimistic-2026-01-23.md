@@ -21,8 +21,8 @@ topics: []
 
 **Date**: 2026-01-23
 **Content reviewed**:
-- `concepts/psychophysical-coupling-mechanisms.md`
-- `concepts/bidirectional-interaction.md`
+- [concepts/psychophysical-coupling-mechanisms.md](/concepts/psychophysical-laws/)
+- [concepts/bidirectional-interaction.md](/concepts/bidirectional-interaction/)
 
 ## Executive Summary
 
@@ -102,7 +102,7 @@ Your framework presupposes that consciousness is something whose preservation ma
 
 ### Issue 1: Self-Stultification Argument Overstated
 
-- **File**: `concepts/bidirectional-interaction.md`
+- **File**: [concepts/bidirectional-interaction.md](/concepts/bidirectional-interaction/)
 - **Location**: "The Self-Stultification Argument" section
 - **Problem**: The article presents this argument as definitively showing epiphenomenalism "cannot be rationally held" and is "self-undermining." But the argument has well-known responses: (1) reliabilist accounts of justification don't require causal contribution from the belief's content; (2) neural self-monitoring can explain accurate introspection without phenomenal causation; (3) the argument proves too much—it would make any discussion of causally inert entities impossible.
 - **Severity**: Medium
@@ -110,7 +110,7 @@ Your framework presupposes that consciousness is something whose preservation ma
 
 ### Issue 2: "Genuine Gap" Claim Conflates Indeterminacy Types
 
-- **File**: `concepts/bidirectional-interaction.md`
+- **File**: [concepts/bidirectional-interaction.md](/concepts/bidirectional-interaction/)
 - **Location**: "The Quantum Interface" section
 - **Problem**: "At quantum indeterminacies, there is no sufficient physical cause" conflates quantum indeterminacy with openness to non-physical influence. Quantum mechanics is probabilistically complete—it provides necessary and sufficient conditions for probability distributions. That individual outcomes are undetermined doesn't mean something non-physical determines them; it could mean they're genuinely random.
 - **Severity**: High
@@ -118,7 +118,7 @@ Your framework presupposes that consciousness is something whose preservation ma
 
 ### Issue 3: Decoherence Objection Insufficiently Addressed
 
-- **File**: `concepts/psychophysical-coupling-mechanisms.md`
+- **File**: [concepts/psychophysical-coupling-mechanisms.md](/concepts/psychophysical-laws/)
 - **Location**: "Major objection: Decoherence timescale" under Stapp mechanism
 - **Problem**: The response ("consciousness could bias outcome selection *after* decoherence") is a significant theoretical move that needs development. Post-decoherence selection faces its own problems: after decoherence, the system is in a definite classical state—there's nothing left to select. This needs more careful treatment.
 - **Severity**: Medium
@@ -126,7 +126,7 @@ Your framework presupposes that consciousness is something whose preservation ma
 
 ### Issue 4: Citation Error
 
-- **File**: `concepts/bidirectional-interaction.md`
+- **File**: [concepts/bidirectional-interaction.md](/concepts/bidirectional-interaction/)
 - **Location**: References section
 - **Problem**: The Lieberman citation describes a study on "race-related amygdala activity," not cognitive load and logical reasoning. The citation doesn't match the claim in the "Empirical Support" section.
 - **Severity**: High
@@ -134,7 +134,7 @@ Your framework presupposes that consciousness is something whose preservation ma
 
 ### Issue 5: Comparative Table Misleadingly Precise
 
-- **File**: `concepts/psychophysical-coupling-mechanisms.md`
+- **File**: [concepts/psychophysical-coupling-mechanisms.md](/concepts/psychophysical-laws/)
 - **Location**: "Comparative Analysis" table
 - **Problem**: Rating development as "High," "Medium," "Low" implies more precision than exists. Stapp's mechanism is "High" development relative to the others, but relative to what a complete scientific theory requires, all are speculative. The table could mislead readers into thinking "High development" means "well-established."
 - **Severity**: Low

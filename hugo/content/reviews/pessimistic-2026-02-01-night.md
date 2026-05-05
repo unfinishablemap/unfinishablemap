@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-01
 **Content reviewed**:
-- `topics/phenomenology-of-intellectual-effort.md`
-- `topics/phenomenology-of-recursive-thought.md`
-- `concepts/reasons-responsiveness.md`
+- [topics/phenomenology-of-intellectual-effort.md](/topics/phenomenology-of-intellectual-life/)
+- [topics/phenomenology-of-recursive-thought.md](/topics/phenomenology-of-recursive-self-awareness/)
+- [concepts/reasons-responsiveness.md](/concepts/reasons-responsiveness/)
 
 ## Executive Summary
 

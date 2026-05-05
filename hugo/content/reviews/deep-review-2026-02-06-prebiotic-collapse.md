@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-This review was triggered by orphan analysis: the original `collapse-before-minds.md` was archived and coalesced into `concepts/prebiotic-collapse.md`, but the live successor had insufficient inbound links from related articles. The primary focus was cross-reference integration rather than content modification, consistent with the article's stability status from the previous review.
+This review was triggered by orphan analysis: the original `collapse-before-minds.md` was archived and coalesced into [concepts/prebiotic-collapse.md](/concepts/prebiotic-collapse/), but the live successor had insufficient inbound links from related articles. The primary focus was cross-reference integration rather than content modification, consistent with the article's stability status from the previous review.
 
 ## Pessimistic Analysis Summary
 

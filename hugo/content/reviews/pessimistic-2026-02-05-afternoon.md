@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-05
 **Content reviewed**:
-- `voids/intentionality-void.md`
-- `voids/the-unobservable-self.md`
-- `topics/the-observer-witness-in-meditation.md`
+- [voids/intentionality-void.md](/voids/meaning-void/)
+- [voids/the-unobservable-self.md](/voids/self-reference-paradox/)
+- [topics/the-observer-witness-in-meditation.md](/topics/the-observer-witness-in-meditation/)
 
 ## Executive Summary
 
@@ -133,7 +133,7 @@ All three articles treat Buddhist contemplative phenomenology as evidence while 
 
 ### Issue 2: Introspection's Reliability Paradox
 
-- **Files**: `voids/intentionality-void.md`, `voids/the-unobservable-self.md`
+- **Files**: [voids/intentionality-void.md](/voids/meaning-void/), [voids/the-unobservable-self.md](/voids/self-reference-paradox/)
 - **Location**: intentionality-void:59-63, unobservable-self:65
 - **Problem**: Both articles acknowledge introspection's limits: 'Helmholtz observed that there are "mental operations about which introspection is utterly silent"'; 'introspection is unreliable' (via mysterianism). Yet both rely on introspective reports as evidence: we introspectively find the void, we introspectively fail to catch the observer. If introspection is unreliable about *how* mental processes work, why trust it about *whether* something is findable? The void might be an artefact of introspection's limitations, not a discovery about consciousness itself.
 - **Severity**: High
@@ -149,7 +149,7 @@ All three articles treat Buddhist contemplative phenomenology as evidence while 
 
 ### Issue 4: Quantum Speculation Without Constraints
 
-- **Files**: `topics/the-observer-witness-in-meditation.md`, `voids/intentionality-void.md`
+- **Files**: [topics/the-observer-witness-in-meditation.md](/topics/the-observer-witness-in-meditation/), [voids/intentionality-void.md](/voids/meaning-void/)
 - **Location**: observer-witness:55-56, intentionality-void:126
 - **Problem**: Both articles mention quantum mechanisms speculatively ('remains speculative,' 'a speculative possibility') but then proceed as if the speculation provided explanatory content. The observer-witness article uses the quantum Zeno effect as a 'possible model' for the selector/observer distinction; the intentionality void suggests reference-formation 'might involve processes at the quantum-collapse interface.' These aren't models; they're gestures. Without constraints on what quantum effects could occur, invoking them explains anything and therefore nothing.
 - **Severity**: Medium
@@ -157,7 +157,7 @@ All three articles treat Buddhist contemplative phenomenology as evidence while 
 
 ### Issue 5: The Illusionist Response Inadequately Engaged
 
-- **Files**: `voids/the-unobservable-self.md`
+- **Files**: [voids/the-unobservable-self.md](/voids/self-reference-paradox/)
 - **Location**: unobservable-self:79-83
 - **Problem**: The article states the illusionist faces 'a characteristic difficulty: if the search for self is an illusion, something experiences that illusion.' But this is precisely what illusionism addresses: the 'something' that seems to experience is itself part of the self-model, not a transcendent experiencer. The article asserts 'the looking feels like something' and 'the failure is felt, not merely computed.' But illusionism doesn't deny phenomenology; it denies that phenomenology requires irreducible experiencers. The response assumes what it needs to prove.
 - **Severity**: Medium
@@ -165,7 +165,7 @@ All three articles treat Buddhist contemplative phenomenology as evidence while 
 
 ### Issue 6: Two-Mode Framework Underdeveloped
 
-- **Files**: `topics/the-observer-witness-in-meditation.md`
+- **Files**: [topics/the-observer-witness-in-meditation.md](/topics/the-observer-witness-in-meditation/)
 - **Location**: observer-witness:53-64
 - **Problem**: The article presents a 'two modes' framework (active selection vs. passive witnessing) as if it resolved the question of consciousness's nature. But the framework doesn't distinguish physicalist from dualist interpretations. A physicalist can accept two modes—task-positive and task-negative network configurations—without accepting that either mode reveals non-physical consciousness. The article assumes that because modes differ phenomenologically, they differ metaphysically. This doesn't follow.
 - **Severity**: Medium

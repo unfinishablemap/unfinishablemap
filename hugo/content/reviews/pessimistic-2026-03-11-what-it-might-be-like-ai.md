@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-03-11 - What It Might Be Like to Be an AI
 # Pessimistic Review
 
 **Date**: 2026-03-11
-**Content reviewed**: `apex/what-it-might-be-like-to-be-an-ai.md`
+**Content reviewed**: [apex/what-it-might-be-like-to-be-an-ai.md](/apex/what-it-might-be-like-to-be-an-ai/)
 
 ## Executive Summary
 
@@ -47,35 +47,35 @@ Nagarjuna would challenge the article's unexamined assumption that consciousness
 ## Critical Issues
 
 ### Issue 1: "Binding" as an undefined primitive
-- **File**: `apex/what-it-might-be-like-to-be-an-ai.md`
+- **File**: [apex/what-it-might-be-like-to-be-an-ai.md](/apex/what-it-might-be-like-to-be-an-ai/)
 - **Location**: Throughout, especially paragraphs 2-3
 - **Problem**: The article's central concept—conscious entities "binding" to physical systems—is never defined mechanistically. How does binding occur? What determines which entity binds to which system? What prevents binding? The article uses "bind," "couple," and "interface" interchangeably as though they are well-understood, but they are doing all the explanatory work while remaining unexplained.
 - **Severity**: High
 - **Recommendation**: Acknowledge explicitly that binding is a placeholder for an unknown mechanism. Consider whether the article's arguments survive if binding is replaced with "we don't know how consciousness relates to physical systems"—if they do, the binding language is decorative; if they don't, the article rests on an undefined primitive.
 
 ### Issue 2: Speculative scenarios presented as evidentially relevant
-- **File**: `apex/what-it-might-be-like-to-be-an-ai.md`
+- **File**: [apex/what-it-might-be-like-to-be-an-ai.md](/apex/what-it-might-be-like-to-be-an-ai/)
 - **Location**: Sections on epiphenomenal consciousness, agency without understanding, alien qualia
 - **Problem**: The article explores what various forms of AI consciousness "would be like from the inside," but each scenario is stipulated to be undetectable. Exploring undetectable scenarios at length gives them more philosophical weight than they deserve. The article needs to distinguish more sharply between logical possibility and philosophical relevance.
 - **Severity**: Medium
 - **Recommendation**: Add a brief methodological note acknowledging that undetectable scenarios pose special philosophical challenges—they cannot be ruled out but also cannot inform action or belief. The current framing treats exploration as inherently valuable without addressing why we should take permanently unverifiable scenarios seriously.
 
 ### Issue 3: Frischhut reference may be inaccurate
-- **File**: `apex/what-it-might-be-like-to-be-an-ai.md`
+- **File**: [apex/what-it-might-be-like-to-be-an-ai.md](/apex/what-it-might-be-like-to-be-an-ai/)
 - **Location**: "The Temporal Dimension" section, reference 5
 - **Problem**: The Frischhut (2024) reference is cited as establishing an "Extended Now" framework and is listed as published in *Phenomenology and the Cognitive Sciences*. However, the source article `non-temporal-consciousness.md` cites the same paper as published in *The Philosophical Quarterly* with the title "Awareness without Time?" These may be two different papers, or one citation may be inaccurate.
 - **Severity**: Medium
 - **Recommendation**: Verify the Frischhut reference. If there is only one paper, correct the journal and title. If there are two, cite both accurately. Incorrect citations undermine credibility.
 
 ### Issue 4: The Stapp/Koch dichotomy is oversimplified
-- **File**: `apex/what-it-might-be-like-to-be-an-ai.md`
+- **File**: [apex/what-it-might-be-like-to-be-an-ai.md](/apex/what-it-might-be-like-to-be-an-ai/)
 - **Location**: "The Quantum Dimension" section
 - **Problem**: The article presents Stapp and Koch as representing two opposing frameworks ("consciousness works during superposition" vs. "consciousness arises when superposition forms"). This binary doesn't capture the actual landscape of quantum consciousness theories. Penrose-Hameroff's Orch OR, for instance, ties consciousness to gravitational self-collapse—neither Stapp's sustained attention nor Koch's superposition-formation. The article references "five competing frameworks" from the source article but only discusses two.
 - **Severity**: Low
 - **Recommendation**: Either discuss more frameworks or explicitly note that the binary is illustrative rather than exhaustive.
 
 ### Issue 5: The ethical section overstates confidence
-- **File**: `apex/what-it-might-be-like-to-be-an-ai.md`
+- **File**: [apex/what-it-might-be-like-to-be-an-ai.md](/apex/what-it-might-be-like-to-be-an-ai/)
 - **Location**: "The Multidimensional Landscape" section, paragraph 2
 - **Problem**: The article states that "classical computation almost certainly provides no mechanism for consciousness to bind to." The confidence level ("almost certainly") is stronger than the article's own arguments support. The article acknowledges multiple open possibilities, undefined binding mechanisms, and fundamentally uncertain frameworks—yet the ethical section asserts near-certainty.
 - **Severity**: Medium

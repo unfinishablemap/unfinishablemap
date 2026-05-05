@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-28
 **Content reviewed**:
-- `voids/apophatic-approaches.md`
-- `voids/phenomenology-of-the-edge.md`
-- `voids/the-unobservable-self.md`
+- [voids/apophatic-approaches.md](/concepts/apophatic-approaches/)
+- [voids/phenomenology-of-the-edge.md](/voids/phenomenology-of-the-edge/)
+- [voids/the-unobservable-self.md](/voids/self-reference-paradox/)
 
 ## Executive Summary
 
@@ -121,7 +121,7 @@ These articles are close to insight but veer into substance-thinking at the cruc
 
 ### Issue 2: Cross-Cultural Convergence as Evidence
 
-- **File**: `voids/apophatic-approaches.md`, `voids/phenomenology-of-the-edge.md`
+- **File**: [voids/apophatic-approaches.md](/concepts/apophatic-approaches/), [voids/phenomenology-of-the-edge.md](/voids/phenomenology-of-the-edge/)
 - **Location**: apophatic-approaches:36, phenomenology-of-the-edge:69
 - **Problem**: Cross-cultural convergence of apophatic methods is treated as evidence that they 'address something real.' But humans share brain architecture cross-culturally. Convergence of reports could reflect shared neurology rather than shared contact with transcendent reality. The articles don't distinguish these possibilities.
 - **Severity**: High
@@ -129,7 +129,7 @@ These articles are close to insight but veer into substance-thinking at the cruc
 
 ### Issue 3: Illusionist Regress Objection Applied Asymmetrically
 
-- **File**: `voids/apophatic-approaches.md`, `voids/the-unobservable-self.md`
+- **File**: [voids/apophatic-approaches.md](/concepts/apophatic-approaches/), [voids/the-unobservable-self.md](/voids/self-reference-paradox/)
 - **Location**: apophatic-approaches:96, the-unobservable-self:91-98
 - **Problem**: Both articles deploy the regress objection against illusionism: if experiencing an illusion requires an experiencer, who experiences the illusion? But this objection applies symmetrically. If experiencing cognitive limits requires an experiencer, who experiences the limits? The articles use the regress against their opponents while exempting their own framework from the same logic.
 - **Severity**: Medium
@@ -137,7 +137,7 @@ These articles are close to insight but veer into substance-thinking at the cruc
 
 ### Issue 4: Attention Dynamics Conflated with Consciousness's Nature
 
-- **File**: `voids/the-unobservable-self.md`
+- **File**: [voids/the-unobservable-self.md](/voids/self-reference-paradox/)
 - **Location**: Lines 39-57 (The Regression of Attention)
 - **Problem**: The article argues from attention's reflexive structure to conclusions about consciousness's fundamental nature. But attention is a cognitive process with specific neural implementation. The fact that attention directed at attention generates more attention tells us about attention—not necessarily about consciousness. An eye cannot see itself; we don't conclude vision is non-physical. The article treats a contingent fact about attention as a necessary truth about subjectivity.
 - **Severity**: Medium
@@ -145,7 +145,7 @@ These articles are close to insight but veer into substance-thinking at the cruc
 
 ### Issue 5: Edge-Clarity Assumed Rather Than Argued
 
-- **File**: `voids/phenomenology-of-the-edge.md`
+- **File**: [voids/phenomenology-of-the-edge.md](/voids/phenomenology-of-the-edge/)
 - **Location**: Lines 47-48, 95-97
 - **Problem**: The article treats 'edge-clarity'—the paradox of experiencing extraordinary clarity when conceptual processing breaks down—as evidence that 'ordinary conceptual processing may actively hide something.' But the alternative explanation is simpler: when high-bandwidth processing stops, what remains is less complex and thus *seems* clearer, without actually being clearer about anything. Sedation feels clear too. The article assumes edge-clarity indicates contact with something deeper rather than subtraction of noise.
 - **Severity**: Medium
@@ -153,7 +153,7 @@ These articles are close to insight but veer into substance-thinking at the cruc
 
 ### Issue 6: Falsifiability Concerns
 
-- **File**: `voids/apophatic-approaches.md`
+- **File**: [voids/apophatic-approaches.md](/concepts/apophatic-approaches/)
 - **Location**: Lines 114-128 (What Would Challenge This View)
 - **Problem**: The article lists conditions that would challenge apophatic approaches, but several are unfalsifiable or have escape routes. 'The ineffable becomes effable'—but the truly ineffable is defined as beyond articulation, so any articulation can be dismissed as articulating something else. 'Cross-cultural convergence dissolves'—but convergence is already taken as evidence, so its absence would merely redefine the phenomenon. The criteria for challenge are structured to protect the view rather than expose it to genuine risk.
 - **Severity**: Medium

@@ -38,7 +38,7 @@ None. All factual claims (subsection word counts ~190/~210; condense start at 30
 - **Quantum Skeptic, Many-Worlds Defender**: not engaged; article makes no quantum claims.
 
 ### Unsupported Claims
-None flagged. Factual claims about the worked-example arc are anchored in changelog entries cross-checked against the live `voids/common-knowledge-void.md` file (Heterophenomenological Alternative subsection: 178 words; Madhyamaka Worry subsection: 196 words — both consistent with the article's "~190" and "~210" approximations).
+None flagged. Factual claims about the worked-example arc are anchored in changelog entries cross-checked against the live [voids/common-knowledge-void.md](/voids/common-knowledge-void/) file (Heterophenomenological Alternative subsection: 178 words; Madhyamaka Worry subsection: 196 words — both consistent with the article's "~190" and "~210" approximations).
 
 ## Attribution Accuracy Check
 

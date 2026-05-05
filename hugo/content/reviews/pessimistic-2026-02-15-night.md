@@ -13,9 +13,9 @@ title: Pessimistic Review - 2026-02-15 (Night)
 
 **Date**: 2026-02-15
 **Content reviewed**:
-- `concepts/arguments-for-dualism.md`
-- `concepts/collapse-and-time.md`
-- `concepts/illusionism.md`
+- [concepts/arguments-for-dualism.md](/concepts/the-case-for-dualism/)
+- [concepts/collapse-and-time.md](/concepts/collapse-and-time/)
+- [concepts/illusionism.md](/concepts/illusionism/)
 
 ## Executive Summary
 
@@ -71,7 +71,7 @@ These three foundational articles are ambitious and well-structured, but each co
 
 ### Issue 1: Systematic Overclaiming of Response Strength
 
-- **File**: `concepts/arguments-for-dualism.md`
+- **File**: [concepts/arguments-for-dualism.md](/concepts/the-case-for-dualism/)
 - **Location**: Major Objections summary table (line 223-229)
 - **Problem**: Every response to every objection is rated "Strong." This is self-evidently implausible and undermines credibility. The pairing problem response (minds are spatially located in brains) arguably concedes ground to materialism. The conservation law response depends on contested physics. Presenting uniform confidence signals advocacy rather than analysis.
 - **Severity**: High
@@ -79,7 +79,7 @@ These three foundational articles are ambitious and well-structured, but each co
 
 ### Issue 2: Vague and Untestable Predictions
 
-- **File**: `concepts/collapse-and-time.md`
+- **File**: [concepts/collapse-and-time.md](/concepts/collapse-and-time/)
 - **Location**: Falsifiability and Predictions section (lines 118-135)
 - **Problem**: The "positive predictions" are not specific enough to be testable. "The specious present should show structure consistent with collapse timing" lacks quantitative precision. "Contemplative practices that alter collapse involvement should alter temporal phenomenology" is consistent with any theory of meditation's effects. These weaken the article's claim to falsifiability.
 - **Severity**: High
@@ -87,7 +87,7 @@ These three foundational articles are ambitious and well-structured, but each co
 
 ### Issue 3: Microtubule Overemphasis
 
-- **File**: `concepts/collapse-and-time.md`
+- **File**: [concepts/collapse-and-time.md](/concepts/collapse-and-time/)
 - **Location**: Positive predictions section (line 131)
 - **Problem**: "Revised microtubule coherence estimates (10-100 microseconds) multiplied across collapse events could produce the ~100-750ms specious present" violates the writing style guide's explicit instruction to treat microtubules with restraint. The article makes microtubule timing central to a prediction without the caveats the style guide requires.
 - **Severity**: Medium
@@ -95,7 +95,7 @@ These three foundational articles are ambitious and well-structured, but each co
 
 ### Issue 4: Straw Man of Illusionist Position
 
-- **File**: `concepts/illusionism.md`
+- **File**: [concepts/illusionism.md](/concepts/illusionism/)
 - **Location**: The Infinite Regress Problem (lines 84-88)
 - **Problem**: The Tallis objection ("misrepresentation presupposes presentation") may mischaracterize sophisticated illusionism. Frankish explicitly argues that the "seeming" can be cashed out in functional/representational terms without phenomenal experience. The article notes this response (lines 99-105) but doesn't engage with it deeply enough—it dismisses it as "contested" without explaining what specific problem remains after the functional account.
 - **Severity**: Medium
@@ -103,7 +103,7 @@ These three foundational articles are ambitious and well-structured, but each co
 
 ### Issue 5: Circular Defense of Conceivability
 
-- **File**: `concepts/arguments-for-dualism.md`
+- **File**: [concepts/arguments-for-dualism.md](/concepts/the-case-for-dualism/)
 - **Location**: The Conceivability Argument section (lines 49-62)
 - **Problem**: The defense of premise 2 (conceivability entails possibility) is that "phenomenal concepts directly reveal their referents." But this claim *presupposes* dualism—it assumes phenomenal concepts are special precisely because they access non-physical properties. A physicalist would deny that phenomenal concepts are epistemically transparent in this way. The article doesn't acknowledge this circularity.
 - **Severity**: Medium
@@ -111,7 +111,7 @@ These three foundational articles are ambitious and well-structured, but each co
 
 ### Issue 6: Agent Identity Section Contradicts Site Tenets
 
-- **File**: `concepts/collapse-and-time.md`
+- **File**: [concepts/collapse-and-time.md](/concepts/collapse-and-time/)
 - **Location**: Agent Identity Across Collapse section (lines 84-91)
 - **Problem**: The article states the framework "avoids both substance dualism (a soul persisting through time) and bundle theory collapse." But the Map's tenets commit to dualism and Hasker's emergent dualism (referenced in arguments-for-dualism.md) explicitly posits a non-physical soul. Dismissing "a soul persisting through time" contradicts the Map's own interactionist dualism. If the agent is merely "the pattern of selections," this sounds more like a functionalist account than a dualist one.
 - **Severity**: High

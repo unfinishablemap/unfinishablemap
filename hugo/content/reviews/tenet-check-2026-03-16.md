@@ -60,13 +60,13 @@ None.
 Several files use non-standard anchors when linking to the tenets page:
 
 **`[tenets](/tenets/#minimal-interaction)` should be `[tenets](/tenets/#minimal-quantum-interaction)`:**
-- `topics/phenomenal-normativity-environmental-ethics.md`
-- `topics/consciousness-and-the-philosophy-of-biology.md`
-- `topics/diachronic-agency-and-personal-narrative.md`
+- [topics/phenomenal-normativity-environmental-ethics.md](/topics/phenomenal-normativity-environmental-ethics/)
+- [topics/consciousness-and-the-philosophy-of-biology.md](/topics/consciousness-evolution-and-biology/)
+- [topics/diachronic-agency-and-personal-narrative.md](/topics/diachronic-agency-and-personal-narrative/)
 
 **`[tenets](/tenets/#occam)` should be `[tenets](/tenets/#occams-limits)`:**
-- `concepts/temporal-consciousness.md`
-- `concepts/neurophenomenology.md`
+- [concepts/temporal-consciousness.md](/concepts/temporal-consciousness/)
+- [concepts/neurophenomenology.md](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 
 ## Files Passing All Checks
 

@@ -22,15 +22,15 @@ The Unfinishable Map has matured into a philosophically sophisticated and intern
 
 ### The Property Dualist (Chalmers)
 
-The Map's treatment of the hard problem in `topics/hard-problem-of-consciousness.md` exemplifies precisely the kind of rigorous engagement that Chalmers' work demands. The article correctly identifies that the explanatory gap is structural rather than epistemic—a feature of what physical explanation *is*, not a temporary limitation of current science. The C. elegans example ("the explanatory gap made empirically vivid") is particularly effective: we have *complete* structural knowledge of 302 neurons and 8,000 synapses, yet cannot determine whether the organism experiences anything.
+The Map's treatment of the hard problem in [topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/) exemplifies precisely the kind of rigorous engagement that Chalmers' work demands. The article correctly identifies that the explanatory gap is structural rather than epistemic—a feature of what physical explanation *is*, not a temporary limitation of current science. The C. elegans example ("the explanatory gap made empirically vivid") is particularly effective: we have *complete* structural knowledge of 302 neurons and 8,000 synapses, yet cannot determine whether the organism experiences anything.
 
-The integration with `concepts/psychophysical-coupling-law.md` and `topics/chalmers-psychophysical-coupling.md` shows the Map taking Chalmers' constructive project seriously—not just the critique of physicalism, but the positive framework of psychophysical laws. The Map's divergence from Chalmers (on causal versus merely supervenience laws) is philosophically principled and clearly articulated.
+The integration with [concepts/psychophysical-coupling-law.md](/concepts/psychophysical-laws/) and [topics/chalmers-psychophysical-coupling.md](/topics/psychophysical-laws-bridging-mind-and-matter/) shows the Map taking Chalmers' constructive project seriously—not just the critique of physicalism, but the positive framework of psychophysical laws. The Map's divergence from Chalmers (on causal versus merely supervenience laws) is philosophically principled and clearly articulated.
 
 The treatment of the phenomenal concept strategy throughout the site demonstrates sophisticated awareness of the strongest physicalist responses. The Map doesn't strawman materialist positions but engages with them on their own terms before explaining why they fail.
 
 ### The Quantum Mind Theorist (Stapp)
 
-The site's treatment of quantum consciousness mechanisms has become genuinely impressive. `concepts/motor-selection.md` (new since last review) provides exactly the kind of convergent evidence Stapp's framework requires: the same selection architecture (frontal theta, 300ms decision window, bidirectional coherence) appearing in two distinct domains—attention and motor control.
+The site's treatment of quantum consciousness mechanisms has become genuinely impressive. [concepts/motor-selection.md](/concepts/motor-selection/) (new since last review) provides exactly the kind of convergent evidence Stapp's framework requires: the same selection architecture (frontal theta, 300ms decision window, bidirectional coherence) appearing in two distinct domains—attention and motor control.
 
 Key strengths:
 
@@ -44,7 +44,7 @@ Key strengths:
 
 ### The Phenomenologist (Nagel)
 
-The Map centres first-person experience in methodologically sophisticated ways. `topics/contemplative-evidence-for-consciousness-theories.md` (new since the previous optimistic review) marks a significant advance—it treats contemplative phenomenology as *evidence* that distinguishes between theories, not merely as testimony or tradition.
+The Map centres first-person experience in methodologically sophisticated ways. [topics/contemplative-evidence-for-consciousness-theories.md](/topics/contemplative-evidence-for-consciousness/) (new since the previous optimistic review) marks a significant advance—it treats contemplative phenomenology as *evidence* that distinguishes between theories, not merely as testimony or tradition.
 
 Particularly strong:
 
@@ -54,7 +54,7 @@ Particularly strong:
 
 - **Jhana neuroimaging**: The 7-Tesla fMRI research on jhana states provides unprecedented precision in correlating phenomenological states with neural signatures—while correctly noting this doesn't close the explanatory gap.
 
-- **Witness consciousness**: The treatment of the witness phenomenon in `concepts/witness-consciousness.md` shows the site taking contemplative phenomenology seriously as data about consciousness's structure.
+- **Witness consciousness**: The treatment of the witness phenomenon in [concepts/witness-consciousness.md](/concepts/witness-consciousness/) shows the site taking contemplative phenomenology seriously as data about consciousness's structure.
 
 The `phenomenology-of-choice.md` article deserves special mention. The treatment of how choosing feels fundamentally different from observing—the structure from deliberation through resolution to authorship—provides rich phenomenological resources for the free will debate. The engagement with Buddhist sources (Abhidhamma, dzogchen) and Hindu sources (Patañjali, Advaita) shows genuine cross-cultural philosophical reach.
 
@@ -74,7 +74,7 @@ The process perspective helps the Map avoid crude substance dualism while preser
 
 The treatment of free will has become the site's most fully developed domain. Key strengths:
 
-- **Agent causation articulated**: `concepts/agent-causation.md` correctly identifies that event-causal libertarianism is insufficient for genuine authorship. The agent as persisting substance must exercise irreducible causal powers. The mention of Kane's 2024 work incorporating agent-causal elements shows engagement with current developments.
+- **Agent causation articulated**: [concepts/agent-causation.md](/concepts/agent-causation/) correctly identifies that event-causal libertarianism is insufficient for genuine authorship. The agent as persisting substance must exercise irreducible causal powers. The mention of Kane's 2024 work incorporating agent-causal elements shows engagement with current developments.
 
 - **Motor selection convergence**: The appearance of identical selection signatures in motor control as in attention answers the single-domain objection. If agent-causal signatures were artifacts of attention-specific processing, they wouldn't appear identically in motor output.
 
@@ -90,7 +90,7 @@ The site maintains appropriate epistemic humility throughout:
 
 - **Falsification sections**: Nearly every major article includes "What Would Challenge This View?" sections that make the framework's commitments empirically tractable. This distinguishes the Map from unfalsifiable speculation.
 
-- **Cognitive closure**: `topics/mysterianism-cognitive-closure.md` presents McGinn's view fairly—consciousness may exceed human understanding not because it's supernatural but because we're cognitively closed with respect to the relevant concepts. The Map neither dismisses this possibility nor uses it as an excuse for obscurantism.
+- **Cognitive closure**: [topics/mysterianism-cognitive-closure.md](/concepts/mysterianism/) presents McGinn's view fairly—consciousness may exceed human understanding not because it's supernatural but because we're cognitively closed with respect to the relevant concepts. The Map neither dismisses this possibility nor uses it as an excuse for obscurantism.
 
 The site demonstrates that acknowledging limits can strengthen rather than weaken a philosophical position. The Map may be pointing toward truths we cannot fully articulate—and this is honest rather than evasive.
 

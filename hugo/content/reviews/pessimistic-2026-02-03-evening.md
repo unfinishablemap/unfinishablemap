@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-03
 **Content reviewed**:
-- `topics/argument-from-reason.md`
-- `topics/phenomenology-of-understanding.md`
-- `topics/consciousness-and-mathematical-understanding.md`
+- [topics/argument-from-reason.md](/topics/argument-from-reason/)
+- [topics/phenomenology-of-understanding.md](/topics/phenomenology-of-understanding-and-meaning/)
+- [topics/consciousness-and-mathematical-understanding.md](/topics/consciousness-and-mathematical-cognition/)
 
 ## Executive Summary
 

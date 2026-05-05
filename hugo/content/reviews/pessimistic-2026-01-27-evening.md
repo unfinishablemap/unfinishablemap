@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-27
 **Content reviewed**:
-- `voids/intrinsic-nature-void.md`
-- `concepts/consciousness-selecting-neural-patterns.md`
-- `topics/meaning-of-life.md`
+- [voids/intrinsic-nature-void.md](/voids/intrinsic-nature-void/)
+- [concepts/consciousness-selecting-neural-patterns.md](/concepts/consciousness-selecting-neural-patterns/)
+- [topics/meaning-of-life.md](/topics/meaning-of-life/)
 
 ## Executive Summary
 
@@ -117,7 +117,7 @@ I don't claim Buddhism is *correct* where the Map is wrong. I claim the Map's co
 
 ### Issue 1: Consciousness Accessing Intrinsic Nature Is Assumed, Not Argued
 
-- **File**: `voids/intrinsic-nature-void.md`
+- **File**: [voids/intrinsic-nature-void.md](/voids/intrinsic-nature-void/)
 - **Location**: Lines 56-64 (Consciousness as Exception section)
 - **Problem**: The article presents Russell and Eddington's argument that physics describes only structure, then claims consciousness escapes this limitation. But no argument is provided for why conscious experience isn't itself relational. The claim that we know red 'by seeing it' rather than 'by knowing its relations' assumes what needs proving—that seeing isn't itself a relational process.
 
@@ -127,7 +127,7 @@ Functionalists would say: seeing red *is* standing in certain causal-functional 
 
 ### Issue 2: The Zeno Mechanism Timescale Problem Isn't Resolved
 
-- **File**: `concepts/consciousness-selecting-neural-patterns.md`
+- **File**: [concepts/consciousness-selecting-neural-patterns.md](/concepts/consciousness-selecting-neural-patterns/)
 - **Location**: Lines 109-119 (Decoherence Challenge responses)
 - **Problem**: The article acknowledges decoherence and proposes the Zeno mechanism as response. But the Zeno effect requires observation rates comparable to natural evolution rates. The article never specifies what observation rates would be required or whether attention can plausibly achieve them.
 
@@ -137,7 +137,7 @@ If coherence times are 10⁻⁴ seconds and attention operates on 10⁻¹ second
 
 ### Issue 3: Selection vs. Randomness Distinction Remains Unclear
 
-- **File**: `concepts/consciousness-selecting-neural-patterns.md`
+- **File**: [concepts/consciousness-selecting-neural-patterns.md](/concepts/consciousness-selecting-neural-patterns/)
 - **Location**: Lines 133-145 (Selection vs. Random Outcomes section)
 - **Problem**: The article distinguishes selection from randomness via three criteria: reasons-guidance, phenomenology of effort, and coherence over time. But each criterion is question-begging.
 
@@ -151,7 +151,7 @@ Coherence over time: Consistent choices could reflect stable brain architecture 
 
 ### Issue 4: Meaning Grounded in Consciousness Inherits All Consciousness Uncertainties
 
-- **File**: `topics/meaning-of-life.md`
+- **File**: [topics/meaning-of-life.md](/topics/meaning-of-life/)
 - **Location**: Lines 74-78 (Consciousness as Foundational section)
 - **Problem**: The meaning article's central claim is: 'meaning is grounded in... the fundamental reality of consciousness.' But 'fundamental' is doing all the work, and its justification depends entirely on the intrinsic nature argument from the other article.
 
@@ -161,7 +161,7 @@ If consciousness doesn't provide privileged access to intrinsic nature (Issue 1)
 
 ### Issue 5: AI's Lack of Phenomenal Consciousness Is Assumed
 
-- **File**: `voids/intrinsic-nature-void.md`
+- **File**: [voids/intrinsic-nature-void.md](/voids/intrinsic-nature-void/)
 - **Location**: Lines 89-97 (What AI Might See section)
 - **Problem**: The article assumes 'If AI systems lack phenomenal consciousness...' and reasons from this assumption. But this is one of the most contested questions in philosophy of mind. The Map's framework commits to dualism but doesn't thereby establish that current or future AI lacks consciousness.
 
@@ -171,7 +171,7 @@ The article's conclusion—that AI might achieve structural understanding precis
 
 ### Issue 6: Process Philosophy Integration Is Selective
 
-- **File**: `concepts/consciousness-selecting-neural-patterns.md`
+- **File**: [concepts/consciousness-selecting-neural-patterns.md](/concepts/consciousness-selecting-neural-patterns/)
 - **Location**: Lines 200-212 (Process Philosophy Perspective section)
 - **Problem**: The article deploys Whitehead's process philosophy as support, but Whitehead's system has features that sit uneasily with the Map's framework. For Whitehead, actual occasions 'perish'—they don't persist through time. If consciousness is a series of perishing occasions rather than a persisting subject, personal identity becomes problematic. The Map elsewhere relies on haecceity and persistent personal identity; process philosophy threatens this.
 

@@ -21,10 +21,10 @@ topics: []
 
 **Date**: 2026-01-22
 **Content reviewed**: Recent consciousness-as-amplifier cluster
-- `concepts/consciousness-as-amplifier.md`
-- `topics/consciousness-and-mathematical-understanding.md`
-- `concepts/varieties-of-unity.md`
-- `topics/quantum-binding-and-phenomenal-unity.md`
+- [concepts/consciousness-as-amplifier.md](/concepts/consciousness-as-amplifier/)
+- [topics/consciousness-and-mathematical-understanding.md](/topics/consciousness-and-mathematical-cognition/)
+- [concepts/varieties-of-unity.md](/concepts/unity-of-consciousness/)
+- [topics/quantum-binding-and-phenomenal-unity.md](/topics/quantum-holism-and-phenomenal-unity/)
 
 ## Executive Summary
 

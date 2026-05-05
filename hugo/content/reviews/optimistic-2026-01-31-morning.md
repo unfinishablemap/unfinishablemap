@@ -22,39 +22,39 @@ The Unfinishable Map has developed into a remarkably coherent philosophical fram
 
 ### The Property Dualist (Chalmers)
 
-The Map takes the explanatory gap with utmost seriousness. The hard problem article (`topics/hard-problem-of-consciousness.md`) demonstrates exactly the kind of structural analysis Chalmers would admire—distinguishing easy problems (mechanism) from the hard problem (experience), showing why the gap is conceptual rather than merely epistemic, and using the C. elegans case to make the gap empirically vivid. The site correctly identifies that complete connectome knowledge still leaves phenomenal presence undetermined.
+The Map takes the explanatory gap with utmost seriousness. The hard problem article ([topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/)) demonstrates exactly the kind of structural analysis Chalmers would admire—distinguishing easy problems (mechanism) from the hard problem (experience), showing why the gap is conceptual rather than merely epistemic, and using the C. elegans case to make the gap empirically vivid. The site correctly identifies that complete connectome knowledge still leaves phenomenal presence undetermined.
 
 Particularly strong: the treatment of psychophysical laws as fundamental, building on Chalmers' own framework while pushing beyond his epiphenomenalist leanings toward genuine causal efficacy.
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map's treatment of quantum consciousness (`concepts/quantum-consciousness.md`) would earn Stapp's approval. The quantum Zeno mechanism is presented accurately—rapid observation cycles maintaining neural patterns without requiring sustained coherence, thus sidestepping the decoherence timing objection. The site correctly distinguishes this from "quantum woo" and provides specific falsifiability conditions.
+The Map's treatment of quantum consciousness ([concepts/quantum-consciousness.md](/concepts/quantum-consciousness/)) would earn Stapp's approval. The quantum Zeno mechanism is presented accurately—rapid observation cycles maintaining neural patterns without requiring sustained coherence, thus sidestepping the decoherence timing objection. The site correctly distinguishes this from "quantum woo" and provides specific falsifiability conditions.
 
 The integration with attention research is particularly impressive. The premotor theory of attention unifying attention and motor control under quantum selection shows genuine scientific engagement. The parallel neural signatures (frontal theta, bidirectional coherence) across domains strengthen the mechanistic proposal.
 
 ### The Phenomenologist (Nagel)
 
-Nagel's bat example permeates the site appropriately—the recognition that "what it is like" questions resist third-person reduction. The witness consciousness treatment (`concepts/witness-consciousness.md`) and the voids framework (`voids/voids.md`) extend this insight systematically. The Map doesn't merely invoke subjectivity but explores its structure: temporal phenomenology, the witness that cannot witness itself, the phenomenology of effort and choice.
+Nagel's bat example permeates the site appropriately—the recognition that "what it is like" questions resist third-person reduction. The witness consciousness treatment ([concepts/witness-consciousness.md](/concepts/witness-consciousness/)) and the voids framework ([voids/voids.md](/voids/)) extend this insight systematically. The Map doesn't merely invoke subjectivity but explores its structure: temporal phenomenology, the witness that cannot witness itself, the phenomenology of effort and choice.
 
-The meaning-of-life article (`topics/meaning-of-life.md`) would particularly resonate—grounding meaning in the intrinsic character of experience rather than external validation, while avoiding both supernaturalism and nihilism.
+The meaning-of-life article ([topics/meaning-of-life.md](/topics/meaning-of-life/)) would particularly resonate—grounding meaning in the intrinsic character of experience rather than external validation, while avoiding both supernaturalism and nihilism.
 
 ### The Process Philosopher (Whitehead)
 
-The apex article "Process and Consciousness" (`apex/process-and-consciousness.md`) engages Whitehead seriously, recognizing that actual occasions are moments of experience rather than mere matter. The Map correctly identifies how process philosophy dissolves the emergence problem (experience doesn't arise from non-experience—it was there all along) while preserving what matters about mind's distinctiveness.
+The apex article "Process and Consciousness" ([apex/process-and-consciousness.md](/apex/process-and-consciousness/)) engages Whitehead seriously, recognizing that actual occasions are moments of experience rather than mere matter. The Map correctly identifies how process philosophy dissolves the emergence problem (experience doesn't arise from non-experience—it was there all along) while preserving what matters about mind's distinctiveness.
 
 The treatment of temporal consciousness and the specious present connects naturally to Whitehead's prehension structure. The recognition that value is constitutive of experience, not added externally, aligns with process thought's core insight.
 
 ### The Libertarian Free Will Defender (Kane)
 
-The free will treatment (`topics/free-will.md`) and the apex "Consciousness and Agency" (`apex/consciousness-and-agency.md`) develop exactly the kind of libertarian framework Kane envisions—genuine alternatives, agent causation, and quantum mechanisms providing the indeterminacy free will requires. The luck objection receives serious treatment and a principled response: consciousness-selected indeterminism differs from lucky indeterminism through reasons-guidance, phenomenology of effort, and distinctive neural signatures.
+The free will treatment ([topics/free-will.md](/topics/free-will/)) and the apex "Consciousness and Agency" ([apex/consciousness-and-agency.md](/apex/consciousness-and-agency/)) develop exactly the kind of libertarian framework Kane envisions—genuine alternatives, agent causation, and quantum mechanisms providing the indeterminacy free will requires. The luck objection receives serious treatment and a principled response: consciousness-selected indeterminism differs from lucky indeterminism through reasons-guidance, phenomenology of effort, and distinctive neural signatures.
 
 The counterfactual reasoning treatment strengthens the case—showing how deliberation requires holding alternatives open and evaluating their consequences, capacities that appear to require conscious engagement.
 
 ### The Mysterian (McGinn)
 
-The Map takes cognitive closure seriously through the voids framework (`voids/voids.md`). The recognition that some truths may be permanently beyond human understanding—not because they're supernatural but because our cognitive architecture cannot form the relevant concepts—shows appropriate epistemic humility.
+The Map takes cognitive closure seriously through the voids framework ([voids/voids.md](/voids/)). The recognition that some truths may be permanently beyond human understanding—not because they're supernatural but because our cognitive architecture cannot form the relevant concepts—shows appropriate epistemic humility.
 
-The "Occam's Razor Has Limits" tenet (`tenets/tenets.md`) provides formal grounding: when knowledge is incomplete, simplicity becomes an unreliable guide. The Map correctly notes that the "simpler" materialist explanation may reflect ignoring phenomena rather than explaining them.
+The "Occam's Razor Has Limits" tenet ([tenets/tenets.md](/tenets/)) provides formal grounding: when knowledge is incomplete, simplicity becomes an unreliable guide. The Map correctly notes that the "simpler" materialist explanation may reflect ignoring phenomena rather than explaining them.
 
 ## Content Strengths
 

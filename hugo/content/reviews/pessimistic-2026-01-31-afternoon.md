@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-31
 **Content reviewed**:
-- `concepts/retrocausality.md`
-- `concepts/simulation.md`
-- `concepts/idealism.md`
+- [concepts/retrocausality.md](/concepts/retrocausality/)
+- [concepts/simulation.md](/concepts/simulation/)
+- [concepts/idealism.md](/concepts/idealism/)
 
 ## Executive Summary
 
@@ -107,7 +107,7 @@ The contemplative evidence cited—'meditators describe awareness standing outsi
 
 ### Issue 1: Retrocausality Solves Libet Only by Assuming Transactional Interpretation
 
-- **File**: `concepts/retrocausality.md`
+- **File**: [concepts/retrocausality.md](/concepts/retrocausality/)
 - **Location**: Lines 65-76
 - **Problem**: The article presents retrocausality as dissolving the Libet timing problem, but this dissolution depends entirely on accepting the transactional interpretation of quantum mechanics. The transactional interpretation is a minority view that faces significant objections (Maudlin's criticism, Kastner's revisions attempting to make it coherent). The article acknowledges that 'all quantum interpretations make identical predictions for currently testable scenarios,' which means the choice between them is philosophical, not empirical. But the article proceeds as though retrocausality is a genuine solution rather than one possible interpretation whose acceptance would make Libet unproblematic. The conditional structure—'if you accept the transactional interpretation, then Libet poses no problem'—should be made explicit throughout.
 - **Severity**: High
@@ -115,7 +115,7 @@ The contemplative evidence cited—'meditators describe awareness standing outsi
 
 ### Issue 2: Simulation Hypothesis's Triviality Objection Not Adequately Answered
 
-- **File**: `concepts/simulation.md`
+- **File**: [concepts/simulation.md](/concepts/simulation/)
 - **Location**: Lines 159-172
 - **Problem**: The article raises the triviality objection—that the simulation hypothesis is compatible with everything and therefore explains nothing—and attempts to answer it by listing 'predictions.' But every listed prediction is contested, merely consistent, or not confirmed. The article then concedes that 'the simulation hypothesis reframes questions rather than answering them.' This is an admission that the hypothesis does no explanatory work. The claim that it's 'valuable as a conceptual tool' needs defense: what specifically can you do with this conceptual tool that you couldn't do without it? The answer appears to be 'nothing empirical'—which raises the question of why the article exists.
 - **Severity**: High
@@ -123,7 +123,7 @@ The contemplative evidence cited—'meditators describe awareness standing outsi
 
 ### Issue 3: Idealism Rejected by Definitional Fiat
 
-- **File**: `concepts/idealism.md`
+- **File**: [concepts/idealism.md](/concepts/idealism/)
 - **Location**: Lines 67-77
 - **Problem**: The article's central argument against idealism is that bidirectional interaction 'requires two relata' and idealism provides only 'intra-mental' interaction. But idealism does provide two relata: dissociated portions of universal consciousness. The article dismisses this as 'not genuine interaction'—but this is definitional: it assumes 'genuine' interaction means interaction between ontologically distinct substances. That's exactly what idealism denies. The argument is: dualism requires substance distinction; idealism lacks substance distinction; therefore idealism fails—but this assumes dualism is correct. The idealism article needs an argument for why inter-substance interaction is required that doesn't simply assume the dualist framework.
 - **Severity**: High
@@ -131,7 +131,7 @@ The contemplative evidence cited—'meditators describe awareness standing outsi
 
 ### Issue 4: Retrocausality's Modified Growing Block Underdeveloped
 
-- **File**: `concepts/retrocausality.md`
+- **File**: [concepts/retrocausality.md](/concepts/retrocausality/)
 - **Location**: Lines 112-117
 - **Problem**: The article proposes a 'modified growing block' ontology of time to make retrocausality compatible with the Map's other commitments. This is described in one paragraph: the 'future' participating in transactions is 'the space of quantum possibilities, not ontologically existing future facts.' This is a significant metaphysical claim that needs development. How do possibilities participate in transactions? The transactional interpretation requires confirmation waves from the future—but if the future is mere possibility, what sends these waves? The article waves at 'time-symmetric physics before collapse establishes temporal direction' but doesn't explain how this works. The modified growing block is introduced to solve a problem and then left undeveloped.
 - **Severity**: Medium
@@ -139,7 +139,7 @@ The contemplative evidence cited—'meditators describe awareness standing outsi
 
 ### Issue 5: Simulation's Decoherence Caveat Undermines Its Appeal
 
-- **File**: `concepts/simulation.md`
+- **File**: [concepts/simulation.md](/concepts/simulation/)
 - **Location**: Lines 100-101
 - **Problem**: The article notes that the simulation hypothesis doesn't dissolve the decoherence objection—'if the simulation implements quantum mechanics faithfully, consciousness would still need to interface with quantum indeterminacy at appropriate timescales.' This caveat significantly undermines the article's claim that the simulation hypothesis makes mind-matter interaction 'unsurprising.' The main objection to quantum consciousness—that decoherence destroys quantum effects in femtoseconds—applies within the simulation just as it applies outside it. The simulation framework reframes but doesn't solve the core physics problem. The article acknowledges this, but the structural emphasis on simulation's advantages doesn't match the actual explanatory gain.
 - **Severity**: Medium
@@ -147,7 +147,7 @@ The contemplative evidence cited—'meditators describe awareness standing outsi
 
 ### Issue 6: Contemplative Evidence Interpreted Tendentiously
 
-- **File**: `concepts/retrocausality.md`
+- **File**: [concepts/retrocausality.md](/concepts/retrocausality/)
 - **Location**: Lines 106-111
 - **Problem**: The article cites contemplative evidence—meditators describing awareness 'standing outside temporal flow'—as supporting the atemporal selection model. But this interpretation is one among several. Meditators report many things; interpreting 'awareness outside temporal flow' as evidence for physics-level retrocausality is a significant leap. Alternative interpretations: the reports reflect altered states that reveal nothing about physics; the reports reflect the phenomenology of deep concentration, not metaphysical truth; the reports use spatial/temporal metaphors inadequately for describing non-ordinary states. The article presents contemplative evidence as supporting retrocausality without acknowledging interpretive alternatives.
 - **Severity**: Medium

@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-28
 **Content reviewed**:
-- `topics/chalmers-psychophysical-coupling.md`
-- `topics/personal-identity.md`
-- `topics/contemplative-evidence-for-consciousness-theories.md`
+- [topics/chalmers-psychophysical-coupling.md](/topics/psychophysical-laws-bridging-mind-and-matter/)
+- [topics/personal-identity.md](/topics/personal-identity/)
+- [topics/contemplative-evidence-for-consciousness-theories.md](/topics/contemplative-evidence-for-consciousness/)
 
 ## Executive Summary
 
@@ -125,7 +125,7 @@ This isn't solipsism or nihilism—experience arises. But it doesn't arise *to* 
 
 ### Issue 1: Haecceity Is Unfalsifiable
 
-- **File**: `topics/personal-identity.md`
+- **File**: [topics/personal-identity.md](/topics/personal-identity/)
 - **Location**: Lines 127-137 (What Personal Identity Requires section)
 - **Problem**: The article commits to 'indexical uniqueness: the unrepeatable fact that *you* are this conscious being and not another, even if another were qualitatively identical.' But how do we know this fact obtains? The article says we know 'not because we've verified' but 'because I am the subject producing' the reports. This is introspective certainty, not evidence.
 
@@ -137,7 +137,7 @@ This makes haecceity a metaphysical posit without empirical content—exactly th
 
 ### Issue 2: Content Specificity Doesn't Establish Phenomenal Causation
 
-- **File**: `topics/contemplative-evidence-for-consciousness-theories.md`
+- **File**: [topics/contemplative-evidence-for-consciousness-theories.md](/topics/contemplative-evidence-for-consciousness/)
 - **Location**: Lines 67-74 (Content Specificity section)
 - **Problem**: The article argues: different phenomenological contents (compassion vs breath attention) produce different neural outcomes; therefore phenomenology is causal. But this inference is invalid. The epiphenomenalist response: the brain state producing 'compassion phenomenology' also produces 'compassion-related neural changes.' The phenomenology and the changes are both effects of the brain state; neither causes the other.
 
@@ -149,7 +149,7 @@ The article calls this 'multiplying brute correlations.' But it's not brute—it
 
 ### Issue 3: Rejecting Organisational Invariance Underspecifies Psychophysical Laws
 
-- **File**: `topics/chalmers-psychophysical-coupling.md`
+- **File**: [topics/chalmers-psychophysical-coupling.md](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - **Location**: Lines 60-66 (The Map's divergence on organisational invariance)
 - **Problem**: The article rejects Chalmers' organisational invariance: 'Two systems could share all functional properties yet differ in *which* consciousness (if any) accompanies them.' But if functional organisation doesn't determine consciousness, what does?
 
@@ -161,7 +161,7 @@ The article says: 'If organisational invariance holds, psychophysical laws can b
 
 ### Issue 4: Quantum Mechanism Timing Problem
 
-- **File**: `topics/chalmers-psychophysical-coupling.md`
+- **File**: [topics/chalmers-psychophysical-coupling.md](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - **Location**: Lines 136-139 (Challenges section)
 - **Problem**: The article mentions the Quantum Zeno problem but dismisses it with: 'Attention doesn't preserve superposition; it biases which state becomes actual when collapse occurs.' But when does collapse occur?
 
@@ -173,7 +173,7 @@ The article doesn't address this timing mismatch. It's not enough to say conscio
 
 ### Issue 5: Witness Consciousness Assumes What It Needs to Prove
 
-- **File**: `topics/contemplative-evidence-for-consciousness-theories.md`
+- **File**: [topics/contemplative-evidence-for-consciousness-theories.md](/topics/contemplative-evidence-for-consciousness/)
 - **Location**: Lines 127-133 (Witness Consciousness section)
 - **Problem**: The article argues: 'consciousness can observe and modify its own relationship to neural processes... If consciousness were identical to neural activity, there should be no perspective from which to observe the construction.'
 
@@ -185,7 +185,7 @@ The article assumes a substantive witness (something that observes) rather than 
 
 ### Issue 6: Process Philosophy Tension with Haecceity
 
-- **File**: `topics/personal-identity.md`
+- **File**: [topics/personal-identity.md](/topics/personal-identity/)
 - **Location**: Lines 203-215 (Process Philosophy Perspective section)
 - **Problem**: The article invokes Whitehead: 'Temporal haecceity: each moment of experience is *this* moment, unrepeatable and particular.' But Whitehead's actual occasions perish immediately—each is a momentary becoming that ceases. What persists?
 

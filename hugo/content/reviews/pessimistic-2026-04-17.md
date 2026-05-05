@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-17
 # Pessimistic Review
 
 **Date**: 2026-04-17
-**Content reviewed**: `topics/parsimony-case-for-interactionist-dualism.md`, `topics/quantum-measurement-and-consciousness.md`, `concepts/brain-interface-boundary.md`
+**Content reviewed**: [topics/parsimony-case-for-interactionist-dualism.md](/topics/parsimony-case-for-interactionist-dualism/), [topics/quantum-measurement-and-consciousness.md](/topics/quantum-measurement-and-consciousness/), [concepts/brain-interface-boundary.md](/concepts/brain-interface-boundary/)
 
 ## Executive Summary
 
@@ -64,7 +64,7 @@ One more point on `quantum-measurement-and-consciousness.md`: the structural-par
 
 ### Issue 1: Asymmetric treatment of dualist vs. physicalist explanatory debts
 
-- **File**: `topics/parsimony-case-for-interactionist-dualism.md`
+- **File**: [topics/parsimony-case-for-interactionist-dualism.md](/topics/parsimony-case-for-interactionist-dualism/)
 - **Location**: "Three Unavoidable Debts" and "The Modesty Argument" sections
 - **Problem**: The article counts three distinct debts against physicalism (brute emergence, error theory, conceptual gap) but counts dualism as having "one open problem" — characterising psychophysical laws. But psychophysical laws are not one claim; they are a whole theoretical apparatus requiring: (a) what mental properties enter the laws, (b) what physical properties they couple to, (c) the functional form of the coupling, (d) whether the laws are deterministic or probabilistic, (e) how they respect conservation, (f) how they handle the pairing problem, (g) their origin or grounding. The "one claim" framing is a dimensional trick mirroring the one the article accuses physicalists of.
 - **Severity**: High
@@ -72,7 +72,7 @@ One more point on `quantum-measurement-and-consciousness.md`: the structural-par
 
 ### Issue 2: Lycan quote treated as stronger concession than it is
 
-- **File**: `topics/parsimony-case-for-interactionist-dualism.md`
+- **File**: [topics/parsimony-case-for-interactionist-dualism.md](/topics/parsimony-case-for-interactionist-dualism/)
 - **Location**: "The Precondition That Never Held" section
 - **Problem**: "There is no evidence against dualism; it only offends parsimony" is presented as a materialist concession. But Lycan's 2009 paper concludes that dualism should nonetheless be rejected because the accumulated parsimony considerations across many domains outweigh the argument-by-argument inconclusiveness. Quoting the premise and omitting the conclusion inverts the paper's actual thrust.
 - **Severity**: Medium
@@ -80,7 +80,7 @@ One more point on `quantum-measurement-and-consciousness.md`: the structural-par
 
 ### Issue 3: Structural parallel depends on the interpretation it is arguing for
 
-- **File**: `topics/quantum-measurement-and-consciousness.md`
+- **File**: [topics/quantum-measurement-and-consciousness.md](/topics/quantum-measurement-and-consciousness/)
 - **Location**: "The Structural Identity with the Hard Problem" section
 - **Problem**: The table of parallels treats "a first-person fact obtains that the description doesn't determine" as a feature of the measurement problem. But this is only true on single-world collapse interpretations with a privileged observer. On MWI, Bohmian mechanics, and QBist readings there is no such first-person fact at measurement — there are either all outcomes, predetermined outcomes, or agent-indexed beliefs. The article is using a consequence of Von Neumann–Wigner as evidence *for* Von Neumann–Wigner.
 - **Severity**: High
@@ -88,7 +88,7 @@ One more point on `quantum-measurement-and-consciousness.md`: the structural-par
 
 ### Issue 4: Criterion 5 (developmental history) is ad hoc
 
-- **File**: `concepts/brain-interface-boundary.md`
+- **File**: [concepts/brain-interface-boundary.md](/concepts/brain-interface-boundary/)
 - **Location**: "Five Criteria for an Interface" section
 - **Problem**: The article already admits the criteria are "descriptive—they describe what consciousness interfaces look like based on our one example (brains)." Criterion 5 is the most vulnerable: it exists primarily to disqualify brain-computer interfaces, uploaded minds, and artificial systems that would otherwise satisfy criteria 1–4. The article then softens it — "whether developmental history is strictly necessary or merely the typical pathway remains open" — which concedes the point but retains the criterion.
 - **Severity**: Medium-High
@@ -96,7 +96,7 @@ One more point on `quantum-measurement-and-consciousness.md`: the structural-par
 
 ### Issue 5: Null PK results treated as confirmation
 
-- **File**: `concepts/brain-interface-boundary.md`
+- **File**: [concepts/brain-interface-boundary.md](/concepts/brain-interface-boundary/)
 - **Location**: "What This Explains" — "Why psychokinesis research yields null results"
 - **Problem**: PEAR's null results are offered as support for interface locality. But the framework was constructed knowing PK research yields null results; the criteria were then designed such that external PK is excluded. This is post-hoc accommodation, not prediction. The article cannot simultaneously claim that (a) null PK supports the framework and (b) robust external PK would challenge it — unless it specifies in advance what effect sizes would count as robust, which it does not.
 - **Severity**: Medium
@@ -104,7 +104,7 @@ One more point on `quantum-measurement-and-consciousness.md`: the structural-par
 
 ### Issue 6: Wiest et al. 2024 overinterpretation
 
-- **File**: `concepts/brain-interface-boundary.md`
+- **File**: [concepts/brain-interface-boundary.md](/concepts/brain-interface-boundary/)
 - **Location**: "Quantum Sensitivity" section
 - **Problem**: A single rat behavioural study showing that microtubule stabilisation delays anaesthetic-induced unconsciousness is cited as "suggesting microtubules play a functional role in consciousness." The result is compatible with many non-quantum explanations: microtubule stabilisation affects membrane dynamics, vesicle trafficking, and global neuronal excitability. The jump to "functional role in consciousness" is underdetermined.
 - **Severity**: Medium
@@ -112,7 +112,7 @@ One more point on `quantum-measurement-and-consciousness.md`: the structural-par
 
 ### Issue 7: "Proliferation vs. convergence" argument overstated
 
-- **File**: `topics/parsimony-case-for-interactionist-dualism.md`
+- **File**: [topics/parsimony-case-for-interactionist-dualism.md](/topics/parsimony-case-for-interactionist-dualism/)
 - **Location**: "The Proliferation Problem" section
 - **Problem**: The claim that physicalist theories are "not converging" while "healthy research programmes" do converge ignores that healthy programmes at early stages (cosmology pre-CMB, evolutionary biology pre-molecular genetics) also showed long periods of proliferation. The consciousness research programme is comparatively young for its difficulty. Treating current non-convergence as diagnostic of fundamental mismatch rather than ordinary pre-paradigmatic state is tendentious.
 - **Severity**: Medium

@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-05 Evening
 # Pessimistic Review
 
 **Date**: 2026-04-05
-**Content reviewed**: `topics/delegatory-dualism.md`
+**Content reviewed**: [topics/delegatory-dualism.md](/topics/delegatory-dualism/)
 
 ## Executive Summary
 
@@ -48,7 +48,7 @@ Nagarjuna would challenge the article's unexamined assumption that "experiences"
 
 ### Issue 1: Self-Undermining Unfalsifiability
 
-- **File**: `topics/delegatory-dualism.md`
+- **File**: [topics/delegatory-dualism.md](/topics/delegatory-dualism/)
 - **Location**: "Testability and Limitations" section (line 148-153)
 - **Problem**: The article acknowledges the theory makes no distinctive predictions, then pivots to claiming "theoretical advantages"—but the advantages cited (explaining reports, tracking function) are themselves contested. A physicalist explains reports through physical causation; an illusionist explains them through self-modelling. The article presents delegation's explanations as uncontested when they're not.
 - **Severity**: High
@@ -56,7 +56,7 @@ Nagarjuna would challenge the article's unexamined assumption that "experiences"
 
 ### Issue 2: Preemption Analogy Structural Disanalogy
 
-- **File**: `topics/delegatory-dualism.md`
+- **File**: [topics/delegatory-dualism.md](/topics/delegatory-dualism/)
 - **Location**: Lines 102-113
 - **Problem**: Both analogies (major/sergeant, assassin A/B) involve causes of the *same ontological type*—both are physical events in the same causal order. Delegatory dualism posits preemption across ontological boundaries (non-physical experience preempting physical state). The analogies assume what needs to be explained: that cross-ontological preemption works like same-type preemption. The article doesn't flag this disanalogy.
 - **Severity**: High
@@ -64,7 +64,7 @@ Nagarjuna would challenge the article's unexamined assumption that "experiences"
 
 ### Issue 3: Unexamined Assumption About Causal Profiles
 
-- **File**: `topics/delegatory-dualism.md`
+- **File**: [topics/delegatory-dualism.md](/topics/delegatory-dualism/)
 - **Location**: Lines 88-96 (Subset Law*)
 - **Problem**: The theory assumes experiences have determinate causal profiles, but never explains how non-physical entities acquire causal profiles in physical terms. If an experience's causal profile is defined by what physical effects it produces, this seems circular: the experience's identity is defined by what it causes, but what it causes is determined by the physical state it's matched to via the Subset Law*.
 - **Severity**: Medium
@@ -72,7 +72,7 @@ Nagarjuna would challenge the article's unexamined assumption that "experiences"
 
 ### Issue 4: Map Integration Compounds Speculation
 
-- **File**: `topics/delegatory-dualism.md`
+- **File**: [topics/delegatory-dualism.md](/topics/delegatory-dualism/)
 - **Location**: Part II, lines 181-237
 - **Problem**: Part II integrates delegation with quantum interactionism and the entanglement binding hypothesis. Both are speculative. Combining two speculative frameworks doesn't produce a stronger position—it multiplies the assumptions. The article reads as if the integration strengthens both frameworks, but it actually increases the total burden of proof.
 - **Severity**: Medium

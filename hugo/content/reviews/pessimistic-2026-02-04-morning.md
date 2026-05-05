@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-04
 **Content reviewed**:
-- `concepts/mind-matter-interface.md`
-- `concepts/consciousness-selecting-neural-patterns.md`
-- `concepts/brain-interface-boundary.md`
+- [concepts/mind-matter-interface.md](/concepts/mind-matter-interface/)
+- [concepts/consciousness-selecting-neural-patterns.md](/concepts/consciousness-selecting-neural-patterns/)
+- [concepts/brain-interface-boundary.md](/concepts/brain-interface-boundary/)
 
 ## Executive Summary
 

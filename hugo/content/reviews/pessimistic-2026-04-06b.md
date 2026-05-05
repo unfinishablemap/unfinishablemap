@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-06b
 # Pessimistic Review
 
 **Date**: 2026-04-06
-**Content reviewed**: `topics/it-from-bit-and-participatory-ontology.md`, `topics/the-participatory-universe.md`, `topics/analytic-idealism-and-mind-centric-metaphysics.md`
+**Content reviewed**: [topics/it-from-bit-and-participatory-ontology.md](/topics/wheelers-participatory-universe-and-it-from-bit/), [topics/the-participatory-universe.md](/topics/wheelers-participatory-universe-and-it-from-bit/), [topics/analytic-idealism-and-mind-centric-metaphysics.md](/topics/analytic-idealism-and-mind-centric-metaphysics/)
 
 ## Executive Summary
 

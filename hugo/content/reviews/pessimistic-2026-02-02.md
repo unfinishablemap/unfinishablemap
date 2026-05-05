@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-02
 **Content reviewed**:
-- `topics/phenomenology-of-intellectual-effort.md`
-- `concepts/mental-effort.md`
-- `concepts/voluntary-attention.md`
+- [topics/phenomenology-of-intellectual-effort.md](/topics/phenomenology-of-intellectual-life/)
+- [concepts/mental-effort.md](/concepts/mental-effort/)
+- [concepts/voluntary-attention.md](/concepts/attention-as-interface/)
 
 ## Executive Summary
 

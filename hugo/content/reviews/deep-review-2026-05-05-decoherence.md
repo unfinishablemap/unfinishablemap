@@ -21,7 +21,7 @@ topics: []
 **Date**: 2026-05-05
 **Article**: [Decoherence and the Quantum Consciousness Objection](/concepts/decoherence/)
 **Previous review**: [2026-04-27](/reviews/deep-review-2026-04-27-decoherence/)
-**Context**: Cross-review of `concepts/decoherence.md` against the animal-consciousness Tegmark/Hagan/Reimers/McKemmish framing introduced 2026-05-04 in [animal-consciousness](/topics/animal-consciousness/). The cross-review prompt and the 2026-05-05 optimistic review both flagged that the dedicated decoherence article should mirror the live-dispute framing the animal-consciousness article now uses for the same dispute.
+**Context**: Cross-review of [concepts/decoherence.md](/concepts/decoherence/) against the animal-consciousness Tegmark/Hagan/Reimers/McKemmish framing introduced 2026-05-04 in [animal-consciousness](/topics/animal-consciousness/). The cross-review prompt and the 2026-05-05 optimistic review both flagged that the dedicated decoherence article should mirror the live-dispute framing the animal-consciousness article now uses for the same dispute.
 
 ## Pessimistic Analysis Summary
 
@@ -41,7 +41,7 @@ All six adversarial personas engaged with the new context. The Quantum Skeptic (
 
 - **Tegmark (2000)**: Attribution unchanged from prior review; correct.
 - **Hagan et al. (2002)**: Attribution corrected — no longer presented as a closed rebuttal of Tegmark; the body now flags that Hagan's parameter set was subsequently re-examined.
-- **Reimers et al. (2009) and McKemmish et al. (2009)**: Newly added; attributions match the citations in `topics/animal-consciousness.md` and `topics/cetacean-and-corvid-consciousness.md`.
+- **Reimers et al. (2009) and McKemmish et al. (2009)**: Newly added; attributions match the citations in [topics/animal-consciousness.md](/topics/animal-consciousness/) and [topics/cetacean-and-corvid-consciousness.md](/topics/cetacean-and-corvid-consciousness/).
 - **Bandyopadhyay (2014), Wiest et al. (2024, 2025), Fisher (2015)**: Unchanged; correctly attributed.
 - **Stapp's mechanism**: Unchanged.
 - **Map's tenet-driven framing**: Now explicitly stated for the microtubule-scale interest, paralleling the animal-consciousness article's framing.

@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-02
 # Pessimistic Review
 
 **Date**: 2026-04-02
-**Content reviewed**: `concepts/attention-as-interface.md`, `topics/consciousness-and-the-phenomenology-of-place.md`
+**Content reviewed**: [concepts/attention-as-interface.md](/concepts/attention-as-interface/), [topics/consciousness-and-the-phenomenology-of-place.md](/topics/consciousness-and-the-phenomenology-of-place/)
 
 ## Executive Summary
 
@@ -63,35 +63,35 @@ The falsification conditions are unevenly rigorous. Condition 2 ("phenomenal att
 ## Critical Issues
 
 ### Issue 1: The 10 bits/s Bandwidth Misattribution
-- **File**: `concepts/attention-as-interface.md`
+- **File**: [concepts/attention-as-interface.md](/concepts/attention-as-interface/)
 - **Location**: The Phenomenal/Computational Distinction table and surrounding text
 - **Problem**: The article treats the ~10 bits/s figure (Zheng & Meister 2024) as measuring "phenomenal attention" bandwidth. The original paper measures the throughput of conscious *behaviour* (motor output, decision-making). This is the bandwidth of conscious *report and action*, not necessarily of a special phenomenal process. The article's inference — that the bandwidth gap proves phenomenal attention is "a different kind of process operating through a constrained interface" — does not follow. The bottleneck could be in the translation from parallel processing to serial conscious access, with no separate phenomenal layer required.
 - **Severity**: Medium
 - **Recommendation**: Acknowledge that the 10 bits/s figure measures conscious behavioural throughput, not phenomenal attention per se. The bandwidth asymmetry is still suggestive but should not be presented as straightforwardly evidencing a distinct phenomenal process.
 
 ### Issue 2: Hard Problem Relocation, Not Resolution
-- **File**: `concepts/attention-as-interface.md`
+- **File**: [concepts/attention-as-interface.md](/concepts/attention-as-interface/)
 - **Location**: Phenomenal Attention and Effort section
 - **Problem**: The article asks why computational attention should "feel like anything" and presents the interface hypothesis as addressing this. But the interface hypothesis does not explain why consciousness biasing quantum outcomes should feel like anything either. The hard problem is relocated from "why does computation feel?" to "why does quantum selection feel?" — a lateral move, not progress. The article should acknowledge this explicitly.
 - **Severity**: Medium
 - **Recommendation**: Add a brief acknowledgement that the interface hypothesis specifies *where* consciousness acts, not *why* consciousness exists. The hard problem persists under dualism as much as under physicalism.
 
 ### Issue 3: Restricted Physical Description in Place Article
-- **File**: `topics/consciousness-and-the-phenomenology-of-place.md`
+- **File**: [topics/consciousness-and-the-phenomenology-of-place.md](/topics/consciousness-and-the-phenomenology-of-place/)
 - **Location**: Opening paragraph and Relation to Site Perspective (dualism paragraph)
 - **Problem**: "A complete physical description of a room's dimensions, lighting, temperature, and acoustic properties leaves out everything that matters" — but this is not a *complete* physical description. A complete description would include the observer's neural state, memory traces, and endocrine context. The article's irreducibility argument depends on restricting "physical" to the external environment, then noting that external properties alone don't predict experience. The dualism section partially addresses this ("a physicalist will object that two people experience the same room differently because their brain states differ") but then dismisses it too quickly.
 - **Severity**: Medium
 - **Recommendation**: Tighten the opening claim. Either specify that the complete physical description includes the observer's brain state (and then argue that even this is insufficient), or flag that the initial formulation is deliberately simplified. The current version is vulnerable to the Dennettian objection.
 
 ### Issue 4: IIT Critique Uses a Strawman Metric
-- **File**: `topics/consciousness-and-the-phenomenology-of-place.md`
+- **File**: [topics/consciousness-and-the-phenomenology-of-place.md](/topics/consciousness-and-the-phenomenology-of-place/)
 - **Location**: Atmosphere and the Binding Problem section
 - **Problem**: "Two rooms might generate equally integrated multi-modal states while differing completely in atmospheric quality" — this treats IIT's phi as a single scalar measuring "amount of integration." But IIT's conceptual structure (the quale shape in qualia space) is far richer than a single number. IIT's claim is that the *entire structure* of integrated information — its specific geometry in concept space — determines phenomenal character, not just the degree. The article critiques a simplified version of IIT rather than the actual theory.
 - **Severity**: Medium
 - **Recommendation**: Engage with IIT's concept of the quale as a multi-dimensional structure, not just a scalar. The argument might still hold (does IIT's structural description capture the *specific* atmospheric quality?), but it should address the actual theory rather than a simplification.
 
 ### Issue 5: Unfalsifiable Irreducibility in Place Article
-- **File**: `topics/consciousness-and-the-phenomenology-of-place.md`
+- **File**: [topics/consciousness-and-the-phenomenology-of-place.md](/topics/consciousness-and-the-phenomenology-of-place/)
 - **Location**: What Would Challenge This View? section
 - **Problem**: Falsification condition 1 ("atmospheric quality proved functionally predictable") sets an extremely high bar — predicting specific qualia from function — that is essentially the hard problem itself. This makes the irreducibility claim practically unfalsifiable: any failure to predict can be attributed to the hard problem rather than to the specific claims about place-experience. The article needs to distinguish what is novel about place-irreducibility from the general hard problem.
 - **Severity**: Medium

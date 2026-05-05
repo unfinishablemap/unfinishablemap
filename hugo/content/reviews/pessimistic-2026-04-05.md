@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-05
 # Pessimistic Review
 
 **Date**: 2026-04-05
-**Content reviewed**: `concepts/quantum-indeterminacy-free-will.md`, `concepts/evolution-of-consciousness.md`
+**Content reviewed**: [concepts/quantum-indeterminacy-free-will.md](/concepts/quantum-indeterminacy-free-will/), [concepts/evolution-of-consciousness.md](/concepts/evolution-of-consciousness/)
 
 ## Executive Summary
 

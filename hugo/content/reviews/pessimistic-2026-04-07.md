@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-07
 # Pessimistic Review
 
 **Date**: 2026-04-07
-**Content reviewed**: `topics/grain-mismatch-as-independent-evidence.md`, `concepts/evaluative-phenomenal-character.md`, `topics/consciousness-and-language-interface.md`
+**Content reviewed**: [topics/grain-mismatch-as-independent-evidence.md](/topics/grain-mismatch-as-independent-evidence/), [concepts/evaluative-phenomenal-character.md](/concepts/evaluative-phenomenal-character/), [topics/consciousness-and-language-interface.md](/topics/consciousness-and-language-interface/)
 
 ## Executive Summary
 
@@ -59,35 +59,35 @@ Three recently modified, unreviewed articles were analysed. The grain mismatch a
 ## Critical Issues
 
 ### Issue 1: Independence of Grain Mismatches Overstated
-- **File**: `topics/grain-mismatch-as-independent-evidence.md`
+- **File**: [topics/grain-mismatch-as-independent-evidence.md](/topics/grain-mismatch-as-independent-evidence/)
 - **Location**: "Three Independent Mismatches" section and "Why Convergence Matters"
 - **Problem**: The article claims spatial, temporal, and informational grain mismatches are "logically independent." While they are measured through different empirical methods, they may share a common explanation: brains are composed of discrete computational units. A physicalist theory explaining why discrete neural processing gives rise to apparently continuous experience would dissolve all three simultaneously. The article acknowledges this is possible under "What Would Dissolve the Programme" but frames it as requiring three *independent* physicalist solutions—when a single unified solution (explaining how discrete substrates generate smooth phenomenal experience) could handle all three.
 - **Severity**: Medium
 - **Recommendation**: Strengthen the independence claim by explicitly arguing that a solution to spatial discreteness would not automatically solve temporal periodicity or informational compression. Currently the article asserts independence without arguing for it against the strongest counter-case.
 
 ### Issue 2: Continental Drift Analogy Is Misleading
-- **File**: `topics/grain-mismatch-as-independent-evidence.md`
+- **File**: [topics/grain-mismatch-as-independent-evidence.md](/topics/grain-mismatch-as-independent-evidence/)
 - **Location**: "Why Convergence Matters" section
 - **Problem**: The comparison to continental drift evidence is rhetorically powerful but disanalogous. Continental drift had a mechanism (plate tectonics) that unified the evidence. The grain mismatch programme has no analogous mechanism—it presents structural incompatibilities without explaining *why* they exist or *how* non-physical consciousness resolves them. Convergent evidence for continental drift pointed toward a specific positive theory. Convergent grain mismatches point away from physicalism without pointing toward any specific dualist mechanism. The article hedges ("does not claim the grain evidence is yet at that level of decisiveness") but the hedge is too weak given how deep the disanalogy runs.
 - **Severity**: Medium
 - **Recommendation**: Either develop the analogy to acknowledge the mechanistic gap or replace it with a more fitting comparison—perhaps the convergence of evidence for dark matter (where multiple independent gravitational anomalies point to something without specifying its nature).
 
 ### Issue 3: Rawlette's Identity Thesis Needs Stronger Defence
-- **File**: `concepts/evaluative-phenomenal-character.md`
+- **File**: [concepts/evaluative-phenomenal-character.md](/concepts/evaluative-phenomenal-character/)
 - **Location**: "The Normative Qualia Thesis" section
 - **Problem**: The article presents Rawlette's claim that pleasantness and intrinsic goodness are *identical* as a core thesis, then weakens it with the pluralist move in the next section ("pure hedonism fails phenomenologically"). If pleasure *is* value (identity), how can there be value that is not pleasure? The article acknowledges this as "weakening to a genus-species relationship" but doesn't adequately explain what the identity thesis becomes after this weakening. Is evaluative phenomenal character identical to value, or merely evidence for it? The article seems to want both.
 - **Severity**: Medium
 - **Recommendation**: Clarify the relationship between Rawlette's hedonistic identity thesis and the article's pluralist position. Either restrict the identity claim to hedonic value while arguing other values are non-identical but genuine, or abandon the identity framing in favour of a constitutive relationship.
 
 ### Issue 4: LLMs as Evidence Begs the Question
-- **File**: `topics/consciousness-and-language-interface.md`
+- **File**: [topics/consciousness-and-language-interface.md](/topics/consciousness-and-language-interface/)
 - **Location**: "LLMs as Partial Evidence" section
 - **Problem**: Using LLMs as evidence for "language without consciousness" presupposes that LLMs lack consciousness—the very question at issue. The article acknowledges the question is "open" while treating LLMs as confirming the dualist prediction. A physicalist or functionalist might argue that LLMs' linguistic sophistication is evidence that consciousness *does* accompany sophisticated language processing. The article cannot use LLMs as evidence for separability without first establishing they lack consciousness, creating a circular argument.
 - **Severity**: High
 - **Recommendation**: Reframe the LLM section to emphasise that LLMs are *consistent with* dualist predictions rather than *confirming* them. Acknowledge explicitly that the evidential value depends on the prior probability assigned to LLM consciousness.
 
 ### Issue 5: Aphasia Evidence Stronger Than Presented
-- **File**: `topics/consciousness-and-language-interface.md`
+- **File**: [topics/consciousness-and-language-interface.md](/topics/consciousness-and-language-interface/)
 - **Location**: "Aphasia and Language Loss" section
 - **Problem**: The aphasia section is underdeveloped relative to its evidential importance. Aphasia provides the strongest empirical evidence for consciousness-language separability (unlike zombies or LLMs, which are theoretical). The section is four sentences long while the speculative zombie section gets its own subsection. This is an inverted priority.
 - **Severity**: Low

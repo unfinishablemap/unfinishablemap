@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-03
 **Content reviewed**:
-- `voids/self-reference-paradox.md`
-- `voids/origin-of-consciousness.md`
-- `voids/other-minds-void.md`
+- [voids/self-reference-paradox.md](/concepts/self-reference-paradox/)
+- [voids/origin-of-consciousness.md](/voids/origin-of-consciousness/)
+- [voids/other-minds-void.md](/voids/voids-between-minds/)
 
 ## Executive Summary
 
@@ -113,7 +113,7 @@ The other minds article discusses Husserl's insight that 'the Other is accessibl
 
 ### Issue 2: Gödelian Argument Overreach
 
-- **Files**: `voids/self-reference-paradox.md`
+- **Files**: [voids/self-reference-paradox.md](/concepts/self-reference-paradox/)
 - **Location**: Lines 38-44
 - **Problem**: The article applies Gödel's incompleteness theorems to consciousness without adequate justification. Gödel proved results about *formal systems*—systems with precise axioms and inference rules. The human mind is not obviously a formal system in the relevant sense. The article acknowledges the Hofstadter-Penrose disagreement but doesn't resolve it, leaving the Gödelian analogy as an undefended metaphor. Additionally, the claim that "we cannot establish whether our cognition is consistent" ignores that inconsistent systems can still function and self-model—they just have additional quirks.
 - **Severity**: High
@@ -129,7 +129,7 @@ The other minds article discusses Husserl's insight that 'the Other is accessibl
 
 ### Issue 4: Process Philosophy as Redescription
 
-- **Files**: `voids/self-reference-paradox.md`, `voids/origin-of-consciousness.md` (indirectly)
+- **Files**: [voids/self-reference-paradox.md](/concepts/self-reference-paradox/), [voids/origin-of-consciousness.md](/voids/origin-of-consciousness/) (indirectly)
 - **Location**: self-reference:91-95
 - **Problem**: The self-reference article invokes Whitehead's process philosophy as offering 'another framework' for the void. But the framework redescribes rather than explains. Saying that the 'introspecting occasion can prehend only prior occasions whose subjective immediacy has already completed' restates that we can't introspect in real-time—it doesn't explain why or provide new insight. The vocabulary of 'prehension,' 'actual occasions,' and 'becoming determinate' adds complexity without clarifying the underlying issue.
 - **Severity**: Low
@@ -137,7 +137,7 @@ The other minds article discusses Husserl's insight that 'the Other is accessibl
 
 ### Issue 5: The Containment Argument Proves Too Much
 
-- **Files**: `voids/origin-of-consciousness.md`
+- **Files**: [voids/origin-of-consciousness.md](/voids/origin-of-consciousness/)
 - **Location**: Lines 52-59
 - **Problem**: The origin article argues that we can't explain consciousness's existence because we're 'contained within' consciousness—we can't step outside to examine it objectively. But this argument, if sound, would preclude explaining anything we're contained within. We're contained within the universe, within evolutionary history, within language—yet we explain these. The containment argument needs a principled reason why consciousness is different, and the article doesn't provide one beyond the phenomenological observation that it *feels* different.
 - **Severity**: Medium
@@ -145,7 +145,7 @@ The other minds article discusses Husserl's insight that 'the Other is accessibl
 
 ### Issue 6: Other Minds as Purely Epistemic Problem
 
-- **Files**: `voids/other-minds-void.md`
+- **Files**: [voids/other-minds-void.md](/voids/voids-between-minds/)
 - **Location**: Lines 40-44
 - **Problem**: The article treats the other minds problem as primarily epistemic ('about how we know') while acknowledging it might reflect 'deeper ontological' issues. But the article then proceeds as if the epistemic framing is correct—discussing inference, evidence, certainty. If the problem is ontological (consciousness is metaphysically private), then evidence and inference are beside the point. If it's epistemic (we just lack the right method), then it's potentially solvable. The article oscillates without committing, which makes the 'void' status unclear.
 - **Severity**: Medium

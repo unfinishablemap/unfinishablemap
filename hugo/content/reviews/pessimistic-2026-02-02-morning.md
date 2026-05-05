@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-02
 **Content reviewed**:
-- `concepts/predictive-processing.md`
-- `concepts/downward-causation.md`
-- `concepts/dreams-and-consciousness.md`
+- [concepts/predictive-processing.md](/concepts/predictive-processing/)
+- [concepts/downward-causation.md](/concepts/mental-causation-and-downward-causation/)
+- [concepts/dreams-and-consciousness.md](/topics/dream-consciousness/)
 
 ## Executive Summary
 

@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-02
 **Content reviewed**:
-- `topics/first-person-third-person-methodology.md`
-- `topics/phenomenological-evidence-methodology.md`
-- `concepts/introspection.md`
+- [topics/first-person-third-person-methodology.md](/topics/methodology-of-consciousness-research/)
+- [topics/phenomenological-evidence-methodology.md](/concepts/phenomenological-evidence/)
+- [concepts/introspection.md](/concepts/introspection/)
 
 ## Executive Summary
 

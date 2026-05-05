@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-01-31
 **Content reviewed**:
-- `voids/computational-cognitive-limits.md`
-- `voids/past-self-void.md`
-- `voids/natural-vs-designed-limits.md`
+- [voids/computational-cognitive-limits.md](/voids/formal-cognitive-limits/)
+- [voids/past-self-void.md](/voids/inaccessible-past/)
+- [voids/natural-vs-designed-limits.md](/voids/meta-epistemology-of-limits/)
 
 ## Executive Summary
 
@@ -105,7 +105,7 @@ The natural-vs-designed article is the most susceptible to Buddhist critique. It
 
 ### Issue 1: Equivocation Between Computational and Phenomenal Limits
 
-- **File**: `voids/computational-cognitive-limits.md`
+- **File**: [voids/computational-cognitive-limits.md](/voids/formal-cognitive-limits/)
 - **Location**: Throughout, especially lines 46-50 and 96-104
 - **Problem**: The article repeatedly moves between claims about computation and claims about consciousness without establishing their relationship. The Gödel/Turing/Chaitin results apply to formal systems. Whether they apply to human cognition depends on whether cognition is computational—precisely the question dualists dispute. The article invokes Penrose to suggest consciousness might transcend computation, which would make the computational limits irrelevant to consciousness. Yet it also treats computational limits as creating genuine 'voids' for conscious minds. If consciousness transcends computation, computational limits don't bind consciousness. If computation binds consciousness, the dualist claim weakens. The article avoids choosing, trying to have both.
 - **Severity**: High
@@ -113,7 +113,7 @@ The natural-vs-designed article is the most susceptible to Buddhist critique. It
 
 ### Issue 2: Self-Undermining Methodology in Natural-vs-Designed
 
-- **File**: `voids/natural-vs-designed-limits.md`
+- **File**: [voids/natural-vs-designed-limits.md](/voids/meta-epistemology-of-limits/)
 - **Location**: Lines 123-131
 - **Problem**: The article acknowledges that the question 'are cognitive limits designed?' may be unanswerable from inside cognition because the very faculties used to investigate might be part of the design. This recursive trap is appropriately identified. But the article then proceeds to 'investigate' the question anyway, describing detection methods, offering distinctions, and drawing conclusions. If the investigation is self-undermining, these conclusions are undermined. The article cannot simultaneously claim the question is unanswerable and offer substantive analysis of it.
 - **Severity**: High
@@ -121,7 +121,7 @@ The natural-vs-designed article is the most susceptible to Buddhist critique. It
 
 ### Issue 3: Phenomenological Evidence Treated as Reliable
 
-- **File**: `voids/past-self-void.md`
+- **File**: [voids/past-self-void.md](/voids/inaccessible-past/)
 - **Location**: Lines 61-71
 - **Problem**: The article presents phenomenological descriptions—'nostalgic estrangement,' 'autobiographical vertigo,' 'varying felt connection'—as evidence for the void's character. But elsewhere the Map questions whether phenomenological access is reliable (illusionism challenges, the self-reference paradox). The cluster's third article questions whether our cognitive faculties might be systematically designed to mislead. If phenomenology might be unreliable, the phenomenological evidence for the past-self void is undermined. The articles cannot consistently rely on phenomenology while questioning its reliability.
 - **Severity**: Medium
@@ -137,7 +137,7 @@ The natural-vs-designed article is the most susceptible to Buddhist critique. It
 
 ### Issue 5: Insufficient Engagement with Functionalist Response
 
-- **File**: `voids/past-self-void.md`
+- **File**: [voids/past-self-void.md](/voids/inaccessible-past/)
 - **Location**: Lines 113-117
 - **Problem**: The article presents a brief 'functionalist objection' and responds that functionalism 'works only if phenomenal experience reduces to functional role. But it doesn't.' This is an assertion, not an argument. The article's response—that HSAM individuals have excellent functional access but still cannot 're-enter' past experience—begs the question. The functionalist would say there's nothing to 're-enter' beyond functional traces; the sense that something is missing is itself a functional state. The article dismisses this without engaging it: 'The void concerns what it was like, not what role it plays.' This assumes the distinction the functionalist denies.
 - **Severity**: Medium
@@ -145,7 +145,7 @@ The natural-vs-designed article is the most susceptible to Buddhist critique. It
 
 ### Issue 6: The Penrose Argument Presented Without Critique
 
-- **File**: `voids/computational-cognitive-limits.md`
+- **File**: [voids/computational-cognitive-limits.md](/voids/formal-cognitive-limits/)
 - **Location**: Lines 46-51
 - **Problem**: The article presents the Lucas-Penrose argument as controversial but doesn't engage with the specific critiques. It notes critics argue 'human reasoning might be inconsistent' but doesn't develop this. The standard objections are substantial: (1) Humans can't actually see the truth of Gödel sentences—we accept them based on informal reasoning that might be mechanizable; (2) We can't be sure human reasoning is consistent; (3) Even Gödel held that his theorem was consistent with mechanism. By presenting Penrose without developing critiques, the article makes the non-computational possibility seem more plausible than it is among specialists.
 - **Severity**: Medium

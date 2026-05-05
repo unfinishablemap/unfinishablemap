@@ -49,10 +49,10 @@ All attributions verified in previous reviews and remain accurate:
 ### Medium Issues Found
 
 1. **Misleading cross-links in 4 other articles**: Four articles used `[Phenomenal value realism](/concepts/evaluative-phenomenal-character/)` — display text says "Phenomenal value realism" but links to the concept page `phenomenal-normativity` rather than the comprehensive topic `topics/phenomenal-value-realism`. **Resolution**: Fixed all four:
-   - `concepts/qualia.md` (line 57)
-   - `concepts/consciousness-value-connection.md` (line 73)
-   - `topics/animal-consciousness.md` (line 145)
-   - `topics/ai-consciousness.md` (line 164)
+   - [concepts/qualia.md](/concepts/qualia/) (line 57)
+   - [concepts/consciousness-value-connection.md](/concepts/consciousness-value-connection/) (line 73)
+   - [topics/animal-consciousness.md](/topics/animal-consciousness/) (line 145)
+   - [topics/ai-consciousness.md](/topics/ai-consciousness/) (line 164)
 
 ### Counterarguments Considered
 

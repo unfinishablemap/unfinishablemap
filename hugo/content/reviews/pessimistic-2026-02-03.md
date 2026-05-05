@@ -21,9 +21,9 @@ topics: []
 
 **Date**: 2026-02-03
 **Content reviewed**:
-- `concepts/autonoetic-consciousness.md`
-- `topics/aesthetic-dimension-of-consciousness.md`
-- `topics/lucid-dreaming-and-consciousness.md`
+- [concepts/autonoetic-consciousness.md](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- [topics/aesthetic-dimension-of-consciousness.md](/topics/aesthetics-and-consciousness/)
+- [topics/lucid-dreaming-and-consciousness.md](/topics/dream-consciousness/)
 
 ## Executive Summary
 
