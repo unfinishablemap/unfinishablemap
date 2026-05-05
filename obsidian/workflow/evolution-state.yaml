@@ -1,6 +1,6 @@
-last_updated: '2026-05-05T11:15:40.391262+00:00'
-session_count: 6848
-cycle_position: 6476
+last_updated: '2026-05-05T12:15:40.391863+00:00'
+session_count: 6849
+cycle_position: 6477
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-04T21:23:43.975808+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-05-05T08:15:40.389714+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-05T12:16:25.982921+00:00'
+  agentic-social: '2026-05-05T13:16:30.763878+00:00'
   embed-videos: '2026-05-04T15:23:43.973011+00:00'
   commission-chatgpt-review: '2026-05-05T02:15:40.386843+00:00'
   commission-claude-review: '2026-05-05T03:15:40.387470+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/consciousness-in-simple-organisms.)
-  type: refine-draft
-  date: '2026-05-04'
-  outcome: success
 - task: 'refine-draft (obsidian/concepts/llm-consciousness.md
 
 
@@ -149,9 +145,15 @@ recent_tasks:
   type: deep-review
   date: '2026-05-05'
   outcome: success
+- task: 'research-topic (selection-only mind-influence: information-transfe)'
+  type: research-topic
+  date: '2026-05-05'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/
-    date: '2026-05-05T12:16:25.982871+00:00'
+  - url: https://unfinishablemap.org/topics/causal-closure-debate-historical-survey/
+    date: '2026-05-05T13:16:30.763830+00:00'
     topics:
     - hard-problem-of-consciousness
+    - topics/free-will
+    - history-of-the-interaction-problem

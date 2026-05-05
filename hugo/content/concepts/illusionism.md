@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-01 05:40:00+00:00
+ai_modified: 2026-05-05 09:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ concepts:
 - '[[hard-problem-of-content]]'
 - '[[status-of-content]]'
 created: 2026-01-14
-date: &id001 2026-04-07
+date: &id001 2026-05-05
 description: The radical claim that phenomenal consciousness is an introspective illusion.
   Trades the hard problem for an equally hard illusion problem.
 draft: false
@@ -114,7 +114,7 @@ The mechanism that dissolves the regress is **quasi-phenomenal properties**: non
 
 ### Where the Functional Account Falls Short
 
-The functional-seeming move is the best version of illusionism available and deserves engagement on its own terms. Even so, it faces problems that the access/interpretation distinction does not resolve—problems that trace to the gap the Map's [Dualism tenet](/tenets/#dualism) identifies: the gap between what experience *does* (its functional role) and what experience *is* (its intrinsic character). The [functional-seeming](/concepts/functional-seeming/) article develops the first three objections in detail; the following summarises all five.
+The functional-seeming move is the best version of illusionism available and deserves engagement on its own terms. Even so, it faces problems that the access/interpretation distinction does not resolve—problems that trace to the gap the Map's [Dualism tenet](/tenets/#dualism) identifies: the gap between what experience *does* (its functional role) and what experience *is* (its intrinsic character). The five objections operate in different registers, and the Map's [direct-refutation discipline](/project/direct-refutation-discipline/) keeps them distinct: vantage-point, zombie convergence, self-representation, and seeming/processing all press Frankish using commitments his own framework endorses (mechanism, evidence, representational structure), while the intrinsic-quality objection runs through dualism and is honestly noted as framework-boundary disagreement rather than dressed as refutation inside materialism. The [functional-seeming](/concepts/functional-seeming/) article develops the first three objections in detail; the following summarises all five.
 
 **The vantage-point problem.** The distortion thesis analogises introspective error to phlogiston-style theoretical error. But combustion scientists had independent evidence (oxygen experiments) to reveal the distortion. For consciousness, no independent vantage point exists—the seeming itself is all the evidence available. Whether neuroscience describes the same phenomenon introspection accesses, or merely its physical correlates, is precisely what is at issue.
 
@@ -146,7 +146,7 @@ Illusionism and [epiphenomenalism](/concepts/epiphenomenalism/) present themselv
 
 Under epiphenomenalism, your brain state causes both the pain experience and your report—the experience is causally idle. Under illusionism, your brain state causes a quasi-phenomenal representation plus your report. In both cases, the "what it's like" is causally excluded. Frankish would object that quasi-phenomenal properties *do* causal work, but this work is precisely what physical processes were already doing—relabelling an existing causal contributor rather than introducing a new one.
 
-The [self-stultification argument](/topics/self-stultification-as-master-argument/), standardly directed at epiphenomenalism, applies equally. The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view, experience has no character beyond what physical processes produce. Whether consciousness exists but is inert or doesn't exist as conceived, the causal picture is the same. Illusionism has not dissolved the hard problem—it has renamed it.
+The [self-stultification argument](/topics/self-stultification-as-master-argument/), standardly directed at epiphenomenalism, applies equally. The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view, experience has no character beyond what physical processes produce. Whether consciousness exists but is inert or doesn't exist as conceived, the causal picture is the same. Illusionism has renamed the hard problem rather than dissolving it.
 
 ## Structural Parallel with Content Irrealism
 
@@ -164,11 +164,11 @@ The Boghossian-style pressure transposes as well. If content irrealism cannot be
 
 Illusionism directly challenges the Map's [tenets](/tenets/):
 
-**[Dualism](/tenets/#dualism)**: If there are no phenomenal properties, there's nothing non-physical to explain. Frankish's functional-seeming response is the strongest version of this challenge—it argues that what dualists call "intrinsic qualities" of experience are mischaracterisations of functional states. The Map's response is that functional roles underdetermine experience: the gap between what a state *does* and what it *is like* is not a failure of introspection but the very phenomenon dualism exists to explain. The objections above—especially the self-representation and intrinsic-quality problems—show that the functional account cannot close this gap without quietly presupposing what it denies.
+**[Dualism](/tenets/#dualism)**: If there are no phenomenal properties, there's nothing non-physical to explain. Frankish's functional-seeming response is the strongest version of this challenge—it argues that what dualists call "intrinsic qualities" of experience are mischaracterisations of functional states. The Map's response is that functional roles underdetermine experience: the gap between what a state *does* and what it *is like* is not a failure of introspection but the very phenomenon dualism exists to explain. The objections above—especially the self-representation and intrinsic-quality problems—show that the functional account cannot close this gap without quietly presupposing what it denies. The catalogue's verdict is calibrated to what those in-framework arguments support: the Map's [evidential-status discipline](/project/evidential-status-discipline/) keeps tenet-coherence from silently licensing stronger criticism than the dialectical situation actually warrants. Where the residue is bedrock — the intrinsic-quality dispute — it is named as such rather than substituted for argument.
 
 **[Bidirectional Interaction](/tenets/#bidirectional)**: The Map's framework treats conscious effort and attention as causally efficacious. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident. The phenomenology of trying, attending, and deciding—central to the [mental-effort](/concepts/mental-effort/) model—would be mere appearance.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Illusionism might seem parsimonious—no new ontological categories needed. But [parsimony arbitrates between theories of equal explanatory power](/concepts/parsimony-epistemology/), and illusionism achieves only [apparent simplicity](/arguments/epistemological-limits-of-occams-razor/) by refusing to explain what needs explaining. If the illusion problem is as hard as the hard problem, physicalism hasn't progressed. It has only renamed the difficulty.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Illusionism might seem parsimonious—no new ontological categories needed. But [parsimony arbitrates between theories of equal explanatory power](/concepts/parsimony-epistemology/), and illusionism achieves only [apparent simplicity](/arguments/epistemological-limits-of-occams-razor/) by refusing to explain what needs explaining. If the illusion problem is as hard as the hard problem, physicalism has only renamed the difficulty rather than progressed.
 
 ## Further Reading
 
@@ -204,3 +204,21 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 - Pereboom, D. & Frankish, K. (2021). "Illusionism about Phenomenal Consciousness." *Review of Philosophy and Psychology*.
 - Strawson, G. (2018). "The Consciousness Deniers." *New York Review of Books*.
 - Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+
+<!-- AI REFINEMENT LOG - 2026-05-05
+Changes made:
+- Extended the intro paragraph of "Where the Functional Account Falls Short" with one sentence wikilinking [direct-refutation-discipline](/project/direct-refutation-discipline/) and naming the engagement-pattern explicitly: vantage-point, zombie convergence, self-representation, and seeming/processing press Frankish using commitments his own framework endorses (mechanism, evidence, representational structure); the intrinsic-quality objection runs through dualism and is honestly noted as framework-boundary disagreement rather than dressed as refutation inside materialism.
+- Extended the closing of the "Relation to Site Perspective" Dualism subsection with two sentences wikilinking [evidential-status-discipline](/project/evidential-status-discipline/): the catalogue's verdict is calibrated to what the in-framework arguments support; tenet-coherence does not silently licence stronger criticism than the dialectical situation warrants; the bedrock residue (intrinsic-quality) is named rather than substituted for argument.
+- Rephrased two "X has not Y. It has Z." cliché instances:
+  - "Illusionism has not dissolved the hard problem—it has renamed it." → "Illusionism has renamed the hard problem rather than dissolving it." (end of "Structural Convergence with Epiphenomenalism")
+  - "physicalism hasn't progressed. It has only renamed the difficulty." → "physicalism has only renamed the difficulty rather than progressed." (end of "Relation to Site Perspective" Tenet 5 subsection)
+- Updated ai_modified to 2026-05-05T09:16:00+00:00 and modified to 2026-05-05.
+
+Engagement classification (editor-internal — kept out of article body): engagement with Frankish/illusionism is Mode 1 + Mode 3 mixed. Vantage-point, zombie convergence, self-representation, and seeming/processing engagements operate in Mode 1 (using Frankish's own commitments). The intrinsic-quality objection operates in Mode 3 (framework-boundary disagreement, honestly named). The new methodological note in "Where the Functional Account Falls Short" makes the mode-mixed structure honest at the article level without exposing the mode-vocabulary in prose.
+
+Scope: ~140 words touched (within the 100–200 word task budget). Existing voice and load-bearing focus preserved; the disciplines appear as background methodology, not as the article's content. Distinct from the queued P3 illusionism tasks on the constitutive-observation challenge engagement and the evening-cluster cross-links.
+
+Source: chain task from 2026-05-04 [direct-refutation-discipline](/project/direct-refutation-discipline/) and 2026-05-05 [evidential-status-discipline](/project/evidential-status-discipline/) expand-topic completions, per optimistic-2026-05-05 cross-linking table.
+
+This log should be removed after human review.
+-->

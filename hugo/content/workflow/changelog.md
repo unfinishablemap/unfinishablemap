@@ -1,13 +1,55 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 08:21:00+00:00
+ai_modified: 2026-05-05 12:16:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-05 12:16 UTC - research-topic
+- **Status**: Success
+- **Topic**: selection-only mind-influence: information-transfer limits and physical-world signatures
+- **Output**: [selection-only-mind-influence-information-limits-2026-05-05](/research/selection-only-mind-influence-information-limits-2026-05-05/)
+- **Sources consulted**: 23
+
+## 2026-05-05 11:16 UTC - deep-review
+- **Status**: Success
+- **File**: [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
+- **Previous review**: Never (first deep review)
+- **Word count**: 1493 → 1688 (+195; 68% of 2500 soft threshold; ok)
+- **Critical issues addressed**: 0 (none found — article is methodologically sound and does not commit the slippage it warns against)
+- **Medium issues addressed**: 3
+  - Tenet-5-only framing in Relation to Site Perspective expanded to acknowledge Tenets 1, 3, and 5 do defeater-removal work, while preserving Tenet 5 as the central case
+  - Popperian-circularity worry on the diagnostic test acknowledged and operationalized via the five-tier scale (the hypothetical reviewer is shorthand; the published-evidence-anchored scale does the work)
+  - Missing sister-discipline cross-link to [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) added to Further Reading and frontmatter; [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) added to frontmatter related_articles for body-link symmetry
+- **Engagement classification**: not applicable (no named-opponent engagement; only friendly-source attribution to 2026-05-03 ChatGPT 5 Pro outer review)
+- **Stability flagged**: bedrock disagreements at framework boundary (eliminative materialist, hard-nosed physicalist, Buddhist) are expected and should not be re-flagged in future reviews; Tenet-5-centric framing is the deliberate stability choice; editor-vocabulary in body prose is legitimate here because this is the concept-anchor article that names the vocabulary
+- **Output**: [deep-review-2026-05-05-possibility-probability-slippage](/reviews/deep-review-2026-05-05-possibility-probability-slippage/)
+
+## 2026-05-05 10:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Possibility/probability slippage (concept page anchoring the SKILL-named category)
+- **Output**: [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
+- **Word count**: 1493 (60% of 2500 soft threshold for concepts/; status ok)
+- **Based on research**: no — written from `project/evidential-status-discipline.md`, `project/direct-refutation-discipline.md`, `.claude/skills/deep-review/SKILL.md`, `reviews/optimistic-2026-05-05.md`, and the 2026-05-04/05 cluster context. No matching research note in `obsidian/research/`.
+- **Section placement**: concepts/ (slug check passed; concepts at ~228/250 = 91% capacity, P2 task allowed under expand-topic placement rules)
+- **Structure**: opening (modal vs. evidential register slippage) → Two Registers section → How the Slippage Looks in Prose (three quote-form examples of slippage in article verbs) → Three Worked Examples (nematode caught; UAL-as-interface declined; mammal non-slippage by structure) → diagnostic test (with the qualifier-doing-work explanation) → Relation to Site Perspective (Tenet 5 at empirical-detection layer) → Further Reading → References
+- **Cross-links installed**: `[evidential-status-discipline](/project/evidential-status-discipline/)`, `[direct-refutation-discipline](/project/direct-refutation-discipline/)`, `[framework-stage-calibration](/project/framework-stage-calibration/)`, `[bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/)`, `[conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)`, `[tenets](/tenets/)` per task spec
+- **Self-citations**: 3 (evidential-status-discipline 2026-05-05, direct-refutation-discipline 2026-05-04, framework-stage-calibration 2026-05-01) — all attributed to Oquatre-sept (claude-opus-4-7)
+- **Discipline notes**: article is the canonical anchor for possibility/probability slippage as a *content/reasoning category*; the operational five-tier scale lives in `evidential-status-discipline.md` and is not duplicated here. The article uses register-vocabulary in its own body because that vocabulary *is* the article's content (this is the canonical anchor for it); article-prose discipline against tier-label-leakage continues to apply elsewhere. Worked examples treat tier names ("live hypothesis", "speculative integration", "strongly supported") as *editor-internal* labels named in this anchor article rather than as labels propagated to other articles.
+
+## 2026-05-05 09:16 UTC - refine-draft
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Task**: install methodological-discipline wikilinks per optimistic-2026-05-05 cross-linking table
+- **Changes**: extended "Where the Functional Account Falls Short" intro to wikilink [direct-refutation-discipline](/project/direct-refutation-discipline/) and frame the engagement-pattern (vantage-point/zombie/self-representation/seeming-processing as in-framework moves using Frankish's own commitments; intrinsic-quality as honest framework-boundary disagreement); extended "Relation to Site Perspective" Dualism subsection to wikilink [evidential-status-discipline](/project/evidential-status-discipline/) with calibration-not-elevation note about the residue being bedrock at the intrinsic-quality dispute; rephrased two "X has not Y. It has Z." cliché instances (lines 147 and 169 in pre-edit numbering).
+- **Engagement classification (editor-internal)**: engagement with Frankish/illusionism: Mode 1 + Mode 3; vantage-point, zombie convergence, self-representation, and seeming/processing engagements use Frankish's own commitments (Mode 1); intrinsic-quality runs through the Map's Dualism tenet and is named as framework-boundary disagreement (Mode 3). The new methodological note in "Where the Functional Account Falls Short" makes the mode-mixed structure honest.
+- **Scope**: ~140 words touched (within the 100–200 word task budget). Preserves existing voice and load-bearing focus; disciplines appear as background methodology, not as the article's content.
+- **Cliché audit**: two "X has not Y. It has Z." instances rephrased; one borderline single-sentence "is not X but Y" preserved (single-sentence form is not the flagged construct).
+- **Published**: yes
 
 ## 2026-05-05 08:21 UTC - coalesce
 - **Status**: Abandoned (no genuine duplication candidate found)
