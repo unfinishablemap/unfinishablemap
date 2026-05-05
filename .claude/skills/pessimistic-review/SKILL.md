@@ -99,14 +99,20 @@ Also check for:
 
 **Reasoning-Mode Failures** (see [[direct-refutation-discipline]])
 
-When the article replies to a named opponent, classify the reply by reasoning mode and flag substitution failures:
+When the article replies to a named opponent, evaluate the reply against the discipline. The classification is editor-internal — the article must engage the opponent in natural journal-quality prose, never naming the modes. Failures fall into two families:
 
-- **Perimeter-substitution** — the article rejects the opponent by appealing to a tenet incompatibility, dressed as if it refuted the opponent inside the opponent's framework. *Critical issue.* Reply mode must either be upgraded to direct refutation / unsupported-jump callout (where one is feasible) or honestly downgraded to explicit perimeter-marking using the named pattern *the Map's tenets exclude X; the Map does not refute X inside X's framework*.
-- **Missed unsupported-jump callout** — the opponent's framework helps itself to a foundational move it has not earned by its own standards (materialism stipulating "computation produces experience" without specifying the bridge; functionalism asserting "functional pattern is what matters" without arguing why; eliminativism declaring folk-psychology terms non-referential without specifying the reduction). The article fails to name the unmet standard the opponent's own commitments demand. *Medium issue.*
-- **Direct refutation attempted but not derived from opponent's commitments** — the article's "direct argument" actually appeals to Map-specific commitments rather than to the opponent's. The reply is labelled as direct refutation but functions as perimeter-marking. *Critical issue.*
-- **Unlabelled mixed engagement** — the reply combines modes (e.g., opens with unsupported-jump callout, follows with perimeter-marking) without labelling each move. The reader cannot see which moves earn the disagreement and which declare the boundary. *Medium issue.*
+*Substitution failures (the engagement claims a mode it cannot do):*
 
-The classification is the discipline's enforcement step: if a reply does not pass mode-classification, it has either over-claimed (presenting perimeter as refutation) or under-claimed (failing to mount an available direct refutation or unsupported-jump callout). Three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) converged on perimeter-substitution as the catalogue's primary structural weakness; this check exists to catch it.
+- **Boundary-substitution** — the article rejects the opponent by appealing to tenet incompatibility, dressed as if it refuted the opponent inside the opponent's framework. *Critical issue.* The reply must either be upgraded (find the in-framework argument or the unsupported-foundational-move identification, where one is feasible) or honestly downgraded to natural framework-boundary marking — *"this runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within X's framework"*.
+- **Missed unsupported-move identification** — the opponent's framework helps itself to a foundational move it has not earned by its own standards (materialism stipulating "computation produces experience" without specifying the bridge; functionalism asserting "functional pattern is what matters" without arguing why; eliminativism declaring folk-psychology terms non-referential without specifying the reduction). The article fails to name the unmet standard the opponent's own commitments demand. *Medium issue.*
+- **In-framework argument that actually appeals to Map commitments** — the article presents a passage as engaging the opponent on their own terms, but the actual reasoning depends on Map-specific tenets. The reply does not earn the disagreement inside the opponent's framework. *Critical issue.*
+
+*Label-leakage failures (editor-vocabulary in article prose):*
+
+- **Forbidden labels in prose** — the article contains any of `direct-refutation-feasible`, `unsupported-jump callout`, `unsupported-jump`, `bedrock-perimeter` (and variants), `mode-mixed`, `mixed-with-distinct-roles`, `tenet-register move`, `Engagement classification:`, or `per [[direct-refutation-discipline]]` as meta-commentary. *Critical issue.* These are editor-vocabulary; they belong in the changelog and editor's notes, never in the article. The substance the labels were marking should remain, expressed in natural language per [[writing-style|the writing-style guide]].
+- **Bold-headed `**Evidential status:**` callouts** — disrupts article flow with editor-vocabulary. *Critical issue.* Convert to inline natural-language phrasing at section close (*"the case is open but unsettled"*, *"contested but real"*).
+
+Three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) converged on boundary-substitution as the catalogue's primary structural weakness; label leakage is the failure mode that came from over-eager early implementation of the discipline. This check catches both. The fix is always to preserve the philosophical substance and remove the editor-vocabulary or substitution dressing.
 
 ### 3. Generate Report
 

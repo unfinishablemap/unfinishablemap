@@ -145,21 +145,24 @@ If the article is based on a specific source (research paper, philosopher's work
 
 ### 2.6 Reasoning-Mode Classification (Required for Articles That Reply to Named Opponents)
 
-When the article replies to a named opponent (Duch, Frankish, Dennett, Chalmers, the materialist, the functionalist, etc.), classify each engagement by reasoning mode. See [[direct-refutation-discipline]] for the full discipline. The four primary classifications:
+When the article replies to a named opponent (Duch, Frankish, Dennett, Chalmers, the materialist, the functionalist, etc.), classify each engagement by reasoning mode. See [[direct-refutation-discipline]] for the full discipline. **The classification is editor-internal — it goes in the changelog and editor's notes, never in the article body.** The article must engage opponents in natural journal-quality prose.
 
-- **direct-refutation-feasible** — internal-to-the-opponent argument is available; the reply earns the disagreement inside the opponent's framework
-- **unsupported-jump** — the framework has helped itself to a foundational move it has not earned by its own standards (e.g., materialism stipulating "computation produces experience" without specifying the bridge; functionalism asserting "functional pattern is what matters" without arguing why it would generate qualia). The callout invokes the opponent's own commitments to mechanism, evidence, or argument
-- **bedrock-perimeter** — the disagreement is at the framework boundary; reply marks it explicitly using the named pattern *the Map's tenets exclude X; the Map does not refute X inside X's framework*
-- **mixed-with-distinct-roles** — most full engagements warrant a sequence: open with unsupported-jump callout, deepen with direct refutation, close with perimeter-marking for the residue. Each move labelled in the article
+The four primary classifications (editor's diagnostic vocabulary, not article vocabulary):
+
+- **Mode One — defective on its own terms.** Internal-to-the-opponent argument is available; the reply earns the disagreement inside the opponent's framework.
+- **Mode Two — unsupported foundational move.** The framework has helped itself to a foundational move it has not earned by its own standards (materialism stipulating "computation produces experience" without specifying the bridge; functionalism asserting "functional pattern is what matters" without arguing why it would generate qualia; eliminativism declaring folk-psychology terms non-referential without specifying the reduction). The reply uses the opponent's own commitments to mechanism, evidence, or argument.
+- **Mode Three — framework-boundary marking.** The disagreement is at the framework boundary; the reply notes the disagreement honestly without claiming to have refuted the opponent inside their own framework.
+- **Mixed.** Most full engagements warrant a sequence: foundational-move identification opens, in-framework argument deepens, boundary-marking declares the residue. The prose flows naturally between the moves.
 
 For each named-opponent reply:
 
-1. **Identify the mode** — flag perimeter-substitution as a CRITICAL issue when an internal-to-the-opponent argument or unsupported-jump callout was available but the article presented tenet-incompatibility as if it refuted the opponent inside the opponent's framework.
-2. **Verify mode honesty** — direct refutation must derive from the opponent's *own* commitments; unsupported-jump must invoke a standard the opponent's framework actually endorses; perimeter-marking must explicitly name the tenet-incompatibility rather than dressing it as refutation.
-3. **Apply or upgrade** — if the engagement is currently weaker than the available mode, either upgrade it (find the direct refutation or unsupported-jump callout) or downgrade the language (state the perimeter explicitly).
-4. **Record** — list each engagement's mode in the deep-review changelog entry.
+1. **Identify the mode** — flag boundary-substitution as a CRITICAL issue when an internal-to-the-opponent argument or unsupported-move identification was available but the article presented tenet-incompatibility as if it refuted the opponent inside the opponent's framework.
+2. **Flag label leakage as a CRITICAL issue.** Editor-vocabulary terms must not appear in article prose. Forbidden labels: `direct-refutation-feasible`, `unsupported-jump callout`, `unsupported-jump`, `bedrock-perimeter`, `mode-mixed`, `mixed-with-distinct-roles`, `tenet-register move`, `Engagement classification:`, `per [[direct-refutation-discipline]]` as meta-commentary, bold-headed `**Evidential status:**` callouts. Any of these found in article prose must be removed and replaced with natural language.
+3. **Verify mode honesty** — Mode One must derive from the opponent's *own* commitments; Mode Two must invoke a standard the opponent's framework actually endorses; Mode Three must explicitly note the framework-boundary disagreement rather than dressing it as refutation.
+4. **Apply or upgrade in natural prose** — if the engagement is currently weaker than the available mode, upgrade or downgrade as appropriate. Express the move in the patterns from [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section: *"X helps itself to Y without specifying how"*, *"this runs counter to the Map's foundational commitments and is honestly noted as such"*, *"X's framework cannot accommodate the measurement on its own terms"*. **Do not name the modes in the article.**
+5. **Record in the changelog only** — list each engagement's mode in the deep-review changelog entry: *"engagement with [opponent]: Mode N; [one-sentence justification]"*. The classification never appears in the article body.
 
-Perimeter-substitution is the failure mode three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) converged on; it is the structural weakness the discipline is designed to catch. Upgrade where possible; declare bedrock honestly where not.
+Boundary-substitution is the failure mode three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) converged on; label leakage is the failure mode that came from over-eager early implementation. Both are correctable in this pass. Upgrade engagements where possible; declare bedrock honestly where not; never expose editor-vocabulary in prose.
 
 ### 3. Run Optimistic Review (Deep Mode)
 

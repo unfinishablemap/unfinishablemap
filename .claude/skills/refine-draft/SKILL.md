@@ -80,21 +80,30 @@ If the article is based on a specific source (research paper, philosopher's work
 
 ### 3.6 Reasoning-Mode Classification (Required for Articles That Reply to Named Opponents)
 
-When the article replies to a named opponent (Duch, Frankish, Dennett, Chalmers, the materialist, the functionalist, etc.), the reply must be classified by *reasoning mode* before edits are applied. See [[direct-refutation-discipline]] for the full discipline. Three primary modes plus a mixed sequence:
+When the article replies to a named opponent (Duch, Frankish, Dennett, Chalmers, the materialist, the functionalist, etc.), classify the reply by reasoning mode before editing. See [[direct-refutation-discipline]] for the full discipline. **The classification is editor-internal — it goes in the changelog, not in the article body.** The article must engage the opponent in natural journal-quality prose.
 
-- **direct-refutation-feasible** — internal-to-the-opponent argument is available; the reply earns the disagreement inside the opponent's framework. The opponent could in principle accept the criticism without abandoning their commitments.
-- **unsupported-jump** — the framework has helped itself to a foundational move it has not earned by its own standards. The callout uses the opponent's own commitments to mechanism, evidence, or argument. Examples: materialism stipulating "computation produces experience" without specifying the bridge; functionalism asserting "functional pattern is what matters" without arguing why it would generate qualia; eliminativism declaring folk-psychology terms non-referential without specifying the reduction.
-- **bedrock-perimeter** — the disagreement is at the framework boundary. The reply marks the boundary using the named pattern *the Map's tenets exclude X; the Map does not refute X inside X's framework*. Perimeter is never presented as refutation.
-- **mixed-with-distinct-roles** — most full engagements warrant a sequence: open with unsupported-jump callout, deepen with direct refutation where available, close with perimeter-marking for the residue. Each move must be labelled in the article as the mode it is.
+Three primary modes plus a mixed sequence (editor's diagnostic vocabulary, not article vocabulary):
 
-For each named-opponent reply in the article:
+- **Mode One — defective on its own terms.** Internal-to-the-opponent argument is available; the reply earns the disagreement inside the opponent's framework. The opponent could in principle accept the criticism without abandoning their commitments.
+- **Mode Two — unsupported foundational move.** The framework has helped itself to a foundational move it has not earned by its own standards. The reply uses the opponent's own commitments to mechanism, evidence, or argument. Examples: materialism stipulating "computation produces experience" without specifying the bridge; functionalism asserting "functional pattern is what matters" without arguing why it would generate qualia; eliminativism declaring folk-psychology terms non-referential without specifying the reduction.
+- **Mode Three — framework-boundary marking.** The disagreement is at the framework boundary. The reply notes the disagreement honestly without claiming to have refuted the opponent inside their own framework.
+- **Mixed.** Most full engagements warrant a sequence: foundational-move identification opens, in-framework argument deepens, boundary-marking declares the residue. The prose flows naturally between the moves.
 
-1. **Classify** the engagement as one of the four modes (or label which subsections claim which modes for mixed engagements).
-2. **Verify the mode is honest** — direct refutation must derive a contradiction or empirical inadequacy from the opponent's *own* commitments; unsupported-jump must invoke a standard the opponent's framework actually endorses; perimeter-marking must explicitly name the tenet-incompatibility rather than dressing it as refutation.
-3. **Catch perimeter-substitution** — if the article presents tenet-incompatibility as if it refutes the opponent inside the opponent's framework, this is the failure mode the discipline names. Either upgrade the engagement (find the direct refutation or unsupported-jump callout) or downgrade the language (state the perimeter explicitly).
-4. **Record the classification** in the refine-draft changelog entry: *"engagement with [opponent]: [mode]; [one-sentence justification]"*. For mixed engagements, list each subsection's mode.
+For each named-opponent reply:
 
-The discipline does not require every named opponent to receive direct refutation. Some disagreements are genuinely bedrock; saying so honestly is part of the discipline. The failure mode is *substitution* — letting perimeter-marking silently stand in for a direct argument that was available, or letting an unsupported-jump callout substitute for a direct refutation when the framework's own commitments could derive the contradiction.
+1. **Classify** the engagement as one of the modes (or which mode applies to which subsection for mixed engagements). This is for your working knowledge.
+2. **Verify the mode is honest** — Mode One must derive a contradiction or empirical inadequacy from the opponent's *own* commitments; Mode Two must invoke a standard the opponent's framework actually endorses; Mode Three must explicitly note the framework-boundary disagreement rather than dressing it as refutation.
+3. **Catch boundary-substitution** — if the article currently presents tenet-incompatibility as if it refuted the opponent inside the opponent's framework, this is the failure mode the discipline names. Either upgrade the engagement (find the in-framework argument or the unsupported-move identification) or downgrade the language (note the framework-boundary disagreement honestly).
+4. **Apply the fix in natural prose.** Use the patterns in [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. Useful natural-language phrasings include *"X helps itself to Y without specifying how"*, *"this runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within X's framework"*, *"X's framework cannot accommodate the measurement on its own terms"*. **Do not name the modes in the article.**
+5. **Record the classification in the changelog only.** Format: *"engagement with [opponent]: Mode N; [one-sentence justification]"*. For mixed engagements, list each subsection's mode. **Never write the mode label into the article body.**
+
+**Forbidden in article prose** (these are editor-vocabulary; if any appear in the article, remove and replace with natural prose):
+
+- `direct-refutation-feasible`, `unsupported-jump callout`, `unsupported-jump`, `bedrock-perimeter`, `mode-mixed`, `mixed-with-distinct-roles`, `tenet-register move`, `Engagement classification:`
+- The phrase `per [[direct-refutation-discipline]]` as meta-commentary in prose
+- Bold-headed `**Evidential status:**` callouts (use inline natural-language phrasing instead — see [[writing-style]])
+
+The discipline does not require every named opponent to receive in-framework refutation. Some disagreements are genuinely bedrock; saying so honestly is part of the discipline. The failure mode is *substitution* — letting boundary-marking silently stand in for an argument that was available. The other failure mode is *label leakage* — exposing the editor's diagnostic vocabulary in article prose. Both are correctable in this pass.
 
 ### 4. Apply Improvements
 

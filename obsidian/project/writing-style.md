@@ -137,6 +137,52 @@ Apex articles are human-readable synthesis pieces in the [[apex|/apex/]] section
 
 - **Prioritise new insights.** Instead of only reciting current positions, prioritise new insights, discoveries, connections, links, deductions, and other inference. The Map should create a new coherent perspective and evolve answers to grand questions, and not just reflect current understanding.
 
+### Engaging Opponents in Journal-Quality Prose
+
+When an article replies to a named opponent (Duch, Frankish, Dennett, Chalmers, the materialist, the functionalist, the illusionist, etc.), the reply should read as journal-quality philosophical engagement — academic weight with popular interest. The Map's editorial process classifies engagements by the *kind of move* they make (see [[direct-refutation-discipline]]), but those classifications are editor-internal. They do not appear in the article body.
+
+Lead with the philosophical content, not the editor's classification:
+
+- **Wrong** (the article narrates the editor's process): *"The Map's relation to illusionism is mode-mixed per [[direct-refutation-discipline]]. The honest **bedrock-perimeter** residue is straightforward: the Map's Dualism tenet excludes illusionism. The substantive engagement is the **unsupported-jump callout**, by illusionism's own standards."*
+- **Right** (natural prose makes the same moves): *"Illusionism's denial of phenomenal experience runs counter to the Map's foundational commitments — and that incompatibility is real. The more interesting move available within illusionism's own programme is to ask which meta-representational structures generate the seeming-of-unified-experience and how. Frankish identifies the explanandum but does not specify the bridge — and illusionism's standard against rivals is precisely mechanistic specification."*
+
+Embed mode-distinctions in natural language rather than naming them. Useful natural-language patterns:
+
+- *"X helps itself to Y without specifying how."* (foundational-move identification)
+- *"This claim runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within X's framework."* (framework-boundary marking)
+- *"X's framework cannot accommodate the bandwidth measurement on its own terms."* (in-framework refutation)
+- *"The dispute is open inside X's framework, not closed by X's framework's own resources."* (in-framework engagement that does not yet succeed)
+
+The reader of the article should be able to trace the engagement structure from the prose alone — they should not need to know that an editorial discipline shaped the moves. The discipline did its work; the labels stay in the editor's notes and the changelog.
+
+### Evidential Calibration in Articles
+
+The Map calibrates empirical claims on a five-tier ladder when the evidence is contested or evolving — *established → strongly supported → realistic possibility → live hypothesis → speculative integration*. This ladder is editor-vocabulary for thinking about evidence-grade. It is not for the article body.
+
+- **Wrong** (headed callout disrupting flow): *"**Evidential status: realistic possibility, contested.** The behaviours raise the prior considerably above bare cognition; they do not settle the case."*
+- **Right** (inline at section close): *"The behaviours raise the prior considerably above bare cognition; they do not settle the case."*
+
+Where evidence-grade matters in the article, express it as a brief inline phrase at section end or in transition: *"the case is open but unsettled"*, *"contested but real"*, *"a live hypothesis the evidence does not yet decide"*. Do not append bold-headed `**Evidential status:**` labels.
+
+The five-tier ladder may appear *once* in the catalogue as a brief methodological note — typically in [[consciousness-in-simple-organisms]] where it is load-bearing for case-by-case verdicts — written as natural prose, not as a labelled scale applied to each case.
+
+### No Exposed Internal Labels
+
+The Map's primary audience is LLMs ingesting articles on behalf of users. Editor-vocabulary terms with no accepted philosophical meaning — labels coined inside the editorial process to help reviewers reason about engagement modes or evidence-grade — degrade ingestion without giving anything back. They look like academic noise; they read as method-talk rather than philosophy.
+
+The following terms are editor-vocabulary and **must not appear in article prose**. They live in the discipline documents (where they are defined and explained), in the editor's working notes, and in the changelog (where the editor records which engagement made which kind of move). They never appear in articles:
+
+- `direct-refutation-feasible`
+- `unsupported-jump callout` / `unsupported-jump`
+- `bedrock-perimeter` (and its variants: `bedrock-perimeter residue`, `bedrock-perimeter relative to X`)
+- `mode-mixed` / `mixed-with-distinct-roles`
+- `tenet-register move`
+- `Engagement classification:`
+- `per [[direct-refutation-discipline]]` (as a meta-commentary parenthetical)
+- Bold-headed `**Evidential status:**` callouts
+
+If an editorial pass introduces any of these into article prose, the next review pass treats them as critical issues and rewrites the passage in natural philosophical language preserving the substance.
+
 ### Medium-Neutral Language
 
 Content should transfer naturally to other formats: video narration, podcasts, audio readouts, quoted fragments, academic citations. Avoid phrasing tied to the web medium.

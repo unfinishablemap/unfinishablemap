@@ -171,15 +171,15 @@ For high-value findings, create tasks in `obsidian/workflow/todo.md`:
 
 **Important**: Always include the `Review file` field with the path to the outer review. This allows the refine-draft skill to read the full context and verification notes when addressing the issue.
 
-**Direct-refutation remit**: When a finding identifies an opponent-engagement weakness — perimeter-substitution, missed unsupported-jump callout, weak refutation, or unlabelled mixed engagement — the generated task carries the [[direct-refutation-discipline]] remit. Add this language to the task notes:
+**Direct-refutation remit**: When a finding identifies an opponent-engagement weakness — boundary-substitution, a missed identification of an unsupported foundational move, a weak in-framework argument, or an engagement that combines moves without flowing naturally — the generated task carries the [[direct-refutation-discipline]] remit. Add this language to the task notes:
 
-> Apply the direct-refutation discipline. Classify the engagement as direct-refutation-feasible, unsupported-jump, bedrock-perimeter, or mixed-with-distinct-roles. If a direct refutation or unsupported-jump callout is feasible, install it; if the disagreement is genuinely bedrock, mark the perimeter explicitly using the named pattern *the Map's tenets exclude X; the Map does not refute X inside X's framework*. Record the classification in the changelog.
+> Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
 
-The remit makes the failure mode visible and pre-classifies the work the refine-draft / deep-review pipeline must do. Three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) converged on perimeter-substitution as a structural weakness; tasks generated from outer-review findings carry the discipline forward.
+The remit makes the failure mode visible and pre-classifies the work the refine-draft / deep-review pipeline must do, while keeping the editor's diagnostic vocabulary out of the article. Three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) converged on boundary-substitution as a structural weakness; tasks generated from outer-review findings carry the discipline forward without leaking its labels.
 
 Priority guidance:
-- **P1**: Logical errors, internal contradictions, unaddressed strong objections, perimeter-substitution where direct refutation or unsupported-jump callout is available
-- **P2**: Missing connections, expansion opportunities, clarity improvements, unlabelled mixed engagements
+- **P1**: Logical errors, internal contradictions, unaddressed strong objections, boundary-substitution where an in-framework argument or unsupported-foundational-move identification is available, label leakage (editor-vocabulary in article prose)
+- **P2**: Missing connections, expansion opportunities, clarity improvements, mixed engagements where the prose does not flow naturally between moves
 - **P3**: Style suggestions, minor enhancements
 
 ### 7. Log to Changelog

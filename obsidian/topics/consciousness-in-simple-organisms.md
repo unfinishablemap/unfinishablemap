@@ -57,14 +57,9 @@ The declaration's precautionary stance is notable: "If there's a realistic possi
 
 ## Evidential Register: Tenet vs. Evidence
 
-Two registers operate in this article and must be kept distinct:
+Two questions need to be kept distinct here. *Is consciousness in nematodes, hydras, and slime molds compatible with the Map's metaphysics?* Yes — the Map's dualist framework removes one common defeater, the move "simpler nervous systems are merely unconscious mechanisms; positing experience is unnecessary." Under dualism, no anthropocentric or substrate-specific barrier guarantees these organisms lack experience. But that is a different question from *does the empirical evidence support consciousness in this organism?* Removing a defeater keeps a hypothesis live; it does not, on its own, supply positive evidence that consciousness is actually present. The risk worth defending against is treating "not ruled out by our metaphysics" as if it were "positively supported by the evidence" — a slide that lets metaphysical permission absorb negative empirical findings rather than be constrained by them.
 
-- **Tenet register (metaphysical possibility)**: The Map's dualist framework removes one common defeater for invertebrate consciousness—the move "simpler nervous systems are merely unconscious mechanisms; positing experience is unnecessary." Under dualism, no anthropocentric or substrate-specific barrier guarantees that *C. elegans*, Hydra, or *Physarum* lack experience.
-- **Evidence register (empirical support)**: Whether a particular organism is conscious is an empirical question. Removing a defeater does not supply positive evidence that consciousness is present. A tenet may keep a hypothesis live; it cannot upgrade the evidence level on its own.
-
-The slippage risk to defend against is **possibility/probability slippage**: treating "not ruled out by our metaphysics" as if it were "positively supported by the evidence." Dualism's denial of a principled emergence threshold is a tenet-register claim; the question "is *this* organism conscious?" is an evidence-register question. The two cannot trade off against each other—the metaphysical removal of a defeater does not absorb negative empirical findings.
-
-The remainder of this article tries to keep the registers separate. Each model organism is labelled with an evidential status drawn from the scale: *established → strongly supported → realistic possibility → live hypothesis → speculative integration*. The dualist framing is invoked to defeat dismissive a priori arguments, not to elevate the evidence.
+To keep the two questions separate, the case-by-case treatments below sort the empirical evidence on a five-tier scale — *established*, *strongly supported*, *realistic possibility*, *live hypothesis*, *speculative integration* — that the catalogue uses consistently across animal-consciousness articles. The dualist framing defeats dismissive *a priori* arguments; it does not elevate the evidence.
 
 ## Three Model Organisms
 
@@ -89,7 +84,7 @@ The evidence for minimal consciousness in *C. elegans* is tantalising but inconc
 
 As researchers ask: "Is there something that feels like to be a worm? Or are worms blind machines?"
 
-**Evidential status: live hypothesis / speculative integration.** *C. elegans* is **not established as conscious**. The dualist framework keeps the question live by removing the defeater "302 neurons cannot suffice in principle"; the empirical record remains predominantly negative on the markers that most reliably accompany consciousness elsewhere (failed trace conditioning, no demonstrated multimodal integration, no self-other distinction). Becerra et al.'s "Conscious Nematode" paper is a critical reassessment proposing further research, not a positive establishment of phenomenal experience.
+*C. elegans* is not established as conscious. The dualist framework keeps the question live by removing the defeater "302 neurons cannot suffice in principle", but the empirical record remains predominantly negative on the markers that most reliably accompany consciousness elsewhere — failed trace conditioning, no demonstrated multimodal integration, no self-other distinction. Becerra et al.'s "Conscious Nematode" paper is a critical reassessment proposing further research, not a positive establishment of phenomenal experience. The case sits at *live hypothesis* on the evidential scale, sliding toward *speculative integration*.
 
 ### Hydra: Consciousness Without Centralization?
 
@@ -99,7 +94,7 @@ What Hydra reveals is startling: nerve-free Hydra can survive indefinitely (when
 
 The Hydra case challenges assumptions that consciousness requires centralized processing. If subjective experience arises from neural activity, must it be unified? Or could experience be as distributed as Hydra's nerve net—multiple micro-experiences without [[unity-of-consciousness|phenomenal unity]]?
 
-**Evidential status: speculative integration.** Habituation and sensitisation are present; associative learning is unestablished; distributed processing leaves no clear behavioural signature of unified experience. The architectural challenge to centralisation requirements is theoretically interesting, but it raises the metaphysical question without supplying positive evidence that Hydra is a subject.
+Habituation and sensitisation are present in Hydra; associative learning is unestablished; distributed processing leaves no clear behavioural signature of unified experience. The architectural challenge to centralisation requirements is theoretically interesting, but it raises the metaphysical question without supplying positive evidence that Hydra is a subject — the case sits at *speculative integration* on the evidential scale.
 
 ### Slime Molds: Cognition Without Neurons
 
@@ -115,7 +110,7 @@ For the Map's framework, slime molds present a puzzle. If [[quantum-consciousnes
 
 The [[decoherence|decoherence objection]]—that quantum coherence cannot survive in warm biological systems—applies differently to organisms of varying complexity. In single-celled organisms without neurons, the question of quantum consciousness interfaces may not arise at all. Slime molds may process information through entirely classical biochemical mechanisms while lacking the quantum-coherent structures that, on the Map's view, enable consciousness to interface with matter. This would explain sophisticated cognition without phenomenal experience.
 
-**Evidential status: speculative integration / cognition without consciousness.** The defensible reading of *Physarum* is that it exhibits sophisticated information processing without phenomenal experience—a clear case where cognition and consciousness can dissociate. Attributing experience to slime molds remains a panpsychist or process-philosophical possibility, not an empirically supported finding.
+The defensible reading of *Physarum* is that it exhibits sophisticated information processing without phenomenal experience — a clear case where cognition and consciousness can dissociate. Attributing experience to slime molds remains a panpsychist or process-philosophical possibility, not an empirically supported finding; the case sits at *speculative integration* with cognition-without-consciousness as the more parsimonious reading.
 
 ## The Baseline Cognition Framework
 
@@ -302,38 +297,3 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Whiten, A. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
-
-<!-- AI REFINEMENT LOG - 2026-05-04
-Changes made in response to outer review by ChatGPT 5 Pro (2026-05-03), which identified
-"possibility/probability slippage" as the central systemic risk in this article: tenet-derived
-consequences (no anthropocentric barrier; no principled threshold; UAL-as-interface-tool) sitting
-in proximity to negative empirical evidence in a way that lets the metaphysical framing absorb
-the negative findings.
-
-- Added new H2 section "Evidential Register: Tenet vs. Evidence" between New York Declaration
-  and Three Model Organisms. Explicitly distinguishes tenet-register claims (metaphysical
-  possibility, defeater-removal) from evidence-register claims (positive support). Names the
-  slippage risk explicitly so future refinements have a marker to defend against. Introduces
-  the five-tier scale (established → strongly supported → realistic possibility → live
-  hypothesis → speculative integration) used in the labels below.
-- Added "Evidential status" labels at the end of each model-organism subsection:
-  - C. elegans: "live hypothesis / speculative integration; not established as conscious"
-  - Hydra: "speculative integration"
-  - Slime molds: "speculative integration / cognition without consciousness"
-- Added "Evidential Status" column to the calibration table in the Baseline Cognition Framework
-  section (mirrors the per-organism labels).
-- Added a paragraph after the UAL-as-interface-tool paragraph explicitly preventing the interface
-  reading from absorbing the negative empirical signal of UAL failure. Failing UAL remains
-  evidentially meaningful even on the interface reading.
-- Preserved the dualist framing throughout (the tenet-load is correct; that is not the bug).
-- Reciprocal verification confirmed that internal references in topics/animal-consciousness.md
-  and topics/ethics-of-consciousness-invertebrate-question.md do not rely on stronger framing
-  than the refined article supports — they hedge appropriately or use simple-organism material
-  as critique-of-illusionism rather than positive consciousness attribution.
-
-Tenet alignment: Tenet 1 (Dualism) preserved + epistemic discipline added. The refinement
-implements the reviewer's clean correction: "a tenet may remove a defeater, but it must not
-upgrade the evidence level."
-
-This log should be removed after human review.
--->
