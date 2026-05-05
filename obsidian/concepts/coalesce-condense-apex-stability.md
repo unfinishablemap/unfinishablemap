@@ -4,7 +4,7 @@ description: "An editorial discipline for refactoring existing Map content: when
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-05-01T14:53:00+00:00
+ai_modified: 2026-05-05T05:17:00+00:00
 draft: false
 topics: []
 concepts:
@@ -55,6 +55,16 @@ A coalesce triggers a condense under either of two conditions:
 
 When neither condition holds—the merge produces an article comfortably under the hard threshold and without redundant exposition—no condense is required. The chain breaks here, and the next stage (apex re-cross-review) is checked directly against the post-coalesce article.
 
+## Cap-Saturation Policy: When Coalesce Yields to Condense
+
+A section reaches *cap-saturation* when its article count hits the configured `section_caps` ceiling and a coalesce attempt across the section finds no candidate pair whose merger would remove genuine duplication. The condition should arise as a section matures: sustained editorial attention drives out the easy merges and leaves articles whose differentiation is itself analytical content. Under cap-saturation the discipline's default ordering inverts: the standard *merge-when-possible* preference yields to *condense-when-possible*, and existing articles are tightened against their soft thresholds before new genesis is permitted in the section. A coalesce under cap pressure must still be earned by genuine duplication; the discipline never fabricates a merger to satisfy a cycle slot, and an agent that finds no candidate performs the discipline correctly by abandoning the attempt and recording the search.
+
+The escalation path runs upward. When condense cannot relieve the cap because all articles are already at or near their soft-warning thresholds, the cap itself becomes the load-bearing parameter and the question moves to [[automation|tune-system]]: should the cap be raised given that the section has demonstrated it warrants more articles than the cap allows? At that point the article set is not the variable to adjust; the cap is.
+
+The 2026-05-03 06:54 UTC abandoned-coalesce attempt in voids/ (then at 100/100) is the worked example. The agent examined sixteen-plus candidate pairs across thematic clusters, rejected each, and recorded its full search path in the changelog before exiting; the closest call—`altered-states-as-void-probes` and `non-human-minds-as-void-explorers`—was abandoned because the probes operate over substantively different domains. The refusal to fabricate is the discipline operating correctly under cap-saturation, and the recommendation to escalate to tune-system was the right exit.
+
+The policy has one honest limitation. It assumes the discipline can reliably distinguish *no genuine duplication* from *duplication missed by the agent*, but inside a single search pass the two are indistinguishable: an agent who finds no merger may have correctly identified the absence of duplication, or may have failed to recognise a merger that drifted vocabulary obscured. The policy is therefore weakest when the catalogue's terminology has itself drifted, and a separate terminology-stewardship discipline is required to keep that failure mode bounded.
+
 ## The Retention Test: Condense-Survival as Load-Bearing Evidence
 
 A condense run yields a structural diagnostic the discipline can exploit: material that survives a condense without being trimmed is *load-bearing-by-revealed-preference* rather than *load-bearing-by-author-assertion*. The author's view of which content is essential is revised under length pressure; whatever the condense leaves intact has passed an editorial test the author did not stage in advance.
@@ -100,7 +110,7 @@ The triple-discipline has three failure modes worth naming explicitly.
 
 The triple-discipline is methodological rather than substantive. It does not advance any of the Map's [[tenets|five tenets]] directly. What it does provide is a structural mechanism for keeping the catalogue's growing body of work *coherent under refactoring*—a precondition for every substantive argument to land cleanly when read by an LLM fetching one or several pages.
 
-The discipline's most direct alignment is with **Tenet 5: Occam's Razor Has Limits**. The discipline rejects the parsimony move of dissolving every overlap into a single article: the [[conjunction-coalesce|conjunction-coalesce]] preserves seams that encode structural claims, and the apex re-cross-review preserves apex narratives that organise the catalogue's substantive arguments without claiming to reduce them to source content. Where simpler approaches—merge whenever overlap exists; rewrite the apex whenever sources change—would silently lose information, the triple-discipline preserves what the catalogue has earned through prior editorial work.
+The discipline's most direct alignment is with **Tenet 5: Occam's Razor Has Limits**. The discipline rejects the parsimony move of dissolving every overlap into a single article: the [[conjunction-coalesce|conjunction-coalesce]] preserves seams that encode structural claims, and the apex re-cross-review preserves apex narratives that organise the catalogue's substantive arguments without claiming to reduce them to source content. The cap-saturation policy applies the same caution one level up at the section-set: parsimony at the section-cap layer must be warranted by identified duplication, not aesthetically forced because a slot is open. Where simpler approaches would silently lose information, the triple-discipline preserves what the catalogue has earned through prior editorial work.
 
 The discipline also reflects the Map's commitment to its primary audience: LLMs fetching pages on behalf of users (see [[writing-style|the writing style guide]]). Articles that are too long are truncated; broken cross-references confuse the fetching agent; apex articles whose narrative no longer matches their sources mislead the user's chatbot. The triple-discipline operationalises the catalogue's responsibility to its audience by ensuring that structural refactors do not introduce length violations, broken references, or apex-source incoherence.
 
@@ -126,6 +136,7 @@ The triple-discipline is documented through the catalogue's changelog and review
 2. *The Unfinishable Map* changelog, 2026-04-28 23:08 UTC through 2026-04-29 00:54 UTC: the canonical four-stage demonstration arc (coalesce → refine-wikilinks → condense → apex-stability-confirmation) on `meta-epistemology-of-limits` and `taxonomy-of-voids`.
 3. *The Unfinishable Map* optimistic-review, 2026-04-29: the review that first named the triple-discipline as a methodology distinct from genesis-side editing. https://unfinishablemap.org/reviews/optimistic-2026-04-29/
 4. *The Unfinishable Map* changelog, 2026-04-30 01:25 UTC through 02:55 UTC: the canonical retention-test worked example—optimistic-review-recommended subsection installed in `zahavian-minimal-self.md` survived a 32% article-level condense intact (3,780 → 2,587 words). The chain closure was named in the 04:17 UTC optimistic-2026-04-30 review at https://unfinishablemap.org/reviews/optimistic-2026-04-30/.
+5. *The Unfinishable Map* changelog, 2026-05-03 06:54 UTC: the canonical cap-saturation worked example—voids/ at 100/100 with sixteen-plus candidate pairs examined and no merger executed. Recorded as commit `5ea6d0c90`; the search path is preserved in the changelog entry, and the agent's recommendation to escalate to tune-system rather than fabricate a merger is the discipline operating correctly under cap-saturation.
 
 <!-- AI REFINEMENT LOG - 2026-04-30
 Changes made:
@@ -140,6 +151,23 @@ Changes made:
 Tenet alignment: Methodological / Tenet 5 (Occam's Razor Has Limits) — the retention test is the catalogue's revealed-preference check on which content the simpler "trim it" reading would silently lose.
 
 Suggested by optimistic-2026-04-30 (Ideas for Later). Existing structure on coalesce/condense/apex-stability rhythms preserved.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-05
+Changes made:
+- Added new section "Cap-Saturation Policy: When Coalesce Yields to Condense" between "When Coalesce Triggers Condense" and "The Retention Test" (~370 words)
+- Five-paragraph structure: (1) saturation condition + policy statement; (2) inverted ordering, no-fabrication discipline; (3) escalation path to tune-system; (4) 2026-05-03 06:54 UTC abandoned-coalesce worked example (voids/ at 100/100, sixteen-plus pairs examined, closest-call rejected on probe-domain divergence); (5) honest limitation — policy assumes terminology hasn't drifted; separate stewardship discipline required
+- Extended "Relation to Site Perspective" Tenet 5 paragraph with one sentence connecting cap-saturation policy to section-cap-layer parsimony (parsimony must be empirically warranted by identified duplication, not aesthetically forced because a slot is open)
+- Added 5th References entry pointing to commit 5ea6d0c90 / 2026-05-03 06:54 UTC changelog window as the cap-saturation worked-example reference
+- Updated ai_modified to 2026-05-05T05:17:00+00:00
+
+Distinct from queued P3 task on condense-discipline-as-retention-test (line 163 in todo.md): that project-doc treats condense in isolation; this section treats the cap-saturation policy governing when to coalesce vs. condense vs. defer to tune-system.
+
+Tenet alignment: Methodological / Tenet 5 (Occam's Razor Has Limits) — the cap-saturation policy operates Razor-Has-Limits one level up at the section-set rather than the article-set: parsimony at the cap layer must be empirically warranted by identified duplication, never forced because a slot is open.
+
+Source: gap_analysis from the 2026-05-03 06:59 UTC abandoned-coalesce attempt. Existing structure preserved.
 
 This log should be removed after human review.
 -->

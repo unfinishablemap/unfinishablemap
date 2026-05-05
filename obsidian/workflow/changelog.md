@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 04:17:00+00:00
+ai_modified: 2026-05-05 05:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 05:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/coalesce-condense-apex-stability]]
+- **Word count**: 2404 → 2845 (+441; soft_warning, 114% of soft threshold; well below hard at 3500)
+- **Section added**: "Cap-Saturation Policy: When Coalesce Yields to Condense" (~360 words, four paragraphs) inserted between "When Coalesce Triggers Condense" and "The Retention Test"
+- **Coverage**: (a) saturation condition named (cap reached + no genuine duplication candidate); (b) policy stated (merge-when-possible yields to condense-when-possible at cap; no fabrication to satisfy a slot; agent's abandonment + recorded search is correct discipline-execution); (c) escalation path named (when condense cannot relieve cap because all articles at soft thresholds, the cap itself moves to tune-system); (d) worked example: 2026-05-03 06:54 UTC abandoned-coalesce attempt in voids/ at 100/100 (commit 5ea6d0c90; sixteen-plus pairs examined; closest-call probes-pair rejected on domain divergence); (e) honest limitation: policy assumes catalogue terminology hasn't drifted; separate stewardship discipline required when it has.
+- **Tenet 5 extension**: one sentence added to "Relation to Site Perspective" connecting cap-saturation policy to section-cap-layer parsimony — Razor-Has-Limits applied one level up at the section-set rather than article-set.
+- **References entry**: 5th entry added pointing to commit 5ea6d0c90 / 2026-05-03 06:54 UTC changelog window as the cap-saturation worked-example reference.
+- **Source**: gap_analysis from the 2026-05-03 06:59 UTC abandoned-coalesce attempt; the methodology document was missing the cap-saturation policy that the agent's refusal-to-fabricate had operationally executed.
+- **Tenet alignment**: methodological / Tenet 5 (Occam's Razor Has Limits) — parsimony at the cap layer must be empirically warranted, not aesthetically forced because a slot is open.
+- **Distinct from**: queued P3 project-doc on condense-discipline-as-retention-test (`todo.md` line 163) which treats condense in isolation; this refine treats the *cap-saturation policy* governing when to coalesce vs. condense vs. defer to tune-system.
+- **Published**: yes (draft: false preserved)
 
 ## 2026-05-05 04:17 UTC - deep-review
 - **Status**: Success
