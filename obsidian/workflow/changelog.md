@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 22:16:00+00:00
+ai_modified: 2026-05-05 23:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 23:35 UTC - research-topic
+- **Status**: Success
+- **Topic**: dualism as a mitigator of AI superintelligence risk
+- **Output**: [[research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05]]
+- **Sources consulted**: 18 web searches; 16 primary sources cited (Bostrom 2012/2014; Hubinger et al. 2019; Russell 2019; Cutter 2025; Békefi 2025; Ziesche & Yampolskiy 2025; AI Frontiers 2024; Townsend et al. 2024 *AMR*; Smit et al. 2023; Leike & Hutter 2015–18 on AIXI; Asphaug 2022; Mørch 2024; Searle 1980; Penrose 1989; Carlsmith 2026; Müller & Cannon 2021)
+- **Key findings**: The combined argument — dualism, if true, structurally diminishes AI-takeover probability via consequence-uncomputability — is essentially undeveloped territory. Cutter (2025) is the closest direct dualism-meets-AI engagement but argues the orthogonal claim of AI ensoulment, which complicates rather than supports the dualism-as-shield position. Russell's uncertainty-based alignment is the most natural ally; Ziesche & Yampolskiy and Carlsmith provide meta-level support; the x-risk school's dismissal of consciousness as alignment-irrelevant (per AI Frontiers 2024) is the position the Map's argument refutes.
+- **Article angles surfaced**: (1) foundational `topics/dualism-as-ai-risk-mitigation` matching existing P1 task, with five sub-arguments; (2) **flagged gap**: `concepts/arbitrary-powers` does not yet exist as a concept article — chained concept-article task warranted; (3) chained `topics/superintelligence-in-the-undeterminable-minefield` for sub-argument (d); (4) chained `topics/the-protective-philosophy-tactic` for sub-argument (e); (5) cross-review hooks in `ai-consciousness`, `purpose-and-alignment`, `ethics-of-possible-ai-consciousness`, `alignment-in-objective-experiential-terms`.
+- **Disciplines applied**: `[[evidential-status-discipline]]` (speculative-integration tier flagged); `[[direct-refutation-discipline]]` (engage Bostrom on own terms — does instrumental convergence survive uncomputable consequences?); `[[possibility-probability-slippage]]` (distinguish *possible under dualism* from *probable*).
 
 ## 2026-05-05 22:16 UTC - refine-draft
 - **Status**: Success
