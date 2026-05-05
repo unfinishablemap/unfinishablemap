@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 A deep review caught a calibration drift: the article had treated Hagan et al. (2002) as a settled rebuttal to Tegmark's quantum-consciousness objection. Reimers et al. (2009) and McKemmish et al. (2009) re-examined the parameters — dispute remains open.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2051577287099777111  
 **Link**: [decoherence](/concepts/decoherence/)
 
 ---
