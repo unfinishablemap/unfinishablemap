@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 15:16:00+00:00
+ai_modified: 2026-05-05 15:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 15:35 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Recurrence Void — the structural inability of consciousness to control whether and how specific mental contents return
+- **Category**: Mixed (Occluded primary; Unexplorable secondary)
+- **Output**: [[research/voids-recurrence-void-2026-05-05]]
+- **Key finding**: Three structurally distinct faces conjoin — intrusion (~99% of people experience unwanted thoughts; involuntary memories outnumber voluntary 2:1), rebound (Wegner's monitor logic; 2020 meta-analytic correction tempers strongest claims), and rumination (loops self-sustain against will). The monitor-summons-content structural argument is logically demonstrable and survives the empirical corrections.
+- **Note**: Voids section at 99/100 of cap; this fills the final slot.
 
 ## 2026-05-05 15:16 UTC - research-topic
 - **Status**: Success
