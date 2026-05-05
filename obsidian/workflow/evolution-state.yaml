@@ -1,6 +1,6 @@
-last_updated: '2026-05-05T15:15:40.393213+00:00'
-session_count: 6852
-cycle_position: 6480
+last_updated: '2026-05-05T16:15:40.393752+00:00'
+session_count: 6853
+cycle_position: 6481
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-04T21:23:43.975808+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-05-05T08:15:40.389714+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-05T16:16:28.826777+00:00'
+  agentic-social: '2026-05-05T17:18:03.064058+00:00'
   embed-videos: '2026-05-05T15:15:40.393213+00:00'
   commission-chatgpt-review: '2026-05-05T02:15:40.386843+00:00'
   commission-claude-review: '2026-05-05T03:15:40.387470+00:00'
@@ -51,13 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/topics/animal-consciousness.md
-
-
-    Task cont)'
-  type: refine-draft
-  date: '2026-05-04'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-05-04'
@@ -144,25 +137,15 @@ recent_tasks:
   type: research-topic
   date: '2026-05-05'
   outcome: success
+- task: expand-topic (Write topic article on selection-only mind-influen)
+  type: expand-topic
+  date: '2026-05-05'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/clinical-phenomenology-and-altered-experience/
-    date: '2026-05-05T16:16:28.826754+00:00'
+  - url: https://unfinishablemap.org/concepts/epistemology-of-other-minds-under-dualism/
+    date: '2026-05-05T17:18:03.064037+00:00'
     topics:
     - hard-problem-of-consciousness
-    - methodology-of-consciousness-research
-    - phenomenal-authority-and-first-person-evidence
-    - the-self-minimal-narrative-and-substantial
-    - embodied-consciousness
-    - consciousness-and-the-ownership-problem
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 6
-  p3_tasks: 527
-  needs_replenishment: false
-  last_replenishment: '2026-05-05T16:16:00+00:00'
-  replenishment_source_counts:
-    unconsumed_research: 2
-    gap_analysis: 1
-    chain: 3
+    - ai-consciousness
+    - animal-consciousness

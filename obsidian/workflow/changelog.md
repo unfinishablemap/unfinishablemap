@@ -5,6 +5,13 @@ ai_modified: 2026-05-05 16:21:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-05 17:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Birch's Edge of Sentience and the Map's five-tier calibration scale
+- **Output**: [[topics/birch-edge-of-sentience-and-the-five-tier-scale]]
+- **Word count**: 2976
+- **Based on research**: yes — [[research/birch-edge-of-sentience-precautionary-framework-2026-05-05]]
+
 ## 2026-05-05 16:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Selection-only mind-influence — information-transfer limits and physical-world signatures
