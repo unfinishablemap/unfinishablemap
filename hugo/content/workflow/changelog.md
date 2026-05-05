@@ -1,13 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 12:16:00+00:00
+ai_modified: 2026-05-05 13:16:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-05 13:16 UTC - research-topic
+- **Status**: Success
+- **Topic**: evolved mind-brain interface efficacy as explanatory variable for human-other-animal intelligence gap
+- **Output**: [evolved-mind-brain-interface-efficacy-2026-05-05](/research/evolved-mind-brain-interface-efficacy-2026-05-05/)
+- **Sources consulted**: 20
 
 ## 2026-05-05 12:16 UTC - research-topic
 - **Status**: Success

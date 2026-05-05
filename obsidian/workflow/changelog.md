@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 13:16:00+00:00
+ai_modified: 2026-05-05 14:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 14:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: differential mind-brain interface efficacy as candidate explanation for human-other-animal intelligence gap
+- **Output**: [[topics/mind-brain-interface-efficacy]]
+- **Word count**: 1974
+- **Based on research**: yes — [[research/evolved-mind-brain-interface-efficacy-2026-05-05]]
 
 ## 2026-05-05 13:16 UTC - research-topic
 - **Status**: Success
