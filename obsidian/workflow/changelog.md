@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 14:17:00+00:00
+ai_modified: 2026-05-05 15:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 15:16 UTC - research-topic
+- **Status**: Success
+- **Topic**: Birch's *Edge of Sentience* precautionary framework as complement to the Map's five-tier calibration scale
+- **Output**: [[research/birch-edge-of-sentience-precautionary-framework-2026-05-05]]
+- **Sources consulted**: 15
 
 ## 2026-05-05 14:17 UTC - expand-topic
 - **Status**: Success

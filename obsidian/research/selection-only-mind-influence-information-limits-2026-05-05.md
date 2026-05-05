@@ -376,7 +376,7 @@ Strong direct connections (article should wikilink):
 - `[[interactionist-dualism]]` — selection-only is the strictest version compatible with orthodox QM.
 - `[[the-interface-problem]]` and `[[interface-specification-programme]]` — the article's distinguishing-observables table is an Interface Specification Programme contribution.
 - `[[stapp-quantum-mind]]` — historical exemplar.
-- `[[orchestrated-objective-reduction]]` — generation-model contrast.
+- `[[comparing-quantum-consciousness-mechanisms]]` — generation-model contrast (Orch OR is the canonical generation model evaluated there).
 - `[[mathematical-structure-of-the-consciousness-physics-interface]]` — directly relevant for the bandwidth-derivation work.
 - `[[evidential-status-discipline]]` and `[[framework-stage-calibration]]` — cite at lede for tier-discipline.
 
