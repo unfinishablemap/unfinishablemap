@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-04-22 23:44:00+00:00
+ai_modified: 2026-05-05 20:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,15 +34,16 @@ concepts:
 - '[[cross-cultural-convergence-on-mental-causation]]'
 - '[[luck-objection]]'
 - '[[trumping-preemption]]'
+- '[[selection-only-mind-influence]]'
 created: 2026-01-15
-date: &id001 2026-03-30
+date: &id001 2026-05-05
 description: How mental states cause physical effects despite Kim's exclusion argument.
   Consciousness exercises downward causation at quantum indeterminacies where physics
   is genuinely incomplete.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-22 23:44:00+00:00
+last_deep_review: 2026-05-05 20:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,6 +53,7 @@ related_articles:
 - '[[self-stultification-as-master-argument]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[downward-causation-mental-causation-2026-01-15]]'
+- '[[mind-brain-interface-efficacy]]'
 title: Mental Causation and Downward Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -143,7 +145,7 @@ Several responses are available, though none fully resolves the gap:
 
 **Outcome selection persists**: [decoherence](/concepts/decoherence/) explains why interference effects wash out, but outcomes still require determination. Something must select which possibility becomes actual.
 
-**Bandwidth and amplification**: Conscious thought operates at roughly 10 bits per second, suggesting consciousness works at the policy level, not individual quantum events. The [bandwidth problem](/concepts/consciousness-bandwidth-architecture/) is resolved by [hierarchical selection](/topics/bandwidth-of-consciousness/). Even granting the quantum opening, consciousness must bridge to macroscopic outcomes; six distinct [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) have been proposed.
+**Bandwidth and amplification**: Conscious thought operates at roughly 10 bits per second, suggesting consciousness works at the policy level, not individual quantum events. The [bandwidth problem](/concepts/consciousness-bandwidth-architecture/) is resolved by [hierarchical selection](/topics/bandwidth-of-consciousness/); the strict per-event ceiling — log₂(N) bits per selection over a brain-prepared candidate set, sharply tightened to ε² / (2 ln 2) bits per trial under Born-rule preservation — is derived in [selection-only-mind-influence](/topics/selection-only-mind-influence/) and grounds the policy-level reading in information-theoretic terms. Even granting the quantum opening, consciousness must bridge to macroscopic outcomes; six distinct [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) have been proposed.
 
 The decoherence objection is a serious empirical challenge, not a philosophical refutation. The quantum opening remains, but the Map should not claim the mechanism is fully specified.
 
@@ -239,6 +241,8 @@ Mental causation and downward causation are central to the Map's framework.
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The unified two-layer architecture
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — Whether the mind-body channel carries enough information
+- [selection-only-mind-influence](/topics/selection-only-mind-influence/) — Information-theoretic limits on per-event selection that the quantum mechanism must respect
+- [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) — Comparative-evolutionary scaling of the interface mechanism across species
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (and why it matters here)
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view denying mental causation

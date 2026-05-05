@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 20:17:00+00:00
+ai_modified: 2026-05-05 21:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 21:18 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/birch-edge-of-sentience-and-the-five-tier-scale]] (created 2026-05-05 17:18 UTC; ~2,150 words; no prior pessimistic review)
+- **Output**: [[reviews/pessimistic-2026-05-05]]
+- **Critical issues found**: 1 (LLM verdict commits possibility/probability slippage — projects "live hypothesis" tier from run-ahead principle which is explicitly not a probability-of-sentience claim)
+- **Medium-high issues**: 1 (tenet-portability under-defended; rests partly on Birch's biographical 10% estimate and ignores Schwitzgebel-Sinnott-Armstrong's procedural critique)
+- **Medium issues**: 3 (convergences section overstates alignment on asymmetric-risk; closing aggregation paragraph gestures at engagement without delivering it; modal-evidential separation elides modal-vs-probabilistic distinction)
+- **Low issues**: 2 (verdict-table misreads Birch's own ambivalence on *C. elegans*; two orphan references — Birch 2022 *Noûs*, SEP "Animal Consciousness")
+- **Style audit**: No "This is not X. It is Y." cliché violations. No editor-vocabulary leakage. "Relation to Site Perspective" present and substantive with appropriately restricted tenet-alignment claim.
+- **Reasoning-mode**: No boundary-substitution, no missed unsupported-jump identifications, no label-leakage failures. Article is well-disciplined on the reasoning-mode axis; critical issues are at the substantive-content layer.
+- **Task added**: P2 refine-draft for the seven issues identified
 
 ## 2026-05-05 20:17 UTC - deep-review (cross-review)
 - **Status**: Success
