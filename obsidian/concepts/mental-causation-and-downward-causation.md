@@ -2,9 +2,9 @@
 title: "Mental Causation and Downward Causation"
 description: "How mental states cause physical effects despite Kim's exclusion argument. Consciousness exercises downward causation at quantum indeterminacies where physics is genuinely incomplete."
 created: 2026-01-15
-modified: 2026-03-30
+modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-04-22T23:44:00+00:00
+ai_modified: 2026-05-05T20:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,7 @@ concepts:
   - "[[cross-cultural-convergence-on-mental-causation]]"
   - "[[luck-objection]]"
   - "[[trumping-preemption]]"
+  - "[[selection-only-mind-influence]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-mechanism-bridge]]"
@@ -44,12 +45,13 @@ related_articles:
   - "[[self-stultification-as-master-argument]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[downward-causation-mental-causation-2026-01-15]]"
+  - "[[mind-brain-interface-efficacy]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-30
 last_curated: null
-last_deep_review: 2026-04-22T23:44:00+00:00
+last_deep_review: 2026-05-05T20:17:00+00:00
 coalesced_from:
   - "/concepts/mental-causation/"
   - "/concepts/downward-causation/"
@@ -140,7 +142,7 @@ Several responses are available, though none fully resolves the gap:
 
 **Outcome selection persists**: [[decoherence]] explains why interference effects wash out, but outcomes still require determination. Something must select which possibility becomes actual.
 
-**Bandwidth and amplification**: Conscious thought operates at roughly 10 bits per second, suggesting consciousness works at the policy level, not individual quantum events. The [[consciousness-bandwidth-architecture|bandwidth problem]] is resolved by [[bandwidth-of-consciousness|hierarchical selection]]. Even granting the quantum opening, consciousness must bridge to macroscopic outcomes; six distinct [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] have been proposed.
+**Bandwidth and amplification**: Conscious thought operates at roughly 10 bits per second, suggesting consciousness works at the policy level, not individual quantum events. The [[consciousness-bandwidth-architecture|bandwidth problem]] is resolved by [[bandwidth-of-consciousness|hierarchical selection]]; the strict per-event ceiling — log₂(N) bits per selection over a brain-prepared candidate set, sharply tightened to ε² / (2 ln 2) bits per trial under Born-rule preservation — is derived in [[selection-only-mind-influence]] and grounds the policy-level reading in information-theoretic terms. Even granting the quantum opening, consciousness must bridge to macroscopic outcomes; six distinct [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] have been proposed.
 
 The decoherence objection is a serious empirical challenge, not a philosophical refutation. The quantum opening remains, but the Map should not claim the mechanism is fully specified.
 
@@ -236,6 +238,8 @@ Mental causation and downward causation are central to the Map's framework.
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
 - [[mind-matter-interface]] — The unified two-layer architecture
 - [[consciousness-bandwidth-architecture]] — Whether the mind-body channel carries enough information
+- [[selection-only-mind-influence]] — Information-theoretic limits on per-event selection that the quantum mechanism must respect
+- [[mind-brain-interface-efficacy]] — Comparative-evolutionary scaling of the interface mechanism across species
 - [[concepts/many-worlds]] — Why the Map rejects MWI (and why it matters here)
 - [[pairing-problem]] — What connects this mind to this body
 - [[concepts/epiphenomenalism]] — The view denying mental causation

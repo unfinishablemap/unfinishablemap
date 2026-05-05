@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 19:16:00+00:00
+ai_modified: 2026-05-05 20:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 20:17 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [[concepts/mental-causation-and-downward-causation]]
+- **Word count**: 3032 → 3098 (+66)
+- **Critical issues addressed**: 0 (convergence preserved — fifth deep review since coalescence)
+- **Medium issues addressed**: 2 (missing cross-link to selection-only-mind-influence; missing cross-link to mind-brain-interface-efficacy)
+- **Enhancements made**: 3 (information-theoretic ceiling clause added to "Bandwidth and amplification"; selection-only-mind-influence added to concepts frontmatter and Further Reading; mind-brain-interface-efficacy added to related_articles and Further Reading)
+- **Engagement classification**: Kim — Mode One (defective on its own terms via failure of the sufficient-cause premise at quantum indeterminacies); Tegmark — mixed Mode One + Mode Three (revised coherence estimates inside Tegmark's physics; honest framework-boundary marking on the residual gap); Frankish/illusionism — Mode One (regress dilemma internal to illusionism); Yablo/Woodward — Mode One (engaged within their own frameworks); MWI defenders — Mode Three (explicit framework-boundary marking in "Why Not Many Worlds?"); eliminative materialism — Mode Three (self-stultification noted as bedrock disagreement, not refutation). No editor-vocabulary leakage in prose. No boundary-substitution.
+- **Trigger**: cross-review chained from 2026-05-05 publication of mind-brain-interface-efficacy and selection-only-mind-influence
+- **Output**: [[reviews/deep-review-2026-05-05-mental-causation-and-downward-causation]]
 
 ## 2026-05-05 19:16 UTC - deep-review (cross-review)
 - **Status**: Success

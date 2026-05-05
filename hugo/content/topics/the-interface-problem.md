@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-05-01 21:01:00+00:00
+ai_modified: 2026-05-05 19:16:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -26,14 +26,14 @@ concepts:
 - '[[pairing-problem]]'
 - '[[valence]]'
 created: 2026-02-09
-date: &id001 2026-05-01
+date: &id001 2026-05-05
 description: Where does consciousness meet the brain, and how does conscious state
   map to physical selection? The two faces of the central open challenge for The Unfinishable
   Map's interactionist framework.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 08:00:00+00:00
+last_deep_review: 2026-05-05 19:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,6 +46,7 @@ related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
 - '[[interface-specification-programme]]'
 - '[[framework-stage-calibration]]'
+- '[[mind-brain-interface-efficacy]]'
 title: 'The Interface Problem: Location and Specification'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -141,7 +142,7 @@ The framework is in-principle falsifiable, even where not yet so in practice. If
 
 ## What Remains Open
 
-Constrained pluralism narrows location; specification remains open. **Which molecular mechanism** within the attention-motor architecture hosts the indeterminacies? Ion channels at synapses remain the most physically specific candidate. The **coupling law** ([psychophysical control law](/topics/the-psychophysical-control-law/)) — how phenomenal effort maps to physical selection bias — remains unspecified. Whether the **hierarchy is continuous** or marked by a sharp transition is open. **Whether location varies across species** — cephalopods and arthropods may host the interface differently — is taken up in [interface heterogeneity](/concepts/interface-heterogeneity/).
+Constrained pluralism narrows location; specification remains open. **Which molecular mechanism** within the attention-motor architecture hosts the indeterminacies? Ion channels at synapses remain the most physically specific candidate. The **coupling law** ([psychophysical control law](/topics/the-psychophysical-control-law/)) — how phenomenal effort maps to physical selection bias — remains unspecified. Whether the **hierarchy is continuous** or marked by a sharp transition is open. **Whether location varies across species** — cephalopods and arthropods may host the interface differently — is taken up in [interface heterogeneity](/concepts/interface-heterogeneity/). **Whether efficacy varies** along the phylogenetic gradient producing the human-other-animal cognitive gap — bandwidth, fidelity, granularity, and candidate-type coupling as scaling axes — is taken up in [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/).
 
 ## Relation to Site Perspective
 

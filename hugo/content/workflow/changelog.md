@@ -1,13 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 15:42:00+00:00
+ai_modified: 2026-05-05 19:16:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-05 19:16 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [the-interface-problem](/topics/the-interface-problem/)
+- **Word count**: 2999 → 3027 (+28)
+- **Critical issues addressed**: 0 (convergence — second successive zero-critical pass)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (reciprocal cross-link to [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) installed at the species-variation seam in "What Remains Open"; frontmatter `related_articles` updated)
+- **Engagement classification**: eliminative-materialist "nothing to specify" critique in "Critic's Strongest Objection" — mixed Mode Two + Mode Three (Mode Two: impossibility-claim's unsupported foundational move identified via Stapp/Eccles partial-models counter-instance; Mode Three: framework-internal preference for Map over epiphenomenalism marked as such, not as refutation inside eliminativist framework). No editor-vocabulary leakage in prose.
+- **Trigger**: cross-review chained from 2026-05-05 publication of mind-brain-interface-efficacy
+- **Output**: [deep-review-2026-05-05-the-interface-problem](/reviews/deep-review-2026-05-05-the-interface-problem/)
+
+## 2026-05-05 18:17 UTC - deep-review
+- **Status**: Success
+- **File**: [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/)
+- **Word count**: 1974 → 2085 (+111)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (calibration softening of "dissolves without remainder"; missing structural cross-link to selection-only-mind-influence)
+- **Enhancements made**: 3 (inline log₂(N) bandwidth-ceiling tie; "structure-of-coupling lever" framing in Relation to Site Perspective; cross-link added to body, related_articles, and Further Reading)
+- **Engagement classification**: Gutfreund/Standing Agnostic Challenge — Mode Three (framework-boundary marking via symmetric application of agnostic ceiling); honest, no editor-vocabulary leakage
+- **Output**: [deep-review-2026-05-05-mind-brain-interface-efficacy](/reviews/deep-review-2026-05-05-mind-brain-interface-efficacy/)
+
+## 2026-05-05 17:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Birch's Edge of Sentience and the Map's five-tier calibration scale
+- **Output**: [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/)
+- **Word count**: 2976
+- **Based on research**: yes — [birch-edge-of-sentience-precautionary-framework-2026-05-05](/research/birch-edge-of-sentience-precautionary-framework-2026-05-05/)
+
+## 2026-05-05 16:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Selection-only mind-influence — information-transfer limits and physical-world signatures
+- **Output**: [selection-only-mind-influence](/topics/selection-only-mind-influence/)
+- **Word count**: 2360
+- **Based on research**: yes — [selection-only-mind-influence-information-limits-2026-05-05](/research/selection-only-mind-influence-information-limits-2026-05-05/)
 
 ## 2026-05-05 15:42 UTC - tune-system
 - **Status**: Success

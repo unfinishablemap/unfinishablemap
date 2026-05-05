@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-05 14:17:00+00:00
+ai_modified: 2026-05-05 18:17:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,9 +20,11 @@ description: Could the human-other-animal intelligence gap reflect evolution of 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-05 18:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[selection-only-mind-influence]]'
 - '[[evidential-status-discipline]]'
 - '[[framework-stage-calibration]]'
 - '[[research/evolved-mind-brain-interface-efficacy-2026-05-05]]'
@@ -44,12 +46,12 @@ The standard reading treats brain-side variables — cortical neuron count (Herc
 
 The hypothesis names four candidate axes along which an evolved interface could vary across species:
 
-1. **Selection bandwidth** — the number of candidate neural patterns the interface can bias per unit time.
+1. **Selection bandwidth** — the number of candidate neural patterns the interface can bias per unit time. The strict information-theoretic ceiling on a single selection event, derived in [selection-only-mind-influence](/topics/selection-only-mind-influence/), is log₂(N) bits per event over the brain-prepared candidate set; bandwidth in this sense is the rate at which N grows and selections occur.
 2. **Fidelity** — the proportion of mind-side intent preserved through to physical actualisation, with the remainder lost to decoherence and noise.
 3. **Granularity** — the size of the probability adjustment the interface effects per event, with finer-grained selection supporting cumulative directed effects without violating any single Born-rule expectation.
 4. **Candidate-type coupling** — the range of neural-pattern *types* the interface can reach as candidates: motor-only, motor-plus-perceptual, planning, abstract-relational, meta-representational.
 
-Under this reading, the cetacean puzzle dissolves without remainder. Cetaceans match or exceed humans in cortical neurons yet do not appear to ratchet cumulative culture in the human sense. If their interface is configured for high-bandwidth coupling to acoustic and social-tracking patterns but lower bandwidth to recursive-symbolic patterns, equal substrate can support unequal cognitive *reach* without any difference in the kind of consciousness involved. The corvid case is equally instructive: convergent intelligence in a radically different (nidopallium, not neocortex) pallial architecture is exactly what one would expect if the variable scaling with cognitive grade is functional rather than structural — interface efficacy on whatever local substrate is available rather than substrate-specific computational capacity.
+Under this reading, the cetacean puzzle ceases to require a separate brain-side story. Cetaceans match or exceed humans in cortical neurons yet do not appear to ratchet cumulative culture in the human sense. If their interface is configured for high-bandwidth coupling to acoustic and social-tracking patterns but lower bandwidth to recursive-symbolic patterns, equal substrate could support unequal cognitive *reach* without any difference in the kind of consciousness involved. The corvid case is the structural prediction the reframe is committed to: convergent intelligence in a radically different (nidopallium, not neocortex) pallial architecture is what one would expect if the variable scaling with cognitive grade is functional rather than structural — interface efficacy on whatever local substrate is available rather than substrate-specific computational capacity.
 
 ## What the Comparative Cognition Gaps Look Like Under the Reframe
 
@@ -89,7 +91,7 @@ The Map's foundational commitments shape both the reach and the discipline of th
 
 The methodological tenet — [Occam's Razor Has Limits](/tenets/#occams-razor) — does necessary work here. The interface-efficacy reframe is not parsimonious by standard lights, which prefer brain-side explanations as fewer in entities. The Map's commitment is that simplicity is unreliable as a *decisive* argument when the parsimonious account is built on assumptions (in this case, monism plus causal closure) that are themselves contested. Occam's razor recommends the brain-side story; the recommendation is informative but not adjudicative.
 
-The hypothesis sits cleanly in the same evidential register as the broader [nature-vs-coupling distinction](/topics/comparative-consciousness-and-interface-differences/) in comparative consciousness, and as the Map's [interface-heterogeneity](/concepts/interface-heterogeneity/) thesis at the structural layer. Where interface heterogeneity says interfaces may differ in *kind* across species, interface-efficacy adds a quantitative-scaling layer on top: interfaces may also differ in *grade* along axes that map onto cognitive grade.
+The hypothesis sits cleanly in the same evidential register as the broader [nature-vs-coupling distinction](/topics/comparative-consciousness-and-interface-differences/) in comparative consciousness, and as the Map's [interface-heterogeneity](/concepts/interface-heterogeneity/) thesis at the structural layer. Where interface heterogeneity says interfaces may differ in *kind* across species, interface-efficacy adds a quantitative-scaling layer on top: interfaces may also differ in *grade* along axes that map onto cognitive grade. The information-theoretic ceiling on per-event selection developed in [selection-only-mind-influence](/topics/selection-only-mind-influence/) supplies the strict background against which the four scaling axes are read: the efficacy variable is not a power lever but a structure-of-coupling lever, varying within the bandwidth corridor that no-signalling and Born-rule preservation already constrain.
 
 The contribution is a re-framing of comparative-cognition data, not a new empirical claim. Its value is to make visible a structural alternative to the brain-as-better-computer reading and to generate the in-principle distinguishing observables a future empirical programme would need. Whether the alternative ultimately prevails is a question current methods cannot decide and which the Standing Agnostic Challenge says may be permanently elusive at the behavioural level.
 
@@ -103,6 +105,7 @@ The contribution is a re-framing of comparative-cognition data, not a new empiri
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — the human-internal version of the bandwidth axis.
 - [baseline-cognition](/concepts/baseline-cognition/) — what the unconscious substrate can do without interface contribution, relevant for cross-species inference.
 - [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — the empirical floor against which interface-efficacy claims must be calibrated.
+- [selection-only-mind-influence](/topics/selection-only-mind-influence/) — the information-theoretic limits on per-event selection that supply the strict background within which the four efficacy axes operate.
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the labelling discipline that keeps tenet-coherence and evidence-elevation distinct.
 
 ## References
