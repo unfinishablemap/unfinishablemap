@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 05:17:00+00:00
+ai_modified: 2026-05-05 06:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 06:23 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/incubation-effect-and-unconscious-processing]]
+- **Word count**: 2620 → 2622 (+2; 87% of 3000 soft threshold)
+- **Critical issues addressed**: 2
+  - Broken link to archived `imagination-and-creativity-void` (coalesced 2026-04-19 into `voids/creative-aesthetic-void`) — retargeted in concepts list and Further Reading; description updated to reflect the merged article's three-failure framing
+  - Broken anchor `consciousness-and-cognitive-distinctiveness#Network Switching` (target heading does not exist) — retargeted to `#The Creative Mechanism`, the section that actually discusses DMN/ECN switching
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — article at convergence; fifth deep review with no content drift
+- **Engagement classification**: physicalist callout in Mode Shift section is Mode One (defective on its own terms — uses REM/NREM contrast against framework's empirical commitments). No label leakage in prose.
+- **Calibration check**: passed — Konkoly et al. (N=20) hedged with replication caveat; "experiential dimension is doing causal work" presented as inference with "suggests"; free-will tenet uses "mirrors" not "demonstrates." No possibility/probability slippage.
+- **Bedrock disagreements** (carried forward, not re-flagged): eliminative materialist's "different mode is gerrymandering"; Dennett-style aha!-as-mere-neural-event
+- **Output**: [[reviews/deep-review-2026-05-05-incubation-effect-and-unconscious-processing]]
 
 ## 2026-05-05 05:17 UTC - refine-draft
 - **Status**: Success
