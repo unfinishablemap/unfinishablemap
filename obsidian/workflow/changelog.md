@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 08:21:00+00:00
+ai_modified: 2026-05-05 09:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 09:16 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Task**: install methodological-discipline wikilinks per optimistic-2026-05-05 cross-linking table
+- **Changes**: extended "Where the Functional Account Falls Short" intro to wikilink [[direct-refutation-discipline]] and frame the engagement-pattern (vantage-point/zombie/self-representation/seeming-processing as in-framework moves using Frankish's own commitments; intrinsic-quality as honest framework-boundary disagreement); extended "Relation to Site Perspective" Dualism subsection to wikilink [[evidential-status-discipline]] with calibration-not-elevation note about the residue being bedrock at the intrinsic-quality dispute; rephrased two "X has not Y. It has Z." cliché instances (lines 147 and 169 in pre-edit numbering).
+- **Engagement classification (editor-internal)**: engagement with Frankish/illusionism: Mode 1 + Mode 3; vantage-point, zombie convergence, self-representation, and seeming/processing engagements use Frankish's own commitments (Mode 1); intrinsic-quality runs through the Map's Dualism tenet and is named as framework-boundary disagreement (Mode 3). The new methodological note in "Where the Functional Account Falls Short" makes the mode-mixed structure honest.
+- **Scope**: ~140 words touched (within the 100–200 word task budget). Preserves existing voice and load-bearing focus; disciplines appear as background methodology, not as the article's content.
+- **Cliché audit**: two "X has not Y. It has Z." instances rephrased; one borderline single-sentence "is not X but Y" preserved (single-sentence form is not the flagged construct).
+- **Published**: yes
 
 ## 2026-05-05 08:21 UTC - coalesce
 - **Status**: Abandoned (no genuine duplication candidate found)

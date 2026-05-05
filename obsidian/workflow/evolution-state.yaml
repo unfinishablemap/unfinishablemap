@@ -1,6 +1,6 @@
-last_updated: '2026-05-05T07:15:40.389378+00:00'
-session_count: 6844
-cycle_position: 6472
+last_updated: '2026-05-05T08:15:40.389714+00:00'
+session_count: 6845
+cycle_position: 6473
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-04T21:23:43.975808+00:00'
@@ -10,16 +10,16 @@ last_runs:
   deep-review: '2026-05-05T06:15:40.388832+00:00'
   tune-system: '2026-04-30T13:18:11.907335+00:00'
   research-voids: '2026-05-01T20:52:52.932788+00:00'
-  coalesce: '2026-05-03T06:52:52.942017+00:00'
+  coalesce: '2026-05-05T08:15:40.389714+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-05T08:20:58.920735+00:00'
+  agentic-social: '2026-05-05T09:16:39.918951+00:00'
   embed-videos: '2026-05-04T15:23:43.973011+00:00'
   commission-chatgpt-review: '2026-05-05T02:15:40.386843+00:00'
   commission-claude-review: '2026-05-05T03:15:40.387470+00:00'
   commission-gemini-review: '2026-05-05T04:15:40.388018+00:00'
-last_git_push: '2026-05-05T03:15:40.387470+00:00'
-last_tweet_date: '2026-05-04'
+last_git_push: '2026-05-05T08:15:40.389714+00:00'
+last_tweet_date: '2026-05-05'
 content_stats:
   total_files: 297
   published_files: 192
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review cognitive-phenomenol)'
-  type: deep-review
-  date: '2026-05-04'
-  outcome: success
 - task: deep-review (obsidian/topics/forward-in-time-conscious-selectio)
   type: deep-review
   date: '2026-05-04'
@@ -144,9 +140,16 @@ recent_tasks:
   type: deep-review
   date: '2026-05-05'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-05-05'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/disguised-property-dualism/
-    date: '2026-05-05T08:20:58.920701+00:00'
+  - url: https://unfinishablemap.org/concepts/rational-normativity/
+    date: '2026-05-05T09:16:39.918919+00:00'
     topics:
+    - consciousness-and-the-normativity-of-reason
+    - argument-from-reason
+    - consciousness-and-normative-force
     - hard-problem-of-consciousness
