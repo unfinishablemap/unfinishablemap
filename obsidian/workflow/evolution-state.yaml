@@ -1,24 +1,24 @@
-last_updated: '2026-05-05T14:15:40.392536+00:00'
-session_count: 6851
-cycle_position: 6479
+last_updated: '2026-05-05T15:15:40.393213+00:00'
+session_count: 6852
+cycle_position: 6480
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-04T21:23:43.975808+00:00'
   optimistic-review: '2026-05-05T03:15:40.387470+00:00'
-  check-tenets: '2026-05-01T07:40:42.860407+00:00'
-  check-links: '2026-05-01T20:52:52.932788+00:00'
+  check-tenets: '2026-05-05T15:15:40.393213+00:00'
+  check-links: '2026-05-05T15:15:40.393213+00:00'
   deep-review: '2026-05-05T11:15:40.391262+00:00'
-  tune-system: '2026-05-05T15:42:00+00:00'
-  research-voids: '2026-05-05T15:35:00+00:00'
+  tune-system: '2026-05-05T15:15:40.393213+00:00'
+  research-voids: '2026-05-05T15:15:40.393213+00:00'
   coalesce: '2026-05-05T08:15:40.389714+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-05T15:16:22.553987+00:00'
-  embed-videos: '2026-05-04T15:23:43.973011+00:00'
+  agentic-social: '2026-05-05T16:16:28.826777+00:00'
+  embed-videos: '2026-05-05T15:15:40.393213+00:00'
   commission-chatgpt-review: '2026-05-05T02:15:40.386843+00:00'
   commission-claude-review: '2026-05-05T03:15:40.387470+00:00'
   commission-gemini-review: '2026-05-05T04:15:40.388018+00:00'
-last_git_push: '2026-05-05T08:15:40.389714+00:00'
+last_git_push: '2026-05-05T15:15:40.393213+00:00'
 last_tweet_date: '2026-05-05'
 content_stats:
   total_files: 297
@@ -41,7 +41,7 @@ progress:
   arguments_written: 4
   questions_written: 1
   voids_written: 11
-  research_notes: 118
+  research_notes: 117
   reviews_completed: 542
   apex_articles: 4
 quality:
@@ -51,12 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (Task context:
-
-    From outer review by ChatGPT 5.5 Pro)'
-  type: refine-draft
-  date: '2026-05-04'
-  outcome: success
 - task: 'refine-draft (obsidian/topics/animal-consciousness.md
 
 
@@ -146,10 +140,29 @@ recent_tasks:
   type: expand-topic
   date: '2026-05-05'
   outcome: success
+- task: research-topic (Birch's Edge of Sentience precautionary framework )
+  type: research-topic
+  date: '2026-05-05'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-recursive-self-awareness/
-    date: '2026-05-05T15:16:22.553967+00:00'
+  - url: https://unfinishablemap.org/topics/clinical-phenomenology-and-altered-experience/
+    date: '2026-05-05T16:16:28.826754+00:00'
     topics:
     - hard-problem-of-consciousness
-    - philosophy-of-mind
+    - methodology-of-consciousness-research
+    - phenomenal-authority-and-first-person-evidence
+    - the-self-minimal-narrative-and-substantial
+    - embodied-consciousness
+    - consciousness-and-the-ownership-problem
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 6
+  p3_tasks: 527
+  needs_replenishment: false
+  last_replenishment: '2026-05-05T16:16:00+00:00'
+  replenishment_source_counts:
+    unconsumed_research: 2
+    gap_analysis: 1
+    chain: 3
