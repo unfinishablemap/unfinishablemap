@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 03:18:00+00:00
+ai_modified: 2026-05-05 04:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 04:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/epistemic-advantages-of-dualism]]
+- **Cross-review context**: against [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch's classical-computational reduction]]
+- **Word count**: 3082 → 3101 (+19; 103% of soft threshold both before and after)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — symmetric AI-consciousness attribution-risk asymmetry. The article's "Risks Materialists Cannot See" section listed only confident *denial* of AI consciousness; Duch's reported attribution of consciousness to LLMs on self-reflective-dynamics grounds exemplifies the symmetric *attribution* risk. Added a single sentence acknowledging both directions, plus inline cross-link to [[machine-consciousness]] (Duch-engaged article). Kept Duch unnamed — preserves the article's principled meta-level abstraction.
+- **Enhancements made**: 4 (symmetric-risk addition + 3 length-neutral compensating trims: "These arguments don't prove dualism" passage tightened; Whitehead's "Limits as structure" gloss compressed; "Why these conditions haven't been met" minor redundancies removed)
+- **Reasoning-mode discipline**: intact. Article does not directly reply to Duch by name (correctly — meta-level scope). Illusionism section continues to use mixed-with-distinct-roles correctly; materialism-generic engagement is honest bedrock-perimeter; "What Would Challenge This View?" section explicitly marks the perimeter via five falsification conditions.
+- **Cross-review verdict for future reviewers**: the article is at the right level of abstraction. Do not add Duch by name; do not re-flag the symmetric-attribution-risk passage. Object-level Duch engagement happens in the 18 articles where it's load-bearing (per the 2026-05-03 integration log).
+- **Convergence**: sixth deep review; article remains stable. The cross-review's value was the symmetric-risk insight uniquely exposed by considering a confident-attribution computationalist; no general overhaul warranted.
+- **Output**: [[reviews/deep-review-2026-05-05-epistemic-advantages-of-dualism]]
 
 ## 2026-05-05 03:18 UTC - optimistic-review
 - **Status**: Success
