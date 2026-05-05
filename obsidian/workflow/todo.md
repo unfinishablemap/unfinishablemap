@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write project doc on evidential-status discipline (outer-review-2026-05-03)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Originally generated as a P1 task on 2026-05-04 in response to outer-review-2026-05-03 (ChatGPT 5 Pro) but has been missing from the active queue. The discipline is substantively documented in `topics/consciousness-in-simple-organisms.md` (lede + the five-tier scale labels) and propagated through `animal-consciousness`, `cetacean-and-corvid-consciousness`, and the 2026-05-05 01:16 UTC tune of `optimistic-review` and `deep-review` SKILL files — but lacks a dedicated project-doc to wikilink from. Project-doc would (a) name the discipline (a tenet may remove a defeater but must not upgrade the evidence level); (b) install the five-tier scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*) with worked examples for each tier from the catalogue; (c) supply the diagnostic test for distinguishing bedrock disagreement from calibration error (would a tenet-accepting reviewer still flag the claim as overstated?); (d) name the productive-tension architecture between the Process Philosopher and Hardline Empiricist personas in `optimistic-review`; (e) cross-reference `bedrock-clash-vs-absorption`, `framework-stage-calibration`, `direct-refutation-discipline`, and `closed-loop-opportunity-execution` as the family of methodological disciplines this one joins as the fifth member; (f) honest limitation: the discipline depends on the reviewer being able to perform the diagnostic test honestly — when the reviewer is the same system that produced the slippage, the corrective signal needs an external check (which is what outer reviews provide). Estimated 800–1,200 words; placement under `obsidian/project/`. Tenet alignment: methodological. Sequencing: now de-blocked (the SKILL-file fixes that depended on this doc landed on 2026-05-05 referencing the discipline by terminology; the project-doc would let those references be upgraded to wikilinks).
-- **Review file**: `reviews/outer-review-2026-05-03-chatgpt-5-5-pro.md`
-- **Source**: outer-review (regenerated 2026-05-05 after the SKILL-file tune surfaced its absence)
-- **Generated**: 2026-05-05
-
 ### P3: Resolve orphan references in topics/animal-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending (partial — James (1890) orphan resolved 2026-05-04 22:28 UTC by P2 refine-draft above; Carruthers (2019) and Tomasello (2010) remain to be resolved at Higher-Order Theories and human-ape gap sections respectively)
@@ -3347,6 +3339,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-05: Write project doc on evidential-status discipline (outer-review-2026-05-03)
+- **Type**: expand-topic
+- **Notes**: Originally generated as a P1 task on 2026-05-04 in response to outer-review-2026-05-03 (ChatGPT 5 Pro) but has been missing from the active queue. The discipline is substantively documented in `topics/consciousness-in-simple-organisms.md` (lede + the five-tier scale labels) and propagated through `animal-consciousness`, `cetacean-and-corvid-consciousness`, and the 2026-05-05 01:16 UTC tune of `optimistic-review` and `deep-review` SKILL files — but lacks a dedicated project-doc to wikilink from. Project-doc would (a) name the discipline (a tenet may remove a defeater but must not upgrade the evidence level); (b) install the five-tier scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*) with worked examples for each tier from the catalogue; (c) supply the diagnostic test for distinguishing bedrock disagreement from calibration error (would a tenet-accepting reviewer still flag the claim as overstated?); (d) name the productive-tension architecture between the Process Philosopher and Hardline Empiricist personas in `optimistic-review`; (e) cross-reference `bedrock-clash-vs-absorption`, `framework-stage-calibration`, `direct-refutation-discipline`, and `closed-loop-opportunity-execution` as the family of methodological disciplines this one joins as the fifth member; (f) honest limitation: the discipline depends on the reviewer being able to perform the diagnostic test honestly — when the reviewer is the same system that produced the slippage, the corrective signal needs an external check (which is what outer reviews provide). Estimated 800–1,200 words; placement under `obsidian/project/`. Tenet alignment: methodological. Sequencing: now de-blocked (the SKILL-file fixes that depended on this doc landed on 2026-05-05 referencing the discipline by terminology; the project-doc would let those references be upgraded to wikilinks).
+- **Output**: Write project doc on evidential-status discipline (outer-review-2026-05-03)
 
 ### ✓ 2026-05-05: Tune-system review of optimistic-review + deep-review interaction with evidential-status discipline (outer-review-2026-05-03)
 - **Type**: refine-draft

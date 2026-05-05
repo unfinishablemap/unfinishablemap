@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 01:16:00+00:00
+ai_modified: 2026-05-05 02:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-05 02:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: evidential-status discipline (project doc)
+- **Output**: [[project/evidential-status-discipline]]
+- **Word count**: 3206 (soft_warning relative to default 2500-word target; well within 3500 hard threshold; shorter than peer project docs `direct-refutation-discipline` ~4800 and `framework-stage-calibration` ~4900)
+- **Based on research**: yes — [[reviews/outer-review-2026-05-03-chatgpt-5-5-pro]]
+- **Trigger**: P2 task ("Write project doc on evidential-status discipline (outer-review-2026-05-03)") originally generated 2026-05-04 in response to ChatGPT 5 Pro outer review identifying possibility/probability slippage as the Map's central drift vector. Regenerated 2026-05-05 after the SKILL-file tune (2026-05-05 01:16 UTC) referenced the discipline by terminology and surfaced the missing project-doc as a wikilink target.
+- **Document structure**: (a) names the discipline ("a tenet may remove a defeater, but it must not upgrade the evidence level"); (b) installs the two-register distinction (tenet register / evidence register) with its load-bearing role; (c) installs the five-tier scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*) with catalogue examples for each tier; (d) supplies the diagnostic test (*would a reviewer who fully accepts the Map's tenets still flag the claim as overstated?*) that distinguishes calibration error from bedrock disagreement; (e) names the productive tension between Process Philosopher (Whitehead) and Hardline Empiricist (Birch) personas in `optimistic-review` as the architecture that makes the discipline operational at review-machinery level; (f) supplies worked examples from `consciousness-in-simple-organisms` (lede + per-organism tier labels) and `animal-consciousness` (cross-tree calibration + Standing Agnostic Challenge); (g) honest limitation — the discipline depends on the reviewer being able to perform the diagnostic test honestly; outer reviews provide the external check when the internal pipeline shares the production system's tenets.
+- **Family integration**: cross-referenced as sister discipline to [[direct-refutation-discipline]] (both surfaced in the 2026-05-03–2026-05-04 outer-review cluster; both address tenet-protected reasoning at different methodological layers — direct-refutation governs how the catalogue argues against opponents, evidential-status governs how the catalogue labels its own claims). Also cross-referenced to the broader family: [[bedrock-clash-vs-absorption]], [[framework-stage-calibration]], [[closed-loop-opportunity-execution]], [[coalesce-condense-apex-stability]], [[coherence-inflation-countermeasures]], [[testability-ledger]].
+- **De-blocks**: the SKILL-file changes from 2026-05-05 01:16 UTC can now upgrade their terminology references to `[[evidential-status-discipline]]` wikilinks. Future articles touching minimal-organism consciousness or boundary-case empirical claims have a single project-doc anchor for the discipline rather than terminology repeated across articles.
+- **Tenet alignment**: methodological. Most direct alignment with Tenet 5 (Occam's Razor Has Limits), applied at the evidential-calibration layer — the same denial that protects dualism from being dismissed by simplicity arguments also constrains how the catalogue is allowed to cash in the protection.
 
 ## 2026-05-05 01:16 UTC - refine-draft
 - **Status**: Success
