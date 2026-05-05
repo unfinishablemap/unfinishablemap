@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 07:16:00+00:00
+ai_modified: 2026-05-05 08:21:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-05 08:21 UTC - coalesce
+- **Status**: Abandoned (no genuine duplication candidate found)
+- **Section under highest pressure**: voids/ at 99/100 (topics 229/250, concepts 228/250)
+- **Clusters examined** (5 iterations per skill discipline):
+  1. Cognitive-limits cluster: [biological-cognitive-closure](/voids/biological-cognitive-closure/), [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/), [formal-cognitive-limits](/voids/formal-cognitive-limits/), [collective-cognitive-limits](/voids/collective-cognitive-limits/), [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — well-differentiated by source (evolutionary/architectural vs body-shaped vs computational vs social vs motivational); two already coalesced previously
+  2. Affect cluster: [affective-void](/voids/affective-void/) (range), [mood-void](/voids/mood-void/) (pervasiveness), [valence-void](/voids/valence-void/) (structure), [appetitive-void](/voids/appetitive-void/) (constitutive role) — each explicitly differentiates itself in-text
+  3. Meaning/mattering cluster: [meaning-void](/voids/meaning-void/) (reference + felt comprehension), [mattering-void](/voids/mattering-void/) (significance/care), [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) (meta-thesis) — orthogonal angles on adjacent territory
+  4. Within-species phenomenal divergence: [imagery-void](/voids/imagery-void/) / [synesthetic-void](/voids/synesthetic-void/) — explicitly positioned as complementary parallels (vividness vs cross-modal qualia)
+  5. Source/recognition cluster: [source-attribution-void](/voids/source-attribution-void/) (origin tracking) / [recognition-void](/voids/recognition-void/) (identification) — distinct cognitive operations with shared opacity-signature
+- **Decision**: abandon. Each cluster has been carefully refined through recent deep-reviews to carve out distinct territory; coalescing would erase that work and lose specificity. Cap-saturation policy (formalised 2026-05-05 05:17 UTC in [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)) applies: at cap, fabrication of a merge to satisfy a slot is anti-pattern.
+- **Precedent**: matches 2026-05-03 06:54 UTC abandonment at voids 100/100 (commit 5ea6d0c90).
 
 ## 2026-05-05 07:16 UTC - deep-review
 - **Status**: Success
