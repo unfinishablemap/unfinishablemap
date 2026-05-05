@@ -81,12 +81,24 @@ Capture findings using these severity definitions:
 - Broken links or references
 - Severe style guide violation (e.g., missing front-loaded summary)
 - **Source/Map conflation** (Map interpretation presented as source's claim)
+- **Possibility/probability slippage** (treating "the Map's tenets remove a defeater" as if it upgraded the evidence level — e.g., labelling a boundary case at "realistic possibility" or higher on the five-tier evidential-status scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*) when the load-bearing support is tenet-coherence rather than positive evidence). This is a **calibration error**, not a philosophical disagreement, and it is correctable inside the Map's own framework. See the "Distinguishing bedrock disagreement from calibration error" guidance below.
 
 **NOT critical** — These are medium or low, not critical:
-- "Persona X disagrees with the position" (philosophical disagreement is expected)
+- "Persona X disagrees with the position from a different framework" (bedrock philosophical disagreement at the framework boundary is expected — physicalists, Many-Worlds defenders, eliminative materialists will always disagree from outside the Map's tenets, and that disagreement is *not* a correctable defect — see [[bedrock-clash-vs-absorption]])
 - "Response to objection Y could be stronger" (unless it's a strawman)
 - "Section Z is thin" (expansion opportunity, not critical flaw)
 - Issues that were addressed in a previous review
+
+**Distinguishing bedrock disagreement from calibration error.** "Persona X disagrees" is *only* not-critical when the disagreement is at the framework boundary — the persona rejects the Map's tenets, or argues from a framework the Map has explicitly excluded. When the disagreement *looks* philosophical but is actually about evidential calibration *inside* the Map's framework — the article has used a tenet to remove a defeater and then treated the defeater-removal as if it had upgraded evidence level — that is **possibility/probability slippage** and is a CRITICAL issue, not a bedrock disagreement to be absorbed.
+
+The diagnostic test: *would a reviewer who fully accepts the Map's tenets still flag the claim as overstated relative to the evidential-status scale?* If yes, the issue is not bedrock disagreement; it is a calibration error the article must fix. Examples:
+
+- *"Reviewer says nematodes probably aren't conscious"* viewed against an article labelling nematodes "live hypothesis / speculative integration" — bedrock-style disagreement; not critical (the article's calibration is honest at that tier).
+- *"Reviewer says the article overstates the evidential status of nematode consciousness"* against an article that labels nematodes at "realistic possibility" because *the tenets weaken parsimony arguments* — calibration error; CRITICAL. A tenet-accepting reviewer would still flag the upgrade because the load-bearing move is "tenet removes a defeater," not positive evidence.
+- *"Reviewer says the Map's quantum interactionism is wrong"* — bedrock; not critical (the disagreement is at the tenet boundary).
+- *"Reviewer says the article presents tenet-coherence as if it elevated the evidential status of an empirical claim"* — calibration error; CRITICAL.
+
+The 2026-05-03 outer review by ChatGPT 5 Pro identified this distinction as the key one for protecting content from drift back toward over-confident claims about minimal-organism consciousness. The systemic risk the discipline catches is that calibration errors *look* like philosophical disagreements when they are not, and the previous "not critical" rule shielded the slippage from corrective signal. The fix is the diagnostic test above: ask whether a tenet-accepting reviewer would still flag the claim. If yes, it is correctable; treat it as such.
 
 **Medium issues** (should fix):
 - Weak engagement with major counterarguments
@@ -151,21 +163,23 @@ Perimeter-substitution is the failure mode three independent outer reviewers (20
 
 ### 3. Run Optimistic Review (Deep Mode)
 
-Apply supportive analysis using the six sympathetic philosopher personas from `/optimistic-review`:
+Apply supportive analysis using the seven sympathetic philosopher personas from `/optimistic-review`:
 
 1. **Property Dualist** (David Chalmers perspective)
 2. **Quantum Mind Theorist** (Henry Stapp perspective)
 3. **Phenomenologist** (Thomas Nagel perspective)
-4. **Process Philosopher** (Alfred North Whitehead perspective)
+4. **Process Philosopher** (Alfred North Whitehead perspective) — subject to the evidential-status constraint: praise must not justify upgrading boundary cases up the five-tier scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*) on tenet-load alone
 5. **Libertarian Free Will Defender** (Robert Kane perspective)
 6. **Mysterian** (Colin McGinn perspective)
+7. **Hardline Empiricist** (Jonathan Birch perspective) — counterweight to the Process Philosopher; praises evidential restraint about minimal-organism consciousness, the "tenet-coherent, not evidence-elevating" pattern, and tenet-as-evidence-upgrade declined as a praise-worthy thing *not* done
 
 In deep single-file mode:
-- All six personas must engage specifically with this content
+- All seven personas must engage specifically with this content
 - Identify concrete expansion opportunities within this document
 - Note cross-linking potential with existing content
 - Find unique phrasings and arguments worth preserving
 - Identify strengths in argumentation and communication
+- When the Process Philosopher and the Hardline Empiricist are in productive tension over the same passage, the calibration question is load-bearing — resolve via the diagnostic test in §2 above
 
 Capture findings:
 - **Strengths to preserve** (do not change these)
@@ -368,7 +382,8 @@ Enhanced:
 - Don't expand articles already at or above soft threshold without equivalent cuts
 - Don't ignore length warnings - if the article is too long, address it
 - **Don't re-flag issues that previous reviews marked as resolved** — If a prior review said "addressed Dennett's heterophenomenology," don't flag "functionalist response too weak" again unless there's a specific new problem
-- **Don't treat philosophical disagreement as "critical"** — The adversarial personas are *designed* to disagree with dualist content. "MWI defender finds this unsatisfying" is not a critical issue; it's an expected philosophical standoff
+- **Don't treat *bedrock* philosophical disagreement as "critical"** — The adversarial personas are *designed* to disagree with dualist content from outside the Map's framework. "MWI defender finds this unsatisfying" is not a critical issue; it's an expected philosophical standoff at the framework boundary
+- **DO treat possibility/probability slippage as critical** — Calibration errors that *look* like philosophical disagreements are correctable inside the Map's own framework, and the diagnostic test (would a tenet-accepting reviewer still flag the claim as overstated?) separates bedrock disagreement from slippage. See the "Distinguishing bedrock disagreement from calibration error" guidance in §2 above. Do not let the "philosophical disagreement is expected" rule shield slippage from corrective signal
 - **Don't oscillate** — If you find yourself wanting to expand something a previous review trimmed (or vice versa), that's a signal the article has reached stability, not that it needs more changes
 
 ### Attribution Errors to Catch

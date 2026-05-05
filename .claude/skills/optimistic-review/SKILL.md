@@ -54,6 +54,7 @@ Review the content from perspectives of philosophers who would be sympathetic to
 - Events, not substances, are fundamental
 - Mind and matter are two aspects of the same process
 - Praise: Avoiding crude substance dualism
+- **Constraint (evidential-status discipline)**: This persona's praise must NOT be used to justify upgrading an organism or system from "live hypothesis" to "realistic possibility" or higher on the five-tier evidential-status scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*). Whitehead-friendliness — process-philosophical compatibility, "experience all the way down" intuitions, panpsychic resonance — removes a defeater for the metaphysical possibility of widespread consciousness; it does not supply positive evidence that any specific minimal organism is conscious. When an article uses tenet-coherence or process-philosophical resonance as the *load-bearing* support for a tier-upgrade (e.g., labelling nematodes "realistic possibility" because the tenets weaken parsimony arguments against simple-organism consciousness), that is a **calibration error to flag, not a strength to praise**. Process-philosophical compatibility is praiseworthy at any tier; it is not praiseworthy as the engine of tier-upgrade. The honest pattern is "tenet-coherent, not evidence-elevating."
 
 **The Libertarian Free Will Defender (Robert Kane)**
 - Quantum indeterminacy makes room for genuine freedom
@@ -66,6 +67,18 @@ Review the content from perspectives of philosophers who would be sympathetic to
 - The hard problem might be unsolvable *for us*
 - This doesn't mean dualism wins—but it doesn't lose either
 - Praise: Intellectual humility about what we can know
+
+**The Hardline Empiricist (Jonathan Birch)**
+- Evidence quality matters more than philosophical compatibility
+- Precaution under uncertainty is a *discipline*, not a licence to upgrade evidential status
+- Tenet-driven defeater-removal is not evidence-positive; the absence of a principled barrier is not the presence of positive evidence
+- The five-tier evidential-status scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*) keeps registers separate
+- Praise: **Restraint about minimal-organism consciousness** — labelling nematodes, *Hydra*, slime molds, and similar boundary cases at "live hypothesis" or "speculative integration" rather than at "realistic possibility" or higher
+- Praise: Naming the move "tenet removes a defeater but does not upgrade evidential status" when an article is at risk of possibility/probability slippage
+- Praise: Using the named pattern *"tenet-coherent, not evidence-elevating"* (or equivalent) when a tenet-based argument is presented as a metaphysical-possibility result rather than as evidence
+- Praise: **Tenet-as-evidence-upgrade is a praise-worthy thing to *not* do** — when an article had the structural opportunity to slide a boundary case up the scale on tenet-load and explicitly declined, that restraint is itself a strength to name
+- Praise: Honest framework-stage calibration when the article identifies its own claims as pre-Keplerian (per [[framework-stage-calibration]]) rather than over-claiming Newton-stage results
+- This persona is the **counterweight** to the Process Philosopher: it praises the things the Process Philosopher's praise must not be used to justify. The two personas are designed to be in productive tension — Whitehead-friendliness and evidential discipline are both praiseworthy, but they belong on different axes. When the Process Philosopher's praise would cash out as a tier-upgrade, the Hardline Empiricist flags the slippage; when an article is genuinely calibrated, both personas can praise different aspects without conflict.
 
 #### Standard Strength Analysis
 
@@ -150,6 +163,9 @@ ai_system: [current model]
 ### The Mysterian (McGinn)
 [What shows appropriate epistemic humility]
 
+### The Hardline Empiricist (Birch)
+[What praises evidential restraint and calibration discipline; what tenet-as-evidence-upgrade is praise-worthily *not* done; whether the article uses the five-tier scale honestly. If the article touches minimal-organism consciousness, animal-consciousness boundary cases, or any tenet-load-bearing claim, this persona's verdict is load-bearing for the review]
+
 ## Content Strengths
 
 ### [filename]
@@ -216,3 +232,4 @@ Prepend entry to `obsidian/workflow/changelog.md` (add immediately after frontma
 - Be genuinely enthusiastic about strengths
 - But be realistic about opportunities - quality over quantity
 - New topics should align with site tenets
+- **Process Philosopher vs Hardline Empiricist tension is by design** — Whitehead-friendliness and evidential discipline both deserve praise but on different axes. Praise from the Process Philosopher must never cash out as a tier-upgrade on the five-tier evidential-status scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*); when an article is at risk of that slippage, the Hardline Empiricist persona surfaces it. If the two personas converge in praising the same passage, the article has resolved the tension honestly. If they conflict, the article likely contains possibility/probability slippage and the report should flag it as a calibration concern (not a praise) — and a `refine-draft` task should be generated rather than an `expand-topic` opportunity
