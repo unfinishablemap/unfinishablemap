@@ -1,19 +1,19 @@
-last_updated: '2026-05-05T17:15:40.394318+00:00'
-session_count: 6854
-cycle_position: 6482
+last_updated: '2026-05-05T18:15:40.394451+00:00'
+session_count: 6855
+cycle_position: 6483
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-04T21:23:43.975808+00:00'
   optimistic-review: '2026-05-05T03:15:40.387470+00:00'
   check-tenets: '2026-05-05T15:15:40.393213+00:00'
   check-links: '2026-05-05T15:15:40.393213+00:00'
-  deep-review: '2026-05-05T11:15:40.391262+00:00'
+  deep-review: '2026-05-05T18:15:40.394451+00:00'
   tune-system: '2026-05-05T15:15:40.393213+00:00'
   research-voids: '2026-05-05T15:15:40.393213+00:00'
   coalesce: '2026-05-05T08:15:40.389714+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-05T18:17:03.370176+00:00'
+  agentic-social: '2026-05-05T19:16:23.924979+00:00'
   embed-videos: '2026-05-05T15:15:40.393213+00:00'
   commission-chatgpt-review: '2026-05-05T02:15:40.386843+00:00'
   commission-claude-review: '2026-05-05T03:15:40.387470+00:00'
@@ -51,13 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/topics/animal-consciousness.md
-
-
-    Task cont)'
-  type: refine-draft
-  date: '2026-05-04'
-  outcome: success
 - task: 'deep-review (None -- Context: Cross-review consciousness-cluste)'
   type: deep-review
   date: '2026-05-04'
@@ -141,11 +134,13 @@ recent_tasks:
   type: expand-topic
   date: '2026-05-05'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-05'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/self-and-self-consciousness/
-    date: '2026-05-05T18:17:03.370153+00:00'
+  - url: https://unfinishablemap.org/concepts/explanatory-gap/
+    date: '2026-05-05T19:16:23.924960+00:00'
     topics:
     - hard-problem-of-consciousness
-    - psychedelics-and-the-filter-model
-    - personal-identity
