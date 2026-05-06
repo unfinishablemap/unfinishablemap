@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-05-04 15:33:20.624496+00:00
+ai_modified: 2026-05-06 12:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -84,7 +84,7 @@ Feinberg and Mallatt (2016) argue that consciousness requires "complex, fast, hi
 
 ## Birch's Framework Through a Dualist Lens
 
-Jonathan Birch (2022) proposes a theory-light approach to detecting invertebrate consciousness. His core commitment is the **facilitation hypothesis**: "Phenomenally conscious perception of a stimulus facilitates, relative to unconscious perception, a cluster of cognitive abilities in relation to that stimulus." Rather than committing to any specific theory of consciousness, Birch advocates searching for the characteristic pattern in which conscious processing outperforms unconscious processing—using masking paradigms adapted from human research.
+Jonathan Birch (2022) proposes a theory-light approach to detecting invertebrate consciousness. His core commitment is the **facilitation hypothesis**: "Phenomenally conscious perception of a stimulus facilitates, relative to unconscious perception, a cluster of cognitive abilities in relation to that stimulus." Rather than committing to any specific theory of consciousness, Birch advocates searching for the characteristic pattern in which conscious processing outperforms unconscious processing—using masking paradigms adapted from human research. (Birch's *Edge of Sentience* (2024) extends this into a two-tier evidential scheme — *sentience candidate* / *investigation priority* — which the Map compares with its own five-tier scale at [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/).)
 
 Birch's framework is methodologically physicalist: it assumes consciousness facilitates cognition through neural mechanisms. But the facilitation hypothesis is equally compatible with dualist assumptions about interface coupling. Under the Map's framework, masking disrupts the interface, preventing consciousness from accessing the stimulus. The empirical prediction is identical—masked stimuli are processed less flexibly than unmasked stimuli—but the mechanism differs. Masking doesn't prevent neural activity from generating consciousness; it prevents consciousness from coupling with the relevant neural activity.
 

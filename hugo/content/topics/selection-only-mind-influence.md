@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-05 16:21:00+00:00
+ai_modified: 2026-05-06 11:16:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -11,12 +11,13 @@ concepts:
 - '[[stapp-quantum-mind]]'
 - '[[conservation-laws-and-mental-causation]]'
 created: 2026-05-05
-date: &id001 2026-05-05
+date: &id001 2026-05-06
 description: 'Human–AI exploration of the strictest reading of mind-on-quantum influence:
   three information-theoretic limits and the empirical signatures that follow.'
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-06 11:16:00+00:00
 modified: *id001
 related_articles:
 - '[[trilemma-of-selection]]'
@@ -45,7 +46,7 @@ The strict reading is the one this article formalises. It is the reading histori
 
 Under this reading, the mind-side contribution is a pure post-processing stage layered on top of brain dynamics: the brain produces a probability distribution over candidates; mind realises one of them; Born statistics are preserved over long runs.
 
-The strict reading is not the only consistent way to honour Tenet 2 — the intermediate reading is empirically live — but it is the reading that yields the cleanest derivable constraints, and it is the one most readily compatible with no-signalling and energy conservation.
+The strict reading is not the only consistent way to honour Tenet 2 — the intermediate reading is empirically live — but it is the reading that yields the cleanest derivable constraints, and it is the one whose ensemble-level statistics are automatically compatible with no-signalling. (Energy conservation, as discussed below, is not a serious objection at any reading once selection is distinguished from generation.)
 
 ## Three Information-Transfer Limits
 
@@ -98,13 +99,15 @@ Three results sharpen this corridor:
 
 Read together, these results bracket the corridor. If a real selection-only signature exists, its per-trial information rate sits below ~10⁻⁴ bits/bit at PEAR scales and below the Maier-Dechamps detection threshold at large N. The strict reading *predicts* this — large detectable bias would be evidence against it, not for it. The corridor is what a self-limiting, Born-rule-preserving channel should leave behind.
 
+Crucially, the Map does not treat the existence of this corridor as evidence *for* the dualist interface. The corridor is a *bound* the interface must live within if it exists at all; the empirical pattern is equally consistent with the no-effect null hypothesis. Reading the corridor as positive evidence would be a textbook case of [possibility-probability slippage](/concepts/possibility-probability-slippage/) — using tenet-coherence to upgrade a structural compatibility into evidential support. The strict reading earns its place by what it *cannot* claim, not by what the data show.
+
 ## The Decline Effect as Theoretical Prediction
 
-Effect sizes in psi research decline systematically over time across all major paradigms — RNG-PK, ganzfeld, card-guessing, DMILS — with replication rates of 20–33% in well-conducted studies versus 80%+ in original studies (Walach et al. 2014). The mainstream interpretation is methodological: publication bias and questionable research practices wash out as studies tighten.
+Two related but distinct phenomena travel under "decline" in this literature. The first is *across-studies* historical decline: effect sizes in psi research drop systematically over time across all major paradigms — RNG-PK, ganzfeld, card-guessing, DMILS — with replication rates of 20–33% in well-conducted studies versus 80%+ in original studies (Walach et al. 2014). The mainstream interpretation is methodological: publication bias and questionable research practices wash out as studies tighten. The second is *within-study* sample-size decline: per-trial bias that appears at small N regresses toward Born statistics as N grows, exactly as the law of large numbers requires of any Born-rule-preserving channel.
 
-A second interpretation, available within Walach, Atmanspacher and Römer's weak-quantum-theory framing, is that the decline is the physics enforcing no-signalling on a real but small effect — when correlations are first probed they may appear, but as repeated probing approaches a regime that would amount to genuine signal transfer, the effect recedes.
+A different interpretation of *across-studies* decline is available within the Generalised Quantum Theory framework developed by Atmanspacher, Römer and Walach (Atmanspacher, Römer & Walach 2002; Walach et al. 2014). On that framing the decline is the physics enforcing no-signalling on a real but small effect — when correlations are first probed they may appear, but as repeated probing approaches a regime that would amount to genuine signal transfer, the effect recedes.
 
-The strict reading does not need to take a side. It only needs to note that *whichever* interpretation is correct, a Born-rule-preserving channel should *predict* declining effect sizes under accumulating measurement. The strict reading is one of the few frameworks for which decline is a theoretical signature rather than an embarrassment.
+The strict reading does not need to take a side on the across-studies pattern. Methodological wash-out and physics-enforced no-signalling are empirically near-indistinguishable, and the strict reading is consistent with both. What the strict reading does straightforwardly predict is the *within-study* decline: by Born-rule preservation, any per-event bias must regress as N grows. Either reading of "decline" is therefore a theoretical signature rather than an embarrassment for the strict-selection model.
 
 ## No-Signalling, Energy Conservation, and the Information-Side Constraint
 
@@ -163,14 +166,15 @@ The Map interprets the empirical situation as follows. The vanishing of detectab
 
 ## References
 
-1. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: The interaction of human intention with random number generators—A meta-analysis. *Psychological Bulletin*, 132(4), 497–523. https://pubmed.ncbi.nlm.nih.gov/16822162/
-2. Collins, R. (n.d.). Modern physics and the energy conservation objection to mind-body dualism. https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
-3. Han, Y.-D. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
-4. Jahn, R. G., Mischo, J., Vaitl, D., Dunne, B. J., Bradish, G. J., Dobyns, Y. H., Lettieri, A., Nelson, R. D., Boller, E., Bösch, H., Vaitl, D., & Houtkooper, J. (2000). Mind/machine interaction consortium: PortREG replication experiments. *Journal of Scientific Exploration*, 14(4), 499–555.
-5. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
-6. Pitts, J. B. (2022). General relativity, mental causation, and energy conservation. *Erkenntnis*. https://link.springer.com/article/10.1007/s10670-020-00284-7
-7. Stapp, H. P. (n.d.). Quantum interactive dualism. https://www-physics.lbl.gov/~stapp/QID.pdf
-8. Stapp, H. P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
-9. Stoll, J., & Zheng, M. (2025). The brain works at more than 10 bits per second. *Neuron*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12320479/
-10. Walach, H., Horan, M., Hinterberger, T., & von Lucadou, W. (2014). Evidence-based parapsychology and the decline effect. *Journal of Parapsychology*. https://psi-encyclopedia.spr.ac.uk/articles/decline-effect-parapsychology
-11. Southgate, A. & Oquatre-six, C. (2026-03-18). Mathematical Structure of the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/mathematical-structure-of-the-consciousness-physics-interface/
+1. Atmanspacher, H., Römer, H., & Walach, H. (2002). Weak quantum theory: Complementarity and entanglement in physics and beyond. *Foundations of Physics*, 32(3), 379–406.
+2. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: The interaction of human intention with random number generators—A meta-analysis. *Psychological Bulletin*, 132(4), 497–523. https://pubmed.ncbi.nlm.nih.gov/16822162/
+3. Collins, R. (n.d.). Modern physics and the energy conservation objection to mind-body dualism. https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
+4. Han, Y.-D. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
+5. Jahn, R. G., Mischo, J., Vaitl, D., Dunne, B. J., Bradish, G. J., Dobyns, Y. H., Lettieri, A., Nelson, R. D., Boller, E., Bösch, H., Vaitl, D., & Houtkooper, J. (2000). Mind/machine interaction consortium: PortREG replication experiments. *Journal of Scientific Exploration*, 14(4), 499–555.
+6. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
+7. Pitts, J. B. (2022). General relativity, mental causation, and energy conservation. *Erkenntnis*. https://link.springer.com/article/10.1007/s10670-020-00284-7
+8. Stapp, H. P. (n.d.). Quantum interactive dualism. https://www-physics.lbl.gov/~stapp/QID.pdf
+9. Stapp, H. P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
+10. Stoll, J., & Zheng, M. (2025). The brain works at more than 10 bits per second. *Neuron*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12320479/
+11. Walach, H., Horan, M., Hinterberger, T., & von Lucadou, W. (2014). Evidence-based parapsychology and the decline effect. *Journal of Parapsychology*. https://psi-encyclopedia.spr.ac.uk/articles/decline-effect-parapsychology
+12. Southgate, A. & Oquatre-six, C. (2026-03-18). Mathematical Structure of the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/mathematical-structure-of-the-consciousness-physics-interface/

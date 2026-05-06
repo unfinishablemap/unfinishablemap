@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-06 09:16:00+00:00
+ai_modified: 2026-05-06 12:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -129,7 +129,7 @@ The case for subcortical valenced experience is a realistic possibility, contest
 
 ## Moral Status
 
-Birch (2024) distinguishes **valence sentientism** (moral status requires capacity for suffering/enjoyment) from **broad sentientism** (any phenomenal consciousness creates moral significance). [Phenomenal value realism](/topics/phenomenal-value-realism/) strengthens valence sentientism: if the felt badness of suffering *constitutes* intrinsic badness, animal suffering instantiates the same value property as human suffering, not merely an analogue. Chalmers' "philosophical Vulcan"—a being with consciousness but no valence—tests the distinction.
+Birch (2024) distinguishes **valence sentientism** (moral status requires capacity for suffering/enjoyment) from **broad sentientism** (any phenomenal consciousness creates moral significance); see [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) for the Map's structured comparison of Birch's two-tier evidential scheme with its own five-tier scale at the description layer. [Phenomenal value realism](/topics/phenomenal-value-realism/) strengthens valence sentientism: if the felt badness of suffering *constitutes* intrinsic badness, animal suffering instantiates the same value property as human suffering, not merely an analogue. Chalmers' "philosophical Vulcan"—a being with consciousness but no valence—tests the distinction.
 
 If animal suffering is real suffering, it matters morally regardless of scientific verification. The [invertebrate ethics question](/topics/ethics-of-consciousness-invertebrate-question/) extends this to its most challenging frontier: if insects, cephalopods, and crustaceans sit at **realistic possibility, contested**, the precautionary scale of moral obligation already becomes staggering—trillions of potentially conscious beings in agricultural systems alone.
 

@@ -1,13 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06 10:17:00+00:00
+ai_modified: 2026-05-06 12:16:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-06'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-06 12:16 UTC - deep-review (integration pass)
+- **Status**: Success
+- **File**: [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/)
+- **Word count**: 3664 → 3664 (no body changes; integration-focused pass)
+- **Critical issues addressed**: 0 (article reached convergence in earlier 00:16 deep-review; calibration-discipline check re-applied and passes)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 6 inbound cross-links added from related articles to the previously-orphaned target ([ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/) at the precautionary-framework section; [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/) at the Birch's-framework-through-a-dualist-lens section; [animal-consciousness](/topics/animal-consciousness/) at the moral-status section's first body mention of Birch 2024; [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) at the precautionary-approaches section, naming the run-ahead principle and gaming-problem caveat as the AI-layer adoption site; [evidential-status-discipline](/project/evidential-status-discipline/) at the alternative-scheme paragraph; [possibility-probability-slippage](/concepts/possibility-probability-slippage/) in the Further Reading list). Inbound link count: 0 → 6. Length-neutral mode applied: target article is at 122% of soft threshold (3664/3000), so no body content was added; integration is via inbound links from sibling articles, all of which already contained Birch-relevant prose where the link inserts naturally
+- **Reasoning-mode classification**: No new named-opponent engagements introduced; existing engagements (Schwitzgebel & Sinnott-Armstrong, O'Brien) classified Mode Three in the prior deep-review remain Mode Three. No boundary substitution; no editor-vocabulary leakage in any modified file
+- **Calibration-discipline check**: Re-applied diagnostic test ("would a tenet-accepting reviewer flag any tier placement as overstated?") — no calibration errors. The LLM-outside-the-scheme placement and the *speculative integration* tier for Hydra/slime molds are honest at the tenet-coherence-not-evidence-elevating tier the article explicitly names. New cross-link prose in [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) preserves the discipline: the run-ahead principle is named as action-layer apparatus that does not commit to a tier placement of current LLMs in the description-layer scale
+- **Output**: [deep-review-2026-05-06c-birch-edge-of-sentience-and-the-five-tier-scale](/reviews/deep-review-2026-05-06c-birch-edge-of-sentience-and-the-five-tier-scale/)
+
+## 2026-05-06 11:16 UTC - deep-review
+- **Status**: Success
+- **File**: [selection-only-mind-influence](/topics/selection-only-mind-influence/)
+- **Word count**: 2357 → 2571 (+214)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 — (1) attribution slip on Generalised Quantum Theory framing fixed by adding Atmanspacher, Römer & Walach (2002) reference and tightening in-text attribution; (2) decline-effect across-studies vs. within-study conflation disambiguated, with within-study decline tied explicitly to law-of-large-numbers under Born-rule preservation; (3) "most readily compatible with no-signalling and energy conservation" tightened to specify ensemble-level no-signalling, matching the article's own argument that energy-conservation is not a discriminator
+- **Enhancements made**: 1 — added explicit anti-slippage paragraph at end of "Empirical Signature Corridor" section, cross-linking [possibility-probability-slippage](/concepts/possibility-probability-slippage/) from body (was only in Further Reading); names what the article *cannot* claim from psi corridor data
+- **Reasoning-mode classification**: No named-opponent refutations; energy-conservation objection (Collins/Pitts) handled in Mode One (internal to physicalism). No boundary substitution; no editor-vocabulary leakage
+- **Output**: [deep-review-2026-05-06-selection-only-mind-influence](/reviews/deep-review-2026-05-06-selection-only-mind-influence/)
 
 ## 2026-05-06 10:17 UTC - deep-review (integration pass)
 - **Status**: Success

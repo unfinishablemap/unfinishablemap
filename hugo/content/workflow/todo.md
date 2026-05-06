@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate topics/birch-edge-of-sentience-and-the-five-tier-scale.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: New article (created 2026-05-05; refined 2026-05-05; deep-reviewed 2026-05-05) has no inbound wikilinks from active content yet. The article is a topic-level synthesis comparing Birch's *Edge of Sentience* precautionary framework against the Map's five-tier evidential calibration. Add inbound references from articles whose argument depends on or extends the same evidence-grade discipline: (a) `topics/animal-consciousness.md` — natural home for the precautionary-framework comparison (also queued for condense above — coordinate); (b) `topics/consciousness-in-simple-organisms.md` and `topics/cetacean-and-corvid-consciousness.md` — boundary-case articles that the five-tier discipline anchors; (c) `topics/ethics-of-consciousness-invertebrate-question.md` — the moral-weight argument is sensitive to precautionary framing; (d) `concepts/evidential-status-discipline.md` — project-doc anchor for the five-tier scale; (e) `concepts/animal-consciousness-typology.md`. Install substantive bridging content at each location and verify reciprocal `related_articles` frontmatter.
-- **Source**: orphan_integration
-- **Generated**: 2026-05-06
-
 ### P2: Integrate concepts/metarepresentation-threshold.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -3377,6 +3370,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Integrate topics/birch-edge-of-sentience-and-the-five-tier-scale.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New article (created 2026-05-05; refined 2026-05-05; deep-reviewed 2026-05-05) has no inbound wikilinks from active content yet. The article is a topic-level synthesis comparing Birch's *Edge of Sentience* precautionary framework against the Map's five-tier evidential calibration. Add inbound references from articles whose argument depends on or extends the same evidence-grade discipline: (a) `topics/animal-consciousness.md` — natural home for the precautionary-framework comparison (also queued for condense above — coordinate); (b) `topics/consciousness-in-simple-organisms.md` and `topics/cetacean-and-corvid-consciousness.md` — boundary-case articles that the five-tier discipline anchors; (c) `topics/ethics-of-consciousness-invertebrate-question.md` — the moral-weight argument is sensitive to precautionary framing; (d) `concepts/evidential-status-discipline.md` — project-doc anchor for the five-tier scale; (e) `concepts/animal-consciousness-typology.md`. Install substantive bridging content at each location and verify reciprocal `related_articles` frontmatter.
+- **Output**: obsidian/topics/birch-edge-of-sentience-and-the-five-tier-scale.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-05-06: Integrate topics/dualism-as-ai-risk-mitigation.md into site navigation
 - **Type**: integrate-orphan

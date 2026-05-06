@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-05 11:16:00+00:00
+ai_modified: 2026-05-06 12:16:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -84,6 +84,7 @@ Naming the slippage is also what makes the catalogue's stronger claims credible.
 ## Further Reading
 
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the operational discipline the slippage concept anchors; installs the five-tier evidential scale and the diagnostic test
+- [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) — the structured comparison of Birch's precautionary scheme with the five-tier scale; shows how the two frameworks guard against opposite-direction slippage at different layers (action versus description) and inherit the same "realistic possibility" register from the 2024 New York Declaration
 - [direct-refutation-discipline](/project/direct-refutation-discipline/) — sister discipline at the reasoning-mode level; how the catalogue argues against opponents without substituting tenet-perimeter rejection for direct argument
 - [framework-stage-calibration](/project/framework-stage-calibration/) — sister discipline at the framework level; how the catalogue characterises its own developmental stage to avoid stage-mismatched analogies
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — sister discipline at the system level; safeguards against the broader pattern of treating internal consistency as evidence, of which slippage is the calibration-layer instance
