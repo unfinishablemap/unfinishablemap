@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T07:16:00+00:00
+ai_modified: 2026-05-06T08:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 08:18 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections surveyed**: voids (100/100), topics (234/250), concepts (230/250)
+- **Clusters examined**: (1) affective family — affective-void / mood-void / valence-void / appetitive-void; (2) cognitive-closure family — biological-cognitive-closure / closure-types-void; (3) cessation/transition family — disappearance-voids / erasure-void / suspension-void / transit-void; (4) representation family — imagery-void / metaphor-void / aspect-perception-void; (5) Born-rule pair — born-rule-and-the-consciousness-interface / born-rule-violation-brain-interface-empirical-status; (6) AI-consciousness pair — ai-consciousness / machine-consciousness; (7) intellectual-phenomenology family — phenomenology-of-intellectual-life / -courage / -philosophical-disagreement
+- **Reason**: Each cluster either uses the explicit conjunction-coalesce template (voids deliberately differentiate by face-of-single-void); shows prior `coalesced_from:` history (already merged once); or pairs articles with distinct functions (interpretive vs empirical for Born rule; general vs upload-specific for AI/machine consciousness). The closest candidate (ai-consciousness + machine-consciousness) has substantial unique upload-scenario content and ~30 cross-references whose preservation cost outweighs deduplication benefit.
+- **Outcome**: No articles modified. Voids cap pressure remains 100/100; section will continue receiving improvement-only treatment until natural archival creates room.
 
 ## 2026-05-06 07:16 UTC - deep-review
 - **Status**: Success
