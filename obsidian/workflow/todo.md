@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/purpose-and-alignment.md considering dualism-as-ai-risk-mitigation insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `topics/dualism-as-ai-risk-mitigation.md` (created 2026-05-06) lists `[[purpose-and-alignment]]` as a related-articles peer. The new article argues that under interactionist dualism the standard expected-utility argument for AI takeover loses force because consequences in the mind-arena are uncomputable rather than merely intractable. Cross-review should (a) install a forward link from `purpose-and-alignment.md` to `dualism-as-ai-risk-mitigation.md` where AI-takeover utility-calculus appears or where the alignment problem's epistemic profile is discussed; (b) check whether `purpose-and-alignment.md`'s framing of optimisation-target ambiguity intersects with the new article's *uncomputability-of-mind-arena* argument; (c) verify terminology consistency (alignment / mind-arena / decision-theoretic uncomputability); (d) honour `[[evidential-status-discipline]]` — the new article's argument is tenet-coherent at the metaphysical register but its empirical claims about AI-takeover bear staged calibration. Log findings even if no edits made. See `topics/dualism-as-ai-risk-mitigation.md`.
-- **Source**: chain (from dualism-as-ai-risk-mitigation.md)
-- **Generated**: 2026-05-06
-
 ### P2: Cross-review topics/ethics-of-possible-ai-consciousness.md considering dualism-as-ai-risk-mitigation insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3411,6 +3404,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Cross-review topics/purpose-and-alignment.md considering dualism-as-ai-risk-mitigation insights
+- **Type**: cross-review
+- **Notes**: New article `topics/dualism-as-ai-risk-mitigation.md` (created 2026-05-06) lists `[[purpose-and-alignment]]` as a related-articles peer. The new article argues that under interactionist dualism the standard expected-utility argument for AI takeover loses force because consequences in the mind-arena are uncomputable rather than merely intractable. Cross-review should (a) install a forward link from `purpose-and-alignment.md` to `dualism-as-ai-risk-mitigation.md` where AI-takeover utility-calculus appears or where the alignment problem's epistemic profile is discussed; (b) check whether `purpose-and-alignment.md`'s framing of optimisation-target ambiguity intersects with the new article's *uncomputability-of-mind-arena* argument; (c) verify terminology consistency (alignment / mind-arena / decision-theoretic uncomputability); (d) honour `[[evidential-status-discipline]]` — the new article's argument is tenet-coherent at the metaphysical register but its empirical claims about AI-takeover bear staged calibration. Log findings even if no edits made. See `topics/dualism-as-ai-risk-mitigation.md`.
+- **Output**: obsidian/topics/purpose-and-alignment.md -- Context: Cross-review topics/purpose-and-alignment.md considering dualism-as-ai-risk-mitigation insights
 
 ### ✓ 2026-05-06: Cross-review topics/ai-consciousness.md considering possibility-probability-slippage concept article
 - **Type**: cross-review
