@@ -4,7 +4,7 @@ description: "The reasoning move where a tenet that secures the metaphysical pos
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-06T12:16:00+00:00
+ai_modified: 2026-05-06T14:59:00+00:00
 last_deep_review: 2026-05-05T11:16:00+00:00
 draft: false
 topics: []
@@ -16,6 +16,7 @@ related_articles:
   - "[[framework-stage-calibration]]"
   - "[[coherence-inflation-countermeasures]]"
   - "[[bedrock-clash-vs-absorption]]"
+  - "[[dualism-as-ai-risk-mitigation]]"
   - "[[tenets]]"
 ai_contribution: 100
 author: null
@@ -48,13 +49,17 @@ The slippage is rarely an explicit inference. It surfaces as a quiet upgrade in 
 
 Honest formulations preserve the register the support actually lives in. *"The Map's framework does not exclude X; the empirical evidence for X is partial and contested"* keeps the modal-register move and the evidential-register verdict separate. *"X is open under the Map's framework; its evidential standing is independent"* names the parallelism rather than the conversion.
 
-## Three Worked Examples
+## Worked Examples
 
 **Nematode consciousness — slippage caught.** The Map's tenets remove the standard physicalist defeater against phenomenal experience in 302-neuron systems: Tenet 1 (Dualism) denies a substrate-specific barrier, Tenet 5 (Occam's Razor Has Limits) denies the parsimony dismissal. The empirical case is weaker still: *C. elegans* fails trace conditioning, multimodal integration, and self-other distinction. The honest labelling — *live hypothesis* sliding toward *speculative integration* — reflects the asymmetry. Calling the case *plausible* would be slippage: the tenets do the work the empirical evidence does not.
 
 **UAL-as-interface — slippage declined.** The Unlimited Associative Learning framework identifies functional capacities that mark where consciousness reliably couples with biological systems. The Map reads UAL as an interface-identification tool rather than a consciousness-emergence criterion — a reading the tenets permit but do not force. The catalogue resists the slippage that would let the interface reading absorb UAL's negative empirical signal: organisms that *fail* UAL still fail UAL on the interface reading. The framework reading does not upgrade the evidential standing of organisms that fail the empirical test; it preserves the failure as evidentially meaningful.
 
 **Mammal consciousness — non-slippage by structure.** Mammals and birds are labelled *strongly supported*: the Cambridge Declaration (2012) and New York Declaration (2024) document near-consensus across signatories. The tenets *also* permit the conclusion, but they are not the load-bearing support; the empirical evidence is. Strong language is appropriate here because the evidential register supplies the warrant. The discipline does not require de-escalation across the board; it requires that the support be named accurately, and where the empirical evidence is genuinely strong, the language can be too.
+
+The three examples above are origin cases — all drawn from the boundary-organism domain where the discipline was forged. A fourth case tests whether the discipline survives transfer to a domain at structural distance from organism-consciousness debates.
+
+**Dualism as AI risk-mitigation — propagation case.** [[topics/dualism-as-ai-risk-mitigation|The article on dualism as AI risk-mitigation]] argues that under interactionist dualism, the standard expected-utility argument for AI takeover loses force because consequence-distributions for mind-arena outcomes become uncomputable rather than merely intractable. The structural temptation was to slide from the conditional — *if dualism, then expected utility underdetermines its conclusion* — to an empirical upgrade — *therefore actual AI-takeover probability is in fact lower*. The article declined the slide explicitly, naming the conditional/empirical distinction in its opening passage and re-asserting it in the Relation to Site Perspective section: the metaphysical commitment identifies a structural feature of the convergence theorem; the empirical question is held separate as a further claim the article does not try to settle. The discipline survives transfer from boundary-organism cases to a non-organism, alignment-relevant domain, which is itself evidential support for its portability beyond invertebrate-consciousness debates. The propagation case is what would make the discipline portable infrastructure rather than a domain-bound discipline. *Residual evidential gap:* the dualism-risk article is recent (2026-05-06) and has not yet been adversarially pressure-tested by a pessimistic-review; the propagation-survival evidence is provisional until that test occurs, and a slippage detected by a future pessimistic-review would partially weaken the portability claim made here.
 
 ## The Diagnostic Test
 

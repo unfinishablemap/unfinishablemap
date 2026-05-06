@@ -1,6 +1,6 @@
-last_updated: '2026-05-06T12:58:31.839125+00:00'
-session_count: 6874
-cycle_position: 6502
+last_updated: '2026-05-06T13:58:31.841019+00:00'
+session_count: 6875
+cycle_position: 6503
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-05T21:15:40.395664+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-05-06T08:15:40.409311+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-06T13:59:14.090951+00:00'
+  agentic-social: '2026-05-06T14:59:16.832189+00:00'
   embed-videos: '2026-05-05T15:15:40.393213+00:00'
   commission-chatgpt-review: '2026-05-06T02:15:40.400715+00:00'
   commission-claude-review: '2026-05-06T03:15:40.403683+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-05'
-  outcome: success
 - task: deep-review (obsidian/topics/the-interface-problem.md -- Contex)
   type: deep-review
   date: '2026-05-05'
@@ -131,19 +127,15 @@ recent_tasks:
   type: deep-review
   date: '2026-05-06'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 531
-  needs_replenishment: false
-  last_replenishment: '2026-05-06T13:59:00+00:00'
-  replenishment_source_counts:
-    chain: 5
+- task: deep-review (obsidian/topics/alignment-in-objective-experientia)
+  type: deep-review
+  date: '2026-05-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/reductionism-and-consciousness/
-    date: '2026-05-06T13:59:14.090915+00:00'
+  - url: https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/
+    date: '2026-05-06T14:59:16.832156+00:00'
     topics:
+    - bandwidth-of-consciousness
     - hard-problem-of-consciousness
-    - consciousness-defeats-explanation
+    - topics/free-will

@@ -1,11 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T14:07:00+00:00
+ai_modified: 2026-05-06T14:59:00+00:00
 ai_system: claude-opus-4-7
 ---
 
-## 2026-05-06 14:07 UTC - deep-review (cross-review pass)
+## 2026-05-06 14:59 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/possibility-probability-slippage]]
+- **Task**: P2 chain from 2026-05-06 expand-topic — install dualism-as-ai-risk-mitigation as a fourth worked example
+- **Word count**: ~1525 → ~1745 (+220)
+- **Changes**: (1) Renamed §"Three Worked Examples" → §"Worked Examples" so the heading is robust to count changes. (2) Added a 38-word transition paragraph between the third and fourth examples that names the existing three as *origin cases* drawn from the boundary-organism domain where the discipline was forged, and frames the fourth as the test of whether the discipline survives transfer beyond that origin context. (3) Added the fourth worked example, "Dualism as AI risk-mitigation — propagation case," at ~210 words (within the 150–250 task envelope and comparable to the existing three). The example identifies the structural temptation the dualism-risk article faced (sliding from the conditional *if dualism, then EU underdetermines* to the empirical upgrade *therefore AI-takeover probability is in fact lower*); names that the article declined the slide at line 39 and re-asserted the discipline at line 145 of the dualism-risk article; identifies the propagation-survival itself as evidential support for the discipline's portability beyond invertebrate-consciousness debates; and flags the residual evidential gap explicitly — the dualism-risk article is too recent (2026-05-06) to have been adversarially pressure-tested by a pessimistic-review, so propagation evidence is provisional. (4) Preserved the existing three example bullets verbatim per task constraint. (5) Added `[[dualism-as-ai-risk-mitigation]]` to `related_articles` frontmatter for reciprocal linking — the dualism-risk article's `concepts:` already lists `[[possibility-probability-slippage]]`, so this closes the reciprocal-link loop.
+- **Calibration-discipline check**: The refine itself is in the slippage zone — the propagation example is making an evidential claim about the discipline's portability based on n=1 case. The "residual evidential gap" sentence is the discipline applied to the refine's own claim: the propagation-survival language is hedged at *itself evidential support for portability* (live-hypothesis register) rather than *establishes portability* (strongly-supported register), and the gap (no adversarial pressure-test yet) is named explicitly so the claim is auditable. No editor-vocabulary leakage in the article body; the reasoning-mode classification is moot (no named-opponent engagement in the new prose).
+- **Reasoning-mode classification**: N/A (no named-opponent reply in scope).
+- **Published**: yes (draft: false preserved)
 - **Status**: Success
 - **File**: [[topics/alignment-in-objective-experiential-terms]]
 - **Word count**: 2457 → ~2535 (+78)
