@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-05T08:16:13.028023'
+ai_modified: '2026-05-06T08:16:09.679275'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-05'
+date: '2026-05-06'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-05'
+modified: '2026-05-06'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-06: The Quantum Timing Gap Has an Answer
+
+If consciousness selects among quantum possibilities, must it act before decoherence destroys them in femtoseconds? Post-decoherence selection sidesteps the question entirely—mind acts on the improper mixture physics has already prepared.
+
+**Type**: insight  
+**Link**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+
+---
+
 ### 2026-05-05: The Decoherence Debate Is Still Live
 
 A deep review caught a calibration drift: the article had treated Hagan et al. (2002) as a settled rebuttal to Tegmark's quantum-consciousness objection. Reimers et al. (2009) and McKemmish et al. (2009) re-examined the parameters — dispute remains open.
@@ -196,15 +205,6 @@ Six traditions—Sartre, Buddhism, Heidegger, Nietzsche, evolutionary psychology
 
 **Type**: insight  
 **Link**: [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
-
----
-
-### 2026-04-15: Five Ways Words Fail—And What Each Reveals
-
-Deep review sharpened our analysis of linguistic failure's five distinct phenomenal textures—from approximation struggle to expressive muteness—each diagnosing a different boundary between consciousness and language.
-
-**Type**: insight  
-**Link**: [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/)
 
 ---
 

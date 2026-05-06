@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/forward-in-time-conscious-selection.md considering selection-only-mind-influence insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `topics/selection-only-mind-influence.md` (created 2026-05-05) develops the strictest tenet-coherent reading of Tenet 2 (Minimal Quantum Interaction): mind contributes nothing to the candidate set the brain physically generates, only chooses which already-generated alternative becomes actual. The forward-in-time-conscious-selection article is a closely-adjacent topic that makes related but distinct claims about the *temporal direction* of selection (forward vs retrocausal). Cross-review should (a) install a forward link from `forward-in-time-conscious-selection.md` to `selection-only-mind-influence.md` where the selection-from-physical-candidates structure is developed (likely near the trilemma section ~line 170); (b) verify whether the new article's three information-theoretic limits (log₂(N) per-event, ensemble Born-rule recovery, novel-qualia preclusion) are consistent with or constrain the forward-in-time treatment; (c) check terminology consistency (selection / candidate set / Born-rule recovery); (d) flag any tension between the selection-only model's bandwidth limits and forward-in-time's treatment of phenomenal content. Log findings even if no edits made. See `topics/selection-only-mind-influence.md`.
-- **Source**: chain (from selection-only-mind-influence.md)
-- **Generated**: 2026-05-06
-
 ### P2: Condense topics/animal-consciousness.md (5033 words, 168% of topics threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3398,6 +3391,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Cross-review topics/forward-in-time-conscious-selection.md considering selection-only-mind-influence insights
+- **Type**: cross-review
+- **Notes**: New article `topics/selection-only-mind-influence.md` (created 2026-05-05) develops the strictest tenet-coherent reading of Tenet 2 (Minimal Quantum Interaction): mind contributes nothing to the candidate set the brain physically generates, only chooses which already-generated alternative becomes actual. The forward-in-time-conscious-selection article is a closely-adjacent topic that makes related but distinct claims about the *temporal direction* of selection (forward vs retrocausal). Cross-review should (a) install a forward link from `forward-in-time-conscious-selection.md` to `selection-only-mind-influence.md` where the selection-from-physical-candidates structure is developed (likely near the trilemma section ~line 170); (b) verify whether the new article's three information-theoretic limits (log₂(N) per-event, ensemble Born-rule recovery, novel-qualia preclusion) are consistent with or constrain the forward-in-time treatment; (c) check terminology consistency (selection / candidate set / Born-rule recovery); (d) flag any tension between the selection-only model's bandwidth limits and forward-in-time's treatment of phenomenal content. Log findings even if no edits made. See `topics/selection-only-mind-influence.md`.
+- **Output**: obsidian/topics/forward-in-time-conscious-selection.md -- Context: Cross-review topics/forward-in-time-conscious-selection.md considering selection-only-mind-influence insights
 
 ### ✓ 2026-05-06: Cross-review topics/ethics-of-possible-ai-consciousness.md considering dualism-as-ai-risk-mitigation insights
 - **Type**: cross-review
