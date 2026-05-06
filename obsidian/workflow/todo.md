@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address novel pessimistic findings in topics/forward-in-time-conscious-selection.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From `[[reviews/pessimistic-2026-05-06]]`. The article has stabilised across three deep reviews; six bedrock disagreements are catalogued and should not be re-flagged. Pessimistic pass found three *novel* weaknesses surviving prior passes, plus targeted language fixes. Refine should (a) sharpen the §"Three Post-Decoherence Mechanisms" intro — either exhibit a feature of the von Neumann movable cut not also present in the relocated Stapp framework, or accept the collapse and present the section as "the post-decoherence move and an optional real-possibilities ontology" (medium-severity issue 1); (b) reframe the actualisation-model paragraph (line 135) and §"Decoherence-Timescale Question" closing (line 145) so untestability is named as a cost rather than a "metaphysical modesty" virtue — minimal fix is replacing "more conservative pathway" with "more metaphysically modest pathway, at the cost of empirical traction" (medium-severity issue 2); (c) add a one-sentence clarification at line 137 distinguishing within-triad non-commitment from cross-class favouritism, since the article elsewhere clearly favours post-decoherence over pre-decoherence and retrocausal alternatives (low-medium issue 3); (d) tighten the "Something must convert it" language at line 81 to "The Map's framework places consciousness as the converter" to prevent the prose claiming more than the dualist commitment delivers; (e) add citations or hedging for the Princeton 2026 cryptochrome study, the 2025 *Frontiers* glutamate-coherence rejection, and complete the Duch (2019) reference with volume/pages. No editor-vocabulary leakage to fix; the discipline is respected. Short-to-medium scope (~150-300 words touched, mostly tightening existing prose). Tenet alignment: Tenet 1 (Dualism) + methodological. See [[reviews/pessimistic-2026-05-06]] for full diagnosis.
+- **Source**: pessimistic-review (2026-05-06)
+- **Generated**: 2026-05-06
+
 ### P2: Post-restructure deep-review of topics/animal-consciousness.md
 - **Type**: deep-review
 - **Status**: pending

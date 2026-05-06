@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T20:21:00+00:00
+ai_modified: 2026-05-06T21:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 21:21 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/forward-in-time-conscious-selection]] — 3,991 words, last `ai_modified` 2026-05-06T07:16 UTC. No prior pessimistic review on file; three deep reviews completed (2026-04-30, 2026-05-04 Duch cross, 2026-05-06 selection-only cross) had catalogued six bedrock disagreements not to re-flag.
+- **Findings**: Six bedrock-philosopher critiques voiced honestly (eliminative materialist, Dennett, Tegmark, Deutsch, Popper, Nagarjuna). Three *novel* critical issues found that survive prior passes: (1) §"Three Post-Decoherence Mechanisms" overstates richness — von Neumann movable cut and relocated Stapp framework collapse into the same move on inspection; (2) actualisation model's untestability framed as "metaphysical modesty" virtue rather than empirical cost (inverts Popperian valence); (3) low-medium internal tension between "the Map does not commit to a single proposal" and the article's clear cross-class favouritism for post-decoherence over pre-decoherence and retrocausal alternatives. No editor-vocabulary leakage; honest framework-boundary marking on Duch is exemplary. Five language tightenings + four citation-completeness items added to follow-up.
+- **Output**: [[reviews/pessimistic-2026-05-06]] (full diagnosis); P2 refine-draft task added to [[workflow/todo|todo.md]]
 
 ## 2026-05-06 20:21 UTC - expand-topic (decision: defer)
 - **Status**: Decided — do not create concept page
