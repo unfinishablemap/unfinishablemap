@@ -1,13 +1,56 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 22:16:00+00:00
+ai_modified: 2026-05-06 02:18:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-05-05'
+date: '2026-05-06'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-06 02:18 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Word count**: 3574 → 3639 (+65; length-neutral approximately maintained — addition offset by decoherence/Duch tightening; 121% of soft, 91% of hard)
+- **Trigger**: Cross-review against new [possibility-probability-slippage](/concepts/possibility-probability-slippage/) concept article (2026-05-05)
+- **Critical issues addressed**: 0 (article already practises register-separation discipline; tenet-accepting reviewer applying diagnostic test would not flag any load-bearing claim)
+- **Medium issues addressed**: 1 (discipline practised but not named — added link, naming sentence in "Relation to Site Perspective", Further Reading entry)
+- **Enhancements made**: 6 (frontmatter related_articles entry; naming sentence; Further Reading entry; decoherence trim; Duch parenthetical trim; ai_system frontmatter freshened from stale claude-opus-4-6 to claude-opus-4-7)
+- **Reasoning-mode classification**: No named-opponent direct refutation passages; Duch engagement is Mode Three (framework-boundary marking, "structural disagreement, not dismissal", "productive bedrock-clash"); no boundary substitution; no editor-vocabulary leakage.
+- **Bedrock disagreements (not re-flagged)**: functionalist objections; physicalist frameworks; Buddhist persistent-self critique; MWI haecceity standoff; eliminative-materialist dissolution; PCT-strength contestation (hedged 2026-05-01).
+- **Output**: [deep-review-2026-05-06-ai-consciousness](/reviews/deep-review-2026-05-06-ai-consciousness/)
+
+## 2026-05-06 01:16 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Dualism as AI risk mitigation
+- **Output**: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)
+- **Word count**: 3937 (soft_warning at 131% of 3000 target; long-form authorisation in task brief covers 3000–4500 word range for five-sub-argument structure)
+- **Based on research**: yes — [dualism-as-ai-superintelligence-risk-mitigator-2026-05-05](/research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05/)
+- **Structure**: Five sub-arguments developed in sequence (indeterminability, generalisation precluded, strategic-advantage indeterminability, behaviour in undeterminable minefield, deliberate-spread question) plus AI-ensoulment counter-move (Cutter 2025) and Russell-alliance section. Bostrom 2012 quoted verbatim; Cutter 2025 quoted verbatim; both with hedged attribution preserving "middling credence" qualifier.
+- **Discipline checks**: Possibility/probability slippage held throughout (the conditional "if dualism is true, the standard EU argument loses force" is asserted; the empirical "AI-takeover probability is in fact lower" is explicitly *not* asserted). Direct-refutation discipline applied to instrumental convergence (engaged on its own terms; not dismissed as "substrate-blind"). Two-channel structure preserved (Bostrom/Cutter exposition vs Map's Relation to Site Perspective integration). Tactical-claim/epistemic-claim asymmetry named explicitly in deliberate-spread section.
+
+## 2026-05-06 00:16 UTC - deep-review
+- **Status**: Success
+- **File**: [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/)
+- **Word count**: 3664 → 3664 (no change; HTML-comment cleanup, no body modification)
+- **Critical issues addressed**: 1 (editorial scaffolding visible in shipped source — `AI REFINEMENT LOG` HTML comment block self-flagged for removal "after human review"; removed)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral mode at 122% of soft threshold; just-completed refinement pass already addressed all seven prior pessimistic-review issues; review confirms convergence)
+- **Prior-review verification**: All seven issues from `pessimistic-2026-05-05` confirmed resolved (LLM verdict slippage; tenet-portability over-claim; convergences over-claim; C. elegans verdict; orphan references; aggregation gesture; modal/probabilistic conflation)
+- **Reasoning-mode classification**: Engagement with Schwitzgebel & Sinnott-Armstrong (line 69, line 129): Mode Three — framework-boundary marking honestly noted; engagement with O'Brien (line 69): Mode Three — same pattern. No named-opponent direct refutation passages; no boundary substitution; no editor-vocabulary leakage.
+- **Calibration check**: All tier placements pass the diagnostic test (would a tenet-accepting reviewer flag any tier as overstated? — no). LLM "outside the scheme" placement is load-bearing for the article's central discipline-claim.
+- **Stability notes**: Bedrock framework-boundary disagreements (eliminativist, Dennettian functional-organisation, Tegmark decoherence, Buddhist substantialism, Popperian tier-falsifiability) declared not-to-be-re-flagged.
+- **Output**: [deep-review-2026-05-06-birch-edge-of-sentience-and-the-five-tier-scale](/reviews/deep-review-2026-05-06-birch-edge-of-sentience-and-the-five-tier-scale/)
+
+## 2026-05-05 23:35 UTC - research-topic
+- **Status**: Success
+- **Topic**: dualism as a mitigator of AI superintelligence risk
+- **Output**: [dualism-as-ai-superintelligence-risk-mitigator-2026-05-05](/research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05/)
+- **Sources consulted**: 18 web searches; 16 primary sources cited (Bostrom 2012/2014; Hubinger et al. 2019; Russell 2019; Cutter 2025; Békefi 2025; Ziesche & Yampolskiy 2025; AI Frontiers 2024; Townsend et al. 2024 *AMR*; Smit et al. 2023; Leike & Hutter 2015–18 on AIXI; Asphaug 2022; Mørch 2024; Searle 1980; Penrose 1989; Carlsmith 2026; Müller & Cannon 2021)
+- **Key findings**: The combined argument — dualism, if true, structurally diminishes AI-takeover probability via consequence-uncomputability — is essentially undeveloped territory. Cutter (2025) is the closest direct dualism-meets-AI engagement but argues the orthogonal claim of AI ensoulment, which complicates rather than supports the dualism-as-shield position. Russell's uncertainty-based alignment is the most natural ally; Ziesche & Yampolskiy and Carlsmith provide meta-level support; the x-risk school's dismissal of consciousness as alignment-irrelevant (per AI Frontiers 2024) is the position the Map's argument refutes.
+- **Article angles surfaced**: (1) foundational `topics/dualism-as-ai-risk-mitigation` matching existing P1 task, with five sub-arguments; (2) **flagged gap**: `concepts/arbitrary-powers` does not yet exist as a concept article — chained concept-article task warranted; (3) chained `topics/superintelligence-in-the-undeterminable-minefield` for sub-argument (d); (4) chained `topics/the-protective-philosophy-tactic` for sub-argument (e); (5) cross-review hooks in `ai-consciousness`, `purpose-and-alignment`, `ethics-of-possible-ai-consciousness`, `alignment-in-objective-experiential-terms`.
+- **Disciplines applied**: `[[evidential-status-discipline]]` (speculative-integration tier flagged); `[[direct-refutation-discipline]]` (engage Bostrom on own terms — does instrumental convergence survive uncomputable consequences?); `[[possibility-probability-slippage]]` (distinguish *possible under dualism* from *probable*).
 
 ## 2026-05-05 22:16 UTC - refine-draft
 - **Status**: Success
