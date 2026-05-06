@@ -1,13 +1,59 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06 18:00:00+00:00
+ai_modified: 2026-05-06 21:21:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-06'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-06 21:21 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — 3,991 words, last `ai_modified` 2026-05-06T07:16 UTC. No prior pessimistic review on file; three deep reviews completed (2026-04-30, 2026-05-04 Duch cross, 2026-05-06 selection-only cross) had catalogued six bedrock disagreements not to re-flag.
+- **Findings**: Six bedrock-philosopher critiques voiced honestly (eliminative materialist, Dennett, Tegmark, Deutsch, Popper, Nagarjuna). Three *novel* critical issues found that survive prior passes: (1) §"Three Post-Decoherence Mechanisms" overstates richness — von Neumann movable cut and relocated Stapp framework collapse into the same move on inspection; (2) actualisation model's untestability framed as "metaphysical modesty" virtue rather than empirical cost (inverts Popperian valence); (3) low-medium internal tension between "the Map does not commit to a single proposal" and the article's clear cross-class favouritism for post-decoherence over pre-decoherence and retrocausal alternatives. No editor-vocabulary leakage; honest framework-boundary marking on Duch is exemplary. Five language tightenings + four citation-completeness items added to follow-up.
+- **Output**: [pessimistic-2026-05-06](/reviews/pessimistic-2026-05-06/) (full diagnosis); P2 refine-draft task added to [todo.md](/workflow/todo/)
+
+## 2026-05-06 20:21 UTC - expand-topic (decision: defer)
+- **Status**: Decided — do not create concept page
+- **Task**: Decide whether to chain a sibling concept-page on `arena-magnitude-bounds-and-active-protection` after the unbounded-impact / active-protection install in [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)
+- **Decision**: No — defer indefinitely; the structural argument is best left in its parent-topic home rather than extracted to a hub concept page. Decision logged here to prevent replenishment regeneration.
+- **Reasoning against the proposed slug**:
+  1. *Compound concept fails decomposition test.* The proposed name combines two distinct ideas — (a) structural absence of a derivable magnitude bound on arena effects, and (b) possibility of arena-side responsive/active protection mechanisms. They share rhetorical adjacency in the parent §"Unbounded Impact and Active Protection" but do not form a single coherent definitional unit. A concept page that hosts both would be artificial; one that hosts only one would lose the structural pairing the section's argument trades on.
+  2. *The structural-magnitude-bound claim is a derivation, not a building block.* The claim "no derivation from physical state fixes the scale at which the arena's [causal-powers](/concepts/causal-powers/) can operate" is a *consequence* of existing concepts ([causal-powers](/concepts/causal-powers/) + [bidirectional-interaction](/concepts/bidirectional-interaction/) + the underdetermination they jointly generate). Concepts that are pure consequences of existing concepts belong as cross-reference notes inside those existing pages rather than as new pages. A brief note in [causal-powers](/concepts/causal-powers/) or [bidirectional-interaction](/concepts/bidirectional-interaction/) pointing at [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) for the AI-risk consequence would carry the cross-link load more cleanly than a hub page.
+  3. *Active-protection content is speculative-integration tier — too high to elevate to definitional status.* The parent article explicitly tags the active-protection sketch as "speculative-integration-tier hypotheses about what the arena could be — the structural absence of a derivable magnitude bound and the structural possibility of responsive arena dynamics, not empirical claims about the arena's actual scope" (line 115). Promoting that sketch to a Map concept-page would itself be a [possibility-probability-slippage](/concepts/possibility-probability-slippage/) hazard at the editorial register: the framing-as-concept implies more settled territory than the parent's modal hedging permits.
+  4. *Pascal's-mugging-vs-structural-unboundedness distinction is methodological, not concept-tier.* The most cross-applicable single thread inside the proposed concept is the structural-vs-constructed distinction the parent uses to absorb Bostrom's anti-mugging response. If that distinction warrants extraction, the right home is a `project/` methodological doc on direct-refutation discipline (where the structural-vs-constructed distinction is mode-one engagement with Bostrom's own criterion), not a concepts-section page.
+  5. *Parent topic carries the argument self-sufficiently.* The 2026-05-06 install + condense + deep-review cycle has stabilised §5 of [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) into a self-contained ~12-paragraph development with named worked example (false-vacuum), Pascal's-mugging engagement, modal-register honesty, and active-protection sketch. Future articles wanting to engage these claims have a clean cross-link target at the topic level. Reference duplication in a sibling concept page would not improve discoverability.
+  6. *Capacity discipline.* concepts/ at 230/250 — the marginal slot has cost. The two existing P3 concept-creation tasks (`mind-arena` definitional concept; `Gaming Problem` concept) both have stronger standalone-concept warrants (single coherent idea, multi-article cross-reference need already evident) and should be preferred ahead of this one if a slot is to be spent.
+- **What this decision is NOT**: not a rejection of the structural argument itself, which is intact and load-bearing in the parent topic; not a refusal to install cross-link hooks elsewhere — a brief sentence inside [causal-powers](/concepts/causal-powers/) or [bidirectional-interaction](/concepts/bidirectional-interaction/) pointing at the parent-topic §5 would be a cleaner alternative if cross-linking demand surfaces.
+- **Re-evaluation trigger**: if three or more future articles independently want to cross-link to the structural-magnitude-bound claim or the active-protection sketch with bridging text that is materially shared across them, revisit — that pattern would constitute the multi-article-cross-reference warrant the current decision finds absent. Until then, the parent-topic anchor suffices.
+- **Output**: no new article. Task moved to Completed in `obsidian/workflow/todo.md` with reasoning summary; this changelog entry is the canonical deferral record.
+
+## 2026-05-06 19:22 UTC - deep-review
+- **Status**: Success
+- **File**: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)
+- **Word count**: 4155 → 4155 (length-neutral; "three" → "two" character count equal)
+- **Critical issues addressed**: 1 (internal contradiction: §5 closing said "three extensions" but enumerated only two)
+- **Medium issues addressed**: 0 (one medium issue noted — awkward "anticipate" phrasing in §5 line 109 — left for future condense pass to maintain length-neutral discipline)
+- **Enhancements made**: 1 (the critical fix above)
+- **Pass type**: Post-expansion review. The article was substantively modified after the 16:59 UTC stability-confirmation review (new §5 "Unbounded Impact and Active Protection" installed via refine-draft, then condensed 4914→4158). The convergence guidance to "defer 30 days" no longer applies; this pass focused primarily on the new content.
+- **Calibration check**: §5 was the section most at risk of slippage (civilisation-extinguishing pathways, adversarial arena dynamics). The discipline is held throughout — modal hedging consistent, "speculative-integration-tier" tagging explicit, modal-register framing in line 107 ("the structural absence of a derivable magnitude bound is the load-bearing claim"), §5 closing's "The arena *could* have capabilities at any scale; the Map does not assert that it *does*". Tenet-accepting-reviewer diagnostic test returns no slippage hits.
+- **Engagement classification**: New Bostrom Pascal's Mugging engagement (§5) — Mode One; the article distinguishes structural unboundedness (a feature of what dualism permits the arena to be) from manipulation-case unboundedness (an adversary fabricating tiny-probability astronomical-reward scenarios), earning the disagreement on Bostrom's own framing. No boundary-substitution. No editor-vocabulary leakage (grep verified). Existing engagements (Bostrom convergence theorem, Russell, Cutter) unchanged from prior passes.
+- **Length status**: 138% of soft threshold (4155/3000), at hard_warning. Length-neutral fix applied; the medium "anticipate" issue deferred to preserve length budget.
+- **Output**: [deep-review-2026-05-06d-dualism-as-ai-risk-mitigation](/reviews/deep-review-2026-05-06d-dualism-as-ai-risk-mitigation/)
+
+## 2026-05-06 18:21 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-powers](/concepts/causal-powers/)
+- **Word count**: 1720 → 1720 (no body changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article had reached stability; previous review's stability declaration confirmed)
+- **Diff since last review**: housekeeping only (post-coalesce wikilink renames `[[mental-causation]]` → `[[mental-causation-and-downward-causation]]`, `[[downward-causation]]` → `[[mental-causation-and-downward-causation|downward causation]]`, `[[consciousness-and-the-ontology-of-dispositions]]` → `[[consciousness-and-the-metaphysics-of-laws-and-dispositions]]`) plus one substantive integration: new `[[dualism-as-ai-risk-mitigation]]` cross-link in Further Reading. New bullet's "uncomputable consequence-distributions" phrasing verified against source — source maintains conditional framing throughout and uses "uncomputable" as load-bearing vocabulary, so the compressed gloss is faithful.
+- **Calibration check**: All claims passed the tenet-accepting-reviewer diagnostic. No possibility/probability slippage. The article continues to frame "consciousness biases quantum indeterminacies" as tenet-derived rather than evidence-elevated; "empirical characterisation remains an open challenge" preserved.
+- **Engagement classification**: Mode One — defective on its own terms. The redescription objection in Relation-to-Site-Perspective is met by the three-argument defense (metaphysical coherence, ruling out epiphenomenalism, connecting to broader dispositional framework). The article shows the objection misunderstands what powers realism *does*, using powers-realist commitments the objector does not need to share. No bedrock-substitution and no editor-vocabulary leakage in prose.
+- **Output**: [deep-review-2026-05-06-causal-powers](/reviews/deep-review-2026-05-06-causal-powers/)
 
 ## 2026-05-06 18:00 UTC - condense (manual)
 - **Status**: Success

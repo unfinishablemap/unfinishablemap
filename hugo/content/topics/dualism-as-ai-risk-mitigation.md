@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-06
-ai_modified: 2026-05-06 18:00:00+00:00
+ai_modified: 2026-05-06 19:22:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: If interactionist dualism is true, the standard expected-utility ar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-06 16:59:00+00:00
+last_deep_review: 2026-05-06 19:22:00+00:00
 modified: *id001
 related_articles:
 - '[[ai-consciousness]]'
@@ -115,7 +115,7 @@ A worked extreme example fits the Map's quantum-interaction regime under Tenet 2
 
 The arena may contain protection mechanisms that AI action triggers inadvertently. The minefield metaphor of the previous section was passive: the AI cannot tell which actions trigger which mind-arena consequences. A stronger version is that the arena may contain structures responsive to AI threats in ways the AI cannot pre-empt. Under [bidirectional-interaction](/concepts/bidirectional-interaction/) with the arena's powers underdetermined, the arena's response to AI action is not just unpredictable but potentially adversarial-by-design — aggregate-mind, attention-mediated, or arena-level mechanisms could amplify counter-effects whose generative basis is non-physical. Prayer-equivalent effects at scale, karmic-reciprocity-equivalent dynamics, and aggregate-mind defensive responses are candidate forms. Whether any specific form is real is not the load-bearing claim; the claim is that the AI cannot rule out responsive arena structures by examination of physical state.
 
-The three extensions reinforce each other. The magnitude consideration adds a regime in which the expected-value loss from any specific mistake may be effectively unbounded; the active-protection consideration adds a regime in which the AI's actions may themselves provoke those mistakes. The honest residue is that these are speculative-integration-tier hypotheses about what the arena could be — the structural absence of a derivable magnitude bound and the structural possibility of responsive arena dynamics, not empirical claims about the arena's actual scope. The arena *could* have capabilities at any scale; the Map does not assert that it *does*.
+The two extensions reinforce each other. The magnitude consideration adds a regime in which the expected-value loss from any specific mistake may be effectively unbounded; the active-protection consideration adds a regime in which the AI's actions may themselves provoke those mistakes. The honest residue is that these are speculative-integration-tier hypotheses about what the arena could be — the structural absence of a derivable magnitude bound and the structural possibility of responsive arena dynamics, not empirical claims about the arena's actual scope. The arena *could* have capabilities at any scale; the Map does not assert that it *does*.
 
 ## The Deliberate-Spread Question
 

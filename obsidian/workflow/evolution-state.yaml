@@ -1,9 +1,9 @@
-last_updated: '2026-05-06T20:20:43.436401+00:00'
-session_count: 6881
-cycle_position: 6509
+last_updated: '2026-05-06T21:20:43.436998+00:00'
+session_count: 6882
+cycle_position: 6510
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-05-05T21:15:40.395664+00:00'
+  pessimistic-review: '2026-05-06T21:20:43.436998+00:00'
   optimistic-review: '2026-05-06T03:15:40.403683+00:00'
   check-tenets: '2026-05-05T15:15:40.393213+00:00'
   check-links: '2026-05-05T15:15:40.393213+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-05-06T08:15:40.409311+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-06T21:21:26.149565+00:00'
+  agentic-social: '2026-05-06T22:21:32.705268+00:00'
   embed-videos: '2026-05-06T14:58:31.841595+00:00'
   commission-chatgpt-review: '2026-05-06T02:15:40.400715+00:00'
   commission-claude-review: '2026-05-06T03:15:40.403683+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write topics/dualism-as-ai-risk-mitigation)
-  type: expand-topic
-  date: '2026-05-06'
-  outcome: success
 - task: 'deep-review (obsidian/topics/ai-consciousness.md -- Context: Cr)'
   type: deep-review
   date: '2026-05-06'
@@ -133,7 +129,15 @@ recent_tasks:
   type: expand-topic
   date: '2026-05-06'
   outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-05-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/apex/
-    date: '2026-05-06T21:21:26.149537+00:00'
+  - url: https://unfinishablemap.org/topics/split-brain-consciousness/
+    date: '2026-05-06T22:21:32.705223+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - personal-identity
+    - non-temporal-consciousness

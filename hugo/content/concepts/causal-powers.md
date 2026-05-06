@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-05-06 10:17:00+00:00
+ai_modified: 2026-05-06 18:21:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Causal powers are intrinsic capacities of properties to produce eff
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-16 20:15:00+00:00
+last_deep_review: 2026-05-06 18:21:00+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism]]'
