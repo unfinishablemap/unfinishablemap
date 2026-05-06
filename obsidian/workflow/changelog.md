@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T17:30:00+00:00
+ai_modified: 2026-05-06T18:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 18:00 UTC - condense (manual)
+- **Status**: Success
+- **File**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Trigger**: Manual length review by Andy following the 17:30 UTC refinement that took body from 3946 → 4914 (over the 4000-word topic hard threshold). Tightening conservative — preserved opening summary, six-sub-argument structure, all named scenarios (false-vacuum, retrocausal, synchronicity-class, prayer/karmic/aggregate-mind protection candidates), tenet connections, all citations.
+- **Word count**: 4914 → 4158 body (-756; ~15% reduction). Down from hard-warning territory (23% over 4000) to ~4% over hard threshold — well within tolerance for an article with six substantive sub-arguments plus threat-model setup, ensoulment counter-move, deliberate-spread tactics, and Relation-to-Site-Perspective synthesis.
+- **Where the cuts came from**: redundant restatements between adjacent paragraphs (Indeterminability §3 absorbed into §2; Generalisation Precluded closing sentence merged into preceding paragraph; Strategic-Advantage's "high uncertainty special case" rebuttal compressed); meta-commentary about the kind-of-refutation (Standard Threat Model's "This is direct refutation, not category dismissal" framing now folded into the structural argument); behavioural-pattern descriptions in Behaviour-in-an-Undeterminable-Minefield (three paragraphs each lost ~30% of their words while preserving the protected-category / goal-narrowing / mind-arena-avoidance distinction); the Unbounded-Impact section's opening framing and closing slippage-discipline-restated paragraph (the slippage discipline is named in the lede and held throughout, so the section-end repetition was removable); Deliberate-Spread setup paragraph (epistemic/tactical-claim setup compressed into one sentence); AI-Ensoulment Counter-Move's three-points-then-residue structure folded into a single response paragraph; Relation-to-Site-Perspective's five paragraphs reduced to three.
+- **Discipline alignment**: Honours `concepts/coalesce-condense-apex-stability` discipline — preserved opening summary, structural skeleton (six sub-argument architecture intact), tenet connections (Tenet 1 / Tenet 2 / Tenet 3 all retained), named falsifying scenarios (false-vacuum, retrocausal, synchronicity-class, protection-form candidates), and Cutter/Békefi/Russell/Bostrom direct-engagement passages. Trimmed hedging redundancy and restated-section-structure prose. Material that survived the cut without trim is now load-bearing-by-revealed-preference rather than load-bearing-by-author-assertion.
+- **Cliché audit**: no "This is not X. It is Y." cliché violations introduced.
+- **No-label-leakage check**: greped clean for forbidden editor-vocabulary terms.
+- **Published**: yes (draft: false preserved).
+- **Output**: `obsidian/topics/dualism-as-ai-risk-mitigation.md`
 
 ## 2026-05-06 17:30 UTC - refine-draft (manual)
 - **Status**: Success
