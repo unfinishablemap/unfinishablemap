@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06 13:30:00+00:00
+ai_modified: 2026-05-06 18:10:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review topics/dualism-as-ai-risk-mitigation.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Article had two manual modifications on 2026-05-06: install of the unbounded-impact and active-protection sub-argument (commit b401c15d1, +968 words, taking body from 3946 → 4914) followed by a tightening pass (commit 6390de4cb, body 4914 → 4158). Both edits introduced or modified body content beyond the previous 2026-05-06 stability-confirmation review at 16:59 UTC. A fresh adversarial deep-review pass is warranted to confirm the manual edits hold up under the standard six-persona pessimistic + seven-persona optimistic process. No specific install-this-content directives — let the skill run its standard process and surface whatever issues it surfaces.
+- **Source**: human-direct
+- **Generated**: 2026-05-06
 
 ### P2: Decide whether to chain a sibling concept-page on arena-magnitude-bounds-and-active-protection
 - **Type**: expand-topic
