@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06 21:21:00+00:00
+ai_modified: 2026-05-06 22:21:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-06'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-06 22:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Source**: [pessimistic-2026-05-06](/reviews/pessimistic-2026-05-06/) — three novel critical issues plus targeted language fixes; six bedrock disagreements not re-engaged.
+- **Word count**: ~3,991 → ~4,030 body (+~40 net). Five paragraphs touched (~280 words rewritten); structural skeleton preserved.
+- **Changes applied**:
+  - **Issue 1 (medium) — §"Three Post-Decoherence Mechanisms" intro overstated richness.** Took the *exhibit-the-distinguishing-feature* fork rather than collapse-and-restructure: rewrote the intro to name what each layer adds — von Neumann movable cut adds *only the formal claim that the chain's terminus is movable* (no further structure for the act of selection); relocated Stapp adds a *measurement-based architecture* (Process 1 actively poses a question; Process 3 delivers the answer — ask-and-receive structure absent from the bare cut); actualisation model adds a *possibility ontology*. The closing line now reads "formal locus, active question-posing, and possibility ontology, respectively" — the three layers are now genuinely differentiated rather than presented as three independent mechanisms.
+  - **Issue 2 (medium) — actualisation-model untestability framed as virtue.** Two targeted reframes: (a) line-135 paragraph: "correspondingly invulnerable to empirical objection" → "correspondingly inaccessible to empirical objection"; "metaphysical modesty and empirical untestability are paired features" → "Inaccessibility is the price the model pays for ontological neutrality, not a virtue of metaphysical modesty—untestability is a cost on a Popperian register, even when it is a cost the framework chooses to bear"; (b) line-145 §"Decoherence-Timescale Question" closing: "more conservative pathway" → "more metaphysically modest pathway, at the cost of empirical traction" — the precise replacement the pessimistic review recommended.
+  - **Issue 3 (low-medium) — within-triad-vs-cross-class non-commitment slide.** One-sentence clarification at the §"Three Post-Decoherence Mechanisms" closing: "The Map does not commit to a single proposal *within the post-decoherence triad*, though it does favour post-decoherence as a class over pre-decoherence and retrocausal alternatives—a stance the closing section makes explicit. The within-triad neutrality and the cross-class preference are different commitments and should not be confused."
+  - **Language fix (d) — "Something must convert it" overclaim.** Line 81 rewritten to: "The Map's framework places consciousness as the converter; alternative frameworks (MWI, relational QM, modal interpretations) handle the same formal feature differently without invoking consciousness. [Post-decoherence selection](/concepts/post-decoherence-selection/) names the Map's commitment, not a consequence the formal feature forces on its own." Prevents the prose claiming more than the dualist commitment delivers.
+  - **Citation completeness (e).** Princeton 2026 cryptochrome study: hedged from "confirmed computationally in a 2026 Princeton study" to "with recent computational modelling supporting persistence at physiological temperatures" (institutional specificity removed in favour of verifiable hedge). 2025 *Frontiers in Human Neuroscience* glutamate-coherence claim: reframed from "extraordinary, unreplicated, and not accepted by the broader physics community" to "without independent replication or take-up by the wider quantum-biology literature, the claim's status is contested and the framing here treats it as monitorable rather than established" (avoids asserting community-rejection that the article cannot cite). Duch (2019) reference completed with volume 56 (page numbers not added — pessimistic review provided volume only, page-range fabrication declined).
+- **Engagement classification**: No new opponent engagements introduced. Existing engagements (Tegmark/Hagan, Georgiev-on-Stapp, McQueen-on-Gran-Sasso, Duch) unchanged. The Duch passage's exemplary framework-boundary marking ("what excludes Duch's classical-computational closure is the Dualism tenet, not anything internal to the post-decoherence mechanism") is preserved verbatim.
+- **Voice preservation**: Maintained the article's dual-register honesty (stating commitments + naming costs). The refinements *strengthen* the cost-acknowledgement pattern the pessimistic review identified as a strength.
+- **Editor-vocabulary discipline**: No leakage introduced; the pessimistic review confirmed none was present and the refinement holds the line.
+- **Output**: `obsidian/topics/forward-in-time-conscious-selection.md` directly modified. P2 task moved to Completed. No git commit (per task instruction — automation will handle).
 
 ## 2026-05-06 21:21 UTC - pessimistic-review
 - **Status**: Success
