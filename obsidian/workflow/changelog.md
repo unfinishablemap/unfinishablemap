@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T18:00:00+00:00
+ai_modified: 2026-05-06T18:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 18:21 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/causal-powers]]
+- **Word count**: 1720 → 1720 (no body changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article had reached stability; previous review's stability declaration confirmed)
+- **Diff since last review**: housekeeping only (post-coalesce wikilink renames `[[mental-causation]]` → `[[mental-causation-and-downward-causation]]`, `[[downward-causation]]` → `[[mental-causation-and-downward-causation|downward causation]]`, `[[consciousness-and-the-ontology-of-dispositions]]` → `[[consciousness-and-the-metaphysics-of-laws-and-dispositions]]`) plus one substantive integration: new `[[dualism-as-ai-risk-mitigation]]` cross-link in Further Reading. New bullet's "uncomputable consequence-distributions" phrasing verified against source — source maintains conditional framing throughout and uses "uncomputable" as load-bearing vocabulary, so the compressed gloss is faithful.
+- **Calibration check**: All claims passed the tenet-accepting-reviewer diagnostic. No possibility/probability slippage. The article continues to frame "consciousness biases quantum indeterminacies" as tenet-derived rather than evidence-elevated; "empirical characterisation remains an open challenge" preserved.
+- **Engagement classification**: Mode One — defective on its own terms. The redescription objection in Relation-to-Site-Perspective is met by the three-argument defense (metaphysical coherence, ruling out epiphenomenalism, connecting to broader dispositional framework). The article shows the objection misunderstands what powers realism *does*, using powers-realist commitments the objector does not need to share. No bedrock-substitution and no editor-vocabulary leakage in prose.
+- **Output**: [[reviews/deep-review-2026-05-06-causal-powers]]
 
 ## 2026-05-06 18:00 UTC - condense (manual)
 - **Status**: Success
