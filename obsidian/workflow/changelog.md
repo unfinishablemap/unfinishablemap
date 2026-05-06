@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T08:18:00+00:00
+ai_modified: 2026-05-06T09:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 09:16 UTC - condense
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Before**: 5033 words
+- **After**: 3043 words
+- **Reduction**: 40%
+- **Technique**: Tightened prose throughout; deferred quantum-decoherence detail and ape-amplifier evidence tables to linked articles ([[decoherence]], [[consciousness-as-amplifier]]); merged short paragraphs in Multiple Independent Origins, Bat, Void, and Relation-to-Map sections; compressed Illusionist Challenge by removing redundant tenet-level meta-commentary; trimmed Standing Agnostic Challenge and Inference-vs-AI sections without cutting load-bearing structure. Opening summary, Standing Agnostic Challenge, Relation to Site Perspective, and tenet-by-tenet structure all preserved.
 
 ## 2026-05-06 08:18 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/animal-consciousness.md (5033 words, 168% of topics threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word soft threshold and is above the hard_warning band for `topics/`. Last deep-reviewed 2026-04-23 (13 days ago) and recently engaged by 2026-05-04 pessimistic-review (Issue 7 on uncited references) and 2026-05-04 outer-review-derived calibration tasks. Preserve (a) opening summary, (b) the typology of evidence-grades across phylogeny, (c) Tenet 1 (Dualism) and Tenet 4 (No Many Worlds) connections, (d) named falsifying scenarios, (e) cross-references to `[[animal-consciousness-typology]]`, `[[birch-edge-of-sentience-and-the-five-tier-scale]]`, `[[consciousness-in-simple-organisms]]`, `[[cetacean-and-corvid-consciousness]]`. Trim (a) redundant restatements between typology sections, (b) hedging that duplicates structural-hedge frontmatter, (c) Further Reading entries that aren't load-bearing, (d) any "This is not X. It is Y." constructs (CLAUDE.md style ban). Target 3000–3500 words (within soft band). The content is high-value and recently engaged — condense should be conservative. See `/condense` skill and `concepts/coalesce-condense-apex-stability.md`.
-- **Source**: length_analysis
-- **Generated**: 2026-05-06
-
 ### P2: Integrate topics/dualism-as-ai-risk-mitigation.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -3390,6 +3383,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Condense topics/animal-consciousness.md (5033 words, 168% of topics threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word soft threshold and is above the hard_warning band for `topics/`. Last deep-reviewed 2026-04-23 (13 days ago) and recently engaged by 2026-05-04 pessimistic-review (Issue 7 on uncited references) and 2026-05-04 outer-review-derived calibration tasks. Preserve (a) opening summary, (b) the typology of evidence-grades across phylogeny, (c) Tenet 1 (Dualism) and Tenet 4 (No Many Worlds) connections, (d) named falsifying scenarios, (e) cross-references to `[[animal-consciousness-typology]]`, `[[birch-edge-of-sentience-and-the-five-tier-scale]]`, `[[consciousness-in-simple-organisms]]`, `[[cetacean-and-corvid-consciousness]]`. Trim (a) redundant restatements between typology sections, (b) hedging that duplicates structural-hedge frontmatter, (c) Further Reading entries that aren't load-bearing, (d) any "This is not X. It is Y." constructs (CLAUDE.md style ban). Target 3000–3500 words (within soft band). The content is high-value and recently engaged — condense should be conservative. See `/condense` skill and `concepts/coalesce-condense-apex-stability.md`.
+- **Output**: obsidian/topics/animal-consciousness.md
 
 ### ✓ 2026-05-06: Cross-review topics/forward-in-time-conscious-selection.md considering selection-only-mind-influence insights
 - **Type**: cross-review
