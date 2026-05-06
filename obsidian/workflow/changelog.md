@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T06:16:00+00:00
+ai_modified: 2026-05-06T07:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 07:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Word count**: 3995 → 3991 (-4, length-neutral mode; back under 4000-word hard threshold)
+- **Trigger**: Cross-review against new [[topics/selection-only-mind-influence]] (2026-05-05)
+- **Critical issues addressed**: 0 (third deep review; article stable; previously catalogued bedrock disagreements honoured)
+- **Medium issues addressed**: 3 — (1) Selection-criterion trilemma's option (iii) lacked structural bound (now notes selection-only's confinement to brain-generated candidate set); (2) Strict selection-only reading of Tenet 2 was implicit in the post-decoherence picture but not explicit (now named in Minimal Quantum Interaction tenet section with information-theoretic signatures cited); (3) No cross-link to [[selection-only-mind-influence]] (now in body × 2, frontmatter `related_articles`, and Further Reading).
+- **Enhancements made**: 2 — Trilemma paragraph extension; Minimal Quantum Interaction tenet extension citing log₂(N) ceiling, Born-rule-preserving rate, content-confinement.
+- **Reasoning-mode classifications** (changelog-only per [[direct-refutation-discipline]]): Tegmark = Mode One (in-physics counter-data + post-decoherence sidestep); Duch = Mode Three (explicit framework-boundary marking, preserved from prior review); Georgiev = Mode Mixed (Two-leaning, dispute left open); McQueen vs anti-Orch-OR = Mode One leaning. No boundary substitution; no editor-vocabulary leakage in article body.
+- **Possibility/probability slippage check**: clean. Selection-only references framed as derivative consequences of the post-decoherence picture, not as upgraded evidential claims. Diagnostic test (would a tenet-accepting reviewer flag any claim as overstated?) returns no critical hits.
+- **Attribution accuracy check**: clean. Stapp's Process 1 / Process 3 architecture preserved. No dropped qualifiers introduced. Information-theoretic signatures cross-referenced rather than re-derived.
+- **Stability**: Third deep-review pass. Article has stabilised; each pass has added one external interlocutor (2026-04-30: foundational; 2026-05-04: Duch; 2026-05-06: selection-only) without disturbing load-bearing structure. Convergence is a success state.
+- **Output**: [[reviews/deep-review-2026-05-06-forward-in-time-conscious-selection-selection-only-cross]]
 
 ## 2026-05-06 06:16 UTC - deep-review
 - **Status**: Success
