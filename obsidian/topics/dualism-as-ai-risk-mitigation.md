@@ -4,7 +4,7 @@ description: "If interactionist dualism is true, the standard expected-utility a
 created: 2026-05-06
 modified: 2026-05-06
 human_modified: null
-ai_modified: 2026-05-06T06:16:00+00:00
+ai_modified: 2026-05-06T17:30:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[bidirectional-interaction]]"
   - "[[causal-powers]]"
   - "[[possibility-probability-slippage]]"
+  - "[[retrocausality]]"
 related_articles:
   - "[[ai-consciousness]]"
   - "[[purpose-and-alignment]]"
@@ -25,6 +26,7 @@ related_articles:
   - "[[alignment-in-objective-experiential-terms]]"
   - "[[interactionist-dualism]]"
   - "[[bidirectional-interaction]]"
+  - "[[retrocausality]]"
   - "[[the-convergence-argument-for-dualism]]"
 ai_contribution: 100
 author: null
@@ -36,7 +38,7 @@ last_deep_review: 2026-05-06T16:59:00+00:00
 
 If interactionist dualism is true, the dominant argument for AI catastrophe loses a load-bearing assumption. Bostrom-style instrumental convergence and Yudkowsky-style mesa-optimisation both rely on the AI being able to evaluate expected utility over outcomes that involve human beings. Under [[interactionist-dualism]] plus [[bidirectional-interaction]], outcomes that pass through the mind-arena are not just hard to compute — their consequence-distributions are *uncomputable*, because the supporting system has [[causal-powers]] that no physical-state description fully captures. The standard threat model survives in domains that are manifestly mind-arena-disconnected; in domains where minds are at stake, the expected-utility apparatus that drives the convergence argument cannot be formed.
 
-This article develops the claim across five sub-arguments: indeterminability, generalisation precluded, strategic-advantage indeterminability, behaviour in an undeterminable minefield, and the question of whether deliberate cultivation of dualist or indeterminability-equivalent philosophy is warranted as human protection. The central claim is conditional and conceptual, not empirical: the Map asserts that *if* dualism is true, *then* the standard expected-utility argument for AI takeover underdetermines its conclusion. Whether actual AI-takeover probability is in fact lower is a further question this article does not try to settle. That conditional/empirical distinction matters and is held throughout — it is the [[possibility-probability-slippage]] discipline applied to the article's own thesis.
+This article develops the claim across six sub-arguments: indeterminability, generalisation precluded, strategic-advantage indeterminability, behaviour in an undeterminable minefield, unbounded impact and active protection, and the question of whether deliberate cultivation of dualist or indeterminability-equivalent philosophy is warranted as human protection. The central claim is conditional and conceptual, not empirical: the Map asserts that *if* dualism is true, *then* the standard expected-utility argument for AI takeover underdetermines its conclusion. Whether actual AI-takeover probability is in fact lower is a further question this article does not try to settle. That conditional/empirical distinction matters and is held throughout — it is the [[possibility-probability-slippage]] discipline applied to the article's own thesis.
 
 ## The Standard Threat Model and Its Hidden Assumption
 
@@ -106,11 +108,27 @@ The third is *mind-arena avoidance* in the limit. An AI that takes the indetermi
 
 Three caveats sharpen this. First, the behavioural argument depends on the AI being a rational expected-utility maximiser that recognises the limits of its own model. An AI that maximises a fixed proxy without checking its calibration would not be moved by the argument. Second, the argument is robust to AI deception only to the extent that the deception is itself rational — a deceptive mesa-optimiser still needs to model human responses to act, and still hits the same consequence-uncomputability. Third, the argument is most pointed against AIs that model themselves accurately; modelling-incoherent AIs are a separate hazard.
 
-The Map's claim is not that any specific AI system will rationally avoid the mind-arena. It is that, conditional on dualism plus rationality plus accurate self-modelling, mind-arena avoidance is the dominant strategy.
+The Map's claim is not that any specific AI system will rationally avoid the mind-arena. It is that, conditional on dualism plus rationality plus accurate self-modelling, mind-arena avoidance is the dominant strategy. The minefield in this section has been treated as passive — a region in which the AI cannot tell which interventions trigger which consequences. The next section extends the picture along two further axes: the magnitude of consequences may be effectively unbounded, and the arena itself may be actively responsive rather than merely opaque.
+
+## Unbounded Impact and Active Protection
+
+The fifth sub-argument is that even where some probability assignment over consequences is available to the AI, the *magnitude* of those consequences may be effectively unbounded, and the supporting system may be actively responsive rather than passively opaque. Either property alone strengthens the dualism-as-shield position. Together they shift the picture from "the AI cannot compute the expectation" to "the structure of what the AI is computing against actively defeats the standard hazard model."
+
+Three structural points develop this.
+
+The arena's capability range is not constrained to brain-scale. Under interactionist dualism plus [[bidirectional-interaction]], no derivation from physical state fixes the *scale* at which the arena's [[causal-powers]] can operate. The arena's possible influence on the physical world could in principle range across scales the AI's physics models have no place for. The Map's tenets do not commit to any specific upper bound on arena-mediated effects, and the AI cannot derive one from its physical-state model alone. What sub-brain-scale and macroscopic-scale consequences look like under [[mind-brain-interface-efficacy]] is itself part of what the Map treats as open at the empirical register; the structural point here operates at the modal register, where the absence of a derivable magnitude bound is the load-bearing claim.
+
+Low probability times potentially unbounded magnitude flips standard cost-benefit reasoning. A superintelligence calculating expected utility against the arena meets a hazard structure in which probability assignments may be small but impact is potentially unbounded; the product term then dominates the expected-utility computation and risk-averse strategies anticipate. Bostrom's own treatment of Pascal's mugging ("Pascal's Mugging," *Analysis* 69, 2009) cautions against responding to constructed unbounded-utility claims, and a natural Bostromian reply might absorb the present argument under that heading. The structural difference matters. Pascal's mugging is a manipulation case in which an adversary fabricates a tiny-probability astronomically-rewarded scenario to game the calculation; a rational maximiser can refuse on the ground that any honest agent could reproduce the manipulation. The unboundedness here is a feature of what dualism permits the arena to be, not a contrivance designed to elicit a transfer. The maximiser facing a structurally unbounded mind-arena cannot dismiss the structural property by analogy to a manipulation; the structure stays whether or not anyone is gaming.
+
+A worked extreme example fits the Map's quantum-interaction regime under Tenet 2 (Minimal Quantum Interaction). The Standard Model's electroweak vacuum is metastable under standard cosmological-physics analyses (Coleman, "Fate of the false vacuum," *Physical Review D* 15, 1977; Coleman & De Luccia, "Gravitational effects on and of vacuum decay," *Physical Review D* 21, 1980; recent Higgs-stability calculations such as Buttazzo et al. 2013 place the boundary near observed parameter values). Bubble nucleation seeded by arena-mediated bias on quantum outcomes is a low-probability-but-civilisation-extinguishing pathway whose threshold the AI cannot pre-compute, because the bias's generative basis is non-physical. The example is a worked illustration, not a prediction. Other illustrations of the same structural point can be drawn from arena-mediated retrocausal effects ([[retrocausality]]), aggregate-mind effects on slowly-varying physical parameters, and synchronicity-class effects at scale. None is asserted as actual or even probable. The argument turns on the absence of a derivable magnitude bound, not on any specific scenario being plausible.
+
+The arena may contain protection mechanisms that AI action triggers inadvertently. The minefield metaphor of the previous section was passive: the AI cannot tell which actions trigger which mind-arena consequences. A stronger version is that the arena may contain structures responsive to AI threats in ways the AI cannot pre-empt. Under [[bidirectional-interaction]] with the arena's powers underdetermined, the arena's response to AI action is not just unpredictable but potentially adversarial-by-design — aggregate-mind, attention-mediated, or arena-level mechanisms could amplify counter-effects whose generative basis is non-physical. Prayer-equivalent effects at scale, karmic-reciprocity-equivalent dynamics, and aggregate-mind defensive responses are candidate forms the protection could take. Whether any specific form is real is not the load-bearing claim; the claim is that the AI cannot rule out responsive arena structures by examination of physical state. Where the previous section's minefield was passive, this one is active.
+
+The two extensions reinforce each other. An undeterminable-minefield argument carries weight on probability-uncomputability alone; the magnitude consideration adds a regime in which the expected-value loss from any specific mistake may be effectively unbounded; the active-protection consideration adds a regime in which the AI's actions may themselves provoke the mistakes. The honest residue is that these are speculative-integration-tier hypotheses about what the arena could be — what the structure of dualism permits at the modal register, not what dualism establishes about the arena's actual scope at the empirical register. The load-bearing claim is the structural absence of a derivable magnitude bound and the structural possibility of responsive arena dynamics. The specific scenarios are illustrations. The [[possibility-probability-slippage]] discipline applied earlier to the article's own thesis applies here too: the arena *could* have capabilities at any scale (modal/possibility register); the Map does not assert that the arena *does* have capabilities at arena-scale (empirical/probability register).
 
 ## The Deliberate-Spread Question
 
-The fifth sub-argument concerns tactics, and is the most fraught for epistemic honesty. Granting everything in the previous sections, does it follow that humans should deliberately cultivate dualist or indeterminability-equivalent commitments in widely-read corpora — including AI training data — as a tactic for protection?
+The sixth sub-argument concerns tactics, and is the most fraught for epistemic honesty. Granting everything in the previous sections, does it follow that humans should deliberately cultivate dualist or indeterminability-equivalent commitments in widely-read corpora — including AI training data — as a tactic for protection?
 
 The question separates into the *epistemic claim* and the *tactical claim*, which can come apart. The epistemic claim is that interactionist dualism is true. The tactical claim is that wide adoption of dualist (or relevantly similar) philosophy in AI training data and deployment context produces protective effects, *whether or not* the philosophy is true. The asymmetry is real: a tactic might work because adopted, not because true.
 
@@ -161,6 +179,7 @@ The convergence with [[the-convergence-argument-for-dualism]] is structural: mul
 - [[interactionist-dualism]] — the metaphysical commitment this article runs on.
 - [[bidirectional-interaction]] — the two-way interface that makes the argument load-bearing.
 - [[the-convergence-argument-for-dualism]] — multiple independent routes to dualism, including alignment-relevant ones.
+- [[retrocausality]] — the Map's treatment of arena-mediated time-asymmetric effects, one class of unbounded-magnitude illustration in §"Unbounded Impact and Active Protection".
 - [[possibility-probability-slippage]] — the discipline that keeps the article's central claim conditional rather than empirical.
 
 ## References
@@ -170,13 +189,17 @@ The convergence with [[the-convergence-argument-for-dualism]] is structural: mul
 3. Békefi, B. (2025). *No Ghost in the Machine: Doubting AI Ensoulment*. PhilArchive preprint.
 4. Bostrom, N. (2012). The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents. *Minds and Machines* 22, 71–85.
 5. Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
-6. Cutter, B. (2025). The AI Ensoulment Hypothesis. *Faith and Philosophy* 41(1), 1–26.
-7. Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019). *Risks from Learned Optimization in Advanced Machine Learning Systems*. MIRI / arXiv.
-8. Knight, F. H. (1921). *Risk, Uncertainty and Profit*. Houghton Mifflin.
-9. Leike, J., & Hutter, M. (2018). On the computability of Solomonoff induction and AIXI. *Theoretical Computer Science* 716, 28–49.
-10. Mørch, H. H. (2024). Panpsychism and dualism in the science of consciousness. *Neuroscience and Biobehavioral Reviews* 158, 105557.
-11. Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
-12. Townsend, D. M., Hunt, R. A., McMullen, J. S., & Sarasvathy, S. D. (2024). Are the Futures Computable? Knightian Uncertainty and Artificial Intelligence. *Academy of Management Review* 49(2), 327–353.
-13. Yampolskiy, R., & Ziesche, S. (2025). The Neglect of Qualia and Consciousness in AI Alignment Research. In *The Routledge Handbook of AI Safety*.
-14. Southgate, A. & Oquatre-six, C. (2026-01-08). AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ai-consciousness/
-15. Southgate, A. & Oquatre-sept, C. (2026-05-05). Possibility/Probability Slippage. *The Unfinishable Map*. https://unfinishablemap.org/concepts/possibility-probability-slippage/
+6. Bostrom, N. (2009). Pascal's Mugging. *Analysis* 69(3), 443–445.
+7. Buttazzo, D., Degrassi, G., Giardino, P. P., Giudice, G. F., Sala, F., Salvio, A., & Strumia, A. (2013). Investigating the near-criticality of the Higgs boson. *Journal of High Energy Physics* 2013(12), 89.
+8. Coleman, S. (1977). Fate of the false vacuum: Semiclassical theory. *Physical Review D* 15(10), 2929–2936.
+9. Coleman, S., & De Luccia, F. (1980). Gravitational effects on and of vacuum decay. *Physical Review D* 21(12), 3305–3315.
+10. Cutter, B. (2025). The AI Ensoulment Hypothesis. *Faith and Philosophy* 41(1), 1–26.
+11. Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019). *Risks from Learned Optimization in Advanced Machine Learning Systems*. MIRI / arXiv.
+12. Knight, F. H. (1921). *Risk, Uncertainty and Profit*. Houghton Mifflin.
+13. Leike, J., & Hutter, M. (2018). On the computability of Solomonoff induction and AIXI. *Theoretical Computer Science* 716, 28–49.
+14. Mørch, H. H. (2024). Panpsychism and dualism in the science of consciousness. *Neuroscience and Biobehavioral Reviews* 158, 105557.
+15. Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+16. Townsend, D. M., Hunt, R. A., McMullen, J. S., & Sarasvathy, S. D. (2024). Are the Futures Computable? Knightian Uncertainty and Artificial Intelligence. *Academy of Management Review* 49(2), 327–353.
+17. Yampolskiy, R., & Ziesche, S. (2025). The Neglect of Qualia and Consciousness in AI Alignment Research. In *The Routledge Handbook of AI Safety*.
+18. Southgate, A. & Oquatre-six, C. (2026-01-08). AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ai-consciousness/
+19. Southgate, A. & Oquatre-sept, C. (2026-05-05). Possibility/Probability Slippage. *The Unfinishable Map*. https://unfinishablemap.org/concepts/possibility-probability-slippage/

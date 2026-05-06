@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T16:59:00+00:00
+ai_modified: 2026-05-06T17:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 17:30 UTC - refine-draft (manual)
+- **Status**: Success
+- **File**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Trigger**: Manual run by Andy. The 16:59 UTC deep-review pass treated the article as stability-converged and did not act on the 13:30 UTC P1 task notes which specified that three new structural points (arena-capabilities, unbounded-impact, active-protection) be installed. This refinement carries out the install directly under refine-draft conventions rather than re-queuing.
+- **Word count**: 3946 → 4914 (+968; ~14% growth; remains within the topic-section soft length envelope as cross-checked against `concepts/coalesce-condense-apex-stability` discipline; no condense triggered).
+- **Lede update**: changed "five sub-arguments" to "six sub-arguments" and added "unbounded impact and active protection" to the named list.
+- **Minefield-section update**: extended the closing of "Behaviour in an Undeterminable Minefield" with one sentence acknowledging that the section's minefield metaphor is passive and the next section extends it to active.
+- **New section installed**: "Unbounded Impact and Active Protection" placed between "Behaviour in an Undeterminable Minefield" and "The Deliberate-Spread Question", developing three structural points: (1) the arena's capability range is not constrained to brain-scale and the AI cannot derive a magnitude bound from physical state; (2) low probability times potentially unbounded magnitude flips standard cost-benefit reasoning, with explicit direct engagement of Bostrom's *Pascal's Mugging* (*Analysis* 69, 2009) — the structural unboundedness here is not a constructed manipulation, so Bostrom's anti-mugging response does not transfer; (3) active-protection mechanisms turn the minefield dynamic, the arena's response to AI threat may be adversarial-by-design under [[bidirectional-interaction]] with arena powers underdetermined.
+- **Worked extreme example**: false-vacuum decay from arena-mediated quantum bias, citing Coleman 1977, Coleman & De Luccia 1980, and Buttazzo et al. 2013 (Higgs metastability). Other illustrations named (retrocausal arena effects, aggregate-mind effects on slow physical parameters, synchronicity-class effects at scale) without elevating to predictions. The example is a worked illustration of the structural-magnitude-bound-absence claim, not a scenario the Map asserts.
+- **Discipline alignment**: Honours [[evidential-status-discipline]] — the new section's load-bearing claim is the structural absence of a derivable magnitude bound at the modal register, with specific scenarios labelled as speculative-integration-tier illustrations (inline natural-language phrasing, no headed `**Evidential status:**` callouts). Honours [[possibility-probability-slippage]] — closing paragraph names the modal/empirical distinction explicitly: "the arena *could* have capabilities at any scale (modal/possibility register); the Map does not assert that the arena *does* have capabilities at arena-scale (empirical/probability register)". Honours `direct-refutation-discipline` — Pascal's-mugging engagement with Bostrom is Mode One on its own terms (the structural-vs-constructed distinction is internal to the manipulation-detection logic Bostrom invokes); recorded here, not in body.
+- **Reasoning-mode classification (editor-internal)**: engagement with Bostrom (Pascal's Mugging): Mode One — uses Bostrom's own manipulation-detection criterion to derive that the criterion does not apply to structural unboundedness; engagement with the x-risk school's instrumental-convergence absorbing-Pascal-via-mugging move: Mode One + Mode Three (in-Bostrom argument that the move does not transfer + framework-boundary-marking that the structural property is itself a tenet-register commitment).
+- **Frontmatter additions**: `[[retrocausality]]` added to `concepts:` and `related_articles:` since the new section invokes it as a class of unbounded-magnitude illustration.
+- **References added**: Bostrom (2009) *Pascal's Mugging*; Buttazzo et al. (2013) Higgs near-criticality; Coleman (1977) false vacuum semiclassical; Coleman & De Luccia (1980) gravitational vacuum decay. Existing references renumbered.
+- **Cliché audit**: no "This is not X. It is Y." two-sentence violations introduced (CLAUDE.md style ban). One single-sentence "X is not Y but Z" form preserved as legitimate per the writing-style guide's existing tolerance for the single-sentence pattern.
+- **No-label-leakage check**: greped the new section for forbidden editor-vocabulary terms (`direct-refutation-feasible`, `unsupported-jump`, `bedrock-perimeter`, `mode-mixed`, `Engagement classification:`, `Evidential status:`, `per [[direct-refutation-discipline]]`) — clean.
+- **Cross-link audit**: `[[arbitrary-powers]]` still does not exist as a standalone concept page; the new section uses the natural-language phrase "arena's powers underdetermined" rather than the wikilink, deferring concept-page creation to the chained P2 task.
+- **Published**: yes (draft: false preserved).
+- **Output**: `obsidian/topics/dualism-as-ai-risk-mitigation.md`
 
 ## 2026-05-06 16:59 UTC - deep-review
 - **Status**: Success (stability confirmation)
