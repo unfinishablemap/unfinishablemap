@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate concepts/metarepresentation-threshold.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Concept article (created 2026-04-13) has no inbound wikilinks from active content. Recently deep-reviewed 2026-04-25, so the article itself is in good shape — the gap is integration rather than quality. Add inbound references from articles whose treatment of higher-order content depends on the metarepresentation threshold: candidate sources (verify with grep first) include `concepts/higher-order-thought.md`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`, `concepts/cognitive-phenomenology.md`, `concepts/self-and-self-consciousness.md`, `topics/animal-consciousness.md`, `voids/inference-void.md`, `concepts/introspection.md`, `apex/medium-status-voids-in-cognition.md`. Install substantive bridging content (not bare Further Reading entries) at the most load-bearing two or three locations and verify reciprocal `related_articles` frontmatter. Honour the forward-only-cross-link-defect discipline — install reciprocal links both directions.
-- **Source**: orphan_integration
-- **Generated**: 2026-05-06
-
 ### P3: Apply five-tier evidential calibration to topics/ai-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3369,6 +3362,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Integrate concepts/metarepresentation-threshold.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article (created 2026-04-13) has no inbound wikilinks from active content. Recently deep-reviewed 2026-04-25, so the article itself is in good shape — the gap is integration rather than quality. Add inbound references from articles whose treatment of higher-order content depends on the metarepresentation threshold: candidate sources (verify with grep first) include `concepts/higher-order-thought.md`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`, `concepts/cognitive-phenomenology.md`, `concepts/self-and-self-consciousness.md`, `topics/animal-consciousness.md`, `voids/inference-void.md`, `concepts/introspection.md`, `apex/medium-status-voids-in-cognition.md`. Install substantive bridging content (not bare Further Reading entries) at the most load-bearing two or three locations and verify reciprocal `related_articles` frontmatter. Honour the forward-only-cross-link-defect discipline — install reciprocal links both directions.
+- **Output**: obsidian/concepts/metarepresentation-threshold.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-05-06: Integrate topics/birch-edge-of-sentience-and-the-five-tier-scale.md into site navigation
 - **Type**: integrate-orphan

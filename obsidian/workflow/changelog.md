@@ -5,6 +5,17 @@ ai_modified: 2026-05-06T12:16:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-06 12:58 UTC - deep-review (integration pass)
+- **Status**: Success
+- **File**: [[concepts/metarepresentation-threshold]]
+- **Word count**: 1456 → 1456 (no body changes; integration-focused pass on a content-stable article)
+- **Critical issues addressed**: 0 (5th consecutive deep review with no critical issues; article has reached durable convergence on substance)
+- **Medium issues addressed**: 0 (Fleming et al. 2010 inline-citation orphan logged as remaining item; not addressed this round to keep focus on orphan integration of the article into the site)
+- **Enhancements made**: 3 substantive inbound cross-links installed at load-bearing argumentative locations, with reciprocal `concepts:` frontmatter on both sides (forward-only-cross-link-defect discipline honoured): (1) [[concepts/self-and-self-consciousness]] §"Layers Above the Minimal Self" — named the threshold where the existing sentence on great-ape procedural metacognition was already implicitly describing it, plus a clause linking the threshold to Zahavi's three-layer distinction; (2) [[concepts/introspection]] §"Introspection as Metacognitive Skill" — added a paragraph framing introspection as requiring declarative metarepresentation above the threshold, explaining why introspective evidence is unavailable from cognitive systems below it; (3) [[concepts/cognitive-phenomenology]] §"Implications for AI Consciousness" — named the threshold as the diagnostic the LLM-comparison turns on (modelling metarepresentation ≠ having it). Inbound link count: 14 → 17. Article is no longer orphaned on any reasonable definition; the underlying task description was already incorrect at task generation
+- **Reasoning-mode classification**: No new named-opponent engagements introduced; the article's existing HOT-theorist engagement classified Mode One/Two (in-framework refutation: HOT's standard response narrows the position to *reflective* consciousness, with the explanatory gap reopening). No boundary substitution; no editor-vocabulary leakage in any modified file
+- **Calibration-discipline check**: Re-applied diagnostic test — no calibration errors. The article describes the threshold at "live hypothesis" tier with appropriate "appears to require" / "appears to be" hedging; §"Relation to Site Perspective" frames the threshold as "providing some of the strongest evidence" for Bidirectional Interaction rather than as positive empirical demonstration. No tenet-coherence-as-evidence-upgrade pattern present
+- **Output**: [[reviews/deep-review-2026-05-06-metarepresentation-threshold]]
+
 ## 2026-05-06 12:16 UTC - deep-review (integration pass)
 - **Status**: Success
 - **File**: [[topics/birch-edge-of-sentience-and-the-five-tier-scale]]

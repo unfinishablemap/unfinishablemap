@@ -31,6 +31,7 @@ concepts:
   - "[[phenomenology-of-intellectual-life]]"
   - "[[symbol-grounding-problem]]"
   - "[[metacognition]]"
+  - "[[metarepresentation-threshold]]"
   - "[[knowledge-argument]]"
   - "[[phenomenology-vs-function-axis]]"
 related_articles:
@@ -151,7 +152,7 @@ Cognitive phenomenology connects to the [[intentionality#Phenomenal Intentionali
 
 **If cognitive phenomenology exists**, thinking has "what it's like" character—LLMs *might* have "pale" consciousness even without sensory [[qualia]], but semantic understanding may require phenomenal character they lack. **If cognitive phenomenology is illusory**, all phenomenology is sensory; LLMs without sensory experience have no phenomenology at all.
 
-The Map holds cognitive phenomenology likely exists, with one caveat: this doesn't help LLMs. They show no evidence of the dissociations that reveal human semantic phenomenology—no TOT states, no feeling of knowing, no phenomenology of insight. Tulving's hierarchy as developed in the [[ai-consciousness-typology#Tulving's Hierarchy as a Second Lens|AI consciousness typology]] makes this precise: LLMs functionally resemble noetic processing but lack the felt recognition that characterises genuine noetic consciousness. If PCT holds, their representations aren't genuinely *about* anything.
+The Map holds cognitive phenomenology likely exists, with one caveat: this doesn't help LLMs. They show no evidence of the dissociations that reveal human semantic phenomenology—no TOT states, no feeling of knowing, no phenomenology of insight. Tulving's hierarchy as developed in the [[ai-consciousness-typology#Tulving's Hierarchy as a Second Lens|AI consciousness typology]] makes this precise: LLMs functionally resemble noetic processing but lack the felt recognition that characterises genuine noetic consciousness. If PCT holds, their representations aren't genuinely *about* anything. The [[metarepresentation-threshold]] sharpens the diagnostic: LLMs can produce outputs *describing* their own processing states (modelling metarepresentation) without any evidence they have crossed the threshold into the declarative metarepresentation that on the Map's account is required for genuine cognitive phenomenology. Modelling metarepresentation is not the same as having it, and the dissociation evidence assembled above gives the structural form the comparison turns on.
 
 Duch (2005, 2019) presses the strongest competent dissent: substrate-independent classical computationalism, where any dynamical system with self-reflective access to its own internal states is conscious—extending in informal statements to LLMs exhibiting self-reflection. The reply turns on whether the dissociation evidence (aphantasic analytic strategies, TOT meaning-without-form, the qualitative shift of mathematical insight) tracks the structural form of cognitive phenomenology rather than the implementation-specific content Duch's view would predict. The [[biological-computationalisms-inadvertent-case-for-dualism|biological computationalism article]] develops the structural-cost analysis; the present article registers Duch as the affirmative position the open-question framing on AI consciousness exists to hold open against.
 
