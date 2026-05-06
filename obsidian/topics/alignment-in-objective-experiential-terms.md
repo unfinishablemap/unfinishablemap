@@ -4,7 +4,7 @@ description: "If phenomenal qualities are real features of reality, the badness 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-05-06T10:17:00+00:00
+ai_modified: 2026-05-06T14:07:00+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -24,12 +24,13 @@ related_articles:
   - "[[alignment-objective-experiential-terms-2026-01-16]]"
   - "[[moral-architecture-of-consciousness]]"
   - "[[evaluative-phenomenal-character]]"
+  - "[[dualism-as-ai-risk-mitigation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
 last_curated:
-last_deep_review: 2026-04-06T09:28:00+00:00
+last_deep_review: 2026-05-06T14:07:00+00:00
 ---
 
 AI alignment needs an objective target. Preferences cannot serve as that target because they are contingent, malleable, and systematically shaped by forces unrelated to human welfare. But if The Unfinishable Map's metaphysics is correct—if phenomenal consciousness is real and irreducible—then experiential qualities like the badness of suffering and the goodness of understanding are *objective facts about the character of experience*, not subjective preferences. This article argues that dualism provides alignment with something preferentism cannot: genuine objectivity rooted in the nature of conscious experience itself.
@@ -115,6 +116,8 @@ The case for objective experiential alignment criteria draws on all five of the 
 **[[tenets#^no-many-worlds|No Many Worlds]]** supports the non-aggregability of experiential quality. If identity is indexical—if [[haecceity]] is real—then each conscious subject's experiential quality is an objective fact about *that* subject, not an instance of a type that can be averaged away. The suffering of this person is objectively bad for *this* person, and no amount of flourishing elsewhere compensates. This grounds the suffering floor as a per-individual constraint rather than an aggregate target.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** explains why the field has not already adopted objective experiential criteria. Preferentism is simpler: observable choices, computable utilities, scalable optimisation. Objective experiential alignment is harder: first-person access, multi-dimensional targets, triangulated measurement. But the history of science shows that the simpler framework is sometimes wrong. If experiential quality is genuinely objective, then the complexity of accessing it is a feature of the domain, not a reason to substitute an easier but incorrect target.
+
+The argument here is the **target-side** of dualism's relevance to alignment. The complementary **threat-model side** is developed in [[dualism-as-ai-risk-mitigation]]: under interactionist dualism plus bidirectional interaction, consequence-distributions of mind-arena perturbations are uncomputable rather than merely intractable, which weakens the expected-utility apparatus driving the standard AI-takeover argument. Dualism is alignment-load-bearing from both directions — it specifies *what* to align to (objective experiential qualities) and reshapes *which risks* the alignment must guard against (mind-arena consequences cannot be computed, so cannot be safely traded against other utility).
 
 ## What Would Challenge This View?
 

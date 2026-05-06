@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T12:16:00+00:00
+ai_modified: 2026-05-06T14:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 14:07 UTC - deep-review (cross-review pass)
+- **Status**: Success
+- **File**: [[topics/alignment-in-objective-experiential-terms]]
+- **Word count**: 2457 → ~2535 (+78)
+- **Critical issues addressed**: 0 (article was already in stable form after 2026-04-06 review; calibration-discipline check passes — claims framed conditionally, no possibility/probability slippage, attribution accuracy preserved)
+- **Medium issues addressed**: 1 — cross-review integration gap with [[dualism-as-ai-risk-mitigation]]: the two articles form a complementary target-side / threat-model-side pair on dualism's alignment relevance, but the body did not acknowledge the threat-model complement. Resolution: added closing paragraph to "Relation to Site Perspective" that frames the two arguments as complementary and notes that mind-arena consequences cannot be computed, so cannot be safely traded against other utility. Added [[dualism-as-ai-risk-mitigation]] to `related_articles` frontmatter (was previously only in Further Reading)
+- **Enhancements made**: 1 cross-link integration paragraph
+- **Reasoning-mode classification**: No named-opponent engagements (article engages "preferentism" as a generic position, not a named author's framework). One implicit boundary engagement with illusionism in Tenet-1 sub-section — appropriately Mode Three (framework-boundary marking), no editor-vocabulary leakage
+- **Calibration-discipline check**: Re-applied diagnostic test — no calibration errors. The article's claims are presented under the conditional structure "if the Map's metaphysics is correct" and frame experiential objectivity as a tenet-level commitment of the Map rather than as an empirical upgrade. Does not upgrade boundary cases on tenet-load alone
+- **Output**: [[reviews/deep-review-2026-05-06-alignment-in-objective-experiential-terms]]
 
 ## 2026-05-06 12:58 UTC - deep-review (integration pass)
 - **Status**: Success

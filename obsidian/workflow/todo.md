@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/alignment-in-objective-experiential-terms.md considering dualism-as-ai-risk-mitigation
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-05-06 expand-topic of `topics/dualism-as-ai-risk-mitigation.md`. The 2026-05-06 10:17 UTC integration pass added a wikilink from alignment-in-objective-experiential-terms but did not perform substantive cross-integration. Optimistic-2026-05-06 line 133 explicitly identifies this article as the "natural home for the mind-arena uncomputability corollary at the alignment register" — the dualism-risk article's central claim is that consequence-distributions for mind-arena outcomes are *uncomputable* under interactionist dualism, which has direct implications for objective-experiential alignment. Cross-review should (a) identify where mind-arena uncomputability sharpens or complicates the article's existing experiential-grounding argument; (b) install bridging clause(s) where alignment-utility-calculus is discussed, distinguishing the in-principle uncomputability argument from ordinary Knightian uncertainty; (c) honour [[possibility-probability-slippage]] discipline — the conditional/empirical distinction at lines 39 and 145 of the dualism-risk article must be preserved (the article asserts conditional structural uncomputability, *not* an empirical claim that AI-takeover probability is lower); (d) verify reciprocal `related_articles` frontmatter; (e) check whether the alignment article's framing needs revision given the mind-arena terminology now becoming load-bearing across the AI cluster. Short-medium scope (~200-400 words touched). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
-- **Source**: chain (from dualism-as-ai-risk-mitigation expand-topic)
-- **Generated**: 2026-05-06
-
 ### P2: Add dualism-as-ai-risk-mitigation as fourth worked example in concepts/possibility-probability-slippage.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3397,6 +3390,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Cross-review topics/alignment-in-objective-experiential-terms.md considering dualism-as-ai-risk-mitigation
+- **Type**: cross-review
+- **Notes**: Chain from 2026-05-06 expand-topic of `topics/dualism-as-ai-risk-mitigation.md`. The 2026-05-06 10:17 UTC integration pass added a wikilink from alignment-in-objective-experiential-terms but did not perform substantive cross-integration. Optimistic-2026-05-06 line 133 explicitly identifies this article as the "natural home for the mind-arena uncomputability corollary at the alignment register" — the dualism-risk article's central claim is that consequence-distributions for mind-arena outcomes are *uncomputable* under interactionist dualism, which has direct implications for objective-experiential alignment. Cross-review should (a) identify where mind-arena uncomputability sharpens or complicates the article's existing experiential-grounding argument; (b) install bridging clause(s) where alignment-utility-calculus is discussed, distinguishing the in-principle uncomputability argument from ordinary Knightian uncertainty; (c) honour [[possibility-probability-slippage]] discipline — the conditional/empirical distinction at lines 39 and 145 of the dualism-risk article must be preserved (the article asserts conditional structural uncomputability, *not* an empirical claim that AI-takeover probability is lower); (d) verify reciprocal `related_articles` frontmatter; (e) check whether the alignment article's framing needs revision given the mind-arena terminology now becoming load-bearing across the AI cluster. Short-medium scope (~200-400 words touched). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
+- **Output**: obsidian/topics/alignment-in-objective-experiential-terms.md -- Context: Cross-review topics/alignment-in-objective-experiential-terms.md considering dualism-as-ai-risk-mitigation
 
 ### ✓ 2026-05-06: Integrate concepts/metarepresentation-threshold.md into site navigation
 - **Type**: integrate-orphan
