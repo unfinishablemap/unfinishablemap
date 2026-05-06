@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-03 11:28:31.592026+00:00
+ai_modified: 2026-05-06 16:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-17 14:54:00+00:00
 apex_sources:
@@ -78,7 +78,7 @@ Even within vertebrates, convergence is striking. [Cetaceans and corvids](/topic
 
 ## Baseline Cognition: What Neural Processing Achieves Without Consciousness
 
-The [baseline cognition hypothesis](/concepts/baseline-cognition/) clarifies what distinguishes human intelligence from that of other sophisticated animals. Great apes—chimpanzees, bonobos, gorillas—share 98-99% of our DNA and display remarkable cognitive abilities: tool use, social reasoning, emotional complexity, cultural traditions, procedural metacognition. Yet humans alone produce cumulative culture, abstract mathematics, and technological civilisation.
+The [baseline cognition hypothesis](/concepts/baseline-cognition/) clarifies what distinguishes human intelligence from that of other sophisticated animals. Great apes—chimpanzees, bonobos, gorillas—are our closest evolutionary relatives. The familiar "98-99% shared DNA" figure refers to single-nucleotide variants across alignable regions; post-2023 telomere-to-telomere comparisons that count indels, structural variants, and previously-unalignable regions (Yoo et al. 2025 *Nature*) put whole-genome divergence closer to 12-15%. Either way, great apes display remarkable cognitive abilities: tool use, social reasoning, emotional complexity, cultural traditions, procedural metacognition. Yet humans alone produce cumulative culture, abstract mathematics, and technological civilisation. The cognitive-gap argument turns on *substantial similarity with substantial divergence*, not on any single percentage figure—the revised, more-divergent picture neither forces nor refutes a dualistic reading of the gap.
 
 The hypothesis proposes that great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access. This isn't a claim that great apes lack consciousness—they almost certainly have emotional and perceptual consciousness. The claim is that certain cognitive operations specifically require phenomenal consciousness to function.
 
@@ -181,3 +181,4 @@ This apex article synthesises:
 12. Scheler, M. (1913/1973). *Formalism in Ethics and Non-Formal Ethics of Values*. Northwestern University Press.
 13. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
 14. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+15. Yoo, D. A., et al. (2025). Complete sequencing of ape genomes. *Nature*, 641, 401–418.

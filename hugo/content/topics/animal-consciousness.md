@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-06 12:16:00+00:00
+ai_modified: 2026-05-06 16:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -109,7 +109,7 @@ The [problem-of-other-minds](/concepts/problem-of-other-minds/) applies to both,
 
 ## Consciousness and the Human-Ape Intelligence Gap
 
-Great apes share 98-99% of our DNA and display sophisticated cognition, yet humans alone produce [cumulative culture](/concepts/cumulative-culture/), abstract mathematics, and technological civilisation. Standard neuroscience attributes the gap to architectural differences (expanded dorsolateral prefrontal cortex, arcuate-fasciculus connectivity, cortical folding)—a physicalist explanation that does not require non-physical causation.
+Great apes are our closest evolutionary relatives—roughly 98-99% identical at single-nucleotide variants across alignable regions, the figure popularised in mid-twentieth-century pedagogy. Post-2023 telomere-to-telomere comparisons that include indels, structural variants, and previously-unalignable regions (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%, with heterochromatic and Y-chromosomal regions diverging substantially more. Either way, great apes display sophisticated cognition, yet humans alone produce [cumulative culture](/concepts/cumulative-culture/), abstract mathematics, and technological civilisation. Standard neuroscience attributes the gap to architectural differences (expanded dorsolateral prefrontal cortex, arcuate-fasciculus connectivity, cortical folding)—a physicalist explanation that does not require non-physical causation. What does load-bearing work here is *substantial similarity with substantial divergence*, not any single percentage figure; the revised, more-divergent picture neither forces nor refutes a dualistic reading of the cognitive gap, only removing the popular objection that the gap is too dramatic to follow from "such a small genetic difference."
 
 The Map offers a complementary interpretation. The [baseline-cognition](/concepts/baseline-cognition/) hypothesis proposes that great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access. See [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) for the full treatment; the thesis is that consciousness enables *flexible deployment* of cognitive resources rather than raw computational power. Key evidence: working-memory differences Inoue & Matsuzawa (2007) suggest are about *deployment* rather than capacity; apes having culture but not *knowing* they have it (Whiten 2015); apes passing Level 1 theory of mind but struggling with Level 3 recursive mindreading; contested findings (Lieberman et al. 2008) that rule-based reasoning depends on conscious processing.
 
@@ -217,6 +217,7 @@ The framework supplies a falsification structure whose *application* waits on in
 1. Lieberman, M. D. et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.
 1. Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
+1. Yoo, D. A., et al. (2025). "Complete sequencing of ape genomes." *Nature*, 641, 401-418.
 1. Tomasello, M. (2010). "Ape and human cognition: What's the difference?" *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Whiten, A. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.

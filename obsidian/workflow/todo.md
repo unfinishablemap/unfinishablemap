@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T13:00:00+00:00
+ai_modified: 2026-05-06T13:30:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Decide whether to chain a sibling concept-page on arena-magnitude-bounds-and-active-protection
+- **Type**: expand-topic
+- **Status**: pending (depends on the P1 deep-review above; do not start until that has landed and surfaces whether the new content warrants its own concept-page)
+- **Notes**: After the P1 deep-review installs the unbounded-impact and active-protection dimensions in `topics/dualism-as-ai-risk-mitigation.md`, evaluate whether the structural argument warrants a dedicated concept page that other articles can cross-link to (rather than each citing the dualism-as-ai-risk-mitigation section). Candidate placement: `concepts/` (currently ~228/250, headroom available). Candidate slug: `concepts/arena-magnitude-bounds-and-active-protection.md` or `concepts/unbounded-arena-impact.md` or — depending on framing — `concepts/arbitrary-powers.md` (which the prior research-topic on `dualism-as-ai-risk-mitigator` already flagged as a potential gap). Decision criteria: (a) does the deep-review's installed section read as a self-contained argument that other articles would profitably cross-link to, or is it organic to the dualism-as-ai-risk article only?; (b) does the false-vacuum example or the active-protection sketch warrant treatment beyond a single section?; (c) does the analysis interact with existing concepts (`[[causal-powers]]`, `[[bidirectional-interaction]]`, `[[mind-brain-interface-efficacy]]`) in ways that would benefit from a hub concept-page? If decision is *yes*, write the concept page (~1500-2500 words) covering: range-of-arena-capabilities argument; structural-vs-constructed unboundedness distinction (against Pascalian-mugging absorption); active-protection-mechanism extension; honest-limitation honouring evidential-status-discipline (these are speculative-integration tier; the load-bearing claim is the structural absence of a magnitude bound, not specific scenarios). If decision is *no*, log the deferral in changelog with reasoning so future replenishment doesn't regenerate the task. Tenet alignment: Tenet 2 + Tenet 3 + Tenet 1 + methodological. See P1 task above and `topics/dualism-as-ai-risk-mitigation.md` post-deep-review.
+- **Source**: chain (from the P1 deep-review above)
+- **Generated**: 2026-05-06
 
 ### P2: Cross-review apex/machine-question.md considering dualism-as-ai-risk-mitigation
 - **Type**: cross-review
@@ -3383,6 +3390,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Deep-review topics/dualism-as-ai-risk-mitigation.md to install the unbounded-impact and active-protection dimensions
+- **Type**: deep-review
+- **Notes**: The 2026-05-06 expand-topic article currently develops the dualism-as-shield argument along the *epistemic* axis only — consequence-prediction in the mind-arena is uncomputable, so expected-utility computation cannot be formed. A second axis is missing and may be more decisive: even where some probability assignment over consequences *is* available, the **magnitude** of those consequences may be effectively unbounded, because the system supporting minds (the "arena") may have capabilities far beyond making choices within an individual human brain. The current article gestures at "arbitrary powers" of the supporting system at line 53 but does not develop the implications. Three structural points to install:
+- **Output**: obsidian/topics/dualism-as-ai-risk-mitigation.md
 
 ### ✓ 2026-05-06: Fact-check the human-chimpanzee 98-99% DNA-similarity claim across the catalogue
 - **Type**: refine-draft

@@ -1,6 +1,6 @@
-last_updated: '2026-05-06T14:58:31.841595+00:00'
-session_count: 6876
-cycle_position: 6504
+last_updated: '2026-05-06T15:58:31.841902+00:00'
+session_count: 6877
+cycle_position: 6505
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-05T21:15:40.395664+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-05-06T08:15:40.409311+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-06T16:00:02.604583+00:00'
+  agentic-social: '2026-05-06T16:59:24.042773+00:00'
   embed-videos: '2026-05-06T14:58:31.841595+00:00'
   commission-chatgpt-review: '2026-05-06T02:15:40.400715+00:00'
   commission-claude-review: '2026-05-06T03:15:40.403683+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (mental-causation.md -- Context: Cross-review conce)'
-  type: deep-review
-  date: '2026-05-05'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-05-05'
@@ -131,10 +127,17 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-06'
   outcome: success
+- task: 'refine-draft (Task context:
+
+    Two articles currently assert the hu)'
+  type: refine-draft
+  date: '2026-05-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/types-of-consciousness/
-    date: '2026-05-06T16:00:02.604550+00:00'
+  - url: https://unfinishablemap.org/concepts/interface-heterogeneity/
+    date: '2026-05-06T16:59:24.042734+00:00'
     topics:
+    - comparative-consciousness-and-interface-differences
     - hard-problem-of-consciousness
-    - ai-consciousness
+    - animal-consciousness
