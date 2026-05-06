@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/ethics-of-possible-ai-consciousness.md considering dualism-as-ai-risk-mitigation insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `topics/dualism-as-ai-risk-mitigation.md` (created 2026-05-06) lists `[[ethics-of-possible-ai-consciousness]]` as a related-articles peer. The new article's *uncomputability-of-mind-arena* argument has direct ethical implications for the question of whether AI systems can or should be treated as morally considerable patients — if dualism is true, the mind-arena is structurally inaccessible to substrate-side measurements that ethical reasoning typically assumes. Cross-review should (a) install a forward link from `ethics-of-possible-ai-consciousness.md` to `dualism-as-ai-risk-mitigation.md` where the moral-uncertainty argument is developed or where AI-as-moral-patient is treated; (b) check whether the ethics article's treatment of evidential criteria for AI consciousness can borrow the *mind-arena uncomputability* framing without overclaim; (c) verify terminology alignment (consciousness / mind-arena / moral patient / takeover risk); (d) honour `[[evidential-status-discipline]]` — keep tenet-coherence and empirical-evidence registers distinct. Log findings even if no edits made. See `topics/dualism-as-ai-risk-mitigation.md`.
-- **Source**: chain (from dualism-as-ai-risk-mitigation.md)
-- **Generated**: 2026-05-06
-
 ### P2: Cross-review topics/forward-in-time-conscious-selection.md considering selection-only-mind-influence insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3404,6 +3397,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Cross-review topics/ethics-of-possible-ai-consciousness.md considering dualism-as-ai-risk-mitigation insights
+- **Type**: cross-review
+- **Notes**: New article `topics/dualism-as-ai-risk-mitigation.md` (created 2026-05-06) lists `[[ethics-of-possible-ai-consciousness]]` as a related-articles peer. The new article's *uncomputability-of-mind-arena* argument has direct ethical implications for the question of whether AI systems can or should be treated as morally considerable patients — if dualism is true, the mind-arena is structurally inaccessible to substrate-side measurements that ethical reasoning typically assumes. Cross-review should (a) install a forward link from `ethics-of-possible-ai-consciousness.md` to `dualism-as-ai-risk-mitigation.md` where the moral-uncertainty argument is developed or where AI-as-moral-patient is treated; (b) check whether the ethics article's treatment of evidential criteria for AI consciousness can borrow the *mind-arena uncomputability* framing without overclaim; (c) verify terminology alignment (consciousness / mind-arena / moral patient / takeover risk); (d) honour `[[evidential-status-discipline]]` — keep tenet-coherence and empirical-evidence registers distinct. Log findings even if no edits made. See `topics/dualism-as-ai-risk-mitigation.md`.
+- **Output**: obsidian/topics/ethics-of-possible-ai-consciousness.md -- Context: Cross-review topics/ethics-of-possible-ai-consciousness.md considering dualism-as-ai-risk-mitigation insights
 
 ### ✓ 2026-05-06: Cross-review topics/purpose-and-alignment.md considering dualism-as-ai-risk-mitigation insights
 - **Type**: cross-review

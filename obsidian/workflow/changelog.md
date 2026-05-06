@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T04:17:00+00:00
+ai_modified: 2026-05-06T05:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 05:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Word count**: 2707 → 2907 (+200; 97% of 3000-word soft threshold)
+- **Trigger**: Cross-review against new [[topics/dualism-as-ai-risk-mitigation]] (2026-05-06) and [[concepts/possibility-probability-slippage]] (2026-05-05)
+- **Critical issues addressed**: 0 (fourth deep review; article remains stable; transparency notes already practised the slippage discipline before it was named)
+- **Medium issues addressed**: 3 — (1) Missing engagement with Cutter (2025) AI Ensoulment Hypothesis added to "What Changes With Future Systems" with deep-link to detailed engagement in dualism-as-ai-risk-mitigation; (2) Missing reference to the named [[possibility-probability-slippage]] discipline in the framework-dependent transparency note; (3) Stale `ai_system` field (claude-opus-4-6 → claude-opus-4-7).
+- **Enhancements made**: 5 — Cutter engagement paragraph; slippage discipline cross-link; [[dualism-as-ai-risk-mitigation]] and [[possibility-probability-slippage]] added to related_articles and Further Reading; Cutter (2025) added to References; frontmatter timestamps freshened.
+- **Reasoning-mode classifications** (changelog-only per [[direct-refutation-discipline]]): Metzinger moratorium = Mode One; Schwitzgebel social semi-solution = Mode One; Deutsch & Wallace MWI decision theory = Mode Three; Cutter ensoulment (newly added) = Mode Three. No boundary substitution; no editor-vocabulary leakage in article body.
+- **Stability**: Fourth deep review. Bedrock disagreements (eliminativist, Tegmark-quantum-skeptic, functionalist, MWI) unchanged from prior reviews and not re-flagged. Cross-review closes the reverse-link from the new dualism-as-ai-risk-mitigation article.
+- **Output**: [[reviews/deep-review-2026-05-06-ethics-of-possible-ai-consciousness]]
 
 ## 2026-05-06 04:17 UTC - deep-review
 - **Status**: Success
