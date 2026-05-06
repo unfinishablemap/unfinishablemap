@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-04-18T09:47:00+00:00
+ai_modified: 2026-05-06T15:03:07.336875+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,9 +30,20 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-08
 last_curated:
 last_deep_review: 2026-03-30T16:44:00+00:00
+embedded_videos:
+  - id: y7dwCAN7QY0
+    url: https://www.youtube-nocookie.com/embed/y7dwCAN7QY0
+    embedded: 2026-05-06T15:03:07.336875+00:00
+    source: notebooklm/0049-01-psychedelics-and-the-filter-model
 ---
 
 Psychedelics present a challenge to production models of consciousness that no other pharmacological intervention matches. When psilocybin, LSD, or DMT suppress activity in the brain's [[default-mode-network|default mode network]] (DMN), subjects do not report diminished experience. They report the opposite: expanded perception, heightened emotional depth, ego dissolution, and encounters with what many describe as "more real than real." The Unfinishable Map's [[filter-theory|filter theory]]—the view that the brain constrains consciousness rather than producing it—is consistent with this pattern in a way production models struggle to match. A loosened filter should yield richer experience, even as the neural machinery generating the filter operates less. Production models, by contrast, must explain how a brain doing less produces a mind experiencing more.
+
+<details class="yt-embed" data-video-id="y7dwCAN7QY0">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/y7dwCAN7QY0">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Neuroimaging Paradox
 
