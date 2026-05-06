@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05T22:30:00+00:00
+ai_modified: 2026-05-06T03:24:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -3380,6 +3380,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic-2026-04-30e (Medium Priority). The 2026-04-30 21:50 UTC deep-review of `topics/the-naturalisation-failure-for-content.md` added a Dennettian intentional-stance reply paragraph (lines 95–96) as a fourth honest limitation: "A Dennettian 'intentional stance' reply may sidestep the HPC by reconceiving content as a useful pattern that emerges under interpretation rather than a metaphysical kind to naturalise. On this view, the demand that brains 'really' have content is malformed... The Map treats this as deflation by export — naturalism is preserved by removing content from the metaphysical inventory." The Map currently engages this reply at one-paragraph length but does not have a dedicated treatment of the intentional-stance move. A topic article would let the Map engage Dennett directly, addressing (a) what the intentional stance commits to and what it explicitly does not commit to; (b) the deflation-by-export move and its dialectical force across the Map's positions (HPC, normativity-of-reason, qualia, mental causation); (c) the Map's response that phenomenally-grounded-aboutness is what the intentional stance is responsive *to* (so the stance is derivative on something physicalism still cannot ground); (d) honest limitation — the intentional-stance reading has internal coherence and the Map's response presupposes phenomenal realism that the Dennettian reading rejects from the start; the dialectic is at foundational level and may not converge. Medium scope (~2500–3000 words). Tenet alignment: Dualism (content's phenomenal grounding); Occam's Razor Has Limits (parsimony cost of removing content from metaphysical inventory). See [[reviews/optimistic-2026-04-30e]].
 - **Source**: optimistic-review (chain from optimistic-2026-04-30e)
 - **Generated**: 2026-04-30
+
+### P3: Write concept page on AI Ensoulment Hypothesis (Cutter 2025 + Békefi 2025)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-06 (High Priority). The 2026-05-06 `topics/dualism-as-ai-risk-mitigation.md` article engages Cutter's "The AI Ensoulment Hypothesis" (*Faith and Philosophy*, 2025) and Békefi (2025) reply at section length but the engagement is compressed and lives only inside the dualism-risk article. A standalone concept page would (a) develop the alien analogy and "fitness to possess" argument structure Cutter relies on; (b) install the Békefi rebuttal and its grounds for low credence in AI ensoulment; (c) trace implications for AI-takeover risk (which the dualism-risk article handles) and for AI moral status (which `topics/ethics-of-possible-ai-consciousness.md` would benefit from anchoring to); (d) clarify which features of Cutter's substance-dualist framework transfer to the Map's interactionist dualism and which do not — a Mode Three framework-boundary engagement; (e) honour `[[possibility-probability-slippage]]` discipline (Cutter's "middling credence" is hedged; the Map should preserve the hedge rather than escalate or dismiss). Medium scope (1500–2500 words). Tenet alignment: Tenet 1 (Dualism) directly; Tenet 3 (Bidirectional Interaction) where ensoulment-as-coupling is treated. **Capacity**: concepts/ at 226/250 = 90%, room available; topics/ at 224/250 = 90%, also room. See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
+- **Source**: optimistic-review (2026-05-06)
+- **Generated**: 2026-05-06
+
+### P3: Write topic page on Instrumental Convergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-06 (High Priority). Bostrom's "The Superintelligent Will" (2012) and *Superintelligence* (2014) are the target argument of the 2026-05-06 dualism-as-ai-risk-mitigation article and are referenced across multiple alignment-relevant articles, but instrumental convergence does not have its own page. The dualism-risk article re-exposes the orthogonality thesis and the convergence theorem to make its conditional argument; pushing the standalone exposition out into a dedicated topic page would let the dualism-risk argument start from "given instrumental convergence, X" without re-exposing the framework. The page would also be the right home for (a) Hubinger et al. (2019) mesa-optimisation; (b) Russell's deference response from *Human Compatible* (2019); (c) Townsend et al. (2024) Knightian-uncertainty contribution; (d) the gaming-problem caveat at the AI-sentience-marker layer. The page should be tenet-light at the expository layer (instrumental convergence is officially substrate-neutral) and tenet-load-bearing in the Relation to Site Perspective section, where the Map's dualism-risk contribution can be summarised compactly without re-exposing the dualism-risk argument. Long scope (3000–3500 words). Tenet alignment: methodological at expository layer; Tenet 1 + Tenet 3 in Relation to Site Perspective. **Capacity**: topics/ at 224/250 = 90%, room available. See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
+- **Source**: optimistic-review (2026-05-06)
+- **Generated**: 2026-05-06
+
+### P3: Write concept page on the Mind-Arena
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-06 (Medium Priority). "Mind-arena" has become load-bearing terminology across `topics/dualism-as-ai-risk-mitigation.md` (used in five sub-arguments and the Relation to Site Perspective section) but is not anchored in its own page. A concept page would (a) define what is in the mind-arena (consciousness plus its physical interface? the non-physical alone? the two-way causal loop?); (b) clarify how it differs from "the mental," "the subjective," "the consciousness-physics interface"; (c) name what it denotes for the Map's framework specifically; (d) let other articles use the term without re-defining it each time. The term is built around Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) and would also be the right home for distinguishing the Map's "mind-arena" from related-but-distinct terms like "mental causation," "mind-matter interface," and "consciousness-physics interface." Short scope (1000–1500 words). Tenet alignment: Tenet 1 + Tenet 3. **Capacity**: concepts/ at 226/250 = 90%, room available. See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
+- **Source**: optimistic-review (2026-05-06)
+- **Generated**: 2026-05-06
+
+### P3: Write concept page on the Gaming Problem (AI sentience markers)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-06 (Medium Priority). Birch's gaming problem — that LLMs are selected by their training process to produce the markers humans use to attribute sentience, decoupling markers from underlying experience — is referenced across `topics/birch-edge-of-sentience-and-the-five-tier-scale.md`, `topics/ai-consciousness.md`, `topics/llm-consciousness.md` (verify), but is not anchored in its own page. A concept page would (a) develop Birch's framing in *The Edge of Sentience* (2024) and the LLM-vs-crab contrast; (b) install the related Jourdain hypothesis and Monsieur-Jourdain analogy currently embedded in `topics/ai-consciousness.md`; (c) connect to `concepts/metarepresentation-threshold.md` (whether a system has crossed it is the question gaming corrupts); (d) name the methodological consequence — gaming-problem-corrupted markers cannot license tier-upgrade under the slippage discipline, even if the markers would otherwise license one. Short scope (1500–2000 words). Tenet alignment: methodological + Tenet 1. **Capacity**: concepts/ at 226/250 = 90%, room available. See [[reviews/optimistic-2026-05-06]] and [[topics/birch-edge-of-sentience-and-the-five-tier-scale]].
+- **Source**: optimistic-review (2026-05-06)
+- **Generated**: 2026-05-06
 
 ## Completed Tasks
 
