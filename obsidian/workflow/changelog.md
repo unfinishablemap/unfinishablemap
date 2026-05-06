@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T18:21:00+00:00
+ai_modified: 2026-05-06T19:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 19:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Word count**: 4155 → 4155 (length-neutral; "three" → "two" character count equal)
+- **Critical issues addressed**: 1 (internal contradiction: §5 closing said "three extensions" but enumerated only two)
+- **Medium issues addressed**: 0 (one medium issue noted — awkward "anticipate" phrasing in §5 line 109 — left for future condense pass to maintain length-neutral discipline)
+- **Enhancements made**: 1 (the critical fix above)
+- **Pass type**: Post-expansion review. The article was substantively modified after the 16:59 UTC stability-confirmation review (new §5 "Unbounded Impact and Active Protection" installed via refine-draft, then condensed 4914→4158). The convergence guidance to "defer 30 days" no longer applies; this pass focused primarily on the new content.
+- **Calibration check**: §5 was the section most at risk of slippage (civilisation-extinguishing pathways, adversarial arena dynamics). The discipline is held throughout — modal hedging consistent, "speculative-integration-tier" tagging explicit, modal-register framing in line 107 ("the structural absence of a derivable magnitude bound is the load-bearing claim"), §5 closing's "The arena *could* have capabilities at any scale; the Map does not assert that it *does*". Tenet-accepting-reviewer diagnostic test returns no slippage hits.
+- **Engagement classification**: New Bostrom Pascal's Mugging engagement (§5) — Mode One; the article distinguishes structural unboundedness (a feature of what dualism permits the arena to be) from manipulation-case unboundedness (an adversary fabricating tiny-probability astronomical-reward scenarios), earning the disagreement on Bostrom's own framing. No boundary-substitution. No editor-vocabulary leakage (grep verified). Existing engagements (Bostrom convergence theorem, Russell, Cutter) unchanged from prior passes.
+- **Length status**: 138% of soft threshold (4155/3000), at hard_warning. Length-neutral fix applied; the medium "anticipate" issue deferred to preserve length budget.
+- **Output**: [[reviews/deep-review-2026-05-06d-dualism-as-ai-risk-mitigation]]
 
 ## 2026-05-06 18:21 UTC - deep-review
 - **Status**: Success
