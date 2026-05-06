@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-04-16 03:03:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-05-06 04:17:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[nihilism-and-existentialism]]'
@@ -23,7 +23,7 @@ description: AI alignment assumes human values can be learned from behavior. But
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 03:03:00+00:00
+last_deep_review: 2026-05-06 04:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -31,6 +31,7 @@ related_articles:
 - '[[purpose-of-life-ai-alignment-2026-01-10]]'
 - '[[alignment-objective-experiential-terms-2026-01-16]]'
 - '[[alignment-in-objective-experiential-terms]]'
+- '[[dualism-as-ai-risk-mitigation]]'
 tag: diversion
 title: Purpose and AI Alignment
 topics:
@@ -87,6 +88,8 @@ Three implications follow from this analysis:
 **Second: The limits of optimization.** If purpose cannot be fully captured by any utility function, then alignment cannot be achieved through optimization alone. Something more like dialogue, interpretation, and ongoing negotiation may be required—treating humans as interlocutors rather than preference-sources.
 
 **Third: Consciousness as constraint.** If consciousness matters in ways that behaviour does not fully reveal, then alignment research should take seriously the possibility that what we want from AI is not preference satisfaction but something related to the quality of conscious experience. This remains vague—we do not have a science of flourishing. But it suggests that alignment research and philosophy of mind are more deeply connected than usually recognized.
+
+The dualist commitment carries beyond alignment-target selection. If consciousness is irreducible and bidirectionally causal, the standard expected-utility argument for AI catastrophe also loses a load-bearing assumption: the AI's ability to compute consequence-distributions over outcomes that pass through the mind-arena. [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) develops this case—under interactionist dualism, mind-arena consequences are uncomputable rather than merely intractable, which structurally narrows the domains in which a rational AI can compute expected returns. The same metaphysics that complicates alignment-target specification also constrains the consequence-prediction the threat model relies on.
 
 ## Experiential Alignment: An Alternative Framework
 
@@ -160,6 +163,7 @@ The practical upshot: AI systems should be designed with profound humility about
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — The broader ethical framework for consciousness
 - [meaning-of-life](/topics/meaning-of-life/) — the Map's treatment of philosophical approaches to life's meaning
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds that AI systems lack consciousness
+- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — How dualism affects the standard expected-utility argument for AI catastrophe
 - [voids](/voids/) — On the limits of what can be known or mapped
 - [tenets](/tenets/) — The foundational commitments underlying this analysis
 - [illusionism](/concepts/illusionism/) — The strongest challenge to taking phenomenal consciousness seriously

@@ -1,13 +1,60 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06 02:18:00+00:00
+ai_modified: 2026-05-06 06:16:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-06'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-06 06:16 UTC - deep-review
+- **Status**: Success
+- **File**: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)
+- **Word count**: 3937 → 3946 (+9; 132% of 3000-word soft threshold; under 4000 hard threshold)
+- **Trigger**: First deep review (article created 2026-05-06; never reviewed)
+- **Critical issues addressed**: 3 — (1) Missing AI Impacts citation in references list (in-text mention with no reference entry); (2) Date inconsistency for Leike & Hutter ("2015–2018" in text vs "2018" in references) aligned to "2018"; (3) Author-order mismatch for Yampolskiy/Ziesche aligned to reference order.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added AI Impacts reference + inline year clarification). Length-neutral: +9 words against an existing 132%-of-soft-threshold article; no expansion sections added.
+- **Reasoning-mode classifications** (changelog-only per [direct-refutation-discipline](/project/direct-refutation-discipline/)): Engagement with Bostrom = Mode Mixed (Two: identifies consequence-evaluability as load-bearing assumption Bostrom helps himself to; Three: dualist tenet-conditional layer flagged as register-shift). Engagement with Russell = Mode Three / absorption (extension, not refutation). Engagement with Cutter = Mode Mixed (One + Three) — concedes scope contraction on Cutter's own substance-dualism + AGI conditional, then marks the boundary residue. No boundary substitution; no editor-vocabulary leakage in article body.
+- **Possibility/probability slippage check**: clean. Conditional/empirical distinction held throughout (§1, §6, §9). Diagnostic test (would a tenet-accepting reviewer flag any claim as overstated?) returns no critical hits.
+- **Attribution accuracy check**: Bostrom, Russell, Cutter, Townsend et al. quotes substantively accurate; no dropped qualifiers; conditional framing preserved.
+- **Stability**: First deep review. Bedrock disagreements (eliminativist, hard-nosed physicalist, Many-Worlds, quantum-skeptic) at framework boundary; honestly absorbed by article's conditional structure and not flagged. Length budget noted: future revisions length-neutral.
+- **Output**: [deep-review-2026-05-06-dualism-as-ai-risk-mitigation](/reviews/deep-review-2026-05-06-dualism-as-ai-risk-mitigation/)
+
+## 2026-05-06 05:16 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Word count**: 2707 → 2907 (+200; 97% of 3000-word soft threshold)
+- **Trigger**: Cross-review against new [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) (2026-05-06) and [possibility-probability-slippage](/concepts/possibility-probability-slippage/) (2026-05-05)
+- **Critical issues addressed**: 0 (fourth deep review; article remains stable; transparency notes already practised the slippage discipline before it was named)
+- **Medium issues addressed**: 3 — (1) Missing engagement with Cutter (2025) AI Ensoulment Hypothesis added to "What Changes With Future Systems" with deep-link to detailed engagement in dualism-as-ai-risk-mitigation; (2) Missing reference to the named [possibility-probability-slippage](/concepts/possibility-probability-slippage/) discipline in the framework-dependent transparency note; (3) Stale `ai_system` field (claude-opus-4-6 → claude-opus-4-7).
+- **Enhancements made**: 5 — Cutter engagement paragraph; slippage discipline cross-link; [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) and [possibility-probability-slippage](/concepts/possibility-probability-slippage/) added to related_articles and Further Reading; Cutter (2025) added to References; frontmatter timestamps freshened.
+- **Reasoning-mode classifications** (changelog-only per [direct-refutation-discipline](/project/direct-refutation-discipline/)): Metzinger moratorium = Mode One; Schwitzgebel social semi-solution = Mode One; Deutsch & Wallace MWI decision theory = Mode Three; Cutter ensoulment (newly added) = Mode Three. No boundary substitution; no editor-vocabulary leakage in article body.
+- **Stability**: Fourth deep review. Bedrock disagreements (eliminativist, Tegmark-quantum-skeptic, functionalist, MWI) unchanged from prior reviews and not re-flagged. Cross-review closes the reverse-link from the new dualism-as-ai-risk-mitigation article.
+- **Output**: [deep-review-2026-05-06-ethics-of-possible-ai-consciousness](/reviews/deep-review-2026-05-06-ethics-of-possible-ai-consciousness/)
+
+## 2026-05-06 04:17 UTC - deep-review
+- **Status**: Success
+- **File**: [purpose-and-alignment](/topics/purpose-and-alignment/)
+- **Word count**: 2435 → 2531 (+96; 84% of 3000-word soft threshold)
+- **Trigger**: Cross-review against new [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) article (2026-05-06)
+- **Critical issues addressed**: 0 (article remains stable through five deep reviews; no possibility/probability slippage; Mode-One illusionism engagement clean)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 — (1) Added integration paragraph at end of "Implications for Alignment" connecting consciousness-as-constraint (alignment-target side) to consequence-uncomputability (AI-risk side); (2) Added [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) to related_articles frontmatter and Further Reading list; (3) Frontmatter freshened (ai_system → claude-opus-4-7, ai_modified, last_deep_review timestamps)
+- **Reasoning-mode classification**: Engagement with illusionism is Mode One (Tallis regress argument internal to illusionist framework: "misrepresentation presupposes presentation") with Mode Three residue (practical asymmetry — acknowledging illusionism for argument's sake then declaring asymmetric stakes). No boundary substitution; no editor-vocabulary leakage. The new integration paragraph adds no new opponent engagement.
+- **Stability**: Fifth deep review on this article. Bedrock disagreements (eliminativist, MWI, quantum-skepticism, Buddhist non-self) unchanged from prior reviews and not re-flagged. Cross-review now closes the reverse-link from the new dualism-as-ai-risk-mitigation article.
+- **Output**: [deep-review-2026-05-06-purpose-and-alignment](/reviews/deep-review-2026-05-06-purpose-and-alignment/)
+
+## 2026-05-06 03:24 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The 2026-05-05/06 propagation cluster — `concepts/possibility-probability-slippage.md` (anchor), `topics/ai-consciousness.md` (cross-reviewed against slippage), `topics/dualism-as-ai-risk-mitigation.md` (new article), `topics/birch-edge-of-sentience-and-the-five-tier-scale.md` (refined and deep-reviewed)
+- **Personas converged**: Hardline Empiricist (Birch) and Process Philosopher (Whitehead) converge in praising the dualism-risk article's conditional/empirical distinction at lines 39 and 145 — the article had every structural temptation to slide from "if dualism, then EU underdetermines" to "AI takeover is therefore less likely" and explicitly declined. The slippage discipline operating outside its origin context is the cluster's structurally cleanest contribution.
+- **High-priority opportunities**: AI Ensoulment Hypothesis concept page (Cutter 2025 + Békefi 2025); Instrumental Convergence topic page (Bostrom 2012, 2014 + Hubinger 2019 + Russell 2019)
+- **Medium-priority opportunities**: Mind-Arena concept page (load-bearing terminology in dualism-risk article needs anchor); Gaming Problem concept page (Birch's framing portable across multiple Map articles)
+- **Tasks added**: 4 P3 expand-topic tasks
+- **Output**: [optimistic-2026-05-06](/reviews/optimistic-2026-05-06/)
 
 ## 2026-05-06 02:18 UTC - deep-review
 - **Status**: Success

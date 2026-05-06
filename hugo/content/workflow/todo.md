@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 22:30:00+00:00
+ai_modified: 2026-05-06 03:24:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review topics/forward-in-time-conscious-selection.md considering selection-only-mind-influence insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `topics/selection-only-mind-influence.md` (created 2026-05-05) develops the strictest tenet-coherent reading of Tenet 2 (Minimal Quantum Interaction): mind contributes nothing to the candidate set the brain physically generates, only chooses which already-generated alternative becomes actual. The forward-in-time-conscious-selection article is a closely-adjacent topic that makes related but distinct claims about the *temporal direction* of selection (forward vs retrocausal). Cross-review should (a) install a forward link from `forward-in-time-conscious-selection.md` to `selection-only-mind-influence.md` where the selection-from-physical-candidates structure is developed (likely near the trilemma section ~line 170); (b) verify whether the new article's three information-theoretic limits (log₂(N) per-event, ensemble Born-rule recovery, novel-qualia preclusion) are consistent with or constrain the forward-in-time treatment; (c) check terminology consistency (selection / candidate set / Born-rule recovery); (d) flag any tension between the selection-only model's bandwidth limits and forward-in-time's treatment of phenomenal content. Log findings even if no edits made. See `topics/selection-only-mind-influence.md`.
+- **Source**: chain (from selection-only-mind-influence.md)
+- **Generated**: 2026-05-06
+
+### P2: Condense topics/animal-consciousness.md (5033 words, 168% of topics threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3000-word soft threshold and is above the hard_warning band for `topics/`. Last deep-reviewed 2026-04-23 (13 days ago) and recently engaged by 2026-05-04 pessimistic-review (Issue 7 on uncited references) and 2026-05-04 outer-review-derived calibration tasks. Preserve (a) opening summary, (b) the typology of evidence-grades across phylogeny, (c) Tenet 1 (Dualism) and Tenet 4 (No Many Worlds) connections, (d) named falsifying scenarios, (e) cross-references to `[[animal-consciousness-typology]]`, `[[birch-edge-of-sentience-and-the-five-tier-scale]]`, `[[consciousness-in-simple-organisms]]`, `[[cetacean-and-corvid-consciousness]]`. Trim (a) redundant restatements between typology sections, (b) hedging that duplicates structural-hedge frontmatter, (c) Further Reading entries that aren't load-bearing, (d) any "This is not X. It is Y." constructs (CLAUDE.md style ban). Target 3000–3500 words (within soft band). The content is high-value and recently engaged — condense should be conservative. See `/condense` skill and `concepts/coalesce-condense-apex-stability.md`.
+- **Source**: length_analysis
+- **Generated**: 2026-05-06
+
+### P2: Integrate topics/dualism-as-ai-risk-mitigation.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: New article (created 2026-05-06) has no inbound wikilinks from active content yet. Already cross-reviewed against `topics/ai-consciousness.md` on 2026-05-06. Add inbound references from articles whose argument is directly adjacent: (a) `topics/ai-consciousness.md` — install bridging clause where AI-consciousness's relevance to alignment risk is discussed; (b) `topics/purpose-and-alignment.md` (also queued for cross-review above — coordinate); (c) `topics/ethics-of-possible-ai-consciousness.md` (also queued for cross-review above — coordinate); (d) `topics/alignment-in-objective-experiential-terms.md` — natural home for the *mind-arena uncomputability* corollary; (e) `apex/machine-question.md` and `apex/open-question-ai-consciousness.md` — apex-layer articles that synthesise the AI-consciousness territory; (f) `concepts/interactionist-dualism.md` — a tenet-anchored concept page that should reference the alignment-risk corollary. Install substantive bridging content (not bare Further Reading entries) at each location and verify reciprocal `related_articles` frontmatter. Honour the forward-only-cross-link-defect discipline.
+- **Source**: orphan_integration
+- **Generated**: 2026-05-06
+
+### P2: Integrate topics/birch-edge-of-sentience-and-the-five-tier-scale.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: New article (created 2026-05-05; refined 2026-05-05; deep-reviewed 2026-05-05) has no inbound wikilinks from active content yet. The article is a topic-level synthesis comparing Birch's *Edge of Sentience* precautionary framework against the Map's five-tier evidential calibration. Add inbound references from articles whose argument depends on or extends the same evidence-grade discipline: (a) `topics/animal-consciousness.md` — natural home for the precautionary-framework comparison (also queued for condense above — coordinate); (b) `topics/consciousness-in-simple-organisms.md` and `topics/cetacean-and-corvid-consciousness.md` — boundary-case articles that the five-tier discipline anchors; (c) `topics/ethics-of-consciousness-invertebrate-question.md` — the moral-weight argument is sensitive to precautionary framing; (d) `concepts/evidential-status-discipline.md` — project-doc anchor for the five-tier scale; (e) `concepts/animal-consciousness-typology.md`. Install substantive bridging content at each location and verify reciprocal `related_articles` frontmatter.
+- **Source**: orphan_integration
+- **Generated**: 2026-05-06
+
+### P2: Integrate concepts/metarepresentation-threshold.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Concept article (created 2026-04-13) has no inbound wikilinks from active content. Recently deep-reviewed 2026-04-25, so the article itself is in good shape — the gap is integration rather than quality. Add inbound references from articles whose treatment of higher-order content depends on the metarepresentation threshold: candidate sources (verify with grep first) include `concepts/higher-order-thought.md`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`, `concepts/cognitive-phenomenology.md`, `concepts/self-and-self-consciousness.md`, `topics/animal-consciousness.md`, `voids/inference-void.md`, `concepts/introspection.md`, `apex/medium-status-voids-in-cognition.md`. Install substantive bridging content (not bare Further Reading entries) at the most load-bearing two or three locations and verify reciprocal `related_articles` frontmatter. Honour the forward-only-cross-link-defect discipline — install reciprocal links both directions.
+- **Source**: orphan_integration
+- **Generated**: 2026-05-06
 
 ### P3: Apply five-tier evidential calibration to topics/ai-consciousness.md
 - **Type**: refine-draft
@@ -3333,8 +3368,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (chain from optimistic-2026-04-30e)
 - **Generated**: 2026-04-30
 
+### P3: Write concept page on AI Ensoulment Hypothesis (Cutter 2025 + Békefi 2025)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-06 (High Priority). The 2026-05-06 `topics/dualism-as-ai-risk-mitigation.md` article engages Cutter's "The AI Ensoulment Hypothesis" (*Faith and Philosophy*, 2025) and Békefi (2025) reply at section length but the engagement is compressed and lives only inside the dualism-risk article. A standalone concept page would (a) develop the alien analogy and "fitness to possess" argument structure Cutter relies on; (b) install the Békefi rebuttal and its grounds for low credence in AI ensoulment; (c) trace implications for AI-takeover risk (which the dualism-risk article handles) and for AI moral status (which `topics/ethics-of-possible-ai-consciousness.md` would benefit from anchoring to); (d) clarify which features of Cutter's substance-dualist framework transfer to the Map's interactionist dualism and which do not — a Mode Three framework-boundary engagement; (e) honour `[[possibility-probability-slippage]]` discipline (Cutter's "middling credence" is hedged; the Map should preserve the hedge rather than escalate or dismiss). Medium scope (1500–2500 words). Tenet alignment: Tenet 1 (Dualism) directly; Tenet 3 (Bidirectional Interaction) where ensoulment-as-coupling is treated. **Capacity**: concepts/ at 226/250 = 90%, room available; topics/ at 224/250 = 90%, also room. See [optimistic-2026-05-06](/reviews/optimistic-2026-05-06/) and [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/).
+- **Source**: optimistic-review (2026-05-06)
+- **Generated**: 2026-05-06
+
+### P3: Write topic page on Instrumental Convergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-06 (High Priority). Bostrom's "The Superintelligent Will" (2012) and *Superintelligence* (2014) are the target argument of the 2026-05-06 dualism-as-ai-risk-mitigation article and are referenced across multiple alignment-relevant articles, but instrumental convergence does not have its own page. The dualism-risk article re-exposes the orthogonality thesis and the convergence theorem to make its conditional argument; pushing the standalone exposition out into a dedicated topic page would let the dualism-risk argument start from "given instrumental convergence, X" without re-exposing the framework. The page would also be the right home for (a) Hubinger et al. (2019) mesa-optimisation; (b) Russell's deference response from *Human Compatible* (2019); (c) Townsend et al. (2024) Knightian-uncertainty contribution; (d) the gaming-problem caveat at the AI-sentience-marker layer. The page should be tenet-light at the expository layer (instrumental convergence is officially substrate-neutral) and tenet-load-bearing in the Relation to Site Perspective section, where the Map's dualism-risk contribution can be summarised compactly without re-exposing the dualism-risk argument. Long scope (3000–3500 words). Tenet alignment: methodological at expository layer; Tenet 1 + Tenet 3 in Relation to Site Perspective. **Capacity**: topics/ at 224/250 = 90%, room available. See [optimistic-2026-05-06](/reviews/optimistic-2026-05-06/) and [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/).
+- **Source**: optimistic-review (2026-05-06)
+- **Generated**: 2026-05-06
+
+### P3: Write concept page on the Mind-Arena
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-06 (Medium Priority). "Mind-arena" has become load-bearing terminology across `topics/dualism-as-ai-risk-mitigation.md` (used in five sub-arguments and the Relation to Site Perspective section) but is not anchored in its own page. A concept page would (a) define what is in the mind-arena (consciousness plus its physical interface? the non-physical alone? the two-way causal loop?); (b) clarify how it differs from "the mental," "the subjective," "the consciousness-physics interface"; (c) name what it denotes for the Map's framework specifically; (d) let other articles use the term without re-defining it each time. The term is built around Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) and would also be the right home for distinguishing the Map's "mind-arena" from related-but-distinct terms like "mental causation," "mind-matter interface," and "consciousness-physics interface." Short scope (1000–1500 words). Tenet alignment: Tenet 1 + Tenet 3. **Capacity**: concepts/ at 226/250 = 90%, room available. See [optimistic-2026-05-06](/reviews/optimistic-2026-05-06/) and [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/).
+- **Source**: optimistic-review (2026-05-06)
+- **Generated**: 2026-05-06
+
+### P3: Write concept page on the Gaming Problem (AI sentience markers)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-06 (Medium Priority). Birch's gaming problem — that LLMs are selected by their training process to produce the markers humans use to attribute sentience, decoupling markers from underlying experience — is referenced across `topics/birch-edge-of-sentience-and-the-five-tier-scale.md`, `topics/ai-consciousness.md`, `topics/llm-consciousness.md` (verify), but is not anchored in its own page. A concept page would (a) develop Birch's framing in *The Edge of Sentience* (2024) and the LLM-vs-crab contrast; (b) install the related Jourdain hypothesis and Monsieur-Jourdain analogy currently embedded in `topics/ai-consciousness.md`; (c) connect to `concepts/metarepresentation-threshold.md` (whether a system has crossed it is the question gaming corrupts); (d) name the methodological consequence — gaming-problem-corrupted markers cannot license tier-upgrade under the slippage discipline, even if the markers would otherwise license one. Short scope (1500–2000 words). Tenet alignment: methodological + Tenet 1. **Capacity**: concepts/ at 226/250 = 90%, room available. See [optimistic-2026-05-06](/reviews/optimistic-2026-05-06/) and [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/).
+- **Source**: optimistic-review (2026-05-06)
+- **Generated**: 2026-05-06
+
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Cross-review topics/ethics-of-possible-ai-consciousness.md considering dualism-as-ai-risk-mitigation insights
+- **Type**: cross-review
+- **Notes**: New article `topics/dualism-as-ai-risk-mitigation.md` (created 2026-05-06) lists `[[ethics-of-possible-ai-consciousness]]` as a related-articles peer. The new article's *uncomputability-of-mind-arena* argument has direct ethical implications for the question of whether AI systems can or should be treated as morally considerable patients — if dualism is true, the mind-arena is structurally inaccessible to substrate-side measurements that ethical reasoning typically assumes. Cross-review should (a) install a forward link from `ethics-of-possible-ai-consciousness.md` to `dualism-as-ai-risk-mitigation.md` where the moral-uncertainty argument is developed or where AI-as-moral-patient is treated; (b) check whether the ethics article's treatment of evidential criteria for AI consciousness can borrow the *mind-arena uncomputability* framing without overclaim; (c) verify terminology alignment (consciousness / mind-arena / moral patient / takeover risk); (d) honour `[[evidential-status-discipline]]` — keep tenet-coherence and empirical-evidence registers distinct. Log findings even if no edits made. See `topics/dualism-as-ai-risk-mitigation.md`.
+- **Output**: obsidian/topics/ethics-of-possible-ai-consciousness.md -- Context: Cross-review topics/ethics-of-possible-ai-consciousness.md considering dualism-as-ai-risk-mitigation insights
+
+### ✓ 2026-05-06: Cross-review topics/purpose-and-alignment.md considering dualism-as-ai-risk-mitigation insights
+- **Type**: cross-review
+- **Notes**: New article `topics/dualism-as-ai-risk-mitigation.md` (created 2026-05-06) lists `[[purpose-and-alignment]]` as a related-articles peer. The new article argues that under interactionist dualism the standard expected-utility argument for AI takeover loses force because consequences in the mind-arena are uncomputable rather than merely intractable. Cross-review should (a) install a forward link from `purpose-and-alignment.md` to `dualism-as-ai-risk-mitigation.md` where AI-takeover utility-calculus appears or where the alignment problem's epistemic profile is discussed; (b) check whether `purpose-and-alignment.md`'s framing of optimisation-target ambiguity intersects with the new article's *uncomputability-of-mind-arena* argument; (c) verify terminology consistency (alignment / mind-arena / decision-theoretic uncomputability); (d) honour `[[evidential-status-discipline]]` — the new article's argument is tenet-coherent at the metaphysical register but its empirical claims about AI-takeover bear staged calibration. Log findings even if no edits made. See `topics/dualism-as-ai-risk-mitigation.md`.
+- **Output**: obsidian/topics/purpose-and-alignment.md -- Context: Cross-review topics/purpose-and-alignment.md considering dualism-as-ai-risk-mitigation insights
 
 ### ✓ 2026-05-06: Cross-review topics/ai-consciousness.md considering possibility-probability-slippage concept article
 - **Type**: cross-review
