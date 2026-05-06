@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T19:22:00+00:00
+ai_modified: 2026-05-06T20:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 20:21 UTC - expand-topic (decision: defer)
+- **Status**: Decided — do not create concept page
+- **Task**: Decide whether to chain a sibling concept-page on `arena-magnitude-bounds-and-active-protection` after the unbounded-impact / active-protection install in [[topics/dualism-as-ai-risk-mitigation]]
+- **Decision**: No — defer indefinitely; the structural argument is best left in its parent-topic home rather than extracted to a hub concept page. Decision logged here to prevent replenishment regeneration.
+- **Reasoning against the proposed slug**:
+  1. *Compound concept fails decomposition test.* The proposed name combines two distinct ideas — (a) structural absence of a derivable magnitude bound on arena effects, and (b) possibility of arena-side responsive/active protection mechanisms. They share rhetorical adjacency in the parent §"Unbounded Impact and Active Protection" but do not form a single coherent definitional unit. A concept page that hosts both would be artificial; one that hosts only one would lose the structural pairing the section's argument trades on.
+  2. *The structural-magnitude-bound claim is a derivation, not a building block.* The claim "no derivation from physical state fixes the scale at which the arena's [[causal-powers]] can operate" is a *consequence* of existing concepts ([[causal-powers]] + [[bidirectional-interaction]] + the underdetermination they jointly generate). Concepts that are pure consequences of existing concepts belong as cross-reference notes inside those existing pages rather than as new pages. A brief note in [[causal-powers]] or [[bidirectional-interaction]] pointing at [[topics/dualism-as-ai-risk-mitigation]] for the AI-risk consequence would carry the cross-link load more cleanly than a hub page.
+  3. *Active-protection content is speculative-integration tier — too high to elevate to definitional status.* The parent article explicitly tags the active-protection sketch as "speculative-integration-tier hypotheses about what the arena could be — the structural absence of a derivable magnitude bound and the structural possibility of responsive arena dynamics, not empirical claims about the arena's actual scope" (line 115). Promoting that sketch to a Map concept-page would itself be a [[possibility-probability-slippage]] hazard at the editorial register: the framing-as-concept implies more settled territory than the parent's modal hedging permits.
+  4. *Pascal's-mugging-vs-structural-unboundedness distinction is methodological, not concept-tier.* The most cross-applicable single thread inside the proposed concept is the structural-vs-constructed distinction the parent uses to absorb Bostrom's anti-mugging response. If that distinction warrants extraction, the right home is a `project/` methodological doc on direct-refutation discipline (where the structural-vs-constructed distinction is mode-one engagement with Bostrom's own criterion), not a concepts-section page.
+  5. *Parent topic carries the argument self-sufficiently.* The 2026-05-06 install + condense + deep-review cycle has stabilised §5 of [[topics/dualism-as-ai-risk-mitigation]] into a self-contained ~12-paragraph development with named worked example (false-vacuum), Pascal's-mugging engagement, modal-register honesty, and active-protection sketch. Future articles wanting to engage these claims have a clean cross-link target at the topic level. Reference duplication in a sibling concept page would not improve discoverability.
+  6. *Capacity discipline.* concepts/ at 230/250 — the marginal slot has cost. The two existing P3 concept-creation tasks (`mind-arena` definitional concept; `Gaming Problem` concept) both have stronger standalone-concept warrants (single coherent idea, multi-article cross-reference need already evident) and should be preferred ahead of this one if a slot is to be spent.
+- **What this decision is NOT**: not a rejection of the structural argument itself, which is intact and load-bearing in the parent topic; not a refusal to install cross-link hooks elsewhere — a brief sentence inside [[causal-powers]] or [[bidirectional-interaction]] pointing at the parent-topic §5 would be a cleaner alternative if cross-linking demand surfaces.
+- **Re-evaluation trigger**: if three or more future articles independently want to cross-link to the structural-magnitude-bound claim or the active-protection sketch with bridging text that is materially shared across them, revisit — that pattern would constitute the multi-article-cross-reference warrant the current decision finds absent. Until then, the parent-topic anchor suffices.
+- **Output**: no new article. Task moved to Completed in `obsidian/workflow/todo.md` with reasoning summary; this changelog entry is the canonical deferral record.
 
 ## 2026-05-06 19:22 UTC - deep-review
 - **Status**: Success

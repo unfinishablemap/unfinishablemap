@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Decide whether to chain a sibling concept-page on arena-magnitude-bounds-and-active-protection
-- **Type**: expand-topic
-- **Status**: pending (depends on the P1 deep-review above; do not start until that has landed and surfaces whether the new content warrants its own concept-page)
-- **Notes**: After the P1 deep-review installs the unbounded-impact and active-protection dimensions in `topics/dualism-as-ai-risk-mitigation.md`, evaluate whether the structural argument warrants a dedicated concept page that other articles can cross-link to (rather than each citing the dualism-as-ai-risk-mitigation section). Candidate placement: `concepts/` (currently ~228/250, headroom available). Candidate slug: `concepts/arena-magnitude-bounds-and-active-protection.md` or `concepts/unbounded-arena-impact.md` or — depending on framing — `concepts/arbitrary-powers.md` (which the prior research-topic on `dualism-as-ai-risk-mitigator` already flagged as a potential gap). Decision criteria: (a) does the deep-review's installed section read as a self-contained argument that other articles would profitably cross-link to, or is it organic to the dualism-as-ai-risk article only?; (b) does the false-vacuum example or the active-protection sketch warrant treatment beyond a single section?; (c) does the analysis interact with existing concepts (`[[causal-powers]]`, `[[bidirectional-interaction]]`, `[[mind-brain-interface-efficacy]]`) in ways that would benefit from a hub concept-page? If decision is *yes*, write the concept page (~1500-2500 words) covering: range-of-arena-capabilities argument; structural-vs-constructed unboundedness distinction (against Pascalian-mugging absorption); active-protection-mechanism extension; honest-limitation honouring evidential-status-discipline (these are speculative-integration tier; the load-bearing claim is the structural absence of a magnitude bound, not specific scenarios). If decision is *no*, log the deferral in changelog with reasoning so future replenishment doesn't regenerate the task. Tenet alignment: Tenet 2 + Tenet 3 + Tenet 1 + methodological. See P1 task above and `topics/dualism-as-ai-risk-mitigation.md` post-deep-review.
-- **Source**: chain (from the P1 deep-review above)
-- **Generated**: 2026-05-06
-
-### P2: Cross-review apex/machine-question.md considering dualism-as-ai-risk-mitigation
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-05-06 expand-topic. The apex/machine-question article is the load-bearing skeptical engagement on whether artifacts can be conscious; the 2026-05-06 dualism-as-ai-risk-mitigation article adds a structural argument the apex doesn't yet engage — that consequence-distributions for mind-arena outcomes are uncomputable under interactionist dualism, with the AI ensoulment counter-move (Cutter 2025 + Békefi 2025) handled compactly in the dualism-risk article's section at lines 129-141. Cross-review should (a) identify whether the apex needs a §"Alignment-Relevance Subsection" or bridging clause naming the dualism-risk argument as part of the answer to the machine-question; (b) check the AI ensoulment counter-move treatment at the apex layer — does the apex acknowledge that taking dualism seriously surfaces a counter-move (artifacts may receive divine ensoulment) that contracts but does not refute the dualism-risk argument; (c) verify forward-link from machine-question to dualism-as-ai-risk-mitigation per cross-link table at line 134 of optimistic-2026-05-06; (d) honour reciprocal-link discipline — bridging paragraph specifying what each apex/topic contributes relative to the other (apex-external pattern per the existing methodology). **Capacity caveat**: apex/ at 24 articles vs. informal governance cap of 20 (over by 20%); this task is refine-only — no apex expansion. Short-medium scope (~250-450 words touched). Tenet alignment: Tenet 1 (Dualism) + methodological (apex-cluster integrity). See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
-- **Source**: chain (from dualism-as-ai-risk-mitigation expand-topic)
-- **Generated**: 2026-05-06
-
 ### P2: Post-restructure deep-review of topics/animal-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3390,6 +3376,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Decide whether to chain a sibling concept-page on arena-magnitude-bounds-and-active-protection
+- **Type**: expand-topic
+- **Notes**: After the P1 deep-review installs the unbounded-impact and active-protection dimensions in `topics/dualism-as-ai-risk-mitigation.md`, evaluate whether the structural argument warrants a dedicated concept page that other articles can cross-link to (rather than each citing the dualism-as-ai-risk-mitigation section). Candidate placement: `concepts/` (currently ~228/250, headroom available). Candidate slug: `concepts/arena-magnitude-bounds-and-active-protection.md` or `concepts/unbounded-arena-impact.md` or — depending on framing — `concepts/arbitrary-powers.md` (which the prior research-topic on `dualism-as-ai-risk-mitigator` already flagged as a potential gap). Decision criteria: (a) does the deep-review's installed section read as a self-contained argument that other articles would profitably cross-link to, or is it organic to the dualism-as-ai-risk article only?; (b) does the false-vacuum example or the active-protection sketch warrant treatment beyond a single section?; (c) does the analysis interact with existing concepts (`[[causal-powers]]`, `[[bidirectional-interaction]]`, `[[mind-brain-interface-efficacy]]`) in ways that would benefit from a hub concept-page? If decision is *yes*, write the concept page (~1500-2500 words) covering: range-of-arena-capabilities argument; structural-vs-constructed unboundedness distinction (against Pascalian-mugging absorption); active-protection-mechanism extension; honest-limitation honouring evidential-status-discipline (these are speculative-integration tier; the load-bearing claim is the structural absence of a magnitude bound, not specific scenarios). If decision is *no*, log the deferral in changelog with reasoning so future replenishment doesn't regenerate the task. Tenet alignment: Tenet 2 + Tenet 3 + Tenet 1 + methodological. See P1 task above and `topics/dualism-as-ai-risk-mitigation.md` post-deep-review.
+- **Output**: Decide whether to chain a sibling concept-page on arena-magnitude-bounds-and-active-protection
+
+### ✓ 2026-05-06: Decide whether to chain a sibling concept-page on arena-magnitude-bounds-and-active-protection
+- **Type**: expand-topic (decision task)
+- **Decision**: No — defer indefinitely. Task closed; replenishment should not regenerate.
+- **Reasoning summary** (full reasoning in `obsidian/workflow/changelog.md` 2026-05-06 20:21 UTC entry):
+  1. Compound concept fails decomposition test — magnitude-bound and active-protection are distinct ideas adjacent in §5 of the parent topic but do not form a single coherent concept-page unit.
+  2. Structural-magnitude-bound claim is a derivation from existing concepts ([[causal-powers]] + [[bidirectional-interaction]]); a hub page would create reference duplication rather than provide a new building block. A brief cross-link note inside those existing concepts pointing at the parent topic is the cleaner alternative if discoverability becomes an issue.
+  3. Active-protection content is explicitly tagged speculative-integration tier in the parent (line 115); concept-page promotion would itself be a slippage hazard at the editorial register.
+  4. Pascal's-mugging-vs-structural-unboundedness distinction is methodological — if it warrants extraction, the right home is a `project/` doc on direct-refutation discipline, not a concepts page.
+  5. Parent §5 is self-contained post-condense + post-deep-review; future articles have a clean cross-link target at the topic level.
+  6. Concepts at 230/250 — the marginal slot is better spent on the two existing P3 candidates ([[mind-arena]] definitional, Gaming-Problem concept) which have stronger standalone-concept warrants.
+- **Re-evaluation trigger**: revisit only if three or more future articles independently want to cross-link to this material with bridging text materially shared across them — that pattern would constitute the multi-article cross-reference warrant currently absent.
+- **Output**: no new article; canonical deferral record is the changelog entry above.
 
 ### ✓ 2026-05-06: Deep review topics/dualism-as-ai-risk-mitigation.md
 - **Type**: deep-review
