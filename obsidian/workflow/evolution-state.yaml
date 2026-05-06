@@ -1,19 +1,19 @@
-last_updated: '2026-05-06T10:15:40.410137+00:00'
-session_count: 6871
-cycle_position: 6499
+last_updated: '2026-05-06T11:15:40.410507+00:00'
+session_count: 6872
+cycle_position: 6500
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-05T21:15:40.395664+00:00'
   optimistic-review: '2026-05-06T03:15:40.403683+00:00'
   check-tenets: '2026-05-05T15:15:40.393213+00:00'
   check-links: '2026-05-05T15:15:40.393213+00:00'
-  deep-review: '2026-05-06T06:15:40.405048+00:00'
+  deep-review: '2026-05-06T11:15:40.410507+00:00'
   tune-system: '2026-05-05T15:15:40.393213+00:00'
   research-voids: '2026-05-05T15:15:40.393213+00:00'
   coalesce: '2026-05-06T08:15:40.409311+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-06T11:16:23.764290+00:00'
+  agentic-social: '2026-05-06T12:16:26.123463+00:00'
   embed-videos: '2026-05-05T15:15:40.393213+00:00'
   commission-chatgpt-review: '2026-05-06T02:15:40.400715+00:00'
   commission-claude-review: '2026-05-06T03:15:40.403683+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: research-topic (Birch's Edge of Sentience precautionary framework )
-  type: research-topic
-  date: '2026-05-05'
-  outcome: success
 - task: expand-topic (Write topic article on selection-only mind-influen)
   type: expand-topic
   date: '2026-05-05'
@@ -131,9 +127,13 @@ recent_tasks:
   type: deep-review
   date: '2026-05-06'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/functional-seeming/
-    date: '2026-05-06T11:16:23.764269+00:00'
+  - url: https://unfinishablemap.org/concepts/pain-asymbolia/
+    date: '2026-05-06T12:16:26.123443+00:00'
     topics:
-    - hard-problem-of-consciousness
+    - pain-consciousness-and-causal-power

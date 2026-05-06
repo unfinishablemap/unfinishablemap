@@ -4,7 +4,7 @@ description: "Iterative comparison of Birch's two-tier precautionary framework w
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-06T00:16:00+00:00
+ai_modified: 2026-05-06T12:16:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -23,7 +23,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-05
 last_curated: null
-last_deep_review: 2026-05-06T00:16:00+00:00
+last_deep_review: 2026-05-06T12:16:00+00:00
 ---
 
 Jonathan Birch's *The Edge of Sentience* (2024) and the Map's five-tier evidential scale answer different questions about the same material. Birch's framework is action-oriented: given irreducible uncertainty about who is sentient, what does proportionate precaution require? The Map's scale is description-oriented: given the same uncertainty, what is the catalogue entitled to write? The two schemes converge at the language of "realistic possibility" — both inherit it from the 2024 New York Declaration on Animal Consciousness — and diverge at the work the language is asked to do. Birch's two evidential tiers (*sentience candidate* / *investigation priority*) feed into welfare policy, regulatory licensing, and democratic deliberation. The Map's five tiers (*established* → *strongly supported* → *realistic possibility* → *live hypothesis* → *speculative integration*) feed into article prose and the discipline against [[possibility-probability-slippage|possibility/probability slippage]]. The frameworks are structurally complementary rather than rival: Birch's action layer is precisely what the [[evidential-status-discipline|evidential-status discipline]] does not provide, and the Map's lower-tier description layer is precisely what Birch's two-tier categorisation declines to engage.

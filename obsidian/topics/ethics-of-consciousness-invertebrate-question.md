@@ -4,7 +4,7 @@ description: "Dualism implies moral obligations wherever consciousness couples w
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-15T12:50:00+00:00
+ai_modified: 2026-05-06T12:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ Crustaceans occupy a middle position. Decapod crustaceans show nociceptive behav
 
 ## The Precautionary Framework
 
-Jonathan Birch's precautionary framework for animal sentience, developed for the UK government and extended in *The Edge of Sentience* (2024), offers a principled approach to moral uncertainty. The core idea: when there is a realistic possibility that an animal is sentient, that possibility should be given "appropriate weight in policy decisions," even without scientific certainty.
+Jonathan Birch's precautionary framework for animal sentience, developed for the UK government and extended in *The Edge of Sentience* (2024), offers a principled approach to moral uncertainty. The core idea: when there is a realistic possibility that an animal is sentient, that possibility should be given "appropriate weight in policy decisions," even without scientific certainty. The Map's dedicated comparison of Birch's two-tier scheme with its own [[birch-edge-of-sentience-and-the-five-tier-scale|five-tier evidential scale]] develops the action-versus-description complementarity in detail; the precautionary apparatus described here is what the Map adopts at the action layer.
 
 The Map's dualist framework provides an independent argument for this same conclusion. If consciousness is non-physical, then the absence of neural evidence for consciousness in an organism does not establish the absence of consciousness—it establishes only that we cannot detect it through physical observation. The explanatory gap between physical and phenomenal applies to invertebrates just as it applies to humans. Requiring certainty about invertebrate consciousness before extending moral consideration is epistemically unjustified precisely because the kind of certainty demanded—direct observation of another being's experience—is impossible in principle, not just in practice.
 

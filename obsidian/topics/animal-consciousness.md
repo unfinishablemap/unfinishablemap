@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-05-06T09:16:00+00:00
+ai_modified: 2026-05-06T12:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -127,7 +127,7 @@ The case for subcortical valenced experience is a realistic possibility, contest
 
 ## Moral Status
 
-Birch (2024) distinguishes **valence sentientism** (moral status requires capacity for suffering/enjoyment) from **broad sentientism** (any phenomenal consciousness creates moral significance). [[topics/phenomenal-value-realism|Phenomenal value realism]] strengthens valence sentientism: if the felt badness of suffering *constitutes* intrinsic badness, animal suffering instantiates the same value property as human suffering, not merely an analogue. Chalmers' "philosophical Vulcan"—a being with consciousness but no valence—tests the distinction.
+Birch (2024) distinguishes **valence sentientism** (moral status requires capacity for suffering/enjoyment) from **broad sentientism** (any phenomenal consciousness creates moral significance); see [[birch-edge-of-sentience-and-the-five-tier-scale]] for the Map's structured comparison of Birch's two-tier evidential scheme with its own five-tier scale at the description layer. [[topics/phenomenal-value-realism|Phenomenal value realism]] strengthens valence sentientism: if the felt badness of suffering *constitutes* intrinsic badness, animal suffering instantiates the same value property as human suffering, not merely an analogue. Chalmers' "philosophical Vulcan"—a being with consciousness but no valence—tests the distinction.
 
 If animal suffering is real suffering, it matters morally regardless of scientific verification. The [[ethics-of-consciousness-invertebrate-question|invertebrate ethics question]] extends this to its most challenging frontier: if insects, cephalopods, and crustaceans sit at **realistic possibility, contested**, the precautionary scale of moral obligation already becomes staggering—trillions of potentially conscious beings in agricultural systems alone.
 

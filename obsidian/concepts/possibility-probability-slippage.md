@@ -4,7 +4,7 @@ description: "The reasoning move where a tenet that secures the metaphysical pos
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-05T11:16:00+00:00
+ai_modified: 2026-05-06T12:16:00+00:00
 last_deep_review: 2026-05-05T11:16:00+00:00
 draft: false
 topics: []
@@ -81,6 +81,7 @@ Naming the slippage is also what makes the catalogue's stronger claims credible.
 ## Further Reading
 
 - [[evidential-status-discipline]] — the operational discipline the slippage concept anchors; installs the five-tier evidential scale and the diagnostic test
+- [[birch-edge-of-sentience-and-the-five-tier-scale]] — the structured comparison of Birch's precautionary scheme with the five-tier scale; shows how the two frameworks guard against opposite-direction slippage at different layers (action versus description) and inherit the same "realistic possibility" register from the 2024 New York Declaration
 - [[direct-refutation-discipline]] — sister discipline at the reasoning-mode level; how the catalogue argues against opponents without substituting tenet-perimeter rejection for direct argument
 - [[framework-stage-calibration]] — sister discipline at the framework level; how the catalogue characterises its own developmental stage to avoid stage-mismatched analogies
 - [[coherence-inflation-countermeasures]] — sister discipline at the system level; safeguards against the broader pattern of treating internal consistency as evidence, of which slippage is the calibration-layer instance
