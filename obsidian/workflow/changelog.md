@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T05:16:00+00:00
+ai_modified: 2026-05-06T06:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 06:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Word count**: 3937 → 3946 (+9; 132% of 3000-word soft threshold; under 4000 hard threshold)
+- **Trigger**: First deep review (article created 2026-05-06; never reviewed)
+- **Critical issues addressed**: 3 — (1) Missing AI Impacts citation in references list (in-text mention with no reference entry); (2) Date inconsistency for Leike & Hutter ("2015–2018" in text vs "2018" in references) aligned to "2018"; (3) Author-order mismatch for Yampolskiy/Ziesche aligned to reference order.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added AI Impacts reference + inline year clarification). Length-neutral: +9 words against an existing 132%-of-soft-threshold article; no expansion sections added.
+- **Reasoning-mode classifications** (changelog-only per [[direct-refutation-discipline]]): Engagement with Bostrom = Mode Mixed (Two: identifies consequence-evaluability as load-bearing assumption Bostrom helps himself to; Three: dualist tenet-conditional layer flagged as register-shift). Engagement with Russell = Mode Three / absorption (extension, not refutation). Engagement with Cutter = Mode Mixed (One + Three) — concedes scope contraction on Cutter's own substance-dualism + AGI conditional, then marks the boundary residue. No boundary substitution; no editor-vocabulary leakage in article body.
+- **Possibility/probability slippage check**: clean. Conditional/empirical distinction held throughout (§1, §6, §9). Diagnostic test (would a tenet-accepting reviewer flag any claim as overstated?) returns no critical hits.
+- **Attribution accuracy check**: Bostrom, Russell, Cutter, Townsend et al. quotes substantively accurate; no dropped qualifiers; conditional framing preserved.
+- **Stability**: First deep review. Bedrock disagreements (eliminativist, hard-nosed physicalist, Many-Worlds, quantum-skeptic) at framework boundary; honestly absorbed by article's conditional structure and not flagged. Length budget noted: future revisions length-neutral.
+- **Output**: [[reviews/deep-review-2026-05-06-dualism-as-ai-risk-mitigation]]
 
 ## 2026-05-06 05:16 UTC - deep-review
 - **Status**: Success

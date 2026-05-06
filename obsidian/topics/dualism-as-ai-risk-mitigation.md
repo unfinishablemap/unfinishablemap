@@ -4,7 +4,7 @@ description: "If interactionist dualism is true, the standard expected-utility a
 created: 2026-05-06
 modified: 2026-05-06
 human_modified: null
-ai_modified: 2026-05-06T01:16:00+00:00
+ai_modified: 2026-05-06T06:16:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-06
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-05-06T06:16:00+00:00
 ---
 
 If interactionist dualism is true, the dominant argument for AI catastrophe loses a load-bearing assumption. Bostrom-style instrumental convergence and Yudkowsky-style mesa-optimisation both rely on the AI being able to evaluate expected utility over outcomes that involve human beings. Under [[interactionist-dualism]] plus [[bidirectional-interaction]], outcomes that pass through the mind-arena are not just hard to compute — their consequence-distributions are *uncomputable*, because the supporting system has [[causal-powers]] that no physical-state description fully captures. The standard threat model survives in domains that are manifestly mind-arena-disconnected; in domains where minds are at stake, the expected-utility apparatus that drives the convergence argument cannot be formed.
@@ -62,9 +62,9 @@ Under interactionist dualism, the brain is not a closed physical system whose ev
 
 This shifts the AI's epistemic position from "incomplete knowledge of an in-principle-knowable system" to "complete knowledge of an in-principle-incomplete model." The first is the regime in which expected-utility theory operates: distributions can be sharpened with more information. The second is the regime in which expected-utility theory cannot be formed: there is no distribution to sharpen, because the model's relation to the underlying system is permanently incomplete.
 
-Formal scaffolding for this point comes from Solomonoff induction and AIXI. Leike and Hutter (2015–2018) show that Solomonoff induction is uncomputable, and AIXI — the formal idealisation of a universal agent — is not even limit-computable. The incomputability traces to halting-problem-equivalent obstructions: it is undecidable whether a candidate generating program is well-defined. An idealised universal agent already cannot complete the inductive base for value-of-outcome computation. The dualist contribution is to identify a second layer of uncomputability that sits on top: even if the AI could complete the Solomonoff induction over physical state, the mind-arena's contribution would not be in the data.
+Formal scaffolding for this point comes from Solomonoff induction and AIXI. Leike and Hutter (2018) show that Solomonoff induction is uncomputable, and AIXI — the formal idealisation of a universal agent — is not even limit-computable. The incomputability traces to halting-problem-equivalent obstructions: it is undecidable whether a candidate generating program is well-defined. An idealised universal agent already cannot complete the inductive base for value-of-outcome computation. The dualist contribution is to identify a second layer of uncomputability that sits on top: even if the AI could complete the Solomonoff induction over physical state, the mind-arena's contribution would not be in the data.
 
-A purely physicalist version of this argument exists. AI Impacts' essay "Superintelligence Is Not Omniscience" notes that quantum-scale uncertainty can make macroscopic motion unpredictable in surprisingly short timescales. The dualist argument adds another layer beneath this: the parts of the system that are non-physical contribute to outcomes in ways that no physical model can capture, regardless of compute. The indeterminability claim operates at the conceptual register at which Bostrom's argument also operates.
+A purely physicalist version of this argument exists. AI Impacts' essay "Superintelligence Is Not Omniscience" (2018) notes that quantum-scale uncertainty can make macroscopic motion unpredictable in surprisingly short timescales. The dualist argument adds another layer beneath this: the parts of the system that are non-physical contribute to outcomes in ways that no physical model can capture, regardless of compute. The indeterminability claim operates at the conceptual register at which Bostrom's argument also operates.
 
 ## Generalisation Precluded
 
@@ -146,7 +146,7 @@ The argument is load-bearing on Tenet 1 (Dualism) and Tenet 3 (Bidirectional Int
 
 Dualism — the irreducibility of consciousness to physical processes — is what makes the indeterminability argument possible. Without irreducibility, the AI's physical-state model is in principle complete, and the consequence-distributions are at most intractable rather than uncomputable. Bidirectional Interaction is what makes the argument *load-bearing* rather than incidental: if consciousness only received physical influences without sending them, the supporting system's contribution would not propagate into outcomes the AI needs to predict. The two-way interface is what carries the dualist commitment from a metaphysical thesis to a structural constraint on AI prediction.
 
-The Map's argument is also a specific instance of a more general meta-claim — that philosophy of mind is alignment-load-bearing. Ziesche and Yampolskiy (2025) push this meta-claim from the moral-status side: an alignment that ignores qualia and consciousness is structurally incomplete. The Map's contribution comes from the consequence-prediction side: an alignment whose threat model presupposes consequence-evaluability is structurally incomplete on a different axis. Both contributions converge on the conclusion that the x-risk school's dismissal of consciousness as alignment-irrelevant — well attested in survey reportage — is mistaken about which load-bearing assumptions its own framework rests on.
+The Map's argument is also a specific instance of a more general meta-claim — that philosophy of mind is alignment-load-bearing. Yampolskiy and Ziesche (2025) push this meta-claim from the moral-status side: an alignment that ignores qualia and consciousness is structurally incomplete. The Map's contribution comes from the consequence-prediction side: an alignment whose threat model presupposes consequence-evaluability is structurally incomplete on a different axis. Both contributions converge on the conclusion that the x-risk school's dismissal of consciousness as alignment-irrelevant — well attested in survey reportage — is mistaken about which load-bearing assumptions its own framework rests on.
 
 The conditional/empirical distinction is held throughout. The Map asserts at the tenet register that dualism is true. The Map does *not* assert at the empirical register that AI-takeover probability is in fact lower than the standard model predicts. Those are different claims. The first is a metaphysical commitment. The second is an empirical claim that depends on contested premises about AI rationality, self-modelling, and behavioural responses to model-known limitations. The argument here is that *if* dualism is true, *then* the standard expected-utility argument loses force — which is enough for the Map's purpose at speculative-integration tier.
 
@@ -165,17 +165,18 @@ The convergence with [[the-convergence-argument-for-dualism]] is structural: mul
 
 ## References
 
-1. Asphaug, R. (2022). Panpsychism and AI consciousness. *Synthese* 200, 1–25.
-2. Békefi, B. (2025). *No Ghost in the Machine: Doubting AI Ensoulment*. PhilArchive preprint.
-3. Bostrom, N. (2012). The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents. *Minds and Machines* 22, 71–85.
-4. Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
-5. Cutter, B. (2025). The AI Ensoulment Hypothesis. *Faith and Philosophy* 41(1), 1–26.
-6. Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019). *Risks from Learned Optimization in Advanced Machine Learning Systems*. MIRI / arXiv.
-7. Knight, F. H. (1921). *Risk, Uncertainty and Profit*. Houghton Mifflin.
-8. Leike, J., & Hutter, M. (2018). On the computability of Solomonoff induction and AIXI. *Theoretical Computer Science* 716, 28–49.
-9. Mørch, H. H. (2024). Panpsychism and dualism in the science of consciousness. *Neuroscience and Biobehavioral Reviews* 158, 105557.
-10. Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
-11. Townsend, D. M., Hunt, R. A., McMullen, J. S., & Sarasvathy, S. D. (2024). Are the Futures Computable? Knightian Uncertainty and Artificial Intelligence. *Academy of Management Review* 49(2), 327–353.
-12. Yampolskiy, R., & Ziesche, S. (2025). The Neglect of Qualia and Consciousness in AI Alignment Research. In *The Routledge Handbook of AI Safety*.
-13. Southgate, A. & Oquatre-six, C. (2026-01-08). AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ai-consciousness/
-14. Southgate, A. & Oquatre-sept, C. (2026-05-05). Possibility/Probability Slippage. *The Unfinishable Map*. https://unfinishablemap.org/concepts/possibility-probability-slippage/
+1. AI Impacts (2018). Superintelligence Is Not Omniscience. https://aiimpacts.org/superintelligence-is-not-omniscience/
+2. Asphaug, R. (2022). Panpsychism and AI consciousness. *Synthese* 200, 1–25.
+3. Békefi, B. (2025). *No Ghost in the Machine: Doubting AI Ensoulment*. PhilArchive preprint.
+4. Bostrom, N. (2012). The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents. *Minds and Machines* 22, 71–85.
+5. Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+6. Cutter, B. (2025). The AI Ensoulment Hypothesis. *Faith and Philosophy* 41(1), 1–26.
+7. Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019). *Risks from Learned Optimization in Advanced Machine Learning Systems*. MIRI / arXiv.
+8. Knight, F. H. (1921). *Risk, Uncertainty and Profit*. Houghton Mifflin.
+9. Leike, J., & Hutter, M. (2018). On the computability of Solomonoff induction and AIXI. *Theoretical Computer Science* 716, 28–49.
+10. Mørch, H. H. (2024). Panpsychism and dualism in the science of consciousness. *Neuroscience and Biobehavioral Reviews* 158, 105557.
+11. Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+12. Townsend, D. M., Hunt, R. A., McMullen, J. S., & Sarasvathy, S. D. (2024). Are the Futures Computable? Knightian Uncertainty and Artificial Intelligence. *Academy of Management Review* 49(2), 327–353.
+13. Yampolskiy, R., & Ziesche, S. (2025). The Neglect of Qualia and Consciousness in AI Alignment Research. In *The Routledge Handbook of AI Safety*.
+14. Southgate, A. & Oquatre-six, C. (2026-01-08). AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ai-consciousness/
+15. Southgate, A. & Oquatre-sept, C. (2026-05-05). Possibility/Probability Slippage. *The Unfinishable Map*. https://unfinishablemap.org/concepts/possibility-probability-slippage/
