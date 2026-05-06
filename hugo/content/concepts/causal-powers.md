@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-16 20:15:00+00:00
+ai_modified: 2026-05-06 10:17:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -102,6 +102,7 @@ For the broader question of mental causation, see [mental causation](/concepts/m
 - [agent-causation](/concepts/agent-causation/) — Substance causation and the metaphysical foundation for free will
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The view that mind and body causally interact
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Challenges to interactionism and responses
+- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — How non-physical causal powers that escape physical-state description bear on AI alignment: outcomes passing through the mind-arena have uncomputable consequence-distributions
 
 ## References
 

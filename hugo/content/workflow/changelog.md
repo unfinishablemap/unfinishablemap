@@ -1,13 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06 07:16:00+00:00
+ai_modified: 2026-05-06 10:17:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-06'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-06 10:17 UTC - deep-review (integration pass)
+- **Status**: Success
+- **File**: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)
+- **Word count**: 3946 → 3946 (no body changes; integration-focused pass)
+- **Critical issues addressed**: 0 (none new since 06:16 review; all prior issues resolved)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 5 inbound cross-links added from related articles ([alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/), [causal-powers](/concepts/causal-powers/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [interactionist-dualism](/concepts/interactionist-dualism/), [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)). Inbound link count: 2 → 7. Article was task-flagged as orphaned but already had 2 inbound links from `ethics-of-possible-ai-consciousness` and `purpose-and-alignment`; this pass strengthens cluster integration without modifying the target's body (length-neutral; article is at 132% of soft threshold).
+- **Output**: [deep-review-2026-05-06b-dualism-as-ai-risk-mitigation](/reviews/deep-review-2026-05-06b-dualism-as-ai-risk-mitigation/)
+
+## 2026-05-06 09:16 UTC - condense
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Before**: 5033 words
+- **After**: 3043 words
+- **Reduction**: 40%
+- **Technique**: Tightened prose throughout; deferred quantum-decoherence detail and ape-amplifier evidence tables to linked articles ([decoherence](/concepts/decoherence/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)); merged short paragraphs in Multiple Independent Origins, Bat, Void, and Relation-to-Map sections; compressed Illusionist Challenge by removing redundant tenet-level meta-commentary; trimmed Standing Agnostic Challenge and Inference-vs-AI sections without cutting load-bearing structure. Opening summary, Standing Agnostic Challenge, Relation to Site Perspective, and tenet-by-tenet structure all preserved.
+
+## 2026-05-06 08:18 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections surveyed**: voids (100/100), topics (234/250), concepts (230/250)
+- **Clusters examined**: (1) affective family — affective-void / mood-void / valence-void / appetitive-void; (2) cognitive-closure family — biological-cognitive-closure / closure-types-void; (3) cessation/transition family — disappearance-voids / erasure-void / suspension-void / transit-void; (4) representation family — imagery-void / metaphor-void / aspect-perception-void; (5) Born-rule pair — born-rule-and-the-consciousness-interface / born-rule-violation-brain-interface-empirical-status; (6) AI-consciousness pair — ai-consciousness / machine-consciousness; (7) intellectual-phenomenology family — phenomenology-of-intellectual-life / -courage / -philosophical-disagreement
+- **Reason**: Each cluster either uses the explicit conjunction-coalesce template (voids deliberately differentiate by face-of-single-void); shows prior `coalesced_from:` history (already merged once); or pairs articles with distinct functions (interpretive vs empirical for Born rule; general vs upload-specific for AI/machine consciousness). The closest candidate (ai-consciousness + machine-consciousness) has substantial unique upload-scenario content and ~30 cross-references whose preservation cost outweighs deduplication benefit.
+- **Outcome**: No articles modified. Voids cap pressure remains 100/100; section will continue receiving improvement-only treatment until natural archival creates room.
 
 ## 2026-05-06 07:16 UTC - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-05-06 10:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -139,6 +139,7 @@ The case for objective experiential alignment criteria makes commitments that co
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding experiential objectivity
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — The broader connection between human purpose and AI alignment
+- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — How interactionist dualism reframes the AI-takeover threat model: consequence-distributions in the mind-arena are uncomputable rather than merely intractable
 - [phenomenal normativity](/concepts/evaluative-phenomenal-character/) — How phenomenal properties carry normative force
 - [introspection](/concepts/introspection/) — First-person methods as appropriate epistemic tools
 - [haecceity](/concepts/haecceity/) — Why individual identity grounds per-person constraints

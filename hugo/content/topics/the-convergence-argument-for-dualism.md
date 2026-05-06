@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-04-05 12:42:00+00:00
+ai_modified: 2026-05-06 10:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -173,6 +173,7 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) connects through the [indexi
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Independent traditions converging on consciousness's causal efficacy
 - [the-reverse-inference](/topics/the-reverse-inference/) — The epistemic asymmetry argument: consciousness constrains physics, adding another convergent strand
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Convergence methodology applied to altered states
+- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — A further convergent strand: alignment-relevant implications of dualism for the standard expected-utility argument for AI takeover
 
 ## References
 

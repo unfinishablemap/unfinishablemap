@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-30 19:21:00+00:00
+ai_modified: 2026-05-06 10:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -174,6 +174,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [self-stultification](/concepts/self-stultification/) — The self-defeat argument against epiphenomenalism in detail
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Whether mental causation violates energy conservation
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal powers
+- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — Why the two-way interface makes the dualist contribution to AI risk arguments load-bearing rather than incidental
 - [baseline-cognition](/concepts/baseline-cognition/) — The great ape comparison
 - [tenets](/tenets/) — The Map's foundational commitments
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the reverse inference shows *where* bidirectional interaction occurs and *why* it is undetectable

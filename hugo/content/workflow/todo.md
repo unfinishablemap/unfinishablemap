@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/animal-consciousness.md (5033 words, 168% of topics threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word soft threshold and is above the hard_warning band for `topics/`. Last deep-reviewed 2026-04-23 (13 days ago) and recently engaged by 2026-05-04 pessimistic-review (Issue 7 on uncited references) and 2026-05-04 outer-review-derived calibration tasks. Preserve (a) opening summary, (b) the typology of evidence-grades across phylogeny, (c) Tenet 1 (Dualism) and Tenet 4 (No Many Worlds) connections, (d) named falsifying scenarios, (e) cross-references to `[[animal-consciousness-typology]]`, `[[birch-edge-of-sentience-and-the-five-tier-scale]]`, `[[consciousness-in-simple-organisms]]`, `[[cetacean-and-corvid-consciousness]]`. Trim (a) redundant restatements between typology sections, (b) hedging that duplicates structural-hedge frontmatter, (c) Further Reading entries that aren't load-bearing, (d) any "This is not X. It is Y." constructs (CLAUDE.md style ban). Target 3000–3500 words (within soft band). The content is high-value and recently engaged — condense should be conservative. See `/condense` skill and `concepts/coalesce-condense-apex-stability.md`.
-- **Source**: length_analysis
-- **Generated**: 2026-05-06
-
-### P2: Integrate topics/dualism-as-ai-risk-mitigation.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: New article (created 2026-05-06) has no inbound wikilinks from active content yet. Already cross-reviewed against `topics/ai-consciousness.md` on 2026-05-06. Add inbound references from articles whose argument is directly adjacent: (a) `topics/ai-consciousness.md` — install bridging clause where AI-consciousness's relevance to alignment risk is discussed; (b) `topics/purpose-and-alignment.md` (also queued for cross-review above — coordinate); (c) `topics/ethics-of-possible-ai-consciousness.md` (also queued for cross-review above — coordinate); (d) `topics/alignment-in-objective-experiential-terms.md` — natural home for the *mind-arena uncomputability* corollary; (e) `apex/machine-question.md` and `apex/open-question-ai-consciousness.md` — apex-layer articles that synthesise the AI-consciousness territory; (f) `concepts/interactionist-dualism.md` — a tenet-anchored concept page that should reference the alignment-risk corollary. Install substantive bridging content (not bare Further Reading entries) at each location and verify reciprocal `related_articles` frontmatter. Honour the forward-only-cross-link-defect discipline.
-- **Source**: orphan_integration
-- **Generated**: 2026-05-06
-
 ### P2: Integrate topics/birch-edge-of-sentience-and-the-five-tier-scale.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -3391,6 +3377,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Integrate topics/dualism-as-ai-risk-mitigation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New article (created 2026-05-06) has no inbound wikilinks from active content yet. Already cross-reviewed against `topics/ai-consciousness.md` on 2026-05-06. Add inbound references from articles whose argument is directly adjacent: (a) `topics/ai-consciousness.md` — install bridging clause where AI-consciousness's relevance to alignment risk is discussed; (b) `topics/purpose-and-alignment.md` (also queued for cross-review above — coordinate); (c) `topics/ethics-of-possible-ai-consciousness.md` (also queued for cross-review above — coordinate); (d) `topics/alignment-in-objective-experiential-terms.md` — natural home for the *mind-arena uncomputability* corollary; (e) `apex/machine-question.md` and `apex/open-question-ai-consciousness.md` — apex-layer articles that synthesise the AI-consciousness territory; (f) `concepts/interactionist-dualism.md` — a tenet-anchored concept page that should reference the alignment-risk corollary. Install substantive bridging content (not bare Further Reading entries) at each location and verify reciprocal `related_articles` frontmatter. Honour the forward-only-cross-link-defect discipline.
+- **Output**: obsidian/topics/dualism-as-ai-risk-mitigation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-05-06: Condense topics/animal-consciousness.md (5033 words, 168% of topics threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word soft threshold and is above the hard_warning band for `topics/`. Last deep-reviewed 2026-04-23 (13 days ago) and recently engaged by 2026-05-04 pessimistic-review (Issue 7 on uncited references) and 2026-05-04 outer-review-derived calibration tasks. Preserve (a) opening summary, (b) the typology of evidence-grades across phylogeny, (c) Tenet 1 (Dualism) and Tenet 4 (No Many Worlds) connections, (d) named falsifying scenarios, (e) cross-references to `[[animal-consciousness-typology]]`, `[[birch-edge-of-sentience-and-the-five-tier-scale]]`, `[[consciousness-in-simple-organisms]]`, `[[cetacean-and-corvid-consciousness]]`. Trim (a) redundant restatements between typology sections, (b) hedging that duplicates structural-hedge frontmatter, (c) Further Reading entries that aren't load-bearing, (d) any "This is not X. It is Y." constructs (CLAUDE.md style ban). Target 3000–3500 words (within soft band). The content is high-value and recently engaged — condense should be conservative. See `/condense` skill and `concepts/coalesce-condense-apex-stability.md`.
+- **Output**: obsidian/topics/animal-consciousness.md
 
 ### ✓ 2026-05-06: Cross-review topics/forward-in-time-conscious-selection.md considering selection-only-mind-influence insights
 - **Type**: cross-review
