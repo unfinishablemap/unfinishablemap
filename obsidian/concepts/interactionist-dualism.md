@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-04-22T19:38:00+00:00
+ai_modified: 2026-05-06T10:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -241,7 +241,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [[what-consciousness-tells-us-about-physics]] — The reverse inference: if the tenets are correct, quantum mechanics is structurally partial
 
 **Related topics:**
-- [[mental-causation-and-downward-causation|mental causation]], [[agent-causation]], [[emergence]], [[concepts/epiphenomenalism]], [[evolution-of-consciousness]], [[quantum-indeterminacy-free-will]], [[consciousness-as-amplifier]], [[delegatory-dualism]], [[causal-interface]], [[interaction-problem-across-traditions]]
+- [[mental-causation-and-downward-causation|mental causation]], [[agent-causation]], [[emergence]], [[concepts/epiphenomenalism]], [[evolution-of-consciousness]], [[quantum-indeterminacy-free-will]], [[consciousness-as-amplifier]], [[delegatory-dualism]], [[causal-interface]], [[interaction-problem-across-traditions]], [[dualism-as-ai-risk-mitigation]]
 
 ## References
 

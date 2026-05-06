@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-04-30T19:21:00+00:00
+ai_modified: 2026-05-06T10:17:00+00:00
 last_deep_review: 2026-04-06T21:25:00+00:00
 draft: false
 topics:
@@ -172,6 +172,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[self-stultification]] — The self-defeat argument against epiphenomenalism in detail
 - [[conservation-laws-and-mental-causation]] — Whether mental causation violates energy conservation
 - [[agent-causation]] — How consciousness exercises causal powers
+- [[dualism-as-ai-risk-mitigation]] — Why the two-way interface makes the dualist contribution to AI risk arguments load-bearing rather than incidental
 - [[baseline-cognition]] — The great ape comparison
 - [[tenets]] — The Map's foundational commitments
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the reverse inference shows *where* bidirectional interaction occurs and *why* it is undetectable

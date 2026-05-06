@@ -4,7 +4,7 @@ description: "Multiple independent arguments converge on dualism from different 
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-04-05T12:42:00+00:00
+ai_modified: 2026-05-06T10:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -170,6 +170,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[cross-cultural-convergence-on-mental-causation]] — Independent traditions converging on consciousness's causal efficacy
 - [[the-reverse-inference]] — The epistemic asymmetry argument: consciousness constrains physics, adding another convergent strand
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Convergence methodology applied to altered states
+- [[dualism-as-ai-risk-mitigation]] — A further convergent strand: alignment-relevant implications of dualism for the standard expected-utility argument for AI takeover
 
 ## References
 

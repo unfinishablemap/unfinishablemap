@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T09:16:00+00:00
+ai_modified: 2026-05-06T10:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 10:17 UTC - deep-review (integration pass)
+- **Status**: Success
+- **File**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Word count**: 3946 → 3946 (no body changes; integration-focused pass)
+- **Critical issues addressed**: 0 (none new since 06:16 review; all prior issues resolved)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 5 inbound cross-links added from related articles ([[topics/alignment-in-objective-experiential-terms]], [[concepts/causal-powers]], [[concepts/bidirectional-interaction]], [[concepts/interactionist-dualism]], [[topics/the-convergence-argument-for-dualism]]). Inbound link count: 2 → 7. Article was task-flagged as orphaned but already had 2 inbound links from `ethics-of-possible-ai-consciousness` and `purpose-and-alignment`; this pass strengthens cluster integration without modifying the target's body (length-neutral; article is at 132% of soft threshold).
+- **Output**: [[reviews/deep-review-2026-05-06b-dualism-as-ai-risk-mitigation]]
 
 ## 2026-05-06 09:16 UTC - condense
 - **Status**: Success

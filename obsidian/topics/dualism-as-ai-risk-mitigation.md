@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-06
 last_curated: null
-last_deep_review: 2026-05-06T06:16:00+00:00
+last_deep_review: 2026-05-06T10:17:00+00:00
 ---
 
 If interactionist dualism is true, the dominant argument for AI catastrophe loses a load-bearing assumption. Bostrom-style instrumental convergence and Yudkowsky-style mesa-optimisation both rely on the AI being able to evaluate expected utility over outcomes that involve human beings. Under [[interactionist-dualism]] plus [[bidirectional-interaction]], outcomes that pass through the mind-arena are not just hard to compute — their consequence-distributions are *uncomputable*, because the supporting system has [[causal-powers]] that no physical-state description fully captures. The standard threat model survives in domains that are manifestly mind-arena-disconnected; in domains where minds are at stake, the expected-utility apparatus that drives the convergence argument cannot be formed.

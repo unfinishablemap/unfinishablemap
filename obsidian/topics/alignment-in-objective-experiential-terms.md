@@ -4,7 +4,7 @@ description: "If phenomenal qualities are real features of reality, the badness 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-05-06T10:17:00+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -136,6 +136,7 @@ The case for objective experiential alignment criteria makes commitments that co
 - [[topics/phenomenal-value-realism]] — The metaethical position grounding experiential objectivity
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[purpose-and-alignment]] — The broader connection between human purpose and AI alignment
+- [[dualism-as-ai-risk-mitigation]] — How interactionist dualism reframes the AI-takeover threat model: consequence-distributions in the mind-arena are uncomputable rather than merely intractable
 - [[evaluative-phenomenal-character|phenomenal normativity]] — How phenomenal properties carry normative force
 - [[introspection]] — First-person methods as appropriate epistemic tools
 - [[haecceity]] — Why individual identity grounds per-person constraints
