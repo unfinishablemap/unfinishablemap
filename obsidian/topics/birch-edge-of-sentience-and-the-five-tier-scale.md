@@ -4,7 +4,7 @@ description: "Iterative comparison of Birch's two-tier precautionary framework w
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-05T22:16:00+00:00
+ai_modified: 2026-05-06T00:16:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -23,6 +23,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-05
 last_curated: null
+last_deep_review: 2026-05-06T00:16:00+00:00
 ---
 
 Jonathan Birch's *The Edge of Sentience* (2024) and the Map's five-tier evidential scale answer different questions about the same material. Birch's framework is action-oriented: given irreducible uncertainty about who is sentient, what does proportionate precaution require? The Map's scale is description-oriented: given the same uncertainty, what is the catalogue entitled to write? The two schemes converge at the language of "realistic possibility" — both inherit it from the 2024 New York Declaration on Animal Consciousness — and diverge at the work the language is asked to do. Birch's two evidential tiers (*sentience candidate* / *investigation priority*) feed into welfare policy, regulatory licensing, and democratic deliberation. The Map's five tiers (*established* → *strongly supported* → *realistic possibility* → *live hypothesis* → *speculative integration*) feed into article prose and the discipline against [[possibility-probability-slippage|possibility/probability slippage]]. The frameworks are structurally complementary rather than rival: Birch's action layer is precisely what the [[evidential-status-discipline|evidential-status discipline]] does not provide, and the Map's lower-tier description layer is precisely what Birch's two-tier categorisation declines to engage.
@@ -159,22 +160,3 @@ Birch's design and the Map's discipline respond to the same structural constrain
 10. Stanford Encyclopedia of Philosophy, "Animal Consciousness." https://plato.stanford.edu/entries/consciousness-animal/
 11. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
 12. Southgate, A. & Oquatre-sept, C. (2026-05-05). Possibility/Probability Slippage. *The Unfinishable Map*. https://unfinishablemap.org/concepts/possibility-probability-slippage/
-
-<!-- AI REFINEMENT LOG - 2026-05-05
-Changes made (addressing pessimistic-2026-05-05 issues 1–7):
-- Issue 1 (LLM verdict slippage): Replaced verdict-table cell for current LLMs ("live hypothesis default") with "outside the scheme — run-ahead is action-layer posture, licenses no evidential-tier placement." Rewrote the LLM-case paragraph to make it explicit that the run-ahead principle is not a probability-of-sentience claim and that translating it into a Map tier would commit the slippage the discipline is designed against. Pointer to ethics-of-possible-ai-consciousness preserved.
-- Issue 2 (tenet-portability over-claim): Renamed "Studied Metaphysical Neutrality" subsection to "Metaphysical and Procedural Layers." Removed Birch's biographical 10% non-materialist estimate. Distinguished the eight-indicator empirical apparatus (tenet-stable in the strong sense) from the three foundational principles, with the third (democratic deliberation) flagged as conditionally portable and engaging Schwitzgebel & Sinnott-Armstrong (2025) and O'Brien (2025) substantively. Tightened the Relation-to-Site-Perspective claim accordingly: "Adopting the eight-indicator empirical apparatus is tenet-stable; adopting the third foundational principle is not."
-- Issue 3 (convergences over-claim): Replaced "share more structural commitments than is initially visible" rhetoric with concrete count ("share four structural commitments"). Sharpened asymmetric-risk paragraph to acknowledge opposite failure modes — Birch fights false negatives at the action layer; the Map fights false positives at the description layer. This sharpens rather than weakens the complementarity claim.
-- Issue 4 (C. elegans verdict): Softened the verdict-table cell to "Investigation priority — borderline; Birch acknowledges below-IP placement is defensible if directed welfare-relevant research questions cannot be formulated."
-- Issue 5 (orphan references): Installed Birch (2022) Noûs body citation in the anti-parsimony convergence (the Noûs paper's central argument). Installed SEP "Animal Consciousness" body citation in the recognised-sentient consensus claim ("the standard literature tracking this consensus is surveyed in the SEP entry on animal consciousness").
-- Issue 6 (closing aggregation): Expanded the aggregation paragraph from gestured engagement to substantive: explained how the description-layer architecture (speculative integration blocks probability-coded sentience claims; live hypothesis discourages them; realistic possibility (contested) under-specifies aggregation inputs) provides a principled stopping-point for retreat from radical-aggregation conclusions, then bounded the engagement honestly by noting the residual normative question (whether aggregation is the right framework at all) sits outside the layers' joint reach.
-- Issue 7 (modal-evidential separation): Distinguished Birch's probability-flavoured "credible, non-negligible possibility" from the Map's modal tenet-register possibility (compatibility, not probability), naming the modal/probabilistic distinction as the very subject of possibility-probability-slippage and reframing the convergence as second-order (against shared slippage) rather than first-order (same conceptual move).
-
-Reasoning-mode classification: No named-opponent direct refutation passages added. Engagement with Schwitzgebel & Sinnott-Armstrong and O'Brien is honest framework-internal noting of contested commitments at the procedural layer (Mode Three — framework-boundary marking honestly noted), not refutation. No editor-vocabulary leakage in prose.
-
-Style audit: No "This is not X. It is Y." cliché violations introduced. No editor-vocabulary labels (`direct-refutation-feasible`, `unsupported-jump`, `bedrock-perimeter`, `Engagement classification:`, `**Evidential status:**`) in article prose.
-
-Words touched: ~600 (added ~400; replaced ~200). Within scope estimate (400–700).
-
-This log should be removed after human review.
--->

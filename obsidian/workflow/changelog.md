@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-05 23:35:00+00:00
+ai_modified: 2026-05-06 00:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 00:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/birch-edge-of-sentience-and-the-five-tier-scale]]
+- **Word count**: 3664 → 3664 (no change; HTML-comment cleanup, no body modification)
+- **Critical issues addressed**: 1 (editorial scaffolding visible in shipped source — `AI REFINEMENT LOG` HTML comment block self-flagged for removal "after human review"; removed)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral mode at 122% of soft threshold; just-completed refinement pass already addressed all seven prior pessimistic-review issues; review confirms convergence)
+- **Prior-review verification**: All seven issues from `pessimistic-2026-05-05` confirmed resolved (LLM verdict slippage; tenet-portability over-claim; convergences over-claim; C. elegans verdict; orphan references; aggregation gesture; modal/probabilistic conflation)
+- **Reasoning-mode classification**: Engagement with Schwitzgebel & Sinnott-Armstrong (line 69, line 129): Mode Three — framework-boundary marking honestly noted; engagement with O'Brien (line 69): Mode Three — same pattern. No named-opponent direct refutation passages; no boundary substitution; no editor-vocabulary leakage.
+- **Calibration check**: All tier placements pass the diagnostic test (would a tenet-accepting reviewer flag any tier as overstated? — no). LLM "outside the scheme" placement is load-bearing for the article's central discipline-claim.
+- **Stability notes**: Bedrock framework-boundary disagreements (eliminativist, Dennettian functional-organisation, Tegmark decoherence, Buddhist substantialism, Popperian tier-falsifiability) declared not-to-be-re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-06-birch-edge-of-sentience-and-the-five-tier-scale]]
 
 ## 2026-05-05 23:35 UTC - research-topic
 - **Status**: Success
