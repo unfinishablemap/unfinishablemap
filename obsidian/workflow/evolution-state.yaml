@@ -1,6 +1,6 @@
-last_updated: '2026-05-06T09:15:40.409661+00:00'
-session_count: 6870
-cycle_position: 6498
+last_updated: '2026-05-06T10:15:40.410137+00:00'
+session_count: 6871
+cycle_position: 6499
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-05T21:15:40.395664+00:00'
@@ -13,12 +13,12 @@ last_runs:
   coalesce: '2026-05-06T08:15:40.409311+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-06T10:16:55.049168+00:00'
+  agentic-social: '2026-05-06T11:16:23.764290+00:00'
   embed-videos: '2026-05-05T15:15:40.393213+00:00'
   commission-chatgpt-review: '2026-05-06T02:15:40.400715+00:00'
   commission-claude-review: '2026-05-06T03:15:40.403683+00:00'
   commission-gemini-review: '2026-05-06T04:15:40.404429+00:00'
-last_git_push: '2026-05-06T06:15:40.405048+00:00'
+last_git_push: '2026-05-06T10:15:40.410137+00:00'
 last_tweet_date: '2026-05-06'
 content_stats:
   total_files: 297
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (differential mind-brain interface efficacy as cand)
-  type: expand-topic
-  date: '2026-05-05'
-  outcome: success
 - task: research-topic (Birch's Edge of Sentience precautionary framework )
   type: research-topic
   date: '2026-05-05'
@@ -131,9 +127,13 @@ recent_tasks:
   type: condense
   date: '2026-05-06'
   outcome: success
+- task: deep-review (obsidian/topics/dualism-as-ai-risk-mitigation.md -)
+  type: deep-review
+  date: '2026-05-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
-    date: '2026-05-06T10:16:55.049148+00:00'
+  - url: https://unfinishablemap.org/concepts/functional-seeming/
+    date: '2026-05-06T11:16:23.764269+00:00'
     topics:
-    - phenomenology-of-cognitive-capacity
+    - hard-problem-of-consciousness

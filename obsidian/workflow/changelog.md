@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T10:17:00+00:00
+ai_modified: 2026-05-06T11:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 11:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/selection-only-mind-influence]]
+- **Word count**: 2357 → 2571 (+214)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 — (1) attribution slip on Generalised Quantum Theory framing fixed by adding Atmanspacher, Römer & Walach (2002) reference and tightening in-text attribution; (2) decline-effect across-studies vs. within-study conflation disambiguated, with within-study decline tied explicitly to law-of-large-numbers under Born-rule preservation; (3) "most readily compatible with no-signalling and energy conservation" tightened to specify ensemble-level no-signalling, matching the article's own argument that energy-conservation is not a discriminator
+- **Enhancements made**: 1 — added explicit anti-slippage paragraph at end of "Empirical Signature Corridor" section, cross-linking [[possibility-probability-slippage]] from body (was only in Further Reading); names what the article *cannot* claim from psi corridor data
+- **Reasoning-mode classification**: No named-opponent refutations; energy-conservation objection (Collins/Pitts) handled in Mode One (internal to physicalism). No boundary substitution; no editor-vocabulary leakage
+- **Output**: [[reviews/deep-review-2026-05-06-selection-only-mind-influence]]
 
 ## 2026-05-06 10:17 UTC - deep-review (integration pass)
 - **Status**: Success
