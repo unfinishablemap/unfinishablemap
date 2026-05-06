@@ -15,6 +15,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[baseline-cognition]]'
 - '[[jourdain-hypothesis]]'
+- '[[metarepresentation-threshold]]'
 - '[[self-opacity]]'
 - '[[galilean-exclusion]]'
 - '[[buddhism-and-dualism]]'
@@ -147,7 +148,7 @@ Between the minimal self and narrative self lies [autonoetic consciousness](/con
 
 [Metacognition](/concepts/metacognition/) and the minimal self must be distinguished: metacognition monitors conscious content; the minimal self is the first-person perspective that makes there be content to monitor. They dissociate — in flow states, vivid phenomenal experience persists while metacognitive monitoring recedes; young children have phenomenal experience before reflective capacity develops. The [phenomenology of recursive self-awareness](/topics/phenomenology-of-recursive-self-awareness/) explores the distinctive "doubled awareness" generated when the minimal self takes its own awareness as object.
 
-The comparative picture (mirror self-recognition: great apes, elephants, dolphins, some corvids) suggests degrees: pre-reflective self-consciousness may be widespread, reflective far more restricted. The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) proposes many animals are conscious without *knowing* they are conscious beings. [Baseline cognition](/concepts/baseline-cognition/) research finds great apes use procedural metacognition without representing themselves *as beings who have cognitive states*.
+The comparative picture (mirror self-recognition: great apes, elephants, dolphins, some corvids) suggests degrees: pre-reflective self-consciousness may be widespread, reflective far more restricted. The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) proposes many animals are conscious without *knowing* they are conscious beings. [Baseline cognition](/concepts/baseline-cognition/) research finds great apes use procedural metacognition without representing themselves *as beings who have cognitive states* — the qualitative shift the Map calls the [metarepresentation-threshold](/concepts/metarepresentation-threshold/), above which reflective self-consciousness becomes possible. The threshold concept matters here because it predicts that the dimensions of selfhood Zahavi distinguishes (pre-reflective for-me-ness, reflective metacognition, narrative construction) are not graded along a single continuum: pre-reflective self-presence appears widely available below the threshold, while reflective self-consciousness depends on the discrete capacity for declarative metarepresentation.
 
 ## Buddhist No-Self and the Madhyamaka Challenge
 

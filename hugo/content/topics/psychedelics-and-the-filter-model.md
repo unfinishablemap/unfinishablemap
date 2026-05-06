@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-04-18 09:47:00+00:00
+ai_modified: 2026-05-06 15:03:07.336875+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,6 +19,11 @@ description: 'Psychedelics provide pharmacological evidence for filter theory: d
   brain activity produces expanded consciousness, reversing the prediction of production
   models.'
 draft: false
+embedded_videos:
+- embedded: 2026-05-06 15:03:07.336875+00:00
+  id: y7dwCAN7QY0
+  source: notebooklm/0049-01-psychedelics-and-the-filter-model
+  url: https://www.youtube-nocookie.com/embed/y7dwCAN7QY0
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-30 16:44:00+00:00
@@ -36,6 +41,12 @@ topics:
 ---
 
 Psychedelics present a challenge to production models of consciousness that no other pharmacological intervention matches. When psilocybin, LSD, or DMT suppress activity in the brain's [default mode network](/concepts/default-mode-network/) (DMN), subjects do not report diminished experience. They report the opposite: expanded perception, heightened emotional depth, ego dissolution, and encounters with what many describe as "more real than real." The Unfinishable Map's [filter theory](/concepts/filter-theory/)—the view that the brain constrains consciousness rather than producing it—is consistent with this pattern in a way production models struggle to match. A loosened filter should yield richer experience, even as the neural machinery generating the filter operates less. Production models, by contrast, must explain how a brain doing less produces a mind experiencing more.
+
+<details class="yt-embed" data-video-id="y7dwCAN7QY0">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/y7dwCAN7QY0">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Neuroimaging Paradox
 

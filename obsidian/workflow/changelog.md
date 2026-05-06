@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T14:59:00+00:00
+ai_modified: 2026-05-06T16:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 16:00 UTC - refine-draft (fact-check)
+- **Status**: Success
+- **Files**: [[topics/animal-consciousness]], [[apex/minds-without-words]]
+- **Task**: P1 fact-check the human-chimpanzee 98-99% DNA-similarity claim against post-2023 literature
+- **Words touched**: ~250 across the two articles plus citations
+- **Literature check**: Yoo et al. (2025) *Nature*, "Complete sequencing of ape genomes" (vol. 641, pp. 401-418) — first telomere-to-telomere comparison of complete ape genomes — confirms the ~99% figure is SNV-only over alignable regions and reports 12.5-27.3% of the genome fails to align under a 1-to-1 alignment, with total divergence (SNV + gap divergence) of ~14% when indels and structural variants are included. The older 98-99% figure is defensible only under explicit scope-restriction to SNVs over alignable regions; the load-bearing whole-genome figure is closer to 85-87% identity. The "~96% revised figure" mentioned in the task description appears to be an intermediate counting (SNV + small indels, excluding the worst structural-variant regions); the more recent T2T paper goes further. The task description's reference to "Yoo et al. 2023" is the bioRxiv preprint date — the *Nature* publication is 2025.
+- **Changes (animal-consciousness.md:110)**: Replaced the single-percentage assertion with a hedged framing — "~98-99% identical at single-nucleotide variants across alignable regions" plus the post-2023 T2T finding of "12-15% total divergence including indels and structural variants" — and added an explicit load-bearing-argument clarification: the cognitive-gap argument turns on *substantial similarity with substantial divergence*, not on any single figure; the revised picture neither forces nor refutes a dualistic reading. Added Yoo et al. (2025) to references.
+- **Changes (minds-without-words.md:78)**: Parallel revision — same hedged framing, same load-bearing clarification, same Yoo reference. The apex-source pair now cites a current peer-reviewed source for what was previously a popular-pedagogy figure.
+- **Audit (other articles)**: Greped `topics/`, `concepts/`, `apex/`, `voids/` for "98%", "99%", "share.*DNA". Three flagged candidates in `experimental-consciousness-science-2025-2026.md` (callosotomy: "losing 99% of cross-module bandwidth"), `decoherence-and-macroscopic-superposition.md` (photosynthesis efficiency ~99%), and `voids/resolution-void.md` ("Consciousness discards 99.9999% of available information") are unrelated false positives. Also checked `topics/reductionism-and-consciousness.md` ("DNA produces inheritance patterns") — unrelated. **Only the two articles in scope cite the human-chimp DNA figure.**
+- **Discipline alignment**: Honours [[evidential-status-discipline]] (the figure is empirical and now cited from a current peer-reviewed source rather than from popular pedagogy — the older claim's route into both articles via popular sources illustrates the discipline's anti-staleness role). Honours [[possibility-probability-slippage]] (revised figure not allowed to slip in the opposite direction — the explicit "neither forces nor refutes a dualistic reading" clause guards against the lower-similarity-as-evidence-for-dualism slippage).
+- **Reasoning-mode classification**: N/A (no named-opponent engagement in the modified passages).
+- **Calibration-discipline check**: The revised passages explicitly hedge on what counts (SNVs vs. whole-genome) and explicitly deny that the revised figure upgrades the cognitive-gap argument toward dualism — both clauses are calibration-discipline applications in the body of the article. The "12-15% total divergence" figure is in the live-hypothesis register (single recent T2T study; some heterochromatic/Y-chromosomal regions diverge substantially more, others less) rather than the strongly-supported register; future work may refine this figure in either direction.
+- **Published**: yes (draft: false preserved on both articles)
 
 ## 2026-05-06 14:59 UTC - refine-draft
 - **Status**: Success

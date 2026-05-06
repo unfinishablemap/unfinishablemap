@@ -1,13 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06 12:16:00+00:00
+ai_modified: 2026-05-06 14:59:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-06'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-06 14:59 UTC - refine-draft
+- **Status**: Success
+- **File**: [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
+- **Task**: P2 chain from 2026-05-06 expand-topic — install dualism-as-ai-risk-mitigation as a fourth worked example
+- **Word count**: ~1525 → ~1745 (+220)
+- **Changes**: (1) Renamed §"Three Worked Examples" → §"Worked Examples" so the heading is robust to count changes. (2) Added a 38-word transition paragraph between the third and fourth examples that names the existing three as *origin cases* drawn from the boundary-organism domain where the discipline was forged, and frames the fourth as the test of whether the discipline survives transfer beyond that origin context. (3) Added the fourth worked example, "Dualism as AI risk-mitigation — propagation case," at ~210 words (within the 150–250 task envelope and comparable to the existing three). The example identifies the structural temptation the dualism-risk article faced (sliding from the conditional *if dualism, then EU underdetermines* to the empirical upgrade *therefore AI-takeover probability is in fact lower*); names that the article declined the slide at line 39 and re-asserted the discipline at line 145 of the dualism-risk article; identifies the propagation-survival itself as evidential support for the discipline's portability beyond invertebrate-consciousness debates; and flags the residual evidential gap explicitly — the dualism-risk article is too recent (2026-05-06) to have been adversarially pressure-tested by a pessimistic-review, so propagation evidence is provisional. (4) Preserved the existing three example bullets verbatim per task constraint. (5) Added `[[dualism-as-ai-risk-mitigation]]` to `related_articles` frontmatter for reciprocal linking — the dualism-risk article's `concepts:` already lists `[[possibility-probability-slippage]]`, so this closes the reciprocal-link loop.
+- **Calibration-discipline check**: The refine itself is in the slippage zone — the propagation example is making an evidential claim about the discipline's portability based on n=1 case. The "residual evidential gap" sentence is the discipline applied to the refine's own claim: the propagation-survival language is hedged at *itself evidential support for portability* (live-hypothesis register) rather than *establishes portability* (strongly-supported register), and the gap (no adversarial pressure-test yet) is named explicitly so the claim is auditable. No editor-vocabulary leakage in the article body; the reasoning-mode classification is moot (no named-opponent engagement in the new prose).
+- **Reasoning-mode classification**: N/A (no named-opponent reply in scope).
+- **Published**: yes (draft: false preserved)
+- **Status**: Success
+- **File**: [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/)
+- **Word count**: 2457 → ~2535 (+78)
+- **Critical issues addressed**: 0 (article was already in stable form after 2026-04-06 review; calibration-discipline check passes — claims framed conditionally, no possibility/probability slippage, attribution accuracy preserved)
+- **Medium issues addressed**: 1 — cross-review integration gap with [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/): the two articles form a complementary target-side / threat-model-side pair on dualism's alignment relevance, but the body did not acknowledge the threat-model complement. Resolution: added closing paragraph to "Relation to Site Perspective" that frames the two arguments as complementary and notes that mind-arena consequences cannot be computed, so cannot be safely traded against other utility. Added [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) to `related_articles` frontmatter (was previously only in Further Reading)
+- **Enhancements made**: 1 cross-link integration paragraph
+- **Reasoning-mode classification**: No named-opponent engagements (article engages "preferentism" as a generic position, not a named author's framework). One implicit boundary engagement with illusionism in Tenet-1 sub-section — appropriately Mode Three (framework-boundary marking), no editor-vocabulary leakage
+- **Calibration-discipline check**: Re-applied diagnostic test — no calibration errors. The article's claims are presented under the conditional structure "if the Map's metaphysics is correct" and frame experiential objectivity as a tenet-level commitment of the Map rather than as an empirical upgrade. Does not upgrade boundary cases on tenet-load alone
+- **Output**: [deep-review-2026-05-06-alignment-in-objective-experiential-terms](/reviews/deep-review-2026-05-06-alignment-in-objective-experiential-terms/)
+
+## 2026-05-06 12:58 UTC - deep-review (integration pass)
+- **Status**: Success
+- **File**: [metarepresentation-threshold](/concepts/metarepresentation-threshold/)
+- **Word count**: 1456 → 1456 (no body changes; integration-focused pass on a content-stable article)
+- **Critical issues addressed**: 0 (5th consecutive deep review with no critical issues; article has reached durable convergence on substance)
+- **Medium issues addressed**: 0 (Fleming et al. 2010 inline-citation orphan logged as remaining item; not addressed this round to keep focus on orphan integration of the article into the site)
+- **Enhancements made**: 3 substantive inbound cross-links installed at load-bearing argumentative locations, with reciprocal `concepts:` frontmatter on both sides (forward-only-cross-link-defect discipline honoured): (1) [self-and-self-consciousness](/concepts/self-and-self-consciousness/) §"Layers Above the Minimal Self" — named the threshold where the existing sentence on great-ape procedural metacognition was already implicitly describing it, plus a clause linking the threshold to Zahavi's three-layer distinction; (2) [introspection](/concepts/introspection/) §"Introspection as Metacognitive Skill" — added a paragraph framing introspection as requiring declarative metarepresentation above the threshold, explaining why introspective evidence is unavailable from cognitive systems below it; (3) [cognitive-phenomenology](/concepts/cognitive-phenomenology/) §"Implications for AI Consciousness" — named the threshold as the diagnostic the LLM-comparison turns on (modelling metarepresentation ≠ having it). Inbound link count: 14 → 17. Article is no longer orphaned on any reasonable definition; the underlying task description was already incorrect at task generation
+- **Reasoning-mode classification**: No new named-opponent engagements introduced; the article's existing HOT-theorist engagement classified Mode One/Two (in-framework refutation: HOT's standard response narrows the position to *reflective* consciousness, with the explanatory gap reopening). No boundary substitution; no editor-vocabulary leakage in any modified file
+- **Calibration-discipline check**: Re-applied diagnostic test — no calibration errors. The article describes the threshold at "live hypothesis" tier with appropriate "appears to require" / "appears to be" hedging; §"Relation to Site Perspective" frames the threshold as "providing some of the strongest evidence" for Bidirectional Interaction rather than as positive empirical demonstration. No tenet-coherence-as-evidence-upgrade pattern present
+- **Output**: [deep-review-2026-05-06-metarepresentation-threshold](/reviews/deep-review-2026-05-06-metarepresentation-threshold/)
 
 ## 2026-05-06 12:16 UTC - deep-review (integration pass)
 - **Status**: Success

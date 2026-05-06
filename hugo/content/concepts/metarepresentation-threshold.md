@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-25 16:29:00+00:00
+ai_modified: 2026-05-06 12:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,15 +12,17 @@ concepts:
 - '[[cumulative-culture]]'
 - '[[theory-of-mind]]'
 - '[[cognitive-phenomenology]]'
+- '[[introspection]]'
+- '[[self-and-self-consciousness]]'
 - '[[teaching-as-metarepresentation]]'
 created: 2026-04-13
-date: &id001 2026-04-25
+date: &id001 2026-05-06
 description: The boundary between procedural metacognition and declarative metarepresentation
   marks where consciousness becomes causally necessary for cognition.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-25 16:29:00+00:00
+last_deep_review: 2026-05-06 12:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
