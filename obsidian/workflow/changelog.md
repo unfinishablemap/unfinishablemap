@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06 00:16:00+00:00
+ai_modified: 2026-05-06 01:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 01:16 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Dualism as AI risk mitigation
+- **Output**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Word count**: 3937 (soft_warning at 131% of 3000 target; long-form authorisation in task brief covers 3000–4500 word range for five-sub-argument structure)
+- **Based on research**: yes — [[research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05]]
+- **Structure**: Five sub-arguments developed in sequence (indeterminability, generalisation precluded, strategic-advantage indeterminability, behaviour in undeterminable minefield, deliberate-spread question) plus AI-ensoulment counter-move (Cutter 2025) and Russell-alliance section. Bostrom 2012 quoted verbatim; Cutter 2025 quoted verbatim; both with hedged attribution preserving "middling credence" qualifier.
+- **Discipline checks**: Possibility/probability slippage held throughout (the conditional "if dualism is true, the standard EU argument loses force" is asserted; the empirical "AI-takeover probability is in fact lower" is explicitly *not* asserted). Direct-refutation discipline applied to instrumental convergence (engaged on its own terms; not dismissed as "substrate-blind"). Two-channel structure preserved (Bostrom/Cutter exposition vs Map's Relation to Site Perspective integration). Tactical-claim/epistemic-claim asymmetry named explicitly in deliberate-spread section.
 
 ## 2026-05-06 00:16 UTC - deep-review
 - **Status**: Success
