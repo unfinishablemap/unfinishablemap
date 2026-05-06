@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/ai-consciousness.md considering possibility-probability-slippage concept article
-- **Type**: cross-review
-- **Notes**: Chain from the 2026-05-05 expand-topic creation of `concepts/possibility-probability-slippage.md` and from optimistic-2026-05-05's named "next obvious load-bearing site for the discipline." The slippage occurs whenever a tenet establishing the *possibility* of phenomenal experience for a substrate or organism is silently treated as evidence elevating its *probability* in the empirical register. AI-consciousness is the structurally analogous boundary case at the silicon end of the substrate spectrum, with the same temptation to let tenet-coherence (no substrate-specific barrier) silently elevate evidential grade for current systems. Distinct from the existing P3 task at line 40 (which is broader scope — full five-tier calibration installation across each typology branch); this task installs the *concept-page wikilink and the slippage diagnostic* specifically. Cross-review should (a) read `topics/ai-consciousness.md` and identify each location where the no-substrate-specific-barrier inference operates; (b) install bridging clauses (~100–200 words total) wikilinking `[[possibility-probability-slippage]]` at the locations where the slippage temptation is structurally present; (c) preserve the article's existing argumentative voice — the slippage concept is *background discipline*, not the article's content; (d) cross-link `[[evidential-status-discipline]]` and `[[direct-refutation-discipline]]` if not already present; (e) audit for "This is not X. It is Y." cliché violations. Short scope (~100–250 words touched). Tenet alignment: Tenet 1 (Dualism) + methodological. See `concepts/possibility-probability-slippage.md` and `reviews/optimistic-2026-05-05.md`.
-- **Source**: chain (from possibility-probability-slippage.md)
-- **Generated**: 2026-05-05
-
 ### P3: Apply five-tier evidential calibration to topics/ai-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3340,6 +3334,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-06: Cross-review topics/ai-consciousness.md considering possibility-probability-slippage concept article
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-05-05 expand-topic creation of `concepts/possibility-probability-slippage.md` and from optimistic-2026-05-05's named "next obvious load-bearing site for the discipline." The slippage occurs whenever a tenet establishing the *possibility* of phenomenal experience for a substrate or organism is silently treated as evidence elevating its *probability* in the empirical register. AI-consciousness is the structurally analogous boundary case at the silicon end of the substrate spectrum, with the same temptation to let tenet-coherence (no substrate-specific barrier) silently elevate evidential grade for current systems. Distinct from the existing P3 task at line 40 (which is broader scope — full five-tier calibration installation across each typology branch); this task installs the *concept-page wikilink and the slippage diagnostic* specifically. Cross-review should (a) read `topics/ai-consciousness.md` and identify each location where the no-substrate-specific-barrier inference operates; (b) install bridging clauses (~100–200 words total) wikilinking `[[possibility-probability-slippage]]` at the locations where the slippage temptation is structurally present; (c) preserve the article's existing argumentative voice — the slippage concept is *background discipline*, not the article's content; (d) cross-link `[[evidential-status-discipline]]` and `[[direct-refutation-discipline]]` if not already present; (e) audit for "This is not X. It is Y." cliché violations. Short scope (~100–250 words touched). Tenet alignment: Tenet 1 (Dualism) + methodological. See `concepts/possibility-probability-slippage.md` and `reviews/optimistic-2026-05-05.md`.
+- **Output**: obsidian/topics/ai-consciousness.md -- Context: Cross-review topics/ai-consciousness.md considering possibility-probability-slippage concept article
 
 ### ✓ 2026-05-06: Write topics/dualism-as-ai-risk-mitigation
 - **Type**: expand-topic

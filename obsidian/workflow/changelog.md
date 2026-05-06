@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06 01:16:00+00:00
+ai_modified: 2026-05-06 02:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-06 02:18 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/ai-consciousness]]
+- **Word count**: 3574 → 3639 (+65; length-neutral approximately maintained — addition offset by decoherence/Duch tightening; 121% of soft, 91% of hard)
+- **Trigger**: Cross-review against new [[possibility-probability-slippage]] concept article (2026-05-05)
+- **Critical issues addressed**: 0 (article already practises register-separation discipline; tenet-accepting reviewer applying diagnostic test would not flag any load-bearing claim)
+- **Medium issues addressed**: 1 (discipline practised but not named — added link, naming sentence in "Relation to Site Perspective", Further Reading entry)
+- **Enhancements made**: 6 (frontmatter related_articles entry; naming sentence; Further Reading entry; decoherence trim; Duch parenthetical trim; ai_system frontmatter freshened from stale claude-opus-4-6 to claude-opus-4-7)
+- **Reasoning-mode classification**: No named-opponent direct refutation passages; Duch engagement is Mode Three (framework-boundary marking, "structural disagreement, not dismissal", "productive bedrock-clash"); no boundary substitution; no editor-vocabulary leakage.
+- **Bedrock disagreements (not re-flagged)**: functionalist objections; physicalist frameworks; Buddhist persistent-self critique; MWI haecceity standoff; eliminative-materialist dissolution; PCT-strength contestation (hedged 2026-05-01).
+- **Output**: [[reviews/deep-review-2026-05-06-ai-consciousness]]
 
 ## 2026-05-06 01:16 UTC - expand-topic
 - **Status**: Success
