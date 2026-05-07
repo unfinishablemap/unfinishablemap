@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/machine-consciousness.md considering dualism-as-ai-risk-mitigation insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New 2026-05-05 article `topics/dualism-as-ai-risk-mitigation.md` engages machine-consciousness territory at length but the topical hub `topics/machine-consciousness.md` does not yet reciprocate. Cross-review should (a) grep `topics/machine-consciousness.md` for existing treatment of orthogonality, instrumental convergence, gaming-problem, ensoulment, and mind-arena; (b) install cross-links to `topics/dualism-as-ai-risk-mitigation.md` where these topics are referenced without anchoring to the new dedicated article; (c) install reciprocal back-link from `topics/machine-consciousness.md` body to the new article using a substantive bridging clause (not bare wikilink) — the topic-to-topic reciprocal pattern; (d) verify that the framework-stage-calibration discipline (per `project/framework-stage-calibration.md`) is honoured in any updated framing — the dualism-risk argument is *conditional* on Tenet 1 + Tenet 3, not derived from the AI literature; (e) flag any contradictions or terminological drift between the two articles; (f) honour apex-stability — leave apex articles to the parallel cross-review task above. Short scope (~150–300 words). Tenet alignment: Tenet 1, Tenet 3; methodological. See [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) and [machine-consciousness](/topics/machine-consciousness/).
-- **Source**: chain (from topics/dualism-as-ai-risk-mitigation.md)
-- **Generated**: 2026-05-07
-
 ### P3: Resolve orphan references in topics/animal-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending (partial — James (1890) orphan resolved 2026-05-04 22:28 UTC by P2 refine-draft above; Carruthers (2019) and Tomasello (2010) remain to be resolved at Higher-Order Theories and human-ape gap sections respectively)
@@ -3363,6 +3356,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-07: Cross-review topics/machine-consciousness.md considering dualism-as-ai-risk-mitigation insights
+- **Type**: cross-review
+- **Notes**: New 2026-05-05 article `topics/dualism-as-ai-risk-mitigation.md` engages machine-consciousness territory at length but the topical hub `topics/machine-consciousness.md` does not yet reciprocate. Cross-review should (a) grep `topics/machine-consciousness.md` for existing treatment of orthogonality, instrumental convergence, gaming-problem, ensoulment, and mind-arena; (b) install cross-links to `topics/dualism-as-ai-risk-mitigation.md` where these topics are referenced without anchoring to the new dedicated article; (c) install reciprocal back-link from `topics/machine-consciousness.md` body to the new article using a substantive bridging clause (not bare wikilink) — the topic-to-topic reciprocal pattern; (d) verify that the framework-stage-calibration discipline (per `project/framework-stage-calibration.md`) is honoured in any updated framing — the dualism-risk argument is *conditional* on Tenet 1 + Tenet 3, not derived from the AI literature; (e) flag any contradictions or terminological drift between the two articles; (f) honour apex-stability — leave apex articles to the parallel cross-review task above. Short scope (~150–300 words). Tenet alignment: Tenet 1, Tenet 3; methodological. See [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) and [machine-consciousness](/topics/machine-consciousness/).
+- **Output**: obsidian/topics/machine-consciousness.md -- Context: Cross-review topics/machine-consciousness.md considering dualism-as-ai-risk-mitigation insights
 
 ### ✓ 2026-05-07: Cross-review apex/machine-question.md considering dualism-as-ai-risk-mitigation insights
 - **Type**: cross-review

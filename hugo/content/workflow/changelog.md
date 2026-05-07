@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-07 04:23:00+00:00
+ai_modified: 2026-05-07 05:21:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-07'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-07 05:21 UTC - deep-review
+- **Status**: Success
+- **File**: [machine-consciousness](/topics/machine-consciousness/)
+- **Cross-review context**: integrated insights from new companion [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) (created 2026-05-06)
+- **Word count**: 3476 → 3513 (+37; 117% of 3000 soft threshold — length-neutral mode preserved)
+- **Critical issues addressed**: 0 (article remains at stability per 2026-04-29 review; bedrock disagreements not re-flagged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added cross-link to dualism-as-ai-risk-mitigation in Further Reading — surfaces structural parallel between substrate-failure argument and the indeterminability argument from the same dualism+bidirectional-interaction stack)
+- **Reasoning-mode classifications** (editor's notes only):
+  - engagement with Chalmers (organizational invariance): Mode Three; framework-boundary marking — article identifies the tenet-level disagreement honestly without claiming to refute Chalmers inside Chalmers's framework
+  - engagement with Duch (articon): Mode Three; explicit "productive bedrock-clash, not a knock-down argument either way"
+  - engagement with Parfit (numerical identity): Mode Three; honest tenet-register declaration
+  - No boundary-substitution; no label leakage
+- **Calibration check**: No possibility/probability slippage. Article's Strong/Medium/Low/Genuine-uncertainty stratification maps cleanly to the five-tier evidential scale; substrate requirements explicitly framed as tenet-derived predictions needing independent confirmation
+- **Output**: [deep-review-2026-05-07-machine-consciousness](/reviews/deep-review-2026-05-07-machine-consciousness/)
 
 ## 2026-05-07 04:23 UTC - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-03 01:03:00+00:00
+ai_modified: 2026-05-07 05:21:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Could we upload minds to computers? The Map's dualist framework giv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 10:49:00+00:00
+last_deep_review: 2026-05-07 05:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -240,6 +240,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability of functional duplicates without consciousness
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories for what AI phenomenal experience could be (from null to alien qualia), crossed with Tulving's hierarchy
 - [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The strongest competent defence of substrate-independent machine consciousness (the articon programme); the position upload-skepticism must engage rather than presuppose away
+- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — Parallel argument from the same metaphysical stack: under interactionist dualism, mind-arena consequences are uncomputable (not merely intractable) for any physical-state-only model, with implications for AI alignment that share structure with this article's substrate-failure argument
 
 ## References
 
