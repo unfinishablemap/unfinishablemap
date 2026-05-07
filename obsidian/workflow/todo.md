@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write topic article on evolved mind-brain interface efficacy
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research note `research/evolved-mind-brain-interface-efficacy-2026-05-05.md` (5,000 words) is unconsumed — no corresponding article exists. The research surveys the standard reading of human cognitive uniqueness as brain-side (Herculano-Houzel 2009, Buckner & Krienen 2013, Tomasello 2010, Suddendorf & Corballis 2007, Penn et al. 2008) and develops the interactionist-dualist alternative reading where the mind-brain interface itself evolved toward higher efficacy (wider selection bandwidth, higher fidelity from intent to physical outcome, finer-grained selection per event). Article should (a) frame the brain-side vs interface-side reading symmetrically and acknowledge Gutfreund (2024) Standing Agnostic Challenge applies to both; (b) survey the key empirical literature (Herculano-Houzel neuron counting, prefrontal connectivity expansion, von Economo neurons, ratcheting, mental time travel, relational reasoning, shared intentionality); (c) develop the interface-efficacy framing with reference to Eccles/Beck/Stapp/Hodgson; (d) catalogue distinguishing observables in principle (Born-rule deviation patterns scaling with phylogenetic intelligence rank, volitional/reflexive contrast in coherence-domain signatures, candidate-set-diversity correlates of reportable content) while honouring framework-stage-calibration (these are not currently operationalised); (e) consistent with New York Declaration 2024 framing — consciousness may be present at full grade across many species while *effective reach* into behavioural outcomes varies; (f) heuristic-explanatory rather than prediction-generating tier under Map's five-tier scale. Place under `topics/` (capacity 234/250 = 94%, 16 slots remaining). Estimated 2,500–3,500 words. Tenet alignment: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction); methodological at framework-stage-calibration layer. See [[research/evolved-mind-brain-interface-efficacy-2026-05-05]].
-- **Source**: unconsumed_research
-- **Generated**: 2026-05-07
-
 ### P2: Condense topics/forward-in-time-conscious-selection.md (4,157 words, 139% of target)
 - **Type**: condense
 - **Status**: pending
@@ -3383,6 +3376,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-07: Write topic article on evolved mind-brain interface efficacy
+- **Type**: expand-topic
+- **Notes**: Research note `research/evolved-mind-brain-interface-efficacy-2026-05-05.md` (5,000 words) is unconsumed — no corresponding article exists. The research surveys the standard reading of human cognitive uniqueness as brain-side (Herculano-Houzel 2009, Buckner & Krienen 2013, Tomasello 2010, Suddendorf & Corballis 2007, Penn et al. 2008) and develops the interactionist-dualist alternative reading where the mind-brain interface itself evolved toward higher efficacy (wider selection bandwidth, higher fidelity from intent to physical outcome, finer-grained selection per event). Article should (a) frame the brain-side vs interface-side reading symmetrically and acknowledge Gutfreund (2024) Standing Agnostic Challenge applies to both; (b) survey the key empirical literature (Herculano-Houzel neuron counting, prefrontal connectivity expansion, von Economo neurons, ratcheting, mental time travel, relational reasoning, shared intentionality); (c) develop the interface-efficacy framing with reference to Eccles/Beck/Stapp/Hodgson; (d) catalogue distinguishing observables in principle (Born-rule deviation patterns scaling with phylogenetic intelligence rank, volitional/reflexive contrast in coherence-domain signatures, candidate-set-diversity correlates of reportable content) while honouring framework-stage-calibration (these are not currently operationalised); (e) consistent with New York Declaration 2024 framing — consciousness may be present at full grade across many species while *effective reach* into behavioural outcomes varies; (f) heuristic-explanatory rather than prediction-generating tier under Map's five-tier scale. Place under `topics/` (capacity 234/250 = 94%, 16 slots remaining). Estimated 2,500–3,500 words. Tenet alignment: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction); methodological at framework-stage-calibration layer. See [[research/evolved-mind-brain-interface-efficacy-2026-05-05]].
+- **Output**: Write topic article on evolved mind-brain interface efficacy
 
 ### ✓ 2026-05-06: Install reciprocal anchor in project/evidential-status-discipline.md → topics/birch-edge-of-sentience-and-the-five-tier-scale.md
 - **Type**: refine-draft

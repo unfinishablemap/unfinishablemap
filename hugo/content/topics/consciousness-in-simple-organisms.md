@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-05-04 16:24:00+00:00
+ai_modified: 2026-05-07 00:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: 'From nematodes to slime molds: where does consciousness begin? The
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 20:17:00+00:00
+last_deep_review: 2026-05-07 00:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,9 +109,9 @@ The slime mold case divides researchers sharply:
 
 **Skeptics** maintain these behaviors are biochemical reactions, however sophisticated. Maze-solving follows nutrient gradients; no phenomenal experience is required.
 
-For the Map's framework, slime molds present a puzzle. If [quantum effects in microtubules](/concepts/quantum-consciousness/) provide the interface for consciousness, organisms without neurons (and thus without microtubules) shouldn't exhibit cognitive behaviors—yet they do. This suggests either that quantum neural interfaces are sufficient but not necessary for cognition, or that cognition and consciousness can fully dissociate.
+For the Map's framework, slime molds present a puzzle. If [quantum effects in neuronal microtubules](/concepts/quantum-consciousness/) provide the interface for consciousness, organisms lacking neurons shouldn't exhibit cognitive behaviors—yet they do. (Slime molds possess microtubules as cytoskeletal elements; what they lack is the orchestrated neuronal architecture the Penrose–Hameroff hypothesis treats as load-bearing.) This suggests either that quantum neural interfaces are sufficient but not necessary for cognition, or that cognition and consciousness can fully dissociate.
 
-The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm biological systems—applies differently to organisms of varying complexity. In single-celled organisms without neurons, the question of quantum consciousness interfaces may not arise at all. Slime molds may process information through entirely classical biochemical mechanisms while lacking the quantum-coherent structures that, on the Map's view, enable consciousness to interface with matter. This would explain sophisticated cognition without phenomenal experience.
+The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm biological systems—applies differently across complexity levels. Slime molds may process information through entirely classical biochemical mechanisms while lacking the quantum-coherent structures that, on the Map's view, enable consciousness to interface with matter. This would explain sophisticated cognition without phenomenal experience.
 
 The defensible reading of *Physarum* is that it exhibits sophisticated information processing without phenomenal experience — a clear case where cognition and consciousness can dissociate. Attributing experience to slime molds remains a panpsychist or process-philosophical possibility, not an empirically supported finding; the case sits at *speculative integration* with cognition-without-consciousness as the more parsimonious reading.
 
