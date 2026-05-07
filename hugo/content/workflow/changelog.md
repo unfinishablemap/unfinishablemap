@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-07 01:22:00+00:00
+ai_modified: 2026-05-07 02:28:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-07'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-07 02:28 UTC - condense
+- **Status**: Success
+- **File**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Before**: 4157 words
+- **After**: 3036 words
+- **Reduction**: 27%
+- **Technique**: cut redundancy between opening and Core Distinction; trimmed defensive padding in Improper Mixture and Stapp Zeno sub-sections; paraphrased Chalmers-McQueen block quote; major compression of post-decoherence triad meta-paragraph; removed contested 2025 Frontiers claim and condensed Duch dissent in Decoherence-Timescale; tightened per-tenet paragraphs in Relation to Site Perspective; trimmed Further Reading from 18 to 10 most essential. Preserved opening summary, all sub-section headings, tenet alignment, and core arguments.
 
 ## 2026-05-07 01:22 UTC - expand-topic
 - **Status**: Success
