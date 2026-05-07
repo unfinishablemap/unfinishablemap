@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/machine-question.md considering dualism-as-ai-risk-mitigation insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New 2026-05-05 article `topics/dualism-as-ai-risk-mitigation.md` is the most concentrated treatment of the dualism→AI-takeover-risk argument structure in the catalogue and engages Bostrom (2012, 2014) instrumental-convergence + orthogonality, Cutter (2025) ensoulment hypothesis, Békefi (2025) reply, the Birch (2024) gaming problem, and the Map-specific "mind-arena" terminology. `apex/machine-question.md` is the apex synthesis for the AI-consciousness territory and currently does not anchor any of these recent engagements. Cross-review should (a) audit `apex/machine-question.md` for places where the dualism-risk argument's conditional structure (given dualism + bidirectional interaction, AI-as-non-conscious-optimiser is structurally bounded) should be cross-linked; (b) install reciprocal back-link from `apex/machine-question.md` to `topics/dualism-as-ai-risk-mitigation.md` using the apex-external bridging-paragraph pattern (per `project/`-doc discipline on apex-external reciprocal links); (c) verify the apex's existing treatment of AI-consciousness markers honours the framework-stage-calibration discipline that the dualism-risk article installed; (d) flag any contradictions or terminological drift between the apex and the new topic article, particularly around "machine consciousness" vs "mind-arena" usage; (e) keep additions tight — apex stability principle (per `concepts/coalesce-condense-apex-stability`) means small bridging additions, not expansion. Short scope (~150–300 words). Tenet alignment: Tenet 1, Tenet 3; methodological. See [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) and [machine-question](/apex/machine-question/).
-- **Source**: chain (from topics/dualism-as-ai-risk-mitigation.md)
-- **Generated**: 2026-05-07
-
 ### P2: Cross-review topics/machine-consciousness.md considering dualism-as-ai-risk-mitigation insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3370,6 +3363,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-07: Cross-review apex/machine-question.md considering dualism-as-ai-risk-mitigation insights
+- **Type**: cross-review
+- **Notes**: New 2026-05-05 article `topics/dualism-as-ai-risk-mitigation.md` is the most concentrated treatment of the dualism→AI-takeover-risk argument structure in the catalogue and engages Bostrom (2012, 2014) instrumental-convergence + orthogonality, Cutter (2025) ensoulment hypothesis, Békefi (2025) reply, the Birch (2024) gaming problem, and the Map-specific "mind-arena" terminology. `apex/machine-question.md` is the apex synthesis for the AI-consciousness territory and currently does not anchor any of these recent engagements. Cross-review should (a) audit `apex/machine-question.md` for places where the dualism-risk argument's conditional structure (given dualism + bidirectional interaction, AI-as-non-conscious-optimiser is structurally bounded) should be cross-linked; (b) install reciprocal back-link from `apex/machine-question.md` to `topics/dualism-as-ai-risk-mitigation.md` using the apex-external bridging-paragraph pattern (per `project/`-doc discipline on apex-external reciprocal links); (c) verify the apex's existing treatment of AI-consciousness markers honours the framework-stage-calibration discipline that the dualism-risk article installed; (d) flag any contradictions or terminological drift between the apex and the new topic article, particularly around "machine consciousness" vs "mind-arena" usage; (e) keep additions tight — apex stability principle (per `concepts/coalesce-condense-apex-stability`) means small bridging additions, not expansion. Short scope (~150–300 words). Tenet alignment: Tenet 1, Tenet 3; methodological. See [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) and [machine-question](/apex/machine-question/).
+- **Output**: obsidian/apex/machine-question.md -- Context: Cross-review apex/machine-question.md considering dualism-as-ai-risk-mitigation insights
 
 ### ✓ 2026-05-07: Condense topics/forward-in-time-conscious-selection.md (4,157 words, 139% of target)
 - **Type**: condense
