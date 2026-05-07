@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-07T03:24:00+00:00
+ai_modified: 2026-05-07T08:30:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -3430,7 +3430,7 @@ From `[[reviews/pessimistic-2026-05-06]]`. The article has stabilised across thr
   3. Active-protection content is explicitly tagged speculative-integration tier in the parent (line 115); concept-page promotion would itself be a slippage hazard at the editorial register.
   4. Pascal's-mugging-vs-structural-unboundedness distinction is methodological — if it warrants extraction, the right home is a `project/` doc on direct-refutation discipline, not a concepts page.
   5. Parent §5 is self-contained post-condense + post-deep-review; future articles have a clean cross-link target at the topic level.
-  6. Concepts at 230/250 — the marginal slot is better spent on the two existing P3 candidates ([[mind-arena]] definitional, Gaming-Problem concept) which have stronger standalone-concept warrants.
+  6. Concepts at 230/250 — the marginal slot is better spent on the two existing P3 candidates (`mind-arena` definitional, Gaming-Problem concept) which have stronger standalone-concept warrants.
 - **Re-evaluation trigger**: revisit only if three or more future articles independently want to cross-link to this material with bridging text materially shared across them — that pattern would constitute the multi-article cross-reference warrant currently absent.
 - **Output**: no new article; canonical deferral record is the changelog entry above.
 

@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-07 05:21:00+00:00
+ai_modified: 2026-05-07 06:32:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-07'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-07 06:32 UTC - deep-review
+- **Status**: Success
+- **File**: [evolved-mind-brain-interface-efficacy](/topics/evolved-mind-brain-interface-efficacy/)
+- **Word count**: 2996 → 3001 (+5; 100% of 3000 soft threshold — length-neutral mode preserved; +5 word delta is the minimum required for the critical attribution fix)
+- **Critical issues addressed**: 1 (misattribution: body cited Eccles' "Evolution of Consciousness" but the cited 1989 book is *Evolution of the Brain: Creation of the Self* — fixed body to match references)
+- **Medium issues addressed**: 0 (article's evidential calibration is honest throughout; no possibility/probability slippage detected)
+- **Enhancements made**: 0 beyond the critical fix (length-neutral discipline at threshold; article already cross-links to ~14 related pieces)
+- **Reasoning-mode classifications**: N/A — article does not engage named opponents in refutation mode. Engagements with Gutfreund, Herculano-Houzel et al., and the New York Declaration are constructive/positioning, not refutation. No boundary-substitution risk; no label leakage.
+- **Attribution check**: 11 source claims verified against references; 1 misattribution found and corrected (Eccles book title)
+- **Calibration check**: No slippage. Article explicitly says "the framework's value at this stage is heuristic-explanatory, not predictive" and "the hypothesis is therefore not in better evidential standing than the brain-side framing it competes with; both face the agnostic ceiling." Diagnostic test (would a tenet-accepting reviewer flag the claim as overstated?) returns no.
+- **Stability**: First deep review. Achieves stable state — bedrock disagreements (eliminative-materialist, MWI, hard-physicalist) noted in archive as not-to-be-re-flagged.
+- **Output**: [deep-review-2026-05-07-evolved-mind-brain-interface-efficacy](/reviews/deep-review-2026-05-07-evolved-mind-brain-interface-efficacy/)
 
 ## 2026-05-07 05:21 UTC - deep-review
 - **Status**: Success

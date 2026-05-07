@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-07
-ai_modified: 2026-05-07 01:22:00+00:00
+ai_modified: 2026-05-07 06:32:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,6 +22,7 @@ description: An interactionist-dualist reading of the human-other-animal cogniti
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-07 06:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +46,7 @@ The Unfinishable Map proposes this reading as a heuristic-explanatory move, not 
 
 The Map's [interactionist-dualist](/concepts/interactionist-dualism/) tradition holds that consciousness causally influences neural outcomes through some interface — a coupling between a non-physical mind and a physical brain whose specification remains open. Eccles' "psychon" model, the Beck-Eccles quantum-tunnelling account of synaptic exocytosis, Stapp's quantum-Zeno selection-and-amplification proposal, and Hodgson's wave-function-collapse-on-observation account all share the structural feature that something on the mind side reaches into something on the brain side and biases what would otherwise be quantum-indeterminate outcomes toward the patterns the conscious agent intends. The Map's [interface-problem](/topics/the-interface-problem/) article catalogues the candidate specifications and notes the framework is at a [pre-Keplerian](/project/framework-stage-calibration/) stage — accumulating measurements, not yet refining laws.
 
-What none of the canonical interactionist authors developed is an explicitly *scalar* account of how the interface might vary across species or across evolutionary time. Eccles' *Evolution of Consciousness* treats special anatomical adaptations of mammalian cortex as giving *rise* to consciousness — closer to a threshold model than a scaling model. The interface-efficacy hypothesis extends the tradition by treating the interface as a continuously varying biological feature, with efficacy axes selectable by ordinary evolutionary processes once a coupling exists. The four candidate axes:
+What none of the canonical interactionist authors developed is an explicitly *scalar* account of how the interface might vary across species or across evolutionary time. Eccles' *Evolution of the Brain: Creation of the Self* treats special anatomical adaptations of mammalian cortex as giving *rise* to consciousness — closer to a threshold model than a scaling model. The interface-efficacy hypothesis extends the tradition by treating the interface as a continuously varying biological feature, with efficacy axes selectable by ordinary evolutionary processes once a coupling exists. The four candidate axes:
 
 - **Selection bandwidth** — the number of distinct neural-pattern candidates the interface can hold in superposition and select among per unit time. The [10-bits-per-second result](/topics/bandwidth-of-consciousness/) (Zheng & Meister 2024) constrains conscious access against the brain's far higher gross processing capacity. A more efficacious interface would have higher bandwidth, within whatever ceiling [Born-rule causal-consistency](/topics/born-rule-and-the-consciousness-interface/) permits.
 - **Fidelity** — the proportion of mind-side intent that survives the coupling without being lost to decoherence or interface-side noise. Higher fidelity produces neural-pattern actualisation closer to what was selected.

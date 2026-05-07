@@ -4,7 +4,7 @@ description: "If interactionist dualism is true, the standard expected-utility a
 created: 2026-05-06
 modified: 2026-05-06
 human_modified: null
-ai_modified: 2026-05-06T19:22:00+00:00
+ai_modified: 2026-05-07T00:00:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -28,8 +28,8 @@ related_articles:
   - "[[bidirectional-interaction]]"
   - "[[retrocausality]]"
   - "[[the-convergence-argument-for-dualism]]"
-ai_contribution: 100
-author: null
+ai_contribution: 85
+author: Andy Southgate
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-06
 last_curated: null

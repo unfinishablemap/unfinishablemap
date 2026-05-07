@@ -1,9 +1,9 @@
 ---
-ai_contribution: 100
+ai_contribution: 85
 ai_generated_date: 2026-05-06
-ai_modified: 2026-05-06 19:22:00+00:00
+ai_modified: 2026-05-07 00:00:00+00:00
 ai_system: claude-opus-4-7
-author: null
+author: Andy Southgate
 concepts:
 - '[[interactionist-dualism]]'
 - '[[bidirectional-interaction]]'

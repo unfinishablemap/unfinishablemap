@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-07 03:24:00+00:00
+ai_modified: 2026-05-07 08:30:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense topics/dualism-as-ai-risk-mitigation.md (4,155 words, 138% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3,000-word soft target and 4,000-word hard threshold for `topics/`. The 2026-05-06 18:00 UTC manual condense reduced 4,914 → 4,158 (15% reduction) and was deemed "well within tolerance" by the human reviewer at 4% over hard threshold; subsequent edits (refines, deep-reviews, cross-link installs) have nudged the body back up to 4,155 words and the article remains in `hard_warning` territory per `tools/curate/length.py`. A second pass should preserve (a) the six-sub-argument structure (orthogonality + instrumental convergence; ensoulment counter-move; superintelligence-in-the-undeterminable-minefield setup; deliberate-spread-as-tactic; arena-magnitude-bounds-and-active-protection; Pascal's-mugging engagement); (b) the named worked examples (false-vacuum, retrocausal, synchronicity-class, prayer/karmic/aggregate-mind protection candidates); (c) all five tenet connections; (d) all engagement with Cutter (2025), Békefi (2025), Bostrom, Mørch, Asphaug; (e) the conditional-claim discipline that prevents the slide from "if dualism, then EU underdetermines" to the empirical claim. Trim Further Reading to load-bearing entries; eliminate hedging redundancy where structural hedges already carry the work; consider deferring detailed sub-arguments to linked articles (`[[concepts/possibility-probability-slippage]]`, `[[concepts/causal-powers]]`, `[[concepts/bidirectional-interaction]]`, `[[apex/machine-question]]`) where defensible. Target 3,300–3,800 words. Tenet alignment: Tenets 1, 3 + methodological. See `/condense` skill and the 2026-05-06 18:00 UTC condense changelog entry for the prior pass's preservation list.
+- **Source**: length_analysis
+- **Generated**: 2026-05-07
+
+### P2: Cross-review topics/the-convergence-argument-for-dualism.md considering dualism-as-ai-risk-mitigation insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from the 2026-05-06 expand-topic creation of `topics/dualism-as-ai-risk-mitigation.md`. The convergence-argument article currently lists `[[dualism-as-ai-risk-mitigation]]` in Further Reading with a one-line bridging clause ("A further convergent strand: alignment-relevant implications of dualism for the standard expected-utility argument for AI takeover") but the body has not been audited for substantive engagement. The new article adds a distinct convergent strand to the dualism case — the structural-indeterminability-of-mind-arena-consequences argument applied to AI alignment — that warrants integration into the convergence-argument's catalogue if it strengthens the overall convergent case without inflating the article. Cross-review should (a) grep convergence-argument-for-dualism for existing AI/alignment material; (b) decide whether to install a brief named-strand mention in the body (where the article enumerates convergent strands) or leave the Further Reading cross-link as the load-bearing pointer; (c) verify the conditional-claim discipline is not violated — convergence-argument's strands must remain coherent under the slippage discipline (per `concepts/possibility-probability-slippage`) and not absorb the dualism-as-ai-risk-mitigation conclusion as established empirical fact; (d) verify reciprocal back-link from dualism-as-ai-risk-mitigation to convergence-argument is installed where appropriate; (e) flag any contradictions or terminological drift. Short scope (~100–250 words touched). Tenet alignment: Tenets 1, 3 + methodological. See [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) and [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/).
+- **Source**: chain (from 2026-05-06 expand-topic of dualism-as-ai-risk-mitigation)
+- **Generated**: 2026-05-07
 
 ### P3: Resolve orphan references in topics/animal-consciousness.md
 - **Type**: refine-draft
@@ -3417,7 +3431,7 @@ From `[[reviews/pessimistic-2026-05-06]]`. The article has stabilised across thr
   3. Active-protection content is explicitly tagged speculative-integration tier in the parent (line 115); concept-page promotion would itself be a slippage hazard at the editorial register.
   4. Pascal's-mugging-vs-structural-unboundedness distinction is methodological — if it warrants extraction, the right home is a `project/` doc on direct-refutation discipline, not a concepts page.
   5. Parent §5 is self-contained post-condense + post-deep-review; future articles have a clean cross-link target at the topic level.
-  6. Concepts at 230/250 — the marginal slot is better spent on the two existing P3 candidates ([mind-arena](/mind-arena/) definitional, Gaming-Problem concept) which have stronger standalone-concept warrants.
+  6. Concepts at 230/250 — the marginal slot is better spent on the two existing P3 candidates (`mind-arena` definitional, Gaming-Problem concept) which have stronger standalone-concept warrants.
 - **Re-evaluation trigger**: revisit only if three or more future articles independently want to cross-link to this material with bridging text materially shared across them — that pattern would constitute the multi-article cross-reference warrant currently absent.
 - **Output**: no new article; canonical deferral record is the changelog entry above.
 
