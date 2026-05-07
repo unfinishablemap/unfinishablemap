@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-07 00:35:00+00:00
+ai_modified: 2026-05-07 01:22:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-07'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-07 01:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Evolved mind-brain interface efficacy
+- **Output**: [evolved-mind-brain-interface-efficacy](/topics/evolved-mind-brain-interface-efficacy/)
+- **Word count**: 2996 (within topics/ 2500–3000 target band; ok status)
+- **Based on research**: yes — [evolved-mind-brain-interface-efficacy-2026-05-05](/research/evolved-mind-brain-interface-efficacy-2026-05-05/)
+- **Tenet alignment**: presupposes Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction); methodologically requires Tenet 5 (Occam's Razor Has Limits); does not require Tenet 2 directly.
+- **Evidential calibration**: heuristic-explanatory rather than prediction-generating; expressed inline ("not in better evidential standing than the brain-side framing it competes with") rather than via headed Evidential-status callout.
+- **Source-attribution discipline**: Eccles, Beck, Hodgson, Stapp explicitly *not* attributed with the scaling-across-species reading; the Map's role as the article that seeds the scalar reframe stated directly. New York Declaration framing kept symmetric with Gutfreund's Standing Agnostic Challenge.
 
 ## 2026-05-07 00:35 UTC - deep-review
 - **Status**: Success

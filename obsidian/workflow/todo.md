@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/forward-in-time-conscious-selection.md (4,157 words, 139% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3,000-word soft target and 4,000-word hard threshold for `topics/`. The 2026-05-06 refine-draft installed several pessimistic-review fixes (improper-mixture FAPP framing, three-mechanisms consolidation, selection-criterion regress) without compression elsewhere; word count drifted upward across recent edits. Condense should preserve (a) the load-bearing FAPP-invisibility-as-dualism-territory commitment installed at lines 76–82 (cross-referenced by `apex/conjunction-coalesce.md`); (b) the post-decoherence-selection trilemma; (c) the framework-stage-calibration discipline on Hagan 2002 / Reimers 2009 / McKemmish 2009 framing; (d) tenet connections to Tenets 1, 2, and 3; (e) the "What Forward-in-Time Selection Does Not Resolve" section. Trim Further Reading and References to load-bearing entries; eliminate hedging redundancy where structural hedges already carry the work; defer detailed sub-arguments to linked articles where possible (`[[concepts/possibility-probability-slippage]]`, `[[concepts/decoherence]]`, `[[apex/conjunction-coalesce]]`). Target 3,000–3,300 words. Tenet alignment: Tenets 1, 2, 3; methodological. See `/condense` skill and the existing P3 reciprocal-hook task already queued for this article.
-- **Source**: length_analysis
-- **Generated**: 2026-05-07
-
 ### P2: Cross-review apex/machine-question.md considering dualism-as-ai-risk-mitigation insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3376,6 +3369,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-07: Condense topics/forward-in-time-conscious-selection.md (4,157 words, 139% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 3,000-word soft target and 4,000-word hard threshold for `topics/`. The 2026-05-06 refine-draft installed several pessimistic-review fixes (improper-mixture FAPP framing, three-mechanisms consolidation, selection-criterion regress) without compression elsewhere; word count drifted upward across recent edits. Condense should preserve (a) the load-bearing FAPP-invisibility-as-dualism-territory commitment installed at lines 76–82 (cross-referenced by `apex/conjunction-coalesce.md`); (b) the post-decoherence-selection trilemma; (c) the framework-stage-calibration discipline on Hagan 2002 / Reimers 2009 / McKemmish 2009 framing; (d) tenet connections to Tenets 1, 2, and 3; (e) the "What Forward-in-Time Selection Does Not Resolve" section. Trim Further Reading and References to load-bearing entries; eliminate hedging redundancy where structural hedges already carry the work; defer detailed sub-arguments to linked articles where possible (`[[concepts/possibility-probability-slippage]]`, `[[concepts/decoherence]]`, `[[apex/conjunction-coalesce]]`). Target 3,000–3,300 words. Tenet alignment: Tenets 1, 2, 3; methodological. See `/condense` skill and the existing P3 reciprocal-hook task already queued for this article.
+- **Output**: obsidian/topics/forward-in-time-conscious-selection.md
 
 ### ✓ 2026-05-07: Write topic article on evolved mind-brain interface efficacy
 - **Type**: expand-topic
