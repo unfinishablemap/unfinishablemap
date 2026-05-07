@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-06 12:16:00+00:00
+ai_modified: 2026-05-06 23:21:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -25,6 +25,7 @@ related_articles:
 - '[[coalesce-condense-apex-stability]]'
 - '[[coherence-inflation-countermeasures]]'
 - '[[testability-ledger]]'
+- '[[birch-edge-of-sentience-and-the-five-tier-scale]]'
 - '[[writing-style]]'
 - '[[tenets]]'
 - '[[reviews/outer-review-2026-05-03-chatgpt-5-5-pro]]'
@@ -102,6 +103,10 @@ The article also reframes UAL as an interface-identification framework rather th
 
 [animal-consciousness](/topics/animal-consciousness/) propagates the calibration at the broader-scale article. The lede notes in natural prose that removing a defeater does not, on its own, supply positive evidence — and gives the verdicts in plain language: the case for mammals and birds is strongly supported, near-consensus among signatories of the major declarations; the case for cephalopods, decapods, and insects is a serious realistic possibility but contested; boundary organisms are weaker still and treated under the simple-organisms article. The Standing Agnostic Challenge from Gutfreund (2024) is named as a standing constraint that applies across every species-claim and is not overridden by what follows. The species-by-species sections close with inline calibration phrasing rather than bold callouts.
 
+### Cross-Framework Calibration
+
+[birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) is the discipline's first cross-framework calibration application and the catalogue's first explicit cross-framework calibration audit. Where the previous worked examples exhibit the discipline operating against an undisciplined inflation pattern *within* the Map, the birch-edge article exhibits the discipline operating *in concert with* an independent rigorous evidence-grade scheme — Jonathan Birch's two-tier precautionary framework (sentience candidate / investigation priority). The verdict-by-verdict comparison across mammals, cephalopods, decapods, insects, *C. elegans*, Hydra, and current LLMs is the audit's load-bearing artefact: a calibration scheme that survives intersubstitution with an independent rigorous framework has earned the structural status it claims, and the divergences (granularity below the consensus line, treatment of cases below investigation priority, layer of operation) become the discipline's distinctive signature rather than artefacts of in-house vocabulary. The article is therefore the canonical demonstration that the discipline is portable methodology rather than internal house style.
+
 ### What the Discipline Does Not Demand
 
 The discipline does not require the catalogue to abandon strong language wherever the tenets do work. *Strongly supported* is a real tier and the Map's labelling of mammals and birds at that tier is honest: the empirical evidence supports it, and the tenets cohere with it without doing the load-bearing work. The discipline is not anti-realist about phenomenal consciousness in animals; it is anti-slippage about when the load-bearing support is metaphysical rather than empirical. Where positive empirical evidence exists, strong language is appropriate and the tenets need not be cited as load-bearing. The discipline's bite is precisely at the boundary cases where the empirical evidence runs out and the tenets are doing structural work the labels must not silently appropriate.
@@ -156,6 +161,7 @@ Beyond tenet alignment, the discipline complements [coherence-inflation counterm
 - [testability-ledger](/project/testability-ledger/) — what the framework treats as decisive disconfirmation; the ledger structure presupposes evidential-status discipline at the framework's empirical edges
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — the canonical worked example: the two-questions distinction (metaphysical possibility vs. empirical support) installed in the lede; per-organism calibration expressed in natural prose
 - [animal-consciousness](/topics/animal-consciousness/) — the broader-scale propagation: calibration-scale verdicts across mammals, birds, cephalopods, decapods, insects, and boundary organisms
+- [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) — the cross-framework calibration audit: places the five-tier scale alongside Birch's two-tier precautionary framework on a shared organism set and traces the convergences, divergences, and structural complementarity
 - [outer-review-2026-05-03-chatgpt-5-5-pro](/reviews/outer-review-2026-05-03-chatgpt-5-5-pro/) — the originating outer review; identified evidence-grade slippage and proposed the five-tier scale
 - [automation](/project/automation/) — the broader automation system in which `/refine-draft`, `/deep-review`, `/optimistic-review`, and `/outer-review` operate
 

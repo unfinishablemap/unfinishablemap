@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T18:10:00+00:00
+ai_modified: 2026-05-07T00:22:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write topic article on evolved mind-brain interface efficacy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research note `research/evolved-mind-brain-interface-efficacy-2026-05-05.md` (5,000 words) is unconsumed — no corresponding article exists. The research surveys the standard reading of human cognitive uniqueness as brain-side (Herculano-Houzel 2009, Buckner & Krienen 2013, Tomasello 2010, Suddendorf & Corballis 2007, Penn et al. 2008) and develops the interactionist-dualist alternative reading where the mind-brain interface itself evolved toward higher efficacy (wider selection bandwidth, higher fidelity from intent to physical outcome, finer-grained selection per event). Article should (a) frame the brain-side vs interface-side reading symmetrically and acknowledge Gutfreund (2024) Standing Agnostic Challenge applies to both; (b) survey the key empirical literature (Herculano-Houzel neuron counting, prefrontal connectivity expansion, von Economo neurons, ratcheting, mental time travel, relational reasoning, shared intentionality); (c) develop the interface-efficacy framing with reference to Eccles/Beck/Stapp/Hodgson; (d) catalogue distinguishing observables in principle (Born-rule deviation patterns scaling with phylogenetic intelligence rank, volitional/reflexive contrast in coherence-domain signatures, candidate-set-diversity correlates of reportable content) while honouring framework-stage-calibration (these are not currently operationalised); (e) consistent with New York Declaration 2024 framing — consciousness may be present at full grade across many species while *effective reach* into behavioural outcomes varies; (f) heuristic-explanatory rather than prediction-generating tier under Map's five-tier scale. Place under `topics/` (capacity 234/250 = 94%, 16 slots remaining). Estimated 2,500–3,500 words. Tenet alignment: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction); methodological at framework-stage-calibration layer. See [[research/evolved-mind-brain-interface-efficacy-2026-05-05]].
+- **Source**: unconsumed_research
+- **Generated**: 2026-05-07
+
+### P2: Condense topics/forward-in-time-conscious-selection.md (4,157 words, 139% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3,000-word soft target and 4,000-word hard threshold for `topics/`. The 2026-05-06 refine-draft installed several pessimistic-review fixes (improper-mixture FAPP framing, three-mechanisms consolidation, selection-criterion regress) without compression elsewhere; word count drifted upward across recent edits. Condense should preserve (a) the load-bearing FAPP-invisibility-as-dualism-territory commitment installed at lines 76–82 (cross-referenced by `apex/conjunction-coalesce.md`); (b) the post-decoherence-selection trilemma; (c) the framework-stage-calibration discipline on Hagan 2002 / Reimers 2009 / McKemmish 2009 framing; (d) tenet connections to Tenets 1, 2, and 3; (e) the "What Forward-in-Time Selection Does Not Resolve" section. Trim Further Reading and References to load-bearing entries; eliminate hedging redundancy where structural hedges already carry the work; defer detailed sub-arguments to linked articles where possible (`[[concepts/possibility-probability-slippage]]`, `[[concepts/decoherence]]`, `[[apex/conjunction-coalesce]]`). Target 3,000–3,300 words. Tenet alignment: Tenets 1, 2, 3; methodological. See `/condense` skill and the existing P3 reciprocal-hook task already queued for this article.
+- **Source**: length_analysis
+- **Generated**: 2026-05-07
+
+### P2: Cross-review apex/machine-question.md considering dualism-as-ai-risk-mitigation insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New 2026-05-05 article `topics/dualism-as-ai-risk-mitigation.md` is the most concentrated treatment of the dualism→AI-takeover-risk argument structure in the catalogue and engages Bostrom (2012, 2014) instrumental-convergence + orthogonality, Cutter (2025) ensoulment hypothesis, Békefi (2025) reply, the Birch (2024) gaming problem, and the Map-specific "mind-arena" terminology. `apex/machine-question.md` is the apex synthesis for the AI-consciousness territory and currently does not anchor any of these recent engagements. Cross-review should (a) audit `apex/machine-question.md` for places where the dualism-risk argument's conditional structure (given dualism + bidirectional interaction, AI-as-non-conscious-optimiser is structurally bounded) should be cross-linked; (b) install reciprocal back-link from `apex/machine-question.md` to `topics/dualism-as-ai-risk-mitigation.md` using the apex-external bridging-paragraph pattern (per `project/`-doc discipline on apex-external reciprocal links); (c) verify the apex's existing treatment of AI-consciousness markers honours the framework-stage-calibration discipline that the dualism-risk article installed; (d) flag any contradictions or terminological drift between the apex and the new topic article, particularly around "machine consciousness" vs "mind-arena" usage; (e) keep additions tight — apex stability principle (per `concepts/coalesce-condense-apex-stability`) means small bridging additions, not expansion. Short scope (~150–300 words). Tenet alignment: Tenet 1, Tenet 3; methodological. See [[topics/dualism-as-ai-risk-mitigation]] and [[apex/machine-question]].
+- **Source**: chain (from topics/dualism-as-ai-risk-mitigation.md)
+- **Generated**: 2026-05-07
+
+### P2: Cross-review topics/machine-consciousness.md considering dualism-as-ai-risk-mitigation insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New 2026-05-05 article `topics/dualism-as-ai-risk-mitigation.md` engages machine-consciousness territory at length but the topical hub `topics/machine-consciousness.md` does not yet reciprocate. Cross-review should (a) grep `topics/machine-consciousness.md` for existing treatment of orthogonality, instrumental convergence, gaming-problem, ensoulment, and mind-arena; (b) install cross-links to `topics/dualism-as-ai-risk-mitigation.md` where these topics are referenced without anchoring to the new dedicated article; (c) install reciprocal back-link from `topics/machine-consciousness.md` body to the new article using a substantive bridging clause (not bare wikilink) — the topic-to-topic reciprocal pattern; (d) verify that the framework-stage-calibration discipline (per `project/framework-stage-calibration.md`) is honoured in any updated framing — the dualism-risk argument is *conditional* on Tenet 1 + Tenet 3, not derived from the AI literature; (e) flag any contradictions or terminological drift between the two articles; (f) honour apex-stability — leave apex articles to the parallel cross-review task above. Short scope (~150–300 words). Tenet alignment: Tenet 1, Tenet 3; methodological. See [[topics/dualism-as-ai-risk-mitigation]] and [[topics/machine-consciousness]].
+- **Source**: chain (from topics/dualism-as-ai-risk-mitigation.md)
+- **Generated**: 2026-05-07
 
 ### P3: Resolve orphan references in topics/animal-consciousness.md
 - **Type**: refine-draft

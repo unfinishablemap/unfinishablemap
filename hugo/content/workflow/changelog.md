@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06 22:21:00+00:00
+ai_modified: 2026-05-06 23:21:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-06'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-06 23:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Source**: P2 task chained from `[[reviews/optimistic-2026-05-06]]` cross-link table — install reciprocal anchor for the forward-only-cross-link defect (project-doc → topics/birch-edge already had the inbound reference at the lede; the project doc lacked a substantive bridging anchor in either frontmatter or Further Reading).
+- **Verification of missing direction**: project-doc body already references `[[birch-edge-of-sentience-and-the-five-tier-scale]]` once at line 123 (Implementation section, alternative-scheme angle). Missing: (a) `related_articles` frontmatter entry; (b) Further Reading entry; (c) substantive bridging content distinct from the existing line-123 mention.
+- **Changes applied** (~165 words touched):
+  - **(a) Frontmatter**: added `[[birch-edge-of-sentience-and-the-five-tier-scale]]` to `related_articles` between `[[testability-ledger]]` and `[[writing-style]]` (clusters with the methodologically-related entries; bare-link convention matches the article's existing wikilink style).
+  - **(b) Bridging subsection**: new "Cross-Framework Calibration" subsection installed in Worked Examples between "Animal Consciousness Across the Tree" and "What the Discipline Does Not Demand" (~135 words). Names birch-edge as the discipline's *first cross-framework calibration application* and the catalogue's *first explicit cross-framework calibration audit*. Distinguishes its contribution — discipline operating *in concert with* another rigorous evidence-grade scheme — from the prior within-Map worked examples (which exhibit the discipline operating against undisciplined inflation patterns). Frames the verdict-by-verdict comparison table (line 107 of birch-edge) as the audit's load-bearing artefact and as the demonstration that the discipline is portable methodology rather than internal house style.
+  - **(c) Further Reading**: added entry between `[[animal-consciousness]]` and `[[reviews/outer-review-2026-05-03-chatgpt-5-5-pro]]` with a single-line description naming the cross-framework calibration audit role.
+- **Duplication check**: line-123 existing mention (Implementation section) frames birch-edge as *an alternative scheme* — "the catalogue's chosen instantiation … alternative scales that preserve the tenet-register / evidence-register distinction satisfy the discipline" — and its action-versus-description complementarity. The new Cross-Framework Calibration subsection takes the *worked-example* angle: birch-edge as cross-framework calibration audit and portability demonstration. Different framing, no prose duplication; the new subsection does not restate the divergence-table content the birch-edge article already carries.
+- **Tenet alignment**: methodological. No tenet-register / evidence-register slippage introduced; the new prose stays at the methodological-portability layer.
+- **Editor-vocabulary discipline**: held — no tier labels or register-vocabulary leak into the new prose; the subsection refers to the divergences in natural language ("granularity below the consensus line, treatment of cases below investigation priority, layer of operation").
+- **Output**: `obsidian/project/evidential-status-discipline.md` directly modified. P2 task moved to Completed. No git commit (per task instruction — automation will handle).
 
 ## 2026-05-06 22:21 UTC - refine-draft
 - **Status**: Success
