@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-06T23:21:00+00:00
+ai_modified: 2026-05-07T00:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-07 00:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-in-simple-organisms]]
+- **Word count**: 3903 → 3903 (length-neutral; soft_warning at 130% of 3000 target)
+- **Critical issues addressed**: 1
+  - **Factual error: slime-mold microtubule conflation.** Article said "organisms without neurons (and thus without microtubules)" — slime molds (and all eukaryotes) possess microtubules as cytoskeletal elements. Penrose–Hameroff specifically targets *neuronal* microtubules organised for orchestrated collapse. Caught by the Quantum Skeptic (Tegmark) persona. Fix: replaced parenthetical with accurate one ("Slime molds possess microtubules as cytoskeletal elements; what they lack is the orchestrated neuronal architecture the Penrose–Hameroff hypothesis treats as load-bearing"); updated wikilink display from "quantum effects in microtubules" to "quantum effects in neuronal microtubules".
+- **Medium issues addressed**: 0 (none found; 2026-05-04 calibration pass left no medium issues)
+- **Enhancements made**: 0 (article in length-neutral mode; +18-word fix offset by -18-word redundancy trim of bridging sentence in same paragraph)
+- **Calibration check**: passed. Per-organism evidential-status verdicts (live hypothesis / speculative integration for *C. elegans*; speculative integration for Hydra; speculative integration / cognition without consciousness for slime molds) honestly calibrated. No tenet-load → evidence-elevation slippage. UAL calibration paragraph correctly preserves the negative empirical signal.
+- **Reasoning-mode classification (editor-internal)**:
+  - engagement with Frankish/illusionism: Mode One; the scaling problem and Tallis regress are internal-to-illusionism critiques (302-neuron systems can't generate the meta-representational machinery illusionism requires; misrepresentation presupposes presentation).
+  - engagement with Many-Worlds: Mode Three; framework-boundary marking via haecceity argument, no claim to refute MWI from inside MWI.
+  - engagement with McGinn/mysterianism: not opposed; shared framework, diagnosis endorsed and applied.
+  - engagement with Whitehead/process philosophy: alternative framing, not direct opposition; article explicitly declines to commit to Whiteheadian metaphysics.
+- **Label leakage**: none. Editor vocabulary (`mode-mixed`, `unsupported-jump`, `bedrock-perimeter`, etc.) absent from article body. The 2026-05-05 fix is holding.
+- **Stability**: fifth review of this article; first four found article stable; this one found one factual error (correctable) introduced earlier and one length-neutral fix opportunity.
+- **Output**: [[reviews/deep-review-2026-05-07-consciousness-in-simple-organisms]]
 
 ## 2026-05-06 23:21 UTC - refine-draft
 - **Status**: Success
