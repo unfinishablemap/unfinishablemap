@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-07T03:24:00+00:00
+ai_modified: 2026-05-07T04:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-07 04:23 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Cross-review context**: integrated insights from new companion [[dualism-as-ai-risk-mitigation]] (created 2026-05-06)
+- **Word count**: 3566 → 3630 (+64; 91% of 4000 soft threshold)
+- **Critical issues addressed**: 1 (label leakage — three editor-vocabulary terms in the Duch paragraph: `convergent-conclusion-opposite-reasoning pattern`, `bedrock-clash`, `(per the labour-division [[direct-refutation-discipline]] specifies)` — all rewritten in natural prose, substantive content preserved)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (added third-stake cross-link to dualism-as-ai-risk-mitigation in The Stakes section; added to related_articles frontmatter; added to Further Reading)
+- **Reasoning-mode classifications** (editor's notes only):
+  - engagement with functionalism (Block, generic): Mode Two; foundational-move identification ("has not explained why any functional organization should feel like anything at all")
+  - engagement with Searle (Chinese Room): Mode One; using opponent's argument supportively, with appropriate hedge
+  - engagement with Duch (articon): Mode Three; framework-boundary marking with labour-division to dedicated articles — bedrock correctly marked, label leakage now removed
+  - engagement with Hoel (continual-learning): Mode One; using opponent's framework to support apex position
+- **Output**: [[reviews/deep-review-2026-05-07-machine-question]]
 
 ## 2026-05-07 03:24 UTC - optimistic-review
 - **Status**: Success
