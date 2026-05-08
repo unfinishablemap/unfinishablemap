@@ -45,7 +45,7 @@ related_articles:
   - "[[self-stultification-as-master-argument]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[downward-causation-mental-causation-2026-01-15]]"
-  - "[[mind-brain-interface-efficacy]]"
+  - "[[interface-efficacy-and-the-cognitive-gap]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -239,7 +239,7 @@ Mental causation and downward causation are central to the Map's framework.
 - [[mind-matter-interface]] — The unified two-layer architecture
 - [[consciousness-bandwidth-architecture]] — Whether the mind-body channel carries enough information
 - [[selection-only-mind-influence]] — Information-theoretic limits on per-event selection that the quantum mechanism must respect
-- [[mind-brain-interface-efficacy]] — Comparative-evolutionary scaling of the interface mechanism across species
+- [[interface-efficacy-and-the-cognitive-gap]] — Comparative-evolutionary scaling of the interface mechanism across species
 - [[concepts/many-worlds]] — Why the Map rejects MWI (and why it matters here)
 - [[pairing-problem]] — What connects this mind to this body
 - [[concepts/epiphenomenalism]] — The view denying mental causation

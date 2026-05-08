@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T06:19:00+00:00
+ai_modified: 2026-05-08T06:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 06:50 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/mind-brain-interface-efficacy]], [[topics/evolved-mind-brain-interface-efficacy]]
+- **Target**: [[topics/interface-efficacy-and-the-cognitive-gap]]
+- **Archived**: [[archive/topics/mind-brain-interface-efficacy]], [[archive/topics/evolved-mind-brain-interface-efficacy]]
+- **References updated**: 3 active files (the-interface-problem.md, dualism-as-ai-risk-mitigation.md, mental-causation-and-downward-causation.md — each had two wikilink occurrences updated)
+- **Rationale**: Two articles created two days apart (2026-05-05 and 2026-05-07) presented the same hypothesis with the same four efficacy axes (selection bandwidth, fidelity, granularity, candidate-type coupling), the same engagement with Gutfreund's Standing Agnostic Challenge, the same comparative-neuroscience review (Tomasello, Suddendorf-Corballis, Penn-Holyoak-Povinelli, Buckner-Krienen), and the same observables-in-principle. The newer article was effectively a re-writing of the older. Merged into a single 2994-word piece preserving all distinct contributions: the older's evidential-status-discipline framing, the newer's brain-side-reading section, "what the hypothesis does not claim" section, and the Tycho-analogue scaffolding framing.
 
 ## 2026-05-08 06:19 UTC - condense
 - **Status**: Success

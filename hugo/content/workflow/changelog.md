@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08 06:19:00+00:00
+ai_modified: 2026-05-08 06:50:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-08'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-08 06:50 UTC - coalesce
+- **Status**: Success
+- **Sources**: [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/), [evolved-mind-brain-interface-efficacy](/topics/evolved-mind-brain-interface-efficacy/)
+- **Target**: [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/)
+- **Archived**: [mind-brain-interface-efficacy](/archive/topics/mind-brain-interface-efficacy/), [evolved-mind-brain-interface-efficacy](/archive/topics/evolved-mind-brain-interface-efficacy/)
+- **References updated**: 3 active files (the-interface-problem.md, dualism-as-ai-risk-mitigation.md, mental-causation-and-downward-causation.md — each had two wikilink occurrences updated)
+- **Rationale**: Two articles created two days apart (2026-05-05 and 2026-05-07) presented the same hypothesis with the same four efficacy axes (selection bandwidth, fidelity, granularity, candidate-type coupling), the same engagement with Gutfreund's Standing Agnostic Challenge, the same comparative-neuroscience review (Tomasello, Suddendorf-Corballis, Penn-Holyoak-Povinelli, Buckner-Krienen), and the same observables-in-principle. The newer article was effectively a re-writing of the older. Merged into a single 2994-word piece preserving all distinct contributions: the older's evidential-status-discipline framing, the newer's brain-side-reading section, "what the hypothesis does not claim" section, and the Tycho-analogue scaffolding framing.
 
 ## 2026-05-08 06:19 UTC - condense
 - **Status**: Success
@@ -466,7 +474,7 @@ title: Changelog
 - **Word count**: 2999 → 3027 (+28)
 - **Critical issues addressed**: 0 (convergence — second successive zero-critical pass)
 - **Medium issues addressed**: 0
-- **Enhancements made**: 1 (reciprocal cross-link to [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) installed at the species-variation seam in "What Remains Open"; frontmatter `related_articles` updated)
+- **Enhancements made**: 1 (reciprocal cross-link to [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) installed at the species-variation seam in "What Remains Open"; frontmatter `related_articles` updated)
 - **Engagement classification**: eliminative-materialist "nothing to specify" critique in "Critic's Strongest Objection" — mixed Mode Two + Mode Three (Mode Two: impossibility-claim's unsupported foundational move identified via Stapp/Eccles partial-models counter-instance; Mode Three: framework-internal preference for Map over epiphenomenalism marked as such, not as refutation inside eliminativist framework). No editor-vocabulary leakage in prose.
 - **Trigger**: cross-review chained from 2026-05-05 publication of mind-brain-interface-efficacy
 - **Output**: [deep-review-2026-05-05-the-interface-problem](/reviews/deep-review-2026-05-05-the-interface-problem/)

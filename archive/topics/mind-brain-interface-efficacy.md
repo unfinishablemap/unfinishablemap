@@ -32,6 +32,11 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-05
 last_curated: null
+archived: true
+archived_date: 2026-05-08T06:50:00+00:00
+superseded_by: "/topics/interface-efficacy-and-the-cognitive-gap/"
+archive_reason: "Coalesced into Interface Efficacy and the Cognitive Gap"
+original_path: "/topics/mind-brain-interface-efficacy/"
 ---
 
 The human-other-animal intelligence gap admits a reframing the standard literature does not develop. Where mainstream comparative neuroscience locates the gap on the brain side — more cortical neurons, expanded prefrontal connectivity, untethered association cortex, distinctive von Economo neurons — the [[the-interface-problem|mind-brain interface]] itself is a candidate locus of evolution. Under interactionist dualism, the same comparative data permit a structurally different reading: rather than (or in addition to) the brain becoming a better computer, the interface coupling consciousness to neural-pattern selection may have evolved toward greater efficacy. Consciousness might be present at full grade across many species while *effective reach* into behavioural outcomes varies along the same phylogenetic gradient that produced the cognitive gap.

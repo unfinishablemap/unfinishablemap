@@ -46,7 +46,7 @@ related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
 - '[[interface-specification-programme]]'
 - '[[framework-stage-calibration]]'
-- '[[mind-brain-interface-efficacy]]'
+- '[[interface-efficacy-and-the-cognitive-gap]]'
 title: 'The Interface Problem: Location and Specification'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -142,7 +142,7 @@ The framework is in-principle falsifiable, even where not yet so in practice. If
 
 ## What Remains Open
 
-Constrained pluralism narrows location; specification remains open. **Which molecular mechanism** within the attention-motor architecture hosts the indeterminacies? Ion channels at synapses remain the most physically specific candidate. The **coupling law** ([psychophysical control law](/topics/the-psychophysical-control-law/)) — how phenomenal effort maps to physical selection bias — remains unspecified. Whether the **hierarchy is continuous** or marked by a sharp transition is open. **Whether location varies across species** — cephalopods and arthropods may host the interface differently — is taken up in [interface heterogeneity](/concepts/interface-heterogeneity/). **Whether efficacy varies** along the phylogenetic gradient producing the human-other-animal cognitive gap — bandwidth, fidelity, granularity, and candidate-type coupling as scaling axes — is taken up in [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/).
+Constrained pluralism narrows location; specification remains open. **Which molecular mechanism** within the attention-motor architecture hosts the indeterminacies? Ion channels at synapses remain the most physically specific candidate. The **coupling law** ([psychophysical control law](/topics/the-psychophysical-control-law/)) — how phenomenal effort maps to physical selection bias — remains unspecified. Whether the **hierarchy is continuous** or marked by a sharp transition is open. **Whether location varies across species** — cephalopods and arthropods may host the interface differently — is taken up in [interface heterogeneity](/concepts/interface-heterogeneity/). **Whether efficacy varies** along the phylogenetic gradient producing the human-other-animal cognitive gap — bandwidth, fidelity, granularity, and candidate-type coupling as scaling axes — is taken up in [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/).
 
 ## Relation to Site Perspective
 

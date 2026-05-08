@@ -22,7 +22,7 @@ topics: []
 **Date**: 2026-05-05
 **Article**: [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-04-22](/reviews/deep-review-2026-04-22-mental-causation-and-downward-causation/)
-**Context**: Cross-review triggered by the 2026-05-05 publication of [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) and its supporting article [selection-only-mind-influence](/topics/selection-only-mind-influence/). The new articles introduce (a) a strict information-theoretic ceiling on per-event mind-side selection and (b) a comparative-evolutionary reframe of interface variability — both intersecting this article's "Bandwidth and amplification" treatment of the policy-level reading.
+**Context**: Cross-review triggered by the 2026-05-05 publication of [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) and its supporting article [selection-only-mind-influence](/topics/selection-only-mind-influence/). The new articles introduce (a) a strict information-theoretic ceiling on per-event mind-side selection and (b) a comparative-evolutionary reframe of interface variability — both intersecting this article's "Bandwidth and amplification" treatment of the policy-level reading.
 
 **Word count**: 3032 → 3098 (+66 words, 121% → 124% of 2500 soft threshold; hard threshold 3500 not approached)
 
@@ -49,8 +49,8 @@ None. The article's existing content was checked against the new attribution-acc
 1. **Missing cross-link to [selection-only-mind-influence](/topics/selection-only-mind-influence/)**: The article's "Bandwidth and amplification" entry already discusses ~10 bits/s policy-level work and amplification mechanisms but lacked the formal information-theoretic ceiling (log₂(N) per event, ε² / (2 ln 2) per Born-bias-bounded trial) that the new article derives. The absence left the policy-level reading less tightly anchored than the supporting concept now allows.
    - **Resolution**: Inserted one clause into the bandwidth paragraph linking [selection-only-mind-influence](/topics/selection-only-mind-influence/) and stating both the unconstrained and Born-rule-preserving ceilings, with the existing amplification sentence preserved.
 
-2. **Missing cross-link to [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/)**: The interface mechanism this article specifies admits a comparative-evolutionary scaling treatment (the new topic article); reciprocal cross-linking aids navigability.
-   - **Resolution**: Added [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) to related_articles frontmatter and Further Reading. Body integration was considered but declined: the comparative dimension is one structural level above this concept article's mechanism focus, and the topic article carries that load directly.
+2. **Missing cross-link to [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/)**: The interface mechanism this article specifies admits a comparative-evolutionary scaling treatment (the new topic article); reciprocal cross-linking aids navigability.
+   - **Resolution**: Added [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) to related_articles frontmatter and Further Reading. Body integration was considered but declined: the comparative dimension is one structural level above this concept article's mechanism focus, and the topic article carries that load directly.
 
 ### Counterarguments Considered
 
@@ -97,12 +97,12 @@ No boundary-substitution found. No editor-vocabulary leakage in article prose. T
 ### Enhancements Made
 
 1. **Information-theoretic ceiling integration**: The bandwidth paragraph now references the formal log₂(N) per-event and ε²/(2 ln 2) per-Born-bias-bounded-trial ceilings derived in [selection-only-mind-influence](/topics/selection-only-mind-influence/). This grounds the existing ~10 bits/s policy-level reading in formal information-theoretic terms without changing any of the existing claims.
-2. **Cross-link reciprocity**: [selection-only-mind-influence](/topics/selection-only-mind-influence/) added to concepts frontmatter; [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) added to related_articles. Both added to Further Reading.
+2. **Cross-link reciprocity**: [selection-only-mind-influence](/topics/selection-only-mind-influence/) added to concepts frontmatter; [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) added to related_articles. Both added to Further Reading.
 
 ### Cross-links Added
 
 - [selection-only-mind-influence](/topics/selection-only-mind-influence/) (body + frontmatter + Further Reading)
-- [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) (frontmatter + Further Reading)
+- [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) (frontmatter + Further Reading)
 
 ## Length Analysis
 
@@ -115,7 +115,7 @@ The 2026-04-22 review noted that this article is justifiably above the 2500 soft
 
 ## Remaining Items
 
-None. The cross-review integration is complete: [selection-only-mind-influence](/topics/selection-only-mind-influence/) and [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) both reciprocally linked.
+None. The cross-review integration is complete: [selection-only-mind-influence](/topics/selection-only-mind-influence/) and [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) both reciprocally linked.
 
 ## Stability Notes
 
@@ -130,6 +130,6 @@ None. The cross-review integration is complete: [selection-only-mind-influence](
 - **Convergence criterion**: Future reviews should only modify this article if (a) a newly-published concept page needs reciprocal cross-linking (as here), (b) a factual/attribution error is discovered, (c) wikilinks break due to site restructuring, or (d) a new outer-review finding identifies a slippage or boundary-substitution issue. Reopening philosophical content remains unwarranted.
 - **Division of labour with new articles**:
   - [selection-only-mind-influence](/topics/selection-only-mind-influence/) carries the full information-theoretic derivation; this article references the result.
-  - [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) carries the comparative-evolutionary scaling discussion; this article references via Further Reading.
+  - [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) carries the comparative-evolutionary scaling discussion; this article references via Further Reading.
   - [trumping-preemption](/concepts/trumping-preemption/) carries the structural template for delegatory dualism; this article references the template via the existing 2026-04-22 integration.
   - Future cross-reviews should preserve this division: extend the dependency articles, not this concept article, when new content emerges in those domains.

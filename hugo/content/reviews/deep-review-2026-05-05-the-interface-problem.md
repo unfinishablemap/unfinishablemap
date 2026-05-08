@@ -20,11 +20,11 @@ topics: []
 **Article**: [The Interface Problem: Location and Specification](/topics/the-interface-problem/)
 **Previous review**: [2026-05-01](/reviews/deep-review-2026-05-01-the-interface-problem/)
 **Word count**: 2999 → 3027 (+28)
-**Trigger**: Cross-review chained from publication of [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) (2026-05-05); reverse-link installation.
+**Trigger**: Cross-review chained from publication of [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) (2026-05-05); reverse-link installation.
 
 ## Context
 
-Targeted cross-review. The new [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) article (published 2026-05-05) places itself within the interface-problem cluster: its `topics` frontmatter cites the-interface-problem, and its body explicitly distinguishes itself from interface-heterogeneity (*"Where interface heterogeneity says interfaces may differ in **kind** across species, interface-efficacy adds a quantitative-scaling layer on top: interfaces may also differ in **grade** along axes that map onto cognitive grade"*). The reverse direction — from the-interface-problem back to the new article — was not yet installed. This review installs the reciprocal back-link and confirms that the broader article remains stable on bedrock disagreements catalogued in [the 2026-05-01 review](/reviews/deep-review-2026-05-01-the-interface-problem/).
+Targeted cross-review. The new [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) article (published 2026-05-05) places itself within the interface-problem cluster: its `topics` frontmatter cites the-interface-problem, and its body explicitly distinguishes itself from interface-heterogeneity (*"Where interface heterogeneity says interfaces may differ in **kind** across species, interface-efficacy adds a quantitative-scaling layer on top: interfaces may also differ in **grade** along axes that map onto cognitive grade"*). The reverse direction — from the-interface-problem back to the new article — was not yet installed. This review installs the reciprocal back-link and confirms that the broader article remains stable on bedrock disagreements catalogued in [the 2026-05-01 review](/reviews/deep-review-2026-05-01-the-interface-problem/).
 
 ## Pessimistic Analysis Summary
 
@@ -57,7 +57,7 @@ Per the stability notes from [2026-05-01](/reviews/deep-review-2026-05-01-the-in
 
 ### Attribution Accuracy Check
 
-All attribution checks from the 2026-05-01 review continue to hold. No new attributions introduced in this pass (the cross-link sentence references no source author; "bandwidth, fidelity, granularity, and candidate-type coupling as scaling axes" is a summary of the Map's own four-axes taxonomy from [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) and is correctly attributed via the link rather than by source author).
+All attribution checks from the 2026-05-01 review continue to hold. No new attributions introduced in this pass (the cross-link sentence references no source author; "bandwidth, fidelity, granularity, and candidate-type coupling as scaling axes" is a summary of the Map's own four-axes taxonomy from [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) and is correctly attributed via the link rather than by source author).
 
 ## Optimistic Analysis Summary
 
@@ -78,11 +78,11 @@ All preservation targets from the 2026-05-01 stability notes hold:
 ### Enhancements Made
 
 - Cross-link installation at the natural editorial seam in "What Remains Open." The species-variation passage now tracks two structural axes of cross-species difference: *kind* (interface-heterogeneity) and *grade* (mind-brain-interface-efficacy). This makes the article's treatment of cross-species variation more complete without expanding the article's own commitments — the efficacy claim is licensed at the cross-link, not in this article's prose.
-- Frontmatter `related_articles` updated with [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) (now last entry, ahead of any future additions).
+- Frontmatter `related_articles` updated with [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) (now last entry, ahead of any future additions).
 
 ### Cross-links Added
 
-- [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) — body cross-link in "What Remains Open" species-variation passage; frontmatter `related_articles` entry. Forward-link direction now closed; the new article already cross-links back via its `topics` frontmatter and body references.
+- [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) — body cross-link in "What Remains Open" species-variation passage; frontmatter `related_articles` entry. Forward-link direction now closed; the new article already cross-links back via its `topics` frontmatter and body references.
 
 ### Effective Patterns Worth Preserving
 

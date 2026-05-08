@@ -72,7 +72,7 @@ None. The article's stability from the prior review holds; integration is now ad
 
 If a future pass wants to expand inbound coverage, the next-best candidates are:
 - [ai-consciousness](/topics/ai-consciousness/) (currently 121% length — would require length-neutral swap)
-- [mind-brain-interface-efficacy](/topics/mind-brain-interface-efficacy/) / [the-interface-problem](/topics/the-interface-problem/) (less direct conceptual overlap; lower priority)
+- [mind-brain-interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) / [the-interface-problem](/topics/the-interface-problem/) (less direct conceptual overlap; lower priority)
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/) (the article cites this discipline by name; a reciprocal link is plausible)
 
 ## Stability Notes

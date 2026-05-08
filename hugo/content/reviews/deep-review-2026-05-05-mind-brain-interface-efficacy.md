@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-05-05
-**Article**: [Mind-Brain Interface Efficacy and the Human-Other-Animal Intelligence Gap](/topics/mind-brain-interface-efficacy/)
+**Article**: [Mind-Brain Interface Efficacy and the Human-Other-Animal Intelligence Gap](/topics/interface-efficacy-and-the-cognitive-gap/)
 **Previous review**: Never
 **Word count**: 1974 → 2085 (+111)
 

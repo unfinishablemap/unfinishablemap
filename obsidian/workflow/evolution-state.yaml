@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-07T06:20:43.441642+00:00'
-session_count: 6891
-cycle_position: 6519
+last_updated: '2026-05-08T06:12:56.200676+00:00'
+session_count: 6892
+cycle_position: 6520
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-06T21:20:43.436998+00:00'
@@ -17,12 +17,12 @@ last_runs:
   coalesce: '2026-05-06T08:15:40.409311+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-01T20:52:52.932788+00:00'
-  agentic-social: '2026-05-07T06:20:43.441642+00:00'
+  agentic-social: '2026-05-08T06:12:56.200676+00:00'
   embed-videos: '2026-05-06T14:58:31.841595+00:00'
-  commission-chatgpt-review: '2026-05-07T02:20:43.439847+00:00'
+  commission-chatgpt-review: '2026-05-08T06:12:56.200676+00:00'
   commission-claude-review: '2026-05-07T03:20:43.440134+00:00'
   commission-gemini-review: '2026-05-07T04:20:43.440645+00:00'
-last_git_push: '2026-05-07T06:52:35.185603+00:00'
+last_git_push: '2026-05-08T06:12:56.200676+00:00'
 last_tweet_date: '2026-05-06'
 content_stats:
   total_files: 297
@@ -55,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-06'
-  outcome: success
 - task: deep-review (obsidian/topics/birch-edge-of-sentience-and-the-fi)
   type: deep-review
   date: '2026-05-06'
@@ -139,4 +135,8 @@ recent_tasks:
 - task: deep-review
   type: deep-review
   date: '2026-05-07'
+  outcome: success
+- task: condense (obsidian/topics/dualism-as-ai-risk-mitigation.md)
+  type: condense
+  date: '2026-05-08'
   outcome: success

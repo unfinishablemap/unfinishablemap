@@ -1,37 +1,46 @@
 ---
-title: "Evolved Mind-Brain Interface Efficacy"
-description: "An interactionist-dualist reading of the human-other-animal cognitive gap as scaling in interface efficacy rather than only in brain-side computation. A speculative integration the Map proposes alongside, not against, mainstream comparative neuroscience."
-created: 2026-05-07
-modified: 2026-05-07
-human_modified:
-ai_modified: 2026-05-07T06:32:00+00:00
-last_deep_review: 2026-05-07T06:32:00+00:00
-draft: false
-topics:
-  - "[[animal-consciousness]]"
-  - "[[comparative-consciousness-and-interface-differences]]"
-  - "[[invertebrate-consciousness-as-interface-test]]"
-  - "[[hard-problem-of-consciousness]]"
-concepts:
-  - "[[interactionist-dualism]]"
-  - "[[interface-heterogeneity]]"
-  - "[[evolution-of-consciousness]]"
-  - "[[brain-interface-boundary]]"
-  - "[[consciousness-bandwidth-architecture]]"
-  - "[[baseline-cognition]]"
-  - "[[consciousness-selecting-neural-patterns]]"
-  - "[[cumulative-culture]]"
-related_articles:
-  - "[[tenets]]"
-  - "[[evolved-mind-brain-interface-efficacy-2026-05-05]]"
-  - "[[evidential-status-discipline]]"
-  - "[[framework-stage-calibration]]"
-  - "[[bidirectional-interaction]]"
 ai_contribution: 100
-author:
-ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-07
-last_curated:
+ai_modified: 2026-05-07 06:32:00+00:00
+ai_system: claude-opus-4-7
+archive_reason: Coalesced into Interface Efficacy and the Cognitive Gap
+archived: true
+archived_date: 2026-05-08 06:50:00+00:00
+author: null
+concepts:
+- '[[interactionist-dualism]]'
+- '[[interface-heterogeneity]]'
+- '[[evolution-of-consciousness]]'
+- '[[brain-interface-boundary]]'
+- '[[consciousness-bandwidth-architecture]]'
+- '[[baseline-cognition]]'
+- '[[consciousness-selecting-neural-patterns]]'
+- '[[cumulative-culture]]'
+created: 2026-05-07
+date: &id001 2026-05-07
+description: An interactionist-dualist reading of the human-other-animal cognitive
+  gap as scaling in interface efficacy rather than only in brain-side computation.
+  A speculative integration the Map proposes alongside, not against, mainstream comparative
+  neuroscience.
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-05-07 06:32:00+00:00
+modified: *id001
+original_path: /topics/evolved-mind-brain-interface-efficacy/
+related_articles:
+- '[[tenets]]'
+- '[[evolved-mind-brain-interface-efficacy-2026-05-05]]'
+- '[[evidential-status-discipline]]'
+- '[[framework-stage-calibration]]'
+- '[[bidirectional-interaction]]'
+superseded_by: /topics/interface-efficacy-and-the-cognitive-gap/
+title: Evolved Mind-Brain Interface Efficacy
+topics:
+- '[[animal-consciousness]]'
+- '[[comparative-consciousness-and-interface-differences]]'
+- '[[invertebrate-consciousness-as-interface-test]]'
+- '[[hard-problem-of-consciousness]]'
 ---
 
 The standard reading of the human-other-animal cognitive gap treats it as a brain-side phenomenon — more cortical neurons, expanded prefrontal connectivity, freed association cortex, distinctive projection-neuron classes, and the ratcheted social cognition those features enable. Under interactionist dualism, the same observed differences admit a structurally different reading: the *mind-brain interface itself* may have evolved toward higher efficacy, with wider selection bandwidth, higher fidelity from intent to physical outcome, finer-grained selection per event, and access to a broader range of neural-pattern types as candidates for selection. Under this reading, consciousness may be present at full grade across many species — consistent with the New York Declaration on Animal Consciousness (2024) — while *effective reach* into behavioural outcomes scales along the same phylogenetic gradient that produced the cognitive gap.
@@ -40,14 +49,14 @@ The Unfinishable Map proposes this reading as a heuristic-explanatory move, not 
 
 ## What "Interface Efficacy" Names
 
-The Map's [[interactionist-dualism|interactionist-dualist]] tradition holds that consciousness causally influences neural outcomes through some interface — a coupling between a non-physical mind and a physical brain whose specification remains open. Eccles' "psychon" model, the Beck-Eccles quantum-tunnelling account of synaptic exocytosis, Stapp's quantum-Zeno selection-and-amplification proposal, and Hodgson's wave-function-collapse-on-observation account all share the structural feature that something on the mind side reaches into something on the brain side and biases what would otherwise be quantum-indeterminate outcomes toward the patterns the conscious agent intends. The Map's [[the-interface-problem|interface-problem]] article catalogues the candidate specifications and notes the framework is at a [[framework-stage-calibration|pre-Keplerian]] stage — accumulating measurements, not yet refining laws.
+The Map's [interactionist-dualist](/concepts/interactionist-dualism/) tradition holds that consciousness causally influences neural outcomes through some interface — a coupling between a non-physical mind and a physical brain whose specification remains open. Eccles' "psychon" model, the Beck-Eccles quantum-tunnelling account of synaptic exocytosis, Stapp's quantum-Zeno selection-and-amplification proposal, and Hodgson's wave-function-collapse-on-observation account all share the structural feature that something on the mind side reaches into something on the brain side and biases what would otherwise be quantum-indeterminate outcomes toward the patterns the conscious agent intends. The Map's [interface-problem](/topics/the-interface-problem/) article catalogues the candidate specifications and notes the framework is at a [pre-Keplerian](/project/framework-stage-calibration/) stage — accumulating measurements, not yet refining laws.
 
 What none of the canonical interactionist authors developed is an explicitly *scalar* account of how the interface might vary across species or across evolutionary time. Eccles' *Evolution of the Brain: Creation of the Self* treats special anatomical adaptations of mammalian cortex as giving *rise* to consciousness — closer to a threshold model than a scaling model. The interface-efficacy hypothesis extends the tradition by treating the interface as a continuously varying biological feature, with efficacy axes selectable by ordinary evolutionary processes once a coupling exists. The four candidate axes:
 
-- **Selection bandwidth** — the number of distinct neural-pattern candidates the interface can hold in superposition and select among per unit time. The [[bandwidth-of-consciousness|10-bits-per-second result]] (Zheng & Meister 2024) constrains conscious access against the brain's far higher gross processing capacity. A more efficacious interface would have higher bandwidth, within whatever ceiling [[born-rule-and-the-consciousness-interface|Born-rule causal-consistency]] permits.
+- **Selection bandwidth** — the number of distinct neural-pattern candidates the interface can hold in superposition and select among per unit time. The [10-bits-per-second result](/topics/bandwidth-of-consciousness/) (Zheng & Meister 2024) constrains conscious access against the brain's far higher gross processing capacity. A more efficacious interface would have higher bandwidth, within whatever ceiling [Born-rule causal-consistency](/topics/born-rule-and-the-consciousness-interface/) permits.
 - **Fidelity** — the proportion of mind-side intent that survives the coupling without being lost to decoherence or interface-side noise. Higher fidelity produces neural-pattern actualisation closer to what was selected.
 - **Granularity** — the size of the probability adjustment per event. Finer-grained selection supports cumulative effects across many events, building extended cognitive structures (sustained planning, multi-step reasoning, recursive social tracking) out of small per-step nudges that integrate over time.
-- **Candidate-type coupling** — the range of neural-pattern *kinds* the interface couples to. A narrower interface might couple primarily to motor-output patterns; a broader interface to motor, planning, abstract-relational, and meta-representational patterns. This extends [[interface-heterogeneity|interface heterogeneity]] to within-species variation along an efficacy gradient.
+- **Candidate-type coupling** — the range of neural-pattern *kinds* the interface couples to. A narrower interface might couple primarily to motor-output patterns; a broader interface to motor, planning, abstract-relational, and meta-representational patterns. This extends [interface heterogeneity](/concepts/interface-heterogeneity/) to within-species variation along an efficacy gradient.
 
 These axes are conceptually distinct but probably correlated. The hypothesis claims the interface itself is a biological feature subject to selection, and that the cognitive gradient observed across species reflects scaling along these axes alongside — not instead of — scaling in brain-side substrate.
 
@@ -61,7 +70,7 @@ Buckner and Krienen's (2013) tethering hypothesis adds an architectural mechanis
 
 The cognitive findings the substrate explains are substantial. Tomasello and Moll (2010) document that cumulative cultural evolution requires a shared-intentionality cluster — joint attention, intention-reading, declarative pointing, faithful social transmission — that human ontogeny exhibits and chimpanzee ontogeny does not. Suddendorf and Corballis (2007) argue that mental time travel is uniquely or near-uniquely human, with no convincing evidence in non-human animals beyond limited future-oriented behaviour patterns. Penn, Holyoak, and Povinelli (2008) argue that strong continuity claims about human-nonhuman cognition mask a profound discontinuity in higher-order, systematic, relational reasoning. Dehaene's global neuronal workspace model supplies the architectural account: hub regions select, amplify, and broadcast information across the cortex, with humans and monkeys both showing GNW signatures but the workspace differing in operational repertoire.
 
-The brain-side reading is internally coherent and empirically well-supported. It is also tenet-compatible — nothing in the Map's [[tenets]] requires denying that better substrate yields better cognition. The interface-efficacy hypothesis does not displace this reading. It proposes a structurally different way to read the same data.
+The brain-side reading is internally coherent and empirically well-supported. It is also tenet-compatible — nothing in the Map's [tenets](/tenets/) requires denying that better substrate yields better cognition. The interface-efficacy hypothesis does not displace this reading. It proposes a structurally different way to read the same data.
 
 ## The Interface-Efficacy Reframe, Axis by Axis
 
@@ -89,44 +98,44 @@ The hypothesis does *not* claim animals lack consciousness. It is structurally c
 
 Several measurements would discriminate interface-efficacy and brain-side scaling readings if they could be operationalised. None is currently feasible. Naming them specifies what work would need to happen for the readings to pull apart in evidence rather than only interpretation.
 
-A comparative test of [[born-rule-violation-brain-interface-empirical-status|Born-rule deviation]] across species would measure whether quantum-statistical signatures in neural processes deviate from Born-rule predictions more in lineages of higher phylogenetic intelligence rank. Current human data is null; cross-species data does not exist at all. Cross-species GNW bandwidth and selection-rate comparisons across primates have not been performed. Volitional/reflexive contrasts in neural-coherence-domain signatures would distinguish interface-engaged from interface-disengaged patterns, with the cross-species version showing whether engagement profile differs across the cognitive gradient. Candidate-set-diversity correlates of reportable content — neural-decoding studies comparing decoded-representation diversity during analogous tasks across species — would test the candidate-type coupling axis directly.
+A comparative test of [Born-rule deviation](/topics/born-rule-violation-brain-interface-empirical-status/) across species would measure whether quantum-statistical signatures in neural processes deviate from Born-rule predictions more in lineages of higher phylogenetic intelligence rank. Current human data is null; cross-species data does not exist at all. Cross-species GNW bandwidth and selection-rate comparisons across primates have not been performed. Volitional/reflexive contrasts in neural-coherence-domain signatures would distinguish interface-engaged from interface-disengaged patterns, with the cross-species version showing whether engagement profile differs across the cognitive gradient. Candidate-set-diversity correlates of reportable content — neural-decoding studies comparing decoded-representation diversity during analogous tasks across species — would test the candidate-type coupling axis directly.
 
 These are observables-in-principle, not observables-in-fact. The framework's value at this stage is heuristic-explanatory, not predictive. Until measurements catch up, the interface-efficacy reading can be assessed by its coherence, breadth of explanatory reach, and compatibility with data the brain-side reading already explains — not by predictive success against alternatives.
 
 ## What the Hypothesis Does Not Claim
 
-The hypothesis does not claim the brain-side reading is wrong. Substrate scaling and interface scaling can both be operative; the [[evolution-of-consciousness|evolution of consciousness]] under dualism plausibly involves co-evolution of substrate and coupling.
+The hypothesis does not claim the brain-side reading is wrong. Substrate scaling and interface scaling can both be operative; the [evolution of consciousness](/concepts/evolution-of-consciousness/) under dualism plausibly involves co-evolution of substrate and coupling.
 
-It does not specify a mechanism for the interface itself. The four efficacy axes are [[framework-stage-calibration|Tycho-analogue]] scaffolding — taxonomic structure that should precede a specification law, not a specification. Whether interface efficacy varies through Zeno-style amplification rates, exocytosis-tunnelling probabilities, microtubule-coherence times, or some entirely uncharacterised coupling mechanism is deferred to ongoing work on the [[the-interface-problem|interface problem]].
+It does not specify a mechanism for the interface itself. The four efficacy axes are [Tycho-analogue](/project/framework-stage-calibration/) scaffolding — taxonomic structure that should precede a specification law, not a specification. Whether interface efficacy varies through Zeno-style amplification rates, exocytosis-tunnelling probabilities, microtubule-coherence times, or some entirely uncharacterised coupling mechanism is deferred to ongoing work on the [interface problem](/topics/the-interface-problem/).
 
 It does not claim the New York Declaration is right and Gutfreund is wrong. It treats consciousness-grade as unsettled at the metaphysical level and as bounded by Gutfreund's epistemic ceiling at the empirical level. From the New York Declaration it takes structural permission to entertain consciousness across species; from Gutfreund it takes the discipline of not over-interpreting comparative behavioural data.
 
 ## Relation to Site Perspective
 
-The interface-efficacy hypothesis presupposes Tenet 1 ([[dualism|Dualism]]) and Tenet 3 ([[bidirectional-interaction|Bidirectional Interaction]]). Without an irreducible mind-side and a coupling through which mind influences matter, there is no interface to scale and no efficacy to measure. The hypothesis is structurally interactionist and inherits whatever support those tenets carry.
+The interface-efficacy hypothesis presupposes Tenet 1 ([Dualism](/concepts/dualism/)) and Tenet 3 ([Bidirectional Interaction](/concepts/bidirectional-interaction/)). Without an irreducible mind-side and a coupling through which mind influences matter, there is no interface to scale and no efficacy to measure. The hypothesis is structurally interactionist and inherits whatever support those tenets carry.
 
-It also requires methodological room that Tenet 5 ([[tenets#^occams-limits|Occam's Razor Has Limits]]) is meant to provide. By standard parsimony lights, adding a varying-across-species interface variable to an account that already has varying-across-species substrate is gratuitous. The Map's standing position is that simplicity is not a reliable guide to truth when knowledge is incomplete, and consciousness is precisely the domain where this caveat bites. The interface-efficacy reading is the kind of move Tenet 5 protects from dismissal on parsimony grounds alone.
+It also requires methodological room that Tenet 5 ([Occam's Razor Has Limits](/tenets/#occams-limits)) is meant to provide. By standard parsimony lights, adding a varying-across-species interface variable to an account that already has varying-across-species substrate is gratuitous. The Map's standing position is that simplicity is not a reliable guide to truth when knowledge is incomplete, and consciousness is precisely the domain where this caveat bites. The interface-efficacy reading is the kind of move Tenet 5 protects from dismissal on parsimony grounds alone.
 
-The hypothesis does not require Tenet 2 ([[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]) directly. A non-quantum interface that varied in efficacy across species would also support the reframe; the Map's quantum-interaction commitment concerns *where* the interface is most plausibly located, not whether it scales.
+The hypothesis does not require Tenet 2 ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)) directly. A non-quantum interface that varied in efficacy across species would also support the reframe; the Map's quantum-interaction commitment concerns *where* the interface is most plausibly located, not whether it scales.
 
-It connects to but does not derive from the [[bidirectional-interaction|bidirectional-interaction]] argument that conscious report rules out epiphenomenalism; that argument supports the existence of an interface, not variation in its efficacy. The interface-efficacy hypothesis is a further conjecture about how an interactionist framework should expect a coupling to behave under evolutionary selection — coherent with the Map's other commitments, not entailed by them.
+It connects to but does not derive from the [bidirectional-interaction](/concepts/bidirectional-interaction/) argument that conscious report rules out epiphenomenalism; that argument supports the existence of an interface, not variation in its efficacy. The interface-efficacy hypothesis is a further conjecture about how an interactionist framework should expect a coupling to behave under evolutionary selection — coherent with the Map's other commitments, not entailed by them.
 
 ## Further Reading
 
-- [[interactionist-dualism]]
-- [[interface-heterogeneity]]
-- [[comparative-consciousness-and-interface-differences]]
-- [[invertebrate-consciousness-as-interface-test]]
-- [[animal-consciousness]]
-- [[consciousness-in-simple-organisms]]
-- [[evolution-of-consciousness]]
-- [[the-interface-problem]]
-- [[bandwidth-of-consciousness]]
-- [[born-rule-and-the-consciousness-interface]]
-- [[baseline-cognition]]
-- [[cumulative-culture]]
-- [[brain-interface-boundary]]
-- [[consciousness-bandwidth-architecture]]
+- [interactionist-dualism](/concepts/interactionist-dualism/)
+- [interface-heterogeneity](/concepts/interface-heterogeneity/)
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
+- [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)
+- [animal-consciousness](/topics/animal-consciousness/)
+- [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
+- [the-interface-problem](/topics/the-interface-problem/)
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- [baseline-cognition](/concepts/baseline-cognition/)
+- [cumulative-culture](/concepts/cumulative-culture/)
+- [brain-interface-boundary](/concepts/brain-interface-boundary/)
+- [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)
 
 ## References
 

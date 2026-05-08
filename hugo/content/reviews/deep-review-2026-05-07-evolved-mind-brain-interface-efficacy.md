@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-05-07
-**Article**: [Evolved Mind-Brain Interface Efficacy](/topics/evolved-mind-brain-interface-efficacy/)
+**Article**: [Evolved Mind-Brain Interface Efficacy](/topics/interface-efficacy-and-the-cognitive-gap/)
 **Previous review**: Never
 **Word count**: 2996 → 3001 (+5)
 **Length status**: 100% of 3000-word soft target — length-neutral mode applied

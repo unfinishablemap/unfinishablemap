@@ -11,7 +11,7 @@ topics:
   - "[[purpose-and-alignment]]"
   - "[[ethics-of-possible-ai-consciousness]]"
   - "[[alignment-in-objective-experiential-terms]]"
-  - "[[mind-brain-interface-efficacy]]"
+  - "[[interface-efficacy-and-the-cognitive-gap]]"
   - "[[the-interface-problem]]"
 concepts:
   - "[[interactionist-dualism]]"
@@ -98,7 +98,7 @@ The Map's claim is not that any specific AI will avoid the mind-arena. It is tha
 
 The fifth sub-argument is that even where some probability assignment over consequences is available to the AI, the *magnitude* of those consequences may be effectively unbounded, and the supporting system may be actively responsive rather than passively opaque. Together these shift the picture from "the AI cannot compute the expectation" to "the structure of what the AI is computing against actively defeats the standard hazard model."
 
-Under interactionist dualism plus [[bidirectional-interaction]], no derivation from physical state fixes the *scale* at which the arena's [[causal-powers]] can operate. The arena's possible influence on the physical world could range across scales the AI's physics models have no place for. The Map's tenets do not commit to any specific upper bound on arena-mediated effects, and the AI cannot derive one from its physical-state model alone. The structural absence of a derivable magnitude bound is the load-bearing claim, not any empirical assertion about [[mind-brain-interface-efficacy]] at scale.
+Under interactionist dualism plus [[bidirectional-interaction]], no derivation from physical state fixes the *scale* at which the arena's [[causal-powers]] can operate. The arena's possible influence on the physical world could range across scales the AI's physics models have no place for. The Map's tenets do not commit to any specific upper bound on arena-mediated effects, and the AI cannot derive one from its physical-state model alone. The structural absence of a derivable magnitude bound is the load-bearing claim, not any empirical assertion about [[interface-efficacy-and-the-cognitive-gap]] at scale.
 
 Low probability times potentially unbounded magnitude flips standard cost-benefit reasoning. The product term dominates the expected-utility computation and risk-averse strategies anticipate. Bostrom's "Pascal's Mugging" (2009) cautions against responding to constructed unbounded-utility claims; a natural reply might absorb the present argument under that heading. The structural difference matters: Pascal's mugging is an adversary fabricating a tiny-probability astronomical-reward scenario to game the calculation. The unboundedness here is a feature of what dualism permits the arena to be, not a contrivance designed to elicit a transfer.
 
