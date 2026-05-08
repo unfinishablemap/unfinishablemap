@@ -3,7 +3,7 @@ title: "Altered States as Systematic Interface Evidence"
 created: 2026-03-16
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-05-03T11:28:31.565352+00:00
+ai_modified: 2026-05-08T23:07:00+00:00
 draft: false
 description: "Five altered states—psychedelics, dreams, hypnagogia, meditation, anaesthesia—converge on the same multi-channel interface architecture, mapping consciousness-brain coupling through systematic perturbation."
 topics:
@@ -33,13 +33,14 @@ related_articles:
   - "[[clinical-dissociation-as-systematic-evidence]]"
   - "[[comparative-consciousness-and-interface-differences]]"
   - "[[anesthesia-void]]"
+  - "[[out-of-body-experiences]]"
 
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-16
 last_curated: null
-last_deep_review: 2026-04-17T11:56:00+00:00
+last_deep_review: 2026-05-08T23:07:00+00:00
 
 apex_sources:
   - topics/psychedelics-and-the-filter-model
@@ -138,7 +139,7 @@ Three patterns emerge from this matrix.
 
 **Second, voluntary attention and agency are the most fragile components.** They degrade first during hypnagogia, are absent in non-lucid dreams, become unreliable under psychedelics, and are deliberately released in open monitoring. This fragility makes sense under the [[coupling-modes]] framework: if attention is the primary channel through which consciousness acts on neural activity (basis and timing control), it should be the component most sensitive to interface disruption, because it requires the tightest bidirectional coupling.
 
-**Third, the components dissociate independently.** Psychedelics dissolve the narrative self while intensifying phenomenal presence. Ketamine preserves phenomenal presence while abolishing behavioural access. Hypnagogia loses voluntary attention before losing reality monitoring. Meditation releases agency while enhancing temporal coherence. No single component tracks all others. This independent dissociation is the central evidence for a multi-channel interface—and the central difficulty for any theory that treats consciousness as a unified product of neural activity. Whether the same multi-channel architecture characterises all conscious systems or varies across species is the question of [[interface-heterogeneity]].
+**Third, the components dissociate independently.** Psychedelics dissolve the narrative self while intensifying phenomenal presence. Ketamine preserves phenomenal presence while abolishing behavioural access. Hypnagogia loses voluntary attention before losing reality monitoring. Meditation releases agency while enhancing temporal coherence. [[out-of-body-experiences|Out-of-body experiences]] dislocate the bodily self-model from the body's actual location—demonstrated experimentally by stimulation of the right temporo-parietal junction and by VR full-body illusions—while phenomenal presence and coherent reasoning persist intact. No single component tracks all others. This independent dissociation is the central evidence for a multi-channel interface—and the central difficulty for any theory that treats consciousness as a unified product of neural activity. Whether the same multi-channel architecture characterises all conscious systems or varies across species is the question of [[interface-heterogeneity]].
 
 ## What the Pattern Reveals
 
@@ -186,6 +187,7 @@ The systematic evidence from altered states connects to each of the Map's [[tene
 - [[neural-correlates-of-consciousness|Neural Correlates of Consciousness]] — Why correlates constrain but do not explain consciousness
 - [[clinical-dissociation-as-systematic-evidence]] — Dissociative disorders as another window into interface component separation
 - [[anesthesia-void]] — The first-person gap under anaesthesia and what third-person probes can and cannot recover
+- [[out-of-body-experiences]] — Self-model dislocation as another dissociable interface component, with the AWARE programme as the contested empirical frontier for veridical perception
 
 ## Source Articles
 

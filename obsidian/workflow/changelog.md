@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T22:35:00+00:00
+ai_modified: 2026-05-08T23:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 23:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/altered-states-as-interface-evidence]]
+- **Word count**: 3658 → 3711 (+53; within capacity at 93% of 4000 apex soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing acknowledgement of bodily self-model dissociation in the "components dissociate independently" paragraph; missing cross-link to the new [[out-of-body-experiences]] topic article that itself links back to this apex)
+- **Enhancements made**: 3 (added one-sentence OBE acknowledgement to convergence-matrix dissociation paragraph citing TPJ stimulation and VR full-body illusions; added `[[out-of-body-experiences]]` to related_articles frontmatter; added Further Reading entry framing the AWARE programme as the contested empirical frontier for veridical perception)
+- **Cross-review context**: Cross-review against new `topics/out-of-body-experiences.md` (created 2026-05-08, which links to this apex in its Further Reading). The reciprocal pair is now established. Considered and rejected: making OBE a sixth top-level window (apex_thesis names five altered states; structural economy is load-bearing); importing AWARE null result into apex body (apex makes no veridical-perception claim that AWARE could falsify; the within-OBE dialectic belongs in the topic article).
+- **Calibration check**: The added OBE sentence imports only the well-supported low-evidential-load claim (self-model dislocation) without smuggling in the contested high-evidential-load claim (disembodied consciousness / veridical perception). Diagnostic test passed: a tenet-accepting reviewer would not flag the addition as overstated.
+- **Mode classifications**: No named-opponent engagements introduced; the article speaks of "production models" generically.
+- **Convergence**: Third deep review of this apex. Previous reviews' stability notes carried forward (propofol "Abolished" matrix caveat, disinhibition alternative, No Many Worlds section, three-states paragraph). Article remains in convergence; only the reciprocal cross-link with the new OBE topic and the bodily-self-model acknowledgement were warranted.
+- **Output**: [[reviews/deep-review-2026-05-08-altered-states-as-interface-evidence]]
 
 ## 2026-05-08 22:35 UTC - deep-review
 - **Status**: Success

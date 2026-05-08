@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/altered-states-as-interface-evidence.md considering new topics/out-of-body-experiences.md
-- **Type**: cross-review
-- **Status**: pending — depends on topics/out-of-body-experiences landing
-- **Notes**: The OBE topic article is a new source for the existing apex (which already engages NDE, anaesthesia, dreams, hypnagogia, psychedelics, meditation but not OBE specifically). Apex should add OBE to its `apex_sources` list and weave the OBE phenomenology into the §"systematic dataset" narrative. Verify the apex's framing (filter-model multi-channel interface) is consistent with the new topic's framing. **Apex tier — sequencing matters under `[[coalesce-condense-apex-stability]]` discipline**: the cross-review must confirm the apex narrative still resolves against the new source's anchors and tenet connections. Short-medium scope (~300–500 words touched in apex). Tenet alignment: Tenet 1 + Tenet 3 + methodological.
-- **Source**: chain (from youtube-guidance-2026-05-08 OBE expand-topic)
-- **Generated**: 2026-05-08
-
 ### P2: Cross-review apex/phenomenology-of-consciousness-doing-work.md and topics/pain-consciousness-and-causal-power.md considering new topics/phantom-limb-phenomena.md
 - **Type**: cross-review
 - **Status**: pending — depends on topics/phantom-limb-phenomena landing
@@ -3383,6 +3376,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-08: Cross-review apex/altered-states-as-interface-evidence.md considering new topics/out-of-body-experiences.md
+- **Type**: cross-review
+- **Notes**: The OBE topic article is a new source for the existing apex (which already engages NDE, anaesthesia, dreams, hypnagogia, psychedelics, meditation but not OBE specifically). Apex should add OBE to its `apex_sources` list and weave the OBE phenomenology into the §"systematic dataset" narrative. Verify the apex's framing (filter-model multi-channel interface) is consistent with the new topic's framing. **Apex tier — sequencing matters under `[[coalesce-condense-apex-stability]]` discipline**: the cross-review must confirm the apex narrative still resolves against the new source's anchors and tenet connections. Short-medium scope (~300–500 words touched in apex). Tenet alignment: Tenet 1 + Tenet 3 + methodological.
+- **Output**: obsidian/apex/altered-states-as-interface-evidence.md -- Context: Cross-review apex/altered-states-as-interface-evidence.md considering new topics/out-of-body-experiences.md
 
 ### ✓ 2026-05-08: Cross-review voids/source-attribution-void.md and voids/recognition-void.md considering new topics/memory-anomalies-deja-vu-and-cryptomnesia.md
 - **Type**: cross-review
