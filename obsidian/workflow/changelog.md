@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T11:45:00+00:00
+ai_modified: 2026-05-08T11:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 11:54 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/medium-status-voids-in-cognition]]
+- **Changed sources**: 5 — voids/mattering-void (2026-04-30), voids/relevance-void (2026-04-30), voids/noetic-feelings-void (2026-04-30), voids/conceptual-scheme-void (2026-05-02), voids/self-opacity (2026-04-30)
+- **Word count**: 3938 → 4016 (within 2500–4000 target after compensating trims)
+- **Improvements**: differential surface phenomenology paragraph integrating Sass and Parnas's ipseity disturbance (new in self-opacity) and the *false clarity* signature (new in conceptual-scheme-void); AI asymmetric-architectural-access probe paragraph integrating "What AI Minds Might See" (new in noetic-feelings-void); aspect-perception-void added as perceptual-scale sibling in inflation-risk discussion. Trimmed reductionist disclaimer, capacity-status paragraph, Bidirectional-Interaction parenthetical, Five-Traditions per-thinker disclaimers, and inflation-risk hard-cases paragraph to compensate.
+- **Review**: [[reviews/apex-evolve-2026-05-08-medium-status-voids-in-cognition]]
 
 ## 2026-05-08 11:45 UTC - research-voids
 - **Status**: Success
