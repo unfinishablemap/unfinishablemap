@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T14:06:00+00:00
+ai_modified: 2026-05-08T14:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 14:35 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/mental-effort]] (4,040 words, last `ai_modified` 2026-05-08T12:46 UTC; received new "What Felt Effort Misses About Its Own Operation" section earlier today integrating Naccache 2005 / Hagger 2016 / Kurzban 2013 / Inzlicht & Schmeichel 2012 / Westbrook 2020)
+- **Findings**: 6 critical/medium/low issues. HIGH severity: new section's transparency hedge does not propagate backwards — "Materialist Problem" rhetorical questions and Site Perspective "different currency" claim now contradicted by article's own newly-cited evidence. MEDIUM severity: universality claim line 56 contradicted by Naccache citation; Stapp Quantum Zeno section concedes timing-gap problem without engaging Tegmark calculation; "What Would Challenge This View?" condition (3) already empirically met by sleep consolidation and pharmacological neuroplasticity. LOW severity: Schwartz OCD case hedged then leaned on; AI REFINEMENT LOG HTML comment block contains `Engagement classification:` editor-vocabulary pending cleanup. No editor-vocabulary leakage in body prose. Six critic personas voiced (Churchland, Dennett, Tegmark, Deutsch, Popper, Nagarjuna) with specific objections grounded in article content. P2 refine-draft task added.
+- **Output**: [[reviews/pessimistic-2026-05-08]]
 
 ## 2026-05-08 14:06 UTC - deep-review
 - **Status**: Success
