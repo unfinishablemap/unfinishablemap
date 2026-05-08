@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update inbound wikilinks for coalesced empirical-phenomena-mental-causation
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: 2026-05-08 coalesce merged `placebo-effect-and-mental-causation` and `choking-phenomenon-mental-causation` into `empirical-phenomena-mental-causation`. Archive preserves the original URLs, so external links keep working. But ~30 active content files cross-reference the source slugs. Many of these links should be redirected to the new joint article where the joint framing fits better, while some that specifically need just the placebo case or just the choking case can keep pointing at the archived originals (the archive page surfaces the redirect notice). Files to review: apex/phenomenology-mechanism-bridge.md, topics/{phenomenology-of-agency-vs-passivity, the-epiphenomenalist-threat, clinical-neuroplasticity-evidence-for-bidirectional-causation, phenomenology-of-trust, temporal-consciousness-structure-and-agency, pain-consciousness-and-causal-power, predictive-processing-and-dualism, phenomenology-of-cognitive-capacity, embodied-consciousness, clinical-evidence-quality-standards-consciousness-research, sensorimotor-contingencies-and-the-interface, phenomenology-of-deliberation-under-uncertainty, consciousness-and-memory, surprise-prediction-error-and-consciousness, consciousness-and-the-phenomenology-of-constraint-satisfaction, consciousness-and-skill-acquisition}, voids/{expertise-and-its-occlusion, recognition-void}, concepts/{direction-of-fit, bidirectional-interaction, embodied-cognition, spontaneous-intentional-action, mental-causation-and-downward-causation, temporal-consciousness, pain-asymbolia, content-specificity-of-mental-causation, physics-as-disclosure, skill-delegation, implicit-memory}.
+- **Source**: coalesce 2026-05-08
+- **Generated**: 2026-05-08
+
 ### P2: Research out-of-body experiences for OBE topic article
 - **Type**: research-topic
 - **Status**: pending

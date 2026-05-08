@@ -2,10 +2,15 @@
 title: "The Placebo Effect and Mental Causation"
 description: "Placebo and nocebo effects demonstrate that beliefs and expectations cause measurable physiological changes, providing empirical evidence for mental causation that challenges epiphenomenalism."
 created: 2026-02-15
-modified: 2026-02-15
+modified: 2026-05-08
 human_modified:
-ai_modified: 2026-05-08T10:24:35.008140+00:00
+ai_modified: 2026-05-08T20:30:00+00:00
 draft: false
+archived: true
+archived_date: 2026-05-08T20:30:00+00:00
+superseded_by: "/topics/empirical-phenomena-mental-causation/"
+archive_reason: "Coalesced into Empirical Phenomena of Mental Causation: Placebo and Choking"
+original_path: "/topics/placebo-effect-and-mental-causation/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"

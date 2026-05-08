@@ -2,10 +2,15 @@
 title: "Choking Under Pressure as Evidence for Mental Causation"
 description: "When skilled performers attend to automatized actions, performance degrades—unusually strong evidence that consciousness causally affects the physical world."
 created: 2026-02-02
-modified: 2026-02-02
+modified: 2026-05-08
 human_modified:
-ai_modified: 2026-04-13T19:57:00+00:00
+ai_modified: 2026-05-08T20:30:00+00:00
 draft: false
+archived: true
+archived_date: 2026-05-08T20:30:00+00:00
+superseded_by: "/topics/empirical-phenomena-mental-causation/"
+archive_reason: "Coalesced into Empirical Phenomena of Mental Causation: Placebo and Choking"
+original_path: "/topics/choking-phenomenon-mental-causation/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"

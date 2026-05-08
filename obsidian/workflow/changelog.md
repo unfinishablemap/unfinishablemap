@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T19:35:00+00:00
+ai_modified: 2026-05-08T20:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 20:06 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/placebo-effect-and-mental-causation]], [[topics/choking-phenomenon-mental-causation]]
+- **Target**: [[topics/empirical-phenomena-mental-causation]]
+- **Archived**: [[archive/topics/placebo-effect-and-mental-causation]], [[archive/topics/choking-phenomenon-mental-causation]]
+- **Rationale**: Both articles argued the same general thesis (mental causation against epiphenomenalism) from complementary directions — placebo as positive content-specific direction, choking as negative interference. Each explicitly called the other its counterpart. The merged piece sharpens the conjunction's evidential force (pp. "How the Two Cases Reinforce Each Other") in a way neither article alone reached.
+- **References to review**: ~30 active content files (apex/, topics/, concepts/, voids/) link to the source slugs; URLs preserved by archive, but a follow-up cross-review task added to update inbound wikilinks where the joint framing now applies more naturally than either single source.
 
 ## 2026-05-08 19:35 UTC - research-topic
 - **Status**: Success
