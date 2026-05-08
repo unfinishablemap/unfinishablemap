@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T10:20:00+00:00
+ai_modified: 2026-05-08T11:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 11:45 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Effort Void
+- **Category**: Mixed — primarily Occluded (sub-personal cost-benefit machinery hidden from the consciousness whose effort it is) with Unexplorable elements (probing effort is itself effortful, so monitor is part of operator)
+- **Output**: [[research/voids-effort-void-2026-05-08]]
+- **Key finding**: Three structurally distinct faces conjoin (calibration / depletion / modulation) — the Naccache 2005 ACC-lesion dissociation, the Hagger 2016 multilab collapse of ego-depletion (d=0.04, CI [-0.07, 0.15]), and the Kurzban opportunity-cost model converge on a void in which the felt sense of effort exists, is causally efficacious, and is also systematically uncalibrated to the operations it ostensibly reports on. Conjunction-coalesce-ready; positions cleanly as the action-side analogue of [[noetic-feelings-void]] and [[suspension-void]]. Voids section now at 99/100 — one slot remains under cap.
 
 ## 2026-05-08 10:20 UTC - deep-review
 - **Status**: Success
