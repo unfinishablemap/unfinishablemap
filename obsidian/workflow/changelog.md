@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T18:08:00+00:00
+ai_modified: 2026-05-08T18:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 18:35 UTC - apex-evolve
+- **Status**: Success (create mode)
+- **Article**: [[apex/phenomenal-variation-within-a-species]]
+- **Apex slot**: #23, slug `phenomenal-variation-within-a-species`
+- **Word count**: 3478 (within 2500–3500 medium-long target)
+- **Source articles**: 14 — `voids/imagery-void`, `voids/synesthetic-void`, `voids/source-attribution-void`, `topics/aphantasia`, `topics/synaesthesia`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought`, `concepts/cognitive-phenomenology`, `concepts/phenomenology-vs-function-axis`, `concepts/phenomenal-contrast-method`, `concepts/functionalism`, `concepts/inverted-qualia`, `concepts/qualia`, `voids/voids-between-minds`, `voids/commensurability-void`
+- **Structure**: opening (two-minds frame) → structural form (same species, same architecture, same task, divergent phenomenology) → four divergence classes (imagery vividness; synaesthetic extra qualia; reality-monitoring divergence; cognitive phenomenology) → what the wedge does (population-scale phenomenal contrast against function-phenomenology identity) → what the wedge does not do (four named absorption strategies: multi-realizability, representational sub-individuation, metacognitive re-description, introspective unreliability) → why the joint package matters (convergence over decisive case) → AI-question connection → Relation to Site Perspective (Dualism, Occam-Limits, Bidirectional Interaction).
+- **Tenet alignment**: Dualism (the cluster as the empirical pressure point closest to where dualism predicts pressure should fall); Occam's Razor Has Limits (functional palette uniformity ruled out a priori before clinical work cracked it open); Bidirectional Interaction (phenomenal-extras as candidate interface sites — flagged explicitly as speculative-integration tier).
+- **Discipline observed**: `[[evidential-status-discipline]]` honoured — empirical findings (spectrum, mental rotation, extra qualia, choice blindness) named as established/strongly supported in natural prose; the *wedge against functionalism* claim treated as speculative-integration tier (convergence-driven rather than decisive); finer-grain functionalist responses named in detail and acknowledged as live. `[[coalesce-condense-apex-stability]]` honoured — narrative resolves against each cited source's anchors (imagery-void's three faces, synesthetic-void's extra-qualia and Gray dissociation, source-attribution-void's layered architecture, cognitive-phenomenology's foreign-language argument, phenomenology-vs-function-axis's two patterns, phenomenal-contrast-method's population-scale extension). `[[writing-style|cliché-ban]]` honoured — no "This is not X. It is Y." constructions. Editor-vocabulary not exposed in body prose (no `bedrock-perimeter`, `unsupported-jump`, `Engagement classification:`, `Evidential status:` callouts).
+- **Apex-articles.md**: Status flipped from "Approved 2026-05-08" to "Created 2026-05-08"; index `ai_modified` bumped to 18:35 UTC.
+- **Length trajectory**: initial draft 3974 words → trimmed to 3478 across six iterations (source-articles list condensed; what-the-wedge-does-not-do paragraph consolidated from itemised four-strategy list to flowing prose; structural-form section tightened; cognitive-phenomenology and reality-monitoring classes lightly trimmed; Bidirectional-Interaction subsection condensed; references reduced from 19 to 16 by dropping redundant primary-source citations already present in source articles). Each cut preserved load-bearing claims; the four-class catalogue, the structural form, the named absorption strategies, the joint-package argument, the AI-connection bridge, and all three tenet-alignment passes remain intact.
+- **Notes**: First apex created since #22 medium-status-voids-in-cognition (2026-04-29). Cluster has been editorially mature since the 2026-04-28 imagery-void integration sweep (twelve articles received substantive imagery-void integration in six hours); the `topics/aphantasia` and `topics/synaesthesia` expand-topic tasks landing on 2026-05-08 supplied the topic-tier source-article slots optimistic-2026-04-28b's apex proposal had identified as the cluster's missing graph nodes. The apex now sits as the load-bearing synthesis the voids-only cluster could not voice from inside its individual articles. No commit created — automation system will handle.
 
 ## 2026-05-08 18:06 UTC - expand-topic
 - **Status**: Success

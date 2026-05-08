@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: 2026-01-24
-ai_modified: 2026-05-08T15:00:00+00:00
+ai_modified: 2026-05-08T18:35:00+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -522,7 +522,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - voids/voids-between-minds
 - voids/commensurability-void
 
-**Status**: Approved 2026-05-08 (admitted as #23 — formalises the within-species-phenomenal-divergence cluster the catalogue's voids work has been articulating across multiple articles. Triggered by convergence of (a) the cluster's editorial maturity in `voids/imagery-void`, `voids/synesthetic-void`, and `concepts/phenomenology-vs-function-axis`; (b) the optimistic-2026-04-28b proposal naming the apex synthesis as load-bearing; (c) YouTube-guidance-2026-05-08 prioritising aphantasia and synaesthesia as high-confidence recruitment subjects, which licenses topic-tier source articles for both. Queued behind `topics/aphantasia` and `topics/synaesthesia` expand-topic tasks landing).
+**Status**: Created 2026-05-08 (admitted as #23 — formalises the within-species-phenomenal-divergence cluster the catalogue's voids work has been articulating across multiple articles. Triggered by convergence of (a) the cluster's editorial maturity in `voids/imagery-void`, `voids/synesthetic-void`, and `concepts/phenomenology-vs-function-axis`; (b) the optimistic-2026-04-28b proposal naming the apex synthesis as load-bearing; (c) YouTube-guidance-2026-05-08 prioritising aphantasia and synaesthesia as high-confidence recruitment subjects, which licenses topic-tier source articles for both. Queued behind `topics/aphantasia` and `topics/synaesthesia` expand-topic tasks landing).
 
 ---
 
