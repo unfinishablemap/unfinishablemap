@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T18:35:00+00:00
+ai_modified: 2026-05-08T19:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 19:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/synaesthesia]]
+- **Previous review**: Never (first deep review since article landed 2026-05-08)
+- **Word count**: 2435 → 2487 (+52; 81% → 83% of 3000 soft threshold; ok status)
+- **Critical issues addressed**: 0 (none found — calibration discipline is solid; attribution checks pass; no possibility/probability slippage; no label leakage; no boundary-substitution)
+- **Medium issues addressed**: 2 (mirror-touch typology entry now bridges to other-minds via `[[voids-between-minds]]`; the function-phenomenology wedge paragraph now invokes the inverted-spectrum thought-experiment connection at the point where the empirical-vs-imagined contrast is load-bearing, with explicit `[[inverted-qualia]]` link)
+- **Enhancements made**: 2 (both targeted cross-link strengthenings; no expansion-for-the-sake-of-expansion; length-neutral spirit observed even though article was below soft threshold)
+- **Reasoning-mode classification (functionalism, lines 86–94)**: Mixed (Mode One + Mode Three). Mode One: uses functionalism's own commitment to parsimony to argue absorption strategy must absorb cluster of cases via different fine-grainings, raising parsimony cost from inside the framework. Mode Three: framework-boundary residue acknowledged in "synaesthesia alone is locally absorbable; the joint constraint puts pressure on the parsimony of the absorption strategy." No label leakage in prose. No boundary-substitution.
+- **Calibration audit**: explicit pass on the 2026-05-03 ChatGPT-flagged failure mode. The interface-vs-substrate distinction (line 104) is correctly tiered as "speculative-integration" with Ramachandran/Hubbard's physicalist reading honestly noted as data-only-compatible; consciousness-physical interface speculation (line 108) is labeled "level of explicit speculation, not tenet-level commitment"; functionalist parsimony cost is framed as cumulative pressure rather than refutation. A tenet-accepting reviewer would not flag any claim as overstated relative to the five-tier scale.
+- **Output**: [[reviews/deep-review-2026-05-08-synaesthesia]]
+- **Notes**: First deep review since the article was created earlier today (2026-05-08T16:35 UTC). Article was strong on arrival — front-loaded summary, calibration discipline throughout, joint-constraint argument well-formed, attribution accurate. The two enhancements applied are minor cross-link strengthenings rather than corrections. Stability notes recorded so future reviews avoid re-flagging the bedrock physicalist disagreement (cross-activation reductionism, heterophenomenological deflation, MWI-defender objection) as critical.
 
 ## 2026-05-08 18:35 UTC - apex-evolve
 - **Status**: Success (create mode)
