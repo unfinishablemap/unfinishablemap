@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T17:35:00+00:00
+ai_modified: 2026-05-08T18:08:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 18:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phantom Limb Phenomena (concrete-phenomenon source article for the body-schema-and-pain cluster)
+- **Output**: [[topics/phantom-limb-phenomena]]
+- **Word count**: 2800 (93% of 3000 soft threshold; ok status)
+- **Based on research**: no chained research note landed first — existing Map material (`concepts/somatic-interface`, `concepts/pain-asymbolia`, `topics/pain-consciousness-and-causal-power`, `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation`, `topics/embodied-consciousness`) plus standard primary literature provided the citation base. The P2 chained research-topic remains pending and may seed a future deep-review pass.
+- **External sources cited**: Brugger et al. 2000 (*PNAS* congenital phantoms); Chan et al. 2007 (*NEJM* mirror therapy RCT); Flor et al. 1995 (*Nature* cortical reorganisation and phantom pain); Flor et al. 2006 (*Nature Reviews Neuroscience* maladaptive plasticity review); Foell et al. 2014 (*European Journal of Pain* mirror therapy mechanism review); Ramachandran et al. 1992 (*Science* perceptual cortical reorganisation); Ramachandran & Rogers-Ramachandran 1996 (*Proc Roy Soc B* mirror-box synaesthesia); Ramachandran & Hirstein 1998 (*Brain* D.O. Hebb lecture).
+- **Self-citations**: 2 (`concepts/somatic-interface` cited as Oquatre-six for the body-as-interface frame the article rests on; `topics/out-of-body-experiences` cited as Oquatre-sept for the parallel sufficiency-vs-necessity inferential discipline).
+- **Notes**: Topic-tier subject explainer that pairs three load-bearing dissociations: (i) phantom *qualia* without peripheral nociception (the inverse complement to pain asymbolia); (ii) mirror therapy as controlled evidence for top-down modulation of pain by purely visual content; (iii) congenital phantoms as evidence that the body schema is not built up entirely from sensorimotor experience. Article refuses the same argument-from-mechanism move the OBE article identifies — cortical-remapping sufficiency does not entail explanatory completeness — and stays calibrated on current evidence (mirror therapy effects "moderate," literature "mixed but real"). Two-channel discipline observed: Ramachandran/Flor neuroscience exposition kept distinct from Map integration; congenital-phantom evidence flagged as live-hypothesis-tier rather than over-strengthened. Standalone "What Would Challenge This View?" section honours the defeaters discipline. P2 cross-review for `apex/phenomenology-of-consciousness-doing-work.md` and `topics/pain-consciousness-and-causal-power.md` is already queued (line 100 of todo.md). No apex source file references this article so no further apex-evolve seeding required.
 
 ## 2026-05-08 17:35 UTC - optimistic-review
 - **Status**: Success
