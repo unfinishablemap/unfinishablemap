@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T06:50:00+00:00
+ai_modified: 2026-05-08T07:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 07:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-convergence-argument-for-dualism]]
+- **Cross-review context**: considering insights from [[dualism-as-ai-risk-mitigation]]
+- **Word count**: 3067 → 3068 (+1; length-neutral at 102% of 3000 soft threshold)
+- **Critical issues addressed**: 1 (calibration error — Further Reading entry framed dualism-as-ai-risk-mitigation as "a further convergent strand," conflating an argument-for-dualism with a downstream-implication-of-dualism. Reframed as "A downstream implication, not another route." Correctable inside the Map's own framework — the article elsewhere explicitly distinguishes convergence-points from downstream implications.)
+- **Medium issues addressed**: 1 (description tightened from 175 chars to 159 chars within 150-160 target)
+- **Enhancements made**: 0 net structural changes; body of article preserved unchanged
+- **Reasoning-mode classifications**: engagement with Bloom's dualist-intuition hypothesis: Mode One (Barrett et al. empirical evidence contradicts the proposed common cause inside Bloom's own framing); engagement with Dennett's conceptual-confusion diagnosis: Mode Two (article notes the diagnosis itself requires argument and a single confusion would have to span four philosophical sub-domains, invoking mechanism-specification standards Dennett's framework endorses); engagement with McGinn's cognitive closure: Mixed (Mode One opens with closure-cuts-both-ways, Mode One continues with cross-cultural prediction asymmetry, Mode Three closes with practical-epistemic boundary-marking); engagement with phenomenal concept strategy: Mode One (less traction with Cluster 3 is an internal-to-the-position critique). No boundary substitution; no editor-vocabulary leakage in prose.
+- **Attribution check**: All seven source claims (Barrett, Bloom, Barlev & Shtulman, McGinn, Wöhler, Buchner, DNA) verified accurate as in three prior reviews.
+- **Stability**: Fourth consecutive review confirming stability. Single calibration fix in Further Reading framing; body unchanged. Heterophenomenology gap deferred for the fourth time and recorded as known-not-to-be-re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-08-the-convergence-argument-for-dualism]]
 
 ## 2026-05-08 06:50 UTC - coalesce
 - **Status**: Success

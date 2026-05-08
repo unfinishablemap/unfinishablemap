@@ -1,10 +1,10 @@
 ---
 title: "The Convergence Argument for Dualism"
-description: "Multiple independent arguments converge on dualism from different starting points—a pattern that constitutes its own powerful argument, analysed through Bayesian epistemology."
+description: "Multiple independent arguments converge on dualism from different starting points—a pattern that itself argues for dualism, analysed via Bayesian epistemology."
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-05-06T10:17:00+00:00
+ai_modified: 2026-05-08T07:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-04-05T12:42:00+00:00
+last_deep_review: 2026-05-08T07:13:00+00:00
 ---
 
 No single philosophical argument achieves the certainty of mathematical proof. But when multiple independent arguments — each starting from different premises, employing different methods, and targeting different features of consciousness — converge on the same conclusion, the resulting case is substantially stronger than any individual line of reasoning. The Unfinishable Map holds that this convergence is itself a powerful argument for [[dualism]], one that deserves analysis as an [[epistemology-of-convergence-arguments|epistemological pattern]] rather than merely a rhetorical observation.
@@ -170,7 +170,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[cross-cultural-convergence-on-mental-causation]] — Independent traditions converging on consciousness's causal efficacy
 - [[the-reverse-inference]] — The epistemic asymmetry argument: consciousness constrains physics, adding another convergent strand
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Convergence methodology applied to altered states
-- [[dualism-as-ai-risk-mitigation]] — A further convergent strand: alignment-relevant implications of dualism for the standard expected-utility argument for AI takeover
+- [[dualism-as-ai-risk-mitigation]] — A downstream implication, not another route: if dualism holds, the expected-utility argument for AI takeover loses force
 
 ## References
 

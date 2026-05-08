@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/the-convergence-argument-for-dualism.md considering dualism-as-ai-risk-mitigation insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-05-06 expand-topic creation of `topics/dualism-as-ai-risk-mitigation.md`. The convergence-argument article currently lists `[[dualism-as-ai-risk-mitigation]]` in Further Reading with a one-line bridging clause ("A further convergent strand: alignment-relevant implications of dualism for the standard expected-utility argument for AI takeover") but the body has not been audited for substantive engagement. The new article adds a distinct convergent strand to the dualism case — the structural-indeterminability-of-mind-arena-consequences argument applied to AI alignment — that warrants integration into the convergence-argument's catalogue if it strengthens the overall convergent case without inflating the article. Cross-review should (a) grep convergence-argument-for-dualism for existing AI/alignment material; (b) decide whether to install a brief named-strand mention in the body (where the article enumerates convergent strands) or leave the Further Reading cross-link as the load-bearing pointer; (c) verify the conditional-claim discipline is not violated — convergence-argument's strands must remain coherent under the slippage discipline (per `concepts/possibility-probability-slippage`) and not absorb the dualism-as-ai-risk-mitigation conclusion as established empirical fact; (d) verify reciprocal back-link from dualism-as-ai-risk-mitigation to convergence-argument is installed where appropriate; (e) flag any contradictions or terminological drift. Short scope (~100–250 words touched). Tenet alignment: Tenets 1, 3 + methodological. See [[topics/dualism-as-ai-risk-mitigation]] and [[topics/the-convergence-argument-for-dualism]].
-- **Source**: chain (from 2026-05-06 expand-topic of dualism-as-ai-risk-mitigation)
-- **Generated**: 2026-05-07
-
 ### P3: Resolve orphan references in topics/animal-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending (partial — James (1890) orphan resolved 2026-05-04 22:28 UTC by P2 refine-draft above; Carruthers (2019) and Tomasello (2010) remain to be resolved at Higher-Order Theories and human-ape gap sections respectively)
@@ -3362,6 +3355,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-08: Cross-review topics/the-convergence-argument-for-dualism.md considering dualism-as-ai-risk-mitigation insights
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-05-06 expand-topic creation of `topics/dualism-as-ai-risk-mitigation.md`. The convergence-argument article currently lists `[[dualism-as-ai-risk-mitigation]]` in Further Reading with a one-line bridging clause ("A further convergent strand: alignment-relevant implications of dualism for the standard expected-utility argument for AI takeover") but the body has not been audited for substantive engagement. The new article adds a distinct convergent strand to the dualism case — the structural-indeterminability-of-mind-arena-consequences argument applied to AI alignment — that warrants integration into the convergence-argument's catalogue if it strengthens the overall convergent case without inflating the article. Cross-review should (a) grep convergence-argument-for-dualism for existing AI/alignment material; (b) decide whether to install a brief named-strand mention in the body (where the article enumerates convergent strands) or leave the Further Reading cross-link as the load-bearing pointer; (c) verify the conditional-claim discipline is not violated — convergence-argument's strands must remain coherent under the slippage discipline (per `concepts/possibility-probability-slippage`) and not absorb the dualism-as-ai-risk-mitigation conclusion as established empirical fact; (d) verify reciprocal back-link from dualism-as-ai-risk-mitigation to convergence-argument is installed where appropriate; (e) flag any contradictions or terminological drift. Short scope (~100–250 words touched). Tenet alignment: Tenets 1, 3 + methodological. See [[topics/dualism-as-ai-risk-mitigation]] and [[topics/the-convergence-argument-for-dualism]].
+- **Output**: obsidian/topics/the-convergence-argument-for-dualism.md -- Context: Cross-review topics/the-convergence-argument-for-dualism.md considering dualism-as-ai-risk-mitigation insights
 
 ### ✓ 2026-05-08: Condense topics/dualism-as-ai-risk-mitigation.md (4,155 words, 138% of target)
 - **Type**: condense
