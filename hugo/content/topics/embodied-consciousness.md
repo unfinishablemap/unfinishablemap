@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-25 01:29:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ last_deep_review: 2026-04-16 15:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[choking-phenomenon-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[enactivism-challenge-to-interactionist-dualism]]'
 - '[[consciousness-as-activity]]'
@@ -135,7 +135,7 @@ This rhythm illuminates how the interface evolves through practice. The Dreyfus 
 
 The **novice** requires constant conscious monitoring. Every movement is explicitly directed. The interface operates in its most bandwidth-limited mode. The **expert** has trained the interface. Procedural systems handle execution; consciousness withdraws to oversight.
 
-[Choking under pressure](/topics/choking-phenomenon-mental-causation/) reveals something crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This proves [bidirectional causation](/concepts/mental-causation-and-downward-causation/): an [epiphenomenal](/concepts/epiphenomenalism/) consciousness could not systematically interfere with motor execution. The disruption proves the manager has real causal power; the improvement after withdrawal proves the specialists can operate with appropriate autonomy.
+[Choking under pressure](/topics/empirical-phenomena-mental-causation/) reveals something crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This proves [bidirectional causation](/concepts/mental-causation-and-downward-causation/): an [epiphenomenal](/concepts/epiphenomenalism/) consciousness could not systematically interfere with motor execution. The disruption proves the manager has real causal power; the improvement after withdrawal proves the specialists can operate with appropriate autonomy.
 
 At the opposite extreme, [flow states](/topics/consciousness-and-skill-acquisition/) represent the interface operating with minimal friction—consciousness selects at a coarse-grained level while procedural systems handle execution with maximal autonomy.
 
@@ -205,7 +205,7 @@ The interface reading would face serious difficulty if:
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
 - [somatic-interface](/concepts/somatic-interface/) — The body's internal sensing channels as structured interface substrate
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Empirical evidence for dual-domain architecture in proprioception and spatial imagination
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — The bidirectional evidence from choking in detail
+- [choking phenomenon](/topics/empirical-phenomena-mental-causation/) — The bidirectional evidence from choking in detail
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow as frictionless interface operation
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — The three strands of enactivism's challenge
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology: consciousness as something the organism does

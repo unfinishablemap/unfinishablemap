@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-04-16 17:40:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ last_curated: null
 last_deep_review: 2026-04-16 17:40:00+00:00
 modified: *id001
 related_articles:
-- '[[placebo-effect-and-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 - '[[empirical-evidence-for-consciousness-selecting]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
@@ -85,7 +85,7 @@ The meditation evidence no longer serves as an independent pillar for structural
 
 ## Placebo-Stimulated Neuroplasticity
 
-The [placebo effect](/topics/placebo-effect-and-mental-causation/) provides a particularly compelling case because the causal agent is a belief state—propositional mental content about expected therapeutic benefit—rather than any physical intervention.
+The [placebo effect](/topics/empirical-phenomena-mental-causation/) provides a particularly compelling case because the causal agent is a belief state—propositional mental content about expected therapeutic benefit—rather than any physical intervention.
 
 A 2024 paper proposes the "Neuroplasticity Placebo Theory," arguing that placebo effects are not passive expectation artifacts but active interventions associated with neuroplasticity (Marueckova et al., 2024). EMBARC studies provide empirical support: belief and expectation recruit opioid and dopamine systems and are associated with measurable neural changes, though the specific methodological quality of placebo neuroplasticity claims deserves the same scrutiny now applied to meditation structural findings. Placebo analgesia involves a descending pain-modulation network spanning the dorsolateral prefrontal cortex, rostral anterior cingulate cortex, and periaqueductal grey.
 
@@ -123,7 +123,7 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 
 ## Further Reading
 
-- [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- [placebo effect](/topics/empirical-phenomena-mental-causation/)
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)

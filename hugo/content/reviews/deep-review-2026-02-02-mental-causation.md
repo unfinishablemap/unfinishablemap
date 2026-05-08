@@ -58,13 +58,13 @@ All six adversarial personas engaged:
 - Delegatory dualism integration: Properly connected to Map's quantum framework
 
 ### Enhancements Made
-- Added reference to [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) in self-stultification section
+- Added reference to [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) in self-stultification section
 - Added choking phenomenon article to Further Reading
 - Trimmed Further Reading (removed reductionism, downward-causation, pairing-problem to maintain length neutrality)
 - Consolidated bullet list in self-stultification section to make room for choking reference
 
 ### Cross-links Added
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) (self-stultification section, Further Reading)
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) (self-stultification section, Further Reading)
 
 ## Remaining Items
 

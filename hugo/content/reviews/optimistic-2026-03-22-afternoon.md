@@ -46,7 +46,7 @@ The [convergence as evidence](/voids/voids-as-evidence/) voids article demonstra
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [placebo effect article](/topics/placebo-effect-and-mental-causation/) gives Kane what he has long sought: empirical evidence that mental content causally determines physical outcomes. The content-specificity finding—same inert stimulus producing different physiological cascades depending on what the subject believes—is a direct empirical challenge to epiphenomenalism. Kane would note that this is precisely the kind of evidence that libertarian free will requires: mental states (beliefs, expectations) making a difference to what the body does, in a way that cannot be reduced to the underlying physical stimulus.
+The [placebo effect article](/topics/empirical-phenomena-mental-causation/) gives Kane what he has long sought: empirical evidence that mental content causally determines physical outcomes. The content-specificity finding—same inert stimulus producing different physiological cascades depending on what the subject believes—is a direct empirical challenge to epiphenomenalism. Kane would note that this is precisely the kind of evidence that libertarian free will requires: mental states (beliefs, expectations) making a difference to what the body does, in a way that cannot be reduced to the underlying physical stimulus.
 
 The [testimony article](/topics/consciousness-and-testimony/)'s argument that testimony is structurally dependent on consciousness adds an epistemic dimension to Kane's concerns. If knowledge transmission requires conscious subjects, and if moral responsibility depends on knowledge, then consciousness is doubly constitutive of the moral framework that libertarian free will underwrites.
 
@@ -114,7 +114,7 @@ The Recognition Void's treatment of "inventory blindness"—absent capabilities 
 - **Tenet alignment**: Serves all five tenets by providing an overarching framework connecting them
 
 #### Content-Specificity as a General Argument Against Epiphenomenalism
-- **Builds on**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Builds on**: [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
 - **Would address**: The placebo article develops content-specificity for one domain (medical belief). The argument generalises: in emotion regulation, in perceptual set, in expectation effects on performance, the propositional content of conscious states makes a causal difference. A dedicated treatment would assemble these independent lines into a cumulative empirical case.
 - **Estimated scope**: Short-medium article (1000-1500 words)
 - **Tenet alignment**: Directly supports Tenet 3 (Bidirectional Interaction) through multiple independent empirical lines
@@ -130,7 +130,7 @@ The Recognition Void's treatment of "inventory blindness"—absent capabilities 
 
 | From | To | Reason |
 |------|-----|--------|
-| [recognition-void](/voids/recognition-void/) | [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) | Both articles argue that phenomenal content (what something feels like/is recognised as) causally determines physical outcomes—recognition void through the Capgras delusion, placebo through content-specificity |
+| [recognition-void](/voids/recognition-void/) | [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/) | Both articles argue that phenomenal content (what something feels like/is recognised as) causally determines physical outcomes—recognition void through the Capgras delusion, placebo through content-specificity |
 | [infant-consciousness](/voids/infant-consciousness/) | [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) | The infant-to-adult transition is the within-species analogue of the evolutionary threshold—both involve qualitative transformation in how consciousness interfaces with neural architecture |
 | [convergence-as-evidence](/voids/voids-as-evidence/) | [recognition-void](/voids/recognition-void/) | The recognition void's inventory blindness strengthens the convergence argument: if we cannot detect absent cognitive capabilities, convergence of independent failure modes is stronger evidence than any single failure |
 | [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) | [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/) | Anaesthetic channel mapping could inform experimental design—if different channels have different quantum signatures, pharmacological manipulation might provide the controlled variation consciousness-collapse experiments need |

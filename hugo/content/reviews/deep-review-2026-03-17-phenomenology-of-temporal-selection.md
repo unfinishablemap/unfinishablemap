@@ -59,7 +59,7 @@ None.
 ### Cross-links Added
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - [timing-gap-problem](/concepts/timing-gap-problem/)
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
 

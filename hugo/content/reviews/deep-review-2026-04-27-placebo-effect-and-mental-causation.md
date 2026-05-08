@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-27
-**Article**: [The Placebo Effect and Mental Causation](/topics/placebo-effect-and-mental-causation/)
+**Article**: [The Placebo Effect and Mental Causation](/topics/empirical-phenomena-mental-causation/)
 **Previous review**: [2026-03-22 (6th review)](/reviews/deep-review-2026-03-22c-placebo-effect-and-mental-causation/)
 
 ## Convergence Assessment

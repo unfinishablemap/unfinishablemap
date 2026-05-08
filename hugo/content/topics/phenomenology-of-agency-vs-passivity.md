@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-27 07:43:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -35,7 +35,7 @@ related_articles:
 - '[[phenomenology-mechanism-bridge]]'
 - '[[consciousness-and-agency]]'
 - '[[dream-consciousness]]'
-- '[[choking-phenomenon-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
 - '[[ownership-void]]'
 - '[[agency-void]]'
@@ -84,7 +84,7 @@ The poles are idealised. Most experience falls somewhere between pure agency and
 
 Typing these words, an experienced writer barely notices the finger movements. Each keystroke was once deliberate—early typing required conscious selection of each key. Through practice, the action shifted from the agentic pole toward passivity. It still feels like *doing* something (unlike pure perception), but the effort and authorship have diminished. The [automatisation process](/concepts/implicit-memory/) gradually withdraws [conscious contribution](/concepts/conscious-vs-unconscious-processing/) while preserving behavioural output.
 
-The [choking phenomenon](/topics/choking-phenomenon-mental-causation/) reveals what happens when consciousness re-engages with an automatised skill. A pianist performing from muscle memory suddenly attends to her fingers and stumbles. The return of agency disrupts the [delegated](/concepts/skill-delegation/) passivity that skilled performance requires. This is evidence for the Map's framework: if consciousness were causally inert, its re-engagement with a motor routine could not disrupt it.
+The [choking phenomenon](/topics/empirical-phenomena-mental-causation/) reveals what happens when consciousness re-engages with an automatised skill. A pianist performing from muscle memory suddenly attends to her fingers and stumbles. The return of agency disrupts the [delegated](/concepts/skill-delegation/) passivity that skilled performance requires. This is evidence for the Map's framework: if consciousness were causally inert, its re-engagement with a motor routine could not disrupt it.
 
 ### Flow States
 

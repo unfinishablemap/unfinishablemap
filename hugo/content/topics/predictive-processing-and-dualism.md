@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-17 00:05:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ related_articles:
 - '[[predictive-processing-active-inference-dualism-2026-03-19]]'
 - '[[attention-and-the-consciousness-interface]]'
 - '[[bandwidth-of-consciousness]]'
-- '[[placebo-effect-and-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 title: Predictive Processing and Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -135,7 +135,7 @@ The Unfinishable Map sees predictive processing as a valuable ally — the best 
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Precision weighting provides the functional context within which quantum selection might operate. Consciousness does not need to micromanage every prediction — it influences which prediction errors receive high precision, and the brain's own computational machinery handles the rest. This is minimal in the tenet's required sense: a small bias at the precision-weighting level cascades through the entire predictive hierarchy. The quantum-Bayesian connection (Pothos et al., 2022) suggests a possible formal bridge between the free energy principle and the quantum level where the Map locates the consciousness-physics interface.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Active inference is the strongest empirical case for bidirectional causation in cognitive science. Organisms genuinely change the world, not just model it. The Map extends this to the neural level: consciousness changes the brain's state by influencing precision weighting, and the brain then changes the world through active inference. The two levels of bidirectional influence — consciousness-to-brain and organism-to-world — form a nested hierarchy of causal interaction. The [placebo effect](/topics/placebo-effect-and-mental-causation/) provides empirical evidence: expectations — strong priors in PP's framework — produce measurable physiological outcomes, demonstrating that precision weighting has real physical consequences.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Active inference is the strongest empirical case for bidirectional causation in cognitive science. Organisms genuinely change the world, not just model it. The Map extends this to the neural level: consciousness changes the brain's state by influencing precision weighting, and the brain then changes the world through active inference. The two levels of bidirectional influence — consciousness-to-brain and organism-to-world — form a nested hierarchy of causal interaction. The [placebo effect](/topics/empirical-phenomena-mental-causation/) provides empirical evidence: expectations — strong priors in PP's framework — produce measurable physiological outcomes, demonstrating that precision weighting has real physical consequences.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: PP is formulated from a singular perspective — one agent minimising *its* prediction errors against *its* environment. The felt quality of surprise — the shock of a violated expectation, the recalibration of one's model — presupposes a singular experiencer whose predictions were wrong. Under many-worlds, a copy of you exists in every outcome branch, each experiencing their result as definite. But this raises the indexical question the Map finds unanswerable: why am I the copy who experienced *this* prediction error rather than the one whose prediction was confirmed? PP sharpens the Map's rejection of many-worlds not because prediction error fails mechanically under branching, but because the lived experience of being wrong about the world implies a singular perspective that branching universes cannot ground.
 
@@ -152,7 +152,7 @@ The Unfinishable Map sees predictive processing as a valuable ally — the best 
 - [categorical-surprise](/concepts/categorical-surprise/) — When prediction fails at the framework level
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science's findings resist materialist closure
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Bandwidth limits and the interface
-- [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Expectations as strong priors with measurable outcomes
+- [placebo effect](/topics/empirical-phenomena-mental-causation/) — Expectations as strong priors with measurable outcomes
 - [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why simplicity cannot settle the consciousness debate
 

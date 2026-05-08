@@ -66,7 +66,7 @@ topics: []
 ### Cross-links Added
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) (in dreams section and related_articles)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) (in habitual action section and concepts)
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) (added to related_articles)
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) (added to related_articles)
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) (in anti-illusionism argument)
 - [illusionism](/concepts/illusionism/) and [epiphenomenalism](/concepts/epiphenomenalism/) (added to concepts)
 

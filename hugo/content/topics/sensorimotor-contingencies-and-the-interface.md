@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-16 13:43:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[embodied-consciousness]]'
 - '[[embodied-cognition-extended-mind-2026-01-14]]'
 - '[[embodiment-cognitive-limits]]'
-- '[[choking-phenomenon-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 - '[[predictive-processing-and-dualism]]'
 - '[[capability-division-problem]]'
 title: Sensorimotor Contingencies and the Interface
@@ -129,7 +129,7 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the control surface for consciousness
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — The body-subject's limits as a window into consciousness
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Bidirectional evidence from skilled performance breakdown
+- [choking phenomenon](/topics/empirical-phenomena-mental-causation/) — Bidirectional evidence from skilled performance breakdown
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — How sensorimotor contingencies relate to prediction error and precision weighting
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — How enactivism challenges the interface reading and where common ground emerges
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Place-experience as the ultimate multi-modal sensorimotor integration

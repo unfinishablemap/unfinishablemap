@@ -76,7 +76,7 @@ No new counterarguments identified since the article content is substantively un
 **Inbound (from other articles to this one):**
 - [free-will](/topics/free-will/) — Added wikilink in Motor Selection section where dopamine is discussed
 - [the-interface-location-problem](/topics/the-interface-problem/) — Added to Further Reading
-- [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Added wikilink on "dopamine" in Parkinson's placebo section
+- [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/) — Added wikilink on "dopamine" in Parkinson's placebo section
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — Added to Further Reading
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Added to Further Reading
 

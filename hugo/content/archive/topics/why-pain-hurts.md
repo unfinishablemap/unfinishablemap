@@ -103,7 +103,7 @@ Pain's causal role extends beyond the moment of injury. The *anticipation* of pa
 
 This anticipatory dimension is difficult for [epiphenomenalism](/concepts/epiphenomenalism/) to accommodate. If phenomenal consciousness merely accompanies physical processes, then the dread of future pain must do its causal work entirely through subpersonal neural mechanisms. But people dread *specific* types of pain (dental drilling, not stubbing a toe), and their avoidance tracks the *imagined phenomenal quality* of the anticipated experience.
 
-The [placebo effect](/topics/placebo-effect-and-mental-causation/) demonstrates the complementary point. Expecting pain relief — a conscious belief about future phenomenal states — can produce measurable opioid release and genuine analgesia. The *expectation of how things will feel* causally influences physiology. What a person consciously anticipates about their pain experience partly determines their pain experience. This closed loop between phenomenal expectation and phenomenal outcome is exactly what interactionist dualism predicts.
+The [placebo effect](/topics/empirical-phenomena-mental-causation/) demonstrates the complementary point. Expecting pain relief — a conscious belief about future phenomenal states — can produce measurable opioid release and genuine analgesia. The *expectation of how things will feel* causally influences physiology. What a person consciously anticipates about their pain experience partly determines their pain experience. This closed loop between phenomenal expectation and phenomenal outcome is exactly what interactionist dualism predicts.
 
 ## Pain and Attention
 
@@ -144,7 +144,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [emotional-consciousness](/topics/emotion-and-dualism/) — Valence as an intrinsic property of experience
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal role
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why evolution requires mental causation
-- [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Content-specific beliefs causing physiological change
+- [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/) — Content-specific beliefs causing physiological change
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — How phenomenal properties ground objective value
 - [mental-causation](/concepts/mental-causation-and-downward-causation/) — The problem of how mind influences matter
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy

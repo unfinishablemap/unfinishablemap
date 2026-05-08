@@ -67,7 +67,7 @@ Files updated (62 link replacements across 26 files):
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (2)
 - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) (3)
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) (2)
-- [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) (2)
+- [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/) (2)
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) (2)
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) (4)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) (2)

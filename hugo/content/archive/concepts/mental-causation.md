@@ -178,7 +178,7 @@ The strongest positive argument for mental causation is [self-stultification](/t
 4. Beliefs formed without causal connection to their subject matter are not rationally held
 5. Therefore, epiphenomenalism cannot be rationally believed on the basis of evidence about consciousness
 
-If mental states cause nothing, then your beliefs about consciousness aren't caused by consciousness — making the denial epistemically self-defeating. The [metaproblem of consciousness](/topics/metaproblem-of-consciousness-under-dualism/) runs a parallel argument: if consciousness doesn't cause our problem intuitions, those intuitions cannot be explained as tracking their subject matter—interactionism's realizationism is the only position that avoids this. The [evolutionary case](/topics/evolutionary-case-for-mental-causation/) provides complementary support, and the [choking phenomenon](/topics/choking-phenomenon-mental-causation/) offers empirical evidence: conscious interference with automatized skills demonstrates causation.
+If mental states cause nothing, then your beliefs about consciousness aren't caused by consciousness — making the denial epistemically self-defeating. The [metaproblem of consciousness](/topics/metaproblem-of-consciousness-under-dualism/) runs a parallel argument: if consciousness doesn't cause our problem intuitions, those intuitions cannot be explained as tracking their subject matter—interactionism's realizationism is the only position that avoids this. The [evolutionary case](/topics/evolutionary-case-for-mental-causation/) provides complementary support, and the [choking phenomenon](/topics/empirical-phenomena-mental-causation/) offers empirical evidence: conscious interference with automatized skills demonstrates causation.
 
 ### The Illusionist Response
 
@@ -226,7 +226,7 @@ Mental causation, as defended here, is falsifiable:
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy: basis, timing, or probability control
 - [causal-delegation](/concepts/delegatory-causation/) — Mechanism by which physical states hand off causal work to experiences
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's 2025 response: experiences preempt rather than overdetermine
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Empirical evidence: conscious interference demonstrates causation
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) — Empirical evidence: conscious interference demonstrates causation
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's commitment to consciousness causally influencing the physical
 - [illusionism](/concepts/illusionism/) — The radical challenge denying phenomenal consciousness
 - [supervenience](/concepts/supervenience/) — Why covariance without reduction is the Map's position

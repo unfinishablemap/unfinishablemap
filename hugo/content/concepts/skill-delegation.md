@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-30 07:58:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
-- '[[choking-phenomenon-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
 title: Skill Delegation
@@ -65,7 +65,7 @@ This capacity is not hypothetical. It is demonstrated empirically every time an 
 
 ## The Choking Phenomenon as Evidence
 
-The strongest evidence that skill delegation involves genuine consciousness—not mere neural handoff between subsystems—comes from [choking under pressure](/topics/choking-phenomenon-mental-causation/). When skilled performers consciously attend to automatised actions under stress, performance degrades. The expert golfer thinking about their swing misses shots they would normally make. The concert pianist monitoring finger placement stumbles.
+The strongest evidence that skill delegation involves genuine consciousness—not mere neural handoff between subsystems—comes from [choking under pressure](/topics/empirical-phenomena-mental-causation/). When skilled performers consciously attend to automatised actions under stress, performance degrades. The expert golfer thinking about their swing misses shots they would normally make. The concert pianist monitoring finger placement stumbles.
 
 Choking reveals three things about skill delegation:
 
@@ -145,7 +145,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 - [agent-causation](/concepts/agent-causation/) — Why skill delegation presupposes a genuine agent as delegator
 - [delegatory-causation](/concepts/delegatory-causation/) — The metaphysical parallel: physical states delegating to consciousness
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The unified framework situating skill-delegation as the inverse of causal delegation within quantum selection
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Extended analysis of choking as evidence for mental causation
+- [choking phenomenon](/topics/empirical-phenomena-mental-causation/) — Extended analysis of choking as evidence for mental causation
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How consciousness shapes skill acquisition, flow, and performance restructuring
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The spectrum from doing to undergoing
 - [attention-as-interface](/concepts/attention-as-interface/) — The mechanism through which conscious engagement varies

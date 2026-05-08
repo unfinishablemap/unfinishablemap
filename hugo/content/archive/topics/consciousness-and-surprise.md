@@ -151,7 +151,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive function
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness doesn't cause anything
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection implies mental causation
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Another case against epiphenomenalism from a different angle
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) — Another case against epiphenomenalism from a different angle
 - [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) — Creative insight and the encounter with genuine novelty
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, wonder, and other knowledge-directed affects
 - [structure-of-attention](/topics/structure-of-attention/) — How attention allocates cognitive resources

@@ -82,7 +82,7 @@ topics: []
 ### Cross-links Added
 
 - [personal-identity](/topics/personal-identity/)
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)
 - [past-self-void](/voids/inaccessible-past/)

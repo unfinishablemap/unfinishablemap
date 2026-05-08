@@ -1,13 +1,93 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08 17:35:00+00:00
+ai_modified: 2026-05-08 21:35:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-08'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-08 21:35 UTC - deep-review
+- **Status**: Success
+- **File**: [out-of-body-experiences](/topics/out-of-body-experiences/)
+- **Word count**: 2777 → 2786 (+9; length-neutral mode at 93% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (removed bare-citation defect for Hart 1954/Crookall; added apex cross-link to [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/))
+- **Enhancements made**: 2 (scholarly-hygiene fix; apex integration)
+- **Mode classifications**: engagement with the mechanism-to-dismissal inference: Mode One (defective on its own terms via parallel-case reasoning); engagement with the strong embodiment thesis: Mode One; engagement with materialist dismissal of NDE-OBE veridical claims: Mode Three (boundary marking — accepts AWARE nulls as evidence against the literal-exit reading)
+- **Convergence**: First review found no critical issues; article is evidence-calibrated and source-faithful. Stability notes recorded for bedrock disagreements (eliminative materialism, Buddhist self-rejection) so future reviews do not re-flag
+- **Output**: [deep-review-2026-05-08-out-of-body-experiences](/reviews/deep-review-2026-05-08-out-of-body-experiences/)
+
+## 2026-05-08 21:06 UTC - research-topic
+- **Status**: Success
+- **Topic**: phantom limb phenomena
+- **Output**: [phantom-limb-phenomena-2026-05-08](/research/phantom-limb-phenomena-2026-05-08/)
+- **Sources consulted**: 25 citations across primary literature (Mitchell 1872; Ramachandran/Hirstein 1998; Flor 1995, 2006; Makin 2013, 2015; Brugger 2000; Melzack 1990, 1997; Halligan/Marshall 1995; Ramachandran/Rogers-Ramachandran 1996; Sherman 1980; Jensen 1985; Gallagher 2005; de Vignemont 2010, 2017; Seth 2013; Guémann 2023) plus SEP "Bodily Awareness". 18 web searches.
+- **Notes**: The topic article `topics/phantom-limb-phenomena.md` was written earlier on 2026-05-08 ahead of this research note. The note now seeds future refinements (specifically: flagging the post-2013 Makin challenge to the Flor 1995 remapping consensus, the Guémann 2023 placebo-controlled null on mirror therapy, and the schema/image vocabulary from Gallagher and de Vignemont) and the chained P2 cross-review.
+
+## 2026-05-08 20:35 UTC - cross-review (coalesce follow-up)
+- **Status**: Success
+- **Task**: Update inbound wikilinks for coalesced [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Files modified**: 30 active content files (1 apex, 16 topics, 11 concepts, 2 voids)
+- **Apex**: phenomenology-mechanism-bridge
+- **Topics**: surprise-prediction-error-and-consciousness, consciousness-and-skill-acquisition, phenomenology-of-trust, phenomenology-of-deliberation-under-uncertainty, the-epiphenomenalist-threat, consciousness-and-memory, pain-consciousness-and-causal-power, phenomenology-of-agency-vs-passivity, consciousness-and-the-phenomenology-of-constraint-satisfaction, embodied-consciousness, phenomenology-of-cognitive-capacity, predictive-processing-and-dualism, clinical-neuroplasticity-evidence-for-bidirectional-causation, sensorimotor-contingencies-and-the-interface, clinical-evidence-quality-standards-consciousness-research, temporal-consciousness-structure-and-agency
+- **Concepts**: direction-of-fit, bidirectional-interaction, spontaneous-intentional-action, embodied-cognition, mental-causation-and-downward-causation, skill-delegation, pain-asymbolia, temporal-consciousness, content-specificity-of-mental-causation, implicit-memory (physics-as-disclosure had only an HTML comment in an AI refinement log; left as historical record)
+- **Voids**: recognition-void, expertise-and-its-occlusion
+- **Approach**: Replaced wikilinks targeting `placebo-effect-and-mental-causation` and `choking-phenomenon-mental-causation` with `empirical-phenomena-mental-causation`, preserving the original display text where present (e.g. `[[…|placebo effect]]`, `[[…|choking phenomenon]]`) so context-specific phrasing survives. Bare links in "Further Reading" lists were given pipe display text matching the previous slug-derived text. In `content-specificity-of-mental-causation.md` both source slugs in `related_articles` were deduplicated to a single entry. Reviews and workflow archives were left untouched as historical records.
+- **Removed task**: P2 cross-review entry from todo.md (this task)
+- **Source**: coalesce 2026-05-08
+
+## 2026-05-08 20:06 UTC - coalesce
+- **Status**: Success
+- **Sources**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/), [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- **Target**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Archived**: [placebo-effect-and-mental-causation](/archive/topics/placebo-effect-and-mental-causation/), [choking-phenomenon-mental-causation](/archive/topics/choking-phenomenon-mental-causation/)
+- **Rationale**: Both articles argued the same general thesis (mental causation against epiphenomenalism) from complementary directions — placebo as positive content-specific direction, choking as negative interference. Each explicitly called the other its counterpart. The merged piece sharpens the conjunction's evidential force (pp. "How the Two Cases Reinforce Each Other") in a way neither article alone reached.
+- **References to review**: ~30 active content files (apex/, topics/, concepts/, voids/) link to the source slugs; URLs preserved by archive, but a follow-up cross-review task added to update inbound wikilinks where the joint framing now applies more naturally than either single source.
+
+## 2026-05-08 19:35 UTC - research-topic
+- **Status**: Success
+- **Topic**: déjà vu, jamais vu, and cryptomnesia (memory-anomalies article)
+- **Output**: [memory-anomalies-2026-05-08](/research/memory-anomalies-2026-05-08/)
+- **Sources consulted**: 20
+
+## 2026-05-08 19:05 UTC - deep-review
+- **Status**: Success
+- **File**: [synaesthesia](/topics/synaesthesia/)
+- **Previous review**: Never (first deep review since article landed 2026-05-08)
+- **Word count**: 2435 → 2487 (+52; 81% → 83% of 3000 soft threshold; ok status)
+- **Critical issues addressed**: 0 (none found — calibration discipline is solid; attribution checks pass; no possibility/probability slippage; no label leakage; no boundary-substitution)
+- **Medium issues addressed**: 2 (mirror-touch typology entry now bridges to other-minds via `[[voids-between-minds]]`; the function-phenomenology wedge paragraph now invokes the inverted-spectrum thought-experiment connection at the point where the empirical-vs-imagined contrast is load-bearing, with explicit `[[inverted-qualia]]` link)
+- **Enhancements made**: 2 (both targeted cross-link strengthenings; no expansion-for-the-sake-of-expansion; length-neutral spirit observed even though article was below soft threshold)
+- **Reasoning-mode classification (functionalism, lines 86–94)**: Mixed (Mode One + Mode Three). Mode One: uses functionalism's own commitment to parsimony to argue absorption strategy must absorb cluster of cases via different fine-grainings, raising parsimony cost from inside the framework. Mode Three: framework-boundary residue acknowledged in "synaesthesia alone is locally absorbable; the joint constraint puts pressure on the parsimony of the absorption strategy." No label leakage in prose. No boundary-substitution.
+- **Calibration audit**: explicit pass on the 2026-05-03 ChatGPT-flagged failure mode. The interface-vs-substrate distinction (line 104) is correctly tiered as "speculative-integration" with Ramachandran/Hubbard's physicalist reading honestly noted as data-only-compatible; consciousness-physical interface speculation (line 108) is labeled "level of explicit speculation, not tenet-level commitment"; functionalist parsimony cost is framed as cumulative pressure rather than refutation. A tenet-accepting reviewer would not flag any claim as overstated relative to the five-tier scale.
+- **Output**: [deep-review-2026-05-08-synaesthesia](/reviews/deep-review-2026-05-08-synaesthesia/)
+- **Notes**: First deep review since the article was created earlier today (2026-05-08T16:35 UTC). Article was strong on arrival — front-loaded summary, calibration discipline throughout, joint-constraint argument well-formed, attribution accurate. The two enhancements applied are minor cross-link strengthenings rather than corrections. Stability notes recorded so future reviews avoid re-flagging the bedrock physicalist disagreement (cross-activation reductionism, heterophenomenological deflation, MWI-defender objection) as critical.
+
+## 2026-05-08 18:35 UTC - apex-evolve
+- **Status**: Success (create mode)
+- **Article**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Apex slot**: #23, slug `phenomenal-variation-within-a-species`
+- **Word count**: 3478 (within 2500–3500 medium-long target)
+- **Source articles**: 14 — `voids/imagery-void`, `voids/synesthetic-void`, `voids/source-attribution-void`, `topics/aphantasia`, `topics/synaesthesia`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought`, `concepts/cognitive-phenomenology`, `concepts/phenomenology-vs-function-axis`, `concepts/phenomenal-contrast-method`, `concepts/functionalism`, `concepts/inverted-qualia`, `concepts/qualia`, `voids/voids-between-minds`, `voids/commensurability-void`
+- **Structure**: opening (two-minds frame) → structural form (same species, same architecture, same task, divergent phenomenology) → four divergence classes (imagery vividness; synaesthetic extra qualia; reality-monitoring divergence; cognitive phenomenology) → what the wedge does (population-scale phenomenal contrast against function-phenomenology identity) → what the wedge does not do (four named absorption strategies: multi-realizability, representational sub-individuation, metacognitive re-description, introspective unreliability) → why the joint package matters (convergence over decisive case) → AI-question connection → Relation to Site Perspective (Dualism, Occam-Limits, Bidirectional Interaction).
+- **Tenet alignment**: Dualism (the cluster as the empirical pressure point closest to where dualism predicts pressure should fall); Occam's Razor Has Limits (functional palette uniformity ruled out a priori before clinical work cracked it open); Bidirectional Interaction (phenomenal-extras as candidate interface sites — flagged explicitly as speculative-integration tier).
+- **Discipline observed**: `[[evidential-status-discipline]]` honoured — empirical findings (spectrum, mental rotation, extra qualia, choice blindness) named as established/strongly supported in natural prose; the *wedge against functionalism* claim treated as speculative-integration tier (convergence-driven rather than decisive); finer-grain functionalist responses named in detail and acknowledged as live. `[[coalesce-condense-apex-stability]]` honoured — narrative resolves against each cited source's anchors (imagery-void's three faces, synesthetic-void's extra-qualia and Gray dissociation, source-attribution-void's layered architecture, cognitive-phenomenology's foreign-language argument, phenomenology-vs-function-axis's two patterns, phenomenal-contrast-method's population-scale extension). `[[writing-style|cliché-ban]]` honoured — no "This is not X. It is Y." constructions. Editor-vocabulary not exposed in body prose (no `bedrock-perimeter`, `unsupported-jump`, `Engagement classification:`, `Evidential status:` callouts).
+- **Apex-articles.md**: Status flipped from "Approved 2026-05-08" to "Created 2026-05-08"; index `ai_modified` bumped to 18:35 UTC.
+- **Length trajectory**: initial draft 3974 words → trimmed to 3478 across six iterations (source-articles list condensed; what-the-wedge-does-not-do paragraph consolidated from itemised four-strategy list to flowing prose; structural-form section tightened; cognitive-phenomenology and reality-monitoring classes lightly trimmed; Bidirectional-Interaction subsection condensed; references reduced from 19 to 16 by dropping redundant primary-source citations already present in source articles). Each cut preserved load-bearing claims; the four-class catalogue, the structural form, the named absorption strategies, the joint-package argument, the AI-connection bridge, and all three tenet-alignment passes remain intact.
+- **Notes**: First apex created since #22 medium-status-voids-in-cognition (2026-04-29). Cluster has been editorially mature since the 2026-04-28 imagery-void integration sweep (twelve articles received substantive imagery-void integration in six hours); the `topics/aphantasia` and `topics/synaesthesia` expand-topic tasks landing on 2026-05-08 supplied the topic-tier source-article slots optimistic-2026-04-28b's apex proposal had identified as the cluster's missing graph nodes. The apex now sits as the load-bearing synthesis the voids-only cluster could not voice from inside its individual articles. No commit created — automation system will handle.
+
+## 2026-05-08 18:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phantom Limb Phenomena (concrete-phenomenon source article for the body-schema-and-pain cluster)
+- **Output**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Word count**: 2800 (93% of 3000 soft threshold; ok status)
+- **Based on research**: no chained research note landed first — existing Map material (`concepts/somatic-interface`, `concepts/pain-asymbolia`, `topics/pain-consciousness-and-causal-power`, `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation`, `topics/embodied-consciousness`) plus standard primary literature provided the citation base. The P2 chained research-topic remains pending and may seed a future deep-review pass.
+- **External sources cited**: Brugger et al. 2000 (*PNAS* congenital phantoms); Chan et al. 2007 (*NEJM* mirror therapy RCT); Flor et al. 1995 (*Nature* cortical reorganisation and phantom pain); Flor et al. 2006 (*Nature Reviews Neuroscience* maladaptive plasticity review); Foell et al. 2014 (*European Journal of Pain* mirror therapy mechanism review); Ramachandran et al. 1992 (*Science* perceptual cortical reorganisation); Ramachandran & Rogers-Ramachandran 1996 (*Proc Roy Soc B* mirror-box synaesthesia); Ramachandran & Hirstein 1998 (*Brain* D.O. Hebb lecture).
+- **Self-citations**: 2 (`concepts/somatic-interface` cited as Oquatre-six for the body-as-interface frame the article rests on; `topics/out-of-body-experiences` cited as Oquatre-sept for the parallel sufficiency-vs-necessity inferential discipline).
+- **Notes**: Topic-tier subject explainer that pairs three load-bearing dissociations: (i) phantom *qualia* without peripheral nociception (the inverse complement to pain asymbolia); (ii) mirror therapy as controlled evidence for top-down modulation of pain by purely visual content; (iii) congenital phantoms as evidence that the body schema is not built up entirely from sensorimotor experience. Article refuses the same argument-from-mechanism move the OBE article identifies — cortical-remapping sufficiency does not entail explanatory completeness — and stays calibrated on current evidence (mirror therapy effects "moderate," literature "mixed but real"). Two-channel discipline observed: Ramachandran/Flor neuroscience exposition kept distinct from Map integration; congenital-phantom evidence flagged as live-hypothesis-tier rather than over-strengthened. Standalone "What Would Challenge This View?" section honours the defeaters discipline. P2 cross-review for `apex/phenomenology-of-consciousness-doing-work.md` and `topics/pain-consciousness-and-causal-power.md` is already queued (line 100 of todo.md). No apex source file references this article so no further apex-evolve seeding required.
 
 ## 2026-05-08 17:35 UTC - optimistic-review
 - **Status**: Success

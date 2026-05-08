@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-26 04:01:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[free-will]]'
-- '[[choking-phenomenon-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 ---
 
 Consciousness has a felt size. When you try to hold one too many things in mind, there is a quality of *saturation* — something thickens, items slip, and you feel yourself running out of room. Conversely, when a practised skill passes into automaticity, consciousness *withdraws*, freeing capacity for deployment elsewhere. The Unfinishable Map argues that both experiences — approaching the ceiling from below and clearing space through delegation — reveal consciousness as an active, bandwidth-limited agent rather than a passive observer. The phenomenology of cognitive capacity provides evidence that consciousness encounters its own operational boundaries from inside, and that these boundaries are irreducible to functional descriptions of [working-memory](/concepts/working-memory/) limits or skill consolidation.
@@ -111,7 +111,7 @@ The phenomenology of cognitive capacity — both its limits and how automatisati
 
 ## The Reversal Problem
 
-Automatisation is not strictly one-directional. Skills can de-automatise through disuse, injury, or the [choking phenomenon](/topics/choking-phenomenon-mental-causation/). The phenomenology of de-automatisation is revealing.
+Automatisation is not strictly one-directional. Skills can de-automatise through disuse, injury, or the [choking phenomenon](/topics/empirical-phenomena-mental-causation/). The phenomenology of de-automatisation is revealing.
 
 When a previously automatic skill re-enters consciousness, the experience is distinctly unpleasant. The skill feels clumsy, fragmented, and effortful beyond simple ability degradation. There is a phenomenological *mismatch*: consciousness is re-engaging with neural systems that have been restructured for automatic operation.
 
@@ -150,7 +150,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 - [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) — The effort of reasoning itself, complementing the capacity constraints explored here
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern underlying the withdrawal phenomenology described here
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How consciousness participates in skilled action, including the opposite experiential pole of effortless flow
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When conscious re-entry disrupts automated performance
+- [choking phenomenon](/topics/empirical-phenomena-mental-causation/) — When conscious re-entry disrupts automated performance
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — What it is like to redirect cognitive resources after distraction
 - [working-memory](/concepts/working-memory/) — The cognitive architecture that capacity phenomenology reveals from inside
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has phenomenal character independent of sensory accompaniments

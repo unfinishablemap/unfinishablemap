@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-04-30 00:25:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,7 +44,7 @@ related_articles:
 - '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
-- '[[placebo-effect-and-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 - '[[causal-closure-debate-historical-survey]]'
 - '[[illusionism]]'
 - '[[eliminative-materialism]]'

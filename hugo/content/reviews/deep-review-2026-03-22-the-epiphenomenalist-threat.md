@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-03-22
 **Article**: [The Epiphenomenalist Threat](/topics/the-epiphenomenalist-threat/)
 **Previous review**: [2026-03-21](/reviews/deep-review-2026-03-21-the-epiphenomenalist-threat/)
-**Context**: Cross-review considering newly created [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) article and [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+**Context**: Cross-review considering newly created [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) article and [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/)
 
 ## Pessimistic Analysis Summary
 
@@ -59,7 +59,7 @@ All strengths from prior reviews remain intact. The gravity well metaphor, degre
 
 ### Cross-links Added
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
-- [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/)
 
 ## Word Count
 - Before: 3873 words

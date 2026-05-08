@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-23 13:34:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -102,7 +102,7 @@ Together, these dissociations show that pain's dimensions can be independently m
 - [qualia](/concepts/qualia/) — The qualitative character of experience
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal reality
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How mind influences matter
-- [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Another route to dissociating pain's dimensions
+- [placebo effect](/topics/empirical-phenomena-mental-causation/) — Another route to dissociating pain's dimensions
 - [blindsight](/concepts/blindsight/) — A parallel clinical dissociation supporting dualism
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — How asymbolia evidence bears on whether valence participates in selection

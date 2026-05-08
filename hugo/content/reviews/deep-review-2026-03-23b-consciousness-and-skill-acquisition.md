@@ -45,7 +45,7 @@ This review was triggered because the article had zero inbound links despite bei
   - voids/: transition-void, habituation-void
 
 - **New cross-references added (4 files)**:
-  - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Added to Further Reading
+  - [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) — Added to Further Reading
   - [neuroplasticity](/concepts/neuroplasticity/) — Added to Further Reading
   - [interface-friction](/concepts/interface-friction/) — Added inline link in automatic/controlled processing discussion
   - [motor-selection](/concepts/motor-selection/) — Added inline link in skill delegation discussion

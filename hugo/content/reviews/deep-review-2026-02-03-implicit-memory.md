@@ -67,11 +67,11 @@ None. The previous review resolved major gaps.
 ### Enhancements Made
 1. Softened Merleau-Ponty attribution to paraphrase (avoiding unverifiable quote)
 2. Added cross-link to dedicated choking topic in section heading
-3. Added [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) to Further Reading
-4. Added [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) to related_articles frontmatter
+3. Added [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) to Further Reading
+4. Added [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) to related_articles frontmatter
 
 ### Cross-links Added
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/)
 
 ## Remaining Items
 

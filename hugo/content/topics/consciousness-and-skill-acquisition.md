@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ last_deep_review: 2026-04-28 05:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[choking-phenomenon-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[attention-and-the-consciousness-interface]]'
@@ -107,7 +107,7 @@ These four lines converge against epiphenomenalism: if phenomenal quality has ze
 
 Consciousness labours to construct systems that then operate without its involvement. On the Map's interactionist reading, only something with genuine causal power could build the structures that eventually replace it.
 
-The deflationary reading—that repeated neural activation strengthens pathways and conscious experience is just what that feels like from the inside—must contend with the [choking phenomenon](/topics/choking-phenomenon-mental-causation/): conscious re-engagement with automated skills *disrupts* them. If skills were simply strengthened pathways, conscious attention should be neutral. Instead, consciousness can *undo* what it built—suggesting it was causally involved in the building. The architect's absence from the finished building proves competence, not irrelevance.
+The deflationary reading—that repeated neural activation strengthens pathways and conscious experience is just what that feels like from the inside—must contend with the [choking phenomenon](/topics/empirical-phenomena-mental-causation/): conscious re-engagement with automated skills *disrupts* them. If skills were simply strengthened pathways, conscious attention should be neutral. Instead, consciousness can *undo* what it built—suggesting it was causally involved in the building. The architect's absence from the finished building proves competence, not irrelevance.
 
 ## Body Schema and Tool Incorporation
 
@@ -119,7 +119,7 @@ Tool incorporation demonstrates this: Iriki et al. (1996) showed that after maca
 
 Flow — total absorption in a well-matched challenge — represents what skill makes possible at its peak. Effort vanishes, yet the agent responds adaptively at peak capacity. Flow reveals that effort phenomenology tracks the *difficulty* of conscious selection, not the *presence* of it.
 
-Csikszentmihalyi's research (1975, 1990) identified flow's convergent profile: **absorption**, **effortlessness** (the same performer would [choke](/topics/choking-phenomenon-mental-causation/) if they tried to monitor explicitly), **altered temporality** ([temporal experience](/concepts/temporal-consciousness/) becomes elastic), **loss of reflective self-awareness** while pre-reflective awareness remains, **intrinsic reward**, and **control without controlling**. Flow's altered temporality connects to the [temporal selection](/topics/temporal-consciousness-structure-and-agency/) that skilled performance requires—sensing the right moment and acting from within temporal flow.
+Csikszentmihalyi's research (1975, 1990) identified flow's convergent profile: **absorption**, **effortlessness** (the same performer would [choke](/topics/empirical-phenomena-mental-causation/) if they tried to monitor explicitly), **altered temporality** ([temporal experience](/concepts/temporal-consciousness/) becomes elastic), **loss of reflective self-awareness** while pre-reflective awareness remains, **intrinsic reward**, and **control without controlling**. Flow's altered temporality connects to the [temporal selection](/topics/temporal-consciousness-structure-and-agency/) that skilled performance requires—sensing the right moment and acting from within temporal flow.
 
 The claim that flow is simply [automatised processing](/concepts/implicit-memory/) faces several problems. The jazz musician in flow generates novel phrases responsive to an unrepeatable context—straining standard accounts of procedural memory. Conscious re-engagement *destroys* flow performance while leaving unskilled performance unaffected. Subjects report flow as among the most intensely conscious moments of their lives. And flow produces rich episodic memories resembling consciously encoded episodes, not fragmented high-arousal traces.
 
@@ -157,7 +157,7 @@ The strongest physicalist counterargument is that executive attention networks e
 
 ## Further Reading
 
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When consciousness disrupts the body it trained
+- [choking phenomenon](/topics/empirical-phenomena-mental-causation/) — When consciousness disrupts the body it trained
 - [embodied-consciousness](/topics/embodied-consciousness/) — The 4E framework and the interface reading
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — How perception transforms through learning

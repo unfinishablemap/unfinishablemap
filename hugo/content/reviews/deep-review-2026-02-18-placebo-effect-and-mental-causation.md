@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-18
-**Article**: [The Placebo Effect and Mental Causation](/topics/placebo-effect-and-mental-causation/)
+**Article**: [The Placebo Effect and Mental Causation](/topics/empirical-phenomena-mental-causation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

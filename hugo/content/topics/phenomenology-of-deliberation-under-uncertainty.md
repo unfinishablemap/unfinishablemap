@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,7 +32,7 @@ related_articles:
 - '[[phenomenology-of-intellectual-life]]'
 - '[[tenets]]'
 - '[[spontaneous-intentional-action]]'
-- '[[choking-phenomenon-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 - '[[phenomenology-of-moral-life]]'
 title: The Phenomenology of Deliberation Under Uncertainty
 topics:
@@ -68,7 +68,7 @@ This vertigo has several components:
 
 Deliberative vertigo is not a dysfunction. The Map proposes it is consciousness registering something real: the genuine openness of the situation. A system that merely computed expected utilities would not experience vertigo because vertigo arises from the recognition that computation is inadequate. The felt groundlessness tracks an actual absence of sufficient ground.
 
-The same structure appears in [choking under pressure](/topics/choking-phenomenon-mental-causation/): expert performers experience a version of deliberative vertigo directed at execution rather than decision. Under performance anxiety, consciousness registers a mismatch between what explicit monitoring can provide and what the task demands, producing inappropriate self-focused intervention that degrades automatised skill. Choking demonstrates that deliberative vertigo is not confined to choice — it arises wherever consciousness confronts the limits of its own explicit resources.
+The same structure appears in [choking under pressure](/topics/empirical-phenomena-mental-causation/): expert performers experience a version of deliberative vertigo directed at execution rather than decision. Under performance anxiety, consciousness registers a mismatch between what explicit monitoring can provide and what the task demands, producing inappropriate self-focused intervention that degrades automatised skill. Choking demonstrates that deliberative vertigo is not confined to choice — it arises wherever consciousness confronts the limits of its own explicit resources.
 
 ## Estimation as Phenomenal Achievement
 
@@ -156,7 +156,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [volitional opacity](/voids/self-opacity/) — Why we cannot observe our own deciding
 - [subjective-aim](/concepts/subjective-aim/) — The process-philosophical structure of commitment
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why some moments are denser with experience than others
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Deliberative vertigo applied to skilled execution under pressure
+- [choking phenomenon](/topics/empirical-phenomena-mental-causation/) — Deliberative vertigo applied to skilled execution under pressure
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) — When commitment arrives without extended deliberation
 - [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) — Sartre's anguish and Heidegger's anxiety as existentialist roots of deliberative vertigo
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The full arc of moral consciousness, where deliberative uncertainty meets competing moral demands

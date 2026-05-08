@@ -79,7 +79,7 @@ topics: []
 
 ### Cross-links Added
 - [categorical-surprise](/concepts/categorical-surprise/) — in "What PP Misses" surprise paragraph and Further Reading
-- [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — in Bidirectional Interaction tenet and Further Reading
+- [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/) — in Bidirectional Interaction tenet and Further Reading
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — fixed from broken link, in body and Further Reading
 - [qualia](/concepts/qualia/) — added to frontmatter concepts (was already linked in body)
 

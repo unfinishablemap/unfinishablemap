@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-04-29 23:40:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ related_articles:
 - '[[temporal-consciousness-structure-and-agency]]'
 - '[[sleep-memory-consolidation-consciousness-2026-01-18]]'
 - '[[sleep-consciousness-void]]'
-- '[[choking-phenomenon-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 - '[[personal-identity]]'
 - '[[diachronic-agency-and-personal-narrative]]'
 - '[[incubation-effect-and-unconscious-processing]]'
@@ -99,7 +99,7 @@ If consciousness were epiphenomenal, this distinction would be inexplicable. Why
 
 Perhaps the most striking evidence for consciousness's causal role comes from its *interference* with automatised skills. When experts consciously attend to procedures that have become automatic—a phenomenon called "reinvestment"—performance degrades. A golfer who thinks about their swing hits worse. A pianist who attends to finger placement stumbles.
 
-The materialist can reframe this as neural competition—prefrontal explicit-monitoring networks interfering with basal ganglia automaticity—without invoking non-physical causation. But this redescription does not dissolve the puzzle: it is the *conscious* character of the monitoring that makes it disruptive. Unconscious priming of the same motor sequences does not produce choking. If consciousness were epiphenomenal, attending to an automatic skill could not affect its execution. The fact that conscious attention reliably disrupts procedural performance demonstrates that consciousness causally penetrates motor systems—a case the Map examines in detail in [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/).
+The materialist can reframe this as neural competition—prefrontal explicit-monitoring networks interfering with basal ganglia automaticity—without invoking non-physical causation. But this redescription does not dissolve the puzzle: it is the *conscious* character of the monitoring that makes it disruptive. Unconscious priming of the same motor sequences does not produce choking. If consciousness were epiphenomenal, attending to an automatic skill could not affect its execution. The fact that conscious attention reliably disrupts procedural performance demonstrates that consciousness causally penetrates motor systems—a case the Map examines in detail in [the choking phenomenon](/topics/empirical-phenomena-mental-causation/).
 
 ## Why Consciousness Must Withdraw for Consolidation
 
@@ -204,7 +204,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — The Tulving hierarchy applied as diagnostic tool for AI consciousness, alongside six categories of phenomenality
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as the perspectival anchor autonoetic consciousness extends across time
 - [personal-identity](/topics/personal-identity/)
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- [choking phenomenon](/topics/empirical-phenomena-mental-causation/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)

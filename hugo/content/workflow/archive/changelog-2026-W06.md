@@ -4608,7 +4608,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 05:59 UTC - deep-review
 - **Status**: Success
-- **File**: [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- **File**: [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - **Word count**: 1763 → 1942 (+179)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3
@@ -4879,7 +4879,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 03:23 UTC - expand-topic
 - **Status**: Success
 - **Topic**: choking phenomenon and mental causation
-- **Output**: [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- **Output**: [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - **Word count**: 1763
 - **Based on research**: yes — [downward-causation-mental-causation-2026-01-15](/research/downward-causation-mental-causation-2026-01-15/)
 

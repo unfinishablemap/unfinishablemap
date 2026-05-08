@@ -140,7 +140,7 @@ The interface reading of embodied cognition would face serious difficulty if:
 
 2. **The phenomenological tradition proves reducible.** Merleau-Ponty's "lived body" is presented as irreducible to third-person description. If systematic translation of phenomenological categories into neural-functional terms succeeded without residue, the argument that embodied cognition supports irreducibility would fail.
 
-3. **Choking proves fully explicable without mental causation.** If future neuroscience predicted [choking](/topics/choking-phenomenon-mental-causation/) entirely from neural states—without reference to phenomenological categories like "absorbed" versus "self-monitoring"—the bidirectional evidence would lose force. Currently, the most informative explanatory models involve phenomenological variables that pure neural-state descriptions have not replaced.
+3. **Choking proves fully explicable without mental causation.** If future neuroscience predicted [choking](/topics/empirical-phenomena-mental-causation/) entirely from neural states—without reference to phenomenological categories like "absorbed" versus "self-monitoring"—the bidirectional evidence would lose force. Currently, the most informative explanatory models involve phenomenological variables that pure neural-state descriptions have not replaced.
 
 4. **Extended mind necessarily implies extended consciousness.** Clark distinguishes extended cognition from extended consciousness. If arguments emerged showing cognitive extension *necessarily* implies consciousness extension, the clean separation between interface and consciousness would be harder to maintain.
 
@@ -165,7 +165,7 @@ There is also a deeper question the interface reading cannot answer: even if emb
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the control surface for consciousness
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for mind-body relations
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — The bidirectional evidence from choking in detail
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) — The bidirectional evidence from choking in detail
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow as frictionless interface operation
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as dual-domain capabilities supporting the interface reading
 - [somatic-interface](/concepts/somatic-interface/) — The body's internal sensing channels as structured interface substrate

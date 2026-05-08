@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-03 11:28:31.606107+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6[1m]
 apex_last_synthesis: 2026-04-06 20:43:00+00:00
 apex_sources:
@@ -72,7 +72,7 @@ These are not a single undifferentiated sensation but separable components that 
 
 The separability matters because it rules out the simplest deflationary accounts. If agency were a unitary post-hoc narrative the brain tells itself, it could not be selectively disrupted at specific neural sites while other components remained intact. The clinical evidence reveals an architecture, not an illusion.
 
-Two further findings deepen the phenomenological case. First, the [choking phenomenon](/topics/choking-phenomenon-mental-causation/): when experts consciously attend to automatised skills, performance degrades. If consciousness were epiphenomenal, re-engaging attention with an automatic process could not disrupt it — the process should proceed identically whether consciousness is watching or not. Second, contemplative training *sharpens* the agency-passivity distinction rather than dissolving it — experienced meditators report finer discrimination between effortful and effortless states (Lutz et al. 2008), the opposite of what one would expect if the distinction were an illusion that careful attention would reveal as such.
+Two further findings deepen the phenomenological case. First, the [choking phenomenon](/topics/empirical-phenomena-mental-causation/): when experts consciously attend to automatised skills, performance degrades. If consciousness were epiphenomenal, re-engaging attention with an automatic process could not disrupt it — the process should proceed identically whether consciousness is watching or not. Second, contemplative training *sharpens* the agency-passivity distinction rather than dissolving it — experienced meditators report finer discrimination between effortful and effortless states (Lutz et al. 2008), the opposite of what one would expect if the distinction were an illusion that careful attention would reveal as such.
 
 A third line bypasses introspection altogether. Intentional binding — the temporal compression between a voluntary action and its outcome, discovered by Haggard, Clark, and Kalogeras (2002) — provides an implicit measure of agency that does not depend on self-report. The compression occurs for voluntary but not involuntary movements, is reduced when outcomes are unpredictable, and is altered in schizophrenic patients whose comparator mechanisms malfunction. If agency were mere confabulation, an implicit timing effect should not track the integrity of specific causal circuits. As [volitional-control](/topics/volitional-control/) details, the convergence of explicit phenomenology, clinical dissociation, and implicit timing measures triangulates a common architecture rather than a narrative convenience.
 

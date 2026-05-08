@@ -158,7 +158,7 @@ The claim that cognitive load phenomenology is irreducible and informative would
 - [mental-effort](/concepts/mental-effort/) — Attentional effort and the quantum Zeno mechanism
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the bandwidth-limited bridge between consciousness and neural systems
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The theoretical framework for consciousness maintaining neural patterns through observation
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When conscious monitoring overloads the system and degrades performance
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) — When conscious monitoring overloads the system and degrades performance
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — What it's like to redirect cognitive resources after distraction
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — How uncertainty amplifies the felt demands of cognitive work
 

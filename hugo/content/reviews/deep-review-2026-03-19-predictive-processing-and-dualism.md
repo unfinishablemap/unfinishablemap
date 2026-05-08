@@ -76,7 +76,7 @@ Updated wikilinks in 12 active content files from old slugs to `predictive-proce
 - [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/) (frontmatter, inline, Further Reading)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) (frontmatter, Further Reading)
 - [categorical-surprise](/concepts/categorical-surprise/) (inline)
-- [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) (frontmatter, inline, Further Reading)
+- [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/) (frontmatter, inline, Further Reading)
 - [consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-integrated-information/) (frontmatter, inline, Further Reading)
 - [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/) (frontmatter, inline, Further Reading)
 - [predictive-processing-active-inference-dualism-2026-03-19](/research/predictive-processing-active-inference-dualism-2026-03-19/) (frontmatter)

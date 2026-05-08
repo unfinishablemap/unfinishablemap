@@ -73,7 +73,7 @@ The Map's voids framework has matured into something genuinely unprecedented in 
 ### High Priority
 
 #### The Ritual Structure of Mental Causation
-- **Builds on**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/), [contemplative-epistemology](/concepts/contemplative-epistemology/), [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
+- **Builds on**: [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/), [contemplative-epistemology](/concepts/contemplative-epistemology/), [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
 - **Would address**: The placebo article hints at "embodied meaning" and "ritual of treatment" but doesn't develop how ritual structure—repeated intentional actions with symbolic significance—might be a general mechanism for mental causation. Contemplative practice, placebo response, and therapeutic ritual all share this structure. A dedicated treatment would unify three currently separate threads
 - **Estimated scope**: Medium article (topics/)
 - **Tenet alignment**: Directly supports Bidirectional Interaction; provides empirical framework for Minimal Quantum Interaction (ritual as repeated micro-selections that accumulate macroscopic effects)
@@ -87,7 +87,7 @@ The Map's voids framework has matured into something genuinely unprecedented in 
 ### Medium Priority
 
 #### Open-Label Placebos and Non-Propositional Mental Causation
-- **Builds on**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **Builds on**: [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - **Would address**: Open-label placebos (patients know they receive a placebo yet still improve) challenge propositional models of mental causation. If belief isn't the mechanism, what is? This forces engagement with non-propositional modes of consciousness—embodied expectation, attentional orientation, meaning-making below the level of belief
 - **Estimated scope**: Short article (topics/)
 - **Tenet alignment**: Refines Bidirectional Interaction by identifying the level at which consciousness operates (not propositional belief but deeper phenomenal engagement)
@@ -115,7 +115,7 @@ The Map's voids framework has matured into something genuinely unprecedented in 
 | From | To | Reason |
 |------|-----|--------|
 | [delegatory-dualism](/topics/delegatory-dualism/) | [argument-from-reason](/topics/argument-from-reason/) | Both address mental causation but from different angles—delegation explains *how* consciousness acts; the argument from reason explains *why* it must. Explicit cross-reference would show the positions are complementary |
-| [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) | [contemplative-epistemology](/concepts/contemplative-epistemology/) | Contemplative practice and placebo response both involve disciplined first-person states producing measurable third-person effects—the epistemological framework applies to both |
+| [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/) | [contemplative-epistemology](/concepts/contemplative-epistemology/) | Contemplative practice and placebo response both involve disciplined first-person states producing measurable third-person effects—the epistemological framework applies to both |
 | [meaning-of-life](/topics/meaning-of-life/) | [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) | Both invoke phenomenal value realism (consciousness grounds intrinsic value). Musical understanding provides a concrete domain where meaning-grounding is experientially vivid |
 | convergence-argument-for-dualism | hard-problem-in-non-western-philosophy | The convergence argument's cluster-dependency analysis should reference the cross-cultural evidence directly, and the non-Western article should reference the convergence methodology |
 | [galilean-exclusion](/concepts/galilean-exclusion/) | [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) | The Galilean exclusion is the historical origin of the methodological limitation the scientific methodology article analyses—the causal chain should be explicit |

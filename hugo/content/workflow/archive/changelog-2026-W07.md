@@ -673,7 +673,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 05:35 UTC - refine-draft
 - **Status**: Success
-- **File**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **File**: [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - **Changes**: Engaged directly with functionalist accounts of mental content in "Why Content Matters", "Epiphenomenalist Challenge", and "Dualism and irreducibility" sections; replaced self-evident claims with nuanced dialectic
 - **Published**: yes
 
@@ -1076,7 +1076,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 01:09 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Placebo Effect and Mental Causation
-- **Output**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **Output**: [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - **Word count**: 1475
 - **Based on research**: Partially (drew on [downward-causation-mental-causation-2026-01-15](/research/downward-causation-mental-causation-2026-01-15/))
 

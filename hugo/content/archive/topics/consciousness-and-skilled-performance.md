@@ -95,7 +95,7 @@ The asymmetry of acquisition and loss reinforces this. Skills are acquired throu
 
 Consciousness labours to construct systems that then operate without its involvement. The architect designs itself out of the building. Only something with genuine causal power could build the structures that eventually replace it.
 
-The deflationary reading—that repeated neural activation strengthens pathways and conscious experience is just what that feels like from the inside—must contend with the [choking phenomenon](/topics/choking-phenomenon-mental-causation/): conscious re-engagement with automated skills *disrupts* them. If skills were simply strengthened pathways, conscious attention should be neutral. Instead, consciousness can *undo* what it built—suggesting it was causally involved in the building. The architect's absence from the finished building proves competence, not irrelevance.
+The deflationary reading—that repeated neural activation strengthens pathways and conscious experience is just what that feels like from the inside—must contend with the [choking phenomenon](/topics/empirical-phenomena-mental-causation/): conscious re-engagement with automated skills *disrupts* them. If skills were simply strengthened pathways, conscious attention should be neutral. Instead, consciousness can *undo* what it built—suggesting it was causally involved in the building. The architect's absence from the finished building proves competence, not irrelevance.
 
 ## Body Schema and Tool Incorporation
 
@@ -115,7 +115,7 @@ Flow — total absorption in a well-matched challenge — represents what skill 
 
 ### The Phenomenal Signature of Flow
 
-Csikszentmihalyi's research (1975, 1990) identified a convergent experiential profile across disciplines: **absorption** (only task-relevant information reaches awareness), **effortlessness** (high objective difficulty feels smooth — the same performer would [choke](/topics/choking-phenomenon-mental-causation/) if they tried to monitor explicitly), **altered temporality** (hours pass in minutes, or split-seconds dilate — [temporal experience](/concepts/temporal-consciousness/) becomes elastic), **loss of reflective self-awareness** (the inner commentator quiets while pre-reflective self-awareness remains), **intrinsic reward** (the doing itself is satisfying), and a **sense of control without controlling** (no gap between intention and execution). Flow's altered temporality connects to a deeper phenomenon: the [temporal selection](/topics/temporal-consciousness-structure-and-agency/) that skilled performance requires—sensing the approach of the right moment and acting from within temporal flow, where recognition of rightness and action are phenomenally unified.
+Csikszentmihalyi's research (1975, 1990) identified a convergent experiential profile across disciplines: **absorption** (only task-relevant information reaches awareness), **effortlessness** (high objective difficulty feels smooth — the same performer would [choke](/topics/empirical-phenomena-mental-causation/) if they tried to monitor explicitly), **altered temporality** (hours pass in minutes, or split-seconds dilate — [temporal experience](/concepts/temporal-consciousness/) becomes elastic), **loss of reflective self-awareness** (the inner commentator quiets while pre-reflective self-awareness remains), **intrinsic reward** (the doing itself is satisfying), and a **sense of control without controlling** (no gap between intention and execution). Flow's altered temporality connects to a deeper phenomenon: the [temporal selection](/topics/temporal-consciousness-structure-and-agency/) that skilled performance requires—sensing the approach of the right moment and acting from within temporal flow, where recognition of rightness and action are phenomenally unified.
 
 ### Flow as Evidence Against the Deflationary Reading
 
@@ -167,7 +167,7 @@ The strongest physicalist counterargument is that executive attention networks a
 
 ## Further Reading
 
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When consciousness disrupts the body it trained
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) — When consciousness disrupts the body it trained
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) — The 4E framework and the interface reading
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
 - [phenomenology-of-embodiment-under-dualism](/topics/embodied-consciousness/) — Bodily absence, ownership, and what embodiment feels like from the inside

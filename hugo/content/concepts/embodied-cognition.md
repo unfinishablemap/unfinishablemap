@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-01 07:25:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -34,7 +34,7 @@ related_articles:
 - '[[embodiment-cognitive-limits]]'
 - '[[embodied-consciousness]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
-- '[[choking-phenomenon-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[enactivism-challenge-to-interactionist-dualism]]'
 - '[[consciousness-as-activity]]'
@@ -206,7 +206,7 @@ Embodied cognition challenges a specific historical position (Cartesian substanc
 - [embodied-consciousness](/topics/embodied-consciousness/) — How the body shapes consciousness's engagement with matter, and what embodiment feels like from the first person
 - [ai-consciousness](/topics/ai-consciousness/) — Why the grounding problem matters for machine minds
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's integration of embodied cognition with consciousness science
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — The choking evidence as a case study in mental causation
+- [choking phenomenon](/topics/empirical-phenomena-mental-causation/) — The choking evidence as a case study in mental causation
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow as transformed consciousness, not diminished consciousness
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why disembodied symbol manipulation lacks semantic grounding
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Embodied spatial engagement and the atmosphere of places

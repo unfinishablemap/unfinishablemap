@@ -73,7 +73,7 @@ A further complication: Macnamara, Hambrick, and Oswald's (2014) meta-analysis f
 
 A different deflationary reading treats the paradox as straightforward neural automation. On this view, nothing philosophically interesting happens: repeated neural activation strengthens pathways, and conscious experience is just what neural pathway strengthening feels like from the inside. The paradox dissolves into mechanics.
 
-This account must contend with the [choking phenomenon](/topics/choking-phenomenon-mental-causation/). If skills are simply strengthened pathways, conscious attention should be neutral—adding monitoring to an already functioning system. Instead, conscious re-engagement with automated skills *disrupts* them. The expert golfer thinks about their swing and misses. The pianist monitors their fingers and stumbles.
+This account must contend with the [choking phenomenon](/topics/empirical-phenomena-mental-causation/). If skills are simply strengthened pathways, conscious attention should be neutral—adding monitoring to an already functioning system. Instead, conscious re-engagement with automated skills *disrupts* them. The expert golfer thinks about their swing and misses. The pianist monitors their fingers and stumbles.
 
 The choking phenomenon is genuinely interesting but does not, on its own, prove dualist mental causation. Beilock and Carr (2001) explain choking through explicit monitoring of procedural knowledge — attention disrupts automated execution by forcing step-by-step processing that interferes with fluid procedural memory. This is a fully materialist account: attentional interference with procedural consolidation, no non-physical causation required. The Map's reading — that consciousness can *undo* what it built, suggesting it was causally involved in the building — is compatible with the choking data but not uniquely supported by it. What choking does establish is that the relationship between consciousness and automated skills is bidirectional and consequential, which sits more comfortably with interactionism than with epiphenomenalism.
 
@@ -117,7 +117,7 @@ The paradox of effortless mastery aligns with the Map's tenets in illuminating w
 
 - [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/) — The full phenomenological arc from novice to expert
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — What effortless expert performance feels like from inside
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When consciousness re-engages with automated skills and disrupts them
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) — When consciousness re-engages with automated skills and disrupts them
 - Phenomenology Of Skill Transition — The painful return of consciousness during skill restructuring
 - [interface-friction](/concepts/interface-friction/) — The resistance at the mind-brain interface that effort tracks
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) — What conscious effort feels like and why it matters

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-04-12 22:57:00+00:00
+ai_modified: 2026-05-08 20:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,8 +25,7 @@ last_curated: null
 last_deep_review: 2026-04-12 22:57:00+00:00
 modified: *id001
 related_articles:
-- '[[placebo-effect-and-mental-causation]]'
-- '[[choking-phenomenon-mental-causation]]'
+- '[[empirical-phenomena-mental-causation]]'
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[pain-consciousness-and-causal-power]]'
 - '[[tenets]]'
@@ -41,9 +40,9 @@ Content-specificity is the observation that when [mental states cause physical e
 
 Content-specificity appears wherever mental causation is empirically measurable. The defining feature is that the physical outcome tracks the semantic content of the conscious state, not merely the presence or absence of some generic mental activity.
 
-**Placebo and nocebo effects** provide the clearest cases. Patients warned about nausea experience nausea from inert pills; those warned about headaches experience headaches (Colloca & Miller, 2011). The expectation doesn't produce a generic "placebo response"—it produces the *specific* physiological change matching the content of the belief. Placebo analgesia involves endogenous opioid release blockable by naloxone (Levine et al., 1978), while placebo anti-Parkinsonism produces dopamine release in the striatum (De la Fuente-Fernández et al., 2001). Different beliefs, same pill, different neurochemistry. See [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) for the full analysis.
+**Placebo and nocebo effects** provide the clearest cases. Patients warned about nausea experience nausea from inert pills; those warned about headaches experience headaches (Colloca & Miller, 2011). The expectation doesn't produce a generic "placebo response"—it produces the *specific* physiological change matching the content of the belief. Placebo analgesia involves endogenous opioid release blockable by naloxone (Levine et al., 1978), while placebo anti-Parkinsonism produces dopamine release in the striatum (De la Fuente-Fernández et al., 2001). Different beliefs, same pill, different neurochemistry. See [the placebo effect](/topics/empirical-phenomena-mental-causation/) for the full analysis.
 
-**Choking under pressure** demonstrates content-specificity through disruption. When expert performers consciously attend to automatised skills, the *type* of attention matters: self-focused monitoring degrades performance while outcome-focused attention preserves it (Beilock & Carr, 2001). Generic cognitive load does not produce choking; certain forms of distraction actually *improve* expert performance. The interference tracks the phenomenological character of the attention—effortful self-monitoring versus absorbed engagement—not merely the activation of prefrontal circuits. See [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) for this evidence.
+**Choking under pressure** demonstrates content-specificity through disruption. When expert performers consciously attend to automatised skills, the *type* of attention matters: self-focused monitoring degrades performance while outcome-focused attention preserves it (Beilock & Carr, 2001). Generic cognitive load does not produce choking; certain forms of distraction actually *improve* expert performance. The interference tracks the phenomenological character of the attention—effortful self-monitoring versus absorbed engagement—not merely the activation of prefrontal circuits. See [the choking phenomenon](/topics/empirical-phenomena-mental-causation/) for this evidence.
 
 **Pain asymbolia** isolates the role of phenomenal quality. Patients with pain asymbolia perceive pain but lack its characteristic unpleasantness—and they fail to exhibit avoidance behaviour. The informational content (detecting tissue damage) is present; the phenomenal character (felt badness) is absent; the causal profile changes accordingly. Strip away the specific phenomenal quality and the specific behavioural response disappears. See [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) for the full case.
 
@@ -92,8 +91,7 @@ The Map treats content-specificity not as a standalone argument for dualism but 
 ## Further Reading
 
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The broader philosophical problem and the Map's quantum framework
-- [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — The primary empirical case for content-specificity
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Negative evidence: content-specific interference with skilled performance
+- [placebo effect and the choking phenomenon](/topics/empirical-phenomena-mental-causation/) — The primary empirical cases for content-specificity, including negative evidence from content-specific interference with skilled performance
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia isolating phenomenal quality's causal role
 - [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — Content-specificity in creative cognition
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view content-specificity challenges most directly

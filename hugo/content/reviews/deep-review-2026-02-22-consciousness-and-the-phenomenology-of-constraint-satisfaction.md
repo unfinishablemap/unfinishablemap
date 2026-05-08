@@ -62,7 +62,7 @@ topics: []
 
 ### Cross-links Added
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) (fixed from broken `deliberation-under-uncertainty`)
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) (fixed from broken `choking-under-pressure`)
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) (fixed from broken `choking-under-pressure`)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)

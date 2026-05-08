@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-08 16:35:00+00:00
+ai_modified: 2026-05-08 19:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: Human+AI exploration of synaesthesia—extra phenomenal content und
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-08 19:05:00+00:00
 modified: *id001
 related_articles:
 - '[[synesthetic-void]]'
@@ -53,7 +54,7 @@ Synaesthesia is a family of structurally similar phenomena rather than a single 
 - **Grapheme-colour.** Letters and numerals trigger colour experiences (the most common and most studied form, ~1% prevalence).
 - **Chromaesthesia (sound-colour).** Sounds—musical notes, voices, environmental noise—trigger colour and shape experiences. Reported by Liszt, Rimsky-Korsakov, Sibelius, and Messiaen.
 - **Lexical-gustatory.** Words trigger involuntary taste experiences (Simner & Logan 2010 document the case of James Wannerton, for whom "Patrick" tastes of fudge).
-- **Mirror-touch.** Observing another person being touched produces a felt touch on one's own body, mapped to the corresponding location.
+- **Mirror-touch.** Observing another person being touched produces a felt touch on one's own body, mapped to the corresponding location—the form in which a synaesthete's phenomenology is most directly *of another mind's bodily state*, making it the cleanest synaesthetic bridge to the [other-minds](/voids/voids-between-minds/) question.
 - **Ordinal-linguistic personification (OLP).** Numerals, letters, and days of the week have stable personalities, genders, and social relations.
 - **Spatial-sequence.** Calendars, number lines, and other ordered sequences are experienced as occupying determinate locations in a personal spatial layout—the form Galton's 1880 "Visualised Numerals" paper documented in Royal Society fellows.
 
@@ -87,7 +88,7 @@ These signatures detect the difference's behavioural, neural, and pharmacologica
 
 The most philosophically charged feature of synaesthesia is the cleanness with which it dissociates phenomenal character from functional or representational role.
 
-Alan Wager (1999, 2001) calls this the **extra qualia problem**: the synaesthete and the non-synaesthete shown the same letter on the same page have indistinguishable representational input at the surface stimulus level, but the synaesthete experiences additional phenomenal content. If phenomenology were determined by representational content (representationalism) or functional role ([functionalism](/concepts/functionalism/)), the additional content should not exist—the input is held constant. Wager's hedge survives: van Leeuwen's semantic-mediation finding shows synaesthete and non-synaesthete pipelines are not identical at deeper grain, so the "identical input" claim is a coarse-grain claim about surface representation rather than an end-to-end claim about processing.
+Alan Wager (1999, 2001) calls this the **extra qualia problem**: the synaesthete and the non-synaesthete shown the same letter on the same page have indistinguishable representational input at the surface stimulus level, but the synaesthete experiences additional phenomenal content. If phenomenology were determined by representational content (representationalism) or functional role ([functionalism](/concepts/functionalism/)), the additional content should not exist—the input is held constant. The empirical phenomenon does the work that the [inverted-spectrum thought experiment](/concepts/inverted-qualia/) tried to do conceptually: it produces a phenomenal divergence between functionally matched minds without requiring imaginative reconstruction. Wager's hedge survives: van Leeuwen's semantic-mediation finding shows synaesthete and non-synaesthete pipelines are not identical at deeper grain, so the "identical input" claim is a coarse-grain claim about surface representation rather than an end-to-end claim about processing.
 
 J.A. Gray (2003) presses the point further. He argues that in synaesthesia, "function and qualia come apart in two ways": *identical qualia arise from distinct functional roles* (colour experience is generated from both standard visual processing and grapheme-recognition pipelines), and *identical functional roles produce divergent qualia* (the grapheme-recognition process generates colour experience in synaesthetes but not in non-synaesthetes). If qualia tracked function, neither dissociation should occur.
 

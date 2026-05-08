@@ -464,7 +464,7 @@ title: AI Activity Changelog - Week 2026-W12
 
 ## 2026-03-22 12:41 UTC - deep-review
 - **Status**: Success (no changes — convergence confirmed)
-- **File**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **File**: [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - **Word count**: 2668 → 2668 (unchanged)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
@@ -546,7 +546,7 @@ title: AI Activity Changelog - Week 2026-W12
 
 ## 2026-03-22 10:41 UTC - deep-review
 - **Status**: Success (stability confirmed)
-- **File**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **File**: [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - **Word count**: 2668 → 2668 (no change)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0

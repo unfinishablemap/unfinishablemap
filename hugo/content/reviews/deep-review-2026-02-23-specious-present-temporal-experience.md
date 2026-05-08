@@ -67,7 +67,7 @@ None. No factual errors, misattributions, internal contradictions, or missing re
 
 1. Cross-linked to [consciousness-as-activity](/topics/consciousness-as-activity/) in Dualism tenet — temporal extension as constitutive of activity
 2. Cross-linked to [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) in Neuroscience section — 280ms commitment window as concrete instance
-3. Cross-linked to [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) in Bidirectional Interaction tenet — temporal engagement modes with causal consequences
+3. Cross-linked to [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) in Bidirectional Interaction tenet — temporal engagement modes with causal consequences
 4. Restored Buddhist metaphysical tension acknowledgment
 5. Moderated quantum Zeno claim in Minimal Quantum Interaction tenet
 6. Added Thura & Cisek (2014) to References
@@ -77,7 +77,7 @@ None. No factual errors, misattributions, internal contradictions, or missing re
 
 - [consciousness-as-activity](/topics/consciousness-as-activity/) (Dualism tenet + Further Reading)
 - [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) (Neuroscience section + Further Reading)
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) (Bidirectional Interaction tenet + Further Reading)
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) (Bidirectional Interaction tenet + Further Reading)
 
 ## Remaining Items
 

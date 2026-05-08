@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-06
-**Article**: [Choking Under Pressure as Evidence for Mental Causation](/topics/choking-phenomenon-mental-causation/)
+**Article**: [Choking Under Pressure as Evidence for Mental Causation](/topics/empirical-phenomena-mental-causation/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-choking-phenomenon-mental-causation/)
 
 ## Pessimistic Analysis Summary

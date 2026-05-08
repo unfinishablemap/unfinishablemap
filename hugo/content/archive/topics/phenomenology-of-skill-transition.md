@@ -117,7 +117,7 @@ The structure of skill transition—resistance, rupture, reorganisation—parall
 
 - [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/)
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/)
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - [interface-friction](/concepts/interface-friction/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - Contemplative Training And Phenomenal Access

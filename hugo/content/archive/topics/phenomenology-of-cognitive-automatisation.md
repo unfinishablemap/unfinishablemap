@@ -58,7 +58,7 @@ Consider reading. A fluent reader no longer consciously decodes letter shapes in
 
 This residual phenomenology matters philosophically. If automatised processes were genuinely unconscious—if there were nothing it is like to perform them—then automatisation would be the literal disappearance of experience from a domain of activity. Instead, it appears to be a *transformation* of experience: from focal, deliberate, and articulable to peripheral, effortless, and resistant to verbal report.
 
-The distinction tracks a difference in the type of consciousness involved, not its presence or absence. Automatised skills retain [phenomenal character](/concepts/phenomenal-consciousness/) while losing reflective access. You experience the skilled performance but cannot easily describe *how* you are doing it. This is why the [choking phenomenon](/topics/choking-phenomenon-mental-causation/) is so revealing: when reflective consciousness re-enters an automatised domain, it disrupts performance precisely because it introduces the wrong *type* of conscious engagement, not because consciousness per se is incompatible with skilled action.
+The distinction tracks a difference in the type of consciousness involved, not its presence or absence. Automatised skills retain [phenomenal character](/concepts/phenomenal-consciousness/) while losing reflective access. You experience the skilled performance but cannot easily describe *how* you are doing it. This is why the [choking phenomenon](/topics/empirical-phenomena-mental-causation/) is so revealing: when reflective consciousness re-enters an automatised domain, it disrupts performance precisely because it introduces the wrong *type* of conscious engagement, not because consciousness per se is incompatible with skilled action.
 
 ## The Phenomenology of the Transition Moment
 
@@ -82,7 +82,7 @@ The phenomenology of automatisation provides indirect evidence for the Map's [in
 
 ## The Reversal Problem
 
-Automatisation is not strictly one-directional. Skills can de-automatise through disuse, injury, or the [choking phenomenon](/topics/choking-phenomenon-mental-causation/). The phenomenology of de-automatisation is revealing in its own right.
+Automatisation is not strictly one-directional. Skills can de-automatise through disuse, injury, or the [choking phenomenon](/topics/empirical-phenomena-mental-causation/). The phenomenology of de-automatisation is revealing in its own right.
 
 When a previously automatic skill re-enters consciousness—whether through choking under pressure, returning to a skill after a long break, or neurological disruption—the experience is distinctly unpleasant. (Shklovsky's (1917) concept of *defamiliarisation* in art captures a deliberate, productive version of this reversal: art makes the automatised strange again, forcing conscious re-engagement with what habit had rendered invisible.) The skill feels clumsy, fragmented, and effortful in ways that go beyond simple degradation of ability. There is a phenomenological mismatch: consciousness is re-engaging with neural systems that have been restructured for automatic operation, and the fit is poor.
 
@@ -107,7 +107,7 @@ Automatisation, from the Map's perspective, is not consciousness becoming unnece
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/)
 - Phenomenology Of Cognitive Load
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
 - [implicit-memory](/concepts/implicit-memory/)
 - [habituation-void](/voids/disappearance-voids/)

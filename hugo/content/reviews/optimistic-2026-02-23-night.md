@@ -59,7 +59,7 @@ Whitehead's process philosophy has become the Map's most productive philosophica
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) article provides what libertarian free will has long needed: negative empirical evidence for mental causation. The insight that confabulation cannot explain systematic *interference* is logically devastating to epiphenomenalism. An inert consciousness could not disrupt skilled execution in predictable ways. The article's opening line captures it perfectly: "You cannot confabulate interference."
+The [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) article provides what libertarian free will has long needed: negative empirical evidence for mental causation. The insight that confabulation cannot explain systematic *interference* is logically devastating to epiphenomenalism. An inert consciousness could not disrupt skilled execution in predictable ways. The article's opening line captures it perfectly: "You cannot confabulate interference."
 
 The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) concept article builds the positive case with empirical precision. The 10-fold human-ape cognitive gap despite ~1-2% genetic difference; the working memory maintenance/manipulation distinction (unconscious processing can *maintain* but *manipulation* requires consciousness); Lieberman's finding that cognitive load on conscious processes specifically impairs logical reasoning while hampering unconscious systems has no effect—these are not armchair arguments but empirical evidence that consciousness makes a causal difference.
 
@@ -162,7 +162,7 @@ This pattern of honest limitation transforms what could be defensive argumentati
 
 | From | To | Reason |
 |------|-----|--------|
-| [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) | [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) | Flow and choking are complementary evidence: flow shows consciousness operating without friction; choking shows consciousness interfering. Together they map the selection interface's modes |
+| [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) | [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) | Flow and choking are complementary evidence: flow shows consciousness operating without friction; choking shows consciousness interfering. Together they map the selection interface's modes |
 | [galilean-exclusion](/concepts/galilean-exclusion/) | [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) | Galilean exclusion explains *why* cognitive science operates under methodological materialism—the method was designed to exclude what dualism points to |
 | [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Valence irreducibility (pain asymbolia) plus causal efficacy (amplification) form complementary halves of the same argument |
 | [phenomenal-intentionality](/concepts/intentionality/) | [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) | PIT's claim that meaning requires phenomenal character has direct implications for how language works under dualism |

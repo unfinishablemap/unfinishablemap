@@ -2872,7 +2872,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-18 14:32 UTC - deep-review
 - **Status**: Success
-- **File**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **File**: [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/)
 - **Word count**: 1802 → 2436 (+634)
 - **Critical issues addressed**: 2 (missing citations for content-specificity and nocebo claims)
 - **Medium issues addressed**: 7 (gap argument response, open-label placebos honest assessment, thin references, Goebel clarification, functionalism characterisation, quantum opening clarity, conditioning citations)

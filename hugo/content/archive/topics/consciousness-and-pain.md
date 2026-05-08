@@ -63,7 +63,7 @@ Pain's causal role extends beyond the moment of injury. The *anticipation* of pa
 
 This anticipatory dimension is difficult for [epiphenomenalism](/concepts/epiphenomenalism/) to accommodate. If phenomenal consciousness merely accompanies physical processes without influencing them, then the dread of future pain must be doing its causal work entirely through subpersonal neural mechanisms that happen to correlate with the felt anxiety. But the content-specificity of anticipatory pain undermines this: people dread *specific* types of pain (dental drilling, not stubbing a toe), and their avoidance tracks the *imagined phenomenal quality* of the anticipated experience, not merely a generic threat assessment.
 
-The [placebo effect](/topics/placebo-effect-and-mental-causation/) demonstrates a related point from the opposite direction. Expecting pain relief—a conscious belief about future phenomenal states—can produce measurable opioid release and genuine analgesia (though not all placebo analgesia is opioid-mediated). The *expectation of how things will feel* causally influences physiology. What a person consciously anticipates about their pain experience partly determines their pain experience. This closed loop between phenomenal expectation and phenomenal outcome is exactly what interactionist dualism predicts and epiphenomenalism struggles to explain.
+The [placebo effect](/topics/empirical-phenomena-mental-causation/) demonstrates a related point from the opposite direction. Expecting pain relief—a conscious belief about future phenomenal states—can produce measurable opioid release and genuine analgesia (though not all placebo analgesia is opioid-mediated). The *expectation of how things will feel* causally influences physiology. What a person consciously anticipates about their pain experience partly determines their pain experience. This closed loop between phenomenal expectation and phenomenal outcome is exactly what interactionist dualism predicts and epiphenomenalism struggles to explain.
 
 ## The Quality-Action Mapping Problem
 
@@ -113,7 +113,7 @@ The Map holds that the simpler explanation is correct: pain hurts *because* the 
 - [emotional-consciousness](/topics/emotion-and-dualism/) — Valence as an intrinsic property of experience
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal role
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why evolution requires mental causation
-- [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Content-specific beliefs causing physiological change
+- [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/) — Content-specific beliefs causing physiological change
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — How phenomenal properties ground objective value
 - [mental-causation](/concepts/mental-causation-and-downward-causation/) — The problem of how mind influences matter
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy

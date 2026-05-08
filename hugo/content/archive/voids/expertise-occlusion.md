@@ -49,7 +49,7 @@ The [broader exploration of how expertise transforms experience](/voids/expertis
 
 Consciousness appears to function as cognitive scaffolding that dismantles itself once the structure is complete. During [skill acquisition](/topics/consciousness-and-skill-acquisition/), conscious attention is essential—the novice pianist must attend to finger placement, the student driver must deliberately check mirrors, the apprentice surgeon must think through each incision. As mastery develops, conscious oversight withdraws through [skill-delegation](/concepts/skill-delegation/)—the three-phase process of calibration, withdrawal, and retained override. The skill runs without it.
 
-This much is uncontroversial. The void emerges from a deeper observation: consciousness does not merely withdraw—it loses the ability to return. Reinvestment theory provides the sharpest evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to [choking under pressure](/topics/choking-phenomenon-mental-causation/). The athlete who thinks about their swing misses the ball. The pianist who attends to their fingers stumbles.
+This much is uncontroversial. The void emerges from a deeper observation: consciousness does not merely withdraw—it loses the ability to return. Reinvestment theory provides the sharpest evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to [choking under pressure](/topics/empirical-phenomena-mental-causation/). The athlete who thinks about their swing misses the ball. The pianist who attends to their fingers stumbles.
 
 The pattern goes beyond gradual fading of an unused capacity—it is an active barrier. Consciousness attempting to re-enter automated territory causes measurable damage to performance. The automated process resists conscious re-entry.
 
@@ -109,7 +109,7 @@ The expertise occlusion engages the Map's [tenets](/tenets/):
 
 - [expertise-void](/voids/expertise-and-its-occlusion/) — The broader exploration of how expertise transforms experience
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How the stages of skill acquisition challenge epiphenomenalism
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Choking as evidence for mental causation
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) — Choking as evidence for mental causation
 - [The Absorption Void](/voids/disappearance-voids/) — Peak conscious engagement as peak self-opacity
 - [The Habituation Void](/voids/disappearance-voids/) — How familiarity erases experience from consciousness
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — The developmental analogue: maturation as irreversible closure

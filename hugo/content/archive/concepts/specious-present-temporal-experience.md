@@ -99,7 +99,7 @@ This parallels the standard [qualia](/concepts/qualia/) arguments but targets a 
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The specious present's duration (~100–750ms) may reflect many rapid quantum micro-selections, each individually minimal, collectively constituting the experienced duration-block. One candidate mechanism — the quantum Zeno effect — would have consciousness hold patterns in duration by repeated observation, creating the flowing present through discrete collapses. This remains speculative, but the temporal structure of the specious present is compatible with such a mechanism.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal experience is the substrate for choosing. Selection among possibilities requires an agent who persists across the moment of choosing, retains what was considered, and acts toward anticipated outcomes. Without the specious present, there is no duration within which deliberation unfolds. The [choking phenomenon](/topics/choking-phenomenon-mental-causation/) reveals this concretely: when conscious attention re-engages with automatised skills, the qualitative character of temporal experience shifts from absorbed flow to effortful self-monitoring, and this shift degrades performance — demonstrating that different modes of temporal engagement have different causal consequences.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal experience is the substrate for choosing. Selection among possibilities requires an agent who persists across the moment of choosing, retains what was considered, and acts toward anticipated outcomes. Without the specious present, there is no duration within which deliberation unfolds. The [choking phenomenon](/topics/empirical-phenomena-mental-causation/) reveals this concretely: when conscious attention re-engages with automatised skills, the qualitative character of temporal experience shifts from absorbed flow to effortful self-monitoring, and this shift degrades performance — demonstrating that different modes of temporal engagement have different causal consequences.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The specious present feels like genuine narrowing — possibilities collapsing into a single actual outcome. Many-worlds denies this narrowing occurs. The phenomenology of temporal flow, where the future is open and the past is settled, presupposes real collapse rather than universal branching.
 
@@ -117,7 +117,7 @@ This parallels the standard [qualia](/concepts/qualia/) arguments but targets a 
 - [william-james-consciousness](/topics/william-james-consciousness/) — The stream of consciousness and its temporal structure
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Why temporal extension is constitutive if consciousness is activity
 - [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) — Motor selection within the specious present's temporal window
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — How different modes of temporal engagement affect performance
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) — How different modes of temporal engagement affect performance
 
 ## References
 

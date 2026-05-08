@@ -60,7 +60,7 @@ The [eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-consciousn
 
 ### The Libertarian Free Will Defender (Kane)
 
-"The Map takes agent causation seriously without confusion about what's at stake. The [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) article provides the strongest empirical evidence I've seen for mental causation: when consciousness focuses on automatized actions, performance degrades. This isn't correlational—it's causal interference that shouldn't exist if consciousness is epiphenomenal.
+"The Map takes agent causation seriously without confusion about what's at stake. The [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) article provides the strongest empirical evidence I've seen for mental causation: when consciousness focuses on automatized actions, performance degrades. This isn't correlational—it's causal interference that shouldn't exist if consciousness is epiphenomenal.
 
 The negative evidence structure is crucial. You cannot explain away interference as confabulation. Why would a causally inert consciousness generate systematic disruption precisely when accompanied by the phenomenological character of self-monitoring? The choking phenomenon requires that conscious attention genuinely does something—something the procedural system would rather it didn't do.
 

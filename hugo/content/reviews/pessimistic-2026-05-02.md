@@ -92,7 +92,7 @@ The article's "Recursive Problem" structure is also Madhyamaka-vulnerable: level
 - **Location**: Tenet §Bidirectional-Interaction (line 120), specifically "phenomenal content — what something is recognised *as* — causally determines physical outcomes"
 - **Problem**: The placebo effect is consistent with a fully physicalist expectation-cascade account (belief-state → endogenous opioid release / dopaminergic modulation). The article's slide from "what the subject *believes* it to be" to "phenomenal content causally determines physical outcomes" elides the entire physicalist mechanism in a single sentence. The Bidirectional-Interaction tenet requires that the *phenomenal* component, over and above its neural correlate, has causal traction on physical events. Placebo evidence does not establish that — it is fully consistent with the neural correlate doing all the causal work.
 - **Severity**: Medium-High
-- **Recommendation**: Either (a) drop the placebo coda from this article (the tenet engagement does not require it) and let [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) argue the case in its own dedicated treatment, or (b) explicitly flag that the placebo evidence underdetermines the Bidirectional-Interaction reading. The current sentence imports a strong contested conclusion as if it were demonstrative.
+- **Recommendation**: Either (a) drop the placebo coda from this article (the tenet engagement does not require it) and let [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/) argue the case in its own dedicated treatment, or (b) explicitly flag that the placebo evidence underdetermines the Bidirectional-Interaction reading. The current sentence imports a strong contested conclusion as if it were demonstrative.
 
 ### Issue 5: McGinn's cognitive closure treated as sufficiently established to build on
 - **File**: [voids/recognition-void.md](/voids/recognition-void/)
@@ -128,7 +128,7 @@ The article's "Recursive Problem" structure is also Madhyamaka-vulnerable: level
 ### Placebo establishes physical causation, not phenomenal causation
 - **Current content says**: "The placebo effect provides striking empirical confirmation: the same inert pill produces different physiological cascades depending on what the subject believes it to be, demonstrating that phenomenal content — what something is recognised *as* — causally determines physical outcomes."
 - **A critic would argue**: Placebo is fully explained by the *neural state of expectation* triggering downstream cascades. The phenomenal accompaniment of the expectation-state is causally idle — eliminating it (per any physicalist account) would not eliminate the cascade. The article's "phenomenal content causally determines physical outcomes" claim treats epiphenomenalism's possibility as already refuted.
-- **Suggested response**: Either delete the sentence or qualify it heavily. The dedicated [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) article should carry this argument; smuggling it into a recognition-void coda is rhetorical overkill.
+- **Suggested response**: Either delete the sentence or qualify it heavily. The dedicated [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/) article should carry this argument; smuggling it into a recognition-void coda is rhetorical overkill.
 
 ## Unsupported Claims
 

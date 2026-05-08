@@ -116,7 +116,7 @@ What the data do constrain is the epiphenomenalist position. If the phenomenal q
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern (calibration, withdrawal, retained override) that corticostriatal transfer instantiates
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) — The full phenomenological arc of skill acquisition, including why consciousness builds systems that replace it
 - [neuroplasticity](/concepts/neuroplasticity/) — Schwartz's evidence that directed attention reshapes brain structure
-- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — What happens when consciousness re-enters automated skills
+- [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/) — What happens when consciousness re-enters automated skills
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates between consciousness and neural systems
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as a parallel case of deliberate practice
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/) — What it feels like as skills withdraw from conscious control and capacity frees up
