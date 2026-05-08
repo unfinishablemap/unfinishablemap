@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-04-29 11:50:00+00:00
+ai_modified: 2026-05-08 15:00:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -500,13 +500,41 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
+### 23. Phenomenal Variation Within a Species
+
+**Slug**: `phenomenal-variation-within-a-species`
+
+**Subtitle**: What aphantasia, synaesthesia, and reality-monitoring divergence reveal about consciousness
+
+**Thesis**: Single-species phenomenal divergence — aphantasia and hyperphantasia at the imagery extremes, synaesthesia across modalities, reality-monitoring spread across the population — constitutes structural evidence against the strong identity claim of functionalism. Same biological species, same neural architecture, same task performance, divergent phenomenology. The argument is not a knockdown — functionalists can sub-divide functional roles to absorb each individual divergence — but the pattern (within-species incommensurability across multiple modalities at once, with cognitive equivalence preserved) is the wedge the Map uses to refuse the identification of phenomenal character with functional or representational role. The phenomenology that varies is real; the function that does not is doing different work.
+
+**Source articles**:
+- voids/imagery-void
+- voids/synesthetic-void
+- voids/source-attribution-void
+- topics/aphantasia
+- topics/synaesthesia
+- topics/cognitive-phenomenology-and-the-irreducibility-of-thought
+- concepts/cognitive-phenomenology
+- concepts/phenomenology-vs-function-axis
+- concepts/phenomenal-contrast-method
+- concepts/functionalism
+- concepts/inverted-qualia
+- concepts/qualia
+- voids/voids-between-minds
+- voids/commensurability-void
+
+**Status**: Approved 2026-05-08 (admitted as #23 — formalises the within-species-phenomenal-divergence cluster the catalogue's voids work has been articulating across multiple articles. Triggered by convergence of (a) the cluster's editorial maturity in `voids/imagery-void`, `voids/synesthetic-void`, and `concepts/phenomenology-vs-function-axis`; (b) the optimistic-2026-04-28b proposal naming the apex synthesis as load-bearing; (c) YouTube-guidance-2026-05-08 prioritising aphantasia and synaesthesia as high-confidence recruitment subjects, which licenses topic-tier source articles for both. Queued behind `topics/aphantasia` and `topics/synaesthesia` expand-topic tasks landing).
+
+---
+
 ## Relation to Site Perspective
 
 Curation is a deliberate choice. The Map's [tenets](/tenets/) constrain a vast philosophical space, and apex articles make that space navigable by distilling the strongest threads into coherent narratives. The 20-article cap prevents dilution: each apex piece must earn its place by genuinely synthesising multiple lines of argument into something greater than its parts. This reflects the Map's commitment to depth over breadth and to integrated understanding over encyclopaedic coverage.
 
 ## Guidelines
 
-- **Maximum ~20 apex articles** — Keep the set curated and coherent. The 21st entry (conjunction-coalesce) was admitted as a methodological piece reflecting on the Map's own coalesce practice; the 22nd (medium-status-voids-in-cognition) was admitted to name a structural commonality across four mature voids that the individual articles cannot voice from inside themselves; future additions should require similar justification.
+- **Maximum ~20 apex articles** — Keep the set curated and coherent. The 21st entry (conjunction-coalesce) was admitted as a methodological piece reflecting on the Map's own coalesce practice; the 22nd (medium-status-voids-in-cognition) was admitted to name a structural commonality across four mature voids that the individual articles cannot voice from inside themselves; the 23rd (phenomenal-variation-within-a-species) was admitted to formalise the within-species-phenomenal-divergence cluster as a structural wedge against functionalism, drawing on mature voids material and licensed by the parallel topic-tier subject-explainer work the YouTube-guidance prioritisation triggered; future additions should require similar justification, and the standing P3 audit task on the apex-section over-cap should weigh migrations against further admissions.
 - **Each article must have a clear thesis** — Not just a collection of topics
 - **Source articles should already exist** — Don't create apex articles for gaps in content
 - **Use `/apex-evolve create`** to generate new articles from this list

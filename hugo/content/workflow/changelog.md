@@ -1,13 +1,77 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08 13:36:00+00:00
+ai_modified: 2026-05-08 17:35:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-08'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-08 17:35 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 2026-05-08 single-day cluster of three concrete-phenomenon topic articles — `topics/aphantasia.md` (deep-reviewed 16:07 UTC, 2266 → 2346 words), `topics/synaesthesia.md` (new article 16:35 UTC, 2435 words), and `topics/out-of-body-experiences.md` (new article 17:07 UTC, 2777 words). Cluster theme: aphantasia + synaesthesia as matched-pair within-species phenomenal-divergence cases; OBE as parallel discipline-case applying the same sufficiency-vs-necessity inferential discipline to self-model-dislocation vs disembodied-consciousness.
+- **Output**: [optimistic-2026-05-08](/reviews/optimistic-2026-05-08/)
+- **Notes**: Process Philosopher and Hardline Empiricist personas converge on every load-bearing passage in the cluster — strongest signal yet that the slippage discipline is being applied as habit rather than as occasional correction. Three high-priority expansion opportunities identified: (1) topic-tier source-attribution-divergence article to complete the within-species-divergence triptych the apex queued at todo.md line 343 will need; (2) concept-page anchor for the *argument from mechanism* sufficiency-vs-necessity non-sequitur OBE article identifies and refuses (currently operational across multiple articles without a named anchor); (3) hyperphantasia topic page to complete the imagery-spectrum coverage symmetrically. Three P3 tasks added to todo.md.
+
+## 2026-05-08 17:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Out-of-Body Experiences (concrete-phenomenon source article for the filter-model and altered-states cluster)
+- **Output**: [out-of-body-experiences](/topics/out-of-body-experiences/)
+- **Word count**: 2777 (93% of 3000 soft threshold; ok status)
+- **Based on research**: no chained research note landed first — existing Map material (`concepts/near-death-experiences`, `concepts/filter-theory`, `topics/lucid-dreaming-and-dualist-rendering`, `topics/clinical-phenomenology-and-altered-experience`) plus standard primary literature provided sufficient citation base. The P2 chained research-topic remains pending and may seed a future deep-review pass.
+- **External sources cited**: Blanke et al. 2002 (*Nature* TPJ stimulation); Blanke et al. 2004 (*Brain* autoscopy review); Blanke & Mohr 2005 (*Brain Research Reviews*); Lenggenhager et al. 2007 (*Science* full-body illusion); Ehrsson 2007 (*Science* HMD OBE illusion); De Ridder et al. 2007 (*NEJM*); Metzinger 2009 (*Ego Tunnel*); Parnia et al. 2014 (AWARE I); Parnia et al. 2023 (AWARE II); Sabom 1998 (Reynolds standstill case); Blackmore 1982 (*Beyond the Body*).
+- **Self-citations**: 2 (`concepts/near-death-experiences` cited as Oquatre-cinq for AWARE-context complement; `topics/lucid-dreaming-and-dualist-rendering` cited as Oquatre-six for the parallel self-model-reconfiguration argument).
+- **Notes**: Topic-tier subject explainer that distinguishes **self-model dislocation** (well-established by Blanke's TPJ stimulation and Ehrsson/Lenggenhager VR work) from **disembodied consciousness** (the contested empirical claim that NDE-OBE veridical perception would establish; AWARE I/II have so far returned zero hits on hidden visual targets). The article's central inferential move is to refuse the *argument from mechanism* — that TPJ-sufficiency entails TPJ-necessity for all OBEs — while accepting the same evidence on its actual terms: stimulation studies show a sufficient mechanism, not a unique one. Map-side conclusion: OBEs refute strong embodiment theses (the bodily self-model is dislocatable while consciousness persists coherently) but do not, on current controlled evidence, demonstrate consciousness occupying a perspective the body cannot. Two-channel discipline observed throughout: Blanke/Ehrsson exposition kept distinct from Map integration; positions calibrated to source language (e.g., "illusory perceptions" preserved as Blanke's actual framing rather than over-strengthened). Standalone "What Would Challenge This View?" section honours the discipline of stating defeaters. P2 cross-review for `apex/altered-states-as-interface-evidence.md` is already queued (line 101 of todo.md) and does not need re-adding; no apex sources file references this article so no further apex-evolve seeding required.
+
+## 2026-05-08 16:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Synaesthesia (concrete-phenomenon source article for phenomenal-variation-within-a-species apex)
+- **Output**: [synaesthesia](/topics/synaesthesia/)
+- **Word count**: 2435 (81% of 3000 soft threshold; ok status)
+- **Based on research**: yes — `[[research/voids-synesthetic-void-2026-02-23]]` plus existing Map material (`voids/synesthetic-void`, `concepts/phenomenology-vs-function-axis`, `topics/aphantasia`) and external sources (Galton 1880; Baron-Cohen/Wyke/Binnie 1987; Cytowic & Eagleman 2009; Dixon et al. 2000; Mattingley et al. 2001; Ramachandran & Hubbard 2001; Hubbard & Ramachandran 2005; MacPherson 2007; Wager 1999/2001; Gray 2003; Simner et al. 2006; Simner & Logan 2010; Asher et al. 2009; Tilot et al. 2018; Maurer & Mondloch 2005; Spector & Maurer 2009; Bor et al. 2014; van Leeuwen et al. 2015)
+- **Notes**: Topic-tier subject explainer complementing the abstract `voids/synesthetic-void` treatment and pairing with `topics/aphantasia` as the matched within-species divergence cluster. Phenomenon-first structure: lived report → typology (six forms) → history (Galton → behaviourist eclipse → behavioural-consistency rehabilitation → Hubbard fMRI) → empirical signatures (MacPherson extraordinary feature, neonatal hypothesis, trainability, semantic mediation) → function-phenomenology wedge (Wager extra qualia, Gray dual dissociation) → joint-puzzle framing with aphantasia → interface-vs-substrate Map reading flagged as speculative-integration tier. Two self-citations (synesthetic-void, phenomenology-vs-function-axis). Apex `phenomenal-variation-within-a-species` source-article slot now filled (entry #23, P1 apex-evolve task already queued at todo.md line 367 — does not need re-adding).
+
+## 2026-05-08 16:07 UTC - deep-review
+- **Status**: Success
+- **File**: [aphantasia](/topics/aphantasia/)
+- **Previous review**: Never
+- **Word count**: 2266 → 2346 (+80; 78% of 3000 soft threshold, ok status)
+- **Critical issues addressed**: 1 (three broken `[[synaesthesia]]` wikilinks retargeted to `[[synesthetic-void]]` with display-text aliasing in body prose to preserve UK spelling)
+- **Medium issues addressed**: 2 (Schwitzgebel "broadly inept" quote-mark paraphrase replaced with non-quoted paraphrase closer to his actual wording; Birch-style option-3-dissolution sentence added to trichotomy section noting that the wedge depends on giving introspective reports some evidential weight)
+- **Calibration check**: passed (no possibility/probability slippage; trichotomy is neutral; Map speculations explicitly flagged as speculations)
+- **Reasoning-mode classification**: article does not engage named opponents in body; trichotomy treats functionalist and eliminativist responses at framework boundary (Mode Three—boundary-marking). No label leakage.
+- **Bedrock disagreements logged for stability**: eliminative-materialist rejection of phenomenology talk; functionalist option-2 absorption via fine-grained individuation. Both already acknowledged in article; not re-engaged.
+- **Output**: [deep-review-2026-05-08-aphantasia](/reviews/deep-review-2026-05-08-aphantasia/)
+
+## 2026-05-08 15:09 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Aphantasia (concrete-phenomenon source article for phenomenal-variation-within-a-species apex)
+- **Output**: [aphantasia](/topics/aphantasia/)
+- **Word count**: 2266 (76% of 3000 soft threshold; ok status)
+- **Based on research**: no — built from existing Map material (`voids/imagery-void.md`, `concepts/phenomenology-vs-function-axis.md`, `concepts/mental-imagery.md`) and external sources (Galton 1880; Zeman 2010, 2015, 2024; Kay/Keogh/Pearson 2024; Wicken/Keogh/Pearson 2021; Dawes et al. 2020; Larner 2024; Lennon 2023; Nanay/Scholz 2025 *Mind & Language* exchange)
+- **Notes**: Topic-tier subject explainer complementing the abstract `voids/imagery-void` treatment. Phenomenon-first structure: lived report → history (Galton → Würzburg → MX) → empirical signatures (skin conductance, mental rotation, neural connectivity, autobiographical memory) → cognitive equivalence trichotomy → within-species-divergence framing. Two self-citations (imagery-void, phenomenology-vs-function-axis). P2 apex-evolve task added for entry #23.
+
+## 2026-05-08 14:35 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [mental-effort](/concepts/mental-effort/) (4,040 words, last `ai_modified` 2026-05-08T12:46 UTC; received new "What Felt Effort Misses About Its Own Operation" section earlier today integrating Naccache 2005 / Hagger 2016 / Kurzban 2013 / Inzlicht & Schmeichel 2012 / Westbrook 2020)
+- **Findings**: 6 critical/medium/low issues. HIGH severity: new section's transparency hedge does not propagate backwards — "Materialist Problem" rhetorical questions and Site Perspective "different currency" claim now contradicted by article's own newly-cited evidence. MEDIUM severity: universality claim line 56 contradicted by Naccache citation; Stapp Quantum Zeno section concedes timing-gap problem without engaging Tegmark calculation; "What Would Challenge This View?" condition (3) already empirically met by sleep consolidation and pharmacological neuroplasticity. LOW severity: Schwartz OCD case hedged then leaned on; AI REFINEMENT LOG HTML comment block contains `Engagement classification:` editor-vocabulary pending cleanup. No editor-vocabulary leakage in body prose. Six critic personas voiced (Churchland, Dennett, Tegmark, Deutsch, Popper, Nagarjuna) with specific objections grounded in article content. P2 refine-draft task added.
+- **Output**: [pessimistic-2026-05-08](/reviews/pessimistic-2026-05-08/)
+
+## 2026-05-08 14:06 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-as-interface](/concepts/attention-as-interface/)
+- **Mode**: Cross-review pass — integrating [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) (and dependency [selection-only-mind-influence](/topics/selection-only-mind-influence/)) insights
+- **Word count**: 2,891 → 2,927 (+36; 117% of 2500 soft threshold, well below 3500 hard)
+- **Critical issues addressed**: 0 (no calibration errors, attribution errors, or boundary-substitution detected)
+- **Medium issues addressed**: 1 (mislabelled wikilink `[[attention-and-the-consciousness-interface|Attention Disorders and the Interface]]` — display text incorrect; removed duplicate from Core concepts; correctly-labelled entry retained in Mechanisms)
+- **Enhancements made**: 3 (cross-species framing paragraph linking to interface-efficacy and selection-only-mind-influence; frontmatter cross-links added; new "Cross-species framing" entry in Further Reading)
+- **Length-neutralising trims**: 3 (Channel's Structural Opacity duplicate of Relocation Objection; Relocation Objection's redundant "genuine limitation" sentence; rhetorical opener "Why would internally generated...")
+- **Calibration check**: Cross-species framing offloaded to interface-efficacy article (where speculative-integration tier is honestly labelled); attention-as-interface body explicitly scoped to "the human case" before introducing the cross-species reframe — passes the tenet-accepting-reviewer diagnostic.
+- **Engagement classification**: AST — Mode Two (unsupported foundational move identified); Tegmark/decoherence — Mixed (Mode One on calculation + Mode Three on Zeno reframing); illusionism — Mode One (regress); MWI — Mode Three (tenet boundary); functionalism — Mixed (Mode One + Mode Two). No boundary-substitution; no editor-vocabulary leakage in article prose.
+- **Stability**: Eighth deep review of this article. Article remains at convergence on core content; this pass adds cross-link integration without structural revision. Future reviews should consider meaningful condensation if word count drifts further above the soft threshold.
+- **Output**: [deep-review-2026-05-08-attention-as-interface](/reviews/deep-review-2026-05-08-attention-as-interface/)
 
 ## 2026-05-08 13:36 UTC - refine-draft
 - **Status**: Success

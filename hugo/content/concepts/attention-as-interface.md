@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-08 14:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -15,6 +15,7 @@ concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-laws]]'
 - '[[brain-interface-boundary]]'
+- '[[selection-only-mind-influence]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[motor-selection]]'
 - '[[emotion-and-dualism]]'
@@ -50,7 +51,7 @@ description: Attention serves as the interface where consciousness influences th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 16:37:00+00:00
+last_deep_review: 2026-05-08 14:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,6 +72,7 @@ topics:
 - '[[topics/free-will]]'
 - '[[ai-consciousness]]'
 - '[[attention-and-the-consciousness-interface]]'
+- '[[interface-efficacy-and-the-cognitive-gap]]'
 ---
 
 If consciousness influences the physical world—as The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds—how does it do so? The attention as interface hypothesis provides a specific answer: consciousness acts on matter through attention. Not computational attention—the resource-allocation mechanism shared by brains, neural networks, and transformer architectures—but *phenomenal* attention: the felt directedness, the experienced effort of focusing, the qualitative difference between attending to a sound and ignoring it. Conflating these two senses of "attention" generates persistent confusion in consciousness science, enabling false inferences from computational attention in AI to consciousness in AI, and obscuring how the mind-matter interface actually operates.
@@ -129,6 +131,8 @@ Attention functions as the **interface layer** between consciousness and neural 
 
 If consciousness can influence matter, why not everywhere? The [brain-interface-boundary](/concepts/brain-interface-boundary/) article develops why: attention requires neural infrastructure, the candidate mechanisms require rapid observation achievable only within neural systems, and [selection](/concepts/consciousness-selecting-neural-patterns/) works by biasing ongoing neural competition that external systems are not part of.
 
+The interface specified here is the human case. Whether and how the same coupling might vary in efficacy *across species* — along selection bandwidth, fidelity, granularity, and candidate-type coupling — is treated in [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/). The strict per-event ceiling on any such selection (log₂(N) bits over the brain-prepared candidate set) is derived in [selection-only-mind-influence](/topics/selection-only-mind-influence/).
+
 ## The Willed Attention Distinction
 
 Not all top-down attention is willed. Research (Nadra & Mangun 2023) identifies three levels:
@@ -141,11 +145,11 @@ Not all top-down attention is willed. Research (Nadra & Mangun 2023) identifies 
 
 Three neural markers distinguish willed from instructed attention (Rajan et al. 2019): frontal theta oscillations (~500ms post-decision) absent in instructed attention; bidirectional theta-band frontoparietal coherence (suggesting ongoing communication between decision and execution systems, not unidirectional triggering); and additional DLPFC/ACC recruitment—decision-making machinery that cued attention bypasses.
 
-Why would internally generated and externally cued shifts to the same location engage fundamentally different neural architectures? Bidirectional coherence and theta oscillations mark a qualitatively different process, not merely a harder version of the same one. See [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) for the full mechanistic analysis.
+Bidirectional coherence and theta oscillations mark a qualitatively different process from instructed attention shifts to the same location, not merely a harder version. See [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) for the full mechanistic analysis.
 
 ## Phenomenal Attention and Effort
 
-The [phenomenology of effort](/concepts/mental-effort/) becomes clearer with the phenomenal/computational distinction. Computational attention has computational costs—energy expenditure, processing trade-offs. Phenomenal attention has phenomenal costs—the felt work of sustaining focus, the qualitative strain of concentration. These track each other but are not identical. Kahneman's work shows computational load correlates with pupil dilation and heart rate—but why should resource allocation *feel* like anything? If phenomenal attention were nothing beyond computational attention, the felt dimension would be [epiphenomenal](/concepts/epiphenomenalism/) decoration. If phenomenal attention is a distinct process, the felt effort reflects genuine causal engagement.
+The [phenomenology of effort](/concepts/mental-effort/) becomes clearer with the phenomenal/computational distinction. Computational attention has computational costs—energy expenditure, processing trade-offs. Phenomenal attention has phenomenal costs—the felt work of sustaining focus, the qualitative strain of concentration. These track each other but are not identical: Kahneman's autonomic correlates of computational load (pupil dilation, heart rate) do not explain why resource allocation should *feel* like anything. If phenomenal attention were nothing beyond computational attention, the felt dimension would be [epiphenomenal](/concepts/epiphenomenalism/) decoration. If phenomenal attention is a distinct process, the felt effort reflects genuine causal engagement.
 
 The Map's proposed mechanism—the quantum Zeno effect ([Stapp](/concepts/stapp-quantum-mind/))—operates on phenomenal attention specifically. What holds neural patterns stable is the conscious act of attending—the felt engagement that [William James](/concepts/mental-effort/) described as "successive efforts"—not computational resource allocation, which operates continuously and automatically.
 
@@ -198,7 +202,7 @@ COGITATE (2025) found neither GWT nor IIT clearly vindicated—the Map's tenets 
 
 **The Illusionist Challenge**: If phenomenal consciousness is illusory, no special interface is needed. But if the sense of effort is an illusion, something must experience that illusion—the regress problem. Even philosophers who accept illusionism report attention *still feels* effortful.
 
-**The Relocation Objection**: The interface hypothesis specifies *where* consciousness acts (through attention) and *how* it might act (e.g., quantum selection), but does not explain *why* phenomenal attention exists or how subjective experience arises from—or connects to—physical processes. The hard problem is relocated from "why does neural processing produce experience?" to "why does consciousness have this particular interface with neural processing?" This is a genuine limitation. The hypothesis gains its value not by dissolving the hard problem but by constraining where the explanatory gap sits—narrowing the mystery from "consciousness and the brain" to "consciousness and attentional selection"—which may prove more tractable.
+**The Relocation Objection**: The interface hypothesis specifies *where* consciousness acts (through attention) and *how* it might act (e.g., quantum selection), but does not explain *why* phenomenal attention exists or how subjective experience arises from—or connects to—physical processes. The hard problem is relocated from "why does neural processing produce experience?" to "why does consciousness have this particular interface with neural processing?" The hypothesis gains value not by dissolving the hard problem but by narrowing where the explanatory gap sits—from "consciousness and the brain" to "consciousness and attentional selection"—which may prove more tractable.
 
 **The Functionalist Challenge**: Computational attention is fully specifiable in terms of inputs, outputs, and processing. But phenomenal attention resists functional specification—two systems performing identical computational attention could differ in phenomenal attention (or one could lack it entirely). A concrete instance of the general anti-[functionalist](/concepts/functionalism/) argument.
 
@@ -212,7 +216,7 @@ The hypothesis would fail if:
 
 ## The Channel's Structural Opacity
 
-The interface hypothesis specifies *where* consciousness acts (through attention) and *how* it might act (through quantum selection on neural competition). A further limitation surfaces when the channel is examined from inside. The [relevance void](/voids/relevance-void/) names what the interface cannot see of itself: the selection mechanism that decides which items become candidates for attention is structurally inaccessible to the consciousness whose attention it shapes. We experience the outputs of relevance filtering—*these* options as live, *those* as background—without experiencing the filtering. Inspection is itself a relevance-using act and inherits the opacity it tries to dissolve. The channel-as-interface is operating; the channel's selection criteria are not on the channel.
+A further limitation surfaces when the channel is examined from inside. The [relevance void](/voids/relevance-void/) names what the interface cannot see of itself: the selection mechanism that decides which items become candidates for attention is structurally inaccessible to the consciousness whose attention it shapes. We experience the outputs of relevance filtering—*these* options as live, *those* as background—without experiencing the filtering. Inspection is itself a relevance-using act and inherits the opacity it tries to dissolve. The channel-as-interface is operating; the channel's selection criteria are not on the channel.
 
 This bounds what the interface hypothesis can claim. Phenomenal attention biases neural competition through the salience-precision channel, but does not author the shortlist consciousness gets to bias. The interface acts on options; the upstream relevance step that constituted them as options remains a void. That opacity is itself evidence for the structural-non-physical reading the Map prefers: a wholly-physical filter ought, in principle, to be inspectable; one whose operation cannot survive being looked at fits the dualist picture of consciousness as something other than the mechanism it engages.
 
@@ -230,7 +234,9 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 
 ## Further Reading
 
-**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [psychophysical-laws](/concepts/psychophysical-laws/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [Attention Disorders and the Interface](/topics/attention-and-the-consciousness-interface/), [The Epistemological Void of Attention Disorders](/topics/attention-disorders-and-consciousness/), [Epistemology of Interface Mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [psychophysical-laws](/concepts/psychophysical-laws/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [The Epistemological Void of Attention Disorders](/topics/attention-disorders-and-consciousness/), [Epistemology of Interface Mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+
+**Cross-species framing**: [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) — bandwidth, fidelity, granularity, and candidate-type coupling as evolutionary scaling axes of the same interface. [selection-only-mind-influence](/topics/selection-only-mind-influence/) — the per-event information ceiling that constrains every efficacy axis.
 
 **Motor convergence**: [motor-selection](/concepts/motor-selection/), [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/), [BCIs and the interface boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)
 
