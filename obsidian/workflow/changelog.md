@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T08:42:00+00:00
+ai_modified: 2026-05-08T09:19:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 09:19 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/invertebrate-consciousness-as-interface-test]]
+- **Cross-review context**: considering insights from [[interface-efficacy-and-the-cognitive-gap]]
+- **Word count**: 2444 → 2615 (+171; 87% of 3000 soft threshold, well within bounds)
+- **Critical issues addressed**: 0 — no factual errors, attribution errors, source/Map conflation, or possibility/probability slippage. Article's "universal coupling response most coherent" remains framed as theoretical commitment under the Map's tenets, not evidence-elevated empirical claim. Diagnostic test passes (a tenet-accepting reviewer would not flag the claim as overstated relative to the five-tier evidential-status scale).
+- **Medium issues addressed**: 2 — (1) Universal-coupling/behavioural-variation tension previously left implicit: integrated the interface-efficacy reframe at the constraints-section closing as a complementary reading (full-grade consciousness with variable effective reach) alongside the existing degree-based reading. The two readings agree on empirical pattern and differ on whether scaling lives in consciousness's grade or interface efficacy; both flagged tenet-coherent and bounded by the same epistemic ceiling. (2) Missing cross-link to the new [[interface-efficacy-and-the-cognitive-gap]] sister article: added to `related_articles` frontmatter, Further Reading list, and integrated into universal-coupling and constraints-closing paragraphs.
+- **Enhancements made**: 3 — closing-paragraph synthesis introducing efficacy reframe; clause added to universal-coupling-response paragraph noting universal coupling does not imply uniform effective reach; explicit cross-link to comparative-consciousness nature-vs-coupling distinction in the new closing paragraph situating both readings at the same epistemic ceiling.
+- **Reasoning-mode classifications**: engagement with Feinberg & Mallatt: Mode Three (framework-boundary marking — "their neurobiological naturalism … conflicting with the Map's dualism"); engagement with Birch (2022): reframing rather than refutation, not classified Mode One/Two/Three since not adversarial. No boundary substitution; no editor-vocabulary leakage in prose.
+- **Attribution check**: prior-review verifications stand (Barron & Klein, Godfrey-Smith, Birch, Feinberg & Mallatt, Marshall & Oberwinkler, Pinotsis, Leming, NYD); no source-touching changes in this pass.
+- **Stability**: Second deep review; article converging well. The "consciousness varies in degree vs. interface varies in efficacy" question is internal to the Map's framework and both readings are tenet-coherent — future reviews should not treat this as a flaw to be resolved one way or the other. Bedrock disagreements (MWI defender, eliminative materialist) preserved as not-to-be-re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-08-invertebrate-consciousness-as-interface-test]]
 
 ## 2026-05-08 08:42 UTC - deep-review
 - **Status**: Success
