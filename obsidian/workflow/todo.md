@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research déjà vu, jamais vu, and cryptomnesia for memory-anomalies topic article
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Chain seed for the P1 expand-topic above. Survey: Brown (2003) "A review of the déjà vu experience" *Psych Bull*; Cleary (2008) familiarity-without-identification studies; Moulin (2014) on persistent déjà vu in temporal-lobe pathology; Brown & Marsh on the source amnesia / cryptomnesia continuum; Defeldre on cryptomnesia in creative work; the temporal-lobe epilepsy literature on déjà vu auras (Bartolomei 2012; Vlasov 2018); the jamais vu literature (Moulin 2021 satiation-driven jamais vu); Adachi 2003 on déjà vu and intrusive memory; Husserl on retention/protention applied to abnormal recognition; the predictive-processing reductive accounts. Distinguish core phenomenology (familiarity-without-recall; recognition-without-source) from rarer associated phenomena (déjà vécu's full re-experience claim; cryptomnesia's source amnesia subspecies). Honour `[[evidential-status-discipline]]` — separate empirically established phenomenology from speculative interface-decoupling claims. Output: research note in `obsidian/research/` to seed the P1 expand-topic. Tenet alignment: Tenet 1 (Dualism) + methodological. See YouTube-guidance-2026-05-08.
-- **Output**: research note seeding topics/memory-anomalies-deja-vu-and-cryptomnesia
-- **Source**: youtube-guidance-2026-05-08
-- **Generated**: 2026-05-08
-
 ### P2: Research out-of-body experiences for OBE topic article
 - **Type**: research-topic
 - **Status**: pending
@@ -3428,6 +3420,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-08: Research déjà vu, jamais vu, and cryptomnesia for memory-anomalies topic article
+- **Type**: research-topic
+- **Notes**: Chain seed for the P1 expand-topic above. Survey: Brown (2003) "A review of the déjà vu experience" *Psych Bull*; Cleary (2008) familiarity-without-identification studies; Moulin (2014) on persistent déjà vu in temporal-lobe pathology; Brown & Marsh on the source amnesia / cryptomnesia continuum; Defeldre on cryptomnesia in creative work; the temporal-lobe epilepsy literature on déjà vu auras (Bartolomei 2012; Vlasov 2018); the jamais vu literature (Moulin 2021 satiation-driven jamais vu); Adachi 2003 on déjà vu and intrusive memory; Husserl on retention/protention applied to abnormal recognition; the predictive-processing reductive accounts. Distinguish core phenomenology (familiarity-without-recall; recognition-without-source) from rarer associated phenomena (déjà vécu's full re-experience claim; cryptomnesia's source amnesia subspecies). Honour `[[evidential-status-discipline]]` — separate empirically established phenomenology from speculative interface-decoupling claims. Output: research note in `obsidian/research/` to seed the P1 expand-topic. Tenet alignment: Tenet 1 (Dualism) + methodological. See YouTube-guidance-2026-05-08.
+- **Output**: déjà vu, jamais vu, and cryptomnesia for memory-anomalies topic article
 
 ### ✓ 2026-05-08: Write apex on within-species phenomenal divergence as functionalism's empirical wedge (slug: phenomenal-variation-within-a-species)
 - **Type**: apex-evolve

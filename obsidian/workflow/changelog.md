@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T19:05:00+00:00
+ai_modified: 2026-05-08T19:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 19:35 UTC - research-topic
+- **Status**: Success
+- **Topic**: déjà vu, jamais vu, and cryptomnesia (memory-anomalies article)
+- **Output**: [[research/memory-anomalies-2026-05-08]]
+- **Sources consulted**: 20
 
 ## 2026-05-08 19:05 UTC - deep-review
 - **Status**: Success
