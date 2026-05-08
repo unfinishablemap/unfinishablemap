@@ -2,10 +2,10 @@
 title: "Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World Signatures"
 description: "Human–AI exploration of the strictest reading of mind-on-quantum influence: three information-theoretic limits and the empirical signatures that follow."
 created: 2026-05-05
-modified: 2026-05-06
+modified: 2026-05-08
 human_modified:
-ai_modified: 2026-05-06T11:16:00+00:00
-last_deep_review: 2026-05-06T11:16:00+00:00
+ai_modified: 2026-05-08T12:06:00+00:00
+last_deep_review: 2026-05-08T12:06:00+00:00
 draft: false
 topics: []
 concepts:
@@ -20,6 +20,7 @@ related_articles:
   - "[[mathematical-structure-of-the-consciousness-physics-interface]]"
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[interface-specification-programme]]"
+  - "[[interface-efficacy-and-the-cognitive-gap]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -82,7 +83,7 @@ Three structural consequences follow:
 
 This is *much* stronger than the corresponding constraint under generation-permitting models, where mind could in principle contribute novel content. Under the strict reading, every distinguishable phenomenal state must have a brain-side correlate already present in the candidate space. The interface is read-and-select, not read-and-create.
 
-This has a direct empirical consequence the literature has not foregrounded: the dimensionality of *reportable conscious content* must be bounded above by the dimensionality of the brain-generated *candidate space* at the relevant decoherence stage. If the latter could be measured, the former would inherit a hard upper bound — a Holevo-style ceiling on phenomenal content. Estimating the relevant candidate-space dimensionality is an open research problem.
+This has a direct empirical consequence the literature has not foregrounded: the dimensionality of *reportable conscious content* must be bounded above by the dimensionality of the brain-generated *candidate space* at the relevant decoherence stage. If the latter could be measured, the former would inherit a hard upper bound — a Holevo-style ceiling on phenomenal content. Estimating the relevant candidate-space dimensionality is an open research problem. The same dimensionality bound is what [[interface-efficacy-and-the-cognitive-gap]] picks up as a *cross-species* variable: candidate-type coupling and selection bandwidth become axes along which the per-species ceiling can scale, with the strict per-event arithmetic developed here as their shared background.
 
 ## The Empirical Signature Corridor
 
@@ -128,7 +129,7 @@ The strict reading is empirically distinguishable from generation-permitting alt
 | Conditional bias correlation with decoherence-domain diversity | Strong | Weak/absent |
 | Energy/momentum injection signature | Zero | Possibly nonzero |
 
-Of these, the *most discriminating* is the **correlation between candidate-set diversity and reportable phenomenal content**. Under the strict reading, the dimensionality of reportable content is bounded above by the dimensionality of brain-generated candidate space; under generation-permitting models, mind can supply novelty beyond what the brain pre-encodes. No current experiment cleanly operationalises this contrast, and doing so is a target for the [[interface-specification-programme]].
+Of these, the *most discriminating* is the **correlation between candidate-set diversity and reportable phenomenal content**. Under the strict reading, the dimensionality of reportable content is bounded above by the dimensionality of brain-generated candidate space; under generation-permitting models, mind can supply novelty beyond what the brain pre-encodes. No current experiment cleanly operationalises this contrast, and doing so is a target for the [[interface-specification-programme]]. A complementary in-principle handle — variation in the same correlation across species at differing cognitive grades — is what [[interface-efficacy-and-the-cognitive-gap]] treats as its central distinguishing observable; both probes draw on the same underlying ceiling.
 
 ## Relation to Site Perspective
 
@@ -160,6 +161,7 @@ The Map interprets the empirical situation as follows. The vanishing of detectab
 - [[weak-measurement-and-post-selection]]
 - [[amplification-mechanisms-consciousness-physics]]
 - [[possibility-probability-slippage]]
+- [[interface-efficacy-and-the-cognitive-gap]]
 
 ## References
 

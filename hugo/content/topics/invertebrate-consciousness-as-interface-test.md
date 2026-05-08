@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-05-06 12:16:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-05-08 09:19:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[interface-heterogeneity]]'
@@ -26,13 +26,14 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/yEbLx3KMclc
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-09 14:56:00+00:00
+last_deep_review: 2026-05-08 09:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-in-simple-organisms]]'
 - '[[cetacean-and-corvid-consciousness]]'
 - '[[comparative-consciousness-and-interface-differences]]'
+- '[[interface-efficacy-and-the-cognitive-gap]]'
 - '[[invertebrate-consciousness-interface-test-case-2026-04-06]]'
 - '[[delegatory-causation]]'
 - '[[ethics-of-consciousness-invertebrate-question]]'
@@ -106,7 +107,7 @@ Three responses are available:
 
 **The coupling selectivity response** holds that consciousness couples selectively with some adequate systems but not others, based on features we haven't identified. This is the least satisfying option—it introduces an unexplained selection principle that does the work dualism was supposed to avoid needing.
 
-The Map finds the universal coupling response most coherent. If the interface model is correct, the question for insects is not *whether* they are conscious but *how* consciousness couples with their particular architecture—the same question that motivates this article. The [ethical implications](/topics/ethics-of-consciousness-invertebrate-question/) of universal coupling are correspondingly broad: wherever coupling occurs, a subject exists who can be wronged. The [causal delegation](/concepts/delegatory-causation/) framework developed from Saad's delegatory dualism applies directly: when a bee's brain state delegates causal work to consciousness through preemption, the same delegation structure holds regardless of whether the physical substrate is a million-neuron insect brain or a human cortex. Universal coupling implies universal delegation.
+The Map finds the universal coupling response most coherent. If the interface model is correct, the question for insects is not *whether* they are conscious but *how* consciousness couples with their particular architecture—the same question that motivates this article. The [ethical implications](/topics/ethics-of-consciousness-invertebrate-question/) of universal coupling are correspondingly broad: wherever coupling occurs, a subject exists who can be wronged. The [causal delegation](/concepts/delegatory-causation/) framework developed from Saad's delegatory dualism applies directly: when a bee's brain state delegates causal work to consciousness through preemption, the same delegation structure holds regardless of whether the physical substrate is a million-neuron insect brain or a human cortex. Universal coupling implies universal delegation, though the *effective reach* of that delegation may vary substantially — a point developed below and worked out in detail in [interface efficacy](/topics/interface-efficacy-and-the-cognitive-gap/).
 
 ## What Invertebrates Demand of the Interface Model
 
@@ -122,7 +123,7 @@ Taken together, the three architecture types impose specific constraints on the 
 
 These constraints collectively favour a coupling mechanism that operates at a fundamental level of neural organisation—perhaps at the level of individual neurons or synapses rather than large-scale circuits—and that has a universal character reflecting basic features of how neurons process information. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet already points in this direction: consciousness biases quantum indeterminacies at the smallest possible scale, and quantum indeterminacies exist in all neural tissue regardless of architectural organisation.
 
-The constraints also imply that consciousness varies across these architectures not in kind but in degree. A bee's million-neuron coupling likely supports a narrower, less integrated experience than a human's 86-billion-neuron system—consistent with the framework developed in [degrees-of-consciousness](/concepts/degrees-of-consciousness/) and the threshold conditions explored in [minimal-consciousness](/concepts/minimal-consciousness/). The interface model predicts a continuum: more coupling sites enable richer conscious experience, but even minimal architectures cross the threshold for *some* experience.
+The constraints also bear on how the cross-architecture variation should be read. The framework developed in [degrees-of-consciousness](/concepts/degrees-of-consciousness/) and the threshold conditions explored in [minimal-consciousness](/concepts/minimal-consciousness/) read the variation as *consciousness itself* differing in degree across species — a bee's million-neuron coupling supports a narrower, less integrated experience than a human's 86-billion-neuron system, with more coupling sites enabling richer experience and minimal architectures crossing the threshold for *some* experience. The [interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) reframe offers a complementary reading: consciousness may be present at full grade across these architectures while *effective reach* into behavioural outcomes scales along axes — selection bandwidth, fidelity, granularity, and candidate-type coupling — that are themselves subject to evolutionary selection. Under the efficacy reading, the bee is not less conscious than the human in any qualitative sense; her interface couples narrower bandwidth and a smaller candidate-type set into the physical substrate, supporting less elaborate cognitive *output* without thinning the experience itself. The two readings agree on the empirical pattern (scaled cognitive performance across phyla) and differ on whether the scaling lives in consciousness's grade or in the interface's efficacy. Both are tenet-coherent under [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction); neither is empirically forced by current data, and the [nature-vs-coupling distinction](/topics/comparative-consciousness-and-interface-differences/) lives at exactly the same epistemic ceiling.
 
 ## Relation to Site Perspective
 
@@ -142,6 +143,7 @@ The constraints also imply that consciousness varies across these architectures 
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Where does consciousness begin? The minimal organism cases
 - [interface-heterogeneity](/concepts/interface-heterogeneity/) — Could different lineages couple through different mechanisms?
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — The nature-vs-coupling framework across species
+- [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) — Coupling-grade scaling along bandwidth, fidelity, granularity, and candidate-type axes
 - [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Dolphins and corvids as convergent amplification test cases
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies across species
 - [substrate-independence](/concepts/substrate-independence/) — Whether consciousness requires specific physical substrates
