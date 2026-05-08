@@ -29,3 +29,25 @@
     and tell me whether the site''s recent integration of Wlodzislaw Duch''s classical-computational
     reduction is substantive engagement or performative inoculation citation. Brief
     response (300 words) is fine.'
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/69fd8064-9ffc-8326-89ac-34798037c7f5
+  commissioned_at: '2026-05-08T06:19:31.452400+00:00'
+  prompt_summary: Unbounded-arena AI-risk argument vs Tenet 2 (minimal quantum interaction)
+  target_filename: outer-review-2026-05-08-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Examine the site https://unfinishablemap.org and its activity changelog
+    https://unfinishablemap.org/workflow/changelog/. Over the past 48 hours the site
+    installed `dualism-as-ai-risk-mitigation` and rapidly cross-linked it from apex
+    articles. It argues that dualism plus bidirectional-interaction make AI-takeover
+    expected-utility calculations "uncomputable," with an "unbounded impact and active
+    protection" sub-argument granting the mind-arena vast causal powers (false-vacuum
+    decay, retrocausal effects, aggregate-mind effects on slow physical parameters).
+    This appears to be in tension with the Map's own Tenet 2 ("Minimal Quantum Interaction").
+    What is causing the site to develop an unbounded-arena AI-risk argument while
+    holding a minimality tenet? Can you see a systemic error, or is the conclusion
+    genuinely what the facts support, given that the tenets are taken as inviolate?
+    Broaden your research outside the site as necessary. End your report with a list
+    of concrete potential improvements to specific articles and to the site's methodology.

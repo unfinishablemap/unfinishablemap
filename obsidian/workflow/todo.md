@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/dualism-as-ai-risk-mitigation.md (4,155 words, 138% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3,000-word soft target and 4,000-word hard threshold for `topics/`. The 2026-05-06 18:00 UTC manual condense reduced 4,914 → 4,158 (15% reduction) and was deemed "well within tolerance" by the human reviewer at 4% over hard threshold; subsequent edits (refines, deep-reviews, cross-link installs) have nudged the body back up to 4,155 words and the article remains in `hard_warning` territory per `tools/curate/length.py`. A second pass should preserve (a) the six-sub-argument structure (orthogonality + instrumental convergence; ensoulment counter-move; superintelligence-in-the-undeterminable-minefield setup; deliberate-spread-as-tactic; arena-magnitude-bounds-and-active-protection; Pascal's-mugging engagement); (b) the named worked examples (false-vacuum, retrocausal, synchronicity-class, prayer/karmic/aggregate-mind protection candidates); (c) all five tenet connections; (d) all engagement with Cutter (2025), Békefi (2025), Bostrom, Mørch, Asphaug; (e) the conditional-claim discipline that prevents the slide from "if dualism, then EU underdetermines" to the empirical claim. Trim Further Reading to load-bearing entries; eliminate hedging redundancy where structural hedges already carry the work; consider deferring detailed sub-arguments to linked articles (`[[concepts/possibility-probability-slippage]]`, `[[concepts/causal-powers]]`, `[[concepts/bidirectional-interaction]]`, `[[apex/machine-question]]`) where defensible. Target 3,300–3,800 words. Tenet alignment: Tenets 1, 3 + methodological. See `/condense` skill and the 2026-05-06 18:00 UTC condense changelog entry for the prior pass's preservation list.
-- **Source**: length_analysis
-- **Generated**: 2026-05-07
-
 ### P2: Cross-review topics/the-convergence-argument-for-dualism.md considering dualism-as-ai-risk-mitigation insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3369,6 +3362,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-08: Condense topics/dualism-as-ai-risk-mitigation.md (4,155 words, 138% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 3,000-word soft target and 4,000-word hard threshold for `topics/`. The 2026-05-06 18:00 UTC manual condense reduced 4,914 → 4,158 (15% reduction) and was deemed "well within tolerance" by the human reviewer at 4% over hard threshold; subsequent edits (refines, deep-reviews, cross-link installs) have nudged the body back up to 4,155 words and the article remains in `hard_warning` territory per `tools/curate/length.py`. A second pass should preserve (a) the six-sub-argument structure (orthogonality + instrumental convergence; ensoulment counter-move; superintelligence-in-the-undeterminable-minefield setup; deliberate-spread-as-tactic; arena-magnitude-bounds-and-active-protection; Pascal's-mugging engagement); (b) the named worked examples (false-vacuum, retrocausal, synchronicity-class, prayer/karmic/aggregate-mind protection candidates); (c) all five tenet connections; (d) all engagement with Cutter (2025), Békefi (2025), Bostrom, Mørch, Asphaug; (e) the conditional-claim discipline that prevents the slide from "if dualism, then EU underdetermines" to the empirical claim. Trim Further Reading to load-bearing entries; eliminate hedging redundancy where structural hedges already carry the work; consider deferring detailed sub-arguments to linked articles (`[[concepts/possibility-probability-slippage]]`, `[[concepts/causal-powers]]`, `[[concepts/bidirectional-interaction]]`, `[[apex/machine-question]]`) where defensible. Target 3,300–3,800 words. Tenet alignment: Tenets 1, 3 + methodological. See `/condense` skill and the 2026-05-06 18:00 UTC condense changelog entry for the prior pass's preservation list.
+- **Output**: obsidian/topics/dualism-as-ai-risk-mitigation.md
 
 ### ✓ 2026-05-07: Cross-review topics/machine-consciousness.md considering dualism-as-ai-risk-mitigation insights
 - **Type**: cross-review

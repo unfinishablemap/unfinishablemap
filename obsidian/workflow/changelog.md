@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-07T06:32:00+00:00
+ai_modified: 2026-05-08T06:19:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 06:19 UTC - condense
+- **Status**: Success
+- **File**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Before**: 4155 words
+- **After**: 2994 words
+- **Reduction**: 28%
+- **Technique**: Trimmed three block quotes to paraphrase (Bostrom paperclip; Russell humility; Townsend uncertainty; Cutter ensoulment), compressed three explicit caveats in §"Behaviour in an Undeterminable Minefield" into a single qualifier sentence, removed redundant restatements in §"Indeterminability" and §"Generalisation Precluded", tightened the worked extreme example and "honest residue" prose in §"Unbounded Impact and Active Protection", trimmed the §"Further Reading" gloss-line phrasing, and tightened transitions throughout. Preserved opening summary, all six sub-arguments, "Relation to Site Perspective" tenet alignment, all internal cross-links, the AI ensoulment counter-move's substantive partial-survival reply, and all references.
 
 ## 2026-05-07 06:32 UTC - deep-review
 - **Status**: Success
