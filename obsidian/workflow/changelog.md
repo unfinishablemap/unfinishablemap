@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T15:09:00+00:00
+ai_modified: 2026-05-08T16:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 16:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/aphantasia]]
+- **Previous review**: Never
+- **Word count**: 2266 → 2346 (+80; 78% of 3000 soft threshold, ok status)
+- **Critical issues addressed**: 1 (three broken `[[synaesthesia]]` wikilinks retargeted to `[[synesthetic-void]]` with display-text aliasing in body prose to preserve UK spelling)
+- **Medium issues addressed**: 2 (Schwitzgebel "broadly inept" quote-mark paraphrase replaced with non-quoted paraphrase closer to his actual wording; Birch-style option-3-dissolution sentence added to trichotomy section noting that the wedge depends on giving introspective reports some evidential weight)
+- **Calibration check**: passed (no possibility/probability slippage; trichotomy is neutral; Map speculations explicitly flagged as speculations)
+- **Reasoning-mode classification**: article does not engage named opponents in body; trichotomy treats functionalist and eliminativist responses at framework boundary (Mode Three—boundary-marking). No label leakage.
+- **Bedrock disagreements logged for stability**: eliminative-materialist rejection of phenomenology talk; functionalist option-2 absorption via fine-grained individuation. Both already acknowledged in article; not re-engaged.
+- **Output**: [[reviews/deep-review-2026-05-08-aphantasia]]
 
 ## 2026-05-08 15:09 UTC - expand-topic
 - **Status**: Success

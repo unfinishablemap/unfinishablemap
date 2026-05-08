@@ -4,7 +4,8 @@ description: "Human+AI exploration of aphantasia—the absence of voluntary ment
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-05-08T15:09:00+00:00
+ai_modified: 2026-05-08T16:07:00+00:00
+last_deep_review: 2026-05-08T16:07:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -19,7 +20,7 @@ concepts:
   - "[[phenomenal-contrast-method]]"
 related_articles:
   - "[[imagery-void]]"
-  - "[[synaesthesia]]"
+  - "[[synesthetic-void]]"
   - "[[mental-imagery]]"
   - "[[phenomenology-of-imagination]]"
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
@@ -81,7 +82,7 @@ This sets up the central wedge. If two minds perform demonstrably the same cogni
 2. The two architectures are genuinely doing different functional work at finer grain, even though task-level performance is matched. The "same task" hides function-level divergence.
 3. Introspective reports of imagery systematically misdescribe the underlying process, so that "I see a vivid image" and "I see no image" are both partially inaccurate self-models of one underlying functional kind.
 
-Each option is metaphysically loaded. Option 1 makes phenomenal imagery a candidate epiphenomenon at the task level. Option 2 saves [[functionalism]] but at the cost of fine-grained individuation that has to be specified. Option 3 ([[introspection|introspective unreliability]]) sits with Schwitzgebel's broader claim that we are "broadly inept" at introspection (Schwitzgebel 2008) and weakens the evidential value of all imagery reports.
+Each option is metaphysically loaded. Option 1 makes phenomenal imagery a candidate epiphenomenon at the task level. Option 2 saves [[functionalism]] but at the cost of fine-grained individuation that has to be specified. Option 3 ([[introspection|introspective unreliability]]) sits with Schwitzgebel's broader claim that introspective knowledge of conscious experience is highly inaccurate, untrustworthy, and faulty (Schwitzgebel 2008) and weakens the evidential value of all imagery reports. Taken to its limit, option 3 dissolves the wedge from a different angle than options 1 and 2: if neither cohort's reports are reliable, then we do not know that the phenomenologies diverge in the way the cohort labels suggest, and the within-species comparison loses its evidential grip. The argument from aphantasia therefore depends on giving introspective reports *some* evidential weight—enough to register the contrast, even if not enough to settle which option is correct.
 
 The [[imagery-void|imagery void]] gives the abstract structural treatment of why this trichotomy cannot be settled from inside the imager's perspective. The 2025 *Mind & Language* exchange between Bence Nanay and Christoph Scholz takes a different route, asking whether aphantasics have *unconscious* imagery: imagery-shaped neural activity that does the cognitive work imagers consciously experience. Nanay (2025) argues the predictive-processing framework supports this reading; Scholz (2025) argues that the unconscious-imagery hypothesis stretches the concept of imagery beyond useful definition. As of 2026, the dispute remains open—a 2026 *Brains Blog* summary of the state of the art described it with characteristic honesty: "we still don't know."
 
@@ -89,7 +90,7 @@ The [[imagery-void|imagery void]] gives the abstract structural treatment of why
 
 Most philosophical thought experiments about phenomenal divergence require imagined cases: inverted qualia, zombies, Mary the colour scientist. Aphantasia is empirically anchored. It is not exotic, not cross-species, not hypothetical. The two minds whose phenomenology diverges share the same neural architecture, the same evolutionary history, the same language community, the same task performance. They differ in inner life and we have to take that difference seriously without the methodological easements of inter-species or inter-system comparison.
 
-This is the contribution aphantasia makes to the larger pattern of *within-species phenomenal divergence*: same biological kind, same external behaviour at task level, divergent phenomenology. [[synaesthesia]] is its companion case at the opposite extreme—extra phenomenal content rather than missing content—and reality-monitoring divergence (the spread of source-attribution profiles across the population) extends the pattern further. The cluster of cases is what makes the wedge cumulative; aphantasia alone is locally absorbable by a sufficiently fine-grained functionalism, but absorbing aphantasia *and* synaesthesia *and* reality-monitoring divergence with the same move puts strain on the absorption strategy.
+This is the contribution aphantasia makes to the larger pattern of *within-species phenomenal divergence*: same biological kind, same external behaviour at task level, divergent phenomenology. [[synesthetic-void|Synaesthesia]] is its companion case at the opposite extreme—extra phenomenal content rather than missing content—and reality-monitoring divergence (the spread of source-attribution profiles across the population) extends the pattern further. The cluster of cases is what makes the wedge cumulative; aphantasia alone is locally absorbable by a sufficiently fine-grained functionalism, but absorbing aphantasia *and* synaesthesia *and* reality-monitoring divergence with the same move puts strain on the absorption strategy.
 
 ## Relation to Site Perspective
 
@@ -104,7 +105,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 ## Further Reading
 
 - [[imagery-void]] — The abstract structural treatment: why the imager cannot verify the fidelity, vividness, or even presence of their own imagery
-- [[synaesthesia]] — The companion case at the opposite extreme: extra phenomenal content under matched representational input
+- [[synesthetic-void]] — The companion case at the opposite extreme: extra phenomenal content under matched representational input
 - [[mental-imagery]] — The concept aphantasia is the negative pole of
 - [[phenomenology-of-imagination]] — First-person structure of imaginative acts
 - [[phenomenology-vs-function-axis]] — The cross-cutting axis aphantasia is the grain-of-function exemplar for
