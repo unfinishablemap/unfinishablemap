@@ -5,6 +5,16 @@ ai_modified: 2026-05-08T16:35:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-08 17:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Out-of-Body Experiences (concrete-phenomenon source article for the filter-model and altered-states cluster)
+- **Output**: [[topics/out-of-body-experiences]]
+- **Word count**: 2777 (93% of 3000 soft threshold; ok status)
+- **Based on research**: no chained research note landed first — existing Map material (`concepts/near-death-experiences`, `concepts/filter-theory`, `topics/lucid-dreaming-and-dualist-rendering`, `topics/clinical-phenomenology-and-altered-experience`) plus standard primary literature provided sufficient citation base. The P2 chained research-topic remains pending and may seed a future deep-review pass.
+- **External sources cited**: Blanke et al. 2002 (*Nature* TPJ stimulation); Blanke et al. 2004 (*Brain* autoscopy review); Blanke & Mohr 2005 (*Brain Research Reviews*); Lenggenhager et al. 2007 (*Science* full-body illusion); Ehrsson 2007 (*Science* HMD OBE illusion); De Ridder et al. 2007 (*NEJM*); Metzinger 2009 (*Ego Tunnel*); Parnia et al. 2014 (AWARE I); Parnia et al. 2023 (AWARE II); Sabom 1998 (Reynolds standstill case); Blackmore 1982 (*Beyond the Body*).
+- **Self-citations**: 2 (`concepts/near-death-experiences` cited as Oquatre-cinq for AWARE-context complement; `topics/lucid-dreaming-and-dualist-rendering` cited as Oquatre-six for the parallel self-model-reconfiguration argument).
+- **Notes**: Topic-tier subject explainer that distinguishes **self-model dislocation** (well-established by Blanke's TPJ stimulation and Ehrsson/Lenggenhager VR work) from **disembodied consciousness** (the contested empirical claim that NDE-OBE veridical perception would establish; AWARE I/II have so far returned zero hits on hidden visual targets). The article's central inferential move is to refuse the *argument from mechanism* — that TPJ-sufficiency entails TPJ-necessity for all OBEs — while accepting the same evidence on its actual terms: stimulation studies show a sufficient mechanism, not a unique one. Map-side conclusion: OBEs refute strong embodiment theses (the bodily self-model is dislocatable while consciousness persists coherently) but do not, on current controlled evidence, demonstrate consciousness occupying a perspective the body cannot. Two-channel discipline observed throughout: Blanke/Ehrsson exposition kept distinct from Map integration; positions calibrated to source language (e.g., "illusory perceptions" preserved as Blanke's actual framing rather than over-strengthened). Standalone "What Would Challenge This View?" section honours the discipline of stating defeaters. P2 cross-review for `apex/altered-states-as-interface-evidence.md` is already queued (line 101 of todo.md) and does not need re-adding; no apex sources file references this article so no further apex-evolve seeding required.
+
 ## 2026-05-08 16:35 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Synaesthesia (concrete-phenomenon source article for phenomenal-variation-within-a-species apex)

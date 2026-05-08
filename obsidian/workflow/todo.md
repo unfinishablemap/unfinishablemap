@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: youtube-guidance-2026-05-08
 - **Generated**: 2026-05-08
 
-### P1: Write topics/out-of-body-experiences.md
-- **Type**: expand-topic
-- **Status**: pending — depends on chained P2 research-topic
-- **Notes**: From YouTube-guidance-2026-05-08. Concrete-phenomenon hook for the filter-model and altered-states cluster. Existing source material is partial: `concepts/near-death-experiences.md` engages OBE-during-cardiac-arrest; `concepts/filter-theory.md` supplies the filter-model framing; `topics/consciousness-disruption-and-the-mind-brain-interface.md` covers adjacent territory; `apex/altered-states-as-interface-evidence.md` engages the broader cluster but does not stop at OBE. **The gap is a topic-tier subject explainer** of OBE specifically that: (a) opens with the phenomenology (autoscopic OBE, asomatic OBE, body-detachment phenomenology; spontaneous OBE in ~10% of population; clinical OBE in cardiac-arrest, anaesthesia, trauma); (b) catalogues the empirical findings from the chained research-topic (Blanke 2002/2004 TPJ electrical induction; AWARE II 2023; the rubber-hand and full-body illusion paradigms; van Lommel 2001); (c) presents the materialist hallucination story (TPJ disruption, predictive-processing failure, vestibular malfunction) and the filter-model alternative side-by-side; (d) frames the Map's position — neither dismissively materialist nor naively veridicalist — as filter-model under the constraint of the parsimony case; (e) honours `[[evidential-status-discipline]]` — OBE-veridicality remains contested at the empirical layer; the article is *speculative integration* on the metaphysical reading; (f) engages Augustine/Fischer-style sceptical responses on their own terms via `[[direct-refutation-discipline]]`; (g) avoids "This is not X. It is Y." cliché. Cross-link `[[near-death-experiences]]`, `[[filter-theory]]`, `[[altered-states-as-interface-evidence]]`, `[[consciousness-disruption-and-the-mind-brain-interface]]`, `[[psychedelics-and-the-filter-model]]`, `[[death-and-consciousness]]`, `[[embodied-consciousness]]`, `[[somatic-interface]]`, `[[terminal-lucidity-and-filter-transmission-theory]]`. Section placement: `topics/`. Scope: medium (1800–2400 words). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction) + methodological. **Sequencing**: blocked on the chained P2 research-topic below.
-- **Output**: topics/out-of-body-experiences
-- **Source**: youtube-guidance-2026-05-08
-- **Generated**: 2026-05-08
-
 ### P2: Research out-of-body experiences for OBE topic article
 - **Type**: research-topic
 - **Status**: pending
@@ -3451,6 +3443,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-08: Write topics/out-of-body-experiences.md
+- **Type**: expand-topic
+- **Notes**: From YouTube-guidance-2026-05-08. Concrete-phenomenon hook for the filter-model and altered-states cluster. Existing source material is partial: `concepts/near-death-experiences.md` engages OBE-during-cardiac-arrest; `concepts/filter-theory.md` supplies the filter-model framing; `topics/consciousness-disruption-and-the-mind-brain-interface.md` covers adjacent territory; `apex/altered-states-as-interface-evidence.md` engages the broader cluster but does not stop at OBE. **The gap is a topic-tier subject explainer** of OBE specifically that: (a) opens with the phenomenology (autoscopic OBE, asomatic OBE, body-detachment phenomenology; spontaneous OBE in ~10% of population; clinical OBE in cardiac-arrest, anaesthesia, trauma); (b) catalogues the empirical findings from the chained research-topic (Blanke 2002/2004 TPJ electrical induction; AWARE II 2023; the rubber-hand and full-body illusion paradigms; van Lommel 2001); (c) presents the materialist hallucination story (TPJ disruption, predictive-processing failure, vestibular malfunction) and the filter-model alternative side-by-side; (d) frames the Map's position — neither dismissively materialist nor naively veridicalist — as filter-model under the constraint of the parsimony case; (e) honours `[[evidential-status-discipline]]` — OBE-veridicality remains contested at the empirical layer; the article is *speculative integration* on the metaphysical reading; (f) engages Augustine/Fischer-style sceptical responses on their own terms via `[[direct-refutation-discipline]]`; (g) avoids "This is not X. It is Y." cliché. Cross-link `[[near-death-experiences]]`, `[[filter-theory]]`, `[[altered-states-as-interface-evidence]]`, `[[consciousness-disruption-and-the-mind-brain-interface]]`, `[[psychedelics-and-the-filter-model]]`, `[[death-and-consciousness]]`, `[[embodied-consciousness]]`, `[[somatic-interface]]`, `[[terminal-lucidity-and-filter-transmission-theory]]`. Section placement: `topics/`. Scope: medium (1800–2400 words). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction) + methodological. **Sequencing**: blocked on the chained P2 research-topic below.
+- **Output**: Write topics/out-of-body-experiences.md
 
 ### ✓ 2026-05-08: Write topics/synaesthesia.md (concrete-phenomenon source article for phenomenal-variation-within-a-species apex)
 - **Type**: expand-topic
