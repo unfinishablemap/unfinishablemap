@@ -4,7 +4,8 @@ description: "Out-of-body experiences are phenomenologically real and causally d
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-05-08T17:07:00+00:00
+ai_modified: 2026-05-08T21:35:00+00:00
+last_deep_review: 2026-05-08T21:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +69,7 @@ Spontaneous OBEs are more heterogeneous and harder to study. They occur in rough
 
 Spontaneous OBEs in healthy populations rarely include claims of veridical perception. Experiencers typically report an apparent external perspective on their own bedroom or the local environment, but the perceived contents tend to match what they already know about the space. This is consistent with the self-model account: the brain constructs the external perspective from existing spatial knowledge, and the contents reflect that knowledge rather than independent perception.
 
-The interesting subset is those who report perceptions from the OBE perspective that they could not have known by ordinary means. Spontaneous OBE veridical claims are common in the older parapsychological literature (Hart, 1954; Crookall's case collections), but are vulnerable to retrospective confabulation, leakage of information by ordinary channels, and selection effects. The controlled-condition replication of such claims is the empirical question that matters; that work has happened mainly in the near-death context.
+The interesting subset is those who report perceptions from the OBE perspective that they could not have known by ordinary means. Such claims appear regularly in the older parapsychological literature, but are vulnerable to retrospective confabulation, leakage of information by ordinary channels, and selection effects. The controlled-condition replication of such claims is the empirical question that matters; that work has happened mainly in the near-death context.
 
 ## Near-Death OBEs and the Veridical Perception Question
 
@@ -134,6 +135,7 @@ None of these would be definitive on their own, but each would shift the evident
 - [[somatic-interface]] — How the body figures in conscious experience under interactionist dualism
 - [[self-and-self-consciousness]] — The phenomenal self-model and its relation to consciousness
 - [[psychedelics-and-the-filter-model]] — Drug-induced OBEs and the broader filter argument
+- [[altered-states-as-interface-evidence]] — How OBEs sit within the wider altered-state evidence base for the interface reading
 - [[tenets]] — The framework these findings inform
 
 ## References

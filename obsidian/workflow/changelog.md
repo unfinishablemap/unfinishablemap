@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T21:06:00+00:00
+ai_modified: 2026-05-08T21:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 21:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/out-of-body-experiences]]
+- **Word count**: 2777 → 2786 (+9; length-neutral mode at 93% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (removed bare-citation defect for Hart 1954/Crookall; added apex cross-link to [[altered-states-as-interface-evidence]])
+- **Enhancements made**: 2 (scholarly-hygiene fix; apex integration)
+- **Mode classifications**: engagement with the mechanism-to-dismissal inference: Mode One (defective on its own terms via parallel-case reasoning); engagement with the strong embodiment thesis: Mode One; engagement with materialist dismissal of NDE-OBE veridical claims: Mode Three (boundary marking — accepts AWARE nulls as evidence against the literal-exit reading)
+- **Convergence**: First review found no critical issues; article is evidence-calibrated and source-faithful. Stability notes recorded for bedrock disagreements (eliminative materialism, Buddhist self-rejection) so future reviews do not re-flag
+- **Output**: [[reviews/deep-review-2026-05-08-out-of-body-experiences]]
 
 ## 2026-05-08 21:06 UTC - research-topic
 - **Status**: Success
