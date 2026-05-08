@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T16:07:00+00:00
+ai_modified: 2026-05-08T16:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 16:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Synaesthesia (concrete-phenomenon source article for phenomenal-variation-within-a-species apex)
+- **Output**: [[topics/synaesthesia]]
+- **Word count**: 2435 (81% of 3000 soft threshold; ok status)
+- **Based on research**: yes — `[[research/voids-synesthetic-void-2026-02-23]]` plus existing Map material (`voids/synesthetic-void`, `concepts/phenomenology-vs-function-axis`, `topics/aphantasia`) and external sources (Galton 1880; Baron-Cohen/Wyke/Binnie 1987; Cytowic & Eagleman 2009; Dixon et al. 2000; Mattingley et al. 2001; Ramachandran & Hubbard 2001; Hubbard & Ramachandran 2005; MacPherson 2007; Wager 1999/2001; Gray 2003; Simner et al. 2006; Simner & Logan 2010; Asher et al. 2009; Tilot et al. 2018; Maurer & Mondloch 2005; Spector & Maurer 2009; Bor et al. 2014; van Leeuwen et al. 2015)
+- **Notes**: Topic-tier subject explainer complementing the abstract `voids/synesthetic-void` treatment and pairing with `topics/aphantasia` as the matched within-species divergence cluster. Phenomenon-first structure: lived report → typology (six forms) → history (Galton → behaviourist eclipse → behavioural-consistency rehabilitation → Hubbard fMRI) → empirical signatures (MacPherson extraordinary feature, neonatal hypothesis, trainability, semantic mediation) → function-phenomenology wedge (Wager extra qualia, Gray dual dissociation) → joint-puzzle framing with aphantasia → interface-vs-substrate Map reading flagged as speculative-integration tier. Two self-citations (synesthetic-void, phenomenology-vs-function-axis). Apex `phenomenal-variation-within-a-species` source-article slot now filled (entry #23, P1 apex-evolve task already queued at todo.md line 367 — does not need re-adding).
 
 ## 2026-05-08 16:07 UTC - deep-review
 - **Status**: Success
