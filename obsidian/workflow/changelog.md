@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T14:35:00+00:00
+ai_modified: 2026-05-08T15:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 15:09 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Aphantasia (concrete-phenomenon source article for phenomenal-variation-within-a-species apex)
+- **Output**: [[topics/aphantasia]]
+- **Word count**: 2266 (76% of 3000 soft threshold; ok status)
+- **Based on research**: no — built from existing Map material (`voids/imagery-void.md`, `concepts/phenomenology-vs-function-axis.md`, `concepts/mental-imagery.md`) and external sources (Galton 1880; Zeman 2010, 2015, 2024; Kay/Keogh/Pearson 2024; Wicken/Keogh/Pearson 2021; Dawes et al. 2020; Larner 2024; Lennon 2023; Nanay/Scholz 2025 *Mind & Language* exchange)
+- **Notes**: Topic-tier subject explainer complementing the abstract `voids/imagery-void` treatment. Phenomenon-first structure: lived report → history (Galton → Würzburg → MX) → empirical signatures (skin conductance, mental rotation, neural connectivity, autobiographical memory) → cognitive equivalence trichotomy → within-species-divergence framing. Two self-citations (imagery-void, phenomenology-vs-function-axis). P2 apex-evolve task added for entry #23.
 
 ## 2026-05-08 14:35 UTC - pessimistic-review
 - **Status**: Success
