@@ -4,7 +4,7 @@ description: "Placebo and nocebo effects demonstrate that beliefs and expectatio
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-27T11:28:00+00:00
+ai_modified: 2026-05-08T10:24:35.008140+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,9 +35,20 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-04-27T11:28:00+00:00
+embedded_videos:
+  - id: H3WzrTowuDQ
+    url: https://www.youtube-nocookie.com/embed/H3WzrTowuDQ
+    embedded: 2026-05-08T10:24:35.008140+00:00
+    source: notebooklm/0051-01-placebo-effect-and-mental-causation
 ---
 
 The placebo effect — measurable physiological improvement from inert treatments — provides some of the strongest empirical evidence for [[mental-causation-and-downward-causation|mental causation]]. When a sugar pill reduces pain, releases dopamine, or modulates immune function, beliefs and expectations are producing physical changes in the body. The Unfinishable Map argues that this evidence is particularly challenging for [[concepts/epiphenomenalism]] because the *content* of the belief matters: believing a pill is a painkiller produces analgesia, while believing it is a stimulant produces arousal. Propositional attitudes — not just neural patterns — appear to be doing causal work.
+
+<details class="yt-embed" data-video-id="H3WzrTowuDQ">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/H3WzrTowuDQ">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Beyond the Folk Understanding
 
