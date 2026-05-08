@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T09:19:00+00:00
+ai_modified: 2026-05-08T09:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 09:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cetacean-and-corvid-consciousness]]
+- **Cross-review context**: considering insights from [[interface-efficacy-and-the-cognitive-gap]]
+- **Word count**: 3235 → 3364 (+129; 112% of 3000 soft threshold, well below 4000 hard threshold)
+- **Critical issues addressed**: 0 — no factual errors, attribution errors, dropped qualifiers, source/Map conflation, or possibility/probability slippage. The Hardline Empiricist diagnostic test was applied to the proposed cross-references: would a tenet-accepting reviewer flag the interface-efficacy cross-link as elevating cetacean/corvid evidential standing? The cross-link was structured to refuse this elevation — interface-efficacy explicitly placed at *speculative integration*, strictly below the article's existing *realistic possibility, contested* tier label, with explicit "do not elevate the cetacean evidential calibration" clause inserted in the cetacean-section addition.
+- **Medium issues addressed**: 3 — (1) Missing reciprocal cross-link to [[interface-efficacy-and-the-cognitive-gap]]: added to `related_articles` frontmatter, body (twice), and Further Reading. The interface-efficacy article cites this article as one of "the two clade-level outliers most pointed at the brain-side reading and most absorbable by the interface-efficacy reframe"; reciprocal linking was overdue. (2) "Varying interface bandwidth" mention underspecified: updated the Degrees of Amplification closing paragraph to specify all four interface-efficacy axes (bandwidth, fidelity, granularity, candidate-type coupling), distinguished interface-heterogeneity (kind) from interface-efficacy (grade), and added the consciousness-presence/cognitive-reach decoupling sentence that is the most distinctive move in the interface-efficacy reframe. (3) Cetacean cortical-neuron parity (Roth & Dicke 2005) unmentioned despite being a load-bearing fact for the article's own thesis: added in "Why These Lineages Matter" with explicit *speculative integration* placement of interface-efficacy alternatives.
+- **Enhancements made**: 4 — cetacean cortical-neuron-parity fact (Roth & Dicke 2005); four-axis interface-efficacy specification with decoupling sentence; Tool Use paragraph tightened (duplicate "standardised designs" removed); MQI tenet section tightened (redundant decoherence clause merged with body cross-link).
+- **Reasoning-mode classifications**: no new named-opponent engagements introduced; 2026-05-04 classifications carry forward unchanged. Materialist (Neural Architecture Challenge): Mode Mixed; foundational-move identification + bedrock residue named honestly. Epiphenomenalism (Convergent Evolution + BI tenet): Mode Three (framework-boundary marking) with genuine evolutionary argument routed elsewhere. MWI defender (No Many Worlds tenet): Mode Three; MWI's internal reply named, Map's tenet exclusion explicitly flagged. Label-leakage check: grep for editor-vocabulary terms returned no matches.
+- **Attribution check**: all 17 original citations preserved with original attributions intact; one new citation (Roth & Dicke 2005) added for the cortical-neuron-parity claim, attributed correctly to the standard Trends in Cognitive Sciences source. No misattributions, dropped qualifiers, overstated positions, source/Map conflation, or self-contradiction introduced. Interface-efficacy cross-references framed as Map-internal cross-links, not source claims.
+- **Stability**: Fifth deep review on this article; structurally an integration pass rather than re-litigation. The 2026-05-04 stability declaration carries forward; the article's evidential calibration (cetaceans/corvids at *realistic possibility, contested*; amplification hypothesis at *live hypothesis*; interface-efficacy reframe at *speculative integration*) is preserved exactly. Re-opening triggered only by the appropriate condition: a sibling article (interface-efficacy-and-the-cognitive-gap) was created since the previous review and its framework named cetaceans/corvids as primary test cases. Future reviews should not re-flag bedrock disagreements (eliminative materialist labels, MWI branch-relative selection, epiphenomenalist convergent-emergence) and should not attempt to upgrade interface-efficacy from speculative integration without new evidence specifically addressing the cognition→experience inference.
+- **Output**: [[reviews/deep-review-2026-05-08-cetacean-and-corvid-consciousness]]
 
 ## 2026-05-08 09:19 UTC - deep-review
 - **Status**: Success
