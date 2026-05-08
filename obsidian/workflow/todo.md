@@ -37,21 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update inbound wikilinks for coalesced empirical-phenomena-mental-causation
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: 2026-05-08 coalesce merged `placebo-effect-and-mental-causation` and `choking-phenomenon-mental-causation` into `empirical-phenomena-mental-causation`. Archive preserves the original URLs, so external links keep working. But ~30 active content files cross-reference the source slugs. Many of these links should be redirected to the new joint article where the joint framing fits better, while some that specifically need just the placebo case or just the choking case can keep pointing at the archived originals (the archive page surfaces the redirect notice). Files to review: apex/phenomenology-mechanism-bridge.md, topics/{phenomenology-of-agency-vs-passivity, the-epiphenomenalist-threat, clinical-neuroplasticity-evidence-for-bidirectional-causation, phenomenology-of-trust, temporal-consciousness-structure-and-agency, pain-consciousness-and-causal-power, predictive-processing-and-dualism, phenomenology-of-cognitive-capacity, embodied-consciousness, clinical-evidence-quality-standards-consciousness-research, sensorimotor-contingencies-and-the-interface, phenomenology-of-deliberation-under-uncertainty, consciousness-and-memory, surprise-prediction-error-and-consciousness, consciousness-and-the-phenomenology-of-constraint-satisfaction, consciousness-and-skill-acquisition}, voids/{expertise-and-its-occlusion, recognition-void}, concepts/{direction-of-fit, bidirectional-interaction, embodied-cognition, spontaneous-intentional-action, mental-causation-and-downward-causation, temporal-consciousness, pain-asymbolia, content-specificity-of-mental-causation, physics-as-disclosure, skill-delegation, implicit-memory}.
-- **Source**: coalesce 2026-05-08
-- **Generated**: 2026-05-08
-
-### P2: Research out-of-body experiences for OBE topic article
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Chain seed for the P1 expand-topic above. Survey: Blanke (2002, 2004) TPJ electrical induction studies; Ehrsson (2007) full-body illusion paradigm; Lenggenhager (2007); AWARE II 2023 (Parnia et al.) cardiac-arrest prospective study; van Lommel (2001) *Lancet*; Holden (2009) handbook of NDE/OBE chapters; the autoscopic phenomena literature (Brugger, Blanke); spontaneous-OBE survey data (Alvarado 2000 review); cross-cultural distribution (Sheils 1978; Bourguignon); predictive-processing reductive accounts (Seth on minimal selfhood; Metzinger's *Being No One* OBE chapter); Augustine/Fischer sceptical responses; Fenwick on cardiac-arrest cases. Distinguish core phenomenology (subject perspective relocated outside body; body seen from external viewpoint) from rarer/contested associated claims (verifiable veridical perception during cardiac arrest). Honour `[[evidential-status-discipline]]` — separate empirically replicated TPJ-induction findings from contested cardiac-arrest veridicality claims. Output: research note in `obsidian/research/` to seed the P1 expand-topic. Tenet alignment: Tenet 1 + Tenet 3 + methodological. See YouTube-guidance-2026-05-08.
-- **Output**: research note seeding topics/out-of-body-experiences
-- **Source**: youtube-guidance-2026-05-08
-- **Generated**: 2026-05-08
-
 ### P2: Research phantom limb phenomena for phantom-limb topic article
 - **Type**: research-topic
 - **Status**: pending
@@ -3427,6 +3412,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-08: Update inbound wikilinks for coalesced empirical-phenomena-mental-causation
+- **Type**: cross-review
+- **Notes**: 2026-05-08 coalesce merged `placebo-effect-and-mental-causation` and `choking-phenomenon-mental-causation` into `empirical-phenomena-mental-causation`. Archive preserves the original URLs, so external links keep working. But ~30 active content files cross-reference the source slugs. Many of these links should be redirected to the new joint article where the joint framing fits better, while some that specifically need just the placebo case or just the choking case can keep pointing at the archived originals (the archive page surfaces the redirect notice). Files to review: apex/phenomenology-mechanism-bridge.md, topics/{phenomenology-of-agency-vs-passivity, the-epiphenomenalist-threat, clinical-neuroplasticity-evidence-for-bidirectional-causation, phenomenology-of-trust, temporal-consciousness-structure-and-agency, pain-consciousness-and-causal-power, predictive-processing-and-dualism, phenomenology-of-cognitive-capacity, embodied-consciousness, clinical-evidence-quality-standards-consciousness-research, sensorimotor-contingencies-and-the-interface, phenomenology-of-deliberation-under-uncertainty, consciousness-and-memory, surprise-prediction-error-and-consciousness, consciousness-and-the-phenomenology-of-constraint-satisfaction, consciousness-and-skill-acquisition}, voids/{expertise-and-its-occlusion, recognition-void}, concepts/{direction-of-fit, bidirectional-interaction, embodied-cognition, spontaneous-intentional-action, mental-causation-and-downward-causation, temporal-consciousness, pain-asymbolia, content-specificity-of-mental-causation, physics-as-disclosure, skill-delegation, implicit-memory}.
+- **Output**: None -- Context: Update inbound wikilinks for coalesced empirical-phenomena-mental-causation
 
 ### ✓ 2026-05-08: Research déjà vu, jamais vu, and cryptomnesia for memory-anomalies topic article
 - **Type**: research-topic

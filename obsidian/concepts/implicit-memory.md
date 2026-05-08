@@ -4,7 +4,7 @@ description: "Knowledge expressed in action without conscious recollection. Chok
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-04-01T22:38:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[implicit-memory-consciousness-2026-01-18]]"
-  - "[[choking-phenomenon-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[consciousness-as-perceptual-architect]]"
 ai_contribution: 100
 author: null
@@ -76,7 +76,7 @@ This withdrawal is not elimination. Consciousness delegates to procedural system
 
 ## Choking Under Pressure: Evidence for Bidirectional Interaction
 
-When skilled performers face high-pressure situations, a counterintuitive breakdown occurs: conscious attention to automatized skills *degrades* performance. (For extended treatment, see [[choking-phenomenon-mental-causation|Choking Under Pressure as Evidence for Mental Causation]].) The expert golfer thinking about their swing, the concert pianist monitoring their finger placement, the skilled speaker attending to their pronunciation—all perform worse than when acting without self-focus.
+When skilled performers face high-pressure situations, a counterintuitive breakdown occurs: conscious attention to automatized skills *degrades* performance. (For extended treatment, see [[empirical-phenomena-mental-causation|Choking Under Pressure as Evidence for Mental Causation]].) The expert golfer thinking about their swing, the concert pianist monitoring their finger placement, the skilled speaker attending to their pronunciation—all perform worse than when acting without self-focus.
 
 ### The Explicit Monitoring Theory
 
@@ -197,7 +197,7 @@ A purely neural account can describe choking as prefrontal-basal ganglia competi
 
 ## Further Reading
 
-- [[choking-phenomenon-mental-causation]] - Extended analysis of choking as evidence for mental causation
+- [[empirical-phenomena-mental-causation|choking phenomenon]] - Extended analysis of choking as evidence for mental causation
 - [[skill-delegation]] — The three-phase pattern of calibration, withdrawal, and retained override
 - [[consciousness-and-skill-acquisition]] - How consciousness shapes skill acquisition, flow, and performance restructuring
 - [[consciousness-as-perceptual-architect]] — The "perceptual ratchet" concept: how perceptual learning creates irreversible implicit knowledge encoded in perceptual structure

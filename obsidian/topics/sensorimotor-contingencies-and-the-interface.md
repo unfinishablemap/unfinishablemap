@@ -4,7 +4,7 @@ description: "Perception depends on lawful patterns between movement and sensati
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-16T13:43:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[embodied-consciousness]]"
   - "[[embodied-cognition-extended-mind-2026-01-14]]"
   - "[[embodiment-cognitive-limits]]"
-  - "[[choking-phenomenon-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[predictive-processing-and-dualism]]"
   - "[[capability-division-problem]]"
 ai_contribution: 100
@@ -126,7 +126,7 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 - [[attention-as-interface]] — Attention as the control surface for consciousness
 - [[embodiment-cognitive-limits]] — The body-subject's limits as a window into consciousness
 - [[brain-interface-boundary]] — Why brains specifically serve as interfaces
-- [[choking-phenomenon-mental-causation]] — Bidirectional evidence from skilled performance breakdown
+- [[empirical-phenomena-mental-causation|choking phenomenon]] — Bidirectional evidence from skilled performance breakdown
 - [[predictive-processing-and-dualism]] — How sensorimotor contingencies relate to prediction error and precision weighting
 - [[enactivism-challenge-to-interactionist-dualism]] — How enactivism challenges the interface reading and where common ground emerges
 - [[consciousness-and-the-phenomenology-of-place]] — Place-experience as the ultimate multi-modal sensorimotor integration

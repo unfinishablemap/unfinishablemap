@@ -4,13 +4,13 @@ description: "Cognitive overload and automatisation reveal consciousness as a ba
 created: 2026-02-15
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-26T04:01:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[free-will]]"
-  - "[[choking-phenomenon-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[mental-effort]]"
@@ -109,7 +109,7 @@ The phenomenology of cognitive capacity — both its limits and how automatisati
 
 ## The Reversal Problem
 
-Automatisation is not strictly one-directional. Skills can de-automatise through disuse, injury, or the [[choking-phenomenon-mental-causation|choking phenomenon]]. The phenomenology of de-automatisation is revealing.
+Automatisation is not strictly one-directional. Skills can de-automatise through disuse, injury, or the [[empirical-phenomena-mental-causation|choking phenomenon]]. The phenomenology of de-automatisation is revealing.
 
 When a previously automatic skill re-enters consciousness, the experience is distinctly unpleasant. The skill feels clumsy, fragmented, and effortful beyond simple ability degradation. There is a phenomenological *mismatch*: consciousness is re-engaging with neural systems that have been restructured for automatic operation.
 
@@ -148,7 +148,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 - [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]] — The effort of reasoning itself, complementing the capacity constraints explored here
 - [[skill-delegation]] — The three-phase delegation pattern underlying the withdrawal phenomenology described here
 - [[consciousness-and-skill-acquisition]] — How consciousness participates in skilled action, including the opposite experiential pole of effortless flow
-- [[choking-phenomenon-mental-causation]] — When conscious re-entry disrupts automated performance
+- [[empirical-phenomena-mental-causation|choking phenomenon]] — When conscious re-entry disrupts automated performance
 - [[phenomenology-of-returning-attention]] — What it is like to redirect cognitive resources after distraction
 - [[working-memory]] — The cognitive architecture that capacity phenomenology reveals from inside
 - [[cognitive-phenomenology]] — Whether thinking has phenomenal character independent of sensory accompaniments

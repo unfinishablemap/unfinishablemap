@@ -4,7 +4,7 @@ description: "Three converging clinical evidence streams—OCD neuroplasticity, 
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-04-16T17:40:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[content-specificity-of-mental-causation]]"
   - "[[consciousness-selecting-neural-patterns]]"
 related_articles:
-  - "[[placebo-effect-and-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[empirical-evidence-for-consciousness-selecting]]"
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
@@ -82,7 +82,7 @@ The meditation evidence no longer serves as an independent pillar for structural
 
 ## Placebo-Stimulated Neuroplasticity
 
-The [[placebo-effect-and-mental-causation|placebo effect]] provides a particularly compelling case because the causal agent is a belief state—propositional mental content about expected therapeutic benefit—rather than any physical intervention.
+The [[empirical-phenomena-mental-causation|placebo effect]] provides a particularly compelling case because the causal agent is a belief state—propositional mental content about expected therapeutic benefit—rather than any physical intervention.
 
 A 2024 paper proposes the "Neuroplasticity Placebo Theory," arguing that placebo effects are not passive expectation artifacts but active interventions associated with neuroplasticity (Marueckova et al., 2024). EMBARC studies provide empirical support: belief and expectation recruit opioid and dopamine systems and are associated with measurable neural changes, though the specific methodological quality of placebo neuroplasticity claims deserves the same scrutiny now applied to meditation structural findings. Placebo analgesia involves a descending pain-modulation network spanning the dorsolateral prefrontal cortex, rostral anterior cingulate cortex, and periaqueductal grey.
 
@@ -120,7 +120,7 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 
 ## Further Reading
 
-- [[placebo-effect-and-mental-causation]]
+- [[empirical-phenomena-mental-causation|placebo effect]]
 - [[empirical-evidence-for-consciousness-selecting]]
 - [[evolutionary-case-for-mental-causation]]
 - [[contemplative-practice-as-philosophical-evidence]]

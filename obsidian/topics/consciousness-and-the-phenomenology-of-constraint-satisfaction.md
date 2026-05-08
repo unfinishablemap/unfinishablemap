@@ -4,7 +4,7 @@ description: "Constraint satisfaction has distinctive phenomenal character — t
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-26T20:37:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-cognitive-capacity]]"
@@ -17,7 +17,7 @@ related_articles:
   - "[[bandwidth-of-consciousness]]"
   - "[[predictive-processing-and-dualism]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
-  - "[[choking-phenomenon-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[volitional-control]]"
   - "[[consciousness-and-causal-powers]]"
@@ -84,7 +84,7 @@ Partial satisfaction also produces a distinctive residual phenomenology. After a
 
 The [[phenomenology-of-cognitive-capacity|phenomenology of cognitive capacity]] reveals a critical boundary in constraint satisfaction: as constraint patterns become familiar, consciousness withdraws from active engagement. An experienced driver navigates the constraints of traffic flow without the felt tension a learner experiences. A fluent speaker satisfies grammatical constraints without phenomenal effort.
 
-This withdrawal is asymmetric, tracking the same [[phenomenology-of-agency-vs-passivity|agency-passivity distinction]] that structures volitional experience generally. Consciousness readily delegates familiar constraint patterns to unconscious processing, but re-engaging with automatised constraints — as in the [[choking-phenomenon-mental-causation|choking phenomenon]] — produces interference rather than enhancement. The expert golfer who consciously monitors their swing's constraints performs *worse* than one who lets automatised processing handle them.
+This withdrawal is asymmetric, tracking the same [[phenomenology-of-agency-vs-passivity|agency-passivity distinction]] that structures volitional experience generally. Consciousness readily delegates familiar constraint patterns to unconscious processing, but re-engaging with automatised constraints — as in the [[empirical-phenomena-mental-causation|choking phenomenon]] — produces interference rather than enhancement. The expert golfer who consciously monitors their swing's constraints performs *worse* than one who lets automatised processing handle them.
 
 This asymmetry has implications for the Map's framework. If consciousness were merely observing constraint satisfaction, re-engagement should be neutral — watching doesn't interfere. If consciousness were the sole processor, withdrawal should be impossible — there would be no other system to delegate to. The pattern — active engagement during learning, delegation during mastery, interference during re-engagement — matches the [[control-theoretic-will|control-theoretic]] prediction: consciousness is a genuine causal agent whose intervention is appropriate during novel constraint navigation but counterproductive when applied to already-optimised processes. This three-phase pattern is one strand of the broader evidence that [[consciousness-and-causal-powers|consciousness has genuine causal powers]] — the constraint domain makes the causal contribution particularly vivid because the quality of solutions degrades measurably when conscious engagement is either absent (novel problems handled by rote) or excessive (expert performance disrupted by attention).
 
@@ -109,7 +109,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 - [[phenomenology-of-choice-and-volition]]
 - [[control-theoretic-will]]
 - [[phenomenology-of-deliberation-under-uncertainty]]
-- [[choking-phenomenon-mental-causation]]
+- [[empirical-phenomena-mental-causation|choking phenomenon]]
 - [[predictive-processing-and-dualism]]
 - [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]]
 - [[phenomenology-of-agency-vs-passivity]]

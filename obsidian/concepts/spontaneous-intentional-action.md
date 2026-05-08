@@ -4,7 +4,7 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -49,7 +49,7 @@ The Unfinishable Map's framework of [[agent-causation|agent causation]] through 
 
 Spontaneous intentional actions are distinguished from neighbouring categories by what they include and exclude:
 
-**Not habitual.** Habits are automatic, stereotyped, and context-triggered. Tying your shoelaces the same way every morning is habitual. [[implicit-memory|Automatised skills]] run without conscious contribution, and the [[choking-phenomenon-mental-causation|choking phenomenon]] shows that conscious re-engagement actually disrupts them. Spontaneous intentional actions are different: they are novel or context-sensitive responses that could not have been produced by a fixed motor programme.
+**Not habitual.** Habits are automatic, stereotyped, and context-triggered. Tying your shoelaces the same way every morning is habitual. [[implicit-memory|Automatised skills]] run without conscious contribution, and the [[empirical-phenomena-mental-causation|choking phenomenon]] shows that conscious re-engagement actually disrupts them. Spontaneous intentional actions are different: they are novel or context-sensitive responses that could not have been produced by a fixed motor programme.
 
 **Not deliberate.** Deliberate choice involves weighing options, feeling the [[phenomenology-of-choice-and-volition|weight of alternatives]], and experiencing the settling moment when one option becomes actual. Spontaneous intentional actions skip this arc. There is no felt deliberation, no comparison of alternatives, no effortful resolution. In Searle's (1983) terms, they have *intention-in-action* without a preceding *prior intention*—the intentional content is present in the doing itself, not formulated beforehand.
 

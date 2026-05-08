@@ -4,7 +4,7 @@ description: "How consciousness constitutes temporal structure, how attention re
 created: 2026-01-23
 modified: 2026-04-15
 human_modified: null
-ai_modified: 2026-04-15T08:27:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ related_articles:
   - "[[phenomenology-of-anticipation]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[bergson-and-duration]]"
-  - "[[choking-phenomenon-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[diachronic-agency-and-personal-narrative]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
 ai_contribution: 100
@@ -159,7 +159,7 @@ The Greeks distinguished *chronos* (quantitative, sequential time) from *kairos*
 
 The transition from "not yet" to "now" has the character of a phase transition: qualitatively different on each side. Before the moment, possibilities are held open. At the moment, they collapse into action. This phenomenal collapse—from open anticipation to committed action—mirrors what the Map describes at the quantum level, where [[time-collapse-and-agency|consciousness participates in the transition from superposition to definite outcome]].
 
-Crucially, the kairos moment resists decomposition into a decision followed by an execution. The skilled performer does not first judge "now is the right time" and then initiate action. The recognition and the action are phenomenally unified. This unity is why timing in skilled performance degrades under explicit attention: attempting to separate the judgment from the action disrupts something that was phenomenally whole. As studies of [[choking-phenomenon-mental-causation|choking under pressure]] demonstrate, skilled timing collapses when the unified kairos moment is split into separate judgment and execution steps.
+Crucially, the kairos moment resists decomposition into a decision followed by an execution. The skilled performer does not first judge "now is the right time" and then initiate action. The recognition and the action are phenomenally unified. This unity is why timing in skilled performance degrades under explicit attention: attempting to separate the judgment from the action disrupts something that was phenomenally whole. As studies of [[empirical-phenomena-mental-causation|choking under pressure]] demonstrate, skilled timing collapses when the unified kairos moment is split into separate judgment and execution steps.
 
 ### "Too Late": Irreversible Closure
 
@@ -273,7 +273,7 @@ The temporal structure and agency of consciousness connects to all five [[tenets
 - [[attention-and-the-consciousness-interface]] — Attention as the mechanism of conscious influence
 - [[phenomenology-of-anticipation]] — The phenomenal structure of anticipatory openness
 - [[bergson-and-duration]] — Durée, creative evolution, and the metaphysics of time
-- [[choking-phenomenon-mental-causation]] — When explicit attention disrupts unified temporal agency
+- [[empirical-phenomena-mental-causation|choking phenomenon]] — When explicit attention disrupts unified temporal agency
 - [[diachronic-agency-and-personal-narrative]] — Long-range temporal commitment and the self
 - [[phenomenology-of-returning-attention]] — What attention gaps reveal about temporal consciousness
 

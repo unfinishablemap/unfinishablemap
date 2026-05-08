@@ -4,7 +4,7 @@ description: "Surprise requires phenomenal consciousness—not just prediction e
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-05-01T11:26:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[structure-of-attention]]"
   - "[[emotion-and-dualism]]"
-  - "[[choking-phenomenon-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[self-opacity]]"
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
@@ -205,7 +205,7 @@ Surprise connects to The Unfinishable Map's [[tenets]] at multiple points.
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive function
 - [[concepts/epiphenomenalism]] — The view that consciousness does not cause anything
 - [[evolutionary-case-for-mental-causation]] — Why natural selection implies mental causation
-- [[choking-phenomenon-mental-causation]] — Another case against epiphenomenalism
+- [[empirical-phenomena-mental-causation|choking phenomenon]] — Another case against epiphenomenalism
 - [[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]] — How consciousness enables creative distinctiveness
 - [[consciousness-and-mathematics]] — Surprise and insight in mathematics
 - [[creative-aesthetic-void]] — The boundary of what minds can generate

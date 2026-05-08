@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own r
 created: 2026-03-22
 modified: 2026-05-02
 human_modified:
-ai_modified: 2026-05-02T10:53:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 last_deep_review: 2026-05-02T06:55:00+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[the-quantitative-comprehension-void]]"
   - "[[disappearance-voids]]"
   - "[[three-kinds-of-void]]"
-  - "[[placebo-effect-and-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[what-voids-reveal]]"
   - "[[noetic-feelings-void]]"
   - "[[relevance-void]]"
@@ -117,7 +117,7 @@ The Recognition Void engages multiple [[tenets]].
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives powerful support. The Recognition Void explains *why* parsimony fails as a decisive criterion: parsimony selects among conceived alternatives, but the space of unconceived alternatives may be vast. Our sense that physicalism offers the simplest account of consciousness may itself reflect a recognition void — the concepts needed to see beyond the physical may be absent from our cognitive architecture. Inventory blindness strengthens the [[what-voids-reveal|convergence argument]]: if absent cognitive capabilities produce no signal, then the independent convergence of multiple void families on the consciousness-physics interface is stronger evidence than any single failure, because we cannot dismiss what we cannot detect missing.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds an unexpected connection. If the point where physical pattern-matching becomes phenomenal knowing-as is where consciousness meets the physical world, then the Recognition Void and the [[causal-interface|Causal Interface Void]] may be aspects of the same fundamental opacity. What you recognise something *as* shapes how you respond to it — and the phenomenal component of that recognition may play an irreducible causal role. The [[placebo-effect-and-mental-causation|placebo effect]] is consistent with this reading: the same inert pill produces different physiological cascades depending on what the subject believes it to be. Whether the *phenomenal* content (rather than the neural correlate of expectation alone) does the causal work is exactly the contested question the dedicated placebo article must argue; the recognition void only notes the convergence point.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds an unexpected connection. If the point where physical pattern-matching becomes phenomenal knowing-as is where consciousness meets the physical world, then the Recognition Void and the [[causal-interface|Causal Interface Void]] may be aspects of the same fundamental opacity. What you recognise something *as* shapes how you respond to it — and the phenomenal component of that recognition may play an irreducible causal role. The [[empirical-phenomena-mental-causation|placebo effect]] is consistent with this reading: the same inert pill produces different physiological cascades depending on what the subject believes it to be. Whether the *phenomenal* content (rather than the neural correlate of expectation alone) does the causal work is exactly the contested question the dedicated placebo article must argue; the recognition void only notes the convergence point.
 
 ## Further Reading
 
@@ -128,7 +128,7 @@ The Recognition Void engages multiple [[tenets]].
 - [[binding-void]]
 - [[non-human-minds-as-void-explorers]]
 - [[three-kinds-of-void]]
-- [[placebo-effect-and-mental-causation]] — Where the contested question of whether phenomenal content (rather than neural expectation alone) does the causal work is argued in its own right
+- [[empirical-phenomena-mental-causation|placebo effect]] — Where the contested question of whether phenomenal content (rather than neural expectation alone) does the causal work is argued in its own right
 - [[what-voids-reveal]] — How inventory blindness strengthens the abductive argument from void convergence
 - [[noetic-feelings-void]] — The felt-signal family that recognition's affective component belongs to
 - [[aspect-perception-void]] — Sister case: seeing-as with a felt "lighting up" event whose substrate is opaque, parallel to recognition's edge phenomena

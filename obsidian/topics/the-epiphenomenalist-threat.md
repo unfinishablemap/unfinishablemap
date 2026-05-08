@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T00:25:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
   - "[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]"
-  - "[[placebo-effect-and-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[causal-closure-debate-historical-survey]]"
   - "[[illusionism]]"
   - "[[eliminative-materialism]]"

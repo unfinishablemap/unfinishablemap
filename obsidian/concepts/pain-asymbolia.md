@@ -4,7 +4,7 @@ description: "Pain asymbolia dissociates nociceptive sensation from affective su
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-23T13:34:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -99,7 +99,7 @@ Together, these dissociations show that pain's dimensions can be independently m
 - [[qualia]] — The qualitative character of experience
 - [[explanatory-gap]] — The gap between physical description and phenomenal reality
 - [[mental-causation-and-downward-causation|mental causation]] — How mind influences matter
-- [[placebo-effect-and-mental-causation]] — Another route to dissociating pain's dimensions
+- [[empirical-phenomena-mental-causation|placebo effect]] — Another route to dissociating pain's dimensions
 - [[blindsight]] — A parallel clinical dissociation supporting dualism
 - [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy
 - [[valence-and-conscious-selection]] — How asymbolia evidence bears on whether valence participates in selection

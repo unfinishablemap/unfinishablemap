@@ -4,7 +4,7 @@ description: "Trust has a distinctive felt character that information processing
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-30T14:16:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 last_deep_review: 2026-04-30T14:16:00+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[emotion-and-dualism]]"
   - "[[machine-consciousness]]"
   - "[[phenomenology-of-moral-life]]"
-  - "[[choking-phenomenon-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -77,7 +77,7 @@ The phenomenology of trust is illuminated by its failure. Betrayal is not simply
 
 This asymmetry between trust and betrayal reveals something about consciousness. Building trust is gradual, requiring sustained phenomenal engagement — repeated encounters where the other person's behaviour is experienced as consistent with their perceived intentions. Betrayal destroys trust almost instantaneously. A single act can shatter years of accumulated openness.
 
-This asymmetry between gradual construction and rapid destruction under conscious influence appears in other domains. The [[choking-phenomenon-mental-causation|choking phenomenon]] exhibits a structural parallel: skilled performance builds gradually through sustained practice, yet conscious self-monitoring can destroy it almost instantaneously. In both cases, consciousness proves more potent as disruptor than as builder — a temporal signature that may reveal something fundamental about how conscious attention interacts with established patterns, whether those patterns are interpersonal (trust) or procedural (motor skill).
+This asymmetry between gradual construction and rapid destruction under conscious influence appears in other domains. The [[empirical-phenomena-mental-causation|choking phenomenon]] exhibits a structural parallel: skilled performance builds gradually through sustained practice, yet conscious self-monitoring can destroy it almost instantaneously. In both cases, consciousness proves more potent as disruptor than as builder — a temporal signature that may reveal something fundamental about how conscious attention interacts with established patterns, whether those patterns are interpersonal (trust) or procedural (motor skill).
 
 Computational models of reputation updating can account for some asymmetry — loss aversion and negativity bias predict that negative evidence will weigh more heavily than positive. But these models treat the asymmetry as a difference in magnitude: a larger update in the same currency of probability. The phenomenal devastation of betrayal is not a larger update. What is damaged is not an estimate but an orientation — a way of being conscious of another person that, once ruptured, cannot simply be rebuilt by accumulating new positive evidence. The qualitative character of betrayal — the felt violation, the rupture of interpersonal openness — resists capture as an extreme case of Bayesian updating, however asymmetrically weighted.
 
@@ -127,7 +127,7 @@ The [[tenets#^occams-limits|limits of Occam's Razor]] (Tenet 5) caution against 
 - [[phenomenology-of-moral-life]]
 - [[consciousness-and-testimony]]
 - [[consciousness-and-intersubjectivity]]
-- [[choking-phenomenon-mental-causation]] — The same rapid-destruction/gradual-construction asymmetry in the motor domain
+- [[empirical-phenomena-mental-causation|choking phenomenon]] — The same rapid-destruction/gradual-construction asymmetry in the motor domain
 - [[consciousness-and-moral-agency-under-duress]] — Consciousness under external constraint: the parallel case where duress compresses phenomenal space as high-stakes trust does
 
 ## References

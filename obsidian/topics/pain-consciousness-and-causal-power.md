@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal and epiphenomenalism made u
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-04-28T06:42:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[valence-void]]"
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[topics/phenomenal-value-realism]]"
-  - "[[placebo-effect-and-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[philosophical-zombies]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[the-epiphenomenalist-threat]]"
@@ -150,7 +150,7 @@ If the causal work is done entirely by neural patterns and phenomenal quality is
 
 The *anticipation* of pain — conscious dread of a future painful event — motivates behaviour before any nociceptive signal exists. A patient dreading a dental procedure changes behaviour for days: cancelling appointments, losing sleep, altering plans. No tissue damage has occurred. No C-fibres are firing. What drives the avoidance is a phenomenal state — the imagined awfulness of future pain.
 
-The [[placebo-effect-and-mental-causation|placebo effect]] demonstrates the complementary point. Expecting pain relief — a conscious belief about future phenomenal states — can produce measurable opioid release and genuine analgesia. The *expectation of how things will feel* causally influences physiology. This closed loop between phenomenal expectation and phenomenal outcome is exactly what interactionist dualism predicts.
+The [[empirical-phenomena-mental-causation|placebo effect]] demonstrates the complementary point. Expecting pain relief — a conscious belief about future phenomenal states — can produce measurable opioid release and genuine analgesia. The *expectation of how things will feel* causally influences physiology. This closed loop between phenomenal expectation and phenomenal outcome is exactly what interactionist dualism predicts.
 
 ## Why Pain Is the Hardest Case for Epiphenomenalism
 
@@ -185,7 +185,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [[emotion-and-dualism]] — Valence as an intrinsic property of experience
 - [[consciousness-and-causal-powers]] — The nature and scope of consciousness's causal role
 - [[evolutionary-case-for-mental-causation]] — Why evolution requires mental causation
-- [[placebo-effect-and-mental-causation]] — Content-specific beliefs causing physiological change
+- [[empirical-phenomena-mental-causation|placebo effect]] — Content-specific beliefs causing physiological change
 - [[topics/phenomenal-value-realism]] — How phenomenal properties ground objective value
 - [[mental-causation-and-downward-causation|mental causation]] — The problem of how mind influences matter
 - [[philosophical-zombies]] — The thought experiment that sharpens the bypass question

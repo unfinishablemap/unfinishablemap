@@ -4,7 +4,7 @@ description: "How deep expertise irreversibly transforms conscious experience an
 created: 2026-03-05
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-27T03:43:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 last_deep_review: 2026-04-27T03:43:00+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[acquaintance-void]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[consciousness-and-skill-acquisition]]"
-  - "[[choking-phenomenon-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[hoel-llm-consciousness-continual-learning]]"
   - "[[self-opacity]]"
   - "[[attention-and-consciousness]]"
@@ -66,7 +66,7 @@ Merleau-Ponty's phenomenology anticipated these findings. His concept of the *in
 
 ## The Lock: Reinvestment and Choking
 
-That consciousness withdraws from automated skill is uncontroversial—the procedural handoff mechanism is [[skill-delegation]], which [[delegatory-causation]] treats as the inverse direction of the Saad mechanism: experience delegating causal work to procedure rather than physical states delegating to experience. The void's distinctive claim is sharper: after this withdrawal, consciousness loses the ability to return without damaging the skill it once built. Preemption becomes structural, and the attempt at re-entry is the lock itself. Reinvestment theory provides the evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to [[choking-phenomenon-mental-causation|choking under pressure]]. The athlete who thinks about their swing misses the ball. The pianist who attends to their fingers stumbles. The expert cyclist who attends to their balance falls.
+That consciousness withdraws from automated skill is uncontroversial—the procedural handoff mechanism is [[skill-delegation]], which [[delegatory-causation]] treats as the inverse direction of the Saad mechanism: experience delegating causal work to procedure rather than physical states delegating to experience. The void's distinctive claim is sharper: after this withdrawal, consciousness loses the ability to return without damaging the skill it once built. Preemption becomes structural, and the attempt at re-entry is the lock itself. Reinvestment theory provides the evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to [[empirical-phenomena-mental-causation|choking under pressure]]. The athlete who thinks about their swing misses the ball. The pianist who attends to their fingers stumbles. The expert cyclist who attends to their balance falls.
 
 This goes beyond the gradual fading of an unused capacity. The barrier is *functional*: performance degrades whenever consciousness crosses it. Polanyi captured the structural reason in a single image: "You cannot use your spectacles to scrutinize your spectacles" (Polanyi, 1966). The instruments of tacit knowing cannot simultaneously serve as objects of knowing. Focus on the subsidiary and the integrated meaning dissolves.
 
@@ -141,7 +141,7 @@ It also parallels [[necessary-opacity]] at a structural level. Both voids treat 
 - [[consciousness-and-skill-acquisition]] — How the stages of skill acquisition challenge epiphenomenalism
 - [[skill-delegation]] — The three-phase process (calibration, withdrawal, retained override) that creates the void when withdrawal becomes irreversible
 - [[delegatory-causation]] — The inverse direction of the Saad mechanism: skill-delegation as experience preempting procedure
-- [[choking-phenomenon-mental-causation]] — Choking as evidence for mental causation and the lock in action
+- [[empirical-phenomena-mental-causation|choking phenomenon]] — Choking as evidence for mental causation and the lock in action
 - [[hoel-llm-consciousness-continual-learning]] — Why frozen-weight systems cannot replicate the void's irreversible transformation
 - [[disappearance-voids]] — The companion absorption, habituation, and fatigue mechanisms
 - [[biological-cognitive-closure]] — The developmental analogue: maturation as irreversible closure

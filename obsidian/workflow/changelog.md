@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T20:30:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 20:35 UTC - cross-review (coalesce follow-up)
+- **Status**: Success
+- **Task**: Update inbound wikilinks for coalesced [[topics/empirical-phenomena-mental-causation]]
+- **Files modified**: 30 active content files (1 apex, 16 topics, 11 concepts, 2 voids)
+- **Apex**: phenomenology-mechanism-bridge
+- **Topics**: surprise-prediction-error-and-consciousness, consciousness-and-skill-acquisition, phenomenology-of-trust, phenomenology-of-deliberation-under-uncertainty, the-epiphenomenalist-threat, consciousness-and-memory, pain-consciousness-and-causal-power, phenomenology-of-agency-vs-passivity, consciousness-and-the-phenomenology-of-constraint-satisfaction, embodied-consciousness, phenomenology-of-cognitive-capacity, predictive-processing-and-dualism, clinical-neuroplasticity-evidence-for-bidirectional-causation, sensorimotor-contingencies-and-the-interface, clinical-evidence-quality-standards-consciousness-research, temporal-consciousness-structure-and-agency
+- **Concepts**: direction-of-fit, bidirectional-interaction, spontaneous-intentional-action, embodied-cognition, mental-causation-and-downward-causation, skill-delegation, pain-asymbolia, temporal-consciousness, content-specificity-of-mental-causation, implicit-memory (physics-as-disclosure had only an HTML comment in an AI refinement log; left as historical record)
+- **Voids**: recognition-void, expertise-and-its-occlusion
+- **Approach**: Replaced wikilinks targeting `placebo-effect-and-mental-causation` and `choking-phenomenon-mental-causation` with `empirical-phenomena-mental-causation`, preserving the original display text where present (e.g. `[[…|placebo effect]]`, `[[…|choking phenomenon]]`) so context-specific phrasing survives. Bare links in "Further Reading" lists were given pipe display text matching the previous slug-derived text. In `content-specificity-of-mental-causation.md` both source slugs in `related_articles` were deduplicated to a single entry. Reviews and workflow archives were left untouched as historical records.
+- **Removed task**: P2 cross-review entry from todo.md (this task)
+- **Source**: coalesce 2026-05-08
 
 ## 2026-05-08 20:06 UTC - coalesce
 - **Status**: Success

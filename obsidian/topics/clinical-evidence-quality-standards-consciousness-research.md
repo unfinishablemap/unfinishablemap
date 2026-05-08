@@ -4,7 +4,7 @@ description: "When does clinical and neurological evidence bear on metaphysical 
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-16T00:11:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[empirical-evidence-for-consciousness-selecting]]"
-  - "[[placebo-effect-and-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[clinical-dissociation-as-systematic-evidence]]"
   - "[[methodology-of-consciousness-research]]"
   - "[[quantum-biology-and-neural-consciousness]]"
@@ -94,7 +94,7 @@ How many theoretical frameworks are consistent with the finding? Evidence is mos
 
 ### 4. Convergence Across Methods
 
-Does the finding converge with evidence from different methodologies — clinical, phenomenological, philosophical? Single-method evidence is inherently limited by method-specific artifacts. The convergence of clinical [[clinical-neuroplasticity-evidence-for-bidirectional-causation|neuroplasticity evidence]] with the philosophical self-stultification argument against [[epiphenomenalism]], the [[phenomenal-authority-and-first-person-evidence|phenomenal authority]] framework, and the [[placebo-effect-and-mental-causation|content-specificity of placebo responses]] is more compelling than any one stream alone — each addresses a different objection from a different methodological angle.
+Does the finding converge with evidence from different methodologies — clinical, phenomenological, philosophical? Single-method evidence is inherently limited by method-specific artifacts. The convergence of clinical [[clinical-neuroplasticity-evidence-for-bidirectional-causation|neuroplasticity evidence]] with the philosophical self-stultification argument against [[epiphenomenalism]], the [[phenomenal-authority-and-first-person-evidence|phenomenal authority]] framework, and the [[empirical-phenomena-mental-causation|content-specificity of placebo responses]] is more compelling than any one stream alone — each addresses a different objection from a different methodological angle.
 
 ### 5. Honest Calibration
 
@@ -142,7 +142,7 @@ The Map's quantum interaction claims currently rest on convergence across multip
 - [[contemplative-practice-as-philosophical-evidence]]
 - [[clinical-dissociation-as-systematic-evidence]]
 - [[empirical-evidence-for-consciousness-selecting]]
-- [[placebo-effect-and-mental-causation]]
+- [[empirical-phenomena-mental-causation|placebo effect]]
 
 ## References
 

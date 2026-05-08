@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-04-22T02:39:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ related_articles:
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[smoothness-and-continuity]]"
-  - "[[choking-phenomenon-mental-causation]]"
+  - "[[empirical-phenomena-mental-causation]]"
   - "[[consciousness-as-activity]]"
   - "[[motor-control-quantum-zeno]]"
   - "[[quantum-measurement-and-consciousness]]"

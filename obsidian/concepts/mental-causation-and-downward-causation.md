@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-05T20:17:00+00:00
+ai_modified: 2026-05-08T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -183,7 +183,7 @@ Placebo effects reinforce the point: belief states with propositional content re
 
 ## The Self-Stultification Argument
 
-The strongest positive argument for mental causation is [[self-stultification-as-master-argument|self-stultification]]: if epiphenomenalism is true, our discussions of consciousness are not caused by consciousness itself. Reports about qualia would be accidentally correlated with their subject matter. Beliefs formed without causal connection to their subject matter are not rationally held. Therefore epiphenomenalism cannot be rationally believed on the basis of evidence about consciousness—the denial is epistemically self-defeating. The [[metaproblem-of-consciousness-under-dualism|metaproblem of consciousness]] runs a parallel argument, and the [[choking-phenomenon-mental-causation|choking phenomenon]] offers empirical evidence: conscious interference with automatised skills demonstrates causation.
+The strongest positive argument for mental causation is [[self-stultification-as-master-argument|self-stultification]]: if epiphenomenalism is true, our discussions of consciousness are not caused by consciousness itself. Reports about qualia would be accidentally correlated with their subject matter. Beliefs formed without causal connection to their subject matter are not rationally held. Therefore epiphenomenalism cannot be rationally believed on the basis of evidence about consciousness—the denial is epistemically self-defeating. The [[metaproblem-of-consciousness-under-dualism|metaproblem of consciousness]] runs a parallel argument, and the [[empirical-phenomena-mental-causation|choking phenomenon]] offers empirical evidence: conscious interference with automatised skills demonstrates causation.
 
 ## The Illusionist Challenge
 
