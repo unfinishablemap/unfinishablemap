@@ -4,7 +4,7 @@ description: "The possibility that different conscious systems couple with matte
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-01T07:25:00+00:00
+ai_modified: 2026-05-08T10:20:00+00:00
 draft: false
 topics:
   - "[[comparative-consciousness-and-interface-differences]]"
@@ -27,12 +27,13 @@ related_articles:
   - "[[consciousness-in-simple-organisms]]"
   - "[[the-interface-problem]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
+  - "[[interface-efficacy-and-the-cognitive-gap]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-04-05T13:33:00+00:00
+last_deep_review: 2026-05-08T10:20:00+00:00
 ---
 
 Interface heterogeneity is the possibility that different conscious systems couple with matter through fundamentally different mechanisms. Where a homogeneous interface model assumes one universal coupling mechanism operating across all conscious organisms, interface heterogeneity holds that multiple distinct mechanisms may exist—just as flight evolved independently through feathers, membranes, and chitin, consciousness-matter coupling might take different physical forms in different systems. This concept is central to The Unfinishable Map's dualist framework, where consciousness is not produced by physical processes but interfaces with them.
@@ -83,6 +84,14 @@ Anaesthesia provides the clearest case of coupling disruption rather than mechan
 
 The within-organism evidence thus supports **modal flexibility within a homogeneous interface** for any given organism, while the cross-species evidence supports possible **heterogeneity between organisms**. These are compatible: each species may have one coupling mechanism that operates in multiple modes, while different species may have different mechanisms.
 
+## Heterogeneity vs. Efficacy: Kind and Grade
+
+Cross-species variation can have two structurally different sources, and separating them sharpens what evidence would support heterogeneity in particular. Interfaces may differ in *kind*—heterogeneity proper, with distinct coupling mechanisms in different lineages—or in *grade*, with the same mechanism operating at different selection bandwidths, fidelities, granularities, or candidate-type coverages. The [[interface-efficacy-and-the-cognitive-gap|interface-efficacy hypothesis]] develops the grade axis explicitly, treating efficacy as a biologically variable feature that ordinary evolutionary processes can act on once a coupling exists. It is a quantitative-scaling layer atop heterogeneity rather than a competitor to it.
+
+The two layers are orthogonal. Two lineages could share a coupling mechanism (no heterogeneity) yet differ markedly in efficacy; two could differ in mechanism yet operate at matched grade along the efficacy axes. The human-other-animal cognitive gap is consistent with same-kind-different-grade, different-kind-different-grade, or different-kind-similar-grade configurations, and current methods cannot adjudicate among them.
+
+This refinement clarifies what cross-species evidence would bear specifically on heterogeneity rather than on efficacy variation. Differences in cognitive *output* alone do not discriminate between kind and grade; what would discriminate is structural variation in the *type* of coupling—different quantum substrates, different scales of operation, different candidate-pattern types—beyond what efficacy variation along common axes can account for. Heterogeneity is the kind-of-coupling claim; efficacy is the how-much-of-it claim. Both can be true; both are at the *speculative integration* tier of the Map's evidential ladder; and the data motivating one are not automatically data motivating the other.
+
 ## Implications for Artificial Consciousness
 
 Interface heterogeneity becomes especially significant when considering artificial systems. If consciousness-matter coupling requires specific biological structures—microtubules, particular protein configurations, organic quantum coherence—then artificial systems built from silicon and metal would need entirely different coupling mechanisms to be conscious, if they could be conscious at all.
@@ -125,6 +134,7 @@ Neither strategy is currently feasible, which means interface heterogeneity rema
 - [[consciousness-in-simple-organisms]] — Whether minimal organisms couple through different mechanisms
 - [[the-interface-problem]] — Where consciousness meets the brain and how conscious states map to physical selections—constrained pluralism may itself vary across species
 - [[comparing-quantum-consciousness-mechanisms]] — Comparing candidate mechanisms whose diversity motivates heterogeneity
+- [[interface-efficacy-and-the-cognitive-gap]] — Quantitative-scaling layer atop heterogeneity along bandwidth, fidelity, granularity, and candidate-type coupling axes
 - [[consciousness-interface-development]] — How interface configuration develops differently across species
 - [[observation-and-measurement-void]] — Why consciousness resists measurement—heterogeneous interfaces compound the problem
 

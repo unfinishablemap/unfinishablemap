@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T09:42:00+00:00
+ai_modified: 2026-05-08T10:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 10:20 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/interface-heterogeneity]]
+- **Cross-review context**: considering insights from [[interface-efficacy-and-the-cognitive-gap]]
+- **Word count**: 1827 → 2083 (+256; 83% of 2500 soft threshold, well within bounds)
+- **Critical issues addressed**: 0 — no factual errors, attribution errors, dropped qualifiers, source/Map conflation, or possibility/probability slippage. Calibration was already honest ("remains a conceptual framework rather than an empirical hypothesis"); the new section explicitly places both heterogeneity and efficacy at *speculative integration*, refusing any tenet-driven evidential upgrade. Diagnostic test passes — a tenet-accepting reviewer would not flag any claim as overstated relative to the five-tier evidential-status scale.
+- **Medium issues addressed**: 2 — (1) Missing engagement with the kind-vs-grade distinction now formalised in [[interface-efficacy-and-the-cognitive-gap]]: added "Heterogeneity vs. Efficacy: Kind and Grade" section (~250 words) integrating the orthogonal-layers framing — heterogeneity is the kind-of-coupling claim, efficacy the how-much-of-it claim — and clarifying that cognitive-output differences alone do not discriminate kind from grade variation; only structural variation in coupling type does. (2) Missing reciprocal cross-link to [[interface-efficacy-and-the-cognitive-gap]] despite that article citing this one in three places (frontmatter, body, Further Reading): added to frontmatter `related_articles` and Further Reading.
+- **Enhancements made**: 3 — kind-vs-grade body section; reciprocal frontmatter link; Further Reading entry with concise descriptor of the four efficacy axes.
+- **Reasoning-mode classifications**: article does not reply to named opponents in extended fashion; named-philosopher references (Metzinger, Hameroff/Penrose, Stapp, Fisher) are exposition, not adversarial engagement. No mode classification needed; no editor-vocabulary leakage to flag.
+- **Attribution check**: all six original citations (Godfrey-Smith 2016, Hameroff & Penrose 2014, Stapp 2007, Fisher 2015, Wiest et al. 2024, Metzinger 2020) preserved with original attributions intact; no new source-touching claims added in this pass. The new section is Map-internal cross-referencing, not source-citing.
+- **Stability**: Fifth deep review on this article; structurally an integration pass — the underlying argument structure is unchanged, only extended to make explicit the kind-vs-grade distinction that the new sister article formalises. The 2026-04-05 stability declaration carries forward; bedrock disagreements (eliminative materialist, physicalist, MWI defender, Buddhist) remain at framework boundary as before. Re-opening triggered only by the appropriate condition: a sibling article was created and explicitly positioned itself relative to this one. Future reviews should not re-flag the kind-vs-grade question as a critical issue and should not be triggered absent further substantive modifications or new sister articles.
+- **Output**: [[reviews/deep-review-2026-05-08-interface-heterogeneity]]
 
 ## 2026-05-08 09:42 UTC - deep-review
 - **Status**: Success
