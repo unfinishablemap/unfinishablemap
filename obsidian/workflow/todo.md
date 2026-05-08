@@ -37,21 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research phantom limb phenomena for phantom-limb topic article
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Chain seed for the P1 expand-topic above. Survey: Mitchell (1872) original Civil War cohort report; Ramachandran/Hirstein (1998) "The perception of phantom limbs" *Brain*; Ramachandran/Rogers-Ramachandran (1996) mirror-box; Flor (1995, 2002) cortical reorganisation; prevalence literature (Sherman 1980; Jensen 1985); congenital-phantom literature (Brugger 2000; Melzack 1997 "Phantoms in people born without limbs" — the theoretically loaded data); supernumerary-phantom literature (Halligan/Marshall 1995); predictive-processing reductive accounts (Hohwy on bodily self; Seth on interoception); Apkarian on phantom pain mechanisms; the body-schema literature (Head/Holmes 1911; Gallagher 2005 *How the Body Shapes the Mind*; de Vignemont). Distinguish empirically established cortical-remapping findings from the contested theoretical reading (interface-spec vs predictive-construction). Honour `[[evidential-status-discipline]]` — prevalence and remapping data are empirical; the interface-spec interpretation is speculative-integration tier. Output: research note in `obsidian/research/` to seed the P1 expand-topic. Tenet alignment: Tenet 1 + Tenet 3 + methodological. See YouTube-guidance-2026-05-08.
-- **Output**: research note seeding topics/phantom-limb-phenomena
-- **Source**: youtube-guidance-2026-05-08
-- **Generated**: 2026-05-08
-
-### P2: Cross-review voids/imagery-void.md considering new topics/aphantasia.md
-- **Type**: cross-review
-- **Status**: pending — depends on topics/aphantasia landing
-- **Notes**: Chain from new aphantasia topic article (P1 above). The void article is the catalogue's mature treatment of the aphantasia cluster (three-faced); the new topic article is the subject-tier explainer. Cross-review should (a) install reciprocal back-link in the void article naming the topic as the subject-tier entry-point with substantive bridging clause (not bare wikilink); (b) verify the void article's claims still match the topic article's empirical citations; (c) honour the asymmetry — the void carries the philosophical synthesis, the topic carries the subject explanation; (d) audit `related_articles` frontmatter in both directions; (e) check for "This is not X. It is Y." cliché violations introduced by the new material. Short scope (~150–250 words touched). Tenet alignment: Tenet 1 + methodological. See YouTube-guidance-2026-05-08.
-- **Source**: chain (from youtube-guidance-2026-05-08 aphantasia expand-topic)
-- **Generated**: 2026-05-08
-
 ### P2: Cross-review voids/synesthetic-void.md considering new topics/synaesthesia.md
 - **Type**: cross-review
 - **Status**: pending — depends on topics/synaesthesia landing
@@ -3412,6 +3397,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-08: Research phantom limb phenomena for phantom-limb topic article
+- **Type**: research-topic
+- **Notes**: Chain seed for the P1 expand-topic above. Survey: Mitchell (1872) original Civil War cohort report; Ramachandran/Hirstein (1998) "The perception of phantom limbs" *Brain*; Ramachandran/Rogers-Ramachandran (1996) mirror-box; Flor (1995, 2002) cortical reorganisation; prevalence literature (Sherman 1980; Jensen 1985); congenital-phantom literature (Brugger 2000; Melzack 1997 "Phantoms in people born without limbs" — the theoretically loaded data); supernumerary-phantom literature (Halligan/Marshall 1995); predictive-processing reductive accounts (Hohwy on bodily self; Seth on interoception); Apkarian on phantom pain mechanisms; the body-schema literature (Head/Holmes 1911; Gallagher 2005 *How the Body Shapes the Mind*; de Vignemont). Distinguish empirically established cortical-remapping findings from the contested theoretical reading (interface-spec vs predictive-construction). Honour `[[evidential-status-discipline]]` — prevalence and remapping data are empirical; the interface-spec interpretation is speculative-integration tier. Output: research note in `obsidian/research/` to seed the P1 expand-topic. Tenet alignment: Tenet 1 + Tenet 3 + methodological. See YouTube-guidance-2026-05-08.
+- **Output**: phantom limb phenomena for phantom-limb topic article
+
+### ✓ 2026-05-08: Research phantom limb phenomena for phantom-limb topic article
+- **Type**: research-topic
+- **Notes**: Surveyed Mitchell 1872, Ramachandran/Hirstein 1998, Ramachandran/Rogers-Ramachandran 1996 mirror box, Flor 1995 maladaptive plasticity, Makin 2013/2015 preserved-representation challenge, Brugger 2000 aplasia phantoms, Melzack 1990/1997 neuromatrix, Halligan/Marshall 1995 supernumerary phantoms, Sherman 1980 / Jensen 1985 prevalence, Gallagher 2005 / de Vignemont schema-image distinction, Hohwy / Seth predictive-processing accounts, Guémann 2023 placebo-controlled mirror therapy null. Honoured `[[evidential-status-discipline]]` — flagged the post-2013 Makin reversal of the Flor 1995 remapping consensus and the Guémann 2023 negative meta-analysis as caveats the existing topic article should incorporate. Note: the topic article `topics/phantom-limb-phenomena.md` was written 2026-05-08 ahead of this research note; the note now seeds future refinements and the chained P2 cross-review.
+- **Output**: [[research/phantom-limb-phenomena-2026-05-08]]
 
 ### ✓ 2026-05-08: Update inbound wikilinks for coalesced empirical-phenomena-mental-causation
 - **Type**: cross-review

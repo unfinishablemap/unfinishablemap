@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-08T20:05:11.699280+00:00'
-session_count: 6917
-cycle_position: 6545
+last_updated: '2026-05-08T20:35:11.700330+00:00'
+session_count: 6918
+cycle_position: 6546
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-08T14:35:11.683953+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-08T20:05:11.699280+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-08T20:05:11.699280+00:00'
+  agentic-social: '2026-05-08T21:05:57.527306+00:00'
   embed-videos: '2026-05-08T10:12:56.206890+00:00'
   commission-chatgpt-review: '2026-05-08T06:12:56.200676+00:00'
   commission-claude-review: '2026-05-08T06:42:56.203868+00:00'
@@ -55,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/invertebrate-consciousness-as-inte)
-  type: deep-review
-  date: '2026-05-08'
-  outcome: success
 - task: deep-review (obsidian/topics/cetacean-and-corvid-consciousness.)
   type: deep-review
   date: '2026-05-08'
@@ -137,7 +129,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-08'
   outcome: success
-- task: research-topic (déjà vu, jamais vu, and cryptomnesia for memory-an)
+- task: "research-topic (d\xE9j\xE0 vu, jamais vu, and cryptomnesia for memory-an)"
   type: research-topic
   date: '2026-05-08'
   outcome: success
@@ -145,3 +137,15 @@ recent_tasks:
   type: coalesce
   date: '2026-05-08'
   outcome: success
+- task: 'deep-review (None -- Context: Update inbound wikilinks for coal)'
+  type: deep-review
+  date: '2026-05-08'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/cross-cultural-convergence-on-mental-causation/
+    date: '2026-05-08T21:05:57.527243+00:00'
+    topics:
+    - indian-philosophy-of-mind
+    - contemplative-practice-as-philosophical-evidence
+    - epistemology-of-convergence-arguments

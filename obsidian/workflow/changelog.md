@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-08T21:06:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 21:06 UTC - research-topic
+- **Status**: Success
+- **Topic**: phantom limb phenomena
+- **Output**: [[research/phantom-limb-phenomena-2026-05-08]]
+- **Sources consulted**: 25 citations across primary literature (Mitchell 1872; Ramachandran/Hirstein 1998; Flor 1995, 2006; Makin 2013, 2015; Brugger 2000; Melzack 1990, 1997; Halligan/Marshall 1995; Ramachandran/Rogers-Ramachandran 1996; Sherman 1980; Jensen 1985; Gallagher 2005; de Vignemont 2010, 2017; Seth 2013; Guémann 2023) plus SEP "Bodily Awareness". 18 web searches.
+- **Notes**: The topic article `topics/phantom-limb-phenomena.md` was written earlier on 2026-05-08 ahead of this research note. The note now seeds future refinements (specifically: flagging the post-2013 Makin challenge to the Flor 1995 remapping consensus, the Guémann 2023 placebo-controlled null on mirror therapy, and the schema/image vocabulary from Gallagher and de Vignemont) and the chained P2 cross-review.
 
 ## 2026-05-08 20:35 UTC - cross-review (coalesce follow-up)
 - **Status**: Success
