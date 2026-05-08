@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T07:49:00+00:00
+ai_modified: 2026-05-08T08:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 08:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/interface-efficacy-and-the-cognitive-gap]]
+- **Word count**: 3374 → 3375 (+1; length-neutral; 112% of 3000 soft threshold, below 4000 hard threshold)
+- **Critical issues addressed**: 1 — **NYD misquotation** in Standing Agnostic Challenge section: `"robust scientific evidence"` (a paraphrase put inside double quotation marks) → `"strong scientific support"` (the actual phrase from the 2024 New York Declaration on Animal Consciousness). Pre-existing in the predecessor article and missed by the 2026-05-07 review.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — length-neutral mode at 112% of soft target; the article's structure is tight enough that no expansion was warranted, and the only correction was the misquotation fix.
+- **Reasoning-mode classifications**: no named-opponent refutations present. Engagement with Gutfreund (Standing Agnostic Challenge): Mode Three (framework-boundary marking handled honestly via symmetric application — article accepts Gutfreund's epistemic ceiling and applies it to its own hypothesis). Engagement with mainstream brain-side reading (Herculano-Houzel, Buckner-Krienen, Roth-Dicke, etc.): positioned alongside, not against; the article explicitly says "the hypothesis does not claim the brain-side reading is wrong." No editor-vocabulary leakage in prose.
+- **Attribution check**: All in-text scientific citations verified (Herculano-Houzel 2009, Roth & Dicke 2005, Buckner & Krienen 2013, Sakai et al. 2011, Schoenemann et al. 2019, Tomasello & Moll 2010, Suddendorf & Corballis 2007, Penn-Holyoak-Povinelli 2008, Gutfreund 2024, DeWall-Baumeister-Masicampo 2008, Nieder 2017+2020, Zheng & Meister 2024, Eccles 1989). NYD direct quotation corrected.
+- **Possibility/probability slippage diagnostic**: no slippage. Article passes the diagnostic test — every modal claim is honestly hedged ("may be present at full grade"; "tenet-coherent... not empirically forced"; "not in better evidential standing than the brain-side framing"). A tenet-accepting reviewer would not flag any claim as overstated.
+- **Stability**: First review of this exact file (which was created 2026-05-08 via /coalesce of two predecessors). Predecessors' bedrock-disagreement notes (eliminative materialists, MWI defenders, hard physicalists, hard empiricists) preserved as not-to-be-re-flagged. Convergence target met: predecessor's 2026-05-07 prediction that "the next deep review should expect to find few or no critical issues" held — exactly one critical issue (the pre-existing misquotation) found and fixed, no medium issues, no expansion changes.
+- **Output**: [[reviews/deep-review-2026-05-08-interface-efficacy-and-the-cognitive-gap]]
 
 ## 2026-05-08 07:49 UTC - deep-review
 - **Status**: Success

@@ -4,8 +4,8 @@ description: "An interactionist-dualist reading of the human-other-animal cognit
 created: 2026-05-05
 modified: 2026-05-08
 human_modified: null
-ai_modified: 2026-05-08T06:50:00+00:00
-last_deep_review: null
+ai_modified: 2026-05-08T08:16:00+00:00
+last_deep_review: 2026-05-08T08:16:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -90,7 +90,7 @@ DeWall, Baumeister, and Masicampo's (2008) finding that cognitive load occupying
 
 ## The Standing Agnostic Challenge
 
-Yossi Gutfreund (2024) argues that consciousness in other animals cannot be directly observed, only inferred, and that the inference is bounded by epistemic limits intrinsic to first-person phenomena. Behavioural responses are perceptual decisions, not reports of subjective experience; neural correlates of those decisions do not establish consciousness. The agnostic stance: the question of animal-consciousness presence and grade may be unresolvable through scientific methods alone. The 2024 New York Declaration on Animal Consciousness takes the opposite stance, asserting "robust scientific evidence" for consciousness in mammals, birds, and a "realistic possibility" of consciousness in other vertebrates and many invertebrates.
+Yossi Gutfreund (2024) argues that consciousness in other animals cannot be directly observed, only inferred, and that the inference is bounded by epistemic limits intrinsic to first-person phenomena. Behavioural responses are perceptual decisions, not reports of subjective experience; neural correlates of those decisions do not establish consciousness. The agnostic stance: the question of animal-consciousness presence and grade may be unresolvable through scientific methods alone. The 2024 New York Declaration on Animal Consciousness takes the opposite stance, asserting "strong scientific support" for consciousness in mammals and birds, and a "realistic possibility" of consciousness in other vertebrates and many invertebrates.
 
 The interface-efficacy hypothesis engages this challenge directly. Gutfreund's epistemic ceiling applies symmetrically: behavioural-cognition data cannot adjudicate between brain-side and interface-side scaling readings, because both make explanatory contact with the world through the same behavioural intermediary. The hypothesis is therefore not in better evidential standing than the brain-side framing it competes with; both face the agnostic ceiling. The hypothesis earns its keep by being heuristic-explanatory rather than prediction-generating, offering a single mechanism that subsumes phenomena the brain-side reading addresses through several distinct ones.
 
