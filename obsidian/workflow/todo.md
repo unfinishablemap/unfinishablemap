@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/phenomenology-of-consciousness-doing-work.md and topics/pain-consciousness-and-causal-power.md considering new topics/phantom-limb-phenomena.md
-- **Type**: cross-review
-- **Status**: pending — depends on topics/phantom-limb-phenomena landing
-- **Notes**: The phantom-limb topic adds clinical evidence to two adjacent clusters: the apex on phenomenology-of-consciousness-doing-work (the felt agency in phantom intentional movement; opacity-vs-effort dissociations in mirror-box therapy) and the topic on pain-consciousness-and-causal-power (phantom pain). Cross-review should install reciprocal back-links in both with substantive bridging clauses, distinguishing the phantom-limb phenomenology as subject material from the apex's synthesis claim. **Apex tier — coalesce-condense-apex-stability triggers if the apex narrative is touched**: confirm the apex narrative still resolves against the new source's anchors. Audit `related_articles` in all three directions. Medium scope (~300–500 words). Tenet alignment: Tenet 1 + Tenet 3 + methodological.
-- **Source**: chain (from youtube-guidance-2026-05-08 phantom-limb expand-topic)
-- **Generated**: 2026-05-08
-
 ### P2: Address tension between new dissociation section and surrounding argument in concepts/mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3376,6 +3369,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-08: Cross-review apex/phenomenology-of-consciousness-doing-work.md and topics/pain-consciousness-and-causal-power.md considering new topics/phantom-limb-phenomena.md
+- **Type**: cross-review
+- **Notes**: The phantom-limb topic adds clinical evidence to two adjacent clusters: the apex on phenomenology-of-consciousness-doing-work (the felt agency in phantom intentional movement; opacity-vs-effort dissociations in mirror-box therapy) and the topic on pain-consciousness-and-causal-power (phantom pain). Cross-review should install reciprocal back-links in both with substantive bridging clauses, distinguishing the phantom-limb phenomenology as subject material from the apex's synthesis claim. **Apex tier — coalesce-condense-apex-stability triggers if the apex narrative is touched**: confirm the apex narrative still resolves against the new source's anchors. Audit `related_articles` in all three directions. Medium scope (~300–500 words). Tenet alignment: Tenet 1 + Tenet 3 + methodological.
+- **Output**: obsidian/apex/phenomenology-of-consciousness-doing-work.md -- Context: Cross-review apex/phenomenology-of-consciousness-doing-work.md and topics/pain-consciousness-and-causal-power.md considering new topics/phantom-limb-phenomena.md
 
 ### ✓ 2026-05-08: Cross-review apex/altered-states-as-interface-evidence.md considering new topics/out-of-body-experiences.md
 - **Type**: cross-review

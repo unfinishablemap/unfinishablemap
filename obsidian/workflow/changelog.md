@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T23:07:00+00:00
+ai_modified: 2026-05-08T23:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 23:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenology-of-consciousness-doing-work]]
+- **Word count**: 3849 → 3922 (+73; within capacity at 98% of 4000 apex soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing wikilinks to two highly relevant siblings — pain-consciousness-and-causal-power and the new phantom-limb-phenomena)
+- **Enhancements made**: 3 (added phantom-limb mirror therapy as a clinical extension of the imagery template in the Mental Imagery section; added inline cross-link to [[pain-consciousness-and-causal-power]]; added both `[[pain-consciousness-and-causal-power]]` and `[[phantom-limb-phenomena]]` to related_articles)
+- **Cross-review context**: Triggered by the new `topics/phantom-limb-phenomena.md` (created 2026-05-08) and prompted to cross-review against `topics/pain-consciousness-and-causal-power.md`. Phantom-limb mirror therapy is a direct clinical demonstration of consciously-directed imagery shaping nociceptive processing without peripheral input — fits the Mental Imagery test case slot rather than warranting a new top-level section. The four-feature spine is preserved.
+- **Calibration check**: The phantom-limb addition imports only well-supported claims (modulation through visual feedback; absence of peripheral generator at the felt site). No tenet-as-evidence-upgrade move; diagnostic test passed.
+- **Mode classifications**: engagement with epiphenomenalist — Mode One; engagement with identity-theory/functionalism — Mixed (Two → One via aphantasic discriminator → Three at framework boundary); engagement with Many-Worlds — Mode Three; engagement with materialist explanation of cross-cultural invariants — Mode Two. No label leakage.
+- **Convergence**: Fourth deep review. Article remains stable; only the cross-review trigger (phantom-limb integration) and the cross-link gap to the pain article required action.
+- **Output**: [[reviews/deep-review-2026-05-08-phenomenology-of-consciousness-doing-work]]
 
 ## 2026-05-08 23:07 UTC - deep-review
 - **Status**: Success
