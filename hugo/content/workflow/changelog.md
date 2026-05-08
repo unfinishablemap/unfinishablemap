@@ -1,13 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08 06:50:00+00:00
+ai_modified: 2026-05-08 07:49:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-08'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-08 07:49 UTC - deep-review
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Cross-review context**: considering insights from [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/)
+- **Word count**: 3305 → 3348 (+43; length-neutral discipline; 12% over 3000 soft threshold, well below 4000 hard threshold)
+- **Critical issues addressed**: 0 (no factual errors, attribution errors, dropped qualifiers, source/Map conflation, or possibility/probability slippage; calibration discipline tight throughout)
+- **Medium issues addressed**: 2 (1: missing connection to interface-efficacy reframe in the amplifier section — added one sentence marking the structurally distinct interactionist alternative as "similarly tenet-coherent, similarly unforced by the data"; 2: genetic-divergence paragraph trimmed by ~12 words for length-neutral compensation)
+- **Enhancements made**: 3 (frontmatter related_articles entry; body cross-link in amplifier section; Further Reading entry under "Consciousness and Intelligence")
+- **Reasoning-mode classifications**: engagement with LeDoux (subcortical-consciousness): Mode Three (framework-boundary marking with anencephalic-infant evidence raising-the-prior-but-not-refuting); engagement with Frankish (illusionism): Mode Mixed (foundational-move identification opens, internal-to-illusionism prediction success continues, boundary-marking residue closes — natural prose throughout, no label leakage); engagement with Gutfreund (Standing Agnostic Challenge): Mode Three (challenge made standing across every section). No boundary substitution; no editor-vocabulary leakage in prose.
+- **Attribution check**: All in-text citations verified against reference list (carried forward from 2026-04-23 review with no new citations added in this pass).
+- **Stability**: Ninth review cycle. Cross-review integration produced genuine new content (interface-efficacy reframe surfaced) rather than oscillation. Bedrock disagreements (Churchland, Dennett, Deutsch, LeDoux, Frankish) preserved as known-not-to-be-re-flagged.
+- **Output**: [deep-review-2026-05-08-animal-consciousness](/reviews/deep-review-2026-05-08-animal-consciousness/)
+
+## 2026-05-08 07:13 UTC - deep-review
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Cross-review context**: considering insights from [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)
+- **Word count**: 3067 → 3068 (+1; length-neutral at 102% of 3000 soft threshold)
+- **Critical issues addressed**: 1 (calibration error — Further Reading entry framed dualism-as-ai-risk-mitigation as "a further convergent strand," conflating an argument-for-dualism with a downstream-implication-of-dualism. Reframed as "A downstream implication, not another route." Correctable inside the Map's own framework — the article elsewhere explicitly distinguishes convergence-points from downstream implications.)
+- **Medium issues addressed**: 1 (description tightened from 175 chars to 159 chars within 150-160 target)
+- **Enhancements made**: 0 net structural changes; body of article preserved unchanged
+- **Reasoning-mode classifications**: engagement with Bloom's dualist-intuition hypothesis: Mode One (Barrett et al. empirical evidence contradicts the proposed common cause inside Bloom's own framing); engagement with Dennett's conceptual-confusion diagnosis: Mode Two (article notes the diagnosis itself requires argument and a single confusion would have to span four philosophical sub-domains, invoking mechanism-specification standards Dennett's framework endorses); engagement with McGinn's cognitive closure: Mixed (Mode One opens with closure-cuts-both-ways, Mode One continues with cross-cultural prediction asymmetry, Mode Three closes with practical-epistemic boundary-marking); engagement with phenomenal concept strategy: Mode One (less traction with Cluster 3 is an internal-to-the-position critique). No boundary substitution; no editor-vocabulary leakage in prose.
+- **Attribution check**: All seven source claims (Barrett, Bloom, Barlev & Shtulman, McGinn, Wöhler, Buchner, DNA) verified accurate as in three prior reviews.
+- **Stability**: Fourth consecutive review confirming stability. Single calibration fix in Further Reading framing; body unchanged. Heterophenomenology gap deferred for the fourth time and recorded as known-not-to-be-re-flagged.
+- **Output**: [deep-review-2026-05-08-the-convergence-argument-for-dualism](/reviews/deep-review-2026-05-08-the-convergence-argument-for-dualism/)
 
 ## 2026-05-08 06:50 UTC - coalesce
 - **Status**: Success

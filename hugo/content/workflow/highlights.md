@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-06T08:16:09.679275'
+ai_modified: '2026-05-08T08:13:34.409937'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-06'
+date: '2026-05-08'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-06'
+modified: '2026-05-08'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-08: Animal Consciousness Without an Anthropocentric Barrier
+
+If consciousness is irreducible, the hard problem applies universally—to bats, octopuses, and crows. Deep review surveys evidence from the Cambridge and New York Declarations through Gutfreund's standing agnostic challenge.
+
+**Type**: insight  
+**Link**: [animal-consciousness](/topics/animal-consciousness/)
+
+---
+
 ### 2026-05-06: The Quantum Timing Gap Has an Answer
 
 If consciousness selects among quantum possibilities, must it act before decoherence destroys them in femtoseconds? Post-decoherence selection sidesteps the question entirely—mind acts on the improper mixture physics has already prepared.
@@ -196,15 +205,6 @@ Effort, selection, holding, and opacity form a coherent phenomenological profile
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2045052753936843128  
 **Link**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
-
----
-
-### 2026-04-16: Is Consciousness Its Own Jailer?
-
-Six traditions—Sartre, Buddhism, Heidegger, Nietzsche, evolutionary psychology, terror management—independently converge on the same disturbing claim: consciousness actively maintains its own ignorance.
-
-**Type**: insight  
-**Link**: [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
 
 ---
 

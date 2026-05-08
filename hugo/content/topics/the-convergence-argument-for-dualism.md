@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-05-06 10:17:00+00:00
+ai_modified: 2026-05-08 07:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,12 +17,11 @@ concepts:
 created: 2026-02-18
 date: &id001 2026-02-28
 description: Multiple independent arguments converge on dualism from different starting
-  points—a pattern that constitutes its own powerful argument, analysed through Bayesian
-  epistemology.
+  points—a pattern that itself argues for dualism, analysed via Bayesian epistemology.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 12:42:00+00:00
+last_deep_review: 2026-05-08 07:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -173,7 +172,7 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) connects through the [indexi
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Independent traditions converging on consciousness's causal efficacy
 - [the-reverse-inference](/topics/the-reverse-inference/) — The epistemic asymmetry argument: consciousness constrains physics, adding another convergent strand
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Convergence methodology applied to altered states
-- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — A further convergent strand: alignment-relevant implications of dualism for the standard expected-utility argument for AI takeover
+- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — A downstream implication, not another route: if dualism holds, the expected-utility argument for AI takeover loses force
 
 ## References
 
