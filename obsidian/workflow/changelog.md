@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T21:35:00+00:00
+ai_modified: 2026-05-08T22:06:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 22:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/synesthetic-void]]
+- **Word count**: 2511 → 2506 (−5; length-neutral mode at 125% of 2000 voids soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to [[synaesthesia]] topic article published 2026-05-08)
+- **Enhancements made**: 4 (added wikilink in lede, added Further Reading entry, added in-prose pointer in Developmental Occlusion, added to related_articles frontmatter)
+- **Mode classifications**: engagement with Dennett-style heterophenomenologist: Mode 3 (framework-boundary marking, realist reading flagged as substantive choice); engagement with brain-only physicalism + Popperian critic: Mode 3 (observational equivalence acknowledged); engagement with eliminative materialist (Churchland): Mode 3 (Map's reading rests on broader commitments, not on synaesthesia in isolation); engagement with Many-Worlds defender: Mode 3 (branch-relative indexicality conceded, disagreement at tenet boundary)
+- **Convergence**: Third deep review of this article. No critical issues; cross-review with topic article required only reciprocal linking and minor trimming. Article is evidence-calibrated, source-faithful, and the philosophical hedges from the 2026-04-28 refine pass remain appropriate Mode-3 framework-boundary marking
+- **Output**: [[reviews/deep-review-2026-05-08-synesthetic-void]]
 
 ## 2026-05-08 21:35 UTC - deep-review
 - **Status**: Success

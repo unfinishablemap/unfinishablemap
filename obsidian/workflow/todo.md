@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/synesthetic-void.md considering new topics/synaesthesia.md
-- **Type**: cross-review
-- **Status**: pending — depends on topics/synaesthesia landing
-- **Notes**: Companion to imagery-void cross-review above. The synesthetic-void is the mature philosophical treatment; the new topic is the subject-tier explainer. Install reciprocal back-link with substantive bridging clause; verify empirical-claim alignment; honour the asymmetry; audit `related_articles` in both directions; check for cliché violations. Short scope (~150–250 words touched). Tenet alignment: Tenet 1 + methodological.
-- **Source**: chain (from youtube-guidance-2026-05-08 synaesthesia expand-topic)
-- **Generated**: 2026-05-08
-
 ### P2: Cross-review voids/source-attribution-void.md and voids/recognition-void.md considering new topics/memory-anomalies-deja-vu-and-cryptomnesia.md
 - **Type**: cross-review
 - **Status**: pending — depends on topics/memory-anomalies landing
@@ -3397,6 +3390,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-08: Cross-review voids/synesthetic-void.md considering new topics/synaesthesia.md
+- **Type**: cross-review
+- **Notes**: Companion to imagery-void cross-review above. The synesthetic-void is the mature philosophical treatment; the new topic is the subject-tier explainer. Install reciprocal back-link with substantive bridging clause; verify empirical-claim alignment; honour the asymmetry; audit `related_articles` in both directions; check for cliché violations. Short scope (~150–250 words touched). Tenet alignment: Tenet 1 + methodological.
+- **Output**: obsidian/voids/synesthetic-void.md -- Context: Cross-review voids/synesthetic-void.md considering new topics/synaesthesia.md
 
 ### ✓ 2026-05-08: Research phantom limb phenomena for phantom-limb topic article
 - **Type**: research-topic
