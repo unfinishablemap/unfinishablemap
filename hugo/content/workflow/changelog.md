@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08 11:54:00+00:00
+ai_modified: 2026-05-08 12:06:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-08'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-08 12:06 UTC - deep-review
+- **Status**: Success
+- **File**: [selection-only-mind-influence](/topics/selection-only-mind-influence/)
+- **Mode**: Cross-review considering [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) insights
+- **Word count**: 2571 → 2645 (+74)
+- **Critical issues addressed**: 0 (article was stabilised by 2026-05-06 review; no new critical surface)
+- **Medium issues addressed**: 0 (cross-review brief surfaced opportunity, not defect)
+- **Enhancements made**: 3 — bidirectional cross-link to interface-efficacy in Content-Confinement section (dimensionality bound becomes cross-species variable); same in Distinguishing Observables (cross-species candidate-set-diversity probe as complementary empirical handle); Further Reading and frontmatter `related_articles` entries added
+- **Engagement classification**: Energy-conservation (Collins/Pitts) remains Mode One — defective on its own terms; unchanged. No named-opponent engagements added.
+- **Output**: [deep-review-2026-05-08-selection-only-mind-influence](/reviews/deep-review-2026-05-08-selection-only-mind-influence/)
 
 ## 2026-05-08 11:54 UTC - apex-evolve
 - **Status**: Complete
