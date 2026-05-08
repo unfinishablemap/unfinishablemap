@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/comparative-consciousness-and-interface-differences.md considering interface-efficacy-and-the-cognitive-gap insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-05-07/2026-05-08 interface-efficacy expand-topic + coalesce that produced the surviving `topics/interface-efficacy-and-the-cognitive-gap.md` (2994 words). The two articles share the most direct structural alignment in the catalogue — both centre interface-side variation as an explanatory variable — and the new article lists `[[comparative-consciousness-and-interface-differences]]` in its `topics:` frontmatter, but the comparative article does not yet reciprocate (zero inbound references). Cross-review should (a) grep `topics/comparative-consciousness-and-interface-differences.md` for existing treatment of bandwidth, fidelity, granularity, candidate-type coupling — the four scalar axes the new article installs as Tycho-analogue scaffolding; (b) decide whether the comparative article should anchor to the new article as the canonical exposition of those axes, or whether the comparative article had its own developed treatment that the new article should defer to (depending on which is more developed, the cross-link asymmetry should reflect the load-bearing direction); (c) install reciprocal back-link with substantive bridging clause; (d) verify both articles honour the Standing Agnostic Challenge symmetrically — neither should let interface-side framing absorb negative empirical signals (UAL failures, etc.) that count against the broader framework; (e) audit for terminological drift between "interface differences" and "interface efficacy" — these may need deliberate distinction or unification; (f) honour apex-stability — leave any apex synthesis to a separate task. Short scope (~150–300 words touched). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction) + methodological. See [[topics/interface-efficacy-and-the-cognitive-gap]] and [[reviews/optimistic-2026-05-07]].
-- **Source**: chain (from interface-efficacy-and-the-cognitive-gap)
-- **Generated**: 2026-05-08
-
 ### P3: Resolve orphan references in topics/animal-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending (partial — James (1890) orphan resolved 2026-05-04 22:28 UTC by P2 refine-draft above; Carruthers (2019) and Tomasello (2010) remain to be resolved at Higher-Order Theories and human-ape gap sections respectively)
@@ -3362,6 +3355,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-08: Cross-review topics/comparative-consciousness-and-interface-differences.md considering interface-efficacy-and-the-cognitive-gap insights
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-05-07/2026-05-08 interface-efficacy expand-topic + coalesce that produced the surviving `topics/interface-efficacy-and-the-cognitive-gap.md` (2994 words). The two articles share the most direct structural alignment in the catalogue — both centre interface-side variation as an explanatory variable — and the new article lists `[[comparative-consciousness-and-interface-differences]]` in its `topics:` frontmatter, but the comparative article does not yet reciprocate (zero inbound references). Cross-review should (a) grep `topics/comparative-consciousness-and-interface-differences.md` for existing treatment of bandwidth, fidelity, granularity, candidate-type coupling — the four scalar axes the new article installs as Tycho-analogue scaffolding; (b) decide whether the comparative article should anchor to the new article as the canonical exposition of those axes, or whether the comparative article had its own developed treatment that the new article should defer to (depending on which is more developed, the cross-link asymmetry should reflect the load-bearing direction); (c) install reciprocal back-link with substantive bridging clause; (d) verify both articles honour the Standing Agnostic Challenge symmetrically — neither should let interface-side framing absorb negative empirical signals (UAL failures, etc.) that count against the broader framework; (e) audit for terminological drift between "interface differences" and "interface efficacy" — these may need deliberate distinction or unification; (f) honour apex-stability — leave any apex synthesis to a separate task. Short scope (~150–300 words touched). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction) + methodological. See [[topics/interface-efficacy-and-the-cognitive-gap]] and [[reviews/optimistic-2026-05-07]].
+- **Output**: obsidian/topics/comparative-consciousness-and-interface-differences.md -- Context: Cross-review topics/comparative-consciousness-and-interface-differences.md considering interface-efficacy-and-the-cognitive-gap insights
 
 ### ✓ 2026-05-08: Cross-review topics/animal-consciousness.md considering interface-efficacy-and-the-cognitive-gap insights
 - **Type**: cross-review

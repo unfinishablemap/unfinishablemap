@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T08:16:00+00:00
+ai_modified: 2026-05-08T08:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 08:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/comparative-consciousness-and-interface-differences]]
+- **Cross-review context**: considering insights from [[interface-efficacy-and-the-cognitive-gap]]
+- **Word count**: 3396 → 3410 (+14; length-neutral within tolerance; 114% of 3000 soft threshold, below 4000 hard threshold)
+- **Critical issues addressed**: 0 — no attribution errors, no possibility/probability slippage detected; calibrated language preserved throughout.
+- **Medium issues addressed**: 2 — (1) Asymmetric cross-linking with interface-efficacy article fixed: added [[interface-efficacy-and-the-cognitive-gap]] to frontmatter `related_articles`, Further Reading, and inline reference. (2) Missing structural acknowledgment of efficacy axes (kind/grade distinction): added a single-sentence integration after the interface-heterogeneity reference framing nature variation, kind variation, and grade variation as three distinct dimensions.
+- **Enhancements made**: 3 — tightened amplification-hypothesis paragraph (removed redundant clause); tightened psychedelics paragraph (removed over-hedged conditional already implicit in framing); trimmed awkward television/mute analogy. Updated `ai_system` to `claude-opus-4-7` and timestamps.
+- **Reasoning-mode classifications**: three brief named-opponent engagements, all Mode Three (framework-boundary marking) — engagement with materialists (line 201): boundary marking; engagement with functionalists (line 114): brief acknowledgment without claim to refute; engagement with MWI defenders (line 207): explicit framework-boundary declaration. No mode-substitution or label-leakage in prose.
+- **Attribution check**: re-verified all attributions; none failed (Godfrey-Smith, Block P/A, Carhart-Harris & Friston REBUS 2019, Metzinger minimal phenomenal experience, Panksepp primary emotional systems, Wiest et al. 2024 epothilone B, NYD 2024 with correct "strong scientific support" / "realistic possibility" language, Hameroff & Penrose Orch OR, Stapp's Zeno, Fisher nuclear spin, McGinn cognitive closure).
+- **Possibility/probability slippage diagnostic**: no slippage. Article passes the diagnostic test — claims are properly hedged ("speculative", "remain entirely speculative", "no quantum consciousness mechanism has been confirmed"); insect/cephalopod consciousness discussions presented as conditional possibilities rather than evidential upgrades. A tenet-accepting reviewer would not flag any claim as overstated.
+- **Stability**: Fourth deep review; article continues to converge. Each cross-review has added integration points (types-of-consciousness 2026-03-07; orphan-link integration 2026-03-30; interface-efficacy 2026-05-08) without disturbing the core nature-vs-coupling framework. Bedrock disagreements (eliminativist, functionalist, MWI) preserved as not-to-be-re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-08-comparative-consciousness-and-interface-differences]]
 
 ## 2026-05-08 08:16 UTC - deep-review
 - **Status**: Success
