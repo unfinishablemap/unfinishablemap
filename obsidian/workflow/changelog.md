@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T12:46:00+00:00
+ai_modified: 2026-05-08T13:06:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 13:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-intersubjectivity]]
+- **Word count**: 2761 → 2760 (-1, length-neutral)
+- **Critical issues addressed**: 0 (no critical issues found; attribution, source/Map separation, qualifier preservation, evidential calibration all clean)
+- **Medium issues addressed**: 1 — two LLM-cliché "X is not Y. It is Z." constructions rephrased to integrate contrast within a single sentence (style guide compliance)
+- **Enhancements made**: 0 structural; article had reached high stability across three prior reviews (2026-03-21b, 2026-03-24, 2026-03-26d)
+- **Engagement classification**: No named-opponent replies in the §2.6 sense; tenet-section engagement with materialism/MWI is appropriately Mode Three (framework-boundary marking) and unchanged.
+- **Bedrock disagreements preserved**: MWI indexical specificity, physicalist channel-account framing, constitutive-intersubjectivist instability claim, eliminative-materialist framework rejection, Madhyamaka rejection of ontological individuality — all framework-boundary; not correctable defects.
+- **Output**: [[reviews/deep-review-2026-05-08-consciousness-and-intersubjectivity]]
 
 ## 2026-05-08 12:46 UTC - refine-draft
 - **Status**: Success

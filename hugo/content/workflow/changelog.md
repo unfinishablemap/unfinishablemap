@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08 12:06:00+00:00
+ai_modified: 2026-05-08 12:46:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-08'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-08 12:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Driver**: Unconsumed research note [voids-effort-void-2026-05-08](/research/voids-effort-void-2026-05-08/) (target_section voids unavailable — section at 100/100 cap); concepts/mental-effort identified as natural alternative home given its existing Stapp-quantum-Zeno centre and effort-phenomenology focus
+- **Word count**: ~2,980 → 3,682 (+~700)
+- **Changes**: New section "What Felt Effort Misses About Its Own Operation" inserted after "Phenomenology of Effort", surveying three structurally distinct dissociations — calibration face (Naccache et al. 2005 ACC-lesion patient), depletion face (Hagger et al. 2016 multilab N=2,141 d=0.04), modulation face (Kurzban opportunity-cost + Inzlicht/Schmeichel process model + Westbrook 2020 dopamine pharmacology); concepts/cognitive-phenomenology added to concepts; voids/agency-void, voids/noetic-feelings-void, voids/suspension-void, voids/appetitive-void, research/voids-effort-void-2026-05-08 added to related_articles; 7 new references (Naccache, Hagger, Kurzban, Inzlicht & Schmeichel, Inzlicht et al., Westbrook, Howard).
+- **Framework-stage-calibration**: Honoured — explicit "constrain rather than establish" hedge; physicalist Inzlicht process-model reading acknowledged as framework-boundary disagreement rather than refuted in physicalist terms.
+- **Engagement classification**: with strong-physicalist process-model reading — Mode Three (framework-boundary marking); the Inzlicht process model accommodates the same dissociations within physicalism without contradiction, so the disagreement is bedrock and named honestly.
+- **Cliché audit**: No "This is not X. It is Y." patterns introduced.
+- **Published**: yes (draft: false preserved)
 
 ## 2026-05-08 12:06 UTC - deep-review
 - **Status**: Success
