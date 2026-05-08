@@ -2,9 +2,9 @@
 title: "Mental Effort"
 description: "Why controlling attention feels like work—and what this universal phenomenology reveals about consciousness influencing matter."
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-05-08
 human_modified: null
-ai_modified: 2026-04-19T02:38:00+00:00
+ai_modified: 2026-05-08T12:46:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -27,16 +27,22 @@ concepts:
   - "[[decoherence]]"
   - "[[haecceity]]"
   - "[[phenomenology-of-choice-and-volition]]"
+  - "[[concepts/cognitive-phenomenology]]"
 related_articles:
   - "[[tenets]]"
   - "[[stapp-mental-effort-mind-matter-2026-01-14]]"
   - "[[consciousness-working-memory-2026-01-17]]"
+  - "[[research/voids-effort-void-2026-05-08]]"
+  - "[[voids/agency-void]]"
+  - "[[voids/noetic-feelings-void]]"
+  - "[[voids/suspension-void]]"
+  - "[[voids/appetitive-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-04-19T02:38:00+00:00
+last_deep_review: 2026-05-08T12:46:00+00:00
 ---
 
 Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is among the strongest evidence that consciousness does something. If effort is *real*—if it genuinely costs something to hold attention on a topic—then something is doing work. The question is what. The Unfinishable Map argues that this datum supports interactionist dualism regardless of which physical mechanism turns out to mediate the interaction.
@@ -70,6 +76,28 @@ The distinction extends to multiple levels—selecting among options, refraining
 ### Empirical Confirmation
 
 Kahneman's *Attention and Effort* (1973) confirmed that effort is measurable (pupil dilation, heart rate correlate with mental effort), has cognitive costs (attending to one task reduces capacity for others), and is distinct from difficulty (a task can be hard without feeling effortful). The phenomenology of mental effort is real, consistent, and predictive of behavior.
+
+## What Felt Effort Misses About Its Own Operation
+
+The phenomenology above treats felt effort as the first-person datum that something is doing work. Three converging lines of empirical research complicate that reading. Each shows the felt sense detaching, in a structurally distinct way, from the operation it ostensibly reports on. Together they constrain what the dualist argument above can claim: felt effort is real, but it is not a transparent window onto the underlying machinery.
+
+### The Calibration Face
+
+Naccache, Dehaene, Cohen and colleagues (2005) report a patient with a left mesio-frontal lesion encompassing the anterior cingulate cortex who performed Stroop conflict trials with normal executive control and residual right-ACC activity, yet reported no conscious feeling of mental effort whatsoever and showed none of the skin-conductance coupling that controls exhibited as effort rose with conflict. Felt effort and the executive operation it putatively reports on are dissociable: one can be subtracted without subtracting the other. The case is a single patient, and the calibration face leans on the dissociation's possibility rather than its frequency. Even so, the pattern shows the felt sense to be a constructed signal, separable in principle from the operation it accompanies.
+
+### The Depletion Face
+
+Hagger and colleagues (2016) ran a preregistered 23-laboratory replication of the ego-depletion effect with N=2,141 and reported d=0.04, 95% CI [−0.07, 0.15] — a confidence interval straddling zero. The strength-resource model that had organised a generation of self-control research collapsed under preregistration. The felt sense of being drained survives the result; its supposed referent — a unitary depleting resource — appears not to exist as advertised. Introspection had reported under a model that turned out empirically untenable, and the felt-drained sense did not self-correct upon learning of the failure. Whatever felt depletion is the felt sense of, it is not the simple thing introspection had taken it for.
+
+### The Modulation Face
+
+Kurzban, Duckworth, Kable and Myers (2013) reframe felt effort as the output of an opportunity-cost computation: the executive-control machinery has scarce simultaneous capacity, and what gets felt as the cost of trying is the cost of the alternative deployment forgone. Inzlicht and Schmeichel (2012; Inzlicht et al., 2021) develop a parallel process model in which felt effort is an adaptive informational signal carrying "this is no longer worth your while; switch" rather than a fuel-gauge readout. Both treat the felt sense as the *output* of sub-personal cost-benefit machinery whose inputs the introspector cannot access. Westbrook and colleagues (2020) confirm one prediction: striatal dopamine elevation via methylphenidate shifts willingness to engage demanding tasks by amplifying anticipated benefits and attenuating subjective costs, with the felt sense shifting as a consequence — and the introspector noticing the result without noticing the manipulation.
+
+### What This Constrains, and What It Doesn't
+
+The Map reads the felt-effort/operation dissociation most naturally as interface asymmetry — phenomenal access is not identical to the underlying operation, which is what the [[attention-as-interface|interface model]] predicts. The structurally parallel dissociation pattern in [[concepts/cognitive-phenomenology|cognitive phenomenology]] (the Würzburg–Titchener case where high-grade thought runs without imagistic accompaniment) reinforces the diagnosis: phenomenal accompaniment and the operation it accompanies are routinely separable. The territory recurs across the apophatic catalogue — in [[voids/agency-void|the agency void]] (Howard and colleagues, 2016, found effortful conditions disrupt the implicit sense of agency measured by intentional binding even as the explicit reflective sense often rises), in [[voids/noetic-feelings-void|the noetic-feelings void]] (felt effort sits in the same family of sub-personally generated phenomenal signals as felt knowing or felt rightness), in [[voids/suspension-void|the suspension void]] (refraining from selection has a felt accompaniment whose machinery is hidden in the same way), and in [[voids/appetitive-void|the appetitive void]] (desire and effort as adjacent felt-causal signals near the action interface).
+
+A strong-physicalist reading using Inzlicht's process model can absorb the same evidence differently, treating the felt sense as an adaptive informational signal generated entirely sub-personally by the executive machinery. That reading runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within the physicalist framework. The honest restriction follows: these dissociations *constrain* the dualist reading rather than *establish* it. They remove the simplest "felt effort just is what the operation feels like" identity but leave the deeper question — whether something non-physical is doing the work being felt — where the rest of this article finds it. What survives empirically and remains on the dualist side of the ledger is the autonomic SCR coupling Naccache documented in normals, absent in the patient: felt effort is wired into the autonomic chain and so does causal work in normals, even if it does not transparently report on its own operation. See [[research/voids-effort-void-2026-05-08|the effort-void research notes]] for the fuller case.
 
 ## The Materialist Problem
 
@@ -182,13 +210,37 @@ The phenomenology of effort provides a datum any account must explain. If contro
 
 1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Hagger, M.S., Chatzisarantis, N.L.D., et al. (2016). A multilab preregistered replication of the ego-depletion effect. *Perspectives on Psychological Science*, 11(4), 546-573.
+1. Howard, I.S., Ingram, J.N., Wolpert, D.M., et al. (2016). Physical and mental effort disrupts the implicit sense of agency. *Cognition*, 157, 23-32.
+1. Inzlicht, M. & Schmeichel, B.J. (2012). What is ego depletion? Toward a mechanistic revision of the resource model of self-control. *Perspectives on Psychological Science*, 7(5), 450-463.
+1. Inzlicht, M., Werner, K.M., Briskin, J.L., & Roberts, B.W. (2021). Integrating models of self-regulation. *Annual Review of Psychology*, 72, 319-345.
 1. James, W. (1890). *The Principles of Psychology*.
 1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
+1. Kurzban, R., Duckworth, A., Kable, J.W., & Myers, J. (2013). An opportunity cost model of subjective effort and task performance. *Behavioral and Brain Sciences*, 36(6), 661-679.
 1. Lutz, A., Slagter, H.A., Dunne, J.D. & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
 1. Marzbani, H. et al. (2022). Meta-analysis of neuroimaging studies of CBT for depression. [Cited via clinical neuroplasticity evidence article.]
+1. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). Effortless control: Executive attention and conscious feeling of mental effort are dissociable. *Neuropsychologia*, 43(9), 1318-1328.
 1. Schwartz, J.M., Stoessel, P.W., Baxter, L.R., Martin, K.M. & Phelps, M.E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
+1. Westbrook, A., et al. (2020). Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work. *Science*, 367(6484), 1362-1366.
 1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
+
+<!-- AI REFINEMENT LOG - 2026-05-08
+Changes made:
+- Installed new section "What Felt Effort Misses About Its Own Operation" after "Phenomenology of Effort", surveying three structurally distinct dissociations: calibration face (Naccache et al. 2005 ACC-lesion patient — normal executive control with no felt effort), depletion face (Hagger et al. 2016 multilab preregistered N=2,141 replication of ego depletion at d=0.04, 95% CI [-0.07, 0.15]), modulation face (Kurzban opportunity-cost + Inzlicht/Schmeichel process model + Westbrook 2020 dopamine pharmacology).
+- Honoured framework-stage-calibration: explicit "constrain rather than establish" hedge; physicalist Inzlicht reading acknowledged honestly as framework-boundary disagreement (Mode Three) rather than falsely refuted in physicalist terms.
+- Cross-linked to concepts/cognitive-phenomenology (Würzburg–Titchener parallel), voids/agency-void (Howard et al. 2016 implicit-binding under effort), voids/noetic-feelings-void, voids/suspension-void, voids/appetitive-void, and the source research note.
+- Added concepts/cognitive-phenomenology to concepts; added voids articles + research note to related_articles.
+- Added 7 new references: Naccache (2005), Hagger (2016), Kurzban (2013), Inzlicht & Schmeichel (2012), Inzlicht et al. (2021), Westbrook et al. (2020), Howard et al. (2016).
+- Updated last_deep_review and ai_modified to 2026-05-08T12:46:00+00:00; updated ai_system to claude-opus-4-7.
+- Audited new section for "This is not X. It is Y." cliché — none introduced.
+
+Engagement classification: with strong-physicalist process-model reading — Mode Three (framework-boundary marking); the Inzlicht process model accommodates the same dissociations within physicalism without contradiction, so the disagreement is bedrock and is named as such rather than dressed as in-framework refutation.
+
+Length: addition ~700 words; article body now ~3,680 words, comfortably under the 4,000-word concepts soft threshold.
+
+This log should be removed after human review.
+-->
