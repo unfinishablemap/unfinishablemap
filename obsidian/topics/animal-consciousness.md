@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-05-06T16:00:00+00:00
+ai_modified: 2026-05-08T07:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,12 +44,13 @@ related_articles:
   - "[[cetacean-and-corvid-consciousness]]"
   - "[[direct-refutation-discipline]]"
   - "[[topics/the-interface-problem]]"
+  - "[[interface-efficacy-and-the-cognitive-gap]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-04-23T21:17:00+00:00
+last_deep_review: 2026-05-08T07:49:00+00:00
 embedded_videos:
   - id: DnI0-3Z9EQE
     url: https://www.youtube-nocookie.com/embed/DnI0-3Z9EQE
@@ -107,11 +108,11 @@ The [[problem-of-other-minds]] applies to both, but the inferential grounds diff
 
 ## Consciousness and the Human-Ape Intelligence Gap
 
-Great apes are our closest evolutionary relatives—roughly 98-99% identical at single-nucleotide variants across alignable regions, the figure popularised in mid-twentieth-century pedagogy. Post-2023 telomere-to-telomere comparisons that include indels, structural variants, and previously-unalignable regions (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%, with heterochromatic and Y-chromosomal regions diverging substantially more. Either way, great apes display sophisticated cognition, yet humans alone produce [[cumulative-culture|cumulative culture]], abstract mathematics, and technological civilisation. Standard neuroscience attributes the gap to architectural differences (expanded dorsolateral prefrontal cortex, arcuate-fasciculus connectivity, cortical folding)—a physicalist explanation that does not require non-physical causation. What does load-bearing work here is *substantial similarity with substantial divergence*, not any single percentage figure; the revised, more-divergent picture neither forces nor refutes a dualistic reading of the cognitive gap, only removing the popular objection that the gap is too dramatic to follow from "such a small genetic difference."
+Great apes are our closest evolutionary relatives—roughly 98-99% identical at single-nucleotide variants across alignable regions, the figure popularised in mid-twentieth-century pedagogy. Post-2023 telomere-to-telomere comparisons that include indels, structural variants, and previously-unalignable regions (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%, with heterochromatic and Y-chromosomal regions diverging substantially more. Either way, great apes display sophisticated cognition, yet humans alone produce [[cumulative-culture|cumulative culture]], abstract mathematics, and technological civilisation. Standard neuroscience attributes the gap to architectural differences (expanded dorsolateral prefrontal cortex, arcuate-fasciculus connectivity, cortical folding)—a physicalist explanation that does not require non-physical causation. The load-bearing observation is *substantial similarity with substantial divergence*, not any single percentage; the revised picture neither forces nor refutes a dualistic reading, only removing the objection that the gap is too dramatic to follow from "such a small genetic difference."
 
 The Map offers a complementary interpretation. The [[baseline-cognition]] hypothesis proposes that great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access. See [[consciousness-as-amplifier]] for the full treatment; the thesis is that consciousness enables *flexible deployment* of cognitive resources rather than raw computational power. Key evidence: working-memory differences Inoue & Matsuzawa (2007) suggest are about *deployment* rather than capacity; apes having culture but not *knowing* they have it (Whiten 2015); apes passing Level 1 theory of mind but struggling with Level 3 recursive mindreading; contested findings (Lieberman et al. 2008) that rule-based reasoning depends on conscious processing.
 
-This does not deny great ape consciousness—they likely have emotional and perceptual consciousness. What they may lack is *metacognitive* consciousness (the [[metarepresentation-threshold]]). [[cetacean-and-corvid-consciousness|Cetaceans and corvids]] occupy intermediate positions independently of primate cortex. The Map's preference for amplification is tenet-driven (cohering with [[tenets#^bidirectional-interaction|Bidirectional Interaction]]), not forced by the comparative evidence; a purely physicalist account handles the same data.
+This does not deny great ape consciousness—they likely have emotional and perceptual consciousness. What they may lack is *metacognitive* consciousness (the [[metarepresentation-threshold]]). [[cetacean-and-corvid-consciousness|Cetaceans and corvids]] occupy intermediate positions independently of primate cortex. The Map's preference for amplification is tenet-driven (cohering with [[tenets#^bidirectional-interaction|Bidirectional Interaction]]), not forced by the comparative evidence; a purely physicalist account handles the same data. A structurally distinct interactionist alternative is [[interface-efficacy-and-the-cognitive-gap|interface-efficacy scaling]]: consciousness at full grade across species, with the mind-brain coupling itself varying along bandwidth, fidelity, granularity, and candidate-type axes—similarly tenet-coherent, similarly unforced by the data.
 
 ## Dualism and Animal Minds: No Anthropocentric Barrier
 
@@ -181,6 +182,7 @@ The framework supplies a falsification structure whose *application* waits on in
 
 ### Consciousness and Intelligence
 - [[consciousness-as-amplifier]] — How consciousness transforms baseline cognition into human-level intelligence
+- [[interface-efficacy-and-the-cognitive-gap]] — Structurally distinct interactionist reading: consciousness at full grade with interface-coupling efficacy scaling across species
 - [[baseline-cognition]] — What neural systems achieve without consciousness
 - [[topics/consciousness-and-social-understanding]] — Theory of mind levels and shared intentionality
 - [[cetacean-and-corvid-consciousness]] — Dolphins and corvids as convergent test cases for consciousness-amplification
