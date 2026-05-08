@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T13:36:00+00:00
+ai_modified: 2026-05-08T14:06:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 14:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/attention-as-interface]]
+- **Mode**: Cross-review pass — integrating [[interface-efficacy-and-the-cognitive-gap]] (and dependency [[selection-only-mind-influence]]) insights
+- **Word count**: 2,891 → 2,927 (+36; 117% of 2500 soft threshold, well below 3500 hard)
+- **Critical issues addressed**: 0 (no calibration errors, attribution errors, or boundary-substitution detected)
+- **Medium issues addressed**: 1 (mislabelled wikilink `[[attention-and-the-consciousness-interface|Attention Disorders and the Interface]]` — display text incorrect; removed duplicate from Core concepts; correctly-labelled entry retained in Mechanisms)
+- **Enhancements made**: 3 (cross-species framing paragraph linking to interface-efficacy and selection-only-mind-influence; frontmatter cross-links added; new "Cross-species framing" entry in Further Reading)
+- **Length-neutralising trims**: 3 (Channel's Structural Opacity duplicate of Relocation Objection; Relocation Objection's redundant "genuine limitation" sentence; rhetorical opener "Why would internally generated...")
+- **Calibration check**: Cross-species framing offloaded to interface-efficacy article (where speculative-integration tier is honestly labelled); attention-as-interface body explicitly scoped to "the human case" before introducing the cross-species reframe — passes the tenet-accepting-reviewer diagnostic.
+- **Engagement classification**: AST — Mode Two (unsupported foundational move identified); Tegmark/decoherence — Mixed (Mode One on calculation + Mode Three on Zeno reframing); illusionism — Mode One (regress); MWI — Mode Three (tenet boundary); functionalism — Mixed (Mode One + Mode Two). No boundary-substitution; no editor-vocabulary leakage in article prose.
+- **Stability**: Eighth deep review of this article. Article remains at convergence on core content; this pass adds cross-link integration without structural revision. Future reviews should consider meaningful condensation if word count drifts further above the soft threshold.
+- **Output**: [[reviews/deep-review-2026-05-08-attention-as-interface]]
 
 ## 2026-05-08 13:36 UTC - refine-draft
 - **Status**: Success
