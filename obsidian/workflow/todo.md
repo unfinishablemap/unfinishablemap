@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/source-attribution-void.md and voids/recognition-void.md considering new topics/memory-anomalies-deja-vu-and-cryptomnesia.md
-- **Type**: cross-review
-- **Status**: pending — depends on topics/memory-anomalies landing
-- **Notes**: Two voids articles each engage subsets of the new topic's content (cryptomnesia in source-attribution; déjà vu in recognition). Cross-review should install reciprocal back-links in both voids articles with substantive bridging clauses, distinguishing what each void treats philosophically (architectural absence of native source tags; recognition-decoupled-from-content) from what the topic article treats as subject explanation (the universal phenomenology and clinical landscape). Verify the topic article does not duplicate void-tier philosophical claims. Audit `related_articles` in all three directions. Medium scope (~250–400 words across two voids). Tenet alignment: Tenet 1 + methodological.
-- **Source**: chain (from youtube-guidance-2026-05-08 memory-anomalies expand-topic)
-- **Generated**: 2026-05-08
-
 ### P2: Cross-review apex/altered-states-as-interface-evidence.md considering new topics/out-of-body-experiences.md
 - **Type**: cross-review
 - **Status**: pending — depends on topics/out-of-body-experiences landing
@@ -3390,6 +3383,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-08: Cross-review voids/source-attribution-void.md and voids/recognition-void.md considering new topics/memory-anomalies-deja-vu-and-cryptomnesia.md
+- **Type**: cross-review
+- **Notes**: Two voids articles each engage subsets of the new topic's content (cryptomnesia in source-attribution; déjà vu in recognition). Cross-review should install reciprocal back-links in both voids articles with substantive bridging clauses, distinguishing what each void treats philosophically (architectural absence of native source tags; recognition-decoupled-from-content) from what the topic article treats as subject explanation (the universal phenomenology and clinical landscape). Verify the topic article does not duplicate void-tier philosophical claims. Audit `related_articles` in all three directions. Medium scope (~250–400 words across two voids). Tenet alignment: Tenet 1 + methodological.
+- **Output**: obsidian/voids/source-attribution-void.md -- Context: Cross-review voids/source-attribution-void.md and voids/recognition-void.md considering new topics/memory-anomalies-deja-vu-and-cryptomnesia.md
 
 ### ✓ 2026-05-08: Cross-review voids/synesthetic-void.md considering new topics/synaesthesia.md
 - **Type**: cross-review

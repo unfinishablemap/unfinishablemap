@@ -2,10 +2,10 @@
 title: "The Source-Attribution Void"
 description: "Human+AI inquiry into why consciousness cannot trace the origin of its own contents—the architectural absence of native source tags, revealed through choice blindness, cryptomnesia, and source amnesia."
 created: 2026-04-21
-modified: 2026-04-28
+modified: 2026-05-08
 human_modified:
-ai_modified: 2026-04-28T05:12:00+00:00
-last_deep_review: 2026-04-28T05:12:00+00:00
+ai_modified: 2026-05-08T22:35:00+00:00
+last_deep_review: 2026-05-08T22:35:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -32,6 +32,7 @@ related_articles:
   - "[[recognition-void]]"
   - "[[expertise-and-its-occlusion]]"
   - "[[imagery-void]]"
+  - "[[noetic-feelings-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -57,7 +58,7 @@ Three experimental programmes probe the void at its seams.
 
 **Choice blindness.** Johansson, Hall, Sikström and Olsson (2005) asked participants to choose between pairs of faces on attractiveness, then covertly switched the chosen face for the rejected one. Across concurrent and retrospective measures combined, roughly three-quarters of manipulated trials went undetected (concurrent detection alone was lower, retrospective higher). When asked to explain their (manipulated) choice, participants who missed the switch confidently produced detailed reasons for the face they had originally rejected. The reasons were as detailed and emotionally invested as genuine reasons. The authors report that "participants failed to notice conspicuous mismatches ... while nevertheless offering introspectively derived reasons for why they chose the way they did." The phenomenology of explaining a choice and explaining a non-choice was indistinguishable from within.
 
-**Cryptomnesia.** Brown and Murphy (1989) documented that in category-fluency tasks, subjects routinely "originate" ideas they had encountered before but forgotten encountering, at single-digit percentage rates that varied by task condition (recall-own versus recognise-own, generate-new versus recall-primed). Crucially, the subject is confident of originality. The mechanism appears to be what the reviewers call fluency-based attribution: the ease with which a thought arrives is misread as evidence that it is self-generated. High fluency and self-origination share surface features in memory, and the system collapses them.
+**Cryptomnesia.** Brown and Murphy (1989) documented that in category-fluency tasks, subjects routinely "originate" ideas they had encountered before but forgotten encountering, at single-digit percentage rates that varied by task condition (recall-own versus recognise-own, generate-new versus recall-primed). Crucially, the subject is confident of originality. The mechanism appears to be what the reviewers call [[noetic-feelings-void|fluency-based attribution]]: the ease with which a thought arrives is misread as evidence that it is self-generated. High fluency and self-origination share surface features in memory, and the system collapses them.
 
 **Source amnesia.** The Schacter, Harbluk and McLachlan (1984) line of work, extended across decades, finds that for most of what we know, we cannot recover how we came to know it. Wikipedia's review of the literature observes that "everybody experiences source amnesia on a near daily basis, as for much of our knowledge it is important to remember the knowledge itself, rather than its source." Semantic memory (the fact) and episodic memory (the acquisition context) routinely decouple. Most beliefs operate as orphaned content—known to be true, with no recoverable provenance. The [[expertise-and-its-occlusion|expertise void]] is a structural cousin: expertise-induced amnesia leaves the expert's own past performance as an unattributable source—the procedural trace runs reliably, but no episodic trace specifies how or when the skill arrived.
 

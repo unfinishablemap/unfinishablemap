@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T22:06:00+00:00
+ai_modified: 2026-05-08T22:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 22:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/source-attribution-void]]
+- **Word count**: 2736 → 2736 (unchanged; length-neutral mode at 137% of 2000 voids soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to [[noetic-feelings-void]], whose own line 28 already linked to source-attribution-void; the cryptomnesia "fluency-based attribution" mechanism is paradigm noetic-feeling material)
+- **Enhancements made**: 2 (body wikilink at "fluency-based attribution"; `related_articles` frontmatter entry for noetic-feelings-void)
+- **Cross-review context**: Deep-review against `voids/recognition-void.md` (last deep-reviewed 2026-05-02) and the new `research/memory-anomalies-2026-05-08.md` notes that will seed the forthcoming `topics/memory-anomalies-deja-vu-and-cryptomnesia.md`. New empirical material (Cleary's gestalt familiarity hypothesis, Bergson's "memory of the present", Perrin & Sant'Anna's déjà vu/déjà vécu distinction, Brown 2003 review, TLE déjà vu literature) introduces no critical issues — the article's structural philosophical claim is consistent with all of it. The reciprocal cross-link to the topic article itself is deferred to a follow-up review pass once the topic article lands (broken-link risk under check-links until then). The recognition-void reciprocal back-link belongs in the recognition-void article's next deep-review cycle, not here.
+- **Mode classifications**: No new opponent engagements introduced; bedrock disagreements catalogued in 2026-04-28 review (Eliminative Materialist Mode 3; Hard-Nosed Physicalist Mode 3; Quantum Skeptic Mode 3; Many-Worlds Defender Mode 3; Empiricist Mode 3; Buddhist Mode 3) remain bedrock and are not re-flagged.
+- **Convergence**: Second deep review of this article; remains in convergence per 2026-04-28 review's stability notes. The cross-review surfaced exactly one length-neutral structural enhancement (noetic-feelings-void reciprocal link) and one deferred work-item (topic-article cross-link pending creation). The proper void/topic division of labour is now documented in stability notes.
+- **Output**: [[reviews/deep-review-2026-05-08-source-attribution-void]]
 
 ## 2026-05-08 22:06 UTC - deep-review
 - **Status**: Success
