@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T13:06:00+00:00
+ai_modified: 2026-05-08T13:36:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-08 13:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Driver**: Unconsumed research note [[research/voids-recurrence-void-2026-05-05]] (target_section voids unavailable — section at 100/100 cap); voids/agency-void identified as natural alternative home given its passive-face territory directly subsuming consciousness-cannot-control-its-own-recurrence
+- **Word count**: 2,463 → 3,443 (+~980 — under 3,500 voids hard threshold)
+- **Changes**: New section "Recurrence as Passive-Face Mechanism" inserted between "The Spectrum of Control" and "The Verification Circularity", naming three structurally distinct recurrence faces as operational instances of the passive limit — intrusion face (Clark & Rhyno 2005 74–99% non-clinical prevalence; Radomsky et al. 2014 cross-cultural replication; Berntsen 2010 involuntary-autobiographical-memory 2:1 dominance; Beaman & Williams 2010 earworms 89% weekly), rebound face (Wegner 1994 ironic-process operating/monitoring asymmetry + Wang, Hagger & Chatzisarantis 2020 meta-analytic temperament — 18–46% of cases numerically reversed), rumination face (Nolen-Hoeksema, Wisco & Lyubomirsky 2008 response-styles synthesis with self-sustaining loop pattern). Apophatic signature explicitly developed: monitor required to detect recurrence is part of machinery that summons it. Cross-links installed to thought-stream-void (operational complement: re-presentation vs generation), suspension-void (parallel circularity), ownership-void (mineness of unbidden content), noetic-feelings-void (felt sense of intrusion as itself a noetic feeling). thought-stream-void, noetic-feelings-void, research/voids-recurrence-void-2026-05-05 added to related_articles. 8 new references (Beaman & Williams, Berntsen, Clark & Rhyno, Inzlicht & Schmeichel, Nolen-Hoeksema et al., Radomsky et al., Wang et al., Wegner 1994).
+- **Framework-stage-calibration**: Honoured — explicit "constrain rather than establish" hedge; physicalist process model (Inzlicht & Schmeichel 2012 resource-redeployment account) named as accommodating the same operating-monitor dissociations without contradiction.
+- **Engagement classification**: with physicalist process-model reading — Mode Three (framework-boundary marking); the resource-redeployment account accommodates the same dissociations within physicalism without contradiction, so the disagreement is bedrock and named honestly. No named-opponent in-framework refutations.
+- **Cliché audit**: No "This is not X. It is Y." patterns introduced.
+- **Follow-on consideration**: voids/suspension-void may warrant parallel sibling refinement integrating Wegner rebound-face under its self-investigator-circularity territory; flagged as candidate for future task generation rather than expanding this pass.
+- **Published**: yes (draft: false preserved)
 
 ## 2026-05-08 13:06 UTC - deep-review
 - **Status**: Success

@@ -172,7 +172,7 @@ A **single individual feeling effort right now** can confirm none of these disso
 
 What does approaching this void *feel* like? Three signatures:
 
-- **The trying-to-try regress**: when you attempt to monitor whether you are trying hard enough, the monitoring itself becomes effortful, and the effort being monitored becomes either swamped or distorted by the monitoring. This mirrors the operator/monitor structure in [[recurrence-void]] (Wegner) but applied to effort itself.
+- **The trying-to-try regress**: when you attempt to monitor whether you are trying hard enough, the monitoring itself becomes effortful, and the effort being monitored becomes either swamped or distorted by the monitoring. This mirrors the operator/monitor structure named in `recurrence-void` (Wegner; research note pending; voids/ at cap so no published article yet) but applied to effort itself.
 - **The fade**: extended effort eventually feels like *something other than effort* — fatigue, frustration, dullness, opportunity-cost-shift toward leisure (Inzlicht/Schmeichel). The transition is gradual and consciousness cannot witness the moment it happened.
 - **The post-hoc puzzle**: after a difficult task, asking "did I really try my hardest?" yields a phenomenal feeling that is itself unstable — it depends on current state, on outcome, on social context (cf. Wilson & Gilbert on affective forecasting). The retrospective access to past effort is reconstruction, not retrieval.
 
@@ -219,7 +219,7 @@ This connects directly to [[suspension-void]] (consciousness cannot withhold jud
 
 Based on this research, a voids article could:
 
-1. **The conjunction-coalesce angle** (preferred, given recent precedent in [[suspension-void]], [[imagery-void]], [[vagueness-void]], [[recurrence-void]]): structure the article around the three faces (calibration, depletion, modulation) with the seam between them as the load-bearing claim. Each face has independent empirical pedigree; the void is constituted by their convergence and the impossibility of disentangling them from inside the felt sense.
+1. **The conjunction-coalesce angle** (preferred, given recent precedent in [[suspension-void]], [[imagery-void]], [[vagueness-void]], and the pending `recurrence-void`): structure the article around the three faces (calibration, depletion, modulation) with the seam between them as the load-bearing claim. Each face has independent empirical pedigree; the void is constituted by their convergence and the impossibility of disentangling them from inside the felt sense.
 
 2. **The action-side analogue framing**: position the Effort Void as the action-side analogue of [[noetic-feelings-void]] and [[suspension-void]]. Where noetic feelings gate cognition's *acceptance*, effort feelings gate cognition's *deployment*. Both gating systems are sub-personal; both produce felt signals that cannot be audited from within. This framing situates the void cleanly within the existing apophatic catalogue rather than as a freestanding entry.
 

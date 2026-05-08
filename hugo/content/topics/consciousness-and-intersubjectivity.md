@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-05-08 13:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Is consciousness constitutively intersubjective or fundamentally so
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 08:48:00+00:00
+last_deep_review: 2026-05-08 13:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ Developmental psychology complicates the priority question. If individual consci
 
 **Imitation.** Meltzoff and Moore's (1977) finding that neonates imitate facial gestures — tongue protrusion, mouth opening — within hours of birth suggested that the mapping between self and other is present from the outset. The infant must somehow connect the sight of another's face (which they have never seen from the outside) with the felt movements of their own face (which they have never seen at all). This cross-modal mapping is what intercorporeality predicts. However, the finding remains contested: Oostenbroek et al. (2016) failed to replicate neonatal imitation in a large longitudinal study, suggesting the original results may reflect general arousal rather than genuine other-recognition. Whether neonatal imitation is real or not, the broader pattern — that intersubjective capacities emerge very early — is well established through joint attention, social referencing, and protoconversational behaviour.
 
-These findings do not prove that intersubjectivity is constitutive of consciousness. An infant could possess individual phenomenal experience before developing intersubjective capacities, with neonatal imitation reflecting innate motor programs rather than genuine other-recognition. But the developmental evidence at minimum shows that intersubjective capacities are not late-arriving cognitive achievements. They appear to be among the earliest forms of conscious engagement with the world.
+These findings do not prove that intersubjectivity is constitutive of consciousness. An infant could possess individual phenomenal experience before developing intersubjective capacities, with neonatal imitation reflecting innate motor programs rather than genuine other-recognition. But the developmental evidence at minimum shows that intersubjective capacities appear among the earliest forms of conscious engagement with the world rather than as late-arriving cognitive achievements.
 
 ## Dualism and the Encounter with Other Minds
 
@@ -92,7 +92,7 @@ This sharpening is a strength, not a weakness. The Map holds that the difficulty
 
 The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) provides a resource here. If consciousness causally influences the physical world, then communication between consciousnesses proceeds through a chain: my consciousness shapes neural states that produce words and gestures; your sensory systems receive these; your consciousness appresents my subjectivity through the perceived patterns. The physical channel — sound waves, light, touch — mediates between two non-physical experiential domains. Intersubjectivity, on this account, is a genuine achievement: two distinct consciousnesses managing to coordinate through a shared physical medium.
 
-This picture preserves what is right in both the "consciousness first" and "intersubjectivity first" positions. Individual consciousness is ontologically real and irreducible — it does not dissolve into intersubjective relations. But intersubjective encounter transforms what consciousness can be. A consciousness that has never encountered another remains phenomenally impoverished: it lacks the categories of self-and-other, the experience of being understood and misunderstood, the moral horizon that opens when another's vulnerability becomes visible. These are not additions to a pre-existing consciousness that was already complete. They are dimensions of experience that only intersubjective encounter can activate.
+This picture preserves what is right in both the "consciousness first" and "intersubjectivity first" positions. Individual consciousness is ontologically real and irreducible — it does not dissolve into intersubjective relations. But intersubjective encounter transforms what consciousness can be. A consciousness that has never encountered another remains phenomenally impoverished: it lacks the categories of self-and-other, the experience of being understood and misunderstood, the moral horizon that opens when another's vulnerability becomes visible. Only intersubjective encounter activates these dimensions of experience — they elaborate what consciousness can be rather than supplementing a consciousness that was already complete.
 
 The cognitive capacities this enrichment enables are substantial. As the Map's treatment of [social understanding](/topics/consciousness-and-social-understanding/) argues, the distinctively human achievements — [recursive mindreading](/concepts/metacognition/), shared intentionality, [moral accountability](/concepts/moral-responsibility/) — depend on phenomenal consciousness operating across the intersubjective channel. Intersubjective encounter does not merely add depth to individual experience; it builds the phenomenal architecture from which institutional reality, cultural accumulation, and genuine interpersonal understanding become possible.
 

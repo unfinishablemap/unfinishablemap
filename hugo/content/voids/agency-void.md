@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-28 21:00:00+00:00
+ai_modified: 2026-05-08 13:36:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -17,14 +17,14 @@ concepts:
 - '[[causal-closure]]'
 - '[[qualia]]'
 created: 2026-02-25
-date: &id001 2026-04-27
+date: &id001 2026-05-08
 description: Consciousness cannot control most of its own states, and cannot verify
   whether it causes anything at all—two conjoined limits at the heart of conscious
   agency.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 21:00:00+00:00
+last_deep_review: 2026-05-08 13:36:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -38,6 +38,8 @@ related_articles:
 - '[[affective-void]]'
 - '[[erasure-void]]'
 - '[[suspension-void]]'
+- '[[thought-stream-void]]'
+- '[[noetic-feelings-void]]'
 - '[[conjunction-coalesce]]'
 - '[[inference-void]]'
 - '[[tacit-integration-void]]'
@@ -49,6 +51,7 @@ related_articles:
 - '[[disappearance-voids]]'
 - '[[three-kinds-of-void]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[research/voids-recurrence-void-2026-05-05]]'
 title: The Agency Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -80,6 +83,24 @@ This two-face structure is the cleanest case of the editorial discipline articul
 ## The Spectrum of Control
 
 Between complete helplessness and full sovereignty lies a structured spectrum. **Attention** is the most accessible partial control: top-down focus can shift, though attention is captured by sudden stimuli and resists intrusive thoughts. **Cognitive reframing** changes interpretation without altering raw phenomenal character—you cannot choose not to feel pain, but you can sometimes change what the pain means. **Meditation** extends control through sustained indirect effort: jhana states alter phenomenal character, and lucid dreaming introduces agency into a normally involuntary domain. **Nirodha samapatti** marks the extreme—Laukkonen et al. (2023) document advanced meditators reporting total absence of consciousness, but cessation is "voluntary but spontaneous," achievable only through sustained preparation rather than direct command. The boundaries of control are not chosen by the experiencing subject.
+
+## Recurrence as Passive-Face Mechanism
+
+The passive face has internal mechanism, visible most clearly where consciousness cannot prevent specific contents from returning. Three structurally distinct faces of involuntary recurrence sharpen what the passive limit is *like* from inside, each with independent empirical pedigree.
+
+**The intrusion face.** Unwanted contents arrive uninvited. Clark and Rhyno's (2005) review reports unwanted-intrusive-thought prevalence between 74% and 99% in non-clinical populations, and the International Intrusive Thoughts Interview Schedule replicates this near-universality across thirteen countries on six continents (Radomsky et al., 2014). Berntsen's diary studies (1996, 2010) find involuntary autobiographical memories outnumber deliberately retrieved ones roughly 2:1 and carry stronger emotional charge. Beaman and Williams (2010) document earworms in 89% of people weekly, their phenomenology distinguished by absent agency-feeling—"automatic mental singing" without any sense of having authored the singing. Cross-cultural and cross-modal pervasiveness suggests a structural feature of consciousness rather than a contingent psychological condition.
+
+**The rebound face.** Wegner's (1994) ironic-process theory diagnoses why suppression tends to amplify what it targets: mental control deploys an *operating process* searching for state-consistent contents and a *monitoring process* searching for state-inconsistent contents—and the monitor must hold the unwanted content in attention to detect its presence. Under cognitive load the operating process degrades first, leaving the monitor running with nothing to displace what it represents. Wang, Hagger, and Chatzisarantis's (2020) meta-analysis tempers the empirical claim: post-suppression rebound is numerically reversed in 18%–46% of analysed cases and ceases to be statistically significant under bias correction in some specifications. The Map takes the correction seriously. The structural argument survives: any system that detects whether X is absent must represent X, and concurrent enhancement during suppression—distinct from post-suppression rebound—remains robust.
+
+**The rumination face.** Once a content enters the recurrence loop, the loop sustains itself against will. Nolen-Hoeksema, Wisco, and Lyubomirsky's (2008) response-styles synthesis frames rumination as repetitive negative-mood-content thinking that recurs in the absence of immediate environmental demands and that maintains itself partly through the very efforts to escape it—thought-suppression attempts correlate robustly with rumination tendencies. Earworm episodes lasting hours, rumination episodes lasting days, and intrusive memories recurring for years all show the same loop-sustains-itself pattern: the exit mechanism is not under voluntary control. Passive acceptance and distraction outperform direct suppression, but neither is reliable.
+
+The seam between the three faces is the analytical claim. Intrusion concerns content selection (what returns); rebound concerns control-attempt feedback (what your refusal does to the unwanted content); rumination concerns loop persistence (why the recurrence does not decay). A theory addressing one face does not automatically address the others, which is why this material lives within the agency void rather than dispersing into separate concerns.
+
+The apophatic signature ties the three together. The monitoring required to detect recurrence is part of the machinery that summons it. To check whether you have stopped thinking about X requires representing X; to notice that you are ruminating supplies fresh ruminative content; to observe the moment of return reliably misses it, since the content is already present by the time observation registers. The control surface and the surveillance surface are the same surface, and operating one operates the other.
+
+This is the operational complement of [the thought-stream void's](/voids/thought-stream-void/) handling of *generation*—how thoughts arise unbidden in the first place. Recurrence concerns *re-presentation*: the same content returning, the same loop persisting, the same fragment refusing to be released. The void runs structurally adjacent to [the suspension void](/voids/suspension-void/) (cannot-suspend-content-loop runs parallel to cannot-suspend-judgment, and the same self-investigator circularity recurs) and engages [the ownership void](/voids/ownership-void/) in a sharp form: the unbidden content arrives already tagged as mine while feeling as though it came from elsewhere. The felt sense of intrusion—the texture by which a recurrence registers as alien-yet-mine—is itself a [noetic feeling](/voids/noetic-feelings-void/) whose generative mechanism is opaque to the consciousness that bears it.
+
+The recurrence faces *constrain* the dualist reading without *establishing* it. A physicalist process model—Inzlicht and Schmeichel's (2012) resource-redeployment account, or any framework treating the operating-monitor asymmetry as an architectural feature of biological cognition—accommodates the same dissociations without contradiction. What the recurrence material adds to the agency void is a sharper grain on the passive limit's structure: not just the broad observation that consciousness cannot will pain away, but a typology of *how* the inability operates when consciousness tries—and the recognition that the very faculty consciousness uses to detect its trying is part of what defeats it. You cannot will away recurrence the way you cannot will away pain; the parallel is structural, and it carries the same residue when the dualist and physicalist readings diverge on what the parallel ultimately reveals.
 
 ## The Verification Circularity
 
@@ -150,6 +171,9 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/): the Map's com
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness connects to physics
 - [erasure-void](/voids/erasure-void/) — Clinical sister case: self-monitoring eroding alongside what it would monitor
 - [suspension-void](/voids/suspension-void/) — Structural sister case: withholding judgment shares the same self-investigator circularity
+- [thought-stream-void](/voids/thought-stream-void/) — Operational complement: handles thought *generation* where the recurrence faces here handle *re-presentation*
+- [ownership-void](/voids/ownership-void/) — Mineness of the unbidden content: cross-link to the recurrence puzzle
+- [noetic-feelings-void](/voids/noetic-feelings-void/) — The felt texture of intrusion as itself a noetic feeling
 - [inference-void](/voids/inference-void/) — Why every act of self-checking is itself an inference whose grounding is opaque
 - [tacit-integration-void](/voids/tacit-integration-void/) — The from-to structure the vanishing-target phenomenology instantiates
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — How each tenet generates its characteristic void
@@ -158,17 +182,71 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/): the Map's com
 
 ## References
 
-1. Damasio, A. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam.
-2. De Brigard, F. (2014). "In Defence of the Self-Stultification Objection." *Journal of Consciousness Studies*.
-3. Haggard, P., Clark, S., & Kalogeras, J. (2002). "Voluntary Action and Conscious Awareness." *Nature Neuroscience*, 5(4), 382–385.
-4. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-5. Laukkonen, R.E., et al. (2023). "Cessations of Consciousness in Meditation: Advancing a Scientific Understanding of Nirodha Samapatti." *Progress in Brain Research*, 280.
-6. Libet, B. et al. (1983). "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity." *Brain*, 106(3), 623–642.
-7. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-8. Montupil, J., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
-9. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
-10. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
-11. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-12. Velmans, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
-13. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
-14. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
+1. Beaman, C.P., & Williams, T.I. (2010). "Earworms ('Stuck Song Syndrome'): Towards a Natural History of Intrusive Thoughts." *British Journal of Psychology*, 101(4), 637–653.
+2. Berntsen, D. (2010). "The Unbidden Past: Involuntary Autobiographical Memories as a Basic Mode of Remembering." *Current Directions in Psychological Science*, 19(2), 138–142.
+3. Clark, D.A., & Rhyno, S. (2005). "Unwanted Intrusive Thoughts in Nonclinical Individuals." In D.A. Clark (Ed.), *Intrusive Thoughts in Clinical Disorders*. Guilford.
+4. Damasio, A. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam.
+5. De Brigard, F. (2014). "In Defence of the Self-Stultification Objection." *Journal of Consciousness Studies*.
+6. Haggard, P., Clark, S., & Kalogeras, J. (2002). "Voluntary Action and Conscious Awareness." *Nature Neuroscience*, 5(4), 382–385.
+7. Inzlicht, M., & Schmeichel, B.J. (2012). "What Is Ego Depletion? Toward a Mechanistic Revision of the Resource Model of Self-Control." *Perspectives on Psychological Science*, 7(5), 450–463.
+8. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+9. Laukkonen, R.E., et al. (2023). "Cessations of Consciousness in Meditation: Advancing a Scientific Understanding of Nirodha Samapatti." *Progress in Brain Research*, 280.
+10. Libet, B. et al. (1983). "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity." *Brain*, 106(3), 623–642.
+11. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+12. Montupil, J., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
+13. Nolen-Hoeksema, S., Wisco, B.E., & Lyubomirsky, S. (2008). "Rethinking Rumination." *Perspectives on Psychological Science*, 3(5), 400–424.
+14. Radomsky, A.S., et al. (2014). "Part 1—You Can Run but You Can't Hide: Intrusive Thoughts on Six Continents." *Journal of Obsessive-Compulsive and Related Disorders*, 3(3), 269–279.
+15. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
+16. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
+17. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+18. Velmans, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
+19. Wang, D.A., Hagger, M.S., & Chatzisarantis, N.L.D. (2020). "Ironic Effects of Thought Suppression: A Meta-Analysis." *Perspectives on Psychological Science*, 15(3), 778–793.
+20. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
+21. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
+22. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
+
+<!-- AI REFINEMENT LOG - 2026-05-08
+Driver: Unconsumed research note [voids-recurrence-void-2026-05-05](/research/voids-recurrence-void-2026-05-05/)
+(target_section voids unavailable — section at 100/100 cap). Refined into
+agency-void as operational instances of its passive-face limit.
+
+Changes made:
+- Inserted new ~750-word section "Recurrence as Passive-Face Mechanism"
+  between "The Spectrum of Control" and "The Verification Circularity",
+  naming three structurally distinct recurrence faces: intrusion (Clark &
+  Rhyno; Berntsen; Beaman & Williams), rebound (Wegner; Wang et al. 2020
+  meta-analytic correction), rumination (Nolen-Hoeksema et al.). Apophatic
+  signature (the monitor part of summoning machinery) explicitly developed.
+- Cross-linked to thought-stream-void (operational complement: re-presentation
+  vs generation), suspension-void (parallel circularity), ownership-void
+  (mineness of unbidden content), noetic-feelings-void (felt sense of
+  intrusion as itself a noetic feeling).
+- Framework-stage-calibration honoured: dissociations *constrain* the
+  dualist reading without *establishing* it; physicalist process model
+  (Inzlicht & Schmeichel) named as accommodating the same dissociations
+  without contradiction.
+- Added 8 new references (Beaman & Williams; Berntsen; Clark & Rhyno;
+  Inzlicht & Schmeichel; Nolen-Hoeksema, Wisco & Lyubomirsky; Radomsky
+  et al.; Wang, Hagger & Chatzisarantis; Wegner 1994).
+- Frontmatter: ai_modified and last_deep_review updated to 2026-05-08T13:36;
+  modified to 2026-05-08; thought-stream-void, noetic-feelings-void, and
+  research/voids-recurrence-void-2026-05-05 added to related_articles.
+- Further Reading expanded with thought-stream-void, ownership-void,
+  noetic-feelings-void entries.
+- Cliché audit: no "This is not X. It is Y." patterns introduced.
+- Length: 2,463 → 3,443 words (under 3,500 voids hard threshold).
+
+Engagement classification: with physicalist process-model reading (Inzlicht
+& Schmeichel) — Mode Three (framework-boundary marking); the resource-
+redeployment account accommodates the same operating-monitor dissociations
+within physicalism without contradiction, so the disagreement is bedrock
+and named honestly via "constrain rather than establish" framing.
+
+Follow-on consideration: voids/suspension-void may warrant a parallel
+sibling refinement integrating the rebound-face (Wegner ironic-process)
+under its self-investigator-circularity territory. Out of scope for this
+refine; flag as candidate for future task generation rather than expanding
+this pass.
+
+This log should be removed after human review.
+-->

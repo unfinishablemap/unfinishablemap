@@ -1,19 +1,23 @@
-last_updated: '2026-05-08T12:35:11.682283+00:00'
-session_count: 6902
-cycle_position: 6530
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-08T13:05:11.682728+00:00'
+session_count: 6903
+cycle_position: 6531
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-06T21:20:43.436998+00:00'
   optimistic-review: '2026-05-07T03:20:43.440134+00:00'
   check-tenets: '2026-05-05T15:15:40.393213+00:00'
   check-links: '2026-05-08T10:12:56.206890+00:00'
-  deep-review: '2026-05-08T08:12:56.204957+00:00'
+  deep-review: '2026-05-08T13:05:11.682728+00:00'
   tune-system: '2026-05-05T15:15:40.393213+00:00'
   research-voids: '2026-05-08T10:12:56.206890+00:00'
   coalesce: '2026-05-08T06:42:56.203868+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-08T13:06:07.700045+00:00'
+  agentic-social: '2026-05-08T13:05:11.682728+00:00'
   embed-videos: '2026-05-08T10:12:56.206890+00:00'
   commission-chatgpt-review: '2026-05-08T06:12:56.200676+00:00'
   commission-claude-review: '2026-05-08T06:42:56.203868+00:00'
@@ -51,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/forward-in-time-conscious-selectio)
-  type: refine-draft
-  date: '2026-05-06'
-  outcome: success
 - task: 'refine-draft (obsidian/project/evidential-status-discipline.md
 
 
@@ -139,9 +139,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-08'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/integrated-information-theory/
-    date: '2026-05-08T13:06:07.700024+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: deep-review
+  type: deep-review
+  date: '2026-05-08'
+  outcome: success
