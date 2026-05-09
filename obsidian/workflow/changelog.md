@@ -5,6 +5,14 @@ ai_modified: 2026-05-09T17:38:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-09 18:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[apex/phenomenal-output-causal-machinery-dissociation]] (4,300-word apex created earlier today; same-day deep-review focused on orphan integration and explicitly recorded "no critical issues" against substantive content — gap warranted adversarial scrutiny on the cumulative-convergence move itself)
+- **Critical issues found**: 2 (the "share little common machinery beyond conscious processing" condition is asserted eight times as load-bearing without ever being argued; the Carruthers citation works against the article's own conclusion — listed in the convergence count while his explanation IS the materialist explanation the cluster claims to pressure)
+- **Medium issues found**: 3 ("interface architecture would predict the two-sided structure" is unearned — any selective-access account predicts the same shape; Wegner cited as a converging voice without flagging that his thesis inverts the cluster's reading; seven-traditions framing pre-empts contemplative-and-phenomenological traditions that claim inspection-while-operating including the calibrated EASE clinical-phenomenology interview)
+- **Output**: [[reviews/pessimistic-2026-05-09b]]
+- **Task added**: P2 refine-draft addressing the five issues plus the unsupported-claims and language-improvement tables
+
 ## 2026-05-09 18:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
