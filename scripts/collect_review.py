@@ -58,7 +58,7 @@ last_curated: null
 outer_review_status: collected
 outer_review_conversation_url: {conversation_url}
 outer_review_extraction_method: {extraction_method}
----
+{subject_block}---
 
 **Date**: {date}
 **Reviewer**: {display_name}
@@ -77,6 +77,39 @@ outer_review_extraction_method: {extraction_method}
 {reply}
 """
 )
+
+
+def _render_subject_block(
+    subject_type: str | None,
+    subject_title: str | None,
+    subject_articles: list[str] | None,
+    subject_source: str | None,
+) -> str:
+    """Render the optional subject_* frontmatter lines.
+
+    Empty when no subject metadata was passed (legacy / pre-feature
+    commissions). Trailing newline when populated so the closing `---` lands
+    on its own line.
+    """
+    if subject_type is None and subject_source is None:
+        return ""
+    lines: list[str] = []
+    if subject_type is not None:
+        lines.append(f"subject_type: {subject_type}")
+    if subject_title is not None:
+        # Quote with double quotes; escape any embedded double quotes.
+        escaped = subject_title.replace("\\", "\\\\").replace('"', '\\"')
+        lines.append(f'subject_title: "{escaped}"')
+    if subject_articles is not None:
+        if subject_articles:
+            lines.append("subject_articles:")
+            for a in subject_articles:
+                lines.append(f"  - {a}")
+        else:
+            lines.append("subject_articles: []")
+    if subject_source is not None:
+        lines.append(f"subject_source: {subject_source}")
+    return "\n".join(lines) + "\n"
 
 
 def _slug_to_display_name(slug: str) -> str:
@@ -139,6 +172,10 @@ def build_review_file(
     model_slug: str,
     commissioned_date: str,
     extraction_method: str = "js-dom",
+    subject_type: str | None = None,
+    subject_title: str | None = None,
+    subject_articles: list[str] | None = None,
+    subject_source: str | None = None,
 ) -> None:
     """Write the seed-frontmatter review file."""
     response_md = html_to_markdown(response_html)
@@ -147,6 +184,9 @@ def build_review_file(
 
     ai_system = _slug_to_ai_system(model_slug)
     display_name = _slug_to_display_name(model_slug)
+    subject_block = _render_subject_block(
+        subject_type, subject_title, subject_articles, subject_source
+    )
     content = SEED_FRONTMATTER_TEMPLATE.format(
         display_name=display_name,
         date=commissioned_date,
@@ -161,6 +201,7 @@ def build_review_file(
         about=_ABOUT_PARA,
         prompt=prompt_text.strip(),
         reply=response_md.strip(),
+        subject_block=subject_block,
     )
 
     target_path.parent.mkdir(parents=True, exist_ok=True)
@@ -186,7 +227,29 @@ def main() -> int:
                     help="ISO date the prompt was commissioned, e.g., 2026-05-04")
     ap.add_argument("--extraction-method", default="js-dom",
                     choices=["js-dom", "text-fallback"])
+    ap.add_argument("--subject-type", default=None,
+                    help="Subject metadata copied from the pending entry "
+                         "(queue/site/recent).")
+    ap.add_argument("--subject-title", default=None)
+    ap.add_argument("--subject-articles", default=None,
+                    help="Comma-separated article paths the subject covers.")
+    ap.add_argument("--subject-source", default=None,
+                    help="Provenance, e.g. 'outer-todo.md:L24' or "
+                         "'fallback:site-stale-7d'.")
     args = ap.parse_args()
+
+    subject_articles = (
+        [a.strip() for a in args.subject_articles.split(",") if a.strip()]
+        if args.subject_articles
+        else None
+    )
+
+    common_subject_kwargs = dict(
+        subject_type=args.subject_type,
+        subject_title=args.subject_title,
+        subject_articles=subject_articles,
+        subject_source=args.subject_source,
+    )
 
     if args.response_md_file is not None:
         # Already markdown; skip HTML conversion
@@ -199,6 +262,7 @@ def main() -> int:
             model_slug=args.model_slug,
             commissioned_date=args.commissioned_date,
             extraction_method=args.extraction_method,
+            **common_subject_kwargs,
         )
     else:
         response_html = base64.b64decode(args.response_html_b64).decode("utf-8")
@@ -210,6 +274,7 @@ def main() -> int:
             model_slug=args.model_slug,
             commissioned_date=args.commissioned_date,
             extraction_method=args.extraction_method,
+            **common_subject_kwargs,
         )
     print(f"Wrote {args.target}")
     return 0
@@ -223,12 +288,19 @@ def _write_with_markdown(
     model_slug: str,
     commissioned_date: str,
     extraction_method: str,
+    subject_type: str | None = None,
+    subject_title: str | None = None,
+    subject_articles: list[str] | None = None,
+    subject_source: str | None = None,
 ) -> None:
     """Same as build_review_file but takes already-converted markdown."""
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     today = datetime.now(timezone.utc).date().isoformat()
     ai_system = _slug_to_ai_system(model_slug)
     display_name = _slug_to_display_name(model_slug)
+    subject_block = _render_subject_block(
+        subject_type, subject_title, subject_articles, subject_source
+    )
     content = SEED_FRONTMATTER_TEMPLATE.format(
         display_name=display_name,
         date=commissioned_date,
@@ -243,6 +315,7 @@ def _write_with_markdown(
         about=_ABOUT_PARA,
         prompt=prompt_text.strip(),
         reply=response_md.strip(),
+        subject_block=subject_block,
     )
     target_path.parent.mkdir(parents=True, exist_ok=True)
     target_path.write_text(content, encoding="utf-8")

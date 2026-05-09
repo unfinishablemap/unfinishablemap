@@ -11,8 +11,14 @@ from tools.reviews.pending import (
     save_pending,
 )
 from tools.reviews.services import SERVICES, ReviewService, get_service
+from tools.reviews.subjects import (
+    CycleSubject,
+    mark_consumed,
+    select_cycle_subject,
+)
 
 __all__ = [
+    "CycleSubject",
     "PendingReview",
     "ReviewService",
     "SERVICES",
@@ -22,6 +28,8 @@ __all__ = [
     "get_service",
     "load_pending",
     "mark_collected",
+    "mark_consumed",
     "mark_failed",
     "save_pending",
+    "select_cycle_subject",
 ]

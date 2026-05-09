@@ -46,6 +46,13 @@ class PendingReview:
     failure_reason: Optional[str] = None
     # Original prompt (full text), so a recovery commission can reuse it.
     prompt_text: Optional[str] = None
+    # Subject metadata — populated when the commission consults the
+    # outer-todo queue or fallback selector. Unset (None) for legacy
+    # in-flight reviews that predate the steerable-subject system.
+    subject_type: Optional[str] = None  # "queue" | "site" | "recent"
+    subject_title: Optional[str] = None
+    subject_articles: Optional[list[str]] = None
+    subject_source: Optional[str] = None  # provenance, e.g., "outer-todo.md:L24"
 
     def __post_init__(self) -> None:
         if self.status not in VALID_STATUSES:
@@ -92,6 +99,10 @@ def load_pending(path: Optional[Path] = None) -> list[PendingReview]:
                 last_attempt_at=last_attempt_at,
                 failure_reason=entry.get("failure_reason"),
                 prompt_text=entry.get("prompt_text"),
+                subject_type=entry.get("subject_type"),
+                subject_title=entry.get("subject_title"),
+                subject_articles=entry.get("subject_articles"),
+                subject_source=entry.get("subject_source"),
             )
         )
     return out
@@ -120,6 +131,10 @@ def add_commission(
     target_filename: str,
     commissioned_at: Optional[datetime] = None,
     prompt_text: Optional[str] = None,
+    subject_type: Optional[str] = None,
+    subject_title: Optional[str] = None,
+    subject_articles: Optional[list[str]] = None,
+    subject_source: Optional[str] = None,
     path: Optional[Path] = None,
 ) -> PendingReview:
     """Append a new pending commission. Returns the created record."""
@@ -131,6 +146,10 @@ def add_commission(
         prompt_summary=prompt_summary,
         target_filename=target_filename,
         prompt_text=prompt_text,
+        subject_type=subject_type,
+        subject_title=subject_title,
+        subject_articles=subject_articles,
+        subject_source=subject_source,
     )
     reviews.append(review)
     save_pending(reviews, path)

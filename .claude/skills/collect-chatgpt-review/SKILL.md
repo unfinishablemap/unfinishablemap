@@ -197,6 +197,18 @@ If a chunk gets blocked by the MCP filter (`[BLOCKED: ...]`), narrow the slice (
 
 ## Step 6: Write the review file
 
+Look up the pending entry to extract its subject metadata (populated at commission time):
+
+```python
+from tools.reviews import load_pending
+entry = next(r for r in load_pending() if r.target_filename == target_filename)
+subject_articles_csv = (
+    ",".join(entry.subject_articles) if entry.subject_articles else None
+)
+```
+
+If `entry.subject_type` is None, this is a legacy in-flight commission predating the steerable-subject system — omit the `--subject-*` args entirely (the script renders no `subject_*` block).
+
 ```bash
 uv run python scripts/collect_review.py \
   --target obsidian/reviews/<target_filename> \
@@ -205,17 +217,23 @@ uv run python scripts/collect_review.py \
   --conversation-url "<conversation URL>" \
   --model-slug <slug> \
   --commissioned-date <ISO date> \
-  --extraction-method js-dom
+  --extraction-method js-dom \
+  --subject-type "<entry.subject_type>" \
+  --subject-title "<entry.subject_title>" \
+  --subject-articles "<subject_articles_csv>" \
+  --subject-source "<entry.subject_source>"
 ```
+
+The four `--subject-*` flags are optional; pass them only when the pending entry has populated subject metadata. The script renders them into the file's frontmatter so the synthesis pass and recent-aged-fallback dedupe can find which articles a review covered.
 
 Note: despite the flag name (`--response-html-b64`), pass the *markdown body* base64-encoded — the helper script feeds it to `html_to_markdown` which is a no-op for plain markdown (no HTML tags to convert). This keeps the CLI surface unchanged for future variants where the SKILL extracts HTML instead.
 
-Actually, since Step 4 produces markdown directly, the helper is doing redundant work. The cleanest path:
+Since Step 4 produces markdown directly, the cleaner path is:
 
 1. Save the assembled markdown to a temp file (e.g., `tmp/collect-body.md`).
-2. Invoke a thin variant: `python scripts/collect_review.py --target ... --prompt ... --response-md-file tmp/collect-body.md --conversation-url ... --model-slug ... --commissioned-date ...`
+2. Invoke `python scripts/collect_review.py --target ... --prompt ... --response-md-file tmp/collect-body.md --conversation-url ... --model-slug ... --commissioned-date ... --subject-type ... --subject-title ... --subject-articles ... --subject-source ...`
 
-If the helper script doesn't yet support `--response-md-file`, fall back to `--response-html-b64` (which still works because plain markdown contains no HTML tags and passes through `html_to_markdown` essentially unchanged).
+If the helper script doesn't support `--response-md-file`, fall back to `--response-html-b64` (markdown contains no HTML tags and passes through `html_to_markdown` essentially unchanged).
 
 ## Step 7: Mark collected and commit pending-reviews
 

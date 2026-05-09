@@ -277,6 +277,22 @@ State tracking in `obsidian/workflow/evolution-state.yaml` includes:
 - `task_chains.pending_cross_reviews`: New articles needing integration review
 - `replenishment_config`: Thresholds and limits
 
+### Outer Review Steering
+
+`obsidian/workflow/outer-todo.md` is a user-curated subject queue for the outer-review system. The user adds subjects (asking Claude to append entries in interactive sessions); the next UTC cycle consumes the top-priority open task and **all three services review that same subject on the same day**, so `/combine-outer-reviews` sees real cross-reviewer convergence.
+
+Selection cascade inside `tools/reviews/subjects.select_cycle_subject`:
+
+1. **Reuse** — if a sibling service has already commissioned for this UTC date, reconstruct the subject from its `pending-reviews.yaml` entry. No queue mutation.
+2. **Queue** — pop the highest-priority topmost open task from `outer-todo.md` (P0 > P1 > P2 > P3, FIFO within tier). Mutation deferred until `mark-consumed` runs after a successful commission.
+3. **Site fallback** — if no review with `subject_type: site` (or legacy `-site-` filename infix) was commissioned in the last 7 days → return a full-site audit subject.
+4. **Recent-aged fallback** — pick the most-recently-modified article from `topics/`, `concepts/`, `apex/`, `voids/` whose `ai_modified` is between (now − 60d) and (now − 7d) and which has not been the focus of an outer review in the last 60 days. The 7-day floor is the SEO indexing buffer (search engines need time to pick up changes); the 60-day windows are tunables in `evolution-state.yaml:outer_review_subject_selection`.
+5. **None** — return `type: "none"`; the commission skill prints `NO_SUBJECT` and exits cleanly.
+
+The subject's metadata (`subject_type`, `subject_title`, `subject_articles`, `subject_source`) flows: commission → `pending-reviews.yaml` entry → collected review file's frontmatter. The synthesis pass and the dedupe query both read `subject_articles` to know which articles a review covered.
+
+To add a subject: ask Claude to append a `### P{N}: {title}` block to `obsidian/workflow/outer-todo.md`, optionally with `Articles:` and `Notes:` lines. Consumed entries get rewritten in place to `### ✓ {cycle-date}: {title}` with a `Reviewed:` footer.
+
 ### Changelog
 
 AI activity is logged to `obsidian/workflow/changelog.md` with:
@@ -305,9 +321,9 @@ The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. S
 
 **Time-triggered** (wall clock):
 - add-highlight-tweet: 8am UTC daily (finds highlight-worthy work, adds highlight, pushes, waits for deploy, tweets)
-- commission-chatgpt-review: 2am UTC daily (within automation window) — drives Chrome to commission a fresh outer review; pending-reviews.yaml records the in-flight entry.
-- commission-claude-review: 3am UTC daily — Opus 4.7 with Adaptive thinking + Research.
-- commission-gemini-review: 4am UTC daily — 2.5 Pro with Deep Research.
+- commission-chatgpt-review: 2am UTC daily (within automation window) — drives Chrome to commission a fresh outer review; pending-reviews.yaml records the in-flight entry. Consults `obsidian/workflow/outer-todo.md` for the cycle's subject (see Outer Review Steering below); may exit with `NO_SUBJECT` if both queue and fallbacks are empty.
+- commission-claude-review: 3am UTC daily — Opus 4.7 with Adaptive thinking + Research. Reuses the same subject ChatGPT picked at 02:00.
+- commission-gemini-review: 4am UTC daily — 2.5 Pro with Deep Research. Reuses the same subject as the prior services so all three reviewers tackle the same question and `/combine-outer-reviews` sees real convergence.
 - collect-{chatgpt,claude,gemini}-review: every loop iteration during the automation window when a pending review of the relevant service is ready (chatgpt ≥90 min, claude ≥60 min, gemini ≥20 min). 4h abandon cutoff for stuck conversations on all three. One commission and one collect per loop iteration to keep wall-clock cost predictable.
 - combine-outer-reviews: every loop iteration, fires once per cycle date when (a) all entries for that date in `pending-reviews.yaml` are resolved (none `pending`), (b) ≥2 of them are `collected` AND have `outer_review_status: processed` in their review file's frontmatter, (c) `obsidian/reviews/outer-review-synthesis-{date}.md` does not yet exist. Local Claude work — no Chrome, no automation-window gating; the synthesis file's existence is the idempotence marker.
 

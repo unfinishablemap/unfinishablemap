@@ -36,35 +36,31 @@ For manual invocation, the user must ensure their own Chrome with the Claude Cod
 
 3. **Chrome MCP available.** Call `mcp__claude-in-chrome__tabs_context_mcp` with `createIfEmpty: true`. If it errors, skip silently — the system shouldn't crash if Chrome isn't running.
 
-## Step 1: Generate the review prompt
+## Step 1: Determine the subject and compose the prompt
 
-Read recent activity to identify *one* observable pattern worth interrogating:
+The three services share one subject per UTC date so the synthesis pass (`/combine-outer-reviews`) sees real convergence. Ask the subject selector for this cycle's subject:
 
-- Read `obsidian/workflow/changelog.md` (last ~14 days of entries).
-- Read `recent_tasks` from `obsidian/workflow/evolution-state.yaml` (last ~20 entries).
-- List the last ~10 outer review files: `ls obsidian/reviews/outer-review-*.md`. Read the most recent 2–3 to avoid repeating their hypothesis.
+```bash
+uv run python -m tools.reviews.subjects select --cycle-date $(date -u +%F)
+```
 
-Identify ONE pattern that fits *at least one* of these shapes:
-- A topic cluster with several recent edits (signal: drift toward / harden of a position).
-- A tenet whose load-bearing claim has been recently challenged and reinforced.
-- A new apex or coalesce that may have absorbed a controversy.
-- A section approaching its cap (signal: capacity pressure may be skewing what gets written).
-- A claim that recently appeared in multiple articles (signal: cross-cluster propagation worth auditing).
+The selector returns JSON describing the subject. Branch on `type`:
 
-Compose a hypothesis-style prompt matching the 2026-05-03 review's shape. Template:
+- **`type: "queue"`** — a user-curated subject from `obsidian/workflow/outer-todo.md`. Use `title`, `articles`, and `notes` (passed inside `prompt_seed`) to compose the prompt. Reference each article by its Map URL (already in `prompt_seed`).
+- **`type: "site"`** — full-site review fallback (no site review in the last 7 days). Use the broad-audit framing from `prompt_seed`: scan the site for previously-unsurfaced insights, structural weaknesses, and tenet-coherence issues, ending with an improvements list.
+- **`type: "recent"`** — an article modified between 7 and 60 days ago that has not been the focus of an outer review in the last 60 days. The article's URL is in `prompt_seed`; ask whether its post-modification claims hold up.
+- **`type: "none"`** — nothing eligible to review this cycle. Print `NO_SUBJECT` and exit cleanly. Do not commission anything.
 
-> Examine the site https://unfinishablemap.org and its activity changelog https://unfinishablemap.org/workflow/changelog/. [State the observation in one sentence — what the site appears to be doing.] [Why this is suspicious in one sentence.] What is causing it to say that? Can you see a systemic error, or is that conclusion genuinely what the facts support, given that the tenets are taken as inviolate? Broaden your research outside of the site as necessary. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+Compose a 120–180-word service-shaped prompt around the subject. The prompt MUST include both:
 
-Keep the prompt under ~150 words. Save the full prompt text and a short summary (≤80 chars) for the pending-reviews record.
+- the site URL: `https://unfinishablemap.org`
+- the changelog URL: `https://unfinishablemap.org/workflow/changelog/`
 
-The explicit changelog reference matters — without it, external reviewers may search via Google indexing alone and miss content from the past 24-48 hours (the same-day index lag that caused the 2026-05-04 Claude review's empirical claim to fail verification). The changelog URL gives the reviewer a chronological view of recent activity that the search index may not yet reflect.
+…because external reviewers' web search has 24–48h index lag — without the changelog they miss recent activity (this caused the 2026-05-04 Claude review's empirical claim to fail verification). Always close with: "End your report with a list of concrete potential improvements to specific articles and to the site's methodology." That closer makes task generation cleaner.
 
-The "list of concrete potential improvements" closer makes task generation cleaner — it asks the reviewer to translate diagnosis into actionable suggestions rather than leaving the synthesis to outer-review processing.
+Save the full prompt text and a short summary (≤80 chars). Keep the subject's `type`, `title`, `articles`, and `source` for the pending-reviews record (Step 7).
 
-If no clear pattern emerges, rotate through these meta-prompts (track via `state.last_runs["outer-review-meta-prompt-<slug>"]` to avoid repeats):
-- **tenet-coherence**: "Audit the five tenets for internal coherence. Are there latent contradictions when combined with claims load-bearing in recent articles?"
-- **citation-spot-check**: "Pick three recent articles. Verify their key citations against the cited sources. Where does the Map paraphrase or attribute incorrectly?"
-- **reasoning-pattern**: "Identify one recurring inference move on the site. Is it a defensible reasoning pattern, or a systemic shortcut?"
+If the selector returns `type: "queue"`, you will mark the queue task consumed in Step 7.5 only after the conversation URL is captured — never before.
 
 ## Step 2: Navigate and detect login
 
@@ -163,8 +159,28 @@ add_commission(
     prompt_summary=short_summary,  # ≤80 chars
     target_filename=target,
     prompt_text=full_prompt,
+    subject_type=subject["type"],
+    subject_title=subject["title"],
+    subject_articles=subject["articles"],
+    subject_source=subject["source"],
 )
 ```
+
+(`subject` is the JSON dict returned by the selector in Step 1. The `subject_*` fields are required so the next service in the cycle can reuse the subject and so the synthesis dedupe logic can find which articles a review focused on.)
+
+## Step 7.5: Mark the queue task consumed (if applicable)
+
+If the subject came from the queue (`subject["source"]` starts with `outer-todo.md:L`), mark it ✓ in `outer-todo.md` so subsequent commissions don't pop it again:
+
+```bash
+uv run python -m tools.reviews.subjects mark-consumed \
+    --source "<subject.source>" \
+    --cycle-date $(date -u +%F)
+```
+
+For `type: "site"` / `"recent"` / `"reuse:..."` subjects this step is skipped — `mark-consumed` is a queue-only operation.
+
+This step runs AFTER `add_commission` so a failed commission (no conversation URL captured) never burns a queue task.
 
 ## Step 8: Log and exit
 

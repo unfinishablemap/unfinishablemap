@@ -163,6 +163,18 @@ Halve the chunk size on `[BLOCKED: ...]` and retry. Concatenate.
 
 ## Step 6: Write the review file
 
+Look up the pending entry's subject metadata:
+
+```python
+from tools.reviews import load_pending
+entry = next(r for r in load_pending() if r.target_filename == target_filename)
+subject_articles_csv = (
+    ",".join(entry.subject_articles) if entry.subject_articles else None
+)
+```
+
+If `entry.subject_type` is None (legacy commission), omit the `--subject-*` args entirely.
+
 Save assembled markdown to `tmp/collect-gemini-body-<date>.md`, then:
 
 ```bash
@@ -173,8 +185,14 @@ uv run python scripts/collect_review.py \
   --conversation-url "<conversation URL>" \
   --model-slug gemini-2-5-pro \
   --commissioned-date <ISO date> \
-  --extraction-method js-dom
+  --extraction-method js-dom \
+  --subject-type "<entry.subject_type>" \
+  --subject-title "<entry.subject_title>" \
+  --subject-articles "<subject_articles_csv>" \
+  --subject-source "<entry.subject_source>"
 ```
+
+The four `--subject-*` flags are optional; pass them only when the pending entry has populated subject metadata. The script renders them into the file's frontmatter so the synthesis pass and recent-aged-fallback dedupe can find which articles a review covered.
 
 ## Step 7: Mark collected and invoke /outer-review
 

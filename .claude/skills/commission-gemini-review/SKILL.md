@@ -24,11 +24,21 @@ When invoked by `evolve_loop.py`, Chrome is **already running** under the dedica
 2. **Cooldown after recent failure** — `find_recent_failed("gemini", now, 1)`. Skip if returns an entry.
 3. **Chrome MCP available** — `tabs_context_mcp` with `createIfEmpty: true`. Skip silently if errors.
 
-## Step 1: Generate the review prompt
+## Step 1: Determine the subject and compose the prompt
 
-Same as `commission-claude-review` Step 1. Read changelog + recent_tasks; identify ONE observable pattern; compose hypothesis-style prompt under ~120 words; check the most recent 3 outer reviews (across all services) to avoid repetition.
+Same shape as `commission-chatgpt-review` / `commission-claude-review` Step 1. Run the subject selector:
 
-Save full prompt text and short summary (≤80 chars).
+```bash
+uv run python -m tools.reviews.subjects select --cycle-date $(date -u +%F)
+```
+
+Branch on `type` ∈ `{queue, site, recent, none}`. For `none`, print `NO_SUBJECT` and exit cleanly.
+
+The three services share one subject per UTC date so the synthesis pass sees real convergence. If a sibling service has already commissioned for this date, the selector returns a `reuse:...` source with the same subject — compose a Gemini-flavoured prompt around it.
+
+Compose a 120–180-word prompt that MUST include both `https://unfinishablemap.org` and `https://unfinishablemap.org/workflow/changelog/` (web-search has 24–48h index lag). Always close with: "End your report with a list of concrete potential improvements to specific articles and to the site's methodology."
+
+Save full prompt text, short summary (≤80 chars), and the subject's `type`, `title`, `articles`, `source` for Step 8.
 
 ## Step 2: Navigate and check login
 
@@ -129,8 +139,24 @@ add_commission(
     prompt_summary=short_summary,
     target_filename=target,
     prompt_text=full_prompt,
+    subject_type=subject["type"],
+    subject_title=subject["title"],
+    subject_articles=subject["articles"],
+    subject_source=subject["source"],
 )
 ```
+
+## Step 8.5: Mark the queue task consumed (if applicable)
+
+If `subject["source"]` starts with `outer-todo.md:L`, mark it ✓:
+
+```bash
+uv run python -m tools.reviews.subjects mark-consumed \
+    --source "<subject.source>" \
+    --cycle-date $(date -u +%F)
+```
+
+No-op for non-queue subjects. Runs AFTER `add_commission` so a failed commission never burns a queue task. By the time Gemini runs at 04:00 UTC, ChatGPT's 02:00 commission has typically already consumed the queue task — so the selector returns `reuse:...` and this step is naturally skipped.
 
 ## Step 9: Log and exit
 

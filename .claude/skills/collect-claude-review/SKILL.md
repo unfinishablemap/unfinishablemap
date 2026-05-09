@@ -174,6 +174,18 @@ If a chunk gets blocked (`[BLOCKED: ...]`), halve the chunk size and retry. Conc
 
 ## Step 7: Write the review file
 
+Look up the pending entry to extract its subject metadata (populated at commission time):
+
+```python
+from tools.reviews import load_pending
+entry = next(r for r in load_pending() if r.target_filename == target_filename)
+subject_articles_csv = (
+    ",".join(entry.subject_articles) if entry.subject_articles else None
+)
+```
+
+If `entry.subject_type` is None (legacy in-flight commission predating the steerable-subject system), omit the `--subject-*` args entirely.
+
 Save the assembled markdown to `tmp/collect-claude-body-<date>.md`, then:
 
 ```bash
@@ -184,8 +196,14 @@ uv run python scripts/collect_review.py \
   --conversation-url "<conversation URL>" \
   --model-slug claude-opus-4-7 \
   --commissioned-date <ISO date> \
-  --extraction-method js-dom
+  --extraction-method js-dom \
+  --subject-type "<entry.subject_type>" \
+  --subject-title "<entry.subject_title>" \
+  --subject-articles "<subject_articles_csv>" \
+  --subject-source "<entry.subject_source>"
 ```
+
+The four `--subject-*` flags are optional; pass them only when the pending entry has populated subject metadata. The script renders them into the file's frontmatter so the synthesis pass and recent-aged-fallback dedupe can find which articles a review covered.
 
 Note: Claude doesn't expose a model identifier per message in the DOM. The `model_slug=claude-opus-4-7` is hardcoded based on the project's default. If the project default changes, update `tools/reviews/services.py` and this SKILL.md together.
 
