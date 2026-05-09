@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T22:38:00+00:00
+ai_modified: 2026-05-09T23:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 23:15 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-normative-force]]
+- **Word count**: 2749 → 2747 (-2 words; 92% of 3000 soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0 (none found — attribution check, calibration check, source/Map separation, self-contradiction all pass)
+- **Medium issues addressed**: 2
+  1. LLM-cliché violation in §Within-Domain Conflict: "This residue is not abstract recognition of suboptimality. It is the felt persistence of a demand..." → "This residue exceeds abstract recognition of suboptimality: it is the felt persistence of a demand one continues to recognise as *legitimate* — not outweighed so much as sacrificed." Removes the prohibited "X is not Y. It is Z." construct from `obsidian/project/writing-style.md` while preserving the residue/abstract-recognition distinction.
+  2. Frontmatter hygiene: deduplicated `[[evaluative-phenomenal-character]]` (3 → 1 in concepts list); reclassified `[[topics/phenomenal-value-realism]]` from concepts to topics.
+- **Enhancements made**: 0 net additions (third review of a stable article).
+- **Reasoning-mode classification (editor-internal)**: rationalism = Mode 2; contractualism (Korsgaard) = Mode 2; naturalism = Mode 2 with Mode 3 boundary-marking; expressivism = Mode 3 (phenomenological appeal). No label leakage; no boundary-substitution.
+- **Bedrock disagreements not re-flagged**: eliminative materialism, hard-nosed physicalism, MWI defender, Buddhist deconstruction — all carried forward per prior stability notes.
+- **Convergence note**: Third review. Two prior reviews (2026-03-04, 2026-03-25) both found no critical issues. Article reached stability after the 2026-03-04 coalesce; recent commits since 03-25 were cross-link maintenance. This pass is hygiene-only — cliché phrasing fix and frontmatter dedup. No expansion attempted.
+- **Output**: [[reviews/deep-review-2026-05-09-consciousness-and-normative-force]]
 
 ## 2026-05-09 22:38 UTC - deep-review
 - **Status**: Success

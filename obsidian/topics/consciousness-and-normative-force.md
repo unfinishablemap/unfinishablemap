@@ -4,16 +4,15 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-04-16T00:11:00+00:00
+ai_modified: 2026-05-09T23:15:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
   - "[[ethics-of-consciousness]]"
   - "[[topics/free-will]]"
   - "[[meaning-of-life]]"
-concepts:
-  - "[[evaluative-phenomenal-character]]"
   - "[[topics/phenomenal-value-realism]]"
+concepts:
   - "[[evaluative-phenomenal-character]]"
   - "[[qualia]]"
   - "[[phenomenology]]"
@@ -25,7 +24,6 @@ concepts:
   - "[[moral-responsibility]]"
   - "[[consciousness-value-connection]]"
   - "[[concepts/epiphenomenalism]]"
-  - "[[evaluative-phenomenal-character]]"
 related_articles:
   - "[[tenets]]"
   - "[[normative-void]]"
@@ -48,7 +46,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-03-25T20:40:00+00:00
+last_deep_review: 2026-05-09T23:15:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-normative-experience/"
   - "/topics/consciousness-and-the-grounds-of-normative-authority/"
@@ -118,7 +116,7 @@ If normativity were projected onto experience by external mechanisms, one would 
 
 Two moral obligations collide: you promised to attend a friend's event, but a stranger needs immediate help. Within-domain conflict produces a characteristic phenomenology of *tearing* (Williams 1965). The demands share the same felt quality yet pull in opposite directions. This differs from indecision — in indecision, the agent lacks sufficient reason; in normative conflict, the agent has *too much* reason directed at incompatible actions. The weight accumulates rather than cancelling.
 
-Bernard Williams analysed the extreme case: tragic dilemmas where both options are morally catastrophic. He argued that "agent-regret" (Williams 1981) remains appropriate after *either* choice — the overridden obligation persists as "moral residue," an ineliminable trace of the obligation acknowledged but unfulfilled. This residue is not abstract recognition of suboptimality. It is the felt persistence of a demand that one continues to recognise as *legitimate* — not outweighed so much as sacrificed.
+Bernard Williams analysed the extreme case: tragic dilemmas where both options are morally catastrophic. He argued that "agent-regret" (Williams 1981) remains appropriate after *either* choice — the overridden obligation persists as "moral residue," an ineliminable trace of the obligation acknowledged but unfulfilled. This residue exceeds abstract recognition of suboptimality: it is the felt persistence of a demand one continues to recognise as *legitimate* — not outweighed so much as sacrificed.
 
 ### Cross-Domain Conflict
 
