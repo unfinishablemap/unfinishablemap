@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T05:40:00+00:00
+ai_modified: 2026-05-09T06:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 06:11 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/causal-powers]]
+- **Previous review**: [[reviews/deep-review-2026-05-06-causal-powers|2026-05-06]] (4th deep review)
+- **Context**: Cross-review of [[concepts/causal-powers]] and [[concepts/epiphenomenalism]] in light of the 2026-05-09 restructure of [[topics/empirical-phenomena-mental-causation]]. The previous review explicitly named restructure-driven integration opportunities as the only valid trigger condition for further work; that condition is now met.
+- **Word count**: 1720 → 1768 (+48), normal mode (71% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 — (1) extended the closing paragraph of "Relation to Site Perspective" to add [[empirical-phenomena-mental-causation]] alongside [[consciousness-and-causal-powers]] and [[causal-closure]] in the list of articles that address the empirical challenge powers realism does not itself answer; the borrowed phrasing ("the same fineness of phenomenology-physiology coupling across substrates that share little common machinery") faithfully reflects the empirical-phenomena article's own restructured argument. (2) Added two Further Reading bullets: empirical-phenomena (lateral integration), and an explicit epiphenomenalism entry surfacing the in-body link.
+- **Reasoning-mode classifications** (editor-internal): Article does not engage a specific named opponent in sustained engagement. Generic redescription objection in "Relation to Site Perspective" — Mode One (defective on its own terms; the article shows the objection misunderstands what powers realism *does*, using powers-realist commitments). All other persona disagreements (eliminative materialist, MWI defender, Buddhist, hard-nosed physicalist) — Mode Three / bedrock framework boundary, properly preserved as such.
+- **Calibration check**: Pass. Every claim re-read under the diagnostic; "metaphysically impossible, not merely empirically unlikely" is a *consequence of powers realism if powers realism is true*, not an empirical upgrade. Honest scope-marking in closing paragraph aligns with the empirical-phenomena article's "establishes the explanandum, not the mechanism" — the cross-link earns its place by reflecting this earned convergence.
+- **Stability note**: Article has now received four deep reviews; this pass adds only lateral integration, no internal revision. Future reviews should be triggered only by substantive modification or further new integration opportunities.
+- **Output**: [[reviews/deep-review-2026-05-09-causal-powers]]
 
 ## 2026-05-09 05:40 UTC - optimistic-review
 - **Status**: Success

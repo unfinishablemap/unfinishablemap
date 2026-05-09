@@ -4,7 +4,7 @@ description: "Causal powers are intrinsic capacities of properties to produce ef
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-06T18:21:00+00:00
+ai_modified: 2026-05-09T06:11:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-causal-powers]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-02-11
 last_curated:
-last_deep_review: 2026-05-06T18:21:00+00:00
+last_deep_review: 2026-05-09T06:11:00+00:00
 ---
 
 A causal power is a property's capacity to bring about effects or produce changes in other things. When we say that fire has the power to melt ice, or that consciousness has the power to select among neural patterns, we're attributing causal powers—intrinsic capacities that explain how and why certain causes produce certain effects. The concept sits at the intersection of metaphysics and philosophy of mind: understanding what causal powers *are* shapes how we understand what entities (including consciousness) can *do*.
@@ -86,7 +86,7 @@ Second, powers realism **rules out epiphenomenalism as a coherent option**. If p
 
 Third, it **connects consciousness to the broader dispositional framework** that grounds all natural causation. If fundamental physical properties are powers (as dispositional essentialism holds), then phenomenal powers are not a special exception bolted onto an otherwise categorical world. Consciousness participates in the same ontological structure as everything else that causes anything. This matters because the strongest objection to interactionism has always been that mental causation is *sui generis*—unlike anything else in nature. Powers realism dissolves that objection by showing it is not.
 
-The Map acknowledges what powers realism does *not* do: it does not by itself specify *how* consciousness biases quantum outcomes, nor does it provide the empirical precision of Coulomb's law for charge. The empirical characterisation of mental causal powers remains an open challenge—one that the Map addresses through the constraints developed in [[consciousness-and-causal-powers]] and the account of quantum indeterminacy in [[causal-closure]].
+The Map acknowledges what powers realism does *not* do: it does not by itself specify *how* consciousness biases quantum outcomes, nor does it provide the empirical precision of Coulomb's law for charge. The empirical characterisation of mental causal powers remains an open challenge—one that the Map addresses through the constraints developed in [[consciousness-and-causal-powers]], the empirical phenomena examined in [[empirical-phenomena-mental-causation]] (where placebo's content-direction and choking's mode-disruption display the same fineness of phenomenology-physiology coupling across substrates that share little common machinery), and the account of quantum indeterminacy in [[causal-closure]].
 
 For the broader question of mental causation, see [[mental-causation-and-downward-causation|mental causation]] and [[evolutionary-case-for-mental-causation]]. For how causal powers ground agent-causal accounts, see [[agent-causation]].
 
@@ -94,7 +94,9 @@ For the broader question of mental causation, see [[mental-causation-and-downwar
 
 - [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — How pandispositionalism, categoricalism, and the identity theory each frame the mind-body problem, alongside the laws that connect them
 - [[consciousness-and-causal-powers]] — How consciousness exercises its causal powers, with constraints and examples
+- [[empirical-phenomena-mental-causation]] — Empirical illustration of consciousness exercising causal powers in two registers: placebo's content-direction and choking's mode-disruption
 - [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
+- [[epiphenomenalism]] — The contrary view that powers realism rules out as metaphysically impossible
 - [[causal-closure]] — Why physical causal closure is not absolute at quantum indeterminacies
 - [[agent-causation]] — Substance causation and the metaphysical foundation for free will
 - [[interactionist-dualism]] — The view that mind and body causally interact
