@@ -1,13 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09 09:35:00+00:00
+ai_modified: 2026-05-09 14:12:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-09 14:12 UTC - deep-review (cross-review chain pass)
+- **Status**: Success (convergence — no critical issues)
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Previous review**: [deep-review-2026-05-09-phantom-limb-phenomena](/reviews/deep-review-2026-05-09-phantom-limb-phenomena/) (01:15 UTC same day, first review reached convergence)
+- **Context**: Cross-review chain pass triggered by the P2 cross-review task queued when phantom-limb-phenomena was expanded on 2026-05-08. Article unchanged since the morning review (file mtime predates the morning archive's creation timestamp).
+- **Word count**: 2836 → 2836 (unchanged; 95% of 3000 target — `ok`)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (convergence pass)
+- **Wikilink integrity**: all 18 wikilinks in body and frontmatter resolve to extant files (verified `hard-problem-of-consciousness`, `embodied-consciousness`, `pain-consciousness-and-causal-power`, `clinical-neuroplasticity-evidence-for-bidirectional-causation`, `out-of-body-experiences`, `somatic-interface`, `pain-asymbolia`, `filter-theory`, `interactionist-dualism`, `neuroplasticity`, `mental-causation-and-downward-causation`, `qualia`, `explanatory-gap`, `predictive-processing`, `tenets`, `neurological-dissociations-as-interface-architecture`, `dual-domain-capabilities-in-proprioception-and-spatial-imagination`, `sensorimotor-contingencies-and-the-interface`).
+- **Calibration check**: "decisively refute" remains qualified by "naive picture"; mirror-therapy "controlled evidence for top-down causation" still tempered by "mixed but real" qualifier; no possibility/probability slippage. Tenet-accepting reviewer would not flag any specific evidential-tier upgrade.
+- **Reasoning-mode classification**: stable from morning pass — Mode Two (production-conditions vs. phenomenal-content gap re: cortical remapping) and Mode Three (mirror-therapy boundary marking re: materialist absorption). No editor-vocabulary leakage.
+- **Bedrock stability**: all four stability notes from morning review remain in force (eliminative-materialist/physicalist disagreement, mirror-therapy effect-size debates, congenital-phantom evidential weight, interactionist-reading dualist commitment). No re-flagging.
+- **Cross-review finding**: outward cross-links from phantom-limb-phenomena are rich, but six closest siblings (`out-of-body-experiences`, `somatic-interface`, `pain-consciousness-and-causal-power`, `pain-asymbolia`, `clinical-neuroplasticity-evidence-for-bidirectional-causation`, `embodied-consciousness`) lack reciprocal inbound links. This is a sibling-side defect, not a phantom-limb defect — and the P2 cross-review task at `obsidian/workflow/todo.md` line 40 already names these articles explicitly with substantive bridging-clause guidance, so no new todo entry needed.
+- **Output**: [deep-review-2026-05-09-phantom-limb-phenomena](/reviews/deep-review-2026-05-09-phantom-limb-phenomena/) (existing archive extended with cross-review pass section)
+- **Recommendation**: future reviews should skip this article unless substantive content is modified; the article reached convergence on first review. The pending P2 cross-review task should focus on sibling-side backlink installation, not on further changes to phantom-limb-phenomena itself.
+
+## 2026-05-09 14:10 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-04
+- **Coverage**: 2/2 reviewers processed (sources: chatgpt-5-5-pro, claude-opus-4-7; gemini not yet integrated on this date)
+- **Clusters**: 1 convergent (tenet-protected bracketing where direct refutation is possible), 5 singletons, 0 divergent
+- **Tasks upgraded**: 0 (convergent cluster's matching task already complete)
+- **Tasks deduplicated**: 0
+- **Notes**: Claude's empirical claim ("no Duch references on site") was disputed by `/outer-review` verification and excluded from convergence; only the orthogonal methodological observation survived. Third outer review in two days to surface the same higher-order tenet-protected-reasoning weakness; the project-doc fix (`direct-refutation discipline`) was already written from prior cycles.
+- **Output**: [outer-review-synthesis-2026-05-04](/reviews/outer-review-synthesis-2026-05-04/)
 
 ## 2026-05-09 09:35 UTC - deep-review
 - **Status**: Success (fourth convergent review — no critical issues)

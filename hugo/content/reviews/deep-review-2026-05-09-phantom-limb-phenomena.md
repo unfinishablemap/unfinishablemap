@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-09 01:15:00+00:00
+ai_modified: 2026-05-09 14:12:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -90,3 +90,34 @@ None. The article is in stable form.
 - **The "consciousness is doing real causal work in selecting which body-model the brain commits to"** framing is the Map's interactionist reading, declared as such alongside the materialist alternative. This is the article's load-bearing dualist commitment and is honestly framed; future reviews should not flag the materialist alternative as a defeater.
 
 The article has reached convergence on first review. Subsequent reviews should expect to find no critical issues unless new content is added or new external evidence emerges.
+
+## Cross-Review Pass — 14:12 UTC
+
+Second pass triggered by the cross-review chain task queued when phantom-limb-phenomena was expanded. Article unchanged since the morning review (file mtime predates this archive's creation).
+
+### Convergence Confirmed
+
+- All 18 wikilinks in the body and frontmatter resolve to extant files: `hard-problem-of-consciousness`, `embodied-consciousness`, `pain-consciousness-and-causal-power`, `clinical-neuroplasticity-evidence-for-bidirectional-causation`, `out-of-body-experiences`, `somatic-interface`, `pain-asymbolia`, `filter-theory`, `interactionist-dualism`, `neuroplasticity`, `mental-causation-and-downward-causation`, `qualia`, `explanatory-gap`, `predictive-processing`, `tenets`, `neurological-dissociations-as-interface-architecture`, `dual-domain-capabilities-in-proprioception-and-spatial-imagination`, `sensorimotor-contingencies-and-the-interface`. No broken references.
+- Length unchanged at 2836 words (95% of 3000 target — `ok`). No length-driven moves needed.
+- Calibration honesty preserved: "decisively refute" remains qualified by "naive picture"; "controlled evidence for top-down causation" still tempered by the mixed-but-real mirror-therapy literature paragraph; no possibility/probability slippage introduced.
+- Reasoning-mode classification stable: Mode Two (production-conditions vs. phenomenal-content gap) and Mode Three (mirror-therapy boundary marking) as recorded in the morning pass. No editor-vocabulary leakage.
+- All bedrock-disagreement stability notes from the morning review remain in force. No re-flagging.
+
+### Cross-Review Findings (Sibling-Side)
+
+The article cross-links outward richly. The corresponding *backlinks* from the closest siblings are missing:
+
+- [topics/out-of-body-experiences.md](/topics/out-of-body-experiences/) (added 2026-05-08; closest sibling, both treat constructed-body phenomena) — no link to phantom-limb.
+- [concepts/somatic-interface.md](/concepts/somatic-interface/) — no link.
+- [topics/pain-consciousness-and-causal-power.md](/topics/pain-consciousness-and-causal-power/) — no link, despite phantom pain being the cleanest natural dissociation in the philosophy of pain.
+- [concepts/pain-asymbolia.md](/concepts/pain-asymbolia/) — no link, despite the article positioning phantom pain as the inverse dissociation to asymbolia.
+- [topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — no link, despite mirror therapy being a paradigm case.
+- [topics/embodied-consciousness.md](/topics/embodied-consciousness/) — no link.
+
+These are sibling-side defects, not phantom-limb defects. The fix is to queue cross-review tasks against each of these six siblings to add inbound links and integrate phantom-limb evidence where it strengthens existing arguments. Highest-priority candidates: `pain-consciousness-and-causal-power` and `pain-asymbolia` (where phantom pain is directly load-bearing for the dissociation argument), and `out-of-body-experiences` (most recent sibling, structural symmetry).
+
+### Remaining Items
+
+- Sibling backlink gaps (six articles listed above). Flag for cross-review task queueing.
+
+No further changes to phantom-limb-phenomena itself. Article confirmed stable.
