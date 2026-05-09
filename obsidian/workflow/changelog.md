@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T02:11:00+00:00
+ai_modified: 2026-05-09T02:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 02:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/empirical-phenomena-mental-causation]] (post-coalesce, post-condense form, 3144 words; not previously pessimistic-reviewed in coalesced form)
+- **Output**: [[reviews/pessimistic-2026-05-09]]
+- **Critical issues**: (1) non-sequitur at line 106 — "if consciousness were epiphenomenal, it could not interfere with procedural execution" is strictly false on standard epiphenomenalism; (2) boundary-substitution in the Epiphenomenalist Challenge section — grants the central move and then treats the standard hard problem as a defeater; (3) the "How the Two Cases Reinforce Each Other" central organising claim is asserted rather than demonstrated, with the "convergent vulnerability" sub-argument the weakest. Several unsupported claims need citation (skill-asymmetry choking, implicit-protection, Marueckova 2024, Tulving-to-motor-execution bridge). Follow-up P2 refine-draft task added to the queue.
 
 ## 2026-05-09 02:11 UTC - condense
 - **Status**: Success
