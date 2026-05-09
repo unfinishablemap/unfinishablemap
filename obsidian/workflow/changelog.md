@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T17:38:00+00:00
+ai_modified: 2026-05-09T19:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 19:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Word count**: ~4,717 → ~5,300 (medium-scope additions: two new paragraphs in §Seven Traditions; expansion of §Falsifier 2; targeted softenings throughout)
+- **Pessimistic review addressed**: [[reviews/pessimistic-2026-05-09b]] — all 5 critical/medium issues plus unsupported-claims and language-improvement tables
+- **Structural additions**: (1) Class (a) observe-despite-commitments vs class (b) observe-because-model-predicts distinction across the seven traditions, with convergence force concentrated in class (a); (2) Common-cause hypothesis acknowledged explicitly, with cross-substrate-within-one-organism named as the strongest currently-available defence and cross-species/cross-cultural/patient-population evidence flagged as what would distinguish independent-triangulation from same-introspective-architecture-rediscovered; (3) §Falsifier 2 expanded with verifiability conditions (inter-rater agreement, neural correlates tracking operation not output, predictive contact with subsequent behaviour) and engagement with Husserlian phenomenology, open-monitoring meditation, and the EASE clinical-phenomenology interview
+- **Targeted softenings**: lede "cannot account for" → "has not yet pressed a unified account of"; "would predict" → "consistent with" at both interface-architecture loci, reframed as cost-of-explanation rather than unique-prediction; "fineness" → "systematic" coupling; "carries the evidential weight" → "raises the explanatory cost on materialist absorption"; "currently dominant forms have not been pressed" → "have addressed piecewise but not as a unified architecture" with HOT and illusionism named explicitly; "rests on convergence" → "is supported by convergence"; Cleary "cleanly" softened
+- **Wegner inversion**: flagged at both citation loci (agency-void paragraph and self-opacity citation list); Wegner kept in cluster-data citation while honestly noting his thesis runs counter to the dualist absorption
+- **Tenet alignment**: Tenet 1 (Dualism) — the cluster's strongest tenet-bearing structure now rests on the more defensible convergence claim (despite-commitments sub-class plus cross-substrate-within-one-organism recurrence) rather than on the unqualified seven-author count
+- **Published**: yes (draft: false maintained)
 
 ## 2026-05-09 18:38 UTC - pessimistic-review
 - **Status**: Success
