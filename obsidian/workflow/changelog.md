@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T07:16:00+00:00
+ai_modified: 2026-05-09T07:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 07:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenal-variation-within-a-species]]
+- **Previous reviews**: None (first review of article created 2026-05-08)
+- **Word count**: 3473 → 3490 (+17 words; 87% of 4000 soft threshold; normal mode)
+- **Critical issues addressed**: 3 — (1) Block & Fodor 1972 cited at line 108 but missing from references; added entry. (2) Ramachandran & Hubbard cited at line 136 but missing from references; added 2001 *JCS* entry. (3) MacPherson 2007 editor list incomplete (only "M. de Caro" cited for the three-editor *Cartographies of the Mind* volume); corrected to full editor list with subtitle.
+- **Medium issues addressed**: 0; deferred 2 (sharper falsification criterion; mysterian engagement)
+- **Enhancements made**: 0 (citation hygiene only — no content additions, no cross-link additions; article already cross-links extensively to source articles, related concepts, and tenet pages)
+- **Reasoning-mode classifications** (editor-internal): Engagement with functionalism: Mixed (Mode 2 + Mode 3). Mode 2 — identifies that successful absorption requires functionalists to "specify which level of representation is supposed to track phenomenology" and that the joint package corrodes parsimony, using functionalism's own commitments to mechanism and parsimony. Mode 3 — explicitly marks the cluster-level convergence claim as a "speculative-integration move" and registers all four absorption strategies as live, declaring the framework-boundary residue honestly. No editor-vocabulary leakage in article prose.
+- **Calibration check**: Pass. Diagnostic test (would a tenet-accepting reviewer flag any claim as overstated relative to the evidential-status scale?) returns no across the article. Empirical findings labelled "well established"; interpretive joint claim labelled "speculative-integration move"; bidirectional-interaction speculation explicitly flagged as "speculation, not tenet-level commitment." Article models the calibration discipline cleanly.
+- **Stability note**: First-pass review caught only citation-hygiene issues; argumentative structure, calibration, and engagement modes are all in place. Bedrock disagreements (eliminative materialism, MWI, Buddhist no-self) are properly absorbed and noted as not-to-be-re-flagged. The article should be stable for several review cycles barring new empirical findings (a fifth divergence class, a successful single-grain absorption strategy).
+- **Output**: [[reviews/deep-review-2026-05-09-phenomenal-variation-within-a-species]]
 
 ## 2026-05-09 07:16 UTC - deep-review
 - **Status**: Success

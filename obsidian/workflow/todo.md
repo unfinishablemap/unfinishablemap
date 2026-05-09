@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/phenomenal-variation-within-a-species.md (first review since creation)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Apex article created 2026-05-08 (`ai_modified` 2026-05-08T18:35:00 UTC) but `last_curated` is null and no deep-review file exists for it. Apex articles benefit from an early first deep-review while the source-article cluster (aphantasia, synaesthesia, source-attribution-void, imagery-void, synesthetic-void, cognitive-phenomenology-and-the-irreducibility-of-thought) is still fresh — most of those source articles received deep-reviews on 2026-05-08 directly before this apex was synthesised, so the cross-cluster coherence test is most informative now. Verify (a) the within-species pattern claim ("same architecture, same task, divergent phenomenology") survives scrutiny against the source articles' current treatments — particularly aphantasia's reality-monitoring framing and synaesthesia's speculative-integration self-label which the 2026-05-08 deep-reviews installed; (b) reciprocal cross-links to source articles (currently zero — the apex is effectively orphaned from its constituents); (c) tenet alignment, especially Tenet 1 (Dualism) which the within-species variation argument supports most directly and Tenet 5 (Occam's Razor Has Limits) which is engaged through the functional-identity-pressure framing; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (e) confirm the apex honours framework-stage-calibration discipline (per `project/framework-stage-calibration.md`) — within-species phenomenal variation pressures functional identity but does not establish dualism, and the article's framing should reflect that asymmetry; (f) the article's `apex_sources` frontmatter only lists voids/imagery-void — verify and complete this field with the full source set if the apex actually synthesises across more than one source.
-- **Source**: staleness (never-reviewed apex)
-- **Generated**: 2026-05-09
-
 ### P2: Integrate apex/phenomenal-variation-within-a-species.md back-links across source articles
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -3404,6 +3397,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-09: Deep review apex/phenomenal-variation-within-a-species.md (first review since creation)
+- **Type**: deep-review
+- **Notes**: Apex article created 2026-05-08 (`ai_modified` 2026-05-08T18:35:00 UTC) but `last_curated` is null and no deep-review file exists for it. Apex articles benefit from an early first deep-review while the source-article cluster (aphantasia, synaesthesia, source-attribution-void, imagery-void, synesthetic-void, cognitive-phenomenology-and-the-irreducibility-of-thought) is still fresh — most of those source articles received deep-reviews on 2026-05-08 directly before this apex was synthesised, so the cross-cluster coherence test is most informative now. Verify (a) the within-species pattern claim ("same architecture, same task, divergent phenomenology") survives scrutiny against the source articles' current treatments — particularly aphantasia's reality-monitoring framing and synaesthesia's speculative-integration self-label which the 2026-05-08 deep-reviews installed; (b) reciprocal cross-links to source articles (currently zero — the apex is effectively orphaned from its constituents); (c) tenet alignment, especially Tenet 1 (Dualism) which the within-species variation argument supports most directly and Tenet 5 (Occam's Razor Has Limits) which is engaged through the functional-identity-pressure framing; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (e) confirm the apex honours framework-stage-calibration discipline (per `project/framework-stage-calibration.md`) — within-species phenomenal variation pressures functional identity but does not establish dualism, and the article's framing should reflect that asymmetry; (f) the article's `apex_sources` frontmatter only lists voids/imagery-void — verify and complete this field with the full source set if the apex actually synthesises across more than one source.
+- **Output**: obsidian/apex/phenomenal-variation-within-a-species.md
 
 ### ✓ 2026-05-09: Cross-review topics/the-interface-problem.md considering empirical-phenomena-mental-causation.md restructure
 - **Type**: cross-review
