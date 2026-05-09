@@ -59,6 +59,7 @@ related_articles:
 - '[[erasure-void]]'
 - '[[the-quantitative-comprehension-void]]'
 - '[[relevance-void]]'
+- '[[phenomenal-output-causal-machinery-dissociation]]'
 title: Self-Opacity
 topics:
 - '[[philosophy-of-mind]]'
@@ -101,7 +102,7 @@ The distinction matters between self-directed thought (thinking *about* myself a
 
 We access mental contents—thoughts, images, feelings—but not the processes that produce them. James compared introspecting thought to "seizing a spinning top to catch its motion." Nisbett and Wilson (1977) established the asymmetry empirically: participants chose among identical stockings, consistently preferring items on the right, then confabulated reasons about quality and colour. No one mentioned position. Choice blindness (Johansson et al., 2005) deepens this: when choices are secretly switched, most fail to notice, then confabulate reasons for choices they never made with equal detail and confidence.
 
-The opacity has four dimensions. **Temporal**: by the time introspection occurs, the thought has passed. **Process**: you perceive the solution but not solving—the [recognition-void](/voids/recognition-void/) is paradigmatic, and the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) sharpens it to perception itself, where cardinality below four arrives all at once with its parallel-indexing operation hidden. **Mechanism**: even metacognition yields descriptions but not mechanisms. **Ontological**: Sartre's point that consciousness cannot objectify itself without self-distortion.
+The opacity has four dimensions. **Temporal**: by the time introspection occurs, the thought has passed. **Process**: you perceive the solution but not solving—the [recognition-void](/voids/recognition-void/) is paradigmatic, and the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) sharpens it to perception itself, where cardinality below four arrives all at once with its parallel-indexing operation hidden. The Process dimension is the introspective-mode instance of the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/) the Map tracks across perception, cognition, agency, and memory. **Mechanism**: even metacognition yields descriptions but not mechanisms. **Ontological**: Sartre's point that consciousness cannot objectify itself without self-distortion.
 
 Despite structural opacity, we *feel* transparent to ourselves. This connects to [inventory blindness](/concepts/inventory-blindness/): absent capabilities produce no signal, so the illusion of transparency is never challenged from within. The [erasure-void](/voids/erasure-void/) extends the same structure across time—when capacities erode, the monitor that would notice the loss often erodes with them. Fabricated explanations feel no different from veridical ones.
 

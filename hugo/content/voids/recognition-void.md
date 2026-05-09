@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-09 16:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -39,6 +39,8 @@ related_articles:
 - '[[relevance-void]]'
 - '[[vagueness-void]]'
 - '[[aspect-perception-void]]'
+- '[[memory-anomalies]]'
+- '[[phenomenal-output-causal-machinery-dissociation]]'
 title: The Recognition Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -61,13 +63,13 @@ Neither patient can access what is missing. The prosopagnosia patient does not e
 
 This double dissociation reveals that what seems like a single act — recognising someone — is at minimum two distinct contributions bound together invisibly: perceptual identification and affective familiarity. The binding itself is the void. Recognition also operates downstream of an earlier filter: the [relevance void](/voids/relevance-void/) shortlists which faces or stimuli enter the recognition pipeline at all, and that shortlisting is opaque to the consciousness whose attention it shapes.
 
-The affective component — the felt familiarity that Capgras strips away — is itself one member of the family of [noetic feelings](/voids/noetic-feelings-void/) that gate cognition from inside. Recognition's two-component structure is a special case of a broader pattern: a heuristic signal (the familiarity feel) produced by machinery consciousness cannot inspect, arriving fused with its perceptual partner. When the signal fails selectively, as in Capgras, the fusion is exposed without becoming observable — you notice *something* is missing but not what was doing the work.
+The affective component — the felt familiarity that Capgras strips away — is itself one member of the family of [noetic feelings](/voids/noetic-feelings-void/) that gate cognition from inside. Recognition's two-component structure is a special case of a broader pattern: a heuristic signal (the familiarity feel) produced by machinery consciousness cannot inspect, arriving fused with its perceptual partner. When the signal fails selectively, as in Capgras, the fusion is exposed without becoming observable — you notice *something* is missing but not what was doing the work. This is the perceptual face of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/) the Map catalogues across perception, cognition, agency, and memory: phenomenal access reaches the verdict but not the verdict-issuing process.
 
 ### Jamais Vu and the Exhaustion of Meaning
 
 Semantic satiation offers a repeatable encounter with the Recognition Void in healthy subjects. Writing a common word thirty times reliably strips it of meaning (Moulin & Bell, 2021). The word becomes alien — perceived but emptied of significance. The 2024 computational modelling by Kwon et al. explains the *mechanism* (lower-level processing saturation) but not the phenomenology: why does the exhaustion of recognition feel *eerie* rather than merely blank?
 
-Jamais vu demonstrates that meaningfulness is actively constructed moment by moment. Recognition is not a stable property of stimuli but an ongoing generation. When the generation machinery exhausts, we glimpse the raw material that recognition normally transforms — perception without knowing-as. The [noetic feelings void](/voids/noetic-feelings-void/) catalogues the wider pattern: what exhausts in semantic satiation is a fluency-and-familiarity signal, and the signal's opacity is architectural, not accidental.
+Jamais vu demonstrates that meaningfulness is actively constructed moment by moment. Recognition is not a stable property of stimuli but an ongoing generation. When the generation machinery exhausts, we glimpse the raw material that recognition normally transforms — perception without knowing-as. The [noetic feelings void](/voids/noetic-feelings-void/) catalogues the wider pattern: what exhausts in semantic satiation is a fluency-and-familiarity signal, and the signal's opacity is architectural, not accidental. The [memory anomalies cluster](/topics/memory-anomalies/) develops jamais vu as one of three rotations on a single source-monitoring failure — alongside déjà vu (familiarity without recollection) and cryptomnesia (recollection without source-tag) — making the dual-process recognition architecture visible at its margins.
 
 ### The Agnosias
 
@@ -135,6 +137,7 @@ The Recognition Void engages multiple [tenets](/tenets/).
 - [what-voids-reveal](/voids/what-voids-reveal/) — How inventory blindness strengthens the abductive argument from void convergence
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — The felt-signal family that recognition's affective component belongs to
 - [aspect-perception-void](/voids/aspect-perception-void/) — Sister case: seeing-as with a felt "lighting up" event whose substrate is opaque, parallel to recognition's edge phenomena
+- [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, and cryptomnesia as three rotations on a single source-monitoring architecture, with TLE and Cleary-paradigm evidence
 - [voids](/voids/)
 
 ## References

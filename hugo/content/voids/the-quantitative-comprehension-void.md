@@ -44,6 +44,7 @@ related_articles:
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[medium-status-voids-in-cognition]]'
 - '[[conjunction-coalesce]]'
+- '[[phenomenal-output-causal-machinery-dissociation]]'
 title: The Quantitative Comprehension Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -66,7 +67,7 @@ Two distinct cognitive systems underpin non-symbolic numerical cognition (Feigen
 
 Tracking and cardinal grasp come apart: a subject tracking five moving objects does not arrive at "there are five" without counting or estimating. This suggests cardinality-perception is a distinct conscious operation rather than a downstream function of attentional bandwidth. Cross-cultural evidence sharpens the architectural reading: the Mundurukú perform like French controls on approximate tasks but stumble on exact subtraction (Pica et al., 2004); the Pirahã case (Frank et al., 2008) yields convergent though contested evidence (Nevins, Pesetsky & Rodrigues, 2009). Number words are cognitive technology, not the basis of cardinality perception.
 
-The transition between subitizing and counting is itself opaque: we experience *knowing how many* (≤4) and *having to count* (≥5) but never the boundary—no "almost subitizing five." A second opacity layers above it: the operation producing the subitizing output is itself inaccessible. Cardinality arrives all at once; we cannot witness the FINST allocation. *Output* is phenomenally given while *operation* has no phenomenal character—connecting to [noetic feelings](/voids/noetic-feelings-void/), [self-opacity](/voids/self-opacity/), and [cognitive phenomenology](/concepts/cognitive-phenomenology/).
+The transition between subitizing and counting is itself opaque: we experience *knowing how many* (≤4) and *having to count* (≥5) but never the boundary—no "almost subitizing five." A second opacity layers above it: the operation producing the subitizing output is itself inaccessible. Cardinality arrives all at once; we cannot witness the FINST allocation. *Output* is phenomenally given while *operation* has no phenomenal character—the cardinality floor's diagnostic in its sharpest single-shot form, and the perceptual member of the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/) the Map tracks across perception, cognition, agency, and memory. See also [noetic feelings](/voids/noetic-feelings-void/), [self-opacity](/voids/self-opacity/), and [cognitive phenomenology](/concepts/cognitive-phenomenology/).
 
 The three faces named here—architectural cap, transition opacity, output-without-operation—serve in [the conjunction-coalesce](/apex/conjunction-coalesce/) as the *architectural* seam-type: faces that are joint consequences of a single architectural feature whose presentation has structurally distinct sides, with no one face delivering the architecture-as-presenting alone.
 

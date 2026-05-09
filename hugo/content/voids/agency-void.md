@@ -52,6 +52,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[research/voids-recurrence-void-2026-05-05]]'
+- '[[phenomenal-output-causal-machinery-dissociation]]'
 title: The Agency Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -129,6 +130,8 @@ The same structure catches this article's argument: the claim "consciousness can
 **Perspective.** Velmans (2020) observes that consciousness appears causally efficacious from the first-person perspective and irrelevant from the third. First- and third-person verdicts on agency have no shared formalism to adjudicate between them.
 
 **Intervention.** TMS to the supplementary motor area induces movement urges and overrides intended actions; propofol titration dissociates phenomenal access from motor responsiveness; anarchic-hand cases naturally separate the two. Haggard et al. (2002) show *intentional binding*—temporal compression between voluntary action and effect—dissociable from objective causation. These inherit the *inverse access problem* and sharpen the verification void rather than closing it.
+
+The agency void's verification opacity is the volition-and-action face of the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): the felt sense of being the cause arrives as output, while the cues Wegner identifies (priority, consistency, exclusivity) and the underlying causal architecture stay hidden from the introspector. The cluster's evidential weight comes from cumulative convergence across the catalogue—agency, suspension, mental effort, noetic feelings, recognition, memory anomalies—rather than from any one verification gap.
 
 ## The Sovereignty Paradox
 

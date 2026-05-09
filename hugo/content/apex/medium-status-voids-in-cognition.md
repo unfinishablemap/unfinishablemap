@@ -45,6 +45,7 @@ related_articles:
 - '[[apophatic-cartography]]'
 - '[[taxonomy-of-voids]]'
 - '[[the-quantitative-comprehension-void]]'
+- '[[phenomenal-output-causal-machinery-dissociation]]'
 title: Medium-Status Voids in Cognition
 topics:
 - '[[hard-problem-of-consciousness]]'

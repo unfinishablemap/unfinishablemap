@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-01 07:25:00+00:00
+ai_modified: 2026-05-09 15:48:02.640331+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,6 +16,11 @@ date: &id001 2026-03-15
 description: BCIs test whether conscious control can extend beyond the brain's developmental
   boundary—what neurofeedback reveals about the interface between mind and matter.
 draft: false
+embedded_videos:
+- embedded: 2026-05-09 15:48:02.640331+00:00
+  id: ck-t_T5Tqd4
+  source: notebooklm/0052-01-brain-computer-interfaces-and-the-interface-boundary
+  url: https://www.youtube-nocookie.com/embed/ck-t_T5Tqd4
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-01 19:38:00+00:00
@@ -37,6 +42,12 @@ topics:
 Brain-computer interfaces present the most direct empirical test of The Unfinishable Map's [brain specialness boundary](/topics/brain-specialness-boundary/). If consciousness can only bias quantum outcomes in neural systems built through developmental integration, what happens when technology connects new hardware to the brain? BCIs bypass the evolutionary timescale—a person can gain control over a robotic arm, a cursor, or a speech synthesiser within weeks. If the developmental integration constraint is fundamental, BCIs should reveal its limits. If it bends, the Map's account of why consciousness stays brain-local needs revision.
 
 The evidence so far is striking: BCI users *do* gain volitional control over external devices, but the mechanism tells us something important about how the interface works—and why it doesn't extend consciousness beyond the brain.
+
+<details class="yt-embed" data-video-id="ck-t_T5Tqd4">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/ck-t_T5Tqd4">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What BCIs Actually Do
 

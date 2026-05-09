@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-05-09 08:35:00+00:00
+ai_modified: 2026-05-09 15:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[apophatic-cartography]]'
 - '[[presence-type-and-absence-type-voids]]'
 - '[[phenomenal-variation-within-a-species]]'
+- '[[source-attribution-divergence]]'
 title: The Phenomenology-vs-Function Axis
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -135,6 +136,7 @@ The axis is also not coextensive with the [phenomenal contrast method](/concepts
 
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — The apex synthesis where the axis is introduced and named
 - [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The companion apex: the within-species cluster the axis sorts, treated as joint empirical wedge across four divergence classes
+- [source-attribution-divergence](/topics/source-attribution-divergence/) — The methodologically loaded exemplar: cohort labels are themselves introspective verdicts about introspection, so the wedge survives both phenomenal-divergence and introspective-unreliability readings
 - [imagery-void](/voids/imagery-void/) — The grain-of-function wedge: aphantasic mental rotation strategies
 - [synesthetic-void](/voids/synesthetic-void/) — Wager's extra qualia problem and Gray's function-qualia decoupling
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — Strawson's foreign-language argument, comprehension-domain exemplar

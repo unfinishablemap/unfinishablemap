@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-09 08:35:00+00:00
+ai_modified: 2026-05-09 16:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[hard-problem-of-consciousness]]'
 - '[[tenets]]'
 - '[[phenomenal-variation-within-a-species]]'
+- '[[source-attribution-divergence]]'
 title: Synaesthesia
 topics:
 - '[[philosophy-of-mind]]'
@@ -101,11 +102,11 @@ The functionalist has principled responses to each individual case. Synaesthetic
 
 Most philosophical thought experiments about phenomenal divergence are imagined: [inverted spectra](/concepts/inverted-qualia/), zombies, Mary the colour scientist. Synaesthesia is empirically anchored. It is not exotic, not cross-species, not hypothetical. The two minds whose phenomenology diverges share the same neural architecture, the same evolutionary history, the same language community, and the same task performance at standard behavioural grain. They differ in inner life, and the difference must be taken seriously without the methodological easements of inter-species or inter-system comparison.
 
-This is the contribution synaesthesia makes to the larger pattern of *within-species phenomenal divergence*: same biological kind, same external behaviour at task level, divergent phenomenology. [Aphantasia](/topics/aphantasia/) is its companion case at the opposite extreme—missing phenomenal content rather than extra—and reality-monitoring divergence (the spread of source-attribution profiles across the population) extends the pattern further. The cluster of cases is what makes the wedge cumulative; the [apex synthesis](/apex/phenomenal-variation-within-a-species/) develops the joint package across all four divergence classes.
+This is the contribution synaesthesia makes to the larger pattern of *within-species phenomenal divergence*: same biological kind, same external behaviour at task level, divergent phenomenology. [Aphantasia](/topics/aphantasia/) is its companion case at the opposite extreme—missing phenomenal content rather than extra—and [source-attribution divergence](/topics/source-attribution-divergence/) (the population spread in tracing the origin of one's own thoughts) extends the pattern further. The cluster of cases is what makes the wedge cumulative; the [apex synthesis](/apex/phenomenal-variation-within-a-species/) develops the joint package across all four divergence classes.
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism).** If two minds, the same biological kind, presented with the same surface representational input, have divergent phenomenology—one experiencing a colour the other does not—then phenomenal character is not the representational role in disguise. Phenomenology has independent structure from the representational and functional work it accompanies. The empirical pressure point falls in exactly the place a dualist framework predicts it should: at the gap between what consciousness is *like* and what cognition *does*. The Map flags the standard finer-grain functionalist rejoinder, and reads synaesthesia as a load-bearing concrete-phenomenon case for the **interface-vs-substrate distinction**: humans share the same biological substrate but have measurably different phenomenal interface configurations across the synaesthetic spectrum, with extra channels open in one subset of minds and closed in another. The interface reading is speculative-integration tier rather than empirically forced—the data alone are compatible with cross-activation under physicalism (Ramachandran & Hubbard's preferred reading), and the interface reading earns its place from cluster-level convergence rather than from synaesthesia in isolation.
+**[Dualism](/tenets/#dualism).** If two minds, the same biological kind, presented with the same surface representational input, have divergent phenomenology—one experiencing a colour the other does not—then phenomenal character is not the representational role in disguise. Phenomenology has independent structure from the representational and functional work it accompanies. The empirical pressure point falls in exactly the place a dualist framework predicts it should: at the gap between what consciousness is *like* and what cognition *does*. The Map flags the standard finer-grain functionalist rejoinder, and reads synaesthesia as a load-bearing concrete-phenomenon case for the **interface-vs-substrate distinction**: humans share the same biological substrate but have measurably different phenomenal interface configurations across the synaesthetic spectrum, with extra channels open in one subset of minds and closed in another. The interface reading is speculative-integration tier rather than empirically forced—the data alone are compatible with cross-activation under physicalism (Ramachandran & Hubbard's preferred reading), and the interface reading earns its place from cluster-level convergence rather than from synaesthesia in isolation. The within-species divergence pressure on functionalism *constrains* the strict representational-role reading; it does not by itself *establish* the interface alternative. The methodological discipline that names this constrain-vs-establish move is [evidential-status discipline](/project/evidential-status-discipline/).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The simplest model of human experience—that all members of one biological species share roughly one experiential palette, with individual variation only in vividness—is empirically inadequate. The actual landscape of phenomenal experience admits structural variation that parsimony would have ruled out *a priori*. It took clinical case-study work and the longitudinal-consistency rehabilitation to crack the assumption open.
 
@@ -116,6 +117,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [The synaesthetic void](/voids/synesthetic-void/) — The abstract apophatic treatment: why synaesthetic phenomenology lies in regions of qualia-space partially inaccessible to non-synaesthetes
 - [aphantasia](/topics/aphantasia/) — The companion case at the opposite extreme: missing phenomenal content under matched task performance
 - [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: synaesthesia as the architecturally cleanest exemplar in a four-class within-species divergence cluster
+- [source-attribution-divergence](/topics/source-attribution-divergence/) — The third leg of the within-species cluster: divergence in *how the experience is tagged for origin*, methodologically loaded because cohort labels are themselves introspective verdicts
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — Synaesthesia as the architecturally cleanest exemplar of function-phenomenology dissociation
 - [qualia](/concepts/qualia/) — The concept synaesthesia delivers extra empirical instances of
 - [inverted-qualia](/concepts/inverted-qualia/) — The hypothetical thought experiment synaesthesia is the empirically anchored cousin of
@@ -126,6 +128,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — The broader binding problem within which synaesthesia sits as anomalous binding
 - [binding-void](/voids/binding-void/) — The structural void where binding falls apart or fails to deliver expected unity
 - [voids-between-minds](/voids/voids-between-minds/) — The other-minds territory synaesthesia makes concrete within a single species
+- [evidential-status-discipline](/project/evidential-status-discipline/) — The methodological discipline that names the constrain-vs-establish self-discipline applied here to the interface reading
 
 ## References
 

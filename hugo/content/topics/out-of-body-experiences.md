@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-08 21:35:00+00:00
+ai_modified: 2026-05-09 16:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -88,7 +88,7 @@ The Map reads this evidence as it stands. The strongest dualist claim — that d
 
 A common move in OBE discussion is: TPJ stimulation produces OBEs; therefore OBEs are TPJ artefacts; therefore OBE reports do not bear on questions of consciousness and the body.
 
-The first inference is a non-sequitur. That a phenomenon can be produced by mechanism M does not show that all instances of the phenomenon are produced by M. Visual experience can be induced by direct cortical stimulation; that does not make ordinary vision hallucinatory. Pain can be induced by pinching a nerve; that does not make all pain a nerve-pinch artefact. The correct inference from Blanke's stimulation work is narrower: there exists a neural mechanism *sufficient* to produce OBE-like phenomenology. Whether it is *necessary* — whether every OBE goes through this pathway — is a separate question that stimulation studies cannot answer.
+The first inference is a non-sequitur. That a phenomenon can be produced by mechanism M does not show that all instances of the phenomenon are produced by M. Visual experience can be induced by direct cortical stimulation; that does not make ordinary vision hallucinatory. Pain can be induced by pinching a nerve; that does not make all pain a nerve-pinch artefact. The correct inference from Blanke's stimulation work is narrower: there exists a neural mechanism *sufficient* to produce OBE-like phenomenology. Whether it is *necessary* — whether every OBE goes through this pathway — is a separate question that stimulation studies cannot answer. The discipline that names this constrain-vs-establish move and treats this section as the catalogue's canonical materialist-side instance is [evidential-status-discipline](/project/evidential-status-discipline/): the stimulation evidence *constrains* the strongest "consciousness leaves the body" reading without *establishing* the further "all OBEs reduce to TPJ artefacts" claim.
 
 The Map's position is calibrated to this distinction. For TPJ-stimulation OBEs and for VR-induced full-body illusions, the mechanism is sufficient and the participants are not claiming veridical perception from the apparent vantage point. These are dislocations of the self-model. For NDE-OBEs that include verifiable claims, the question is whether the same mechanism explains the perceived content; here the empirical evidence (no hits on hidden targets) currently favours the self-model account, though the strongest cases remain anecdotal and the controlled studies are small.
 
@@ -139,6 +139,7 @@ None of these would be definitive on their own, but each would shift the evident
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The phenomenal self-model and its relation to consciousness
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Drug-induced OBEs and the broader filter argument
 - [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) — How OBEs sit within the wider altered-state evidence base for the interface reading
+- [evidential-status-discipline](/project/evidential-status-discipline/) — The methodological discipline that treats the argument-from-mechanism section as the canonical materialist-side instance of the constrain-vs-establish move
 - [tenets](/tenets/) — The framework these findings inform
 
 ## References

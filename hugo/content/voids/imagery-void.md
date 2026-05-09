@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-05-09 08:35:00+00:00
+ai_modified: 2026-05-09 15:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[conjunction-coalesce]]'
 - '[[voids-between-minds]]'
 - '[[phenomenal-variation-within-a-species]]'
+- '[[source-attribution-divergence]]'
 title: The Imagery Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -124,6 +125,7 @@ The Imagery Void also exemplifies the [apophatic-cartography](/voids/apophatic-c
 
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Names the third face as the cleanest case of the cross-cutting phenomenology-vs-function axis
 - [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: the imagery face's joint role with synaesthesia, source-attribution, and cognitive-phenomenology in the within-species divergence cluster
+- [source-attribution-divergence](/topics/source-attribution-divergence/) — The cluster sibling at the methodologically loaded extreme: imagery-spectrum position correlates with source-monitoring competence, so the imagery face and the source-attribution face partly co-vary across the population
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The standalone treatment of that axis: the imagery void is its grain-of-function wedge — the most empirically detailed exemplar, the one that forces the task-level vs strategy-level grain question explicitly
 - [mental-imagery](/concepts/mental-imagery/) — The concept this void surrounds
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — First-person structure of imaginative acts

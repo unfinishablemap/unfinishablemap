@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-09 16:15:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -56,6 +56,8 @@ related_articles:
 - '[[consciousness-and-scientific-explanation]]'
 - '[[creative-consciousness]]'
 - '[[the-quantitative-comprehension-void]]'
+- '[[memory-anomalies]]'
+- '[[phenomenal-output-causal-machinery-dissociation]]'
 title: The Noetic Feelings Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -88,7 +90,7 @@ Convergent evidence identifies noetic feelings as outputs of heuristic processes
 
 Thompson's work on the feeling of rightness showed FOR is driven by *generation fluency*—the speed and ease with which the first answer came to mind—not by correctness. Manipulating fluency (font legibility, rhyme, perceptual ease) shifts FOR without changing the underlying reasoning. The signal that tells consciousness "this is right" is a fluency trace, invisible as such.
 
-The "Lima problem" formalises the predicament: epistemic feelings inform us about content we cannot independently access, so we cannot cross-check their accuracy except through more feelings. We have the feel, not the content; the producing mechanism is architecturally hidden.
+The "Lima problem" formalises the predicament: epistemic feelings inform us about content we cannot independently access, so we cannot cross-check their accuracy except through more feelings. We have the feel, not the content; the producing mechanism is architecturally hidden. Noetic feelings are the gate-signalling members of the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/) the Map tracks across perception, cognition, agency, and memory: the verdict is phenomenally given; the inferential heuristic that produced it has no phenomenal character.
 
 ## Processing Fluency and Manufactured Self-Evidence
 
@@ -104,7 +106,7 @@ The void has three structural features.
 
 **Authority without audit.** The feelings gate further cognition: when to stop searching, when to trust, when to engage analytic thought. The system cannot audit them from inside, because audit requires more feelings of the same kind. The feeling of obviousness is the purest case: by presenting nothing to investigate, it prevents the investigation that would detect its own fluency-driven origin.
 
-**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence resists argument. These dissociations show noetic feelings are signals rather than perceptions, and that consciousness cannot tell from inside when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: a feeling of *prediction* that tracks no actual predictive capacity.
+**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence resists argument. These dissociations show noetic feelings are signals rather than perceptions, and that consciousness cannot tell from inside when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: a feeling of *prediction* that tracks no actual predictive capacity. The [memory anomalies cluster](/topics/memory-anomalies/) treats this trio (déjà vu, jamais vu, cryptomnesia) as three rotations on the same source-monitoring failure, with the Cleary gestalt-match paradigm supplying the most-cited demonstration that felt premonition can fire without any actual future-knowledge.
 
 Compounded, these features yield the void: the signals that gate cognition are precisely the signals consciousness cannot audit without their help.
 
@@ -177,6 +179,7 @@ The cluster-level conditions are taken up separately in [the apex's falsificatio
 - [suspension-void](/voids/suspension-void/) — Why bracketing the natural attitude cannot fully audit itself
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The phenomenally rich extension of the noetic family
 - [apophatic-cartography](/voids/apophatic-cartography/) — Mapping territory by the shape of its boundary
+- [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, and cryptomnesia as concrete edge-phenomena where the noetic-feelings architecture becomes diagnostically visible
 
 ## References
 

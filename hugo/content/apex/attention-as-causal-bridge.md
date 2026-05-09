@@ -38,6 +38,7 @@ related_articles:
 - '[[contemplative-path]]'
 - '[[testing-the-map-from-inside]]'
 - '[[psychophysical-laws]]'
+- '[[phenomenal-output-causal-machinery-dissociation]]'
 title: Attention as the Causal Bridge
 topics:
 - '[[structure-of-attention]]'

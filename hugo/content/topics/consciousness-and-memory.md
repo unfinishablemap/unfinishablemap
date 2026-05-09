@@ -50,6 +50,7 @@ related_articles:
 - '[[episodic-memory]]'
 - '[[phenomenology-of-memory-and-the-self]]'
 - '[[memory-anomalies]]'
+- '[[phenomenal-output-causal-machinery-dissociation]]'
 title: Consciousness and Memory
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -114,7 +115,7 @@ Standard consolidation theory holds that memories transfer from hippocampus to c
 
 The phenomenological data favour MTT. Patients with hippocampal damage lose vivid episodic detail for both recent and remote memories while retaining semantic content—the opposite of what standard theory predicts, which would have remote memories safely cortical and therefore spared (Winocur & Moscovitch, 2011). The hippocampus appears essential for the experiential vividness of recall regardless of age, suggesting that the phenomenal dimension of memory depends on hippocampal re-engagement even decades later.
 
-For the Map's [dual-domain framework](/concepts/episodic-memory/), this is significant. If phenomenal vividness tracks hippocampal involvement and propositional content tracks cortical storage, the two domains of memory—physical substrate and conscious experience—consolidate along different trajectories. The brain side and the mind side of memory follow distinct consolidation paths.
+For the Map's [dual-domain framework](/concepts/episodic-memory/), this is significant. If phenomenal vividness tracks hippocampal involvement and propositional content tracks cortical storage, the two domains of memory—physical substrate and conscious experience—consolidate along different trajectories. The brain side and the mind side of memory follow distinct consolidation paths. This is the across-time face of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): the phenomenal dimension of memory operates semi-independently of its informational substrate, and the dissociation has the same diagnostic signature that recurs in recognition, mental effort, agency, and the noetic feelings.
 
 ## Reconsolidation: When Consciousness Re-engages
 

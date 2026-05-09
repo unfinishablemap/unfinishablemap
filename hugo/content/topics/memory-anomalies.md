@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-09 09:06:00+00:00
+ai_modified: 2026-05-09 16:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,17 +18,19 @@ description: Human+AI inquiry into three memory anomalies as a structural cluste
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-09 09:06:00+00:00
+last_deep_review: 2026-05-09 16:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[source-attribution-void]]'
+- '[[source-attribution-divergence]]'
 - '[[recognition-void]]'
 - '[[noetic-feelings-void]]'
 - '[[memory-dual-domain-capability-2026-03-09]]'
 - '[[episodic-memory-consciousness-2026-01-16]]'
 - '[[implicit-memory-consciousness-2026-01-18]]'
 - '[[research/memory-anomalies-2026-05-08]]'
+- '[[phenomenal-output-causal-machinery-dissociation]]'
 title: 'Memory Anomalies: Déjà Vu, Jamais Vu, Cryptomnesia'
 topics:
 - '[[consciousness-and-memory]]'
@@ -75,7 +77,7 @@ A philosophical option worth raising as one candidate reading, though not as a M
 
 This reading has the virtue of explaining the *qualitative* character of déjà vu — the sense of pastness-without-content — better than retrieval-failure stories alone, which can describe the signal but struggle with why it feels temporally strange in just that way. Bergson's broader picture, in which the mind acts as a "reducing valve" admitting to consciousness only what survival demands, was later picked up by Aldous Huxley and is congenial to the Map's treatment of altered states.
 
-The Map raises Bergson as one candidate explanation, not a load-bearing commitment. The deeper claim — that there is a gap between phenomenal output and the causal machinery that produces it — does not depend on Bergsonian metaphysics. Even if the cognitive-science account is correct in its entirety, the gap remains: the gestalt-match story explains *that* a déjà vu fires, not *why* the firing has the particular felt character of pastness rather than redness or hunger or nothing. Whether one prefers Bergson's surfacing-of-the-virtual reading or the standard retrieval-failure reading, the Map's interest in the trio survives.
+The Map raises Bergson as one candidate explanation, not a load-bearing commitment. The dual-process architecture and the gestalt-match story *constrain* identity readings on which the felt sense reports transparently on its own underlying retrieval; they do not by themselves *establish* either Bergson's surfacing-of-the-virtual reading or the standard retrieval-failure reading. The methodological discipline that names this constrain-vs-establish move is [evidential-status discipline](/project/evidential-status-discipline/). The deeper claim — that there is a gap between phenomenal output and the causal machinery that produces it — does not depend on Bergsonian metaphysics. Even if the cognitive-science account is correct in its entirety, the gap remains: the gestalt-match story explains *that* a déjà vu fires, not *why* the firing has the particular felt character of pastness rather than redness or hunger or nothing. Whether one prefers Bergson's surfacing-of-the-virtual reading or the standard retrieval-failure reading, the Map's interest in the trio survives.
 
 ## Cryptomnesia and the Necessary Opacity of Source
 
@@ -83,7 +85,7 @@ Cryptomnesia is the trio's least dramatic member but the most philosophically ri
 
 The cognitive-psychology literature treats cryptomnesia as a defect to be guarded against (Marsh and Bower's paradigm was originally framed as research into "inadvertent plagiarism"). Jung framed it more ambivalently: the unconscious's ability to translate forgotten external material into novel synthesis is, in his reading, near the heart of creative work. Both framings can be true. The same source-monitoring slack that produces inadvertent plagiarism also enables the recombinant work that creative output requires. A mind that perfectly tagged every source would be unable to forget a borrowing well enough to repurpose it.
 
-This points to a structural fact the Map takes seriously: the conscious subject does not have, and may not be able to have, direct access to the provenance of its own contents. Source-tags are not part of the phenomenal output by default; they have to be reconstructed, and the reconstruction is fallible in characteristic ways. Cryptomnesia generalises beyond plagiarism: every "original" thought arrives without a packing slip, and the feeling of originality is the absence of source-tags rather than the presence of evidence for novelty. The [source-attribution-void](/voids/source-attribution-void/) develops this point as a structural void of the cognitive architecture.
+This points to a structural fact the Map takes seriously: the conscious subject does not have, and may not be able to have, direct access to the provenance of its own contents. Source-tags are not part of the phenomenal output by default; they have to be reconstructed, and the reconstruction is fallible in characteristic ways. Cryptomnesia generalises beyond plagiarism: every "original" thought arrives without a packing slip, and the feeling of originality is the absence of source-tags rather than the presence of evidence for novelty. The [source-attribution-void](/voids/source-attribution-void/) develops this point as a structural void of the cognitive architecture; [source-attribution-divergence](/topics/source-attribution-divergence/) supplies the topic-tier subject explainer for the within-species spread in source-monitoring accuracy that cryptomnesia is one empirical exhibit of.
 
 ## What These Anomalies Are Not Evidence For
 
@@ -99,11 +101,14 @@ Two of the Map's tenets do work here.
 
 A third connection runs through the Map's treatment of [introspection](/concepts/introspection/) and [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/). The trio is one of the cleanest demonstrations available that subjective certainty is not evidence for the corresponding metaphysical claim. The déjà vu sufferer is certain they have been here before; they have not. The cryptomnesiac is certain the line is theirs; it is not. The jamais vu sufferer is certain the word is alien; it is the same word it has always been. The Map's standing position — that introspective reports are evidence about phenomenology, not about the underlying causal facts — gets one of its sharpest illustrations from this cluster.
 
+The trio sits as one face of the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/) the Map catalogues across perception, cognition, agency, and memory. The synthesis treats memory anomalies as the across-time face of a structural pattern that also covers recognition, mental effort, noetic feelings, agency, and suspension; what does the evidential work is the cumulative convergence across the cluster's members, not any one rotation taken alone.
+
 ## Further Reading
 
 - [consciousness-and-memory](/topics/consciousness-and-memory/)
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
 - [source-attribution-void](/voids/source-attribution-void/)
+- [source-attribution-divergence](/topics/source-attribution-divergence/)
 - [recognition-void](/voids/recognition-void/)
 - [noetic-feelings-void](/voids/noetic-feelings-void/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
@@ -111,6 +116,7 @@ A third connection runs through the Map's treatment of [introspection](/concepts
 - [implicit-memory](/concepts/implicit-memory/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [arguments-against-materialism](/topics/arguments-against-materialism/)
+- [evidential-status-discipline](/project/evidential-status-discipline/) — The methodological discipline that names the constrain-vs-establish move applied here to Bergson's "memory of the present" treatment
 
 ## References
 

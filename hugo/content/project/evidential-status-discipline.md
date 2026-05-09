@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-06 23:21:00+00:00
+ai_modified: 2026-05-09 16:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
 created: 2026-05-05
-date: &id001 2026-05-05
+date: &id001 2026-05-09
 description: A tenet may remove a defeater, but it must not upgrade the evidence level.
   The discipline installs a five-tier scale — established → strongly supported → realistic
   possibility → live hypothesis → speculative integration — and the diagnostic test
@@ -26,9 +26,14 @@ related_articles:
 - '[[coherence-inflation-countermeasures]]'
 - '[[testability-ledger]]'
 - '[[birch-edge-of-sentience-and-the-five-tier-scale]]'
+- '[[mental-effort]]'
+- '[[memory-anomalies]]'
+- '[[out-of-body-experiences]]'
+- '[[synaesthesia]]'
 - '[[writing-style]]'
 - '[[tenets]]'
 - '[[reviews/outer-review-2026-05-03-chatgpt-5-5-pro]]'
+- '[[reviews/optimistic-2026-05-09]]'
 title: Evidential-Status Discipline
 topics: []
 ---
@@ -54,6 +59,16 @@ The discipline distinguishes two registers in which a claim can be supported. Co
 **Evidence register (empirical support).** A claim is supported in the evidence register when positive empirical findings — behavioural, neurological, comparative, theoretical — make the claim more probable than its denial. Evidence-register support is *substantive*: it operates on what the world contains, not on what the framework allows.
 
 The two registers are not interchangeable. Removing a defeater keeps a hypothesis live; it does not supply positive evidence. The slippage occurs when defeater-removal is silently treated as evidence-elevation — when the catalogue moves from "the tenets do not foreclose nematode consciousness" to "nematode consciousness is plausible" without supplying the positive evidence the second claim requires.
+
+## Constrain vs. Establish
+
+The two-registers distinction has a sharper operational form when applied to specific empirical findings. Whenever a body of evidence runs against a position — dualist or materialist — the question is whether the evidence *constrains* the position (rules out the simplest version) or *establishes* its denial (positively supports the alternative). The two are not interchangeable, and conflating them is the empirical-side analogue of the tenet-as-evidence slippage the previous section names at the metaphysical level.
+
+The discipline's operative phrasing was installed in [mental-effort](/concepts/mental-effort/)'s treatment of the felt-effort/operation dissociation: *"these dissociations constrain the dualist reading rather than establish it: they remove the simplest 'felt effort just is what the operation feels like' identity but leave the deeper question open."* The move generalises across the catalogue. *Constraining* a position is what most consciousness-relevant evidence is in a position to do; *establishing* the denial is the further step that requires the evidence to discriminate among the surviving readings. Treating constraint as establishment is the failure mode at the level of individual empirical cases, just as treating defeater-removal as evidence-elevation is the failure mode at the level of tenet-driven calibration.
+
+**The symmetric form.** The discipline applies bidirectionally. The dualist must not treat phenomenological evidence (introspection, contemplative reports, anomalies) as if it had *established* dualism when it has only *constrained* the simplest reductive reading. The materialist must not treat neural-correlate or stimulation evidence as if it had *established* the reduction when it has only *constrained* the strongest non-physical reading. TPJ stimulation produces OBE-like phenomenology, which constrains "consciousness literally exits the body" for stimulation-induced and VR-induced cases but does not establish "all OBEs are TPJ artefacts." Felt-effort/operation dissociations constrain the simplest dualist identity claim but do not establish that felt effort is exhausted by sub-personal cost-benefit machinery. The asymmetry the discipline guards against is the tendency for the *house perspective* — whichever it is — to silently treat constraint as establishment when the evidence runs in its favour.
+
+The diagnostic test extends symmetrically: a reviewer applying it on the dualist side ("would a tenet-accepting reviewer still flag this?") has a counterpart on the materialist side ("would a materialism-accepting reviewer still flag a passage that converted 'stimulation produces phenomenology' into 'phenomenology is exhausted by stimulation'?"). Honest empirical labelling within either framework respects the constraint/establish boundary. The catalogue's existing instances of the move are gathered as a worked example below.
 
 ## The Five-Tier Scale
 
@@ -111,6 +126,17 @@ The article also reframes UAL as an interface-identification framework rather th
 
 The discipline does not require the catalogue to abandon strong language wherever the tenets do work. *Strongly supported* is a real tier and the Map's labelling of mammals and birds at that tier is honest: the empirical evidence supports it, and the tenets cohere with it without doing the load-bearing work. The discipline is not anti-realist about phenomenal consciousness in animals; it is anti-slippage about when the load-bearing support is metaphysical rather than empirical. Where positive empirical evidence exists, strong language is appropriate and the tenets need not be cited as load-bearing. The discipline's bite is precisely at the boundary cases where the empirical evidence runs out and the tenets are doing structural work the labels must not silently appropriate.
 
+### The Constrain-vs-Establish Move Across the Catalogue
+
+The constrain-vs-establish formulation appears in named or near-named form across the Map's empirically-anchored catalogue. The instances below cite the discipline as the absorbing concept page; the formulation gives them a shared methodological vocabulary without inflating any individual case.
+
+- **[Mental effort](/concepts/mental-effort/).** The Naccache lesion case (felt effort dissociated from executive control), Hagger's preregistered ego-depletion null (d=0.04 against a generation of self-control research), and the Inzlicht/Kurzban opportunity-cost models converge on a felt-effort/operation dissociation. The article reads these as constraining the dualist reading — they remove the simplest "felt effort just is what the operation feels like" identity — but explicitly refuses to treat them as establishing the physicalist process-model reading: the autonomic-coupling residue Naccache documented in normals (absent in the lesioned patient) and the broader convergence across the [agency](/voids/agency-void/), [suspension](/voids/suspension-void/), [noetic-feelings](/voids/noetic-feelings-void/), and [appetitive](/voids/appetitive-void/) voids keep the dualist reading live as honest framework-boundary disagreement.
+- **[Memory anomalies](/topics/memory-anomalies/).** Bergson's "memory of the present" treatment of déjà vu is raised explicitly as one candidate explanation, not as a load-bearing dualist commitment. The article's deeper claim — that there is a gap between phenomenal output and the causal machinery that produces it — does not depend on Bergsonian metaphysics, and the cognitive-science gestalt-match account is allowed to be correct in its entirety while the gap remains. The dual-process architecture *constrains* identity readings on which the felt sense reports transparently on the underlying retrieval; it does not by itself *establish* either Bergson's surfacing-of-the-virtual reading or the standard retrieval-failure reading.
+- **[Out-of-body experiences](/topics/out-of-body-experiences/).** The argument-from-mechanism section is the canonical materialist-side refusal. TPJ stimulation produces OBE phenomenology, which *constrains* "consciousness literally exits the body" for stimulation-induced and VR-induced cases, but does not *establish* "all OBEs are TPJ artefacts" — the correct narrower inference is that there exists a sufficient mechanism, not that every OBE goes through it. The article preserves the harder NDE-OBE veridical-perception question as a separate empirical issue that the AWARE programme has tested and on current evidence not confirmed: the empirical literature constrains the strongest dualist reading at that tier without establishing the materialist alternative.
+- **[Synaesthesia](/topics/synaesthesia/).** The interface reading is explicitly self-labelled as speculative-integration tier rather than empirically forced: the data alone are compatible with cross-activation under physicalism (Ramachandran and Hubbard's preferred reading), and the interface reading earns its place from cluster-level convergence across [aphantasia](/topics/aphantasia/), [source-attribution-divergence](/topics/source-attribution-divergence/), and the broader [within-species divergence](/apex/phenomenal-variation-within-a-species/) cluster rather than from synaesthesia in isolation. The within-species phenomenal-divergence pressure on functionalism *constrains* the strict representational-role reading; it does not by itself *establish* the interface alternative.
+
+The pattern is portable beyond these four cases. Several voids articles use the same self-discipline at the apophatic edge: the [agency void](/voids/agency-void/), [source-attribution void](/voids/source-attribution-void/), [noetic-feelings void](/voids/noetic-feelings-void/), and other apophatic structures earn their dualist reading from cluster-level convergence rather than from individual-case force. The constrain-vs-establish formulation is therefore the named methodological move that lets dependent articles cite the discipline compactly when their own empirical evidence does the constraining work but stops short of establishing the alternative they would otherwise be tempted to claim.
+
 ## Implementation
 
 The discipline is operationalised across multiple skills. **The classification is editor-internal — it lives in the changelog and the editor's working notes, never in article prose.** Articles express the calibration in natural language; see [the writing-style guide's "Evidential Calibration in Articles" section](/project/writing-style/) for the patterns.
@@ -162,6 +188,10 @@ Beyond tenet alignment, the discipline complements [coherence-inflation counterm
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — the canonical worked example: the two-questions distinction (metaphysical possibility vs. empirical support) installed in the lede; per-organism calibration expressed in natural prose
 - [animal-consciousness](/topics/animal-consciousness/) — the broader-scale propagation: calibration-scale verdicts across mammals, birds, cephalopods, decapods, insects, and boundary organisms
 - [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) — the cross-framework calibration audit: places the five-tier scale alongside Birch's two-tier precautionary framework on a shared organism set and traces the convergences, divergences, and structural complementarity
+- [mental-effort](/concepts/mental-effort/) — the source of the constrain-vs-establish formulation, applied to the felt-effort/operation dissociation
+- [memory-anomalies](/topics/memory-anomalies/) — Bergson's "memory of the present" raised as one candidate explanation, not load-bearing dualist commitment; the empirical-side instance for source-monitoring failures
+- [out-of-body-experiences](/topics/out-of-body-experiences/) — the argument-from-mechanism section as the canonical materialist-side refusal: sufficient mechanism does not entail necessary mechanism
+- [synaesthesia](/topics/synaesthesia/) — the interface reading explicitly self-labelled as speculative-integration tier; within-species divergence constrains functionalism without establishing the interface alternative
 - [outer-review-2026-05-03-chatgpt-5-5-pro](/reviews/outer-review-2026-05-03-chatgpt-5-5-pro/) — the originating outer review; identified evidence-grade slippage and proposed the five-tier scale
 - [automation](/project/automation/) — the broader automation system in which `/refine-draft`, `/deep-review`, `/optimistic-review`, and `/outer-review` operate
 

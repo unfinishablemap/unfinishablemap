@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-04-16 00:41:00+00:00
+ai_modified: 2026-05-09 16:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[inaccessible-past]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
 - '[[temporal-consciousness-structure-and-agency]]'
+- '[[memory-anomalies]]'
 title: Phenomenology of Memory and the Self
 topics:
 - '[[personal-identity]]'
@@ -53,7 +54,7 @@ Three features distinguish this self-encounter from other forms of self-awarenes
 
 **Incompleteness as structural feature**: The remembered self is never fully present. Details are missing, emotions muted, context approximate. This incompleteness is not a defect in the memory system. It reveals something about the relationship between self and time: the past self is always partly occluded, available through reconstruction rather than recovery.
 
-One objection deserves acknowledgment: if mineness, pastness, and incompleteness are the article's foundational data, could mineness itself be a construction rather than an irreducible datum? Klein and Nichols (2012) document cases where memory content and the sense of ownership dissociate—a patient with accurate autobiographical memories that lack the feeling of "mine." This suggests mineness is a separable component, not a guaranteed feature of retrieval. The Map takes this dissociation as evidence *for* the phenomenal reality of mineness rather than against it: if ownership were merely inferred from content, it could not come apart from content. The dissociation reveals mineness as a genuine phenomenal feature that requires its own explanation.
+One objection deserves acknowledgment: if mineness, pastness, and incompleteness are the article's foundational data, could mineness itself be a construction rather than an irreducible datum? Klein and Nichols (2012) document cases where memory content and the sense of ownership dissociate—a patient with accurate autobiographical memories that lack the feeling of "mine." This suggests mineness is a separable component, not a guaranteed feature of retrieval. The Map takes this dissociation as evidence *for* the phenomenal reality of mineness rather than against it: if ownership were merely inferred from content, it could not come apart from content. The dissociation reveals mineness as a genuine phenomenal feature that requires its own explanation. The [memory anomalies cluster](/topics/memory-anomalies/)—déjà vu, jamais vu, and cryptomnesia—exhibits a parallel dissociation pattern from a different angle: pastness without retrievable past, alienness of the familiar, ownership of forgotten content. Each anomaly cleanly separates phenomenal output from the source machinery that normally produces it.
 
 ## Memory as Self-Constitution
 
@@ -123,6 +124,7 @@ The phenomenology of memory and self connects directly to the Map's foundational
 - [narrative-coherence](/concepts/narrative-coherence/)
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The epistemology of introspective evidence
+- [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, and cryptomnesia: source-monitoring failures that exhibit pastness, mineness, and familiarity as separable phenomenal ingredients
 
 ## References
 

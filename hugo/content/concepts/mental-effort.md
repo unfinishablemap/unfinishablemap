@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-09 04:40:00+00:00
+ai_modified: 2026-05-09 16:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -40,6 +40,7 @@ related_articles:
 - '[[voids/noetic-feelings-void]]'
 - '[[voids/suspension-void]]'
 - '[[voids/appetitive-void]]'
+- '[[phenomenal-output-causal-machinery-dissociation]]'
 title: Mental Effort
 topics:
 - '[[topics/free-will]]'
@@ -99,7 +100,7 @@ Kurzban, Duckworth, Kable and Myers (2013) reframe felt effort as the output of 
 
 The Map reads the felt-effort/operation dissociation as interface asymmetry — phenomenal access is not identical to the underlying operation, which is what the [interface model](/concepts/attention-as-interface/) predicts. The structurally parallel pattern in [cognitive phenomenology](/concepts/cognitive-phenomenology/) (high-grade thought running without imagistic accompaniment) reinforces the diagnosis. The territory recurs across the apophatic catalogue — [the agency void](/voids/agency-void/) (Howard and colleagues, 2016: effortful conditions disrupt the implicit sense of agency even as the explicit sense often rises), [the noetic-feelings void](/voids/noetic-feelings-void/) (felt effort sits with felt knowing and felt rightness as sub-personally generated signals), [the suspension void](/voids/suspension-void/) (refraining from selection has felt accompaniment whose machinery is hidden the same way), and [the appetitive void](/voids/appetitive-void/) (desire and effort as adjacent felt-causal signals near the action interface).
 
-A strong-physicalist reading using Inzlicht's process model absorbs the same evidence differently, treating the felt sense as a sub-personally generated adaptive signal. That reading runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within the physicalist framework. These dissociations *constrain* the dualist reading rather than *establish* it: they remove the simplest "felt effort just is what the operation feels like" identity but leave the deeper question open. What survives on the dualist side is the autonomic SCR coupling Naccache documented in normals, absent in the patient — felt effort is wired into the autonomic chain and so does causal work, even if it does not transparently report on its own operation. See [the effort-void research notes](/research/voids-effort-void-2026-05-08/) for the fuller case.
+A strong-physicalist reading using Inzlicht's process model absorbs the same evidence differently, treating the felt sense as a sub-personally generated adaptive signal. That reading runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within the physicalist framework. These dissociations *constrain* the dualist reading rather than *establish* it: they remove the simplest "felt effort just is what the operation feels like" identity but leave the deeper question open. The same constrain-vs-establish move recurs across the catalogue and is named as a methodological discipline in [evidential-status-discipline](/project/evidential-status-discipline/). What survives on the dualist side is the autonomic SCR coupling Naccache documented in normals, absent in the patient — felt effort is wired into the autonomic chain and so does causal work, even if it does not transparently report on its own operation. See [the effort-void research notes](/research/voids-effort-void-2026-05-08/) for the fuller case. The felt-effort/operation gap is the real-time-cognition member of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/) the Map tracks across perception, cognition, agency, and memory; the cluster's evidential weight comes from cumulative convergence across substrates that share little common machinery, not from this dissociation alone.
 
 ## The Materialist Problem
 
@@ -206,6 +207,7 @@ The phenomenology of effort provides a datum any account must explain. If contro
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis on effort, selection, holding, and opacity
 - [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis on first-person experiments
+- [evidential-status-discipline](/project/evidential-status-discipline/) — The methodological discipline that names the constrain-vs-establish move installed in this article's What-This-Constrains section
 
 ## References
 

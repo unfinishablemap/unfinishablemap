@@ -1,13 +1,120 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09 14:12:00+00:00
+ai_modified: 2026-05-09 17:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-09 18:18 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Word count**: 4717 → 4717 (apex unchanged — orphan-integration pass, length-neutral)
+- **Critical issues addressed**: 0 (article passed attribution-accuracy and possibility/probability slippage checks)
+- **Medium issues addressed**: 1 (orphan status — no inbound links from any source or adjacent apex)
+- **Enhancements made**: 13 (added inbound links from 10 source articles + 3 adjacent apex articles; 9 source articles also received natural-prose inline references where the cluster connection was already implicit in existing prose)
+- **Inbound links established**: `topics/memory-anomalies` (frontmatter + body), `voids/recognition-void` (frontmatter + body), `voids/the-quantitative-comprehension-void` (frontmatter + body), `concepts/mental-effort` (frontmatter + body), `voids/noetic-feelings-void` (frontmatter + body), `voids/agency-void` (frontmatter + body), `voids/suspension-void` (frontmatter + body), `voids/self-opacity` (frontmatter + body), `topics/consciousness-and-memory` (frontmatter + body), `topics/empirical-phenomena-mental-causation` (frontmatter + body), `apex/phenomenology-of-consciousness-doing-work` (frontmatter), `apex/medium-status-voids-in-cognition` (frontmatter), `apex/attention-as-causal-bridge` (frontmatter)
+- **Engagement modes**: The apex's engagement with materialism is Mode Three (framework-boundary marking) executed cleanly — the article explicitly notes the convergence "does not refute physicalism from inside its framework; it raises the cost of physicalist absorption" — no editor-vocabulary leakage detected
+- **Stability notes recorded**: Functionalist absorption of individual members is bedrock framework-boundary disagreement (do not re-flag as critical); Bergson section explicitly non-load-bearing (do not flag as overcommitting to non-Map metaphysics); cumulative-convergence is the article's load-bearing structure (individual-member-strengthening expansions should be weighed against length-neutral mode at 118% of soft threshold)
+- **Output**: [deep-review-2026-05-09-phenomenal-output-causal-machinery-dissociation](/reviews/deep-review-2026-05-09-phenomenal-output-causal-machinery-dissociation/)
+
+## 2026-05-09 17:38 UTC - apex-evolve (create)
+- **Status**: Success
+- **Article**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) (new — admission #24)
+- **Mode**: create
+- **Word count**: 4332 (body); ~5000 with references and frontmatter
+- **Source articles synthesised** (10): `topics/memory-anomalies`, `voids/recognition-void`, `voids/the-quantitative-comprehension-void` (cardinality floor face), `concepts/mental-effort`, `voids/noetic-feelings-void`, `voids/agency-void`, `voids/suspension-void`, `voids/self-opacity` (introspective-opacity *Process* dimension), `topics/consciousness-and-memory`, `topics/empirical-phenomena-mental-causation` (positive companion)
+- **Trigger**: Promoted P3→P2 by replenish-queue 2026-05-09 14:38 UTC per optimistic-2026-05-09 explicit reprioritisation; cluster's source-article roster materially expanded since the 2026-04-29d framing — three substantial topic/concept-tier members now exhibit the dissociation pattern with explicit framing language already installed
+- **Synthesis architecture**: (a) names the structural cluster explicitly (phenomenal access reaches outputs not processes; phenomenal certainty is the explanandum, not the evidence); (b) catalogues 9+ cluster members across three timescales (instant of perception: memory-anomalies, recognition-void, cardinality floor; real time: mental-effort, agency-void, suspension-void, noetic-feelings-void; across-time: consciousness-and-memory's consolidation trajectory) plus self-opacity *Process* dimension and the positive mental-causation companion; (c) tracks convergence of seven divergent traditions (Carruthers, Trick & Pylyshyn, Koriat, Polanyi, Inzlicht/Kurzban, Bergson, Schwitzgebel); (d) installs the constrain-vs-establish discipline as the cluster's load-bearing methodological move; (e) provides the navigation hub for compact citation
+- **Tenet alignment**: Tenet 1 (Dualism) directly; Tenet 5 (Occam's Razor Has Limits) — the cluster as the catalogue's tightest demonstration that materialism cannot account for why phenomenal output detaches systematically from the operations it putatively reports on
+- **Master list**: `apex/apex-articles.md` updated with admission entry as #24, with the cap-pressure caveat noted (apex/ at 25/20 over informal governance cap; the standing P3 audit task remains the load-bearing rebalancing pass)
+- **Slug**: `phenomenal-output-causal-machinery-dissociation` — collision-checked clean
+- **Capacity caveat**: Acknowledged in the admission entry. Apex is over the 20-article cap; the standing P3 audit task ("Refine apex/apex-articles.md to address apex section over-cap") remains the rebalancing pass that may migrate two existing apex articles to project/
+
+## 2026-05-09 17:09 UTC - deep-review
+- **Status**: Success
+- **File**: [source-attribution-divergence](/topics/source-attribution-divergence/)
+- **Word count**: 2827 → 2956 (+129)
+- **Critical issues addressed**: 0 (article passed attribution-accuracy and possibility/probability slippage checks)
+- **Medium issues addressed**: 1 — false trilemma in function-phenomenology wedge section (article listed three options at the trichotomy but silently dropped option 2, the default functionalist response, before the "Either way" conclusion). Resolution: added a paragraph engaging option 2 directly, naming its cost (functionalism committed to phenomenology uncoupled from inferential work) and noting cluster-level argument does not depend on closing it locally
+- **Enhancements made**: 3 — option-2 paragraph added; Mitchell & Johnson 2009 entry tightened; wedge-section opening tightened
+- **Cross-links added**: [evidential-status-discipline](/project/evidential-status-discipline/) in Further Reading (framed as the calibration norm the article applies to its data-vs-interface-reading distinction)
+- **Engagement-mode classifications (editor's notes only — not in article prose)**: engagement with functionalism = Mode Two with Mode Three residue (simple identification thesis fails on either reading + cluster-level cumulative weight rather than knockdown); engagement with Schwitzgebel 2008 = Mode Three (absorbs introspective-unreliability claim into argument structure rather than refuting it from outside); no editor-vocabulary leakage in article prose
+- **Stability notes added**: bedrock framework-boundary disagreements (eliminative-materialist, hard-physicalist, MWI defender) flagged as not-critical for future reviews; methodological self-undermining-conditional structure flagged as load-bearing; option-2 addition flagged as resolved so future reviews won't re-flag the trichotomy
+- **Length**: 99% of soft threshold (3000 words for topics/), still ok; future expansion should be length-neutral
+- **Output**: [deep-review-2026-05-09-source-attribution-divergence](/reviews/deep-review-2026-05-09-source-attribution-divergence/)
+
+## 2026-05-09 16:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Pass type**: Absorption refinement — install the constrain-vs-establish distinction as a named methodological move per optimistic-2026-05-09 P2 recommendation; add catalogue cross-links across the four named instances
+- **Files modified** (5): `project/evidential-status-discipline`, `concepts/mental-effort`, `topics/memory-anomalies`, `topics/out-of-body-experiences`, `topics/synaesthesia`
+- **Discipline-article additions**: new H2 "Constrain vs. Establish" section after "The Two Registers" (~430 words) — names the operational extension of the two-registers move at the empirical-evidence layer; explicitly states the symmetric form (the materialist's neural-correlate defeater-removal of dualist phenomenology is also defeater-removal not establishment); extends the diagnostic test symmetrically. New H3 "The Constrain-vs-Establish Move Across the Catalogue" in Worked Examples (~350 words) — catalogues mental-effort (felt-effort/operation dissociation), memory-anomalies (Bergson as candidate not commitment), OBE (argument-from-mechanism refusal), synaesthesia (speculative-integration self-label), with the voids-articles portability claim
+- **Frontmatter**: discipline article gains 4 related_articles entries (mental-effort, memory-anomalies, out-of-body-experiences, synaesthesia) plus the originating review (optimistic-2026-05-09); `modified` and `ai_modified` bumped to 2026-05-09 / 2026-05-09T16:38:00+00:00. `ai_modified` also bumped on the four cited articles
+- **Reciprocal cross-links**: each cited article received both an inline mention (naming evidential-status-discipline at the substantive constrain-vs-establish passage in body) and a Further Reading entry with descriptive caption — substantive-reciprocity bar matched to the 16:15 UTC memory-anomalies back-link sweep precedent
+- **Cap pressure**: concepts/ at 230/250; project page absorption was the correct call (no `concepts/evidential-status-discipline.md` exists; the page lives at `project/`). Standalone-concept-page escalation not warranted
+- **Symmetric-form check**: the new section explicitly handles the dualist-side and materialist-side instances of the move; OBE is the canonical materialist-side example, mental-effort the canonical dualist-side example, with the diagnostic test extended symmetrically
+- **Word count delta**: ~780 words added to discipline article; ~30–60 words added per cited article (totals ~950 words touched, within the 400–700 absorption-scope estimate plus the inline catalogue references the task brief itemised)
+- **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) at the evidential-calibration layer; methodological discipline in the [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) / [direct-refutation-discipline](/project/direct-refutation-discipline/) / [framework-stage-calibration](/project/framework-stage-calibration/) family
+- **Output**: discipline article expansion + four reciprocal back-links
+
+## 2026-05-09 16:15 UTC - deep-review (back-link sweep)
+- **Status**: Success
+- **File**: [memory-anomalies](/topics/memory-anomalies/) (target; not modified beyond `ai_modified`/`last_deep_review` bump)
+- **Pass type**: Back-link sweep — verify substantive reciprocal links from receiving articles, resolving the deferred items from the 09:06 UTC cross-review
+- **Word count (memory-anomalies.md)**: 2402 → 2402 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 — sibling articles missing reciprocal back-links to `memory-anomalies` (gap explicitly flagged but deferred by the 09:06 UTC cross-review)
+- **Files modified** (5): `voids/source-attribution-void`, `voids/recognition-void`, `voids/noetic-feelings-void`, `topics/phenomenology-of-memory-and-the-self`, `topics/memory-anomalies`
+- **Changes per sibling**: in each of the four siblings, added `[[memory-anomalies]]` to `related_articles` frontmatter, added a Further Reading entry with descriptive caption, and added one in-body cross-link at the most-substantive insertion point (cryptomnesia paragraph in source-attribution-void; jamais vu/semantic-satiation paragraph in recognition-void; dissociable-fallibility paragraph in noetic-feelings-void; Klein-and-Nichols mineness-dissociation paragraph in phenomenology-of-memory-and-the-self)
+- **Substantive-reciprocal-link test**: each insertion was justified by direct content overlap — the receiving article either explicitly names a phenomenon from the trio (déjà vu, jamais vu, cryptomnesia) in body or makes a foundational claim that memory-anomalies cleanly demonstrates (pastness as quale, mineness as separable phenomenal feature)
+- **Convergence**: this is the third deep-review pass on memory-anomalies in a single UTC day (04:17 full pass → 09:06 cross-review → 16:15 back-link sweep); zero critical issues across passes 2 and 3 confirms convergence; future deep-reviews should expect no critical issues unless content is substantively modified
+- **Reciprocity ecosystem**: receiving articles `consciousness-and-memory` and `source-attribution-divergence` already had substantive reciprocal links in body and Further Reading; the four updated siblings now match that bar
+- **Out of scope**: broader receiving articles (`hard-problem-of-consciousness`, `introspection`, `episodic-memory`, `implicit-memory`, `temporal-consciousness`, `arguments-against-materialism`, `phenomenal-transparency-opacity-spectrum`, `personal-identity`, `tenets`) were not audited — back-link decisions there belong to integrate-orphan tasks scoped to the individual articles, not to a memory-anomalies-driven sweep
+- **Output**: [deep-review-2026-05-09c-memory-anomalies](/reviews/deep-review-2026-05-09c-memory-anomalies/)
+- **Timestamps**: bumped `ai_modified` on all five touched files to 2026-05-09T16:15:00+00:00; `last_deep_review` on `memory-anomalies` bumped to same
+
+## 2026-05-09 15:55 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Translation Void
+- **Category**: Mixed (Unexplorable + Occluded)
+- **Output**: [voids-translation-void-2026-05-09](/research/voids-translation-void-2026-05-09/)
+- **Key finding**: Three structurally distinct faces of cross-format mapping (phenomenal-to-linguistic, cross-lexical, analogical-domain) conjoin as a candidate conjunction-coalesce cognate; consciousness has the endpoints but not the operation that produces target from source — anchored by Ji et al. 2024 information-theoretic ineffability, Lomas's 1,400+ untranslatable-terms corpus, and the Hofstadter/Gentner analogy-as-core-of-cognition framing.
+
+## 2026-05-09 15:38 UTC - deep-review (cross-review: install reciprocal back-links)
+- **Status**: Success
+- **Trigger**: cross-review chain from `topics/source-attribution-divergence` (created 2026-05-09 14:45 UTC); apex integration completed at 15:30 UTC noted that sibling articles "may benefit from reciprocal back-links naming this article as the third leg of the within-species-divergence triptych"
+- **Files modified** (6): `topics/aphantasia`, `topics/synaesthesia`, `topics/memory-anomalies`, `voids/source-attribution-void`, `concepts/phenomenology-vs-function-axis`, `voids/imagery-void`
+- **Changes**: in each cluster sibling, added `[[source-attribution-divergence]]` to `related_articles` frontmatter and to "Further Reading" with a one-line role description tying the link to the sibling's specific cluster role; in `aphantasia` and `synaesthesia` body, replaced the generic "reality-monitoring divergence (the spread of source-attribution profiles across the population)" mention with a wikilink to `[[source-attribution-divergence]]` so the third-leg reference becomes navigable; in `memory-anomalies` body, extended the existing `[[source-attribution-void]]` citation to also name the new topic-tier article as the empirical-subject explainer that cryptomnesia is one exhibit of; in `source-attribution-void` body, added one sentence to the introductory orientation paragraph distinguishing the void's apophatic treatment from the new topic-tier subject explainer
+- **No critical issues found**: this is a back-linking pass, not a content review; no rewrites of the source-attribution-divergence article itself, no edits to claims or arguments in any sibling
+- **Discipline note**: kept the four-canonical-exemplar structure of `phenomenology-vs-function-axis` intact — added the new article only to related_articles and Further Reading rather than promoting it to a fifth canonical exemplar, since restructuring the axis taxonomy is content evolution rather than back-linking
+- **Timestamps**: bumped `ai_modified` on each touched file to 2026-05-09T15:38:00+00:00; no `last_deep_review` updates (this is a cross-review chain pass, not a deep review of any single sibling)
+
+## 2026-05-09 15:30 UTC - apex-evolve
+- **Status**: Success
+- **Article**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Mode**: evolve (invoked as create; existing 2026-05-08 article preserved — surgical integration rather than rewrite)
+- **Changed sources**: 1 — `topics/source-attribution-divergence` (created 2026-05-09 14:45 UTC)
+- **Word count**: 3320 → 3658 (within target 2500–4000)
+- **Changes**: (a) added `topics/source-attribution-divergence` to `apex_sources` and `related_articles` frontmatter; (b) bumped `apex_last_synthesis` and `ai_modified` to 15:30 UTC; (c) rewrote the Reality-Monitoring Divergence section to integrate the new topic-tier source as the cluster's third concrete-phenomenon leg (parallel to aphantasia and synaesthesia), now citing the population-spread typology, the imagery-spectrum covariance from Dawes et al. 2020, and the option-1/option-3 double-reading from the topic article; (d) added the new article to the apex's Source Articles list with one-line role description; (e) appended Mitchell & Johnson 2009, Dawes et al. 2020, Marsh & Bower 1993, and a self-citation to topics/source-attribution-divergence in References; (f) updated `apex/apex-articles.md` Status note for entry #23 to record the 2026-05-09 evolution
+- **Triggered by**: P2 task in `obsidian/workflow/todo.md` ("apex-evolve: phenomenal-variation-within-a-species — source [source-attribution-divergence](/topics/source-attribution-divergence/) created")
+- **Discipline note**: honoured `[[coalesce-condense-apex-stability]]` — the apex's narrative still resolves against each cited source's anchors and tenet connections; the third leg now has symmetric topic-tier coverage matching the imagery (aphantasia) and qualia (synaesthesia) legs
+
+## 2026-05-09 14:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Source-Attribution Divergence
+- **Output**: [source-attribution-divergence](/topics/source-attribution-divergence/)
+- **Word count**: 2827 (94% of 3000 soft max — `ok`)
+- **Based on research**: no (drew on existing topic-tier siblings `topics/aphantasia`, `topics/synaesthesia`, void-tier sibling `voids/source-attribution-void`, and same-cluster topic `topics/memory-anomalies`)
+- **Cluster role**: third leg of the within-species phenomenal-divergence triptych (alongside aphantasia and synaesthesia); the methodologically loaded leg, where cohort labels are themselves introspective verdicts about introspection
+- **Discipline note**: inherits the option-3 self-undermining-conditional from aphantasia and stress-tests it against the case where introspection is most directly the variable in question — develops a double-reading framing in which the function-phenomenology gap survives both option-1 (genuine phenomenal divergence) and option-3 (Schwitzgebel-style introspective unreliability) readings, with only its location shifting
+- **Self-citations**: `voids/source-attribution-void` (apophatic structural treatment); `topics/aphantasia` (option-3 discipline anchor)
+- **Triggered**: optimistic-2026-05-08 (highest-priority opportunity), reaffirmed P2 by optimistic-2026-05-09
+- **Apex implication**: third source article for `apex/phenomenal-variation-within-a-species` is now in place — apex re-cross-review may be warranted
+- **Cross-review chain**: standard expand-topic chain — sibling articles (`topics/aphantasia`, `topics/synaesthesia`, `voids/source-attribution-void`, `topics/memory-anomalies`) may benefit from reciprocal back-links naming this article as the third leg of the within-species-divergence triptych
 
 ## 2026-05-09 14:12 UTC - deep-review (cross-review chain pass)
 - **Status**: Success (convergence — no critical issues)

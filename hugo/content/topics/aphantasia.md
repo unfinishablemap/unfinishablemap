@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-09 08:35:00+00:00
+ai_modified: 2026-05-09 15:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[introspection]]'
 - '[[tenets]]'
 - '[[phenomenal-variation-within-a-species]]'
+- '[[source-attribution-divergence]]'
 title: Aphantasia
 topics:
 - '[[philosophy-of-mind]]'
@@ -93,7 +94,7 @@ The [imagery void](/voids/imagery-void/) gives the abstract structural treatment
 
 Most philosophical thought experiments about phenomenal divergence require imagined cases: inverted qualia, zombies, Mary the colour scientist. Aphantasia is empirically anchored. It is not exotic, not cross-species, not hypothetical. The two minds whose phenomenology diverges share the same neural architecture, the same evolutionary history, the same language community, the same task performance. They differ in inner life and we have to take that difference seriously without the methodological easements of inter-species or inter-system comparison.
 
-This is the contribution aphantasia makes to the larger pattern of *within-species phenomenal divergence*: same biological kind, same external behaviour at task level, divergent phenomenology. [Synaesthesia](/voids/synesthetic-void/) is its companion case at the opposite extreme—extra phenomenal content rather than missing content—and reality-monitoring divergence (the spread of source-attribution profiles across the population) extends the pattern further. The cluster of cases is what makes the wedge cumulative; aphantasia alone is locally absorbable by a sufficiently fine-grained functionalism, but absorbing aphantasia *and* synaesthesia *and* reality-monitoring divergence with the same move puts strain on the absorption strategy.
+This is the contribution aphantasia makes to the larger pattern of *within-species phenomenal divergence*: same biological kind, same external behaviour at task level, divergent phenomenology. [Synaesthesia](/voids/synesthetic-void/) is its companion case at the opposite extreme—extra phenomenal content rather than missing content—and [source-attribution divergence](/topics/source-attribution-divergence/) (the population spread in tracing the origin of one's own thoughts) extends the pattern further. The cluster of cases is what makes the wedge cumulative; aphantasia alone is locally absorbable by a sufficiently fine-grained functionalism, but absorbing aphantasia *and* synaesthesia *and* source-attribution divergence with the same move puts strain on the absorption strategy.
 
 ## Relation to Site Perspective
 
@@ -113,6 +114,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — First-person structure of imaginative acts
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The cross-cutting axis aphantasia is the grain-of-function exemplar for
 - [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: aphantasia as one of four divergence classes whose joint package presses functional identity at the within-species grain
+- [source-attribution-divergence](/topics/source-attribution-divergence/) — Companion case at the methodologically loaded extreme: divergence in *how the experience is tagged for origin*, where the cohort labels are themselves introspective verdicts about introspection
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — The aphantasic-thought wedge: phenomenally conscious thought without sensory reduction base
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader frame within which the function-phenomenology gap sits
 - [introspection](/concepts/introspection/) — Why the only tool for studying imagery is the tool whose unreliability is part of the question
