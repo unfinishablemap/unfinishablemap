@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T19:09:00+00:00
+ai_modified: 2026-05-09T19:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 19:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-phenomenology-of-translation]]
+- **Word count**: ~2,386 → ~3,250 (medium-scope addition: new ~860-word section; ~3,250 well under 4,000-word topics soft threshold)
+- **Research consumed**: [[research/voids-translation-void-2026-05-09]] (3,970 words; created today; target_section: voids unhonourable because voids/ at 100/100 cap; topic-tier home selected as natural alternative)
+- **Structural addition**: New section "What Translation Cannot Read About Its Own Operation" inserted after "The Untranslatable Remainder", surveying five structurally distinct faces of operation-to-consciousness opacity in translation — (a) Hofstadter-Sander analogical-core opacity, (b) Gentner structure-mapping as sub-personal, (c) Lomas carving-invisible-from-inside, (d) Quine-Davidson indeterminacy as the principled face, (e) LLMs as cleanest functional-without-phenomenal contrast — with constrain-vs-establish discipline applied in natural prose
+- **Framework-stage-calibration**: explicit topic-tier (phenomenology of translation) vs. void-tier (inaccessible analogical mechanism) placement noted in the new section
+- **Cluster connection**: article connected to [[apex/phenomenal-output-causal-machinery-dissociation]] as the cluster's linguistic-and-analogical face; six sibling voids cross-linked (meaning, metaphor, aspect-perception, conceptual-scheme, inference, tacit-integration)
+- **Frontmatter**: ai_modified and last_deep_review updated; 8 new entries in related_articles; ai_system updated to claude-opus-4-7
+- **References**: 8 added (Hofstadter & Sander 2013, Gentner 1983, Gentner & Markman 1997, Parsons et al. 2022, Lomas 2016, Quine 1960, Davidson 1974)
+- **Cliché audit**: confirmed no "This is not X. It is Y." pattern in original or new content
+- **Tenet alignment**: Tenet 1 (Dualism) — the analogical-mechanism / phenomenal-output dissociation extends the dissociation cluster into the translation domain; Tenet 5 (Occam's Razor Has Limits) — Quine-Davidson indeterminacy bears directly on the limits-of-simplicity tenet
+- **Published**: yes (draft: false maintained)
 
 ## 2026-05-09 19:09 UTC - refine-draft
 - **Status**: Success
