@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T00:11:00+00:00
+ai_modified: 2026-05-09T00:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 00:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-in-simple-organisms]]
+- **Cross-review focus**: integrate [[interface-efficacy-and-the-cognitive-gap]] (created 2026-05-05)
+- **Word count**: 3903 → 3909 (+6, length-neutral)
+- **Critical issues addressed**: 0 (article was sound after 2026-05-07 review)
+- **Medium issues addressed**: 1 (missing cross-link to interface-efficacy sibling article)
+- **Enhancements made**: 1 inline cross-link in Distribution Problem section refining the failed-UAL inference under interface-efficacy scaling, with explicit calibration guard ("without raising any organism's evidential standing"); equivalent trims taken in NY Declaration paragraph and *C. elegans* rhetorical aside.
+- **Reasoning-mode classifications**: cross-review engagement with brain-side scaling reading classified Mode Three (framework-boundary marking); other engagements unchanged from 2026-05-07 (Frankish: Mode One; MWI: Mode Three; McGinn: not opposed).
+- **Editor-vocabulary audit**: no label leakage in article body.
+- **Calibration check**: per-organism evidential-status labels (live hypothesis / speculative integration) preserved; interface-efficacy explicitly read as complicating-not-elevating the inference.
+- **Output**: [[reviews/deep-review-2026-05-09-consciousness-in-simple-organisms]]
 
 ## 2026-05-09 00:11 UTC - refine-draft
 - **Status**: Success
