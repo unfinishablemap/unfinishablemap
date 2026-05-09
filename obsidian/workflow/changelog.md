@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T01:37:00+00:00
+ai_modified: 2026-05-09T02:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 02:11 UTC - condense
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Before**: 4507 words (hard_warning, 150% of 3000 target)
+- **After**: 3144 words (soft_warning, just over target)
+- **Reduction**: 30%
+- **Technique**: Tightened prose throughout; cut redundancy in placebo subsections; consolidated illusionist response from three subarguments to two (causal-tracking already covered under epiphenomenalist challenge); compressed Interface Revealed and Agent Causation sections; cut Contemplative Convergence by ~60% (most tangential to core empirical argument); trimmed Further Reading list from 22 to 13 entries (kept core philosophical anchors, removed phenomenology-companion links covered elsewhere). Preserved opening summary, two-sided synthesis ("How the Two Cases Reinforce Each Other"), Relation to Site Perspective with all three tenet connections, all references, and the video embed.
 
 ## 2026-05-09 01:37 UTC - expand-topic
 - **Status**: Success
