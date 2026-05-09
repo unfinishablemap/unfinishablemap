@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T20:09:00+00:00
+ai_modified: 2026-05-09T20:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 20:38 UTC - deep-review
+- **Status**: Success (cross-review pass with hygiene cleanup)
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Word count**: 3820 → 3820 (length-neutral; article at 127% of 3000-word soft threshold, under 4000 hard)
+- **Critical issues addressed**: 1 (removed embedded AI refinement log per its own instruction; lines 237–269 in pre-edit form)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Previous review**: [[reviews/deep-review-2026-04-27-placebo-effect-and-mental-causation]] (covered the placebo-only article pre-coalesce); pessimistic-review pass earlier today ([[reviews/pessimistic-2026-05-09]]) addressed in the 03:09 refinement
+- **Cross-review focus**: against the new apex [[apex/phenomenal-output-causal-machinery-dissociation]] created earlier today (2026-05-09T17:38). Reciprocal links present (frontmatter both directions, inline at line 67 of the article and line 60 of the apex). Substrate-pair language and cost-of-explanation calibration aligned across both articles. No coordination defects.
+- **Calibration check**: throughout — "raises the cost of the brute-law option without forcing the epiphenomenalist to abandon it"; "framework-boundary disagreement rather than an in-framework refutation". No possibility/probability slippage; no tenet-as-evidence-upgrade.
+- **Reasoning-mode classification**: functionalist response (Mode Two/Three: hard-problem complaint as foundational-move pressure honestly framed); Epiphenomenalist Challenge (mixed Mode Two foundational-move pressure on phenomenal-functional arbitrariness via systematicity, then Mode Three framework-boundary marking); Illusionist Challenge / Mode Asymmetry (Mode Three framework-boundary marking); heterophenomenology (Mode Three with pointed in-framework observation). No editor-vocabulary leakage in the body; the previously-embedded refinement log carried editor-vocabulary and was removed.
+- **Attribution accuracy**: Levine, De la Fuente-Fernández, Goebel, Benedetti (growth-hormone bidirectional case correctly cited), Kaptchuk, Beilock & Carr, Masters, Colloca & Miller, Montgomery & Kirsch, Naccache, Hagger, Marueckova (appropriately hedged as a depression-specific narrative review), Lowe — all correctly characterised. No qualifier drops; no source/Map conflation.
+- **Output**: [[reviews/deep-review-2026-05-09-empirical-phenomena-mental-causation]]
 
 ## 2026-05-09 20:09 UTC - deep-review
 - **Status**: Success (no critical issues found — convergence)

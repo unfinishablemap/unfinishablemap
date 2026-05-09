@@ -4,7 +4,7 @@ description: "Placebo effects and the choking phenomenon together form a two-sid
 created: 2026-02-02
 modified: 2026-05-09
 human_modified:
-ai_modified: 2026-05-09T03:09:00+00:00
+ai_modified: 2026-05-09T20:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-08
 last_curated:
-last_deep_review: 2026-04-27T11:28:00+00:00
+last_deep_review: 2026-05-09T20:38:00+00:00
 embedded_videos:
   - id: H3WzrTowuDQ
     url: https://www.youtube-nocookie.com/embed/H3WzrTowuDQ
@@ -233,37 +233,3 @@ These phenomena contribute one strand to a [[empirical-evidence-for-consciousnes
 14. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
 15. Montgomery, G.H. & Kirsch, I. (1997). Classical conditioning and the placebo effect. *Pain*, 72(1-2), 107-113.
 16. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-
-<!-- AI REFINEMENT LOG - 2026-05-09
-Changes addressing pessimistic-2026-05-09 review:
-
-(a) Line 106 — rewrote the "if consciousness were epiphenomenal, it could not interfere with procedural execution" non-sequitur to target the phenomenal character rather than consciousness simpliciter; the NCC of self-monitoring obviously can interfere, so the original sentence misstated the epiphenomenalist position.
-
-(b) Epiphenomenalist Challenge section — replaced the boundary-substitution (granting the epiphenomenalist's central move and treating the standard hard problem as a defeater) with an in-framework move (strong epiphenomenalism predicts arbitrary phenomenal-functional mapping; two-axis systematic tracking raises the brute-law cost), followed by honest framework-boundary marking that the cost is raised without forcing abandonment of the position. Engagement classification (editor-internal): mixed — Mode Two (foundational-move pressure on the brute-law absorption cost) followed by Mode Three (framework-boundary marking).
-
-(c) "How the Two Cases Reinforce Each Other" — replaced the unsupported "convergent vulnerability of competitor accounts" bullet with two earned bullets: (1) different substrates with the same phenomenological precision (humoral/neurochemical vs motor-cortical sharing little except conscious involvement, both registering fineness of phenomenology-physiology coupling), (2) joint cost to brute-law absorption. The conjunction argument now works rather than being asserted.
-
-(d) Open-Label Placebos — explicitly marked the argument-shift: the *propositional content* selects-cascades claim is qualified by open-label data, while *some mental causation* operates survives. Conclusion narrowed honestly.
-
-(e) Citations:
-- Added Beilock & Carr (2001) for skill-asymmetry; Masters (1992) for implicit-protection; Beilock et al. (2002) for dual-task improvements (with primary references added).
-- Replaced the "stimulant heart-rate" Benedetti (2003) example with a Benedetti-2003-documented hormonal example (growth hormone bidirectional response to verbal instruction).
-- Hedged the Marueckova (2024) claim — narrative review on depression population, not a general structural finding.
-- Rephrased the Mode Asymmetry paragraph to remove the Tulving autonoetic-memory / autonoetic-monitoring conflation, citing Beilock & Carr (2001) for the absorbed/self-monitoring distinction. Engagement now Mode Three (framework-boundary marking) rather than question-begging Mode One.
-
-(f) Language improvements applied:
-- Lede "unusually strong evidence" → "mutually reinforcing evidence ... along complementary axes"
-- Lede "harder to dissolve than either case alone" → "complementary in a way single-phenomenon arguments are not — operating across substrates that share little except the involvement of conscious processing"
-- "constrains the space of viable accounts" (line 64) → specified: raises explanatory cost for accounts denying conscious phenomenology causal role
-- "puzzling why phenomenal content tracks functional role so precisely" (former line 151) — replaced as part of (b)
-- "cosmic coincidence in two independent registers" (former line 193) → "psychophysical correlation in two independent registers — which the dualist reads as evidence and the epiphenomenalist absorbs as brute fact"
-- "convergent vulnerability of competitor accounts" heading — replaced as part of (c)
-
-Engagement classifications (editor-internal, recorded here per direct-refutation-discipline):
-- Epiphenomenalist Challenge: mixed (Mode Two foundational-move pressure on phenomenal-functional arbitrariness via systematicity, then Mode Three framework-boundary marking)
-- Illusionist Challenge / Mode Asymmetry: Mode Three (framework-boundary marking; previously question-begged via Tulving extension)
-
-Voice and structure preserved; coalesce two-side architecture intact. Word count: ~3,260 (was 3,144). Net delta ~+115 words from the (b) and (c) substantive expansions.
-
-This log should be removed after human review.
--->
