@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T15:38:00+00:00
+ai_modified: 2026-05-09T15:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 15:55 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Translation Void
+- **Category**: Mixed (Unexplorable + Occluded)
+- **Output**: [[research/voids-translation-void-2026-05-09]]
+- **Key finding**: Three structurally distinct faces of cross-format mapping (phenomenal-to-linguistic, cross-lexical, analogical-domain) conjoin as a candidate conjunction-coalesce cognate; consciousness has the endpoints but not the operation that produces target from source — anchored by Ji et al. 2024 information-theoretic ineffability, Lomas's 1,400+ untranslatable-terms corpus, and the Hofstadter/Gentner analogy-as-core-of-cognition framing.
 
 ## 2026-05-09 15:38 UTC - deep-review (cross-review: install reciprocal back-links)
 - **Status**: Success
