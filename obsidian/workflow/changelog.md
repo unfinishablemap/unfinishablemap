@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T20:38:00+00:00
+ai_modified: 2026-05-09T21:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 21:16 UTC - refine-draft (Pass 2 trim)
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Word count**: ~5,492 → ~5,406 (86 words trimmed; 137% → 135% of apex hard threshold)
+- **Pessimistic review addressed**: [[reviews/pessimistic-2026-05-09b]] — second pass paired with the 19:09 UTC pass (which added ~600 words to address all five issues but did not trim per task spec). The task description explicitly noted "net additions should be paired with trims to hedging that the new arguments make redundant" — Pass 1 did the additions, Pass 2 does the redundancy reductions.
+- **Trims applied**: (1) Five appearances of unqualified "share little common machinery beyond conscious processing" formula softened to "with different representational profiles" / "within a single nervous system" — the common-cause caveat at §Seven Traditions now does the qualification work. (2) Line 118 ("interface architecture is one of several accounts...") trimmed — was redundant with line 110's "consistent with any selective-access account... cost-of-explanation rather than unique-prediction." (3) Line 140 cumulative-convergence paragraph trimmed: removed "What the convergence pressures..." sentence that re-asserted the unqualified formula immediately before the §Seven Traditions class-(a)/(b) split. (4) Self-opacity meta-talk dropped (redundant article-coordination sentence). (5) Worked-example paragraph compressed. (6) Closing paragraph de-duplicated ("symmetric two-sided shape" appeared twice).
+- **Verification**: All five pessimistic-2026-05-09b issues remain addressed (common-cause, Carruthers double-counting, "would predict" softening, Wegner inversion, contemplative pre-emption); no substantive content removed.
+- **Tenet alignment**: Tenet 1 (Dualism) — the convergence claim is now consistently calibrated at the more defensible cross-substrate-within-one-organism level throughout the article rather than only in the §Seven Traditions caveat paragraph.
+- **Published**: yes (draft: false maintained)
 
 ## 2026-05-09 20:38 UTC - deep-review
 - **Status**: Success (cross-review pass with hygiene cleanup)
