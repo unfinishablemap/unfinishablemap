@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T22:09:00+00:00
+ai_modified: 2026-05-09T22:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 22:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-phenomenology-of-translation]]
+- **Cross-review focus**: [[apex/phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]]
+- **Word count**: 3405 → 3316 (-89 words; 114% → 111% of soft threshold). Length-neutral mode applied.
+- **Critical issues addressed**: 0 (none found — attribution check, source/Map separation check, possibility/probability slippage check, self-contradiction check all pass)
+- **Medium issues addressed**: 3
+  1. LLM cliché in "Remainder as Evidence" (line 98): two-sentence "This does not reduce consciousness to language. Rather, it shows..." pattern (same form fixed in opening by April 2026 review, missed here) → integrated into single-sentence form with "though" qualifier.
+  2. Editor-coordination meta-talk in new section's closing block (lines 117-118): "framework-stage placement" sentence and sibling-voids navigation paragraph deleted (cross-links remain in frontmatter and Further Reading where they belong).
+  3. Light redundancy in cluster-connection close (line 116): constrain-vs-establish sentence merged with "Translation joins the cluster" sentence.
+- **Enhancements made**: 0 net additions (length-neutral mode); two trims absorb the cliché-fix's slight expansion.
+- **Reasoning-mode classification (editor-internal)**: Materialist-computationalism engagement in §Remainder as Evidence = Mode 2 (framework-foundational-move identification, in natural prose); LLM-functionalism engagement in §Machine Translation = Mode 3 (boundary-marking, honest framework-boundary). No label leakage in body.
+- **Bedrock disagreements not re-flagged**: eliminativism, MWI compatibility, functionalism — carried forward per stability notes.
+- **Convergence note**: Article has now had four deep reviews. Pass 1 earlier today (19:38 UTC) added the substantive five-faces section under cross-review focus; this Pass 2 is conservative — calibration cleanup and editor-vocabulary removal only.
+- **Output**: [[reviews/deep-review-2026-05-09-consciousness-and-the-phenomenology-of-translation]]
 
 ## 2026-05-09 22:09 UTC - refine-draft
 - **Status**: Success
