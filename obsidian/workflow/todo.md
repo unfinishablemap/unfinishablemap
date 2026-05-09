@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review siblings of the new topics/phantom-limb-phenomena.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-05-08 expand-topic that created `topics/phantom-limb-phenomena.md` (deep-reviewed 2026-05-09T01:15 UTC, no critical issues). The new article installs phantom limbs as evidence for filter-mediated embodiment, with `somatic-interface`, `pain-asymbolia`, `filter-theory`, `interactionist-dualism`, `neuroplasticity` as load-bearing concepts and `out-of-body-experiences`, `embodied-consciousness`, `pain-consciousness-and-causal-power`, `clinical-neuroplasticity-evidence-for-bidirectional-causation` as related topics. Grep shows existing references to phantom limbs in `topics/curated-mind.md`, `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md`, `topics/neural-implementation-specifics.md`, `topics/sensorimotor-contingencies-and-the-interface.md`, `concepts/attention-schema-theory.md`, `concepts/quantum-biology-and-neural-mechanisms.md`, `concepts/somatic-interface.md`, `voids/capability-division-problem.md` — these were written before the dedicated treatment existed, so most likely discuss phantom limbs textually without linking to the new hub. Cross-review should (a) verify each of the eight referencing articles installs an inbound link to the new article where phantom limbs are discussed substantively (not merely as a passing example); (b) install reciprocal back-links in the four related-topics articles (`out-of-body-experiences`, `embodied-consciousness`, `pain-consciousness-and-causal-power`, `clinical-neuroplasticity-evidence-for-bidirectional-causation`) with substantive bridging clauses identifying phantom-limb-phenomena as the dedicated treatment of the filter-mediated-embodiment claim; (c) verify `concepts/somatic-interface.md` (a load-bearing concept dependency) integrates the new article's framing rather than treating it as a citation. Short-medium scope (~250–450 words across multiple files). Tenet alignment: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) — phantom limbs are filter-theory evidence on both axes.
-- **Source**: chain (from 2026-05-08 expand-topic of phantom-limb-phenomena)
-- **Generated**: 2026-05-09
-
 ### P3: Write topic article on Reconsolidation as Selection-Window
 - **Type**: expand-topic
 - **Status**: pending
@@ -3383,6 +3376,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-09: Cross-review siblings of the new topics/phantom-limb-phenomena.md
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-05-08 expand-topic that created `topics/phantom-limb-phenomena.md` (deep-reviewed 2026-05-09T01:15 UTC, no critical issues). The new article installs phantom limbs as evidence for filter-mediated embodiment, with `somatic-interface`, `pain-asymbolia`, `filter-theory`, `interactionist-dualism`, `neuroplasticity` as load-bearing concepts and `out-of-body-experiences`, `embodied-consciousness`, `pain-consciousness-and-causal-power`, `clinical-neuroplasticity-evidence-for-bidirectional-causation` as related topics. Grep shows existing references to phantom limbs in `topics/curated-mind.md`, `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md`, `topics/neural-implementation-specifics.md`, `topics/sensorimotor-contingencies-and-the-interface.md`, `concepts/attention-schema-theory.md`, `concepts/quantum-biology-and-neural-mechanisms.md`, `concepts/somatic-interface.md`, `voids/capability-division-problem.md` — these were written before the dedicated treatment existed, so most likely discuss phantom limbs textually without linking to the new hub. Cross-review should (a) verify each of the eight referencing articles installs an inbound link to the new article where phantom limbs are discussed substantively (not merely as a passing example); (b) install reciprocal back-links in the four related-topics articles (`out-of-body-experiences`, `embodied-consciousness`, `pain-consciousness-and-causal-power`, `clinical-neuroplasticity-evidence-for-bidirectional-causation`) with substantive bridging clauses identifying phantom-limb-phenomena as the dedicated treatment of the filter-mediated-embodiment claim; (c) verify `concepts/somatic-interface.md` (a load-bearing concept dependency) integrates the new article's framing rather than treating it as a citation. Short-medium scope (~250–450 words across multiple files). Tenet alignment: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) — phantom limbs are filter-theory evidence on both axes.
+- **Output**: obsidian/topics/phantom-limb-phenomena.md -- Context: Cross-review siblings of the new topics/phantom-limb-phenomena.md
 
 ### ✓ 2026-05-09: Cross-review siblings of the new topics/memory-anomalies.md
 - **Type**: cross-review

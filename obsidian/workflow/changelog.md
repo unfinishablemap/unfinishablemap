@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T14:10:00+00:00
+ai_modified: 2026-05-09T14:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 14:12 UTC - deep-review (cross-review chain pass)
+- **Status**: Success (convergence — no critical issues)
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Previous review**: [[reviews/deep-review-2026-05-09-phantom-limb-phenomena]] (01:15 UTC same day, first review reached convergence)
+- **Context**: Cross-review chain pass triggered by the P2 cross-review task queued when phantom-limb-phenomena was expanded on 2026-05-08. Article unchanged since the morning review (file mtime predates the morning archive's creation timestamp).
+- **Word count**: 2836 → 2836 (unchanged; 95% of 3000 target — `ok`)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (convergence pass)
+- **Wikilink integrity**: all 18 wikilinks in body and frontmatter resolve to extant files (verified `hard-problem-of-consciousness`, `embodied-consciousness`, `pain-consciousness-and-causal-power`, `clinical-neuroplasticity-evidence-for-bidirectional-causation`, `out-of-body-experiences`, `somatic-interface`, `pain-asymbolia`, `filter-theory`, `interactionist-dualism`, `neuroplasticity`, `mental-causation-and-downward-causation`, `qualia`, `explanatory-gap`, `predictive-processing`, `tenets`, `neurological-dissociations-as-interface-architecture`, `dual-domain-capabilities-in-proprioception-and-spatial-imagination`, `sensorimotor-contingencies-and-the-interface`).
+- **Calibration check**: "decisively refute" remains qualified by "naive picture"; mirror-therapy "controlled evidence for top-down causation" still tempered by "mixed but real" qualifier; no possibility/probability slippage. Tenet-accepting reviewer would not flag any specific evidential-tier upgrade.
+- **Reasoning-mode classification**: stable from morning pass — Mode Two (production-conditions vs. phenomenal-content gap re: cortical remapping) and Mode Three (mirror-therapy boundary marking re: materialist absorption). No editor-vocabulary leakage.
+- **Bedrock stability**: all four stability notes from morning review remain in force (eliminative-materialist/physicalist disagreement, mirror-therapy effect-size debates, congenital-phantom evidential weight, interactionist-reading dualist commitment). No re-flagging.
+- **Cross-review finding**: outward cross-links from phantom-limb-phenomena are rich, but six closest siblings (`out-of-body-experiences`, `somatic-interface`, `pain-consciousness-and-causal-power`, `pain-asymbolia`, `clinical-neuroplasticity-evidence-for-bidirectional-causation`, `embodied-consciousness`) lack reciprocal inbound links. This is a sibling-side defect, not a phantom-limb defect — and the P2 cross-review task at `obsidian/workflow/todo.md` line 40 already names these articles explicitly with substantive bridging-clause guidance, so no new todo entry needed.
+- **Output**: [[reviews/deep-review-2026-05-09-phantom-limb-phenomena]] (existing archive extended with cross-review pass section)
+- **Recommendation**: future reviews should skip this article unless substantive content is modified; the article reached convergence on first review. The pending P2 cross-review task should focus on sibling-side backlink installation, not on further changes to phantom-limb-phenomena itself.
 
 ## 2026-05-09 14:10 UTC - combine-outer-reviews
 - **Status**: Success
