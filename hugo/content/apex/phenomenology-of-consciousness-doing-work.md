@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-03 11:28:31.610507+00:00
+ai_modified: 2026-05-08 23:35:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-26 02:48:00+00:00
 apex_sources:
@@ -37,7 +37,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/GnGdrzel6OA
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 07:55:00+00:00
+last_deep_review: 2026-05-08 23:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,6 +45,8 @@ related_articles:
 - '[[attention-as-causal-bridge]]'
 - '[[consciousness-and-agency]]'
 - '[[testing-the-map-from-inside]]'
+- '[[pain-consciousness-and-causal-power]]'
+- '[[phantom-limb-phenomena]]'
 title: The Phenomenology of Consciousness Doing Work
 topics:
 - '[[phenomenology-of-agency-vs-passivity]]'
@@ -121,6 +123,8 @@ Three phenomena reveal these four features in action and illuminate their relati
 The voluntary/involuntary dissociation is especially revealing. Voluntary imagery is mediated by the lateral prefrontal cortex; involuntary imagery — dreams, flashbacks, earworms — operates independently. Damage to LPFC impairs voluntary imagery while leaving dreaming intact (see [the imagery article](/concepts/mental-imagery/) for the full evidence). The system associated with conscious control enables planning, counterfactual reasoning, and creative combination that the system without it does not.
 
 The case admits three positions rather than two. Epiphenomenalism predicts the voluntary/involuntary distinction should be phenomenological decoration on functionally identical processes — and the distinction is plainly more than decoration. Identity theory predicts that voluntary imagery has different effects because it is a distinct neural process, with phenomenology coming along because conscious experience just *is* that neural process. A third option, developed in the [imagery article](/concepts/mental-imagery/), is a *trumping* or authority-selecting reading: the neural rehearsal retains counterfactual sufficiency for the improvement, while causal authority belongs to the conscious imagining. What needs explaining is whose authority the improvement tracks, not which trajectory it rides — and motor imagery, where the phenomenology of holding and manipulating an image is richly present, fits that template unusually well. Aphantasics with intact LPFC function offer a potential test case to discriminate between identity theory and the dualist option: identity theory predicts unimpaired benefits where neural circuits are preserved; a distinct-causal-property view predicts reduced benefits despite intact circuits. Preliminary self-reports suggest weaker benefits (Dawes et al., 2020), though controlled studies measuring both activation and performance in the same subjects do not yet exist. The prediction marks where the dispute could be settled empirically.
+
+[Phantom-limb mirror therapy](/topics/phantom-limb-phenomena/) extends the imagery template into clinical territory. Patients imagine moving a limb that does not exist, paired with mirror-supplied visual feedback, and the [pain](/topics/pain-consciousness-and-causal-power/) referred to that limb is modulated — sometimes immediately, sometimes after sustained practice. With no peripheral generator at the felt site, the causal pathway runs through what the patient sees and engages with: conscious imagery doing measurable work on nociceptive processing without any intermediate bodily intervention.
 
 A further finding from imagery research extends the four-feature profile. Aphantasics — about 1% of the population — report having conscious thoughts without sensory accompaniments, evidence for purely [cognitive phenomenology](/concepts/cognitive-phenomenology/) independent of imagery. Effort, selection, holding, and opacity persist in non-imagistic thought. The profile tracks the structure of consciousness in action rather than any particular sensory modality.
 

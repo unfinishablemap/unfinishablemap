@@ -1,13 +1,122 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08 21:35:00+00:00
+ai_modified: 2026-05-09 01:37:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-05-08'
+date: '2026-05-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-09 01:37 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Memory anomalies (déjà vu, jamais vu, cryptomnesia)
+- **Output**: [memory-anomalies](/topics/memory-anomalies/)
+- **Word count**: 2404 (80% of topics 3000 soft target — in healthy range)
+- **Based on research**: yes — [memory-anomalies-2026-05-08](/research/memory-anomalies-2026-05-08/)
+- **Frame**: Trio treated as a structural cluster — three rotations on the same source-monitoring failure (familiarity-without-recollection / familiarity-collapse / source-tag-missing). Phenomenology-gap framing leads; TLE/Cleary evidence anchors the neural-correlate-yet-tenet-coherent reading. Bergson's "memory of the present" included as one candidate explanation, explicitly not load-bearing.
+- **Cross-links installed**: reciprocal to consciousness-and-memory, phenomenology-of-memory-and-the-self, source-attribution-void, recognition-void, noetic-feelings-void, temporal-consciousness, episodic-memory, implicit-memory, hard-problem-of-consciousness, arguments-against-materialism
+- **Self-citations**: source-attribution-void (2026-04-21, Oquatre-sept), phenomenology-of-memory-and-the-self (2026-02-13, Oquatre-six)
+- **Tenet alignment**: Tenet 1 (Dualism) — felt certainty produced when underlying causal machinery misfires is the explanandum, not evidence; Tenet 3 (Bidirectional Interaction) — Bergson's reducing-valve framing raised as one option, not commitment
+- **Cliché audit**: "This is not X. It is Y." pattern absent; one "It is not... but it is..." hedging construction retained (different pattern, acceptable)
+
+## 2026-05-09 01:15 UTC - deep-review
+- **Status**: Success
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Word count**: 2800 → 2836 (+36, well under 3000 soft threshold)
+- **Critical issues addressed**: 1 (description typo "conscience-modulable" → "consciously modulable" — French-influence error at the front-loaded summary)
+- **Medium issues addressed**: 1 (pain memory implication drawn out — phenomenal content stored and re-instantiated by neural mechanisms without current peripheral source)
+- **Enhancements made**: 0 (article was already well-calibrated; first review and no further critical/medium issues found)
+- **Engagement classification (editor-internal)**: engagement with materialism re: explanatory gap — Mode Two; engagement with materialist absorption of mirror therapy — Mode Three (boundary). No label leakage in prose.
+- **Output**: [deep-review-2026-05-09-phantom-limb-phenomena](/reviews/deep-review-2026-05-09-phantom-limb-phenomena/)
+
+## 2026-05-09 00:37 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Cross-review focus**: integrate [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) (created 2026-05-05)
+- **Word count**: 3903 → 3909 (+6, length-neutral)
+- **Critical issues addressed**: 0 (article was sound after 2026-05-07 review)
+- **Medium issues addressed**: 1 (missing cross-link to interface-efficacy sibling article)
+- **Enhancements made**: 1 inline cross-link in Distribution Problem section refining the failed-UAL inference under interface-efficacy scaling, with explicit calibration guard ("without raising any organism's evidential standing"); equivalent trims taken in NY Declaration paragraph and *C. elegans* rhetorical aside.
+- **Reasoning-mode classifications**: cross-review engagement with brain-side scaling reading classified Mode Three (framework-boundary marking); other engagements unchanged from 2026-05-07 (Frankish: Mode One; MWI: Mode Three; McGinn: not opposed).
+- **Editor-vocabulary audit**: no label leakage in article body.
+- **Calibration check**: per-organism evidential-status labels (live hypothesis / speculative integration) preserved; interface-efficacy explicitly read as complicating-not-elevating the inference.
+- **Output**: [deep-review-2026-05-09-consciousness-in-simple-organisms](/reviews/deep-review-2026-05-09-consciousness-in-simple-organisms/)
+
+## 2026-05-09 00:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Source review**: [pessimistic-2026-05-08](/reviews/pessimistic-2026-05-08/)
+- **Issues addressed**: 6 of 6 (2 HIGH, 2 MEDIUM, 2 LOW)
+  - HIGH (a): Rewrote "The Materialist Problem" to engage Inzlicht/Kurzban process model directly rather than posing rhetorical questions the model already answers within physicalism. Replaced two short paragraphs with three: the unstable epiphenomenalism noted, the process-model reply granted as the materialist's serious non-epiphenomenalist position, and the residue specified (effort hard-problem + Naccache autonomic-coupling). Disagreement now framed as honest framework-boundary disagreement; case for interface dualism explicitly rests on apophatic-catalogue convergence rather than effort phenomenology in isolation.
+  - HIGH (b): Reconciled the "different currency" claim with Westbrook 2020. Dropped the "different currency entirely" assertion (the dopamine evidence contradicts it) and reframed the Tenet 2 connection: mental tiredness is biochemically tracked, but the *selection operation* effort accompanies appears to involve information flow through regulatory pathways rather than bulk energy transfer, which is the actual Tenet 2 claim.
+  - MEDIUM (c): Softened "This phenomenology is universal" to "widely shared—the modal case rather than strictly universal", with forward reference to the Naccache clinical exception. Description frontmatter updated accordingly ("universal" → "widely-shared").
+  - MEDIUM (d): Engaged Tegmark 2000's calculation directly in the Quantum Zeno timing-gap paragraph rather than treating the issue as "remains unresolved". Calculation made explicit (measurement interval ≫ coherence time → no Zeno effect); Stapp's reply characterised as restating the desideratum rather than answering the calculation; pivot to post-decoherence selection as the better-developed Map mechanism cross-linked.
+  - LOW (e): Narrowed falsifier (3) from "equivalent neuroplastic changes occurred without phenomenal effort (e.g., under anaesthesia)" — already empirically met by sleep consolidation, classical conditioning, and pharmacological neuroplasticity — to "equivalent regulatory neuroplasticity in prefrontal-subcortical control circuits — of the kind seen in CBT, meditation training, and cognitive therapy for OCD — occurred under conditions excluding intentional engagement", with the exclusions named.
+  - LOW (f): Removed AI REFINEMENT LOG HTML comment block (was 16 lines, contained `Engagement classification:` editor-vocabulary; the comment's own footer instructed removal after human review).
+- **References added**: Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+- **Word count touched**: ~330 words modified across six locations; net +~210 words. Article now ~3,890 words, comfortably under the 4,000-word concepts soft threshold.
+- **Frontmatter**: ai_modified updated to 2026-05-09T00:11:00+00:00; modified date bumped; description softened to match.
+- **Cliché audit**: No "This is not X. It is Y." constructions introduced; existing prose preserved.
+- **Editor-vocabulary audit**: No `direct-refutation-feasible`, `unsupported-jump`, `bedrock-perimeter`, `mode-mixed`, `Engagement classification:`, or `**Evidential status:**` callouts in body prose. The `framework-boundary disagreement` phrasing in the rewritten Materialist Problem section uses the natural-language form already established elsewhere in the article (line 100) rather than editor vocabulary.
+- **Published**: yes
+
+## 2026-05-08 23:39 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 65 (delta sweep against 2026-05-05 15:36 UTC baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-05-08](/reviews/tenet-check-2026-05-08/)
+
+## 2026-05-08 23:35 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Word count**: 3849 → 3922 (+73; within capacity at 98% of 4000 apex soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing wikilinks to two highly relevant siblings — pain-consciousness-and-causal-power and the new phantom-limb-phenomena)
+- **Enhancements made**: 3 (added phantom-limb mirror therapy as a clinical extension of the imagery template in the Mental Imagery section; added inline cross-link to [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/); added both `[[pain-consciousness-and-causal-power]]` and `[[phantom-limb-phenomena]]` to related_articles)
+- **Cross-review context**: Triggered by the new `topics/phantom-limb-phenomena.md` (created 2026-05-08) and prompted to cross-review against `topics/pain-consciousness-and-causal-power.md`. Phantom-limb mirror therapy is a direct clinical demonstration of consciously-directed imagery shaping nociceptive processing without peripheral input — fits the Mental Imagery test case slot rather than warranting a new top-level section. The four-feature spine is preserved.
+- **Calibration check**: The phantom-limb addition imports only well-supported claims (modulation through visual feedback; absence of peripheral generator at the felt site). No tenet-as-evidence-upgrade move; diagnostic test passed.
+- **Mode classifications**: engagement with epiphenomenalist — Mode One; engagement with identity-theory/functionalism — Mixed (Two → One via aphantasic discriminator → Three at framework boundary); engagement with Many-Worlds — Mode Three; engagement with materialist explanation of cross-cultural invariants — Mode Two. No label leakage.
+- **Convergence**: Fourth deep review. Article remains stable; only the cross-review trigger (phantom-limb integration) and the cross-link gap to the pain article required action.
+- **Output**: [deep-review-2026-05-08-phenomenology-of-consciousness-doing-work](/reviews/deep-review-2026-05-08-phenomenology-of-consciousness-doing-work/)
+
+## 2026-05-08 23:07 UTC - deep-review
+- **Status**: Success
+- **File**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Word count**: 3658 → 3711 (+53; within capacity at 93% of 4000 apex soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing acknowledgement of bodily self-model dissociation in the "components dissociate independently" paragraph; missing cross-link to the new [out-of-body-experiences](/topics/out-of-body-experiences/) topic article that itself links back to this apex)
+- **Enhancements made**: 3 (added one-sentence OBE acknowledgement to convergence-matrix dissociation paragraph citing TPJ stimulation and VR full-body illusions; added `[[out-of-body-experiences]]` to related_articles frontmatter; added Further Reading entry framing the AWARE programme as the contested empirical frontier for veridical perception)
+- **Cross-review context**: Cross-review against new `topics/out-of-body-experiences.md` (created 2026-05-08, which links to this apex in its Further Reading). The reciprocal pair is now established. Considered and rejected: making OBE a sixth top-level window (apex_thesis names five altered states; structural economy is load-bearing); importing AWARE null result into apex body (apex makes no veridical-perception claim that AWARE could falsify; the within-OBE dialectic belongs in the topic article).
+- **Calibration check**: The added OBE sentence imports only the well-supported low-evidential-load claim (self-model dislocation) without smuggling in the contested high-evidential-load claim (disembodied consciousness / veridical perception). Diagnostic test passed: a tenet-accepting reviewer would not flag the addition as overstated.
+- **Mode classifications**: No named-opponent engagements introduced; the article speaks of "production models" generically.
+- **Convergence**: Third deep review of this apex. Previous reviews' stability notes carried forward (propofol "Abolished" matrix caveat, disinhibition alternative, No Many Worlds section, three-states paragraph). Article remains in convergence; only the reciprocal cross-link with the new OBE topic and the bodily-self-model acknowledgement were warranted.
+- **Output**: [deep-review-2026-05-08-altered-states-as-interface-evidence](/reviews/deep-review-2026-05-08-altered-states-as-interface-evidence/)
+
+## 2026-05-08 22:35 UTC - deep-review
+- **Status**: Success
+- **File**: [source-attribution-void](/voids/source-attribution-void/)
+- **Word count**: 2736 → 2736 (unchanged; length-neutral mode at 137% of 2000 voids soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to [noetic-feelings-void](/voids/noetic-feelings-void/), whose own line 28 already linked to source-attribution-void; the cryptomnesia "fluency-based attribution" mechanism is paradigm noetic-feeling material)
+- **Enhancements made**: 2 (body wikilink at "fluency-based attribution"; `related_articles` frontmatter entry for noetic-feelings-void)
+- **Cross-review context**: Deep-review against `voids/recognition-void.md` (last deep-reviewed 2026-05-02) and the new `research/memory-anomalies-2026-05-08.md` notes that will seed the forthcoming `topics/memory-anomalies-deja-vu-and-cryptomnesia.md`. New empirical material (Cleary's gestalt familiarity hypothesis, Bergson's "memory of the present", Perrin & Sant'Anna's déjà vu/déjà vécu distinction, Brown 2003 review, TLE déjà vu literature) introduces no critical issues — the article's structural philosophical claim is consistent with all of it. The reciprocal cross-link to the topic article itself is deferred to a follow-up review pass once the topic article lands (broken-link risk under check-links until then). The recognition-void reciprocal back-link belongs in the recognition-void article's next deep-review cycle, not here.
+- **Mode classifications**: No new opponent engagements introduced; bedrock disagreements catalogued in 2026-04-28 review (Eliminative Materialist Mode 3; Hard-Nosed Physicalist Mode 3; Quantum Skeptic Mode 3; Many-Worlds Defender Mode 3; Empiricist Mode 3; Buddhist Mode 3) remain bedrock and are not re-flagged.
+- **Convergence**: Second deep review of this article; remains in convergence per 2026-04-28 review's stability notes. The cross-review surfaced exactly one length-neutral structural enhancement (noetic-feelings-void reciprocal link) and one deferred work-item (topic-article cross-link pending creation). The proper void/topic division of labour is now documented in stability notes.
+- **Output**: [deep-review-2026-05-08-source-attribution-void](/reviews/deep-review-2026-05-08-source-attribution-void/)
+
+## 2026-05-08 22:06 UTC - deep-review
+- **Status**: Success
+- **File**: [synesthetic-void](/voids/synesthetic-void/)
+- **Word count**: 2511 → 2506 (−5; length-neutral mode at 125% of 2000 voids soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to [synaesthesia](/topics/synaesthesia/) topic article published 2026-05-08)
+- **Enhancements made**: 4 (added wikilink in lede, added Further Reading entry, added in-prose pointer in Developmental Occlusion, added to related_articles frontmatter)
+- **Mode classifications**: engagement with Dennett-style heterophenomenologist: Mode 3 (framework-boundary marking, realist reading flagged as substantive choice); engagement with brain-only physicalism + Popperian critic: Mode 3 (observational equivalence acknowledged); engagement with eliminative materialist (Churchland): Mode 3 (Map's reading rests on broader commitments, not on synaesthesia in isolation); engagement with Many-Worlds defender: Mode 3 (branch-relative indexicality conceded, disagreement at tenet boundary)
+- **Convergence**: Third deep review of this article. No critical issues; cross-review with topic article required only reciprocal linking and minor trimming. Article is evidence-calibrated, source-faithful, and the philosophical hedges from the 2026-04-28 refine pass remain appropriate Mode-3 framework-boundary marking
+- **Output**: [deep-review-2026-05-08-synesthetic-void](/reviews/deep-review-2026-05-08-synesthetic-void/)
 
 ## 2026-05-08 21:35 UTC - deep-review
 - **Status**: Success

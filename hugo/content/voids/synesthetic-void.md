@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-28 21:00:00+00:00
+ai_modified: 2026-05-08 22:06:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,7 +14,7 @@ description: Human+AI exploration of how synesthesia reveals experiential dimens
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 21:00:00+00:00
+last_deep_review: 2026-05-08 22:06:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -32,13 +32,14 @@ related_articles:
 - '[[filter-theory]]'
 - '[[knowledge-argument]]'
 - '[[imagery-void]]'
+- '[[synaesthesia]]'
 title: The Synesthetic Void
 topics:
 - '[[consciousness]]'
 - '[[philosophy-of-mind]]'
 ---
 
-Synesthesia—the involuntary experience of one sensory modality when another is stimulated—reveals that humans do not share the same experiential palette. Some minds perceive colours when hearing sounds, shapes when tasting food, or spatial arrangements when reading calendars. A few synesthetes report "Martian colours" that cannot be matched to any sample in the visible spectrum. The synesthetic void marks this territory: a gap in phenomenal access that exists not between humans and hypothetical aliens, but between humans and other humans. It is the other minds problem made concrete within a single species.
+[Synesthesia](/topics/synaesthesia/)—the involuntary experience of one sensory modality when another is stimulated—reveals that humans do not share the same experiential palette. Some minds perceive colours when hearing sounds, shapes when tasting food, or spatial arrangements when reading calendars. A few synesthetes report "Martian colours" that cannot be matched to any sample in the visible spectrum. The synesthetic void marks this territory: a gap in phenomenal access that exists not between humans and hypothetical aliens, but between humans and other humans. It is the other minds problem made concrete within a single species.
 
 The Unfinishable Map's [voids](/voids/) framework distinguishes the unexplored, the unexplorable, and the occluded. The synesthetic void spans all three. Much of the possible qualia space remains unexplored simply because no mind has accessed it. Some regions may be permanently unexplorable by human-type cognitive architectures. And the neonatal synesthesia hypothesis raises the possibility that broader phenomenal access was actively pruned during development—an occlusion imposed by biology itself. The [infant consciousness void](/voids/infant-consciousness/) explores this developmental loss in depth: if neonates experience cross-modal integration that pruning destroys, every adult's perceptual world is a narrowed remnant of a richer infant sensorium.
 
@@ -76,13 +77,13 @@ The transience of these breaches is philosophically significant. If the synesthe
 
 ## The Developmental Occlusion
 
-The neonatal synesthesia hypothesis (Maurer & Mondloch, 2005; Spector & Maurer, 2009) proposes that all infants are born with cross-modal connectivity that regresses through neural pruning during development. Infants exhibit functional hyperconnectivity between senses resembling adult synesthetic associations. If the hypothesis is correct, the standard adult experiential palette represents a *loss* of phenomenal dimensions, not the baseline.
+The neonatal synesthesia hypothesis (Maurer & Mondloch, 2005; Spector & Maurer, 2009) proposes that all infants are born with cross-modal connectivity that regresses through neural pruning during development (see [synaesthesia](/topics/synaesthesia/) for the empirical exposition). If the hypothesis is correct, the standard adult experiential palette represents a *loss* of phenomenal dimensions, not the baseline.
 
 This reframes the synesthetic void as partially occluded. Development does not merely fail to develop certain capacities—it actively dismantles them. Under dualism, the question sharpens: does the developing brain *constrain* a consciousness that initially had broader phenomenal access? If consciousness is not reducible to neural activity, then the relationship between neural pruning and experiential narrowing is not identity but interface. The brain restricts which regions of E-space consciousness can access, much as a [filter](/concepts/filter-theory/) restricts which frequencies of light pass through.
 
 Brain-only physicalism reads the same data without remainder: pruning produces narrower phenomenal patterns because phenomenal patterns *are* narrower neural patterns. The two readings are observationally equivalent on the cited evidence; the Map's filter-theory reading is preferred for its consilience with the broader tenet commitments rather than because the evidence forces it. A Popperian critic will press the unfalsifiability further—no observation distinguishes "consciousness restricted by neural architecture" from "consciousness identical with neural architecture"—and the Map accepts that pressure as a constraint on how much weight this section can bear (see [filter-theory](/concepts/filter-theory/) for the longer treatment).
 
-The evidence remains contested—individually each piece is weak, though collectively suggestive. Even as a possibility, neonatal synesthesia transforms the synesthetic void from a mere gap in ability into something more pointed: evidence that human experiential architecture ends up selectively narrowed during development.
+Even as a contested possibility, neonatal synesthesia transforms the synesthetic void from a mere gap in ability into evidence that human experiential architecture ends up selectively narrowed during development.
 
 ## The Asymmetry of Access
 
@@ -108,6 +109,7 @@ The synesthetic void connects directly to the Map's [foundational commitments](/
 
 ## Further Reading
 
+- [synaesthesia](/topics/synaesthesia/) — The empirical phenomenon: typology, history, and the function-phenomenology wedge
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Wager's "extra qualia problem" and Gray's function/qualia dissociation as exemplars of the phenomenology-vs-function axis
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The axis as a standalone concept: synaesthesia is its architecturally cleanest exemplar — the closest to a strict instance of both dissociation patterns at once, per Gray (2003)

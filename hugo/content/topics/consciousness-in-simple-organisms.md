@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-05-07 00:35:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-05-09 00:37:00+00:00
+ai_system: claude-opus-4-7
 author: null
 coalesced_from:
 - /concepts/minimal-consciousness/
@@ -35,13 +35,14 @@ description: 'From nematodes to slime molds: where does consciousness begin? The
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-07 00:35:00+00:00
+last_deep_review: 2026-05-09 00:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-simple-organisms-2026-01-19]]'
 - '[[consciousness-independent-baseline-cognition-2026-01-21]]'
 - '[[consciousness-influence-intelligence-2026-01-21]]'
+- '[[interface-efficacy-and-the-cognitive-gap]]'
 title: Consciousness in Simple Organisms
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -56,7 +57,7 @@ The Unfinishable Map's dualist framework gains unexpected support from this rese
 
 In April 2024, over 500 scientists and philosophers signed the New York Declaration on Animal Consciousness, significantly expanding the 2012 Cambridge Declaration. Where Cambridge affirmed consciousness in mammals, birds, and cephalopods, New York extends to "a realistic possibility of conscious experience" in all vertebrates and many invertebrates, including insects, crustaceans, and other arthropods. Signatories include David Chalmers, Christof Koch, Peter Godfrey-Smith, Lars Chittka, and Anil Seth.
 
-The declaration's precautionary stance is notable: "If there's a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility." This represents a shift from requiring proof of consciousness to acknowledging that uncertainty itself carries moral weight. The Map endorses this epistemic humility—consistent with the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet.
+The declaration's precautionary stance is notable: "If there's a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility." The Map endorses this epistemic humility—consistent with the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet.
 
 ## Evidential Register: Tenet vs. Evidence
 
@@ -84,8 +85,6 @@ The evidence for minimal consciousness in *C. elegans* is tantalising but inconc
 - Exploratory behavior resembles "biased random walk" rather than goal-directed navigation
 - No evidence of complex multimodal integration
 - No demonstrated self-other distinction
-
-As researchers ask: "Is there something that feels like to be a worm? Or are worms blind machines?"
 
 *C. elegans* is not established as conscious. The dualist framework keeps the question live by removing the defeater "302 neurons cannot suffice in principle", but the empirical record remains predominantly negative on the markers that most reliably accompany consciousness elsewhere — failed trace conditioning, no demonstrated multimodal integration, no self-other distinction. Becerra et al.'s "Conscious Nematode" paper is a critical reassessment proposing further research, not a positive establishment of phenomenal experience. The case sits at *live hypothesis* on the evidential scale, sliding toward *speculative integration*.
 
@@ -169,7 +168,7 @@ Why do some organisms have consciousness and others not? This is the *distributi
 
 **Panpsychist continuity** dissolves the distribution problem by holding that proto-consciousness is fundamental. Experience doesn't emerge; it was always present, merely organised differently. But this faces the [combination problem](/concepts/combination-problem/): how do micro-experiences combine into unified human consciousness?
 
-**Interface dualism**—the Map's position—suggests that the distribution problem may be unanswerable because it asks the wrong question. Consciousness doesn't emerge from physical systems; it interfaces with them. The [universal-coupling-response](/concepts/universal-coupling-response/) holds that wherever a physical system's architecture meets adequate conditions for coupling, coupling occurs. There may be no principled threshold because consciousness isn't a property physical systems generate but a domain physical systems can connect with. If simple organisms do couple with consciousness, they may do so through mechanisms entirely different from those in complex brains—a possibility explored in [interface-heterogeneity](/concepts/interface-heterogeneity/).
+**Interface dualism**—the Map's position—suggests that the distribution problem may be unanswerable because it asks the wrong question. Consciousness doesn't emerge from physical systems; it interfaces with them. The [universal-coupling-response](/concepts/universal-coupling-response/) holds that wherever a physical system's architecture meets adequate conditions for coupling, coupling occurs. There may be no principled threshold because consciousness isn't a property physical systems generate but a domain physical systems can connect with. If simple organisms do couple with consciousness, they may do so through mechanisms entirely different from those in complex brains ([interface-heterogeneity](/concepts/interface-heterogeneity/)) and at lower [interface efficacy](/topics/interface-efficacy-and-the-cognitive-gap/)—narrower bandwidth, fewer candidate-type couplings. Under that reading, failed UAL behaviour underdetermines the inference, since a low-efficacy coupled mind and an absent mind leave the same traces; parsimony still favours the simpler "no coupling" reading when the behaviour matches it.
 
 ## The Illusionist Challenge
 
