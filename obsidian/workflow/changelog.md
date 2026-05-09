@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T14:12:00+00:00
+ai_modified: 2026-05-09T14:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 14:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Source-Attribution Divergence
+- **Output**: [[topics/source-attribution-divergence]]
+- **Word count**: 2827 (94% of 3000 soft max — `ok`)
+- **Based on research**: no (drew on existing topic-tier siblings `topics/aphantasia`, `topics/synaesthesia`, void-tier sibling `voids/source-attribution-void`, and same-cluster topic `topics/memory-anomalies`)
+- **Cluster role**: third leg of the within-species phenomenal-divergence triptych (alongside aphantasia and synaesthesia); the methodologically loaded leg, where cohort labels are themselves introspective verdicts about introspection
+- **Discipline note**: inherits the option-3 self-undermining-conditional from aphantasia and stress-tests it against the case where introspection is most directly the variable in question — develops a double-reading framing in which the function-phenomenology gap survives both option-1 (genuine phenomenal divergence) and option-3 (Schwitzgebel-style introspective unreliability) readings, with only its location shifting
+- **Self-citations**: `voids/source-attribution-void` (apophatic structural treatment); `topics/aphantasia` (option-3 discipline anchor)
+- **Triggered**: optimistic-2026-05-08 (highest-priority opportunity), reaffirmed P2 by optimistic-2026-05-09
+- **Apex implication**: third source article for `apex/phenomenal-variation-within-a-species` is now in place — apex re-cross-review may be warranted
+- **Cross-review chain**: standard expand-topic chain — sibling articles (`topics/aphantasia`, `topics/synaesthesia`, `voids/source-attribution-void`, `topics/memory-anomalies`) may benefit from reciprocal back-links naming this article as the third leg of the within-species-divergence triptych
 
 ## 2026-05-09 14:12 UTC - deep-review (cross-review chain pass)
 - **Status**: Success (convergence — no critical issues)
