@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T19:38:00+00:00
+ai_modified: 2026-05-09T20:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 20:09 UTC - deep-review
+- **Status**: Success (no critical issues found — convergence)
+- **File**: [[topics/interaction-problem-across-traditions]]
+- **Word count**: 2619 → 2619 (no content changes; article at 87% of 3000-word soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Previous reviews**: [[reviews/deep-review-2026-03-18-interaction-problem-across-traditions]], [[reviews/deep-review-2026-03-25-interaction-problem-across-traditions]] — both noted full stability
+- **Changes since last review**: one cross-reference sentence added in "What the Typology Reveals" linking to [[concepts/cross-cultural-convergence-on-mental-causation]]; wikilink rename from `[[mental-causation]]` to `[[mental-causation-and-downward-causation|mental causation]]` (concept page renamed)
+- **Calibration check**: added sentence's "consciousness is causally efficacious" claim is hedged via cross-reference to dedicated article — load-bearing defense delegated, not asserted on tenet-coherence alone. No possibility/probability slippage.
+- **Reasoning-mode classification**: not applicable — article is descriptive-comparative, not opponent-engagement. Map's positional language in "Relation to Site Perspective" is honestly Mode-Three (framework-boundary marking); no boundary-substitution risk; no editor-vocabulary leakage.
+- **Attribution accuracy**: clean — Sāṃkhya, Avicenna (Jamali et al. 2019), Mulla Ṣadrā, Tempels (qualified), Stapp/Penrose-Hameroff/Beck-Eccles all correctly characterised
+- **Output**: [[reviews/deep-review-2026-05-09-interaction-problem-across-traditions]]
 
 ## 2026-05-09 19:38 UTC - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Five structural types of interaction solution recur across Western
 created: 2026-02-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-30T07:35:00+00:00
+ai_modified: 2026-05-09T20:09:00+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated:
-last_deep_review: 2026-03-25T18:01:00+00:00
+last_deep_review: 2026-05-09T20:09:00+00:00
 coalesced_from:
   - "/topics/interaction-problem-in-non-western-philosophy/"
   - "/topics/interaction-solutions-across-traditions/"

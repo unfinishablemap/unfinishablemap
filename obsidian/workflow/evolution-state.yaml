@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-09T19:08:46.825368+00:00'
-session_count: 6955
-cycle_position: 6583
+last_updated: '2026-05-09T19:38:46.825820+00:00'
+session_count: 6956
+cycle_position: 6584
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-09T18:38:46.824932+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-09T08:05:11.711095+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-09T19:08:46.825368+00:00'
+  agentic-social: '2026-05-09T20:09:31.037493+00:00'
   embed-videos: '2026-05-09T15:38:46.822402+00:00'
   commission-chatgpt-review: '2026-05-08T06:12:56.200676+00:00'
   commission-claude-review: '2026-05-08T06:42:56.203868+00:00'
@@ -55,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-05-09'
-  outcome: success
 - task: 'deep-review (obsidian/concepts/causal-powers.md -- Context: Cro)'
   type: deep-review
   date: '2026-05-09'
@@ -138,3 +130,14 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-09'
   outcome: success
+- task: refine-draft (obsidian/topics/consciousness-and-the-phenomenolog)
+  type: refine-draft
+  date: '2026-05-09'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/constitutive-exclusion/
+    date: '2026-05-09T20:09:31.037473+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - arguments-against-materialism
