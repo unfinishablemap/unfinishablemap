@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T04:40:00+00:00
+ai_modified: 2026-05-09T05:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 05:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-memory]]
+- **Previous review**: [[reviews/deep-review-2026-04-20-consciousness-and-memory|2026-04-20]] (5th of 5)
+- **Context**: Cross-review with newly-created [[topics/memory-anomalies]] (2026-05-09) and [[concepts/episodic-memory]]. Sixth deep review of a mature article.
+- **Word count**: 3793 → 3828 (+35), length-neutral mode applied
+- **Length status**: soft_warning (128% of 3000 target, under 4000 hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — missing integration with [[memory-anomalies]] cluster (déjà vu, jamais vu, cryptomnesia exhibit the same phenomenal/informational dissociation the article develops, but on a different axis: source-monitoring at a moment vs. persistence over consolidation time). Resolved by adding integrated paragraph in Memory Void section + Further Reading entry + related_articles entry.
+- **Enhancements made**: 5 — cross-axis dissociation paragraph in Memory Void section; tightened Reconsolidation paragraph (removed redundant restatement); tightened Phenomenological Trajectory opening; tightened Capability Division paragraph (removed redundant negation framing); tightened Choking section (removed final restatement sentence). Trims of ~60 words largely offset addition of ~95 words.
+- **Reasoning-mode classifications** (editor-internal): materialism on encoding-consolidation split — Mode Two (helps itself to identity claim without specifying why some neural processes have phenomenal accompaniment); functionalism on phenomenological trajectory — Mixed (Mode Two on functional/qualitative gap + Mode Three on bedrock); predictive processing — Mode Two (compression "should feel like anything" is unsupported foundational move); CLS (McClelland et al.) — Mode One (direct internal acknowledgment that CLS explains why memories schematise, then in-framework limitation); MWI — Mode Three (bedrock framework boundary, honestly noted); epiphenomenalism (choking) — Mode One (direct refutation via opponent's own commitment that epiphenomenal consciousness cannot be causally efficacious).
+- **Editor-vocabulary audit**: no leakage. All engagements are in natural prose.
+- **Attribution accuracy check**: passed — no new source attributions added; all existing citations remain accurate (Tulving, Baddeley, Wheeler, Schacter & Addis, Stokes, Zheng & Meister, Geva-Sagiv, Hu, Cellini & Capuozzo, Tononi & Cirelli, Diekelmann & Born, Siclari, Buzsáki, Frankland & Bontempi, Nadel & Moscovitch, Nader/Schafe/LeDoux, Winocur & Moscovitch, Kube, McClelland).
+- **Possibility/probability slippage check**: passed — quantum claims appropriately hedged in Relation to Site Perspective; reconsolidation directional-input claim labeled as Map argument; Hu et al. 2020 hedge ("REM and wakefulness studies remain limited in number") preserved.
+- **Stability notes**: 6 deep-reviews now complete. Article in mature state. New stability note: memory-anomalies cross-link is structural integration (different-axis exhibit of the same dual-domain pattern), not foreign graft — do not re-flag as overreach. Companion observation (out of scope): [[concepts/episodic-memory]] also lacks a memory-anomalies cross-link; worth a future cross-review pass.
+- **Output**: [[reviews/deep-review-2026-05-09-consciousness-and-memory]]
 
 ## 2026-05-09 04:40 UTC - deep-review
 - **Status**: Success
