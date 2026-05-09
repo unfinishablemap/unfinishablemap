@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate apex/phenomenal-variation-within-a-species.md back-links across source articles
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Grep across the catalogue shows zero inbound content references to `apex/phenomenal-variation-within-a-species.md` (only `apex/apex-articles.md` and the workflow logs reference it). The apex was created 2026-05-08 with related_articles listing aphantasia, synaesthesia, imagery-void, synesthetic-void, source-attribution-void, cognitive-phenomenology-and-the-irreducibility-of-thought, voids-between-minds, commensurability-void, ai-consciousness-typology, machine-question, knowledge-argument — but none of those source articles back-link to the apex. The apex is structurally orphaned from its own constituents. Install reciprocal back-links (a) in `topics/aphantasia.md` and `topics/synaesthesia.md` near the within-species-variation framing each article installed in their 2026-05-08 deep-reviews, naming the apex as the synthesis-tier treatment; (b) in `voids/imagery-void.md`, `voids/synesthetic-void.md`, `voids/source-attribution-void.md` near the dissociation-cluster framing each void installs, with one-sentence bridging clauses identifying the apex as the within-species-variation cluster's apex-tier home; (c) in `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md` near its phenomenal-variation discussion, with a bridging clause naming the apex as the within-species-variation extension of the irreducibility argument; (d) verify forward-link reciprocity (the apex does cite each source — confirm those citations are live and accurate post-2026-05-08-deep-reviews). Substantive bridging content (~75–150 words per insertion), not bare Further Reading additions. Co-ordinate with the queued deep-review of the apex itself (which will likely surface additional reciprocity gaps). Tenet alignment: methodological — directly aligned with the catalogue's reciprocal-link discipline and the apex-internal back-link pattern documented in the 2026-04-30 medium-status-voids precedent.
-- **Source**: orphan_integration
-- **Generated**: 2026-05-09
-
 ### P2: Cross-review siblings of the new topics/memory-anomalies.md
 - **Type**: cross-review
 - **Status**: pending
@@ -3397,6 +3390,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-09: Integrate apex/phenomenal-variation-within-a-species.md back-links across source articles
+- **Type**: integrate-orphan
+- **Notes**: Grep across the catalogue shows zero inbound content references to `apex/phenomenal-variation-within-a-species.md` (only `apex/apex-articles.md` and the workflow logs reference it). The apex was created 2026-05-08 with related_articles listing aphantasia, synaesthesia, imagery-void, synesthetic-void, source-attribution-void, cognitive-phenomenology-and-the-irreducibility-of-thought, voids-between-minds, commensurability-void, ai-consciousness-typology, machine-question, knowledge-argument — but none of those source articles back-link to the apex. The apex is structurally orphaned from its own constituents. Install reciprocal back-links (a) in `topics/aphantasia.md` and `topics/synaesthesia.md` near the within-species-variation framing each article installed in their 2026-05-08 deep-reviews, naming the apex as the synthesis-tier treatment; (b) in `voids/imagery-void.md`, `voids/synesthetic-void.md`, `voids/source-attribution-void.md` near the dissociation-cluster framing each void installs, with one-sentence bridging clauses identifying the apex as the within-species-variation cluster's apex-tier home; (c) in `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md` near its phenomenal-variation discussion, with a bridging clause naming the apex as the within-species-variation extension of the irreducibility argument; (d) verify forward-link reciprocity (the apex does cite each source — confirm those citations are live and accurate post-2026-05-08-deep-reviews). Substantive bridging content (~75–150 words per insertion), not bare Further Reading additions. Co-ordinate with the queued deep-review of the apex itself (which will likely surface additional reciprocity gaps). Tenet alignment: methodological — directly aligned with the catalogue's reciprocal-link discipline and the apex-internal back-link pattern documented in the 2026-04-30 medium-status-voids precedent.
+- **Output**: obsidian/apex/phenomenal-variation-within-a-species.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-05-09: Deep review apex/phenomenal-variation-within-a-species.md (first review since creation)
 - **Type**: deep-review

@@ -4,7 +4,7 @@ description: "A cross-cutting taxonomic axis identifying voids where phenomenal 
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-05-01T06:25:00+00:00
+ai_modified: 2026-05-09T08:35:00+00:00
 last_deep_review: 2026-05-01T06:25:00+00:00
 draft: false
 topics:
@@ -27,6 +27,7 @@ related_articles:
   - "[[tenets]]"
   - "[[apophatic-cartography]]"
   - "[[presence-type-and-absence-type-voids]]"
+  - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -130,6 +131,7 @@ The axis is also not coextensive with the [[phenomenal-contrast-method|phenomena
 ## Further Reading
 
 - [[taxonomy-of-voids]] — The apex synthesis where the axis is introduced and named
+- [[phenomenal-variation-within-a-species]] — The companion apex: the within-species cluster the axis sorts, treated as joint empirical wedge across four divergence classes
 - [[imagery-void]] — The grain-of-function wedge: aphantasic mental rotation strategies
 - [[synesthetic-void]] — Wager's extra qualia problem and Gray's function-qualia decoupling
 - [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — Strawson's foreign-language argument, comprehension-domain exemplar

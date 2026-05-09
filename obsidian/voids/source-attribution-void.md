@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-05-08T22:35:00+00:00
+ai_modified: 2026-05-09T08:35:00+00:00
 last_deep_review: 2026-05-08T22:35:00+00:00
 draft: false
 topics:
@@ -33,6 +33,7 @@ related_articles:
   - "[[expertise-and-its-occlusion]]"
   - "[[imagery-void]]"
   - "[[noetic-feelings-void]]"
+  - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -138,6 +139,7 @@ Three implications follow for how the Map thinks about the first person:
 - [[interface-formalization-void]] — The interface does not present its own operations
 - [[expertise-and-its-occlusion]] — Expertise-induced amnesia as a special case: one's own past performance as unattributable source
 - [[imagery-void]] — Companion limit at the imagination side: imagery's fidelity, vividness, and presence are unverifiable from inside
+- [[phenomenal-variation-within-a-species]] — The apex synthesis: reality-monitoring spread as one of four within-species divergence classes whose joint package pressures function-phenomenology identity
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why no conscious mind can verify the fidel
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-30T18:20:00+00:00
+ai_modified: 2026-05-09T08:35:00+00:00
 last_deep_review: 2026-04-28T21:00:00+00:00
 draft: false
 topics:
@@ -31,6 +31,7 @@ related_articles:
   - "[[vagueness-void]]"
   - "[[conjunction-coalesce]]"
   - "[[voids-between-minds]]"
+  - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -119,6 +120,7 @@ The Imagery Void also exemplifies the [[apophatic-cartography]] method on which 
 ## Further Reading
 
 - [[taxonomy-of-voids]] — Names the third face as the cleanest case of the cross-cutting phenomenology-vs-function axis
+- [[phenomenal-variation-within-a-species]] — The apex synthesis: the imagery face's joint role with synaesthesia, source-attribution, and cognitive-phenomenology in the within-species divergence cluster
 - [[phenomenology-vs-function-axis]] — The standalone treatment of that axis: the imagery void is its grain-of-function wedge — the most empirically detailed exemplar, the one that forces the task-level vs strategy-level grain question explicitly
 - [[mental-imagery]] — The concept this void surrounds
 - [[phenomenology-of-imagination]] — First-person structure of imaginative acts

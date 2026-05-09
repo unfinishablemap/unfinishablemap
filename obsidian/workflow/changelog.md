@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T08:06:00+00:00
+ai_modified: 2026-05-09T08:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 08:35 UTC - deep-review (orphan-integration follow-up)
+- **Status**: Success
+- **File**: [[apex/phenomenal-variation-within-a-species]]
+- **Previous review**: [[reviews/deep-review-2026-05-09-phenomenal-variation-within-a-species]] (07:35 UTC the same day)
+- **Context**: Apex was orphaned from site content — only the apex-articles index referenced it, despite the article being thoroughly cross-linked outbound. The earlier review left article content stable; this follow-up pass repaired the inbound-link topology so the apex is reachable from its substrate.
+- **Word count**: Unchanged (no edits to the apex article itself).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — apex now has 9 inbound content links from its source-set)
+- **Enhancements made**: 9 cross-links from source articles into the apex
+- **Articles edited**: `topics/aphantasia.md`, `topics/synaesthesia.md`, `voids/imagery-void.md`, `voids/synesthetic-void.md`, `voids/source-attribution-void.md`, `concepts/phenomenology-vs-function-axis.md`, `concepts/phenomenal-contrast-method.md`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`, `concepts/cognitive-phenomenology.md`. Each gets the apex in `related_articles` frontmatter and a Further Reading entry; `topics/synaesthesia.md` additionally gets a one-clause inline reference at the close of "Why Single-Species Variation Matters" pointing to the joint-package treatment.
+- **Selection rationale**: 9 articles edited are the apex's most central source-set: four divergence-class anchors (imagery-void, synesthetic-void, source-attribution-void, cognitive-phenomenology-and-the-irreducibility-of-thought), two topic-tier subject explainers (aphantasia, synaesthesia), three cross-cutting concepts the apex unifies (phenomenology-vs-function-axis, phenomenal-contrast-method, cognitive-phenomenology). Remaining apex_sources (functionalism, qualia, inverted-qualia, voids-between-minds, commensurability-void) are second-order references where the within-species cluster is not the focus; cross-linking them would dilute Further Reading without proportionate navigation benefit.
+- **Convergence note**: No re-running of pessimistic/optimistic reviews — the 07:35 UTC review concluded the article is at a stable state and the convergence discipline says not to re-do the philosophical work in quick succession. Pass scoped exclusively to topology repair.
+- **Output**: [[reviews/deep-review-2026-05-09-phenomenal-variation-within-a-species]] (Follow-up Pass section appended)
 
 ## 2026-05-09 08:06 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)

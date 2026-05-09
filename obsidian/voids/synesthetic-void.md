@@ -28,13 +28,14 @@ related_articles:
   - "[[knowledge-argument]]"
   - "[[imagery-void]]"
   - "[[synaesthesia]]"
+  - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-05-08T22:06:00+00:00
-ai_modified: 2026-05-08T22:06:00+00:00
+ai_modified: 2026-05-09T08:35:00+00:00
 ---
 
 [[synaesthesia|Synesthesia]]—the involuntary experience of one sensory modality when another is stimulated—reveals that humans do not share the same experiential palette. Some minds perceive colours when hearing sounds, shapes when tasting food, or spatial arrangements when reading calendars. A few synesthetes report "Martian colours" that cannot be matched to any sample in the visible spectrum. The synesthetic void marks this territory: a gap in phenomenal access that exists not between humans and hypothetical aliens, but between humans and other humans. It is the other minds problem made concrete within a single species.
@@ -111,6 +112,7 @@ The synesthetic void connects directly to the Map's [[tenets|foundational commit
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[taxonomy-of-voids]] — Wager's "extra qualia problem" and Gray's function/qualia dissociation as exemplars of the phenomenology-vs-function axis
 - [[phenomenology-vs-function-axis]] — The axis as a standalone concept: synaesthesia is its architecturally cleanest exemplar — the closest to a strict instance of both dissociation patterns at once, per Gray (2003)
+- [[phenomenal-variation-within-a-species]] — The apex synthesis: synaesthesia as one of four cumulative within-species divergence classes whose joint package presses functional identity
 - [[imagery-void]] — A parallel intra-species phenomenal divergence in mental imagery rather than qualia
 - [[affective-void]] — Emotions beyond human reach—a parallel void in the feeling dimension
 - [[voids-between-minds]] — Existence, encounter, and sharing across individual consciousnesses

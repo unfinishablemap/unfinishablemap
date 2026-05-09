@@ -4,7 +4,7 @@ description: "Human+AI exploration of aphantasia—the absence of voluntary ment
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-05-08T16:07:00+00:00
+ai_modified: 2026-05-09T08:35:00+00:00
 last_deep_review: 2026-05-08T16:07:00+00:00
 draft: false
 topics:
@@ -27,6 +27,7 @@ related_articles:
   - "[[hard-problem-of-consciousness]]"
   - "[[introspection]]"
   - "[[tenets]]"
+  - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -109,6 +110,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [[mental-imagery]] — The concept aphantasia is the negative pole of
 - [[phenomenology-of-imagination]] — First-person structure of imaginative acts
 - [[phenomenology-vs-function-axis]] — The cross-cutting axis aphantasia is the grain-of-function exemplar for
+- [[phenomenal-variation-within-a-species]] — The apex synthesis: aphantasia as one of four divergence classes whose joint package presses functional identity at the within-species grain
 - [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — The aphantasic-thought wedge: phenomenally conscious thought without sensory reduction base
 - [[hard-problem-of-consciousness]] — The broader frame within which the function-phenomenology gap sits
 - [[introspection]] — Why the only tool for studying imagery is the tool whose unreliability is part of the question

@@ -4,8 +4,8 @@ description: "Aphantasia, synaesthesia, reality-monitoring divergence, and cogni
 created: 2026-05-08
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-05-09T07:35:00+00:00
-last_deep_review: 2026-05-09T07:35:00+00:00
+ai_modified: 2026-05-09T08:35:00+00:00
+last_deep_review: 2026-05-09T08:35:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"

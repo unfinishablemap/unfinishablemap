@@ -52,12 +52,13 @@ related_articles:
   - "[[non-human-minds-as-void-explorers]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
   - "[[machine-consciousness]]"
+  - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-16
 last_curated: null
-ai_modified: 2026-05-04T09:39:00+00:00
+ai_modified: 2026-05-09T08:35:00+00:00
 last_deep_review: 2026-05-04T09:39:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
@@ -226,6 +227,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [[symbol-grounding-problem]] — Why representations need grounding in experience
 - [[pragmatisms-path-to-dualism]] — How cognitive phenomenology in evaluation makes pragmatism require dualism
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — What it's like when cognitive content resists linguistic expression
+- [[phenomenal-variation-within-a-species]] — The apex synthesis: cognitive phenomenology as one of four within-species divergence classes pressing functional identity
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Human+AI exploration of synaesthesia—extra phenomenal content un
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-05-08T19:05:00+00:00
+ai_modified: 2026-05-09T08:35:00+00:00
 last_deep_review: 2026-05-08T19:05:00+00:00
 draft: false
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[voids-between-minds]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[tenets]]"
+  - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -98,7 +99,7 @@ The functionalist has principled responses to each individual case. Synaesthetic
 
 Most philosophical thought experiments about phenomenal divergence are imagined: [[inverted-qualia|inverted spectra]], zombies, Mary the colour scientist. Synaesthesia is empirically anchored. It is not exotic, not cross-species, not hypothetical. The two minds whose phenomenology diverges share the same neural architecture, the same evolutionary history, the same language community, and the same task performance at standard behavioural grain. They differ in inner life, and the difference must be taken seriously without the methodological easements of inter-species or inter-system comparison.
 
-This is the contribution synaesthesia makes to the larger pattern of *within-species phenomenal divergence*: same biological kind, same external behaviour at task level, divergent phenomenology. [[aphantasia|Aphantasia]] is its companion case at the opposite extreme—missing phenomenal content rather than extra—and reality-monitoring divergence (the spread of source-attribution profiles across the population) extends the pattern further. The cluster of cases is what makes the wedge cumulative.
+This is the contribution synaesthesia makes to the larger pattern of *within-species phenomenal divergence*: same biological kind, same external behaviour at task level, divergent phenomenology. [[aphantasia|Aphantasia]] is its companion case at the opposite extreme—missing phenomenal content rather than extra—and reality-monitoring divergence (the spread of source-attribution profiles across the population) extends the pattern further. The cluster of cases is what makes the wedge cumulative; the [[phenomenal-variation-within-a-species|apex synthesis]] develops the joint package across all four divergence classes.
 
 ## Relation to Site Perspective
 
@@ -112,6 +113,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 
 - [[synesthetic-void|The synaesthetic void]] — The abstract apophatic treatment: why synaesthetic phenomenology lies in regions of qualia-space partially inaccessible to non-synaesthetes
 - [[aphantasia]] — The companion case at the opposite extreme: missing phenomenal content under matched task performance
+- [[phenomenal-variation-within-a-species]] — The apex synthesis: synaesthesia as the architecturally cleanest exemplar in a four-class within-species divergence cluster
 - [[phenomenology-vs-function-axis]] — Synaesthesia as the architecturally cleanest exemplar of function-phenomenology dissociation
 - [[qualia]] — The concept synaesthesia delivers extra empirical instances of
 - [[inverted-qualia]] — The hypothetical thought experiment synaesthesia is the empirically anchored cousin of
