@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-05-04 09:39:00+00:00
+ai_modified: 2026-05-09 08:35:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -46,6 +46,7 @@ related_articles:
 - '[[biological-computationalisms-inadvertent-case-for-dualism]]'
 - '[[machine-consciousness]]'
 - '[[ai-consciousness]]'
+- '[[phenomenal-variation-within-a-species]]'
 title: Cognitive Phenomenology and the Irreducibility of Thought
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -147,6 +148,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Empirical evidence that reasoning requires conscious processing
 - [imagery-void](/voids/imagery-void/) — Why the aphantasia evidence is a wedge between phenomenology and cognitive function rather than a proof either is reducible to the other
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Cognitive phenomenology as the comprehension-domain exemplar of the cross-cutting phenomenology-vs-function axis
+- [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: cognitive phenomenology as one of four within-species divergence classes whose joint package presses functional identity
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The axis as a standalone concept: Strawson's foreign-language argument is the comprehension-domain exemplar
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Which quantum mechanisms must account for cognitive, not just sensory, consciousness
 - [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — How substrate-dependent computationalism inadvertently concedes to dualism, and where Duch's substrate-independent position fits the dialectic

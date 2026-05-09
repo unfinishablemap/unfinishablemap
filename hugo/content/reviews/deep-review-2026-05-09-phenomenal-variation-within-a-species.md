@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-09 07:35:00+00:00
+ai_modified: 2026-05-09 08:35:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -129,3 +129,29 @@ The following are bedrock framework-boundary disagreements, not flaws to fix in 
 - **Single-case absorbability**: Each of the four classes is locally absorbable by a sufficiently subtle finer-grained functionalism. The article admits this directly. Future reviewers should not flag "case X has a functionalist response" as critical — the wedge's load is at the joint level, and that load is explicitly marked speculative-integration.
 
 The calibration discipline is doing its job; the article should be stable for several review cycles unless new empirical findings (a fifth divergence class, a successful single-grain absorption strategy) force restructuring.
+
+## Follow-up Pass (2026-05-09 08:35 UTC) — Orphan Integration
+
+The earlier review left the article content stable but with zero inbound links from site content (only the apex-articles index and workflow files referenced it). This follow-up pass added cross-references from the article's source-set so the apex is reachable from its own substrate.
+
+### Cross-links Added (Inbound)
+
+The following articles now link to `phenomenal-variation-within-a-species` from their **Further Reading** sections and have it added to their `related_articles` frontmatter:
+
+- [topics/aphantasia.md](/topics/aphantasia/) — apex link in Further Reading; apex added to `related_articles`
+- [topics/synaesthesia.md](/topics/synaesthesia/) — apex link in Further Reading; apex added to `related_articles`; one-clause inline reference added at the close of "Why Single-Species Variation Matters" pointing to the joint-package treatment
+- [voids/imagery-void.md](/voids/imagery-void/) — apex link in Further Reading; apex added to `related_articles`
+- [voids/synesthetic-void.md](/voids/synesthetic-void/) — apex link in Further Reading; apex added to `related_articles`
+- [voids/source-attribution-void.md](/voids/source-attribution-void/) — apex link in Further Reading; apex added to `related_articles`
+- [concepts/phenomenology-vs-function-axis.md](/concepts/phenomenology-vs-function-axis/) — apex link in Further Reading; apex added to `related_articles`
+- [concepts/phenomenal-contrast-method.md](/concepts/phenomenal-contrast-method/) — apex link in Further Reading; apex added to `related_articles`
+- [topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — apex link in Further Reading; apex added to `related_articles`
+- [concepts/cognitive-phenomenology.md](/concepts/cognitive-phenomenology/) — apex link in Further Reading; apex added to `related_articles`
+
+### Selection Rationale
+
+The 9 articles edited are the apex's most central source-set: the four divergence-class anchors (imagery-void, synesthetic-void, source-attribution-void, cognitive-phenomenology-and-the-irreducibility-of-thought), their two topic-tier subject explainers (aphantasia, synaesthesia), and the three cross-cutting concepts the apex unifies (phenomenology-vs-function-axis, phenomenal-contrast-method, cognitive-phenomenology). The remaining apex_sources entries (functionalism, qualia, inverted-qualia, voids-between-minds, commensurability-void) are second-order references where the within-species cluster is not the focus; cross-linking them would dilute their Further Reading sections without proportionate navigation benefit. Future passes can add those if the apex is referenced from them in body prose.
+
+### Article-Side Changes
+
+No content edits to the apex article itself in this pass. Per the convergence discipline in the deep-review skill, the article was reviewed earlier today and is at a stable state; this follow-up is purely about repairing the inbound-link topology so the apex is discoverable from its substrate. Frontmatter timestamps (`ai_modified`, `last_deep_review`) bumped to 2026-05-09T08:35:00+00:00 to reflect this integration work.

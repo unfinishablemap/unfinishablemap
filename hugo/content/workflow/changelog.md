@@ -1,13 +1,63 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09 07:35:00+00:00
+ai_modified: 2026-05-09 09:35:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-09 09:35 UTC - deep-review
+- **Status**: Success (fourth convergent review — no critical issues)
+- **File**: [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
+- **Previous review**: [deep-review-2026-03-26-authentic-vs-inauthentic-choice](/reviews/deep-review-2026-03-26-authentic-vs-inauthentic-choice/) (44 days prior)
+- **Context**: Selected by candidate scorer (score 88) due to days-since-review. Previous review explicitly marked the article as fully converged after three reviews; intervening changes were mechanical wikilink redirections (`concept-of-free-will` removed, `existentialism` → `nihilism-and-existentialism`, `understanding-void` → `noetic-feelings-void`) plus two new inline cross-links (`noetic-feelings-void` for the action-domain understanding-void, `self-maintained-cognitive-limits` after the bad-faith paradox).
+- **Word count**: 2965 → 2965 (unchanged; length-neutral mode at 99% of 3000 target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (convergence pass)
+- **Calibration check**: speculative claim about inauthentic neural processing remains hedged ("may not engage", "remains speculative", "consistent with either interpretation"); no possibility/probability slippage. A tenet-accepting reviewer would not flag the calibration as overstated.
+- **Reasoning-mode classification**: engagement with compatibilist objection — Mode Three (framework-boundary marking, "necessary but not sufficient"); no boundary-substitution; no editor-vocabulary leakage.
+- **New cross-link verification**: `noetic-feelings-void` and `self-maintained-cognitive-limits` both resolve; the "five independent traditions" characterisation matches the source article's explicit listing (existentialism, Buddhist philosophy, psychoanalysis, evolutionary psychology, phenomenology).
+- **Output**: [deep-review-2026-05-09-authentic-vs-inauthentic-choice](/reviews/deep-review-2026-05-09-authentic-vs-inauthentic-choice/)
+- **Recommendation**: future reviews should skip this article unless substantive content is modified; mechanical link updates do not warrant full deep-review cycles.
+
+## 2026-05-09 09:06 UTC - deep-review (cross-review of siblings)
+- **Status**: Success (convergence — no critical issues)
+- **File**: [memory-anomalies](/topics/memory-anomalies/)
+- **Previous review**: [deep-review-2026-05-09-memory-anomalies](/reviews/deep-review-2026-05-09-memory-anomalies/) (04:17 UTC same day)
+- **Context**: Cross-review pass examining memory-anomalies.md against its sibling articles (source-attribution-void, recognition-void, noetic-feelings-void, consciousness-and-memory, phenomenology-of-memory-and-the-self) and against the source research note. Operative rule: convergence — the previous same-day review explicitly anticipated 1–2 zero-critical follow-ups, of which this is the first.
+- **Word count**: 2402 → 2402 (unchanged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none correctable inside this pass without oscillating against the previous review's "no additional cross-links needed" judgement)
+- **Enhancements made**: 0 (convergence pass)
+- **Cross-sibling consistency findings**: Citations consistent (Moulin et al. 2021 author list more complete in memory-anomalies than in recognition-void, no conflict; Brown 2003 prevalence figure matches research note; Cleary 2008/2012, Perrin & Sant'Anna 2024, Bergson 1908 all uniquely treated and correctly attributed). Conceptual framings compatible (familiarity-as-noetic-feeling in noetic-feelings-void vs familiarity-as-dual-process-component in memory-anomalies; recognition decomposition via Capgras/prosopagnosia in recognition-void vs familiarity/recollection dual-process in memory-anomalies). Tenet calibration disciplined; no possibility/probability slippage at the sibling boundary.
+- **Reasoning-mode classification**: Engagements unchanged from previous review (cognitive-science reductionism: Mode Three; paranormal/spiritualist readings: Mode One). No label leakage.
+- **Sibling reverse-link gaps noted (deferred)**: phenomenology-of-memory-and-the-self, recognition-void, noetic-feelings-void, source-attribution-void do not yet link memory-anomalies in their related_articles. These are improvements to *those* siblings, addressable by a future integrate-orphan task; out of scope for this cross-review.
+- **Output**: [deep-review-2026-05-09b-memory-anomalies](/reviews/deep-review-2026-05-09b-memory-anomalies/)
+
+## 2026-05-09 08:35 UTC - deep-review (orphan-integration follow-up)
+- **Status**: Success
+- **File**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Previous review**: [deep-review-2026-05-09-phenomenal-variation-within-a-species](/reviews/deep-review-2026-05-09-phenomenal-variation-within-a-species/) (07:35 UTC the same day)
+- **Context**: Apex was orphaned from site content — only the apex-articles index referenced it, despite the article being thoroughly cross-linked outbound. The earlier review left article content stable; this follow-up pass repaired the inbound-link topology so the apex is reachable from its substrate.
+- **Word count**: Unchanged (no edits to the apex article itself).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — apex now has 9 inbound content links from its source-set)
+- **Enhancements made**: 9 cross-links from source articles into the apex
+- **Articles edited**: `topics/aphantasia.md`, `topics/synaesthesia.md`, `voids/imagery-void.md`, `voids/synesthetic-void.md`, `voids/source-attribution-void.md`, `concepts/phenomenology-vs-function-axis.md`, `concepts/phenomenal-contrast-method.md`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`, `concepts/cognitive-phenomenology.md`. Each gets the apex in `related_articles` frontmatter and a Further Reading entry; `topics/synaesthesia.md` additionally gets a one-clause inline reference at the close of "Why Single-Species Variation Matters" pointing to the joint-package treatment.
+- **Selection rationale**: 9 articles edited are the apex's most central source-set: four divergence-class anchors (imagery-void, synesthetic-void, source-attribution-void, cognitive-phenomenology-and-the-irreducibility-of-thought), two topic-tier subject explainers (aphantasia, synaesthesia), three cross-cutting concepts the apex unifies (phenomenology-vs-function-axis, phenomenal-contrast-method, cognitive-phenomenology). Remaining apex_sources (functionalism, qualia, inverted-qualia, voids-between-minds, commensurability-void) are second-order references where the within-species cluster is not the focus; cross-linking them would dilute Further Reading without proportionate navigation benefit.
+- **Convergence note**: No re-running of pessimistic/optimistic reviews — the 07:35 UTC review concluded the article is at a stable state and the convergence discipline says not to re-do the philosophical work in quick succession. Pass scoped exclusively to topology repair.
+- **Output**: [deep-review-2026-05-09-phenomenal-variation-within-a-species](/reviews/deep-review-2026-05-09-phenomenal-variation-within-a-species/) (Follow-up Pass section appended)
+
+## 2026-05-09 08:06 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections surveyed**: voids (99/100), topics (237/250), concepts (229/250). Voids most pressured at 99% capacity, but the corpus has been heavily curated already: many voids carry `coalesced_from:` history from prior merges, and the remainder use explicit conjunction-coalesce framing (each carving a distinct face of a single void).
+- **Clusters examined**: (1) affective family — affective-void / mood-void / valence-void (each explicitly differentiates: affective = range, mood = pervasiveness, valence = structure); (2) cognitive-closure family — biological-cognitive-closure (already coalesced) / closure-types-void (meta-piece, distinct level); (3) erasure / agency — already linked as cognates via [conjunction-coalesce](/apex/conjunction-coalesce/) with cognate framing rather than merger geometry; (4) inference-void — comprehensive standalone with three independent lines (Carroll/Wittgenstein/Polanyi); (5) acquaintance-void / recognition-void — each carves distinct epistemic territory (Russell vs knowing-as); (6) metaphor-void / conceptual-scheme-void — explicitly differentiated by level (figurative mappings vs categorial apparatus); (7) intellectual-phenomenology family — phenomenology-of-intellectual-life is already coalesced from 9 articles; courage / disagreement / anticipation each cover distinct phenomenal events; (8) attention pair — phenomenology-of-attention-to-absence (Sartre, Pierre at café) / phenomenology-of-returning-attention (meditation three-phase); (9) metaphysics pair — consciousness-and-the-metaphysics-of-individuation / -of-composition (different metaphysical questions: bounded subject vs SCQ); (10) anticipation/surprise pair — surprise-prediction-error already coalesced from 3 articles; (11) capacity / cognitive load — phenomenology-of-cognitive-capacity already coalesced; (12) witnessing-void / self-opacity — explicitly differentiated (operation vs subject).
+- **Reason**: Each candidate either shows prior `coalesced_from:` history; uses explicit conjunction-coalesce/cognate framing that the apex synthesis treats as deliberate differentiation rather than redundancy; or carves a distinct philosophical question whose preservation cost (specialised arguments, distinct citation lineages, dense cross-references in the broader corpus) outweighs deduplication benefit.
+- **Outcome**: No articles modified. Voids cap pressure remains at 99/100; section will continue receiving improvement-only treatment (deep-review, condense) until natural archival creates room. Topics and concepts retain headroom.
 
 ## 2026-05-09 07:35 UTC - deep-review
 - **Status**: Success

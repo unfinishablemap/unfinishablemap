@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-05-01 06:25:00+00:00
+ai_modified: 2026-05-09 08:35:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[tenets]]'
 - '[[apophatic-cartography]]'
 - '[[presence-type-and-absence-type-voids]]'
+- '[[phenomenal-variation-within-a-species]]'
 title: The Phenomenology-vs-Function Axis
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -133,6 +134,7 @@ The axis is also not coextensive with the [phenomenal contrast method](/concepts
 ## Further Reading
 
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — The apex synthesis where the axis is introduced and named
+- [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The companion apex: the within-species cluster the axis sorts, treated as joint empirical wedge across four divergence classes
 - [imagery-void](/voids/imagery-void/) — The grain-of-function wedge: aphantasic mental rotation strategies
 - [synesthetic-void](/voids/synesthetic-void/) — Wager's extra qualia problem and Gray's function-qualia decoupling
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — Strawson's foreign-language argument, comprehension-domain exemplar

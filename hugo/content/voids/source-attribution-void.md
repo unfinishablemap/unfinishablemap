@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-05-08 22:35:00+00:00
+ai_modified: 2026-05-09 08:35:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[expertise-and-its-occlusion]]'
 - '[[imagery-void]]'
 - '[[noetic-feelings-void]]'
+- '[[phenomenal-variation-within-a-species]]'
 title: The Source-Attribution Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -141,6 +142,7 @@ Three implications follow for how the Map thinks about the first person:
 - [interface-formalization-void](/voids/interface-formalization-void/) — The interface does not present its own operations
 - [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/) — Expertise-induced amnesia as a special case: one's own past performance as unattributable source
 - [imagery-void](/voids/imagery-void/) — Companion limit at the imagination side: imagery's fidelity, vividness, and presence are unverifiable from inside
+- [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: reality-monitoring spread as one of four within-species divergence classes whose joint package pressures function-phenomenology identity
 
 ## References
 

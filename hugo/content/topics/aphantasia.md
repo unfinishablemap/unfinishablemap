@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-08 16:07:00+00:00
+ai_modified: 2026-05-09 08:35:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[hard-problem-of-consciousness]]'
 - '[[introspection]]'
 - '[[tenets]]'
+- '[[phenomenal-variation-within-a-species]]'
 title: Aphantasia
 topics:
 - '[[philosophy-of-mind]]'
@@ -111,6 +112,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [mental-imagery](/concepts/mental-imagery/) — The concept aphantasia is the negative pole of
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — First-person structure of imaginative acts
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The cross-cutting axis aphantasia is the grain-of-function exemplar for
+- [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: aphantasia as one of four divergence classes whose joint package presses functional identity at the within-species grain
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — The aphantasic-thought wedge: phenomenally conscious thought without sensory reduction base
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader frame within which the function-phenomenology gap sits
 - [introspection](/concepts/introspection/) — Why the only tool for studying imagery is the tool whose unreliability is part of the question

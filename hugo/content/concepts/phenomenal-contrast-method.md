@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-28 09:28:00+00:00
+ai_modified: 2026-05-09 08:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[phenomenological-evidence]]'
 - '[[heterophenomenology]]'
 - '[[imagery-void]]'
+- '[[phenomenal-variation-within-a-species]]'
 title: Phenomenal Contrast Method
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -134,6 +135,7 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 - [methodological-pluralism](/concepts/methodological-pluralism/) — Where phenomenal contrasts fit among consciousness research methods
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Bridging first-person contrasts with third-person neuroscience
 - [imagery-void](/voids/imagery-void/) — Where phenomenal contrasts in imagery vividness expose structural limits of introspective comparability
+- [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis extending the contrast method from individual to population scale across four within-species divergence classes
 
 ## References
 
