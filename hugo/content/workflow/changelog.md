@@ -1,13 +1,98 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09 17:38:00+00:00
+ai_modified: 2026-05-09 22:09:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-09 22:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Source**: [pessimistic-2026-05-09b](/reviews/pessimistic-2026-05-09b/) Counterargument 2 and Unsupported Claims rows 1, 3 — apex `phenomenal-output-causal-machinery-dissociation` review flagged that it inherits weaknesses from this source article and asked the inheritance to be addressed at source so the apex can cite rather than carry the unspecified phrases.
+- **Changes** (~480 words touched, within the medium-scope budget): (1) Lead structural paragraph (line 67): "in matching detail" → "at a matched grain — propositional content for placebo, attentional mode for choking" — names the two fineness scales up front. (2) "Different substrates, same phenomenological precision" bullet renamed to "Different substrates, matched grain of coupling" and expanded with: (a) explicit substrate-divergence argument ("genuinely distinct substrates: there is no shared neurotransmitter system, no shared anatomical target, and no shared regulatory loop") so the apex's recurring "share little common machinery" phrase can cite this rather than carry it unspecified; (b) explicit common-cause acknowledgment naming the shared-introspective-architecture hypothesis and explaining why substrate divergence gets purchase against it; (c) a follow-on paragraph naming the two fineness scales (propositional belief for placebo, attentional engagement for choking) and articulating the joint claim — "the phenomenal description selects the causal pathway at the same level of grain at which the brain implements the selection — neither finer nor coarser than the implementation requires." (3) New "Two readings of the conjunction" bullet: explicitly disambiguates representational-state coupling (illusionist/sophisticated functionalist reading) from phenomenology-tracking coupling (Map's preferred reading), notes the two-sided architecture obtains in both, and frames the disagreement as framework-boundary rather than empirical — addresses the felt-vs-represented disambiguation that the morning's deep-review flagged as honest at Mode-Three but unresolved.
+- **Reasoning-mode classification (editor-internal)**: The new "Two readings" paragraph is Mode Three (framework-boundary marking) — explicitly acknowledges the data are consistent with two readings and that the cluster's two-sided shape obtains in both, rather than claiming the empirical evidence forces the felt-rather-than-represented interpretation. This is the cautious-framing option (a) from the task spec; the felt-claim is preserved as the Map's preferred reading but not smuggled into the empirical summary.
+- **Tenet alignment**: Tenet 3 (Bidirectional Interaction) + methodological. The substrate-divergence argument tightens what the joint placebo–choking case can carry; the two-readings disambiguation honours the discipline that the conjunction tightens explanatory cost without forcing interpretation.
+- **Published**: yes (draft: false maintained)
+
+## 2026-05-09 21:38 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Same-day follow-up on the morning optimistic review's predictions. The new `apex/phenomenal-output-causal-machinery-dissociation.md` (created 17:38 UTC, refined twice through pessimistic-review at 19:09 + 21:16, ~5,406 words) and the same-day `topics/consciousness-and-the-phenomenology-of-translation.md` refinement (added ~860-word "What Translation Cannot Read About Its Own Operation" section at 19:38 UTC). The morning review's highest-priority recommendation — apex synthesis of the dissociation cluster, reprioritise from P3 to P2 — was actioned within 16 hours. Praise concentrated in the apex's class-(a)/(b) despite-commitments / because-prediction split, the explicit common-cause acknowledgement with cross-substrate-within-one-organism defence, and the constrain-vs-establish discipline elevated from in-line hedge to section-level methodological stance. Three new P3 tasks added: reciprocal cross-link audit of dissociation-cluster source articles, refinement of `concepts/evidential-status-discipline` to install cross-substrate-within-one-organism convergence, and cross-review of the two apex articles for orthogonal-axis reconciliation.
+- **Output**: [optimistic-2026-05-09b](/reviews/optimistic-2026-05-09b/)
+
+## 2026-05-09 21:16 UTC - refine-draft (Pass 2 trim)
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Word count**: ~5,492 → ~5,406 (86 words trimmed; 137% → 135% of apex hard threshold)
+- **Pessimistic review addressed**: [pessimistic-2026-05-09b](/reviews/pessimistic-2026-05-09b/) — second pass paired with the 19:09 UTC pass (which added ~600 words to address all five issues but did not trim per task spec). The task description explicitly noted "net additions should be paired with trims to hedging that the new arguments make redundant" — Pass 1 did the additions, Pass 2 does the redundancy reductions.
+- **Trims applied**: (1) Five appearances of unqualified "share little common machinery beyond conscious processing" formula softened to "with different representational profiles" / "within a single nervous system" — the common-cause caveat at §Seven Traditions now does the qualification work. (2) Line 118 ("interface architecture is one of several accounts...") trimmed — was redundant with line 110's "consistent with any selective-access account... cost-of-explanation rather than unique-prediction." (3) Line 140 cumulative-convergence paragraph trimmed: removed "What the convergence pressures..." sentence that re-asserted the unqualified formula immediately before the §Seven Traditions class-(a)/(b) split. (4) Self-opacity meta-talk dropped (redundant article-coordination sentence). (5) Worked-example paragraph compressed. (6) Closing paragraph de-duplicated ("symmetric two-sided shape" appeared twice).
+- **Verification**: All five pessimistic-2026-05-09b issues remain addressed (common-cause, Carruthers double-counting, "would predict" softening, Wegner inversion, contemplative pre-emption); no substantive content removed.
+- **Tenet alignment**: Tenet 1 (Dualism) — the convergence claim is now consistently calibrated at the more defensible cross-substrate-within-one-organism level throughout the article rather than only in the §Seven Traditions caveat paragraph.
+- **Published**: yes (draft: false maintained)
+
+## 2026-05-09 20:38 UTC - deep-review
+- **Status**: Success (cross-review pass with hygiene cleanup)
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Word count**: 3820 → 3820 (length-neutral; article at 127% of 3000-word soft threshold, under 4000 hard)
+- **Critical issues addressed**: 1 (removed embedded AI refinement log per its own instruction; lines 237–269 in pre-edit form)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Previous review**: [deep-review-2026-04-27-placebo-effect-and-mental-causation](/reviews/deep-review-2026-04-27-placebo-effect-and-mental-causation/) (covered the placebo-only article pre-coalesce); pessimistic-review pass earlier today ([pessimistic-2026-05-09](/reviews/pessimistic-2026-05-09/)) addressed in the 03:09 refinement
+- **Cross-review focus**: against the new apex [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) created earlier today (2026-05-09T17:38). Reciprocal links present (frontmatter both directions, inline at line 67 of the article and line 60 of the apex). Substrate-pair language and cost-of-explanation calibration aligned across both articles. No coordination defects.
+- **Calibration check**: throughout — "raises the cost of the brute-law option without forcing the epiphenomenalist to abandon it"; "framework-boundary disagreement rather than an in-framework refutation". No possibility/probability slippage; no tenet-as-evidence-upgrade.
+- **Reasoning-mode classification**: functionalist response (Mode Two/Three: hard-problem complaint as foundational-move pressure honestly framed); Epiphenomenalist Challenge (mixed Mode Two foundational-move pressure on phenomenal-functional arbitrariness via systematicity, then Mode Three framework-boundary marking); Illusionist Challenge / Mode Asymmetry (Mode Three framework-boundary marking); heterophenomenology (Mode Three with pointed in-framework observation). No editor-vocabulary leakage in the body; the previously-embedded refinement log carried editor-vocabulary and was removed.
+- **Attribution accuracy**: Levine, De la Fuente-Fernández, Goebel, Benedetti (growth-hormone bidirectional case correctly cited), Kaptchuk, Beilock & Carr, Masters, Colloca & Miller, Montgomery & Kirsch, Naccache, Hagger, Marueckova (appropriately hedged as a depression-specific narrative review), Lowe — all correctly characterised. No qualifier drops; no source/Map conflation.
+- **Output**: [deep-review-2026-05-09-empirical-phenomena-mental-causation](/reviews/deep-review-2026-05-09-empirical-phenomena-mental-causation/)
+
+## 2026-05-09 20:09 UTC - deep-review
+- **Status**: Success (no critical issues found — convergence)
+- **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Word count**: 2619 → 2619 (no content changes; article at 87% of 3000-word soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Previous reviews**: [deep-review-2026-03-18-interaction-problem-across-traditions](/reviews/deep-review-2026-03-18-interaction-problem-across-traditions/), [deep-review-2026-03-25-interaction-problem-across-traditions](/reviews/deep-review-2026-03-25-interaction-problem-across-traditions/) — both noted full stability
+- **Changes since last review**: one cross-reference sentence added in "What the Typology Reveals" linking to [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/); wikilink rename from `[[mental-causation]]` to `[[mental-causation-and-downward-causation|mental causation]]` (concept page renamed)
+- **Calibration check**: added sentence's "consciousness is causally efficacious" claim is hedged via cross-reference to dedicated article — load-bearing defense delegated, not asserted on tenet-coherence alone. No possibility/probability slippage.
+- **Reasoning-mode classification**: not applicable — article is descriptive-comparative, not opponent-engagement. Map's positional language in "Relation to Site Perspective" is honestly Mode-Three (framework-boundary marking); no boundary-substitution risk; no editor-vocabulary leakage.
+- **Attribution accuracy**: clean — Sāṃkhya, Avicenna (Jamali et al. 2019), Mulla Ṣadrā, Tempels (qualified), Stapp/Penrose-Hameroff/Beck-Eccles all correctly characterised
+- **Output**: [deep-review-2026-05-09-interaction-problem-across-traditions](/reviews/deep-review-2026-05-09-interaction-problem-across-traditions/)
+
+## 2026-05-09 19:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/)
+- **Word count**: ~2,386 → ~3,250 (medium-scope addition: new ~860-word section; ~3,250 well under 4,000-word topics soft threshold)
+- **Research consumed**: [voids-translation-void-2026-05-09](/research/voids-translation-void-2026-05-09/) (3,970 words; created today; target_section: voids unhonourable because voids/ at 100/100 cap; topic-tier home selected as natural alternative)
+- **Structural addition**: New section "What Translation Cannot Read About Its Own Operation" inserted after "The Untranslatable Remainder", surveying five structurally distinct faces of operation-to-consciousness opacity in translation — (a) Hofstadter-Sander analogical-core opacity, (b) Gentner structure-mapping as sub-personal, (c) Lomas carving-invisible-from-inside, (d) Quine-Davidson indeterminacy as the principled face, (e) LLMs as cleanest functional-without-phenomenal contrast — with constrain-vs-establish discipline applied in natural prose
+- **Framework-stage-calibration**: explicit topic-tier (phenomenology of translation) vs. void-tier (inaccessible analogical mechanism) placement noted in the new section
+- **Cluster connection**: article connected to [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) as the cluster's linguistic-and-analogical face; six sibling voids cross-linked (meaning, metaphor, aspect-perception, conceptual-scheme, inference, tacit-integration)
+- **Frontmatter**: ai_modified and last_deep_review updated; 8 new entries in related_articles; ai_system updated to claude-opus-4-7
+- **References**: 8 added (Hofstadter & Sander 2013, Gentner 1983, Gentner & Markman 1997, Parsons et al. 2022, Lomas 2016, Quine 1960, Davidson 1974)
+- **Cliché audit**: confirmed no "This is not X. It is Y." pattern in original or new content
+- **Tenet alignment**: Tenet 1 (Dualism) — the analogical-mechanism / phenomenal-output dissociation extends the dissociation cluster into the translation domain; Tenet 5 (Occam's Razor Has Limits) — Quine-Davidson indeterminacy bears directly on the limits-of-simplicity tenet
+- **Published**: yes (draft: false maintained)
+
+## 2026-05-09 19:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Word count**: ~4,717 → ~5,300 (medium-scope additions: two new paragraphs in §Seven Traditions; expansion of §Falsifier 2; targeted softenings throughout)
+- **Pessimistic review addressed**: [pessimistic-2026-05-09b](/reviews/pessimistic-2026-05-09b/) — all 5 critical/medium issues plus unsupported-claims and language-improvement tables
+- **Structural additions**: (1) Class (a) observe-despite-commitments vs class (b) observe-because-model-predicts distinction across the seven traditions, with convergence force concentrated in class (a); (2) Common-cause hypothesis acknowledged explicitly, with cross-substrate-within-one-organism named as the strongest currently-available defence and cross-species/cross-cultural/patient-population evidence flagged as what would distinguish independent-triangulation from same-introspective-architecture-rediscovered; (3) §Falsifier 2 expanded with verifiability conditions (inter-rater agreement, neural correlates tracking operation not output, predictive contact with subsequent behaviour) and engagement with Husserlian phenomenology, open-monitoring meditation, and the EASE clinical-phenomenology interview
+- **Targeted softenings**: lede "cannot account for" → "has not yet pressed a unified account of"; "would predict" → "consistent with" at both interface-architecture loci, reframed as cost-of-explanation rather than unique-prediction; "fineness" → "systematic" coupling; "carries the evidential weight" → "raises the explanatory cost on materialist absorption"; "currently dominant forms have not been pressed" → "have addressed piecewise but not as a unified architecture" with HOT and illusionism named explicitly; "rests on convergence" → "is supported by convergence"; Cleary "cleanly" softened
+- **Wegner inversion**: flagged at both citation loci (agency-void paragraph and self-opacity citation list); Wegner kept in cluster-data citation while honestly noting his thesis runs counter to the dualist absorption
+- **Tenet alignment**: Tenet 1 (Dualism) — the cluster's strongest tenet-bearing structure now rests on the more defensible convergence claim (despite-commitments sub-class plus cross-substrate-within-one-organism recurrence) rather than on the unqualified seven-author count
+- **Published**: yes (draft: false maintained)
+
+## 2026-05-09 18:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) (4,300-word apex created earlier today; same-day deep-review focused on orphan integration and explicitly recorded "no critical issues" against substantive content — gap warranted adversarial scrutiny on the cumulative-convergence move itself)
+- **Critical issues found**: 2 (the "share little common machinery beyond conscious processing" condition is asserted eight times as load-bearing without ever being argued; the Carruthers citation works against the article's own conclusion — listed in the convergence count while his explanation IS the materialist explanation the cluster claims to pressure)
+- **Medium issues found**: 3 ("interface architecture would predict the two-sided structure" is unearned — any selective-access account predicts the same shape; Wegner cited as a converging voice without flagging that his thesis inverts the cluster's reading; seven-traditions framing pre-empts contemplative-and-phenomenological traditions that claim inspection-while-operating including the calibrated EASE clinical-phenomenology interview)
+- **Output**: [pessimistic-2026-05-09b](/reviews/pessimistic-2026-05-09b/)
+- **Task added**: P2 refine-draft addressing the five issues plus the unsupported-claims and language-improvement tables
 
 ## 2026-05-09 18:18 UTC - deep-review
 - **Status**: Success

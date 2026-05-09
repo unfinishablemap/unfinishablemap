@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-09 03:09:00+00:00
+ai_modified: 2026-05-09 22:09:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/H3WzrTowuDQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 11:28:00+00:00
+last_deep_review: 2026-05-09 20:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ Two empirical phenomena, taken together, supply mutually reinforcing evidence fo
 
 The Unfinishable Map treats this two-sided structure as the analytical claim: positive content-direction and negative skill-disruption are complementary signatures of consciousness doing real causal work. Neither phenomenon, by itself, settles the philosophical debate. Their conjunction raises the explanatory cost for accounts that grant the phenomena are real but deny conscious phenomenology any causal role — most directly for [epiphenomenalism](/concepts/epiphenomenalism/) and [illusionism](/concepts/illusionism/), which must absorb the same fineness of phenomenology-physiology coupling across two substrates that share little common machinery.
 
-Placebo and choking are the positive companion to the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): where the cluster's negative side (recognition, memory anomalies, mental effort, agency, suspension, noetic feelings, cardinality, introspective opacity) shows phenomenology *decoupling* from causal machinery, placebo and choking show phenomenology *coupling* to causal machinery in matching detail. The two sides together describe an interface that sometimes tracks the operation it accompanies and sometimes detaches from it, and the symmetry between them constrains what any account must explain.
+Placebo and choking are the positive companion to the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): where the cluster's negative side (recognition, memory anomalies, mental effort, agency, suspension, noetic feelings, cardinality, introspective opacity) shows phenomenology *decoupling* from causal machinery, placebo and choking show phenomenology *coupling* to causal machinery at a matched grain — propositional content for placebo, attentional mode for choking. The two sides together describe an interface that sometimes tracks the operation it accompanies and sometimes detaches from it, and the symmetry between them constrains what any account must explain.
 
 ## The Placebo Side: Content-Specific Direction
 
@@ -147,9 +147,13 @@ The placebo and choking phenomena form a two-sided empirical case that resists e
 
 **Content-specificity in both directions.** Placebo's content-specificity selects which neurotransmitter system is engaged. Choking's content-specificity selects which skill is disrupted: monitoring your *swing* disrupts your swing; monitoring your *grip* disrupts your grip. The same conscious-content → physical-outcome dependency operates in both cases, with effect direction reversed.
 
-**Different substrates, same phenomenological precision.** This is where the conjunction does work that neither phenomenon can do alone. Placebo's positive content-direction operates on humoral and neurochemical pathways — endogenous opioids, dopamine, immune signalling — modulated through descending expectation networks. Choking's negative mode-disruption operates on motor-cortical and cerebellar–basal-ganglia loops modulated through anterior cingulate and DLPFC self-monitoring engagement. These substrates share little except that conscious processing is the variable that selects the outcome. Yet both register the *same fineness* of phenomenology-to-physiology coupling: belief content selects which cascade across humoral systems; attentional mode selects which skill is disrupted across motor systems. A unified representationalist account that absorbs each phenomenon separately must additionally explain why this fineness of coupling appears so symmetrically across substrates that share no common representational machinery beyond conscious involvement.
+**Different substrates, matched grain of coupling.** This is where the conjunction does work that neither phenomenon can do alone. Placebo's positive content-direction operates on humoral and neurochemical pathways — endogenous opioids, dopamine, immune signalling — modulated through descending expectation networks. Choking's negative mode-disruption operates on motor-cortical and cerebellar–basal-ganglia loops modulated through anterior cingulate and DLPFC self-monitoring engagement. These are genuinely distinct substrates: there is no shared neurotransmitter system, no shared anatomical target, and no shared regulatory loop. The common-cause hypothesis that *human introspection has the same architectural limits across all cognitive domains, and the recurring signature is that shared limit being rediscovered* gets less purchase here than in cases where the subject reports the same kind of introspective access in two adjacent cognitive domains. The substrate divergence is doing argumentative work that the single-organism caveat alone does not.
+
+The two fineness scales differ, and naming them matters. Placebo's coupling is content-specific at the level of propositional belief: the verbal information attached to a stimulus selects which physiological cascade fires, with growth-hormone secretion rising or falling depending on whether the patient is told to expect the rise or the fall. Choking's coupling is mode-specific at the level of attentional engagement: the felt switch from absorbed to self-monitoring execution selects which automatised skill is disrupted, with monitoring the swing disrupting the swing and monitoring the grip disrupting the grip. The joint claim is that in both cases the phenomenal description selects the causal pathway at the same level of grain at which the brain implements the selection — propositional content for placebo, attentional mode for choking — neither finer nor coarser than the implementation requires. A unified representationalist account that absorbs each phenomenon separately must additionally explain why this matched-grain coupling appears symmetrically across substrates that share no common representational machinery beyond conscious involvement.
 
 **Joint cost to brute-law absorption.** Strong epiphenomenalism handles each phenomenon individually by treating phenomenal-functional tracking as brute psychophysical law. The cost of that move scales with the systematicity of the tracking. Two independent registers — content in placebo, mode in choking — each showing fine phenomenological tracking pack more systematic structure into the brute-law category than either register would alone, raising the cost without dissolving the position.
+
+**Two readings of the conjunction.** The empirical data — content-specific cascades in placebo, mode-specific disruptions in choking — are consistent with two competing interpretive readings. The *representational-state coupling* reading (illusionism, sophisticated functionalism) takes the brain to represent the propositional content and the attentional mode in question, with downstream physiology following from the represented states; the felt phenomenology is a representational by-product the data do not require. The *phenomenology-tracking coupling* reading (the Map's preferred interpretation) takes the felt content and the felt mode to be the variables doing the selecting, with the represented states understood as phenomenally constituted rather than merely co-occurring with phenomenology. The two-sided architecture — positive coupling here, negative decoupling in the dissociation cluster — obtains in both readings. The conjunction tightens what any account must explain, but does not by itself force the felt-rather-than-represented interpretation. The Map reads the tight covariation as evidence that the felt mode is doing causal work the represented description alone is not; an illusionist absorbs the same data through a richer representational story. The disagreement is at the framework boundary, and is worth marking honestly as such rather than smuggling the felt-claim into the empirical summary.
 
 ## The Epiphenomenalist Challenge
 
@@ -237,37 +241,3 @@ These phenomena contribute one strand to a [broader convergence](/topics/empiric
 14. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
 15. Montgomery, G.H. & Kirsch, I. (1997). Classical conditioning and the placebo effect. *Pain*, 72(1-2), 107-113.
 16. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-
-<!-- AI REFINEMENT LOG - 2026-05-09
-Changes addressing pessimistic-2026-05-09 review:
-
-(a) Line 106 — rewrote the "if consciousness were epiphenomenal, it could not interfere with procedural execution" non-sequitur to target the phenomenal character rather than consciousness simpliciter; the NCC of self-monitoring obviously can interfere, so the original sentence misstated the epiphenomenalist position.
-
-(b) Epiphenomenalist Challenge section — replaced the boundary-substitution (granting the epiphenomenalist's central move and treating the standard hard problem as a defeater) with an in-framework move (strong epiphenomenalism predicts arbitrary phenomenal-functional mapping; two-axis systematic tracking raises the brute-law cost), followed by honest framework-boundary marking that the cost is raised without forcing abandonment of the position. Engagement classification (editor-internal): mixed — Mode Two (foundational-move pressure on the brute-law absorption cost) followed by Mode Three (framework-boundary marking).
-
-(c) "How the Two Cases Reinforce Each Other" — replaced the unsupported "convergent vulnerability of competitor accounts" bullet with two earned bullets: (1) different substrates with the same phenomenological precision (humoral/neurochemical vs motor-cortical sharing little except conscious involvement, both registering fineness of phenomenology-physiology coupling), (2) joint cost to brute-law absorption. The conjunction argument now works rather than being asserted.
-
-(d) Open-Label Placebos — explicitly marked the argument-shift: the *propositional content* selects-cascades claim is qualified by open-label data, while *some mental causation* operates survives. Conclusion narrowed honestly.
-
-(e) Citations:
-- Added Beilock & Carr (2001) for skill-asymmetry; Masters (1992) for implicit-protection; Beilock et al. (2002) for dual-task improvements (with primary references added).
-- Replaced the "stimulant heart-rate" Benedetti (2003) example with a Benedetti-2003-documented hormonal example (growth hormone bidirectional response to verbal instruction).
-- Hedged the Marueckova (2024) claim — narrative review on depression population, not a general structural finding.
-- Rephrased the Mode Asymmetry paragraph to remove the Tulving autonoetic-memory / autonoetic-monitoring conflation, citing Beilock & Carr (2001) for the absorbed/self-monitoring distinction. Engagement now Mode Three (framework-boundary marking) rather than question-begging Mode One.
-
-(f) Language improvements applied:
-- Lede "unusually strong evidence" → "mutually reinforcing evidence ... along complementary axes"
-- Lede "harder to dissolve than either case alone" → "complementary in a way single-phenomenon arguments are not — operating across substrates that share little except the involvement of conscious processing"
-- "constrains the space of viable accounts" (line 64) → specified: raises explanatory cost for accounts denying conscious phenomenology causal role
-- "puzzling why phenomenal content tracks functional role so precisely" (former line 151) — replaced as part of (b)
-- "cosmic coincidence in two independent registers" (former line 193) → "psychophysical correlation in two independent registers — which the dualist reads as evidence and the epiphenomenalist absorbs as brute fact"
-- "convergent vulnerability of competitor accounts" heading — replaced as part of (c)
-
-Engagement classifications (editor-internal, recorded here per direct-refutation-discipline):
-- Epiphenomenalist Challenge: mixed (Mode Two foundational-move pressure on phenomenal-functional arbitrariness via systematicity, then Mode Three framework-boundary marking)
-- Illusionist Challenge / Mode Asymmetry: Mode Three (framework-boundary marking; previously question-begged via Tulving extension)
-
-Voice and structure preserved; coalesce two-side architecture intact. Word count: ~3,260 (was 3,144). Net delta ~+115 words from the (b) and (c) substantive expansions.
-
-This log should be removed after human review.
--->
