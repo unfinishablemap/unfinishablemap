@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T02:38:00+00:00
+ai_modified: 2026-05-09T03:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 03:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Based on**: [[reviews/pessimistic-2026-05-09]] (3 high-severity + 4 medium-severity findings)
+- **High-severity fixes**: (a) rewrote line-106 non-sequitur to target the *phenomenal character* of self-monitoring rather than consciousness simpliciter; (b) replaced the Epiphenomenalist Challenge boundary-substitution with an in-framework move (strong epiphenomenalism's brute-law absorption cost scaling with two-axis systematicity), then honest framework-boundary marking; (c) reconstructed the "How the Two Cases Reinforce Each Other" conjunction argument: replaced the unsupported "convergent vulnerability of competitor accounts" bullet with two earned bullets — *different substrates, same phenomenological precision* (humoral/neurochemical vs motor-cortical sharing little except conscious involvement) and *joint cost to brute-law absorption*.
+- **Medium-severity fixes**: explicit argument-shift marker in Open-Label Placebos subsection (propositional content claim qualified, some-mental-causation conclusion preserved); installed Beilock & Carr (2001), Masters (1992), Beilock et al. (2002) citations on the choking research bullets; replaced the unverified Benedetti (2003) stimulant-heart-rate example with a Benedetti-2003-documented growth-hormone bidirectional response; hedged Marueckova (2024) as a depression-specific narrative review rather than a general structural finding; rewrote the Mode Asymmetry paragraph to remove the Tulving autonoetic-memory / autonoetic-monitoring conflation, citing Beilock & Carr for the absorbed/self-monitoring distinction; softened lede ("unusually strong evidence" → "mutually reinforcing evidence along complementary axes"; "harder to dissolve" → "complementary in a way single-phenomenon arguments are not"); reframed the "cosmic coincidence" line in the Dualism tenet paragraph; specified the previously-vague "constrains the space of viable accounts" line.
+- **Engagement classifications** (editor-internal, per [[direct-refutation-discipline]]):
+  - Epiphenomenalist Challenge: mixed — Mode Two foundational-move pressure on the phenomenal-functional arbitrariness via systematicity, then Mode Three framework-boundary marking
+  - Illusionist Challenge / Mode Asymmetry: Mode Three (framework-boundary marking; previously question-begged via Tulving extension)
+- **References added**: Beilock et al. (2002, *J Exp Psych: Applied*) and Masters (1992, *Br J Psychol*); reference list renumbered.
+- **Word count**: ~3,260 (was 3,144; net +~115 words from the two substantive expansions, within the ~300–600 word touched-scope envelope)
+- **Voice and structure preserved**: lede analytic claim retained, two-sided coalesce architecture intact, all cross-links and tenet connections retained.
+- **Published**: yes (kept as `draft: false`)
 
 ## 2026-05-09 02:38 UTC - pessimistic-review
 - **Status**: Success
