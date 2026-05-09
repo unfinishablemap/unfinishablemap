@@ -1,10 +1,11 @@
 ---
 title: "Phantom Limb Phenomena"
-description: "Phantom limbs reveal that bodily experience is brain-constructed and conscience-modulable. The Map reads them as evidence for filter-mediated embodiment, not against dualism."
+description: "Phantom limbs reveal that bodily experience is brain-constructed and consciously modulable. The Map reads them as evidence for filter-mediated embodiment, not against dualism."
 created: 2026-05-08
-modified: 2026-05-08
+modified: 2026-05-09
 human_modified:
-ai_modified: 2026-05-08T18:08:00+00:00
+ai_modified: 2026-05-09T01:15:00+00:00
+last_deep_review: 2026-05-09T01:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +43,7 @@ The Unfinishable Map's reading: phantoms decisively refute the naive picture tha
 
 Phantom limb sensations are reported with the same first-person directness as sensations in intact limbs. Amputees describe feeling the position of the missing arm, sensing rings or watches that were worn at the time of amputation, attempting to gesture with it, and being startled when the phantom passes through a wall. Many report a *telescoping* progression in which the phantom shortens over months or years, sometimes ending with the phantom hand attached at the shoulder. Others report a *frozen* phantom locked in the posture the limb occupied at amputation, often the painful posture that prompted the amputation in the first place.
 
-The pain dimension is more various. Phantom limb pain typically presents as burning, crushing, stabbing, or electrical sensations referred to specific regions of the absent limb. It is not the same as stump pain, which originates from the residual tissue and has clearer peripheral correlates. Phantom pain can be intermittent or constant, can mirror pre-amputation pain (a phenomenon called *pain memory*), and is famously resistant to standard analgesics. Patients commonly report that the affected phantom hand or foot is in an impossible posture — clenched fingernails digging into the palm of a hand that does not exist — and that the pain tracks the impossible posture rather than tissue damage at any actual location.
+The pain dimension is more various. Phantom limb pain typically presents as burning, crushing, stabbing, or electrical sensations referred to specific regions of the absent limb. It is not the same as stump pain, which originates from the residual tissue and has clearer peripheral correlates. Phantom pain can be intermittent or constant, and is famously resistant to standard analgesics. A particularly striking variant is *pain memory*: phantom pain that reproduces the qualitative character and location of pre-amputation pain, sometimes years later, indicating that the phenomenal content of pain can be stored and re-instantiated by neural mechanisms in the absence of any current peripheral source. Patients commonly report that the affected phantom hand or foot is in an impossible posture — clenched fingernails digging into the palm of a hand that does not exist — and that the pain tracks the impossible posture rather than tissue damage at any actual location.
 
 Phantom phenomenology violates several intuitive constraints on what experience can be. There is felt position without proprioceptive input. There is felt movement without efferent-afferent loops at the limb. There is felt pain without nociceptive transduction at the felt site. There is, in the congenital cases, felt limb-shape with no history of having had the limb at all (Brugger et al., 2000). Whatever the underlying mechanism, it has to be one in which the brain — or the brain-mediated [[somatic-interface|somatic interface]] — generates the felt body in a way that does not require the body part to exist.
 
