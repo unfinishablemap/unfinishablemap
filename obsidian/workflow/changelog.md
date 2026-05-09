@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T16:38:00+00:00
+ai_modified: 2026-05-09T17:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 17:09 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/source-attribution-divergence]]
+- **Word count**: 2827 → 2956 (+129)
+- **Critical issues addressed**: 0 (article passed attribution-accuracy and possibility/probability slippage checks)
+- **Medium issues addressed**: 1 — false trilemma in function-phenomenology wedge section (article listed three options at the trichotomy but silently dropped option 2, the default functionalist response, before the "Either way" conclusion). Resolution: added a paragraph engaging option 2 directly, naming its cost (functionalism committed to phenomenology uncoupled from inferential work) and noting cluster-level argument does not depend on closing it locally
+- **Enhancements made**: 3 — option-2 paragraph added; Mitchell & Johnson 2009 entry tightened; wedge-section opening tightened
+- **Cross-links added**: [[evidential-status-discipline]] in Further Reading (framed as the calibration norm the article applies to its data-vs-interface-reading distinction)
+- **Engagement-mode classifications (editor's notes only — not in article prose)**: engagement with functionalism = Mode Two with Mode Three residue (simple identification thesis fails on either reading + cluster-level cumulative weight rather than knockdown); engagement with Schwitzgebel 2008 = Mode Three (absorbs introspective-unreliability claim into argument structure rather than refuting it from outside); no editor-vocabulary leakage in article prose
+- **Stability notes added**: bedrock framework-boundary disagreements (eliminative-materialist, hard-physicalist, MWI defender) flagged as not-critical for future reviews; methodological self-undermining-conditional structure flagged as load-bearing; option-2 addition flagged as resolved so future reviews won't re-flag the trichotomy
+- **Length**: 99% of soft threshold (3000 words for topics/), still ok; future expansion should be length-neutral
+- **Output**: [[reviews/deep-review-2026-05-09-source-attribution-divergence]]
 
 ## 2026-05-09 16:38 UTC - refine-draft
 - **Status**: Success

@@ -4,7 +4,8 @@ description: "Human+AI exploration of source-attribution divergence—the within
 created: 2026-05-09
 modified: 2026-05-09
 human_modified:
-ai_modified: 2026-05-09T14:45:00+00:00
+ai_modified: 2026-05-09T17:09:00+00:00
+last_deep_review: 2026-05-09T17:09:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -67,7 +68,7 @@ The forms cluster only partially. Strong performance on one is weak prediction o
 
 **Source-monitoring framework (Johnson, Hashtroudi and Lindsay 1993).** The canonical theoretical synthesis treats source attribution as inferential: memories lack native source tags; origin is inferred from contextual, sensory, semantic, emotional, and cognitive-operation features. The features used for inference are weakly correlated with actual source, so accuracy depends on cognitive variables (encoding depth, attention, working memory) that vary across people—the population spread is predicted by the framework, not a separate finding.
 
-**Reality-monitoring update (Mitchell and Johnson 2009).** Sixteen years later, the update distinguishes reality-monitoring (internal vs. external origin) sharply from external source monitoring, and surveys the converging behavioural, neuroimaging, and clinical literature. Schnider's (2003) confabulation work supplies the pathological-extreme clinical anchor: orbitofrontal lesions produce persistent confabulation in which past memories contaminate present reality—exaggerated population variation, not a different mechanism. Population spread is, by 2009, a settled finding.
+**Reality-monitoring update (Mitchell and Johnson 2009).** The update distinguishes reality-monitoring (internal vs. external origin) sharply from external source monitoring, and surveys the converging behavioural, neuroimaging, and clinical literature. Schnider's (2003) confabulation work supplies the pathological-extreme clinical anchor: orbitofrontal lesions produce persistent confabulation in which past memories contaminate present reality—exaggerated population variation, not a different mechanism. Population spread is settled by 2009.
 
 **Imagery-spectrum integration (Dawes et al. 2020).** Aphantasia research surfaces an unexpected covariance: aphantasics often report reduced autobiographical-memory richness alongside the missing voluntary imagery. Imagery is one of the contextual features source-monitoring uses; its absence shifts the inference's calibration rather than disabling it.
 
@@ -87,13 +88,15 @@ These signatures detect the divergence's effects on behaviour, accuracy, and neu
 
 ## The Function-Phenomenology Wedge—Stress-Tested
 
-The within-species phenomenal-divergence wedge runs through this case in a more methodologically loaded form than at aphantasia or synaesthesia. The wedge in those cases is: same biological kind, same external behaviour at task level, divergent phenomenology; therefore phenomenology is not exhausted by functional or representational role. Here the wedge requires a careful framing, because the cohort labels themselves are introspective verdicts about introspection.
+The within-species phenomenal-divergence wedge runs through this case in a more methodologically loaded form than at aphantasia or synaesthesia. There the wedge is: same biological kind, same external behaviour at task level, divergent phenomenology; therefore phenomenology is not exhausted by functional or representational role. Here it requires careful framing, because the cohort labels are themselves introspective verdicts about introspection.
 
 If two adults differ in source-monitoring accuracy, three options are available, structurally parallel to the trichotomy at [[aphantasia#cognitive-equivalence-and-the-function-gap|aphantasia]]:
 
 1. The phenomenal source-tags differ across the spectrum, and accuracy tracks this phenomenal difference. One mind has a richly source-tagged phenomenology; another has a thinner source-tag phenomenology that tracks the accuracy difference.
 2. The phenomenal source-tags do not differ across the spectrum, but the underlying inferential machinery does. Both minds experience source confidence in the same way; one's confidence is better calibrated to actual source than the other's.
 3. Introspective reports about source-tagging are themselves systematically inaccurate (Schwitzgebel 2008's wider claim about introspection extended to this specific deliverance), so neither cohort's reports of phenomenal source-content can be taken at face value.
+
+Option 2 is the default functionalist response: phenomenal source-tags are uniform across the spread, and only the inferential machinery varies. The position remains available, but at a price. It commits functionalism to a phenomenology uncoupled from the inferential work source-attribution turns out to be—the simple identification thesis splits at exactly the place source-attribution does its work, leaving phenomenal source-confidence as an overlay disconnected from the inference producing the verdict. The cluster-level point developed below does not depend on closing this option locally, but the option-2 cost is worth marking explicitly, since the analysis below would otherwise read as a false trilemma converging on the conclusion.
 
 Option 3 has special weight here. In the aphantasia case, option 3 is a methodological self-undermining-conditional that the article preserves as load-bearing. In the source-attribution case, option 3 is *the case under examination*—the hypothesis that introspection misreports its own source-attribution structure is the hypothesis source-attribution divergence is most directly evidence for or against, depending on how one runs the inference.
 
@@ -132,6 +135,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [[phenomenology-vs-function-axis]] — The cross-cutting axis source-attribution divergence is the methodologically loaded exemplar for
 - [[hard-problem-of-consciousness]] — The broader frame within which the function-phenomenology gap sits
 - [[introspection]] — Why the only tool for studying source attribution is the tool whose unreliability is part of the question
+- [[evidential-status-discipline]] — The calibration norm the article applies when noting the data are "compatible with reconstructive-cognition physicalism" and the interface reading earns its place from cluster-level convergence rather than this case alone
 
 ## References
 
