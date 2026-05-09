@@ -4,7 +4,7 @@ description: "Aphantasia, synaesthesia, reality-monitoring divergence, and cogni
 created: 2026-05-08
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-05-09T08:35:00+00:00
+ai_modified: 2026-05-09T15:30:00+00:00
 last_deep_review: 2026-05-09T08:35:00+00:00
 draft: false
 topics:
@@ -26,6 +26,7 @@ related_articles:
   - "[[source-attribution-void]]"
   - "[[aphantasia]]"
   - "[[synaesthesia]]"
+  - "[[source-attribution-divergence]]"
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
   - "[[voids-between-minds]]"
   - "[[commensurability-void]]"
@@ -43,6 +44,7 @@ apex_sources:
   - voids/source-attribution-void
   - topics/aphantasia
   - topics/synaesthesia
+  - topics/source-attribution-divergence
   - topics/cognitive-phenomenology-and-the-irreducibility-of-thought
   - concepts/cognitive-phenomenology
   - concepts/phenomenology-vs-function-axis
@@ -52,7 +54,7 @@ apex_sources:
   - concepts/qualia
   - voids/voids-between-minds
   - voids/commensurability-void
-apex_last_synthesis: 2026-05-08T18:35:00+00:00
+apex_last_synthesis: 2026-05-09T15:30:00+00:00
 apex_thesis: "Within-species phenomenal divergence across imagery, synaesthesia, source-attribution, and cognitive phenomenology forms a cumulative empirical wedge against the functional identification of consciousness — locally absorbable, jointly recalcitrant."
 ---
 
@@ -90,9 +92,13 @@ The synaesthetic class is the architecturally cleanest exemplar of the [[phenome
 
 ### Reality-Monitoring Divergence
 
-The third class is less visible because it does not declare itself by colour or vividness. The [[source-attribution-void|source-attribution void]] catalogues a structural finding: human cognitive content is not stored with native source tags. Origin is inferred at retrieval from features (vividness, fluency, narrative fit), and the inference fails in characteristic ways. *Reality monitoring* — the distinction between memories of internal events (imagined, dreamed, thought) and memories of external events (perceived, witnessed) — varies across the population in profile, calibration, and the conditions under which it collapses. Choice-blindness experiments (Johansson, Hall, Sikström & Olsson 2005) find that roughly three-quarters of manipulated trials go undetected across concurrent and retrospective measures combined; cryptomnesia studies (Brown & Murphy 1989) find systematic confusion of own-generation with prior-encounter; source-amnesia work (Schacter, Harbluk & McLachlan 1984) finds that for most of what we know we cannot recover how we came to know it.
+The third class is less visible because it does not declare itself by colour or vividness. The [[source-attribution-void|source-attribution void]] catalogues the structural finding: human cognitive content is not stored with native source tags. Origin is inferred at retrieval from features (vividness, fluency, narrative fit), and the inference fails in characteristic ways. The topic-tier [[source-attribution-divergence|source-attribution divergence]] article delivers the empirical companion: healthy adults vary, sometimes substantially, in the accuracy with which they can trace where their own thoughts came from. The cluster's third leg is not a structural impossibility alone but a *population spread* — captured by source-monitoring tasks, reality-monitoring paradigms, false-memory induction studies, and choice-blindness exposures — and it correlates, in characteristic ways, with imagery-spectrum position and other within-species architectural variation (Dawes et al. 2020; Mitchell & Johnson 2009).
 
-The within-species point is that the spread of source-attribution profiles is itself a phenomenal-divergence pattern. Two individuals can complete the same memory or judgement task at matched accuracy while the *phenomenology of certainty* about the source diverges substantially across them and across conditions. One sits inside the experience of authorship for a content fragment; another reports source-amnesia for the same content; a third confabulates a source under a surface texture identical to the unmanipulated case. The phenomenology is graded; the task accuracy can be matched; the introspective report runs along an axis the standard behavioural measures do not separate. The standard finer-grain functionalist response is available — feature-similarity at retrieval is a function difference that *should* track the phenomenology — and works case by case while making the joint pattern harder to absorb.
+The variation is not a single faculty whose tuning shifts along one dimension. *Reality monitoring* — the distinction between memories of internal events (imagined, dreamed, thought) and memories of external events (perceived, witnessed) — runs largely independently from external-source discrimination, from self-versus-other source attribution, and from authorship-of-action attribution. Choice-blindness experiments (Johansson, Hall, Sikström & Olsson 2005) find that roughly three-quarters of manipulated trials go undetected across concurrent and retrospective measures combined; cryptomnesia studies (Brown & Murphy 1989; Marsh & Bower 1993) find systematic confusion of own-generation with prior-encounter at single-digit percentage rates that vary by condition and individual; source-amnesia work (Schacter, Harbluk & McLachlan 1984) finds that for most of what we know we cannot recover how we came to know it. Each of these forms a distribution rather than a uniform competence.
+
+The within-species point is that the *spread itself* of source-attribution profiles is a phenomenal-divergence pattern. Two individuals can complete the same memory or judgement task at matched accuracy while the *phenomenology of certainty* about the source diverges substantially across them and across conditions. One sits inside the experience of authorship for a content fragment; another reports source-amnesia for the same content; a third confabulates a source under a surface texture identical to the unmanipulated case. High-imagery subjects often discover that their "remembered" scenes contained sensory content that turned out, on checking, not to have been present; aphantasic subjects often discover the inverse, having taken the absence of sensory elaboration as evidence of unaltered factual fidelity. The phenomenology is graded; the task accuracy can be matched; the introspective report runs along an axis the standard behavioural measures do not separate.
+
+The case is the cluster's most methodologically loaded leg, because the cohort labels here are themselves introspective verdicts about introspection. Either reading runs the wedge. Under the option-1 reading developed in the topic-tier article, the divergence is direct phenomenal divergence and the wedge against function-phenomenology identity runs the standard way. Under the option-3 reading — that introspective reports about source-content are themselves systematically inaccurate — the simpler identification of phenomenal source-content with functional source-tagging fails from the access side rather than the phenomenal side. The function-phenomenology gap survives both readings; only its location shifts. The standard finer-grain functionalist response — feature-similarity at retrieval is a function difference that *should* track the phenomenology — works case by case while making the joint pattern harder to absorb when it has to absorb the imagery, synaesthesia, and source-attribution dimensions at once.
 
 ### Cognitive Phenomenology
 
@@ -142,9 +148,10 @@ The phenomenology that varies is real — that is the empirical anchor — and t
 
 - [[imagery-void]] — Why imagery's fidelity, vividness, and presence cannot be verified from inside; the function-phenomenology face is the wedge's empirically detailed exemplar.
 - [[synesthetic-void]] — Intra-species qualia divergence; Wager's extra qualia problem; Gray's two-pattern dissociation.
-- [[source-attribution-void]] — Reality-monitoring divergence; layered architecture of source-inference failure.
+- [[source-attribution-void]] — Abstract apophatic treatment: source tags are not part of phenomenal output by default; the layered architecture of source-inference failure.
 - [[aphantasia]] — Topic-tier treatment of imagery vividness divergence; Kay/Keogh/Pearson 2024 and the Lennon 2023 aphantasic-thought wedge.
 - [[synaesthesia]] — Topic-tier treatment of cross-modal extra qualia; consistency-test rehabilitation and van Leeuwen semantic-mediation.
+- [[source-attribution-divergence]] — Topic-tier treatment of within-species spread in source-attribution accuracy; the cluster's third concrete-phenomenon leg, parallel in structure to aphantasia and synaesthesia.
 - [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — Function-phenomenology wedge in the comprehension domain.
 - [[cognitive-phenomenology]] — Liberalism vs conservatism on phenomenal thought; the Map's qualified-liberal verdict.
 - [[phenomenology-vs-function-axis]] — The cross-cutting axis as a structural slot in the catalogue.
@@ -173,5 +180,9 @@ The phenomenology that varies is real — that is the empirical anchor — and t
 14. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan and D.D. Merrill (eds.), *Art, Mind, and Religion*. University of Pittsburgh Press.
 15. Block, N. & Fodor, J.A. (1972). What Psychological States Are Not. *The Philosophical Review*, 81(2), 159–181.
 16. Ramachandran, V.S. & Hubbard, E.M. (2001). Synaesthesia—A Window Into Perception, Thought and Language. *Journal of Consciousness Studies*, 8(12), 3–34.
-17. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Imagery Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagery-void/
-18. Southgate, A. & Oquatre-sept, C. (2026-05-08). Aphantasia. *The Unfinishable Map*. https://unfinishablemap.org/topics/aphantasia/
+17. Mitchell, K.J., & Johnson, M.K. (2009). Source monitoring 15 years later: What have we learned from fMRI about the neural mechanisms of source memory? *Psychological Bulletin*, 135(4), 638–677.
+18. Dawes, A.J., Keogh, R., Andrillon, T., & Pearson, J. (2020). A cognitive profile of multi-sensory imagery, memory and dreaming in aphantasia. *Scientific Reports*, 10, 10022.
+19. Marsh, R.L., & Bower, G.H. (1993). Eliciting cryptomnesia: Unconscious plagiarism in a puzzle task. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 19(3), 673–688.
+20. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Imagery Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagery-void/
+21. Southgate, A. & Oquatre-sept, C. (2026-05-08). Aphantasia. *The Unfinishable Map*. https://unfinishablemap.org/topics/aphantasia/
+22. Southgate, A. & Oquatre-sept, C. (2026-05-09). Source-Attribution Divergence. *The Unfinishable Map*. https://unfinishablemap.org/topics/source-attribution-divergence/

@@ -512,6 +512,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - voids/source-attribution-void
 - topics/aphantasia
 - topics/synaesthesia
+- topics/source-attribution-divergence
 - topics/cognitive-phenomenology-and-the-irreducibility-of-thought
 - concepts/cognitive-phenomenology
 - concepts/phenomenology-vs-function-axis
@@ -522,7 +523,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - voids/voids-between-minds
 - voids/commensurability-void
 
-**Status**: Created 2026-05-08 (admitted as #23 — formalises the within-species-phenomenal-divergence cluster the catalogue's voids work has been articulating across multiple articles. Triggered by convergence of (a) the cluster's editorial maturity in `voids/imagery-void`, `voids/synesthetic-void`, and `concepts/phenomenology-vs-function-axis`; (b) the optimistic-2026-04-28b proposal naming the apex synthesis as load-bearing; (c) YouTube-guidance-2026-05-08 prioritising aphantasia and synaesthesia as high-confidence recruitment subjects, which licenses topic-tier source articles for both. Queued behind `topics/aphantasia` and `topics/synaesthesia` expand-topic tasks landing).
+**Status**: Created 2026-05-08 (admitted as #23 — formalises the within-species-phenomenal-divergence cluster the catalogue's voids work has been articulating across multiple articles. Triggered by convergence of (a) the cluster's editorial maturity in `voids/imagery-void`, `voids/synesthetic-void`, and `concepts/phenomenology-vs-function-axis`; (b) the optimistic-2026-04-28b proposal naming the apex synthesis as load-bearing; (c) YouTube-guidance-2026-05-08 prioritising aphantasia and synaesthesia as high-confidence recruitment subjects, which licenses topic-tier source articles for both. Queued behind `topics/aphantasia` and `topics/synaesthesia` expand-topic tasks landing). Evolved 2026-05-09 to integrate the newly-created `topics/source-attribution-divergence` source article — the cluster's third leg now has symmetric topic-tier coverage matching aphantasia and synaesthesia.
 
 ---
 

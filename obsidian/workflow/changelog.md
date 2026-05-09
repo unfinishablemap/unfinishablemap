@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T14:45:00+00:00
+ai_modified: 2026-05-09T15:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 15:30 UTC - apex-evolve
+- **Status**: Success
+- **Article**: [[apex/phenomenal-variation-within-a-species]]
+- **Mode**: evolve (invoked as create; existing 2026-05-08 article preserved — surgical integration rather than rewrite)
+- **Changed sources**: 1 — `topics/source-attribution-divergence` (created 2026-05-09 14:45 UTC)
+- **Word count**: 3320 → 3658 (within target 2500–4000)
+- **Changes**: (a) added `topics/source-attribution-divergence` to `apex_sources` and `related_articles` frontmatter; (b) bumped `apex_last_synthesis` and `ai_modified` to 15:30 UTC; (c) rewrote the Reality-Monitoring Divergence section to integrate the new topic-tier source as the cluster's third concrete-phenomenon leg (parallel to aphantasia and synaesthesia), now citing the population-spread typology, the imagery-spectrum covariance from Dawes et al. 2020, and the option-1/option-3 double-reading from the topic article; (d) added the new article to the apex's Source Articles list with one-line role description; (e) appended Mitchell & Johnson 2009, Dawes et al. 2020, Marsh & Bower 1993, and a self-citation to topics/source-attribution-divergence in References; (f) updated `apex/apex-articles.md` Status note for entry #23 to record the 2026-05-09 evolution
+- **Triggered by**: P2 task in `obsidian/workflow/todo.md` ("apex-evolve: phenomenal-variation-within-a-species — source [[topics/source-attribution-divergence]] created")
+- **Discipline note**: honoured `[[coalesce-condense-apex-stability]]` — the apex's narrative still resolves against each cited source's anchors and tenet connections; the third leg now has symmetric topic-tier coverage matching the imagery (aphantasia) and qualia (synaesthesia) legs
 
 ## 2026-05-09 14:45 UTC - expand-topic
 - **Status**: Success

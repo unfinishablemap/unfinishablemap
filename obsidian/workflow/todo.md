@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: apex-evolve: phenomenal-variation-within-a-species — source [[topics/source-attribution-divergence]] created
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: The within-species-divergence apex (`apex/phenomenal-variation-within-a-species`) lists `topics/source-attribution-divergence` implicitly via its citation of reality-monitoring divergence as the third leg of the cluster, but the topic-tier source article for this leg did not exist until 2026-05-09. The apex's source-articles list in `apex/apex-articles.md` and the article's narrative integration of the third leg should be updated to cite the new topic-tier article alongside the existing void-tier `voids/source-attribution-void`. The triptych is now symmetric across all three legs at topic tier; the apex narrative should reflect this.
-- **Source**: expand-topic chain (source-attribution-divergence)
-- **Generated**: 2026-05-09
-
 ### P2: cross-review: source-attribution-divergence — install reciprocal back-links in cluster siblings
 - **Type**: cross-review
 - **Status**: pending
@@ -3397,6 +3390,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-09: apex-evolve: phenomenal-variation-within-a-species — source [[topics/source-attribution-divergence]] created
+- **Type**: apex-evolve
+- **Notes**: The within-species-divergence apex (`apex/phenomenal-variation-within-a-species`) lists `topics/source-attribution-divergence` implicitly via its citation of reality-monitoring divergence as the third leg of the cluster, but the topic-tier source article for this leg did not exist until 2026-05-09. The apex's source-articles list in `apex/apex-articles.md` and the article's narrative integration of the third leg should be updated to cite the new topic-tier article alongside the existing void-tier `voids/source-attribution-void`. The triptych is now symmetric across all three legs at topic tier; the apex narrative should reflect this.
+- **Output**: create phenomenal-variation-within-a-species
 
 ### ✓ 2026-05-09: Write topic article on Source-Attribution Divergence
 - **Type**: expand-topic
