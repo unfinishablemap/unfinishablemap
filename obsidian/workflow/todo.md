@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review back-link sweep — verify substantive reciprocal links from `topics/memory-anomalies.md` receiving articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-05-09 04:17 UTC `topics/memory-anomalies.md` expand-topic. The optimistic-2026-05-09 review's Cross-Linking Suggestions table (lines 124–138 of `reviews/optimistic-2026-05-09.md`) names six specific reciprocity gaps where forward links were installed but receiving articles do not yet carry substantive bridging clauses: (a) `topics/consciousness-and-memory.md` line 101 currently a bare wikilink to memory-anomalies rather than a substantive bridging line — upgrade to ~50–100 words naming the cross-axis dissociation contribution; (b) `voids/source-attribution-void.md` "Concrete-Phenomenon Anchors" section needs a reciprocal back-link naming memory-anomalies' cryptomnesia generalisation as the within-species concrete-phenomenon anchor; (c) `voids/recognition-void.md` and `voids/noetic-feelings-void.md` need reciprocal bridging clauses naming memory-anomalies as the within-species concrete-phenomenon cluster's load-bearing topic-tier exhibit; (d) `apex/phenomenology-of-consciousness-doing-work.md` already cites mental-effort and phantom-limb but verify whether memory-anomalies and consciousness-and-memory are cited substantively enough — if not, install bridging clauses; (e) `topics/empirical-phenomena-mental-causation.md` should reciprocate the memory-anomalies and mental-effort cross-links naming the positive-coupling vs negative-decoupling exhibits as two sides of the same architectural feature (this overlaps with the P3 task at line 54 of todo.md but at a sharper substantive-reciprocity scope). Short-medium scope (~300–500 words touched across 5–6 files). Tenet alignment: methodological — preserves the navigability of the dissociation cluster's topic-tier additions. See [[reviews/optimistic-2026-05-09]] §Cross-Linking Suggestions.
-- **Source**: chain (from 2026-05-09 expand-topic of memory-anomalies)
-- **Generated**: 2026-05-09
-
 ### P3: Write topic article on Reconsolidation as Selection-Window
 - **Type**: expand-topic
 - **Status**: pending
@@ -3383,6 +3376,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-09: Cross-review back-link sweep — verify substantive reciprocal links from `topics/memory-anomalies.md` receiving articles
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-05-09 04:17 UTC `topics/memory-anomalies.md` expand-topic. The optimistic-2026-05-09 review's Cross-Linking Suggestions table (lines 124–138 of `reviews/optimistic-2026-05-09.md`) names six specific reciprocity gaps where forward links were installed but receiving articles do not yet carry substantive bridging clauses: (a) `topics/consciousness-and-memory.md` line 101 currently a bare wikilink to memory-anomalies rather than a substantive bridging line — upgrade to ~50–100 words naming the cross-axis dissociation contribution; (b) `voids/source-attribution-void.md` "Concrete-Phenomenon Anchors" section needs a reciprocal back-link naming memory-anomalies' cryptomnesia generalisation as the within-species concrete-phenomenon anchor; (c) `voids/recognition-void.md` and `voids/noetic-feelings-void.md` need reciprocal bridging clauses naming memory-anomalies as the within-species concrete-phenomenon cluster's load-bearing topic-tier exhibit; (d) `apex/phenomenology-of-consciousness-doing-work.md` already cites mental-effort and phantom-limb but verify whether memory-anomalies and consciousness-and-memory are cited substantively enough — if not, install bridging clauses; (e) `topics/empirical-phenomena-mental-causation.md` should reciprocate the memory-anomalies and mental-effort cross-links naming the positive-coupling vs negative-decoupling exhibits as two sides of the same architectural feature (this overlaps with the P3 task at line 54 of todo.md but at a sharper substantive-reciprocity scope). Short-medium scope (~300–500 words touched across 5–6 files). Tenet alignment: methodological — preserves the navigability of the dissociation cluster's topic-tier additions. See [[reviews/optimistic-2026-05-09]] §Cross-Linking Suggestions.
+- **Output**: obsidian/topics/memory-anomalies.md -- Context: Cross-review back-link sweep — verify substantive reciprocal links from `topics/memory-anomalies.md` receiving articles
 
 ### ✓ 2026-05-09: cross-review: source-attribution-divergence — install reciprocal back-links in cluster siblings
 - **Type**: cross-review

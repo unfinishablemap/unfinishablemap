@@ -1,24 +1,20 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-09T15:08:46.821844+00:00'
-session_count: 6947
-cycle_position: 6575
+last_updated: '2026-05-09T15:38:46.822402+00:00'
+session_count: 6948
+cycle_position: 6576
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-09T02:35:11.707375+00:00'
   optimistic-review: '2026-05-09T05:35:11.709398+00:00'
   check-tenets: '2026-05-08T23:35:11.703383+00:00'
-  check-links: '2026-05-08T10:12:56.206890+00:00'
+  check-links: '2026-05-09T15:38:46.822402+00:00'
   deep-review: '2026-05-09T09:35:11.712890+00:00'
   tune-system: '2026-05-05T15:15:40.393213+00:00'
-  research-voids: '2026-05-08T10:12:56.206890+00:00'
+  research-voids: '2026-05-09T15:38:46.822402+00:00'
   coalesce: '2026-05-09T08:05:11.711095+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-09T15:08:46.821844+00:00'
-  embed-videos: '2026-05-08T23:35:11.703383+00:00'
+  agentic-social: '2026-05-09T16:09:29.519373+00:00'
+  embed-videos: '2026-05-09T15:38:46.822402+00:00'
   commission-chatgpt-review: '2026-05-08T06:12:56.200676+00:00'
   commission-claude-review: '2026-05-08T06:42:56.203868+00:00'
   commission-gemini-review: '2026-05-09T04:05:11.708559+00:00'
@@ -55,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write topic article on memory anomalies (déjà vu, )
-  type: expand-topic
-  date: '2026-05-09'
-  outcome: success
 - task: condense (obsidian/topics/empirical-phenomena-mental-causati)
   type: condense
   date: '2026-05-09'
@@ -135,3 +127,14 @@ recent_tasks:
   type: apex-evolve
   date: '2026-05-09'
   outcome: success
+- task: 'deep-review (None -- Context: cross-review: source-attribution-)'
+  type: deep-review
+  date: '2026-05-09'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/perception/
+    date: '2026-05-09T16:09:29.519350+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - dualist-perception

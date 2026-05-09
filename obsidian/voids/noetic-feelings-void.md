@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-05-09T16:15:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -46,6 +46,7 @@ related_articles:
   - "[[consciousness-and-scientific-explanation]]"
   - "[[creative-consciousness]]"
   - "[[the-quantitative-comprehension-void]]"
+  - "[[memory-anomalies]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -100,7 +101,7 @@ The void has three structural features.
 
 **Authority without audit.** The feelings gate further cognition: when to stop searching, when to trust, when to engage analytic thought. The system cannot audit them from inside, because audit requires more feelings of the same kind. The feeling of obviousness is the purest case: by presenting nothing to investigate, it prevents the investigation that would detect its own fluency-driven origin.
 
-**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence resists argument. These dissociations show noetic feelings are signals rather than perceptions, and that consciousness cannot tell from inside when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: a feeling of *prediction* that tracks no actual predictive capacity.
+**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence resists argument. These dissociations show noetic feelings are signals rather than perceptions, and that consciousness cannot tell from inside when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: a feeling of *prediction* that tracks no actual predictive capacity. The [[memory-anomalies|memory anomalies cluster]] treats this trio (déjà vu, jamais vu, cryptomnesia) as three rotations on the same source-monitoring failure, with the Cleary gestalt-match paradigm supplying the most-cited demonstration that felt premonition can fire without any actual future-knowledge.
 
 Compounded, these features yield the void: the signals that gate cognition are precisely the signals consciousness cannot audit without their help.
 
@@ -173,6 +174,7 @@ The cluster-level conditions are taken up separately in [[medium-status-voids-in
 - [[suspension-void]] — Why bracketing the natural attitude cannot fully audit itself
 - [[epistemic-emotions]] — The phenomenally rich extension of the noetic family
 - [[apophatic-cartography]] — Mapping territory by the shape of its boundary
+- [[memory-anomalies]] — Déjà vu, jamais vu, and cryptomnesia as concrete edge-phenomena where the noetic-feelings architecture becomes diagnostically visible
 
 ## References
 

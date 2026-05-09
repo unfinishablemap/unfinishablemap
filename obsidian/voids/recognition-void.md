@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own r
 created: 2026-03-22
 modified: 2026-05-02
 human_modified:
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-09T16:15:00+00:00
 last_deep_review: 2026-05-02T06:55:00+00:00
 draft: false
 topics:
@@ -35,6 +35,7 @@ related_articles:
   - "[[relevance-void]]"
   - "[[vagueness-void]]"
   - "[[aspect-perception-void]]"
+  - "[[memory-anomalies]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -64,7 +65,7 @@ The affective component — the felt familiarity that Capgras strips away — is
 
 Semantic satiation offers a repeatable encounter with the Recognition Void in healthy subjects. Writing a common word thirty times reliably strips it of meaning (Moulin & Bell, 2021). The word becomes alien — perceived but emptied of significance. The 2024 computational modelling by Kwon et al. explains the *mechanism* (lower-level processing saturation) but not the phenomenology: why does the exhaustion of recognition feel *eerie* rather than merely blank?
 
-Jamais vu demonstrates that meaningfulness is actively constructed moment by moment. Recognition is not a stable property of stimuli but an ongoing generation. When the generation machinery exhausts, we glimpse the raw material that recognition normally transforms — perception without knowing-as. The [[noetic-feelings-void|noetic feelings void]] catalogues the wider pattern: what exhausts in semantic satiation is a fluency-and-familiarity signal, and the signal's opacity is architectural, not accidental.
+Jamais vu demonstrates that meaningfulness is actively constructed moment by moment. Recognition is not a stable property of stimuli but an ongoing generation. When the generation machinery exhausts, we glimpse the raw material that recognition normally transforms — perception without knowing-as. The [[noetic-feelings-void|noetic feelings void]] catalogues the wider pattern: what exhausts in semantic satiation is a fluency-and-familiarity signal, and the signal's opacity is architectural, not accidental. The [[memory-anomalies|memory anomalies cluster]] develops jamais vu as one of three rotations on a single source-monitoring failure — alongside déjà vu (familiarity without recollection) and cryptomnesia (recollection without source-tag) — making the dual-process recognition architecture visible at its margins.
 
 ### The Agnosias
 
@@ -132,6 +133,7 @@ The Recognition Void engages multiple [[tenets]].
 - [[what-voids-reveal]] — How inventory blindness strengthens the abductive argument from void convergence
 - [[noetic-feelings-void]] — The felt-signal family that recognition's affective component belongs to
 - [[aspect-perception-void]] — Sister case: seeing-as with a felt "lighting up" event whose substrate is opaque, parallel to recognition's edge phenomena
+- [[memory-anomalies]] — Déjà vu, jamais vu, and cryptomnesia as three rotations on a single source-monitoring architecture, with TLE and Cleary-paradigm evidence
 - [[voids]]
 
 ## References

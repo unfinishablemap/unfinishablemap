@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T15:55:00+00:00
+ai_modified: 2026-05-09T16:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 16:15 UTC - deep-review (back-link sweep)
+- **Status**: Success
+- **File**: [[topics/memory-anomalies]] (target; not modified beyond `ai_modified`/`last_deep_review` bump)
+- **Pass type**: Back-link sweep — verify substantive reciprocal links from receiving articles, resolving the deferred items from the 09:06 UTC cross-review
+- **Word count (memory-anomalies.md)**: 2402 → 2402 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 — sibling articles missing reciprocal back-links to `memory-anomalies` (gap explicitly flagged but deferred by the 09:06 UTC cross-review)
+- **Files modified** (5): `voids/source-attribution-void`, `voids/recognition-void`, `voids/noetic-feelings-void`, `topics/phenomenology-of-memory-and-the-self`, `topics/memory-anomalies`
+- **Changes per sibling**: in each of the four siblings, added `[[memory-anomalies]]` to `related_articles` frontmatter, added a Further Reading entry with descriptive caption, and added one in-body cross-link at the most-substantive insertion point (cryptomnesia paragraph in source-attribution-void; jamais vu/semantic-satiation paragraph in recognition-void; dissociable-fallibility paragraph in noetic-feelings-void; Klein-and-Nichols mineness-dissociation paragraph in phenomenology-of-memory-and-the-self)
+- **Substantive-reciprocal-link test**: each insertion was justified by direct content overlap — the receiving article either explicitly names a phenomenon from the trio (déjà vu, jamais vu, cryptomnesia) in body or makes a foundational claim that memory-anomalies cleanly demonstrates (pastness as quale, mineness as separable phenomenal feature)
+- **Convergence**: this is the third deep-review pass on memory-anomalies in a single UTC day (04:17 full pass → 09:06 cross-review → 16:15 back-link sweep); zero critical issues across passes 2 and 3 confirms convergence; future deep-reviews should expect no critical issues unless content is substantively modified
+- **Reciprocity ecosystem**: receiving articles `consciousness-and-memory` and `source-attribution-divergence` already had substantive reciprocal links in body and Further Reading; the four updated siblings now match that bar
+- **Out of scope**: broader receiving articles (`hard-problem-of-consciousness`, `introspection`, `episodic-memory`, `implicit-memory`, `temporal-consciousness`, `arguments-against-materialism`, `phenomenal-transparency-opacity-spectrum`, `personal-identity`, `tenets`) were not audited — back-link decisions there belong to integrate-orphan tasks scoped to the individual articles, not to a memory-anomalies-driven sweep
+- **Output**: [[reviews/deep-review-2026-05-09c-memory-anomalies]]
+- **Timestamps**: bumped `ai_modified` on all five touched files to 2026-05-09T16:15:00+00:00; `last_deep_review` on `memory-anomalies` bumped to same
 
 ## 2026-05-09 15:55 UTC - research-voids
 - **Status**: Success

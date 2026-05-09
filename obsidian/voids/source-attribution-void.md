@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-05-09T15:38:00+00:00
+ai_modified: 2026-05-09T16:15:00+00:00
 last_deep_review: 2026-05-08T22:35:00+00:00
 draft: false
 topics:
@@ -35,6 +35,7 @@ related_articles:
   - "[[noetic-feelings-void]]"
   - "[[phenomenal-variation-within-a-species]]"
   - "[[source-attribution-divergence]]"
+  - "[[memory-anomalies]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -60,7 +61,7 @@ Three experimental programmes probe the void at its seams.
 
 **Choice blindness.** Johansson, Hall, Sikström and Olsson (2005) asked participants to choose between pairs of faces on attractiveness, then covertly switched the chosen face for the rejected one. Across concurrent and retrospective measures combined, roughly three-quarters of manipulated trials went undetected (concurrent detection alone was lower, retrospective higher). When asked to explain their (manipulated) choice, participants who missed the switch confidently produced detailed reasons for the face they had originally rejected. The reasons were as detailed and emotionally invested as genuine reasons. The authors report that "participants failed to notice conspicuous mismatches ... while nevertheless offering introspectively derived reasons for why they chose the way they did." The phenomenology of explaining a choice and explaining a non-choice was indistinguishable from within.
 
-**Cryptomnesia.** Brown and Murphy (1989) documented that in category-fluency tasks, subjects routinely "originate" ideas they had encountered before but forgotten encountering, at single-digit percentage rates that varied by task condition (recall-own versus recognise-own, generate-new versus recall-primed). Crucially, the subject is confident of originality. The mechanism appears to be what the reviewers call [[noetic-feelings-void|fluency-based attribution]]: the ease with which a thought arrives is misread as evidence that it is self-generated. High fluency and self-origination share surface features in memory, and the system collapses them.
+**Cryptomnesia.** Brown and Murphy (1989) documented that in category-fluency tasks, subjects routinely "originate" ideas they had encountered before but forgotten encountering, at single-digit percentage rates that varied by task condition (recall-own versus recognise-own, generate-new versus recall-primed). Crucially, the subject is confident of originality. The mechanism appears to be what the reviewers call [[noetic-feelings-void|fluency-based attribution]]: the ease with which a thought arrives is misread as evidence that it is self-generated. High fluency and self-origination share surface features in memory, and the system collapses them. The [[memory-anomalies|memory anomalies cluster]] develops cryptomnesia as one of three rotations on the same source-monitoring failure, alongside déjà vu (familiarity without recollection) and jamais vu (recollection without familiarity).
 
 **Source amnesia.** The Schacter, Harbluk and McLachlan (1984) line of work, extended across decades, finds that for most of what we know, we cannot recover how we came to know it. Wikipedia's review of the literature observes that "everybody experiences source amnesia on a near daily basis, as for much of our knowledge it is important to remember the knowledge itself, rather than its source." Semantic memory (the fact) and episodic memory (the acquisition context) routinely decouple. Most beliefs operate as orphaned content—known to be true, with no recoverable provenance. The [[expertise-and-its-occlusion|expertise void]] is a structural cousin: expertise-induced amnesia leaves the expert's own past performance as an unattributable source—the procedural trace runs reliably, but no episodic trace specifies how or when the skill arrived.
 
@@ -142,6 +143,7 @@ Three implications follow for how the Map thinks about the first person:
 - [[imagery-void]] — Companion limit at the imagination side: imagery's fidelity, vividness, and presence are unverifiable from inside
 - [[phenomenal-variation-within-a-species]] — The apex synthesis: reality-monitoring spread as one of four within-species divergence classes whose joint package pressures function-phenomenology identity
 - [[source-attribution-divergence]] — The topic-tier subject explainer: empirical signatures (source-monitoring tasks, choice blindness, cryptomnesia, imagery-spectrum correlations) of the within-species spread this void treats apophatically
+- [[memory-anomalies]] — Déjà vu, jamais vu, and cryptomnesia as a single phenomenon viewed from three angles: the concrete-phenomenon exhibits of the source-monitoring architecture this void treats abstractly
 
 ## References
 
