@@ -2,9 +2,9 @@
 title: "Apex Articles Index"
 description: "Curated index of the Map's apex articles—synthesis pieces integrating topics, concepts, and arguments into unified philosophical narratives."
 created: 2026-01-24
-modified: 2026-01-24
+modified: 2026-05-09
 human_modified: 2026-01-24
-ai_modified: 2026-05-08T18:35:00+00:00
+ai_modified: 2026-05-09T17:38:00+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -524,6 +524,30 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - voids/commensurability-void
 
 **Status**: Created 2026-05-08 (admitted as #23 — formalises the within-species-phenomenal-divergence cluster the catalogue's voids work has been articulating across multiple articles. Triggered by convergence of (a) the cluster's editorial maturity in `voids/imagery-void`, `voids/synesthetic-void`, and `concepts/phenomenology-vs-function-axis`; (b) the optimistic-2026-04-28b proposal naming the apex synthesis as load-bearing; (c) YouTube-guidance-2026-05-08 prioritising aphantasia and synaesthesia as high-confidence recruitment subjects, which licenses topic-tier source articles for both. Queued behind `topics/aphantasia` and `topics/synaesthesia` expand-topic tasks landing). Evolved 2026-05-09 to integrate the newly-created `topics/source-attribution-divergence` source article — the cluster's third leg now has symmetric topic-tier coverage matching aphantasia and synaesthesia.
+
+---
+
+### 24. Phenomenal Output and Causal Machinery
+
+**Slug**: `phenomenal-output-causal-machinery-dissociation`
+
+**Subtitle**: A structural dissociation visible across perception, cognition, agency, and memory
+
+**Thesis**: Phenomenal access systematically reaches outputs but not the operations that produce them, across perception, cognition, agency, and memory — and the dissociation has a positive companion in which phenomenology couples to causal machinery in matching detail. The cumulative convergence across seven independent traditions (Carruthers, Trick & Pylyshyn, Koriat, Polanyi, Inzlicht/Kurzban, Bergson, Schwitzgebel) is what carries the evidential weight, while each individual dissociation merely constrains identity readings rather than establishing the dualist alternative. The cluster is the catalogue's tightest worked instance of the cumulative-convergence move and the constrain-vs-establish methodological discipline.
+
+**Source articles**:
+- topics/memory-anomalies
+- voids/recognition-void
+- voids/the-quantitative-comprehension-void (cardinality floor)
+- concepts/mental-effort
+- voids/noetic-feelings-void
+- voids/agency-void
+- voids/suspension-void
+- voids/self-opacity (introspective-opacity *Process* dimension)
+- topics/consciousness-and-memory
+- topics/empirical-phenomena-mental-causation (positive companion)
+
+**Status**: Created 2026-05-09 (admitted as #24 — promoted from P3 to P2 by replenish-queue per optimistic-2026-05-09 explicit reprioritisation; the cluster's source-article roster materially expanded since the 2026-04-29d framing, with three substantial topic/concept-tier members exhibiting the dissociation pattern with explicit framing language — `topics/memory-anomalies` line 75 names "the gap between phenomenal output and the causal machinery that produces it" verbatim; `concepts/mental-effort` line 100 installs the constrain-vs-establish framing as the cluster's operational signature; `topics/consciousness-and-memory` lines 162–172 frames "the phenomenal dimension of memory operating semi-independently of its informational substrate." Plus `topics/empirical-phenomena-mental-causation` provides the positive mental-causation companion that completes the architectural picture. Apex would be #24 within the informal 20-article cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
 
 ---
 

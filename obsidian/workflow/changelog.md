@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T17:09:00+00:00
+ai_modified: 2026-05-09T17:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 17:38 UTC - apex-evolve (create)
+- **Status**: Success
+- **Article**: [[apex/phenomenal-output-causal-machinery-dissociation]] (new — admission #24)
+- **Mode**: create
+- **Word count**: 4332 (body); ~5000 with references and frontmatter
+- **Source articles synthesised** (10): `topics/memory-anomalies`, `voids/recognition-void`, `voids/the-quantitative-comprehension-void` (cardinality floor face), `concepts/mental-effort`, `voids/noetic-feelings-void`, `voids/agency-void`, `voids/suspension-void`, `voids/self-opacity` (introspective-opacity *Process* dimension), `topics/consciousness-and-memory`, `topics/empirical-phenomena-mental-causation` (positive companion)
+- **Trigger**: Promoted P3→P2 by replenish-queue 2026-05-09 14:38 UTC per optimistic-2026-05-09 explicit reprioritisation; cluster's source-article roster materially expanded since the 2026-04-29d framing — three substantial topic/concept-tier members now exhibit the dissociation pattern with explicit framing language already installed
+- **Synthesis architecture**: (a) names the structural cluster explicitly (phenomenal access reaches outputs not processes; phenomenal certainty is the explanandum, not the evidence); (b) catalogues 9+ cluster members across three timescales (instant of perception: memory-anomalies, recognition-void, cardinality floor; real time: mental-effort, agency-void, suspension-void, noetic-feelings-void; across-time: consciousness-and-memory's consolidation trajectory) plus self-opacity *Process* dimension and the positive mental-causation companion; (c) tracks convergence of seven divergent traditions (Carruthers, Trick & Pylyshyn, Koriat, Polanyi, Inzlicht/Kurzban, Bergson, Schwitzgebel); (d) installs the constrain-vs-establish discipline as the cluster's load-bearing methodological move; (e) provides the navigation hub for compact citation
+- **Tenet alignment**: Tenet 1 (Dualism) directly; Tenet 5 (Occam's Razor Has Limits) — the cluster as the catalogue's tightest demonstration that materialism cannot account for why phenomenal output detaches systematically from the operations it putatively reports on
+- **Master list**: `apex/apex-articles.md` updated with admission entry as #24, with the cap-pressure caveat noted (apex/ at 25/20 over informal governance cap; the standing P3 audit task remains the load-bearing rebalancing pass)
+- **Slug**: `phenomenal-output-causal-machinery-dissociation` — collision-checked clean
+- **Capacity caveat**: Acknowledged in the admission entry. Apex is over the 20-article cap; the standing P3 audit task ("Refine apex/apex-articles.md to address apex section over-cap") remains the rebalancing pass that may migrate two existing apex articles to project/
 
 ## 2026-05-09 17:09 UTC - deep-review
 - **Status**: Success
