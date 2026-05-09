@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T06:11:00+00:00
+ai_modified: 2026-05-09T06:43:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 06:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-interface-problem]]
+- **Previous reviews**: [[reviews/deep-review-2026-05-05-the-interface-problem|2026-05-05]] (cross-review for mind-brain-interface-efficacy); [[reviews/deep-review-2026-05-01-the-interface-problem|2026-05-01]] (first review of coalesced article).
+- **Context**: Cross-review chained from the 2026-05-09 03:09 UTC restructure of [[topics/empirical-phenomena-mental-causation]]. That restructure sharpened the in-framework engagement with epiphenomenalism (Mode Two foundational-move pressure on phenomenal-functional arbitrariness via two-axis systematic phenomenology-physiology coupling, plus honest framework-boundary marking) and earned the complementarity argument via different-substrates/same-precision. The interface-problem article previously made the empirical case for Bidirectional Interaction *only* via the Cai et al. dopamine dissociation; the broader empirical case (placebo + choking) was an unsignposted sibling. No reciprocal cross-link existed in either direction. This pass installs the forward link.
+- **Word count**: 3027 → 3058 (+31), length-neutral mode (101% → 102% of 3000 soft threshold; well below 4000 hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 — (1) body cross-link to [[empirical-phenomena-mental-causation]] installed at the natural editorial seam in "Relation to Site Perspective" → Bidirectional Interaction passage, between the dopamine sentence and the epiphenomenalism-foreclosure sentence; new sentence demarcates this article's *where/how* role from the empirical-phenomena article's *that* role. (2) Frontmatter `related_articles` updated with [[empirical-phenomena-mental-causation]] (now last entry, after [[interface-efficacy-and-the-cognitive-gap]]). Length-neutral offset: tightened the biological-analogy sentence in "The Critic's Strongest Objection" by replacing the em-dash-and-semicolon double-clutch with a cleaner clause structure (both qualifications preserved).
+- **Reasoning-mode classifications** (editor-internal): Eliminative-materialist engagement in "The Critic's Strongest Objection" — mixed (Mode Two on the impossibility claim — Stapp/Eccles partial models refute the *impossibility* claim by the eliminativist's own standards of structural specifiability; Mode Three on the framework-internal preference for non-epiphenomenal alternatives, with Chalmers/Robinson loosening preserved as the eliminativist's available counter-move). Unchanged from 2026-05-05; no editor-vocabulary leakage in prose. The new cross-link absorbs the empirical-phenomena article's own mixed-mode handling by reference; no new classification introduced here.
+- **Calibration check**: Pass. Diagnostic test (would a tenet-accepting reviewer flag any claim as overstated relative to the evidential-status scale?) returns no across the article. The new cross-link sentence ("...establishing the explanandum the location/specification programme attempts to mechanise") points to where the empirical case is *developed* without upgrading its evidential status — the empirical-phenomena article's own honest framework-boundary marking is absorbed by reference rather than restated more strongly. "Qualified support from dopamine research… consistent with… without itself establishing" / "currently unfalsifiable in practice" / pre-Keplerian framing all hold.
+- **Stability note**: Article has now received three deep reviews where critical-issues count is zero (2026-05-01, 2026-05-05, 2026-05-09). This pass adds only a targeted cross-link installation; no internal revision. The 2026-05-05 cross-link maintenance discipline pattern (install, verify no calibration drift, log engagement modes, stop) holds as the template for sibling-restructure-triggered cross-reviews. Reverse direction (empirical-phenomena → interface-problem) left for that article's own next cross-review.
+- **Output**: [[reviews/deep-review-2026-05-09-the-interface-problem]]
 
 ## 2026-05-09 06:11 UTC - deep-review
 - **Status**: Success
