@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T09:35:00+00:00
+ai_modified: 2026-05-09T14:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 14:10 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-04
+- **Coverage**: 2/2 reviewers processed (sources: chatgpt-5-5-pro, claude-opus-4-7; gemini not yet integrated on this date)
+- **Clusters**: 1 convergent (tenet-protected bracketing where direct refutation is possible), 5 singletons, 0 divergent
+- **Tasks upgraded**: 0 (convergent cluster's matching task already complete)
+- **Tasks deduplicated**: 0
+- **Notes**: Claude's empirical claim ("no Duch references on site") was disputed by `/outer-review` verification and excluded from convergence; only the orthogonal methodological observation survived. Third outer review in two days to surface the same higher-order tenet-protected-reasoning weakness; the project-doc fix (`direct-refutation discipline`) was already written from prior cycles.
+- **Output**: [[reviews/outer-review-synthesis-2026-05-04]]
 
 ## 2026-05-09 09:35 UTC - deep-review
 - **Status**: Success (fourth convergent review — no critical issues)
