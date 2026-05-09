@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T06:43:00+00:00
+ai_modified: 2026-05-09T07:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 07:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/direction-of-fit]]
+- **Previous reviews**: [[reviews/deep-review-2026-03-22-direction-of-fit|2026-03-22]]; [[reviews/deep-review-2026-02-23-direction-of-fit|2026-02-23]]
+- **Context**: Third deep review. The 2026-03-22 review explicitly noted the article had reached stability and that "future reviews should only flag issues if new content is added or a factual error is discovered." Since then only mechanical wikilink retargeting has occurred. This pass found one legitimate enhancement: the concept article [[content-specificity-of-mental-causation]] (created 2026-03-11) was substantively but unlinkedly referenced in the placebo passage where the phrase "content-specificity" appears. Cross-link installed; no internal revision.
+- **Word count**: 1749 → 1751 (+2 words; 70% of 2500 soft threshold; normal mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing inline cross-link to newly-created concept article)
+- **Enhancements made**: 1 — (1) inline cross-link `[[content-specificity-of-mental-causation|content-specificity]]` added in the World-to-Mind Fit and Mental Causation section at the substantive use of the phrase; concept also added to frontmatter `concepts` list.
+- **Reasoning-mode classifications** (editor-internal): Article does not engage named opponents — it engages positions (eliminative materialism, functionalism, biological-function reduction) generically rather than naming specific philosophers. Mode classification therefore does not apply. The "Challenges to the Framework" responses to the biological objection ("Map's response: evolutionary function may explain *why* these structures exist without explaining *what they are*") and the functionalist reduction (thermostat analogy) use natural-prose framework-boundary marking without editor-vocabulary leakage.
+- **Calibration check**: Pass. Diagnostic test (would a tenet-accepting reviewer flag any claim as overstated relative to the evidential-status scale?) returns no across the article. Placebo evidence remains qualified as "suggestive empirical evidence" and "remains contested" — appropriate calibration tier. Map commitments framed as Map commitments throughout ("Map holds…", "Map's tenet takes…at face value", "If [conditional]…"). No tenet-coherence-as-evidence-upgrade slippage detected.
+- **Stability note**: Article has now received three deep reviews. Substantive content is unchanged since the 2026-02-23 first review; only mechanical wikilink retargeting (mental-causation, placebo-effect) and incremental cross-link additions (cognitive-phenomenology in 2026-03-22, content-specificity in this pass) have occurred. Bedrock disagreements with eliminative materialism, functionalism, and Buddhist non-self positions are properly absorbed. Future reviews should trigger work only when (a) substantive content changes, (b) a factual error surfaces, or (c) a newly-created concept article warrants inline cross-linking — as occurred this cycle.
+- **Output**: [[reviews/deep-review-2026-05-09-direction-of-fit]]
 
 ## 2026-05-09 06:43 UTC - deep-review
 - **Status**: Success
