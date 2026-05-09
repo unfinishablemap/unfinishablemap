@@ -1,13 +1,105 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09 01:37:00+00:00
+ai_modified: 2026-05-09 05:40:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-09 05:40 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The 2026-05-09 cluster of three interlocking articles on the phenomenal-output / causal-machinery dissociation — `topics/memory-anomalies.md` (new article 04:17 UTC, 2402 words), `concepts/mental-effort.md` (refined and deep-reviewed 04:40 UTC, 4076 → 3461 words), `topics/consciousness-and-memory.md` (sixth deep-review pass 05:17 UTC, 3793 → 3828 words), with `topics/empirical-phenomena-mental-causation.md` as the adjacent positive-mental-causation companion.
+- **Key finding**: The cluster lands the same structural pattern (phenomenal output decoupled from causal machinery) at three distinct timescales: source-monitoring failures at the moment of perception (memory-anomalies), the consolidation trajectory across decades (consciousness-and-memory), real-time effort-monitoring (mental-effort). Process Philosopher and Hardline Empiricist personas converge across all three articles. The constrain-vs-establish discipline (mental-effort line 100) is now installed as the cluster's operational signature.
+- **Output**: [optimistic-2026-05-09](/reviews/optimistic-2026-05-09/)
+- **Tasks generated**: 3 P3 chain tasks (reconsolidation topic article, refine evidential-status-discipline to absorb constrain-vs-establish, cross-review empirical-phenomena against the dissociation cluster). Recommendation to reprioritise existing P3 apex synthesis task on phenomenal-output-without-felt-operation cluster to P2 given source-article roster expansion from voids-only to voids+topics+concepts.
+
+## 2026-05-09 05:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Previous review**: [2026-04-20](/reviews/deep-review-2026-04-20-consciousness-and-memory/) (5th of 5)
+- **Context**: Cross-review with newly-created [memory-anomalies](/topics/memory-anomalies/) (2026-05-09) and [episodic-memory](/concepts/episodic-memory/). Sixth deep review of a mature article.
+- **Word count**: 3793 → 3828 (+35), length-neutral mode applied
+- **Length status**: soft_warning (128% of 3000 target, under 4000 hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — missing integration with [memory-anomalies](/topics/memory-anomalies/) cluster (déjà vu, jamais vu, cryptomnesia exhibit the same phenomenal/informational dissociation the article develops, but on a different axis: source-monitoring at a moment vs. persistence over consolidation time). Resolved by adding integrated paragraph in Memory Void section + Further Reading entry + related_articles entry.
+- **Enhancements made**: 5 — cross-axis dissociation paragraph in Memory Void section; tightened Reconsolidation paragraph (removed redundant restatement); tightened Phenomenological Trajectory opening; tightened Capability Division paragraph (removed redundant negation framing); tightened Choking section (removed final restatement sentence). Trims of ~60 words largely offset addition of ~95 words.
+- **Reasoning-mode classifications** (editor-internal): materialism on encoding-consolidation split — Mode Two (helps itself to identity claim without specifying why some neural processes have phenomenal accompaniment); functionalism on phenomenological trajectory — Mixed (Mode Two on functional/qualitative gap + Mode Three on bedrock); predictive processing — Mode Two (compression "should feel like anything" is unsupported foundational move); CLS (McClelland et al.) — Mode One (direct internal acknowledgment that CLS explains why memories schematise, then in-framework limitation); MWI — Mode Three (bedrock framework boundary, honestly noted); epiphenomenalism (choking) — Mode One (direct refutation via opponent's own commitment that epiphenomenal consciousness cannot be causally efficacious).
+- **Editor-vocabulary audit**: no leakage. All engagements are in natural prose.
+- **Attribution accuracy check**: passed — no new source attributions added; all existing citations remain accurate (Tulving, Baddeley, Wheeler, Schacter & Addis, Stokes, Zheng & Meister, Geva-Sagiv, Hu, Cellini & Capuozzo, Tononi & Cirelli, Diekelmann & Born, Siclari, Buzsáki, Frankland & Bontempi, Nadel & Moscovitch, Nader/Schafe/LeDoux, Winocur & Moscovitch, Kube, McClelland).
+- **Possibility/probability slippage check**: passed — quantum claims appropriately hedged in Relation to Site Perspective; reconsolidation directional-input claim labeled as Map argument; Hu et al. 2020 hedge ("REM and wakefulness studies remain limited in number") preserved.
+- **Stability notes**: 6 deep-reviews now complete. Article in mature state. New stability note: memory-anomalies cross-link is structural integration (different-axis exhibit of the same dual-domain pattern), not foreign graft — do not re-flag as overreach. Companion observation (out of scope): [episodic-memory](/concepts/episodic-memory/) also lacks a memory-anomalies cross-link; worth a future cross-review pass.
+- **Output**: [deep-review-2026-05-09-consciousness-and-memory](/reviews/deep-review-2026-05-09-consciousness-and-memory/)
+
+## 2026-05-09 04:40 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Previous review**: [2026-04-19](/reviews/deep-review-2026-04-19-mental-effort/)
+- **Context**: Cross-review after 2026-05-09 00:11 refine-draft expanded the article (4076 words, hard_warning) to integrate the effort-void evidence per [voids-effort-void-2026-05-08](/research/voids-effort-void-2026-05-08/).
+- **Word count**: 4076 → 3461 (−615)
+- **Length status**: hard_warning → soft_warning (138% of 2500 target, under 3500 hard threshold)
+- **Critical issues addressed**: 3 — (1) length over hard threshold, resolved by length-neutral condensation throughout (three faces, Materialist Problem, neuroplasticity, Quantum Zeno, Illusionist, Effortless Awareness, Further Reading); (2) internal contradiction between line 56 ("widely shared, modal case") and Occam's tenet ("universally reported"), resolved by changing "universally" to "widely"; (3) No Many Worlds tenet was the article's weakest argument per pessimistic-2026-05-08 (refine missed this issue), reframed as honest Mode Three framework-boundary marking — MWI predicts the same indexical singularity, so effort phenomenology is silent between single-world and many-world readings; case against branching deferred to [the selection trilemma](/topics/forward-in-time-conscious-selection/).
+- **Medium issues addressed**: 1 — "not X but Y" cliché in Effortless Awareness section ("not because consciousness stopped working, but because the interface has been trained" + "mastery, not passivity"), rewritten as positive claim.
+- **Enhancements made**: 5 — No Many Worlds reframe, universal/widely-shared contradiction fix, cliché removal, unused Fox 2012 and Hagan 2002 reference removal, Further Reading list tightening.
+- **Reasoning-mode classifications** (editor-internal): strict epiphenomenalism — Mode One (defective on selection-pressure grounds within physicalism); Inzlicht/Kurzban physicalism — Mixed (Mode Two foundational pressure on hard-problem-localised-to-effort + Mode Three boundary-marking); illusionism (Graziano AST) — Mode One (regress argument internal to illusionism); MWI — Mode Three (post-revision, previously was incorrectly framed as Mode One refutation; now correctly boundary-marking with case-against-branching deferred to other articles).
+- **Editor-vocabulary audit**: no leakage in body prose; HTML comment block already removed by prior refine, verified absent.
+- **Attribution accuracy check**: passed — Naccache, Hagger, Kurzban, Inzlicht, Westbrook, Tegmark, Schwartz, Marzbani, Lutz, Howard, Zheng/Meister, Sauerbrei/Pruszynski all preserved with qualifiers intact. References list cleaned of unused entries.
+- **Possibility/probability slippage check**: passed — calibration-honest language throughout; no tenet-coherence-as-evidence-upgrade; new section's "constrain not establish" hedge propagated through subsequent sections.
+- **Stability notes**: 7 deep-reviews now complete (Jan-20, Jan-29, Mar-04, Mar-06, Mar-28, Apr-19, May-09). Settled bedrock disagreements (do not re-flag): MWI, decoherence/Zeno hedging, process-model physicalism, Schwartz OCD evidence, strict epiphenomenalism, Naccache as widely-shared-modal-case, 10 bits/s, Madhyamika dissolution-of-selector. Future reviews should only flag (a) new contradicting sister articles, (b) new experimental findings overturning cited evidence, (c) drift back above hard threshold.
+- **Output**: [deep-review-2026-05-09-mental-effort](/reviews/deep-review-2026-05-09-mental-effort/)
+
+## 2026-05-09 04:17 UTC - deep-review
+- **Status**: Success
+- **File**: [memory-anomalies](/topics/memory-anomalies/)
+- **Previous review**: Never (article created 2026-05-09)
+- **Word count**: 2404 → 2402 (-2)
+- **Length status**: ok (80% of 3000-word soft threshold)
+- **Critical issues addressed**: 1 — LLM cliché "They are not pathologies of the system. They are the system operating at its margin." (the "This is not X. It is Y." construct flagged in writing-style guide). Rephrased as integrated single clause "they are the system operating at its margin rather than pathologies of it" folded into the prevalence-stats sentence.
+- **Medium issues addressed**: 0 (cryptomnesia universalisation deferred — interpretive Map-level claim, not a calibration error; "the conscious subject" repetition deferred — stylistic only)
+- **Enhancements made**: 1 (the cliché fix)
+- **Attribution accuracy check**: passed — Bergson, Cleary, Mandler/Yonelinas/Tulving, Illman/Martin TLE, Spatt, Perrin & Sant'Anna, Jung/Nietzsche/Kerner, Helen Keller "Frost King", Brown & Murphy, Marsh & Bower, Moulin et al., Brown 2003 all correctly attributed and qualifier-preserving.
+- **Reasoning-mode classification** (editor-internal): no specific named opponents; engagement with cognitive-science reductionism is Mode Three (framework-boundary marking, correctly handled); engagement with paranormal/spiritualist readings is Mode One (defective on its own terms via Cleary's gestalt-match deflation of felt premonition). No label leakage. No boundary-substitution.
+- **Possibility/probability slippage check**: passed — evidential calibration is clean; Bergson explicitly hedged as "one candidate, not commitment."
+- **Stability notes**: bedrock disagreements (heterophenomenological dissolution, eliminativist denial, empiricist unfalsifiability objection) flagged as not-to-re-flag in future reviews; cryptomnesia universalisation flagged as interpretive-not-evidential; Bergson treatment is at the right calibration and should not be pushed in either direction.
+- **Output**: [deep-review-2026-05-09-memory-anomalies](/reviews/deep-review-2026-05-09-memory-anomalies/)
+
+## 2026-05-09 03:43 UTC - condense
+- **Status**: Success
+- **File**: [agency-void](/voids/agency-void/)
+- **Before**: 3307 words
+- **After**: 2784 words
+- **Reduction**: 16%
+- **Technique**: Removed AI refinement log HTML comment (post-review cleanup); compressed Recurrence section's three faces and analytical closers (cut hedging, redundant cross-link prose); tightened Five Layers, Sovereignty Paradox, Phenomenology of the Void, Self-Stultification Symmetry, and What Cannot Be Controlled with prose-tightening (removed "structurally", "absolutely", "deeply", "domain-specific" filler); trimmed Further Reading bullets; preserved opening summary, Two Limits/One Void framing, all three recurrence faces, the apophatic-signature insight, the framework-stage-calibration ("constrain not establish"), Reflexive Self-Stultification, and Relation to Site Perspective in full.
+
+## 2026-05-09 03:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Based on**: [pessimistic-2026-05-09](/reviews/pessimistic-2026-05-09/) (3 high-severity + 4 medium-severity findings)
+- **High-severity fixes**: (a) rewrote line-106 non-sequitur to target the *phenomenal character* of self-monitoring rather than consciousness simpliciter; (b) replaced the Epiphenomenalist Challenge boundary-substitution with an in-framework move (strong epiphenomenalism's brute-law absorption cost scaling with two-axis systematicity), then honest framework-boundary marking; (c) reconstructed the "How the Two Cases Reinforce Each Other" conjunction argument: replaced the unsupported "convergent vulnerability of competitor accounts" bullet with two earned bullets — *different substrates, same phenomenological precision* (humoral/neurochemical vs motor-cortical sharing little except conscious involvement) and *joint cost to brute-law absorption*.
+- **Medium-severity fixes**: explicit argument-shift marker in Open-Label Placebos subsection (propositional content claim qualified, some-mental-causation conclusion preserved); installed Beilock & Carr (2001), Masters (1992), Beilock et al. (2002) citations on the choking research bullets; replaced the unverified Benedetti (2003) stimulant-heart-rate example with a Benedetti-2003-documented growth-hormone bidirectional response; hedged Marueckova (2024) as a depression-specific narrative review rather than a general structural finding; rewrote the Mode Asymmetry paragraph to remove the Tulving autonoetic-memory / autonoetic-monitoring conflation, citing Beilock & Carr for the absorbed/self-monitoring distinction; softened lede ("unusually strong evidence" → "mutually reinforcing evidence along complementary axes"; "harder to dissolve" → "complementary in a way single-phenomenon arguments are not"); reframed the "cosmic coincidence" line in the Dualism tenet paragraph; specified the previously-vague "constrains the space of viable accounts" line.
+- **Engagement classifications** (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)):
+  - Epiphenomenalist Challenge: mixed — Mode Two foundational-move pressure on the phenomenal-functional arbitrariness via systematicity, then Mode Three framework-boundary marking
+  - Illusionist Challenge / Mode Asymmetry: Mode Three (framework-boundary marking; previously question-begged via Tulving extension)
+- **References added**: Beilock et al. (2002, *J Exp Psych: Applied*) and Masters (1992, *Br J Psychol*); reference list renumbered.
+- **Word count**: ~3,260 (was 3,144; net +~115 words from the two substantive expansions, within the ~300–600 word touched-scope envelope)
+- **Voice and structure preserved**: lede analytic claim retained, two-sided coalesce architecture intact, all cross-links and tenet connections retained.
+- **Published**: yes (kept as `draft: false`)
+
+## 2026-05-09 02:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (post-coalesce, post-condense form, 3144 words; not previously pessimistic-reviewed in coalesced form)
+- **Output**: [pessimistic-2026-05-09](/reviews/pessimistic-2026-05-09/)
+- **Critical issues**: (1) non-sequitur at line 106 — "if consciousness were epiphenomenal, it could not interfere with procedural execution" is strictly false on standard epiphenomenalism; (2) boundary-substitution in the Epiphenomenalist Challenge section — grants the central move and then treats the standard hard problem as a defeater; (3) the "How the Two Cases Reinforce Each Other" central organising claim is asserted rather than demonstrated, with the "convergent vulnerability" sub-argument the weakest. Several unsupported claims need citation (skill-asymmetry choking, implicit-protection, Marueckova 2024, Tulving-to-motor-execution bridge). Follow-up P2 refine-draft task added to the queue.
+
+## 2026-05-09 02:11 UTC - condense
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Before**: 4507 words (hard_warning, 150% of 3000 target)
+- **After**: 3144 words (soft_warning, just over target)
+- **Reduction**: 30%
+- **Technique**: Tightened prose throughout; cut redundancy in placebo subsections; consolidated illusionist response from three subarguments to two (causal-tracking already covered under epiphenomenalist challenge); compressed Interface Revealed and Agent Causation sections; cut Contemplative Convergence by ~60% (most tangential to core empirical argument); trimmed Further Reading list from 22 to 13 entries (kept core philosophical anchors, removed phenomenology-companion links covered elsewhere). Preserved opening summary, two-sided synthesis ("How the Two Cases Reinforce Each Other"), Relation to Site Perspective with all three tenet connections, all references, and the video embed.
 
 ## 2026-05-09 01:37 UTC - expand-topic
 - **Status**: Success

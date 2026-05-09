@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-09 05:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: Memory is not storage but structured re-experiencing—and the hier
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-20 03:38:00+00:00
+last_deep_review: 2026-05-09 05:17:00+00:00
 modified: *id001
 related_articles:
 - '[[inaccessible-past]]'
@@ -49,6 +49,7 @@ related_articles:
 - '[[capability-division-problem]]'
 - '[[episodic-memory]]'
 - '[[phenomenology-of-memory-and-the-self]]'
+- '[[memory-anomalies]]'
 title: Consciousness and Memory
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -85,7 +86,7 @@ Consolidation operates on two timescales. **Synaptic consolidation** stabilises 
 
 The process is not mere copying. As cortical traces strengthen, the memory integrates with pre-existing schemas—general knowledge structures that organise experience into categories. This integration supports generalisation and prediction, but at a phenomenological cost. The hippocampal trace preserves contextual specificity—the sensory details that made the experience *this* particular event. As cortical traces gain independence and the hippocampal contribution fades, those details erode.
 
-This split exemplifies the Map's [capability division problem](/voids/capability-division-problem/): which memory operations belong to the brain and which require the mind? The encoding-consolidation dissociation provides an empirically grounded answer—the brain handles storage and replay, consciousness handles selectional significance. The [dual-domain capability](/concepts/episodic-memory/) framework generalises this: memory's full operation requires contributions from both domains, with the division falling not at arbitrary boundaries but at the juncture between computational processing and phenomenal engagement.
+This split exemplifies the Map's [capability division problem](/voids/capability-division-problem/): which memory operations belong to the brain and which require the mind? The encoding-consolidation dissociation provides an empirically grounded answer—the brain handles storage and replay, consciousness handles selectional significance. The [dual-domain capability](/concepts/episodic-memory/) framework generalises this: the division falls at the juncture between computational processing and phenomenal engagement.
 
 The split is puzzling on materialist accounts. If consciousness is identical to certain neural processes, why would some stages of a single memory system require it while others do not? A Global Workspace Theory proponent might respond that encoding requires global broadcasting for attentional selection while consolidation uses local hippocampal replay that does not—but this relocates the question: why does global broadcasting produce experience while equally complex local processing does not? The dualist answer: consciousness participates at the point of selection—choosing what matters, what to attend to, what to encode—and withdraws once the selection is made. The brain handles storage; [consciousness handles significance](/concepts/conscious-vs-unconscious-processing/).
 
@@ -99,7 +100,7 @@ If consciousness were epiphenomenal, this distinction would be inexplicable. Why
 
 Perhaps the most striking evidence for consciousness's causal role comes from its *interference* with automatised skills. When experts consciously attend to procedures that have become automatic—a phenomenon called "reinvestment"—performance degrades. A golfer who thinks about their swing hits worse. A pianist who attends to finger placement stumbles.
 
-The materialist can reframe this as neural competition—prefrontal explicit-monitoring networks interfering with basal ganglia automaticity—without invoking non-physical causation. But this redescription does not dissolve the puzzle: it is the *conscious* character of the monitoring that makes it disruptive. Unconscious priming of the same motor sequences does not produce choking. If consciousness were epiphenomenal, attending to an automatic skill could not affect its execution. The fact that conscious attention reliably disrupts procedural performance demonstrates that consciousness causally penetrates motor systems—a case the Map examines in detail in [the choking phenomenon](/topics/empirical-phenomena-mental-causation/).
+The materialist can reframe this as neural competition—prefrontal explicit-monitoring networks interfering with basal ganglia automaticity—without invoking non-physical causation. But this redescription does not dissolve the puzzle: it is the *conscious* character of the monitoring that makes it disruptive. Unconscious priming of the same motor sequences does not produce choking. If consciousness were epiphenomenal, attending to an automatic skill could not affect its execution—the case the Map examines in detail in [the choking phenomenon](/topics/empirical-phenomena-mental-causation/).
 
 ## Why Consciousness Must Withdraw for Consolidation
 
@@ -119,7 +120,7 @@ For the Map's [dual-domain framework](/concepts/episodic-memory/), this is signi
 
 Every act of retrieval destabilises the memory trace. Nader, Schafe, and Le Doux (2000) demonstrated that recalled memories require protein synthesis to restabilise—a process called **reconsolidation**. During the reconsolidation window (typically several hours after retrieval), the memory is labile: new information can incorporate, emotional valence can shift, and details can be lost or added.
 
-Reconsolidation is where consciousness and consolidation intersect most directly. During the initial consolidation that occurs in sleep, consciousness is offline—the brain processes memory traces without phenomenal accompaniment. But reconsolidation happens during waking retrieval, when consciousness is fully engaged. The retrieval that triggers destabilisation is a conscious act: attention selects which memory to access, working memory holds the recalled content, and the emotional and cognitive context of the present moment shapes what the restabilised trace will become.
+Reconsolidation is where consciousness and consolidation intersect most directly. Sleep consolidation runs offline, but waking retrieval triggers destabilisation through a conscious act: attention selects which memory to access, working memory holds the recalled content, and the present emotional and cognitive context shapes what the restabilised trace will become.
 
 This creates a cycle: sleep consolidation transforms memories outside consciousness; waking retrieval reopens them to conscious influence; the next round of sleep consolidation processes the modified trace. Each cycle moves the memory further from its original phenomenal character and further toward a version shaped by the subject's evolving self-understanding. Reconsolidation is "a goal-directed activity guided by the need for consonance, alignment, and internal stability" (Kube et al., 2025). Something determines which reconstruction becomes actual. The Map argues this is where [non-physical consciousness](/concepts/interactionist-dualism/) contributes: not replacing neural reconsolidation mechanisms but providing the directional input that makes reconstruction purposive rather than merely stochastic.
 
@@ -127,7 +128,7 @@ For [personal identity](/topics/personal-identity/), reconsolidation means the s
 
 ## The Phenomenological Trajectory
 
-Tracking how a memory's phenomenal character changes through consolidation reveals a distinctive trajectory—a striking instance of [phenomenal contrast](/concepts/phenomenal-contrast-method/), where the same informational content produces radically different qualitative experiences depending on consolidation stage.
+A memory's phenomenal character changes through consolidation along a distinctive trajectory—an instance of [phenomenal contrast](/concepts/phenomenal-contrast-method/), where the same informational content produces radically different qualitative experiences depending on consolidation stage.
 
 **Hours after encoding**: The memory is vivid and emotionally intense. Retrieval approaches re-experiencing—autonoetic consciousness at its strongest. Sensory details dominate: colours, textures, spatial arrangements.
 
@@ -168,6 +169,8 @@ The [memory void](/voids/inaccessible-past/) asks whether past experiences are g
 For dualism, this creates both a challenge and an opportunity. The challenge: if qualia cannot persist as stored traces, what is the relationship between present experience and its physical encoding? Propositional content—the *that* of what happened—survives in neural traces. Phenomenal content—*what it was like*—does not seem to persist as such. This is the temporal dimension of the [dual-domain](/concepts/episodic-memory/) pattern: the physical domain's contribution (propositional content) persists in neural traces across time, while the non-physical domain's contribution (phenomenal character) must be reconstituted at each act of recall.
 
 The opportunity: this is exactly what dualism predicts. If qualia are not identical to physical states, there is no reason to expect them to persist when the physical substrate changes. The information is preserved; the experience is not. Materialists must explain why a supposedly physical phenomenon (conscious experience) fails to persist in the way other physical states do. Dualists have a ready answer: phenomenal properties are not the kind of thing that gets stored in synapses.
+
+The [memory anomalies cluster](/topics/memory-anomalies/)—déjà vu, jamais vu, and cryptomnesia—shows a related dissociation along a different axis: not the persistence of past phenomenology but the independence of present phenomenal output from its causal source. Each anomaly produces felt pastness, alienness, or ownership without the corresponding source machinery firing as it normally would, exhibiting at the level of present experience what the consolidation trajectory exhibits across time—the phenomenal dimension of memory operating semi-independently of its informational substrate.
 
 Proustian moments—involuntary memories triggered by sensory cues that seem to recover the *feel* of past experience—test this boundary. Do they genuinely access past qualia, or do they generate exceptionally vivid simulations? The question may be unanswerable, placing it squarely in the territory of the [inaccessible past](/voids/inaccessible-past/)—a genuine limit on what consciousness can know about its own history.
 
@@ -215,6 +218,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
 - [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/) — The method that reveals consolidation's qualitative shifts
+- [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, and cryptomnesia as source-monitoring failures revealing the gap between phenomenal certainty and underlying machinery
 
 ## References
 

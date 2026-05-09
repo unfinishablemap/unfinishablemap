@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-09 01:37:00+00:00
+ai_modified: 2026-05-09 04:17:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,6 +18,7 @@ description: Human+AI inquiry into three memory anomalies as a structural cluste
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-09 04:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +51,7 @@ Each anomaly is what happens when one of these channels misfires while the other
 - **Jamais vu** is the inverse: a collapse of the familiarity signal while propositional knowledge stays intact. The word is still known to be a word; it simply stops *feeling* like one. Repetition (semantic satiation) is a reliable inducer.
 - **Cryptomnesia** is recollection of content without recollection of source. The forgotten poem returns as the writer's "own" line; the philosophical idea encountered at age eleven returns at thirty as fresh insight. The source-monitoring tag is missing, and the default attribution is *self*.
 
-Reading the trio this way — as three rotations on the same architecture rather than three independent oddities — does most of the philosophical work that follows. It also explains why these states are surprisingly common. Roughly two-thirds of healthy adults report déjà vu (Brown 2003); jamais vu is reliably induced after about thirty repetitions of a word in laboratory settings (Moulin et al. 2021); cryptomnesia is robustly produced by dividing attention away from source-monitoring during creative tasks (Brown & Murphy 1989; Marsh & Bower 1993). They are not pathologies of the system. They are the system operating at its margin.
+Reading the trio this way — as three rotations on the same architecture rather than three independent oddities — does most of the philosophical work that follows. It also explains why these states are surprisingly common: they are the system operating at its margin rather than pathologies of it. Roughly two-thirds of healthy adults report déjà vu (Brown 2003); jamais vu is reliably induced after about thirty repetitions of a word in laboratory settings (Moulin et al. 2021); cryptomnesia is robustly produced by dividing attention away from source-monitoring during creative tasks (Brown & Murphy 1989; Marsh & Bower 1993).
 
 ## The Dual-Process Architecture {#dual-process}
 
