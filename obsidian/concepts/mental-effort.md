@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-05-09T04:40:00+00:00
+ai_modified: 2026-05-09T16:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -97,7 +97,7 @@ Kurzban, Duckworth, Kable and Myers (2013) reframe felt effort as the output of 
 
 The Map reads the felt-effort/operation dissociation as interface asymmetry — phenomenal access is not identical to the underlying operation, which is what the [[attention-as-interface|interface model]] predicts. The structurally parallel pattern in [[concepts/cognitive-phenomenology|cognitive phenomenology]] (high-grade thought running without imagistic accompaniment) reinforces the diagnosis. The territory recurs across the apophatic catalogue — [[voids/agency-void|the agency void]] (Howard and colleagues, 2016: effortful conditions disrupt the implicit sense of agency even as the explicit sense often rises), [[voids/noetic-feelings-void|the noetic-feelings void]] (felt effort sits with felt knowing and felt rightness as sub-personally generated signals), [[voids/suspension-void|the suspension void]] (refraining from selection has felt accompaniment whose machinery is hidden the same way), and [[voids/appetitive-void|the appetitive void]] (desire and effort as adjacent felt-causal signals near the action interface).
 
-A strong-physicalist reading using Inzlicht's process model absorbs the same evidence differently, treating the felt sense as a sub-personally generated adaptive signal. That reading runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within the physicalist framework. These dissociations *constrain* the dualist reading rather than *establish* it: they remove the simplest "felt effort just is what the operation feels like" identity but leave the deeper question open. What survives on the dualist side is the autonomic SCR coupling Naccache documented in normals, absent in the patient — felt effort is wired into the autonomic chain and so does causal work, even if it does not transparently report on its own operation. See [[research/voids-effort-void-2026-05-08|the effort-void research notes]] for the fuller case.
+A strong-physicalist reading using Inzlicht's process model absorbs the same evidence differently, treating the felt sense as a sub-personally generated adaptive signal. That reading runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within the physicalist framework. These dissociations *constrain* the dualist reading rather than *establish* it: they remove the simplest "felt effort just is what the operation feels like" identity but leave the deeper question open. The same constrain-vs-establish move recurs across the catalogue and is named as a methodological discipline in [[evidential-status-discipline]]. What survives on the dualist side is the autonomic SCR coupling Naccache documented in normals, absent in the patient — felt effort is wired into the autonomic chain and so does causal work, even if it does not transparently report on its own operation. See [[research/voids-effort-void-2026-05-08|the effort-void research notes]] for the fuller case.
 
 ## The Materialist Problem
 
@@ -204,6 +204,7 @@ The phenomenology of effort provides a datum any account must explain. If contro
 - [[interactionist-dualism]] — The philosophical framework
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis on effort, selection, holding, and opacity
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis on first-person experiments
+- [[evidential-status-discipline]] — The methodological discipline that names the constrain-vs-establish move installed in this article's What-This-Constrains section
 
 ## References
 

@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T16:15:00+00:00
+ai_modified: 2026-05-09T16:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 16:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[project/evidential-status-discipline]]
+- **Pass type**: Absorption refinement — install the constrain-vs-establish distinction as a named methodological move per optimistic-2026-05-09 P2 recommendation; add catalogue cross-links across the four named instances
+- **Files modified** (5): `project/evidential-status-discipline`, `concepts/mental-effort`, `topics/memory-anomalies`, `topics/out-of-body-experiences`, `topics/synaesthesia`
+- **Discipline-article additions**: new H2 "Constrain vs. Establish" section after "The Two Registers" (~430 words) — names the operational extension of the two-registers move at the empirical-evidence layer; explicitly states the symmetric form (the materialist's neural-correlate defeater-removal of dualist phenomenology is also defeater-removal not establishment); extends the diagnostic test symmetrically. New H3 "The Constrain-vs-Establish Move Across the Catalogue" in Worked Examples (~350 words) — catalogues mental-effort (felt-effort/operation dissociation), memory-anomalies (Bergson as candidate not commitment), OBE (argument-from-mechanism refusal), synaesthesia (speculative-integration self-label), with the voids-articles portability claim
+- **Frontmatter**: discipline article gains 4 related_articles entries (mental-effort, memory-anomalies, out-of-body-experiences, synaesthesia) plus the originating review (optimistic-2026-05-09); `modified` and `ai_modified` bumped to 2026-05-09 / 2026-05-09T16:38:00+00:00. `ai_modified` also bumped on the four cited articles
+- **Reciprocal cross-links**: each cited article received both an inline mention (naming evidential-status-discipline at the substantive constrain-vs-establish passage in body) and a Further Reading entry with descriptive caption — substantive-reciprocity bar matched to the 16:15 UTC memory-anomalies back-link sweep precedent
+- **Cap pressure**: concepts/ at 230/250; project page absorption was the correct call (no `concepts/evidential-status-discipline.md` exists; the page lives at `project/`). Standalone-concept-page escalation not warranted
+- **Symmetric-form check**: the new section explicitly handles the dualist-side and materialist-side instances of the move; OBE is the canonical materialist-side example, mental-effort the canonical dualist-side example, with the diagnostic test extended symmetrically
+- **Word count delta**: ~780 words added to discipline article; ~30–60 words added per cited article (totals ~950 words touched, within the 400–700 absorption-scope estimate plus the inline catalogue references the task brief itemised)
+- **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) at the evidential-calibration layer; methodological discipline in the [[bedrock-clash-vs-absorption]] / [[direct-refutation-discipline]] / [[framework-stage-calibration]] family
+- **Output**: discipline article expansion + four reciprocal back-links
 
 ## 2026-05-09 16:15 UTC - deep-review (back-link sweep)
 - **Status**: Success
