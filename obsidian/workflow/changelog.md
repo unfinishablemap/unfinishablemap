@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T21:38:00+00:00
+ai_modified: 2026-05-09T22:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 22:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Source**: [[reviews/pessimistic-2026-05-09b]] Counterargument 2 and Unsupported Claims rows 1, 3 — apex `phenomenal-output-causal-machinery-dissociation` review flagged that it inherits weaknesses from this source article and asked the inheritance to be addressed at source so the apex can cite rather than carry the unspecified phrases.
+- **Changes** (~480 words touched, within the medium-scope budget): (1) Lead structural paragraph (line 67): "in matching detail" → "at a matched grain — propositional content for placebo, attentional mode for choking" — names the two fineness scales up front. (2) "Different substrates, same phenomenological precision" bullet renamed to "Different substrates, matched grain of coupling" and expanded with: (a) explicit substrate-divergence argument ("genuinely distinct substrates: there is no shared neurotransmitter system, no shared anatomical target, and no shared regulatory loop") so the apex's recurring "share little common machinery" phrase can cite this rather than carry it unspecified; (b) explicit common-cause acknowledgment naming the shared-introspective-architecture hypothesis and explaining why substrate divergence gets purchase against it; (c) a follow-on paragraph naming the two fineness scales (propositional belief for placebo, attentional engagement for choking) and articulating the joint claim — "the phenomenal description selects the causal pathway at the same level of grain at which the brain implements the selection — neither finer nor coarser than the implementation requires." (3) New "Two readings of the conjunction" bullet: explicitly disambiguates representational-state coupling (illusionist/sophisticated functionalist reading) from phenomenology-tracking coupling (Map's preferred reading), notes the two-sided architecture obtains in both, and frames the disagreement as framework-boundary rather than empirical — addresses the felt-vs-represented disambiguation that the morning's deep-review flagged as honest at Mode-Three but unresolved.
+- **Reasoning-mode classification (editor-internal)**: The new "Two readings" paragraph is Mode Three (framework-boundary marking) — explicitly acknowledges the data are consistent with two readings and that the cluster's two-sided shape obtains in both, rather than claiming the empirical evidence forces the felt-rather-than-represented interpretation. This is the cautious-framing option (a) from the task spec; the felt-claim is preserved as the Map's preferred reading but not smuggled into the empirical summary.
+- **Tenet alignment**: Tenet 3 (Bidirectional Interaction) + methodological. The substrate-divergence argument tightens what the joint placebo–choking case can carry; the two-readings disambiguation honours the discipline that the conjunction tightens explanatory cost without forcing interpretation.
+- **Published**: yes (draft: false maintained)
 
 ## 2026-05-09 21:38 UTC - optimistic-review
 - **Status**: Success
