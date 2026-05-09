@@ -35,8 +35,8 @@
   prompt_summary: Unbounded-arena AI-risk argument vs Tenet 2 (minimal quantum interaction)
   target_filename: outer-review-2026-05-08-chatgpt-5-5-pro.md
   status: pending
-  collect_attempts: 1
-  last_attempt_at: '2026-05-09T03:43:04.777211+00:00'
+  collect_attempts: 2
+  last_attempt_at: '2026-05-09T04:11:07.373656+00:00'
   failure_reason: null
   prompt_text: Examine the site https://unfinishablemap.org and its activity changelog
     https://unfinishablemap.org/workflow/changelog/. Over the past 48 hours the site

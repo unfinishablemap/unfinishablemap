@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T03:43:00+00:00
+ai_modified: 2026-05-09T04:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 04:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/memory-anomalies]]
+- **Previous review**: Never (article created 2026-05-09)
+- **Word count**: 2404 → 2402 (-2)
+- **Length status**: ok (80% of 3000-word soft threshold)
+- **Critical issues addressed**: 1 — LLM cliché "They are not pathologies of the system. They are the system operating at its margin." (the "This is not X. It is Y." construct flagged in writing-style guide). Rephrased as integrated single clause "they are the system operating at its margin rather than pathologies of it" folded into the prevalence-stats sentence.
+- **Medium issues addressed**: 0 (cryptomnesia universalisation deferred — interpretive Map-level claim, not a calibration error; "the conscious subject" repetition deferred — stylistic only)
+- **Enhancements made**: 1 (the cliché fix)
+- **Attribution accuracy check**: passed — Bergson, Cleary, Mandler/Yonelinas/Tulving, Illman/Martin TLE, Spatt, Perrin & Sant'Anna, Jung/Nietzsche/Kerner, Helen Keller "Frost King", Brown & Murphy, Marsh & Bower, Moulin et al., Brown 2003 all correctly attributed and qualifier-preserving.
+- **Reasoning-mode classification** (editor-internal): no specific named opponents; engagement with cognitive-science reductionism is Mode Three (framework-boundary marking, correctly handled); engagement with paranormal/spiritualist readings is Mode One (defective on its own terms via Cleary's gestalt-match deflation of felt premonition). No label leakage. No boundary-substitution.
+- **Possibility/probability slippage check**: passed — evidential calibration is clean; Bergson explicitly hedged as "one candidate, not commitment."
+- **Stability notes**: bedrock disagreements (heterophenomenological dissolution, eliminativist denial, empiricist unfalsifiability objection) flagged as not-to-re-flag in future reviews; cryptomnesia universalisation flagged as interpretive-not-evidential; Bergson treatment is at the right calibration and should not be pushed in either direction.
+- **Output**: [[reviews/deep-review-2026-05-09-memory-anomalies]]
 
 ## 2026-05-09 03:43 UTC - condense
 - **Status**: Success
