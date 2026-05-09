@@ -1,13 +1,68 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09 05:40:00+00:00
+ai_modified: 2026-05-09 07:35:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-09 07:35 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Previous reviews**: None (first review of article created 2026-05-08)
+- **Word count**: 3473 → 3490 (+17 words; 87% of 4000 soft threshold; normal mode)
+- **Critical issues addressed**: 3 — (1) Block & Fodor 1972 cited at line 108 but missing from references; added entry. (2) Ramachandran & Hubbard cited at line 136 but missing from references; added 2001 *JCS* entry. (3) MacPherson 2007 editor list incomplete (only "M. de Caro" cited for the three-editor *Cartographies of the Mind* volume); corrected to full editor list with subtitle.
+- **Medium issues addressed**: 0; deferred 2 (sharper falsification criterion; mysterian engagement)
+- **Enhancements made**: 0 (citation hygiene only — no content additions, no cross-link additions; article already cross-links extensively to source articles, related concepts, and tenet pages)
+- **Reasoning-mode classifications** (editor-internal): Engagement with functionalism: Mixed (Mode 2 + Mode 3). Mode 2 — identifies that successful absorption requires functionalists to "specify which level of representation is supposed to track phenomenology" and that the joint package corrodes parsimony, using functionalism's own commitments to mechanism and parsimony. Mode 3 — explicitly marks the cluster-level convergence claim as a "speculative-integration move" and registers all four absorption strategies as live, declaring the framework-boundary residue honestly. No editor-vocabulary leakage in article prose.
+- **Calibration check**: Pass. Diagnostic test (would a tenet-accepting reviewer flag any claim as overstated relative to the evidential-status scale?) returns no across the article. Empirical findings labelled "well established"; interpretive joint claim labelled "speculative-integration move"; bidirectional-interaction speculation explicitly flagged as "speculation, not tenet-level commitment." Article models the calibration discipline cleanly.
+- **Stability note**: First-pass review caught only citation-hygiene issues; argumentative structure, calibration, and engagement modes are all in place. Bedrock disagreements (eliminative materialism, MWI, Buddhist no-self) are properly absorbed and noted as not-to-be-re-flagged. The article should be stable for several review cycles barring new empirical findings (a fifth divergence class, a successful single-grain absorption strategy).
+- **Output**: [deep-review-2026-05-09-phenomenal-variation-within-a-species](/reviews/deep-review-2026-05-09-phenomenal-variation-within-a-species/)
+
+## 2026-05-09 07:16 UTC - deep-review
+- **Status**: Success
+- **File**: [direction-of-fit](/concepts/direction-of-fit/)
+- **Previous reviews**: [2026-03-22](/reviews/deep-review-2026-03-22-direction-of-fit/); [2026-02-23](/reviews/deep-review-2026-02-23-direction-of-fit/)
+- **Context**: Third deep review. The 2026-03-22 review explicitly noted the article had reached stability and that "future reviews should only flag issues if new content is added or a factual error is discovered." Since then only mechanical wikilink retargeting has occurred. This pass found one legitimate enhancement: the concept article [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) (created 2026-03-11) was substantively but unlinkedly referenced in the placebo passage where the phrase "content-specificity" appears. Cross-link installed; no internal revision.
+- **Word count**: 1749 → 1751 (+2 words; 70% of 2500 soft threshold; normal mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing inline cross-link to newly-created concept article)
+- **Enhancements made**: 1 — (1) inline cross-link `[[content-specificity-of-mental-causation|content-specificity]]` added in the World-to-Mind Fit and Mental Causation section at the substantive use of the phrase; concept also added to frontmatter `concepts` list.
+- **Reasoning-mode classifications** (editor-internal): Article does not engage named opponents — it engages positions (eliminative materialism, functionalism, biological-function reduction) generically rather than naming specific philosophers. Mode classification therefore does not apply. The "Challenges to the Framework" responses to the biological objection ("Map's response: evolutionary function may explain *why* these structures exist without explaining *what they are*") and the functionalist reduction (thermostat analogy) use natural-prose framework-boundary marking without editor-vocabulary leakage.
+- **Calibration check**: Pass. Diagnostic test (would a tenet-accepting reviewer flag any claim as overstated relative to the evidential-status scale?) returns no across the article. Placebo evidence remains qualified as "suggestive empirical evidence" and "remains contested" — appropriate calibration tier. Map commitments framed as Map commitments throughout ("Map holds…", "Map's tenet takes…at face value", "If [conditional]…"). No tenet-coherence-as-evidence-upgrade slippage detected.
+- **Stability note**: Article has now received three deep reviews. Substantive content is unchanged since the 2026-02-23 first review; only mechanical wikilink retargeting (mental-causation, placebo-effect) and incremental cross-link additions (cognitive-phenomenology in 2026-03-22, content-specificity in this pass) have occurred. Bedrock disagreements with eliminative materialism, functionalism, and Buddhist non-self positions are properly absorbed. Future reviews should trigger work only when (a) substantive content changes, (b) a factual error surfaces, or (c) a newly-created concept article warrants inline cross-linking — as occurred this cycle.
+- **Output**: [deep-review-2026-05-09-direction-of-fit](/reviews/deep-review-2026-05-09-direction-of-fit/)
+
+## 2026-05-09 06:43 UTC - deep-review
+- **Status**: Success
+- **File**: [the-interface-problem](/topics/the-interface-problem/)
+- **Previous reviews**: [2026-05-05](/reviews/deep-review-2026-05-05-the-interface-problem/) (cross-review for mind-brain-interface-efficacy); [2026-05-01](/reviews/deep-review-2026-05-01-the-interface-problem/) (first review of coalesced article).
+- **Context**: Cross-review chained from the 2026-05-09 03:09 UTC restructure of [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/). That restructure sharpened the in-framework engagement with epiphenomenalism (Mode Two foundational-move pressure on phenomenal-functional arbitrariness via two-axis systematic phenomenology-physiology coupling, plus honest framework-boundary marking) and earned the complementarity argument via different-substrates/same-precision. The interface-problem article previously made the empirical case for Bidirectional Interaction *only* via the Cai et al. dopamine dissociation; the broader empirical case (placebo + choking) was an unsignposted sibling. No reciprocal cross-link existed in either direction. This pass installs the forward link.
+- **Word count**: 3027 → 3058 (+31), length-neutral mode (101% → 102% of 3000 soft threshold; well below 4000 hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 — (1) body cross-link to [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) installed at the natural editorial seam in "Relation to Site Perspective" → Bidirectional Interaction passage, between the dopamine sentence and the epiphenomenalism-foreclosure sentence; new sentence demarcates this article's *where/how* role from the empirical-phenomena article's *that* role. (2) Frontmatter `related_articles` updated with [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (now last entry, after [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/)). Length-neutral offset: tightened the biological-analogy sentence in "The Critic's Strongest Objection" by replacing the em-dash-and-semicolon double-clutch with a cleaner clause structure (both qualifications preserved).
+- **Reasoning-mode classifications** (editor-internal): Eliminative-materialist engagement in "The Critic's Strongest Objection" — mixed (Mode Two on the impossibility claim — Stapp/Eccles partial models refute the *impossibility* claim by the eliminativist's own standards of structural specifiability; Mode Three on the framework-internal preference for non-epiphenomenal alternatives, with Chalmers/Robinson loosening preserved as the eliminativist's available counter-move). Unchanged from 2026-05-05; no editor-vocabulary leakage in prose. The new cross-link absorbs the empirical-phenomena article's own mixed-mode handling by reference; no new classification introduced here.
+- **Calibration check**: Pass. Diagnostic test (would a tenet-accepting reviewer flag any claim as overstated relative to the evidential-status scale?) returns no across the article. The new cross-link sentence ("...establishing the explanandum the location/specification programme attempts to mechanise") points to where the empirical case is *developed* without upgrading its evidential status — the empirical-phenomena article's own honest framework-boundary marking is absorbed by reference rather than restated more strongly. "Qualified support from dopamine research… consistent with… without itself establishing" / "currently unfalsifiable in practice" / pre-Keplerian framing all hold.
+- **Stability note**: Article has now received three deep reviews where critical-issues count is zero (2026-05-01, 2026-05-05, 2026-05-09). This pass adds only a targeted cross-link installation; no internal revision. The 2026-05-05 cross-link maintenance discipline pattern (install, verify no calibration drift, log engagement modes, stop) holds as the template for sibling-restructure-triggered cross-reviews. Reverse direction (empirical-phenomena → interface-problem) left for that article's own next cross-review.
+- **Output**: [deep-review-2026-05-09-the-interface-problem](/reviews/deep-review-2026-05-09-the-interface-problem/)
+
+## 2026-05-09 06:11 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-powers](/concepts/causal-powers/)
+- **Previous review**: [2026-05-06](/reviews/deep-review-2026-05-06-causal-powers/) (4th deep review)
+- **Context**: Cross-review of [causal-powers](/concepts/causal-powers/) and [epiphenomenalism](/concepts/epiphenomenalism/) in light of the 2026-05-09 restructure of [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/). The previous review explicitly named restructure-driven integration opportunities as the only valid trigger condition for further work; that condition is now met.
+- **Word count**: 1720 → 1768 (+48), normal mode (71% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 — (1) extended the closing paragraph of "Relation to Site Perspective" to add [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) alongside [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) and [causal-closure](/concepts/causal-closure/) in the list of articles that address the empirical challenge powers realism does not itself answer; the borrowed phrasing ("the same fineness of phenomenology-physiology coupling across substrates that share little common machinery") faithfully reflects the empirical-phenomena article's own restructured argument. (2) Added two Further Reading bullets: empirical-phenomena (lateral integration), and an explicit epiphenomenalism entry surfacing the in-body link.
+- **Reasoning-mode classifications** (editor-internal): Article does not engage a specific named opponent in sustained engagement. Generic redescription objection in "Relation to Site Perspective" — Mode One (defective on its own terms; the article shows the objection misunderstands what powers realism *does*, using powers-realist commitments). All other persona disagreements (eliminative materialist, MWI defender, Buddhist, hard-nosed physicalist) — Mode Three / bedrock framework boundary, properly preserved as such.
+- **Calibration check**: Pass. Every claim re-read under the diagnostic; "metaphysically impossible, not merely empirically unlikely" is a *consequence of powers realism if powers realism is true*, not an empirical upgrade. Honest scope-marking in closing paragraph aligns with the empirical-phenomena article's "establishes the explanandum, not the mechanism" — the cross-link earns its place by reflecting this earned convergence.
+- **Stability note**: Article has now received four deep reviews; this pass adds only lateral integration, no internal revision. Future reviews should be triggered only by substantive modification or further new integration opportunities.
+- **Output**: [deep-review-2026-05-09-causal-powers](/reviews/deep-review-2026-05-09-causal-powers/)
 
 ## 2026-05-09 05:40 UTC - optimistic-review
 - **Status**: Success

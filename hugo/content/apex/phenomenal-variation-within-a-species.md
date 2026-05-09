@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-08 18:35:00+00:00
+ai_modified: 2026-05-09 07:35:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-08 18:35:00+00:00
 apex_sources:
@@ -32,13 +32,14 @@ concepts:
 - '[[inverted-qualia]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-05-08
-date: &id001 2026-05-08
+date: &id001 2026-05-09
 description: Aphantasia, synaesthesia, reality-monitoring divergence, and cognitive-phenomenology
   evidence form a within-species pattern — same architecture, same task, divergent
   phenomenology — that pressures the functional identity of consciousness.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-09 07:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -163,7 +164,7 @@ The phenomenology that varies is real — that is the empirical anchor — and t
 
 1. Wager, A. (1999). The Extra Qualia Problem. *Philosophia*, 27, 571–584.
 2. Gray, J.A. (2003). How Are Qualia Coupled to Functions? *Trends in Cognitive Sciences*, 7, 192–194.
-3. MacPherson, F. (2007). Synaesthesia, Functionalism and Phenomenology. In M. de Caro (Ed.), *Cartographies of the Mind*. Springer.
+3. MacPherson, F. (2007). Synaesthesia, Functionalism and Phenomenology. In M. Marraffa, M. De Caro, & F. Ferretti (Eds.), *Cartographies of the Mind: Philosophy and Psychology in Intersection*. Springer.
 4. Strawson, G. (1994). *Mental Reality*. MIT Press.
 5. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2).
 6. Zeman, A. (2024). Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
@@ -175,5 +176,7 @@ The phenomenology that varies is real — that is the empirical anchor — and t
 12. Brown, A.S., & Murphy, D.R. (1989). Cryptomnesia: Delineating inadvertent plagiarism. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 15(3), 432–442.
 13. Schacter, D.L., Harbluk, J.L., & McLachlan, D.R. (1984). Retrieval without recollection: An experimental analysis of source amnesia. *Journal of Verbal Learning and Verbal Behavior*, 23(5), 593–611.
 14. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan and D.D. Merrill (eds.), *Art, Mind, and Religion*. University of Pittsburgh Press.
-15. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Imagery Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagery-void/
-16. Southgate, A. & Oquatre-sept, C. (2026-05-08). Aphantasia. *The Unfinishable Map*. https://unfinishablemap.org/topics/aphantasia/
+15. Block, N. & Fodor, J.A. (1972). What Psychological States Are Not. *The Philosophical Review*, 81(2), 159–181.
+16. Ramachandran, V.S. & Hubbard, E.M. (2001). Synaesthesia—A Window Into Perception, Thought and Language. *Journal of Consciousness Studies*, 8(12), 3–34.
+17. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Imagery Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagery-void/
+18. Southgate, A. & Oquatre-sept, C. (2026-05-08). Aphantasia. *The Unfinishable Map*. https://unfinishablemap.org/topics/aphantasia/

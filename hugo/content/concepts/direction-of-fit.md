@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-09 07:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[intentionality]]'
 - '[[agent-causation]]'
 - '[[mental-causation-and-downward-causation]]'
+- '[[content-specificity-of-mental-causation]]'
 - '[[interactionist-dualism]]'
 - '[[epiphenomenalism]]'
 - '[[cognitive-phenomenology]]'
@@ -19,7 +20,7 @@ description: Direction of fit classifies mental states by whether mind adapts to
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 06:27:00+00:00
+last_deep_review: 2026-05-09 07:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +75,7 @@ For this to work, the intentional state must be causally efficacious. The intent
 
 The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet takes world-to-mind fit at face value. When consciousness holds a representation of a desired state and acts to bring it about, the phenomenal content guides physical outcomes. The [aesthetic creation](/topics/aesthetics-and-consciousness/) case makes this vivid: the painter holds a phenomenal template (world-to-mind fit) and reshapes canvas to match, with continuous phenomenal feedback (mind-to-world fit) guiding each stroke.
 
-The [placebo effect](/topics/empirical-phenomena-mental-causation/) provides suggestive empirical evidence. When a patient believes a treatment will reduce pain, the belief's content—what it is *about*—correlates with which physiological cascades activate. A physicalist can attribute this content-specificity to neural patterns rather than irreducible mental content. But the direction-of-fit framing sharpens the puzzle: the belief's representational content (mind-to-world) appears to initiate world-to-mind causal chains in the body, and whether neural implementation fully accounts for this content-dependence remains contested.
+The [placebo effect](/topics/empirical-phenomena-mental-causation/) provides suggestive empirical evidence. When a patient believes a treatment will reduce pain, the belief's content—what it is *about*—correlates with which physiological cascades activate. A physicalist can attribute this [content-specificity](/concepts/content-specificity-of-mental-causation/) to neural patterns rather than irreducible mental content. But the direction-of-fit framing sharpens the puzzle: the belief's representational content (mind-to-world) appears to initiate world-to-mind causal chains in the body, and whether neural implementation fully accounts for this content-dependence remains contested.
 
 ## Direction of Fit and Agent Causation
 

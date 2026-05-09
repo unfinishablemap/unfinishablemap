@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-05-05 19:16:00+00:00
+ai_modified: 2026-05-09 06:43:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: Where does consciousness meet the brain, and how does conscious sta
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-05 19:16:00+00:00
+last_deep_review: 2026-05-09 06:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,6 +47,7 @@ related_articles:
 - '[[interface-specification-programme]]'
 - '[[framework-stage-calibration]]'
 - '[[interface-efficacy-and-the-cognitive-gap]]'
+- '[[empirical-phenomena-mental-causation]]'
 title: 'The Interface Problem: Location and Specification'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -130,7 +131,7 @@ Different sites imply different families of viable mappings. **Microtubules** ad
 
 The strongest critic's objection: if consciousness influences physical outcomes there must be specifiable laws; no such laws exist despite decades of effort; the difficulty is best explained by there being nothing to specify. The Map's responses: consciousness science is young (serious empirical work dates to the 1990s) — though this risks indefinite deferral. Stapp's and Eccles' models demonstrate specification is possible in principle, refuting the *impossibility* claim. The alternative is worse on the framework's own terms: under [epiphenomenalism](/concepts/epiphenomenalism/), beliefs about consciousness appear causally disconnected from it — though Chalmers (1996) and Robinson (2004) loosen the self-stultifying charge by separating phenomenal from semantic content. Specification difficulty is evidence of complexity, not nonexistence (turbulence, protein folding, the genotype-phenotype map all resist easy formula).
 
-The Newton analogy has limits: Newton had precise measurements and a mathematical law; the specification problem has neither. The honest comparison is pre-Keplerian — a research programme awaiting its founding measurements rather than a mature science awaiting refinement. Stapp's and Eccles' partial accounts are proto-models, not laws. What the framework can claim are the analogues of Tycho's measurements — the bandwidth constraint (Zheng & Meister 2024), the Born-rule causal-consistency result (Torres Alegre), the theta-band willed-attention signatures (Rajan et al. 2019) — together with constraint structures (the [coupling-modes taxonomy](/concepts/coupling-modes/), the [five formal constraints](/concepts/consciousness-physics-interface-formalism/)) of the kind that precede laws. Together they are the scaffolding from which a Kepler's law might one day be inferred. This calibration is articulated at project level in [framework-stage-calibration](/project/framework-stage-calibration/). The biological analogy is more apt: genotype-to-phenotype involves regulatory networks and developmental contingency — but biological relationships remain physical; if the interface involves non-physical variables, the usual tools may not apply.
+The Newton analogy has limits: Newton had precise measurements and a mathematical law; the specification problem has neither. The honest comparison is pre-Keplerian — a research programme awaiting its founding measurements rather than a mature science awaiting refinement. Stapp's and Eccles' partial accounts are proto-models, not laws. What the framework can claim are the analogues of Tycho's measurements — the bandwidth constraint (Zheng & Meister 2024), the Born-rule causal-consistency result (Torres Alegre), the theta-band willed-attention signatures (Rajan et al. 2019) — together with constraint structures (the [coupling-modes taxonomy](/concepts/coupling-modes/), the [five formal constraints](/concepts/consciousness-physics-interface-formalism/)) of the kind that precede laws. Together they are the scaffolding from which a Kepler's law might one day be inferred. This calibration is articulated at project level in [framework-stage-calibration](/project/framework-stage-calibration/). The biological analogy is more apt: genotype-to-phenotype involves regulatory networks and developmental contingency, though biological relationships remain physical and the usual tools may not apply if the interface involves non-physical variables.
 
 ## What Would Count as Progress
 
@@ -150,7 +151,7 @@ The interface problem sits at the intersection of the Map's philosophical commit
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** requires consciousness to act at quantum indeterminacies. Constrained pluralism narrows this: at indeterminacies *within the attention-motor architecture*, at sites involved in *threshold-crossing events*. The tenet limits where to look, but the subtlety of quantum effects makes detection difficult — trading empirical accessibility for theoretical elegance.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** gains qualified support from dopamine research. The dissociation in dopamine-deficient mice (motor capacity intact, goal-directed initiative absent) is a cognitive-functional finding consistent with the framework's distinction between neural computation and conscious selection, without itself establishing that distinction. The tenet also forecloses retreat to epiphenomenalism when specification proves hard: it demands consciousness make a physical difference, which demands the difference be specifiable.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** gains qualified support from dopamine research. The dissociation in dopamine-deficient mice (motor capacity intact, goal-directed initiative absent) is a cognitive-functional finding consistent with the framework's distinction between neural computation and conscious selection, without itself establishing that distinction. The broader empirical case for the tenet — placebo's content-specific physiological direction and choking's mode-specific skill disruption — is developed at [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/), establishing the explanandum the location/specification programme attempts to mechanise. The tenet also forecloses retreat to epiphenomenalism when specification proves hard: it demands consciousness make a physical difference, which demands the difference be specifiable.
 
 **[Dualism](/tenets/#dualism)** creates the specification problem: two ontologically distinct domains must be lawfully related. The cost of taking dualism seriously is accepting a mapping burden physicalism avoids. **[No Many Worlds](/tenets/#no-many-worlds)** is essential because specification only makes sense if there is genuine selection — under MWI all outcomes occur and there is nothing to specify. **[Occam's Razor Has Limits](/tenets/#occams-limits)** counsels patience: if consciousness genuinely influences matter, the difficulty reflects the problem's depth, not the theory's failure.
 
@@ -209,6 +210,26 @@ Preserved (per [optimistic-2026-05-01b](/reviews/optimistic-2026-05-01b/) Stabil
 
 Based on pessimistic review [pessimistic-2026-05-01b](/reviews/pessimistic-2026-05-01b/) deferred items + optimistic review [optimistic-2026-05-01b](/reviews/optimistic-2026-05-01b/) reciprocal-hook task. No curate-tool quality score.
 Key improvements: cognitive→phenomenal channel separation made explicit at the two Cai-citation sites; microtubule demotion framed as soft preference rather than structural exclusion; "What Would Falsify" reframed as in-principle conditions awaiting instrumentation, with reciprocal hook to falsification-roadmap; methodological honesty (Tenet 5 / Bidirectional Interaction load) extended at the three weakest remaining points without disturbing the load-bearing concessions installed by the 09:25 UTC pass.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-09 06:43 UTC (deep-review cross-review)
+Trigger: cross-review chained from the 2026-05-09 03:09 UTC restructure of [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (in-framework Mode Two pressure on phenomenal-functional arbitrariness via two-axis systematicity, plus honest framework-boundary marking; complementarity argument earned via different-substrates/same-precision; open-label argument-shift made explicit; Mode Asymmetry rephrased without the Tulving conflation).
+
+Pre-existing convergence state: zero critical issues in [deep-review-2026-05-01-the-interface-problem](/reviews/deep-review-2026-05-01-the-interface-problem/) and [deep-review-2026-05-05-the-interface-problem](/reviews/deep-review-2026-05-05-the-interface-problem/). Length 3027 → ~3050 (101% → 102% of soft target; well below 4000 hard threshold).
+
+Changes (light cross-link installation, length-neutral discipline applied):
+(a) Frontmatter `related_articles` updated with [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (now last entry, after [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/)).
+(b) Body cross-link installed at the natural editorial seam in "Relation to Site Perspective" → Bidirectional Interaction passage. New sentence between the dopamine-research sentence and the epiphenomenalism-foreclosure sentence: "The broader empirical case for the tenet — placebo's content-specific physiological direction and choking's mode-specific skill disruption — is developed at [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/), establishing the explanandum the location/specification programme attempts to mechanise." Load-bearing direction: empirical case establishes the *that*; this article addresses the *where/how*. The two articles' division of labour is now signposted explicitly.
+(c) Length-neutral offset: tightened the biological-analogy sentence in "The Critic's Strongest Objection" from "...involves regulatory networks and developmental contingency — but biological relationships remain physical; if the interface involves non-physical variables, the usual tools may not apply" to "...involves regulatory networks and developmental contingency, though biological relationships remain physical and the usual tools may not apply if the interface involves non-physical variables." (Saves the em-dash + semicolon double-clutch; preserves both qualifications.)
+
+Engagement classifications (editor-internal, recorded here per direct-refutation-discipline; previous classifications carried forward):
+- Eliminative-materialist engagement in "The Critic's Strongest Objection": mixed (Mode Two on the impossibility claim — Stapp/Eccles partial models refute the *impossibility* claim by the eliminativist's own standards of structural specifiability; Mode Three on the framework-internal preference for non-epiphenomenal alternatives, with Chalmers/Robinson loosening the self-stultifying charge preserved as the eliminativist's available counter-move). Unchanged from 2026-05-05; no editor-vocabulary leakage in prose.
+
+Calibration check: no possibility/probability slippage detected. The article's "qualified support" / "consistent with… without itself establishing" / "currently unfalsifiable in practice" / pre-Keplerian framing all hold. The new cross-link sentence does not upgrade evidential status — it points to where the empirical case is *developed*, with that article's own honest framework-boundary marking absorbed by reference.
+
+Stability targets preserved: front-loaded summary, constrained-pluralism arc, hierarchical model, four-question specification framework, pre-Keplerian self-assessment, falsification criteria, "currently unfalsifiable in practice" qualifier, Lakatosian concession at "From Agnosticism" opener, dopamine cognitive→phenomenal channel-separation language, microtubule-demotion charity, framework-stage-calibration cross-link, mind-brain-interface-efficacy cross-link, no LLM clichés. All hold.
 
 This log should be removed after human review.
 -->

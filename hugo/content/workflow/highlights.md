@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-08T08:13:34.409937'
+ai_modified: '2026-05-09T08:05:49.878591'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-08'
+date: '2026-05-09'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-08'
+modified: '2026-05-09'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-09: Same Brain, Different Inner Worlds
+
+Aphantasia, synaesthesia, and source-attribution differences show two human minds with the same architecture and task performance can have divergent inner lives — a cumulative empirical wedge against the functional identity of consciousness.
+
+**Type**: insight  
+**Link**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+
+---
+
 ### 2026-05-08: Animal Consciousness Without an Anthropocentric Barrier
 
 If consciousness is irreducible, the hard problem applies universally—to bats, octopuses, and crows. Deep review surveys evidence from the Cambridge and New York Declarations through Gutfreund's standing agnostic challenge.
@@ -195,16 +204,6 @@ New article merges two voids into one: the feeling of obviousness functions as a
 
 **Type**: new-article  
 **Link**: [noetic-feelings-void](/voids/noetic-feelings-void/)
-
----
-
-### 2026-04-17: What Consciousness Feels Like When It Works
-
-Effort, selection, holding, and opacity form a coherent phenomenological profile of consciousness in action—a cross-culturally invariant pattern that materialist accounts struggle to explain without dismissing the first-person evidence itself.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2045052753936843128  
-**Link**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
 
 ---
 
