@@ -33,6 +33,7 @@ related_articles:
   - "[[observation-and-measurement-void]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[vagueness-void]]"
+  - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -51,7 +52,7 @@ The void exhibits the [[conjunction-coalesce|conjunction-coalesce]] structure us
 
 ### Verification (Unexplorable)
 
-From inside, "I am withholding judgment" closely resembles "I have not yet decided" and "I have quietly decided but decline to acknowledge it." Subtle dispositional differences exist—a felt collapse of attention in the having-decided case, an active *return-to-it* tag in postponement, leaking preference in the felt weighting of options—but these candidate first-person tests are themselves heuristics drawn from the same machinery that produces noetic feelings of rightness. They feel like tests; their reliability is precisely what is in question. Behavioural tests work but require third-party access; predictive consequences emerge only later. While suspension is in progress, the inspection that would check it engages the same machinery whose neutrality is in question. This puts suspension in the structural position the [[agency-void]] catalogues for causal self-attribution: the faculty under investigation is the only available investigator.
+From inside, "I am withholding judgment" closely resembles "I have not yet decided" and "I have quietly decided but decline to acknowledge it." Subtle dispositional differences exist—a felt collapse of attention in the having-decided case, an active *return-to-it* tag in postponement, leaking preference in the felt weighting of options—but these candidate first-person tests are themselves heuristics drawn from the same machinery that produces noetic feelings of rightness. They feel like tests; their reliability is precisely what is in question. Behavioural tests work but require third-party access; predictive consequences emerge only later. While suspension is in progress, the inspection that would check it engages the same machinery whose neutrality is in question. This puts suspension in the structural position the [[agency-void]] catalogues for causal self-attribution: the faculty under investigation is the only available investigator. The felt act of holding back is the suspension face of the [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]]: phenomenal access reaches the suspension-feeling but not the operations that produce it, in the same architectural pattern that recurs in mental effort, agency, recognition, and the noetic feelings.
 
 The verification face is *Unexplorable* in the sense the [[three-kinds-of-void|three-kinds typology]] reserves for limits that resist mapping by their own architecture. One does not lack data; one lacks the capacity to interpret data without using the resource being measured.
 

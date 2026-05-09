@@ -37,6 +37,7 @@ related_articles:
   - "[[phenomenology-of-trust]]"
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[recognition-void]]"
+  - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -62,6 +63,8 @@ Two empirical phenomena, taken together, supply mutually reinforcing evidence fo
 </details>
 
 The Unfinishable Map treats this two-sided structure as the analytical claim: positive content-direction and negative skill-disruption are complementary signatures of consciousness doing real causal work. Neither phenomenon, by itself, settles the philosophical debate. Their conjunction raises the explanatory cost for accounts that grant the phenomena are real but deny conscious phenomenology any causal role — most directly for [[concepts/epiphenomenalism|epiphenomenalism]] and [[illusionism]], which must absorb the same fineness of phenomenology-physiology coupling across two substrates that share little common machinery.
+
+Placebo and choking are the positive companion to the [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]]: where the cluster's negative side (recognition, memory anomalies, mental effort, agency, suspension, noetic feelings, cardinality, introspective opacity) shows phenomenology *decoupling* from causal machinery, placebo and choking show phenomenology *coupling* to causal machinery in matching detail. The two sides together describe an interface that sometimes tracks the operation it accompanies and sometimes detaches from it, and the symmetry between them constrains what any account must explain.
 
 ## The Placebo Side: Content-Specific Direction
 

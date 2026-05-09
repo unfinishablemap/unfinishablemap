@@ -47,6 +47,7 @@ related_articles:
   - "[[creative-consciousness]]"
   - "[[the-quantitative-comprehension-void]]"
   - "[[memory-anomalies]]"
+  - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -85,7 +86,7 @@ Convergent evidence identifies noetic feelings as outputs of heuristic processes
 
 Thompson's work on the feeling of rightness showed FOR is driven by *generation fluency*—the speed and ease with which the first answer came to mind—not by correctness. Manipulating fluency (font legibility, rhyme, perceptual ease) shifts FOR without changing the underlying reasoning. The signal that tells consciousness "this is right" is a fluency trace, invisible as such.
 
-The "Lima problem" formalises the predicament: epistemic feelings inform us about content we cannot independently access, so we cannot cross-check their accuracy except through more feelings. We have the feel, not the content; the producing mechanism is architecturally hidden.
+The "Lima problem" formalises the predicament: epistemic feelings inform us about content we cannot independently access, so we cannot cross-check their accuracy except through more feelings. We have the feel, not the content; the producing mechanism is architecturally hidden. Noetic feelings are the gate-signalling members of the broader [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]] the Map tracks across perception, cognition, agency, and memory: the verdict is phenomenally given; the inferential heuristic that produced it has no phenomenal character.
 
 ## Processing Fluency and Manufactured Self-Evidence
 

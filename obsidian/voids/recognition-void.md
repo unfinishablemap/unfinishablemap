@@ -36,6 +36,7 @@ related_articles:
   - "[[vagueness-void]]"
   - "[[aspect-perception-void]]"
   - "[[memory-anomalies]]"
+  - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -59,7 +60,7 @@ Neither patient can access what is missing. The prosopagnosia patient does not e
 
 This double dissociation reveals that what seems like a single act — recognising someone — is at minimum two distinct contributions bound together invisibly: perceptual identification and affective familiarity. The binding itself is the void. Recognition also operates downstream of an earlier filter: the [[relevance-void|relevance void]] shortlists which faces or stimuli enter the recognition pipeline at all, and that shortlisting is opaque to the consciousness whose attention it shapes.
 
-The affective component — the felt familiarity that Capgras strips away — is itself one member of the family of [[noetic-feelings-void|noetic feelings]] that gate cognition from inside. Recognition's two-component structure is a special case of a broader pattern: a heuristic signal (the familiarity feel) produced by machinery consciousness cannot inspect, arriving fused with its perceptual partner. When the signal fails selectively, as in Capgras, the fusion is exposed without becoming observable — you notice *something* is missing but not what was doing the work.
+The affective component — the felt familiarity that Capgras strips away — is itself one member of the family of [[noetic-feelings-void|noetic feelings]] that gate cognition from inside. Recognition's two-component structure is a special case of a broader pattern: a heuristic signal (the familiarity feel) produced by machinery consciousness cannot inspect, arriving fused with its perceptual partner. When the signal fails selectively, as in Capgras, the fusion is exposed without becoming observable — you notice *something* is missing but not what was doing the work. This is the perceptual face of the [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]] the Map catalogues across perception, cognition, agency, and memory: phenomenal access reaches the verdict but not the verdict-issuing process.
 
 ### Jamais Vu and the Exhaustion of Meaning
 

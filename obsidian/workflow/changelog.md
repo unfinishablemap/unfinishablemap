@@ -5,6 +5,18 @@ ai_modified: 2026-05-09T17:38:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-09 18:18 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Word count**: 4717 → 4717 (apex unchanged — orphan-integration pass, length-neutral)
+- **Critical issues addressed**: 0 (article passed attribution-accuracy and possibility/probability slippage checks)
+- **Medium issues addressed**: 1 (orphan status — no inbound links from any source or adjacent apex)
+- **Enhancements made**: 13 (added inbound links from 10 source articles + 3 adjacent apex articles; 9 source articles also received natural-prose inline references where the cluster connection was already implicit in existing prose)
+- **Inbound links established**: `topics/memory-anomalies` (frontmatter + body), `voids/recognition-void` (frontmatter + body), `voids/the-quantitative-comprehension-void` (frontmatter + body), `concepts/mental-effort` (frontmatter + body), `voids/noetic-feelings-void` (frontmatter + body), `voids/agency-void` (frontmatter + body), `voids/suspension-void` (frontmatter + body), `voids/self-opacity` (frontmatter + body), `topics/consciousness-and-memory` (frontmatter + body), `topics/empirical-phenomena-mental-causation` (frontmatter + body), `apex/phenomenology-of-consciousness-doing-work` (frontmatter), `apex/medium-status-voids-in-cognition` (frontmatter), `apex/attention-as-causal-bridge` (frontmatter)
+- **Engagement modes**: The apex's engagement with materialism is Mode Three (framework-boundary marking) executed cleanly — the article explicitly notes the convergence "does not refute physicalism from inside its framework; it raises the cost of physicalist absorption" — no editor-vocabulary leakage detected
+- **Stability notes recorded**: Functionalist absorption of individual members is bedrock framework-boundary disagreement (do not re-flag as critical); Bergson section explicitly non-load-bearing (do not flag as overcommitting to non-Map metaphysics); cumulative-convergence is the article's load-bearing structure (individual-member-strengthening expansions should be weighed against length-neutral mode at 118% of soft threshold)
+- **Output**: [[reviews/deep-review-2026-05-09-phenomenal-output-causal-machinery-dissociation]]
+
 ## 2026-05-09 17:38 UTC - apex-evolve (create)
 - **Status**: Success
 - **Article**: [[apex/phenomenal-output-causal-machinery-dissociation]] (new — admission #24)
