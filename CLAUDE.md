@@ -217,6 +217,7 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/collect-claude-review` | Polls a pending Claude conversation, opens the artifact panel, extracts the body when ready (≥60 min), writes the review file, invokes outer-review. | Yes (creates review file, invokes outer-review) |
 | `/commission-gemini-review` | Drives Chrome to commission a fresh outer review from Gemini 2.5 Pro Deep Research. Time-triggered daily 04:00 UTC. Clicks "Start research" on the research-plan stage. | Yes (pending-reviews.yaml) |
 | `/collect-gemini-review` | Polls a pending Gemini conversation, extracts the report when ready (≥20 min), writes the review file, invokes outer-review. | Yes (creates review file, invokes outer-review) |
+| `/combine-outer-reviews` | Synthesize all same-date outer reviews into one convergence report; upgrade priority of issues flagged by ≥2 reviewers and deduplicate matching tasks. Fires once per cycle when all entries are resolved and ≥2 are processed. | Yes (creates synthesis file, rewrites todo.md tasks) |
 | `/coalesce` | Combine multiple related articles into one unified piece. Archives originals to preserve URLs. | Yes (creates, archives) |
 | `/archive` | Archive an article while preserving its URL for external links. | Yes (moves to archive) |
 | `/apex-evolve` | Build and maintain apex articles—human-readable synthesis pieces. | Yes (creates, modifies) |
@@ -308,6 +309,7 @@ The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. S
 - commission-claude-review: 3am UTC daily — Opus 4.7 with Adaptive thinking + Research.
 - commission-gemini-review: 4am UTC daily — 2.5 Pro with Deep Research.
 - collect-{chatgpt,claude,gemini}-review: every loop iteration during the automation window when a pending review of the relevant service is ready (chatgpt ≥90 min, claude ≥60 min, gemini ≥20 min). 4h abandon cutoff for stuck conversations on all three. One commission and one collect per loop iteration to keep wall-clock cost predictable.
+- combine-outer-reviews: every loop iteration, fires once per cycle date when (a) all entries for that date in `pending-reviews.yaml` are resolved (none `pending`), (b) ≥2 of them are `collected` AND have `outer_review_status: processed` in their review file's frontmatter, (c) `obsidian/reviews/outer-review-synthesis-{date}.md` does not yet exist. Local Claude work — no Chrome, no automation-window gating; the synthesis file's existence is the idempotence marker.
 
 **Chrome automation window** (UTC):
 

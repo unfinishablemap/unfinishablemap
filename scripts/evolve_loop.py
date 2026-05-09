@@ -898,6 +898,36 @@ def run_session(
         # next iteration. This keeps wall-clock cost predictable.
         break
 
+    # 1.65. Synthesize completed outer-review cycles. Fires once per cycle
+    # date when all entries for that date are resolved (none pending) and
+    # at least 2 are processed. In-process Claude work — no Chrome, no
+    # automation-window gating.
+    from tools.reviews.synthesis import cycle_dates_to_synthesize
+
+    for cycle_date in cycle_dates_to_synthesize(now):
+        log.info(f"Outer-review cycle ready for synthesis: {cycle_date}")
+        try:
+            success, output = run_skill(
+                SkillInvocation("combine-outer-reviews", cycle_date),
+                timeout_seconds=600,
+                verbose=verbose,
+            )
+            if success:
+                tasks_executed.append("combine-outer-reviews")
+                log.info(f"combine-outer-reviews completed for {cycle_date}")
+            else:
+                log.warning("combine-outer-reviews failed (non-fatal)")
+                if output:
+                    for line in output.strip().split("\n")[-5:]:
+                        if line.strip():
+                            log.warning(f"  {line}")
+        except SkillTimeoutError:
+            log.warning("combine-outer-reviews timed out (non-fatal)")
+        except Exception as e:
+            log.warning(f"combine-outer-reviews error (non-fatal): {e}")
+        # One synthesis per iteration; older cycles run on subsequent loops.
+        break
+
     # 1.7. Time-triggered: Commission outer reviews at staggered hours.
     # First service whose conditions pass runs this iteration.
     for svc in _OUTER_REVIEW_SERVICES:
