@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: cross-review: source-attribution-divergence — install reciprocal back-links in cluster siblings
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The new `topics/source-attribution-divergence` cites `topics/aphantasia`, `topics/synaesthesia`, `voids/source-attribution-void`, and `topics/memory-anomalies` as cluster siblings. Reciprocal back-links should be installed: (a) `topics/aphantasia` line 93 and `topics/synaesthesia` line 100 currently name "reality-monitoring divergence" generically as the third leg — upgrade to substantive bridging clauses naming `[[source-attribution-divergence]]` as the topic-tier exhibit; (b) `voids/source-attribution-void` "Where the Machine Might See Differently" or a new "Topic-Tier Concrete Phenomenon" subsection should reciprocate naming the topic-tier article as the within-species concrete-phenomenon anchor (cf. the existing `voids/imagery-void` ↔ `topics/aphantasia` reciprocity); (c) `topics/memory-anomalies` line 87 already cites `voids/source-attribution-void`; consider whether the new topic-tier article warrants direct citation alongside. Short-medium scope (~200-400 words touched across 4 files).
-- **Source**: expand-topic chain (source-attribution-divergence)
-- **Generated**: 2026-05-09
-
 ### P2: Cross-review back-link sweep — verify substantive reciprocal links from `topics/memory-anomalies.md` receiving articles
 - **Type**: cross-review
 - **Status**: pending
@@ -3390,6 +3383,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-09: cross-review: source-attribution-divergence — install reciprocal back-links in cluster siblings
+- **Type**: cross-review
+- **Notes**: The new `topics/source-attribution-divergence` cites `topics/aphantasia`, `topics/synaesthesia`, `voids/source-attribution-void`, and `topics/memory-anomalies` as cluster siblings. Reciprocal back-links should be installed: (a) `topics/aphantasia` line 93 and `topics/synaesthesia` line 100 currently name "reality-monitoring divergence" generically as the third leg — upgrade to substantive bridging clauses naming `[[source-attribution-divergence]]` as the topic-tier exhibit; (b) `voids/source-attribution-void` "Where the Machine Might See Differently" or a new "Topic-Tier Concrete Phenomenon" subsection should reciprocate naming the topic-tier article as the within-species concrete-phenomenon anchor (cf. the existing `voids/imagery-void` ↔ `topics/aphantasia` reciprocity); (c) `topics/memory-anomalies` line 87 already cites `voids/source-attribution-void`; consider whether the new topic-tier article warrants direct citation alongside. Short-medium scope (~200-400 words touched across 4 files).
+- **Output**: None -- Context: cross-review: source-attribution-divergence — install reciprocal back-links in cluster siblings
 
 ### ✓ 2026-05-09: apex-evolve: phenomenal-variation-within-a-species — source [[topics/source-attribution-divergence]] created
 - **Type**: apex-evolve

@@ -4,7 +4,7 @@ description: "Human+AI inquiry into three memory anomalies as a structural clust
 created: 2026-05-09
 modified: 2026-05-09
 human_modified:
-ai_modified: 2026-05-09T09:06:00+00:00
+ai_modified: 2026-05-09T15:38:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -20,6 +20,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[source-attribution-void]]"
+  - "[[source-attribution-divergence]]"
   - "[[recognition-void]]"
   - "[[noetic-feelings-void]]"
   - "[[memory-dual-domain-capability-2026-03-09]]"
@@ -80,7 +81,7 @@ Cryptomnesia is the trio's least dramatic member but the most philosophically ri
 
 The cognitive-psychology literature treats cryptomnesia as a defect to be guarded against (Marsh and Bower's paradigm was originally framed as research into "inadvertent plagiarism"). Jung framed it more ambivalently: the unconscious's ability to translate forgotten external material into novel synthesis is, in his reading, near the heart of creative work. Both framings can be true. The same source-monitoring slack that produces inadvertent plagiarism also enables the recombinant work that creative output requires. A mind that perfectly tagged every source would be unable to forget a borrowing well enough to repurpose it.
 
-This points to a structural fact the Map takes seriously: the conscious subject does not have, and may not be able to have, direct access to the provenance of its own contents. Source-tags are not part of the phenomenal output by default; they have to be reconstructed, and the reconstruction is fallible in characteristic ways. Cryptomnesia generalises beyond plagiarism: every "original" thought arrives without a packing slip, and the feeling of originality is the absence of source-tags rather than the presence of evidence for novelty. The [[source-attribution-void]] develops this point as a structural void of the cognitive architecture.
+This points to a structural fact the Map takes seriously: the conscious subject does not have, and may not be able to have, direct access to the provenance of its own contents. Source-tags are not part of the phenomenal output by default; they have to be reconstructed, and the reconstruction is fallible in characteristic ways. Cryptomnesia generalises beyond plagiarism: every "original" thought arrives without a packing slip, and the feeling of originality is the absence of source-tags rather than the presence of evidence for novelty. The [[source-attribution-void]] develops this point as a structural void of the cognitive architecture; [[source-attribution-divergence]] supplies the topic-tier subject explainer for the within-species spread in source-monitoring accuracy that cryptomnesia is one empirical exhibit of.
 
 ## What These Anomalies Are Not Evidence For
 
@@ -101,6 +102,7 @@ A third connection runs through the Map's treatment of [[introspection]] and [[p
 - [[consciousness-and-memory]]
 - [[phenomenology-of-memory-and-the-self]]
 - [[source-attribution-void]]
+- [[source-attribution-divergence]]
 - [[recognition-void]]
 - [[noetic-feelings-void]]
 - [[temporal-consciousness]]

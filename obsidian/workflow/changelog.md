@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T15:30:00+00:00
+ai_modified: 2026-05-09T15:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 15:38 UTC - deep-review (cross-review: install reciprocal back-links)
+- **Status**: Success
+- **Trigger**: cross-review chain from `topics/source-attribution-divergence` (created 2026-05-09 14:45 UTC); apex integration completed at 15:30 UTC noted that sibling articles "may benefit from reciprocal back-links naming this article as the third leg of the within-species-divergence triptych"
+- **Files modified** (6): `topics/aphantasia`, `topics/synaesthesia`, `topics/memory-anomalies`, `voids/source-attribution-void`, `concepts/phenomenology-vs-function-axis`, `voids/imagery-void`
+- **Changes**: in each cluster sibling, added `[[source-attribution-divergence]]` to `related_articles` frontmatter and to "Further Reading" with a one-line role description tying the link to the sibling's specific cluster role; in `aphantasia` and `synaesthesia` body, replaced the generic "reality-monitoring divergence (the spread of source-attribution profiles across the population)" mention with a wikilink to `[[source-attribution-divergence]]` so the third-leg reference becomes navigable; in `memory-anomalies` body, extended the existing `[[source-attribution-void]]` citation to also name the new topic-tier article as the empirical-subject explainer that cryptomnesia is one exhibit of; in `source-attribution-void` body, added one sentence to the introductory orientation paragraph distinguishing the void's apophatic treatment from the new topic-tier subject explainer
+- **No critical issues found**: this is a back-linking pass, not a content review; no rewrites of the source-attribution-divergence article itself, no edits to claims or arguments in any sibling
+- **Discipline note**: kept the four-canonical-exemplar structure of `phenomenology-vs-function-axis` intact — added the new article only to related_articles and Further Reading rather than promoting it to a fifth canonical exemplar, since restructuring the axis taxonomy is content evolution rather than back-linking
+- **Timestamps**: bumped `ai_modified` on each touched file to 2026-05-09T15:38:00+00:00; no `last_deep_review` updates (this is a cross-review chain pass, not a deep review of any single sibling)
 
 ## 2026-05-09 15:30 UTC - apex-evolve
 - **Status**: Success
