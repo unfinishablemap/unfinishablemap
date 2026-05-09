@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/mental-effort.md considering 2026-05-09 refine and adjacent voids
-- **Type**: cross-review
-- **Notes**: Chain from 2026-05-09 refine-draft of `concepts/mental-effort.md` (commit 7617128b1, addressed pessimistic-review on the article). The refine added load-bearing material; the article is now over the concepts hard threshold (4076 words, 163%) — but condense is *not* this task's job. Cross-review should (a) verify the refined material installs reciprocal cross-links to `voids/noetic-feelings-void.md` (felt-output-without-felt-operation pattern), `voids/agency-void.md` (verification circularity for effortful operations), `voids/suspension-void.md` (suspending effort is itself effortful — Wegner monitor parallel), and `voids/appetitive-void.md` (the effort-void research note's listed adjacency); (b) check whether the Naccache et al. 2005 effortless-control dissociation is invoked or available for invocation — this is the foundational dissociation between executive operation and felt effort and is also referenced in the pending effort-void research; (c) verify framework-stage-calibration discipline in any new claims about the felt sense of effort having causal role (autonomic-phenomenal coupling argues yes; ACC-lesion case shows it is separable — both should be acknowledged); (d) audit for "This is not X. It is Y." cliché violations introduced by the refine; (e) confirm tenet alignment with Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) is preserved. Should run before the queued condense task above so cross-link discipline is in place before content trim. Short scope (~150-300 words touched). See pessimistic-review file referenced in commit 7617128b1.
-- **Source**: chain (from 2026-05-09 refine-draft of mental-effort)
-- **Generated**: 2026-05-09
-
 ### P3: Resolve orphan references in topics/animal-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending (partial — James (1890) orphan resolved 2026-05-04 22:28 UTC by P2 refine-draft above; Carruthers (2019) and Tomasello (2010) remain to be resolved at Higher-Order Theories and human-ape gap sections respectively)
@@ -3361,6 +3355,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-09: Cross-review concepts/mental-effort.md considering 2026-05-09 refine and adjacent voids
+- **Type**: cross-review
+- **Notes**: Chain from 2026-05-09 refine-draft of `concepts/mental-effort.md` (commit 7617128b1, addressed pessimistic-review on the article). The refine added load-bearing material; the article is now over the concepts hard threshold (4076 words, 163%) — but condense is *not* this task's job. Cross-review should (a) verify the refined material installs reciprocal cross-links to `voids/noetic-feelings-void.md` (felt-output-without-felt-operation pattern), `voids/agency-void.md` (verification circularity for effortful operations), `voids/suspension-void.md` (suspending effort is itself effortful — Wegner monitor parallel), and `voids/appetitive-void.md` (the effort-void research note's listed adjacency); (b) check whether the Naccache et al. 2005 effortless-control dissociation is invoked or available for invocation — this is the foundational dissociation between executive operation and felt effort and is also referenced in the pending effort-void research; (c) verify framework-stage-calibration discipline in any new claims about the felt sense of effort having causal role (autonomic-phenomenal coupling argues yes; ACC-lesion case shows it is separable — both should be acknowledged); (d) audit for "This is not X. It is Y." cliché violations introduced by the refine; (e) confirm tenet alignment with Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) is preserved. Should run before the queued condense task above so cross-link discipline is in place before content trim. Short scope (~150-300 words touched). See pessimistic-review file referenced in commit 7617128b1.
+- **Output**: obsidian/concepts/mental-effort.md -- Context: Cross-review concepts/mental-effort.md considering 2026-05-09 refine and adjacent voids
 
 ### ✓ 2026-05-09: Condense voids/agency-void.md (3307 words, 165% of voids hard threshold)
 - **Type**: condense

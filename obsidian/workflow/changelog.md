@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T04:17:00+00:00
+ai_modified: 2026-05-09T04:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 04:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Previous review**: [[reviews/deep-review-2026-04-19-mental-effort|2026-04-19]]
+- **Context**: Cross-review after 2026-05-09 00:11 refine-draft expanded the article (4076 words, hard_warning) to integrate the effort-void evidence per [[research/voids-effort-void-2026-05-08]].
+- **Word count**: 4076 → 3461 (−615)
+- **Length status**: hard_warning → soft_warning (138% of 2500 target, under 3500 hard threshold)
+- **Critical issues addressed**: 3 — (1) length over hard threshold, resolved by length-neutral condensation throughout (three faces, Materialist Problem, neuroplasticity, Quantum Zeno, Illusionist, Effortless Awareness, Further Reading); (2) internal contradiction between line 56 ("widely shared, modal case") and Occam's tenet ("universally reported"), resolved by changing "universally" to "widely"; (3) No Many Worlds tenet was the article's weakest argument per pessimistic-2026-05-08 (refine missed this issue), reframed as honest Mode Three framework-boundary marking — MWI predicts the same indexical singularity, so effort phenomenology is silent between single-world and many-world readings; case against branching deferred to [[topics/forward-in-time-conscious-selection|the selection trilemma]].
+- **Medium issues addressed**: 1 — "not X but Y" cliché in Effortless Awareness section ("not because consciousness stopped working, but because the interface has been trained" + "mastery, not passivity"), rewritten as positive claim.
+- **Enhancements made**: 5 — No Many Worlds reframe, universal/widely-shared contradiction fix, cliché removal, unused Fox 2012 and Hagan 2002 reference removal, Further Reading list tightening.
+- **Reasoning-mode classifications** (editor-internal): strict epiphenomenalism — Mode One (defective on selection-pressure grounds within physicalism); Inzlicht/Kurzban physicalism — Mixed (Mode Two foundational pressure on hard-problem-localised-to-effort + Mode Three boundary-marking); illusionism (Graziano AST) — Mode One (regress argument internal to illusionism); MWI — Mode Three (post-revision, previously was incorrectly framed as Mode One refutation; now correctly boundary-marking with case-against-branching deferred to other articles).
+- **Editor-vocabulary audit**: no leakage in body prose; HTML comment block already removed by prior refine, verified absent.
+- **Attribution accuracy check**: passed — Naccache, Hagger, Kurzban, Inzlicht, Westbrook, Tegmark, Schwartz, Marzbani, Lutz, Howard, Zheng/Meister, Sauerbrei/Pruszynski all preserved with qualifiers intact. References list cleaned of unused entries.
+- **Possibility/probability slippage check**: passed — calibration-honest language throughout; no tenet-coherence-as-evidence-upgrade; new section's "constrain not establish" hedge propagated through subsequent sections.
+- **Stability notes**: 7 deep-reviews now complete (Jan-20, Jan-29, Mar-04, Mar-06, Mar-28, Apr-19, May-09). Settled bedrock disagreements (do not re-flag): MWI, decoherence/Zeno hedging, process-model physicalism, Schwartz OCD evidence, strict epiphenomenalism, Naccache as widely-shared-modal-case, 10 bits/s, Madhyamika dissolution-of-selector. Future reviews should only flag (a) new contradicting sister articles, (b) new experimental findings overturning cited evidence, (c) drift back above hard threshold.
+- **Output**: [[reviews/deep-review-2026-05-09-mental-effort]]
 
 ## 2026-05-09 04:17 UTC - deep-review
 - **Status**: Success
