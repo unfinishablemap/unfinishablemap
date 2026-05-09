@@ -3,8 +3,8 @@ title: "Phenomenal Output and Causal Machinery"
 created: 2026-05-09
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-05-09T21:16:00+00:00
-last_deep_review: 2026-05-09T18:18:00+00:00
+ai_modified: 2026-05-09T23:38:00+00:00
+last_deep_review: 2026-05-09T23:38:00+00:00
 draft: false
 description: "A structural cluster recurring across perception, cognition, agency, and memory in which phenomenal access reaches outputs but not the operations that produce them — the catalogue's tightest worked instance of the cumulative-convergence move."
 topics:

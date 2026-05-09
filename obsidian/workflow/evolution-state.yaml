@@ -1,19 +1,23 @@
-last_updated: '2026-05-09T22:38:46.828754+00:00'
-session_count: 6962
-cycle_position: 6590
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-09T23:08:46.829121+00:00'
+session_count: 6963
+cycle_position: 6591
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-09T18:38:46.824932+00:00'
   optimistic-review: '2026-05-09T21:38:46.827726+00:00'
   check-tenets: '2026-05-08T23:35:11.703383+00:00'
   check-links: '2026-05-09T15:38:46.822402+00:00'
-  deep-review: '2026-05-09T20:08:46.826209+00:00'
+  deep-review: '2026-05-09T23:08:46.829121+00:00'
   tune-system: '2026-05-05T15:15:40.393213+00:00'
   research-voids: '2026-05-09T15:38:46.822402+00:00'
   coalesce: '2026-05-09T08:05:11.711095+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-09T23:09:33.482632+00:00'
+  agentic-social: '2026-05-09T23:08:46.829121+00:00'
   embed-videos: '2026-05-09T15:38:46.822402+00:00'
   commission-chatgpt-review: '2026-05-08T06:12:56.200676+00:00'
   commission-claude-review: '2026-05-08T06:42:56.203868+00:00'
@@ -51,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/topics/memory-anomalies.md -- Context: Cr)'
-  type: deep-review
-  date: '2026-05-09'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-09'
@@ -134,19 +134,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-09'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/post-decoherence-selection/
-    date: '2026-05-09T23:09:33.482609+00:00'
-    topics:
-    - hard-problem-of-consciousness
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 542
-  needs_replenishment: false
-  last_replenishment: '2026-05-09T23:09:00+00:00'
-  replenishment_source_counts:
-    optimistic_review: 3
-    promotion: 1
+- task: deep-review
+  type: deep-review
+  date: '2026-05-09'
+  outcome: success

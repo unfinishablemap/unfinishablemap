@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T23:15:00+00:00
+ai_modified: 2026-05-09T23:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 23:38 UTC - deep-review
+- **Status**: Success (audit pass — no body changes)
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Focus**: Reciprocal cross-link audit — 10 source articles → apex
+- **Word count**: 5404 → 5404 (no body changes; article in `hard_warning`, 135% of soft / 108% of hard)
+- **Critical issues addressed**: 0 (none found — attribution check, calibration check, source/Map separation, self-contradiction, reasoning-mode classification all pass)
+- **Medium issues addressed**: 0 (cross-links already complete from prior 18:18 UTC review pass)
+- **Enhancements made**: 0 (read-only audit on cross-link layer)
+- **Audit result**: All 10 source articles (`topics/memory-anomalies`, `voids/recognition-void`, `voids/the-quantitative-comprehension-void`, `concepts/mental-effort`, `voids/noetic-feelings-void`, `voids/agency-void`, `voids/suspension-void`, `voids/self-opacity`, `topics/consciousness-and-memory`, `topics/empirical-phenomena-mental-causation`) have BOTH frontmatter `related_articles` entries AND inline body wikilinks to the apex, using a consistent descriptive subtitle (`phenomenal-output / causal-machinery dissociation cluster`). Apex `related_articles` lists all 10 sources. Reciprocity complete at both layers (machine-readable + human-readable navigation).
+- **Reasoning-mode classification (editor-internal)**: Materialist absorption engagement remains Mode Three (framework-boundary marking) executed cleanly — "raises the explanatory cost of doing so without dissolving the functionalist option." No editor-vocabulary leakage.
+- **Bedrock disagreements not re-flagged**: functionalist absorption, Bergson-as-non-Map-commitment, MWI/eliminativist boundary disagreements — all carried forward per prior stability notes.
+- **Convergence note**: Second deep-review of the day; first established the cross-link integration (orphan resolution) plus the Pass 1/Pass 2 substantive refinements addressing pessimistic-2026-05-09b. This audit confirms reciprocity persists. Article has reached stability on the cross-link layer; outstanding work (length, apex over-cap, evidential-status-discipline refinement) is queued separately.
+- **Output**: [[reviews/deep-review-2026-05-09b-phenomenal-output-causal-machinery-dissociation]]
 
 ## 2026-05-09 23:15 UTC - deep-review
 - **Status**: Success
