@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T03:09:00+00:00
+ai_modified: 2026-05-09T03:43:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 03:43 UTC - condense
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Before**: 3307 words
+- **After**: 2784 words
+- **Reduction**: 16%
+- **Technique**: Removed AI refinement log HTML comment (post-review cleanup); compressed Recurrence section's three faces and analytical closers (cut hedging, redundant cross-link prose); tightened Five Layers, Sovereignty Paradox, Phenomenology of the Void, Self-Stultification Symmetry, and What Cannot Be Controlled with prose-tightening (removed "structurally", "absolutely", "deeply", "domain-specific" filler); trimmed Further Reading bullets; preserved opening summary, Two Limits/One Void framing, all three recurrence faces, the apophatic-signature insight, the framework-stage-calibration ("constrain not establish"), Reflexive Self-Stultification, and Relation to Site Perspective in full.
 
 ## 2026-05-09 03:09 UTC - refine-draft
 - **Status**: Success
