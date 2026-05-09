@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T09:06:00+00:00
+ai_modified: 2026-05-09T09:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 09:35 UTC - deep-review
+- **Status**: Success (fourth convergent review — no critical issues)
+- **File**: [[topics/authentic-vs-inauthentic-choice]]
+- **Previous review**: [[reviews/deep-review-2026-03-26-authentic-vs-inauthentic-choice]] (44 days prior)
+- **Context**: Selected by candidate scorer (score 88) due to days-since-review. Previous review explicitly marked the article as fully converged after three reviews; intervening changes were mechanical wikilink redirections (`concept-of-free-will` removed, `existentialism` → `nihilism-and-existentialism`, `understanding-void` → `noetic-feelings-void`) plus two new inline cross-links (`noetic-feelings-void` for the action-domain understanding-void, `self-maintained-cognitive-limits` after the bad-faith paradox).
+- **Word count**: 2965 → 2965 (unchanged; length-neutral mode at 99% of 3000 target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (convergence pass)
+- **Calibration check**: speculative claim about inauthentic neural processing remains hedged ("may not engage", "remains speculative", "consistent with either interpretation"); no possibility/probability slippage. A tenet-accepting reviewer would not flag the calibration as overstated.
+- **Reasoning-mode classification**: engagement with compatibilist objection — Mode Three (framework-boundary marking, "necessary but not sufficient"); no boundary-substitution; no editor-vocabulary leakage.
+- **New cross-link verification**: `noetic-feelings-void` and `self-maintained-cognitive-limits` both resolve; the "five independent traditions" characterisation matches the source article's explicit listing (existentialism, Buddhist philosophy, psychoanalysis, evolutionary psychology, phenomenology).
+- **Output**: [[reviews/deep-review-2026-05-09-authentic-vs-inauthentic-choice]]
+- **Recommendation**: future reviews should skip this article unless substantive content is modified; mechanical link updates do not warrant full deep-review cycles.
 
 ## 2026-05-09 09:06 UTC - deep-review (cross-review of siblings)
 - **Status**: Success (convergence — no critical issues)
