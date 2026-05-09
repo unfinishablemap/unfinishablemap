@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T07:35:00+00:00
+ai_modified: 2026-05-09T08:06:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 08:06 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections surveyed**: voids (99/100), topics (237/250), concepts (229/250). Voids most pressured at 99% capacity, but the corpus has been heavily curated already: many voids carry `coalesced_from:` history from prior merges, and the remainder use explicit conjunction-coalesce framing (each carving a distinct face of a single void).
+- **Clusters examined**: (1) affective family — affective-void / mood-void / valence-void (each explicitly differentiates: affective = range, mood = pervasiveness, valence = structure); (2) cognitive-closure family — biological-cognitive-closure (already coalesced) / closure-types-void (meta-piece, distinct level); (3) erasure / agency — already linked as cognates via [[apex/conjunction-coalesce]] with cognate framing rather than merger geometry; (4) inference-void — comprehensive standalone with three independent lines (Carroll/Wittgenstein/Polanyi); (5) acquaintance-void / recognition-void — each carves distinct epistemic territory (Russell vs knowing-as); (6) metaphor-void / conceptual-scheme-void — explicitly differentiated by level (figurative mappings vs categorial apparatus); (7) intellectual-phenomenology family — phenomenology-of-intellectual-life is already coalesced from 9 articles; courage / disagreement / anticipation each cover distinct phenomenal events; (8) attention pair — phenomenology-of-attention-to-absence (Sartre, Pierre at café) / phenomenology-of-returning-attention (meditation three-phase); (9) metaphysics pair — consciousness-and-the-metaphysics-of-individuation / -of-composition (different metaphysical questions: bounded subject vs SCQ); (10) anticipation/surprise pair — surprise-prediction-error already coalesced from 3 articles; (11) capacity / cognitive load — phenomenology-of-cognitive-capacity already coalesced; (12) witnessing-void / self-opacity — explicitly differentiated (operation vs subject).
+- **Reason**: Each candidate either shows prior `coalesced_from:` history; uses explicit conjunction-coalesce/cognate framing that the apex synthesis treats as deliberate differentiation rather than redundancy; or carves a distinct philosophical question whose preservation cost (specialised arguments, distinct citation lineages, dense cross-references in the broader corpus) outweighs deduplication benefit.
+- **Outcome**: No articles modified. Voids cap pressure remains at 99/100; section will continue receiving improvement-only treatment (deep-review, condense) until natural archival creates room. Topics and concepts retain headroom.
 
 ## 2026-05-09 07:35 UTC - deep-review
 - **Status**: Success
