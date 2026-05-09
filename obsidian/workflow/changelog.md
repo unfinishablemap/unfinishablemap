@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-08T23:39:00+00:00
+ai_modified: 2026-05-09T00:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 00:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Source review**: [[reviews/pessimistic-2026-05-08]]
+- **Issues addressed**: 6 of 6 (2 HIGH, 2 MEDIUM, 2 LOW)
+  - HIGH (a): Rewrote "The Materialist Problem" to engage Inzlicht/Kurzban process model directly rather than posing rhetorical questions the model already answers within physicalism. Replaced two short paragraphs with three: the unstable epiphenomenalism noted, the process-model reply granted as the materialist's serious non-epiphenomenalist position, and the residue specified (effort hard-problem + Naccache autonomic-coupling). Disagreement now framed as honest framework-boundary disagreement; case for interface dualism explicitly rests on apophatic-catalogue convergence rather than effort phenomenology in isolation.
+  - HIGH (b): Reconciled the "different currency" claim with Westbrook 2020. Dropped the "different currency entirely" assertion (the dopamine evidence contradicts it) and reframed the Tenet 2 connection: mental tiredness is biochemically tracked, but the *selection operation* effort accompanies appears to involve information flow through regulatory pathways rather than bulk energy transfer, which is the actual Tenet 2 claim.
+  - MEDIUM (c): Softened "This phenomenology is universal" to "widely shared—the modal case rather than strictly universal", with forward reference to the Naccache clinical exception. Description frontmatter updated accordingly ("universal" → "widely-shared").
+  - MEDIUM (d): Engaged Tegmark 2000's calculation directly in the Quantum Zeno timing-gap paragraph rather than treating the issue as "remains unresolved". Calculation made explicit (measurement interval ≫ coherence time → no Zeno effect); Stapp's reply characterised as restating the desideratum rather than answering the calculation; pivot to post-decoherence selection as the better-developed Map mechanism cross-linked.
+  - LOW (e): Narrowed falsifier (3) from "equivalent neuroplastic changes occurred without phenomenal effort (e.g., under anaesthesia)" — already empirically met by sleep consolidation, classical conditioning, and pharmacological neuroplasticity — to "equivalent regulatory neuroplasticity in prefrontal-subcortical control circuits — of the kind seen in CBT, meditation training, and cognitive therapy for OCD — occurred under conditions excluding intentional engagement", with the exclusions named.
+  - LOW (f): Removed AI REFINEMENT LOG HTML comment block (was 16 lines, contained `Engagement classification:` editor-vocabulary; the comment's own footer instructed removal after human review).
+- **References added**: Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+- **Word count touched**: ~330 words modified across six locations; net +~210 words. Article now ~3,890 words, comfortably under the 4,000-word concepts soft threshold.
+- **Frontmatter**: ai_modified updated to 2026-05-09T00:11:00+00:00; modified date bumped; description softened to match.
+- **Cliché audit**: No "This is not X. It is Y." constructions introduced; existing prose preserved.
+- **Editor-vocabulary audit**: No `direct-refutation-feasible`, `unsupported-jump`, `bedrock-perimeter`, `mode-mixed`, `Engagement classification:`, or `**Evidential status:**` callouts in body prose. The `framework-boundary disagreement` phrasing in the rewritten Materialist Problem section uses the natural-language form already established elsewhere in the article (line 100) rather than editor vocabulary.
+- **Published**: yes
 
 ## 2026-05-08 23:39 UTC - check-tenets
 - **Status**: Success
