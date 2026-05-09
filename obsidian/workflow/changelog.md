@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T01:15:00+00:00
+ai_modified: 2026-05-09T01:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 01:37 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Memory anomalies (déjà vu, jamais vu, cryptomnesia)
+- **Output**: [[topics/memory-anomalies]]
+- **Word count**: 2404 (80% of topics 3000 soft target — in healthy range)
+- **Based on research**: yes — [[research/memory-anomalies-2026-05-08]]
+- **Frame**: Trio treated as a structural cluster — three rotations on the same source-monitoring failure (familiarity-without-recollection / familiarity-collapse / source-tag-missing). Phenomenology-gap framing leads; TLE/Cleary evidence anchors the neural-correlate-yet-tenet-coherent reading. Bergson's "memory of the present" included as one candidate explanation, explicitly not load-bearing.
+- **Cross-links installed**: reciprocal to consciousness-and-memory, phenomenology-of-memory-and-the-self, source-attribution-void, recognition-void, noetic-feelings-void, temporal-consciousness, episodic-memory, implicit-memory, hard-problem-of-consciousness, arguments-against-materialism
+- **Self-citations**: source-attribution-void (2026-04-21, Oquatre-sept), phenomenology-of-memory-and-the-self (2026-02-13, Oquatre-six)
+- **Tenet alignment**: Tenet 1 (Dualism) — felt certainty produced when underlying causal machinery misfires is the explanandum, not evidence; Tenet 3 (Bidirectional Interaction) — Bergson's reducing-valve framing raised as one option, not commitment
+- **Cliché audit**: "This is not X. It is Y." pattern absent; one "It is not... but it is..." hedging construction retained (different pattern, acceptable)
 
 ## 2026-05-09 01:15 UTC - deep-review
 - **Status**: Success
