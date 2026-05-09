@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review siblings of the new topics/memory-anomalies.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-05-09 expand-topic that created `topics/memory-anomalies.md` (déjà vu, jamais vu, cryptomnesia as three rotations on the same source-monitoring failure). The new article's `related_articles` lists `source-attribution-void`, `recognition-void`, `noetic-feelings-void` as the three closest voids siblings — these voids treat exactly the source-monitoring / felt-certainty / verdict-signal architectural axis the new article installs as a structural cluster, but none currently back-link to memory-anomalies. Cross-review should (a) install reciprocal cross-links in each of `voids/source-attribution-void.md`, `voids/recognition-void.md`, `voids/noetic-feelings-void.md` with substantive bridging clauses (~75–125 words each) identifying memory-anomalies as the *positive-instance* exhibit of the architectural axis the void treats as *negative-instance*; (b) verify reciprocal links in `topics/consciousness-and-memory.md` and `concepts/episodic-memory.md` / `concepts/implicit-memory.md` capture the new article's three-rotations framing rather than only the topical adjacency; (c) check whether `concepts/temporal-consciousness.md` and `concepts/introspection.md` need bridging clauses given the new article's installation of the *felt-certainty / underlying-machinery* gap as a named pattern; (d) honour the constrain-vs-establish discipline (the new article's Bergsonian framing constrains rather than establishes a dualist reading — verify the cross-links preserve this calibration). Short-medium scope (~300–500 words across multiple files). Tenet alignment: Tenet 3 (Bidirectional Interaction) — the dissociation cluster is tenet-evidence on the same architectural axis as the optimistic-2026-05-09 phenomenal-output / causal-machinery cluster.
-- **Source**: chain (from 2026-05-09 expand-topic of memory-anomalies)
-- **Generated**: 2026-05-09
-
 ### P2: Cross-review siblings of the new topics/phantom-limb-phenomena.md
 - **Type**: cross-review
 - **Status**: pending
@@ -3390,6 +3383,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-09: Cross-review siblings of the new topics/memory-anomalies.md
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-05-09 expand-topic that created `topics/memory-anomalies.md` (déjà vu, jamais vu, cryptomnesia as three rotations on the same source-monitoring failure). The new article's `related_articles` lists `source-attribution-void`, `recognition-void`, `noetic-feelings-void` as the three closest voids siblings — these voids treat exactly the source-monitoring / felt-certainty / verdict-signal architectural axis the new article installs as a structural cluster, but none currently back-link to memory-anomalies. Cross-review should (a) install reciprocal cross-links in each of `voids/source-attribution-void.md`, `voids/recognition-void.md`, `voids/noetic-feelings-void.md` with substantive bridging clauses (~75–125 words each) identifying memory-anomalies as the *positive-instance* exhibit of the architectural axis the void treats as *negative-instance*; (b) verify reciprocal links in `topics/consciousness-and-memory.md` and `concepts/episodic-memory.md` / `concepts/implicit-memory.md` capture the new article's three-rotations framing rather than only the topical adjacency; (c) check whether `concepts/temporal-consciousness.md` and `concepts/introspection.md` need bridging clauses given the new article's installation of the *felt-certainty / underlying-machinery* gap as a named pattern; (d) honour the constrain-vs-establish discipline (the new article's Bergsonian framing constrains rather than establishes a dualist reading — verify the cross-links preserve this calibration). Short-medium scope (~300–500 words across multiple files). Tenet alignment: Tenet 3 (Bidirectional Interaction) — the dissociation cluster is tenet-evidence on the same architectural axis as the optimistic-2026-05-09 phenomenal-output / causal-machinery cluster.
+- **Output**: obsidian/topics/memory-anomalies.md -- Context: Cross-review siblings of the new topics/memory-anomalies.md
 
 ### ✓ 2026-05-09: Integrate apex/phenomenal-variation-within-a-species.md back-links across source articles
 - **Type**: integrate-orphan

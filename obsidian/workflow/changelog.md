@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T08:35:00+00:00
+ai_modified: 2026-05-09T09:06:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-09 09:06 UTC - deep-review (cross-review of siblings)
+- **Status**: Success (convergence — no critical issues)
+- **File**: [[topics/memory-anomalies]]
+- **Previous review**: [[reviews/deep-review-2026-05-09-memory-anomalies]] (04:17 UTC same day)
+- **Context**: Cross-review pass examining memory-anomalies.md against its sibling articles (source-attribution-void, recognition-void, noetic-feelings-void, consciousness-and-memory, phenomenology-of-memory-and-the-self) and against the source research note. Operative rule: convergence — the previous same-day review explicitly anticipated 1–2 zero-critical follow-ups, of which this is the first.
+- **Word count**: 2402 → 2402 (unchanged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none correctable inside this pass without oscillating against the previous review's "no additional cross-links needed" judgement)
+- **Enhancements made**: 0 (convergence pass)
+- **Cross-sibling consistency findings**: Citations consistent (Moulin et al. 2021 author list more complete in memory-anomalies than in recognition-void, no conflict; Brown 2003 prevalence figure matches research note; Cleary 2008/2012, Perrin & Sant'Anna 2024, Bergson 1908 all uniquely treated and correctly attributed). Conceptual framings compatible (familiarity-as-noetic-feeling in noetic-feelings-void vs familiarity-as-dual-process-component in memory-anomalies; recognition decomposition via Capgras/prosopagnosia in recognition-void vs familiarity/recollection dual-process in memory-anomalies). Tenet calibration disciplined; no possibility/probability slippage at the sibling boundary.
+- **Reasoning-mode classification**: Engagements unchanged from previous review (cognitive-science reductionism: Mode Three; paranormal/spiritualist readings: Mode One). No label leakage.
+- **Sibling reverse-link gaps noted (deferred)**: phenomenology-of-memory-and-the-self, recognition-void, noetic-feelings-void, source-attribution-void do not yet link memory-anomalies in their related_articles. These are improvements to *those* siblings, addressable by a future integrate-orphan task; out of scope for this cross-review.
+- **Output**: [[reviews/deep-review-2026-05-09b-memory-anomalies]]
 
 ## 2026-05-09 08:35 UTC - deep-review (orphan-integration follow-up)
 - **Status**: Success
