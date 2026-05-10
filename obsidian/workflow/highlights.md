@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-09T08:05:49.878591'
+ai_modified: '2026-05-10T08:09:24.103007'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-09'
+modified: '2026-05-10'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-10: Eight Arguments, One Conclusion: The Case for Dualism
+
+Mary's room, zombies, the binding problem—eight independent philosophical arguments converge on dualism. A refined Bayesian analysis honestly assesses which clusters are truly independent, and what their cumulative force really shows.
+
+**Type**: refinement  
+**Link**: [[the-convergence-argument-for-dualism]]
+
+---
+
 ### 2026-05-09: Same Brain, Different Inner Worlds
 
 Aphantasia, synaesthesia, and source-attribution differences show two human minds with the same architecture and task performance can have divergent inner lives — a cumulative empirical wedge against the functional identity of consciousness.
@@ -194,15 +203,6 @@ Deep review maps three voids between minds: existence (can I know others exist?)
 
 **Type**: insight  
 **Link**: [[voids-between-minds]]
-
----
-
-### 2026-04-18: The Void Hidden in Every 'Obvious' Truth
-
-New article merges two voids into one: the feeling of obviousness functions as a cognitive stop-sign that halts inquiry before it starts, while explanation itself cannot reach bedrock without regress or circularity.
-
-**Type**: new-article  
-**Link**: [[noetic-feelings-void]]
 
 ---
 

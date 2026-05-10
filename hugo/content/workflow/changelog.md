@@ -1,13 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10 06:10:00+00:00
+ai_modified: 2026-05-10 07:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-10 07:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Mode**: Targeted fix (Issue 2 of [pessimistic-2026-05-10](/reviews/pessimistic-2026-05-10/) — vitalism disanalogy)
+- **Word count**: ~3470 → ~3560 (+90 words; structural reframing of §Convergence on falsehood is possible)
+- **Changes**: Rewrote the second and third paragraphs of §Convergence on falsehood is possible to replace the temporal-presented-as-structural framing with a non-circular type-specificity argument. (1) Acknowledged directly that a vitalist in 1820 could have made the identical "the gap has not narrowed" observation, and that the article cannot defend its disanalogy by appealing to the irreducibility of qualia — irreducibility is the convergence argument's conclusion, not a premise it may deploy in its own defence. (2) Identified the disanalogy that survives both worries: the *specification structure of the explanandum*. "Vital force" was always a placeholder for unspecified mechanism, so any mechanism for any part of the target counted as success and the placeholder shrank under each mechanistic encroachment (Wöhler 1828, Buchner 1897, metabolic pathways and DNA 1953). Phenomenal qualities have a different shape — redness is a particular phenomenal type, painfulness is another, the taste of coffee is another, each determinate in its character — so a reduction must deliver *that* character type-by-type rather than substitute a generic mechanism, and a complete reduction of one phenomenal type would not extend automatically to others. The type-specificity is establishable from the structure of the demand placed on any reduction, independently of the convergence argument's conclusion. (3) Rebuilt the empirical no-reduction observation (no instance of "this is what redness *is* in physical terms") as an honest temporal report on where the type-specific reduction project currently stands, not a structural conclusion it carries on its own; conceded that "the structural disanalogy is genuine but not unlimited — type-specific reductive demands could in principle be met."
+- **Engagement classification (editor-internal)**: engagement with the convergence-on-falsehood objection: Mode Two (the convergence argument helps itself to "structural difference" without earning it; the type-specificity argument identifies the unsupported foundational move and supplies a structural grounding establishable from the form of the explananda rather than from the disputed conclusion) + Mode Three honesty about residue (whether type-specific reductive demands will be met is genuinely open and the convergence argument cannot pre-empt it).
+- **Tenet alignment**: methodological + [Dualism](/tenets/#dualism) + [reductionism-and-consciousness](/topics/reductionism-and-consciousness/). The fix tightens the central rebuttal to convergence-on-falsehood without strengthening the conclusion past what the discipline supports — it converts a circular disanalogy into a non-circular one and explicitly bounds the disanalogy's reach.
+- **Published**: yes (article was already `draft: false`)
+- **Remaining work**: Issue 3 (irreducibility-vs-dualism propagation) tracked as separate P2 refine-draft task in todo.md; Issues 4–6 (medium severity) tracked as a P3.
+
+## 2026-05-10 07:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Mode**: Targeted fix (Issue 1 of [pessimistic-2026-05-10](/reviews/pessimistic-2026-05-10/))
+- **Word count**: ~3220 → ~3470 (+250 words; new defence of Cluster 3 independence + intentionality concession)
+- **Changes**: Added two paragraphs to §The Bayesian Structure between the Cluster 3 description and the cumulative-force summary — (1) a direct defence of Cluster 3's independence in heterophenomenologist-accepted vocabulary, anchored to the binding problem in vision science as a third-person tractable explanandum (binocular rivalry, attentional blink, feature-binding deficits) that does not reduce to reports-about-phenomenal-contents; (2) an honest concession that intentionality's third-person establishability is contested (naturalised semantics — Dretske, Millikan — is unfinished; eliminativism denies aboutness picks out a real explanandum), so the cluster's overall independence is well-supported for the unity prong and weaker for the intentionality prong. Propagated the calibration: rewrote the cumulative-force closer to "two clearly independent clusters and a third whose independence is partially earned" (replacing "three substantially independent lines of evidence"), and softened the response to the phenomenal concept strategy at line 90 from "has less traction with Cluster 3" to "depends on whether unity and intentionality reduce to reports-about-phenomenal-contents or have independent third-person establishability... the strategy's success against Cluster 3 is therefore partial rather than blocked".
+- **Engagement classification (editor-internal)**: engagement with Dennett: Mode Two (the heterophenomenologist's collapse of Cluster 3 into Cluster 1 is identified as helping itself to the partition's verdict; the binding-problem reply derives the unity prong's independence from third-person psychophysical evidence the heterophenomenologist already accepts) + Mode Three for intentionality (the article honestly notes that aboutness's third-person establishability is bedrock-contested rather than refuted within the heterophenomenologist's framework).
+- **Tenet alignment**: methodological + [Dualism](/tenets/#dualism). The fix tightens the Bayesian discipline without weakening the dualist conclusion — it converts an asserted three-cluster claim into a defended two-and-a-partial-cluster claim, which is what the article's "substantially stronger than any single argument" framing actually needs.
+- **Published**: yes (article was already `draft: false`)
+- **Remaining work**: Issues 2 (vitalism disanalogy temporal-vs-structural) and 3 (irreducibility-vs-dualism propagation) tracked as separate P2 refine-draft tasks in todo.md; Issues 4–6 (medium severity) tracked as a P3.
+
+## 2026-05-10 06:39 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) (3,220 words; last `ai_modified` 2026-05-10T03:16; last pessimistic review 2026-03-30, 41 days prior)
+- **Output**: [pessimistic-2026-05-10](/reviews/pessimistic-2026-05-10/)
+- **Key findings**: Three high-severity structural issues — (1) Cluster 3 (unity, intentionality) independence from Cluster 1 (phenomenal intuition) is asserted but not argued in vocabulary the heterophenomenologist accepts; (2) the vitalism disanalogy is temporal (the gap "has not narrowed") presented as structural (the gap "cannot narrow"), and a vitalist in 1820 could have made the identical observation; (3) cross-cultural convergence supports irreducibility-of-consciousness, not dualism specifically — the article concedes this at line 130 then disregards the qualifier in lede, Bayesian section, and Relation-to-Site-Perspective. Three medium-severity issues on phenomenal concept strategy dispatch, cognitive closure overreach, and Zhuangzi/Neo-Confucian citations not naturally delivering irreducibility-recognition. No editor-vocabulary leakage; Bayesian cluster analysis and Bloom rebuttal are genuine strengths.
+- **Tasks added**: 3 P2 refine-draft tasks targeting the high-severity issues.
 
 ## 2026-05-10 06:10 UTC - condense
 - **Status**: Success
