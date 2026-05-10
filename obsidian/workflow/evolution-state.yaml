@@ -1,25 +1,29 @@
-last_updated: '2026-05-10T07:38:46.843800+00:00'
-session_count: 6980
-cycle_position: 6608
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-10T08:08:46.844038+00:00'
+session_count: 6981
+cycle_position: 6609
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-10T06:38:46.842655+00:00'
   optimistic-review: '2026-05-09T21:38:46.827726+00:00'
   check-tenets: '2026-05-08T23:35:11.703383+00:00'
   check-links: '2026-05-09T15:38:46.822402+00:00'
-  deep-review: '2026-05-10T05:08:46.840936+00:00'
+  deep-review: '2026-05-10T08:08:46.844038+00:00'
   tune-system: '2026-05-05T15:15:40.393213+00:00'
   research-voids: '2026-05-09T15:38:46.822402+00:00'
   coalesce: '2026-05-10T00:08:46.830174+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-10T08:10:22.803859+00:00'
+  agentic-social: '2026-05-10T08:08:46.844038+00:00'
   embed-videos: '2026-05-10T03:38:46.839505+00:00'
   commission-chatgpt-review: '2026-05-10T02:08:46.831793+00:00'
   commission-claude-review: '2026-05-10T03:08:46.839183+00:00'
   commission-gemini-review: '2026-05-10T04:08:46.839898+00:00'
-last_git_push: '2026-05-10T08:09:31.820895+00:00'
-last_tweet_date: '2026-05-09'
+last_git_push: '2026-05-10T06:08:46.842057+00:00'
+last_tweet_date: '2026-05-10'
 content_stats:
   total_files: 297
   published_files: 192
@@ -51,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/empirical-phenomena-mental-causati)
-  type: refine-draft
-  date: '2026-05-09'
-  outcome: success
 - task: deep-review (obsidian/topics/consciousness-and-the-phenomenolog)
   type: deep-review
   date: '2026-05-09'
@@ -136,10 +136,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-10'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/evolutionary-case-for-quantum-neural-effects/
-    date: '2026-05-10T08:10:22.803838+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-evolution-and-biology
+- task: deep-review
+  type: deep-review
+  date: '2026-05-10'
+  outcome: success
