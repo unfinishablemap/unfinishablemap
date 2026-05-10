@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T08:38:00+00:00
+ai_modified: 2026-05-10T09:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 09:09 UTC - condense
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Before**: 5386 words
+- **After**: 4145 words
+- **Reduction**: 23%
+- **Technique**: Removed self-marked AI refinement log (~620 words); compressed seven-traditions framings (each para tightened); trimmed redundant hedging in diagnostic-signature, real-time, and across-time sections; consolidated cluster-establishes paragraphs; tightened constrain-vs-establish symmetric paragraph and worked example. Preserved opening summary, all argumentative structure, voice, the despite-/because-commitments sub-class distinction, common-cause caveat, and Relation to Site Perspective in full.
 
 ## 2026-05-10 08:38 UTC - refine-draft
 - **Status**: Success

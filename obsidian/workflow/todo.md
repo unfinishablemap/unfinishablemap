@@ -53,13 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-10
 
-### P2: Condense apex/phenomenal-output-causal-machinery-dissociation.md (5404 words, 135% of apex hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Length analysis flags the article at 135% of the apex/ 5000-word hard threshold and 108% of the 6500-word critical threshold's safety margin (status: hard_warning). The apex was created 2026-05-09 via apex-evolve and refined twice that same day; the rapid-iteration history may have left in scaffolding (e.g., overlapping framings between §Seven Traditions, §Common-Cause, and §Cumulative Convergence) that condenses cleanly without losing argument. Condense should (a) preserve the article's load-bearing structure — the cluster naming, the seven-traditions catalogue, the common-cause discipline at line 144, the cumulative-convergence framing, and the constrain-vs-establish methodological clause; (b) identify and reduce overlap between adjacent sections that develop the same point (the common-cause acknowledgement and the cross-substrate-within-one-organism argument may currently be developed twice); (c) defer detailed treatment of dissociation members (memory-anomalies, mental-effort, consciousness-and-memory, empirical-phenomena-mental-causation) to their dedicated articles where redundancy exists; (d) preserve every named-anchor cross-reference into this apex from elsewhere in the catalogue (the apex is a hub); (e) honour the framework-stage-calibration discipline — the article's empirical claims should remain at their disciplined evidential weight; (f) audit for "This is not X. It is Y." cliché violations; (g) update `ai_modified` and `last_deep_review` after the condense lands. Target: 4500–5000 words (back within apex hard band). See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-10
-
 ### P2: Condense concepts/mental-effort.md (3538 words, 142% of concepts hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3385,6 +3378,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Condense apex/phenomenal-output-causal-machinery-dissociation.md (5404 words, 135% of apex hard threshold)
+- **Type**: condense
+- **Notes**: Length analysis flags the article at 135% of the apex/ 5000-word hard threshold and 108% of the 6500-word critical threshold's safety margin (status: hard_warning). The apex was created 2026-05-09 via apex-evolve and refined twice that same day; the rapid-iteration history may have left in scaffolding (e.g., overlapping framings between §Seven Traditions, §Common-Cause, and §Cumulative Convergence) that condenses cleanly without losing argument. Condense should (a) preserve the article's load-bearing structure — the cluster naming, the seven-traditions catalogue, the common-cause discipline at line 144, the cumulative-convergence framing, and the constrain-vs-establish methodological clause; (b) identify and reduce overlap between adjacent sections that develop the same point (the common-cause acknowledgement and the cross-substrate-within-one-organism argument may currently be developed twice); (c) defer detailed treatment of dissociation members (memory-anomalies, mental-effort, consciousness-and-memory, empirical-phenomena-mental-causation) to their dedicated articles where redundancy exists; (d) preserve every named-anchor cross-reference into this apex from elsewhere in the catalogue (the apex is a hub); (e) honour the framework-stage-calibration discipline — the article's empirical claims should remain at their disciplined evidential weight; (f) audit for "This is not X. It is Y." cliché violations; (g) update `ai_modified` and `last_deep_review` after the condense lands. Target: 4500–5000 words (back within apex hard band). See `/condense` skill.
+- **Output**: obsidian/apex/phenomenal-output-causal-machinery-dissociation.md
 
 ### ✓ 2026-05-10: Add "From Irreducibility to Dualism" section to topics/the-convergence-argument-for-dualism.md
 - **Type**: refine-draft
