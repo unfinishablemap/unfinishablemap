@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T18:09:00+00:00
+ai_modified: 2026-05-10T10:38:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense topics/the-convergence-argument-for-dualism.md (4065 words, 102% of topics hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 4000-word hard_warning threshold for `topics/`. Result of three same-day refines (2026-05-10) that installed (a) the Cluster 3 binding-problem prong with intentionality concession at lines 86–88, (b) the type-specificity vitalism disanalogy with explicit bound on its reach at lines 158–162, (c) the irreducibility-to-dualism two-step via the bidirectional-interaction tenet at lines 138–150. Each refine added load-bearing material that should be preserved; the bloat is in connective scaffolding, recap clauses, and overlapping framing across the three additions. Condense should (a) preserve all three new structural commitments and the named-anchor cross-references they install; (b) preserve the Bayesian section's recalibration to "two clearly independent clusters and a third partially earned"; (c) preserve the cross-cultural section's qualifier and its propagation through the conclusion (resolved Issue 3 from pessimistic-2026-05-10); (d) preserve the type-specificity bound on the vitalism disanalogy (resolved Issue 2 from pessimistic-2026-05-10); (e) trim transitional and recap material added across the multi-pass refines; (f) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (g) honour framework-stage-calibration discipline; (h) target ~3500–3800 words (back into soft band, off hard threshold); (i) update `ai_modified` after the condense lands. Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See `/condense` skill and [[reviews/pessimistic-2026-05-10]] for the structural commitments to preserve.
+- **Source**: length_analysis
+- **Generated**: 2026-05-10
+
+### P2: Condense topics/empirical-phenomena-mental-causation.md (4197 words, 105% of topics hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 4000-word hard_warning threshold for `topics/` again after the 2026-05-09 refine-draft addressing pessimistic-2026-05-09 Issues 1–3 (non-sequitur rewrite at line 106, boundary-substitution upgrade at lines 147–155, joint-strength reconstruction at lines 137–145) re-grew the article from 3144 words back to 4197. The refine added load-bearing argumentative repair to the placebo+choking joint case that must be preserved; the bloat is in connective scaffolding layered over the post-coalesce, post-condense, post-refine history. Condense should (a) preserve the joint-framing claim — that placebo and choking together exhibit the bidirectional signature of mental causation more clearly than either alone — which is the article's load-bearing structural commitment; (b) preserve the substrate-difference argument (humoral/neurochemical vs motor-cortical) that makes the joint case harder to absorb under unified rivals than either case alone; (c) preserve the corrected non-sequitur (the phenomenal-character-targeted version) and the upgraded epiphenomenalist-challenge section's in-framework move; (d) preserve the open-label-placebo argument-shift marking; (e) preserve all citation work installed in the 2026-05-09 refine (Beilock & Carr, Masters, Beilock et al., the verified Benedetti or alternative attribution, the hedged Marueckova claim, the Tulving-to-motor-execution rephrase); (f) trim redundant framing introduced across the layers; (g) audit for "This is not X. It is Y." cliché violations; (h) target ~3300–3700 words (back into soft band); (i) update `ai_modified` after the condense lands. Tenet alignment: [[tenets#^bidirectional-interaction|Bidirectional Interaction]] (load-bearing) + methodological. See `/condense` skill and [[reviews/pessimistic-2026-05-09]] for the structural commitments to preserve.
+- **Source**: length_analysis
+- **Generated**: 2026-05-10
+
+### P2: Install five cross-link suggestions from optimistic-2026-05-10 cross-linking table
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From [[reviews/optimistic-2026-05-10]] §Cross-Linking Suggestions table — five concrete cross-links missing across the convergence-argument and problem-of-other-properties content cluster. (1) `topics/the-convergence-argument-for-dualism.md` (§From Irreducibility to Dualism) → `concepts/bidirectional-interaction.md` — line 150 references the [[tenets#^bidirectional-interaction]] anchor but does not link to the concept article that develops the tenet's positive thesis; install sentence-level link letting readers follow the load-bearing positive-selection step to its supporting article. (2) `topics/the-convergence-argument-for-dualism.md` (§Convergence Across Traditions) → `topics/cross-traditional-convergence-on-consciousness-irreducibility.md` — article cites the companion at line 126 but does not flag that the new "From Irreducibility to Dualism" section (line 138) is the structural-honesty propagation the cross-traditional article's evidence specifically requires; install bridging clause naming the inferential chain. (3) `topics/consciousness-and-the-problem-of-other-properties.md` (§Asymmetry with Self-Knowledge) → `apex/phenomenal-output-causal-machinery-dissociation.md` — line 87 ("if our own phenomenal states are partially opaque to us, the interpersonal problem only deepens") is structurally adjacent to the dissociation cluster's *self-opacity* face; install cross-link with bridging clause to consolidate the Map's epistemic-limit infrastructure. (4) `topics/consciousness-and-the-problem-of-other-properties.md` (§What Would Challenge This View?) → `concepts/illusionism.md` (or `topics/illusionism-and-the-meta-problem.md` equivalent) — line 95's illusionism-without-regress falsifier is the structurally-strongest move against the article's thesis but is not linked to a fuller treatment of illusionism. (5) `topics/the-convergence-argument-for-dualism.md` (§The Common-Cause Objection) → `project/common-cause-null.md` — line 100 names the methodology version of the common-cause objection but does not link to the project-tier discipline article that the Map maintains for exactly this kind of cross-reviewer convergence. Honour reciprocal-link discipline — substantive bridging clauses where structurally warranted, not bare Further Reading entries. Verify each target file exists before installing the link (some link targets may need adjustment if articles have been renamed or coalesced). Short scope (~150–300 words touched across three source articles). Tenet alignment: methodological. See [[reviews/optimistic-2026-05-10]] §Cross-Linking Suggestions.
+- **Source**: optimistic-review
+- **Generated**: 2026-05-10
 
 ### P3: Cross-review topics/epistemology-of-convergence-arguments.md against the convergence article's three new structural commitments
 - **Type**: cross-review
