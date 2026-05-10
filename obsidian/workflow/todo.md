@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Cross-review topics/consciousness-and-cognitive-distinctiveness.md against the baseline-cognition convergence
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-10b. Baseline-cognition has now converged after 9 reviews (commit `8b3a3853d`); the threshold-hypothesis companion may not yet reflect the convergence-stable framing baseline-cognition installed today. Verify (a) the threshold-hypothesis article's framing of the "phase transition in cognitive evolution" is structurally consistent with baseline-cognition's now-converged five-falsifier discipline; (b) the threshold-hypothesis article identifies the baseline-cognition page as the *starting-point characterisation* (per baseline-cognition's line 57 self-description) rather than as a parallel argument; (c) the threshold-hypothesis article inherits baseline-cognition's load-bearing-claim delocalisation (the central inference is about pattern-of-capacity correspondence, not about great-ape phenomenal status directly). Short scope (~150–300 words touched). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction).
+- **Source**: optimistic-review (2026-05-10b)
+- **Generated**: 2026-05-10
+
+### P3: Cross-review topics/consciousness-and-integrated-information.md against the-binding-problem's IIT engagement
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-10b. The-binding-problem article engages IIT at three points (lines 157, 169) and cross-links to the Map's IIT critique. The cross-review should verify the companion article's three named objections (passivity, expander graph, temporal gap) are structurally consistent with the-binding-problem's three IIT engagement-points. Specifically: (a) whether the companion article's expander-graph objection is referenced at the-binding-problem's BP2 grain (the expander graph is the structural argument that high-Φ systems can be designed to lack the cross-modal integration the article's BP2 framing requires); (b) whether the temporal-gap objection is connected to the-binding-problem's temporal-binding section; (c) whether the companion article reciprocates the-binding-problem's article-level link with a cross-back to the five-variety architecture. Short scope (~150–300 words touched). Tenet alignment: methodological + Tenet 1 (Dualism).
+- **Source**: optimistic-review (2026-05-10b)
+- **Generated**: 2026-05-10
+
+### P3: Develop project doc on cluster-integration discipline as methodological pattern
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-10b. The catalogue now has three exhibits of the same structural discipline: convergence-argument-for-dualism (three clusters: subjective experience / unity / cross-traditional convergence), baseline-cognition (five consciousness-dependent capacities), the-binding-problem (five binding varieties). Each operates the same pattern: a load-bearing inferential move supported by a cluster of independent considerations, with the cluster's strength derived from systematic correspondence rather than from any single member. No consolidated methodological article names this discipline. Write `obsidian/project/cluster-integration-discipline.md` covering: (a) the structural form (independent considerations supporting a load-bearing inference; correspondence-as-strength rather than convergence-as-strength); (b) the calibration register (cluster-internal dependencies reduce effective independence; the correspondence's *systematic* character is the load-bearing feature; per yesterday's convergence-argument refine, two clearly independent clusters and a third partially earned can still yield significant cumulative force); (c) the falsifier-design pattern (each cluster member needs to support a falsifier that would dissociate it from the inference; baseline-cognition's five falsifiers and the-binding-problem's six falsifiability conditions are the catalogue's strongest exhibits); (d) cross-links to the three current exhibits with bridging clauses naming each as a different-grain deployment (metaphysical, functional, phenomenal). Distinguish from convergence-argument-as-such (cluster-integration is the structural form; convergence-argument is one deployment). Estimated 1500–2200 words; project-doc placement (alongside framework-stage-calibration and evidential-status-discipline). Tenet alignment: methodological.
+- **Source**: optimistic-review (2026-05-10b)
+- **Generated**: 2026-05-10
+
+### P3: Cross-link type-specificity concept page (when created) to the-binding-problem and baseline-cognition as exhibits at three grains
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-10b. Yesterday's convergence-argument refine introduced *type-specificity* as a load-bearing concept (line 160 of `topics/the-convergence-argument-for-dualism.md`); per [[reviews/optimistic-2026-05-10]]'s "New Concept Pages Needed" section, that concept page is queued for creation. When created, the concept page should cross-link to both today-reviewed articles as *exhibits at different grains*: vitalism-disanalogy as the original deployment (convergence-argument), perceptual/cognitive/temporal/subject unity as five-variety deployment (the-binding-problem), consciousness-dependent capacities as functional-capacity deployment (baseline-cognition). The cross-link would consolidate the catalogue's emerging *anti-generic-mechanism* discipline into a single referential anchor. **Sequencing**: this task should land *after* the type-specificity concept page itself is created; it is a follow-up cross-review rather than a precondition. Short scope (~150–250 words touched across the three exhibit articles). Tenet alignment: methodological + Tenet 1 (Dualism).
+- **Source**: optimistic-review (2026-05-10b)
+- **Generated**: 2026-05-10
+
 ### P2: Cross-review voids/agency-void.md considering decision-void.md insights
 - **Type**: cross-review
 - **Status**: pending
