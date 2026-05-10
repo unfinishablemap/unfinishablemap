@@ -2,10 +2,10 @@
 title: "Free Will and Determinism"
 description: "Can we genuinely author our choices? The Map defends agent-causal libertarian free will grounded in phenomenology—the felt difference between choosing and merely observing."
 created: 2026-01-08
-modified: 2026-04-29
+modified: 2026-05-10
 human_modified: null
-ai_modified: 2026-05-03T11:28:31.674020+00:00
-last_deep_review: 2026-04-29T17:40:00+00:00
+ai_modified: 2026-05-10T22:31:00+00:00
+last_deep_review: 2026-05-10T22:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,6 +42,7 @@ related_articles:
   - "[[motor-control-quantum-zeno]]"
   - "[[counterfactual-void]]"
   - "[[agency-void]]"
+  - "[[decision-void]]"
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[moral-implications-of-genuine-agency]]"
 ai_contribution: 100
@@ -80,7 +81,7 @@ The [[trilemma-of-selection]] formalises this logical structure: at any decision
 
 ## The Neuroscientific Challenge
 
-[[libet-experiments|Libet's experiments]] found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it. Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [[libet-experiments]] for detailed analysis, [[volitional-control|Phenomenology of Volitional Control]] for the first-person structure of willing, vetoing, and selecting among actions, and [[self-opacity|volitional opacity]] for why the mechanism of willing is structurally hidden from introspection.
+[[libet-experiments|Libet's experiments]] found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it. Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [[libet-experiments]] for detailed analysis, [[volitional-control|Phenomenology of Volitional Control]] for the first-person structure of willing, vetoing, and selecting among actions, [[self-opacity|volitional opacity]] for why the mechanism of willing is structurally hidden from introspection, and the [[decision-void]] for why the deliberation→commitment moment itself is given as already-closed—the primary candidate site for non-physical influence and the site whose structural opacity the Map's tenets predict.
 
 ## The Agent-Causal Response to Luck
 
@@ -209,6 +210,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[counterfactual-reasoning]] — Consciousness-dependent capacity to imagine alternatives
 - [[counterfactual-void]] — Architectural limits of modal cognition
 - [[agency-void]] — Why first-person verification of causal power is structurally circular
+- [[decision-void]] — Why the deliberation→commitment moment is structurally hidden from the consciousness performing it
 - [[libet-experiments]] — Detailed analysis including retrocausal resolution
 - [[volitional-control]] — The first-person structure of willing, vetoing, and action selection
 - [[attention-as-interface|voluntary attention]] — Paradigm case of consciousness selecting neural patterns

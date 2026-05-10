@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/free-will.md considering decision-void.md insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 2026-05-10 expand-topic of `voids/decision-void.md` (2745 words). The new article names the structural opacity at the deliberation→commitment crossing — the *snap* moment when open weighing collapses into sealed choice — and sharply discriminates this void from agency-void (voluntariness/downstream causation), noetic-feelings-void (audited feelings of knowing/rightness), and transit-void (crossings generally). Decision-void's frontmatter lists `topics/free-will` as a primary topic but `obsidian/topics/free-will.md` does not currently link to decision-void (verified 2026-05-10). Cross-review should (a) install a substantive bridging clause where free-will treats the decision moment / collapse-of-deliberation, with a cross-link to `[[voids/decision-void]]`; (b) verify that free-will's treatment of the libertarian / agent-causation moment cleanly distinguishes the three faces decision-void identifies (the discrimination problem, the snap-opacity, and the conjunction of opacity with non-physical-influence-site); (c) check whether free-will's post-condense framing (recent activity 2026-05-10) is consistent with decision-void's identification of the deliberation→commitment crossing as the most theoretically motivated site for non-physical influence; (d) reciprocate `related_articles` if the link would be load-bearing. Short scope (~150–250 words touched). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction) + methodological.
-- **Source**: chain (from 2026-05-10 expand-topic of voids/decision-void.md)
-- **Generated**: 2026-05-10
-
 ### P2: Cross-review topics/forward-in-time-conscious-selection.md considering decision-void.md insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3472,6 +3465,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Cross-review topics/free-will.md considering decision-void.md insights
+- **Type**: cross-review
+- **Notes**: Chain from today's 2026-05-10 expand-topic of `voids/decision-void.md` (2745 words). The new article names the structural opacity at the deliberation→commitment crossing — the *snap* moment when open weighing collapses into sealed choice — and sharply discriminates this void from agency-void (voluntariness/downstream causation), noetic-feelings-void (audited feelings of knowing/rightness), and transit-void (crossings generally). Decision-void's frontmatter lists `topics/free-will` as a primary topic but `obsidian/topics/free-will.md` does not currently link to decision-void (verified 2026-05-10). Cross-review should (a) install a substantive bridging clause where free-will treats the decision moment / collapse-of-deliberation, with a cross-link to `[[voids/decision-void]]`; (b) verify that free-will's treatment of the libertarian / agent-causation moment cleanly distinguishes the three faces decision-void identifies (the discrimination problem, the snap-opacity, and the conjunction of opacity with non-physical-influence-site); (c) check whether free-will's post-condense framing (recent activity 2026-05-10) is consistent with decision-void's identification of the deliberation→commitment crossing as the most theoretically motivated site for non-physical influence; (d) reciprocate `related_articles` if the link would be load-bearing. Short scope (~150–250 words touched). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction) + methodological.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review topics/free-will.md considering decision-void.md insights
 
 ### ✓ 2026-05-10: Condense topics/the-binding-problem.md (4719 words, 157% of target)
 - **Type**: condense

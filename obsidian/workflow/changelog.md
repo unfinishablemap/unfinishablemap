@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T21:31:00+00:00
+ai_modified: 2026-05-10T22:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 22:31 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Context**: Cross-review prompted by today's publication of [[decision-void]] (voids/decision-void.md, 2026-05-10). Verifies cross-article consistency and surfaces cross-link debt.
+- **Word count**: 2765 → 2808 words (+43; 92% → 94% of 3000 soft threshold; within budget, length-neutral mode not activated)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to just-published [[decision-void]])
+- **Enhancements made**: 1 (added [[decision-void]] reference in The Neuroscientific Challenge alongside existing [[libet-experiments]] / [[volitional-control]] / [[self-opacity]] links; added to frontmatter related_articles and Further Reading)
+- **Cumulative review count**: 22 (article remains highly stable)
+- **Convergence note**: Cross-review against decision-void.md surfaced exactly one actionable item (missing cross-link). Three other potential additions (Soon et al. 2008 inline; Tegmark 2000 decoherence inline; deeper Wegner engagement) were diagnosed as scope-creep that belongs in child articles ([[libet-experiments]], [[decoherence]] / [[quantum-consciousness]], and [[decision-void]] respectively) and are now catalogued as bedrock no-flag items in the stability notes.
+- **Pessimistic personas applied**: Churchland (bedrock), Dennett (engaged the predicted asymmetry argument; bedrock), Tegmark (mechanism hedge intact, decoherence delegated to children), Deutsch (MWI argument intact at line 195, now reinforced by decision-void.md's "MWI dissolves the void" parallel), Popper (falsifiability conditions intact, calibration well-hedged), Nagarjuna (bedrock).
+- **Reasoning-mode classification (editor-internal)**: Wegner — Mode One (uses Wegner's concession). Compatibilism — Mode One (internal phenomenological point). Kim — Mode Three (boundary-marking). Schwitzgebel — Mode Two (uses what Schwitzgebel grants about coarse-grained distinctions). No editor-vocabulary label leakage in article body.
+- **Attribution accuracy**: No new attributions introduced. Added clause echoes decision-void.md's own framing rather than originating an external claim.
+- **Optimistic personas applied**: Chalmers/Stapp/Nagel/Whitehead/Kane/McGinn/Birch — all identify stable strengths (trilemma framing, four-component volitional structure, "four independent tricks" argument, Sartre integration, mechanism restraint, agency-void symmetry, falsifiability section). Birch (Hardline Empiricist) check: no possibility/probability slippage detected; calibration is consistent with decision-void.md's "constrains without settling" register.
+- **Output**: [[reviews/deep-review-2026-05-10-free-will]]
 
 ## 2026-05-10 22:01 UTC - deep-review
 - **Status**: Success
