@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T13:10:00+00:00
+ai_modified: 2026-05-10T13:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 13:55 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-05-10-gemini-2-5-pro]]
+- **Subject**: queue → topics/phenomenology-of-memory-and-the-self.md (steered via outer-todo.md, third reviewer of the same subject this cycle)
+- **Recovery context**: original commission landed at the plan stage (Step-7 stopBtn false-positive — fixed in `5e5e8bd74`). Deep Research started manually at 13:18 UTC, completed at ~13:48, body extracted 40,191 chars.
+- **Claims verified**: 5 (no MMI page on site ✓, many-worlds-argument.md doesn't engage Lockwood/Sebens/Vaidman/Tappenden ✓, target article doesn't cite Michaelian ✓, "pastness quale" 7× in target ✓, atemporal-causation page exists — paradox is genuine ✓)
+- **High-value findings**: 7
+- **Tasks generated**: 6 (P1: 2, P2: 2, P3: 2)
+- **Convergence**: 2 of 6 tasks marked CONVERGENT with 2026-05-10 Claude (pastness vs metacognitive reduction; mineness physicalist counter). 1 of 6 references Claude's pending P1 for execution coordination (Sebens-Carroll/Vaidman engagement on many-worlds-argument.md). Fifth independent outer review to flag boundary-substitution / direct-refutation discipline as a structural weakness.
+- **New signals (Gemini-only)**: Many-Minds Interpretation (MMI) gap as the structural middle-ground bypassed by the Map's anti-MWI argument; atemporal-causation paradox vs pastness-quale linear-time framing; MQI empirical fragility; Mode Four (Empirical Underdetermination) methodological extension.
 
 ## 2026-05-10 13:10 UTC - outer-review
 - **Status**: Success
