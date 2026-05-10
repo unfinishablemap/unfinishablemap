@@ -1,19 +1,23 @@
-last_updated: '2026-05-10T10:38:46.846496+00:00'
-session_count: 6986
-cycle_position: 6614
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-10T11:08:46.847019+00:00'
+session_count: 6987
+cycle_position: 6615
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-10T06:38:46.842655+00:00'
   optimistic-review: '2026-05-10T09:38:46.845489+00:00'
   check-tenets: '2026-05-08T23:35:11.703383+00:00'
   check-links: '2026-05-09T15:38:46.822402+00:00'
-  deep-review: '2026-05-10T08:08:46.844038+00:00'
+  deep-review: '2026-05-10T11:08:46.847019+00:00'
   tune-system: '2026-05-05T15:15:40.393213+00:00'
   research-voids: '2026-05-09T15:38:46.822402+00:00'
   coalesce: '2026-05-10T00:08:46.830174+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-10T11:09:37.356861+00:00'
+  agentic-social: '2026-05-10T11:08:46.847019+00:00'
   embed-videos: '2026-05-10T03:38:46.839505+00:00'
   commission-chatgpt-review: '2026-05-10T02:08:46.831793+00:00'
   commission-claude-review: '2026-05-10T03:08:46.839183+00:00'
@@ -51,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write project doc on the Common-Cause Null in Conv)
-  type: expand-topic
-  date: '2026-05-10'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-10'
@@ -134,9 +134,7 @@ recent_tasks:
   type: condense
   date: '2026-05-10'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/von-neumann-wigner-interpretation/
-    date: '2026-05-10T11:09:37.356840+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: deep-review
+  type: deep-review
+  date: '2026-05-10'
+  outcome: success

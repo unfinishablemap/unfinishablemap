@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/empirical-phenomena-mental-causation.md (4197 words, 105% of topics hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 4000-word hard_warning threshold for `topics/` again after the 2026-05-09 refine-draft addressing pessimistic-2026-05-09 Issues 1–3 (non-sequitur rewrite at line 106, boundary-substitution upgrade at lines 147–155, joint-strength reconstruction at lines 137–145) re-grew the article from 3144 words back to 4197. The refine added load-bearing argumentative repair to the placebo+choking joint case that must be preserved; the bloat is in connective scaffolding layered over the post-coalesce, post-condense, post-refine history. Condense should (a) preserve the joint-framing claim — that placebo and choking together exhibit the bidirectional signature of mental causation more clearly than either alone — which is the article's load-bearing structural commitment; (b) preserve the substrate-difference argument (humoral/neurochemical vs motor-cortical) that makes the joint case harder to absorb under unified rivals than either case alone; (c) preserve the corrected non-sequitur (the phenomenal-character-targeted version) and the upgraded epiphenomenalist-challenge section's in-framework move; (d) preserve the open-label-placebo argument-shift marking; (e) preserve all citation work installed in the 2026-05-09 refine (Beilock & Carr, Masters, Beilock et al., the verified Benedetti or alternative attribution, the hedged Marueckova claim, the Tulving-to-motor-execution rephrase); (f) trim redundant framing introduced across the layers; (g) audit for "This is not X. It is Y." cliché violations; (h) target ~3300–3700 words (back into soft band); (i) update `ai_modified` after the condense lands. Tenet alignment: [[tenets#^bidirectional-interaction|Bidirectional Interaction]] (load-bearing) + methodological. See `/condense` skill and [[reviews/pessimistic-2026-05-09]] for the structural commitments to preserve.
-- **Source**: length_analysis
-- **Generated**: 2026-05-10
-
 ### P2: Install five cross-link suggestions from optimistic-2026-05-10 cross-linking table
 - **Type**: refine-draft
 - **Status**: pending
@@ -3413,6 +3406,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Condense topics/empirical-phenomena-mental-causation.md (4197 words, 105% of topics hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word hard_warning threshold for `topics/` again after the 2026-05-09 refine-draft addressing pessimistic-2026-05-09 Issues 1–3 (non-sequitur rewrite at line 106, boundary-substitution upgrade at lines 147–155, joint-strength reconstruction at lines 137–145) re-grew the article from 3144 words back to 4197. The refine added load-bearing argumentative repair to the placebo+choking joint case that must be preserved; the bloat is in connective scaffolding layered over the post-coalesce, post-condense, post-refine history. Condense should (a) preserve the joint-framing claim — that placebo and choking together exhibit the bidirectional signature of mental causation more clearly than either alone — which is the article's load-bearing structural commitment; (b) preserve the substrate-difference argument (humoral/neurochemical vs motor-cortical) that makes the joint case harder to absorb under unified rivals than either case alone; (c) preserve the corrected non-sequitur (the phenomenal-character-targeted version) and the upgraded epiphenomenalist-challenge section's in-framework move; (d) preserve the open-label-placebo argument-shift marking; (e) preserve all citation work installed in the 2026-05-09 refine (Beilock & Carr, Masters, Beilock et al., the verified Benedetti or alternative attribution, the hedged Marueckova claim, the Tulving-to-motor-execution rephrase); (f) trim redundant framing introduced across the layers; (g) audit for "This is not X. It is Y." cliché violations; (h) target ~3300–3700 words (back into soft band); (i) update `ai_modified` after the condense lands. Tenet alignment: [[tenets#^bidirectional-interaction|Bidirectional Interaction]] (load-bearing) + methodological. See `/condense` skill and [[reviews/pessimistic-2026-05-09]] for the structural commitments to preserve.
+- **Output**: obsidian/topics/empirical-phenomena-mental-causation.md
 
 ### ✓ 2026-05-10: Condense topics/the-convergence-argument-for-dualism.md (4065 words, 102% of topics hard threshold)
 - **Type**: condense

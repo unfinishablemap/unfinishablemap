@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T11:09:00+00:00
+ai_modified: 2026-05-10T11:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 11:38 UTC - condense
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Before**: 4197 words
+- **After**: 3081 words
+- **Reduction**: 27%
+- **Technique**: Merged The Illusionist Challenge into a unified "Epiphenomenalist and Illusionist Challenges" section, eliminating the heterophenomenological subsection and substantial duplication of the felt-vs-represented framework-boundary point that appeared three times. Heavy compression of "How the Two Cases Reinforce" — removed the "Two readings of the conjunction" subsection and the redundant fineness-scales paragraph, keeping the four core comparison axes. Tightened the opening (combined two-sided-claim repetition between paras 1 and 3), Why Content Matters, Open-Label Placebos, Conditioning, Interface Revealed, Agent Causation, Relation to Site, and Placebo neurochemistry blocks. Cut Contemplative Convergence by ~30%. Trimmed Further Reading from 13 to 9 entries. Preserved opening summary, video embed, all four reinforcement axes, pain asymbolia point, all three tenet connections, References intact.
 
 ## 2026-05-10 11:09 UTC - deep-review
 - **Status**: Success
