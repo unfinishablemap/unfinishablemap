@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Apply new dissociation-levels rule from evidential-status-discipline across dissociation-using articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 2026-05-10 refine of `obsidian/project/evidential-status-discipline.md`. The rule: *Dissociation arguments must separate four levels — separability (the two phenomena come apart in the data); phenomenological reality (one is a genuine feature of experience); mechanistic independence (different processes underlie them); metaphysical irreducibility (the dissociated feature cannot be physically/functionally explained). Evidence for one level should not automatically be counted as evidence for the next.* Cross-review pass should: (a) identify articles using clinical or anomaly dissociations as load-bearing evidence — Klein & Nichols (2012) patient KC, Capgras, blindsight, alien-hand, Anton's syndrome, Anosognosia, Naccache et al. (2005) effortless-control ACC-lesion, Würzburg–Titchener cognitive-phenomenology dissociation, Tippett/Prebble & Addis (2018) AD/MCI, the just-completed apex/phenomenal-output-causal-machinery-dissociation.md cluster, etc.; (b) for each, verify the article distinguishes the four levels rather than sliding from separability to metaphysical irreducibility; (c) install hedging where the article over-claims; (d) flag articles where the four-level audit reveals load-bearing slides for follow-up refine. The just-completed mineness-inference refine of `topics/phenomenology-of-memory-and-the-self.md` (2026-05-10) is the worked-example template — use that as the pattern for what the audit looks like in practice. Short-medium scope (~400–700 words touched across 5–10 files). Prioritise files that the apex/phenomenal-output-causal-machinery-dissociation cluster cites as source articles (these are the most-load-bearing dissociation-using articles in the catalogue). Tenet alignment: methodological / [[evidential-status-discipline]] / [[direct-refutation-discipline]]. See [[project/evidential-status-discipline]] (post-2026-05-10 refine).
-- **Source**: chain (from refine-draft of evidential-status-discipline.md 2026-05-10)
-- **Generated**: 2026-05-10
-
 ### P3: Cross-review apex/phenomenal-output-causal-machinery-dissociation.md against the three new evidential-status-discipline rules
 - **Type**: cross-review
 - **Status**: pending
@@ -3451,6 +3444,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Apply new dissociation-levels rule from evidential-status-discipline across dissociation-using articles
+- **Type**: cross-review
+- **Notes**: Chain from today's 2026-05-10 refine of `obsidian/project/evidential-status-discipline.md`. The rule: *Dissociation arguments must separate four levels — separability (the two phenomena come apart in the data); phenomenological reality (one is a genuine feature of experience); mechanistic independence (different processes underlie them); metaphysical irreducibility (the dissociated feature cannot be physically/functionally explained). Evidence for one level should not automatically be counted as evidence for the next.* Cross-review pass should: (a) identify articles using clinical or anomaly dissociations as load-bearing evidence — Klein & Nichols (2012) patient KC, Capgras, blindsight, alien-hand, Anton's syndrome, Anosognosia, Naccache et al. (2005) effortless-control ACC-lesion, Würzburg–Titchener cognitive-phenomenology dissociation, Tippett/Prebble & Addis (2018) AD/MCI, the just-completed apex/phenomenal-output-causal-machinery-dissociation.md cluster, etc.; (b) for each, verify the article distinguishes the four levels rather than sliding from separability to metaphysical irreducibility; (c) install hedging where the article over-claims; (d) flag articles where the four-level audit reveals load-bearing slides for follow-up refine. The just-completed mineness-inference refine of `topics/phenomenology-of-memory-and-the-self.md` (2026-05-10) is the worked-example template — use that as the pattern for what the audit looks like in practice. Short-medium scope (~400–700 words touched across 5–10 files). Prioritise files that the apex/phenomenal-output-causal-machinery-dissociation cluster cites as source articles (these are the most-load-bearing dissociation-using articles in the catalogue). Tenet alignment: methodological / [[evidential-status-discipline]] / [[direct-refutation-discipline]]. See [[project/evidential-status-discipline]] (post-2026-05-10 refine).
+- **Output**: obsidian/project/evidential-status-discipline.md -- Context: Apply new dissociation-levels rule from evidential-status-discipline across dissociation-using articles
 
 ### ✓ 2026-05-10: Apply new MWI-checklist rule from evidential-status-discipline across MWI-touching articles
 - **Type**: cross-review

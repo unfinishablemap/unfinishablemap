@@ -1,6 +1,10 @@
-last_updated: '2026-05-10T17:11:45.080426+00:00'
-session_count: 6996
-cycle_position: 6624
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-10T18:01:03.819239+00:00'
+session_count: 6997
+cycle_position: 6625
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-10T06:38:46.842655+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-10T12:08:46.847746+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-10T17:11:45.080426+00:00'
-  agentic-social: '2026-05-10T18:02:02.943437+00:00'
+  agentic-social: '2026-05-10T18:01:03.819239+00:00'
   embed-videos: '2026-05-10T17:11:45.080426+00:00'
   commission-chatgpt-review: '2026-05-10T02:08:46.831793+00:00'
   commission-claude-review: '2026-05-10T03:08:46.839183+00:00'
@@ -51,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/voids/edge-states-and-void-probes.md)
-  type: condense
-  date: '2026-05-10'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-05-10'
@@ -136,9 +136,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-10'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/visual-consciousness/
-    date: '2026-05-10T18:02:02.943415+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: deep-review (obsidian/project/evidential-status-discipline.md -)
+  type: deep-review
+  date: '2026-05-10'
+  outcome: success

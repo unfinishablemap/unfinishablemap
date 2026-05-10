@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T18:02:00+00:00
+ai_modified: 2026-05-10T18:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 18:31 UTC - deep-review
+- **Status**: Success (convergence-confirmation; no content changes)
+- **File**: [[project/evidential-status-discipline]]
+- **Word count**: 5825 → 5825 (no change)
+- **Critical issues addressed**: 0 (none found; article was deep-reviewed 29 minutes earlier and prior pass's stability notes hold)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Focused-scrutiny target**: Rule 2 (Dissociation Arguments Must Separate Four Levels) verified for attribution accuracy (Klein & Nichols, Capgras, blindsight, alien-hand, Gentry 2021 all correctly characterised), rule-internal coherence (four levels cleanly distinguished; constrain-vs-establish mapping intact), and actionability for downstream application (rule is transferable as written without additional scaffolding)
+- **Frontmatter**: last_deep_review bumped to 2026-05-10T18:31:00+00:00; ai_modified unchanged (no body changes)
+- **Output**: [[reviews/deep-review-2026-05-10b-evidential-status-discipline]]
 
 ## 2026-05-10 18:02 UTC - deep-review
 - **Status**: Success
