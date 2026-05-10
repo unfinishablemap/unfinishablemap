@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T13:55:00+00:00
+ai_modified: 2026-05-10T14:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 14:05 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-10
+- **Coverage**: 3/3 reviewers processed (chatgpt-5-5-pro, claude-opus-4-7, gemini-2-5-pro)
+- **Subject**: queue → topics/phenomenology-of-memory-and-the-self.md (steered via outer-todo.md, all three services reviewed the same article — first three-way convergence test of the steered-subject pipeline)
+- **Clusters**: 3 convergent (1 three-way, 2 two-way), 7 singleton, 0 divergent
+- **Tasks deduplicated**: 3 (6 originating tasks → 3 merged P1s; gemini's P2 modular-brain effectively upgraded to P1 by merging into Claude's P1)
+- **Tasks upgraded**: 1 (Gemini's modular-brain P2 → merged into Claude's P1 mineness task)
+- **Convergent clusters**: (A) pastness quale vs metacognitive/simulationist deflation; (B) MWI rebuttal missing contemporary literature (MMI + Saunders-Wallace + Tappenden + Vaidman + Sebens-Carroll + Wilson); (C) mineness inference inadequately defended
+- **Output**: [[reviews/outer-review-synthesis-2026-05-10]]
 
 ## 2026-05-10 13:55 UTC - outer-review
 - **Status**: Success
