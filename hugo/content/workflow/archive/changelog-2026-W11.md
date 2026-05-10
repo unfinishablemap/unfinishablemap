@@ -2496,7 +2496,7 @@ title: AI Activity Changelog - Week 2026-W11
 ## 2026-03-12 02:29 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenal Binding and Multimodal Integration
-- **Output**: [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)
+- **Output**: [phenomenal-binding-and-multimodal-integration](/topics/the-binding-problem/)
 - **Word count**: 1725
 - **Based on research**: yes, [phenomenal-binding-multimodal-integration-2026-01-23](/research/phenomenal-binding-multimodal-integration-2026-01-23/)
 

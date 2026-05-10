@@ -49,7 +49,7 @@ topics: []
 ### Cross-links Added (inbound, from other articles)
 - [visual-consciousness](/concepts/visual-consciousness/) — Spatial Character section now references the 3D world problem
 - [perception-and-conscious-experience](/topics/dualist-perception/) — Perspectival Character section now links to the 3D problem as sharpening the point
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Cross-modal binding section now cites spatial cognition as a specific instance
+- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem/) — Cross-modal binding section now cites spatial cognition as a specific instance
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Synchronic unity section now references spatial unity as a vivid example
 - [explanatory-gap](/concepts/explanatory-gap/) — Perception paragraph now cites the 3D problem as a particularly instructive instance
 - [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) — "Three-dimensional space" in opening paragraph now links to the article

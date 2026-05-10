@@ -25,7 +25,7 @@ last_deep_review: 2026-04-30 11:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[the-binding-problem-a-systematic-treatment]]'
+- '[[the-binding-problem]]'
 - '[[born-rule-and-the-consciousness-interface]]'
 title: Phenomenal Non-Compositionality
 topics:

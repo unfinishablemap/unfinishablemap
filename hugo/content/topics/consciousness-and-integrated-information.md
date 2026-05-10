@@ -42,11 +42,11 @@ related_articles:
 - '[[cognitive-integration-and-the-self]]'
 - '[[binding-problem]]'
 - '[[metaphysics-of-information-under-dualism]]'
-- '[[the-binding-problem-a-systematic-treatment]]'
+- '[[the-binding-problem]]'
 title: Consciousness and Integrated Information
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[the-binding-problem-a-systematic-treatment]]'
+- '[[the-binding-problem]]'
 ---
 
 Integrated Information Theory (IIT) is the most mathematically sophisticated theory of consciousness available. It starts from phenomenology, takes experience seriously, and provides a quantitative measure (phi) for consciousness. The Unfinishable Map agrees with IIT on a key insight: consciousness and integration are intimately connected. Experience is unified—you do not hear the trumpet separately from seeing the performer's fingers move. But IIT made a specific philosophical move that does not follow from this observation: it identified consciousness *with* integrated information, treating them as the same thing. This identity thesis renders consciousness causally inert—a fatal flaw from the Map's interactionist perspective. Integration is better understood as something consciousness *does*, not what consciousness *is*.
@@ -153,7 +153,7 @@ The decoherence objection is serious and must be stated honestly. Tegmark (2000)
 
 ## The Binding Problem Revisited
 
-The [binding problem](/concepts/binding-problem/)—how distributed neural processing produces unified experience—looks different depending on whether integration is treated as identity or activity. [The systematic treatment of binding](/topics/the-binding-problem-a-systematic-treatment/) reveals that this is not one problem but a family of five (intra-modal, cross-modal, temporal, cognitive, and subject binding), each exhibiting the same gap between physical coordination and phenomenal unity. IIT's identity thesis claims to dissolve all five simultaneously, but the dissolution is unsatisfying for the same reason in every case.
+The [binding problem](/concepts/binding-problem/)—how distributed neural processing produces unified experience—looks different depending on whether integration is treated as identity or activity. [The systematic treatment of binding](/topics/the-binding-problem/) reveals that this is not one problem but a family of five (intra-modal, cross-modal, temporal, cognitive, and subject binding), each exhibiting the same gap between physical coordination and phenomenal unity. IIT's identity thesis claims to dissolve all five simultaneously, but the dissolution is unsatisfying for the same reason in every case.
 
 IIT claims to dissolve the binding problem: if consciousness *is* integration, then asking how integration produces consciousness is a category error. But this dissolution is unsatisfying. We can still ask *why* integrated information should be conscious. The binding problem reappears as the question of why phi feels like anything.
 
@@ -185,7 +185,7 @@ The choice between identity and activity frameworks maps directly onto the Map's
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — How consciousness binds moments into unified experience
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive processing as neural machinery for conscious selection
 - [binding-problem](/concepts/binding-problem/) — The puzzle of how distributed processing yields unified experience
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Five varieties of binding that IIT's identity thesis claims to dissolve
+- [the-binding-problem](/topics/the-binding-problem/) — Five varieties of binding that IIT's identity thesis claims to dissolve
 - [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — How integration constitutes the unified self
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information cannot be identical to consciousness under dualism
 - [measurement-problem](/concepts/measurement-problem/) — The quantum puzzle that creates logical space for conscious selection

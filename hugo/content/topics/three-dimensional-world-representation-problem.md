@@ -36,7 +36,7 @@ related_articles:
 title: The 3D World Representation Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[the-binding-problem-a-systematic-treatment]]'
+- '[[the-binding-problem]]'
 - '[[dualist-perception]]'
 ---
 
@@ -117,11 +117,10 @@ This dual-domain reading also addresses the construction problem. The [phenomena
 ## Further Reading
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
+- [the-binding-problem](/topics/the-binding-problem/)
 - [dualist-perception](/topics/dualist-perception/)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
-- [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)
 - [visual-consciousness](/concepts/visual-consciousness/)
 - [capability-division-problem](/voids/capability-division-problem/)
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)

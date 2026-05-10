@@ -9,7 +9,7 @@ last_deep_review: 2026-04-02T18:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[the-binding-problem-a-systematic-treatment]]"
+  - "[[the-binding-problem]]"
   - "[[dualist-perception]]"
 concepts:
   - "[[binding-problem]]"
@@ -114,11 +114,10 @@ This dual-domain reading also addresses the construction problem. The [[binding-
 ## Further Reading
 
 - [[hard-problem-of-consciousness]]
-- [[the-binding-problem-a-systematic-treatment]]
+- [[the-binding-problem]]
 - [[dualist-perception]]
 - [[consciousness-as-perceptual-architect]]
 - [[unity-of-consciousness]]
-- [[phenomenal-binding-and-multimodal-integration]]
 - [[visual-consciousness]]
 - [[capability-division-problem]]
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]]

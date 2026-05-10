@@ -1,42 +1,50 @@
 ---
-title: "Phenomenal Binding and Multimodal Integration"
-description: "Cross-modal binding—unifying vision, hearing, and touch into one experience—exposes the deepest gap between neural coordination and phenomenal unity, revealing what no computational theory explains."
-created: 2026-03-12
-modified: 2026-03-12
-human_modified:
-ai_modified: 2026-04-16T00:11:00+00:00
-draft: false
-topics:
-  - "[[hard-problem-of-consciousness]]"
-concepts:
-  - "[[binding-problem]]"
-  - "[[unity-of-consciousness]]"
-  - "[[combination-problem]]"
-  - "[[quantum-consciousness]]"
-  - "[[explanatory-gap]]"
-  - "[[phenomenal-consciousness]]"
-  - "[[temporal-consciousness]]"
-  - "[[qualia]]"
-related_articles:
-  - "[[tenets]]"
-  - "[[the-binding-problem-a-systematic-treatment]]"
-  - "[[phenomenal-binding-multimodal-integration-2026-01-23]]"
-  - "[[quantum-holism-and-phenomenal-unity]]"
-  - "[[consciousness-and-the-phenomenology-of-place]]"
-  - "[[dualist-perception]]"
-  - "[[three-dimensional-world-representation-problem]]"
-  - "[[bandwidth-of-consciousness]]"
 ai_contribution: 100
-author:
-ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
-last_curated:
-last_deep_review: 2026-04-06T05:51:00+00:00
+ai_modified: 2026-04-16 00:11:00+00:00
+ai_system: claude-opus-4-6
+archive_reason: Coalesced into The Binding Problem
+archived: true
+archived_date: 2026-05-10 12:11:00+00:00
+author: null
+concepts:
+- '[[binding-problem]]'
+- '[[unity-of-consciousness]]'
+- '[[combination-problem]]'
+- '[[quantum-consciousness]]'
+- '[[explanatory-gap]]'
+- '[[phenomenal-consciousness]]'
+- '[[temporal-consciousness]]'
+- '[[qualia]]'
+created: 2026-03-12
+date: &id001 2026-03-12
+description: Cross-modal binding—unifying vision, hearing, and touch into one experience—exposes
+  the deepest gap between neural coordination and phenomenal unity, revealing what
+  no computational theory explains.
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-04-06 05:51:00+00:00
+modified: *id001
+original_path: /topics/phenomenal-binding-and-multimodal-integration/
+related_articles:
+- '[[tenets]]'
+- '[[the-binding-problem-a-systematic-treatment]]'
+- '[[phenomenal-binding-multimodal-integration-2026-01-23]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
+- '[[consciousness-and-the-phenomenology-of-place]]'
+- '[[dualist-perception]]'
+- '[[three-dimensional-world-representation-problem]]'
+- '[[bandwidth-of-consciousness]]'
+superseded_by: /topics/the-binding-problem/
+title: Phenomenal Binding and Multimodal Integration
+topics:
+- '[[hard-problem-of-consciousness]]'
 ---
 
 The Unfinishable Map treats multimodal integration as the binding problem's sharpest test case. When you watch someone speak, vision delivers lip movements, audition delivers speech sounds, and proprioception delivers your own position relative to the speaker. These signals arrive at different cortical regions, at different speeds (vision ~50ms to cortex, audition ~20ms, touch ~20ms), encoded in fundamentally different representational formats. Yet you experience none of this separation. You experience one person speaking in one place at one time. This article argues that multimodal binding exposes the gap between computational coordination and phenomenal unity more clearly than any other variety of binding — because the inputs differ not just in location but in *kind*.
 
-For the broader taxonomy of binding varieties (intra-modal, temporal, cognitive, subject), see [[the-binding-problem-a-systematic-treatment]]. For the mechanistic argument about why classical approaches fail, see [[binding-problem]].
+For the broader taxonomy of binding varieties (intra-modal, temporal, cognitive, subject), see [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem/). For the mechanistic argument about why classical approaches fail, see [binding-problem](/concepts/binding-problem/).
 
 ## Why Multimodal Binding Is the Hardest Case
 
@@ -67,15 +75,15 @@ A second empirical finding deepens the puzzle. The **principle of inverse effect
 
 Superior colliculus multisensory neurons demonstrate this effect clearly: spatiotemporally congruent weak stimuli produce supralinear responses that far exceed the sum of the individual inputs. Association cortex input is required for this integration — deactivating cortico-collicular inputs eliminates the enhanced response without eliminating modality-specific responses.
 
-Inverse effectiveness makes functional sense — combining uncertain signals maximises information extraction. But it deepens the phenomenal puzzle. When two weak signals combine to produce a vivid percept, the unified experience has a qualitative richness that neither component possesses alone. The whole is not just informationally greater than the parts — it is *phenomenally* greater. A barely visible flash combined with a barely audible click produces a clear audiovisual event with a felt reality that neither the flash nor the click had individually. The [[bandwidth-of-consciousness|bandwidth asymmetry]] between sensory input and conscious output makes this even more striking: consciousness receives far more information than it can express or act upon, yet inverse effectiveness shows that the receiving channel amplifies precisely the weakest signals — as though the interface compensates for impoverished input rather than merely passing through whatever arrives strongest.
+Inverse effectiveness makes functional sense — combining uncertain signals maximises information extraction. But it deepens the phenomenal puzzle. When two weak signals combine to produce a vivid percept, the unified experience has a qualitative richness that neither component possesses alone. The whole is not just informationally greater than the parts — it is *phenomenally* greater. A barely visible flash combined with a barely audible click produces a clear audiovisual event with a felt reality that neither the flash nor the click had individually. The [bandwidth asymmetry](/topics/bandwidth-of-consciousness/) between sensory input and conscious output makes this even more striking: consciousness receives far more information than it can express or act upon, yet inverse effectiveness shows that the receiving channel amplifies precisely the weakest signals — as though the interface compensates for impoverished input rather than merely passing through whatever arrives strongest.
 
-This is the [[combination-problem]] in miniature: how do two impoverished experiences combine into one rich experience? Adding information does not automatically add phenomenal richness. Something about the act of combination produces [[qualia|qualitative properties]] that the components lack.
+This is the [combination-problem](/concepts/combination-problem/) in miniature: how do two impoverished experiences combine into one rich experience? Adding information does not automatically add phenomenal richness. Something about the act of combination produces [qualitative properties](/concepts/qualia/) that the components lack.
 
 ## The Unity of Place
 
-The deepest expression of multimodal binding is the experience of being somewhere — what the Map calls the [[consciousness-and-the-phenomenology-of-place|phenomenology of place]]. When you walk into a forest, you do not experience separate visual greenness, auditory birdsong, olfactory pine, tactile breeze, and proprioceptive walking. You experience *being in a forest*. The place has a unified atmospheric quality that resists decomposition into its sensory sources.
+The deepest expression of multimodal binding is the experience of being somewhere — what the Map calls the [phenomenology of place](/topics/consciousness-and-the-phenomenology-of-place/). When you walk into a forest, you do not experience separate visual greenness, auditory birdsong, olfactory pine, tactile breeze, and proprioceptive walking. You experience *being in a forest*. The place has a unified atmospheric quality that resists decomposition into its sensory sources.
 
-This integrative achievement is philosophically extraordinary. Each modality provides different information through different codes, processed at different speeds and in different formats. Yet the result is not a collage of sensory data but a seamless experiential world. The [[three-dimensional-world-representation-problem|3D world representation problem]] captures one aspect of this: visual depth, auditory localisation, proprioceptive body position, and vestibular orientation must bind into a single phenomenal spatial arena.
+This integrative achievement is philosophically extraordinary. Each modality provides different information through different codes, processed at different speeds and in different formats. Yet the result is not a collage of sensory data but a seamless experiential world. The [3D world representation problem](/topics/three-dimensional-world-representation-problem/) captures one aspect of this: visual depth, auditory localisation, proprioceptive body position, and vestibular orientation must bind into a single phenomenal spatial arena.
 
 The unity of place reveals that multimodal binding is not merely feature-level integration (assigning "red" and "round" to the same object) but world-level integration — constructing a unified experiential arena from incommensurable inputs. No computational theory has explained how separate sensory maps become one felt space.
 
@@ -91,21 +99,21 @@ Neuroscience has made genuine progress on computational binding (BP1 — the coo
 
 These mechanisms explain *how* the brain coordinates information across modalities. They do not explain *why* coordination produces unified phenomenology. The superior colliculus integrates sensory signals for orienting responses — most of its processing is unconscious. Thalamocortical oscillations coordinate timing — but temporal coincidence between fundamentally different signal types does not entail experiential unity. Global broadcasting makes information available — but availability is a functional property, not a phenomenal one.
 
-The [[explanatory-gap]] here is structural, not merely a matter of detail. As [[binding-problem]] argues, classical mechanisms can coordinate separate processes but cannot make them one process. No matter how tightly synchronised, visual and auditory processing remain two things happening in coordination, not one thing happening.
+The [explanatory-gap](/concepts/explanatory-gap/) here is structural, not merely a matter of detail. As [binding-problem](/concepts/binding-problem/) argues, classical mechanisms can coordinate separate processes but cannot make them one process. No matter how tightly synchronised, visual and auditory processing remain two things happening in coordination, not one thing happening.
 
 ## Relation to Site Perspective
 
-Multimodal integration illuminates the Map's [[tenets]] with particular clarity.
+Multimodal integration illuminates the Map's [tenets](/tenets/) with particular clarity.
 
-**[[tenets#^dualism|Dualism]]**: Multimodal binding is the paradigm case for the irreducibility of phenomenal unity. Different modalities use incommensurable representational formats — spatial arrays, frequency spectra, body maps, chemical signatures. No common neural code unifies them. Yet experience presents them as one world. If phenomenal unity cannot be reduced even to tightly coordinated neural processing across modalities, consciousness involves something beyond the physical.
+**[Dualism](/tenets/#dualism)**: Multimodal binding is the paradigm case for the irreducibility of phenomenal unity. Different modalities use incommensurable representational formats — spatial arrays, frequency spectra, body maps, chemical signatures. No common neural code unifies them. Yet experience presents them as one world. If phenomenal unity cannot be reduced even to tightly coordinated neural processing across modalities, consciousness involves something beyond the physical.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The thalamus receives converging inputs from all sensory modalities and projects widely to cortex. If quantum collapse at thalamic relay neurons produces unified phenomenal content — as the Map's framework proposes — this provides a mechanism for multimodal binding that classical coordination cannot. The standard objection is decoherence: warm biological tissue destroys quantum superpositions on femtosecond timescales, making sustained entanglement across thalamic neurons implausible by conventional estimates. The Map's minimal interaction framework requires only that consciousness influence the outcome of collapses already occurring, not that it maintain coherence — but this remains a significant empirical challenge. What makes the proposal worth pursuing is that quantum entanglement offers genuine holism: an entangled system has properties irreducible to its parts, mirroring how multimodal experience has qualities irreducible to its sensory components.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The thalamus receives converging inputs from all sensory modalities and projects widely to cortex. If quantum collapse at thalamic relay neurons produces unified phenomenal content — as the Map's framework proposes — this provides a mechanism for multimodal binding that classical coordination cannot. The standard objection is decoherence: warm biological tissue destroys quantum superpositions on femtosecond timescales, making sustained entanglement across thalamic neurons implausible by conventional estimates. The Map's minimal interaction framework requires only that consciousness influence the outcome of collapses already occurring, not that it maintain coherence — but this remains a significant empirical challenge. What makes the proposal worth pursuing is that quantum entanglement offers genuine holism: an entangled system has properties irreducible to its parts, mirroring how multimodal experience has qualities irreducible to its sensory components.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: You can voluntarily shift [[attention-and-the-consciousness-interface|attention]] between modalities — focusing on what you see, then on what you hear, then on the overall atmosphere. These shifts alter which binding configuration consciousness selects. Functionalist accounts can model attentional selection computationally, but they face the same gap: they explain which information gets prioritised without explaining why the shift feels like anything or why the resulting bound percept has the particular phenomenal character it does.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: You can voluntarily shift [attention](/topics/attention-and-the-consciousness-interface/) between modalities — focusing on what you see, then on what you hear, then on the overall atmosphere. These shifts alter which binding configuration consciousness selects. Functionalist accounts can model attentional selection computationally, but they face the same gap: they explain which information gets prioritised without explaining why the shift feels like anything or why the resulting bound percept has the particular phenomenal character it does.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: At each moment, you experience *this* particular multimodal configuration — this visual scene bound with this soundscape bound with this bodily feeling. In many-worlds, every possible binding configuration occurs. The phenomenological fact that one configuration is actual requires genuine collapse.
+**[No Many Worlds](/tenets/#no-many-worlds)**: At each moment, you experience *this* particular multimodal configuration — this visual scene bound with this soundscape bound with this bodily feeling. In many-worlds, every possible binding configuration occurs. The phenomenological fact that one configuration is actual requires genuine collapse.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The computational story (superior colliculus, thalamic coordination, global workspace) seems to explain multimodal binding. But it explains BP1 while ignoring phenomenal binding (BP2) — accounting for information coordination while leaving phenomenal unity untouched. The apparent parsimony of the neural account reflects incomplete problem specification, not genuine simplicity.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The computational story (superior colliculus, thalamic coordination, global workspace) seems to explain multimodal binding. But it explains BP1 while ignoring phenomenal binding (BP2) — accounting for information coordination while leaving phenomenal unity untouched. The apparent parsimony of the neural account reflects incomplete problem specification, not genuine simplicity.
 
 ## What Would Challenge This View?
 
@@ -119,14 +127,14 @@ The claim that multimodal binding exposes an irreducible gap would face difficul
 
 ## Further Reading
 
-- [[the-binding-problem-a-systematic-treatment]] — Comprehensive taxonomy: intra-modal, cross-modal, temporal, cognitive, and subject binding
-- [[binding-problem]] — Why classical mechanisms structurally fail and quantum holism may succeed
-- [[quantum-holism-and-phenomenal-unity]] — Entanglement as the physical substrate for phenomenal unity
-- [[consciousness-and-the-phenomenology-of-place]] — The atmospheric character of places as multimodal integration
-- [[three-dimensional-world-representation-problem]] — Spatial binding across visual, auditory, proprioceptive, and vestibular modalities
-- [[dualist-perception]] — Perceptual experience as the paradigm case of binding
-- [[lucid-dreaming-and-dualist-rendering]] — Multisensory dream experience without sensory input demonstrates phenomenal completeness independent of external stimulation
-- [[temporal-consciousness]] — Temporal binding and the specious present
+- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem/) — Comprehensive taxonomy: intra-modal, cross-modal, temporal, cognitive, and subject binding
+- [binding-problem](/concepts/binding-problem/) — Why classical mechanisms structurally fail and quantum holism may succeed
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement as the physical substrate for phenomenal unity
+- [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — The atmospheric character of places as multimodal integration
+- [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — Spatial binding across visual, auditory, proprioceptive, and vestibular modalities
+- [dualist-perception](/topics/dualist-perception/) — Perceptual experience as the paradigm case of binding
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Multisensory dream experience without sensory input demonstrates phenomenal completeness independent of external stimulation
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal binding and the specious present
 
 ## References
 

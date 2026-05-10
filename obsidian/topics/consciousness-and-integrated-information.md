@@ -8,7 +8,7 @@ ai_modified: 2026-04-23T03:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[the-binding-problem-a-systematic-treatment]]"
+  - "[[the-binding-problem]]"
 concepts:
   - "[[integrated-information-theory]]"
   - "[[interactionist-dualism]]"
@@ -34,7 +34,7 @@ related_articles:
   - "[[cognitive-integration-and-the-self]]"
   - "[[binding-problem]]"
   - "[[metaphysics-of-information-under-dualism]]"
-  - "[[the-binding-problem-a-systematic-treatment]]"
+  - "[[the-binding-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -150,7 +150,7 @@ The decoherence objection is serious and must be stated honestly. Tegmark (2000)
 
 ## The Binding Problem Revisited
 
-The [[binding-problem|binding problem]]—how distributed neural processing produces unified experience—looks different depending on whether integration is treated as identity or activity. [[the-binding-problem-a-systematic-treatment|The systematic treatment of binding]] reveals that this is not one problem but a family of five (intra-modal, cross-modal, temporal, cognitive, and subject binding), each exhibiting the same gap between physical coordination and phenomenal unity. IIT's identity thesis claims to dissolve all five simultaneously, but the dissolution is unsatisfying for the same reason in every case.
+The [[binding-problem|binding problem]]—how distributed neural processing produces unified experience—looks different depending on whether integration is treated as identity or activity. [[the-binding-problem|The systematic treatment of binding]] reveals that this is not one problem but a family of five (intra-modal, cross-modal, temporal, cognitive, and subject binding), each exhibiting the same gap between physical coordination and phenomenal unity. IIT's identity thesis claims to dissolve all five simultaneously, but the dissolution is unsatisfying for the same reason in every case.
 
 IIT claims to dissolve the binding problem: if consciousness *is* integration, then asking how integration produces consciousness is a category error. But this dissolution is unsatisfying. We can still ask *why* integrated information should be conscious. The binding problem reappears as the question of why phi feels like anything.
 
@@ -182,7 +182,7 @@ The choice between identity and activity frameworks maps directly onto the Map's
 - [[temporal-consciousness-structure-and-agency]] — How consciousness binds moments into unified experience
 - [[predictive-processing-and-dualism]] — Predictive processing as neural machinery for conscious selection
 - [[binding-problem]] — The puzzle of how distributed processing yields unified experience
-- [[the-binding-problem-a-systematic-treatment]] — Five varieties of binding that IIT's identity thesis claims to dissolve
+- [[the-binding-problem]] — Five varieties of binding that IIT's identity thesis claims to dissolve
 - [[cognitive-integration-and-the-self]] — How integration constitutes the unified self
 - [[metaphysics-of-information-under-dualism]] — Why information cannot be identical to consciousness under dualism
 - [[measurement-problem]] — The quantum puzzle that creates logical space for conscious selection

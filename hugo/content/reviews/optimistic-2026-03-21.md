@@ -112,7 +112,7 @@ The Map demonstrates remarkable epistemic humility throughout. The voids article
 - **Tenet alignment**: Tenet 1 (aesthetic qualia are paradigmatic irreducible experiences), Tenet 5 (aesthetic judgement resists reduction to simple preference)
 
 #### Memory, Consciousness, and Temporal Identity
-- **Builds on**: consciousness-and-temporal-experience, haecceity-and-indexical-identity, the-binding-problem
+- **Builds on**: consciousness-and-temporal-experience, haecceity-and-indexical-identity, [the-binding-problem](/topics/the-binding-problem/)
 - **Would address**: Episodic memory is necessarily conscious — it recreates phenomenal experience, not merely stores information. How memory integrates into a unified temporal identity connects to binding (temporal binding) and indexical identity (why are these memories *mine*?). Procedural vs. episodic memory distinction maps onto the phenomenal/functional divide.
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Tenet 1 (episodic memory has irreducible phenomenal character), Tenet 4 (temporal identity requires single timeline, not branching)

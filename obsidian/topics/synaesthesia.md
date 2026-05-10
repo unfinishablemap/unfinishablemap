@@ -22,8 +22,7 @@ related_articles:
   - "[[synesthetic-void]]"
   - "[[aphantasia]]"
   - "[[imagery-void]]"
-  - "[[phenomenal-binding-and-multimodal-integration]]"
-  - "[[the-binding-problem-a-systematic-treatment]]"
+  - "[[the-binding-problem]]"
   - "[[binding-void]]"
   - "[[voids-between-minds]]"
   - "[[hard-problem-of-consciousness]]"
@@ -122,8 +121,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [[functionalism]] — The theoretical commitment synaesthesia (with aphantasia) jointly pressures
 - [[phenomenal-contrast-method]] — The methodological tool that makes the within-species wedge usable as evidence
 - [[imagery-void]] — The structural treatment of the parallel imagery divergence
-- [[phenomenal-binding-and-multimodal-integration]] — How cross-modal integration architecture relates to synaesthetic cross-modal experience
-- [[the-binding-problem-a-systematic-treatment]] — The broader binding problem within which synaesthesia sits as anomalous binding
+- [[the-binding-problem]] — Cross-modal binding architecture and the broader binding problem within which synaesthesia sits as anomalous binding
 - [[binding-void]] — The structural void where binding falls apart or fails to deliver expected unity
 - [[voids-between-minds]] — The other-minds territory synaesthesia makes concrete within a single species
 - [[evidential-status-discipline]] — The methodological discipline that names the constrain-vs-establish self-discipline applied here to the interface reading

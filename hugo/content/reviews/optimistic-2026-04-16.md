@@ -161,7 +161,7 @@ The Map exhibits genuine epistemic humility without retreating into agnosticism.
 | From | To | Reason |
 |------|-----|--------|
 | [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) | the-hard-problem-of-consciousness | The domestication thesis directly extends the hard problem's scope |
-| [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) | [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) | Cognitive binding in mathematical understanding (holding complex proofs in unified comprehension) |
+| [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) | [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem/) | Cognitive binding in mathematical understanding (holding complex proofs in unified comprehension) |
 | the-phenomenology-of-trust | [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) | Both explore consciousness operating under constraint -- trust under vulnerability, agency under duress |
 | hoel-disproof-llm-consciousness | the-expertise-void | Hoel's continual learning criterion connects to expertise's irreversible transformation of experience |
 | wheeler-participatory-universe | [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) | Wheeler's participatory realism is QBism's ancestor; the genealogy deserves explicit connection |

@@ -36,7 +36,7 @@ related_articles:
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[phenomenology-of-conceptual-frameworks]]'
 - '[[surprise-prediction-error-and-consciousness]]'
-- '[[the-binding-problem-a-systematic-treatment]]'
+- '[[the-binding-problem]]'
 - '[[perceptual-failure-and-the-interface]]'
 - '[[perceptual-degradation-and-the-interface]]'
 - '[[three-dimensional-world-representation-problem]]'
@@ -151,7 +151,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 
 - [dualist-perception](/topics/dualist-perception/) — Perception as the paradigm case for dualism
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How attention mediates consciousness and neural processing
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — The broader problem of phenomenal unity
+- [the-binding-problem](/topics/the-binding-problem/) — The broader problem of phenomenal unity
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — Temporal integration in experience
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — Skill acquisition, deliberate practice, and neural evidence for conscious engagement in plasticity
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws

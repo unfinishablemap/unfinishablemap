@@ -41,7 +41,7 @@ related_articles:
 - '[[tenets]]'
 - '[[neural-binding-quantum-entanglement-2026-01-19]]'
 - '[[quantum-biology-and-neural-consciousness]]'
-- '[[the-binding-problem-a-systematic-treatment]]'
+- '[[the-binding-problem]]'
 - '[[structural-varieties-of-consciousness-and-ai-phenomenology]]'
 title: Quantum Holism and Phenomenal Unity
 topics:
@@ -56,7 +56,7 @@ The [binding problem](/concepts/binding-problem/) distinguishes two challenges. 
 
 The reason BP2 resists solution is structural. Classical physics describes the world in terms of *external relations*: parts alongside parts, events following events, signals between systems. Nothing in this ontology provides for genuine wholes. What we call "wholes" in ordinary physics are collections of parts—convenient labels for arrangements that remain, at bottom, multiplicities. A rock is many atoms; a brain is many neurons; an orchestra is many musicians.
 
-Phenomenal unity is different. Your experience of seeing red while hearing music while feeling your chair is not three separate experiences that happen to coincide. It is one experience with three aspects. This unity is not ascribed from outside; it is constitutive of what the experience is. There is something it is like to have *all of them together* that is not reducible to what it is like to have each separately. For a comprehensive taxonomy of binding varieties—intra-modal, cross-modal, temporal, cognitive, and subject binding—see [The Binding Problem: A Systematic Treatment](/topics/the-binding-problem-a-systematic-treatment/).
+Phenomenal unity is different. Your experience of seeing red while hearing music while feeling your chair is not three separate experiences that happen to coincide. It is one experience with three aspects. This unity is not ascribed from outside; it is constitutive of what the experience is. There is something it is like to have *all of them together* that is not reducible to what it is like to have each separately. For a comprehensive taxonomy of binding varieties—intra-modal, cross-modal, temporal, cognitive, and subject binding—see [The Binding Problem](/topics/the-binding-problem/).
 
 ## Why Classical Mechanisms Fail
 
@@ -196,8 +196,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity, its varieties, and why it resists physical explanation
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of feature binding (BP1 and BP2)
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Comprehensive taxonomy of five binding varieties
-- [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest case, with empirical phenomena (temporal recalibration, inverse effectiveness) that resist classical explanation
+- [the-binding-problem](/topics/the-binding-problem/) — Comprehensive taxonomy of five binding varieties, including cross-modal binding (temporal recalibration, inverse effectiveness) as the hardest case
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gulf between physical and phenomenal
 - [emergence](/concepts/emergence/) — Weak vs strong emergence and consciousness

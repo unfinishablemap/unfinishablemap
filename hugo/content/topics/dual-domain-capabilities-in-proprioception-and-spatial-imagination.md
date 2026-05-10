@@ -32,7 +32,7 @@ title: Dual-Domain Capabilities in Proprioception and Spatial Imagination
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[three-dimensional-world-representation-problem]]'
-- '[[phenomenal-binding-and-multimodal-integration]]'
+- '[[the-binding-problem]]'
 ---
 
 The Unfinishable Map's [dual-domain framework](/concepts/episodic-memory/) argues that memory requires contributions from both physical mechanisms (engrams, reconsolidation) and non-physical consciousness (autonoesis, selectional guidance, phenomenal colouring). Memory is not unique. Proprioception and spatial imagination display the same architecture: physical substrates that encode position data or generate imagery, paired with phenomenal dimensions that the substrates alone cannot explain. The recurrence of this pattern across three cognitively distinct capabilities strengthens the case that dual-domain architecture is a general feature of the mind-body relationship rather than an artefact of how memory happens to work.
@@ -116,7 +116,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 - [somatic-interface](/concepts/somatic-interface/) — Detailed treatment of bodily sensing channels
 - [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — The puzzle of phenomenal spatial experience
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Dreams as evidence for consciousness-generated spatial content
-- [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — How separate modalities unify into spatial experience
+- [the-binding-problem](/topics/the-binding-problem/) — How separate modalities unify into spatial experience
 - [embodied-consciousness](/topics/embodied-consciousness/) — The phenomenology of lived embodiment: ownership, agency, and the dualist interface reading
 - [imagery-void](/voids/imagery-void/) — The introspective face of the same dissociation: why no mind can verify which mode (analytic or object-based) does its rotation work
 

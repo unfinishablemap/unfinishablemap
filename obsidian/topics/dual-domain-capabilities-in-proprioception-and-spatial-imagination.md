@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[three-dimensional-world-representation-problem]]"
-  - "[[phenomenal-binding-and-multimodal-integration]]"
+  - "[[the-binding-problem]]"
 concepts:
   - "[[episodic-memory]]"
   - "[[somatic-interface]]"
@@ -113,7 +113,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 - [[somatic-interface]] — Detailed treatment of bodily sensing channels
 - [[three-dimensional-world-representation-problem]] — The puzzle of phenomenal spatial experience
 - [[lucid-dreaming-and-dualist-rendering]] — Dreams as evidence for consciousness-generated spatial content
-- [[phenomenal-binding-and-multimodal-integration]] — How separate modalities unify into spatial experience
+- [[the-binding-problem]] — How separate modalities unify into spatial experience
 - [[embodied-consciousness]] — The phenomenology of lived embodiment: ownership, agency, and the dualist interface reading
 - [[imagery-void]] — The introspective face of the same dissociation: why no mind can verify which mode (analytic or object-based) does its rotation work
 

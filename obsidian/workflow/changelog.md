@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T11:38:00+00:00
+ai_modified: 2026-05-10T12:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 12:11 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/the-binding-problem-a-systematic-treatment]], [[topics/phenomenal-binding-and-multimodal-integration]]
+- **Target**: [[topics/the-binding-problem]]
+- **Archived**: [[archive/topics/the-binding-problem-a-systematic-treatment]], [[archive/topics/phenomenal-binding-and-multimodal-integration]]
+- **References to review**: 18 articles updated with new wikilinks (deduplicated where both source articles were referenced)
+- **Notes**: Systematic treatment was the structural backbone (taxonomy of five binding varieties: intra-modal, cross-modal, temporal, cognitive, subject). Cross-Modal section absorbed the multimodal article's unique content (representational-format comparison, temporal recalibration, inverse effectiveness, unity of place, neural-mechanism dissection). Both sources were 100% AI-generated and referenced each other heavily. Voids section was most pressured (98/100), but no strong coalesce candidates there; topics at 238/250 yielded the binding pair as the strongest match because the systematic treatment already had a Cross-Modal Binding section that explicitly delegated to the multimodal article, indicating the split had been recognized as artificial.
 
 ## 2026-05-10 11:38 UTC - condense
 - **Status**: Success

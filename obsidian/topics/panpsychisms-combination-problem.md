@@ -149,7 +149,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 - [[idealism]] — An alternative that claims to invert the combination problem
 - [[process-philosophy]] — Whitehead's experiential framework
 - [[interactionist-dualism]] — The Map's alternative framework
-- [[the-binding-problem-a-systematic-treatment]] — The neuroscientific face of the combination problem
+- [[the-binding-problem]] — The neuroscientific face of the combination problem
 - [[mysterianism]] — The possibility that the problem reflects cognitive limits
 
 ## References

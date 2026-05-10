@@ -21,7 +21,7 @@ concepts:
   - "[[functionalism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[the-binding-problem-a-systematic-treatment]]"
+  - "[[the-binding-problem]]"
   - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:

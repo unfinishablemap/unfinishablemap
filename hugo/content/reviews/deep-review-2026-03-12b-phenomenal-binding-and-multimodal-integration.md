@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-12
-**Article**: [Phenomenal Binding and Multimodal Integration](/topics/phenomenal-binding-and-multimodal-integration/)
+**Article**: [Phenomenal Binding and Multimodal Integration](/topics/the-binding-problem/)
 **Previous review**: [2026-03-12](/reviews/deep-review-2026-03-12-phenomenal-binding-and-multimodal-integration/)
 
 ## Pessimistic Analysis Summary
@@ -55,7 +55,7 @@ All six adversarial personas engaged in the previous review. This review confirm
 - Added "What Would Challenge This View?" section (3 specific falsifiability criteria)
 - Added `[[attention-as-selection-interface]]` cross-link in Bidirectional Interaction tenet
 - Added inbound links from 8 existing articles:
-  - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) (cross-modal section + Further Reading)
+  - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem/) (cross-modal section + Further Reading)
   - [phenomenal-binding-and-holism](/concepts/binding-problem/) (Further Reading)
   - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) (body text + Further Reading)
   - [perception-and-conscious-experience](/topics/dualist-perception/) (body text + Further Reading)

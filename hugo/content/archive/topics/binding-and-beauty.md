@@ -40,7 +40,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-When a painting stops you mid-step, the experience is not a list of features noticed in sequence — colour, composition, subject, emotional resonance, intellectual association — but a single aesthetic impression that arrives whole. The Unfinishable Map's treatment of [the binding problem](/topics/the-binding-problem-a-systematic-treatment/) distinguishes five varieties of binding, each revealing gaps in physical explanation. Aesthetic experience presents a sixth, and arguably harder, variety: the binding of sensory qualities, emotional responses, cognitive associations, temporal structure, and evaluative judgement into one unified aesthetic whole. This article argues that aesthetic binding exceeds ordinary perceptual binding in scope and difficulty, and that its resistance to decomposition provides distinctive evidence for the Map's [dualist](/tenets/#dualism) commitments.
+When a painting stops you mid-step, the experience is not a list of features noticed in sequence — colour, composition, subject, emotional resonance, intellectual association — but a single aesthetic impression that arrives whole. The Unfinishable Map's treatment of [the binding problem](/topics/the-binding-problem/) distinguishes five varieties of binding, each revealing gaps in physical explanation. Aesthetic experience presents a sixth, and arguably harder, variety: the binding of sensory qualities, emotional responses, cognitive associations, temporal structure, and evaluative judgement into one unified aesthetic whole. This article argues that aesthetic binding exceeds ordinary perceptual binding in scope and difficulty, and that its resistance to decomposition provides distinctive evidence for the Map's [dualist](/tenets/#dualism) commitments.
 
 ## Beyond Perceptual Binding
 
@@ -59,7 +59,7 @@ Phenomenologically, these elements are not experienced separately and then combi
 
 ## What Makes Aesthetic Binding Harder
 
-The [systematic treatment of binding](/topics/the-binding-problem-a-systematic-treatment/) distinguishes BP1 (computational coordination) from BP2 (phenomenal unity). Aesthetic binding intensifies both problems.
+The [systematic treatment of binding](/topics/the-binding-problem/) distinguishes BP1 (computational coordination) from BP2 (phenomenal unity). Aesthetic binding intensifies both problems.
 
 ### Cross-Domain Integration
 
@@ -127,7 +127,7 @@ The Unfinishable Map's tenets illuminate the aesthetic unity problem from severa
 
 ## Further Reading
 
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
+- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem/)
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
 - [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/)

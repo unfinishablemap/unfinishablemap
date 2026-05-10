@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-05-10 11:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: Genuine social understanding—grasping other minds as minds, build
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 06:13:00+00:00
+last_deep_review: 2026-05-10 11:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -181,8 +181,7 @@ These conditions are offered in good faith, but what counts as "institutional co
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic puzzle at the heart of social cognition
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How dualism reshapes the epistemology of knowing other minds
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt dimension of empathy and emotional understanding
-- [voids-between-minds](/voids/voids-between-minds/) — The structural isolation of consciousness and its role in constituting social life
-- [voids-between-minds](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
+- [voids-between-minds](/voids/voids-between-minds/) — The structural isolation of consciousness, whether experiences can be genuinely shared, and the role of these voids in constituting social life
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Experiential regions permanently beyond external access
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — How phenomenal consciousness shapes moral judgment
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How shared goals and commitments depend on phenomenal subjects

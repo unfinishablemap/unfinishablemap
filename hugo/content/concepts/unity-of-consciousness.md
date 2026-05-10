@@ -149,7 +149,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Extended argument for structural failure of physical explanation
 - [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — The testable hypothesis and experimental evidence for quantum binding
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation
-- [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest synchronic case: temporal recalibration, inverse effectiveness, and the unity of place
+- [the-binding-problem](/topics/the-binding-problem/) — Cross-modal binding as the hardest synchronic case: temporal recalibration, inverse effectiveness, and the unity of place
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — Subject unity and the minimal self
 - [emergence-void](/voids/emergence-void/) — The general cognitive limit at level transitions

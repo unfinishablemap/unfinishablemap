@@ -31,7 +31,7 @@ title: Neural Refresh Rates and the Smoothness Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[temporal-consciousness-structure-and-agency]]'
-- '[[the-binding-problem-a-systematic-treatment]]'
+- '[[the-binding-problem]]'
 ---
 
 The brain processes information in discrete bursts. Neural oscillations sample the world at roughly 7–13 Hz in attention-driving alpha rhythms and bind features at ~40 Hz gamma frequencies. Perceptual experiments confirm these biological "refresh rates" — the flash-lag effect, attentional blink, and wagon-wheel illusion under continuous lighting all reveal periodic sampling rather than continuous monitoring. Yet conscious experience feels seamless. There are no flickers, no dropped frames, no visible gaps between perceptual moments. The Unfinishable Map calls this mismatch the *smoothness problem*: how does continuous phenomenal experience arise from a substrate that operates in discrete cycles? The smoothness problem is not a standalone argument for dualism — it is a concrete, empirically grounded instance of the [explanatory gap](/concepts/explanatory-gap/) between physical processes and phenomenal character. What makes it distinctive is its specificity: where the hard problem can seem abstract, the smoothness problem points to a measurable property of neural processing (discreteness) and a specific phenomenal feature (continuity) that pull in opposite directions.
@@ -112,14 +112,14 @@ The smoothness problem aligns with several of the Map's [tenets](/tenets/).
 
 **Bidirectional interaction.** If consciousness is non-physical and causally efficacious, one possibility is that the mind actively integrates discrete neural inputs into continuous experience — contributing temporal continuity as a structuring principle rather than passively receiving whatever the brain delivers. This is consistent with the [bidirectional interaction tenet](/tenets/#bidirectional-interaction), though the smoothness problem does not require this specific mechanism. The problem stands regardless of which account of mind-brain interaction one adopts.
 
-The smoothness problem also connects to the Map's treatment of [temporal binding](/topics/the-binding-problem-a-systematic-treatment/) and the [grain-mismatch](/concepts/grain-mismatch/). Where the binding problem asks how spatially distributed neural representations become unified percepts at a moment, the smoothness problem asks how temporally distributed neural samples become unified experience across time. The grain mismatch generalises this pattern: phenomenal experience appears smooth and homogeneous across both space and time, while the neural substrate is discrete in both dimensions.
+The smoothness problem also connects to the Map's treatment of [temporal binding](/topics/the-binding-problem/) and the [grain-mismatch](/concepts/grain-mismatch/). Where the binding problem asks how spatially distributed neural representations become unified percepts at a moment, the smoothness problem asks how temporally distributed neural samples become unified experience across time. The grain mismatch generalises this pattern: phenomenal experience appears smooth and homogeneous across both space and time, while the neural substrate is discrete in both dimensions.
 
 The Map's [grain mismatch evidence programme](/topics/grain-mismatch-as-independent-evidence/) frames temporal smoothness as one of three independent structural mismatches — alongside spatial homogeneity (Sellars' original argument) and informational compression (the ~10 bits/second [conscious throughput](/topics/bandwidth-of-consciousness/) against ~10⁹ bits/second neural processing). Each mismatch arises from a different empirical domain, relies on different measurements, and requires a different physicalist response. Their convergence is what gives the programme its collective force: dissolving the temporal mismatch alone would leave the spatial and informational mismatches standing. This independence means the smoothness problem contributes to a cumulative structural case rather than standing or falling on its own.
 
 ## Further Reading
 
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
+- [the-binding-problem](/topics/the-binding-problem/)
 - [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) — The temporal mismatch as part of a convergent evidence programme
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The informational grain mismatch: conscious throughput versus neural processing
 - [timing-gap-problem](/concepts/timing-gap-problem/)
@@ -137,4 +137,4 @@ The Map's [grain mismatch evidence programme](/topics/grain-mismatch-as-independ
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
 7. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 8. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Consciousness: Structure and Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/
-9. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem: A Systematic Treatment. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem-a-systematic-treatment/
+9. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem/

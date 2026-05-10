@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-12
-**Article**: [Phenomenal Binding and Multimodal Integration](/topics/phenomenal-binding-and-multimodal-integration/)
+**Article**: [Phenomenal Binding and Multimodal Integration](/topics/the-binding-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

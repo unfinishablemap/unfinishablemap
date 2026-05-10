@@ -60,7 +60,7 @@ All previously considered counterarguments remain adequately addressed. No new p
 
 ### Cross-links Added
 - [consciousness-collapse-experimental-landscape](/topics/testing-consciousness-collapse/) (body, Further Reading, related_articles)
-- [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) (replaced broken multimodal-binding link)
+- [phenomenal-binding-and-multimodal-integration](/topics/the-binding-problem/) (replaced broken multimodal-binding link)
 
 ## Remaining Items
 

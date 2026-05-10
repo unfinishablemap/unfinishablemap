@@ -53,7 +53,7 @@ Carried forward from previous review — all attributions verified accurate. No 
 - [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) — Added inline link in Dreams section connecting the rendering dilemma to the systematic interface evidence
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Added Further Reading entry for mind-side rendering evidence
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — Added Further Reading entry connecting to the full REM reconfiguration
-- [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Added Further Reading entry for multisensory dream experience without sensory input
+- [phenomenal-binding-and-multimodal-integration](/topics/the-binding-problem/) — Added Further Reading entry for multisensory dream experience without sensory input
 
 Total inbound links: 5 (existing) + 8 (new) = 13
 

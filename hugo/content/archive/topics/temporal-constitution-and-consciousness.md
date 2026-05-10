@@ -48,7 +48,7 @@ topics:
 - '[[non-temporal-consciousness]]'
 ---
 
-Consciousness does not merely exist within time. It constitutes temporal structure—binding discrete moments into melodies, threading premises into arguments, weaving remembered episodes into a self that persists across years. The Unfinishable Map's articles on [binding](/topics/the-binding-problem-a-systematic-treatment/), [intellectual effort](/topics/phenomenology-of-intellectual-life/), [memory](/topics/phenomenology-of-memory-and-the-self/), and [duration](/topics/bergson-and-duration/) each independently reach this conclusion. Taken together, they form a convergent case: temporal constitution is not one feature of consciousness among many but a defining capacity that physical processes cannot replicate.
+Consciousness does not merely exist within time. It constitutes temporal structure—binding discrete moments into melodies, threading premises into arguments, weaving remembered episodes into a self that persists across years. The Unfinishable Map's articles on [binding](/topics/the-binding-problem/), [intellectual effort](/topics/phenomenology-of-intellectual-life/), [memory](/topics/phenomenology-of-memory-and-the-self/), and [duration](/topics/bergson-and-duration/) each independently reach this conclusion. Taken together, they form a convergent case: temporal constitution is not one feature of consciousness among many but a defining capacity that physical processes cannot replicate.
 
 This matters for the Map's core commitments. If consciousness constitutes temporal structure rather than passively registering it, then consciousness performs work that no physical mechanism—however sophisticated—can fully explain. The [explanatory-gap](/concepts/explanatory-gap/) reopens at every timescale, from the milliseconds of a heard melody to the decades of a remembered life.
 
@@ -56,7 +56,7 @@ This matters for the Map's core commitments. If consciousness constitutes tempor
 
 ### Temporal Binding: The Melody Problem
 
-The [binding problem](/topics/the-binding-problem-a-systematic-treatment/) has a temporal dimension that is arguably deeper than its spatial counterpart. Spatial binding asks why redness and roundness unite into a single percept; temporal binding asks why successive notes unite into a melody. The difference is structural: spatially bound features at least coexist. Temporally bound elements, by definition, do not. The just-past note has ceased. The anticipated note hasn't arrived. Yet the present moment contains both through what Husserl called the retention-protention structure.
+The [binding problem](/topics/the-binding-problem/) has a temporal dimension that is arguably deeper than its spatial counterpart. Spatial binding asks why redness and roundness unite into a single percept; temporal binding asks why successive notes unite into a melody. The difference is structural: spatially bound features at least coexist. Temporally bound elements, by definition, do not. The just-past note has ceased. The anticipated note hasn't arrived. Yet the present moment contains both through what Husserl called the retention-protention structure.
 
 Neural mechanisms maintain temporal information—[working-memory](/concepts/working-memory/), hippocampal replay, oscillatory coupling. These explain how the brain retains content across time. They do not explain why retained content is experienced as temporally extended rather than merely stored. Even a recurrent neural network preserves sequential dependencies—each hidden state shaped by its predecessors—without hearing a melody. The constitutional claim is that consciousness does something over and above information retention: it makes succession *felt*, transforming causal sequence into experienced flow.
 
@@ -116,7 +116,7 @@ The Map speculates that temporal constitution may be the most fundamental thing 
 
 - [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/)
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
+- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
 - [bergson-and-duration](/topics/bergson-and-duration/)

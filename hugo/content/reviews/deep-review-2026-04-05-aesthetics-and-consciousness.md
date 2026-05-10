@@ -70,4 +70,4 @@ None. The article is comprehensive and well-structured after this review.
 - The eliminative materialist and functionalist will always resist the subject-dependence premise. This is a bedrock disagreement inherent in the Map's dualist framework, not a flaw to fix.
 - The five-argument convergence structure is the article's core contribution and should be preserved in future reviews.
 - The coalesced nature of this article (from four predecessor articles) means it covers broad ground. Future reviews should resist splitting it back apart—the convergence argument depends on all five lines being presented together.
-- The "aesthetic binding as sixth variety" claim links to [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/). If that article's taxonomy changes, this claim should be updated to match.
+- The "aesthetic binding as sixth variety" claim links to [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem/). If that article's taxonomy changes, this claim should be updated to match.

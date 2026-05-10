@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-12
-**Article**: [The Binding Problem: A Systematic Treatment](/topics/the-binding-problem-a-systematic-treatment/)
+**Article**: [The Binding Problem: A Systematic Treatment](/topics/the-binding-problem/)
 **Previous review**: [2026-02-17](/reviews/deep-review-2026-02-17-the-binding-problem-a-systematic-treatment/)
 
 ## Pessimistic Analysis Summary

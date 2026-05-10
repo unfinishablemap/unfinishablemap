@@ -51,7 +51,7 @@ related_articles:
 - '[[time-collapse-and-agency]]'
 - '[[temporal-structure-consciousness-2026-01-14]]'
 - '[[specious-present-temporal-experience-2026-01-16]]'
-- '[[the-binding-problem-a-systematic-treatment]]'
+- '[[the-binding-problem]]'
 - '[[neural-refresh-rates-and-the-smoothness-problem]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[consciousness-and-skill-acquisition]]'

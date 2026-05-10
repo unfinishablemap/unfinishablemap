@@ -80,7 +80,7 @@ Neural refresh rates bear on the Map's [tenets](/tenets/) at two points.
 
 **Bidirectional interaction.** If consciousness is non-physical and causally efficacious, one possibility is that the mind actively integrates discrete neural inputs into continuous experience — contributing temporal smoothness as a structuring principle rather than passively receiving whatever periodicity the brain delivers. This is consistent with the [bidirectional interaction tenet](/tenets/#bidirectional-interaction), though the smoothness problem does not require this specific mechanism.
 
-The concept of neural refresh rates also connects to the Map's treatment of [temporal binding](/topics/the-binding-problem-a-systematic-treatment/). Where the [binding-problem](/concepts/binding-problem/) asks how spatially distributed representations become unified percepts at a moment, the smoothness problem asks how temporally distributed samples become unified experience across moments — corresponding to the diachronic dimension of the [unity-of-consciousness](/concepts/unity-of-consciousness/). Both resist physical explanation in structurally similar ways: coordination at the neural level does not entail unity at the experiential level. The [continuity void](/voids/smoothness-and-continuity/) develops a further consequence: if temporal smoothness is contributed by consciousness rather than constructed by the brain, consciousness cannot determine its own temporal grain from the inside.
+The concept of neural refresh rates also connects to the Map's treatment of [temporal binding](/topics/the-binding-problem/). Where the [binding-problem](/concepts/binding-problem/) asks how spatially distributed representations become unified percepts at a moment, the smoothness problem asks how temporally distributed samples become unified experience across moments — corresponding to the diachronic dimension of the [unity-of-consciousness](/concepts/unity-of-consciousness/). Both resist physical explanation in structurally similar ways: coordination at the neural level does not entail unity at the experiential level. The [continuity void](/voids/smoothness-and-continuity/) develops a further consequence: if temporal smoothness is contributed by consciousness rather than constructed by the brain, consciousness cannot determine its own temporal grain from the inside.
 
 ## Further Reading
 
@@ -88,7 +88,7 @@ The concept of neural refresh rates also connects to the Map's treatment of [tem
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
 - [grain-mismatch](/concepts/grain-mismatch/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
+- [the-binding-problem](/topics/the-binding-problem/)
 - [binding-problem](/concepts/binding-problem/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Temporal unity as the diachronic dimension of conscious unity
 - [smoothness-and-continuity](/voids/smoothness-and-continuity/) — The smoothness problem and continuity void unified

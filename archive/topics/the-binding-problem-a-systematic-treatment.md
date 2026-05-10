@@ -41,6 +41,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-14
 last_curated:
 last_deep_review: 2026-04-06T04:21:00+00:00
+archived: true
+archived_date: 2026-05-10T12:11:00+00:00
+superseded_by: "/topics/the-binding-problem/"
+archive_reason: "Coalesced into The Binding Problem"
+original_path: "/topics/the-binding-problem-a-systematic-treatment/"
 ---
 
 The Unfinishable Map treats binding as not one problem but a family of related problems, each revealing something distinct about consciousness. The binding problem is usually introduced through vision — how does the brain combine colour, shape, and motion into one object? — but this undersells its scope. Binding operates across sensory modalities, across time, across cognitive domains, and between experiences and their subject. Each variety resists physical explanation in its own way, yet they share a common structure: physical processes that are separate must somehow become experiential wholes. Mapping this family systematically reveals that the difficulty is not piecemeal — it is not that we lack solutions to five separate puzzles — but structural. This article argues that the same gap between coordination and unity appears everywhere consciousness appears.

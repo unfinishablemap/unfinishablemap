@@ -1,13 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10 09:38:00+00:00
+ai_modified: 2026-05-10 12:11:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-10 12:11 UTC - coalesce
+- **Status**: Success
+- **Sources**: [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/), [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)
+- **Target**: [the-binding-problem](/topics/the-binding-problem/)
+- **Archived**: [the-binding-problem-a-systematic-treatment](/archive/topics/the-binding-problem-a-systematic-treatment/), [phenomenal-binding-and-multimodal-integration](/archive/topics/phenomenal-binding-and-multimodal-integration/)
+- **References to review**: 18 articles updated with new wikilinks (deduplicated where both source articles were referenced)
+- **Notes**: Systematic treatment was the structural backbone (taxonomy of five binding varieties: intra-modal, cross-modal, temporal, cognitive, subject). Cross-Modal section absorbed the multimodal article's unique content (representational-format comparison, temporal recalibration, inverse effectiveness, unity of place, neural-mechanism dissection). Both sources were 100% AI-generated and referenced each other heavily. Voids section was most pressured (98/100), but no strong coalesce candidates there; topics at 238/250 yielded the binding pair as the strongest match because the systematic treatment already had a Cross-Modal Binding section that explicitly delegated to the multimodal article, indicating the split had been recognized as artificial.
+
+## 2026-05-10 11:38 UTC - condense
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Before**: 4197 words
+- **After**: 3081 words
+- **Reduction**: 27%
+- **Technique**: Merged The Illusionist Challenge into a unified "Epiphenomenalist and Illusionist Challenges" section, eliminating the heterophenomenological subsection and substantial duplication of the felt-vs-represented framework-boundary point that appeared three times. Heavy compression of "How the Two Cases Reinforce" — removed the "Two readings of the conjunction" subsection and the redundant fineness-scales paragraph, keeping the four core comparison axes. Tightened the opening (combined two-sided-claim repetition between paras 1 and 3), Why Content Matters, Open-Label Placebos, Conditioning, Interface Revealed, Agent Causation, Relation to Site, and Placebo neurochemistry blocks. Cut Contemplative Convergence by ~30%. Trimmed Further Reading from 13 to 9 entries. Preserved opening summary, video embed, all four reinforcement axes, pain asymbolia point, all three tenet connections, References intact.
+
+## 2026-05-10 11:09 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
+- **Word count**: 3333 → 3326 (–7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate Further Reading entry merged)
+- **Enhancements made**: 0 (length-neutral mode at 111% of soft threshold)
+- **Output**: [deep-review-2026-05-10-consciousness-and-social-understanding](/reviews/deep-review-2026-05-10-consciousness-and-social-understanding/)
+- **Notes**: Fourth deep review. Article remains stable; previous review on 2026-03-26c declared it stable and recommended 30-day exclusion. Selector picked it back up at score 90 after 45 days. This pass confirmed: no critical issues, no slippage, no label leakage, attribution accuracy preserved. Reasoning-mode classification: framework-type opponents only (no named-individual opponents), engagements are Mode Three (computationalist) / Mode Two (social constructionist) / Mode Three (functionalist via AI test case). Recommend 60-day exclusion from review selection.
+
+## 2026-05-10 10:45 UTC - condense
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Before**: 4065 words
+- **After**: 3072 words
+- **Reduction**: 24%
+- **Technique**: Tightened the Bayesian Structure cluster discussions (Cluster 3 binding/intentionality paragraphs, phenomenal concept strategy response) into denser prose; trimmed each subsection of "From Irreducibility to Dualism" (panpsychism/neutral monism/idealism/Madhyamaka), removing repetitive framing while keeping each alternative's distinguishing point intact; condensed the vitalism analogy in "What Convergence Does Not Prove" by collapsing its four-paragraph structure into a tighter four-step argument; trimmed redundancy in "Convergence Across Traditions" (subject-object example, qualification paragraph); tightened the three Common-Cause subsections and the Cognitive Closure paragraph; light prose tightening in opening, "Why Convergence Matters", and "What Convergence Does Not Prove" recap. Preserved opening summary, the eight-row argument table, all cluster structure, the irreducibility-to-dualism gate, vitalism disanalogy, Relation to Site Perspective (all three tenet connections), Further Reading, and References intact.
 
 ## 2026-05-10 10:09 UTC - condense
 - **Status**: Success

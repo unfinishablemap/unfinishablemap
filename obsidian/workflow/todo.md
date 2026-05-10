@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Cross-review references to coalesced binding-problem articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: 2026-05-10 coalesce merged `topics/the-binding-problem-a-systematic-treatment` and `topics/phenomenal-binding-and-multimodal-integration` into the single article `topics/the-binding-problem`. 18 articles had their wikilinks updated mechanically (frontmatter, body, Further Reading), with deduplication where both sources were referenced. Spot-check that the merged article fits naturally into context where bridging clauses were specific to one source's framing — particularly: `topics/synaesthesia` (merged Further Reading entry needs a coherent description), `topics/quantum-holism-and-phenomenal-unity` (line 56 alias updated), `topics/three-dimensional-world-representation-problem` (deduped Further Reading), `topics/dualist-perception` (line 118's "Cross-modal binding" alias still appropriate), `concepts/binding-problem` (line 81's "see that article for the dedicated treatment" framing — verify it still works pointing to the unified article rather than the dedicated multimodal article it originally meant). Light scope (~50–150 words touched). Tenet alignment: methodological.
+- **Source**: coalesce
+- **Generated**: 2026-05-10
+
 ### P2: Install five cross-link suggestions from optimistic-2026-05-10 cross-linking table
 - **Type**: refine-draft
 - **Status**: pending

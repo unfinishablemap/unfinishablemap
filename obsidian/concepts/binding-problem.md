@@ -29,7 +29,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[stapp-quantum-mind]]"
   - "[[topics/free-will]]"
-  - "[[phenomenal-binding-and-multimodal-integration]]"
+  - "[[the-binding-problem]]"
   - "[[mysterianism]]"
   - "[[illusionism]]"
   - "[[explanatory-gap]]"
@@ -78,7 +78,7 @@ William James identified what is now called the "combination problem" in the 19t
 
 BP2 is the "hard" aspect of binding. When you experience seeing-and-hearing-simultaneously, there is "something it is like" to have both experiences together that goes beyond having each separately. Bayne and Chalmers call this **conjoint phenomenology**—a phenomenology of simultaneity that subsumes the individual phenomenologies. The unified experience has a phenomenal character of its own, not reducible to the sum of its components.
 
-**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[[phenomenal-binding-and-multimodal-integration|Cross-modal binding]]** concerns features from different senses—see that article for the dedicated treatment. Cross-modal binding makes the explanatory gap maximally stark: different sensory modalities process information in spatially separate cortical regions at different speeds (vision ~50ms, audition ~10ms, touch ~15ms), using different neural codes, yet you experience phenomenal simultaneity and unity—a single multimodal percept, not three separate experiences you then combine.
+**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[[the-binding-problem|Cross-modal binding]]** concerns features from different senses—see that article for the dedicated treatment. Cross-modal binding makes the explanatory gap maximally stark: different sensory modalities process information in spatially separate cortical regions at different speeds (vision ~50ms, audition ~10ms, touch ~15ms), using different neural codes, yet you experience phenomenal simultaneity and unity—a single multimodal percept, not three separate experiences you then combine.
 
 ### The Illusionist Challenge
 
@@ -217,7 +217,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 - [[unity-of-consciousness]] — Phenomenal unity and its varieties; binding is the synchronic dimension
 - [[combination-problem]] — How micro-experiences combine into macro-experience
 - [[quantum-holism-and-phenomenal-unity]] — Extended structural argument for quantum holism, decoherence debate, and experimental evidence
-- [[phenomenal-binding-and-multimodal-integration]] — Cross-modal binding as the hardest case
+- [[the-binding-problem]] — Cross-modal binding as the hardest case
 - [[split-brain-consciousness]] — Natural experiments on when binding fails
 - [[sleep-and-consciousness]] — Sleep as dissociation between BP1 and BP2
 - [[process-and-consciousness]] — How process philosophy illuminates phenomenal unity through actual occasions

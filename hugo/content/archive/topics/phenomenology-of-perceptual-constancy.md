@@ -105,7 +105,7 @@ More broadly, perceptual constancy illustrates why **Occam's Razor has limits** 
 - [qualia](/concepts/qualia/)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 - [phenomenology](/concepts/phenomenology/)
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
+- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem/)
 - [structure-of-attention](/topics/structure-of-attention/)
 - [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)
 - [inverted-qualia](/concepts/inverted-qualia/)

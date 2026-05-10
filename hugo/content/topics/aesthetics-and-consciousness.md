@@ -62,7 +62,7 @@ related_articles:
 - '[[consciousness-value-connection]]'
 - '[[phenomenal-acquaintance]]'
 - '[[phenomenology-of-musical-understanding]]'
-- '[[the-binding-problem-a-systematic-treatment]]'
+- '[[the-binding-problem]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[consciousness-and-mathematics]]'
@@ -113,7 +113,7 @@ Cross-modal aesthetic judgments confirm the point. A listener who says a Rothko 
 
 ## Aesthetic Binding
 
-The [binding problem](/topics/the-binding-problem-a-systematic-treatment/) distinguishes five varieties of phenomenal binding. Aesthetic experience presents a sixth, harder variety. Hearing a late Beethoven quartet integrates sensory elements (pitch, timbre, dynamics), temporal structure (melody, harmonic progression, the tension between expectation and surprise), emotional response (grief, consolation—not as separate reactions but as qualities of the sound itself), cognitive content (recognition of structure, awareness of the composer's deafness), evaluative judgment (the sense that this is profound), and bodily response (shivers, altered breathing). These elements are not experienced separately and then combined. The profundity is immediately present in the hearing—a single aesthetic impression containing all these dimensions without reducing to any.
+The [binding problem](/topics/the-binding-problem/) distinguishes five varieties of phenomenal binding. Aesthetic experience presents a sixth, harder variety. Hearing a late Beethoven quartet integrates sensory elements (pitch, timbre, dynamics), temporal structure (melody, harmonic progression, the tension between expectation and surprise), emotional response (grief, consolation—not as separate reactions but as qualities of the sound itself), cognitive content (recognition of structure, awareness of the composer's deafness), evaluative judgment (the sense that this is profound), and bodily response (shivers, altered breathing). These elements are not experienced separately and then combined. The profundity is immediately present in the hearing—a single aesthetic impression containing all these dimensions without reducing to any.
 
 Aesthetic binding exceeds perceptual binding in three ways. First, it crosses radically different processing domains—sensory, emotional, cognitive, evaluative, temporal, bodily—that have no obvious common representational format. Second, the aesthetic gestalt has properties categorically different from anything in its parts: no amount of pitch, timbre, rhythm, emotion, and cognition individually exhibits beauty. Beauty appears only when they are bound. Third, it operates across radically different timescales simultaneously—the present moment's sound must be bound with memory of what came before and anticipation of what follows.
 
@@ -156,7 +156,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [aesthetic-void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Parallel analysis for moral value
-- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — The five standard varieties of phenomenal binding
+- [the-binding-problem](/topics/the-binding-problem/) — The five standard varieties of phenomenal binding
 - [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — Why human creativity differs in kind from AI and animal creativity
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical creativity as the sharpest case for consciousness as causal force
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience

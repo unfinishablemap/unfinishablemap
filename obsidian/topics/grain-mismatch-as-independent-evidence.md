@@ -22,7 +22,7 @@ related_articles:
   - "[[resolution-void]]"
   - "[[neural-refresh-rates-and-the-smoothness-problem]]"
   - "[[bandwidth-of-consciousness]]"
-  - "[[phenomenal-binding-and-multimodal-integration]]"
+  - "[[the-binding-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -93,7 +93,7 @@ The grain mismatch evidence programme directly supports [[tenets#^dualism|the Ma
 
 The programme also illustrates [[tenets#^occams-limits|why Occam's Razor has limits]]. The "simpler" identity theory asserts that phenomenal properties just *are* neural properties. The grain programme shows this assertion is not merely unproven but structurally incoherent for property pairs with contradictory characteristics across three independent domains. Simplicity purchased at the cost of coherence is no bargain. This connects to the Map's broader case that [[causal-closure|causal closure]] assumptions cannot override structural incompatibilities — no amount of methodological commitment to physicalism resolves a logical mismatch between property types.
 
-The Map speculates that the grain mismatch programme may extend further. The [[phenomenal-binding-and-multimodal-integration|binding problem]] exhibits its own grain structure: multimodal inputs arrive at different speeds, in different formats, to different cortical regions, yet bind into unified experience. This is a fourth candidate mismatch — compositional grain, where the parts of experience and the parts of neural processing are carved at incompatible joints. Whether compositional grain is genuinely independent of the spatial and temporal mismatches or reduces to them is an open question the programme should address.
+The Map speculates that the grain mismatch programme may extend further. The [[the-binding-problem|binding problem]] exhibits its own grain structure: multimodal inputs arrive at different speeds, in different formats, to different cortical regions, yet bind into unified experience. This is a fourth candidate mismatch — compositional grain, where the parts of experience and the parts of neural processing are carved at incompatible joints. Whether compositional grain is genuinely independent of the spatial and temporal mismatches or reduces to them is an open question the programme should address.
 
 ## Further Reading
 
