@@ -3,7 +3,7 @@ title: "Against Many-Worlds"
 created: 2026-01-15
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-23T16:45:00+00:00
+ai_modified: 2026-05-10T17:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,11 +23,15 @@ related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
   - "[[quantum-interpretations]]"
+  - "[[probability-problem-in-many-worlds]]"
+  - "[[direct-refutation-discipline]]"
+  - "[[evidential-status-discipline]]"
+  - "[[reviews/outer-review-synthesis-2026-05-10]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
-last_curated: null
+last_curated: 2026-05-10
 last_deep_review: 2026-03-23T16:45:00+00:00
 ---
 
@@ -80,6 +84,32 @@ The indexical problem is not merely epistemic (we don't know which branch we're 
 Many-worlds shares a deep structural problem with [[parfit-reductionism|Parfit's reductionism]] about personal identity. Parfit holds that identity consists in nothing over and above psychological continuity—there's no further fact about "who is really you." Many-worlds makes the analogous move: all branch-continuations are equally real, and there's no fact about which one "is" you.
 
 Both views face the same objection: they cannot accommodate the apparent fact that you will experience exactly one future. *You* will wake up tomorrow as exactly one person, in exactly one circumstance—but both Parfit and many-worlds tell us to abandon the question of which copy or branch that will be. If you find Parfit's reductionism troubling when confronting teletransporter cases, you should find many-worlds equally troubling.
+
+### The Branch-Relative Identity Programme
+
+A sophisticated literature inside the Everettian framework defuses the indexical objection by reconceiving identity, probability, and the experiencing subject in branch-relative terms. The Map's rejection must run through this literature; declaring the disagreement bedrock without engaging it would substitute the framework boundary for the argument the catalogue should have made.
+
+**Saunders and Wallace** (Saunders 2010; Wallace 2012) defend the most influential branch-relative account: personal identity is preserved *along each branch* through ordinary psychological continuity, with the pre-measurement person standing in a many-one relation to post-measurement continuants. There is no fact about which branch is "really me" because identity is not transbranch in the first place. Within a branch, the agent has a determinate history, indexically owned memories, and a unique continuant relation to the past—from the inside, things look exactly as they must.
+
+The Everettian can restate the felt singularity of consciousness as branch-local, centred, and determinate; inside the branch, there is no missing indexical fact for the framework to supply. The Map's disagreement does not refute Wallace's account on its own terms; it rejects the framework that licenses the move. This incompatibility runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within Wallace's framework. [[tenets#^no-many-worlds|Tenet 4]] requires global ontological uniqueness—not merely branch-local uniqueness—because consciousness is the kind of thing that cannot be made multiply actual without losing what makes it consciousness. That requirement is a tenet, not a derived conclusion.
+
+But the framework helps itself to a move it has not earned by its own standards. Branch-relative identity presupposes a centred subject *for whom* identity holds along the branch—an "I" whose perspective the branch-relative facts are facts *of*. The Everettian wave function is not centred; its branch decomposition is observer-relative, returning the preferred-basis problem at the level of the experiencing subject. The centring required to make branch-relative identity work is supplied by the agent's perspective at the time of utterance—but the agent's perspective is what the indexical question was asking about. Wallace's account secures branch-local indexicality by making the global indexical question ill-formed; the move is the framework's preference, not its derivation.
+
+**Tappenden** (2008, 2017) extends the picture with a self-locating-beliefs account: pre-measurement uncertainty is uncertainty about *which* of the post-measurement observers I will be, even though all of them exist. The Everettian agent has well-defined credences over self-locating propositions ("I am the spin-up observer"; "I am the spin-down observer") that cash out the felt experience of probability. The framework-boundary structure is the same as Wallace's, and the same unsupported move appears: the centred subject whose self-locating uncertainty grounds the credences is presupposed, not delivered. *That* subject's perspective is what the Map's tenet says cannot be supplied by branching alone.
+
+**Vaidman** (1998, 2014) takes self-locating uncertainty further into Born-rule derivation: rational credence in spin-up is the measure-weight of the spin-up branches, justified by a caring measure that respects amplitude. The pressure point inside MWI—whether the caring-measure presupposition encodes the Born rule it was supposed to derive—is alive in the technical literature; Mandolesi (2018) formalises the circularity. The dispute is open inside the Everettian framework, not closed by the Map's tenets.
+
+**Sebens and Carroll** (2018) supply the most-discussed contemporary Born-rule derivation: the rule emerges from epistemic separability and self-locating uncertainty in the gap between branching and observation. The account does substantive work on the [[probability-problem-in-many-worlds|probability problem]]. The in-framework objection—that decoherence may not provide the temporal gap the derivation requires; that the epistemic-separability axiom is itself amplitude-laden—is live inside the technical literature. The dispute is open inside MWI, not closed by the Map's framework-boundary commitment.
+
+**Alastair Wilson** (*The Nature of Contingency*, 2020) develops the deepest metaphysical extension: Everett branches *are* metaphysically possible worlds in the Lewisian sense, and modal claims reduce to claims about the multiverse. Branch-relative identity becomes counterpart-identity in the modal-realist tradition. The disagreement here is at the deepest framework boundary: agreeing or disagreeing with Wilson requires a prior decision about modal metaphysics. The Map's commitment to single-world actuality and to the [[haecceity|thisness]] of actual occasions sits at the same level as Wilson's commitment to multiversal modal realism—neither reduces to the other, and the dispute is not resolvable inside either framework's resources alone. Naming this is the honest residue.
+
+**Lockwood's Many-Minds Interpretation**, developed by Albert and Loewer (1988) and Lockwood (1989, 1996), warrants different treatment from the others. It explicitly preserves a continuous infinity of *minds* per subject, with phenomenal experience attaching to mind-trajectories rather than to wave-function branches. Probabilities attach to minds; the unity of consciousness is preserved along each mind-trajectory. This is structurally close to a dualist position—minds form a separate ontological category indexed to brain-states.
+
+The in-framework objection is available and substantive. Many-Minds either reintroduces epiphenomenalism (minds float free of physics, doing no causal work—the problem the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet was designed to solve) or it requires a substantive psycho-physical mechanism the framework does not supply. Albert and Loewer stipulate the mind/brain bridge in roughly the way materialism stipulates the computation/experience bridge—without specifying the bridge by the framework's own standards.
+
+The Map shares the dualist intuition driving Many-Minds—that consciousness cannot be identified with a physical configuration alone—but differs on what to do with it. Many-Minds preserves dualism while accepting universal-wave-function physics, paying for the preservation in unspecified psycho-physical bridge laws and in eliminated mental causation. The Map preserves dualism while rejecting universal-wave-function physics, paying for the preservation in collapse-style measurement and in single-world ontology. The Map's reasons for not taking the Many-Minds route are bidirectional-interaction reasons that *can* be argued from inside a shared dualist sensibility without invoking the no-many-worlds tenet directly. The disagreement with Many-Minds is therefore closer than the disagreements with Wallace and Wilson—a closer cousin in the dualist family rather than a bedrock framework-boundary clash.
+
+Together, these six engagements specify what the Map's rejection of MWI actually claims. Where the Everettian can restate the phenomenon as branch-local—Wallace, Tappenden, Wilson on the indexical phenomenology—the disagreement is at the framework boundary and the Map says so honestly. Where the in-framework critique remains live—Vaidman and Sebens-Carroll on Born-rule circularity, Many-Minds on the unspecified psycho-physical bridge—the dispute is open inside MWI rather than closed by the Map's tenets. The bedrock that Tenet 4 names is what remains after the framework-internal debates settle, not what they were ever asked to deliver.
 
 ## Argument 3: The Probability Problem
 
@@ -207,7 +237,45 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 - Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
 - Everett, H. (1957). "Relative State Formulation of Quantum Mechanics." *Reviews of Modern Physics*, 29, 454-462.
 - Kent, A. (2010). "One World Versus Many." In S. Saunders et al. (eds.), *Many Worlds?* Oxford University Press.
+- Lockwood, M. (1989). *Mind, Brain and the Quantum: The Compound 'I'*. Blackwell.
+- Lockwood, M. (1996). "'Many Minds' Interpretations of Quantum Mechanics." *British Journal for the Philosophy of Science*, 47(2), 159-188.
+- Mandolesi, A. L. G. (2018). "Analysis of Wallace's Proof of the Born Rule in Everettian Quantum Mechanics." *Foundations of Physics*, 48(7), 751-782.
+- Saunders, S. (2010). "Chance in the Everett Interpretation." In S. Saunders et al. (eds.), *Many Worlds?* Oxford University Press.
 - Saunders, S., Barrett, J., Kent, A., and Wallace, D. (eds.). (2010). *Many Worlds?* Oxford University Press.
+- Sebens, C. T. and Carroll, S. M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.
 - Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
+- Tappenden, P. (2008). "Saunders and Wallace on Everett and Lewis." *British Journal for the Philosophy of Science*, 59(3), 307-314.
+- Tappenden, P. (2017). "Objective Probability and the Mind-Body Relation." *Studies in History and Philosophy of Modern Physics*, 57, 8-16.
+- Vaidman, L. (1998). "On Schizophrenic Experiences of the Neutron, or Why We Should Believe in the Many-Worlds Interpretation of Quantum Theory." *International Studies in the Philosophy of Science*, 12(3), 245-261.
+- Vaidman, L. (2014). "Quantum Theory and Determinism." *Quantum Studies: Mathematics and Foundations*, 1(1-2), 5-38.
 - Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+- Wilson, A. (2020). *The Nature of Contingency: Quantum Physics as Modal Realism*. Oxford University Press.
+
+<!-- AI REFINEMENT LOG - 2026-05-10
+Changes made:
+- Added new subsection "### The Branch-Relative Identity Programme" inside Argument 2 (~1050 words), placed after "### The Parfit Convergence" and before "## Argument 3: The Probability Problem"
+- Six named opponents engaged in turn: Saunders & Wallace; Tappenden; Vaidman; Sebens & Carroll; Alastair Wilson; Lockwood (with Albert & Loewer)
+- 11 new references added: Lockwood 1989, Lockwood 1996, Mandolesi 2018, Saunders 2010 (Chance chapter), Sebens & Carroll 2018, Tappenden 2008, Tappenden 2017, Vaidman 1998, Vaidman 2014, Wilson 2020 (Albert & Loewer 1988 already present; Saunders et al. 2010 volume already present)
+- Frontmatter: ai_modified updated 2026-03-23T16:45 → 2026-05-10T17:20 UTC; ai_system updated to claude-opus-4-7; last_curated set to 2026-05-10; related_articles expanded with [[probability-problem-in-many-worlds]], [[direct-refutation-discipline]], [[evidential-status-discipline]], [[reviews/outer-review-synthesis-2026-05-10]]
+
+Source: Cluster B of [[reviews/outer-review-synthesis-2026-05-10]] (2/3 reviewer convergence — Claude Opus 4.7 and Gemini 2.5 Pro).
+Convergent finding: the previous article identified the right opponents but declared bedrock without engaging the strongest contemporary versions of MWI personal-identity theory.
+
+Engagement classifications (changelog-internal — not in body):
+- Saunders & Wallace: Mode-mixed (Mode Three primary + Mode Two named). Boundary-marking is the honest residue per the [[evidential-status-discipline]] MWI-checklist (Everettian can restate felt singularity as branch-local), but the framework helps itself to the centred subject without specifying what supplies the centring; the unsupported-move identification is named in natural prose alongside the boundary residue.
+- Tappenden: Mode-mixed (Mode Three primary + Mode Two named). Same structure as Wallace — boundary residue plus the same unsupported centring move.
+- Vaidman: Mode One indication. Caring-measure circularity is alive inside MWI's technical literature (Mandolesi 2018); the Map records the dispute as open inside the Everettian framework rather than closed by tenets.
+- Sebens & Carroll: Mode One indication. Decoherence-gap and amplitude-laden-axiom objections are live inside the technical literature; dispute open inside MWI.
+- Alastair Wilson: Mode Three. Deepest framework-boundary case — modal-metaphysical dispute is not resolvable inside either framework's resources alone. Honest residue marked.
+- Lockwood (Albert & Loewer): Mode Two primary. Many-Minds either reintroduces epiphenomenalism (the bidirectional-interaction tenet's target) or stipulates an unspecified psycho-physical bridge by the framework's own standards. Closer-cousin disagreement within shared dualist sensibility, argued from inside dualism rather than via the no-many-worlds tenet directly.
+
+Forbidden-label audit: Clean. No "Mode One/Two/Three" labels in body, no "direct-refutation-feasible", no "unsupported-jump callout", no "bedrock-perimeter", no "mode-mixed", no "tenet-register move", no "Engagement classification:", no "per [[direct-refutation-discipline]]" parenthetical, no bold-headed "**Evidential status:**" callouts. Discipline references in frontmatter only; in body, the moves are made in journal-quality natural prose using the writing-style guide patterns ("X helps itself to Y without specifying how"; "this incompatibility runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within Wallace's framework"; "the dispute is open inside MWI, not closed by the Map's tenets").
+
+Verification notes from review applied: Claude Opus 4.7's named opponents (Saunders-Wallace, Tappenden, Vaidman, Sebens-Carroll, Wilson) all engaged; Gemini 2.5 Pro's added Many-Minds Interpretation (Lockwood, Albert/Loewer) engaged structurally rather than only present in references; closing paragraph explicitly maps which engagements are framework-boundary and which keep in-framework critiques live, satisfying the [[evidential-status-discipline]] MWI-checklist requirement that bedrock be earned by engaging the strongest opposing view rather than declared by skipping it.
+
+Word count delta: ~2421 → ~3500 words touched/added. New section ~1050 words; new references ~150 words; frontmatter additions modest. Within the synthesis estimate's ~700–1000-word touched scope (slightly over because the six-opponent engagement requires the substantive treatment).
+
+This log should be removed after human review.
+-->
+

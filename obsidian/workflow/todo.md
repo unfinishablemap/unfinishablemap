@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine arguments/many-worlds-argument.md to engage MMI + Saunders-Wallace + Tappenden + Vaidman + Sebens-Carroll + Wilson
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From `[[reviews/outer-review-synthesis-2026-05-10]]` Cluster B (2/3 reviewer convergence — Claude Opus 4.7 and Gemini 2.5 Pro). The synthesis flagged this as a merged P1 task, but the discrete task entry never landed in the queue (verified: no active or completed task with this remit). The MWI rebuttal article (`obsidian/arguments/many-worlds-argument.md`, last `ai_modified` 2026-03-23 — 48 days stale) does not engage the strongest contemporary MWI personal-identity literature. Six named opponents to engage in a single substantive revision: (a) Saunders & Wallace branch-relative identity treatments; (b) Tappenden self-locating beliefs in MWI; (c) Vaidman MWI probability and personal identity; (d) Sebens & Carroll Self-Locating Uncertainty Account; (e) Alastair Wilson's *The Nature of Contingency* modal-realist development; (f) Lockwood's Many-Minds Interpretation (Albert & Loewer 1988 already in references but not deployed structurally — make the engagement explicit). Apply [[direct-refutation-discipline]] and the just-installed [[evidential-status-discipline]] MWI-checklist rule (added today 2026-05-10): for each opponent, state whether the disagreement is in-framework, foundational-move, or framework-boundary; do not declare bedrock without engaging the strongest version of the opposing view. Estimated scope: ~700–1000 words touched. Tenet alignment: Tenet 4 (No Many Worlds) load-bearing; methodological / [[direct-refutation-discipline]] / [[evidential-status-discipline]]. See [[reviews/outer-review-synthesis-2026-05-10]] §"B. MWI rebuttal misses contemporary personal-identity literature" for full quote material from both reviewers.
-- **Review file**: `reviews/outer-review-synthesis-2026-05-10.md`
-- **Source**: outer-review (synthesis 2026-05-10 — task drop recovery)
-- **Generated**: 2026-05-10
-
 ### P2: Apply new MWI-checklist rule from evidential-status-discipline across MWI-touching articles
 - **Type**: cross-review
 - **Status**: pending
@@ -3466,6 +3458,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Refine arguments/many-worlds-argument.md to engage MMI + Saunders-Wallace + Tappenden + Vaidman + Sebens-Carroll + Wilson
+- **Type**: refine-draft
+- **Notes**: From `[[reviews/outer-review-synthesis-2026-05-10]]` Cluster B (2/3 reviewer convergence — Claude Opus 4.7 and Gemini 2.5 Pro). The synthesis flagged this as a merged P1 task, but the discrete task entry never landed in the queue (verified: no active or completed task with this remit). The MWI rebuttal article (`obsidian/arguments/many-worlds-argument.md`, last `ai_modified` 2026-03-23 — 48 days stale) does not engage the strongest contemporary MWI personal-identity literature. Six named opponents to engage in a single substantive revision: (a) Saunders & Wallace branch-relative identity treatments; (b) Tappenden self-locating beliefs in MWI; (c) Vaidman MWI probability and personal identity; (d) Sebens & Carroll Self-Locating Uncertainty Account; (e) Alastair Wilson's *The Nature of Contingency* modal-realist development; (f) Lockwood's Many-Minds Interpretation (Albert & Loewer 1988 already in references but not deployed structurally — make the engagement explicit). Apply [[direct-refutation-discipline]] and the just-installed [[evidential-status-discipline]] MWI-checklist rule (added today 2026-05-10): for each opponent, state whether the disagreement is in-framework, foundational-move, or framework-boundary; do not declare bedrock without engaging the strongest version of the opposing view. Estimated scope: ~700–1000 words touched. Tenet alignment: Tenet 4 (No Many Worlds) load-bearing; methodological / [[direct-refutation-discipline]] / [[evidential-status-discipline]]. See [[reviews/outer-review-synthesis-2026-05-10]] §"B. MWI rebuttal misses contemporary personal-identity literature" for full quote material from both reviewers.
+- **Output**: obsidian/arguments/many-worlds-argument.md
+
+Task context:
+From `[[reviews/outer-review-synthesis-2026-05-10]]` Cluster B (2/3 reviewer convergence — Claude Opus 4.7 and Gemini 2.5 Pro). The synthesis flagged this as a merged P1 task, but the discrete task entry never landed in the queue (verified: no active or completed task with this remit). The MWI rebuttal article (`obsidian/arguments/many-worlds-argument.md`, last `ai_modified` 2026-03-23 — 48 days stale) does not engage the strongest contemporary MWI personal-identity literature. Six named opponents to engage in a single substantive revision: (a) Saunders & Wallace branch-relative identity treatments; (b) Tappenden self-locating beliefs in MWI; (c) Vaidman MWI probability and personal identity; (d) Sebens & Carroll Self-Locating Uncertainty Account; (e) Alastair Wilson's *The Nature of Contingency* modal-realist development; (f) Lockwood's Many-Minds Interpretation (Albert & Loewer 1988 already in references but not deployed structurally — make the engagement explicit). Apply [[direct-refutation-discipline]] and the just-installed [[evidential-status-discipline]] MWI-checklist rule (added today 2026-05-10): for each opponent, state whether the disagreement is in-framework, foundational-move, or framework-boundary; do not declare bedrock without engaging the strongest version of the opposing view. Estimated scope: ~700–1000 words touched. Tenet alignment: Tenet 4 (No Many Worlds) load-bearing; methodological / [[direct-refutation-discipline]] / [[evidential-status-discipline]]. See [[reviews/outer-review-synthesis-2026-05-10]] §"B. MWI rebuttal misses contemporary personal-identity literature" for full quote material from both reviewers.
+
+Review file: reviews/outer-review-synthesis-2026-05-10.md
 
 ### ✓ 2026-05-10: Install five cross-link suggestions from optimistic-2026-05-10 cross-linking table
 - **Type**: refine-draft
