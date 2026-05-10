@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T00:41:00+00:00
+ai_modified: 2026-05-10T01:14:44+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 01:14 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Common-Cause Null in Convergence Arguments
+- **Output**: [[project/common-cause-null]]
+- **Word count**: 2438
+- **Based on research**: no — built on apex/phenomenal-output-causal-machinery-dissociation line 144 and optimistic-2026-05-09b
+- **Placement rationale**: project/ chosen over topics/ (capacity 239/250 = 95%) and concepts/ (230/250 = 92%); the discipline is methodological and parallels `project/bedrock-clash-vs-absorption`, `project/direct-refutation-discipline`, `project/evidential-status-discipline` as the sixth named methodological pattern in the editorial system
+- **Structure**: lead → failure mode → catalogue's four convergence-argument structures → cross-substrate-within-one-organism response → three distinguishing tests (cross-species, cross-cultural, patient-population) → five-point checklist for future articles → universal-solvent risk (generic-machinery vs specific-machinery distinction) → Relation to Site Perspective (Tenet 5 symmetric application)
 
 ## 2026-05-10 00:41 UTC - refine-draft
 - **Status**: Success
