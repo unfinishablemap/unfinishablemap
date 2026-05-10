@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-10T14:13:00+00:00
+ai_modified: 2026-05-10T14:41:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -112,6 +112,18 @@ What Proustian memory does reveal is the *aspiration* built into the memory-self
 
 The [[inaccessible-past]] sits precisely at this boundary. Memory promises self-encounter across time but delivers reconstruction. The gap between promise and delivery is not a bug in the memory system. It is a structural feature of temporal selfhood, a limit that cannot be overcome without transcending the very constructive process that makes memory possible. The forward-directed counterpart—how the self reaches *toward* its future through [[phenomenology-of-anticipation|anticipation]]—completes the picture of temporal selfhood that memory alone only half reveals.
 
+## Mineness: synchronic feature or diachronic identity-ground?
+
+The earlier sections move from synchronic mineness—the for-me-ness built into each present experience—to diachronic claims about a self that persists *through* remembering. Zahavi's own treatment characterises mineness as a feature of each present experience and distinguishes the for-me-ness of a moment from numerical identity over time. The move from one to the other requires its own warrant. Lane (2012), Guillot (2017), Howell and Thompson (2017), and Dings (2022) all argue from inside the phenomenological tradition that for-me-ness is too thin a feature to ground numerical identity across experiences. Each of yesterday's experiences was for-someone; each of today's is for-someone; the synchronic feature is the same kind in each case. Nothing in the feature alone tells us the someone is the same.
+
+The article needs to be explicit about which mineness claim its conclusions require. The weak claim—every experience is given in the first-person mode—is Zahavian and well-supported by the textual lineage Zahavi and Gallagher develop. The strong claim—the same numerically identical subject has all of *these* experiences and not others—is a substantive metaphysical thesis that the phenomenology alone underdetermines. The No-Many-Worlds inference staged in the next section requires the strong claim. Bare for-me-ness is satisfied trivially across Everettian branches: each branch-local subject has its own pre-reflective givenness, and "every experience is for-someone" survives uncountable branching without strain. The objection bites only if there is a fact of the matter about which of those for-someones is *me*.
+
+What does the bridging work is not the phenomenology of mineness but an auxiliary metaphysical commitment: [[haecceity]] applied to the conscious subject—the "deep further fact" Parfit denied. The phenomenology of memory delivers the explanandum, the felt structure of self-encounter across time; haecceity supplies the diachronic identity-grounding fact that turns the synchronic feature into the strong claim. The article's anti-MWI inference runs through this auxiliary, not through the phenomenology directly. Howell and Thompson defend minimal-self mineness while rejecting any deeper-fact commitment; Dings reads for-me-ness as compatible with streams that can branch and merge without violating phenomenological constraint. The disagreement with these readings is real, but it is at the framework boundary: it rests on the haecceity commitment, which the deflationary readings reject. Treating the phenomenology alone as forcing the haecceitistic reading misrepresents the dialectical situation.
+
+The empirical version of the objection has the same architecture. Klein and Nichols's (2012) dissociation between accurate autobiographical content and the feeling of mineness is compatible with two readings the data alone does not separate. The dualist reading takes mineness as a phenomenal feature with its own substrate, severable from informational retrieval. The modular-tag physicalist reading posits anatomically distinct networks for hippocampal data retrieval and medial-prefrontal self-referential affective tagging, and explains the dissociation as severance of the link between them. Both predict the dissociation; neither is forced by it. For the modular hypothesis to be a complete account rather than an empirically adequate description, it would have to specify what it is for the tagging network's output to *feel like* mine rather than simply functioning as a marker of self-relevance—the hard problem in its self-tagging form, which physicalism's own commitment to mechanism demands a bridge for and which naming the modular architecture does not by itself supply. The Map's commitment to the irreducibility of phenomenal feel rules out the modular reading as complete; the auxiliary that mineness is phenomenally thick rather than functionally exhausted rules in the dualist one. A physicalist who declines the auxiliary will hear the modular hypothesis as adequate; that disagreement is at the framework boundary, not closed by the dissociation.
+
+The earlier reading of Klein–Nichols as "evidence *for* the phenomenal reality of mineness rather than against it" survives, but the strength of the reading is now visible. The dissociation shows mineness is separable from content; whether the separable thing is a phenomenal property or a functional tag is what the Map's interactionist-dualist commitments decide, not what the data decides.
+
 ## Relation to Site Perspective
 
 The phenomenology of memory and self connects directly to the Map's foundational commitments.
@@ -160,6 +172,10 @@ The phenomenology of memory and self connects directly to the Map's foundational
 1. Matthen, M. (2010). Is memory preservation? *Philosophical Studies*, 148(1), 3–14.
 1. Russell, J. (2014). Episodic memory as re-experiential memory: Kantian, developmental, and neuroscientific currents. *Review of Philosophy and Psychology*, 5(3), 391–411.
 1. Michaelian, K. (2016). *Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past*. MIT Press.
+1. Lane, T. (2012). Toward an explanatory framework for mental ownership. *Phenomenology and the Cognitive Sciences*, 11(2), 251–286.
+1. Guillot, M. (2017). I me mine: On a confusion concerning the subjective character of experience. *Review of Philosophy and Psychology*, 8(1), 23–53.
+1. Howell, R. J., & Thompson, B. (2017). Phenomenally mine: In search of the subjective character of consciousness. *Review of Philosophy and Psychology*, 8(1), 103–127.
+1. Dings, R. (2022). On for-me-ness, mineness, and personal identity. *Phenomenology and the Cognitive Sciences*. [citation pending human verification]
 
 <!-- AI REFINEMENT LOG - 2026-05-10
 Changes made:
@@ -188,6 +204,33 @@ Verification notes from review applied:
 - "Empirical/neuroconstructivist pressure ignored" (Gemini line 100) — addressed by simulationist subsection with explicit concession on what would defeat the article's reading
 
 Anchor honoured: the new section links to the existing line-57 hedge ("phenomenological reports — evidence about the structure of experience, not by themselves evidence for or against dualism") rather than slipping into tenet-protective rebuttal.
+
+Forbidden labels check:
+- No "direct-refutation-feasible", no "unsupported-jump callout", no "bedrock-perimeter", no "mode-mixed", no "tenet-register move", no "Engagement classification:" in article body, no "per [[direct-refutation-discipline]]" parenthetical, no bold-headed "**Evidential status:**" callouts.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-10 (14:41 UTC)
+Changes made:
+- Added new section "Mineness: synchronic feature or diachronic identity-ground?" (~580 words) between "The Proustian Boundary" and "Relation to Site Perspective".
+- The section addresses two convergent gaps flagged by the 2026-05-10 outer reviews (Claude Opus 4.7 and Gemini 2.5 Pro):
+  1. Synchronic→diachronic mineness slide (Claude line 102): the article was using Zahavian for-me-ness to underwrite diachronic identity, but Zahavi himself characterises mineness as a synchronic feature distinct from numerical identity over time. The new section engages Lane (2012), Guillot (2017), Howell & Thompson (2017), and Dings (2022) by name, concedes that for-me-ness alone is too thin to ground numerical identity across experiences, and identifies haecceity (the "deep further fact") as the auxiliary metaphysical commitment that does the bridging work. Explicit about which mineness claim the No-Many-Worlds inference requires (the strong claim) and that the inference runs through the haecceity auxiliary, not the phenomenology directly.
+  2. Modular-tag physicalist counter (Gemini line 176): the new section names the modular-tag reading directly (hippocampal data retrieval + medial-prefrontal self-referential affective tagging), shows the Klein–Nichols dissociation is empirically compatible with both dualist and modular-tag readings, and identifies what would have to be true for the modular hypothesis to be a complete account: it would need to specify what it is for the tag's output to feel like mine rather than function as a self-relevance marker. The hard problem in self-tagging form is the unmet bridge that physicalism's own commitment to mechanism demands. The Map's interactionist-dualist commitments rule the modular reading out as complete; the disagreement with a physicalist who declines the auxiliary is honestly noted as bedrock at the framework boundary.
+- Added 4 new references: Lane 2012, Guillot 2017, Howell & Thompson 2017, Dings 2022 (Dings citation flagged for human verification — task explicitly requested engagement with this author/year, but exact paper title was not given in the convergent reviews).
+- Updated ai_modified to 2026-05-10T14:41:00+00:00.
+
+Engagement classification (changelog-internal, NOT in article body):
+- Lane / Guillot / Howell & Thompson / Dings on synchronic-vs-diachronic mineness: Mode One concession + Mode Three honest residue. The article concedes inside their frame that for-me-ness alone is too thin to ground numerical identity (Mode One: their argument lands), then identifies haecceity as the auxiliary that does the bridging (Mode Three: the residual disagreement rests on the haecceity commitment they reject, honestly noted as framework-boundary).
+- Modular-tag physicalist counter: Mixed Mode Two + Mode Three. Mode Two (foundational-move identification): physicalism's own commitment to mechanism demands the bridge from "tag function" to "feels like mine"; naming the modular architecture does not supply it. Mode Three (framework-boundary residue): the choice between dualist and modular readings is decided by the irreducibility-of-phenomenal-feel commitment, not by the dissociation data; a physicalist who declines the auxiliary will hear the modular hypothesis as adequate, which is honestly noted, not refuted from inside physicalism.
+
+Source: P0 task on convergent finding from 2026-05-10 outer reviews (claude-opus-4-7 and gemini-2-5-pro both flagged the synchronic→diachronic slide and the modular-tag counter; convergence upgraded the priority via /combine-outer-reviews).
+
+Verification notes from reviews applied:
+- "Synchronic-to-diachronic slide" (Claude line 102) — addressed by explicit weak/strong distinction and identification of haecceity as the auxiliary.
+- "Equivocation between 'every experience is mine' and 'the same me persists across all my experiences'" (Claude line 118, 183) — addressed; the article now states which is required for the No-Many-Worlds inference and what does the bridging.
+- "Mineness and substance dualism — single most under-argued move" (Claude line 116) — addressed by explicit auxiliary-commitment framing rather than presenting dualism as following from the phenomenology.
+- "Neural tag dissociation" / "category-error risk" (Gemini line 176) — addressed by direct engagement with the modular-tag reading and the bridge it owes physicalism's own standards.
 
 Forbidden labels check:
 - No "direct-refutation-feasible", no "unsupported-jump callout", no "bedrock-perimeter", no "mode-mixed", no "tenet-register move", no "Engagement classification:" in article body, no "per [[direct-refutation-discipline]]" parenthetical, no bold-headed "**Evidential status:**" callouts.

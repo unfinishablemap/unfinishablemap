@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T14:13:00+00:00
+ai_modified: 2026-05-10T14:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 14:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Source**: P0 task on convergent 2026-05-10 outer-review finding (Claude Opus 4.7 + Gemini 2.5 Pro both flag the mineness inference as inadequately defended in two complementary directions)
+- **Changes**: Added new section "Mineness: synchronic feature or diachronic identity-ground?" (~580 words) between "The Proustian Boundary" and "Relation to Site Perspective". Addresses both convergent gaps in a single section: (1) the synchronic→diachronic slide — engages Lane (2012), Guillot (2017), Howell & Thompson (2017), Dings (2022) by name, concedes that for-me-ness alone is too thin to ground numerical identity across experiences, and identifies haecceity (the "deep further fact") as the auxiliary metaphysical commitment that does the bridging work; explicit that the No-Many-Worlds inference requires the strong claim and runs through the haecceity auxiliary, not the phenomenology directly; (2) the modular-tag physicalist counter — names the dualist and modular-tag readings as both compatible with Klein–Nichols dissociation, identifies what would have to be true for the modular hypothesis to be a complete account (specifying what it is for the tag's output to feel like mine rather than function as a self-relevance marker), and shows physicalism's own commitment to mechanism demands the bridge that naming modular architecture does not supply. Honestly notes the residue as framework-boundary disagreement decided by the auxiliary commitment, not by the dissociation data. Added 4 new references (Dings citation flagged for human verification).
+- **Engagement classification** (changelog-internal): Lane / Guillot / Howell & Thompson / Dings on synchronic-vs-diachronic mineness — Mode One concession + Mode Three honest residue (their argument lands inside the phenomenological frame; the residual disagreement rests on the haecceity commitment they reject); modular-tag physicalist counter — Mixed Mode Two + Mode Three (Mode Two: physicalism's own mechanism standard demands the bridge from tag-function to felt-mineness, naming modular architecture does not supply it; Mode Three: the choice between readings is decided by the irreducibility-of-phenomenal-feel auxiliary, honestly noted as framework-boundary).
+- **Forbidden-label audit**: clean. No mode labels, no "Engagement classification:", no bold-headed "**Evidential status:**" in article prose.
+- **Convergent finding**: sixth flagging of direct-refutation-discipline structural weakness across outer reviews (after 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, 2026-05-10 Claude, 2026-05-10 Gemini).
+- **Published**: yes
 
 ## 2026-05-10 14:13 UTC - refine-draft
 - **Status**: Success

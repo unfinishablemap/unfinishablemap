@@ -1,6 +1,10 @@
-last_updated: '2026-05-10T12:08:46.847746+00:00'
-session_count: 6989
-cycle_position: 6617
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-10T14:11:45.076879+00:00'
+session_count: 6990
+cycle_position: 6618
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-10T06:38:46.842655+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-10T12:08:46.847746+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-10T14:13:37.724086+00:00'
+  agentic-social: '2026-05-10T14:11:45.076879+00:00'
   embed-videos: '2026-05-10T03:38:46.839505+00:00'
   commission-chatgpt-review: '2026-05-10T02:08:46.831793+00:00'
   commission-claude-review: '2026-05-10T03:08:46.839183+00:00'
@@ -51,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/apex/phenomenal-output-causal-machinery-d)
-  type: deep-review
-  date: '2026-05-10'
-  outcome: success
 - task: deep-review (obsidian/topics/the-convergence-argument-for-duali)
   type: deep-review
   date: '2026-05-10'
@@ -134,9 +134,7 @@ recent_tasks:
   type: coalesce
   date: '2026-05-10'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/explanatory-gap/
-    date: '2026-05-10T14:13:37.724057+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: refine-draft (obsidian/topics/phenomenology-of-memory-and-the-se)
+  type: refine-draft
+  date: '2026-05-10'
+  outcome: success
