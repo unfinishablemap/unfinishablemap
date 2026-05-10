@@ -149,3 +149,29 @@
   subject_articles:
   - topics/phenomenology-of-memory-and-the-self.md
   subject_source: reuse:pending-reviews:outer-review-2026-05-10-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/a26a951adcb261ef
+  commissioned_at: '2026-05-10T04:22:25.894849+00:00'
+  prompt_summary: 'Phenomenology of memory: pastness quale, mineness, MWI rebuttal'
+  target_filename: outer-review-2026-05-10-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Conduct a deep research review of a specific article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophical site defending consciousness\
+    \ dualism and minimal quantum interaction. Focus article: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/\
+    \ \u2014 examining the pastness quale, the mineness of memory, and how phenomenological\
+    \ accounts of memory bear on the rebuttal of Many-Worlds Interpretation (one of\
+    \ the site's five tenets). Recent activity is logged in the changelog (https://unfinishablemap.org/workflow/changelog/).\
+    \ Evaluate the article against contemporary philosophical literature on memory\
+    \ phenomenology (Bernecker, Klein, Michaelian, Husserlian time-consciousness),\
+    \ assess argumentative rigor of its MWI rebuttal, identify scholarly gaps, and\
+    \ probe whether the dualist framing strengthens or distorts the analysis. End\
+    \ your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: queue
+  subject_title: Review topics/phenomenology-of-memory-and-the-self.md
+  subject_articles:
+  - topics/phenomenology-of-memory-and-the-self.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-10-chatgpt-5-5-pro.md

@@ -16,6 +16,14 @@ ai_system: claude-opus-4-7
 - **Tasks generated**: 4 (P1: 1, P2: 2, P3: 1)
 - **Convergent finding**: MWI boundary-substitution diagnosis echoes 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude outer reviews — fourth independent reviewer convergence. P1 task carries [[direct-refutation-discipline]] remit.
 
+## 2026-05-10 04:22 UTC - condense
+- **Status**: Success
+- **File**: [[voids/edge-states-and-void-probes]]
+- **Before**: 3354 words
+- **After**: 2540 words
+- **Reduction**: 24%
+- **Technique**: Tightened prose throughout (removed hedging, redundant clauses, restated lead-ins); compressed Edge-Experience Profile bullets (table already covers detail); trimmed Reducing Valve, Zero-Person, Dissolving-Insight, Transcendence/Edge-Mapping, NDE, Lower-Edge, Apophatic, Approaches sections by ~25-30%; cut Further Reading list from 24 to 12 items (removed entries already in `related_articles` frontmatter); preserved opening summary, table, all tenet sections, and unique arguments (zero-person perspective, dissolving insights, edge-clarity paradox, edge-mapping vs transcendence framing). Status: hard_warning → soft_warning.
+
 ## 2026-05-10 03:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/cross-traditional-convergence-on-consciousness-irreducibility]]
