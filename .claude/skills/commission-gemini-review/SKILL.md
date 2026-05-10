@@ -118,12 +118,28 @@ If the button never appears after 60s post-submission, **bail without writing a 
 Wait 4s, then:
 
 ```javascript
-JSON.stringify({
-  stopBtn: !!Array.from(document.querySelectorAll('button')).find(b => /stop response/i.test(b.getAttribute('aria-label') || ''))
-})
+(() => {
+  const text = document.body.innerText;
+  return JSON.stringify({
+    // Gemini's explicit research-started confirmation. This message is
+    // posted by Gemini *only* after Deep Research has actually launched.
+    researchStartedConfirm: /I'?ll let you know when your research is done/i.test(text),
+    // Belt-and-braces: the "Starting research..." status indicator that
+    // appears alongside the confirmation message.
+    startingResearchText: /\bstarting research\b/i.test(text),
+    // Plan-stage tell: if the Start-research button is still the primary
+    // call-to-action (i.e., the click didn't land), this is true.
+    startResearchBtnStillPresent: !!Array.from(document.querySelectorAll('button')).find(b => /start research/i.test((b.getAttribute('aria-label') || '') + (b.innerText || ''))),
+    bodyTextLen: text.length
+  });
+})()
 ```
 
-If `stopBtn: false`, the click on "Start research" didn't take effect — bail.
+**Ready** when `researchStartedConfirm: true` (the gold signal — Gemini posts the literal "I'll let you know when your research is done" line only after Deep Research has actually launched).
+
+**Not ready** if `researchStartedConfirm: false`. In that case the click did not land OR Gemini bounced the click back to the plan stage. Bail without writing a pending entry — a stuck plan-stage entry would keep consuming collect attempts indefinitely without yielding a report.
+
+A previous version of this check used `stopBtn` (any button with aria "stop response") as the readiness signal. It was too weak: Gemini renders a transient stop-response button during plan finalization between the prompt submit and the final plan card, which produced a false positive on 2026-05-10 — the skill recorded a pending entry whose Deep Research never actually ran. The text-marker check is the fix.
 
 ## Step 8: Record the pending review
 
@@ -178,9 +194,9 @@ Total runtime budget: 5 minutes (Gemini's research-plan + Start research click a
 | Model not PRO | model selector text isn't "PRO" | Bail. |
 | Submission silent failure | no `/app/<id>` URL after 15s | Bail; no pending entry. |
 | "Start research" never appears | not visible after 60s | Bail; no pending entry. |
-| Click on "Start research" doesn't take | no stopBtn after click + 4s wait | Bail. |
+| Click on "Start research" doesn't take | `researchStartedConfirm: false` after click + 4s wait | Bail; no pending entry. |
 
-**Critical invariant**: a pending-reviews entry is written ONLY after research is verifiably underway (post-Start-research click, stopBtn visible).
+**Critical invariant**: a pending-reviews entry is written ONLY after research is verifiably underway — i.e., Gemini has posted the literal "I'll let you know when your research is done" confirmation. The earlier `stopBtn` check produced a false positive on 2026-05-10; do not regress to it.
 
 ## Important
 
