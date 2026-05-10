@@ -5,6 +5,14 @@ ai_modified: 2026-05-10T09:38:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-10 10:09 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Before**: 3538 words
+- **After**: 2741 words
+- **Reduction**: 23%
+- **Technique**: Merged Willed-Instructed + Choosing-vs-Observing + Empirical Confirmation into tighter prose; tightened the three "faces" subsections (Calibration, Depletion, Modulation) and condensed the constrain-vs-establish meta-discussion; collapsed Neuroplasticity's three subsections into a single flowing section; compressed Proposed Mechanisms (Stapp Quantum Zeno + alternatives) by deferring more to linked articles; tightened Illusionist Challenge and Effortless Awareness sections; light trim of Relation to Site Perspective tenet paragraphs while preserving all five. Preserved opening summary, all argumentative structure, voice, references, and Further Reading list intact.
+
 ## 2026-05-10 09:38 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/the-convergence-argument-for-dualism.md` (after three same-day P2 refines at 07:09, 07:38, 08:38 UTC) and `topics/consciousness-and-the-problem-of-other-properties.md` (deep-review-stable at 08:10 UTC)

@@ -81,13 +81,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-10
 
-### P2: Condense concepts/mental-effort.md (3538 words, 142% of concepts hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Length analysis flags the article at 142% of the concepts/ 2500-word soft threshold and 101% of the 3500-word hard threshold (status: hard_warning, just-over). The article was recently expanded 2026-05-08 to integrate the voids-effort-void-2026-05-08 research; the integration likely landed without condensation pressure and the result tipped over the hard threshold. Condense should (a) preserve the integrated effort-void material — the absorbed research is the value-add and must survive; (b) reduce redundancy elsewhere in the article that the integration may have made expendable (e.g., introductory framings of effort-experience that the new effort-void section now develops more sharply); (c) defer detailed empirical-paradigm treatment to linked articles where redundancy exists; (d) preserve every named-anchor cross-reference into this concept from elsewhere in the catalogue; (e) honour the framework-stage-calibration discipline — empirical claims about effort neurology must remain at their disciplined evidential weight; (f) audit for "This is not X. It is Y." cliché violations; (g) update `ai_modified` and `last_deep_review` after the condense lands. Target: 2800–3300 words (back within concepts hard band). See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-10
-
 ### P3: Write topic article on Reconsolidation as Selection-Window
 - **Type**: expand-topic
 - **Status**: pending
@@ -3406,6 +3399,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Condense concepts/mental-effort.md (3538 words, 142% of concepts hard threshold)
+- **Type**: condense
+- **Notes**: Length analysis flags the article at 142% of the concepts/ 2500-word soft threshold and 101% of the 3500-word hard threshold (status: hard_warning, just-over). The article was recently expanded 2026-05-08 to integrate the voids-effort-void-2026-05-08 research; the integration likely landed without condensation pressure and the result tipped over the hard threshold. Condense should (a) preserve the integrated effort-void material — the absorbed research is the value-add and must survive; (b) reduce redundancy elsewhere in the article that the integration may have made expendable (e.g., introductory framings of effort-experience that the new effort-void section now develops more sharply); (c) defer detailed empirical-paradigm treatment to linked articles where redundancy exists; (d) preserve every named-anchor cross-reference into this concept from elsewhere in the catalogue; (e) honour the framework-stage-calibration discipline — empirical claims about effort neurology must remain at their disciplined evidential weight; (f) audit for "This is not X. It is Y." cliché violations; (g) update `ai_modified` and `last_deep_review` after the condense lands. Target: 2800–3300 words (back within concepts hard band). See `/condense` skill.
+- **Output**: obsidian/concepts/mental-effort.md
 
 ### ✓ 2026-05-10: Condense apex/phenomenal-output-causal-machinery-dissociation.md (5404 words, 135% of apex hard threshold)
 - **Type**: condense
