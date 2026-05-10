@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T14:41:00+00:00
+ai_modified: 2026-05-10T15:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 15:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-binding-problem]]
+- **Word count**: 5079 → 4719 (-360, -7%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (coalesce regression on bidirectional-interaction tenet; hard-warning length)
+- **Enhancements made**: 7 (cross-modal "hardest case" intro, inverse effectiveness prose, neural mechanisms subsection, IIT engagement consolidation, theoretical-landscape functionalist response, anesthesia paragraph, falsifiability item merge)
+- **Coalesce-introduced regression**: The 2026-04-06 review of `phenomenal-binding-and-multimodal-integration` had replaced an overstated "voluntary control would be inexplicable" with a precise functionalist engagement; the coalesce reverted this fix. Restored.
+- **Engagement classification** (changelog-internal): identity theorist (water=H₂O response) — Mode One (defective on its own terms; standard identity links two third-person sides, binding identity does not); functionalist (bidirectional-interaction tenet, theoretical landscape) — Mode Two (computational modelling concedes the explanatory gap restated); IIT (dissociations, theoretical landscape) — Mode Two (predictive success ≠ explanatory adequacy, defers to `consciousness-and-integrated-information` for fuller critique); eliminative materialist / MWI defender / Buddhist no-self — Mode Three honestly noted, not re-engaged (carried bedrock from predecessor reviews).
+- **Forbidden-label audit**: clean. No mode labels, no "Engagement classification:", no editor-vocabulary in article prose.
+- **Length status**: hard_warning carried (4719 words / 4000 hard threshold = 118%). Further condensation deferred to future review unless growth continues.
+- **Output**: [[reviews/deep-review-2026-05-10-the-binding-problem]]
 
 ## 2026-05-10 14:41 UTC - refine-draft
 - **Status**: Success
