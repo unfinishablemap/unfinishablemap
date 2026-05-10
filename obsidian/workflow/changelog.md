@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T16:12:00+00:00
+ai_modified: 2026-05-10T16:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 16:41 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/the-convergence-argument-for-dualism]], [[topics/consciousness-and-the-problem-of-other-properties]]
+- **Source**: Optimistic review 2026-05-10 §Cross-Linking Suggestions (5 missing cross-links across the convergence-argument and problem-of-other-properties cluster)
+- **Cross-links installed** (~290 words touched across two source articles):
+  - convergence §From Irreducibility to Dualism → [[bidirectional-interaction]]: bridging clause naming the companion concept article's independent positive case (self-stultification of epiphenomenalism, empirical mental causation) so the load-bearing positive-selection step is not a bare appeal to commitment
+  - convergence §Convergence Across Traditions → [[cross-traditional-convergence-on-consciousness-irreducibility]]: bridging clause flagging the inferential chain that the cross-traditional evidence specifically requires — irreducibility across rivals, then explicit dualist selection in the next section rather than silent absorption
+  - convergence §The Common-Cause Objection → [[common-cause-null]]: bridging clause naming the project-tier discipline article that supplies the framework for evaluating whether N-fold convergence claims read one upstream architecture N times
+  - problem-of-other-properties §Asymmetry with Self-Knowledge → [[apex/phenomenal-output-causal-machinery-dissociation]]: bridging clause locating the article's interpersonal-access barrier within the Map's broader epistemic-limit infrastructure via the dissociation cluster's self-opacity face
+  - problem-of-other-properties §What Would Challenge This View? → [[illusionism]]: sentence-level link plus bridging clause noting the regress problem that currently blocks the falsifier-condition the bullet specifies
+- **Frontmatter**: added `[[bidirectional-interaction]]` to convergence concepts; added `[[illusionism]]` to problem-of-other-properties concepts; added `[[apex/phenomenal-output-causal-machinery-dissociation]]` to problem-of-other-properties related_articles
+- **Verification**: All five target files confirmed extant before installing links. `topics/illusionism-and-the-meta-problem.md` does not exist; used `concepts/illusionism.md` per the task's stated fallback target. Reciprocal-link discipline observed via substantive bridging clauses rather than bare Further Reading entries
+- **Tenet alignment**: methodological (cross-linking discipline). No tenet-register moves; existing tenet anchors at `^bidirectional-interaction` and `^minimal-quantum` preserved; `^minimal-quantum-interaction` reference in problem-of-other-properties preserved
+- **Output**: both files modified in-place
 
 ## 2026-05-10 16:12 UTC - refine-draft
 - **Status**: Success
