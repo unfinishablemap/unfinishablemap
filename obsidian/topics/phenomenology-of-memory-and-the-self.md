@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-10T04:39:00+00:00
+ai_modified: 2026-05-10T14:13:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -80,6 +80,20 @@ The phenomenological consequence is unsettling. If every memory is a reconstruct
 
 **Pathological breakdowns**: Severe amnesia strips the self of its temporal extension while leaving the minimal self intact. The amnesiac still experiences from a first-person perspective—consciousness persists—but cannot connect present experience to past experience through memory. This dissociation between minimal selfhood and narrative selfhood confirms that memory is constitutive of temporal identity rather than merely recording it. Patient KC, studied extensively by Tulving, retained semantic knowledge while losing autonoetic access to his past. He knew facts about his life without being able to *remember* living it—demonstrating that the self-encounter specific to episodic memory is phenomenologically distinct from factual self-knowledge.
 
+## Pastness: phenomenal property or metacognitive/simulationist feeling?
+
+The previous sections treat pastness as a phenomenal feature of episodic memory—a felt qualitative character distinguishing remembering from imagining. Contemporary philosophy of memory offers several deflationary readings of this feature, each denying that pastness is a primitive phenomenal property and proposing an alternative individuation. The earlier distinction between phenomenological reports and metaphysical conclusions anchors what follows: the question is whether the felt character of pastness is best captured as a phenomenal property of the memory itself, a metacognitive feeling about it, a representational feature of its content, an affective tone, or a metacognitive tag distinguishing past-oriented from future-oriented constructive simulation. Each deserves engagement on its own terms.
+
+The metacognitive epistemic-feeling reading (Perrin, Michaelian & Sant'Anna 2020) holds that pastness is a downstream feeling produced by monitoring features of the retrieval process—fluency, vividness, source-signals—rather than a phenomenal property of the first-order memory. The premise denied is that the felt-as-past character belongs to the experience itself rather than to a metacognitive accompaniment. The reply does not turn on rejecting metacognition. The metacognitive feeling, on Perrin et al.'s own account, is itself something the subject is conscious of—a felt quality of certainty, accompaniment, or temporal placement. Relocating felt-pastness one tier up the cognitive architecture does not remove it from the phenomenal register; it changes which subprocess produces it. If the strong form of the reading is right—the felt character is exhausted by the functional role of monitoring, with no phenomenal residue—the article would have to drop the claim that pastness is a phenomenal feature *of the memory itself* and recast it as a phenomenal feature of the metacognitive accompaniment. The dualist consequence would survive at the relocated site, but the article's structure would need rewriting to acknowledge the relocation.
+
+The intentionalist reading (Fernández 2019) holds that pastness is a representational property: the memory represents itself as caused by a past experience, and felt-as-past character is exhausted by what is so represented. The premise denied is that pastness has qualitative character over and above representational content. The reply available inside intentionalism is that the view owes a story about why representation of pastness produces a felt difference between remembering and imagining the same content—both intend a past event, but only one feels past-encountered. Fernández develops the story through self-reflexivity, but the felt difference does not reduce to the formal feature; the qualitative character remains the explanandum. If intentionalism does succeed in capturing the felt difference through representational structure alone, the article's irreducibility claim must transfer from pastness specifically to qualia generally, weakening the case for treating pastness as a separate datum.
+
+The two-tier reading (Dokic 2014) and the affective-phenomenology readings (Matthen 2010; Russell 2014) are easier to absorb. Dokic distinguishes a phenomenal tier from a metacognitive tier and allows them to come apart in clinical cases—a structure hospitable to the article's claim, since the phenomenal tier is exactly where the claim sits. Matthen and Russell locate pastness in affective tone—the settled feel of finality, the warmth of nostalgia, the sting of regret. These views specify the phenomenology rather than deflating it; affective phenomenology is itself phenomenology, and the residue the Map's argument needs survives. The disagreement with these accounts is closer to a refinement of the article's vocabulary than a rival to its substance.
+
+The simulationist reading (Michaelian 2016, *Mental Time Travel*) is the empirically sharpest challenge. Episodic memory and episodic future-thinking share the constructive default-mode-network circuitry; on the simulationist view, the felt difference between remembering and imagining is a metacognitive tag applied to past-oriented simulations, not a separate phenomenal property. The premise denied is that mechanism-identity at the constructive level is compatible with phenomenal-distinctness. The reply runs through the difference between *constraining* a position and *establishing* its denial. Shared circuitry constrains the simplest "remembering and imagining are phenomenally indistinguishable" identity—the brain does indeed use one episodic construction system for both—but it does not establish the simulationist reduction, because subjects routinely report a robust felt difference even when both processes recruit the same network. The same circuitry can subserve different phenomenal outputs depending on input conditions, attentional set, and source-monitoring signals; mechanism-identity at the network level is the empirical adequacy floor, not the phenomenal ceiling. If neuroimaging eventually demonstrates that the felt-as-past character covaries entirely with imagined-as-future content—that subjects under controlled conditions cannot phenomenally discriminate the two—the article's reading would be empirically defeated. The data through 2026 run the other way: the felt difference is robust across imaging paradigms, and the discrimination problem (how subjects tell memory from imagining at all) remains a recognised empirical research target rather than a closed question.
+
+What survives these engagements is the phenomenal datum in a narrower form than the earlier sections present. The metacognitive and intentionalist readings can be granted in their hospitable forms without losing it; the two-tier and affective readings are absorbable without strain; the simulationist reading is constrained but not defeated. The residue is closer to bedrock than first appears—the disagreement between the Map and the strongest deflationary readings is not closed by the phenomenology alone. It rests on the further argument, staged next, that the felt character of pastness resists computational specification of the kind functionalism would require.
+
 ## The Pastness Quale and Irreducibility
 
 The felt pastness of genuine memories—the qualitative sense that "this happened to me, back then"—resists reduction to computational description. A computer processing temporal tags can represent that an event occurred at time T without any phenomenal sense of pastness. The pastness quale is something additional: a mode of temporal experience that accompanies autonoetic retrieval.
@@ -140,3 +154,43 @@ The phenomenology of memory and self connects directly to the Map's foundational
 1. Wheeler, M. A., Stuss, D. T., & Tulving, E. (1997). Toward a theory of episodic memory. *Psychological Bulletin*, 121(3), 331–354.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893–1917)*. Trans. J. B. Brough. Kluwer.
 1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
+1. Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
+1. Fernández, J. (2019). *Memory: A Self-Referential Account*. Oxford University Press.
+1. Dokic, J. (2014). Feeling the past: A two-tiered account of episodic memory. *Review of Philosophy and Psychology*, 5(3), 413–426.
+1. Matthen, M. (2010). Is memory preservation? *Philosophical Studies*, 148(1), 3–14.
+1. Russell, J. (2014). Episodic memory as re-experiential memory: Kantian, developmental, and neuroscientific currents. *Review of Philosophy and Psychology*, 5(3), 391–411.
+1. Michaelian, K. (2016). *Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past*. MIT Press.
+
+<!-- AI REFINEMENT LOG - 2026-05-10
+Changes made:
+- Added new section "Pastness: phenomenal property or metacognitive/simulationist feeling?" between "Memory as Self-Threat" and "The Pastness Quale and Irreducibility" (~720 words)
+- Engages five named rivals in natural journal-quality prose:
+  - Perrin, Michaelian & Sant'Anna 2020 (metacognitive epistemic-feeling): in-framework reply that relocating pastness one tier up does not remove it from the phenomenal register; conditional concession on what would change if the strong form is right
+  - Fernández 2019 (intentionalist): in-framework reply that the felt difference between remembering and imagining the same content is not reducible to representational structure alone; conditional concession on transferring the irreducibility claim
+  - Dokic 2014 (two-tier) and Matthen 2010 / Russell 2014 (affective phenomenology): absorbable — phenomenal tier hospitable, affective phenomenology specifies rather than deflates
+  - Michaelian 2016 simulationism + DMN neuroimaging: constrain-vs-establish move applied to mechanism-identity; conditional concession on what would defeat the article's reading
+- Closing paragraph honestly notes that the residue is closer to bedrock than the engagements alone close — the disagreement with the strongest deflationary readings is not closed by phenomenology, and rests on the irreducibility argument staged in the following section
+- Added 7 new references (Perrin/Michaelian/Sant'Anna 2020, Fernández 2019, Dokic 2014, Matthen 2010, Russell 2014, Michaelian 2016)
+- Updated ai_modified to 2026-05-10T14:13:00+00:00
+
+Engagement classification (changelog-internal, NOT in article body):
+- Perrin/Michaelian/Sant'Anna metacognitive: Mode One — defective on its own terms; the metacognitive feeling is itself phenomenal and the relocation does not eliminate the datum
+- Fernández intentionalist: Mode One — owes a story about felt difference between remembering and imagining; the qualitative character remains the explanandum
+- Dokic two-tier: Mode One absorption — the phenomenal tier hospitable; no real disagreement
+- Matthen / Russell affective: Mode One absorption — affective phenomenology is phenomenology
+- Michaelian simulationism: Mixed — opens with constrain-vs-establish (Mode One), closes with empirically-defeasible boundary acknowledgment (Mode Three)
+
+Source: P1 todo task — convergent finding across 2026-05-10 outer reviews (Claude explicit on the philosophical taxonomy; Gemini explicit on Michaelian + DMN; ChatGPT implicit via P3 hostile-review-steelman). Fifth convergent flagging of label-based dismissal of opponents across outer reviews (2026-05-03, 2026-05-04 ChatGPT/Claude, 2026-05-10 Claude/Gemini).
+
+Verification notes from review applied:
+- "Pastness asserted but not individuated" (Claude line 58) — addressed by per-rival individuation
+- "Map's response is to list the three frameworks and assert... that is not an argument" (Claude line 82a) — replaced label-style dismissal with per-rival in-framework reply
+- "Empirical/neuroconstructivist pressure ignored" (Gemini line 100) — addressed by simulationist subsection with explicit concession on what would defeat the article's reading
+
+Anchor honoured: the new section links to the existing line-57 hedge ("phenomenological reports — evidence about the structure of experience, not by themselves evidence for or against dualism") rather than slipping into tenet-protective rebuttal.
+
+Forbidden labels check:
+- No "direct-refutation-feasible", no "unsupported-jump callout", no "bedrock-perimeter", no "mode-mixed", no "tenet-register move", no "Engagement classification:" in article body, no "per [[direct-refutation-discipline]]" parenthetical, no bold-headed "**Evidential status:**" callouts.
+
+This log should be removed after human review.
+-->

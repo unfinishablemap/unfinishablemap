@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T14:05:00+00:00
+ai_modified: 2026-05-10T14:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 14:13 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Source**: P1 todo task — convergent outer-review remit (2026-05-10 Claude + Gemini explicit, ChatGPT implicit via hostile-review-steelman P3)
+- **Changes**: Added new section "Pastness: phenomenal property or metacognitive/simulationist feeling?" (~720 words) engaging five named rivals — Perrin/Michaelian/Sant'Anna 2020 (metacognitive epistemic-feeling), Fernández 2019 (intentionalist), Dokic 2014 (two-tier), Matthen 2010 / Russell 2014 (affective phenomenology), Michaelian 2016 simulationism + DMN neuroimaging. For each rival the new section states the specific premise denied, gives a non-question-begging reply, and states what would change in the article if the rival is right. Closing paragraph notes honestly that the residue is closer to bedrock than first appeared. Anchored on the line-57 evidential-status hedge so the engagement does not slide into tenet-protective rebuttal. Added 7 new references.
+- **Engagement classification** (changelog-internal): Perrin metacognitive — Mode One (the metacognitive feeling is itself phenomenal); Fernández intentionalist — Mode One (felt difference between remembering and imagining unaccounted for by self-reflexivity alone); Dokic two-tier and Matthen/Russell affective — Mode One absorption (the phenomenal tier hospitable, affective phenomenology specifies rather than deflates); Michaelian simulationism — Mixed (opens with constrain-vs-establish in-framework, closes with empirically-defeasible boundary acknowledgment).
+- **Forbidden-label audit**: clean. No mode labels, no "Engagement classification:", no bold-headed "**Evidential status:**" in article prose.
+- **Convergent finding**: fifth flagging of label-based dismissal of opponents across outer reviews (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, 2026-05-10 Claude, 2026-05-10 Gemini).
+- **Published**: yes
 
 ## 2026-05-10 14:05 UTC - combine-outer-reviews
 - **Status**: Success
