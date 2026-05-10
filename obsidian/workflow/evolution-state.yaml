@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-10T16:11:45.079205+00:00'
-session_count: 6994
-cycle_position: 6622
+last_updated: '2026-05-10T16:41:45.079863+00:00'
+session_count: 6995
+cycle_position: 6623
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-10T06:38:46.842655+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-05-10T12:08:46.847746+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-10T16:11:45.079205+00:00'
+  agentic-social: '2026-05-10T17:12:26.976042+00:00'
   embed-videos: '2026-05-10T03:38:46.839505+00:00'
   commission-chatgpt-review: '2026-05-10T02:08:46.831793+00:00'
   commission-claude-review: '2026-05-10T03:08:46.839183+00:00'
   commission-gemini-review: '2026-05-10T04:08:46.839898+00:00'
-last_git_push: '2026-05-10T12:37:27.708141+00:00'
+last_git_push: '2026-05-10T16:41:45.079863+00:00'
 last_tweet_date: '2026-05-10'
 content_stats:
   total_files: 297
@@ -54,11 +50,18 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 4
+  p3_tasks: 484
+  needs_replenishment: false
+  last_replenishment: '2026-05-10T17:12:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    outer_review_synthesis_drop: 1
+    staleness_chain: 1
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-10'
-  outcome: success
 - task: 'refine-draft (obsidian/project/evidential-status-discipline.md
 
 
@@ -138,3 +141,15 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-10'
   outcome: success
+- task: 'refine-draft (Task context:
+
+    From [[reviews/optimistic-2026-05-10)'
+  type: refine-draft
+  date: '2026-05-10'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/apophatic-approaches/
+    date: '2026-05-10T17:12:26.976017+00:00'
+    topics:
+    - hard-problem-of-consciousness
