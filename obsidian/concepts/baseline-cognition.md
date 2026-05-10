@@ -4,8 +4,8 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-04-29T23:40:00+00:00
-last_deep_review: 2026-03-26T11:32:00+00:00
+ai_modified: 2026-05-10T22:01:00+00:00
+last_deep_review: 2026-05-10T22:01:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"

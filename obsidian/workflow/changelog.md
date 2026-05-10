@@ -5,6 +5,21 @@ ai_modified: 2026-05-10T21:31:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-10 22:01 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/baseline-cognition]]
+- **Word count**: 2561 → 2561 (unchanged; length-neutral mode at soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Cumulative review count**: 9 (article has converged)
+- **Convergence note**: All changes since the 2026-03-26 review have been structural wikilink retargeting (causal-delegation → delegatory-causation; consciousness-and-social-cognition → consciousness-and-social-understanding; consciousness-and-intelligence → consciousness-and-cognitive-distinctiveness; ai-consciousness-modes → ai-consciousness-typology) plus one metarepresentation-threshold cross-reference. No content additions, no new attributions, no new claims requiring calibration check.
+- **Pessimistic personas applied**: Churchland (bedrock, engaged via epiphenomenalism section), Dennett (engaged via Illusionist Challenge — Mixed Mode), Tegmark (quantum hedge intact), Deutsch (bedrock, noted in Site Perspective), Popper (five falsification conditions present), Nagarjuna (compatible). No calibration slippage detected via the diagnostic test.
+- **Reasoning-mode classification**: Illusionist Challenge — Mixed (regress = Mode One; empirical dissociation = Mode Two; training-effects question = Mode One; systematic-pattern = Mode Two). Epiphenomenalism Challenge — Mode Two. No editor-vocabulary label leakage in article body.
+- **Attribution accuracy**: All citations (DeWall, Cowan, Tomasello, Whiten, Randeniya, De Neys, Völter, Miyamoto) verified intact from prior reviews.
+- **Optimistic personas applied**: Chalmers/Stapp/Nagel/Whitehead/Kane/McGinn/Birch — all identify stable strengths (three-function GWT mapping, falsifiability rigour, Jourdain Hypothesis, properly hedged quantum claim). No new expansion opportunities given length-neutral constraint.
+- **Output**: [[reviews/deep-review-2026-05-10-baseline-cognition]]
+
 ## 2026-05-10 21:31 UTC - condense
 - **Status**: Success
 - **File**: [[topics/the-binding-problem]]
