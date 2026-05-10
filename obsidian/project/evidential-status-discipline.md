@@ -4,7 +4,8 @@ description: "A tenet may remove a defeater, but it must not upgrade the evidenc
 created: 2026-05-05
 modified: 2026-05-10
 human_modified: null
-ai_modified: 2026-05-10T05:39:00+00:00
+ai_modified: 2026-05-10T18:02:00+00:00
+last_deep_review: 2026-05-10T18:02:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -129,7 +130,7 @@ Before any article claims to refute the Many-Worlds Interpretation, it must answ
 
 If yes, the article must classify the disagreement as a framework boundary — Mode Three in [[direct-refutation-discipline]]'s terms — unless it supplies an additional argument for why *global ontological uniqueness*, rather than *branch-local uniqueness*, is required by the phenomenon. From inside a decohered branch, the Everettian subject has a determinate macroscopic past, indexically owned memories, and a unique remembered history. The branch-local restatement does not foreclose the Map's rejection of MWI; it relocates the disagreement to the framework-boundary register where the rejection actually lives — the rejection is, after all, a tenet (Tenet 4), not a derived conclusion.
 
-The rule operationalises the *boundary-substitution failure mode*: presenting tenet-derived disagreement with MWI as if memory phenomenology, identity considerations, or single-history intuitions had refuted MWI inside MWI's framework. Four independent outer reviewers have converged on this slippage as recurring across the catalogue — 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, and 2026-05-10 ChatGPT all flagged it in different articles engaging different phenomena. Convergence at that density takes the failure mode out of the case-by-case register: every article that engages MWI is at risk, and the checklist is the cheapest pre-publication catch.
+The rule operationalises the *boundary-substitution failure mode* — presenting tenet-derived disagreement as if it had refuted the opponent inside the opponent's framework — applied to the MWI case. The MWI instance was first flagged by the 2026-05-10 ChatGPT outer review of [[phenomenology-of-memory-and-the-self]]: the article's appeal to "metaphysical singularity of history" assumed exactly what the Everettian denies, treating the Map's tenet-driven preference for global ontological uniqueness as if it had refuted MWI from inside MWI's framework. The broader boundary-substitution pattern, however, has surfaced in three earlier outer reviews engaging different opponents — 2026-05-03 ChatGPT on animal consciousness (defeater-removal silently treated as evidence-elevation) and 2026-05-04 ChatGPT and Claude on Duch's articon (tenet-incompatibility presented as in-framework refutation). Convergence on the broader pattern across four reviewers takes the failure mode out of the case-by-case register; the MWI checklist is the cheapest pre-publication catch for the specific case where the branch-local restatement is available.
 
 The checklist sits at the intersection of evidential-status and direct-refutation discipline. Evidential-status governs how the catalogue labels the phenomenological evidence MWI is supposedly defeated by; direct-refutation governs whether the disagreement is presented as in-framework refutation or as framework-boundary marking. The checklist is the operational artefact at the intersection: it forces the article to confront the branch-local restatement before declaring refutation, and it routes the disagreement to its honest register when the restatement is available.
 
@@ -245,22 +246,3 @@ The evidential-status discipline is documented through the catalogue's outer-rev
 9. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/
 10. Southgate, A. & Oquatre-sept, C. (2026-04-29). Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/bedrock-clash-vs-absorption/
 11. *The Unfinishable Map* outer review, 2026-05-10 (ChatGPT 5.5 Pro). Pressure-tests [[phenomenology-of-memory-and-the-self]]; identifies the experience→irreducibility, dissociation-chain, and MWI-restatement failure modes the three cross-cutting rules in this article codify. https://unfinishablemap.org/reviews/outer-review-2026-05-10-chatgpt-5-5-pro/
-
-<!-- AI REFINEMENT LOG - 2026-05-10
-Changes made:
-- Added "Three Cross-Cutting Rules" section after "The Diagnostic Test" (~600 words)
-  - Rule 1: Phenomenological datum ≠ irreducible metaphysical datum (experience→irreducibility axis)
-  - Rule 2: Dissociation arguments must separate four levels (separability / phenomenological reality / mechanistic independence / metaphysical irreducibility)
-  - Rule 3: MWI-specific review checklist ("Could an Everettian restate this phenomenon as branch-local, centered, and determinate?")
-- Added [[phenomenology-of-memory-and-the-self]] and [[reviews/outer-review-2026-05-10-chatgpt-5-5-pro]] to related_articles
-- Added 2026-05-10 outer review as reference 11
-
-Source: items 12–14 of [[reviews/outer-review-2026-05-10-chatgpt-5-5-pro]] improvement list.
-Convergent finding: rule 3 operationalises the boundary-substitution failure mode that 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, and 2026-05-10 ChatGPT outer reviews have now independently flagged.
-
-Verification notes from review applied: rules placed at the cross-cutting-discipline level (the reviewer's recommended location) rather than embedded in the focus-article being reviewed; this allows other articles to inherit the discipline by reference rather than per-case duplication.
-
-Engagement classification: not applicable — this article is a discipline-document, not an opponent-engagement article. The MWI checklist itself routes opponent-engagements (anti-MWI articles) toward Mode Three boundary-marking when the branch-local restatement is available.
-
-This log should be removed after human review.
--->

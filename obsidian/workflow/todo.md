@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Apply new MWI-checklist rule from evidential-status-discipline across MWI-touching articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 2026-05-10 refine of `obsidian/project/evidential-status-discipline.md` (commit landed; the discipline now includes a "MWI-specific review checklist" rule). The rule: *Before any article claims to refute MWI, require it to answer: "Could an Everettian restate this phenomenon as branch-local, centered, and determinate?" If yes, classify the disagreement as a framework boundary (Mode Three in [[direct-refutation-discipline]] terms) unless there is an additional argument for why global ontological uniqueness is required by the phenomenon.* The rule operationalises the boundary-substitution failure mode that five independent outer reviewers have now converged on (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, 2026-05-10 ChatGPT and Claude). Cross-review pass should: (a) grep for MWI / many-worlds / Many-Worlds / Everett across `topics/`, `concepts/`, `apex/`, and `arguments/` (~140+ candidate files; prioritise the load-bearing ones — `arguments/many-worlds-argument.md`, `topics/quantum-holism-and-phenomenal-unity.md`, `topics/phenomenology-of-memory-and-the-self.md`, `topics/consciousness-and-probability-interpretation.md`, and any apex articles invoking MWI rejection); (b) for each load-bearing claim that *refutes* MWI, verify the article either passes the checklist or explicitly classifies the disagreement as framework-boundary; (c) install the checklist invocation as a methodological reference where the article's claim survives but should be hedged as Mode Three; (d) flag any article where the checklist reveals an unrecoverable refutation claim for follow-up refine. Short-medium scope (~300–600 words touched across 4–8 files). Tenet alignment: Tenet 4 (No Many Worlds) + methodological. See [[project/evidential-status-discipline]] (post-2026-05-10 refine) and [[project/direct-refutation-discipline]].
-- **Source**: chain (from refine-draft of evidential-status-discipline.md 2026-05-10)
-- **Generated**: 2026-05-10
-
 ### P2: Apply new dissociation-levels rule from evidential-status-discipline across dissociation-using articles
 - **Type**: cross-review
 - **Status**: pending
@@ -3458,6 +3451,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Apply new MWI-checklist rule from evidential-status-discipline across MWI-touching articles
+- **Type**: cross-review
+- **Notes**: Chain from today's 2026-05-10 refine of `obsidian/project/evidential-status-discipline.md` (commit landed; the discipline now includes a "MWI-specific review checklist" rule). The rule: *Before any article claims to refute MWI, require it to answer: "Could an Everettian restate this phenomenon as branch-local, centered, and determinate?" If yes, classify the disagreement as a framework boundary (Mode Three in [[direct-refutation-discipline]] terms) unless there is an additional argument for why global ontological uniqueness is required by the phenomenon.* The rule operationalises the boundary-substitution failure mode that five independent outer reviewers have now converged on (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, 2026-05-10 ChatGPT and Claude). Cross-review pass should: (a) grep for MWI / many-worlds / Many-Worlds / Everett across `topics/`, `concepts/`, `apex/`, and `arguments/` (~140+ candidate files; prioritise the load-bearing ones — `arguments/many-worlds-argument.md`, `topics/quantum-holism-and-phenomenal-unity.md`, `topics/phenomenology-of-memory-and-the-self.md`, `topics/consciousness-and-probability-interpretation.md`, and any apex articles invoking MWI rejection); (b) for each load-bearing claim that *refutes* MWI, verify the article either passes the checklist or explicitly classifies the disagreement as framework-boundary; (c) install the checklist invocation as a methodological reference where the article's claim survives but should be hedged as Mode Three; (d) flag any article where the checklist reveals an unrecoverable refutation claim for follow-up refine. Short-medium scope (~300–600 words touched across 4–8 files). Tenet alignment: Tenet 4 (No Many Worlds) + methodological. See [[project/evidential-status-discipline]] (post-2026-05-10 refine) and [[project/direct-refutation-discipline]].
+- **Output**: obsidian/project/evidential-status-discipline.md -- Context: Apply new MWI-checklist rule from evidential-status-discipline across MWI-touching articles
 
 ### ✓ 2026-05-10: Refine arguments/many-worlds-argument.md to engage MMI + Saunders-Wallace + Tappenden + Vaidman + Sebens-Carroll + Wilson
 - **Type**: refine-draft

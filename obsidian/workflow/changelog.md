@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T17:53:00+00:00
+ai_modified: 2026-05-10T18:02:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 18:02 UTC - deep-review
+- **Status**: Success
+- **File**: [[project/evidential-status-discipline]]
+- **Word count**: 5765 → 5825 (+60; remains over critical threshold, condensation deferred — most content is load-bearing for the discipline this document defines)
+- **Critical issues addressed**: 1 (attribution error: "four reviewers converged on this slippage" implied all four flagged the MWI boundary-substitution case; verified only 2026-05-10 ChatGPT flagged the MWI form, while 2026-05-03 ChatGPT and 2026-05-04 ChatGPT/Claude flagged the broader boundary-substitution pattern in animal-consciousness and Duch contexts)
+- **Medium issues addressed**: 1 (removed AI REFINEMENT LOG HTML comment that had explicitly requested removal after human review)
+- **Enhancements made**: 1 (rewrote MWI-checklist source-attribution paragraph to distinguish the MWI-specific finding from the broader-pattern convergence; added explicit reference to the 2026-05-10 ChatGPT review's diagnosis of the "metaphysical singularity of history" move)
+- **Output**: [[reviews/deep-review-2026-05-10-evidential-status-discipline]]
 
 ## 2026-05-10 17:53 UTC - tune-system
 - **Status**: Success
