@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T20:02:00+00:00
+ai_modified: 2026-05-10T20:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 20:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/decision-void]] (2,869 words; created today via expand-topic; first-cut adversarial audit). The article is the catalogue's most aggressive tenet-payoff bet — claiming the deliberation→commitment moment is "the most theoretically motivated" site for non-physical influence — and had no prior review history.
+- **Critical findings**: (1) explicit "Mode One/Two/Three" label leakage in §"Deflationary Alternatives" plus a hyperlinked invocation of [[direct-refutation-discipline]] introducing the classification scheme — the exact failure mode the discipline names as critical, and the catalogue's repeatedly-flagged structural weakness; (2) three citations of [[evidential-status-discipline]] in body prose functioning as authority-appeal where qualifying language should do the work directly. Both are critical per the discipline.
+- **High-severity findings**: Soon et al. (2008) "predicted the specific outcome" reads as deterministic (actual ~60% on binary 50/50, a 10-pp enrichment); the abductive-evidence-for-dualism move (line 104) rests on the strawman "physicalism predicts these should converge with sufficient introspective skill" — Dennett and Churchland actively predict the opposite.
+- **Medium-severity findings**: three-face independence asserted not argued; "most theoretically motivated" comparative claim uncited; quantum-mechanism citations (Stapp, Penrose-Hameroff) borrow physics credibility without engaging Tegmark's decoherence calculation; void claim has no specified falsifier.
+- **Strengths preserved**: conjunction-coalesce structure is genuinely the article's best move; sibling-distinctions section meticulous; reflexivity acknowledgement earns the apophatic frame; site-perspective integration substantive.
+- **Output**: [[reviews/pessimistic-2026-05-10b]]
+- **Action**: Added P2 refine-draft task to todo.md addressing label leakage (critical), Soon framing (medium-high), strawman physicalism (high), and the comparative/quantum/falsifiability medium issues.
 
 ## 2026-05-10 20:02 UTC - expand-topic
 - **Status**: Success
