@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T20:38:00+00:00
+ai_modified: 2026-05-10T21:02:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 21:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/decision-void]]
+- **Based on review**: [[reviews/pessimistic-2026-05-10b]]
+- **Critical fixes**: Removed Mode One/Two/Three editor-vocabulary labels and the [[direct-refutation-discipline]] hyperlink-as-authority-citation from §"Deflationary Alternatives"; rewrote the three deflationary engagements as natural philosophical prose. Engaged Wegner's *Illusion of Conscious Will* chs. 4–5 substantively (inferential authorship-emotion account; cross-cultural robustness explained by universal inference architecture; Wegner's own machinery predicts the void rather than dissolves it). Removed all three [[evidential-status-discipline]] hyperlink-citations (lines 68, 96, 122); replaced with inline qualifying language.
+- **High-severity fixes**: Reported Soon et al. (2008) classifier accuracy magnitude (~60% on binary 50/50) rather than implying deterministic prediction. Replaced the physicalist convergence strawman with accurate framing (Dennett, Churchlands actively predict persistent asymmetry) and reframed the Map's reading as earning its place by integration with other tenets rather than single-issue refutation.
+- **Medium fixes**: Argued the "primary candidate site" claim (decision is the only locus where alternative-resolution matches the form of the phenomenon); downgraded "most theoretically motivated" to "primary candidate" throughout (description, lines 50, 100, 122). Added explicit three-face independence paragraph after §"The Seam" arguing each face is logically severable. Added decoherence-objection acknowledgement (Tegmark 2000) to Stapp/Penrose-Hameroff/Eccles citations; downgraded to live hypotheses.
+- **Engagement classification (editor-internal)**: Wegner — mostly in-framework cooperation (the Map adopts Wegner's apparent-mental-causation architecture and shows it predicts the void) with framework-boundary residue on the underlying causal nexus; fully-physical reading — framework-boundary disagreement, registered honestly; Schurger — in-framework refinement that strengthens the void.
+- **References added**: Tegmark (2000) on neural decoherence; Wegner (2002) chapter-pointer to chs. 4–5.
+- **Strengths preserved**: conjunction-coalesce structure; sibling-distinctions section; reflexivity acknowledgement; site-perspective integration.
+- **Published**: yes (draft: false retained)
 
 ## 2026-05-10 20:38 UTC - pessimistic-review
 - **Status**: Success
