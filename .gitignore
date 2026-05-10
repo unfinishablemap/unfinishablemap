@@ -236,3 +236,6 @@ nul
 
 # Downloaded papers (copyright - do not commit)
 papers/downloads/
+
+# Claude Code local runtime artifacts
+.claude/scheduled_tasks.lock
