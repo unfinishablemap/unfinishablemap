@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T02:22:00+00:00
+ai_modified: 2026-05-10T02:44:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 02:44 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Mode**: Cross-review against newly-installed [[project/common-cause-null]] (created 2026-05-10 01:14 UTC). The project doc cites the apex's line 144 as "the canonical worked instance" — reciprocal cross-link required.
+- **Word count**: 5404 → 5386 (−18; 135% of 4000 soft; 108% of 5000 hard; `hard_warning` unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to common-cause-null project doc; installed in frontmatter and body)
+- **Low issues addressed**: 1 (parenthetical clarifications partly redundant with project doc's fuller exposition; trimmed; three-class naming preserved)
+- **Engagement classifications** (editor-only):
+  - sophisticated functionalist (§Cluster Establishes): Mode Three — honest framework-boundary marking
+  - higher-order theory and illusionism (§Cluster Establishes closing): Mode Two-adjacent — identifies unsupported foundational move (no single-shape unified account) without claiming internal-to-physicalism refutation
+  - Wegner (§Real Time, agency-void): Mode Three with explicit inversion-flag — structural observations cited; interpretive reading honestly noted as inverting the cluster's
+  - shared-introspective-architecture common-cause hypothesis (§Seven Traditions, line 144): Mode Two — identifies unsupported foundational move using the convergence claim's own standards; structural defence supplied (cross-substrate-within-one-organism)
+  - MWI defenders, eliminative materialists, hard-nosed physicalists: Mode Three (bedrock framework-boundary)
+- **Stability**: Third deep review (plus the 2026-05-09 Pass 1 + Pass 2 refinements). Article remains in converged state. The cross-substrate-within-one-organism move and the despite-commitments / because-prediction split installed in Pass 1 are recommended in the project doc as canonical instances of the discipline. No label leakage; no boundary substitution; no possibility/probability slippage. Implicit *specific-machinery* classification per the project doc's two-strength taxonomy is correct and honestly partial.
+- **Output**: [[reviews/deep-review-2026-05-10-phenomenal-output-cross-common-cause-null]]
 
 ## 2026-05-10 02:22 UTC - deep-review
 - **Status**: Success
