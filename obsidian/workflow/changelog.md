@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T17:20:00+00:00
+ai_modified: 2026-05-10T17:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 17:33 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Decision Void
+- **Category**: Mixed (primarily Occluded — moment of commitment hidden from consciousness performing it; with an Unexplorable face — inner mechanism may not be the kind of thing introspection can grasp)
+- **Output**: [[research/voids-decision-void-2026-05-10]]
+- **Key finding**: The structural opacity of the deliberation→commitment transition has three conjoined faces (closure / latency / reconstruction); the empirical record (Libet 1983, Soon et al. 2008, Johansson-Hall choice-blindness, Shadlen-style commitment-decoding) shows third-person measurement can locate the commitment moment with precision unavailable to first-person introspection — a positive empirical signature of an occluded void at the most theoretically motivated MQI-leverage site.
 
 ## 2026-05-10 17:20 UTC - refine-draft
 - **Status**: Success
