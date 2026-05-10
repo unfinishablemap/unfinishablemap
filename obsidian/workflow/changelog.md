@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T03:38:00+00:00
+ai_modified: 2026-05-10T04:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 04:30 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-05-10-chatgpt-5-5-pro]]
+- **Subject**: [[topics/phenomenology-of-memory-and-the-self]] (queue-driven, outer-todo.md:L48)
+- **Headline finding**: Article establishes phenomenological dissociability of pastness/mineness/double-presence but slides too quickly to metaphysical irreducibility; MWI rebuttal via "metaphysical singularity of history" begs the question against branch-local determinacy and is a Mode-Three framework boundary masquerading as a refutation.
+- **Claims verified**: 4 accepted as plausible (Klein & Nichols 2012, Tulving autonoesis, Schacter/Addis/Buckner constructive simulation, SEP MWI branch-local treatment); 3 flagged for refine-draft to verify when revision executes (De Brigard 2024, Gentry 2021, Roache critique of K&N); 2 disputed soft framings noted (recent-changelog characterisation; "begs the question" routing of the boundary-substitution diagnosis).
+- **High-value findings**: 9 (5 structural — pastness-distinction, source-monitoring steelman, K&N rewrite, MWI reframe, Everettian steelman; 1 methodological — three rules for evidential-status-discipline; 2 cross-link — memory-anomalies and anoetic-noetic reciprocal links; 1 hostile-review — coherence-inflation safeguard pass)
+- **Tasks generated**: 4 (P1: 1, P2: 2, P3: 1)
+- **Convergent finding**: MWI boundary-substitution diagnosis echoes 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude outer reviews — fourth independent reviewer convergence. P1 task carries [[direct-refutation-discipline]] remit.
 
 ## 2026-05-10 03:38 UTC - deep-review
 - **Status**: Success
