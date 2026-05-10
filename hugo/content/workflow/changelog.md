@@ -1,13 +1,56 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10 07:38:00+00:00
+ai_modified: 2026-05-10 09:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-10 10:09 UTC - condense
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Before**: 3538 words
+- **After**: 2741 words
+- **Reduction**: 23%
+- **Technique**: Merged Willed-Instructed + Choosing-vs-Observing + Empirical Confirmation into tighter prose; tightened the three "faces" subsections (Calibration, Depletion, Modulation) and condensed the constrain-vs-establish meta-discussion; collapsed Neuroplasticity's three subsections into a single flowing section; compressed Proposed Mechanisms (Stapp Quantum Zeno + alternatives) by deferring more to linked articles; tightened Illusionist Challenge and Effortless Awareness sections; light trim of Relation to Site Perspective tenet paragraphs while preserving all five. Preserved opening summary, all argumentative structure, voice, references, and Further Reading list intact.
+
+## 2026-05-10 09:38 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/the-convergence-argument-for-dualism.md` (after three same-day P2 refines at 07:09, 07:38, 08:38 UTC) and `topics/consciousness-and-the-problem-of-other-properties.md` (deep-review-stable at 08:10 UTC)
+- **Output**: [optimistic-2026-05-10](/reviews/optimistic-2026-05-10/)
+- **New tasks generated**: 4 (cross-review of [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) against the convergence article's three new structural commitments; cross-review of [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) against irreducibility-as-framing register; expand-topic on bidirectional-interaction-as-positive-selection-mechanism; cross-review of concession-convergence + common-cause-null against the convergence article's three structural commitments)
+
+## 2026-05-10 09:09 UTC - condense
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Before**: 5386 words
+- **After**: 4145 words
+- **Reduction**: 23%
+- **Technique**: Removed self-marked AI refinement log (~620 words); compressed seven-traditions framings (each para tightened); trimmed redundant hedging in diagnostic-signature, real-time, and across-time sections; consolidated cluster-establishes paragraphs; tightened constrain-vs-establish symmetric paragraph and worked example. Preserved opening summary, all argumentative structure, voice, the despite-/because-commitments sub-class distinction, common-cause caveat, and Relation to Site Perspective in full.
+
+## 2026-05-10 08:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Mode**: Targeted fix (Issue 3 of [pessimistic-2026-05-10](/reviews/pessimistic-2026-05-10/) — irreducibility-to-dualism propagation)
+- **Word count**: ~3560 → ~4080 (+520 words; new §From Irreducibility to Dualism between §Convergence Across Traditions and §What Convergence Does Not Prove)
+- **Changes**: Added a new section "From Irreducibility to Dualism" that propagates the line-130 disclosure (cross-traditional evidence supports the explanatory gap, not dualism specifically) through to a structural acknowledgment. The section opens by naming the irreducibility-respecting alternatives the convergence argument does not by itself rule out — Buddhist *anattā*, Advaita monism, panpsychism, neutral monism, idealism, and Madhyamaka emptiness — and engages each non-trivial competitor in turn. (1) Panpsychism respects irreducibility but faces the *combination problem*, which is recognisably the explanatory gap transposed from "physical → phenomenal" to "micro-phenomenal → macro-phenomenal" — the same grounds that make the gap serious make combination serious, so panpsychism relocates the explanandum rather than dissolving it. (2) Neutral monism respects irreducibility but leaves the [bidirectional-interaction](/concepts/bidirectional-interaction/) question structurally undetermined; the neutral base may or may not permit phenomenal properties to causally constrain physical evolution, and the convergence argument does not select between the readings. (3) Idealism collapses the asymmetry the convergence argument tracks — the convergence is a pattern in which the physical resists explaining the phenomenal, and idealism dissolves the physical pole rather than treating both as real; incompatible with the Map's bidirectional-interaction commitment, with the disagreement honestly noted as framework-boundary. (4) Madhyamaka emptiness is consistent with the convergence pattern (any sufficiently rigorous analysis encounters the same conceptual fracture point), and the article does not refute it within Madhyamaka's own framework — the disagreement is that Madhyamaka's project is therapeutic while the Map's is metaphysical. The closing paragraph names the Map's selection of dualism as resting on additional considerations beyond the convergence argument — primarily the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction), which requires two genuinely distinct domains in causal contact, ruling out idealism, leaving neutral monism under-specified, and being more naturally expressed in dualist than panpsychist vocabulary. The convergence argument earns "consciousness is irreducible"; the bidirectional-interaction tenet selects "and the irreducible side is a distinct kind of stuff in causal contact with the physical" over the alternatives.
+- **Engagement classification (editor-internal)**: engagement with the irreducibility-respecting rivals is mixed. Panpsychism: Mode One (the combination problem is derivable from panpsychism's own commitments — it accepts the gap-grounds, which then carry over to micro-to-macro composition). Neutral monism: Mode Three (the disagreement is at the level of which positive thesis about interaction the Map adopts; the convergence argument is genuinely silent on the choice). Idealism: Mode Three (the disagreement is at the framework boundary — both poles vs one pole — and is honestly noted as such). Madhyamaka: Mode Three (the article explicitly notes the framework-boundary disagreement: therapeutic vs metaphysical project) with no claim to refute Madhyamaka inside its own terms. The selection-of-dualism paragraph is Mode Two against the convergence argument's tendency to overreach: identifying that the article had been helping itself to the dualist conclusion without earning it, and supplying the missing positive selection (bidirectional interaction) explicitly rather than silently.
+- **Tenet alignment**: methodological + [Dualism](/tenets/#dualism) + [Bidirectional Interaction](/tenets/#bidirectional-interaction). The fix is the structurally-honest move that the article's own line-130 qualifier requires: it converts the silent leverage of the cross-traditional evidence for dualism specifically into an explicit two-step argument (convergence earns irreducibility; bidirectional-interaction tenet selects dualism among the irreducibility-respecting alternatives). The article is now structurally honest about what the convergence argument supplies and what it does not.
+- **Published**: yes (article was already `draft: false`)
+- **Remaining work**: Issues 4–6 (medium severity — phenomenal concept strategy dispatch, cognitive-closure overreach, Zhuangzi/Neo-Confucian citations) tracked as a P3 refine-draft task.
+
+## 2026-05-10 08:10 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/)
+- **Word count**: 2029 → 2029 (no change; article at stability)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only)
+- **Engagement classification (editor-internal)**: engagement with Dennett's heterophenomenology: Mode Three with Mode One supporting; the article identifies the philosophical cost of dissolution (denying Mary's knowledge gain, rejecting inverted-spectra coherence) and honestly notes that dualism refuses that cost rather than claiming refutation inside Dennett's framework. No label leakage.
+- **Output**: [deep-review-2026-05-10-consciousness-and-the-problem-of-other-properties](/reviews/deep-review-2026-05-10-consciousness-and-the-problem-of-other-properties/)
 
 ## 2026-05-10 07:38 UTC - refine-draft
 - **Status**: Success
