@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Cross-review topics/epistemology-of-convergence-arguments.md against the convergence article's three new structural commitments
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-10 (High Priority). The convergence argument's three same-day refines (07:09, 07:38, 08:38 UTC on 2026-05-10) installed three new structural commitments: (a) Cluster 3 binding-problem prong with intentionality concession (lines 86–88); (b) type-specificity vitalism disanalogy with explicit bound on its reach (lines 158–162); (c) irreducibility-to-dualism two-step via the bidirectional-interaction tenet (lines 138–150). The companion article [[topics/epistemology-of-convergence-arguments]] develops the formal epistemology of convergence as philosophical method but was last refined before any of these landed. Cross-review should: (i) verify the formal Bayesian treatment reflects the "two clearly independent clusters and a third partially earned" calibration rather than the prior three-cluster framing; (ii) check whether the formal treatment of independence-as-evidence-multiplication acknowledges that cluster-internal dependencies reduce effective independence and that *structural* (form-of-the-demand) features can be load-bearing where temporal (current-state-of-knowledge) features cannot; (iii) check whether multi-step arguments are framed to reflect the convergence-earns-irreducibility-but-tenet-selects-dualism pattern. Short scope (~200–400 words touched), not full rewrite. Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/optimistic-2026-05-10]].
+- **Source**: optimistic-review
+- **Generated**: 2026-05-10
+
+### P3: Cross-review topics/modal-structure-of-phenomenal-properties.md against problem-of-other-properties' irreducibility-as-framing register
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-10 (High Priority). The problem-of-other-properties article (lines 53, 85) treats the irreducibility of phenomenal properties as a *framing the Map adopts* rather than an *established result*. The companion article [[topics/modal-structure-of-phenomenal-properties]] supplies the formal modal backbone (phenomenal properties can vary while physical properties remain fixed, and vice versa). Cross-review should verify that the modal-structure article's argumentative direction is from-irreducibility-to-modal-structure (correct) rather than from-modal-structure-to-irreducibility (potentially circular, given the convergence article's now-explicit recognition that the type-specificity argument cannot be defended by appeal to irreducibility). Short scope (~150–300 words touched). Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/optimistic-2026-05-10]].
+- **Source**: optimistic-review
+- **Generated**: 2026-05-10
+
+### P3: Write topic article on Bidirectional Interaction as Positive Selection Mechanism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-10 (Medium Priority). The convergence argument's new line 150 assigns the bidirectional-interaction tenet a *load-bearing positive selection* role: it selects dualism from among the irreducibility-respecting alternatives (panpsychism, neutral monism, idealism, Madhyamaka). This selection role is structurally important across the Map but is not currently articulated as its own topic-tier subject. Article would name the bidirectional-interaction tenet's specifically-selective role ("requires two genuinely distinct domains in causal contact: incompatible with idealism, under-specified on neutral monism, more naturally expressed in dualist than panpsychist vocabulary") and the supporting arguments that establish bidirectional interaction independently of the irreducibility convergence (the empirical-mental-causation evidence — placebo effects, choking under pressure, motor-control evidence — and the philosophical arguments from agent-causation literature). The article would replace silent appeals to the tenet across the catalogue with a single referential anchor. Topics/ at ~225/250; cap allows. Estimated scope: 1500–2200 words. Tenet alignment: [[tenets#^bidirectional-interaction|Bidirectional Interaction]] (load-bearing) + [[tenets#^dualism|Dualism]] (selection). See [[reviews/optimistic-2026-05-10]].
+- **Source**: optimistic-review
+- **Generated**: 2026-05-10
+
+### P3: Cross-link concession-convergence and common-cause-null against the convergence article's three new structural commitments
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-10 (Medium Priority). The convergence argument's line 100 names the methodology version of the common-cause objection ("what look like independent considerations are one observation read many times") and references [[concept/concession-convergence]] and [[project/common-cause-null]] in its further-reading list. Cross-review should: (a) verify the concession-convergence article's catalogue of physicalist concessions is structurally connected to the convergence argument's *positive* convergence (concession-convergence shows physicalism retreating; convergence-from-arguments shows independent routes converging — together they form a two-sided argument); (b) verify the common-cause-null discipline is operating at the convergence article's three structural commitments — the Cluster 3 binding-problem prong is a successful common-cause-null result (the unity prong's third-person establishability defeats the methodology-version common-cause objection); the type-specificity disanalogy is similarly establishable from the structure of the explananda independently of the convergence argument's conclusion. Short scope (~200–400 words touched across two articles). Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/optimistic-2026-05-10]].
+- **Source**: optimistic-review
+- **Generated**: 2026-05-10
+
 ### P3: Address medium-severity findings in topics/the-convergence-argument-for-dualism.md (PCS dispatch, cognitive-closure overreach, Zhuangzi citation)
 - **Type**: refine-draft
 - **Status**: pending
