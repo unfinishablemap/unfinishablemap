@@ -4,9 +4,9 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-04-29T23:40:00+00:00
+ai_modified: 2026-05-10T01:48:00+00:00
 draft: false
-last_deep_review: 2026-03-25T17:44:00+00:00
+last_deep_review: 2026-05-10T01:48:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

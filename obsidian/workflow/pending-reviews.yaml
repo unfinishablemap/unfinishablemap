@@ -16,6 +16,10 @@
     \ Do the Map's replies actually address Duch's strongest arguments, or bracket\
     \ them as out-of-scope under the tenets? Broaden your research outside the site\
     \ as necessary."
+  subject_type: null
+  subject_title: null
+  subject_articles: null
+  subject_source: null
 - service: claude
   conversation_url: https://claude.ai/chat/b67c8269-c208-4ef6-869c-d4e40189a928
   commissioned_at: '2026-05-04T12:45:34.269668+00:00'
@@ -29,14 +33,18 @@
     and tell me whether the site''s recent integration of Wlodzislaw Duch''s classical-computational
     reduction is substantive engagement or performative inoculation citation. Brief
     response (300 words) is fine.'
+  subject_type: null
+  subject_title: null
+  subject_articles: null
+  subject_source: null
 - service: chatgpt
   conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/69fd8064-9ffc-8326-89ac-34798037c7f5
   commissioned_at: '2026-05-08T06:19:31.452400+00:00'
   prompt_summary: Unbounded-arena AI-risk argument vs Tenet 2 (minimal quantum interaction)
   target_filename: outer-review-2026-05-08-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 3
-  last_attempt_at: '2026-05-09T05:40:44.852257+00:00'
+  last_attempt_at: '2026-05-10T01:46:46.016609+00:00'
   failure_reason: null
   prompt_text: Examine the site https://unfinishablemap.org and its activity changelog
     https://unfinishablemap.org/workflow/changelog/. Over the past 48 hours the site
@@ -51,6 +59,10 @@
     genuinely what the facts support, given that the tenets are taken as inviolate?
     Broaden your research outside the site as necessary. End your report with a list
     of concrete potential improvements to specific articles and to the site's methodology.
+  subject_type: null
+  subject_title: null
+  subject_articles: null
+  subject_source: null
 - service: claude
   conversation_url: https://claude.ai/chat/2826cb86-a130-429b-b32c-572849c36857
   commissioned_at: '2026-05-08T06:50:46.568393+00:00'
@@ -76,3 +88,7 @@
     \ facts support, given the tenets are taken as inviolate? Broaden your research\
     \ outside the site as necessary. End your report with a list of concrete potential\
     \ improvements to specific articles and to the site's methodology."
+  subject_type: null
+  subject_title: null
+  subject_articles: null
+  subject_source: null

@@ -1,6 +1,10 @@
-last_updated: '2026-05-10T00:38:46.830570+00:00'
-session_count: 6966
-cycle_position: 6594
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-10T01:08:46.831094+00:00'
+session_count: 6967
+cycle_position: 6595
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-09T18:38:46.824932+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-10T00:08:46.830174+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-10T01:09:28.763674+00:00'
+  agentic-social: '2026-05-10T01:08:46.831094+00:00'
   embed-videos: '2026-05-09T15:38:46.822402+00:00'
   commission-chatgpt-review: '2026-05-08T06:12:56.200676+00:00'
   commission-claude-review: '2026-05-08T06:42:56.203868+00:00'
@@ -51,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve (create phenomenal-variation-within-a-species)
-  type: apex-evolve
-  date: '2026-05-09'
-  outcome: success
 - task: 'deep-review (None -- Context: cross-review: source-attribution-)'
   type: deep-review
   date: '2026-05-09'
@@ -136,10 +136,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-10'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/causal-closure/
-    date: '2026-05-10T01:09:28.763653+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - topics/free-will
+- task: expand-topic (Write project doc on the Common-Cause Null in Conv)
+  type: expand-topic
+  date: '2026-05-10'
+  outcome: success
