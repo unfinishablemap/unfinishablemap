@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-10T14:41:00+00:00
+ai_modified: 2026-05-10T16:12:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -78,7 +78,9 @@ The phenomenological consequence is unsettling. If every memory is a reconstruct
 
 **Identity distortion**: Memory's selectivity means some experiences are preserved and others lost. The resulting self-narrative is shaped by availability bias, emotional salience, and retrieval practice. Traumatic memories may dominate the narrative, not because they are objectively more significant but because they are more retrievable. Conversely, gradual positive changes may leave no discrete memorable episodes, rendering them invisible to autobiographical reflection. The self that memory constructs is systematically biased by the architecture of encoding and retrieval.
 
-**Pathological breakdowns**: Severe amnesia strips the self of its temporal extension while leaving the minimal self intact. The amnesiac still experiences from a first-person perspective—consciousness persists—but cannot connect present experience to past experience through memory. This dissociation between minimal selfhood and narrative selfhood confirms that memory is constitutive of temporal identity rather than merely recording it. Patient KC, studied extensively by Tulving, retained semantic knowledge while losing autonoetic access to his past. He knew facts about his life without being able to *remember* living it—demonstrating that the self-encounter specific to episodic memory is phenomenologically distinct from factual self-knowledge.
+**Pathological breakdowns**: Severe amnesia strips the self of its temporal extension while leaving the minimal self intact. The amnesiac still experiences from a first-person perspective—consciousness persists—but cannot connect present experience to past experience through episodic memory. This dissociation between minimal selfhood and narrative selfhood confirms that memory is constitutive of temporal identity rather than merely recording it. Patient KC, studied extensively by Tulving and Rosenbaum, retained semantic knowledge while losing autonoetic access to his past—he knew facts about his life without being able to *remember* living it. The early-summary picture of a clean episodic-vs-semantic dissociation is now considered too tidy: Rosenbaum et al.'s (2005) detailed re-examination documented residual semantic-autobiographical structure—abstract self-knowledge of personality traits, life facts, family relationships—and Tulving's later analyses acknowledged a graded rather than total dissociation. What KC nonetheless illustrates is the phenomenological distinctness of episodic re-experiencing: the load-bearing claim is the felt difference between knowing facts about one's life and *remembering* living it, not a strong neural or functional independence between the two systems.
+
+**Semantic continuity in Alzheimer's and MCI**: Tippett, Prebble & Addis (2018) and Klein (2012, 2014) document patients in whom diachronic personal unity is sustained through *semantic* autobiographical continuity—abstract knowledge of one's traits, history, and relationships—even as phenomenological (autonoetic) continuity is substantially degraded. Reduced episodic re-experiencing does not entail a collapsed sense of who one is; semantic self-knowledge can underwrite diachronic unity under the right conditions. The article's earlier sections lean toward an autonoetic-primacy reading on which phenomenological continuity *underwrites* diachronic identity. That reading is too strong as stated. The empirical evidence supports a weaker calibration: phenomenological continuity is one route to diachronic unity, not the sole route, and the AD/MCI finding is a published result the article must absorb rather than recapitulate around. What survives is narrower and remains the article's central commitment: when episodic re-experiencing is intact, it carries a phenomenal character (pastness, mineness, double presence) that semantic continuity does not deliver. The *kind* of self-encounter episodic memory provides is phenomenologically distinct, even if the *function* of grounding diachronic unity is not its exclusive preserve. The dualist consequence the Map draws from the pastness quale survives this weakening, since it rests on the phenomenal character of episodic re-experiencing, not on its monopoly over identity-grounding. This is the kind of recalibration [[evidential-status-discipline]] is built to enforce: the autonoetic claim is held to its phenomenological residue rather than over-reaching into the diachronic-unity domain the AD/MCI evidence shows is multiply realisable.
 
 ## Pastness: phenomenal property or metacognitive/simulationist feeling?
 
@@ -176,6 +178,10 @@ The phenomenology of memory and self connects directly to the Map's foundational
 1. Guillot, M. (2017). I me mine: On a confusion concerning the subjective character of experience. *Review of Philosophy and Psychology*, 8(1), 23–53.
 1. Howell, R. J., & Thompson, B. (2017). Phenomenally mine: In search of the subjective character of consciousness. *Review of Philosophy and Psychology*, 8(1), 103–127.
 1. Dings, R. (2022). On for-me-ness, mineness, and personal identity. *Phenomenology and the Cognitive Sciences*. [citation pending human verification]
+1. Rosenbaum, R. S., Köhler, S., Schacter, D. L., Moscovitch, M., Westmacott, R., Black, S. E., Gao, F., & Tulving, E. (2005). The case of K.C.: Contributions of a memory-impaired person to memory theory. *Neuropsychologia*, 43(7), 989–1021.
+1. Tippett, L. J., Prebble, S. C., & Addis, D. R. (2018). The persistence of identity through time in mild cognitive impairment and Alzheimer's disease. *Frontiers in Psychology*, 9, 94. [citation details pending human verification]
+1. Klein, S. B. (2012). The self and its brain. *Social Cognition*, 30(4), 474–518. [citation pending human verification]
+1. Klein, S. B. (2014). Sameness and the self: Philosophical and psychological considerations. *Frontiers in Psychology*, 5, 29. [citation pending human verification]
 
 <!-- AI REFINEMENT LOG - 2026-05-10
 Changes made:
@@ -234,6 +240,35 @@ Verification notes from reviews applied:
 
 Forbidden labels check:
 - No "direct-refutation-feasible", no "unsupported-jump callout", no "bedrock-perimeter", no "mode-mixed", no "tenet-register move", no "Engagement classification:" in article body, no "per [[direct-refutation-discipline]]" parenthetical, no bold-headed "**Evidential status:**" callouts.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-10 (16:12 UTC)
+Changes made:
+- Updated the KC paragraph in the "Pathological breakdowns" subsection (line 81) to acknowledge Rosenbaum et al. (2005) and Tulving's later analyses showing residual semantic-autobiographical structure. The early-summary picture of a clean episodic-vs-semantic dissociation is reframed as too tidy; what KC illustrates is recalibrated as the phenomenological distinctness of episodic re-experiencing rather than strong neural/functional independence. Preserves the article's central point that there is a felt difference between knowing facts about one's life and remembering living it.
+- Added a new "Semantic continuity in Alzheimer's and MCI" subsection (~280 words) directly after the KC paragraph. Engages Tippett, Prebble & Addis (2018) and Klein (2012, 2014) on AD/MCI patients in whom diachronic personal unity is sustained through semantic autobiographical continuity even as autonoetic continuity is substantially degraded.
+- Applied option (b) from the task spec: weaken the autonoetic-primacy claim to "one route among others." Phenomenological continuity is one route to diachronic unity, not the sole route. The dualist consequence the Map draws from the pastness quale survives this weakening because it rests on the phenomenal character of episodic re-experiencing, not on its monopoly over identity-grounding.
+- Closing tenet anchor: explicitly cites [[evidential-status-discipline]] as the discipline that bites here; the autonoetic claim is recalibrated to its phenomenological residue rather than over-reaching into the diachronic-unity domain the AD/MCI evidence shows is multiply realisable.
+- Added 4 new references: Rosenbaum et al. 2005, Tippett, Prebble & Addis 2018, Klein 2012, Klein 2014. Three flagged for human verification (the Tippett/Prebble/Addis 2018 article title is reconstructed from the review excerpt; the Klein 2012/2014 citations are best-guess matches for the years cited in the outer review).
+- Updated ai_modified to 2026-05-10T16:12:00+00:00.
+
+Touched-word count: ~370 words (replaced ~110-word KC paragraph with ~190 words; added new ~280-word AD/MCI subsection). Within the task's ~250–400 target.
+
+Engagement classification (changelog-internal, NOT in article body):
+- Tippett/Prebble/Addis 2018 + Klein 2012/2014 on AD/MCI semantic continuity: Mode One concession. The task spec explicitly framed the choice as either (a) argue semantic continuity is inadequate or (b) weaken the autonoetic-primacy claim. Option (b) was chosen because the AD/MCI evidence is genuine and the article should absorb it rather than recapitulate the autonoetic-primacy thesis. This is Mode One in its honest form: the empirical finding lands inside the article's own framework and forces a calibration; the residual disagreement (whether semantic-continuity-grounded diachronic unity is *adequate* in the way the autonoetic version is) is preserved as the article's narrower, surviving claim about phenomenological distinctness. Not Mode Three boundary-marking — the empirical finding is accepted on its own terms, not deflected.
+- Rosenbaum et al. 2005 on KC residual semantic-autobiographical structure: Mode One concession. The clean dissociation reading is recalibrated to a graded one; the load-bearing claim is narrowed to phenomenological distinctness rather than systems independence.
+
+Source: P2 todo task from 2026-05-10 outer review by Claude Opus 4.7 (line 56-62 of todo.md). Singleton flag (one reviewer), but the empirical finding is published and uncontested in the relevant literature, so the task does not require cross-reviewer convergence.
+
+Verification notes from review applied:
+- "Patient KC presented as a clean autonoetic-vs-noetic dissociation" (Claude line 161) — addressed via Rosenbaum et al. 2005 acknowledgment of residual semantic-autobiographical structure.
+- "Phenomenological continuity → diachronic unity" / Tippett, Prebble & Addis 2018 / Klein 2012, 2014 (Claude lines 112, 164) — addressed by explicit weakening of autonoetic-primacy claim and the recalibration to "one route among others."
+- "Map's commitment to autonoetic primacy needs to absorb this empirical result" (Claude line 114) — option (b) from the task spec applied.
+
+Forbidden labels check:
+- No "direct-refutation-feasible", no "unsupported-jump callout", no "bedrock-perimeter", no "mode-mixed", no "tenet-register move", no "Engagement classification:" in article body, no "per [[direct-refutation-discipline]]" parenthetical, no bold-headed "**Evidential status:**" callouts.
+- The phrase "discipline [[evidential-status-discipline]] is built to maintain bites here" is the only meta-reference; it follows the existing line-57 pattern of citing evidential-status-discipline as a tenet anchor in natural prose.
 
 This log should be removed after human review.
 -->

@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T15:41:00+00:00
+ai_modified: 2026-05-10T16:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 16:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Source**: P2 todo task from 2026-05-10 outer review by Claude Opus 4.7
+- **Word count**: 4170 → 4435 (+265, +6%)
+- **Issues addressed**: 1 (autonoetic-primacy thesis vs. AD/MCI semantic-continuity counterevidence; clean-dissociation framing of KC)
+- **Changes made**:
+  - Updated KC paragraph in "Pathological breakdowns" to acknowledge Rosenbaum et al. (2005) on residual semantic-autobiographical structure and Tulving's later graded-dissociation analyses; recalibrated KC's lesson from clean systems independence to phenomenological distinctness of episodic re-experiencing
+  - Added new "Semantic continuity in Alzheimer's and MCI" subsection (~280 words) engaging Tippett, Prebble & Addis (2018) and Klein (2012, 2014) on diachronic personal unity sustained through semantic autobiographical continuity when autonoetic continuity is substantially degraded
+  - Applied task option (b): weakened the autonoetic-primacy claim from "underwrites diachronic identity" to "one route among others"; the dualist consequence drawn from the pastness quale is preserved because it rests on phenomenal character, not on identity-grounding monopoly
+  - Anchored the recalibration to [[evidential-status-discipline]] in natural prose (one inline reference, not a callout)
+  - Added 4 new references (Rosenbaum 2005, Tippett/Prebble/Addis 2018, Klein 2012, Klein 2014); 3 flagged for human verification
+- **Engagement classification** (changelog-internal): Mode One concession. The AD/MCI empirical finding lands inside the article's own framework and forces a calibration; the residual claim about phenomenological distinctness is preserved as the article's surviving load-bearing commitment. Not Mode Three boundary-marking — the empirical finding is accepted on its own terms.
+- **Forbidden-label audit**: Clean. No "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "mode-mixed", "tenet-register move", "Engagement classification:" in body, "per [[direct-refutation-discipline]]" parenthetical, or bold-headed "**Evidential status:**" callouts. The single inline reference to [[evidential-status-discipline]] follows the existing line-57 pattern of citing the discipline as a tenet anchor in natural prose.
+- **Output**: [[topics/phenomenology-of-memory-and-the-self]] (modified in-place)
 
 ## 2026-05-10 15:41 UTC - deep-review
 - **Status**: Success

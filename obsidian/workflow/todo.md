@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T10:38:00+00:00
+ai_modified: 2026-05-10T16:12:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -50,22 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: From outer review by Gemini 2.5 Pro 2026-05-10. The reviewer flags that the Map's mental-causation mechanism (consciousness modulating quantum measurement collapse via objective-reduction theories or TSVF/transactional handshakes) operates within narrowing gaps of contemporary quantum measurement ambiguity. There is currently zero empirical evidence that integrated information or subjective states affect wave function collapse rates. If future physics produces a deterministic non-collapse reconciliation of quantum gravity, or empirically demonstrates that environmental decoherence fully explains the classical transition, the Map's proposed mechanism for mental causation would dissolve. This is methodological honesty, not a fatal critique — but the framework should explicitly acknowledge the load-bearing dependence rather than discovering it under pressure. Write `obsidian/project/mqi-empirical-fragility.md` covering: (a) the dependence chain (interactionist dualism + bidirectional causation → mental causation requires physical leverage point → MQI-style modulation requires quantum indeterminacy → indeterminacy requires non-determinist QM interpretation); (b) the empirical signals that would weaken or strengthen this dependence; (c) the relation to the existing tenet-bracketing methodology — Mode Four (above) is the natural discharge classification for this case; (d) the philosophical posture: the framework is honest about its dependencies, treats them as load-bearing rather than ignored, and accepts that metaphysical commitments are revisable under empirical pressure. Estimated 600–900 words; project-doc placement. Tenet alignment: methodological / Tenet 5 (Occam's Razor Has Limits — applies in the inverse: simplicity is unreliable but so is selecting an interpretation purely on metaphysical preference). **Sequencing**: should land after Mode Four (P3 above) since Mode Four is the natural classification slot for Empirical Underdetermination cases like this. See review file.
 - **Review file**: `reviews/outer-review-2026-05-10-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-10
-
-### P2: Refine topics/phenomenology-of-memory-and-the-self.md with AD/MCI semantic-continuity counterevidence
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-10. The article's autonoetic-primacy thesis — phenomenological continuity (autonoetic re-experiencing carrying mineness) underwrites diachronic identity — is directly challenged by Tippett, Prebble & Addis (2018) and Klein (2012, 2014) on AD/MCI: diachronic unity can be supported by *semantic* continuity when phenomenological continuity is degraded. This is a published empirical result the article does not engage. The refine must either (a) argue that semantic continuity is an *inadequate* substitute for diachronic identity (not by recapitulating the autonoetic-primacy thesis but by an independent argument), or (b) weaken the autonoetic-primacy claim to "one route among others." The KC presentation in the article (line 81) treats KC as showing clean episodic-vs-semantic dissociation; Rosenbaum et al. (2005) and Tulving's later analyses indicate residual semantic-autobiographical structure that complicates the clean dissociation. Update the KC paragraph to acknowledge that nuance while preserving the article's central point about the phenomenological distinctness of episodic re-experiencing. ~250–400 words touched. Tenet alignment: empirical hedging / [[evidential-status-discipline]]. See review file.
-- **Review file**: `reviews/outer-review-2026-05-10-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-10
-
-### P2: Add discrimination-problem section to topics/phenomenology-of-memory-and-the-self.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-10. A creditable phenomenology of memory must explain *how the felt-as-past discriminates remembered from imagined or hallucinated*. Bernecker (2010), Michaelian (2016, *Mental Time Travel*), McCarroll (2018, *Remembering from the Outside*), and Robins (2016) converge on this discrimination problem as the central question for any phenomenal-pastness account. Without it, the pastness quale is underspecified — any vivid mental image accompanied by a strong feeling of "this happened" qualifies, which is precisely what produces confabulation and source-monitoring errors (Johnson, Hashtroudi & Lindsay 1993). Add a "Discrimination problem" section that (a) names the question, (b) summarizes the four named accounts, (c) states the Map's response — likely that mineness + pastness quale + double-presence together constitute the discriminating signature, but argued not asserted, (d) acknowledges source-monitoring errors as the empirical pressure point. Sequence after the P1 Perrin/Fernández/Dokic refine above so the metacognitive-vs-phenomenal taxonomy is in place. ~300–400 words touched. Tenet alignment: methodological. See review file.
-- **Review file**: `reviews/outer-review-2026-05-10-claude-opus-4-7.md`
 - **Source**: outer-review
 - **Generated**: 2026-05-10
 
@@ -3453,6 +3437,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Refine topics/phenomenology-of-memory-and-the-self.md with AD/MCI semantic-continuity counterevidence
+- **Type**: refine-draft
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-10. The article's autonoetic-primacy thesis — phenomenological continuity (autonoetic re-experiencing carrying mineness) underwrites diachronic identity — is directly challenged by Tippett, Prebble & Addis (2018) and Klein (2012, 2014) on AD/MCI: diachronic unity can be supported by *semantic* continuity when phenomenological continuity is degraded. This is a published empirical result the article does not engage. The refine must either (a) argue that semantic continuity is an *inadequate* substitute for diachronic identity (not by recapitulating the autonoetic-primacy thesis but by an independent argument), or (b) weaken the autonoetic-primacy claim to "one route among others." The KC presentation in the article (line 81) treats KC as showing clean episodic-vs-semantic dissociation; Rosenbaum et al. (2005) and Tulving's later analyses indicate residual semantic-autobiographical structure that complicates the clean dissociation. Update the KC paragraph to acknowledge that nuance while preserving the article's central point about the phenomenological distinctness of episodic re-experiencing. ~250–400 words touched. Tenet alignment: empirical hedging / [[evidential-status-discipline]]. See review file.
+- **Output**: obsidian/topics/phenomenology-of-memory-and-the-self.md
+
+Task context:
+From outer review by Claude Opus 4.7 2026-05-10. The article's autonoetic-primacy thesis — phenomenological continuity (autonoetic re-experiencing carrying mineness) underwrites diachronic identity — is directly challenged by Tippett, Prebble & Addis (2018) and Klein (2012, 2014) on AD/MCI: diachronic unity can be supported by *semantic* continuity when phenomenological continuity is degraded. This is a published empirical result the article does not engage. The refine must either (a) argue that semantic continuity is an *inadequate* substitute for diachronic identity (not by recapitulating the autonoetic-primacy thesis but by an independent argument), or (b) weaken the autonoetic-primacy claim to "one route among others." The KC presentation in the article (line 81) treats KC as showing clean episodic-vs-semantic dissociation; Rosenbaum et al. (2005) and Tulving's later analyses indicate residual semantic-autobiographical structure that complicates the clean dissociation. Update the KC paragraph to acknowledge that nuance while preserving the article's central point about the phenomenological distinctness of episodic re-experiencing. ~250–400 words touched. Tenet alignment: empirical hedging / [[evidential-status-discipline]]. See review file.
+
+Review file: reviews/outer-review-2026-05-10-claude-opus-4-7.md
+
+### ✓ 2026-05-10: Refine topics/phenomenology-of-memory-and-the-self.md with AD/MCI semantic-continuity counterevidence
+- **Type**: refine-draft
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-10. Updated KC paragraph in "Pathological breakdowns" subsection to acknowledge Rosenbaum et al. (2005) and Tulving's later analyses on residual semantic-autobiographical structure (the early-summary clean dissociation reframed as too tidy; KC's load-bearing lesson recalibrated to phenomenological distinctness of episodic re-experiencing rather than strong systems independence). Added new "Semantic continuity in Alzheimer's and MCI" subsection (~280 words) engaging Tippett, Prebble & Addis (2018) and Klein (2012, 2014) on diachronic personal unity sustained through semantic autobiographical continuity even as autonoetic continuity is substantially degraded. Applied task option (b): weakened the autonoetic-primacy claim from "underwrites diachronic identity" to "one route among others." The dualist consequence drawn from the pastness quale is preserved because it rests on phenomenal character, not on identity-grounding monopoly. Anchored the recalibration to [[evidential-status-discipline]] in natural prose. Added 4 new references; 3 flagged for human verification. ~370 words touched (within 250–400 target). Mode One concession — empirical finding accepted on its own terms, article's residual claim about phenomenological distinctness preserved as the surviving load-bearing commitment. Forbidden-label audit clean.
+- **Review file**: `reviews/outer-review-2026-05-10-claude-opus-4-7.md`
+- **Output**: obsidian/topics/phenomenology-of-memory-and-the-self.md
 
 ### ✓ 2026-05-10: Cross-review concepts/atemporal-causation.md against topics/phenomenology-of-memory-and-the-self.md to resolve the retrocausal-vs-pastness paradox
 - **Type**: cross-review
