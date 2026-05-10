@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T17:40:00+00:00
+ai_modified: 2026-05-10T17:44:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 17:44 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/moral-architecture-of-consciousness]]
+- **Changed sources**: 10 (all apex_sources modified since 2026-04-05 synthesis)
+- **Word count**: 3400 → 3970 (within 2500-4000 target)
+- **Review**: [[reviews/apex-evolve-2026-05-10-moral-architecture-of-consciousness]]
+- **Key changes**: Added Compatibilist Symmetry Challenge subsection; recharacterised sophisticated compatibilism honestly (Frankfurt/Fischer-Ravizza/Wolf ground desert in metaphysically substantive capacities, not pragmatic convention); updated normativity terminology to demand-character / resistance-to-preference / gradedness; added Standing Agnostic Challenge (Gutfreund 2024) and "realistic possibility, contested" framing for invertebrates with trillion-being moral stakes; sharpened value-in-mechanism discriminating tests (pain asymbolia, Berridge wanting/liking, moral override, anticipation problem); added philosophical Vulcan, indexical value, pain-asymbolia sensory/affective clarification; flagged quantum mechanism as speculative load-bearing; removed stale 2026-03-20 refinement log.
 
 ## 2026-05-10 17:40 UTC - check-tenets
 - **Status**: Success
