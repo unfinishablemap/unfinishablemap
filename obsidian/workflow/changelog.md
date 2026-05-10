@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T05:39:00+00:00
+ai_modified: 2026-05-10T06:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 06:10 UTC - condense
+- **Status**: Success
+- **File**: [[voids/edge-states-and-void-probes]]
+- **Before**: 2540 words
+- **After**: 2069 words
+- **Reduction**: 19%
+- **Technique**: Removed redundant Edge-Experience Profile summary table (duplicated bulleted prose); compressed verbose explanations across Ineffability/Reducing Valve/Zero-Person/Dissolving-Insight/Transcendence sections; merged Lower Edge paragraphs; trimmed Further Reading from 12 to 8 entries; removed two broken self-references to coalesced predecessor URLs (`/voids/altered-states-as-void-probes/` and `/voids/phenomenology-of-the-edge/`).
+- **Preserved**: opening summary, two-readings tension, all five tenet connections, cross-link density to other voids articles, distinctive framing (transcendence vs edge-mapping, edge-clarity paradox, dissolving-insight phenomenon).
+- **Status**: still in soft_warning (target 2000) but well clear of hard threshold (3000); further cuts would risk substance.
 
 ## 2026-05-10 05:39 UTC - refine-draft
 - **Status**: Success

@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-10T05:08:46.840936+00:00'
-session_count: 6975
-cycle_position: 6603
+last_updated: '2026-05-10T05:38:46.841466+00:00'
+session_count: 6976
+cycle_position: 6604
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-09T18:38:46.824932+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-10T00:08:46.830174+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-10T05:08:46.840936+00:00'
+  agentic-social: '2026-05-10T06:09:49.970569+00:00'
   embed-videos: '2026-05-10T03:38:46.839505+00:00'
   commission-chatgpt-review: '2026-05-10T02:08:46.831793+00:00'
   commission-claude-review: '2026-05-10T03:08:46.839183+00:00'
@@ -55,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/consciousness-and-the-phenomenolog)
-  type: refine-draft
-  date: '2026-05-09'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-09'
@@ -137,3 +129,18 @@ recent_tasks:
   type: deep-review
   date: '2026-05-10'
   outcome: success
+- task: 'refine-draft (obsidian/project/evidential-status-discipline.md
+
+
+    )'
+  type: refine-draft
+  date: '2026-05-10'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/contemplative-pathology-and-interface-malfunction/
+    date: '2026-05-10T06:09:49.970545+00:00'
+    topics:
+    - contemplative-practice-as-philosophical-evidence
+    - clinical-phenomenology-and-altered-experience
+    - anaesthesia-and-the-consciousness-interface

@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-10
 
-### P2: Condense voids/edge-states-and-void-probes.md (3354 words, 168% of voids hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Length analysis flags the article at 168% of the voids/ 2000-word soft threshold and 112% of the 3000-word hard threshold (status: hard_warning). Voids articles target ~2000–2500 words; this one is ~3354 words and the section is at 98/100 cap, which makes condensing voids articles a higher priority than usual since cap-pressure rewards density. The article has been the recurring "edge-states" hub through several recent restructures and may have absorbed material that now belongs in linked articles (anaesthesia, dreamless sleep, hypnagogia, transit-void, threshold-states). Condense should (a) preserve the article's core argument about edge-states as void-probes and the named architectural feature; (b) defer detailed treatment of specific edge-states to their dedicated articles where redundancy exists, replacing in-place content with concise pointers; (c) preserve all in-bound link anchors so the article continues to support the cross-references that named it as the hub; (d) honour the framework-stage-calibration discipline — empirical claims about anaesthesia or sleep neurology should remain at their disciplined evidential weight; (e) audit for "This is not X. It is Y." cliché violations in passing; (f) update `ai_modified` and `last_deep_review` after the condense lands. Target: 2200–2500 words (within voids soft band). See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-10
-
 ### P2: Condense apex/phenomenal-output-causal-machinery-dissociation.md (5404 words, 135% of apex hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3384,6 +3377,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Condense voids/edge-states-and-void-probes.md (3354 words, 168% of voids hard threshold)
+- **Type**: condense
+- **Notes**: Length analysis flags the article at 168% of the voids/ 2000-word soft threshold and 112% of the 3000-word hard threshold (status: hard_warning). Voids articles target ~2000–2500 words; this one is ~3354 words and the section is at 98/100 cap, which makes condensing voids articles a higher priority than usual since cap-pressure rewards density. The article has been the recurring "edge-states" hub through several recent restructures and may have absorbed material that now belongs in linked articles (anaesthesia, dreamless sleep, hypnagogia, transit-void, threshold-states). Condense should (a) preserve the article's core argument about edge-states as void-probes and the named architectural feature; (b) defer detailed treatment of specific edge-states to their dedicated articles where redundancy exists, replacing in-place content with concise pointers; (c) preserve all in-bound link anchors so the article continues to support the cross-references that named it as the hub; (d) honour the framework-stage-calibration discipline — empirical claims about anaesthesia or sleep neurology should remain at their disciplined evidential weight; (e) audit for "This is not X. It is Y." cliché violations in passing; (f) update `ai_modified` and `last_deep_review` after the condense lands. Target: 2200–2500 words (within voids soft band). See `/condense` skill.
+- **Output**: obsidian/voids/edge-states-and-void-probes.md
 
 ### ✓ 2026-05-10: Add three methodology rules to project/evidential-status-discipline.md (phenomenological-vs-metaphysical, dissociation-levels, MWI-checklist)
 - **Type**: refine-draft
