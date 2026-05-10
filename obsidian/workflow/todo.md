@@ -37,6 +37,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Refine topics/phenomenology-of-memory-and-the-self.md to engage Perrin/Fernández/Dokic on the pastness quale
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-10 (Research mode, 141 sources). The article asserts the pastness quale as a primitive phenomenal property but treats the deflationary metacognitive reading (Perrin, Michaelian & Sant'Anna 2020), the intentionalist alternative (Fernández 2019), the two-tier view (Dokic 2014), and the affective-phenomenology view (Matthen 2010, Russell 2014) as "structurally parallel to illusionism" — a label, not an argument. Apply the [[direct-refutation-discipline]] remit: identify what kind of engagement each rival calls for. For each named rival, the refine should (a) state the specific premise the rival denies, (b) give a non-question-begging reason to accept that premise, (c) state what would change in the article if the rival is right. Add as a new section "Pastness: phenomenal property or metacognitive feeling?" — ~400–600 words touched. The existing [[evidential-status-discipline]] hedge ("phenomenological reports — evidence about the structure of experience, not by themselves evidence for or against dualism", line 57) should anchor the new section so the engagement does not slide into a tenet-protective rebuttal. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. Tenet alignment: methodological / [[direct-refutation-discipline]]. Convergent with three prior outer-review findings of label-based dismissal of opponents (2026-05-03, 2026-05-04 ChatGPT and Claude). See review file.
+- **Review file**: `reviews/outer-review-2026-05-10-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-10
+
+### P1: Refine topics/phenomenology-of-memory-and-the-self.md to bridge synchronic mineness to diachronic identity
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-10. The article uses Zahavian for-me-ness / mineness to underwrite *diachronic* identity, but Zahavi himself characterizes mineness as a synchronic feature of each present experience and explicitly distinguishes it from diachronic identity. The argument requires bridging that gap. Engage Lane (2012), Guillot (2017), Howell & Thompson (2017), Dings (2022) — all argue that for-me-ness is too weak to ground numerical identity over time. Add an explicit section either (a) arguing that synchronic mineness entails or grounds diachronic numerical identity (against Lane/Guillot/Klein-Nichols), or (b) supplementing mineness with a separate diachronic identity criterion (haecceity, deep-further-fact). The Klein & Nichols (2012) citation already in the article (line 55, 139) is currently used as evidence FOR phenomenal mineness; the refine should additionally use it to *raise* the synchronic-diachronic question rather than only as supporting evidence. The article currently equivocates between "every experience is mine" (Zahavian, true) and "the same me persists across all my experiences" (substantive metaphysical thesis). Be explicit about which is required for the No-Many-Worlds inference and what auxiliary commitment (haecceity, deep-further-fact, substance dualism) does the bridging work. ~300–500 words touched. Tenet alignment: Tenet 4 (No Many Worlds) load-bearing; methodological / [[direct-refutation-discipline]]. See review file.
+- **Review file**: `reviews/outer-review-2026-05-10-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-10
+
+### P1: Refine arguments/many-worlds-argument.md to engage Saunders-Wallace, Tappenden, Vaidman, Sebens-Carroll
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-10. The argument page is the Map's strongest piece on this constellation but the indexical objection — its load-bearing premise — does not engage the strongest contemporary versions of MWI personal-identity theory. Specifically required engagement: (a) Saunders & Wallace (2008, BJPS) on the diverging-vs-branching distinction — the core question is whether pre-measurement "you" was always a vague plurality that decoheres into one branch, in which case "you only experience one outcome" is preserved without violating MWI; (b) Tappenden (2008, 2011) on emphasis-fixing semantics for the indexical "I" under branching; (c) Vaidman (1998/2012) on the caring measure — rational caring is fixed by amplitude, dissolving the probability problem the Map raises; (d) Sebens & Carroll (2018) on the Epistemic Separability Principle, which gives self-locating uncertainty in the brief interval between decoherence and observation; (e) Wilson (2020, *The Nature of Contingency*) on MWI metaphysics of personal identity (modal realism reading). The Map's existing deep-review (2026-01-26 vertiginous-question) candidly notes this is "bedrock disagreement" — but bedrock should be earned by engaging the strongest opposing view, not declared by skipping it. Apply [[direct-refutation-discipline]]: for each of the five named opponents, identify the specific premise denied, give a non-question-begging reason for the Map's premise, predict what changes if the opponent is right. Where the disagreement is genuinely bedrock (e.g., haecceity vs. branch-relative identity), say so in natural prose and quarantine the bedrock declaration to that specific point. ~600–900 words touched (substantive section additions). Tenet alignment: Tenet 4 (No Many Worlds); methodological. **Sequencing**: should land before or alongside the two phenomenology-of-memory refines above so the cross-link inheritance is consistent. See review file.
+- **Review file**: `reviews/outer-review-2026-05-10-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-10
+
+### P2: Refine topics/phenomenology-of-memory-and-the-self.md with AD/MCI semantic-continuity counterevidence
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-10. The article's autonoetic-primacy thesis — phenomenological continuity (autonoetic re-experiencing carrying mineness) underwrites diachronic identity — is directly challenged by Tippett, Prebble & Addis (2018) and Klein (2012, 2014) on AD/MCI: diachronic unity can be supported by *semantic* continuity when phenomenological continuity is degraded. This is a published empirical result the article does not engage. The refine must either (a) argue that semantic continuity is an *inadequate* substitute for diachronic identity (not by recapitulating the autonoetic-primacy thesis but by an independent argument), or (b) weaken the autonoetic-primacy claim to "one route among others." The KC presentation in the article (line 81) treats KC as showing clean episodic-vs-semantic dissociation; Rosenbaum et al. (2005) and Tulving's later analyses indicate residual semantic-autobiographical structure that complicates the clean dissociation. Update the KC paragraph to acknowledge that nuance while preserving the article's central point about the phenomenological distinctness of episodic re-experiencing. ~250–400 words touched. Tenet alignment: empirical hedging / [[evidential-status-discipline]]. See review file.
+- **Review file**: `reviews/outer-review-2026-05-10-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-10
+
+### P2: Add discrimination-problem section to topics/phenomenology-of-memory-and-the-self.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-10. A creditable phenomenology of memory must explain *how the felt-as-past discriminates remembered from imagined or hallucinated*. Bernecker (2010), Michaelian (2016, *Mental Time Travel*), McCarroll (2018, *Remembering from the Outside*), and Robins (2016) converge on this discrimination problem as the central question for any phenomenal-pastness account. Without it, the pastness quale is underspecified — any vivid mental image accompanied by a strong feeling of "this happened" qualifies, which is precisely what produces confabulation and source-monitoring errors (Johnson, Hashtroudi & Lindsay 1993). Add a "Discrimination problem" section that (a) names the question, (b) summarizes the four named accounts, (c) states the Map's response — likely that mineness + pastness quale + double-presence together constitute the discriminating signature, but argued not asserted, (d) acknowledges source-monitoring errors as the empirical pressure point. Sequence after the P1 Perrin/Fernández/Dokic refine above so the metacognitive-vs-phenomenal taxonomy is in place. ~300–400 words touched. Tenet alignment: methodological. See review file.
+- **Review file**: `reviews/outer-review-2026-05-10-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-10
+
+### P3: Cross-review concepts/phenomenology.md against concepts/autonoetic-consciousness.md to reconcile the diachronic-identity ground
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-10. The Map currently has two locally optimal but globally inconsistent claims about what grounds diachronic identity: `concepts/phenomenology.md` makes the *minimal self / for-me-ness* the "first-person perspective that might persist even when memory fragments"; `concepts/autonoetic-consciousness.md` makes *autonoetic re-experiencing* the carrier of personal continuity. Where Alzheimer's degrades autonoetic continuity while minimal self survives (Tippett, Prebble & Addis 2018), these two theses give different verdicts. The cross-review should either (a) propose a unified position — e.g., minimal self underwrites *bare* diachronic numerical identity while autonoetic continuity carries *narrative* continuity — and update both pages to reflect it, or (b) explicitly note the open question and say which the article-cluster's main inferences require. Light scope (~150–250 words touched across both files). Tenet alignment: methodological / internal-consistency. See review file.
+- **Review file**: `reviews/outer-review-2026-05-10-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-10
+
 ### P3: Cross-review references to coalesced binding-problem articles
 - **Type**: cross-review
 - **Status**: pending

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T12:11:00+00:00
+ai_modified: 2026-05-10T13:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 13:10 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Research mode, 141 sources, 10m 2s)
+- **File**: [[reviews/outer-review-2026-05-10-claude-opus-4-7]]
+- **Subject**: queue → topics/phenomenology-of-memory-and-the-self.md (steered via outer-todo.md, reused across all three services)
+- **Recovery context**: collect failed 5× during the 04:16–06:39 UTC window, evolve_loop stopped, and the conversation was recovered manually after debugging — Chrome's "Default browser" dialog had blocked the original automation runs. Body extracted via JS-DOM walk after a real OS-level click on the "View Referee Report" artifact tile.
+- **Claims verified**: 5 (article uses "pastness quale" terminology ✓, cites Klein & Nichols 2012 ✓, cites Patient KC ✓, does NOT engage Perrin/Sant'Anna/Michaelian/Fernández/Dokic — gap confirmed, does NOT cite Saunders-Wallace/Tappenden/Vaidman/Sebens-Carroll/Wilson — gap confirmed)
+- **High-value findings**: 6
+- **Tasks generated**: 6 (P1: 3, P2: 2, P3: 1)
+- **Convergence**: fourth independent outer review to flag label-based dismissal of opponents (boundary-substitution / direct-refutation discipline) as a structural weakness — convergent with 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude
 
 ## 2026-05-10 12:11 UTC - coalesce
 - **Status**: Success
