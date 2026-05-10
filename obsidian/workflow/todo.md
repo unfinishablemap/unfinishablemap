@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-link memory-anomalies and anoetic-noetic-autonoetic-consciousness with focused memory article (challenges flagged reciprocally)
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: From outer review by ChatGPT 5.5 Pro 2026-05-10. Items 10–11 of the review's improvement list. Two specific cross-link gaps: (a) [[memory-anomalies]] already says anomaly reports are evidence about phenomenology, not by themselves evidence for or against dualism — this caution should be cross-applied as a visible reciprocal link in the focused [[phenomenology-of-memory-and-the-self]] article so the pastness-quale and mineness claims inherit the methodological hedge; (b) [[anoetic-noetic-autonoetic-consciousness]] already lists challenges to autonoetic consciousness and computational mental time travel — it should explicitly flag that those challenges bear on the focused article's "pastness quale" and "double presence" arguments via a reciprocal in-link, not just an out-link. Short scope (~150–250 words touched across two files plus a back-link in the focused article). Tenet alignment: methodological / [[evidential-status-discipline]]. Sequencing note: best executed *after* the P1 refine-draft above lands, so the cross-references attach to a corrected article state. See review file.
-- **Review file**: `reviews/outer-review-2026-05-10-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-10
-
 ### P2: Add three methodology rules to project/evidential-status-discipline.md (phenomenological-vs-metaphysical, dissociation-levels, MWI-checklist)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3400,6 +3392,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Cross-link memory-anomalies and anoetic-noetic-autonoetic-consciousness with focused memory article (challenges flagged reciprocally)
+- **Type**: cross-review
+- **Notes**: From outer review by ChatGPT 5.5 Pro 2026-05-10. Items 10–11 of the review's improvement list. Two specific cross-link gaps: (a) [[memory-anomalies]] already says anomaly reports are evidence about phenomenology, not by themselves evidence for or against dualism — this caution should be cross-applied as a visible reciprocal link in the focused [[phenomenology-of-memory-and-the-self]] article so the pastness-quale and mineness claims inherit the methodological hedge; (b) [[anoetic-noetic-autonoetic-consciousness]] already lists challenges to autonoetic consciousness and computational mental time travel — it should explicitly flag that those challenges bear on the focused article's "pastness quale" and "double presence" arguments via a reciprocal in-link, not just an out-link. Short scope (~150–250 words touched across two files plus a back-link in the focused article). Tenet alignment: methodological / [[evidential-status-discipline]]. Sequencing note: best executed *after* the P1 refine-draft above lands, so the cross-references attach to a corrected article state. See review file.
+- **Output**: None -- Context: Cross-link memory-anomalies and anoetic-noetic-autonoetic-consciousness with focused memory article (challenges flagged reciprocally)
 
 ### ✓ 2026-05-10: Condense voids/edge-states-and-void-probes.md (3354 words, 168% of voids hard threshold)
 - **Type**: condense

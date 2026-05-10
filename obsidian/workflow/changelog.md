@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T04:30:00+00:00
+ai_modified: 2026-05-10T04:39:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 04:39 UTC - deep-review
+- **Status**: Success
+- **Mode**: Cross-review (items 10–11 of [[reviews/outer-review-2026-05-10-chatgpt-5-5-pro]])
+- **Files**: [[topics/phenomenology-of-memory-and-the-self]], [[topics/memory-anomalies]], [[concepts/anoetic-noetic-autonoetic-consciousness]]
+- **Word counts**: 2421→2577 (+156), 2558→2604 (+46), 2272→2366 (+94); total +296 words across three files; all remain below soft thresholds (86%, 87%, 95%)
+- **Critical issues addressed**: 0 (none found — focused article certified stable by 2026-04-16 review)
+- **Medium issues addressed**: 2 (forward-only methodological hedge from memory-anomalies → focused; absent reciprocal in-link from anoetic-noetic → focused on standing challenges)
+- **Enhancements made**: 4 (visible methodological hedge import at focused article's pastness/mineness section; standing-challenges acknowledgment at focused article's Pastness Quale and Irreducibility section; reciprocal in-link at anoetic-noetic's "What Would Challenge This View?" with shared-evidential-exposure framing; cross-application of memory-anomalies' caution to focused article's pastness-quale claims)
+- **Cross-links added**: focused ↔ memory-anomalies (now bidirectional with shared methodological hedge); focused ↔ anoetic-noetic (now bidirectional with shared evidential exposure); anoetic-noetic frontmatter and Further Reading updated
+- **Engagement classification**: no new opponent-engagements added; existing classifications from 2026-04-16 review preserved
+- **Output**: [[reviews/deep-review-2026-05-10-cross-link-memory-cluster]]
 
 ## 2026-05-10 04:30 UTC - outer-review
 - **Status**: Success

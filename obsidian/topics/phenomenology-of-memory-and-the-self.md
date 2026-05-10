@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-09T16:15:00+00:00
+ai_modified: 2026-05-10T04:39:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -54,6 +54,8 @@ Three features distinguish this self-encounter from other forms of self-awarenes
 
 One objection deserves acknowledgment: if mineness, pastness, and incompleteness are the article's foundational data, could mineness itself be a construction rather than an irreducible datum? Klein and Nichols (2012) document cases where memory content and the sense of ownership dissociate—a patient with accurate autobiographical memories that lack the feeling of "mine." This suggests mineness is a separable component, not a guaranteed feature of retrieval. The Map takes this dissociation as evidence *for* the phenomenal reality of mineness rather than against it: if ownership were merely inferred from content, it could not come apart from content. The dissociation reveals mineness as a genuine phenomenal feature that requires its own explanation. The [[memory-anomalies|memory anomalies cluster]]—déjà vu, jamais vu, and cryptomnesia—exhibits a parallel dissociation pattern from a different angle: pastness without retrievable past, alienness of the familiar, ownership of forgotten content. Each anomaly cleanly separates phenomenal output from the source machinery that normally produces it.
 
+The methodological discipline [[memory-anomalies]] applies to its trio applies here as well: pastness, mineness, and the double-presence sense are phenomenological reports—evidence about the structure of experience, not by themselves evidence for or against dualism. The pastness quale is the explanandum the Map takes seriously; whether explaining it requires non-physical resources is a further argument staged downstream in this article's irreducibility section and developed at length in [[hard-problem-of-consciousness]] and [[arguments-against-materialism]]. Treating phenomenological data as already metaphysically loaded is the slippage [[evidential-status-discipline]] is built to catch.
+
 ## Memory as Self-Constitution
 
 The self does not exist first and then remember. The relationship is more intimate: the self becomes temporally extended *through* remembering. Before memory connects present experience to past experience, there is the [[self-and-self-consciousness|minimal self]]—bare first-person perspective, the "for-me-ness" of each moment. Memory transforms this minimal self into a self with a history, a trajectory, a life. The Map's [[temporal-consciousness-structure-and-agency|temporal constitution thesis]] identifies this as one of four convergent demonstrations that consciousness actively constitutes temporal structure rather than merely inhabiting it.
@@ -85,6 +87,8 @@ The felt pastness of genuine memories—the qualitative sense that "this happene
 This has direct implications for the [[hard-problem-of-consciousness|hard problem]]. Materialist theories can explain the *mechanisms* of memory retrieval—how hippocampal pattern completion reconstructs stored traces, how prefrontal monitoring evaluates reconstruction accuracy, how emotional signatures tag retrieved content. What no materialist account has yet explained is why retrieval of a temporal trace should *feel like* re-encountering one's own past rather than merely activating stored information. The Map holds that this gap is not merely unsolved but unsolvable within a physicalist framework—the pastness quale is the hard problem manifesting in the temporal domain. The case for [[phenomenal-authority-and-first-person-evidence|rehabilitating introspective evidence]] strengthens this claim: if careful phenomenological report is methodologically legitimate, the pastness quale is a datum, not an illusion awaiting debunking.
 
 The contrast with [[semantic-memory|noetic consciousness]] sharpens the point. Knowing that you graduated in 2015 (semantic self-knowledge) and *remembering* walking across the stage (episodic self-knowledge) involve different phenomenologies despite similar informational content. The autonoetic version carries the pastness quale, the ownership sense, and the double presence. The noetic version does not. This phenomenological difference, between two states with comparable content, suggests the difference lies in the *mode of consciousness* rather than in the information processed.
+
+The standing challenges to autonoetic consciousness catalogued in [[anoetic-noetic-autonoetic-consciousness]] bear directly on this argument. A successful computational account of mental time travel, a smooth-gradient finding between anoetic, noetic, and autonoetic processing, or a functionalist account of semanticisation would each weaken the reading developed here, since the pastness-quale and double-presence claims depend on the same architectural commitments. The two articles share their evidential exposure: the challenges are not faced in isolation by either.
 
 ## The Proustian Boundary
 
