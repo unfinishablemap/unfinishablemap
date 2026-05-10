@@ -119,7 +119,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — Where consciousness goes when it departs involuntarily
 - [The Absorption Void](/voids/disappearance-voids/) — When peak experience eliminates reflective access
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, and occluded
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 - [agency-verification-void](/voids/agency-void/) — The impossibility of verifying our own agency
 
 ## References

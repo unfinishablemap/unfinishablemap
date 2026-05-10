@@ -77,7 +77,7 @@ topics: []
 ### Cross-links Added
 - [illusionism](/concepts/illusionism/) - new to concepts frontmatter and body
 - [introspection](/concepts/introspection/) - new to concepts frontmatter and body
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) - new to concepts frontmatter and Further Reading
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) - new to concepts frontmatter and Further Reading
 - [decoherence](/concepts/decoherence/) - new to concepts frontmatter and body
 
 ### References Added

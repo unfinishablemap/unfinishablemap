@@ -92,7 +92,7 @@ Classification requires boundaries. The concept RED has extension (things that a
 
 Concepts are public and shareable. I can communicate my concept to you through language. But what enables sharing may exclude what cannot be shared. The essentially private character of experience—what this shade looks like *to me*—resists the public medium through which concepts travel.
 
-The void emerges from this structure: conceptual beings can recognize that pre-conceptual knowing might exist, but we cannot engage in it without thereby conceptualizing it. The recognition is itself conceptual. We point toward what escapes pointing. The [phenomenology of approaching this limit](/voids/phenomenology-of-the-edge/)—ineffability combined with felt knowledge—may be the most direct access we have to void boundaries.
+The void emerges from this structure: conceptual beings can recognize that pre-conceptual knowing might exist, but we cannot engage in it without thereby conceptualizing it. The recognition is itself conceptual. We point toward what escapes pointing. The [phenomenology of approaching this limit](/voids/edge-states-and-void-probes/)—ineffability combined with felt knowledge—may be the most direct access we have to void boundaries.
 
 ## Approaches to the Edge
 

@@ -60,7 +60,7 @@ Inbound links added from these 10 articles:
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Added to Further Reading
 - [What the Limits Reveal](/voids/what-voids-reveal/) — Added to Further Reading
 - [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Added to Further Reading
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Added to Further Reading
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — Added to Further Reading
 - [AI as Void-Explorer](/voids/non-human-minds-as-void-explorers/) — Added to Further Reading
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Inline link in "The Unexplorable" section
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — Linked "apophatic methods" phrase + added to Further Reading

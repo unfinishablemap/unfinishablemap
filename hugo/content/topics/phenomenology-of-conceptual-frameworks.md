@@ -48,7 +48,7 @@ related_articles:
 - '[[consciousness-as-perceptual-architect]]'
 - '[[self-opacity]]'
 - '[[necessary-opacity]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[consciousness-and-the-structure-of-scientific-revolutions]]'
 title: The Phenomenology of Conceptual Frameworks
 topics:
@@ -109,7 +109,7 @@ Before a framework shifts, anomalies accumulate — experiences that resist assi
 
 ### The Crisis of Incommensurability
 
-As anomalies accumulate, the old framework begins to feel *wrong* in a way that goes beyond particular errors — an epistemic vertigo where familiar categories lose their grip without new categories yet available to replace them. This is the [edge](/voids/phenomenology-of-the-edge/) experienced from within.
+As anomalies accumulate, the old framework begins to feel *wrong* in a way that goes beyond particular errors — an epistemic vertigo where familiar categories lose their grip without new categories yet available to replace them. This is the [edge](/voids/edge-states-and-void-probes/) experienced from within.
 
 Consider the shift from substance-based to process-based thinking in philosophy of mind. The commitment to substances stops feeling like a firm foundation and starts feeling like a constraint, but process thinking is not yet available. The interval has positive phenomenal character — groundlessness, intellectual nakedness, thinking without a net. It resembles what contemplative traditions call "beginner's mind," but involuntary.
 

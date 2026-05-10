@@ -75,7 +75,7 @@ The hermeneutic circle reinforces this. Every investigation of consciousness pro
 
 ## A Distinctive Phenomenology
 
-Approaching the framework void feels different from approaching other cognitive boundaries. The [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) describes vertigo and disorientation at most void boundaries. The framework void more often produces false clarity — a confident sense that one understands the alternative framework when one has only translated it into one's own terms.
+Approaching the framework void feels different from approaching other cognitive boundaries. The [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) describes vertigo and disorientation at most void boundaries. The framework void more often produces false clarity — a confident sense that one understands the alternative framework when one has only translated it into one's own terms.
 
 Encountering someone who genuinely operates from an incommensurable framework produces not wonder but irritation: the conviction that the other person is simply wrong rather than cognitively located in a different conceptual universe. This irritation may itself be a void signature — the framework protecting its own coherence by registering alien frameworks as errors rather than alternatives. [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) asks whether this protection is merely structural or involves consciousness having a *stake* in its current framework—motivated maintenance rather than passive constraint.
 

@@ -190,7 +190,7 @@ Approaching the language-thought boundary produces characteristic experiences:
 - **Negative space awareness**: We become aware of what we're *not* saying as much as what we say
 - **The paradox of meta-discourse**: Discussing ineffability requires using language about language's limits
 
-This phenomenology parallels what the Map has identified in [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)—characteristic textures emerge at cognitive boundaries.
+This phenomenology parallels what the Map has identified in [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)—characteristic textures emerge at cognitive boundaries.
 
 ## Approaches to the Edge
 

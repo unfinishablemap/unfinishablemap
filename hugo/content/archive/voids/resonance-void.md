@@ -91,7 +91,7 @@ Approaching the resonance void has a distinctive signature:
 - **Self-undermining attention.** Attempting to analyse the resonance while experiencing it tends to dissolve it. The knowing requires a receptive posture, not an interrogative one.
 - **Transformation without instruction.** Resonant encounters change the experiencer without providing explicit content. Something shifts, but you cannot say what you learned.
 
-This phenomenological profile distinguishes resonance from both ordinary emotion (which can be named and analysed without dissolution) and the [silence void](/voids/the-silence-void/) (which requires cessation of thought). Resonance occurs *within* active consciousness—thought continues—but it exceeds what that thought can capture. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) documents a parallel signature—ineffability combined with noesis, clarity at conceptual failure—but edge-experiences typically require approaching cognitive limits through sustained practice. Resonance arrives uninvited, within ordinary consciousness, yet carries the same paradoxical structure.
+This phenomenological profile distinguishes resonance from both ordinary emotion (which can be named and analysed without dissolution) and the [silence void](/voids/the-silence-void/) (which requires cessation of thought). Resonance occurs *within* active consciousness—thought continues—but it exceeds what that thought can capture. The [phenomenology of the edge](/voids/edge-states-and-void-probes/) documents a parallel signature—ineffability combined with noesis, clarity at conceptual failure—but edge-experiences typically require approaching cognitive limits through sustained practice. Resonance arrives uninvited, within ordinary consciousness, yet carries the same paradoxical structure.
 
 ## What Would Challenge This View
 
@@ -134,7 +134,7 @@ The resonance void also suggests something about the nature of [voids](/voids/) 
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
 - [embodied-cognition](/concepts/embodied-cognition/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 - [numinous-void](/voids/ineffable-encounter-void/)
 
 ## References

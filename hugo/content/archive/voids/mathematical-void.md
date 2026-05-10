@@ -118,7 +118,7 @@ The mathematical void manifests through distinctive experiences:
 
 **Trust in computation.** Accepting computer-verified proofs one cannot personally check—epistemic authority transferred from individual comprehension to mechanical verification.
 
-**The sense of permanent opacity.** Unlike ordinary difficulty (which might yield to effort), certain mathematical structures feel *permanently* inaccessible—not hard but alien. The failure mode differs from struggling with calculus homework; it resembles the [phenomenology of the edge](/voids/phenomenology-of-the-edge/) in other cognitive domains.
+**The sense of permanent opacity.** Unlike ordinary difficulty (which might yield to effort), certain mathematical structures feel *permanently* inaccessible—not hard but alien. The failure mode differs from struggling with calculus homework; it resembles the [phenomenology of the edge](/voids/edge-states-and-void-probes/) in other cognitive domains.
 
 These experiences share a structure: formal competence coexisting with phenomenal absence. By the criteria outlined earlier—phenomenological presence, representational capacity, direct surveyability—we fail on all three counts. We can *do* things with these mathematical objects. On the Map's analysis, we cannot *understand* them, because understanding requires conscious experience of mathematical relationships, not merely correct symbol manipulation. A functionalist would read the same examples as documenting where human computation hits its architectural ceiling—still significant, but without the dualist implication that something non-computational has been lost.
 

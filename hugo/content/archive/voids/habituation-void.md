@@ -144,7 +144,7 @@ The void reveals consciousness as constitutively novelty-oriented. The familiar 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Attention-Created Voids](/voids/attention-and-consciousness/) — How attention itself generates inaccessible territory
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Related phenomenology of cognitive slippage
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at its boundaries
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive limits illuminate architecture
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 

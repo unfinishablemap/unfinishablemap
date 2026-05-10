@@ -1,13 +1,118 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09 22:09:00+00:00
+ai_modified: 2026-05-10 02:22:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-05-09'
+date: '2026-05-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-10 02:22 UTC - deep-review
+- **Status**: Success
+- **File**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
+- **Mode**: Cross-review against newly-installed sibling apex [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Word count**: 4249 → 4331 (+82; 106% → 108% of 4000 soft threshold; well below 5000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (implicit-only relation to sibling apex; installed body cross-link paragraph)
+- **Low issues addressed**: 2 (recap tightening in §Five Traditions and §What the Cluster Reveals)
+- **Engagement classifications** (editor-only):
+  - reductionist/functionalist (line 65): Mode Three; honest framework-boundary marking that medium-status is neutral between functionalist and dualist readings
+  - physicalism in §What the Cluster Reveals closing: Mode Two-adjacent; identifies unsupported foundational move without claiming internal-to-physicalism refutation
+  - eliminative readings, MWI defenders, Buddhist concerns: Mode Three (bedrock framework-boundary)
+- **Stability**: Fifth deep review. Previous review (2026-04-30b) confirmed convergence; the 2026-05-08 apex-evolve pass and this 2026-05-10 cross-review add successive integration layers without destabilising structure. Despite-commitments / because-commitments discipline considered but not installed (decision recorded). No label leakage; no boundary substitution; no possibility/probability slippage.
+- **Output**: [deep-review-2026-05-10-medium-status-voids-in-cognition-cross-phenomenal-output](/reviews/deep-review-2026-05-10-medium-status-voids-in-cognition-cross-phenomenal-output/)
+
+## 2026-05-10 01:48 UTC - deep-review
+- **Status**: Success (convergence confirmed)
+- **File**: [access-consciousness](/concepts/access-consciousness/)
+- **Word count**: 1991 → 1991 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Engagement classifications** (editor-only):
+  - functionalists: Mode Three; honest boundary marking with "If correct" hedge
+  - Tegmark on decoherence: Mode Three; acknowledges model is contested and speculative
+  - Cohen & Dennett on overflow: Mode Three; brief notice with hand-off to phenomenal-overflow
+  - MWI defenders on self-locating uncertainty: Mode Two → Mode Three (mixed); identifies that MWI's wave-function-only ontology doesn't earn the determinate "I" needed by self-locating uncertainty, then transitions to phenomenal-character question at the framework boundary
+- **Stability**: Fourth deep review; previous review (2026-03-25) explicitly recommended convergence. Only intervening change was a mechanical wikilink retarget (`types-of-ai-phenomenal-experience` → `ai-consciousness-typology`). No critical or medium issues found. No label leakage; no boundary substitution; no possibility/probability slippage.
+- **Output**: [deep-review-2026-05-10-access-consciousness](/reviews/deep-review-2026-05-10-access-consciousness/)
+
+## 2026-05-10 01:14 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Common-Cause Null in Convergence Arguments
+- **Output**: [common-cause-null](/project/common-cause-null/)
+- **Word count**: 2438
+- **Based on research**: no — built on apex/phenomenal-output-causal-machinery-dissociation line 144 and optimistic-2026-05-09b
+- **Placement rationale**: project/ chosen over topics/ (capacity 239/250 = 95%) and concepts/ (230/250 = 92%); the discipline is methodological and parallels `project/bedrock-clash-vs-absorption`, `project/direct-refutation-discipline`, `project/evidential-status-discipline` as the sixth named methodological pattern in the editorial system
+- **Structure**: lead → failure mode → catalogue's four convergence-argument structures → cross-substrate-within-one-organism response → three distinguishing tests (cross-species, cross-cultural, patient-population) → five-point checklist for future articles → universal-solvent risk (generic-machinery vs specific-machinery distinction) → Relation to Site Perspective (Tenet 5 symmetric application)
+
+## 2026-05-10 00:41 UTC - refine-draft
+- **Status**: Success
+- **Scope**: Mechanical wikilink redirect after 00:19 UTC coalesce
+- **Files touched**: 60 (voids/, concepts/, topics/, apex/)
+- **Wikilinks updated**: 138 — `[[altered-states-as-void-probes...]]` and `[[phenomenology-of-the-edge...]]` (with display-text and section-anchor variants preserved) → `[[edge-states-and-void-probes...]]`
+- **Frontmatter `related_articles`**: 0 changes via the bare-slug path (existing entries used wikilink syntax and were updated through the wikilink rewriter); follow-up dedupe pass removed 5 duplicate `[[edge-states-and-void-probes]]` frontmatter entries (in `voids/anesthesia-void.md`, `voids/disappearance-voids.md`, `voids/ineffable-encounter-void.md`, `voids/self-maintained-cognitive-limits.md`, `voids/the-silence-void.md`) where both old slugs had been listed separately
+- **Preserved (intentionally not rewritten)**:
+  - Aliases in `voids/edge-states-and-void-probes.md` frontmatter (URL preservation for `/voids/altered-states-as-void-probes/` and `/voids/phenomenology-of-the-edge/`)
+  - Bibliographic citations in References sections (point at the original publications)
+  - Historical narrative in `concepts/coalesce-condense-apex-stability.md` (discusses the past attempt by its then-name)
+  - Research-note slug `voids-altered-states-as-void-probes-2026-02-03` in `topics/psychedelics-and-the-filter-model.md` (different namespace)
+  - `apex_sources` listings in `apex/taxonomy-of-voids.md` and `apex/apex-articles.md` (historical synthesis-input record, not a navigation field; out of scope per task spec)
+- **Published**: yes (no body re-reasoning; targeted slug redirect only)
+
+## 2026-05-10 00:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [altered-states-as-void-probes](/voids/altered-states-as-void-probes/), [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- **Target**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
+- **Archived**: [altered-states-as-void-probes](/archive/voids/altered-states-as-void-probes/), [phenomenology-of-the-edge](/archive/voids/phenomenology-of-the-edge/)
+- **Rationale**: Both articles ask the same central question (do edge-states transcend cognitive limits or merely map their boundaries?) and rely on the same source base (Metzinger MPE, REBUS/Carhart-Harris, Stace common core, Huxley/Bergson, James). The two framings—"phenomenology of the edge" and "altered states as void probes"—are two angles on one phenomenon. Unified piece preserves both axes: edge-experience profile + transcendence-vs-edge-mapping epistemology. Voids section was at 100/100 cap; this opens a slot.
+- **References to review**: ~60 active content files (voids/, concepts/, topics/, apex/) reference one of the archived slugs via wikilinks. Archive notices will redirect, so URLs continue to work; follow-up task created to update active wikilinks.
+
+## 2026-05-09 23:38 UTC - deep-review
+- **Status**: Success (audit pass — no body changes)
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Focus**: Reciprocal cross-link audit — 10 source articles → apex
+- **Word count**: 5404 → 5404 (no body changes; article in `hard_warning`, 135% of soft / 108% of hard)
+- **Critical issues addressed**: 0 (none found — attribution check, calibration check, source/Map separation, self-contradiction, reasoning-mode classification all pass)
+- **Medium issues addressed**: 0 (cross-links already complete from prior 18:18 UTC review pass)
+- **Enhancements made**: 0 (read-only audit on cross-link layer)
+- **Audit result**: All 10 source articles (`topics/memory-anomalies`, `voids/recognition-void`, `voids/the-quantitative-comprehension-void`, `concepts/mental-effort`, `voids/noetic-feelings-void`, `voids/agency-void`, `voids/suspension-void`, `voids/self-opacity`, `topics/consciousness-and-memory`, `topics/empirical-phenomena-mental-causation`) have BOTH frontmatter `related_articles` entries AND inline body wikilinks to the apex, using a consistent descriptive subtitle (`phenomenal-output / causal-machinery dissociation cluster`). Apex `related_articles` lists all 10 sources. Reciprocity complete at both layers (machine-readable + human-readable navigation).
+- **Reasoning-mode classification (editor-internal)**: Materialist absorption engagement remains Mode Three (framework-boundary marking) executed cleanly — "raises the explanatory cost of doing so without dissolving the functionalist option." No editor-vocabulary leakage.
+- **Bedrock disagreements not re-flagged**: functionalist absorption, Bergson-as-non-Map-commitment, MWI/eliminativist boundary disagreements — all carried forward per prior stability notes.
+- **Convergence note**: Second deep-review of the day; first established the cross-link integration (orphan resolution) plus the Pass 1/Pass 2 substantive refinements addressing pessimistic-2026-05-09b. This audit confirms reciprocity persists. Article has reached stability on the cross-link layer; outstanding work (length, apex over-cap, evidential-status-discipline refinement) is queued separately.
+- **Output**: [deep-review-2026-05-09b-phenomenal-output-causal-machinery-dissociation](/reviews/deep-review-2026-05-09b-phenomenal-output-causal-machinery-dissociation/)
+
+## 2026-05-09 23:15 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
+- **Word count**: 2749 → 2747 (-2 words; 92% of 3000 soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0 (none found — attribution check, calibration check, source/Map separation, self-contradiction all pass)
+- **Medium issues addressed**: 2
+  1. LLM-cliché violation in §Within-Domain Conflict: "This residue is not abstract recognition of suboptimality. It is the felt persistence of a demand..." → "This residue exceeds abstract recognition of suboptimality: it is the felt persistence of a demand one continues to recognise as *legitimate* — not outweighed so much as sacrificed." Removes the prohibited "X is not Y. It is Z." construct from `obsidian/project/writing-style.md` while preserving the residue/abstract-recognition distinction.
+  2. Frontmatter hygiene: deduplicated `[[evaluative-phenomenal-character]]` (3 → 1 in concepts list); reclassified `[[topics/phenomenal-value-realism]]` from concepts to topics.
+- **Enhancements made**: 0 net additions (third review of a stable article).
+- **Reasoning-mode classification (editor-internal)**: rationalism = Mode 2; contractualism (Korsgaard) = Mode 2; naturalism = Mode 2 with Mode 3 boundary-marking; expressivism = Mode 3 (phenomenological appeal). No label leakage; no boundary-substitution.
+- **Bedrock disagreements not re-flagged**: eliminative materialism, hard-nosed physicalism, MWI defender, Buddhist deconstruction — all carried forward per prior stability notes.
+- **Convergence note**: Third review. Two prior reviews (2026-03-04, 2026-03-25) both found no critical issues. Article reached stability after the 2026-03-04 coalesce; recent commits since 03-25 were cross-link maintenance. This pass is hygiene-only — cliché phrasing fix and frontmatter dedup. No expansion attempted.
+- **Output**: [deep-review-2026-05-09-consciousness-and-normative-force](/reviews/deep-review-2026-05-09-consciousness-and-normative-force/)
+
+## 2026-05-09 22:38 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/)
+- **Cross-review focus**: [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Word count**: 3405 → 3316 (-89 words; 114% → 111% of soft threshold). Length-neutral mode applied.
+- **Critical issues addressed**: 0 (none found — attribution check, source/Map separation check, possibility/probability slippage check, self-contradiction check all pass)
+- **Medium issues addressed**: 3
+  1. LLM cliché in "Remainder as Evidence" (line 98): two-sentence "This does not reduce consciousness to language. Rather, it shows..." pattern (same form fixed in opening by April 2026 review, missed here) → integrated into single-sentence form with "though" qualifier.
+  2. Editor-coordination meta-talk in new section's closing block (lines 117-118): "framework-stage placement" sentence and sibling-voids navigation paragraph deleted (cross-links remain in frontmatter and Further Reading where they belong).
+  3. Light redundancy in cluster-connection close (line 116): constrain-vs-establish sentence merged with "Translation joins the cluster" sentence.
+- **Enhancements made**: 0 net additions (length-neutral mode); two trims absorb the cliché-fix's slight expansion.
+- **Reasoning-mode classification (editor-internal)**: Materialist-computationalism engagement in §Remainder as Evidence = Mode 2 (framework-foundational-move identification, in natural prose); LLM-functionalism engagement in §Machine Translation = Mode 3 (boundary-marking, honest framework-boundary). No label leakage in body.
+- **Bedrock disagreements not re-flagged**: eliminativism, MWI compatibility, functionalism — carried forward per stability notes.
+- **Convergence note**: Article has now had four deep reviews. Pass 1 earlier today (19:38 UTC) added the substantive five-faces section under cross-review focus; this Pass 2 is conservative — calibration cleanup and editor-vocabulary removal only.
+- **Output**: [deep-review-2026-05-09-consciousness-and-the-phenomenology-of-translation](/reviews/deep-review-2026-05-09-consciousness-and-the-phenomenology-of-translation/)
 
 ## 2026-05-09 22:09 UTC - refine-draft
 - **Status**: Success

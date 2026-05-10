@@ -122,7 +122,7 @@ The limits of conceptual acquisition connect to all five of the Map's [tenets](/
 
 **[Dualism](/tenets/#dualism)** gains support through the consciousness case specifically. If consciousness involves properties outside physical description, and if our concepts are ultimately derived from physical-sensory origins, then consciousness-concepts may be fundamentally malformed. We don't really possess the concept QUALIA even when we use the word—we have a verbal marker for something we cannot genuinely conceive. McGinn's "property P" may be permanently inaccessible because grasping it requires conceptual resources human architecture doesn't include.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** appears in the methodology. We can *choose* to investigate our conceptual limits—direct attention toward the edge of what we can think. This deliberate investigation is itself an exercise of mental causation: consciousness selecting which cognitive processes to engage, which boundaries to probe. The phenomenology of approaching limits ([the edge experiences](/voids/phenomenology-of-the-edge/)) arises from conscious attention directed at cognitive architecture.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** appears in the methodology. We can *choose* to investigate our conceptual limits—direct attention toward the edge of what we can think. This deliberate investigation is itself an exercise of mental causation: consciousness selecting which cognitive processes to engage, which boundaries to probe. The phenomenology of approaching limits ([the edge experiences](/voids/edge-states-and-void-probes/)) arises from conscious attention directed at cognitive architecture.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises a deeper question. If consciousness interacts with matter at quantum boundaries, and if that interaction involves selection among possibilities, what determines the *range* of possibilities consciousness can select among? Perhaps conceptual architecture constrains not just what we can think but what physical outcomes we can select. The concepts we possess may define the space of possible conscious selections.
 
@@ -152,7 +152,7 @@ The claim that some concepts are permanently inaccessible would be challenged if
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — When logic excludes conception
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [The Developmental Void](/voids/architecture-of-cognitive-closure/) — Limits acquired through maturation
 - [Cognitive Closure](/concepts/mysterianism/) — The formal analysis of architectural limits on understanding
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are intrinsic or imposed

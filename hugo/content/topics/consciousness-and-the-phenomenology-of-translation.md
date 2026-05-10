@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-09 19:38:00+00:00
+ai_modified: 2026-05-09 22:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: What the lived experience of translating between languages reveals 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-09 19:38:00+00:00
+last_deep_review: 2026-05-09 22:38:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -98,7 +98,7 @@ The experience of translating between structurally different languages reveals t
 
 The untranslatable remainder matters philosophically because it reveals the relationship between consciousness and language from an unusual angle. If meaning were purely computational — formal relationships between symbols — translation should always be possible in principle, because formal relationships can be preserved across symbol systems. The existence of genuine untranslatability suggests that meaning has a phenomenal dimension that cannot be separated from its linguistic embodiment.
 
-This does not reduce consciousness to language. Rather, it shows that *in the domain of linguistically structured thought*, consciousness and language are entangled in ways that resist clean separation. The translator's experience of the remainder is evidence that meaning is not information in the computational sense but something closer to an act — an event requiring a conscious subject situated in a particular linguistic world.
+Within the domain of linguistically structured thought, consciousness and language are entangled in ways that resist clean separation, though this entanglement does not reduce consciousness to language. The translator's experience of the remainder is evidence that meaning is not information in the computational sense but something closer to an act — an event requiring a conscious subject situated in a particular linguistic world.
 
 The remainder also exhibits the [double grounding](/topics/clinical-phenomenology-and-altered-experience/) that gives clinical phenomenology its evidential force. The translator's subjective report of phenomenal loss — the felt inadequacy of any rendering of *saudade* — is corroborated by an observable outcome: readers of the translation systematically miss dimensions of meaning that readers of the original grasp. First-person report and third-person observation converge on the same conclusion. Translation thus functions as a non-pathological analogue of the selective disruptions that clinical conditions perform on consciousness: it stress-tests the consciousness-language interface under controlled conditions, revealing architectural joints that ordinary monolingual experience leaves invisible.
 
@@ -116,9 +116,7 @@ The phenomenology surveyed so far — the bifurcated field, the moment of grasp,
 
 **LLMs as the cleanest contrast.** Large language models execute the operation — analogical core, structure-mapping, cross-lexical rendering — at competence rivalling junior human translators across most language pairs, and their intermediate representations are partly inspectable through interpretability tools. On the Map's commitments the LLM has no phenomenal access to the analogical core it operates over, and the asymmetry is what makes the contrast informative. A system that performs the operation without phenomenal access exposes how much of translation can be done as cross-format mapping alone, and exposes the human translator's first-person opacity as opacity of *operation-to-consciousness* rather than opacity of mechanism in the abstract: mechanisms can be externalised through interpretability and neural localisation, while the operation's invisibility to the consciousness performing it cannot.
 
-The five faces converge on a single architectural observation. The translator's consciousness reaches the *output* of an operation it cannot inspect: the analogical core landed, the structure-mapping completed, the cross-lexical carving suddenly perceived, the rendering chosen. None of these dissociations on its own establishes the dualist reading; each removes the simplest identity claim on which the felt rendering just is what the operation feels like, and leaves the deeper question — what the felt rendering *is*, in relation to the sub-personal operation it accompanies — open. The constrain-vs-establish discipline operates here in the translation domain, and the pattern is the same shape the catalogue's [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/) tracks across recognition, memory, effort, agency, and noetic feelings. Translation joins the cluster as the linguistic-and-analogical face: an operation whose output is given to consciousness as a felt event, with the operation itself hidden behind the event it produced.
-
-The framework-stage placement is that the *phenomenology* of translation belongs at this topic-tier article — what consciousness receives during the act — while the *void* of the inaccessible analogical mechanism is the structural opacity the cluster names. The sibling voids articles develop adjacent faces: [meaning-void](/voids/meaning-void/) and [metaphor-void](/voids/metaphor-void/) handle the cross-format opacity at finer grain, [aspect-perception-void](/voids/aspect-perception-void/) and [conceptual-scheme-void](/voids/conceptual-scheme-void/) take up the carving-invisible-from-inside face, and [inference-void](/voids/inference-void/) and [tacit-integration-void](/voids/tacit-integration-void/) generalise the operation-as-such opacity beyond the linguistic case.
+The five faces converge on a single architectural observation. The translator's consciousness reaches the *output* of an operation it cannot inspect: the analogical core landed, the structure-mapping completed, the cross-lexical carving suddenly perceived, the rendering chosen. None of these dissociations on its own establishes the dualist reading; each removes the simplest identity claim on which the felt rendering just is what the operation feels like, and leaves the deeper question — what the felt rendering *is*, in relation to the sub-personal operation it accompanies — open. Translation joins the catalogue's [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/) as its linguistic-and-analogical face, with the constrain-vs-establish discipline operating here as it does across the cluster's other members: an operation whose output is given to consciousness as a felt event, with the operation itself hidden behind the event it produced.
 
 ## Translation and the Intersubjective Void
 
@@ -190,15 +188,24 @@ The phenomenology of translation connects to the Map's [tenets](/tenets/) at sev
 1. Davidson, D. (1974). "On the Very Idea of a Conceptual Scheme." *Proceedings and Addresses of the American Philosophical Association* 47: 5–20.
 
 <!-- AI REFINEMENT LOG - 2026-05-09
-Changes made:
+Pass 1 (19:38 UTC) — cross-review against apex/phenomenal-output-causal-machinery-dissociation:
 - Inserted new section "What Translation Cannot Read About Its Own Operation" (~860 words) after "The Untranslatable Remainder", surveying five structurally distinct faces of operation-to-consciousness opacity in translation: Hofstadter-Sander analogical-core opacity, Gentner structure-mapping as sub-personal, Lomas carving-invisible-from-inside, Quine-Davidson indeterminacy as the principled face, and LLMs as the cleanest functional-without-phenomenal contrast.
-- Applied constrain-vs-establish discipline in natural prose (no editor-vocabulary in body): "None of these dissociations on its own establishes the dualist reading; each removes the simplest identity claim..."
+- Applied constrain-vs-establish discipline in natural prose: "None of these dissociations on its own establishes the dualist reading; each removes the simplest identity claim..."
 - Connected article to apex/phenomenal-output-causal-machinery-dissociation as the cluster's linguistic-and-analogical face.
-- Added framework-stage-calibration paragraph: phenomenology of translation = topic-tier; void of inaccessible analogical mechanism = the structural opacity siblings name.
-- Cross-linked sibling voids (meaning, metaphor, aspect-perception, conceptual-scheme, inference, tacit-integration) and the consumed research note.
-- Updated frontmatter: ai_modified, last_deep_review, related_articles (8 new entries), ai_system → claude-opus-4-7.
-- Added 8 references for the new section (Hofstadter & Sander, Gentner, Gentner & Markman, Parsons et al., Lomas, Quine, Davidson).
-- Cliché audit: confirmed no "This is not X. It is Y." pattern in original or new content.
+- Cross-linked sibling voids and the consumed research note.
+
+Pass 2 (22:38 UTC) — deep-review with cross-review focus:
+- Fixed LLM cliché in "Remainder as Evidence": "This does not reduce consciousness to language. Rather, it shows that..." (two-sentence "Not X. Rather Y." cliché previously flagged in the opening) → integrated into single sentence: "Within the domain of linguistically structured thought, consciousness and language are entangled in ways that resist clean separation, though this entanglement does not reduce consciousness to language."
+- Trimmed editor-coordination meta-talk: deleted the "framework-stage placement" paragraph that explained the topic/void framing in editor vocabulary; sibling-voids navigation removed (cross-links remain in frontmatter and Further Reading where they belong).
+- Tightened cluster-connection close: merged the constrain-vs-establish sentence with the "Translation joins the cluster" sentence to remove redundancy.
+- Length-neutral mode: trims absorb the cliché-fix's slight expansion, net ~85 words trimmed (3405 → ~3320 words, 110% of soft).
+
+Reasoning-mode classification (editor-internal, not in body):
+- Engagement with materialist computationalism in §Remainder as Evidence: Mode 2 — the simplest "meaning-as-formal-relation" account hasn't earned its translation-completeness commitment by its own standards. Expressed in natural prose ("If meaning were purely computational... translation should always be possible in principle"). No label leakage.
+- Engagement with LLM functionalism in §Machine Translation: Mode 3 (boundary-marking) — surface competence does not settle the phenomenal question; the gap that persists in literary translation is what phenomenal understanding provides. Honest framework-boundary marking, no claim of refutation inside the functionalist framework.
+- Bedrock disagreements (eliminativism, MWI, functionalism) carried forward from prior reviews — not re-flagged.
+
+Convergence note: Article has now had four deep reviews. The 2026-05-09 cycle (Pass 1) added substantive content under the cross-review focus; Pass 2 is conservative — calibration cleanup and editor-vocabulary removal only. Future reviews should not re-flag the bedrock disagreements or the now-fixed cliché instances.
 
 This log should be removed after human review.
 -->

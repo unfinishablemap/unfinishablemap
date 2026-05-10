@@ -114,7 +114,7 @@ The dissolution problem also validates the [voids](/voids/) project's methodolog
 - [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — The broader meta-question about cognitive limits
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive boundaries illuminate architecture
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Frameworks for assessing claims about limits
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Using boundary-shapes as data
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — How natural selection shaped the boundaries of thought

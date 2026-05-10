@@ -30,7 +30,7 @@ topics: []
 
 - **Wolfram's computational irreducibility overstated**: Presented as a "fundamental limit" when it's actually a thesis about certain systems, not a proven universal result. **Resolution**: Changed "identifies...as a fundamental limit" to "proposes...as a limit" and "His thesis:" to make the status clearer.
 
-- **Missing cross-links**: Article lacked connections to closely related content. **Resolution**: Added cross-links to [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/), [mysterianism](/concepts/mysterianism/), and [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/).
+- **Missing cross-links**: Article lacked connections to closely related content. **Resolution**: Added cross-links to [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/), [mysterianism](/concepts/mysterianism/), and [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/).
 
 ### Counterarguments Considered
 - **Eliminative materialist objection**: The article handles this reasonably—notes that critics say we follow proof procedures mechanically, that the argument assumes consistency.
@@ -49,13 +49,13 @@ topics: []
 ### Enhancements Made
 - Added [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) to concepts frontmatter
 - Cross-linked to [mysterianism](/concepts/mysterianism/) in the AI section to connect the speculative discussion to the formal mysterian framework
-- Cross-linked to [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) in the phenomenology section to connect related explorations
+- Cross-linked to [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) in the phenomenology section to connect related explorations
 - Improved Rice's theorem accuracy (1951 → 1953 date correction, Henry Rice → Rice for consistency)
 
 ### Cross-links Added
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — in Gödel section and frontmatter
 - [mysterianism](/concepts/mysterianism/) — in AI section discussion of Penrose
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — in phenomenology section
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — in phenomenology section
 
 ## Remaining Items
 

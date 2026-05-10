@@ -160,7 +160,7 @@ The claim that attention creates structural voids would face difficulty if:
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Related phenomenology of cognitive slippage
 - [The Unobservable Self](/voids/self-opacity/) — The observer who cannot observe itself observing
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive limits illuminate architecture
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at its boundaries
 - [AI as Void-Explorer](/voids/non-human-minds-as-void-explorers/) — Whether artificial minds can probe human-specific voids
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits
 

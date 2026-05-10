@@ -75,7 +75,7 @@ This is why the Flatland analogy is structural rather than merely illustrative. 
 
 ## Phenomenology of the Edge
 
-Approaching the dimensionality void produces distinctive experiential signatures — instances of what the Map calls the [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/), the characteristic ways cognition behaves at its own limits.
+Approaching the dimensionality void produces distinctive experiential signatures — instances of what the Map calls the [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/), the characteristic ways cognition behaves at its own limits.
 
 **The flattening effect.** Attempting to conceive a new phenomenal dimension collapses into recombinations of known dimensions. Try to imagine a colour outside the visible spectrum — not infrared *detected*, but a genuinely novel hue. The attempt produces nothing, or it produces familiar colours in unfamiliar arrangements. Thought flattens the unknown into the known, and the flattening feels seamless rather than forced.
 

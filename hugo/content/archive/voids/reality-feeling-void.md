@@ -116,7 +116,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet finds unexpected relevance. 
 - [dream-consciousness-void](/voids/sleep-consciousness-void/) — What dreams reveal about the boundaries of conscious awareness
 - [whether-real](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are permanent or current ignorance
 - [destabilizing-self-knowledge](/voids/necessary-opacity/) — Knowledge that undermines the knower's stability
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 - [limits-reveal-structure](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 
 ## References

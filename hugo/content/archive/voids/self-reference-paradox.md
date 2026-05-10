@@ -97,7 +97,7 @@ A critical point: Buddhist philosophy draws the opposite metaphysical conclusion
 
 Insights about consciousness seem clear for a moment and then dissolve—vanishing in the act of articulation. The [thoughts that slip away](/voids/thought-stream-void/) article catalogues slippage mechanisms. The self-reference paradox suggests some slippage may be structural—thoughts about thinking inherently less stable than thoughts about external objects. The [compound-failure-signatures](/voids/compound-failure-signatures/) framework shows that self-reference, language limits, and recursion limits don't merely sum but amplify each other.
 
-Two characteristic phenomenologies emerge. **The receding horizon**: the self seems always just ahead—present but never where you look. **Spacious release**: when attention turns fully inward and finds nothing to grasp, some report empty wakefulness—awareness vividly present but without content. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) documents this "zero-person perspective."
+Two characteristic phenomenologies emerge. **The receding horizon**: the self seems always just ahead—present but never where you look. **Spacious release**: when attention turns fully inward and finds nothing to grasp, some report empty wakefulness—awareness vividly present but without content. The [phenomenology of the edge](/voids/edge-states-and-void-probes/) documents this "zero-person perspective."
 
 ## The Illusionist Challenge
 

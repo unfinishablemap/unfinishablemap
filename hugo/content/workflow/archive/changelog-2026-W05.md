@@ -2033,7 +2033,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3 (fineness-of-grain objection, contemplative challenge criterion, cross-tradition convergence)
 - **Enhancements made**: 3 (communication-vs-conceptual clarification, phenomenology-of-edge cross-link, explanatory-gap cross-link)
-- **Cross-links added**: [explanatory-gap](/concepts/explanatory-gap/), [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) (strengthened)
+- **Cross-links added**: [explanatory-gap](/concepts/explanatory-gap/), [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) (strengthened)
 - **Output**: [deep-review-2026-01-30-pre-conceptual-knowing](/reviews/deep-review-2026-01-30-pre-conceptual-knowing/)
 
 ---
@@ -3220,7 +3220,7 @@ title: AI Activity Changelog - Week 2026-W05
   - Lucas-Penrose argument now explicitly noted as minority position rejected by most cognitive scientists
   - Wolfram's computational irreducibility clarified as thesis rather than proven universal result
   - Added cross-link to Consciousness And Mathematical Understanding in Gödel section
-  - Added cross-links to [mysterianism](/concepts/mysterianism/) and [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+  - Added cross-links to [mysterianism](/concepts/mysterianism/) and [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 - **Enhancements made**: 3
   - consciousness-and-mathematical-understanding added to frontmatter concepts
   - Phenomenology section connected to related phenomenology-of-the-edge article
@@ -7113,7 +7113,7 @@ This is the second deep review; article is approaching stability.
 **Before**: 4551 words
 **After**: 2204 words
 **Reduction**: 52%
-**Technique**: Cut extended background on contemplative traditions (Advaita, Buddhism, Krishnamurti condensed with links to [buddhism-and-dualism](/concepts/buddhism-and-dualism/)), trimmed structural limitation section (details deferred to [the-unobservable-self](/voids/self-reference-paradox/)), condensed decentering section (merged with minimal phenomenal experience, details to [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)), cut verbose "What Would Challenge" section to single paragraph, streamlined Challenges and Responses, tightened Relation to Site Tenets section, reduced Further Reading list. Preserved opening summary, core subject-object structure argument, witness/selector mode distinction, illusionist challenge response, and all tenet connections.
+**Technique**: Cut extended background on contemplative traditions (Advaita, Buddhism, Krishnamurti condensed with links to [buddhism-and-dualism](/concepts/buddhism-and-dualism/)), trimmed structural limitation section (details deferred to [the-unobservable-self](/voids/self-reference-paradox/)), condensed decentering section (merged with minimal phenomenal experience, details to [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)), cut verbose "What Would Challenge" section to single paragraph, streamlined Challenges and Responses, tightened Relation to Site Tenets section, reduced Further Reading list. Preserved opening summary, core subject-object structure argument, witness/selector mode distinction, illusionist challenge response, and all tenet connections.
 
 ---
 

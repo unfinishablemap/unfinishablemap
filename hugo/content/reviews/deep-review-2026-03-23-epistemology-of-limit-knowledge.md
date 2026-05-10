@@ -56,7 +56,7 @@ topics: []
 - Added cross-link to phenomenology-of-the-edge
 
 ### Cross-links Added
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) (in related_articles, Further Reading, and defeasibility paragraph)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) (in related_articles, Further Reading, and defeasibility paragraph)
 
 ## Remaining Items
 

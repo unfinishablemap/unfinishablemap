@@ -53,7 +53,7 @@ None.
 - Named sources explicitly (Gamma & Metzinger 2022; Alcaraz et al. 2021)
 - Added epistemic qualifier to Vedantic section
 - Added cross-link to [witness-consciousness](/concepts/witness-consciousness/) in body text
-- Added cross-link to [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) (yoga nidra as void probe)
+- Added cross-link to [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) (yoga nidra as void probe)
 - Added cross-link to [sleep-and-consciousness](/concepts/sleep-and-consciousness/) for neuroscience depth
 - Added cross-link to [personal-identity](/topics/personal-identity/) in Lockean section
 - Expanded Further Reading with 4 new entries
@@ -63,7 +63,7 @@ None.
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
 - [personal-identity](/topics/personal-identity/)
-- [altered-states-as-void-probes](/voids/altered-states-as-void-probes/)
+- [altered-states-as-void-probes](/voids/edge-states-and-void-probes/)
 
 ## Remaining Items
 

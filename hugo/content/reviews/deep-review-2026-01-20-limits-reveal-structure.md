@@ -53,7 +53,7 @@ topics: []
 - **Enhanced Further Reading**: Added 5 new cross-links
 
 ### Cross-links Added
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 - [whether-real](/voids/meta-epistemology-of-limits/)
 - [illusionism](/concepts/illusionism/)
 - [introspection](/concepts/introspection/)

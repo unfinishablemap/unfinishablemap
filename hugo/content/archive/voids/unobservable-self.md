@@ -113,7 +113,7 @@ The Map holds that elimination mistakes the limits of observation for evidence o
 
 Insights about consciousness seem clear for a moment and then dissolve—vanishing in the act of articulation. Some slippage may be structural: thoughts about thinking are inherently less stable than thoughts about external objects, and the [compound-failure-signatures](/voids/compound-failure-signatures/) framework shows that self-reference, language limits, and recursion limits amplify each other rather than merely summing. The [measurement-void](/voids/observation-and-measurement-void/) asks whether [introspection](/concepts/introspection/)'s circularity is structural or methodological; the [narrative-void](/voids/narrative-void/) adds that introspective accounts pass through confabulation-prone narrative construction.
 
-Two characteristic phenomenologies emerge. **The receding horizon**: the self seems always just ahead—present but never where you look. **Spacious release**: when attention turns fully inward and finds nothing to grasp, some report empty wakefulness—awareness vividly present but without content. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) documents this "zero-person perspective."
+Two characteristic phenomenologies emerge. **The receding horizon**: the self seems always just ahead—present but never where you look. **Spacious release**: when attention turns fully inward and finds nothing to grasp, some report empty wakefulness—awareness vividly present but without content. The [phenomenology of the edge](/voids/edge-states-and-void-probes/) documents this "zero-person perspective."
 
 ## The Illusionist Challenge
 

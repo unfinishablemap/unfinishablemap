@@ -30,7 +30,7 @@ None.
 - **Jolly & Chang conflation**: Their "Flatland Fallacy" is about methodological parsimony in cognitive science modeling, not directly about phenomenal limitation. The article used it as direct evidence for phenomenal compression without acknowledging the inferential step. Resolution: added clarifying sentence distinguishing the methodological point from its phenomenal implication.
 - **Weak No Many Worlds connection**: The claim that dimensionality "dissolves into indexical triviality" under MWI was asserted without argument. Resolution: expanded to explain *why* universal branch realization undermines dimensional significance, and how rejecting MWI preserves the void as a real constraint.
 - **Missing Minimal Quantum Interaction tenet**: Four of five tenets were connected in the Relation to Site Perspective section but MQI was absent despite a natural hook through the filtering model. Resolution: added MQI paragraph connecting the dimensional bottleneck to the minimality of interaction.
-- **Missing cross-links**: No link to [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) despite a section on exactly that topic. No link to [filter-theory](/concepts/filter-theory/) despite extensive discussion of filtering models. Resolution: both added.
+- **Missing cross-links**: No link to [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) despite a section on exactly that topic. No link to [filter-theory](/concepts/filter-theory/) despite extensive discussion of filtering models. Resolution: both added.
 
 ### Counterarguments Considered
 - **Eliminativist objection** (phenomenal dimensions presuppose qualia): Expected disagreement within Map's dualist framework. Not addressed — this is a tenet-level commitment.
@@ -50,12 +50,12 @@ None.
 - Clarified Jolly & Chang's methodological point and its phenomenal implication
 - Added Minimal Quantum Interaction tenet paragraph with dimensional bottleneck framing
 - Expanded No Many Worlds connection with actual argument
-- Added [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) cross-link in body text
+- Added [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) cross-link in body text
 - Added [filter-theory](/concepts/filter-theory/) cross-link in Bidirectional Interaction paragraph
 - Updated related_articles frontmatter with new cross-links
 
 ### Cross-links Added
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 - [filter-theory](/concepts/filter-theory/)
 
 ## Remaining Items

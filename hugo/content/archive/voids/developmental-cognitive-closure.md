@@ -127,7 +127,7 @@ The developmental void is a reminder that the boundaries of thought are not stat
 - [The Limits of Conceptual Acquisition](/voids/architecture-of-cognitive-closure/) — What concepts can minds form?
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 
 ## References
 

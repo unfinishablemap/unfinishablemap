@@ -137,7 +137,7 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness might participate in collapse that generates time's arrow
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, and the growing block
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What happens when consciousness approaches limits
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What happens when consciousness approaches limits
 - [thoughts-that-slip-away](/voids/thought-stream-void/) — Related phenomenology of cognitive limitation
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding
 - [illusionism](/concepts/illusionism/) — The challenge that temporal qualia are mere functional markers

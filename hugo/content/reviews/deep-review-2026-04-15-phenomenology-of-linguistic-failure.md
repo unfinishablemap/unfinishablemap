@@ -51,7 +51,7 @@ None. Article is stable since previous review.
 - [language-and-consciousness](/concepts/language-and-consciousness/) — Further Reading + related_articles
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — Further Reading + related_articles
 - [thoughts-that-slip-away](/voids/thought-stream-void/) — Further Reading + related_articles
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Further Reading + related_articles
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — Further Reading + related_articles
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Further Reading + related_articles
 - [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) — Further Reading + related_articles
 - [phenomenology](/concepts/phenomenology/) — Further Reading

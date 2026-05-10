@@ -59,7 +59,7 @@ topics: []
 - [thoughts-that-slip-away](/voids/thought-stream-void/) — added mutation-void distinction (slippage vs mutation) in opening
 - [self-reference-paradox](/concepts/self-reference-paradox/) — added mutation-void reference in regression of attention section
 - [destabilizing-self-knowledge](/voids/necessary-opacity/) — added mutation-void taxonomy reference in self-studying brain section
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — added mutation-void to Further Reading
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — added mutation-void to Further Reading
 - [transparency-void](/voids/necessary-opacity/) — added mutation-void distinction in void comparison section
 - [introspection](/concepts/introspection/) (concept) — added mutation-void taxonomy in bidirectional interaction discussion
 

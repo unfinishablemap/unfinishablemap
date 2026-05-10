@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-27
-**Article**: [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/)
+**Article**: [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/)
 **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-phenomenology-of-the-edge/)
 **Context**: Cross-review considering death-void insights
 

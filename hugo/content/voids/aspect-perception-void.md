@@ -34,7 +34,7 @@ related_articles:
 - '[[imagery-void]]'
 - '[[apophatic-cartography]]'
 - '[[three-kinds-of-void]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[causal-interface]]'
 - '[[agency-void]]'
 title: The Aspect Perception Void

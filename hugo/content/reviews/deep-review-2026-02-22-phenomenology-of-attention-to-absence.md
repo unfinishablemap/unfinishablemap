@@ -29,7 +29,7 @@ None. The article is well-written with accurate attributions throughout.
 - [Missing cross-links to temporal consciousness concepts]: Added wikilinks to [protention](/concepts/temporal-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/), [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/), and [phenomenal-intentionality](/concepts/intentionality/) in the body text
 - [Weak engagement with functionalist objection]: Added a paragraph in the Sartre section engaging with the functionalist reply that predictive models represent absence as discrepancies, while maintaining Sartre's point about phenomenal character
 - [MMN claim lacked citation]: Added Näätänen et al. (2007) citation for the mismatch negativity claim
-- [Sparse Further Reading section]: Expanded from 6 to 10 entries, adding [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/), [phenomenal-intentionality](/concepts/intentionality/), [protention](/concepts/temporal-consciousness/), and [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- [Sparse Further Reading section]: Expanded from 6 to 10 entries, adding [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/), [phenomenal-intentionality](/concepts/intentionality/), [protention](/concepts/temporal-consciousness/), and [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 
 ### Counterarguments Considered
 - **Functionalist objection (Dennett)**: Predictive processing systems represent absence as model discrepancies. Addressed by adding a paragraph acknowledging the functional structure while maintaining the phenomenal point.
@@ -60,7 +60,7 @@ None. The article is well-written with accurate attributions throughout.
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
 - [phenomenal-intentionality](/concepts/intentionality/)
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 
 ## Remaining Items
 

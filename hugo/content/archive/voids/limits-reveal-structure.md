@@ -94,7 +94,7 @@ Multiple lines of evidence converge:
 
 ## Phenomenology of the Edge
 
-Approaching cognitive limits has a distinctive phenomenology (see [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) for extended treatment):
+Approaching cognitive limits has a distinctive phenomenology (see [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) for extended treatment):
 
 **The dissolving insight.** Grasping that limits reveal structure is itself unstable—the insight tends to slip away when examined directly. [Thoughts that slip away](/voids/thought-stream-void/) may include thoughts *about* thinking's boundaries.
 
@@ -162,7 +162,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [The Boundary and Projection Void](/voids/boundary-and-projection/) — Consciousness cannot determine its own boundaries or observe their shifts, yet this failure reveals architectural structure
 - [The Erasure Void](/voids/erasure-void/) — Silent cognitive loss: monitoring infrastructure shares fate with monitored capacities
 - [The Habituation Void](/voids/disappearance-voids/) — How familiarity-limits reveal novelty-orientation in consciousness
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 - [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — The systematic epistemology of how knowledge about cognitive limits is warranted
 - [Illusionism](/concepts/illusionism/) — The radical challenge that limits are misrepresentations (see Illusionist Challenge section)

@@ -128,7 +128,7 @@ The very fact that we can conceive of cognitive voids—that we can ask "what ca
   - Foucault: "the point of life which lies as close as possible to the impossibility of living, which lies at the limit or the extreme"
   - Limit-experiences "wrench the subject from itself"
   - The approach to cognitive limits has its own phenomenology distinct from ordinary experience
-- **Tenet alignment**: Connects to [phenomenology of the edge](/voids/phenomenology-of-the-edge/)—the texture of approaching cognitive boundaries
+- **Tenet alignment**: Connects to [phenomenology of the edge](/voids/edge-states-and-void-probes/)—the texture of approaching cognitive boundaries
 - **Quote**: "Perhaps only at the limit does the limit reveal itself."
 
 ### Anthropic Reasoning and Observer Selection

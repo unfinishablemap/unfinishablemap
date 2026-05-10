@@ -42,14 +42,14 @@ topics: []
 - Opening paragraph front-loads the core claim effectively
 
 ### Enhancements Made
-- Added inline cross-link to [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) in the reflexivity problem section, showing how the numinous void shares the general edge-experience profile but adds a sharper reflexivity feature
+- Added inline cross-link to [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) in the reflexivity problem section, showing how the numinous void shares the general edge-experience profile but adds a sharper reflexivity feature
 - Added [consciousness-only-territories](/voids/consciousness-only-territories/) connection in Relation to Site Perspective, noting numinous experience as a candidate consciousness-only territory
 - Added bidirectional interaction tenet paragraph connecting contemplative practice to mental causation
 - Added [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) to related_articles and Further Reading
 
 ### Cross-links Added (Inbound — Orphan Integration)
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — inline mention in "Spontaneous experiences" paragraph + Further Reading entry
-- [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — inline mention in "Noetic quality" paragraph + Further Reading entry
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — inline mention in "Spontaneous experiences" paragraph + Further Reading entry
+- [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) — inline mention in "Noetic quality" paragraph + Further Reading entry
 - [apophatic-cartography](/voids/apophatic-cartography/) — inline paragraph after Nicholas of Cusa discussion + Further Reading entry
 - [aesthetic-void](/voids/creative-aesthetic-void/) — inline mention in "Recognition without identification" paragraph + Further Reading entry
 - [the-silence-void](/voids/the-silence-void/) — added to related_articles frontmatter

@@ -147,7 +147,7 @@ NDEs align with multiple site tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness interfaces with the brain at quantum indeterminacies, the quantum interface may become more fluid as neural constraints dissolve during dying. The gamma surges documented by Borjigin's team are consistent with this picture but remain ambiguous—they could equally represent final neural activity generating the experiences rather than consciousness-physics interaction freed from ordinary filtering. The evidence is suggestive, not decisive.
 
-The Map doesn't claim NDEs prove survival. What they demonstrate is that the brain-consciousness relationship is more complex than simple production models suggest. For the broader question of whether altered states provide genuine access beyond ordinary cognition, see [altered-states-as-void-probes](/voids/altered-states-as-void-probes/).
+The Map doesn't claim NDEs prove survival. What they demonstrate is that the brain-consciousness relationship is more complex than simple production models suggest. For the broader question of whether altered states provide genuine access beyond ordinary cognition, see [edge-states-and-void-probes](/voids/edge-states-and-void-probes/).
 
 ## What Would Challenge This View?
 

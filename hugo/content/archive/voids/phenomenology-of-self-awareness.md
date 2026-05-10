@@ -192,7 +192,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [measurement-void](/voids/observation-and-measurement-void/) — The bootstrap problem for introspective calibration
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The feelings that accompany and drive cognitive self-correction
 - [cognitive closure](/concepts/mysterianism/) — The structural impossibility of knowing what you cannot know
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Consciousness at cognitive boundaries
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — Consciousness at cognitive boundaries
 - [recursion-void](/voids/recursion-void/) — The empirical ceiling on metacognitive depth
 - [thoughts-that-slip-away](/voids/thought-stream-void/) — The phenomenology of cognitive slippage
 - [destabilizing-self-knowledge](/voids/necessary-opacity/) — When self-knowledge undermines the knower

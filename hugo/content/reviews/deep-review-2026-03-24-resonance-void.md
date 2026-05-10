@@ -47,13 +47,13 @@ topics: []
 
 ### Enhancements Made
 - Split dense opening paragraph for readability
-- Added cross-links in body text: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/), [mutation-void](/voids/mutation-void/), [introspective-opacity](/voids/self-opacity/), [embodied-cognition](/concepts/embodied-cognition/), [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/), [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/), [contemplative-epistemology](/concepts/contemplative-epistemology/)
+- Added cross-links in body text: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/), [mutation-void](/voids/mutation-void/), [introspective-opacity](/voids/self-opacity/), [embodied-cognition](/concepts/embodied-cognition/), [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/), [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/), [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - Added bidirectional interaction tenet to Relation to Site Perspective
 - Expanded Further Reading with 6 new entries
 - Updated related_articles frontmatter with 6 new connections
 
 ### Cross-links Added (inbound to resonance-void)
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Added in "Aesthetic absorption" subsection and Further Reading
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — Added in "Aesthetic absorption" subsection and Further Reading
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Added as mixed-type void example in "Between the Categories" section
 - [mutation-void](/voids/mutation-void/) — Added explicit link in "What Mutation Feels Like" section
 - [phenomenal-presence-void](/voids/phenomenal-quality-void/) — Added to Further Reading with Marion connection

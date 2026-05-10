@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-03
-**Article**: [Altered States as Void Probes](/voids/altered-states-as-void-probes/)
+**Article**: [Altered States as Void Probes](/voids/edge-states-and-void-probes/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -63,7 +63,7 @@ Inbound links added from:
 - [near-death-experiences](/concepts/near-death-experiences/) — in conclusion
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — in opening
 - [apophatic-approaches](/concepts/apophatic-approaches/) — in phenomenological attention section
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — in pharmacological intervention section
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — in pharmacological intervention section
 
 ## Word Count
 

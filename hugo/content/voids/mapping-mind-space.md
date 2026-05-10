@@ -29,7 +29,7 @@ related_articles:
 - '[[the-quantitative-comprehension-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[vertiginous-question]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[synesthetic-void]]'
 - '[[conceptual-scheme-void]]'
 - '[[filter-theory]]'
@@ -83,7 +83,7 @@ We may not know how many dimensions mind-space has, let alone our coordinates. T
 
 ## Phenomenology of the Edge
 
-Approaching this void produces distinctive experiential signatures — instances of the [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/).
+Approaching this void produces distinctive experiential signatures — instances of the [edge-states-and-void-probes](/voids/edge-states-and-void-probes/).
 
 **The illusion of centrality.** We assume our form of consciousness is the default. This cognitive geocentrism resists correction through argument alone: one can accept intellectually that human consciousness might be peripheral or exotic, but cannot *feel* one's way to that understanding.
 
@@ -127,7 +127,7 @@ Current evidence meets none of these. Every survey proceeds from within a partic
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — What AI and radically different alien minds might reveal about territories closed to human cognition
 - [vertiginous-question](/topics/vertiginous-question/) — Why you cannot determine why you are *this* consciousness
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our species
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The characteristic experience of approaching cognitive limits
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — The characteristic experience of approaching cognitive limits
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level cognitive constraints
 - [conceptual-scheme-void](/voids/conceptual-scheme-void/) — How conceptual schemes exclude what they cannot represent
 - [filter-theory](/concepts/filter-theory/) — The hypothesis that the brain filters rather than produces consciousness

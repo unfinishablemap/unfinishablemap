@@ -32,7 +32,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[aesthetics-and-consciousness]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[apophatic-approaches]]'
 - '[[affective-void]]'
 - '[[consciousness-only-territories]]'
@@ -104,7 +104,7 @@ Profound aesthetic experience reveals three distinct but related limits:
 
 **The articulation limit.** Aesthetic experiences resist description not from vocabulary poverty but from structural mismatch between aesthetic content and linguistic categories. This parallels William James on mystical ineffability. Attempts feel reductive—the words are not wrong but somehow miss the point.
 
-**The retention limit.** Like the dissolving insights in [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/), aesthetic revelations often cannot be preserved. The understanding felt during deep encounter evaporates when attention returns to ordinary processing. The insight required the aesthetic state to be thought at all.
+**The retention limit.** Like the dissolving insights in [edge-states-and-void-probes](/voids/edge-states-and-void-probes/), aesthetic revelations often cannot be preserved. The understanding felt during deep encounter evaporates when attention returns to ordinary processing. The insight required the aesthetic state to be thought at all.
 
 **The transmission limit.** Even when partially articulated, aesthetic insight cannot be fully conveyed. Explaining why a painting moves you fails to produce that movement in your listener. The knowledge is first-personal and acquaintance-dependent.
 
@@ -195,7 +195,7 @@ The creative-aesthetic void connects to the Map's [foundational commitments](/te
 - [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Modes of knowing that conceptual thought cannot access
 - [mysterianism](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — The cognate void where awe dismantles the evaluator, not just articulatory capacity
 - [free-will](/topics/free-will/) — How creative selection connects to agent causation
 

@@ -56,7 +56,7 @@ No new counterarguments identified beyond those engaged in the previous review. 
 ### Cross-links Added
 - [observation-void](/voids/observation-and-measurement-void/) (inline + Further Reading)
 - [dreamless-sleep-void](/voids/sleep-consciousness-void/) (frontmatter + Further Reading)
-- [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) (inline + frontmatter + Further Reading)
+- [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) (inline + frontmatter + Further Reading)
 - [dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/) (inline + frontmatter + Further Reading)
 
 ## Word Count Change

@@ -20,7 +20,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[thoughts-that-slip-away]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[apophatic-approaches]]'
 - '[[interactionist-dualism]]'
 - '[[counterfactual-void]]'
@@ -125,7 +125,7 @@ But Jean-Luc Marion warns: even calling something "unthinkable" makes it a think
 
 **Inference without grasping.** Logical inference permits deriving properties of impossibilities without claiming to conceive them. "If P is a round square, then P is round" remains valid. This allows systematic exploration of logical space surrounding impossibilities—charting what *would* follow if the impossible were possible—without requiring phenomenal access to impossible content itself.
 
-**Negative phenomenology.** Study what the gap *feels like* rather than what fills it. The [edge-experiences](/voids/phenomenology-of-the-edge/) of cognitive blockage have distinctive character. Impossibility-encounter differs from forgetting, differs from confusion about hard ideas, differs from [thoughts slipping away](/voids/thought-stream-void/). These differences are data.
+**Negative phenomenology.** Study what the gap *feels like* rather than what fills it. The [edge-experiences](/voids/edge-states-and-void-probes/) of cognitive blockage have distinctive character. Impossibility-encounter differs from forgetting, differs from confusion about hard ideas, differs from [thoughts slipping away](/voids/thought-stream-void/). These differences are data.
 
 ## Relation to Site Perspective
 
@@ -160,7 +160,7 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — A related limit: comprehension failing where formal manipulation succeeds
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at boundaries
 - [The Counterfactual Void](/voids/counterfactual-void/) — Where modal imagination thins rather than hitting a wall
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Related but distinct slippage phenomena
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits

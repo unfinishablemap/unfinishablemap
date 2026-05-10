@@ -153,7 +153,7 @@ The voids framework does not require that the voids be real. It requires only th
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
 - [The Self-Reference Paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Evidential standards for void claims, including falsifiability safeguards
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Why the stamp of realness hides itself
 - [Voids as Evidence](/voids/what-voids-reveal/) — Whether the clustering pattern and the capacity to conceive voids constitute evidence for dualism
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — What kind of knowledge limit-claims are and what warrant supports them

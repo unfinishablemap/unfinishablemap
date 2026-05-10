@@ -31,7 +31,7 @@ Scanned obsidian/ excluding reviews/, research/, archive/, hugo/, and workflow/ 
 | File | Change |
 |------|--------|
 | [voids/voids.md](/voids/) | Merged two separate "Specific Voids" entries into one pointing at the unified article; noted coalesce provenance in descriptor |
-| [voids/phenomenology-of-the-edge.md](/voids/phenomenology-of-the-edge/) | Frontmatter deduplicated (two entries → one); inline "Multiple edges" list now uses section-anchor links (`#the-magnitude-face`, `#the-probability-face`) to preserve the distinct phenomenological framing; Further Reading merged to a single entry |
+| [voids/phenomenology-of-the-edge.md](/voids/edge-states-and-void-probes/) | Frontmatter deduplicated (two entries → one); inline "Multiple edges" list now uses section-anchor links (`#the-magnitude-face`, `#the-probability-face`) to preserve the distinct phenomenological framing; Further Reading merged to a single entry |
 | [voids/three-kinds-of-void.md](/voids/three-kinds-of-void/) | Inline reference to the scale example now links to `#the-magnitude-face` anchor, preserving the magnitude-specific context |
 | [voids/recognition-void.md](/voids/recognition-void/) | Frontmatter retargeted; inline "scale void produces vertigo" framing preserved via anchor link to magnitude face |
 | [voids/resolution-void.md](/voids/resolution-void/) | Frontmatter retargeted; inline contrast with "vast magnitudes produces cognitive strain" preserved via magnitude-face anchor; Further Reading entry expanded to note the inverse-resolution parallel |

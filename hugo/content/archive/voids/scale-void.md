@@ -104,7 +104,7 @@ The scale void connects to the Map's [tenets](/tenets/) in several ways.
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — What concepts can minds form, and species-level architectural constraints on cognition
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Capacity limits on phenomenological resolution
 
 ## References

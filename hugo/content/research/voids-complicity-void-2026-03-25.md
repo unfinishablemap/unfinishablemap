@@ -191,7 +191,7 @@ Direct approaches face a fundamental problem: the investigator is the suspect. I
 2. **Failure-pattern analysis**: If consciousness is complicit in its limits, the pattern of failures should show signs of design — systematicity, redundancy, active resistance to investigation ([compound-failure-signatures](/voids/compound-failure-signatures/))
 3. **Historical tracking**: Documenting which "permanent" cognitive limits have yielded over time (e.g., non-Euclidean geometry, once "unthinkable") may reveal the difference between genuine structural limits and self-imposed ones
 4. **Meditation and contemplative practice**: Traditions report that sustained practice can gradually weaken the mechanisms of self-concealment, though never eliminate them entirely
-5. **Psychedelic and altered states research**: Temporary disruption of normal cognitive architecture may reveal what is normally concealed ([altered-states-as-void-probes](/voids/altered-states-as-void-probes/))
+5. **Psychedelic and altered states research**: Temporary disruption of normal cognitive architecture may reveal what is normally concealed ([altered-states-as-void-probes](/voids/edge-states-and-void-probes/))
 
 ### What AI Might See
 AI is a particularly interesting probe for the complicity void because:

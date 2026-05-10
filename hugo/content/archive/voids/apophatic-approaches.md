@@ -80,7 +80,7 @@ How do we use these methods practically? The apophatic traditions suggest severa
 
 **Attending to failure.** Where does explanation break down? The [hard problem](/topics/hard-problem-of-consciousness/) is precisely an account of where third-person physical description fails to capture first-person experience. The failure is informative. The shape of what cannot be explained reveals something about what consciousness is.
 
-**Phenomenological attention.** Rather than trying to grasp the content of a void, attend to the *experience* of approaching it. The [voids](/voids/) page describes thoughts that "won't stick"—ideas that slide away when reached for. These phenomenological markers might indicate occluded territory. Careful attention to how thought fails may reveal patterns. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) maps this territory systematically—what consciousness encounters when it approaches its own limits. Altered states serve as practical instruments for this approach, though whether they transcend limits or merely trace them remains an open question explored in [altered-states-as-void-probes](/voids/altered-states-as-void-probes/).
+**Phenomenological attention.** Rather than trying to grasp the content of a void, attend to the *experience* of approaching it. The [voids](/voids/) page describes thoughts that "won't stick"—ideas that slide away when reached for. These phenomenological markers might indicate occluded territory. Careful attention to how thought fails may reveal patterns. The [phenomenology of the edge](/voids/edge-states-and-void-probes/) maps this territory systematically—what consciousness encounters when it approaches its own limits. Altered states serve as practical instruments for this approach, though whether they transcend limits or merely trace them remains an open question explored in [altered-states-as-void-probes](/voids/edge-states-and-void-probes/).
 
 **Coincidence of opposites.** Cusanus held that at the infinite level, contradictions collapse. Where our logic produces paradoxes—free will versus determinism, mind versus matter, self versus world—we may be glimpsing the edges of a void where our finite categories break down.
 
@@ -166,7 +166,7 @@ The goal is not to fill the voids with speculation but to know more precisely wh
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive limits illuminate cognitive architecture
 - [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at its boundaries
 - [The Silence Void](/voids/the-silence-void/) — Where even negation must cease: the territory beyond apophatic method
 - [Illusionism](/concepts/illusionism/) — The radical challenge that phenomenal consciousness doesn't exist
 - [Introspection and First-Person Methods](/concepts/introspection/) — The reliability of phenomenal access

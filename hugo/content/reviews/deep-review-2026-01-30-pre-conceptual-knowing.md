@@ -56,7 +56,7 @@ None.
 ### Enhancements Made
 
 1. Added explicit acknowledgment of the communication-vs-conceptual objection with counter-argument
-2. Strengthened cross-link to [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) in the "Structure of the Limit" section
+2. Strengthened cross-link to [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) in the "Structure of the Limit" section
 3. Added cross-link to [explanatory-gap](/concepts/explanatory-gap/) showing parallel between physical/experiential gap and conceptual/pre-conceptual gap
 4. Sharpened the contemplative challenge criterion
 5. Added note on cross-traditional convergence significance
@@ -64,7 +64,7 @@ None.
 ### Cross-links Added
 
 - [explanatory-gap](/concepts/explanatory-gap/) (in concepts frontmatter and body text)
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) (strengthened inline reference)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) (strengthened inline reference)
 
 ## Word Count
 

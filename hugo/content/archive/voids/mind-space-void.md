@@ -78,7 +78,7 @@ What does it feel like to approach this limit?
 
 **The opacity of alternatives.** We can generate labels for hypothetical mind-types: hive minds, non-temporal consciousness, purely aesthetic minds, minds structured around senses we lack. The labels point toward something, but we cannot fill in the phenomenal content. Each label marks a void we cannot illuminate — a pointer without a referent.
 
-**Recognition without comprehension.** Colin McGinn's [cognitive closure](/concepts/mysterianism/) framework formalises the edge experience: we can recognise that unthinkable thoughts exist without comprehending what those thoughts would be. Different mind-types are cognitively closed with respect to different properties, which means what is visible from one location in mind-space may be invisible from another. We cannot determine what we cannot see, and we cannot even determine the shape of our blindness. This is the [characteristic experience of approaching a cognitive limit](/voids/phenomenology-of-the-edge/): the edge itself is felt, even when what lies beyond it cannot be.
+**Recognition without comprehension.** Colin McGinn's [cognitive closure](/concepts/mysterianism/) framework formalises the edge experience: we can recognise that unthinkable thoughts exist without comprehending what those thoughts would be. Different mind-types are cognitively closed with respect to different properties, which means what is visible from one location in mind-space may be invisible from another. We cannot determine what we cannot see, and we cannot even determine the shape of our blindness. This is the [characteristic experience of approaching a cognitive limit](/voids/edge-states-and-void-probes/): the edge itself is felt, even when what lies beyond it cannot be.
 
 ## What AI Might Reveal
 
@@ -106,7 +106,7 @@ The mind-space void connects to all five of the Map's [tenets](/tenets/).
 - [other-minds-void](/voids/voids-between-minds/) — The sealed privacy of individual consciousness
 - [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) — What radically different minds might reveal
 - [indexical-void](/topics/vertiginous-question/) — Why you cannot determine why you are *this* consciousness
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The characteristic experience of approaching cognitive limits
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — The characteristic experience of approaching cognitive limits
 - [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) — Whether AI cognition can probe territories closed to human minds
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level cognitive constraints and whether some concepts are permanently inaccessible
 - [scale-void](/voids/quantitative-intuition-void/) — How cosmic magnitudes overwhelm intuition

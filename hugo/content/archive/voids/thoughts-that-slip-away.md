@@ -136,7 +136,7 @@ The claim that some slippage points to occluded territory would be undermined if
 
 4. **All slippage traces to content-blind mechanisms.** If MCH neurons, working memory limits, and retrieval interference fully explain slippage regardless of content, no room remains for content-specific occlusion.
 
-5. **Cross-cultural divergence in what slips.** If different cultures report different content categories as slippery, the pattern reflects cultural training rather than cognitive architecture. Current evidence: remarkable cross-tradition convergence on edge-phenomenology (see [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)).
+5. **Cross-cultural divergence in what slips.** If different cultures report different content categories as slippery, the pattern reflects cultural training rather than cognitive architecture. Current evidence: remarkable cross-tradition convergence on edge-phenomenology (see [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)).
 
 The evidence for content-specific slippage remains suggestive rather than conclusive. Until systematic experimental work addresses condition 1, "deep slippage" remains a reasonable working assumption—but falsifiable.
 
@@ -146,7 +146,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 - [The Habituation Void](/voids/disappearance-voids/) — Where familiarity rather than forgetting erases experience
 - [Introspective Opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive processes
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at its boundaries
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Illusionism](/concepts/illusionism/) — The radical challenge that slippage is misrepresentation
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — The bidirectional void between waking and dreaming where slippage is systematic

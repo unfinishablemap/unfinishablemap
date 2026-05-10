@@ -37,7 +37,7 @@ related_articles:
 - '[[cognitive-phenomenology]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[biological-cognitive-closure]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[compound-failure-signatures]]'
 - '[[formal-cognitive-limits]]'
 - '[[intrinsic-nature-void]]'

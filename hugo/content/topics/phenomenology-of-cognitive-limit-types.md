@@ -21,7 +21,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[biological-cognitive-closure]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[three-kinds-of-void]]'
@@ -75,7 +75,7 @@ Where frustration announces a limit loudly, motivated disinterest silences the a
 
 ### Dissolving Insight
 
-Contact with something clear in the moment of arising that is completely unreconstructable moments later. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) documents this at contemplative boundaries: meditators report understanding that vanishes instantly and completely upon returning to ordinary cognition. Unlike ordinary forgetting, dissolving insight leaves the conviction of having known something without any trace of what was known. This signature marks limits that are state-dependent — the insight exists only at the boundary and cannot be represented in the cognitive mode required to report it.
+Contact with something clear in the moment of arising that is completely unreconstructable moments later. The [phenomenology of the edge](/voids/edge-states-and-void-probes/) documents this at contemplative boundaries: meditators report understanding that vanishes instantly and completely upon returning to ordinary cognition. Unlike ordinary forgetting, dissolving insight leaves the conviction of having known something without any trace of what was known. This signature marks limits that are state-dependent — the insight exists only at the boundary and cannot be represented in the cognitive mode required to report it.
 
 ### Construction Mistaken for Observation
 
@@ -131,7 +131,7 @@ The systematic mapping of limit phenomenologies connects to the Map's [tenets](/
 
 ## Further Reading
 
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at boundaries
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Structured failure as diagnostic method
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Architectural versus adaptive limits and their origins
 - [Cognitive Aversion](/voids/self-maintained-cognitive-limits/) — The motivational deflection that hides limits

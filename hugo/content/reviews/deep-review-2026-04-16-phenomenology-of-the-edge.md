@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-16
-**Article**: [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/)
+**Article**: [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/)
 **Previous review**: [2026-03-02](/reviews/deep-review-2026-03-02-phenomenology-of-the-edge/)
 
 ## Pessimistic Analysis Summary

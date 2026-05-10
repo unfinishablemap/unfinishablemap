@@ -54,7 +54,7 @@ topics: []
 
 ### Enhancements Made
 
-- Added link to [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) in the ineffability discussion
+- Added link to [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) in the ineffability discussion
 - Added link to [intrinsic-nature-void](/voids/intrinsic-nature-void/) in the explanatory gap discussion
 - Clarified Buddhist vs. Western interpretation of self-investigation findings
 - Strengthened qualification about truly isolated vs. interconnected cultures
@@ -62,7 +62,7 @@ topics: []
 
 ### Cross-links Added
 
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/)
 
 ## Remaining Items

@@ -57,7 +57,7 @@ Numinous experience disrupts this structure. The subject-object distinction coll
 
 This creates a paradox with no obvious resolution. During the experience, the noetic quality — James's observation that mystical states "seem to those who experience them to be also states of knowledge... states of insight into depths of truth unplumbed by the discursive intellect" — produces profound certainty. After the experience, reflective capacity returns but the experience itself has passed. Memory of the numinous is not the numinous. The evaluating mind and the numinous mind cannot occupy consciousness simultaneously. This is a specific instance of [cognitive closure](/concepts/mysterianism/) — not closure over a theoretical property but over the veridicality of an experience that dismantles the very faculty of evaluation.
 
-The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) documents how consciousness approaching cognitive limits encounters characteristic signatures: ineffability paired with noesis, ego dissolution paired with clarity. The numinous void shares this profile but adds a sharper feature absent from other edge-experiences. In ordinary qualia, the experiencing subject remains intact as evaluator — the gap between experience and report is familiar but does not threaten the evaluator's position. In numinous experience, the evaluator is what dissolves.
+The [phenomenology of the edge](/voids/edge-states-and-void-probes/) documents how consciousness approaching cognitive limits encounters characteristic signatures: ineffability paired with noesis, ego dissolution paired with clarity. The numinous void shares this profile but adds a sharper feature absent from other edge-experiences. In ordinary qualia, the experiencing subject remains intact as evaluator — the gap between experience and report is familiar but does not threaten the evaluator's position. In numinous experience, the evaluator is what dissolves.
 
 ## Awe as Cognitive Limit Marker
 
@@ -102,10 +102,10 @@ The numinous void ultimately exemplifies the Map's broader project: approaching 
 - [resonance-void](/voids/ineffable-encounter-void/)
 - [aesthetic-void](/voids/creative-aesthetic-void/)
 - [the-surplus-void](/voids/the-surplus-void/)
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 - [apophatic-cartography](/voids/apophatic-cartography/)
 - [consciousness-only-territories](/voids/consciousness-only-territories/)
-- [altered-states-as-void-probes](/voids/altered-states-as-void-probes/)
+- [altered-states-as-void-probes](/voids/edge-states-and-void-probes/)
 - [pre-conceptual-knowing](/voids/acquaintance-void/)
 - [mysterianism](/concepts/mysterianism/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)

@@ -65,7 +65,7 @@ The [epistemic-emotions](/concepts/epistemic-emotions/) involved — the particu
 
 As anomalies accumulate, the old framework begins to feel *wrong* in a way that goes beyond particular errors. The phenomenology of this crisis is distinctive: a kind of epistemic vertigo where familiar categories lose their grip without new categories yet available to replace them.
 
-This is the phenomenological territory the Map explores as the [edge](/voids/phenomenology-of-the-edge/) — the experience of approaching the limits of one's current conceptual capacity. During conceptual crisis, the edge is not an external boundary encountered from outside but an internal dissolution experienced from within. The concepts you relied on to organise experience start to feel hollow, forced, or arbitrary.
+This is the phenomenological territory the Map explores as the [edge](/voids/edge-states-and-void-probes/) — the experience of approaching the limits of one's current conceptual capacity. During conceptual crisis, the edge is not an external boundary encountered from outside but an internal dissolution experienced from within. The concepts you relied on to organise experience start to feel hollow, forced, or arbitrary.
 
 Consider a concrete case: the shift from substance-based to process-based thinking in philosophy of mind. Someone deeply committed to substance ontology — things are what they are because of what they're made of — encounters repeated difficulties explaining consciousness in material terms. At some point, the commitment to substances stops feeling like a firm foundation and starts feeling like a constraint. But process thinking is not yet available as an alternative. The interval between frameworks has its own phenomenology: groundlessness, intellectual nakedness, the experience of thinking without a net.
 
@@ -138,7 +138,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [phenomenology of self-awareness](/voids/self-opacity/)
 - [necessary-opacity](/voids/necessary-opacity/)
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 - [phenomenology-of-creative-insight](/concepts/creative-consciousness/)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — The perceptual parallel: how perception itself transforms through learning and constancy
 - [epistemic-emotions](/concepts/epistemic-emotions/)

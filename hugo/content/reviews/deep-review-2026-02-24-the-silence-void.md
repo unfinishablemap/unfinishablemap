@@ -60,7 +60,7 @@ topics: []
 ### Cross-links Added (Inbound — Orphan Integration)
 - [apophatic-approaches](/concepts/apophatic-approaches/) — body text (Wittgenstein's Silence section) + Further Reading
 - [dreamless-sleep-void](/voids/sleep-consciousness-void/) — body text (Contemplative Evidence section) + Further Reading
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — body text (contemplative practice subsection) + Further Reading
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — body text (contemplative practice subsection) + Further Reading
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — body text (Unexplorable section)
 - [pre-conceptual-knowing](/voids/acquaintance-void/) — body text (contemplative practice subsection) + Further Reading
 - [the-unobservable-self](/voids/self-reference-paradox/) — Further Reading

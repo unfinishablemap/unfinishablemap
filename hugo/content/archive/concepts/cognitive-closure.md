@@ -121,7 +121,7 @@ Is cognitive closure a testable thesis or an unfalsifiable excuse? If the hard p
 
 ## The Phenomenology of Approaching Closure
 
-What does it feel like to approach a cognitive limit? The [voids article on edge-phenomenology](/voids/phenomenology-of-the-edge/) maps this territory. When consciousness approaches limits through contemplative practice, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, temporal distortion alongside unbounded possibility.
+What does it feel like to approach a cognitive limit? The [voids article on edge-phenomenology](/voids/edge-states-and-void-probes/) maps this territory. When consciousness approaches limits through contemplative practice, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, temporal distortion alongside unbounded possibility.
 
 Not all closures have a phenomenology. [Developmental closure](/voids/biological-cognitive-closure/) leaves no trace—adults cannot experience what infant perception was like. But closures approached through active inquiry produce a distinctive felt quality: the sense that understanding lies just beyond reach, that the shape of the gap is almost visible even if its contents are not. [Contemplative practice](/topics/contemplative-practice-as-philosophical-evidence/) provides the most systematic methodology for approaching these boundaries: trained meditators across traditions report encountering structural limits of cognition—the awareness-content distinction, the constructed self, states that resist conceptual capture—that may represent consciousness operating at the edge of its own closure. Whether this phenomenology constitutes genuine proximity to closed territory or merely a neurological artefact of sustained effort at cognitive limits remains open. The [question of whether limits are genuine or apparent](/voids/meta-epistemology-of-limits/) may itself be undecidable from within a limited system.
 
@@ -143,7 +143,7 @@ The [voids](/voids/) framework operationalises cognitive closure. Rather than tr
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — The common formal structure (Lawvere's theorem) underlying both Gödelian and quantum limits
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The meta-question: can we know our own limits?
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — A candidate for McGinn's property P
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 - [limits-reveal-structure](/voids/what-voids-reveal/) — How the shape of our limits reveals cognitive architecture
 - [inventory-blindness](/concepts/inventory-blindness/) — Why cognitive closure is invisible from the inside: absent capabilities produce no signal
 - [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if cognitive limits are genuine or apparent?

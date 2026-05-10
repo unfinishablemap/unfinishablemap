@@ -114,7 +114,7 @@ Current AI systems, trained on human-generated text, largely inherit human categ
 
 ## Phenomenology of the Meta-Limit
 
-Approaching this epistemological question has [distinctive phenomenology](/voids/phenomenology-of-the-edge/):
+Approaching this epistemological question has [distinctive phenomenology](/voids/edge-states-and-void-probes/):
 
 **Oscillating confidence.** Moments of certainty that limits are real alternate with suspicion they're merely difficult problems. Neither conviction stabilises.
 

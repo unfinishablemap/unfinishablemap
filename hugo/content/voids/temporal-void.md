@@ -38,7 +38,7 @@ related_articles:
 - '[[inaccessible-past]]'
 - '[[death-void]]'
 - '[[self-opacity]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[the-quantitative-comprehension-void]]'
 - '[[smoothness-and-continuity]]'
 - '[[resolution-void]]'

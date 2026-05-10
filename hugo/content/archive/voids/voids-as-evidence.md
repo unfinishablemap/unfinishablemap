@@ -184,7 +184,7 @@ The two arguments connect to each of the Map's [tenets](/tenets/), often reinfor
 - [recognition-void](/voids/recognition-void/) — Inventory blindness strengthens the convergence argument
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — The prior question: why consciousness exists at all
 - [self-reference paradox](/voids/self-opacity/) — Structural obstacles to self-examination
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The texture of approaching cognitive boundaries
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — The texture of approaching cognitive boundaries
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — Systematic epistemology of limit-knowledge methods
 
 ## References

@@ -37,7 +37,7 @@ topics: []
 
 Consciousness at its most intensely engaged is simultaneously consciousness at its most self-opaque. Flow states, skillful absorbed coping, contemplative jhana — these produce what subjects describe as peak experience, yet they are structurally inaccessible to introspective observation. The absorption void names this paradox: the conditions that generate the richest conscious experience are the very conditions that eliminate reflective self-awareness. This void sits not at the margins of human cognition but at the centre of its most valued states.
 
-The observation-termination problem makes this void distinctive. Attempting to observe absorption from within terminates it — like trying to see your own eye without a mirror. Unlike voids at the [edges of cognition](/voids/phenomenology-of-the-edge/), the absorption void operates at the point of maximum intensity.
+The observation-termination problem makes this void distinctive. Attempting to observe absorption from within terminates it — like trying to see your own eye without a mirror. Unlike voids at the [edges of cognition](/voids/edge-states-and-void-probes/), the absorption void operates at the point of maximum intensity.
 
 ## The Observation-Termination Problem
 
@@ -53,7 +53,7 @@ The absorption void is among the best-attested cognitive limits. Csikszentmihaly
 
 Three features recur across these traditions:
 
-**Threshold recognition.** As absorption deepens, self-awareness fades. Subjects report a narrowing of attention, a sense of falling into the activity, a dissolving boundary between self and task. The [phenomenology of this edge](/voids/phenomenology-of-the-edge/) is recognisable even across radically different practices.
+**Threshold recognition.** As absorption deepens, self-awareness fades. Subjects report a narrowing of attention, a sense of falling into the activity, a dissolving boundary between self and task. The [phenomenology of this edge](/voids/edge-states-and-void-probes/) is recognisable even across radically different practices.
 
 **The absence that is not experienced as absence.** During absorption, there is no experience of lacking self-awareness — noticing the lack would require the self-awareness whose absence defines the state. The void is invisible from within.
 
@@ -101,8 +101,8 @@ The Map speculates that the absorption void may be partly occluded rather than m
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy of cognitive limits
 - [self-reference paradox](/voids/self-opacity/) — The subject that cannot be its own object
 - [attention-created-voids](/voids/attention-and-consciousness/) — What attention excludes by selecting
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
-- [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal or simulate transcendence
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
+- [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) — Whether altered states reveal or simulate transcendence
 - [thoughts-that-slip-away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
 - [transition-void](/voids/transit-void/) — The general case: consciousness cannot witness any of its own state transitions
 

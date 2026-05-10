@@ -27,7 +27,7 @@ related_articles:
 - '[[apophatic-cartography]]'
 - '[[biological-cognitive-closure]]'
 - '[[recognition-void]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[topics/phenomenology-of-intellectual-life]]'
 - '[[voids]]'
 title: Epistemology of Limit-Knowledge
@@ -91,11 +91,11 @@ Limit-knowledge differs from ordinary empirical knowledge in several respects.
 
 **It is asymmetric.** Success and failure provide asymmetric evidence. Solving a problem proves it was solvable. Failing to solve it proves nothing individually—but structured, convergent, persistent failure across centuries and cognitive architectures provides genuine (if defeasible) evidence for closure.
 
-**It is defeasible.** All limit-knowledge claims can in principle be overturned. A physicalist account of consciousness that dissolves the [phenomenology of the explanatory gap](/voids/phenomenology-of-the-edge/)—not merely correlating brain states with experience but making the correlation intelligible—would refute the claim that the hard problem marks a permanent boundary. This defeasibility is a strength, not a weakness—it means limit-knowledge claims are empirically meaningful rather than unfalsifiable.
+**It is defeasible.** All limit-knowledge claims can in principle be overturned. A physicalist account of consciousness that dissolves the [phenomenology of the explanatory gap](/voids/edge-states-and-void-probes/)—not merely correlating brain states with experience but making the correlation intelligible—would refute the claim that the hard problem marks a permanent boundary. This defeasibility is a strength, not a weakness—it means limit-knowledge claims are empirically meaningful rather than unfalsifiable.
 
 **It is architectural rather than propositional.** Limit-knowledge primarily reveals features of cognitive systems rather than features of the world. The claim "humans are cognitively closed with respect to the consciousness-physics link" is a claim about human cognitive architecture, not directly a claim about consciousness or physics.
 
-**It may be phenomenally constituted.** The [Phenomenal Constitution Thesis](/topics/phenomenology-of-intellectual-life/) holds that intellectual achievements—grasping a relation, completing an inference, recognising necessity—are constituted by their phenomenology rather than merely accompanied by it. If PCT extends to limit-knowledge, the recognition of "hitting a wall"—the [phenomenology of the edge](/voids/phenomenology-of-the-edge/)—is not just evidence for a limit but partly constitutes the knowledge that one exists. The four methods above generate propositional limit-knowledge; PCT suggests a constitutive phenomenal mode in which the limit is known *by being felt*. This bears on the bootstrap problem below: if limit-knowledge is partly phenomenally constituted, the question of architectural distortion shifts—what is at stake is not merely whether the cognitive system has access to its limits, but whether the felt encounter with closure is itself a reliable presentation.
+**It may be phenomenally constituted.** The [Phenomenal Constitution Thesis](/topics/phenomenology-of-intellectual-life/) holds that intellectual achievements—grasping a relation, completing an inference, recognising necessity—are constituted by their phenomenology rather than merely accompanied by it. If PCT extends to limit-knowledge, the recognition of "hitting a wall"—the [phenomenology of the edge](/voids/edge-states-and-void-probes/)—is not just evidence for a limit but partly constitutes the knowledge that one exists. The four methods above generate propositional limit-knowledge; PCT suggests a constitutive phenomenal mode in which the limit is known *by being felt*. This bears on the bootstrap problem below: if limit-knowledge is partly phenomenally constituted, the question of architectural distortion shifts—what is at stake is not merely whether the cognitive system has access to its limits, but whether the felt encounter with closure is itself a reliable presentation.
 
 ## The Bootstrap Problem
 
@@ -127,7 +127,7 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping
 - [recognition-void](/voids/recognition-void/) — An example of limit-knowledge from neuroscience
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence bearing on limit-knowledge claims
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What encountering a cognitive limit feels like from the inside
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What encountering a cognitive limit feels like from the inside
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The Phenomenal Constitution Thesis: intellectual achievement constituted by, not merely accompanied by, phenomenology
 
 ## References

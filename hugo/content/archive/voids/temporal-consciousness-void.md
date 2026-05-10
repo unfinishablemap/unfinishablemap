@@ -142,7 +142,7 @@ This void connects to the Map's [tenets](/tenets/):
 - [memory-void](/voids/inaccessible-past/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot be its own object
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's concept of lived time as qualitative multiplicity

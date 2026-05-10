@@ -22,7 +22,7 @@ topics: []
 **Date**: 2026-01-28
 **Content reviewed**:
 - [voids/apophatic-approaches.md](/concepts/apophatic-approaches/)
-- [voids/phenomenology-of-the-edge.md](/voids/phenomenology-of-the-edge/)
+- [voids/phenomenology-of-the-edge.md](/voids/edge-states-and-void-probes/)
 - [voids/the-unobservable-self.md](/voids/self-reference-paradox/)
 
 ## Executive Summary
@@ -121,7 +121,7 @@ These articles are close to insight but veer into substance-thinking at the cruc
 
 ### Issue 2: Cross-Cultural Convergence as Evidence
 
-- **File**: [voids/apophatic-approaches.md](/concepts/apophatic-approaches/), [voids/phenomenology-of-the-edge.md](/voids/phenomenology-of-the-edge/)
+- **File**: [voids/apophatic-approaches.md](/concepts/apophatic-approaches/), [voids/phenomenology-of-the-edge.md](/voids/edge-states-and-void-probes/)
 - **Location**: apophatic-approaches:36, phenomenology-of-the-edge:69
 - **Problem**: Cross-cultural convergence of apophatic methods is treated as evidence that they 'address something real.' But humans share brain architecture cross-culturally. Convergence of reports could reflect shared neurology rather than shared contact with transcendent reality. The articles don't distinguish these possibilities.
 - **Severity**: High
@@ -145,7 +145,7 @@ These articles are close to insight but veer into substance-thinking at the cruc
 
 ### Issue 5: Edge-Clarity Assumed Rather Than Argued
 
-- **File**: [voids/phenomenology-of-the-edge.md](/voids/phenomenology-of-the-edge/)
+- **File**: [voids/phenomenology-of-the-edge.md](/voids/edge-states-and-void-probes/)
 - **Location**: Lines 47-48, 95-97
 - **Problem**: The article treats 'edge-clarity'—the paradox of experiencing extraordinary clarity when conceptual processing breaks down—as evidence that 'ordinary conceptual processing may actively hide something.' But the alternative explanation is simpler: when high-bandwidth processing stops, what remains is less complex and thus *seems* clearer, without actually being clearer about anything. Sedation feels clear too. The article assumes edge-clarity indicates contact with something deeper rather than subtraction of noise.
 - **Severity**: Medium

@@ -23,7 +23,7 @@ related_articles:
 - '[[language-and-consciousness]]'
 - '[[consciousness-and-language-interface]]'
 - '[[thoughts-that-slip-away]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
 - '[[tenets]]'
 title: The Phenomenology of Linguistic Failure
@@ -65,7 +65,7 @@ This mode appears frequently in discussions of consciousness itself. Someone ask
 
 The most acute mode: you have content, you know you have content, and you are entirely unable to begin. Not a failure of approximation but a failure of initiation. The relationship between the meaning and any possible sentence is so remote that no starting point presents itself.
 
-This is the experience of standing before what Wittgenstein called the mystical—"not *how* the world is, but *that* it is." You cannot say what impresses you because the form of impression has no linguistic correlate. The muteness is not ignorance. It has a fullness to it, a sense of being saturated with something that has no outlet. The phenomenology resembles what the [phenomenology of the edge](/voids/phenomenology-of-the-edge/) describes at cognitive limits more generally: a paradoxical combination of clarity and inexpressibility.
+This is the experience of standing before what Wittgenstein called the mystical—"not *how* the world is, but *that* it is." You cannot say what impresses you because the form of impression has no linguistic correlate. The muteness is not ignorance. It has a fullness to it, a sense of being saturated with something that has no outlet. The phenomenology resembles what the [phenomenology of the edge](/voids/edge-states-and-void-probes/) describes at cognitive limits more generally: a paradoxical combination of clarity and inexpressibility.
 
 ### Degradation Through Repetition
 
@@ -117,7 +117,7 @@ The phenomenology of linguistic failure connects to The Unfinishable Map's [tene
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How philosophy of language reveals the irreducibility of consciousness
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional relationship between language and experience
 - [thoughts-that-slip-away](/voids/thought-stream-void/) — Related phenomena of cognitive slippage
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The general phenomenology of approaching cognitive limits
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — The general phenomenology of approaching cognitive limits
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether understanding has its own phenomenal character
 - [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) — How different cognitive limits produce distinct experiential signatures
 - [tenets](/tenets/) — The foundational commitments of the Map

@@ -29,7 +29,7 @@ None. This is the article's fourth review. Previous critical issues remain prope
 
 ### Medium Issues Found
 
-1. **Missed ASC-as-void-probes epistemological integration**: The existing reference to [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) (line 88) was minimal and didn't engage with the article's central epistemological taxonomy (genuine access vs. illusion vs. edge-mapping).
+1. **Missed ASC-as-void-probes epistemological integration**: The existing reference to [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) (line 88) was minimal and didn't engage with the article's central epistemological taxonomy (genuine access vs. illusion vs. edge-mapping).
    - **Resolution**: Expanded the reference to explicitly acknowledge filter theory's commitment to the "genuine access" interpretation and note the alternative "edge-mapping" reading as an epistemological choice rather than empirical fact.
 
 2. **NDE section verbosity**: The filter theorist's response was unnecessarily long.
@@ -65,7 +65,7 @@ All six adversarial personas engaged with the cross-review context:
 
 ### Enhancements Made
 
-- Added [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) to concepts frontmatter
+- Added [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) to concepts frontmatter
 - Expanded inline reference to ASC-as-void-probes with epistemological taxonomy
 - Acknowledged filter theory's commitment to "genuine access" interpretation
 - Noted "edge-mapping" as alternative reading compatible with same data
@@ -74,7 +74,7 @@ All six adversarial personas engaged with the cross-review context:
 
 ### Cross-links Added
 
-- [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Epistemological framework for interpreting filter-loosening experiences
+- [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) — Epistemological framework for interpreting filter-loosening experiences
 
 ## Length Management
 

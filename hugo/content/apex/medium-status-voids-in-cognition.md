@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-05-08 11:54:00+00:00
+ai_modified: 2026-05-10 02:22:00+00:00
 ai_system: claude-opus-4-7
-apex_last_synthesis: 2026-05-08 11:54:00+00:00
+apex_last_synthesis: 2026-05-10 02:22:00+00:00
 apex_sources:
 - voids/mattering-void
 - voids/relevance-void
@@ -23,13 +23,13 @@ concepts:
 - '[[phenomenology]]'
 - '[[metacognition]]'
 created: 2026-04-29
-date: &id001 2026-05-08
+date: &id001 2026-05-10
 description: Four cognitive voids name operations that structure other contents —
   significance, filtering, gating, framing — while remaining invisible from inside.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 10:10:00+00:00
+last_deep_review: 2026-05-10 02:22:00+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -112,7 +112,7 @@ Independent intellectual traditions, working with different premises and vocabul
 
 **Vervaeke: relevance realization.** John Vervaeke and colleagues argue that the process by which organisms determine what is relevant is "impredicative and co-constructive": the criteria of relevance are reshaped by the same process that applies them. The strong non-computability claim is contested, and the Map flags it as hypothesis. Bracketed, the framing remains useful — it locates the same phenomenon the AI literature has been calling the frame problem for fifty years. Vervaeke's project is naturalist; the impredicativity is meant to characterise a real cognitive process within physical organisms.
 
-These five framings, working from existential phenomenology, identity-constitutive ethics, psychiatric phenomenology, philosophy of self-knowledge, and cognitive science, converge on a single structural picture: the operations that structure cognition are pre-reflective, constitutive, interpretively self-presenting, and resistant to transparent decomposition. The traditions cover the four voids unevenly — Heidegger touches all four; Frankfurt and Ratcliffe focus on mattering; Carruthers on relevance and noetic feelings; Vervaeke on relevance with mattering as upstream condition — and Kant, Davidson, Kuhn, Koriat, Thompson, Rozenblit and Keil, Friston, and salience-network neuroscience extend the empirical anchoring beyond the central five. The convergence claim is structural: independent vocabularies arrive at the same circularity. None of the cited traditions endorses the Map's dualist tenets; the convergence is on the circularity, not on what it entails. Structural convergence is also weaker evidence than interpretive convergence: it shows that frameworks built on different premises can be re-described as tracking the same shape, not that their authors would jointly endorse any one reading.
+These five framings — from existential phenomenology, identity-constitutive ethics, psychiatric phenomenology, philosophy of self-knowledge, and cognitive science — converge on a single structural picture: the operations that structure cognition are pre-reflective, constitutive, interpretively self-presenting, and resistant to transparent decomposition. The traditions cover the four voids unevenly (Heidegger touches all four; Frankfurt and Ratcliffe focus on mattering; Carruthers on relevance and noetic feelings; Vervaeke on relevance with mattering as upstream condition); Kant, Davidson, Kuhn, Koriat, Thompson, Rozenblit and Keil, Friston, and salience-network neuroscience extend the empirical anchoring. None endorses the Map's dualist tenets; the convergence is structural — frameworks with different premises can be re-described as tracking the same shape, but their authors would not jointly endorse any one reading, and structural convergence is weaker evidence than interpretive convergence.
 
 ## The Inflation Risk and the Medium-Status Criterion
 
@@ -134,7 +134,9 @@ Two harder cases test the criterion. *[Attention](/voids/attention-and-conscious
 
 The convergence of four medium-status voids on a single structural feature is itself evidence-bearing. Each face — significance, filtering, gating, framing — could be dismissed individually as an artefact of one tradition's vocabulary. The conjunction is harder to dismiss. Five traditions with different premises arrive at the same circularity, and four distinct cognitive operations exhibit the same self-referential opacity. The Map reads this convergence as evidence that the medium-status of cognitive operations is a feature of the territory rather than a coincidence among descriptions.
 
-The cluster does not establish that the medium is non-physical. The four articles individually flag the available alternatives — physicalist functional explanations, deflationary readings of Vervaeke's non-computability claim, eliminative responses to the noetic-feelings claim — and this synthesis inherits those hedges. What the cluster establishes is that medium-status is a coherent category, that it admits a sharp criterion, that four operations satisfy it, and that any reductive account must explain how a medium of significance, filtering, gating, or framing is reducible to features that are themselves contents within the field the medium constitutes. That is a structural challenge rather than a knockdown argument.
+The cluster does not establish that the medium is non-physical. The four articles individually flag the available alternatives — physicalist functional explanations, deflationary readings of Vervaeke's non-computability claim, eliminative responses to the noetic-feelings claim — and this synthesis inherits those hedges. What the cluster establishes is that medium-status is a coherent category satisfied by four operations, posing a structural challenge for any reductive account that takes contents within the field as basic — a challenge rather than a knockdown argument.
+
+The cluster also stands in close relation to the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/), a sibling apex tracking opacity from a different angle. Medium-status names operations that *constitute* the field; phenomenal-output names the gap between phenomenal *verdict* and underlying *operation*. The noetic-feelings void sits at the intersection — both a medium of gating and a verdict-issuing layer with hidden machinery — while other members fall under one criterion only. The cardinality floor is a phenomenal-output dissociation without being medium-status: counting does not constitute the cognitive field. The conceptual scheme is medium-status without being centrally a verdict-issuing layer: a categorial framework does not arrive as a one-shot finished judgement. The two cuts share substantial vocabulary (mode-fragility, outputs-by-deformation) and identify the same recursive opacity from complementary angles, with the convergence between them itself part of the cumulative architectural picture.
 
 One asymmetric external probe deserves mention. AI systems with architectural access to softmax distributions, log-probabilities, and calibration metrics offer a numerical view of quantities that, in humans, generate the opaque feelings that gate cognition. The noetic-feelings face is the most directly testable this way: an AI's confidence values are inspectable in ways fluency traces are not in biological systems. This does not dissolve the cluster — the AI faces its own version of the void (mechanism traces without felt authority, inability to self-certify its own calibration metrics) — but the asymmetry of access between architectures is informative. The probe is uneven across faces: the relevance face admits limited softmax-attention analogues; the conceptual-scheme face has no clean architectural counterpart, since the AI's categories are themselves a scheme.
 

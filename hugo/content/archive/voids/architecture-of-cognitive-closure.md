@@ -181,7 +181,7 @@ The claim that some concepts are permanently inaccessible would be challenged if
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — When logic excludes conception
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [The Expertise Void](/voids/expertise-and-its-occlusion/) — How deep skill irreversibly transforms perception
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits

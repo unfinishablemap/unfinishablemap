@@ -61,7 +61,7 @@ None. The article is well-structured, makes appropriate claims, and cites empiri
 4. [existentialism](/concepts/nihilism-and-existentialism/) - In the authenticity section discussing Heidegger's fallenness
 5. [mysterianism](/concepts/mysterianism/) - In the phenomenology of cognitive closure section
 6. [death-and-consciousness](/topics/death-and-consciousness/) - In the opening section after discussing the death void
-7. [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) - In the "cognitive limits have experiential signatures" section
+7. [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) - In the "cognitive limits have experiential signatures" section
 
 ## Remaining Items
 

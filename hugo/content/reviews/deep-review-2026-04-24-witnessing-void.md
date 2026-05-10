@@ -56,7 +56,7 @@ None. Attribution check passed on all load-bearing citations (Albahari 2009, Zah
 2. [self-opacity](/voids/self-opacity/) — Added to related_articles; inline mention in the regression-of-attention passage distinguishing operation-focus from owner-focus; Further Reading entry.
 3. [witness-consciousness](/concepts/witness-consciousness/) — Added to related_articles; inline mention after the Hume regress passage; Further Reading entry.
 4. [recursion-void](/voids/recursion-void/) — Added to related_articles; inline distinction in the void-differs-from paragraph; Further Reading entry.
-5. [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Added witnessing-boundary to the Multiple Edges list; Further Reading entry.
+5. [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — Added witnessing-boundary to the Multiple Edges list; Further Reading entry.
 6. [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Added to related_articles; inline mention in the Regress Problem section tying the phenomenological aptness to the void's epistemic consequence.
 7. [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Added to the Self-Knowledge Cluster list with explicit differentia.
 8. [zahavian-minimal-self](/concepts/self-and-self-consciousness/) — Added to related_articles (Zahavi is a load-bearing citation in witnessing-void).

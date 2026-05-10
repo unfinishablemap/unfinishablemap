@@ -122,7 +122,7 @@ The observation void also connects to [self-reference paradox](/voids/self-opaci
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation—an indirect route past the void
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own constitutive contribution
 - [mutation-void](/voids/mutation-void/) — The narrower case: thought-contents that are constitutively unstable under attention
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 
 ## References
 

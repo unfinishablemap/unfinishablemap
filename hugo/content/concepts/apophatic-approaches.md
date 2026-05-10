@@ -23,7 +23,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[the-silence-void]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[what-voids-reveal]]'
 - '[[question-formation-void]]'
 title: 'Apophatic Approaches: Knowing Through Negation'
@@ -53,7 +53,7 @@ Apophatic inquiry proceeds through several related techniques:
 
 **Coincidentia oppositorum** — coincidence of opposites. Cusanus observed that at certain limits, contradictory descriptions both apply and neither applies. Consciousness appears to be both private and publicly reportable, both unified and composed of parts, both continuous and punctuated. Where ordinary categories produce contradiction, the contradiction itself may mark the boundary of those categories rather than an error in reasoning.
 
-**Phenomenological attention** — attending to the *experience* of cognitive failure rather than trying to push through it. When thought reaches a genuine limit, the character of the failure carries information. [The phenomenology of the edge](/voids/phenomenology-of-the-edge/) — thoughts "not sticking," recursive destabilisation, the feeling of being blocked rather than merely confused — differs from ordinary ignorance and may reveal the structure of what lies beyond.
+**Phenomenological attention** — attending to the *experience* of cognitive failure rather than trying to push through it. When thought reaches a genuine limit, the character of the failure carries information. [The phenomenology of the edge](/voids/edge-states-and-void-probes/) — thoughts "not sticking," recursive destabilisation, the feeling of being blocked rather than merely confused — differs from ordinary ignorance and may reveal the structure of what lies beyond.
 
 **Disciplined silence** — recognising when further articulation distorts rather than illuminates. Wittgenstein's closing of the *Tractatus* — "Whereof one cannot speak, thereof one must be silent" — is protective rather than dismissive. Speech about certain subjects does not merely fail to capture them; it actively misrepresents them. The [silence void](/voids/the-silence-void/) takes this further: contemplative traditions report that even negation must cease for certain territories to open.
 
@@ -98,7 +98,7 @@ The Map's [tenets](/tenets/) both motivate and are supported by apophatic method
 - [explanatory-gap](/concepts/explanatory-gap/) — The persistent gap between physical description and experience — a core apophatic datum
 - [cognitive closure](/concepts/mysterianism/) — McGinn's thesis that some properties lie beyond a mind's conceptual reach
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central instance of apophatic failure
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What consciousness encounters at its boundaries
 - [the-silence-void](/voids/the-silence-void/) — Where even negation must cease
 - [what-voids-reveal](/voids/what-voids-reveal/) — How cognitive limits illuminate cognitive architecture
 - [question-formation-void](/voids/question-formation-void/) — The meta-limit: apophatic mapping can only negate what can first be formulated

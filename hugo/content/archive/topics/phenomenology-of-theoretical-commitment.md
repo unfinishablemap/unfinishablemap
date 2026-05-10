@@ -66,7 +66,7 @@ The gravitational structure manifests in several distinctive experiences:
 
 **Coherence satisfaction.** When disparate observations converge under a single theoretical framework, the experience is not merely cognitive but affective. There is a felt rightness, a warmth of integration, that rewards theoretical unification. This [epistemic emotion](/concepts/epistemic-emotions/) functions as a phenomenal signal of explanatory progress.
 
-**Boundary alertness.** The committed theorist develops heightened sensitivity to where their framework's explanatory power ends. The edge of the theory's reach becomes phenomenally marked — problems at the boundary feel qualitatively different from problems well within the framework's scope. This connects to the [phenomenology of the edge](/voids/phenomenology-of-the-edge/), where the limits of current conceptual capacity become experientially vivid.
+**Boundary alertness.** The committed theorist develops heightened sensitivity to where their framework's explanatory power ends. The edge of the theory's reach becomes phenomenally marked — problems at the boundary feel qualitatively different from problems well within the framework's scope. This connects to the [phenomenology of the edge](/voids/edge-states-and-void-probes/), where the limits of current conceptual capacity become experientially vivid.
 
 ## Commitment as Inhabited Perspective
 

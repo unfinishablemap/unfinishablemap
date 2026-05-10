@@ -65,7 +65,7 @@ The aesthetic void appears to involve three distinct but related limits:
 
 **The articulation limit.** Profound aesthetic experiences resist verbal description not due to vocabulary poverty but due to structural mismatch between aesthetic content and linguistic categories. This parallels the ineffability of mystical experience. The content exists; encoding it does not work. Attempts at description feel reductive—the words are not wrong but somehow miss the point.
 
-**The retention limit.** Like the dissolving insights described in [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/), aesthetic revelations often cannot be preserved. The understanding felt during deep aesthetic encounter evaporates when attention returns to ordinary processing. You knew something while absorbed in the painting; returning to yourself, you cannot say what you knew. The insight required the aesthetic state to be thought at all.
+**The retention limit.** Like the dissolving insights described in [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/), aesthetic revelations often cannot be preserved. The understanding felt during deep aesthetic encounter evaporates when attention returns to ordinary processing. You knew something while absorbed in the painting; returning to yourself, you cannot say what you knew. The insight required the aesthetic state to be thought at all.
 
 **The transmission limit.** Even when partially articulated, aesthetic insight cannot be fully conveyed. Explaining why a painting moves you fails to produce that movement in your listener. Art criticism gestures toward experiences it cannot transfer. The knowledge is first-personal and acquaintance-dependent—you must be there, in the experience, to know what is known.
 
@@ -151,7 +151,7 @@ The aesthetic void suggests that consciousness has access to something ordinary 
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
 - [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — The companion void: where creative insight originates
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [pre-conceptual-knowing](/voids/acquaintance-void/) — Knowledge before and beyond concepts

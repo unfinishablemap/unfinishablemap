@@ -1038,7 +1038,7 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-25 23:10 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- **File**: [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 - **Word count**: 2341 → 2350 (+9, length-neutral)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (missing mind-space-void cross-link)

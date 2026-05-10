@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-04
 **Article**: [Mysterianism and Cognitive Closure](/concepts/mysterianism/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-mysterianism/)
-**Cross-review context**: [Altered States as Void Probes](/voids/altered-states-as-void-probes/)
+**Cross-review context**: [Altered States as Void Probes](/voids/edge-states-and-void-probes/)
 
 ## Pessimistic Analysis Summary
 
@@ -54,13 +54,13 @@ Six adversarial personas applied:
 - Tool-extension objection and response
 
 ### Enhancements Made
-1. Added integration with [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) in "The Phenomenology of Cognitive Closure" section: if ASCs consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn's permanence claim.
-2. Added [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) to Further Reading section.
-3. Added [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) to related_articles frontmatter.
+1. Added integration with [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) in "The Phenomenology of Cognitive Closure" section: if ASCs consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn's permanence claim.
+2. Added [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) to Further Reading section.
+3. Added [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) to related_articles frontmatter.
 4. Tightened prose in "Mysterianism's Virtues," "Defeatism Objection," "Vitalism Analogy," and "Squirrel Objection" sections to maintain length neutrality.
 
 ### Cross-links Added
-- [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states can transcend cognitive closure or merely map its edges
+- [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) — Whether altered states can transcend cognitive closure or merely map its edges
 
 ## Remaining Items
 

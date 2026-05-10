@@ -71,7 +71,7 @@ topics: []
 
 ### Cross-links Added
 
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 - [limits-reveal-structure](/voids/what-voids-reveal/)
 - [mysterianism](/concepts/mysterianism/)
 - [introspection](/concepts/introspection/)

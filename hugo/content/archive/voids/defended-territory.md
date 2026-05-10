@@ -171,7 +171,7 @@ The hypothesis is speculative. Most slippage has mundane explanations. What dist
 - [The Appetitive Void](/voids/appetitive-void/) — When desire structures the cognitive field
 - [The Obviousness Void](/voids/understanding-void/) — Territory that feels already known, not worth approaching
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at boundaries
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How thought breaks down at void boundaries
 - [The Complicity Void](/voids/self-maintained-cognitive-limits/) — Whether consciousness is its own jailer
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive boundaries illuminate architecture

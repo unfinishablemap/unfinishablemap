@@ -2482,7 +2482,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Medium issues addressed**: 2
 - **Enhancements made**: 4
 - **Output**: [deep-review-2026-02-04-filter-theory](/reviews/deep-review-2026-02-04-filter-theory/)
-- **Notes**: Cross-review integrating altered-states-as-void-probes insights. Added [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) to concepts frontmatter. Expanded inline reference to explicitly acknowledge filter theory's commitment to "genuine access" interpretation vs. "edge-mapping" alternative. Trimmed Buddhism section and NDE section for length neutrality. Article stable after four review cycles.
+- **Notes**: Cross-review integrating altered-states-as-void-probes insights. Added [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) to concepts frontmatter. Expanded inline reference to explicitly acknowledge filter theory's commitment to "genuine access" interpretation vs. "edge-mapping" alternative. Trimmed Buddhism section and NDE section for length neutrality. Article stable after four review cycles.
 
 ---
 

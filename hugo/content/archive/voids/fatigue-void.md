@@ -55,7 +55,7 @@ The fatigue void's distinctive character is that it is self-concealing. Self-ass
 
 This creates a structural impossibility. To observe consciousness narrowing, one needs precisely the metacognitive capacities that fatigue degrades first. By the time the narrowing is significant, the capacity to notice it has already been lost. This is [self-opacity](/voids/self-opacity/) in its most concrete form — not the general philosophical observation that the mind cannot fully know itself, but a specific, measurable instance where the monitoring system fails before the systems it monitors. Third-person methods — behavioural observation, error analysis, neuroimaging — can reconstruct the hierarchy after the fact. But the first-person experience of crossing these thresholds is, by its nature, unavailable to the consciousness crossing them.
 
-The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) takes a distinctive form here. Unlike the hard edges of logical impossibility or the vertiginous edges of infinite regress, the fatigue edge is soft. Consciousness does not hit a wall. It dissolves gradually, and the dissolution feels less like losing something than like setting down a burden.
+The [phenomenology of the edge](/voids/edge-states-and-void-probes/) takes a distinctive form here. Unlike the hard edges of logical impossibility or the vertiginous edges of infinite regress, the fatigue edge is soft. Consciousness does not hit a wall. It dissolves gradually, and the dissolution feels less like losing something than like setting down a burden.
 
 ## The Comfort of Narrowing
 
@@ -106,7 +106,7 @@ The fatigue void connects to the Map's [tenets](/tenets/) at several points.
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/)
 - [complicity-void](/voids/self-maintained-cognitive-limits/)
 - [habituation-void](/voids/disappearance-voids/)
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/)
 - [attention-and-consciousness](/voids/attention-and-consciousness/)
 - [resolution-void](/voids/resolution-void/)
 - [self-opacity](/voids/self-opacity/)

@@ -16,7 +16,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[self-and-self-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[illusionism]]'
 - '[[introspection]]'
 - '[[haecceity]]'
@@ -117,7 +117,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 **Cessation experiences**: *Nirodha samāpatti*—complete cessation of perception and feeling—can be voluntarily achieved while brain activity continues. This challenges the assumption that consciousness *is* neural activity, supporting the filter theory.
 
-**Minimal phenomenal experience**: Awareness without subject-object structure—non-conceptual, atemporal, yet vividly present—suggests awareness is more fundamental than any particular form it takes. See [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/).
+**Minimal phenomenal experience**: Awareness without subject-object structure—non-conceptual, atemporal, yet vividly present—suggests awareness is more fundamental than any particular form it takes. See [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/).
 
 **Temporal microstructure**: Buddhist *khaṇika* (momentariness)—experience arising and passing in rapid succession—aligns with Husserl's phenomenological analysis, demonstrating empirical contemplative methods for investigating consciousness.
 
@@ -190,7 +190,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* conscious being?
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* tradition in Advaita Vedānta and Buddhist meditation
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing modes
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Minimal phenomenal experience and the zero-person perspective
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — Minimal phenomenal experience and the zero-person perspective
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams, lucid dreaming, and Tibetan dream yoga
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — What lucid dreaming reveals about consciousness capabilities
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The scientific research program bridging contemplative traditions and neuroscience

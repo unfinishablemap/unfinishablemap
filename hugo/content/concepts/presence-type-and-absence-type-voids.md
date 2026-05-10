@@ -38,7 +38,7 @@ related_articles:
 - '[[erasure-void]]'
 - '[[death-void]]'
 - '[[apophatic-cartography]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[acquaintance-void]]'
 - '[[consciousness-only-territories]]'
 title: Presence-Type and Absence-Type Voids
@@ -92,7 +92,7 @@ The [failure-signature framework](/voids/compound-failure-signatures/) catalogue
 
 Dissolution under attention is related to but distinct from the [mutation pattern](/voids/mutation-void/). Mutation transforms the *content* of a thought when attention reaches for it; dissolution destroys the *mode of knowing itself*. A musical passage that lands with felt weight can still be described in acoustic terms after analysis—the content remains intact—but the encounter-as-knowing is gone. The body stopped registering; the intellect took over; the felt significance became a memory of felt significance.
 
-This signature is diagnostic. Where an absence-type void produces the phenomenology of reaching and not finding, a presence-type void produces the phenomenology of having-had-and-lost. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) traces both shapes: absence-type limits feel like walls, presence-type limits feel like windows that close under inspection.
+This signature is diagnostic. Where an absence-type void produces the phenomenology of reaching and not finding, a presence-type void produces the phenomenology of having-had-and-lost. The [phenomenology of the edge](/voids/edge-states-and-void-probes/) traces both shapes: absence-type limits feel like walls, presence-type limits feel like windows that close under inspection.
 
 ## Why the Distinction Matters
 
@@ -133,7 +133,7 @@ The classification does not commit the Map to any particular metaphysics of the 
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — the apex article where this distinction was first drawn
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — the paradigm presence-type void
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — the failure-signature framework that includes dissolution under attention
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — what approaching each type feels like from inside
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — what approaching each type feels like from inside
 - [apophatic-cartography](/voids/apophatic-cartography/) — the methodology that primarily addresses absence-type voids
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — where presence-type voids cluster
 

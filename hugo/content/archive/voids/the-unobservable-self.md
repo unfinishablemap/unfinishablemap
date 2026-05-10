@@ -80,7 +80,7 @@ What does it feel like to approach this void? Contemplatives describe two charac
 
 **The receding horizon.** The self seems always just ahead—present, near, but never where you look. The more precisely you attend, the more clearly the object of attention is *not* the attender.
 
-**Spacious release.** When attention turns fully inward and finds nothing to grasp, some report empty wakefulness—awareness vividly present but without content. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) documents this "zero-person perspective." Curiously, sustained encounter often produces calm rather than anxiety; fighting to see the seer exhausts, while resting in unseeable awareness relaxes.
+**Spacious release.** When attention turns fully inward and finds nothing to grasp, some report empty wakefulness—awareness vividly present but without content. The [phenomenology of the edge](/voids/edge-states-and-void-probes/) documents this "zero-person perspective." Curiously, sustained encounter often produces calm rather than anxiety; fighting to see the seer exhausts, while resting in unseeable awareness relaxes.
 
 Thomas Metzinger's research on *minimal phenomenal experience* describes states where the phenomenal self-model strips away entirely, leaving "pure awareness" without subject or object—awareness continuing, undeniable, but without anyone to whom it belongs.
 
@@ -153,7 +153,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. I
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Formal limitations on self-understanding
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Limit-experiences and minimal phenomenal experience
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — Limit-experiences and minimal phenomenal experience
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — When cognition slips from grasp
 - [Introspection and First-Person Methods](/concepts/introspection/) — Reliability and limits of self-examination
 - [Self and Consciousness](/concepts/self-and-self-consciousness/) — Minimal self versus narrative self

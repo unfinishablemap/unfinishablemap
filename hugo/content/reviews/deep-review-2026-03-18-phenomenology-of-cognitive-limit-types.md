@@ -52,7 +52,7 @@ No new counterarguments identified beyond those already addressed in the 2026-03
 ### Cross-links Added (Orphan Integration)
 Added inbound wikilinks from 8 articles to integrate this orphan into site navigation:
 
-1. [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — In "What the Edge Reveals" section, linked as the systematic framework for phenomenological signatures
+1. [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — In "What the Edge Reveals" section, linked as the systematic framework for phenomenological signatures
 2. [topology-of-cognitive-failure](/voids/compound-failure-signatures/) — After taxonomy table, linked as extension mapping signatures to felt quality
 3. [evolved-cognitive-limits](/voids/biological-cognitive-closure/) — In "Phenomenology of Evolved Limits" section, linked as the systematic mapping of limit phenomenologies
 4. [cognitive-aversion](/voids/defended-territory/) — After aversion markers, linked for positioning motivated disinterest within the broader diagnostic grid

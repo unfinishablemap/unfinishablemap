@@ -31,7 +31,7 @@ related_articles:
 - '[[tenets]]'
 - '[[medium-status-voids-in-cognition]]'
 - '[[what-voids-reveal]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[biological-cognitive-closure]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[non-human-minds-as-void-explorers]]'
@@ -77,7 +77,7 @@ Void-mapping requires explicit evidential standards for when cognitive failure c
 
 **Progressive articulation.** Genuine boundaries yield *finer structure* as inquiry deepens. The hard problem has unfolded into the explanatory gap (Levine), the knowledge argument (Jackson), the zombie argument (Chalmers), the meta-problem (Chalmers 2018), and a sharpening access/phenomenal distinction. Astrology's core gap, by contrast, has yielded no comparable refinement since Babylonian times—repetition, not articulation.
 
-Two further indicators complement these criteria. **Characteristic phenomenology**: [approaching genuine limits produces distinctive phenomenal markers](/voids/phenomenology-of-the-edge/)—thoughts "not sticking," recursive destabilization. **Predictive structure**: a genuine boundary predicts what *kinds* of approaches will fail and why.
+Two further indicators complement these criteria. **Characteristic phenomenology**: [approaching genuine limits produces distinctive phenomenal markers](/voids/edge-states-and-void-probes/)—thoughts "not sticking," recursive destabilization. **Predictive structure**: a genuine boundary predicts what *kinds* of approaches will fail and why.
 
 ## Safeguards Against Unfalsifiable Mystique
 
@@ -170,7 +170,7 @@ Apophatic cartography provides the methodological backbone for the Map's most di
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — Concrete instance of the explanatory gap
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Cross-architectural cartography
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at its boundaries
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The taxonomy the cartography problem renders constitutively incomplete
 - [The Question Formation Void](/voids/question-formation-void/) — The upstream constraint on what apophatic method can reach (formulation side)
 - [The Suspension Void](/voids/suspension-void/) — The upstream constraint on the holding-open the method requires (capacity side)

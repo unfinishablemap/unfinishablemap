@@ -23,7 +23,7 @@ related_articles:
 - '[[voids-between-minds]]'
 - '[[synesthetic-void]]'
 - '[[consciousness-only-territories]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[appetitive-void]]'
 - '[[valence-void]]'
 - '[[mood-void]]'
@@ -130,7 +130,7 @@ The affective void suggests profound humility about emotion. Our feelings are no
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why we can access only one piece of reality's intrinsic nature
 - [voids-between-minds](/voids/voids-between-minds/) — Existence, encounter, and sharing across individual consciousnesses
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether different cognitive architectures face different closures
 - [synesthetic-void](/voids/synesthetic-void/) — How synesthesia reveals intra-species phenomenal access gaps
 - [appetitive-void](/voids/appetitive-void/) — How desire structures our mapping of emotional limits

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-09 21:16:00+00:00
+ai_modified: 2026-05-09 23:38:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-09 17:38:00+00:00
 apex_sources:
@@ -37,7 +37,7 @@ description: A structural cluster recurring across perception, cognition, agency
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-09 18:18:00+00:00
+last_deep_review: 2026-05-09 23:38:00+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'

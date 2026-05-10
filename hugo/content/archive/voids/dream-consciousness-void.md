@@ -126,7 +126,7 @@ Consider: we can describe fever-induced confusion as "degraded processing"—and
 
 The dream consciousness void has implications for understanding cognitive limits more broadly:
 
-**Cognitive limits are state-dependent.** What we can think, access, and know varies between waking and dreaming. The voids are not fixed territories but shift with conscious mode. This suggests that other [altered states—meditation, psychedelics, hypnagogia—may serve as probes](/voids/altered-states-as-void-probes/) into territories that ordinary waking cannot reach.
+**Cognitive limits are state-dependent.** What we can think, access, and know varies between waking and dreaming. The voids are not fixed territories but shift with conscious mode. This suggests that other [altered states—meditation, psychedelics, hypnagogia—may serve as probes](/voids/edge-states-and-void-probes/) into territories that ordinary waking cannot reach.
 
 **Access is bidirectionally limited.** Waking cannot fully access dreaming, and dreaming cannot fully access waking. Neither state is epistemically superior—each has blind spots the other can partially see. This challenges the assumption that waking provides neutral ground for mapping all of consciousness.
 
@@ -165,9 +165,9 @@ The evidence currently favors genuine bidirectional inaccessibility. But the voi
 - [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — The companion void: where consciousness goes during deep sleep
 - [Dreams and Consciousness](/topics/dream-consciousness/) — How dreams illuminate the consciousness-brain relationship
 - [The Observation Void](/voids/observation-and-measurement-void/) — Why observing consciousness transforms what is observed
-- [Altered States as Void Probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal or simulate transcendence of cognitive limits
+- [Altered States as Void Probes](/voids/edge-states-and-void-probes/) — Whether altered states reveal or simulate transcendence of cognitive limits
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [Sleep and Consciousness](/concepts/sleep-and-consciousness/) — The neural gradients underlying sleep's consciousness modes
 
 ## References

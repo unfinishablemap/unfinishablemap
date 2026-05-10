@@ -126,7 +126,7 @@ The transition void connects to several of the Map's [tenets](/tenets/).
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — The related void: where consciousness goes during deep sleep
 - [inaccessible-past](/voids/inaccessible-past/) — Why past conscious states can only be reconstructed, not accessed
 - [The Absorption Void](/voids/disappearance-voids/) — Peak engagement is peak self-opacity
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The micro-structure of attention shifts, where departure is never witnessed
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's retention-protention structure and why temporal smoothing conceals transitions
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow entry and exit as paradigm cases of unobserved transition

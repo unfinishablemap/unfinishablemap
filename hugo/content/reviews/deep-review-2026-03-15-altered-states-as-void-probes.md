@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [Altered States as Void Probes](/voids/altered-states-as-void-probes/)
+**Article**: [Altered States as Void Probes](/voids/edge-states-and-void-probes/)
 **Previous review**: [2026-02-03](/reviews/deep-review-2026-02-03-altered-states-as-void-probes/)
 
 ## Pessimistic Analysis Summary

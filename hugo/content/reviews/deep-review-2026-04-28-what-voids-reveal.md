@@ -50,7 +50,7 @@ No qualifier dropping, no source/Map conflation, no self-contradiction. The illu
 1. **Length: hard_warning at 3950 words (198% of 2000 voids soft threshold)**. The merge produced a hub-style article that combines two full-length arguments. Applied length-neutral-plus-condensation to bring this down.
    - **Resolution**: Cut 327 words (3950 → 3623) through trims to redundancy, not removal of substance. The article now sits at 181% of soft threshold — still hard_warning but acknowledged as a hub article that genuinely needs to carry both arguments and full tenet engagement. Further reduction below the hard threshold (3000) would compromise either the methodological or evidential argument's developed form, or the required tenet-by-tenet section.
 
-2. **Phenomenology of the Edge over-extended**. The dedicated article [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) exists; the section had five elaborated sub-bullets that duplicated material covered there.
+2. **Phenomenology of the Edge over-extended**. The dedicated article [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) exists; the section had five elaborated sub-bullets that duplicated material covered there.
    - **Resolution**: Compressed five paragraphs into a single dense paragraph itemizing the five features. Defers to dedicated article for extended treatment.
 
 3. **Further Reading vs related_articles duplication**. Further Reading had 28 items, almost all of which were also in `related_articles` frontmatter. Per writing-style guide, Further Reading should highlight the most pertinent, not all related.

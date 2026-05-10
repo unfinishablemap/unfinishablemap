@@ -63,7 +63,7 @@ topics: []
 ### Cross-links Verified
 - [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) (inverse asymmetry)
 - [voids](/voids/) (framework)
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) (related void exploration)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) (related void exploration)
 - [limits-reveal-structure](/voids/what-voids-reveal/) (structural implications)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (philosophical foundation)
 - Tenet links all functional

@@ -151,7 +151,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the haecceity of
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [The Unobservable Self](/voids/self-opacity/) — The observer that cannot observe itself
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [The Limits of Conceptual Acquisition](/voids/biological-cognitive-closure/) — What concepts minds can form
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Thoughts blocked by commitment rather than impossibility
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits

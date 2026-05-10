@@ -124,7 +124,7 @@ The probability intuition void connects to the Map's [tenets](/tenets/) in sever
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence that probability errors are species-level, and how cognitive limits are acquired through development
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — How multiple cognitive limits interact superadditively
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The phenomenology of deciding under unknowable outcomes
 
 ## References

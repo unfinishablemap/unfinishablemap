@@ -119,7 +119,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 
 ### Mysterianism
 
-The [Mysterianism](/tenets/#mysterianism) connection is explicit. Error-blindness may be an instance of [cognitive closure](/concepts/mysterianism/)—we cannot know what errors we cannot detect. The bootstrap problem has no complete solution because solving it would require stepping outside our cognitive apparatus. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/)—where thoughts about self-correction become unstable—may mark genuine cognitive limits.
+The [Mysterianism](/tenets/#mysterianism) connection is explicit. Error-blindness may be an instance of [cognitive closure](/concepts/mysterianism/)—we cannot know what errors we cannot detect. The bootstrap problem has no complete solution because solving it would require stepping outside our cognitive apparatus. The [phenomenology of the edge](/voids/edge-states-and-void-probes/)—where thoughts about self-correction become unstable—may mark genuine cognitive limits.
 
 ### No Many Worlds
 
@@ -140,7 +140,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [cognitive-closure](/concepts/mysterianism/) — The structural impossibility of knowing what you cannot know
 - [introspective-opacity](/voids/self-opacity/) — Why the mechanism of self-correction remains hidden
 - [calibration-void](/voids/measurement-void/) — The bootstrap problem for introspection itself
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Consciousness at cognitive boundaries
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — Consciousness at cognitive boundaries
 - [thoughts-that-slip-away](/voids/thought-stream-void/) — Other forms of cognitive slippage
 - [voids](/voids/) — The framework for investigating cognitive limits
 - [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?

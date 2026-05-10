@@ -152,7 +152,7 @@ The measurement void follows from the Map's [tenets](/tenets/) with particular d
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
 - [destabilizing-self-knowledge](/voids/necessary-opacity/) — Knowledge that undermines its own conditions
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation—mapping by the shape of failure
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
 
 ## References
 

@@ -25,7 +25,7 @@ related_articles:
 - '[[attention-and-the-consciousness-interface]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[consciousness-and-neurodegenerative-disease]]'
-- '[[altered-states-as-void-probes]]'
+- '[[edge-states-and-void-probes]]'
 title: Contemplative Pathology and Interface Malfunction
 topics:
 - '[[contemplative-practice-as-philosophical-evidence]]'
@@ -97,7 +97,7 @@ The [minimal quantum interaction tenet](/tenets/#minimal-quantum-interaction) su
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - [interface-friction](/concepts/interface-friction/)
-- [altered-states-as-void-probes](/voids/altered-states-as-void-probes/)
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
 - [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — The epistemological void when attention itself is disordered
 

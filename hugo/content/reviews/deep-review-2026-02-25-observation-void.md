@@ -56,7 +56,7 @@ None.
 
 ### Cross-links Added
 - [calibration-void](/voids/measurement-void/) (meta-methodological layer, Relation to Site Perspective, Further Reading, frontmatter)
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) (Further Reading, frontmatter)
+- [phenomenology-of-the-edge](/voids/edge-states-and-void-probes/) (Further Reading, frontmatter)
 
 ## Remaining Items
 

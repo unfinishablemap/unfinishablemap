@@ -32,7 +32,7 @@ related_articles:
 - '[[observation-and-measurement-void]]'
 - '[[sleep-consciousness-void]]'
 - '[[inaccessible-past]]'
-- '[[phenomenology-of-the-edge]]'
+- '[[edge-states-and-void-probes]]'
 - '[[disappearance-voids]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'

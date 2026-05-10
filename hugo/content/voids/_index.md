@@ -136,13 +136,13 @@ A maintenance note on this index. Five of the entries below—[the agency void](
 
 ### Phenomenology of Limits
 
-- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [Attention and the Voids of Consciousness](/voids/attention-and-consciousness/) — How attending generates unattendable territory, and how disordered attention creates unmappable voids
 - [The Disappearance Voids](/voids/disappearance-voids/) — How absorption, habituation, and fatigue each erase phenomenal content through distinct mechanisms
 - [The Expertise Occlusion](/voids/expertise-and-its-occlusion/) — How mastery actively defends its own opacity
 - [The Appetitive Void](/voids/appetitive-void/) — How desire constitutes cognition rather than merely distorting it
 - [The Phenomenology of Self-Awareness](/voids/self-opacity/) — Self-reference, error-blindness, and the bootstrap problem of self-correction
-- [Altered States as Void Probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal cognitive limits or simulate transcendence
+- [Altered States as Void Probes](/voids/edge-states-and-void-probes/) — Whether altered states reveal cognitive limits or simulate transcendence
 - [The Mutation Void](/voids/mutation-void/) — Thoughts that transform upon inspection, where attending changes the content
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Why experience's immediacy and felt realness hide their own mechanisms
 - [The Silence Void](/voids/the-silence-void/) — Whether cognitive silence accesses truths that reasoning cannot reach

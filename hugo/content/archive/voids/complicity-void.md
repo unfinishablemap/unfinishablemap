@@ -165,7 +165,7 @@ The complicity thesis would be weakened or refuted by several possible findings:
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Whether consciousness can exceed its own architecture
 - [The Framework Void](/voids/conceptual-scheme-void/) — How frameworks exclude what they cannot represent
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How individual limits interact superadditively
-- [Altered States as Void Probes](/voids/altered-states-as-void-probes/) — Whether altered states weaken complicity mechanisms
+- [Altered States as Void Probes](/voids/edge-states-and-void-probes/) — Whether altered states weaken complicity mechanisms
 - [Necessary Opacity](/voids/necessary-opacity/) — Whether the medium of representation introduces systematic distortion
 - [The Interested Party Void](/voids/interested-party-void/) — Motivational corruption: consciousness has stakes in every answer about itself
 
