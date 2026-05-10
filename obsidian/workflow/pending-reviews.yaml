@@ -126,8 +126,8 @@
   prompt_summary: 'Phenomenology of memory: pastness quale, mineness, MWI rebuttal'
   target_filename: outer-review-2026-05-10-claude-opus-4-7.md
   status: pending
-  collect_attempts: 1
-  last_attempt_at: '2026-05-10T04:39:32.472810+00:00'
+  collect_attempts: 2
+  last_attempt_at: '2026-05-10T05:10:12.038888+00:00'
   failure_reason: null
   prompt_text: "You are reviewing one article on The Unfinishable Map, a philosophical\
     \ site arguing for substance dualism. Site: https://unfinishablemap.org. Recent\

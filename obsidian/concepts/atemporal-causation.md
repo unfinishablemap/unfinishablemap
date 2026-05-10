@@ -4,7 +4,7 @@ description: "Causation outside temporal sequence — consciousness selects whic
 created: 2026-02-14
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-30T19:21:00+00:00
+ai_modified: 2026-05-10T05:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-14
 last_curated:
-last_deep_review: 2026-03-25T13:59:00+00:00
+last_deep_review: 2026-05-10T05:10:00+00:00
 coalesced_from:
   - "/concepts/atemporal-causation/"
   - "/concepts/retrocausal-selection/"
