@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T07:09:00+00:00
+ai_modified: 2026-05-10T07:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 07:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-convergence-argument-for-dualism]]
+- **Mode**: Targeted fix (Issue 2 of [[reviews/pessimistic-2026-05-10]] — vitalism disanalogy)
+- **Word count**: ~3470 → ~3560 (+90 words; structural reframing of §Convergence on falsehood is possible)
+- **Changes**: Rewrote the second and third paragraphs of §Convergence on falsehood is possible to replace the temporal-presented-as-structural framing with a non-circular type-specificity argument. (1) Acknowledged directly that a vitalist in 1820 could have made the identical "the gap has not narrowed" observation, and that the article cannot defend its disanalogy by appealing to the irreducibility of qualia — irreducibility is the convergence argument's conclusion, not a premise it may deploy in its own defence. (2) Identified the disanalogy that survives both worries: the *specification structure of the explanandum*. "Vital force" was always a placeholder for unspecified mechanism, so any mechanism for any part of the target counted as success and the placeholder shrank under each mechanistic encroachment (Wöhler 1828, Buchner 1897, metabolic pathways and DNA 1953). Phenomenal qualities have a different shape — redness is a particular phenomenal type, painfulness is another, the taste of coffee is another, each determinate in its character — so a reduction must deliver *that* character type-by-type rather than substitute a generic mechanism, and a complete reduction of one phenomenal type would not extend automatically to others. The type-specificity is establishable from the structure of the demand placed on any reduction, independently of the convergence argument's conclusion. (3) Rebuilt the empirical no-reduction observation (no instance of "this is what redness *is* in physical terms") as an honest temporal report on where the type-specific reduction project currently stands, not a structural conclusion it carries on its own; conceded that "the structural disanalogy is genuine but not unlimited — type-specific reductive demands could in principle be met."
+- **Engagement classification (editor-internal)**: engagement with the convergence-on-falsehood objection: Mode Two (the convergence argument helps itself to "structural difference" without earning it; the type-specificity argument identifies the unsupported foundational move and supplies a structural grounding establishable from the form of the explananda rather than from the disputed conclusion) + Mode Three honesty about residue (whether type-specific reductive demands will be met is genuinely open and the convergence argument cannot pre-empt it).
+- **Tenet alignment**: methodological + [[tenets#^dualism|Dualism]] + [[reductionism-and-consciousness]]. The fix tightens the central rebuttal to convergence-on-falsehood without strengthening the conclusion past what the discipline supports — it converts a circular disanalogy into a non-circular one and explicitly bounds the disanalogy's reach.
+- **Published**: yes (article was already `draft: false`)
+- **Remaining work**: Issue 3 (irreducibility-vs-dualism propagation) tracked as separate P2 refine-draft task in todo.md; Issues 4–6 (medium severity) tracked as a P3.
 
 ## 2026-05-10 07:09 UTC - refine-draft
 - **Status**: Success

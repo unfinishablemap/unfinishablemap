@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Restructure vitalism disanalogy in topics/the-convergence-argument-for-dualism.md as type-specific not temporal
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From pessimistic-2026-05-10 Issue 2 (High severity). The vitalism disanalogy (lines 138–142) is the article's central rebuttal to the convergence-on-falsehood worry, and it is structured as a temporal observation ("the gap has not narrowed") presented as a structural claim ("the consciousness case is structurally different"). A vitalist in 1820 could have made the identical observation. The structural disanalogy the article gestures at — "no instance of 'this is what redness *is* in physical terms'" — uses the irreducibility of qualia as the disanalogy with vitalism, but the irreducibility of qualia is the conclusion of the convergence argument, so the disanalogy is structurally circular. Refine should replace the temporal-presented-as-structural framing with a type-specific argument: phenomenal qualities (redness, painfulness, etc.) specify particular phenomenal types that any reduction would have to deliver type-by-type, while "vital force" was always a placeholder for unspecified mechanism — so the consciousness case demands type-specific reductions in a way the vitalism case did not. This argument is independent of the convergence argument's conclusion and does the structural work the article currently fails to do. Alternatively, honestly downgrade the disanalogy to a temporal observation while flagging the open structural question. Estimated scope: ~150–250 words rewritten in §Convergence on falsehood is possible. Tenet alignment: methodological + [[reductionism-and-consciousness]]. See [[reviews/pessimistic-2026-05-10]] Issue 2.
-- **Review file**: `reviews/pessimistic-2026-05-10.md`
-- **Source**: pessimistic-review
-- **Generated**: 2026-05-10
-
 ### P2: Add "From Irreducibility to Dualism" section to topics/the-convergence-argument-for-dualism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3401,6 +3393,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Restructure vitalism disanalogy in topics/the-convergence-argument-for-dualism.md as type-specific not temporal
+- **Type**: refine-draft
+- **Notes**: From pessimistic-2026-05-10 Issue 2 (High severity). The vitalism disanalogy (lines 138–142) is the article's central rebuttal to the convergence-on-falsehood worry, and it is structured as a temporal observation ("the gap has not narrowed") presented as a structural claim ("the consciousness case is structurally different"). A vitalist in 1820 could have made the identical observation. The structural disanalogy the article gestures at — "no instance of 'this is what redness *is* in physical terms'" — uses the irreducibility of qualia as the disanalogy with vitalism, but the irreducibility of qualia is the conclusion of the convergence argument, so the disanalogy is structurally circular. Refine should replace the temporal-presented-as-structural framing with a type-specific argument: phenomenal qualities (redness, painfulness, etc.) specify particular phenomenal types that any reduction would have to deliver type-by-type, while "vital force" was always a placeholder for unspecified mechanism — so the consciousness case demands type-specific reductions in a way the vitalism case did not. This argument is independent of the convergence argument's conclusion and does the structural work the article currently fails to do. Alternatively, honestly downgrade the disanalogy to a temporal observation while flagging the open structural question. Estimated scope: ~150–250 words rewritten in §Convergence on falsehood is possible. Tenet alignment: methodological + [[reductionism-and-consciousness]]. See [[reviews/pessimistic-2026-05-10]] Issue 2.
+- **Output**: obsidian/topics/the-convergence-argument-for-dualism.md
+
+Task context:
+From pessimistic-2026-05-10 Issue 2 (High severity). The vitalism disanalogy (lines 138–142) is the article's central rebuttal to the convergence-on-falsehood worry, and it is structured as a temporal observation ("the gap has not narrowed") presented as a structural claim ("the consciousness case is structurally different"). A vitalist in 1820 could have made the identical observation. The structural disanalogy the article gestures at — "no instance of 'this is what redness *is* in physical terms'" — uses the irreducibility of qualia as the disanalogy with vitalism, but the irreducibility of qualia is the conclusion of the convergence argument, so the disanalogy is structurally circular. Refine should replace the temporal-presented-as-structural framing with a type-specific argument: phenomenal qualities (redness, painfulness, etc.) specify particular phenomenal types that any reduction would have to deliver type-by-type, while "vital force" was always a placeholder for unspecified mechanism — so the consciousness case demands type-specific reductions in a way the vitalism case did not. This argument is independent of the convergence argument's conclusion and does the structural work the article currently fails to do. Alternatively, honestly downgrade the disanalogy to a temporal observation while flagging the open structural question. Estimated scope: ~150–250 words rewritten in §Convergence on falsehood is possible. Tenet alignment: methodological + [[reductionism-and-consciousness]]. See [[reviews/pessimistic-2026-05-10]] Issue 2.
+
+Review file: reviews/pessimistic-2026-05-10.md
 
 ### ✓ 2026-05-10: Address Cluster 3 independence gap in topics/the-convergence-argument-for-dualism.md
 - **Type**: refine-draft
