@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-30 15:34:00+00:00
+ai_modified: 2026-05-10 20:02:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-04-28
+date: &id001 2026-05-10
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -118,6 +118,7 @@ A maintenance note on this index. Five of the entries below—[the agency void](
 - [The Amplification Void](/voids/amplification-void/) — Why the chain from quantum influence to neural effect cannot be traced
 - [The Transit Void](/voids/transit-void/) — Why consciousness cannot witness its own crossings: neither the onset of a mental act, nor the transition between states, nor the moment attention is captured (coalesced with distraction-void 2026-04-27)
 - [The Agency Void](/voids/agency-void/) — Two faces of agency's limit: consciousness cannot control most of its own states (involuntariness face) nor verify whether it causes anything at all (verification face)
+- [The Decision Void](/voids/decision-void/) — The structural opacity of the deliberation→commitment crossing: three faces (closure / latency / reconstruction) at the most theoretically motivated site for any non-physical influence on the physical world; cognate to suspension-void and sister-regress to inference-void (created 2026-05-10)
 - [The Thrownness Void](/voids/thrownness-void/) — Why consciousness cannot access the conditions under which it became conscious
 - [Smoothness and Continuity](/voids/smoothness-and-continuity/) — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [The Counterfactual Void](/voids/counterfactual-void/) — How counterfactual thinking is trapped near actuality

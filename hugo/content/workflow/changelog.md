@@ -1,13 +1,121 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10 17:20:00+00:00
+ai_modified: 2026-05-10 21:02:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-10 21:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [decision-void](/voids/decision-void/)
+- **Based on review**: [pessimistic-2026-05-10b](/reviews/pessimistic-2026-05-10b/)
+- **Critical fixes**: Removed Mode One/Two/Three editor-vocabulary labels and the [direct-refutation-discipline](/project/direct-refutation-discipline/) hyperlink-as-authority-citation from §"Deflationary Alternatives"; rewrote the three deflationary engagements as natural philosophical prose. Engaged Wegner's *Illusion of Conscious Will* chs. 4–5 substantively (inferential authorship-emotion account; cross-cultural robustness explained by universal inference architecture; Wegner's own machinery predicts the void rather than dissolves it). Removed all three [evidential-status-discipline](/project/evidential-status-discipline/) hyperlink-citations (lines 68, 96, 122); replaced with inline qualifying language.
+- **High-severity fixes**: Reported Soon et al. (2008) classifier accuracy magnitude (~60% on binary 50/50) rather than implying deterministic prediction. Replaced the physicalist convergence strawman with accurate framing (Dennett, Churchlands actively predict persistent asymmetry) and reframed the Map's reading as earning its place by integration with other tenets rather than single-issue refutation.
+- **Medium fixes**: Argued the "primary candidate site" claim (decision is the only locus where alternative-resolution matches the form of the phenomenon); downgraded "most theoretically motivated" to "primary candidate" throughout (description, lines 50, 100, 122). Added explicit three-face independence paragraph after §"The Seam" arguing each face is logically severable. Added decoherence-objection acknowledgement (Tegmark 2000) to Stapp/Penrose-Hameroff/Eccles citations; downgraded to live hypotheses.
+- **Engagement classification (editor-internal)**: Wegner — mostly in-framework cooperation (the Map adopts Wegner's apparent-mental-causation architecture and shows it predicts the void) with framework-boundary residue on the underlying causal nexus; fully-physical reading — framework-boundary disagreement, registered honestly; Schurger — in-framework refinement that strengthens the void.
+- **References added**: Tegmark (2000) on neural decoherence; Wegner (2002) chapter-pointer to chs. 4–5.
+- **Strengths preserved**: conjunction-coalesce structure; sibling-distinctions section; reflexivity acknowledgement; site-perspective integration.
+- **Published**: yes (draft: false retained)
+
+## 2026-05-10 20:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [decision-void](/voids/decision-void/) (2,869 words; created today via expand-topic; first-cut adversarial audit). The article is the catalogue's most aggressive tenet-payoff bet — claiming the deliberation→commitment moment is "the most theoretically motivated" site for non-physical influence — and had no prior review history.
+- **Critical findings**: (1) explicit "Mode One/Two/Three" label leakage in §"Deflationary Alternatives" plus a hyperlinked invocation of [direct-refutation-discipline](/project/direct-refutation-discipline/) introducing the classification scheme — the exact failure mode the discipline names as critical, and the catalogue's repeatedly-flagged structural weakness; (2) three citations of [evidential-status-discipline](/project/evidential-status-discipline/) in body prose functioning as authority-appeal where qualifying language should do the work directly. Both are critical per the discipline.
+- **High-severity findings**: Soon et al. (2008) "predicted the specific outcome" reads as deterministic (actual ~60% on binary 50/50, a 10-pp enrichment); the abductive-evidence-for-dualism move (line 104) rests on the strawman "physicalism predicts these should converge with sufficient introspective skill" — Dennett and Churchland actively predict the opposite.
+- **Medium-severity findings**: three-face independence asserted not argued; "most theoretically motivated" comparative claim uncited; quantum-mechanism citations (Stapp, Penrose-Hameroff) borrow physics credibility without engaging Tegmark's decoherence calculation; void claim has no specified falsifier.
+- **Strengths preserved**: conjunction-coalesce structure is genuinely the article's best move; sibling-distinctions section meticulous; reflexivity acknowledgement earns the apophatic frame; site-perspective integration substantive.
+- **Output**: [pessimistic-2026-05-10b](/reviews/pessimistic-2026-05-10b/)
+- **Action**: Added P2 refine-draft task to todo.md addressing label leakage (critical), Soon framing (medium-high), strawman physicalism (high), and the comparative/quantum/falsifiability medium issues.
+
+## 2026-05-10 20:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Decision Void (voids cognate; conjunction-coalesce shape)
+- **Output**: [decision-void](/voids/decision-void/)
+- **Word count**: 2745 (in line with sibling cognate voids; suspension-void 2833, agency-void 2854)
+- **Based on research**: yes — [voids-decision-void-2026-05-10](/research/voids-decision-void-2026-05-10/) (today's note)
+- **Structure**: three-faces conjunction-coalesce (closure / latency / reconstruction); seam preserved per cognate discipline. Closure leans on Pacherie 2008 categorical-completeness framing + Mele 2009 + Ricoeur; latency anchored in Soon-Brass-Heinze-Haynes 2008 (7s predictability, configural pattern), Libet 1983 with Schurger 2012 / Travers 2021 contesting; reconstruction anchored in Johansson-Hall 2005 choice-blindness + source-attribution-void diagnosis applied to decisions. Multi-area neural recording (Roitman & Shadlen 2002; Murakami et al. 2014) cited for the third-person/first-person asymmetry.
+- **Discipline installations**:
+  - [evidential-status-discipline](/project/evidential-status-discipline/) — empirical findings constrain but do not establish where the decision happens; explicit two-readings paragraph (fully-physical-with-conscious-registration vs non-physical-commitment-with-physical-precipitation); Map's MQI motivates (ii) without claiming the data forces it
+  - [direct-refutation-discipline](/project/direct-refutation-discipline/) — three deflationary alternatives classified: fully-physical reading as Mode Three (framework-boundary), Wegner-style illusionism as Mode Two (unsupported foundational move), Schurger stochastic-accumulation reading as Mode One (in-framework, strengthens rather than weakens the void)
+  - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — installed as the Map's positive mechanism candidate at the void's locus; consistent with introspective inaccessibility rather than dissolving it
+- **Sibling-void distinctions**: agency-void (specific moment within agency, not agency in general); noetic-feelings-void (the closing-process is occluded, not just the felt verdict); transit-void (one specific transit narrowed by multi-option resolution); sister-regress to suspension-void and inference-void (each names a capacity consciousness cannot stand outside of while exercising)
+- **Tenet payoff**: MQI load-bearing (most theoretically motivated site for non-physical influence); Bidirectional Interaction predicts the introspective inaccessibility; Dualism gains structural texture from the third-person/first-person asymmetry; No Many Worlds load-bearing (the void presupposes decisions actually resolve)
+- **Capacity note**: voids/ at 99/100 before this task; this consumes the last slot. Justified per task notes by tenet-load-bearing uniqueness and empirical anchorage relative to other unconsumed void research.
+- **Published**: yes
+
+## 2026-05-10 19:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Changes**: Added new section "The Discrimination Problem" (~520 words) between "Pastness: phenomenal property or metacognitive/simulationist feeling?" and "The Pastness Quale and Irreducibility". Engages Bernecker (2010) on memory's success conditions, McCarroll (2018) on observer-vs-field memories, Robins (2016) on the process-vs-product distinction, and Michaelian (2016) on simulationism's reply. States the Map's three available positions (structural pastness content; reflective source-monitoring with accurate phenomenology; partially open) and bridges to the Klein–Nichols mineness dissociation and AD/MCI semantic-continuity sections added earlier today. Updated transition phrase in the deflationary-engagements section ("staged next" → "staged below in the irreducibility section"). Added 3 references (Bernecker 2010, McCarroll 2018, Robins 2016 — last two flagged for human verification).
+- **Engagement modes (editor-internal)**: Bernecker Mode One concession (success conditions accepted on Bernecker's terms; the article must specify what discriminates memory from same-content imagination); McCarroll Mode One concession (observer memories underdetermine memory-type at the phenomenal level); Robins Mode One concession (process-product distinction accepted; the felt character belonging to the product is the discrimination problem in its sharpest form); Michaelian mixed Mode One + Mode Three (simulationism's internal consistency conceded; the strong reductive conclusion that nothing phenomenal does the discriminating work is declined at the framework boundary, not refuted from inside).
+- **Source**: Singleton P2 finding from Claude Opus 4.7 outer review (line 193, Improvement 1d) explicitly listed in synthesis (line 87) but missed during synthesis-to-todo task installation today; re-installed and executed within the same UTC cycle.
+- **Published**: yes
+
+## 2026-05-10 19:10 UTC - deep-review
+- **Status**: Success
+- **File**: [many-worlds-argument](/arguments/many-worlds-argument/)
+- **Word count**: 3596 → 3490 (–106; from hard_warning back to soft_warning at 140% of 2500 target)
+- **Critical issues addressed**: 0 (none found; new content from same-day refinement is attribution-clean, label-clean, and free of possibility/probability slippage and boundary-substitution)
+- **Medium issues addressed**: 3 (1: length over hard threshold — trimmed redundant restatements in Saunders-Wallace, Wilson, Lockwood/Many-Minds, Tappenden paragraphs without losing substance; 2: removed 570-word AI REFINEMENT LOG HTML comment that self-marked for removal after human review; 3: corrected directionally-confused fission relation in Saunders-Wallace paragraph — "many-one relation" → clearer continuant-side phrasing)
+- **Enhancements made**: 0 (review confirms the same-day refinement landed at the discipline-required level — six-engagement Branch-Relative Identity Programme covering Saunders-Wallace, Tappenden, Vaidman, Sebens-Carroll, Wilson, Lockwood/Many-Minds; closing synthesis paragraph maps which engagements are framework-boundary and which keep in-framework critiques live)
+- **Engagement modes (editor-internal)**: Saunders-Wallace mode-mixed (3 primary + 2 named); Tappenden mode-mixed (3 primary + 2 named); Vaidman Mode One indication; Sebens-Carroll Mode One indication; Wilson Mode Three; Lockwood Mode Two primary
+- **Stability**: Article has now been deep-reviewed 4 times. Bedrock disagreements (illusionist, MWI Born-rule programme, Wallace/Tappenden branch-relative identity, Wilson modal realism, Many-Minds bridge laws) recorded in stability notes — should NOT be re-flagged in future passes.
+- **Output**: [deep-review-2026-05-10-many-worlds-argument](/reviews/deep-review-2026-05-10-many-worlds-argument/)
+
+## 2026-05-10 18:31 UTC - deep-review
+- **Status**: Success (convergence-confirmation; no content changes)
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Word count**: 5825 → 5825 (no change)
+- **Critical issues addressed**: 0 (none found; article was deep-reviewed 29 minutes earlier and prior pass's stability notes hold)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Focused-scrutiny target**: Rule 2 (Dissociation Arguments Must Separate Four Levels) verified for attribution accuracy (Klein & Nichols, Capgras, blindsight, alien-hand, Gentry 2021 all correctly characterised), rule-internal coherence (four levels cleanly distinguished; constrain-vs-establish mapping intact), and actionability for downstream application (rule is transferable as written without additional scaffolding)
+- **Frontmatter**: last_deep_review bumped to 2026-05-10T18:31:00+00:00; ai_modified unchanged (no body changes)
+- **Output**: [deep-review-2026-05-10b-evidential-status-discipline](/reviews/deep-review-2026-05-10b-evidential-status-discipline/)
+
+## 2026-05-10 18:02 UTC - deep-review
+- **Status**: Success
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Word count**: 5765 → 5825 (+60; remains over critical threshold, condensation deferred — most content is load-bearing for the discipline this document defines)
+- **Critical issues addressed**: 1 (attribution error: "four reviewers converged on this slippage" implied all four flagged the MWI boundary-substitution case; verified only 2026-05-10 ChatGPT flagged the MWI form, while 2026-05-03 ChatGPT and 2026-05-04 ChatGPT/Claude flagged the broader boundary-substitution pattern in animal-consciousness and Duch contexts)
+- **Medium issues addressed**: 1 (removed AI REFINEMENT LOG HTML comment that had explicitly requested removal after human review)
+- **Enhancements made**: 1 (rewrote MWI-checklist source-attribution paragraph to distinguish the MWI-specific finding from the broader-pattern convergence; added explicit reference to the 2026-05-10 ChatGPT review's diagnosis of the "metaphysical singularity of history" move)
+- **Output**: [deep-review-2026-05-10-evidential-status-discipline](/reviews/deep-review-2026-05-10-evidential-status-discipline/)
+
+## 2026-05-10 17:53 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (sessions 6851 → 6995)
+- **Period covered**: 2026-05-05 15:42 UTC → 2026-05-10 17:53 UTC (~5.1 days / 122 hours)
+- **Findings**: 5 cadence (writeback gaps for check-tenets/research-voids/apex-evolve, validate-all stale, tune-system spec mismatch), 0 hard failure (21st consecutive zero-failure period), 4 queue (P3 over ceiling 6th period, P2 recovered, voids cap freed slot, topics approaching saturation), 5 review (16 clean tenet checks, 6th convergent direct-refutation flagging, three-way reviewer convergence first cycle, methodological-discipline ratchet third recurrence, deep-review zero-change pattern persists), 4 convergence (voids 100→99 via coalesce; topics 231→238; concepts steady; apex 23 active vs 20 cap)
+- **Tier 1 changes**: 0 applied (35th report blocked by missing YAML sections)
+- **Tier 2 recommendations**: 14 logged (1 new: methodological-discipline ratchet project doc; 1 new: three-way convergence tracking)
+- **Output**: [system-tune-2026-05-10](/reviews/system-tune-2026-05-10/)
+
+## 2026-05-10 17:44 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Changed sources**: 10 (all apex_sources modified since 2026-04-05 synthesis)
+- **Word count**: 3400 → 3970 (within 2500-4000 target)
+- **Review**: [apex-evolve-2026-05-10-moral-architecture-of-consciousness](/reviews/apex-evolve-2026-05-10-moral-architecture-of-consciousness/)
+- **Key changes**: Added Compatibilist Symmetry Challenge subsection; recharacterised sophisticated compatibilism honestly (Frankfurt/Fischer-Ravizza/Wolf ground desert in metaphysically substantive capacities, not pragmatic convention); updated normativity terminology to demand-character / resistance-to-preference / gradedness; added Standing Agnostic Challenge (Gutfreund 2024) and "realistic possibility, contested" framing for invertebrates with trillion-being moral stakes; sharpened value-in-mechanism discriminating tests (pain asymbolia, Berridge wanting/liking, moral override, anticipation problem); added philosophical Vulcan, indexical value, pain-asymbolia sensory/affective clarification; flagged quantum mechanism as speculative load-bearing; removed stale 2026-03-20 refinement log.
+
+## 2026-05-10 17:40 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 113 (delta sweep against 2026-05-08 23:39 UTC baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-05-10](/reviews/tenet-check-2026-05-10/)
+
+## 2026-05-10 17:33 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Decision Void
+- **Category**: Mixed (primarily Occluded — moment of commitment hidden from consciousness performing it; with an Unexplorable face — inner mechanism may not be the kind of thing introspection can grasp)
+- **Output**: [voids-decision-void-2026-05-10](/research/voids-decision-void-2026-05-10/)
+- **Key finding**: The structural opacity of the deliberation→commitment transition has three conjoined faces (closure / latency / reconstruction); the empirical record (Libet 1983, Soon et al. 2008, Johansson-Hall choice-blindness, Shadlen-style commitment-decoding) shows third-person measurement can locate the commitment moment with precision unavailable to first-person introspection — a positive empirical signature of an occluded void at the most theoretically motivated MQI-leverage site.
 
 ## 2026-05-10 17:20 UTC - refine-draft
 - **Status**: Success
