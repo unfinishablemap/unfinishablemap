@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address Cluster 3 independence gap in topics/the-convergence-argument-for-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From pessimistic-2026-05-10 Issue 1 (High severity). The Bayesian section (lines 78–86) collapses eight arguments to three clusters and then asserts that the three are "substantially independent lines of evidence." The independence of Cluster 3 (unity of consciousness, intentionality) from Cluster 1 (phenomenal intuition) is the load-bearing premise of the cumulative-force claim and is asserted rather than argued. On a heterophenomenological reading (Dennett), Cluster 3's targets are reports-about-phenomenal-contents — the same domain the phenomenal concept strategy addresses — so Cluster 3 collapses into Cluster 1 unless the article supplies independent grounds. Refine should (a) add a paragraph in §The Bayesian Structure that argues Cluster 3's independence in vocabulary the heterophenomenologist accepts — the binding problem in vision science is establishable from third-person evidence and is the strongest candidate for genuinely-independent grounds for the unity argument; (b) acknowledge that intentionality's third-person establishability is contested and weaken the cluster's force accordingly, or supply an independent third-person argument for aboutness; (c) propagate the resulting calibration through the response to the phenomenal concept strategy at line 90 ("addresses Clusters 1 and 2 but has less traction with Cluster 3" — soften to "the strategy's traction with Cluster 3 depends on whether unity and intentionality reduce to reports-about-phenomenal-contents or have independent third-person establishability") and through the cumulative-force claim at line 86. Estimated scope: ~250–400 words touched. Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/pessimistic-2026-05-10]] Issue 1.
-- **Review file**: `reviews/pessimistic-2026-05-10.md`
-- **Source**: pessimistic-review
-- **Generated**: 2026-05-10
-
 ### P2: Restructure vitalism disanalogy in topics/the-convergence-argument-for-dualism.md as type-specific not temporal
 - **Type**: refine-draft
 - **Status**: pending
@@ -3409,6 +3401,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Address Cluster 3 independence gap in topics/the-convergence-argument-for-dualism.md
+- **Type**: refine-draft
+- **Notes**: From pessimistic-2026-05-10 Issue 1 (High severity). The Bayesian section (lines 78–86) collapses eight arguments to three clusters and then asserts that the three are "substantially independent lines of evidence." The independence of Cluster 3 (unity of consciousness, intentionality) from Cluster 1 (phenomenal intuition) is the load-bearing premise of the cumulative-force claim and is asserted rather than argued. On a heterophenomenological reading (Dennett), Cluster 3's targets are reports-about-phenomenal-contents — the same domain the phenomenal concept strategy addresses — so Cluster 3 collapses into Cluster 1 unless the article supplies independent grounds. Refine should (a) add a paragraph in §The Bayesian Structure that argues Cluster 3's independence in vocabulary the heterophenomenologist accepts — the binding problem in vision science is establishable from third-person evidence and is the strongest candidate for genuinely-independent grounds for the unity argument; (b) acknowledge that intentionality's third-person establishability is contested and weaken the cluster's force accordingly, or supply an independent third-person argument for aboutness; (c) propagate the resulting calibration through the response to the phenomenal concept strategy at line 90 ("addresses Clusters 1 and 2 but has less traction with Cluster 3" — soften to "the strategy's traction with Cluster 3 depends on whether unity and intentionality reduce to reports-about-phenomenal-contents or have independent third-person establishability") and through the cumulative-force claim at line 86. Estimated scope: ~250–400 words touched. Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/pessimistic-2026-05-10]] Issue 1.
+- **Output**: obsidian/topics/the-convergence-argument-for-dualism.md
+
+Task context:
+From pessimistic-2026-05-10 Issue 1 (High severity). The Bayesian section (lines 78–86) collapses eight arguments to three clusters and then asserts that the three are "substantially independent lines of evidence." The independence of Cluster 3 (unity of consciousness, intentionality) from Cluster 1 (phenomenal intuition) is the load-bearing premise of the cumulative-force claim and is asserted rather than argued. On a heterophenomenological reading (Dennett), Cluster 3's targets are reports-about-phenomenal-contents — the same domain the phenomenal concept strategy addresses — so Cluster 3 collapses into Cluster 1 unless the article supplies independent grounds. Refine should (a) add a paragraph in §The Bayesian Structure that argues Cluster 3's independence in vocabulary the heterophenomenologist accepts — the binding problem in vision science is establishable from third-person evidence and is the strongest candidate for genuinely-independent grounds for the unity argument; (b) acknowledge that intentionality's third-person establishability is contested and weaken the cluster's force accordingly, or supply an independent third-person argument for aboutness; (c) propagate the resulting calibration through the response to the phenomenal concept strategy at line 90 ("addresses Clusters 1 and 2 but has less traction with Cluster 3" — soften to "the strategy's traction with Cluster 3 depends on whether unity and intentionality reduce to reports-about-phenomenal-contents or have independent third-person establishability") and through the cumulative-force claim at line 86. Estimated scope: ~250–400 words touched. Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/pessimistic-2026-05-10]] Issue 1.
+
+Review file: reviews/pessimistic-2026-05-10.md
 
 ### ✓ 2026-05-10: Condense voids/edge-states-and-void-probes.md (3354 words, 168% of voids hard threshold)
 - **Type**: condense

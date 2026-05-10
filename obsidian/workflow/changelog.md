@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T06:39:00+00:00
+ai_modified: 2026-05-10T07:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 07:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-convergence-argument-for-dualism]]
+- **Mode**: Targeted fix (Issue 1 of [[reviews/pessimistic-2026-05-10]])
+- **Word count**: ~3220 → ~3470 (+250 words; new defence of Cluster 3 independence + intentionality concession)
+- **Changes**: Added two paragraphs to §The Bayesian Structure between the Cluster 3 description and the cumulative-force summary — (1) a direct defence of Cluster 3's independence in heterophenomenologist-accepted vocabulary, anchored to the binding problem in vision science as a third-person tractable explanandum (binocular rivalry, attentional blink, feature-binding deficits) that does not reduce to reports-about-phenomenal-contents; (2) an honest concession that intentionality's third-person establishability is contested (naturalised semantics — Dretske, Millikan — is unfinished; eliminativism denies aboutness picks out a real explanandum), so the cluster's overall independence is well-supported for the unity prong and weaker for the intentionality prong. Propagated the calibration: rewrote the cumulative-force closer to "two clearly independent clusters and a third whose independence is partially earned" (replacing "three substantially independent lines of evidence"), and softened the response to the phenomenal concept strategy at line 90 from "has less traction with Cluster 3" to "depends on whether unity and intentionality reduce to reports-about-phenomenal-contents or have independent third-person establishability... the strategy's success against Cluster 3 is therefore partial rather than blocked".
+- **Engagement classification (editor-internal)**: engagement with Dennett: Mode Two (the heterophenomenologist's collapse of Cluster 3 into Cluster 1 is identified as helping itself to the partition's verdict; the binding-problem reply derives the unity prong's independence from third-person psychophysical evidence the heterophenomenologist already accepts) + Mode Three for intentionality (the article honestly notes that aboutness's third-person establishability is bedrock-contested rather than refuted within the heterophenomenologist's framework).
+- **Tenet alignment**: methodological + [[tenets#^dualism|Dualism]]. The fix tightens the Bayesian discipline without weakening the dualist conclusion — it converts an asserted three-cluster claim into a defended two-and-a-partial-cluster claim, which is what the article's "substantially stronger than any single argument" framing actually needs.
+- **Published**: yes (article was already `draft: false`)
+- **Remaining work**: Issues 2 (vitalism disanalogy temporal-vs-structural) and 3 (irreducibility-vs-dualism propagation) tracked as separate P2 refine-draft tasks in todo.md; Issues 4–6 (medium severity) tracked as a P3.
 
 ## 2026-05-10 06:39 UTC - pessimistic-review
 - **Status**: Success
