@@ -36,6 +36,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-04-16T02:18:00+00:00
+archived: true
+archived_date: 2026-05-10T00:30:00+00:00
+superseded_by: "/voids/edge-states-and-void-probes/"
+archive_reason: "Coalesced into Edge-States and the Probing of Voids"
+original_path: "/voids/phenomenology-of-the-edge/"
 ---
 
 What happens experientially when consciousness approaches its own limits? Across contemplative traditions, psychedelic research, and philosophical inquiry, a consistent pattern emerges: consciousness approaching cognitive boundaries encounters characteristic signatures—ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity, temporal distortion alongside a sense of unbounded possibility. These are not merely failures of thought but distinctive experiences in their own right. The phenomenology of the edge suggests that cognitive limits have their own texture, and understanding that texture may tell us something about what consciousness fundamentally is.

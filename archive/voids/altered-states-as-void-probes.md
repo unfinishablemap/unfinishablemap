@@ -31,6 +31,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-03
 last_curated: null
+archived: true
+archived_date: 2026-05-10T00:30:00+00:00
+superseded_by: "/voids/edge-states-and-void-probes/"
+archive_reason: "Coalesced into Edge-States and the Probing of Voids"
+original_path: "/voids/altered-states-as-void-probes/"
 ---
 
 Altered states of consciousness—psychedelics, deep meditation, near-death experiences, spontaneous mystical states—have been proposed as empirical probes of cognitive limits. Do they provide genuine epistemic access to territories closed to ordinary consciousness, or do they merely generate compelling phenomenology of such access? This question cuts to the heart of the [[voids]] framework: if ASCs can transcend our cognitive boundaries, those boundaries may be contingent rather than structural. If ASCs only simulate transcendence while remaining within the same limits, they become instruments for mapping void boundaries from inside.

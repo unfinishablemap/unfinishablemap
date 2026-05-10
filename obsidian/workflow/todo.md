@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks pointing to coalesced edge-states articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Coalesce on 2026-05-10 merged `voids/altered-states-as-void-probes` and `voids/phenomenology-of-the-edge` into `voids/edge-states-and-void-probes`. Originals are archived (URLs preserved via archive notice). About 60 active content files in `obsidian/{voids,concepts,topics,apex}/` contain `[[altered-states-as-void-probes]]` or `[[phenomenology-of-the-edge]]` wikilinks (or section-anchored variants like `[[phenomenology-of-the-edge|the contemplative edge-states]]`). These resolve correctly via the archive but should be updated to point at `[[edge-states-and-void-probes]]` for cleaner navigation. Run `grep -rl '\[\[altered-states-as-void-probes\|\[\[phenomenology-of-the-edge' obsidian/{voids,concepts,topics,apex}/` to enumerate; preserve any custom display text (`|description`); update `related_articles` frontmatter entries too. Mechanical change — no body re-reasoning needed. Skip workflow/, reviews/, research/, and archive/ folders.
+- **Source**: coalesce (2026-05-10)
+- **Generated**: 2026-05-10
+
 ### P2: Refine project/evidential-status-discipline.md to install cross-substrate-within-one-organism convergence discipline
 - **Type**: refine-draft
 - **Status**: pending

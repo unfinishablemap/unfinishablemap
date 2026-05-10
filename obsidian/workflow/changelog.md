@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-09T23:38:00+00:00
+ai_modified: 2026-05-10T00:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 00:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/altered-states-as-void-probes]], [[voids/phenomenology-of-the-edge]]
+- **Target**: [[voids/edge-states-and-void-probes]]
+- **Archived**: [[archive/voids/altered-states-as-void-probes]], [[archive/voids/phenomenology-of-the-edge]]
+- **Rationale**: Both articles ask the same central question (do edge-states transcend cognitive limits or merely map their boundaries?) and rely on the same source base (Metzinger MPE, REBUS/Carhart-Harris, Stace common core, Huxley/Bergson, James). The two framings—"phenomenology of the edge" and "altered states as void probes"—are two angles on one phenomenon. Unified piece preserves both axes: edge-experience profile + transcendence-vs-edge-mapping epistemology. Voids section was at 100/100 cap; this opens a slot.
+- **References to review**: ~60 active content files (voids/, concepts/, topics/, apex/) reference one of the archived slugs via wikilinks. Archive notices will redirect, so URLs continue to work; follow-up task created to update active wikilinks.
 
 ## 2026-05-09 23:38 UTC - deep-review
 - **Status**: Success (audit pass — no body changes)
