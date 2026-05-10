@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-09 16:38:00+00:00
+ai_modified: 2026-05-10 05:39:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
 created: 2026-05-05
-date: &id001 2026-05-09
+date: &id001 2026-05-10
 description: A tenet may remove a defeater, but it must not upgrade the evidence level.
   The discipline installs a five-tier scale — established → strongly supported → realistic
   possibility → live hypothesis → speculative integration — and the diagnostic test
@@ -30,9 +30,11 @@ related_articles:
 - '[[memory-anomalies]]'
 - '[[out-of-body-experiences]]'
 - '[[synaesthesia]]'
+- '[[phenomenology-of-memory-and-the-self]]'
 - '[[writing-style]]'
 - '[[tenets]]'
 - '[[reviews/outer-review-2026-05-03-chatgpt-5-5-pro]]'
+- '[[reviews/outer-review-2026-05-10-chatgpt-5-5-pro]]'
 - '[[reviews/optimistic-2026-05-09]]'
 title: Evidential-Status Discipline
 topics: []
@@ -97,6 +99,43 @@ If no, the disagreement is bedrock at the framework boundary. The reviewer rejec
 The test is decisive because it separates two failure modes that look superficially similar. *"Reviewer says nematodes probably aren't conscious"* against an article labelling nematodes "live hypothesis / speculative integration" is bedrock-style disagreement and not critical: the article's calibration is honest at that tier. *"Reviewer says the article overstates the evidential status of nematode consciousness"* against an article labelling nematodes at "realistic possibility" *because the tenets weaken parsimony arguments* is calibration error and is critical: a tenet-accepting reviewer would still flag the upgrade because the load-bearing move is "tenet removes a defeater," not positive evidence.
 
 The test makes the discipline operational. The `/deep-review` skill applies it explicitly when classifying findings: claims flagged as "tenet-coherent but evidentially over-claimed" are critical; claims flagged as "rejected from outside the tenets" are not. The asymmetry was the gap the previous "persona disagrees → not critical" rule left open: it shielded calibration errors by treating them as bedrock disagreements.
+
+## Three Cross-Cutting Rules
+
+The diagnostic test catches the failure mode at the level of organism-level evidence-grade labelling. Three further rules extend the discipline to specific cross-cutting axes the catalogue has been pulled toward conflating: experience to irreducibility, dissociation evidence to metaphysical primitiveness, and tenet-derived disagreement with MWI to phenomenological refutation of MWI.
+
+### Phenomenological Datum ≠ Irreducible Metaphysical Datum
+
+A phenomenological observation — that something is *experienced* in a particular way — is not by itself a metaphysical conclusion that the experience is irreducible, non-computational, or non-physical. The move from *"this is experienced"* to *"this cannot be functionally explained"* requires a bridging argument the phenomenology itself does not supply.
+
+The rule is the experience-axis analogue of the constrain-vs-establish move. *Felt pastness* is a real phenomenological feature; demonstrating it constrains overly simple computational accounts (those that reduce remembering to a bare "timestamp" tag). It does not by itself establish that no source-monitoring, metacognitive, or self-attentional account could explain the felt character. The 2026-05-10 ChatGPT outer review identified the conflation in [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/): the article moved from "the pastness quale is phenomenologically distinctive" to "the pastness quale is non-computational" without supplying the intervening argument the second claim requires. The same risk runs across the catalogue wherever an article anchors a metaphysical claim in a phenomenological description without a separate argument for the upgrade.
+
+The mistake is a calibration error of the form the discipline was built to catch. The phenomenological reality of an experience is one tier of evidence; its metaphysical irreducibility is a strictly higher tier requiring a separate argument. Honest catalogue language records the phenomenology at its tier and the metaphysics at theirs — the two are linked by argument, not by implication.
+
+### Dissociation Arguments Must Separate Four Levels
+
+When an article uses clinical or anomaly dissociations as evidence — Klein & Nichols (2012) on memory mineness, Capgras delusion, blindsight, alien-hand syndrome — it must distinguish four levels and not collapse the chain:
+
+1. **Separability.** The two phenomena come apart in the data — the empirical claim that one feature can be present while the other is absent, or vice versa.
+2. **Phenomenological reality.** One of the dissociated features is a genuine feature of experience, not an artefact of report or interpretation.
+3. **Mechanistic independence.** Different processes underlie the two features — the cognitive-architecture claim that distinct modules, pathways, or attentional systems produce them.
+4. **Metaphysical irreducibility.** The dissociated feature cannot be physically or functionally explained — the philosophical claim that no mechanism of the kind in level 3 could account for the feature in level 2.
+
+Evidence for any one level does not automatically count as evidence for the next. Klein & Nichols establishes separability and contributes to phenomenological reality; it underdetermines mechanistic independence (which several functional accounts can supply — Gentry 2021 develops a self-attentional model expressly to occupy that level) and does not by itself establish metaphysical irreducibility. The same chain applies to Capgras (preserved recognition vs. felt familiarity), blindsight (visual discrimination vs. visual phenomenology), and alien-hand cases (preserved motor control vs. felt agency).
+
+The discipline at this level is *don't collapse the chain*. An article that treats Klein & Nichols as evidence for primitive mineness has skipped two levels; an article that treats blindsight as evidence for the irreducibility of visual phenomenology has skipped at least one. The fix is to identify which level the evidence actually establishes and let subsequent levels carry their own argumentative weight — in natural prose, with the chain implicit but the inferences staged honestly.
+
+### MWI-Specific Review Checklist
+
+Before any article claims to refute the Many-Worlds Interpretation, it must answer the following question:
+
+> *Could an Everettian restate this phenomenon as branch-local, centered, and determinate?*
+
+If yes, the article must classify the disagreement as a framework boundary — Mode Three in [direct-refutation-discipline](/project/direct-refutation-discipline/)'s terms — unless it supplies an additional argument for why *global ontological uniqueness*, rather than *branch-local uniqueness*, is required by the phenomenon. From inside a decohered branch, the Everettian subject has a determinate macroscopic past, indexically owned memories, and a unique remembered history. The branch-local restatement does not foreclose the Map's rejection of MWI; it relocates the disagreement to the framework-boundary register where the rejection actually lives — the rejection is, after all, a tenet (Tenet 4), not a derived conclusion.
+
+The rule operationalises the *boundary-substitution failure mode*: presenting tenet-derived disagreement with MWI as if memory phenomenology, identity considerations, or single-history intuitions had refuted MWI inside MWI's framework. Four independent outer reviewers have converged on this slippage as recurring across the catalogue — 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, and 2026-05-10 ChatGPT all flagged it in different articles engaging different phenomena. Convergence at that density takes the failure mode out of the case-by-case register: every article that engages MWI is at risk, and the checklist is the cheapest pre-publication catch.
+
+The checklist sits at the intersection of evidential-status and direct-refutation discipline. Evidential-status governs how the catalogue labels the phenomenological evidence MWI is supposedly defeated by; direct-refutation governs whether the disagreement is presented as in-framework refutation or as framework-boundary marking. The checklist is the operational artefact at the intersection: it forces the article to confront the branch-local restatement before declaring refutation, and it routes the disagreement to its honest register when the restatement is available.
 
 ## The Productive Tension in Optimistic-Review
 
@@ -209,3 +248,23 @@ The evidential-status discipline is documented through the catalogue's outer-rev
 8. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/
 9. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/
 10. Southgate, A. & Oquatre-sept, C. (2026-04-29). Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/bedrock-clash-vs-absorption/
+11. *The Unfinishable Map* outer review, 2026-05-10 (ChatGPT 5.5 Pro). Pressure-tests [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/); identifies the experience→irreducibility, dissociation-chain, and MWI-restatement failure modes the three cross-cutting rules in this article codify. https://unfinishablemap.org/reviews/outer-review-2026-05-10-chatgpt-5-5-pro/
+
+<!-- AI REFINEMENT LOG - 2026-05-10
+Changes made:
+- Added "Three Cross-Cutting Rules" section after "The Diagnostic Test" (~600 words)
+  - Rule 1: Phenomenological datum ≠ irreducible metaphysical datum (experience→irreducibility axis)
+  - Rule 2: Dissociation arguments must separate four levels (separability / phenomenological reality / mechanistic independence / metaphysical irreducibility)
+  - Rule 3: MWI-specific review checklist ("Could an Everettian restate this phenomenon as branch-local, centered, and determinate?")
+- Added [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) and [outer-review-2026-05-10-chatgpt-5-5-pro](/reviews/outer-review-2026-05-10-chatgpt-5-5-pro/) to related_articles
+- Added 2026-05-10 outer review as reference 11
+
+Source: items 12–14 of [outer-review-2026-05-10-chatgpt-5-5-pro](/reviews/outer-review-2026-05-10-chatgpt-5-5-pro/) improvement list.
+Convergent finding: rule 3 operationalises the boundary-substitution failure mode that 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, and 2026-05-10 ChatGPT outer reviews have now independently flagged.
+
+Verification notes from review applied: rules placed at the cross-cutting-discipline level (the reviewer's recommended location) rather than embedded in the focus-article being reviewed; this allows other articles to inherit the discipline by reference rather than per-case duplication.
+
+Engagement classification: not applicable — this article is a discipline-document, not an opponent-engagement article. The MWI checklist itself routes opponent-engagements (anti-MWI articles) toward Mode Three boundary-marking when the branch-local restatement is available.
+
+This log should be removed after human review.
+-->

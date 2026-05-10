@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-29 23:40:00+00:00
+ai_modified: 2026-05-10 04:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,6 +37,7 @@ related_articles:
 - '[[anoetic-noetic-autonoetic-consciousness-2026-02-24]]'
 - '[[semantic-memory-consciousness-2026-01-17]]'
 - '[[consciousness-and-memory]]'
+- '[[phenomenology-of-memory-and-the-self]]'
 title: Anoetic, Noetic, and Autonoetic Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -137,6 +138,8 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 - **Smooth neural gradients rather than discontinuities**: If improved neuroimaging revealed continuous variation between anoetic, noetic, and autonoetic processing rather than separable substrates, the qualitative discontinuity argument would weaken.
 - **A functionalist account of semanticisation**: If the phenomenal shift from autonoetic to noetic could be fully explained by changes in information structure, the argument from content-manner independence would lose its force.
 
+These challenges bear directly on the arguments developed in [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/). The "pastness quale" and "double presence" claims developed there inherit the same evidential exposure: a successful computational account of mental time travel, a smooth-gradient finding, or a functionalist account of semanticisation would weaken the focused article's reading of pastness and double-presence as phenomenal features that resist reduction. The two articles depend on the same architectural commitments and face the standing challenges jointly rather than separately.
+
 ## Further Reading
 
 - [episodic-memory](/concepts/episodic-memory/) — Full treatment of autonoetic consciousness, mental time travel, and the phenomenology of re-experiencing
@@ -151,6 +154,7 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The temporal structure of conscious experience underlying mental time travel
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The relationship between selfhood and consciousness that autonoesis presupposes
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Tulving's hierarchy and six phenomenality categories as diagnostic tools for AI consciousness
+- [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) — The pastness-quale and double-presence arguments that depend on the autonoetic-vs-noetic distinction and inherit its standing challenges
 
 ## References
 

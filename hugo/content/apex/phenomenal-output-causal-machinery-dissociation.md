@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-09 23:38:00+00:00
+ai_modified: 2026-05-10 02:44:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-09 17:38:00+00:00
 apex_sources:
@@ -37,7 +37,7 @@ description: A structural cluster recurring across perception, cognition, agency
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-09 23:38:00+00:00
+last_deep_review: 2026-05-10 02:44:00+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -54,6 +54,7 @@ related_articles:
 - '[[consciousness-and-memory]]'
 - '[[empirical-phenomena-mental-causation]]'
 - '[[evidential-status-discipline]]'
+- '[[common-cause-null]]'
 - '[[medium-status-voids-in-cognition]]'
 title: Phenomenal Output and Causal Machinery
 topics:
@@ -149,7 +150,7 @@ The cumulative-convergence move is the cluster's load-bearing argumentative stru
 
 The seven traditions further divide into two sub-classes that carry different argumentative weight. Polanyi, Bergson, and parts of Koriat's metacognitive programme observe the signature *despite* their broader commitments — Polanyi was a tacit-knowledge phenomenologist whose subsidiary-focal structure does not require any opacity claim, Bergson's reducing-valve picture predates the cognitive-science literature it now resonates with, Koriat's noetic-feelings programme tracks heuristic outputs without committing to a theory of why introspection is interpretive. Carruthers, Trick and Pylyshyn, Inzlicht and Kurzban, and Schwitzgebel observe the signature *because* their materialist or computational models predict it — Carruthers's interpretive-sensory-access account treats opacity as a contingent design feature of the introspective mechanism; FINST is a computational-architecture model of attentional indexing; the opportunity-cost effort model is a sub-personal-mechanism account; Schwitzgebel's perplexities programme treats introspective unreliability as a contingent fact about a fallible introspective channel. The convergence claim's evidential force concentrates in the first sub-class: those who observe the signature without their model predicting it. The second sub-class supplies internal corroboration of the materialist prediction rather than independent evidence against it. The seven-author count overstates the convergence; the load-bearing observations are the *despite-commitments* sub-class plus the structural recurrence across timescales developed below.
 
-The convergence's force also depends on the seven traditions analysing substrates that do not share their architectural limits, and the article should be honest about how thin that condition's argument currently is. A common-cause hypothesis — *human introspection has the same architectural limits across all domains; the same architectural limits ARE the common machinery* — would predict the same convergence the seven-tradition count credits to independent triangulation. All seven analyse human cognition through human introspection in human language, and the shared introspective channel itself is enormous common machinery. What separates the cluster's claim from the common-cause null is the recurrence of the signature across substrates *within* a single nervous system on radically different timescales. Perceptual cardinality runs on parallel-individuation tokens at sub-second timescales; memory consolidation runs on hippocampal-cortical transfer over decades. The two cannot share specific machinery beyond the involvement of a single conscious subject. The cross-substrate-within-one-organism observation is what does the work the seven-tradition count overstates. Cross-species evidence (do non-human animals show the same dissociations?), cross-cultural evidence (do contemplative traditions with different introspective vocabularies report different signatures?), and patient-population evidence (do anomalous-introspective-architecture cases — congenital aphantasia, alexithymia — show the cluster?) would distinguish independent-triangulation from same-introspective-architecture-rediscovered. The article does not have that evidence in hand; the strongest defence currently available is structural recurrence across substrates within a single nervous system.
+The convergence's force also depends on the seven traditions analysing substrates that do not share their architectural limits, and the article should be honest about how thin that condition's argument currently is. A common-cause hypothesis — *human introspection has the same architectural limits across all domains; the same architectural limits ARE the common machinery* — would predict the same convergence the seven-tradition count credits to independent triangulation. All seven analyse human cognition through human introspection in human language, and the shared introspective channel itself is enormous common machinery. What separates the cluster's claim from the common-cause null is the recurrence of the signature across substrates *within* a single nervous system on radically different timescales. Perceptual cardinality runs on parallel-individuation tokens at sub-second timescales; memory consolidation runs on hippocampal-cortical transfer over decades. The two cannot share specific machinery beyond the involvement of a single conscious subject. The cross-substrate-within-one-organism observation is what does the work the seven-tradition count overstates. Cross-species, cross-cultural, and patient-population evidence — the three classes [the common-cause-null discipline](/project/common-cause-null/) catalogues at project level — would distinguish independent-triangulation from same-introspective-architecture-rediscovered. The article does not have that evidence in hand; the strongest defence currently available is structural recurrence across substrates within a single nervous system.
 
 ## The Constrain-vs-Establish Discipline
 

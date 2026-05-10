@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-09 16:38:00+00:00
+ai_modified: 2026-05-10 04:39:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -99,7 +99,7 @@ Two of the Map's tenets do work here.
 
 **Bidirectional Interaction** (Tenet 3) is engaged more cautiously, through Bergson's reducing-valve picture. If consciousness is in some sense filtering or shaping what reaches awareness — and the rarity of déjà vu given the contemporaneity of memory and perception is one piece of indirect evidence — then the anomalies are momentary failures of that filtering. The Map raises this as one option, not a commitment. The cognitive-science account in which dual-process memory occasionally misfires under match conditions is consistent with the tenet without requiring the Bergsonian reading.
 
-A third connection runs through the Map's treatment of [introspection](/concepts/introspection/) and [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/). The trio is one of the cleanest demonstrations available that subjective certainty is not evidence for the corresponding metaphysical claim. The déjà vu sufferer is certain they have been here before; they have not. The cryptomnesiac is certain the line is theirs; it is not. The jamais vu sufferer is certain the word is alien; it is the same word it has always been. The Map's standing position — that introspective reports are evidence about phenomenology, not about the underlying causal facts — gets one of its sharpest illustrations from this cluster.
+A third connection runs through the Map's treatment of [introspection](/concepts/introspection/) and [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/). The trio is one of the cleanest demonstrations available that subjective certainty is not evidence for the corresponding metaphysical claim. The déjà vu sufferer is certain they have been here before; they have not. The cryptomnesiac is certain the line is theirs; it is not. The jamais vu sufferer is certain the word is alien; it is the same word it has always been. The Map's standing position — that introspective reports are evidence about phenomenology, not about the underlying causal facts — gets one of its sharpest illustrations from this cluster. The same caution applies to the pastness-quale, mineness, and double-presence claims developed in [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/): those phenomenological features are evidence about the structure of experience, not by themselves evidence for or against dualism. The metaphysical argument is staged separately in that article's irreducibility section and in [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/).
 
 The trio sits as one face of the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/) the Map catalogues across perception, cognition, agency, and memory. The synthesis treats memory anomalies as the across-time face of a structural pattern that also covers recognition, mental effort, noetic feelings, agency, and suspension; what does the evidential work is the cumulative convergence across the cluster's members, not any one rotation taken alone.
 

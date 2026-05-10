@@ -1,13 +1,126 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10 02:22:00+00:00
+ai_modified: 2026-05-10 06:10:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-10 06:10 UTC - condense
+- **Status**: Success
+- **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
+- **Before**: 2540 words
+- **After**: 2069 words
+- **Reduction**: 19%
+- **Technique**: Removed redundant Edge-Experience Profile summary table (duplicated bulleted prose); compressed verbose explanations across Ineffability/Reducing Valve/Zero-Person/Dissolving-Insight/Transcendence sections; merged Lower Edge paragraphs; trimmed Further Reading from 12 to 8 entries; removed two broken self-references to coalesced predecessor URLs (`/voids/altered-states-as-void-probes/` and `/voids/phenomenology-of-the-edge/`).
+- **Preserved**: opening summary, two-readings tension, all five tenet connections, cross-link density to other voids articles, distinctive framing (transcendence vs edge-mapping, edge-clarity paradox, dissolving-insight phenomenon).
+- **Status**: still in soft_warning (target 2000) but well clear of hard threshold (3000); further cuts would risk substance.
+
+## 2026-05-10 05:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Mode**: Methodology extension (items 12–14 of [outer-review-2026-05-10-chatgpt-5-5-pro](/reviews/outer-review-2026-05-10-chatgpt-5-5-pro/))
+- **Word count**: 2546 → ~3160 (+614 words; new "Three Cross-Cutting Rules" section)
+- **Changes**: Added cross-cutting rules section between "The Diagnostic Test" and "The Productive Tension in Optimistic-Review" — (1) phenomenological datum ≠ irreducible metaphysical datum (experience→irreducibility axis); (2) dissociation arguments must separate four levels (separability / phenomenological reality / mechanistic independence / metaphysical irreducibility); (3) MWI-specific review checklist ("Could an Everettian restate this phenomenon as branch-local, centered, and determinate?")
+- **Cross-links added**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) (canonical case for rule 1); [outer-review-2026-05-10-chatgpt-5-5-pro](/reviews/outer-review-2026-05-10-chatgpt-5-5-pro/) (sourcing review)
+- **Reference added**: 2026-05-10 outer review as reference 11
+- **Convergence note**: Rule 3 operationalises the boundary-substitution failure mode now flagged by four independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, 2026-05-10 ChatGPT). Convergence at this density takes the failure mode out of the case-by-case register and into cross-cutting methodology.
+- **Engagement classification**: not applicable — discipline-document, no opponent-engagement. Rule 3 itself routes anti-MWI articles toward Mode Three when branch-local restatement is available.
+- **Calibration check**: Pass — three rules sit at the cross-cutting level the reviewer's verification notes recommended; do not introduce new editor-vocabulary into article prose elsewhere; integrate cleanly with existing discipline architecture (constrain-vs-establish, two registers, diagnostic test).
+- **Sequencing**: Independent of the P1 refine-draft on phenomenology-of-memory-and-the-self; executed in parallel as the task notes flagged.
+- **Published**: yes
+
+## 2026-05-10 05:10 UTC - deep-review
+- **Status**: Success (stability-confirmation)
+- **File**: [atemporal-causation](/concepts/atemporal-causation/)
+- **Word count**: 3406 → 3406 (no change; length-neutral mode)
+- **Critical issues addressed**: 0 (none found — fifth review; article last substantively modified 2026-03-25, only mechanical wikilink repointing on 2026-04-30)
+- **Medium issues addressed**: 0 (none new; "modern analytic precedent" carry-forward deferred for fifth time as low-priority)
+- **Enhancements made**: 0 (no content modifications — adding cross-links would push word count over 3500 hard threshold without addressing any defect)
+- **Calibration check**: Pass — no possibility/probability slippage. Article's "Removing an Objection Is Not Providing a Mechanism" section anticipates the discipline; tenet sections properly separate "objection removed" from "mechanism explained"
+- **Engagement classification**: Maudlin (TI critique) — Mode Three (boundary-marking, "not resolved to everyone's satisfaction"); Schurger (neural noise) — Mode Three (listed as falsification condition, not refuted); decoherence theorists — Mode Three ("most contested step" qualifier). No label leakage; engagements in natural prose throughout
+- **Output**: [deep-review-2026-05-10-atemporal-causation](/reviews/deep-review-2026-05-10-atemporal-causation/)
+
+## 2026-05-10 04:39 UTC - deep-review
+- **Status**: Success
+- **Mode**: Cross-review (items 10–11 of [outer-review-2026-05-10-chatgpt-5-5-pro](/reviews/outer-review-2026-05-10-chatgpt-5-5-pro/))
+- **Files**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/), [memory-anomalies](/topics/memory-anomalies/), [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Word counts**: 2421→2577 (+156), 2558→2604 (+46), 2272→2366 (+94); total +296 words across three files; all remain below soft thresholds (86%, 87%, 95%)
+- **Critical issues addressed**: 0 (none found — focused article certified stable by 2026-04-16 review)
+- **Medium issues addressed**: 2 (forward-only methodological hedge from memory-anomalies → focused; absent reciprocal in-link from anoetic-noetic → focused on standing challenges)
+- **Enhancements made**: 4 (visible methodological hedge import at focused article's pastness/mineness section; standing-challenges acknowledgment at focused article's Pastness Quale and Irreducibility section; reciprocal in-link at anoetic-noetic's "What Would Challenge This View?" with shared-evidential-exposure framing; cross-application of memory-anomalies' caution to focused article's pastness-quale claims)
+- **Cross-links added**: focused ↔ memory-anomalies (now bidirectional with shared methodological hedge); focused ↔ anoetic-noetic (now bidirectional with shared evidential exposure); anoetic-noetic frontmatter and Further Reading updated
+- **Engagement classification**: no new opponent-engagements added; existing classifications from 2026-04-16 review preserved
+- **Output**: [deep-review-2026-05-10-cross-link-memory-cluster](/reviews/deep-review-2026-05-10-cross-link-memory-cluster/)
+
+## 2026-05-10 04:30 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-05-10-chatgpt-5-5-pro](/reviews/outer-review-2026-05-10-chatgpt-5-5-pro/)
+- **Subject**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) (queue-driven, outer-todo.md:L48)
+- **Headline finding**: Article establishes phenomenological dissociability of pastness/mineness/double-presence but slides too quickly to metaphysical irreducibility; MWI rebuttal via "metaphysical singularity of history" begs the question against branch-local determinacy and is a Mode-Three framework boundary masquerading as a refutation.
+- **Claims verified**: 4 accepted as plausible (Klein & Nichols 2012, Tulving autonoesis, Schacter/Addis/Buckner constructive simulation, SEP MWI branch-local treatment); 3 flagged for refine-draft to verify when revision executes (De Brigard 2024, Gentry 2021, Roache critique of K&N); 2 disputed soft framings noted (recent-changelog characterisation; "begs the question" routing of the boundary-substitution diagnosis).
+- **High-value findings**: 9 (5 structural — pastness-distinction, source-monitoring steelman, K&N rewrite, MWI reframe, Everettian steelman; 1 methodological — three rules for evidential-status-discipline; 2 cross-link — memory-anomalies and anoetic-noetic reciprocal links; 1 hostile-review — coherence-inflation safeguard pass)
+- **Tasks generated**: 4 (P1: 1, P2: 2, P3: 1)
+- **Convergent finding**: MWI boundary-substitution diagnosis echoes 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude outer reviews — fourth independent reviewer convergence. P1 task carries [direct-refutation-discipline](/project/direct-refutation-discipline/) remit.
+
+## 2026-05-10 04:22 UTC - condense
+- **Status**: Success
+- **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
+- **Before**: 3354 words
+- **After**: 2540 words
+- **Reduction**: 24%
+- **Technique**: Tightened prose throughout (removed hedging, redundant clauses, restated lead-ins); compressed Edge-Experience Profile bullets (table already covers detail); trimmed Reducing Valve, Zero-Person, Dissolving-Insight, Transcendence/Edge-Mapping, NDE, Lower-Edge, Apophatic, Approaches sections by ~25-30%; cut Further Reading list from 24 to 12 items (removed entries already in `related_articles` frontmatter); preserved opening summary, table, all tenet sections, and unique arguments (zero-person perspective, dissolving insights, edge-clarity paradox, edge-mapping vs transcendence framing). Status: hard_warning → soft_warning.
+
+## 2026-05-10 03:38 UTC - deep-review
+- **Status**: Success
+- **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Mode**: Cross-review against newly-installed [common-cause-null](/project/common-cause-null/) (created 2026-05-10 01:14 UTC). The project doc cites this article as "the cross-cultural convergence-argument exemplar" and proposes a five-item checklist that prior reviews could not have applied.
+- **Word count**: 2388 → 2835 (+447; 94% of 3000 soft; `ok` unchanged)
+- **Critical issues addressed**: 1 (convergence-claim engagement gap with new common-cause-null discipline — calibration matter inside the Map's framework, distinct from bedrock disagreement; diagnostic test confirms a tenet-accepting reviewer would still flag the absence of explicit null-engagement once the discipline exists)
+- **Medium issues addressed**: 1 (opening-paragraph evidence-lift framing is now calibrated downstream by the new section rather than rewritten upstream; the front-loaded LLM-truncation-resilient first sentence is preserved)
+- **Enhancements**: Added new section *Engaging the Common-Cause Null* (~400 words) between *Convergence Despite Radical Disagreement* and *What the Convergence Does and Does Not Show*; named human-introspection itself as the residual common machinery; applied three structural defences (methodological substrate diversity within shared introspection, Chinese counter-example as natural-experiment test, premise-level disagreement ruling out shared-premise common causes); named cross-species, cross-cultural-isolated, and patient-population evidence as the open empirical research programme not in hand; added one-sentence link from Tenet 5 paragraph in *Relation to Site Perspective* to the discipline; added [common-cause-null](/project/common-cause-null/) to `related_articles` frontmatter and Further Reading.
+- **Engagement classifications** (editor-only): The new section engages a structural methodological objection rather than a named opponent. Mode Two-style (the common-cause null is a foundational move the convergence inference must earn, and the new section earns it by naming the residual machinery and applying the three structural defences). No editor-vocabulary leaked into article prose.
+- **Stability**: Fourth deep review (plus one refinement pass). Article reaches converged state again post-discipline-application. Future reviews should not re-flag convergence calibration absent a new methodological discipline.
+- **Output**: [deep-review-2026-05-10-cross-traditional-convergence-on-consciousness-irreducibility](/reviews/deep-review-2026-05-10-cross-traditional-convergence-on-consciousness-irreducibility/)
+
+## 2026-05-10 03:16 UTC - deep-review
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Mode**: Cross-review against newly-installed [common-cause-null](/project/common-cause-null/) (created 2026-05-10 01:14 UTC). The project doc identifies this article as facing "the most demanding common-cause objection in the catalogue" — shared philosophical methodology itself as upstream common cause.
+- **Word count**: 3068 → 3121 (+53; 104% of 3000 soft; `soft_warning` unchanged)
+- **Critical issues addressed**: 0 (fifth consecutive review with no critical issues)
+- **Medium issues addressed**: 2 (most-demanding common-cause version not named explicitly in opening enumeration; missing cross-link to common-cause-null project doc)
+- **Enhancements**: Added "shared philosophical methodology (similar conceptual analyses, phenomenological starting points, intuition-pumps)" to Common-Cause Objection opening; added one signposting sentence pointing to existing Bayesian cluster analysis and cross-cultural section as the article's response; added [common-cause-null](/project/common-cause-null/) to related_articles and Further Reading.
+- **Length-neutrality compensations**: Tightened McGinn third response (-2 words); compressed "What Convergence Does Not Prove" closing paragraph by merging redundant "given our current understanding" sentence into preceding qualifier (-10 words).
+- **Engagement classifications** (editor-only):
+  - Bloom dualist-intuition hypothesis: Mode One (defective on its own terms via Barrett et al. cross-cultural data)
+  - Dennett conceptual-confusion diagnosis: Mode Two (unsupported foundational move; the diagnosis itself requires argument)
+  - McGinn cognitive closure: Mixed (Mode One opens, Mode Three closes)
+  - Phenomenal concept strategy: Mode One (defective on own terms — less traction with Cluster 3)
+  - Shared-methodology common cause (newly named): Mode Three with partial discharge — honest naming, response runs through Bayesian cluster discount and cross-cultural section; full discharge would require cross-species/patient-population evidence not currently in hand (per [common-cause-null](/project/common-cause-null/))
+- **Stability**: Fifth deep review. Article remains in converged state. No label leakage from project doc's editor-vocabulary into article prose; "shared philosophical methodology" and "intuition-pumps" are plain English. No boundary substitution; no possibility/probability slippage.
+- **Output**: [deep-review-2026-05-10-the-convergence-argument-for-dualism](/reviews/deep-review-2026-05-10-the-convergence-argument-for-dualism/)
+
+## 2026-05-10 02:44 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Mode**: Cross-review against newly-installed [common-cause-null](/project/common-cause-null/) (created 2026-05-10 01:14 UTC). The project doc cites the apex's line 144 as "the canonical worked instance" — reciprocal cross-link required.
+- **Word count**: 5404 → 5386 (−18; 135% of 4000 soft; 108% of 5000 hard; `hard_warning` unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to common-cause-null project doc; installed in frontmatter and body)
+- **Low issues addressed**: 1 (parenthetical clarifications partly redundant with project doc's fuller exposition; trimmed; three-class naming preserved)
+- **Engagement classifications** (editor-only):
+  - sophisticated functionalist (§Cluster Establishes): Mode Three — honest framework-boundary marking
+  - higher-order theory and illusionism (§Cluster Establishes closing): Mode Two-adjacent — identifies unsupported foundational move (no single-shape unified account) without claiming internal-to-physicalism refutation
+  - Wegner (§Real Time, agency-void): Mode Three with explicit inversion-flag — structural observations cited; interpretive reading honestly noted as inverting the cluster's
+  - shared-introspective-architecture common-cause hypothesis (§Seven Traditions, line 144): Mode Two — identifies unsupported foundational move using the convergence claim's own standards; structural defence supplied (cross-substrate-within-one-organism)
+  - MWI defenders, eliminative materialists, hard-nosed physicalists: Mode Three (bedrock framework-boundary)
+- **Stability**: Third deep review (plus the 2026-05-09 Pass 1 + Pass 2 refinements). Article remains in converged state. The cross-substrate-within-one-organism move and the despite-commitments / because-prediction split installed in Pass 1 are recommended in the project doc as canonical instances of the discipline. No label leakage; no boundary substitution; no possibility/probability slippage. Implicit *specific-machinery* classification per the project doc's two-strength taxonomy is correct and honestly partial.
+- **Output**: [deep-review-2026-05-10-phenomenal-output-cross-common-cause-null](/reviews/deep-review-2026-05-10-phenomenal-output-cross-common-cause-null/)
 
 ## 2026-05-10 02:22 UTC - deep-review
 - **Status**: Success
