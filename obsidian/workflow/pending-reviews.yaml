@@ -69,9 +69,9 @@
   prompt_summary: "Pascal's-mugging discipline in dualism-as-ai-risk-mitigation \xA7\
     5"
   target_filename: outer-review-2026-05-08-claude-opus-4-7.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-10T02:19:15.884968+00:00'
   failure_reason: null
   prompt_text: "Examine the site https://unfinishablemap.org and its activity changelog\
     \ https://unfinishablemap.org/workflow/changelog/. The article topics/dualism-as-ai-risk-mitigation\
@@ -92,3 +92,31 @@
   subject_title: null
   subject_articles: null
   subject_source: null
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/69ffebd3-4868-838a-bb5f-13a995f5d1ed
+  commissioned_at: '2026-05-10T02:22:31.743866+00:00'
+  prompt_summary: 'Phenomenology of memory: pastness quale, mineness, MWI rebuttal'
+  target_filename: outer-review-2026-05-10-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Examine https://unfinishablemap.org and its activity changelog https://unfinishablemap.org/workflow/changelog/.\
+    \ Focus on https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/.\
+    \ The article argues the 'pastness quale,' the 'double presence' of autonoetic\
+    \ recall, and felt 'mineness' are irreducible phenomenal features that resist\
+    \ computational explanation, and leans on them to support all four tenets \u2014\
+    \ especially dualism and rejection of MWI. Pressure-test: (a) Is the pastness\
+    \ quale a genuine phenomenal datum or a description of a cognitive tag dressed\
+    \ in qualia language? (b) The article cites Klein & Nichols (2012) memory-anomaly\
+    \ dissociations as evidence FOR mineness's reality \u2014 is this circular? (c)\
+    \ Does the MWI rebuttal via 'metaphysical singularity of history' beg the question\
+    \ against branch-local determinacy? (d) Does the constructive-memory section honestly\
+    \ confront the worry that the remembered past self may be wholly present-constructed?\
+    \ Broaden your research outside the site as needed. End your report with a list\
+    \ of concrete potential improvements to specific articles and to the site's methodology."
+  subject_type: queue
+  subject_title: Review topics/phenomenology-of-memory-and-the-self.md
+  subject_articles:
+  - topics/phenomenology-of-memory-and-the-self.md
+  subject_source: outer-todo.md:L48

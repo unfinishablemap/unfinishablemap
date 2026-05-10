@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T01:48:00+00:00
+ai_modified: 2026-05-10T02:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 02:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/medium-status-voids-in-cognition]]
+- **Mode**: Cross-review against newly-installed sibling apex [[phenomenal-output-causal-machinery-dissociation]]
+- **Word count**: 4249 → 4331 (+82; 106% → 108% of 4000 soft threshold; well below 5000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (implicit-only relation to sibling apex; installed body cross-link paragraph)
+- **Low issues addressed**: 2 (recap tightening in §Five Traditions and §What the Cluster Reveals)
+- **Engagement classifications** (editor-only):
+  - reductionist/functionalist (line 65): Mode Three; honest framework-boundary marking that medium-status is neutral between functionalist and dualist readings
+  - physicalism in §What the Cluster Reveals closing: Mode Two-adjacent; identifies unsupported foundational move without claiming internal-to-physicalism refutation
+  - eliminative readings, MWI defenders, Buddhist concerns: Mode Three (bedrock framework-boundary)
+- **Stability**: Fifth deep review. Previous review (2026-04-30b) confirmed convergence; the 2026-05-08 apex-evolve pass and this 2026-05-10 cross-review add successive integration layers without destabilising structure. Despite-commitments / because-commitments discipline considered but not installed (decision recorded). No label leakage; no boundary substitution; no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-05-10-medium-status-voids-in-cognition-cross-phenomenal-output]]
 
 ## 2026-05-10 01:48 UTC - deep-review
 - **Status**: Success (convergence confirmed)

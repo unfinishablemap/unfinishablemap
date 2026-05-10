@@ -45,9 +45,10 @@ When a task is consumed, the `### P{N}:` line is rewritten in place to `### ✓ 
 
 ## Tasks
 
-### P1: Review topics/phenomenology-of-memory-and-the-self.md
+### ✓ 2026-05-10: Review topics/phenomenology-of-memory-and-the-self.md
 - **Articles**: topics/phenomenology-of-memory-and-the-self.md
 - **Added**: 2026-05-09
+- **Reviewed**: cycle 2026-05-10
 
 ### ✓ 2026-05-10: Test subject — does the dualism-as-ai-risk-mitigation argument survive AI-safety scrutiny?
 - **Articles**: topics/dualism-as-ai-risk-mitigation.md, apex/consciousness-and-ai-risk.md
