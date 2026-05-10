@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-05-10 10:45:00+00:00
+ai_modified: 2026-05-10 16:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[intentionality]]'
 - '[[binding-problem]]'
 - '[[mysterianism]]'
+- '[[bidirectional-interaction]]'
 created: 2026-02-18
 date: &id001 2026-02-28
 description: Multiple independent arguments converge on dualism from different starting
@@ -97,7 +98,7 @@ Dualism, by contrast, provides a single explanation: consciousness genuinely has
 
 ## The Common-Cause Objection
 
-The most serious challenge is that the independence is illusory: perhaps all anti-materialist arguments share a hidden common cause — a systematic cognitive bias, a shared conceptual error, or shared philosophical methodology (similar conceptual analyses, phenomenological starting points, intuition-pumps). The methodology version is constrained by the Bayesian cluster analysis above and the cross-cultural section below; three more specific hypotheses deserve direct engagement.
+The most serious challenge is that the independence is illusory: perhaps all anti-materialist arguments share a hidden common cause — a systematic cognitive bias, a shared conceptual error, or shared philosophical methodology (similar conceptual analyses, phenomenological starting points, intuition-pumps). The methodology version is constrained by the Bayesian cluster analysis above and the cross-cultural section below; the Map's [common-cause-null discipline](/project/common-cause-null/) supplies the project-tier framework articulated specifically for evaluating whether N-fold convergence claims are reading one upstream architecture N times. Three more specific hypotheses deserve direct engagement.
 
 ### The Dualist Intuition Hypothesis
 
@@ -125,7 +126,7 @@ Independence varies. Buddhism and Vedanta share an Indian philosophical milieu, 
 
 The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) adds a concrete instance: Buddhist, Hindu, Christian, Sufi, and Daoist practitioners report strikingly similar phenomenological structures—self-dissolution, contentless awareness, subject-object collapse—despite incompatible metaphysical frameworks.
 
-An important qualification: convergence on "consciousness is puzzling" is not convergence on "dualism is true." Buddhist analysis finds consciousness irreducible but concludes with *anattā* — no self. Advaita Vedanta concludes with monism. These traditions converge on the *problem* while diverging on the *solution*. The cross-cultural evidence supports that the difficulty is not an artefact of Western conceptual categories; the challenge appears wherever philosophical reflection on experience reaches sufficient depth. This evidences the reality of the explanatory gap, which supports (but does not alone establish) dualism.
+An important qualification: convergence on "consciousness is puzzling" is not convergence on "dualism is true." Buddhist analysis finds consciousness irreducible but concludes with *anattā* — no self. Advaita Vedanta concludes with monism. These traditions converge on the *problem* while diverging on the *solution*. The cross-cultural evidence supports that the difficulty is not an artefact of Western conceptual categories; the challenge appears wherever philosophical reflection on experience reaches sufficient depth. This evidences the reality of the explanatory gap, which supports (but does not alone establish) dualism. The next section traces the inferential chain that the [companion article's](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) evidence specifically requires: cross-traditional convergence earns *irreducibility* across rivals (panpsychism, neutral monism, idealism, Madhyamaka emptiness) but not *dualism* among them, and the further selection is taken openly rather than absorbed silently into the convergence pattern.
 
 The [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Indian, African, and Western traditions independently converging on consciousness's causal efficacy — provides a parallel. A cognitive bias shared across historically independent cultures would be a species-level constraint, itself evidence that consciousness presents genuine difficulties for reductive explanation.
 
@@ -141,7 +142,7 @@ The cross-traditional convergence supports the reality of the explanatory gap ra
 
 **Madhyamaka emptiness** reads the convergence as recognition that any sufficiently rigorous analysis of consciousness encounters the same conceptual fracture point — not because consciousness has a determinate fundamental feature, but because the conceptual apparatus produces the fracture. This is consistent with the convergence pattern; the disagreement is that Madhyamaka's project is therapeutic while the Map's is metaphysical.
 
-The Map's selection of dualism rests primarily on the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) — the positive thesis that consciousness causally shapes physical evolution, including via [minimal quantum interaction](/tenets/#minimal-quantum). Bidirectional interaction requires two genuinely distinct domains in causal contact: incompatible with idealism (one domain), under-specified on neutral monism, and more naturally expressed in dualist than panpsychist vocabulary. The convergence argument earns "consciousness is irreducible"; bidirectional interaction selects "and the irreducible side is a distinct kind of stuff in causal contact with the physical."
+The Map's selection of dualism rests primarily on the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) — the positive thesis that consciousness causally shapes physical evolution, including via [minimal quantum interaction](/tenets/#minimal-quantum). The [companion concept article](/concepts/bidirectional-interaction/) develops the tenet's positive case independently — through the self-stultification objection to epiphenomenalism and the empirical evidence for mental causation — so the selection step here is not a bare appeal to commitment but draws on a separately-supported argument. Bidirectional interaction requires two genuinely distinct domains in causal contact: incompatible with idealism (one domain), under-specified on neutral monism, and more naturally expressed in dualist than panpsychist vocabulary. The convergence argument earns "consciousness is irreducible"; bidirectional interaction selects "and the irreducible side is a distinct kind of stuff in causal contact with the physical."
 
 ## What Convergence Does Not Prove
 

@@ -1,13 +1,126 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10 12:11:00+00:00
+ai_modified: 2026-05-10 16:41:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-10 16:41 UTC - refine-draft
+- **Status**: Success
+- **Files**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/), [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/)
+- **Source**: Optimistic review 2026-05-10 §Cross-Linking Suggestions (5 missing cross-links across the convergence-argument and problem-of-other-properties cluster)
+- **Cross-links installed** (~290 words touched across two source articles):
+  - convergence §From Irreducibility to Dualism → [bidirectional-interaction](/concepts/bidirectional-interaction/): bridging clause naming the companion concept article's independent positive case (self-stultification of epiphenomenalism, empirical mental causation) so the load-bearing positive-selection step is not a bare appeal to commitment
+  - convergence §Convergence Across Traditions → [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/): bridging clause flagging the inferential chain that the cross-traditional evidence specifically requires — irreducibility across rivals, then explicit dualist selection in the next section rather than silent absorption
+  - convergence §The Common-Cause Objection → [common-cause-null](/project/common-cause-null/): bridging clause naming the project-tier discipline article that supplies the framework for evaluating whether N-fold convergence claims read one upstream architecture N times
+  - problem-of-other-properties §Asymmetry with Self-Knowledge → [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/): bridging clause locating the article's interpersonal-access barrier within the Map's broader epistemic-limit infrastructure via the dissociation cluster's self-opacity face
+  - problem-of-other-properties §What Would Challenge This View? → [illusionism](/concepts/illusionism/): sentence-level link plus bridging clause noting the regress problem that currently blocks the falsifier-condition the bullet specifies
+- **Frontmatter**: added `[[bidirectional-interaction]]` to convergence concepts; added `[[illusionism]]` to problem-of-other-properties concepts; added `[[apex/phenomenal-output-causal-machinery-dissociation]]` to problem-of-other-properties related_articles
+- **Verification**: All five target files confirmed extant before installing links. `topics/illusionism-and-the-meta-problem.md` does not exist; used `concepts/illusionism.md` per the task's stated fallback target. Reciprocal-link discipline observed via substantive bridging clauses rather than bare Further Reading entries
+- **Tenet alignment**: methodological (cross-linking discipline). No tenet-register moves; existing tenet anchors at `^bidirectional-interaction` and `^minimal-quantum` preserved; `^minimal-quantum-interaction` reference in problem-of-other-properties preserved
+- **Output**: both files modified in-place
+
+## 2026-05-10 16:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Source**: P2 todo task from 2026-05-10 outer review by Claude Opus 4.7
+- **Word count**: 4170 → 4435 (+265, +6%)
+- **Issues addressed**: 1 (autonoetic-primacy thesis vs. AD/MCI semantic-continuity counterevidence; clean-dissociation framing of KC)
+- **Changes made**:
+  - Updated KC paragraph in "Pathological breakdowns" to acknowledge Rosenbaum et al. (2005) on residual semantic-autobiographical structure and Tulving's later graded-dissociation analyses; recalibrated KC's lesson from clean systems independence to phenomenological distinctness of episodic re-experiencing
+  - Added new "Semantic continuity in Alzheimer's and MCI" subsection (~280 words) engaging Tippett, Prebble & Addis (2018) and Klein (2012, 2014) on diachronic personal unity sustained through semantic autobiographical continuity when autonoetic continuity is substantially degraded
+  - Applied task option (b): weakened the autonoetic-primacy claim from "underwrites diachronic identity" to "one route among others"; the dualist consequence drawn from the pastness quale is preserved because it rests on phenomenal character, not on identity-grounding monopoly
+  - Anchored the recalibration to [evidential-status-discipline](/project/evidential-status-discipline/) in natural prose (one inline reference, not a callout)
+  - Added 4 new references (Rosenbaum 2005, Tippett/Prebble/Addis 2018, Klein 2012, Klein 2014); 3 flagged for human verification
+- **Engagement classification** (changelog-internal): Mode One concession. The AD/MCI empirical finding lands inside the article's own framework and forces a calibration; the residual claim about phenomenological distinctness is preserved as the article's surviving load-bearing commitment. Not Mode Three boundary-marking — the empirical finding is accepted on its own terms.
+- **Forbidden-label audit**: Clean. No "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "mode-mixed", "tenet-register move", "Engagement classification:" in body, "per [direct-refutation-discipline](/project/direct-refutation-discipline/)" parenthetical, or bold-headed "**Evidential status:**" callouts. The single inline reference to [evidential-status-discipline](/project/evidential-status-discipline/) follows the existing line-57 pattern of citing the discipline as a tenet anchor in natural prose.
+- **Output**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) (modified in-place)
+
+## 2026-05-10 15:41 UTC - deep-review
+- **Status**: Success
+- **File**: [atemporal-causation](/concepts/atemporal-causation/)
+- **Context**: Cross-review against [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) to resolve the apparent retrocausal-vs-pastness paradox
+- **Word count**: 3406 → 3436 (+30, +1%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-link gap: target article had no link to phenomenology-of-memory in body, related_articles, or Further Reading)
+- **Enhancements made**: 1 substantive cross-link in "Application to Consciousness" + 1 Further Reading bullet + 1 related_articles entry; offsetting trims of redundancy in Kastner subsection ("because it naturally satisfies" → "naturally satisfying") and Modified Growing Block intro (merged near-duplicate sentence into single em-dashed clause)
+- **Paradox resolution**: The "retrocausal-vs-pastness paradox" dissolves on careful statement of the modified-growing-block structure — atemporal selection determines the entire correlated history at transaction completion; once complete, the past portion is determinate within the actualised block; memory in the present is fallible reconstructive epistemic access to that determinate past, not ontological re-selection. Both articles converge on rejecting MWI via singularity arguments. The atemporal-causation framework produces the singular determinate past that the phenomenology-of-memory article presupposes — they occupy adjacent rungs of the same metaphysics→phenomenology ladder. No claims in either article needed modification.
+- **Engagement classification** (changelog-internal): No new named-opponent engagements introduced; existing classifications (Maudlin Mode Three, Schurger Mode Three, decoherence Mode Three) carried forward.
+- **Forbidden-label audit**: Clean. No editor-vocabulary in cross-link or trimmed passages.
+- **Stability**: Sixth deep review. Last five found no critical issues. Article remains among the most stable concept articles in the Map; the cross-review surfaced exactly one discoverable cross-link gap and closed it minimally.
+- **Reciprocal cross-link deferred**: `phenomenology-of-memory-and-the-self` does not currently link to `atemporal-causation`. Out of scope for this skill invocation (target was the concept article only). Recommended as P3 todo for a future reciprocal pass on the topic article.
+- **Output**: [deep-review-2026-05-10b-atemporal-causation](/reviews/deep-review-2026-05-10b-atemporal-causation/)
+
+## 2026-05-10 15:13 UTC - deep-review
+- **Status**: Success
+- **File**: [the-binding-problem](/topics/the-binding-problem/)
+- **Word count**: 5079 → 4719 (-360, -7%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (coalesce regression on bidirectional-interaction tenet; hard-warning length)
+- **Enhancements made**: 7 (cross-modal "hardest case" intro, inverse effectiveness prose, neural mechanisms subsection, IIT engagement consolidation, theoretical-landscape functionalist response, anesthesia paragraph, falsifiability item merge)
+- **Coalesce-introduced regression**: The 2026-04-06 review of `phenomenal-binding-and-multimodal-integration` had replaced an overstated "voluntary control would be inexplicable" with a precise functionalist engagement; the coalesce reverted this fix. Restored.
+- **Engagement classification** (changelog-internal): identity theorist (water=H₂O response) — Mode One (defective on its own terms; standard identity links two third-person sides, binding identity does not); functionalist (bidirectional-interaction tenet, theoretical landscape) — Mode Two (computational modelling concedes the explanatory gap restated); IIT (dissociations, theoretical landscape) — Mode Two (predictive success ≠ explanatory adequacy, defers to `consciousness-and-integrated-information` for fuller critique); eliminative materialist / MWI defender / Buddhist no-self — Mode Three honestly noted, not re-engaged (carried bedrock from predecessor reviews).
+- **Forbidden-label audit**: clean. No mode labels, no "Engagement classification:", no editor-vocabulary in article prose.
+- **Length status**: hard_warning carried (4719 words / 4000 hard threshold = 118%). Further condensation deferred to future review unless growth continues.
+- **Output**: [deep-review-2026-05-10-the-binding-problem](/reviews/deep-review-2026-05-10-the-binding-problem/)
+
+## 2026-05-10 14:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Source**: P0 task on convergent 2026-05-10 outer-review finding (Claude Opus 4.7 + Gemini 2.5 Pro both flag the mineness inference as inadequately defended in two complementary directions)
+- **Changes**: Added new section "Mineness: synchronic feature or diachronic identity-ground?" (~580 words) between "The Proustian Boundary" and "Relation to Site Perspective". Addresses both convergent gaps in a single section: (1) the synchronic→diachronic slide — engages Lane (2012), Guillot (2017), Howell & Thompson (2017), Dings (2022) by name, concedes that for-me-ness alone is too thin to ground numerical identity across experiences, and identifies haecceity (the "deep further fact") as the auxiliary metaphysical commitment that does the bridging work; explicit that the No-Many-Worlds inference requires the strong claim and runs through the haecceity auxiliary, not the phenomenology directly; (2) the modular-tag physicalist counter — names the dualist and modular-tag readings as both compatible with Klein–Nichols dissociation, identifies what would have to be true for the modular hypothesis to be a complete account (specifying what it is for the tag's output to feel like mine rather than function as a self-relevance marker), and shows physicalism's own commitment to mechanism demands the bridge that naming modular architecture does not supply. Honestly notes the residue as framework-boundary disagreement decided by the auxiliary commitment, not by the dissociation data. Added 4 new references (Dings citation flagged for human verification).
+- **Engagement classification** (changelog-internal): Lane / Guillot / Howell & Thompson / Dings on synchronic-vs-diachronic mineness — Mode One concession + Mode Three honest residue (their argument lands inside the phenomenological frame; the residual disagreement rests on the haecceity commitment they reject); modular-tag physicalist counter — Mixed Mode Two + Mode Three (Mode Two: physicalism's own mechanism standard demands the bridge from tag-function to felt-mineness, naming modular architecture does not supply it; Mode Three: the choice between readings is decided by the irreducibility-of-phenomenal-feel auxiliary, honestly noted as framework-boundary).
+- **Forbidden-label audit**: clean. No mode labels, no "Engagement classification:", no bold-headed "**Evidential status:**" in article prose.
+- **Convergent finding**: sixth flagging of direct-refutation-discipline structural weakness across outer reviews (after 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, 2026-05-10 Claude, 2026-05-10 Gemini).
+- **Published**: yes
+
+## 2026-05-10 14:13 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Source**: P1 todo task — convergent outer-review remit (2026-05-10 Claude + Gemini explicit, ChatGPT implicit via hostile-review-steelman P3)
+- **Changes**: Added new section "Pastness: phenomenal property or metacognitive/simulationist feeling?" (~720 words) engaging five named rivals — Perrin/Michaelian/Sant'Anna 2020 (metacognitive epistemic-feeling), Fernández 2019 (intentionalist), Dokic 2014 (two-tier), Matthen 2010 / Russell 2014 (affective phenomenology), Michaelian 2016 simulationism + DMN neuroimaging. For each rival the new section states the specific premise denied, gives a non-question-begging reply, and states what would change in the article if the rival is right. Closing paragraph notes honestly that the residue is closer to bedrock than first appeared. Anchored on the line-57 evidential-status hedge so the engagement does not slide into tenet-protective rebuttal. Added 7 new references.
+- **Engagement classification** (changelog-internal): Perrin metacognitive — Mode One (the metacognitive feeling is itself phenomenal); Fernández intentionalist — Mode One (felt difference between remembering and imagining unaccounted for by self-reflexivity alone); Dokic two-tier and Matthen/Russell affective — Mode One absorption (the phenomenal tier hospitable, affective phenomenology specifies rather than deflates); Michaelian simulationism — Mixed (opens with constrain-vs-establish in-framework, closes with empirically-defeasible boundary acknowledgment).
+- **Forbidden-label audit**: clean. No mode labels, no "Engagement classification:", no bold-headed "**Evidential status:**" in article prose.
+- **Convergent finding**: fifth flagging of label-based dismissal of opponents across outer reviews (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, 2026-05-10 Claude, 2026-05-10 Gemini).
+- **Published**: yes
+
+## 2026-05-10 14:05 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-10
+- **Coverage**: 3/3 reviewers processed (chatgpt-5-5-pro, claude-opus-4-7, gemini-2-5-pro)
+- **Subject**: queue → topics/phenomenology-of-memory-and-the-self.md (steered via outer-todo.md, all three services reviewed the same article — first three-way convergence test of the steered-subject pipeline)
+- **Clusters**: 3 convergent (1 three-way, 2 two-way), 7 singleton, 0 divergent
+- **Tasks deduplicated**: 3 (6 originating tasks → 3 merged P1s; gemini's P2 modular-brain effectively upgraded to P1 by merging into Claude's P1)
+- **Tasks upgraded**: 1 (Gemini's modular-brain P2 → merged into Claude's P1 mineness task)
+- **Convergent clusters**: (A) pastness quale vs metacognitive/simulationist deflation; (B) MWI rebuttal missing contemporary literature (MMI + Saunders-Wallace + Tappenden + Vaidman + Sebens-Carroll + Wilson); (C) mineness inference inadequately defended
+- **Output**: [outer-review-synthesis-2026-05-10](/reviews/outer-review-synthesis-2026-05-10/)
+
+## 2026-05-10 13:55 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-05-10-gemini-2-5-pro](/reviews/outer-review-2026-05-10-gemini-2-5-pro/)
+- **Subject**: queue → topics/phenomenology-of-memory-and-the-self.md (steered via outer-todo.md, third reviewer of the same subject this cycle)
+- **Recovery context**: original commission landed at the plan stage (Step-7 stopBtn false-positive — fixed in `5e5e8bd74`). Deep Research started manually at 13:18 UTC, completed at ~13:48, body extracted 40,191 chars.
+- **Claims verified**: 5 (no MMI page on site ✓, many-worlds-argument.md doesn't engage Lockwood/Sebens/Vaidman/Tappenden ✓, target article doesn't cite Michaelian ✓, "pastness quale" 7× in target ✓, atemporal-causation page exists — paradox is genuine ✓)
+- **High-value findings**: 7
+- **Tasks generated**: 6 (P1: 2, P2: 2, P3: 2)
+- **Convergence**: 2 of 6 tasks marked CONVERGENT with 2026-05-10 Claude (pastness vs metacognitive reduction; mineness physicalist counter). 1 of 6 references Claude's pending P1 for execution coordination (Sebens-Carroll/Vaidman engagement on many-worlds-argument.md). Fifth independent outer review to flag boundary-substitution / direct-refutation discipline as a structural weakness.
+- **New signals (Gemini-only)**: Many-Minds Interpretation (MMI) gap as the structural middle-ground bypassed by the Map's anti-MWI argument; atemporal-causation paradox vs pastness-quale linear-time framing; MQI empirical fragility; Mode Four (Empirical Underdetermination) methodological extension.
+
+## 2026-05-10 13:10 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Research mode, 141 sources, 10m 2s)
+- **File**: [outer-review-2026-05-10-claude-opus-4-7](/reviews/outer-review-2026-05-10-claude-opus-4-7/)
+- **Subject**: queue → topics/phenomenology-of-memory-and-the-self.md (steered via outer-todo.md, reused across all three services)
+- **Recovery context**: collect failed 5× during the 04:16–06:39 UTC window, evolve_loop stopped, and the conversation was recovered manually after debugging — Chrome's "Default browser" dialog had blocked the original automation runs. Body extracted via JS-DOM walk after a real OS-level click on the "View Referee Report" artifact tile.
+- **Claims verified**: 5 (article uses "pastness quale" terminology ✓, cites Klein & Nichols 2012 ✓, cites Patient KC ✓, does NOT engage Perrin/Sant'Anna/Michaelian/Fernández/Dokic — gap confirmed, does NOT cite Saunders-Wallace/Tappenden/Vaidman/Sebens-Carroll/Wilson — gap confirmed)
+- **High-value findings**: 6
+- **Tasks generated**: 6 (P1: 3, P2: 2, P3: 1)
+- **Convergence**: fourth independent outer review to flag label-based dismissal of opponents (boundary-substitution / direct-refutation discipline) as a structural weakness — convergent with 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude
 
 ## 2026-05-10 12:11 UTC - coalesce
 - **Status**: Success

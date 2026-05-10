@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-05-10 08:10:00+00:00
+ai_modified: 2026-05-10 16:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[phenomenal-consciousness]]'
 - '[[introspection]]'
+- '[[illusionism]]'
 created: 2026-02-18
 date: &id001 2026-02-21
 description: 'The problem of other minds generalises: if phenomenal properties are
@@ -29,6 +30,7 @@ related_articles:
 - '[[consciousness-and-social-understanding]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[epistemology-of-other-minds-under-dualism]]'
+- '[[apex/phenomenal-output-causal-machinery-dissociation]]'
 title: Consciousness and the Problem of Other Properties
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -87,7 +89,7 @@ This asymmetry resists dissolution from multiple directions. The functionalist m
 
 The Map rejects this dissolution. The [knowledge argument](/concepts/knowledge-argument/) and the [explanatory-gap](/concepts/explanatory-gap/) demonstrate that functional description leaves something out — and what it leaves out is precisely the phenomenal character at issue. Accepting functionalist dissolution requires either denying that Mary learns anything new upon seeing red or claiming that inverted spectra are incoherent. Both options carry a cost the Map's [dualism](/concepts/substance-property-dualism/) refuses to pay: abandoning qualia realism. If phenomenal properties are real and irreducible, then unknowable interpersonal differences are genuine, not merely verbal.
 
-A different challenge comes from contemplative traditions. If first-person access to phenomenal properties is itself less transparent than assumed — if careful introspective attention reveals that phenomenal states are less determinate than naive self-report suggests — then the asymmetry may be weaker than it appears. This is a genuine concern, but it cuts both ways: if our own phenomenal states are partially opaque to us, the interpersonal problem only deepens, because even the one form of access we have turns out to be incomplete.
+A different challenge comes from contemplative traditions. If first-person access to phenomenal properties is itself less transparent than assumed — if careful introspective attention reveals that phenomenal states are less determinate than naive self-report suggests — then the asymmetry may be weaker than it appears. This is a genuine concern, but it cuts both ways: if our own phenomenal states are partially opaque to us, the interpersonal problem only deepens, because even the one form of access we have turns out to be incomplete. The self-opacity face of this challenge is consolidated in the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/), where phenomenal access systematically reaches outputs but not the operations that produced them — the same structural pattern that locates the present article's interpersonal-access barrier within the Map's broader epistemic-limit infrastructure rather than treating it as a domain-specific puzzle.
 
 ## What Would Challenge This View?
 
@@ -95,7 +97,7 @@ The problem of other properties depends on the irreducibility of phenomenal char
 
 - **Functional role fixing phenomenal character.** If careful analysis showed that the complete causal-functional role of a mental state logically entails its qualitative character — that "same function, different quality" is incoherent rather than merely counterintuitive — the problem would dissolve. Phenomenal character would be intersubjectively knowable through functional analysis.
 - **Reliable phenomenal bridging.** If neural bridging technology (extending the Hogan twins' thalamic bridge case) enabled people to directly experience another's qualia and confirm phenomenal identity, the structural inaccessibility claim would become an empirical limitation rather than a principled barrier.
-- **Illusionism succeeding without regress.** If a formulation of illusionism could explain why qualitative character *seems* intrinsic and private without invoking further phenomenal states for the "seeming," the problem of other properties would lose its subject matter. There would be no intrinsic phenomenal properties to differ between minds.
+- **[Illusionism](/concepts/illusionism/) succeeding without regress.** If a formulation of illusionism could explain why qualitative character *seems* intrinsic and private without invoking further phenomenal states for the "seeming," the problem of other properties would lose its subject matter. There would be no intrinsic phenomenal properties to differ between minds. The [fuller treatment](/concepts/illusionism/) develops both the position's machinery and the regress problem that currently blocks it from supplying the structural relief this falsifier-condition would require.
 - **Contemplative convergence on constructed qualia.** If advanced practitioners across independent traditions uniformly reported that sustained examination reveals qualitative character as entirely constructed — with no irreducible residue — this would support the view that the "privacy" of phenomenal properties reflects cognitive architecture rather than genuine irreducibility.
 
 None of these conditions is currently met. Functional role continues to appear distinct from qualitative character; neural bridging remains speculative; illusionism faces the regress problem; and contemplative reports diverge on whether qualia survive deconstruction.
