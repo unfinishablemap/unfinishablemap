@@ -21,7 +21,7 @@ related_articles:
   - "[[self-maintained-cognitive-limits]]"
   - "[[self-opacity]]"
   - "[[necessary-opacity]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[mysterianism]]"
   - "[[tenets]]"
   - "[[ineffable-encounter-void]]"
@@ -75,7 +75,7 @@ Contemplative traditions have documented this class for centuries. The meditator
 
 Encountering a mutating thought has a distinctive phenomenology.
 
-There is the **shimmer**—a sense that something was there but shifted as attention reached for it. This resembles the [[phenomenology-of-the-edge|edge-experience]] but differs crucially: at the edge, something is absent. In mutation, something *was present and changed*. The [[ineffable-encounter-void]] documents a related phenomenon: resonance dissolves under analytical attention, not because the content mutates into something else but because the receptive mode that sustains it is incompatible with interrogation.
+There is the **shimmer**—a sense that something was there but shifted as attention reached for it. This resembles the [[edge-states-and-void-probes|edge-experience]] but differs crucially: at the edge, something is absent. In mutation, something *was present and changed*. The [[ineffable-encounter-void]] documents a related phenomenon: resonance dissolves under analytical attention, not because the content mutates into something else but because the receptive mode that sustains it is incompatible with interrogation.
 
 There is the **substitution**—the sudden recognition that you are thinking *about* a feeling rather than *having* it. The meta-level has replaced the object level without consent.
 
@@ -126,7 +126,7 @@ Current evidence favours structural instability. The convergence across contempl
 - [[self-opacity|introspective opacity]] — Why we access mental contents but never the mechanisms producing them
 - [[self-maintained-cognitive-limits]] — Systematic deflection from threatening content—distinct from involuntary transformation
 - [[necessary-opacity]] — Consciousness cannot verify its own accuracy, and self-knowledge can destabilise the system
-- [[phenomenology-of-the-edge]] — What consciousness encounters at its cognitive boundaries
+- [[edge-states-and-void-probes]] — What consciousness encounters at its cognitive boundaries
 - [[self-opacity|self-reference paradox]] — The observer that cannot observe itself—a structural source of mutation
 - [[mysterianism]] — Cognitive closure and why some limits may be permanent
 - [[voids]]

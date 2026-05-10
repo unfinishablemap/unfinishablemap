@@ -21,7 +21,7 @@ related_articles:
   - "[[observation-and-measurement-void]]"
   - "[[self-opacity]]"
   - "[[observation-and-measurement-void]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[acquaintance-void]]"
   - "[[sleep-consciousness-void]]"
   - "[[boundary-and-projection]]"
@@ -69,7 +69,7 @@ The Map's [[tenets#^dualism|dualist]] framework deepens this problem. If conscio
 
 Buddhist contemplative traditions offer the closest experiential approach to the void. Advanced practitioners report progressive simplification of experience—loss of body sense, temporal orientation, spatial location—until something remains that resists further reduction. Nirodha samāpatti, the "cessation of thought and feeling," represents the endpoint: a state from which practitioners return reporting nothing, experienced as a short "gap" or "cut" in consciousness (Laukkonen et al. 2023).
 
-This creates a tantalising phenomenological bracket. On one side, the progressively simplified awareness of deep meditation—the [[phenomenology-of-the-edge|edge-experience]] that Metzinger calls the "zero-person perspective." On the other side, the complete absence of cessation. Between them should lie the minimal conscious state: the first increment above zero.
+This creates a tantalising phenomenological bracket. On one side, the progressively simplified awareness of deep meditation—the [[edge-states-and-void-probes|edge-experience]] that Metzinger calls the "zero-person perspective." On the other side, the complete absence of cessation. Between them should lie the minimal conscious state: the first increment above zero.
 
 But the bracket cannot be closed. From above, the meditator cannot observe the transition without enriching it. From below, cessation offers nothing to report—the practitioner re-emerges with the conviction that consciousness stopped, but this conviction is itself a post-hoc construction added by the returning mind. Whether cessation represents genuine zero-consciousness or merely minimal consciousness with amnesia cannot be determined from within.
 
@@ -103,7 +103,7 @@ The minimal consciousness void aligns with the Map's [[tenets]] in several ways.
 - [[observation-and-measurement-void]] — How every method of studying consciousness transforms what it studies
 - [[observation-and-measurement-void]] — Why introspection cannot be verified against any independent standard
 - [[self-opacity|introspective opacity]] — Why we access mental contents but never the mechanisms producing them
-- [[phenomenology-of-the-edge]] — What consciousness encounters at its cognitive boundaries
+- [[edge-states-and-void-probes]] — What consciousness encounters at its cognitive boundaries
 - [[acquaintance-void]] — Modes of direct phenomenal contact structurally inaccessible to minds like ours
 - [[boundary-and-projection|The Boundary and Projection Void]] — The orthogonal void: spatial and functional extent rather than intensity
 - [[sleep-consciousness-void]] — Where consciousness goes during absence, and whether cessation is genuine zero

@@ -31,7 +31,7 @@ related_articles:
   - "[[what-voids-reveal]]"
   - "[[three-kinds-of-void]]"
   - "[[observation-and-measurement-void]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[vagueness-void]]"
   - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100

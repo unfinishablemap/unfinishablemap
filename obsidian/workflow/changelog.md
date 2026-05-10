@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T00:30:00+00:00
+ai_modified: 2026-05-10T00:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 00:41 UTC - refine-draft
+- **Status**: Success
+- **Scope**: Mechanical wikilink redirect after 00:19 UTC coalesce
+- **Files touched**: 60 (voids/, concepts/, topics/, apex/)
+- **Wikilinks updated**: 138 — `[[altered-states-as-void-probes...]]` and `[[phenomenology-of-the-edge...]]` (with display-text and section-anchor variants preserved) → `[[edge-states-and-void-probes...]]`
+- **Frontmatter `related_articles`**: 0 changes via the bare-slug path (existing entries used wikilink syntax and were updated through the wikilink rewriter); follow-up dedupe pass removed 5 duplicate `[[edge-states-and-void-probes]]` frontmatter entries (in `voids/anesthesia-void.md`, `voids/disappearance-voids.md`, `voids/ineffable-encounter-void.md`, `voids/self-maintained-cognitive-limits.md`, `voids/the-silence-void.md`) where both old slugs had been listed separately
+- **Preserved (intentionally not rewritten)**:
+  - Aliases in `voids/edge-states-and-void-probes.md` frontmatter (URL preservation for `/voids/altered-states-as-void-probes/` and `/voids/phenomenology-of-the-edge/`)
+  - Bibliographic citations in References sections (point at the original publications)
+  - Historical narrative in `concepts/coalesce-condense-apex-stability.md` (discusses the past attempt by its then-name)
+  - Research-note slug `voids-altered-states-as-void-probes-2026-02-03` in `topics/psychedelics-and-the-filter-model.md` (different namespace)
+  - `apex_sources` listings in `apex/taxonomy-of-voids.md` and `apex/apex-articles.md` (historical synthesis-input record, not a navigation field; out of scope per task spec)
+- **Published**: yes (no body re-reasoning; targeted slug redirect only)
 
 ## 2026-05-10 00:19 UTC - coalesce
 - **Status**: Success

@@ -105,7 +105,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is implicated becau
 - [[intentionality]] — The directedness of consciousness toward objects
 - [[temporal-consciousness]] — The specious present, retention, and protention
 - [[consciousness-and-the-phenomenology-of-place]] — How places are partly constituted by what is missing from them
-- [[phenomenology-of-the-edge]] — What consciousness encounters at its limits
+- [[edge-states-and-void-probes]] — What consciousness encounters at its limits
 
 ## References
 

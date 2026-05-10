@@ -18,7 +18,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[self-and-self-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[haecceity]]"
@@ -114,7 +114,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 **Cessation experiences**: *Nirodha samāpatti*—complete cessation of perception and feeling—can be voluntarily achieved while brain activity continues. This challenges the assumption that consciousness *is* neural activity, supporting the filter theory.
 
-**Minimal phenomenal experience**: Awareness without subject-object structure—non-conceptual, atemporal, yet vividly present—suggests awareness is more fundamental than any particular form it takes. See [[phenomenology-of-the-edge|The Phenomenology of the Edge]].
+**Minimal phenomenal experience**: Awareness without subject-object structure—non-conceptual, atemporal, yet vividly present—suggests awareness is more fundamental than any particular form it takes. See [[edge-states-and-void-probes|The Phenomenology of the Edge]].
 
 **Temporal microstructure**: Buddhist *khaṇika* (momentariness)—experience arising and passing in rapid succession—aligns with Husserl's phenomenological analysis, demonstrating empirical contemplative methods for investigating consciousness.
 
@@ -187,7 +187,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[vertiginous-question]] — Why am I *this* conscious being?
 - [[witness-consciousness]] — The *sakshi* tradition in Advaita Vedānta and Buddhist meditation
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing modes
-- [[phenomenology-of-the-edge]] — Minimal phenomenal experience and the zero-person perspective
+- [[edge-states-and-void-probes]] — Minimal phenomenal experience and the zero-person perspective
 - [[dream-consciousness]] — Dreams, lucid dreaming, and Tibetan dream yoga
 - [[lucid-dreaming-and-dualist-rendering]] — What lucid dreaming reveals about consciousness capabilities
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — The scientific research program bridging contemplative traditions and neuroscience

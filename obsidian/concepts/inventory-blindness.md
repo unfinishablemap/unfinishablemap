@@ -18,7 +18,7 @@ related_articles:
   - "[[parsimony-epistemology]]"
   - "[[voids]]"
   - "[[three-kinds-of-void]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[self-opacity]]"
   - "[[epistemology-of-limit-knowledge]]"
   - "[[meta-epistemology-of-limits]]"
@@ -97,7 +97,7 @@ Inventory blindness engages the Map's [[tenets]] at a fundamental level.
 - [[recognition-void]]
 - [[biological-cognitive-closure]]
 - [[parsimony-epistemology]]
-- [[phenomenology-of-the-edge]]
+- [[edge-states-and-void-probes]]
 - [[self-opacity|introspective opacity]]
 - [[epistemology-of-limit-knowledge]]
 - [[adaptive-cognitive-limits|adaptive cognitive limits]] — Why evolution produces and maintains the blind spots inventory blindness conceals

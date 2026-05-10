@@ -13,7 +13,7 @@ concepts:
   - "[[qualia]]"
   - "[[concepts/materialism]]"
   - "[[explanatory-gap]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[illusionism]]"
   - "[[combination-problem]]"
   - "[[introspection]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[causal-interface]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[collective-cognitive-limits]]"
-  - "[[altered-states-as-void-probes]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
@@ -116,9 +116,9 @@ Property P may be the intrinsic categorical nature of matter. If so, cognitive c
 
 ## The Phenomenology of Cognitive Closure
 
-What does it feel like to approach a cognitive limit? The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] provides a diagnostic framework: different limits produce different felt qualities, from frustration (architectural limits) through satisfaction (adaptive limits) to illusory comprehension (the deepest adaptive constraints). The [[phenomenology-of-the-edge|edge-phenomenology]] maps this at the experiential level—consistent features appear across contemplation, psychedelics, and philosophical inquiry: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity.
+What does it feel like to approach a cognitive limit? The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] provides a diagnostic framework: different limits produce different felt qualities, from frustration (architectural limits) through satisfaction (adaptive limits) to illusory comprehension (the deepest adaptive constraints). The [[edge-states-and-void-probes|edge-phenomenology]] maps this at the experiential level—consistent features appear across contemplation, psychedelics, and philosophical inquiry: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity.
 
-McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. [[altered-states-as-void-probes|Altered states research]] sharpens the question: do extraordinary states *transcend* cognitive closure or merely *approach* it? If they consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn. The [[ineffable-encounter-void]] provides a paradigm case: numinous experience produces profound certainty of contact with transcendent reality while simultaneously dismantling the reflective self-awareness needed to evaluate that certainty. Cognitive closure has a phenomenology, and that phenomenology is data.
+McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. [[edge-states-and-void-probes|Altered states research]] sharpens the question: do extraordinary states *transcend* cognitive closure or merely *approach* it? If they consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn. The [[ineffable-encounter-void]] provides a paradigm case: numinous experience produces profound certainty of contact with transcendent reality while simultaneously dismantling the reflective self-awareness needed to evaluate that certainty. Cognitive closure has a phenomenology, and that phenomenology is data.
 
 ## What the Limits Reveal
 
@@ -194,7 +194,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[meta-epistemology-of-limits]] — The meta-level question: how can we know our limits?
 - [[closure-types-void]] — Representational vs psychological closure, and the void behind the distinction
 - [[what-voids-reveal]] — How cognitive limits reveal cognitive architecture
-- [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside
+- [[edge-states-and-void-probes]] — What cognitive closure feels like from the inside
 - [[hard-problem-of-consciousness]] — The problem mysterians think is unsolvable
 - [[explanatory-gap]] — The conceptual gap that may reflect cognitive closure
 - [[illusionism]] — The rival view that consciousness isn't real

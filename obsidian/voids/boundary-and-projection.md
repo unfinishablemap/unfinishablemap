@@ -27,7 +27,7 @@ related_articles:
   - "[[minimal-consciousness-void]]"
   - "[[self-opacity]]"
   - "[[what-voids-reveal]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[expertise-occlusion]]"
   - "[[observation-and-measurement-void]]"
   - "[[ownership-void]]"
@@ -172,7 +172,7 @@ Current evidence favours structural opacity. Convergence across phenomenology (H
 - [[embodiment-cognitive-limits]] — How embodiment shapes what can be thought, and what extending beyond the body does to those limits
 - [[consciousness-epistemology-extended-cognition]] — Why functional extension (cognition) does not entail phenomenal extension (consciousness)
 - [[what-voids-reveal]] — How boundaries illuminate architecture
-- [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
+- [[edge-states-and-void-probes]] — What approaching cognitive limits feels like
 
 ## References
 

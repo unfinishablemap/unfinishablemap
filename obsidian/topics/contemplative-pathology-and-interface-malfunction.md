@@ -22,7 +22,7 @@ related_articles:
   - "[[attention-and-the-consciousness-interface]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[consciousness-and-neurodegenerative-disease]]"
-  - "[[altered-states-as-void-probes]]"
+  - "[[edge-states-and-void-probes]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -95,7 +95,7 @@ The [[tenets#^minimal-quantum-interaction|minimal quantum interaction tenet]] su
 - [[clinical-phenomenology-and-altered-experience]]
 - [[anaesthesia-and-the-consciousness-interface]]
 - [[interface-friction]]
-- [[altered-states-as-void-probes]]
+- [[edge-states-and-void-probes]]
 - [[attention-and-the-consciousness-interface]]
 - [[attention-disorders-and-consciousness]] — The epistemological void when attention itself is disordered
 

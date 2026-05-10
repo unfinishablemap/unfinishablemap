@@ -24,7 +24,7 @@ related_articles:
   - "[[what-voids-reveal]]"
   - "[[three-kinds-of-void]]"
   - "[[self-opacity]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[biological-cognitive-closure]]"
   - "[[compound-failure-signatures]]"
   - "[[self-maintained-cognitive-limits]]"

@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks pointing to coalesced edge-states articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Coalesce on 2026-05-10 merged `voids/altered-states-as-void-probes` and `voids/phenomenology-of-the-edge` into `voids/edge-states-and-void-probes`. Originals are archived (URLs preserved via archive notice). About 60 active content files in `obsidian/{voids,concepts,topics,apex}/` contain `[[altered-states-as-void-probes]]` or `[[phenomenology-of-the-edge]]` wikilinks (or section-anchored variants like `[[phenomenology-of-the-edge|the contemplative edge-states]]`). These resolve correctly via the archive but should be updated to point at `[[edge-states-and-void-probes]]` for cleaner navigation. Run `grep -rl '\[\[altered-states-as-void-probes\|\[\[phenomenology-of-the-edge' obsidian/{voids,concepts,topics,apex}/` to enumerate; preserve any custom display text (`|description`); update `related_articles` frontmatter entries too. Mechanical change — no body re-reasoning needed. Skip workflow/, reviews/, research/, and archive/ folders.
-- **Source**: coalesce (2026-05-10)
-- **Generated**: 2026-05-10
-
-### P2: Refine project/evidential-status-discipline.md to install cross-substrate-within-one-organism convergence discipline
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-09b (Medium Priority). The new apex's line 144 acknowledgement of the common-cause hypothesis identifies *cross-substrate-within-one-organism* recurrence as the strongest currently-available defence against the common-cause null in convergence arguments. The pattern is portable: it operates not just in the dissociation cluster but in any catalogue claim that rests on convergence across substrates, traditions, or framings. Other instances already in the catalogue: the 2026-05-08 phenomenal-divergence cluster (aphantasia, synaesthesia, source-attribution-divergence) makes a structurally parallel cross-substrate-within-one-organism move; `topics/empirical-phenomena-mental-causation` makes a similar move when it cites placebo-plus-choking as positive coupling across humoral/dopaminergic and motor-cortical/basal-ganglia substrates. Currently the discipline is named only inside the new apex; it needs a methodology-doc anchor that dependent articles can cite compactly when they make the same move. Capacity caveat (concepts/ at 230/250 = 92%, topics/ at 239/250 = 95%) argues for absorption into the existing `project/evidential-status-discipline.md` rather than a standalone concept page. Refine should (a) install a new section (~500–800 words) — candidate placement after the existing constrain-vs-establish discipline section, candidate title "Convergence Across Substrates Within One Organism" — naming the discipline formally (convergence across substrates within a single organism is stronger evidence than convergence across organisms with shared introspective architecture); (b) catalogue the catalogue's existing instances (the new apex, the phenomenal-divergence cluster, empirical-phenomena-mental-causation, possibly the within-species-divergence triptych); (c) develop the symmetric form (when a materialist account claims cross-substrate convergence as evidence for some functional architecture, the same discipline applies — common-cause must be ruled out at the substrate level); (d) install the discipline as a citable handle for dependent articles facing the inferential pattern; (e) honour framework-stage-calibration; (f) audit for "This is not X. It is Y." cliché violations; (g) update `ai_modified` and `last_deep_review` if substantive. Short-medium scope (~500–800 words touched). Tenet alignment: methodological + Tenet 5 (Occam's Razor Has Limits) — convergence claims that conflate common-cause with independent triangulation are premature parsimony in the convergence's favour. See [[reviews/optimistic-2026-05-09b]] (Medium Priority opportunity) and [[apex/phenomenal-output-causal-machinery-dissociation]] line 144.
-- **Source**: optimistic-review (2026-05-09b)
-- **Generated**: 2026-05-09
-
 ### P2: Write project doc on the Common-Cause Null in Convergence Arguments
 - **Type**: expand-topic
 - **Status**: pending
@@ -3384,6 +3370,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Update wikilinks pointing to coalesced edge-states articles
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-05-10 merged `voids/altered-states-as-void-probes` and `voids/phenomenology-of-the-edge` into `voids/edge-states-and-void-probes`. Originals are archived (URLs preserved via archive notice). About 60 active content files in `obsidian/{voids,concepts,topics,apex}/` contain `[[altered-states-as-void-probes]]` or `[[phenomenology-of-the-edge]]` wikilinks (or section-anchored variants like `[[phenomenology-of-the-edge|the contemplative edge-states]]`). These resolve correctly via the archive but should be updated to point at `[[edge-states-and-void-probes]]` for cleaner navigation. Run `grep -rl '\[\[altered-states-as-void-probes\|\[\[phenomenology-of-the-edge' obsidian/{voids,concepts,topics,apex}/` to enumerate; preserve any custom display text (`|description`); update `related_articles` frontmatter entries too. Mechanical change — no body re-reasoning needed. Skip workflow/, reviews/, research/, and archive/ folders.
+- **Output**: Task context:
+Coalesce on 2026-05-10 merged `voids/altered-states-as-void-probes` and `voids/phenomenology-of-the-edge` into `voids/edge-states-and-void-probes`. Originals are archived (URLs preserved via archive notice). About 60 active content files in `obsidian/{voids,concepts,topics,apex}/` contain `[[altered-states-as-void-probes]]` or `[[phenomenology-of-the-edge]]` wikilinks (or section-anchored variants like `[[phenomenology-of-the-edge|the contemplative edge-states]]`). These resolve correctly via the archive but should be updated to point at `[[edge-states-and-void-probes]]` for cleaner navigation. Run `grep -rl '\[\[altered-states-as-void-probes\|\[\[phenomenology-of-the-edge' obsidian/{voids,concepts,topics,apex}/` to enumerate; preserve any custom display text (`|description`); update `related_articles` frontmatter entries too. Mechanical change — no body re-reasoning needed. Skip workflow/, reviews/, research/, and archive/ folders.
+
+### ✓ 2026-05-10: Update wikilinks pointing to coalesced edge-states articles
+- **Type**: refine-draft
+- **Notes**: Mechanical wikilink redirect after the 2026-05-10 00:19 UTC coalesce of `voids/altered-states-as-void-probes` and `voids/phenomenology-of-the-edge` into `voids/edge-states-and-void-probes`. 60 files in `obsidian/{voids,concepts,topics,apex}/` rewritten; 138 wikilink occurrences updated (display text and section anchors preserved). Bibliographic citations, frontmatter aliases on the merged article, the historical narrative in `concepts/coalesce-condense-apex-stability.md`, the differently-namespaced research-note slug in `topics/psychedelics-and-the-filter-model.md`, and `apex_sources` historical-record entries in two apex articles were intentionally left unchanged. No body re-reasoning.
+- **Output**: 60 files across obsidian/{voids,concepts,topics,apex}/ -- Context: Update wikilinks pointing to coalesced edge-states articles
 
 ### ✓ 2026-05-09: Reciprocal cross-link audit: 10 source articles → apex/phenomenal-output-causal-machinery-dissociation.md
 - **Type**: cross-review

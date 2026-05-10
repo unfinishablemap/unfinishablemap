@@ -99,7 +99,7 @@ Thomas Metzinger's research on Minimal Phenomenal Experience (MPE) bridges conte
 
 Gamma and Metzinger's 2022 study investigated "objectless awareness" during sleep. Participants reported "No Scenery/Void" periods following dissolving lucid dreams, characterised by "minimal sense of self—a bodiless self, yet experienced as being 'somewhere'—the presence of non-modal sensations, relatively pleasant emotions, an absence of visual experience." A separate micro-phenomenological study (Alcaraz et al., 2021) documented similar "awareness in the void" reports.
 
-Yoga nidra practitioners aim to maintain awareness through the sleep transition—an approach that functions as what the Map calls an [[altered-states-as-void-probes|altered-state void probe]]. EEG studies show high gamma-band activity (typically associated with waking consciousness) during states otherwise resembling deep sleep. These findings do not prove ordinary sleepers maintain awareness, but they demonstrate the boundary between consciousness and its apparent absence is more permeable than the simple on/off model suggests.
+Yoga nidra practitioners aim to maintain awareness through the sleep transition—an approach that functions as what the Map calls an [[edge-states-and-void-probes|altered-state void probe]]. EEG studies show high gamma-band activity (typically associated with waking consciousness) during states otherwise resembling deep sleep. These findings do not prove ordinary sleepers maintain awareness, but they demonstrate the boundary between consciousness and its apparent absence is more permeable than the simple on/off model suggests.
 
 ## Converging Evidence
 

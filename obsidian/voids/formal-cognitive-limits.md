@@ -107,7 +107,7 @@ A further axis distinguishes these formal limits from the [[vagueness-void|vague
 
 ## Phenomenology of the Edge
 
-Approaching these limits has a distinctive phenomenology, distinct from the [[phenomenology-of-the-edge|contemplative edge-states]] explored elsewhere.
+Approaching these limits has a distinctive phenomenology, distinct from the [[edge-states-and-void-probes|contemplative edge-states]] explored elsewhere.
 
 **Infinite regress.** Verifying a system's consistency requires a meta-system, which requires a meta-meta-system. The tower never grounds itself—the vertigo of self-validation. The [[recursion-void]] reveals a parallel limit: the tower of "thinking about thinking..." collapses around fifth order.
 

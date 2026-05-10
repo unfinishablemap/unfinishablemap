@@ -27,7 +27,7 @@ related_articles:
   - "[[tenets]]"
   - "[[meditation-observer-witness-phenomenon-2026-01-18]]"
   - "[[eastern-philosophy-consciousness]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[witnessing-void]]"
@@ -108,7 +108,7 @@ The witness mode extends rather than contradicts [[tenets#^bidirectional-interac
 
 Research identifies *decentering* as the metacognitive capacity witnessing cultivates: meta-awareness, disidentification from mental contents, and reduced reactivity. Neurally, this involves a "dorsal shift" from the Default Mode Network to the Central Executive Network—but unlike concentration (which suppresses the DMN), witnessing lets the DMN simply disengage. The witness steps back from the self-narrative rather than fighting it.
 
-Thomas Metzinger's research on *minimal phenomenal experience* explores what remains when the phenomenal self-model is stripped away entirely—a "zero-person perspective" where awareness continues without subject-object structure. This extends rather than contradicts the witness concept: if consciousness can operate stripped of all content yet remain vividly aware, awareness itself is more fundamental than any structure it takes. See [[phenomenology-of-the-edge|The Phenomenology of the Edge]] for detailed treatment.
+Thomas Metzinger's research on *minimal phenomenal experience* explores what remains when the phenomenal self-model is stripped away entirely—a "zero-person perspective" where awareness continues without subject-object structure. This extends rather than contradicts the witness concept: if consciousness can operate stripped of all content yet remain vividly aware, awareness itself is more fundamental than any structure it takes. See [[edge-states-and-void-probes|The Phenomenology of the Edge]] for detailed treatment.
 
 ## Neural Correlates
 
@@ -197,7 +197,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 - [[witnessing-void]] — The first-order impossibility of witnessing examining its own occurrent operation
 - [[self-reference-paradox]] — Gödelian structural limits on self-knowledge
 - [[buddhism-and-dualism]] — Irreducibility without permanence
-- [[phenomenology-of-the-edge]] — Minimal phenomenal experience
+- [[edge-states-and-void-probes]] — Minimal phenomenal experience
 - [[hypnagogic-phenomenology-and-interface-modulation]] — Sleep-onset phenomenology and the witness during interface transitions
 - [[meditation-and-consciousness-modes]] — Two modes of consciousness in meditation
 - [[self-and-self-consciousness]] — Minimal self and narrative self

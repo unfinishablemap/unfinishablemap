@@ -45,7 +45,7 @@ related_articles:
   - "[[sleep-consciousness-void]]"
   - "[[disappearance-voids]]"
   - "[[three-kinds-of-void]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[research/voids-recurrence-void-2026-05-05]]"
   - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100

@@ -27,7 +27,7 @@ related_articles:
   - "[[what-voids-reveal]]"
   - "[[agency-void]]"
   - "[[phenomenal-quality-void]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[phenomenology-of-linguistic-failure]]"
   - "[[apophatic-cartography]]"
   - "[[mutation-void]]"
@@ -152,7 +152,7 @@ The occlusion claim would be undermined if:
 2. **Training eliminates systematic slippage or generation-opacity.** Practitioners never lose consciousness insights or directly witness their own thought-assembly. Current evidence: training extends edge-territory rather than stabilising it.
 3. **AI successfully articulates slippery content.** Produces stable articulations humans find genuinely satisfying—not confabulated fluency but explanatory closure.
 4. **All slippage and spontaneity trace to content-blind mechanisms.** MCH neurons, retrieval interference, and associative dynamics fully explain arrival and departure regardless of content.
-5. **Cross-cultural divergence.** Different cultures report different content as slippery. Current evidence: cross-tradition convergence on edge-phenomenology (see [[phenomenology-of-the-edge]]).
+5. **Cross-cultural divergence.** Different cultures report different content as slippery. Current evidence: cross-tradition convergence on edge-phenomenology (see [[edge-states-and-void-probes]]).
 
 The evidence for content-specific opacity remains suggestive rather than conclusive—falsifiable rather than dogmatic.
 
@@ -174,7 +174,7 @@ The evidence for content-specific opacity remains suggestive rather than conclus
 - [[imagination-and-creativity-void]] — The related void concerning creative insight's hidden origins
 - [[self-opacity|Introspective Opacity]] — Why we cannot observe our own cognitive processes
 - [[mutation-void]] — Where pre-attended content transforms rather than vanishes under observation
-- [[phenomenology-of-the-edge]] — What consciousness encounters at its boundaries
+- [[edge-states-and-void-probes]] — What consciousness encounters at its boundaries
 - [[sleep-consciousness-void]] — The bidirectional void between waking and dreaming
 - [[attention-and-consciousness]] — How attending generates unattendable territory
 - [[mysterianism]] — McGinn's analysis of structural limits

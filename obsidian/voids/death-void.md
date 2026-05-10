@@ -21,7 +21,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[origin-of-consciousness]]"
   - "[[self-opacity]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[inaccessible-past]]"
   - "[[consciousness-only-territories]]"
   - "[[death-and-consciousness]]"
@@ -155,7 +155,7 @@ The death void connects directly to the Map's [[tenets|foundational commitments]
 - [[three-kinds-of-void]] — The taxonomy: unexplored, unexplorable, occluded
 - [[origin-of-consciousness]] — The prior void: why consciousness exists at all
 - [[self-opacity|self-reference paradox]] — Related structural obstacle to self-examination
-- [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
+- [[edge-states-and-void-probes]] — What approaching cognitive limits feels like
 - [[inaccessible-past]] — The discontinuity of personal identity over time
 - [[void-as-ground-of-meaning]] — Why the death void is not merely a limit but a precondition for temporal meaning
 - [[boundary-and-projection]] — The parallel structural impossibility: consciousness cannot locate its spatial boundaries or observe the shifts by which it extends, just as it cannot represent its temporal end

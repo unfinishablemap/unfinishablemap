@@ -23,7 +23,7 @@ related_articles:
   - "[[transit-void]]"
   - "[[thoughts-that-slip-away]]"
   - "[[self-opacity]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[what-voids-reveal]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[attention-and-the-consciousness-interface]]"
@@ -143,7 +143,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [[disappearance-voids|The Habituation Void]] — A related void where familiarity, not attention, erases experience
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Related phenomenology of cognitive slippage
 - [[self-opacity|The Unobservable Self]] — The observer who cannot observe itself observing
-- [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
+- [[edge-states-and-void-probes|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[contemplative-pathology-and-interface-malfunction]] — What happens when meditation pushes the interface beyond its limits
 - [[three-kinds-of-void]] — The taxonomy of unknowable territories
 - [[what-voids-reveal|What the Limits Reveal]] — How cognitive limits illuminate architecture

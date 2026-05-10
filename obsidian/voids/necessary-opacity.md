@@ -30,7 +30,7 @@ related_articles:
   - "[[phenomenal-quality-void]]"
   - "[[compound-failure-signatures]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[observation-and-measurement-void]]"
   - "[[mutation-void]]"
   - "[[narrative-void]]"
@@ -165,7 +165,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[mutation-void]] — When the act of attending transforms the content attended to
 - [[self-maintained-cognitive-limits|Defended Territory]] — Active blocking of cognitive access
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage
-- [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — Limit-experiences across traditions
+- [[edge-states-and-void-probes|The Phenomenology of the Edge]] — Limit-experiences across traditions
 - [[meta-epistemology-of-limits]] — Whether cognitive limits are permanent or merely current
 - [[what-voids-reveal]] — How boundaries illuminate architecture
 - [[observation-and-measurement-void|The Calibration Void]] — Introspection lacks independent calibration standards

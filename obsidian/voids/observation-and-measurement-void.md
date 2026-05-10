@@ -26,7 +26,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[apophatic-approaches]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[constitutive-exclusion]]"
   - "[[compound-failure-signatures]]"
   - "[[mutation-void]]"
@@ -157,7 +157,7 @@ The [[constitutive-exclusion]] develops a further insight: consciousness does no
 - [[intrinsic-nature-void]] — What matter and consciousness are in themselves, beneath structure and experience
 - [[voids-between-minds]] — Whether experiences can be genuinely shared
 - [[necessary-opacity]] — Consciousness cannot verify its own accuracy, and piercing this opacity destabilises the system
-- [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
+- [[edge-states-and-void-probes]] — What approaching cognitive limits feels like
 - [[consciousness-and-the-problem-of-measurement-standards]] — The formal triad that physical measurement requires and consciousness lacks
 - [[self-reference-paradox]] — The general structural feature: examining an apparatus requires using it, with weak and strong forms
 - [[witnessing-void]] — Witnessing cannot make itself an object: the constitutive centre to this methodological perimeter

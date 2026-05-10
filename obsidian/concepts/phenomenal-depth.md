@@ -27,7 +27,7 @@ concepts:
 related_articles:
   - "[[visual-consciousness]]"
   - "[[pain-consciousness-and-causal-power]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[unity-of-consciousness]]"
   - "[[aesthetics-and-consciousness]]"
 ai_contribution: 100
@@ -97,7 +97,7 @@ The Map does not claim that phenomenal depth is fully understood. Rather, it hol
 - [[phenomenology-of-intellectual-life]]
 - [[pain-consciousness-and-causal-power]]
 - [[aesthetics-and-consciousness]]
-- [[phenomenology-of-the-edge]]
+- [[edge-states-and-void-probes]]
 - [[mysterianism]]
 
 ## References

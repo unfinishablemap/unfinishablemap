@@ -17,7 +17,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[three-kinds-of-void]]"
   - "[[apophatic-cartography]]"
   - "[[biological-cognitive-closure]]"
@@ -51,7 +51,7 @@ This argument is locally successful against one reading and not the other. If cl
 
 Maarten Vlerick and Maarten Boudry press from the other side (Vlerick & Boudry 2017). McGinn's case, they argue, only demonstrates psychological difficulty — we have not cracked the hard problem — and this does not establish principled representational closure. Historical examples look like the current situation: vitalism, action-at-a-distance, and quantum non-locality's early intelligibility crisis all appeared, at the time, to involve principled conceptual limits. Each later yielded to new conceptual resources. Inferring representational closure from psychological closure is, for them, a hasty generalisation.
 
-Two arguments, symmetric in structure: Kriegel tries to collapse representational into psychological via the posability of the question; Vlerick and Boudry warn against collapsing psychological into representational via the long horizon of conceptual development. Both collapses fail. The distinction survives both attacks, and existing Map articles that quietly relied on it — [[phenomenology-of-the-edge]] and [[meta-epistemology-of-limits]] — can now use it under its own name.
+Two arguments, symmetric in structure: Kriegel tries to collapse representational into psychological via the posability of the question; Vlerick and Boudry warn against collapsing psychological into representational via the long horizon of conceptual development. Both collapses fail. The distinction survives both attacks, and existing Map articles that quietly relied on it — [[edge-states-and-void-probes]] and [[meta-epistemology-of-limits]] — can now use it under its own name.
 
 ## Classifying the Voids
 
@@ -94,7 +94,7 @@ For the voids catalogue as a whole, the consequence is a reframing. The catalogu
 ## Further Reading
 
 - [[meta-epistemology-of-limits]] — How cognitive limits can be known from within, and why prediction of dissolution is unstable
-- [[phenomenology-of-the-edge]] — The experiential texture of hitting cognitive walls
+- [[edge-states-and-void-probes]] — The experiential texture of hitting cognitive walls
 - [[mysterianism]] — The McGinn-lineage concept page and its variants
 - [[three-kinds-of-void]] — The unexplored / unexplorable / occluded taxonomy
 - [[apophatic-cartography]] — Methods for mapping what cannot be said directly

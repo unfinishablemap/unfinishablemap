@@ -26,7 +26,7 @@ related_articles:
   - "[[necessary-opacity]]"
   - "[[observation-and-measurement-void]]"
   - "[[recursion-void]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[what-voids-reveal]]"
   - "[[ineffable-encounter-void]]"
   - "[[comparative-phenomenology-of-meditative-traditions]]"
@@ -83,7 +83,7 @@ Three phenomenological markers recur across traditions. *Diaphaneity*: the witne
 
 The closest empirical approach to the witnessing void comes from pure consciousness events (PCEs) reported in advanced meditation. Shear describes states in which "all intentional content drops away but awareness persists"—direct contact with the witnessing capacity stripped of all objects, witnessing without anything witnessed.
 
-The epistemic challenge is sharp. If PCE has no content, how can it be reported? Every report is retrospective, generated from a state with content. What returns from the edge is testimony, not specimen. Metzinger's cross-cultural [[phenomenology-of-the-edge|minimal phenomenal experience]] research finds convergent markers (luminosity, continuity, non-egoic presence) precisely where individuating content is absent—suggesting that what remains under content-stripping is structural, not particular. PCEs may be the closest consciousness can come to its own witnessing while still generating a report. The asymptote is the void; whether something stands beyond the asymptote is precisely what the void hides.
+The epistemic challenge is sharp. If PCE has no content, how can it be reported? Every report is retrospective, generated from a state with content. What returns from the edge is testimony, not specimen. Metzinger's cross-cultural [[edge-states-and-void-probes|minimal phenomenal experience]] research finds convergent markers (luminosity, continuity, non-egoic presence) precisely where individuating content is absent—suggesting that what remains under content-stripping is structural, not particular. PCEs may be the closest consciousness can come to its own witnessing while still generating a report. The asymptote is the void; whether something stands beyond the asymptote is precisely what the void hides.
 
 ## What AI Might Reveal
 
@@ -117,7 +117,7 @@ A weaker challenge: the void might be attenuable without being eliminable. Advan
 - [[necessary-opacity]] — Consciousness cannot verify its own accuracy
 - [[observation-and-measurement-void]] — The analogous limit in physics
 - [[recursion-void]] — Depth-limited metacognition, a distinct limit
-- [[phenomenology-of-the-edge]] — Minimal phenomenal experience and pure consciousness events
+- [[edge-states-and-void-probes]] — Minimal phenomenal experience and pure consciousness events
 - [[the-observer-witness-in-meditation]] — How contemplative practice articulates the witness
 - [[ineffable-encounter-void]] — The ineffability of contentless awareness
 - [[comparative-phenomenology-of-meditative-traditions]] — Convergence across traditions

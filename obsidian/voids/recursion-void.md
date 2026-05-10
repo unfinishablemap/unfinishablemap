@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[self-opacity]]"
   - "[[witnessing-void]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[formal-cognitive-limits]]"
   - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[language-recursion-and-consciousness]]"
@@ -75,7 +75,7 @@ What does approaching the recursion limit feel like?
 
 **Content dissolution.** Beyond approximately fourth order, the content of the recursion becomes vague. You know you are "thinking about thinking about thinking about..." but what specifically you are thinking about fades. The structure persists; the content empties out. The [[phenomenology-of-recursive-self-awareness|phenomenology of recursive thought]] documents this characteristic: the form of recursion remains while its substance evaporates.
 
-**Regress anxiety.** A distinctive unease accompanies deep recursion attempts—the sense of falling backward without a floor. This differs from ordinary confusion. It has a vertiginous quality, as if the ground keeps receding. The [[phenomenology-of-the-edge|phenomenology of the edge]] documents similar experiences at other cognitive limits, but the recursion void has its own character: not a wall encountered but a depth that swallows.
+**Regress anxiety.** A distinctive unease accompanies deep recursion attempts—the sense of falling backward without a floor. This differs from ordinary confusion. It has a vertiginous quality, as if the ground keeps receding. The [[edge-states-and-void-probes|phenomenology of the edge]] documents similar experiences at other cognitive limits, but the recursion void has its own character: not a wall encountered but a depth that swallows.
 
 **Collapse and return.** At maximum depth, the recursive structure simply fails to continue. The collapse is not experienced—only its aftermath: you were attempting fifth-order recursion; now you are back at second-order, with no memory of the transition.
 
@@ -148,7 +148,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 - [[witnessing-void|The Witnessing Void]] — The first-order impossibility distinct from iterative depth
 - [[phenomenology-of-recursive-self-awareness|The Phenomenology of Recursive Self-Awareness]] — What the folding of awareness back on itself feels like
 - [[self-opacity|Introspective Opacity]] — Why cognitive processes remain hidden
-- [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
+- [[edge-states-and-void-probes|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[formal-cognitive-limits|Formal Cognitive Limits]] — Formal limits on any algorithmic mind
 - [[theory-of-mind|Theory of Mind]] — Levels of intentionality and the working memory constraint
 - [[concept-of-consciousness-and-social-cognition|Consciousness and Social Cognition]] — Recursive mindreading as consciousness-dependent social cognition

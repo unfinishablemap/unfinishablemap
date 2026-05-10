@@ -17,7 +17,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[metacognition]]"
   - "[[self-and-self-consciousness]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[apophatic-approaches]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[collective-cognitive-limits]]"
   - "[[void-as-ground-of-meaning]]"
   - "[[boundary-and-projection]]"
@@ -136,7 +136,7 @@ Individual voids might dissolve—a neuroscientific breakthrough could close the
 
 ## Phenomenology of the Edge
 
-Approaching cognitive limits has a distinctive phenomenology, treated in detail under [[phenomenology-of-the-edge]]. Five features recur: the *dissolving insight* (grasping that limits reveal structure is itself unstable—see [[thoughts-that-slip-away]]); *recognition without comprehension* (the gap is visible even when its contents are not, with [[boundary-and-projection]] providing a concrete case); the *vertigo of meta-inquiry* (wonder *at* wondering); the *sense of evidential significance* that persists even when unarticulated; and the *frustration of circularity* (every attempt to step outside the question lands inside it).
+Approaching cognitive limits has a distinctive phenomenology, treated in detail under [[edge-states-and-void-probes]]. Five features recur: the *dissolving insight* (grasping that limits reveal structure is itself unstable—see [[thoughts-that-slip-away]]); *recognition without comprehension* (the gap is visible even when its contents are not, with [[boundary-and-projection]] providing a concrete case); the *vertigo of meta-inquiry* (wonder *at* wondering); the *sense of evidential significance* that persists even when unarticulated; and the *frustration of circularity* (every attempt to step outside the question lands inside it).
 
 The [[erasure-void]] shows the limiting case: when monitoring infrastructure shares fate with the capacities it monitors, loss can register no phenomenal signal at all. Some voids announce themselves; others operate without any felt edge.
 
@@ -194,7 +194,7 @@ After millennia of inquiry, the hard problem remains puzzling. Cross-cultural co
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis
 - [[self-opacity]] — Where consciousness cannot map because it is the mapper
 - [[apophatic-cartography]] — Formalising the method with evidential standards
-- [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
+- [[edge-states-and-void-probes]] — What approaching cognitive limits feels like
 - [[meta-epistemology-of-limits]] — Whether the pattern tracks something genuine
 - [[epistemology-of-limit-knowledge]] — How knowledge about cognitive limits is warranted
 - [[compound-failure-signatures]] — The failure-signature taxonomy

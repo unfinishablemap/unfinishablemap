@@ -29,7 +29,7 @@ related_articles:
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[compound-failure-signatures]]"
   - "[[conceptual-impossibility]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[mind-space-void]]"
   - "[[expertise-void]]"
   - "[[self-opacity]]"
@@ -65,7 +65,7 @@ Chomsky articulates the principle: any biological organism gains cognitive *scop
 
 The **bias blind spot** — seeing bias in others but not oneself — appears in every tested population across continents. It shows no association with cognitive ability and resists correction through instruction. The phenomenology is distinctive: persistent clarity about *others'* distortions while blind to one's own.
 
-**Mystical ineffability** shows consistent cross-cultural structure. Hood's Mysticism Scale reveals the same three-factor pattern across American Christians, Iranian Muslims, Indian Hindus, and East Asian Buddhists. The ineffability factor — mystical experience "defying expression" — appears regardless of metaphysics, goals, or historical contact. This connects to the [[phenomenology-of-the-edge|phenomenology of the edge]].
+**Mystical ineffability** shows consistent cross-cultural structure. Hood's Mysticism Scale reveals the same three-factor pattern across American Christians, Iranian Muslims, Indian Hindus, and East Asian Buddhists. The ineffability factor — mystical experience "defying expression" — appears regardless of metaphysics, goals, or historical contact. This connects to the [[edge-states-and-void-probes|phenomenology of the edge]].
 
 The persistence of the [[hard-problem-of-consciousness|hard problem]] across Chinese, Indian, and Western philosophy — traditions that developed largely independently — may indicate genuine [[mysterianism|cognitive closure]]. The difficulty of explaining experience in non-experiential terms appears cross-culturally despite radically different framings.
 
@@ -153,7 +153,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 - [[non-human-minds-as-void-explorers]] — Using AI and alien minds to probe human limits
 - [[mysterianism]] — McGinn's formal analysis of cognitive closure
 - [[three-kinds-of-void]] — The fundamental void taxonomy
-- [[phenomenology-of-the-edge]] — What approaching limits feels like
+- [[edge-states-and-void-probes]] — What approaching limits feels like
 - [[adaptive-cognitive-limits]] — Why evolution maintains ignorance as a fitness advantage
 - [[consciousness-interface-development]] — How the mind-matter interface changes through maturation
 

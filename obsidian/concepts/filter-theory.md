@@ -13,7 +13,7 @@ topics:
   - "[[bandwidth-of-consciousness]]"
 concepts:
   - "[[altered-states-of-consciousness]]"
-  - "[[altered-states-as-void-probes]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[default-mode-network]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[minimal-consciousness]]"
@@ -76,7 +76,7 @@ Neuroimaging studies of psychedelic states show *decreased* activity in the [[de
 
 A physicalist would object: different neural processing simply produces different experience. What makes the filter interpretation attractive is coherence with the [[hard-problem-of-consciousness|hard problem]]—even perfect neural mapping leaves unexplained *why* there is something it is like to undergo these processes.
 
-Filter theory interprets this straightforwardly: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*. This aligns with recent REBUS models (Relaxed Beliefs Under Psychedelics): what's being relaxed is the constraining function that restricts experience to a biologically useful subset. The [[altered-states-as-void-probes]] article examines whether filter-loosening provides genuine access to territories closed to ordinary consciousness.
+Filter theory interprets this straightforwardly: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*. This aligns with recent REBUS models (Relaxed Beliefs Under Psychedelics): what's being relaxed is the constraining function that restricts experience to a biologically useful subset. The [[edge-states-and-void-probes]] article examines whether filter-loosening provides genuine access to territories closed to ordinary consciousness.
 
 ### The Anesthetic Divergence
 

@@ -1,6 +1,10 @@
-last_updated: '2026-05-09T23:38:46.829956+00:00'
-session_count: 6964
-cycle_position: 6592
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-10T00:08:46.830174+00:00'
+session_count: 6965
+cycle_position: 6593
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-09T18:38:46.824932+00:00'
@@ -10,10 +14,10 @@ last_runs:
   deep-review: '2026-05-09T23:08:46.829121+00:00'
   tune-system: '2026-05-05T15:15:40.393213+00:00'
   research-voids: '2026-05-09T15:38:46.822402+00:00'
-  coalesce: '2026-05-09T08:05:11.711095+00:00'
+  coalesce: '2026-05-10T00:08:46.830174+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-10T00:09:33.056453+00:00'
+  agentic-social: '2026-05-10T00:08:46.830174+00:00'
   embed-videos: '2026-05-09T15:38:46.822402+00:00'
   commission-chatgpt-review: '2026-05-08T06:12:56.200676+00:00'
   commission-claude-review: '2026-05-08T06:42:56.203868+00:00'
@@ -51,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/phantom-limb-phenomena.md -- Conte)
-  type: deep-review
-  date: '2026-05-09'
-  outcome: success
 - task: expand-topic (Write topic article on Source-Attribution Divergen)
   type: expand-topic
   date: '2026-05-09'
@@ -134,9 +134,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-09'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/epistemology-of-limit-knowledge/
-    date: '2026-05-10T00:09:33.056429+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: coalesce
+  type: coalesce
+  date: '2026-05-10'
+  outcome: success

@@ -71,7 +71,7 @@ What does it feel like to approach this void?
 
 **The "and then a miracle occurs" feeling.** When tracing how parts combine into wholes, there is a characteristic moment where explanation gives way to correlation. "Molecules bond in this configuration, *and then* liquidity." "Neurons fire in this pattern, *and then* consciousness." The "and then" is not a placeholder for future explanation. It marks the void's edge—the point where causal explanation becomes juxtaposition.
 
-**Level-switching vertigo.** Moving between micro and macro descriptions produces distinctive cognitive disorientation. We can think about molecules; we can think about water. We cannot smoothly think both at once. The inability to hold both levels in mind simultaneously is not a deficiency of attention but a [[phenomenology-of-the-edge|phenomenological signature]] of the emergence void.
+**Level-switching vertigo.** Moving between micro and macro descriptions produces distinctive cognitive disorientation. We can think about molecules; we can think about water. We cannot smoothly think both at once. The inability to hold both levels in mind simultaneously is not a deficiency of attention but a [[edge-states-and-void-probes|phenomenological signature]] of the emergence void.
 
 **The illusion of understanding.** We *feel* we understand weak emergence. Temperature just *is* molecular motion—what's to explain? But this feeling may itself be the limit's disguise. Strip away the habitual association and the conceptual gap reappears: why does *this* arrangement of vibrating particles constitute *that* thermal experience? The void may be hidden everywhere by familiarity, visible only at consciousness where the strangeness is too great to domesticate.
 

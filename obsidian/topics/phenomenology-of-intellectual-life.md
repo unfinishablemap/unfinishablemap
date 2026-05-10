@@ -49,7 +49,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[what-voids-reveal]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[necessary-opacity]]"
   - "[[self-stultification-as-master-argument]]"

@@ -16,7 +16,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[what-voids-reveal]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[thoughts-that-slip-away]]"
   - "[[self-opacity]]"
@@ -142,7 +142,7 @@ Current evidence supports structured, persistent failure patterns. [[biological-
 - [[voids|Voids in the Map]] — The framework for investigating cognitive dark spaces
 - [[what-voids-reveal|What Cognitive Voids Reveal]] — How cognitive boundaries illuminate architecture and how the catalogue's organised structure becomes evidence
 - [[biological-cognitive-closure|Evolved Cognitive Limits]] — Cross-cultural evidence for shared boundaries
-- [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
+- [[edge-states-and-void-probes|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising the method with evidential standards
 - [[self-opacity|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[tenet-generated-voids]] — Voids that emerge from interactions between tenets

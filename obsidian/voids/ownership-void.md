@@ -20,7 +20,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[voids-between-minds]]"
   - "[[necessary-opacity]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[consciousness-and-the-ownership-problem]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[self-reference-paradox]]"
@@ -70,7 +70,7 @@ If DPD approaches the ownership void involuntarily and painfully, contemplative 
 
 Buddhist *anattā* (no-self) practice systematically searches for ownership and fails to find it. (The [[comparative-phenomenology-of-meditative-traditions]] article surveys how different traditions approach this dissolution.) Each element of experience—body, sensation, perception, mental formations, consciousness—is examined, and for each the sense of "mine" is found to be impermanent and unfixable. Unlike DPD, meditators often describe the dissolution of mineness as peaceful or liberating rather than terrifying.
 
-This affective divergence matters. The same structural void—the absence of the ownership ground—produces terror when entered involuntarily and equanimity when entered deliberately. The void boundary is real; its phenomenal valence depends on the manner of approach. The [[phenomenology-of-the-edge]] documents similar context-dependence at other cognitive limits.
+This affective divergence matters. The same structural void—the absence of the ownership ground—produces terror when entered involuntarily and equanimity when entered deliberately. The void boundary is real; its phenomenal valence depends on the manner of approach. The [[edge-states-and-void-probes]] documents similar context-dependence at other cognitive limits.
 
 ## The Peculiar Recursion
 
@@ -111,7 +111,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. Predictive
 - [[self-opacity|introspective opacity]] — Why cognitive processes hide from introspection
 - [[necessary-opacity]] — When cognitive mechanisms become invisible through transparency, and why this opacity is structural
 - [[voids-between-minds]] — The impossibility of accessing another subject's ownership
-- [[phenomenology-of-the-edge]] — What approaching limits feels like
+- [[edge-states-and-void-probes]] — What approaching limits feels like
 - [[self-and-self-consciousness]] — Minimal self, pre-reflective awareness, and the circularity of self-knowledge
 - [[consciousness-and-the-ownership-problem]] — Why experience belongs to anyone, and what happens when it stops
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — When the self-model hides its own construction

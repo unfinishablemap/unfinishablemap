@@ -21,7 +21,7 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[biological-cognitive-closure]]"
   - "[[what-voids-reveal]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[phenomenology-of-linguistic-failure]]"
   - "[[vagueness-void]]"
 ai_contribution: 100
@@ -171,7 +171,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [[metaphor-void|The Metaphor Void]] — The reflexive challenge every void description faces
 - [[biological-cognitive-closure|The Limits of Conceptual Acquisition]] — What concepts cannot be formed
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Related phenomena of cognitive slippage
-- [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
+- [[edge-states-and-void-probes|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis
 - [[what-voids-reveal|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — What linguistic failure feels like from the inside: five distinct experiential modes

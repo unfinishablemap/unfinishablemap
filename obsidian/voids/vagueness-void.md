@@ -29,7 +29,7 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[the-quantitative-comprehension-void]]"
-  - "[[phenomenology-of-the-edge]]"
+  - "[[edge-states-and-void-probes]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -86,7 +86,7 @@ Approaching the vagueness void produces a recognisable pattern, well-attested in
 - **Recursive frustration.** Refining the criterion produces new borderlines; the refinement has not converged but only displaced.
 - **Introspective wobble.** For inward concepts, asking can shift the answer without either state being definitively the answer.
 
-These experiences cannot themselves be sharpened into a determinate mark of borderline-ness; the phenomenology of vagueness is itself vague—a feature shared with the broader [[phenomenology-of-the-edge]].
+These experiences cannot themselves be sharpened into a determinate mark of borderline-ness; the phenomenology of vagueness is itself vague—a feature shared with the broader [[edge-states-and-void-probes]].
 
 ## Approaches to the Edge
 
