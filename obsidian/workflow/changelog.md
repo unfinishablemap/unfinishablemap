@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T22:31:00+00:00
+ai_modified: 2026-05-10T23:01:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 23:01 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Context**: Cross-review prompted by today's publication of [[decision-void]] (voids/decision-void.md, 2026-05-10), which explicitly names this article as "the Map's positive mechanism candidate at the void's locus". Fourth pass on this article (after 2026-04-30, 2026-05-04 Duch cross, 2026-05-06 selection-only cross).
+- **Word count**: 3036 → 3049 (+13; 101% → 102% of 3000 soft threshold; length-neutral mode active)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to just-published [[decision-void]])
+- **Enhancements made**: 3 (trilemma's option-iii primitive now noted as having matching introspective opacity per the void; Bidirectional Interaction tenet section now names the third-person/first-person asymmetry as a predicted consequence of an interface at a primitive seam; Further Reading entry added)
+- **Cumulative review count**: 4 (article continues stable convergence)
+- **Bedrock no-flags honoured**: Eliminative Materialist's "selection is folk-psychological"; MWI's "indexical question malformed"; Buddhist deconstruction; Quantum Skeptic's operator demand; Empiricist's "no specific predictions"; Duch's classical-computational closure; generation-permitting alternatives.
+- **Pessimistic personas applied**: Churchland (bedrock), Dennett (bedrock), Tegmark (in-physics counter-data plus relocation; engagement intact), Deutsch (bedrock), Popper (falsifiability cost owned, no upgrade), Nagarjuna (bedrock).
+- **Reasoning-mode classification (editor-internal)**: Tegmark — Mode One; Duch — Mode Three (tightened phrasing without losing boundary-honesty); Georgiev — Mixed (Mode Two-leaning); McQueen vs anti-Orch-OR — Mode One leaning. No editor-vocabulary label leakage in article body.
+- **Attribution accuracy**: No new attributions introduced. Decision-void cross-links carry no factual claims about external authors; the introspective-opacity register echoes decision-void.md's own framing rather than originating new claims.
+- **Optimistic personas applied**: Chalmers/Stapp/Nagel/Whitehead/Kane/McGinn/Birch — all identify stable strengths preserved across four passes. Birch (Hardline Empiricist) check: no possibility/probability slippage; the cross-link is framed as predicted-consequence not as evidence-upgrade. The Process Philosopher's praise for the actualisation model and Birch's restraint discipline coexist without tension on this pass.
+- **Length-neutral discipline**: ~75 words added across three insertion points; ~85 words trimmed across five sections (Alignment-with-frameworks consideration; Three Post-Decoherence Mechanisms closing redundancy; Combination-problem; Duch engagement phrasing; Orch OR / McQueen paragraph). Net +13 words.
+- **Output**: [[reviews/deep-review-2026-05-10-forward-in-time-conscious-selection-decision-void-cross]]
 
 ## 2026-05-10 22:31 UTC - deep-review
 - **Status**: Success

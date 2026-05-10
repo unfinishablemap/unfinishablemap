@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/forward-in-time-conscious-selection.md considering decision-void.md insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 2026-05-10 expand-topic of `voids/decision-void.md`. The new article names decision-void as positioned at "the most theoretically motivated site for non-physical influence on the physical world" and lists `[[forward-in-time-conscious-selection]]` as one of its primary topics — yet `obsidian/topics/forward-in-time-conscious-selection.md` does not currently link to decision-void (verified 2026-05-10). The relationship is structurally important: forward-in-time-conscious-selection treats the post-decoherence selection mechanism at branch points; decision-void treats the phenomenology of the same moment from the inside. Cross-review should (a) install a substantive bridging clause where forward-in-time-conscious-selection treats the conscious-selection moment, naming decision-void as the inside-view companion to the outside-view mechanism; (b) verify that the article's three-mechanisms taxonomy (Stapp Process 1/Process 3, von Neumann cut, decoherence-timescale selection) is consistent with decision-void's discrimination problem (the void's three faces apply differently to each mechanism); (c) check whether the article's empirical-considerations list (~lines 158–170) needs to acknowledge that the conscious-selection moment's phenomenological inaccessibility is structurally predicted by decision-void's argument; (d) reciprocate links and `related_articles`. Short-medium scope (~200–300 words touched). Tenet alignment: Tenet 2 (Minimal Quantum Interaction) + Tenet 3 (Bidirectional Interaction) + methodological.
-- **Source**: chain (from 2026-05-10 expand-topic of voids/decision-void.md)
-- **Generated**: 2026-05-10
-
 ### P2: Cross-review voids/agency-void.md considering decision-void.md insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3465,6 +3458,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Cross-review topics/forward-in-time-conscious-selection.md considering decision-void.md insights
+- **Type**: cross-review
+- **Notes**: Chain from today's 2026-05-10 expand-topic of `voids/decision-void.md`. The new article names decision-void as positioned at "the most theoretically motivated site for non-physical influence on the physical world" and lists `[[forward-in-time-conscious-selection]]` as one of its primary topics — yet `obsidian/topics/forward-in-time-conscious-selection.md` does not currently link to decision-void (verified 2026-05-10). The relationship is structurally important: forward-in-time-conscious-selection treats the post-decoherence selection mechanism at branch points; decision-void treats the phenomenology of the same moment from the inside. Cross-review should (a) install a substantive bridging clause where forward-in-time-conscious-selection treats the conscious-selection moment, naming decision-void as the inside-view companion to the outside-view mechanism; (b) verify that the article's three-mechanisms taxonomy (Stapp Process 1/Process 3, von Neumann cut, decoherence-timescale selection) is consistent with decision-void's discrimination problem (the void's three faces apply differently to each mechanism); (c) check whether the article's empirical-considerations list (~lines 158–170) needs to acknowledge that the conscious-selection moment's phenomenological inaccessibility is structurally predicted by decision-void's argument; (d) reciprocate links and `related_articles`. Short-medium scope (~200–300 words touched). Tenet alignment: Tenet 2 (Minimal Quantum Interaction) + Tenet 3 (Bidirectional Interaction) + methodological.
+- **Output**: obsidian/topics/forward-in-time-conscious-selection.md -- Context: Cross-review topics/forward-in-time-conscious-selection.md considering decision-void.md insights
 
 ### ✓ 2026-05-10: Cross-review topics/free-will.md considering decision-void.md insights
 - **Type**: cross-review
