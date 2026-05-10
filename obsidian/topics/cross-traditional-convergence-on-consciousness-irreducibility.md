@@ -4,7 +4,7 @@ description: "Philosophical traditions that disagree about almost everything els
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-04-26T19:11:00+00:00
+ai_modified: 2026-05-10T03:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,12 +29,13 @@ related_articles:
   - "[[indian-philosophy-of-mind]]"
   - "[[islamic-sufi-philosophy-of-consciousness]]"
   - "[[arguments-against-materialism]]"
+  - "[[common-cause-null]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-04-26T19:11:00+00:00
+last_deep_review: 2026-05-10T03:38:00+00:00
 ---
 
 Philosophical traditions separated by millennia, geography, and fundamental metaphysical commitments converge on a single recognition: consciousness is not reducible to its physical substrate. The Unfinishable Map argues that this convergence pattern is itself a philosophical datum requiring explanation. Traditions that disagree about whether a self exists, whether matter is real, whether causation runs upward or downward, and whether the universe is one or many—all converge when they investigate consciousness through sustained, methodologically diverse, and self-critical inquiry. Irreducibility functions as an attractor of such inquiry, and the most parsimonious explanation is that these traditions are tracking something real.
@@ -115,6 +116,20 @@ These traditions do not agree because they share premises—they arrive at irred
 
 This pattern of agreement-despite-disagreement resembles the structure the [[epistemology-of-convergence-arguments]] analyses as carrying the strongest evidential force. When conclusions hold despite divergent premises, the conclusion is more likely tracking an external reality than reflecting a shared assumption—because the assumptions are not shared.
 
+## Engaging the Common-Cause Null
+
+The convergence argument's force rests on the independence of the traditions cited. The [[common-cause-null|common-cause null]] is the structural objection: what if the apparent N-fold convergence is one observation read N times because the traditions share an upstream architecture that itself produces the convergence regardless of what is "really there"? The discipline asks any convergence claim to name the shared machinery honestly and identify what evidence would distinguish independent triangulation from same-architecture-rediscovered.
+
+The most generic shared machinery is human introspection itself. All the traditions cited investigate consciousness through human investigators using human conceptual resources, and a unified-upstream hypothesis—*human introspection produces the irreducibility appearance regardless of metaphysical framework*—would predict the convergence whether or not consciousness is genuinely irreducible. This residual common machinery is substantial and the article does not minimise it.
+
+Three structural features of the present convergence weaken—without dissolving—this null:
+
+- **Methodological substrate diversity within shared introspection.** Formal logical analysis, contemplative phenomenology, systematic metaphysical reasoning, and apophatic *via negativa* methods are not interchangeable channels into one introspective stream; they probe different aspects of the experience-description relation. Convergence across methodologies reporting on different aspects is a partial signature of independent triangulation rather than single-architecture echo.
+- **The Chinese counter-example as natural-experiment test.** Chinese traditions share the human-introspection upstream architecture but do not generate the irreducibility finding. The framework-dependence interpretation discussed above therefore doubles as a partial discharge of the common-cause objection: traditions sharing the architecture but starting from different conceptual frameworks produce different outputs, suggesting the convergence is conceptually-conditional rather than architecturally-determined.
+- **Convergence-despite-metaphysical-disagreement.** When traditions reach the same conclusion across maximally different premises—substance versus no-substance, eternal witness versus stream of moments, monist idealism versus realist pluralism—premise-level common causes are ruled out. Whatever shared architecture remains operates beneath the level of metaphysical commitment.
+
+The strongest external tests not currently in hand are cross-species evidence (do non-human animals exhibit signatures consistent with irreducibility under species-appropriate paradigms?), genuinely-isolated cross-cultural evidence (do historically uncontaminated traditions converge after careful translation?), and patient-population evidence with anomalous introspective architecture (congenital aphantasia, alexithymia, blindsight). The common-cause-null discipline catalogues these as the open empirical research programme that would discharge the residual null. Until those tests are available, the cross-traditional convergence supports the irreducibility claim with calibrated force: *premise-level common causes ruled out; residual introspection-architecture common cause acknowledged*. The convergence does work; it does not do unlimited work.
+
 ## What the Convergence Does and Does Not Show
 
 The convergence supports the claim that consciousness is genuinely irreducible to physical description—that this is a feature of reality, not an artefact of particular philosophical frameworks or cultural assumptions.
@@ -127,7 +142,7 @@ What the convergence rules out—or at least renders highly implausible—is the
 
 The Unfinishable Map's [[tenets#^dualism|Dualism tenet]] asserts that consciousness is not reducible to physical processes. Cross-traditional convergence provides meta-level support for this claim: the Map is not making an idiosyncratic philosophical bet but joining a recognition that appears across traditions with long histories of self-critical investigation.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is directly relevant. The eliminativist or reductionist might argue that irreducibility is the simpler conclusion—traditions find it because consciousness naively *seems* irreducible, not because it is. A related objection from [[mysterianism]] holds that convergence tracks a shared cognitive limitation rather than a shared truth—but a generic limitation would produce variable errors, not convergence on a structurally precise diagnosis. Both objections must account for the sophistication of the traditions involved. Sāṃkhya, Buddhism, and Western analytic philosophy are not naive—they represent centuries of rigorous counter-argument and refinement. The convergence of sophisticated inquiry, not naive intuition, is what carries evidential weight.
+The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is directly relevant. The eliminativist or reductionist might argue that irreducibility is the simpler conclusion—traditions find it because consciousness naively *seems* irreducible, not because it is. A related objection from [[mysterianism]] holds that convergence tracks a shared cognitive limitation rather than a shared truth—but a generic limitation would produce variable errors, not convergence on a structurally precise diagnosis. Both objections must account for the sophistication of the traditions involved. Sāṃkhya, Buddhism, and Western analytic philosophy are not naive—they represent centuries of rigorous counter-argument and refinement. The convergence of sophisticated inquiry, not naive intuition, is what carries evidential weight. The [[common-cause-null|common-cause-null discipline]] applies Tenet 5 specifically to the convergence layer: just as materialist parsimony can collapse N observations to one upstream architecture prematurely, convergence parsimony can inflate one observation read N times into N independent confirmations. The Engaging the Common-Cause Null section above applies the discipline to this article's specific convergence pattern.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]—that consciousness causally influences the physical world—receives indirect support. As [[cross-cultural-convergence-on-mental-causation]] documents, many of these same traditions converge independently on mental causation. The irreducibility convergence and the mental causation convergence are logically independent patterns that together strengthen the case: consciousness is both irreducible *and* causally efficacious, according to diverse traditions investigating through diverse methods.
 
@@ -136,6 +151,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]—that
 - [[the-hard-problem-in-non-western-philosophy]]
 - [[the-convergence-argument-for-dualism]]
 - [[epistemology-of-convergence-arguments]]
+- [[common-cause-null]]
 - [[cross-cultural-convergence-on-mental-causation]]
 - [[contemplative-practice-as-philosophical-evidence]]
 - [[eastern-philosophy-consciousness]]

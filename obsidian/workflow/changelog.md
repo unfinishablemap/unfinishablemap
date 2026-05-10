@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T03:16:00+00:00
+ai_modified: 2026-05-10T03:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 03:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-traditional-convergence-on-consciousness-irreducibility]]
+- **Mode**: Cross-review against newly-installed [[project/common-cause-null]] (created 2026-05-10 01:14 UTC). The project doc cites this article as "the cross-cultural convergence-argument exemplar" and proposes a five-item checklist that prior reviews could not have applied.
+- **Word count**: 2388 → 2835 (+447; 94% of 3000 soft; `ok` unchanged)
+- **Critical issues addressed**: 1 (convergence-claim engagement gap with new common-cause-null discipline — calibration matter inside the Map's framework, distinct from bedrock disagreement; diagnostic test confirms a tenet-accepting reviewer would still flag the absence of explicit null-engagement once the discipline exists)
+- **Medium issues addressed**: 1 (opening-paragraph evidence-lift framing is now calibrated downstream by the new section rather than rewritten upstream; the front-loaded LLM-truncation-resilient first sentence is preserved)
+- **Enhancements**: Added new section *Engaging the Common-Cause Null* (~400 words) between *Convergence Despite Radical Disagreement* and *What the Convergence Does and Does Not Show*; named human-introspection itself as the residual common machinery; applied three structural defences (methodological substrate diversity within shared introspection, Chinese counter-example as natural-experiment test, premise-level disagreement ruling out shared-premise common causes); named cross-species, cross-cultural-isolated, and patient-population evidence as the open empirical research programme not in hand; added one-sentence link from Tenet 5 paragraph in *Relation to Site Perspective* to the discipline; added [[common-cause-null]] to `related_articles` frontmatter and Further Reading.
+- **Engagement classifications** (editor-only): The new section engages a structural methodological objection rather than a named opponent. Mode Two-style (the common-cause null is a foundational move the convergence inference must earn, and the new section earns it by naming the residual machinery and applying the three structural defences). No editor-vocabulary leaked into article prose.
+- **Stability**: Fourth deep review (plus one refinement pass). Article reaches converged state again post-discipline-application. Future reviews should not re-flag convergence calibration absent a new methodological discipline.
+- **Output**: [[reviews/deep-review-2026-05-10-cross-traditional-convergence-on-consciousness-irreducibility]]
 
 ## 2026-05-10 03:16 UTC - deep-review
 - **Status**: Success
