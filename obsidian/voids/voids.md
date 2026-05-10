@@ -2,9 +2,9 @@
 title: "Voids in the Map"
 description: "Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable, and potentially occluded territories where thought cannot go or is blocked from going."
 created: 2026-01-08
-modified: 2026-04-28
+modified: 2026-05-10
 human_modified: 2026-01-08
-ai_modified: 2026-04-30T15:34:00+00:00
+ai_modified: 2026-05-10T20:02:00+00:00
 draft: false
 last_deep_review: 2026-04-27T18:59:00+00:00
 topics: []
@@ -115,6 +115,7 @@ A maintenance note on this index. Five of the entries below—[[agency-void|the 
 - [[amplification-void|The Amplification Void]] — Why the chain from quantum influence to neural effect cannot be traced
 - [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings: neither the onset of a mental act, nor the transition between states, nor the moment attention is captured (coalesced with distraction-void 2026-04-27)
 - [[agency-void|The Agency Void]] — Two faces of agency's limit: consciousness cannot control most of its own states (involuntariness face) nor verify whether it causes anything at all (verification face)
+- [[decision-void|The Decision Void]] — The structural opacity of the deliberation→commitment crossing: three faces (closure / latency / reconstruction) at the most theoretically motivated site for any non-physical influence on the physical world; cognate to suspension-void and sister-regress to inference-void (created 2026-05-10)
 - [[thrownness-void|The Thrownness Void]] — Why consciousness cannot access the conditions under which it became conscious
 - [[smoothness-and-continuity|Smoothness and Continuity]] — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [[counterfactual-void|The Counterfactual Void]] — How counterfactual thinking is trapped near actuality

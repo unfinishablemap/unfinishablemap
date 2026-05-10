@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T19:10:00+00:00
+ai_modified: 2026-05-10T20:02:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 20:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Decision Void (voids cognate; conjunction-coalesce shape)
+- **Output**: [[voids/decision-void]]
+- **Word count**: 2745 (in line with sibling cognate voids; suspension-void 2833, agency-void 2854)
+- **Based on research**: yes — [[research/voids-decision-void-2026-05-10]] (today's note)
+- **Structure**: three-faces conjunction-coalesce (closure / latency / reconstruction); seam preserved per cognate discipline. Closure leans on Pacherie 2008 categorical-completeness framing + Mele 2009 + Ricoeur; latency anchored in Soon-Brass-Heinze-Haynes 2008 (7s predictability, configural pattern), Libet 1983 with Schurger 2012 / Travers 2021 contesting; reconstruction anchored in Johansson-Hall 2005 choice-blindness + source-attribution-void diagnosis applied to decisions. Multi-area neural recording (Roitman & Shadlen 2002; Murakami et al. 2014) cited for the third-person/first-person asymmetry.
+- **Discipline installations**:
+  - [[evidential-status-discipline]] — empirical findings constrain but do not establish where the decision happens; explicit two-readings paragraph (fully-physical-with-conscious-registration vs non-physical-commitment-with-physical-precipitation); Map's MQI motivates (ii) without claiming the data forces it
+  - [[direct-refutation-discipline]] — three deflationary alternatives classified: fully-physical reading as Mode Three (framework-boundary), Wegner-style illusionism as Mode Two (unsupported foundational move), Schurger stochastic-accumulation reading as Mode One (in-framework, strengthens rather than weakens the void)
+  - [[forward-in-time-conscious-selection]] — installed as the Map's positive mechanism candidate at the void's locus; consistent with introspective inaccessibility rather than dissolving it
+- **Sibling-void distinctions**: agency-void (specific moment within agency, not agency in general); noetic-feelings-void (the closing-process is occluded, not just the felt verdict); transit-void (one specific transit narrowed by multi-option resolution); sister-regress to suspension-void and inference-void (each names a capacity consciousness cannot stand outside of while exercising)
+- **Tenet payoff**: MQI load-bearing (most theoretically motivated site for non-physical influence); Bidirectional Interaction predicts the introspective inaccessibility; Dualism gains structural texture from the third-person/first-person asymmetry; No Many Worlds load-bearing (the void presupposes decisions actually resolve)
+- **Capacity note**: voids/ at 99/100 before this task; this consumes the last slot. Justified per task notes by tenet-load-bearing uniqueness and empirical anchorage relative to other unconsumed void research.
+- **Published**: yes
 
 ## 2026-05-10 19:31 UTC - refine-draft
 - **Status**: Success
