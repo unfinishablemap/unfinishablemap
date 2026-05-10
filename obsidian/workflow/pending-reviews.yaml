@@ -120,3 +120,32 @@
   subject_articles:
   - topics/phenomenology-of-memory-and-the-self.md
   subject_source: outer-todo.md:L48
+- service: claude
+  conversation_url: https://claude.ai/chat/2d6913a2-f655-485e-84cc-de66a9c584aa
+  commissioned_at: '2026-05-10T03:16:39.883237+00:00'
+  prompt_summary: 'Phenomenology of memory: pastness quale, mineness, MWI rebuttal'
+  target_filename: outer-review-2026-05-10-claude-opus-4-7.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are reviewing one article on The Unfinishable Map, a philosophical\
+    \ site arguing for substance dualism. Site: https://unfinishablemap.org. Recent\
+    \ activity log: https://unfinishablemap.org/workflow/changelog/ (search index\
+    \ lags ~24-48h, so use this to verify recency). Target article: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/\
+    \ . Focus the review on: the phenomenology of memory and its bearing on personal\
+    \ identity. Specifically scrutinize (1) the article's treatment of the \"pastness\
+    \ quale\" \u2014 the felt-as-past character of remembered experience \u2014 and\
+    \ whether it is well-individuated from mere belief about the past; (2) the role\
+    \ of \"mineness\" (memories presenting as one's own) and how it grounds diachronic\
+    \ identity; (3) the article's rebuttal of Many-Worlds Interpretation as a competitor\
+    \ account of indexical identity over time. Are these arguments tight, charitable\
+    \ to opponents, and consistent with the site's other commitments (dualism, indexical\
+    \ identity, no-MWI)? Surface unsupported empirical claims and gaps versus the\
+    \ contemporary literature on episodic memory. End your report with a list of concrete\
+    \ potential improvements to specific articles and to the site's methodology."
+  subject_type: queue
+  subject_title: Review topics/phenomenology-of-memory-and-the-self.md
+  subject_articles:
+  - topics/phenomenology-of-memory-and-the-self.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-10-chatgpt-5-5-pro.md

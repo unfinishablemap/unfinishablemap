@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-10T02:08:46.831793+00:00'
-session_count: 6969
-cycle_position: 6597
+last_updated: '2026-05-10T02:38:46.838619+00:00'
+session_count: 6970
+cycle_position: 6598
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-09T18:38:46.824932+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-10T00:08:46.830174+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-08T10:12:56.206890+00:00'
-  agentic-social: '2026-05-10T02:08:46.831793+00:00'
+  agentic-social: '2026-05-10T03:09:32.895465+00:00'
   embed-videos: '2026-05-09T15:38:46.822402+00:00'
   commission-chatgpt-review: '2026-05-10T02:08:46.831793+00:00'
   commission-claude-review: '2026-05-08T06:42:56.203868+00:00'
@@ -55,13 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/project/evidential-status-discipline.md
-
-
-    )'
-  type: refine-draft
-  date: '2026-05-09'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-09'
@@ -140,17 +129,15 @@ recent_tasks:
   type: deep-review
   date: '2026-05-10'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 8
-  p3_tasks: 472
-  needs_replenishment: false
-  last_replenishment: '2026-05-10T02:38:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    length_analysis: 3
-    unconsumed_research: 0
-    gap_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+- task: deep-review (obsidian/apex/phenomenal-output-causal-machinery-d)
+  type: deep-review
+  date: '2026-05-10'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/minimal-consciousness/
+    date: '2026-05-10T03:09:32.895444+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-in-simple-organisms
+    - animal-consciousness

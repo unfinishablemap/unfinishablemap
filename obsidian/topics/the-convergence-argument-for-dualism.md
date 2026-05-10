@@ -4,7 +4,7 @@ description: "Multiple independent arguments converge on dualism from different 
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-05-08T07:13:00+00:00
+ai_modified: 2026-05-10T03:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,12 +31,13 @@ related_articles:
   - "[[cross-cultural-convergence-on-mental-causation]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[concession-convergence]]"
+  - "[[common-cause-null]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-05-08T07:13:00+00:00
+last_deep_review: 2026-05-10T03:16:00+00:00
 ---
 
 No single philosophical argument achieves the certainty of mathematical proof. But when multiple independent arguments — each starting from different premises, employing different methods, and targeting different features of consciousness — converge on the same conclusion, the resulting case is substantially stronger than any individual line of reasoning. The Unfinishable Map holds that this convergence is itself a powerful argument for [[dualism]], one that deserves analysis as an [[epistemology-of-convergence-arguments|epistemological pattern]] rather than merely a rhetorical observation.
@@ -92,7 +93,7 @@ Dualism, by contrast, provides a single explanation: consciousness genuinely has
 
 ## The Common-Cause Objection
 
-The most serious challenge to the convergence argument is that the independence is illusory. Perhaps all anti-materialist arguments share a hidden common cause — a systematic cognitive bias, a shared conceptual error, or an artifact of how we think about consciousness.
+The most serious challenge to the convergence argument is that the independence is illusory. Perhaps all anti-materialist arguments share a hidden common cause — a systematic cognitive bias, a shared conceptual error, shared philosophical methodology (similar conceptual analyses, phenomenological starting points, and intuition-pumps), or an artifact of how we think about consciousness. The methodology version — that what look like independent considerations are one observation read many times — is constrained by the Bayesian cluster analysis above and the cross-cultural section below; three more specific hypotheses deserve direct engagement.
 
 ### The Dualist Intuition Hypothesis
 
@@ -114,7 +115,7 @@ Moreover, the "conceptual confusion" diagnosis is itself a philosophical claim t
 
 This deserves serious engagement. If we are cognitively closed to the solution, we would expect exactly the pattern we observe: multiple attempts to think about consciousness-brain relations, each revealing an apparent gap, each gap reflecting our cognitive architecture rather than reality.
 
-Three responses bear on this. First, cognitive closure doesn't favor physicalism. If we can't grasp the solution, we can't know whether it's reductive or non-reductive. Mysterianism counsels agnosticism, not physicalism. Second, the convergence of *cross-cultural* philosophical traditions on consciousness's irreducibility — explored in [[the-hard-problem-in-non-western-philosophy]] — is predicted by dualism (they're all tracking the same real feature) and by mysterianism (they're all hitting the same wall) but not by physicalism (why would independent traditions converge on an error?). Third, even granting cognitive closure, the practical epistemic situation favors dualism: given our actual evidence and actual cognitive capacities, the arguments point toward irreducibility.
+Three responses bear on this. First, cognitive closure doesn't favor physicalism. If we can't grasp the solution, we can't know whether it's reductive or non-reductive. Mysterianism counsels agnosticism, not physicalism. Second, the convergence of *cross-cultural* philosophical traditions on consciousness's irreducibility — explored in [[the-hard-problem-in-non-western-philosophy]] — is predicted by dualism (they're all tracking the same real feature) and by mysterianism (they're all hitting the same wall) but not by physicalism (why would independent traditions converge on an error?). Third, even granting cognitive closure, the practical epistemic situation favors dualism: the arguments point toward irreducibility given current evidence and cognitive capacities.
 
 ## Convergence Across Traditions
 
@@ -142,7 +143,7 @@ The hard problem of consciousness shows no comparable pattern. Neural correlates
 
 **Assessing independence is difficult.** As the Bayesian section details, the arguments cluster around shared assumptions — the authority of phenomenal intuition, the reality of the explanatory gap — that reduce their effective independence. The cumulative force is real but more modest than a naive count of separate arguments would suggest.
 
-**Convergence is comparative, not absolute.** The argument shows that dualism explains the pattern of philosophical evidence better than physicalism, not that dualism is certainly true. A future conceptual revolution — genuinely dissolving the hard problem rather than denying it — could change the picture. The convergence argument says that *given our current understanding*, the evidence points toward irreducibility.
+**Convergence is comparative, not absolute.** The argument shows that dualism explains the pattern of philosophical evidence better than physicalism *given our current understanding*, not that dualism is certainly true. A future conceptual revolution — genuinely dissolving the hard problem rather than denying it — could change the picture.
 
 ## Relation to Site Perspective
 
@@ -164,6 +165,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[quantum-measurement-and-consciousness]] — The measurement problem as an instance of the hard problem: convergence from quantum foundations
 - [[phenomenal-consciousness]] — The target explanandum that resists reduction
 - [[epistemology-of-convergence-arguments]] — The formal epistemology of convergence as philosophical method
+- [[common-cause-null]] — The Map's discipline for distinguishing independent triangulation from shared upstream architecture across convergence claims
 - [[reductionism-and-consciousness]] — Why consciousness differs structurally from past reductive successes
 - [[concession-convergence]] — The complementary pattern: physicalist theories retreating toward dualist positions
 - [[concession-convergence-philosophy-of-mathematics]] — The concession pattern extended to philosophy of mathematics

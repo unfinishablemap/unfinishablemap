@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T02:44:00+00:00
+ai_modified: 2026-05-10T03:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 03:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-convergence-argument-for-dualism]]
+- **Mode**: Cross-review against newly-installed [[project/common-cause-null]] (created 2026-05-10 01:14 UTC). The project doc identifies this article as facing "the most demanding common-cause objection in the catalogue" — shared philosophical methodology itself as upstream common cause.
+- **Word count**: 3068 → 3121 (+53; 104% of 3000 soft; `soft_warning` unchanged)
+- **Critical issues addressed**: 0 (fifth consecutive review with no critical issues)
+- **Medium issues addressed**: 2 (most-demanding common-cause version not named explicitly in opening enumeration; missing cross-link to common-cause-null project doc)
+- **Enhancements**: Added "shared philosophical methodology (similar conceptual analyses, phenomenological starting points, intuition-pumps)" to Common-Cause Objection opening; added one signposting sentence pointing to existing Bayesian cluster analysis and cross-cultural section as the article's response; added [[common-cause-null]] to related_articles and Further Reading.
+- **Length-neutrality compensations**: Tightened McGinn third response (-2 words); compressed "What Convergence Does Not Prove" closing paragraph by merging redundant "given our current understanding" sentence into preceding qualifier (-10 words).
+- **Engagement classifications** (editor-only):
+  - Bloom dualist-intuition hypothesis: Mode One (defective on its own terms via Barrett et al. cross-cultural data)
+  - Dennett conceptual-confusion diagnosis: Mode Two (unsupported foundational move; the diagnosis itself requires argument)
+  - McGinn cognitive closure: Mixed (Mode One opens, Mode Three closes)
+  - Phenomenal concept strategy: Mode One (defective on own terms — less traction with Cluster 3)
+  - Shared-methodology common cause (newly named): Mode Three with partial discharge — honest naming, response runs through Bayesian cluster discount and cross-cultural section; full discharge would require cross-species/patient-population evidence not currently in hand (per [[common-cause-null]])
+- **Stability**: Fifth deep review. Article remains in converged state. No label leakage from project doc's editor-vocabulary into article prose; "shared philosophical methodology" and "intuition-pumps" are plain English. No boundary substitution; no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-05-10-the-convergence-argument-for-dualism]]
 
 ## 2026-05-10 02:44 UTC - deep-review
 - **Status**: Success

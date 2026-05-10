@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/the-convergence-argument-for-dualism.md against project/common-cause-null.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-05-10 expand-topic creation of `project/common-cause-null.md`. The new project doc explicitly cites `[[the-convergence-argument-for-dualism]]` in `related_articles` and as one of the catalogue's "convergence-argument types" the discipline applies to. The convergence-argument article currently engages the common-cause objection at lines 113 and 131, framing mysterianism as "a more nuanced version of the common-cause objection" and citing the cross-cultural-convergence-on-mental-causation as a parallel that "raises the bar for common-cause explanations." That treatment predates the project doc's named discipline and its checklist. Cross-review should (a) install a forward link to `[[project/common-cause-null]]` at the existing common-cause paragraphs (lines 113 and 131) so readers get the methodological discipline; (b) verify the article's "raises the bar" framing at line 131 is consistent with the project doc's structurally-distinguishing tests and cross-substrate-within-one-organism response; (c) check whether the convergence-argument article catalogues its own convergent strands against the project doc's checklist (substantive structural divergence between substrates, dissociable failure patterns, cross-species/cross-cultural/patient-population evidence); (d) verify reciprocal back-link from project doc is load-bearing in framing; (e) honour the framework-stage-calibration discipline — the convergence-argument article makes tenet-driven inferential claims and should not slip into empirical-stage claims under the project doc's discipline; (f) audit for "This is not X. It is Y." cliché violations in any new prose; (g) update `ai_modified` and `last_deep_review` if substantive edits land. Short scope (~150–300 words touched). Tenet alignment: methodological + Tenets 1, 5. See [[project/common-cause-null]] and [[topics/the-convergence-argument-for-dualism]] lines 113, 131.
-- **Source**: chain (from 2026-05-10 expand-topic of project/common-cause-null.md)
-- **Generated**: 2026-05-10
-
 ### P2: Cross-review topics/cross-traditional-convergence-on-consciousness-irreducibility.md against project/common-cause-null.md
 - **Type**: cross-review
 - **Status**: pending
@@ -3390,6 +3383,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Cross-review topics/the-convergence-argument-for-dualism.md against project/common-cause-null.md
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-05-10 expand-topic creation of `project/common-cause-null.md`. The new project doc explicitly cites `[[the-convergence-argument-for-dualism]]` in `related_articles` and as one of the catalogue's "convergence-argument types" the discipline applies to. The convergence-argument article currently engages the common-cause objection at lines 113 and 131, framing mysterianism as "a more nuanced version of the common-cause objection" and citing the cross-cultural-convergence-on-mental-causation as a parallel that "raises the bar for common-cause explanations." That treatment predates the project doc's named discipline and its checklist. Cross-review should (a) install a forward link to `[[project/common-cause-null]]` at the existing common-cause paragraphs (lines 113 and 131) so readers get the methodological discipline; (b) verify the article's "raises the bar" framing at line 131 is consistent with the project doc's structurally-distinguishing tests and cross-substrate-within-one-organism response; (c) check whether the convergence-argument article catalogues its own convergent strands against the project doc's checklist (substantive structural divergence between substrates, dissociable failure patterns, cross-species/cross-cultural/patient-population evidence); (d) verify reciprocal back-link from project doc is load-bearing in framing; (e) honour the framework-stage-calibration discipline — the convergence-argument article makes tenet-driven inferential claims and should not slip into empirical-stage claims under the project doc's discipline; (f) audit for "This is not X. It is Y." cliché violations in any new prose; (g) update `ai_modified` and `last_deep_review` if substantive edits land. Short scope (~150–300 words touched). Tenet alignment: methodological + Tenets 1, 5. See [[project/common-cause-null]] and [[topics/the-convergence-argument-for-dualism]] lines 113, 131.
+- **Output**: obsidian/topics/the-convergence-argument-for-dualism.md -- Context: Cross-review topics/the-convergence-argument-for-dualism.md against project/common-cause-null.md
 
 ### ✓ 2026-05-10: Cross-review apex/phenomenal-output-causal-machinery-dissociation.md against project/common-cause-null.md
 - **Type**: cross-review
