@@ -127,12 +127,30 @@ def select_queue_task(
     # Sort by priority (ascending) then by line number (ascending)
     pending.sort(key=lambda t: (t.priority, t.line_number))
 
-    # Find first executable task (respecting skip_types filter)
+    # Lazy import — keeps tools/evolution/ free of a hard dep on tools/reviews/
+    # at module load time.
+    from datetime import datetime, timezone
+
+    from tools.reviews.synthesis import is_outer_review_task_deferred
+
+    now_utc = datetime.now(timezone.utc)
+
+    # Find first executable task (respecting skip_types filter and
+    # outer-review synthesis deferral).
     for task in pending:
-        if task.task_type in EXECUTABLE_TASK_TYPES:
-            if skip_types and task.task_type in skip_types:
-                continue
-            return task
+        if task.task_type not in EXECUTABLE_TASK_TYPES:
+            continue
+        if skip_types and task.task_type in skip_types:
+            continue
+        # Defer outer-review-source tasks until their cycle has been
+        # synthesised by /combine-outer-reviews. Without this, the queue
+        # dispatcher can execute per-reviewer duplicates before the
+        # convergence pass merges and upgrades them. The helper handles
+        # grace-period expiry and unsynthesizable cycles, so the deferral
+        # cannot strand a task indefinitely.
+        if is_outer_review_task_deferred(task.raw_block, now_utc):
+            continue
+        return task
 
     # No executable tasks found
     return None

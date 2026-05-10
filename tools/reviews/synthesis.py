@@ -7,7 +7,7 @@ target_filename and in the corresponding review files on disk.
 """
 
 import re
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -18,6 +18,16 @@ from .pending import PendingReview, load_pending
 REVIEWS_DIR = Path("obsidian/reviews")
 SYNTHESIS_PREFIX = "outer-review-synthesis-"
 _DATE_RE = re.compile(r"outer-review-(\d{4}-\d{2}-\d{2})-")
+# Match any outer-review filename anywhere in a task block (Review file/Review
+# files/notes/etc.). Excludes synthesis files via the trailing service slug.
+_OUTER_REVIEW_FILE_RE = re.compile(
+    r"outer-review-(\d{4}-\d{2}-\d{2})-[^/\s)`'\"]+\.md"
+)
+# Match the `Source: outer-review` marker tolerant of common todo.md styling:
+# `Source: outer-review`, `**Source**: outer-review`, `- **Source**: outer-review`.
+_SOURCE_OUTER_REVIEW_RE = re.compile(
+    r"Source\*{0,2}\s*:\s*outer-review", re.IGNORECASE
+)
 
 
 def _date_from_filename(filename: str) -> Optional[str]:
@@ -112,3 +122,97 @@ def cycle_dates_to_synthesize(
 
     ready.sort()
     return ready
+
+
+def _cycle_resolved_but_unsynthesizable(
+    date: str,
+    *,
+    reviews_dir: Path = REVIEWS_DIR,
+    pending_path: Optional[Path] = None,
+) -> bool:
+    """True iff the cycle has all pending-reviews entries resolved but
+    fewer than 2 processed — synthesis cannot and will not fire.
+
+    A cycle with no pending-reviews entries at all (e.g., a manually-created
+    review file with no automation state) is also treated as unsynthesizable:
+    there is nothing for the synthesis trigger to wait on.
+    """
+    pending = load_pending(pending_path)
+    entries = [e for e in pending if date in e.target_filename]
+    if not entries:
+        return True
+    if any(e.status == "pending" for e in entries):
+        return False
+    processed = 0
+    for e in entries:
+        if e.status != "collected":
+            continue
+        path = reviews_dir / e.target_filename
+        if not path.exists():
+            continue
+        try:
+            post = frontmatter.load(path)
+        except Exception:
+            continue
+        if post.metadata.get("outer_review_status") == "processed":
+            processed += 1
+    return processed < 2
+
+
+def is_outer_review_task_deferred(
+    task_block: str,
+    now: datetime,
+    *,
+    grace_period_days: int = 7,
+    pending_path: Optional[Path] = None,
+    reviews_dir: Path = REVIEWS_DIR,
+) -> bool:
+    """Whether a queue-eligible outer-review-source task should be deferred.
+
+    The synthesis pass (`/combine-outer-reviews`) runs only after all
+    reviewers in a cycle have processed. Per-review tasks land in todo.md
+    immediately when each `/outer-review` fires — so without a deferral, the
+    queue dispatcher could execute outer-review-source tasks BEFORE the
+    convergence-dedup pass merges duplicates and upgrades convergent
+    priorities. This helper returns True when the task should be skipped
+    by the selector for that reason.
+
+    A task is deferred iff:
+
+    - Its body declares `Source: outer-review` (any styling — bullet,
+      bold-key, plain).
+    - It references at least one `outer-review-YYYY-MM-DD-{slug}.md`
+      filename (typically in a `Review file:` / `Review files:` field).
+    - At least one referenced cycle date has none of these escape clauses:
+      (a) `outer-review-synthesis-{date}.md` already exists,
+      (b) the cycle is `_cycle_resolved_but_unsynthesizable` (synthesis
+          will never fire — quorum lost),
+      (c) the cycle is older than `grace_period_days` (something is stuck;
+          fall back to executing rather than waiting forever).
+
+    Tasks without a recognised outer-review filename, or with no
+    `Source: outer-review` marker, are never deferred.
+    """
+    if not _SOURCE_OUTER_REVIEW_RE.search(task_block):
+        return False
+    cycle_dates = _OUTER_REVIEW_FILE_RE.findall(task_block)
+    if not cycle_dates:
+        return False
+    grace = timedelta(days=grace_period_days)
+    for date in cycle_dates:
+        if synthesis_path_for(date, reviews_dir).exists():
+            continue
+        try:
+            cycle_dt = datetime.strptime(date, "%Y-%m-%d").replace(
+                tzinfo=timezone.utc
+            )
+        except ValueError:
+            continue
+        if (now - cycle_dt) > grace:
+            continue
+        if _cycle_resolved_but_unsynthesizable(
+            date, reviews_dir=reviews_dir, pending_path=pending_path
+        ):
+            continue
+        return True
+    return False
