@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/the-binding-problem.md (4719 words, 157% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for `topics/` (target 3000, hard 4000, critical 6000). Result of the 2026-05-10 coalesce that merged `the-binding-problem-a-systematic-treatment` + `phenomenal-binding-and-multimodal-integration` into a single comprehensive treatment. Coalesce typically produces over-length artefacts that benefit from a follow-up condense pass. Preserve core arguments — the systematic treatment of binding as evidence-cluster, the phenomenal/multimodal integration components, and the distinction from related cluster members (`concepts/binding-problem`, `topics/quantum-holism-and-phenomenal-unity`, `topics/three-dimensional-world-representation-problem`). Targets for trimming: redundancy from the merger seam (paragraphs that double-cover ground because both source articles introduced it); long-form examples that can be reduced to one canonical instance; verbose framing where the wikilinked target carries the explanation. Aim for ~3500–4000 words. Tenet alignment: methodological + Tenet 1 (Dualism — binding is one of the convergence-argument's three clusters and load-bearing for that argument). See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-10
-
 ### P2: Cross-review topics/free-will.md considering decision-void.md insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3479,6 +3472,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Condense topics/the-binding-problem.md (4719 words, 157% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for `topics/` (target 3000, hard 4000, critical 6000). Result of the 2026-05-10 coalesce that merged `the-binding-problem-a-systematic-treatment` + `phenomenal-binding-and-multimodal-integration` into a single comprehensive treatment. Coalesce typically produces over-length artefacts that benefit from a follow-up condense pass. Preserve core arguments — the systematic treatment of binding as evidence-cluster, the phenomenal/multimodal integration components, and the distinction from related cluster members (`concepts/binding-problem`, `topics/quantum-holism-and-phenomenal-unity`, `topics/three-dimensional-world-representation-problem`). Targets for trimming: redundancy from the merger seam (paragraphs that double-cover ground because both source articles introduced it); long-form examples that can be reduced to one canonical instance; verbose framing where the wikilinked target carries the explanation. Aim for ~3500–4000 words. Tenet alignment: methodological + Tenet 1 (Dualism — binding is one of the convergence-argument's three clusters and load-bearing for that argument). See /condense skill.
+- **Output**: obsidian/topics/the-binding-problem.md
 
 ### ✓ 2026-05-10: Refine voids/decision-void.md to fix label leakage and overstatements
 - **Type**: refine-draft

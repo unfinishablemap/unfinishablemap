@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—intra-modal, cross-
 created: 2026-02-14
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-05-10T15:13:00+00:00
+ai_modified: 2026-05-10T21:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,203 +51,180 @@ coalesced_from:
   - "/topics/phenomenal-binding-and-multimodal-integration/"
 ---
 
-The Unfinishable Map treats binding as not one problem but a family of related problems, each revealing something distinct about consciousness. The binding problem is usually introduced through vision — how does the brain combine colour, shape, and motion into one object? — but this undersells its scope. Binding operates across sensory modalities, across time, across cognitive domains, and between experiences and their subject. Each variety resists physical explanation in its own way, yet they share a common structure: physical processes that are separate must somehow become experiential wholes. Mapping this family systematically reveals that the difficulty is not piecemeal — it is not that we lack solutions to five separate puzzles — but structural. The same gap between coordination and unity appears everywhere consciousness appears.
+The Unfinishable Map treats binding as a family of related problems, each revealing something distinct about consciousness. Usually introduced through vision — how does the brain combine colour, shape, and motion into one object? — the binding problem extends across sensory modalities, time, cognitive domains, and the subject of experience. Each variety resists physical explanation in its own way, yet they share a common structure: physical processes that are separate must somehow become experiential wholes. The same gap between coordination and unity appears everywhere consciousness appears — evidence that the difficulty is structural, not piecemeal.
 
 ## The Foundational Distinction: BP1 and BP2
 
-Every binding problem splits into two sub-problems (Revonsuo 2006). Understanding this distinction is essential before surveying the varieties.
+Every binding problem splits into two sub-problems (Revonsuo 2006).
 
-**BP1 (Computational Binding)** asks how the brain coordinates distributed processing. How does the visual system assign "red" and "round" to the same object rather than swapping features between objects? This is a tractable information-processing problem. Neuroscience has identified plausible mechanisms — [[binding-problem|gamma synchrony]], thalamocortical loops, attentional gating — and continues to make progress.
+**BP1 (Computational Binding)** asks how the brain coordinates distributed processing — how the visual system assigns "red" and "round" to the same object rather than swapping features. This is a tractable information-processing problem. Neuroscience has identified plausible mechanisms — [[binding-problem|gamma synchrony]], thalamocortical loops, attentional gating — and continues to make progress.
 
-**BP2 (Phenomenal Binding)** asks why coordinated processing produces unified experience. Even granting a complete solution to BP1, we haven't explained why the bound information feels like one thing rather than parallel streams happening to be coordinated. This is the [[hard-problem-of-consciousness]] applied to unity — and it appears in every variety of binding described below.
+**BP2 (Phenomenal Binding)** asks why coordinated processing produces unified experience. Even granting a complete solution to BP1, we haven't explained why bound information feels like one thing rather than parallel streams happening to be coordinated. This is the [[hard-problem-of-consciousness]] applied to unity — and it appears in every variety below.
 
-The distinction matters because BP1 solutions are routinely mistaken for BP2 solutions. Explaining *how* features are coordinated does not explain *why* coordination produces phenomenal unity. This confusion runs through much of the binding literature and obscures what remains genuinely unsolved. See [[binding-problem]] for extended treatment.
+The distinction matters because BP1 solutions are routinely mistaken for BP2 solutions. Explaining *how* features are coordinated does not explain *why* coordination produces phenomenal unity. See [[binding-problem]] for extended treatment.
 
 ## Five Varieties of Binding
 
 ### 1. Intra-Modal Binding
 
-The textbook case. Within a single sensory modality, features processed in separate cortical regions must combine into unified percepts. When you see a red ball bouncing, redness (V4), roundness (inferotemporal cortex), and motion (MT/V5) are processed by different neural populations. Yet your experience presents one moving red ball.
+The textbook case. Within a single modality, features processed in separate cortical regions must combine into unified percepts. When you see a red ball bouncing, redness (V4), roundness (inferotemporal cortex), and motion (MT/V5) are processed by different neural populations. Yet your experience presents one moving red ball.
 
-**BP1 progress**: Feature Integration Theory (Treisman 1980) proposes that attention is the "glue" — spatial attention integrates all features at a location into a unified object representation. Gamma-band synchrony (30-100 Hz) tags same-object features through temporal coincidence. Illusory conjunctions under divided attention — seeing a blue circle when presented with a blue square and a yellow circle — confirm that binding requires attentional resources and can fail predictably.
+**BP1 progress**: Feature Integration Theory (Treisman 1980) proposes that attention is the "glue" — spatial attention integrates features at a location into a unified object representation. Gamma-band synchrony (30-100 Hz) tags same-object features through temporal coincidence. Illusory conjunctions under divided attention — seeing a blue circle when presented with a blue square and a yellow circle — confirm that binding requires attentional resources and can fail predictably.
 
-**BP2 gap**: Synchronized firing is still firing in separate neurons. Even perfect temporal coincidence does not produce ontological unity. Why does temporal tagging *feel* unified? The mechanism explains when binding succeeds or fails but not why successful binding produces unified experience rather than correctly labelled parallel streams.
-
-The identity theorist will reply: perhaps synchronised activity just *is* phenomenal unity, the way water just *is* H₂O. Identities are discovered, not produced — we should not expect to derive one side from the other. But this analogy is weaker than it appears. "Water = H₂O" links two third-person descriptions of the same substance; both sides are observable from outside. The proposed binding identity links a third-person description (synchronous neural firing) to a first-person reality (unified experience). This is a category shift that standard scientific identities do not require. Demanding that we simply accept it as brute identity concedes that no explanatory work is being done — which is the BP2 gap stated in different terms.
+**BP2 gap**: Synchronized firing is still firing in separate neurons. Even perfect temporal coincidence does not produce ontological unity. The identity reply — "synchronised activity just *is* phenomenal unity, the way water *is* H₂O" — links two third-person descriptions of one substance; the proposed binding identity links a third-person mechanism to a first-person reality. That category shift is what standard scientific identities do not require, and accepting it as brute identity concedes no explanatory work is being done.
 
 ### 2. Cross-Modal Binding {#cross-modal}
 
-Different sensory modalities process information in spatially separate cortical regions, at different speeds, using fundamentally different neural codes. Yet when these modalities refer to the same external event — a hand clapping — you experience a single multimodal percept, not three parallel streams. Cross-modal binding is the binding problem's sharpest test case, because the inputs differ not just in location but in *kind*.
+Different sensory modalities process information in spatially separate cortical regions, at different speeds, using fundamentally different neural codes. Yet when modalities refer to the same external event — a hand clapping — you experience a single multimodal percept, not three parallel streams. Cross-modal binding is the binding problem's sharpest test case, because the inputs differ not just in location but in *kind*.
 
-#### Why Cross-Modal Binding Is the Hardest Case
+#### Why Cross-Modal Is the Hardest Case
 
-Intra-modal binding combines features within a shared representational format. Cross-modal binding removes even this common ground. Visual signals are spatial and retinotopic, processed through V1 → V4 → inferotemporal cortex. Auditory signals are temporal and tonotopic, processed through a separate hierarchy (A1 → belt → parabelt) that represents frequency over time rather than spatial arrays. Somatosensory signals are body-mapped. Olfactory signals bypass the thalamic relay entirely, reaching piriform cortex with no spatial map at all. These modalities do not merely process in different locations — they use incommensurable codes. Translating between them is not like translating between languages with shared grammar; it is like translating between a photograph, a melody, and a pressure pattern. Yet the unified experience of being in a place — the atmospheric quality of a room, the felt presence of another person — integrates them seamlessly.
+Intra-modal binding combines features within a shared representational format. Cross-modal binding removes even this common ground. Visual signals are spatial and retinotopic. Auditory signals are temporal and tonotopic, processed through a separate hierarchy that represents frequency over time. Somatosensory signals are body-mapped. Olfactory signals bypass the thalamic relay, reaching piriform cortex with no spatial map at all. These modalities do not merely process in different locations — they use incommensurable codes. Translating between them is like translating between a photograph, a melody, and a pressure pattern. Yet the unified experience of being in a place integrates them seamlessly.
 
-#### Temporal Recalibration: The Brain Rewrites Time
+#### Temporal Recalibration
 
-One of the most revealing phenomena in cross-modal binding is **temporal recalibration**. When subjects are repeatedly exposed to audiovisual pairs where the sound is delayed relative to the image, their perception of simultaneity shifts — they begin to perceive delayed sounds as simultaneous with the visual stimulus. The brain actively adjusts the temporal alignment of different sensory streams to maintain cross-modal coherence.
+When subjects are exposed to audiovisual pairs where the sound is delayed, their perception of simultaneity shifts — they begin to perceive delayed sounds as simultaneous with the visual stimulus. The brain actively adjusts cross-modal timing to maintain coherence.
 
-This matters philosophically for two reasons. First, it shows that phenomenal simultaneity is constructed, not given. The brain does not passively register when events occur and report the results. It actively manipulates perceived timing to produce a unified experience. The felt present — the "now" in which you experience seeing and hearing as co-occurring — is a product of integration, not a transparent window onto physical simultaneity.
-
-Second, recalibration reveals that the brain prioritises phenomenal unity over temporal accuracy. When forced to choose between reporting veridical timing and maintaining cross-modal coherence, the system sacrifices accuracy. This is consistent with phenomenal unity being a design constraint on consciousness rather than an emergent byproduct of neural processing. The system is built to produce unified experience, adjusting its inputs to fit.
+This matters for two reasons. First, phenomenal simultaneity is constructed, not given — the felt present is a product of integration, not a transparent window onto physical simultaneity. Second, recalibration shows the brain prioritises phenomenal unity over temporal accuracy: when forced to choose between veridical timing and cross-modal coherence, it sacrifices accuracy. Phenomenal unity behaves as a design constraint on consciousness, not an emergent byproduct.
 
 #### Inverse Effectiveness: Unity from Weakness
 
-A second empirical finding deepens the puzzle. The **principle of inverse effectiveness** states that the weakest unisensory stimuli produce the strongest multisensory enhancement. When visual and auditory signals are both strong, combining them adds little to the response. When both are weak — barely detectable individually — their combination produces a dramatically enhanced percept, often lifting the stimulus above detection threshold entirely.
+The **principle of inverse effectiveness** states that the weakest unisensory stimuli produce the strongest multisensory enhancement. When both signals are weak — barely detectable individually — their combination produces a dramatically enhanced percept, often lifting the stimulus above detection threshold. Superior colliculus multisensory neurons demonstrate this with supralinear responses to spatiotemporally congruent weak stimuli.
 
-Superior colliculus multisensory neurons demonstrate this clearly: spatiotemporally congruent weak stimuli produce supralinear responses that far exceed the sum of individual inputs, with association cortex input required for the enhancement.
+Inverse effectiveness makes functional sense — combining uncertain signals maximises information extraction. But the phenomenal puzzle deepens: a barely visible flash combined with a barely audible click produces a clear audiovisual event with a felt reality neither component had individually. The whole is not just informationally greater than the parts — it is *phenomenally* greater. The [[bandwidth-of-consciousness|bandwidth asymmetry]] sharpens this: the conscious interface amplifies precisely the weakest signals.
 
-Inverse effectiveness makes functional sense — combining uncertain signals maximises information extraction. But it deepens the phenomenal puzzle. When two weak signals combine to produce a vivid percept, the unified experience has a qualitative richness that neither component possesses alone. The whole is not just informationally greater than the parts — it is *phenomenally* greater. A barely visible flash combined with a barely audible click produces a clear audiovisual event with a felt reality that neither component had individually. The [[bandwidth-of-consciousness|bandwidth asymmetry]] sharpens the puzzle: the conscious interface amplifies precisely the weakest signals, as though compensating for impoverished input rather than merely passing through whatever arrives strongest.
-
-This is the [[combination-problem]] in miniature: how do two impoverished experiences combine into one rich experience? Adding information does not automatically add phenomenal richness. Something about the act of combination produces [[qualia|qualitative properties]] that the components lack.
+This is the [[combination-problem]] in miniature: how do two impoverished experiences combine into one rich experience? Combination produces [[qualia|qualitative properties]] the components lack.
 
 #### The Unity of Place
 
-The deepest expression of cross-modal binding is the experience of being somewhere — what the Map calls the [[consciousness-and-the-phenomenology-of-place|phenomenology of place]]. When you walk into a forest, you do not experience separate visual greenness, auditory birdsong, olfactory pine, tactile breeze, and proprioceptive walking. You experience *being in a forest*. The place has a unified atmospheric quality that resists decomposition into its sensory sources.
+The deepest expression of cross-modal binding is the experience of being somewhere — the [[consciousness-and-the-phenomenology-of-place|phenomenology of place]]. Walking into a forest, you do not experience separate visual greenness, auditory birdsong, olfactory pine, tactile breeze, and proprioceptive walking. You experience *being in a forest* — a unified atmospheric quality that resists decomposition into sensory sources.
 
-This integrative achievement is philosophically extraordinary. Each modality provides different information through different codes, processed at different speeds and in different formats. Yet the result is not a collage of sensory data but a seamless experiential world. The [[three-dimensional-world-representation-problem|3D world representation problem]] captures one aspect of this: visual depth, auditory localisation, proprioceptive body position, and vestibular orientation must bind into a single phenomenal spatial arena.
+The [[three-dimensional-world-representation-problem|3D world representation problem]] captures one aspect: visual depth, auditory localisation, proprioceptive body position, and vestibular orientation must bind into a single phenomenal spatial arena. Cross-modal binding is not merely feature-level integration but world-level integration — constructing a unified experiential arena from incommensurable inputs.
 
-The unity of place reveals that cross-modal binding is not merely feature-level integration (assigning "red" and "round" to the same object) but world-level integration — constructing a unified experiential arena from incommensurable inputs. No computational theory has explained how separate sensory maps become one felt space.
+#### What Neural Mechanisms Do Not Explain
 
-#### What Neural Mechanisms Explain — and What They Do Not
+Neuroscience has made progress on BP1 here. Superior colliculus multisensory neurons have topographically aligned spatial maps. The thalamus coordinates oscillations to create temporal windows for cross-modal binding. Global Workspace Theory holds that information becomes conscious when broadcast to a cortical-thalamic workspace within ~100ms.
 
-Neuroscience has made genuine progress on BP1 in cross-modal integration. The superior colliculus contains multisensory neurons whose topographically aligned spatial maps produce supralinear responses to spatiotemporally congruent inputs, with NMDA nonlinearities and GABAergic disinhibition as cellular substrates. The thalamus coordinates slow and ultraslow oscillations to create temporal windows for cross-modal binding — Default Space Theory proposes the thalamus sustains "metastable synchronisation of local computations into global coherence." Global Workspace Theory holds that information becomes conscious when broadcast to a cortical-thalamic workspace within a ~100ms window.
-
-Each mechanism explains *how* the brain coordinates information across modalities. None explains *why* coordination produces unified phenomenology. The superior colliculus integrates inputs for orienting responses, mostly unconsciously. Thalamocortical oscillations coordinate timing, but temporal coincidence between fundamentally different signal types does not entail experiential unity. Global broadcasting makes information available, but availability is functional, not phenomenal. The [[explanatory-gap]] here is structural: as [[binding-problem]] argues, classical mechanisms coordinate separate processes but cannot make them one process. However tightly synchronised, visual and auditory processing remain two things in coordination, not one thing happening.
+Each mechanism explains *how* coordination occurs, not *why* coordination produces unified phenomenology. Thalamocortical oscillations coordinate timing, but temporal coincidence between different signal types does not entail experiential unity. Global broadcasting makes information available, but availability is functional, not phenomenal. The [[explanatory-gap]] here is structural: classical mechanisms coordinate separate processes but cannot make them one process. However tightly synchronised, visual and auditory processing remain two things in coordination, not one thing happening.
 
 ### 3. Temporal Binding {#temporal}
 
-Experience extends across time. The present moment is not a durationless instant but a "specious present" containing recently past and immediately anticipated events. When you hear a melody, each note arrives sequentially, yet you experience the musical phrase as a temporal whole — the notes are bound into a progression with structure and direction. See [[temporal-consciousness]] and [[episodic-memory]].
+Experience extends across time. The present moment is not a durationless instant but a "specious present" containing recently past and immediately anticipated events. Hearing a melody, each note arrives sequentially, yet the phrase is experienced as a temporal whole. See [[temporal-consciousness]] and [[episodic-memory]].
 
-**BP1 progress**: Working memory maintains representations across seconds. Hippocampal replay compresses temporal sequences. Oscillatory dynamics — the brain's [[neural-refresh-rates]] at alpha (~10 Hz), theta (~6 Hz), and gamma (~40 Hz) — create temporal windows within which events are treated as co-occurring. The brain can retroactively adjust the perceived timing of events — later processing adjusts timestamps to construct phenomenal simultaneity.
+**BP1 progress**: Working memory maintains representations across seconds. Hippocampal replay compresses temporal sequences. [[neural-refresh-rates|Oscillatory dynamics]] at alpha, theta, and gamma create temporal windows within which events are treated as co-occurring.
 
-**BP2 gap**: Temporal binding raises a distinctive puzzle. At any physical instant, only the current state exists — past states have ceased, future states have not begun. Yet consciousness encompasses temporal extension. The heard melody is not a sequence of separate "now-experiences" strung together retrospectively; it is experienced as a temporal arc. What makes a temporal sequence a *unified temporal experience* rather than a series of disconnected moments? Neural mechanisms that maintain information across time (working memory, hippocampal replay) explain how the brain retains past content but not why retained content is experienced as temporally extended rather than merely stored. The Map's [[temporal-consciousness-structure-and-agency|temporal constitution thesis]] argues that consciousness actively constitutes these temporal wholes — the melody, the argument, the remembered life — from elements that physically do not coexist.
+**BP2 gap**: At any physical instant, only the current state exists. Yet consciousness encompasses temporal extension — the heard melody is experienced as a temporal arc, not a sequence of separate "now-experiences" strung together retrospectively. Mechanisms that maintain information across time explain how the brain retains past content, but not why retained content is *experienced as* temporally extended rather than merely stored. The Map's [[temporal-consciousness-structure-and-agency|temporal constitution thesis]] argues that consciousness actively constitutes these wholes from elements that physically do not coexist.
 
-[[episodic-memory|Autonoetic consciousness]] — the capacity to re-experience one's own past — reveals temporal binding in its most demanding form. When you remember a childhood event, "pastness" is phenomenally bound to the content. You are simultaneously present as rememberer (now) and protagonist (then). Two temporal perspectives are unified in a single experience without collapsing into one.
+[[episodic-memory|Autonoetic consciousness]] reveals temporal binding in its most demanding form. When you remember a childhood event, you are simultaneously present as rememberer (now) and protagonist (then). Two temporal perspectives are unified in a single experience without collapsing into one.
 
 ### 4. Cognitive Binding {#cognitive}
 
-Beyond perception, binding operates in thought, reasoning, and language. When you understand the sentence "The cat that the dog chased climbed the tree," you bind sequentially encountered words into a hierarchical structure — and the "click" when the sentence coheres resembles perceptual binding. See [[language-recursion-and-consciousness]] and [[cognitive-phenomenology]].
+Beyond perception, binding operates in thought, reasoning, and language. Understanding "The cat that the dog chased climbed the tree" binds sequentially encountered words into a hierarchical structure — and the "click" when a sentence coheres resembles perceptual binding. See [[language-recursion-and-consciousness]] and [[cognitive-phenomenology]].
 
-**BP1 progress**: Recursive syntactic processing involves prefrontal-temporal circuits. [[working-memory]] maintains structural representations during incremental parsing. Semantic integration involves widespread cortical activation that converges into unified meaning representations.
+**BP1 progress**: Recursive syntactic processing involves prefrontal-temporal circuits. [[working-memory]] maintains structural representations during incremental parsing. Semantic integration converges widespread cortical activation into unified meaning representations.
 
-**BP2 gap**: Cognitive binding involves [[cognitive-phenomenology|cognitive phenomenology]] — the felt quality of understanding, the experience of meaning. When a complex argument "clicks," there is something it is like to grasp the whole that exceeds what it is like to grasp each premise separately. Extending Bayne and Chalmers's concept of "conjoint phenomenology" from perception to thought: just as seeing-and-hearing-simultaneously has a unified phenomenal character, understanding-all-the-parts-together has a phenomenal character that exceeds the sum of understanding each part. [[consciousness-and-mathematics|Mathematical cognition]] provides a particularly demanding case: holding a complex proof in unified comprehension requires binding sequentially encountered premises, intermediate lemmas, and logical dependencies into a single felt grasp of why the conclusion must follow — a binding that spans both temporal and cognitive dimensions simultaneously.
+**BP2 gap**: Cognitive binding involves [[cognitive-phenomenology|cognitive phenomenology]] — the felt quality of understanding. When a complex argument "clicks," there is something it is like to grasp the whole that exceeds what it is like to grasp each premise separately. Bayne and Chalmers's "conjoint phenomenology" extends from perception to thought: understanding-all-the-parts-together has a phenomenal character exceeding the sum of understanding each part. [[consciousness-and-mathematics|Mathematical cognition]] is the demanding case — holding a proof in unified comprehension binds sequentially encountered premises, lemmas, and dependencies into a single felt grasp of why the conclusion must follow.
 
-Structural ambiguity makes this vivid. "I saw the man with the telescope" admits two parsings: you used a telescope, or the man had one. Consciousness selects among binding configurations — and the selection has phenomenal consequences. The experience of resolving ambiguity, of one parsing "winning," involves a shift in unified phenomenal content that parallels the selection among possible bound percepts in vision.
+Structural ambiguity makes this vivid. "I saw the man with the telescope" admits two parsings. Consciousness selects among binding configurations, and the selection has phenomenal consequences — one parsing "wins" with a shift in unified content paralleling the selection among possible bound percepts in vision.
 
 ### 5. Subject Binding {#subject}
 
-The most fundamental variety: all experiences are had by a single subject. Your visual perception, auditory sensation, emotional feeling, and cognitive thought do not merely co-occur — they belong to *you*. There is a fact about whose experiences they are.
+The most fundamental variety: all experiences are had by a single subject. Visual perception, auditory sensation, emotional feeling, and cognitive thought do not merely co-occur — they belong to *you*.
 
-**BP1 progress**: Self-referential processing involves midline cortical structures (medial prefrontal cortex, posterior cingulate). The "default mode network" maintains a sense of self across task states. Proprioceptive integration produces a sense of bodily ownership.
+**BP1 progress**: Self-referential processing involves midline cortical structures (medial prefrontal cortex, posterior cingulate). The default mode network maintains a sense of self across task states. Proprioceptive integration produces bodily ownership.
 
-**BP2 gap**: Subject binding is arguably the most fundamental variety because it cannot be stated in purely computational terms. The question "why are these experiences all mine?" presupposes a subject for whom the binding obtains. No neural mechanism for self-reference explains why there is a *subject* at all — why there is someone for whom these processes are unified rather than parallel processes with no owner. The [[self-and-self-consciousness|self]] is not another content that gets bound to other contents; it is the perspective from which binding is experienced.
+**BP2 gap**: Subject binding cannot be stated in purely computational terms. "Why are these experiences all mine?" presupposes a subject for whom binding obtains. No neural mechanism for self-reference explains why there is a *subject* at all — why there is someone for whom these processes are unified rather than parallel processes with no owner. The [[self-and-self-consciousness|self]] is not another content that gets bound to other contents; it is the perspective from which binding is experienced.
 
-[[split-brain-consciousness|Split-brain cases]] test subject binding directly. When the corpus callosum is severed, perceptual binding partially divides. But does the *subject* divide? Nagel argued the result is "too much unity to say 'two', yet too much separation to say 'one'." Phenomenal unity proves more resilient than neural connectivity alone would predict — pointing toward binding mechanisms that transcend local neural correlation.
+[[split-brain-consciousness|Split-brain cases]] test this directly. When the corpus callosum is severed, perceptual binding partially divides. But does the *subject* divide? Nagel argued the result is "too much unity to say 'two', yet too much separation to say 'one'." Phenomenal unity proves more resilient than neural connectivity alone would predict.
 
 ## The Shared Structure
 
-These five varieties are not five independent problems. They share a common structure:
+The five varieties share a common structure:
 
 1. **Physical processes are distributed** — across brain regions, across time, across representational formats
-2. **Neural mechanisms coordinate** these distributed processes — through synchrony, convergence, oscillatory dynamics
-3. **Experience is unified** — the coordinated information is experienced as one thing, not many coordinated things
+2. **Neural mechanisms coordinate** them — through synchrony, convergence, oscillatory dynamics
+3. **Experience is unified** — coordinated information is experienced as one thing, not many coordinated things
 4. **The gap between 2 and 3 resists explanation** — no account has shown how coordination yields ontological unity
 
-The persistence of this gap across all five varieties is evidence that it reflects something structural rather than a series of coincidental explanatory failures. If intra-modal binding were solved but cross-modal binding remained mysterious, we might attribute the difficulty to the added complexity of cross-modal integration. But the same gap appears in temporal binding, cognitive binding, and subject binding. The problem is not the details of any particular domain — it is the transition from coordinated plurality to experiential unity as such.
-
-This convergence has an important implication: any successful explanation of binding must work across all five varieties simultaneously. A theory that explains perceptual binding but cannot address temporal or subject binding has explained BP1, not BP2. Phenomenal unity is a general feature of consciousness, not a domain-specific trick.
+The persistence of this gap across all five varieties suggests it reflects something structural, not coincidental explanatory failures in different domains. The problem is not the details of any particular domain — it is the transition from coordinated plurality to experiential unity as such. Any successful explanation must work across all five varieties: a theory that explains perceptual binding but cannot address temporal or subject binding has explained BP1, not BP2.
 
 ## Dissociations: BP1 Without BP2
 
-Evidence that computational and phenomenal binding come apart strengthens the case that they are different explanatory targets — though the evidence requires careful interpretation.
+Evidence that computational and phenomenal binding come apart strengthens the case that they are different explanatory targets.
 
-**NREM sleep**: During deep sleep, local cortical processing continues — memory consolidation, hippocampal replay, pattern integration — yet phenomenal unity is absent. [[sleep-and-consciousness|Sleep]] shows that some computational binding proceeds without BP2, though the picture is more complex than a clean split: long-range cortical connectivity is also dramatically disrupted, with the thalamocortical system fragmenting into isolated islands of activity. It is not that *all* of BP1 is intact while BP2 alone vanishes — global integration is disrupted too.
+**NREM sleep and anesthesia**: Local cortical processing continues — memory consolidation, hippocampal replay, autonomic regulation — yet phenomenal unity is absent. [[sleep-and-consciousness|Sleep]] research and anesthesia studies show the loss correlates with disrupted long-range connectivity, with the thalamocortical system fragmenting into isolated islands of activity. The picture is not a clean "BP1 intact, BP2 vanished" split, but certain forms of processing persist while unified experience does not.
 
-IIT makes this its central prediction: consciousness tracks integrated information (Φ), so when perturbational complexity drops, consciousness disappears. On IIT's account there is no separate BP2 — reduced integration is reduced consciousness. The reply from the Map's perspective is that IIT's predictive success in identifying *when* consciousness is present does not settle the explanatory question of *why* high-Φ systems have phenomenal unity. Correlation between integration and consciousness, even if empirically robust, is consistent with integration being necessary without being identical. The BP2 question persists: why does integrated information feel unified rather than merely being informationally integrated?
+IIT predicts this directly: consciousness tracks integrated information (Φ), so reduced perturbational complexity is reduced consciousness — on IIT's account there is no separate BP2. The Map's reply is that predictive success in identifying *when* consciousness is present does not settle *why* high-Φ systems have phenomenal unity. Correlation between integration and consciousness, even if empirically robust, is consistent with integration being necessary without being identical.
 
-**Anesthesia**: General anesthetics suppress consciousness while local cortical activity continues. As with NREM sleep, the loss of consciousness correlates with disrupted long-range connectivity, not merely with the loss of some "phenomenal" ingredient layered on top of intact processing. The evidential value for a BP1/BP2 distinction lies in the specific observation that certain forms of processing (local coordination, reflex arcs, autonomic regulation) persist while unified experience does not — leaving open whether this dissociation is fully captured by *degree* of integration or points to something qualitatively different.
-
-**Unconscious multisensory processing**: Subliminal cross-modal integration occurs — the brain combines visual and auditory information below the threshold of awareness. The information is computationally bound without being phenomenally bound. These cases show that the neural machinery for at least some forms of BP1 is not sufficient for BP2.
-
-The converse also occurs: phenomenal unity sometimes exceeds the information available. Filling-in at the blind spot produces seamless visual experience despite the absence of retinal input — cortical processing generates phenomenal content without corresponding sensory data. These asymmetries suggest that BP1 and BP2, while related, are different explanatory targets.
+**Unconscious multisensory processing**: Subliminal cross-modal integration combines visual and auditory information below awareness — computationally bound without being phenomenally bound. The converse also occurs: filling-in at the blind spot produces seamless visual experience despite absent retinal input — cortical processing generates phenomenal content without corresponding sensory data. These asymmetries suggest BP1 and BP2 are different explanatory targets.
 
 ## Theoretical Landscape
 
 ### Classical Approaches
 
-Classical approaches address BP1 with increasing sophistication but leave BP2 untouched:
+Classical approaches address BP1 but leave BP2 untouched:
 
 - **Binding by synchrony** says unity is temporal coincidence — but coincidence is not identity
 - **Global Workspace Theory** says unity is global availability — but availability is functional, not experiential
-- **IIT** says consciousness *is* integration — and makes testable predictions about when consciousness is present (the dissociations section above discusses this). The identification of phenomenal unity with integrated information remains an additional metaphysical claim, not a consequence of the empirical correlation. [[consciousness-and-integrated-information|The Map's critique of IIT]] develops three specific objections — the passivity problem, the expander graph problem, and the temporal gap — showing that the identity thesis renders consciousness causally inert.
+- **IIT** says consciousness *is* integration. Identifying phenomenal unity with integrated information is an additional metaphysical claim, not a consequence of the empirical correlation. [[consciousness-and-integrated-information|The Map's critique]] develops three objections — passivity, the expander graph problem, the temporal gap — showing the identity thesis renders consciousness causally inert.
 
-The functionalist response — that once coordination is explained, "unity" names the coordination itself — equates unity with global integration. This restates rather than resolves the question of why integrated processing is accompanied by unified experience.
-
-All classical approaches inherit the same structural limitation: they combine, correlate, or integrate things that remain metaphysically distinct. Classical physics describes external relations between parts. No classical mechanism has been shown to create ontological unity from ontological plurality — the parts remain metaphysically distinct however tightly they are coordinated. See [[binding-problem]] for the full argument.
+The functionalist response — that "unity" just names the coordination itself — restates rather than resolves why integrated processing is accompanied by unified experience. All classical approaches inherit the same structural limitation: they combine things that remain metaphysically distinct. Classical physics describes external relations between parts; no classical mechanism creates ontological unity from ontological plurality. See [[binding-problem]] for the full argument.
 
 ### The Quantum Alternative
 
-Quantum entanglement provides something structurally different from classical coordination: on a realist interpretation, what appears to be genuine holism where the whole is prior to parts. An entangled system has properties that neither subsystem possesses individually — irreducible unity at the level of physics itself. (Whether entanglement constitutes metaphysical holism or merely describes measurement correlations depends on one's interpretation of quantum mechanics; the Map adopts the realist reading.) See [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] for detailed treatment.
+Quantum entanglement provides something structurally different: on a realist interpretation, genuine holism where the whole is prior to parts. An entangled system has properties neither subsystem possesses individually — irreducible unity at the level of physics itself. (Whether entanglement is metaphysical holism or mere measurement correlation depends on interpretation; the Map adopts the realist reading.) See [[quantum-holism-and-phenomenal-unity]] for detailed treatment.
 
-The structural correspondence between quantum holism and phenomenal unity is significant: both involve wholes that are not assembled from separates. But structural correspondence is not full explanation — the transition from physical holism to phenomenal holism remains the hard problem. The quantum approach identifies the right *kind* of physical substrate and a locus where consciousness might participate (at collapse), while acknowledging that the hard problem persists.
+The structural correspondence is significant: both quantum holism and phenomenal unity involve wholes not assembled from separates. But structural correspondence is not full explanation — the transition from physical to phenomenal holism remains the hard problem. The quantum approach identifies the right *kind* of substrate and a locus where consciousness might participate (at collapse).
 
-The standard objection is decoherence: warm biological tissue destroys quantum superpositions on femtosecond timescales, making sustained entanglement across thalamic neurons implausible by conventional estimates. The Map's minimal interaction framework requires only that consciousness influence the outcome of collapses already occurring, not that it maintain coherence — but this remains a significant empirical challenge. What makes the proposal worth pursuing is that quantum entanglement offers genuine holism: an entangled system has properties irreducible to its parts, mirroring how multimodal experience has qualities irreducible to its sensory components.
+The standard objection is decoherence: warm biological tissue destroys superpositions on femtosecond timescales. The Map's minimal interaction framework requires only that consciousness influence collapses already occurring, not that it maintain coherence — though this remains an empirical challenge.
 
 ### Unity as Primitive
 
-A third approach: treat phenomenal unity as metaphysically basic rather than derived from non-unified elements. If unity is fundamental to consciousness — if it is what makes something an experience rather than a feature added to experience — then BP2 is not a problem to be solved by finding the right mechanism. It is a feature of what consciousness *is*.
-
-On this view, neural binding mechanisms (BP1) condition *which* experiential contents are unified — what gets bound together — while unity itself is contributed by consciousness. This explains the persistent BP1/BP2 gap: neuroscience keeps solving coordination problems without touching phenomenal unity because coordination and unity are different in kind. See [[binding-problem]] for extended discussion.
+A third approach: treat phenomenal unity as metaphysically basic rather than derived from non-unified elements. If unity is what makes something an experience rather than a feature added to experience, then BP2 is not a problem to be solved by finding the right mechanism — it is a feature of what consciousness *is*. Neural binding mechanisms (BP1) condition *which* contents are unified; unity itself is contributed by consciousness. This explains the persistent gap: coordination and unity are different in kind. See [[binding-problem]] for extended discussion.
 
 ## Relation to Site Perspective
 
-The binding problem — treated systematically as a family rather than a single puzzle — illuminates why the Map's [[tenets]] take the positions they do.
+The binding problem — treated as a family rather than a single puzzle — illuminates why the Map's [[tenets]] take the positions they do.
 
-**[[tenets#^dualism|Dualism]]**: The shared structure across all five binding varieties reveals that phenomenal unity is irreducible to physical coordination. The same explanatory gap appears in perception, time, cognition, and subjecthood. Cross-modal binding makes this maximally stark: different modalities don't just process in different locations — they use fundamentally different representational formats. No arrangement of separate physical processes — no matter how tightly coordinated — produces genuine experiential unity. This supports the core dualist claim: consciousness involves something beyond the physical.
+**[[tenets#^dualism|Dualism]]**: The shared structure across all five varieties reveals that phenomenal unity is irreducible to physical coordination. The same gap appears in perception, time, cognition, and subjecthood. Cross-modal binding makes this maximally stark — different modalities use fundamentally different representational formats. No arrangement of separate physical processes, however tightly coordinated, produces genuine experiential unity.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If quantum entanglement is the only physics providing genuine holism, the binding problem motivates the tenet directly. Classical physics can coordinate separates; only quantum mechanics can produce genuine wholes. The thalamus receives converging inputs from all sensory modalities and projects widely to cortex. If quantum collapse at thalamic relay neurons produces unified phenomenal content — as the Map's framework proposes — this provides a mechanism for cross-modal binding that classical coordination cannot. The binding problem's resistance to classical solution is consistent with consciousness operating at the quantum level.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If quantum entanglement is the only physics providing genuine holism, the binding problem motivates the tenet directly. The thalamus receives converging inputs from all sensory modalities and projects widely to cortex. If quantum collapse at thalamic relay neurons produces unified phenomenal content — as the Map's framework proposes — this provides a mechanism for cross-modal binding that classical coordination cannot.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Binding is not passive. [[attention-as-interface|Phenomenal attention]] — the felt, effortful directedness of consciousness, distinct from computational resource allocation — shapes what gets bound. You can voluntarily shift attention between modalities, focusing on what you see, then what you hear, then the overall atmosphere. These shifts alter which binding configuration consciousness selects. Functionalists can model attentional selection computationally, but the same gap appears: why do these shifts *feel* like anything, and why do bound percepts have a particular phenomenal character? The fact that [[mental-effort|effortful attention]] shapes which streams unify suggests top-down causation from phenomenal states to neural coordination — connecting to [[free-will|free will]]: if phenomenal binding is partly under voluntary control, consciousness actively selects among possible unified experiences rather than passively registering whatever the brain presents.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Binding is not passive. [[attention-as-interface|Phenomenal attention]] — the felt directedness of consciousness, distinct from computational resource allocation — shapes what gets bound. Voluntarily shifting attention between modalities alters which binding configuration consciousness selects. The fact that [[mental-effort|effortful attention]] shapes which streams unify suggests top-down causation from phenomenal states to neural coordination, connecting to [[free-will|free will]]: consciousness actively selects among possible unified experiences rather than passively registering whatever the brain presents.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The systematicity of binding — the fact that *this* particular configuration of contents is unified in *this* particular way — requires real collapse. In many-worlds, every possible binding occurs in parallel branches. The phenomenological fact that I am experiencing *this* unified configuration, and not another, requires that one configuration was selected as actual. Many-worlds removes the selection that binding seems to require.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The systematicity of binding — that *this* particular configuration of contents is unified in *this* particular way — requires real collapse. In many-worlds, every possible binding occurs in parallel branches; the phenomenological fact that I am experiencing *this* unified configuration requires one configuration was selected as actual.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Five varieties of the same gap is not five coincidences — it is a pattern. The temptation is to assume that explaining BP1 in each domain will automatically explain BP2. But the systematicity of the failure suggests that the gap is principled, not a matter of insufficient progress. Apparent simplicity (just solve the coordination problem) conceals genuine complexity (unity is not coordination).
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Five varieties of the same gap is a pattern, not five coincidences. The temptation is to assume explaining BP1 in each domain will automatically explain BP2. The systematicity of the failure suggests the gap is principled, not a matter of insufficient progress. Apparent simplicity (just solve coordination) conceals genuine complexity (unity is not coordination).
 
 ## What Would Challenge This View?
 
-The systematic treatment of binding presented here rests on claims that could be undermined by future evidence or argument:
+The treatment here rests on claims that could be undermined:
 
-**A successful reductive explanation of any BP2 variety.** If neuroscience produced an account of, say, cross-modal binding that left no explanatory residue — making phenomenal unity *intelligible* from the neural mechanism rather than merely correlated with it — the argument from structural persistence would weaken. The vitalism analogy, where multiple seemingly irreducible phenomena dissolved under a single framework, is the template for this kind of defeat.
-
-**A computational model predicting conjoint phenomenology.** If a model could predict not just *that* audiovisual stimuli bind but *what the unified percept is like* — the specific qualitative character of hearing-while-seeing versus hearing alone — the gap between BP1 and BP2 would narrow.
-
-**Inverse effectiveness proving purely informational.** If the phenomenal richness of combined weak stimuli could be fully explained as Bayesian inference without phenomenal residue — if the "vividness" were just increased confidence — the combination-problem parallel would dissolve.
-
-**Temporal recalibration proving symmetrical with unconscious processing.** If subliminal cross-modal stimuli showed identical temporal recalibration to conscious perception, the claim that recalibration reflects a design constraint on *consciousness* (rather than on information processing generally) would weaken.
-
-**The identity move achieving explanatory, not just predictive, adequacy.** If "synchrony = unity" or "Φ = consciousness" could be defended as strongly as "water = H₂O" or "temperature = mean kinetic energy" — perhaps by showing the apparent category shift between third-person mechanism and first-person experience to be an artefact of our epistemic situation rather than a metaphysical boundary — the BP2 gap would be reclassified as epistemic rather than ontological, and the case for an irreducible BP2 would collapse.
-
-**Evidence against quantum holism in the brain.** If quantum coherence in biological neural systems were definitively ruled out at the relevant scales, the quantum alternative section would lose its physical grounding. The philosophical argument for unity as primitive would remain, but the proposed bridge between physics and phenomenology would be cut.
+- **A reductive explanation of any BP2 variety** that made phenomenal unity *intelligible* from the neural mechanism rather than merely correlated with it would weaken the argument from structural persistence. The vitalism analogy — multiple seemingly irreducible phenomena dissolving under a single framework — is the template for such defeat.
+- **A computational model predicting conjoint phenomenology** — predicting not just *that* audiovisual stimuli bind but *what the unified percept is like* — would narrow the BP1/BP2 gap.
+- **Inverse effectiveness proving purely informational** — if combined-weak vividness were just increased Bayesian confidence — would dissolve the combination-problem parallel.
+- **Temporal recalibration symmetrical with unconscious processing** — if subliminal cross-modal stimuli recalibrated identically to conscious perception — would weaken the claim that recalibration reflects a design constraint on *consciousness* specifically.
+- **The identity move achieving explanatory adequacy** — "synchrony = unity" defended as strongly as "water = H₂O" — would reclassify the BP2 gap as epistemic rather than ontological.
+- **Evidence against quantum holism in the brain** at relevant scales would cut the proposed bridge between physics and phenomenology, though the philosophical argument for unity as primitive would remain.
 
 ## Further Reading
 
-- [[binding-problem]] — The foundational concept: BP1/BP2 distinction, classical failure, and quantum holism
-- [[quantum-holism-and-phenomenal-unity]] — Entanglement as the physical substrate for unity
-- [[unity-of-consciousness|varieties of unity]] — Taxonomy of synchronic, diachronic, and subject unity
+- [[binding-problem]] — Foundational concept: BP1/BP2 distinction, quantum holism
+- [[quantum-holism-and-phenomenal-unity]] — Entanglement as substrate for unity
+- [[unity-of-consciousness|varieties of unity]] — Synchronic, diachronic, and subject unity
 - [[temporal-consciousness]] — Temporal binding and the specious present
-- [[cognitive-phenomenology]] — The felt quality of thinking and understanding
+- [[cognitive-phenomenology]] — Felt quality of thinking and understanding
 - [[split-brain-consciousness]] — Natural experiments on binding disruption
 - [[sleep-and-consciousness]] — BP1 without BP2 during dreamless sleep
-- [[mental-causation-and-downward-causation|downward causation]] — Top-down causation from phenomenal states to neural coordination
-- [[consciousness-and-the-phenomenology-of-place]] — The atmospheric character of places as cross-modal integration
-- [[three-dimensional-world-representation-problem]] — Spatial binding across visual, auditory, proprioceptive, and vestibular modalities
-- [[dualist-perception]] — Perceptual experience as the paradigm case of binding
-- [[lucid-dreaming-and-dualist-rendering]] — Multisensory dream experience without sensory input demonstrates phenomenal completeness independent of external stimulation
-- [[bandwidth-of-consciousness]] — The compression asymmetry that makes inverse effectiveness striking
-- [[neural-refresh-rates]] — Discrete oscillatory sampling rates and the smoothness problem in temporal binding
-- [[combination-problem]] — Panpsychism's version of the binding puzzle
-- [[consciousness-and-integrated-information]] — IIT's identity thesis: integration as definition versus activity
+- [[mental-causation-and-downward-causation|downward causation]] — Top-down causation from phenomenal states
+- [[consciousness-and-the-phenomenology-of-place]] — Atmospheric character of places
+- [[three-dimensional-world-representation-problem]] — Spatial binding across modalities
+- [[dualist-perception]] — Perception as the paradigm case of binding
+- [[lucid-dreaming-and-dualist-rendering]] — Multisensory experience without external input
+- [[bandwidth-of-consciousness]] — Compression asymmetry behind inverse effectiveness
+- [[neural-refresh-rates]] — Oscillatory sampling and the smoothness problem
+- [[combination-problem]] — Panpsychism's version of the puzzle
+- [[consciousness-and-integrated-information]] — IIT's identity thesis
 
 ## References
 

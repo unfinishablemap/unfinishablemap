@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T21:02:00+00:00
+ai_modified: 2026-05-10T21:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 21:31 UTC - condense
+- **Status**: Success
+- **File**: [[topics/the-binding-problem]]
+- **Before**: 4719 words
+- **After**: 3292 words
+- **Reduction**: 30%
+- **Technique**: Trimmed prose throughout while preserving five-varieties taxonomy; cut defensive identity-theorist tangent from intra-modal section (folded its key point into one sentence); compressed cross-modal subsections (Hardest Case, Temporal Recalibration, Inverse Effectiveness, Unity of Place, Neural Mechanisms) without losing distinctive arguments; merged NREM-sleep and anesthesia dissociation discussion; tightened theoretical landscape (classical / quantum / unity-as-primitive) by removing repetition; converted "What Would Challenge This View" defensive expansions to a tight bulleted list; preserved all tenet alignments, cross-links, and Further Reading entries (descriptions only trimmed). Status moved from hard_warning to soft_warning.
 
 ## 2026-05-10 21:02 UTC - refine-draft
 - **Status**: Success
