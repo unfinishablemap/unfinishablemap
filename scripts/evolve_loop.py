@@ -838,17 +838,41 @@ def run_session(
         except Exception as e:
             log.warning(f"Agentic social post error (non-fatal): {e}")
 
+    # 1.55. Abandon-sweep — pending entries past the 4h cutoff get marked
+    # abandoned regardless of attempt count. Without this, a stuck collect
+    # (e.g., a conversation Chrome can't render reliably) keeps consuming the
+    # collect slot iteration after iteration and starves sibling services in
+    # the same cycle. The skills' own abandon-checks fire only when their
+    # collect skill actually runs to completion; a sweep here catches the
+    # cases the skills miss.
+    from tools.reviews.pending import find_abandoned, mark_abandoned
+
+    for entry in find_abandoned(now, max_age_hours=4):
+        mark_abandoned(entry.target_filename)
+        log.warning(
+            f"Outer review abandoned (>4h pending, "
+            f"{entry.collect_attempts} attempts): {entry.target_filename}"
+        )
+
     # 1.6. Collect ready outer reviews (latency-sensitive — runs before cycle
     # dispatch so a ready review takes priority over a generic queue task).
-    # Iterates over services in registration order; first ready entry wins.
-    # Chrome is launched fresh per task — Chrome with the Claude Code extension
-    # degrades over long sessions, so each task runs against a clean process.
+    # Picks the OLDEST ready entry across all services so a slow/stuck
+    # service doesn't starve its sibling cycle-mates: "claude has been ready
+    # 8h" beats "gemini just hit its 20-min threshold". One collect per
+    # iteration to keep wall-clock cost predictable. Chrome is launched fresh
+    # per task — the Claude Code extension degrades over long sessions, so
+    # each task runs against a clean process.
     from tools.reviews.services import SERVICES as _OUTER_REVIEW_SERVICES
 
+    candidates = []
     for svc in _OUTER_REVIEW_SERVICES:
         ready_review = find_ready_outer_review_for(svc, now)
-        if ready_review is None:
-            continue
+        if ready_review is not None:
+            candidates.append((svc, ready_review))
+
+    if candidates:
+        candidates.sort(key=lambda c: c[1].commissioned_at)
+        svc, ready_review = candidates[0]
         log.info(
             f"Outer review ready for collection ({svc.service}): "
             f"{ready_review.target_filename} "
@@ -888,15 +912,10 @@ def run_session(
                             log.warning(f"  {line}")
         except ChromeUnavailableError as e:
             log.warning(f"Collect ({svc.service}) skipped — Chrome unavailable: {e}")
-            # Stop trying further collects this iteration if Chrome is locked.
-            break
         except SkillTimeoutError:
             log.warning(f"{svc.skill_collect} timed out (non-fatal)")
         except Exception as e:
             log.warning(f"{svc.skill_collect} error (non-fatal): {e}")
-        # One collect per iteration is plenty; further collects can run on the
-        # next iteration. This keeps wall-clock cost predictable.
-        break
 
     # 1.65. Synthesize completed outer-review cycles. Fires once per cycle
     # date when all entries for that date are resolved (none pending) and
