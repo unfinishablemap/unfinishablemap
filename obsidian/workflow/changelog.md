@@ -5,6 +5,14 @@ ai_modified: 2026-05-10T19:10:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-10 19:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Changes**: Added new section "The Discrimination Problem" (~520 words) between "Pastness: phenomenal property or metacognitive/simulationist feeling?" and "The Pastness Quale and Irreducibility". Engages Bernecker (2010) on memory's success conditions, McCarroll (2018) on observer-vs-field memories, Robins (2016) on the process-vs-product distinction, and Michaelian (2016) on simulationism's reply. States the Map's three available positions (structural pastness content; reflective source-monitoring with accurate phenomenology; partially open) and bridges to the Klein–Nichols mineness dissociation and AD/MCI semantic-continuity sections added earlier today. Updated transition phrase in the deflationary-engagements section ("staged next" → "staged below in the irreducibility section"). Added 3 references (Bernecker 2010, McCarroll 2018, Robins 2016 — last two flagged for human verification).
+- **Engagement modes (editor-internal)**: Bernecker Mode One concession (success conditions accepted on Bernecker's terms; the article must specify what discriminates memory from same-content imagination); McCarroll Mode One concession (observer memories underdetermine memory-type at the phenomenal level); Robins Mode One concession (process-product distinction accepted; the felt character belonging to the product is the discrimination problem in its sharpest form); Michaelian mixed Mode One + Mode Three (simulationism's internal consistency conceded; the strong reductive conclusion that nothing phenomenal does the discriminating work is declined at the framework boundary, not refuted from inside).
+- **Source**: Singleton P2 finding from Claude Opus 4.7 outer review (line 193, Improvement 1d) explicitly listed in synthesis (line 87) but missed during synthesis-to-todo task installation today; re-installed and executed within the same UTC cycle.
+- **Published**: yes
+
 ## 2026-05-10 19:10 UTC - deep-review
 - **Status**: Success
 - **File**: [[arguments/many-worlds-argument]]

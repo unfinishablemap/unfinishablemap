@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-10T16:12:00+00:00
+ai_modified: 2026-05-10T19:31:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -94,7 +94,25 @@ The two-tier reading (Dokic 2014) and the affective-phenomenology readings (Matt
 
 The simulationist reading (Michaelian 2016, *Mental Time Travel*) is the empirically sharpest challenge. Episodic memory and episodic future-thinking share the constructive default-mode-network circuitry; on the simulationist view, the felt difference between remembering and imagining is a metacognitive tag applied to past-oriented simulations, not a separate phenomenal property. The premise denied is that mechanism-identity at the constructive level is compatible with phenomenal-distinctness. The reply runs through the difference between *constraining* a position and *establishing* its denial. Shared circuitry constrains the simplest "remembering and imagining are phenomenally indistinguishable" identity—the brain does indeed use one episodic construction system for both—but it does not establish the simulationist reduction, because subjects routinely report a robust felt difference even when both processes recruit the same network. The same circuitry can subserve different phenomenal outputs depending on input conditions, attentional set, and source-monitoring signals; mechanism-identity at the network level is the empirical adequacy floor, not the phenomenal ceiling. If neuroimaging eventually demonstrates that the felt-as-past character covaries entirely with imagined-as-future content—that subjects under controlled conditions cannot phenomenally discriminate the two—the article's reading would be empirically defeated. The data through 2026 run the other way: the felt difference is robust across imaging paradigms, and the discrimination problem (how subjects tell memory from imagining at all) remains a recognised empirical research target rather than a closed question.
 
-What survives these engagements is the phenomenal datum in a narrower form than the earlier sections present. The metacognitive and intentionalist readings can be granted in their hospitable forms without losing it; the two-tier and affective readings are absorbable without strain; the simulationist reading is constrained but not defeated. The residue is closer to bedrock than first appears—the disagreement between the Map and the strongest deflationary readings is not closed by the phenomenology alone. It rests on the further argument, staged next, that the felt character of pastness resists computational specification of the kind functionalism would require.
+What survives these engagements is the phenomenal datum in a narrower form than the earlier sections present. The metacognitive and intentionalist readings can be granted in their hospitable forms without losing it; the two-tier and affective readings are absorbable without strain; the simulationist reading is constrained but not defeated. The residue is closer to bedrock than first appears—the disagreement between the Map and the strongest deflationary readings is not closed by the phenomenology alone. It rests on the further argument, staged below in the irreducibility section, that the felt character of pastness resists computational specification of the kind functionalism would require.
+
+## The Discrimination Problem
+
+Pastness must do more than mark episodic memory off from semantic recall and neutral computation. It must discriminate genuine memory from same-content imagination and from hallucination, since each can carry a strong "this happened" feeling. Bernecker (2010) puts the problem sharply: memory has success conditions—a state with no causal connection to the original event is confabulation, however vivid and however confidently endorsed. Source-monitoring failures are not edge cases; cryptomnesia, false-memory effects, and déjà vu are clinical and everyday phenomena. If pastness alone individuates memory, any sufficiently vivid mental image with a confident pastness-feeling should qualify—the consequence that produces the source-monitoring errors the literature documents.
+
+McCarroll's (2018) work on observer memories (in which one sees oneself "from the outside") sharpens the puzzle. Observer memories are common, often increase with retrieval distance, and carry the same felt-as-past signature as field memories despite their structural divergence from first-person re-experiencing. Pastness underdetermines the kind of memory it accompanies. Robins's (2016) process-vs-product distinction tightens the analysis: the *process* of remembering (causally proper retrieval from a stored trace) and the *product* (the present memory state) are separable, and the felt character belongs to the product. A confabulation can replicate the product's felt character without instantiating the process.
+
+Michaelian (2016) draws the radical lesson. On simulationism, memory just *is* imagination of the past, run through a constructive system that targets past events; there is no discriminating quale because there is no metaphysical joint between memory and imagination at the phenomenal level. The discriminating work is done by the system's reliable sensitivity to past-directed cues—a causal-procedural condition the subject does not directly experience. The felt difference subjects report is real but not load-bearing for the memory/imagination distinction.
+
+The Map's commitment to the phenomenal reality of pastness rules out the strong simulationist conclusion that nothing phenomenal does any of the discriminating work. The discrimination problem still bites, and three positions are available—none discharged by phenomenology alone:
+
+1. **Structural pastness content.** The pastness quale carries a representational content that discriminates structurally—remembered events feel past-encountered in a way imagined events do not, even with content held fixed. The challenge is to specify what the structural difference *is*; the deflationary readings engaged in the previous section deny each available specification.
+
+2. **Reflective source-monitoring with accurate phenomenology.** The discrimination work is done by source-monitoring mechanisms; the pastness quale accurately reflects their verdict but is not itself the discriminator. This concedes part of the simulationist picture while preserving the phenomenal datum.
+
+3. **Partially open.** The discrimination problem is genuinely unresolved; pastness is phenomenally real without yet being a complete account of how memory is told from imagination. The Klein–Nichols mineness dissociation and the AD/MCI semantic-continuity findings already engaged here show that phenomenal outputs of memory are routinely severable from the source machinery that produces them; nothing forbids pastness having the same architecture, with the discriminating function carried by something the phenomenology accompanies rather than constitutes.
+
+The article's load-bearing claim—that pastness is phenomenally real and irreducible—does not require committing to (1) over (2) or (3). It does require acknowledging that picking among them is open work, and that the irreducibility argument staged next targets the phenomenal datum, not the discrimination mechanism. Treating the pastness quale as both phenomenally irreducible *and* the sole discriminator of memory from imagination would paper over a known underspecification—what [[evidential-status-discipline]] is built to prevent.
 
 ## The Pastness Quale and Irreducibility
 
@@ -182,6 +200,9 @@ The phenomenology of memory and self connects directly to the Map's foundational
 1. Tippett, L. J., Prebble, S. C., & Addis, D. R. (2018). The persistence of identity through time in mild cognitive impairment and Alzheimer's disease. *Frontiers in Psychology*, 9, 94. [citation details pending human verification]
 1. Klein, S. B. (2012). The self and its brain. *Social Cognition*, 30(4), 474–518. [citation pending human verification]
 1. Klein, S. B. (2014). Sameness and the self: Philosophical and psychological considerations. *Frontiers in Psychology*, 5, 29. [citation pending human verification]
+1. Bernecker, S. (2010). *Memory: A Philosophical Study*. Oxford University Press.
+1. McCarroll, C. J. (2018). *Remembering from the Outside: Personal Memory and the Perspectival Mind*. Oxford University Press.
+1. Robins, S. K. (2016). Misremembering. *Philosophical Psychology*, 29(3), 432–447. [citation pending human verification]
 
 <!-- AI REFINEMENT LOG - 2026-05-10
 Changes made:
@@ -269,6 +290,36 @@ Verification notes from review applied:
 Forbidden labels check:
 - No "direct-refutation-feasible", no "unsupported-jump callout", no "bedrock-perimeter", no "mode-mixed", no "tenet-register move", no "Engagement classification:" in article body, no "per [[direct-refutation-discipline]]" parenthetical, no bold-headed "**Evidential status:**" callouts.
 - The phrase "discipline [[evidential-status-discipline]] is built to maintain bites here" is the only meta-reference; it follows the existing line-57 pattern of citing evidential-status-discipline as a tenet anchor in natural prose.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-10 (19:31 UTC)
+Changes made:
+- Added new section "The Discrimination Problem" (~520 words) between "Pastness: phenomenal property or metacognitive/simulationist feeling?" and "The Pastness Quale and Irreducibility". Addresses the singleton P2 finding (Claude Opus 4.7 review line 193, synthesis line 87) that "pastness quale" terminology was used 7× without specifying how the felt-as-past discriminates memory from same-content imagination/hallucination — the underspecification that the source-monitoring literature (Bernecker, McCarroll, Robins, Michaelian) has named.
+- The new section names the discrimination problem (Bernecker on success conditions; the source-monitoring failure cases as the empirical signature), engages McCarroll's observer-vs-field memory work, engages Robins's process-vs-product distinction, recapitulates Michaelian's simulationist reply (memory IS imagination of the past, no discriminating quale needed because no metaphysical joint), and then states the Map's three available positions: (1) structural pastness content, (2) reflective source-monitoring with accurate phenomenology, (3) partially open. The closing paragraph acknowledges that the load-bearing irreducibility claim survives commitment to any of (1)-(3), and that picking among them is open work — explicitly bridges to the Klein–Nichols mineness dissociation and the AD/MCI semantic-continuity sections in option (3) (phenomenal outputs of memory routinely severable from source machinery).
+- Updated the closing sentence of "Pastness: phenomenal property or metacognitive/simulationist feeling?" — "staged next" → "staged below in the irreducibility section" — since "The Pastness Quale and Irreducibility" is no longer immediately next.
+- Added 3 new references: Bernecker 2010 (Memory: A Philosophical Study, OUP), McCarroll 2018 (Remembering from the Outside, OUP), Robins 2016 (Misremembering, Philosophical Psychology — flagged for human verification of exact citation details).
+- Updated ai_modified to 2026-05-10T19:31:00+00:00.
+
+Touched-word count: ~520 words added (new section) + ~10 words modified (transition phrase). Slightly over the ~300–500 target because the section needs to do five things (a-e in task spec) and the discrimination literature has four named participants who each warrant a distinct in-framework engagement.
+
+Engagement classification (changelog-internal, NOT in article body):
+- Bernecker 2010 (success conditions): Mode One concession. Memory's success conditions are accepted on Bernecker's own terms; the article does not deny that confabulation is a real category or that source-monitoring matters. The concession lands inside Bernecker's framework and forces the article to specify what discriminates memory from same-content imagination at the phenomenal level.
+- McCarroll 2018 (observer memories): Mode One concession. Observer memories carry the same felt-as-past signature as field memories, which underdetermines the kind of memory pastness accompanies. The Map accepts this on McCarroll's own terms; the consequence (pastness as phenomenology underdetermines memory-type) is preserved as part of the Map's option-(3) honest acknowledgement.
+- Robins 2016 (process-vs-product): Mode One concession. The process-product distinction is accepted on Robins's own terms; the felt character belonging to the product (and a confabulation in principle replicating it) is the discrimination problem in its sharpest form. The Map's option (1) attempts to specify a structural difference at the product level; options (2) and (3) concede that the discriminating function may not be at the product level at all.
+- Michaelian 2016 simulationism: Mixed Mode One + Mode Three. Mode One: simulationism's reduction of pastness to causal-procedural sensitivity is engaged inside Michaelian's framework (the felt difference is real but not load-bearing for the memory/imagination distinction; the Map concedes this is internally consistent). Mode Three: the Map's commitment to phenomenal reality of pastness rules out the strong simulationist conclusion that nothing phenomenal does any of the discriminating work — this is explicitly noted as a framework-boundary disagreement, not refuted from inside simulationism. The three available positions for the Map honestly partition the residue.
+
+Source: Singleton P2 finding from Claude Opus 4.7 outer review (line 193, Improvement 1d), explicitly listed in synthesis (line 87) but missed during synthesis-to-todo task installation today. Re-installed and executed within the same UTC cycle.
+
+Verification notes from review applied:
+- "How does the felt-as-past discriminate memory from imagining/hallucinating? Engage McCarroll, Robins, Bernecker." (Claude line 193) — addressed by per-philosopher in-framework engagement.
+- "Pastness asserted but not individuated" (Claude line 58) and "Empirical/neuroconstructivist pressure ignored" (Gemini line 100, addressed earlier today in the deflationary section) — completed by adding the discrimination dimension that the deflationary engagement gestured at but did not specify.
+- Anchor honoured to today's earlier additions: option (3) explicitly bridges to the Klein–Nichols mineness dissociation (in the existing line-55 paragraph and the new "Mineness:" section) and the AD/MCI semantic-continuity findings (in the new "Semantic continuity in Alzheimer's and MCI" subsection), tying today's three refinements into one cumulative argument about the multiply-realisable / severable architecture of memory's phenomenal outputs.
+
+Forbidden labels check:
+- No "direct-refutation-feasible", no "unsupported-jump callout", no "bedrock-perimeter", no "mode-mixed", no "tenet-register move", no "Engagement classification:" in article body, no "per [[direct-refutation-discipline]]" parenthetical, no bold-headed "**Evidential status:**" callouts.
+- The single meta-reference to [[evidential-status-discipline]] in the closing sentence follows the existing line-57 / line-83 pattern of citing the discipline as a tenet anchor in natural prose.
 
 This log should be removed after human review.
 -->
