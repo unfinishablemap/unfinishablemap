@@ -2,9 +2,9 @@
 title: "Atemporal Causation"
 description: "Causation outside temporal sequence — consciousness selects which quantum history becomes actual, dissolving the Libet timing puzzle without violating physical law."
 created: 2026-02-14
-modified: 2026-03-25
+modified: 2026-05-10
 human_modified:
-ai_modified: 2026-05-10T05:10:00+00:00
+ai_modified: 2026-05-10T15:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,12 +27,13 @@ related_articles:
   - "[[time-collapse-and-agency]]"
   - "[[forward-in-time-conscious-selection]]"
   - "[[interactionist-dualism]]"
+  - "[[phenomenology-of-memory-and-the-self]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-14
 last_curated:
-last_deep_review: 2026-05-10T05:10:00+00:00
+last_deep_review: 2026-05-10T15:41:00+00:00
 coalesced_from:
   - "/concepts/atemporal-causation/"
   - "/concepts/retrocausal-selection/"
@@ -62,7 +63,7 @@ Cramer's transactional interpretation (1986) models measurement as a "transactio
 
 Ruth Kastner's possibilist transactional interpretation (PTI, 2012) develops this further, though it remains contested — Tim Maudlin's objection that standard TI fails for certain interaction configurations has not been resolved to everyone's satisfaction. On Kastner's account, offer waves represent real possibilities with genuine ontological status; the transaction actualises one possibility. The "future" providing confirmation waves is a space of potential absorbers, not an already-existing timeline. Actualisation selects which possibility becomes fact.
 
-The Map adapts this framework for consciousness: consciousness operates in Kastner's pre-spacetime (PST) realm, selecting which offer-confirmation handshake becomes actual. Selection requires no energy injection — it is a determination among pre-existing possibilities, not a force applied to physical systems. This is the Map's most developed atemporal pathway, because it naturally satisfies the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]: consciousness participates in a process the interpretation says already exists. Kastner herself does not invoke consciousness as the transaction selector; the Map constructs this as original synthesis, extending PTI's ontology to accommodate [[interactionist-dualism]].
+The Map adapts this framework for consciousness: consciousness operates in Kastner's pre-spacetime (PST) realm, selecting which offer-confirmation handshake becomes actual. Selection requires no energy injection — it is a determination among pre-existing possibilities, not a force applied to physical systems. This is the Map's most developed atemporal pathway, naturally satisfying the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]: consciousness participates in a process the interpretation says already exists. Kastner herself does not invoke consciousness as the transaction selector; the Map constructs this as original synthesis, extending PTI's ontology to accommodate [[interactionist-dualism]].
 
 ### Post-Selection (Aharonov/TSVF)
 
@@ -99,7 +100,7 @@ The [[time-symmetric-selection-mechanism|time-symmetric selection mechanism]] ap
 3. This participation is atemporal — it determines which temporal sequence becomes actual
 4. The entire history, including neural preparation preceding awareness, is part of what gets selected
 
-The readiness potential that [[libet-experiments|Libet]] detected isn't prior to the cause — it's *part of* what gets caused. The selection determines the whole correlated history at once.
+The readiness potential that [[libet-experiments|Libet]] detected isn't prior to the cause — it's *part of* what gets caused. The selection determines the whole correlated history at once, grounding the determinate singular past that [[phenomenology-of-memory-and-the-self|memory's pastness quale]] presupposes when it presents the remembered event as encountered rather than constructed.
 
 This aligns with the [[phenomenology-of-choice-and-volition|phenomenology of decision]]. Deliberation feels like weighing genuine alternatives, not receiving pre-made outcomes. Resolution feels like crystallisation — one option becoming actual while others fade. These experiences match atemporal constraint satisfaction better than sequential causation, where the cause must precede the effect and the "deciding" would have to happen before the neural preparation it supposedly governs.
 
@@ -150,7 +151,7 @@ These traditions show that the idea of causation outside temporal sequence has d
 
 ## The Modified Growing Block
 
-Atemporal causation seems to require eternalism — how can there be constraints from the future if the future doesn't exist? The Map's [[collapse-and-time|modified growing block]] resolves this. The "future" participating in atemporal transactions is the space of quantum possibilities, not ontologically existing future facts. Confirmation waves come from potential absorbers, not from a fixed tomorrow.
+Atemporal causation seems to require eternalism — how can there be constraints from the future if the future doesn't exist? The Map's [[collapse-and-time|modified growing block]] resolves this. The "future" participating in atemporal transactions is the space of quantum possibilities — confirmation waves come from potential absorbers, not from ontologically existing future facts.
 
 This requires that possibilities have genuine ontological status — otherwise merely potential absorbers could not participate in transactions. Kastner's possibilist framework provides this: possibilities are real but sub-actual, occupying an ontological layer between nothingness and full actuality.
 
@@ -207,6 +208,7 @@ Atemporal causation connects to each of the Map's tenets:
 - [[causal-closure]] — The principle atemporal causation challenges
 - [[process-philosophy]] — Whitehead's concrescence as atemporal constitution
 - [[phenomenology-of-choice-and-volition]] — How atemporal selection manifests in experience
+- [[phenomenology-of-memory-and-the-self]] — How the determinate past selected here is encountered through autonoetic recall
 - [[libet-experiments]] — The timing experiments atemporal causation dissolves
 
 ## References

@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/atemporal-causation.md against topics/phenomenology-of-memory-and-the-self.md to resolve the retrocausal-vs-pastness paradox
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-10. **Genuinely new finding** (not flagged by ChatGPT or Claude in this cycle). The Map endorses atemporal-causation / TSVF / transactional-QM machinery in `concepts/atemporal-causation.md` (the page exists; the reviewer's claim is verified) — and uses this to support Minimal Quantum Interaction by allowing conscious decisions to influence neural precursors via backward-in-time handshakes. But the topic article on memory simultaneously commits to the pastness quale as an "encounter with objective past" (Husserlian linear-time framing). If retrocausal influence is admitted, the past is not a fixed objective reality being encountered but a fluid construct being retroactively shaped — destabilizing the pastness quale's load-bearing role in the Map's anti-MWI argument. Cross-review should: (a) read both articles in the light of each other; (b) state the apparent tension explicitly in the appropriate article (likely a paragraph in `topics/phenomenology-of-memory-and-the-self.md` and a reciprocal note in `concepts/atemporal-causation.md`); (c) attempt a unified position — perhaps that retrocausality operates only at the quantum-interface layer and does not propagate into the macroscopic phenomenological encounter, OR explicitly mark this as a [[direct-refutation-discipline]] Mode Three boundary disagreement; (d) update wikilinks for navigability. ~300–500 words touched across both files. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) ↔ Tenet 4 (No Many Worlds); methodological / internal-consistency. See review file.
-- **Review file**: `reviews/outer-review-2026-05-10-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-10
-
 ### P3: Add Mode Four (Empirical Underdetermination) to the engagement-mode taxonomy
 - **Type**: refine-draft
 - **Status**: pending
@@ -3461,6 +3453,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Cross-review concepts/atemporal-causation.md against topics/phenomenology-of-memory-and-the-self.md to resolve the retrocausal-vs-pastness paradox
+- **Type**: cross-review
+- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-10. **Genuinely new finding** (not flagged by ChatGPT or Claude in this cycle). The Map endorses atemporal-causation / TSVF / transactional-QM machinery in `concepts/atemporal-causation.md` (the page exists; the reviewer's claim is verified) — and uses this to support Minimal Quantum Interaction by allowing conscious decisions to influence neural precursors via backward-in-time handshakes. But the topic article on memory simultaneously commits to the pastness quale as an "encounter with objective past" (Husserlian linear-time framing). If retrocausal influence is admitted, the past is not a fixed objective reality being encountered but a fluid construct being retroactively shaped — destabilizing the pastness quale's load-bearing role in the Map's anti-MWI argument. Cross-review should: (a) read both articles in the light of each other; (b) state the apparent tension explicitly in the appropriate article (likely a paragraph in `topics/phenomenology-of-memory-and-the-self.md` and a reciprocal note in `concepts/atemporal-causation.md`); (c) attempt a unified position — perhaps that retrocausality operates only at the quantum-interface layer and does not propagate into the macroscopic phenomenological encounter, OR explicitly mark this as a [[direct-refutation-discipline]] Mode Three boundary disagreement; (d) update wikilinks for navigability. ~300–500 words touched across both files. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) ↔ Tenet 4 (No Many Worlds); methodological / internal-consistency. See review file.
+- **Output**: obsidian/concepts/atemporal-causation.md -- Context: Cross-review concepts/atemporal-causation.md against topics/phenomenology-of-memory-and-the-self.md to resolve the retrocausal-vs-pastness paradox
 
 ### ✓ 2026-05-10: Refine topics/phenomenology-of-memory-and-the-self.md — mineness inference (synchronic→diachronic bridge + modular-brain physicalist counter)
 - **Type**: refine-draft

@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T15:13:00+00:00
+ai_modified: 2026-05-10T15:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 15:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/atemporal-causation]]
+- **Context**: Cross-review against [[topics/phenomenology-of-memory-and-the-self]] to resolve the apparent retrocausal-vs-pastness paradox
+- **Word count**: 3406 → 3436 (+30, +1%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-link gap: target article had no link to phenomenology-of-memory in body, related_articles, or Further Reading)
+- **Enhancements made**: 1 substantive cross-link in "Application to Consciousness" + 1 Further Reading bullet + 1 related_articles entry; offsetting trims of redundancy in Kastner subsection ("because it naturally satisfies" → "naturally satisfying") and Modified Growing Block intro (merged near-duplicate sentence into single em-dashed clause)
+- **Paradox resolution**: The "retrocausal-vs-pastness paradox" dissolves on careful statement of the modified-growing-block structure — atemporal selection determines the entire correlated history at transaction completion; once complete, the past portion is determinate within the actualised block; memory in the present is fallible reconstructive epistemic access to that determinate past, not ontological re-selection. Both articles converge on rejecting MWI via singularity arguments. The atemporal-causation framework produces the singular determinate past that the phenomenology-of-memory article presupposes — they occupy adjacent rungs of the same metaphysics→phenomenology ladder. No claims in either article needed modification.
+- **Engagement classification** (changelog-internal): No new named-opponent engagements introduced; existing classifications (Maudlin Mode Three, Schurger Mode Three, decoherence Mode Three) carried forward.
+- **Forbidden-label audit**: Clean. No editor-vocabulary in cross-link or trimmed passages.
+- **Stability**: Sixth deep review. Last five found no critical issues. Article remains among the most stable concept articles in the Map; the cross-review surfaced exactly one discoverable cross-link gap and closed it minimally.
+- **Reciprocal cross-link deferred**: `phenomenology-of-memory-and-the-self` does not currently link to `atemporal-causation`. Out of scope for this skill invocation (target was the concept article only). Recommended as P3 todo for a future reciprocal pass on the topic article.
+- **Output**: [[reviews/deep-review-2026-05-10b-atemporal-causation]]
 
 ## 2026-05-10 15:13 UTC - deep-review
 - **Status**: Success
