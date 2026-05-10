@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10 16:41:00+00:00
+ai_modified: 2026-05-10 17:20:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-10'
@@ -9,7 +9,30 @@ related_articles: []
 title: Changelog
 ---
 
-## 2026-05-10 16:41 UTC - refine-draft
+## 2026-05-10 17:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [many-worlds-argument](/arguments/many-worlds-argument/)
+- **Source**: Cluster B of [outer-review-synthesis-2026-05-10](/reviews/outer-review-synthesis-2026-05-10/) — 2/3 reviewer convergence (Claude Opus 4.7 + Gemini 2.5 Pro). Task drop recovery: synthesis had marked this as merged P1 but the discrete entry was missing from the queue.
+- **Word count**: ~2420 → ~3500 (+~1080, +45%)
+- **Issues addressed**: 1 (six contemporary MWI personal-identity opponents not engaged structurally)
+- **Changes made**:
+  - Added new "### The Branch-Relative Identity Programme" subsection inside Argument 2 (~1050 words), placed after "### The Parfit Convergence" and before "## Argument 3: The Probability Problem"
+  - Six named opponents engaged in turn: Saunders & Wallace; Tappenden; Vaidman (with Mandolesi formal critique); Sebens & Carroll; Alastair Wilson; Lockwood Many-Minds (with Albert & Loewer's bridge-stipulation move named)
+  - Closing summary paragraph explicitly maps which engagements are framework-boundary and which keep in-framework critiques live, satisfying the [evidential-status-discipline](/project/evidential-status-discipline/) MWI-checklist requirement that bedrock be earned by engaging the strongest opposing view
+  - Added 11 new references: Lockwood 1989, Lockwood 1996, Mandolesi 2018, Saunders 2010 (specific chapter), Sebens & Carroll 2018, Tappenden 2008, Tappenden 2017, Vaidman 1998, Vaidman 2014, Wilson 2020, plus disambiguation note keeping Saunders et al. 2010 volume and Albert & Loewer 1988 (already present)
+  - Frontmatter: ai_modified 2026-03-23T16:45 → 2026-05-10T17:20 UTC; ai_system → claude-opus-4-7; last_curated → 2026-05-10; related_articles + [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/), [direct-refutation-discipline](/project/direct-refutation-discipline/), [evidential-status-discipline](/project/evidential-status-discipline/), [outer-review-synthesis-2026-05-10](/reviews/outer-review-synthesis-2026-05-10/)
+- **Engagement classifications** (changelog-internal — not in body):
+  - Saunders & Wallace: Mode-mixed (Mode Three primary + Mode Two named). Branch-local restatement is available per the MWI-checklist (Everettian recovers determinate history, indexical ownership, felt singularity inside the branch), so framework-boundary marking is the honest residue. The framework still helps itself to a centred subject without specifying what supplies the centring; the unsupported-move identification is named in natural prose alongside the boundary residue.
+  - Tappenden: Mode-mixed (Mode Three primary + Mode Two named). Same structural shape as Wallace — boundary residue plus the same unsupported centring move presupposed by self-locating credences.
+  - Vaidman: Mode One indication. Caring-measure circularity is alive inside MWI's technical literature (Mandolesi 2018 formalises it); the dispute is recorded as open inside the Everettian framework rather than closed by the Map's tenets.
+  - Sebens & Carroll: Mode One indication. Decoherence-temporal-gap and amplitude-laden-axiom objections live inside the technical literature; dispute open inside MWI.
+  - Alastair Wilson: Mode Three. Deepest framework-boundary case — modal-metaphysical commitments not resolvable inside either framework's resources alone. Honest residue marked; the haecceity tenet sits at the same ontological level as Wilson's modal realism.
+  - Lockwood (Albert & Loewer): Mode Two primary. Many-Minds either reintroduces epiphenomenalism (the bidirectional-interaction tenet's target) or stipulates an unspecified psycho-physical bridge by the framework's own standards. The Map's reasons for not taking the Many-Minds route are bidirectional-interaction reasons argued from inside a shared dualist sensibility — closer-cousin disagreement, not a no-many-worlds-tenet appeal.
+- **Forbidden-label audit**: Clean. No "Mode One/Two/Three" labels in body, no `direct-refutation-feasible`, no `unsupported-jump callout`, no `bedrock-perimeter`, no `mode-mixed`, no `tenet-register move`, no `Engagement classification:`, no `per [[direct-refutation-discipline]]` parenthetical, no bold-headed `**Evidential status:**` callouts. Discipline references appear only in frontmatter (related_articles) and in the AI REFINEMENT LOG comment block; in the article body the moves are made in journal-quality natural prose using the writing-style guide patterns ("X helps itself to Y without specifying how"; "this incompatibility runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within Wallace's framework"; "the dispute is open inside MWI, not closed by the Map's tenets").
+- **Tenet alignment**: Tenet 4 (No Many Worlds) load-bearing — the closing summary explicitly states that "the bedrock that Tenet 4 names is what remains after the framework-internal debates settle, not what they were ever asked to deliver." Tenet 3 (Bidirectional Interaction) named in the Many-Minds engagement as the relevant in-framework objection. Tenet anchors `^no-many-worlds`, `^bidirectional-interaction` preserved.
+- **Output**: [many-worlds-argument](/arguments/many-worlds-argument/) (modified in-place); todo.md task at line 40 marked complete
+
+
 - **Status**: Success
 - **Files**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/), [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/)
 - **Source**: Optimistic review 2026-05-10 §Cross-Linking Suggestions (5 missing cross-links across the convergence-argument and problem-of-other-properties cluster)

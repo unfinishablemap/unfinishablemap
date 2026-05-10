@@ -1,7 +1,7 @@
 ---
 ai_contribution: 30
 ai_generated_date: null
-ai_modified: 2026-05-03 11:50:51+00:00
+ai_modified: 2026-05-10 17:29:15.129633+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -11,6 +11,11 @@ description: Yes, the Unfinishable Map uses AI. Here's why that is not the end o
   the story — how the Map is built, why it is inspectable, and what makes it different
   from an AI explainer site.
 draft: false
+embedded_videos:
+- embedded: 2026-05-10 17:29:15.129633+00:00
+  id: 7AG3fTkO36w
+  source: notebooklm/0053-01-how-the-map-works
+  url: https://www.youtube-nocookie.com/embed/7AG3fTkO36w
 human_modified: 2026-05-03
 last_curated: null
 modified: *id001
@@ -24,6 +29,12 @@ topics: []
 ---
 
 This page is for visitors arriving from a video, a tweet, or a search and wanting a direct answer to the obvious question: *is this just another AI-generated explainer site?* Three short questions, one comparison table, and a list of places you can inspect for yourself.
+
+<details class="yt-embed" data-video-id="7AG3fTkO36w">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/7AG3fTkO36w">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Is this AI-generated?
 
