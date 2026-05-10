@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T09:38:00+00:00
+ai_modified: 2026-05-10T10:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 10:45 UTC - condense
+- **Status**: Success
+- **File**: [[topics/the-convergence-argument-for-dualism]]
+- **Before**: 4065 words
+- **After**: 3072 words
+- **Reduction**: 24%
+- **Technique**: Tightened the Bayesian Structure cluster discussions (Cluster 3 binding/intentionality paragraphs, phenomenal concept strategy response) into denser prose; trimmed each subsection of "From Irreducibility to Dualism" (panpsychism/neutral monism/idealism/Madhyamaka), removing repetitive framing while keeping each alternative's distinguishing point intact; condensed the vitalism analogy in "What Convergence Does Not Prove" by collapsing its four-paragraph structure into a tighter four-step argument; trimmed redundancy in "Convergence Across Traditions" (subject-object example, qualification paragraph); tightened the three Common-Cause subsections and the Cognitive Closure paragraph; light prose tightening in opening, "Why Convergence Matters", and "What Convergence Does Not Prove" recap. Preserved opening summary, the eight-row argument table, all cluster structure, the irreducibility-to-dualism gate, vitalism disanalogy, Relation to Site Perspective (all three tenet connections), Further Reading, and References intact.
 
 ## 2026-05-10 10:09 UTC - condense
 - **Status**: Success

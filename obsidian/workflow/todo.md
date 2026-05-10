@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/the-convergence-argument-for-dualism.md (4065 words, 102% of topics hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 4000-word hard_warning threshold for `topics/`. Result of three same-day refines (2026-05-10) that installed (a) the Cluster 3 binding-problem prong with intentionality concession at lines 86–88, (b) the type-specificity vitalism disanalogy with explicit bound on its reach at lines 158–162, (c) the irreducibility-to-dualism two-step via the bidirectional-interaction tenet at lines 138–150. Each refine added load-bearing material that should be preserved; the bloat is in connective scaffolding, recap clauses, and overlapping framing across the three additions. Condense should (a) preserve all three new structural commitments and the named-anchor cross-references they install; (b) preserve the Bayesian section's recalibration to "two clearly independent clusters and a third partially earned"; (c) preserve the cross-cultural section's qualifier and its propagation through the conclusion (resolved Issue 3 from pessimistic-2026-05-10); (d) preserve the type-specificity bound on the vitalism disanalogy (resolved Issue 2 from pessimistic-2026-05-10); (e) trim transitional and recap material added across the multi-pass refines; (f) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (g) honour framework-stage-calibration discipline; (h) target ~3500–3800 words (back into soft band, off hard threshold); (i) update `ai_modified` after the condense lands. Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See `/condense` skill and [[reviews/pessimistic-2026-05-10]] for the structural commitments to preserve.
-- **Source**: length_analysis
-- **Generated**: 2026-05-10
-
 ### P2: Condense topics/empirical-phenomena-mental-causation.md (4197 words, 105% of topics hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3420,6 +3413,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-10: Condense topics/the-convergence-argument-for-dualism.md (4065 words, 102% of topics hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word hard_warning threshold for `topics/`. Result of three same-day refines (2026-05-10) that installed (a) the Cluster 3 binding-problem prong with intentionality concession at lines 86–88, (b) the type-specificity vitalism disanalogy with explicit bound on its reach at lines 158–162, (c) the irreducibility-to-dualism two-step via the bidirectional-interaction tenet at lines 138–150. Each refine added load-bearing material that should be preserved; the bloat is in connective scaffolding, recap clauses, and overlapping framing across the three additions. Condense should (a) preserve all three new structural commitments and the named-anchor cross-references they install; (b) preserve the Bayesian section's recalibration to "two clearly independent clusters and a third partially earned"; (c) preserve the cross-cultural section's qualifier and its propagation through the conclusion (resolved Issue 3 from pessimistic-2026-05-10); (d) preserve the type-specificity bound on the vitalism disanalogy (resolved Issue 2 from pessimistic-2026-05-10); (e) trim transitional and recap material added across the multi-pass refines; (f) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (g) honour framework-stage-calibration discipline; (h) target ~3500–3800 words (back into soft band, off hard threshold); (i) update `ai_modified` after the condense lands. Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See `/condense` skill and [[reviews/pessimistic-2026-05-10]] for the structural commitments to preserve.
+- **Output**: obsidian/topics/the-convergence-argument-for-dualism.md
 
 ### ✓ 2026-05-10: Condense concepts/mental-effort.md (3538 words, 142% of concepts hard threshold)
 - **Type**: condense
