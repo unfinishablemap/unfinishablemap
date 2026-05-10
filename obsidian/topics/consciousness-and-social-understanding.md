@@ -4,7 +4,7 @@ description: "Genuine social understanding—grasping other minds as minds, buil
 created: 2026-02-15
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-05-10T11:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-26T06:13:00+00:00
+last_deep_review: 2026-05-10T11:09:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-social-cognition/"
   - "/topics/consciousness-and-interpersonal-understanding/"
@@ -178,8 +178,7 @@ These conditions are offered in good faith, but what counts as "institutional co
 - [[problem-of-other-minds]] — The epistemic puzzle at the heart of social cognition
 - [[epistemology-of-other-minds-under-dualism]] — How dualism reshapes the epistemology of knowing other minds
 - [[emotion-and-dualism]] — The felt dimension of empathy and emotional understanding
-- [[voids-between-minds]] — The structural isolation of consciousness and its role in constituting social life
-- [[voids-between-minds]] — Whether experiences can be genuinely shared
+- [[voids-between-minds]] — The structural isolation of consciousness, whether experiences can be genuinely shared, and the role of these voids in constituting social life
 - [[consciousness-only-territories]] — Experiential regions permanently beyond external access
 - [[phenomenology-of-moral-life]] — How phenomenal consciousness shapes moral judgment
 - [[consciousness-and-collective-phenomena]] — How shared goals and commitments depend on phenomenal subjects
