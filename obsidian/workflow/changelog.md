@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T05:10:00+00:00
+ai_modified: 2026-05-10T05:39:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-10 05:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [[project/evidential-status-discipline]]
+- **Mode**: Methodology extension (items 12–14 of [[reviews/outer-review-2026-05-10-chatgpt-5-5-pro]])
+- **Word count**: 2546 → ~3160 (+614 words; new "Three Cross-Cutting Rules" section)
+- **Changes**: Added cross-cutting rules section between "The Diagnostic Test" and "The Productive Tension in Optimistic-Review" — (1) phenomenological datum ≠ irreducible metaphysical datum (experience→irreducibility axis); (2) dissociation arguments must separate four levels (separability / phenomenological reality / mechanistic independence / metaphysical irreducibility); (3) MWI-specific review checklist ("Could an Everettian restate this phenomenon as branch-local, centered, and determinate?")
+- **Cross-links added**: [[phenomenology-of-memory-and-the-self]] (canonical case for rule 1); [[reviews/outer-review-2026-05-10-chatgpt-5-5-pro]] (sourcing review)
+- **Reference added**: 2026-05-10 outer review as reference 11
+- **Convergence note**: Rule 3 operationalises the boundary-substitution failure mode now flagged by four independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, 2026-05-10 ChatGPT). Convergence at this density takes the failure mode out of the case-by-case register and into cross-cutting methodology.
+- **Engagement classification**: not applicable — discipline-document, no opponent-engagement. Rule 3 itself routes anti-MWI articles toward Mode Three when branch-local restatement is available.
+- **Calibration check**: Pass — three rules sit at the cross-cutting level the reviewer's verification notes recommended; do not introduce new editor-vocabulary into article prose elsewhere; integrate cleanly with existing discipline architecture (constrain-vs-establish, two registers, diagnostic test).
+- **Sequencing**: Independent of the P1 refine-draft on phenomenology-of-memory-and-the-self; executed in parallel as the task notes flagged.
+- **Published**: yes
 
 ## 2026-05-10 05:10 UTC - deep-review
 - **Status**: Success (stability-confirmation)
