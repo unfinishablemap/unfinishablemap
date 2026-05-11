@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-15 12:50:00+00:00
+ai_modified: 2026-05-11 14:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ description: If consciousness is irreducible, it grounds moral status distinctiv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 13:13:00+00:00
+last_deep_review: 2026-05-11 14:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -210,8 +210,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [Phenomenal Value Realism](/topics/phenomenal-value-realism/) — How phenomenal value pluralism extends beyond hedonism to ground experiential value
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt quality of emotion and its ethical implications
 - [illusionism](/concepts/illusionism/) — The challenge from eliminativism about phenomenal consciousness
-- [phenomenal normativity](/concepts/evaluative-phenomenal-character/) — Why pain's badness is built into its phenomenal character
-- [moral phenomenology and perception](/concepts/evaluative-phenomenal-character/) — What moral experience feels like and whether ethical properties can be directly perceived
+- [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — Why pain's badness is built into its phenomenal character, and whether ethical properties can be directly perceived in experience
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — The pain-suffering distinction and the causal work of felt badness
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Moral responsibility when agency is constrained
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge—ethical truths beyond human reach

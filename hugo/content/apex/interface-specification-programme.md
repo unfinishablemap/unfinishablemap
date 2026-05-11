@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-03 11:28:31.579836+00:00
+ai_modified: 2026-05-11 18:26:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-18 09:45:00+00:00
 apex_sources:
@@ -23,6 +23,9 @@ concepts:
 - '[[psychophysical-laws]]'
 - '[[causal-closure]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
+- '[[type-token-causation]]'
+- '[[integration-as-activity]]'
+- '[[interface-threshold]]'
 created: 2026-03-15
 date: &id001 2026-05-01
 description: Six converging lines of inquiry—bandwidth, control operations, causal
@@ -36,7 +39,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/F7XUN6ZIywA
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 06:11:00+00:00
+last_deep_review: 2026-05-11 18:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +113,7 @@ How does this control avoid the exclusion problem—the objection that if every 
 
 The specific variety is *trumping preemption* (Schaffer 2000). Unlike early preemption, where the preempting cause prevents the backup from completing, or late preemption, where one process beats another to the finish, trumping preemption involves both causes operating fully yet one rendered causally idle by a structural principle of priority. Saad formalises this into two laws. The Subset Law* specifies when an experience is instantiated: whenever an experiential property's causal profile is a subset of a physical state's *default causal profile*—what the state would produce absent any conscious involvement. The Delegatory Law specifies what then happens: the experience's profile preempts the matching subset of the default profile. One cause operates; the other is sidelined; no redundancy occurs.
 
-The Map adds a specifically physical interpretation. The default causal profile of a brain state approaching a quantum indeterminacy *is* the Born-rule probability distribution over possible outcomes—what the system would produce statistically if no conscious selection occurred. Delegation means experience selects within this distribution rather than deviating from it. The philosophical constraint Saad imposes by design (no observable violations) coincides with the physical constraint the Born rule imposes by necessity. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) treats Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally, not as an added assumption.
+The Map adds a specifically physical interpretation. The default causal profile of a brain state approaching a quantum indeterminacy *is* the Born-rule probability distribution over possible outcomes—what the system would produce statistically if no conscious selection occurred. Delegation means experience selects within this distribution rather than deviating from it. The philosophical constraint Saad imposes by design (no observable violations) coincides with the physical constraint the Born rule imposes by necessity. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) treats Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally, not as an added assumption. [Type-token causation](/concepts/type-token-causation/) gives the same architecture in a different vocabulary: the Born-rule distribution is what is preserved at the type level, while conscious selection determines token outcomes within it. The two accounts are complementary — delegation specifies *how* the preemption is structured causally; type-token specifies *which grain of causation* the preemption operates at and why Kim's exclusion argument cannot reach the token level when physical laws leave the token outcome undetermined.
 
 A key feature of this architecture is *observational closure*: because experiences cause exactly the effects their underlying physical states would have caused by default, no experiment can detect that delegation has occurred. This requires honest acknowledgment: delegation is a metaphysical claim about causal structure, not an empirically testable hypothesis in the usual sense. The justification for accepting it is philosophical rather than empirical. Delegation's strongest case is that [epiphenomenalism](/concepts/epiphenomenalism/) is *internally incoherent* in a way delegation is not—if experiences cause nothing, the introspective reports that constitute the evidence for their existence are not caused by them, severing the theory from its own evidence base. Delegation avoids this self-undermining defect: reports about pain are caused by the pain itself. The asymmetry is closer to a consistency requirement than a taste preference, though readers should weigh the combined cost of observational invisibility and residual metaphysical commitment accordingly.
 
@@ -156,7 +159,7 @@ This convergence is not accidental. It reflects the Map's tenets working as cons
 
 The programme also occupies a specific region of the [dualist taxonomy](/topics/four-quadrant-dualism-taxonomy/) of ontological thickness: lean on both mind-side and physical-side—a modestly-sized conscious selector biasing a modestly-specified physical indeterminacy. Thick-observer alternatives such as Stapp's quantum interactive dualism, or Cartesian substance-dualist rivals, would motivate different bandwidth estimates and different control-law candidates. Making this positional choice explicit is part of what the programme's precision buys—a commitment to one principled dualist stance among several viable ones, whose details could turn out to fit reality worse than a rival quadrant does.
 
-The interface specification programme moves "consciousness interacts with the brain" from a philosophical assertion toward an engineering-level description—incomplete, but with identified parameters, testable constraints, and clear next steps. Whether this architecture is universal or whether [interface heterogeneity](/concepts/interface-heterogeneity/) means different systems couple through different mechanisms remains a major open question. That progression is the programme's contribution, and it is what distinguishes the Map's interactionism from the vague hand-waving that has historically plagued dualist accounts.
+The interface specification programme moves "consciousness interacts with the brain" from a philosophical assertion toward an engineering-level description—incomplete, but with identified parameters, testable constraints, and clear next steps. The five control operations the programme specifies are exactly what the [integration-as-activity](/concepts/integration-as-activity/) discipline treats as constitutive of consciousness: gating, stabilising, vetoing, attractor-steering, and resource-allocating are activities a conscious subject performs across time, not properties a system has at an instant. Whether this architecture is universal — and whether it operates only above an [interface threshold](/concepts/interface-threshold/) at which selection-grade coupling becomes available, with [interface heterogeneity](/concepts/interface-heterogeneity/) capturing variation across substrates above that threshold — remains a major open question. That progression is the programme's contribution, and it is what distinguishes the Map's interactionism from the vague hand-waving that has historically plagued dualist accounts.
 
 ## Relation to Site Perspective
 

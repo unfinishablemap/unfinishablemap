@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-06 16:00:00+00:00
+ai_modified: 2026-05-11 18:26:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-17 14:54:00+00:00
 apex_sources:
@@ -21,6 +21,7 @@ concepts:
 - '[[minimal-consciousness]]'
 - '[[mysterianism]]'
 - '[[witness-consciousness]]'
+- '[[interface-threshold]]'
 created: 2026-01-31
 date: &id001 2026-01-31
 description: Consciousness beyond human language reveals that experience is more fundamental
@@ -34,7 +35,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/NQWezvA_qcI
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 21:11:00+00:00
+last_deep_review: 2026-05-11 18:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +81,7 @@ Even within vertebrates, convergence is striking. [Cetaceans and corvids](/topic
 
 The [baseline cognition hypothesis](/concepts/baseline-cognition/) clarifies what distinguishes human intelligence from that of other sophisticated animals. Great apes—chimpanzees, bonobos, gorillas—are our closest evolutionary relatives. The familiar "98-99% shared DNA" figure refers to single-nucleotide variants across alignable regions; post-2023 telomere-to-telomere comparisons that count indels, structural variants, and previously-unalignable regions (Yoo et al. 2025 *Nature*) put whole-genome divergence closer to 12-15%. Either way, great apes display remarkable cognitive abilities: tool use, social reasoning, emotional complexity, cultural traditions, procedural metacognition. Yet humans alone produce cumulative culture, abstract mathematics, and technological civilisation. The cognitive-gap argument turns on *substantial similarity with substantial divergence*, not on any single percentage figure—the revised, more-divergent picture neither forces nor refutes a dualistic reading of the gap.
 
-The hypothesis proposes that great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access. This isn't a claim that great apes lack consciousness—they almost certainly have emotional and perceptual consciousness. The claim is that certain cognitive operations specifically require phenomenal consciousness to function.
+The hypothesis proposes that great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access. This isn't a claim that great apes lack consciousness—they almost certainly have emotional and perceptual consciousness. The claim is that certain cognitive operations specifically require phenomenal consciousness to function. The [interface threshold](/concepts/interface-threshold/) names the architectural change that converts a receptive coupling into a selective one: below the threshold, conscious states ride along on neural activity without substantially redirecting it; above it, the same coupling becomes rich enough for consciousness to *select among* neural patterns. The five capacities catalogued below are exactly the cluster the threshold model predicts should appear together rather than scale smoothly.
 
 The evidence maps onto three functions that [Global Workspace Theory](/concepts/conscious-vs-unconscious-processing/) identifies as consciousness-dependent: durable information maintenance, novel combinations of operations, and spontaneous intentional action.
 

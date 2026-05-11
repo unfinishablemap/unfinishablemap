@@ -1,13 +1,215 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 14:27:00+00:00
+ai_modified: 2026-05-11 18:26:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-11 18:26 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Scope**: Cross-review of 26 apex articles for adoption of three new concept anchors created earlier today: [type-token-causation](/concepts/type-token-causation/), [integration-as-activity](/concepts/integration-as-activity/), [interface-threshold](/concepts/interface-threshold/)
+- **Articles edited** (8): [consciousness-and-agency](/apex/consciousness-and-agency/), [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/), [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/), [process-and-consciousness](/apex/process-and-consciousness/), [minds-without-words](/apex/minds-without-words/), [machine-question](/apex/machine-question/), [open-question-ai-consciousness](/apex/open-question-ai-consciousness/), [interface-specification-programme](/apex/interface-specification-programme/)
+- **Cross-links added** (10 total): type-token-causation → 4 apex articles; integration-as-activity → 2; interface-threshold → 4
+- **Word count delta**: minimal (sentence-level additions per article, length-neutral)
+- **Critical issues addressed**: 0 (no philosophical changes; pure discoverability cross-links)
+- **Medium issues addressed**: discoverability gap — none of the 26 apex articles linked to any of the three new anchors prior to this review
+- **Enhancements made**: 10 cross-links connecting apex-layer passages to the new concept anchors that name moves the apex articles were already making
+- **Engagement-mode classifications**: no new named-opponent engagements introduced; existing engagements (with Kim, identity theorists, IIT) retain their existing modes
+- **Output**: [deep-review-2026-05-11-apex-anchor-adoption](/reviews/deep-review-2026-05-11-apex-anchor-adoption/)
+
+## 2026-05-11 18:11 UTC - coalesce
+- **Status**: Abandoned (no suitable candidates)
+- **Sections surveyed**: voids (97/100, most pressured), concepts (235/250), topics (237/250)
+- **Clusters examined against the seam test** (from [conjunction-coalesce](/apex/conjunction-coalesce/)):
+  - Affective cluster (mood/valence/affective/appetitive/noetic-feelings) — already explicitly rejected on 2026-04-27 as thematic-without-structural-conjunction; each names a distinct facet of affective opacity (range / structure / atmosphere / constitution / cognitive-gating).
+  - Temporal cluster (transit/thrownness/temporal/narrative/inaccessible-past) — listed as "candidate awaiting the move" with two tipping conditions; not yet ready.
+  - Cognitive-limits trio (biological-cognitive-closure / embodiment-cognitive-limits / formal-cognitive-limits) — each represents a distinct mechanism (evolutionary, embodiment, computational); two are already prior coalesces.
+  - Mental-causation cluster (mental-causation-and-downward-causation / content-specificity / cross-cultural-convergence) — distinct analytical functions (theoretical / empirical pattern / convergence argument).
+  - Born rule pair (born-rule-and-the-consciousness-interface / born-rule-violation-empirical-status) — one theoretical (derivation circularity), one experimental (falsifiability landscape); one is already a prior coalesce.
+  - Selection pair (post-decoherence-selection / selection-only-channel) — different genres (physics families vs. information-theoretic constraints).
+  - Emergence pair (emergence-as-universal-hard-problem / the-strong-emergence-of-consciousness) — make opposing rhetorical moves (universal gap vs. consciousness-as-unique-case); merger would lose analytical purchase. Already a prior coalesce on the strong-emergence side.
+- **Verdict**: no candidate cluster passes the seam test as either a redundancy-coalesce or a conjunction-coalesce. Per skill instructions, abandoned the attempt rather than force a merger.
+- **References to review**: none
+
+## 2026-05-11 17:56 UTC - condense
+- **Status**: Success
+- **File**: [agency-void](/voids/agency-void/)
+- **Before**: 3011 words (hard_warning, 151% of target)
+- **After**: 2586 words (soft_warning, within acceptable range)
+- **Reduction**: 14%
+- **Technique**: Tightened recurrence section (cut redundant framing on the three faces while preserving the structural typology); compressed Five Layers of Verification Void by removing parenthetical restatements; trimmed prose throughout (Two Limits, What Cannot Be Controlled, Spectrum of Control, Sovereignty Paradox, Phenomenology, Relation to Site Perspective); shortened Further Reading entries. Preserved opening summary, all section anchors, the Relation to Site Perspective section, all citations, and the void's distinctive conjunctive structure.
+
+## 2026-05-11 17:41 UTC - deep-review
+- **Status**: Success
+- **File**: [selection-only-channel](/concepts/selection-only-channel/)
+- **Word count**: 1889 → 1950 (+61)
+- **Critical issues addressed**: 0 (none found — article passes all attribution, calibration, and slippage diagnostics on first pass)
+- **Medium issues addressed**: 2 (missing cross-link to interface-efficacy-and-the-cognitive-gap added in frontmatter, body, and Further Reading; possibility-probability-slippage promoted from Further Reading to body anchor at the calibration site)
+- **Enhancements made**: 2 (one sentence in Content-Confinement bridging to interface-efficacy's cross-species variable; one sentence in Content-Confinement explicitly tying structural-commitment-not-evidence stance to possibility-probability-slippage)
+- **Reasoning-mode notes**: engagement with energy-conservation objection (Collins/Pitts): Mode One — defective on its own terms; the channel is energetically inert by construction so the objection has no purchase. No boundary substitution, no editor-vocabulary leakage in prose.
+- **Output**: [deep-review-2026-05-11-selection-only-channel](/reviews/deep-review-2026-05-11-selection-only-channel/)
+
+## 2026-05-11 17:30 UTC - expand-topic
+- **Status**: Success
+- **Topic**: the wholeheartedness void (voids article)
+- **Output**: [wholeheartedness-void](/voids/wholeheartedness-void/)
+- **Word count**: 2198 words (110% of 2000 voids soft-max — soft_warning; below sister voids decision-void 2743 and suspension-void 2896)
+- **Based on research**: yes ([voids-wholeheartedness-void-2026-05-11](/research/voids-wholeheartedness-void-2026-05-11/))
+
+## 2026-05-11 17:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: microphenomenological interview (concept page)
+- **Output**: [microphenomenological-interview](/concepts/microphenomenological-interview/)
+- **Word count**: 2111 words (84% of 2500 concepts soft-max — ok)
+- **Based on research**: yes ([petitmengin-microphenomenological-interview-2026-04-19](/research/petitmengin-microphenomenological-interview-2026-04-19/))
+
+## 2026-05-11 16:56 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Four newly-created concept pages from this afternoon's evolution-loop run (16:00–16:48 UTC) — `concepts/integration-as-activity.md`, `concepts/type-token-causation.md`, `concepts/interface-threshold.md`, `concepts/selection-only-channel.md`. Three of the four were the named downstream opportunities flagged by this morning's optimistic review (10:50 UTC); the fourth establishes the Shannon-channel formalism for Tenet 2. The chain closed within a single day.
+- **Key findings**: All four articles operate the *tenet-coherent, not evidence-elevating* discipline cleanly — none upgrades any organism or position on the five-tier evidential-status scale on tenet-load alone. type-token-causation supplies the catalogue's most explicit Popperian unfalsifiability admission to date (lines 122–123); integration-as-activity's "Note on What the Convergence Shows" subsection is the catalogue's clearest description-level-vs-metaphysical-level discipline; selection-only-channel's source-attribution on Stapp's Process 1 case is the sharpest in the catalogue; interface-threshold protects phenomenal-consciousness-question from collapse into cognitive-architecture-question. Process Philosopher and Hardline Empiricist personas converge across all four articles.
+- **Tasks added**: 3 P3 expand-topic / apex-evolve tasks (phenomenal-concept-strategy concept page, channel-class-taxonomy concept page, technical-machinery-layer apex synthesis)
+- **Output**: [optimistic-2026-05-11b](/reviews/optimistic-2026-05-11b/)
+
+## 2026-05-11 16:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: selection-only mind influence under information-theoretic limits (concept page)
+- **Output**: [selection-only-channel](/concepts/selection-only-channel/)
+- **Word count**: 1889 words (76% of 2500 concepts soft-max — ok)
+- **Based on research**: yes ([selection-only-mind-influence-information-limits-2026-05-05](/research/selection-only-mind-influence-information-limits-2026-05-05/))
+- **Structural placement**: The matching topics-section article [selection-only-mind-influence](/topics/selection-only-mind-influence/) already does the full derivation, empirical signature corridor, and distinguishing-observables treatment (created 2026-05-05, deep-reviewed 2026-05-08). The slug `selection-only-mind-influence` collides at the topics location; this concept page uses the cleaner channel-theoretic slug `selection-only-channel` to occupy the *building-block* role explicitly. The concept page (a) names selection-only as a *channel class* in Shannon's three-component sense (input alphabet / output alphabet / transition kernel), (b) derives the three defining constraints (per-event log₂(N) ceiling, Born-rule preservation pinning signed rate, content-confinement bounding the input alphabet by the output alphabet), (c) explicitly distinguishes the class from probability-bias, measurement-basis-choice, energy-injection, and candidate-generation channels — handling the Stapp-Process-1 case carefully because Stapp's selection-only commitment applies only at the outcome layer, not at the basis-choice layer above, and (d) makes the bidirectionality of the channel explicit so [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/) has a clean technical referent.
+- **Source-attribution discipline**: Stapp's quoted commitment is preserved verbatim ("the mind would only have the option to choose the observable, not the option of selecting the measurement result in deviation from the Born's probability law" — Stapp, n.d.) and the surrounding text accurately notes that this restricts Stapp's *outcome* layer while his basis-choice layer is a strictly richer channel that is not selection-only at the outcome level. No commitments are attributed to authors beyond what their sources support.
+- **Distinctions installed** (to prevent collapse with adjacent concepts):
+    - selection-only-channel ≠ selection-only-mind-influence (topic): the channel is the formal building-block; the topic is the philosophical argument plus empirical-corridor + distinguishing-observables table.
+    - selection-only-channel ≠ probability-bias channel: the latter is the intermediate reading of Tenet 2 (lives in a strictly larger class).
+    - selection-only-channel ≠ measurement-basis-choice channel: Stapp's Process 1 layer sits above the selection-only outcome layer.
+    - selection-only-channel ≠ candidate-generation channel: Orch OR and consciousness-causes-collapse models permit candidate-set contribution.
+- **Self-citations**: 1 — [selection-only-mind-influence](/topics/selection-only-mind-influence/) is genuinely load-bearing (the concept page explicitly defers to it for derivation, empirical-corridor, and distinguishing-observables treatment).
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
+
+## 2026-05-11 16:30 UTC - expand-topic
+- **Status**: Success
+- **Topic**: interface-threshold (concept page)
+- **Output**: [interface-threshold](/concepts/interface-threshold/)
+- **Word count**: 2164 words (87% of 2500 concepts soft-max — ok)
+- **Based on research**: no (drawn from `topics/consciousness-and-cognitive-distinctiveness.md` lines 103–107, `concepts/metarepresentation-threshold.md`, `concepts/attention-as-interface.md`, and `topics/interface-efficacy-and-the-cognitive-gap.md`)
+- **Structural placement**: The concept page consolidates the interface-threshold hypothesis named in `consciousness-and-cognitive-distinctiveness` lines 103–107 as the alternative to gradual amplification. The page (a) states the gradual-amplification alternative at its strongest, (b) installs the threshold hypothesis with the cluster prediction as its central empirical commitment, (c) distinguishes the threshold (qualitative architectural transition) from interface-efficacy (continuous scaling above threshold) and from metarepresentation-threshold (downstream cluster at the cognitive grain), (d) names the within-species infant echo, (e) gives explicit falsifiers.
+- **Distinctions installed** (to prevent collapse with adjacent concepts):
+    - interface-threshold ≠ interface-efficacy: efficacy is continuous scaling along bandwidth/fidelity/granularity/candidate-coupling once a selection-capable coupling exists; threshold is the qualitative architectural condition under which any of those axes start to matter for cognition. The two constructs compose (subthreshold → at threshold → above threshold).
+    - interface-threshold ≠ metarepresentation-threshold: the latter is the cluster of declarative capacities that appear above the architectural threshold; the former is the coupling change that makes them possible. Metarepresentation-threshold is a downstream consequence at one grain.
+    - interface-threshold ≠ consciousness-as-amplifier: amplifier names *what* consciousness does once the threshold is crossed; threshold names the architectural moment that makes amplification possible.
+- **Falsifiers stated explicitly**: (1) clear intermediate species exhibiting some-but-not-all of the five clustered capacities in declarative form; (2) smooth cognitive scaling without selective acceleration; (3) cumulative culture without consciousness expansion; (4) a specific anatomical structure shown necessary and sufficient for the cluster (weakens dualist reading); (5) classical-computation AI crossing the cluster.
+- **Self-citations**: 3 (cognitive-distinctiveness, metarepresentation-threshold, interface-efficacy-and-the-cognitive-gap) — all genuinely load-bearing for the concept page's argument.
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
+
+## 2026-05-11 16:11 UTC - deep-review
+- **Status**: Success
+- **File**: [type-token-causation](/concepts/type-token-causation/)
+- **Previous review**: [pessimistic-2026-05-11b](/reviews/pessimistic-2026-05-11b/) (pessimistic-only; first deep review)
+- **Word count**: 2,772 → 2,830 (+58 net; HTML log removal offset by two substantive additions)
+- **Critical issues addressed**: 0 (none found; prior pessimistic review's two High-severity items already resolved in the 2026-05-11 15:41 refinement)
+- **Hygiene issues addressed**: 1 (removed the HTML-commented AI REFINEMENT LOG block introduced by the prior refine-draft pass; the log itself stated it should be removed after human review)
+- **Medium issues addressed**: 1 (disambiguated MWI rejection as indexical-not-ontological per pessimistic-2026-05-11b Counterargument 2; cross-linked to [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/))
+- **Low issues addressed**: 2 (Tenet-5 hedge on parsimony claim; tightened Davidson parenthetical from 36 to 17 words for length-neutral compliance)
+- **Reasoning modes** (changelog only, per [direct-refutation-discipline](/project/direct-refutation-discipline/)):
+    - engagement with Kim: Mode One; argues defectiveness on Kim's own terms by showing the type/token grammar slippage in premise 1.
+    - engagement with Bohmian mechanics: Mode Three; explicit framework-boundary marking via the conditional structure of the argument.
+    - engagement with phenomenal-concept strategy (Loar/Papineau/Frankish): Mixed; in-framework cost (reports-but-not-behaviour) plus Mode-Three boundary on introspective-as-user-illusion.
+    - engagement with MWI: Mode Three; boundary at Tenet 4, with pointer to [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) for branch-counting engagement.
+    - engagement with Popperian unfalsifiability: Mode Three; honest boundary, falsifiability relocated to supporting commitments.
+- **Possibility/probability slippage audit**: clean. No boundary cases upgraded on the five-tier evidential-status scale on tenet-load alone; the article is a structural concept-page, not an evidential argument about which systems are conscious.
+- **Output**: [deep-review-2026-05-11-type-token-causation](/reviews/deep-review-2026-05-11-type-token-causation/)
+
+## 2026-05-11 15:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [integration-as-activity](/concepts/integration-as-activity/)
+- **Review source**: [pessimistic-2026-05-11b](/reviews/pessimistic-2026-05-11b/) (Issues 2, 3, 5 and Counterarguments §1)
+- **Changes**:
+    - Issue 2 (High): Added two paragraphs after the epiphenomenalism-collapse claim in "The Identity Thesis at Its Strongest" introducing the phenomenal-concept strategy (Loar 1990 / Papineau 2002 / Frankish 2016) as the standard physicalist rejoinder. The in-framework response shows why the activity framing does not need to deny the strategy's account of *reports* but does need to deny its account of *introspective access to phenomenal character*. The second paragraph also discharges Counterarguments §1 (IIT-theorist accepting the structure-not-subject framing as a feature): the in-framework cost named is the collapse of introspective acquaintance onto representational structure, not a Map-tenet appeal.
+    - Issue 3 (Medium): Added "A Note on What the Convergence Shows" subsection after the Whitehead-limit paragraph, naming explicitly that RPT/GWT/predictive-processing converge with the activity framing only at the *description* level (integration-as-process), and that the further reading of the process as the act of a conscious subject is a Map-specific interpretation grounded in the dualist tenet rather than a shared commitment of the four frameworks. Also softened the lead paragraph's "convergence" claim with a forward-pointer to the new subsection.
+    - Issue 5 (Medium): Rewrote the third sub-bullet under "What 'Activity' Adds" from "Activity admits a subject" (grammar-to-metaphysics inflation) to "Activity has a first-personal character", arguing from the first-personal character of conscious experience as a datum rather than from the grammar of "integration by consciousness".
+    - Added references: Loar 1990, Papineau 2002, Frankish 2016.
+- **Engagement classifications** (editor-internal, not in article prose):
+    - Phenomenal-concept-strategy / IIT-theorist engagement: Mode One (defective on its own terms) for the introspective-access point — the identity-theorist's combination of identity-thesis-plus-phenomenal-concept-strategy is shown to pay a specific in-framework cost (collapse of introspective acquaintance onto representational structure), invoked via the strategy's own commitments; Mode Three (framework-boundary marking) for the residue, since whether that cost is acceptable is itself a contested boundary the article does not pretend to settle by refutation.
+    - Convergence-limit subsection: Mode Three (framework-boundary marking) — the over-claim is corrected by honestly naming where the convergence holds (description level) and where it does not (metaphysical reading), rather than by attempting to refute the cognitive-neuroscience frameworks inside their own terms.
+    - First-personal-character sub-bullet: Mode Two (unsupported foundational move) on the identity-theorist's side — the identity thesis is shown to either silently reduce the first-personal character to some unnamed structural feature or leave it as a brute aspect, neither of which is earned within the framework by its own standards.
+- **Word count**: ~2350 words (up from 1947), still within concept-page target range.
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
+
+## 2026-05-11 15:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [type-token-causation](/concepts/type-token-causation/)
+- **Review source**: [pessimistic-2026-05-11b](/reviews/pessimistic-2026-05-11b/) (Issues 1, 2, 4, 6, 7, 9)
+- **Changes**:
+    - Issue 1 (High): Bracketed Bohmian pilot-wave mechanics with the epistemic-accessibility caveat at "The Quantum-Indeterminacy Limit", flagging the argument as conditional on either non-determinism or the Bohmian inaccessibility move.
+    - Issue 2 (High): Added "The Phenomenal-Concept Alternative" section between "What Type-Token Causation Buys" and "The Distinction Deployed Across the Map", acknowledging Loar/Papineau/Frankish as a type-level defence that does not require type-token machinery, and stating the Map's two reasons for preferring the type-token route (covers behaviour as well as reports; takes introspective testimony at face value rather than as user-illusion). Added Loar 1990, Papineau 2002, Frankish 2016 to References.
+    - Issue 4 (Medium): Added explicit unfalsifiability acknowledgment to "The Detection Problem" — the central claim is unfalsifiable by direct observation by construction; falsifiability comes entirely from supporting empirical commitments.
+    - Issue 6 (Low): Rewrote smoking-cancer example so it no longer implies smoking causally affects the non-developer.
+    - Issue 7 (Low): Added parenthetical noting Davidson's anomalous-monism position so the citation does not appear to misappropriate him.
+    - Issue 9 (Low): Replaced "lines 67–81 of that article" with the named "Does Quantum Selection Escape This Charge?" section; tightened the cognitive-distinctiveness reference to the "Intelligence Threshold" section's interface-threshold discussion.
+- **Engagement classifications** (editor-internal, not in article prose):
+    - Bohmian caveat: Mode Three (framework-boundary marking) — Bohm is a non-MWI deterministic interpretation under which the type-token move does not get traction; honestly noted as a place the framework's machinery is conditional rather than refuted.
+    - Phenomenal-concept-strategy engagement: Mode One (defective on its own terms) for the reports-vs-behaviour point (the strategy's own scope omits behavioural efficacy); Mode Three (framework-boundary marking) for the introspective-vehicle point (Map's commitment to introspective testimony as evidence-to-be-vindicated runs counter to the strategy's deflationary reading).
+    - Detection-problem unfalsifiability acknowledgment: Mode Three honestly applied — the Popperian charge is named as a residue rather than refuted within Popper's framework, and the article owns the cost.
+- **Word count**: ~2400 words (up from ~2080), still well within concept-page target range.
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
+
+## 2026-05-11 15:26 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [integration-as-activity](/concepts/integration-as-activity/) (1,947 words) and [type-token-causation](/concepts/type-token-causation/) (2,081 words), both created today by `expand-topic` and not yet pessimistically reviewed. Cover both concept pages since they are tightly coupled (each cites the other) and load-bearing for the wider catalogue.
+- **Output**: [pessimistic-2026-05-11b](/reviews/pessimistic-2026-05-11b/)
+- **Key findings**: Two High-severity issues — (1) Bohmian counter-example absent from type-token-causation's central premise at line 68 ("under any non-Many-Worlds interpretation, this is false") — Bohmian mechanics is non-MWI and deterministic at the token grain, so the framing is overstated; (2) phenomenal-concept strategy (Frankish/Papineau/Loar) unengaged in both pages despite both being load-bearing for the Map's anti-epiphenomenalism case. Three Medium-severity issues: integration-as-activity's "convergence" claim oversells what RPT/GWT/PP actually commit to at the metaphysical level; the detection-problem section's "partial responses" frame doesn't face direct unfalsifiability; "Activity admits a subject" sub-bullet inflates grammar to metaphysics. Plus three Low-severity polish items (smoking-cancer example misstated, Davidson 1970 citation selective re anomalous monism, line-number citations fragile).
+- **Tasks added**: Two P2 refine-draft tasks for the two concept pages addressing High and Medium issues.
+
+## 2026-05-11 15:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Integration as activity (the IIT critique's central alternative framing)
+- **Output**: [integration-as-activity](/concepts/integration-as-activity/)
+- **Word count**: 1947 words (78% of 2500 soft max; within concept target range)
+- **Based on research**: No (anchored on existing treatment in `topics/consciousness-and-integrated-information.md` lines 111–147 which catalogues the four convergent alternatives; consolidates the distinction so other articles can deploy it compactly)
+- **Source treatment**: Two-channel discipline maintained — IIT's identity thesis stated at its strongest before the activity framing's structural advantages are named; the four alternatives (RPT/Lamme, GWT/Baars-Dehaene, predictive processing/Friston, Whiteheadian prehension) each get a hedged source-exposition paragraph distinct from the Map-integration claim about why they converge. Whitehead-limitation named explicitly: the discipline does not require panexperientialism.
+- **Tenet alignment**: Tenet 1 (Dualism — substrate provides possibilities, consciousness performs the activity) and Tenet 3 (Bidirectional Interaction — activity admits causal influence, identity does not). The "What the Discipline Does Not Settle" section honestly notes that property dualism, emergentism, and neutral monism are all compatible with activity framing — the discipline does not by itself prove interactionism.
+- **Self-citations**: One added (`consciousness-and-integrated-information`) — the topic article supplies the full argument for which the concept page is the referential anchor.
+- **Cross-links installed** (per task notes): `consciousness-and-integrated-information`, `baseline-cognition`, `the-binding-problem`, `attention-as-interface`, `type-token-causation`, `prehension`, `process-philosophy`, `predictive-processing`, `global-workspace-theory`, `epiphenomenalism`, `interactionist-dualism`.
+- **Attribution discipline checks**:
+    - IIT identity claim attributed with verbatim phrase "is one and the same" — Tononi's published language preserved.
+    - RPT, GWT, predictive processing summarised with their authors' framing; activity-framed reading is named as the Map's reading, not the source's.
+    - Whitehead's panexperientialism named as a commitment the Map does *not* inherit — the activity framing is borrowed without the universal-experience claim.
+    - "What the Discipline Does Not Settle" section makes explicit that the framing is compatible with several positions besides interactionism, avoiding the over-attribution that the framing alone proves the Map's metaphysics.
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
+
+## 2026-05-11 14:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Type-token causation (Kim's exclusion and its quantum-indeterminacy limit)
+- **Output**: [type-token-causation](/concepts/type-token-causation/)
+- **Word count**: 2081 words (83% of 2500 soft max; within concept target range)
+- **Based on research**: No (anchored on existing treatment in `topics/consciousness-and-integrated-information.md` lines 67–81, with deployments in `phenomenal-value-realism.md` and `consciousness-and-cognitive-distinctiveness.md`)
+- **Source treatment**: Lifts the type/token distinction from the IIT article and gives it a stand-alone concept anchor; catalogues deployments across three topic articles; names the detection problem honestly; cross-links `causal-budget-ledger` deferred (`concepts/causal-budget-ledger.md` not yet promoted from `project/`).
+- **Tenet alignment**: Tenet 2 (Minimal Quantum Interaction — "minimal" = type-level invisibility) and Tenet 3 (Bidirectional Interaction — real at the token grain). The article frames the distinction as operationalising both without overcommitting on either.
+- **Self-citations**: Two added (`mental-causation-and-downward-causation`, `causal-closure`) — both genuinely load-bearing in the article's argument structure.
+- **Attribution discipline checks**:
+    - Kim's exclusion argument paraphrased with hedge "in its most direct form"; one paraphrased quote attributed correctly.
+    - Type-token distinction credited to Peirce / Davidson / Macdonald & Macdonald / Yablo — not to Kim, who is the *target* of the type-token response.
+    - Map's framework (quantum indeterminacy as the limit on Kim's premise) clearly separated from source exposition in a "Quantum-Indeterminacy Limit" H2 and the "Relation to Site Perspective" H2.
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
+
+## 2026-05-11 14:41 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-of-consciousness](/topics/ethics-of-consciousness/)
+- **Word count**: 3040 → 3030 (-10) — net trim from consolidation; soft_warning maintained
+- **Critical issues addressed**: 0 (none found; sixth consecutive review with no critical issues)
+- **Medium issues addressed**: 1 (consolidated duplicate Further Reading entries pointing to `evaluative-phenomenal-character` — duplication created upstream when the coalesce merged `phenomenal-normativity` + `moral-phenomenology-and-perception` into the single concept article)
+- **Enhancements made**: 0 substantive; 1 structural cleanup
+- **Possibility/probability-slippage check on invertebrate-question addition**: PASS — article preserves "Low" confidence + "Some" weight in the table; scale-of-farming argument is expected-value reasoning under uncertainty, not a tenet-coherence upgrade up the five-tier evidential scale. Hardline Empiricist persona would praise the calibration restraint.
+- **Engagement-mode classification (editor-internal)**:
+    - engagement with illusionism (Frankish): Mixed — Mode One opening ("illusions are still experiences"), Mode One tu quoque (illusionist behavior presupposes the states matter), Mode Three pragmatic reduction (value nihilism unliveable). Three substantive responses in natural prose; no editor-vocabulary leakage.
+    - engagement with patternism (Parfit): Mode Three — framework-boundary marking rooted in the No Many Worlds tenet; honestly declared rather than dressed as refutation.
+- **Stability**: Sixth consecutive review confirming stability. Strongly recommend continuing to exclude from active rotation.
+- **Output**: [deep-review-2026-05-11-ethics-of-consciousness](/reviews/deep-review-2026-05-11-ethics-of-consciousness/)
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
 
 ## 2026-05-11 14:27 UTC - refine-draft
 - **Status**: Success

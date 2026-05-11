@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-08 23:35:00+00:00
+ai_modified: 2026-05-11 18:26:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-26 02:48:00+00:00
 apex_sources:
@@ -24,6 +24,7 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[self-opacity]]'
 - '[[attention-as-interface]]'
+- '[[type-token-causation]]'
 created: 2026-02-23
 date: &id001 2026-02-23
 description: What does it feel like when consciousness acts on matter? Effort, selection,
@@ -37,7 +38,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/GnGdrzel6OA
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-08 23:35:00+00:00
+last_deep_review: 2026-05-11 18:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +75,7 @@ The most immediate phenomenological signature of consciousness at work is [effor
 
 Effort phenomenology has a specific structure. It scales with difficulty — hard tasks feel harder than easy ones. It depletes — sustained effort leads to fatigue that recovers with rest. It can be voluntarily intensified — you can try harder, and the increase in effort is phenomenologically accessible. And it feels categorically different from physical exertion — mental tiredness after sustained reasoning is not the same as muscular tiredness after lifting weights.
 
-A physicalist can respond that the brain's resource-monitoring systems generate the feeling of effort regardless of whether a separate non-physical entity is involved. An identity theorist or functionalist can go further: if consciousness just *is* the relevant neural processing, then of course the phenomenology tracks the demand — there is no gap to bridge. This is correct as far as it goes, but only by absorbing phenomenology into physics at the cost of the [hard problem](/topics/hard-problem-of-consciousness/). The tracking argument targets epiphenomenalism specifically: if consciousness is a byproduct that does nothing, the correlation between felt effort and objective cognitive load is a brute regularity requiring independent explanation. The brain generates both the processing and the feeling, but under epiphenomenalism there is no reason the feeling should so precisely mirror the processing rather than varying arbitrarily or remaining constant. The Map's framework offers a simpler account: the feeling tracks the load because consciousness is doing the work that generates the load. In practice, [contemplative training](/concepts/meditation-and-consciousness-modes/) *refines* the effort distinction rather than dissolving it — experienced meditators report clearer discrimination between effortful and effortless states, not a collapse of the distinction into illusion.
+A physicalist can respond that the brain's resource-monitoring systems generate the feeling of effort regardless of whether a separate non-physical entity is involved. An identity theorist or functionalist can go further: if consciousness just *is* the relevant neural processing, then of course the phenomenology tracks the demand — there is no gap to bridge. This is correct as far as it goes, but only by absorbing phenomenology into physics at the cost of the [hard problem](/topics/hard-problem-of-consciousness/). The tracking argument targets epiphenomenalism specifically: if consciousness is a byproduct that does nothing, the correlation between felt effort and objective cognitive load is a brute regularity requiring independent explanation. The brain generates both the processing and the feeling, but under epiphenomenalism there is no reason the feeling should so precisely mirror the processing rather than varying arbitrarily or remaining constant. The Map's framework offers a simpler account: the feeling tracks the load because consciousness is doing the work that generates the load. The [type-token distinction](/concepts/type-token-causation/) specifies how this is compatible with physics: felt effort's causal work occurs at the token grain (which particular neural outcome stabilises in this deliberation) without altering type-level Born-rule statistics, so the tracking is real even though no statistical anomaly would detect it. In practice, [contemplative training](/concepts/meditation-and-consciousness-modes/) *refines* the effort distinction rather than dissolving it — experienced meditators report clearer discrimination between effortful and effortless states, not a collapse of the distinction into illusion.
 
 ### Selection: The Feel of Choosing
 

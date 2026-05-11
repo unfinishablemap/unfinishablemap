@@ -122,21 +122,21 @@ This persona's verdict is **load-bearing for this review** because three of the 
 
 ### High Priority
 
-#### Write `concepts/type-token-causation.md`
+#### Write [concepts/type-token-causation.md](/concepts/type-token-causation/)
 
 - **Builds on**: The IIT article's lines 67–81, which install Kim's exclusion argument and the type-token distinction as load-bearing for the Map's quantum-selection framework. The cognitive-distinctiveness article's interface-threshold framing also rests on token-level causation. PVR's epiphenomenal-value section (lines 167–172) presupposes the distinction. The concept is now load-bearing across at least three topic articles without a referential anchor.
 - **Would address**: A persistent confusion in the catalogue between *statistical-distribution mental causation* (which the Map's MQI tenet does *not* assert) and *individual-outcome mental causation* (which it *does* assert). The distinction is doing significant work, and its diffuse deployment across articles invites the charge that the Map's mental-causation claims shift register as needed.
 - **Estimated scope**: Medium concept article (~1,500–2,000 words). Should (a) state Kim's exclusion argument at its strongest, (b) install the type-token distinction with the IIT article's lines 67–81 as the source, (c) catalogue the deployment of the distinction across at least three topic articles (PVR, IIT, cognitive-distinctiveness), (d) cross-link to [causal-budget-ledger](/concepts/causal-budget-ledger/) which operates at the type-level statistical-bandwidth grain, (e) name the open question (how would we detect token-level causation experimentally?) honestly.
 - **Tenet alignment**: Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction) — the distinction operationalises *minimal* and *bidirectional* together without overcommitment.
 
-#### Write `concepts/integration-as-activity.md`
+#### Write [concepts/integration-as-activity.md](/concepts/integration-as-activity/)
 
 - **Builds on**: The IIT article's lines 111–147, which install the integration-as-activity-not-property distinction at the heart of the Map's IIT critique. The cognitive-distinctiveness article's consciousness-as-amplifier framing (line 73) and the binding-problem treatment (line 152) both operate the same distinction.
 - **Would address**: The Map currently has no concept-page anchor for what is arguably its strongest single philosophical move against IIT. Four sympathetic-but-distinct alternatives (Recurrent Processing, Global Workspace, Predictive Integration, Whiteheadian prehension) all converge on the distinction; consolidating it as a concept page would let other articles deploy it as a unified discipline rather than re-deriving the framework each time.
 - **Estimated scope**: Medium concept article (~1,500–2,000 words). Should (a) state IIT's identity thesis at its strongest, (b) catalogue the four alternatives that treat integration as activity, (c) name the Whitehead-limitation explicitly (the discipline does not require panexperientialism), (d) cross-link to [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/), [baseline-cognition](/concepts/baseline-cognition/), [the-binding-problem](/topics/the-binding-problem/), [attention-as-interface](/concepts/attention-as-interface/).
 - **Tenet alignment**: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) — integration-as-activity is the operationalisation of consciousness *doing* something rather than *being* something.
 
-#### Write `concepts/interface-threshold.md`
+#### Write [concepts/interface-threshold.md](/concepts/interface-threshold/)
 
 - **Builds on**: The cognitive-distinctiveness article's lines 103–107 install the interface-threshold hypothesis as an alternative to gradual amplification. The infant-consciousness article and the comparative-consciousness-and-interface-differences article reference the same idea. The metarepresentation-threshold concept page (which already exists) is a downstream consequence.
 - **Would address**: Why a *cluster* of new capabilities appears together rather than incrementally. The hypothesis is currently distributed across the cognitive-distinctiveness article, the infant-consciousness article, and (implicitly) the great-ape-cognition discussion in baseline-cognition. A concept page would let the hypothesis be cited compactly.
