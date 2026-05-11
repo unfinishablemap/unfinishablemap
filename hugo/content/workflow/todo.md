@@ -114,6 +114,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-11)
 - **Generated**: 2026-05-11
 
+### P3: Write apex synthesis "Dualism Cartography" tying the thickness-grid cluster together
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (evening — 2026-05-11c). The thickness-grid cluster now spans four topic-tier articles (`mechanism-costs-dualism-thickness-quadrants`, `four-quadrant-dualism-taxonomy`, `parsimony-case-for-interactionist-dualism`, `the-interface-problem`) plus a concept (`conservation-laws-and-mental-causation`) and a void (`interface-formalization-void`), but lacks an apex anchor that walks a reader through the cartography from kinds-of-dualism → mechanism-debts-per-cell → the-Map's-region → the open work that remains. The apex article should (a) introduce the thickness grid as the catalogue's organising structure for dualism-positioning, (b) walk a reader from the four-quadrant taxonomy through the mechanism-costs cell-by-cell exposition through the parsimony-within-tenets framing to the interface problem as the cluster's sharpest open question, (c) make the cluster's *cartographic-not-adjudicative* discipline explicit at the apex level so the four topic articles' restraint becomes visible as coordinated methodology, (d) cross-link to all six cluster articles plus `[[apex/interface-specification-programme]]` and `[[apex/post-decoherence-selection-programme]]` as adjacent apex companions. Estimated scope: 3,500–4,500 words; apex/ placement. Tenet alignment: Tenet 1 (Dualism), Tenet 5 (Occam's Razor Has Limits) load-bearing.
+- **Review file**: `reviews/optimistic-2026-05-11c.md`
+- **Source**: optimistic-review (2026-05-11c)
+- **Generated**: 2026-05-11
+
+### P3: Write concept page `articulability-of-q1` consolidating the live open problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (evening — 2026-05-11c). The four-quadrant taxonomy article at lines 144–146 names *Q1 articulability* (whether a non-stipulative authority-selecting law can be specified at the psychophysical level) as the cluster's sharpest unresolved question; the mechanism-costs article at line 68 cross-links to `[[voids/interface-formalization-void]]` as the burden's home; the existing `[[concepts/trumping-preemption]]` page exposes the structural template Saad's framework deploys but does not consolidate the articulability question into a single referential anchor. A dedicated concept page would consolidate the question and supply (a) the formal structure of an authority-selecting law (what it must specify; what counts as non-stipulative), (b) the fiction-to-nature gap inherited from Schaffer's stipulative cases (Merlin's spell; military rank), (c) Saad's delegatory dualism as the current best candidate, (d) what would constitute progress (specific empirical commitments at the psychophysical level; structural constraints on the law's form), (e) cross-links to `[[concepts/trumping-preemption]]`, `[[concepts/delegatory-causation]]`, `[[topics/delegatory-dualism]]`, `[[topics/four-quadrant-dualism-taxonomy]]`, `[[topics/mechanism-costs-dualism-thickness-quadrants]]`, `[[voids/interface-formalization-void]]`. Estimated scope: 1,800–2,400 words; concepts/ placement (concepts/ at ~230/250 = 92%, room available). Tenet alignment: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction); methodological.
+- **Review file**: `reviews/optimistic-2026-05-11c.md`
+- **Source**: optimistic-review (2026-05-11c)
+- **Generated**: 2026-05-11
+
+### P3: Write topic page `q3-as-coherent-dualism` mapping the under-discussed quadrant
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (evening — 2026-05-11c). The four-quadrant taxonomy article at lines 100–109 and the mechanism-costs article at lines 88–98 both treat Q3 (max-mind / min-physical) — most Q3 positions in the literature live in their *monist* form (Kastrup, Berkeley) but Q3 *as dualism* is rarely articulated. The Map can map the territory by treating Q3-as-dualism specifically (Myers–James subliminal-mind paired with lean physics; certain Jungian frameworks) and exposing what the cell commits to in mechanism terms (no interface problem in the dualist sense, but an *appearance debt* — explaining why the intrinsic mental side appears as impersonal physical structure; conservation as a description of mental regularities). The article would be cartographically valuable without endorsing the cell, and would surface the structural asymmetry between Q3-as-dualism (rare, unstable) and Q3-as-monism (well-populated, idealist). Cross-link to `[[topics/analytic-idealism-and-mind-centric-metaphysics]]`, `[[topics/four-quadrant-dualism-taxonomy]]`, `[[topics/mechanism-costs-dualism-thickness-quadrants]]`. Estimated scope: 2,400–3,000 words; topics/ placement. Tenet alignment: Tenet 1 (Dualism); cartographic.
+- **Review file**: `reviews/optimistic-2026-05-11c.md`
+- **Source**: optimistic-review (2026-05-11c)
+- **Generated**: 2026-05-11
+
 ### P3: Write project doc on the delocalisation discipline as a named methodology pattern
 - **Type**: expand-topic
 - **Status**: pending

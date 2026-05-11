@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T22:57:00+00:00
+ai_modified: 2026-05-11T23:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 23:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/integration-as-activity]]
+- **Scope**: Close pessimistic-2026-05-11b Issue 5 (grammar-to-metaphysics inflation) residual. The earlier 16:01 refine (ef4e7ec3a) replaced the offending "Activity admits a subject" sub-bullet with a substantive "Activity has a first-personal character" argument, but did not include the explicit methodological gloss the issue's recommendation called for. This pass adds a short paragraph after the first-personal-character sub-bullet that (a) acknowledges the grammatical surface of "integration *by* consciousness" is suggestive but not load-bearing (using the "the sun rises" foil from the pessimistic review), (b) names the first-personal datum and the [[tenets#^dualism|dualist tenet]] as the actual grounds, and (c) marks the disagreement with readers who reject Tenet 1 as a framework-boundary disagreement honestly noted rather than refuted within the opponent's framework, per [[project/direct-refutation-discipline]].
+- **Issues 3 and Counterarguments §1**: confirmed already addressed by 16:01 refine (lead-paragraph "convergence" softened to description-level with forward pointer; "A Note on What the Convergence Shows" subsection installed after the Whitehead limit; in-framework cost of the phenomenal-concept strategy named — the collapse of introspective acquaintance onto representational structure).
+- **Issue 4** (`concepts/type-token-causation.md` Detection-Problem section's "partial responses" framing not facing the central Popperian unfalsifiability): out of scope for this refine — different file. Todo entry rewritten to track that remaining work separately.
+- **Word count**: 2766 → 2860 (+94 words; concept soft threshold 2,500; hard 3,500; still well within).
+- **Engagement-mode classification (editor-internal, not in prose)**: the added paragraph is Mode Three (framework-boundary marking) — the grammar surface is downgraded and the substantive ground is named (first-personal datum + Tenet 1); the disagreement with Tenet 1-rejecters is marked at the framework boundary rather than dressed as refutation.
+- **Published**: yes (draft: false retained)
 
 ## 2026-05-11 22:57 UTC - optimistic-review
 - **Status**: Success
