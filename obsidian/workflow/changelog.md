@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T14:04:00+00:00
+ai_modified: 2026-05-11T14:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 14:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Driver**: `reviews/pessimistic-2026-05-11.md` Critical Issues 1–4 (sixth pass on the tenets page this UTC cycle).
+- **Changes to Tenet 2 (Minimal Quantum Interaction)**:
+    - Added "Minimality as empirical constraint, not truth-tracking" paragraph (~115 words) — closes the Tenet 2 ↔ Tenet 5 parsimony asymmetry by distinguishing the Rules-out-clause-driven empirical-constraint minimality from the truth-tracking parsimony Tenet 5 declares unreliable. Cross-links to ^occams-limits.
+    - Added "Empirical risk and the amplification gap" paragraph (~95 words) — acknowledges that the post-decoherence-selection move escapes the timing objection by accepting that the mechanism is undetectable by aggregate Born-statistics tests; concentrates empirical risk into single-outcome amplification signatures; forward-links to [[apex/post-decoherence-selection-programme]] as the locus of future evidence.
+    - Added "Falsifiability status" subsection (~120 words) — states explicitly that Tenet 2 makes a consistency claim rather than a novel-prediction claim, and enumerates three falsifiers: (a) reductive explanation of phenomenal experience requiring no interface; (b) measurement-problem solved without selection event; (c) direct detection of consciousness-correlated Born-statistics deviation in a high-precision neural quantum experiment.
+- **Issue 4 (Tenet 3 phenomenal-concept strategy)**: Already addressed by the fifth pass at 12:20 UTC (lines 80-81 of the pre-edit file); the existing paragraph satisfies the recommendation. No new edit required in this pass; verified.
+- **Issue 5 (HTML refinement-log accumulation)**: Acknowledged but not actioned — existing logs are the artefact awaiting human review per their own embedded instruction. Sixth-pass log is concise to limit accumulation pressure.
+- **Engagement-mode classification (editor-internal)**: Issue 1 paragraph — Mode One crossed with honest empirical-risk registration. Issue 2 paragraph — Mode One (in-framework defect, internal coherence repair). Issue 3 paragraph — Honest Popperian falsifiability registration (methodological standard the Map accepts, not opponent-engagement). No mode-label leakage in article prose; no blacklisted editor-vocabulary used.
+- **Calibration check**: Tenet's positive commitments (Definition, Rules out) unchanged. Argumentative structure expanded with three honest acknowledgements (parsimony-discipline boundary, empirical-risk relocation, falsifiability status). Framework not weakened — the Rules-out clause still rules out detectable interactions — but the page no longer reads as if the post-decoherence-selection move dissolved the empirical question.
+- **Published**: yes (uncommitted)
 
 ## 2026-05-11 14:04 UTC - research-voids
 - **Status**: Success
