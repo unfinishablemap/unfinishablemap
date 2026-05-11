@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T15:41:00+00:00
+ai_modified: 2026-05-11T15:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 15:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/integration-as-activity]]
+- **Review source**: [[reviews/pessimistic-2026-05-11b]] (Issues 2, 3, 5 and Counterarguments §1)
+- **Changes**:
+    - Issue 2 (High): Added two paragraphs after the epiphenomenalism-collapse claim in "The Identity Thesis at Its Strongest" introducing the phenomenal-concept strategy (Loar 1990 / Papineau 2002 / Frankish 2016) as the standard physicalist rejoinder. The in-framework response shows why the activity framing does not need to deny the strategy's account of *reports* but does need to deny its account of *introspective access to phenomenal character*. The second paragraph also discharges Counterarguments §1 (IIT-theorist accepting the structure-not-subject framing as a feature): the in-framework cost named is the collapse of introspective acquaintance onto representational structure, not a Map-tenet appeal.
+    - Issue 3 (Medium): Added "A Note on What the Convergence Shows" subsection after the Whitehead-limit paragraph, naming explicitly that RPT/GWT/predictive-processing converge with the activity framing only at the *description* level (integration-as-process), and that the further reading of the process as the act of a conscious subject is a Map-specific interpretation grounded in the dualist tenet rather than a shared commitment of the four frameworks. Also softened the lead paragraph's "convergence" claim with a forward-pointer to the new subsection.
+    - Issue 5 (Medium): Rewrote the third sub-bullet under "What 'Activity' Adds" from "Activity admits a subject" (grammar-to-metaphysics inflation) to "Activity has a first-personal character", arguing from the first-personal character of conscious experience as a datum rather than from the grammar of "integration by consciousness".
+    - Added references: Loar 1990, Papineau 2002, Frankish 2016.
+- **Engagement classifications** (editor-internal, not in article prose):
+    - Phenomenal-concept-strategy / IIT-theorist engagement: Mode One (defective on its own terms) for the introspective-access point — the identity-theorist's combination of identity-thesis-plus-phenomenal-concept-strategy is shown to pay a specific in-framework cost (collapse of introspective acquaintance onto representational structure), invoked via the strategy's own commitments; Mode Three (framework-boundary marking) for the residue, since whether that cost is acceptable is itself a contested boundary the article does not pretend to settle by refutation.
+    - Convergence-limit subsection: Mode Three (framework-boundary marking) — the over-claim is corrected by honestly naming where the convergence holds (description level) and where it does not (metaphysical reading), rather than by attempting to refute the cognitive-neuroscience frameworks inside their own terms.
+    - First-personal-character sub-bullet: Mode Two (unsupported foundational move) on the identity-theorist's side — the identity thesis is shown to either silently reduce the first-personal character to some unnamed structural feature or leave it as a brute aspect, neither of which is earned within the framework by its own standards.
+- **Word count**: ~2350 words (up from 1947), still within concept-page target range.
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
 
 ## 2026-05-11 15:41 UTC - refine-draft
 - **Status**: Success
