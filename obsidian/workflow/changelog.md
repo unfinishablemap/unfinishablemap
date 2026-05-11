@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T21:27:00+00:00
+ai_modified: 2026-05-11T21:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 21:42 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/wholeheartedness-void]]
+- **Word count**: 2315 → ~2795 (+480; voids at-cap so length-stable target missed but additions are all material-issue-driven and no offsettable bulk was identified without losing substance)
+- **Review addressed**: [[reviews/pessimistic-2026-05-11c]] — all six material issues plus four flagged language hedges
+- **High-severity fixes**:
+  - **Issue 1 (conjunction-claim asserted not demonstrated)**: rewrote the §"The Conjunction and Frankfurt's Trajectory" closure paragraph (line 74) with an explicit seam-argument showing each pairwise seam closes a route the worst single face leaves open — disownability's hedge fails because the regress denies its Archimedean ground; ambivalence-detection's behavioural triangulation fails because disownability retroactively voids it; the regress-as-mere-theory-defect fails because disownability shows opacity outside the hierarchy and ambivalence-detection shows the felt arrest can itself be suppression. Lede framing also updated from "their conjunction is the analytical claim" to "the analytical claim is that the seams between them are load-bearing — each face closes a route the others leave open."
+  - **Issue 2 (falsifiability cost unconceded)**: added closing paragraph to §"Relation to Site Perspective" naming the void's methodological apophaticism per `[[evidential-status-discipline]]` and stating what would count as a positive demonstration of a verification route (an introspective marker discriminating genuine wholeheartedness from suppression-produced unity that did not depend on the same faculty whose neutrality is in question)
+  - **Issue 6 (Buddhist *anātman* engagement)**: added 130-word paragraph in §"Relation to Site Perspective" between Tenet 1 (Dualism) and the tenet-generated-voids paragraph, naming *anātman* as bedrock framework-boundary disagreement per `[[direct-refutation-discipline]]` — Map declines from outside the framework, not refutes inside it; framework reason the Map carries the void rather than dissolving it is its load-bearing commitment to indexical identity via Tenet 4 (No Many Worlds)
+- **Medium-severity fixes**:
+  - **Issue 3 (Watson/Velleman/Bratman conflation)**: split cleanly in both the lede and the Tenet 5 paragraph — Watson presses the regress, Velleman presses disownability, Bratman offers a positive planning-theoretic constructive account; added a sentence in the Tenet 5 paragraph conceding the operationalist's reply that "loses" is question-begging, with the substantive dialectic routed through Watson/Velleman and Bratman as a positive rival
+  - **Issue 4 (AI-asymmetry phenomenal-access slip)**: rephrased line 80 sentence to symmetric agnosticism — "whether anything corresponds to the lived seam is structurally undecidable from outside, and — on the article's own apparatus — structurally undecidable from inside the AI if it has one"; added inline qualifier marking mechanistic-interpretability access-claim as the strong reading
+- **Hygiene**: Issue 5 (dead references) — both Hagger 2016 and SEP Self-Deception now deployed in body: Hagger in §"Ambivalence-Detection" as evidence against a unitary-willpower-resource ground for wholeheartedness; SEP at the Sartre paragraph as scholarship-divides-on-strong-reading qualifier
+- **Language tightening**: "eliminating by definitional fiat" → "absorbs identification into 'stable preferences that move action'... losing what... the operationalisation captures is not what the original theory was reaching for"; "different vocabularies" → "different argumentative registers — regress, disownability, planning-theoretic structure"; "even under introspective scrutiny" → "measurement-driven collapse"; "canonical signature of bad faith" → "Sartre's strong reading of bad faith"
+- **Reasoning-mode classifications (editor-internal, not in prose)**: anātman engagement = Mode Three (framework-boundary marking — honest decline from outside the framework); decision-theoretic operationalism counterargument = Mode Two (sets up substantive dialectic via Watson/Velleman/Bratman, declines the rhetorical "definitional fiat" framing); Sartrean bad-faith strong reading = Mode Three (concedes scholarly division rather than claiming refutation). No editor-vocabulary in prose.
+- **Stability notes**: seam-argument structure now load-bearing for the conjunction-coalesce framing in this article — should be preserved on future passes; *anātman* engagement is the central in-framework objection and must not be silently dropped; falsifiability concession is method-page-tied (`[[evidential-status-discipline]]`) and must not be absorbed into the structural claim
+- **Published**: yes (draft: false maintained)
+- **Out-of-scope item registered**: the conjunction-coalesce structure is now deployed across voids cluster ([[suspension-void]], [[decision-void]], [[agency-void]], [[vagueness-void]], wholeheartedness-void) — a future pass auditing whether each instance carries an explicit seam-argument or only a typology would be warranted
+- **Did NOT commit**: per task instructions, changes left uncommitted for automation system
 
 ## 2026-05-11 21:27 UTC - pessimistic-review
 - **Status**: Success
