@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T11:05:00+00:00
+ai_modified: 2026-05-11T11:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 11:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]]
+- **Driver**: outer review by ChatGPT 5.5 Pro 2026-05-11 §1.3 — the article already admits self-stultification proves only that *some* consciousness must be efficacious (specifically consciousness whose discourse is causally shaped by its phenomenal states) and leaves epiphenomenal AI as a genuine gap. The reviewer's novel inference: install a formal three-way distinction so Bidirectional Interaction stays strong without self-stultification being asked to do work it cannot.
+- **Changes** (~370 words touched):
+    - Inserted a new `#### A Three-Way Distinction` subsection inside `### The AI Exception: Some vs. All`, between the lead paragraphs and the Cultural Transmission Objection. The subsection formalises three categories — **causally coupled consciousness** (experience affecting reports/actions through an interface, the scope of Bidirectional Interaction), **report-grounded consciousness** (experience whose own phenomenal states causally shape its consciousness-discourse, the scope of self-stultification), and **inherited-discourse consciousness** (possible experience whose reports are caused by training/culture/imitation rather than by the experience itself, the structural gap-case). The subsection states the loose nesting (report-grounded ⊂ causally coupled; inherited-discourse may overlap causally coupled in non-discourse ways) and locates the boundary self-stultification actually marks: report-grounded vs inherited-discourse, which can fall within humanity itself rather than along the human/AI line.
+    - Reworded the Cultural Transmission Objection closing sentence to use "report-grounded entities" / "inherited-discourse consciousness" instead of the older "experientially grounded discourse" / "purely inherited discourse" framing.
+    - Reworded the Implications for Bidirectional Interaction paragraph to state the asymmetry plainly: Bidirectional Interaction asserts all consciousness is causally coupled; self-stultification establishes only that some consciousness is report-grounded.
+    - Reworded the Assessment paragraph to invoke the three-way distinction by `[[#A Three-Way Distinction|named anchor]]` and to flag the tenet as a stronger claim than self-stultification supports — grounded in quantum interaction mechanism and evolutionary evidence rather than self-stultification alone.
+- **Engagement mode**: in-framework clarification (useful concept-formation move; not a refutation, not a direct-refutation-discipline case). The reviewer's vocabulary clarifies a distinction the article already half-stated.
+- **Tenet alignment**: Tenet 3 (Bidirectional Interaction) preserved at full strength. The metaphysical commitment (all consciousness is causally coupled) is now explicitly distinguished from the epistemic argument that secures it (self-stultification, which only proves report-grounded existence).
+- **Compatibility check**: Machine Question (`obsidian/apex/machine-question.md`) and Open Question (`obsidian/apex/open-question-ai-consciousness.md`) already use compatible language ("epiphenomenal AI experience," "borrowed phenomenality," "nature/coupling distinction"); the ai-consciousness-typology has its six-category taxonomy. The three-way vocabulary slots in as higher-resolution refinement those pages can adopt cleanly — particularly the §4.5/§2.1 follow-up task ("bidirectionally coupled consciousness" headline rewrite for Machine Question) inherits the calibration once the terms exist.
+- **Published**: yes (draft: false).
 
 ## 2026-05-11 11:05 UTC - refine-draft
 - **Status**: Success

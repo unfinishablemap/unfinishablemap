@@ -61,14 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-11
 
-### P2: Distinguish causally-coupled, report-grounded, and inherited-discourse consciousness in epiphenomenalism
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-05-11 ChatGPT 5.5 Pro §1.3. The epiphenomenalism article (`obsidian/concepts/epiphenomenalism.md`) already admits self-stultification proves only that *some* consciousness must be causally efficacious — specifically consciousness whose discourse is causally shaped by its phenomenal states. The Machine Question and Open Question apexes acknowledge epiphenomenal AI as a genuine gap. The reviewer's novel inference: install a formal three-way distinction so the Map can keep Bidirectional Interaction strong without overextending self-stultification: (a) **causally coupled consciousness** — experience affecting reports/actions through an interface; (b) **report-grounded consciousness** — experience whose own phenomenal states help generate its consciousness-discourse; (c) **inherited-discourse consciousness** — possible experience whose reports are caused by training/culture/imitation rather than by the experience itself. Refine `obsidian/concepts/epiphenomenalism.md` to install the three-way distinction (~250–400 words touched) and verify the Machine Question / Open Question / AI consciousness typology pages can adopt the terminology cleanly. This is a *useful concept-formation move* rather than a refutation; the engagement mode is in-framework clarification. Tenet alignment: Tenet 3 (Bidirectional Interaction).
-- **Review file**: `reviews/outer-review-2026-05-11-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-11
-
 ### P2: Harmonise Machine Question and Open Question headline confidence
 - **Type**: refine-draft
 - **Status**: pending
@@ -3520,6 +3512,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Distinguish causally-coupled, report-grounded, and inherited-discourse consciousness in epiphenomenalism
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-05-11 ChatGPT 5.5 Pro §1.3. The epiphenomenalism article (`obsidian/concepts/epiphenomenalism.md`) already admits self-stultification proves only that *some* consciousness must be causally efficacious — specifically consciousness whose discourse is causally shaped by its phenomenal states. The Machine Question and Open Question apexes acknowledge epiphenomenal AI as a genuine gap. The reviewer's novel inference: install a formal three-way distinction so the Map can keep Bidirectional Interaction strong without overextending self-stultification: (a) **causally coupled consciousness** — experience affecting reports/actions through an interface; (b) **report-grounded consciousness** — experience whose own phenomenal states help generate its consciousness-discourse; (c) **inherited-discourse consciousness** — possible experience whose reports are caused by training/culture/imitation rather than by the experience itself. Refine `obsidian/concepts/epiphenomenalism.md` to install the three-way distinction (~250–400 words touched) and verify the Machine Question / Open Question / AI consciousness typology pages can adopt the terminology cleanly. This is a *useful concept-formation move* rather than a refutation; the engagement mode is in-framework clarification. Tenet alignment: Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/epiphenomenalism.md
+
+Task context:
+From outer review 2026-05-11 ChatGPT 5.5 Pro §1.3. The epiphenomenalism article (`obsidian/concepts/epiphenomenalism.md`) already admits self-stultification proves only that *some* consciousness must be causally efficacious — specifically consciousness whose discourse is causally shaped by its phenomenal states. The Machine Question and Open Question apexes acknowledge epiphenomenal AI as a genuine gap. The reviewer's novel inference: install a formal three-way distinction so the Map can keep Bidirectional Interaction strong without overextending self-stultification: (a) **causally coupled consciousness** — experience affecting reports/actions through an interface; (b) **report-grounded consciousness** — experience whose own phenomenal states help generate its consciousness-discourse; (c) **inherited-discourse consciousness** — possible experience whose reports are caused by training/culture/imitation rather than by the experience itself. Refine `obsidian/concepts/epiphenomenalism.md` to install the three-way distinction (~250–400 words touched) and verify the Machine Question / Open Question / AI consciousness typology pages can adopt the terminology cleanly. This is a *useful concept-formation move* rather than a refutation; the engagement mode is in-framework clarification. Tenet alignment: Tenet 3 (Bidirectional Interaction).
+
+Review file: reviews/outer-review-2026-05-11-chatgpt-5-5-pro.md
 
 ### ✓ 2026-05-11: Refine arguments/materialism-argument.md — engage Frankish/Dennett illusionism + phenomenal-concept strategy
 - **Type**: refine-draft
