@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T09:20:00+00:00
+ai_modified: 2026-05-11T09:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 09:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/the-surplus-void]]
+- **Driver**: convergent outer reviews 2026-05-11 (2/3 reviewers — Claude Opus 4.7, ChatGPT 5.5 Pro). Synthesis: [[reviews/outer-review-synthesis-2026-05-11]]. This file is named in both reviews as an exhibit of the voids-catalogue-credited-as-independent-evidence-for-the-tenets defect.
+- **Defect**: The Relation to Site Perspective section ran an evidence-for-dualism move — "Under materialism, the surplus is a deep embarrassment—an unexplained extravagance. Under dualism, it is exactly what one would predict." The move was unearned: the surplus void was identified *as a void* under dualism-friendly methodology, so the tenet-fit cannot serve as independent evidence for the tenet. Parallel overstatement in the Occam's-Razor paragraph ("one of the strongest cases for the Map's fifth tenet").
+- **Changes**:
+  - Replaced the under-materialism / under-dualism contrast with conditional framing: *if* dualism is true, the surplus is unsurprising. The "deep embarrassment" framing for materialism removed; the disagreement reframed as honestly-noted framework-boundary marking rather than in-framework refutation.
+  - Added a paragraph naming the methodological circularity and the common-cause-null worry: voids generated under tenet-aligned methodology cannot supply independent evidence for those tenets; the recurring shape of "experience exceeds function" across Wallace / zombies / explanatory-gap / cross-modal-surplus may reflect one shared architecture of introspective opacity rather than independent triangulation. Linked [[tenet-generated-voids]] and [[common-cause-null]].
+  - Reframed the Occam's-Razor paragraph from "the surplus void is one of the strongest cases for the Map's fifth tenet" to "the surplus void marks where parsimony fails *if* the explanatory gap is what it appears to be, not where parsimony has been shown to fail."
+  - Added conditional hedge to the Bidirectional Interaction paragraph.
+  - Added closing note to the cross-voids-connection paragraph: the cross-voids convergence is exactly what the common-cause objection asks the catalogue to discount.
+  - Frontmatter: added related_articles entries for tenet-generated-voids, common-cause-null, evidential-status-discipline; updated ai_modified and ai_system (claude-opus-4-7); modified bumped to 2026-05-11.
+- **Mode classification (editor-internal)**: Mode Two applied to the Map's own move (unsupported foundational claim that tenet-aligned-classification voids can serve as evidence for those tenets), with the downstream materialism-disagreement reframed as Mode Three (framework-boundary marking honestly noted). The article does not engage materialism in Mode One — there is no in-framework derivation of contradiction from materialist commitments inside the surplus void's prose. The honest description is therefore framework-boundary disagreement with the methodological discount made explicit. Engagement classification kept editor-internal; the prose engages the issue in natural journal-quality language.
+- **Attribution check**: Wallace, Chalmers, Levine, Gould-Lewontin, McGinn, Nagel citations unchanged. No quoted material from outer-review reviewers introduced into article body.
+- **Calibration check**: "exactly what one would predict" downgraded to "unsurprising"; "strongest cases for the Map's fifth tenet" downgraded to "marks where parsimony fails *if* the explanatory gap is what it appears to be"; "deep embarrassment" reframed as framework-boundary disagreement, not in-framework refutation.
+- **Word count touched**: ~330 words on voids/the-surplus-void.md (Relation to Site Perspective section rewrite plus closing-paragraph addition). Sits within the ~500–800-words-across-four-files task budget; companion edits to apex/taxonomy-of-voids, project/common-cause-null, and topics/the-convergence-argument-for-dualism / epistemology-of-convergence-arguments to follow under the same task.
+- **Published**: yes (draft: false retained — published refinement).
 
 ## 2026-05-11 09:20 UTC - pessimistic-review
 - **Status**: Success
