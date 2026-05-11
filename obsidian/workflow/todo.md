@@ -69,14 +69,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-11
 
-### P1: Install a causal-budget ledger discipline across mental-causation articles
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: From outer review 2026-05-11 ChatGPT 5.5 Pro §1.1 (genuinely novel inference). The selection-only-mind-influence article already specifies per-event information-transfer limits and Born-statistics convergence as constraints on mental causation. The reviewer's novel inference: *every* article invoking mental causation (free will, placebo, choking, attention disorders, meditation, animal cognition, AI consciousness, time-arrow claims) is drawing on the same tiny channel under strict MQI, and the Map currently does not check whether its total claimed causal workload fits inside the bandwidth its minimal interface plausibly carries. Create `obsidian/project/causal-budget-ledger.md` (project-doc placement, alongside `evidential-status-discipline`, `coherence-inflation-countermeasures`, `direct-refutation-discipline`) defining: (a) the discipline — each mental-causation claim must specify candidate set, selection bandwidth, amplification pathway, expected statistical signature, falsification condition, and nearest physicalist explanation; (b) the rationale — without this, "minimal" risks becoming a global escape hatch rather than a measurable constraint; (c) audit checklist for refine-draft and deep-review skills to apply when touching mental-causation pages; (d) cross-links to `[[selection-only-mind-influence]]`, `[[topics/free-will]]`, `[[interface-specification-programme]]`, `[[empirical-phenomena-mental-causation]]`, `[[tenets]]` (Tenet 2 MQI section). Estimated 1500–2200 words; project-doc placement. **Convergent finding flag**: this connects to the unbounded-arena AI-risk tension surfaced in the 2026-05-08 outer reviews (the "structural unboundedness" vs Pascal's-mugging concern) — installing a causal budget gives the Map a principled internal brake. Tenet alignment: Tenet 2 (Minimal Quantum Interaction); methodological.
-- **Review file**: `reviews/outer-review-2026-05-11-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-11
-
 ### P1: Refine tenets page — Bidirectional Interaction as metaphysical commitment supported indirectly, not directly introspectible
 - **Type**: refine-draft
 - **Status**: pending
@@ -3524,6 +3516,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Install a causal-budget ledger discipline across mental-causation articles
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-05-11 ChatGPT 5.5 Pro §1.1 (genuinely novel inference). The selection-only-mind-influence article already specifies per-event information-transfer limits and Born-statistics convergence as constraints on mental causation. The reviewer's novel inference: *every* article invoking mental causation (free will, placebo, choking, attention disorders, meditation, animal cognition, AI consciousness, time-arrow claims) is drawing on the same tiny channel under strict MQI, and the Map currently does not check whether its total claimed causal workload fits inside the bandwidth its minimal interface plausibly carries. Create `obsidian/project/causal-budget-ledger.md` (project-doc placement, alongside `evidential-status-discipline`, `coherence-inflation-countermeasures`, `direct-refutation-discipline`) defining: (a) the discipline — each mental-causation claim must specify candidate set, selection bandwidth, amplification pathway, expected statistical signature, falsification condition, and nearest physicalist explanation; (b) the rationale — without this, "minimal" risks becoming a global escape hatch rather than a measurable constraint; (c) audit checklist for refine-draft and deep-review skills to apply when touching mental-causation pages; (d) cross-links to `[[selection-only-mind-influence]]`, `[[topics/free-will]]`, `[[interface-specification-programme]]`, `[[empirical-phenomena-mental-causation]]`, `[[tenets]]` (Tenet 2 MQI section). Estimated 1500–2200 words; project-doc placement. **Convergent finding flag**: this connects to the unbounded-arena AI-risk tension surfaced in the 2026-05-08 outer reviews (the "structural unboundedness" vs Pascal's-mugging concern) — installing a causal budget gives the Map a principled internal brake. Tenet alignment: Tenet 2 (Minimal Quantum Interaction); methodological.
+- **Output**: Install a causal-budget ledger discipline across mental-causation articles
 
 ### ✓ 2026-05-11: Tenets page — flag agency cluster as substance-leaning subprogramme
 - **Type**: refine-draft

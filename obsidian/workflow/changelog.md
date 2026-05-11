@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T10:05:00+00:00
+ai_modified: 2026-05-11T10:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 10:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Causal-budget ledger discipline (installs the sixth named methodological pattern at the *quantitative budget conservation* layer)
+- **Output**: [[project/causal-budget-ledger]]
+- **Word count**: 2620 (within project-doc soft band; sister disciplines run longer)
+- **Based on research**: no (derived from outer review §1.1 + selection-only-mind-influence article arithmetic)
+- **Driver**: outer review 2026-05-11 ChatGPT 5.5 Pro §1.1 — novel inference that every mental-causation article in the catalogue draws on the same tiny channel under strict MQI, and the Map currently does not audit total bandwidth aggregation. P1 expand-topic task installed the discipline to close that gap.
+- **Six-field ledger schema**: candidate set, selection bandwidth, amplification pathway, expected statistical signature, falsification condition, nearest physicalist explanation. Editor-internal vocabulary per [[writing-style|the writing-style guide]] — articles express the calibration in natural prose, not labelled fields.
+- **Audit checklist**: five-question protocol for `/refine-draft` and `/deep-review` when touching mental-causation pages; cluster-level aggregation check recorded in changelog.
+- **Worked examples**: placebo (audit passes — small bandwidth, real amplification), free will (audit passes only if content-confinement is respected), choking (passes cleanly — minimal selection signal).
+- **Cross-links installed**: [[selection-only-mind-influence]], [[topics/free-will]], [[interface-specification-programme]], [[empirical-phenomena-mental-causation]], [[tenets]], [[bandwidth-of-consciousness]], [[mathematical-structure-of-the-consciousness-physics-interface]], [[falsification-roadmap-for-the-interface-model]], [[coherence-inflation-countermeasures]], [[evidential-status-discipline]], [[direct-refutation-discipline]], [[framework-stage-calibration]], [[testability-ledger]].
+- **Tenet alignment**: Tenet 2 (Minimal Quantum Interaction) primary — operationalises *minimal* as a measurable constraint rather than a rhetorical hedge; Tenet 3 (Bidirectional Interaction) secondary — bounds the causal work the framework is committed to.
+- **Convergent-finding flag**: connects to the unbounded-arena AI-risk tension surfaced in 2026-05-08 outer reviews; the budget gives the Map a principled internal brake.
+- **Attribution check**: no quoted material from outer-review reviewers introduced into article body beyond the §1.1 framing already in the public review; references include the originating ChatGPT 5.5 Pro outer review and the foundational Stapp/Han/Stoll-Zheng sources for the arithmetic.
+- **Published**: yes (draft: false).
 
 ## 2026-05-11 10:05 UTC - deep-review
 - **Status**: Success
