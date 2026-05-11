@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T14:21:00+00:00
+ai_modified: 2026-05-11T14:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 14:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Driver**: Three unconsumed voids research notes (translation-void 2026-05-09, effort-void 2026-05-08, cognitive-phenomenology-void 2026-05-01) with no corresponding articles; voids/ at 99/100 = at cap; integration discipline is absorption rather than expansion.
+- **Changes**:
+    - Added a new "Research-Stage Voids" H2 section between "Methods and Probes" and the "---" divider. Section names the cap-pressure framing explicitly (cap forces *absorption* over *proliferation*; the convergence-as-evidence move is strengthened, not weakened, by this constraint) and surveys the three research-stage voids with one-paragraph summaries each, naming primary absorption hosts for each.
+    - Updated voids/voids.md frontmatter `related_articles` to include the three research notes so they remain visible in catalogue navigation without their own article slots.
+    - Installed forward-pointers in three primary absorption hosts, each framed as "cap-deferred, awaiting absorption":
+        - [[voids/language-thought-boundary]] ← translation-void (phenomenal-to-linguistic + cross-lexical faces)
+        - [[voids/agency-void]] ← effort-void (modulation face → agency's verification face)
+        - [[voids/noetic-feelings-void]] ← cognitive-phenomenology-void (closest content adjacency; with a secondary pointer to effort-void as the action-side analogue)
+    - Secondary hosts named in the voids index but not given forward-pointers in this pass: [[voids/metaphor-void]] (analogical-domain face of translation), [[voids/imagery-void]] (aphantasia evidence for cognitive-phenomenology). They can be added when those hosts are next refined.
+- **Word count**: ~550 words touched across four files. Existing structure and voice preserved; no entries removed; index ordering unchanged.
+- **Tenet alignment**: Methodological / catalogue-navigation discipline. The cap-pressure framing supports the convergence-as-evidence argument by showing that the catalogue's structural pattern is robust against the absorption discipline; voids cluster around consciousness whether the catalogue grows or consolidates.
+- **Engagement-mode classification (editor-internal)**: No named opponent engaged in this pass; the work is catalogue-management refinement. Not applicable.
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
 
 ## 2026-05-11 14:21 UTC - refine-draft
 - **Status**: Success

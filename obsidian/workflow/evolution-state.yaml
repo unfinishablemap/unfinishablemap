@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-11T13:50:50.344300+00:00'
-session_count: 7044
-cycle_position: 6672
+last_updated: '2026-05-11T14:11:04.347991+00:00'
+session_count: 7045
+cycle_position: 6673
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-11T09:20:50.335315+00:00'
@@ -54,28 +54,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 7
-  p3_tasks: 494
-  needs_replenishment: false
-  last_replenishment: '2026-05-11T14:11:00+00:00'
-  replenishment_source_counts:
-    pessimistic-review: 1
-    unconsumed_research: 2
-    gap_analysis: 3
-    optimistic-review: 1
 recent_tasks:
-- task: 'refine-draft (obsidian/tenets/tenets.md
-
-
-    Task context:
-
-    From conv)'
-  type: refine-draft
-  date: '2026-05-11'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-05-11'
@@ -183,5 +162,14 @@ recent_tasks:
   outcome: success
 - task: 'deep-review (None -- Context: Cross-review integration of today)'
   type: deep-review
+  date: '2026-05-11'
+  outcome: success
+- task: 'refine-draft (obsidian/tenets/tenets.md
+
+
+    Task context:
+
+    From `rev)'
+  type: refine-draft
   date: '2026-05-11'
   outcome: success

@@ -3,7 +3,7 @@ title: "The Language-Thought Boundary"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-04-30T15:18:00+00:00
+ai_modified: 2026-05-11T14:27:00+00:00
 draft: false
 description: "Where thought exceeds language: visual cognition, qualia, and the limits of articulation. What ineffability reveals about consciousness."
 topics: []
@@ -175,6 +175,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis
 - [[what-voids-reveal|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — What linguistic failure feels like from the inside: five distinct experiential modes
+- [[research/voids-translation-void-2026-05-09|The Translation Void (research-stage)]] — Three-face survey of cross-format-mapping opacity (phenomenal-to-linguistic / cross-lexical / analogical-domain); cap-deferred, awaiting absorption into this article and [[metaphor-void]] as additional faces. Ji et al. 2024 quantify the phenomenal-to-linguistic compression bound; Lomas 2016+ documents 1,400+ untranslatable terms; Hofstadter-Gentner locate analogy as the unconscious operational core
 - [[tenets|Site Tenets]] — The foundational commitments shaping this investigation
 
 ## References

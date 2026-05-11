@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-11T00:05:00+00:00
+ai_modified: 2026-05-11T14:27:00+00:00
 last_deep_review: 2026-05-11T00:05:00+00:00
 draft: false
 topics:
@@ -176,6 +176,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 - [[ownership-void]] — Mineness of the unbidden content
 - [[noetic-feelings-void]] — The felt texture of intrusion as itself a noetic feeling
 - [[inference-void]] — Why every act of self-checking is itself an inference whose grounding is opaque
+- [[research/voids-effort-void-2026-05-08|The Effort Void (research-stage)]] — Three-face survey (calibration / depletion / modulation) of mental effort's opacity to itself; the action-side analogue of [[noetic-feelings-void]]. Naccache 2005 dissociates felt effort from executive control; Hagger 2016 multilab replication (N=2,141, d=0.04) collapses the unitary-resource depletion model; Westbrook-Braver locate modulation in dopaminergic cost-benefit shifts the introspector cannot see. Cap-deferred, awaiting absorption into this article's verification face
 - [[tenet-generated-voids|Tenet-Generated Voids]] — How each tenet generates its characteristic void
 - [[topics/free-will|Free Will]] — The broader context for questions of agency
 - [[agent-causation|Agent Causation]] — The philosophical concept of the self as cause
