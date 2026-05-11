@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-11T17:26:04.353744+00:00'
-session_count: 7058
-cycle_position: 6686
+last_updated: '2026-05-11T17:41:04.354213+00:00'
+session_count: 7059
+cycle_position: 6687
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-11T15:26:04.350194+00:00'
   optimistic-review: '2026-05-11T16:56:04.352832+00:00'
   check-tenets: '2026-05-10T17:11:45.080426+00:00'
   check-links: '2026-05-11T13:50:50.344300+00:00'
-  deep-review: '2026-05-11T16:11:04.351980+00:00'
+  deep-review: '2026-05-11T17:41:04.354213+00:00'
   tune-system: '2026-05-10T17:11:45.080426+00:00'
   research-voids: '2026-05-11T13:50:50.344300+00:00'
   coalesce: '2026-05-11T12:05:50.341368+00:00'
@@ -55,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/voids/inaccessible-past.md)
-  type: condense
-  date: '2026-05-11'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-11'
@@ -151,5 +147,9 @@ recent_tasks:
   outcome: success
 - task: expand-topic (Write voids article on the wholeheartedness void)
   type: expand-topic
+  date: '2026-05-11'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-05-11'
   outcome: success

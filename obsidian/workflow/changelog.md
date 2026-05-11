@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T17:41:00+00:00
+ai_modified: 2026-05-11T17:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 17:56 UTC - condense
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Before**: 3011 words (hard_warning, 151% of target)
+- **After**: 2586 words (soft_warning, within acceptable range)
+- **Reduction**: 14%
+- **Technique**: Tightened recurrence section (cut redundant framing on the three faces while preserving the structural typology); compressed Five Layers of Verification Void by removing parenthetical restatements; trimmed prose throughout (Two Limits, What Cannot Be Controlled, Spectrum of Control, Sovereignty Paradox, Phenomenology, Relation to Site Perspective); shortened Further Reading entries. Preserved opening summary, all section anchors, the Relation to Site Perspective section, all citations, and the void's distinctive conjunctive structure.
 
 ## 2026-05-11 17:41 UTC - deep-review
 - **Status**: Success

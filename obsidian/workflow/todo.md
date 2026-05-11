@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/agency-void.md
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/ section (3011 words, 100.4% of threshold — marginal but qualifies). The status is `hard_warning` rather than `critical`, so the right move is selective compression rather than radical restructuring: identify the densest 100–200 words of redundancy (most likely between the philosophical-tradition catalogue and the void-character framing, where similar territory is covered at two grains) and remove them. Preserve all load-bearing arguments. See `/condense` skill for the canonical procedure. Tenet alignment: methodological (length discipline). After this pass the article should land in the 2700–2900 word range, comfortably within the section's hard threshold but not so short as to be a stub.
-- **Source**: length_analysis
-- **Generated**: 2026-05-11
-
 ### P2: Cross-review apex articles for adoption of today's three new concept anchors (type-token-causation, integration-as-activity, interface-threshold)
 - **Type**: cross-review
 - **Status**: pending
@@ -3558,6 +3551,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Condense voids/agency-void.md
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ section (3011 words, 100.4% of threshold — marginal but qualifies). The status is `hard_warning` rather than `critical`, so the right move is selective compression rather than radical restructuring: identify the densest 100–200 words of redundancy (most likely between the philosophical-tradition catalogue and the void-character framing, where similar territory is covered at two grains) and remove them. Preserve all load-bearing arguments. See `/condense` skill for the canonical procedure. Tenet alignment: methodological (length discipline). After this pass the article should land in the 2700–2900 word range, comfortably within the section's hard threshold but not so short as to be a stub.
+- **Output**: obsidian/voids/agency-void.md
 
 ### ✓ 2026-05-11: Write voids article on the wholeheartedness void
 - **Type**: expand-topic
