@@ -3,8 +3,9 @@ title: Tenets
 created: 2026-01-02
 modified: 2026-01-02
 human_modified: 2026-01-02T14:18:31+00:00
-ai_modified: 2026-03-25T01:24:00+00:00
+ai_modified: 2026-05-11T08:30:00+00:00
 draft: false
+description: "Five commitments that bound every article on The Unfinishable Map—chosen starting points, not proofs, exploring consciousness and the limits of knowability."
 topics: []
 concepts:
   - "[[quantum-consciousness]]"
@@ -17,9 +18,11 @@ related_articles:
   - "[[cognitive-science-dualism-2026-01-15]]"
   - "[[quantum-decoherence-objection-responses-2026-01-15]]"
   - "[[prebiotic-collapse]]"
-ai_contribution: 0
+  - "[[many-worlds-argument]]"
+  - "[[parsimony-epistemology]]"
+ai_contribution: 15
 author: Andy Southgate
-ai_system:
+ai_system: claude-opus-4-7
 ai_generated_date:
 last_curated:
 ---
@@ -79,7 +82,9 @@ The many-worlds interpretation of quantum mechanics is rejected. ^no-many-worlds
 
 **Definition:** Many-worlds holds that every quantum measurement causes the universe to split into branches for each possible outcome. All branches are equally real.
 
-**Rationale:** Many-worlds leads to vast ontological proliferation—countless copies of every observer existing in parallel. More problematically, it raises unanswerable indexical questions: why am I *this* instance and not another? The framework provides no resources to answer this, yet the question seems meaningful. See [[many-worlds-argument|Against Many-Worlds]] for the full cumulative case.
+**Rationale (primary—the indexical objection):** Many-worlds raises a question its own framework cannot answer: why am I *this* branch rather than any of the others? Every branch is equally real; every counterpart is matched by another; nothing in the formalism identifies *me*. The framework provides no resources to resolve this, yet the question seems meaningful—meaningful in the same way questions of personal identity are meaningful elsewhere. This is not a parsimony complaint. It concerns what the framework *fails to explain*, not what it *postulates*. Indexical identity is among the things any account of consciousness must address; many-worlds dissolves rather than resolves it. This is the load-bearing argument.
+
+**Rationale (subsidiary—ontological multiplicity, qualified):** Many-worlds also entails vast ontological proliferation—countless copies of every observer existing in parallel. Earlier formulations of this section leaned on that cost as if it were decisive. It is not. By [[tenets#^occams-limits|Tenet 5 (Occam's Razor Has Limits)]] parsimony is an unreliable guide to truth in this domain, and the Map cannot consistently invoke simplicity to disarm parsimony arguments *against* dualism while invoking parsimony *against* many-worlds. The ontological-extravagance objection is therefore subsidiary and weaker than this section formerly presented it—a registered cost rather than a refutation. See [[many-worlds-argument|Against Many-Worlds]] for the full cumulative case, in which the indexical thread carries the structural weight.
 
 **The [[prebiotic-collapse|prebiotic collapse problem]]:** If collapse is real and consciousness participates in it, what determined outcomes before conscious observers existed? Stars formed, chemistry proceeded, mutations accumulated—billions of years before the first mind. This apparent problem motivates some toward many-worlds (where no selection is needed) or panpsychism (where proto-consciousness always existed). The Map's resolution: *objective reduction with consciousness modulation*. Physical mechanisms (gravitational collapse, spontaneous localization, or unknown processes) provide baseline collapse throughout the universe. Consciousness interfaces with collapse specifically in neural systems, modulating outcomes where the brain provides the right interface. This preserves prebiotic cosmology while maintaining that collapse is real and that consciousness participates in it locally. See [[quantum-consciousness#The Prebiotic Collapse Problem]] for detailed treatment.
 
@@ -101,5 +106,19 @@ Simplicity is not a reliable guide to truth when knowledge is incomplete. ^occam
 
 **The "folk error" accusation:** Critics sometimes dismiss dualism as "folk intuition" to be outgrown—a cognitive bias rather than a philosophical conclusion. But cognitive science complicates this picture. Paul Bloom argued humans are "natural-born dualists," processing minds and bodies through separate cognitive systems. Yet Barrett et al.'s cross-cultural study (2021) found that most people across diverse cultures default to "intuitive materialism"—expecting mental states to cease with bodily death. Barlev and Shtulman (2021) suggest dualism is *learned* rather than innate. The evidence is mixed: neither intuitive dualism nor intuitive materialism is clearly the human default. More fundamentally, cognitive naturalness doesn't determine metaphysical truth. Folk physics fails at quantum scales yet captures everyday reality. The question of whether consciousness is reducible to physics must be settled by philosophical argument, not cognitive anthropology.
 
-**Rules out:** Using parsimony as a decisive argument against dualism, and treating Occam's Razor as anything more than a defeasible heuristic.
+**Application to the Map's own arguments:** This tenet binds the Map's use of parsimony, not only its critics'. The rejection of many-worlds (see [[tenets#^no-many-worlds|No Many Worlds]]) must therefore rest on the *indexical* objection—which concerns what the framework fails to explain rather than what it postulates—and not on the *ontological-multiplicity* objection, which is a parsimony complaint and accordingly discounted here. Earlier formulations leaned on ontological extravagance more heavily than this tenet permits; that asymmetry has been corrected in the No Many Worlds section above. The discipline is symmetric: parsimony cannot decide either for or against a framework when the relevant knowledge is incomplete.
 
+**Rules out:** Using parsimony as a decisive argument against dualism, treating Occam's Razor as anything more than a defeasible heuristic, and—internally—any Map argument that leans on parsimony as if this tenet did not apply to it.
+
+<!-- AI REFINEMENT LOG - 2026-05-11
+Changes made:
+- No Many Worlds section: split the rationale into a primary (indexical) objection and a subsidiary (ontological-multiplicity) objection. Committed to the indexical thread as load-bearing; explicitly qualified ontological extravagance by Tenet 5; cross-linked to Occam's Razor Has Limits.
+- Occam's Razor Has Limits section: added "Application to the Map's own arguments" paragraph making the tenet's symmetric binding force explicit, cross-linked back to No Many Worlds, and amended "Rules out" to include the internal application.
+- Frontmatter: added description, updated ai_modified, set ai_system, raised ai_contribution from 0 to 15, added many-worlds-argument and parsimony-epistemology to related_articles.
+
+Based on outer review by Claude Opus 4.7 (2026-05-11), which flagged this as "the cleanest internal tension I found." Direct-refutation discipline: Mode One (in-framework defect)—the tension is internal to the Map's own commitments, so the fix is structural disambiguation rather than boundary-marking.
+
+Sequencing: next, `arguments/many-worlds-argument.md` will be refined under the merged 2026-05-10 P1 (MMI + Saunders-Wallace + Tappenden + Vaidman + Sebens-Carroll) to reflect the same indexical-vs-parsimony distinction at the arguments-page level. This tenets-page change establishes the canonical framing the arguments page will track.
+
+This log should be removed after human review.
+-->

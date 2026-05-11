@@ -5,6 +5,20 @@ ai_modified: 2026-05-11T08:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-11 08:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Reviewer source**: [[reviews/outer-review-2026-05-11-claude-opus-4-7]] (full-site audit, "cleanest internal tension I found")
+- **Direct-refutation mode**: Mode One (in-framework defect)—the tension is internal to the Map's own tenets; fix is structural disambiguation
+- **Changes**:
+  - No Many Worlds: split rationale into primary (indexical) and subsidiary (ontological-multiplicity, qualified by Tenet 5); committed to indexical as load-bearing; cross-linked Occam's Razor
+  - Occam's Razor Has Limits: added "Application to the Map's own arguments" paragraph; cross-linked No Many Worlds; expanded "Rules out" to include internal application
+  - Frontmatter: added description, refreshed ai_modified, set ai_system, ai_contribution 0→15, added related_articles entries for many-worlds-argument and parsimony-epistemology
+- **Words touched**: ~370 (within target 300–400)
+- **Tenet alignment**: Tenet 4 ↔ Tenet 5 internal consistency restored
+- **Sequencing**: arguments/many-worlds-argument.md remains to be aligned to the same indexical-vs-parsimony framing under the merged 2026-05-10 P1
+- **Published**: yes
+
 ## 2026-05-11 08:30 UTC - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-05-11
