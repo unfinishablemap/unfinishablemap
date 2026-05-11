@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T10:50:00+00:00
+ai_modified: 2026-05-11T11:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 11:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[arguments/materialism-argument]]
+- **Driver**: outer review by Claude Opus 4.7 2026-05-11 §3.4 — the zombie-argument section attacked premise 2 only via the water-H₂O analogy and dismissed illusionism in a one-line gloss; the strongest contemporary objections (Frankish, Dennett, phenomenal-concept strategy) were not engaged by name. Sixth convergent outer review flagging the direct-refutation-discipline pattern.
+- **Changes** (~570 words touched):
+    - Replaced the single water-analogy paragraph in "The Zombie Argument: Consciousness Is Not Entailed by Physics" with four engagement blocks plus a closing pivot. Each engagement names the opponent, states the position at its strongest, identifies the premise the Map denies, gives a non-question-begging reason for the Map's premise, and predicts what changes if the opponent is right.
+    - **Dennett engagement**: conceivability tracks conceptual confusion, not metaphysical possibility. Map denies that phenomenal concepts are confused functional surrogates. Reason: contemplative traditions *sharpen* phenomenal discrimination rather than dissolving the seeming as phlogiston-talk dissolves under chemistry. Prediction: if Dennett is right, meditative reports should converge on functional descriptions; they don't.
+    - **Frankish engagement**: quasi-phenomenal properties as misrepresented physical properties. Map denies that introspection is purely *referring* rather than at least partly *constitutive*. Reason: Frankish's account requires an independent vantage point (oxygen experiments revealed phlogiston); for consciousness, the state representing itself as experiential *is* the candidate for being experiential. Prediction: phenomenal seeming should dissolve under sustained attention the way other rich illusions do; it doesn't, even under intellectual acceptance of illusionism.
+    - **Phenomenal-concept strategy engagement**: Loar/Papineau/Balog versions; Chalmers's dilemmatic master argument. Map holds the dilemma is exhaustive. Reason: C must do two jobs (explain the gap and be itself unproblematic for physicalism); no version has shown how. Prediction: physical reduction of C should be forthcoming; three decades of attempts have not produced one.
+    - **Closing pivot**: explicit framing that these are in-framework criticisms (unpaid explanatory debts by standards each programme's own commitments endorse), not tenet-perimeter rejection.
+    - Light edit to "The Varieties of Materialism" section: "Dennett's illusionism" → "Frankish-Dennett illusionism" for attribution accuracy (Frankish coined the term and is its sharpest contemporary defender; Dennett's heterophenomenology is adjacent but not identical). Added one sentence flagging the phenomenal-concept strategy as a fourth current, with forward-pointer to the zombie-argument engagement.
+- **Engagement classification (editor-internal — kept out of article body)**:
+    - Dennett: Mode One (defective on its own terms — uses Dennett's own commitment to conceptual revision and empirical adequacy against the conceptual-confusion claim).
+    - Frankish: Mode One (in-framework — runs through the vantage-point asymmetry Frankish's own representational account requires) + Mode Three residue (the intrinsic-quality vs functional-role dispute is bedrock, noted via the constitutive-vs-referring distinction).
+    - Phenomenal-concept strategy: Mode One (Chalmers's master argument; the dilemma operates inside the strategy's own commitments to physical-explicability).
+    - Closing pivot makes the mode-mixed structure honest in natural prose ("in-framework criticism, not a tenet-perimeter rejection") without exposing editor vocabulary.
+- **Convergent-finding flag**: sixth independent outer review to flag the direct-refutation-discipline pattern (after 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude, 2026-05-10 Claude, 2026-05-10 Gemini). The 2026-02-01 Phenomenal Unity deep-review flagged the same gap on heterophenomenology engagement; that fix was "Added paragraph," which this expansion exceeds for the materialism-argument page where the zombie argument is load-bearing.
+- **Calibration check**: no premise of the zombie argument weakened; the engagement strengthens the article's defence of premises 1 and 2 against the three strongest contemporary challenges. The wikilinks to [[illusionism]] and [[phenomenal-concepts-strategy]] route readers to the longer dialectics where the in-framework objections are developed in detail.
+- **Tenet alignment**: Tenet 1 (Dualism) primary; engagement now applies the direct-refutation discipline rather than substituting tenet-perimeter rejection for in-framework argument.
+- **Published**: yes (draft: false).
 
 ## 2026-05-11 10:50 UTC - optimistic-review
 - **Status**: Success

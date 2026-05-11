@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine arguments/materialism-argument.md — engage Frankish/Dennett illusionism + phenomenal-concept strategy
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. The page presents Chalmers' zombie argument but dismisses illusionism in one line ("eliminative materialism holds our concepts of subjective experience are pre-scientific categories that mature science will replace"). The strongest contemporary objections are: (a) Frankish's illusionism — phenomenal properties as introspective representations, not properties of experiences; (b) Dennett's response that zombie conceivability tracks *conceptual* rather than *metaphysical* possibility because our phenomenal concepts are themselves confused; (c) the phenomenal-concept strategy as a coherent physicalist account of why zombies seem conceivable. Refine to engage each by name: state each position at its strongest, identify the premise the Map denies, give a non-question-begging reason for the Map's premise, predict what changes if the opponent is right. Apply [[direct-refutation-discipline]]. The 2026-02-01 Phenomenal Unity deep-review flagged the same gap ("Weak engagement with heterophenomenology"); the fix there was "Added paragraph" — this needs more than a paragraph for the materialism-argument page since the zombie argument is load-bearing. ~400–600 words touched. Tenet alignment: Tenet 1 (Dualism). Convergent with the broader direct-refutation discipline pattern flagged across six outer reviews now. See review file.
-- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-11
-
 ### P3: Add Framework-Independent Voids subsection to voids index
 - **Type**: refine-draft
 - **Status**: pending
@@ -3528,6 +3520,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Refine arguments/materialism-argument.md — engage Frankish/Dennett illusionism + phenomenal-concept strategy
+- **Type**: refine-draft
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. The page presents Chalmers' zombie argument but dismisses illusionism in one line ("eliminative materialism holds our concepts of subjective experience are pre-scientific categories that mature science will replace"). The strongest contemporary objections are: (a) Frankish's illusionism — phenomenal properties as introspective representations, not properties of experiences; (b) Dennett's response that zombie conceivability tracks *conceptual* rather than *metaphysical* possibility because our phenomenal concepts are themselves confused; (c) the phenomenal-concept strategy as a coherent physicalist account of why zombies seem conceivable. Refine to engage each by name: state each position at its strongest, identify the premise the Map denies, give a non-question-begging reason for the Map's premise, predict what changes if the opponent is right. Apply [[direct-refutation-discipline]]. The 2026-02-01 Phenomenal Unity deep-review flagged the same gap ("Weak engagement with heterophenomenology"); the fix there was "Added paragraph" — this needs more than a paragraph for the materialism-argument page since the zombie argument is load-bearing. ~400–600 words touched. Tenet alignment: Tenet 1 (Dualism). Convergent with the broader direct-refutation discipline pattern flagged across six outer reviews now. See review file.
+- **Output**: obsidian/arguments/materialism-argument.md
+
+Task context:
+From outer review by Claude Opus 4.7 2026-05-11. The page presents Chalmers' zombie argument but dismisses illusionism in one line ("eliminative materialism holds our concepts of subjective experience are pre-scientific categories that mature science will replace"). The strongest contemporary objections are: (a) Frankish's illusionism — phenomenal properties as introspective representations, not properties of experiences; (b) Dennett's response that zombie conceivability tracks *conceptual* rather than *metaphysical* possibility because our phenomenal concepts are themselves confused; (c) the phenomenal-concept strategy as a coherent physicalist account of why zombies seem conceivable. Refine to engage each by name: state each position at its strongest, identify the premise the Map denies, give a non-question-begging reason for the Map's premise, predict what changes if the opponent is right. Apply [[direct-refutation-discipline]]. The 2026-02-01 Phenomenal Unity deep-review flagged the same gap ("Weak engagement with heterophenomenology"); the fix there was "Added paragraph" — this needs more than a paragraph for the materialism-argument page since the zombie argument is load-bearing. ~400–600 words touched. Tenet alignment: Tenet 1 (Dualism). Convergent with the broader direct-refutation discipline pattern flagged across six outer reviews now. See review file.
+
+Review file: reviews/outer-review-2026-05-11-claude-opus-4-7.md
 
 ### ✓ 2026-05-11: Refine tenets page — Bidirectional Interaction as metaphysical commitment supported indirectly, not directly introspectible
 - **Type**: refine-draft
