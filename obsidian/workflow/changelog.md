@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T16:30:00+00:00
+ai_modified: 2026-05-11T16:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 16:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: selection-only mind influence under information-theoretic limits (concept page)
+- **Output**: [[concepts/selection-only-channel]]
+- **Word count**: 1889 words (76% of 2500 concepts soft-max — ok)
+- **Based on research**: yes ([[research/selection-only-mind-influence-information-limits-2026-05-05|selection-only-mind-influence-information-limits-2026-05-05]])
+- **Structural placement**: The matching topics-section article [[topics/selection-only-mind-influence]] already does the full derivation, empirical signature corridor, and distinguishing-observables treatment (created 2026-05-05, deep-reviewed 2026-05-08). The slug `selection-only-mind-influence` collides at the topics location; this concept page uses the cleaner channel-theoretic slug `selection-only-channel` to occupy the *building-block* role explicitly. The concept page (a) names selection-only as a *channel class* in Shannon's three-component sense (input alphabet / output alphabet / transition kernel), (b) derives the three defining constraints (per-event log₂(N) ceiling, Born-rule preservation pinning signed rate, content-confinement bounding the input alphabet by the output alphabet), (c) explicitly distinguishes the class from probability-bias, measurement-basis-choice, energy-injection, and candidate-generation channels — handling the Stapp-Process-1 case carefully because Stapp's selection-only commitment applies only at the outcome layer, not at the basis-choice layer above, and (d) makes the bidirectionality of the channel explicit so [[asymmetric-bandwidth-consciousness]] has a clean technical referent.
+- **Source-attribution discipline**: Stapp's quoted commitment is preserved verbatim ("the mind would only have the option to choose the observable, not the option of selecting the measurement result in deviation from the Born's probability law" — Stapp, n.d.) and the surrounding text accurately notes that this restricts Stapp's *outcome* layer while his basis-choice layer is a strictly richer channel that is not selection-only at the outcome level. No commitments are attributed to authors beyond what their sources support.
+- **Distinctions installed** (to prevent collapse with adjacent concepts):
+    - selection-only-channel ≠ selection-only-mind-influence (topic): the channel is the formal building-block; the topic is the philosophical argument plus empirical-corridor + distinguishing-observables table.
+    - selection-only-channel ≠ probability-bias channel: the latter is the intermediate reading of Tenet 2 (lives in a strictly larger class).
+    - selection-only-channel ≠ measurement-basis-choice channel: Stapp's Process 1 layer sits above the selection-only outcome layer.
+    - selection-only-channel ≠ candidate-generation channel: Orch OR and consciousness-causes-collapse models permit candidate-set contribution.
+- **Self-citations**: 1 — [[topics/selection-only-mind-influence]] is genuinely load-bearing (the concept page explicitly defers to it for derivation, empirical-corridor, and distinguishing-observables treatment).
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
 
 ## 2026-05-11 16:30 UTC - expand-topic
 - **Status**: Success
