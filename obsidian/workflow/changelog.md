@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 04:30:00+00:00
+ai_modified: 2026-05-11 04:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 04:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Type-specificity (methodological discipline)
+- **Output**: [[concepts/type-specificity]]
+- **Word count**: 2071 (83% of 2500 soft threshold — ok)
+- **Based on research**: No (direct from optimistic-review 2026-05-10b + 2026-05-10 + convergence-argument refine lines 158–162)
+- **Structure**: Names the concept at metaphysical/phenomenal/functional grains. Vitalism disanalogy (convergence-argument) at metaphysical grain; five-variety unity (the-binding-problem) at phenomenal-unity grain; capacity-by-capacity correspondence (baseline-cognition) at functional grain. Includes explicit non-circularity discipline: type-specificity earns its anti-generic-mechanism force from the structural correspondence between explanandum-shape and explanans-shape, not from the irreducibility verdict it helps support.
+- **Tenet alignment**: Tenet 1 (Dualism, supported non-circularly), Tenet 5 (Occam's Razor Has Limits, reframed via explanatory-power inequality)
+- **Cross-links installed**: convergence-argument-for-dualism, the-binding-problem, baseline-cognition, reductionism-and-consciousness, concession-convergence, hard-problem-of-consciousness, qualia, explanatory-gap, epistemology-of-convergence-arguments
+- **Follow-up enabled**: P3 task at todo.md ("Cross-link type-specificity concept page (when created) to the-binding-problem and baseline-cognition as exhibits at three grains") is now unblocked.
 
 ## 2026-05-11 04:30 UTC - outer-review
 - **Status**: Success
