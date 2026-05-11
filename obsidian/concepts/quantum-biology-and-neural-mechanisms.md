@@ -4,7 +4,7 @@ description: "Established quantum effects in living systems—photosynthesis, ma
 created: 2026-01-16
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-03-31T06:38:00+00:00
+ai_modified: 2026-05-11T01:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated: null
-last_deep_review: 2026-03-26T16:36:00+00:00
+last_deep_review: 2026-05-11T01:02:00+00:00
 coalesced_from:
   - "/concepts/quantum-biology/"
   - "/concepts/quantum-neural-mechanisms-and-coherence/"
@@ -228,16 +228,3 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 048001.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Added QED cavity structure as fifth coherence protection mechanism (Mavromatos et al. 2025)
-- Updated section heading from "Four" to "Five Coherence Protection Mechanisms"
-- Added NV-diamond quantum sensor technology to Experimental Convergence section
-- Added Mavromatos et al. to References
-
-Based on research in research/quantum-biology-neural-experimental-2026-03-20.md.
-Key improvements: coherence protection coverage now includes QED cavity proposal; NV-diamond measurement technology noted as potential empirical resolution tool.
-
-This log should be removed after human review.
--->
