@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-30 15:18:00+00:00
+ai_modified: 2026-05-11 14:27:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -177,6 +177,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — What linguistic failure feels like from the inside: five distinct experiential modes
+- [The Translation Void (research-stage)](/research/voids-translation-void-2026-05-09/) — Three-face survey of cross-format-mapping opacity (phenomenal-to-linguistic / cross-lexical / analogical-domain); cap-deferred, awaiting absorption into this article and [metaphor-void](/voids/metaphor-void/) as additional faces. Ji et al. 2024 quantify the phenomenal-to-linguistic compression bound; Lomas 2016+ documents 1,400+ untranslatable terms; Hofstadter-Gentner locate analogy as the unconscious operational core
 - [Site Tenets](/tenets/) — The foundational commitments shaping this investigation
 
 ## References

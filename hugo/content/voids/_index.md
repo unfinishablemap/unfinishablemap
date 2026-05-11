@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-10 20:02:00+00:00
+ai_modified: 2026-05-11 14:27:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-05-10
+date: &id001 2026-05-11
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -30,6 +30,9 @@ related_articles:
 - '[[suspension-void]]'
 - '[[conjunction-coalesce]]'
 - '[[vagueness-void]]'
+- '[[research/voids-translation-void-2026-05-09]]'
+- '[[research/voids-effort-void-2026-05-08]]'
+- '[[research/voids-cognitive-phenomenology-void-2026-05-01]]'
 title: Voids in the Map
 topics: []
 ---
@@ -71,7 +74,7 @@ A maintenance note on this index. Five of the entries below—[the agency void](
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the most logically prior void
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
-- [What Cognitive Voids Reveal](/voids/what-voids-reveal/) — How limits illuminate cognitive architecture, and how the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
+- [What Cognitive Voids Reveal](/voids/what-voids-reveal/) — How limits illuminate cognitive architecture, and how the convergence of the catalogue and the capacity to conceive of voids are offered as abductive support for the Map's tenet-package, subject to the [common-cause-null discount](/project/common-cause-null/) that reads the convergence largely as framework-internal coherence rather than framework-independent evidence
 - [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — The method of knowing through negation, and why any such catalog is constitutively incomplete
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind, why we cannot predict which will prove permanent, and [why consciousness cannot estimate the total scope of what it does not know](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) from within the limited system doing the estimating
 - [The Question Formation Void](/voids/question-formation-void/) — The method-horizon void: a constraint on which questions a mind can formulate, distinct from constraints on which answers it can reach; mapping by negation can only negate what is already askable (created 2026-04-24)
@@ -187,6 +190,16 @@ A maintenance note on this index. Five of the entries below—[the agency void](
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [The Asymmetry Between Remembering and Anticipating](/voids/temporal-void/) — Why past and future access differs
 
+## Research-Stage Voids
+
+The voids catalogue is at its 100-article cap. The convergence-as-evidence move that the catalogue clusters around consciousness now meets a methodological constraint that strengthens rather than weakens it: cap-pressure forces *absorption* over *proliferation*. Newly surveyed voids fold into existing articles as additional faces, not fresh entries. The catalogue's evidential weight ought to track the underlying structural pattern, not the growth rate of an index.
+
+Three voids surveyed in 2026-05 have research notes but no standalone articles. They remain visible here via `related_articles` and via forward-pointers installed at each absorption host; a later refine pass on each host can incorporate the surveyed material when scope permits.
+
+- **[The Translation Void](/research/voids-translation-void-2026-05-09/)** — Three-face structural opacity around the *operation* of converting content between representational formats. Phenomenal-to-linguistic (Ji et al. 2024 give an information-theoretic compression bound: trajectories specifying billions of neurons collapse into a handful of working-memory slots). Cross-lexical (Lomas's corpus of 1,400+ documented untranslatable terms reveals language-specific carvings that feel transparent from the source-language stance). Analogical-domain (Hofstadter-Gentner: analogy as the unconscious core of cognition, with felt-rightness as output and selection criteria as opaque). The seam is generic cross-format mapping; the void sits in the same family as [the inference void](/voids/inference-void/) and [the transit void](/voids/transit-void/) — operation-voids where consciousness has the endpoints but not the passage. Folds into [the language-thought boundary](/voids/language-thought-boundary/) (phenomenal-to-linguistic and cross-lexical faces) and [the metaphor void](/voids/metaphor-void/) (analogical-domain face).
+- **[The Effort Void](/research/voids-effort-void-2026-05-08/)** — Three faces of mental effort's opacity to itself. Calibration (Naccache 2005: a left mesio-frontal-lesion patient performed Stroop with normal executive control and *no felt effort whatsoever* — the felt sense is a separable construction). Depletion (the Hagger et al. 2016 multilab preregistered replication, N=2,141, found d=0.04, collapsing the unitary-resource model while leaving the felt-drained signal intact). Modulation (Kurzban's opportunity-cost model and the Westbrook-Braver dopamine work converge: "trying harder" is the felt output of sub-personal cost-benefit shifts the introspector cannot inspect). The void is the action-side analogue of [the noetic feelings void](/voids/noetic-feelings-void/) — where noetic feelings gate cognition's acceptance, effort feelings gate its deployment, and both gating systems are sub-personal. Folds into [the agency void](/voids/agency-void/)'s verification face.
+- **[The Cognitive Phenomenology Void](/research/voids-cognitive-phenomenology-void-2026-05-01/)** — Whether thinking-as-such has a proprietary phenomenal kind distinct from sensory imagery, inner speech, and affect. Three faces conjoin into structural irresolvability. Introspective (liberals — Pitt, Strawson, Chudnoff — and conservatives — Carruthers, Tye — report different verdicts on the same kind of episode). Dialectical (Fürst's diagnosis that phenomenal contrast is "dialectically ineffective" because introspective judgments are *regimented by the view initially held*). Empirical-architectural (Lennon's aphantasia data reads as liberalism's empirical leverage but is reinterpretable from either commitment). The Würzburg-Titchener controversy of c.1900–1915 is the historical face — a fifteen-year laboratory dispute conducted by competent investigators using identical methods that did not converge and was eventually abandoned rather than settled. Distinct from most other voids in concerning the *ontology* of the phenomenal rather than its accessibility. Folds into [the noetic feelings void](/voids/noetic-feelings-void/) (where cognitive phenomenology and metacognitive feelings adjoin) and [the imagery void](/voids/imagery-void/) (where aphantasia evidence sits).
+
 ---
 
 ## Relation to Site Perspective
@@ -201,20 +214,19 @@ The voids framework flows directly from the Map's [tenets](/tenets/):
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [apophatic cartography](/voids/apophatic-cartography/)—using the structure of failure as data about what lies beyond.
 
-<!-- AI REFINEMENT LOG - 2026-04-28 (refine-draft, 18:52 UTC)
+<!-- AI REFINEMENT LOG - 2026-05-11 (refine-draft, 14:27 UTC)
 Changes made:
-- Added [suspension-void](/voids/suspension-void/) entry to "Foundational Articles" cluster directly after inference-void, since the two are documented sister regresses. Tagline names the three faces (verification, capacity, action) and flags it as the first native conjunction-coalesce cognate, per task notes (a) and (b).
-- Reciprocated the cross-link: extended inference-void's tagline to mark it as sister regress to [suspension-void](/voids/suspension-void/), per task note (c).
-- Updated the conjunction-coalesce maintenance note paragraph to enumerate four governed entries (was three), to add the verification/capacity/action seam, to reclassify suspension-void alongside erasure-void as a *cognate*, and to record that suspension-void is the first cognate produced natively at creation (rather than retrofitted), per task note (b) and the optimistic-2026-04-28c designation.
-- Stale-reference cleanup, per task note (d):
-  - Replaced [imagination-and-creativity-void](/voids/creative-aesthetic-void/) + [aesthetic-void](/voids/creative-aesthetic-void/) (both archived; URLs inherited via alias_urls in creative-aesthetic-void.md) with a single [creative-aesthetic-void](/voids/creative-aesthetic-void/) entry naming the three failures and the coalesce provenance.
-  - Replaced [spontaneous-thought-void](/voids/thought-stream-void/) (archived; URL inherited via alias_urls in thought-stream-void.md) with [thought-stream-void](/voids/thought-stream-void/) naming both faces.
-  - Removed the Phenomenology-of-Limits entry for [thoughts-that-slip-away](/voids/thought-stream-void/) (archived; same coalesce target as above) since the new thought-stream-void entry in Specific Voids already covers cognitive slippage.
-- Added suspension-void to related_articles in frontmatter; bumped modified to 2026-04-28; updated ai_modified to 2026-04-28T18:52:00+00:00.
+- Added a new "Research-Stage Voids" H2 section between "Methods and Probes" subsection and the "---" divider. The section names the cap-pressure framing (voids/ at 99/100 = at cap; absorption over proliferation strengthens rather than weakens the convergence-as-evidence move) and surveys three voids with research notes but no standalone articles:
+  - [voids-translation-void-2026-05-09](/research/voids-translation-void-2026-05-09/) — three faces (phenomenal-to-linguistic / cross-lexical / analogical-domain) of cross-format-mapping opacity; folds into [language-thought-boundary](/voids/language-thought-boundary/) and [metaphor-void](/voids/metaphor-void/)
+  - [voids-effort-void-2026-05-08](/research/voids-effort-void-2026-05-08/) — three faces (calibration / depletion / modulation) of mental effort's opacity to itself; action-side analogue of [noetic-feelings-void](/voids/noetic-feelings-void/); folds into [agency-void](/voids/agency-void/)'s verification face
+  - [voids-cognitive-phenomenology-void-2026-05-01](/research/voids-cognitive-phenomenology-void-2026-05-01/) — three faces (introspective / dialectical / empirical-architectural) of irresolvability over whether thinking has its own phenomenal kind; folds into [noetic-feelings-void](/voids/noetic-feelings-void/) and [imagery-void](/voids/imagery-void/)
+- Added the three research notes to frontmatter `related_articles` so they remain visible in the catalogue's navigation without their own article slots.
+- Installed forward-pointers from the three primary absorption hosts (language-thought-boundary, agency-void, noetic-feelings-void) to the corresponding research notes, framing each as a face-of-the-void treatment to be absorbed in a later refine. Secondary hosts (metaphor-void, imagery-void) are named in the voids/voids.md absorption text but did not receive forward-pointers in this pass — they can be added when those hosts are next refined.
+- Updated ai_modified to 2026-05-11T14:27:00+00:00.
 
-~180 words touched. Existing structure and voice preserved; no entries beyond the four stale ones removed.
+~550 words touched across voids/voids.md and three host articles. Existing structure and voice preserved; no entries removed; index ordering unchanged.
 
 This log should be removed after human review.
 
-Prior log (2026-04-28 09:59 UTC refine-draft: imagery-void entry added; sub-cluster placement noted) superseded by this entry.
+Prior log (2026-04-28 18:52 UTC refine-draft: suspension-void entry; stale-reference cleanup of archived cognates) superseded by this entry.
 -->

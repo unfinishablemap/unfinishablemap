@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-05-11 00:05:00+00:00
+ai_modified: 2026-05-11 14:27:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -179,6 +179,7 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/): the Map's com
 - [ownership-void](/voids/ownership-void/) — Mineness of the unbidden content
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — The felt texture of intrusion as itself a noetic feeling
 - [inference-void](/voids/inference-void/) — Why every act of self-checking is itself an inference whose grounding is opaque
+- [The Effort Void (research-stage)](/research/voids-effort-void-2026-05-08/) — Three-face survey (calibration / depletion / modulation) of mental effort's opacity to itself; the action-side analogue of [noetic-feelings-void](/voids/noetic-feelings-void/). Naccache 2005 dissociates felt effort from executive control; Hagger 2016 multilab replication (N=2,141, d=0.04) collapses the unitary-resource depletion model; Westbrook-Braver locate modulation in dopaminergic cost-benefit shifts the introspector cannot see. Cap-deferred, awaiting absorption into this article's verification face
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — How each tenet generates its characteristic void
 - [Free Will](/topics/free-will/) — The broader context for questions of agency
 - [Agent Causation](/concepts/agent-causation/) — The philosophical concept of the self as cause

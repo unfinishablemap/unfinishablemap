@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-05-01 00:25:00+00:00
+ai_modified: 2026-05-11 13:55:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-30 03:11:00+00:00
 apex_sources:
@@ -16,11 +16,13 @@ apex_sources:
 - voids/tenet-generated-voids
 - voids/cartography-problem
 - voids/meta-epistemology-of-limits
-apex_thesis: The 60+ cognitive voids catalogued by the Map form a structured taxonomy
+apex_thesis: 'The 60+ cognitive voids catalogued by the Map form a structured taxonomy
   that reveals the architecture of consciousness itself, converging on the interface
   where consciousness meets the physical world—a convergence that offers cumulative
-  abductive support for the Map's tenet-package (not bare dualism), with the selection-effect
-  worry acknowledged explicitly.
+  abductive support for the Map''s tenet-package (not bare dualism), with the selection-effect
+  worry acknowledged explicitly and the common-cause null setting the calibration
+  ceiling: the convergence is largely framework-internal coherence with only partial
+  framework-independent evidence.'
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -29,13 +31,13 @@ concepts:
 - '[[simulation]]'
 created: 2026-03-10
 date: &id001 2026-03-10
-description: Over sixty cognitive voids cluster at the consciousness-matter interface.
-  Their structured taxonomy—by type, domain, and failure signature—offers cumulative
-  abductive support for the Map's tenet-package.
+description: Sixty+ cognitive voids cluster at the consciousness-matter interface—structured
+  taxonomy supporting the Map's tenet-package as framework-internal coherence under
+  the common-cause-null discount.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 00:25:00+00:00
+last_deep_review: 2026-05-11 13:55:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -74,6 +76,9 @@ related_articles:
 - '[[medium-status-voids-in-cognition]]'
 - '[[coalesce-condense-apex-stability]]'
 - '[[vagueness-void]]'
+- '[[common-cause-null]]'
+- '[[tenet-generated-voids]]'
+- '[[the-surplus-void]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -165,11 +170,13 @@ The specificity matters. If every void produced the same generic failure—vague
 
 The [convergence analysis](/voids/what-voids-reveal/) reveals that the most striking feature of the taxonomy is not the individual voids but their distribution. Physics has interpretive difficulties; mathematics has foundational limits. These arise independently, from different features of different domains. Consciousness-related voids behave differently. They organise into five families—the phenomenal core, the self-knowledge cluster, the intersubjectivity gap, the cognitive architecture family, and the framework reflexivity family—each sharing structural logic and distinct failure signatures. These families share boundaries (self-knowledge and intersubjectivity overlap at other minds; the phenomenal core and cognitive architecture meet at the language-thought interface) and converge directionally on a single boundary where first-person phenomenal reality meets third-person physical description.
 
-The [recognition void](/voids/recognition-void/) deepens this: absent cognitive capabilities produce no signal—when a capacity is missing, no alarm fires—so the voids we *can* identify likely undercount the actual limits, strengthening rather than weakening the evidential weight of convergence.
+The [recognition void](/voids/recognition-void/) deepens this: absent capacities produce no signal, so the voids we can identify likely undercount the actual limits.
 
 A selection-effect worry sits at the heart of this convergence claim. The Map was built around consciousness; its curation criteria privilege cognitive voids; finding the voids cluster around consciousness risks being the observation that the Map is about what the Map is about. Some clustering was inevitable given the Map's framing. What remains diagnostic is the *structured* character of the clustering—the distinct failure signatures, the family relationships, the specific sub-cluster topology—which a pure curation bias would not predict. Three partial exceptions—the [temporal void](/voids/temporal-void/), the dream consciousness void, and the silence void—sit outside the main convergence structure, suggesting the catalogue has not been forced into a single narrative. This weakens the abductive step; it does not eliminate it.
 
-As the [evidential weight argument](/voids/what-voids-reveal/) develops, this clustering supports an abductive inference with the caveat above. Multiple independent philosophical arguments converge on the conclusion that physical facts do not entail phenomenal facts; the pattern has persisted across centuries. The Map's specific tenet-package—dualism *plus* minimal quantum interaction *plus* a naturally occluded interface—generates a prediction bare dualism does not: that explanatory failure at the consciousness-matter interface should be systematic rather than incidental. The convergence is *mutually reinforcing* rather than strictly overdetermined; calling it overdetermined would require a probabilistic independence argument the Map has not made. Even on the weaker reading, closing one void in a family would not dissolve the family: the clusters share structural logic without identical content, so individual voids might yield while the taxonomy's architectural features persist.
+The [common-cause-null](/project/common-cause-null/) discipline sharpens this into a specific failure mode: if the N voids share an upstream architecture—one introspective channel, one shared theoretical framework that pre-shaped what counts as a void—the N-fold count overstates the evidential weight. The voids catalogue is the Map's largest such case, and the bulk of its convergence is currently framework-internal coherence (these voids fit the tenet-package because the tenets shaped what was catalogued as a void) rather than framework-independent triangulation. Per-cluster independence scoring is the open programme: each of the five families needs an account of which sources supply *despite-commitments* observation versus *because-prediction* observation, with patient-population, cross-species, and historically-isolated-tradition evidence as the structural defences against the null. The [surplus void](/voids/the-surplus-void/) is the worked exhibit; [tenet-generated-voids](/voids/tenet-generated-voids/) names the framework-internal generation; the catalogue's cumulative evidential weight calibrates downward to what genuinely independent sources can supply.
+
+As the [evidential weight argument](/voids/what-voids-reveal/) develops, this clustering supports an abductive inference under the caveats above. The Map's tenet-package—dualism *plus* minimal quantum interaction *plus* a naturally occluded interface—generates a prediction bare dualism does not: that explanatory failure at the consciousness-matter interface should be systematic rather than incidental. Closing one void in a family would not dissolve the family, since the clusters share structural logic without identical content.
 
 Each of the Map's five [tenets organises naturally around a characteristic void](/voids/tenet-generated-voids/): dualism around the [intrinsic nature void](/voids/intrinsic-nature-void/), minimal quantum interaction around the [amplification void](/voids/amplification-void/), bidirectional interaction around introspective opacity, rejecting many worlds around indexical mysteries (the [self-reference paradox](/voids/self-opacity/)). Whether this reflects genuine prediction or post-hoc accommodation remains open; at least two matchings are not uniquely predictive (any undetectable mechanism predicts a mechanism void; indexical puzzles exist regardless of MWI). The defensible claim is that tenets and voids fit without strain, not that independent cataloguing confirmed antecedent predictions.
 
@@ -207,7 +214,7 @@ The taxonomy connects to every one of the Map's [tenets](/tenets/), but most dee
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** receives the strongest support. The entire taxonomy constitutes evidence that cognitive architecture has structural boundaries that parsimony cannot resolve. The convergence of 60+ voids on a single interface, their distinct failure signatures, the formally proved incompleteness of any void catalog—all resist the simplifying assumption that more effort will close the gaps. If our sense of simplicity is itself an evolved heuristic tuned to fitness rather than truth—as the Fitness-Beats-Truth theorem demonstrates—then parsimony arguments in metaphysics are undermined at their foundation.
 
-**[Dualism](/tenets/#dualism)** gains cumulative support from the convergence pattern. Any single gap might be explained away. The phenomenal concept strategy might handle the knowledge argument; type-B materialism might resist conceivability arguments. But the systematic clustering of independent voids at the consciousness-matter interface—each with distinct logical structure and distinct failure signatures—makes the coincidence hypothesis progressively less plausible.
+**[Dualism](/tenets/#dualism)** gains cumulative support from the convergence pattern, with the [common-cause null](/project/common-cause-null/) setting the ceiling. Any single gap might be explained away; the phenomenal concept strategy might handle the knowledge argument; type-B materialism might resist conceivability arguments. The systematic clustering of voids at the consciousness-matter interface—each with distinct logical structure and distinct failure signatures—makes the coincidence hypothesis progressively less plausible, but the catalogue is best read as framework-internal coherence with the tenet-package rather than as N-fold independent triangulation. The independence claim earns only the weight its independence test can supply; the [surplus void](/voids/the-surplus-void/) is the worked instance of this calibration.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the [agency void](/voids/agency-void/) and introspective opacity. If consciousness causally influences the physical world, the mechanism would be systematically hidden from introspection, and any single contribution would be unverifiable from inside—the very faculty that would check is the one whose causal status is in question. The self-knowledge cluster—opacity, calibration failure, observation effects—is exactly what a hidden, unverifiable causal interface would produce.
 

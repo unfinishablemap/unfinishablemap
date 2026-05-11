@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-05-11 02:31:00+00:00
+ai_modified: 2026-05-11 14:27:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -179,6 +179,8 @@ The cluster-level conditions are taken up separately in [the apex's falsificatio
 - [The Quantitative Comprehension Void — shared signature](/voids/the-quantitative-comprehension-void/#a-shared-signature-multiple-faces) — Output-without-operation as a diagnostic signature across quantitative cognition
 - [suspension-void](/voids/suspension-void/) — Why bracketing the natural attitude cannot fully audit itself
 - [decision-void](/voids/decision-void/) — The deliberation→commitment closure whose felt click is a noetic-feelings verdict
+- [The Cognitive Phenomenology Void (research-stage)](/research/voids-cognitive-phenomenology-void-2026-05-01/) — Whether thinking-as-such has a proprietary phenomenal kind distinct from sensory imagery, inner speech, and the noetic feelings catalogued here. Three-face structural irresolvability (introspective / dialectical / empirical-architectural), anchored by the Würzburg-Titchener controversy of c.1900–1915 and Fürst's diagnosis that phenomenal contrast is "regimented by the view initially held." Distinguishes itself from this void by concerning the *ontology* of the phenomenal rather than its accessibility; the seam between cognitive phenomenology and metacognitive feelings is the open boundary the absorption pass will need to mark. Cap-deferred, awaiting absorption into this article and into [imagery-void](/voids/imagery-void/) (Lennon's aphantasia evidence)
+- [The Effort Void (research-stage)](/research/voids-effort-void-2026-05-08/) — Action-side analogue: where noetic feelings gate cognition's acceptance, effort feelings gate its deployment, and both gating systems are sub-personal. Cap-deferred, awaiting absorption primarily into [agency-void](/voids/agency-void/) with secondary points of contact here
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The phenomenally rich extension of the noetic family
 - [apophatic-cartography](/voids/apophatic-cartography/) — Mapping territory by the shape of its boundary
 - [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, cryptomnesia as edge-phenomena revealing the architecture

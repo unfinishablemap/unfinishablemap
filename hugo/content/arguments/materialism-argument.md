@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-03-05 18:49:00+00:00
+ai_modified: 2026-05-11 11:35:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -16,13 +16,13 @@ concepts:
 - '[[causal-closure]]'
 - '[[knowledge-argument]]'
 created: 2026-01-06
-date: &id001 2026-01-22
+date: &id001 2026-05-11
 description: Why materialism fails to account for consciousness — hard problem, zombie
   argument, epiphenomenalism, and quantum indeterminacy converge on dualism.
 draft: false
 human_modified: 2026-01-06
 last_curated: null
-last_deep_review: 2026-03-05 18:49:00+00:00
+last_deep_review: 2026-05-11 11:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,9 +39,9 @@ Materialism—the view that everything real is ultimately physical—has dominat
 
 ## The Varieties of Materialism
 
-Materialism takes several forms. **Eliminative materialism** (including Dennett's [illusionism](/concepts/illusionism/)) holds that our concepts of subjective experience are pre-scientific categories that mature science will replace—the hard problem is an artefact of misrepresentation. **Reductive materialism** identifies mental states with brain states: pain just is C-fiber firing. **Non-reductive physicalism** (including functionalism) grants that mental properties are not type-identical to physical properties but insists they supervene on them.
+Materialism takes several forms. **Eliminative materialism** holds that our concepts of subjective experience are pre-scientific categories that mature science will replace; Frankish-Dennett [illusionism](/concepts/illusionism/) is its sharpest contemporary form, locating the hard problem in introspective misrepresentation rather than in any non-physical feature of reality. **Reductive materialism** identifies mental states with brain states: pain just is C-fiber firing. **Non-reductive physicalism** (including functionalism) grants that mental properties are not type-identical to physical properties but insists they supervene on them. A fourth current—the **phenomenal-concept strategy**—does not deny that consciousness exists or that it seems puzzling, but holds that the seeming-puzzlement is an artefact of how *phenomenal concepts* present brain states. The zombie-argument engagement below addresses each in turn.
 
-All three share a core commitment: the physical facts fix all the facts. The arguments that follow challenge this shared foundation.
+All of these share a core commitment: the physical facts fix all the facts. The arguments that follow challenge this shared foundation.
 
 ## The Hard Problem: Materialism Doesn't Explain Experience
 
@@ -62,7 +62,15 @@ A [philosophical zombie](/concepts/philosophical-zombies/) is physically identic
 3. If zombies are metaphysically possible, consciousness is not entailed by physical facts
 4. If consciousness is not entailed by physical facts, materialism is false
 
-Materialists typically attack premise 2, invoking the water analogy: it might seem conceivable that water is not H₂O, yet this is metaphysically impossible. But the analogy fails. Our concept of water was incomplete before chemistry—there was a hidden microstructure to discover. With consciousness, we have direct epistemic access to its nature. We don't merely describe consciousness functionally—we instantiate it. There is no hidden essence to discover. When we conceive of zombies, we are positively conceiving of a coherent scenario, not merely failing to see a necessity due to ignorance.
+Materialists typically attack premise 2 via the water analogy: it might seem conceivable that water is not H₂O, yet this is metaphysically impossible. The analogy fails because our concept of water was incomplete before chemistry—there was a hidden microstructure to discover. With consciousness, we have direct epistemic access to its nature: we instantiate it. There is no hidden essence to discover. The more sophisticated contemporary objections come from Dennett, Frankish, and the phenomenal-concept strategy, each of which deserves engagement by name.
+
+**Dennett: zombie conceivability tracks conceptual confusion, not metaphysical possibility.** On Dennett's view, the zombie scenario *seems* coherent only because our phenomenal concepts are themselves confused—pre-theoretical posits like "phlogiston" or "élan vital" that mature science will replace. We are not conceiving of something genuinely possible; we are misdescribing functional states under bad concepts. The Map denies that phenomenal concepts are confused in this way. The non-question-begging reason: contemplative traditions refine phenomenal access through sustained practice (see Contemplative Perspectives, below). If phenomenal concepts were confused functional surrogates, sustained training should dissolve the seeming the way scientific instruction dissolved phlogiston-talk. Instead, training appears to *sharpen* phenomenal discrimination—what dissolves is the conceptual overlay, not the qualitative character. If Dennett is right, advanced meditative reports should converge on functional descriptions; if the Map is right, they should reveal qualitative character functional descriptions omit. The reports point the second way.
+
+**Frankish: phenomenal properties are introspective representations, not properties of experiences.** Frankish's illusionism replaces intrinsic phenomenal qualities with *quasi-phenomenal properties*—non-phenomenal physical properties of inner states that introspection systematically misrepresents as phenomenal. At its strongest, illusionism is a coherent physicalist account: zombies share the same quasi-phenomenal representations, make the same reports, and face the same illusion. The Map denies that introspection of phenomenal character is purely *referring* (representational) rather than at least partly *constitutive*—the seeming partly *is* what it represents. The non-question-begging reason: Frankish's account works for external misrepresentation because an independent vantage point exists. Combustion is indifferent to being called "phlogiston," and oxygen experiments revealed the error from outside. For consciousness, no such vantage exists—the state representing itself as experiential *is* the candidate for being experiential, and the access/interpretation distinction does not survive when the accessed state and the interpreting state are one and the same. If Frankish is right, phenomenal seeming should dissolve under sustained attention to its underlying mechanism the way other rich illusions do; it does not, even for philosophers who fully accept illusionism intellectually. See [illusionism](/concepts/illusionism/) for the full dialectic.
+
+**The phenomenal-concept strategy: the gap is in our concepts, not in reality.** The most sophisticated version—Loar's recognitional concepts, Papineau's quotational account, Balog's constitutional account—holds that phenomenal concepts pick out brain states directly, without descriptive intermediary, and that this conceptual structure (call it C) explains why zombies seem conceivable. Chalmers's master argument is dilemmatic: either C is physically explicable, in which case zombies have C and the apparent gap is reproduced inside C itself; or C is not physically explicable, in which case the strategy has helped itself to a non-physical feature to do the explaining. The Map holds this dilemma is exhaustive. The non-question-begging reason: the strategy needs C to do two jobs at once—explain the explanatory gap *and* be itself unproblematic for physicalism—and no version has shown how a single feature can do both. If the strategy is right, a satisfying physical reduction of C should be forthcoming; three decades of attempts have not produced one. See [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) for the full treatment.
+
+These three replies do not refute the zombie argument; they relocate the dispute about which premises survive sophisticated challenge. Each criticism turns on standards the opponent's own programme endorses—conceptual revision and empirical adequacy for Dennett, the vantage-point requirement Frankish's representational account assumes, the explanatory load Chalmers's dilemma assigns the phenomenal-concept strategy. When we conceive of zombies, we are positively conceiving of a coherent scenario, not merely failing to see a necessity due to ignorance.
 
 The zombie world is one where all the physical facts obtain and the phenomenal facts do not. Consciousness is something over and above the physics.
 

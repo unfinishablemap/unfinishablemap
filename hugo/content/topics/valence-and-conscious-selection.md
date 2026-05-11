@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-13 19:57:00+00:00
+ai_modified: 2026-05-11 13:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ topics:
 
 The Unfinishable Map commits to two claims that jointly force an unresolved question. First, consciousness causally selects among physically underdetermined outcomes ([Bidirectional Interaction](/tenets/#bidirectional-interaction)). Second, value resides in phenomenal experience—the felt badness of suffering is intrinsic, not projected ([consciousness-value-connection](/concepts/consciousness-value-connection/)). The question these commitments force: **does the selection mechanism operate guided by valence, or is it value-blind?**
 
-If selection is *value-blind*, consciousness steers neural outcomes through attention and intention alone, treating these as neutral pointers. Valence is real but causally idle in the selection process itself—value becomes epiphenomenal to the very mechanism the Map claims consciousness operates through. If selection is *value-sensitive*, valence directly influences which outcomes get selected. The felt goodness or badness of anticipated states shapes which quantum possibilities become actual, making the Map's physics locally teleological: outcomes are selected *because they matter*, not merely *by* something to which things matter. This article states the fork explicitly, develops both horns, explores a middle path, and proposes how each would show up in testable predictions.
+If selection is *value-blind*, consciousness steers neural outcomes through attention and intention alone, treating these as neutral pointers. Valence is real but causally idle in the selection process itself—value becomes epiphenomenal to the very mechanism the Map claims consciousness operates through. If selection is *value-sensitive*, valence directly influences which outcomes get selected. The felt goodness or badness of anticipated states shapes which quantum possibilities become actual, making the Map's physics locally teleological: outcomes are selected *because they matter*, not merely *by* something to which things matter. The metaethical stakes are sharpened in [phenomenal value realism's case against epiphenomenal value](/topics/phenomenal-value-realism/#against-epiphenomenal-value): the metaethical position alone secures that value is real and grounded in conscious experience, but unless the *evaluative* dimension does selection work in its own right, value's non-epiphenomenality is weaker than the metaethics on its own delivers. This article states the fork explicitly, develops both horns, explores a middle path, and proposes how each would show up in testable predictions.
 
 ## Why the Fork Is Forced
 
@@ -232,3 +232,10 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 8. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 9. Berridge, K.C. (2009). Wanting and Liking: Observations from the Neuroscience and Psychology Laboratory. *Inquiry*, 52(4), 378-398.
 10. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
+
+<!-- AI REFINEMENT LOG - 2026-05-11
+Cross-link refinement (driver: optimistic-2026-05-11 § Cross-Linking Suggestions, item e — reciprocation).
+- Introduction: added a sentence reciprocating the link from phenomenal-value-realism's "Against Epiphenomenal Value" section. The metaethical stakes of the value-blind/value-sensitive fork are now anchored at both ends (PVR → here was already present; here → PVR's Against Epiphenomenal Value is now installed).
+
+This log should be removed after human review.
+-->

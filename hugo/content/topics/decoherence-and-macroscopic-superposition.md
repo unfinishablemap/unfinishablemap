@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-04-30 19:21:00+00:00
+ai_modified: 2026-05-11 12:51:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,13 +18,14 @@ description: The quantum-classical boundary keeps receding. Hot cat states, nano
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 10:42:00+00:00
+last_deep_review: 2026-05-11 12:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[decoherence]]'
 - '[[decoherence-macroscopic-superposition-2026-01-14]]'
 - '[[topics/free-will]]'
+- '[[topics/animal-consciousness]]'
 title: Decoherence and Macroscopic Superposition
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -96,9 +97,9 @@ This is evolution harnessing quantum mechanics for biological function in a warm
 
 ### Microtubule Quantum Effects
 
-Evidence for quantum effects in neural microtubules remains more contested but increasingly documented. Direct measurements of tryptophan superradiance (2024), anaesthetic effects on microtubule quantum oscillations (2025), and MRI signatures potentially indicating macroscopic entanglement (2022) all suggest quantum effects may be present in neural tissue.
+Evidence for quantum effects in neural microtubules remains contested. Direct measurements of tryptophan superradiance (Babcock et al., 2024), anaesthetic effects on microtubule quantum oscillations (Wiest et al., 2025), and MRI signatures potentially indicating macroscopic entanglement (Kerskens & Pérez, 2022) suggest quantum effects may be present in neural tissue. Reimers et al. (2009) and McKemmish et al. (2009) challenge the parameter assumptions in Hagan et al.'s (2002) corrections to Tegmark, finding that the dielectric properties required either lack empirical support or specify regimes microtubules do not occupy in living tissue.
 
-The [decoherence](/concepts/decoherence/) article examines the debate between Tegmark's rapid-decoherence calculations and Hameroff's revised estimates in detail. The empirical question remains open, but the evidence that biology *can* harness quantum effects changes the burden of proof.
+The [decoherence](/concepts/decoherence/) article examines this multi-sided dispute—Tegmark, Hagan, Reimers, and McKemmish—in detail. The empirical question is live rather than settled, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The categorical claim that biology *cannot* harness quantum effects is refuted by magnetoreception; whether the brain does so remains open.
 
 ## What This Means for Consciousness
 
@@ -140,7 +141,8 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 
 ## Further Reading
 
-- [decoherence](/concepts/decoherence/) — Comprehensive treatment of decoherence, including the Tegmark-Hameroff debate on neural coherence timescales
+- [decoherence](/concepts/decoherence/) — Comprehensive treatment of decoherence, including the live Tegmark/Hagan/Reimers/McKemmish dispute over neural coherence timescales
+- [animal-consciousness](/topics/animal-consciousness/) — Cross-species framing of the same dispute, applying the calibration discipline to minimal-organism cases
 - [Quantum Darwinism and Consciousness](/topics/quantum-darwinism-and-consciousness/) — How environmental selection specifies the menu while leaving the outcome gap open
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the fundamental issue
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem's philosophical dimensions: epistemological, ontological, and agential
@@ -158,12 +160,17 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 ## References
 
 1. Arndt, M., & Hornberger, K. (2014). Testing the limits of quantum mechanical superpositions. *Nature Physics*, 10, 271-277.
+1. Babcock, N.S. et al. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *Journal of Physical Chemistry B*, 128(17), 4035-4046.
 1. Engel, G.S. et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
 1. Fein, Y.Y. et al. (2019). Quantum superposition of molecules beyond 25 kDa. *Nature Physics*, 15, 1242-1247.
 1. Hackermuller, L. et al. (2003). Decoherence of matter waves by thermal emission of radiation. *Nature*, 427, 711-714.
+1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Kerskens, C.M., & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Schrödinger, E. (1935). Die gegenwärtige Situation in der Quantenmechanik. *Naturwissenschaften*, 23, 807-812.
 1. Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics.
+1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.
 1. Nanoparticle matter-wave interference. (2025). arXiv:2507.21211.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
