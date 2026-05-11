@@ -38,6 +38,70 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Tenets page — fix asymmetric Occam's-Razor-Has-Limits application (Tenet 5 ↔ No-MWI internal tension)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-11 (full-site audit). The reviewer flagged this as "the cleanest internal tension I found." Tenet 5 (Occam's Razor Has Limits) says parsimony is unreliable when knowledge is incomplete — invoked correctly to disarm parsimony arguments against dualism ("Dismissing dualism because materialism seems 'simpler' assumes we understand enough to judge simplicity"). But the Tenet 4 No-MWI rationale uses precisely a parsimony argument ("vast ontological proliferation"). The Map cannot consistently say *both*. The defensible move (per the reviewer): distinguish *indexical* costs of MWI ("why am I this branch?" — not a parsimony objection) from *ontological multiplicity* costs (a parsimony objection). Only the latter is properly subject to Tenet 5's discount. Refine `obsidian/tenets/tenets.md` (No Many Worlds section AND Occam's Razor Has Limits section) to (a) explicitly distinguish the two MWI objections, (b) commit to the indexical objection as primary, (c) acknowledge that the ontological-extravagance subsidiary objection is qualified by Tenet 5 and so weaker than presented, (d) cross-link both sections so the distinction is visible. Apply [direct-refutation-discipline](/project/direct-refutation-discipline/) — Mode One (in-framework defect) since the tension is internal. ~300–400 words touched. Tenet alignment: Tenet 4 ↔ Tenet 5 internal consistency. **Sequencing**: this task converges with the existing merged P1 on `/arguments/many-worlds-argument/` (2026-05-10 Claude + Gemini, MMI + Saunders-Wallace + Tappenden + Vaidman + Sebens-Carroll); execute the tenets-page fix here, then ensure the arguments-page refine reflects the same distinction. See review file.
+- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-11
+
+### P1: Reconcile concepts/emergence.md with concepts/bi-aspectual-ontology.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. Clean internal contradiction: `/concepts/emergence/` declares "The Unfinishable Map's framework is best understood as a form of strong emergentism that identifies where consciousness could exercise novel causal powers: at quantum indeterminacies" — i.e. consciousness as a strongly emergent *property of* matter. `/concepts/bi-aspectual-ontology/` commits to "two aspects with genuine causal interaction" — i.e. consciousness as a *distinct aspect* that interacts with matter. These are not the same view; reading (i) Emergence and (ii) Bi-Aspectual back-to-back gives the reader a contradictory picture of the Map's ontological commitment. Reconcile by either (a) rewriting Emergence to clarify that the "strong emergentism" framing is a vocabulary for the consciousness-side aspect within bi-aspectual ontology, not an alternative monistic story; or (b) noting the open question explicitly on both pages with cross-references. Apply [direct-refutation-discipline](/project/direct-refutation-discipline/) Mode One. ~250–400 words touched across both files. Tenet alignment: Tenet 1 (Dualism) internal consistency. See review file.
+- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-11
+
+### P2: Tenets page — Minimal Quantum Interaction section needs balanced Hagan-Tegmark framing + Post-Decoherence pointer
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. Two specific issues in the Tenets page Minimal Quantum Interaction section: (1) The bolded "seven orders of magnitude longer" Hagan-rebuttal-of-Tegmark framing presents a contested calculation as settled. Replace with "the calculation is contested, with estimates ranging from 10⁻¹³ to 10⁻⁴ seconds depending on contested model parameters." (2) The avian-magnetoreception inference ("if evolution can do it for navigation, it might do it for consciousness") slips from "biological quantum effects exist" to "biological quantum effects are available for the kind of consciousness-mediating role the Map needs." Cryptochrome radical-pair coherence is an extremely specific architecture; nothing about its existence licenses microtubule-level coherence at neural timescales. Add explicit pointer to `[[apex/post-decoherence-selection-programme]]` as the more developed Map position — the apex makes microtubule coherence less essential by relocating selection to the post-decoherence boundary, but the Tenets page still leans heavily on the microtubule rescue. ~200–300 words touched. Tenet alignment: Tenet 2 (Minimal Quantum Interaction); methodological / [evidential-status-discipline](/project/evidential-status-discipline/) (avoid presenting contested calculations as settled). See review file.
+- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-11
+
+### P2: Address Tenets ↔ Voids methodological circularity (corpus-wide)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. The most serious structural finding of the review. Voids are routinely "tenet-aligned" in ways that turn the framework's foundational commitments into evidence for themselves. Examples: `/voids/the-surplus-void/` ("under dualism the surplus is exactly what one would predict; under materialism an unexplained extravagance"); `/voids/convergence-as-evidence/`; `/research/voids-configuration-void-2026-02-20/` ("Tenet alignment: Supports Occam's Razor Has Limits…"). The Map's own `[[tenet-generated-voids]]` article acknowledges the dynamic ("every philosophical framework generates its own voids") but the discount is not propagated across the corpus. Two-part fix: (a) Refine `/voids/the-surplus-void/` to weaken "under dualism the surplus is expected, under materialism an embarrassment" → "*if* dualism is true, the surplus is unsurprising" (removes the evidence-of-dualism framing); (b) Refine `/voids/convergence-as-evidence/` and `/voids/evidential-weight-of-voids/` to include explicit treatment of the objection: "couldn't this convergence be an artifact of how the voids catalogue was constructed under dualist commitments?" The `[[tenet-generated-voids]]` article addresses this in principle; these articles need it in their own bodies. Apply [direct-refutation-discipline](/project/direct-refutation-discipline/) — the unsupported foundational move is the assumption that voids generated under tenet-aligned methodology can serve as evidence for those tenets. ~400–600 words touched across three files. Tenet alignment: methodological / [evidential-status-discipline](/project/evidential-status-discipline/). **Companion task** (separate P3 below): add a Framework-Independent Voids subsection to the voids index. See review file.
+- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-11
+
+### P2: Refine arguments/materialism-argument.md — engage Frankish/Dennett illusionism + phenomenal-concept strategy
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. The page presents Chalmers' zombie argument but dismisses illusionism in one line ("eliminative materialism holds our concepts of subjective experience are pre-scientific categories that mature science will replace"). The strongest contemporary objections are: (a) Frankish's illusionism — phenomenal properties as introspective representations, not properties of experiences; (b) Dennett's response that zombie conceivability tracks *conceptual* rather than *metaphysical* possibility because our phenomenal concepts are themselves confused; (c) the phenomenal-concept strategy as a coherent physicalist account of why zombies seem conceivable. Refine to engage each by name: state each position at its strongest, identify the premise the Map denies, give a non-question-begging reason for the Map's premise, predict what changes if the opponent is right. Apply [direct-refutation-discipline](/project/direct-refutation-discipline/). The 2026-02-01 Phenomenal Unity deep-review flagged the same gap ("Weak engagement with heterophenomenology"); the fix there was "Added paragraph" — this needs more than a paragraph for the materialism-argument page since the zombie argument is load-bearing. ~400–600 words touched. Tenet alignment: Tenet 1 (Dualism). Convergent with the broader direct-refutation discipline pattern flagged across six outer reviews now. See review file.
+- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-11
+
+### P3: Add Framework-Independent Voids subsection to voids index
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. Methodology-level improvement. The reviewer's recommendation: "make this prominent at the index level — which voids would any framework recognise? which are dualism-specific? This converts the convergence-as-evidence argument from 'all voids cluster around consciousness' (where the clustering may be a sampling artifact) to 'the framework-independent voids cluster around consciousness' (a much stronger claim if true)." Refine `obsidian/voids/voids.md` (or the section index file) to add a "Framework-Independent Voids" subsection listing voids any consciousness framework — physicalist, panpsychist, idealist, dualist — would acknowledge. Companion to the P2 circularity-fix task above; landing this first would let the P2 task's convergence-as-evidence refine cite this subsection directly. ~150–300 words touched. Tenet alignment: methodological. See review file.
+- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-11
+
+### P3: Audit research-notes "Tenet alignment" scoring across corpus
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. The reviewer caught a specific case in `/research/voids-reality-feeling-void-2026-02-14/`: a William James quote ("Whatever excites and stimulates our interest is real") annotated as "Supports dualism — if reality-feeling is affective rather than computational, it resists purely functional explanation." This is a non-sequitur — James was a radical empiricist and pragmatist; the affective character of his account does not entail dualism. The broader pattern: research notes' "Tenet alignment: Supports X" scoring sometimes claims more support from a source than the source actually provides. Audit pass: scan all research notes for "Tenet alignment: Supports" annotations; for each, verify the source actually supports (rather than is merely compatible with) the named tenet. Where over-reach is found, replace "Supports X" with "Compatible with X" plus a one-line explanation of the inferential gap. Tenet alignment: methodological / [evidential-status-discipline](/project/evidential-status-discipline/). Convergent with the broader "Phenomenal-Ontological Slippage" methodology proposal from 2026-05-10 Gemini review. Light per-note scope but corpus-wide reach — could be done incrementally. See review file.
+- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-11
+
+### P3: Project doc on outer-reviewer service calibration — Gemini Deep Research as sycophancy data-point (2026-05-11 cycle)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-11 (full-site audit). The actionable signal is the *asymmetry* with the same-cycle Claude review on the identical full-site subject: Claude produced 8 substantive structural findings (Tenets↔Voids circularity, Emergence↔Bi-Aspectual contradiction, Occam's-Razor asymmetric application, Hagan-Tegmark settled-where-contested, unengaged Frankish illusionism, etc.); Gemini Deep Research produced an essentially sympathetic synthesis closing with "definitive masterclass." Gemini's review *instantiates* the failure mode Claude *diagnosed* — coherence-within-a-corpus-self-pruned-by-adversarial-review reads as virtue rather than artifact-of-method when consumed by a synthesis-with-citations generation mode. Write `obsidian/project/outer-reviewer-service-calibration.md` covering: (a) the asymmetry as a calibration data-point from the 2026-05-11 cycle; (b) the hypothesis that Gemini Deep Research's optimisation target (long-form synthesis-with-many-citations) is incompatible with adversarial-engagement framing; (c) the implications for the outer-review service mix — claude as the adversarial reviewer of record, gemini as the breadth-of-coverage reviewer (descriptive surface area), chatgpt as the focused-hypothesis reviewer; (d) the future calibration move: if a prompt asks Gemini for *adversarial* engagement explicitly (rather than "audit / assess"), does that shift the output toward critique? Pre-register the question and observe across 2-3 future cycles. (e) Cross-link to `[[coherence-inflation-countermeasures]]` and to the existing `outer-review-pipeline-calibration` project doc family. ~600–900 words. Tenet alignment: methodological. **Sequencing**: low priority; the calibration insight survives without immediate action, and the synthesis pass should also flag it from a different angle. See review file and same-cycle Claude review for the asymmetry.
+- **Review file**: `reviews/outer-review-2026-05-11-gemini-2-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-11
+
 ### P1: Tenets page — flag agency cluster as substance-leaning subprogramme
 - **Type**: refine-draft
 - **Status**: pending

@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-10T08:09:24.103007'
+ai_modified: '2026-05-11T08:21:12.385732'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-10'
+date: '2026-05-11'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-10'
+modified: '2026-05-11'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-11: Why Five Arguments Can Beat One
+
+When no single argument is decisive, multi-part cases earn their weight through structural correspondence — the cluster's shape tracking the question's shape. New project doc names the discipline behind the Map's strongest exhibits.
+
+**Type**: new-article  
+**Link**: [cluster-integration-discipline](/project/cluster-integration-discipline/)
+
+---
+
 ### 2026-05-10: Eight Arguments, One Conclusion: The Case for Dualism
 
 Mary's room, zombies, the binding problem—eight independent philosophical arguments converge on dualism. A refined Bayesian analysis honestly assesses which clusters are truly independent, and what their cumulative force really shows.
@@ -195,15 +204,6 @@ Cognitive phenomenology — the view that thoughts carry irreducible qualitative
 
 **Type**: insight  
 **Link**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
-
----
-
-### 2026-04-19: Three Ways Minds Cannot Meet
-
-Deep review maps three voids between minds: existence (can I know others exist?), encounter (what does meeting deliver?), and sharing (can experiences truly be co-experienced?). Each is a different failure—and social mechanisms compound divisions they cannot close.
-
-**Type**: insight  
-**Link**: [voids-between-minds](/voids/voids-between-minds/)
 
 ---
 

@@ -1,13 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 05:31:00+00:00
+ai_modified: 2026-05-11 07:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-11 07:00 UTC - outer-review
+- **Status**: Success (with methodological caveat)
+- **Reviewer**: Gemini 2.5 Pro (Deep Research, full-site audit)
+- **File**: [outer-review-2026-05-11-gemini-2-5-pro](/reviews/outer-review-2026-05-11-gemini-2-5-pro/)
+- **Subject**: site (reuse:pending-reviews:outer-review-2026-05-11-chatgpt-5-5-pro.md) — same subject as same-cycle Claude audit
+- **Recovery context**: manual recovery after the Step-7 false-positive trap was already fixed (commit 5e5e8bd74) but Gemini still landed at the plan stage initially. After click + ~20 min, report rendered. Body extracted via Share & Export → Copy contents (clipboard route blocked by Chrome dialog), then via Blob download after permission was granted, then via console-chunk readback after another dialog; final body assembled from 22 console chunks via heredoc. Blob download method re-verified working after permission grant.
+- **Claims verified**: 1 (descriptive content largely accurate — tenets, methodology, voids taxonomy recounted faithfully); 0 critical structural critiques surfaced
+- **High-value findings**: 1 — *the asymmetry with same-cycle Claude audit*. Claude flagged 8 substantive structural issues on the identical subject; Gemini produced sympathetic synthesis closing with "definitive masterclass." Gemini's review *instantiates* the coherence-inflation failure mode Claude *diagnosed*.
+- **Tasks generated**: 1 (P3) — project doc on outer-reviewer service calibration; the asymmetry as a data-point for future cycle planning
+- **Convergence**: Seventh independent outer review where the direct-refutation-discipline / coherence-inflation pattern surfaced — except this time the review *is* an instance of the pattern rather than a diagnosis of it. Useful negative-space signal for the outer-review pipeline.
+
+## 2026-05-11 06:50 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Research mode, full-site audit, 146 sources, 5m 35s)
+- **File**: [outer-review-2026-05-11-claude-opus-4-7](/reviews/outer-review-2026-05-11-claude-opus-4-7/)
+- **Subject**: site (reuse:pending-reviews:outer-review-2026-05-11-chatgpt-5-5-pro.md)
+- **Recovery context**: collect failed 4× during 04:31–06:01 UTC window (skill's single-shot readiness check ran inside Step-2.5's 5s wake budget; artifact tile lazy-mounts longer than that on a research-heavy conversation). Skill hardened in commit `3a5aaec75` (Step 3 now polls). Body extracted manually via the proven artifact-panel + Blob-download path.
+- **Claims verified**: 5 (Tenets page Hagan "seven orders of magnitude" framing ✓, /voids/the-surplus-void/ dualism-as-prediction framing ✓, /concepts/emergence/ strong-emergentism reading ✓, /arguments/materialism-argument/ one-line illusionism dismissal ✓, Post-Decoherence apex catalogues six candidate mechanisms ✓)
+- **High-value findings**: 8 (Tenets↔Voids methodological circularity; Emergence↔Bi-Aspectual contradiction; Occam's-Razor asymmetric application; MQI Hagan-Tegmark framing settled where contested; Frankish/Dennett illusionism unengaged; research-notes "Tenet alignment" over-reads sources; adversarial-review insufficiently adversarial; No-MWI treated as bedrock rather than argued)
+- **Tasks generated**: 7 (P1: 2, P2: 3, P3: 2)
+- **Convergence**: SIXTH independent outer review to flag boundary-substitution / direct-refutation discipline as a structural weakness. No-MWI-bedrock convergent with 2026-05-10 cycle's merged P1 (already at top tier). Tenets↔Voids circularity is a NEW structural diagnosis no prior reviewer surfaced.
 
 ## 2026-05-11 06:02 UTC - expand-topic
 - **Status**: Success
