@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 02:31:00+00:00
+ai_modified: 2026-05-11 03:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 03:05 UTC - condense
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Before**: 5301 words (177% of target, hard_warning)
+- **After**: 3881 words (129% of target, soft_warning, under 4000 hard threshold)
+- **Reduction**: 27%
+- **Technique**: Tightened prose throughout while preserving every named-rival engagement (Perrin/Michaelian/Sant'Anna, Fernández, Dokic, Matthen, Russell, Michaelian, Bernecker, McCarroll, Robins, Lane, Guillot, Howell & Thompson, Dings, Rosenbaum, Tippett/Prebble/Addis, Klein, Klein & Nichols). Removed redundant restatements in deflationary readings, condensed walking-back in KC and AD/MCI paragraphs, tightened the three-positions list in Discrimination Problem, compressed Mineness section's empirical-version paragraph, trimmed Relation to Site Perspective MWI defense. Removed 4 AI refinement log HTML comments at file end (housekeeping; logs were marked for removal after human review).
 
 ## 2026-05-11 02:31 UTC - deep-review
 - **Status**: Success

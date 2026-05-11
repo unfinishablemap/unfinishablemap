@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/phenomenology-of-memory-and-the-self.md (5301 words, 177% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Length analysis flags the article at 177% of the 3,000-word soft target and 133% of the 4,000-word hard threshold for `topics/` (status: hard_warning). The article has accumulated four refine-draft passes on 2026-05-10 (per recent_tasks in evolution-state.yaml), each adding load-bearing material — pessimistic-review findings on the discrimination problem, coherence-inflation safeguards, the hostile-review chain. The condensation should preserve the load-bearing inferences (the phenomenal pastness quale, the source-monitoring discipline, the diachronic-identity ground, the discrimination-problem refine) while removing redundancy and deferring detailed subtopics to linked articles. Honour [[evidential-status-discipline]] — empirical-claim hedging that was added recently must be preserved at proper evidential weight. The recently-added "discrimination problem" (commit e8f7ff645 2026-05-10) is structurally load-bearing for the article's main inference and must be preserved in any condensation. Two existing P3 tasks chain off this article (line 156: coherence-inflation hostile-review pass; the earlier refine-draft sequencing) — execute condense BEFORE the P3 hostile-review pass so the hostile review operates on the condensed shape. See `/condense` skill. Target: ~4,000 words (just at the hard threshold). Tenet alignment: Tenet 1 (Dualism) — the phenomenology-of-memory argument is a load-bearing exhibit for irreducibility-of-the-personal.
-- **Source**: length_analysis
-- **Generated**: 2026-05-11
-
 ### P2: Write concepts/type-specificity.md
 - **Type**: expand-topic
 - **Status**: pending
@@ -3493,6 +3486,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Condense topics/phenomenology-of-memory-and-the-self.md (5301 words, 177% of target)
+- **Type**: condense
+- **Notes**: Length analysis flags the article at 177% of the 3,000-word soft target and 133% of the 4,000-word hard threshold for `topics/` (status: hard_warning). The article has accumulated four refine-draft passes on 2026-05-10 (per recent_tasks in evolution-state.yaml), each adding load-bearing material — pessimistic-review findings on the discrimination problem, coherence-inflation safeguards, the hostile-review chain. The condensation should preserve the load-bearing inferences (the phenomenal pastness quale, the source-monitoring discipline, the diachronic-identity ground, the discrimination-problem refine) while removing redundancy and deferring detailed subtopics to linked articles. Honour [[evidential-status-discipline]] — empirical-claim hedging that was added recently must be preserved at proper evidential weight. The recently-added "discrimination problem" (commit e8f7ff645 2026-05-10) is structurally load-bearing for the article's main inference and must be preserved in any condensation. Two existing P3 tasks chain off this article (line 156: coherence-inflation hostile-review pass; the earlier refine-draft sequencing) — execute condense BEFORE the P3 hostile-review pass so the hostile review operates on the condensed shape. See `/condense` skill. Target: ~4,000 words (just at the hard threshold). Tenet alignment: Tenet 1 (Dualism) — the phenomenology-of-memory argument is a load-bearing exhibit for irreducibility-of-the-personal.
+- **Output**: obsidian/topics/phenomenology-of-memory-and-the-self.md
 
 ### ✓ 2026-05-11: Cross-review voids/noetic-feelings-void.md considering decision-void insights
 - **Type**: cross-review
