@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex articles for adoption of today's three new concept anchors (type-token-causation, integration-as-activity, interface-threshold)
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's three expand-topic completions: `concepts/type-token-causation.md`, `concepts/integration-as-activity.md`, `concepts/interface-threshold.md` (all created and refined 2026-05-11). The existing P3 task at line 40 ("Cross-link density refine across today's quartet") covers cross-linking *between* the three concept pages and the four deep-reviewed *topic* articles (PVR, IIT, cognitive-distinctiveness, quantum-biology). This task covers a different audience: the *apex tier* and adjacent concept pages that deploy these notions without naming them. Specifically: (a) `apex/post-decoherence-selection-programme.md` — was deep-reviewed today; verify it cites `[[concepts/type-token-causation]]` where it argues the consciousness-selection mechanism is type-grained rather than token-grained (this is a load-bearing structural commitment of the programme); (b) `apex/machine-question.md` — refined today; verify it cites `[[concepts/interface-threshold]]` where it discusses the cognitive-distinctiveness threshold that AI systems would have to cross; (c) `concepts/baseline-cognition.md` — verify it cites `[[concepts/integration-as-activity]]` where it argues consciousness-dependent capacities are integration-active rather than integration-static; (d) `concepts/conscious-selection-and-objective-reduction.md` — verify it cites all three new anchors where appropriate; (e) `apex/open-question-ai-consciousness.md` — verify it adopts the interface-threshold terminology where it discusses the gap between current AI architectures and consciousness-supporting substrates. Short scope (~200–400 words touched across 4-5 files). Tenet alignment: methodological (cross-link density discipline) + Tenet 1 (Dualism — the new concept pages anchor load-bearing distinctions across the catalogue). **Sequencing**: independent of the P3 quartet task at line 40; they target different parts of the catalogue and can run in either order.
-- **Source**: chain (from 2026-05-11 expand-topic completions: type-token-causation, integration-as-activity, interface-threshold)
-- **Generated**: 2026-05-11
-
 ### P3: Write concept page on `phenomenal-concept-strategy`
 - **Type**: expand-topic
 - **Status**: pending
@@ -3551,6 +3544,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-review apex articles for adoption of today's three new concept anchors (type-token-causation, integration-as-activity, interface-threshold)
+- **Type**: cross-review
+- **Notes**: Chain from today's three expand-topic completions: `concepts/type-token-causation.md`, `concepts/integration-as-activity.md`, `concepts/interface-threshold.md` (all created and refined 2026-05-11). The existing P3 task at line 40 ("Cross-link density refine across today's quartet") covers cross-linking *between* the three concept pages and the four deep-reviewed *topic* articles (PVR, IIT, cognitive-distinctiveness, quantum-biology). This task covers a different audience: the *apex tier* and adjacent concept pages that deploy these notions without naming them. Specifically: (a) `apex/post-decoherence-selection-programme.md` — was deep-reviewed today; verify it cites `[[concepts/type-token-causation]]` where it argues the consciousness-selection mechanism is type-grained rather than token-grained (this is a load-bearing structural commitment of the programme); (b) `apex/machine-question.md` — refined today; verify it cites `[[concepts/interface-threshold]]` where it discusses the cognitive-distinctiveness threshold that AI systems would have to cross; (c) `concepts/baseline-cognition.md` — verify it cites `[[concepts/integration-as-activity]]` where it argues consciousness-dependent capacities are integration-active rather than integration-static; (d) `concepts/conscious-selection-and-objective-reduction.md` — verify it cites all three new anchors where appropriate; (e) `apex/open-question-ai-consciousness.md` — verify it adopts the interface-threshold terminology where it discusses the gap between current AI architectures and consciousness-supporting substrates. Short scope (~200–400 words touched across 4-5 files). Tenet alignment: methodological (cross-link density discipline) + Tenet 1 (Dualism — the new concept pages anchor load-bearing distinctions across the catalogue). **Sequencing**: independent of the P3 quartet task at line 40; they target different parts of the catalogue and can run in either order.
+- **Output**: None -- Context: Cross-review apex articles for adoption of today's three new concept anchors (type-token-causation, integration-as-activity, interface-threshold)
 
 ### ✓ 2026-05-11: Condense voids/agency-void.md
 - **Type**: condense

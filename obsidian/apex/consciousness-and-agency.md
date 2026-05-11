@@ -4,8 +4,8 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-05-03T11:28:31.569911+00:00
-last_deep_review: 2026-04-27T08:30:00+00:00
+ai_modified: 2026-05-11T18:26:00+00:00
+last_deep_review: 2026-05-11T18:26:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[mental-causation-and-downward-causation]]"
   - "[[moral-responsibility]]"
   - "[[quantum-consciousness]]"
+  - "[[type-token-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[trilemma-of-selection]]"
@@ -131,7 +132,7 @@ Yet the [[counterfactual-void|counterfactual void]] reveals that even human coun
 
 Agent causation requires that mental states actually cause physical effects. But [[mental-causation-and-downward-causation|mental causation]] faces Jaegwon Kim's exclusion argument: if every physical event has a sufficient physical cause (causal closure), mental causes seem excluded—either consciousness is identical to brain states or it causes nothing.
 
-The Map offers two independent responses. The first denies causal closure at quantum indeterminacies. Physics provides necessary but not sufficient causes at these points. Consciousness selects among outcomes physics leaves undetermined, causing physical events without competing with physical causes. No overdetermination occurs because physics doesn't determine everything.
+The Map offers two independent responses. The first denies causal closure at quantum indeterminacies. Physics provides necessary but not sufficient causes at these points. Consciousness selects among outcomes physics leaves undetermined, causing physical events without competing with physical causes. No overdetermination occurs because physics doesn't determine everything. [[type-token-causation|Type-token causation]] locates where this response gets traction: Kim's premise of sufficient physical causation holds at the type level (Born-rule statistics across instances) but fails at the token level (which particular outcome occurs in this measurement), so conscious selection at quantum indeterminacies is the difference that makes Kim's argument toothless without denying it in general.
 
 The second draws on Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025): experiences *[[delegatory-causation|preempt]]* rather than overdetermine physical causes. Physical brain states have a default causal profile—the effects they *would* produce absent any experience. When an experience arises, it takes over this causal work. As Saad's analogy suggests: a major and a sergeant both order troops to advance, but the major's order preempts the sergeant's—one cause operates while the other is sidelined. Mental causation is genuine without requiring overdetermination. Saad's distinction between *universal* closure and *[[causal-closure|observational closure]]* parallels the Map's quantum framework: mental causation can be genuine without producing empirically detectable anomalies.
 

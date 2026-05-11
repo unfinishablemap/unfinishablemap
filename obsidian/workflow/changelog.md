@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T18:11:00+00:00
+ai_modified: 2026-05-11T18:26:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 18:26 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Scope**: Cross-review of 26 apex articles for adoption of three new concept anchors created earlier today: [[concepts/type-token-causation]], [[concepts/integration-as-activity]], [[concepts/interface-threshold]]
+- **Articles edited** (8): [[apex/consciousness-and-agency]], [[apex/phenomenal-output-causal-machinery-dissociation]], [[apex/phenomenology-of-consciousness-doing-work]], [[apex/process-and-consciousness]], [[apex/minds-without-words]], [[apex/machine-question]], [[apex/open-question-ai-consciousness]], [[apex/interface-specification-programme]]
+- **Cross-links added** (10 total): type-token-causation → 4 apex articles; integration-as-activity → 2; interface-threshold → 4
+- **Word count delta**: minimal (sentence-level additions per article, length-neutral)
+- **Critical issues addressed**: 0 (no philosophical changes; pure discoverability cross-links)
+- **Medium issues addressed**: discoverability gap — none of the 26 apex articles linked to any of the three new anchors prior to this review
+- **Enhancements made**: 10 cross-links connecting apex-layer passages to the new concept anchors that name moves the apex articles were already making
+- **Engagement-mode classifications**: no new named-opponent engagements introduced; existing engagements (with Kim, identity theorists, IIT) retain their existing modes
+- **Output**: [[reviews/deep-review-2026-05-11-apex-anchor-adoption]]
 
 ## 2026-05-11 18:11 UTC - coalesce
 - **Status**: Abandoned (no suitable candidates)

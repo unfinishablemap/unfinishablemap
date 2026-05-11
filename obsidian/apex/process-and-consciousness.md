@@ -4,8 +4,8 @@ description: "Reality as becoming, not being. Whitehead and Bergson's process fr
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-03T11:28:31.620998+00:00
-last_deep_review: 2026-05-01T10:55:00+00:00
+ai_modified: 2026-05-11T18:26:00+00:00
+last_deep_review: 2026-05-11T18:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[combination-problem]]"
   - "[[unity-of-consciousness]]"
   - "[[agent-causation]]"
+  - "[[integration-as-activity]]"
 related_articles:
   - "[[tenets]]"
 
@@ -62,7 +63,7 @@ This shift matters for consciousness. If reality is fundamentally processual, ex
 
 Bergson's [[temporal-consciousness|durée]] captures what process philosophy describes from a different angle. Clock time spatializes—treating moments as points on a line, discrete and interchangeable. Lived duration interpenetrates—each moment permeated by the past and reaching toward the future. When you hear a melody, you don't experience a sequence of separate tones; you experience the phrase as a whole, with each note colored by what came before and what is anticipated. This is qualitative multiplicity: unity-in-difference without juxtaposition.
 
-Durée also varies in depth. Two moments of identical clock length can differ radically in [[temporal-consciousness|temporal thickness]]—the qualitative density of experienced time. A musician improvising inhabits a present dense with harmonic memory and anticipatory tension; someone passively overhearing the same music inhabits a thinner present. This variation matters philosophically: if [[consciousness-as-activity|consciousness is an activity]] rather than a property, temporal extension is constitutive—an activity exists only in its unfolding, and the depth of that unfolding reflects the degree of conscious engagement. Temporal thickness is what Whitehead's concrescence looks like from the inside: some occasions synthesize their inheritance richly, others merely repeat it.
+Durée also varies in depth. Two moments of identical clock length can differ radically in [[temporal-consciousness|temporal thickness]]—the qualitative density of experienced time. A musician improvising inhabits a present dense with harmonic memory and anticipatory tension; someone passively overhearing the same music inhabits a thinner present. This variation matters philosophically: if [[consciousness-as-activity|consciousness is an activity]] rather than a property, temporal extension is constitutive—an activity exists only in its unfolding, and the depth of that unfolding reflects the degree of conscious engagement. Temporal thickness is what Whitehead's concrescence looks like from the inside: some occasions synthesize their inheritance richly, others merely repeat it. The same shift from property to act appears in the Map's [[integration-as-activity|integration-as-activity]] discipline: integration is not what consciousness *is* (a structural feature of a system at an instant, as IIT's identity thesis holds) but what consciousness *does* across time. Whitehead's concrescence is the metaphysical limit case of that discipline — integration is ontologically basic, with every actual occasion's coming-to-be a temporally extended act of synthesis rather than an instantaneous property of a substance.
 
 Both thinkers reject the view that time is a container in which static states are arranged. Time is creative, bringing genuine novelty. Bergson: "Time is invention or it is nothing at all." Whitehead: creativity is "the ultimate category"—each moment adds something to reality that did not exist before. Husserl's [[temporal-consciousness|protention]]—the forward-directed anticipation structuring every conscious moment—reveals that this creativity is not retrospective but constitutive of the present. Each moment already reaches toward what comes next, carrying directional openness that mere physical succession lacks. This creativity is not random but structured: each actual occasion inherits from its predecessors while contributing its own synthesis.
 

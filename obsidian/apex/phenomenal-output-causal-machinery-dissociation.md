@@ -3,8 +3,8 @@ title: "Phenomenal Output and Causal Machinery"
 created: 2026-05-09
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-05-10T09:09:00+00:00
-last_deep_review: 2026-05-10T02:44:00+00:00
+ai_modified: 2026-05-11T18:26:00+00:00
+last_deep_review: 2026-05-11T18:26:00+00:00
 draft: false
 description: "A structural cluster recurring across perception, cognition, agency, and memory in which phenomenal access reaches outputs but not the operations that produce them — the catalogue's tightest worked instance of the cumulative-convergence move."
 topics:
@@ -16,6 +16,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[mental-causation-and-downward-causation]]"
+  - "[[type-token-causation]]"
 related_articles:
   - "[[apex]]"
   - "[[apex-articles]]"
@@ -172,7 +173,7 @@ The cluster bears most directly on two of the [[tenets|five tenets]].
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is engaged because the simplicity-preference that motivates "consciousness is just brain activity" is itself one of the cluster's members. Trust in parsimony is a fluency-and-coherence signal, gated by the same noetic-feelings machinery the cluster catalogues. The materialist's confidence that the simpler story is the right one cannot be neutrally adjudicated, because the adjudicator is the architecture whose reliability is at issue. The Map's commitment to limited parsimony under incomplete knowledge is a discipline for sustaining inquiry past the gate set by the felt sufficiency of the simpler account.
 
-The other three tenets connect more cautiously. **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds its empirical anchor in the positive companion (placebo and choking); the positive side names where the interface's causal work is most directly evident. **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is consistent with the cluster's interface-asymmetry profile but the cluster does not by itself argue for any particular mechanism. **[[tenets#^no-many-worlds|No Many Worlds]]** is implicitly engaged whenever the analysis invokes "selection" or "felt collapse," but the cluster does not adjudicate single-world versus branching readings.
+The other three tenets connect more cautiously. **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds its empirical anchor in the positive companion (placebo and choking); the positive side names where the interface's causal work is most directly evident. **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is consistent with the cluster's interface-asymmetry profile but the cluster does not by itself argue for any particular mechanism; the [[type-token-causation|type-token distinction]] specifies how mental causation can be both real and statistically invisible, which the cluster's two-sided structure assumes without itself defending. **[[tenets#^no-many-worlds|No Many Worlds]]** is implicitly engaged whenever the analysis invokes "selection" or "felt collapse," but the cluster does not adjudicate single-world versus branching readings.
 
 The unifying picture: phenomenal output and causal machinery are dissociable across timescales, substrates, and traditions; they couple in the success cases of mental causation and detach in patterned ways in the failure cases. The architecture has a shape — output-while-operation-hidden, dissociable fallibility, mode-fragility under inspection — that physicalism's currently dominant forms have addressed piecewise but not as the unified, symmetric two-sided architecture the convergence reveals. The cluster marks where reductive accounts owe an explanation beyond functional decomposition: not why each individual dissociation occurs, but why the architecture takes that symmetric form.
 
