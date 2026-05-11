@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T16:11:00+00:00
+ai_modified: 2026-05-11T16:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 16:30 UTC - expand-topic
+- **Status**: Success
+- **Topic**: interface-threshold (concept page)
+- **Output**: [[concepts/interface-threshold]]
+- **Word count**: 2164 words (87% of 2500 concepts soft-max — ok)
+- **Based on research**: no (drawn from `topics/consciousness-and-cognitive-distinctiveness.md` lines 103–107, `concepts/metarepresentation-threshold.md`, `concepts/attention-as-interface.md`, and `topics/interface-efficacy-and-the-cognitive-gap.md`)
+- **Structural placement**: The concept page consolidates the interface-threshold hypothesis named in `consciousness-and-cognitive-distinctiveness` lines 103–107 as the alternative to gradual amplification. The page (a) states the gradual-amplification alternative at its strongest, (b) installs the threshold hypothesis with the cluster prediction as its central empirical commitment, (c) distinguishes the threshold (qualitative architectural transition) from interface-efficacy (continuous scaling above threshold) and from metarepresentation-threshold (downstream cluster at the cognitive grain), (d) names the within-species infant echo, (e) gives explicit falsifiers.
+- **Distinctions installed** (to prevent collapse with adjacent concepts):
+    - interface-threshold ≠ interface-efficacy: efficacy is continuous scaling along bandwidth/fidelity/granularity/candidate-coupling once a selection-capable coupling exists; threshold is the qualitative architectural condition under which any of those axes start to matter for cognition. The two constructs compose (subthreshold → at threshold → above threshold).
+    - interface-threshold ≠ metarepresentation-threshold: the latter is the cluster of declarative capacities that appear above the architectural threshold; the former is the coupling change that makes them possible. Metarepresentation-threshold is a downstream consequence at one grain.
+    - interface-threshold ≠ consciousness-as-amplifier: amplifier names *what* consciousness does once the threshold is crossed; threshold names the architectural moment that makes amplification possible.
+- **Falsifiers stated explicitly**: (1) clear intermediate species exhibiting some-but-not-all of the five clustered capacities in declarative form; (2) smooth cognitive scaling without selective acceleration; (3) cumulative culture without consciousness expansion; (4) a specific anatomical structure shown necessary and sufficient for the cluster (weakens dualist reading); (5) classical-computation AI crossing the cluster.
+- **Self-citations**: 3 (cognitive-distinctiveness, metarepresentation-threshold, interface-efficacy-and-the-cognitive-gap) — all genuinely load-bearing for the concept page's argument.
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
 
 ## 2026-05-11 16:11 UTC - deep-review
 - **Status**: Success
