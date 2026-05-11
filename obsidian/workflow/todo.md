@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-tier reciprocal integration for `topics/mechanism-costs-dualism-thickness-quadrants.md`
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's `expand-topic` creation of `topics/mechanism-costs-dualism-thickness-quadrants.md` (created 2026-05-11, deep-reviewed 22:12 UTC — three critical issues already resolved in-pass). The article is the companion to `topics/four-quadrant-dualism-taxonomy.md` and presents the cell-by-cell mechanism debts (causation account, interface specification, conservation engagement) for each thickness quadrant. Currently the article has minimal inbound links from the catalogue. Cross-tier reciprocal integration should: (a) install reciprocal back-link in `topics/four-quadrant-dualism-taxonomy.md` flagging the new article as the mechanism-cost companion; (b) install reciprocal links in `concepts/substance-property-dualism.md`, `concepts/interactionist-dualism.md`, `concepts/panpsychism.md`, `concepts/russellian-monism.md`, `concepts/epiphenomenalism.md`, `concepts/bi-aspectual-ontology.md` — each of these concept pages is named as inhabiting one or more cells of the grid, and the mechanism-costs article should be cited as the catalogue's named cartographic treatment of their relative debts; (c) install reciprocal links in `topics/delegatory-dualism.md` (Saad's framework is one of the article's named exhibits at Q1-loose), `concepts/trumping-preemption.md` (Schaffer's category is cited), `concepts/conservation-laws-and-mental-causation.md`, `topics/born-rule-violation-brain-interface-empirical-status.md`; (d) verify the article's frontmatter `related_articles` reflects the adopters; (e) check whether `apex/conjunction-coalesce.md` or `apex/mechanism-vocabularies.md` (if extant) load-bear on cell-by-cell mechanism-cost reasoning and adopt the lens explicitly. Short-medium scope (~300–500 words touched across 7–10 articles, mostly cross-link installation). Tenet alignment: Tenet 1 (Dualism — the article makes the catalogue's most disciplined cartographic case for the Map's positioning relative to dualist neighbours); methodological / network-discipline.
-- **Source**: chain (from 2026-05-11 expand-topic completion)
-- **Generated**: 2026-05-11
-
 ### P2: Address pessimistic-2026-05-11b Medium-severity issues 3–5 in `concepts/integration-as-activity.md` and `concepts/type-token-causation.md`
 - **Type**: refine-draft
 - **Status**: pending
@@ -3595,6 +3588,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-tier reciprocal integration for `topics/mechanism-costs-dualism-thickness-quadrants.md`
+- **Type**: cross-review
+- **Notes**: Chain from today's `expand-topic` creation of `topics/mechanism-costs-dualism-thickness-quadrants.md` (created 2026-05-11, deep-reviewed 22:12 UTC — three critical issues already resolved in-pass). The article is the companion to `topics/four-quadrant-dualism-taxonomy.md` and presents the cell-by-cell mechanism debts (causation account, interface specification, conservation engagement) for each thickness quadrant. Currently the article has minimal inbound links from the catalogue. Cross-tier reciprocal integration should: (a) install reciprocal back-link in `topics/four-quadrant-dualism-taxonomy.md` flagging the new article as the mechanism-cost companion; (b) install reciprocal links in `concepts/substance-property-dualism.md`, `concepts/interactionist-dualism.md`, `concepts/panpsychism.md`, `concepts/russellian-monism.md`, `concepts/epiphenomenalism.md`, `concepts/bi-aspectual-ontology.md` — each of these concept pages is named as inhabiting one or more cells of the grid, and the mechanism-costs article should be cited as the catalogue's named cartographic treatment of their relative debts; (c) install reciprocal links in `topics/delegatory-dualism.md` (Saad's framework is one of the article's named exhibits at Q1-loose), `concepts/trumping-preemption.md` (Schaffer's category is cited), `concepts/conservation-laws-and-mental-causation.md`, `topics/born-rule-violation-brain-interface-empirical-status.md`; (d) verify the article's frontmatter `related_articles` reflects the adopters; (e) check whether `apex/conjunction-coalesce.md` or `apex/mechanism-vocabularies.md` (if extant) load-bear on cell-by-cell mechanism-cost reasoning and adopt the lens explicitly. Short-medium scope (~300–500 words touched across 7–10 articles, mostly cross-link installation). Tenet alignment: Tenet 1 (Dualism — the article makes the catalogue's most disciplined cartographic case for the Map's positioning relative to dualist neighbours); methodological / network-discipline.
+- **Output**: obsidian/topics/mechanism-costs-dualism-thickness-quadrants.md -- Context: Cross-tier reciprocal integration for `topics/mechanism-costs-dualism-thickness-quadrants.md`
 
 ### ✓ 2026-05-11: Refine voids/void-as-ground-of-meaning.md to install Buddhist/Eastern cross-tradition section
 - **Type**: refine-draft

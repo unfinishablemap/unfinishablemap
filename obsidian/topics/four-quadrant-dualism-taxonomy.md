@@ -4,7 +4,7 @@ description: "A two-axis taxonomy sorting dualist positions by how much ontologi
 created: 2026-04-21
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T17:17:00+00:00
+ai_modified: 2026-05-11T22:50:00+00:00
 draft: false
 topics:
   - dualism
@@ -19,6 +19,7 @@ concepts:
   - idealism
   - trumping-preemption
 related_articles:
+  - "[[mechanism-costs-dualism-thickness-quadrants]]"
   - "[[dualism]]"
   - "[[interactionist-dualism]]"
   - "[[substance-property-dualism]]"

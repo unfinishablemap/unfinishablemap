@@ -3,7 +3,7 @@ title: "Deep Review - Mechanism Costs Across the Dualism Thickness Quadrants"
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T22:12:00+00:00
+ai_modified: 2026-05-11T22:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -103,3 +103,40 @@ Engagement classifications by mode (per §2.6 diagnostic):
 - Engagement with Kim's exclusion argument inside Q2 exposition: framework-boundary marking (Mode Three). The Map's ruling-out of Q2 strict via Tenet 3 is acknowledged as the Map's reason; Kim's exclusion is cited as an analogous in-physicalism concern, not as a refutation of Q2 from within physicalism.
 - Engagement with Tegmark's decoherence objection inside Q4 exposition: framework-boundary marking (Mode Three). The Tegmark objection is named as the standard empirical objection; the article does not claim to refute it, only to point to the live empirical debate documented in [[born-rule-violation-brain-interface-empirical-status]].
 - No other named-opponent engagements present.
+
+---
+
+## Addendum: Cross-Tier Reciprocal Integration Pass (22:50 UTC)
+
+The first pass (22:12 UTC) covered internal article quality — source-attribution corrections, dropped-qualifier restoration, removal of editor-vocabulary meta-references — and found the article internally clean. A second pass at 22:50 UTC addressed the cross-tier reciprocal integration context: the article's outbound link inventory (17 wikilinks spanning topics/, concepts/, voids/, and research/ tiers) is dense and well-targeted, but companion articles did not reciprocally link back to mechanism-costs.
+
+### Reciprocal Links Added (Five Companion Articles)
+
+The reciprocal-link gap was widespread; the most substantive missing back-links have been added:
+
+- **topics/four-quadrant-dualism-taxonomy.md** — direct companion. Mechanism-costs explicitly extends the taxonomy from "what positions occupy each cell" to "what each cell costs to inhabit." Lack of reciprocal link from the taxonomy article was the clearest gap. Added at top of related_articles list.
+- **topics/parsimony-case-for-interactionist-dualism.md** — mechanism-costs's §"Relation to Site Perspective" explicitly clarifies what the parsimony argument is doing in mechanism-cost terms ("paying the *least mechanism cost compatible with the tenets*"). Reciprocal link makes the connection navigable in both directions. Added `four-quadrant-dualism-taxonomy` alongside since the parsimony piece also lacked that back-link.
+- **topics/the-interface-problem.md** — mechanism-costs unpacks the interface specification debt cell-by-cell (Q1 narrow probabilistic channel; Q2 strict no interface; Q3 dissolves into intrinsic/extrinsic; Q4 thick-to-thick contact). The interface-problem article is the most relevant outbound target for that analysis. Reciprocal link added.
+- **concepts/conservation-laws-and-mental-causation.md** — mechanism-costs unpacks the conservation engagement debt cell-by-cell (Q1 selection-without-injection; Q2 strict no engagement; Q3 conservation-as-mental-regularity; Q4 Noether-symmetry response or quantum routing). Reciprocal link added (plus `four-quadrant-dualism-taxonomy` since that piece also lacked the back-link).
+- **voids/interface-formalization-void.md** — mechanism-costs flags the interface-formalization void as Q1's "live open problem" — the articulability burden the cell owes. Reciprocal link added (plus `four-quadrant-dualism-taxonomy`).
+
+### Reciprocal Links Considered but Deferred
+
+- **concepts/delegatory-causation.md** — already links to `four-quadrant-dualism-taxonomy`. Adding mechanism-costs as well would be natural but the related_articles list is already long (10 entries). Deferred for a future integration pass.
+- **concepts/trumping-preemption.md** — does not link to either taxonomy article. The mechanism-costs article relies on trumping-preemption as the structural template for Q1's authority-without-overdetermination move. A future pass on trumping-preemption could add both companion links.
+- **topics/delegatory-dualism.md** — Q1 inhabitant analysis. Could benefit from reciprocal link in a future pass.
+
+### Span of the Integration Pass
+
+This pass touches five companion files plus the subject article — a deliberate, conservative scope for cross-tier reciprocal integration. The five touched articles span three content tiers (topics/, concepts/, voids/) and three central topics (taxonomy companion, parsimony case, interface problem) plus the conservation and articulability debt anchors. The mechanism-costs article is now navigable in both directions from its most substantively connected neighbours across all three tiers.
+
+### What This Pass Did NOT Do
+
+- Did not modify the article body of mechanism-costs (no new prose; no removed prose; word count unchanged at 2863).
+- Did not re-flag any issue the 22:12 UTC pass had marked resolved.
+- Did not modify content of the five companion articles beyond the related_articles list and the corresponding ai_modified timestamp bump.
+- Did not introduce reciprocal links to articles where the connection is genuinely thin (e.g., russellian-monism-versus-bi-aspectual-dualism, analytic-idealism-and-mind-centric-metaphysics — these are mentioned but tangential to mechanism-cost analysis).
+
+### Stability Notes (Updated)
+
+The cross-tier reciprocal integration is now substantially complete across the five most-connected companions. Future deep-reviews should NOT add a sixth reciprocal link to mechanism-costs in companion articles unless a new substantive content connection is established. The reciprocal-link inventory is sized correctly relative to the article's actual centrality in the dualism-taxonomy cluster.

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the consciousness-physics interface re
 created: 2026-03-15
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-05-11T22:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,8 @@ related_articles:
   - "[[formal-cognitive-limits]]"
   - "[[mathematical-structure-of-the-consciousness-physics-interface]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
+  - "[[mechanism-costs-dualism-thickness-quadrants]]"
+  - "[[four-quadrant-dualism-taxonomy]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

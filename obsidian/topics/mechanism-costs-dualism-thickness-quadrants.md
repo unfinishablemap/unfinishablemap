@@ -4,8 +4,8 @@ description: "Each min/max cell of the mind-side × physical-side thickness taxo
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T22:12:00+00:00
-last_deep_review: 2026-05-11T22:12:00+00:00
+ai_modified: 2026-05-11T22:50:00+00:00
+last_deep_review: 2026-05-11T22:50:00+00:00
 draft: false
 topics:
   - dualism
