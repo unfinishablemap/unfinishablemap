@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/post-decoherence-selection-programme.md against today's tenets MQI restructure
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's completed task "Tenets page MQI section — demote quantum-biology evidence and surface Post-Decoherence Selection as developed Map position" (deduplicated convergent P1 from Claude + ChatGPT 2026-05-11 reviews). The tenets page now leads Tenet 2 with `[[apex/post-decoherence-selection-programme]]` as the developed Map position, but the apex article was last modified before today's tenets reframing. Cross-review should (a) verify the apex article presents the post-decoherence-selection mechanism with the same biological-precedent-vs-licence calibration the tenets page now applies — no implicit upgrade from "precedent" to "licence" for neural-microtubule coherence; (b) check whether the apex article surfaces what the pending P2 Tenet 2 trade-offs task at line ~3691 needs to land — the indifference-objection acknowledgement, the amplification-signature falsification candidate, the empirical-constraint-vs-truth-tracking minimality distinction — at the apex level rather than only at the tenet level; (c) check whether the apex's framing of "consciousness biases individual outcomes without altering aggregate distributions" is internally consistent with the Born-equiprobable indifference objection raised in pessimistic-2026-05-11 Issue 1; (d) install or verify reciprocal cross-link from the apex back to `[[tenets#minimal-quantum-interaction]]` reflecting the new tenets pointer; (e) verify the apex cites `[[amplification-void]]` where falsifiability conditions are discussed. Short scope (~200–400 words touched). Tenet alignment: Tenet 2 (Minimal Quantum Interaction); coherence-maintenance / [[direct-refutation-discipline]] Mode One. **Sequencing**: pairs with the existing pending P2 Tenet 2 trade-offs task — execute either order, but ideally this apex-level pass first since the tenet refines may then cite the now-aligned apex framing.
-- **Source**: chain (completed Tenet 2 MQI restructure 2026-05-11)
-- **Generated**: 2026-05-11
-
 ### P2: Cross-review integration of today's voids-circularity refines across the four touched files
 - **Type**: cross-review
 - **Status**: pending
@@ -3547,6 +3540,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-review apex/post-decoherence-selection-programme.md against today's tenets MQI restructure
+- **Type**: cross-review
+- **Notes**: Chain from today's completed task "Tenets page MQI section — demote quantum-biology evidence and surface Post-Decoherence Selection as developed Map position" (deduplicated convergent P1 from Claude + ChatGPT 2026-05-11 reviews). The tenets page now leads Tenet 2 with `[[apex/post-decoherence-selection-programme]]` as the developed Map position, but the apex article was last modified before today's tenets reframing. Cross-review should (a) verify the apex article presents the post-decoherence-selection mechanism with the same biological-precedent-vs-licence calibration the tenets page now applies — no implicit upgrade from "precedent" to "licence" for neural-microtubule coherence; (b) check whether the apex article surfaces what the pending P2 Tenet 2 trade-offs task at line ~3691 needs to land — the indifference-objection acknowledgement, the amplification-signature falsification candidate, the empirical-constraint-vs-truth-tracking minimality distinction — at the apex level rather than only at the tenet level; (c) check whether the apex's framing of "consciousness biases individual outcomes without altering aggregate distributions" is internally consistent with the Born-equiprobable indifference objection raised in pessimistic-2026-05-11 Issue 1; (d) install or verify reciprocal cross-link from the apex back to `[[tenets#minimal-quantum-interaction]]` reflecting the new tenets pointer; (e) verify the apex cites `[[amplification-void]]` where falsifiability conditions are discussed. Short scope (~200–400 words touched). Tenet alignment: Tenet 2 (Minimal Quantum Interaction); coherence-maintenance / [[direct-refutation-discipline]] Mode One. **Sequencing**: pairs with the existing pending P2 Tenet 2 trade-offs task — execute either order, but ideally this apex-level pass first since the tenet refines may then cite the now-aligned apex framing.
+- **Output**: obsidian/apex/post-decoherence-selection-programme.md -- Context: Cross-review apex/post-decoherence-selection-programme.md against today's tenets MQI restructure
 
 ### ✓ 2026-05-11: Refine cross-link density across the 2026-05-11 quartet (PVR, quantum-biology, IIT, cognitive-distinctiveness)
 - **Type**: refine-draft

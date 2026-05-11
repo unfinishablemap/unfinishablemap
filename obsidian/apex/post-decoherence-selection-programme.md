@@ -1,9 +1,9 @@
 ---
 title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
-modified: 2026-05-01
+modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-03T11:28:31.616441+00:00
+ai_modified: 2026-05-11T13:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated: null
-last_deep_review: 2026-05-01T01:41:00+00:00
+last_deep_review: 2026-05-11T13:43:00+00:00
 
 apex_sources:
   - concepts/post-decoherence-selection
@@ -49,7 +49,7 @@ embedded_videos:
     source: notebooklm/0020-01-post-decoherence-selection-programme
 ---
 
-The strongest empirical objection to quantum consciousness theories is the [[timing-gap-problem|timing gap]]: decoherence destroys quantum superpositions in neural tissue within femtoseconds, while conscious decisions take hundreds of milliseconds. For two decades this objection has seemed decisive. The Unfinishable Map proposes a response that does not dispute the physics but reframes the question. If consciousness acts *after* decoherence—selecting which element of the already-decohered mixture becomes actual—then the decoherence timescale is irrelevant. This is not a single hypothesis but a research programme built from five converging lines of inquiry: the [[post-decoherence-selection|post-decoherence selection]] gap that decoherence leaves, [[quantum-darwinism-and-consciousness|quantum Darwinism's]] specification of the menu, [[contextual-selection-in-quantum-foundations|quantum contextuality's]] structural constraints on what selection can mean, [[weak-measurement-and-post-selection|weak measurement and post-selection's]] alternative mechanism through boundary conditions, and [[amplification-mechanisms-consciousness-physics|stochastic amplification's]] causal bridge from quantum bias to neural behaviour. Together they specify what a complete theory of consciousness acting after decoherence would require—and where the gaps remain.
+The strongest empirical objection to quantum consciousness theories is the [[timing-gap-problem|timing gap]]: decoherence destroys quantum superpositions in neural tissue within femtoseconds, while conscious decisions take hundreds of milliseconds. For two decades this objection has seemed decisive. The Unfinishable Map proposes a response that does not dispute the physics but reframes the question. If consciousness acts *after* decoherence—selecting which element of the already-decohered mixture becomes actual—then the decoherence timescale is irrelevant. The response takes the form of a research programme rather than a single hypothesis, built from five converging lines of inquiry: the [[post-decoherence-selection|post-decoherence selection]] gap that decoherence leaves, [[quantum-darwinism-and-consciousness|quantum Darwinism's]] specification of the menu, [[contextual-selection-in-quantum-foundations|quantum contextuality's]] structural constraints on what selection can mean, [[weak-measurement-and-post-selection|weak measurement and post-selection's]] alternative mechanism through boundary conditions, and [[amplification-mechanisms-consciousness-physics|stochastic amplification's]] causal bridge from quantum bias to neural behaviour. Together they specify what a complete theory of consciousness acting after decoherence would require—and where the gaps remain.
 
 <details class="yt-embed" data-video-id="oWWgbZPoD9Q">
 <summary>Video introduction</summary>

@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T13:05:00+00:00
+ai_modified: 2026-05-11T13:43:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 13:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/post-decoherence-selection-programme]]
+- **Word count**: 2977 → 2981 (+4)
+- **Critical issues addressed**: 1 (LLM-cliché style violation at opening — "This is not a single hypothesis but a research programme" rewritten to integrate the contrast naturally)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-05-11-post-decoherence-selection-programme]]
+- **Driver**: Cross-review against today's MQI tenet restructure. The 2026-05-11 second-pass refine of tenets/tenets.md elevated post-decoherence selection to "the Map's most developed position" and "the strongest path the Map currently endorses", and explicitly classed Orch OR / Stapp Zeno as pre-decoherence-coherence-dependent. The apex needed cross-consistency verification — it was already structurally aligned (the tenet was brought into line with the apex, not the reverse) but the verification was load-bearing for cluster coherence.
+- **Cross-consistency verification**: All five MQI-tenet claims about post-decoherence selection verified consistent with apex framing. Reciprocal links installed (tenet → apex in MQI body; apex → tenet in frontmatter + Relation to Site Perspective). Pre/post-decoherence mechanism distinction now load-bearing at three levels (tenets.md MQI, apex "What a Complete Theory Requires", forward-in-time-conscious-selection mechanism catalogue) and consistent across all three.
+- **Engagement-mode classification (editor-internal)**: Engagement with timing-gap objection (Tegmark-style) — Mode One (defective on its own terms, sidestepped by construction). Engagement with Zurek's Everettian reading — Mode Two (unsupported foundational move; interpretation-neutral physics separable from interpretive commitment). Engagement with Many-Worlds Defender — Mode Three (framework-boundary marking in Relation to Site Perspective). Engagement with amplification-skeptic — Mode One (each link individually well-established; composition is the gap, acknowledged candidly). No label leakage in article prose.
+- **Attribution check**: No misattributions, dropped qualifiers, source/Map conflation, or overstated positions. TSVF synthesis still clearly marked Map-original. Zurek's Everettian preference still distinguished from interpretation-neutral physics results.
+- **Calibration check**: Diagnostic test applied — a tenet-accepting reviewer would not flag the apex's claims as overstated. Article uses "could function," "if consciousness," "plausible" consistently; framework-stage-calibration paragraph locates the programme at pre-Keplerian stage; honest-limitation paragraph acknowledges no end-to-end experimental confirmation.
+- **Stability**: Third deep review. Article has reached stable equilibrium with the cluster (tenets.md, forward-in-time-conscious-selection, source concept articles, amplification void). The article would not benefit from further structural changes; future reviews should preserve calibration discipline rather than seek expansion.
 
 ## 2026-05-11 13:20 UTC - refine-draft
 - **Status**: Success
