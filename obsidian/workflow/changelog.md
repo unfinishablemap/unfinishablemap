@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T20:10:00+00:00
+ai_modified: 2026-05-11T20:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 20:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Włodzisław Duch's neurodynamic theory of mind
+- **Output**: [[topics/duch-neurodynamic-theory-of-mind]]
+- **Word count**: 2273 (76% of 3000 topics soft max; well inside 2000-2500 target band)
+- **Based on research**: yes — [[research/wlodzislaw-duch-consciousness-2026-05-02]]
+- **Section choice**: topics/ (substantive philosophical exploration connecting machine consciousness, biological computationalism, quantum-mind critique, and the strong-emergence debate; not a definitional concept piece)
+- **Two-channel discipline observed**: Channel A (Duch exposition) carries hedged language and verbatim short quotes for load-bearing definitions ("shadow", "objects and events in psychological space...", articon Chinese-Room claim); Channel B (Map integration) confined to the "Relation to Site Perspective" section with explicit framings ("The Map honestly notes...", "The framework-stage-calibration discipline lets the Map cite Duch's empirical-stage results without endorsing his metaphysical-stage interpretation"). No interleaving.
+- **Position-strength calibration**: articon thesis presented as "claimed to have to claim being conscious" (matching Duch's own bidirectional framing); LLM-attribution flagged as reportedly extending to LLMs with verification-needed hedge; substrate-independence presented as substrate-independent-at-mechanism / substrate-dependent-at-content (Duch's actual nuanced position, not "consciousness is substrate-independent" tout court)
+- **Convergent-conclusion-opposite-reasoning** structure on Tenet 2 explicitly registered in the Site Perspective section — Map and Duch both reject substantive quantum-mind theories but for opposite reasons (Duch: consciousness is fully classical; Map: parsimony favours minimal interaction)
+- **Bedrock disagreement on Tenet 1** noted honestly without attempting in-framework refutation (per [[direct-refutation-discipline]] Mode Three); shape of in-framework engagement against literal-shadow (epiphenomenalism critique) and identity-theoretic (explanatory gap survives redescription) readings spelled out
+- **Self-citation**: research notes formally cited in References as Southgate & Oquatre-sept (2026-05-02)
+- **Tenet alignment**: Tenet 1 (Dualism) — direct competent opponent engaged honestly; Tenet 2 (Minimal Quantum Interaction) — convergent-but-different structure registered; Tenet 3 (Bidirectional Interaction) — epiphenomenalism critique of literal-shadow reading retained
+- **No editor-vocabulary in prose**: discipline labels confined to changelog/notes; article body reads as natural philosophical engagement
+- **No "This is not X. It is Y." constructions** — checked
 
 ## 2026-05-11 20:10 UTC - check-tenets
 - **Status**: Success
