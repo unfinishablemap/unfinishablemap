@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/noetic-feelings-void.md considering decision-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-05-10 expand-topic of `voids/decision-void.md`. Decision-void's "Distinguishing Sibling Voids" (line 84) names noetic-feelings-void as a discrimination target: "the 'felt click' of having-decided is a noetic-feelings phenomenon, but the Decision Void claims the *closing-process* is occluded, not merely the felt verdict that follows." Noetic-feelings-void does not currently reciprocate (grep verified 2026-05-11 — zero `decision-void` references in `obsidian/voids/noetic-feelings-void.md`). Cross-review should (a) install ~150–250 words in noetic-feelings-void naming decision-void as the conjoined-but-distinct exhibit — the felt-click of having-decided lives in noetic-feelings territory; the deliberation-closure that generates the click lives in decision-void territory; the two are adjacent but cleanly severable; (b) verify the discrimination is correctly framed and reciprocally visible — neither article should absorb the other's territory; (c) check whether noetic-feelings-void's current treatment of decision-related felt verdicts (if any) is consistent with decision-void's three-face structure (closure/latency/reconstruction); (d) reciprocate in `related_articles` and Further Reading; (e) preserve length band; (f) audit for "This is not X. It is Y." cliché violations. Short scope (~150–250 words touched). Tenet alignment: Tenet 3 (Bidirectional Interaction); methodological.
-- **Source**: chain (from decision-void expand-topic 2026-05-10)
-- **Generated**: 2026-05-11
-
 ### P2: Condense topics/phenomenology-of-memory-and-the-self.md (5301 words, 177% of target)
 - **Type**: condense
 - **Status**: pending
@@ -3500,6 +3493,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-review voids/noetic-feelings-void.md considering decision-void insights
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-05-10 expand-topic of `voids/decision-void.md`. Decision-void's "Distinguishing Sibling Voids" (line 84) names noetic-feelings-void as a discrimination target: "the 'felt click' of having-decided is a noetic-feelings phenomenon, but the Decision Void claims the *closing-process* is occluded, not merely the felt verdict that follows." Noetic-feelings-void does not currently reciprocate (grep verified 2026-05-11 — zero `decision-void` references in `obsidian/voids/noetic-feelings-void.md`). Cross-review should (a) install ~150–250 words in noetic-feelings-void naming decision-void as the conjoined-but-distinct exhibit — the felt-click of having-decided lives in noetic-feelings territory; the deliberation-closure that generates the click lives in decision-void territory; the two are adjacent but cleanly severable; (b) verify the discrimination is correctly framed and reciprocally visible — neither article should absorb the other's territory; (c) check whether noetic-feelings-void's current treatment of decision-related felt verdicts (if any) is consistent with decision-void's three-face structure (closure/latency/reconstruction); (d) reciprocate in `related_articles` and Further Reading; (e) preserve length band; (f) audit for "This is not X. It is Y." cliché violations. Short scope (~150–250 words touched). Tenet alignment: Tenet 3 (Bidirectional Interaction); methodological.
+- **Output**: obsidian/voids/noetic-feelings-void.md -- Context: Cross-review voids/noetic-feelings-void.md considering decision-void insights
 
 ### ✓ 2026-05-11: Cross-review voids/source-attribution-void.md considering decision-void insights
 - **Type**: cross-review

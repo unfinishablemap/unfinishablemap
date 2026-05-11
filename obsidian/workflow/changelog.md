@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 02:04:00+00:00
+ai_modified: 2026-05-11 02:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 02:31 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/noetic-feelings-void]]
+- **Context**: Cross-review chained from 2026-05-10 expand-topic of [[decision-void]]. Decision-void's §"Distinguishing Sibling Voids" explicitly identifies "the 'felt click' of having-decided is a noetic-feelings phenomenon" and links to noetic-feelings-void in three places (body, related_articles, Further Reading); the reverse linkage was absent. This pass installs reciprocal cross-linking in the compositional framing (extending the existing relevance→inference→noetic-feelings triad to a quartet) plus related_articles and Further Reading.
+- **Word count**: 2490 → 2499 (+9; 125% of 2000 soft threshold, well under 3000 hard; length-neutral discipline observed via offsetting trim of redundant Cleary paradigm-attribution tail in §"Feed-Forward Opacity" and tightening of memory-anomalies Further Reading descriptor)
+- **Critical issues addressed**: 1 (missing reciprocal cross-link to [[decision-void]])
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (decision-void integrated into compositional framing as fourth named neighbour; Further Reading entry for decision-void)
+- **Reasoning-mode classification**: No new opponent engagements in this pass. Existing functionalist response in §"What Would Challenge This View" — Mode One (defective on its own terms: functional analysis applies to gating but the void claim is about why functional success produces phenomenal feel, which functional analysis does not address). No editor-vocabulary in body. Not re-classified.
+- **Calibration discipline**: No new evidential claims introduced. Dualism's existing "noetic feelings have genuine phenomenal character" and MQI's "speculative extension" remain properly hedged. No possibility/probability slippage; no tenet-as-evidence-upgrade.
+- **Attribution accuracy**: All existing source attributions (Koriat, Loev, Proust, Thompson, Rozenblit & Keil, Trout, de Regt, Wittgenstein, Heidegger, Husserl) preserved verbatim. Cleary trim removed a paradigm-attribution but preserved the substantive claim (felt premonition without future-knowledge) via the prior sentence. No qualifier drops; no source/Map conflations.
+- **Bedrock no-flags honoured** (from 2026-04-30 stability notes): eliminative materialism, strong functionalism, empiricism, MWI — all four bedrock disagreements preserved, not re-flagged.
+- **Length-discipline note**: +9 words is within length-neutral tolerance. Cleary tail trim (~22 words) and memory-anomalies descriptor tightening (~7 words) offset the body addition (~28 words) and Further Reading addition (~10 words). The article's 125% soft-warning posture is unchanged.
+- **Output**: [[reviews/deep-review-2026-05-11-noetic-feelings-void]]
 
 ## 2026-05-11 02:04 UTC - coalesce
 - **Status**: Success

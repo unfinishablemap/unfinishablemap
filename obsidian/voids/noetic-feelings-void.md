@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-05-09T16:15:00+00:00
+ai_modified: 2026-05-11T02:31:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -43,6 +43,7 @@ related_articles:
   - "[[inference-void]]"
   - "[[relevance-void]]"
   - "[[suspension-void]]"
+  - "[[decision-void]]"
   - "[[consciousness-and-scientific-explanation]]"
   - "[[creative-consciousness]]"
   - "[[the-quantitative-comprehension-void]]"
@@ -53,7 +54,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-24
 last_curated:
-last_deep_review: 2026-04-30T05:40:00+00:00
+last_deep_review: 2026-05-11T02:31:00+00:00
 coalesced_from:
   - "/voids/understanding-void/"
   - "/voids/obviousness-void/"
@@ -78,7 +79,7 @@ Noetic feelings—also called epistemic or metacognitive feelings—form a funct
 - **Feeling of confidence** — sense that a judgment is reliable. Gates commitment to action.
 - **Feeling of error** — dysphoric, often pre-conceptual sense that something is wrong. Gates corrective search.
 
-Loev calls these "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]; further upstream sits the [[relevance-void|relevance void]], which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop. The [[the-quantitative-comprehension-void#a-shared-signature-multiple-faces|shared signature of the quantitative comprehension void]] names the same output-without-operation shape outside the affective family.
+Loev calls these "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]; further upstream sits the [[relevance-void|relevance void]], which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop—the felt click of having-decided is one such verdict, while the underlying deliberation→commitment closure that the click marks is the [[decision-void]]. The [[the-quantitative-comprehension-void#a-shared-signature-multiple-faces|shared signature of the quantitative comprehension void]] names the same output-without-operation shape outside the affective family.
 
 ## How the Feelings Are Produced
 
@@ -102,7 +103,7 @@ The void has three structural features.
 
 **Authority without audit.** The feelings gate further cognition: when to stop searching, when to trust, when to engage analytic thought. The system cannot audit them from inside, because audit requires more feelings of the same kind. The feeling of obviousness is the purest case: by presenting nothing to investigate, it prevents the investigation that would detect its own fluency-driven origin.
 
-**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence resists argument. These dissociations show noetic feelings are signals rather than perceptions, and that consciousness cannot tell from inside when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: a feeling of *prediction* that tracks no actual predictive capacity. The [[memory-anomalies|memory anomalies cluster]] treats this trio (déjà vu, jamais vu, cryptomnesia) as three rotations on the same source-monitoring failure, with the Cleary gestalt-match paradigm supplying the most-cited demonstration that felt premonition can fire without any actual future-knowledge.
+**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence resists argument. These dissociations show noetic feelings are signals rather than perceptions, and that consciousness cannot tell from inside when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: a feeling of *prediction* that tracks no actual predictive capacity. The [[memory-anomalies|memory anomalies cluster]] treats this trio (déjà vu, jamais vu, cryptomnesia) as three rotations on the same source-monitoring failure.
 
 Compounded, these features yield the void: the signals that gate cognition are precisely the signals consciousness cannot audit without their help.
 
@@ -173,9 +174,10 @@ The cluster-level conditions are taken up separately in [[medium-status-voids-in
 - [[inference-void]] / [[relevance-void]] — The transitions and filters whose outputs noetic feelings register
 - [[the-quantitative-comprehension-void#a-shared-signature-multiple-faces|The Quantitative Comprehension Void — shared signature]] — Output-without-operation as a diagnostic signature across quantitative cognition
 - [[suspension-void]] — Why bracketing the natural attitude cannot fully audit itself
+- [[decision-void]] — The deliberation→commitment closure whose felt click is a noetic-feelings verdict
 - [[epistemic-emotions]] — The phenomenally rich extension of the noetic family
 - [[apophatic-cartography]] — Mapping territory by the shape of its boundary
-- [[memory-anomalies]] — Déjà vu, jamais vu, and cryptomnesia as concrete edge-phenomena where the noetic-feelings architecture becomes diagnostically visible
+- [[memory-anomalies]] — Déjà vu, jamais vu, cryptomnesia as edge-phenomena revealing the architecture
 
 ## References
 
