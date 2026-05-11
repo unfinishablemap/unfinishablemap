@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-05-11T10:05:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -23,7 +23,6 @@ concepts:
   - "[[agent-causation]]"
   - "[[explanatory-gap]]"
   - "[[aesthetics-and-consciousness]]"
-  - "[[evaluative-phenomenal-character]]"
   - "[[moral-responsibility]]"
 related_articles:
   - "[[tenets]]"
@@ -37,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-03-27T22:54:00+00:00
+last_deep_review: 2026-05-11T10:05:00+00:00
 coalesced_from:
   - "/topics/phenomenal-value-realism/"
   - "/topics/phenomenal-value-realism-development/"
@@ -246,8 +245,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 
 ## Further Reading
 
-- [[evaluative-phenomenal-character|Phenomenal Normativity]] — The definitional article on this metaethical position
-- [[evaluative-phenomenal-character|evaluative qualia]] — The distinct category of phenomenal qualities whose character is intrinsically evaluative
+- [[evaluative-phenomenal-character]] — The definitional concept: phenomenal qualities whose character is simultaneously descriptive and normative
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on evaluative qualia from Buddhist, Confucian, Indian, Islamic, and Western traditions
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[phenomenology-of-moral-life]] — The full arc of moral consciousness from perception through deliberation to choice
@@ -261,7 +259,6 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[contemplative-practice-as-philosophical-evidence]] — What contemplative practice reveals about value and consciousness
 - [[aesthetics-and-consciousness]] — Why aesthetic value resists hedonistic reduction
 - [[emotion-and-dualism]] — Valence as the felt quality of emotions
-- [[evaluative-phenomenal-character|moral phenomenology and perception]] — The felt character of moral experience as evidence for phenomenal value
 - [[pain-consciousness-and-causal-power]] — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
 - [[illusionism]] — The strongest challenge to phenomenal consciousness
