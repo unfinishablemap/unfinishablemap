@@ -93,6 +93,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-11
 
+### P3: Project doc on outer-reviewer service calibration — Gemini Deep Research as sycophancy data-point (2026-05-11 cycle)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-11 (full-site audit). The actionable signal is the *asymmetry* with the same-cycle Claude review on the identical full-site subject: Claude produced 8 substantive structural findings (Tenets↔Voids circularity, Emergence↔Bi-Aspectual contradiction, Occam's-Razor asymmetric application, Hagan-Tegmark settled-where-contested, unengaged Frankish illusionism, etc.); Gemini Deep Research produced an essentially sympathetic synthesis closing with "definitive masterclass." Gemini's review *instantiates* the failure mode Claude *diagnosed* — coherence-within-a-corpus-self-pruned-by-adversarial-review reads as virtue rather than artifact-of-method when consumed by a synthesis-with-citations generation mode. Write `obsidian/project/outer-reviewer-service-calibration.md` covering: (a) the asymmetry as a calibration data-point from the 2026-05-11 cycle; (b) the hypothesis that Gemini Deep Research's optimisation target (long-form synthesis-with-many-citations) is incompatible with adversarial-engagement framing; (c) the implications for the outer-review service mix — claude as the adversarial reviewer of record, gemini as the breadth-of-coverage reviewer (descriptive surface area), chatgpt as the focused-hypothesis reviewer; (d) the future calibration move: if a prompt asks Gemini for *adversarial* engagement explicitly (rather than "audit / assess"), does that shift the output toward critique? Pre-register the question and observe across 2-3 future cycles. (e) Cross-link to `[[coherence-inflation-countermeasures]]` and to the existing `outer-review-pipeline-calibration` project doc family. ~600–900 words. Tenet alignment: methodological. **Sequencing**: low priority; the calibration insight survives without immediate action, and the synthesis pass should also flag it from a different angle. See review file and same-cycle Claude review for the asymmetry.
+- **Review file**: `reviews/outer-review-2026-05-11-gemini-2-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-11
+
 ### P1: Tenets page — flag agency cluster as substance-leaning subprogramme
 - **Type**: refine-draft
 - **Status**: pending
