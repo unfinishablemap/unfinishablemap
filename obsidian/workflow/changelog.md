@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T20:12:00+00:00
+ai_modified: 2026-05-11T20:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 20:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/microphenomenological-interview]]
+- **Word count**: 2111 → 2117 (+6)
+- **Previous review**: Never (newly created 2026-05-11; sibling topic article reviewed 2026-04-19)
+- **Critical issues addressed**: 0 (none found — attribution accuracy, source/Map separation, possibility/probability calibration all clean)
+- **Medium issues addressed**: 1 (added missing 2021 reliability-objections review citation that the body referenced by title; renumbered references 11→14)
+- **Enhancements made**: 0 (article already at 85% of soft threshold with dense cross-linking; no ornamental additions)
+- **Reasoning-mode classification (editor-internal, not in prose)**: engagement with Schwitzgebel / Nisbett & Wilson: Mode One (defective on its own terms — accepts the critique of casual introspection and shows the procedural remedy earns the disagreement within the empirical-reliability standards the critique invokes); engagement with heterophenomenology (Dennett-style): Mode Three (framework-boundary marking, declared honestly via "That residual gap is what makes [[heterophenomenology]] a live alternative"). No boundary substitution. No label leakage.
+- **Stability achieved**: Article is at convergence — heterophenomenological residual gap declared as bedrock, Husserlian assertoric/presumptive calibration is load-bearing, Map's tenet framing explicitly disclaimed. Future reviews should not re-flag these.
+- **Output**: [[reviews/deep-review-2026-05-11-microphenomenological-interview]]
 
 ## 2026-05-11 20:12 UTC - expand-topic
 - **Status**: Success
