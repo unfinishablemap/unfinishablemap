@@ -65,13 +65,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-10b)
 - **Generated**: 2026-05-10
 
-### P2: Cross-review voids/agency-void.md considering decision-void.md insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 2026-05-10 expand-topic of `voids/decision-void.md`. Decision-void positions itself in explicit discrimination from `[[voids/agency-void]]` — agency-void covers voluntariness/downstream causation; decision-void covers the snap-opacity at the deliberation→commitment crossing. The cluster integrity depends on this discrimination being visible from both sides. Currently `obsidian/voids/agency-void.md` does not link to decision-void (verified 2026-05-10). Cross-review should (a) install a substantive bridging clause in agency-void naming decision-void as the discriminated companion treating the moment-of-collapse rather than the broader voluntariness territory; (b) verify the discrimination is correctly framed — agency-void should NOT absorb decision-void's territory (the snap is structurally distinct from voluntariness even when the same act is being analysed); (c) reciprocate `related_articles` if the link would be load-bearing in agency-void's argument; (d) check whether agency-void's recent additions (the 2026-05-08 recurrence-void integration; the suspension-void cross-link) need a parallel bridging clause for decision-void. Short scope (~150–250 words touched). Tenet alignment: Tenet 3 (Bidirectional Interaction) + methodological.
-- **Source**: chain (from 2026-05-10 expand-topic of voids/decision-void.md)
-- **Generated**: 2026-05-10
-
 ### P3: Deep review concepts/time-symmetric-physics.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3486,6 +3479,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-review voids/agency-void.md considering decision-void.md insights
+- **Type**: cross-review
+- **Notes**: Chain from today's 2026-05-10 expand-topic of `voids/decision-void.md`. Decision-void positions itself in explicit discrimination from `[[voids/agency-void]]` — agency-void covers voluntariness/downstream causation; decision-void covers the snap-opacity at the deliberation→commitment crossing. The cluster integrity depends on this discrimination being visible from both sides. Currently `obsidian/voids/agency-void.md` does not link to decision-void (verified 2026-05-10). Cross-review should (a) install a substantive bridging clause in agency-void naming decision-void as the discriminated companion treating the moment-of-collapse rather than the broader voluntariness territory; (b) verify the discrimination is correctly framed — agency-void should NOT absorb decision-void's territory (the snap is structurally distinct from voluntariness even when the same act is being analysed); (c) reciprocate `related_articles` if the link would be load-bearing in agency-void's argument; (d) check whether agency-void's recent additions (the 2026-05-08 recurrence-void integration; the suspension-void cross-link) need a parallel bridging clause for decision-void. Short scope (~150–250 words touched). Tenet alignment: Tenet 3 (Bidirectional Interaction) + methodological.
+- **Output**: obsidian/voids/agency-void.md -- Context: Cross-review voids/agency-void.md considering decision-void.md insights
 
 ### ✓ 2026-05-10: Cross-review topics/forward-in-time-conscious-selection.md considering decision-void.md insights
 - **Type**: cross-review

@@ -2,10 +2,10 @@
 title: "The Agency Void"
 description: "Consciousness cannot control most of its own states, and cannot verify whether it causes anything at all—two conjoined limits at the heart of conscious agency."
 created: 2026-02-25
-modified: 2026-05-09
+modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-09T03:43:00+00:00
-last_deep_review: 2026-05-08T13:36:00+00:00
+ai_modified: 2026-05-11T00:05:00+00:00
+last_deep_review: 2026-05-11T00:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[phenomenology-vs-function-axis]]"
   - "[[self-opacity]]"
   - "[[causal-interface]]"
+  - "[[decision-void]]"
   - "[[ownership-void]]"
   - "[[appetitive-void]]"
   - "[[affective-void]]"
@@ -66,6 +67,8 @@ Under the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] 
 
 The two limits interact. Wide control without self-verification would still be agentive. Narrow control with reliable self-verification would yield a precisely mappable limit. The void lies in their conjunction: without self-verification, consciousness cannot tell whether the involuntariness it meets is *of its agency* (a faculty it has but cannot exercise here) or *of its absence of agency* (a faculty it lacks). The distinction that would normally let a subject map its own boundary is unavailable, so the involuntary domain is uncharted from inside. The two faces form a single void whose informativeness lies in the conjunction—the editorial discipline articulated in [[conjunction-coalesce|the conjunction-coalesce]].
 
+A more specific within-agency void—[[decision-void|the decision void]]—targets the deliberation→commitment crossing on its own three-face conjunction (closure, latency, reconstruction). Latency and reconstruction overlap, at related grain, with agency-void's Timing and Attribution layers below; closure—the *given-as-already-closed* character of the decision-act—is the distinctively decision-specific opacity. An agent could face full involuntariness and verification opacity and *still* find the snap-instant of deciding occluded on these independent grounds. Agency-void catalogues the limits on agency *in general*; decision-void targets the specific opacity at the moment where possibilities collapse into a single choice.
+
 ## What Cannot Be Controlled
 
 **Existence of experience.** While awake, you cannot choose to stop being conscious; even the attempt is itself an experience. Sleep, fainting, and anaesthesia are involuntary or chemically induced, and Montupil et al. (2023) note that general anaesthesia "does not always produce a complete absence of consciousness."
@@ -82,7 +85,7 @@ Between helplessness and sovereignty lies a structured spectrum. **Attention** i
 
 ## Recurrence as Passive-Face Mechanism
 
-The passive face has internal mechanism, visible most clearly where consciousness cannot prevent specific contents from returning. Three structurally distinct faces of involuntary recurrence sharpen what the limit is *like* from inside.
+The passive face has internal mechanism, visible most clearly where consciousness cannot prevent specific contents from returning. Three structurally distinct faces sharpen the limit from inside.
 
 **The intrusion face.** Unwanted contents arrive uninvited. Clark and Rhyno (2005) report unwanted-intrusive-thought prevalence of 74%–99% in non-clinical populations, replicated across thirteen countries (Radomsky et al., 2014). Berntsen (2010) finds involuntary autobiographical memories outnumber deliberately retrieved ones roughly 2:1 and carry stronger emotional charge. Beaman and Williams (2010) document earworms in 89% of people weekly, distinguished by absent agency-feeling—"automatic mental singing" without any sense of having authored the singing. Cross-cultural and cross-modal pervasiveness suggests a structural feature of consciousness rather than a contingent condition.
 
@@ -92,7 +95,7 @@ The passive face has internal mechanism, visible most clearly where consciousnes
 
 Intrusion concerns content selection (what returns); rebound, control-attempt feedback (what refusal does to the unwanted content); rumination, loop persistence (why recurrence does not decay). A theory addressing one face does not automatically address the others.
 
-The apophatic signature ties them together: the monitoring required to detect recurrence is part of the machinery that summons it. To check whether you have stopped thinking about X requires representing X; to notice you are ruminating supplies fresh ruminative content. The control surface and the surveillance surface are the same surface.
+The apophatic signature: detecting recurrence requires representing what one wants suppressed, and noticing rumination supplies fresh ruminative content. The control surface and the surveillance surface are the same surface.
 
 This is the operational complement of [[thought-stream-void|the thought-stream void's]] handling of *generation*; recurrence concerns *re-presentation*. The void runs adjacent to [[suspension-void|the suspension void]] and engages [[ownership-void|the ownership void]]: unbidden content arrives already tagged as mine while feeling as though it came from elsewhere—a [[noetic-feelings-void|noetic feeling]] whose generative mechanism is opaque.
 
@@ -144,9 +147,9 @@ If consciousness is non-physical and causally efficacious, why can it not govern
 
 **Certainty-doubt oscillation.** The experience of willing is among the most vivid we have—we feel absolutely certain we are agents. Philosophical reflection immediately destabilises this certainty. The oscillation is the signature of a genuine boundary: one mode of access affirms what another cannot confirm.
 
-**The vanishing target.** When you try to catch yourself causing something, the observation becomes the object. You observe yourself observing, and the causal act recedes behind the observation—the [[tacit-integration-void|tacit-integration]] structure applied to causal self-inspection: the doing bears on outcomes by *not* being focal, and looking directly at it collapses what it carries.
+**The vanishing target.** When you try to catch yourself causing something, the observation becomes the object. You observe yourself observing, and the causal act recedes behind the observation—the [[tacit-integration-void|tacit-integration]] structure applied to causal self-inspection: the doing bears on outcomes by *not* being focal, and looking directly at it collapses what it carries. The specific case of catching one's own *deciding*—rather than the broader self-causing—is the closure face of [[decision-void|the decision void]]: a sealed-as-already-closed event admitting no slow-motion view.
 
-**The meditation edge.** Contemplative cessation involves effortful effortlessness. Nirodha comes from relinquishing the attempt while maintaining precise conditions. Thompson (2014) documents how waking, dreaming, and deep sleep reveal different relationships between consciousness and voluntary control—the boundary is state-dependent, not fixed.
+**The meditation edge.** Contemplative cessation is effortful effortlessness: nirodha comes from relinquishing the attempt while maintaining precise conditions. Thompson (2014) documents how waking, dreaming, and deep sleep reveal different relationships between consciousness and voluntary control—the boundary is state-dependent, not fixed.
 
 ## Relation to Site Perspective
 
@@ -168,6 +171,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 - [[causal-interface|The Causal Interface Void]] — How consciousness connects to physics
 - [[erasure-void]] — Clinical sister case: self-monitoring eroding alongside what it would monitor
 - [[suspension-void]] — Structural sister case: same self-investigator circularity
+- [[decision-void]] — Specific within-agency void: the deliberation→commitment crossing's three-face opacity (closure/latency/reconstruction)
 - [[thought-stream-void]] — Operational complement: handles thought *generation* where recurrence handles *re-presentation*
 - [[ownership-void]] — Mineness of the unbidden content
 - [[noetic-feelings-void]] — The felt texture of intrusion as itself a noetic feeling

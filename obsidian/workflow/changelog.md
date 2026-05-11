@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-10T23:31:00+00:00
+ai_modified: 2026-05-11T00:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 00:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Context**: Cross-review chained from 2026-05-10 expand-topic of [[decision-void]]. Decision-void positions itself in explicit discrimination from agency-void (snap-opacity at deliberation→commitment crossing vs. the broader involuntariness/verification territory). Reciprocal discrimination was missing on the agency-void side.
+- **Word count**: 2854 → 2949 (+95; 143% → 147% of 2000 soft threshold; under 3000 hard; soft_warning preserved)
+- **Critical issues addressed**: 1 (missing reciprocal cross-link to [[decision-void]] across body / related_articles / Further Reading)
+- **Medium issues addressed**: 3 (vanishing-target closure-face connection installed; apophatic-signature paragraph compressed; meditation-edge subsection tightened to reduce redundancy with Spectrum of Control)
+- **Enhancements made**: 2 (substantive bridging paragraph after "Two Limits, One Void" mapping decision-void's three faces against agency-void's structure—closure decision-specific, latency/reconstruction overlapping at related grain with Timing/Attribution layers; recurrence-section foreshadowing sentence trimmed)
+- **Reasoning-mode classification**: Existing engagements preserved without modification. Epiphenomenalism (De Brigard): Mode One/Three mixed — in-framework conditional + bedrock causal-theory contestation. Wegner I-Spy: Mode One — Map borrows diagnosis, declines eliminative conclusion via tenet-coherence. Kim's exclusion: Mode Three — framework-boundary with MQI flagged as tenet position. Libet/Schurger: empirical hedging, not opponent-engagement. No label leakage. No boundary substitution. No editor-vocabulary in body.
+- **Bedrock no-flags honoured** (from 2026-04-27 stability notes): Dennett-style functionalist response that "attribution machinery IS the causation"; Buddhist dissolution of agency category; reflexive inheritance acknowledgment.
+- **Output**: [[reviews/deep-review-2026-05-11-agency-void]]
 
 ## 2026-05-10 23:31 UTC - optimistic-review
 - **Status**: Success
