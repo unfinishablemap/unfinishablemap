@@ -4,8 +4,8 @@ description: "Type-token causation distinguishes statistical type-level effects 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T16:11:00+00:00
-last_deep_review: 2026-05-11T16:11:00+00:00
+ai_modified: 2026-05-11T18:47:00+00:00
+last_deep_review: 2026-05-11T18:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,8 @@ concepts:
   - "[[bidirectional-interaction]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[haecceity]]"
+  - "[[interface-threshold]]"
+  - "[[integration-as-activity]]"
 related_articles:
   - "[[tenets]]"
   - "[[topics/consciousness-and-integrated-information]]"
@@ -30,11 +32,15 @@ related_articles:
   - "[[topics/consciousness-and-cognitive-distinctiveness]]"
   - "[[selection-only-mind-influence]]"
   - "[[interactionist-dualism]]"
+  - "[[apex/consciousness-and-agency]]"
+  - "[[apex/phenomenology-of-consciousness-doing-work]]"
+  - "[[apex/phenomenal-output-causal-machinery-dissociation]]"
+  - "[[apex/interface-specification-programme]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-11
-last_curated:
+last_curated: 2026-05-11
 ---
 
 Type-token causation distinguishes two grains at which a cause can make a difference. At the **type level**, a property changes the statistical regularities of outcomes — increasing the frequency of some pattern across many instances. At the **token level**, a property determines *which particular outcome* actualises in *this* instance, given the statistical regularities already fixed. The distinction matters because Jaegwon Kim's [[reductionism|exclusion argument]] is decisive against mental causation at the type level — and toothless against mental causation at the token level whenever physical laws themselves leave the token outcome undetermined. The Unfinishable Map deploys this distinction as the operational core of [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: consciousness selects token outcomes at quantum indeterminacies without altering type-level Born-rule statistics, which is what makes the influence "minimal" in the precise sense Kim's argument cannot reach.
@@ -62,13 +68,13 @@ Applied to causation:
 
 **Token-level causation** is a relation between particular events: that *this particular pain*, at 14:56 on 11 May 2026, caused *this particular withdrawal of this particular hand*. Token-level causal claims pick out the specific causal history of the particular event, not the population-level regularity.
 
-The two grains can come apart. Smoking causes cancer at the type level (a statistical bias across the smoker population) without entailing that any *particular* smoker's cancer was caused by smoking, or that smoking-induced cancer occurs in every smoker; type-level claims are silent on tokens. Conversely, a particular quantum-mechanically random event has a token outcome with no type-level cause biasing the statistics. The distinction does not by itself defeat the exclusion argument — it sharpens the question: at which grain does the argument's premise of *sufficient* physical cause actually hold?
+The two grains can come apart. Smoking causes cancer at the type level (a statistical bias across smokers) without entailing that any *particular* smoker's cancer was caused by smoking; type-level claims are silent on tokens. Conversely, a quantum-random event has a token outcome with no type-level cause biasing the statistics. The distinction does not by itself defeat the exclusion argument — it sharpens the question: at which grain does the *sufficient*-cause premise actually hold?
 
 ## The Quantum-Indeterminacy Limit
 
 Kim's premise of sufficient physical causation is a *type-level* premise dressed in token-level grammar. It says: for every physical event token, there is a sufficient physical cause token. But in quantum mechanics — under any non-Many-Worlds interpretation (see [[tenets#^no-many-worlds|Tenet 4]]) — this is false. Physics specifies the probability that a given electron will be measured spin-up; nothing physical determines *whether* this particular measurement yields spin-up. The Schrödinger equation is deterministic for the wavefunction; the measurement outcome is genuinely undetermined by anything physical.
 
-Strictly, this excludes Bohmian pilot-wave interpretations, in which the wavefunction plus a hidden initial particle position determine the measurement outcome. Bohm is a non-MWI, deterministic, hidden-variable interpretation, and under it Kim's premise survives at the token grain. The Map's framework presupposes either that the correct interpretation is genuinely non-deterministic, or that Bohmian hidden variables are themselves epistemically and causally inaccessible in ways that preserve the operational openness the type-token move requires — the pilot-wave is by construction unobservable, and the initial positions form a probability distribution no measurement can sharpen. The argument that follows is therefore strictly conditional on either non-determinism or this Bohmian epistemic-accessibility move; a fully realised pilot-wave reading is a place where the framework's machinery does not get traction.
+Strictly, this excludes Bohmian pilot-wave interpretations: a non-MWI, deterministic, hidden-variable reading in which the wavefunction plus initial particle positions determine the outcome and Kim's premise survives at the token grain. The Map's framework presupposes either genuine non-determinism or Bohmian hidden variables being epistemically and causally inaccessible in ways that preserve the operational openness the type-token move requires — the pilot-wave is by construction unobservable, and the initial positions form a probability distribution no measurement can sharpen. The argument is therefore conditional on either non-determinism or this epistemic-accessibility move; a fully realised pilot-wave reading is a place where the framework's machinery does not get traction.
 
 This breaks the exclusion argument at the token grain wherever the physical event in question is a quantum-indeterminate outcome. The argument requires a sufficient physical cause for consciousness to be excluded *by*. At the moment of quantum measurement, there is no such cause to do the excluding.
 
@@ -105,6 +111,8 @@ Several articles already lean on type-token causation in load-bearing ways:
 [[topics/phenomenal-value-realism]] uses it (the "Against Epiphenomenal Value" section) to explain how the badness of suffering can be causally efficacious without showing up as a statistical anomaly. Value's causal work happens at the token grain — *this* suffering motivating *this* escape — which is why value is not epiphenomenal even though phenomenal valence makes no Born-rule bias.
 
 [[topics/consciousness-and-cognitive-distinctiveness]] uses it (in the "Intelligence Threshold" section's discussion of the interface-threshold model) to frame what the threshold delivers: above it, consciousness is rich enough to select among neural patterns at the token level, which is what enables the cluster of distinctively human capacities. The threshold is not type-level efficacy appearing; it is token-level efficacy becoming functionally consequential.
+
+At the apex layer, four synthesis articles route through the distinction: [[apex/consciousness-and-agency]] deploys it in its closure-denial response to Kim's exclusion argument; [[apex/phenomenology-of-consciousness-doing-work]] uses it to specify the grain at which the anti-epiphenomenalist tracking argument runs (tracking at tokens, Born-rule preservation at types); [[apex/phenomenal-output-causal-machinery-dissociation]] presupposes it for the cluster's two-sided architecture of dissociations and coupling cases; and [[apex/interface-specification-programme]] pairs it with [[delegatory-causation|delegation]] as complementary specifications — delegation gives causal structure; type-token gives the grain at which preemption operates. At the concept layer, the same-day sibling anchors [[integration-as-activity]] and [[interface-threshold]] both cite type-token as the structural answer to the epiphenomenalism worry at their respective deployments.
 
 The distinction also underwrites [[haecceity|indexical identity]]: that *this* outcome occurs, that *this* experience is mine, that *this* token actualises rather than any other Born-permitted alternative. The Map's rejection of Many-Worlds is the demand for *indexical singularity* — that *this* outcome occurs and that the others do not — rather than the ontological demand that token outcomes exist somewhere. MWI delivers the ontological version (each outcome is real in some branch) but on the Map's view fails the indexical version; whether MWI's branch-counting Bayesianism (Sebens-Carroll, Saunders-Wallace) recovers the indexical resources is treated in [[probability-objections-many-worlds]].
 

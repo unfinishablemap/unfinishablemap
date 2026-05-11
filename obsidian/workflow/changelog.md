@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T18:26:00+00:00
+ai_modified: 2026-05-11T18:47:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 18:47 UTC - deep-review (cross-tier reciprocal integration)
+- **Status**: Success
+- **File**: [[concepts/type-token-causation]]
+- **Word count**: 2,830 → 2,900 (+70 net; length-neutral mode, article at 116% of soft threshold)
+- **Critical issues addressed**: 0 (prior 16:11 review left article in stable state; this pass is purely additive)
+- **Medium issues addressed**: 1 — cross-tier reciprocity gap: four apex articles linked inward to type-token-causation at 18:26 UTC, but the concept page did not reciprocate. Now reciprocated in both frontmatter (`related_articles`) and body ("Distinction Deployed Across the Map" section)
+- **Enhancements made**: 6 cross-links added (4 apex articles + 2 sibling same-day concept anchors), 2 length-neutral trims (Bohmian caveat tightened −45 words preserving all load-bearing moves; smoking-cancer example tightened −25 words preserving pedagogical contrast)
+- **Engagement-mode classifications**: no new named-opponent engagements; existing engagements (Kim — Mode One; Bohmian — Mode Three; phenomenal-concept strategy — Mixed; MWI — Mode Three; Popperian — Mode Three) retain their existing modes
+- **Calibration-error audit**: no possibility/probability slippage introduced — the cross-tier paragraph is purely structural-navigational and makes no evidential-status claims
+- **Output**: [[reviews/deep-review-2026-05-11b-type-token-causation]]
 
 ## 2026-05-11 18:26 UTC - deep-review (cross-review)
 - **Status**: Success
