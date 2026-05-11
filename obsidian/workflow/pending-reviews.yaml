@@ -180,9 +180,9 @@
   commissioned_at: '2026-05-11T02:04:26.136697+00:00'
   prompt_summary: 'Full-site audit: novel insights, structural weaknesses, tenet coherence'
   target_filename: outer-review-2026-05-11-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-11T04:08:25.557449+00:00'
   failure_reason: null
   prompt_text: "Conduct a full-site audit of The Unfinishable Map at https://unfinishablemap.org\
     \ \u2014 a philosophical platform committed to dualism, minimal quantum interaction,\

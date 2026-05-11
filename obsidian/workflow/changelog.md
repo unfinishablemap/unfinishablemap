@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 03:31:00+00:00
+ai_modified: 2026-05-11 04:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 04:30 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-05-11-chatgpt-5-5-pro]]
+- **Subject**: Full-site audit (subject_type=site; fallback:site-stale-7d)
+- **Claims verified**: 3 (free-will substance-dualism commitment line 76; machine-question opening line 61 + closing line 184; decision-void MWI dissolution line 108) — all corroborated
+- **High-value findings**: 8 (one sharp cross-cluster contradiction, three coherence-with-tenets gaps, four novel inferences). Headline diagnosis: "confidence drift" as the Map's recurring weakness — tenet-coherent possibility becoming explanatory fit becoming evidence
+- **Tasks generated**: 8 (P1: 4, P2: 4) — Free Will vs Decision Void resolution, tenets-page agency-cluster substance flag, causal-budget ledger project doc, Bidirectional Interaction grounding clarification, post-decoherence demotion of quantum-biology, three-way causally-coupled/report-grounded/inherited-discourse distinction, Machine/Open Question headline harmonisation, common-cause-null governing voids catalogue
+- **Convergent finding**: causal-budget ledger task echoes the 2026-05-08 outer-review tension around dualism-as-AI-risk unbounded-arena reasoning; both pressure-tested whether MQI's "minimal" is a measurable constraint or a global escape hatch
+- **Methodology recommendations preserved in review file** (not converted to tasks): claim-dependency graph, confidence-inheritance rendering, overclaim ledger, replication-status badges — these are platform-feature work rather than content tasks
 
 ## 2026-05-11 03:31 UTC - deep-review
 - **Status**: Success
