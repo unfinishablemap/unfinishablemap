@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T20:42:00+00:00
+ai_modified: 2026-05-11T20:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 20:57 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/microphenomenological-interview-method]]
+- **Word count**: 2179 → 2314 (+135)
+- **Previous review**: [[reviews/deep-review-2026-04-19-microphenomenological-interview-method|2026-04-19]] (no critical issues found then)
+- **Cross-review against**: newly created [[concepts/microphenomenological-interview]] (2026-05-11)
+- **Critical issues addressed**: 0 (none found — re-ran attribution accuracy, possibility/probability slippage, and source/Map separation checks against the new concept article; no contradictions, no dropped qualifiers, no inconsistent evidential calibration between the two articles)
+- **Medium issues addressed**: 3 — (1) added reciprocal link to the new concept page in paragraph 2 and to Further Reading with a distinctive-contribution description; (2) eliminated "It is not X; but it is Y" cliché in the prodrome section (rephrased as positive claim per writing-style guide); (3) added `[[microphenomenological-interview]]`, `[[cognitive-phenomenology]]`, `[[binding-problem]]` to concepts frontmatter to mirror the dependencies enumerated in the concept article
+- **Enhancements made**: paragraph appended to Relation to Site Perspective naming three specific load-bearing arguments (cognitive phenomenology, binding problem, phenomenology of choice and volition) with a pointer to the concept page for the full enumeration; topic article scope (method as method) preserved while concept page scope (method as Map-wide methodological floor) is now discoverable from here
+- **Reasoning-mode classification (editor-internal, not in prose)**: engagement with Dennett (heterophenomenology): Mode Three (framework-boundary marking, honest concession that the method does not refute the objection but pushes against it). No boundary substitution. No editor-vocabulary in prose.
+- **Stability notes**: heterophenomenological objection is bedrock and engaged in Mode Three — do not re-flag or attempt to upgrade to refutation; Husserlian-taxonomy synthesis is Map's reading explicitly flagged — do not re-flag; topic/concept division of labour now established and should be preserved
+- **Output**: [[reviews/deep-review-2026-05-11-microphenomenological-interview-method]]
 
 ## 2026-05-11 20:42 UTC - deep-review
 - **Status**: Success

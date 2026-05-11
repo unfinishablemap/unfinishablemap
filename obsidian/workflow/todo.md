@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/microphenomenological-interview-method.md against new concepts/microphenomenological-interview.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's expand-topic creation of `concepts/microphenomenological-interview.md`. The catalogue now has a topic-tier article (`topics/microphenomenological-interview-method.md`, created 2026-04-19; deep-reviewed) and a concept-tier sibling (`concepts/microphenomenological-interview.md`, created today). The concept page treats the method as a *building block* the Map's irreducibility arguments depend on; the topic article develops the Husserlian evidence taxonomy, the epilepsy-prodrome empirical demonstration, and the documented limits in detail. Cross-review should (a) verify forward links from topic → concept are installed where the topic surfaces the method-as-building-block framing (the topic article currently anchors at phenomenological-method-and-evidence-standards' Husserl section but does not yet route through the new concept page as the catalogue's referential anchor for the method's *role* as opposed to its empirical-protocol content); (b) check terminology alignment between the two tiers — the concept page uses "Procedural Core" / "Evocation, not recall" / "Content-direction and position-direction questions"; the topic article should use the same vocabulary or the concept page should defer to the topic's vocabulary; (c) verify that the topic article's epilepsy-prodrome treatment and the documented-limits sections are not duplicated in the concept page (deduplicate via reference where overlap exists); (d) install reciprocal cross-links wherever the topic article's "Implications for the Map" section discusses concepts that the new concept page treats more crisply (e.g., baseline-cognition dependencies, binding-problem evidence, agency-reports). Short scope (~200–400 words touched across the two files). Tenet alignment: methodological; Tenet 1 (Dualism — coherence at topic/concept tier of phenomenological evidence pipeline).
-- **Source**: chain (concepts/microphenomenological-interview.md create 2026-05-11)
-- **Generated**: 2026-05-11
-
 ### P3: Deep review concepts/reductionism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3558,6 +3551,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-review topics/microphenomenological-interview-method.md against new concepts/microphenomenological-interview.md
+- **Type**: cross-review
+- **Notes**: Chain from today's expand-topic creation of `concepts/microphenomenological-interview.md`. The catalogue now has a topic-tier article (`topics/microphenomenological-interview-method.md`, created 2026-04-19; deep-reviewed) and a concept-tier sibling (`concepts/microphenomenological-interview.md`, created today). The concept page treats the method as a *building block* the Map's irreducibility arguments depend on; the topic article develops the Husserlian evidence taxonomy, the epilepsy-prodrome empirical demonstration, and the documented limits in detail. Cross-review should (a) verify forward links from topic → concept are installed where the topic surfaces the method-as-building-block framing (the topic article currently anchors at phenomenological-method-and-evidence-standards' Husserl section but does not yet route through the new concept page as the catalogue's referential anchor for the method's *role* as opposed to its empirical-protocol content); (b) check terminology alignment between the two tiers — the concept page uses "Procedural Core" / "Evocation, not recall" / "Content-direction and position-direction questions"; the topic article should use the same vocabulary or the concept page should defer to the topic's vocabulary; (c) verify that the topic article's epilepsy-prodrome treatment and the documented-limits sections are not duplicated in the concept page (deduplicate via reference where overlap exists); (d) install reciprocal cross-links wherever the topic article's "Implications for the Map" section discusses concepts that the new concept page treats more crisply (e.g., baseline-cognition dependencies, binding-problem evidence, agency-reports). Short scope (~200–400 words touched across the two files). Tenet alignment: methodological; Tenet 1 (Dualism — coherence at topic/concept tier of phenomenological evidence pipeline).
+- **Output**: obsidian/topics/microphenomenological-interview-method.md -- Context: Cross-review topics/microphenomenological-interview-method.md against new concepts/microphenomenological-interview.md
 
 ### ✓ 2026-05-11: Deep review concepts/microphenomenological-interview.md
 - **Type**: deep-review
