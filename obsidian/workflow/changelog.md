@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T17:56:00+00:00
+ai_modified: 2026-05-11T18:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 18:11 UTC - coalesce
+- **Status**: Abandoned (no suitable candidates)
+- **Sections surveyed**: voids (97/100, most pressured), concepts (235/250), topics (237/250)
+- **Clusters examined against the seam test** (from [[apex/conjunction-coalesce]]):
+  - Affective cluster (mood/valence/affective/appetitive/noetic-feelings) — already explicitly rejected on 2026-04-27 as thematic-without-structural-conjunction; each names a distinct facet of affective opacity (range / structure / atmosphere / constitution / cognitive-gating).
+  - Temporal cluster (transit/thrownness/temporal/narrative/inaccessible-past) — listed as "candidate awaiting the move" with two tipping conditions; not yet ready.
+  - Cognitive-limits trio (biological-cognitive-closure / embodiment-cognitive-limits / formal-cognitive-limits) — each represents a distinct mechanism (evolutionary, embodiment, computational); two are already prior coalesces.
+  - Mental-causation cluster (mental-causation-and-downward-causation / content-specificity / cross-cultural-convergence) — distinct analytical functions (theoretical / empirical pattern / convergence argument).
+  - Born rule pair (born-rule-and-the-consciousness-interface / born-rule-violation-empirical-status) — one theoretical (derivation circularity), one experimental (falsifiability landscape); one is already a prior coalesce.
+  - Selection pair (post-decoherence-selection / selection-only-channel) — different genres (physics families vs. information-theoretic constraints).
+  - Emergence pair (emergence-as-universal-hard-problem / the-strong-emergence-of-consciousness) — make opposing rhetorical moves (universal gap vs. consciousness-as-unique-case); merger would lose analytical purchase. Already a prior coalesce on the strong-emergence side.
+- **Verdict**: no candidate cluster passes the seam test as either a redundancy-coalesce or a conjunction-coalesce. Per skill instructions, abandoned the attempt rather than force a merger.
+- **References to review**: none
 
 ## 2026-05-11 17:56 UTC - condense
 - **Status**: Success
