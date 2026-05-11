@@ -4,7 +4,7 @@ description: "Type-token causation distinguishes statistical type-level effects 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T14:56:00+00:00
+ai_modified: 2026-05-11T15:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ Kim acknowledged that his argument generalises uncomfortably. If physical micro-
 
 ## The Type-Token Distinction
 
-The distinction between types and tokens is a standard piece of conceptual machinery from C.S. Peirce, applied to causation by — among others — Donald Davidson and later Cynthia and Graham Macdonald and Stephen Yablo. A *type* is a repeatable kind; a *token* is a particular dated instance. The word "the" appearing twice in a sentence is two tokens of one type.
+The distinction between types and tokens is a standard piece of conceptual machinery from C.S. Peirce, applied to causation by — among others — Donald Davidson and later Cynthia and Graham Macdonald and Stephen Yablo. (Davidson's own use of the distinction in *Mental Events* supported anomalous monism, a token-identity physicalism; the inheritance here is conceptual rather than doctrinal, and the present interactionist reading is not Davidson's own.) A *type* is a repeatable kind; a *token* is a particular dated instance. The word "the" appearing twice in a sentence is two tokens of one type.
 
 Applied to causation:
 
@@ -61,11 +61,13 @@ Applied to causation:
 
 **Token-level causation** is a relation between particular events: that *this particular pain*, at 14:56 on 11 May 2026, caused *this particular withdrawal of this particular hand*. Token-level causal claims pick out the specific causal history of the particular event, not the population-level regularity.
 
-The two grains can come apart. Smoking causes cancer at the type level (statistical bias across a population) without causing cancer in any particular smoker who happens not to develop it. A particular quantum-mechanically random event has a token outcome with no type-level cause biasing the statistics. The distinction does not by itself defeat the exclusion argument — it sharpens the question: at which grain does the argument's premise of *sufficient* physical cause actually hold?
+The two grains can come apart. Smoking causes cancer at the type level (a statistical bias across the smoker population) without entailing that any *particular* smoker's cancer was caused by smoking, or that smoking-induced cancer occurs in every smoker; type-level claims are silent on tokens. Conversely, a particular quantum-mechanically random event has a token outcome with no type-level cause biasing the statistics. The distinction does not by itself defeat the exclusion argument — it sharpens the question: at which grain does the argument's premise of *sufficient* physical cause actually hold?
 
 ## The Quantum-Indeterminacy Limit
 
 Kim's premise of sufficient physical causation is a *type-level* premise dressed in token-level grammar. It says: for every physical event token, there is a sufficient physical cause token. But in quantum mechanics — under any non-Many-Worlds interpretation (see [[tenets#^no-many-worlds|Tenet 4]]) — this is false. Physics specifies the probability that a given electron will be measured spin-up; nothing physical determines *whether* this particular measurement yields spin-up. The Schrödinger equation is deterministic for the wavefunction; the measurement outcome is genuinely undetermined by anything physical.
+
+Strictly, this excludes Bohmian pilot-wave interpretations, in which the wavefunction plus a hidden initial particle position determine the measurement outcome. Bohm is a non-MWI, deterministic, hidden-variable interpretation, and under it Kim's premise survives at the token grain. The Map's framework presupposes either that the correct interpretation is genuinely non-deterministic, or that Bohmian hidden variables are themselves epistemically and causally inaccessible in ways that preserve the operational openness the type-token move requires — the pilot-wave is by construction unobservable, and the initial positions form a probability distribution no measurement can sharpen. The argument that follows is therefore strictly conditional on either non-determinism or this Bohmian epistemic-accessibility move; a fully realised pilot-wave reading is a place where the framework's machinery does not get traction.
 
 This breaks the exclusion argument at the token grain wherever the physical event in question is a quantum-indeterminate outcome. The argument requires a sufficient physical cause for consciousness to be excluded *by*. At the moment of quantum measurement, there is no such cause to do the excluding.
 
@@ -85,15 +87,23 @@ The distinction does several distinct pieces of philosophical work.
 
 **It refuses the false trichotomy of (reduction, epiphenomenalism, overdetermination).** Kim's argument forces a choice among these three only if every physical event has a sufficient physical cause. Once quantum indeterminacy supplies a fourth option — *no sufficient physical cause to begin with* — conscious selection takes the token outcome without overdetermining anything. [[delegatory-causation|Saad's delegatory framework]] supplies a parallel structure at a different level: the physical state's *default causal profile* is preempted by the experience, with one cause operating and the other sidelined rather than both contributing.
 
+## The Phenomenal-Concept Alternative
+
+The type-token route is not the only physicalist-respectable answer to the epiphenomenalism worry. The most-discussed alternative — the phenomenal-concept strategy (Loar 1990; Papineau 2002; Frankish 2016) — argues that reports about phenomenal states are reliable because phenomenal concepts are themselves physically-realised representational states that refer to the very physical states the reports are about. The causal chain runs entirely through the physical substrate: qualia do not need to cause beliefs about qualia, because the physical states producing the reports just *are* the states the reports are about. This is a *type-level* defence of mental-causation talk. It secures the reliability of phenomenal reports across the population without invoking any token-level mental-to-physical causation, and so does not require quantum indeterminacy, downward selection, or the type-token machinery developed above.
+
+The Map prefers the type-token route for two reasons. First, the phenomenal-concept strategy delivers reliability for *reports* but not mental causation of *behaviour*: it explains why I correctly say "I am in pain" without explaining why pain *makes* me withdraw my hand. The type-token framework delivers both. Second, the strategy purchases its reliability at the cost of holding that introspective access to phenomenal character runs through purely physical representational vehicles — which makes the apparent causal role of consciousness in deliberation and action a user-illusion of the kind eliminativists endorse. The Map takes the deliverances of introspection more seriously than the strategy permits and reads the apparent causal role of consciousness in action as evidence to be vindicated rather than explained away. The type-token machinery is the structure that vindication requires.
+
+The two approaches are not strictly incompatible: a Map-style framework could in principle accept the phenomenal-concept strategy's account of report-reliability while still insisting on token-level mental causation for behavioural efficacy. But the type-token machinery is the operational core of the Map's anti-epiphenomenalist position, and the articles routing through this page deploy it accordingly rather than treating phenomenal concepts as the load-bearing answer.
+
 ## The Distinction Deployed Across the Map
 
 Several articles already lean on type-token causation in load-bearing ways:
 
-[[topics/consciousness-and-integrated-information]] uses it (lines 67–81 of that article) to answer the parallel exclusion charge against the Map's own quantum selection framework. The argument: IIT cannot make the type-token move because identifying consciousness with the integrated information structure leaves nothing for consciousness to select among. The Map's framework can make the move because consciousness operates on quantum indeterminacies that the integrated structure does not, by itself, resolve.
+[[topics/consciousness-and-integrated-information]] uses it (in the "Does Quantum Selection Escape This Charge?" section) to answer the parallel exclusion charge against the Map's own quantum selection framework. The argument: IIT cannot make the type-token move because identifying consciousness with the integrated information structure leaves nothing for consciousness to select among. The Map's framework can make the move because consciousness operates on quantum indeterminacies that the integrated structure does not, by itself, resolve.
 
 [[topics/phenomenal-value-realism]] uses it (the "Against Epiphenomenal Value" section) to explain how the badness of suffering can be causally efficacious without showing up as a statistical anomaly. Value's causal work happens at the token grain — *this* suffering motivating *this* escape — which is why value is not epiphenomenal even though phenomenal valence makes no Born-rule bias.
 
-[[topics/consciousness-and-cognitive-distinctiveness]] uses it (the interface-threshold section) to frame what the threshold delivers: above it, consciousness is rich enough to select among neural patterns at the token level, which is what enables the cluster of distinctively human capacities. The threshold is not type-level efficacy appearing; it is token-level efficacy becoming functionally consequential.
+[[topics/consciousness-and-cognitive-distinctiveness]] uses it (in the "Intelligence Threshold" section's discussion of the interface-threshold model) to frame what the threshold delivers: above it, consciousness is rich enough to select among neural patterns at the token level, which is what enables the cluster of distinctively human capacities. The threshold is not type-level efficacy appearing; it is token-level efficacy becoming functionally consequential.
 
 The distinction also underwrites [[haecceity|indexical identity]]: that *this* outcome occurs, that *this* experience is mine, that *this* token actualises rather than any other Born-permitted alternative. The Map's rejection of Many-Worlds is largely the demand that token outcomes be metaphysically real — that the question "why *this* one?" have an answer.
 
@@ -109,7 +119,9 @@ Second, falsifiability survives at other points. The Map's framework predicts th
 
 Third, [[selection-only-mind-influence|information-theoretic limits]] on per-event selection — bounded by ε²/(2 ln 2) bits per trial under Born-rule preservation — give the framework testable structure: if conscious selection appeared to exceed these limits, the Map's specific account of how token selection respects type-level statistics would be falsified.
 
-The detection problem is real. The framework's response is not to deny it but to argue that token-level causation is genuine causation in any case where token outcomes are not type-level necessitated — and that the Map's structural proposal earns its keep by explaining how mental causation can satisfy this looser condition.
+It is worth stating this in the strongest form a Popperian would press. The Map's central causal claim — that consciousness selects token outcomes at quantum indeterminacies — is unfalsifiable by direct observation, by construction. The three responses above do not change this; they relocate falsifiability onto neighbouring empirical commitments rather than meeting the unfalsifiability charge against the central claim itself. The framework's overall standing therefore depends entirely on whether those supporting commitments earn their keep: that warm-brain quantum coherence on cognitively relevant timescales is possible, that attention correlates with quantum-level events in specifiable ways, and that classical neural determinism remains incomplete in the right places. If those commitments dissolve under sustained scrutiny, the central claim has no remaining hooks. This is a real cost of the position, not a feature, and the framework is honest only when it owns the cost in those terms.
+
+The detection problem is real. The framework's response is not to deny it but to argue that token-level causation is genuine causation in any case where token outcomes are not type-level necessitated — and that the Map's structural proposal earns its keep, conditional on the supporting empirical commitments above, by explaining how mental causation can satisfy this looser condition.
 
 ## Relation to Site Perspective
 
@@ -139,11 +151,29 @@ The combination is what makes the Map's framework *parsimonious without being de
 ## References
 
 1. Davidson, D. (1970). Mental events. In L. Foster & J. W. Swanson (Eds.), *Experience and Theory*. University of Massachusetts Press.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Loar, B. (1990). Phenomenal states. *Philosophical Perspectives*, 4, 81–108.
 1. Macdonald, C., & Macdonald, G. (1986). Mental causes and explanation of action. *Philosophical Quarterly*, 36(143), 145–158.
+1. Papineau, D. (2002). *Thinking About Consciousness*. Oxford University Press.
 1. Peirce, C. S. (1906). Prolegomena to an apology for pragmaticism. *The Monist*, 16(4), 492–546.
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939–967.
 1. Yablo, S. (1992). Mental causation. *Philosophical Review*, 101, 245–280.
 1. Southgate, A. &amp; Oquatre-six, C. (2026-01-15). Mental Causation and Downward Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation-and-downward-causation/
 1. Southgate, A. &amp; Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
+
+<!-- AI REFINEMENT LOG - 2026-05-11
+Addressed pessimistic-2026-05-11b Issues 1, 2, 4, 6, 7, 9:
+- Issue 1 (High): Added Bohmian pilot-wave caveat after the quantum-indeterminacy claim, bracketing Bohm via the epistemic-accessibility move and flagging the conditional structure of the argument.
+- Issue 2 (High): Added new section "The Phenomenal-Concept Alternative" between "What Type-Token Causation Buys" and "The Distinction Deployed Across the Map", acknowledging Loar/Papineau/Frankish as a type-level defence and stating the Map's two reasons for preferring the type-token route (covers behaviour as well as reports; takes introspective testimony at face value rather than as user-illusion).
+- Issue 4 (Medium): Added explicit unfalsifiability acknowledgment to "The Detection Problem" — the central claim is unfalsifiable by direct observation by construction; falsifiability comes entirely from supporting empirical commitments.
+- Issue 6 (Low): Rewrote smoking-cancer example so it no longer implies smoking causally affects the non-developer.
+- Issue 7 (Low): Added parenthetical noting Davidson's actual position (anomalous monism, token-identity physicalism) so the citation does not appear to misappropriate him.
+- Issue 9 (Low): Replaced "lines 67–81 of that article" with the named "Does Quantum Selection Escape This Charge?" section; tightened the cognitive-distinctiveness reference to the "Intelligence Threshold" section's interface-threshold discussion.
+- Added references: Frankish 2016, Loar 1990, Papineau 2002.
+- Updated ai_modified timestamp.
+
+This log should be removed after human review.
+-->
+

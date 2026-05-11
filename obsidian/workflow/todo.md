@@ -105,14 +105,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-05-11
 
-### P2: Address pessimistic-2026-05-11b high-severity issues in concepts/type-token-causation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-05-11b found two High-severity issues in this concept page: (1) the central premise at line 68 ("under any non-Many-Worlds interpretation, this is false") overlooks Bohmian (pilot-wave) mechanics, a non-MWI deterministic hidden-variable interpretation where token outcomes *are* fully determined; either bracket Bohm with an epistemic-accessibility caveat ("Bohmian hidden variables are themselves epistemically and causally inaccessible in ways that preserve the operational openness the type-token move requires") or narrow the claim to "under any non-deterministic, non-MWI interpretation"; (2) the phenomenal-concept strategy (Frankish, Papineau, Loar) is unengaged despite the article resting its operational case against epiphenomenalism on the type-token distinction — add a short subsection acknowledging that the phenomenal-concept strategy is a *type-level* defence of mental-causation talk that does not require the type-token machinery, and note where the Map prefers the type-token route and why. Also address Medium issue: detection-problem section labels its responses "partial" but doesn't face the direct unfalsifiability of the central claim — add an explicit acknowledgment that the central causal claim is unfalsifiable by direct observation by construction and the framework's falsifiability comes entirely from supporting empirical commitments. Three Low-severity polish items also flagged: smoking-cancer example misstated (line 64), Davidson 1970 citation needs parenthetical disclaiming anomalous-monism appropriation (line 56), line-number citations (lines 92, 94, 96) should be replaced with named-anchor citations. See [[reviews/pessimistic-2026-05-11b]] Issues 1, 2, 4, 6, 7, 9.
-- **Review file**: `reviews/pessimistic-2026-05-11b.md`
-- **Source**: pessimistic-review (2026-05-11b)
-- **Generated**: 2026-05-11
-
 ### P2: Address pessimistic-2026-05-11b high-severity issues in concepts/integration-as-activity.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3543,6 +3535,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Address pessimistic-2026-05-11b high-severity issues in concepts/type-token-causation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-11b found two High-severity issues in this concept page: (1) the central premise at line 68 ("under any non-Many-Worlds interpretation, this is false") overlooks Bohmian (pilot-wave) mechanics, a non-MWI deterministic hidden-variable interpretation where token outcomes *are* fully determined; either bracket Bohm with an epistemic-accessibility caveat ("Bohmian hidden variables are themselves epistemically and causally inaccessible in ways that preserve the operational openness the type-token move requires") or narrow the claim to "under any non-deterministic, non-MWI interpretation"; (2) the phenomenal-concept strategy (Frankish, Papineau, Loar) is unengaged despite the article resting its operational case against epiphenomenalism on the type-token distinction — add a short subsection acknowledging that the phenomenal-concept strategy is a *type-level* defence of mental-causation talk that does not require the type-token machinery, and note where the Map prefers the type-token route and why. Also address Medium issue: detection-problem section labels its responses "partial" but doesn't face the direct unfalsifiability of the central claim — add an explicit acknowledgment that the central causal claim is unfalsifiable by direct observation by construction and the framework's falsifiability comes entirely from supporting empirical commitments. Three Low-severity polish items also flagged: smoking-cancer example misstated (line 64), Davidson 1970 citation needs parenthetical disclaiming anomalous-monism appropriation (line 56), line-number citations (lines 92, 94, 96) should be replaced with named-anchor citations. See [[reviews/pessimistic-2026-05-11b]] Issues 1, 2, 4, 6, 7, 9.
+- **Output**: obsidian/concepts/type-token-causation.md
+
+Task context:
+Pessimistic review 2026-05-11b found two High-severity issues in this concept page: (1) the central premise at line 68 ("under any non-Many-Worlds interpretation, this is false") overlooks Bohmian (pilot-wave) mechanics, a non-MWI deterministic hidden-variable interpretation where token outcomes *are* fully determined; either bracket Bohm with an epistemic-accessibility caveat ("Bohmian hidden variables are themselves epistemically and causally inaccessible in ways that preserve the operational openness the type-token move requires") or narrow the claim to "under any non-deterministic, non-MWI interpretation"; (2) the phenomenal-concept strategy (Frankish, Papineau, Loar) is unengaged despite the article resting its operational case against epiphenomenalism on the type-token distinction — add a short subsection acknowledging that the phenomenal-concept strategy is a *type-level* defence of mental-causation talk that does not require the type-token machinery, and note where the Map prefers the type-token route and why. Also address Medium issue: detection-problem section labels its responses "partial" but doesn't face the direct unfalsifiability of the central claim — add an explicit acknowledgment that the central causal claim is unfalsifiable by direct observation by construction and the framework's falsifiability comes entirely from supporting empirical commitments. Three Low-severity polish items also flagged: smoking-cancer example misstated (line 64), Davidson 1970 citation needs parenthetical disclaiming anomalous-monism appropriation (line 56), line-number citations (lines 92, 94, 96) should be replaced with named-anchor citations. See [[reviews/pessimistic-2026-05-11b]] Issues 1, 2, 4, 6, 7, 9.
+
+Review file: reviews/pessimistic-2026-05-11b.md
 
 ### ✓ 2026-05-11: Write concept page on integration-as-activity (the IIT critique's central alternative framing) [promoted 2026-05-11]
 - **Type**: expand-topic

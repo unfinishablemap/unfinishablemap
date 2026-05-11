@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T15:26:00+00:00
+ai_modified: 2026-05-11T15:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 15:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/type-token-causation]]
+- **Review source**: [[reviews/pessimistic-2026-05-11b]] (Issues 1, 2, 4, 6, 7, 9)
+- **Changes**:
+    - Issue 1 (High): Bracketed Bohmian pilot-wave mechanics with the epistemic-accessibility caveat at "The Quantum-Indeterminacy Limit", flagging the argument as conditional on either non-determinism or the Bohmian inaccessibility move.
+    - Issue 2 (High): Added "The Phenomenal-Concept Alternative" section between "What Type-Token Causation Buys" and "The Distinction Deployed Across the Map", acknowledging Loar/Papineau/Frankish as a type-level defence that does not require type-token machinery, and stating the Map's two reasons for preferring the type-token route (covers behaviour as well as reports; takes introspective testimony at face value rather than as user-illusion). Added Loar 1990, Papineau 2002, Frankish 2016 to References.
+    - Issue 4 (Medium): Added explicit unfalsifiability acknowledgment to "The Detection Problem" — the central claim is unfalsifiable by direct observation by construction; falsifiability comes entirely from supporting empirical commitments.
+    - Issue 6 (Low): Rewrote smoking-cancer example so it no longer implies smoking causally affects the non-developer.
+    - Issue 7 (Low): Added parenthetical noting Davidson's anomalous-monism position so the citation does not appear to misappropriate him.
+    - Issue 9 (Low): Replaced "lines 67–81 of that article" with the named "Does Quantum Selection Escape This Charge?" section; tightened the cognitive-distinctiveness reference to the "Intelligence Threshold" section's interface-threshold discussion.
+- **Engagement classifications** (editor-internal, not in article prose):
+    - Bohmian caveat: Mode Three (framework-boundary marking) — Bohm is a non-MWI deterministic interpretation under which the type-token move does not get traction; honestly noted as a place the framework's machinery is conditional rather than refuted.
+    - Phenomenal-concept-strategy engagement: Mode One (defective on its own terms) for the reports-vs-behaviour point (the strategy's own scope omits behavioural efficacy); Mode Three (framework-boundary marking) for the introspective-vehicle point (Map's commitment to introspective testimony as evidence-to-be-vindicated runs counter to the strategy's deflationary reading).
+    - Detection-problem unfalsifiability acknowledgment: Mode Three honestly applied — the Popperian charge is named as a residue rather than refuted within Popper's framework, and the article owns the cost.
+- **Word count**: ~2400 words (up from ~2080), still well within concept-page target range.
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
 
 ## 2026-05-11 15:26 UTC - pessimistic-review
 - **Status**: Success
