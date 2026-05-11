@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T14:41:00+00:00
+ai_modified: 2026-05-11T14:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 14:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Type-token causation (Kim's exclusion and its quantum-indeterminacy limit)
+- **Output**: [[concepts/type-token-causation]]
+- **Word count**: 2081 words (83% of 2500 soft max; within concept target range)
+- **Based on research**: No (anchored on existing treatment in `topics/consciousness-and-integrated-information.md` lines 67–81, with deployments in `phenomenal-value-realism.md` and `consciousness-and-cognitive-distinctiveness.md`)
+- **Source treatment**: Lifts the type/token distinction from the IIT article and gives it a stand-alone concept anchor; catalogues deployments across three topic articles; names the detection problem honestly; cross-links `causal-budget-ledger` deferred (`concepts/causal-budget-ledger.md` not yet promoted from `project/`).
+- **Tenet alignment**: Tenet 2 (Minimal Quantum Interaction — "minimal" = type-level invisibility) and Tenet 3 (Bidirectional Interaction — real at the token grain). The article frames the distinction as operationalising both without overcommitting on either.
+- **Self-citations**: Two added (`mental-causation-and-downward-causation`, `causal-closure`) — both genuinely load-bearing in the article's argument structure.
+- **Attribution discipline checks**:
+    - Kim's exclusion argument paraphrased with hedge "in its most direct form"; one paraphrased quote attributed correctly.
+    - Type-token distinction credited to Peirce / Davidson / Macdonald & Macdonald / Yablo — not to Kim, who is the *target* of the type-token response.
+    - Map's framework (quantum indeterminacy as the limit on Kim's premise) clearly separated from source exposition in a "Quantum-Indeterminacy Limit" H2 and the "Relation to Site Perspective" H2.
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
 
 ## 2026-05-11 14:41 UTC - deep-review
 - **Status**: Success

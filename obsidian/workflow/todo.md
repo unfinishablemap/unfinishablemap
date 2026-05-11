@@ -3518,13 +3518,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-06)
 - **Generated**: 2026-05-06
 
-### P2: Write concept page on type-token causation (Kim's exclusion and its quantum-indeterminacy limit) [promoted 2026-05-11]
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-11 (High Priority). The type-token-causation distinction is load-bearing across at least three topic articles without a referential anchor: `topics/consciousness-and-integrated-information.md` lines 67–81 install the most developed treatment (Kim's exclusion argument plus the type-token distinction as the response: at the type level, consciousness adds nothing beyond statistical regularities; at the token level, consciousness determines which particular outcome actualises in this specific instance, and Kim's exclusion does not apply because the physical laws themselves leave the token outcome undetermined); `topics/phenomenal-value-realism.md` lines 167–172 (epiphenomenal value section) presupposes the distinction; `topics/consciousness-and-cognitive-distinctiveness.md` lines 105–107 (interface threshold) implicitly leans on it. A concept page would (a) state Kim's exclusion argument at its strongest (Kim 2005), (b) install the type-token distinction with the IIT article's lines 67–81 as the source treatment, (c) catalogue the deployment of the distinction across at least three topic articles, (d) cross-link to `concepts/causal-budget-ledger` which operates at the type-level statistical-bandwidth grain — the two concepts are complementary: the budget bounds type-level bandwidth; type-token-causation explains why the token-level causal work survives the type-level statistical invisibility, (e) name the open question (how would we detect token-level causation experimentally?) honestly. Concepts/ section currently at ~232/250 = 93% capacity — verify cap before placement. Estimated scope: 1500–2000 words. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction) — the distinction operationalises *minimal* and *bidirectional* together without overcommitment. See [[reviews/optimistic-2026-05-11]].
-- **Source**: optimistic-review (2026-05-11)
-- **Generated**: 2026-05-11
-
 ### P2: Write concept page on integration-as-activity (the IIT critique's central alternative framing) [promoted 2026-05-11]
 - **Type**: expand-topic
 - **Status**: pending
@@ -3541,6 +3534,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Write concept page on type-token causation (Kim's exclusion and its quantum-indeterminacy limit) [promoted 2026-05-11]
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-11 (High Priority). The type-token-causation distinction is load-bearing across at least three topic articles without a referential anchor: `topics/consciousness-and-integrated-information.md` lines 67–81 install the most developed treatment (Kim's exclusion argument plus the type-token distinction as the response: at the type level, consciousness adds nothing beyond statistical regularities; at the token level, consciousness determines which particular outcome actualises in this specific instance, and Kim's exclusion does not apply because the physical laws themselves leave the token outcome undetermined); `topics/phenomenal-value-realism.md` lines 167–172 (epiphenomenal value section) presupposes the distinction; `topics/consciousness-and-cognitive-distinctiveness.md` lines 105–107 (interface threshold) implicitly leans on it. A concept page would (a) state Kim's exclusion argument at its strongest (Kim 2005), (b) install the type-token distinction with the IIT article's lines 67–81 as the source treatment, (c) catalogue the deployment of the distinction across at least three topic articles, (d) cross-link to `concepts/causal-budget-ledger` which operates at the type-level statistical-bandwidth grain — the two concepts are complementary: the budget bounds type-level bandwidth; type-token-causation explains why the token-level causal work survives the type-level statistical invisibility, (e) name the open question (how would we detect token-level causation experimentally?) honestly. Concepts/ section currently at ~232/250 = 93% capacity — verify cap before placement. Estimated scope: 1500–2000 words. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction) — the distinction operationalises *minimal* and *bidirectional* together without overcommitment. See [[reviews/optimistic-2026-05-11]].
+- **Output**: Write concept page on type-token causation (Kim's exclusion and its quantum-indeterminacy limit) [promoted 2026-05-11]
 
 ### ✓ 2026-05-11: Refine voids/voids.md to register translation-void, effort-void, and cognitive-phenomenology-void research (voids-cap-aware integration, no new articles)
 - **Type**: refine-draft
