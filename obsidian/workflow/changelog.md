@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T08:30:00+00:00
+ai_modified: 2026-05-11T08:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 08:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/type-specificity]]
+- **Previous review**: Never (first deep review)
+- **Word count**: 2071 → 2167 (+96; 87% of 2500 soft threshold — well below cap)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+  - Sharpened Popper-style criterion: what counts as "discharging the demand at redness" now operational ("derive redness specifically, not 'some phenomenal type or other'")
+  - Added framework-boundary marking for explananda-denying physicalist strategies (illusionism / heterophenomenology / eliminativism) in §What Type-Specificity Does Not Do
+- **Enhancements made**: 1 cross-link added ([[explanatory-gap]] inline in §The Structural Feature)
+- **Mode classification**: §What Type-Specificity Does Not Do "Defeat physicalism" bullet performs framework-boundary marking with respect to illusionism/heterophenomenology/eliminativism; honestly notes the disagreement at the framework boundary without claiming refutation inside opponent's framework; editor-vocabulary kept out of article prose
+- **Attribution check**: Quotes from convergence-argument-for-dualism and binding-problem verified against sources — match exactly; no source/Map conflation, no dropped qualifiers
+- **Calibration check**: Article makes no evidential-status claims for any organism; no possibility/probability slippage risk (purely methodological discipline)
+- **Stability notes**: Eliminativist/illusionist disagreement marked as bedrock framework-boundary; future reviews should not re-flag
+- **Output**: [[reviews/deep-review-2026-05-11-type-specificity]]
 
 ## 2026-05-11 08:30 UTC - refine-draft
 - **Status**: Success
