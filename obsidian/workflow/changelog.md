@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T11:50:00+00:00
+ai_modified: 2026-05-11T12:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 12:13 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section prioritised**: `voids/` (98/100, 98% full) — most pressured section.
+- **Candidates examined**:
+    - Affective family — [[voids/affective-void]], [[voids/valence-void]], [[voids/mood-void]], [[voids/appetitive-void]]: deliberately differentiated (range vs structure vs pervasiveness vs framing); valence-void explicitly distinguishes itself.
+    - Imagery / metaphor / recognition voids — each ~150-185 lines with distinct theoretical scaffolding.
+    - Cognitive-limits family ([[voids/biological-cognitive-closure]], [[voids/embodiment-cognitive-limits]], [[voids/collective-cognitive-limits]], [[voids/formal-cognitive-limits]], [[voids/self-maintained-cognitive-limits]]) — three already coalesced from prior pairs; each treats a distinct origin of limits (biological, embodied, social, formal, motivational).
+    - `topics/` metaphysics trio — [[topics/consciousness-and-the-metaphysics-of-composition]], [[topics/consciousness-and-the-metaphysics-of-individuation]], [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]: distinct questions; laws-and-dispositions already coalesced.
+    - Phenomenology pair — [[topics/phenomenology-of-cognitive-capacity]], [[topics/phenomenology-of-cognitive-limit-types]]: capacity already coalesced; orthogonal foci (bandwidth vs limit-type diagnosis).
+    - Born rule pair — [[topics/born-rule-and-the-consciousness-interface]] (already coalesced from 2 priors), [[topics/born-rule-violation-brain-interface-empirical-status]]: cleanest candidate but the theoretical/empirical split appears to be a navigational design choice; re-merging would produce a 400+ line article and undo the first's prior coalesce.
+- **Outcome**: Per skill guidance ("If after five iterations there are still no strong candidates, abandon the attempt and do not merge anything"), no merge performed. No source files modified, no archive entries created, no todo follow-ups generated.
+- **Note for tune-system**: section curation appears mature in the most-pressured clusters; future coalesce passes may need to wait for the next round of expand-topic creation to surface fresh duplication.
 
 ## 2026-05-11 11:50 UTC - refine-draft
 - **Status**: Success
