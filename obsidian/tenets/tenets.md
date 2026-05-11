@@ -3,7 +3,7 @@ title: Tenets
 created: 2026-01-02
 modified: 2026-01-02
 human_modified: 2026-01-02T14:18:31+00:00
-ai_modified: 2026-05-11T10:36:00+00:00
+ai_modified: 2026-05-11T12:20:00+00:00
 draft: false
 description: "Five commitments that bound every article on The Unfinishable Map—chosen starting points, not proofs, exploring consciousness and the limits of knowability."
 topics: []
@@ -23,6 +23,7 @@ related_articles:
   - "[[apex/post-decoherence-selection-programme]]"
   - "[[quantum-biology-and-neural-consciousness]]"
   - "[[agency-void]]"
+  - "[[phenomenal-concepts-strategy]]"
 ai_contribution: 15
 author: Andy Southgate
 ai_system: claude-opus-4-7
@@ -76,6 +77,8 @@ Consciousness is not a passive observer—it causally influences the physical wo
 **The [[concepts/epiphenomenalism|epiphenomenalist]] response:** A critic might argue that our discussions of consciousness are themselves just physical processes—neurons causing neurons, with no mental causation involved. We *believe* we are reporting on qualia, but this belief is itself just more neurons firing.
 
 **Why this is the deepest difficulty for epiphenomenalism rather than its refutation:** If consciousness were epiphenomenal, beliefs *about* consciousness would not be caused by the experiences themselves; reports about the redness of red would be produced by brain states with no causal traffic from the phenomenal facts. The Map takes that to be the deepest difficulty epiphenomenalism faces. The epiphenomenalist's best reply is also clear: a tight phenomenal-state-to-neural-state correlation can underwrite report-accuracy without phenomenal causation, so reports about consciousness can be reliable in virtue of the parallel rather than the cause. Whether the self-stultification objection then bites depends on whether knowledge of one's experience requires *causal traffic* from experience to belief—the causal-theory-of-knowledge premise De Brigard (2014) presses, treated symmetrically at [[agency-void#The Self-Stultification Symmetry|the agency void]]. The Map accepts this conditionality. Bidirectional Interaction is held because the alternative leaves report-reliability hanging on a contested epistemological premise the Map judges harder to sustain than the modest causal interface Tenet 2 already commits to—not because the self-stultification argument refutes epiphenomenalism from inside the epiphenomenalist's framework. The disagreement runs closer to bedrock than the standard self-stultification framing suggests, and the Map registers that honestly here rather than letting the reader infer a stronger result than the argument warrants. The further structural reason the introspective route does not close out is mapped in the [[agency-void|agency void]].
+
+**The phenomenal-concept strategy and where the dispute actually lives:** A stronger epiphenomenalist reply—the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] (Frankish 2016, Papineau 2002, Loar 1990, late Dennett)—handles the self-stultification objection more directly than the bare-correlation reply above. Reports about phenomenal states are produced by physical-physical causal chains, and phenomenal concepts are themselves physically realised representational states that refer to physical states of the same brain: the states producing the reports *are* the states the reports describe. Reports are causally connected to their referents without any phenomenal causation, and the self-undermining charge dissolves. The disagreement relocates rather than vanishes. The remaining dispute is whether the *mode of presentation* under which phenomenal concepts refer to brain states can be exhaustively physically characterised: the Map holds it cannot—the first-person mode of presentation, taken seriously, requires that mode to *be* something beyond what it refers to—while physicalists committed to the strategy affirm it can. The question is open; the live disagreement belongs there rather than at "epiphenomenalism is self-undermining," which the strongest version of the position survives.
 
 **Analogy:** Just as radioactive decay "chooses" whether Schrödinger's cat lives or dies by collapsing a superposition, consciousness may "choose" which of many superposed neural firing patterns becomes actual. The brain presents options; the mind selects.
 
@@ -161,6 +164,23 @@ Mode classification (editor-internal): Mode Two (unsupported foundational move).
 Coherence check: Article framing (BI is a starting point, not a conclusion from introspective evidence) now matches `obsidian/voids/agency-void.md` lines 156–158 verbatim in spirit. The reciprocal link is now installed at three levels: frontmatter related_articles, inline link in Rationale, inline link in the difficulty-not-refutation paragraph. Agency-void's existing six links to `tenets#^bidirectional-interaction` are preserved unchanged — they previously pointed at a page that overstated; they now point at a page that matches their framing.
 
 Calibration check: The tenet is not weakened (Definition unchanged; Rules out unchanged; the Map still rejects epiphenomenalism on the grounds stated). The argumentative structure is recalibrated: BI is presented as a metaphysical commitment supported by *converging considerations* (self-stultification as deepest difficulty for the opponent, comparative-cognition as corroborative pattern, modest causal interface from Tenet 2) rather than as a single-shot inference from "we discuss qualia."
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-11 (fifth pass)
+Changes made to Bidirectional Interaction section:
+- Added a new bolded subsection "The phenomenal-concept strategy and where the dispute actually lives" (~155 words) after the "Why this is the deepest difficulty for epiphenomenalism rather than its refutation" paragraph and before "Analogy:". The paragraph engages the phenomenal-concept strategy directly (Frankish 2016, Papineau 2002, Loar 1990, late Dennett): reports about phenomenal states are produced by physical-physical causal chains; phenomenal concepts are physically realised representational states referring to physical states of the same brain, so reports are causally connected to their referents without phenomenal causation, and the self-undermining charge dissolves on the strongest version of the position. Identifies the remaining live dispute as the mode-of-presentation question (the Map holds modes-of-presentation cannot be exhaustively physically characterised; physicalists committed to PCS affirm they can; the question is open). Closes by relocating the live disagreement to the mode-of-presentation question rather than at "epiphenomenalism is self-undermining," which the strongest version of the position survives.
+- Added [[phenomenal-concepts-strategy]] to frontmatter related_articles. Wikilink installed in the body.
+- Frontmatter: updated ai_modified to 2026-05-11T12:20:00+00:00.
+
+Based on pessimistic-2026-05-11 Issue 4 (Medium severity, distinct from the existing P2 Tenet 2 trade-offs task). The Bidirectional Interaction tenet's prior anti-epiphenomenalist engagement (now retained in the preceding paragraph) handled only the bare-correlation reply; the phenomenal-concept strategy is the stronger version Frankish, Papineau, Loar and late Dennett actually hold, and the standard self-undermining charge dissolves on it. The convergent 2026-05-11 outer reviews had flagged this gap for arguments/materialism-argument.md (refine completed 2026-05-11 11:05 UTC); the same omission was load-bearing at the tenets level and is now closed here.
+
+Mode classification (editor-internal): Mode One (in-framework engagement). Once the PCS version is on the table, the engagement is internal-to-the-opponent — the Map identifies the disputed step (the mode-of-presentation move) inside the strategy's own commitments, rather than appealing to tenet-incompatibility. The prior "Why this is the deepest difficulty..." paragraph remains valid against the weaker correlation-only reply and is preserved verbatim; the new paragraph addresses the stronger PCS version. Engagement classification kept editor-internal; the prose engages the opponent in natural journal-quality language ("the disagreement relocates rather than vanishes", "the live disagreement belongs there rather than at..."). No mode labels in article prose; no blacklisted editor-vocabulary terms used.
+
+Calibration check: The tenet's positive commitment (Rules out: pure epiphenomenalism) is unchanged. The argumentative structure has been deepened — the engagement now spans (a) the standard self-stultification objection, (b) the bare-correlation reply, (c) the PCS reply, and (d) the relocated dispute at the mode-of-presentation question. The "Why this is the deepest difficulty..." paragraph's "disagreement runs closer to bedrock" framing is preserved and now sharpened: the bedrock disagreement is specifically about whether modes-of-presentation can be exhaustively physically characterised, not the looser "self-stultification doesn't refute epiphenomenalism" framing. Convergent with the materialism-argument refine (2026-05-11 11:05 UTC) which engages the same strategy at the argument level; this tenet-level paragraph closes the foundational-source gap that the argument-level engagement could not reach alone.
+
+See reviews/pessimistic-2026-05-11 Issue 4.
 
 This log should be removed after human review.
 -->

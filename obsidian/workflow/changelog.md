@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T12:13:00+00:00
+ai_modified: 2026-05-11T12:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 12:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Driver**: pessimistic-2026-05-11 Issue 4 (Medium severity) — same-day self-review identified that Tenet 3's anti-epiphenomenalist engagement handled only the bare-correlation reply and did not engage the phenomenal-concept strategy (Frankish 2016, Papineau 2002, Loar 1990, late Dennett). The earlier 11:05 UTC refine of arguments/materialism-argument.md installed the PCS engagement at the argument level; this pass closes the foundational-source gap at the tenet level.
+- **Changes** (~155 words added):
+    - Added a new bolded subsection to Tenet 3 between "Why this is the deepest difficulty..." and "Analogy:" titled "The phenomenal-concept strategy and where the dispute actually lives." Engages PCS directly: reports about phenomenal states are produced by physical-physical causal chains; phenomenal concepts are physically realised representational states referring to physical states of the same brain, so reports are causally connected to their referents without phenomenal causation, and the self-undermining charge dissolves on the strongest version of the position. Identifies the remaining live disagreement as the mode-of-presentation question (Map: modes cannot be exhaustively physically characterised; physicalists committed to PCS: they can; the question is open). The dispute relocates rather than vanishes; the live disagreement belongs at the mode-of-presentation question rather than at "epiphenomenalism is self-undermining," which the strongest version of the position survives.
+    - Frontmatter: added [[phenomenal-concepts-strategy]] to related_articles; updated ai_modified to 2026-05-11T12:20:00+00:00.
+- **Engagement mode (editor-internal)**: Mode One (in-framework engagement with PCS). Once the PCS version is on the table, the engagement is internal-to-the-opponent — the Map identifies the disputed step (mode-of-presentation) inside the strategy's own commitments rather than appealing to tenet-incompatibility. The prior "Why this is the deepest difficulty..." paragraph remains valid against the weaker correlation-only reply and is preserved verbatim; the new paragraph addresses the stronger PCS version. No mode labels in article prose; no blacklisted editor-vocabulary terms used. Phrasing follows journal-quality conventions ("the disagreement relocates rather than vanishes", "the live disagreement belongs there rather than at...").
+- **Tenet alignment**: Tenet 3 (Bidirectional Interaction); methodological/[[project/direct-refutation-discipline]]. Tenet's positive commitment (Rules out: pure epiphenomenalism) unchanged; argumentative structure now spans (a) standard self-stultification objection, (b) bare-correlation reply, (c) PCS reply, (d) relocated dispute at the mode-of-presentation question.
+- **Attribution check**: PCS attributed to Frankish 2016, Papineau 2002, Loar 1990, late Dennett — matches the standard literature attribution used in arguments/materialism-argument.md and concepts/phenomenal-concepts-strategy.md. No source/Map conflation: the Map's denial that modes of presentation can be exhaustively physically characterised is clearly labelled as the Map's position; the PCS-internal affirmation that they can is clearly labelled as the physicalists' position.
+- **Self-contradiction check**: clean. The "disagreement runs closer to bedrock" framing in the preceding "Why this is the deepest difficulty..." paragraph is now sharpened by the new paragraph — the bedrock disagreement is specifically the mode-of-presentation question, not the looser self-stultification framing.
+- **Convergent with**: arguments/materialism-argument refine 2026-05-11 11:05 UTC (argument-level PCS engagement). This tenet-level paragraph closes the foundational-source gap that the argument-level engagement could not reach alone.
+- **Published**: yes (draft: false).
 
 ## 2026-05-11 12:13 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
