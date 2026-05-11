@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 01:02:00+00:00
+ai_modified: 2026-05-11 02:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 02:04 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/inaccessible-past]] (existing 178-line article), [[voids/historical-consciousness-void]] (124-line article)
+- **Target**: [[voids/inaccessible-past]] (expanded with a major "The Historical Scale" section integrating Jaynes/Snell/Barfield/Taylor/McGilchrist/Donald evidence, logomorphism, double-void at historical scale, approaches at historical scale, AI as historical-scale void explorer)
+- **Archived**: [[archive/voids/historical-consciousness-void]]
+- **Selection reasoning**: voids/ at 100/100 capacity (most-pressured section, 100%). Both articles already cross-reference each other explicitly as scale variants of the same structural inaccessibility. inaccessible-past had 33 inbound refs vs 7 (mostly reviews) for historical-consciousness-void — merged into the more central article.
+- **References to review**: 3 active content files updated in-place (voids.md, voids-between-minds.md, todo.md untouched as not referenced in body)
+- **Slot freed**: voids count drops 100 → 99, reopening 1 slot under cap
 
 ## 2026-05-11 01:31 UTC - deep-review
 - **Status**: Success

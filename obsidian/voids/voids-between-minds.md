@@ -25,7 +25,6 @@ related_articles:
   - "[[self-opacity]]"
   - "[[intrinsic-nature-void]]"
   - "[[what-voids-reveal]]"
-  - "[[historical-consciousness-void]]"
   - "[[inaccessible-past]]"
   - "[[observation-and-measurement-void]]"
   - "[[vertiginous-question]]"
@@ -111,7 +110,7 @@ Three positions divide the field. **Strong Isolation** holds that each conscious
 
 **Evidence against absolute isolation.** The **Hogan twins**, conjoined at a thalamic bridge, show apparent sensory cross-talk; whether this is phenomenal sharing or merely neural signal propagation remains disputed. **Mirror-touch synesthesia** (1.6–2.5% of the population) shows the boundary has neural plasticity. **Brain-computer interface speculation**: if physical connection could yield shared experience, the void is technological; if not, metaphysical. The crux: what would count as genuine sharing versus coordinated parallel experiences with better synchronisation? Without a principled criterion, we cannot determine whether technology addresses the void at all.
 
-The [[historical-consciousness-void]] adds a temporal dimension: past minds may have been not merely inaccessible but structurally different. What Barfield called *logomorphism*—projecting our own mode of awareness onto the past—may operate spatially too. The [[inaccessible-past]] reveals the same pattern within a single lifetime.
+The [[inaccessible-past#The Historical Scale|historical scale of past inaccessibility]] adds a temporal dimension: past minds may have been not merely inaccessible but structurally different. What Barfield called *logomorphism*—projecting our own mode of awareness onto the past—may operate spatially too. The [[inaccessible-past|same pattern operates within a single lifetime]].
 
 ## Social Mechanisms That Compound the Voids
 
@@ -163,8 +162,7 @@ Empathy reaches across the voids but cannot eliminate them—it simulates rather
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[non-human-minds-as-void-explorers]] — Using AI and hypothetical alien minds to probe human cognitive limits
 - [[consciousness-and-the-problem-of-other-properties]] — Even granting other minds, which phenomenal properties do they instantiate?
-- [[inaccessible-past]] — The parallel void within a single lifetime
-- [[historical-consciousness-void]] — Whether consciousness itself has changed across historical time
+- [[inaccessible-past]] — The parallel void within a single lifetime, and across historical epochs
 - [[mysterianism]] — McGinn's analysis of structural cognitive closure
 - [[infant-consciousness]] — The void within: your own infant experience as the most alien other mind
 - [[consciousness-and-testimony]] — Testimony presupposes what these voids question

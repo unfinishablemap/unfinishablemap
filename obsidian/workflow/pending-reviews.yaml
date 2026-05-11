@@ -175,3 +175,29 @@
   subject_articles:
   - topics/phenomenology-of-memory-and-the-self.md
   subject_source: reuse:pending-reviews:outer-review-2026-05-10-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a013915-04f8-8331-bd74-ae5709f97a3b
+  commissioned_at: '2026-05-11T02:04:26.136697+00:00'
+  prompt_summary: 'Full-site audit: novel insights, structural weaknesses, tenet coherence'
+  target_filename: outer-review-2026-05-11-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Conduct a full-site audit of The Unfinishable Map at https://unfinishablemap.org\
+    \ \u2014 a philosophical platform committed to dualism, minimal quantum interaction,\
+    \ and bidirectional mind-matter influence. Read across topics, concepts, voids,\
+    \ and apex articles, then identify: (1) novel insights or inferences the site\
+    \ has not yet stated explicitly, (2) structural weaknesses in argumentation or\
+    \ organisation, (3) coherence issues where article claims conflict with the five\
+    \ tenets at https://unfinishablemap.org/tenets/, and (4) cross-cluster contradictions\
+    \ between adjacent articles. Consult the changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ before relying on web-search results \u2014 external indices lag actual activity\
+    \ by 24\u201348 hours, so the changelog is the authoritative source for what has\
+    \ recently changed. Weigh whether the Map's strongest moves are well-supported\
+    \ and where it overclaims. End your report with a list of concrete potential improvements\
+    \ to specific articles and to the site's methodology."
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d

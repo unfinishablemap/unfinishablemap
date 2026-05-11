@@ -174,7 +174,7 @@ A maintenance note on this index. Five of the entries below—[[agency-void|the 
 - [[voids-between-minds|The Voids Between Minds]] — How testimony and social calibration suppress phenomenal knowledge
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Evolved versus engineered constraints
 - [[tenet-generated-voids|Tenet-Generated Voids]] — Limits implied by the Map's commitments
-- [[historical-consciousness-void|The Historical Consciousness Void]] — Whether consciousness itself has changed over historical time
+- [[inaccessible-past#The Historical Scale|The Inaccessible Past — Historical Scale]] — Whether consciousness itself has changed over historical time
 
 ### Methods and Probes
 
