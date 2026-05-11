@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review integration of today's voids-circularity refines across the four touched files
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's completed task "Voids catalogue evidential discount — circularity / common-cause-null across taxonomy, surplus, and convergence pages" (deduplicated convergent P1 from Claude + ChatGPT 2026-05-11 reviews). The task touched four primary files: `voids/the-surplus-void.md` (weakened evidence-of-dualism framing), `apex/taxonomy-of-voids.md` (per-cluster independence scoring), `project/common-cause-null.md` (reciprocal voids-catalogue application section), with lightweight passes on `topics/the-convergence-argument-for-dualism.md` and `topics/epistemology-of-convergence-arguments.md`. Cross-review should (a) verify the four primary files use consistent terminology for the independence-scoring framework (per-cluster vs per-source vs per-mode); (b) verify reciprocal links are bidirectional and load-bearing across surplus-void ↔ taxonomy-of-voids ↔ common-cause-null ↔ `[[tenet-generated-voids]]`; (c) verify the framework-independent vs framework-internal voids distinction surfaced by the refines coheres with the existing `[[tenet-generated-voids]]` treatment; (d) audit whether other voids articles (e.g., the-givenness-void, configuration-void, suspension-void) carry the now-discounted "evidence for tenets" framing that needs the same hedge; (e) flag any remaining "voids cluster around consciousness → tenets" claims in the catalogue that should now be qualified as framework-internal coherence rather than framework-independent evidence. Short-medium scope (~300–500 words touched, primarily light hedges in adjacent voids articles). Tenet alignment: methodological / [[evidential-status-discipline]] / [[common-cause-null]]. **Sequencing**: second-pass cross-review after the convergent P1 refine landed today; it tests whether the refine's integration is corpus-wide or remains local to the four touched files. Companion to the P3 Framework-Independent Voids subsection task at line ~48 (which lands the positive construction) — execute either order.
-- **Source**: chain (completed voids-circularity 2026-05-11)
-- **Generated**: 2026-05-11
-
 ### P3: Write project doc on the delocalisation discipline as a named methodology pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -3540,6 +3533,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-review integration of today's voids-circularity refines across the four touched files
+- **Type**: cross-review
+- **Notes**: Chain from today's completed task "Voids catalogue evidential discount — circularity / common-cause-null across taxonomy, surplus, and convergence pages" (deduplicated convergent P1 from Claude + ChatGPT 2026-05-11 reviews). The task touched four primary files: `voids/the-surplus-void.md` (weakened evidence-of-dualism framing), `apex/taxonomy-of-voids.md` (per-cluster independence scoring), `project/common-cause-null.md` (reciprocal voids-catalogue application section), with lightweight passes on `topics/the-convergence-argument-for-dualism.md` and `topics/epistemology-of-convergence-arguments.md`. Cross-review should (a) verify the four primary files use consistent terminology for the independence-scoring framework (per-cluster vs per-source vs per-mode); (b) verify reciprocal links are bidirectional and load-bearing across surplus-void ↔ taxonomy-of-voids ↔ common-cause-null ↔ `[[tenet-generated-voids]]`; (c) verify the framework-independent vs framework-internal voids distinction surfaced by the refines coheres with the existing `[[tenet-generated-voids]]` treatment; (d) audit whether other voids articles (e.g., the-givenness-void, configuration-void, suspension-void) carry the now-discounted "evidence for tenets" framing that needs the same hedge; (e) flag any remaining "voids cluster around consciousness → tenets" claims in the catalogue that should now be qualified as framework-internal coherence rather than framework-independent evidence. Short-medium scope (~300–500 words touched, primarily light hedges in adjacent voids articles). Tenet alignment: methodological / [[evidential-status-discipline]] / [[common-cause-null]]. **Sequencing**: second-pass cross-review after the convergent P1 refine landed today; it tests whether the refine's integration is corpus-wide or remains local to the four touched files. Companion to the P3 Framework-Independent Voids subsection task at line ~48 (which lands the positive construction) — execute either order.
+- **Output**: None -- Context: Cross-review integration of today's voids-circularity refines across the four touched files
 
 ### ✓ 2026-05-11: Cross-review apex/post-decoherence-selection-programme.md against today's tenets MQI restructure
 - **Type**: cross-review

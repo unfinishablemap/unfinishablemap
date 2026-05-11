@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T13:43:00+00:00
+ai_modified: 2026-05-11T13:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 13:55 UTC - deep-review (cross-review integration)
+- **Status**: Success
+- **Files**: [[apex/taxonomy-of-voids]], [[project/common-cause-null]], [[topics/epistemology-of-convergence-arguments]], [[voids/voids]] (and [[the-surplus-void]] verified unchanged)
+- **Driver**: Cross-review integration of today's voids-circularity refines. The 09:39 UTC refine of [[the-surplus-void]] retracted its evidence-of-dualism framing and queued companion edits in three further files. Cross-review found the surplus-void refine clean but the three companion edits **not yet landed** — the integration was local to the surplus-void file only. This pass lands the missing integration.
+- **Word counts**:
+    - apex/taxonomy-of-voids: 4791 → 4897 (+106)
+    - project/common-cause-null: 2438 → 2735 (+297)
+    - topics/epistemology-of-convergence-arguments: 3308 → 3363 (+55)
+    - voids/voids: minor (~+25 words via one-line hedge)
+- **Critical issues addressed**: 1 (integration gap — companion edits queued by the surplus-void refine had not landed; cross-corpus calibration restored)
+- **Medium issues addressed**: 3 (per-cluster independence scoring framework named in apex; voids-catalogue subsection added to common-cause-null project doc with reciprocal cross-references; common-cause-null discipline cross-referenced from epistemology-of-convergence-arguments)
+- **Enhancements made**: reciprocal cross-link installation across four primary files; Further Reading entries for taxonomy-of-voids, surplus-void, tenet-generated-voids in the common-cause-null project doc; frontmatter description and apex_thesis updated to carry the common-cause-null calibration ceiling
+- **Engagement-mode classification (editor-internal)**: Engagement with the catalogue's prior framework-independent-evidence framing — Mode Two (unsupported-foundational-move) applied to the Map itself; the unsupported move was *voids generated under tenet-aligned methodology count as framework-independent evidence for those tenets*. Engagement with materialism — Mode Three (framework-boundary marking) preserved. Engagement with common-cause-null structural objection — Mode One (defective-on-its-own-terms) for the catalogue's prior cumulative-evidence claim; the catalogue's framework can accommodate the null without retreating to bedrock. No label leakage in article prose.
+- **Calibration check**: Diagnostic test applied — a tenet-accepting reviewer would still flag the prior cumulative-N-fold framing as overstated relative to evidential-status scale. The discount is correctable inside the Map's own framework. Calibration restored to *framework-internal coherence under the null* rather than *N-fold framework-independent triangulation*.
+- **Stability**: Bedrock disagreement with materialism preserved (not weakened). The discipline is symmetric: Tenet 5 discounts materialist simplicity-overreach; common-cause-null discounts dualist convergence-parsimony overreach. Future reviews should not push to either retract the support entirely or restore the unhedged framing.
+- **Remaining items**: Per-cluster independence scoring named as open programme (future apex-evolve cycle); [[what-voids-reveal]] and [[voids-between-minds]] line 151 carry related framing requiring lighter passes (queued P3).
+- **Output**: [[reviews/deep-review-2026-05-11-voids-circularity-cross-review]]
 
 ## 2026-05-11 13:43 UTC - deep-review
 - **Status**: Success

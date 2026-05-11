@@ -2,9 +2,9 @@
 title: "Voids in the Map"
 description: "Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable, and potentially occluded territories where thought cannot go or is blocked from going."
 created: 2026-01-08
-modified: 2026-05-10
+modified: 2026-05-11
 human_modified: 2026-01-08
-ai_modified: 2026-05-10T20:02:00+00:00
+ai_modified: 2026-05-11T13:55:00+00:00
 draft: false
 last_deep_review: 2026-04-27T18:59:00+00:00
 topics: []
@@ -68,7 +68,7 @@ A maintenance note on this index. Five of the entries below—[[agency-void|the 
 - [[three-kinds-of-void|Three Kinds of Void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[origin-of-consciousness|The Origin Void]] — Why consciousness exists at all—the most logically prior void
 - [[compound-failure-signatures|Compound Failure Signatures]] — Using the structure of failure as data
-- [[what-voids-reveal|What Cognitive Voids Reveal]] — How limits illuminate cognitive architecture, and how the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
+- [[what-voids-reveal|What Cognitive Voids Reveal]] — How limits illuminate cognitive architecture, and how the convergence of the catalogue and the capacity to conceive of voids are offered as abductive support for the Map's tenet-package, subject to the [[common-cause-null|common-cause-null discount]] that reads the convergence largely as framework-internal coherence rather than framework-independent evidence
 - [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — The method of knowing through negation, and why any such catalog is constitutively incomplete
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind, why we cannot predict which will prove permanent, and [[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within|why consciousness cannot estimate the total scope of what it does not know]] from within the limited system doing the estimating
 - [[question-formation-void|The Question Formation Void]] — The method-horizon void: a constraint on which questions a mind can formulate, distinct from constraints on which answers it can reach; mapping by negation can only negate what is already askable (created 2026-04-24)

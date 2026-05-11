@@ -4,7 +4,7 @@ description: "When multiple independent lines of reasoning—across methods, tra
 created: 2026-02-19
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-29T00:03:00+00:00
+ai_modified: 2026-05-11T13:55:00+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[methodology-of-consciousness-research]]"
   - "[[phenomenological-evidence]]"
+  - "[[common-cause-null]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -76,7 +77,7 @@ Independence is the hardest condition to satisfy and the easiest to overestimate
 
 Consider the arguments for moral realism: the argument from moral disagreement's convergence over time, the argument from moral explanation, and the companions-in-guilt argument with mathematics. These appear to start from different places. But they all presuppose that moral phenomenology — the experience of obligations as binding, of moral properties as discovered rather than invented — is a reliable guide to moral ontology. If moral phenomenology is systematically misleading, all three arguments lose force simultaneously.
 
-The lesson for convergence arguments generally: independence must be assessed at the level of *deep assumptions*, not surface premises. Two arguments with completely different premises may still share a single point of vulnerability. The epistemic value of convergence depends on how many genuinely independent failure points the conclusion would need to survive.
+The lesson for convergence arguments generally: independence must be assessed at the level of *deep assumptions*, not surface premises. Two arguments with completely different premises may still share a single point of vulnerability. The epistemic value of convergence depends on how many genuinely independent failure points the conclusion would need to survive. The Map's [[common-cause-null|common-cause-null discipline]] formalises this test at the project tier — distinguishing convergence claims that earn their N-fold weight from claims whose convergence is one upstream architecture read N times.
 
 For cross-cultural convergence, independence is never total. All human philosophical traditions share a common origin in human cognition, human social structures, and human embodied experience. This baseline commonality creates a genuine bootstrapping problem—parallel to the [[phenomenology-of-intellectual-life|bootstrap problem in belief revision]], where evaluation standards are themselves beliefs subject to revision. The convergence framework requires independence for convergence to be evidentially significant, yet shared cognitive architecture compromises this independence from the start. Convergence might therefore reflect shared cognitive constraints rather than shared access to truth.
 
