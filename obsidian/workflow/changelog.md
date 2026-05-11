@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T09:06:00+00:00
+ai_modified: 2026-05-11T09:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 09:20 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[tenets/tenets]] — foundational document the entire catalogue routes through; restructured twice today (Tenet 4 indexical/parsimony split earlier; Tenet 2 post-decoherence-selection lead at 09:06 UTC); last pessimistic review 2026-02-20 (~80 days ago).
+- **Output**: [[reviews/pessimistic-2026-05-11]]
+- **Critical issues found**: 5 (Issue 1: post-decoherence-selection move relocates the timing objection rather than resolving it — indifference objection now harder than what it replaced [High]; Issue 2: unresolved Tenet 2 vs Tenet 5 parsimony asymmetry [Medium]; Issue 3: falsifiability red flag — Tenet 2 now defined to be unfalsifiable [High]; Issue 4: strawman epiphenomenalist response — overlaps with existing P1 BI/agency-void task [Medium]; Issue 5: AI REFINEMENT LOG HTML comments not removed from source [Low/Medium])
+- **Counterargument upgrades flagged**: Tenet 4 "framework provides no resources" overclaim re Sebens-Carroll self-locating uncertainty; Tenet 1 "multiple independent arguments converge" pattern parallel to voids-catalogue common-cause-null (already P1 in flight at voids level)
+- **Tasks added**: 3 (P2: Tenet 2 trade-offs cluster — indifference / parsimony / falsifiability; P3: soften Tenet 4 "framework provides no resources"; P3: delete AI REFINEMENT LOG HTML comments). Issue 4 covered by existing P1 BI/agency-void task (line ~97 of todo.md); Tenet 1 common-cause-null pattern covered by existing P1 voids-catalogue task (line ~40).
 
 ## 2026-05-11 09:06 UTC - refine-draft
 - **Status**: Success
