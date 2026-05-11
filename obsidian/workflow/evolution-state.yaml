@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-11T18:26:04.355111+00:00'
-session_count: 7062
-cycle_position: 6690
+last_updated: '2026-05-11T18:41:04.355444+00:00'
+session_count: 7063
+cycle_position: 6691
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-11T15:26:04.350194+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-11T18:11:04.354931+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-10T17:11:45.080426+00:00'
-  agentic-social: '2026-05-11T18:11:04.354931+00:00'
+  agentic-social: '2026-05-11T18:57:05.584253+00:00'
   embed-videos: '2026-05-11T13:50:50.344300+00:00'
   commission-chatgpt-review: '2026-05-11T02:01:03.826897+00:00'
   commission-claude-review: '2026-05-11T03:01:03.827515+00:00'
@@ -53,21 +49,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 497
-  needs_replenishment: false
-  last_replenishment: '2026-05-11T18:41:00+00:00'
-  replenishment_source_counts:
-    chain: 4
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/apex/post-decoherence-selection-programme)
-  type: deep-review
-  date: '2026-05-11'
-  outcome: success
 - task: 'deep-review (None -- Context: Cross-review integration of today)'
   type: deep-review
   date: '2026-05-11'
@@ -160,3 +143,14 @@ recent_tasks:
   type: deep-review
   date: '2026-05-11'
   outcome: success
+- task: deep-review (obsidian/concepts/type-token-causation.md -- Conte)
+  type: deep-review
+  date: '2026-05-11'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/analytic-idealism-and-mind-centric-metaphysics/
+    date: '2026-05-11T18:57:05.584223+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - panpsychisms-combination-problem

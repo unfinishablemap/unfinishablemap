@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T18:47:00+00:00
+ai_modified: 2026-05-11T18:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 18:57 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/integration-as-activity]]
+- **Word count**: 2,695 → 2,766 (+71; soft_warning at 111% of 2500 concept threshold, well below 3500 hard)
+- **Critical issues addressed**: 2 — (1) no-subject / Madhyamaka third option missing from "What the Discipline Does Not Settle" (flagged by Buddhist critic in pessimistic-2026-05-11b but not in same-day refinement log); added fourth bullet naming dependently-arisen pattern reading as genuine third alternative with brief Map-internal justification for preferring subject-performing reading. (2) Editor-internal HTML AI REFINEMENT LOG block embedded in published article body; removed (content survives in pessimistic-2026-05-11b and this deep review).
+- **Medium issues addressed**: 0 (post-refinement state already addressed Issues 2, 3, 5 from pessimistic-2026-05-11b)
+- **Enhancements made**: 1 cross-link added ([[tenets#^dualism|Tenet 1]] in new no-subject bullet)
+- **Engagement-mode classifications**: IIT identity-theorist + phenomenal-concept-strategy — Mode One on introspective-access cost, Mode Three at residue; First-personal-character sub-bullet — Mode Two on identity-theorist's foundational move; Convergence-limit subsection — Mode Three; No-subject third-option bullet (this pass) — Mode Three. No label leakage in article prose.
+- **Calibration-error audit**: no possibility/probability slippage; the no-subject bullet is structural-completeness, not an evidential-status claim
+- **Output**: [[reviews/deep-review-2026-05-11-integration-as-activity]]
 
 ## 2026-05-11 18:47 UTC - deep-review (cross-tier reciprocal integration)
 - **Status**: Success
