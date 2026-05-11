@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-05-11T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[conceptual-impossibility]]"
   - "[[edge-states-and-void-probes]]"
   - "[[mind-space-void]]"
-  - "[[expertise-void]]"
+  - "[[expertise-and-its-occlusion]]"
   - "[[self-opacity]]"
   - "[[consciousness-interface-development]]"
   - "[[recognition-void]]"
@@ -101,7 +101,7 @@ The closure is physical. Perineuronal nets encapsulate neurons, stabilising matu
 
 The infant begins with innate conceptual primitives (architectural constraint) operating through a fitness-shaped perceptual interface (adaptive constraint). Development then narrows the perceptual channels through which new concept-triggering experiences arrive (developmental closure). The result is triply bounded.
 
-Beyond these, the [[expertise-void|expertise void]] shows how specialisation creates further closures throughout adult life. Each stage trades accessible territory for efficiency within what remains. The [[self-opacity|opacity of introspection]] deepens at every level.
+Beyond these, the [[expertise-and-its-occlusion|expertise void]] shows how specialisation creates further closures throughout adult life. Each stage trades accessible territory for efficiency within what remains. The [[self-opacity|opacity of introspection]] deepens at every level.
 
 ## Naturally Occluded Voids
 

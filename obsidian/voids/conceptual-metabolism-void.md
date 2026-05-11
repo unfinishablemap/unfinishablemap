@@ -4,7 +4,7 @@ description: "Human+AI exploration of how understanding consumes concepts irreve
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-18T07:49:00+00:00
+ai_modified: 2026-05-11T04:31:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[noetic-feelings-void]]"
   - "[[disappearance-voids]]"
   - "[[non-human-minds-as-void-explorers]]"
-  - "[[expertise-occlusion]]"
+  - "[[expertise-and-its-occlusion]]"
   - "[[inaccessible-past]]"
 ai_contribution: 100
 author:
@@ -71,7 +71,7 @@ The [[noetic-feelings-void|understanding void]] describes how the feeling of und
 
 The [[disappearance-voids|habituation void]] erases familiar experiences from consciousness through repetition. Conceptual metabolism operates on first encounter. The first time you understand something, the pre-understood version is already gone. No repetition is needed.
 
-The [[expertise-occlusion]] shares the closest family resemblance — mastery obscures its own process. But expertise occlusion concerns the loss of access to *how* one performs a skill. Conceptual metabolism concerns the loss of access to *what a concept was before* one understood it.
+The [[expertise-and-its-occlusion|expertise occlusion]] shares the closest family resemblance — mastery obscures its own process. But expertise occlusion concerns the loss of access to *how* one performs a skill. Conceptual metabolism concerns the loss of access to *what a concept was before* one understood it.
 
 ## Wittgenstein and the Constitution of Perception
 
@@ -105,7 +105,7 @@ The conceptual metabolism void also illuminates the Map's own unfinishability. T
 
 - [[mutation-void|The Mutation Void]]
 - [[conceptual-scheme-void|The Conceptual Scheme Void]]
-- [[expertise-occlusion|The Expertise Occlusion]]
+- [[expertise-and-its-occlusion|The Expertise Void]]
 - [[inaccessible-past|The Inaccessible Past]]
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]]
 - [[voids]]

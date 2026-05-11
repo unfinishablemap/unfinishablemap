@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 04:18:00+00:00
+ai_modified: 2026-05-11 04:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 04:31 UTC - deep-review (wikilink maintenance)
+- **Status**: Success
+- **Scope**: Update wikilinks pointing to coalesced expertise articles
+- **Coalesced sources**: `topics/expertise-void` and `voids/expertise-occlusion` (both archived 2026-04-22, superseded by `voids/expertise-and-its-occlusion`)
+- **Files updated** (3):
+  - [[voids/biological-cognitive-closure]] — frontmatter `related_articles` + body line 104 reference
+  - [[voids/boundary-and-projection]] — frontmatter `related_articles` + body line 88 + "Related Voids" list
+  - [[voids/conceptual-metabolism-void]] — frontmatter `related_articles` + body line 74 + "Related Voids" list
+- **Wikilinks rewritten**: 8 (`[[expertise-void]]` × 2, `[[expertise-occlusion]]` × 6 across frontmatter and body)
+- **Display text preserved**: piped labels retain natural reading ("expertise void", "expertise occlusion", "The Expertise Void")
+- **Skipped** (historical records, not retroactively rewritten): `reviews/`, `workflow/` (todo + changelog archives), `research/`
+- **Verification**: No remaining `[[expertise-void]]` or `[[expertise-occlusion]]` wikilinks in `topics|concepts|voids|apex|arguments|tenets|questions|papers` directories
 
 ## 2026-05-11 04:18 UTC - expand-topic
 - **Status**: Success
