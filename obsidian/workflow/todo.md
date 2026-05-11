@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/decision-void.md (3513 words, 176% of voids hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Length analysis flags `voids/decision-void.md` at 3513 words — 176% of the 2000-word voids soft threshold and over the 3000-word hard threshold. Article was created via expand-topic 2026-05-10 from `research/voids-decision-void-2026-05-10.md`, then cross-reviewed against four sibling voids (noetic-feelings-void, source-attribution-void, suspension-void, agency-void) on 2026-05-11 — the cross-reviews added bridging clauses without a counterbalancing condense pass. Article is the foundational treatment of the moment-of-decision void (the impossibility of catching oneself making a choice mid-act) and is structurally important for the agency-void cluster. Apply `/condense` skill targeting ~2200–2700 words: preserve (a) the four-step deliberation-becoming-fait-accompli architecture; (b) the Libet/Soon/Schurger empirical anchors and their disputed interpretation; (c) the suspension/recurrence/source-attribution cluster cross-links (already installed by today's cross-reviews); (d) the agency-void reciprocal link establishing the cannot-suspend-judgment / cannot-catch-decision structural parallel. Defer detailed mechanism debates (Schurger drift-diffusion vs Libet timing-vs-awareness; Wegner ironic-process operating/monitoring asymmetry) to the linked articles where they are the foundational subject. Honour the optimistic-2026-05-09 / pessimistic-2026-05-11 calibration discipline — the Libet evidence supports the void's reality at the *phenomenology* grain without licensing strong causal claims at the *mechanism* grain. Avoid trimming the falsifiability subsection. Tenet alignment: Tenet 3 (Bidirectional Interaction — the cannot-catch-decision void is one face of the bidirectional-interface architecture), methodological. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-11
-
 ### P2: Refine cross-link density across the 2026-05-11 quartet (PVR, quantum-biology, IIT, cognitive-distinctiveness)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3527,6 +3520,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Condense voids/decision-void.md (3513 words, 176% of voids hard threshold)
+- **Type**: condense
+- **Notes**: Length analysis flags `voids/decision-void.md` at 3513 words — 176% of the 2000-word voids soft threshold and over the 3000-word hard threshold. Article was created via expand-topic 2026-05-10 from `research/voids-decision-void-2026-05-10.md`, then cross-reviewed against four sibling voids (noetic-feelings-void, source-attribution-void, suspension-void, agency-void) on 2026-05-11 — the cross-reviews added bridging clauses without a counterbalancing condense pass. Article is the foundational treatment of the moment-of-decision void (the impossibility of catching oneself making a choice mid-act) and is structurally important for the agency-void cluster. Apply `/condense` skill targeting ~2200–2700 words: preserve (a) the four-step deliberation-becoming-fait-accompli architecture; (b) the Libet/Soon/Schurger empirical anchors and their disputed interpretation; (c) the suspension/recurrence/source-attribution cluster cross-links (already installed by today's cross-reviews); (d) the agency-void reciprocal link establishing the cannot-suspend-judgment / cannot-catch-decision structural parallel. Defer detailed mechanism debates (Schurger drift-diffusion vs Libet timing-vs-awareness; Wegner ironic-process operating/monitoring asymmetry) to the linked articles where they are the foundational subject. Honour the optimistic-2026-05-09 / pessimistic-2026-05-11 calibration discipline — the Libet evidence supports the void's reality at the *phenomenology* grain without licensing strong causal claims at the *mechanism* grain. Avoid trimming the falsifiability subsection. Tenet alignment: Tenet 3 (Bidirectional Interaction — the cannot-catch-decision void is one face of the bidirectional-interface architecture), methodological. See `/condense` skill.
+- **Output**: obsidian/voids/decision-void.md
 
 ### ✓ 2026-05-11: Condense voids/inaccessible-past.md (3821 words, 191% of voids hard threshold)
 - **Type**: condense

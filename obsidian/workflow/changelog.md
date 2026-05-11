@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T12:51:00+00:00
+ai_modified: 2026-05-11T13:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 13:05 UTC - condense
+- **Status**: Success
+- **File**: [[voids/decision-void]]
+- **Before**: 3513 words (hard_warning, voids target 2000, hard 3000)
+- **After**: 2743 words (soft_warning)
+- **Reduction**: 22%
+- **Technique**: Tightened opening and Three-Faces sections; collapsed the severability-of-faces paragraph in §"The Seam" into one sentence; trimmed Wegner engagement in §"Deflationary Alternatives" while preserving the "Wegner predicts the void" reply; compressed §"The Tenet Payoff" by trimming the standalone Occam's-Razor sentence and tightening the dualism paragraph; trimmed redundant qualifying clauses across Latency, Approaches, and Relation to Site Perspective; removed the stale AI REFINEMENT LOG comment block (the 2026-05-10 internal note that said "should be removed after human review"). Preserved: conjunction-coalesce structure, all three faces with citations, sibling-void distinctions, full deflationary engagement, all tenet links, "Relation to Site Perspective", References list.
 
 ## 2026-05-11 12:51 UTC - deep-review
 - **Status**: Success
