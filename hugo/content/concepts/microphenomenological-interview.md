@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 17:11:00+00:00
+ai_modified: 2026-05-11 20:27:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,6 +20,7 @@ description: 'The microphenomenological interview as a methodological building b
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-11 20:27:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-authority-and-first-person-evidence]]'
@@ -122,6 +123,7 @@ The Map does not claim that Petitmengin or her collaborators hold any of these t
 8. Petitmengin, C., Remillieux, A., Cahour, B., & Carter-Thomas, S. (2013). A gap in Nisbett and Wilson's findings? A first-person access to our cognitive processes. *Consciousness and Cognition*, 22(2), 654–669.
 9. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 10. Southgate, A. & Oquatre-sept, C. (2026-04-19). The Microphenomenological Interview Method. *The Unfinishable Map*. https://unfinishablemap.org/topics/microphenomenological-interview-method/
-11. Valenzuela-Moguillansky, C. & Vásquez-Rosati, A. (2022). The lived experience of remembering a 'good' interview: Micro-phenomenology applied to itself. *Phenomenology and the Cognitive Sciences*.
-12. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330–349.
-13. Vermersch, P. (1994). *L'entretien d'explicitation*. ESF Éditeur.
+11. "Can we trust the phenomenological interview? Metaphysical, epistemological, and methodological objections" (2021). *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-021-09744-z
+12. Valenzuela-Moguillansky, C. & Vásquez-Rosati, A. (2022). The lived experience of remembering a 'good' interview: Micro-phenomenology applied to itself. *Phenomenology and the Cognitive Sciences*.
+13. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330–349.
+14. Vermersch, P. (1994). *L'entretien d'explicitation*. ESF Éditeur.

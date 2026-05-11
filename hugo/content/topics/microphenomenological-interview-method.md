@@ -1,14 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-04-25 20:29:00+00:00
+ai_modified: 2026-05-11 20:57:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
+- '[[microphenomenological-interview]]'
 - '[[phenomenological-evidence]]'
 - '[[introspection]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[heterophenomenology]]'
+- '[[cognitive-phenomenology]]'
+- '[[binding-problem]]'
 created: 2026-04-19
 date: &id001 2026-04-19
 description: Claire Petitmengin's disciplined second-person interview procedure for
@@ -17,7 +20,7 @@ description: Claire Petitmengin's disciplined second-person interview procedure 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-19 21:38:00+00:00
+last_deep_review: 2026-05-11 20:57:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-authority-and-first-person-evidence]]'
@@ -28,7 +31,7 @@ topics: []
 
 The microphenomenological interview, developed by Claire Petitmengin from Pierre Vermersch's *entretien d'explicitation*, is a structured second-person procedure that guides a subject through a brief phenomenological reduction, evokes a singular past experiential moment in embodied memory, and elicits fine-grained description of its pre-reflective structure through non-leading prompts. The method's distinctive claim is that trained interviewing can raise to articulated report experiential content that casual introspection systematically overlooks. It is the closest thing consciousness science currently has to a replicable, protocolised first-person technique — which is why it deserves careful treatment on a map that takes phenomenological evidence seriously.
 
-This article describes the procedure, positions its outputs on the [Husserlian evidence taxonomy](/topics/phenomenal-authority-and-first-person-evidence/#husserls-evidence-taxonomy) (explained in that article — briefly, Husserl distinguishes *apodictic* from *assertoric* evidence along one axis and *adequate* from *inadequate* along another), surveys the epilepsy-prodrome work that remains its strongest empirical demonstration, and catalogues documented limits. A closing section treats the Map's specific interest: why a method that strengthens reports about pre-reflective experience matters for the [Dualism tenet](/tenets/#dualism) without proving it.
+This article describes the procedure, positions its outputs on the [Husserlian evidence taxonomy](/topics/phenomenal-authority-and-first-person-evidence/#husserls-evidence-taxonomy) (explained in that article — briefly, Husserl distinguishes *apodictic* from *assertoric* evidence along one axis and *adequate* from *inadequate* along another), surveys the epilepsy-prodrome work that remains its strongest empirical demonstration, and catalogues documented limits. A closing section treats the Map's specific interest: why a method that strengthens reports about pre-reflective experience matters for the [Dualism tenet](/tenets/#dualism) without proving it. A companion concept page, [microphenomenological-interview](/concepts/microphenomenological-interview/), treats the interview as a building block — situating it among related techniques (descriptive experience sampling, classical Husserlian phenomenology, contemplative inquiry) and enumerating the load-bearing arguments across the Map that depend on something roughly like it being defensible.
 
 ## The Interview Procedure
 
@@ -67,7 +70,7 @@ Petitmengin, Navarro and Le Van Quyen (2006/2007), working in Varela's Salpêtri
 
 Prodromes are what matters for the present discussion. They were invisible to casual introspection — patients did not spontaneously report them — and invisible to the third-person neurodynamic measurements available at the time. The microphenomenological interview surfaced them. Patients who learned to recognise their own prodromes could take counter-measures (relaxation, anti-convulsant adjustments, withdrawal from triggers) and, in the clinical follow-up, reduced seizure frequency non-pharmacologically.
 
-This is the strongest extant demonstration that disciplined first-person inquiry can reveal experiential content that (a) the subject genuinely lives through, (b) is clinically actionable, and (c) is otherwise inaccessible. It is not a metaphysical argument for anything; but it is a methodological argument that trained observation is *ampliative* — it yields content that untrained observation misses.
+This is the strongest extant demonstration that disciplined first-person inquiry can reveal experiential content that (a) the subject genuinely lives through, (b) is clinically actionable, and (c) is otherwise inaccessible. The argument the case carries is methodological rather than metaphysical: trained observation is *ampliative*, yielding content that untrained observation misses.
 
 Other applications follow the same pattern on less clinically dramatic terrain: contemplative research (Petitmengin 2019 on meditation identifies six features of boundary-dissolution experience: sense of location, agency, first-person perspective, attention, body sensations, affective valence); creative-insight research; pain phenomenology; human-computer interaction.
 
@@ -103,8 +106,11 @@ The Map does *not* claim that Petitmengin or her collaborators hold any tenet th
 
 One further integration: the method is a live candidate for operationalising what the Map calls [phenomenal authority](/topics/phenomenal-authority-and-first-person-evidence/). If subjects trained in microphenomenology produce descriptions that converge across subjects, hold up under repeated analysis, and occasionally surface content invisible to third-person measurement, that is a nontrivial fact that an adequate theory of consciousness must accommodate. How much weight to put on the fact remains open; the method itself is the thing being argued about, not yet a settled source of argument.
 
+Several specific Map arguments lean on something roughly like microphenomenology being defensible — [cognitive phenomenology](/concepts/cognitive-phenomenology/) (that thought has its own phenomenal character), the [binding problem](/concepts/binding-problem/)'s reliance on reports about experiential unity, and the [phenomenology of choice and volition](/concepts/phenomenology-of-choice-and-volition/) (where Libet-style scepticism is most acute). The [concept-level treatment](/concepts/microphenomenological-interview/) enumerates these dependencies; this article restricts itself to what the method does and does not deliver as a method.
+
 ## Further Reading
 
+- [microphenomenological-interview](/concepts/microphenomenological-interview/) — concept-level treatment, with the method's role as a building block under cognitive-phenomenology, binding-problem, and agency arguments, and its position among related techniques (descriptive experience sampling, *entretien d'explicitation*, contemplative first-person inquiry)
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — the broader epistemological frame and the claim the method operationalises
 - [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — the programme microphenomenology serves
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — concept page for the evidence type

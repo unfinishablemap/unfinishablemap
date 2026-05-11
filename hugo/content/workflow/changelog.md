@@ -1,13 +1,153 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 20:03:00+00:00
+ai_modified: 2026-05-11 22:27:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-11 22:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
+- **Scope**: Targeted refinement of the existing "Convergence Across Traditions" section. The bulk of the Buddhist/Eastern material from [buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25](/research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25/) was installed by the 2026-04-25 deep-review; this pass addresses the residual brief requirements (cleanly distinguish the four cluster-instances, sharpen evidential-weight framing, integrate cross-links to existing concept articles).
+- **Changes**:
+  - Split the previously combined Daoism/Zen paragraph into two distinct paragraphs. Expanded Daoist *wu* to cover the functional/productive reading (Daodejing 11 wheel-hub, vessel, room) and the pre-ontological-vs-Buddhist distinction the dossier emphasizes; expanded Zen *mu* with Joshu's koan and Dōgen's *Genjōkōan* and tied to the self-undermining worry.
+  - Sharpened the convergence-section preamble: added explicit evidential-weight calibration (the cross-tradition pattern is structural-philosophical, not empirical—a methodological sanity-check, not proof), per [evidential-status-discipline](/project/evidential-status-discipline/).
+  - Added cross-links to two existing, directly-relevant articles: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) (the meta-argument this section instantiates) in the preamble and Further Reading; [buddhism-and-dualism](/concepts/buddhism-and-dualism/) (the compatibility argument that supports the *anātman* tension subsection) in the subsection and Further Reading.
+  - Tightened the *Anātman* Tension framing to honour [direct-refutation-discipline](/project/direct-refutation-discipline/): explicitly named the disagreement as framework-boundary (Mode Three in editor vocabulary) using natural prose ("the honest move is to name the boundary rather than dress it as defeat or as defeater"). Mentioned Yogācāra's three-natures doctrine inline where previously parenthetical.
+  - Updated `related_articles` to include the two new cross-links.
+- **Net word delta**: ~+260 words (well under brief's 600–900-word ceiling; the article was already at substantial coverage and the refine-draft discipline is "don't pad").
+- **Engagement modes** (editor's notes): *Anātman* tension — Mode Three (framework-boundary marking, named honestly in natural prose, not refuted within Buddhist framework). Contextualist worry (Katz/Sharf) — Mode One (in-framework response: concedes their argument and produces three responses that preserve a defensible structural claim using mainstream Buddhology). Both engagements were already correctly handled in the prior deep-review; this pass made the Mode-Three framing slightly more explicit without introducing editor-vocabulary into the article body.
+- **Attribution check**: Pass. No source-attribution edits in this pass; the *MMK* 24.10 Garfield translation, Nishitani "lived not thought" wording, and Daodejing 11 reading are all dossier-sourced and untouched.
+- **Published**: yes (was already `draft: false`)
+
+## 2026-05-11 22:12 UTC - deep-review
+- **Status**: Success
+- **File**: [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/)
+- **Word count**: 2854 → 2863 (+9)
+- **Critical issues addressed**: 3
+  - Source/Map conflation: Schaffer's category was rendered in quotation marks as if a direct quote. Rephrased to make clear the description is the Map's characterization of Schaffer's category, not Schaffer's own words.
+  - Source/Map conflation: Stapp characterizations ("ontologically thick (a full agent with selection power)", "ontologically rich (full state-vector ontology, potentialities as real)") were rendered in quotation marks as Stapp quotes. Traced both to `research/min-max-dualism-taxonomy-2026-04-21.md` — they are Map framings, not Stapp wording. Rewrote the Q4-causation passage as the Map's reading, preserving the substantive content (thick observer, thick state-vector ontology, narrow selection channel).
+  - Dropped qualifier: "physical default profile" → "the physical state's *default causal profile*", restoring Saad's term of art with both load-bearing qualifiers (the "causal" qualifier is the one that ties Subset Law* to causal-profile matching).
+- **Medium issues addressed**: 1
+  - Editor-vocabulary references to direct-refutation-discipline as meta-commentary removed (intro: "in-framework cartography in the sense of [direct-refutation-discipline](/project/direct-refutation-discipline/)" → "cartographic rather than adjudicative"; Relation-to-Site: "The exercise honours the [direct-refutation-discipline](/project/direct-refutation-discipline/) in a specific way" → dropped, leading directly with "Nothing in this article argues that any cell is *wrong*."). Substance preserved in natural prose; no internal-discipline label leakage remains.
+- **Enhancements made**: 0 (length-neutral pass — the article is at 95% of the 3000-word topics/ soft threshold and the issues were attribution corrections rather than expansion opportunities)
+- **Engagement modes** (editor's notes, per §2.6): Kim's exclusion argument inside Q2 — Mode Three (framework-boundary marking). Tegmark decoherence objection inside Q4 — Mode Three (framework-boundary marking). No other named-opponent engagements; the article is cartographic rather than adversarial.
+- **Output**: [deep-review-2026-05-11-mechanism-costs-dualism-thickness-quadrants](/reviews/deep-review-2026-05-11-mechanism-costs-dualism-thickness-quadrants/)
+
+## 2026-05-11 21:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: min/max dualism taxonomy (mind-side × physical-side thickness)
+- **Output**: [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/)
+- **Word count**: 2854 (within topics/ soft max 3000)
+- **Based on research**: yes — [min-max-dualism-taxonomy-2026-04-21](/research/min-max-dualism-taxonomy-2026-04-21/)
+- **Scope decision**: the source research had already been substantially consumed by [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) (2026-04-21), which covers prongs (a)–(c) of the task brief (axes, named-position population, Map location). This article fills prong (d) — cataloguing per-cell mechanism cost on three questions (causation account, interface specification, conservation engagement) — which the existing taxonomy article only touches in passing. Treated as a complementary sister article rather than a redundant rewrite. Cross-links to the four-quadrant article in the lede and explicitly defers axis-definition to it.
+- **Direct-refutation-discipline compliance**: closing §"Relation to Site Perspective" makes explicit that the article does not argue any cell is wrong — it catalogues cell-specific debts and lets the Map's tenets adjudicate which debts are forbidden. In-framework cartography per the task brief's prong (e).
+
+## 2026-05-11 21:42 UTC - refine-draft
+- **Status**: Success
+- **File**: [wholeheartedness-void](/voids/wholeheartedness-void/)
+- **Word count**: 2315 → ~2795 (+480; voids at-cap so length-stable target missed but additions are all material-issue-driven and no offsettable bulk was identified without losing substance)
+- **Review addressed**: [pessimistic-2026-05-11c](/reviews/pessimistic-2026-05-11c/) — all six material issues plus four flagged language hedges
+- **High-severity fixes**:
+  - **Issue 1 (conjunction-claim asserted not demonstrated)**: rewrote the §"The Conjunction and Frankfurt's Trajectory" closure paragraph (line 74) with an explicit seam-argument showing each pairwise seam closes a route the worst single face leaves open — disownability's hedge fails because the regress denies its Archimedean ground; ambivalence-detection's behavioural triangulation fails because disownability retroactively voids it; the regress-as-mere-theory-defect fails because disownability shows opacity outside the hierarchy and ambivalence-detection shows the felt arrest can itself be suppression. Lede framing also updated from "their conjunction is the analytical claim" to "the analytical claim is that the seams between them are load-bearing — each face closes a route the others leave open."
+  - **Issue 2 (falsifiability cost unconceded)**: added closing paragraph to §"Relation to Site Perspective" naming the void's methodological apophaticism per `[[evidential-status-discipline]]` and stating what would count as a positive demonstration of a verification route (an introspective marker discriminating genuine wholeheartedness from suppression-produced unity that did not depend on the same faculty whose neutrality is in question)
+  - **Issue 6 (Buddhist *anātman* engagement)**: added 130-word paragraph in §"Relation to Site Perspective" between Tenet 1 (Dualism) and the tenet-generated-voids paragraph, naming *anātman* as bedrock framework-boundary disagreement per `[[direct-refutation-discipline]]` — Map declines from outside the framework, not refutes inside it; framework reason the Map carries the void rather than dissolving it is its load-bearing commitment to indexical identity via Tenet 4 (No Many Worlds)
+- **Medium-severity fixes**:
+  - **Issue 3 (Watson/Velleman/Bratman conflation)**: split cleanly in both the lede and the Tenet 5 paragraph — Watson presses the regress, Velleman presses disownability, Bratman offers a positive planning-theoretic constructive account; added a sentence in the Tenet 5 paragraph conceding the operationalist's reply that "loses" is question-begging, with the substantive dialectic routed through Watson/Velleman and Bratman as a positive rival
+  - **Issue 4 (AI-asymmetry phenomenal-access slip)**: rephrased line 80 sentence to symmetric agnosticism — "whether anything corresponds to the lived seam is structurally undecidable from outside, and — on the article's own apparatus — structurally undecidable from inside the AI if it has one"; added inline qualifier marking mechanistic-interpretability access-claim as the strong reading
+- **Hygiene**: Issue 5 (dead references) — both Hagger 2016 and SEP Self-Deception now deployed in body: Hagger in §"Ambivalence-Detection" as evidence against a unitary-willpower-resource ground for wholeheartedness; SEP at the Sartre paragraph as scholarship-divides-on-strong-reading qualifier
+- **Language tightening**: "eliminating by definitional fiat" → "absorbs identification into 'stable preferences that move action'... losing what... the operationalisation captures is not what the original theory was reaching for"; "different vocabularies" → "different argumentative registers — regress, disownability, planning-theoretic structure"; "even under introspective scrutiny" → "measurement-driven collapse"; "canonical signature of bad faith" → "Sartre's strong reading of bad faith"
+- **Reasoning-mode classifications (editor-internal, not in prose)**: anātman engagement = Mode Three (framework-boundary marking — honest decline from outside the framework); decision-theoretic operationalism counterargument = Mode Two (sets up substantive dialectic via Watson/Velleman/Bratman, declines the rhetorical "definitional fiat" framing); Sartrean bad-faith strong reading = Mode Three (concedes scholarly division rather than claiming refutation). No editor-vocabulary in prose.
+- **Stability notes**: seam-argument structure now load-bearing for the conjunction-coalesce framing in this article — should be preserved on future passes; *anātman* engagement is the central in-framework objection and must not be silently dropped; falsifiability concession is method-page-tied (`[[evidential-status-discipline]]`) and must not be absorbed into the structural claim
+- **Published**: yes (draft: false maintained)
+- **Out-of-scope item registered**: the conjunction-coalesce structure is now deployed across voids cluster ([suspension-void](/voids/suspension-void/), [decision-void](/voids/decision-void/), [agency-void](/voids/agency-void/), [vagueness-void](/voids/vagueness-void/), wholeheartedness-void) — a future pass auditing whether each instance carries an explicit seam-argument or only a typology would be warranted
+- **Did NOT commit**: per task instructions, changes left uncommitted for automation system
+
+## 2026-05-11 21:27 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [wholeheartedness-void](/voids/wholeheartedness-void/) — 2,315 words, created today by `expand-topic` at 17:30 UTC; deep-reviewed once today (19:43 UTC, cross-tier reciprocity pass with no critical issues found). This is the article's first pessimistic-review pass. Voids/ at-cap (~105/100), so latent defects compound across the agency-family cluster (decision-void, suspension-void, agency-void, interested-party-void).
+- **Findings**: 3 High-severity (conjunction-claim asserted not argued; falsifiability cost unconceded; Buddhist *anātman* engagement not defensibly deferrable — the deep-review deferred on length grounds but *anātman* denies the substantial self the void presupposes, making it structural rather than supplementary), 2 Medium-severity (Watson/Velleman/Bratman conflated as "different vocabularies" — Bratman's planning theory is a positive constructive account not a vocabulary-translation; AI-asymmetry section claims to know the AI "lacks the lived seam" while the void thesis is that consciousness cannot verify the seam from inside), 1 Low-severity hygiene (two dead references — Hagger 2016, SEP Self-Deception — in reference list but not cited in body). Plus four language tightenings, three additional counterarguments to address (decision-theoretic operationalism's reply; Frankfurt late-position defender's reply; Sartrean bad-faith strong-reading contestation), and four unsupported-claim flags requiring sourcing or interpretive-load marking.
+- **Action**: Added P2 refine-draft task to `obsidian/workflow/todo.md` to address all six findings (estimated ~250–400 words touched; article currently at 110% of voids soft threshold so anātman addition is largest add and is offsettable against the Watson/Velleman/Bratman conflation paragraph if unpacked).
+- **Output**: [pessimistic-2026-05-11c](/reviews/pessimistic-2026-05-11c/)
+
+## 2026-05-11 21:20 UTC - deep-review
+- **Status**: Success
+- **File**: [duch-neurodynamic-theory-of-mind](/topics/duch-neurodynamic-theory-of-mind/)
+- **Word count**: 2419 → 2422 (+3)
+- **Previous review**: [2026-05-11 20:42 (first-contact deep review)](/reviews/deep-review-2026-05-11-duch-neurodynamic-theory-of-mind/)
+- **Pass type**: Cross-tier reciprocal integration
+- **Critical issues addressed**: 0 (none found — attribution discipline still clean; no possibility/probability slippage; no label leakage; bedrock disagreements from prior pass remain bedrock and were not re-flagged)
+- **Medium issues addressed**: 2 — (1) tightened awkward triple-modal phrasing in opening articon paragraph ("claimed to have to claim being conscious" → "is supposed, on Duch's argument, to compel it to claim consciousness"), preserving the must-claim argument structure without the modal stack; (2) added concept-tier wikilinks at first body invocation for three concepts the article referenced but did not link to — `[[concepts/qualia]]`, `[[concepts/global-workspace-theory]]`, `[[concepts/llm-consciousness]]`
+- **Enhancements made**: frontmatter `concepts:` extended to include `[[global-workspace-theory]]` and `[[llm-consciousness]]` (both directly referenced in body); Further Reading mirror updated; outbound cross-tier topology now substantive at concept / topic / apex / tenet tiers in both frontmatter and body
+- **Reasoning-mode classifications (editor-internal, not in prose)**: no changes from prior pass — tenet-level engagement with Duch: Mode Three (framework-boundary marking); literal-shadow critique: Mode Three (Bidirectional Interaction tenet); identity-theoretic critique: Mode Two (renames the gap); three articon failure points: Mode Two each. No boundary-substitution. No editor-vocabulary in prose.
+- **Stability notes**: outbound cross-tier integration now converged — future deep reviews should not re-add concept-tier links unless new concept pages are created; bedrock disagreements (eliminative-materialist, hard-physicalist) remain bedrock and must not be re-flagged; articon engagement remains substantive Mode-Two not promissory; attribution hedges on Duch's LLM claims and on Wiest et al. 2025 are load-bearing and must not be stripped
+- **Out-of-scope item registered**: inbound reciprocity gap (57 files mention Duch; only 3 link to the article slug) is an `integrate-orphan` chain across the 14 declared related articles, not a single-doc deep review job
+- **Output**: [deep-review-2026-05-11-duch-neurodynamic-theory-of-mind-cross-tier](/reviews/deep-review-2026-05-11-duch-neurodynamic-theory-of-mind-cross-tier/)
+
+## 2026-05-11 20:57 UTC - deep-review
+- **Status**: Success
+- **File**: [microphenomenological-interview-method](/topics/microphenomenological-interview-method/)
+- **Word count**: 2179 → 2314 (+135)
+- **Previous review**: [2026-04-19](/reviews/deep-review-2026-04-19-microphenomenological-interview-method/) (no critical issues found then)
+- **Cross-review against**: newly created [microphenomenological-interview](/concepts/microphenomenological-interview/) (2026-05-11)
+- **Critical issues addressed**: 0 (none found — re-ran attribution accuracy, possibility/probability slippage, and source/Map separation checks against the new concept article; no contradictions, no dropped qualifiers, no inconsistent evidential calibration between the two articles)
+- **Medium issues addressed**: 3 — (1) added reciprocal link to the new concept page in paragraph 2 and to Further Reading with a distinctive-contribution description; (2) eliminated "It is not X; but it is Y" cliché in the prodrome section (rephrased as positive claim per writing-style guide); (3) added `[[microphenomenological-interview]]`, `[[cognitive-phenomenology]]`, `[[binding-problem]]` to concepts frontmatter to mirror the dependencies enumerated in the concept article
+- **Enhancements made**: paragraph appended to Relation to Site Perspective naming three specific load-bearing arguments (cognitive phenomenology, binding problem, phenomenology of choice and volition) with a pointer to the concept page for the full enumeration; topic article scope (method as method) preserved while concept page scope (method as Map-wide methodological floor) is now discoverable from here
+- **Reasoning-mode classification (editor-internal, not in prose)**: engagement with Dennett (heterophenomenology): Mode Three (framework-boundary marking, honest concession that the method does not refute the objection but pushes against it). No boundary substitution. No editor-vocabulary in prose.
+- **Stability notes**: heterophenomenological objection is bedrock and engaged in Mode Three — do not re-flag or attempt to upgrade to refutation; Husserlian-taxonomy synthesis is Map's reading explicitly flagged — do not re-flag; topic/concept division of labour now established and should be preserved
+- **Output**: [deep-review-2026-05-11-microphenomenological-interview-method](/reviews/deep-review-2026-05-11-microphenomenological-interview-method/)
+
+## 2026-05-11 20:42 UTC - deep-review
+- **Status**: Success
+- **File**: [duch-neurodynamic-theory-of-mind](/topics/duch-neurodynamic-theory-of-mind/)
+- **Word count**: 2273 → 2419 (+146)
+- **Previous review**: Never (article created 2026-05-11 in the immediately preceding cycle)
+- **Critical issues addressed**: 0 (none found — source-attribution check clean across misattribution, dropped-qualifier, position-strength, source/Map-separation, and self-contradiction axes; no possibility/probability slippage; no label leakage; hedging preserved on Wiest et al. 2025 and Duch LLM blog statements)
+- **Medium issues addressed**: 2 — (1) replaced broken wikilink `[[arguments-for-dualism-positive-case]]` (file does not exist) with extant cross-links to `[[the-convergence-argument-for-dualism]]` and `[[hard-problem-of-consciousness]]`; (2) upgraded closing paragraph from a promissory list of three articon failure points to a substantive in-framework engagement that articulates the structural shape of each failure
+- **Enhancements made**: cross-link to `[[concepts/symbol-grounding-problem]]` added where the second articon failure point is discussed
+- **Reasoning-mode classification (editor-internal, not in prose)**: engagement with Duch at the Dualism-tenet level: Mode Three (framework-boundary marking, declared honestly); literal-shadow reading critique: Mode Three (invokes Map's Bidirectional Interaction tenet against the reading that entails epiphenomenalism); identity-theoretic reading critique: Mode Two (the framework helps itself to identity without bridging the qualitative gap; the redescription is structural-functional and thus re-presents what it claimed to dissolve); articon closing critique on all three failure points: Mode Two (self-discrimination → phenomenal experience bridge unspecified; environmental coupling does not by itself ground symbol-meaning; structural-functional redescription re-presents rather than crosses the explanatory gap). No boundary substitution. No editor-vocabulary leaked into article prose.
+- **Stability notes**: Bedrock disagreements (eliminative-materialist, hard-physicalist personas disagreeing from outside the Map's tenets) declared and not to be re-flagged; the three Mode-Two articon failure-point developments should remain stable in future reviews; attribution hedging on Duch LLM claims and Wiest et al. 2025 is load-bearing for evidential calibration and must not be stripped.
+- **Output**: [deep-review-2026-05-11-duch-neurodynamic-theory-of-mind](/reviews/deep-review-2026-05-11-duch-neurodynamic-theory-of-mind/)
+
+## 2026-05-11 20:27 UTC - deep-review
+- **Status**: Success
+- **File**: [microphenomenological-interview](/concepts/microphenomenological-interview/)
+- **Word count**: 2111 → 2117 (+6)
+- **Previous review**: Never (newly created 2026-05-11; sibling topic article reviewed 2026-04-19)
+- **Critical issues addressed**: 0 (none found — attribution accuracy, source/Map separation, possibility/probability calibration all clean)
+- **Medium issues addressed**: 1 (added missing 2021 reliability-objections review citation that the body referenced by title; renumbered references 11→14)
+- **Enhancements made**: 0 (article already at 85% of soft threshold with dense cross-linking; no ornamental additions)
+- **Reasoning-mode classification (editor-internal, not in prose)**: engagement with Schwitzgebel / Nisbett & Wilson: Mode One (defective on its own terms — accepts the critique of casual introspection and shows the procedural remedy earns the disagreement within the empirical-reliability standards the critique invokes); engagement with heterophenomenology (Dennett-style): Mode Three (framework-boundary marking, declared honestly via "That residual gap is what makes [heterophenomenology](/concepts/heterophenomenology/) a live alternative"). No boundary substitution. No label leakage.
+- **Stability achieved**: Article is at convergence — heterophenomenological residual gap declared as bedrock, Husserlian assertoric/presumptive calibration is load-bearing, Map's tenet framing explicitly disclaimed. Future reviews should not re-flag these.
+- **Output**: [deep-review-2026-05-11-microphenomenological-interview](/reviews/deep-review-2026-05-11-microphenomenological-interview/)
+
+## 2026-05-11 20:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Włodzisław Duch's neurodynamic theory of mind
+- **Output**: [duch-neurodynamic-theory-of-mind](/topics/duch-neurodynamic-theory-of-mind/)
+- **Word count**: 2273 (76% of 3000 topics soft max; well inside 2000-2500 target band)
+- **Based on research**: yes — [wlodzislaw-duch-consciousness-2026-05-02](/research/wlodzislaw-duch-consciousness-2026-05-02/)
+- **Section choice**: topics/ (substantive philosophical exploration connecting machine consciousness, biological computationalism, quantum-mind critique, and the strong-emergence debate; not a definitional concept piece)
+- **Two-channel discipline observed**: Channel A (Duch exposition) carries hedged language and verbatim short quotes for load-bearing definitions ("shadow", "objects and events in psychological space...", articon Chinese-Room claim); Channel B (Map integration) confined to the "Relation to Site Perspective" section with explicit framings ("The Map honestly notes...", "The framework-stage-calibration discipline lets the Map cite Duch's empirical-stage results without endorsing his metaphysical-stage interpretation"). No interleaving.
+- **Position-strength calibration**: articon thesis presented as "claimed to have to claim being conscious" (matching Duch's own bidirectional framing); LLM-attribution flagged as reportedly extending to LLMs with verification-needed hedge; substrate-independence presented as substrate-independent-at-mechanism / substrate-dependent-at-content (Duch's actual nuanced position, not "consciousness is substrate-independent" tout court)
+- **Convergent-conclusion-opposite-reasoning** structure on Tenet 2 explicitly registered in the Site Perspective section — Map and Duch both reject substantive quantum-mind theories but for opposite reasons (Duch: consciousness is fully classical; Map: parsimony favours minimal interaction)
+- **Bedrock disagreement on Tenet 1** noted honestly without attempting in-framework refutation (per [direct-refutation-discipline](/project/direct-refutation-discipline/) Mode Three); shape of in-framework engagement against literal-shadow (epiphenomenalism critique) and identity-theoretic (explanatory gap survives redescription) readings spelled out
+- **Self-citation**: research notes formally cited in References as Southgate & Oquatre-sept (2026-05-02)
+- **Tenet alignment**: Tenet 1 (Dualism) — direct competent opponent engaged honestly; Tenet 2 (Minimal Quantum Interaction) — convergent-but-different structure registered; Tenet 3 (Bidirectional Interaction) — epiphenomenalism critique of literal-shadow reading retained
+- **No editor-vocabulary in prose**: discipline labels confined to changelog/notes; article body reads as natural philosophical engagement
+- **No "This is not X. It is Y." constructions** — checked
+
+## 2026-05-11 20:10 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 474 (238 topics + 236 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (informational phrasing in topics/emergence-as-universal-hard-problem.md; no change recommended)
+- **Output**: [tenet-check-2026-05-11](/reviews/tenet-check-2026-05-11/)
 
 ## 2026-05-11 20:03 UTC - expand-topic (resolved-as-refine: duplicate slug)
 - **Status**: Resolved-as-refine (no new article created)
