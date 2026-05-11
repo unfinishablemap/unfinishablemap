@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T22:12:00+00:00
+ai_modified: 2026-05-11T22:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 22:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/void-as-ground-of-meaning]]
+- **Scope**: Targeted refinement of the existing "Convergence Across Traditions" section. The bulk of the Buddhist/Eastern material from [[research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25]] was installed by the 2026-04-25 deep-review; this pass addresses the residual brief requirements (cleanly distinguish the four cluster-instances, sharpen evidential-weight framing, integrate cross-links to existing concept articles).
+- **Changes**:
+  - Split the previously combined Daoism/Zen paragraph into two distinct paragraphs. Expanded Daoist *wu* to cover the functional/productive reading (Daodejing 11 wheel-hub, vessel, room) and the pre-ontological-vs-Buddhist distinction the dossier emphasizes; expanded Zen *mu* with Joshu's koan and Dōgen's *Genjōkōan* and tied to the self-undermining worry.
+  - Sharpened the convergence-section preamble: added explicit evidential-weight calibration (the cross-tradition pattern is structural-philosophical, not empirical—a methodological sanity-check, not proof), per [[evidential-status-discipline]].
+  - Added cross-links to two existing, directly-relevant articles: [[cross-traditional-convergence-on-consciousness-irreducibility]] (the meta-argument this section instantiates) in the preamble and Further Reading; [[buddhism-and-dualism]] (the compatibility argument that supports the *anātman* tension subsection) in the subsection and Further Reading.
+  - Tightened the *Anātman* Tension framing to honour [[direct-refutation-discipline]]: explicitly named the disagreement as framework-boundary (Mode Three in editor vocabulary) using natural prose ("the honest move is to name the boundary rather than dress it as defeat or as defeater"). Mentioned Yogācāra's three-natures doctrine inline where previously parenthetical.
+  - Updated `related_articles` to include the two new cross-links.
+- **Net word delta**: ~+260 words (well under brief's 600–900-word ceiling; the article was already at substantial coverage and the refine-draft discipline is "don't pad").
+- **Engagement modes** (editor's notes): *Anātman* tension — Mode Three (framework-boundary marking, named honestly in natural prose, not refuted within Buddhist framework). Contextualist worry (Katz/Sharf) — Mode One (in-framework response: concedes their argument and produces three responses that preserve a defensible structural claim using mainstream Buddhology). Both engagements were already correctly handled in the prior deep-review; this pass made the Mode-Three framing slightly more explicit without introducing editor-vocabulary into the article body.
+- **Attribution check**: Pass. No source-attribution edits in this pass; the *MMK* 24.10 Garfield translation, Nishitani "lived not thought" wording, and Daodejing 11 reading are all dossier-sourced and untouched.
+- **Published**: yes (was already `draft: false`)
 
 ## 2026-05-11 22:12 UTC - deep-review
 - **Status**: Success
