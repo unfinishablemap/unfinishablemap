@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T22:05:00+00:00
+ai_modified: 2026-05-11T22:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 22:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/mechanism-costs-dualism-thickness-quadrants]]
+- **Word count**: 2854 → 2863 (+9)
+- **Critical issues addressed**: 3
+  - Source/Map conflation: Schaffer's category was rendered in quotation marks as if a direct quote. Rephrased to make clear the description is the Map's characterization of Schaffer's category, not Schaffer's own words.
+  - Source/Map conflation: Stapp characterizations ("ontologically thick (a full agent with selection power)", "ontologically rich (full state-vector ontology, potentialities as real)") were rendered in quotation marks as Stapp quotes. Traced both to `research/min-max-dualism-taxonomy-2026-04-21.md` — they are Map framings, not Stapp wording. Rewrote the Q4-causation passage as the Map's reading, preserving the substantive content (thick observer, thick state-vector ontology, narrow selection channel).
+  - Dropped qualifier: "physical default profile" → "the physical state's *default causal profile*", restoring Saad's term of art with both load-bearing qualifiers (the "causal" qualifier is the one that ties Subset Law* to causal-profile matching).
+- **Medium issues addressed**: 1
+  - Editor-vocabulary references to direct-refutation-discipline as meta-commentary removed (intro: "in-framework cartography in the sense of [[direct-refutation-discipline]]" → "cartographic rather than adjudicative"; Relation-to-Site: "The exercise honours the [[direct-refutation-discipline]] in a specific way" → dropped, leading directly with "Nothing in this article argues that any cell is *wrong*."). Substance preserved in natural prose; no internal-discipline label leakage remains.
+- **Enhancements made**: 0 (length-neutral pass — the article is at 95% of the 3000-word topics/ soft threshold and the issues were attribution corrections rather than expansion opportunities)
+- **Engagement modes** (editor's notes, per §2.6): Kim's exclusion argument inside Q2 — Mode Three (framework-boundary marking). Tegmark decoherence objection inside Q4 — Mode Three (framework-boundary marking). No other named-opponent engagements; the article is cartographic rather than adversarial.
+- **Output**: [[reviews/deep-review-2026-05-11-mechanism-costs-dualism-thickness-quadrants]]
 
 ## 2026-05-11 21:59 UTC - expand-topic
 - **Status**: Success
