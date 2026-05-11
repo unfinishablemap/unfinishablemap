@@ -4,7 +4,7 @@ description: "Out-of-body experiences are phenomenologically real and causally d
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-05-09T16:38:00+00:00
+ai_modified: 2026-05-11T14:02:23.387583+00:00
 last_deep_review: 2026-05-08T21:35:00+00:00
 draft: false
 topics:
@@ -35,11 +35,22 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-08
 last_curated:
+embedded_videos:
+  - id: StU8aNLD1MQ
+    url: https://www.youtube-nocookie.com/embed/StU8aNLD1MQ
+    embedded: 2026-05-11T14:02:23.387583+00:00
+    source: notebooklm/0057-01-out-of-body-experiences
 ---
 
 Out-of-body experiences (OBEs) are conscious episodes in which the experiencer seems to perceive their environment from a location outside the physical body. Surveys put their lifetime prevalence in the general population at roughly 5–10%, with higher rates in clinical samples and among those reporting other altered states (Blackmore, 1982; Blanke and Mohr, 2005). They occur spontaneously near sleep, during illness or stress, under drugs such as ketamine, in lucid dreams, near death, and — most decisively for the science — under direct cortical stimulation of the right [[#tpj-stimulation|temporo-parietal junction]] (TPJ), explained below.
 
 The Unfinishable Map's reading: most lab-induced and many spontaneous OBEs are best understood as dislocations of the [[self-and-self-consciousness|phenomenal self-model]] — the brain's representation of where "I" am located is decoupled from the body's actual location, while consciousness itself remains tied to the brain. This is an *illusion of disembodiment*, not literal disembodiment. Critically, that this mechanism exists does not entail that every OBE is reducible to it. The strongest dualist claim — that consciousness can in some cases occupy a perspective the body cannot occupy — depends on rare and contested veridical-perception cases, and the controlled evidence from the AWARE studies has so far returned zero hits on hidden targets. The Map therefore treats OBEs as phenomenologically real and evidentially mixed: they refute strong claims that the bodily self-model is necessary for consciousness, but they do not, on current evidence, demonstrate that consciousness leaves the body.
+
+<details class="yt-embed" data-video-id="StU8aNLD1MQ">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/StU8aNLD1MQ">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Phenomenology of Disembodiment
 
