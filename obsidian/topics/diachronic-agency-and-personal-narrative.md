@@ -29,6 +29,7 @@ related_articles:
   - "[[identity-across-transformations]]"
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[phenomenology-of-moral-life]]"
+  - "[[wholeheartedness-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -137,6 +138,7 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 - [[identity-across-transformations]] — How the substantial self persists through radical change
 - [[moral-implications-of-genuine-agency]] — How genuine agency transforms moral obligation, character, and moral luck
 - [[phenomenology-of-moral-life]] — The felt arc of moral consciousness from perception through deliberation to having chosen
+- [[wholeheartedness-void]] — Why disownability is structural: no within-action marker distinguishes "an identification I will continue to endorse" from "one I will later disown"
 
 ## References
 

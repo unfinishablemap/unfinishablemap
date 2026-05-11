@@ -41,6 +41,7 @@ related_articles:
   - "[[microphenomenological-interview-method]]"
   - "[[source-attribution-void]]"
   - "[[noetic-feelings-void]]"
+  - "[[wholeheartedness-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7

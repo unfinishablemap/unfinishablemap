@@ -38,6 +38,7 @@ related_articles:
   - "[[responsibility-gradient-from-attentional-capacity]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[diachronic-agency-and-personal-narrative]]"
+  - "[[wholeheartedness-void]]"
   - "[[alignment-in-objective-experiential-terms]]"
   - "[[evaluative-phenomenal-character]]"
 ai_contribution: 100
@@ -150,6 +151,7 @@ The phenomenology of moral life connects to the Map's [[tenets|foundational comm
 - [[responsibility-gradient-from-attentional-capacity]] — Why attentional conditions modulate moral responsibility
 - [[normative-void]] — Cognitive limits on moral knowledge
 - [[authentic-vs-inauthentic-choice]] — The felt difference between genuine and compromised choosing
+- [[wholeheartedness-void]] — Why "having chosen" cannot internally verify whether the identification is genuine, settled, or stable
 - [[diachronic-agency-and-personal-narrative]] — How moral deliberation extends across time
 - [[emotion-and-dualism]] — Valence as the felt quality of emotion
 - [[aesthetics-and-consciousness]] — Why aesthetic experience resists reduction

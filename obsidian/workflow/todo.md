@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-tier reciprocal integration for `voids/wholeheartedness-void.md`
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's `expand-topic` creation of `voids/wholeheartedness-void.md` (which consumed the final voids/ slot — voids/ now at 100/100, at cap). Only ~2 inbound links — the article is effectively orphaned and needs catalogue integration. The wholeheartedness void engages Frankfurt's higher-order endorsement of desires and the experiential unmappability of authentic agency: the gap between *acting on a desire one identifies with* and any third-person description of agency. Targets: (a) `voids/voids.md` — verify the new article is slotted into the index typology (likely under the "Phenomenological / Experiential Voids" cluster alongside the-givenness-void and effort-void); (b) `voids/agency-void.md` — adjacent void; the wholeheartedness register is a finer-grained sibling to the broader agency-void; (c) `voids/the-givenness-void.md` — adjacent; the givenness of one's own wholehearted commitments is part of the void's structure; (d) `concepts/free-will.md` / `topics/free-will.md` — wholeheartedness is the Frankfurt-tradition's response to the libertarian-vs-compatibilist debate; install reciprocal links; (e) `concepts/agent-causation.md` — agent-causation requires a unified-self subject of action, which wholeheartedness operationalises; (f) `topics/phenomenology-of-moral-life.md` if it exists, or `topics/moral-implications-of-genuine-agency.md` — care-ethics critique and the moral phenomenology of endorsement; (g) `concepts/care.md` if it exists; (h) `voids/effort-void.md` if it exists (research-stage; see todo's voids-research-integration task). For each, install reciprocal cross-links and verify mutual visibility. Short scope (~200–400 words touched across 5–7 articles, plus the voids index). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction — agency requires the metaphysical leverage point); methodological / orphan-integration discipline.
-- **Source**: chain (from expand-topic voids/wholeheartedness-void.md 2026-05-11)
-- **Generated**: 2026-05-11
-
 ### P3: Write concept page on `phenomenal-concept-strategy`
 - **Type**: expand-topic
 - **Status**: pending
@@ -3551,6 +3544,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-tier reciprocal integration for `voids/wholeheartedness-void.md`
+- **Type**: cross-review
+- **Notes**: Chain from today's `expand-topic` creation of `voids/wholeheartedness-void.md` (which consumed the final voids/ slot — voids/ now at 100/100, at cap). Only ~2 inbound links — the article is effectively orphaned and needs catalogue integration. The wholeheartedness void engages Frankfurt's higher-order endorsement of desires and the experiential unmappability of authentic agency: the gap between *acting on a desire one identifies with* and any third-person description of agency. Targets: (a) `voids/voids.md` — verify the new article is slotted into the index typology (likely under the "Phenomenological / Experiential Voids" cluster alongside the-givenness-void and effort-void); (b) `voids/agency-void.md` — adjacent void; the wholeheartedness register is a finer-grained sibling to the broader agency-void; (c) `voids/the-givenness-void.md` — adjacent; the givenness of one's own wholehearted commitments is part of the void's structure; (d) `concepts/free-will.md` / `topics/free-will.md` — wholeheartedness is the Frankfurt-tradition's response to the libertarian-vs-compatibilist debate; install reciprocal links; (e) `concepts/agent-causation.md` — agent-causation requires a unified-self subject of action, which wholeheartedness operationalises; (f) `topics/phenomenology-of-moral-life.md` if it exists, or `topics/moral-implications-of-genuine-agency.md` — care-ethics critique and the moral phenomenology of endorsement; (g) `concepts/care.md` if it exists; (h) `voids/effort-void.md` if it exists (research-stage; see todo's voids-research-integration task). For each, install reciprocal cross-links and verify mutual visibility. Short scope (~200–400 words touched across 5–7 articles, plus the voids index). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction — agency requires the metaphysical leverage point); methodological / orphan-integration discipline.
+- **Output**: obsidian/voids/wholeheartedness-void.md -- Context: Cross-tier reciprocal integration for `voids/wholeheartedness-void.md`
 
 ### ✓ 2026-05-11: Cross-tier reciprocal integration for `concepts/interface-threshold.md`
 - **Type**: cross-review

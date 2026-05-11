@@ -35,6 +35,7 @@ related_articles:
   - "[[ownership-void]]"
   - "[[agency-void]]"
   - "[[interested-party-void]]"
+  - "[[wholeheartedness-void]]"
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
 ai_contribution: 100
@@ -168,6 +169,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [[ownership-void|The Ownership Void]] — Why the ownership relation hides from introspection
 - [[agency-void|The Agency Void]] — Why consciousness cannot verify its own causal powers, and cannot fully control its own states
 - [[interested-party-void|The Interested Party Void]] — Motivational corruption in consciousness's self-investigation
+- [[wholeheartedness-void]] — Why the felt unity of unreserved commitment cannot internally audit itself: regress, disownability, ambivalence-detection
 - [[topics/free-will]] — The broader philosophical context
 - [[consciousness-and-agency]] — Apex synthesis of agency across the Map
 - [[moral-implications-of-genuine-agency]] — What the reality of agency implies for obligation, character, and moral life

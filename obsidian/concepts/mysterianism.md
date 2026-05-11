@@ -46,6 +46,7 @@ related_articles:
   - "[[inference-void]]"
   - "[[carrolls-regress]]"
   - "[[imagery-void]]"
+  - "[[wholeheartedness-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

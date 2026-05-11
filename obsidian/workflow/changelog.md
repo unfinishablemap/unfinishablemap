@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T19:26:00+00:00
+ai_modified: 2026-05-11T19:43:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 19:43 UTC - deep-review (cross-tier reciprocal integration)
+- **Status**: Success
+- **File**: [[voids/wholeheartedness-void]]
+- **Word count**: 2,198 → 2,198 (unchanged; voids soft threshold 2,000, article at 110% — body untouched, length-neutral mode)
+- **Critical issues addressed**: 0 (article created today; pessimistic pass found no attribution errors, no dropped qualifiers, no possibility/probability slippage, no source/Map conflation, no internal contradictions, no label leakage)
+- **Medium issues addressed**: 1 — cross-tier reciprocity gap: at creation, the voids article forward-linked many concepts (introspection, control-theoretic-will, mysterianism), apex (conjunction-coalesce), and topics (free-will, phenomenology-of-agency-vs-passivity, phenomenology-of-moral-life, diachronic-agency-and-personal-narrative) without inbound reciprocation. Now reciprocated on all eight: frontmatter entries in all eight, plus single-line Further Reading entries in the five non-pressured articles (control-theoretic-will, free-will, phenomenology-of-agency-vs-passivity, phenomenology-of-moral-life, diachronic-agency-and-personal-narrative). Length-pressured articles (apex/conjunction-coalesce 116%, concepts/introspection 128%, concepts/mysterianism 116%) received frontmatter-only entries to preserve length neutrality.
+- **Enhancements made**: 8 reciprocal cross-tier links established. Each Further Reading entry frames the void's relevance to the host article (e.g., for control-theoretic-will: "what 'stable preferences that move action' leaves out: the felt seam of identification the control frame cannot recover").
+- **Engagement-mode classifications** (editor-internal, not in article body): engagement with decision-theoretic parsimony / rational-agent theory — Mixed (Mode One via Watson, Velleman, Bratman + Mode Two on "definitional fiat"); engagement with Frankfurt's hierarchical theory — Mode One via Watson's regress; engagement with illusion-of-unity readings — Mode Two via Sartrean bad faith. No label leakage in article prose.
+- **Calibration-error audit**: no possibility/probability slippage — tenet engagements honestly tagged ("obliquely" for Bidirectional Interaction, "structural texture without empirical commitment" for Dualism). A tenet-accepting reviewer would not flag the calibration.
+- **Deferred**: (1) apex/conjunction-coalesce body update to add wholeheartedness-void as a seventh cognate to the typology — substantive expansion warranting an apex-evolve task; (2) Nagarjuna/anatta engagement — length-pressure defers this until either the article is condensed or its length budget expands.
+- **Output**: [[reviews/deep-review-2026-05-11-wholeheartedness-void]]
 
 ## 2026-05-11 19:26 UTC - deep-review (cross-tier reciprocal integration)
 - **Status**: Success
