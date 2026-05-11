@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 03:05:00+00:00
+ai_modified: 2026-05-11 03:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 03:31 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]
+- **Word count**: 2924 → 2941 (+17; 117% → 118% of 2500 soft threshold, stable across six reviews)
+- **Critical issues addressed**: 1 (leftover AI REFINEMENT LOG comment from 2026-03-29 refinement, self-marked for removal, removed)
+- **Medium issues addressed**: 1 (added Laukkonen 2023 inline footnote citation for cessation discussion; reference was already in academic list but not tied to body)
+- **Enhancements made**: 2
+- **Reasoning-mode classification (named opponents)**: engagement with Dennett/Frankish (illusionism): Mixed (Mode One + Mode Two; empirical heterophenomenology refutation via Fox et al. + regress problem identifying unsupported foundational move); engagement with Nisbett & Wilson (introspection critique): Mode One (process/content distinction earns disagreement inside the opponent's framework); engagement with materialist on causal pathway: Mode Three implicit (acknowledges differential behavioural training as standard mechanism). No label leakage. No boundary substitution.
+- **Calibration check**: no possibility/probability slippage detected; structural neuroplasticity claims appropriately downgraded after Kral 2022; Stapp Zeno integration hedged; cessation interpretation hedged.
+- **Output**: [[reviews/deep-review-2026-05-11-neurophenomenology-and-contemplative-neuroscience]]
+- **Stability**: Sixth deep review; article has converged. Future reviews should not re-flag heterophenomenology response, decoherence objection, Buddhist anti-substantialism tension, MWI argument, or bedrock framework-boundary disagreements.
 
 ## 2026-05-11 03:05 UTC - condense
 - **Status**: Success
