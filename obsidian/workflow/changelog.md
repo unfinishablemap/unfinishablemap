@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T18:57:00+00:00
+ai_modified: 2026-05-11T19:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 19:11 UTC - deep-review (cross-tier reciprocal integration)
+- **Status**: Success
+- **File**: [[concepts/selection-only-channel]]
+- **Word count**: 1,950 → 2,009 (+59 net; well below 2500 concept soft threshold)
+- **Critical issues addressed**: 0 (prior 17:41 review left article in stable state; this pass is purely cross-tier structural)
+- **Medium issues addressed**: 1 — cross-tier reciprocity gap: at creation (2026-05-11), the concept page linked outward to parent topic, sibling concepts, and apex programmes but no inbound links existed. Now reciprocated: parent topic [[selection-only-mind-influence]] links back via frontmatter + intro pointer + Further Reading; sibling concept [[coupling-modes]] links back via frontmatter + new boundary paragraph + Further Reading; apex [[post-decoherence-selection-programme]] links to it via frontmatter + Minimal Quantum Interaction section. Concept page now also cites the PDS apex upward (related_articles + body + Further Reading) alongside the existing [[interface-specification-programme]] apex link.
+- **Files modified**: concepts/selection-only-channel.md (+59 words), topics/selection-only-mind-influence.md (+56 words), concepts/coupling-modes.md (+143 words), apex/post-decoherence-selection-programme.md (+60 words). All four remain within section soft thresholds.
+- **Enhancements made**: 7 cross-links added across four articles forming the reciprocal triangle (parent ↔ concept ↔ both apex programmes; sibling coupling-modes ↔ concept). One new boundary paragraph in coupling-modes positions selection-only-channel as the channel class beneath the three operational coupling modes (basis/timing/probability), each of which performs upstream work the channel class does not.
+- **Engagement-mode classifications**: no new named-opponent engagements; the cross-tier additions are structural-navigational
+- **Calibration-error audit**: no possibility/probability slippage introduced — the new content is structural exposition of which apex programmes scaffold against the concept and how; no evidential-status claims
+- **Output**: [[reviews/deep-review-2026-05-11b-selection-only-channel]]
 
 ## 2026-05-11 18:57 UTC - deep-review
 - **Status**: Success

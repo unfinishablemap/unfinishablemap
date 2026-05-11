@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-11T13:43:00+00:00
+ai_modified: 2026-05-11T19:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,8 @@ related_articles:
   - "[[amplification-void]]"
   - "[[forward-in-time-conscious-selection]]"
   - "[[framework-stage-calibration]]"
+  - "[[selection-only-channel]]"
+  - "[[selection-only-mind-influence]]"
 
 ai_contribution: 100
 author: null
@@ -79,7 +81,7 @@ The *probabilities are fixed*. The Born rule constrains the statistical distribu
 
 *Agreement is guaranteed*. Because environmental fragments carry redundant information about the selected outcome, all subsequent observers will agree. Consciousness need not synchronise multiple observations—quantum Darwinism handles intersubjective agreement automatically.
 
-These constraints clarify why the Map's proposal is one of minimal interaction. Quantum Darwinism has done the heavy lifting—selecting the basis, determining probabilities, ensuring objectivity. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could possibly be while still being genuine—requiring no energy injection, consistent with [[conservation-laws-and-mental-causation|conservation law constraints]].
+These constraints clarify why the Map's proposal is one of minimal interaction. Quantum Darwinism has done the heavy lifting—selecting the basis, determining probabilities, ensuring objectivity. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could possibly be while still being genuine—requiring no energy injection, consistent with [[conservation-laws-and-mental-causation|conservation law constraints]]. The channel-theoretic formalisation of this minimality — the per-event log₂(N) ceiling, the Born-rule throttling of the long-run signed rate to ~ε²/(2 ln 2) bits/trial, and the content-confinement bound on phenomenal repertoire — is developed in [[selection-only-channel]], with the parent topic [[selection-only-mind-influence]] carrying the empirical signature corridor and distinguishing observables. The programme's "minimal intervention" is the channel-class commitment those articles characterise.
 
 Zurek himself leans toward an Everettian reading where all pointer states are realised in separate branches. The Map rejects this: quantum Darwinism's core results—einselection, redundant encoding, the emergence of objectivity—are interpretation-neutral. They work equally well in collapse interpretations, hidden-variable theories, and consciousness-mediated frameworks. The physics can be separated from Zurek's interpretive inclinations.
 
