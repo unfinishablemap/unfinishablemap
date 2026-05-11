@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-11 06:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cluster-integration discipline as methodological pattern
+- **Output**: [cluster-integration-discipline](/project/cluster-integration-discipline/)
+- **Word count**: 1940
+- **Based on research**: no (synthesised from three converged catalogue exhibits — `topics/the-convergence-argument-for-dualism`, `topics/the-binding-problem`, `concepts/baseline-cognition`)
+- **Placement**: `project/` alongside `framework-stage-calibration`, `evidential-status-discipline`, `bedrock-clash-vs-absorption`, `closed-loop-opportunity-execution` — seventh named methodological discipline
+- **Source**: optimistic-review (2026-05-10b) medium-priority expansion opportunity
+
 ## 2026-05-11 05:31 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)

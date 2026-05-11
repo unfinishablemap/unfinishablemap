@@ -4,7 +4,7 @@ description: "Type-specificity is the methodological discipline that a reductive
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T04:18:00+00:00
+ai_modified: 2026-05-11T06:17:59+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -87,7 +87,7 @@ It does *not* do the following work:
 
 - **Prove irreducibility.** Type-specific reductive demands could in principle be met. A neuroscience that delivered the determinate character of redness in physical terms would discharge the demand at redness; the discipline would then have to consider whether the discharge extends type-by-type or whether the first reduction reveals a generic strategy applicable to the family.
 
-- **Defeat physicalism on its own.** Type-specificity is the structural feature of the explanandum, not an argument that physicalism cannot address the explanandum. It identifies what a successful physicalist account would have to deliver. Whether such an account is forthcoming is a separate question that the [[convergence-argument-for-dualism]] addresses through the pattern of evidence rather than through type-specificity alone.
+- **Defeat physicalism on its own.** Type-specificity is the structural feature of the explanandum, not an argument that physicalism cannot address the explanandum. It identifies what a successful physicalist account would have to deliver. Whether such an account is forthcoming is a separate question that [[the-convergence-argument-for-dualism]] addresses through the pattern of evidence rather than through type-specificity alone.
 
 - **Stand on irreducibility.** The discipline must not be defended by appeal to "phenomenal qualities are irreducible, therefore the reductive demand is unmeetable." That would be circular: type-specificity is invoked in support of the irreducibility verdict, so it cannot draw its anti-generic-mechanism force from the verdict it helps support. The force comes from the structural correspondence between explanandum-shape and explanans-shape, recognised independently of any reduction's success or failure.
 
