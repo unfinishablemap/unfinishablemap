@@ -3518,13 +3518,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-06)
 - **Generated**: 2026-05-06
 
-### P2: Write concept page on integration-as-activity (the IIT critique's central alternative framing) [promoted 2026-05-11]
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-11 (High Priority). The integration-as-activity-not-property distinction is the Map's strongest single philosophical move against IIT, currently distributed across `topics/consciousness-and-integrated-information.md` lines 111–147 (which catalogues four alternative frameworks — Recurrent Processing, Global Workspace, Predictive Integration, Whiteheadian prehension — that converge on the distinction), `topics/consciousness-and-cognitive-distinctiveness.md` line 73 (consciousness-as-amplifier framing), and `topics/the-binding-problem.md` line 152 (binding-as-selective-activity framing). Consolidating it as a concept page would let other articles deploy it as a unified discipline rather than re-deriving the framework each time. A concept page would (a) state IIT's identity thesis at its strongest, (b) catalogue the four alternatives (RPT, GWT, predictive processing, Whiteheadian prehension) that treat integration as activity rather than property, (c) name the Whitehead-limitation explicitly (the discipline does not require panexperientialism — the IIT article's line 137 framing is the model), (d) cross-link to `topics/consciousness-and-integrated-information`, `concepts/baseline-cognition`, `topics/the-binding-problem`, `concepts/attention-as-interface`. Concepts/ section currently at ~232/250 = 93% capacity — verify cap before placement. Estimated scope: 1500–2000 words. Tenet alignment: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) — integration-as-activity is the operationalisation of consciousness *doing* something rather than *being* something. See [[reviews/optimistic-2026-05-11]].
-- **Source**: optimistic-review (2026-05-11)
-- **Generated**: 2026-05-11
-
 ### P2: Write concept page on interface-threshold (the cognitive-distinctiveness article's central explanatory mechanism) [promoted 2026-05-11]
 - **Type**: expand-topic
 - **Status**: pending
@@ -3534,6 +3527,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Write concept page on integration-as-activity (the IIT critique's central alternative framing) [promoted 2026-05-11]
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-11 (High Priority). The integration-as-activity-not-property distinction is the Map's strongest single philosophical move against IIT, currently distributed across `topics/consciousness-and-integrated-information.md` lines 111–147 (which catalogues four alternative frameworks — Recurrent Processing, Global Workspace, Predictive Integration, Whiteheadian prehension — that converge on the distinction), `topics/consciousness-and-cognitive-distinctiveness.md` line 73 (consciousness-as-amplifier framing), and `topics/the-binding-problem.md` line 152 (binding-as-selective-activity framing). Consolidating it as a concept page would let other articles deploy it as a unified discipline rather than re-deriving the framework each time. A concept page would (a) state IIT's identity thesis at its strongest, (b) catalogue the four alternatives (RPT, GWT, predictive processing, Whiteheadian prehension) that treat integration as activity rather than property, (c) name the Whitehead-limitation explicitly (the discipline does not require panexperientialism — the IIT article's line 137 framing is the model), (d) cross-link to `topics/consciousness-and-integrated-information`, `concepts/baseline-cognition`, `topics/the-binding-problem`, `concepts/attention-as-interface`. Concepts/ section currently at ~232/250 = 93% capacity — verify cap before placement. Estimated scope: 1500–2000 words. Tenet alignment: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) — integration-as-activity is the operationalisation of consciousness *doing* something rather than *being* something. See [[reviews/optimistic-2026-05-11]].
+- **Output**: Write concept page on integration-as-activity (the IIT critique's central alternative framing) [promoted 2026-05-11]
 
 ### ✓ 2026-05-11: Write concept page on type-token causation (Kim's exclusion and its quantum-indeterminacy limit) [promoted 2026-05-11]
 - **Type**: expand-topic

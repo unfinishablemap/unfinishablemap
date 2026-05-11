@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T14:56:00+00:00
+ai_modified: 2026-05-11T15:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 15:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Integration as activity (the IIT critique's central alternative framing)
+- **Output**: [[concepts/integration-as-activity]]
+- **Word count**: 1947 words (78% of 2500 soft max; within concept target range)
+- **Based on research**: No (anchored on existing treatment in `topics/consciousness-and-integrated-information.md` lines 111–147 which catalogues the four convergent alternatives; consolidates the distinction so other articles can deploy it compactly)
+- **Source treatment**: Two-channel discipline maintained — IIT's identity thesis stated at its strongest before the activity framing's structural advantages are named; the four alternatives (RPT/Lamme, GWT/Baars-Dehaene, predictive processing/Friston, Whiteheadian prehension) each get a hedged source-exposition paragraph distinct from the Map-integration claim about why they converge. Whitehead-limitation named explicitly: the discipline does not require panexperientialism.
+- **Tenet alignment**: Tenet 1 (Dualism — substrate provides possibilities, consciousness performs the activity) and Tenet 3 (Bidirectional Interaction — activity admits causal influence, identity does not). The "What the Discipline Does Not Settle" section honestly notes that property dualism, emergentism, and neutral monism are all compatible with activity framing — the discipline does not by itself prove interactionism.
+- **Self-citations**: One added (`consciousness-and-integrated-information`) — the topic article supplies the full argument for which the concept page is the referential anchor.
+- **Cross-links installed** (per task notes): `consciousness-and-integrated-information`, `baseline-cognition`, `the-binding-problem`, `attention-as-interface`, `type-token-causation`, `prehension`, `process-philosophy`, `predictive-processing`, `global-workspace-theory`, `epiphenomenalism`, `interactionist-dualism`.
+- **Attribution discipline checks**:
+    - IIT identity claim attributed with verbatim phrase "is one and the same" — Tononi's published language preserved.
+    - RPT, GWT, predictive processing summarised with their authors' framing; activity-framed reading is named as the Map's reading, not the source's.
+    - Whitehead's panexperientialism named as a commitment the Map does *not* inherit — the activity framing is borrowed without the universal-experience claim.
+    - "What the Discipline Does Not Settle" section makes explicit that the framing is compatible with several positions besides interactionism, avoiding the over-attribution that the framing alone proves the Map's metaphysics.
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
 
 ## 2026-05-11 14:56 UTC - expand-topic
 - **Status**: Success
