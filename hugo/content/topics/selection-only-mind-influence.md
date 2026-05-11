@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-08 12:06:00+00:00
+ai_modified: 2026-05-11 19:11:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -10,8 +10,9 @@ concepts:
 - '[[post-decoherence-selection]]'
 - '[[stapp-quantum-mind]]'
 - '[[conservation-laws-and-mental-causation]]'
+- '[[selection-only-channel]]'
 created: 2026-05-05
-date: &id001 2026-05-08
+date: &id001 2026-05-11
 description: 'Human–AI exploration of the strictest reading of mind-on-quantum influence:
   three information-theoretic limits and the empirical signatures that follow.'
 draft: false
@@ -33,7 +34,7 @@ topics: []
 
 The strictest reading of the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is *selection-only*: mind contributes nothing to the candidate set the brain physically generates. It only chooses which of the already-generated alternatives becomes actual. Under that constraint, three information-theoretic limits follow immediately. Each selection event can transfer at most log₂(N) bits, where N is the size of the brain-prepared candidate set. Long-run frequency statistics over that set must converge to physical Born-rule probabilities, driving the *signed* per-trial information rate toward zero across many trials. And mind cannot register, choose, or report content that no candidate encodes — novel qualia are structurally precluded if the brain has not pre-generated them. These three limits define a tight signature corridor: large enough to make a difference at the single-event scale, small enough to vanish at the ensemble scale, and bounded at every level by the physical-side candidate set.
 
-This article derives those limits, surveys the empirical ceiling they have to live under, and ends with a table of distinguishing observables that — at least in principle — separate selection-only models from candidate-generation alternatives.
+This article derives those limits, surveys the empirical ceiling they have to live under, and ends with a table of distinguishing observables that — at least in principle — separate selection-only models from candidate-generation alternatives. The channel-theoretic distillation of the same three limits — as Shannon-channel invariants any such coupling must satisfy — is the concept page [selection-only-channel](/concepts/selection-only-channel/); this article carries the philosophical argument, empirical corridor, and distinguishing-observables table, while the concept page isolates the per-event arithmetic, the bidirectionality structure, and the taxonomic boundary against probability-bias and basis-choice channels.
 
 ## The Strict Reading of Tenet 2
 
@@ -146,6 +147,7 @@ The Map interprets the empirical situation as follows. The vanishing of detectab
 
 ## Further Reading
 
+- [selection-only-channel](/concepts/selection-only-channel/)
 - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
 - [post-decoherence-selection](/concepts/post-decoherence-selection/)
 - [trilemma-of-selection](/topics/trilemma-of-selection/)

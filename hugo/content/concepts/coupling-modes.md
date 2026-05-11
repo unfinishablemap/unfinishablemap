@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-05 09:48:00+00:00
+ai_modified: 2026-05-11 19:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[agent-causation]]'
 created: 2026-01-31
-date: &id001 2026-01-31
+date: &id001 2026-05-11
 description: 'Three ways consciousness might influence quantum outcomes: basis selection,
   timing control, or probability reweighting—with different implications for detectability
   and minimality.'
@@ -28,6 +28,8 @@ related_articles:
 - '[[quantum-probability-consciousness]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
+- '[[selection-only-channel]]'
+- '[[selection-only-mind-influence]]'
 title: Coupling Modes
 topics:
 - '[[mental-causation-and-downward-causation]]'
@@ -132,6 +134,8 @@ The Unfinishable Map does not commit to a single coupling mode, but the tenets f
 
 The most promising synthesis: **basis control sets the alternatives; timing control stabilises preferred patterns; probability control, if present at all, operates at the margin**. Consciousness primarily shapes the option space (basis) and sustains attention on relevant alternatives (timing), with outcome selection mostly following Born statistics.
 
+A still-stricter outcome-level reading sits beneath these three modes. The [selection-only-channel](/concepts/selection-only-channel/) concept formalises the strictest possible coupling: mind contributes nothing to the candidate set, neither selecting the basis nor reweighting probabilities, only realising one of the brain-prepared alternatives at its Born-rule rate. Basis control modifies the candidate set by choosing the question; timing control modifies it by choosing when measurement happens; probability control modifies its weights. Selection-only sits below all three as the channel class that touches none of them — its log₂(N) per-event ceiling, Born-rule throttling, and content-confinement bound are the channel-theoretic price of doing none of the upstream work. The parent topic [selection-only-mind-influence](/topics/selection-only-mind-influence/) derives the empirical signature corridor; the channel concept isolates the per-event arithmetic.
+
 ## Open Questions
 
 **Can modes combine?** Perhaps basis control is primary and timing control modulates it—attention selects alternatives (basis) and effort sustains them (timing). Probability control might be negligible or absent.
@@ -177,6 +181,8 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 - [agent-causation](/concepts/agent-causation/) — The free will implications of conscious selection
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — How coupling modes map onto altered-state phenomenology: basis control as the most fragile component across states
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Whether different organisms exploit different coupling modes
+- [selection-only-channel](/concepts/selection-only-channel/) — The channel-theoretic formalisation of the strictest outcome-level coupling, beneath the three modes
+- [selection-only-mind-influence](/topics/selection-only-mind-influence/) — The strictest reading and its empirical signature corridor
 
 ## References
 

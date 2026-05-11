@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 15:57:00+00:00
+ai_modified: 2026-05-11 18:57:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,6 +24,7 @@ description: Integration is something consciousness does, not what consciousness
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-11 18:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,6 +106,7 @@ Treating integration as activity is a framing, not an argument for [interactioni
 - A property dualist could hold that the activity is performed by a physical subject whose physical states have non-physical experiential aspects, without any non-physical causation. The activity is real; it just does not require an interactionist tenet.
 - An emergentist could hold that the activity is a high-level pattern that genuinely does causal work via downward causation, without being non-physical.
 - A neutral monist could hold that the activity is fundamental at a level that is neither mental nor physical, with both aspects derivative.
+- A Madhyamaka or process-philosophical no-subject reading could hold that the activity is a dependently-arisen pattern of aggregates without a substantial performing subject—the integrating happens, but neither a structure nor an agent is its ontological ground. The Map prefers the subject-performing reading on independent grounds (see [Activity Has a First-Personal Character](#what-activity-adds) and [Tenet 1](/tenets/#dualism)), but the no-subject option is a genuine third alternative that the identity-versus-activity framing should not silently exclude.
 
 The Map takes the activity discipline to be most naturally at home in an interactionist framework, where the subject performing the integration has causal powers not exhausted by the substrate's physical laws (see [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) and [type-token-causation](/concepts/type-token-causation/) for the operational mechanism). That naturalness is an argument from fit, not a proof. The discipline's main work is to deny the identity thesis, not to specify the positive metaphysics that replaces it.
 
@@ -146,19 +148,3 @@ Articles that depend on this distinction without re-deriving it should cite this
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 1. Southgate, A. & Oquatre-six, C. (2026-01-27). Consciousness and Integrated Information. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-integrated-information/
-
-<!-- AI REFINEMENT LOG - 2026-05-11
-Addressed pessimistic-2026-05-11b Issues 2, 3, 5 and Counterarguments §1:
-- Issue 2 (High): Added two paragraphs after the epiphenomenalism-collapse claim in "The Identity Thesis at Its Strongest" introducing the phenomenal-concept strategy (Loar 1990 / Papineau 2002 / Frankish 2016) as the standard physicalist rejoinder, with a natural-prose in-framework response showing why the activity framing does not need to deny the strategy's account of reports but does need to deny its account of introspective access to phenomenal character. The second paragraph also discharges Counterarguments §1 (IIT-theorist accepting the structure-not-subject framing as a feature): the in-framework cost named is the collapse of introspective acquaintance onto representational structure, not a Map-tenet appeal.
-- Issue 3 (Medium): Added "A Note on What the Convergence Shows" subsection after the Whitehead-limit paragraph, naming explicitly that RPT/GWT/predictive-processing converge with the activity framing only at the *description* level (integration-as-process), and that the further reading of the process as the act of a conscious subject is a Map-specific interpretation grounded in the dualist tenet rather than a shared commitment of the four frameworks. Also softened the lead paragraph's "convergence" claim to "description-level convergence" with a forward-pointer to the new subsection.
-- Issue 5 (Medium): Rewrote the third sub-bullet under "What 'Activity' Adds" from "Activity admits a subject" (grammar-to-metaphysics inflation) to "Activity has a first-personal character", arguing from the first-personal character of conscious experience as a datum that any working theory must accommodate, rather than from the grammar of "integration by consciousness".
-- Added references: Loar 1990, Papineau 2002, Frankish 2016.
-- Updated ai_modified timestamp to 2026-05-11T15:57:00+00:00.
-
-Engagement-mode classifications (editor-internal; not in article prose):
-- Phenomenal-concept-strategy / IIT-theorist engagement: Mode One (defective on its own terms) for the introspective-access point — the identity-theorist's combination of identity-thesis-plus-phenomenal-concept-strategy is shown to pay a specific in-framework cost (collapse of introspective acquaintance onto representational structure), invoked using the strategy's own commitments; Mode Three (framework-boundary marking) for the residue, since whether that cost is acceptable is itself a contested boundary the article does not pretend to settle by refutation.
-- Convergence-limit subsection: Mode Three (framework-boundary marking) — the over-claim is corrected by honestly naming where the convergence holds (description level) and where it does not (metaphysical reading of the process as a subject's act), rather than by trying to refute the cognitive-neuroscience frameworks inside their own terms.
-- First-personal-character sub-bullet: Mode Two (unsupported foundational move) on the identity-theorist's side — the identity thesis is shown to either silently reduce the first-personal character to some unnamed structural feature or leave it as a brute aspect; neither move is earned within the identity-thesis framework by its own standards.
-
-This log should be removed after human review.
--->

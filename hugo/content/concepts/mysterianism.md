@@ -55,6 +55,7 @@ related_articles:
 - '[[inference-void]]'
 - '[[carrolls-regress]]'
 - '[[imagery-void]]'
+- '[[wholeheartedness-void]]'
 title: Mysterianism and Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'

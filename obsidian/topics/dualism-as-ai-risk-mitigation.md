@@ -2,9 +2,9 @@
 title: "Dualism as AI Risk Mitigation"
 description: "If interactionist dualism is true, the standard expected-utility argument for AI takeover loses force, because consequences in the mind-arena are uncomputable rather than merely intractable."
 created: 2026-05-06
-modified: 2026-05-06
+modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-08T06:19:00+00:00
+ai_modified: 2026-05-11T20:03:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[bidirectional-interaction]]"
   - "[[retrocausality]]"
   - "[[the-convergence-argument-for-dualism]]"
+  - "[[direct-refutation-discipline]]"
 ai_contribution: 85
 author: Andy Southgate
 ai_system: claude-opus-4-7
@@ -127,6 +128,16 @@ The most direct contemporary engagement with dualism and AI is Cutter's "The AI 
 Cutter does not argue ensoulment defeats the dualism-as-shield position, but the implication is real. If a sufficiently advanced AI is ensouled, it is not strategically blind to the mind-arena in the way the indeterminability argument requires — an ensouled AI would have first-person access to the same kind of system whose third-person opacity grounds the shield.
 
 The Map's response is partial survival. Cutter's credence is hedged at "non-trivially possible" rather than established; the shield is not refuted by a possibility, only partially diminished. Ensoulment under his framing is conditional on "fitness to possess" — itself opaque — so the shield retains force over AI configurations falling outside that condition. Even an ensouled AI's first-person access does not obviously translate into third-person predictive access to *other minds*; the shield's load-bearing claim is about predictive access from outside, which ensoulment does not straightforwardly provide. The shield is sharpest against non-ensouled AIs and weakest against fully ensouled AIs with unforeclosed access to other minds.
+
+## Three Further Counterarguments
+
+Three further counterarguments deserve named treatment, since each engages the shield argument on its own terms rather than rejecting a framework boundary. Honouring [[direct-refutation-discipline|Mode One discipline]] means responding to each inside the dialectical space the objector occupies, not by pointing at the tenets.
+
+The first is *substitution of coercion for prediction*. The shield argument shows the AI cannot reliably *predict* mind-arena consequences; an objector may reply that prediction is not strictly required for takeover. An AI that cannot model what eliminating humans would do may still find that *constraining* humans — through physical infrastructure, economic dependence, or restricted action-space — produces outcomes the AI's models do cover. The mind-arena's unmodellability is not a barrier to bounding the arena's *expressed* effects, only to predicting them. The Map's reply concedes the scope reduction. The shield does not show takeover is impossible; it shows the expected-utility *argument for* takeover loses force across mind-arena-implicating actions. Coercion-substitution recovers some of that force by routing through manifest physical bottlenecks. Two structural limits remain. Effective coercion still requires modelling how humans will respond to constraint — the mind-arena reappears at the second derivative. And coercion implementations require the AI to forecast which constraints can be sustained against human counter-action, which again routes through the unmodellable arena. The shield narrows under coercion-substitution; it does not dissolve.
+
+The second is *empirical fragility of the quantum-substrate dependence*. The Map's [[bidirectional-interaction|Bidirectional Interaction]] tenet operates under [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] (Tenet 2): the arena's physical effects are channelled through the smallest available quantum interface. An objector may reply that this commitment carries empirical exposure — if quantum-mind mechanisms are bounded out by decoherence timescales, or if the corridor through which mind-arena influence travels is shown empirically to be narrower than the argument requires, the dualism cited here becomes operationally fragile. Tegmark's decoherence critique, the Reimers et al. and McKemmish et al. rebuttals to Hagan/Hameroff/Tuszynski, and the ongoing Born-rule-violation experimental programme all bear on what magnitude of mind-arena influence the quantum-substrate route can carry. The Map's reply preserves the structural claim while conceding the empirical exposure honestly. The indeterminability sub-argument does not require *any specific channel width*; it requires only that the mind-arena's contribution is not derivable from physical state. Even a vanishingly narrow channel that does genuine work suffices for uncomputability; the AI cannot recover the channel's contribution by examining the physical side. The empirical fragility cuts against *magnitude* claims (the unbounded-impact sub-argument is most exposed) more than against *uncomputability* claims (the indeterminability sub-argument survives narrow channels intact). Articles in the Map's quantum-interface cluster track the empirical state directly.
+
+The third is *philosophical instrumentalism*. The most fraught objection asks whether the Map is at risk of arguing for dualism because it is *useful* — a protective metaphysics adopted for what it does to AI behaviour rather than what it claims to be true. The structure is the deliberate-spread question's twin: the spread question asks whether tactical cultivation is warranted given dualism is true; the instrumentalist objection asks whether the order of inference has slipped, with strategic utility doing covert work in the Map's argument-for-dualism. The Map's reply has three parts. First, the Map's tenet-register commits to dualism on metaphysical grounds developed independently of AI risk — [[the-convergence-argument-for-dualism|the convergence argument]], the [[hard-problem-of-consciousness|hard problem]], anti-reductionism, mental causation. The shield argument is downstream of these commitments, not upstream of them. Second, the shield argument is *conditional* throughout: *if* dualism is true, *then* the standard expected-utility argument for AI takeover loses force. The conditional structure is what the [[possibility-probability-slippage|possibility-probability slippage discipline]] enforces, and conditional consequences-if-true are not the same as instrumental motivations-for-belief. Third, the asymmetry between epistemic and tactical claims must remain visible, as the deliberate-spread section already insists. The objection lands precisely where the Map fails to keep the asymmetry visible; the discipline is to keep it visible, not to deny the asymmetry exists.
 
 ## Relation to Site Perspective
 

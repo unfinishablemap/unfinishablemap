@@ -26,6 +26,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro]]'
+- '[[wholeheartedness-void]]'
 title: Control-Theoretic Will
 topics:
 - '[[topics/free-will]]'
@@ -161,6 +162,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate coupling laws (control laws in this framing)
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of the controller as genuine cause
 - [causal-closure](/concepts/causal-closure/) — Why control requires gaps in physical determinism
+- [wholeheartedness-void](/voids/wholeheartedness-void/) — What "stable preferences that move action" leaves out: the felt seam of identification the control frame cannot recover
 
 ## References
 

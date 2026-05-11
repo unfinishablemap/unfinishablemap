@@ -53,6 +53,7 @@ related_articles:
 - '[[suspension-void]]'
 - '[[imagery-void]]'
 - '[[vagueness-void]]'
+- '[[wholeheartedness-void]]'
 - '[[forward-in-time-conscious-selection]]'
 title: The Conjunction-Coalesce
 topics: []

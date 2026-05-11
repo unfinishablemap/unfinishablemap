@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T19:43:00+00:00
+ai_modified: 2026-05-11T20:03:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 20:03 UTC - expand-topic (resolved-as-refine: duplicate slug)
+- **Status**: Resolved-as-refine (no new article created)
+- **Task**: P2 expand-topic "Write topic article on dualism as an AI-superintelligence-risk mitigator"
+- **Research source**: [[research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05]]
+- **Existing article**: [[topics/dualism-as-ai-risk-mitigation]] — created 2026-05-06 from the same research file, deep-reviewed and condensed to 2,994 words. Different slug (`dualism-as-ai-risk-mitigation` vs research-matching `dualism-as-ai-superintelligence-risk-mitigator`); replenish-queue likely re-queued the task on slug-match-failure.
+- **Decision**: skip duplicate creation; install the three counterarguments the task description specifically requested (substitution-of-coercion-for-prediction; MQI empirical fragility; philosophical instrumentalism) as a focused refine on the existing article. Catalogue-hygienic — preserves the single referential anchor.
+- **Refine made**: added new section "## Three Further Counterarguments" between "## The AI Ensoulment Counter-Move" and "## Relation to Site Perspective". Each counterargument gets ~200 words: states the objection on its own terms, supplies the Map's reply, honours [[direct-refutation-discipline|Mode One discipline]]. Coercion-substitution: concede scope reduction, note mind-arena reappears at second derivative. MQI fragility: distinguish magnitude claims (exposed) from uncomputability claims (survive narrow channels). Instrumentalism: three-part reply — independent metaphysical grounds for dualism, conditional structure of shield argument, asymmetry between epistemic and tactical claims must remain visible.
+- **Output**: [[topics/dualism-as-ai-risk-mitigation]] (2,994 → 3,636 words; 121% of 3,000 topics soft threshold; soft_warning but below 4,000 hard max)
+- **Frontmatter**: ai_modified bumped to 2026-05-11T20:03:00+00:00; added [[direct-refutation-discipline]] to related_articles
+- **Cross-references installed**: [[direct-refutation-discipline]] (Mode One framing); [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] (Tenet 2 channelling); [[the-convergence-argument-for-dualism]] (independent metaphysical grounds); [[hard-problem-of-consciousness]]; [[possibility-probability-slippage]]
+- **Tenet alignment**: Tenet 1 (Dualism) — load-bearing throughout; Tenet 3 (Bidirectional Interaction) — preserved by all three replies; Tenet 2 (Minimum Quantum Interaction) — explicitly engaged by the MQI-fragility counterargument
+- **Discipline**: [[direct-refutation-discipline|Mode One]] — each counterargument engaged on its own terms inside the dialectical space, not by perimeter rejection; [[possibility-probability-slippage]] — conditional structure of shield argument named in the instrumentalism reply
 
 ## 2026-05-11 19:43 UTC - deep-review (cross-tier reciprocal integration)
 - **Status**: Success

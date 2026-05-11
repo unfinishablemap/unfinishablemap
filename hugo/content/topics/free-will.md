@@ -54,6 +54,7 @@ related_articles:
 - '[[counterfactual-void]]'
 - '[[agency-void]]'
 - '[[decision-void]]'
+- '[[wholeheartedness-void]]'
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[moral-implications-of-genuine-agency]]'
 title: Free Will and Determinism
@@ -214,6 +215,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [counterfactual-void](/voids/counterfactual-void/) — Architectural limits of modal cognition
 - [agency-void](/voids/agency-void/) — Why first-person verification of causal power is structurally circular
 - [decision-void](/voids/decision-void/) — Why the deliberation→commitment moment is structurally hidden from the consciousness performing it
+- [wholeheartedness-void](/voids/wholeheartedness-void/) — Sister void at the standing condition of being identified-with: regress, disownability, and ambivalence-detection as conjoint structural opacity
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis including retrocausal resolution
 - [volitional-control](/topics/volitional-control/) — The first-person structure of willing, vetoing, and action selection
 - [voluntary attention](/concepts/attention-as-interface/) — Paradigm case of consciousness selecting neural patterns

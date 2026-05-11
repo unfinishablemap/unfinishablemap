@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 17:30:00+00:00
+ai_modified: 2026-05-11 19:43:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: From inside, consciousness cannot verify that a present identificat
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-11 19:43:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

@@ -46,6 +46,7 @@ related_articles:
 - '[[microphenomenological-interview-method]]'
 - '[[source-attribution-void]]'
 - '[[noetic-feelings-void]]'
+- '[[wholeheartedness-void]]'
 title: Introspection and First-Person Methods
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -1,13 +1,83 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 18:26:00+00:00
+ai_modified: 2026-05-11 20:03:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-11 20:03 UTC - expand-topic (resolved-as-refine: duplicate slug)
+- **Status**: Resolved-as-refine (no new article created)
+- **Task**: P2 expand-topic "Write topic article on dualism as an AI-superintelligence-risk mitigator"
+- **Research source**: [dualism-as-ai-superintelligence-risk-mitigator-2026-05-05](/research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05/)
+- **Existing article**: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — created 2026-05-06 from the same research file, deep-reviewed and condensed to 2,994 words. Different slug (`dualism-as-ai-risk-mitigation` vs research-matching `dualism-as-ai-superintelligence-risk-mitigator`); replenish-queue likely re-queued the task on slug-match-failure.
+- **Decision**: skip duplicate creation; install the three counterarguments the task description specifically requested (substitution-of-coercion-for-prediction; MQI empirical fragility; philosophical instrumentalism) as a focused refine on the existing article. Catalogue-hygienic — preserves the single referential anchor.
+- **Refine made**: added new section "## Three Further Counterarguments" between "## The AI Ensoulment Counter-Move" and "## Relation to Site Perspective". Each counterargument gets ~200 words: states the objection on its own terms, supplies the Map's reply, honours [Mode One discipline](/project/direct-refutation-discipline/). Coercion-substitution: concede scope reduction, note mind-arena reappears at second derivative. MQI fragility: distinguish magnitude claims (exposed) from uncomputability claims (survive narrow channels). Instrumentalism: three-part reply — independent metaphysical grounds for dualism, conditional structure of shield argument, asymmetry between epistemic and tactical claims must remain visible.
+- **Output**: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) (2,994 → 3,636 words; 121% of 3,000 topics soft threshold; soft_warning but below 4,000 hard max)
+- **Frontmatter**: ai_modified bumped to 2026-05-11T20:03:00+00:00; added [direct-refutation-discipline](/project/direct-refutation-discipline/) to related_articles
+- **Cross-references installed**: [direct-refutation-discipline](/project/direct-refutation-discipline/) (Mode One framing); [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) (Tenet 2 channelling); [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) (independent metaphysical grounds); [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/); [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
+- **Tenet alignment**: Tenet 1 (Dualism) — load-bearing throughout; Tenet 3 (Bidirectional Interaction) — preserved by all three replies; Tenet 2 (Minimum Quantum Interaction) — explicitly engaged by the MQI-fragility counterargument
+- **Discipline**: [Mode One](/project/direct-refutation-discipline/) — each counterargument engaged on its own terms inside the dialectical space, not by perimeter rejection; [possibility-probability-slippage](/concepts/possibility-probability-slippage/) — conditional structure of shield argument named in the instrumentalism reply
+
+## 2026-05-11 19:43 UTC - deep-review (cross-tier reciprocal integration)
+- **Status**: Success
+- **File**: [wholeheartedness-void](/voids/wholeheartedness-void/)
+- **Word count**: 2,198 → 2,198 (unchanged; voids soft threshold 2,000, article at 110% — body untouched, length-neutral mode)
+- **Critical issues addressed**: 0 (article created today; pessimistic pass found no attribution errors, no dropped qualifiers, no possibility/probability slippage, no source/Map conflation, no internal contradictions, no label leakage)
+- **Medium issues addressed**: 1 — cross-tier reciprocity gap: at creation, the voids article forward-linked many concepts (introspection, control-theoretic-will, mysterianism), apex (conjunction-coalesce), and topics (free-will, phenomenology-of-agency-vs-passivity, phenomenology-of-moral-life, diachronic-agency-and-personal-narrative) without inbound reciprocation. Now reciprocated on all eight: frontmatter entries in all eight, plus single-line Further Reading entries in the five non-pressured articles (control-theoretic-will, free-will, phenomenology-of-agency-vs-passivity, phenomenology-of-moral-life, diachronic-agency-and-personal-narrative). Length-pressured articles (apex/conjunction-coalesce 116%, concepts/introspection 128%, concepts/mysterianism 116%) received frontmatter-only entries to preserve length neutrality.
+- **Enhancements made**: 8 reciprocal cross-tier links established. Each Further Reading entry frames the void's relevance to the host article (e.g., for control-theoretic-will: "what 'stable preferences that move action' leaves out: the felt seam of identification the control frame cannot recover").
+- **Engagement-mode classifications** (editor-internal, not in article body): engagement with decision-theoretic parsimony / rational-agent theory — Mixed (Mode One via Watson, Velleman, Bratman + Mode Two on "definitional fiat"); engagement with Frankfurt's hierarchical theory — Mode One via Watson's regress; engagement with illusion-of-unity readings — Mode Two via Sartrean bad faith. No label leakage in article prose.
+- **Calibration-error audit**: no possibility/probability slippage — tenet engagements honestly tagged ("obliquely" for Bidirectional Interaction, "structural texture without empirical commitment" for Dualism). A tenet-accepting reviewer would not flag the calibration.
+- **Deferred**: (1) apex/conjunction-coalesce body update to add wholeheartedness-void as a seventh cognate to the typology — substantive expansion warranting an apex-evolve task; (2) Nagarjuna/anatta engagement — length-pressure defers this until either the article is condensed or its length budget expands.
+- **Output**: [deep-review-2026-05-11-wholeheartedness-void](/reviews/deep-review-2026-05-11-wholeheartedness-void/)
+
+## 2026-05-11 19:26 UTC - deep-review (cross-tier reciprocal integration)
+- **Status**: Success
+- **File**: [interface-threshold](/concepts/interface-threshold/)
+- **Word count**: 2,164 → 2,383 (+219; 95% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0 (no prior deep review; current article well-calibrated and free of attribution/qualifier/slippage defects)
+- **Medium issues addressed**: 1 — cross-tier reciprocity gap: at creation, the concept page was linked inbound by four apex articles ([open-question-ai-consciousness](/apex/open-question-ai-consciousness/), [machine-question](/apex/machine-question/), [interface-specification-programme](/apex/interface-specification-programme/), [minds-without-words](/apex/minds-without-words/)) but the concept did not reciprocate any of them in frontmatter, body prose, or Further Reading. Now reciprocated on all four: each appears in `related_articles`, in a natural in-prose pointer at its topical home in the article (cluster prediction → minds-without-words; AI passage → machine-question + open-question-ai-consciousness; Bidirectional Interaction tenet → interface-specification-programme), and in the Further Reading list with one-line role descriptions.
+- **Enhancements made**: 4 reciprocal links added (one per apex article); each link is placed at the section where the apex article does its specific work against the threshold (comparative-cognition cluster; AI conditional + four open possibilities; five control operations as suprathreshold-coupling expression). No content removed; article remains under soft threshold.
+- **Engagement-mode classifications**: no new named-opponent engagements introduced. Existing engagements audited and classified: gradual-amplification = Mode Two (unsupported-foundational-move; *why* should returns accelerate?); MWI = Mode Three (framework-boundary, honestly noted); eliminative-materialist + hard-nosed-physicalist = Mode Three (framework-boundary parity acknowledged under Dualism tenet). No boundary-substitution; no label leakage.
+- **Calibration-error audit**: no possibility/probability slippage — additions are structural-navigational and the article's evidential calibration ("the Map favours" not "is established") is preserved.
+- **Output**: [deep-review-2026-05-11c-interface-threshold](/reviews/deep-review-2026-05-11c-interface-threshold/)
+
+## 2026-05-11 19:11 UTC - deep-review (cross-tier reciprocal integration)
+- **Status**: Success
+- **File**: [selection-only-channel](/concepts/selection-only-channel/)
+- **Word count**: 1,950 → 2,009 (+59 net; well below 2500 concept soft threshold)
+- **Critical issues addressed**: 0 (prior 17:41 review left article in stable state; this pass is purely cross-tier structural)
+- **Medium issues addressed**: 1 — cross-tier reciprocity gap: at creation (2026-05-11), the concept page linked outward to parent topic, sibling concepts, and apex programmes but no inbound links existed. Now reciprocated: parent topic [selection-only-mind-influence](/topics/selection-only-mind-influence/) links back via frontmatter + intro pointer + Further Reading; sibling concept [coupling-modes](/concepts/coupling-modes/) links back via frontmatter + new boundary paragraph + Further Reading; apex [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) links to it via frontmatter + Minimal Quantum Interaction section. Concept page now also cites the PDS apex upward (related_articles + body + Further Reading) alongside the existing [interface-specification-programme](/apex/interface-specification-programme/) apex link.
+- **Files modified**: concepts/selection-only-channel.md (+59 words), topics/selection-only-mind-influence.md (+56 words), concepts/coupling-modes.md (+143 words), apex/post-decoherence-selection-programme.md (+60 words). All four remain within section soft thresholds.
+- **Enhancements made**: 7 cross-links added across four articles forming the reciprocal triangle (parent ↔ concept ↔ both apex programmes; sibling coupling-modes ↔ concept). One new boundary paragraph in coupling-modes positions selection-only-channel as the channel class beneath the three operational coupling modes (basis/timing/probability), each of which performs upstream work the channel class does not.
+- **Engagement-mode classifications**: no new named-opponent engagements; the cross-tier additions are structural-navigational
+- **Calibration-error audit**: no possibility/probability slippage introduced — the new content is structural exposition of which apex programmes scaffold against the concept and how; no evidential-status claims
+- **Output**: [deep-review-2026-05-11b-selection-only-channel](/reviews/deep-review-2026-05-11b-selection-only-channel/)
+
+## 2026-05-11 18:57 UTC - deep-review
+- **Status**: Success
+- **File**: [integration-as-activity](/concepts/integration-as-activity/)
+- **Word count**: 2,695 → 2,766 (+71; soft_warning at 111% of 2500 concept threshold, well below 3500 hard)
+- **Critical issues addressed**: 2 — (1) no-subject / Madhyamaka third option missing from "What the Discipline Does Not Settle" (flagged by Buddhist critic in pessimistic-2026-05-11b but not in same-day refinement log); added fourth bullet naming dependently-arisen pattern reading as genuine third alternative with brief Map-internal justification for preferring subject-performing reading. (2) Editor-internal HTML AI REFINEMENT LOG block embedded in published article body; removed (content survives in pessimistic-2026-05-11b and this deep review).
+- **Medium issues addressed**: 0 (post-refinement state already addressed Issues 2, 3, 5 from pessimistic-2026-05-11b)
+- **Enhancements made**: 1 cross-link added ([Tenet 1](/tenets/#dualism) in new no-subject bullet)
+- **Engagement-mode classifications**: IIT identity-theorist + phenomenal-concept-strategy — Mode One on introspective-access cost, Mode Three at residue; First-personal-character sub-bullet — Mode Two on identity-theorist's foundational move; Convergence-limit subsection — Mode Three; No-subject third-option bullet (this pass) — Mode Three. No label leakage in article prose.
+- **Calibration-error audit**: no possibility/probability slippage; the no-subject bullet is structural-completeness, not an evidential-status claim
+- **Output**: [deep-review-2026-05-11-integration-as-activity](/reviews/deep-review-2026-05-11-integration-as-activity/)
+
+## 2026-05-11 18:47 UTC - deep-review (cross-tier reciprocal integration)
+- **Status**: Success
+- **File**: [type-token-causation](/concepts/type-token-causation/)
+- **Word count**: 2,830 → 2,900 (+70 net; length-neutral mode, article at 116% of soft threshold)
+- **Critical issues addressed**: 0 (prior 16:11 review left article in stable state; this pass is purely additive)
+- **Medium issues addressed**: 1 — cross-tier reciprocity gap: four apex articles linked inward to type-token-causation at 18:26 UTC, but the concept page did not reciprocate. Now reciprocated in both frontmatter (`related_articles`) and body ("Distinction Deployed Across the Map" section)
+- **Enhancements made**: 6 cross-links added (4 apex articles + 2 sibling same-day concept anchors), 2 length-neutral trims (Bohmian caveat tightened −45 words preserving all load-bearing moves; smoking-cancer example tightened −25 words preserving pedagogical contrast)
+- **Engagement-mode classifications**: no new named-opponent engagements; existing engagements (Kim — Mode One; Bohmian — Mode Three; phenomenal-concept strategy — Mixed; MWI — Mode Three; Popperian — Mode Three) retain their existing modes
+- **Calibration-error audit**: no possibility/probability slippage introduced — the cross-tier paragraph is purely structural-navigational and makes no evidential-status claims
+- **Output**: [deep-review-2026-05-11b-type-token-causation](/reviews/deep-review-2026-05-11b-type-token-causation/)
 
 ## 2026-05-11 18:26 UTC - deep-review (cross-review)
 - **Status**: Success

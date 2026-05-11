@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 17:41:00+00:00
+ai_modified: 2026-05-11 19:11:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,13 +20,14 @@ description: 'Information-channel framing of selection-only mind-influence: per-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-11 17:41:00+00:00
+last_deep_review: 2026-05-11 19:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[interface-threshold]]'
 - '[[consciousness-bandwidth-architecture]]'
 - '[[interface-specification-programme]]'
+- '[[post-decoherence-selection-programme]]'
 - '[[mathematical-structure-of-the-consciousness-physics-interface]]'
 - '[[born-rule-and-the-consciousness-interface]]'
 - '[[interface-efficacy-and-the-cognitive-gap]]'
@@ -118,11 +119,13 @@ The selection-only channel is the cleanest formal expression of the Map's [Minim
 
 [Tenet 1 (Dualism)](/tenets/#dualism) is presupposed by the channel's existence — there must be a non-physical selector for the input alphabet to be distinct from the output alphabet, and for the act of selection to be more than a redescription of brain dynamics. [Tenet 4 (No Many Worlds)](/tenets/#no-many-worlds) is presupposed by the channel's output semantics: selection is meaningful only if one candidate becomes actual rather than all of them.
 
-The Map does not commit to the strict selection-only reading as the only viable reading of Tenet 2. The intermediate reading — probability-bias channels averaging to Born statistics over ensembles — remains live. But the selection-only channel is the version under which the information-theoretic constraints are sharpest, the energy-conservation objection has no purchase, and the no-signalling theorem is automatically respected. It is the version other Map articles can take as a clean reference point when contrasting more permissive channel classes against the strictest one.
+The Map does not commit to the strict selection-only reading as the only viable reading of Tenet 2. The intermediate reading — probability-bias channels averaging to Born statistics over ensembles — remains live. But the selection-only channel is the version under which the information-theoretic constraints are sharpest, the energy-conservation objection has no purchase, and the no-signalling theorem is automatically respected. It is the version other Map articles can take as a clean reference point when contrasting more permissive channel classes against the strictest one. The apex syntheses [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) and [interface-specification-programme](/apex/interface-specification-programme/) both take this concept as the channel-theoretic formalisation of their "minimal intervention" commitment — the former locating the channel-class in the post-decoherence menu specified by quantum Darwinism, the latter aligning the per-event log₂(N) ceiling with the ~10 bits/second bandwidth architecture and the Born-rule throttling with the delegatory-causation default profile.
 
 ## Further Reading
 
 - [selection-only-mind-influence](/topics/selection-only-mind-influence/)
+- [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- [interface-specification-programme](/apex/interface-specification-programme/)
 - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
 - [post-decoherence-selection](/concepts/post-decoherence-selection/)
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
