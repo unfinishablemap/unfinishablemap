@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T12:35:00+00:00
+ai_modified: 2026-05-11T12:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 12:51 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/decoherence-and-macroscopic-superposition]]
+- **Word count**: 2322 → 2534 (+212)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [[reviews/deep-review-2026-05-11-decoherence-and-macroscopic-superposition]]
+- **Driver**: Cross-cluster calibration alignment. The 2026-05-05 deep review of [[decoherence|concepts/decoherence.md]] installed the Reimers/McKemmish engagement and reframed the microtubule-decoherence dispute as a live multi-sided debate (Tegmark/Hagan/Reimers/McKemmish). This topic-level article still framed it bilaterally (Tegmark vs. Hameroff), leaving it out of step with the cluster discipline applied across [[decoherence]], [[topics/animal-consciousness]], [[topics/cetacean-and-corvid-consciousness]], and the binding-problem article.
+- **Changes**:
+    - Rewrote the Microtubule Quantum Effects passage to name Babcock et al. (2024), Wiest et al. (2025), and Kerskens & Pérez (2022) as the specific pro-microtubule papers; installed Reimers et al. (2009) and McKemmish et al. (2009) directly in the body as the parameter-assumption counterweight to Hagan et al. (2002); framed the dispute as live rather than settled; framed the Map's microtubule-scale interest as tenet-driven rather than empirically forced.
+    - Added [[topics/animal-consciousness]] to `related_articles` frontmatter and to Further Reading with a one-line orientation noting its cross-species framing of the same dispute.
+    - Updated the [[decoherence]] Further Reading orientation to reflect the multi-sided framing.
+    - Added Babcock et al. (2024), Wiest et al. (2025), Hagan et al. (2002), Reimers et al. (2009), and McKemmish et al. (2009) to References (matching the citations used in [[decoherence]]).
+- **Engagement-mode classification (editor-internal)**: Engagement with Tegmark — Mode One (defective on its own terms, internal-to-the-physicist argument available via Reimers/McKemmish parameter-assumption challenge); the article does not claim to refute Tegmark and frames the dispute as live. Engagement with eliminative materialism, MWI defenders, empiricism, functionalism — Mode Three (framework-boundary marking, unchanged across all five reviews). No label leakage in article prose.
+- **Attribution check**: No misattributions, dropped qualifiers, or source/Map conflation. Two previously-unattributed parenthetical year-citations ("tryptophan superradiance (2024)", "anaesthetic effects on microtubule quantum oscillations (2025)") now carry author names matching the standard citations used across the cluster.
+- **Calibration check**: Diagnostic test applied — a tenet-accepting reviewer would not flag the article's microtubule claims as overstated. The article uses "may be present" / "remains open" / "live rather than settled" rather than upgrading to "realistic possibility" or higher on tenet-load. Hardline Empiricist persona's force now correctly absorbed: tenet-coherent framing is explicitly labelled as tenet-driven, not evidence-elevating.
+- **Stability**: Fifth review. Article has reached cluster-aligned stability; future reviews should not re-flag the Reimers/McKemmish engagement (now installed) or re-expand/re-trim the Microtubule Quantum Effects passage without strong reason. Bedrock disagreements unchanged (MWI dissolution, lab-to-biology gap, functionalist objection, biological disanalogy, eliminative materialist rejection of folk-psychological framing).
 
 ## 2026-05-11 12:35 UTC - condense
 - **Status**: Success
