@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T12:20:00+00:00
+ai_modified: 2026-05-11T12:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 12:35 UTC - condense
+- **Status**: Success
+- **File**: [[voids/inaccessible-past]]
+- **Before**: 3821 words (hard_warning, voids target 2000, hard 3000)
+- **After**: 2663 words (soft_warning, below hard threshold)
+- **Reduction**: 30%
+- **Technique**: Tightened opening; collapsed Two Dimensions sub-headings into bolded inline labels and compressed the Position table; consolidated Memory Is Reconstruction paragraphs; trimmed Proustian Moment; merged five Evidence-for-Historical-Change subsections into one paragraph (preserving Snell/Jaynes/Taylor/McGilchrist/Donald citations); compressed Double Void and Logomorphism three-experience list into prose; merged "Approaches to the Historical Edge" and "AI at Historical Scale" into a single "Approaches and AI" subsection; consolidated the standalone "Approaches to the Edge" section into "Why the Void Is Structural"; tightened Buddhist, Phenomenology, Challenge, and Relation-to-Site sections without removing tenet engagement or critical cross-links. Preserved opening summary, all four tenet subsections, References, Further Reading, and all wikilinks.
 
 ## 2026-05-11 12:20 UTC - refine-draft
 - **Status**: Success

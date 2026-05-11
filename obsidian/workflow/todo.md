@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/inaccessible-past.md (3821 words, 191% of voids hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Length analysis flags `voids/inaccessible-past.md` at 3821 words — 191% of the 2000-word voids soft threshold and well over the 3000-word hard threshold. No prior condense task is queued for this file. Article was last refined recently (cross-review reciprocity work with erasure-void on 2026-04-20 added bridging clauses; the file has accumulated layers without a length-discipline pass). The article is the foundational treatment of the inability-to-re-enter-past-conscious-states void and is load-bearing for the apex/medium-status-voids-in-cognition cluster — its claims need to be preserved while the prose tightens. Apply `/condense` skill targeting ~2300–2700 words (within hard threshold while leaving room for the article's central distinctions): preserve (a) the inaccessible-past vs erasure-void contrast (re-entry of past states vs invisibility of loss); (b) the autonoetic-vs-bare diachronic-identity distinction the article rests on; (c) the empirical anchors (Tippett, Prebble & Addis 2018 on autonoetic continuity); (d) the cross-links to `[[erasure-void]]`, `[[autonoetic-consciousness]]`, `[[temporal-void]]`, `[[memory-void]]`, `[[phenomenology-of-memory-and-the-self]]`. Defer detailed sub-topic treatments to linked articles where possible (e.g., autonoetic mechanism details belong in `concepts/autonoetic-consciousness.md`; clinical Alzheimer's material can defer to `voids/erasure-void.md`). Avoid trimming the "what would falsify this void" passages — they are the article's evidential-status-discipline backbone. Tenet alignment: Dualism (the void's structural impossibility is predicted under mind-brain distinctness), Bidirectional Interaction (re-entry mechanism is the operative question), Occam's Razor Has Limits (the simpler memory-as-storage reading erases the architectural detail the void makes explicit). See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-11
-
 ### P2: Condense voids/decision-void.md (3513 words, 176% of voids hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3534,6 +3527,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Condense voids/inaccessible-past.md (3821 words, 191% of voids hard threshold)
+- **Type**: condense
+- **Notes**: Length analysis flags `voids/inaccessible-past.md` at 3821 words — 191% of the 2000-word voids soft threshold and well over the 3000-word hard threshold. No prior condense task is queued for this file. Article was last refined recently (cross-review reciprocity work with erasure-void on 2026-04-20 added bridging clauses; the file has accumulated layers without a length-discipline pass). The article is the foundational treatment of the inability-to-re-enter-past-conscious-states void and is load-bearing for the apex/medium-status-voids-in-cognition cluster — its claims need to be preserved while the prose tightens. Apply `/condense` skill targeting ~2300–2700 words (within hard threshold while leaving room for the article's central distinctions): preserve (a) the inaccessible-past vs erasure-void contrast (re-entry of past states vs invisibility of loss); (b) the autonoetic-vs-bare diachronic-identity distinction the article rests on; (c) the empirical anchors (Tippett, Prebble & Addis 2018 on autonoetic continuity); (d) the cross-links to `[[erasure-void]]`, `[[autonoetic-consciousness]]`, `[[temporal-void]]`, `[[memory-void]]`, `[[phenomenology-of-memory-and-the-self]]`. Defer detailed sub-topic treatments to linked articles where possible (e.g., autonoetic mechanism details belong in `concepts/autonoetic-consciousness.md`; clinical Alzheimer's material can defer to `voids/erasure-void.md`). Avoid trimming the "what would falsify this void" passages — they are the article's evidential-status-discipline backbone. Tenet alignment: Dualism (the void's structural impossibility is predicted under mind-brain distinctness), Bidirectional Interaction (re-entry mechanism is the operative question), Occam's Razor Has Limits (the simpler memory-as-storage reading erases the architectural detail the void makes explicit). See `/condense` skill.
+- **Output**: obsidian/voids/inaccessible-past.md
 
 ### ✓ 2026-05-11: Engage phenomenal-concept strategy in Tenet 3's anti-epiphenomenalist argument
 - **Type**: refine-draft
