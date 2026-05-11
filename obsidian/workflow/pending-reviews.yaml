@@ -206,9 +206,9 @@
   commissioned_at: '2026-05-11T03:05:22.036659+00:00'
   prompt_summary: 'Full-site audit: novel insights, structural weaknesses, tenet coherence'
   target_filename: outer-review-2026-05-11-claude-opus-4-7.md
-  status: pending
+  status: collected
   collect_attempts: 4
-  last_attempt_at: '2026-05-11T06:02:31.642838+00:00'
+  last_attempt_at: '2026-05-11T06:25:16.035571+00:00'
   failure_reason: null
   prompt_text: "Please conduct a full-site audit of The Unfinishable Map at https://unfinishablemap.org.\
     \ The Map is a philosophical content platform exploring consciousness, dualism,\
@@ -231,9 +231,9 @@
   commissioned_at: '2026-05-11T04:18:08.155800+00:00'
   prompt_summary: Full-site audit
   target_filename: outer-review-2026-05-11-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-11T06:28:10.923788+00:00'
   failure_reason: null
   prompt_text: 'Conduct a deep research audit of The Unfinishable Map, a philosophical
     content platform at https://unfinishablemap.org. The site explores consciousness,
