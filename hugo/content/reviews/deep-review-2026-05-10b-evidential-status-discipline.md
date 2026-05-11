@@ -53,7 +53,7 @@ The rule applies to its own example without overreach: Klein & Nichols is descri
 
 ### Actionability for Downstream Application
 
-The rule is actionable as written. An editor reviewing a dissociation-using article (e.g., [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/), [out-of-body-experiences](/topics/out-of-body-experiences/), [blindsight](/topics/blindsight/) if it exists, articles invoking alien-hand or Capgras) can:
+The rule is actionable as written. An editor reviewing a dissociation-using article (e.g., [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/), [out-of-body-experiences](/topics/out-of-body-experiences/), [blindsight](/concepts/blindsight/), articles invoking alien-hand or Capgras) can:
 1. Identify which dissociation the article is using.
 2. Identify which level the article's evidence actually reaches.
 3. Flag any inferential jump that skips a level (Level 1 → Level 4 directly; Level 2 → Level 4 without Level 3 elimination).

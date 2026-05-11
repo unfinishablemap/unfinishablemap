@@ -3,7 +3,7 @@ title: "Deep Review (Convergence Confirmation) - Evidential-Status Discipline"
 created: 2026-05-10
 modified: 2026-05-10
 human_modified: null
-ai_modified: 2026-05-10T18:31:00+00:00
+ai_modified: 2026-05-11T14:02:00+00:00
 draft: false
 description: "Convergence-confirmation deep review of evidential-status-discipline focused on the dissociation-levels rule (Rule 2). No content changes; article is stable from the prior pass 29 minutes earlier."
 topics: []
@@ -50,7 +50,7 @@ The rule applies to its own example without overreach: Klein & Nichols is descri
 
 ### Actionability for Downstream Application
 
-The rule is actionable as written. An editor reviewing a dissociation-using article (e.g., [[topics/phenomenology-of-memory-and-the-self]], [[topics/out-of-body-experiences]], [[topics/blindsight]] if it exists, articles invoking alien-hand or Capgras) can:
+The rule is actionable as written. An editor reviewing a dissociation-using article (e.g., [[topics/phenomenology-of-memory-and-the-self]], [[topics/out-of-body-experiences]], [[concepts/blindsight]], articles invoking alien-hand or Capgras) can:
 1. Identify which dissociation the article is using.
 2. Identify which level the article's evidence actually reaches.
 3. Flag any inferential jump that skips a level (Level 1 → Level 4 directly; Level 2 → Level 4 without Level 3 elimination).
