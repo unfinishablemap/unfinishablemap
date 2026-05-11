@@ -1,8 +1,8 @@
 ---
-ai_contribution: 0
+ai_contribution: 15
 ai_generated_date: null
-ai_modified: 2026-03-25 01:24:00+00:00
-ai_system: null
+ai_modified: 2026-05-11 09:51:00+00:00
+ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts:
 - '[[quantum-consciousness]]'
@@ -13,6 +13,8 @@ concepts:
 - '[[dualism]]'
 created: 2026-01-02
 date: &id001 2026-01-02
+description: Five commitments that bound every article on The Unfinishable Map—chosen
+  starting points, not proofs, exploring consciousness and the limits of knowability.
 draft: false
 human_modified: 2026-01-02 14:18:31+00:00
 last_curated: null
@@ -21,6 +23,10 @@ related_articles:
 - '[[cognitive-science-dualism-2026-01-15]]'
 - '[[quantum-decoherence-objection-responses-2026-01-15]]'
 - '[[prebiotic-collapse]]'
+- '[[many-worlds-argument]]'
+- '[[parsimony-epistemology]]'
+- '[[apex/post-decoherence-selection-programme]]'
+- '[[quantum-biology-and-neural-consciousness]]'
 title: Tenets
 topics: []
 ---
@@ -35,6 +41,8 @@ There is more than just matter involved in reality. <span id="dualism"></span>
 
 **Rationale:** The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious. [Materialism](/concepts/materialism/)—in all its forms from reductive physicalism to eliminativism—fails to close this gap. Multiple independent [positive arguments for dualism](/concepts/dualism/) converge on the same conclusion: consciousness has features that physical description cannot capture. The [knowledge argument](/concepts/knowledge-argument/) (Mary's Room) shows that phenomenal facts exceed physical facts. [Conceivability arguments](/concepts/philosophical-zombies/) demonstrate that consciousness is logically separable from physical structure. Arguments from [qualia](/concepts/qualia/)—the explanatory gap, inverted qualia, intrinsic nature—reveal the limits of functional and structural description. The unity of consciousness and the intentionality of mental states each provide additional support.
 
+**Practical ontology of the agency cluster:** The neutrality stated above is a tenet-level commitment about what irreducibility *requires*; it is not uniform across the Map's downstream positions. Articles in the agency cluster—[Free Will and Determinism](/topics/free-will/), [agent-causation](/concepts/agent-causation/), and the surrounding [interactionist-dualism](/concepts/interactionist-dualism/) material—deploy a substance-leaning sub-reading. Agent causation needs a persisting subject that exercises causal powers in its own right; a property-only reading on which mental properties supervene on a physical substrate without a substance-bearing subject struggles to ground that exercise. The tenet does not entail this commitment, and the commitment does not feed back to constrain the tenet. Articles that do not invoke agent causation—the [binding problem](/topics/the-binding-problem/) treatment, the [qualia and explanatory-gap arguments](/concepts/knowledge-argument/), much of the [voids catalogue](/apex/taxonomy-of-voids/)—neither require nor exclude the substance-bearing reading. The neutrality holds where irreducibility alone does the work; the substance-leaning sub-reading appears specifically where agency does, and is registered here so that the practical ontology of the agency cluster is not silently inherited from the tenet's neutral framing.
+
 **Rules out:** Eliminative materialism, reductive physicalism, and any view that treats consciousness as purely [epiphenomenal](/concepts/epiphenomenalism/) or illusory. See [materialism](/concepts/materialism/) for detailed engagement with the materialist position and its failures.
 
 ## Minimal Quantum Interaction
@@ -45,13 +53,13 @@ The smallest possible non-physical influence on physical outcomes. <span id="min
 
 **Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimality says: assume the smallest intervention necessary, not more. Crucially, this tenet rejects the strong causal closure of physics that [epiphenomenalism](/concepts/epiphenomenalism/) depends on: the claim that every physical event has a sufficient physical cause. Physics is *not* complete at quantum indeterminacies—and that's where consciousness acts.
 
-**Candidate mechanisms:** Serious scientific proposals have explored this interface. [Orch OR](/concepts/quantum-consciousness/) (Penrose-Hameroff) locates quantum effects in neural microtubules, with consciousness selecting among superposed states via gravitational self-collapse. Stapp's [quantum Zeno approach](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) uses orthodox quantum mechanics—mental attention acts like repeated observation, holding desired neural patterns through the Zeno effect. Both share what this tenet requires: consciousness biasing indeterminate outcomes without injecting energy or violating conservation laws. The Map doesn't commit to either mechanism but holds that *some* such interface exists.
+**Candidate mechanisms:** Several scientific proposals have explored this interface. The Map's most developed position is [post-decoherence selection](/apex/post-decoherence-selection-programme/): consciousness biasing which definite outcome emerges from the classical mixture left *after* decoherence has completed. This route sidesteps the requirement that quantum coherence survive at neural timescales and is the strongest path the Map currently endorses. Other proposals depend on pre-decoherence coherence and stand or fall with that more demanding assumption: [Orch OR](/concepts/quantum-consciousness/) (Penrose-Hameroff) locates quantum effects in neural microtubules, with consciousness selecting among superposed states via gravitational self-collapse; Stapp's [quantum Zeno approach](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) uses orthodox quantum mechanics, with mental attention acting like repeated observation to hold desired neural patterns through the Zeno effect. The Map does not commit to any specific mechanism but holds that *some* such interface exists.
 
-**The decoherence objection:** Critics argue that quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules—far too short for neural processes operating at millisecond timescales. Yet this calculation is disputed. Hameroff's group (Hagan et al., 2002) challenged Tegmark's assumptions about model parameters, yielding corrected estimates of 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**. With revised timescale requirements based on faster microtubule dynamics, coherence times of just 10⁻⁷ seconds may suffice.
+**Decoherence leaves the outcome problem open.** [Decoherence does not solve the measurement problem](/concepts/decoherence/). As a 2025 review notes, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence selects preferred bases without explaining why we observe *definite* outcomes. Even once coherence has fully dissipated, the question of *which* outcome becomes actual remains physically open. If collapse or actualisation is a real event, consciousness could bias selection at that point without requiring sustained coherence at neural timescales. That is what Tenet 2 commits to; whether any specific candidate mechanism additionally requires pre-decoherence coherence is a downstream question about that proposal, not about the tenet itself. The developed treatment lives in [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/).
 
-**Biological quantum effects prove evolution can harness coherence.** Avian magnetoreception—how migratory birds navigate using Earth's magnetic field—relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. A January 2026 Princeton study provided computational confirmation of this mechanism. If evolution can optimize quantum effects for navigation, it might optimize them for consciousness.
+**The decoherence-timescale dispute:** Critics argue that quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules. Hameroff's group (Hagan et al., 2002) disputed Tegmark's parameter choices and obtained corrected estimates of 10⁻⁵ to 10⁻⁴ seconds. The calculation is contested rather than settled, with estimates ranging across roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters; the literature has not converged. This dispute matters only for candidate mechanisms that require *pre-decoherence* coherence at neural scales (Orch OR, Fröhlich-microtubule lines). Post-decoherence-selection proposals do not depend on it.
 
-More fundamentally, [decoherence doesn't solve the measurement problem](/concepts/decoherence/). As a 2025 review notes, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence selects preferred bases without explaining why we see *definite* outcomes. Consciousness could bias outcomes at the point of measurement even after decoherence has occurred. The role for consciousness at collapse remains open.
+**Biological precedent for quantum effects in warm systems.** Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds; a January 2026 Princeton study added computational confirmation of the radical-pair mechanism. This establishes a biological *precedent* rather than a licence for neural coherence: cryptochrome radical pairs are an extremely specific molecular architecture, and their existence does not by itself entail that microtubules or other neural structures sustain coherence at the scales consciousness would require. The narrower claim the Map leans on is that warm biological environments do not categorically rule out quantum-functional mechanisms—not the stronger claim that neural consciousness must use them. As a plausibility supplement this matters only for the mechanism candidates that need pre-decoherence coherence; the post-decoherence-selection path does not turn on it.
 
 **Not to be confused with:** "Quantum woo" or "quantum mysticism"—pseudoscientific claims that misappropriate quantum mechanics terminology to justify New Age beliefs, parapsychology, or magical thinking. This tenet is a constrained philosophical hypothesis about the mind-body problem, not an endorsement of quantum mysticism.
 
@@ -81,7 +89,9 @@ The many-worlds interpretation of quantum mechanics is rejected. <span id="no-ma
 
 **Definition:** Many-worlds holds that every quantum measurement causes the universe to split into branches for each possible outcome. All branches are equally real.
 
-**Rationale:** Many-worlds leads to vast ontological proliferation—countless copies of every observer existing in parallel. More problematically, it raises unanswerable indexical questions: why am I *this* instance and not another? The framework provides no resources to answer this, yet the question seems meaningful. See [Against Many-Worlds](/arguments/many-worlds-argument/) for the full cumulative case.
+**Rationale (primary—the indexical objection):** Many-worlds raises a question its own framework cannot answer: why am I *this* branch rather than any of the others? Every branch is equally real; every counterpart is matched by another; nothing in the formalism identifies *me*. The framework provides no resources to resolve this, yet the question seems meaningful—meaningful in the same way questions of personal identity are meaningful elsewhere. This is not a parsimony complaint. It concerns what the framework *fails to explain*, not what it *postulates*. Indexical identity is among the things any account of consciousness must address; many-worlds dissolves rather than resolves it. This is the load-bearing argument.
+
+**Rationale (subsidiary—ontological multiplicity, qualified):** Many-worlds also entails vast ontological proliferation—countless copies of every observer existing in parallel. Earlier formulations of this section leaned on that cost as if it were decisive. It is not. By [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits) parsimony is an unreliable guide to truth in this domain, and the Map cannot consistently invoke simplicity to disarm parsimony arguments *against* dualism while invoking parsimony *against* many-worlds. The ontological-extravagance objection is therefore subsidiary and weaker than this section formerly presented it—a registered cost rather than a refutation. See [Against Many-Worlds](/arguments/many-worlds-argument/) for the full cumulative case, in which the indexical thread carries the structural weight.
 
 **The [prebiotic collapse problem](/concepts/prebiotic-collapse/):** If collapse is real and consciousness participates in it, what determined outcomes before conscious observers existed? Stars formed, chemistry proceeded, mutations accumulated—billions of years before the first mind. This apparent problem motivates some toward many-worlds (where no selection is needed) or panpsychism (where proto-consciousness always existed). The Map's resolution: *objective reduction with consciousness modulation*. Physical mechanisms (gravitational collapse, spontaneous localization, or unknown processes) provide baseline collapse throughout the universe. Consciousness interfaces with collapse specifically in neural systems, modulating outcomes where the brain provides the right interface. This preserves prebiotic cosmology while maintaining that collapse is real and that consciousness participates in it locally. See [quantum-consciousness](/concepts/quantum-consciousness/#the-prebiotic-collapse-problem) for detailed treatment.
 
@@ -103,4 +113,51 @@ Simplicity is not a reliable guide to truth when knowledge is incomplete. <span 
 
 **The "folk error" accusation:** Critics sometimes dismiss dualism as "folk intuition" to be outgrown—a cognitive bias rather than a philosophical conclusion. But cognitive science complicates this picture. Paul Bloom argued humans are "natural-born dualists," processing minds and bodies through separate cognitive systems. Yet Barrett et al.'s cross-cultural study (2021) found that most people across diverse cultures default to "intuitive materialism"—expecting mental states to cease with bodily death. Barlev and Shtulman (2021) suggest dualism is *learned* rather than innate. The evidence is mixed: neither intuitive dualism nor intuitive materialism is clearly the human default. More fundamentally, cognitive naturalness doesn't determine metaphysical truth. Folk physics fails at quantum scales yet captures everyday reality. The question of whether consciousness is reducible to physics must be settled by philosophical argument, not cognitive anthropology.
 
-**Rules out:** Using parsimony as a decisive argument against dualism, and treating Occam's Razor as anything more than a defeasible heuristic.
+**Application to the Map's own arguments:** This tenet binds the Map's use of parsimony, not only its critics'. The rejection of many-worlds (see [No Many Worlds](/tenets/#no-many-worlds)) must therefore rest on the *indexical* objection—which concerns what the framework fails to explain rather than what it postulates—and not on the *ontological-multiplicity* objection, which is a parsimony complaint and accordingly discounted here. Earlier formulations leaned on ontological extravagance more heavily than this tenet permits; that asymmetry has been corrected in the No Many Worlds section above. The discipline is symmetric: parsimony cannot decide either for or against a framework when the relevant knowledge is incomplete.
+
+**Rules out:** Using parsimony as a decisive argument against dualism, treating Occam's Razor as anything more than a defeasible heuristic, and—internally—any Map argument that leans on parsimony as if this tenet did not apply to it.
+
+<!-- AI REFINEMENT LOG - 2026-05-11
+Changes made:
+- No Many Worlds section: split the rationale into a primary (indexical) objection and a subsidiary (ontological-multiplicity) objection. Committed to the indexical thread as load-bearing; explicitly qualified ontological extravagance by Tenet 5; cross-linked to Occam's Razor Has Limits.
+- Occam's Razor Has Limits section: added "Application to the Map's own arguments" paragraph making the tenet's symmetric binding force explicit, cross-linked back to No Many Worlds, and amended "Rules out" to include the internal application.
+- Frontmatter: added description, updated ai_modified, set ai_system, raised ai_contribution from 0 to 15, added many-worlds-argument and parsimony-epistemology to related_articles.
+
+Based on outer review by Claude Opus 4.7 (2026-05-11), which flagged this as "the cleanest internal tension I found." Direct-refutation discipline: Mode One (in-framework defect)—the tension is internal to the Map's own commitments, so the fix is structural disambiguation rather than boundary-marking.
+
+Sequencing: next, `arguments/many-worlds-argument.md` will be refined under the merged 2026-05-10 P1 (MMI + Saunders-Wallace + Tappenden + Vaidman + Sebens-Carroll) to reflect the same indexical-vs-parsimony distinction at the arguments-page level. This tenets-page change establishes the canonical framing the arguments page will track.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-11 (second pass)
+Changes made to Minimal Quantum Interaction section:
+- Reordered the rhetorical structure. New order: candidate mechanisms (lead with post-decoherence selection) → decoherence leaves the outcome problem (the load-bearing point) → decoherence-timescale dispute (mechanism-specific) → biological precedent (plausibility supplement, not licence).
+- Candidate mechanisms paragraph now leads with [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) as the Map's most developed position; Orch OR and Stapp Zeno explicitly flagged as pre-decoherence-coherence-dependent.
+- Replaced the bolded "seven orders of magnitude longer" framing with a balanced "the calculation is contested, with estimates ranging across roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters." Hagan et al. (2002) is now presented as one estimate in a contested literature, not as a refutation of Tegmark.
+- Replaced "Biological quantum effects prove evolution can harness coherence" with "Biological precedent for quantum effects in warm systems." Cryptochrome radical-pair coherence is now framed as biological *precedent* (warm biology is not categorically inhospitable to quantum function) rather than licence for neural-microtubule coherence (which it does not establish). The plausibility supplement matters only for mechanism candidates that require pre-decoherence coherence.
+- Added forward pointer to [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) in both the Candidate mechanisms paragraph and the Decoherence-leaves-the-outcome-problem paragraph.
+- Frontmatter: added apex/post-decoherence-selection-programme and quantum-biology-and-neural-consciousness to related_articles; updated ai_modified.
+
+Based on convergent outer reviews (2026-05-11, 2/3 reviewers — Claude Opus 4.7 and ChatGPT 5.5 Pro). Both reviewers independently flagged the same defect: the page presented the Hagan-rebuttal-of-Tegmark calculation as settled where the literature is contested, leaned on cryptochrome radical-pair coherence as if it licensed neural-microtubule coherence (it does not — specific architecture, narrow precedent), and did not surface the Post-Decoherence Selection Programme as the more developed Map position that makes microtubule coherence less essential. Side-evidence: Gemini's same-cycle review repeated the contested framing approvingly ("directly refuting Tegmark's femtosecond limits") — an instance of the failure mode and additional signal that the tenets page was leaking the contested framing to downstream summarisers.
+
+Direct-refutation discipline: Mode One (in-framework defect — the tenets page was out of step with the apex it should be tracking). Engagement classification kept editor-internal; the prose engages the dispute in natural journal-quality language.
+
+Companion edit: obsidian/topics/quantum-biology-and-neural-consciousness.md touched for consistency with the new framing — softened the "burden has inverted" language to acknowledge the precedent-vs-licence distinction, noted Hagan-vs-Tegmark contestation in The Decoherence Debate Today section, and added a forward-link to the apex from Why This Matters for Consciousness.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-11 (third pass)
+Changes made to Dualism section:
+- Added a new "Practical ontology of the agency cluster" subsection between Rationale and Rules out (~155 words). The paragraph preserves the tenet's official neutrality between substance and property dualism while explicitly flagging that downstream agency-related articles (free-will, agent-causation, interactionist-dualism) deploy a substance-leaning sub-reading. The reasoning offered: agent causation requires a persisting subject exercising causal powers in its own right, which a property-only reading without a substance-bearing subject struggles to ground. Notes that the commitment is local to the agency cluster — the binding-problem treatment, qualia/explanatory-gap arguments, and the voids catalogue neither require nor exclude the substance-bearing reading.
+- Frontmatter: updated ai_modified to 2026-05-11T09:51:00+00:00.
+
+Based on outer review by ChatGPT 5.5 Pro (2026-05-11) §3.1, which flagged that the tenets page presents Dualism as ontology-neutral while the free-will article (line 76) commits the agent-causal reading to substance dualism or substance-bearing property dualism. The free-will article already self-flags this tension; the gap was on the tenets page. Two repair paths were identified by the reviewer: (a) tenets page preserves neutrality but flags agency as a substance-leaning subprogramme, or (b) free-will-style framing is promoted to the tenets page itself. Reviewer preferred (a) for keeping the tenet load light. Path (a) implemented here.
+
+Mode classification (editor-internal): Mode One (in-framework defect — internal consistency repair, no opponent involved). The tenets page was silently letting downstream agency commitments inherit a neutrality the tenet itself preserves, while the free-will article was honestly carrying the substance-leaning reading. The fix surfaces the asymmetry on the tenets page so the inheritance is no longer silent. No external opponent engaged; this is coherence-maintenance. Engagement classification kept editor-internal; the prose is journal-quality and does not name the mode.
+
+Calibration check: the new paragraph does not strengthen the tenet (still neutral at the tenet level), does not promote the agency-cluster commitment to tenet status, and does not claim the substance-bearing reading is required by anything other than agent causation specifically. The asymmetry between "irreducibility alone" and "agency requires more" is stated symmetrically in both directions.
+
+This log should be removed after human review.
+-->

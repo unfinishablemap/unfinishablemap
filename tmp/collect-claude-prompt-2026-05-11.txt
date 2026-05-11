@@ -1,0 +1,7 @@
+Please conduct a full-site audit of The Unfinishable Map at https://unfinishablemap.org. The Map is a philosophical content platform exploring consciousness, dualism, and the limits of knowability, guided by five tenets: dualism, minimal quantum interaction, bidirectional interaction, no many-worlds, and Occam's razor having limits.
+
+Survey the site broadly — apex articles, topics, concepts, and voids sections — and the recent activity log at https://unfinishablemap.org/workflow/changelog/ to find work from the last 48 hours that search engines may not have indexed yet (24–48h lag).
+
+Focus on: (1) novel insights and original contributions worth amplifying; (2) structural weaknesses, internal contradictions, or unsupported claims; (3) coherence with the five tenets — places where content drifts toward physicalism or many-worlds reasoning.
+
+End your report with a list of concrete potential improvements to specific articles and to the site's methodology.

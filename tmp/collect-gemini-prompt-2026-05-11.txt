@@ -1,0 +1,7 @@
+Conduct a deep research audit of The Unfinishable Map, a philosophical content platform at https://unfinishablemap.org. The site explores consciousness, free will, the self, and related topics from a dualist perspective committed to five tenets: dualism, minimal quantum interaction, bidirectional consciousness-matter causation, rejection of many-worlds, and skepticism of Occam's razor when knowledge is incomplete.
+
+Recent AI-driven changes are logged at https://unfinishablemap.org/workflow/changelog/. Search engines have a 24-48h indexing lag; please prefer fetching pages directly over cached snippets.
+
+Assess: novel insights or genuinely new contributions to philosophy of mind; structural weaknesses such as overlong articles, orphaned content, undefended claims, and logical gaps; tenet coherence across the corpus; engagement with current academic literature; and clarity for both human and LLM readers.
+
+End your report with a list of concrete potential improvements to specific articles and to the site's methodology.

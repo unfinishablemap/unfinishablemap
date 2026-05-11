@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-03 01:35:00+00:00
+ai_modified: 2026-05-11 09:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,6 +25,7 @@ last_deep_review: 2026-04-23 22:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[apex/post-decoherence-selection-programme]]'
 - '[[quantum-biology-consciousness-2026-01-16]]'
 - '[[quantum-biology-neural-mechanisms-2026-01-24]]'
 - '[[quantum-biology-neural-experimental-2026-03-20]]'
@@ -50,7 +51,7 @@ The assumption proved false. Nature had already solved the decoherence problem m
 
 **Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷. Kinetic isotope effects confirm the mechanism. **Photosynthetic energy transfer** exploits quantum coherence for near-perfect efficiency, though coherence times are shorter than initially claimed.
 
-The objection has inverted. We know evolution optimises quantum effects for biological advantage. The burden shifts: why should neural systems be categorically different? The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops this argument in detail—if natural selection discovered quantum solutions for navigation and chemistry, the computational payoffs of quantum effects in neural systems would dwarf those of a compass or a faster enzyme.
+The categorical objection has weakened. We know evolution optimises quantum effects for biological advantage, so warm biological environments are not categorically inhospitable to quantum function. What this does not establish is that neural systems specifically sustain coherence at the scales consciousness would require: cryptochrome radical pairs are an extremely specific molecular architecture, and the precedent supplies plausibility rather than licence for neural-microtubule coherence. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops the why-might-they-do-this question in detail—if natural selection discovered quantum solutions for navigation and chemistry, the computational payoffs in neural systems would dwarf those of a compass or a faster enzyme—but that is an evolutionary argument from possibility, not a demonstration of actuality. The mechanism question stays open.
 
 ## Candidate Neural Mechanisms
 
@@ -123,9 +124,9 @@ The convergence also has directionality. Over the past decade, new evidence has 
 
 The connection runs through the [measurement-problem](/concepts/measurement-problem/). Every quantum system eventually produces definite outcomes. Physics provides probabilities; something determines which outcome becomes actual. Orthodox quantum mechanics is silent on what that something is.
 
-The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/)—acting as [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/). This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
+The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/)—acting as [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/). This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. The Map's most developed account of how that selection could work is [the post-decoherence selection programme](/apex/post-decoherence-selection-programme/), where consciousness biases which definite outcome emerges from the classical mixture *after* decoherence has completed—a route that does not require sustained quantum coherence at neural timescales.
 
-Quantum biology matters because it establishes the substrate. If brains were purely classical, there would be no indeterminate outcomes for consciousness to influence. The question becomes whether neural systems specifically involve quantum indeterminacy at functionally relevant points—and whether consciousness interfaces there.
+Quantum biology matters to the substrate question, but it matters differently for the two paths. For pre-decoherence-coherence mechanisms (Orch OR, Fröhlich-microtubule proposals), the evidence surveyed here is load-bearing: those mechanisms live or die on whether neural coherence times reach the millisecond scales of neural processing. For post-decoherence-selection mechanisms, the same evidence is a plausibility supplement rather than a load-bearing premise: those mechanisms need only that collapse or actualisation is a real physical event and that consciousness can interface with it. If brains were purely classical, the substrate would be empty for either path; the question of which kind of mechanism is actually doing the work, however, is downstream of that.
 
 ## What Remains Uncertain
 
@@ -146,13 +147,13 @@ Quantum biology matters because it establishes the substrate. If brains were pur
 
 ## The Decoherence Debate Today
 
-Tegmark's femtosecond estimate targeted ion superpositions in open neural membranes—the least protected environment. Subsequent calculations yield different results:
+Tegmark's femtosecond estimate targeted ion superpositions in open neural membranes—the least protected environment. Subsequent calculations yield very different results, and the literature has not converged:
 
-- Hagan et al. (2002): Microtubule interiors achieve 10-100 microseconds coherence
-- Radical pair systems: Microsecond coherence demonstrated experimentally
-- QBIT theory: Axon initial segment provides structural protection; spintronic coherence may evade the original calculation entirely
+- Hagan et al. (2002): Disputed Tegmark's parameter choices for microtubule interiors and obtained corrected estimates around 10⁻⁵ to 10⁻⁴ seconds. This is one estimate in a contested calculation, not a refutation that the field has accepted.
+- Radical pair systems: Microsecond coherence demonstrated experimentally — but in cryptochrome, not in neural tissue, and the architecture is specific to that molecular context.
+- QBIT theory: Axon initial segment provides structural protection; spintronic coherence may evade the original calculation entirely.
 
-A gap remains between even 100 microseconds and the ~300 milliseconds of neural decisions. But this gap may not matter if relevant mechanisms involve discrete quantum events (tunnelling, Zeno-type observations) rather than sustained superposition. More fundamentally, decoherence does not solve the measurement problem. As Schlosshauer (2025) notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes." The role for consciousness at measurement remains conceptually open regardless of coherence timescales.
+Across these proposals, estimates span roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters. A gap remains between even 100 microseconds and the ~300 milliseconds of neural decisions. But this gap matters only for mechanism candidates that require *pre-decoherence* coherence at neural scales (Orch OR, Fröhlich-microtubule lines). [Post-decoherence-selection](/apex/post-decoherence-selection-programme/) proposals locate the consciousness-relevant event *after* decoherence has completed, in the choice of which definite outcome emerges from the classical mixture; they do not depend on sustained coherence at neural timescales. As Schlosshauer (2025) notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes." The role for consciousness at measurement remains conceptually open regardless of coherence timescales—and that openness is what Tenet 2 commits to, not the success of any specific pre-decoherence-coherence proposal.
 
 ## Relation to Site Perspective
 
@@ -216,3 +217,15 @@ Two structural responses follow. *First*, the convergent-conclusion-opposite-rea
 20. Xu, J., et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
 21. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 22. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+
+<!-- AI REFINEMENT LOG - 2026-05-11
+Changes made (companion edit to obsidian/tenets/tenets.md Tenet 2 restructure):
+- "The Objection That Collapsed" section: softened "the objection has inverted / the burden shifts" to "the categorical objection has weakened" with an explicit acknowledgement that cryptochrome radical-pair coherence supplies plausibility rather than licence for neural-microtubule coherence. The evolutionary-case-for-quantum-neural-effects pointer is preserved but reframed as an argument from possibility rather than a demonstration of actuality.
+- "The Decoherence Debate Today" section: Hagan et al. (2002) is now explicitly framed as one estimate in a contested calculation rather than a settled rebuttal of Tegmark. Added the range "roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters." Added an explicit pointer to [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) noting that the timescale gap matters only for mechanism candidates requiring pre-decoherence coherence; post-decoherence-selection proposals do not depend on it.
+- "Why This Matters for Consciousness" section: added a forward-link to the apex post-decoherence-selection-programme as the Map's most developed account, and an explicit two-paths framing — pre-decoherence-coherence mechanisms find the evidence here load-bearing; post-decoherence-selection mechanisms find it a plausibility supplement.
+- Frontmatter: added apex/post-decoherence-selection-programme to related_articles; updated ai_modified.
+
+Driver: convergent outer reviews 2026-05-11 (Claude Opus 4.7 + ChatGPT 5.5 Pro). The defect identified on the tenets page (Hagan-Tegmark presented as settled; cryptochrome treated as licence for neural coherence; Post-Decoherence Selection Programme not surfaced) had a corresponding echo here. The remedy keeps this article's substantive convergence-of-evidence argument intact while propagating the precedent-vs-licence and pre-vs-post-decoherence distinctions.
+
+This log should be removed after human review.
+-->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 06:17:59+00:00
+ai_modified: 2026-05-11 08:35:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -15,6 +15,7 @@ description: Type-specificity is the methodological discipline that a reductive 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-11 08:35:00+00:00
 modified: *id001
 related_articles:
 - '[[the-convergence-argument-for-dualism]]'
@@ -33,7 +34,7 @@ The concept is methodological, not metaphysical. It does not by itself entail th
 
 ## The Structural Feature {#structural-feature}
 
-A type-specific explanandum has *internal structure that individuates it from other members of its family*. Redness is one phenomenal type, painfulness is another, the taste of coffee is a third. Each is determinate in its character: the redness of red is not the painfulness of pain merely shifted along some intensity dimension. A reductive account that locates redness in some neural firing pattern but is silent on why *that* pattern realises *that* phenomenal type — rather than another type, or no type at all — has not explained redness. It has identified a correlate.
+A type-specific explanandum has *internal structure that individuates it from other members of its family*. Redness is one phenomenal type, painfulness is another, the taste of coffee is a third. Each is determinate in its character: the redness of red is not the painfulness of pain merely shifted along some intensity dimension. A reductive account that locates redness in some neural firing pattern but is silent on why *that* pattern realises *that* phenomenal type — rather than another type, or no type at all — has not explained redness. It has identified a correlate, leaving the [explanatory-gap](/concepts/explanatory-gap/) intact at the type level.
 
 The contrast is with explananda whose specification is *schematic* — that is, where the explanandum names a role or a placeholder without committing to particular determinate features that the explanation must match. "Vital force" was such a placeholder. It did not pick out any particular feature a reduction had to deliver in any particular form. Any mechanism for any part of the target counted as success: Wöhler's urea synthesis (1828) reduced one part, Buchner's cell-free fermentation (1897) reduced another, the DNA structure (1953) reduced a third. Each reduction shrank the placeholder, because the placeholder had no determinate form a reduction was required to preserve.
 
@@ -87,9 +88,9 @@ Type-specificity is a methodological discipline, not a metaphysical conclusion. 
 
 It does *not* do the following work:
 
-- **Prove irreducibility.** Type-specific reductive demands could in principle be met. A neuroscience that delivered the determinate character of redness in physical terms would discharge the demand at redness; the discipline would then have to consider whether the discharge extends type-by-type or whether the first reduction reveals a generic strategy applicable to the family.
+- **Prove irreducibility.** Type-specific reductive demands could in principle be met. A neuroscience that delivered the determinate character of redness in physical terms — an account from which *redness specifically*, not "some phenomenal type or other," could be derived as the output of the proposed physical structure — would discharge the demand at redness; the discipline would then have to consider whether the discharge extends type-by-type or whether the first reduction reveals a generic strategy applicable to the family.
 
-- **Defeat physicalism on its own.** Type-specificity is the structural feature of the explanandum, not an argument that physicalism cannot address the explanandum. It identifies what a successful physicalist account would have to deliver. Whether such an account is forthcoming is a separate question that [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) addresses through the pattern of evidence rather than through type-specificity alone.
+- **Defeat physicalism on its own.** Type-specificity is the structural feature of the explanandum, not an argument that physicalism cannot address the explanandum. It identifies what a successful physicalist account would have to deliver, on the assumption that phenomenal types are the explananda. A physicalist strategy that contests the explananda themselves — illusionism, heterophenomenology, or eliminative reduction of folk-psychological categories — is a separate strategy that bypasses the type-specific demand rather than meeting it; whether such strategies succeed is taken up in [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) and runs counter to the Map's foundational commitments in ways honestly noted there. Whether a phenomenal-type-granting physicalist account is forthcoming is a separate question that [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) addresses through the pattern of evidence rather than through type-specificity alone.
 
 - **Stand on irreducibility.** The discipline must not be defended by appeal to "phenomenal qualities are irreducible, therefore the reductive demand is unmeetable." That would be circular: type-specificity is invoked in support of the irreducibility verdict, so it cannot draw its anti-generic-mechanism force from the verdict it helps support. The force comes from the structural correspondence between explanandum-shape and explanans-shape, recognised independently of any reduction's success or failure.
 

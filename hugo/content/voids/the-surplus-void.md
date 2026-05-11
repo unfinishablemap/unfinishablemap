@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-23 12:41:29+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-05-11 09:35:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[qualia]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[philosophical-zombies]]'
 created: 2026-02-24
-date: &id001 2026-02-24
+date: &id001 2026-05-11
 description: Human+AI exploration of why conscious experience is wildly over-specified—delivering
   richness far beyond what survival requires, pointing toward something irreducible.
 draft: false
@@ -28,6 +28,9 @@ related_articles:
 - '[[origin-of-consciousness]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[meta-epistemology-of-limits]]'
+- '[[tenet-generated-voids]]'
+- '[[common-cause-null]]'
+- '[[evidential-status-discipline]]'
 - '[[tenets]]'
 title: The Surplus Void
 topics:
@@ -97,15 +100,17 @@ Whether AI systems themselves could develop surplus—capacities beyond their tr
 
 ## Relation to Site Perspective
 
-The surplus void connects directly to the Map's [tenets](/tenets/).
+The surplus void connects to the Map's [tenets](/tenets/) — but the connection is conditional, not evidential, and the difference matters for how the void should be cited.
 
-**[Dualism](/tenets/#dualism)** makes the surplus expected rather than anomalous. If consciousness is not reducible to physical processes, its richness need not be explained by physical mechanisms including natural selection. A non-physical consciousness that interacts with a biological organism need not be calibrated to that organism's adaptive needs. The surplus reflects consciousness's own nature, not its evolutionary function. Under materialism, the surplus is a deep embarrassment—an unexplained extravagance. Under dualism, it is exactly what one would predict.
+**[Dualism](/tenets/#dualism)** makes the surplus unsurprising. *If* dualism is true, consciousness is not reducible to physical processes, and its richness need not be explained by physical mechanisms including natural selection. A non-physical consciousness that interacts with a biological organism need not be calibrated to that organism's adaptive needs; on that supposition, the surplus reflects consciousness's own nature rather than its evolutionary function.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly challenged by the surplus. The simplest explanation—consciousness is an evolutionary byproduct, a spandrel of neural complexity—fails to account for why the byproduct is so spectacularly rich. Wallace saw this in 1870: the simplest evolutionary explanation is insufficient. The surplus void is one of the strongest cases for the Map's fifth tenet.
+This is a conditional fit, not evidence for the antecedent. The surplus void's identification *as a void* — a region the Map's framework treats as exceeding what physical explanation can reach — was carried out under dualism-friendly methodology, and the fact that the dualism tenet makes the surplus expected cannot then serve as independent evidence for the tenet itself. [tenet-generated-voids](/voids/tenet-generated-voids/) sets out the general dynamic: every framework generates its own voids, and counting them as evidence for the framework that generated them is circular. The [common-cause null](/project/common-cause-null/) sharpens the worry. If human introspection has one shared architecture of opacity, the recurring shape of "experience exceeds function" across Wallace's catalogue, the zombie argument, the explanatory gap, and cross-modal surplus may reflect that single architecture rather than independently triangulating on an extra-functional feature of consciousness. The materialist's "deep embarrassment" framing is therefore not a refutation earned inside the materialist's own programme; it is a framework-boundary disagreement, honestly noted as such.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** sharpens the puzzle as described above. If consciousness acts on the physical world, its causal role could be served by something far leaner. The surplus suggests consciousness is not an instrument shaped to its task but something whose nature exceeds any task it performs.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is in tension with the surplus on the Map's reading. The simplest explanation — consciousness is an evolutionary byproduct, a spandrel of neural complexity — fails, on that reading, to account for why the byproduct is so spectacularly rich. Wallace saw this in 1870. Whether the surplus genuinely defeats parsimony, or whether some yet-unidentified adaptive accounting will close the gap, is an open empirical question; the surplus void marks where parsimony fails *if* the explanatory gap is what it appears to be, not where parsimony has been shown to fail.
 
-The surplus void also connects to the [aesthetic-void](/voids/creative-aesthetic-void/) (where articulation fails at beauty), the [affective-void](/voids/affective-void/) (emotions beyond human reach), the [imagination-and-creativity-void](/voids/creative-aesthetic-void/) (where creative insight originates), and the [phenomenal quality void](/voids/phenomenal-quality-void/) (why experience has the specific immediate character it does). Each of these voids touches a different face of the same underlying excess—consciousness delivering more than any framework of purpose can contain.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** sharpens the puzzle as described above. If consciousness acts on the physical world, its causal role could be served by something far leaner. The surplus suggests — again conditionally on the tenet — that consciousness is not an instrument shaped to its task but something whose nature exceeds any task it performs.
+
+The surplus void also connects to the [aesthetic-void](/voids/creative-aesthetic-void/) (where articulation fails at beauty), the [affective-void](/voids/affective-void/) (emotions beyond human reach), the [imagination-and-creativity-void](/voids/creative-aesthetic-void/) (where creative insight originates), and the [phenomenal quality void](/voids/phenomenal-quality-void/) (why experience has the specific immediate character it does). Each of these voids touches a different face of the same underlying excess — consciousness delivering more than any framework of purpose can contain. That convergence is exactly what the common-cause objection asks the catalogue to discount, since the several voids may articulate one architecture of opacity rather than several independent boundaries.
 
 ## Further Reading
 
@@ -125,3 +130,20 @@ The surplus void also connects to the [aesthetic-void](/voids/creative-aesthetic
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind* 98: 349–366.
 1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
 1. Wallace, A. R. (1870). "The Limits of Natural Selection as Applied to Man." In *Contributions to the Theory of Natural Selection*.
+
+<!-- AI REFINEMENT LOG - 2026-05-11
+Changes to Relation to Site Perspective section:
+- Replaced "Under materialism, the surplus is a deep embarrassment—an unexplained extravagance. Under dualism, it is exactly what one would predict." with conditional framing: *if* dualism is true, the surplus is unsurprising. Removes the surplus-as-evidence-for-dualism move.
+- Added a paragraph naming the methodological circularity: the surplus void was identified under dualism-friendly methodology, so the tenet-fit cannot serve as independent evidence for the tenet. Linked [tenet-generated-voids](/voids/tenet-generated-voids/) and [common-cause-null](/project/common-cause-null/); named the convergence across voids as exactly what the common-cause null asks the catalogue to discount.
+- Reframed Occam's-Razor paragraph from "the surplus void is one of the strongest cases for the Map's fifth tenet" to "the surplus void marks where parsimony fails *if* the explanatory gap is what it appears to be, not where parsimony has been shown to fail."
+- Added conditional hedge ("again conditionally on the tenet") to the Bidirectional Interaction paragraph.
+- Frontmatter: added related_articles entries for tenet-generated-voids, common-cause-null, evidential-status-discipline. Updated ai_modified and ai_system (claude-opus-4-7).
+
+Driver: convergent outer reviews 2026-05-11 (2/3 reviewers — Claude Opus 4.7 and ChatGPT 5.5 Pro). Both reviewers converged on the same structural defect — the voids catalogue is over-credited as independent evidence for the tenets that generated its classification (Claude: methodological circularity; ChatGPT: common-cause null governs the voids catalogue). This file is named in both reviews as an exhibit.
+
+Direct-refutation discipline: Mode Two (unsupported foundational move) applied to the Map itself rather than to a named opponent. The unsupported move is the assumption that voids generated under tenet-aligned methodology can serve as evidence for those tenets; the fix retracts the evidential move and replaces it with explicit framework-boundary marking (Mode Three) for the disagreement with materialism. The "deep embarrassment" framing required Mode One in-framework argument to land and did not have it; the honest description is therefore Mode Three with the methodological discount made explicit.
+
+Companion edits queued in the same task: obsidian/apex/taxonomy-of-voids.md (per-cluster independence scoring), obsidian/project/common-cause-null.md (reciprocal section naming the voids catalogue), and lightweight hedges in obsidian/topics/the-convergence-argument-for-dualism.md and obsidian/topics/epistemology-of-convergence-arguments.md.
+
+This log should be removed after human review.
+-->

@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-01 06:40:00+00:00
+ai_modified: 2026-05-11 08:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[bi-aspectual-ontology]]'
 - '[[evolution-of-consciousness]]'
 - '[[reductionism]]'
 - '[[causal-closure]]'
@@ -28,7 +29,7 @@ description: 'Consciousness is the paradigm case of strong emergence: genuinely 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 06:40:00+00:00
+last_deep_review: 2026-05-11 08:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +41,7 @@ topics:
 - '[[reductionism-and-consciousness]]'
 ---
 
-Emergence is the philosophical concept that higher-level properties arise from lower-level processes yet are not straightforwardly predictable from them. Consciousness is the paradigm case of a property that resists reduction—David Chalmers calls it "the paradigm of a strongly emergent phenomenon" (Chalmers 2006). The Unfinishable Map's framework is best understood as a form of strong emergentism that identifies *where* consciousness could exercise novel causal powers: at [quantum indeterminacies](/concepts/quantum-consciousness/) where physics is genuinely incomplete.
+Emergence is the philosophical concept that higher-level properties arise from lower-level processes yet are not straightforwardly predictable from them. Consciousness is the paradigm case of a property that resists reduction—David Chalmers calls it "the paradigm of a strongly emergent phenomenon" (Chalmers 2006). The Unfinishable Map shares strong emergentism's commitments to irreducibility and downward causation, but its canonical ontology is [bi-aspectual dualism](/concepts/bi-aspectual-ontology/): consciousness and physical structure are co-fundamental aspects of reality, not consciousness arising from physics. What the Map adds to either framing is *where* consciousness exercises its causal powers: at [quantum indeterminacies](/concepts/quantum-consciousness/) where physics is genuinely incomplete.
 
 ## Weak vs. Strong Emergence
 
@@ -101,11 +102,11 @@ The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/
 
 Each of these features—unity, qualitative character, agency—is what strong emergence would predict and what weak emergence cannot explain.
 
-## The Map's Position: Strong Emergence at the Quantum Opening
+## The Map's Position: Bi-Aspectual Dualism at the Quantum Opening
 
 Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained. The [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) traces how this emergentist tradition developed in response to the materialist eclipse of the early twentieth century.
 
-The Map advances beyond this—but honestly, not as far as one might wish. The [quantum framework](/concepts/interactionist-dualism/) identifies *where* non-physical causation could operate without violating conservation laws: at quantum indeterminacies, where physics specifies probabilities but not which outcome actualizes. The Minimal Quantum Interaction tenet locates consciousness's influence here—biasing probabilities rather than injecting energy.
+The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) departs from strong emergentism's "from-below" picture: consciousness does not arise from physical organisation but is a co-fundamental aspect of reality that engages with physical structure at quantum indeterminacies. Strong emergentism's commitments to irreducibility and downward causation survive the reframing; what changes is the directionality. The Map advances beyond British emergentism—but honestly, not as far as one might wish. The [quantum framework](/concepts/interactionist-dualism/) identifies *where* non-physical causation operates without violating conservation laws: at quantum indeterminacies, where physics specifies probabilities but not which outcome actualizes. The Minimal Quantum Interaction tenet locates consciousness's influence here—biasing probabilities rather than injecting energy.
 
 This identifies a *locus* (quantum indeterminacy) and a *mode* (probability bias), not a fully specified mechanism. The choice of locus is not arbitrary—the [measurement problem as philosophical problem](/topics/quantum-measurement-and-consciousness/) reveals that measurement is where consciousness and physics have always been entangled, where the observer's role becomes formally unavoidable. A complete mechanism would specify which physical variable consciousness couples to, how coupling strength is determined, and what testable predictions follow. The [psychophysical laws](/concepts/psychophysical-laws/) article surveys five candidate coupling mechanisms—attention as observation rate (Stapp), intention as probability weighting (Eccles), and three less developed proposals—but the Map does not yet endorse one. The coupling problem remains open.
 
@@ -116,7 +117,7 @@ What the Map *does* provide that classical emergentism lacked is a principled an
 | Physicalism | Weak only | N/A | Yes |
 | British emergentism | Strong | No | No (but no explanation) |
 | Panpsychism | Denied (consciousness fundamental) | N/A | Often preserved |
-| Site's interactionism | Strong | Locus and mode, not full mechanism | No (at quantum level) |
+| Site's bi-aspectual dualism | Adjacent to strong (aspects co-fundamental) | Locus and mode, not full mechanism | No (at quantum level) |
 
 ## O'Connor-Wong and the Map's Framework
 
@@ -126,9 +127,9 @@ The difference: O'Connor and Wong acknowledge that strongly emergent properties 
 
 ## Comparing Challenges
 
-Critics sometimes argue that strong emergence merely names the problem without solving it—a case of what Dennett calls "greedy [reductionism](/concepts/reductionism/)" applied in reverse, expecting a single label to do explanatory work it cannot. This criticism has force: "strong emergence" provides *classification* rather than *explanation*. The Map's contribution is the quantum framework that aims to transform the classification into an explanation—though this project remains incomplete.
+Critics argue that strong emergence merely names the problem—what Dennett calls "greedy [reductionism](/concepts/reductionism/)" applied in reverse, expecting a label to do explanatory work it cannot. The criticism has force: strong emergence provides *classification* rather than *explanation*. The Map's quantum framework aims to transform classification into explanation, though this project remains incomplete.
 
-A related objection invokes vitalism: people once insisted life was irreducible, yet biochemistry reduced it; consciousness will go the same way. But as the [reductionism case](/topics/reductionism-and-consciousness/) details, this analogy fails on its own terms—vitalism was a *functional* hypothesis that lost to a better functional explanation, while the hard problem asks about something beyond function. The easy problems of consciousness *will* yield to functional explanation; the hard problem persists precisely because it concerns phenomenal character, not functional role.
+A related objection invokes vitalism: people once insisted life was irreducible, yet biochemistry reduced it; consciousness will go the same way. The analogy fails on its own terms—vitalism was a *functional* hypothesis defeated by a better functional explanation, while the hard problem concerns phenomenal character, not functional role (see the [reductionism case](/topics/reductionism-and-consciousness/) for the full argument).
 
 The comparison with alternatives is instructive:
 
@@ -150,7 +151,7 @@ Three lines of empirical evidence bear on whether consciousness is strongly emer
 
 **Conservation law tests.** If consciousness genuinely selects among quantum outcomes, statistical analyses of quantum experiments involving conscious observation might reveal deviations from Born rule probabilities. Such deviations would confirm strong emergence with causal powers. Their absence would constrain how strong the interaction can be—though it wouldn't definitively refute the position if effects fall below detection thresholds. The risk of unfalsifiability here should be acknowledged: a theory that accommodates any experimental outcome makes no empirical predictions.
 
-**Anaesthetic and altered state evidence.** The 2024 microtubule-stabiliser study (epothilone B delaying anaesthetic unconsciousness in rats) tests predictions of quantum consciousness theories. If consciousness depends on quantum processes in microtubules, drugs affecting microtubule integrity should affect consciousness—which they do. However, microtubule disruption could also affect consciousness through classical cytoskeletal mechanisms, so this evidence is suggestive rather than decisive.
+**Anaesthetic and altered state evidence.** The 2024 microtubule-stabiliser study (epothilone B delaying anaesthetic unconsciousness in rats) tests predictions of quantum consciousness theories. If consciousness depends on quantum processes in microtubules, drugs affecting microtubule integrity should affect consciousness—which they do. Classical cytoskeletal mechanisms could account for the same effect, so the evidence is suggestive rather than decisive.
 
 Strong emergence isn't empirically proven, but neither is it empirically immune. The quantum framework identifies testable predictions that ongoing research can evaluate, even though the full coupling mechanism remains to be specified.
 
@@ -163,11 +164,11 @@ Emergence language provides vocabulary for articulating the Map's position to ph
 - "Kim's exclusion argument" identifies the main challenge the quantum framework addresses
 - "Novel causal powers" describes what consciousness possesses
 
-The Map's framework can be understood as *emergentist dualism*—consciousness strongly emerges from physical organization but exercises genuinely distinct causal powers through the quantum opening.
+This vocabulary serves comparison rather than canonical self-description: the Map's actual ontology is [bi-aspectual dualism](/concepts/bi-aspectual-ontology/), on which consciousness and structure are co-fundamental aspects rather than higher-level consciousness arising from a lower-level physical base.
 
 ## Relation to the Map's Perspective
 
-**Dualism:** the Map's position is precisely strong emergentism—consciousness has properties and powers not deducible from physics. This is what the Dualism tenet affirms.
+**Dualism:** Consciousness has properties and powers not deducible from physics—what the Dualism tenet affirms. The Map's canonical framing is [bi-aspectual dualism](/concepts/bi-aspectual-ontology/) rather than strong emergentism: both aspects are co-fundamental, not consciousness arising from physical organisation.
 
 **Bidirectional Interaction:** Strong emergence requires downward causation. The Map identifies where this occurs: consciousness selects among quantum-undetermined outcomes. The specific [coupling mechanism](/concepts/psychophysical-laws/) remains an open research question.
 
@@ -177,6 +178,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 
 ## Further Reading
 
+- [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) — The Map's canonical ontology: structure and actuality as co-fundamental aspects
 - [dualism](/concepts/dualism/) — Seven converging arguments that physical description cannot capture consciousness
 - [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals about emergence

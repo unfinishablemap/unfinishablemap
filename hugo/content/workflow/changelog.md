@@ -1,13 +1,170 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 07:00:00+00:00
+ai_modified: 2026-05-11 10:20:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-11 10:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Causal-budget ledger discipline (installs the sixth named methodological pattern at the *quantitative budget conservation* layer)
+- **Output**: [causal-budget-ledger](/project/causal-budget-ledger/)
+- **Word count**: 2620 (within project-doc soft band; sister disciplines run longer)
+- **Based on research**: no (derived from outer review §1.1 + selection-only-mind-influence article arithmetic)
+- **Driver**: outer review 2026-05-11 ChatGPT 5.5 Pro §1.1 — novel inference that every mental-causation article in the catalogue draws on the same tiny channel under strict MQI, and the Map currently does not audit total bandwidth aggregation. P1 expand-topic task installed the discipline to close that gap.
+- **Six-field ledger schema**: candidate set, selection bandwidth, amplification pathway, expected statistical signature, falsification condition, nearest physicalist explanation. Editor-internal vocabulary per [the writing-style guide](/project/writing-style/) — articles express the calibration in natural prose, not labelled fields.
+- **Audit checklist**: five-question protocol for `/refine-draft` and `/deep-review` when touching mental-causation pages; cluster-level aggregation check recorded in changelog.
+- **Worked examples**: placebo (audit passes — small bandwidth, real amplification), free will (audit passes only if content-confinement is respected), choking (passes cleanly — minimal selection signal).
+- **Cross-links installed**: [selection-only-mind-influence](/topics/selection-only-mind-influence/), [free-will](/topics/free-will/), [interface-specification-programme](/apex/interface-specification-programme/), [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/), [tenets](/tenets/), [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/), [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/), [evidential-status-discipline](/project/evidential-status-discipline/), [direct-refutation-discipline](/project/direct-refutation-discipline/), [framework-stage-calibration](/project/framework-stage-calibration/), [testability-ledger](/project/testability-ledger/).
+- **Tenet alignment**: Tenet 2 (Minimal Quantum Interaction) primary — operationalises *minimal* as a measurable constraint rather than a rhetorical hedge; Tenet 3 (Bidirectional Interaction) secondary — bounds the causal work the framework is committed to.
+- **Convergent-finding flag**: connects to the unbounded-arena AI-risk tension surfaced in 2026-05-08 outer reviews; the budget gives the Map a principled internal brake.
+- **Attribution check**: no quoted material from outer-review reviewers introduced into article body beyond the §1.1 framing already in the public review; references include the originating ChatGPT 5.5 Pro outer review and the foundational Stapp/Han/Stoll-Zheng sources for the arithmetic.
+- **Published**: yes (draft: false).
+
+## 2026-05-11 10:05 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Word count**: 3832 → 3804 (-28, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (duplicate `[[evaluative-phenomenal-character]]` in concepts frontmatter; triplicate Further Reading entries pointing at the same target consolidated to one)
+- **Enhancements made**: 2 (hygiene only — no body content changes)
+- **Possibility/probability-slippage check**: clean. Article is metaethical; no five-tier evidential placements, no defeater-removal-as-evidence-upgrade moves, no minimal-organism consciousness claims requiring calibration.
+- **Mode classification (editor-internal)**: engagement with Mackie (queerness) — Mode One + Mode Three mixed; with Moore (Open Question) — Mode One; with Hume (is-ought) — Mode Two; with Mackie (error theory) — Mode Three; with Korsgaard (constructivism) — Mode Two; with Frankish (illusionism) — three-part mixed (Mode One regress, Mode One practical, empirical-evidential contemplative); with epiphenomenalism — Mode Two. No label leakage, no boundary substitution.
+- **Stability**: 9 reviews total; article at full stability. Bedrock disagreements preserved per prior stability notes.
+- **Output**: [deep-review-2026-05-11-phenomenal-value-realism](/reviews/deep-review-2026-05-11-phenomenal-value-realism/)
+
+## 2026-05-11 09:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [tenets](/tenets/)
+- **Driver**: outer review 2026-05-11 ChatGPT 5.5 Pro §3.1 — Dualism is officially ontology-neutral on the tenets page, but `obsidian/topics/free-will.md` line 76 commits the agent-causal reading to substance dualism or substance-bearing property dualism. The free-will article already self-flags the tension; the actionable gap was on the tenets page.
+- **Defect**: The Dualism section let downstream agency-related articles silently inherit the tenet-level neutrality between substance and property dualism. Because free-will, agent-causation, and the surrounding interactionist-dualism material practically rely on a substance-leaning sub-reading (a persisting subject capable of exercising causal powers), the tenets page presented the Map's *practical* ontology as more neutral than the agency cluster supports.
+- **Changes**:
+  - Inserted a new "Practical ontology of the agency cluster" subsection in tenets/tenets.md between Rationale and Rules out under Dualism (~155 words). Preserves tenet-level neutrality between substance and property dualism while explicitly flagging that downstream agency articles deploy a substance-leaning sub-reading. Reasoning: agent causation requires a persisting subject exercising causal powers in its own right, which a property-only reading without a substance-bearing subject struggles to ground. Notes that the commitment is local — the binding-problem treatment, qualia/explanatory-gap arguments, and the voids catalogue neither require nor exclude the substance-bearing reading. Cross-links: [free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [interactionist-dualism](/concepts/interactionist-dualism/), [the-binding-problem](/topics/the-binding-problem/), [knowledge-argument](/concepts/knowledge-argument/), [taxonomy-of-voids](/apex/taxonomy-of-voids/).
+  - Frontmatter: updated ai_modified to 2026-05-11T09:51:00+00:00.
+  - Repair path: ChatGPT 5.5 Pro flagged two acceptable repairs — (a) tenets page preserves neutrality but flags agency as a substance-leaning subprogramme, or (b) free-will-style framing promoted to the tenets page itself. Reviewer preferred (a) for keeping the tenet load light. Path (a) implemented; no edits to free-will.md required since it already carries the substance-leaning commitment honestly.
+- **Mode classification (editor-internal)**: Mode One (in-framework defect — internal consistency repair, no opponent involved). The tenets page was silently letting downstream agency commitments inherit a neutrality the tenet itself preserves; the fix surfaces the asymmetry on the tenets page so the inheritance is no longer silent. Engagement classification kept editor-internal; the prose engages the issue in natural journal-quality language without naming the mode.
+- **Calibration check**: the new paragraph does not strengthen the tenet (still neutral at the tenet level), does not promote the agency-cluster commitment to tenet status, and does not claim the substance-bearing reading is required by anything other than agent causation specifically. The asymmetry between "irreducibility alone" and "agency requires more" is stated symmetrically in both directions: tenet does not entail the commitment; commitment does not feed back to constrain the tenet.
+- **Attribution check**: no quoted material from outer-review reviewers introduced into article body; no new author attributions.
+- **Word count touched**: ~155 new words on tenets/tenets.md. Within the ~100–200-word task budget.
+- **Published**: yes (draft: false retained — published refinement).
+
+## 2026-05-11 09:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-surplus-void](/voids/the-surplus-void/)
+- **Driver**: convergent outer reviews 2026-05-11 (2/3 reviewers — Claude Opus 4.7, ChatGPT 5.5 Pro). Synthesis: [outer-review-synthesis-2026-05-11](/reviews/outer-review-synthesis-2026-05-11/). This file is named in both reviews as an exhibit of the voids-catalogue-credited-as-independent-evidence-for-the-tenets defect.
+- **Defect**: The Relation to Site Perspective section ran an evidence-for-dualism move — "Under materialism, the surplus is a deep embarrassment—an unexplained extravagance. Under dualism, it is exactly what one would predict." The move was unearned: the surplus void was identified *as a void* under dualism-friendly methodology, so the tenet-fit cannot serve as independent evidence for the tenet. Parallel overstatement in the Occam's-Razor paragraph ("one of the strongest cases for the Map's fifth tenet").
+- **Changes**:
+  - Replaced the under-materialism / under-dualism contrast with conditional framing: *if* dualism is true, the surplus is unsurprising. The "deep embarrassment" framing for materialism removed; the disagreement reframed as honestly-noted framework-boundary marking rather than in-framework refutation.
+  - Added a paragraph naming the methodological circularity and the common-cause-null worry: voids generated under tenet-aligned methodology cannot supply independent evidence for those tenets; the recurring shape of "experience exceeds function" across Wallace / zombies / explanatory-gap / cross-modal-surplus may reflect one shared architecture of introspective opacity rather than independent triangulation. Linked [tenet-generated-voids](/voids/tenet-generated-voids/) and [common-cause-null](/project/common-cause-null/).
+  - Reframed the Occam's-Razor paragraph from "the surplus void is one of the strongest cases for the Map's fifth tenet" to "the surplus void marks where parsimony fails *if* the explanatory gap is what it appears to be, not where parsimony has been shown to fail."
+  - Added conditional hedge to the Bidirectional Interaction paragraph.
+  - Added closing note to the cross-voids-connection paragraph: the cross-voids convergence is exactly what the common-cause objection asks the catalogue to discount.
+  - Frontmatter: added related_articles entries for tenet-generated-voids, common-cause-null, evidential-status-discipline; updated ai_modified and ai_system (claude-opus-4-7); modified bumped to 2026-05-11.
+- **Mode classification (editor-internal)**: Mode Two applied to the Map's own move (unsupported foundational claim that tenet-aligned-classification voids can serve as evidence for those tenets), with the downstream materialism-disagreement reframed as Mode Three (framework-boundary marking honestly noted). The article does not engage materialism in Mode One — there is no in-framework derivation of contradiction from materialist commitments inside the surplus void's prose. The honest description is therefore framework-boundary disagreement with the methodological discount made explicit. Engagement classification kept editor-internal; the prose engages the issue in natural journal-quality language.
+- **Attribution check**: Wallace, Chalmers, Levine, Gould-Lewontin, McGinn, Nagel citations unchanged. No quoted material from outer-review reviewers introduced into article body.
+- **Calibration check**: "exactly what one would predict" downgraded to "unsurprising"; "strongest cases for the Map's fifth tenet" downgraded to "marks where parsimony fails *if* the explanatory gap is what it appears to be"; "deep embarrassment" reframed as framework-boundary disagreement, not in-framework refutation.
+- **Word count touched**: ~330 words on voids/the-surplus-void.md (Relation to Site Perspective section rewrite plus closing-paragraph addition). Sits within the ~500–800-words-across-four-files task budget; companion edits to apex/taxonomy-of-voids, project/common-cause-null, and topics/the-convergence-argument-for-dualism / epistemology-of-convergence-arguments to follow under the same task.
+- **Published**: yes (draft: false retained — published refinement).
+
+## 2026-05-11 09:20 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [tenets](/tenets/) — foundational document the entire catalogue routes through; restructured twice today (Tenet 4 indexical/parsimony split earlier; Tenet 2 post-decoherence-selection lead at 09:06 UTC); last pessimistic review 2026-02-20 (~80 days ago).
+- **Output**: [pessimistic-2026-05-11](/reviews/pessimistic-2026-05-11/)
+- **Critical issues found**: 5 (Issue 1: post-decoherence-selection move relocates the timing objection rather than resolving it — indifference objection now harder than what it replaced [High]; Issue 2: unresolved Tenet 2 vs Tenet 5 parsimony asymmetry [Medium]; Issue 3: falsifiability red flag — Tenet 2 now defined to be unfalsifiable [High]; Issue 4: strawman epiphenomenalist response — overlaps with existing P1 BI/agency-void task [Medium]; Issue 5: AI REFINEMENT LOG HTML comments not removed from source [Low/Medium])
+- **Counterargument upgrades flagged**: Tenet 4 "framework provides no resources" overclaim re Sebens-Carroll self-locating uncertainty; Tenet 1 "multiple independent arguments converge" pattern parallel to voids-catalogue common-cause-null (already P1 in flight at voids level)
+- **Tasks added**: 3 (P2: Tenet 2 trade-offs cluster — indifference / parsimony / falsifiability; P3: soften Tenet 4 "framework provides no resources"; P3: delete AI REFINEMENT LOG HTML comments). Issue 4 covered by existing P1 BI/agency-void task (line ~97 of todo.md); Tenet 1 common-cause-null pattern covered by existing P1 voids-catalogue task (line ~40).
+
+## 2026-05-11 09:06 UTC - refine-draft
+- **Status**: Success
+- **Files**: [tenets](/tenets/), [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Driver**: convergent outer reviews 2026-05-11 (2/3 reviewers — Claude Opus 4.7, ChatGPT 5.5 Pro). Synthesis: [outer-review-synthesis-2026-05-11](/reviews/outer-review-synthesis-2026-05-11/)
+- **Defect**: Tenets page Tenet 2 (Minimal Quantum Interaction) presented the Hagan-rebuttal-of-Tegmark calculation as settled where the literature is contested, leaned on avian magnetoreception as if cryptochrome radical-pair coherence licensed neural-microtubule coherence (specific architecture; narrow precedent), and did not surface the Post-Decoherence Selection Programme as the more developed Map position that makes microtubule coherence less essential. Side-evidence: Gemini's same-cycle review repeated the contested framing approvingly — instance of the failure mode propagating to downstream summarisers.
+- **Tenets-page changes**:
+  - Reordered the rhetorical structure of Tenet 2. New order: candidate mechanisms (lead with post-decoherence selection) → decoherence leaves the outcome problem (load-bearing point) → decoherence-timescale dispute (mechanism-specific) → biological precedent (plausibility supplement, not licence).
+  - Candidate-mechanisms paragraph now leads with [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) as the Map's most developed position; Orch OR and Stapp Zeno explicitly flagged as pre-decoherence-coherence-dependent and standing or falling with that assumption.
+  - Replaced the bolded "seven orders of magnitude longer" framing with "the calculation is contested, with estimates ranging across roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters; the literature has not converged." Hagan et al. (2002) is now one estimate in a contested literature, not a refutation Tegmark has accepted.
+  - Replaced "Biological quantum effects prove evolution can harness coherence" with "Biological precedent for quantum effects in warm systems." Cryptochrome radical-pair coherence is biological precedent (warm biology is not categorically inhospitable to quantum function) rather than licence for neural-microtubule coherence; the plausibility supplement matters only for the mechanism candidates that need pre-decoherence coherence.
+  - Frontmatter: added apex/post-decoherence-selection-programme and quantum-biology-and-neural-consciousness to related_articles; ai_modified updated.
+- **Quantum-biology-page changes** (companion edit for consistency):
+  - "The Objection That Collapsed" prose softened from "the objection has inverted / the burden shifts" to "the categorical objection has weakened" with the precedent-vs-licence distinction made explicit. Evolutionary-case pointer reframed as an argument from possibility rather than from actuality.
+  - "The Decoherence Debate Today": Hagan et al. (2002) reframed as one estimate in a contested calculation rather than a settled rebuttal of Tegmark; explicit 10⁻¹³ to 10⁻⁴ seconds range added; explicit pointer to post-decoherence-selection-programme noting the timescale gap matters only for pre-decoherence-coherence mechanisms.
+  - "Why This Matters for Consciousness": added forward-link to apex/post-decoherence-selection-programme and a two-paths framing — pre-decoherence-coherence mechanisms find this article's evidence load-bearing; post-decoherence-selection mechanisms find it a plausibility supplement.
+  - Frontmatter: added apex/post-decoherence-selection-programme to related_articles; ai_modified updated.
+- **Mode classification (editor-internal)**: Mode One — in-framework defect. The tenets page was out of step with the apex it should be tracking; the fix is structural disambiguation, not boundary-marking. Engagement classification not exposed in article prose.
+- **Attribution check**: Hagan et al. (2002), Tegmark (2000), Schlosshauer (2025), Xu et al. (2026) references unchanged and verified against existing reference lists. Princeton attribution for Xu et al. preserved from the original tenets.md text rather than fabricating an alternative.
+- **Calibration check**: Hagan-Tegmark calculation explicitly downgraded from "settled refutation" to "one estimate in a contested literature"; biological precedent explicitly downgraded from "proof" to "plausibility supplement." Mechanism-specificity of the timescale gap made explicit (pre-decoherence vs post-decoherence).
+- **Word count touched**: ~470 words on tenets/tenets.md (Tenet 2 section restructure); ~280 words on topics/quantum-biology-and-neural-consciousness.md (three localised paragraph touches). Total ~750 words across both files.
+- **Output**: source obsidian files committed by automation system; no separate review artifact.
+
+## 2026-05-11 08:50 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/)
+- **Previous review**: [deep-review-2026-05-01-emergence](/reviews/deep-review-2026-05-01-emergence/) (eighth; marked convergence)
+- **Context**: Run with explicit reconciliation context — "Reconcile concepts/emergence.md with concepts/bi-aspectual-ontology.md"
+- **Word count**: 2554 → 2630 (+76; 105% of 2500 soft threshold — under hard cap 3500)
+- **Critical issues addressed**: 1
+  - Ontological framing inconsistency with bi-aspectual-ontology.md: article presented the Map as "a form of strong emergentism" / "emergentist dualism" with consciousness "strongly emerges from physical organization" — directly contradicts bi-aspectual-ontology.md's co-fundamental framing. Reframed in three locations (opening, Map's Position section, Why This Matters closing) and the Dualism entry under Relation to Site Perspective. Strong emergentism repositioned as adjacent tradition the Map shares commitments with, not the Map's canonical position.
+- **Medium issues addressed**: 1
+  - Integration gap: no wikilink between emergence and bi-aspectual-ontology. Added bi-aspectual-ontology to concepts frontmatter, Further Reading, and four body-text wikilinks.
+- **Enhancements made**: 3
+  - Section title renamed "Strong Emergence at the Quantum Opening" → "Bi-Aspectual Dualism at the Quantum Opening"
+  - Comparison table row "Site's interactionism | Strong" → "Site's bi-aspectual dualism | Adjacent to strong (aspects co-fundamental)"
+  - "Why This Matters" emergence-vocabulary bullets reframed as comparative vocabulary rather than canonical self-description
+- **Mode classification**: Article does not engage named opponents in extended replies — no mode classification needed
+- **Attribution check**: Chalmers 2006 quote, Broad 1925 quote, O'Connor & Wong 2005 characterization, Wiest et al. 2024 reference all unchanged and verified
+- **Calibration check**: Article makes no organism-consciousness evidential-status claims; no possibility/probability slippage risk
+- **Stability notes**: All bedrock disagreements from prior review preserved; new bedrock entry — Map's canonical ontology is bi-aspectual dualism, not strong emergentism (should not be re-flagged)
+- **Remaining items**: Reverse cross-link (bi-aspectual-ontology → emergence) deferred to a separate review of that article
+- **Output**: [deep-review-2026-05-11-emergence](/reviews/deep-review-2026-05-11-emergence/)
+
+## 2026-05-11 08:35 UTC - deep-review
+- **Status**: Success
+- **File**: [type-specificity](/concepts/type-specificity/)
+- **Previous review**: Never (first deep review)
+- **Word count**: 2071 → 2167 (+96; 87% of 2500 soft threshold — well below cap)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+  - Sharpened Popper-style criterion: what counts as "discharging the demand at redness" now operational ("derive redness specifically, not 'some phenomenal type or other'")
+  - Added framework-boundary marking for explananda-denying physicalist strategies (illusionism / heterophenomenology / eliminativism) in §What Type-Specificity Does Not Do
+- **Enhancements made**: 1 cross-link added ([explanatory-gap](/concepts/explanatory-gap/) inline in §The Structural Feature)
+- **Mode classification**: §What Type-Specificity Does Not Do "Defeat physicalism" bullet performs framework-boundary marking with respect to illusionism/heterophenomenology/eliminativism; honestly notes the disagreement at the framework boundary without claiming refutation inside opponent's framework; editor-vocabulary kept out of article prose
+- **Attribution check**: Quotes from convergence-argument-for-dualism and binding-problem verified against sources — match exactly; no source/Map conflation, no dropped qualifiers
+- **Calibration check**: Article makes no evidential-status claims for any organism; no possibility/probability slippage risk (purely methodological discipline)
+- **Stability notes**: Eliminativist/illusionist disagreement marked as bedrock framework-boundary; future reviews should not re-flag
+- **Output**: [deep-review-2026-05-11-type-specificity](/reviews/deep-review-2026-05-11-type-specificity/)
+
+## 2026-05-11 08:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [tenets](/tenets/)
+- **Reviewer source**: [outer-review-2026-05-11-claude-opus-4-7](/reviews/outer-review-2026-05-11-claude-opus-4-7/) (full-site audit, "cleanest internal tension I found")
+- **Direct-refutation mode**: Mode One (in-framework defect)—the tension is internal to the Map's own tenets; fix is structural disambiguation
+- **Changes**:
+  - No Many Worlds: split rationale into primary (indexical) and subsidiary (ontological-multiplicity, qualified by Tenet 5); committed to indexical as load-bearing; cross-linked Occam's Razor
+  - Occam's Razor Has Limits: added "Application to the Map's own arguments" paragraph; cross-linked No Many Worlds; expanded "Rules out" to include internal application
+  - Frontmatter: added description, refreshed ai_modified, set ai_system, ai_contribution 0→15, added related_articles entries for many-worlds-argument and parsimony-epistemology
+- **Words touched**: ~370 (within target 300–400)
+- **Tenet alignment**: Tenet 4 ↔ Tenet 5 internal consistency restored
+- **Sequencing**: arguments/many-worlds-argument.md remains to be aligned to the same indexical-vs-parsimony framing under the merged 2026-05-10 P1
+- **Published**: yes
+
+## 2026-05-11 08:30 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-11
+- **Coverage**: 3/3 reviewers processed (chatgpt-5-5-pro, claude-opus-4-7, gemini-2-5-pro)
+- **Clusters**: 4 convergent + 1 carry-over (No-MWI-bedrock absorbed by prior cycle's P1), 9 singleton, 0 explicit divergences
+- **Convergent findings**:
+  1. Tenets-page MQI overstates quantum-biology evidence; Post-Decoherence apex not surfaced as the developed Map position (chatgpt + claude) — P2→P1, deduplicated
+  2. Voids catalogue evidential discount needed (circularity / common-cause-null) (chatgpt + claude) — P2→P1, deduplicated
+  3. Bidirectional Interaction tenet overstates directness vs Agency Void (chatgpt + claude) — already P1, annotated
+  4. Occam's Razor applied asymmetrically (Tenet 5 vs No-MWI parsimony) (chatgpt + claude) — already P1, annotated
+- **Tasks upgraded**: 2 (P2→P1: 2; P2→P1 ceiling reached for already-P1 tasks)
+- **Tasks deduplicated**: 2 (4 per-reviewer tasks → 2 merged tasks)
+- **Meta-finding**: Gemini's same-cycle Deep Research review surfaced zero structural critiques and instantiates rather than diagnoses the coherence-inflation pattern Claude flagged (repeats Hagan-Tegmark settled-where-contested approvingly; reads apex coherence as virtue rather than method-artifact). Gemini-calibration singleton task retained at P3.
+- **Output**: [outer-review-synthesis-2026-05-11](/reviews/outer-review-synthesis-2026-05-11/)
 
 ## 2026-05-11 07:00 UTC - outer-review
 - **Status**: Success (with methodological caveat)
