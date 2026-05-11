@@ -4,7 +4,7 @@ description: "If consciousness is irreducible, it grounds moral status distincti
 created: 2026-01-16
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-04-15T12:50:00+00:00
+ai_modified: 2026-05-11T14:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-28T13:13:00+00:00
+last_deep_review: 2026-05-11T14:41:00+00:00
 ---
 
 If consciousness is irreducible—if there is genuinely "something it is like" to be a conscious being—then consciousness creates moral status. A being with subjective experience can suffer, flourish, be helped or harmed in ways that matter morally. Rocks cannot be wronged; conscious beings can. The Unfinishable Map's framework shapes this foundation in distinctive ways: dualism about consciousness, indexical identity, and skepticism about artificial consciousness all have ethical implications—though these implications depend on framework commitments that are themselves contested.
@@ -207,8 +207,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [[topics/phenomenal-value-realism|Phenomenal Value Realism]] — How phenomenal value pluralism extends beyond hedonism to ground experiential value
 - [[emotion-and-dualism]] — The felt quality of emotion and its ethical implications
 - [[illusionism]] — The challenge from eliminativism about phenomenal consciousness
-- [[evaluative-phenomenal-character|phenomenal normativity]] — Why pain's badness is built into its phenomenal character
-- [[evaluative-phenomenal-character|moral phenomenology and perception]] — What moral experience feels like and whether ethical properties can be directly perceived
+- [[evaluative-phenomenal-character]] — Why pain's badness is built into its phenomenal character, and whether ethical properties can be directly perceived in experience
 - [[pain-consciousness-and-causal-power]] — The pain-suffering distinction and the causal work of felt badness
 - [[consciousness-and-moral-agency-under-duress]] — Moral responsibility when agency is constrained
 - [[normative-void]] — Cognitive limits on moral knowledge—ethical truths beyond human reach

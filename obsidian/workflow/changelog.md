@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T14:27:00+00:00
+ai_modified: 2026-05-11T14:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 14:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-consciousness]]
+- **Word count**: 3040 → 3030 (-10) — net trim from consolidation; soft_warning maintained
+- **Critical issues addressed**: 0 (none found; sixth consecutive review with no critical issues)
+- **Medium issues addressed**: 1 (consolidated duplicate Further Reading entries pointing to `evaluative-phenomenal-character` — duplication created upstream when the coalesce merged `phenomenal-normativity` + `moral-phenomenology-and-perception` into the single concept article)
+- **Enhancements made**: 0 substantive; 1 structural cleanup
+- **Possibility/probability-slippage check on invertebrate-question addition**: PASS — article preserves "Low" confidence + "Some" weight in the table; scale-of-farming argument is expected-value reasoning under uncertainty, not a tenet-coherence upgrade up the five-tier evidential scale. Hardline Empiricist persona would praise the calibration restraint.
+- **Engagement-mode classification (editor-internal)**:
+    - engagement with illusionism (Frankish): Mixed — Mode One opening ("illusions are still experiences"), Mode One tu quoque (illusionist behavior presupposes the states matter), Mode Three pragmatic reduction (value nihilism unliveable). Three substantive responses in natural prose; no editor-vocabulary leakage.
+    - engagement with patternism (Parfit): Mode Three — framework-boundary marking rooted in the No Many Worlds tenet; honestly declared rather than dressed as refutation.
+- **Stability**: Sixth consecutive review confirming stability. Strongly recommend continuing to exclude from active rotation.
+- **Output**: [[reviews/deep-review-2026-05-11-ethics-of-consciousness]]
+- **Published**: yes (uncommitted — per task instruction, automation handles the commit)
 
 ## 2026-05-11 14:27 UTC - refine-draft
 - **Status**: Success
