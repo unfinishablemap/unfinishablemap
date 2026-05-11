@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the wholeheartedness void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Unconsumed research: `obsidian/research/voids-wholeheartedness-void-2026-05-11.md` (created today). The wholeheartedness void engages Frankfurt's notion of higher-order endorsement of desires and the experiential unmappability of authentic agency — the gap between *acting on a desire one identifies with* and any third-person description of agency that the philosophical tradition has produced. Today's research note synthesises Frankfurt, Watson, Bratman, and the contemporary care-ethics literature into a voids-tier candidate. **Section-cap watch**: voids at 99/100 — this would consume the final voids slot. Per `evolution-state.yaml:section_caps:max_voids`, after this article lands voids/ is at capacity and `/research-voids` and `/expand-topic` will stop creating new voids articles until a coalesce/archive pass opens slots. The voids index (`obsidian/voids/voids.md`) should be cross-linked from the new article and the new article should be slotted into the index's typology (likely the "Phenomenological / Experiential Voids" cluster alongside the-givenness-void and the wholehearted-related material). Article should (a) name the void cleanly — wholeheartedness as an irreducibly first-person fact about the structure of motivation that no third-person account of will or desire-formation has captured; (b) catalogue the philosophical exhibits from Frankfurt's higher-order theory through care-ethics critique; (c) make explicit the *void* character — what kind of evidence could disprove a wholeheartedness verdict in a particular case is unclear, but the phenomenon resists deflation into preference-aggregation or revealed-preference accounts; (d) cross-link to [[concepts/free-will]], [[concepts/agency]], [[topics/phenomenology-of-moral-life]], [[concepts/care]] if it exists, and to adjacent voids ([[voids/the-givenness-void]], [[voids/effort-void]] if/when that lands). Estimated scope: 1500–2200 words; voids/ placement. Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction — agency requires the metaphysical leverage point).
-- **Source**: unconsumed_research
-- **Generated**: 2026-05-11
-
 ### P2: Condense voids/agency-void.md
 - **Type**: condense
 - **Status**: pending
@@ -3565,6 +3558,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Write voids article on the wholeheartedness void
+- **Type**: expand-topic
+- **Notes**: Unconsumed research: `obsidian/research/voids-wholeheartedness-void-2026-05-11.md` (created today). The wholeheartedness void engages Frankfurt's notion of higher-order endorsement of desires and the experiential unmappability of authentic agency — the gap between *acting on a desire one identifies with* and any third-person description of agency that the philosophical tradition has produced. Today's research note synthesises Frankfurt, Watson, Bratman, and the contemporary care-ethics literature into a voids-tier candidate. **Section-cap watch**: voids at 99/100 — this would consume the final voids slot. Per `evolution-state.yaml:section_caps:max_voids`, after this article lands voids/ is at capacity and `/research-voids` and `/expand-topic` will stop creating new voids articles until a coalesce/archive pass opens slots. The voids index (`obsidian/voids/voids.md`) should be cross-linked from the new article and the new article should be slotted into the index's typology (likely the "Phenomenological / Experiential Voids" cluster alongside the-givenness-void and the wholehearted-related material). Article should (a) name the void cleanly — wholeheartedness as an irreducibly first-person fact about the structure of motivation that no third-person account of will or desire-formation has captured; (b) catalogue the philosophical exhibits from Frankfurt's higher-order theory through care-ethics critique; (c) make explicit the *void* character — what kind of evidence could disprove a wholeheartedness verdict in a particular case is unclear, but the phenomenon resists deflation into preference-aggregation or revealed-preference accounts; (d) cross-link to [[concepts/free-will]], [[concepts/agency]], [[topics/phenomenology-of-moral-life]], [[concepts/care]] if it exists, and to adjacent voids ([[voids/the-givenness-void]], [[voids/effort-void]] if/when that lands). Estimated scope: 1500–2200 words; voids/ placement. Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction — agency requires the metaphysical leverage point).
+- **Output**: Write voids article on the wholeheartedness void
 
 ### ✓ 2026-05-11: Write concept page on the microphenomenological interview method
 - **Type**: expand-topic
