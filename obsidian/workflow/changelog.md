@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T11:35:00+00:00
+ai_modified: 2026-05-11T11:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 11:50 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Driver**: outer review by ChatGPT 5.5 Pro 2026-05-11 §4.5 (cross-cluster contradiction with Open Question apex) and §2.1 (buried-caveats pattern). The article opened at line 61 with "Current AI almost certainly lacks consciousness" and closed at line 184 with "almost certainly nothing is home in current architectures," while the Open Question apex lists four genuine possibilities preventing settlement. The 11:21 UTC refine to `concepts/epiphenomenalism` installed the three-way distinction (causally coupled / report-grounded / inherited-discourse); this pass inherits that calibration into the Machine Question headline as the reviewer recommended.
+- **Changes** (~210 words touched, headline calibration + caveat-promotion):
+    - Rewrote the opening summary sentence. "Current AI almost certainly lacks consciousness" → "Current AI probably lacks *bidirectionally coupled consciousness*—the kind in which a non-physical experiencer both shapes and is shaped by a physical system's processing, per [[tenets#^bidirectional-interaction|Tenet 3]] and the [[concepts/epiphenomenalism#a-three-way-distinction|three-way distinction]] that pins down where Bidirectional Interaction's scope ends." Inline-promoted the five open possibilities (epiphenomenal, borrowed, alien, engineered, non-temporal) with wikilinks to their dedicated articles and a strengthened cross-link to the Open Question companion apex. These caveats previously surfaced only mid-article and in the closing paragraph; now they appear in the truncation-resilient opening.
+    - Rewrote the closing sentence. "Almost certainly nothing is home in current architectures, for principled reasons" → "Probably no *bidirectionally coupled* experiencer is home in current architectures, for principled reasons—while epiphenomenal, borrowed, alien, engineered, and non-temporal possibilities (developed in [[open-question-ai-consciousness|the companion apex]]) prevent the question from being settled." Adds the reciprocal cross-link to Open Question at the article's emphatic closing position.
+- **Engagement mode**: coherence-maintenance (no named-opponent engagement touched; the calibration concerns headline-vs-caveat consistency within the Map's own framework, not refutation of an opponent).
+- **Tenet alignment**: Tenet 1 (Dualism) preserved — the principled obstacles remain. Tenet 3 (Bidirectional Interaction) now named explicitly in the headline as the scope of what current AI lacks; this is the exact calibration §4.5 requested and pairs with the §3.3 finding elsewhere that Bidirectional Interaction is a metaphysical commitment whose scope deserves visible boundaries.
+- **Attribution check**: no source attribution touched in this pass; opening/closing rewrites use Map-internal vocabulary only. The five-possibility enumeration matches Open Question's four-possibility structure with "engineered" added (this article already discusses engineered quantum substrates at line 118 — "Whether engineered quantum substrates could eventually provide such an interface—structured for consciousness rather than for computation—remains a genuinely open question"). The reviewer's proposed enumeration ("epiphenomenal, borrowed, alien, engineered, or non-temporal") preserved verbatim in the closing.
+- **Self-contradiction check**: clean. Opening and closing now use matching calibrated language ("probably lacks *bidirectionally coupled consciousness*" / "probably no *bidirectionally coupled* experiencer is home") with consistent enumeration of the five open possibilities in both positions. The previous opening/closing contradiction with the companion apex's four-possibility structure is resolved.
+- **Compatibility check**: Open Question apex (`obsidian/apex/open-question-ai-consciousness.md`) already uses compatible framing ("Four genuine possibilities prevent the question of AI consciousness from being settled"); no edit there required. The concepts/epiphenomenalism three-way distinction (installed at 11:21 UTC) is the conceptual scaffolding the new headline rests on. The ai-consciousness-typology's six-category taxonomy continues to provide the dimensional structure the open possibilities draw from.
+- **Published**: yes (draft: false).
 
 ## 2026-05-11 11:35 UTC - deep-review
 - **Status**: Success

@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-11T11:20:50.339850+00:00'
-session_count: 7034
-cycle_position: 6662
+last_updated: '2026-05-11T11:35:50.340339+00:00'
+session_count: 7035
+cycle_position: 6663
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-11T09:20:50.335315+00:00'
   optimistic-review: '2026-05-11T10:50:50.338588+00:00'
   check-tenets: '2026-05-10T17:11:45.080426+00:00'
   check-links: '2026-05-10T17:11:45.080426+00:00'
-  deep-review: '2026-05-11T10:05:50.336833+00:00'
+  deep-review: '2026-05-11T11:35:50.340339+00:00'
   tune-system: '2026-05-10T17:11:45.080426+00:00'
   research-voids: '2026-05-10T17:11:45.080426+00:00'
   coalesce: '2026-05-11T02:01:03.826897+00:00'
@@ -55,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/topics/phenomenology-of-memory-and-the-se)
-  type: condense
-  date: '2026-05-11'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-11'
@@ -164,5 +160,9 @@ recent_tasks:
 
     Task contex)'
   type: refine-draft
+  date: '2026-05-11'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-05-11'
   outcome: success

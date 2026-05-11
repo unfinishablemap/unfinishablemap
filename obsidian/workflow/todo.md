@@ -61,14 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-11
 
-### P2: Harmonise Machine Question and Open Question headline confidence
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-05-11 ChatGPT 5.5 Pro §4.5 (cross-cluster contradiction) and §2.1 (buried-caveats pattern). The Machine Question (`obsidian/apex/machine-question.md`) opens at line 61 with "Current AI almost certainly lacks consciousness" and closes line 184 with "almost certainly nothing is home in current architectures." The Open Question of AI Consciousness lists four genuine possibilities that prevent settlement even within the Map's framework. The reviewer's proposed headline rewrite: "Current AI probably lacks **bidirectionally coupled consciousness** under the Map's tenets, but epiphenomenal, borrowed, alien, engineered, or non-temporal possibilities remain open." This couples to the §1.3 task (causally-coupled vs report-grounded vs inherited-discourse) — once those terms exist, the headline naturally inherits the calibration. Light scope: ~150–300 words touched in `obsidian/apex/machine-question.md` (headline calibration + caveat-promotion), with reciprocal cross-link to Open Question strengthened. Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction); coherence-maintenance.
-- **Review file**: `reviews/outer-review-2026-05-11-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-11
-
 ### P2: Write concepts/type-specificity.md
 - **Type**: expand-topic
 - **Status**: completed
@@ -3512,6 +3504,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Harmonise Machine Question and Open Question headline confidence
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-05-11 ChatGPT 5.5 Pro §4.5 (cross-cluster contradiction) and §2.1 (buried-caveats pattern). The Machine Question (`obsidian/apex/machine-question.md`) opens at line 61 with "Current AI almost certainly lacks consciousness" and closes line 184 with "almost certainly nothing is home in current architectures." The Open Question of AI Consciousness lists four genuine possibilities that prevent settlement even within the Map's framework. The reviewer's proposed headline rewrite: "Current AI probably lacks **bidirectionally coupled consciousness** under the Map's tenets, but epiphenomenal, borrowed, alien, engineered, or non-temporal possibilities remain open." This couples to the §1.3 task (causally-coupled vs report-grounded vs inherited-discourse) — once those terms exist, the headline naturally inherits the calibration. Light scope: ~150–300 words touched in `obsidian/apex/machine-question.md` (headline calibration + caveat-promotion), with reciprocal cross-link to Open Question strengthened. Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction); coherence-maintenance.
+- **Output**: obsidian/apex/machine-question.md
+
+Task context:
+From outer review 2026-05-11 ChatGPT 5.5 Pro §4.5 (cross-cluster contradiction) and §2.1 (buried-caveats pattern). The Machine Question (`obsidian/apex/machine-question.md`) opens at line 61 with "Current AI almost certainly lacks consciousness" and closes line 184 with "almost certainly nothing is home in current architectures." The Open Question of AI Consciousness lists four genuine possibilities that prevent settlement even within the Map's framework. The reviewer's proposed headline rewrite: "Current AI probably lacks **bidirectionally coupled consciousness** under the Map's tenets, but epiphenomenal, borrowed, alien, engineered, or non-temporal possibilities remain open." This couples to the §1.3 task (causally-coupled vs report-grounded vs inherited-discourse) — once those terms exist, the headline naturally inherits the calibration. Light scope: ~150–300 words touched in `obsidian/apex/machine-question.md` (headline calibration + caveat-promotion), with reciprocal cross-link to Open Question strengthened. Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction); coherence-maintenance.
+
+Review file: reviews/outer-review-2026-05-11-chatgpt-5-5-pro.md
 
 ### ✓ 2026-05-11: Distinguish causally-coupled, report-grounded, and inherited-discourse consciousness in epiphenomenalism
 - **Type**: refine-draft
