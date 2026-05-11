@@ -2,9 +2,9 @@
 title: "Consciousness and Cognitive Distinctiveness"
 description: "Consciousness causally enables the cognitive leap that separates humans from great apes—both the intelligence threshold and the creative distinctiveness that transforms what brains can do."
 created: 2026-01-29
-modified: 2026-04-12
+modified: 2026-05-11
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-05-11T05:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[quantum-consciousness]]"
   - "[[mental-imagery]]"
+  - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-influence-intelligence-2026-01-21]]"
@@ -59,7 +60,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-12
 last_curated:
-last_deep_review: 2026-04-12T18:56:00+00:00
+last_deep_review: 2026-05-11T05:02:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-intelligence/"
   - "/topics/consciousness-and-creative-distinctiveness/"

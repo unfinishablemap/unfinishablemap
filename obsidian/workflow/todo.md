@@ -100,13 +100,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-05-11
 
-### P3: Cross-review topics/consciousness-and-cognitive-distinctiveness.md against the baseline-cognition convergence
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-10b. Baseline-cognition has now converged after 9 reviews (commit `8b3a3853d`); the threshold-hypothesis companion may not yet reflect the convergence-stable framing baseline-cognition installed today. Verify (a) the threshold-hypothesis article's framing of the "phase transition in cognitive evolution" is structurally consistent with baseline-cognition's now-converged five-falsifier discipline; (b) the threshold-hypothesis article identifies the baseline-cognition page as the *starting-point characterisation* (per baseline-cognition's line 57 self-description) rather than as a parallel argument; (c) the threshold-hypothesis article inherits baseline-cognition's load-bearing-claim delocalisation (the central inference is about pattern-of-capacity correspondence, not about great-ape phenomenal status directly). Short scope (~150–300 words touched). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction).
-- **Source**: optimistic-review (2026-05-10b)
-- **Generated**: 2026-05-10
-
 ### P3: Cross-review topics/consciousness-and-integrated-information.md against the-binding-problem's IIT engagement
 - **Type**: cross-review
 - **Status**: pending
@@ -3536,6 +3529,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-review topics/consciousness-and-cognitive-distinctiveness.md against the baseline-cognition convergence
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review 2026-05-10b. Baseline-cognition has now converged after 9 reviews (commit `8b3a3853d`); the threshold-hypothesis companion may not yet reflect the convergence-stable framing baseline-cognition installed today. Verify (a) the threshold-hypothesis article's framing of the "phase transition in cognitive evolution" is structurally consistent with baseline-cognition's now-converged five-falsifier discipline; (b) the threshold-hypothesis article identifies the baseline-cognition page as the *starting-point characterisation* (per baseline-cognition's line 57 self-description) rather than as a parallel argument; (c) the threshold-hypothesis article inherits baseline-cognition's load-bearing-claim delocalisation (the central inference is about pattern-of-capacity correspondence, not about great-ape phenomenal status directly). Short scope (~150–300 words touched). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/consciousness-and-cognitive-distinctiveness.md -- Context: Cross-review topics/consciousness-and-cognitive-distinctiveness.md against the baseline-cognition convergence
 
 ### ✓ 2026-05-11: Update wikilinks pointing to coalesced expertise articles
 - **Type**: cross-review
