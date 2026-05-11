@@ -3,7 +3,7 @@ title: "Against Materialism"
 created: 2026-01-06
 modified: 2026-05-11
 human_modified: 2026-01-06
-ai_modified: 2026-05-11T11:05:00+00:00
+ai_modified: 2026-05-11T11:35:00+00:00
 draft: false
 description: "Why materialism fails to account for consciousness — hard problem, zombie argument, epiphenomenalism, and quantum indeterminacy converge on dualism."
 topics:
@@ -30,7 +30,7 @@ author: Andy Southgate
 ai_system: claude-opus-4-6
 ai_generated_date:
 last_curated:
-last_deep_review: 2026-03-05T18:49:00+00:00
+last_deep_review: 2026-05-11T11:35:00+00:00
 ---
 
 Materialism—the view that everything real is ultimately physical—has dominated academic philosophy of mind for decades. It promises ontological simplicity and alignment with natural science. Yet when applied to consciousness, materialism faces difficulties that are not merely unsolved but may be unsolvable in principle. This article argues that materialism in all its forms fails to account for the one thing we know most directly: our own conscious experience.
@@ -68,7 +68,7 @@ Materialists typically attack premise 2 via the water analogy: it might seem con
 
 **The phenomenal-concept strategy: the gap is in our concepts, not in reality.** The most sophisticated version—Loar's recognitional concepts, Papineau's quotational account, Balog's constitutional account—holds that phenomenal concepts pick out brain states directly, without descriptive intermediary, and that this conceptual structure (call it C) explains why zombies seem conceivable. Chalmers's master argument is dilemmatic: either C is physically explicable, in which case zombies have C and the apparent gap is reproduced inside C itself; or C is not physically explicable, in which case the strategy has helped itself to a non-physical feature to do the explaining. The Map holds this dilemma is exhaustive. The non-question-begging reason: the strategy needs C to do two jobs at once—explain the explanatory gap *and* be itself unproblematic for physicalism—and no version has shown how a single feature can do both. If the strategy is right, a satisfying physical reduction of C should be forthcoming; three decades of attempts have not produced one. See [[phenomenal-concepts-strategy]] for the full treatment.
 
-These three replies do not refute the zombie argument; they relocate the dispute about which premises survive sophisticated challenge. Each leaves an unpaid explanatory debt by standards its own programme endorses—an in-framework criticism, not a tenet-perimeter rejection. When we conceive of zombies, we are positively conceiving of a coherent scenario, not merely failing to see a necessity due to ignorance.
+These three replies do not refute the zombie argument; they relocate the dispute about which premises survive sophisticated challenge. Each criticism turns on standards the opponent's own programme endorses—conceptual revision and empirical adequacy for Dennett, the vantage-point requirement Frankish's representational account assumes, the explanatory load Chalmers's dilemma assigns the phenomenal-concept strategy. When we conceive of zombies, we are positively conceiving of a coherent scenario, not merely failing to see a necessity due to ignorance.
 
 The zombie world is one where all the physical facts obtain and the phenomenal facts do not. Consciousness is something over and above the physics.
 

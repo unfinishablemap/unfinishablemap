@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T11:21:00+00:00
+ai_modified: 2026-05-11T11:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 11:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[arguments/materialism-argument]]
+- **Word count**: 2927 → 2941 (+14, length-neutral mode at 118% of 2500 soft threshold; the +14 is critical-fix content replacing editor-vocabulary scaffolding with named opponent standards, not new material)
+- **Critical issues addressed**: 1 — label leakage in zombie-section closing pivot. The 11:05 UTC refine introduced "an in-framework criticism, not a tenet-perimeter rejection" — both phrases editor-internal vocabulary the §2.6 direct-refutation discipline forbids in article prose. Rewrote as: "Each criticism turns on standards the opponent's own programme endorses—conceptual revision and empirical adequacy for Dennett, the vantage-point requirement Frankish's representational account assumes, the explanatory load Chalmers's dilemma assigns the phenomenal-concept strategy." Replacement names the standards explicitly (verifiable to the reader) instead of labelling the move.
+- **Medium issues addressed**: 0 — none surfaced. Attribution checks (§2.5) all pass; no possibility/probability slippage; no source/Map conflation; no self-contradiction; no dropped qualifiers.
+- **Enhancements made**: 0 (length-neutral; review is correctional with respect to the §2.6 discipline rather than expansion)
+- **Mode classification (editor-internal — not in article body)**:
+    - Engagement with Dennett: Mode One (uses Dennett's own commitments to conceptual revision and empirical adequacy of replacement concepts).
+    - Engagement with Frankish: Mode One + Mode Three residue (vantage-point asymmetry inside Frankish's representational account; constitutive-vs-referring dispute marked as bedrock).
+    - Engagement with phenomenal-concept strategy: Mode One (Chalmers's master argument operates inside the strategy's own commitments to physical explicability of C).
+    - Closing pivot now expresses the mixed-mode structure in natural prose with concrete naming of the standards. No mode-label leakage post-fix.
+- **Possibility/probability-slippage check**: clean. Quantum claims framed at "may," "might," "constrained philosophical hypothesis," "leaves room for" — no five-tier evidential placements, no defeater-removal-as-evidence-upgrade, no minimal-organism consciousness claims requiring calibration. Hagan/Tegmark seven-orders-of-magnitude framing correctly attributed as Hameroff's group's challenge.
+- **Stability**: 5th deep review. Article is mature and stable in structure. The 11:05 UTC refine addressed the convergent direct-refutation-discipline finding from six outer reviews; this deep-review pass corrected the one residual label-leakage artifact from that expansion.
+- **Output**: [[reviews/deep-review-2026-05-11-materialism-argument]]
 
 ## 2026-05-11 11:21 UTC - refine-draft
 - **Status**: Success
