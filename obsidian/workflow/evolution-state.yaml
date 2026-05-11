@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-11T12:50:50.342553+00:00'
-session_count: 7040
-cycle_position: 6668
+last_updated: '2026-05-11T13:05:50.342974+00:00'
+session_count: 7041
+cycle_position: 6669
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-11T09:20:50.335315+00:00'
@@ -55,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Develop project doc on cluster-integration discipl)
-  type: expand-topic
-  date: '2026-05-11'
-  outcome: success
 - task: 'refine-draft (obsidian/tenets/tenets.md
 
 
@@ -174,5 +170,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-05-11'
+  outcome: success
+- task: condense (obsidian/voids/decision-void.md)
+  type: condense
   date: '2026-05-11'
   outcome: success

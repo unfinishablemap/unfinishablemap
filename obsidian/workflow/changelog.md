@@ -5,6 +5,20 @@ ai_modified: 2026-05-11T13:05:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-11 13:20 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/phenomenal-value-realism]], [[topics/consciousness-and-integrated-information]], [[topics/consciousness-and-cognitive-distinctiveness]], [[topics/valence-and-conscious-selection]]
+- **Driver**: Cross-link refinement across today's quartet of substantially-modified articles. Per [[reviews/optimistic-2026-05-11]] § Cross-Linking Suggestions: today's IIT critique, PVR, cognitive-distinctiveness, and quantum-biology articles are thematically connected in ways the existing cross-link structure did not fully exploit. Mutual-visibility discipline applied — reciprocal links where load-bearing, not merely topical.
+- **Changes**:
+    - PVR "Against Epiphenomenal Value": added link to IIT's type-token causation discussion as the operational mechanism by which value's causal efficacy survives even when statistically invisible at the type level (item a).
+    - IIT "Integration as Selective Activity" → decoherence-objection paragraph: added link to quantum-biology's two-paths framing as the wider architectural home; the pre-decoherence-coherence vs post-decoherence-selection distinction is now visible at the IIT critique site (item b).
+    - Cognitive-distinctiveness interface-threshold paragraph: added link to IIT's integration-as-selective-activity section, naming the four alternative frameworks as the operational expression of what crossing the threshold enables (item c).
+    - Cognitive-distinctiveness meaning-sensitive-selection paragraph: added link to PVR's evaluative-phenomenal-character framework (six-dimension table) as the metaethical home for *what* meaning-sensitive selection is sensitive to (item d).
+    - Valence-and-conscious-selection introduction: reciprocal link back to PVR's "Against Epiphenomenal Value" section, making the metaethical stakes of the value-blind/value-sensitive fork visible at both ends (item e — reciprocation; PVR → here was already present).
+- **Note on item (e) path**: The optimistic review cited `concepts/valence-and-conscious-selection.md` but the article actually lives at `topics/valence-and-conscious-selection.md`; existing PVR link uses unprefixed `[[valence-and-conscious-selection|...]]` which Hugo resolves correctly.
+- **Scope**: ~600 words touched across all four articles; argumentative substance unchanged. Refinement logs added to all four files for human review.
+- **Published**: yes
+
 ## 2026-05-11 13:05 UTC - condense
 - **Status**: Success
 - **File**: [[voids/decision-void]]

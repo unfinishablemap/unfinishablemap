@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-05-11T10:05:00+00:00
+ai_modified: 2026-05-11T13:20:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -167,7 +167,7 @@ The [[philosophical-zombies|zombie thought experiment]] illustrates this directl
 
 Some philosophers accept that phenomenal consciousness exists but deny it has causal efficacy ([[concepts/epiphenomenalism]]). On this view, our sense that suffering motivates escape is illusory—the physical brain state causes both the suffering and the escape behaviour, with no causal work done by the suffering itself.
 
-The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rejects epiphenomenalism. Consciousness causally influences physical outcomes. This matters for value: if suffering's badness makes no causal difference, why would we care about it? Epiphenomenal value is practically inert—you cannot act to reduce it, since your actions are determined by physical states that the value does not influence. The [[valence-and-conscious-selection|value-blind vs value-sensitive selection]] fork sharpens this: even granting that consciousness acts causally through attention, if the specifically *evaluative* dimension is causally idle in the selection mechanism, value's non-epiphenomenality is weaker than it first appears.
+The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rejects epiphenomenalism. Consciousness causally influences physical outcomes. This matters for value: if suffering's badness makes no causal difference, why would we care about it? Epiphenomenal value is practically inert—you cannot act to reduce it, since your actions are determined by physical states that the value does not influence. The [[topics/consciousness-and-integrated-information#does-quantum-selection-escape-this-charge|type-token causation distinction]] supplies the operational mechanism by which value's causal efficacy can survive even when statistically invisible: at the type level, value-laden experience adds nothing to Born-rule predictions, but at the token level it determines which particular outcome actualises in this specific instance—and token-level causation is where the moral weight of *this* suffering, in *this* moment, lives. The [[valence-and-conscious-selection|value-blind vs value-sensitive selection]] fork sharpens what is at stake: even granting that consciousness acts causally through attention, if the specifically *evaluative* dimension is causally idle in the selection mechanism, value's non-epiphenomenality is weaker than it first appears.
 
 The self-undermining argument applies: epiphenomenalists trust their introspective judgements about consciousness enough to engage in debate. But if consciousness is epiphenomenal, those judgements are causally disconnected from the consciousness they purport to describe. The same reasoning applies to value: our judgements about what is good would be accidentally related to actual goodness.
 
@@ -274,3 +274,11 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 1. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
 1. Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+
+<!-- AI REFINEMENT LOG - 2026-05-11
+Cross-link refinement (driver: optimistic-2026-05-11 § Cross-Linking Suggestions, item a and reciprocation for item e).
+- "Against Epiphenomenal Value": added a sentence linking to the IIT article's type-token causation distinction as the operational mechanism by which value's causal efficacy survives even when statistically invisible at the type level. The existing valence-and-conscious-selection link is preserved and reframed to follow on from the type-token point.
+- The reciprocation for item (e) is implemented in the valence-and-conscious-selection article (link back to this section's Against Epiphenomenal Value).
+
+This log should be removed after human review.
+-->
