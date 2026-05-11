@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-04-30 18:20:00+00:00
+ai_modified: 2026-05-11 00:37:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[parsimony-epistemology]]'
 - '[[apophatic-approaches]]'
 created: 2026-04-28
-date: &id001 2026-04-28
+date: &id001 2026-05-11
 description: Consciousness cannot verify, sustain, or coherently perform the withholding
   of judgment—three structural faces of a single void at the heart of every apophatic
   method.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 14:52:00+00:00
+last_deep_review: 2026-05-11 00:37:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -28,6 +28,7 @@ related_articles:
 - '[[interested-party-void]]'
 - '[[inference-void]]'
 - '[[agency-void]]'
+- '[[decision-void]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[tenet-generated-voids]]'
@@ -55,7 +56,7 @@ The void exhibits the [conjunction-coalesce](/apex/conjunction-coalesce/) struct
 
 ### Verification (Unexplorable)
 
-From inside, "I am withholding judgment" closely resembles "I have not yet decided" and "I have quietly decided but decline to acknowledge it." Subtle dispositional differences exist—a felt collapse of attention in the having-decided case, an active *return-to-it* tag in postponement, leaking preference in the felt weighting of options—but these candidate first-person tests are themselves heuristics drawn from the same machinery that produces noetic feelings of rightness. They feel like tests; their reliability is precisely what is in question. Behavioural tests work but require third-party access; predictive consequences emerge only later. While suspension is in progress, the inspection that would check it engages the same machinery whose neutrality is in question. This puts suspension in the structural position the [agency-void](/voids/agency-void/) catalogues for causal self-attribution: the faculty under investigation is the only available investigator. The felt act of holding back is the suspension face of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): phenomenal access reaches the suspension-feeling but not the operations that produce it, in the same architectural pattern that recurs in mental effort, agency, recognition, and the noetic feelings.
+From inside, "I am withholding judgment" closely resembles "I have not yet decided" and "I have quietly decided but decline to acknowledge it." Subtle dispositional differences exist—a felt collapse of attention in the having-decided case, an active *return-to-it* tag in postponement, leaking preference in the felt weighting of options—but these candidate first-person tests are themselves heuristics drawn from the same machinery that produces noetic feelings of rightness. They feel like tests; their reliability is precisely what is in question. Behavioural tests work but require third-party access; predictive consequences emerge only later. While suspension is in progress, the inspection that would check it engages the same machinery whose neutrality is in question. This puts suspension in the structural position the [agency-void](/voids/agency-void/) catalogues for causal self-attribution: the faculty under investigation is the only available investigator. The [decision-void](/voids/decision-void/)'s closure face is the same architecture turned on the deliberation→commitment moment—the sealed-as-already-closed event admits no slow-motion view. The felt act of holding back is the suspension face of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): phenomenal access reaches the suspension-feeling but not the operations that produce it, in the same architectural pattern that recurs in mental effort, agency, recognition, and the noetic feelings.
 
 The verification face is *Unexplorable* in the sense the [three-kinds typology](/voids/three-kinds-of-void/) reserves for limits that resist mapping by their own architecture. One does not lack data; one lacks the capacity to interpret data without using the resource being measured.
 
@@ -77,7 +78,7 @@ Suspension as a positive act seems to require what it putatively brackets. Each 
 
 Husserl's *epochē* presupposes a transcendental ego whose own mode of givenness becomes a deep puzzle of his late work. Sextus Empiricus articulates the Pyrrhonian *epochē* as something that *emerges from* the equipoising (*isostheneia*) of arguments rather than something directly willed (*Outlines* I.10). Heidegger's *Gelassenheit* names a non-willing comportment ("Nicht-Wollen")—but how does one will to non-will? Keats names the failure mode at its sharpest: negative capability is "being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason"; the operative pejorative is *irritable*, not *reaching*. The affective push toward closure does the closing.
 
-This is structurally similar to the [inference-void](/voids/inference-void/): any explicit account of how suspension operates seems to invoke the very capacity being explained. The convergence's evidential weight depends on whether the traditions are independent and whether the selection is fair, addressed next.
+Suspension is regress-sister to [inference](/voids/inference-void/) and to the [decision](/voids/decision-void/): each names a capacity consciousness cannot stand outside of while exercising it—suspension cannot be performed without invoking what it brackets, inference cannot be made explicit without invoking the inference-licence that makes it inferential, and decision cannot be observed without invoking the decision-machinery that produces the observation. The convergence's evidential weight depends on whether the traditions are independent and whether the selection is fair, addressed next.
 
 ## Cross-Tradition Convergence
 
@@ -146,6 +147,7 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/): the Map's epi
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — The felt verdicts and pushes-toward-closure that close us before we notice
 - [interested-party-void](/voids/interested-party-void/) — Whether one can suspend interest in one's own existence
 - [inference-void](/voids/inference-void/) — Sister regress: any explicit account of inference invokes the capacity it explains
+- [decision-void](/voids/decision-void/) — Sister regress at the deliberation→commitment moment: the closing-as-already-closed
 - [agency-void](/voids/agency-void/) — The non-willing-will paradox in another register
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why Occam's Razor is unreliable in the consciousness debate
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — The Parsimony Void this article complements

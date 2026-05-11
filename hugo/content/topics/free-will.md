@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-03 11:28:31.674020+00:00
+ai_modified: 2026-05-10 22:31:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ concepts:
 - '[[control-theoretic-will]]'
 - '[[spontaneous-intentional-action]]'
 created: 2026-01-08
-date: &id001 2026-04-29
+date: &id001 2026-05-10
 description: Can we genuinely author our choices? The Map defends agent-causal libertarian
   free will grounded in phenomenology—the felt difference between choosing and merely
   observing.
@@ -44,7 +44,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/ltzeYOXCUvY
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 17:40:00+00:00
+last_deep_review: 2026-05-10 22:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,6 +53,7 @@ related_articles:
 - '[[motor-control-quantum-zeno]]'
 - '[[counterfactual-void]]'
 - '[[agency-void]]'
+- '[[decision-void]]'
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[moral-implications-of-genuine-agency]]'
 title: Free Will and Determinism
@@ -83,7 +84,7 @@ The [trilemma-of-selection](/topics/trilemma-of-selection/) formalises this logi
 
 ## The Neuroscientific Challenge
 
-[Libet's experiments](/concepts/libet-experiments/) found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it. Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis, [Phenomenology of Volitional Control](/topics/volitional-control/) for the first-person structure of willing, vetoing, and selecting among actions, and [volitional opacity](/voids/self-opacity/) for why the mechanism of willing is structurally hidden from introspection.
+[Libet's experiments](/concepts/libet-experiments/) found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it. Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis, [Phenomenology of Volitional Control](/topics/volitional-control/) for the first-person structure of willing, vetoing, and selecting among actions, [volitional opacity](/voids/self-opacity/) for why the mechanism of willing is structurally hidden from introspection, and the [decision-void](/voids/decision-void/) for why the deliberation→commitment moment itself is given as already-closed—the primary candidate site for non-physical influence and the site whose structural opacity the Map's tenets predict.
 
 ## The Agent-Causal Response to Luck
 
@@ -212,6 +213,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Consciousness-dependent capacity to imagine alternatives
 - [counterfactual-void](/voids/counterfactual-void/) — Architectural limits of modal cognition
 - [agency-void](/voids/agency-void/) — Why first-person verification of causal power is structurally circular
+- [decision-void](/voids/decision-void/) — Why the deliberation→commitment moment is structurally hidden from the consciousness performing it
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis including retrocausal resolution
 - [volitional-control](/topics/volitional-control/) — The first-person structure of willing, vetoing, and action selection
 - [voluntary attention](/concepts/attention-as-interface/) — Paradigm case of consciousness selecting neural patterns

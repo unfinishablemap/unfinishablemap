@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-05-07 02:28:00+00:00
+ai_modified: 2026-05-10 23:01:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ concepts:
 - '[[conservation-laws-and-mental-causation]]'
 - '[[process-philosophy]]'
 created: 2026-03-18
-date: &id001 2026-05-06
+date: &id001 2026-05-10
 description: How consciousness might select among quantum possibilities without reaching
   backward through time. Three frameworks—Orch OR, Stapp's Zeno mechanism, and Chalmers-McQueen
   CSL—operate before decoherence; a fourth route operates after. The post-decoherence
@@ -32,7 +32,7 @@ description: How consciousness might select among quantum possibilities without 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-06 07:16:00+00:00
+last_deep_review: 2026-05-10 23:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,6 +54,7 @@ related_articles:
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
 - '[[testing-consciousness-collapse]]'
 - '[[timing-gap-problem]]'
+- '[[decision-void]]'
 title: Forward-in-Time Conscious Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -88,7 +89,7 @@ Penrose and Hameroff propose that quantum superpositions in neural [microtubules
 
 Selection is forward-in-time: a superposition forms, biological orchestration shapes its structure, the gravitational threshold triggers collapse, and one outcome becomes actual. Consciousness modulates which outcome is selected through the orchestration, not by reaching back to influence earlier quantum events.
 
-A 2022 experiment at Gran Sasso ruled out the simplest version of the Diósi-Penrose (DP) collapse model. McQueen (2023) argues this does not apply to Orch OR proper, since the refuted variant was generic DP collapse in bulk matter—not the biologically orchestrated collapse that Hameroff and Penrose actually propose. McQueen's defence is one position in a continuing debate; the empirical specificity of biologically orchestrated collapse, relative to the refuted generic variant, has not been settled by the field, and the burden remains on defenders to show why the more specific variant escapes the same constraint.
+A 2022 experiment at Gran Sasso ruled out the simplest version of the Diósi-Penrose (DP) collapse model. McQueen (2023) argues this does not apply to Orch OR proper, since the refuted variant was generic DP collapse in bulk matter, not the biologically orchestrated collapse Hameroff and Penrose actually propose. McQueen's defence is one position in a continuing debate; the burden remains on defenders to show why the more specific variant escapes the same constraint.
 
 ### Quantum Zeno Selection (Stapp)
 
@@ -126,7 +127,7 @@ A third approach treats selection as metaphysical rather than physical. The post
 
 The model makes the weakest physical claims and strongest metaphysical ones, requiring that the improper mixture be not merely epistemically but ontologically unsettled. Decoherence timescales, biological coherence, and energy conservation leave it untouched because it makes no physical claims—but inaccessibility is a cost on a Popperian register, not a virtue of metaphysical modesty. Critics can dismiss "unactualised possibilities" as incoherent or redundant; the model has no recourse.
 
-The Map does not commit to a single proposal within the post-decoherence triad, though it favours post-decoherence as a class. The von Neumann cut and relocated Stapp framework make stronger contact with physics; the actualisation model makes fewer physical assumptions. What they share—consciousness acting on prepared alternatives rather than fragile superpositions—matters more than their differences.
+The Map does not commit to a single proposal within the post-decoherence triad, though it favours post-decoherence as a class. The von Neumann cut and relocated Stapp framework make stronger contact with physics; the actualisation model makes fewer physical assumptions.
 
 ## The Decoherence-Timescale Question
 
@@ -134,7 +135,7 @@ Pre-decoherence frameworks stand or fall on whether macroscopic neural superposi
 
 Post-decoherence selection sidesteps the question. If consciousness operates on the decohered mixture rather than on pre-decoherence superpositions, coherence survival becomes irrelevant. The trade-off is falsifiability: pre-decoherence models make concrete predictions about quantum coherence at neural timescales; post-decoherence models operate at the interpretive level, where the [experimental programme](/topics/testing-consciousness-collapse/) has less traction. This cost is paid, not avoided.
 
-A more thoroughgoing dissent (Duch 2005, 2019) reads the same decoherence facts as eliminating any quantum role in consciousness, not relocating it: classical neurodynamics supplies determinacy without any improper-mixture problem to solve. What excludes this classical-computational closure is the [Dualism tenet](/tenets/#dualism), not anything internal to the post-decoherence mechanism—the framework defended here is a consequence of the dualist commitment, not an independent argument for it.
+A more thoroughgoing dissent (Duch 2005, 2019) reads the same decoherence facts as eliminating any quantum role, not relocating it: classical neurodynamics supplies determinacy without any improper-mixture problem to solve. What excludes this closure is the [Dualism tenet](/tenets/#dualism), not anything internal to the mechanism—the framework here is a consequence of the dualist commitment, not an independent argument for it.
 
 ## Why Forward-in-Time Models May Be Preferable to Retrocausal Models
 
@@ -148,7 +149,7 @@ Five considerations favour forward-in-time over retrocausal selection, varying i
 
 **Avoidance of temporal paradoxes (real but limited).** Retrocausal theories must address closed causal loops; working answers exist (two-state vector formalism, Aharonov-Bergmann-Lebowitz statistics, Kastner's transactional handling), so the burden is real but not unanswerable. Forward-in-time models avoid it entirely.
 
-**Alignment with established frameworks (moderate).** Pre-decoherence frameworks (Penrose OR, Stapp Zeno, Chalmers-McQueen CSL) and post-decoherence ones (von Neumann's movable cut, process-philosophical actualisation) draw on orthodox quantum-foundations resources. The retrocausal pathway depends on more speculative frameworks like the transactional interpretation, a minority position in quantum foundations.
+**Alignment with established frameworks (moderate).** Pre- and post-decoherence variants draw on orthodox quantum-foundations resources. The retrocausal pathway depends on more speculative frameworks like the transactional interpretation, a minority position in quantum foundations.
 
 ## The Prebiotic Constraint
 
@@ -158,11 +159,11 @@ Any consciousness-mediated selection mechanism must address the [prebiotic colla
 
 Even granting macroscopic neural superpositions (where required) and consciousness's ability to bias collapse, significant open questions remain. The first is the deepest:
 
-**The selection-criterion trilemma.** If consciousness selects pattern A over pattern B, the selection follows one of three paths. (i) It has *internal reasons*: in this case the reason-bearing structure is the actual selection mechanism, and consciousness becomes a label for that structure—the dualism collapses into functionalism. (ii) It selects *randomly*: the framework reduces to spontaneous collapse plus Born statistics, with no consciousness-specific contribution beyond labeling. (iii) It follows a *non-reducible preference* admitting no further analysis: an unanalysable primitive sits at the heart of the framework. The Map's likely route is (iii): selection criteria reflect the phenomenal character of consciousness and are not further reducible to physical or computational structure. The [strict selection-only reading](/topics/selection-only-mind-influence/) adds a structural bound on this primitive—its choices are confined to the brain-generated candidate set, so novel content cannot be brought into being by selection alone. Naming where the primitive sits, and how it is bounded, is more honest than presenting selection as if its criterion were transparent.
+**The selection-criterion trilemma.** If consciousness selects pattern A over pattern B, the selection follows one of three paths. (i) It has *internal reasons*: in this case the reason-bearing structure is the actual selection mechanism, and consciousness becomes a label for that structure—the dualism collapses into functionalism. (ii) It selects *randomly*: the framework reduces to spontaneous collapse plus Born statistics, with no consciousness-specific contribution beyond labeling. (iii) It follows a *non-reducible preference* admitting no further analysis: an unanalysable primitive sits at the heart of the framework. The Map's likely route is (iii): selection criteria reflect the phenomenal character of consciousness and are not further reducible to physical or computational structure. The [strict selection-only reading](/topics/selection-only-mind-influence/) adds a structural bound on this primitive—its choices are confined to the brain-generated candidate set, so novel content cannot be brought into being by selection alone. Naming where the primitive sits, and how it is bounded, is more honest than presenting selection as if its criterion were transparent. The [decision-void](/voids/decision-void/) catalogues the matching introspective opacity: the criterion is structurally hidden from the consciousness whose primitive it is.
 
 **Causal closure tension.** Consciousness biasing collapse outcomes still challenges the causal closure of physics, even without retrocausality. The response—quantum indeterminacy leaves room for non-physical influence [without violating conservation laws](/concepts/conservation-laws-and-mental-causation/)—is well-developed but not universally accepted.
 
-**The combination problem.** If consciousness modulates collapse in individual microtubules or localised quantum systems, how do individual modulations combine to produce unified conscious selection of macroscopic neural states? This mirrors the [combination problem](/concepts/combination-problem/) in panpsychism but arises in a different context.
+**The combination problem.** If consciousness modulates collapse in localised quantum systems, how do individual modulations combine to yield unified selection of macroscopic neural states? This mirrors the [combination problem](/concepts/combination-problem/) in panpsychism, in a different context.
 
 ## Relation to Site Perspective
 
@@ -172,7 +173,7 @@ The [Dualism](/tenets/#dualism) tenet is served because post-decoherence selecti
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet finds its strongest expression in the post-decoherence variant. Pre-decoherence models require consciousness to maintain coherence against environmental pressure; post-decoherence selection asks consciousness only to choose among alternatives physics has already prepared. The strict [selection-only reading](/topics/selection-only-mind-influence/) follows naturally and supplies information-theoretic signatures: a per-event ceiling of log₂(N) bits, a Born-rule-preserving rate that vanishes at the ensemble scale, and content-confinement to the brain-generated candidate set.
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is directly enacted: the brain presents decohered alternatives (world-to-mind); consciousness selects among them (mind-to-world). The [trilemma of selection](/topics/trilemma-of-selection/) shows that, given dualism, directed resolution of genuine indeterminacy is the only framework preserving authorship—neither determinism nor randomness can deliver it.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is directly enacted: the brain presents decohered alternatives (world-to-mind); consciousness selects among them (mind-to-world). The [trilemma of selection](/topics/trilemma-of-selection/) shows that, given dualism, directed resolution of genuine indeterminacy is the only framework preserving authorship—neither determinism nor randomness can deliver it. The asymmetry between third-person measurability of commitment-relevant signal and first-person opacity of the closing-itself—catalogued as the [decision-void](/voids/decision-void/)—is what an interface doing causal work at a primitive seam predicts: the cause cannot be observed from inside the system whose cause it is.
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet makes selection necessary. If all elements of the decohered mixture were equally real, there would be no selection to explain.
 
@@ -192,6 +193,7 @@ The Map's position: forward-in-time conscious selection is the more conservative
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Experimental approaches to consciousness-collapse theories
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Diósi-Penrose as baseline collapse mechanisms
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — Empirical signatures any selection model must accommodate
+- [decision-void](/voids/decision-void/) — The introspective opacity of the locus this mechanism would occupy
 
 ## References
 
