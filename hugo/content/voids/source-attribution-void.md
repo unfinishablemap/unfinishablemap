@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-05-09 16:15:00+00:00
+ai_modified: 2026-05-11 01:31:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[narrative-coherence]]'
 - '[[mysterianism]]'
 created: 2026-04-21
-date: &id001 2026-05-08
+date: &id001 2026-05-11
 description: Human+AI inquiry into why consciousness cannot trace the origin of its
   own contents—the architectural absence of native source tags, revealed through choice
   blindness, cryptomnesia, and source amnesia.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-08 22:35:00+00:00
+last_deep_review: 2026-05-11 01:31:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -39,6 +39,7 @@ related_articles:
 - '[[phenomenal-variation-within-a-species]]'
 - '[[source-attribution-divergence]]'
 - '[[memory-anomalies]]'
+- '[[decision-void]]'
 title: The Source-Attribution Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -124,7 +125,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is engaged structur
 
 Three implications follow for how the Map thinks about the first person:
 
-1. **Authorship is a construction**, not a perception. This does not eliminate authorship but reframes it as a downstream attribution, like any other.
+1. **Authorship is a construction**, not a perception. This does not eliminate authorship but reframes it as a downstream attribution, like any other. The [decision-void](/voids/decision-void/) tightens the same diagnosis to the deliberation→commitment moment, where closure, latency, and reconstruction conjoin to make the constructed character of authorship most acute—and where the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet finds its sharpest empirical grip.
 2. **First-person testimony has bounded weight on origin questions** even when retained at fuller weight on phenomenal content. This asymmetry is a substantive philosophical commitment rather than a data-driven conclusion: the very confabulatory mechanisms documented for origin may, in principle, extend to phenomenality itself, and nothing in the cited findings rules that extension out. Knowing what you experience and knowing where the experience came from plausibly draw on different epistemic supports, but defending the asymmetry is a wider argument pursued in [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) rather than a corollary of this void.
 3. **It is worth asking whether the void is self-maintained.** If every thought arrived with full provenance—implanted by suggestion at 14:32, primed by the headline read at 14:28, retrieved from a forgotten textbook page—the narrative integration that sustains the felt-self might be harder to achieve. This is a speculation without a worked mechanism or computational model, and no comparative-architecture study is cited; the [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) frame is offered here as a hypothesis to test, not a conclusion to carry.
 
@@ -147,6 +148,7 @@ Three implications follow for how the Map thinks about the first person:
 - [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: reality-monitoring spread as one of four within-species divergence classes whose joint package pressures function-phenomenology identity
 - [source-attribution-divergence](/topics/source-attribution-divergence/) — The topic-tier subject explainer: empirical signatures (source-monitoring tasks, choice blindness, cryptomnesia, imagery-spectrum correlations) of the within-species spread this void treats apophatically
 - [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, and cryptomnesia as a single phenomenon viewed from three angles: the concrete-phenomenon exhibits of the source-monitoring architecture this void treats abstractly
+- [decision-void](/voids/decision-void/) — The deliberation→commitment moment as the specific application: surface features of the outcome stand in for the inaccessible event of choosing
 
 ## References
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Historical Consciousness Void](/voids/historical-consciousness-void/)
+**Article**: [The Historical Consciousness Void](/voids/inaccessible-past/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

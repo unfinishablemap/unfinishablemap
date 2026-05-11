@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-04 03:41:00+00:00
+ai_modified: 2026-05-11 03:31:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 coalesced_from:
@@ -32,7 +32,7 @@ description: Varela's research program integrating first-person phenomenology wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 09:17:00+00:00
+last_deep_review: 2026-05-11 03:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ Research on advanced meditators (23,000+ hours) accessing jhana states reveals d
 
 ### Cessation of Consciousness
 
-Advanced meditators can voluntarily enter cessation states (*nirodha samapatti*)—complete absence of experience while brain activity continues. Practitioners report abrupt discontinuity, distinct from sleep or anaesthesia.
+Advanced meditators can voluntarily enter cessation states (*nirodha samapatti*)—complete absence of experience while brain activity continues. Practitioners report abrupt discontinuity, distinct from sleep or anaesthesia.[^laukkonen]
 
 Brain activity continues during cessation, reorganised but not silent. If consciousness were identical to neural activity, cessation should correspond to neural silence. It does not. The dualist interpretation: consciousness accompanies certain brain configurations but is not identical to them. Cessation may represent complete filtering rather than consciousness's absence.
 
@@ -256,14 +256,4 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 [^demir]: Demir, U. et al. (2025). Advanced concentrative absorption meditation. *Cerebral Cortex*, 35(4).
 [^voluntary]: See [voluntary attention](/concepts/attention-as-interface/) for detailed treatment of willed vs. instructed attention neural signatures.
 [^sharma]: Sharma, H. (2015). Mindfulness-based stress reduction. https://pmc.ncbi.nlm.nih.gov/articles/PMC3336928/
-
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Structural changes subsection: added Kral et al. (2022) replication failure, noted earlier positive findings may reflect methodological limitations
-- Causal pathway paragraph: qualified from direct claim to "Map's interpretation", acknowledged materialist counter-explanation via differential behavioural training
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Meditation structural evidence honestly calibrated with replication failure noted.
-
-This log should be removed after human review.
--->
+[^laukkonen]: Laukkonen, R.E. et al. (2023). Cessations of consciousness in meditation. *Progress in Brain Research*, 280, 61-87.

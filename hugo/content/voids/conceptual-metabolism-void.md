@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-04-18 07:49:00+00:00
+ai_modified: 2026-05-11 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ related_articles:
 - '[[noetic-feelings-void]]'
 - '[[disappearance-voids]]'
 - '[[non-human-minds-as-void-explorers]]'
-- '[[expertise-occlusion]]'
+- '[[expertise-and-its-occlusion]]'
 - '[[inaccessible-past]]'
 title: The Conceptual Metabolism Void
 topics:
@@ -74,7 +74,7 @@ The [understanding void](/voids/noetic-feelings-void/) describes how the feeling
 
 The [habituation void](/voids/disappearance-voids/) erases familiar experiences from consciousness through repetition. Conceptual metabolism operates on first encounter. The first time you understand something, the pre-understood version is already gone. No repetition is needed.
 
-The [expertise-occlusion](/voids/expertise-and-its-occlusion/) shares the closest family resemblance — mastery obscures its own process. But expertise occlusion concerns the loss of access to *how* one performs a skill. Conceptual metabolism concerns the loss of access to *what a concept was before* one understood it.
+The [expertise occlusion](/voids/expertise-and-its-occlusion/) shares the closest family resemblance — mastery obscures its own process. But expertise occlusion concerns the loss of access to *how* one performs a skill. Conceptual metabolism concerns the loss of access to *what a concept was before* one understood it.
 
 ## Wittgenstein and the Constitution of Perception
 
@@ -108,7 +108,7 @@ The conceptual metabolism void also illuminates the Map's own unfinishability. T
 
 - [The Mutation Void](/voids/mutation-void/)
 - [The Conceptual Scheme Void](/voids/conceptual-scheme-void/)
-- [The Expertise Occlusion](/voids/expertise-and-its-occlusion/)
+- [The Expertise Void](/voids/expertise-and-its-occlusion/)
 - [The Inaccessible Past](/voids/inaccessible-past/)
 - [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/)
 - [voids](/voids/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-11 05:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,15 +31,16 @@ concepts:
 - '[[agent-causation]]'
 - '[[quantum-consciousness]]'
 - '[[mental-imagery]]'
+- '[[philosophical-zombies]]'
 created: 2026-01-29
-date: &id001 2026-04-12
+date: &id001 2026-05-11
 description: Consciousness causally enables the cognitive leap that separates humans
   from great apes—both the intelligence threshold and the creative distinctiveness
   that transforms what brains can do.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-12 18:56:00+00:00
+last_deep_review: 2026-05-11 05:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

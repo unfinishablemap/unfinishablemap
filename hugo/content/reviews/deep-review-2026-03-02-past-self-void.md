@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Cross-review considering [historical-consciousness-void](/voids/historical-consciousness-void/) insights. Third review of this article. Previous review (2026-03-01) already integrated the historical-consciousness-void connection bidirectionally.
+Cross-review considering [historical-consciousness-void](/voids/inaccessible-past/) insights. Third review of this article. Previous review (2026-03-01) already integrated the historical-consciousness-void connection bidirectionally.
 
 ## Pessimistic Analysis Summary
 

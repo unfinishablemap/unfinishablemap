@@ -55,7 +55,7 @@ The past-self void bridges four existing voids:
 
 **[The self-reference paradox](/concepts/self-reference-paradox/)**: Consciousness examining itself faces structural obstacles. The past-self void adds a temporal dimension: the examined self no longer exists to examine.
 
-**[The historical consciousness void](/voids/historical-consciousness-void/)**: The same structural inaccessibility scales beyond individual lifetimes. If consciousness itself has changed over historical time—as Jaynes, Snell, and Barfield argue—then entire past *forms* of consciousness are inaccessible for the same reason past selves are: the experiencing subject no longer exists to be accessed. What Barfield called *logomorphism*—the fallacy of projecting our own mode of awareness onto the past—parallels how memory confidence masks this void at the individual level.
+**[The historical consciousness void](/voids/inaccessible-past/)**: The same structural inaccessibility scales beyond individual lifetimes. If consciousness itself has changed over historical time—as Jaynes, Snell, and Barfield argue—then entire past *forms* of consciousness are inaccessible for the same reason past selves are: the experiencing subject no longer exists to be accessed. What Barfield called *logomorphism*—the fallacy of projecting our own mode of awareness onto the past—parallels how memory confidence masks this void at the individual level.
 
 The past self occupies a unique position among these: not another subject (like other minds), not a historical epoch's consciousness (like the historical void), not the present self (like self-reference), but something in between—a self we were but can no longer be.
 
@@ -156,7 +156,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [historical-consciousness-void](/voids/historical-consciousness-void/) — The same void at historical scale: entire past forms of consciousness may be inaccessible
+- [historical-consciousness-void](/voids/inaccessible-past/) — The same void at historical scale: entire past forms of consciousness may be inaccessible
 - [other-minds-void](/voids/voids-between-minds/) — The parallel void: other present minds are equally inaccessible
 - [temporal-void](/voids/temporal-void/) — Why we can reconstruct the past but only imagine the future
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events

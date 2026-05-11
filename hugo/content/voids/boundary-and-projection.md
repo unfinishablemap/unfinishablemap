@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-27 14:42:00+00:00
+ai_modified: 2026-05-11 04:31:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[what-voids-reveal]]'
 - '[[edge-states-and-void-probes]]'
-- '[[expertise-occlusion]]'
+- '[[expertise-and-its-occlusion]]'
 - '[[observation-and-measurement-void]]'
 - '[[ownership-void]]'
 - '[[embodiment-cognitive-limits]]'
@@ -89,7 +89,7 @@ Independent lines of evidence confirm that the perimeter is actively maintained,
 
 **Split-brain ambiguity.** Sperry described "two separate spheres of conscious awareness" after corpus callosum severance, yet Pinto et al. (2017) found "split perception but undivided consciousness." Six decades on, neuroscience still cannot determine whether split-brain patients harbour one consciousness or two. The ambiguity reflects the impossibility of counting consciousnesses from outside—and the patient's inability to count from inside, since each perspective is enclosed within its own boundary.
 
-**Mastery and resistance to override.** The progression from novice to expert is a progressive deepening of projective transparency: the better the skill, the more complete the invisibility (see [expertise-occlusion](/voids/expertise-and-its-occlusion/)). Reciprocally, the rubber hand illusion persists despite full knowledge that it is an illusion; Tsakiris et al. (2011) found that weaker interoceptive awareness predicts greater susceptibility — placing this evidence at the boundary's intersection with the [interoceptive void](/voids/interoceptive-void/), where the body's partial opacity to itself becomes a determinant of how readily its perimeter can be reassigned. Conscious control is structurally excluded from the process, not merely insufficient for it.
+**Mastery and resistance to override.** The progression from novice to expert is a progressive deepening of projective transparency: the better the skill, the more complete the invisibility (see [the expertise void](/voids/expertise-and-its-occlusion/)). Reciprocally, the rubber hand illusion persists despite full knowledge that it is an illusion; Tsakiris et al. (2011) found that weaker interoceptive awareness predicts greater susceptibility — placing this evidence at the boundary's intersection with the [interoceptive void](/voids/interoceptive-void/), where the body's partial opacity to itself becomes a determinant of how readily its perimeter can be reassigned. Conscious control is structurally excluded from the process, not merely insufficient for it.
 
 ## Distinction from Adjacent Voids
 
@@ -169,7 +169,7 @@ Current evidence favours structural opacity. Convergence across phenomenology (H
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — The orthogonal void: intensity rather than extent
 - [voids-between-minds](/voids/voids-between-minds/) — What determines the extent of each sealed consciousness
 - [self-opacity](/voids/self-opacity/) — Why consciousness cannot verify its own accuracy
-- [expertise-occlusion](/voids/expertise-and-its-occlusion/) — How mastery defends its own transparency
+- [The Expertise Void](/voids/expertise-and-its-occlusion/) — How mastery defends its own transparency
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — The broader void where studying consciousness transforms it
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — The structural reason interfaces must be invisible to function
 - [ownership-void](/voids/ownership-void/) — Whose body schema is this, and why does the ownership feeling resist examination?

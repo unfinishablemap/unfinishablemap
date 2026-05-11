@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-02
 **Article**: [The Other Minds Void](/voids/voids-between-minds/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-other-minds-void/)
-**Context**: Cross-review considering [historical-consciousness-void](/voids/historical-consciousness-void/) insights
+**Context**: Cross-review considering [historical-consciousness-void](/voids/inaccessible-past/) insights
 
 ## Pessimistic Analysis Summary
 
@@ -27,11 +27,11 @@ topics: []
 None. Previous review's resolutions remain solid. No attribution errors, no factual problems, no internal contradictions.
 
 ### Medium Issues Found
-1. **Missing temporal dimension**: The article treated the other minds void as purely synchronic. The new historical-consciousness-void reveals the void extends across time as well as space—if consciousness has changed historically, past minds are doubly inaccessible. Barfield's logomorphism (projecting our awareness onto the past) may also operate spatially. **Resolution**: Added paragraph at end of "Is the Void Absolute?" connecting to [historical-consciousness-void](/voids/historical-consciousness-void/) and [past-self-void](/voids/inaccessible-past/).
+1. **Missing temporal dimension**: The article treated the other minds void as purely synchronic. The new historical-consciousness-void reveals the void extends across time as well as space—if consciousness has changed historically, past minds are doubly inaccessible. Barfield's logomorphism (projecting our awareness onto the past) may also operate spatially. **Resolution**: Added paragraph at end of "Is the Void Absolute?" connecting to [historical-consciousness-void](/voids/inaccessible-past/) and [past-self-void](/voids/inaccessible-past/).
 
 2. **Missing "What Would Challenge This View?" section**: The past-self-void has one; this article lacked it. Weakens intellectual honesty and parallel structure across void articles. **Resolution**: Added concise section before "Relation to Site Perspective".
 
-3. **Missing cross-links**: No links to [historical-consciousness-void](/voids/historical-consciousness-void/), [past-self-void](/voids/inaccessible-past/), or [calibration-void](/voids/measurement-void/) despite strong thematic connections. **Resolution**: Added all three to Further Reading and related_articles frontmatter.
+3. **Missing cross-links**: No links to [historical-consciousness-void](/voids/inaccessible-past/), [past-self-void](/voids/inaccessible-past/), or [calibration-void](/voids/measurement-void/) despite strong thematic connections. **Resolution**: Added all three to Further Reading and related_articles frontmatter.
 
 ### Low Issues Found
 1. **Stale AI refinement log**: The HTML comment at the end said "This log should be removed after human review" and had been through a review cycle. **Resolution**: Removed.
@@ -70,7 +70,7 @@ No attribution errors found.
 5. Removed stale AI refinement log comment
 
 ### Cross-links Added
-- [historical-consciousness-void](/voids/historical-consciousness-void/) — temporal dimension of other minds
+- [historical-consciousness-void](/voids/inaccessible-past/) — temporal dimension of other minds
 - [past-self-void](/voids/inaccessible-past/) — parallel void within a single lifetime
 - [calibration-void](/voids/measurement-void/) — self-access is itself uncalibratable
 

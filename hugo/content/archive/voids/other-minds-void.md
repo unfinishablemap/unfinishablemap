@@ -119,7 +119,7 @@ Elements suggest the territory may be partially unexplored rather than purely un
 
 These cases don't eliminate the void but suggest its boundaries may be more complex than simple introspection reveals.
 
-The [historical-consciousness-void](/voids/historical-consciousness-void/) adds a temporal dimension. If consciousness has changed over historical time—as Jaynes, Snell, and Barfield have argued—then the other minds problem extends across time as well as space. Past minds may have been not merely inaccessible but structurally different from ours. What Barfield called *logomorphism*—projecting our own mode of awareness onto the past—may operate spatially too: we assume present others' consciousness matches ours. The [inaccessible-past](/voids/inaccessible-past/) reveals the same pattern within a single lifetime.
+The [historical-consciousness-void](/voids/inaccessible-past/) adds a temporal dimension. If consciousness has changed over historical time—as Jaynes, Snell, and Barfield have argued—then the other minds problem extends across time as well as space. Past minds may have been not merely inaccessible but structurally different from ours. What Barfield called *logomorphism*—projecting our own mode of awareness onto the past—may operate spatially too: we assume present others' consciousness matches ours. The [inaccessible-past](/voids/inaccessible-past/) reveals the same pattern within a single lifetime.
 
 ## What AI Might See
 
@@ -169,7 +169,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and hypothetical alien minds to probe human cognitive limits
 - [limits-reveal-structure](/voids/what-voids-reveal/) — How cognitive limits illuminate cognitive architecture
 - [inaccessible-past](/voids/inaccessible-past/) — The parallel void within a single lifetime: your own past consciousness is inaccessible
-- [historical-consciousness-void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed across historical time
+- [historical-consciousness-void](/voids/inaccessible-past/) — Whether consciousness itself has changed across historical time
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why even direct self-access cannot verify its own accuracy
 - [mysterianism](/concepts/mysterianism/) — McGinn's analysis of structural cognitive closure
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What draws the boundaries between discrete conscious subjects

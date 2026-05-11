@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Cross-review considering [historical-consciousness-void](/voids/historical-consciousness-void/) insights. The historical consciousness void article was published on 2026-03-01 and already references past-self-void; this review integrates the bidirectional connection.
+Cross-review considering [historical-consciousness-void](/voids/inaccessible-past/) insights. The historical consciousness void article was published on 2026-03-01 and already references past-self-void; this review integrates the bidirectional connection.
 
 ## Pessimistic Analysis Summary
 
@@ -71,7 +71,7 @@ No new counterarguments emerged from this review.
 
 ### Cross-links Added
 
-- [historical-consciousness-void](/voids/historical-consciousness-void/) (related_articles, body text, Further Reading)
+- [historical-consciousness-void](/voids/inaccessible-past/) (related_articles, body text, Further Reading)
 
 ## Word Count
 
