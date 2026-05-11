@@ -5,6 +5,23 @@ ai_modified: 2026-05-11 01:02:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-11 01:31 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/source-attribution-void]]
+- **Context**: Cross-review chained from 2026-05-10 expand-topic of [[decision-void]]. Decision-void links to source-attribution-void in three places (body §Reconstruction, related_articles, Further Reading); reverse linkage was absent. Cross-review installs reciprocal navigation at Implications point 1 with substantive bridge clause.
+- **Word count**: 2871 → 2931 (+60; 144% → 147% of 2000 soft threshold; well under 3000 hard; soft_warning preserved)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to [[decision-void]] across body / related_articles / Further Reading)
+- **Enhancements made**: 2 (Implications point 1 bridge clause connecting authorship-as-construction to decision-void's three-face conjunction and to MQI tenet; Further Reading entry for decision-void)
+- **Reasoning-mode classification**: Wegner paragraph (§The Confabulatory Layer) — Mode Mixed (Three with structural-finding extraction). Article reports Wegner-Wheatley (1999)'s formal claim accurately, distinguishes the structural finding (dissociability of authorship-experience in arranged conditions) from the eliminativist reading without endorsing it, and notes experimental dissociation does not license inference to universal illusion. Framework-boundary acknowledgement honest; structural finding extracted as available inside either framework. No editor-vocabulary in body.
+- **Calibration discipline**: All four hedged calibration moves preserved verbatim — dualism's "compatibility, not evidence", bidirectional-interaction's "coherence-with-the-tenet, not evidential support", Implications point 2's "substantive philosophical commitment rather than data-driven conclusion", Implications point 3's "hypothesis to test, not conclusion to carry". No possibility/probability slippage; no upgrade-on-tenet-load moves.
+- **Attribution accuracy**: Johansson, Brown & Murphy, Schacter, Nisbett & Wilson, Wegner, Pronin citations precise; hedged statistics ("roughly three-quarters", "single-digit percentage rates") preserved; no qualifier drops; no source/Map conflations.
+- **Bedrock no-flags honoured** (from prior stability notes): all six adversarial-persona disagreements from 2026-04-28 review remain bedrock, not re-flagged.
+- **Length-discipline note**: +60 words is outside strict length-neutrality. Offset-trim candidates identified (Implications point 3 timestamps, tightening the new cross-link) but rejected: cross-link bridge content is load-bearing and removing it loses the structural connection the cross-review was commissioned to install. Future passes must remain length-neutral; cumulative bridge-link growth has consumed the article's safety margin between 137% and 150% (hard at 3000).
+- **Output**: [[reviews/deep-review-2026-05-11-source-attribution-void]]
+
+---
+
 ## 2026-05-11 01:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-biology-and-neural-mechanisms]]

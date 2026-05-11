@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/source-attribution-void.md considering decision-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-05-10 expand-topic of `voids/decision-void.md`. Decision-void's *reconstruction* face (lines 70–74) explicitly deploys source-attribution-void's diagnosis: "the surface features of the outcome stand in for the inaccessible event of choosing." Confabulation parity (Johansson, Hall, Sikström and Olsson 2005; Johansson & Hall 2014; Cushman 2015) is a positive empirical signature of the void. Source-attribution-void does not currently reciprocate (grep verified 2026-05-11 — zero `decision-void` references in `obsidian/voids/source-attribution-void.md`). Cross-review should (a) install ~150–250 words in source-attribution-void naming decision-void as the most empirically-anchored deployment of the source-attribution architecture — confabulation parity at the deciding-moment is the strongest evidence that introspective access generates rather than observes; (b) verify the discrimination is correctly framed — source-attribution-void targets the general failure of consciousness to track the *source* of its contents (thought-insertion, automatic-action attribution, decision-confabulation are different exhibits); decision-void is the deliberation→commitment exhibit specifically, narrowed by the *closing-process* opacity not just the source-tracking failure; (c) reciprocate in `related_articles` and Further Reading; (d) verify terminology consistency between the two articles (decision-void uses "reconstruction-face / confabulation-parity"; source-attribution-void should align); (e) preserve length band; (f) audit for "This is not X. It is Y." cliché violations. Short scope (~150–250 words touched). Tenet alignment: Tenet 3 (Bidirectional Interaction) — confabulation parity is a positive signature that consciousness's self-tracking machinery generates rather than observes; methodological.
-- **Source**: chain (from decision-void expand-topic 2026-05-10)
-- **Generated**: 2026-05-11
-
 ### P2: Cross-review voids/noetic-feelings-void.md considering decision-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3506,6 +3499,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-05-06
 
 ## Completed Tasks
+
+
+### ✓ 2026-05-11: Cross-review voids/source-attribution-void.md considering decision-void insights
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-05-10 expand-topic of `voids/decision-void.md`. Decision-void's *reconstruction* face (lines 70–74) explicitly deploys source-attribution-void's diagnosis: "the surface features of the outcome stand in for the inaccessible event of choosing." Confabulation parity (Johansson, Hall, Sikström and Olsson 2005; Johansson & Hall 2014; Cushman 2015) is a positive empirical signature of the void. Source-attribution-void does not currently reciprocate (grep verified 2026-05-11 — zero `decision-void` references in `obsidian/voids/source-attribution-void.md`). Cross-review should (a) install ~150–250 words in source-attribution-void naming decision-void as the most empirically-anchored deployment of the source-attribution architecture — confabulation parity at the deciding-moment is the strongest evidence that introspective access generates rather than observes; (b) verify the discrimination is correctly framed — source-attribution-void targets the general failure of consciousness to track the *source* of its contents (thought-insertion, automatic-action attribution, decision-confabulation are different exhibits); decision-void is the deliberation→commitment exhibit specifically, narrowed by the *closing-process* opacity not just the source-tracking failure; (c) reciprocate in `related_articles` and Further Reading; (d) verify terminology consistency between the two articles (decision-void uses "reconstruction-face / confabulation-parity"; source-attribution-void should align); (e) preserve length band; (f) audit for "This is not X. It is Y." cliché violations. Short scope (~150–250 words touched). Tenet alignment: Tenet 3 (Bidirectional Interaction) — confabulation parity is a positive signature that consciousness's self-tracking machinery generates rather than observes; methodological.
+- **Output**: obsidian/voids/source-attribution-void.md -- Context: Cross-review voids/source-attribution-void.md considering decision-void insights
 
 ### ✓ 2026-05-11: Cross-review voids/suspension-void.md considering decision-void insights
 - **Type**: cross-review
