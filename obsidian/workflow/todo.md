@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Reconcile concepts/emergence.md with concepts/bi-aspectual-ontology.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. Clean internal contradiction: `/concepts/emergence/` declares "The Unfinishable Map's framework is best understood as a form of strong emergentism that identifies where consciousness could exercise novel causal powers: at quantum indeterminacies" — i.e. consciousness as a strongly emergent *property of* matter. `/concepts/bi-aspectual-ontology/` commits to "two aspects with genuine causal interaction" — i.e. consciousness as a *distinct aspect* that interacts with matter. These are not the same view; reading (i) Emergence and (ii) Bi-Aspectual back-to-back gives the reader a contradictory picture of the Map's ontological commitment. Reconcile by either (a) rewriting Emergence to clarify that the "strong emergentism" framing is a vocabulary for the consciousness-side aspect within bi-aspectual ontology, not an alternative monistic story; or (b) noting the open question explicitly on both pages with cross-references. Apply [[direct-refutation-discipline]] Mode One. ~250–400 words touched across both files. Tenet alignment: Tenet 1 (Dualism) internal consistency. See review file.
-- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-11
-
 ### P1: Tenets page MQI section — demote quantum-biology evidence and surface Post-Decoherence Selection as developed Map position
 - **Type**: refine-draft
 - **Status**: pending
@@ -3558,6 +3550,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Reconcile concepts/emergence.md with concepts/bi-aspectual-ontology.md
+- **Type**: cross-review
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. Clean internal contradiction: `/concepts/emergence/` declares "The Unfinishable Map's framework is best understood as a form of strong emergentism that identifies where consciousness could exercise novel causal powers: at quantum indeterminacies" — i.e. consciousness as a strongly emergent *property of* matter. `/concepts/bi-aspectual-ontology/` commits to "two aspects with genuine causal interaction" — i.e. consciousness as a *distinct aspect* that interacts with matter. These are not the same view; reading (i) Emergence and (ii) Bi-Aspectual back-to-back gives the reader a contradictory picture of the Map's ontological commitment. Reconcile by either (a) rewriting Emergence to clarify that the "strong emergentism" framing is a vocabulary for the consciousness-side aspect within bi-aspectual ontology, not an alternative monistic story; or (b) noting the open question explicitly on both pages with cross-references. Apply [[direct-refutation-discipline]] Mode One. ~250–400 words touched across both files. Tenet alignment: Tenet 1 (Dualism) internal consistency. See review file.
+- **Output**: obsidian/concepts/emergence.md -- Context: Reconcile concepts/emergence.md with concepts/bi-aspectual-ontology.md
 
 ### ✓ 2026-05-11: Tenets page — fix asymmetric Occam's-Razor-Has-Limits application (Tenet 5 ↔ No-MWI internal tension)
 - **Type**: refine-draft

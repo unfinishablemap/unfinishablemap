@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T08:35:00+00:00
+ai_modified: 2026-05-11T08:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 08:50 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/emergence]]
+- **Previous review**: [[reviews/deep-review-2026-05-01-emergence]] (eighth; marked convergence)
+- **Context**: Run with explicit reconciliation context — "Reconcile concepts/emergence.md with concepts/bi-aspectual-ontology.md"
+- **Word count**: 2554 → 2630 (+76; 105% of 2500 soft threshold — under hard cap 3500)
+- **Critical issues addressed**: 1
+  - Ontological framing inconsistency with bi-aspectual-ontology.md: article presented the Map as "a form of strong emergentism" / "emergentist dualism" with consciousness "strongly emerges from physical organization" — directly contradicts bi-aspectual-ontology.md's co-fundamental framing. Reframed in three locations (opening, Map's Position section, Why This Matters closing) and the Dualism entry under Relation to Site Perspective. Strong emergentism repositioned as adjacent tradition the Map shares commitments with, not the Map's canonical position.
+- **Medium issues addressed**: 1
+  - Integration gap: no wikilink between emergence and bi-aspectual-ontology. Added bi-aspectual-ontology to concepts frontmatter, Further Reading, and four body-text wikilinks.
+- **Enhancements made**: 3
+  - Section title renamed "Strong Emergence at the Quantum Opening" → "Bi-Aspectual Dualism at the Quantum Opening"
+  - Comparison table row "Site's interactionism | Strong" → "Site's bi-aspectual dualism | Adjacent to strong (aspects co-fundamental)"
+  - "Why This Matters" emergence-vocabulary bullets reframed as comparative vocabulary rather than canonical self-description
+- **Mode classification**: Article does not engage named opponents in extended replies — no mode classification needed
+- **Attribution check**: Chalmers 2006 quote, Broad 1925 quote, O'Connor & Wong 2005 characterization, Wiest et al. 2024 reference all unchanged and verified
+- **Calibration check**: Article makes no organism-consciousness evidential-status claims; no possibility/probability slippage risk
+- **Stability notes**: All bedrock disagreements from prior review preserved; new bedrock entry — Map's canonical ontology is bi-aspectual dualism, not strong emergentism (should not be re-flagged)
+- **Remaining items**: Reverse cross-link (bi-aspectual-ontology → emergence) deferred to a separate review of that article
+- **Output**: [[reviews/deep-review-2026-05-11-emergence]]
 
 ## 2026-05-11 08:35 UTC - deep-review
 - **Status**: Success
