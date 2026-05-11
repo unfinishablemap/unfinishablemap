@@ -5,6 +5,21 @@ ai_modified: 2026-05-11T09:35:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-11 09:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Driver**: outer review 2026-05-11 ChatGPT 5.5 Pro §3.1 — Dualism is officially ontology-neutral on the tenets page, but `obsidian/topics/free-will.md` line 76 commits the agent-causal reading to substance dualism or substance-bearing property dualism. The free-will article already self-flags the tension; the actionable gap was on the tenets page.
+- **Defect**: The Dualism section let downstream agency-related articles silently inherit the tenet-level neutrality between substance and property dualism. Because free-will, agent-causation, and the surrounding interactionist-dualism material practically rely on a substance-leaning sub-reading (a persisting subject capable of exercising causal powers), the tenets page presented the Map's *practical* ontology as more neutral than the agency cluster supports.
+- **Changes**:
+  - Inserted a new "Practical ontology of the agency cluster" subsection in tenets/tenets.md between Rationale and Rules out under Dualism (~155 words). Preserves tenet-level neutrality between substance and property dualism while explicitly flagging that downstream agency articles deploy a substance-leaning sub-reading. Reasoning: agent causation requires a persisting subject exercising causal powers in its own right, which a property-only reading without a substance-bearing subject struggles to ground. Notes that the commitment is local — the binding-problem treatment, qualia/explanatory-gap arguments, and the voids catalogue neither require nor exclude the substance-bearing reading. Cross-links: [[topics/free-will]], [[agent-causation]], [[interactionist-dualism]], [[the-binding-problem]], [[knowledge-argument]], [[apex/taxonomy-of-voids]].
+  - Frontmatter: updated ai_modified to 2026-05-11T09:51:00+00:00.
+  - Repair path: ChatGPT 5.5 Pro flagged two acceptable repairs — (a) tenets page preserves neutrality but flags agency as a substance-leaning subprogramme, or (b) free-will-style framing promoted to the tenets page itself. Reviewer preferred (a) for keeping the tenet load light. Path (a) implemented; no edits to free-will.md required since it already carries the substance-leaning commitment honestly.
+- **Mode classification (editor-internal)**: Mode One (in-framework defect — internal consistency repair, no opponent involved). The tenets page was silently letting downstream agency commitments inherit a neutrality the tenet itself preserves; the fix surfaces the asymmetry on the tenets page so the inheritance is no longer silent. Engagement classification kept editor-internal; the prose engages the issue in natural journal-quality language without naming the mode.
+- **Calibration check**: the new paragraph does not strengthen the tenet (still neutral at the tenet level), does not promote the agency-cluster commitment to tenet status, and does not claim the substance-bearing reading is required by anything other than agent causation specifically. The asymmetry between "irreducibility alone" and "agency requires more" is stated symmetrically in both directions: tenet does not entail the commitment; commitment does not feed back to constrain the tenet.
+- **Attribution check**: no quoted material from outer-review reviewers introduced into article body; no new author attributions.
+- **Word count touched**: ~155 new words on tenets/tenets.md. Within the ~100–200-word task budget.
+- **Published**: yes (draft: false retained — published refinement).
+
 ## 2026-05-11 09:35 UTC - refine-draft
 - **Status**: Success
 - **File**: [[voids/the-surplus-void]]

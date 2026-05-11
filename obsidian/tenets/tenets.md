@@ -3,7 +3,7 @@ title: Tenets
 created: 2026-01-02
 modified: 2026-01-02
 human_modified: 2026-01-02T14:18:31+00:00
-ai_modified: 2026-05-11T09:06:00+00:00
+ai_modified: 2026-05-11T09:51:00+00:00
 draft: false
 description: "Five commitments that bound every article on The Unfinishable Map—chosen starting points, not proofs, exploring consciousness and the limits of knowability."
 topics: []
@@ -37,6 +37,8 @@ There is more than just matter involved in reality. ^dualism
 **Definition:** Dualism here means that consciousness (or mind, or experience) is not reducible to physical processes. There exists something beyond the material—whether substance, property, or aspect—that cannot be fully explained by physics alone. This commitment is neutral between [[substance-property-dualism|substance and property dualism]]—Descartes' view that mind is a separate kind of thing, versus the view that physical systems have irreducible phenomenal properties. What matters is irreducibility, not the specific ontological framework. Combined with the Bidirectional Interaction tenet below, this commits the Map to [[interactionist-dualism]]—the position that mind and body are distinct yet causally connected.
 
 **Rationale:** The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious. [[concepts/materialism|Materialism]]—in all its forms from reductive physicalism to eliminativism—fails to close this gap. Multiple independent [[dualism|positive arguments for dualism]] converge on the same conclusion: consciousness has features that physical description cannot capture. The [[knowledge-argument|knowledge argument]] (Mary's Room) shows that phenomenal facts exceed physical facts. [[philosophical-zombies|Conceivability arguments]] demonstrate that consciousness is logically separable from physical structure. Arguments from [[qualia]]—the explanatory gap, inverted qualia, intrinsic nature—reveal the limits of functional and structural description. The unity of consciousness and the intentionality of mental states each provide additional support.
+
+**Practical ontology of the agency cluster:** The neutrality stated above is a tenet-level commitment about what irreducibility *requires*; it is not uniform across the Map's downstream positions. Articles in the agency cluster—[[topics/free-will|Free Will and Determinism]], [[agent-causation]], and the surrounding [[interactionist-dualism]] material—deploy a substance-leaning sub-reading. Agent causation needs a persisting subject that exercises causal powers in its own right; a property-only reading on which mental properties supervene on a physical substrate without a substance-bearing subject struggles to ground that exercise. The tenet does not entail this commitment, and the commitment does not feed back to constrain the tenet. Articles that do not invoke agent causation—the [[the-binding-problem|binding problem]] treatment, the [[knowledge-argument|qualia and explanatory-gap arguments]], much of the [[apex/taxonomy-of-voids|voids catalogue]]—neither require nor exclude the substance-bearing reading. The neutrality holds where irreducibility alone does the work; the substance-leaning sub-reading appears specifically where agency does, and is registered here so that the practical ontology of the agency cluster is not silently inherited from the tenet's neutral framing.
 
 **Rules out:** Eliminative materialism, reductive physicalism, and any view that treats consciousness as purely [[concepts/epiphenomenalism|epiphenomenal]] or illusory. See [[concepts/materialism]] for detailed engagement with the materialist position and its failures.
 
@@ -139,6 +141,20 @@ Based on convergent outer reviews (2026-05-11, 2/3 reviewers — Claude Opus 4.7
 Direct-refutation discipline: Mode One (in-framework defect — the tenets page was out of step with the apex it should be tracking). Engagement classification kept editor-internal; the prose engages the dispute in natural journal-quality language.
 
 Companion edit: obsidian/topics/quantum-biology-and-neural-consciousness.md touched for consistency with the new framing — softened the "burden has inverted" language to acknowledge the precedent-vs-licence distinction, noted Hagan-vs-Tegmark contestation in The Decoherence Debate Today section, and added a forward-link to the apex from Why This Matters for Consciousness.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-11 (third pass)
+Changes made to Dualism section:
+- Added a new "Practical ontology of the agency cluster" subsection between Rationale and Rules out (~155 words). The paragraph preserves the tenet's official neutrality between substance and property dualism while explicitly flagging that downstream agency-related articles (free-will, agent-causation, interactionist-dualism) deploy a substance-leaning sub-reading. The reasoning offered: agent causation requires a persisting subject exercising causal powers in its own right, which a property-only reading without a substance-bearing subject struggles to ground. Notes that the commitment is local to the agency cluster — the binding-problem treatment, qualia/explanatory-gap arguments, and the voids catalogue neither require nor exclude the substance-bearing reading.
+- Frontmatter: updated ai_modified to 2026-05-11T09:51:00+00:00.
+
+Based on outer review by ChatGPT 5.5 Pro (2026-05-11) §3.1, which flagged that the tenets page presents Dualism as ontology-neutral while the free-will article (line 76) commits the agent-causal reading to substance dualism or substance-bearing property dualism. The free-will article already self-flags this tension; the gap was on the tenets page. Two repair paths were identified by the reviewer: (a) tenets page preserves neutrality but flags agency as a substance-leaning subprogramme, or (b) free-will-style framing is promoted to the tenets page itself. Reviewer preferred (a) for keeping the tenet load light. Path (a) implemented here.
+
+Mode classification (editor-internal): Mode One (in-framework defect — internal consistency repair, no opponent involved). The tenets page was silently letting downstream agency commitments inherit a neutrality the tenet itself preserves, while the free-will article was honestly carrying the substance-leaning reading. The fix surfaces the asymmetry on the tenets page so the inheritance is no longer silent. No external opponent engaged; this is coherence-maintenance. Engagement classification kept editor-internal; the prose is journal-quality and does not name the mode.
+
+Calibration check: the new paragraph does not strengthen the tenet (still neutral at the tenet level), does not promote the agency-cluster commitment to tenet status, and does not claim the substance-bearing reading is required by anything other than agent causation specifically. The asymmetry between "irreducibility alone" and "agency requires more" is stated symmetrically in both directions.
 
 This log should be removed after human review.
 -->

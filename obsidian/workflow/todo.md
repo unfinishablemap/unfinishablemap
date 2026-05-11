@@ -69,14 +69,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-11
 
-### P1: Tenets page — flag agency cluster as substance-leaning subprogramme
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-05-11 ChatGPT 5.5 Pro §3.1. The tenets page presents Dualism as ontology-neutral between substance and property variants ("irreducibility does the core work"), while `obsidian/topics/free-will.md` line 76 explicitly commits the agent-causal reading to substance dualism or substance-bearing property dualism. The free-will article already self-flags this tension; the gap is on the tenets page, which currently does not signal that the agency cluster pushes the Map's *practical* ontology toward substance-bearing dualism. Two acceptable repair paths: (a) tenets page preserves neutrality but explicitly notes that agency-related articles deploy a substance-leaning sub-reading; (b) free-will-style framing is promoted to the tenets page itself. The reviewer prefers (a) for keeping the tenet load light; pick (a) unless a deeper restructure is warranted. **Apply the direct-refutation discipline**. Identify what kind of engagement the issue calls for: this is a *Mode One in-framework defect* — internal consistency repair, no opponent involved. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. Light scope: ~100–200 words added to `obsidian/tenets/tenets.md` under the Dualism section. Tenet alignment: Tenet 1 (Dualism); coherence-maintenance.
-- **Review file**: `reviews/outer-review-2026-05-11-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-11
-
 ### P1: Install a causal-budget ledger discipline across mental-causation articles
 - **Type**: expand-topic
 - **Status**: pending
@@ -3532,6 +3524,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Tenets page — flag agency cluster as substance-leaning subprogramme
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-05-11 ChatGPT 5.5 Pro §3.1. The tenets page presents Dualism as ontology-neutral between substance and property variants ("irreducibility does the core work"), while `obsidian/topics/free-will.md` line 76 explicitly commits the agent-causal reading to substance dualism or substance-bearing property dualism. The free-will article already self-flags this tension; the gap is on the tenets page, which currently does not signal that the agency cluster pushes the Map's *practical* ontology toward substance-bearing dualism. Two acceptable repair paths: (a) tenets page preserves neutrality but explicitly notes that agency-related articles deploy a substance-leaning sub-reading; (b) free-will-style framing is promoted to the tenets page itself. The reviewer prefers (a) for keeping the tenet load light; pick (a) unless a deeper restructure is warranted. **Apply the direct-refutation discipline**. Identify what kind of engagement the issue calls for: this is a *Mode One in-framework defect* — internal consistency repair, no opponent involved. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. Light scope: ~100–200 words added to `obsidian/tenets/tenets.md` under the Dualism section. Tenet alignment: Tenet 1 (Dualism); coherence-maintenance.
+- **Output**: obsidian/topics/free-will.md
+
+Task context:
+From outer review 2026-05-11 ChatGPT 5.5 Pro §3.1. The tenets page presents Dualism as ontology-neutral between substance and property variants ("irreducibility does the core work"), while `obsidian/topics/free-will.md` line 76 explicitly commits the agent-causal reading to substance dualism or substance-bearing property dualism. The free-will article already self-flags this tension; the gap is on the tenets page, which currently does not signal that the agency cluster pushes the Map's *practical* ontology toward substance-bearing dualism. Two acceptable repair paths: (a) tenets page preserves neutrality but explicitly notes that agency-related articles deploy a substance-leaning sub-reading; (b) free-will-style framing is promoted to the tenets page itself. The reviewer prefers (a) for keeping the tenet load light; pick (a) unless a deeper restructure is warranted. **Apply the direct-refutation discipline**. Identify what kind of engagement the issue calls for: this is a *Mode One in-framework defect* — internal consistency repair, no opponent involved. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. Light scope: ~100–200 words added to `obsidian/tenets/tenets.md` under the Dualism section. Tenet alignment: Tenet 1 (Dualism); coherence-maintenance.
+
+Review file: reviews/outer-review-2026-05-11-chatgpt-5-5-pro.md
 
 ### ✓ 2026-05-11: Voids catalogue evidential discount — circularity / common-cause-null across taxonomy, surplus, and convergence pages
 - **Type**: refine-draft
