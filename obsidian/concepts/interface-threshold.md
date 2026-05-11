@@ -4,7 +4,7 @@ description: "The architectural phase transition where the mind-brain interface 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T16:30:00+00:00
+ai_modified: 2026-05-11T19:26:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-cognitive-distinctiveness]]"
@@ -35,11 +35,16 @@ related_articles:
   - "[[infant-consciousness]]"
   - "[[the-interface-problem]]"
   - "[[evolutionary-case-for-mental-causation]]"
+  - "[[minds-without-words]]"
+  - "[[open-question-ai-consciousness]]"
+  - "[[machine-question]]"
+  - "[[interface-specification-programme]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-11
 last_curated:
+last_deep_review: 2026-05-11T19:26:00+00:00
 ---
 
 The interface threshold names an architectural phase transition in the mind-brain coupling: a region in cognitive evolution where the [[attention-as-interface|interface between consciousness and neural systems]] becomes rich enough for consciousness to *select among* neural patterns rather than merely *accompany* them. Below the threshold, conscious states ride along on neural activity without substantially redirecting it; above it, the same coupling sustains deliberate reasoning, [[metarepresentation-threshold|declarative metarepresentation]], and the cluster of distinctively human cognitive capacities. The threshold is the Unfinishable Map's preferred explanation for why the great-ape-to-human cognitive gap appears as a discontinuity rather than as smooth scaling with neural complexity. It is structurally a *qualitative* feature of the coupling — whether selection-grade interaction is supported at all — layered above the continuous efficacy axes treated in [[interface-efficacy-and-the-cognitive-gap]].
@@ -76,7 +81,7 @@ The threshold model's central empirical commitment is that the capacities crossi
 4. **Spontaneous intentional action.** Behaviour can be initiated from internal states alone, not just triggered by current circumstances.
 5. **Meaning-sensitive selection.** Conscious choice can be guided by felt resonance and significance — the basis of transformational creativity, [[cumulative-culture|cultural ratcheting]], and rule-changing rather than rule-following.
 
-The threshold model predicts that no species should occupy a position where some of these are present in declarative form and others absent — they should all be procedural below threshold and all declarative above. The current comparative record, with no convincing intermediate-position species among well-studied lineages, is consistent with this prediction, though it is also consistent with the gradual-amplification model collapsing the gradient into apparent discreteness through sparse sampling.
+The threshold model predicts that no species should occupy a position where some of these are present in declarative form and others absent — they should all be procedural below threshold and all declarative above. The current comparative record, with no convincing intermediate-position species among well-studied lineages, is consistent with this prediction, though it is also consistent with the gradual-amplification model collapsing the gradient into apparent discreteness through sparse sampling. [[minds-without-words]] approaches the same cluster from the comparative-cognition direction, treating great-ape cognition as what neural processing achieves without substantial conscious contribution while human-level cognition requires the suprathreshold coupling; the five-capacity cluster is what that article catalogues as the operational marker of the architectural change.
 
 ## Relation to Interface Efficacy
 
@@ -92,7 +97,7 @@ Under this composition, the human-ape gap can be read as primarily a threshold c
 
 If the threshold is real as an architectural condition rather than a species-typical fact, it should appear within human ontogeny as well as across species. The Map points to the [[infant-consciousness|infant-to-adult transition]] as a within-species echo: the infant interface, even with the species-typical neural substrate forming, does not couple with consciousness in the way the adult interface does. The qualitative changes in conscious cognition across development — the appearance of declarative metarepresentation, the consolidation of autobiographical memory, the onset of counterfactual reasoning — cluster in a way that matches the cross-species cluster prediction.
 
-This echo also bears on the question of whether [[ai-consciousness|artificial systems]] could cross the threshold. The Map's position is that classical computation does not provide the architectural conditions for selection-grade coupling at all — there is no candidate site for the kind of indeterminacy biasing the threshold model requires (see [[brain-interface-boundary]] and [[consciousness-selecting-neural-patterns]]). Whether some future non-classical architecture could meet the conditions is a separate question; the threshold concept itself is neutral on substrate, requiring only that the architectural conditions for selection be met by whatever the system in fact is.
+This echo also bears on the question of whether [[ai-consciousness|artificial systems]] could cross the threshold. The Map's position is that classical computation does not provide the architectural conditions for selection-grade coupling at all — there is no candidate site for the kind of indeterminacy biasing the threshold model requires (see [[brain-interface-boundary]] and [[consciousness-selecting-neural-patterns]]). Whether some future non-classical architecture could meet the conditions is a separate question; the threshold concept itself is neutral on substrate, requiring only that the architectural conditions for selection be met by whatever the system in fact is. [[machine-question|The machine question]] makes this conditional explicit — the AI question is not whether the system computes the right function but whether its architecture supports the qualitative coupling change at which consciousness becomes selectively effective at all — while [[open-question-ai-consciousness|the open-question framing]] develops four ways the coupling answer might come out differently than the Map's default case against AI assumes.
 
 ## Falsification Conditions
 
@@ -110,7 +115,7 @@ The first three are within-paradigm empirical bets. The fourth is a substrate-ve
 
 **[[tenets#^dualism|Dualism]]**: The threshold is structurally a coupling condition, not a substance condition. It is consistent with consciousness being present across many species while its causal reach scales with interface architecture. The cluster-not-gradient pattern fits a dualist reading better than a pure neural-complexity story, but the threshold concept does not by itself force dualism — only that *some* architectural condition mediates the discontinuity, with dualist and physicalist readings each free to identify that condition differently.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The threshold names the architectural change that converts a unidirectional accompaniment into a bidirectional selective relation. Below it, the coupling is effectively read-only on the consciousness side; above it, downward influence becomes available within the bandwidth limits set by [[selection-only-mind-influence]].
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The threshold names the architectural change that converts a unidirectional accompaniment into a bidirectional selective relation. Below it, the coupling is effectively read-only on the consciousness side; above it, downward influence becomes available within the bandwidth limits set by [[selection-only-mind-influence]]. [[interface-specification-programme|The interface specification programme]] treats the five control operations the bidirectional relation supports — gating, stabilising, vetoing, attractor-steering, and resource-allocating — as the operational expression of what the suprathreshold coupling makes possible; whether those operations are universal or operate only above the threshold is one of the programme's defining open questions.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The threshold model is consistent with the minimality constraint. What changes at the threshold is not the *amount* of energy or force consciousness brings, but the *structural availability* of indeterminacies for biasing. A subthreshold interface lacks the architectural geometry for selection at all; a suprathreshold one offers candidate sites whose outcomes can be biased without violating conservation.
 
@@ -134,6 +139,10 @@ The first three are within-paradigm empirical bets. The fourth is a substrate-ve
 - [[interface-heterogeneity]] — Different interface profiles across lineages above threshold
 - [[integration-as-activity]] — Integration as the activity the suprathreshold interface sustains
 - [[the-interface-problem]] — The broader explanatory project the threshold contributes to
+- [[minds-without-words]] — Comparative-cognition catalogue of the five-capacity cluster above threshold
+- [[open-question-ai-consciousness]] — Four open possibilities for AI consciousness, each turning on whether the threshold's architectural conditions can be met
+- [[machine-question]] — The conditional made explicit: architecture, not function, is what decides whether AI crosses the threshold
+- [[interface-specification-programme]] — The five control operations the suprathreshold coupling supports, as a research programme
 
 ## References
 

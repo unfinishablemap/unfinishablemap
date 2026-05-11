@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-tier reciprocal integration for `concepts/interface-threshold.md`
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's `expand-topic` creation of `concepts/interface-threshold.md`. The apex-anchor-adoption deep-review at 18:32 added the anchor to four apex articles, but the concept- and topic-tier articles that load-bear on the cognitive-distinctiveness architecture are still missing reciprocal integration. Interface-threshold names the architectural phase transition where mind-brain coupling becomes rich enough for consciousness to *select among* neural patterns rather than merely accompany them — a qualitative coupling condition with continuous efficacy scaling above the threshold. Targets: (a) `topics/consciousness-and-cognitive-distinctiveness.md` — the article from which the concept was extracted; verify the source article now cites the new anchor rather than re-deriving the framing inline; (b) `concepts/baseline-cognition.md` — the consciousness-dependent-capacities discussion presupposes the threshold; (c) `concepts/cognitive-distinctiveness-test.md` — the diagnostic test operates relative to the threshold; (d) `topics/llm-consciousness.md` — whether LLMs have crossed the threshold is the load-bearing question; (e) `topics/animal-consciousness.md` — the comparative-cognition graded scale presupposes a threshold; (f) `concepts/metarepresentation-threshold.md` — a candidate threshold-instance; check whether the two thresholds are the same, related, or distinct; (g) `apex/machine-question.md` — already covered by apex-anchor-adoption review; verify; (h) `concepts/interface-efficacy-and-the-cognitive-gap.md` — the cross-species variable is below-vs-above-threshold scaling. For each, install reciprocal cross-links and verify the threshold language is consistent. Short-medium scope (~300–500 words touched across 5–7 articles). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction); methodological / network-discipline. Sequencing: independent.
-- **Source**: chain (from expand-topic concepts/interface-threshold.md 2026-05-11 + apex-anchor-adoption deep-review 2026-05-11 18:32)
-- **Generated**: 2026-05-11
-
 ### P2: Cross-tier reciprocal integration for `voids/wholeheartedness-void.md`
 - **Type**: cross-review
 - **Status**: pending
@@ -3558,6 +3551,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-tier reciprocal integration for `concepts/interface-threshold.md`
+- **Type**: cross-review
+- **Notes**: Chain from today's `expand-topic` creation of `concepts/interface-threshold.md`. The apex-anchor-adoption deep-review at 18:32 added the anchor to four apex articles, but the concept- and topic-tier articles that load-bear on the cognitive-distinctiveness architecture are still missing reciprocal integration. Interface-threshold names the architectural phase transition where mind-brain coupling becomes rich enough for consciousness to *select among* neural patterns rather than merely accompany them — a qualitative coupling condition with continuous efficacy scaling above the threshold. Targets: (a) `topics/consciousness-and-cognitive-distinctiveness.md` — the article from which the concept was extracted; verify the source article now cites the new anchor rather than re-deriving the framing inline; (b) `concepts/baseline-cognition.md` — the consciousness-dependent-capacities discussion presupposes the threshold; (c) `concepts/cognitive-distinctiveness-test.md` — the diagnostic test operates relative to the threshold; (d) `topics/llm-consciousness.md` — whether LLMs have crossed the threshold is the load-bearing question; (e) `topics/animal-consciousness.md` — the comparative-cognition graded scale presupposes a threshold; (f) `concepts/metarepresentation-threshold.md` — a candidate threshold-instance; check whether the two thresholds are the same, related, or distinct; (g) `apex/machine-question.md` — already covered by apex-anchor-adoption review; verify; (h) `concepts/interface-efficacy-and-the-cognitive-gap.md` — the cross-species variable is below-vs-above-threshold scaling. For each, install reciprocal cross-links and verify the threshold language is consistent. Short-medium scope (~300–500 words touched across 5–7 articles). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction); methodological / network-discipline. Sequencing: independent.
+- **Output**: obsidian/concepts/interface-threshold.md -- Context: Cross-tier reciprocal integration for `concepts/interface-threshold.md`
 
 ### ✓ 2026-05-11: Cross-tier reciprocal integration for `concepts/selection-only-channel.md`
 - **Type**: cross-review

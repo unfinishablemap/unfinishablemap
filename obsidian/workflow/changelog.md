@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T19:11:00+00:00
+ai_modified: 2026-05-11T19:26:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 19:26 UTC - deep-review (cross-tier reciprocal integration)
+- **Status**: Success
+- **File**: [[concepts/interface-threshold]]
+- **Word count**: 2,164 → 2,383 (+219; 95% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0 (no prior deep review; current article well-calibrated and free of attribution/qualifier/slippage defects)
+- **Medium issues addressed**: 1 — cross-tier reciprocity gap: at creation, the concept page was linked inbound by four apex articles ([[apex/open-question-ai-consciousness]], [[apex/machine-question]], [[apex/interface-specification-programme]], [[apex/minds-without-words]]) but the concept did not reciprocate any of them in frontmatter, body prose, or Further Reading. Now reciprocated on all four: each appears in `related_articles`, in a natural in-prose pointer at its topical home in the article (cluster prediction → minds-without-words; AI passage → machine-question + open-question-ai-consciousness; Bidirectional Interaction tenet → interface-specification-programme), and in the Further Reading list with one-line role descriptions.
+- **Enhancements made**: 4 reciprocal links added (one per apex article); each link is placed at the section where the apex article does its specific work against the threshold (comparative-cognition cluster; AI conditional + four open possibilities; five control operations as suprathreshold-coupling expression). No content removed; article remains under soft threshold.
+- **Engagement-mode classifications**: no new named-opponent engagements introduced. Existing engagements audited and classified: gradual-amplification = Mode Two (unsupported-foundational-move; *why* should returns accelerate?); MWI = Mode Three (framework-boundary, honestly noted); eliminative-materialist + hard-nosed-physicalist = Mode Three (framework-boundary parity acknowledged under Dualism tenet). No boundary-substitution; no label leakage.
+- **Calibration-error audit**: no possibility/probability slippage — additions are structural-navigational and the article's evidential calibration ("the Map favours" not "is established") is preserved.
+- **Output**: [[reviews/deep-review-2026-05-11c-interface-threshold]]
 
 ## 2026-05-11 19:11 UTC - deep-review (cross-tier reciprocal integration)
 - **Status**: Success
