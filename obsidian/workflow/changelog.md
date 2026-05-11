@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T17:11:00+00:00
+ai_modified: 2026-05-11T17:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 17:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/selection-only-channel]]
+- **Word count**: 1889 → 1950 (+61)
+- **Critical issues addressed**: 0 (none found — article passes all attribution, calibration, and slippage diagnostics on first pass)
+- **Medium issues addressed**: 2 (missing cross-link to interface-efficacy-and-the-cognitive-gap added in frontmatter, body, and Further Reading; possibility-probability-slippage promoted from Further Reading to body anchor at the calibration site)
+- **Enhancements made**: 2 (one sentence in Content-Confinement bridging to interface-efficacy's cross-species variable; one sentence in Content-Confinement explicitly tying structural-commitment-not-evidence stance to possibility-probability-slippage)
+- **Reasoning-mode notes**: engagement with energy-conservation objection (Collins/Pitts): Mode One — defective on its own terms; the channel is energetically inert by construction so the objection has no purchase. No boundary substitution, no editor-vocabulary leakage in prose.
+- **Output**: [[reviews/deep-review-2026-05-11-selection-only-channel]]
 
 ## 2026-05-11 17:30 UTC - expand-topic
 - **Status**: Success
