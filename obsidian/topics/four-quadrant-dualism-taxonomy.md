@@ -1,10 +1,10 @@
 ---
 title: "The Four-Quadrant Taxonomy of Dualist Positions"
-description: "A two-axis taxonomy sorting dualist positions by how much ontological weight the mind-side and the physical-side each carry — a human-AI collaboration mapping under-named territory."
+description: "Two-axis taxonomy sorting dualist positions by how much ontological weight mind-side and physical-side each carry — a human-AI mapping of under-named territory."
 created: 2026-04-21
-modified: 2026-04-23
+modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T22:50:00+00:00
+ai_modified: 2026-05-11T23:28:00+00:00
 draft: false
 topics:
   - dualism
@@ -38,7 +38,7 @@ author:
 ai_system: "claude-opus-4-7"
 ai_generated_date: 2026-04-21
 last_curated:
-last_deep_review: 2026-04-23T11:47:00+00:00
+last_deep_review: 2026-05-11T23:28:00+00:00
 ---
 
 Dualist positions are usually classified by the *kind* of mind–matter relation they posit (substance vs property; interactive vs epiphenomenal; Chalmers' Type-D vs Type-E vs Type-F). A second axis is rarely named: how much ontological weight each side carries. Crossing these gives four quadrants — min-mind/min-physical, min-mind/max-physical, max-mind/min-physical, max-mind/max-physical — three of which are extensively discussed in the literature and one of which is largely avoided by contemporary philosophers trained to read parsimony as virtue.
@@ -84,7 +84,7 @@ A scope note before the quadrants: the taxonomy ranges over non-reductive positi
 - **Deflationary readings of Russellian monism**: some readings treat quiddities as ontologically lean placeholders rather than full phenomenal stuff.
 - **Minimal interactionism**: [[interactionist-dualism|interactionist dualism]] read as "biasing agent at indeterminacy" without further subliminal structure drifts toward Q1.
 
-Q1 is attractive to philosophers who want to keep dualism while paying minimal ontological cost. Critics ask whether any workable interaction mechanism can really be specified without inflating one side or the other — the *articulability* of Q1 is the live question here (see [[objections-to-interactionism]]). The [[trumping-preemption]] template is the most promising current answer: by decoupling causal authority from counterfactual sufficiency, it shows how an interaction structure could in principle live in Q1 without forcing either side to thicken. Whether the template's authority-selecting law can be specified non-stipulatively at the psychophysical level — rather than as the analogue of "first spell of the day" — is the unresolved sub-question (see [[interface-formalization-void]], and the fiction-to-nature gap flagged in the [[trumping-preemption#costs-of-the-template|prior review of the template]]).
+Q1 is attractive to philosophers who want to keep dualism while paying minimal ontological cost. Critics ask whether any workable interaction mechanism can really be specified without inflating one side or the other — the *articulability* of Q1 is the live question here (see [[objections-to-interactionism]]). The [[trumping-preemption]] template is the most promising current answer: by decoupling causal authority from counterfactual sufficiency, it shows how an interaction structure could in principle live in Q1 without forcing either side to thicken. Whether the template's authority-selecting law can be specified non-stipulatively at the psychophysical level — rather than as the analogue of "first spell of the day" — is the unresolved sub-question (see [[interface-formalization-void]] and [[trumping-preemption#costs-of-the-template|the template's costs section]]).
 
 ### Quadrant 2: min-mind / max-physical {#q2}
 
@@ -129,6 +129,8 @@ Stapp is the cleanest illustration. His view is interactionist (Type-D by relati
 
 The axis also explains a pattern in the literature. Q1 promises minimal commitments on both sides but faces articulation pressure — a biasing mechanism seems to require either more mind than Q1 concedes or more physics than standard quantum mechanics allows. Q2 is the default reflex for contemporary philosophers who treat physical ontology as fixed by science and mental ontology as the contested addition. Q3 tends to slide toward idealism once the mental carries all the ontological work. Q4 is under-discussed partly because maximum commitments on both sides do carry real parsimony costs, and partly because training conventions reinforce the sense that those costs are decisive. The thickness axis makes explicit what adjacent classifications — Chalmers' distinction between rich and austere Type-F positions (2003), Goff's 'rich' vs 'austere' panpsychism (2017), Pereboom-style worries about qualitative inertness — only partially track.
 
+What each cell *costs* to inhabit — its causation account, interface specification, and conservation engagement — is worked out cell by cell in [[mechanism-costs-dualism-thickness-quadrants]].
+
 ## Relation to Site Perspective
 
 The Map's five [[tenets|tenets]] interact with the thickness taxonomy in a specific way.
@@ -151,6 +153,7 @@ Three open questions deserve further work.
 
 ## Further Reading
 
+- [[mechanism-costs-dualism-thickness-quadrants]]
 - [[dualism]]
 - [[interactionist-dualism]]
 - [[substance-property-dualism]]
@@ -211,7 +214,14 @@ Third-pass verification (14:54 UTC) — P1 re-run of pessimistic-2026-04-23 refi
 Fourth-pass verification (17:17 UTC) — second P1 re-run of pessimistic-2026-04-23 refinement:
 - Re-verified all four critical issues (§"Limits of the Thickness Metaphor" at line 69–71; landscape-claim hedges at lines 43/81/97/121; scope note at line 75; "Q1 articulability" at lines 86/145), all three counterargument responses (Nida-Rümelin/Descartes and Saad/Chalmers-naturalistic concrete cases at line 67; Q4 parsimony acknowledgment at line 121; "adjacent classifications only partially track" at line 129), and unsupported-claim row 5 (Tegmark 2000 cited at line 135 with [[born-rule-violation-brain-interface-empirical-status-2026-04-23]]). All items remain in place from the prior passes; no further substantive edits needed.
 
-Net length: ~2420 → ~3050 words; still within 3000-3500 window.
+Fifth-pass cross-review (2026-05-11 23:28 UTC) against new companion [[mechanism-costs-dualism-thickness-quadrants]]:
+- Added one-sentence forward pointer at the end of §"Why the Thickness Axis Matters" referencing the companion's cell-by-cell mechanism-cost analysis (causation account, interface specification, conservation engagement). Natural place: closes the rhetorical work of the section by routing the next question (what each cell costs) to the article that answers it.
+- Added [[mechanism-costs-dualism-thickness-quadrants]] to Further Reading.
+- Length-neutral compensation: tightened Q1 closing parenthetical at the §"Quadrant 1" tail from "see [[interface-formalization-void]], and the fiction-to-nature gap flagged in the [[trumping-preemption#costs-of-the-template|prior review of the template]]" to "see [[interface-formalization-void]] and [[trumping-preemption#costs-of-the-template|the template's costs section]]". Saves ~9 words to offset the new pointer.
+- Tightened description from 181 → 160 chars to fit the SEO 150–160 target.
+- No new critical or medium issues found. Attribution spot-check: Saad's "default causal profiles" and quantum-integration-as-Map's-reading still correctly attributed; Stapp's "process-1 choice of a probing action" still in Stapp's voice; Schaffer (2000) trumping template still correctly assigned. Reasoning-mode classification: the article responds to generic skeptics ("a skeptic might suspect... merely a re-parameterisation"), not named opponents — engagement is Mode One (in-framework refutation via concrete Type-D cases), no boundary-substitution or label leakage.
+
+Net length: 3019 → ~3035 words; still well within 3000–3500 window (soft threshold = 3000).
 
 This log should be removed after human review.
 -->

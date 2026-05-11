@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 18:57:00+00:00
+ai_modified: 2026-05-11 23:12:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -64,6 +64,8 @@ Three features distinguish activity from property:
 **Activity is selective.** A property is exhaustively determined by the system's state; an activity chooses among options the state makes available. When attention shifts from the violin line to the rhythmic structure of a piece, the integrated experience changes without the brain's physical state changing in any way IIT's measure would register at the right grain. The selection is part of the experience, not separable from it.
 
 **Activity has a first-personal character.** A property has no "for whom" — it obtains without a perspective from which it obtains. Conscious experience is not like that: it is undergone by someone, presented to someone, integrated *for* someone. This first-personal character is a datum of consciousness, not a posit — it is what makes the question "what is it like to be X?" intelligible at all, and what every working theory of consciousness owes some account of. An activity has a place for that perspective: the perspective is what performs the act and is presented with its outcome. On the identity thesis, the perspective either reduces to some structural feature (and the question why *that* feature is the perspective from which experience occurs simply recurs) or is left as a brute aspect of the structure that the framework does not explain. The activity framing treats the first-personal character as the constitutive shape of integration rather than an extra feature to be appended: integration occurs *for* someone, and the for-someone is not separable from the integrating.
+
+A note on what is doing the work here. The grammatical surface of "integration *by* consciousness" suggests a performing subject, but grammar is an unreliable guide to ontology — "the sun rises" has subject-verb structure without the sun performing any rising. The case for a *conscious* subject performing integration rests on the first-personal datum just named and on the [dualist tenet](/tenets/#dualism), not on grammatical inference. The grammar is suggestive that the metaphysical reading is internally coherent; it is not the argument that the reading is true. Readers who reject Tenet 1 will, consistently, read the activity framing as a description of a process whose subject is the brain rather than a non-physical bearer; the Map's reading and that reading agree on the description-level claim and disagree at the framework boundary, where the disagreement is honestly noted rather than refuted within the opponent's framework.
 
 These features do not by themselves refute IIT. They mark where the two framings diverge and where the Map's commitments tilt toward activity. The argument that the divergence favours activity is developed in [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/); the present page is concerned with the distinction itself.
 

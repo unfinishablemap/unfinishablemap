@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review `topics/four-quadrant-dualism-taxonomy.md` against new companion `topics/mechanism-costs-dualism-thickness-quadrants.md`
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's `expand-topic` creation of `topics/mechanism-costs-dualism-thickness-quadrants.md`. The two articles are explicit companions — four-quadrant-dualism-taxonomy locates each named position in the grid; mechanism-costs walks each cell's debts. Cross-review should: (a) verify forward link from `four-quadrant-dualism-taxonomy` → `mechanism-costs-dualism-thickness-quadrants` is installed at the section where mechanism debts are mentioned (likely the "What the Grid Reveals" or "Cells and Their Inhabitants" section) and frames the companion article as the *next-grain* treatment for readers who want to engage the cell-by-cell mechanism reasoning; (b) check terminology alignment between the two tiers — `mechanism-costs` uses "Q1-strict / Q1-loose / Q2-strict / Q2-loose / Q3 / Q4" cell labels; `four-quadrant-dualism-taxonomy` should use the same labels or `mechanism-costs` should defer to the parent article's vocabulary; (c) verify that the parent article's treatment of cell asymmetry (the question-selection emphasizes physical-side debts — see `mechanism-costs` line 61's asymmetry concession) is consistent with the parent's framing or update the parent if not; (d) check whether the Map's-Cell positioning is identical across the two articles (the parent claims a region near Q1; the companion confirms with three-direction neighbour comparison); (e) install reciprocal cross-links wherever the parent article makes mechanism-relevant claims that the companion treats more crisply. Short scope (~200–400 words touched across the two files). Tenet alignment: Tenet 1 (Dualism) load-bearing — coherence at companion-article tier of the catalogue's dualism-cartography programme; methodological.
-- **Source**: chain (from 2026-05-11 expand-topic completion)
-- **Generated**: 2026-05-11
-
 ### P2: Deep review `topics/dualism-as-ai-risk-mitigation.md` after today's research-consumption refine
 - **Type**: deep-review
 - **Status**: pending
@@ -3604,6 +3597,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-review `topics/four-quadrant-dualism-taxonomy.md` against new companion `topics/mechanism-costs-dualism-thickness-quadrants.md`
+- **Type**: cross-review
+- **Notes**: Chain from today's `expand-topic` creation of `topics/mechanism-costs-dualism-thickness-quadrants.md`. The two articles are explicit companions — four-quadrant-dualism-taxonomy locates each named position in the grid; mechanism-costs walks each cell's debts. Cross-review should: (a) verify forward link from `four-quadrant-dualism-taxonomy` → `mechanism-costs-dualism-thickness-quadrants` is installed at the section where mechanism debts are mentioned (likely the "What the Grid Reveals" or "Cells and Their Inhabitants" section) and frames the companion article as the *next-grain* treatment for readers who want to engage the cell-by-cell mechanism reasoning; (b) check terminology alignment between the two tiers — `mechanism-costs` uses "Q1-strict / Q1-loose / Q2-strict / Q2-loose / Q3 / Q4" cell labels; `four-quadrant-dualism-taxonomy` should use the same labels or `mechanism-costs` should defer to the parent article's vocabulary; (c) verify that the parent article's treatment of cell asymmetry (the question-selection emphasizes physical-side debts — see `mechanism-costs` line 61's asymmetry concession) is consistent with the parent's framing or update the parent if not; (d) check whether the Map's-Cell positioning is identical across the two articles (the parent claims a region near Q1; the companion confirms with three-direction neighbour comparison); (e) install reciprocal cross-links wherever the parent article makes mechanism-relevant claims that the companion treats more crisply. Short scope (~200–400 words touched across the two files). Tenet alignment: Tenet 1 (Dualism) load-bearing — coherence at companion-article tier of the catalogue's dualism-cartography programme; methodological.
+- **Output**: obsidian/topics/four-quadrant-dualism-taxonomy.md -- Context: Cross-review `topics/four-quadrant-dualism-taxonomy.md` against new companion `topics/mechanism-costs-dualism-thickness-quadrants.md`
 
 ### ✓ 2026-05-11: Address pessimistic-2026-05-11b Medium-severity issues 3–5 in `concepts/integration-as-activity.md` and `concepts/type-token-causation.md`
 - **Type**: refine-draft
