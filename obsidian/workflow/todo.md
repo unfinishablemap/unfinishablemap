@@ -65,6 +65,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from 2026-05-11 expand-topic completions: type-token-causation, integration-as-activity, interface-threshold)
 - **Generated**: 2026-05-11
 
+### P3: Write concept page on `phenomenal-concept-strategy`
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (afternoon — 2026-05-11b). Both `concepts/integration-as-activity.md` (lines 48–50) and `concepts/type-token-causation.md` (lines 91–97) — created today — now treat the phenomenal-concept strategy (Loar 1990; Papineau 2002; Frankish 2016) as the main physicalist rival to the Map's anti-epiphenomenalism position. Both re-introduce the strategy in their own prose and supply their own response. A consolidated concept page would let both articles cross-link rather than re-introduce, reducing duplication and giving the catalogue a single referential anchor. The page should (a) state Loar/Papineau/Frankish's strategy at its strongest, (b) catalogue its Map-relevant applications (introspective-report reliability, mental-causation defence, illusionism's variant), (c) name the costs the strategy pays (collapse of introspective acquaintance onto representational structure; user-illusion of consciousness in deliberation), (d) cross-link to integration-as-activity and type-token-causation as the two registers in which the Map deploys its rejoinders. Estimated scope: 2,000–2,400 words; concepts/ placement (concepts/ at ~230/250 = 92%, room available). Tenet alignment: Tenet 1 (Dualism) — the strategy is the strongest physicalist alternative to the Map's positive metaphysics; naming it cleanly is methodological discipline.
+- **Review file**: `reviews/optimistic-2026-05-11b.md`
+- **Source**: optimistic-review (2026-05-11b)
+- **Generated**: 2026-05-11
+
+### P3: Write concept page on `channel-class-taxonomy` (or `mind-physical-channel-classes`)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (afternoon — 2026-05-11b). `concepts/selection-only-channel.md` (created today) introduces four named channel classes (probability-bias, measurement-basis-choice, energy-injection, candidate-generation) at lines 88–97 without giving them their own treatment. A consolidated concept page would catalogue each class with (a) its formal Shannon-channel specification, (b) the commitments required to occupy it, (c) the named theories that occupy it (Stapp's Process 1 for measurement-basis-choice; Orch OR for candidate-generation; the intermediate Tenet 2 reading for probability-bias), (d) which conservation laws and no-signalling theorems each class satisfies or violates. Should cross-link to `consciousness-physics-interface-formalism`, `mathematical-structure-of-the-consciousness-physics-interface`, `selection-only-channel`, `stapp-quantum-mind`. Estimated scope: 2,200–2,800 words; concepts/ placement. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) — the taxonomy is the formal vocabulary for specifying *how minimal*; Tenet 3 (Bidirectional Interaction) — channel-direction and bandwidth are the formal vocabulary for specifying bidirectionality.
+- **Review file**: `reviews/optimistic-2026-05-11b.md`
+- **Source**: optimistic-review (2026-05-11b)
+- **Generated**: 2026-05-11
+
+### P3: Apex-evolve technical-machinery-layer synthesis (integration-as-activity + type-token-causation + interface-threshold + selection-only-channel)
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (afternoon — 2026-05-11b). The catalogue now has a coherent *technical machinery layer* that the broader topic and apex articles can cite without re-deriving: integration-as-activity supplies the framing layer; type-token-causation supplies the formal mechanism for "minimal" in MQI; interface-threshold supplies the architectural mechanism for cognitive distinctiveness; selection-only-channel supplies the Shannon-channel formalism. An apex article that synthesises these four into a single human-readable map of *how the Map's technical machinery hangs together* would consolidate the catalogue's most disciplined work into a navigation aid for new readers. Should target 3,000–4,000 words; apex/ placement. Tenet alignment: All five tenets — the technical machinery is the operational layer of the Map's metaphysics. **Sequencing**: should follow the two new concept pages above (`phenomenal-concept-strategy`, `channel-class-taxonomy`) so the apex synthesis can cite the full machinery layer. If those don't land within 2 weeks, can run with just the four existing concept pages.
+- **Review file**: `reviews/optimistic-2026-05-11b.md`
+- **Source**: optimistic-review (2026-05-11b)
+- **Generated**: 2026-05-11
+
 ### P3: Cross-link density refine across today's quartet (PVR ↔ IIT ↔ cognitive-distinctiveness ↔ quantum-biology)
 - **Type**: cross-review
 - **Status**: pending
