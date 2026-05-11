@@ -1,13 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 22:27:00+00:00
+ai_modified: 2026-05-11 22:50:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-11 22:50 UTC - deep-review (cross-tier reciprocal integration pass)
+- **Status**: Success
+- **File**: [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/)
+- **Word count**: 2863 → 2863 (no body changes; reciprocal-link integration only)
+- **Pass type**: Second deep-review pass on the same article (first pass at 22:12 UTC handled internal attribution issues; this pass addressed the cross-tier reciprocal integration context).
+- **Critical issues addressed**: 0 (article internally clean from 22:12 pass)
+- **Medium issues addressed**: 0
+- **Cross-tier reciprocal links added** (5 companion articles, spanning 3 content tiers):
+  - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — direct companion. Lack of reciprocal back-link from the taxonomy to its mechanism-costs sequel was the clearest gap. Added at top of related_articles list.
+  - [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) — mechanism-costs explicitly clarifies what the parsimony argument is doing in mechanism-cost terms ("paying the *least mechanism cost compatible with the tenets*"). Added both `mechanism-costs-dualism-thickness-quadrants` and `four-quadrant-dualism-taxonomy` since the parsimony piece lacked both.
+  - [the-interface-problem](/topics/the-interface-problem/) — mechanism-costs unpacks the interface-specification debt cell-by-cell. Added reciprocal link.
+  - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — mechanism-costs unpacks the conservation-engagement debt cell-by-cell. Added both companion links (mechanism-costs and four-quadrant taxonomy).
+  - [interface-formalization-void](/voids/interface-formalization-void/) — mechanism-costs flags this void as Q1's "live open problem" — the articulability burden. Added both companion links.
+- **Deferred** (genuinely connected but lower priority): `concepts/delegatory-causation` (already links to four-quadrant taxonomy; related_articles list already long); `concepts/trumping-preemption`; `topics/delegatory-dualism`. Future integration passes can address these.
+- **Engagement modes**: unchanged from 22:12 pass — no new named-opponent engagements introduced.
+- **Output**: addendum appended to existing [deep-review-2026-05-11-mechanism-costs-dualism-thickness-quadrants](/reviews/deep-review-2026-05-11-mechanism-costs-dualism-thickness-quadrants/)
 
 ## 2026-05-11 22:27 UTC - refine-draft
 - **Status**: Success

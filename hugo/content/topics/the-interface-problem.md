@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-05-09 06:43:00+00:00
+ai_modified: 2026-05-11 22:50:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -48,6 +48,7 @@ related_articles:
 - '[[framework-stage-calibration]]'
 - '[[interface-efficacy-and-the-cognitive-gap]]'
 - '[[empirical-phenomena-mental-causation]]'
+- '[[mechanism-costs-dualism-thickness-quadrants]]'
 title: 'The Interface Problem: Location and Specification'
 topics:
 - '[[hard-problem-of-consciousness]]'

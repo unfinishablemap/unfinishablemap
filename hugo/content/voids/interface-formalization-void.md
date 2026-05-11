@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-05-11 22:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,6 +30,8 @@ related_articles:
 - '[[formal-cognitive-limits]]'
 - '[[mathematical-structure-of-the-consciousness-physics-interface]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
+- '[[mechanism-costs-dualism-thickness-quadrants]]'
+- '[[four-quadrant-dualism-taxonomy]]'
 title: The Interface Formalization Void
 topics:
 - '[[hard-problem-of-consciousness]]'
