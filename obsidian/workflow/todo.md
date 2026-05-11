@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/suspension-void.md considering decision-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-05-10 expand-topic of `voids/decision-void.md`. Decision-void's *closure* face (lines 56–60) explicitly cites suspension-void's verification face as structurally akin: "the very act consciousness wants to inspect collapses under inspection." Suspension-void does not currently reciprocate (grep verified 2026-05-11 — zero `decision-void` references in `obsidian/voids/suspension-void.md`). Cross-review should (a) install ~150–250 words in suspension-void naming decision-void as the conjoined exhibit at the deliberation→commitment crossing — the suspension-of-judgment self-defeat and the deliberation-closure self-defeat are two deployments of the same architectural pattern (the act collapses what it tries to inspect); (b) verify the discrimination is correctly framed — suspension-void should NOT absorb decision-void's territory (suspension is the act of *withholding* judgment; decision is the *crossing* into a sealed verdict; the self-defeat structure is shared, the targeted act is distinct); (c) reciprocate in `related_articles` and Further Reading; (d) audit whether the existing P3 follow-up task on suspension-void's Wegner integration (line 225 of todo.md) should now be sequenced after this cross-link so the two refinements compose rather than conflict; (e) preserve length band; (f) audit for "This is not X. It is Y." cliché violations. Short scope (~150–250 words touched). Tenet alignment: Tenet 3 (Bidirectional Interaction) — both voids exhibit asymmetric failure of intention-to-propagate at the inspection-point of the targeted act; methodological.
-- **Source**: chain (from decision-void expand-topic 2026-05-10)
-- **Generated**: 2026-05-11
-
 ### P2: Cross-review voids/source-attribution-void.md considering decision-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3514,6 +3507,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-review voids/suspension-void.md considering decision-void insights
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-05-10 expand-topic of `voids/decision-void.md`. Decision-void's *closure* face (lines 56–60) explicitly cites suspension-void's verification face as structurally akin: "the very act consciousness wants to inspect collapses under inspection." Suspension-void does not currently reciprocate (grep verified 2026-05-11 — zero `decision-void` references in `obsidian/voids/suspension-void.md`). Cross-review should (a) install ~150–250 words in suspension-void naming decision-void as the conjoined exhibit at the deliberation→commitment crossing — the suspension-of-judgment self-defeat and the deliberation-closure self-defeat are two deployments of the same architectural pattern (the act collapses what it tries to inspect); (b) verify the discrimination is correctly framed — suspension-void should NOT absorb decision-void's territory (suspension is the act of *withholding* judgment; decision is the *crossing* into a sealed verdict; the self-defeat structure is shared, the targeted act is distinct); (c) reciprocate in `related_articles` and Further Reading; (d) audit whether the existing P3 follow-up task on suspension-void's Wegner integration (line 225 of todo.md) should now be sequenced after this cross-link so the two refinements compose rather than conflict; (e) preserve length band; (f) audit for "This is not X. It is Y." cliché violations. Short scope (~150–250 words touched). Tenet alignment: Tenet 3 (Bidirectional Interaction) — both voids exhibit asymmetric failure of intention-to-propagate at the inspection-point of the targeted act; methodological.
+- **Output**: obsidian/voids/suspension-void.md -- Context: Cross-review voids/suspension-void.md considering decision-void insights
 
 ### ✓ 2026-05-11: Cross-review voids/agency-void.md considering decision-void.md insights
 - **Type**: cross-review

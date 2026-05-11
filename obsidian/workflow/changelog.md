@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T00:05:00+00:00
+ai_modified: 2026-05-11T00:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 00:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/suspension-void]]
+- **Context**: Cross-review chained from 2026-05-10 expand-topic of [[decision-void]]. Decision-void already linked to suspension-void in three places (related_articles, closure-face parallel, regress-sister trio with inference-void), but suspension-void had no reciprocal cross-link. Cross-review installs reciprocal navigation and adopts decision-void's "regress-sister" framing into suspension-void's Action face.
+- **Word count**: 2833 → 2896 (+63; 142% → 145% of 2000 soft threshold; well under 3000 hard; soft_warning preserved)
+- **Critical issues addressed**: 1 (missing reciprocal cross-link to [[decision-void]] across body / related_articles / Further Reading)
+- **Medium issues addressed**: 1 (Action face's inference-void reference recast into three-way regress-sister framing — suspension, inference, decision — using decision-void's vocabulary at decision-void.md:86)
+- **Enhancements made**: 2 (verification-face section now explicitly identifies decision-void's closure face as the same architecture applied to deliberation→commitment moment; Further Reading entry for decision-void)
+- **Reasoning-mode classification**: Existing engagements preserved without modification. Eliminative materialist on suspension-as-folk-reification: Mode One — NFC factor-analytic decomposition is in-framework concession that decomposes the unitary capacity along eliminativist-friendly lines, preserving conjunction-coalesce unity. MWI defender on indexical singularity: Mode Three — explicitly bedrock; weaker defensible claim stated. Empiricist falsifiability worry: empirical-anchoring section gestures (deferred dedicated section). No label leakage. No editor-vocabulary in body.
+- **Attribution accuracy**: Sextus, Husserl, Heidegger, Keats attribution corrections from 2026-04-28 intact; no drift.
+- **Bedrock no-flags honoured** (from prior stability notes): MWI defender response, eliminativist disunity objection, cross-tradition convergence as structural-not-ontological, reciprocity with [[agency-void]] and [[meta-epistemology-of-limits]] as resolved.
+- **Output**: [[reviews/deep-review-2026-05-11-suspension-void]]
 
 ## 2026-05-11 00:05 UTC - deep-review
 - **Status**: Success
