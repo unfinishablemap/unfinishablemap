@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T07:00:00+00:00
+ai_modified: 2026-05-11T08:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 08:30 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-11
+- **Coverage**: 3/3 reviewers processed (chatgpt-5-5-pro, claude-opus-4-7, gemini-2-5-pro)
+- **Clusters**: 4 convergent + 1 carry-over (No-MWI-bedrock absorbed by prior cycle's P1), 9 singleton, 0 explicit divergences
+- **Convergent findings**:
+  1. Tenets-page MQI overstates quantum-biology evidence; Post-Decoherence apex not surfaced as the developed Map position (chatgpt + claude) — P2→P1, deduplicated
+  2. Voids catalogue evidential discount needed (circularity / common-cause-null) (chatgpt + claude) — P2→P1, deduplicated
+  3. Bidirectional Interaction tenet overstates directness vs Agency Void (chatgpt + claude) — already P1, annotated
+  4. Occam's Razor applied asymmetrically (Tenet 5 vs No-MWI parsimony) (chatgpt + claude) — already P1, annotated
+- **Tasks upgraded**: 2 (P2→P1: 2; P2→P1 ceiling reached for already-P1 tasks)
+- **Tasks deduplicated**: 2 (4 per-reviewer tasks → 2 merged tasks)
+- **Meta-finding**: Gemini's same-cycle Deep Research review surfaced zero structural critiques and instantiates rather than diagnoses the coherence-inflation pattern Claude flagged (repeats Hagan-Tegmark settled-where-contested approvingly; reads apex coherence as virtue rather than method-artifact). Gemini-calibration singleton task retained at P3.
+- **Output**: [[reviews/outer-review-synthesis-2026-05-11]]
 
 ## 2026-05-11 07:00 UTC - outer-review
 - **Status**: Success (with methodological caveat)
