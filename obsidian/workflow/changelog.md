@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T15:20:00+00:00
+ai_modified: 2026-05-11T15:26:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 15:26 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/integration-as-activity]] (1,947 words) and [[concepts/type-token-causation]] (2,081 words), both created today by `expand-topic` and not yet pessimistically reviewed. Cover both concept pages since they are tightly coupled (each cites the other) and load-bearing for the wider catalogue.
+- **Output**: [[reviews/pessimistic-2026-05-11b]]
+- **Key findings**: Two High-severity issues — (1) Bohmian counter-example absent from type-token-causation's central premise at line 68 ("under any non-Many-Worlds interpretation, this is false") — Bohmian mechanics is non-MWI and deterministic at the token grain, so the framing is overstated; (2) phenomenal-concept strategy (Frankish/Papineau/Loar) unengaged in both pages despite both being load-bearing for the Map's anti-epiphenomenalism case. Three Medium-severity issues: integration-as-activity's "convergence" claim oversells what RPT/GWT/PP actually commit to at the metaphysical level; the detection-problem section's "partial responses" frame doesn't face direct unfalsifiability; "Activity admits a subject" sub-bullet inflates grammar to metaphysics. Plus three Low-severity polish items (smoking-cancer example misstated, Davidson 1970 citation selective re anomalous monism, line-number citations fragile).
+- **Tasks added**: Two P2 refine-draft tasks for the two concept pages addressing High and Medium issues.
 
 ## 2026-05-11 15:12 UTC - expand-topic
 - **Status**: Success
