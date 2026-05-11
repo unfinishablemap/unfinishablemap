@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T21:20:00+00:00
+ai_modified: 2026-05-11T21:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 21:27 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/wholeheartedness-void]] — 2,315 words, created today by `expand-topic` at 17:30 UTC; deep-reviewed once today (19:43 UTC, cross-tier reciprocity pass with no critical issues found). This is the article's first pessimistic-review pass. Voids/ at-cap (~105/100), so latent defects compound across the agency-family cluster (decision-void, suspension-void, agency-void, interested-party-void).
+- **Findings**: 3 High-severity (conjunction-claim asserted not argued; falsifiability cost unconceded; Buddhist *anātman* engagement not defensibly deferrable — the deep-review deferred on length grounds but *anātman* denies the substantial self the void presupposes, making it structural rather than supplementary), 2 Medium-severity (Watson/Velleman/Bratman conflated as "different vocabularies" — Bratman's planning theory is a positive constructive account not a vocabulary-translation; AI-asymmetry section claims to know the AI "lacks the lived seam" while the void thesis is that consciousness cannot verify the seam from inside), 1 Low-severity hygiene (two dead references — Hagger 2016, SEP Self-Deception — in reference list but not cited in body). Plus four language tightenings, three additional counterarguments to address (decision-theoretic operationalism's reply; Frankfurt late-position defender's reply; Sartrean bad-faith strong-reading contestation), and four unsupported-claim flags requiring sourcing or interpretive-load marking.
+- **Action**: Added P2 refine-draft task to `obsidian/workflow/todo.md` to address all six findings (estimated ~250–400 words touched; article currently at 110% of voids soft threshold so anātman addition is largest add and is offsettable against the Watson/Velleman/Bratman conflation paragraph if unpacked).
+- **Output**: [[reviews/pessimistic-2026-05-11c]]
 
 ## 2026-05-11 21:20 UTC - deep-review
 - **Status**: Success
