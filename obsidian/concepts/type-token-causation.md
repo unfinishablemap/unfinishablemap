@@ -4,7 +4,8 @@ description: "Type-token causation distinguishes statistical type-level effects 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T15:41:00+00:00
+ai_modified: 2026-05-11T16:11:00+00:00
+last_deep_review: 2026-05-11T16:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +54,7 @@ Kim acknowledged that his argument generalises uncomfortably. If physical micro-
 
 ## The Type-Token Distinction
 
-The distinction between types and tokens is a standard piece of conceptual machinery from C.S. Peirce, applied to causation by — among others — Donald Davidson and later Cynthia and Graham Macdonald and Stephen Yablo. (Davidson's own use of the distinction in *Mental Events* supported anomalous monism, a token-identity physicalism; the inheritance here is conceptual rather than doctrinal, and the present interactionist reading is not Davidson's own.) A *type* is a repeatable kind; a *token* is a particular dated instance. The word "the" appearing twice in a sentence is two tokens of one type.
+The distinction between types and tokens is a standard piece of conceptual machinery from C.S. Peirce, applied to causation by Donald Davidson, the Macdonalds, and Stephen Yablo. (Davidson's own use supported anomalous monism — a token-identity physicalism — not the interactionist reading here; the inheritance is conceptual.) A *type* is a repeatable kind; a *token* is a particular dated instance. The word "the" appearing twice in a sentence is two tokens of one type.
 
 Applied to causation:
 
@@ -105,7 +106,7 @@ Several articles already lean on type-token causation in load-bearing ways:
 
 [[topics/consciousness-and-cognitive-distinctiveness]] uses it (in the "Intelligence Threshold" section's discussion of the interface-threshold model) to frame what the threshold delivers: above it, consciousness is rich enough to select among neural patterns at the token level, which is what enables the cluster of distinctively human capacities. The threshold is not type-level efficacy appearing; it is token-level efficacy becoming functionally consequential.
 
-The distinction also underwrites [[haecceity|indexical identity]]: that *this* outcome occurs, that *this* experience is mine, that *this* token actualises rather than any other Born-permitted alternative. The Map's rejection of Many-Worlds is largely the demand that token outcomes be metaphysically real — that the question "why *this* one?" have an answer.
+The distinction also underwrites [[haecceity|indexical identity]]: that *this* outcome occurs, that *this* experience is mine, that *this* token actualises rather than any other Born-permitted alternative. The Map's rejection of Many-Worlds is the demand for *indexical singularity* — that *this* outcome occurs and that the others do not — rather than the ontological demand that token outcomes exist somewhere. MWI delivers the ontological version (each outcome is real in some branch) but on the Map's view fails the indexical version; whether MWI's branch-counting Bayesianism (Sebens-Carroll, Saunders-Wallace) recovers the indexical resources is treated in [[probability-objections-many-worlds]].
 
 ## The Detection Problem
 
@@ -131,7 +132,7 @@ Type-token causation operationalises two tenets without overcommitting on either
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Bidirectional causation is real at the token grain. Consciousness influences which particular outcomes occur, and the resulting outcomes shape the brain states that subsequent experiences arise from. The bidirectionality is not paradoxical because the two directions operate at compatible grains: physical states fix type-level constraints; conscious selection fixes token outcomes within those constraints.
 
-The combination is what makes the Map's framework *parsimonious without being deflationary*. Mental causation is metaphysically real (against [[concepts/epiphenomenalism|epiphenomenalism]]); physics is structurally complete (against magic); and the apparent conflict between these dissolves once the type-token distinction is in hand.
+The combination is what makes the Map's framework *minimal in the technical sense Tenet 2 specifies* without being deflationary: mental causation is metaphysically real (against [[concepts/epiphenomenalism|epiphenomenalism]]); physics is structurally complete (against magic); and the apparent conflict between these dissolves once the type-token distinction is in hand. The minimality claim is technical, not a parsimony argument — Tenet 5 ([[tenets#^occams-razor-limits|Occam's Razor Has Limits]]) is the Map's own brake on leaning on parsimony at this level.
 
 ## Further Reading
 
@@ -162,18 +163,4 @@ The combination is what makes the Map's framework *parsimonious without being de
 1. Yablo, S. (1992). Mental causation. *Philosophical Review*, 101, 245–280.
 1. Southgate, A. &amp; Oquatre-six, C. (2026-01-15). Mental Causation and Downward Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation-and-downward-causation/
 1. Southgate, A. &amp; Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
-
-<!-- AI REFINEMENT LOG - 2026-05-11
-Addressed pessimistic-2026-05-11b Issues 1, 2, 4, 6, 7, 9:
-- Issue 1 (High): Added Bohmian pilot-wave caveat after the quantum-indeterminacy claim, bracketing Bohm via the epistemic-accessibility move and flagging the conditional structure of the argument.
-- Issue 2 (High): Added new section "The Phenomenal-Concept Alternative" between "What Type-Token Causation Buys" and "The Distinction Deployed Across the Map", acknowledging Loar/Papineau/Frankish as a type-level defence and stating the Map's two reasons for preferring the type-token route (covers behaviour as well as reports; takes introspective testimony at face value rather than as user-illusion).
-- Issue 4 (Medium): Added explicit unfalsifiability acknowledgment to "The Detection Problem" — the central claim is unfalsifiable by direct observation by construction; falsifiability comes entirely from supporting empirical commitments.
-- Issue 6 (Low): Rewrote smoking-cancer example so it no longer implies smoking causally affects the non-developer.
-- Issue 7 (Low): Added parenthetical noting Davidson's actual position (anomalous monism, token-identity physicalism) so the citation does not appear to misappropriate him.
-- Issue 9 (Low): Replaced "lines 67–81 of that article" with the named "Does Quantum Selection Escape This Charge?" section; tightened the cognitive-distinctiveness reference to the "Intelligence Threshold" section's interface-threshold discussion.
-- Added references: Frankish 2016, Loar 1990, Papineau 2002.
-- Updated ai_modified timestamp.
-
-This log should be removed after human review.
--->
 

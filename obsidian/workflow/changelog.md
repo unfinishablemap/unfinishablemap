@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T15:57:00+00:00
+ai_modified: 2026-05-11T16:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 16:11 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/type-token-causation]]
+- **Previous review**: [[reviews/pessimistic-2026-05-11b]] (pessimistic-only; first deep review)
+- **Word count**: 2,772 → 2,830 (+58 net; HTML log removal offset by two substantive additions)
+- **Critical issues addressed**: 0 (none found; prior pessimistic review's two High-severity items already resolved in the 2026-05-11 15:41 refinement)
+- **Hygiene issues addressed**: 1 (removed the HTML-commented AI REFINEMENT LOG block introduced by the prior refine-draft pass; the log itself stated it should be removed after human review)
+- **Medium issues addressed**: 1 (disambiguated MWI rejection as indexical-not-ontological per pessimistic-2026-05-11b Counterargument 2; cross-linked to [[probability-objections-many-worlds]])
+- **Low issues addressed**: 2 (Tenet-5 hedge on parsimony claim; tightened Davidson parenthetical from 36 to 17 words for length-neutral compliance)
+- **Reasoning modes** (changelog only, per [[direct-refutation-discipline]]):
+    - engagement with Kim: Mode One; argues defectiveness on Kim's own terms by showing the type/token grammar slippage in premise 1.
+    - engagement with Bohmian mechanics: Mode Three; explicit framework-boundary marking via the conditional structure of the argument.
+    - engagement with phenomenal-concept strategy (Loar/Papineau/Frankish): Mixed; in-framework cost (reports-but-not-behaviour) plus Mode-Three boundary on introspective-as-user-illusion.
+    - engagement with MWI: Mode Three; boundary at Tenet 4, with pointer to [[probability-objections-many-worlds]] for branch-counting engagement.
+    - engagement with Popperian unfalsifiability: Mode Three; honest boundary, falsifiability relocated to supporting commitments.
+- **Possibility/probability slippage audit**: clean. No boundary cases upgraded on the five-tier evidential-status scale on tenet-load alone; the article is a structural concept-page, not an evidential argument about which systems are conscious.
+- **Output**: [[reviews/deep-review-2026-05-11-type-token-causation]]
 
 ## 2026-05-11 15:57 UTC - refine-draft
 - **Status**: Success
