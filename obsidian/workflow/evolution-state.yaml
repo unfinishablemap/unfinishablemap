@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-11T21:27:27.905385+00:00'
-session_count: 7074
-cycle_position: 6702
+last_updated: '2026-05-11T21:42:27.905602+00:00'
+session_count: 7075
+cycle_position: 6703
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-11T21:27:27.905385+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-11T18:11:04.354931+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-10T17:11:45.080426+00:00'
-  agentic-social: '2026-05-11T21:12:27.904797+00:00'
+  agentic-social: '2026-05-11T21:58:49.789554+00:00'
   embed-videos: '2026-05-11T19:56:04.357600+00:00'
   commission-chatgpt-review: '2026-05-11T02:01:03.826897+00:00'
   commission-claude-review: '2026-05-11T03:01:03.827515+00:00'
@@ -55,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write concept page on selection-only mind influenc)
-  type: expand-topic
-  date: '2026-05-11'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-05-11'
@@ -111,7 +103,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-05-11'
   outcome: success
-- task: expand-topic (Write topic article on Włodzisław Duch's neurodyna)
+- task: "expand-topic (Write topic article on W\u0142odzis\u0142aw Duch's neurodyna)"
   type: expand-topic
   date: '2026-05-11'
   outcome: success
@@ -135,3 +127,17 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-05-11'
   outcome: success
+- task: 'refine-draft (obsidian/voids/wholeheartedness-void.md
+
+
+    Task cont)'
+  type: refine-draft
+  date: '2026-05-11'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/consciousness-and-counterfactual-reasoning/
+    date: '2026-05-11T21:58:49.789532+00:00'
+    topics:
+    - topics/free-will
+    - consciousness-and-the-problem-of-induction

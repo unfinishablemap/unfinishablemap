@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T21:42:00+00:00
+ai_modified: 2026-05-11T22:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 21:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: min/max dualism taxonomy (mind-side × physical-side thickness)
+- **Output**: [[topics/mechanism-costs-dualism-thickness-quadrants]]
+- **Word count**: 2854 (within topics/ soft max 3000)
+- **Based on research**: yes — [[research/min-max-dualism-taxonomy-2026-04-21]]
+- **Scope decision**: the source research had already been substantially consumed by [[topics/four-quadrant-dualism-taxonomy]] (2026-04-21), which covers prongs (a)–(c) of the task brief (axes, named-position population, Map location). This article fills prong (d) — cataloguing per-cell mechanism cost on three questions (causation account, interface specification, conservation engagement) — which the existing taxonomy article only touches in passing. Treated as a complementary sister article rather than a redundant rewrite. Cross-links to the four-quadrant article in the lede and explicitly defers axis-definition to it.
+- **Direct-refutation-discipline compliance**: closing §"Relation to Site Perspective" makes explicit that the article does not argue any cell is wrong — it catalogues cell-specific debts and lets the Map's tenets adjudicate which debts are forbidden. In-framework cartography per the task brief's prong (e).
 
 ## 2026-05-11 21:42 UTC - refine-draft
 - **Status**: Success
