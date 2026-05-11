@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T23:28:00+00:00
+ai_modified: 2026-05-11T23:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 23:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/causal-closure]]
+- **Word count**: 3210 → 3240 (+30; soft threshold 2500, length-neutral mode honoured by offsetting load-bearing accuracy additions against style-cliché rephrasings and removal of stale AI refinement log)
+- **Critical issues addressed**: 0 (tenth review; article has converged since 2026-02-15; calibration discipline of mechanism-gap / Born-rule-challenge / epiphenomenalism-worry subsections intact)
+- **Medium issues addressed**: 2 — (1) pilot-wave indexical claim qualified from settled assertion to acknowledged contest; the Map's case against hidden variables now correctly rests on parsimony rather than on Deutsch/Wallace's contested empty-wave-packet argument; (2) "entire causal closure debate presupposes collapse interpretations" narrowed to "the Map's quantum case against universal closure presupposes collapse" — closure holds trivially under MWI's deterministic universal Schrödinger evolution, and the historical debate predates QM.
+- **Low issues addressed**: 2 — three "not X but Y" style-cliché passages rephrased per writing-style guide ("Causal closure functions as a methodological assumption rather than an empirical finding"; "The rejection rests on three principled grounds"; "Unlike 'god of the gaps' reasoning, the gap here is one physics describes"); stale AI REFINEMENT LOG block (dated 2026-03-21, marked "should be removed after human review") removed.
+- **Engagement-mode classification (editor-internal, not in prose)**: engagement with Kim's exclusion = Mode One (generalisation problem internal-to-Kim); engagement with Montero's completeness = Mode One (Hempel's dilemma internal-to-Montero); engagement with hidden-variable theorists = Mode Two (parsimony invoked as framework-shared standard; indexical question now correctly declared contested); engagement with MWI defenders = Mode Three (boundary marking via Tenet 4, honestly noted); engagement with reliabilists = Mode One (truth-tracking commitment used internally); engagement with epiphenomenalism = Mode One (self-stultification internal to belief-justification). No label leakage; no boundary substitution.
+- **Attribution spot-check**: Kim, Montero, Saad (2025), Buhler (2020), Stapp, O'Connor/Wong, Lewis/Plantinga, Kane, Popper — all re-verified. Deutsch/Wallace pilot-wave reference verified accurate at "empty wave packets host parallel observers" level.
+- **Output**: [[reviews/deep-review-2026-05-11-causal-closure]]
 
 ## 2026-05-11 23:28 UTC - deep-review
 - **Status**: Success

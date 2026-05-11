@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 23:12:00+00:00
+ai_modified: 2026-05-11 23:28:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-11 23:28 UTC - deep-review
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Cross-review trigger**: integration with new companion [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/)
+- **Word count**: 3019 → 3038 (+19 words; topics soft threshold 3000; length-neutral mode honoured by tightening Q1 closing parenthetical to offset new pointer)
+- **Critical issues addressed**: 0 (article stable across three reviews; previous review predicted this outcome)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 — (1) forward pointer at end of §"Why the Thickness Axis Matters" to companion's cell-by-cell mechanism-cost analysis; (2) companion added to Further Reading; (3) description tightened from 181 → 160 chars (SEO target).
+- **Engagement-mode classification (editor-internal, not in prose)**: re-parameterisation skeptic engagement = Mode One (in-framework refutation via concrete Type-D cases pulling apart on thickness); Q1 articulability worry = Mode One with Mode Three residue (load-bearing requirement named in literature's vocabulary; residue honestly marked as unresolved sub-question).
+- **Attribution spot-check**: Saad's "default causal profiles", Stapp's "process-1 choice", Schaffer (2000) trumping template, Tegmark (2000) decoherence challenge — all still correctly attributed; no drift.
+- **Output**: [deep-review-2026-05-11-four-quadrant-dualism-taxonomy](/reviews/deep-review-2026-05-11-four-quadrant-dualism-taxonomy/)
 
 ## 2026-05-11 23:12 UTC - refine-draft
 - **Status**: Success
