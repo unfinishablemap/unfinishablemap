@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T20:27:00+00:00
+ai_modified: 2026-05-11T20:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 20:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/duch-neurodynamic-theory-of-mind]]
+- **Word count**: 2273 → 2419 (+146)
+- **Previous review**: Never (article created 2026-05-11 in the immediately preceding cycle)
+- **Critical issues addressed**: 0 (none found — source-attribution check clean across misattribution, dropped-qualifier, position-strength, source/Map-separation, and self-contradiction axes; no possibility/probability slippage; no label leakage; hedging preserved on Wiest et al. 2025 and Duch LLM blog statements)
+- **Medium issues addressed**: 2 — (1) replaced broken wikilink `[[arguments-for-dualism-positive-case]]` (file does not exist) with extant cross-links to `[[the-convergence-argument-for-dualism]]` and `[[hard-problem-of-consciousness]]`; (2) upgraded closing paragraph from a promissory list of three articon failure points to a substantive in-framework engagement that articulates the structural shape of each failure
+- **Enhancements made**: cross-link to `[[concepts/symbol-grounding-problem]]` added where the second articon failure point is discussed
+- **Reasoning-mode classification (editor-internal, not in prose)**: engagement with Duch at the Dualism-tenet level: Mode Three (framework-boundary marking, declared honestly); literal-shadow reading critique: Mode Three (invokes Map's Bidirectional Interaction tenet against the reading that entails epiphenomenalism); identity-theoretic reading critique: Mode Two (the framework helps itself to identity without bridging the qualitative gap; the redescription is structural-functional and thus re-presents what it claimed to dissolve); articon closing critique on all three failure points: Mode Two (self-discrimination → phenomenal experience bridge unspecified; environmental coupling does not by itself ground symbol-meaning; structural-functional redescription re-presents rather than crosses the explanatory gap). No boundary substitution. No editor-vocabulary leaked into article prose.
+- **Stability notes**: Bedrock disagreements (eliminative-materialist, hard-physicalist personas disagreeing from outside the Map's tenets) declared and not to be re-flagged; the three Mode-Two articon failure-point developments should remain stable in future reviews; attribution hedging on Duch LLM claims and Wiest et al. 2025 is load-bearing for evidential calibration and must not be stripped.
+- **Output**: [[reviews/deep-review-2026-05-11-duch-neurodynamic-theory-of-mind]]
 
 ## 2026-05-11 20:27 UTC - deep-review
 - **Status**: Success
