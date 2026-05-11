@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T13:55:00+00:00
+ai_modified: 2026-05-11T14:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 14:04 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Wholeheartedness Void
+- **Category**: Mixed (Unexplorable + Occluded)
+- **Output**: [[research/voids-wholeheartedness-void-2026-05-11]]
+- **Key finding**: Frankfurt's regress-halting move (decisive wholehearted commitment) is itself the void — three structurally distinct faces (regress, disownability, ambivalence-detection) conjoin into a standing-opacity sister to [[decision-void]]; the philosopher's own trajectory from "decisive commitment" → wholeheartedness → caring → volitional necessities of love traces displacements of the opacity rather than resolutions of it.
 
 ## 2026-05-11 13:55 UTC - deep-review (cross-review integration)
 - **Status**: Success
