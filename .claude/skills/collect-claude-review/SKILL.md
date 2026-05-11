@@ -51,7 +51,11 @@ JSON.stringify({
 
 If `visibilityState !== "visible"`, log a warning. Proceed anyway — Chrome MCP commands tend to make the tab visible enough for our queries even if `document.hidden` reports true. If the same conversation persistently fails to render after multiple collect attempts, escalate by navigating to the URL again (full page load forces a fresh render).
 
-## Step 3: Check readiness
+## Step 3: Check readiness (poll, don't single-shot)
+
+The artifact tile can take longer than the Step-2.5 wake budget to render — Claude.ai lazily mounts research artifacts and the tab may not have full focus when the dispatcher's freshly-spawned Chrome subprocess opens it. A single check at +5s post-navigate misses these cases and the skill incorrectly increments `collect_attempts`. Poll up to 4 times instead of single-shot.
+
+Run this check, then if not-ready, wait 5s (via `computer.wait`) and re-run. Up to 4 attempts (~20s total wait beyond Step 2.5):
 
 ```javascript
 JSON.stringify({
@@ -61,18 +65,20 @@ JSON.stringify({
 })
 ```
 
-**Ready** when: `stopBtn === false` AND `artifactTiles.length >= 1`.
+**Ready** when: `stopBtn === false` AND `artifactTiles.length >= 1`. If ready, proceed to Step 4 immediately.
 
-**Not ready**:
+**Between polls**, if not ready, scroll the page once more (`computer.scroll`, direction `down`, `scroll_amount: 1`) before the 5s wait — repeated nudges sometimes shake loose a stuck render. Log each poll's result.
+
+**Not ready after 4 polls**:
 
 ```python
 from tools.reviews.pending import increment_attempt
 increment_attempt(target_filename)
 ```
 
-then exit. Next loop iteration retries.
+then exit. Next loop iteration retries from scratch (fresh tab, fresh navigate).
 
-**Abandon check** (do this *before* increment): if `(now - commissioned_at) >= 4 hours` AND not ready, `mark_abandoned(target_filename)`, log Telegram WARNING, exit.
+**Abandon check** (do this *before* the increment, after the 4th failed poll): if `(now - commissioned_at) >= 4 hours` AND still not ready, `mark_abandoned(target_filename)`, log Telegram WARNING, exit without incrementing.
 
 ## Step 4: Open the artifact panel
 
