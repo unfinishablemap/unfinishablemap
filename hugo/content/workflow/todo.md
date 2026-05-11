@@ -101,13 +101,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-05-11
 
-### P3: Cross-review topics/consciousness-and-integrated-information.md against the-binding-problem's IIT engagement
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-10b. The-binding-problem article engages IIT at three points (lines 157, 169) and cross-links to the Map's IIT critique. The cross-review should verify the companion article's three named objections (passivity, expander graph, temporal gap) are structurally consistent with the-binding-problem's three IIT engagement-points. Specifically: (a) whether the companion article's expander-graph objection is referenced at the-binding-problem's BP2 grain (the expander graph is the structural argument that high-Φ systems can be designed to lack the cross-modal integration the article's BP2 framing requires); (b) whether the temporal-gap objection is connected to the-binding-problem's temporal-binding section; (c) whether the companion article reciprocates the-binding-problem's article-level link with a cross-back to the five-variety architecture. Short scope (~150–300 words touched). Tenet alignment: methodological + Tenet 1 (Dualism).
-- **Source**: optimistic-review (2026-05-10b)
-- **Generated**: 2026-05-10
-
 ### P3: Develop project doc on cluster-integration discipline as methodological pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -3530,6 +3523,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Cross-review topics/consciousness-and-integrated-information.md against the-binding-problem's IIT engagement
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review 2026-05-10b. The-binding-problem article engages IIT at three points (lines 157, 169) and cross-links to the Map's IIT critique. The cross-review should verify the companion article's three named objections (passivity, expander graph, temporal gap) are structurally consistent with the-binding-problem's three IIT engagement-points. Specifically: (a) whether the companion article's expander-graph objection is referenced at the-binding-problem's BP2 grain (the expander graph is the structural argument that high-Φ systems can be designed to lack the cross-modal integration the article's BP2 framing requires); (b) whether the temporal-gap objection is connected to the-binding-problem's temporal-binding section; (c) whether the companion article reciprocates the-binding-problem's article-level link with a cross-back to the five-variety architecture. Short scope (~150–300 words touched). Tenet alignment: methodological + Tenet 1 (Dualism).
+- **Output**: obsidian/topics/consciousness-and-integrated-information.md -- Context: Cross-review topics/consciousness-and-integrated-information.md against the-binding-problem's IIT engagement
 
 ### ✓ 2026-05-11: Cross-review topics/consciousness-and-cognitive-distinctiveness.md against the baseline-cognition convergence
 - **Type**: cross-review

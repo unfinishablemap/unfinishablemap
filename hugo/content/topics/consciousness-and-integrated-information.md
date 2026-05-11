@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-23 03:44:00+00:00
+ai_modified: 2026-05-11 05:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,14 +25,14 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[attention-as-interface]]'
 created: 2026-01-27
-date: &id001 2026-04-23
+date: &id001 2026-05-11
 description: IIT identified integration as central to consciousness but erred in identifying
   consciousness with integration. Three objections show IIT renders consciousness
   passive; alternative frameworks treat integration as something consciousness does.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 03:44:00+00:00
+last_deep_review: 2026-05-11 05:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -153,9 +153,7 @@ The decoherence objection is serious and must be stated honestly. Tegmark (2000)
 
 ## The Binding Problem Revisited
 
-The [binding problem](/concepts/binding-problem/)—how distributed neural processing produces unified experience—looks different depending on whether integration is treated as identity or activity. [The systematic treatment of binding](/topics/the-binding-problem/) reveals that this is not one problem but a family of five (intra-modal, cross-modal, temporal, cognitive, and subject binding), each exhibiting the same gap between physical coordination and phenomenal unity. IIT's identity thesis claims to dissolve all five simultaneously, but the dissolution is unsatisfying for the same reason in every case.
-
-IIT claims to dissolve the binding problem: if consciousness *is* integration, then asking how integration produces consciousness is a category error. But this dissolution is unsatisfying. We can still ask *why* integrated information should be conscious. The binding problem reappears as the question of why phi feels like anything.
+The [binding problem](/concepts/binding-problem/)—how distributed neural processing produces unified experience—looks different depending on whether integration is treated as identity or activity. [The systematic treatment of binding](/topics/the-binding-problem/) separates computational binding (how the brain coordinates distributed processing) from phenomenal binding (why coordinated processing produces unified experience), and finds the gap recurring across five varieties: intra-modal, cross-modal, temporal, cognitive, and subject. IIT's identity thesis claims to dissolve phenomenal binding by category: if consciousness *is* integration, then asking how integration produces consciousness is mistaken. But the dissolution is unsatisfying for the same reason in every variety. We can still ask *why* integrated information should be conscious; the question reappears as why phi feels like anything.
 
 If integration is an activity of consciousness, the question becomes: how does consciousness access distributed neural information and synthesise it into unified experience? The Map's speculative answer points to quantum-mediated selection: consciousness accesses the global state of neural possibilities and selects a coherent pattern from among them. Binding is achieved through selection—the chosen pattern is unified because a single act of selection produced it.
 

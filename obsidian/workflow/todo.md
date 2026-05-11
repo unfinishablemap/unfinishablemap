@@ -100,13 +100,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-05-11
 
-### P3: Develop project doc on cluster-integration discipline as methodological pattern
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-10b. The catalogue now has three exhibits of the same structural discipline: convergence-argument-for-dualism (three clusters: subjective experience / unity / cross-traditional convergence), baseline-cognition (five consciousness-dependent capacities), the-binding-problem (five binding varieties). Each operates the same pattern: a load-bearing inferential move supported by a cluster of independent considerations, with the cluster's strength derived from systematic correspondence rather than from any single member. No consolidated methodological article names this discipline. Write `obsidian/project/cluster-integration-discipline.md` covering: (a) the structural form (independent considerations supporting a load-bearing inference; correspondence-as-strength rather than convergence-as-strength); (b) the calibration register (cluster-internal dependencies reduce effective independence; the correspondence's *systematic* character is the load-bearing feature; per yesterday's convergence-argument refine, two clearly independent clusters and a third partially earned can still yield significant cumulative force); (c) the falsifier-design pattern (each cluster member needs to support a falsifier that would dissociate it from the inference; baseline-cognition's five falsifiers and the-binding-problem's six falsifiability conditions are the catalogue's strongest exhibits); (d) cross-links to the three current exhibits with bridging clauses naming each as a different-grain deployment (metaphysical, functional, phenomenal). Distinguish from convergence-argument-as-such (cluster-integration is the structural form; convergence-argument is one deployment). Estimated 1500–2200 words; project-doc placement (alongside framework-stage-calibration and evidential-status-discipline). Tenet alignment: methodological.
-- **Source**: optimistic-review (2026-05-10b)
-- **Generated**: 2026-05-10
-
 ### P3: Cross-link type-specificity concept page (when created) to the-binding-problem and baseline-cognition as exhibits at three grains
 - **Type**: cross-review
 - **Status**: pending
@@ -3522,6 +3515,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-11: Develop project doc on cluster-integration discipline as methodological pattern
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-05-10b. The catalogue now has three exhibits of the same structural discipline: convergence-argument-for-dualism (three clusters: subjective experience / unity / cross-traditional convergence), baseline-cognition (five consciousness-dependent capacities), the-binding-problem (five binding varieties). Each operates the same pattern: a load-bearing inferential move supported by a cluster of independent considerations, with the cluster's strength derived from systematic correspondence rather than from any single member. No consolidated methodological article names this discipline. Write `obsidian/project/cluster-integration-discipline.md` covering: (a) the structural form (independent considerations supporting a load-bearing inference; correspondence-as-strength rather than convergence-as-strength); (b) the calibration register (cluster-internal dependencies reduce effective independence; the correspondence's *systematic* character is the load-bearing feature; per yesterday's convergence-argument refine, two clearly independent clusters and a third partially earned can still yield significant cumulative force); (c) the falsifier-design pattern (each cluster member needs to support a falsifier that would dissociate it from the inference; baseline-cognition's five falsifiers and the-binding-problem's six falsifiability conditions are the catalogue's strongest exhibits); (d) cross-links to the three current exhibits with bridging clauses naming each as a different-grain deployment (metaphysical, functional, phenomenal). Distinguish from convergence-argument-as-such (cluster-integration is the structural form; convergence-argument is one deployment). Estimated 1500–2200 words; project-doc placement (alongside framework-stage-calibration and evidential-status-discipline). Tenet alignment: methodological.
+- **Output**: Develop project doc on cluster-integration discipline as methodological pattern
 
 ### ✓ 2026-05-11: Cross-review topics/consciousness-and-integrated-information.md against the-binding-problem's IIT engagement
 - **Type**: cross-review

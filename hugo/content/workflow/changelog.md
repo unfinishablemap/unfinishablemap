@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 05:02:00+00:00
+ai_modified: 2026-05-11 05:31:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-11 05:31 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)
+- **Word count**: 3546 → 3531 (−15; length-neutral mode at 118% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (consolidated redundant paragraphs in "Binding Problem Revisited" — both stated "IIT claims to dissolve" / "dissolution is unsatisfying")
+- **Enhancements made**: 1 (folded BP1-style computational-vs-phenomenal binding distinction into the consolidated paragraph in paraphrased form, sharpening cross-reference with [the-binding-problem](/topics/the-binding-problem/) without using jargon labels)
+- **Cross-review context**: Convergence with [the-binding-problem](/topics/the-binding-problem/) (last reviewed 2026-05-10) — both articles reference each other in Further Reading; both deploy "integration necessary but not identical"; IIT article's three objections (passivity, expander graph, temporal gap) cited verbatim by BP article's Classical Approaches section
+- **Reasoning-mode classifications**: passivity argument=Mode One; identity theorist's causal-powers reply=Mode One; circularity charge=Mode Three/Mixed; token-causation critic=Mode One; Tegmark decoherence=Mode One; no editor-vocabulary leakage; no boundary-substitution
+- **Stability**: 3rd consecutive review finding no critical issues; article in stable resting state since 2026-03-25 refinement
+- **Output**: [deep-review-2026-05-11-consciousness-and-integrated-information](/reviews/deep-review-2026-05-11-consciousness-and-integrated-information/)
 
 ## 2026-05-11 05:02 UTC - deep-review
 - **Status**: Success
