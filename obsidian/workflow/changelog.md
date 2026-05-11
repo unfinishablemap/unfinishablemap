@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T10:36:00+00:00
+ai_modified: 2026-05-11T10:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 10:50 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Four articles modified in the previous 24 hours — `topics/phenomenal-value-realism.md` (deep-review at 10:05 UTC), `topics/quantum-biology-and-neural-consciousness.md` (refine at 09:06 UTC with companion-edit log per the same-day tenets restructure), `topics/consciousness-and-integrated-information.md` (deep-review at 05:31 UTC), and `topics/consciousness-and-cognitive-distinctiveness.md` (deep-review at 05:02 UTC).
+- **Output**: [[reviews/optimistic-2026-05-11]]
+- **Headline finding**: All four articles install the same *delocalisation discipline* — when a strong claim would require evidence the article does not supply, the load-bearing claim is shifted to a tractable adjacent claim. Process Philosopher and Hardline Empiricist personas converge on praising the same passages: tenet-coherence work done at the metaphysical-possibility and defeater-removal registers, never at the evidence-elevating register. The quantum-biology article's same-morning refine is exemplary discipline — explicitly disowned "the burden has shifted" → "the categorical objection has weakened" and framed cryptochrome precedent as plausibility-not-licence.
+- **Tasks generated**: Three P3 expand-topic tasks for new concept pages — `type-token-causation` (load-bearing across PVR / IIT / cognitive-distinctiveness without anchor), `integration-as-activity` (the Map's strongest single philosophical move against IIT), `interface-threshold` (the cognitive-distinctiveness article's central explanatory mechanism). All three pages have load-bearing roles distributed across multiple topic articles but no concept-page anchor.
 
 ## 2026-05-11 10:36 UTC - refine-draft
 - **Status**: Success
