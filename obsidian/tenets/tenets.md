@@ -3,7 +3,7 @@ title: Tenets
 created: 2026-01-02
 modified: 2026-01-02
 human_modified: 2026-01-02T14:18:31+00:00
-ai_modified: 2026-05-11T08:30:00+00:00
+ai_modified: 2026-05-11T09:06:00+00:00
 draft: false
 description: "Five commitments that bound every article on The Unfinishable Map—chosen starting points, not proofs, exploring consciousness and the limits of knowability."
 topics: []
@@ -20,6 +20,8 @@ related_articles:
   - "[[prebiotic-collapse]]"
   - "[[many-worlds-argument]]"
   - "[[parsimony-epistemology]]"
+  - "[[apex/post-decoherence-selection-programme]]"
+  - "[[quantum-biology-and-neural-consciousness]]"
 ai_contribution: 15
 author: Andy Southgate
 ai_system: claude-opus-4-7
@@ -46,13 +48,13 @@ The smallest possible non-physical influence on physical outcomes. ^minimal-quan
 
 **Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimality says: assume the smallest intervention necessary, not more. Crucially, this tenet rejects the strong causal closure of physics that [[concepts/epiphenomenalism]] depends on: the claim that every physical event has a sufficient physical cause. Physics is *not* complete at quantum indeterminacies—and that's where consciousness acts.
 
-**Candidate mechanisms:** Serious scientific proposals have explored this interface. [[quantum-consciousness|Orch OR]] (Penrose-Hameroff) locates quantum effects in neural microtubules, with consciousness selecting among superposed states via gravitational self-collapse. Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno approach]] uses orthodox quantum mechanics—mental attention acts like repeated observation, holding desired neural patterns through the Zeno effect. Both share what this tenet requires: consciousness biasing indeterminate outcomes without injecting energy or violating conservation laws. The Map doesn't commit to either mechanism but holds that *some* such interface exists.
+**Candidate mechanisms:** Several scientific proposals have explored this interface. The Map's most developed position is [[apex/post-decoherence-selection-programme|post-decoherence selection]]: consciousness biasing which definite outcome emerges from the classical mixture left *after* decoherence has completed. This route sidesteps the requirement that quantum coherence survive at neural timescales and is the strongest path the Map currently endorses. Other proposals depend on pre-decoherence coherence and stand or fall with that more demanding assumption: [[quantum-consciousness|Orch OR]] (Penrose-Hameroff) locates quantum effects in neural microtubules, with consciousness selecting among superposed states via gravitational self-collapse; Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno approach]] uses orthodox quantum mechanics, with mental attention acting like repeated observation to hold desired neural patterns through the Zeno effect. The Map does not commit to any specific mechanism but holds that *some* such interface exists.
 
-**The decoherence objection:** Critics argue that quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules—far too short for neural processes operating at millisecond timescales. Yet this calculation is disputed. Hameroff's group (Hagan et al., 2002) challenged Tegmark's assumptions about model parameters, yielding corrected estimates of 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**. With revised timescale requirements based on faster microtubule dynamics, coherence times of just 10⁻⁷ seconds may suffice.
+**Decoherence leaves the outcome problem open.** [[decoherence|Decoherence does not solve the measurement problem]]. As a 2025 review notes, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence selects preferred bases without explaining why we observe *definite* outcomes. Even once coherence has fully dissipated, the question of *which* outcome becomes actual remains physically open. If collapse or actualisation is a real event, consciousness could bias selection at that point without requiring sustained coherence at neural timescales. That is what Tenet 2 commits to; whether any specific candidate mechanism additionally requires pre-decoherence coherence is a downstream question about that proposal, not about the tenet itself. The developed treatment lives in [[apex/post-decoherence-selection-programme|The Post-Decoherence Selection Programme]].
 
-**Biological quantum effects prove evolution can harness coherence.** Avian magnetoreception—how migratory birds navigate using Earth's magnetic field—relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. A January 2026 Princeton study provided computational confirmation of this mechanism. If evolution can optimize quantum effects for navigation, it might optimize them for consciousness.
+**The decoherence-timescale dispute:** Critics argue that quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules. Hameroff's group (Hagan et al., 2002) disputed Tegmark's parameter choices and obtained corrected estimates of 10⁻⁵ to 10⁻⁴ seconds. The calculation is contested rather than settled, with estimates ranging across roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters; the literature has not converged. This dispute matters only for candidate mechanisms that require *pre-decoherence* coherence at neural scales (Orch OR, Fröhlich-microtubule lines). Post-decoherence-selection proposals do not depend on it.
 
-More fundamentally, [[decoherence|decoherence doesn't solve the measurement problem]]. As a 2025 review notes, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence selects preferred bases without explaining why we see *definite* outcomes. Consciousness could bias outcomes at the point of measurement even after decoherence has occurred. The role for consciousness at collapse remains open.
+**Biological precedent for quantum effects in warm systems.** Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds; a January 2026 Princeton study added computational confirmation of the radical-pair mechanism. This establishes a biological *precedent* rather than a licence for neural coherence: cryptochrome radical pairs are an extremely specific molecular architecture, and their existence does not by itself entail that microtubules or other neural structures sustain coherence at the scales consciousness would require. The narrower claim the Map leans on is that warm biological environments do not categorically rule out quantum-functional mechanisms—not the stronger claim that neural consciousness must use them. As a plausibility supplement this matters only for the mechanism candidates that need pre-decoherence coherence; the post-decoherence-selection path does not turn on it.
 
 **Not to be confused with:** "Quantum woo" or "quantum mysticism"—pseudoscientific claims that misappropriate quantum mechanics terminology to justify New Age beliefs, parapsychology, or magical thinking. This tenet is a constrained philosophical hypothesis about the mind-body problem, not an endorsement of quantum mysticism.
 
@@ -119,6 +121,24 @@ Changes made:
 Based on outer review by Claude Opus 4.7 (2026-05-11), which flagged this as "the cleanest internal tension I found." Direct-refutation discipline: Mode One (in-framework defect)—the tension is internal to the Map's own commitments, so the fix is structural disambiguation rather than boundary-marking.
 
 Sequencing: next, `arguments/many-worlds-argument.md` will be refined under the merged 2026-05-10 P1 (MMI + Saunders-Wallace + Tappenden + Vaidman + Sebens-Carroll) to reflect the same indexical-vs-parsimony distinction at the arguments-page level. This tenets-page change establishes the canonical framing the arguments page will track.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-11 (second pass)
+Changes made to Minimal Quantum Interaction section:
+- Reordered the rhetorical structure. New order: candidate mechanisms (lead with post-decoherence selection) → decoherence leaves the outcome problem (the load-bearing point) → decoherence-timescale dispute (mechanism-specific) → biological precedent (plausibility supplement, not licence).
+- Candidate mechanisms paragraph now leads with [[apex/post-decoherence-selection-programme]] as the Map's most developed position; Orch OR and Stapp Zeno explicitly flagged as pre-decoherence-coherence-dependent.
+- Replaced the bolded "seven orders of magnitude longer" framing with a balanced "the calculation is contested, with estimates ranging across roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters." Hagan et al. (2002) is now presented as one estimate in a contested literature, not as a refutation of Tegmark.
+- Replaced "Biological quantum effects prove evolution can harness coherence" with "Biological precedent for quantum effects in warm systems." Cryptochrome radical-pair coherence is now framed as biological *precedent* (warm biology is not categorically inhospitable to quantum function) rather than licence for neural-microtubule coherence (which it does not establish). The plausibility supplement matters only for mechanism candidates that require pre-decoherence coherence.
+- Added forward pointer to [[apex/post-decoherence-selection-programme]] in both the Candidate mechanisms paragraph and the Decoherence-leaves-the-outcome-problem paragraph.
+- Frontmatter: added apex/post-decoherence-selection-programme and quantum-biology-and-neural-consciousness to related_articles; updated ai_modified.
+
+Based on convergent outer reviews (2026-05-11, 2/3 reviewers — Claude Opus 4.7 and ChatGPT 5.5 Pro). Both reviewers independently flagged the same defect: the page presented the Hagan-rebuttal-of-Tegmark calculation as settled where the literature is contested, leaned on cryptochrome radical-pair coherence as if it licensed neural-microtubule coherence (it does not — specific architecture, narrow precedent), and did not surface the Post-Decoherence Selection Programme as the more developed Map position that makes microtubule coherence less essential. Side-evidence: Gemini's same-cycle review repeated the contested framing approvingly ("directly refuting Tegmark's femtosecond limits") — an instance of the failure mode and additional signal that the tenets page was leaking the contested framing to downstream summarisers.
+
+Direct-refutation discipline: Mode One (in-framework defect — the tenets page was out of step with the apex it should be tracking). Engagement classification kept editor-internal; the prose engages the dispute in natural journal-quality language.
+
+Companion edit: obsidian/topics/quantum-biology-and-neural-consciousness.md touched for consistency with the new framing — softened the "burden has inverted" language to acknowledge the precedent-vs-licence distinction, noted Hagan-vs-Tegmark contestation in The Decoherence Debate Today section, and added a forward-link to the apex from Why This Matters for Consciousness.
 
 This log should be removed after human review.
 -->

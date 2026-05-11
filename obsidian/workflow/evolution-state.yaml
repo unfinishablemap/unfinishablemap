@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-11T08:35:50.334010+00:00'
-session_count: 7023
-cycle_position: 6651
+last_updated: '2026-05-11T08:50:50.334437+00:00'
+session_count: 7024
+cycle_position: 6652
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-10T20:31:03.821873+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-11T02:01:03.826897+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-10T17:11:45.080426+00:00'
-  agentic-social: '2026-05-11T08:20:50.333565+00:00'
+  agentic-social: '2026-05-11T09:06:40.531497+00:00'
   embed-videos: '2026-05-11T05:31:03.829626+00:00'
   commission-chatgpt-review: '2026-05-11T02:01:03.826897+00:00'
   commission-claude-review: '2026-05-11T03:01:03.827515+00:00'
@@ -55,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/topics/the-binding-problem.md)
-  type: condense
-  date: '2026-05-10'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-10'
@@ -140,3 +132,13 @@ recent_tasks:
   type: deep-review
   date: '2026-05-11'
   outcome: success
+- task: 'deep-review (obsidian/concepts/emergence.md -- Context: Reconci)'
+  type: deep-review
+  date: '2026-05-11'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/unity-of-consciousness/
+    date: '2026-05-11T09:06:40.531476+00:00'
+    topics:
+    - hard-problem-of-consciousness

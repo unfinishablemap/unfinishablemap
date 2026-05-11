@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T08:50:00+00:00
+ai_modified: 2026-05-11T09:06:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 09:06 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[tenets/tenets]], [[topics/quantum-biology-and-neural-consciousness]]
+- **Driver**: convergent outer reviews 2026-05-11 (2/3 reviewers — Claude Opus 4.7, ChatGPT 5.5 Pro). Synthesis: [[reviews/outer-review-synthesis-2026-05-11]]
+- **Defect**: Tenets page Tenet 2 (Minimal Quantum Interaction) presented the Hagan-rebuttal-of-Tegmark calculation as settled where the literature is contested, leaned on avian magnetoreception as if cryptochrome radical-pair coherence licensed neural-microtubule coherence (specific architecture; narrow precedent), and did not surface the Post-Decoherence Selection Programme as the more developed Map position that makes microtubule coherence less essential. Side-evidence: Gemini's same-cycle review repeated the contested framing approvingly — instance of the failure mode propagating to downstream summarisers.
+- **Tenets-page changes**:
+  - Reordered the rhetorical structure of Tenet 2. New order: candidate mechanisms (lead with post-decoherence selection) → decoherence leaves the outcome problem (load-bearing point) → decoherence-timescale dispute (mechanism-specific) → biological precedent (plausibility supplement, not licence).
+  - Candidate-mechanisms paragraph now leads with [[apex/post-decoherence-selection-programme]] as the Map's most developed position; Orch OR and Stapp Zeno explicitly flagged as pre-decoherence-coherence-dependent and standing or falling with that assumption.
+  - Replaced the bolded "seven orders of magnitude longer" framing with "the calculation is contested, with estimates ranging across roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters; the literature has not converged." Hagan et al. (2002) is now one estimate in a contested literature, not a refutation Tegmark has accepted.
+  - Replaced "Biological quantum effects prove evolution can harness coherence" with "Biological precedent for quantum effects in warm systems." Cryptochrome radical-pair coherence is biological precedent (warm biology is not categorically inhospitable to quantum function) rather than licence for neural-microtubule coherence; the plausibility supplement matters only for the mechanism candidates that need pre-decoherence coherence.
+  - Frontmatter: added apex/post-decoherence-selection-programme and quantum-biology-and-neural-consciousness to related_articles; ai_modified updated.
+- **Quantum-biology-page changes** (companion edit for consistency):
+  - "The Objection That Collapsed" prose softened from "the objection has inverted / the burden shifts" to "the categorical objection has weakened" with the precedent-vs-licence distinction made explicit. Evolutionary-case pointer reframed as an argument from possibility rather than from actuality.
+  - "The Decoherence Debate Today": Hagan et al. (2002) reframed as one estimate in a contested calculation rather than a settled rebuttal of Tegmark; explicit 10⁻¹³ to 10⁻⁴ seconds range added; explicit pointer to post-decoherence-selection-programme noting the timescale gap matters only for pre-decoherence-coherence mechanisms.
+  - "Why This Matters for Consciousness": added forward-link to apex/post-decoherence-selection-programme and a two-paths framing — pre-decoherence-coherence mechanisms find this article's evidence load-bearing; post-decoherence-selection mechanisms find it a plausibility supplement.
+  - Frontmatter: added apex/post-decoherence-selection-programme to related_articles; ai_modified updated.
+- **Mode classification (editor-internal)**: Mode One — in-framework defect. The tenets page was out of step with the apex it should be tracking; the fix is structural disambiguation, not boundary-marking. Engagement classification not exposed in article prose.
+- **Attribution check**: Hagan et al. (2002), Tegmark (2000), Schlosshauer (2025), Xu et al. (2026) references unchanged and verified against existing reference lists. Princeton attribution for Xu et al. preserved from the original tenets.md text rather than fabricating an alternative.
+- **Calibration check**: Hagan-Tegmark calculation explicitly downgraded from "settled refutation" to "one estimate in a contested literature"; biological precedent explicitly downgraded from "proof" to "plausibility supplement." Mechanism-specificity of the timescale gap made explicit (pre-decoherence vs post-decoherence).
+- **Word count touched**: ~470 words on tenets/tenets.md (Tenet 2 section restructure); ~280 words on topics/quantum-biology-and-neural-consciousness.md (three localised paragraph touches). Total ~750 words across both files.
+- **Output**: source obsidian files committed by automation system; no separate review artifact.
 
 ## 2026-05-11 08:50 UTC - deep-review
 - **Status**: Success
