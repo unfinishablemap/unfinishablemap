@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T20:57:00+00:00
+ai_modified: 2026-05-11T21:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-11 21:20 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/duch-neurodynamic-theory-of-mind]]
+- **Word count**: 2419 → 2422 (+3)
+- **Previous review**: [[reviews/deep-review-2026-05-11-duch-neurodynamic-theory-of-mind|2026-05-11 20:42 (first-contact deep review)]]
+- **Pass type**: Cross-tier reciprocal integration
+- **Critical issues addressed**: 0 (none found — attribution discipline still clean; no possibility/probability slippage; no label leakage; bedrock disagreements from prior pass remain bedrock and were not re-flagged)
+- **Medium issues addressed**: 2 — (1) tightened awkward triple-modal phrasing in opening articon paragraph ("claimed to have to claim being conscious" → "is supposed, on Duch's argument, to compel it to claim consciousness"), preserving the must-claim argument structure without the modal stack; (2) added concept-tier wikilinks at first body invocation for three concepts the article referenced but did not link to — `[[concepts/qualia]]`, `[[concepts/global-workspace-theory]]`, `[[concepts/llm-consciousness]]`
+- **Enhancements made**: frontmatter `concepts:` extended to include `[[global-workspace-theory]]` and `[[llm-consciousness]]` (both directly referenced in body); Further Reading mirror updated; outbound cross-tier topology now substantive at concept / topic / apex / tenet tiers in both frontmatter and body
+- **Reasoning-mode classifications (editor-internal, not in prose)**: no changes from prior pass — tenet-level engagement with Duch: Mode Three (framework-boundary marking); literal-shadow critique: Mode Three (Bidirectional Interaction tenet); identity-theoretic critique: Mode Two (renames the gap); three articon failure points: Mode Two each. No boundary-substitution. No editor-vocabulary in prose.
+- **Stability notes**: outbound cross-tier integration now converged — future deep reviews should not re-add concept-tier links unless new concept pages are created; bedrock disagreements (eliminative-materialist, hard-physicalist) remain bedrock and must not be re-flagged; articon engagement remains substantive Mode-Two not promissory; attribution hedges on Duch's LLM claims and on Wiest et al. 2025 are load-bearing and must not be stripped
+- **Out-of-scope item registered**: inbound reciprocity gap (57 files mention Duch; only 3 link to the article slug) is an `integrate-orphan` chain across the 14 declared related articles, not a single-doc deep review job
+- **Output**: [[reviews/deep-review-2026-05-11-duch-neurodynamic-theory-of-mind-cross-tier]]
 
 ## 2026-05-11 20:57 UTC - deep-review
 - **Status**: Success
