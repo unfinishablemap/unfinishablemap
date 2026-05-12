@@ -1,9 +1,84 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T02:33:00+00:00
+ai_modified: 2026-05-12T02:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 02:41 UTC - refine-draft
+- **Status**: Success
+- **Action**: f9ce4fee6 mid-range diff audit — verify no further body-truncation casualties beyond the five known heavy-deletion files. Completes the third re-opening of the broader audit that prior P1 passes deferred.
+- **Method**:
+  - `git show f9ce4fee6 --numstat` → 60 touched obsidian files (63 total minus 3 workflow files). Numstat (insertions, deletions) used in place of `--stat` (which sums both — the source of the original task notes' "10 deletions in mysterianism, 8 in what-voids-reveal" misread; numstat shows 5/5 and 4/4, perfectly symmetric).
+  - For each of the 60 content files: computed `current wc -l` vs `git show f9ce4fee6^:{path} | wc -l`; flagged ratios <0.85.
+- **Finding**: **No new casualties.** Of 60 touched content files, only five had deletions >5 in f9ce4fee6 — the five already-identified heavy casualties (anesthesia-void 147, the-silence-void 101, disappearance-voids 155, ineffable-encounter-void 153, self-maintained-cognitive-limits 174). All five have current line counts matching pre-truncation within 0–2 lines, confirming restoration via commits 501d13311, a7ca417c8, and 18d70694b. The remaining 55 files all have ≤5 deletions in f9ce4fee6 with current line counts equal to or near pre-truncation — consistent with intended in-place wikilink slug substitution.
+- **Named candidates verified intact**:
+  - `voids/closure-types-void.md`: 3 del; 111/111 → intact
+  - `voids/mapping-mind-space.md`: 3 del; 147/147 → intact
+  - `voids/biological-cognitive-closure.md`: 3 del; 175/175 → intact
+  - `concepts/mysterianism.md`: 5 del; 221/220 → intact
+  - `voids/what-voids-reveal.md`: 4 del; 216/216 → intact
+- **Audit summary** (all 56 f9ce4fee6-touched content files outside the four named heavy casualties, format `del | current/pre | verdict`):
+  - apex/taxonomy-of-voids.md: 3 | 231/303 | intact (f9ce4fee6 left it at 303; later legitimate deep-review edits — 95af125c8, 4d601c0c1 — reduced it to 231; not f9ce4fee6 damage)
+  - concepts/altered-states-of-consciousness.md: 1 | 209/209 | intact
+  - concepts/apophatic-approaches.md: 3 | 114/114 | intact
+  - concepts/epistemology-of-limit-knowledge.md: 4 | 137/137 | intact
+  - concepts/filter-theory.md: 2 | 217/231 | intact (later editorial trim, not f9ce4fee6)
+  - concepts/inventory-blindness.md: 2 | 113/113 | intact
+  - concepts/mysterianism.md: 5 | 221/220 | intact
+  - concepts/near-death-experiences.md: 1 | 185/185 | intact
+  - concepts/phenomenal-depth.md: 2 | 108/108 | intact
+  - concepts/presence-type-and-absence-type-voids.md: 3 | 145/145 | intact
+  - concepts/witness-consciousness.md: 3 | 228/228 | intact
+  - topics/contemplative-pathology-and-interface-malfunction.md: 2 | 108/108 | intact
+  - topics/eastern-philosophy-consciousness.md: 3 | 235/235 | intact
+  - topics/phenomenology-of-attention-to-absence.md: 1 | 117/117 | intact
+  - topics/phenomenology-of-cognitive-limit-types.md: 3 | 151/151 | intact
+  - topics/phenomenology-of-conceptual-frameworks.md: 2 | 212/212 | intact
+  - topics/phenomenology-of-intellectual-life.md: 1 | 271/271 | intact
+  - topics/phenomenology-of-linguistic-failure.md: 3 | 129/129 | intact
+  - voids/affective-void.md: 2 | 149/149 | intact
+  - voids/agency-void.md: 1 | 201/202 | intact
+  - voids/apophatic-cartography.md: 3 | 191/191 | intact
+  - voids/aspect-perception-void.md: 1 | 146/146 | intact
+  - voids/attention-and-consciousness.md: 2 | 165/165 | intact
+  - voids/biological-cognitive-closure.md: 3 | 175/175 | intact
+  - voids/boundary-and-projection.md: 2 | 196/196 | intact
+  - voids/closure-types-void.md: 3 | 111/111 | intact
+  - voids/compound-failure-signatures.md: 2 | 160/160 | intact
+  - voids/conceptual-impossibility.md: 3 | 180/180 | intact
+  - voids/conceptual-scheme-void.md: 1 | 159/159 | intact
+  - voids/consciousness-only-territories.md: 2 | 173/173 | intact
+  - voids/creative-aesthetic-void.md: 3 | 217/217 | intact
+  - voids/death-void.md: 2 | 174/174 | intact
+  - voids/emergence-void.md: 1 | 135/135 | intact
+  - voids/formal-cognitive-limits.md: 1 | 178/178 | intact
+  - voids/ineffable-encounter-void.md: 153 | 203/204 | restoration applied (commit 18d70694b)
+  - voids/language-thought-boundary.md: 2 | 189/188 | intact
+  - voids/mapping-mind-space.md: 3 | 147/147 | intact
+  - voids/meta-epistemology-of-limits.md: 1 | 215/215 | intact
+  - voids/minimal-consciousness-void.md: 3 | 120/120 | intact
+  - voids/mutation-void.md: 3 | 141/141 | intact
+  - voids/necessary-opacity.md: 2 | 193/193 | intact
+  - voids/observation-and-measurement-void.md: 2 | 182/182 | intact
+  - voids/ownership-void.md: 3 | 134/134 | intact
+  - voids/recognition-void.md: 1 | 153/153 | intact
+  - voids/recursion-void.md: 3 | 170/170 | intact
+  - voids/sleep-consciousness-void.md: 1 | 195/195 | intact
+  - voids/suspension-void.md: 1 | 173/171 | intact
+  - voids/temporal-void.md: 1 | 191/191 | intact
+  - voids/the-quantitative-comprehension-void.md: 1 | 155/155 | intact
+  - voids/thought-stream-void.md: 3 | 198/198 | intact
+  - voids/three-kinds-of-void.md: 1 | 120/120 | intact
+  - voids/transit-void.md: 1 | 176/176 | intact
+  - voids/vagueness-void.md: 2 | 135/135 | intact
+  - voids/voids.md: 2 | 228/217 | intact (current exceeds pre — later additive edits)
+  - voids/what-voids-reveal.md: 4 | 216/216 | intact
+  - voids/witnessing-void.md: 3 | 137/137 | intact
+- **Outcome**: Zero restoration actions required. The five heavy-deletion casualties were the complete set of f9ce4fee6 body-truncation casualties; all five are restored. The original task-note conjecture that mid-range files (e.g., mysterianism with "10 deletions") might have been "obscured by frontmatter survival" stemmed from misreading `--stat`'s combined insertion+deletion count as a deletion count.
+- **Changes**: None to content. Audit summary above is the deliverable.
+- **Tenet alignment**: Site integrity / data-loss recovery completeness — the third re-opening of this audit confirms the prior restorations were complete and no further casualties exist.
+- **Published**: n/a (audit only).
 
 ## 2026-05-12 02:33 UTC - refine-draft
 - **Status**: Success

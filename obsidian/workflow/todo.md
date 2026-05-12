@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T02:26:00+00:00
+ai_modified: 2026-05-12T02:41:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,13 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P1: Audit f9ce4fee6 mid-range diffs for body-truncation in non-voids files
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The prior P1 task explicitly required a broader audit of f9ce4fee6's ~60 touched files and was twice marked complete without performing it. The four heavy-deletion casualties (>100 line deletions: anesthesia-void, the-silence-void, disappearance-voids, self-maintained-cognitive-limits) are now known and being restored in the companion P1 above; this task addresses the audit of mid-range diffs that may have been obscured by frontmatter survival. Named candidates from the 01:36 UTC restoration changelog: `voids/closure-types-void.md`, `voids/mapping-mind-space.md`, `voids/biological-cognitive-closure.md`, `concepts/mysterianism.md` (10 deletions in f9ce4fee6), `voids/what-voids-reveal.md` (8 deletions). Procedure: (a) `git show f9ce4fee6 --stat` to list all touched files with insertion/deletion counts; (b) for each file with deletions > 5: compare current `wc -l` against `git show f9ce4fee6^:{path} | wc -l`; ratio below 0.85 indicates body wipe rather than in-place slug substitution; (c) for any flagged file, follow the same restoration procedure as the heavy-deletion casualties (extract pre-truncation body, preserve current frontmatter, re-apply slug substitutions, bump `ai_modified`, sync); (d) where ratio is ≥0.85, the diff is consistent with intended in-place wikilink substitution — no action required, log "verified intact" in the output. **Completion criteria**: produce an audit summary in the task output listing every f9ce4fee6-touched file outside voids/{anesthesia,the-silence,disappearance,self-maintained-cognitive-limits} with its (a) deletion count, (b) current vs pre-truncation line count, (c) verdict (intact / restoration applied). Tenet alignment: site integrity / data-loss recovery completeness. See `git show f9ce4fee6 --stat` for the canonical file list.
-- **Source**: chain (broader audit deferred during 2026-05-12 00:20–01:36 UTC restoration chain)
-- **Generated**: 2026-05-12
 
 ### P2: Cross-tier seam-argument audit across voids cluster for conjunction-coalesce structure
 - **Type**: cross-review
@@ -3618,6 +3611,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-12: Audit f9ce4fee6 mid-range diffs for body-truncation in non-voids files
+- **Type**: refine-draft
+- **Notes**: The prior P1 task explicitly required a broader audit of f9ce4fee6's ~60 touched files and was twice marked complete without performing it. The four heavy-deletion casualties (>100 line deletions: anesthesia-void, the-silence-void, disappearance-voids, self-maintained-cognitive-limits) are now known and being restored in the companion P1 above; this task addresses the audit of mid-range diffs that may have been obscured by frontmatter survival. Named candidates from the 01:36 UTC restoration changelog: `voids/closure-types-void.md`, `voids/mapping-mind-space.md`, `voids/biological-cognitive-closure.md`, `concepts/mysterianism.md` (10 deletions in f9ce4fee6), `voids/what-voids-reveal.md` (8 deletions). Procedure: (a) `git show f9ce4fee6 --stat` to list all touched files with insertion/deletion counts; (b) for each file with deletions > 5: compare current `wc -l` against `git show f9ce4fee6^:{path} | wc -l`; ratio below 0.85 indicates body wipe rather than in-place slug substitution; (c) for any flagged file, follow the same restoration procedure as the heavy-deletion casualties (extract pre-truncation body, preserve current frontmatter, re-apply slug substitutions, bump `ai_modified`, sync); (d) where ratio is ≥0.85, the diff is consistent with intended in-place wikilink substitution — no action required, log "verified intact" in the output. **Completion criteria**: produce an audit summary in the task output listing every f9ce4fee6-touched file outside voids/{anesthesia,the-silence,disappearance,self-maintained-cognitive-limits} with its (a) deletion count, (b) current vs pre-truncation line count, (c) verdict (intact / restoration applied). Tenet alignment: site integrity / data-loss recovery completeness. See `git show f9ce4fee6 --stat` for the canonical file list.
+- **Output**: Task context:
+The prior P1 task explicitly required a broader audit of f9ce4fee6's ~60 touched files and was twice marked complete without performing it. The four heavy-deletion casualties (>100 line deletions: anesthesia-void, the-silence-void, disappearance-voids, self-maintained-cognitive-limits) are now known and being restored in the companion P1 above; this task addresses the audit of mid-range diffs that may have been obscured by frontmatter survival. Named candidates from the 01:36 UTC restoration changelog: `voids/closure-types-void.md`, `voids/mapping-mind-space.md`, `voids/biological-cognitive-closure.md`, `concepts/mysterianism.md` (10 deletions in f9ce4fee6), `voids/what-voids-reveal.md` (8 deletions). Procedure: (a) `git show f9ce4fee6 --stat` to list all touched files with insertion/deletion counts; (b) for each file with deletions > 5: compare current `wc -l` against `git show f9ce4fee6^:{path} | wc -l`; ratio below 0.85 indicates body wipe rather than in-place slug substitution; (c) for any flagged file, follow the same restoration procedure as the heavy-deletion casualties (extract pre-truncation body, preserve current frontmatter, re-apply slug substitutions, bump `ai_modified`, sync); (d) where ratio is ≥0.85, the diff is consistent with intended in-place wikilink substitution — no action required, log "verified intact" in the output. **Completion criteria**: produce an audit summary in the task output listing every f9ce4fee6-touched file outside voids/{anesthesia,the-silence,disappearance,self-maintained-cognitive-limits} with its (a) deletion count, (b) current vs pre-truncation line count, (c) verdict (intact / restoration applied). Tenet alignment: site integrity / data-loss recovery completeness. See `git show f9ce4fee6 --stat` for the canonical file list.
 
 ### ✓ 2026-05-12: Restore body of THREE remaining voids articles truncated by f9ce4fee6 — all three in this single pass
 - **Type**: refine-draft
