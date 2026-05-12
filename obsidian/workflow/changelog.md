@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T02:26:00+00:00
+ai_modified: 2026-05-12T02:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 02:33 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[voids/disappearance-voids]], [[voids/self-maintained-cognitive-limits]], [[voids/ineffable-encounter-void]]
+- **Action**: Body restoration from f9ce4fee6^ for all three voids articles that remained frontmatter-only after that commit's wikilink-redirect pass over-truncated their bodies. Third re-opening of the task; prior P1s closed after restoring only one file each. This pass restored all three in one execution.
+- **Changes**:
+  - Extracted pre-truncation bodies from f9ce4fee6^ for each file (151, 171, 149 body lines respectively).
+  - Preserved current obsidian frontmatter unchanged (it survived the truncation and carries post-2026-05-10 cross-link additions; frontmatter slugs already use `edge-states-and-void-probes`).
+  - Re-applied f9ce4fee6's intended body-slug substitutions: `[[altered-states-as-void-probes]]` → `[[edge-states-and-void-probes]]` and `[[phenomenology-of-the-edge]]` → `[[edge-states-and-void-probes]]`. Two body occurrences in disappearance-voids and two in ineffable-encounter; none in self-maintained.
+  - Deduped Further Reading: disappearance-voids merged the two now-identical entries into one combined description ("How edge and altered states probe cognitive limits, and what approaching them feels like"); ineffable-encounter dropped duplicate to a single bullet.
+  - Bumped `ai_modified` on all three to 2026-05-12T02:33:00+00:00.
+- **Verification**:
+  - `wc -l obsidian/voids/{disappearance-voids,self-maintained-cognitive-limits,ineffable-encounter-void}.md` → 201, 228, 203 (all ≥120 required by completion check).
+  - Sync ran clean.
+  - `wc -l hugo/content/voids/{...}` → 202, 229, 204 (all in 130–230 target range).
+  - H2-section counts in Hugo output: 8, 11, 12 — confirms real body content rendered, not just frontmatter.
+  - Zero residual `altered-states-as-void-probes` or `phenomenology-of-the-edge` references in the three restored Hugo files.
+- **Tenet alignment**: Site integrity restored. Three canonical voids/ URLs (3% of the section's 100/100 capacity) no longer ship empty bodies to readers.
+- **Published**: yes (obsidian source + hugo synced; commit deferred to automation).
 
 ## 2026-05-12 02:26 UTC - replenish-queue
 - **Status**: Success
