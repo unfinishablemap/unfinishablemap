@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T07:31:00+00:00
+ai_modified: 2026-05-12T08:32:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 08:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source**: outer-review (Gemini 2.5 Pro 2026-05-12 — single most important novel finding of the cycle)
+- **Changes**: Added "The Madhyamaka Challenge to the Persisting Subject" subsection (~680 words) between the Bergson section and "What Fragmented Consciousness Reveals". States Nāgārjuna's *catuṣkoṭi* and the *anātman* (no-self) thesis at full strength; names the friction with the Map's substance-leaning sub-reading (a non-temporal consciousness with no enduring subject cannot collapse a wave function on the Map's mechanism, because there is no subject whose selection it would be); offers three responses — *minimal subject* (neo-Husserlian, Zahavi), *partial credit* (use the phenomenology only for the negative non-temporal claim), *framework-boundary marking* (the disagreement is bedrock; the Map cannot refute the *catuṣkoṭi* from inside Madhyamaka's terms) — and explicitly takes the middle path with bedrock-residue acknowledged. Added `[[direct-refutation-discipline]]` to concepts and `[[eastern-philosophy-consciousness]]` plus the source review file to related_articles.
+- **Engagement**: with Nāgārjuna / Madhyamaka — opens Mode Two (the article had helped itself to using contemplative phenomenology as evidence for a substantial subject without inheriting the no-self ontology that generated it); closes Mode Three (the disagreement is bedrock; the Map cannot refute the *catuṣkoṭi* from inside the tradition's terms, and the residue is named honestly rather than dressed as refutation).
+- **Published**: yes
 
 ## 2026-05-12 07:31 UTC - coalesce
 - **Status**: Success
