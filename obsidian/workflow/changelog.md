@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T02:18:00+00:00
+ai_modified: 2026-05-12T02:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 02:21 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/altered-states-as-interface-evidence]]
+- **Changed sources**: 2 ([[concepts/coupling-modes]] mod 2026-05-11; [[topics/anaesthesia-and-the-consciousness-interface]] mod 2026-04-17)
+- **Word count**: 3671 → 3828
+- **Review**: [[reviews/apex-evolve-2026-05-12-altered-states-as-interface-evidence]]
+- **Key integrations**: Hypnagogia section now frames the coupling-modes mapping as a testable prediction about sequential disengagement signatures (basis / timing / selection-level). Anaesthesia section adds neural inertia as a third recovery datum (Sepúlveda et al. 2019; flip-flop bistability). Minimal Quantum Interaction tenet section introduces the [[selection-only-channel]] as the strictest reading compatible with the convergence matrix. Dualism tenet paragraph trimmed to remove redundancy with "What the Pattern Reveals." References corrected: Mashour et al. 2021 (not Bodart) for active reboot; added Sepúlveda et al. 2019.
 
 ## 2026-05-12 02:18 UTC - research-voids
 - **Status**: Success
