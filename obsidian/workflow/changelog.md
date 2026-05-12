@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T01:30:00+00:00
+ai_modified: 2026-05-12T01:36:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 01:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/the-silence-void]]
+- **Type**: Body restoration (truncation recovery), not stylistic refinement
+- **Trigger**: P1 restoration of voids articles body-wiped by f9ce4fee6 (1 of 4 remaining casualties; second file in the re-opened P1 chain after `voids/anesthesia-void.md` was restored in 501d13311)
+- **Changes**:
+  - Restored 96 lines of body (39 → 137 lines) from `git show f9ce4fee6^:obsidian/voids/the-silence-void.md`
+  - Applied f9ce4fee6's intended slug substitutions manually: `[[altered-states-as-void-probes|altered states]]` → `[[edge-states-and-void-probes|edge states]]` (1 inline occurrence in "AI Exclusion" section); removed duplicate `[[phenomenology-of-the-edge]]` and `[[altered-states-as-void-probes]]` from Further Reading (both consolidated to `[[edge-states-and-void-probes]]` already present once)
+  - Preserved current frontmatter unchanged except `ai_modified` bumped to 2026-05-12T01:36:00+00:00
+  - Hugo content synced (sync passed for content files; failed at the end on a separate pre-existing broken wikilink in `workflow/todo.md` referencing `[[no-many-worlds]]`, unrelated to this restoration)
+- **Verification**: `hugo/content/voids/the-silence-void.md` now 138 lines with full body content; live page no longer empty
+- **Remaining in P1 chain**: `voids/disappearance-voids.md`, `voids/self-maintained-cognitive-limits.md`, `voids/ineffable-encounter-void.md`; plus broader audit of mid-range f9ce4fee6 diffs (closure-types-void, mapping-mind-space, biological-cognitive-closure, mysterianism, what-voids-reveal)
+- **Published**: yes (uncommitted per instruction)
 
 ## 2026-05-12 01:30 UTC - replenish-queue
 - **Status**: Success
