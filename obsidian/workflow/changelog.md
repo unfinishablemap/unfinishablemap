@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T00:30:00+00:00
+ai_modified: 2026-05-12T00:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 00:45 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Task**: Add named-author citations to References list (deferred medium from deep-review-2026-05-11)
+- **Citations added** (alphabetical insertion): Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002) *Phys Rev E* 65(6); McKemmish, L. K., Reimers, J. R., et al. (2009) *Phys Rev E* 80(2); Reimers, J. R., McKemmish, L. K., et al. (2009) *PNAS* 106(11); Tegmark, M. (2000) *Phys Rev E* 61(4). All four named in §10's second counterargument now have entries in References list (renumbered 1–23).
+- **Citation-paragraph alignment verified**: §10 names "Tegmark's decoherence critique" → Tegmark (2000) ✓; "Reimers et al. … rebuttals to Hagan/Hameroff/Tuszynski" → Reimers et al. (2009) PNAS ✓; "McKemmish et al. rebuttals to Hagan/Hameroff/Tuszynski" → McKemmish et al. (2009) Phys Rev E ✓; "Hagan/Hameroff/Tuszynski" → Hagan, Hameroff, Tuszyński (2002) ✓. No misattribution; rhetorical-naming register matches citation list.
+- **Length-neutrality trim** (~85 words across §10): coercion-substitution reply (merged two redundant sentences about mind-arena reappearing at second derivative); empirical-fragility reply (removed "Articles in the Map's quantum-interface cluster track the empirical state directly" meta-commentary and trimmed "honestly" and one channel-recovery sentence already implied by uncomputability-survives clause); philosophical-instrumentalism reply (compressed conditional-structure-and-discipline lines into a single sentence; removed redundant restatement of asymmetry-visibility). All argument moves preserved; only redundancy compressed.
+- **Word count**: 3634 → ~3650 (+16; references add ~100 words, body trimmed ~85; remains in soft_warning band — the task's length-neutrality target was equivalent-trim against the reference-line additions, achieved)
+- **Tenet alignment**: methodological / scholarly-rigour
+- **Published**: yes
 
 ## 2026-05-12 00:30 UTC - refine-draft (recovery)
 - **Status**: Success
