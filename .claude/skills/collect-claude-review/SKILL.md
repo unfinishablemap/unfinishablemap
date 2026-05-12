@@ -36,11 +36,12 @@ Wait 3s, then check login (composer present + URL not redirected). If `LOGIN_REQ
 
 ## Step 2.5: Wake the tab
 
-Claude (and Anthropic's web app generally) lazily renders DOM updates when a tab is backgrounded — the model finishes server-side, but the artifact tile / stop button may not appear until the tab gains focus and Chrome flushes deferred renders. Always wake the tab before checking readiness:
+Claude (and Anthropic's web app generally) lazily renders DOM updates when a tab is backgrounded — the model finishes server-side, but the artifact tile / stop button may not appear until the tab gains focus and Chrome flushes deferred renders. The dispatcher's freshly-launched Chrome subprocess is particularly slow to mount research-heavy conversations (271-source audits took >20s on 2026-05-12, 8 collect attempts in a row missed the wake budget). Wake the tab aggressively before checking readiness:
 
 1. Run `computer.scroll` direction `down` with `scroll_amount: 1` to nudge the page (forces reflow + visibility events).
-2. Wait 2 seconds for any deferred renders to flush.
-3. Verify visibility:
+2. **Click somewhere in the conversation area** to force real focus — e.g., `computer.left_click` at coordinate `[600, 400]` (mid-viewport, lands on conversation content). A scroll alone does NOT always force focus in subprocess-spawned Chrome; an OS-level click does.
+3. Wait **10 seconds** for any deferred renders to flush. (Increased from 2s after the 2026-05-12 failure pattern — research artifacts with hundreds of sources take longer to mount.)
+4. Verify visibility:
 
 ```javascript
 JSON.stringify({
@@ -53,10 +54,9 @@ If `visibilityState !== "visible"`, log a warning. Proceed anyway — Chrome MCP
 
 ## Step 3: Check readiness (poll, don't single-shot)
 
-The artifact tile can take longer than the Step-2.5 wake budget to render — Claude.ai lazily mounts research artifacts and the tab may not have full focus when the dispatcher's freshly-spawned Chrome subprocess opens it. A single check at +5s post-navigate misses these cases and the skill incorrectly increments `collect_attempts`. Poll up to 4 times instead of single-shot.
+The artifact tile can take longer than the Step-2.5 wake budget to render — Claude.ai lazily mounts research artifacts and the tab may not have full focus when the dispatcher's freshly-spawned Chrome subprocess opens it. A single check misses these cases and the skill incorrectly increments `collect_attempts`. **Run an explicit poll loop with 8 attempts** — phrased as a numbered procedure to prevent shortcutting:
 
-Run this check, then if not-ready, wait 5s (via `computer.wait`) and re-run. Up to 4 attempts (~20s total wait beyond Step 2.5):
-
+The readiness check (call this **CHECK**):
 ```javascript
 JSON.stringify({
   msgCount: document.querySelectorAll('[data-testid="user-message"]').length,
@@ -65,11 +65,29 @@ JSON.stringify({
 })
 ```
 
-**Ready** when: `stopBtn === false` AND `artifactTiles.length >= 1`. If ready, proceed to Step 4 immediately.
+**Ready** when: `stopBtn === false` AND `artifactTiles.length >= 1`.
 
-**Between polls**, if not ready, scroll the page once more (`computer.scroll`, direction `down`, `scroll_amount: 1`) before the 5s wait — repeated nudges sometimes shake loose a stuck render. Log each poll's result.
+**Poll procedure (do every step; do NOT stop early on not-ready until poll 8)**:
 
-**Not ready after 4 polls**:
+1. Run **CHECK** (poll 1). If ready → jump to Step 4.
+2. `computer.scroll` direction `down`, `scroll_amount: 1`. Then `computer.wait` duration `5`.
+3. Run **CHECK** (poll 2). If ready → jump to Step 4.
+4. `computer.scroll` direction `down`, `scroll_amount: 1`. Then `computer.wait` duration `5`.
+5. Run **CHECK** (poll 3). If ready → jump to Step 4.
+6. `computer.scroll` direction `down`, `scroll_amount: 1`. Then `computer.wait` duration `5`.
+7. Run **CHECK** (poll 4). If ready → jump to Step 4.
+8. `computer.left_click` at coordinate `[600, 400]` (force-focus the conversation area). Then `computer.wait` duration `5`.
+9. Run **CHECK** (poll 5). If ready → jump to Step 4.
+10. `computer.scroll` direction `down`, `scroll_amount: 1`. Then `computer.wait` duration `5`.
+11. Run **CHECK** (poll 6). If ready → jump to Step 4.
+12. `computer.scroll` direction `down`, `scroll_amount: 1`. Then `computer.wait` duration `5`.
+13. Run **CHECK** (poll 7). If ready → jump to Step 4.
+14. `computer.scroll` direction `down`, `scroll_amount: 1`. Then `computer.wait` duration `5`.
+15. Run **CHECK** (poll 8). If ready → jump to Step 4.
+
+Total budget for Step 3: ~40 seconds (8 checks + 7 inter-poll waits). Log each CHECK result so a failed run leaves a trace.
+
+**Not ready after 8 polls**:
 
 ```python
 from tools.reviews.pending import increment_attempt
@@ -78,7 +96,7 @@ increment_attempt(target_filename)
 
 then exit. Next loop iteration retries from scratch (fresh tab, fresh navigate).
 
-**Abandon check** (do this *before* the increment, after the 4th failed poll): if `(now - commissioned_at) >= 4 hours` AND still not ready, `mark_abandoned(target_filename)`, log Telegram WARNING, exit without incrementing.
+**Abandon check** (do this *before* the increment, after the 8th failed poll): if `(now - commissioned_at) >= 4 hours` AND still not ready, `mark_abandoned(target_filename)`, log Telegram WARNING, exit without incrementing.
 
 ## Step 4: Open the artifact panel
 
