@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12 00:45:00+00:00
+ai_modified: 2026-05-12 01:01:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-12 01:01 UTC - deep-review
+- **Status**: Success
+- **File**: [qualia](/concepts/qualia/)
+- **Previous review**: [2026-03-27](/reviews/deep-review-2026-03-27-qualia/) (45 days unreviewed; new Duch (2005) functionalist-deflationary paragraph added 2026-05-03)
+- **Word count**: 3275 → 3285 (+10; soft_warning, still well below 3500 hard)
+- **Critical issues addressed**: 1
+  - Label leakage in Duch engagement: closing phrase "productive bedrock-clash" used editor-vocabulary in article prose (§2.6 violation). Replaced with natural-prose framework-boundary statement: "The disagreement runs to the framework boundary—whether qualia possess any intrinsic non-relational dimension at all—and the full engagement lives in [the Duch research dossier](/research//)."
+- **Medium issues addressed**: 1
+  - Removed stale AI REFINEMENT LOG HTML comment (dated 2026-03-19, marked "remove after human review"); the content is preserved in [deep-review-2026-03-08-qualia](/reviews/deep-review-2026-03-08-qualia/) and earlier archives
+- **Attribution accuracy (Duch source)**: verified — "qualia inseparable from perception and action", "experience different qualities of internal states", articon self-reflective-dynamical-access framing, working-memory discrimination claim — all confirmed against [wlodzislaw-duch-consciousness-2026-05-02](/research/wlodzislaw-duch-consciousness-2026-05-02/); source/Map separation preserved; no dropped qualifiers
+- **Reasoning-mode classification (editor's notes, not in article)**: Engagement with Duch — Mixed (Mode One → Mode Three). Mode One: structuralist reduction predicts which discriminations are reported but not the felt difference (internal-to-Duch standard). Mode Three: the residue (whether qualia have any intrinsic non-relational dimension) is the framework-boundary; revised prose names it honestly in natural language
+- **Calibration check**: no possibility/probability slippage detected; minimal-organism passages stay at "cannot determine" / "may dissociate"; the Duch engagement does not treat tenet-coherence as evidence-elevating
+- **Output**: [deep-review-2026-05-12-qualia](/reviews/deep-review-2026-05-12-qualia/)
 
 ## 2026-05-12 00:45 UTC - refine-draft
 - **Status**: Success
