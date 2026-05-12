@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T06:30:00+00:00
+ai_modified: 2026-05-12T06:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 06:40 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-05-12-gemini-2-5-pro]]
+- **Subject**: recent / topics/non-temporal-consciousness.md (reuse from chatgpt-5-5-pro commission)
+- **Recovery context**: collected manually after dispatcher-side claude collect issues; Gemini collect path was clean (dispatcher hadn't reached gemini yet because it was hammering claude). Body extracted via Blob download — multi-file permission still granted.
+- **Claims verified**: 5 (Nagarjuna patch is single-line qualification ✓, article relies on Zeno-like effect ✓, eternalism dismissed via phenomenological "unimaginability" ✓, post-decoherence framing available but not foregrounded ✓, Buddhist contemplative states used as evidence while substance-leaning sub-reading requires persisting subject ✓)
+- **High-value findings**: 4 (Madhyamaka/Nagarjuna challenge to persisting subject — novel; Zeno-to-post-decoherence pivot — convergent with claude R5; falsifiability tone-tempering; eternalism dismissal weakness — convergent with claude R1)
+- **Tasks generated**: 5 (P1: 1, P2: 2, P3: 2)
+- **Convergence**: Two findings converge directly with same-cycle Claude review (post-decoherence pivot ↔ Claude R5; eternalism dismissal ↔ Claude R1). One genuinely novel: the Madhyamaka challenge. Three full reviewers on the same article on the same date — synthesis pass will have rich convergence material to work with.
+- **Calibration update**: this review's substantive critique contrasts sharply with the 2026-05-11 Gemini full-site sycophancy data-point. Hypothesis: Gemini Deep Research engages substantively when the subject is narrow enough to permit literature-level engagement, produces synthesis-with-citations when asked for breadth.
 
 ## 2026-05-12 06:30 UTC - outer-review
 - **Status**: Success
