@@ -1,13 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12 02:04:00+00:00
+ai_modified: 2026-05-12 02:21:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-12 02:21 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Changed sources**: 2 ([coupling-modes](/concepts/coupling-modes/) mod 2026-05-11; [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) mod 2026-04-17)
+- **Word count**: 3671 → 3828
+- **Review**: [apex-evolve-2026-05-12-altered-states-as-interface-evidence](/reviews/apex-evolve-2026-05-12-altered-states-as-interface-evidence/)
+- **Key integrations**: Hypnagogia section now frames the coupling-modes mapping as a testable prediction about sequential disengagement signatures (basis / timing / selection-level). Anaesthesia section adds neural inertia as a third recovery datum (Sepúlveda et al. 2019; flip-flop bistability). Minimal Quantum Interaction tenet section introduces the [selection-only-channel](/concepts/selection-only-channel/) as the strictest reading compatible with the convergence matrix. Dualism tenet paragraph trimmed to remove redundancy with "What the Pattern Reveals." References corrected: Mashour et al. 2021 (not Bodart) for active reboot; added Sepúlveda et al. 2019.
+
+## 2026-05-12 02:18 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Encoding Void — structural opacity of memory-encoding-from-inside (prospective complement to inaccessible-past)
+- **Category**: Mixed — primarily *Unexplorable* (the encoding operation is structurally inaccessible from within the operating system); secondarily *Occluded* (consciousness may be the report-out of certain encoding events rather than their observer, per Henke-lab subliminal-encoding work)
+- **Output**: [voids-encoding-void-2026-05-12](/research/voids-encoding-void-2026-05-12/)
+- **Key finding**: Three structurally distinct faces converge — selection (sharp-wave-ripple tagging + recall-gated consolidation, Yang 2024 / Sun 2025), boundary (Zacks's EST + Radvansky's working-memory "flushing" / doorway effect, with flushing operating even *despite active maintenance* per Yan 2024 and *anticipated* boundaries per Wahlheim 2023), and consolidation (sleep-dependent stabilisation "outside of awareness and without intent" per Stickgold; Schreiner et al. 2022 *inverse forgetting* for subliminally-encoded traces). Given the 99/100 cap and the absorption-over-proliferation discipline established by the three 2026-05 research-stage voids (translation / effort / cognitive-phenomenology), the proposal is absorption into [inaccessible-past](/voids/inaccessible-past/) as the prospective complement, with secondary absorption into [transit-void](/voids/transit-void/), [thought-stream-void](/voids/thought-stream-void/), and [thrownness-void](/voids/thrownness-void/) — no new article slot consumed.
 
 ## 2026-05-12 02:04 UTC - deep-review
 - **Status**: Success (stability confirmed)
