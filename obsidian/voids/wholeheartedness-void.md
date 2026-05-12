@@ -2,9 +2,9 @@
 title: "The Wholeheartedness Void"
 description: "From inside, consciousness cannot verify that a present identification with a desire, belief, or value is genuine, settled, or stable — three structural faces of one void at the standing condition of being self-identified."
 created: 2026-05-11
-modified: 2026-05-11
+modified: 2026-05-12
 human_modified: null
-ai_modified: 2026-05-11T21:42:00+00:00
+ai_modified: 2026-05-12T03:35:00+00:00
 last_deep_review: 2026-05-11T19:43:00+00:00
 draft: false
 topics:
@@ -47,7 +47,7 @@ The void sits adjacent to the [[decision-void]] in the agency family. Where the 
 
 ## Three Faces, One Void
 
-The Wholeheartedness Void exhibits the [[conjunction-coalesce|conjunction-coalesce]] structure deployed for [[suspension-void]], [[decision-void]], [[agency-void]], and [[vagueness-void]]: a single void with multiple faces whose informativeness lies in their seam. The faces span distinct modal categories — *structural* for regress, *temporal* for disownability, *content-relational* for ambivalence-detection — and the void is constituted by the joint failure to bridge across them.
+The Wholeheartedness Void exhibits the [[conjunction-coalesce|conjunction-coalesce]] structure (modal-categorical seam-type per the apex typology, second exemplar alongside [[suspension-void]]) deployed across [[decision-void]], [[agency-void]], and [[vagueness-void]]: a single void with multiple faces whose informativeness lies in their seam. The faces span distinct modal categories — *structural* for regress, *temporal* for disownability, *content-relational* for ambivalence-detection — and the void is constituted by the joint failure to bridge across them.
 
 ### Regress (Unexplorable)
 

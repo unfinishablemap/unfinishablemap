@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T03:16:00+00:00
+ai_modified: 2026-05-12T03:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 03:35 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/conjunction-coalesce]]
+- **Changed sources**: 1 ([[voids/wholeheartedness-void]], 2026-05-11)
+- **Word count (body)**: ~4623 → ~4750 (net +~127; remains over 4000-word soft threshold at ~119%)
+- **Change**: absorbed wholeheartedness-void as sixth cognate within the exemplar set (seventh overall, with common-knowledge-void sitting outside). Added cognate paragraph with three faces (regress / disownability / ambivalence-detection) and explicit three-way closure argument, framed as a worked exhibit of the apex's central seam-claim. Extended modal-categorical typology entry (now multiply instantiated). Compressions across five sections offset most of the addition.
+- **Reciprocal cross-link**: installed in [[voids/wholeheartedness-void]] §"Three Faces, One Void" pointing at the apex's modal-categorical seam-type classification.
+- **Follow-up flagged**: [[apex/taxonomy-of-voids]] conjoint-voids list reconciliation against the now-seven-cognate inventory.
+- **Review**: [[reviews/apex-evolve-2026-05-12-conjunction-coalesce]]
 
 ## 2026-05-12 03:16 UTC - cross-review (deep-review skill, cross-tier audit mode)
 - **Status**: Success
