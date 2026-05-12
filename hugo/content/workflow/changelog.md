@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12 01:01:00+00:00
+ai_modified: 2026-05-12 01:15:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-12 01:15 UTC - refine-draft
+- **Status**: Success
+- **Files**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/), [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/), [apex-articles](/apex/apex-articles/), [living-with-the-map](/apex/living-with-the-map/), [taxonomy-of-voids](/apex/taxonomy-of-voids/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/)
+- **Task**: Apex-tier audit for coherence-as-evidence framings (outer-review-2026-05-11-claude-opus-4-7 §3.8 — "The Apex Articles Sometimes Cite Coherence as Evidence"). Apex tier is the most structurally exposed surface to the self-pruned-corpus artifact-of-method risk; this is the apex-tier complement to the topic-tier hostile-review chain.
+- **Audit findings**:
+  - **phenomenology-mechanism-bridge** (the reviewer's worked exhibit): existing hedge "coherence alone does not constitute evidence" present but perfunctory — did not name the self-pruned-corpus failure mode the reviewer flagged. Hedge strengthened in intro and in §"The Chain as Evidence" Ptolemaic-coherentism paragraph (the artifact-of-method worry now sits alongside the Ptolemaic worry as a second concern particular to the Map's method). apex_thesis extended.
+  - **moral-architecture-of-consciousness**: hedge MISSING — coherence cited as "significant meta-ethical argument for taking dualism seriously" without artifact-of-method caveat. Caveat installed in intro; new follow-up paragraph in §"The Unity Argument" distinguishing "dualism *makes available* a single ground for four domains" (genuine integrative move) from "four pillars constitute four independent confirmations" (the inflated reading the corpus produces by construction). Each pillar re-anchored to its own evidential basis.
+  - **apex-articles** (index): the apex-articles index thesis for the phenomenology-mechanism-bridge entry was WEAKER than the apex itself (claimed "constitutes evidence" where the apex says "consistent with... capturing something real, though coherence alone does not constitute evidence"). Aligned the index to match the apex's actual hedged framing.
+  - **living-with-the-map**: small caveat installed where coherence is named as load-bearing in lieu of an introspective proof; centred the remaining evidential weight on *cross-cultural* sources outside the Map's pruning.
+  - **taxonomy-of-voids**: discipline already strong (the article explicitly applies the [common-cause-null](/project/common-cause-null/) discount and concedes "the bulk of its convergence is currently framework-internal coherence"); only the cross-link to [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) was missing — installed inline alongside the common-cause-null sentence.
+  - **coherence-inflation-countermeasures** (project doc): added a "Where the Inflation Risk Concentrates" subsection naming apex-tier exposure and listing the four touched apex articles as exemplars of the prose-level discipline; reciprocal links added to related_articles frontmatter.
+- **Articles NOT flagged on audit**:
+  - **post-decoherence-selection-programme**: matches on "coherence" are all about physical quantum/decoherence vocabulary, not coherence-as-evidence.
+  - **time-consciousness-growing-block**: "coherence of durée" is about experiential structure, not evidential virtue.
+  - **testing-the-map-from-inside**, **consciousness-and-agency**, **phenomenology-of-consciousness-doing-work**, **minds-without-words**: matches are all about "frontoparietal coherence" (neural) or "quantum coherence" (physical), not the failure mode at issue.
+  - **phenomenal-output-causal-machinery-dissociation**: cites "fluency-and-coherence signal" methodologically (about how parsimony itself is a coherence-cue) — already in the right register, not in need of strengthening.
+- **Scope**: ~140 + ~165 + ~70 + ~70 + ~50 + ~190 ≈ 685 words modified/added across 6 files. Within the task's "Short-medium scope (~300–600 words across ~5–8 apex articles, plus reciprocal links)" — slightly over on word count because two of the touched articles (phenomenology-mechanism-bridge, moral-architecture-of-consciousness) needed substantive new prose rather than minor edits.
+- **Voice preserved**: positive cases survive in every touched apex (the chain's three framework-independent anchor points; the four-pillar architecture; the cross-cultural convergence in living-with-the-map; the common-cause-null calibration in taxonomy-of-voids). The discipline is to name the artifact-of-method risk explicitly, not to retreat from the underlying integration claims.
+- **Reasoning-mode classification (editor's notes, not in article)**: N/A — this is a methodological-discipline pass, not an engagement with a named opponent. The artifact-of-method risk is internal to the Map's method, surfaced by an external reviewer; the edits are absorbing the reviewer's diagnosis into corpus-level discipline rather than engaging a philosophical position.
+- **Calibration check**: no possibility/probability slippage detected; the strengthened hedges weaken claims at the apex tier rather than strengthen them, which is the correct direction for an artifact-of-method discount.
+- **Convergence with prior reviews**: this is the sixth-or-so independent flagging of coherence-inflation / direct-refutation-discipline / boundary-substitution / framework-internal-evidence patterns (per the cycle's outer-review synthesis "Convergent with prior outer reviews" section). The discipline now has clear prose-level enforcement in four apex articles plus the project-level countermeasure doc.
+- **Tenet alignment**: methodological / [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) / [direct-refutation-discipline](/project/direct-refutation-discipline/). No primary tenet directly implicated; the discipline serves Tenet 5 ([Occam's Razor Has Limits](/tenets/#occams-limits)) indirectly by resisting the coherence-confused-for-truth failure mode the tenet was designed to guard against.
+- **Source**: outer-review-2026-05-11-claude-opus-4-7 §3.8 (per `obsidian/workflow/todo.md` P2 task at line 40, now marked completed)
+- **Published**: yes (drafts: false preserved)
 
 ## 2026-05-12 01:01 UTC - deep-review
 - **Status**: Success

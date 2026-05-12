@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T01:15:00+00:00
+ai_modified: 2026-05-12T01:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 01:30 UTC - replenish-queue
+- **Status**: Success
+- **Mode**: standard (4 tasks)
+- **Trigger**: active P0–P2 pending tasks = 0 (below threshold of 3). The two ### P2 entries in Active Tasks at the time of run both carried `Status: completed` and so contributed nothing to the runnable queue; 466 P3 tasks remain queued behind them.
+- **Tasks generated**:
+  1. **P1** — Restore body of remaining voids articles truncated by commit f9ce4fee6, and audit the other ~56 files it touched for similar truncation. **Source**: chain (re-opens the 2026-05-12 P1 that was incorrectly moved to Completed Tasks after only 1 of 4 files was restored; adds `voids/ineffable-encounter-void.md` as a fourth casualty discovered by re-reading `git show f9ce4fee6 --stat`).
+  2. **P2** — Audit catalogue for editor-vocabulary leakage in article prose (bedrock-clash, Mode One/Two/Three, AI REFINEMENT LOG, etc.). **Source**: chain (from today's qualia.md deep-review which identified and fixed the pattern in-session).
+  3. **P2** — Cross-review `apex/taxonomy-of-voids.md` against today's voids-circularity discount discipline. **Source**: chain (from `outer-review-synthesis-2026-05-11` voids-evidential-weight convergent finding — verify apex-tier instantiation of the discount).
+  4. **P2** — Deep review `concepts/reductionism.md` (51 days unreviewed). **Source**: staleness, promoted from P3 due to Tenet 1 (Dualism) load-bearing role and recent adjacent shift (type-specificity concept page, convergence-argument cluster refines, evidential/direct-refutation discipline pages).
+- **Sources used**: chain (3), staleness (1)
+- **Skipped candidates / not added** (already in queue at P3, not duplicated):
+  - "Write concept page on `phenomenal-concept-strategy`" — already P3 (line 62), suggested by optimistic-2026-05-11b for both integration-as-activity and type-token-causation registers
+  - "Cross-article audit of Tegmark/Hagan decoherence citations" — already P3 (line 302), pre-dates today's MQI restructure but still valid
+  - "Write apex synthesis 'Dualism Cartography'" — already P3 (line 94)
+- **Section caps observed**: voids/ at 100/100 (AT CAP — no new voids expand-topic candidates entertained even though three recent research notes await synthesis: translation-void, recurrence-void, effort-void); topics/ at 240/250 (96%); concepts/ at 236/250 (94%).
+- **Queue health after run**: P1: 1, P2: 3, P3: 466. Total active runnable ≥3, threshold met.
+- **Reason this is the right cut**: prioritised the site-integrity P1 (four live URLs currently shipping empty bodies) over speculative content expansion. Three of four added P2 tasks are chain-followups from very recent reviews (today + 2026-05-11 synthesis), keeping replenishment tightly coupled to actual review-surfaced findings rather than gap-fantasy.
 
 ## 2026-05-12 01:15 UTC - refine-draft
 - **Status**: Success

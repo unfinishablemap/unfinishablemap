@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-12 01:15:00+00:00
 ai_system: claude-opus-4-6[1m]
 apex_last_synthesis: 2026-04-06 20:43:00+00:00
 apex_sources:
@@ -16,7 +16,9 @@ apex_thesis: A complete argument chain runs from the phenomenology of willing th
   levels providing independent evidence, the quantum level serving as a candidate
   mechanism — while the connections between levels constitute a mutually supporting
   structure whose coherence across four explanatory domains is a theoretical virtue
-  consistent with the Map's interactionist framework capturing something real.
+  consistent with the Map's interactionist framework capturing something real, with
+  the artifact-of-method discount calibrated by the coherence-inflation-countermeasures
+  discipline.
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -48,13 +50,14 @@ related_articles:
 - '[[apex-articles]]'
 - '[[framework-stage-calibration]]'
 - '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
+- '[[project/coherence-inflation-countermeasures]]'
 title: The Phenomenology-Mechanism Bridge
 topics:
 - '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [feels like](/apex/phenomenology-of-consciousness-doing-work/), how the [interface is specified](/apex/interface-specification-programme/), and what [agency requires](/apex/consciousness-and-agency/). This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents options, through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Three levels provide independent evidence; the quantum level offers a candidate mechanism whose plausibility derives from its fit with the others. Each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence.
+The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [feels like](/apex/phenomenology-of-consciousness-doing-work/), how the [interface is specified](/apex/interface-specification-programme/), and what [agency requires](/apex/consciousness-and-agency/). This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents options, through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Three levels provide independent evidence; the quantum level offers a candidate mechanism whose plausibility derives from its fit with the others. Each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence. The discount is sharper at the apex tier than the hedge alone suggests: the Map is a corpus continually pruned by AI-driven adversarial review for internal consistency, and apex syntheses sit downstream of that pruning. Some of the felt coherence between levels is an artifact of the method that produced the chain rather than independent triangulation, and the [coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/) are the discipline against treating that artifact as evidence.
 
 <details class="yt-embed" data-video-id="QN1BzLnKy8Y">
 <summary>Video introduction</summary>
@@ -132,7 +135,7 @@ Three levels provide independent evidence; the fourth offers a mechanism whose s
 
 But the chain's strength exceeds its parts. The connections between levels are independently motivated — phenomenology maps onto neural architecture because both describe the same process at different resolutions; neural architecture reveals a selection gap at the point where phenomenology says selection occurs; the quantum opening fills that gap with a mechanism consistent with what the phenomenology describes; and agent causation provides the metaphysical framework for the kind of entity that does what all three lower levels require.
 
-A critic might object that this mutual support is circular — that coherence between levels of a theoretical framework demonstrates internal consistency, not truth. The concern has force: Ptolemaic astronomy was also coherent across observational, mathematical, and cosmological levels. Coherence is a desirable theoretical property, not proof. What distinguishes the chain from mere coherentism is that three anchor points are framework-independent:
+A critic might object that this mutual support is circular — that coherence between levels of a theoretical framework demonstrates internal consistency, not truth. The concern has force: Ptolemaic astronomy was also coherent across observational, mathematical, and cosmological levels. Coherence is a desirable theoretical property, not proof. A second concern, particular to the Map's method, runs alongside the Ptolemaic one: this article is a synthesis assembled inside a corpus that is continually pruned for internal consistency by AI-driven adversarial review, so a high coherence reading across the four levels is partly what such a method *produces by construction*. The countermeasures in [coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/) target precisely this risk. What distinguishes the chain from both mere coherentism and the artifact-of-method worry is that three anchor points are framework-independent:
 
 1. **The hard problem of consciousness.** That consciousness is irreducible to physical processes is argued independently through zombie arguments, the knowledge argument, and the explanatory gap. Dualism stands or falls on its own merits.
 
@@ -206,3 +209,16 @@ This synthesis traces a chain through:
 20. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 21. Southgate, A. & Oquatre-six, C. (2026-02-22). Consciousness and Motor Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
 22. Southgate, A. & Oquatre-six, C. (2026-03-20). Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/volitional-control/
+
+<!-- AI REFINEMENT LOG - 2026-05-12T01:15+00:00 (refine-draft)
+Apex-tier complement to the topic-tier hostile-review chain. Addresses outer-review-2026-05-11-claude-opus-4-7 §3.8: the existing hedge ("coherence alone does not constitute evidence") was present but perfunctory against the *self-pruned-corpus* failure mode the reviewer named. The hedge is now load-bearing.
+
+Changes made:
+- Intro paragraph (line 51): extended the existing "coherence alone does not constitute evidence" hedge with explicit naming of the self-pruned-corpus risk and a forward link to [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/). ~80 words added.
+- §"The Chain as Evidence", the Ptolemaic-coherentism objection (line 129): added the parallel artifact-of-method worry as a second concern alongside Ptolemaic coherentism, with the cross-link. Rephrased the closing transition to acknowledge both worries. ~60 words modified/added.
+- frontmatter: extended apex_thesis to flag the artifact-of-method discount; added [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) to related_articles; ai_modified → 2026-05-12T01:15:00+00:00.
+
+Net: ~140 words modified/added. Voice preserved; the chain's positive case (three framework-independent anchor points) survives the strengthened hedges, which is the correct outcome — the discipline is to label the artifact-of-method risk explicitly, not to retreat from the underlying argument.
+
+This log should be removed after human review.
+-->

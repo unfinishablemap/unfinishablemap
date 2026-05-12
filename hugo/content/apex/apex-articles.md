@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-05-09 17:38:00+00:00
+ai_modified: 2026-05-12 01:15:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -424,7 +424,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 **Subtitle**: From first-person experience through neural architecture to quantum selection to metaphysical agency
 
-**Thesis**: A complete argument chain runs from the phenomenology of willing through neural motor architecture through quantum selection to metaphysical agency — each level providing independent evidence while the connections between levels constitute a mutually supporting structure that no single article or existing apex traces. The chain is not circular but anchored at multiple independent points, and its coherence across four explanatory levels constitutes evidence that the Map's interactionist framework captures something real about the relationship between consciousness and the physical world.
+**Thesis**: A complete argument chain runs from the phenomenology of willing through neural motor architecture through quantum selection to metaphysical agency — three levels providing independent evidence, the quantum level serving as a candidate mechanism — while the connections between levels constitute a mutually supporting structure that no single article or existing apex traces. The chain's coherence across four explanatory levels is a theoretical virtue consistent with the Map's interactionist framework capturing something real, though coherence alone does not constitute evidence; the discount for artifact-of-method risk is calibrated by [the coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/).
 
 **Source articles**:
 - topics/motor-control-quantum-zeno

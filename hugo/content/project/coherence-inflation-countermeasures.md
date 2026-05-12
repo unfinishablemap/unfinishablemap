@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-01 14:53:00+00:00
+ai_modified: 2026-05-12 01:15:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,6 +23,10 @@ related_articles:
 - '[[automation]]'
 - '[[bedrock-clash-vs-absorption]]'
 - '[[framework-stage-calibration]]'
+- '[[apex/phenomenology-mechanism-bridge]]'
+- '[[apex/moral-architecture-of-consciousness]]'
+- '[[apex/taxonomy-of-voids]]'
+- '[[apex/living-with-the-map]]'
 title: Coherence Inflation Countermeasures
 topics: []
 ---
@@ -310,6 +314,17 @@ These countermeasures serve the [Occam's Razor Has Limits](/tenets/#occams-limit
 The Map's epistemic integrity depends on remaining genuinely falsifiable and open to revision. Coherence inflation would make the Map *unfalsifiable in practice* even if nominally falsifiable in principle—objections would get softened, evidence would get filtered, confidence would ratchet up.
 
 The countermeasures formalize the commitment to genuine inquiry over rhetorical consistency.
+
+## Where the Inflation Risk Concentrates
+
+The apex tier is the most exposed surface in the Map's content architecture. Apex articles are syntheses that sit downstream of the corpus they integrate, and integration is precisely the move that compounds method-produced coherence into framework-supporting evidence. Four apex articles currently apply this discipline visibly inside their prose — naming the artifact-of-method risk where they cite coherence as a theoretical virtue, distinguishing what coherence *makes available* from what it *evidentially licenses*:
+
+- [Phenomenology-Mechanism Bridge](/apex/phenomenology-mechanism-bridge/) — names the self-pruned-corpus risk alongside the Ptolemaic-coherentism objection in the chain's defence
+- [Moral Architecture of Consciousness](/apex/moral-architecture-of-consciousness/) — distinguishes "dualism makes available a single ground for four domains" (genuine) from "four pillars constitute four independent confirmations" (the inflated reading)
+- [A Taxonomy of Voids](/apex/taxonomy-of-voids/) — applies the [common-cause null](/project/common-cause-null/) discipline to the 60+ void catalogue and calibrates evidential weight downward to what genuinely independent sources can supply
+- [Living with the Map](/apex/living-with-the-map/) — flags the load-bearing role coherence plays in lieu of an introspective proof and centres the weight on *cross-cultural* sources outside the corpus's pruning
+
+This is the prose-level half of the countermeasure; the corpus-level half is Countermeasures 1–8 above.
 
 ## Further Reading
 

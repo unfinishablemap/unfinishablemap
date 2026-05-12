@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-03 11:28:31.583340+00:00
+ai_modified: 2026-05-12 01:15:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-01 21:33:00+00:00
 apex_sources:
@@ -46,6 +46,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[moral-architecture-of-consciousness]]'
+- '[[project/coherence-inflation-countermeasures]]'
 title: Living with the Map
 topics:
 - '[[meaning-of-life]]'
@@ -151,7 +152,7 @@ Technology amplifies these stakes. Current AI systems lack consciousness on this
 
 [AI alignment](/topics/purpose-and-alignment/) faces a deeper problem: we haven't resolved what human interests ultimately are. If our preferences are unreliable guides to our own good—shaped by evolution for survival rather than flourishing—then learning from them cannot produce genuine alignment. The [experiential alignment](/concepts/experiential-alignment/) framework follows: aligned systems should target predicted distributions over conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices, with special weight to felt valence because the badness of suffering is constitutive of what suffering *is*. Conscious beings must remain in the loop, not because humans are infallible, but because only conscious beings can verify whether experiential quality is being served.
 
-A second limit is internal rather than technological. The [agency void](/voids/agency-void/) names a structural circularity: consciousness cannot verify its own causal power from inside, because every check is performed by the very faculty under investigation. This applies symmetrically to interactionism and its critics—both [epiphenomenalism](/concepts/epiphenomenalism/) and the Map's agent-causal framework hit the same first-person verification limit. The Map's case therefore rests on coherence with phenomenology, neural data, and convergent cross-cultural evidence, not on an introspective proof that no framework could deliver. Practical guidance follows the same shape: act on the framework that best integrates the evidence available, while accepting that some aspects of your own agency may remain structurally opaque. Buddhist Madhyamika offers a complementary positive view—*upādāna* and *duḥkha* form a competing analysis of choice and suffering rather than the Map's only rival being eliminativism—and the symmetric disagreement is itself a feature of the territory rather than a defect of either map.
+A second limit is internal rather than technological. The [agency void](/voids/agency-void/) names a structural circularity: consciousness cannot verify its own causal power from inside, because every check is performed by the very faculty under investigation. This applies symmetrically to interactionism and its critics—both [epiphenomenalism](/concepts/epiphenomenalism/) and the Map's agent-causal framework hit the same first-person verification limit. The Map's case therefore rests on coherence with phenomenology, neural data, and convergent cross-cultural evidence, not on an introspective proof that no framework could deliver. The load-bearing role coherence plays here requires the artifact-of-method discount [the countermeasures](/project/coherence-inflation-countermeasures/) specify: a corpus pruned for internal consistency will read coherent by construction, and the case is strongest where convergence comes from *cross-cultural* sources whose pruning is not under the Map's control. Practical guidance follows the same shape: act on the framework that best integrates the evidence available, while accepting that some aspects of your own agency may remain structurally opaque. Buddhist Madhyamika offers a complementary positive view—*upādāna* and *duḥkha* form a competing analysis of choice and suffering rather than the Map's only rival being eliminativism—and the symmetric disagreement is itself a feature of the territory rather than a defect of either map.
 
 The appropriate response is to *keep inquiring*. The unfinishable aspect of the Map is built into its name. Understanding is a process, not a destination. [Mysterian](/concepts/mysterianism/) philosophy suggests some aspects of consciousness may exceed our cognitive capacity to fully comprehend—yet evidence can point toward truths we cannot fully articulate.
 

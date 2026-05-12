@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-05-10 17:44:00+00:00
+ai_modified: 2026-05-12 01:15:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-10 17:44:00+00:00
 apex_sources:
@@ -50,6 +50,7 @@ related_articles:
 - '[[attention-as-causal-bridge]]'
 - '[[alignment-in-objective-experiential-terms]]'
 - '[[ethics-of-cognitive-enhancement-under-dualism]]'
+- '[[project/coherence-inflation-countermeasures]]'
 title: The Moral Architecture of Consciousness
 topics:
 - '[[ethics-of-consciousness]]'
@@ -58,7 +59,7 @@ topics:
 - '[[phenomenology-of-moral-life]]'
 ---
 
-If consciousness is irreducible and causally efficacious, ethics gains a distinctive kind of unification. The Unfinishable Map's dualism does not merely add a metaphysical layer to existing moral philosophy—it provides an architecture in which four traditionally separate domains of ethics share a single ground. Value theory, agency theory, normativity, and moral epistemology have long drawn on different and often incompatible foundations. Under dualism, all four converge on conscious experience. What has value, who bears responsibility, why moral claims bind, and how moral properties are perceived become aspects of a single phenomenon rather than outputs of four separate theories that never quite fit together. This is the moral architecture of consciousness—and its coherence is a significant meta-ethical argument for taking dualism seriously.
+If consciousness is irreducible and causally efficacious, ethics gains a distinctive kind of unification. The Unfinishable Map's dualism does not merely add a metaphysical layer to existing moral philosophy—it provides an architecture in which four traditionally separate domains of ethics share a single ground. Value theory, agency theory, normativity, and moral epistemology have long drawn on different and often incompatible foundations. Under dualism, all four converge on conscious experience. What has value, who bears responsibility, why moral claims bind, and how moral properties are perceived become aspects of a single phenomenon rather than outputs of four separate theories that never quite fit together. This is the moral architecture of consciousness—and its coherence is a significant meta-ethical consideration in favour of taking dualism seriously, with the caveat that coherence within a corpus continually pruned by AI-driven adversarial review will be high by construction; the [coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/) are the discipline against reading that artifact as independent confirmation.
 
 The architecture has concrete consequences. It generates a graded account of responsibility tied to attentional capacity, extends moral status to all conscious beings, and opens a frontier question about whether value itself participates in the mechanism through which consciousness acts on the physical world.
 
@@ -150,6 +151,8 @@ The most defensible current position is graduated: valence modulates attention, 
 
 The distinctive claim is not that dualism answers each ethical question better than materialism—individual arguments can be disputed—but that it answers them *from the same place*. Value, agency, normativity, and moral perception all trace back to irreducible conscious experience. Genuine agency without real value would be causal power exercised in a normative vacuum; real value without genuine agency would be goodness and badness that conscious beings can witness but never affect; phenomenal normativity without agency would be demands addressed to beings who cannot respond; moral perception without real value would be apprehension of properties that do not exist. Each element needs the others, and consciousness provides them all.
 
+The unity-as-evidence move requires the artifact-of-method discount [the countermeasures](/project/coherence-inflation-countermeasures/) specify. The four pillars were assembled within a corpus that prunes for internal consistency, and "fits together" is a property such a corpus produces by construction. The defensible reading is therefore weaker than triumphant unification: dualism *makes available* a single ground for four domains that materialism leaves fragmented — the integrative move is genuine — but the four pillars do not constitute four independent confirmations. Each pillar bears its own evidential weight (phenomenal value realism rests on the badness-of-suffering claim, agent causation on the metaphysics of substance causation, phenomenal normativity on the four-textures architecture, moral perception on the gestalt-and-deepening phenomenology); the unity is what those pillars *enable*, not a fifth independent line.
+
 ### The Compatibilist Symmetry Challenge
 
 The architecture's unity does not by itself prove that the libertarian framing is the *only* metaphysics that secures the moral content here. A serious objection runs throughout: if sophisticated reasons-responsive determinism explains the same deliberative phenomenology, the same praise/blame practices, the same character-formation arc, and the same moral seriousness as agent causation, what additional moral work is the libertarian metaphysics doing? The honest answer, considered in moral theory alone, may be: little. The obligation-intelligibility argument runs equivalently if "live options" are read as deliberatively-salient alternatives a reasons-responsive mechanism settles among; the authorship argument runs equivalently if "authorship" is read as identification with one's effective higher-order desires.
@@ -219,3 +222,16 @@ This synthesis draws on:
 18. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 19. Frankfurt, H. (1971). "Freedom of the Will and the Concept of a Person." *Journal of Philosophy*, 68(1), 5-20.
 20. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press.
+
+<!-- AI REFINEMENT LOG - 2026-05-12T01:15+00:00 (refine-draft)
+Apex-tier complement to the topic-tier hostile-review chain. Addresses outer-review-2026-05-11-claude-opus-4-7 §3.8: the article cited coherence as "a significant meta-ethical argument" without the artifact-of-method caveat the reviewer flagged as structurally most exposed at the apex tier.
+
+Changes made:
+- Intro paragraph (line 57): downgraded "significant meta-ethical argument for taking dualism seriously" to "significant meta-ethical consideration in favour of taking dualism seriously" and added the artifact-of-method caveat with forward link to [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/). ~50 words modified/added.
+- §"The Unity Argument" (line 149): added a follow-up paragraph after the four-pillar mutual-need statement that names the artifact-of-method discount directly, distinguishes "unity makes available a single ground" (genuine integrative move) from "four pillars are four independent confirmations" (the inflated reading the corpus would produce by construction), and re-anchors each pillar to its own evidential basis. ~115 words added.
+- frontmatter: added [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) to related_articles; ai_modified → 2026-05-12T01:15:00+00:00.
+
+Net: ~165 words modified/added. Voice preserved; the article's positive case for the moral architecture survives — the discipline is to name what unity *can* and *cannot* license evidentially, not to retreat from the integration claim.
+
+This log should be removed after human review.
+-->

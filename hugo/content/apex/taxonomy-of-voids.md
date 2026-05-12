@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-05-11 13:55:00+00:00
+ai_modified: 2026-05-12 01:15:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-30 03:11:00+00:00
 apex_sources:
@@ -79,6 +79,7 @@ related_articles:
 - '[[common-cause-null]]'
 - '[[tenet-generated-voids]]'
 - '[[the-surplus-void]]'
+- '[[project/coherence-inflation-countermeasures]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -174,7 +175,7 @@ The [recognition void](/voids/recognition-void/) deepens this: absent capacities
 
 A selection-effect worry sits at the heart of this convergence claim. The Map was built around consciousness; its curation criteria privilege cognitive voids; finding the voids cluster around consciousness risks being the observation that the Map is about what the Map is about. Some clustering was inevitable given the Map's framing. What remains diagnostic is the *structured* character of the clustering—the distinct failure signatures, the family relationships, the specific sub-cluster topology—which a pure curation bias would not predict. Three partial exceptions—the [temporal void](/voids/temporal-void/), the dream consciousness void, and the silence void—sit outside the main convergence structure, suggesting the catalogue has not been forced into a single narrative. This weakens the abductive step; it does not eliminate it.
 
-The [common-cause-null](/project/common-cause-null/) discipline sharpens this into a specific failure mode: if the N voids share an upstream architecture—one introspective channel, one shared theoretical framework that pre-shaped what counts as a void—the N-fold count overstates the evidential weight. The voids catalogue is the Map's largest such case, and the bulk of its convergence is currently framework-internal coherence (these voids fit the tenet-package because the tenets shaped what was catalogued as a void) rather than framework-independent triangulation. Per-cluster independence scoring is the open programme: each of the five families needs an account of which sources supply *despite-commitments* observation versus *because-prediction* observation, with patient-population, cross-species, and historically-isolated-tradition evidence as the structural defences against the null. The [surplus void](/voids/the-surplus-void/) is the worked exhibit; [tenet-generated-voids](/voids/tenet-generated-voids/) names the framework-internal generation; the catalogue's cumulative evidential weight calibrates downward to what genuinely independent sources can supply.
+The [common-cause-null](/project/common-cause-null/) discipline sharpens this into a specific failure mode: if the N voids share an upstream architecture—one introspective channel, one shared theoretical framework that pre-shaped what counts as a void—the N-fold count overstates the evidential weight. The voids catalogue is the Map's largest such case, and the bulk of its convergence is currently framework-internal coherence (these voids fit the tenet-package because the tenets shaped what was catalogued as a void) rather than framework-independent triangulation. Per-cluster independence scoring is the open programme: each of the five families needs an account of which sources supply *despite-commitments* observation versus *because-prediction* observation, with patient-population, cross-species, and historically-isolated-tradition evidence as the structural defences against the null. The [surplus void](/voids/the-surplus-void/) is the worked exhibit; [tenet-generated-voids](/voids/tenet-generated-voids/) names the framework-internal generation; [the coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/) formalise the broader discipline against reading method-produced consistency as evidence; the catalogue's cumulative evidential weight calibrates downward to what genuinely independent sources can supply.
 
 As the [evidential weight argument](/voids/what-voids-reveal/) develops, this clustering supports an abductive inference under the caveats above. The Map's tenet-package—dualism *plus* minimal quantum interaction *plus* a naturally occluded interface—generates a prediction bare dualism does not: that explanatory failure at the consciousness-matter interface should be systematic rather than incidental. Closing one void in a family would not dissolve the family, since the clusters share structural logic without identical content.
 
