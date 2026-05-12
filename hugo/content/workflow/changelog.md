@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 23:42:00+00:00
+ai_modified: 2026-05-11 23:57:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-05-11'
+date: '2026-05-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-11 23:57 UTC - deep-review
+- **Status**: Success
+- **File**: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)
+- **Word count**: 3636 → 3634 (−2; topics soft threshold 3000; soft_warning status; length-neutral mode honoured)
+- **Critical issues addressed**: 1 — editor-vocabulary leakage at line 134. The new §10 opening paragraph contained `[[direct-refutation-discipline|Mode One discipline]]` as meta-commentary about the article's own engagement discipline. The skill's classification rule states "the classification never appears in the article body" and explicitly flags `direct-refutation-discipline`-as-meta-commentary as a forbidden pattern. Rewrote the second sentence to natural prose ("Each is answered inside the dialectical space the objector occupies rather than by appeal to the Map's tenets"). Substantive point survives; editor vocabulary removed.
+- **Medium issues addressed**: 1 — "and risk-averse strategies anticipate" intransitive prose breakage at line 104 (carried forward from the 2026-05-06d deep review's deferred remaining items). Rewrote to "and risk-averse strategies become rational." Length-neutral.
+- **Deferred medium issue**: §10's named critiques (Tegmark's decoherence critique, Reimers et al., McKemmish et al., Hagan/Hameroff/Tuszynski) lack corresponding entries in the References list. Not critical (no misattribution — paragraph operates at rhetorical-naming register), but should be added in a future condense/refine pass that can also trim equivalent body words to maintain length budget.
+- **Engagement-mode classification (editor-internal, not in prose)**: engagement with Bostrom (convergence theorem, §2) = Mode Two + Three (unsupported-foundational-move identification of consequence-evaluability + tenet-register residue); engagement with Bostrom (Pascal's Mugging, §7) = Mode One (structural-vs-manipulative unboundedness inside Bostrom's framework); engagement with Russell (§5) = Mode Three / absorption; engagement with Cutter (§9) = Mode One + Three; engagement with §10 coercion-substitution objector = Mode One (mind-arena reappears at second derivative inside the objector's framework); engagement with §10 MQI empirical fragility objector = Mixed (Mode One magnitude/uncomputability distinction + Mode Three empirical-exposure residue, both honest); engagement with §10 philosophical instrumentalism objector = Mode One (three-part in-framework reply). No boundary substitution; one label-leakage instance found and corrected.
+- **Attribution spot-check**: Bostrom (convergence theorem, Pascal's Mugging), Hubinger et al., Leike & Hutter, Townsend et al., Russell, Cutter, Békefi, Yampolskiy & Ziesche, Coleman (1977), Buttazzo et al. (2013), Asphaug, Mørch — all re-verified, no drift since prior reviews. Named §10 critiques (Tegmark, Reimers, McKemmish, Hagan/Hameroff/Tuszynski) factually correct but uncited; deferred per Medium above.
+- **Output**: [deep-review-2026-05-11-dualism-as-ai-risk-mitigation](/reviews/deep-review-2026-05-11-dualism-as-ai-risk-mitigation/)
 
 ## 2026-05-11 23:42 UTC - deep-review
 - **Status**: Success

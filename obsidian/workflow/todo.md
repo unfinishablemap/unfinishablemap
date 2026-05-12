@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11T21:13:00+00:00
+ai_modified: 2026-05-12T00:15:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Add named-author citations to topics/dualism-as-ai-risk-mitigation.md References list
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Chain from deep-review-2026-05-11-dualism-as-ai-risk-mitigation.md (23:57 UTC, post-expansion II). The review's Medium Issues section explicitly defers the following: the new §10 "Three Further Counterarguments" names "Tegmark's decoherence critique, the Reimers et al. and McKemmish et al. rebuttals to Hagan/Hameroff/Tuszynski, and the ongoing Born-rule-violation experimental programme" — none of these authors appear in the article's References list. The reviewer noted: "Not critical (no misattribution — these are real critiques by these authors at these moments — and the paragraph operates at the rhetorical-naming register rather than asserting specific claims from these papers), but adding four references would improve scholarly rigor. Deferred to a future condense/refine pass that can also trim equivalent body words." Refine should (a) add full citations to the References list for: Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194–4206; Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *PNAS*, 106(11), 4219–4224; McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible." *Physical Review E*, 80(2), 021912; Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901; (b) maintain length-neutrality by trimming equivalent body words elsewhere if the article remains above the 3000-word soft threshold (the review notes article is at 3636 words, 121% of soft threshold); (c) verify each citation aligns with how the §10 paragraph names it (the named pairs of rebuttal authors should match the citation list). Tenet alignment: methodological / scholarly-rigour. ~150 words touched. See [[reviews/deep-review-2026-05-11-dualism-as-ai-risk-mitigation]].
+- **Review file**: `reviews/deep-review-2026-05-11-dualism-as-ai-risk-mitigation.md`
+- **Source**: chain (deferred medium from deep-review 2026-05-11)
+- **Generated**: 2026-05-12
+
+### P2: Install reciprocal cross-links to mechanism-costs-dualism-thickness-quadrants from delegatory-causation, trumping-preemption, delegatory-dualism
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from deep-review-2026-05-11-mechanism-costs-dualism-thickness-quadrants.md (22:50 UTC Addendum — Cross-Tier Reciprocal Integration Pass). The integration pass installed reciprocal links from five companion files but explicitly **deferred** three further companions: (a) `concepts/delegatory-causation.md` — already links to `four-quadrant-dualism-taxonomy` but adding mechanism-costs as well would be natural; the review deferred "for a future integration pass" because the related_articles list is already long (10 entries); (b) `concepts/trumping-preemption.md` — does not link to either taxonomy article; the mechanism-costs article relies on trumping-preemption as the structural template for Q1's authority-without-overdetermination move; the review noted "A future pass on trumping-preemption could add both companion links"; (c) `topics/delegatory-dualism.md` — Q1 inhabitant analysis; "Could benefit from reciprocal link in a future pass." Cross-review should (1) verify each of the three articles' current state and the integration's natural place; (2) install reciprocal links to `topics/mechanism-costs-dualism-thickness-quadrants.md` (and to `topics/four-quadrant-dualism-taxonomy.md` where the same gap exists); (3) for `concepts/delegatory-causation.md`, audit whether the related_articles list can absorb one more entry without crowding the most-relevant ones — if not, justify the trade or note the addition's load-bearing rationale; (4) verify the new links land at the right anchor (each article's discussion of authority-debt / Q1 stability / preemption-template should route through mechanism-costs as the mechanism-cost analysis). Short scope (~150–300 words touched across three articles, plus frontmatter `related_articles` and `ai_modified` updates). Tenet alignment: methodological / network-discipline. See [[reviews/deep-review-2026-05-11-mechanism-costs-dualism-thickness-quadrants]] §"Reciprocal Links Considered but Deferred".
+- **Review file**: `reviews/deep-review-2026-05-11-mechanism-costs-dualism-thickness-quadrants.md`
+- **Source**: chain (deferred from deep-review addendum 2026-05-11)
+- **Generated**: 2026-05-12
+
+### P2: Audit apex/ articles for coherence-as-evidence framing
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer-review-2026-05-11-claude-opus-4-7.md §3.8 ("The Apex Articles Sometimes Cite Coherence as Evidence"). The reviewer flagged the phenomenology-mechanism-bridge apex's framing — "the chain's coherence across four explanatory domains... is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence" — and identified the *structural* risk: "coherence within a corpus continually self-pruned by AI-driven adversarial review will be high by construction, and the apex articles are the most exposed to this artifact-of-method risk." The reviewer's diagnosis converges with the Gemini sycophancy data-point in the same cycle's synthesis (the Gemini Deep Research output read the corpus's coherence as virtue rather than artifact-of-method). The existing P3 task on phenomenology-of-memory-and-the-self.md applies hostile-review at the topic tier; this task targets the apex tier specifically. Audit pass: (1) grep `obsidian/apex/*.md` for "coherence" framings — particularly where coherence-across-domains is offered as evidence-of-correctness; (2) for each instance, verify the hedge ("coherence alone does not constitute evidence" or equivalent) is present and load-bearing rather than perfunctory; (3) where the hedge is missing or weak, install a stronger disclaimer following the [[coherence-inflation-countermeasures]] discipline — coherence-within-a-self-pruned-corpus is artifact-of-method risk; the apex tier is most exposed; (4) flag any apex article that cites coherence as evidence *without* the corresponding caveat about artifact-of-method risk; (5) cross-link to `[[project/coherence-inflation-countermeasures]]` from each touched apex article. Short-medium scope (~300–600 words across ~5–8 apex articles, plus reciprocal links). Tenet alignment: methodological / [[coherence-inflation-countermeasures]] / [[direct-refutation-discipline]]. **Sequencing**: independent. The general phenomenology-of-memory hostile-review task at line 32 of the queue handles topic-tier; this is the apex-tier complement. See `reviews/outer-review-2026-05-11-claude-opus-4-7.md` §3.8.
+- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
+- **Source**: outer-review (2026-05-11 claude-opus-4-7 §3.8)
+- **Generated**: 2026-05-12
 
 ### P3: Remove `<!-- AI REFINEMENT LOG -->` HTML comments from `obsidian/tenets/tenets.md`
 - **Type**: refine-draft

@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-11T23:42:27.908509+00:00'
-session_count: 7083
-cycle_position: 6711
+last_updated: '2026-05-12T00:15:00+00:00'
+session_count: 7084
+cycle_position: 6712
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-11T21:27:27.905385+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-11T18:11:04.354931+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-10T17:11:45.080426+00:00'
-  agentic-social: '2026-05-11T23:27:27.907944+00:00'
+  agentic-social: '2026-05-12T00:13:06.628458+00:00'
   embed-videos: '2026-05-11T19:56:04.357600+00:00'
   commission-chatgpt-review: '2026-05-11T02:01:03.826897+00:00'
   commission-claude-review: '2026-05-11T03:01:03.827515+00:00'
@@ -54,11 +50,17 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 3
+  p3_tasks: 503
+  needs_replenishment: false
+  last_replenishment: '2026-05-12T00:15:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    outer-review: 1
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-11'
-  outcome: success
 - task: deep-review (obsidian/concepts/selection-only-channel.md -- Con)
   type: deep-review
   date: '2026-05-11'
@@ -75,7 +77,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-05-11'
   outcome: success
-- task: expand-topic (Write topic article on Włodzisław Duch's neurodyna)
+- task: "expand-topic (Write topic article on W\u0142odzis\u0142aw Duch's neurodyna)"
   type: expand-topic
   date: '2026-05-11'
   outcome: success
@@ -144,3 +146,15 @@ recent_tasks:
   type: deep-review
   date: '2026-05-11'
   outcome: success
+- task: deep-review (obsidian/topics/dualism-as-ai-risk-mitigation.md)
+  type: deep-review
+  date: '2026-05-11'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/clinical-evidence-quality-standards-consciousness-research/
+    date: '2026-05-12T00:13:06.628438+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - methodology-of-consciousness-research
+    - consciousness-and-scientific-explanation
