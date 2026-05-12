@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12 07:31:00+00:00
+ai_modified: 2026-05-12 09:32:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-12 09:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Source**: outer-review (Claude Opus 4.7 2026-05-12 — R1 disambiguate "temporal"; R5 non-temporal physics)
+- **Changes**: Replaced the "Premise 3 requires care" paragraph in the irreducibility-argument section with four new paragraphs (~610 words). (1) Names the A-series / B-series fork in Premise 1 in McTaggart-derived natural prose and points out that the categorical contrast with non-temporal consciousness needs the A-series reading. (2) States the eternalist lineage at full strength — Putnam 1967, Mellor 1998, Price 1996, Barbour 1999, Petkov 2009 — and observes that on those readings Premise 1 in its strong form is false. (3) Acknowledges Maudlin 2007 as the strongest contemporary defence of objective passage as compatible with physics, then quarantines the A-theory-vs-B-theory dispute as bedrock that cannot be settled from inside physics. (4) Updates the mathematics rejoinder by conceding that the Wheeler–DeWitt equation, Barbour's timeless physics, and Rovelli's relational mechanics are non-temporal *physical* formulations and that physical description is therefore not always constitutively temporal — then argues that the contrast survives in a narrower form (these formulations parameterise physical degrees of freedom; the non-temporal consciousness is the constituting activity for the temporal order rather than a structure within it) with the categorical work transferred back onto Husserl's regress and the cognitive-phenomenological case. Added references for Barbour 1999, Maudlin 2007, Mellor 1998, Petkov 2009, Price 1996, Putnam 1967, Rovelli 1996, and the SEP entry on the problem of time in canonical quantum gravity. Linked to [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) in the new prose.
+- **Engagement**: with eternalist lineage (Putnam–Mellor–Price–Barbour–Petkov) — Mode Three (framework-boundary marking). Both sides agree on the formalism and dispute its ontological reading; the dispute cannot be settled from inside physics, and the article quarantines this as honest bedrock rather than dressing it as refutation. — with Wheeler–DeWitt / Barbour / Rovelli — Mode One attempt: the formulations are conceded to be non-temporal physical formalisms but argued to still parameterise physical degrees of freedom, so the categorical contrast survives while shifting onto separately argued grounds. — with Maudlin — sympathetic citation; contemporary defender of the Map's preferred A-theoretic reading.
+- **Published**: yes
+
+## 2026-05-12 08:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Source**: outer-review (Gemini 2.5 Pro 2026-05-12 — single most important novel finding of the cycle)
+- **Changes**: Added "The Madhyamaka Challenge to the Persisting Subject" subsection (~680 words) between the Bergson section and "What Fragmented Consciousness Reveals". States Nāgārjuna's *catuṣkoṭi* and the *anātman* (no-self) thesis at full strength; names the friction with the Map's substance-leaning sub-reading (a non-temporal consciousness with no enduring subject cannot collapse a wave function on the Map's mechanism, because there is no subject whose selection it would be); offers three responses — *minimal subject* (neo-Husserlian, Zahavi), *partial credit* (use the phenomenology only for the negative non-temporal claim), *framework-boundary marking* (the disagreement is bedrock; the Map cannot refute the *catuṣkoṭi* from inside Madhyamaka's terms) — and explicitly takes the middle path with bedrock-residue acknowledged. Added `[[direct-refutation-discipline]]` to concepts and `[[eastern-philosophy-consciousness]]` plus the source review file to related_articles.
+- **Engagement**: with Nāgārjuna / Madhyamaka — opens Mode Two (the article had helped itself to using contemplative phenomenology as evidence for a substantial subject without inheriting the no-self ontology that generated it); closes Mode Three (the disagreement is bedrock; the Map cannot refute the *catuṣkoṭi* from inside the tradition's terms, and the residue is named honestly rather than dressed as refutation).
+- **Published**: yes
 
 ## 2026-05-12 07:31 UTC - coalesce
 - **Status**: Success

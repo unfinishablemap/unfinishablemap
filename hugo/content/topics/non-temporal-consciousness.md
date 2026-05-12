@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-05-05 00:16:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-05-12 09:32:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -12,6 +12,7 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[collapse-and-time]]'
 - '[[witness-consciousness]]'
+- '[[direct-refutation-discipline]]'
 created: 2026-02-10
 date: &id001 2026-02-15
 description: Can consciousness exist outside time? Husserl's absolute flow, meditative
@@ -29,6 +30,8 @@ related_articles:
 - '[[cognitive-phenomenology-and-the-irreducibility-of-thought]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[non-temporal-fragmented-consciousness-2026-02-10]]'
+- '[[eastern-philosophy-consciousness]]'
+- '[[reviews/outer-review-2026-05-12-gemini-2-5-pro]]'
 title: Non-Temporal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -71,6 +74,22 @@ The tension between Husserl and Bergson is genuine. Both deny that consciousness
 
 A possible synthesis: Bergson's durée describes what consciousness does (produces temporal experience); Husserl's absolute flow describes what consciousness is (a non-temporal constituting activity). Durée is the output; the absolute flow is the source. This preserves Bergson's insight that lived time is irreducible to physical time while accommodating Husserl's observation that something non-temporal must ground temporal experience to avoid regress. Bergsonians would contest this synthesis — for Bergson, the distinction between what consciousness *does* and what it *is* collapses, since consciousness just is its creative activity. The synthesis therefore favours Husserl, and the genuine tension may not be fully resolvable.
 
+## The Madhyamaka Challenge to the Persisting Subject
+
+The contemplative evidence carries an ontological commitment that the Map cannot straightforwardly inherit. The states the previous section relies on — the upper *Jhānas*, the cessation of *Nirodha Samapatti*, the witness consciousness foregrounded in Advaita-influenced practice — emerge from traditions that interpret what they report through a specific metaphysics of the subject. In the Madhyamaka school descending from Nāgārjuna, that metaphysics is austere. The *catuṣkoṭi* (tetralemma) denies that any phenomenon can coherently be said to exist, not exist, both, or neither — and the experiencing subject is no exception. The apparent unity of the deep meditative state, on this reading, reflects the absence of grasping for an underlying mind rather than the presence of one. *Anātman* (non-self) is the tradition's preferred interpretation of the phenomenology, not peripheral commentary on it: the dissolution of temporal markers in deep absorption coincides with the dissolution of the experiencer who might have hosted them.
+
+This is awkward for an article that has just relied on those reports. The Map's downstream commitments — its substance-leaning sub-reading of dualism, which the agency and quantum-selection articles take up — require a substantial, persisting agent capable of wielding causal power, specifically the power to select among collapse-eligible quantum outcomes. A non-temporal consciousness with no enduring subject cannot collapse a wave function on that mechanism, because there is no subject *whose* selection it would be. The article has therefore drawn on the contemplative phenomenology while setting its ontology aside, and the gap deserves naming rather than absorption into a parenthetical.
+
+Three responses are available, and the article should not pretend the matter is closed.
+
+The first is the *minimal subject* response, developed in neo-Husserlian phenomenology (Zahavi most explicitly). The absolute flow is "standing-streaming"; it carries a thin transcendental ego — a *for-whom* of experience — that does not require the thick ego of personhood, biographical continuity, or character. On this reading, what Madhyamaka rightly dissolves is the *constructed* self of folk psychology, while a minimal first-personal givenness remains as the bare condition for there being experience at all. The minimal subject is the entity the Map's quantum mechanism needs: enough subject to be the locus of selection, no more. Whether a committed Mādhyamika would accept that thin a remainder is itself contested — the *catuṣkoṭi* arguably eats it too — and the Map cannot adjudicate that internal dispute from outside.
+
+The second is the *partial-credit* response. The contemplative reports are evidence that consciousness can shed temporal markers while remaining alert. They are not, on their own, evidence that the alert remainder is a substantial agent. The Map can use the phenomenology to support the negative claim — that consciousness is not constitutively temporal — while declining to use it for the positive claim that the non-temporal ground is a unified causal subject. The positive claim would then need separate argumentative weight from the unity-of-consciousness literature, the agency arguments, and the case for a substantial mind made on its own merits elsewhere in the catalogue. On this division, the contemplative phenomenology earns its keep against the temporality-all-the-way-down thesis without being conscripted into work it was not generated to do.
+
+The third is *framework-boundary marking*. The Madhyamaka tradition and the Map's substance-leaning sub-reading disagree at the level of bedrock ontology, and the Map cannot refute the *catuṣkoṭi* from inside Madhyamaka's own commitments — that would require accepting the tradition's terms first. What can honestly be said is that the article uses the contemplative reports for their phenomenological content while bracketing the no-self ontology, and that any reader who accepts Nāgārjuna's full dissolution of the subject will accept the phenomenological observation while rejecting the substantial-subject inference the Map draws downstream.
+
+The article takes the middle path, with the third standing as honest residue. The negative claim — that consciousness is not constitutively temporal — is what the contemplative evidence here supports, and that is the claim the article makes. The further claim that this non-temporal consciousness is the persisting substantial subject required by the Map's quantum mechanism originates in the dualism tenet and its downstream commitments rather than in the contemplative reports themselves. The friction with Madhyamaka is real, and the Map does not extract more from the phenomenology than the phenomenology, on a no-self reading, was doing.
+
 ## What Fragmented Consciousness Reveals
 
 If the non-temporal thesis is correct, what happens when consciousness apparently fragments? Split-brain cases, anaesthesia-induced unconsciousness, and dissociative disorders each produce conditions where unified experience fractures — or seems to. These cases challenge the unity of consciousness and, by extension, any account of its non-temporal ground. (For a dedicated treatment of the fragmentation evidence, see [split-brain-consciousness](/topics/split-brain-consciousness/).)
@@ -96,7 +115,13 @@ The non-temporal thesis provides a direct argument for the irreducibility of con
 3. A temporal description captures temporal structure — succession, duration, causation over time. If the described entity lacks temporal structure entirely, the description's categories systematically fail to apply. The mismatch is not incidental but categorical.
 4. Therefore, consciousness is not fully describable in physical terms.
 
-Premise 3 requires care. Mathematics, itself a temporal activity, routinely describes non-temporal objects (numbers, sets). But mathematical description succeeds precisely by *abstracting away* from temporal structure — it does not describe non-temporal objects *as temporal processes*. Physical description, by contrast, is constitutively temporal: its explanatory categories (forces, fields, state evolution) are temporal categories. To describe something non-temporal in these terms is not abstraction but category error.
+Premise 1 carries an ambiguity worth naming. McTaggart's distinction between the A-series (events undergo genuine becoming — there is objective passage from future to present to past, a flowing "now") and the B-series (events stand in tenseless relations of before, simultaneous-with, and after) marks two very different senses in which physical processes might be "inherently temporal". The categorical contrast with a non-temporal consciousness needs the A-series reading. A merely B-series physics — a four-dimensional manifold tenselessly ordered — is no more *flowing* than the non-temporal consciousness the article posits; the supposed category mismatch would collapse into a question of formal structure rather than ontological kind. The fork is genuine, and the irreducibility argument's force depends on which way it goes. [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) develops this entanglement at length.
+
+The eternalist lineage in philosophy of physics rejects A-series becoming. Putnam (1967) argued from special relativity that future events are already real; Mellor in *Real Time II* (1998) concluded that time itself cannot flow; Price in *Time's Arrow and Archimedes' Point* (1996) treated objective passage as a parochial intuition physics has no use for; Barbour in *The End of Time* (1999) declared that nothing happens, there is being but no becoming; Petkov in *Relativity and the Nature of Spacetime* (2009) argued that only a four-dimensional Minkowski block is compatible with special relativity. On these readings, the physical world is a tenseless manifold and Premise 1 — in the strong form the categorical contrast needs — is false.
+
+The Map's position is that physical processes do involve A-series temporality, and that physics' formal silence on the flowing "now" reflects its descriptive scope rather than its ontology. Tim Maudlin's *The Metaphysics Within Physics* (2007) is the strongest contemporary defence of this position, arguing that objective passage is compatible with relativity and that identifying the four-manifold with the only structure physics admits reads more into the formalism than the formalism delivers. But the disagreement here is bedrock: the Map presupposes A-theoretic temporality of the physical world; the Putnam–Mellor–Price–Barbour–Petkov lineage denies it; and the dispute cannot be settled from inside physics because both sides agree on the formalism and disagree on its ontological reading. A reader who finds the eternalist lineage decisive will reject Premise 1 in its strong form and will accordingly reject the categorical contrast the irreducibility argument requires. The argument is not refuted within their framework so much as predicated on a metaphysics of time that framework rejects, and saying so is more honest than dressing the disagreement as a settled result.
+
+Premise 3 invites a related complication. Mathematics, itself a temporal activity, routinely describes non-temporal objects (numbers, sets) by abstracting away from temporal structure rather than by characterising those objects *as* temporal processes. Physical description was once cleanly contrasted with this — its categories (forces, fields, state evolution) were treated as constitutively temporal. That contrast is no longer clean. The Wheeler–DeWitt equation in canonical quantum gravity has no time parameter; canonical quantum cosmology faces the "problem of time" precisely because the universe's wave function satisfies a constraint that omits it. Barbour's timeless physics treats time as derivative from configuration relations. Rovelli's relational quantum mechanics dispenses with background time entirely. These are non-temporal *physical* formulations, and they undercut the mathematics-only rejoinder: physical description is not always constitutively temporal. What can be said in reply is that these formulations still parameterise physical degrees of freedom — configuration space, constraint surfaces, relational networks — even where they dispense with a time coordinate. The non-temporal consciousness the article posits is not the degenerate limit of a temporal physics with its time-coordinate suppressed; it is the constituting activity for the temporal order rather than a structure within it. The categorical contrast survives but cannot be read off the absence of a time coordinate alone, and inherits its force instead from the regress argument and the cognitive-phenomenological case.
 
 The argument's strength depends on premise 2 — whether consciousness genuinely has a non-temporal ground. Husserl's regress argument and meditative evidence both support it, but neither is conclusive. The regress argument could be blocked by accepting that temporal constitution is simply a brute fact requiring no further ground. The meditative evidence could be reinterpreted as severely altered time perception rather than genuinely atemporal experience.
 
@@ -138,14 +163,38 @@ Non-temporal consciousness connects directly to the Map's [tenets](/tenets/):
 
 ## References
 
+1. Barbour, J. (1999). *The End of Time: The Next Revolution in Physics*. Oxford University Press.
 1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
 1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
 1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*. https://academic.oup.com/pq/advance-article-abstract/doi/10.1093/pq/pqae081/7718358
 1. Hoerl, C. (2013). Husserl, the Absolute Flow, and Temporal Experience. *Philosophy and Phenomenological Research*, 86(2), 376-411.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893-1917)* (trans. Brough). Kluwer.
 1. Mashour, G. (2012). Fragmenting Consciousness. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
+1. Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
+1. Mellor, D. H. (1998). *Real Time II*. Routledge.
+1. Petkov, V. (2009). *Relativity and the Nature of Spacetime* (2nd ed.). Springer.
 1. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
+1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
+1. Putnam, H. (1967). Time and Physical Geometry. *Journal of Philosophy*, 64, 240–247.
+1. Rovelli, C. (1996). Relational Quantum Mechanics. *International Journal of Theoretical Physics*, 35(8), 1637–1678.
 1. A layered unity model of split-brain consciousness. *Philosophical Studies* (2025). https://link.springer.com/article/10.1007/s11098-025-02339-3
 1. Temporal Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-temporal/
 1. The Unity of Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-unity/
 1. Phenomenology and Time-Consciousness. *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/phe-time/
+1. The Problem of Time in Canonical Quantum Gravity. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/quantum-gravity/
+
+<!-- AI REFINEMENT LOG - 2026-05-12
+Changes made:
+- Replaced the "Premise 3 requires care" paragraph with four new paragraphs that disambiguate Premise 1 (A-series vs B-series temporality), engage the Putnam–Mellor–Price–Barbour–Petkov eternalist lineage at full strength, acknowledge Maudlin's defence of objective passage as the strongest contrary voice, engage non-temporal physical formulations (Wheeler–DeWitt, Barbour's timeless physics, Rovelli's relational mechanics), and quarantine the A-theory-vs-B-theory disagreement as honest bedrock rather than dressing it as settled refutation.
+- The mathematics rejoinder is now narrower than before — Premise 3 was previously over-broad in claiming physical description is "constitutively temporal", which the non-temporal physics formulations refute. The contrast now leans on Husserl's regress and the cognitive-phenomenological case, which the article was already developing, rather than on a now-untenable claim about physics.
+- Added references: Barbour 1999, Maudlin 2007, Mellor 1998, Petkov 2009, Price 1996, Putnam 1967, Rovelli 1996, SEP entry on the problem of time in canonical quantum gravity.
+
+Engagement classification (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/) — recorded here for the changelog, not for article prose):
+- engagement with eternalist lineage (Putnam–Mellor–Price–Barbour–Petkov): Mode Three (framework-boundary marking). The Map presupposes A-theoretic temporality; the eternalist denies it; the dispute cannot be settled from inside physics because both sides agree on the formalism. The article quarantines the bedrock disagreement in natural prose rather than dressing it as refutation.
+- engagement with Maudlin: sympathetic citation; he is the contemporary defender of the Map's preferred A-theoretic reading.
+- engagement with Wheeler–DeWitt / Barbour / Rovelli: Mode One attempt (defective on its own terms). The article acknowledges these undercut the original mathematics-only rejoinder, then argues that non-temporal physical formulations still parameterise physical degrees of freedom — they describe non-temporal *structures within* the physical order, not the constituting activity *for* it. The categorical contrast is preserved but argued for rather than presupposed.
+
+Based on outer review by Claude Opus 4.7 2026-05-12 (peer-review-style audit, 271 sources). The R1/R5 fixes (disambiguate "temporal" in Premise 1; engage non-temporal physics) are addressed; Katz–Sharf (R2) and Zahavi (R3) remain for separate passes per task allocation.
+
+This log should be removed after human review.
+-->
