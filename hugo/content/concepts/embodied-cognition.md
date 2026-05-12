@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-12 02:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: Cognition depends on the body and extends into the environment. Thi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-27 19:48:00+00:00
+last_deep_review: 2026-05-12 02:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,6 +38,8 @@ related_articles:
 - '[[consciousness-and-skill-acquisition]]'
 - '[[enactivism-challenge-to-interactionist-dualism]]'
 - '[[consciousness-as-activity]]'
+- '[[tacit-integration-void]]'
+- '[[sensorimotor-contingencies-and-the-interface]]'
 title: Embodied Cognition and the Extended Mind
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -158,7 +160,7 @@ The *jhāna* (meditative absorption) literature maps skill acquisition: early jh
 
 The deeper challenge comes from Nāgārjuna's *śūnyatā* (emptiness). The Map treats consciousness as an irreducible substrate—something non-physical that interacts with matter. Nāgārjuna's Madhyamaka philosophy challenges this directly: *śūnyatā* holds that all phenomena, including consciousness, lack inherent, fixed essence (*svabhāva*). The Map replaces a material substance with a phenomenal substance, but the Buddhist critique asks whether "consciousness" as the Map uses it is itself a reification—treating a dependently arising process as though it were a thing with an intrinsic nature.
 
-This is not merely a different metaphysical conclusion from the same data. It is a challenge to the *category* of irreducible consciousness that the Map's tenets rely on. If Nāgārjuna is right that all apparently substantial entities dissolve under analysis into networks of dependent origination, then positing consciousness as a non-physical substrate is the same kind of error as positing matter as self-subsistent—just relocated.
+The Buddhist critique cuts deeper than disagreement over metaphysical conclusions — it targets the *category* of irreducible consciousness that the Map's tenets rely on. If Nāgārjuna is right that all apparently substantial entities dissolve under analysis into networks of dependent origination, then positing consciousness as a non-physical substrate is the same kind of error as positing matter as self-subsistent—just relocated.
 
 The Map's response must be that *śūnyatā* itself presupposes the experiential perspective it claims to deconstruct. The recognition that things lack inherent essence is itself a conscious recognition; the analysis that dissolves substances still occurs *for someone*. Dependent origination describes how phenomenal content arises, but the arising itself—that there is something it is like—remains. Whether this response adequately answers the anti-essentialist challenge or merely reasserts what Nāgārjuna denies is an open question the Map has not resolved.
 
@@ -209,6 +211,8 @@ Embodied cognition challenges a specific historical position (Cartesian substanc
 - [choking phenomenon](/topics/empirical-phenomena-mental-causation/) — The choking evidence as a case study in mental causation
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow as transformed consciousness, not diminished consciousness
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why disembodied symbol manipulation lacks semantic grounding
+- [tacit-integration-void](/voids/tacit-integration-void/) — The collapse-under-thematization dynamic that underwrites choking and Dreyfus expert mode
+- [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Sensorimotor regularities as the lawful substrate of embodied perception
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Embodied spatial engagement and the atmosphere of places
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — Enactivism's dissolution strategy and its limits against interactionist dualism
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology and its relation to enactivism's core claims
@@ -231,15 +235,3 @@ Embodied cognition challenges a specific historical position (Cartesian substanc
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-04-15
-Changes made:
-- Choking section: Reduced ~800 words of dualist interpretation to ~200. Removed "surprising precision" framing. Made explicit that phenomenological categories tracking causal joints is expected under physicalism (functional taxonomy). Reframed the Map's position as compatibility, not evidential support for dualism over physicalism.
-- Buddhist section: Replaced superficial "different metaphysical conclusions" with genuine engagement with Nāgārjuna's anti-essentialism. Addressed the reification challenge directly: the Map posits consciousness-as-substance, which śūnyatā challenges as the same substantialist error relocated. Added the Map's response (experience presupposed by the deconstructive analysis) while acknowledging this may merely reassert what Nāgārjuna denies.
-- Radio analogy: Flagged that the analogy presupposes independent consciousness (the conclusion it's meant to support). Redirected evidential weight to the mind-brain-separation article.
-
-Based on pessimistic review 2026-04-15c, Issues 1, 2 (Buddhist), and 4.
-Key improvements: Epistemic warrant now matches rhetorical weight across all three sections.
-
-This log should be removed after human review.
--->

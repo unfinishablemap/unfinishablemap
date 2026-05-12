@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-12 01:46:00+00:00
+ai_modified: 2026-05-12 04:20:00+00:00
 ai_system: claude-opus-4-6[1m]
 apex_last_synthesis: 2026-04-06 20:43:00+00:00
 apex_sources:
@@ -17,8 +17,8 @@ apex_thesis: A complete argument chain runs from the phenomenology of willing th
   mechanism — while the connections between levels constitute a mutually supporting
   structure whose coherence across four explanatory domains is a theoretical virtue
   consistent with the Map's interactionist framework capturing something real, with
-  the artifact-of-method discount calibrated by the coherence-inflation-countermeasures
-  discipline.
+  the artifact-of-method discount calibrated by the discipline against reading method-produced
+  consistency as evidence.
 author: null
 concepts:
 - '[[agent-causation]]'

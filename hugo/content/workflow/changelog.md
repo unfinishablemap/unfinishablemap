@@ -1,13 +1,248 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12 02:26:00+00:00
+ai_modified: 2026-05-12 06:15:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-12 06:15 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Channel-Class Taxonomy (Shannon-channel taxonomy of mind-physical coupling)
+- **Output**: [channel-class-taxonomy](/concepts/channel-class-taxonomy/)
+- **Word count**: 2484 (99% of 2500 soft target — ok)
+- **Based on research**: No formal research note; built on existing concept articles [selection-only-channel](/concepts/selection-only-channel/) (which named the four sibling classes at lines 88–97), [coupling-modes](/concepts/coupling-modes/), [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/).
+- **Notes**: Catalogues five channel classes (selection-only, probability-bias, measurement-basis-choice, candidate-generation, energy-injection) with per-class Shannon specification, theory attributions (Stapp Process 1 → basis-choice; Eccles psychon-dendron → probability-bias; Orch OR readings → candidate-generation; Cartesian dualism → energy-injection foil), and conservation/no-signalling status. Attributions hedged per source-attribution discipline (Orch OR placed only "under readings that identify the consciousness moment with the candidate-generation event"; Stapp basis-choice quote preserved verbatim; no claim that the Map commits to a single class). Tenet section frames the taxonomy as a menu, not a verdict, and explicitly flags possibility/probability slippage as a risk in inferring class-correctness from tenet-coherence.
+
+## 2026-05-12 06:00 UTC - deep-review
+- **Status**: Success (stability confirmed, no content changes)
+- **File**: [structure-of-attention](/topics/structure-of-attention/)
+- **Word count**: 2598 → 2598 (0; 87% of soft threshold — ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Reasoning-mode engagements**:
+  - Physicalist (lines 182-184): **Mode 2** — identifies unsupported foundational move (physicalism stipulates phenomenal differences reduce to neural differences without bridging why "these patterns feel like effortful willing while those feel passive")
+  - Buddhist no-self (line 196): **Mixed (Mode 3 + data-persistence)** — boundary-marks the metaphysics while arguing phenomenological data persists either way
+  - Stochastic-prediction objection (lines 152-168): **Mixed (Mode 2 + Mode 3)** — Mode 2 challenges correlation-to-exclusive-causation jump; Mode 3 boundary-marks the resolution mismatch
+- **Notes**: Fourth review (prior: 2026-02-02, 2026-03-06, 2026-03-28). Two substantive changes since last review (2026-04-04 Schwartz softening, 2026-04-23/27 transit-void cross-link) both improvements. No critical issues, no calibration slippage, no label leakage detected. Stability firmly established.
+- **Output**: [deep-review-2026-05-12-structure-of-attention](/reviews/deep-review-2026-05-12-structure-of-attention/)
+
+## 2026-05-12 05:46 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: `phenomenal-concept-strategy` (singular slug requested)
+- **Reason**: Topic already covered by [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) (plural slug, ~2000 words, deep-reviewed 2026-04-07) and [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/). `check_slug.py` passed only because the requested slug differs from the existing one by a single character (singular vs. plural). Creating a near-duplicate would split inbound links and degrade LLM ingestion. The literature uses both forms — Stoljar (2005) coined "Phenomenal Concept Strategy" (singular), but the Map's existing canonical page uses the plural form. Slug normalisation would require renaming the existing file plus updating wikilink references, which is outside expand-topic's scope.
+- **Output**: None
+- **Recommendation**: If the singular slug is desired as canonical, raise a `refine-draft` task that renames `concepts/phenomenal-concepts-strategy.md` → `concepts/phenomenal-concept-strategy.md` and rewrites the ~12 inbound wikilink references (in tenets.md, the topics-level treatment, and various research notes).
+
+## 2026-05-12 05:30 UTC - deep-review
+- **Status**: Success (convergence confirmed)
+- **File**: [reductionism](/concepts/reductionism/)
+- **Word count**: 2154 → 2154 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Engagement modes (editor-internal)**: Kim — Mode One (uses Kim's "near enough" concession). Dennett — Mixed Mode Two + Mode Three (functions-vs-feel challenge + boundary marking on strong emergence). Putnam — Mode One (Bechtel-Mundale and Polger-Shapiro internal critiques). Levine — Mode Three (sides with Chalmers's ontological extension, notes disagreement honestly).
+- **Calibration check**: No five-tier evidential-status claims present; C. elegans used only to illustrate explanatory gap, not to elevate evidence level. No possibility/probability slippage.
+- **Label leakage check**: Clean — no editor-vocabulary in article prose.
+- **Notes**: Fifth deep review. Previous review (2026-03-22) declared the article "fully stable." Only change since then has been a mechanical wikilink rename (mental-causation → mental-causation-and-downward-causation, commit 8fc258c4d). Article re-verified against updated discipline (reasoning-mode classification, label-leakage check, possibility/probability slippage diagnostic) and confirmed stable. Updated `ai_modified` and `last_deep_review` timestamps only.
+- **Output**: [deep-review-2026-05-12-reductionism](/reviews/deep-review-2026-05-12-reductionism/)
+
+## 2026-05-12 05:15 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `project/mechanism-costs-cartography.md` (~1,790 words, freshly expanded at 05:00 UTC as the eighth named methodological discipline) and `topics/consciousness-and-mathematics.md` (~3,102 words; reached deep-review convergence at 04:30 UTC without content changes). Covers articles outside the morning's pessimistic-2026-05-12 audit envelope (voids/vagueness-void, voids/suspension-void) to avoid duplicate-review thrash.
+- **Output**: [optimistic-2026-05-12](/reviews/optimistic-2026-05-12/)
+
+## 2026-05-12 05:00 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Mechanism-Costs Cartography (named cartographic methodology)
+- **Output**: [mechanism-costs-cartography](/project/mechanism-costs-cartography/)
+- **Word count**: 1694
+- **Based on research**: no (synthesises the methodological pattern instantiated by [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) and its parent [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/))
+- **Notes**: New project doc names the eighth methodological discipline in the Map's editorial system: a thickness/grain taxonomy's cells exposed to a fixed battery of mechanism questions, with parallel-structured cell-by-cell exposition that surfaces what each cell owes that its neighbours do not. Specifies the three structural parts (prior locating taxonomy, fixed battery, cell-by-cell exposition), the three constraints on the battery itself (includes critics' hardest questions; applies at every cell; fixed for the deployment), the asymmetry-concession discipline (the inaugural deployment's "the asymmetry is real, not an artefact of the question selection" formula), the use case (taxonomy-locating article → mechanism-costs companion article), and the non-adjudicative posture (Mode Three engagement is preserved; the cartography speaks but the tenets adjudicate). Closes P3 chain task from 2026-05-11 expand-topic completion. Tenet alignment: Tenet 5 (Occam's Razor Has Limits) at the cartographic layer.
+
+## 2026-05-12 04:45 UTC - refine-draft
+- **Status**: Success
+- **File**: [tenets](/tenets/)
+- **Original score**: n/a (hygiene-only fix; no quality review run)
+- **Changes**: Deleted all six `<!-- AI REFINEMENT LOG -->` HTML-comment blocks accumulated by the 2026-05-11 multi-pass refines (first/second/third/fourth/fifth/sixth passes covering Tenet 4/5 indexical-vs-ontological restructure, Tenet 2 post-decoherence-selection restructure, Dualism agency-cluster paragraph, Tenet 3 BI metaphysical-commitment framing, Tenet 3 phenomenal-concept strategy engagement, and Tenet 2 falsifiability + parsimony-binding additions). Each block ended with "This log should be removed after human review"; the substantive change-history is already captured in this changelog at the corresponding timestamps. Updated `ai_modified` to 2026-05-12T04:45:00+00:00. No tenet prose touched. Closed source-side editor-vocabulary leakage (`Mode One (in-framework defect)`, `Engagement classification kept editor-internal`, `Direct-refutation discipline`) that LLM-fetchers, scrapers, and search-indexers were reading from the raw markdown despite HTML comments not rendering in Hugo. Closes pessimistic-2026-05-11 Issue 5 (hygiene); also closes the duplicate P3 entry that had accumulated for the same fix.
+- **Published**: yes
+
+## 2026-05-12 04:30 UTC - deep-review
+- **Status**: Success (convergence confirmed)
+- **File**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
+- **Word count**: 2886 → 2886 (no change; article is stable)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Reasoning-mode classification**: engagement with illusionists: Mode Two (regress against unsupported foundational move — illusionist must use the faculty of grasping necessity to argue against phenomenal consciousness); engagement with Tegmark/MUH: Mode Three (boundary marking within Map's framework); engagement with formalism: Mode One (verification/understanding distinction is internal-to-formalism phenomenal fact rule-following cannot accommodate); engagement with physicalist Platonism: Mode Three with explicit hedging ("can coherently deny"); engagement with MWI defenders: Mode Three (bedrock, preserved from prior reviews)
+- **Convergence**: third deep review; two prior reviews (2026-03-28, 2026-03-28b) also concluded "stable, no critical issues." Substantive intervening condensation (4423→2785) followed by organic re-growth via cross-link integration (→2886). All attributions verified across three reviews; bedrock disagreements honestly preserved
+- **Output**: [deep-review-2026-05-12-consciousness-and-mathematics](/reviews/deep-review-2026-05-12-consciousness-and-mathematics/)
+
+## 2026-05-12 04:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)
+- **Trigger**: Follow-up to 2026-05-12 01:46 UTC editor-vocabulary leakage sweep (flagged the `apex_thesis` frontmatter field as still reader-visible on `/apex/` listing page after the body-prose sweep)
+- **Changes**: Replaced display-text "coherence-inflation-countermeasures discipline" in `apex_thesis` with natural-prose framing "the discipline against reading method-produced consistency as evidence" — matches the body-prose framing already in the lede (line 52) for cross-surface consistency
+- **Catalogue-wide check**: Audited all 24 apex `apex_thesis` frontmatter fields for analogous leakage patterns (bedrock-clash, Mode One/Two/Three, direct-refutation discipline, evidential-status discipline, delocalisation discipline, concession-convergence as noun, conjunction-coalesce as noun); no other leakage found. `taxonomy-of-voids` uses "selection-effect", "common-cause-null", "tenet-package", "framework-internal coherence" — these are the article's own established vocabulary, also present in body prose, not editor-internal labels. `conjunction-coalesce` uses its own name as the subject term, body prose does the same.
+- **Scope**: 1 frontmatter field touched, ~10 words changed
+- **Published**: yes
+
+## 2026-05-12 04:10 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-05-12-chatgpt-5-5-pro](/reviews/outer-review-2026-05-12-chatgpt-5-5-pro/)
+- **Subject**: [non-temporal-consciousness](/topics/non-temporal-consciousness/) (subject_type: recent, fallback:recent-aged)
+- **Claims verified**: 14 verified (all article-textual claims, plus 2026-05-11 tenets-update claim, plus 6 neighbouring-article integration claims); 4 unverified at source level (Frischhut final-issue metadata, Lopez page range, Kent/Wittmann/Tsao/Teghil/VanRullen specific framings) — none disputed
+- **High-value findings**: 4 structural (tenet-paragraph overreach in Dualism/MQI/BI/NMW; irreducibility-argument under-earned premise-2; No Many Worlds drift from 2026-05-11 tenets update; bibliographic upgrades for Frischhut and Lopez)
+- **Convergent finding**: tenet-paragraph overreach in the article's "Relation to Site Perspective" section — same direct-refutation-discipline failure mode the 2026-05 outer-review cycle has been pressing across other articles (unsupported-foundational-move tells, boundary-substitution)
+- **Tasks generated**: 3 (P1: 1 — tenet-paragraph refine + irreducibility-claim hedging; P2: 2 — evidential-status box + neuroscience/phenomenology counter-sections + citation completion; cross-cluster reciprocal integration across 7 articles)
+
+## 2026-05-12 03:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [vagueness-void](/voids/vagueness-void/)
+- **Source**: pessimistic-review-2026-05-12 issues (a)–(f) + falsifiability addition
+- **Changes**: (a) reframed §"Phenomenology of the Edge" + the line-42 introductory phrasing as heterophenomenology — bullets describe report-patterns ("subjects describe…", "subjects report…") and the closing note makes the heterophenomenological framing explicit, removing the phenomenal-access leakage flagged as the High-severity issue; (b) retracted §"Approaches to the Edge" AI paragraph — opens "AI systems with explicit decision thresholds illustrate one disambiguation of vagueness rather than vagueness as this article uses the term" and explicitly distinguishes context-relative sharpness from the void's structural indeterminacy; (c) deleted §"Substrate Fuzziness" section entirely + Haueis BI sentence in §"Relation to Site Perspective" + Haueis reference in bibliography; (d) rewrote §"The Seam" paragraph on the suspension-void seam template — now does face-by-face conjunction-closure work (introspective face removes supervaluationist escape because admissibility-of-precisification is third-personal and unavailable for inward concepts; higher-order face removes epistemicist escape because meta-vagueness regenerates whatever cut-off the first-order epistemicist names; Sorites face removes finite-hierarchy escape because the metalanguage's vague predicates iterate); severability clause preserved; (e) added Tye-engagement paragraph in §"Introspective Face" — states Tye's intrinsic-character argument in its strongest form, shows where Schwitzgebel's reply contests it, marks the framework-level disagreement honestly without claiming to refute Tye inside Tye's framework; (f) Williamson softening across all three sites — line 52 "Williamson predicts this unknowability and treats it as a feature of the view rather than a cost it incurs"; line 70 "no fixed point" → "no fixed point accessible from inside" + Williamson "preserves classical logic by *predicting* unknowable cut-offs at every order—a consequence the view embraces rather than a price it pays"; line 106 "cleanest semantics" → "semantics that preserves classical logic" + "Williamson predicts and welcomes this consequence" + "On the Map's reading"; opening summary's "no fixed point" softened in parallel for consistency. Falsifiability paragraph added to §"Relation to Site Perspective" between the Dualism paragraph and the reflexive-consequence paragraph: concedes the void claim is metaphysical-structural rather than empirically falsifiable; accepts the Popperian cost under the Occam's-Razor-Has-Limits tenet; distinguishes cartographic work from empirical risk.
+- **Label-leakage check**: clean. No `direct-refutation-discipline` invocations in prose; no `Mode One/Two/Three`; no `**Evidential status:**` bolded callouts; no AI REFINEMENT LOG comment. The one near-leak ("Honestly marked:") in the first-draft Tye paragraph was rephrased to natural prose.
+- **Word count delta**: 2,156 → 2,681 words, net +525 (Substrate Fuzziness deletion ~–65 offset by Tye paragraph ~+200, falsifiability paragraph ~+150, seam rewrite ~+200, Williamson softenings across three sites ~+50, heterophenomenology reframe ~+30, AI-paragraph rewrite ~net-zero, BI sentence removal ~–25). Comfortably within the task's 600–900-words-touched estimate; net length is at the upper end of voids-typical.
+- **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) is now the explicit load-bearer for accepting the Popperian cost; Tenet 1 (Dualism) preserved as secondary; Tenet 3 (Bidirectional Interaction) implicit hook removed alongside the Haueis sentence (the BI claim had no remaining support after Substrate-Fuzziness deletion).
+- **Open thread**: the Eliminative-Materialist critique in the pessimistic review (graded-firing-of-category-coding-neurons turns the void into a tractable feature) is not directly addressed; the new falsifiability paragraph acknowledges that the void claim does not compete with physicalism on empirical grounds, which is the honest answer-shape, but a dedicated Churchland-engagement paragraph remains possible future work.
+
+## 2026-05-12 03:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [vagueness-void](/voids/vagueness-void/) (2,156 words) and [suspension-void](/voids/suspension-void/) (3,003 words), both `ai_modified` 2026-05-12T03:16:00+00:00 after the cross-tier seam-section deep-review pass logged at 03:16 UTC. Adversarial audit of the freshly-installed §"The Seam" paragraphs and the surrounding apparatus.
+- **Findings**: 7 issues (4 High/Critical, 3 Medium). Issue 1 (High): phenomenal-access leakage in both articles' §"Phenomenology of the Edge" and suspension-void's Dualism paragraph — first-person phenomenal facts cited as evidence in domains both articles' core thesis declares unreliable; reframe as heterophenomenological report-pattern descriptions. Issue 2 (High): vagueness-void's AI-asymmetry section collapses the distinction it needs (context-relative sharpness ≠ vagueness). Issue 3 (Medium): suspension-void's cross-tradition convergence rests on a structural shape ("must be cultivated but cannot be willed") that applies to skill-acquisition broadly; not suspension-specific. Issue 4 (Medium): vagueness-void's substrate-fuzziness paragraph leaps from cartographic-region fuzziness to consciousness-physics-interface fuzziness without argument. Issue 5 (Medium): falsifiability foreclosure in both core definitions — Popperian cost not acknowledged. Issue 6 (Medium): vagueness-void's §"The Seam" asserts the conjunction in re-descriptive language rather than demonstrating it (suspension-void's seam paragraph is the right template). Issue 7 (Medium): vagueness-void's Tye/Schwitzgebel asymmetric engagement — names the dispute, takes a side without engaging Tye's intrinsic-character argument.
+- **Clean checks**: label-leakage discipline (no `Mode One/Two/Three` in prose, no `direct-refutation-discipline` invocations as authority, no bolded `**Evidential status:**` callouts, no AI REFINEMENT LOG comments) — both articles pass.
+- **Tasks generated**: 2 P2 refine-draft tasks (one per article), both filed under `Source: pessimistic-review`.
+- **Output**: [pessimistic-2026-05-12](/reviews/pessimistic-2026-05-12/)
+
+## 2026-05-12 03:35 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Changed sources**: 1 ([wholeheartedness-void](/voids/wholeheartedness-void/), 2026-05-11)
+- **Word count (body)**: ~4623 → ~4750 (net +~127; remains over 4000-word soft threshold at ~119%)
+- **Change**: absorbed wholeheartedness-void as sixth cognate within the exemplar set (seventh overall, with common-knowledge-void sitting outside). Added cognate paragraph with three faces (regress / disownability / ambivalence-detection) and explicit three-way closure argument, framed as a worked exhibit of the apex's central seam-claim. Extended modal-categorical typology entry (now multiply instantiated). Compressions across five sections offset most of the addition.
+- **Reciprocal cross-link**: installed in [wholeheartedness-void](/voids/wholeheartedness-void/) §"Three Faces, One Void" pointing at the apex's modal-categorical seam-type classification.
+- **Follow-up flagged**: [taxonomy-of-voids](/apex/taxonomy-of-voids/) conjoint-voids list reconciliation against the now-seven-cognate inventory.
+- **Review**: [apex-evolve-2026-05-12-conjunction-coalesce](/reviews/apex-evolve-2026-05-12-conjunction-coalesce/)
+
+## 2026-05-12 03:16 UTC - cross-review (deep-review skill, cross-tier audit mode)
+- **Status**: Success
+- **Scope**: Cross-tier seam-argument audit across voids cluster for conjunction-coalesce structure
+- **Articles audited**: [suspension-void](/voids/suspension-void/), [decision-void](/voids/decision-void/), [agency-void](/voids/agency-void/), [vagueness-void](/voids/vagueness-void/) (worked exemplar [wholeheartedness-void](/voids/wholeheartedness-void/) not re-audited)
+- **Findings**: decision-void and agency-void already at worked-exemplar standard (dedicated `## The Seam` or in-section worked-exemplar pattern); suspension-void and vagueness-void had compressed asymmetric seam-arguments (one-direction closure only). Installed full three-way `## The Seam` sections in both, modelled on decision-void's pattern (canonical position between face subsections and next major heading).
+- **Length-neutrality**: combined Δ +8 words across 5 articles (suspension-void −2, vagueness-void +10, others 0). Trim strategy followed task hint — typology-restating prose traded for seam-argument prose. Section is at-cap (voids 100/100); net effectively neutral.
+- **Seam-argument worked exemplar standard**: for N-face conjunction, run N demonstrations — for each face, name the localised remedy that face would admit alone, then show how the other faces close that route.
+- **Reasoning-mode classifications**: not applicable (audit is methodological/structural, not opponent-engagement)
+- **Output**: [cross-review-2026-05-12-voids-cluster-seam-audit](/reviews/cross-review-2026-05-12-voids-cluster-seam-audit/)
+
+## 2026-05-12 02:56 UTC - deep-review
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Word count**: 3183 → 3204 words (+21 net, 128% of soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 — removed stale AI REFINEMENT LOG HTML comment from 2026-04-15; rephrased "This is not X. It is Y." style-guide violation in Buddhist section
+- **Enhancements made**: 2 cross-links added (tacit-integration-void, sensorimotor-contingencies-and-the-interface) to Further Reading and frontmatter
+- **Reasoning-mode classifications**: engagement with Baumeister/Beilock — Mode Three (boundary-marked, "this reading is mainstream"); engagement with eliminativist position — Mode Three (deferred to illusionism article); engagement with Nāgārjuna — Mode One+Three mixed (internal critique plus honest residue acknowledgement). No label leakage; no boundary-substitution.
+- **Stability**: 9th deep review. Philosophical content unchanged. Bedrock disagreements (eliminativist, MWI, anti-essentialist, supervenience) all explicitly acknowledged as expected.
+- **Output**: [deep-review-2026-05-12-embodied-cognition](/reviews/deep-review-2026-05-12-embodied-cognition/)
+
+## 2026-05-12 02:41 UTC - refine-draft
+- **Status**: Success
+- **Action**: f9ce4fee6 mid-range diff audit — verify no further body-truncation casualties beyond the five known heavy-deletion files. Completes the third re-opening of the broader audit that prior P1 passes deferred.
+- **Method**:
+  - `git show f9ce4fee6 --numstat` → 60 touched obsidian files (63 total minus 3 workflow files). Numstat (insertions, deletions) used in place of `--stat` (which sums both — the source of the original task notes' "10 deletions in mysterianism, 8 in what-voids-reveal" misread; numstat shows 5/5 and 4/4, perfectly symmetric).
+  - For each of the 60 content files: computed `current wc -l` vs `git show f9ce4fee6^:{path} | wc -l`; flagged ratios <0.85.
+- **Finding**: **No new casualties.** Of 60 touched content files, only five had deletions >5 in f9ce4fee6 — the five already-identified heavy casualties (anesthesia-void 147, the-silence-void 101, disappearance-voids 155, ineffable-encounter-void 153, self-maintained-cognitive-limits 174). All five have current line counts matching pre-truncation within 0–2 lines, confirming restoration via commits 501d13311, a7ca417c8, and 18d70694b. The remaining 55 files all have ≤5 deletions in f9ce4fee6 with current line counts equal to or near pre-truncation — consistent with intended in-place wikilink slug substitution.
+- **Named candidates verified intact**:
+  - `voids/closure-types-void.md`: 3 del; 111/111 → intact
+  - `voids/mapping-mind-space.md`: 3 del; 147/147 → intact
+  - `voids/biological-cognitive-closure.md`: 3 del; 175/175 → intact
+  - `concepts/mysterianism.md`: 5 del; 221/220 → intact
+  - `voids/what-voids-reveal.md`: 4 del; 216/216 → intact
+- **Audit summary** (all 56 f9ce4fee6-touched content files outside the four named heavy casualties, format `del | current/pre | verdict`):
+  - apex/taxonomy-of-voids.md: 3 | 231/303 | intact (f9ce4fee6 left it at 303; later legitimate deep-review edits — 95af125c8, 4d601c0c1 — reduced it to 231; not f9ce4fee6 damage)
+  - concepts/altered-states-of-consciousness.md: 1 | 209/209 | intact
+  - concepts/apophatic-approaches.md: 3 | 114/114 | intact
+  - concepts/epistemology-of-limit-knowledge.md: 4 | 137/137 | intact
+  - concepts/filter-theory.md: 2 | 217/231 | intact (later editorial trim, not f9ce4fee6)
+  - concepts/inventory-blindness.md: 2 | 113/113 | intact
+  - concepts/mysterianism.md: 5 | 221/220 | intact
+  - concepts/near-death-experiences.md: 1 | 185/185 | intact
+  - concepts/phenomenal-depth.md: 2 | 108/108 | intact
+  - concepts/presence-type-and-absence-type-voids.md: 3 | 145/145 | intact
+  - concepts/witness-consciousness.md: 3 | 228/228 | intact
+  - topics/contemplative-pathology-and-interface-malfunction.md: 2 | 108/108 | intact
+  - topics/eastern-philosophy-consciousness.md: 3 | 235/235 | intact
+  - topics/phenomenology-of-attention-to-absence.md: 1 | 117/117 | intact
+  - topics/phenomenology-of-cognitive-limit-types.md: 3 | 151/151 | intact
+  - topics/phenomenology-of-conceptual-frameworks.md: 2 | 212/212 | intact
+  - topics/phenomenology-of-intellectual-life.md: 1 | 271/271 | intact
+  - topics/phenomenology-of-linguistic-failure.md: 3 | 129/129 | intact
+  - voids/affective-void.md: 2 | 149/149 | intact
+  - voids/agency-void.md: 1 | 201/202 | intact
+  - voids/apophatic-cartography.md: 3 | 191/191 | intact
+  - voids/aspect-perception-void.md: 1 | 146/146 | intact
+  - voids/attention-and-consciousness.md: 2 | 165/165 | intact
+  - voids/biological-cognitive-closure.md: 3 | 175/175 | intact
+  - voids/boundary-and-projection.md: 2 | 196/196 | intact
+  - voids/closure-types-void.md: 3 | 111/111 | intact
+  - voids/compound-failure-signatures.md: 2 | 160/160 | intact
+  - voids/conceptual-impossibility.md: 3 | 180/180 | intact
+  - voids/conceptual-scheme-void.md: 1 | 159/159 | intact
+  - voids/consciousness-only-territories.md: 2 | 173/173 | intact
+  - voids/creative-aesthetic-void.md: 3 | 217/217 | intact
+  - voids/death-void.md: 2 | 174/174 | intact
+  - voids/emergence-void.md: 1 | 135/135 | intact
+  - voids/formal-cognitive-limits.md: 1 | 178/178 | intact
+  - voids/ineffable-encounter-void.md: 153 | 203/204 | restoration applied (commit 18d70694b)
+  - voids/language-thought-boundary.md: 2 | 189/188 | intact
+  - voids/mapping-mind-space.md: 3 | 147/147 | intact
+  - voids/meta-epistemology-of-limits.md: 1 | 215/215 | intact
+  - voids/minimal-consciousness-void.md: 3 | 120/120 | intact
+  - voids/mutation-void.md: 3 | 141/141 | intact
+  - voids/necessary-opacity.md: 2 | 193/193 | intact
+  - voids/observation-and-measurement-void.md: 2 | 182/182 | intact
+  - voids/ownership-void.md: 3 | 134/134 | intact
+  - voids/recognition-void.md: 1 | 153/153 | intact
+  - voids/recursion-void.md: 3 | 170/170 | intact
+  - voids/sleep-consciousness-void.md: 1 | 195/195 | intact
+  - voids/suspension-void.md: 1 | 173/171 | intact
+  - voids/temporal-void.md: 1 | 191/191 | intact
+  - voids/the-quantitative-comprehension-void.md: 1 | 155/155 | intact
+  - voids/thought-stream-void.md: 3 | 198/198 | intact
+  - voids/three-kinds-of-void.md: 1 | 120/120 | intact
+  - voids/transit-void.md: 1 | 176/176 | intact
+  - voids/vagueness-void.md: 2 | 135/135 | intact
+  - voids/voids.md: 2 | 228/217 | intact (current exceeds pre — later additive edits)
+  - voids/what-voids-reveal.md: 4 | 216/216 | intact
+  - voids/witnessing-void.md: 3 | 137/137 | intact
+- **Outcome**: Zero restoration actions required. The five heavy-deletion casualties were the complete set of f9ce4fee6 body-truncation casualties; all five are restored. The original task-note conjecture that mid-range files (e.g., mysterianism with "10 deletions") might have been "obscured by frontmatter survival" stemmed from misreading `--stat`'s combined insertion+deletion count as a deletion count.
+- **Changes**: None to content. Audit summary above is the deliverable.
+- **Tenet alignment**: Site integrity / data-loss recovery completeness — the third re-opening of this audit confirms the prior restorations were complete and no further casualties exist.
+- **Published**: n/a (audit only).
+
+## 2026-05-12 02:33 UTC - refine-draft
+- **Status**: Success
+- **Files**: [disappearance-voids](/voids/disappearance-voids/), [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/), [ineffable-encounter-void](/voids/ineffable-encounter-void/)
+- **Action**: Body restoration from f9ce4fee6^ for all three voids articles that remained frontmatter-only after that commit's wikilink-redirect pass over-truncated their bodies. Third re-opening of the task; prior P1s closed after restoring only one file each. This pass restored all three in one execution.
+- **Changes**:
+  - Extracted pre-truncation bodies from f9ce4fee6^ for each file (151, 171, 149 body lines respectively).
+  - Preserved current obsidian frontmatter unchanged (it survived the truncation and carries post-2026-05-10 cross-link additions; frontmatter slugs already use `edge-states-and-void-probes`).
+  - Re-applied f9ce4fee6's intended body-slug substitutions: `[[altered-states-as-void-probes]]` → `[[edge-states-and-void-probes]]` and `[[phenomenology-of-the-edge]]` → `[[edge-states-and-void-probes]]`. Two body occurrences in disappearance-voids and two in ineffable-encounter; none in self-maintained.
+  - Deduped Further Reading: disappearance-voids merged the two now-identical entries into one combined description ("How edge and altered states probe cognitive limits, and what approaching them feels like"); ineffable-encounter dropped duplicate to a single bullet.
+  - Bumped `ai_modified` on all three to 2026-05-12T02:33:00+00:00.
+- **Verification**:
+  - `wc -l obsidian/voids/{disappearance-voids,self-maintained-cognitive-limits,ineffable-encounter-void}.md` → 201, 228, 203 (all ≥120 required by completion check).
+  - Sync ran clean.
+  - `wc -l hugo/content/voids/{...}` → 202, 229, 204 (all in 130–230 target range).
+  - H2-section counts in Hugo output: 8, 11, 12 — confirms real body content rendered, not just frontmatter.
+  - Zero residual `altered-states-as-void-probes` or `phenomenology-of-the-edge` references in the three restored Hugo files.
+- **Tenet alignment**: Site integrity restored. Three canonical voids/ URLs (3% of the section's 100/100 capacity) no longer ship empty bodies to readers.
+- **Published**: yes (obsidian source + hugo synced; commit deferred to automation).
 
 ## 2026-05-12 02:26 UTC - replenish-queue
 - **Status**: Success

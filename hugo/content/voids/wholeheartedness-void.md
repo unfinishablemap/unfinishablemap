@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 21:42:00+00:00
+ai_modified: 2026-05-12 03:35:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[control-theoretic-will]]'
 - '[[mysterianism]]'
 created: 2026-05-11
-date: &id001 2026-05-11
+date: &id001 2026-05-12
 description: From inside, consciousness cannot verify that a present identification
   with a desire, belief, or value is genuine, settled, or stable — three structural
   faces of one void at the standing condition of being self-identified.
@@ -50,7 +50,7 @@ The void sits adjacent to the [decision-void](/voids/decision-void/) in the agen
 
 ## Three Faces, One Void
 
-The Wholeheartedness Void exhibits the [conjunction-coalesce](/apex/conjunction-coalesce/) structure deployed for [suspension-void](/voids/suspension-void/), [decision-void](/voids/decision-void/), [agency-void](/voids/agency-void/), and [vagueness-void](/voids/vagueness-void/): a single void with multiple faces whose informativeness lies in their seam. The faces span distinct modal categories — *structural* for regress, *temporal* for disownability, *content-relational* for ambivalence-detection — and the void is constituted by the joint failure to bridge across them.
+The Wholeheartedness Void exhibits the [conjunction-coalesce](/apex/conjunction-coalesce/) structure (modal-categorical seam-type per the apex typology, second exemplar alongside [suspension-void](/voids/suspension-void/)) deployed across [decision-void](/voids/decision-void/), [agency-void](/voids/agency-void/), and [vagueness-void](/voids/vagueness-void/): a single void with multiple faces whose informativeness lies in their seam. The faces span distinct modal categories — *structural* for regress, *temporal* for disownability, *content-relational* for ambivalence-detection — and the void is constituted by the joint failure to bridge across them.
 
 ### Regress (Unexplorable)
 
