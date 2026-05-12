@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-11 23:57:00+00:00
+ai_modified: 2026-05-12 00:20:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-12 00:20 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section examined**: voids (99/100, most-pressured); also sampled topics (239/250) and concepts (235/250)
+- **Candidate clusters evaluated**:
+  1. **Cognitive-limits family** ([biological-cognitive-closure](/voids/biological-cognitive-closure/), [collective-cognitive-limits](/voids/collective-cognitive-limits/), [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/), [formal-cognitive-limits](/voids/formal-cognitive-limits/), [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)) — well-differentiated parallel set: each addresses a distinct *source* of cognitive limitation (biological/evolutionary, social/paradigmatic, sensorimotor, computational, motivational). Merging would collapse a deliberately parallel taxonomy.
+  2. **Affective/emotional cluster** ([affective-void](/voids/affective-void/), [appetitive-void](/voids/appetitive-void/), [valence-void](/voids/valence-void/), [mood-void](/voids/mood-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [emotional-epistemology-void](/voids/emotional-epistemology-void/)) — each carries an explicit "How this differs from [neighbour]" section. Valence asks "why does affect have good/bad structure?"; affective asks "what emotions are out of reach?"; mood asks "why is the atmosphere we're inside of opaque?"; appetitive asks "how does desire constitute cognition?". Recently differentiated.
+  3. **Self-knowledge/authorship cluster** ([source-attribution-void](/voids/source-attribution-void/), [narrative-void](/voids/narrative-void/), [thought-stream-void](/voids/thought-stream-void/), [self-opacity](/voids/self-opacity/)) — share empirical evidence (Nisbett & Wilson, Gazzaniga, Johansson/Hall) but address distinct architectural questions (provenance tagging vs. autobiographical narrative vs. stream arising/vanishing vs. mechanism opacity). source-attribution-void was deep-reviewed 2026-05-11; thought-stream-void deep-reviewed 2026-04-23. Both contain explicit boundary-marking against each other.
+  4. **Metaphysics trio** ([consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/), [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/), [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)) — parallel series each addressing one classical metaphysical question (when do parts form wholes? what individuates subjects? what grounds laws?). Composition article is deeply argued around Van Inwagen/Merricks/McQueen-Tsuchiya convergence; individuation is deeply argued around Kant/haecceity/Kolak's three positions. Merging would lose the structural three-pronged argument.
+  5. **Empty-husk voids** ([anesthesia-void](/voids/anesthesia-void/), [the-silence-void](/voids/the-silence-void/), [disappearance-voids](/voids/disappearance-voids/), [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)) — these four files contain only frontmatter, no body. Body content was accidentally truncated by commit f9ce4fee6 (refine-draft wikilink redirect on 2026-05-10). Not a coalesce situation: there is nothing to combine. The right fix is restoration from git history (last good body at parent commit 2a8e58828 for anesthesia-void and similar for the others), not coalesce. Flagging as separate maintenance issue.
+- **Decision**: Abandon. The site has been heavily refined to differentiate articles (explicit "How X differs from Y" sections proliferate), making organic coalesce candidates scarce. Coalescing across well-differentiated clusters would lose more nuance than it would gain.
+- **Follow-up flagged**: Four voids articles have only frontmatter, no body, since commit f9ce4fee6 (2026-05-10). Restoration task should be queued — not handled in this coalesce run.
 
 ## 2026-05-11 23:57 UTC - deep-review
 - **Status**: Success

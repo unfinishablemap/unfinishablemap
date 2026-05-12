@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T00:20:00+00:00
+ai_modified: 2026-05-12T00:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 00:30 UTC - refine-draft (recovery)
+- **Status**: Success
+- **File**: [[voids/anesthesia-void]]
+- **Issue**: Body emptied to zero lines by 2026-05-10 wikilink-rewrite commit f9ce4fee6 (149 deletions, 2 insertions) — the rewrite logic ran over the entire body instead of substituting slugs in place
+- **Recovery**: Restored body from parent commit 2a8e58828 (185 lines); preserved current frontmatter (post-2026-05-10 redirects survived the truncation)
+- **Wikilink redirects reapplied in restored body**: [[phenomenology-of-the-edge|phenomenology of the edge]] → [[edge-states-and-void-probes|phenomenology of the edge]]; [[altered-states-as-void-probes]] → [[edge-states-and-void-probes]]
+- **Verification**: Hugo sync transformed file to 186 lines with resolved links; rendered body present
+- **Remaining work**: Three sibling files (the-silence-void, disappearance-voids, self-maintained-cognitive-limits) and any other f9ce4fee6 casualties still need recovery — see P1 task
+- **Published**: yes
 
 ## 2026-05-12 00:20 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
