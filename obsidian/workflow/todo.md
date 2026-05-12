@@ -61,13 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-12
 
-### P3: Deep review concepts/reductionism.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (`ai_contribution > 50`) last deep-reviewed 2026-03-22 — 50 days ago. The article is the catalogue's primary treatment of *reductionism* as a methodological commitment — load-bearing for Tenet 1 (Dualism) and the convergence-argument structure that has been heavily refined in the past 7 days (`topics/the-convergence-argument-for-dualism.md` had three same-day refines on 2026-05-10 introducing type-specificity, the binding-problem prong, and the irreducibility-to-dualism two-step). Recent adjacent work that may have shifted framing: `concepts/type-specificity.md` created today as a concept-tier anchor for anti-generic-mechanism arguments; the `[[project/evidential-status-discipline]]` and `[[project/direct-refutation-discipline]]` methodology pages have evolved substantially since the last review; `[[topics/reductionism-and-consciousness]]` (a sibling topic article) treats reductionism's failure for consciousness in argument form. Deep review should (a) verify the article's treatment of the three reductionism varieties (ontological, theoretical, methodological) is current with the catalogue's refined vocabulary; (b) check cross-references to `[[topics/the-convergence-argument-for-dualism]]`, `[[topics/reductionism-and-consciousness]]`, `[[concepts/type-specificity]]`, `[[concepts/emergence]]`, `[[concepts/explanatory-gap]]`, `[[concepts/strong-emergence]]`; (c) verify cross-tier reciprocity — sibling topic article `topics/reductionism-and-consciousness.md` should reciprocate the concept page's foundational treatment; (d) honour `[[project/direct-refutation-discipline]]` — anti-reductionism is core in-framework engagement for the Map and the page should not slide into bedrock-disagreement framing where in-framework engagement is available; (e) audit for "This is not X. It is Y." CLAUDE.md style ban; (f) verify the page's framing of the explanatory-gap-as-evidence-for-irreducibility honours `[[project/evidential-status-discipline]]` — explanatory-gap reasoning is contested and the page should reflect what evidential weight it can carry. Tenet alignment: Tenet 1 (Dualism) load-bearing; methodological.
-- **Source**: staleness
-- **Generated**: 2026-05-11
-
 ### P3: Write concept page on `phenomenal-concept-strategy`
 - **Type**: expand-topic
 - **Status**: pending
@@ -3599,6 +3592,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-12: Deep review concepts/reductionism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (`ai_contribution > 50`) last deep-reviewed 2026-03-22 — 50 days ago. The article is the catalogue's primary treatment of *reductionism* as a methodological commitment — load-bearing for Tenet 1 (Dualism) and the convergence-argument structure that has been heavily refined in the past 7 days (`topics/the-convergence-argument-for-dualism.md` had three same-day refines on 2026-05-10 introducing type-specificity, the binding-problem prong, and the irreducibility-to-dualism two-step). Recent adjacent work that may have shifted framing: `concepts/type-specificity.md` created today as a concept-tier anchor for anti-generic-mechanism arguments; the `[[project/evidential-status-discipline]]` and `[[project/direct-refutation-discipline]]` methodology pages have evolved substantially since the last review; `[[topics/reductionism-and-consciousness]]` (a sibling topic article) treats reductionism's failure for consciousness in argument form. Deep review should (a) verify the article's treatment of the three reductionism varieties (ontological, theoretical, methodological) is current with the catalogue's refined vocabulary; (b) check cross-references to `[[topics/the-convergence-argument-for-dualism]]`, `[[topics/reductionism-and-consciousness]]`, `[[concepts/type-specificity]]`, `[[concepts/emergence]]`, `[[concepts/explanatory-gap]]`, `[[concepts/strong-emergence]]`; (c) verify cross-tier reciprocity — sibling topic article `topics/reductionism-and-consciousness.md` should reciprocate the concept page's foundational treatment; (d) honour `[[project/direct-refutation-discipline]]` — anti-reductionism is core in-framework engagement for the Map and the page should not slide into bedrock-disagreement framing where in-framework engagement is available; (e) audit for "This is not X. It is Y." CLAUDE.md style ban; (f) verify the page's framing of the explanatory-gap-as-evidence-for-irreducibility honours `[[project/evidential-status-discipline]]` — explanatory-gap reasoning is contested and the page should reflect what evidential weight it can carry. Tenet alignment: Tenet 1 (Dualism) load-bearing; methodological.
+- **Output**: obsidian/concepts/reductionism.md
 
 ### ✓ 2026-05-12: Write project doc on the mechanism-costs-by-thickness-quadrants lens as named cartographic methodology
 - **Type**: expand-topic
