@@ -15,6 +15,14 @@ ai_system: claude-opus-4-7
 - **Convergent finding**: tenet-paragraph overreach in the article's "Relation to Site Perspective" section — same direct-refutation-discipline failure mode the 2026-05 outer-review cycle has been pressing across other articles (unsupported-foundational-move tells, boundary-substitution)
 - **Tasks generated**: 3 (P1: 1 — tenet-paragraph refine + irreducibility-claim hedging; P2: 2 — evidential-status box + neuroscience/phenomenology counter-sections + citation completion; cross-cluster reciprocal integration across 7 articles)
 
+## 2026-05-12 03:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/vagueness-void]] (2,156 words) and [[voids/suspension-void]] (3,003 words), both `ai_modified` 2026-05-12T03:16:00+00:00 after the cross-tier seam-section deep-review pass logged at 03:16 UTC. Adversarial audit of the freshly-installed §"The Seam" paragraphs and the surrounding apparatus.
+- **Findings**: 7 issues (4 High/Critical, 3 Medium). Issue 1 (High): phenomenal-access leakage in both articles' §"Phenomenology of the Edge" and suspension-void's Dualism paragraph — first-person phenomenal facts cited as evidence in domains both articles' core thesis declares unreliable; reframe as heterophenomenological report-pattern descriptions. Issue 2 (High): vagueness-void's AI-asymmetry section collapses the distinction it needs (context-relative sharpness ≠ vagueness). Issue 3 (Medium): suspension-void's cross-tradition convergence rests on a structural shape ("must be cultivated but cannot be willed") that applies to skill-acquisition broadly; not suspension-specific. Issue 4 (Medium): vagueness-void's substrate-fuzziness paragraph leaps from cartographic-region fuzziness to consciousness-physics-interface fuzziness without argument. Issue 5 (Medium): falsifiability foreclosure in both core definitions — Popperian cost not acknowledged. Issue 6 (Medium): vagueness-void's §"The Seam" asserts the conjunction in re-descriptive language rather than demonstrating it (suspension-void's seam paragraph is the right template). Issue 7 (Medium): vagueness-void's Tye/Schwitzgebel asymmetric engagement — names the dispute, takes a side without engaging Tye's intrinsic-character argument.
+- **Clean checks**: label-leakage discipline (no `Mode One/Two/Three` in prose, no `direct-refutation-discipline` invocations as authority, no bolded `**Evidential status:**` callouts, no AI REFINEMENT LOG comments) — both articles pass.
+- **Tasks generated**: 2 P2 refine-draft tasks (one per article), both filed under `Source: pessimistic-review`.
+- **Output**: [[reviews/pessimistic-2026-05-12]]
+
 ## 2026-05-12 03:35 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/conjunction-coalesce]]
