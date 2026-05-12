@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T04:30:00+00:00
+ai_modified: 2026-05-12T04:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 04:45 UTC - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Original score**: n/a (hygiene-only fix; no quality review run)
+- **Changes**: Deleted all six `<!-- AI REFINEMENT LOG -->` HTML-comment blocks accumulated by the 2026-05-11 multi-pass refines (first/second/third/fourth/fifth/sixth passes covering Tenet 4/5 indexical-vs-ontological restructure, Tenet 2 post-decoherence-selection restructure, Dualism agency-cluster paragraph, Tenet 3 BI metaphysical-commitment framing, Tenet 3 phenomenal-concept strategy engagement, and Tenet 2 falsifiability + parsimony-binding additions). Each block ended with "This log should be removed after human review"; the substantive change-history is already captured in this changelog at the corresponding timestamps. Updated `ai_modified` to 2026-05-12T04:45:00+00:00. No tenet prose touched. Closed source-side editor-vocabulary leakage (`Mode One (in-framework defect)`, `Engagement classification kept editor-internal`, `Direct-refutation discipline`) that LLM-fetchers, scrapers, and search-indexers were reading from the raw markdown despite HTML comments not rendering in Hugo. Closes pessimistic-2026-05-11 Issue 5 (hygiene); also closes the duplicate P3 entry that had accumulated for the same fix.
+- **Published**: yes
 
 ## 2026-05-12 04:30 UTC - deep-review
 - **Status**: Success (convergence confirmed)

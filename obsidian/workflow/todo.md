@@ -61,14 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-12
 
-### P3: Remove `<!-- AI REFINEMENT LOG -->` HTML comments from `obsidian/tenets/tenets.md`
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Chain from pessimistic-2026-05-11 Issue 5 (Low/Medium hygiene). The tenets page accumulated two HTML-commented `AI REFINEMENT LOG` blocks today (one each from the morning Tenet-4/5 restructure and the 09:06 UTC Tenet-2 post-decoherence-selection restructure), each ending with the line "This log should be removed after human review." Both still remain in the file (currently 6 `AI REFINEMENT LOG` occurrences = 3 logs × 2 markers each — the third log is from today's later refines). HTML comments do not render in Hugo output, so this is not reader-visible, but: (a) the comments instruct their own removal and accumulate; (b) they contain editor-vocabulary (`Mode One (in-framework defect)`, `Direct-refutation discipline`) that the writing-style guide and `[[project/direct-refutation-discipline]]` forbid in article prose; (c) source-side scrapers, LLM-fetchers, and search-indexers can read them. Fix: delete all three `<!-- AI REFINEMENT LOG -->` blocks (lines approximately 115–144 + later additions) from `obsidian/tenets/tenets.md`. This is a 30-second mechanical fix that has been deferred across multiple cycles. Tenet alignment: hygiene/methodological. See `reviews/pessimistic-2026-05-11.md` Issue 5.
-- **Review file**: `reviews/pessimistic-2026-05-11.md`
-- **Source**: pessimistic-review (chain from 2026-05-11)
-- **Generated**: 2026-05-11
-
 ### P3: Write project doc on the mechanism-costs-by-thickness-quadrants lens as named cartographic methodology
 - **Type**: expand-topic
 - **Status**: pending
@@ -3615,6 +3607,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-05-12: Remove `<!-- AI REFINEMENT LOG -->` HTML comments from `obsidian/tenets/tenets.md`
+- **Type**: refine-draft
+- **Notes**: Chain from pessimistic-2026-05-11 Issue 5 (Low/Medium hygiene). The tenets page accumulated two HTML-commented `AI REFINEMENT LOG` blocks today (one each from the morning Tenet-4/5 restructure and the 09:06 UTC Tenet-2 post-decoherence-selection restructure), each ending with the line "This log should be removed after human review." Both still remain in the file (currently 6 `AI REFINEMENT LOG` occurrences = 3 logs × 2 markers each — the third log is from today's later refines). HTML comments do not render in Hugo output, so this is not reader-visible, but: (a) the comments instruct their own removal and accumulate; (b) they contain editor-vocabulary (`Mode One (in-framework defect)`, `Direct-refutation discipline`) that the writing-style guide and `[[project/direct-refutation-discipline]]` forbid in article prose; (c) source-side scrapers, LLM-fetchers, and search-indexers can read them. Fix: delete all three `<!-- AI REFINEMENT LOG -->` blocks (lines approximately 115–144 + later additions) from `obsidian/tenets/tenets.md`. This is a 30-second mechanical fix that has been deferred across multiple cycles. Tenet alignment: hygiene/methodological. See `reviews/pessimistic-2026-05-11.md` Issue 5.
+- **Output**: obsidian/tenets/tenets.md
+
+Task context:
+Chain from pessimistic-2026-05-11 Issue 5 (Low/Medium hygiene). The tenets page accumulated two HTML-commented `AI REFINEMENT LOG` blocks today (one each from the morning Tenet-4/5 restructure and the 09:06 UTC Tenet-2 post-decoherence-selection restructure), each ending with the line "This log should be removed after human review." Both still remain in the file (currently 6 `AI REFINEMENT LOG` occurrences = 3 logs × 2 markers each — the third log is from today's later refines). HTML comments do not render in Hugo output, so this is not reader-visible, but: (a) the comments instruct their own removal and accumulate; (b) they contain editor-vocabulary (`Mode One (in-framework defect)`, `Direct-refutation discipline`) that the writing-style guide and `[[project/direct-refutation-discipline]]` forbid in article prose; (c) source-side scrapers, LLM-fetchers, and search-indexers can read them. Fix: delete all three `<!-- AI REFINEMENT LOG -->` blocks (lines approximately 115–144 + later additions) from `obsidian/tenets/tenets.md`. This is a 30-second mechanical fix that has been deferred across multiple cycles. Tenet alignment: hygiene/methodological. See `reviews/pessimistic-2026-05-11.md` Issue 5.
+
+Review file: reviews/pessimistic-2026-05-11.md
+
 ### ✓ 2026-05-12: Fix `apex_thesis` frontmatter editor-vocabulary leakage in `apex/phenomenology-mechanism-bridge.md`
 - **Type**: refine-draft
 - **Notes**: Flagged for follow-up by the 2026-05-12 01:46 UTC catalogue-wide editor-vocabulary leakage sweep (changelog: "Frontmatter caveat noted but not fixed: `apex/phenomenology-mechanism-bridge.md` line 44 still contains `apex_thesis: \"...calibrated by the coherence-inflation-countermeasures discipline.\"` — this is frontmatter (allowed per task), but renders on the apex listing page. Flagging for future apex-evolve pass; out of scope here"). The sweep replaced display-text "coherence-inflation countermeasures" with "the project's countermeasures" across all body-prose hits in apex/{phenomenology-mechanism-bridge, moral-architecture-of-consciousness, taxonomy-of-voids, apex-articles}, but left the `apex_thesis` frontmatter field unchanged because the sweep task scope was body prose only. The frontmatter field renders on `/apex/` listing page (per Hugo's `apex_thesis` template surfacing), so the leakage is still reader-visible just at a different surface. Fix: open `obsidian/apex/phenomenology-mechanism-bridge.md` line 44, locate the `apex_thesis:` field, replace the display-text "coherence-inflation-countermeasures discipline" with the same natural-prose framing used in body prose ("the discipline against reading method-produced consistency as evidence" or equivalent — match the body-prose framing for consistency across surfaces). Also sweep the other apex articles' `apex_thesis` frontmatter fields for any analogous editor-vocabulary leakage that the body-prose sweep left untouched (bedrock-clash, Mode One/Two/Three, direct-refutation discipline, evidential-status discipline, delocalisation discipline, concession-convergence as noun, conjunction-coalesce as noun). Estimated scope: ~30–80 words touched across 1–4 apex frontmatter fields. Tenet alignment: methodological / writing-style hygiene; continuity with the 01:46 UTC body-prose sweep. See `obsidian/workflow/changelog.md` 2026-05-12 01:46 UTC entry.
@@ -4097,13 +4099,13 @@ Review file: reviews/outer-review-2026-05-11-claude-opus-4-7.md
 - **Source**: pessimistic-review (2026-05-11)
 - **Generated**: 2026-05-11
 
-### P3: Remove AI REFINEMENT LOG HTML comments from tenets/tenets.md
+### ✓ 2026-05-12: Remove AI REFINEMENT LOG HTML comments from tenets/tenets.md
 - **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From pessimistic-2026-05-11 of `obsidian/tenets/tenets.md` Issue 5. Two `<!-- AI REFINEMENT LOG - 2026-05-11 -->` HTML-comment blocks remain at the end of `obsidian/tenets/tenets.md` (lines 115–144), each explicitly instructing its own removal: "This log should be removed after human review." Both were added today (first pass: Tenet 4 / Tenet 5 restructure; second pass: Tenet 2 / post-decoherence-selection restructure). The substantive content is already captured in `obsidian/workflow/changelog.md` (09:06 UTC entry for the Tenet 2 pass, and the prior entry for the Tenet 4 pass). Delete both blocks. Reader-side this is invisible (HTML comments do not render in Hugo) but source-side LLM-fetchers, scrapers, and search-indexers will see the editor-vocabulary leaks ("Mode One (in-framework defect)", "Engagement classification kept editor-internal") which the writing-style guide and `[[direct-refutation-discipline]]` explicitly forbid in article prose. Trivial scope: delete two HTML comment blocks. Tenet alignment: methodological / hygiene. See [[reviews/pessimistic-2026-05-11]] Issue 5.
+- **Notes**: Closed by the same fix as the duplicate entry near the top of the active queue. All six `<!-- AI REFINEMENT LOG -->` blocks deleted from `obsidian/tenets/tenets.md`; `ai_modified` updated to 2026-05-12T04:45:00+00:00. Substantive change-history preserved in `obsidian/workflow/changelog.md`. See completion notes on the duplicate task for the per-block enumeration.
 - **Review file**: `reviews/pessimistic-2026-05-11.md`
 - **Source**: pessimistic-review (2026-05-11)
 - **Generated**: 2026-05-11
+- **Output**: obsidian/tenets/tenets.md
 
 ## Blocked Tasks (Needs Human)
 

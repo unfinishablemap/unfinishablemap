@@ -303,8 +303,8 @@
     tenet fit'
   target_filename: outer-review-2026-05-12-claude-opus-4-7.md
   status: pending
-  collect_attempts: 1
-  last_attempt_at: '2026-05-12T04:30:11.150156+00:00'
+  collect_attempts: 2
+  last_attempt_at: '2026-05-12T04:45:06.239608+00:00'
   failure_reason: null
   prompt_text: "Please audit the article at https://unfinishablemap.org/topics/non-temporal-consciousness/\
     \ on The Unfinishable Map (https://unfinishablemap.org). The site develops a dualist\
