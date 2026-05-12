@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T06:00:00+00:00
+ai_modified: 2026-05-12T06:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 06:15 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Channel-Class Taxonomy (Shannon-channel taxonomy of mind-physical coupling)
+- **Output**: [[concepts/channel-class-taxonomy]]
+- **Word count**: 2484 (99% of 2500 soft target — ok)
+- **Based on research**: No formal research note; built on existing concept articles [[selection-only-channel]] (which named the four sibling classes at lines 88–97), [[coupling-modes]], [[consciousness-physics-interface-formalism]], [[stapp-quantum-mind]], [[conservation-laws-and-mental-causation]].
+- **Notes**: Catalogues five channel classes (selection-only, probability-bias, measurement-basis-choice, candidate-generation, energy-injection) with per-class Shannon specification, theory attributions (Stapp Process 1 → basis-choice; Eccles psychon-dendron → probability-bias; Orch OR readings → candidate-generation; Cartesian dualism → energy-injection foil), and conservation/no-signalling status. Attributions hedged per source-attribution discipline (Orch OR placed only "under readings that identify the consciousness moment with the candidate-generation event"; Stapp basis-choice quote preserved verbatim; no claim that the Map commits to a single class). Tenet section frames the taxonomy as a menu, not a verdict, and explicitly flags possibility/probability slippage as a risk in inferring class-correctness from tenet-coherence.
 
 ## 2026-05-12 06:00 UTC - deep-review
 - **Status**: Success (stability confirmed, no content changes)

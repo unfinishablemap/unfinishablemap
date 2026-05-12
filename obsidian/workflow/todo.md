@@ -61,14 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-12
 
-### P3: Write concept page on `channel-class-taxonomy` (or `mind-physical-channel-classes`)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (afternoon — 2026-05-11b). `concepts/selection-only-channel.md` (created today) introduces four named channel classes (probability-bias, measurement-basis-choice, energy-injection, candidate-generation) at lines 88–97 without giving them their own treatment. A consolidated concept page would catalogue each class with (a) its formal Shannon-channel specification, (b) the commitments required to occupy it, (c) the named theories that occupy it (Stapp's Process 1 for measurement-basis-choice; Orch OR for candidate-generation; the intermediate Tenet 2 reading for probability-bias), (d) which conservation laws and no-signalling theorems each class satisfies or violates. Should cross-link to `consciousness-physics-interface-formalism`, `mathematical-structure-of-the-consciousness-physics-interface`, `selection-only-channel`, `stapp-quantum-mind`. Estimated scope: 2,200–2,800 words; concepts/ placement. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) — the taxonomy is the formal vocabulary for specifying *how minimal*; Tenet 3 (Bidirectional Interaction) — channel-direction and bandwidth are the formal vocabulary for specifying bidirectionality.
-- **Review file**: `reviews/optimistic-2026-05-11b.md`
-- **Source**: optimistic-review (2026-05-11b)
-- **Generated**: 2026-05-11
-
 ### P3: Apex-evolve technical-machinery-layer synthesis (integration-as-activity + type-token-causation + interface-threshold + selection-only-channel)
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3584,6 +3576,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-12: Write concept page on `channel-class-taxonomy` (or `mind-physical-channel-classes`)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review (afternoon — 2026-05-11b). `concepts/selection-only-channel.md` (created today) introduces four named channel classes (probability-bias, measurement-basis-choice, energy-injection, candidate-generation) at lines 88–97 without giving them their own treatment. A consolidated concept page would catalogue each class with (a) its formal Shannon-channel specification, (b) the commitments required to occupy it, (c) the named theories that occupy it (Stapp's Process 1 for measurement-basis-choice; Orch OR for candidate-generation; the intermediate Tenet 2 reading for probability-bias), (d) which conservation laws and no-signalling theorems each class satisfies or violates. Should cross-link to `consciousness-physics-interface-formalism`, `mathematical-structure-of-the-consciousness-physics-interface`, `selection-only-channel`, `stapp-quantum-mind`. Estimated scope: 2,200–2,800 words; concepts/ placement. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) — the taxonomy is the formal vocabulary for specifying *how minimal*; Tenet 3 (Bidirectional Interaction) — channel-direction and bandwidth are the formal vocabulary for specifying bidirectionality.
+- **Output**: Write concept page on `channel-class-taxonomy` (or `mind-physical-channel-classes`)
 
 ### ✓ 2026-05-12: Write concept page on `phenomenal-concept-strategy`
 - **Type**: expand-topic
