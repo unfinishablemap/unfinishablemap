@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T02:41:00+00:00
+ai_modified: 2026-05-12T02:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 02:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/embodied-cognition]]
+- **Word count**: 3183 → 3204 words (+21 net, 128% of soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 — removed stale AI REFINEMENT LOG HTML comment from 2026-04-15; rephrased "This is not X. It is Y." style-guide violation in Buddhist section
+- **Enhancements made**: 2 cross-links added (tacit-integration-void, sensorimotor-contingencies-and-the-interface) to Further Reading and frontmatter
+- **Reasoning-mode classifications**: engagement with Baumeister/Beilock — Mode Three (boundary-marked, "this reading is mainstream"); engagement with eliminativist position — Mode Three (deferred to illusionism article); engagement with Nāgārjuna — Mode One+Three mixed (internal critique plus honest residue acknowledgement). No label leakage; no boundary-substitution.
+- **Stability**: 9th deep review. Philosophical content unchanged. Bedrock disagreements (eliminativist, MWI, anti-essentialist, supervenience) all explicitly acknowledged as expected.
+- **Output**: [[reviews/deep-review-2026-05-12-embodied-cognition]]
 
 ## 2026-05-12 02:41 UTC - refine-draft
 - **Status**: Success
