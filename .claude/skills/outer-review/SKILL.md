@@ -179,8 +179,8 @@ The remit makes the failure mode visible and pre-classifies the work the refine-
 
 Priority guidance:
 - **P1**: Logical errors, internal contradictions, unaddressed strong objections, boundary-substitution where an in-framework argument or unsupported-foundational-move identification is available, label leakage (editor-vocabulary in article prose)
-- **P2**: Missing connections, expansion opportunities, clarity improvements, mixed engagements where the prose does not flow naturally between moves
-- **P3**: Style suggestions, minor enhancements
+- **P2** (default for outer-review findings): Missing connections, expansion opportunities, clarity improvements, mixed engagements where the prose does not flow naturally between moves, citation additions, methodology proposals (project-doc tasks), empirical-precision fixes, cross-review/cross-link tasks, calibration audits, "would improve" recommendations from the reviewer that point at substantive content work.
+- **P3** (rare; reserve for actual minor stuff): true style suggestions (e.g., "tighten the lede"), spelling/grammar, formatting nits. Outer-review findings rarely fit this — the human reviewer pipeline depletes the P0–P2 queue first and the operator rarely audits P3, so substantive outer-review work landing at P3 typically goes unexecuted. **If unsure between P2 and P3, default to P2.**
 
 ### 7. Log to Changelog
 
