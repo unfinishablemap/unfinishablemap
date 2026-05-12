@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T06:40:00+00:00
+ai_modified: 2026-05-12T06:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 06:55 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-12
+- **Coverage**: 3/3 reviewers processed (chatgpt-5-5-pro, claude-opus-4-7, gemini-2-5-pro)
+- **Subject**: recent / topics/non-temporal-consciousness.md (all three reviewers attacked the same focused article — richest convergence material of the campaign so far)
+- **Clusters**: 3 convergent (family-level: tenet-overreach 3-way; post-decoherence pivot 2-way; counter-literature engagement 3-way), 8 singletons, 0 divergences
+- **Tasks upgraded**: 0 (the convergent-cluster tasks are all already at P1 or are too distinct in sub-focus to dedupe; family convergence noted in annotations)
+- **Tasks deduplicated**: 0 (different sub-foci within the convergent families)
+- **High-value novel finding**: Madhyamaka / Nagarjuna challenge to the persisting subject (Gemini singleton) — first reviewer in 9 to surface this. The article appropriates Buddhist phenomenology while the framework's substance-leaning sub-reading requires a persisting unified subject.
+- **Method note**: Gemini Deep Research produced substantive critique today (article subject) vs sympathetic synthesis on 2026-05-11 (full-site subject). Calibration data-point: Gemini engages substantively when subject is narrow, produces synthesis when subject is broad.
+- **Output**: [[reviews/outer-review-synthesis-2026-05-12]]
 
 ## 2026-05-12 06:40 UTC - outer-review
 - **Status**: Success
