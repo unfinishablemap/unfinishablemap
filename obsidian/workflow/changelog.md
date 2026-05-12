@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T06:15:00+00:00
+ai_modified: 2026-05-12T06:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 06:30 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Research mode, peer-review-style audit, 271 sources, 11m 3s)
+- **File**: [[reviews/outer-review-2026-05-12-claude-opus-4-7]]
+- **Subject**: recent / topics/non-temporal-consciousness.md (reuse:pending-reviews:outer-review-2026-05-12-chatgpt-5-5-pro.md)
+- **Recovery context**: 8 collect attempts (04:28–06:15 UTC) all bailed at Step-3 not-ready despite the conversation being ready throughout. Skill hardened in commit `cc05a959c` — Step 3 now an explicit 8-poll numbered procedure with mid-loop force-click; Step 2.5 wake bumped from 2s to 10s. Body extracted manually via the proven artifact-panel + Blob-download path.
+- **Claims verified**: 7 (no A/B-series distinction, no Zahavi/Katz/Sharf citations, no B-theory physics lineage, no Metzinger 2020, "250M corpus callosum fibres" overprecise, regress argument treated as binary brute-fact-or-infinite-regress)
+- **High-value findings**: 7
+- **Tasks generated**: 7 (P1: 3, P2: 2, P3: 2) — all targeting `topics/non-temporal-consciousness.md`
+- **Convergence**: Likely heavy convergence with same-cycle ChatGPT 2026-05-12 (also on same article). Synthesis pass will surface merged P1 set. **Eighth independent outer review** flagging the direct-refutation-discipline failure-mode family.
 
 ## 2026-05-12 06:15 UTC - expand-topic
 - **Status**: Success
