@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T03:35:00+00:00
+ai_modified: 2026-05-12T04:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 04:10 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-05-12-chatgpt-5-5-pro]]
+- **Subject**: [[non-temporal-consciousness]] (subject_type: recent, fallback:recent-aged)
+- **Claims verified**: 14 verified (all article-textual claims, plus 2026-05-11 tenets-update claim, plus 6 neighbouring-article integration claims); 4 unverified at source level (Frischhut final-issue metadata, Lopez page range, Kent/Wittmann/Tsao/Teghil/VanRullen specific framings) — none disputed
+- **High-value findings**: 4 structural (tenet-paragraph overreach in Dualism/MQI/BI/NMW; irreducibility-argument under-earned premise-2; No Many Worlds drift from 2026-05-11 tenets update; bibliographic upgrades for Frischhut and Lopez)
+- **Convergent finding**: tenet-paragraph overreach in the article's "Relation to Site Perspective" section — same direct-refutation-discipline failure mode the 2026-05 outer-review cycle has been pressing across other articles (unsupported-foundational-move tells, boundary-substitution)
+- **Tasks generated**: 3 (P1: 1 — tenet-paragraph refine + irreducibility-claim hedging; P2: 2 — evidential-status box + neuroscience/phenomenology counter-sections + citation completion; cross-cluster reciprocal integration across 7 articles)
 
 ## 2026-05-12 03:35 UTC - apex-evolve
 - **Status**: Complete

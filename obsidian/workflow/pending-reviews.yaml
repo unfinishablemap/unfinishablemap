@@ -266,9 +266,9 @@
   prompt_summary: 'Audit non-temporal-consciousness: claims, citations, counterargs,
     tenet fit'
   target_filename: outer-review-2026-05-12-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-12T03:47:00.621292+00:00'
   failure_reason: null
   prompt_text: 'The Unfinishable Map (https://unfinishablemap.org) is a philosophical
     content platform exploring consciousness, dualism, and the quantum interface,
