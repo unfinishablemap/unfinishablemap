@@ -194,14 +194,3 @@ A deeper methodological impasse: experiments detect consciousness only through r
 1. Nartker, M., et al. (2025). Visual sensitivity in inattentional blindness. *eLife*, 14:e97156.
 1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
-
-<!-- AI REFINEMENT LOG - 2026-04-04
-Changes made:
-- Fixed misattribution in Working Memory section: Baddeley's episodic buffer formulation was presented as implying dualism, when Baddeley is a non-dualist. Reframed as the Map's interpretation of his language, explicitly noting "This is the Map's gloss, not Baddeley's intention."
-- Full attribution accuracy check passed on remainder of article.
-
-Based on pessimistic review (2026-04-04, Issue 3).
-Key improvements: Source/Map separation in Working Memory section.
-
-This log should be removed after human review.
--->

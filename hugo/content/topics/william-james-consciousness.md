@@ -215,15 +215,6 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 1. Stapp, H.P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Nisbett, R.E. & Wilson, T.D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
 
-<!-- AI REFINEMENT LOG - 2026-04-02
-Changes made:
-- Added "James and Panpsychism" section covering mind-dust objection, combination problem, and panpsychist sympathies
-- Added combination-problem to concepts frontmatter
-- Integrates research from pragmatist-philosophy-of-mind-2026-03-28.md
-
-This log should be removed after human review.
--->
-
 <!-- AI REFINEMENT LOG - 2026-04-18
 Addresses unaddressed issues from reviews/pessimistic-2026-04-18.md (James article was skipped in the subsequent refinement pass).
 Changes made:

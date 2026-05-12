@@ -158,15 +158,3 @@ The Map acknowledges that if forced to choose between idealism and physicalism, 
 1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
 1. Shani, I. (2015). "Cosmopsychism: A Holistic Approach to the Metaphysics of Experience." *Philosophical Papers*, 44(3), 389–437.
 1. Stubenberg, L. (2018). "Neutral Monism." *Stanford Encyclopedia of Philosophy*.
-
-<!-- AI REFINEMENT LOG - 2026-04-06
-Changes made:
-- Renamed third diagnostic question heading to "Does Individual Identity Survive? (A Values Commitment)" with caveat that this is the Map's commitment, not a neutral diagnostic
-- Removed "unfashionable but" from "The Map's dualist answer is unfashionable but direct"
-- Fixed "history of science shows repeatedly" claim: acknowledged selection bias, noted parsimony sometimes wins
-
-Based on pessimistic review (pessimistic-2026-04-06b.md).
-Key improvements: honesty about values-vs-diagnostics distinction, reduced rhetorical self-positioning.
-
-This log should be removed after human review.
--->

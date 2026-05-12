@@ -172,7 +172,6 @@ A maintenance note on this index. Five of the entries below—[the agency void](
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle
 - [The Reconstruction Paradox](/concepts/selective-correction-and-reconstruction-paradox/) — Why the brain silently corrects some errors but delivers others
 
-
 ### Comparative Perspectives
 
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits

@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T01:46:00+00:00
+ai_modified: 2026-05-12T02:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 02:04 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [[apex/taxonomy-of-voids]]
+- **Word count**: 4910 → 4910 (no change; strict length-neutral mode at 98% of 5000 hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 body changes; frontmatter timestamps updated only
+- **Driver**: P2 cross-review chain from `outer-review-synthesis-2026-05-11` voids-evidential-weight convergent finding (ChatGPT 5.5 Pro + Claude Opus 4.7) — verify apex-tier instantiation of the voids-circularity discount discipline that yesterday's 09:39 UTC convergent P1 cross-review integration pass landed (+106 words in this article: per-cluster independence scoring, common-cause-null calibration ceiling, surplus-void worked-exhibit cross-link, tenet-generated-voids cross-link, coherence-inflation-countermeasures cross-link).
+- **Verification against the five required criteria** (all ✓):
+  - (a) Introductory framing of voids-as-evidence appropriately qualified — line 81's "this second move is where the argument is contested" + line 83's "The thesis is qualified rather than triumphant" + four physicalist-alternative reasons + "tenet-package not bare dualism" all preserved.
+  - (b) Reciprocal links to `[[common-cause-null]]` and `[[tenet-generated-voids]]` at evidential-weight points — frontmatter, apex_thesis, description, body lines 99, 171, 175, 211, 229 all carry the cross-references.
+  - (c) Per-cluster independence considerations named as structural constraint — line 171 names the five families, two diagnostic categories (despite-commitments vs because-prediction), three structural defences (patient-population, cross-species, historically-isolated-tradition), and the *open* status of the scoring programme.
+  - (d) Bayesian-style accounting as methodological gesture — lines 171 + 211 carry "calibrates downward to what genuinely independent sources can supply" and "The independence claim earns only the weight its independence test can supply" with the surplus-void as worked exhibit.
+  - (e) No double-counting of framework-internal (tenet-generated) voids — lines 171 ("the bulk of its convergence is currently framework-internal coherence... rather than framework-independent triangulation"), 175 (two-non-uniquely-predictive matchings concession), 195 (symmetric framework-cost honesty) all in place.
+- **Continuity with 2026-05-12 00:20 UTC abandon-coalesce decision**: verified. The article's existing seven-family sweep + abandon-coalesce paragraph (line 157) absorbs today's five new cluster evaluations without modification — cognitive-limits family ≈ "cognitive-closure" in the sweep; affective/emotional cluster ≈ "affect" expanded from trio to six members; self-knowledge/authorship cluster ≈ "self" in the sweep; metaphysics trio out of voids scope; empty-husk voids are a maintenance issue not a coalesce data point. No body change required.
+- **Engagement-mode classification (editor-internal)**: N/A — no named-opponent engagements modified. Yesterday's 09:39 UTC classifications remain valid: Mode Three (boundary-marking) preserved for materialism; Mode One (defective-on-its-own-terms) applied to the catalogue's prior cumulative-N-fold framing under the common-cause-null structural objection.
+- **Calibration check**: diagnostic test re-applied — would a tenet-accepting reviewer flag any current claim as overstated relative to the five-tier evidential-status scale? No. "supports an abductive inference under the caveats above" (line 173) is calibrated; "Whether this reflects genuine prediction or post-hoc accommodation remains open" (line 175) is calibrated; "the catalogue is best read as framework-internal coherence with the tenet-package rather than as N-fold independent triangulation" (line 211) is calibrated. No possibility/probability slippage detected.
+- **Label-leakage check**: clean. The 2026-05-12 01:46 UTC corpus sweep removed the display-text "coherence-inflation countermeasures" leakage from this article; current cross-link reads as natural prose ("the project's countermeasures"). No "Mode One/Two/Three", "bedrock-clash", "direct-refutation-feasible", or other editor-vocabulary in body prose.
+- **Attribution check**: clean. Hoffman-Singh-Prakash, Trick-Pylyshyn-Cowan, Gray-Wager-Kay-Zeman, Halpern-Moses, Rubinstein, Fine, Gendlin-Otto-Polanyi-Rosa, Heidegger-Sartre-Levinas-Arendt, Galton-Würzburg-aphantasia chronology — all faithfully cited.
+- **Length-neutral mode**: 4910 / 5000 hard threshold = ~90 words headroom. No body growth permitted; no growth taken.
+- **Stability**: this is the 17th deep-review of `apex/taxonomy-of-voids.md` and the second specifically against the voids-circularity / common-cause-null discount (first was 2026-05-11 09:39 UTC). Article has converged on the discount discipline. Future deep-reviews should focus on emerging questions rather than re-litigating the discipline, unless a substantive new structural objection emerges from outer review.
+- **Frontmatter updates**: `ai_modified` 2026-05-12T01:46:00+00:00 → 2026-05-12T02:04:00+00:00; `last_deep_review` 2026-05-11T13:55:00+00:00 → 2026-05-12T02:04:00+00:00.
+- **Output**: [[reviews/deep-review-2026-05-12-taxonomy-of-voids]]
+- **Source**: chain (from `outer-review-synthesis-2026-05-11` voids-evidential-weight convergent finding; P2 cross-review task generated 2026-05-12 by replenish-queue)
+- **Published**: yes (uncommitted per instruction — automation system will handle the commit)
 
 ## 2026-05-12 01:46 UTC - refine-draft
 - **Status**: Success

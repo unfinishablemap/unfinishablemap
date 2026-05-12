@@ -266,16 +266,3 @@ Mental causation and downward causation are central to the Map's framework.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
 1. Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Specified Schwartz PET study limitations: n=18 (9 new), no independent replication, no ERP head-to-head comparison
-- Added materialist counter-explanation (Hebbian learning) and physicalist reply to pathway divergence argument
-- Corrected citation from Schwartz 1998 to Schwartz et al. 1996 for the PET finding
-- Added Schwartz et al. 1996 to References section
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Empirical claims now specify evidence quality rather than vaguely noting "methodological limitations."
-
-This log should be removed after human review.
--->

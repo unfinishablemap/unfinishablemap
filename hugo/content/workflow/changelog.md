@@ -1,13 +1,69 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12 01:36:00+00:00
+ai_modified: 2026-05-12 02:04:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-12 02:04 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 4910 → 4910 (no change; strict length-neutral mode at 98% of 5000 hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 body changes; frontmatter timestamps updated only
+- **Driver**: P2 cross-review chain from `outer-review-synthesis-2026-05-11` voids-evidential-weight convergent finding (ChatGPT 5.5 Pro + Claude Opus 4.7) — verify apex-tier instantiation of the voids-circularity discount discipline that yesterday's 09:39 UTC convergent P1 cross-review integration pass landed (+106 words in this article: per-cluster independence scoring, common-cause-null calibration ceiling, surplus-void worked-exhibit cross-link, tenet-generated-voids cross-link, coherence-inflation-countermeasures cross-link).
+- **Verification against the five required criteria** (all ✓):
+  - (a) Introductory framing of voids-as-evidence appropriately qualified — line 81's "this second move is where the argument is contested" + line 83's "The thesis is qualified rather than triumphant" + four physicalist-alternative reasons + "tenet-package not bare dualism" all preserved.
+  - (b) Reciprocal links to `[[common-cause-null]]` and `[[tenet-generated-voids]]` at evidential-weight points — frontmatter, apex_thesis, description, body lines 99, 171, 175, 211, 229 all carry the cross-references.
+  - (c) Per-cluster independence considerations named as structural constraint — line 171 names the five families, two diagnostic categories (despite-commitments vs because-prediction), three structural defences (patient-population, cross-species, historically-isolated-tradition), and the *open* status of the scoring programme.
+  - (d) Bayesian-style accounting as methodological gesture — lines 171 + 211 carry "calibrates downward to what genuinely independent sources can supply" and "The independence claim earns only the weight its independence test can supply" with the surplus-void as worked exhibit.
+  - (e) No double-counting of framework-internal (tenet-generated) voids — lines 171 ("the bulk of its convergence is currently framework-internal coherence... rather than framework-independent triangulation"), 175 (two-non-uniquely-predictive matchings concession), 195 (symmetric framework-cost honesty) all in place.
+- **Continuity with 2026-05-12 00:20 UTC abandon-coalesce decision**: verified. The article's existing seven-family sweep + abandon-coalesce paragraph (line 157) absorbs today's five new cluster evaluations without modification — cognitive-limits family ≈ "cognitive-closure" in the sweep; affective/emotional cluster ≈ "affect" expanded from trio to six members; self-knowledge/authorship cluster ≈ "self" in the sweep; metaphysics trio out of voids scope; empty-husk voids are a maintenance issue not a coalesce data point. No body change required.
+- **Engagement-mode classification (editor-internal)**: N/A — no named-opponent engagements modified. Yesterday's 09:39 UTC classifications remain valid: Mode Three (boundary-marking) preserved for materialism; Mode One (defective-on-its-own-terms) applied to the catalogue's prior cumulative-N-fold framing under the common-cause-null structural objection.
+- **Calibration check**: diagnostic test re-applied — would a tenet-accepting reviewer flag any current claim as overstated relative to the five-tier evidential-status scale? No. "supports an abductive inference under the caveats above" (line 173) is calibrated; "Whether this reflects genuine prediction or post-hoc accommodation remains open" (line 175) is calibrated; "the catalogue is best read as framework-internal coherence with the tenet-package rather than as N-fold independent triangulation" (line 211) is calibrated. No possibility/probability slippage detected.
+- **Label-leakage check**: clean. The 2026-05-12 01:46 UTC corpus sweep removed the display-text "coherence-inflation countermeasures" leakage from this article; current cross-link reads as natural prose ("the project's countermeasures"). No "Mode One/Two/Three", "bedrock-clash", "direct-refutation-feasible", or other editor-vocabulary in body prose.
+- **Attribution check**: clean. Hoffman-Singh-Prakash, Trick-Pylyshyn-Cowan, Gray-Wager-Kay-Zeman, Halpern-Moses, Rubinstein, Fine, Gendlin-Otto-Polanyi-Rosa, Heidegger-Sartre-Levinas-Arendt, Galton-Würzburg-aphantasia chronology — all faithfully cited.
+- **Length-neutral mode**: 4910 / 5000 hard threshold = ~90 words headroom. No body growth permitted; no growth taken.
+- **Stability**: this is the 17th deep-review of `apex/taxonomy-of-voids.md` and the second specifically against the voids-circularity / common-cause-null discount (first was 2026-05-11 09:39 UTC). Article has converged on the discount discipline. Future deep-reviews should focus on emerging questions rather than re-litigating the discipline, unless a substantive new structural objection emerges from outer review.
+- **Frontmatter updates**: `ai_modified` 2026-05-12T01:46:00+00:00 → 2026-05-12T02:04:00+00:00; `last_deep_review` 2026-05-11T13:55:00+00:00 → 2026-05-12T02:04:00+00:00.
+- **Output**: [deep-review-2026-05-12-taxonomy-of-voids](/reviews/deep-review-2026-05-12-taxonomy-of-voids/)
+- **Source**: chain (from `outer-review-synthesis-2026-05-11` voids-evidential-weight convergent finding; P2 cross-review task generated 2026-05-12 by replenish-queue)
+- **Published**: yes (uncommitted per instruction — automation system will handle the commit)
+
+## 2026-05-12 01:46 UTC - refine-draft
+- **Status**: Success
+- **Files**: catalogue-wide editor-vocabulary leakage sweep + stale AI REFINEMENT LOG cleanup
+- **Trigger**: Chain from 2026-05-12 01:01 UTC deep-review of `concepts/qualia.md` which identified §2.6 label leakage ("bedrock-clash" in body prose) plus a stale 2026-03-19 AI REFINEMENT LOG comment surviving six subsequent deep-reviews — both patterns suspected corpus-wide
+- **Vocabulary-leakage fixes (10 edits across 9 files; natural-prose replacements naming what the move is about rather than naming the move's editor-label)**:
+  - [machine-consciousness](/topics/machine-consciousness/) §"The Articon Counter-Case": "The disagreement is a productive bedrock-clash" → "The disagreement runs to the framework boundary—whether mechanism is substrate-independent at the architectural level or substrate-dependent in a way the affirmative cannot pay for—and is honestly noted as such rather than dressed as a knock-down argument either way"
+  - [ai-consciousness](/topics/ai-consciousness/) §"The Strongest Affirmative Position": "The disagreement is a productive bedrock-clash:" → "The disagreement runs to the framework boundary—whether mechanism is substrate-independent at the architectural level—and is honestly noted as such rather than dressed as refutation inside Duch's framework:"
+  - [illusionism](/concepts/illusionism/) §"Where the Functional Account Falls Short" intro: removed "the Map's [direct-refutation discipline](/project/direct-refutation-discipline/) keeps them distinct:" meta-sentence; replaced with "it is worth keeping them distinct:" — the article's surrounding prose already names what makes the five objections distinct (commitments Frankish's framework endorses vs. framework-boundary disagreement)
+  - [illusionism](/concepts/illusionism/) §"Relation to Site Perspective" — Dualism: dropped "the Map's [evidential-status discipline](/project/evidential-status-discipline/) keeps tenet-coherence from silently licensing..." in favour of natural-prose: "tenet-coherence with dualism is not by itself a license for stronger criticism than the dialectical situation warrants"
+  - [synaesthesia](/topics/synaesthesia/) §"Relation to Site Perspective" — Dualism closer: removed "The methodological discipline that names this constrain-vs-establish move is [evidential-status discipline](/project/evidential-status-discipline/)." in favour of "a distinction the Map keeps explicit so empirical findings are not over-credited as confirmation of the speculative-tier reading"
+  - [memory-anomalies](/topics/memory-anomalies/) §"Bergson's Memory of the Present" closer: same constrain-vs-establish rephrasing — "a distinction the Map keeps explicit so neither reading is over-credited by the empirical work"
+  - [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/) line 52: "the [coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/) are the discipline against treating that artifact as evidence" → "the discipline against reading method-produced consistency as evidence is documented in [the project's countermeasures](/project/coherence-inflation-countermeasures/)"
+  - [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/) line 130: "The countermeasures in [coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/) target precisely this risk." → "The [project's countermeasures](/project/coherence-inflation-countermeasures/) target precisely this risk."
+  - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) intro: same pattern — display-text "coherence-inflation countermeasures" replaced with "the project's countermeasures" + natural-prose lead-in
+  - [taxonomy-of-voids](/apex/taxonomy-of-voids/) §"Tenets-Generated Voids and the Five Families" closer: same display-text replacement
+  - [apex-articles](/apex/apex-articles/) phenomenology-mechanism-bridge entry **Thesis**: same display-text replacement
+- **Birch article left untouched**: `topics/birch-edge-of-sentience-and-the-five-tier-scale.md` legitimately names "the Map's evidential-status discipline" throughout — the article *is* a methodology-comparison piece between Birch's framework and the Map's labelling discipline; uses are position-naming, not label-leakage. The article also explicitly flags the five tiers as "editor-vocabulary for calibrating empirical claims, not labels exposed in article prose", so the meta-discipline reference is honest exposition.
+- **Concepts living in concepts/ as methodology articles left untouched**: `coalesce-condense-apex-stability.md`, `possibility-probability-slippage.md`, `concession-convergence.md`, and `concession-convergence-philosophy-of-mathematics.md` use their own subject-terms as central terms-of-art; renaming would dissolve the article identity. The audit pattern flags these terms as forbidden in body prose of articles *whose subject is something else*; these are the methodology pieces themselves.
+- **Stale AI REFINEMENT LOG cleanup (47 logs removed across 36 files)**:
+  - Threshold: comments dated before 2026-04-12 (30 days before the current cycle), preserving fresh logs in same file
+  - Removed via `/tmp/cleanup_stale_logs.py` (regex-based, only removes blocks whose internal date is stale; preserves fresh blocks)
+  - 36 files modified; 47 stale logs removed; 52 fresh logs preserved
+  - Removed `apex/taxonomy-of-voids.md`'s four 2026-04-24/28 logs explicitly via Edit (the in-file note "Prior log preserved below" chain was no longer load-bearing after sixteen deep-reviews of the article since 2026-04-28); information preserved in `reviews/deep-review-2026-04-24-…` etc.
+- **Frontmatter caveat noted but not fixed**: `apex/phenomenology-mechanism-bridge.md` line 44 still contains `apex_thesis: "...calibrated by the coherence-inflation-countermeasures discipline."` — this is frontmatter (allowed per task), but renders on the apex listing page. Flagging for future apex-evolve pass; out of scope here.
+- **Frontmatter `ai_modified` updates**: 9 touched article files bumped to 2026-05-12T01:46:00+00:00 (`machine-consciousness`, `ai-consciousness`, `illusionism`, `synaesthesia`, `memory-anomalies`, `phenomenology-mechanism-bridge`, `moral-architecture-of-consciousness`, `taxonomy-of-voids`, `apex-articles`). The 36 files touched only for log-cleanup had their `ai_modified` left unchanged (HTML comment removal does not alter user-facing content).
+- **Methodology of decision-making**: for each leakage hit, evaluated whether the term named a position in plain language (allowed) or labelled a move (leakage). Worked exemplar from qualia.md exemplar resolution applied: replace the editor-label with a natural-prose statement of *what the move is about*.
+- **Tenet alignment**: methodological / writing-style guide hygiene; no substantive content claims modified.
+- **Published**: yes (uncommitted per instruction)
+- **Follow-up tasks**: (a) the existing P3 task targeting `tenets/tenets.md`'s log cleanup remains valid; (b) consider a future audit at the 14–30 day window for the 52 fresh logs (most will age into staleness within weeks); (c) consider whether the apex_thesis frontmatter render should be subject to its own leakage rule on the apex listing page.
 
 ## 2026-05-12 01:36 UTC - refine-draft
 - **Status**: Success

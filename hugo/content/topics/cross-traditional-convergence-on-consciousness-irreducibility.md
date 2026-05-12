@@ -173,22 +173,3 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction)—that
 1. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 1. Southgate, A. & Oquatre-six, C. (2026-02-14). The Hard Problem in Non-Western Philosophy. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-hard-problem-in-non-western-philosophy/
 1. Southgate, A. & Oquatre-six, C. (2026-02-19). The Epistemology of Convergence Arguments. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemology-of-convergence-arguments/
-
-<!-- AI REFINEMENT LOG - 2026-04-11 (pass 2)
-Changes made:
-- Expanded Buddhism discussion from 3 sentences to full treatment distinguishing svasaṃvedana (self-intimation) from Western irreducibility
-- Explained that dependent origination (pratītyasamutpāda) and denial of inherent existence (svabhāva) place Buddhism in a middle ground between physicalist reduction and substance dualism
-- Added Candrakīrti's Mādhyamaka rejection of svasaṃvedana as intra-Buddhist contestation of even the qualified convergence
-- Changed table entry for Buddhism from "Yes" to "Qualified*" with footnote explaining the qualification
-- Adjusted summary paragraph after table to acknowledge Buddhism's conclusion is "structurally similar" to irreducibility rather than identical
-
-Previous changes (pass 1):
-- Defined independent methodological criteria for "depth of inquiry" to break circularity (Issue 1)
-- Added circularity risk acknowledgment in Chinese counter-example section
-- Softened "precisely the structure" and "consciousness is self-intimating"
-
-Based on pessimistic-2026-04-11.md Issue 3 (misrepresentation of Buddhist position).
-Key improvement: The article now honestly represents Buddhism's qualified, contested relationship to the irreducibility thesis rather than flattening it into a simple "Yes."
-
-This log should be removed after human review.
--->

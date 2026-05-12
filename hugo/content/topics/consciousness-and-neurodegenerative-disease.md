@@ -152,20 +152,3 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 3. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 4. Mashour, G. A., et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107-1114.
 5. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-
-<!-- AI REFINEMENT LOG - 2026-03-01
-Changes made:
-- Recalibrated terminal lucidity: acknowledged anecdotal evidence base more consistently, downgraded from argumentative pillar to suggestive puzzle, engaged with complex-systems counter-explanation
-- Added explicit acknowledgment of filter theory's unfalsifiability problem, reframed as metaphysical interpretive framework rather than competing scientific hypothesis
-- Signaled user/tool metaphor as the Map's interpretive framework that presupposes dualism, rather than a conclusion derived from evidence
-- Softened easy/hard problem mapping: acknowledged it is interpretive, noted procedural memory counterexample, presented as suggestive rather than demonstrative
-- Qualified musical responsiveness claim: acknowledged behavioural markers may not track phenomenal experience
-- Distinguished behavioural markers of consciousness from consciousness itself throughout
-- Softened bidirectional interaction tenet claim to be conditional on evidence strengthening
-- Language improvements: removed superlatives ("the most"), "somehow", "precisely what filter theory predicts"
-
-Based on pessimistic review (pessimistic-2026-03-01-neurodegenerative.md).
-Key improvements: epistemic calibration — argumentative weight now matches evidential quality.
-
-This log should be removed after human review.
--->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-05-12 01:15:00+00:00
+ai_modified: 2026-05-12 02:04:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-30 03:11:00+00:00
 apex_sources:
@@ -37,7 +37,7 @@ description: Sixty+ cognitive voids cluster at the consciousness-matter interfac
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-11 13:55:00+00:00
+last_deep_review: 2026-05-12 02:04:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -175,7 +175,7 @@ The [recognition void](/voids/recognition-void/) deepens this: absent capacities
 
 A selection-effect worry sits at the heart of this convergence claim. The Map was built around consciousness; its curation criteria privilege cognitive voids; finding the voids cluster around consciousness risks being the observation that the Map is about what the Map is about. Some clustering was inevitable given the Map's framing. What remains diagnostic is the *structured* character of the clustering—the distinct failure signatures, the family relationships, the specific sub-cluster topology—which a pure curation bias would not predict. Three partial exceptions—the [temporal void](/voids/temporal-void/), the dream consciousness void, and the silence void—sit outside the main convergence structure, suggesting the catalogue has not been forced into a single narrative. This weakens the abductive step; it does not eliminate it.
 
-The [common-cause-null](/project/common-cause-null/) discipline sharpens this into a specific failure mode: if the N voids share an upstream architecture—one introspective channel, one shared theoretical framework that pre-shaped what counts as a void—the N-fold count overstates the evidential weight. The voids catalogue is the Map's largest such case, and the bulk of its convergence is currently framework-internal coherence (these voids fit the tenet-package because the tenets shaped what was catalogued as a void) rather than framework-independent triangulation. Per-cluster independence scoring is the open programme: each of the five families needs an account of which sources supply *despite-commitments* observation versus *because-prediction* observation, with patient-population, cross-species, and historically-isolated-tradition evidence as the structural defences against the null. The [surplus void](/voids/the-surplus-void/) is the worked exhibit; [tenet-generated-voids](/voids/tenet-generated-voids/) names the framework-internal generation; [the coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/) formalise the broader discipline against reading method-produced consistency as evidence; the catalogue's cumulative evidential weight calibrates downward to what genuinely independent sources can supply.
+The [common-cause-null](/project/common-cause-null/) discipline sharpens this into a specific failure mode: if the N voids share an upstream architecture—one introspective channel, one shared theoretical framework that pre-shaped what counts as a void—the N-fold count overstates the evidential weight. The voids catalogue is the Map's largest such case, and the bulk of its convergence is currently framework-internal coherence (these voids fit the tenet-package because the tenets shaped what was catalogued as a void) rather than framework-independent triangulation. Per-cluster independence scoring is the open programme: each of the five families needs an account of which sources supply *despite-commitments* observation versus *because-prediction* observation, with patient-population, cross-species, and historically-isolated-tradition evidence as the structural defences against the null. The [surplus void](/voids/the-surplus-void/) is the worked exhibit; [tenet-generated-voids](/voids/tenet-generated-voids/) names the framework-internal generation; [the project's countermeasures](/project/coherence-inflation-countermeasures/) formalise the broader discipline against reading method-produced consistency as evidence; the catalogue's cumulative evidential weight calibrates downward to what genuinely independent sources can supply.
 
 As the [evidential weight argument](/voids/what-voids-reveal/) develops, this clustering supports an abductive inference under the caveats above. The Map's tenet-package—dualism *plus* minimal quantum interaction *plus* a naturally occluded interface—generates a prediction bare dualism does not: that explanatory failure at the consciousness-matter interface should be systematic rather than incidental. Closing one void in a family would not dissolve the family, since the clusters share structural logic without identical content.
 
@@ -236,81 +236,3 @@ This synthesis draws from:
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Framework-generated limits as intellectual honesty
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — The distinction between evolved and engineered constraints
 - [Medium-Status Voids in Cognition](/apex/medium-status-voids-in-cognition/) — The content/capacity/medium-status typology and the operative-self-reference shape
-
-<!-- AI REFINEMENT LOG - 2026-04-28 (refine-draft, 21:24 UTC)
-Chain from the 2026-04-28 20:39 UTC refine of `concepts/phenomenology-vs-function-axis.md` (which addressed pessimistic-2026-04-28d's critical issue and two medium issues, including the architecturally-cleanest reframing of synaesthesia and the task/strategy grain commitment for imagery). The apex-evolve cycle that introduced the axis here (10:45 UTC) predated those moves; this refine brings the apex's framing into coherence with the concept page.
-
-Changes made:
-- §Phenomenological Cluster, axis paragraph (line 110): wikilinked the axis name `[[phenomenology-vs-function-axis|phenomenology-vs-function axis]]` at first mention.
-- Same paragraph: added the explicit "Four articles—three voids and one topic" framing to match the concept page's exemplar count and correctly classify cognitive-phenomenology as a topic (not void).
-- Same paragraph: reframed the lead exemplar from "the cleanest case is the imagery void's third face" to "the synesthetic void is, on Gray's (2003) reading, the architecturally cleanest exemplar" — matching the concept page's Mapping subsection which identifies synaesthesia as the closest to a strict instance of both dissociation patterns. Imagery is repositioned as "the grain-of-function wedge" with explicit task-level vs strategy-level commitment, consistent with the concept page's §"Imagery: The Grain-of-Function Wedge" header. ~120 words modified/added in this paragraph.
-- Same paragraph: changed "identical sensory function, different phenomenal character" to "identical acoustic input, different phenomenal character" for Strawson's argument — matching the concept page's predictive-coding hedge that the wedge is sharper at the level of acoustic *delivery* than processing.
-- Same paragraph: extended the closing wedge claim from "an empirical wedge against any framework that identifies phenomenal character with functional role" to "...with functional role at the task-level grain at which the wedge survives multi-realizability" — making the apex's claim coherent with the concept page's now-explicit multi-realizability engagement (Putnam 1967, Block & Fodor 1972).
-- frontmatter: added `[[phenomenology-vs-function-axis]]` to related_articles (the canonical home for the axis's structural exposition was missing despite four references in the body).
-- frontmatter: ai_modified → 2026-04-28T21:24:00+00:00.
-
-Net: ~150 words modified/added; voice and the cross-tradition convergence framework preserved. Supersedes the earlier P3 task ("anchor the axis to its new concept-page") which only specified the wikilink and frontmatter additions; this refine is the more comprehensive version triggered by the 20:39 UTC refine-driven framing changes.
-
-This log should be removed after human review.
-
-Prior log (2026-04-28 10:45 UTC apex-evolve introducing the axis) preserved below.
--->
-
-<!-- AI REFINEMENT LOG - 2026-04-28 (apex-evolve, 10:45 UTC)
-Resolves the function-phenomenology taxonomic placement deferred by the 09:59 UTC refine-draft.
-
-Survey: function-phenomenology dissociation appears across multiple voids, not just the imagery-void's third face. Confirmed instances: synesthetic-void (Wager's "extra qualia problem"; Gray 2003 "function and qualia come apart in two ways"), cognitive-phenomenology-and-the-irreducibility-of-thought (Strawson's foreign-language argument, aphantasic thought as evidence), agency-void (Wegner I-Spy paradigm dissociating willing-experience from causation), imagery-void face 3 (Kay, Keogh & Pearson 2024 mental rotation strategies). The phenomenon cross-cuts the existing clusters, so a cluster-internal patch (e.g., extending the Phenomenological Cluster) would lose the cross-cluster signal.
-
-Decision: introduce a third cross-cutting axis — the **phenomenology-vs-function axis** — parallel to the presence/absence axis. Rejected alternatives: (a) absorbing into the Phenomenological Cluster (loses cross-cluster scope; cognitive-phenomenology and agency-void cases sit outside the cluster), (b) adding a fifth kind to the typology (kind-categories sort by *why* thought fails; this axis sorts by *what comes apart*, a different dimension), (c) leaving the third face as "different in kind" without structural home (the original problem; deferred work was to give it a home).
-
-Rationale aligned with Tenet 5 (Occam's Razor Has Limits): the parsimony judgment here is that the dissociation pattern is sufficiently recurrent and structurally distinctive across the catalogue to warrant a structural slot rather than being absorbed silently into existing categories. The taxonomy's own structure is itself a parsimony judgment about how to carve the void-space; under-carving here would obscure a regularity the data shows.
-
-Changes made:
-- §Phenomenological Cluster: revised the imagery-void mention to point forward to the new axis instead of leaving the third face orphaned ("different in kind"). Net ~10 words modified.
-- §Phenomenological Cluster: added a new paragraph (~280 words) introducing the phenomenology-vs-function axis after the presence/absence axis paragraph. Names the four exemplifying voids (imagery face 3, synesthetic, cognitive-phenomenology, agency Wegner findings), establishes axis-independence from the four-kinds typology and the presence/absence axis, and frames the axis as "an empirical wedge against any framework that identifies phenomenal character with functional role."
-- frontmatter: added [synesthetic-void](/voids/synesthetic-void/), [agency-void](/voids/agency-void/), [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) to related_articles to reflect the foregrounded voids.
-- frontmatter: ai_modified → 2026-04-28T10:45:00+00:00; apex_last_synthesis → 2026-04-28T10:45:00+00:00.
-
-Net length change: +290 words modified/added; voice and the cross-tradition convergence framework preserved (the new axis paragraph follows the same convergence-pattern structure used elsewhere in the article — multiple independent voids exhibiting the same structural feature).
-
-This log should be removed after human review.
-
-Prior log (2026-04-28 09:59 UTC refine-draft adding imagery-void) preserved below.
--->
-
-<!-- AI REFINEMENT LOG - 2026-04-28 (refine-draft, 09:59 UTC)
-Changes made:
-- Added the [imagery-void](/voids/imagery-void/) to the Phenomenological Cluster paragraph, between acquaintance-void and phenomenal-quality-void. Three sentences naming the three structural faces (fidelity / inter-subjective / function-phenomenology), the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery), and a contrast distinguishing the imagery-void's *function-phenomenology* face from the acquaintance-void's *structural-acquaintance* face.
-- Added [imagery-void](/voids/imagery-void/) to frontmatter related_articles.
-- Updated ai_modified to 2026-04-28T09:59:00+00:00.
-
-~140 words added; voice and existing taxonomy preserved.
-
-Placement rationale: Phenomenological Cluster is the strongest fit because the imagery void's closest related-articles (acquaintance-void, plenitude-void, necessary-opacity) all live there, the article's framing is qualia-centric, and the post-2015 aphantasia evidence is fundamentally about phenomenal character. The inter-subjective face does cross into the Interpersonal/Social Cluster (intersecting commensurability-void), but the article itself flags the inter-subjective face as a *specialisation* of commensurability within a species, not a primary location.
-
-Three-face structure flag for follow-up: the existing taxonomic categorisation accommodates the fidelity face (self-knowledge / phenomenological cluster boundary) and the inter-subjective face (Interpersonal/Social) without strain, but the *function-phenomenology* face — the wedge between phenomenal presence and the cognitive work it appears to do — does not map cleanly onto any current cluster, the four-kinds typology, or the presence/absence axis. It is closest in spirit to a "phenomenology-vs-function" axis the taxonomy does not yet maintain. This is a substantive taxonomic question rather than an index-page fix; recording here so a future apex-evolve cycle can decide whether to introduce the axis or absorb the function-phenomenology face into an existing structure.
-
-This log should be removed after human review.
-
-Prior log (2026-04-24 refine-draft: pessimistic-review address) preserved below.
--->
-
-<!-- AI REFINEMENT LOG - 2026-04-24
-Addresses pessimistic review 2026-04-24. Changes:
-- Intro para 1: split "architecture of minds / territory" claim into two sentences; flagged the territory-move as the contested one.
-- Intro para 2: removed the straw-physicalist "even distribution" baseline; acknowledged that physicalists have principled reasons to expect concentrated difficulty; rewrote the predictive claim to attribute it to the Map's full tenet-package (dualism + minimal quantum interaction + naturally occluded interface) rather than to bare dualism; softened "confirms" to "is consistent with".
-- §Convergence Pattern: replaced the weak three-exceptions defence of the clustering claim with a direct confrontation of the selection-effect worry; conceded that some clustering was inevitable given the Map's framing and relocated the diagnostic weight onto the *structured* character of the clustering.
-- §Convergence Pattern: retired "overdetermined" in favour of "mutually reinforcing"; explicitly noted that calling the paths overdetermined would require a probabilistic independence argument the Map has not yet made; preserved the weaker claim that family structure survives individual void dissolution.
-- §Convergence Pattern: reframed the tenet-predicted-voids passage from "predicts/confirmed" to "maps onto"; added an explicit acknowledgement that the prediction-vs-accommodation question is an open historiographical one and that two matchings (mechanism void, indexical mysteries) are not uniquely predictive.
-- §Methods: rewrote the AI-as-void-explorer paragraph to acknowledge LLM training-data contamination; framed the framework as diagnostic in principle but not in current practice.
-- §Taxonomy's Own Limits: replaced "constitutively unable" with "formally proven incomplete under Fine's epistemic axioms".
-- Description field: softened "cumulative evidence for dualism" to "cumulative abductive support for the Map's tenet-package" to match the article's new calibration.
-- Updated ai_modified timestamp.
-
-Not addressed in this refinement (medium/low severity from the review):
-- Apophatic self-insulation worry (Issue 5) — left as is; §"The Taxonomy's Own Limits" already flags the undecidability, and adding an external criterion is a substantive research move rather than a prose fix.
-- Fitness-Beats-Truth dispute note — left as is; the cross-link to the FBT article carries that context.
-- Popper/unfalsifiability response — partially addressed by the "mutually reinforcing" downgrade, but a full disconfirmation-conditions section is out of scope for a prose refinement.
-
-This log should be removed after human review.
--->

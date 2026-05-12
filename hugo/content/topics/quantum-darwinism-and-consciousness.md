@@ -143,17 +143,3 @@ These constraints do not make the proposal easily testable with current technolo
 6. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). Benjamin.
 7. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
 8. Southgate, A. & Sonquatre-six, C. (2026-03-17). Quantum Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-completeness/
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Qualified opening paragraph: "menu from which consciousness selects" reframed as contested interpretive commitment, not uncontroversial consequence of formalism
-- Reframed "What Quantum Darwinism Provides" section: explicitly noted the menu/selector framing is the Map's overlay, not inherent in Zurek's programme
-- Added vacuity concern to Born-rule constraint discussion (if selections are statistically invisible, what does "selecting" mean?)
-- Qualified Dualism tenet section: acknowledged "consciousness of the gaps" objection and provided the Map's structural response
-- Softened language throughout (conditional framing where the Map's interpretation is presented)
-
-Based on pessimistic review pessimistic-2026-03-29-midday.md.
-Key improvements: more honest engagement with standard physics responses to the outcome gap and the menu metaphor.
-
-This log should be removed after human review.
--->

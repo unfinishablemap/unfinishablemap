@@ -216,7 +216,6 @@ Changes made (2026-05-01 04:10 UTC, deep-review-2026-05-01-conjunction-coalesce,
 - Compressed §"Two Coalesces and Five Cognates" closing sentence (~15 words removed) and §"Relation to Site Perspective" Occam's-Limits paragraph (~15 words removed) to offset the addition.
 - No critical issues identified by the pessimistic-review six-persona pass; no attribution errors, no qualifier drops, no source/Map conflation. Stable convergence preserved.
 
-
 Changes made (16:47 UTC, deep-review-2026-04-30c):
 - Renamed §"Two Coalesces and Two Cognates" → "Two Coalesces and Five Cognates" to reflect cluster expansion
 - Added three substantive cognate paragraphs (suspension-void, imagery-void, vagueness-void) parallel in form to the agency-void/voids-between-minds treatments

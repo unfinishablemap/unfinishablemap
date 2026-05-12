@@ -3,10 +3,10 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-05-12T01:46:00+00:00
+ai_modified: 2026-05-12T02:04:00+00:00
 draft: false
 description: "Sixty+ cognitive voids cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
-last_deep_review: 2026-05-11T13:55:00+00:00
+last_deep_review: 2026-05-12T02:04:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

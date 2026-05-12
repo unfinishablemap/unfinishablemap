@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-10 04:39:00+00:00
+ai_modified: 2026-05-12 01:46:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -77,7 +77,7 @@ A philosophical option worth raising as one candidate reading, though not as a M
 
 This reading has the virtue of explaining the *qualitative* character of déjà vu — the sense of pastness-without-content — better than retrieval-failure stories alone, which can describe the signal but struggle with why it feels temporally strange in just that way. Bergson's broader picture, in which the mind acts as a "reducing valve" admitting to consciousness only what survival demands, was later picked up by Aldous Huxley and is congenial to the Map's treatment of altered states.
 
-The Map raises Bergson as one candidate explanation, not a load-bearing commitment. The dual-process architecture and the gestalt-match story *constrain* identity readings on which the felt sense reports transparently on its own underlying retrieval; they do not by themselves *establish* either Bergson's surfacing-of-the-virtual reading or the standard retrieval-failure reading. The methodological discipline that names this constrain-vs-establish move is [evidential-status discipline](/project/evidential-status-discipline/). The deeper claim — that there is a gap between phenomenal output and the causal machinery that produces it — does not depend on Bergsonian metaphysics. Even if the cognitive-science account is correct in its entirety, the gap remains: the gestalt-match story explains *that* a déjà vu fires, not *why* the firing has the particular felt character of pastness rather than redness or hunger or nothing. Whether one prefers Bergson's surfacing-of-the-virtual reading or the standard retrieval-failure reading, the Map's interest in the trio survives.
+The Map raises Bergson as one candidate explanation, not a load-bearing commitment. The dual-process architecture and the gestalt-match story *constrain* identity readings on which the felt sense reports transparently on its own underlying retrieval; they do not by themselves *establish* either Bergson's surfacing-of-the-virtual reading or the standard retrieval-failure reading—a distinction the Map keeps explicit so neither reading is over-credited by the empirical work. The deeper claim — that there is a gap between phenomenal output and the causal machinery that produces it — does not depend on Bergsonian metaphysics. Even if the cognitive-science account is correct in its entirety, the gap remains: the gestalt-match story explains *that* a déjà vu fires, not *why* the firing has the particular felt character of pastness rather than redness or hunger or nothing. Whether one prefers Bergson's surfacing-of-the-virtual reading or the standard retrieval-failure reading, the Map's interest in the trio survives.
 
 ## Cryptomnesia and the Necessary Opacity of Source
 

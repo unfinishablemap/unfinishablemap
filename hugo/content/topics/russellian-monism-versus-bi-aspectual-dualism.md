@@ -181,24 +181,6 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 19. Southgate, A. & Oquatre-six, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
 20. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
 
-<!-- AI REFINEMENT LOG - 2026-03-28
-Changes made:
-- Expanded "Bi-Aspectual Challenge from Within" into "The Dual-Aspect Tradition" section with five subsections: Spinoza, Fechner, Pauli-Jung, Bohm-Pylkkänen, and Hashemi
-- Added Fechner's inner/outer psychophysics as closer precursor than Spinoza, noting his energy-conservation concern is addressed by quantum mechanism
-- Added Bohm-Pylkkänen's "interactionist monism" as the closest existing position, with argument that honest labelling makes it dualism
-- Added Kelly's "two hard problems" objection to Pauli-Jung neutral-substrate approach
-- Added "The Pattern" subsection showing progressive trajectory from categorical ban to near-interaction
-- Updated opening paragraph to reference broader dual-aspect tradition
-- Added 6 new references (Atmanspacher & Rickles, Bohm & Hiley, Fechner, Kelly, Pylkkänen, Spinoza)
-- Added research files to related_articles
-- Updated description to reflect broader scope
-
-Based on research in bi-aspectual-ontology-dual-aspect-traditions-2026-03-14.md and 2026-03-16.md.
-Key improvements: Article now positions the Map against the full dual-aspect tradition, not just Russellian monism.
-
-This log should be removed after human review.
--->
-
 <!-- AI REFINEMENT LOG - 2026-04-17
 Changes made:
 - Added clarifying clause to the Williams (2021) paragraph in "Russellian Monism and Many-Worlds" section, explicitly flagging MWI compatibility as a cost the Russellian view incurs from the Map's perspective. Links to the No Many Worlds tenet inline so a fast-reading skimmer cannot mistake the description for a neutral observation.

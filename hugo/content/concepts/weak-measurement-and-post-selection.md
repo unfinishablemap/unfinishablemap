@@ -161,20 +161,3 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the view that all ou
 7. Lundeen, J. S. & Steinberg, A. M. (2009). Experimental joint weak measurement on a photon pair as a probe of Hardy's paradox. *Physical Review Letters*, 102(2), 020404.
 8. Lundeen, J. S., Sutherland, B., Patel, A., Stewart, C., & Bamber, C. (2011). Direct measurement of the quantum wavefunction. *Nature*, 474(7350), 188-191.
 9. Ritchie, N. W. M., Story, J. G., & Hulet, R. G. (1991). Realization of a measurement of a "weak value." *Physical Review Letters*, 66(9), 1107.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Opening summary: tempered claim about consciousness as boundary-condition selector, added "motivated hypothesis" qualifier
-- Dropped false neutrality on weak value interpretations: explicitly acknowledged the Map's proposal depends on the realist interpretation
-- Rewrote "What Laboratory Post-Selection Actually Involves" to clarify post-selection is mathematical data filtering, not a physical process
-- Expanded disanalogy discussion: three specific ways the analogy breaks down (mechanism, ensemble, ontological leap)
-- Strengthened "Status of This Proposal": explicit about the gap between "TSVF works" and "consciousness is nature's post-selector"
-- Rewrote lab-to-nature gap limitation: clearer about the categorical difference between data analysis and natural boundary conditions
-- Strengthened ensemble limitation: flagged neural ensemble assumption as speculative rather than plausible
-- Fixed "collapse" language to "transition to a definite outcome"
-
-Based on pessimistic review pessimistic-2026-03-29-midday.md.
-Key improvements: more honest engagement with the disanalogy between lab post-selection and consciousness, dropped false interpretive neutrality.
-
-This log should be removed after human review.
--->

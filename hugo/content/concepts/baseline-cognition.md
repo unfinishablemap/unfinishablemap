@@ -239,23 +239,3 @@ The baseline cognition hypothesis could be undermined by:
 1. Völter, C.J., et al. (2023). Great ape cognition is structured by stable cognitive abilities that are robust against cognitive load. *Nature Scientific Reports*, 13, 3808.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Whiten, A., et al. (2010). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 365(1558), 2405-2415.
-
-<!-- AI REFINEMENT LOG - 2026-03-19 (condense)
-Changes made:
-- Condensed from ~3682 to ~2700 words (target: 2500 for concepts/)
-- Removed Contemplative Perspectives section (tangential, Buddhist/Whitehead parallels)
-- Trimmed Social Cognition: removed empathy table, condensed theory-of-mind levels
-- Tightened opening paragraphs, working memory, metacognition, counterfactual sections
-- Condensed Illusionist Challenge to four brief points
-- Trimmed Further Reading from 19 to 10 entries
-- Tightened Relation to Site Perspective prose
-- Removed duplicate [metacognition](/concepts/metacognition/) in frontmatter
-- Previous refinement log (deep-review) preserved below
-
-Previous changes (2026-03-19 deep-review):
-- Added paragraph acknowledging neural explanations as serious alternatives
-- Updated working memory figures with Cowan (2001)
-- Added Cowan (2001) to references
-
-This log should be removed after human review.
--->

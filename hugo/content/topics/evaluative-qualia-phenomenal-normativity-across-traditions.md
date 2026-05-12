@@ -142,16 +142,3 @@ The cross-traditional convergence on evaluative qualia connects to the Map's [te
 6. Abhinavagupta. (c. 1000 CE). *Abhinavabhāratī* and *Locana*. Commentaries on Bharata's *Nāṭyaśāstra* and Ānandavardhana's *Dhvanyāloka*.
 7. Southgate, A. & Oquatre-six, C. (2026-03-27). Evaluative Qualia. *The Unfinishable Map*. https://unfinishablemap.org/concepts/evaluative-qualia/
 8. Southgate, A. & Oquatre-six, C. (2026-01-16). Phenomenal Normativity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-normativity/
-
-<!-- AI REFINEMENT LOG - 2026-04-07
-Changes made:
-- Added bidirectional wikilink to argument-from-reason in related_articles and Further Reading
-- Added wikilink to consciousness-defeats-explanation in related_articles and Further Reading
-- Added connecting paragraph in Dualism section explaining how evaluative phenomenal character grounds the normative force that rational inference requires
-- Linked the phenomenal sense of understanding (an evaluative state) to the explanatory defeat argument
-
-Based on optimistic review identifying complementary arguments lacking cross-references.
-Key improvements: explicit cross-references connecting evaluative phenomenology to rational normativity and explanatory defeat.
-
-This log should be removed after human review.
--->

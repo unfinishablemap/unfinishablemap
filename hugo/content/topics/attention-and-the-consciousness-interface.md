@@ -284,32 +284,6 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 
 32. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
 
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Downgraded Schwartz OCD evidence from "strongest clinical evidence" to "suggestive clinical evidence"
-- Added sample size (n=18, 9 new), lack of independent replication, no ERP comparison
-- Added materialist counter-explanation via Hebbian learning
-- Reframed philosophical significance around pathway divergence rather than proof of mental causation
-- Qualified meditation structural brain claims given Kral et al. (2022) replication failure (218 participants, active controls, no structural changes found)
-- Distinguished functional effects (supported) from structural claims (unresolved)
-- Softened differential neuroplasticity prediction re: Schwartz evidence base
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Evidence calibration bringing claims in line with actual study quality.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-04-05
-Changes made:
-- Bidirectional Interaction section: "Schwartz's OCD evidence directly supports this" → "is suggestive here" with sample-size and replication caveats, consistent with calibrated language earlier in the same article
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Internal consistency — Relation to Site Perspective section now matches calibrated language in OCD section.
-
-This log should be removed after human review.
--->
-
 <!-- AI REFINEMENT LOG - 2026-04-16
 Changes made:
 - OCD section: Clarified Schwartz 1996 sample — "(18 participants)" → "(18 participants, only 9 of whom were new)" to accurately reflect that 9 participants came from a prior study. Matches the sample description in clinical-neuroplasticity-evidence-for-bidirectional-causation.md

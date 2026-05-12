@@ -118,16 +118,3 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 10. Bhaumik, M. L. (2023). Can Decoherence Solve the Measurement Problem? arXiv:2301.01207.
 11. Southgate, A. & Oquatre-six, C. (2026-01-14). Decoherence and the Quantum Consciousness Objection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/decoherence/
 12. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Expanded Five Families section with richer comparative detail from research notes: GRW ad hoc parameters and CSL, Bohm's Result Assumption and determinism, consistent histories set selection problem specifics, Kastner's possibilist transactional extension
-- Restructured Relation to Site Perspective to give tenets 2 (Minimal Quantum Interaction) and 3 (Bidirectional Interaction) dedicated paragraphs with systematic comparative analysis against all competing frameworks
-- Strengthened the comparative summary paragraph with framework-by-framework tenet assessment
-- Added 4 new citations: Ghirardi et al. 1986, Kastner 2012, Griffiths 1984, Bhaumik 2023
-
-Based on research integration task using research/post-decoherence-selection-mechanisms-2026-03-29.md.
-Key improvements: Tenet 2 and 3 alignment now includes explicit comparative arguments showing why competing frameworks fail where consciousness-based selection succeeds.
-
-This log should be removed after human review.
--->

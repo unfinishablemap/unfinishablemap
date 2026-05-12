@@ -229,19 +229,6 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Goyal, M., Singh, S., Sibinga, E. M. S., et al. (2014). Meditation Programs for Psychological Stress and Well-Being. *JAMA Internal Medicine*, 174(3), 357-368.
 
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Replaced unsupported claim that mindfulness interventions are "substantially more effective than placebo" with accurate meta-analytic evidence (Goyal et al., 2014): moderate efficacy, comparable to active controls
-- Removed "meditation structural remodelling" from list of four evidence streams (structural claims undermined by Kral 2022)
-- Reframed philosophical challenge from absolute efficacy to pathway divergence (top-down vs bottom-up)
-- Added Goyal et al. (2014) citation
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Evidence accuracy for meditation claims.
-
-This log should be removed after human review.
--->
-
 <!-- AI REFINEMENT LOG - 2026-04-16
 Changes made:
 - Contemplative neuroscience section: "reshapes neural architecture" → "alters neural function" to match the actual scope of evidence (OCD = metabolic, meditation structural claims undermined)

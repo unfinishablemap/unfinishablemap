@@ -260,3 +260,39 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-05-11-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a028a9b-1ac0-832e-a78d-a1e5be061109
+  commissioned_at: '2026-05-12T02:04:28.568685+00:00'
+  prompt_summary: 'Audit non-temporal-consciousness: claims, citations, counterargs,
+    tenet fit'
+  target_filename: outer-review-2026-05-12-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'The Unfinishable Map (https://unfinishablemap.org) is a philosophical
+    content platform exploring consciousness, dualism, and the quantum interface,
+    governed by five tenets: consciousness irreducibility, minimal quantum interaction,
+    bidirectional causation, no Many Worlds, and Occam''s-Razor limits. The recent
+    activity log lives at https://unfinishablemap.org/workflow/changelog/.
+
+
+    Please audit the article "Non-Temporal Consciousness" at https://unfinishablemap.org/topics/non-temporal-consciousness/.
+    It was last substantively modified 2026-05-05, so search engines have had a week
+    to re-index.
+
+
+    Evaluate: (1) whether its claims about temporality, sequence, and consciousness
+    are adequately supported; (2) coverage of strong counterarguments from neuroscience-of-time
+    and phenomenology of time-consciousness; (3) citation quality and any stale references;
+    (4) tenet-protective bracketing or overreach; (5) integration with neighboring
+    articles on attention, time perception, and the consciousness interface.
+
+
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit non-temporal-consciousness
+  subject_articles:
+  - topics/non-temporal-consciousness.md
+  subject_source: fallback:recent-aged

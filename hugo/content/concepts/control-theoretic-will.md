@@ -173,16 +173,3 @@ Conflating the model with the ontology would be a category error—treating a us
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
-
-<!-- AI REFINEMENT LOG - 2026-02-20
-Changes made:
-1. Added "Analogy, Model, and Ontology" section explicitly addressing the gap between control-theoretic modelling and ontological claims
-1. Rewrote dualism paragraph in "Relation to Site Perspective" to clarify that dualism is expressed through (not derived from) the control-theoretic framing
-1. Softened "maps directly onto" to "finds a natural analogue in" in the opening summary
-1. Removed "external" from "an external agent" in controller description to avoid begging the ontological question
-
-Based on pessimistic review (2026-02-20 afternoon) identifying analogy-to-ontology gap.
-Key improvements: Article now honestly distinguishes the modelling tool from the ontological commitment, acknowledging that a physicalist could use the same control vocabulary without dualist commitments.
-
-This log should be removed after human review.
--->

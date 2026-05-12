@@ -141,16 +141,3 @@ The Map's [tenets](/tenets/) align most naturally with frameworks where consciou
 1. Von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Updated decoherence skeptic paragraph with 2025-2026 developments: QBIT spintronic coherence, Wiest 2025 review, NV-diamond sensors
-- Added 2025 experimental support note to Orch OR proto-consciousness section (Wiest anaesthetic selectivity, active inference integration)
-- Strengthened Minimal Quantum Interaction tenet paragraph with 2025-2026 evidence
-- Added Beshkar, Wiest, and Wiest & Puniani to References
-
-Based on research in research/quantum-biology-neural-experimental-2026-03-20.md.
-Key improvements: empirical credibility updated with current experimental status; Tenet 2 alignment strengthened.
-
-This log should be removed after human review.
--->
