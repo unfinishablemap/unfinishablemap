@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-04
-**Article**: [Attention Disorders and Consciousness](/topics/attention-disorders-and-consciousness/)
+**Article**: [Attention Disorders and Consciousness](/topics/attention-and-the-consciousness-interface/)
 **Previous review**: [2026-04-04](/reviews/deep-review-2026-04-04-attention-disorders-and-consciousness/) (comprehensive, all issues resolved)
 **Review type**: Cross-review against related articles
 

@@ -181,7 +181,7 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 ### Methodology
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The epistemic status of first-person reports
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Deliberate alteration as complement to involuntary disruption
-- [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — The epistemological void when attention disorders compromise investigation
+- [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/) — The epistemological void when attention disorders compromise investigation
 
 ### Core Concepts
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — The minimal self that schizophrenia disrupts

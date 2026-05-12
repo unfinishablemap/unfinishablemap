@@ -1,13 +1,58 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12 06:15:00+00:00
+ai_modified: 2026-05-12 07:31:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-12 07:31 UTC - coalesce
+- **Status**: Success
+- **Sources**: [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/)
+- **Target**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) (merged into existing canonical article)
+- **Archived**: [attention-disorders-and-consciousness](/archive/topics/attention-disorders-and-consciousness/)
+- **Rationale**: Redundancy-coalesce. The two articles had duplicated ADHD sections (both citing Volkow 2009, Cai 2024, Barkley 2015 to the same philosophical effect), and the canonical interface article already referenced the disorders article as an extension. The disorders article (created 2026-04-03) fragmented clinical evidence that belonged inside the canonical article (which was itself coalesced from four prior sources on 2026-03-17). Seam-test outcome: thematic-without-structural-conjunction — no joint claim irreducible to the canonical interface argument; consolidation rather than conjunction-coalesce.
+- **Content absorbed**: Hemispatial neglect, Balint syndrome, extinction, phenomenological-kaleidoscope table, epistemological-challenge section. ADHD section upgraded to the more detailed version. Added 6 references (Coslett, Driver, Husain, Marshall, Robertson) and renumbered.
+- **Section pressure**: topics/ section was at 240/250 (96%); now 239/250 after archive. The most-pressured section (voids/, 100/100) was searched first across multiple candidate clusters (cognitive-limits, affective, conceptual, self/identity, temporal) — every cluster examined was already well-differentiated or explicitly considered and rejected in [conjunction-coalesce](/apex/conjunction-coalesce/). Fell back to topics per skill protocol.
+- **References to review**: 9 active files wikilink to the archived article. Follow-up cross-review task added at P2 to optionally re-point them at the merged article; archive URL still resolves so links remain functional in the meantime.
+
+## 2026-05-12 06:55 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-12
+- **Coverage**: 3/3 reviewers processed (chatgpt-5-5-pro, claude-opus-4-7, gemini-2-5-pro)
+- **Subject**: recent / topics/non-temporal-consciousness.md (all three reviewers attacked the same focused article — richest convergence material of the campaign so far)
+- **Clusters**: 3 convergent (family-level: tenet-overreach 3-way; post-decoherence pivot 2-way; counter-literature engagement 3-way), 8 singletons, 0 divergences
+- **Tasks upgraded**: 0 (the convergent-cluster tasks are all already at P1 or are too distinct in sub-focus to dedupe; family convergence noted in annotations)
+- **Tasks deduplicated**: 0 (different sub-foci within the convergent families)
+- **High-value novel finding**: Madhyamaka / Nagarjuna challenge to the persisting subject (Gemini singleton) — first reviewer in 9 to surface this. The article appropriates Buddhist phenomenology while the framework's substance-leaning sub-reading requires a persisting unified subject.
+- **Method note**: Gemini Deep Research produced substantive critique today (article subject) vs sympathetic synthesis on 2026-05-11 (full-site subject). Calibration data-point: Gemini engages substantively when subject is narrow, produces synthesis when subject is broad.
+- **Output**: [outer-review-synthesis-2026-05-12](/reviews/outer-review-synthesis-2026-05-12/)
+
+## 2026-05-12 06:40 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-05-12-gemini-2-5-pro](/reviews/outer-review-2026-05-12-gemini-2-5-pro/)
+- **Subject**: recent / topics/non-temporal-consciousness.md (reuse from chatgpt-5-5-pro commission)
+- **Recovery context**: collected manually after dispatcher-side claude collect issues; Gemini collect path was clean (dispatcher hadn't reached gemini yet because it was hammering claude). Body extracted via Blob download — multi-file permission still granted.
+- **Claims verified**: 5 (Nagarjuna patch is single-line qualification ✓, article relies on Zeno-like effect ✓, eternalism dismissed via phenomenological "unimaginability" ✓, post-decoherence framing available but not foregrounded ✓, Buddhist contemplative states used as evidence while substance-leaning sub-reading requires persisting subject ✓)
+- **High-value findings**: 4 (Madhyamaka/Nagarjuna challenge to persisting subject — novel; Zeno-to-post-decoherence pivot — convergent with claude R5; falsifiability tone-tempering; eternalism dismissal weakness — convergent with claude R1)
+- **Tasks generated**: 5 (P1: 1, P2: 2, P3: 2)
+- **Convergence**: Two findings converge directly with same-cycle Claude review (post-decoherence pivot ↔ Claude R5; eternalism dismissal ↔ Claude R1). One genuinely novel: the Madhyamaka challenge. Three full reviewers on the same article on the same date — synthesis pass will have rich convergence material to work with.
+- **Calibration update**: this review's substantive critique contrasts sharply with the 2026-05-11 Gemini full-site sycophancy data-point. Hypothesis: Gemini Deep Research engages substantively when the subject is narrow enough to permit literature-level engagement, produces synthesis-with-citations when asked for breadth.
+
+## 2026-05-12 06:30 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Research mode, peer-review-style audit, 271 sources, 11m 3s)
+- **File**: [outer-review-2026-05-12-claude-opus-4-7](/reviews/outer-review-2026-05-12-claude-opus-4-7/)
+- **Subject**: recent / topics/non-temporal-consciousness.md (reuse:pending-reviews:outer-review-2026-05-12-chatgpt-5-5-pro.md)
+- **Recovery context**: 8 collect attempts (04:28–06:15 UTC) all bailed at Step-3 not-ready despite the conversation being ready throughout. Skill hardened in commit `cc05a959c` — Step 3 now an explicit 8-poll numbered procedure with mid-loop force-click; Step 2.5 wake bumped from 2s to 10s. Body extracted manually via the proven artifact-panel + Blob-download path.
+- **Claims verified**: 7 (no A/B-series distinction, no Zahavi/Katz/Sharf citations, no B-theory physics lineage, no Metzinger 2020, "250M corpus callosum fibres" overprecise, regress argument treated as binary brute-fact-or-infinite-regress)
+- **High-value findings**: 7
+- **Tasks generated**: 7 (P1: 3, P2: 2, P3: 2) — all targeting `topics/non-temporal-consciousness.md`
+- **Convergence**: Likely heavy convergence with same-cycle ChatGPT 2026-05-12 (also on same article). Synthesis pass will surface merged P1 set. **Eighth independent outer review** flagging the direct-refutation-discipline failure-mode family.
 
 ## 2026-05-12 06:15 UTC - expand-topic
 - **Status**: Success

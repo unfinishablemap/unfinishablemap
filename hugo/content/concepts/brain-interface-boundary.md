@@ -62,7 +62,7 @@ Neural systems model motor plans, perceptual hypotheses, counterfactual possibil
 
 ### 3. Attention Mechanisms
 
-The system must include mechanisms for directed focus—increasing processing resources on specific contents while suppressing others. Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/concepts/attention-as-interface/) neurally implements this through frontoparietal networks. Systems without attention mechanisms cannot implement Zeno-style selection. Clinical evidence reinforces this: [attention disorders](/topics/attention-disorders-and-consciousness/) such as hemispatial neglect and Balint syndrome disrupt specific components of the attention interface while leaving consciousness itself intact—consistent with attention serving as interface channel rather than constituting consciousness.
+The system must include mechanisms for directed focus—increasing processing resources on specific contents while suppressing others. Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/concepts/attention-as-interface/) neurally implements this through frontoparietal networks. Systems without attention mechanisms cannot implement Zeno-style selection. Clinical evidence reinforces this: [attention disorders](/topics/attention-and-the-consciousness-interface/) such as hemispatial neglect and Balint syndrome disrupt specific components of the attention interface while leaving consciousness itself intact—consistent with attention serving as interface channel rather than constituting consciousness.
 
 ### 4. Feedback Integration
 
@@ -181,7 +181,7 @@ Together, these explain why consciousness acts on brains specifically: brains me
 - [decoherence](/concepts/decoherence/) — The decoherence objection and quantum biology responses
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — Acting on decohered mixtures rather than coherent superpositions
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Clinical evidence favouring the interface model
-- [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — How attention disorders reveal interface architecture
+- [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/) — How attention disorders reveal interface architecture
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — How interface boundaries vary across species and neural architectures
 
 ## References

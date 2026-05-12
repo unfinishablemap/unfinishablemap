@@ -193,7 +193,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — The felt signals that gate cognition from inside (feelings of knowing, rightness, familiarity) and why the heuristic machinery producing them is recursively opaque
 - [imagery-void](/voids/imagery-void/) — Aphantasia/hyperphantasia divergence as paradigm intra-species phenomenal incommensurability; the function-phenomenology wedge from mental rotation studies
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The spectrum of phenomenal authority positions and phenomenal conservatism
-- [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — When the attentional basis of introspection is itself disordered
+- [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/) — When the attentional basis of introspection is itself disordered
 - [The Intersubjective Void](/voids/voids-between-minds/) — How social calibration compounds introspective unreliability
 
 ## References

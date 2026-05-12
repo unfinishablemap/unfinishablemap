@@ -120,7 +120,7 @@ Most phenomenological psychiatrists bracket the ontological question, remaining 
 - [phenomenology](/concepts/phenomenology/)
 - [dualism](/concepts/dualism/)
 - [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/) — How clinical disruptions function as natural experiments that discriminate between theories of consciousness
-- [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — The epistemological void when attention disorders compromise the instrument of investigation
+- [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/) — The epistemological void when attention disorders compromise the instrument of investigation
 
 ## References
 

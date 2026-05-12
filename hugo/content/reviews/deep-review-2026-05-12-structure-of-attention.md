@@ -96,7 +96,7 @@ None. The article is at a stable point.
 ### Cross-links Verified
 
 All cross-links point to existing articles:
-- [attention-as-interface](/concepts/attention-as-interface/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/)
+- [attention-as-interface](/concepts/attention-as-interface/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/)
 - [mental-effort](/concepts/mental-effort/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [motor-selection](/concepts/motor-selection/)
 - [libet-experiments](/concepts/libet-experiments/), [tenets](/tenets/), [free-will](/topics/free-will/)
 - [agent-causation](/concepts/agent-causation/), [introspection](/concepts/introspection/), [quantum-consciousness](/concepts/quantum-consciousness/)

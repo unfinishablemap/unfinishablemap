@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-04
 **Article**: [Attention and the Consciousness Interface](/topics/attention-and-the-consciousness-interface/)
 **Previous review**: [2026-03-17](/reviews/deep-review-2026-03-17-attention-and-the-consciousness-interface/)
-**Cross-review context**: [Attention Disorders and Consciousness](/topics/attention-disorders-and-consciousness/) (created 2026-04-03)
+**Cross-review context**: [Attention Disorders and Consciousness](/topics/attention-and-the-consciousness-interface/) (created 2026-04-03)
 
 ## Pessimistic Analysis Summary
 
@@ -62,7 +62,7 @@ All attributions previously verified (2026-03-17 review). No new attributed clai
 
 ### Cross-links Added
 - [interface-friction](/concepts/interface-friction/) (concept, inline link in bandwidth section)
-- [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) (enhanced cross-reference in clinical section intro)
+- [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/) (enhanced cross-reference in clinical section intro)
 
 ## Remaining Items
 

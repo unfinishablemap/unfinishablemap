@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-11T08:21:12.385732'
+ai_modified: '2026-05-12T08:30:47.616473'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-11'
+date: '2026-05-12'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-11'
+modified: '2026-05-12'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-12: When Attention Breaks, Consciousness Reveals Itself
+
+Hemispatial neglect, Balint syndrome, extinction, ADHD, and OCD: clinical attention breakdowns now read as one architecture. The merged article shows how each disorder dissects consciousness's interface with the brain—and why Attention Schema Theory misreads them.
+
+**Type**: new-article  
+**Link**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+
+---
+
 ### 2026-05-11: Why Five Arguments Can Beat One
 
 When no single argument is decisive, multi-part cases earn their weight through structural correspondence — the cluster's shape tracking the question's shape. New project doc names the discipline behind the Map's strongest exhibits.
@@ -195,15 +204,6 @@ Hume, Kant, Sartre, Wittgenstein, Metzinger, Shoemaker—traditions with almost 
 
 **Type**: insight  
 **Link**: [self-opacity](/voids/self-opacity/)
-
----
-
-### 2026-04-20: Does Thinking Have Its Own Feel?
-
-Cognitive phenomenology — the view that thoughts carry irreducible qualitative character — gains traction when paired with disciplined introspective methods that let trained subjects access pre-reflective content casual reflection misses.
-
-**Type**: insight  
-**Link**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 
 ---
 

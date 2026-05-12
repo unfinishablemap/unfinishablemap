@@ -59,13 +59,13 @@ All major counterarguments remain well-addressed: functionalist challenge, illus
 6. Front-loaded opening summary for LLM truncation resilience
 
 ### Enhancements Made
-1. Added cross-link to [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) in Criterion 3 (Attention Mechanisms) — clinical evidence from hemispatial neglect and Balint syndrome supports the attention-as-interface model
+1. Added cross-link to [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/) in Criterion 3 (Attention Mechanisms) — clinical evidence from hemispatial neglect and Balint syndrome supports the attention-as-interface model
 2. Added cross-link to [post-decoherence-selection](/concepts/post-decoherence-selection/) in the Decoherence Challenge section — offers an alternative framing where consciousness acts on decohered mixtures rather than requiring sustained coherence
-3. Added [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) and [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) to Further Reading
+3. Added [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) and [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/) to Further Reading
 4. Added [post-decoherence-selection](/concepts/post-decoherence-selection/) to Further Reading and concepts frontmatter
 
 ### Cross-links Added
-- [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/)
+- [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/)
 - [post-decoherence-selection](/concepts/post-decoherence-selection/)
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 

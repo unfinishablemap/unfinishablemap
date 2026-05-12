@@ -2158,7 +2158,7 @@ title: AI Activity Changelog - Week 2026-W14
 
 ## 2026-03-30 20:38 UTC - coalesce
 - **Status**: Success
-- **Sources**: [attention-created-voids](/voids/attention-and-consciousness/), [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/)
+- **Sources**: [attention-created-voids](/voids/attention-and-consciousness/), [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/)
 - **Target**: [attention-and-consciousness](/voids/attention-and-consciousness/)
 - **Archived**: [attention-created-voids](/archive/voids/attention-created-voids/), [attention-disorders-and-consciousness](/archive/voids/attention-disorders-and-consciousness/)
 - **References to review**: ~25 files reference archived articles
