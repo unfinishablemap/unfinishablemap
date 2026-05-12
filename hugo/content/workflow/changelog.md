@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12 09:32:00+00:00
+ai_modified: 2026-05-12 17:58:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-12 17:58 UTC - deep-review
+- **Status**: Success
+- **File**: [channel-class-taxonomy](/concepts/channel-class-taxonomy/)
+- **Previous review**: Never (first deep review)
+- **Word count**: 2484 → 2496 (+12)
+- **Critical issues addressed**: 1 (broken wikilink `[[asymmetric-bandwidth-consciousness]]` → `[[consciousness-bandwidth-architecture]]`)
+- **Medium issues addressed**: 2 (split dense Cross-Class Invariants paragraph into three; softened "the key empirical-detectability variable" → "a key")
+- **Enhancements made**: 1 (inline cross-link to `[[consciousness-bandwidth-architecture]]` in Cross-Class Invariants)
+- **Calibration check**: Passed the §2 diagnostic — article treats classes as a *menu* and explicitly pre-empts possibility-probability slippage in its closing paragraph. No slippage flagged.
+- **Engagement classifications**: No named-opponent replies in this article (catalogue/taxonomy structure); Carroll's "what particles is the soul made of?" challenge correctly conceded for Class 5 only — engagement Mode Two (conceding an unsupported foundational move that the energy-injection class cannot defend on its own thermodynamic standards).
+- **Output**: [deep-review-2026-05-12-channel-class-taxonomy](/reviews/deep-review-2026-05-12-channel-class-taxonomy/)
 
 ## 2026-05-12 09:32 UTC - refine-draft
 - **Status**: Success
