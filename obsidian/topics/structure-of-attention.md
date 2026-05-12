@@ -4,7 +4,7 @@ description: "Attention divides into willed, instructed, and exogenous modes wit
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-04-27T19:19:00+00:00
+ai_modified: 2026-05-12T06:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-03-28T05:12:00+00:00
+last_deep_review: 2026-05-12T06:00:00+00:00
 ---
 
 Attention is not a single phenomenon. It divides into three architecturally distinct modes—exogenous (captured), instructed (cued), and willed (self-generated)—each with different triggers, timescales, and neural signatures. This structure matters philosophically because it identifies precisely where consciousness might do genuine causal work. When you freely choose where to direct focus, neural mechanisms engage that don't engage when you follow instructions or when attention is captured by salience. The additional frontal theta oscillations, bidirectional frontoparietal coherence, and extra frontal recruitment during willed attention mark what The Unfinishable Map claims consciousness contributes: internal decision-making about what to select.
