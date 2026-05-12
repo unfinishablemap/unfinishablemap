@@ -61,14 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-12
 
-### P3: Write concept page on `phenomenal-concept-strategy`
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (afternoon — 2026-05-11b). Both `concepts/integration-as-activity.md` (lines 48–50) and `concepts/type-token-causation.md` (lines 91–97) — created today — now treat the phenomenal-concept strategy (Loar 1990; Papineau 2002; Frankish 2016) as the main physicalist rival to the Map's anti-epiphenomenalism position. Both re-introduce the strategy in their own prose and supply their own response. A consolidated concept page would let both articles cross-link rather than re-introduce, reducing duplication and giving the catalogue a single referential anchor. The page should (a) state Loar/Papineau/Frankish's strategy at its strongest, (b) catalogue its Map-relevant applications (introspective-report reliability, mental-causation defence, illusionism's variant), (c) name the costs the strategy pays (collapse of introspective acquaintance onto representational structure; user-illusion of consciousness in deliberation), (d) cross-link to integration-as-activity and type-token-causation as the two registers in which the Map deploys its rejoinders. Estimated scope: 2,000–2,400 words; concepts/ placement (concepts/ at ~230/250 = 92%, room available). Tenet alignment: Tenet 1 (Dualism) — the strategy is the strongest physicalist alternative to the Map's positive metaphysics; naming it cleanly is methodological discipline.
-- **Review file**: `reviews/optimistic-2026-05-11b.md`
-- **Source**: optimistic-review (2026-05-11b)
-- **Generated**: 2026-05-11
-
 ### P3: Write concept page on `channel-class-taxonomy` (or `mind-physical-channel-classes`)
 - **Type**: expand-topic
 - **Status**: pending
@@ -3592,6 +3584,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-12: Write concept page on `phenomenal-concept-strategy`
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review (afternoon — 2026-05-11b). Both `concepts/integration-as-activity.md` (lines 48–50) and `concepts/type-token-causation.md` (lines 91–97) — created today — now treat the phenomenal-concept strategy (Loar 1990; Papineau 2002; Frankish 2016) as the main physicalist rival to the Map's anti-epiphenomenalism position. Both re-introduce the strategy in their own prose and supply their own response. A consolidated concept page would let both articles cross-link rather than re-introduce, reducing duplication and giving the catalogue a single referential anchor. The page should (a) state Loar/Papineau/Frankish's strategy at its strongest, (b) catalogue its Map-relevant applications (introspective-report reliability, mental-causation defence, illusionism's variant), (c) name the costs the strategy pays (collapse of introspective acquaintance onto representational structure; user-illusion of consciousness in deliberation), (d) cross-link to integration-as-activity and type-token-causation as the two registers in which the Map deploys its rejoinders. Estimated scope: 2,000–2,400 words; concepts/ placement (concepts/ at ~230/250 = 92%, room available). Tenet alignment: Tenet 1 (Dualism) — the strategy is the strongest physicalist alternative to the Map's positive metaphysics; naming it cleanly is methodological discipline.
+- **Output**: Write concept page on `phenomenal-concept-strategy`
 
 ### ✓ 2026-05-12: Deep review concepts/reductionism.md
 - **Type**: deep-review

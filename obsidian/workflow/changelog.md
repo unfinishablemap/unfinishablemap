@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T05:30:00+00:00
+ai_modified: 2026-05-12T05:46:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 05:46 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: `phenomenal-concept-strategy` (singular slug requested)
+- **Reason**: Topic already covered by [[concepts/phenomenal-concepts-strategy]] (plural slug, ~2000 words, deep-reviewed 2026-04-07) and [[topics/phenomenal-concepts-as-materialist-response]]. `check_slug.py` passed only because the requested slug differs from the existing one by a single character (singular vs. plural). Creating a near-duplicate would split inbound links and degrade LLM ingestion. The literature uses both forms — Stoljar (2005) coined "Phenomenal Concept Strategy" (singular), but the Map's existing canonical page uses the plural form. Slug normalisation would require renaming the existing file plus updating wikilink references, which is outside expand-topic's scope.
+- **Output**: None
+- **Recommendation**: If the singular slug is desired as canonical, raise a `refine-draft` task that renames `concepts/phenomenal-concepts-strategy.md` → `concepts/phenomenal-concept-strategy.md` and rewrites the ~12 inbound wikilink references (in tenets.md, the topics-level treatment, and various research notes).
 
 ## 2026-05-12 05:30 UTC - deep-review
 - **Status**: Success (convergence confirmed)
