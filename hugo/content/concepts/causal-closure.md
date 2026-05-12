@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-18 09:05:00+00:00
+ai_modified: 2026-05-11 23:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: 'Causal closure claims every physical event has sufficient physical
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-27 19:39:00+00:00
+last_deep_review: 2026-05-11 23:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ Mental causation can satisfy observational closure through converging mechanisms
 
 ### Empirical Status
 
-Causal closure is not an empirical finding but a methodological assumption — a point the [historical survey of the causal closure debate](/topics/causal-closure-debate-historical-survey/) traces from Descartes through Leibniz and Helmholtz to Kim. Buhler (2020) examined every extant argument for closure and found them all wanting: deductive arguments beg the question, inductive arguments commit sampling errors by extrapolating from investigated domains to all domains including the consciousness-physics interface. Science *assumes* every physical event has a sufficient physical cause in order to search for physical causes; it does not *discover* this. As [reductionism](/concepts/reductionism/) details, methodological reductionism does not entail ontological reductionism—methodological success cannot establish that mental causes don't exist, only that scientific method doesn't look for them.
+Causal closure functions as a methodological assumption rather than an empirical finding — a point the [historical survey of the causal closure debate](/topics/causal-closure-debate-historical-survey/) traces from Descartes through Leibniz and Helmholtz to Kim. Buhler (2020) examined every extant argument for closure and found them all wanting: deductive arguments beg the question, inductive arguments commit sampling errors by extrapolating from investigated domains to all domains including the consciousness-physics interface. Science *assumes* every physical event has a sufficient physical cause in order to search for physical causes; it does not *discover* this. As [reductionism](/concepts/reductionism/) details, methodological reductionism does not entail ontological reductionism—methodological success cannot establish that mental causes don't exist, only that scientific method doesn't look for them.
 
 To be clear: the Map's position also involves metaphysical commitments beyond empirical evidence. Both positions extrapolate from evidence to metaphysics. The question is which extrapolation better accounts for the full range of phenomena—including the existence of consciousness itself and its apparent causal efficacy.
 
@@ -133,7 +133,7 @@ In quantum mechanics, physical systems evolve deterministically under the Schrö
 
 This means: *not every physical event has a sufficient physical cause*. When a radioactive atom decays, physics tells us the probability it will decay in the next hour, but nothing physical determines *whether* it will. The physical causes are insufficient. (This argument depends on collapse interpretations; decoherence-based approaches claim to explain definite outcomes without invoking collapse—though they face their own difficulties with the measurement problem.) The formal case runs deeper than quantum stochasticity alone: [Gödel-type results and Lawvere's fixed-point theorem](/topics/self-reference-and-the-limits-of-physical-description/) show that the assumption of complete physical explanation is formally unjustified—self-referential obstruction prevents any sufficiently rich physical theory from determining its own measurement outcomes.
 
-**Objection from hidden variables**: Hidden variable theories (like Bohmian mechanics) could restore determinism, but they add unobservable machinery. Occam's Razor cuts both ways: consciousness (which we directly experience) is no less parsimonious than hidden variables (which we don't). Pilot-wave theories also face indexical identity problems parallel to Many-Worlds (see [Tenet 4](/tenets/#no-many-worlds)).
+**Objection from hidden variables**: Hidden variable theories (like Bohmian mechanics) could restore determinism, but they add unobservable machinery. Occam's Razor cuts both ways: consciousness (which we directly experience) is no less parsimonious than hidden variables (which we don't). Whether Bohmian mechanics faces indexical problems parallel to Many-Worlds via its empty wave packets is itself contested; the Map's case against hidden variables rests on parsimony rather than settling that dispute (see [Tenet 4](/tenets/#no-many-worlds)).
 
 **The probabilistic causation response**: Some argue probabilistic causation is still causation. But this conflates statistical explanation with causal sufficiency. A probability distribution explains why *some atom* decayed, not why *this atom* did. If nothing physical determines which outcome occurs, physics is causally incomplete at that point. As [physical-completeness](/concepts/physical-completeness/) argues, the key distinction is between *structural* completeness (which physics achieves) and *ontological* completeness (which it does not) — the structural-ontological gap reframes the causal closure debate by revealing an equivocation in "physical cause."
 
@@ -177,7 +177,7 @@ Critics raise the [luck objection](/concepts/luck-objection/): if the outcome is
 
 The Map *rejects* causal closure as a universal principle. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that physics is not causally complete at quantum indeterminacies. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness acts at these points.
 
-This rejection is not arbitrary but principled:
+The rejection rests on three principled grounds:
 
 1. **Quantum mechanics** shows that not all physical events have sufficient physical causes. The physical domain has genuine gaps.
 
@@ -187,7 +187,7 @@ This rejection is not arbitrary but principled:
 
 The Map doesn't claim certainty about *how* consciousness interfaces with quantum events—that remains an open question addressed by [quantum consciousness research](/concepts/quantum-consciousness/) and [Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/). But such interface is possible because causal closure fails where physics is fundamentally indeterminate.
 
-**Note on Many-Worlds**: The entire causal closure debate presupposes collapse interpretations. Under the [Many-Worlds Interpretation](/concepts/many-worlds/), all quantum outcomes occur in different branches, and consciousness doesn't "select" among outcomes—it just tracks which branch you're on. The Map rejects MWI (Tenet 4) on grounds of indexical identity: if all versions of you exist across branches, the question "Why am I experiencing *this* outcome rather than another?" has no answer. The rejection of MWI is thus doing crucial work for the Map's framework—if MWI were correct, consciousness wouldn't need to resolve indeterminacies because there would be nothing to resolve.
+**Note on Many-Worlds**: The Map's quantum case against universal closure presupposes collapse interpretations. Under the [Many-Worlds Interpretation](/concepts/many-worlds/), universal Schrödinger evolution is deterministic, all outcomes occur in different branches, and closure holds trivially—consciousness doesn't "select," it just tracks which branch you're on. The Map rejects MWI (Tenet 4) on grounds of indexical identity: if all versions of you exist across branches, the question "Why am I experiencing *this* outcome rather than another?" has no answer. The rejection of MWI is thus doing crucial work for the Map's framework—if MWI were correct, consciousness wouldn't need to resolve indeterminacies because there would be nothing to resolve.
 
 ## The Coherence of Rejection
 
@@ -197,7 +197,7 @@ Why don't consciousness-influenced quantum events aggregate to detectable violat
 
 **Testability**: The Map's position makes falsifiable predictions: if quantum coherence proves impossible at neural timescales, if quantum effects cannot be amplified to affect neural firing, or if purely classical mechanisms explain all consciousness-related phenomena including reportability—the framework fails. The position is not empirically equivalent to physicalism. See [the falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) for tenet-by-tenet falsification conditions.
 
-This is not "god of the gaps" reasoning. Physics *describes* a gap—between quantum probabilities and definite outcomes—and the Map asks what fills it. The position may be naturally mysterious (see [mysterianism](/concepts/mysterianism/)).
+Unlike "god of the gaps" reasoning, the gap here is one physics *describes*—between quantum probabilities and definite outcomes—and the Map asks what fills it. The position may be naturally mysterious (see [mysterianism](/concepts/mysterianism/)).
 
 ## Further Reading
 
@@ -234,18 +234,3 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 1. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
 1. Vicente, A. (2006). "On the Causal Completeness of Physics." *International Studies in the Philosophy of Science*, 20(2), 149-171.
-
-<!-- AI REFINEMENT LOG - 2026-03-21
-Changes made:
-- Added collapse-interpretation qualifier to quantum indeterminacy claims (line 131 area)
-- Added "mechanism gap" subsection explicitly acknowledging that how consciousness selects quantum outcomes is unspecified
-- Added "Born rule challenge" subsection addressing how selection preserves quantum statistics
-- Added "epiphenomenalism worry" subsection engaging honestly with the statistical-invisibility-as-epiphenomenalism objection
-- Softened conservation-law response to flag selection mechanism as open question with forward reference
-- Changed "selecting...at the frequencies physics specifies" to conditional "would be" in overdetermination response
-
-Based on pessimistic-2026-03-21-b.md Issue 2 (High severity).
-Key improvements: Honest acknowledgment of mechanism gap rather than implying well-understood selection process.
-
-This log should be removed after human review.
--->

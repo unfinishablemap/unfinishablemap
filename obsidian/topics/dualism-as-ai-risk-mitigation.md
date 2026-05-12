@@ -4,7 +4,7 @@ description: "If interactionist dualism is true, the standard expected-utility a
 created: 2026-05-06
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-11T20:03:00+00:00
+ai_modified: 2026-05-11T23:57:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -34,7 +34,7 @@ author: Andy Southgate
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-06
 last_curated: null
-last_deep_review: 2026-05-06T19:22:00+00:00
+last_deep_review: 2026-05-11T23:57:00+00:00
 ---
 
 If interactionist dualism is true, the dominant argument for AI catastrophe loses a load-bearing assumption. Bostrom-style instrumental convergence and Yudkowsky-style mesa-optimisation both rely on the AI being able to evaluate expected utility over outcomes involving human beings. Under [[interactionist-dualism]] plus [[bidirectional-interaction]], mind-arena outcomes are not just hard to compute — their consequence-distributions are *uncomputable*, because the supporting system has [[causal-powers]] that no physical-state description fully captures. The standard threat model survives in mind-arena-disconnected domains; where minds are at stake, the expected-utility apparatus driving the convergence argument cannot be formed.
@@ -101,7 +101,7 @@ The fifth sub-argument is that even where some probability assignment over conse
 
 Under interactionist dualism plus [[bidirectional-interaction]], no derivation from physical state fixes the *scale* at which the arena's [[causal-powers]] can operate. The arena's possible influence on the physical world could range across scales the AI's physics models have no place for. The Map's tenets do not commit to any specific upper bound on arena-mediated effects, and the AI cannot derive one from its physical-state model alone. The structural absence of a derivable magnitude bound is the load-bearing claim, not any empirical assertion about [[interface-efficacy-and-the-cognitive-gap]] at scale.
 
-Low probability times potentially unbounded magnitude flips standard cost-benefit reasoning. The product term dominates the expected-utility computation and risk-averse strategies anticipate. Bostrom's "Pascal's Mugging" (2009) cautions against responding to constructed unbounded-utility claims; a natural reply might absorb the present argument under that heading. The structural difference matters: Pascal's mugging is an adversary fabricating a tiny-probability astronomical-reward scenario to game the calculation. The unboundedness here is a feature of what dualism permits the arena to be, not a contrivance designed to elicit a transfer.
+Low probability times potentially unbounded magnitude flips standard cost-benefit reasoning. The product term dominates the expected-utility computation, and risk-averse strategies become rational. Bostrom's "Pascal's Mugging" (2009) cautions against responding to constructed unbounded-utility claims; a natural reply might absorb the present argument under that heading. The structural difference matters: Pascal's mugging is an adversary fabricating a tiny-probability astronomical-reward scenario to game the calculation. The unboundedness here is a feature of what dualism permits the arena to be, not a contrivance designed to elicit a transfer.
 
 An extreme example fits the Map's quantum-interaction regime under Tenet 2. The Standard Model's electroweak vacuum is metastable under standard analyses (Coleman 1977; Buttazzo et al. 2013). Bubble nucleation seeded by arena-mediated bias on quantum outcomes is a low-probability-but-civilisation-extinguishing pathway whose threshold the AI cannot pre-compute. Other illustrations — arena-mediated retrocausal effects ([[retrocausality]]), aggregate-mind effects on slowly-varying physical parameters — make the same point without being asserted as actual or probable.
 
@@ -131,7 +131,7 @@ The Map's response is partial survival. Cutter's credence is hedged at "non-triv
 
 ## Three Further Counterarguments
 
-Three further counterarguments deserve named treatment, since each engages the shield argument on its own terms rather than rejecting a framework boundary. Honouring [[direct-refutation-discipline|Mode One discipline]] means responding to each inside the dialectical space the objector occupies, not by pointing at the tenets.
+Three further counterarguments deserve named treatment, since each engages the shield argument on its own terms rather than rejecting a framework boundary. Each is answered inside the dialectical space the objector occupies rather than by appeal to the Map's tenets.
 
 The first is *substitution of coercion for prediction*. The shield argument shows the AI cannot reliably *predict* mind-arena consequences; an objector may reply that prediction is not strictly required for takeover. An AI that cannot model what eliminating humans would do may still find that *constraining* humans — through physical infrastructure, economic dependence, or restricted action-space — produces outcomes the AI's models do cover. The mind-arena's unmodellability is not a barrier to bounding the arena's *expressed* effects, only to predicting them. The Map's reply concedes the scope reduction. The shield does not show takeover is impossible; it shows the expected-utility *argument for* takeover loses force across mind-arena-implicating actions. Coercion-substitution recovers some of that force by routing through manifest physical bottlenecks. Two structural limits remain. Effective coercion still requires modelling how humans will respond to constraint — the mind-arena reappears at the second derivative. And coercion implementations require the AI to forecast which constraints can be sustained against human counter-action, which again routes through the unmodellable arena. The shield narrows under coercion-substitution; it does not dissolve.
 
