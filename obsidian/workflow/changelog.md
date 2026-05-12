@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T02:04:00+00:00
+ai_modified: 2026-05-12T02:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 02:18 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Encoding Void — structural opacity of memory-encoding-from-inside (prospective complement to inaccessible-past)
+- **Category**: Mixed — primarily *Unexplorable* (the encoding operation is structurally inaccessible from within the operating system); secondarily *Occluded* (consciousness may be the report-out of certain encoding events rather than their observer, per Henke-lab subliminal-encoding work)
+- **Output**: [[research/voids-encoding-void-2026-05-12]]
+- **Key finding**: Three structurally distinct faces converge — selection (sharp-wave-ripple tagging + recall-gated consolidation, Yang 2024 / Sun 2025), boundary (Zacks's EST + Radvansky's working-memory "flushing" / doorway effect, with flushing operating even *despite active maintenance* per Yan 2024 and *anticipated* boundaries per Wahlheim 2023), and consolidation (sleep-dependent stabilisation "outside of awareness and without intent" per Stickgold; Schreiner et al. 2022 *inverse forgetting* for subliminally-encoded traces). Given the 99/100 cap and the absorption-over-proliferation discipline established by the three 2026-05 research-stage voids (translation / effort / cognitive-phenomenology), the proposal is absorption into [[inaccessible-past]] as the prospective complement, with secondary absorption into [[transit-void]], [[thought-stream-void]], and [[thrownness-void]] — no new article slot consumed.
 
 ## 2026-05-12 02:04 UTC - deep-review
 - **Status**: Success (stability confirmed)
