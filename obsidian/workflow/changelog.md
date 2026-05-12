@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T08:32:00+00:00
+ai_modified: 2026-05-12T09:32:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 09:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source**: outer-review (Claude Opus 4.7 2026-05-12 — R1 disambiguate "temporal"; R5 non-temporal physics)
+- **Changes**: Replaced the "Premise 3 requires care" paragraph in the irreducibility-argument section with four new paragraphs (~610 words). (1) Names the A-series / B-series fork in Premise 1 in McTaggart-derived natural prose and points out that the categorical contrast with non-temporal consciousness needs the A-series reading. (2) States the eternalist lineage at full strength — Putnam 1967, Mellor 1998, Price 1996, Barbour 1999, Petkov 2009 — and observes that on those readings Premise 1 in its strong form is false. (3) Acknowledges Maudlin 2007 as the strongest contemporary defence of objective passage as compatible with physics, then quarantines the A-theory-vs-B-theory dispute as bedrock that cannot be settled from inside physics. (4) Updates the mathematics rejoinder by conceding that the Wheeler–DeWitt equation, Barbour's timeless physics, and Rovelli's relational mechanics are non-temporal *physical* formulations and that physical description is therefore not always constitutively temporal — then argues that the contrast survives in a narrower form (these formulations parameterise physical degrees of freedom; the non-temporal consciousness is the constituting activity for the temporal order rather than a structure within it) with the categorical work transferred back onto Husserl's regress and the cognitive-phenomenological case. Added references for Barbour 1999, Maudlin 2007, Mellor 1998, Petkov 2009, Price 1996, Putnam 1967, Rovelli 1996, and the SEP entry on the problem of time in canonical quantum gravity. Linked to [[consciousness-and-the-ontology-of-temporal-becoming]] in the new prose.
+- **Engagement**: with eternalist lineage (Putnam–Mellor–Price–Barbour–Petkov) — Mode Three (framework-boundary marking). Both sides agree on the formalism and dispute its ontological reading; the dispute cannot be settled from inside physics, and the article quarantines this as honest bedrock rather than dressing it as refutation. — with Wheeler–DeWitt / Barbour / Rovelli — Mode One attempt: the formulations are conceded to be non-temporal physical formalisms but argued to still parameterise physical degrees of freedom, so the categorical contrast survives while shifting onto separately argued grounds. — with Maudlin — sympathetic citation; contemporary defender of the Map's preferred A-theoretic reading.
+- **Published**: yes
 
 ## 2026-05-12 08:32 UTC - refine-draft
 - **Status**: Success

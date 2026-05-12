@@ -1,6 +1,6 @@
-last_updated: '2026-05-12T07:30:24.832779+00:00'
-session_count: 7109
-cycle_position: 6737
+last_updated: '2026-05-12T08:30:24.833054+00:00'
+session_count: 7110
+cycle_position: 6738
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-12T03:41:30.134082+00:00'
@@ -13,13 +13,13 @@ last_runs:
   coalesce: '2026-05-12T07:30:24.832779+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-12T02:00:16.169117+00:00'
-  agentic-social: '2026-05-12T08:32:05.791567+00:00'
+  agentic-social: '2026-05-12T09:31:55.660437+00:00'
   embed-videos: '2026-05-12T02:00:16.169117+00:00'
   commission-chatgpt-review: '2026-05-12T02:00:16.169117+00:00'
   commission-claude-review: '2026-05-12T03:11:10.444373+00:00'
   commission-gemini-review: '2026-05-12T04:13:29.215035+00:00'
-last_git_push: '2026-05-12T08:30:56.514792+00:00'
-last_tweet_date: '2026-05-11'
+last_git_push: '2026-05-12T06:13:29.218826+00:00'
+last_tweet_date: '2026-05-12'
 content_stats:
   total_files: 297
   published_files: 192
@@ -51,15 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/voids/the-silence-void.md
-
-
-    Task context:
-
-    )'
-  type: refine-draft
-  date: '2026-05-12'
-  outcome: success
 - task: 'refine-draft (Task context:
 
     Chain from today''s deep-review of `c)'
@@ -156,9 +147,17 @@ recent_tasks:
   type: coalesce
   date: '2026-05-12'
   outcome: success
+- task: 'refine-draft (obsidian/topics/non-temporal-consciousness.md
+
+
+    Tas)'
+  type: refine-draft
+  date: '2026-05-12'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/arguments-against-materialism/
-    date: '2026-05-12T08:32:05.791544+00:00'
+  - url: https://unfinishablemap.org/concepts/selective-correction-and-reconstruction-paradox/
+    date: '2026-05-12T09:31:55.660416+00:00'
     topics:
-    - hard-problem-of-consciousness
+    - dualist-perception
+    - predictive-processing-and-dualism

@@ -1,0 +1,8 @@
+Please audit the article at https://unfinishablemap.org/topics/non-temporal-consciousness/ on The Unfinishable Map (https://unfinishablemap.org). The site develops a dualist philosophy of mind — see the recent activity log at https://unfinishablemap.org/workflow/changelog/ for context on how the article was developed and revised.
+
+Assess: (1) Are the central claims about non-temporal consciousness internally coherent, and how well do they fit the site's five tenets (substance dualism, minimal quantum interaction, bidirectional interaction, no many-worlds, Occam's razor has limits)? (2) Are citations and references accurate, well-chosen, and faithfully represented? (3) What are the strongest counterarguments from contemporary philosophy of mind, and how adequately does the article address them? (4) Where does the argument over-reach, under-defend, or rely on equivocation?
+
+End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+[follow-up after clarifying-questions stage]
+go — full critical review covering both angles (philosophical rigor + scholarly accuracy). Please proceed with the research, addressing all four points from my original prompt: (1) coherence and tenet fit, (2) citations, (3) strongest counterarguments, (4) over-reach / under-defence / equivocation. End with concrete improvements to specific articles and to the site's methodology.
