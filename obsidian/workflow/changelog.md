@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T04:45:00+00:00
+ai_modified: 2026-05-12T05:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 05:00 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Mechanism-Costs Cartography (named cartographic methodology)
+- **Output**: [[project/mechanism-costs-cartography]]
+- **Word count**: 1694
+- **Based on research**: no (synthesises the methodological pattern instantiated by [[topics/mechanism-costs-dualism-thickness-quadrants]] and its parent [[topics/four-quadrant-dualism-taxonomy]])
+- **Notes**: New project doc names the eighth methodological discipline in the Map's editorial system: a thickness/grain taxonomy's cells exposed to a fixed battery of mechanism questions, with parallel-structured cell-by-cell exposition that surfaces what each cell owes that its neighbours do not. Specifies the three structural parts (prior locating taxonomy, fixed battery, cell-by-cell exposition), the three constraints on the battery itself (includes critics' hardest questions; applies at every cell; fixed for the deployment), the asymmetry-concession discipline (the inaugural deployment's "the asymmetry is real, not an artefact of the question selection" formula), the use case (taxonomy-locating article → mechanism-costs companion article), and the non-adjudicative posture (Mode Three engagement is preserved; the cartography speaks but the tenets adjudicate). Closes P3 chain task from 2026-05-11 expand-topic completion. Tenet alignment: Tenet 5 (Occam's Razor Has Limits) at the cartographic layer.
 
 ## 2026-05-12 04:45 UTC - refine-draft
 - **Status**: Success
