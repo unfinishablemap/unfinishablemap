@@ -302,9 +302,9 @@
   prompt_summary: 'Audit non-temporal-consciousness: claims, citations, counterargs,
     tenet fit'
   target_filename: outer-review-2026-05-12-claude-opus-4-7.md
-  status: pending
+  status: collected
   collect_attempts: 8
-  last_attempt_at: '2026-05-12T06:15:02.924146+00:00'
+  last_attempt_at: '2026-05-12T06:24:22.027439+00:00'
   failure_reason: null
   prompt_text: "Please audit the article at https://unfinishablemap.org/topics/non-temporal-consciousness/\
     \ on The Unfinishable Map (https://unfinishablemap.org). The site develops a dualist\
@@ -335,9 +335,9 @@
   prompt_summary: 'Audit non-temporal-consciousness: claims, citations, counterargs,
     tenet fit'
   target_filename: outer-review-2026-05-12-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-12T06:25:46.433970+00:00'
   failure_reason: null
   prompt_text: 'Audit the article ''Non-Temporal Consciousness'' on The Unfinishable
     Map (https://unfinishablemap.org), specifically the page at https://unfinishablemap.org/topics/non-temporal-consciousness/.
