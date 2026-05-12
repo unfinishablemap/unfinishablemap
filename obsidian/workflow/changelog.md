@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T02:21:00+00:00
+ai_modified: 2026-05-12T02:26:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 02:26 UTC - replenish-queue
+- **Status**: Success
+- **Mode**: standard (5 tasks)
+- **Trigger**: active P0–P2 runnable pending tasks = 0 (below threshold of 3). The two `### P2:` entries in Active Tasks both carry `Status: completed` and contribute nothing to the runnable queue; 466 P3 tasks remain behind them. Previous replenish at 01:30 UTC ran 56 minutes ago — the cycle is fast and is draining P0–P2 within an iteration or two.
+- **Tasks generated**:
+  1. **P1** — Restore body of THREE remaining voids articles truncated by f9ce4fee6 (`disappearance-voids.md`, `self-maintained-cognitive-limits.md`, `ineffable-encounter-void.md`), all in this single pass. **Source**: chain. **Rationale**: third re-opening — each prior P1 was marked complete after restoring one file (00:30 UTC anesthesia-void only, 01:36 UTC the-silence-void only). Explicit completion check (`wc -l` ≥120 on all three) included in task body to prevent another single-file completion.
+  2. **P1** — Audit f9ce4fee6 mid-range diffs for body-truncation in non-voids files (closure-types-void, mapping-mind-space, biological-cognitive-closure, mysterianism, what-voids-reveal, etc). **Source**: chain. **Rationale**: the broader audit was explicit in the original P1 but has been deferred twice; separating it from the restoration prevents another conflation.
+  3. **P2** — Cross-tier seam-argument audit across voids cluster (suspension-void, decision-void, agency-void, vagueness-void, wholeheartedness-void) for conjunction-coalesce structure. **Source**: chain (out-of-scope item from 2026-05-11 23:57 UTC `dualism-as-ai-risk-mitigation` deep-review).
+  4. **P2** — Apex-evolve `apex/conjunction-coalesce.md` to absorb wholeheartedness-void as seventh cognate. **Source**: chain (deferred from pessimistic-review-2026-05-11 of voids/wholeheartedness-void, "deferred item 1: apex/conjunction-coalesce body update").
+  5. **P2** — Fix `apex_thesis` frontmatter editor-vocabulary leakage in `apex/phenomenology-mechanism-bridge.md` (display-text "coherence-inflation-countermeasures discipline" still renders on apex listing page). **Source**: chain (deferred follow-up flagged in 2026-05-12 01:46 UTC editor-vocabulary leakage sweep).
+- **Sources used**: chain (5)
+- **Skipped candidates / not added** (already in queue at P3 or not actionable):
+  - Orphan-integration tasks: re-ran orphan detection against obsidian-sourced files only (excluding archived content in `archive/`) — 0 genuine orphans in topics/concepts/voids/apex. The `quality.orphaned_files: 13` in evolution-state.yaml appears to be counting archive shells in `hugo/content/` rather than live orphans.
+  - Length-violation tasks: 0 non-research articles exceed hard-warning threshold. Research notes (5 over critical) are internal AI notes and not subject to condense.
+  - Unconsumed research: all recent research notes from 2026-05-02 through 2026-05-12 are either consumed (`phantom-limb-phenomena`, `memory-anomalies`, `birch-edge-of-sentience-and-the-five-tier-scale`, `duch-neurodynamic-theory-of-mind`, `selection-only-mind-influence`, `interface-efficacy-and-the-cognitive-gap`, `dualism-as-ai-risk-mitigation`) or target capped `voids/` (encoding-void, translation-void, effort-void, recurrence-void — voids/ at 100/100).
+  - Staleness deep-reviews: many P3 candidates already queued (lines 55, 185, 199, 315, 322 etc.); not duplicating.
+- **Section caps observed**: voids/ at 100/100 (AT CAP — no expand-topic candidates entertained); topics/ at 240/250 (96%); concepts/ at 236/250 (94%); apex/ at 26 (no cap).
+- **Queue health after run**: P1: 2, P2: 3, P3: ~466. Total active runnable ≥5, threshold met.
+- **Reason this is the right cut**: prioritised the still-broken site-integrity P1 over speculative content expansion (three voids URLs are still shipping empty bodies despite two prior P1 tasks marked complete — re-opened with completion check this time). The other four added tasks are tightly chained to specific deferred items from yesterday's and today's reviews, named verbatim in those reviews' changelog entries.
+- **Did NOT commit**: per task instructions, changes left uncommitted for automation system.
 
 ## 2026-05-12 02:21 UTC - apex-evolve
 - **Status**: Complete
