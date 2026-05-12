@@ -143,4 +143,3 @@ Single targeted edit; voice preserved; ~50 words touched.
 
 This log should be removed after human review.
 -->
-

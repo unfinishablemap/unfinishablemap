@@ -104,18 +104,3 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the dissolution of s
 4. Peres, A. (1991). Two Simple Proofs of the Kochen-Specker Theorem. *Journal of Physics A*, 24(4), L175–L178.
 5. Mermin, N. D. (1993). Hidden Variables and the Two Theorems of John Bell. *Reviews of Modern Physics*, 65(3), 803–815.
 6. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made (second pass, addressing remaining pessimistic review findings):
-- Reframed "selection is not item-picking" and "context constrains" to apply to all outcome-determining processes, not consciousness specifically — KS constrains all interpretations equally
-- Rewrote "attention as context-setting" to explicitly flag that consciousness having causal access to measurement context is the Map's conjecture, not a KS consequence
-- Rewrote free will section: indeterminacy provides randomness, not agency; context-dependent randomness is still randomness; roulette wheel analogy makes the gap explicit; agency is a further claim requiring independent defence
-- Hedged "compatibility with post-decoherence selection" to flag the formal-vs-operational question rather than asserting interaction as fact
-- Reframed weak measurement connection as mathematical analogy rather than established mechanism
-
-Previous pass (2026-03-29): Added bridging argument through measurement problem, distinguished formal/practical contextuality after decoherence, initial free will qualifications.
-
-Key improvements: Article no longer extrapolates KS into claims about consciousness it cannot support; free will section honestly separates structured indeterminacy from agency.
-
-This log should be removed after human review.
--->

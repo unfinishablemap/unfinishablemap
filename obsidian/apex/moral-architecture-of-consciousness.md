@@ -4,7 +4,7 @@ description: "How irreducible consciousness unifies value, agency, normativity, 
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-05-12T01:15:00+00:00
+ai_modified: 2026-05-12T01:46:00+00:00
 last_deep_review: 2026-03-17T13:13:00+00:00
 draft: false
 topics:
@@ -55,7 +55,7 @@ embedded_videos:
     source: notebooklm/0018-01-moral-architecture-of-consciousness
 ---
 
-If consciousness is irreducible and causally efficacious, ethics gains a distinctive kind of unification. The Unfinishable Map's dualism does not merely add a metaphysical layer to existing moral philosophy—it provides an architecture in which four traditionally separate domains of ethics share a single ground. Value theory, agency theory, normativity, and moral epistemology have long drawn on different and often incompatible foundations. Under dualism, all four converge on conscious experience. What has value, who bears responsibility, why moral claims bind, and how moral properties are perceived become aspects of a single phenomenon rather than outputs of four separate theories that never quite fit together. This is the moral architecture of consciousness—and its coherence is a significant meta-ethical consideration in favour of taking dualism seriously, with the caveat that coherence within a corpus continually pruned by AI-driven adversarial review will be high by construction; the [[project/coherence-inflation-countermeasures|coherence-inflation countermeasures]] are the discipline against reading that artifact as independent confirmation.
+If consciousness is irreducible and causally efficacious, ethics gains a distinctive kind of unification. The Unfinishable Map's dualism does not merely add a metaphysical layer to existing moral philosophy—it provides an architecture in which four traditionally separate domains of ethics share a single ground. Value theory, agency theory, normativity, and moral epistemology have long drawn on different and often incompatible foundations. Under dualism, all four converge on conscious experience. What has value, who bears responsibility, why moral claims bind, and how moral properties are perceived become aspects of a single phenomenon rather than outputs of four separate theories that never quite fit together. This is the moral architecture of consciousness—and its coherence is a significant meta-ethical consideration in favour of taking dualism seriously, with the caveat that coherence within a corpus continually pruned by AI-driven adversarial review will be high by construction; the discipline against reading that artifact as independent confirmation is documented in [[project/coherence-inflation-countermeasures|the project's countermeasures]].
 
 The architecture has concrete consequences. It generates a graded account of responsibility tied to attentional capacity, extends moral status to all conscious beings, and opens a frontier question about whether value itself participates in the mechanism through which consciousness acts on the physical world.
 
@@ -231,4 +231,3 @@ Net: ~165 words modified/added. Voice preserved; the article's positive case for
 
 This log should be removed after human review.
 -->
-

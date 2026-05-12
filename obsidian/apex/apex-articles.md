@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-09
 human_modified: 2026-01-24
-ai_modified: 2026-05-12T01:15:00+00:00
+ai_modified: 2026-05-12T01:46:00+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -422,7 +422,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Subtitle**: From first-person experience through neural architecture to quantum selection to metaphysical agency
 
-**Thesis**: A complete argument chain runs from the phenomenology of willing through neural motor architecture through quantum selection to metaphysical agency — three levels providing independent evidence, the quantum level serving as a candidate mechanism — while the connections between levels constitute a mutually supporting structure that no single article or existing apex traces. The chain's coherence across four explanatory levels is a theoretical virtue consistent with the Map's interactionist framework capturing something real, though coherence alone does not constitute evidence; the discount for artifact-of-method risk is calibrated by [[project/coherence-inflation-countermeasures|the coherence-inflation countermeasures]].
+**Thesis**: A complete argument chain runs from the phenomenology of willing through neural motor architecture through quantum selection to metaphysical agency — three levels providing independent evidence, the quantum level serving as a candidate mechanism — while the connections between levels constitute a mutually supporting structure that no single article or existing apex traces. The chain's coherence across four explanatory levels is a theoretical virtue consistent with the Map's interactionist framework capturing something real, though coherence alone does not constitute evidence; the discount for artifact-of-method risk is calibrated by [[project/coherence-inflation-countermeasures|the project's countermeasures]].
 
 **Source articles**:
 - topics/motor-control-quantum-zeno

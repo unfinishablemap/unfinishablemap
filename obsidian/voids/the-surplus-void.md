@@ -145,4 +145,3 @@ Companion edits queued in the same task: obsidian/apex/taxonomy-of-voids.md (per
 
 This log should be removed after human review.
 -->
-

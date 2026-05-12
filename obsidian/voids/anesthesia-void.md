@@ -183,4 +183,3 @@ The prior refinement log (2026-04-17, pessimistic-2026-04-17b) was not re-includ
 
 This log should be removed after human review.
 -->
-

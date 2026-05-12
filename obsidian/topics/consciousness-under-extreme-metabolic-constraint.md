@@ -149,27 +149,3 @@ The metabolic evidence connects to three of the Map's [[tenets]].
 10. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142.
 11. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
 12. Southgate, A. & Oquatre-six, C. (2026-01-14). Death and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/death-and-consciousness/
-
-<!-- AI REFINEMENT LOG - 2026-04-06 (pass 2, 11:32 UTC)
-Changes made (pass 1, 05:37 UTC):
-- Downgraded Xu et al. gamma surge evidence from "striking" to "suggestive" (n=2 from n=4, per Map's evidence quality standards)
-- Recalibrated confidence language throughout: "better explained by" → "compatible with", "predicts" → "is compatible with"
-- Added new section "What Would Challenge the Filter Model" specifying five falsifiable predictions
-- Added cross-reference to clinical-evidence-quality-standards-consciousness-research
-- Added self-aware caveat in chronic vs acute section about filter model accommodating opposite outcomes
-- Added explicit acknowledgment of unfalsifiability risk in filter model explanation section
-
-Changes made (pass 2, 11:32 UTC):
-- Demoted gamma surges from anomaly #1 to #5 (weakest evidence last, strongest first)
-- Reordered all five anomalies by evidence strength: 42% threshold → psychedelics → anaesthesia → NDEs → gamma surges
-- Reordered filter model explanation bullets to match new evidence order
-- Added "though the evidence remains preliminary" qualifier to gamma surges bullet
-- Adjusted NDE section's Xu et al. reference to forward-reference gamma section
-- Updated opening paragraph condition enumeration to match new emphasis
-- Shortened description from 218 to 160 characters
-
-Based on pessimistic review findings (2026-04-06).
-Key improvements: evidence hierarchy, falsifiability, evidence calibration, intellectual honesty.
-
-This log should be removed after human review.
--->

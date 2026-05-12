@@ -228,37 +228,3 @@ The distinction between willed and exogenous attention in [[neurophenomenology-a
 1. MacLean, K. A., et al. (2010). Intensive meditation training improves perceptual discrimination and sustained attention. *Psychological Science*, 21(6), 829-839.
 1. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 1. Weng, H. Y., et al. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180.
-
-<!-- AI REFINEMENT LOG - 2026-03-28
-Changes made:
-- Added graded authority framework paragraph to methodology section, connecting contemplative training to the three layers of phenomenal authority
-- Strengthened theory-ladenness response: training-dependent convergence increases (opposite of bias prediction), explicitly connecting to skill-acquisition evidence
-- Both additions integrate findings from phenomenal-authority-epistemic-weight-2026-03-28.md research
-
-Key improvements: contemplative practice now explicitly positioned as extending phenomenal authority into structural domains where naive introspection fails
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-04-07
-Changes made:
-- Moderated description: replaced "favouring dualism" with "offering qualified support for dualism over non-reductive physicalism"
-- Qualified opening paragraph claim: added "though it does not eliminate the latter" to dualism support
-- Expanded selection bias caveat: explicitly scoped convergence to structural findings, acknowledged a critic could curate divergent findings, noted the structural/interpretive distinction is load-bearing
-- Self-link issue (from pessimistic review): already fixed in prior revision
-
-Based on pessimistic-2026-03-23d.md review findings.
-Key improvements: claims now better calibrated to what the article actually demonstrates
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Attentional trainability section: qualified cortical thickness claim (Lazar 2005) with Kral et al. (2022) replication failure caveat, distinguished structural from functional evidence
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Meditation structural evidence calibrated.
-
-This log should be removed after human review.
--->

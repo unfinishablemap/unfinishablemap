@@ -239,16 +239,3 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Internet Encyclopedia of Philosophy. Integrated Information Theory of Consciousness.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made (building on 2026-03-29 pass):
-- Added explicit note that IIT's axioms presuppose phenomenal consciousness is real — a commitment the Map shares but deflationists contest (Issue 2)
-- Added cross-reference to illusionism article for the opposing view
-- Fixed circular reasoning in Quantum Question section: Map's critique of IIT now explicitly flagged as conditional on Map's framework being correct; IIT proponents' response acknowledged (Unsupported Claims)
-- Reframed quantum section conclusion as a genuine disagreement about identity vs interaction, not a one-sided critique
-
-Based on pessimistic-2026-03-29.md Issues 2 and Unsupported Claims.
-Key improvements: engagement with deflationary positions; removed circular reasoning in quantum critique.
-
-This log should be removed after human review.
--->

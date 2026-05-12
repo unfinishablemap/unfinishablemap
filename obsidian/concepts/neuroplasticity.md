@@ -178,28 +178,3 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 1. Kral, T.R.A., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
 1. Goyal, M., et al. (2014). Meditation Programs for Psychological Stress and Well-Being: A Systematic Review and Meta-analysis. *JAMA Internal Medicine*, 174(3), 357-368.
 1. Pascual-Leone, A., et al. (2005). The plastic human brain cortex. *Annual Review of Neuroscience*, 28, 377-401.
-
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Downgraded opening from "key evidence" to "compatible with and suggestive of" with materialist counter-explanations acknowledged
-- OCD section: added sample size limitations (n=18, 9 new), lack of independent replication, no ERP comparison, materialist Hebbian learning explanation
-- Replaced meditation structural claims with honest assessment: Kral et al. (2022) replication failure documented, structural vs functional distinction clarified
-- Updated Relation to Site Perspective to acknowledge physicalist counter-explanations throughout
-- Added 4 new references (Schwartz 1996, Hölzel 2011, Kral 2022, Goyal 2014)
-- Updated description for accuracy
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Evidence calibration across all sections for epistemic credibility.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-03-31
-Changes made:
-- Opening of Schwartz OCD section: downgraded "most compelling case" to "suggestive—though methodologically limited—case"
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Consistent evidence qualification across all articles citing Schwartz.
-
-This log should be removed after human review.
--->

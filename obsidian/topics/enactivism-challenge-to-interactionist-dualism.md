@@ -139,13 +139,3 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 1. Dewey, J. (1925). *Experience and Nature*. Open Court.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Sensorimotor Contingencies and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/sensorimotor-contingencies-and-the-interface/
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). Embodied Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/embodied-consciousness/
-
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-1. Added "Pragmatist Genealogy" section tracing enactivism's intellectual roots through Dewey → Merleau-Ponty → Varela/Thompson, noting that pragmatism's own reflexive logic supports dualism, creating tension with enactivism's anti-dualist conclusions
-2. Added Wu (2024), Dewey (1896), Dewey (1925) to references
-3. Added pragmatism concept link and pragmatisms-path-to-dualism cross-reference
-4. Based on research in pragmatist-philosophy-of-mind-2026-03-28.md identifying pragmatist-to-enactivist pipeline as high-priority enhancement
-
-This log should be removed after human review.
--->

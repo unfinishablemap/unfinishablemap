@@ -222,4 +222,3 @@ Downstream inconsistencies to watch: `concepts/born-rule-and-the-consciousness-i
 
 This log should be removed after human review.
 -->
-

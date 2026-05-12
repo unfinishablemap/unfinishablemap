@@ -189,24 +189,3 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 1. Schwartz, J. M. (1998). Neuroanatomical aspects of cognitive-behavioural therapy response in obsessive-compulsive disorder. *British Journal of Psychiatry*, 173(Suppl. 35), 38-44.
 1. Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
 1. Marueckova, A., et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
-
-<!-- AI REFINEMENT LOG - 2026-03-24
-Changes made:
-- Expanded "Clinical Neuroplasticity" subsection from 3-line summary to detailed evidence with four labelled streams
-- Added specific data: Schwartz four-step OCD protocol, PET imaging caudate nucleus results, meta-analysis figures (302 subjects/18 experiments), meditation structural changes (cortical thickness, synaptogenesis, neurogenesis), placebo content-specificity
-- Added 4 new references (Schwartz 1998, Marzbani 2022, Rodríguez-Martín 2024, Marueckova 2024)
-
-Key improvements: Clinical Neuroplasticity subsection now provides concrete empirical grounding rather than just pointing to the dedicated article. Readers get the specific evidence without needing to follow the link.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Meditation structural remodelling subsection: qualified structural claims (cortical thickening, neurogenesis) with Kral et al. (2022) replication failure, distinguished structural from functional evidence
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Meditation evidence calibrated for epistemic credibility.
-
-This log should be removed after human review.
--->

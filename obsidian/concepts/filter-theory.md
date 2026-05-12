@@ -215,17 +215,3 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 1. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
-
-<!-- AI REFINEMENT LOG - 2026-03-28
-Changes made:
-- Added "The Illusionist Challenge" section engaging Frankish's functional-seeming account
-- Connected filter theory's evidence base (psychedelic paradox, anaesthetic divergence, covert consciousness) to illusionist explanatory burden
-- Argued that filter theory's anomalous cases compound the illusionist's parsimony claim
-- Added illusionism to concepts list
-- Added Frankish (2016) to references
-
-Based on research in illusionism-functional-seeming-2026-03-28.md.
-Key improvements: Filter theory now engages illusionism directly rather than ignoring it.
-
-This log should be removed after human review.
--->

@@ -128,16 +128,3 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 11. Searle, J.R. (1992). *The Rediscovery of the Mind*. MIT Press.
 12. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Substrate Independence. *The Unfinishable Map*. https://unfinishablemap.org/concepts/substrate-independence/
 13. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.
-
-<!-- AI REFINEMENT LOG - 2026-04-10 (second pass)
-Changes made:
-- Further addressed equivocation (Issue 1): added explicit acknowledgment that abstraction-resistance is common in physics (turbulence, protein folding) and doesn't imply non-physical ingredients; replaced "unstable middle ground" framing with balanced presentation where physicalists can hold biological computationalism comfortably
-- Fixed circular ACD argument (Issue 2): now explicitly identifies the regress argument as presupposing dualism, gives the physicalist response full weight (emergence from substrate dynamics), and frames the argument as illustrating a shared structural diagnosis rather than as independent evidence for dualism
-- Softened opening paragraph: "the gap dualism claims to address" → acknowledges both sides offer different accounts of what fills the gap
-- Softened tenet section: "predict exactly" → "predict the kind of"
-
-Based on pessimistic review pessimistic-2026-04-10.md (Issues 1, 2, 3).
-Key improvements: eliminated residual equivocation between substrate-dependent and non-physical; made ACD argument honest about its circularity.
-
-This log should be removed after human review.
--->

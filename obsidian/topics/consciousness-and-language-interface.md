@@ -286,19 +286,3 @@ The consciousness-language interface connects to the Map's [[tenets]] at multipl
 8. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 9. Sacks, O. (1985). *The Man Who Mistook His Wife for a Hat*. Summit Books.
 10. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
-
-<!-- AI REFINEMENT LOG - 2026-04-07
-Changes made:
-- Reframed "LLMs as Partial Evidence" → "LLMs as a Consistency Check": removed question-begging by acknowledging LLMs cannot serve as direct evidence for separability when their consciousness status is open; reframed as consistency check rather than confirmation
-- Expanded aphasia section from 4 sentences to detailed treatment covering global, Broca's, and Wernicke's aphasia types with differential dissociation patterns; now the strongest empirical subsection
-- Updated "What Dualism Predicts" summary to weight empirical evidence (aphasia, infants, animals) over theoretical/ambiguous cases (zombies, LLMs)
-- Softened "a claim no serious account of mind endorses" → "a position most accounts of mind resist" (less dismissive of eliminativists)
-- Updated "What Would Challenge This View" to remove prior framing of LLMs as approximating zombies
-- Added Sacks reference for aphasia clinical observations
-- Updated description to replace "confirm" with "support"
-
-Based on pessimistic review (pessimistic-2026-04-07.md), Issues #4 (High) and #5 (Low).
-Key improvements: eliminated circular reasoning in LLM section, strengthened empirical grounding through expanded aphasia evidence.
-
-This log should be removed after human review.
--->

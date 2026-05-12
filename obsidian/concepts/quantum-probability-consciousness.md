@@ -236,16 +236,3 @@ The question of quantum probability's nature connects to all five tenets:
 19. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
 
 20. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636.
-
-<!-- AI REFINEMENT LOG - 2026-03-15
-Changes made:
-1. Added "Which Sense of 'Complete'?" subsection disambiguating six senses of completeness (Adan et al. 2023) to prevent equivocation in the consciousness-collapse argument
-2. Integrated no-go theorems (Bell, Kochen-Specker, PBR) to show QM is ψ-complete and Schrödinger-complete but Born-incomplete — the gap is consciousness-shaped, not physics-shaped
-3. Strengthened "structurally partial" claim with precise completeness vocabulary
-4. Added 3 new references: Adan et al. (2023), Pusey et al. (2012), Kochen & Specker (1967)
-5. Added completeness research to related_articles
-
-Based on research in completeness-in-physics-epr-bell-2026-03-14.md.
-Key improvement: The article now explicitly names which senses of completeness QM satisfies and which it fails, preventing the equivocation that has plagued the EPR debate for decades.
-This log should be removed after human review.
--->

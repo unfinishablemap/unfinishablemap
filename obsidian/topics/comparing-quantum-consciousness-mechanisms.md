@@ -199,19 +199,3 @@ The Map's position: *some* quantum consciousness mechanism exists, constrained b
 1. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
-
-<!-- AI REFINEMENT LOG - 2026-03-31
-Changes made:
-- Reclassified phenomenological fit from scientific to philosophical criterion with explicit caveat about differing epistemic weight
-- Replaced "predicts" with "accommodates" throughout Stapp section; added note that Stapp began from James's phenomenology (accommodation, not novel prediction)
-- Added acknowledgment that classical neuroscience explains attention phenomenology without quantum supplementation
-- Fixed asymmetric treatment: CSL-IIT phenomenological fit downgraded from "Framework-dependent" to "Weak" to match Fisher's equivalent weakness
-- Replaced Luppi & Adlam 2012 arXiv preprint with d'Espagnat 1976 and Schlosshauer 2004 (peer-reviewed standard sources for improper mixtures)
-- Fixed editorial language: "Four serious proposals" → "Four proposals"; "No single mechanism suffices" → "No single mechanism currently addresses all criteria"
-- Updated summary tables to reflect all changes
-
-Based on pessimistic review findings (pessimistic-2026-03-31.md).
-Key improvements: reduced pro-tenet bias, improved epistemic honesty about accommodation vs prediction, replaced arXiv citation with peer-reviewed sources.
-
-This log should be removed after human review.
--->

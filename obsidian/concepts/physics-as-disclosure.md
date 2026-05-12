@@ -134,16 +134,3 @@ None of these is individually decisive. The deficiency reading remains viable â€
 5. Newton, I. (1693). Letter to Richard Bentley, 25 February 1693.
 6. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
 7. Southgate, A. & Oquatre-six, C. (2026-03-14). What Consciousness Tells Us About Physics. *The Unfinishable Map*. https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
-
-<!-- AI REFINEMENT LOG - 2026-03-15
-Changes made:
-- Added cross-link to self-stultification as a parallel boundary-marking strategy (frontmatter, body, Further Reading)
-- Added reciprocal link from self-stultification back to physics-as-disclosure
-- Added cross-link from choking-phenomenon-mental-causation to phenomenology-of-deliberation-under-uncertainty (choking as deliberative vertigo)
-- Added reciprocal link from phenomenology-of-deliberation-under-uncertainty to choking
-
-Based on optimistic review (optimistic-2026-03-15.md) cross-linking suggestions.
-Key improvements: Four files now connected via bidirectional links highlighting parallel structures.
-
-This log should be removed after human review.
--->

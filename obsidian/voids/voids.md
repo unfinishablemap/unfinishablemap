@@ -169,7 +169,6 @@ A maintenance note on this index. Five of the entries below—[[agency-void|the 
 - [[epistemological-limits-occams-razor|The Parsimony Void]] — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle
 - [[selective-correction-and-reconstruction-paradox|The Reconstruction Paradox]] — Why the brain silently corrects some errors but delivers others
 
-
 ### Comparative Perspectives
 
 - [[biological-cognitive-closure|Evolved Cognitive Limits]] — Cross-cultural evidence for shared limits
@@ -227,4 +226,3 @@ This log should be removed after human review.
 
 Prior log (2026-04-28 18:52 UTC refine-draft: suspension-void entry; stale-reference cleanup of archived cognates) superseded by this entry.
 -->
-

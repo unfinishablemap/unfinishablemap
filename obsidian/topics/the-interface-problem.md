@@ -244,4 +244,3 @@ Pre-Keplerian framing, Tycho-analogue listing, Lakatosian concession, "currently
 
 This log should be removed after human review.
 -->
-

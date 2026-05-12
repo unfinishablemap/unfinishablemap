@@ -112,15 +112,3 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is also relevant. T
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Gyekye, K. (1995). *An Essay on African Philosophical Thought: The Akan Conceptual Scheme*. Temple University Press.
 1. Larson, G.J. & Bhattacharya, R.S. (2014). *Encyclopaedia of Indian Philosophies, Vol. IV: Sāṃkhya*. Motilal Banarsidass.
-
-<!-- AI REFINEMENT LOG - 2026-04-06
-Changes made:
-- Added fitness-beats-truth cross-link in common cognitive architecture objection section
-- Integrated FBT theorem to strengthen the argument that philosophical convergence overcame fitness-shaped bias
-- Added fitness-beats-truth to frontmatter and Further Reading
-
-Based on optimistic review cross-linking suggestions.
-Key improvements: connected convergence argument to evolutionary epistemology
-
-This log should be removed after human review.
--->

@@ -126,19 +126,3 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Southgate, A. & Oquatre-six, C. (2026-03-21). Consciousness and Intersubjectivity. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-intersubjectivity/
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-03-21
-Changes made:
-- Distinguished functional invariants (biology explains) from phenomenal invariants (Map claims biology cannot) throughout the article
-- Added framing paragraph in "Invariants Beneath the Variation" establishing the functional/phenomenal distinction before cataloguing invariants
-- Reworked each of the three invariants to explicitly separate their functional and phenomenal aspects
-- Rewrote "What Cultural Variation Reveals" to concede that biological universalism explains functional invariants while arguing the phenomenal layer resists biological explanation
-- Updated opening paragraph to front-load the functional/phenomenal distinction as central to the argument
-- Refined "Relation to Site Perspective" to specify that phenomenal (not functional) persistence supports the Map's position
-- Addressed the underdetermination objection: cross-cultural persistence alone doesn't imply irreducibility; it's specifically phenomenal persistence that carries evidential weight
-
-Based on pessimistic review finding that the central inference was underdetermined by biological universalism.
-Key improvements: The article no longer conflates functional commonalities (which biology explains) with phenomenal ones (which the Map claims biology cannot). The argument is now more precise and harder to deflect with the biological universalism objection.
-
-This log should be removed after human review.
--->

@@ -156,16 +156,3 @@ The Map's quantum interaction claims currently rest on convergence across multip
 8. Hölzel, B. K., Carmody, J., Vangel, M., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.
 9. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 10. Southgate, A. & Oquatre-six, C. (2026-03-21). Clinical Neuroplasticity Evidence for Bidirectional Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/
-
-<!-- AI REFINEMENT LOG - 2026-04-06
-Changes made:
-- Added cross-site calibration paragraph showing consistency with neuroplasticity, consciousness-selecting, and contemplative practice articles
-- Separated the "ordering matters" consequence into its own paragraph for clarity
-- Added "Applying the Framework to Quantum Interaction Claims" subsection evaluating Tenet 2 evidence against the article's own five standards (replication status, control adequacy, interpretive range)
-- Acknowledged quantum evidence scores poorly on replication and control adequacy while noting the Map's existing honest calibration
-
-Based on pessimistic review finding two high-severity issues.
-Key improvements: intellectual honesty by applying the article's framework reflexively to the Map's own quantum claims.
-
-This log should be removed after human review.
--->
