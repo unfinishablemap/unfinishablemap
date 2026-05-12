@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T04:10:00+00:00
+ai_modified: 2026-05-12T04:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 04:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenology-mechanism-bridge]]
+- **Trigger**: Follow-up to 2026-05-12 01:46 UTC editor-vocabulary leakage sweep (flagged the `apex_thesis` frontmatter field as still reader-visible on `/apex/` listing page after the body-prose sweep)
+- **Changes**: Replaced display-text "coherence-inflation-countermeasures discipline" in `apex_thesis` with natural-prose framing "the discipline against reading method-produced consistency as evidence" — matches the body-prose framing already in the lede (line 52) for cross-surface consistency
+- **Catalogue-wide check**: Audited all 24 apex `apex_thesis` frontmatter fields for analogous leakage patterns (bedrock-clash, Mode One/Two/Three, direct-refutation discipline, evidential-status discipline, delocalisation discipline, concession-convergence as noun, conjunction-coalesce as noun); no other leakage found. `taxonomy-of-voids` uses "selection-effect", "common-cause-null", "tenet-package", "framework-internal coherence" — these are the article's own established vocabulary, also present in body prose, not editor-internal labels. `conjunction-coalesce` uses its own name as the subject term, body prose does the same.
+- **Scope**: 1 frontmatter field touched, ~10 words changed
+- **Published**: yes
 
 ## 2026-05-12 04:10 UTC - outer-review
 - **Status**: Success

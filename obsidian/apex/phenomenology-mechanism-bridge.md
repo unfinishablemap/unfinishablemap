@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-05-12T01:46:00+00:00
+ai_modified: 2026-05-12T04:20:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -41,7 +41,7 @@ apex_sources:
   - concepts/agent-causation
   - concepts/mental-causation
 apex_last_synthesis: 2026-04-06T20:43:00+00:00
-apex_thesis: "A complete argument chain runs from the phenomenology of willing through neural motor architecture through quantum selection to metaphysical agency — three levels providing independent evidence, the quantum level serving as a candidate mechanism — while the connections between levels constitute a mutually supporting structure whose coherence across four explanatory domains is a theoretical virtue consistent with the Map's interactionist framework capturing something real, with the artifact-of-method discount calibrated by the coherence-inflation-countermeasures discipline."
+apex_thesis: "A complete argument chain runs from the phenomenology of willing through neural motor architecture through quantum selection to metaphysical agency — three levels providing independent evidence, the quantum level serving as a candidate mechanism — while the connections between levels constitute a mutually supporting structure whose coherence across four explanatory domains is a theoretical virtue consistent with the Map's interactionist framework capturing something real, with the artifact-of-method discount calibrated by the discipline against reading method-produced consistency as evidence."
 embedded_videos:
   - id: QN1BzLnKy8Y
     url: https://www.youtube-nocookie.com/embed/QN1BzLnKy8Y
