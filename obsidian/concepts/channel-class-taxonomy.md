@@ -4,7 +4,8 @@ description: "A Shannon-channel taxonomy of mind-physical coupling: five classes
 created: 2026-05-12
 modified: 2026-05-12
 human_modified:
-ai_modified: 2026-05-12T06:30:00+00:00
+ai_modified: 2026-05-12T17:58:00+00:00
+last_deep_review: 2026-05-12T17:58:00+00:00
 draft: false
 topics:
   - "[[selection-only-mind-influence]]"
@@ -109,7 +110,13 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 ## Cross-Class Invariants
 
-Three structural points hold across the taxonomy. The *content-confinement* bound — that the mind-side input alphabet is bounded above by the physical-side output alphabet — is strict for selection-only and probability-bias, partly relaxed for basis-choice (mind can register basis-level distinctions not visible in any single outcome), and relaxed or removed for candidate-generation; the bound's strictness is a graded measure of how receptive the channel is versus how generative. The *signed information rate* per trial is the key empirical-detectability variable: selection-only is pinned to zero in the long run by Born preservation, probability-bias scales as *ε²*/(2 ln 2) bits per trial, basis-choice and candidate-generation can carry higher rates, and energy-injection is the easiest in principle to detect — which is why a century of precision physics has produced no evidence of it. Finally, every class must respect [[born-rule-and-the-consciousness-interface|second-order interference]] (Sorkin 1994) and Hilbert-space inner-product geometry (Pati 2026) for the candidate set it acts on; these constraints are class-independent.
+Three structural points hold across the taxonomy.
+
+The *content-confinement* bound — that the mind-side input alphabet is bounded above by the physical-side output alphabet — is strict for selection-only and probability-bias, partly relaxed for basis-choice (mind can register basis-level distinctions not visible in any single outcome), and relaxed or removed for candidate-generation. The bound's strictness is a graded measure of how receptive the channel is versus how generative, and it is the formal basis of the asymmetry catalogued in [[consciousness-bandwidth-architecture]].
+
+The *signed information rate* per trial is a key empirical-detectability variable: selection-only is pinned to zero in the long run by Born preservation, probability-bias scales as *ε²*/(2 ln 2) bits per trial, basis-choice and candidate-generation can carry higher rates, and energy-injection is the easiest in principle to detect — which is why a century of precision physics has produced no evidence of it.
+
+Finally, every class must respect [[born-rule-and-the-consciousness-interface|second-order interference]] (Sorkin 1994) and Hilbert-space inner-product geometry (Pati 2026) for the candidate set it acts on; these constraints are class-independent.
 
 ## Relation to Site Perspective
 
@@ -133,7 +140,7 @@ The Map treats the class hierarchy as a *menu, not a verdict*. Which class is co
 - [[born-rule-and-the-consciousness-interface]] — Why Born preservation is the key constraint
 - [[interactionist-dualism]] — The metaphysical framework the taxonomy formalises
 - [[interface-threshold]] — Architectural conditions for any class to operate
-- [[asymmetric-bandwidth-consciousness]] — Bandwidth implications across classes
+- [[consciousness-bandwidth-architecture]] — Bandwidth implications across classes
 - [[possibility-probability-slippage]] — Why coherence with tenets is not evidence for a class
 
 ## References
