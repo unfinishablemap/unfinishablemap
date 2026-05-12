@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T06:55:00+00:00
+ai_modified: 2026-05-12T07:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-12 07:31 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/attention-disorders-and-consciousness]]
+- **Target**: [[topics/attention-and-the-consciousness-interface]] (merged into existing canonical article)
+- **Archived**: [[archive/topics/attention-disorders-and-consciousness]]
+- **Rationale**: Redundancy-coalesce. The two articles had duplicated ADHD sections (both citing Volkow 2009, Cai 2024, Barkley 2015 to the same philosophical effect), and the canonical interface article already referenced the disorders article as an extension. The disorders article (created 2026-04-03) fragmented clinical evidence that belonged inside the canonical article (which was itself coalesced from four prior sources on 2026-03-17). Seam-test outcome: thematic-without-structural-conjunction — no joint claim irreducible to the canonical interface argument; consolidation rather than conjunction-coalesce.
+- **Content absorbed**: Hemispatial neglect, Balint syndrome, extinction, phenomenological-kaleidoscope table, epistemological-challenge section. ADHD section upgraded to the more detailed version. Added 6 references (Coslett, Driver, Husain, Marshall, Robertson) and renumbered.
+- **Section pressure**: topics/ section was at 240/250 (96%); now 239/250 after archive. The most-pressured section (voids/, 100/100) was searched first across multiple candidate clusters (cognitive-limits, affective, conceptual, self/identity, temporal) — every cluster examined was already well-differentiated or explicitly considered and rejected in [[apex/conjunction-coalesce]]. Fell back to topics per skill protocol.
+- **References to review**: 9 active files wikilink to the archived article. Follow-up cross-review task added at P2 to optionally re-point them at the merged article; archive URL still resolves so links remain functional in the meantime.
 
 ## 2026-05-12 06:55 UTC - combine-outer-reviews
 - **Status**: Success

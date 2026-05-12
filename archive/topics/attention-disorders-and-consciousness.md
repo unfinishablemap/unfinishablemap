@@ -33,6 +33,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-03
 last_curated:
 last_deep_review: 2026-04-04T09:38:00+00:00
+archived: true
+archived_date: 2026-05-12T07:31:00+00:00
+superseded_by: "/topics/attention-and-the-consciousness-interface/"
+archive_reason: "Coalesced into Attention and the Consciousness Interface — the disorders content (ADHD, neglect, Balint, extinction, the kaleidoscope table, and the epistemological challenge) is now part of the canonical interface article's Clinical Evidence section."
+original_path: "/topics/attention-disorders-and-consciousness/"
 ---
 
 Attention disorders are natural experiments in consciousness. Each disorder disrupts a specific component of the attentional system while leaving others intact, and the resulting pattern of phenomenological change reveals an architecture that no single intact mind could disclose. The Unfinishable Map argues that attention is the [[attention-as-interface|interface]] through which consciousness engages with the brain—not consciousness itself. If this is correct, attention disorders should produce characteristic signatures: impaired *engagement* with specific content domains while consciousness persists behind the degraded channel. The clinical evidence across ADHD, hemispatial neglect, Balint syndrome, and extinction fits this prediction better than competing accounts, while exposing a deep epistemological challenge that neither materialist nor dualist frameworks fully resolve.
