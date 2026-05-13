@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T13:51:00+00:00
+ai_modified: 2026-05-13T14:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 14:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source**: outer-review (Claude Opus 4.7 2026-05-12 — R6: fragmentation section's unity-via-non-temporality inference rests on an unsupported parenthetical "(because unity-threatening division requires temporal structure — one part before or after another)"; reviewer flagged it as plainly false (spatial disunity is paradigmatic and requires no temporal structure) and noted the radio analogy alone cannot bear the weight)
+- **Changes**: ~430 words touched in the closing four paragraphs of "What Fragmented Consciousness Reveals". The unsupported parenthetical is removed. The radio analogy is kept but argumentatively demoted to "illustrates the shape of the reply without bearing the argumentative weight." A two-paragraph in-framework structural argument is built using Bayne's *The Unity of Consciousness* (2010): Bayne's three-way distinction (subject / phenomenal / representational unity) is named; the Unity Thesis is stated; spatial differentiation within a phenomenal field is identified inside Bayne's framework as *not* unity-threatening (left and right regions of a visual field are co-conscious parts of one whole), addressing the reviewer's plain-falsity flag head-on. The structural argument: phenomenally non-co-conscious streams require either two subjects (Bayne's subject-unity violated) or a violation of the Unity Thesis. The Map's singular absolute subjectivity blocks the first horn (subject-splitting has no clear sense in the non-temporal mode); Bayne's framework blocks the second. The Madhyamaka residue from the earlier section is carried forward explicitly rather than absorbed. The closing paragraph routes the argument back into the post-2017 empirical data: Pinto et al. (2017) and the 2025 layered-unity model are preserved; Bayne's switch model is preserved as a live rival to honour the empirical underdetermination; the preservation-of-unity prediction is now substantive (a consequence of the framework engagement) rather than stipulative.
+- **Engagement**: with Bayne (sympathetic, in-framework) — Mode One (in-framework structural argument). Bayne's framework is borrowed to argue the unity claim rather than refuted; the move derives the preservation-of-unity prediction inside Bayne's own taxonomy and Unity Thesis. Bayne's switch model is preserved as a live rival to honour empirical underdetermination; the engagement does not claim refutation of Bayne, only that the non-temporal-ground reading is a substantive prediction inside Bayne's vocabulary rather than a free-floating assertion. Residue with Madhyamaka: Mode Three (framework-boundary marking) — the singular-subject reading the structural argument requires is already contested by the Madhyamaka section above; the closing sentence of the structural-argument paragraph carries that contested status forward rather than absorbing it.
+- **Published**: yes
 
 ## 2026-05-13 13:51 UTC - expand-topic
 - **Status**: Success

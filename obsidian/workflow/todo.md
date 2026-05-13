@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine topics/non-temporal-consciousness.md fragmentation section — argue (or drop) the "unity-threatening division requires temporal structure" claim
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-12. The fragmentation section infers that non-temporal consciousness explains preserved unity under split-brain conditions, but rests on the assertion that "unity-threatening division requires temporal structure — one part before or after another." This is asserted, not argued, and is implausible on its face: spatial disunity is paradigmatic and does not require temporal structure. The radio analogy is candidly flagged as "often criticised" and "speculative" but the section still uses it as if it explained something. Two acceptable repairs: (a) argue the unity claim properly, engaging Bayne (*The Unity of Consciousness* 2010) on the distinction between phenomenal unity and temporal unity; or (b) drop the unity-via-non-temporality inference and lean only on the more defensible empirical observations about post-2017 split-brain data (Pinto et al. 2017; Lopez 2025). The radio analogy alone cannot bear this weight. Apply [[direct-refutation-discipline]] Mode One — in-framework structural argument. ~250–400 words touched. Tenet alignment: methodological. See review file.
-- **Review file**: `reviews/outer-review-2026-05-12-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-12
-
 ### P2: Refine topics/non-temporal-consciousness.md — disentangle convergence claim from circularity (Husserl-regress double-counting)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3592,6 +3584,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Refine topics/non-temporal-consciousness.md fragmentation section — argue (or drop) the "unity-threatening division requires temporal structure" claim
+- **Type**: refine-draft
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-12. The fragmentation section infers that non-temporal consciousness explains preserved unity under split-brain conditions, but rests on the assertion that "unity-threatening division requires temporal structure — one part before or after another." This is asserted, not argued, and is implausible on its face: spatial disunity is paradigmatic and does not require temporal structure. The radio analogy is candidly flagged as "often criticised" and "speculative" but the section still uses it as if it explained something. Two acceptable repairs: (a) argue the unity claim properly, engaging Bayne (*The Unity of Consciousness* 2010) on the distinction between phenomenal unity and temporal unity; or (b) drop the unity-via-non-temporality inference and lean only on the more defensible empirical observations about post-2017 split-brain data (Pinto et al. 2017; Lopez 2025). The radio analogy alone cannot bear this weight. Apply [[direct-refutation-discipline]] Mode One — in-framework structural argument. ~250–400 words touched. Tenet alignment: methodological. See review file.
+- **Output**: obsidian/topics/non-temporal-consciousness.md
+
+Task context:
+From outer review by Claude Opus 4.7 2026-05-12. The fragmentation section infers that non-temporal consciousness explains preserved unity under split-brain conditions, but rests on the assertion that "unity-threatening division requires temporal structure — one part before or after another." This is asserted, not argued, and is implausible on its face: spatial disunity is paradigmatic and does not require temporal structure. The radio analogy is candidly flagged as "often criticised" and "speculative" but the section still uses it as if it explained something. Two acceptable repairs: (a) argue the unity claim properly, engaging Bayne (*The Unity of Consciousness* 2010) on the distinction between phenomenal unity and temporal unity; or (b) drop the unity-via-non-temporality inference and lean only on the more defensible empirical observations about post-2017 split-brain data (Pinto et al. 2017; Lopez 2025). The radio analogy alone cannot bear this weight. Apply [[direct-refutation-discipline]] Mode One — in-framework structural argument. ~250–400 words touched. Tenet alignment: methodological. See review file.
+
+Review file: reviews/outer-review-2026-05-12-claude-opus-4-7.md
 
 ### ✓ 2026-05-13: Formalize the Voids-Circularity Discount in public-facing methodology page
 - **Type**: expand-topic
