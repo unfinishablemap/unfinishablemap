@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T20:22:00+00:00
+ai_modified: 2026-05-13T20:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 20:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[project/direct-refutation-discipline]]
+- **Source**: outer review by Gemini 2.5 Pro 2026-05-10 (review file: [[reviews/outer-review-2026-05-10-gemini-2-5-pro]])
+- **Changes**: Added "Mode Four: Empirical Underdetermination" as a fourth honest-discharge mode for cases where in-framework refutation is unavailable, the disagreement is not bedrock, but the available empirical evidence cannot adjudicate between rival positions (functional neuroimaging compatible with both Michaelian's simulationism and the Map's interactionist-dualist reading; quantum-measurement mechanisms with no decisive empirical signal yet). Section heading "Three Reasoning Modes" → "Four Reasoning Modes"; intro paragraph and consolidating paragraph updated; Decision Heuristic gained a fourth question; Implementation gained a fourth bullet and a fourth-mode sentence in the editor-action paragraph; Further Reading and References extended with the originating Gemini review. Reciprocal mention added to [[project/evidential-status-discipline]]'s *Honest Limitation* section, naming Mode Four as the shared fourth honest-discharge mode that extends the constrain-vs-establish distinction at the framework-boundary register and pairs with this discipline's diagnostic test by giving it an alternative residue to bedrock. Reference 13 added to evidential-status-discipline for the same Gemini review.
+- **Engagement classification**: not applicable — methodology extension, not an engagement with a named opponent
+- **Word counts**: ~330 words added to direct-refutation-discipline.md (Mode Four section ~240 words within the 150-250 envelope; surrounding integration ~90 words); ~140 words added to evidential-status-discipline.md
+- **Published**: yes
 
 ## 2026-05-13 20:22 UTC - coalesce
 - **Status**: Success

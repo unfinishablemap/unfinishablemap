@@ -4,7 +4,7 @@ description: "When an opponent's argument is incompatible with the Map's tenets,
 created: 2026-05-04
 modified: 2026-05-04
 human_modified: null
-ai_modified: 2026-05-04T15:24:00+00:00
+ai_modified: 2026-05-13T20:51:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -14,6 +14,7 @@ related_articles:
   - "[[bedrock-clash-vs-absorption]]"
   - "[[coherence-inflation-countermeasures]]"
   - "[[framework-stage-calibration]]"
+  - "[[evidential-status-discipline]]"
   - "[[closed-loop-opportunity-execution]]"
   - "[[testability-ledger]]"
   - "[[writing-style]]"
@@ -21,6 +22,7 @@ related_articles:
   - "[[reviews/outer-review-2026-05-03-chatgpt-5-5-pro]]"
   - "[[reviews/outer-review-2026-05-04-chatgpt-5-5-pro]]"
   - "[[reviews/outer-review-2026-05-04-claude-opus-4-7]]"
+  - "[[reviews/outer-review-2026-05-10-gemini-2-5-pro]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -28,7 +30,7 @@ ai_generated_date: 2026-05-04
 last_curated: null
 ---
 
-When the Map disagrees with a major opponent — Duch's classical-neurodynamical reduction, the standard physicalist's denial of nematode consciousness, illusionism's denial of the phenomenal — the disagreement must not collapse into the silent move *the tenets exclude this position, therefore the position is refuted*. Tenet-incompatibility is a framework boundary, not a refutation. A position that is incompatible with the Map's commitments may still be defensible inside its own; saying so accurately is part of what makes the Map an honest catalogue rather than a tenet-protected echo chamber. The direct-refutation discipline names this distinction and specifies when refutation must be attempted inside the opponent's framework, when tenet-perimeter rejection is the appropriate move, and when both should appear together with their roles labelled.
+When the Map disagrees with a major opponent — Duch's classical-neurodynamical reduction, the standard physicalist's denial of nematode consciousness, illusionism's denial of the phenomenal — the disagreement must not collapse into the silent move *the tenets exclude this position, therefore the position is refuted*. Tenet-incompatibility is a framework boundary, not a refutation. A position that is incompatible with the Map's commitments may still be defensible inside its own; saying so accurately is part of what makes the Map an honest catalogue rather than a tenet-protected echo chamber. The direct-refutation discipline names this distinction and specifies when refutation must be attempted inside the opponent's framework, when tenet-perimeter rejection is the appropriate move, when an empirical-underdetermination residue must be declared because no current evidence can adjudicate, and when these should appear together with their roles labelled.
 
 The discipline is the fifth named methodological pattern in the Map's editorial system, joining [[closed-loop-opportunity-execution|cycle-level closed-loop opportunity execution]], the article-level [[coalesce-condense-apex-stability|coalesce-condense-apex-stability triple-discipline]], the within-article [[bedrock-clash-vs-absorption|absorb-or-clash discipline]], and the framework-level [[framework-stage-calibration|framework-stage calibration]]. The four prior disciplines cover loop closure, structural refactoring, rival-position handling, and stage-calibration; the present discipline covers the *reasoning mode* employed when the catalogue replies to an opponent — whether the reply earns the disagreement inside the opponent's frame or merely asserts the framework's perimeter.
 
@@ -42,11 +44,11 @@ Three outer reviews surfaced the same higher-order weakness inside 48 hours, fro
 
 The convergence is itself the meta-finding. Three reviewers from different epistemic starting points (one finding evidence-calibration drift, one finding adversarial-framing-without-refutation, one structurally predicting the same pattern from architecture alone) reach the same diagnosis. This is the failure mode the discipline names: *tenet-protected reasoning where direct refutation is possible*.
 
-## Three Reasoning Modes (Editor's Diagnostic Vocabulary)
+## Four Reasoning Modes (Editor's Diagnostic Vocabulary)
 
 This vocabulary is for the editor and the changelog. It is not for the article body. Articles engage opponents in natural journal-quality prose; the labels below help the editor decide *what kind of fix is needed* and let future reviewers audit which engagement made which kind of move. They do not appear in the prose readers see. (See "How These Modes Appear in Articles" below for what the article should look like.)
 
-The discipline distinguishes three modes the catalogue uses when replying to an opponent. Two earn the disagreement; the third declares the framework boundary honestly. All three are legitimate; the failure mode is *substitution* — letting one mode stand in for another it cannot do the work of.
+The discipline distinguishes four modes the catalogue uses when replying to an opponent. Two earn the disagreement; the third declares the framework boundary honestly; the fourth records empirical underdetermination when neither in-framework refutation nor bedrock-marking is honest. All four are legitimate; the failure mode is *substitution* — letting one mode stand in for another it cannot do the work of.
 
 ### Mode One: Showing the position is defective on its own terms
 
@@ -62,7 +64,13 @@ This mode is what makes the [[hard-problem-of-consciousness|hard problem]] the k
 
 The article notes that the opponent's position is incompatible with a Map commitment and explains the disagreement on those terms. This is honest *boundary-marking*: the Map declares its tenets explicitly, and any position whose adoption would falsify Tenet 1 (dualism), Tenet 2 (minimal quantum interaction), Tenet 3 (bidirectional interaction), Tenet 4 (no many worlds), or Tenet 5 (Occam's limits) is in disagreement with the framework. Naming the disagreement is fine; presenting the boundary as if it were independent refutation is not.
 
-The three modes are not interchangeable. Boundary-marking is appropriate when the disagreement is genuinely bedrock — when the opponent's view is incompatible with the Map's commitments and no internal-to-the-opponent argument is available. Mode One is required when an internal-to-the-opponent argument *is* available but the catalogue has substituted boundary-marking for it. Mode Two is required when the opponent's framework relies on a foundational move it has not earned by its own standards — the failure is not (yet) of internal contradiction but of the framework helping itself to its conclusion. Many disagreements warrant a sequence: the unsupported-move identification opens, the direct argument deepens, the boundary declares the residue.
+### Mode Four: Empirical underdetermination
+
+When in-framework refutation is unavailable, the framework's foundational moves are not visibly unsupported by its own standards, and the disagreement is not bedrock at the framework boundary, the reply may run into a fourth situation: the available empirical evidence cannot adjudicate between the rival positions. Functional neuroimaging compatible with both Michaelian's simulationist account of episodic memory and the Map's interactionist-dualist reading; quantum-measurement mechanisms with no decisive empirical signal yet against deterministic, collapse-based, or pilot-wave interpretations; comparative-cognition findings that survive substitution among attentional-schema, higher-order, and integrated-information readings without breaking — these are dialectically real disputes whose discriminating data are not yet in.
+
+Mode Four is the honest discharge for these cases. The article notes that the dispute is open between rival positions, identifies what findings would in principle adjudicate, and declines to claim the Map's framework has won. It is not bedrock-marking — the rival is not foreclosed by tenet-incompatibility — and it is not in-framework refutation — the in-framework argument is not yet available. The mode is required when forcing the article into Mode One or Mode Three would misrepresent the dialectical situation: presenting an attempted in-framework refutation as decisive when it is not, or labelling the residue as bedrock when it is contingently undecided pending evidence neither side can yet supply. The mode connects to [[framework-stage-calibration|framework-stage calibration]] — these cases are typically stage-appropriate residues at the framework's current developmental stage — and to [[evidential-status-discipline|evidential-status discipline]]'s *constrain*-vs-*establish* distinction: the available evidence *constrains* both rival readings without *establishing* either.
+
+The four modes are not interchangeable. Boundary-marking is appropriate when the disagreement is genuinely bedrock — when the opponent's view is incompatible with the Map's commitments and no internal-to-the-opponent argument is available. Mode One is required when an internal-to-the-opponent argument *is* available but the catalogue has substituted boundary-marking for it. Mode Two is required when the opponent's framework relies on a foundational move it has not earned by its own standards — the failure is not (yet) of internal contradiction but of the framework helping itself to its conclusion. Mode Four is required when the disagreement is neither bedrock nor in-framework-refutable on present evidence, and the article would otherwise be tempted to disguise the underdetermination as a closed argument. Many disagreements warrant a sequence: the unsupported-move identification opens, the direct argument deepens, the boundary declares the residue — and where empirical adjudication is currently impossible, Mode Four marks the contingent residue that may close as evidence accumulates.
 
 ## Categories That Tend to Warrant Mode One (defective on its own terms)
 
@@ -101,11 +109,12 @@ The discipline is not "always attempt an in-framework refutation"; it is "do not
 
 ## The Decision Heuristic
 
-Three questions select the mode for a given opponent, asked in order:
+Four questions select the mode for a given opponent, asked in order:
 
 1. **Has the framework helped itself to a foundational move without paying for it by its own standards?** If yes, Mode Two applies. The reply names the unsupported move and the standard the framework's own commitments demand for it.
 2. **Can the opponent accept the criticism without first abandoning their commitments?** If yes, Mode One is feasible and required. Replacing it with boundary-only marking makes the reply strictly weaker than it could be and produces the *tenet-protected* pattern the outer reviews flagged.
 3. **Is the disagreement bedrock at the framework boundary?** If yes after exhausting the first two, Mode Three is the honest residue. The boundary should be marked explicitly so future reviewers do not treat it as a defeated argument.
+4. **Is the disagreement not bedrock, but currently underdetermined by the available empirical evidence?** If yes — a tenet-accepting and a tenet-rejecting reviewer would both flag the question as open pending data neither has — Mode Four is the honest residue. The article identifies what findings would adjudicate and refrains from claiming either side has won.
 
 A single opponent can warrant several modes in sequence. A typical full engagement opens with the foundational-move identification (here is the move you have not earned), proceeds to the in-framework argument where one is available (and here is why your own commitments produce a tension), and closes with framework-boundary marking for the residue (the remainder is incompatibility with our tenets, which we declare rather than derive). The skills record which mode applies to which engagement in the changelog, even when the engagement combines modes — but the article's prose flows naturally between them rather than labelling each move.
 
@@ -151,14 +160,15 @@ The reader of the right-column versions sees journal-quality philosophical engag
 
 The `/refine-draft`, `/deep-review`, and `/pessimistic-review` skills classify each named opponent's position before applying any reply edit. The classification is **for the editor's diagnostic process and the changelog record only** — it never appears in the article prose.
 
-In their internal diagnosis, the skills identify which of the three modes the engagement should claim:
+In their internal diagnosis, the skills identify which of the four modes the engagement should claim:
 
 - **Mode One** (defective on its own terms) — internal-to-the-opponent argument available; reply must attempt it
 - **Mode Two** (unsupported foundational move) — framework relies on a foundational move it has not earned by its own standards; reply names the move and the unmet standard
 - **Mode Three** (framework-boundary marking) — disagreement is at the framework boundary; reply notes the disagreement honestly without claiming to have refuted the opponent inside their own framework
+- **Mode Four** (empirical underdetermination) — disagreement is open but neither side has the discriminating data; reply identifies what findings would adjudicate and refrains from claiming either framework has won
 - **Mixed** — multiple modes apply; the prose moves through them in sequence without labelling each move
 
-For Mode One, the editor attempts to earn the disagreement inside the opponent's framework; failed attempts revise the article to acknowledge that the disagreement is closer to bedrock than first appeared. For Mode Two, the editor names the standard the opponent's own framework endorses (mechanism, evidence, justification) and the specific move the framework has helped itself to without satisfying that standard — never substituting "we exclude this by tenet" for "you have not earned this by your own commitments". For Mode Three, the boundary is noted honestly; the article does not pretend boundary-marking is refutation.
+For Mode One, the editor attempts to earn the disagreement inside the opponent's framework; failed attempts revise the article to acknowledge that the disagreement is closer to bedrock than first appeared. For Mode Two, the editor names the standard the opponent's own framework endorses (mechanism, evidence, justification) and the specific move the framework has helped itself to without satisfying that standard — never substituting "we exclude this by tenet" for "you have not earned this by your own commitments". For Mode Three, the boundary is noted honestly; the article does not pretend boundary-marking is refutation. For Mode Four, the editor identifies the discriminating evidence that is currently unavailable and lets the article name the dispute as open rather than absorbing it into either Mode One (premature refutation) or Mode Three (premature bedrock-marking).
 
 The classification is recorded in the skill's changelog entry — *"engagement with [opponent]: Mode N; [one-sentence justification]"* — so future reviewers can audit which engagement made which kind of move. The article body itself contains none of the editor vocabulary.
 
@@ -215,6 +225,7 @@ Beyond tenet alignment, the discipline feeds back into [[coherence-inflation-cou
 
 - [[bedrock-clash-vs-absorption]] — sister discipline at the within-article level: rival-position handling when an objection should be preserved as a clash subsection rather than absorbed
 - [[framework-stage-calibration]] — sister discipline at the framework level: how the catalogue characterises its own developmental stage to avoid stage-mismatched analogies
+- [[evidential-status-discipline]] — sister discipline at the calibration layer: the *constrain*-vs-*establish* distinction Mode Four builds on, and the five-tier scale the editor uses when assessing whether the empirical evidence underdetermines the philosophical conclusion
 - [[closed-loop-opportunity-execution]] — sister discipline at the cycle level: how review-recommendations close into executed-and-reviewed content within a bounded window
 - [[coherence-inflation-countermeasures]] — the system-level guards that direct-refutation discipline complements; perimeter-substitution is the inflation vector the existing countermeasures do not catch
 - [[testability-ledger]] — what the framework treats as decisive disconfirmation; the ledger structure presupposes the direct-refutation mode at the framework's empirical edges
@@ -222,6 +233,7 @@ Beyond tenet alignment, the discipline feeds back into [[coherence-inflation-cou
 - [[reviews/outer-review-2026-05-03-chatgpt-5-5-pro]] — the canonical demonstration of evidence-grade slippage and the originating source for the five-tier ladder
 - [[reviews/outer-review-2026-05-04-chatgpt-5-5-pro]] — the canonical demonstration of perimeter-substitution in the Duch integration
 - [[reviews/outer-review-2026-05-04-claude-opus-4-7]] — the third convergent finding; structurally predicted the failure mode from architectural inspection alone
+- [[reviews/outer-review-2026-05-10-gemini-2-5-pro]] — the originating recommendation for Mode Four (empirical underdetermination), proposed in the Deep Research review of `phenomenology-of-memory-and-the-self`
 
 ## References
 
@@ -235,3 +247,28 @@ The direct-refutation discipline is documented through the catalogue's outer-rev
 6. Southgate, A. & Oquatre-sept, C. (2026-04-29). Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/bedrock-clash-vs-absorption/
 7. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/
 8. Southgate, A. & Oquatre-sept, C. (2026-04-29). Closed-Loop Opportunity Execution at Cycle Level. *The Unfinishable Map*. https://unfinishablemap.org/project/closed-loop-opportunity-execution/
+9. *The Unfinishable Map* outer review, 2026-05-10 (Gemini 2.5 Pro). Deep Research review of `phenomenology-of-memory-and-the-self`; proposes Mode Four (empirical underdetermination) as a fourth honest-discharge mode for cases where neither in-framework refutation nor bedrock-marking is honest because the available evidence cannot adjudicate (functional neuroimaging compatible with both Michaelian's simulationism and the Map's interactionist-dualist reading; quantum-measurement mechanisms with no decisive empirical signal yet). https://unfinishablemap.org/reviews/outer-review-2026-05-10-gemini-2-5-pro/
+
+<!-- AI REFINEMENT LOG - 2026-05-13 (Mode Four addition)
+Changes made:
+- Lead paragraph: extended the clause describing what the discipline specifies to add "when an empirical-underdetermination residue must be declared because no current evidence can adjudicate" alongside the existing in-framework-refutation, tenet-perimeter-rejection, and labelled-co-appearance specifications.
+- Section heading: "Three Reasoning Modes (Editor's Diagnostic Vocabulary)" → "Four Reasoning Modes (Editor's Diagnostic Vocabulary)".
+- Intro paragraph in that section: updated count from three to four and added clause noting the fourth mode records empirical underdetermination when neither in-framework refutation nor bedrock-marking is honest.
+- New subsection "Mode Four: Empirical underdetermination" inserted between Mode Three and the consolidating paragraph (~240 words). Defines the mode for cases where in-framework refutation is unavailable, foundational moves are not visibly unsupported, and the disagreement is not bedrock — but the available empirical evidence cannot adjudicate between the rival positions (functional neuroimaging compatible with both Michaelian and Map readings; quantum-measurement mechanisms with no decisive empirical signal yet; comparative-cognition findings that survive substitution among attentional-schema, higher-order, and integrated-information readings). Connects to framework-stage-calibration and evidential-status-discipline's constrain-vs-establish distinction.
+- Consolidating paragraph: updated "three modes" to "four modes"; added one sentence specifying when Mode Four is required; extended the closing "many disagreements warrant a sequence" sentence to mention the contingent Mode Four residue.
+- Decision Heuristic: updated count from three to four; added fourth question — "Is the disagreement not bedrock, but currently underdetermined by the available empirical evidence?" — with answer routing to Mode Four when both tenet-accepting and tenet-rejecting reviewers would flag the question as open pending data neither has.
+- Implementation: added Mode Four bullet to the four-modes list; added a sentence to the "For Mode One... For Mode Two... For Mode Three..." paragraph explaining the editor's Mode Four discharge (identify discriminating evidence unavailable; let the article name the dispute as open rather than absorbing into Mode One or Mode Three).
+- Frontmatter: added `[[evidential-status-discipline]]` and `[[reviews/outer-review-2026-05-10-gemini-2-5-pro]]` to related_articles; bumped ai_modified to 2026-05-13T20:51:00+00:00.
+- Further Reading: added evidential-status-discipline entry (sister discipline at the calibration layer; constrain-vs-establish distinction Mode Four builds on); added 2026-05-10 Gemini Deep Research review as the originating recommendation for Mode Four.
+- References: added entry 9 for the 2026-05-10 Gemini review with the Mode Four proposal context.
+
+Reciprocal change in `obsidian/project/evidential-status-discipline.md`: added a paragraph to the *Honest Limitation* section's discussion of how this discipline pairs with direct-refutation-discipline, naming Mode Four as the shared fourth honest-discharge mode and noting that it extends the constrain-vs-establish distinction at the framework-boundary register. Bumped ai_modified on that file too.
+
+Engagement classification: not applicable — this is a methodology extension, not an engagement with a named opponent. The Gemini reviewer's Mode Four recommendation is taken up at face value as a methodology proposal that complements the existing three-mode taxonomy by giving an honest discharge for empirical-underdetermination cases where the dialectical situation is "we don't have the data yet" rather than bedrock-incompatibility.
+
+Total additions: ~330 words to direct-refutation-discipline.md (Mode Four section ~240 words; decision heuristic +60 words; implementation +50 words; minor lead/intro/consolidating-paragraph updates ~30 words combined; Further Reading + References entries ~80 words). Reciprocal mention in evidential-status-discipline.md ~140 words. Within the "light scope" target — Mode Four section itself sits at ~240 words inside the 150-250 envelope; surrounding integration is the minimum needed for coherence.
+
+Based on outer review by Gemini 2.5 Pro 2026-05-10 (review file: `reviews/outer-review-2026-05-10-gemini-2-5-pro.md`). Convergent with the 2026-05 outer-review pattern of recommending the Map make its self-corrective machinery legible and the prior outer-review finding that confirmation-by-construction risk is best mitigated by explicit calibration markers.
+
+This log should be removed after human review.
+-->

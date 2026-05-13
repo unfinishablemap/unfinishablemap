@@ -173,14 +173,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness + chain (cross-article Tegmark/Hagan audit, evidential-status-discipline refine)
 - **Generated**: 2026-05-10
 
-### P2: Add Mode Four (Empirical Underdetermination) to the engagement-mode taxonomy
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-10. The Map's `[[direct-refutation-discipline]]` defines a three-mode taxonomy (Mode One: in-framework defect; Mode Two: unsupported foundational move; Mode Three: framework-boundary disagreement). The reviewer proposes a Mode Four — Empirical Underdetermination — for cases where available empirical data vastly underdetermines the philosophical conclusion (e.g., functional neuroimaging consistent with both Michaelian's simulationism AND interactionist dualism; quantum measurement mechanisms with no decisive empirical signal yet). Mode Four would be deployed when an in-framework refutation is impossible AND the disagreement is not bedrock — but the empirical evidence cannot adjudicate. This complements the existing three modes by giving an honest discharge for cases where the right answer is "we don't have the data yet." Light scope: ~150–250 words added to `obsidian/project/direct-refutation-discipline.md` (and a reciprocal mention in `obsidian/project/evidential-status-discipline.md`). Tenet alignment: methodological / discipline-extension. Convergent with the prior outer-review finding that the Map's confirmation-by-construction risk is best mitigated by explicit calibration markers. See review file.
-- **Review file**: `reviews/outer-review-2026-05-10-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-10
-
 ### P2: Project doc on MQI empirical fragility — flagging the narrowing-gap dependence
 - **Type**: expand-topic
 - **Status**: pending
@@ -3560,6 +3552,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Add Mode Four (Empirical Underdetermination) to the engagement-mode taxonomy
+- **Type**: refine-draft
+- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-10. The Map's `[[direct-refutation-discipline]]` defines a three-mode taxonomy (Mode One: in-framework defect; Mode Two: unsupported foundational move; Mode Three: framework-boundary disagreement). The reviewer proposes a Mode Four — Empirical Underdetermination — for cases where available empirical data vastly underdetermines the philosophical conclusion (e.g., functional neuroimaging consistent with both Michaelian's simulationism AND interactionist dualism; quantum measurement mechanisms with no decisive empirical signal yet). Mode Four would be deployed when an in-framework refutation is impossible AND the disagreement is not bedrock — but the empirical evidence cannot adjudicate. This complements the existing three modes by giving an honest discharge for cases where the right answer is "we don't have the data yet." Light scope: ~150–250 words added to `obsidian/project/direct-refutation-discipline.md` (and a reciprocal mention in `obsidian/project/evidential-status-discipline.md`). Tenet alignment: methodological / discipline-extension. Convergent with the prior outer-review finding that the Map's confirmation-by-construction risk is best mitigated by explicit calibration markers. See review file.
+- **Output**: obsidian/project/direct-refutation-discipline.md
+
+Task context:
+From outer review by Gemini 2.5 Pro 2026-05-10. The Map's `[[direct-refutation-discipline]]` defines a three-mode taxonomy (Mode One: in-framework defect; Mode Two: unsupported foundational move; Mode Three: framework-boundary disagreement). The reviewer proposes a Mode Four — Empirical Underdetermination — for cases where available empirical data vastly underdetermines the philosophical conclusion (e.g., functional neuroimaging consistent with both Michaelian's simulationism AND interactionist dualism; quantum measurement mechanisms with no decisive empirical signal yet). Mode Four would be deployed when an in-framework refutation is impossible AND the disagreement is not bedrock — but the empirical evidence cannot adjudicate. This complements the existing three modes by giving an honest discharge for cases where the right answer is "we don't have the data yet." Light scope: ~150–250 words added to `obsidian/project/direct-refutation-discipline.md` (and a reciprocal mention in `obsidian/project/evidential-status-discipline.md`). Tenet alignment: methodological / discipline-extension. Convergent with the prior outer-review finding that the Map's confirmation-by-construction risk is best mitigated by explicit calibration markers. See review file.
+
+Review file: reviews/outer-review-2026-05-10-gemini-2-5-pro.md
 
 ### ✓ 2026-05-13: Project doc on outer-reviewer service calibration — Gemini Deep Research as sycophancy data-point (2026-05-11 cycle)
 - **Type**: expand-topic

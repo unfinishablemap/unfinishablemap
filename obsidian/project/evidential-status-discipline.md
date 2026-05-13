@@ -4,7 +4,7 @@ description: "A tenet may remove a defeater, but it must not upgrade the evidenc
 created: 2026-05-05
 modified: 2026-05-10
 human_modified: null
-ai_modified: 2026-05-13T12:51:00+00:00
+ai_modified: 2026-05-13T20:51:00+00:00
 last_deep_review: 2026-05-10T18:31:00+00:00
 draft: false
 topics: []
@@ -237,6 +237,8 @@ The discipline is also misusable as cover. A reviewer can flag every strong clai
 
 The discipline pairs cleanly with [[direct-refutation-discipline|direct-refutation discipline]] but addresses a distinct failure mode. Direct-refutation governs how the catalogue argues *against opponents* (don't substitute tenet-perimeter rejection for direct argument when direct argument is feasible). Evidential-status governs how the catalogue labels *its own claims* (don't substitute tenet-coherence for evidence-grade when labelling empirical positions). Both disciplines were surfaced in the same outer-review cluster (2026-05-03 and 2026-05-04) and reflect the same broader pattern — *tenet-protected reasoning* — at different methodological layers.
 
+The two disciplines also share a fourth honest-discharge mode introduced in May 2026: [[direct-refutation-discipline|direct-refutation discipline]]'s **Mode Four — empirical underdetermination**, for cases where in-framework refutation is unavailable, the disagreement is not bedrock, but the available empirical evidence cannot adjudicate between the rival positions — functional neuroimaging compatible with both Michaelian's simulationist reading and the Map's interactionist-dualist account of episodic memory; quantum-measurement mechanisms with no decisive empirical signal yet against deterministic, collapse-based, or pilot-wave interpretations. Mode Four extends the *constrain*-vs-*establish* distinction this section opens at the framework-boundary register: the available evidence *constrains* both rival readings without *establishing* either, so neither side can yet claim the conclusion. The mode pairs with this discipline's diagnostic test by giving it an alternative residue to bedrock — the question *"would a tenet-accepting reviewer still flag this?"* can be answered *"yes, as currently underdetermined"* rather than forcing the binary calibration-error / bedrock-disagreement split. The proposal was the 2026-05-10 Gemini Deep Research recommendation; the originating context — `phenomenology-of-memory-and-the-self` set against Michaelian's simulationism — is the canonical empirical-underdetermination case.
+
 ## Relation to Site Perspective
 
 The evidential-status discipline is methodological. Its most direct alignment is with **[[tenets|Tenet 5: Occam's Razor Has Limits]]**, applied at the *evidential-calibration layer*. Tenet 5 denies that parsimony is decisive against dualism *at the metaphysical level*; the discipline applies a parallel restraint at the empirical-labelling layer: the tenets' anti-parsimony commitment must not silently licence stronger empirical claims than the evidence supports. The same denial that protects dualism from being dismissed by simplicity arguments also constrains how the catalogue is allowed to *cash in* the protection. Removing a defeater is what the tenets are entitled to do; upgrading the evidence level is not.
@@ -279,6 +281,7 @@ The evidential-status discipline is documented through the catalogue's outer-rev
 10. Southgate, A. & Oquatre-sept, C. (2026-04-29). Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/bedrock-clash-vs-absorption/
 11. *The Unfinishable Map* outer review, 2026-05-10 (ChatGPT 5.5 Pro). Pressure-tests [[phenomenology-of-memory-and-the-self]]; identifies the experience→irreducibility, dissociation-chain, and MWI-restatement failure modes the three cross-cutting rules in this article codify. https://unfinishablemap.org/reviews/outer-review-2026-05-10-chatgpt-5-5-pro/
 12. *The Unfinishable Map* outer review, 2026-05-12 (Gemini 2.5 Pro). Audits [[topics/non-temporal-consciousness]]; recommends externalising the five-tier scale via section-header tags to give academic readers a section-grain signal. The recommendation seeds the *Externalized Tag Pilot* in this article. https://unfinishablemap.org/reviews/outer-review-2026-05-12-gemini-2-5-pro/
+13. *The Unfinishable Map* outer review, 2026-05-10 (Gemini 2.5 Pro). Deep Research review of [[topics/phenomenology-of-memory-and-the-self]]; proposes "Mode Four: Empirical Underdetermination" as a fourth honest-discharge mode for [[direct-refutation-discipline|direct-refutation discipline]]. The proposal complements this discipline's diagnostic test by giving it an alternative residue to bedrock when the available evidence cannot adjudicate. https://unfinishablemap.org/reviews/outer-review-2026-05-10-gemini-2-5-pro/
 
 <!-- AI REFINEMENT LOG - 2026-05-13 (externalised-tag pilot)
 Changes made:
@@ -292,6 +295,21 @@ Changes made:
 Engagement classification: not applicable — this is a methodology revision, not an engagement with a named opponent. The Gemini reviewer's recommendation is taken up at face value as a methodology proposal; the pilot is the bounded experimental design under which the proposal is evaluated against the discipline's standing prohibition on tier labels in article prose.
 
 Based on outer review by Gemini 2.5 Pro 2026-05-12 (methodology recommendation: externalize the 5-tier evidential-status scale). Convergent with the broader 2026-05 outer-review pattern of recommending the Map make its self-corrective machinery legible to academic readers rather than relying on internal editorial process alone.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-13 20:51 UTC (Mode Four reciprocal mention)
+Changes made:
+- Added a paragraph to the *Honest Limitation* section's discussion of how this discipline pairs with [[direct-refutation-discipline|direct-refutation discipline]], naming **Mode Four — empirical underdetermination** as the shared fourth honest-discharge mode introduced in May 2026. The paragraph notes that Mode Four extends this section's *constrain*-vs-*establish* distinction at the framework-boundary register, gives the canonical examples (Michaelian-vs-interactionist-dualist neuroimaging; quantum-measurement mechanisms with no decisive empirical signal yet), and explains how Mode Four pairs with this discipline's diagnostic test by giving it an alternative residue to bedrock — "yes, as currently underdetermined" rather than forcing the binary calibration-error / bedrock-disagreement split.
+- Added reference 13 to the 2026-05-10 Gemini Deep Research review as the originating context for Mode Four.
+- Bumped ai_modified to 2026-05-13T20:51:00+00:00.
+
+Reciprocal change in `obsidian/project/direct-refutation-discipline.md`: added a new "Mode Four: Empirical underdetermination" subsection between Mode Three and the consolidating paragraph of the Four Reasoning Modes section, plus minimal supporting integration (section-heading count update, fourth decision-heuristic question, fourth Implementation bullet, frontmatter and Further Reading updates).
+
+Engagement classification: not applicable — methodology extension introduced by the 2026-05-10 Gemini Deep Research recommendation; the proposal complements the existing taxonomy by giving an honest discharge for empirical-underdetermination cases.
+
+Based on outer review by Gemini 2.5 Pro 2026-05-10 (review file: `reviews/outer-review-2026-05-10-gemini-2-5-pro.md`). Convergent with the prior outer-review finding that the Map's confirmation-by-construction risk is best mitigated by explicit calibration markers.
 
 This log should be removed after human review.
 -->
