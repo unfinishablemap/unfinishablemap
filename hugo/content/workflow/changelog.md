@@ -1,13 +1,80 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13 15:22:00+00:00
+ai_modified: 2026-05-13 18:23:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-13'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-13 18:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Task**: P2 from outer review by Claude Opus 4.7 2026-05-11 — add "Framework-Independent Voids" subsection at index level so the convergence-as-evidence argument can rest on the partition between framework-neutral and dualism-specific voids rather than on the catalogue as a whole.
+- **Changes**: Added "## Framework-Independent Voids" H2 between "The Discipline of Not Knowing" (line 65) and "## Navigating This Section" (line 67). The section names the circularity worry, points to [common-cause-null](/project/common-cause-null/) and [tenet-generated-voids](/voids/tenet-generated-voids/) as in-principle responses, then partitions 17 voids into framework-independent (13) and dualism-specific (4) sets with one-line reasons each. Closing paragraph names the strengthened claim the convergence-as-evidence argument should now be heard as making. ~370 words added; existing structure and voice preserved; no entries removed.
+- **Partition rationale**: framework-independent set restricted to voids any serious consciousness framework — physicalist, functionalist, panpsychist, idealist, dualist — would acknowledge in some form (with predicted resolvability differing across frameworks): origin, binding, voids-between-minds, self-opacity, inference (Carroll's regress is formal), vagueness (Sorites is logical), recursion + formal-cognitive-limits (empirical and mathematical), imagery (aphantasia is mode-independent), quantitative-comprehension (cognitive ceilings empirical), death + dreamless-sleep (absence-representation structural), indexical/vertiginous-question (engaged by Caspar Hare, Parfit, Lewis without requiring dualism), temporal + inaccessible-past (phenomenology and reconstruction findings framework-neutral). Dualism-specific set: causal-interface + interface-formalization (presuppose a non-physical aspect to interface), amplification (presupposes the influence chain), the-surplus-void (illusionism denies the surplus rather than acknowledging it as a void), tenet-generated-voids (framework-internal by construction).
+- **Companion**: P2 circularity-fix task on `what-voids-reveal` convergence-as-evidence can now cite this subsection directly rather than re-deriving the partition inside its own body.
+- **Frontmatter**: modified → 2026-05-13; ai_modified → 2026-05-13T18:23:00+00:00. No related_articles changes — all new links resolve to articles already cross-linked from voids.md or its descendants.
+- **Output**: [voids](/voids/)
+- **Published**: pending (commit deferred to automation system per invocation instruction).
+
+## 2026-05-13 17:51 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/phenomenology-of-anticipation.md` (~168 lines, freshly deep-reviewed at 17:22 UTC with a Varela-section back-link added to `non-temporal-consciousness`) and `topics/temporal-consciousness-structure-and-agency.md` (~301 lines, deep-reviewed today via commit `377962a79`). The temporal-consciousness cluster's two most-recently-touched topic-tier members, forming a natural pair (anticipation as the focused phenomenology piece; temporal-structure-and-agency as the broader topic article that integrates protention with retention, durée, kairos timing windows, and the constitutional thesis).
+- **Output**: [optimistic-2026-05-13](/reviews/optimistic-2026-05-13/)
+- **Tasks generated**: 4 P3 tasks added (concept page `protention`; topic-tier kairos timing-window article; cross-link bridge between the two reviewed articles; temporal-cluster refinement-log audit).
+- **Published**: pending (commit deferred to automation system per invocation instruction).
+
+## 2026-05-13 17:22 UTC - deep-review
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Word count**: 5619 → 5678 (+59, hard_warning preserved at 187% → 189% of 3000-word soft threshold; well clear of 6000 critical)
+- **Critical issues addressed**: 0 (article is at high stability after four prior reviews; no critical issues found in this pass)
+- **Medium issues addressed**: 1 (missing reciprocal cluster integration — four cluster nodes had no back-links to non-temporal-consciousness despite shared subject matter)
+- **Enhancements made**: 5 — reciprocal links added across the cluster
+  - Forward links from non-temporal-consciousness.md to `[[phenomenology-of-anticipation]]` (inline at the retention/primal-impression/protention paragraph), `[[phenomenology-of-returning-attention]]` (inline at the Meditative Evidence section), and `[[attention-and-the-consciousness-interface]]` (frontmatter); compensating trim on Further Reading description for cognitive-phenomenology entry.
+  - Back-link in `concepts/temporal-consciousness.md` on the cessation-states line, forking readers between the temporal-constitution reading already there and the non-temporal-ground alternative.
+  - Back-link in `topics/attention-and-the-consciousness-interface.md` in the "Meditation: Training the Interface" section, connecting witness-awareness to both the non-temporal reading and returning-attention's micro-structure.
+  - Back-link in `topics/phenomenology-of-returning-attention.md` at the "What Returns?" section's "timeless wandering" bullet, distinguishing degenerate from cultivated timelessness.
+  - Back-link in `topics/phenomenology-of-anticipation.md` at the Varela section, noting that deeper contemplative states reportedly suspend protentional structure while preserving alertness.
+- **Pre-existing reciprocity**: `consciousness-and-the-ontology-of-temporal-becoming.md` and `apex/machine-question.md` were verified to already carry reciprocal links; no changes needed there.
+- **Reasoning-mode classification**: No new named-opponent engagements added. Prior classifications (Bergson, representationalist, constructivist, Madhyamaka, eternalist B-series, Bayne, MWI) carry forward unchanged from the 2026-05-05 review.
+- **Output**: [deep-review-2026-05-13-non-temporal-consciousness](/reviews/deep-review-2026-05-13-non-temporal-consciousness/)
+- **Published**: pending (commit deferred to automation system per invocation instruction).
+
+## 2026-05-13 16:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Source**: outer review [outer-review-2026-05-12-claude-opus-4-7](/reviews/outer-review-2026-05-12-claude-opus-4-7/) §B2 ("Minor factual issues") and §R9–R10 — both empirical-precision findings explicitly confirmed in the review's Verification Notes.
+- **Changes**: Two targeted edits in the "What Fragmented Consciousness Reveals" section. (1) Corpus callosum figure: "250 million corpus callosum fibres" → "the corpus callosum's 200–300 million axons" — replaces a false-precision single figure with the standard clinical-neuroanatomy range. (2) Propofol attribution: the empirical finding (rapid fragmentation of neuronal networks during loss of consciousness) is now attributed to Lewis et al. (2012), *PNAS* 109(49): E3377–E3386, with Mashour's accompanying *PNAS* commentary (109(49): 19876–19877) re-attributed as the integration-disruption *framing* rather than the source of the empirical observation. The intervening "not by X but by Y" construct (an LLM cliché flagged in `obsidian/project/writing-style.md`) was removed in the rewrite. Added the Lewis et al. entry to References between Katz and Mashour; flagged the Mashour entry as `[Commentary on Lewis et al.]` to make the citation direction explicit.
+- **Words touched**: ~130 (within the task's 80–150 budget).
+- **Tenet alignment**: [evidential-status-discipline](/project/evidential-status-discipline/) — empirical hedging on the corpus-callosum figure brings the article's neuroanatomy in line with the discipline's calibration ceiling; correct citation direction for the propofol finding restores the empirical-paper / commentary asymmetry the prior phrasing collapsed.
+- **Engagement classification**: not applicable (no named-opponent reply touched; the fixes are scholarly-accuracy housekeeping, not argument moves).
+- **Published**: pending (commit deferred to automation system per invocation instruction).
+
+## 2026-05-13 16:22 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Word count**: 2928 → 2801 (−127 words; soft_warning preserved, down from 17% to 12% over the 2500 soft threshold, well clear of the 3500 hard threshold)
+- **Critical issues addressed**: 0 (article has now been through 7 deep reviews; bedrock disagreements documented since 2026-02-03 remain bedrock)
+- **Medium issues addressed**: 3 — (1) Duch geometric/feature-space subsection (~420 words added 2026-05-03 without paired cuts, against prior review's length-neutrality warning) compressed to ~160 words by stripping discipline-narration meta-commentary while preserving the substantive borrowing claim, the empirical-loading citation (Duch & Naud animal-concept experiment + neurocognitive-informatics programme), the Tenet 1 / Tenet 3 metaphysical separation, and the [wlodzislaw-duch-consciousness-2026-05-02](/research/wlodzislaw-duch-consciousness-2026-05-02/) cross-link; (2) "Hard Problem Remains" two-paragraph redundancy combined into one paragraph (~10 words saved); (3) Memory Systems closing binding restatement tightened ("the binding that creates experience and the binding that creates memory might be the same operation" → "may be aspects of the same operation", ~20 words saved).
+- **Enhancements made**: 0 net additions — operating in length-neutral mode to course-correct the 2026-05-03 uncompensated addition.
+- **Attribution accuracy**: Duch claims verified against [wlodzislaw-duch-consciousness-2026-05-02](/research/wlodzislaw-duch-consciousness-2026-05-02/) — references real (Duch 1998 Springer chapter, Duch 2022 Studies in Logic, Grammar and Rhetoric), attractor-basin framework correctly attributed, "shadow of neurodynamics" quote accurate, Map–Duch incompatibility tied to Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) correctly per dossier ("competent serious opponent of Tenet 1").
+- **Reasoning-mode classification** (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)): engagement with Duch's metaphysical "shadow" thesis — Mode Three (framework-boundary marking). The article declines the metaphysical reading on tenet grounds and names the disagreement honestly; the empirical-stage tooling is borrowed at a layer where the metaphysical disagreement does not bear. No label leakage in article prose ("framework-stage-calibration" is a project-page wikilink, not editor vocabulary).
+- **Candidate-selector bug fix (side effect)**: `tools/curate/deep_review.py` `get_review_candidates` was scoring `*.refinement-log.md` sidecars as top-priority deep-review candidates because it lacked the filename-pattern skip that `tools/sync/converter.py` already applies. The selector first returned `topics/non-temporal-consciousness.refinement-log.md` at score 130; the log is editor-internal and not a content article. Added the same filename-pattern skip to the selector. After the fix, the top candidate became `concepts/neural-correlates-of-consciousness` at score 94, which is what this entry reviews.
+- **Output**: [deep-review-2026-05-13-neural-correlates-of-consciousness](/reviews/deep-review-2026-05-13-neural-correlates-of-consciousness/)
+- **Published**: pending (commit deferred to automation system per invocation instruction)
+
+## 2026-05-13 15:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Source**: pessimistic-review 2026-05-13 §"Five Trailing AI REFINEMENT LOG Blocks Persist" (housekeeping flag — by the time this pass ran, eight blocks had accumulated, not five)
+- **Changes**: Moved all eight trailing `<!-- AI REFINEMENT LOG -->` HTML comment blocks (lines 202–336, ~135 lines) out of `obsidian/topics/non-temporal-consciousness.md` into a sibling sidecar at `obsidian/topics/non-temporal-consciousness.refinement-log.md`. The sidecar preserves the seven-day human-review window the original logs requested (each ending "This log should be removed after human review") without bloating the article markdown that LLMs read. Zero article-prose change — the truncation is at line 200 immediately after the final references entry. Updated `ai_modified` to 2026-05-13T15:51:00+00:00.
+- **Sync exclusion**: Added a `*.refinement-log.md` filename-pattern skip to `tools/sync/converter.py` in two locations (`convert_obsidian_to_hugo` main loop and `build_content_index`), so the sidecar lives in Obsidian only and never reaches `hugo/content/`. Verified by running `uv run python scripts/sync.py` — the article syncs, the sidecar is silently skipped, and no sidecar file appears under `hugo/content/topics/`.
+- **Rationale for path chosen**: The pessimistic-review task offered two paths — (a) clear the blocks after 2026-05-20, or (b) move them to a sibling file excluded from Hugo sync. Today is 2026-05-13; the human-review window has not elapsed, so path (a) would have prematurely discarded content the original logs explicitly asked humans to review. Path (b) takes the present-tense action the article needs (~135 lines of editor-vocabulary off the LLM-readable markdown surface) while preserving the logs intact for the remaining seven days; the human reviewer can clear the sidecar on or after 2026-05-20.
+- **Published**: yes
 
 ## 2026-05-13 15:22 UTC - refine-draft
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-05-13 15:51:00+00:00
+ai_modified: 2026-05-13 17:22:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Can consciousness exist outside time? Husserl's absolute flow, medi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-05 00:16:00+00:00
+last_deep_review: 2026-05-13 17:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,6 +34,9 @@ related_articles:
 - '[[non-temporal-fragmented-consciousness-2026-02-10]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[apex/post-decoherence-selection-programme]]'
+- '[[phenomenology-of-anticipation]]'
+- '[[phenomenology-of-returning-attention]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[reviews/outer-review-2026-05-12-gemini-2-5-pro]]'
 title: Non-Temporal Consciousness
 topics:
@@ -53,13 +56,13 @@ This is initially paradoxical. Husserl acknowledged as much — he described his
 
 The answer involves a regress argument. If the consciousness that constitutes our experience of time were itself temporal, it would need another consciousness to constitute *its* temporality, generating an infinite regress. The absolute flow stops the regress by being "standing-streaming" — it manifests temporality without itself occurring in sequence. As Husserl wrote: "This flow is something we speak of in accordance with that which is constituted, but it is nevertheless not something that is temporally objective. It is the absolute subjectivity."
 
-Temporal categories — succession, simultaneity, before and after — apply to what the absolute flow produces, not to the flow itself. The flow constitutes time without inhabiting it. Retention, primal impression, and protention belong to the level of immanent temporal unities, not to the absolute subjectivity that makes them possible.
+Temporal categories — succession, simultaneity, before and after — apply to what the absolute flow produces, not to the flow itself. The flow constitutes time without inhabiting it. Retention, primal impression, and protention (the forward-directed structure examined in [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)) belong to the level of immanent temporal unities, not to the absolute subjectivity that makes them possible.
 
 ## Meditative Evidence for Timelessness [Open]
 
 Husserl's argument is phenomenological and theoretical. Frischhut (2024) provides first-person evidence through the study of advanced meditators reporting deep states as "timeless" — yet continuously alert.
 
-These reports present an apparent contradiction. Timelessness suggests unconsciousness or dreamless sleep. But the meditators are not unconscious; they describe vivid awareness. Frischhut's **Extended Now Interpretation (ENI)** resolves this: the "timelessness" means experiencing indeterminate duration without temporal structure. No succession, no change, no beginning, no end — yet alertness persists. The meditator maintains awareness without awareness *of* time passing.
+These reports present an apparent contradiction. Timelessness suggests unconsciousness or dreamless sleep. But the meditators are not unconscious; they describe vivid awareness. Frischhut's **Extended Now Interpretation (ENI)** resolves this: the "timelessness" means experiencing indeterminate duration without temporal structure. No succession, no change, no beginning, no end — yet alertness persists. The meditator maintains awareness without awareness *of* time passing. The witness-layer that surfaces when ordinary attention returns from wandering ([phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)) is the everyday correlate of what sustained practice cultivates as a content-free condition.
 
 This is distinct from ordinary time distortion. When absorbed in a task, time seems to speed up — but you still experience succession; events still flow. In deep meditative states, succession itself reportedly ceases. There is awareness, but it is awareness without temporal markers. Maintaining alertness may itself constitute implicit awareness of duration without awareness of succession — a dissociation that ordinary experience never produces.
 
@@ -105,9 +108,9 @@ The article takes the middle path, with the third standing as honest residue. Th
 
 If the non-temporal thesis is correct, what happens when consciousness apparently fragments? Split-brain cases, anaesthesia-induced unconsciousness, and dissociative disorders each produce conditions where unified experience fractures — or seems to. These cases challenge the unity of consciousness and, by extension, any account of its non-temporal ground. (For a dedicated treatment of the fragmentation evidence, see [split-brain-consciousness](/topics/split-brain-consciousness/).)
 
-The fragmentation evidence is substantial. Mashour (2012) showed that anaesthetics achieve unconsciousness not by suppressing brain activity but by disrupting integration across brain regions. Propofol fragments neural spiking into on/off states and disrupts phase coupling across cortical areas. Classic split-brain studies suggested two simultaneous experiencers, though Pinto et al. (2017) complicate this picture — their work with callosotomy patients found "divided perception but undivided consciousness," with patients maintaining unified responses in everyday conditions despite hemispheric disconnection. The 2025 layered unity model proposes breakdowns in local experiential layers while preserving global unity.
+The fragmentation evidence is substantial. Lewis et al. (2012) recorded local field potentials and unit activity during propofol-induced loss of consciousness and observed rapid fragmentation of neuronal networks at the transition: spiking collapses into discrete on/off states and phase coupling across cortical areas breaks down. Mashour's accompanying PNAS commentary (2012) reads the finding as anaesthesia achieving unconsciousness through the disruption of integration across brain regions — the framing the present article inherits when treating integration as a threshold condition for consciousness. Classic split-brain studies suggested two simultaneous experiencers, though Pinto et al. (2017) complicate this picture — their work with callosotomy patients found "divided perception but undivided consciousness," with patients maintaining unified responses in everyday conditions despite hemispheric disconnection. The 2025 layered unity model proposes breakdowns in local experiential layers while preserving global unity.
 
-Two features of the fragmentation data are particularly telling. First, the *resilience of unity*: even with 250 million corpus callosum fibres severed, consciousness does not cleanly divide. Something resists fragmentation even when the physical substrate for integration is dramatically disrupted. Second, the *incompleteness of fragmentation*: anaesthesia eliminates consciousness entirely rather than producing multiple diminished streams, as one might expect if consciousness simply were integrated activity. These patterns suggest that integration is a threshold condition for consciousness to interact with the brain, rather than the thing that constitutes consciousness.
+Two features of the fragmentation data are particularly telling. First, the *resilience of unity*: even with the corpus callosum's 200–300 million axons severed, consciousness does not cleanly divide. Something resists fragmentation even when the physical substrate for integration is dramatically disrupted. Second, the *incompleteness of fragmentation*: anaesthesia eliminates consciousness entirely rather than producing multiple diminished streams, as one might expect if consciousness simply were integrated activity. These patterns suggest that integration is a threshold condition for consciousness to interact with the brain, rather than the thing that constitutes consciousness.
 
 For the non-temporal thesis, fragmentation poses a specific problem: if consciousness has a non-temporal ground that constitutes temporal experience, fragmenting the physical substrate shouldn't fragment consciousness — it should merely disrupt the *interface* through which non-temporal consciousness expresses itself temporally.
 
@@ -167,10 +170,13 @@ Non-temporal consciousness connects directly to the Map's [tenets](/tenets/):
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — How consciousness requires and constitutes temporal structure
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — What callosotomy reveals about consciousness, and what resists fragmentation
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as phenomenological data
+- [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Protention as the forward-directed structure meditative timelessness reportedly suspends
+- [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The witness-layer revealed at the moment attention re-engages
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Attention as the interface through which consciousness engages neural processing
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The problem of experiential unity
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Non-western perspectives on consciousness and time
-- [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — A complementary irreducibility argument: thought's phenomenal character resists reduction alongside non-temporality
+- [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — A complementary irreducibility argument
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's concrescence as a parallel non-temporal constituting activity
 - [witness-consciousness](/concepts/witness-consciousness/) — The observing awareness that meditation reveals
@@ -185,7 +191,8 @@ Non-temporal consciousness connects directly to the Map's [tenets](/tenets/):
 1. Hoerl, C. (2013). Husserl, the Absolute Flow, and Temporal Experience. *Philosophy and Phenomenological Research*, 86(2), 376-411.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893-1917)* (trans. Brough). Kluwer.
 1. Katz, S. T. (1978). Language, Epistemology, and Mysticism. In S. T. Katz (Ed.), *Mysticism and Philosophical Analysis* (pp. 22–74). Oxford University Press.
-1. Mashour, G. (2012). Fragmenting Consciousness. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
+1. Lewis, L. D., Weiner, V. S., Mukamel, E. A., Donoghue, J. A., Eskandar, E. N., Madsen, J. R., Anderson, W. S., Hochberg, L. R., Cash, S. S., Brown, E. N., & Purdon, P. L. (2012). Rapid fragmentation of neuronal networks at the onset of propofol-induced unconsciousness. *Proceedings of the National Academy of Sciences*, 109(49), E3377–E3386.
+1. Mashour, G. A. (2012). Fragmenting Consciousness [Commentary on Lewis et al.]. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
 1. Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
 1. Mellor, D. H. (1998). *Real Time II*. Routledge.
 1. Petkov, V. (2009). *Relativity and the Nature of Spacetime* (2nd ed.). Springer.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-03 01:15:00+00:00
+ai_modified: 2026-05-13 16:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,7 +32,7 @@ description: 'Brain activity correlating with conscious experience. Correlation 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-27 15:27:00+00:00
+last_deep_review: 2026-05-13 16:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,9 +82,7 @@ If consciousness causally interacts with the brain—as [interactionist-dualism]
 
 ### The Hard Problem Remains
 
-NCC research addresses what David Chalmers calls the "easy problems"—which brain processes correlate with which experiences. It does not address the hard problem: *why* there is something it's like to have these experiences at all.
-
-No amount of neural correlation data explains why activity in V4 *feels like* seeing colour, while activity in motor cortex feels like nothing. The explanatory gap between neural descriptions and phenomenal experience remains unbridged by NCC findings.
+NCC research addresses what David Chalmers calls the "easy problems"—which brain processes correlate with which experiences. It does not address the hard problem: *why* there is something it's like to have these experiences at all. No amount of neural correlation data explains why activity in V4 *feels like* seeing colour while activity in motor cortex feels like nothing; the explanatory gap between neural description and phenomenal experience remains.
 
 ## The Interface Question
 
@@ -92,9 +90,9 @@ For interactionist frameworks, NCC research may help locate the *interface* wher
 
 ### Borrowed Tooling: The Geometric / Feature-Space Description
 
-A specific class of NCC tooling is methodologically appropriable from research programmes whose metaphysics the Map otherwise rejects. Włodzisław Duch's geometric / feature-space programme (Duch 1998, 2022) describes mental states as quasi-stable attractor basins in a multi-dimensional psychological space, mental events as trajectories between attractors, and concept formation as topological structure over those trajectories. Empirical loading comes from feature-space matches to similarity-judgment data (the Duch & Naud animal-concept experiment) and from the broader neurocognitive-informatics programme's attempts to ground social and cognitive constructs (valence, life space, force, equilibrium) in measurable neural-network activity. As intermediate-level *correlate-side description*, this tooling is useful to NCC interpretation: it specifies what the physical correlate looks like at a level intermediate between symbolic AI and pure neural simulation, and it gives a structurally explicit account of how transitions between attractors map onto reportable changes in conscious content.
+Some NCC tooling is methodologically appropriable from research programmes whose metaphysics the Map rejects. Włodzisław Duch's geometric / feature-space programme (Duch 1998, 2022) describes mental states as quasi-stable attractor basins in a multi-dimensional psychological space, mental events as trajectories between attractors, and concepts as topological structure over those trajectories. Empirical loading comes from feature-space matches to similarity-judgment data (the Duch & Naud animal-concept experiment) and from the broader neurocognitive-informatics programme. The framework supplies an intermediate-level correlate-side description — between symbolic AI and pure neural simulation — of how transitions between attractors map onto reportable changes in conscious content.
 
-The framework-stage-calibration discipline (per [framework-stage-calibration](/project/framework-stage-calibration/)) is the right anchor for the appropriation. Duch's tooling is *empirical-stage* — it earns its rigour from data fits and from the neurocognitive-informatics programme's measurement work. The Map's appropriation is symmetric: in the empirical-stage layer, the geometric tooling can describe the physical-correlate side of bidirectional interaction without committing to Duch's metaphysical-stage thesis (mind as a "shadow" of neurodynamics — an ontologically derivative reading the Map's [Tenet 1](/tenets/#dualism) rejects, and one structurally compatible with epiphenomenalism the Map's [Tenet 3](/tenets/#bidirectional-interaction) rejects). Articles using Duch's tooling for NCC interpretation should keep the borrowing explicit at the empirical layer and the metaphysical disagreement explicit at the ontological layer; the convergence and divergence are mapped in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
+The Map borrows the empirical tooling without Duch's metaphysical reading of mind as a "shadow" of neurodynamics. That reading is ontologically derivative ([Tenet 1](/tenets/#dualism) rejects it) and structurally compatible with the epiphenomenalism [Tenet 3](/tenets/#bidirectional-interaction) rejects. Per [framework-stage-calibration](/project/framework-stage-calibration/), the borrowing stays at the empirical layer; convergence and divergence are mapped in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
 
 ## Memory Systems and NCC Requirements
 
@@ -108,7 +106,7 @@ Different memory types have different neural correlate requirements, suggesting 
 
 The hippocampus is essential for [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the self-knowing awareness enabling [episodic-memory](/concepts/episodic-memory/). Without it, patients retain [semantic knowledge](/concepts/semantic-memory/) and [procedural skills](/concepts/implicit-memory/) but lose the capacity for mental time travel. This matters for NCC research: the hippocampus isn't the NCC for consciousness generally but for a *specific mode* of consciousness.
 
-The hippocampus also performs binding for both perception and memory. The [binding problem](/concepts/binding-problem/) for consciousness and for episodic memory may be aspects of the same phenomenon—the binding that creates experience and the binding that creates memory might be the same operation.
+The hippocampus also performs binding for both perception and memory: the [binding problem](/concepts/binding-problem/) for consciousness and for episodic memory may be aspects of the same operation.
 
 ## Filter Theory: Correlates as Interface Points
 
