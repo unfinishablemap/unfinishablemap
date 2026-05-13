@@ -80,7 +80,7 @@ This is the discipline [evidential-status-discipline](/project/evidential-status
 
 Although the hypothesis is not currently prediction-generating, its sub-claims do have distinguishing observables in principle:
 
-- **Born-rule deviation patterns scaling with phylogenetic intelligence rank**. If interface efficacy varies across species and the interface acts via probability bias on quantum-influenced neural events, the pattern of deviation from Born-rule expectation — were it ever measurable in vivo — would scale with intelligence rank rather than with cortical neuron count. The Map's [standing-status note](/topics/born-rule-violation-brain-interface-empirical-status/) documents that the human case alone is currently null; cross-species comparative data does not exist at all.
+- **Born-rule deviation patterns scaling with phylogenetic intelligence rank**. If interface efficacy varies across species and the interface acts via probability bias on quantum-influenced neural events, the pattern of deviation from Born-rule expectation — were it ever measurable in vivo — would scale with intelligence rank rather than with cortical neuron count. The Map's [standing-status note](/topics/born-rule-and-the-consciousness-interface/) documents that the human case alone is currently null; cross-species comparative data does not exist at all.
 
 - **Volitional/reflexive task contrasts in neural-coherence-domain signatures**. Interface-mediated processing should show coherence-domain signatures absent in matched reflexive control tasks, with the contrast scaling across species along the cognitive gradient. The DeWall, Baumeister and Masicampo (2008) finding that conscious-load specifically degrades logical reasoning — but unconscious-load does not — is the human-only version of the relevant experimental design; the cross-species version is not currently feasible.
 
@@ -109,7 +109,7 @@ The contribution is a re-framing of comparative-cognition data, not a new empiri
 - [interface-heterogeneity](/concepts/interface-heterogeneity/) — interfaces differing in kind, the layer beneath the efficacy-scaling claim.
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — the human-internal version of the bandwidth axis.
 - [baseline-cognition](/concepts/baseline-cognition/) — what the unconscious substrate can do without interface contribution, relevant for cross-species inference.
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — the empirical floor against which interface-efficacy claims must be calibrated.
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) — the empirical floor against which interface-efficacy claims must be calibrated.
 - [selection-only-mind-influence](/topics/selection-only-mind-influence/) — the information-theoretic limits on per-event selection that supply the strict background within which the four efficacy axes operate.
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the labelling discipline that keeps tenet-coherence and evidence-elevation distinct.
 

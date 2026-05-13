@@ -30,7 +30,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[born-rule-and-the-consciousness-interface]]'
-- '[[born-rule-violation-brain-interface-empirical-status]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 - '[[william-james-consciousness]]'
 - '[[wheelers-participatory-universe-and-it-from-bit]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
@@ -92,7 +92,7 @@ Dualism (Tenet 1) combined with Tenets 2 and 3 — consciousness biases quantum 
 
 Stapp's Copenhagen pragmatism grants everything the Map needs. The mathematical apparatus describes something real; the choice of measurement is not reducible to Schrödinger evolution; conscious attention holds neural patterns in place via repeated "Heisenberg choices" that exploit the quantum Zeno effect. Stapp extends Bohr's dictum that the observer cannot be eliminated from the description into an explicit mind-matter coupling. Stapp's framework is what pragmatism looks like when its central notion — the agent — is allowed to be a conscious subject with causal efficacy rather than a primitive placeholder; dualism provides the ontological backing his physics already presupposes.
 
-The cost is that Stapp's view is the most physically committed, and therefore the most empirically exposed. Decoherence objections to neural coherence bite on Stapp in ways they do not bite on QBism (which has nothing at the quantum level to decohere). And the Zeno mechanism is explicitly Born-rule-bending — observation rate modulates selection away from non-conscious-measurement outcomes — placing Stapp's Zeno variant in the minimum-outside-the-corridor category of the [empirical taxonomy](/topics/born-rule-violation-brain-interface-empirical-status/), where QBism, Healey, and Zeno-free readings of Stapp sit in the Born-preserving corridor. The Map's response to the decoherence objection turns on the specifics of Stapp's ion-channel Heisenberg-choice mechanism rather than on generic neural coherence; see [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/).
+The cost is that Stapp's view is the most physically committed, and therefore the most empirically exposed. Decoherence objections to neural coherence bite on Stapp in ways they do not bite on QBism (which has nothing at the quantum level to decohere). And the Zeno mechanism is explicitly Born-rule-bending — observation rate modulates selection away from non-conscious-measurement outcomes — placing Stapp's Zeno variant in the minimum-outside-the-corridor category of the [empirical taxonomy](/topics/born-rule-and-the-consciousness-interface/), where QBism, Healey, and Zeno-free readings of Stapp sit in the Born-preserving corridor. The Map's response to the decoherence objection turns on the specifics of Stapp's ion-channel Heisenberg-choice mechanism rather than on generic neural coherence; see [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/).
 
 ## QBism: The Primitive Agent as Dualist Placeholder
 
@@ -104,7 +104,7 @@ Under dualism, the Map offers a reading QBists do not endorse but that is consis
 
 The "agent problem" critics raise against QBism then looks different. Under dualism, "primitive and irreducible" is not a concession but a prediction: any physics that requires conscious agents at its foundations *should* find those agents irreducible within its own vocabulary. QBism's agent-shaped hole is exactly the shape dualism predicts. The inference "primitive within QBism's formalism → metaphysically irreducible → non-physical" is not automatic — physics routinely takes primitives (space-time points, field values) without treating them as non-physical — so the argument here corroborates Tenet 1 rather than establishing it; the independent work is done by the hard-problem arguments the Map takes to license Tenet 1.
 
-The claim concerns structural compatibility rather than covert dualism: the Map's dualism can absorb QBism's technical results without distortion, and QBism's anti-realism about quantum states is a separable philosophical choice the Map does not make. On the [empirical taxonomy](/topics/born-rule-violation-brain-interface-empirical-status/), this reading places QBism (like Healey) in the corridor family: the posited mental channel is single-event and ensemble-invisible, preserving standard Born statistics. The empirical cost: at the ensemble level the corridor reading is indistinguishable from QBism-without-dualism and from standard QM with no interpretive overlay. It is defended as metaphysically economical once dualism is granted, not as a differentially testable prediction.
+The claim concerns structural compatibility rather than covert dualism: the Map's dualism can absorb QBism's technical results without distortion, and QBism's anti-realism about quantum states is a separable philosophical choice the Map does not make. On the [empirical taxonomy](/topics/born-rule-and-the-consciousness-interface/), this reading places QBism (like Healey) in the corridor family: the posited mental channel is single-event and ensemble-invisible, preserving standard Born statistics. The empirical cost: at the ensemble level the corridor reading is indistinguishable from QBism-without-dualism and from standard QM with no interpretive overlay. It is defended as metaphysically economical once dualism is granted, not as a differentially testable prediction.
 
 ## Healey: The Cost of De-Psychologising the Agent
 
@@ -151,7 +151,7 @@ The four positions converge on a structural frame in which agents matter irreduc
 - [pragmatism](/concepts/pragmatism/) — The pragmatist tradition and its implications for consciousness
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism and its relation to Copenhagen pragmatism
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — The Born rule as encoding the consciousness-physics interface
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — Corridor vs. minimum-outside-corridor vs. trumping: which pragmatist positions require Born violation and which preserve it
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Corridor vs. minimum-outside-corridor vs. trumping: which pragmatist positions require Born violation and which preserve it
 - [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) — Participatory realism's common ancestor
 - [william-james-consciousness](/topics/william-james-consciousness/) — James's approach to consciousness in full detail
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why QBism's primitive-agent stance instantiates the indexical gap

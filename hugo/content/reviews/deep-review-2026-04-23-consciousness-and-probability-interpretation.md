@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [Consciousness and Probability Interpretation](/topics/consciousness-and-probability-interpretation/)
 **Previous review**: [2026-03-29](/reviews/deep-review-2026-03-29-consciousness-and-probability-interpretation/)
-**Context**: Cross-review triggered by creation of [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (2026-04-23), which introduces the corridor / minimum-outside-corridor / trumping dualism taxonomy and explicitly holds this as a live fork for the Map.
+**Context**: Cross-review triggered by creation of [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) (2026-04-23), which introduces the corridor / minimum-outside-corridor / trumping dualism taxonomy and explicitly holds this as a live fork for the Map.
 
 ## Pessimistic Analysis Summary
 
@@ -58,7 +58,7 @@ All previously-handled counterarguments remain appropriately handled; no new obj
 - Added Further Reading entry for born-rule-violation-brain-interface-empirical-status with a description that captures the empirical-adjudication framing.
 
 ### Cross-links Added
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (related_articles, inline, Further Reading)
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) (related_articles, inline, Further Reading)
 - [trumping-preemption](/concepts/trumping-preemption/) (inline, as part of naming the third option in the taxonomy)
 
 ## Cross-Review Consistency Check

@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-04-23
-**Article**: [The Empirical Status of Born-Rule-Violating Consciousness-Physics Tests at the Brain Interface](/topics/born-rule-violation-brain-interface-empirical-status/)
+**Article**: [The Empirical Status of Born-Rule-Violating Consciousness-Physics Tests at the Brain Interface](/topics/born-rule-and-the-consciousness-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

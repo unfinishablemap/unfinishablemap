@@ -1,9 +1,10 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-05-13 18:51:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
-date: '2026-01-20'
+date: '2026-05-13'
 draft: false
 related_articles: []
 title: Research Notes - Implicit Memory and Consciousness
@@ -50,7 +51,7 @@ Implicit memory—encompassing procedural skills, priming, and conditioning—pr
   - It involves "non-reflective qualia"—phenomenal feel without explicit awareness
   - Anoetic consciousness provides "phenomenal feel and sense of ownership" to higher states
   - Hierarchical model: anoetic → noetic → autonoetic
-- **Tenet alignment**: Supports dualism—even "unconscious" procedural memory has phenomenal character
+- **Tenet alignment**: Compatible with dualism — Tulving's anoetic-noetic-autonoetic hierarchy is a memory-systems taxonomy that does not entail dualism. Higher-order theorists, integrated-information theorists, and global-workspace theorists each accommodate phenomenally graded memory systems within physicalist frameworks.
 - **Quote**: "Anoetic consciousness reflects a primal state of autonomic-phenomenal awakeness, with direct experiences of oneself and the world."
 
 ### Dreyfus Model of Skill Acquisition

@@ -21,13 +21,13 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [Stapp's Quantum Mind Model](/concepts/stapp-quantum-mind/)
 **Previous review**: [2026-04-02](/reviews/deep-review-2026-04-02-stapp-quantum-mind/)
-**Context**: Cross-review prompted by new article [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/)
+**Context**: Cross-review prompted by new article [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/)
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
 
-1. **Cross-article inconsistency on Born-rule status (critical)**: The Core Mechanism section claimed "aggregate statistics remain indistinguishable from Born-rule predictions." The newly published [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) explicitly classifies Stapp's Zeno picture as "minimum-outside-the-corridor dualism" — Born-rule-bending because attention-modulated observation rate shifts aggregate probabilities. Leaving the original claim would create a direct contradiction between two Map articles. **Resolution**: Rewrote the paragraph to present both readings as live fork — corridor (Born-preserving, aligned with [observational-closure](/concepts/observational-closure/)) vs. minimum-outside-corridor (Born-bending, per the new empirical-status taxonomy). Added cross-links to both.
+1. **Cross-article inconsistency on Born-rule status (critical)**: The Core Mechanism section claimed "aggregate statistics remain indistinguishable from Born-rule predictions." The newly published [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) explicitly classifies Stapp's Zeno picture as "minimum-outside-the-corridor dualism" — Born-rule-bending because attention-modulated observation rate shifts aggregate probabilities. Leaving the original claim would create a direct contradiction between two Map articles. **Resolution**: Rewrote the paragraph to present both readings as live fork — corridor (Born-preserving, aligned with [observational-closure](/concepts/observational-closure/)) vs. minimum-outside-corridor (Born-bending, per the new empirical-status taxonomy). Added cross-links to both.
 
 ### Medium Issues Found
 
@@ -63,13 +63,13 @@ All six adversarial personas engaged; previous review's stability notes continue
 
 ### Enhancements Made
 
-1. **Surfaced the corridor-vs-minimum-outside-corridor fork** — Core Mechanism paragraph now acknowledges both readings of Stapp's Born-rule status, with cross-links to both the [corridor view](/concepts/observational-closure/) and the [empirical-status taxonomy](/topics/born-rule-violation-brain-interface-empirical-status/).
+1. **Surfaced the corridor-vs-minimum-outside-corridor fork** — Core Mechanism paragraph now acknowledges both readings of Stapp's Born-rule status, with cross-links to both the [corridor view](/concepts/observational-closure/) and the [empirical-status taxonomy](/topics/born-rule-and-the-consciousness-interface/).
 2. **Added cross-link in Further Reading** to the empirical-status article with a one-line orientation.
 3. **Added empirical-status article to `related_articles` frontmatter** for graph connectivity.
 
 ### Cross-links Added
 
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — in body, Further Reading, and related_articles
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) — in body, Further Reading, and related_articles
 
 ## Length Management
 
@@ -95,7 +95,7 @@ This review did NOT re-flag any items from previous stability notes:
 - Schwartz evidence limitations — preserved with slight prose tightening
 - Bandwidth characterization as "behavioural throughput" — preserved
 
-The one critical issue in this cycle was a *new* cross-article inconsistency introduced by the publication of [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) today (2026-04-23), not a regression from prior reviews. Future reviews should NOT re-flag:
+The one critical issue in this cycle was a *new* cross-article inconsistency introduced by the publication of [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) today (2026-04-23), not a regression from prior reviews. Future reviews should NOT re-flag:
 
 - The corridor-vs-minimum-outside-corridor distinction — now acknowledged as a live fork, not a resolved commitment
 - Whether Stapp is "really" Born-rule-bending or Born-rule-preserving — depends on reading; the Map holds both as live

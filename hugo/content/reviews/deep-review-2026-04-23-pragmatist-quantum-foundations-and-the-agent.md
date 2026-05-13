@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [Pragmatist Quantum Foundations and the Agent-Shaped Hole](/topics/pragmatist-quantum-foundations-and-the-agent/)
 **Previous review**: [2026-04-18 (predecessor article, pre-coalesce)](/reviews/deep-review-2026-04-18-pragmatist-quantum-foundations-under-dualism/)
-**Cross-review context**: The newly published [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) introduces the Map's canonical three-way taxonomy (corridor / minimum-outside-corridor / trumping) for consciousness-physics proposals. This cross-review checks alignment between the pragmatist article's treatment of QBism, Healey, Brukner-Zeilinger, and Stapp and the new taxonomy.
+**Cross-review context**: The newly published [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) introduces the Map's canonical three-way taxonomy (corridor / minimum-outside-corridor / trumping) for consciousness-physics proposals. This cross-review checks alignment between the pragmatist article's treatment of QBism, Healey, Brukner-Zeilinger, and Stapp and the new taxonomy.
 
 ## Pessimistic Analysis Summary
 
@@ -34,7 +34,7 @@ topics: []
 - **Self-contradiction**: None found.
 
 ### Medium Issues Addressed
-- **Born-rule classification gap (cross-review primary finding)**: The article previously flagged Stapp as "the outlier: pragmatist about interpretation, yet realist about a mental pole that biases quantum outcomes" without using the new corridor-vs-outside-corridor terminology. The [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) article explicitly places Stapp's Zeno variant in "minimum-outside-the-corridor (Born-rule-bending)" while placing QBism and Healey in "corridor-reading (Born-rule-preserving)". **Resolution**: Added an explicit taxonomy callout in the Stapp section ("the Zeno mechanism is explicitly Born-rule-bending…placing Stapp in the minimum-outside-the-corridor category") and a parallel callout in the QBism section ("places QBism (like Healey) in the corridor family: single-event and ensemble-invisible, preserving standard Born statistics").
+- **Born-rule classification gap (cross-review primary finding)**: The article previously flagged Stapp as "the outlier: pragmatist about interpretation, yet realist about a mental pole that biases quantum outcomes" without using the new corridor-vs-outside-corridor terminology. The [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) article explicitly places Stapp's Zeno variant in "minimum-outside-the-corridor (Born-rule-bending)" while placing QBism and Healey in "corridor-reading (Born-rule-preserving)". **Resolution**: Added an explicit taxonomy callout in the Stapp section ("the Zeno mechanism is explicitly Born-rule-bending…placing Stapp in the minimum-outside-the-corridor category") and a parallel callout in the QBism section ("places QBism (like Healey) in the corridor family: single-event and ensemble-invisible, preserving standard Born statistics").
 - **Missing forward reference to canonical taxonomy article**: Resolved by adding `[[born-rule-violation-brain-interface-empirical-status]]` to `related_articles` frontmatter, to the inline text in Stapp and QBism sections, and to Further Reading.
 - **Redundancy between "Convergences and Divergences" and "What the Family Shares — and What Dualism Adds"**: Both sections listed Many-Worlds rejection, first-person ineliminability, agents-as-primitive. Resolution: "What the Family Shares" tightened from ~230 to ~120 words by removing the restated list and keeping the dualism-adds-the-participant move. The four-convergence list in "Convergences and Divergences" is the single authoritative version.
 - **Minor section-to-Relation-to-Site duplication**: Occam's Razor paragraph duplicated Fuchs's "false-started philosophies" framing in both places; trimmed the body version. The "Causal efficacy" paragraph's final sentence on QBism's normative Born rule as "surface of a causal one" is preserved in the Bidirectional Interaction tenet section; removed from body.
@@ -64,7 +64,7 @@ topics: []
 - "Causal efficacy" paragraph now ends on the cleaner "participants along for the ride" line rather than repeating the Born-rule coupling point that Relation-to-Site makes more sharply.
 
 ### Cross-links Added
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (frontmatter, Stapp section, QBism section, Further Reading)
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) (frontmatter, Stapp section, QBism section, Further Reading)
 
 ## Remaining Items
 

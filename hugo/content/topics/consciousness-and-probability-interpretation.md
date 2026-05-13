@@ -30,7 +30,7 @@ related_articles:
 - '[[voids-probability-intuition-void-2026-02-03]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[the-quantitative-comprehension-void]]'
-- '[[born-rule-violation-brain-interface-empirical-status]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 title: Consciousness and Probability Interpretation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -95,7 +95,7 @@ Similarly, the Born rule might describe how consciousness's qualitative selectio
 
 This resolves the paradox. Consciousness doesn't need to be good at probability because it doesn't *use* probability. Probability describes what consciousness does from a perspective consciousness itself doesn't occupy. The Born rule is a third-person description of a first-person process.
 
-This third-person-shadow reading—corridor dualism, in the Map's taxonomy—is the Map's working hypothesis rather than a settled commitment. Alternative readings within the same dualist framework hold that the smallest interaction actually sufficient to produce observed correlations may require Born-rule-bending departures (Stapp's quantum Zeno, Chalmers-McQueen Φ-collapse, Arana's time-extended weighting), or that consciousness is authoritative on an axis orthogonal to Born-rule prescription entirely ([trumping dualism](/concepts/trumping-preemption/)). The [empirical status of brain-internal Born-rule testing](/topics/born-rule-violation-brain-interface-empirical-status/) leaves all three options live: no experiment to date has probed the brain-internal selection regime at the precision that would adjudicate between them. The argument of this article works for corridor dualism without foreclosing the other readings—under Born-bending proposals, consciousness's qualitative mode of engagement still explains why probability is phenomenologically empty, with the Born rule itself then treated as a tested approximation rather than as a description of the interface.
+This third-person-shadow reading—corridor dualism, in the Map's taxonomy—is the Map's working hypothesis rather than a settled commitment. Alternative readings within the same dualist framework hold that the smallest interaction actually sufficient to produce observed correlations may require Born-rule-bending departures (Stapp's quantum Zeno, Chalmers-McQueen Φ-collapse, Arana's time-extended weighting), or that consciousness is authoritative on an axis orthogonal to Born-rule prescription entirely ([trumping dualism](/concepts/trumping-preemption/)). The [empirical status of brain-internal Born-rule testing](/topics/born-rule-and-the-consciousness-interface/) leaves all three options live: no experiment to date has probed the brain-internal selection regime at the precision that would adjudicate between them. The argument of this article works for corridor dualism without foreclosing the other readings—under Born-bending proposals, consciousness's qualitative mode of engagement still explains why probability is phenomenologically empty, with the Born rule itself then treated as a tested approximation rather than as a description of the interface.
 
 ## Why Consciousness Cannot Grasp Its Own Interface
 
@@ -143,7 +143,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Decision theory, self-locating uncertainty, and envariance all fail to recover the Born rule in MWI
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which QM interpretations leave room for consciousness at the interface
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why Born rule derivation failures point toward consciousness-collapse
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — Which interface proposals preserve, bend, or sit orthogonal to the Born rule, and what current experiments can and cannot decide
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Which interface proposals preserve, bend, or sit orthogonal to the Born rule, and what current experiments can and cannot decide
 
 ## References
 

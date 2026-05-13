@@ -20,12 +20,12 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [Pragmatist Quantum Foundations and the Agent-Shaped Hole](/topics/pragmatist-quantum-foundations-and-the-agent/)
 **Previous review**: [2026-04-23 14:40 (earlier today)](/reviews/deep-review-2026-04-23-pragmatist-quantum-foundations-and-the-agent/) — first cross-review against taxonomy article
-**Cross-review context**: Second pass after earlier cross-review against [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/). Since the 14:40 review, the article was softened on MWI-convergence and condensed 4534→3292 words. This review checks whether the cross-review alignment survived those subsequent edits and whether the new condensed phrasing introduced any misattribution or taxonomy drift.
+**Cross-review context**: Second pass after earlier cross-review against [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/). Since the 14:40 review, the article was softened on MWI-convergence and condensed 4534→3292 words. This review checks whether the cross-review alignment survived those subsequent edits and whether the new condensed phrasing introduced any misattribution or taxonomy drift.
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **None.** Cross-links to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) were preserved through the condense pass (frontmatter, Stapp section, QBism section, Further Reading). The MWI-softening refine improved philosophical honesty (acknowledges Wallace and Saunders contest the indexical argument) without introducing attribution error.
+- **None.** Cross-links to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) were preserved through the condense pass (frontmatter, Stapp section, QBism section, Further Reading). The MWI-softening refine improved philosophical honesty (acknowledges Wallace and Saunders contest the indexical argument) without introducing attribution error.
 
 ### Attribution Accuracy Check
 - **Misattribution**: None. Fuchs 2014 "veritable mascot" quote, Healey 2017 "authoritative and objectively correct prescriptions" quote, and DeBrota-Fuchs-Schack 2021 "quantum extension of Bayesian coherence" are all accurate.

@@ -1575,7 +1575,7 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-23 18:36 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/)
-- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (topic created 2026-04-23)
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) (topic created 2026-04-23)
 - **Previous review**: [2026-03-29](/reviews/deep-review-2026-03-29-consciousness-and-probability-interpretation/)
 - **Word count**: 2346 → 2508 (+162, still ok at 84% of topics/ soft threshold)
 - **Critical issues addressed**: 0
@@ -1588,7 +1588,7 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-23 18:31 UTC - deep-review
 - **Status**: Success
 - **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
-- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (topic created 2026-04-23)
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) (topic created 2026-04-23)
 - **Previous review**: [2026-04-18](/reviews/deep-review-2026-04-18-quantum-measurement-and-consciousness/)
 - **Word count**: 3087 → 3112 (+25, length-neutral — soft_warning category preserved)
 - **Critical issues addressed**: 0
@@ -1613,7 +1613,7 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-23 18:19 UTC - deep-review
 - **Status**: Success
 - **File**: [psychophysical-laws](/concepts/psychophysical-laws/)
-- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (topic created 2026-04-23)
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) (topic created 2026-04-23)
 - **Word count**: 3334 → 3352 (+18, length-neutral)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (outdated RNG empirical characterisation, missing cross-link to companion article)
@@ -1657,7 +1657,7 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-23 17:55 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/)
-- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) insights
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) insights
 - **Word count**: 1951 → 1988 (+37, 66% of 3000 soft threshold — normal mode)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (narrow MQI characterisation replaced with three-way taxonomy; missing cross-link to empirical-status article added)
@@ -1680,7 +1680,7 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-23 17:45 UTC - deep-review
 - **Status**: Success
 - **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
-- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) insights
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) insights
 - **Word count**: 3754 → 3783 (+29, 126% of 3000 soft threshold — length-neutral mode)
 - **Critical issues addressed**: 0 (no factual errors or misattributions introduced since prior review)
 - **Medium issues addressed**: 2 (corridor reading reframed as one of three Map branches, not "the" response; MQI phrasing corrected from "smallest deviation" to "smallest actually sufficient")
@@ -1693,7 +1693,7 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-23 17:41 UTC - deep-review
 - **Status**: Success
 - **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
-- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) insights
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) insights
 - **Word count**: 2427 → 2462 (+35, 98% of 2500 soft threshold)
 - **Critical issues addressed**: 1 (cross-article Born-rule classification inconsistency — corridor vs. minimum-outside-corridor fork now surfaced in Core Mechanism section rather than papered over)
 - **Medium issues addressed**: 0 (none unique to this cycle; prior stability holds)
@@ -1871,7 +1871,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2
 - **Enhancements made**: 3
-- **Notes**: Cross-review against newly created [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/). Added Hagan et al. (2002) counter-estimate to Decoherence Timescale Objection (with preserving qualifiers); added brain-interface programmes pointer in Current Experimental Constraints referencing the sister article's catalogue and corridor/minimum-outside-corridor/trumping taxonomy; added sister article to related_articles and Further Reading. Removed stale 2026-04-15 AI refinement log HTML comment. Third consecutive review with no critical issues. Length-neutral compliance partial: +115 net (soft threshold breach pre-existed; remains comfortably below hard).
+- **Notes**: Cross-review against newly created [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/). Added Hagan et al. (2002) counter-estimate to Decoherence Timescale Objection (with preserving qualifiers); added brain-interface programmes pointer in Current Experimental Constraints referencing the sister article's catalogue and corridor/minimum-outside-corridor/trumping taxonomy; added sister article to related_articles and Further Reading. Removed stale 2026-04-15 AI refinement log HTML comment. Third consecutive review with no critical issues. Length-neutral compliance partial: +115 net (soft threshold breach pre-existed; remains comfortably below hard).
 - **Output**: [deep-review-2026-04-23-testing-consciousness-collapse](/reviews/deep-review-2026-04-23-testing-consciousness-collapse/)
 
 ---

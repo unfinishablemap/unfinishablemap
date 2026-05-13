@@ -1,9 +1,10 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-05-13 18:51:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-29
-date: '2026-03-29'
+date: '2026-05-13'
 draft: false
 related_articles: []
 title: Research Notes - Post-Decoherence Selection Mechanisms
@@ -28,7 +29,7 @@ Decoherence eliminates interference between branches and selects a preferred bas
   - Physicists working on decoherence generally acknowledge it does not solve the measurement problem
   - Decoherence must be combined with a foundational approach (Bohm, Everett, GRW, or Copenhagen variants) to address definite outcomes
   - Two main formalisms: environmental/dynamical decoherence and decoherent histories
-- **Tenet alignment**: Strongly supports Minimal Quantum Interaction tenet—decoherence leaves a gap exactly where consciousness could operate
+- **Tenet alignment**: Compatible with Minimal Quantum Interaction — decoherence leaves a residual outcome-selection problem, but the gap is recognised by all interpretations; only the Map's independent dualist commitments motivate filling it with consciousness rather than (e.g.) GRW, Bohm, or branching.
 - **Quote**: "Decoherence as such does not provide a solution to the measurement problem, at least not unless it is combined with an appropriate foundational approach to the theory."
 
 ### Decoherence, the Measurement Problem, and Interpretations of Quantum Mechanics (Schlosshauer 2004)
@@ -49,7 +50,7 @@ Decoherence eliminates interference between branches and selects a preferred bas
   - Decoherence does not explain why measurements yield definite outcomes rather than superpositions
   - The diagonal density matrix after decoherence represents an improper mixture (derived from tracing out environment), not a proper mixture (classical ignorance)
   - This distinction is philosophically crucial: an improper mixture does not justify treating the system as being in one state or another
-- **Tenet alignment**: Supports dualism—the improper/proper mixture distinction means decoherence alone cannot ground definite experience
+- **Tenet alignment**: Compatible with dualism — the improper/proper mixture distinction is a foundational physics result accepted by physicalist interpretations as well; it shows decoherence alone cannot ground definite outcomes, but the inference to consciousness-mediated selection requires the Map's separate interactionist commitments.
 - **Quote**: "Decoherence does not explain why quantum systems produce definite outcomes, why the pointer basis is selected, or what it means for a macroscopic object to have a determinate state rather than merely appearing to have one."
 
 ### Consciousness Causes Collapse (von Neumann–Wigner Interpretation)

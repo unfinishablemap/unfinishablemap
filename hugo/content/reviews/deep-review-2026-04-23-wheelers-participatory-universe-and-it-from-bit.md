@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [Wheeler's Participatory Universe and It from Bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
 **Previous review**: [2026-04-06](/reviews/deep-review-2026-04-06-wheelers-participatory-universe-and-it-from-bit/)
-**Cross-review trigger**: New article [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (2026-04-23)
+**Cross-review trigger**: New article [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) (2026-04-23)
 
 ## Pessimistic Analysis Summary
 
@@ -28,7 +28,7 @@ topics: []
 - None. No factual errors, misattributions, or internal contradictions introduced since last review.
 
 ### Medium Issues Found
-- **Outdated framing of the Map's Born-rule response**: The Wheeler article presented the "corridor" reading — consciousness selects among Born-distributed outcomes without altering ensemble statistics — as the Map's response to the Born-rule tension. The newly synthesised [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) article now articulates this as one of three live branches (corridor-preserving / minimum-outside-corridor / trumping-orthogonal) that the Map holds in tension pending empirical adjudication. Presenting the corridor reading as "the Map's response" misrepresents the current state of the Map's position as more settled than it is. **Resolution**: Updated two passages (Quantum Information Foundations and Relation to Site Perspective → Minimal Quantum Interaction) to explicitly name the corridor reading as the Map's *working* position and flag the other two branches, with cross-link to the Born-rule article.
+- **Outdated framing of the Map's Born-rule response**: The Wheeler article presented the "corridor" reading — consciousness selects among Born-distributed outcomes without altering ensemble statistics — as the Map's response to the Born-rule tension. The newly synthesised [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) article now articulates this as one of three live branches (corridor-preserving / minimum-outside-corridor / trumping-orthogonal) that the Map holds in tension pending empirical adjudication. Presenting the corridor reading as "the Map's response" misrepresents the current state of the Map's position as more settled than it is. **Resolution**: Updated two passages (Quantum Information Foundations and Relation to Site Perspective → Minimal Quantum Interaction) to explicitly name the corridor reading as the Map's *working* position and flag the other two branches, with cross-link to the Born-rule article.
 - **"Smallest deviation from standard QM" phrasing was narrower than the tenet**: The MQI paragraph read "the smallest deviation from standard quantum mechanics that could permit mind-matter causation." The Born-rule article argues the correct tenet gloss is "smallest actually sufficient" — which may or may not be deviation-free depending on which branch is correct. **Resolution**: Reworded to "read as 'smallest actually sufficient,' not 'smallest that preserves ensemble statistics.'"
 
 ### Low Issues Found
@@ -54,11 +54,11 @@ topics: []
 ### Enhancements Made
 - Added three-branch taxonomy (corridor / minimum-outside-corridor / trumping) to both the Quantum Information Foundations section and the MQI tenet section in Relation to Site Perspective
 - Added "in photon, atom, and qubit experiments, though never inside a conscious brain mid-selection" qualifier to Born-rule statistics claim — accurately narrows the empirical record
-- Cross-linked [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) in frontmatter related_articles and Further Reading
+- Cross-linked [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) in frontmatter related_articles and Further Reading
 - Net word count: 3754 → 3783 (+29 words, near length-neutral)
 
 ### Cross-links Added
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — in frontmatter related_articles, in body text (twice), and in Further Reading
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) — in frontmatter related_articles, in body text (twice), and in Further Reading
 
 ## Remaining Items
 

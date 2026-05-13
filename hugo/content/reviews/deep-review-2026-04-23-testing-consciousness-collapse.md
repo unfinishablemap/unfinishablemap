@@ -23,7 +23,7 @@ topics: []
 
 ## Context
 
-Cross-review prompted by the creation of [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (2026-04-23). The sister article introduces a corridor/minimum-outside-the-corridor/trumping taxonomy for Born-rule status, catalogues active brain-interface experimental programmes (Kerskens 2022, Babcock-Hameroff 2025, Nirvanic 2025, Maier-Dechamps 2018), and cites Hagan, Hameroff & Tuszyński (2002) as a direct counter-estimate to Tegmark's 10⁻¹³s neural decoherence calculation. Focus: whether testing-consciousness-collapse should acknowledge these and how to cross-link without redundancy.
+Cross-review prompted by the creation of [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) (2026-04-23). The sister article introduces a corridor/minimum-outside-the-corridor/trumping taxonomy for Born-rule status, catalogues active brain-interface experimental programmes (Kerskens 2022, Babcock-Hameroff 2025, Nirvanic 2025, Maier-Dechamps 2018), and cites Hagan, Hameroff & Tuszyński (2002) as a direct counter-estimate to Tegmark's 10⁻¹³s neural decoherence calculation. Focus: whether testing-consciousness-collapse should acknowledge these and how to cross-link without redundancy.
 
 The article was declared converged in the 2026-04-03 review, then had one refinement (2026-04-15) adding the Decoherence Timescale Objection subsection. Entering this review at 3415 words (soft_warning, threshold 3000), so length-neutral mode applies.
 
@@ -48,7 +48,7 @@ All checks passed:
 ### Medium Issues Found
 1. **Decoherence Timescale Objection section omitted Hagan et al.'s 2002 counter-estimate**: The section stated Penrose-Hameroff "must explain" microtubule coherence survival, but Hagan et al. have explicitly attempted that explanation with ~10⁻⁵ s estimates under Debye-layer screening. Without acknowledgement, the article mildly strawmans the Penrose-Hameroff programme. **Resolution**: Added one sentence citing Hagan et al. (2002) with two qualifiers — "seven orders of magnitude above Tegmark's figure" (the factual contestation) and "still far short of perceptual timescales" (preserving the article's post-decoherence-selection position).
 
-2. **Current Experimental Constraints section omitted active brain-interface programmes**: The two-entry section (Gran Sasso, macromolecule interferometry) missed the parallel experimental strand catalogued in the sister article — Kerskens 2022, Babcock-Hameroff 2025, Nirvanic 2025, Maier-Dechamps 2018. **Resolution**: Added a compact third bullet pointing readers to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) for the detailed catalogue and corridor/minimum-outside-corridor/trumping taxonomy, rather than duplicating the content here.
+2. **Current Experimental Constraints section omitted active brain-interface programmes**: The two-entry section (Gran Sasso, macromolecule interferometry) missed the parallel experimental strand catalogued in the sister article — Kerskens 2022, Babcock-Hameroff 2025, Nirvanic 2025, Maier-Dechamps 2018. **Resolution**: Added a compact third bullet pointing readers to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) for the detailed catalogue and corridor/minimum-outside-corridor/trumping taxonomy, rather than duplicating the content here.
 
 ### Low Issues Found
 1. **Stale AI refinement log HTML comment**: The 2026-04-15 refinement left an HTML comment (lines 267-277) flagged "this log should be removed after human review". Two deep reviews later it was still present. **Resolution**: Removed.
@@ -81,7 +81,7 @@ The article's distinctive honest concessions remain intact:
 - Stale AI refinement log HTML comment removed
 
 ### Cross-links Added
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — in related_articles, inline in Current Experimental Constraints, and in Further Reading
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) — in related_articles, inline in Current Experimental Constraints, and in Further Reading
 
 ## Length Accounting
 
@@ -98,7 +98,7 @@ The three additions (Hagan sentence, brain-interface bullet, Further Reading lin
 
 ## Stability Notes
 
-- The article remains **converged** on its core architecture. The 2026-04-23 cross-review added targeted cross-references to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) and one factual fairness improvement (Hagan et al.), but no structural or argumentative changes were needed.
+- The article remains **converged** on its core architecture. The 2026-04-23 cross-review added targeted cross-references to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) and one factual fairness improvement (Hagan et al.), but no structural or argumentative changes were needed.
 - No critical issues found — this is the third consecutive review with no criticals.
 - Bedrock philosophical disagreements from adversarial personas remain unchanged — expected standoffs, not fixable issues.
 - Future reviews should NOT re-flag "article doesn't engage deeply with corridor/trumping taxonomy" as critical — that taxonomy is properly the domain of the sister article, and the cross-link now present is the correct structural response. Pulling the taxonomy fully into this article would create redundancy across the topic pair.

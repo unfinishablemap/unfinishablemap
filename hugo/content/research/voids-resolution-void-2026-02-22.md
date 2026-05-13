@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-05 01:49:00+00:00
+ai_modified: 2026-05-13 18:51:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -46,7 +46,7 @@ Consciousness operates at a characteristic resolution—a grain size—radically
   - Physical substrates are discrete—clouds of achromatic particles, networks of neurons
   - This mismatch means experience cannot simply be identical with its neural substrate
   - Sellars concludes we need an expanded ontology with items that are "truly coloured"
-- **Tenet alignment**: Directly supports dualism—the grain mismatch suggests experience has properties that no arrangement of physical particles possesses
+- **Tenet alignment**: Compatible with dualism — Sellars' "grain problem" historically motivated his expanded ontology of "absolute processes," not substance dualism. Identity theorists and emergentists have proposed responses; the inference from grain mismatch to dualism requires additional argument the Map supplies independently.
 - **Quote**: "Physical objects qua clouds of discrete particles cannot instantiate [homogeneous phenomenal] qualities"
 
 ### Andrew Lee — Consciousness and Continuity

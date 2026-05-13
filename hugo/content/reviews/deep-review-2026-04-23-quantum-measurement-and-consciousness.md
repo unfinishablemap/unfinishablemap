@@ -22,7 +22,7 @@ topics: []
 
 ## Cross-Review Context
 
-This review was conducted as a cross-review following the creation of [The Empirical Status of Born-Rule-Violating Consciousness-Physics Tests at the Brain Interface](/topics/born-rule-violation-brain-interface-empirical-status/) (2026-04-23). The new article introduces a three-way taxonomy of consciousness-physics positions — *corridor dualism* (Born-preserving), *minimum-outside-the-corridor dualism* (Born-bending), and *trumping dualism* (orthogonal to Born) — and explicitly holds the corridor-vs-outside distinction as a live branch rather than a settled Map commitment. The review goal was to ensure the target article's treatment of ensemble statistics is consistent with that live-branch framing and that the new sibling is cross-linked from the relevant loci.
+This review was conducted as a cross-review following the creation of [The Empirical Status of Born-Rule-Violating Consciousness-Physics Tests at the Brain Interface](/topics/born-rule-and-the-consciousness-interface/) (2026-04-23). The new article introduces a three-way taxonomy of consciousness-physics positions — *corridor dualism* (Born-preserving), *minimum-outside-the-corridor dualism* (Born-bending), and *trumping dualism* (orthogonal to Born) — and explicitly holds the corridor-vs-outside distinction as a live branch rather than a settled Map commitment. The review goal was to ensure the target article's treatment of ensemble statistics is consistent with that live-branch framing and that the new sibling is cross-linked from the relevant loci.
 
 ## Pessimistic Analysis Summary
 
@@ -40,7 +40,7 @@ None. All attribution checks pass. No misattribution, dropped qualifiers, source
 - **MWI self-locating uncertainty**: Bedrock disagreement. Already addressed in 2026-04-17 refinement. Not re-flagged.
 - **Eliminative materialist rejection of the hard problem**: Bedrock disagreement. Not re-flagged.
 - **QBism resistance to Map's reading**: Already cross-linked to pragmatist article in 2026-04-18 review. Preserved.
-- **Born-rule purist objection ("no evidence of Born violation so there is no gap to exploit")**: Now directly addressed by the cross-link to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/), which maps the empirical landscape honestly — the brain-internal regime has not been probed, so existing tests cannot foreclose Born-bending variants.
+- **Born-rule purist objection ("no evidence of Born violation so there is no gap to exploit")**: Now directly addressed by the cross-link to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/), which maps the empirical landscape honestly — the brain-internal regime has not been probed, so existing tests cannot foreclose Born-bending variants.
 
 ### Unsupported Claims
 
@@ -71,13 +71,13 @@ None identified.
 
 - Revised "Statistical invisibility" → "Statistical compatibility" bullet to reflect the live-branch stance on corridor vs. Born-bending selection
 - Revised "Exploit the Gap" paragraph to introduce the three-flavor taxonomy and classify named proposals correctly
-- Added [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) to related_articles frontmatter
+- Added [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) to related_articles frontmatter
 - Added corresponding Further Reading bullet
 - Updated timestamps
 
 ### Cross-links Added
 
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — in related_articles frontmatter, Causal Closure Loophole section, Exploit the Gap section, and Further Reading
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) — in related_articles frontmatter, Causal Closure Loophole section, Exploit the Gap section, and Further Reading
 
 ## Word Count
 
@@ -92,7 +92,7 @@ None. The corridor/Born-bending/trumping taxonomy is now cross-linked from the t
 ## Stability Notes
 
 - The "Statistical compatibility" framing is now consistent with the Map's live-branch stance. Future reviews should NOT push this back toward a universal "must preserve Born statistics" — that would reintroduce the corridor-dualism overcommitment the sibling article was explicitly written to resist.
-- The three-flavor taxonomy (corridor / Born-bending / trumping) is the sibling article's territory. Future reviews should not expand its treatment here beyond the current portal-level cross-link. Content belongs in [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/).
+- The three-flavor taxonomy (corridor / Born-bending / trumping) is the sibling article's territory. Future reviews should not expand its treatment here beyond the current portal-level cross-link. Content belongs in [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/).
 - The interpretation-relative framing (2026-04-17) remains stable and should be preserved in future reviews.
 - The pragmatist-family cross-link (2026-04-18) remains stable.
 - Bedrock disagreements (MWI proponents, eliminativists) remain stable and should not be re-flagged as critical.

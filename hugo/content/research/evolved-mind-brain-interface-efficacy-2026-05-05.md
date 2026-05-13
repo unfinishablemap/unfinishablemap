@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-7
 concepts: []
 created: 2026-05-05
-date: '2026-05-05'
+date: '2026-05-13'
 draft: false
 related_articles: []
 title: Research Notes - Evolved Mind-Brain Interface Efficacy as Explanatory Variable
@@ -292,7 +292,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 ## Gaps in Research
 
 - **No quantitative cross-species interface-efficacy operationalisation**: The four axes (bandwidth, fidelity, granularity, candidate-type coupling) are conceptually distinct but no measurement procedure currently distinguishes them across species.
-- **No Born-rule deviation comparative data**: The Map's [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) note already documents that Born-rule deviation evidence is currently null for humans; comparative cross-species data does not exist at all.
+- **No Born-rule deviation comparative data**: The Map's [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) note already documents that Born-rule deviation evidence is currently null for humans; comparative cross-species data does not exist at all.
 - **No cross-species GNW selection-bandwidth measurement**: Dehaene's framework assumes GNW signatures across primates but does not measure bandwidth or selection-rate quantitatively.
 - **No cetacean cognitive-grade settled estimate**: The cetacean-vs-human cortical-neuron-count argument cannot be resolved without a settled comparative cognitive-grade measure, which Gutfreund's challenge says may be permanently elusive.
 - **No interface-side reading of corvid convergent intelligence**: The convergent-evolution literature on corvid NCL is brain-side only; the interface-side reading proposed here is novel and untested.

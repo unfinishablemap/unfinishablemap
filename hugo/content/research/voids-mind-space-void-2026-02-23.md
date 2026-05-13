@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 17:05:00+00:00
+ai_modified: 2026-05-13 18:51:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -60,7 +60,7 @@ We occupy a single point in the space of possible minds but have no way to surve
   - We cannot form a conception of what it is like to be another type of mind without taking up its point of view
   - Realism about the subjective domain implies "the existence of facts beyond the reach of human concepts"
   - The richness of bat or alien phenomenology may be permanently denied to us "by the limits of our nature"
-- **Tenet alignment**: Directly supports dualism (consciousness has irreducible subjective character) and cognitive closure (some conscious facts are beyond human conceptual reach)
+- **Tenet alignment**: Compatible with dualism — Nagel's "irreducible subjective character" argument *constrains* physicalism but Nagel himself has consistently rejected substance dualism and pursued a "view from nowhere" non-reductive position. Directly supports cognitive closure (some conscious facts are beyond human conceptual reach).
 - **Quote**: "There is no reason to suppose that [bat experience] is subjectively like anything we can experience or imagine"
 
 ### Colin McGinn — Cognitive Closure and New Mysterianism
@@ -105,7 +105,7 @@ We occupy a single point in the space of possible minds but have no way to surve
   - These alternative forms "represent definite types of mentality with their own field of application and adaptation"
   - No "complete account of the universe can be final if it disregards these other forms of consciousness"
   - James's pluralism — the world is genuinely multiple, not reducible to one substance — supports a vast mind-space
-- **Tenet alignment**: Supports dualism's implication that mind-space is real and vast. James's insistence that alternative mental states "open new regions of understanding" suggests location in mind-space determines epistemic access
+- **Tenet alignment**: Compatible with dualism's implication that mind-space is real and vast — James was a pluralist and pragmatist, not a substance dualist; his "alternative forms of consciousness" thesis is equally compatible with non-dualist accounts that recognise diverse forms of cognition without granting consciousness independent ontological status.
 
 ### Self-Locating Beliefs — Lewis, Perry, Elga
 - **URL**: https://plato.stanford.edu/entries/self-locating-beliefs/

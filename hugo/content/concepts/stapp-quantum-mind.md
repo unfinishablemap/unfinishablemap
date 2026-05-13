@@ -36,7 +36,7 @@ related_articles:
 - '[[stapp-mental-effort-mind-matter-2026-01-14]]'
 - '[[attention-as-interface]]'
 - '[[what-consciousness-tells-us-about-physics]]'
-- '[[born-rule-violation-brain-interface-empirical-status]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 title: Stapp's Quantum Mind Model
 topics:
 - '[[topics/free-will]]'
@@ -62,7 +62,7 @@ Stapp proposes that neural firing patterns exist in superposition until "observe
 
 The key insight: consciousness doesn't *generate* neural patterns—it *selects* among patterns the brain presents. This represents basis control (choosing which question to ask) combined with timing control (determining when observation occurs)—two of the three [coupling-modes](/concepts/coupling-modes/) by which consciousness might influence quantum outcomes. As a forward-in-time mechanism, the Zeno model is one of three [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/) frameworks the Map develops.
 
-Crucially, the mechanism satisfies [conservation laws](/concepts/conservation-laws-and-mental-causation/)—consciousness shapes which possibility actualises without adding energy. Whether [Born-rule](/topics/born-rule-and-the-consciousness-interface/) statistics survive at the ensemble is a live question: the [corridor reading](/concepts/observational-closure/) treats single selections as averaging to |⟨φ|ψ⟩|² and leaving no detectable signature, while the Map's [empirical-status taxonomy](/topics/born-rule-violation-brain-interface-empirical-status/) classifies Stapp's picture as Born-rule-bending because attention-modulated observation rate shifts aggregate probabilities ("minimum-outside-the-corridor"). Either reading addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined, and consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
+Crucially, the mechanism satisfies [conservation laws](/concepts/conservation-laws-and-mental-causation/)—consciousness shapes which possibility actualises without adding energy. Whether [Born-rule](/topics/born-rule-and-the-consciousness-interface/) statistics survive at the ensemble is a live question: the [corridor reading](/concepts/observational-closure/) treats single selections as averaging to |⟨φ|ψ⟩|² and leaving no detectable signature, while the Map's [empirical-status taxonomy](/topics/born-rule-and-the-consciousness-interface/) classifies Stapp's picture as Born-rule-bending because attention-modulated observation rate shifts aggregate probabilities ("minimum-outside-the-corridor"). Either reading addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined, and consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 
 Among [proposed coupling mechanisms](/concepts/psychophysical-laws/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
 
@@ -183,7 +183,7 @@ The model generates falsifiable predictions:
 - [stapp-mental-effort-mind-matter-2026-01-14](/research/stapp-mental-effort-mind-matter-2026-01-14/) — Detailed research notes
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — How Stapp's Zeno mechanism fits within the broader interpretive landscape
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Comparative survey: Stapp's Zeno approach alongside five other amplification mechanisms
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — Where Stapp's Zeno picture sits in the corridor-vs-minimum-outside-corridor taxonomy, and what current experiments can and cannot foreclose
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Where Stapp's Zeno picture sits in the corridor-vs-minimum-outside-corridor taxonomy, and what current experiments can and cannot foreclose
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the reverse inference from consciousness to physics, with the Born rule as interface specification
 
 ## References

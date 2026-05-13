@@ -16,7 +16,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[causal-powers]]'
 - '[[brain-interface-boundary]]'
-- '[[born-rule-violation-brain-interface-empirical-status]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 - '[[evolution-of-consciousness]]'
 - '[[consciousness-bandwidth-architecture]]'
 - '[[consciousness-selecting-neural-patterns]]'
@@ -106,7 +106,7 @@ This is the discipline [evidential-status-discipline](/project/evidential-status
 
 Several measurements would discriminate interface-efficacy and brain-side scaling readings if they could be operationalised. None is currently feasible. Naming them specifies what work would need to happen for the readings to pull apart in evidence rather than only interpretation:
 
-- **Born-rule deviation patterns scaling with phylogenetic intelligence rank**. If interface efficacy varies across species and the interface acts via probability bias on quantum-influenced neural events, the pattern of deviation from Born-rule expectation — were it ever measurable in vivo — would scale with intelligence rank rather than with cortical neuron count. The Map's [standing-status note](/topics/born-rule-violation-brain-interface-empirical-status/) documents that the human case alone is currently null; cross-species comparative data does not exist at all.
+- **Born-rule deviation patterns scaling with phylogenetic intelligence rank**. If interface efficacy varies across species and the interface acts via probability bias on quantum-influenced neural events, the pattern of deviation from Born-rule expectation — were it ever measurable in vivo — would scale with intelligence rank rather than with cortical neuron count. The Map's [standing-status note](/topics/born-rule-and-the-consciousness-interface/) documents that the human case alone is currently null; cross-species comparative data does not exist at all.
 - **Cross-species GNW bandwidth and selection-rate comparisons**. Workspace operating-rate measurements across primates, cetaceans, and corvids during analogous cognitive tasks would test whether the bandwidth axis tracks cognitive grade or substrate.
 - **Volitional/reflexive task contrasts in neural-coherence-domain signatures**. Interface-mediated processing should show coherence-domain signatures absent in matched reflexive control tasks, with the contrast scaling across species along the cognitive gradient.
 - **Candidate-set-diversity correlates of reportable content**. If candidate-type coupling is the variable, then the diversity of neural-pattern types whose firing precedes a reportable cognitive operation should differ across species during analogous tasks. Multi-unit recording in PFC during analogical-reasoning tasks comparing humans, macaques, and corvids would in principle test this; the methodological barriers are non-trivial.
@@ -143,7 +143,7 @@ The contribution is a re-framing of comparative-cognition data, not a new empiri
 - [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/) — the deepest test case for whether interface scaling extends below the vertebrate clade.
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — the human-internal version of the bandwidth axis.
 - [baseline-cognition](/concepts/baseline-cognition/) — what the unconscious substrate can do without interface contribution, relevant for cross-species inference.
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — the empirical floor against which interface-efficacy claims must be calibrated.
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — the empirical floor against which interface-efficacy claims must be calibrated.
 - [selection-only-mind-influence](/topics/selection-only-mind-influence/) — the information-theoretic limits on per-event selection that supply the strict background within which the four efficacy axes operate.
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the labelling discipline that keeps tenet-coherence and evidence-elevation distinct.
 - [framework-stage-calibration](/project/framework-stage-calibration/) — when a framework is mature enough to warrant prediction-generation rather than reframing alone.

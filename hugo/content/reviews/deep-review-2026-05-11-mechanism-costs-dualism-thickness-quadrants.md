@@ -38,7 +38,7 @@ topics: []
 
 ### Counterarguments Considered
 
-- **Quantum-skeptic (Tegmark): the Q1 / Q4 mechanism stories presuppose brain-scale indeterminacy.** The article already addresses this via the citation to Tegmark (2000) at Q1 and at Q4 (Stapp's narrow-channel claim), and via the cross-link to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/). No further response required.
+- **Quantum-skeptic (Tegmark): the Q1 / Q4 mechanism stories presuppose brain-scale indeterminacy.** The article already addresses this via the citation to Tegmark (2000) at Q1 and at Q4 (Stapp's narrow-channel claim), and via the cross-link to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/). No further response required.
 - **Hard-nosed physicalist (Dennett-style): Q2 strict is the correct cell and there is no debt to pay.** The article treats Q2 strict on its own terms (no causation account owed, no interface needed) and notes that the Map's framework rules it out via Tenet 3, with Kim's exclusion argument flagged as an analogous in-physicalism concern. The disagreement is at the framework boundary; no in-framework refutation is attempted, and that restraint is correct.
 - **Eliminative-materialist (Churchland): the whole grid taxonomizes pre-scientific ontology.** Bedrock framework-boundary disagreement; not flagged as a critical issue.
 - **Buddhist philosopher (Nāgārjuna): substance commitments behind the grid are themselves suspect.** Bedrock framework-boundary disagreement; not flagged as a critical issue.
@@ -102,7 +102,7 @@ None requiring follow-up. The article is at 2863 words (within the topics/ soft 
 
 Engagement classifications by mode (per §2.6 diagnostic):
 - Engagement with Kim's exclusion argument inside Q2 exposition: framework-boundary marking (Mode Three). The Map's ruling-out of Q2 strict via Tenet 3 is acknowledged as the Map's reason; Kim's exclusion is cited as an analogous in-physicalism concern, not as a refutation of Q2 from within physicalism.
-- Engagement with Tegmark's decoherence objection inside Q4 exposition: framework-boundary marking (Mode Three). The Tegmark objection is named as the standard empirical objection; the article does not claim to refute it, only to point to the live empirical debate documented in [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/).
+- Engagement with Tegmark's decoherence objection inside Q4 exposition: framework-boundary marking (Mode Three). The Tegmark objection is named as the standard empirical objection; the article does not claim to refute it, only to point to the live empirical debate documented in [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/).
 - No other named-opponent engagements present.
 
 ---

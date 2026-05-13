@@ -21,7 +21,7 @@ topics: []
 **Date**: 2026-04-23 (18:19 UTC)
 **Article**: [Psychophysical Laws and Coupling](/concepts/psychophysical-laws/)
 **Previous review**: [2026-04-23 (09:38 UTC, trumping-preemption cross-review)](/reviews/deep-review-2026-04-23-psychophysical-laws/)
-**Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (topic created 2026-04-23)
+**Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) (topic created 2026-04-23)
 
 ## Pessimistic Analysis Summary
 
@@ -32,10 +32,10 @@ None. Attribution accuracy check passed. No factual errors, misattributions, or 
 ### Medium Issues Found
 
 1. **Outdated RNG empirical characterisation**: The article described RNG experiments as having "mixed results attributed to publication bias." This was accurate as of Bösch et al. (2006) but is now superseded by Maier and Dechamps (2018), which used preregistered Bayesian methodology to report **strong evidence for the null hypothesis** — the single strongest result in the micro-PK debate as of 2026. The born-rule-violation article correctly foregrounds this update; the psychophysical-laws article had not yet incorporated it.
-   - **Resolution**: Updated the RNG paragraph in the Testing section to cite both Bösch (2006) and Maier-Dechamps (2018), noting the null. Added a pointer to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) for corridor dualism's prediction of no statistical signature. Added Bösch (2006) and Maier-Dechamps (2018) to the References list.
+   - **Resolution**: Updated the RNG paragraph in the Testing section to cite both Bösch (2006) and Maier-Dechamps (2018), noting the null. Added a pointer to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) for corridor dualism's prediction of no statistical signature. Added Bösch (2006) and Maier-Dechamps (2018) to the References list.
 
 2. **Missing cross-link to the born-rule-violation empirical-status article**: Given the article now explicitly invokes the three-option MQI-sanctioned taxonomy (corridor / minimum-outside-the-corridor / trumping), it should link to the article cataloguing the empirical status of each option.
-   - **Resolution**: Added [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) to Further Reading and to the `related_articles` frontmatter list.
+   - **Resolution**: Added [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) to Further Reading and to the `related_articles` frontmatter list.
 
 3. **Length-neutral mode required** (article at 133% of soft threshold before this review).
    - **Resolution**: Applied compensating trims to four passages (opening chapter summary, content-specificity sentence, Stapp/Law Family 1 paragraph, contemplative evidence, coupling vs. correlation, falsification conditions). Net growth: +18 words (3334 → 3352). Effectively length-neutral given the factual substance of the additions.
@@ -75,13 +75,13 @@ All six adversarial personas engaged. No new counterarguments beyond those ident
 ### Enhancements Made
 
 1. **Updated RNG empirical characterisation** — now cites Bösch (2006) and Maier-Dechamps (2018) with the preregistered null as the current empirical state, framed to show that corridor dualism is not refuted by this finding (it predicts no signature by construction).
-2. **Added [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) cross-link** — in the Testing section, Further Reading, and `related_articles` frontmatter. This closes the natural cross-linking gap between the conceptual coupling-law framework and its empirical test landscape.
+2. **Added [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) cross-link** — in the Testing section, Further Reading, and `related_articles` frontmatter. This closes the natural cross-linking gap between the conceptual coupling-law framework and its empirical test landscape.
 3. **Added two References** — Bösch et al. (2006) and Maier & Dechamps (2018).
 4. **Tightened five passages** to offset the additions: opening chapter summary, content-specificity sentence, Stapp mechanism paragraph, contemplative evidence, coupling vs. correlation, falsification conditions.
 
 ### Cross-links Added
 
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (Testing section, Further Reading, related_articles)
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) (Testing section, Further Reading, related_articles)
 
 ## Word Count
 

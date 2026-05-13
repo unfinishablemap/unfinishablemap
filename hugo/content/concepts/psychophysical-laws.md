@@ -53,7 +53,7 @@ related_articles:
 - '[[consciousness-bandwidth-architecture]]'
 - '[[the-interface-problem]]'
 - '[[amplification-mechanisms-consciousness-physics]]'
-- '[[born-rule-violation-brain-interface-empirical-status]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 title: Psychophysical Laws and Coupling
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -221,7 +221,7 @@ Any coupling law faces the [decoherence](/concepts/decoherence/) objection: quan
 
 ## Testing the Coupling Law
 
-**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes. Bösch et al. (2006) found small positive effects consistent with publication bias; Maier and Dechamps (2018), using preregistered Bayesian methodology, report strong evidence for the null. If coupling restricts selection to attention-controlled neural systems, RNG experiments should fail by design — and [corridor dualism](/topics/born-rule-violation-brain-interface-empirical-status/) predicts no statistical signature at any sensitivity. The empirical state of Born-rule testing at the brain interface is catalogued in that companion article.
+**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes. Bösch et al. (2006) found small positive effects consistent with publication bias; Maier and Dechamps (2018), using preregistered Bayesian methodology, report strong evidence for the null. If coupling restricts selection to attention-controlled neural systems, RNG experiments should fail by design — and [corridor dualism](/topics/born-rule-and-the-consciousness-interface/) predicts no statistical signature at any sensitivity. The empirical state of Born-rule testing at the brain interface is catalogued in that companion article.
 
 **A better test**: Measure whether conscious effort correlates with neural pattern stability in attention networks. If Stapp's Zeno mechanism is real, effort should map to pattern persistence.
 
@@ -269,7 +269,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [delegatory-causation](/concepts/delegatory-causation/) — Saad's Subset Law* and Delegatory Law: the developed authority-selecting psychophysical law
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The Born-rule distribution as the physical grounding of Saad's default causal profile, giving empirical content to psychophysical coupling
 - [the-interface-problem](/topics/the-interface-problem/) — Where consciousness meets the brain and the challenge of specifying the mind-matter mapping
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — Which coupling proposals require Born-rule violation, active experimental programmes, and what negative results would and would not foreclose
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Which coupling proposals require Born-rule violation, active experimental programmes, and what negative results would and would not foreclose
 - [functionalism](/concepts/functionalism/) — The view the Map rejects
 - [haecceity](/concepts/haecceity/) — Why organizational invariance is rejected
 - [chalmers-psychophysical-laws-2026-01-17](/research/chalmers-psychophysical-laws-2026-01-17/) — Research notes on Chalmers' framework

@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [Falsification Roadmap for the Interface Model](/topics/falsification-roadmap-for-the-interface-model/)
 **Previous review**: [2026-04-15 (fifth review)](/reviews/deep-review-2026-04-15-falsification-roadmap-for-the-interface-model/)
-**Cross-review context**: [The Empirical Status of Born-Rule-Violating Consciousness-Physics Tests at the Brain Interface](/topics/born-rule-violation-brain-interface-empirical-status/) (topic page created 2026-04-23)
+**Cross-review context**: [The Empirical Status of Born-Rule-Violating Consciousness-Physics Tests at the Brain Interface](/topics/born-rule-and-the-consciousness-interface/) (topic page created 2026-04-23)
 
 ## Pessimistic Analysis Summary
 

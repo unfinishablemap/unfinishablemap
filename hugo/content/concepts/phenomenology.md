@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-25 20:29:00+00:00
+ai_modified: 2026-05-13 22:22:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[intentionality]]'
 - '[[qualia]]'
 - '[[temporal-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[mysterianism]]'
 - '[[self-and-self-consciousness]]'
 - '[[introspection]]'
@@ -34,7 +35,7 @@ description: The philosophical method of investigating consciousness through sys
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-19 13:38:00+00:00
+last_deep_review: 2026-05-13 22:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,9 +86,9 @@ For the Map's framework, the body shapes conscious experience without producing 
 
 ## The Phenomenology of Selfhood
 
-The epoché reveals not just objects but the structure of subjectivity itself. What remains after bracketing is a first-person perspective—consciousness irreducibly *mine*. Husserl's method thus repeated, with greater precision, the [discovery Descartes had made](/topics/the-subject-object-distinction-as-philosophical-discovery/) two centuries earlier: the subject-object distinction is not a cultural artefact but a structural feature of experience, uncovered through systematic inquiry.
+The epoché reveals not just objects but the structure of subjectivity itself. What remains after bracketing is a first-person perspective—consciousness irreducibly *mine*. Husserl's method thus refined the [discovery Descartes had made](/topics/the-subject-object-distinction-as-philosophical-discovery/) two centuries earlier: the subject-object distinction has a structural basis in experience itself, accessible through systematic inquiry.
 
-Gallagher and Zahavi identify this as the [minimal self](/concepts/self-and-self-consciousness/)—pre-reflective self-awareness accompanying every experience. Not the narrative self but the "for-me-ness" built into experience itself. This minimal self resists elimination: every experience is *someone's* experience. [Clinical phenomenology](/topics/clinical-phenomenology-and-altered-experience/) confirms this: in schizophrenia, the minimal self can be selectively disrupted—a disturbance of *ipseity* that strips experiences of their quality of belonging to someone while leaving consciousness intact. If the minimal self is more fundamental than narrative identity, the first-person perspective might persist even when memory fragments—supporting the Map's emphasis on indexical identity.
+Gallagher and Zahavi identify this as the [minimal self](/concepts/self-and-self-consciousness/)—pre-reflective self-awareness accompanying every experience. Not the narrative self but the "for-me-ness" built into experience itself. This minimal self resists elimination: every experience is *someone's* experience. [Clinical phenomenology](/topics/clinical-phenomenology-and-altered-experience/) confirms this: in schizophrenia, the minimal self can be selectively disrupted—a disturbance of *ipseity* that strips experiences of their quality of belonging to someone while leaving consciousness intact. If the minimal self is more fundamental than narrative identity, the first-person perspective might persist even when memory fragments—supporting the Map's emphasis on indexical identity. Where the minimal self provides the synchronic ground of for-me-ness, [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) supplies the complementary diachronic phenomenology of temporal self-projection across remembered and anticipated time.
 
 ## The Reliability Objection
 
@@ -119,7 +120,7 @@ Phenomenology directly engages the hard problem by insisting on three claims:
 2. These features are accessible only from within
 3. No amount of functional or structural description captures "what it's like"
 
-The hard problem isn't a temporary gap in our knowledge. It's a structural feature of the relationship between first-person phenomenology and third-person physics. Phenomenological analysis reveals complexity in conscious experience that physical description systematically omits.
+The hard problem reflects a structural feature of the relationship between first-person phenomenology and third-person physics, not a temporary gap our knowledge will eventually close. Phenomenological analysis reveals complexity in conscious experience that physical description systematically omits.
 
 ## The Illusionist Challenge
 

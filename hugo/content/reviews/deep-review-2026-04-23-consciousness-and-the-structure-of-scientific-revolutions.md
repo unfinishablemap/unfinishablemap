@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [Consciousness and the Structure of Scientific Revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/)
 **Previous review**: [2026-04-05](/reviews/deep-review-2026-04-05-consciousness-and-the-structure-of-scientific-revolutions/)
-**Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) insights
+**Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) insights
 
 ## Pessimistic Analysis Summary
 
@@ -45,10 +45,10 @@ topics: []
 
 ### Enhancements Made
 - Replaced the one-line MQI characterisation with the three-way taxonomy (corridor / minimum-outside-the-corridor / trumping), sourced to the new Born-rule empirical-status article
-- Added [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) to related_articles and Further Reading
+- Added [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) to related_articles and Further Reading
 
 ### Cross-links Added
-- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (in "Why No Revolution Has Occurred", Further Reading, frontmatter)
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) (in "Why No Revolution Has Occurred", Further Reading, frontmatter)
 
 ## Remaining Items
 

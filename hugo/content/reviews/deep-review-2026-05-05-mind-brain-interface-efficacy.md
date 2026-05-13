@@ -40,7 +40,7 @@ None. Attribution checks against the seed research note ([evolved-mind-brain-int
 ### Counterarguments Considered
 
 - **Eliminative materialism / hard-nosed physicalism**: bedrock disagreement at the framework boundary; not a correctable defect.
-- **Quantum skepticism (Tegmark)**: addressed by the article's reference to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) and by the explicit speculative-integration tier label.
+- **Quantum skepticism (Tegmark)**: addressed by the article's reference to [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-and-the-consciousness-interface/) and by the explicit speculative-integration tier label.
 - **Many-worlds defence**: not directly engaged in this article; bedrock disagreement.
 - **Empiricism (Popper-style)**: addressed by the "Distinguishing Observables in Principle" section and by the explicit acknowledgment that these are observables in principle, not procedures.
 

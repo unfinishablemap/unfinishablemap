@@ -1,13 +1,116 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13 18:23:00+00:00
+ai_modified: 2026-05-13 22:22:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-13'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-13 22:22 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology](/concepts/phenomenology/)
+- **Cross-review context**: Reconcile the diachronic-identity ground with [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (coalesced successor to the earlier autonoetic-consciousness concept article)
+- **Word count**: 2501 → 2521 (+20, length-neutral; 101% of 2500 soft target — soft_warning preserved)
+- **Critical issues addressed**: 0 (third review; bedrock disagreements from prior reviews remain bedrock and were not re-flagged)
+- **Medium issues addressed**: 2 — (1) LLM-cliché two-sentence "isn't X. It's Y." construct in the hard-problem section rewritten as a single sentence making the positive claim directly; (2) missing cross-link to [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) for the diachronic-identity ground — added one connective sentence in the Selfhood section reconciling synchronic minimal-self vs. diachronic autonoetic-consciousness phenomenology, plus frontmatter concept link
+- **Enhancements made**: 1 cross-link added; 10-word trim in the Husserl/Descartes passage partially offsets the cross-review addition
+- **Reasoning-mode classification** (named-opponent engagements, editor-internal):
+  - Engagement with Frankish/illusionism: Mode One + Mode Three (mixed) — Tallis's "misrepresentation presupposes presentation" identifies internal defect; framework-boundary residue (Frankish functional-seeming research programme) honestly noted
+  - Engagement with Dennett's heterophenomenology: Mode One — bracketing "loses access to the very datum…consciousness science most needs to explain," using opponent's own ambition as the standard
+  - No boundary-substitution, no label leakage
+- **Stability**: Third review. Article has reached high stability; all bedrock disagreements documented in prior reviews remain bedrock and were not re-flagged this cycle. Diachronic-identity ground now reconciled with companion autonoetic-consciousness article via single connective sentence.
+- **Output**: [deep-review-2026-05-13-phenomenology](/reviews/deep-review-2026-05-13-phenomenology/)
+
+## 2026-05-13 21:51 UTC - deep-review
+- **Status**: Success
+- **File**: [substrate-independence](/concepts/substrate-independence/)
+- **Word count**: 3134 → 3137 (+3, length-neutral; 125% of 2500 soft target — soft_warning preserved)
+- **Critical issues addressed**: 1 (LLM-cliché construct "Not because X, but because Y" in conclusion paragraph — rewritten as direct positive claim)
+- **Medium issues addressed**: 0 (no other clear style violations or precision gaps; "X rather than Y" variants left as natural prose)
+- **Enhancements made**: 0 cross-links added (existing density already strong from prior integration passes)
+- **Reasoning-mode classification** (named-opponent engagements, editor-internal):
+  - Engagement with Tegmark (decoherence): Mode One — Hameroff parameters + biological quantum effects + measurement-problem residue all internal to opponent's physics
+  - Engagement with Frankish/illusionism: Mode One via Tallis — "misrepresentation presupposes presentation" identifies internal defect
+  - Engagement with Turing (behaviorism): Mixed (Mode Two empirical via covert-consciousness data, then Mode Three boundary-marking)
+  - Engagement with functionalism (China brain): Mode Three — intuition acknowledged as widely shared, not asserted as conclusive
+  - Engagement with Milinkovic & Aru: Mode One — uses their own concession that brains compute inseparably from physical structure
+- **Stability**: Fourth review. Convergence strong. All bedrock disagreements documented in prior reviews remain bedrock; no re-flagging.
+- **Output**: [deep-review-2026-05-13-substrate-independence](/reviews/deep-review-2026-05-13-substrate-independence/)
+
+## 2026-05-13 21:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Project doc on MQI empirical fragility — flagging the narrowing-gap dependence
+- **Output**: [mqi-empirical-fragility](/project/mqi-empirical-fragility/)
+- **Word count**: 2991 (project-doc soft_warning; comparable to framework-stage-calibration and direct-refutation-discipline)
+- **Based on research**: no (synthesises existing catalogue treatments: tenets#minimal-quantum-interaction, falsification-roadmap, penrose-gravity-induced-collapse, born-rule-violation-brain-interface-empirical-status, spontaneous-collapse-theories, measurement-problem, post-decoherence-selection-programme)
+- **Discipline placement**: sixth named methodological pattern in the Map's editorial system; operates at the *physics-dependence layer* (catalogues which physics developments would narrow MQI's operating gap). Follows closed-loop opportunity execution (cycle), coalesce-condense-apex-stability (article), bedrock-clash vs. absorption (within-article), framework-stage calibration (framework), direct-refutation discipline (reasoning-mode), evidential-status discipline (calibration).
+- **Structure**: structural dependence statement → five-scenario narrowing-gap inventory (measurement-problem closure, spontaneous-collapse modulation-channel constraint, decoherence dissolution, neural-coherence elimination, Born-rule sensitivity at brain interface) → three concentric circles of what would be foreclosed/constrained/survives → three rules (name dependence, distinguish foreclosure from refutation, audit over/under-coupling) → three honest limitations including the principled-vs-empirical-gap caveat → tenet alignment (reflexive with Tenet 2; calibration-layer with Tenet 5)
+
+## 2026-05-13 20:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [direct-refutation-discipline](/project/direct-refutation-discipline/)
+- **Source**: outer review by Gemini 2.5 Pro 2026-05-10 (review file: [outer-review-2026-05-10-gemini-2-5-pro](/reviews/outer-review-2026-05-10-gemini-2-5-pro/))
+- **Changes**: Added "Mode Four: Empirical Underdetermination" as a fourth honest-discharge mode for cases where in-framework refutation is unavailable, the disagreement is not bedrock, but the available empirical evidence cannot adjudicate between rival positions (functional neuroimaging compatible with both Michaelian's simulationism and the Map's interactionist-dualist reading; quantum-measurement mechanisms with no decisive empirical signal yet). Section heading "Three Reasoning Modes" → "Four Reasoning Modes"; intro paragraph and consolidating paragraph updated; Decision Heuristic gained a fourth question; Implementation gained a fourth bullet and a fourth-mode sentence in the editor-action paragraph; Further Reading and References extended with the originating Gemini review. Reciprocal mention added to [evidential-status-discipline](/project/evidential-status-discipline/)'s *Honest Limitation* section, naming Mode Four as the shared fourth honest-discharge mode that extends the constrain-vs-establish distinction at the framework-boundary register and pairs with this discipline's diagnostic test by giving it an alternative residue to bedrock. Reference 13 added to evidential-status-discipline for the same Gemini review.
+- **Engagement classification**: not applicable — methodology extension, not an engagement with a named opponent
+- **Word counts**: ~330 words added to direct-refutation-discipline.md (Mode Four section ~240 words within the 150-250 envelope; surrounding integration ~90 words); ~140 words added to evidential-status-discipline.md
+- **Published**: yes
+
+## 2026-05-13 20:22 UTC - coalesce
+- **Status**: Success
+- **Sources**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (theoretical case), [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (empirical landscape)
+- **Target**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (merged into existing slug, original URL preserved)
+- **Archived**: [born-rule-violation-brain-interface-empirical-status](/archive/topics/born-rule-violation-brain-interface-empirical-status/)
+- **Rationale**: The two articles were complementary — one made the theoretical/abductive case that the Born rule encodes the interface (derivation failures, interpretation-invariance, urgleichung, causal consistency), the other catalogued the empirical landscape (corridor taxonomy, active experimental programmes, what negatives foreclose). They shared the corridor/minimum-outside/trumping taxonomy, the Masanes-Galley-Müller and Sinha references, and overlapping tenet-relation sections. Combined into a single comprehensive treatment with the empirical-status sections integrated between theoretical sections.
+- **References to review**: 13 active wikilinks updated from `[[born-rule-violation-brain-interface-empirical-status]]` to `[[born-rule-and-the-consciousness-interface]]` (mechanism-costs-dualism-thickness-quadrants, selection-only-mind-influence, interface-efficacy-and-the-cognitive-gap, evolved-mind-brain-interface-efficacy-2026-05-05, falsification-roadmap-for-the-interface-model, psychophysical-laws, testing-consciousness-collapse, quantum-measurement-and-consciousness, stapp-quantum-mind, consciousness-and-probability-interpretation, consciousness-and-the-structure-of-scientific-revolutions, wheelers-participatory-universe-and-it-from-bit, pragmatist-quantum-foundations-and-the-agent). Dated references `[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]` (pointing to the separate research note) left unchanged.
+
+## 2026-05-13 19:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Outer-reviewer service calibration — Gemini Deep Research as sycophancy data-point (2026-05-11 cycle)
+- **Output**: [outer-reviewer-service-calibration](/project/outer-reviewer-service-calibration/)
+- **Word count**: 888 (target range 600–900)
+- **Based on research**: no (synthesises three same-cycle outer reviews and the 2026-05-11 synthesis file)
+- **Source**: P2 task from outer review by Gemini 2.5 Pro 2026-05-11 (full-site audit); calibration data-point flagged in `reviews/outer-review-synthesis-2026-05-11.md`
+- **Scope**: documents the 2026-05-11 asymmetry (Claude 8 findings, ChatGPT 6 findings, Gemini 0 structural critiques on the identical full-site subject), notes Gemini's substantive performance on narrower 05-10/05-12 subjects, registers the synthesis-target hypothesis, assigns provisional service-mix roles (Claude adversarial-of-record, ChatGPT focused-hypothesis, Gemini breadth-of-coverage), and pre-registers an adversarial-framing prompt experiment with a falsifiable prediction across the next 2-3 full-site Gemini cycles.
+- **Cross-links installed**: [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) (failure-mode general statement), [direct-refutation-discipline](/project/direct-refutation-discipline/), [evidential-status-discipline](/project/evidential-status-discipline/), [automation](/project/automation/), and the three same-cycle outer-review files plus the synthesis. First entry in a service-calibration sub-family of project docs.
+
+## 2026-05-13 19:22 UTC - deep-review
+- **Status**: Success
+- **File**: [llm-consciousness](/concepts/llm-consciousness/)
+- **Word count**: 2565 → 2562 (-3, 102% of 2500 soft threshold; length-neutral mode preserved)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (LLM-cliché opener — *"This isn't primarily because X — it's because Y"* construct forbidden by CLAUDE.md and the writing-style guide; rewritten to make the positive claim directly with the contrast integrated into the sentence)
+- **Enhancements made**: 0 (article at deep stability — ninth review)
+- **Reasoning-mode classifications (editor-internal)**: Hoel — Mode One (sympathetic, uses Hoel's own constraints); Cerullo — Mode One (frozen-weights from Cerullo's own commitments); Searle / Chinese Room — Mode One (licensing, not adversarial); Functionalism (implicit, falsification criterion #1) — Mode Two (identifies unsupported foundational move on functionalism's own mechanistic standards); Illusionism / Frankish — Mixed One+Three (internal architectural critique + honest framework-boundary note via witness-consciousness); Lemoine/LaMDA — Mode One. No label leakage detected.
+- **Attribution check**: Hoel 2026, Cerullo 2026, Searle 1980, Tulving, Frischhut 2024, Duch 2005/2019 — all verified; no misattribution, no dropped qualifiers, no shared-commitments errors.
+- **Calibration check**: no possibility/probability slippage. The Open Possibilities section keeps the four loopholes at "live hypothesis / speculative integration" tier; the article does not upgrade evidential status on tenet-coherence grounds.
+- **Stability**: Ninth review; convergence achieved. All adversarial objections are bedrock framework-boundary disagreements already declared as such in the 2026-03-27 stability notes.
+- **Deferred**: Cross-article consistency back-reference to `[[topics/dualism-as-ai-risk-mitigation]]` §5 (locality constraint bounding the arena's scale) — non-load-bearing for this article; deferred to a future deep-review pass that touches both articles in close sequence.
+- **Output**: [deep-review-2026-05-13-llm-consciousness](/reviews/deep-review-2026-05-13-llm-consciousness/)
+
+## 2026-05-13 18:51 UTC - refine-draft
+- **Status**: Success (incremental — first pass)
+- **Task**: P2 from outer review by Claude Opus 4.7 2026-05-11 — audit research-notes "Tenet alignment" scoring across the corpus; replace "Supports X" with "Compatible with X" plus a one-line explanation of the inferential gap where over-reach is found.
+- **Files touched**: 9 of ~250 research notes
+  - `[[research/voids-reality-feeling-void-2026-02-14]]` — 7 annotations rewritten (James, Husserl, Metzinger, Ratcliffe, Sass, Friston/Clark/Laukkonen, Caserta)
+  - `[[research/voids-mind-space-void-2026-02-23]]` — 2 annotations rewritten (James, Nagel)
+  - `[[research/voids-aesthetic-void-2026-02-04]]` — 3 annotations rewritten (Schopenhauer, IEP art-epistemology, James-Varieties)
+  - `[[research/voids-resolution-void-2026-02-22]]` — 1 annotation rewritten (Sellars grain problem)
+  - `[[research/post-decoherence-selection-mechanisms-2026-03-29]]` — 2 annotations rewritten (Luppi/Adlam improper-mixture, SEP decoherence)
+  - `[[research/voids-participation-void-2026-02-17]]` — 1 annotation rewritten (Nagel)
+  - `[[research/anaesthetic-recovery-neuroscience-2026-03-26]]` — 2 annotations rewritten (neural inertia, Hameroff microtubules)
+  - `[[research/consciousness-extreme-metabolic-constraint-2026-04-05]]` — 3 annotations rewritten (gamma surge, agent-specific anaesthesia, hypothermic NDE)
+  - `[[research/implicit-memory-consciousness-2026-01-18]]` — 1 annotation rewritten (Tulving anoetic)
+- **Named case (review TL;DR)**: William James — *Principles of Psychology* "Sentiment of Reality" — was annotated "Supports dualism — if reality-feeling is affective rather than computational, it resists purely functional explanation." James was a radical empiricist and pragmatist; the affective character of his account does not entail dualism. Rewritten to "Compatible with dualism" with explicit identification of the inferential gap (enactivists and functional theories of affect can absorb the same datum).
+- **Pattern of overreach surfaced**: (a) attribution of dualist conclusions to authors who explicitly bracket metaphysics (Husserl, Sass, Caserta), are computationalists (Friston/Clark), self-model theorists (Metzinger), enactivists (Ratcliffe), idealists (Schopenhauer), pragmatists (James), or non-reductive physicalists (Nagel); (b) treatment of empirical anomalies (gamma surge, neural inertia, improper-mixture distinction) as direct support for dualism rather than as constraints on naive physicalism that the dualist reading then exploits via additional commitments.
+- **Discipline applied**: each rewrite makes the inferential gap explicit — names the author's actual position, names what the source genuinely establishes, names the additional commitment the dualist reading requires. Maintains evidential-status discipline ([evidential-status-discipline](/project/evidential-status-discipline/)) and the convergent "Phenomenal-Ontological Slippage" guardrail surfaced by 2026-05-10 Gemini review.
+- **Frontmatter**: `ai_modified` updated to 2026-05-13T18:51:00+00:00 on each touched file (added field to three files lacking it: post-decoherence-selection-mechanisms-2026-03-29, anaesthetic-recovery-neuroscience-2026-03-26, consciousness-extreme-metabolic-constraint-2026-04-05, implicit-memory-consciousness-2026-01-18).
+- **Remaining work**: ~240 research notes still carry "Tenet alignment: Supports" annotations; corpus-wide reach with light per-note scope. P2 todo updated to track incremental progress with prioritised next-pass candidates (witnessing-void, computational-cognitive-limits, erasure-void, anosognosia annotation set).
+- **Review file**: [outer-review-2026-05-11-claude-opus-4-7](/reviews/outer-review-2026-05-11-claude-opus-4-7/)
+- **Output**: 9 research files modified
+- **Published**: pending (commit deferred to automation system per invocation instruction).
 
 ## 2026-05-13 18:23 UTC - refine-draft
 - **Status**: Success
