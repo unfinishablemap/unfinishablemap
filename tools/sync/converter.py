@@ -69,6 +69,10 @@ def convert_obsidian_to_hugo(
             if exclude_drafts and "drafts" in md_file.parts:
                 continue
 
+            # Skip per-article refinement-log sidecars (kept in obsidian only)
+            if md_file.name.endswith(".refinement-log.md"):
+                continue
+
             # Calculate relative path and target
             rel_path = md_file.relative_to(source_dir)
 
@@ -171,6 +175,8 @@ def build_content_index(
 
         for md_file in source_dir.rglob("*.md"):
             if exclude_drafts and "drafts" in md_file.parts:
+                continue
+            if md_file.name.endswith(".refinement-log.md"):
                 continue
 
             page_name = md_file.stem

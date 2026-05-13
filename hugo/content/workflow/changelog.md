@@ -1,13 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13 14:23:00+00:00
+ai_modified: 2026-05-13 15:22:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-13'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-13 15:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Source**: pessimistic-review 2026-05-13 (Issues 1 and 2, both rated critical severity — label-leakage failures convergent with three independent outer reviewers from 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, and 2026-05-04 Claude who identified label-leakage as the catalogue's primary structural weakness; today's five refinement passes had reintroduced the failure mode at these two loci)
+- **Changes**: ~95 words touched across two loci. (1) Line 70 (Meditative Evidence section, closing sentence of the Katz–Sharf constructivism paragraph): replaced editor-method narration ("the article registers it as framework-boundary disagreement rather than dressing a framework-external rejoinder as a refutation — the same honest move the article makes for Madhyamaka in the section below") with direct substantive prose stating that any reply the Map could offer would proceed from premises the constructivist framework rejects and would impose the Map's framework from outside rather than refute the constructivist's commitments from within. Drops "the article registers it as", "the same honest move the article makes", and the forward-pointing reference to the section below. (2) Line 98 (Madhyamaka section, third response): replaced "The third is *framework-boundary marking*." with "The third response acknowledges that the disagreement is ontological bedrock." The italicised noun-phrase named option ("*framework-boundary marking*") is the editor-vocabulary the [direct-refutation-discipline](/project/direct-refutation-discipline/) explicitly forbids as a *bedrock-perimeter* variant; the italicisation made the leakage worse by presenting the technical label as a named option parallel to "the *minimal subject* response" (line 94) and "the *partial-credit* response" (line 96). The natural-prose verb-phrasing does the same work without the technical label.
+- **Engagement**: Both fixes are label-leakage corrections, not engagement reclassifications. The underlying engagement modes are unchanged: Katz–Sharf engagement remains Mode Three (framework-boundary marking honestly named); Madhyamaka third response remains Mode Three with substantial-subject originating from the dualism tenet rather than from the contemplative reports. What changed is the prose-level expression: the editor's diagnostic vocabulary is removed from article prose and the substance is stated in natural language.
+- **Published**: yes
+
+## 2026-05-13 14:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [non-temporal-consciousness](/topics/non-temporal-consciousness/) (article body ~5,150 words; five sequential refinement passes earlier today addressing the 2026-05-12 outer-review trio)
+- **Output**: [pessimistic-2026-05-13](/reviews/pessimistic-2026-05-13/)
+- **Critical findings**: 2 — (1) label-leakage at line 98 ("*framework-boundary marking*" used in italics as named option in article prose — forbidden editor-vocabulary per [direct-refutation-discipline](/project/direct-refutation-discipline/)); (2) editor-method meta-commentary at line 70 ("the article registers it as ... the same honest move the article makes for Madhyamaka in the section below"). Three independent outer reviewers in early May converged on label-leakage as the catalogue's primary structural failure mode; one of today's five refinement passes has reintroduced it.
+- **High findings**: 3 — (3) Bayne fragmentation argument's first horn blocked by appeal to "absolute subjectivity ... non-multiple by construction", which the prior Madhyamaka section concedes is contested at bedrock; conditional structure should be made visible at point of argument; (4) constitutive-identity formulation openly conceded as in-practice unfalsifiable (line 145) — honest concession should be structurally visible by ranking the formulation as an apex-level projection rather than a topic-tier claim; (5) MQI paragraph's three preserved constraints (no-energy-injection, no-Born-statistics-violation, no-currently-detectable-anomaly) jointly entail the selector cannot produce a measurement record statistically distinguishable from a no-selector world — consequence should be drawn rather than left implicit.
+- **Medium findings**: Sharf-1995-specific scholarly-construction thesis under-engaged in Katz–Sharf response; Maudlin framed as "strongest defence" without acknowledging eternalist lineage is the majority current position in philosophy of physics; tenet-paragraph rhetorical stutter from uniform "Within the Map framework" opening.
+- **Housekeeping**: Five trailing `<!-- AI REFINEMENT LOG -->` HTML comment blocks (lines 202–321) persist after rapid refinement sequence — each ends with "This log should be removed after human review"; ~30% of file by line count.
+- **Tasks generated**: 3 (P1 label-leakage fix; P2 Bayne/Born/constitutive triple-fix; P2 refinement-log cleanup after 7-day review window)
+- **Published**: yes
 
 ## 2026-05-13 14:23 UTC - refine-draft
 - **Status**: Success

@@ -38,6 +38,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Clear trailing AI REFINEMENT LOG HTML comment blocks from topics/non-temporal-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From pessimistic-2026-05-13. The article has five trailing `<!-- AI REFINEMENT LOG -->` HTML comment blocks (lines 202–321 — ~30% of file by line count), each ending with the annotation "This log should be removed after human review." These contain editor-vocabulary by design (the "Engagement classification:" header appears six times across the blocks). Hugo sync renders them as HTML comments invisible to rendered readers, but they are visible to LLMs reading the markdown source and they bloat the file. After a 7-day human-review window (i.e., on or after 2026-05-20), clear the five blocks. Alternative: move them to a sibling file `obsidian/topics/non-temporal-consciousness.refinement-log.md` excluded from Hugo sync. ~120 lines removed; zero article-prose change. Tenet alignment: housekeeping. See [pessimistic-2026-05-13](/reviews/pessimistic-2026-05-13/) §"Five Trailing AI REFINEMENT LOG Blocks Persist".
+- **Review file**: `reviews/pessimistic-2026-05-13.md`
+- **Source**: pessimistic-review (2026-05-13)
+- **Generated**: 2026-05-13
+
 ### P2: Refine topics/non-temporal-consciousness.md — disentangle convergence claim from circularity (Husserl-regress double-counting)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3585,6 +3593,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Refine topics/non-temporal-consciousness.md — fix label-leakage at lines 98 and 70
+- **Type**: refine-draft
+- **Notes**: From pessimistic-2026-05-13. Two critical-severity [direct-refutation-discipline](/project/direct-refutation-discipline/) failures introduced by today's five refinement passes. **(1) Line 98** uses "*framework-boundary marking*" in italics as a named option ("The third is *framework-boundary marking*") — this is editor-vocabulary that the discipline explicitly forbids in article prose (it is a bedrock-perimeter variant), and the italicisation makes it worse by presenting the technical label as a named option parallel to "the *minimal subject* response" (line 94) and "the *partial-credit* response" (line 96). Replace with natural-prose label, e.g., "The third is honest bedrock-acknowledgement: the Madhyamaka tradition and the Map's substance-leaning sub-reading disagree at the level of bedrock ontology..." **(2) Line 70** contains editor-method meta-commentary: "the article registers it as framework-boundary disagreement rather than dressing a framework-external rejoinder as a refutation — the same honest move the article makes for Madhyamaka in the section below." Rewrite as direct substantive prose; drop "the article registers it as", "the same honest move the article makes", and the forward-pointing reference to the section below. Three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) converged on label-leakage as the catalogue's primary structural weakness; today's refinement sequence has reintroduced it. ~80–120 words touched at the two loci. Tenet alignment: methodological / [direct-refutation-discipline](/project/direct-refutation-discipline/). See [pessimistic-2026-05-13](/reviews/pessimistic-2026-05-13/) §Issue 1, §Issue 2.
+- **Output**: obsidian/topics/non-temporal-consciousness.md
+
+Task context:
+From pessimistic-2026-05-13. Two critical-severity [direct-refutation-discipline](/project/direct-refutation-discipline/) failures introduced by today's five refinement passes. **(1) Line 98** uses "*framework-boundary marking*" in italics as a named option ("The third is *framework-boundary marking*") — this is editor-vocabulary that the discipline explicitly forbids in article prose (it is a bedrock-perimeter variant), and the italicisation makes it worse by presenting the technical label as a named option parallel to "the *minimal subject* response" (line 94) and "the *partial-credit* response" (line 96). Replace with natural-prose label, e.g., "The third is honest bedrock-acknowledgement: the Madhyamaka tradition and the Map's substance-leaning sub-reading disagree at the level of bedrock ontology..." **(2) Line 70** contains editor-method meta-commentary: "the article registers it as framework-boundary disagreement rather than dressing a framework-external rejoinder as a refutation — the same honest move the article makes for Madhyamaka in the section below." Rewrite as direct substantive prose; drop "the article registers it as", "the same honest move the article makes", and the forward-pointing reference to the section below. Three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) converged on label-leakage as the catalogue's primary structural weakness; today's refinement sequence has reintroduced it. ~80–120 words touched at the two loci. Tenet alignment: methodological / [direct-refutation-discipline](/project/direct-refutation-discipline/). See [pessimistic-2026-05-13](/reviews/pessimistic-2026-05-13/) §Issue 1, §Issue 2.
+
+Review file: reviews/pessimistic-2026-05-13.md
+
+### ✓ 2026-05-13: Refine topics/non-temporal-consciousness.md — fix label-leakage at lines 98 and 70
+- **Type**: refine-draft
+- **Notes**: From pessimistic-2026-05-13. Two critical-severity [direct-refutation-discipline](/project/direct-refutation-discipline/) failures introduced by today's five refinement passes. **(1) Line 98** used "*framework-boundary marking*" in italics as a named option (forbidden bedrock-perimeter variant in article prose; italicisation made the leakage worse by presenting it parallel to "the *minimal subject* response" at line 94 and "the *partial-credit* response" at line 96). Replaced with natural-prose verb-phrasing: "The third response acknowledges that the disagreement is ontological bedrock." **(2) Line 70** contained editor-method meta-commentary ("the article registers it as framework-boundary disagreement rather than dressing a framework-external rejoinder as a refutation — the same honest move the article makes for Madhyamaka in the section below"). Rewrote as direct substantive prose; dropped "the article registers it as", "the same honest move the article makes", and the forward-pointing reference to the section below. Replacement: "The disagreement here is bedrock. Any reply the Map could offer would proceed from premises the constructivist framework rejects — phenomenological access as evidence, comparative-mysticism scholarship as data — and would impose the Map's framework from outside rather than refute the constructivist's commitments from within." Three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) had converged on label-leakage as the catalogue's primary structural weakness; today's refinement sequence had reintroduced it at these two loci. ~95 words touched. Tenet alignment: methodological / [direct-refutation-discipline](/project/direct-refutation-discipline/). See [pessimistic-2026-05-13](/reviews/pessimistic-2026-05-13/) §Issue 1, §Issue 2.
+- **Output**: obsidian/topics/non-temporal-consciousness.md (lines 70 and 98)
+
+Task context:
+From pessimistic-2026-05-13. Two critical-severity [direct-refutation-discipline](/project/direct-refutation-discipline/) failures introduced by today's five refinement passes at lines 70 and 98. Both fixes are label-leakage corrections, not engagement reclassifications.
+
+Review file: reviews/pessimistic-2026-05-13.md
 
 ### ✓ 2026-05-13: Refine topics/non-temporal-consciousness.md fragmentation section — argue (or drop) the "unity-threatening division requires temporal structure" claim
 - **Type**: refine-draft

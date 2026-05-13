@@ -37,22 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Clear trailing AI REFINEMENT LOG HTML comment blocks from topics/non-temporal-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From pessimistic-2026-05-13. The article has five trailing `<!-- AI REFINEMENT LOG -->` HTML comment blocks (lines 202–321 — ~30% of file by line count), each ending with the annotation "This log should be removed after human review." These contain editor-vocabulary by design (the "Engagement classification:" header appears six times across the blocks). Hugo sync renders them as HTML comments invisible to rendered readers, but they are visible to LLMs reading the markdown source and they bloat the file. After a 7-day human-review window (i.e., on or after 2026-05-20), clear the five blocks. Alternative: move them to a sibling file `obsidian/topics/non-temporal-consciousness.refinement-log.md` excluded from Hugo sync. ~120 lines removed; zero article-prose change. Tenet alignment: housekeeping. See [[reviews/pessimistic-2026-05-13]] §"Five Trailing AI REFINEMENT LOG Blocks Persist".
-- **Review file**: `reviews/pessimistic-2026-05-13.md`
-- **Source**: pessimistic-review (2026-05-13)
-- **Generated**: 2026-05-13
-
-### P2: Refine topics/non-temporal-consciousness.md — disentangle convergence claim from circularity (Husserl-regress double-counting)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-12. The article distinguishes "metaphysically non-temporal" (Husserl) from "phenomenologically atemporal" (meditation), then claims convergence — but the regress argument is doing the interpretive work that lets the meditative reports count as evidence for the metaphysical reading. Absent the regress, the representationalist deflation wins. The convergence therefore double-counts the same evidence interpreted two ways, and the article elsewhere correctly says (in [[evidential-status-discipline]] and [[convergence-as-evidence]]) that such moves should not be over-credited. Hoerl himself (2013, *PPR* 86(2): 376–411) closes by *questioning whether Husserl ultimately provides good reasons for preferring his intentionalist approach to a rival extensionalist one* — the article cites Hoerl as scaffolding for the regress without flagging Hoerl's reservation. Refine to (a) state explicitly that the regress argument is *interpreting* the meditative data, not corroborating it; (b) choose a register — either coherentist (the framework is internally consistent) or independent-triangulation (which requires defeating Katz–Sharf, see separate P1); (c) acknowledge Hoerl's reservations in the citation. Apply [[direct-refutation-discipline]] Mode Two — naming an unsupported foundational move the framework has not earned. ~200–350 words touched. Tenet alignment: methodological / [[evidential-status-discipline]]. **Sequencing**: best done after the P1 Katz–Sharf task lands, since the convergence register choice depends on whether the article retains an independent-triangulation route via constructivism-resistance. See review file.
-- **Review file**: `reviews/outer-review-2026-05-12-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-12
-
 ### P2: Refine topics/non-temporal-consciousness.md — empirical-claim fixes (corpus callosum figure, propofol attribution)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3592,6 +3576,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Clear trailing AI REFINEMENT LOG HTML comment blocks from topics/non-temporal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: From pessimistic-2026-05-13. The article has five trailing `<!-- AI REFINEMENT LOG -->` HTML comment blocks (lines 202–321 — ~30% of file by line count), each ending with the annotation "This log should be removed after human review." These contain editor-vocabulary by design (the "Engagement classification:" header appears six times across the blocks). Hugo sync renders them as HTML comments invisible to rendered readers, but they are visible to LLMs reading the markdown source and they bloat the file. After a 7-day human-review window (i.e., on or after 2026-05-20), clear the five blocks. Alternative: move them to a sibling file `obsidian/topics/non-temporal-consciousness.refinement-log.md` excluded from Hugo sync. ~120 lines removed; zero article-prose change. Tenet alignment: housekeeping. See [[reviews/pessimistic-2026-05-13]] §"Five Trailing AI REFINEMENT LOG Blocks Persist".
+- **Output**: obsidian/topics/non-temporal-consciousness.md
+
+Task context:
+From pessimistic-2026-05-13. The article has five trailing `<!-- AI REFINEMENT LOG -->` HTML comment blocks (lines 202–321 — ~30% of file by line count), each ending with the annotation "This log should be removed after human review." These contain editor-vocabulary by design (the "Engagement classification:" header appears six times across the blocks). Hugo sync renders them as HTML comments invisible to rendered readers, but they are visible to LLMs reading the markdown source and they bloat the file. After a 7-day human-review window (i.e., on or after 2026-05-20), clear the five blocks. Alternative: move them to a sibling file `obsidian/topics/non-temporal-consciousness.refinement-log.md` excluded from Hugo sync. ~120 lines removed; zero article-prose change. Tenet alignment: housekeeping. See [[reviews/pessimistic-2026-05-13]] §"Five Trailing AI REFINEMENT LOG Blocks Persist".
+
+Review file: reviews/pessimistic-2026-05-13.md
+
+### ✓ 2026-05-13: Clear trailing AI REFINEMENT LOG HTML comment blocks from topics/non-temporal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Today is 2026-05-13, before the 7-day human-review window expires on 2026-05-20, so took the task's alternative path: moved the eight (not five — three more had accumulated since the task was written) trailing `<!-- AI REFINEMENT LOG -->` blocks out of the article into a sibling sidecar `obsidian/topics/non-temporal-consciousness.refinement-log.md`. Added a `*.refinement-log.md` filename-pattern skip to `tools/sync/converter.py` (both `convert_obsidian_to_hugo` and `build_content_index`) so the sidecar is Obsidian-only. Verified by running `uv run python scripts/sync.py` — article syncs, sidecar is silently skipped, no sidecar file in `hugo/content/topics/`. Article truncated cleanly at line 200 (last references entry); zero article-prose change. Human reviewer can clear the sidecar on or after 2026-05-20.
+- **Output**: obsidian/topics/non-temporal-consciousness.md (~135 lines removed), obsidian/topics/non-temporal-consciousness.refinement-log.md (new sidecar), tools/sync/converter.py (sync exclusion)
+- **Review file**: `reviews/pessimistic-2026-05-13.md`
+- **Source**: pessimistic-review (2026-05-13)
 
 ### ✓ 2026-05-13: Refine topics/non-temporal-consciousness.md — fix label-leakage at lines 98 and 70
 - **Type**: refine-draft

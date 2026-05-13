@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T15:22:00+00:00
+ai_modified: 2026-05-13T15:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 15:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source**: pessimistic-review 2026-05-13 §"Five Trailing AI REFINEMENT LOG Blocks Persist" (housekeeping flag — by the time this pass ran, eight blocks had accumulated, not five)
+- **Changes**: Moved all eight trailing `<!-- AI REFINEMENT LOG -->` HTML comment blocks (lines 202–336, ~135 lines) out of `obsidian/topics/non-temporal-consciousness.md` into a sibling sidecar at `obsidian/topics/non-temporal-consciousness.refinement-log.md`. The sidecar preserves the seven-day human-review window the original logs requested (each ending "This log should be removed after human review") without bloating the article markdown that LLMs read. Zero article-prose change — the truncation is at line 200 immediately after the final references entry. Updated `ai_modified` to 2026-05-13T15:51:00+00:00.
+- **Sync exclusion**: Added a `*.refinement-log.md` filename-pattern skip to `tools/sync/converter.py` in two locations (`convert_obsidian_to_hugo` main loop and `build_content_index`), so the sidecar lives in Obsidian only and never reaches `hugo/content/`. Verified by running `uv run python scripts/sync.py` — the article syncs, the sidecar is silently skipped, and no sidecar file appears under `hugo/content/topics/`.
+- **Rationale for path chosen**: The pessimistic-review task offered two paths — (a) clear the blocks after 2026-05-20, or (b) move them to a sibling file excluded from Hugo sync. Today is 2026-05-13; the human-review window has not elapsed, so path (a) would have prematurely discarded content the original logs explicitly asked humans to review. Path (b) takes the present-tense action the article needs (~135 lines of editor-vocabulary off the LLM-readable markdown surface) while preserving the logs intact for the remaining seven days; the human reviewer can clear the sidecar on or after 2026-05-20.
+- **Published**: yes
 
 ## 2026-05-13 15:22 UTC - refine-draft
 - **Status**: Success
