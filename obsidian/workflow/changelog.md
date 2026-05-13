@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T21:51:00+00:00
+ai_modified: 2026-05-13T22:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 22:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenology]]
+- **Cross-review context**: Reconcile the diachronic-identity ground with [[anoetic-noetic-autonoetic-consciousness]] (coalesced successor to the earlier autonoetic-consciousness concept article)
+- **Word count**: 2501 → 2521 (+20, length-neutral; 101% of 2500 soft target — soft_warning preserved)
+- **Critical issues addressed**: 0 (third review; bedrock disagreements from prior reviews remain bedrock and were not re-flagged)
+- **Medium issues addressed**: 2 — (1) LLM-cliché two-sentence "isn't X. It's Y." construct in the hard-problem section rewritten as a single sentence making the positive claim directly; (2) missing cross-link to [[anoetic-noetic-autonoetic-consciousness]] for the diachronic-identity ground — added one connective sentence in the Selfhood section reconciling synchronic minimal-self vs. diachronic autonoetic-consciousness phenomenology, plus frontmatter concept link
+- **Enhancements made**: 1 cross-link added; 10-word trim in the Husserl/Descartes passage partially offsets the cross-review addition
+- **Reasoning-mode classification** (named-opponent engagements, editor-internal):
+  - Engagement with Frankish/illusionism: Mode One + Mode Three (mixed) — Tallis's "misrepresentation presupposes presentation" identifies internal defect; framework-boundary residue (Frankish functional-seeming research programme) honestly noted
+  - Engagement with Dennett's heterophenomenology: Mode One — bracketing "loses access to the very datum…consciousness science most needs to explain," using opponent's own ambition as the standard
+  - No boundary-substitution, no label leakage
+- **Stability**: Third review. Article has reached high stability; all bedrock disagreements documented in prior reviews remain bedrock and were not re-flagged this cycle. Diachronic-identity ground now reconciled with companion autonoetic-consciousness article via single connective sentence.
+- **Output**: [[reviews/deep-review-2026-05-13-phenomenology]]
 
 ## 2026-05-13 21:51 UTC - deep-review
 - **Status**: Success

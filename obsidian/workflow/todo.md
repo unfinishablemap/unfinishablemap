@@ -173,14 +173,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness + chain (cross-article Tegmark/Hagan audit, evidential-status-discipline refine)
 - **Generated**: 2026-05-10
 
-### P2: Cross-review concepts/phenomenology.md against concepts/autonoetic-consciousness.md to reconcile the diachronic-identity ground
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-10. The Map currently has two locally optimal but globally inconsistent claims about what grounds diachronic identity: `concepts/phenomenology.md` makes the *minimal self / for-me-ness* the "first-person perspective that might persist even when memory fragments"; `concepts/autonoetic-consciousness.md` makes *autonoetic re-experiencing* the carrier of personal continuity. Where Alzheimer's degrades autonoetic continuity while minimal self survives (Tippett, Prebble & Addis 2018), these two theses give different verdicts. The cross-review should either (a) propose a unified position — e.g., minimal self underwrites *bare* diachronic numerical identity while autonoetic continuity carries *narrative* continuity — and update both pages to reflect it, or (b) explicitly note the open question and say which the article-cluster's main inferences require. Light scope (~150–250 words touched across both files). Tenet alignment: methodological / internal-consistency. See review file.
-- **Review file**: `reviews/outer-review-2026-05-10-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-10
-
 ### P3: Cross-review references to coalesced binding-problem articles
 - **Type**: cross-review
 - **Status**: pending
@@ -3544,6 +3536,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Cross-review concepts/phenomenology.md against concepts/autonoetic-consciousness.md to reconcile the diachronic-identity ground
+- **Type**: cross-review
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-10. The Map currently has two locally optimal but globally inconsistent claims about what grounds diachronic identity: `concepts/phenomenology.md` makes the *minimal self / for-me-ness* the "first-person perspective that might persist even when memory fragments"; `concepts/autonoetic-consciousness.md` makes *autonoetic re-experiencing* the carrier of personal continuity. Where Alzheimer's degrades autonoetic continuity while minimal self survives (Tippett, Prebble & Addis 2018), these two theses give different verdicts. The cross-review should either (a) propose a unified position — e.g., minimal self underwrites *bare* diachronic numerical identity while autonoetic continuity carries *narrative* continuity — and update both pages to reflect it, or (b) explicitly note the open question and say which the article-cluster's main inferences require. Light scope (~150–250 words touched across both files). Tenet alignment: methodological / internal-consistency. See review file.
+- **Output**: obsidian/concepts/phenomenology.md -- Context: Cross-review concepts/phenomenology.md against concepts/autonoetic-consciousness.md to reconcile the diachronic-identity ground
 
 ### ✓ 2026-05-13: Project doc on MQI empirical fragility — flagging the narrowing-gap dependence
 - **Type**: expand-topic
