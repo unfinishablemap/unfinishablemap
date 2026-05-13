@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T14:23:00+00:00
+ai_modified: 2026-05-13T14:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 14:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/non-temporal-consciousness]] (article body ~5,150 words; five sequential refinement passes earlier today addressing the 2026-05-12 outer-review trio)
+- **Output**: [[reviews/pessimistic-2026-05-13]]
+- **Critical findings**: 2 — (1) label-leakage at line 98 ("*framework-boundary marking*" used in italics as named option in article prose — forbidden editor-vocabulary per [[direct-refutation-discipline]]); (2) editor-method meta-commentary at line 70 ("the article registers it as ... the same honest move the article makes for Madhyamaka in the section below"). Three independent outer reviewers in early May converged on label-leakage as the catalogue's primary structural failure mode; one of today's five refinement passes has reintroduced it.
+- **High findings**: 3 — (3) Bayne fragmentation argument's first horn blocked by appeal to "absolute subjectivity ... non-multiple by construction", which the prior Madhyamaka section concedes is contested at bedrock; conditional structure should be made visible at point of argument; (4) constitutive-identity formulation openly conceded as in-practice unfalsifiable (line 145) — honest concession should be structurally visible by ranking the formulation as an apex-level projection rather than a topic-tier claim; (5) MQI paragraph's three preserved constraints (no-energy-injection, no-Born-statistics-violation, no-currently-detectable-anomaly) jointly entail the selector cannot produce a measurement record statistically distinguishable from a no-selector world — consequence should be drawn rather than left implicit.
+- **Medium findings**: Sharf-1995-specific scholarly-construction thesis under-engaged in Katz–Sharf response; Maudlin framed as "strongest defence" without acknowledging eternalist lineage is the majority current position in philosophy of physics; tenet-paragraph rhetorical stutter from uniform "Within the Map framework" opening.
+- **Housekeeping**: Five trailing `<!-- AI REFINEMENT LOG -->` HTML comment blocks (lines 202–321) persist after rapid refinement sequence — each ends with "This log should be removed after human review"; ~30% of file by line count.
+- **Tasks generated**: 3 (P1 label-leakage fix; P2 Bayne/Born/constitutive triple-fix; P2 refinement-log cleanup after 7-day review window)
+- **Published**: yes
 
 ## 2026-05-13 14:23 UTC - refine-draft
 - **Status**: Success

@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Refine topics/non-temporal-consciousness.md — fix label-leakage at lines 98 and 70
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From pessimistic-2026-05-13. Two critical-severity [[direct-refutation-discipline]] failures introduced by today's five refinement passes. **(1) Line 98** uses "*framework-boundary marking*" in italics as a named option ("The third is *framework-boundary marking*") — this is editor-vocabulary that the discipline explicitly forbids in article prose (it is a bedrock-perimeter variant), and the italicisation makes it worse by presenting the technical label as a named option parallel to "the *minimal subject* response" (line 94) and "the *partial-credit* response" (line 96). Replace with natural-prose label, e.g., "The third is honest bedrock-acknowledgement: the Madhyamaka tradition and the Map's substance-leaning sub-reading disagree at the level of bedrock ontology..." **(2) Line 70** contains editor-method meta-commentary: "the article registers it as framework-boundary disagreement rather than dressing a framework-external rejoinder as a refutation — the same honest move the article makes for Madhyamaka in the section below." Rewrite as direct substantive prose; drop "the article registers it as", "the same honest move the article makes", and the forward-pointing reference to the section below. Three independent outer reviewers (2026-05-03 ChatGPT, 2026-05-04 ChatGPT, 2026-05-04 Claude) converged on label-leakage as the catalogue's primary structural weakness; today's refinement sequence has reintroduced it. ~80–120 words touched at the two loci. Tenet alignment: methodological / [[direct-refutation-discipline]]. See [[reviews/pessimistic-2026-05-13]] §Issue 1, §Issue 2.
+- **Review file**: `reviews/pessimistic-2026-05-13.md`
+- **Source**: pessimistic-review (2026-05-13)
+- **Generated**: 2026-05-13
+
+### P2: Refine topics/non-temporal-consciousness.md — make Bayne argument's conditional structure visible; address Born-statistics inertness; rank constitutive-identity formulation
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From pessimistic-2026-05-13. Three high-severity calibration fixes the rapid refinement sequence missed. **(1) Bayne first-horn dependency** (Issue 3, line 116): the structural argument blocks horn one ("two distinct subjects") by appeal to "the singular absolute subjectivity ... non-multiple by construction", but the prior Madhyamaka section concedes the singularity is contested at bedrock. Add a clarifying sentence after the structural argument making the conditional structure visible at the point where the argument is made: *"The argument's conclusion is therefore conditional: given the singular-subject reading the Madhyamaka section preserves as contested, Bayne's framework yields preservation-of-unity. A reader who follows Madhyamaka in dissolving the substantial subject will not need the prediction, since fragmentation poses no threat to a self there is no metaphysical fact about."* **(2) Born-statistics inertness** (Issue 5, line 155): the three preserved MQI constraints (no-energy-injection, no-Born-statistics-violation, no-currently-detectable-anomaly) jointly entail that the post-decoherence selector cannot produce a measurement record statistically distinguishable from a no-selector world. Add one acknowledgement sentence after the constraint enumeration drawing this consequence — the empirical signature is statistical-at-long-timescales, not single-event; distinguishing selector-world from null-world requires either a detectable correlation (which the tenet forbids) or a structural argument that the constraint reflects interface design rather than absence of selection. **(3) Constitutive-identity ranking** (Issue 4, line 145): the constitutive identity is openly conceded as in-practice unfalsifiable, but it sits in a topic-tier article. Option A (lighter) — add a sentence making explicit that the constitutive identity is a projection the [[apex/post-decoherence-selection-programme]] develops, not a thesis this topic article argues for in its own voice. Option B (heavier) — relegate the formulation to the apex entirely. Option A is the safer call given the article's structural maturity. ~250–350 words touched across the three loci. Tenet alignment: methodological / [[evidential-status-discipline]] / Tenet 2 (Minimal Quantum Interaction). See [[reviews/pessimistic-2026-05-13]] §§Issues 3-5.
+- **Review file**: `reviews/pessimistic-2026-05-13.md`
+- **Source**: pessimistic-review (2026-05-13)
+- **Generated**: 2026-05-13
+
+### P2: Clear trailing AI REFINEMENT LOG HTML comment blocks from topics/non-temporal-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From pessimistic-2026-05-13. The article has five trailing `<!-- AI REFINEMENT LOG -->` HTML comment blocks (lines 202–321 — ~30% of file by line count), each ending with the annotation "This log should be removed after human review." These contain editor-vocabulary by design (the "Engagement classification:" header appears six times across the blocks). Hugo sync renders them as HTML comments invisible to rendered readers, but they are visible to LLMs reading the markdown source and they bloat the file. After a 7-day human-review window (i.e., on or after 2026-05-20), clear the five blocks. Alternative: move them to a sibling file `obsidian/topics/non-temporal-consciousness.refinement-log.md` excluded from Hugo sync. ~120 lines removed; zero article-prose change. Tenet alignment: housekeeping. See [[reviews/pessimistic-2026-05-13]] §"Five Trailing AI REFINEMENT LOG Blocks Persist".
+- **Review file**: `reviews/pessimistic-2026-05-13.md`
+- **Source**: pessimistic-review (2026-05-13)
+- **Generated**: 2026-05-13
+
 ### P2: Refine topics/non-temporal-consciousness.md — disentangle convergence claim from circularity (Husserl-regress double-counting)
 - **Type**: refine-draft
 - **Status**: pending
