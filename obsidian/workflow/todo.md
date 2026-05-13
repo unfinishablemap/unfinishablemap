@@ -37,6 +37,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write concept page `protention` consolidating the structural-anticipation pattern
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-05-13). The Husserlian protention concept (forward-directedness as a structural feature of conscious moments, distinct from cognitive prediction) is currently distributed across five topic-tier articles: `topics/phenomenology-of-anticipation.md` (lines 47–57), `concepts/temporal-consciousness.md` (covers retention and specious present but not protention specifically), `topics/temporal-consciousness-structure-and-agency.md` (lines 90, 92), `topics/phenomenology-of-returning-attention.md`, and `topics/non-temporal-consciousness.md`. A focused concept page (~1,500–2,000 words) would consolidate the pattern — Husserl's tripartite structure with protention at the centre; the structural-anticipation / cognitive-prediction distinction; the empty-yet-shaped formulation; the active vs. passive synthesis distinction in deliberation; the anttā challenge from Buddhist contemplative traditions; the *if-then* tenet-routing through Bidirectional Interaction. Target section: concepts/ (~230/250 = 92%, room available). Tenet alignment: Tenet 1 (Dualism — protention as a temporal quale resisting computational reduction); Tenet 3 (Bidirectional Interaction — protention's active dimension in deliberation). Methodological / cross-link consolidation.
+- **Review file**: `reviews/optimistic-2026-05-13.md`
+- **Source**: optimistic-review (2026-05-13)
+- **Generated**: 2026-05-13
+
+### P3: Write topic-tier article on the phenomenology of *kairos* timing-window structure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-05-13). `topics/temporal-consciousness-structure-and-agency.md` §"The Structure of Timing Windows" (lines 146–170) introduces the three-phase phenomenology (not-yet / kairos / too-late) but the treatment is compressed within a broader topic article. The kairos-moment phenomenal-unification claim at line 162 is the article's strongest agency-related move and deserves dedicated treatment. The article should treat (a) the not-yet / kairos / too-late phenomenology with phenomenological exhibits beyond the choking-under-pressure case (musical performance; surgical timing; conversational rhythm; martial-arts *zanshin*; the Buddhist *bodhi* moment); (b) the empirical-corroboration pattern (choking under pressure as decompositional disruption of phenomenal-unity); (c) the agency-load-bearing claim that temporal selection reveals features of conscious experience that the simpler option-selection paradigm does not; (d) the tenet-routing through Bidirectional Interaction (kairos-moment as the phenomenological correlate of collapse-event) and Minimal Quantum Interaction (timing-window precision as constraint on the selection mechanism's temporal resolution). Target section: topics/ (~224/250, room available). Estimated scope: 2,500–3,200 words. Tenet alignment: Tenet 3 (Bidirectional Interaction — primary); Tenet 2 (Minimal Quantum Interaction — secondary); Tenet 1 (Dualism). **Sequencing**: ideally after `protention` and `kairos` concept pages land so the topic article can cite both as referential anchors.
+- **Review file**: `reviews/optimistic-2026-05-13.md`
+- **Source**: optimistic-review (2026-05-13)
+- **Generated**: 2026-05-13
+
+### P3: Cross-link `phenomenology-of-anticipation.md` ↔ `temporal-consciousness-structure-and-agency.md` more tightly at the kairos / anticipation-as-agentive-protention bridge
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-05-13). The temporal-structure-and-agency article at line 152 cross-links to anticipation as "phenomenology-of-anticipation|anticipation as a phenomenal structure" and at line 210 cross-links to anticipation under "[[phenomenology-of-anticipation|Anticipatory attention]] carries urgency, possibility, and openness." The anticipation article cross-links back to temporal-structure-and-agency at lines 103 and the frontmatter, but does not have a focused integration at the kairos-anticipation bridge. The bridge would be: anticipation operates pre-reflectively at all conscious moments; *agentive* anticipation in the kairos-window-approach intensifies anticipation into temporal-selection-readiness; the two articles together specify the structural-anticipation / agentive-anticipation distinction. A bridging clause at the anticipation article's §"Agency and Anticipatory Consciousness" (lines 99–105) pointing to temporal-structure-and-agency's §"Not Yet: Anticipatory Openness" (lines 150–154) would close the structural / agentive bridge from the anticipation side. A bridging clause at temporal-structure-and-agency's §"Not Yet" pointing back to anticipation's §"Agency and Anticipatory Consciousness" would close the bridge from the agency side. Estimated scope: ~80–150 words touched across two articles. Tenet alignment: methodological / cross-link-density discipline.
+- **Review file**: `reviews/optimistic-2026-05-13.md`
+- **Source**: optimistic-review (2026-05-13)
+- **Generated**: 2026-05-13
+
+### P3: Audit temporal-cluster articles for `<!-- AI REFINEMENT LOG -->` HTML-comment leakage
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-05-13). The 2026-05-12 04:45 UTC `refine-draft` pass closed source-side editor-vocabulary leakage in `tenets/tenets.md` by stripping accumulated `<!-- AI REFINEMENT LOG -->` HTML-comment blocks; the 2026-05-12 optimistic review flagged the analogous block at lines 238–247 of `consciousness-and-mathematics.md` as a P3 hygiene task; today's deep-review on `non-temporal-consciousness.md` extracted its refinement-log block to a sidecar (`topics/non-temporal-consciousness.refinement-log.md`). A pass through the rest of the temporal-cluster articles (anticipation, temporal-structure-and-agency, temporal-consciousness, returning-attention, attention-and-the-consciousness-interface) to check for similar leakage would consolidate the editor-vocabulary-leakage discipline at the temporal-cluster grain. LLM-fetchers, scrapers, and search-indexers read raw markdown including HTML comments. Either strip or move to sidecar (the non-temporal-consciousness pattern). Hygiene-only fix. Estimated scope: audit of 5 articles; estimated 1–3 articles requiring sidecar-extraction or strip; ~10–80 lines deleted/moved per article. Tenet alignment: methodological / editor-vocabulary-leakage discipline.
+- **Review file**: `reviews/optimistic-2026-05-13.md`
+- **Source**: optimistic-review (2026-05-13)
+- **Generated**: 2026-05-13
+
 ### P3: Apex-evolve technical-machinery-layer synthesis (integration-as-activity + type-token-causation + interface-threshold + selection-only-channel)
 - **Type**: apex-evolve
 - **Status**: pending
