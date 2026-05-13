@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T22:22:00+00:00
+ai_modified: 2026-05-13T23:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 23:24 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Outer-review pipeline calibration — empirical-claim freshness vs. methodological-claim transcendence
+- **Output**: [[project/outer-review-empirical-vs-methodological-freshness]]
+- **Word count**: 1631 (target 2000–2500 for topics; project docs trend shorter — fits the [[outer-reviewer-service-calibration]] sibling pattern at ~1100–1600 words)
+- **Based on research**: no (source is the 2026-05-04 Claude outer review and its synthesis; no separate research dossier required)
+- **Subject**: documents the asymmetry the 2026-05-04 Claude Opus 4.7 review exhibited — empirical claim ("no Duch references on site") demonstrably wrong via grep, methodological claim (architectural prediction of counterargument-absorption risk) correct and convergent with two prior outer reviews. Records the structural reason for the asymmetry (three resolution layers: indexed snippets, page fetches, reasoning-from-architecture; only the first lags commits), the existing verification-step mitigation, the explicit calibration rule (when verification disputes empirical claims, weight the surviving methodological claims *higher*), the cadence tradeoff (daily-with-verification preserves responsiveness; the alternative is weekly-without-staleness), and a pre-registered observation criterion (over twenty cycles, disputed-empirical-claim rate should stay in 10–30%; outside that range triggers re-calibration)
+- **Family**: second entry in the service-calibration sub-family of project docs; companion to [[outer-reviewer-service-calibration]] (service-mix) — the present doc covers reviewer-finding weighting under index lag rather than reviewer-service assignment
+- **Connections installed**: cross-links to [[outer-reviewer-service-calibration]], [[coherence-inflation-countermeasures]], [[direct-refutation-discipline]] (the convergent methodological finding from the same 2026-05-04 cycle), [[evidential-status-discipline]], [[automation]], and the source 2026-05-04 review trio (Claude, ChatGPT, synthesis)
+- **Todo task**: marked ✓ at todo.md line 246 with output back-reference
 
 ## 2026-05-13 22:51 UTC - refine-draft
 - **Status**: Success
