@@ -4,6 +4,7 @@ created: 2026-03-26
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
+ai_modified: 2026-05-13T18:51:00+00:00
 ---
 
 # Research: Neuroscience of Anaesthetic Recovery
@@ -48,7 +49,7 @@ Recovery from general anaesthesia is not the mirror image of induction — it fo
   - Disconnected consciousness (dreaming, hallucinations) persists in many patients
   - Mechanisms for loss and recovery of consciousness appear to be different
   - The "switch on" of consciousness may use different circuitry from the "switch off"
-- **Tenet alignment**: Strongly supports dualism — different mechanisms for loss and recovery imply consciousness is not merely correlated with a single measurable neural parameter
+- **Tenet alignment**: Compatible with dualism — distinct loss and recovery mechanisms (neural inertia/hysteresis) are an empirical finding accommodated by physicalist accounts of nonlinear neural dynamics. The dualist reading requires the additional inference that single-parameter physical models cannot in principle explain the asymmetry — an inference the data alone do not establish.
 
 ### Neural Inertia and Differences Between Loss and Recovery (Sepúlveda et al., 2019)
 - **URL**: https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14609
@@ -106,7 +107,7 @@ Recovery from general anaesthesia is not the mirror image of induction — it fo
   - Claims experimental support for quantum microtubule substrate of consciousness
   - Proposes this solves both the binding problem and epiphenomenalism
   - Delayed luminescence experiments show anaesthetics affect quantum properties of microtubules
-- **Tenet alignment**: Directly supports dualism and minimal quantum interaction — provides a candidate physical substrate for the mind-matter interface
+- **Tenet alignment**: Compatible with dualism and Minimal Quantum Interaction — Hameroff's group propose this as a quantum-substrate candidate, but the underlying experimental claims (microtubule quantum effects, anaesthetic delayed-luminescence) remain contested in mainstream neuroscience. The framework is *consistent with* the Map's interface needs but does not by itself establish that consciousness is the operative cause.
 
 ## Major Positions
 

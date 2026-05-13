@@ -4,6 +4,7 @@ created: 2026-04-05
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
+ai_modified: 2026-05-13T18:51:00+00:00
 ---
 
 # Research: Consciousness Under Extreme Metabolic Constraint
@@ -37,7 +38,7 @@ The relationship between metabolic supply and consciousness presents a major evi
   - Increased interhemispheric functional and directed connectivity in gamma bands
   - Activation of temporo-parieto-occipital (TPO) junctions — regions associated with conscious experience, dreaming, and out-of-body experiences
   - Activity lasted approximately 30 seconds after cardiac arrest
-- **Tenet alignment**: Strongly supports dualism — the brain generates organized activity signatures associated with consciousness precisely when metabolic supply is failing. A production model must explain why the system produces its most organized output during collapse
+- **Tenet alignment**: Compatible with dualism — the gamma surge during cardiac arrest is a striking finding but production-model accounts (terminal disinhibition, neurotransmitter cascades, membrane breakdown patterns) have been proposed and remain live. The data constrain naive metabolic-correlation models without uniquely supporting dualism.
 - **Quote**: "The dying human brain can be activated"
 
 ### Consciousness and the Dying Brain (2024)
@@ -72,7 +73,7 @@ The relationship between metabolic supply and consciousness presents a major evi
   - Sensory information "received but not perceived" during anesthesia — primary processing preserved, higher-order integration lost
   - Different anesthetic agents produce different consciousness profiles at similar metabolic reductions
   - Under anesthesia, individual brains become less distinguishable from each other
-- **Tenet alignment**: Supports dualism — if metabolic reduction were the key variable, all agents at similar metabolic reduction should produce similar consciousness effects. The agent-specific profiles suggest the brain acts as a differentially tunable interface
+- **Tenet alignment**: Compatible with dualism — agent-specific consciousness profiles refute naive metabolic-rate-only models, but receptor-specificity and circuit-specificity accounts within physicalist neuroscience already accommodate these differences. The "differentially tunable interface" reading requires the additional dualist commitment.
 
 ### The Entropic Brain: A Theory of Conscious States (Carhart-Harris et al., 2014)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC3909994/
@@ -104,7 +105,7 @@ The relationship between metabolic supply and consciousness presents a major evi
   - Hypothermia provides brain protection by reducing global metabolic demand
   - Some patients report near-death experiences during these procedures despite profound metabolic suppression
   - NDE occurrence during hypothermic arrest is a neurobiological paradox for physicalism
-- **Tenet alignment**: Supports dualism — vivid experience during extreme metabolic suppression and brain cooling is difficult to explain under production models
+- **Tenet alignment**: Compatible with dualism — NDE phenomenology under hypothermic arrest is a real anomaly for naive production models, but timing of the experiences (before suppression, during recovery) remains contested in the empirical literature; alternative production-model accounts are not ruled out.
 
 ### The Hard Problem of Consciousness and the Free Energy Principle (Solms & Friston, 2019)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC6363942/

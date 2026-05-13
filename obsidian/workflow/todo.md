@@ -138,14 +138,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review (2026-05-11)
 - **Generated**: 2026-05-11
 
-### P2: Audit research-notes "Tenet alignment" scoring across corpus
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. The reviewer caught a specific case in `/research/voids-reality-feeling-void-2026-02-14/`: a William James quote ("Whatever excites and stimulates our interest is real") annotated as "Supports dualism — if reality-feeling is affective rather than computational, it resists purely functional explanation." This is a non-sequitur — James was a radical empiricist and pragmatist; the affective character of his account does not entail dualism. The broader pattern: research notes' "Tenet alignment: Supports X" scoring sometimes claims more support from a source than the source actually provides. Audit pass: scan all research notes for "Tenet alignment: Supports" annotations; for each, verify the source actually supports (rather than is merely compatible with) the named tenet. Where over-reach is found, replace "Supports X" with "Compatible with X" plus a one-line explanation of the inferential gap. Tenet alignment: methodological / [[evidential-status-discipline]]. Convergent with the broader "Phenomenal-Ontological Slippage" methodology proposal from 2026-05-10 Gemini review. Light per-note scope but corpus-wide reach — could be done incrementally. See review file.
-- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-11
-
 ### P2: Project doc on outer-reviewer service calibration — Gemini Deep Research as sycophancy data-point (2026-05-11 cycle)
 - **Type**: expand-topic
 - **Status**: pending
@@ -3576,6 +3568,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Audit research-notes "Tenet alignment" scoring across corpus
+- **Type**: refine-draft
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. The reviewer caught a specific case in `/research/voids-reality-feeling-void-2026-02-14/`: a William James quote ("Whatever excites and stimulates our interest is real") annotated as "Supports dualism — if reality-feeling is affective rather than computational, it resists purely functional explanation." This is a non-sequitur — James was a radical empiricist and pragmatist; the affective character of his account does not entail dualism. The broader pattern: research notes' "Tenet alignment: Supports X" scoring sometimes claims more support from a source than the source actually provides. Audit pass: scan all research notes for "Tenet alignment: Supports" annotations; for each, verify the source actually supports (rather than is merely compatible with) the named tenet. Where over-reach is found, replace "Supports X" with "Compatible with X" plus a one-line explanation of the inferential gap. Tenet alignment: methodological / [[evidential-status-discipline]]. Convergent with the broader "Phenomenal-Ontological Slippage" methodology proposal from 2026-05-10 Gemini review. Light per-note scope but corpus-wide reach — could be done incrementally. See review file.
+- **Output**: Task context:
+From outer review by Claude Opus 4.7 2026-05-11. The reviewer caught a specific case in `/research/voids-reality-feeling-void-2026-02-14/`: a William James quote ("Whatever excites and stimulates our interest is real") annotated as "Supports dualism — if reality-feeling is affective rather than computational, it resists purely functional explanation." This is a non-sequitur — James was a radical empiricist and pragmatist; the affective character of his account does not entail dualism. The broader pattern: research notes' "Tenet alignment: Supports X" scoring sometimes claims more support from a source than the source actually provides. Audit pass: scan all research notes for "Tenet alignment: Supports" annotations; for each, verify the source actually supports (rather than is merely compatible with) the named tenet. Where over-reach is found, replace "Supports X" with "Compatible with X" plus a one-line explanation of the inferential gap. Tenet alignment: methodological / [[evidential-status-discipline]]. Convergent with the broader "Phenomenal-Ontological Slippage" methodology proposal from 2026-05-10 Gemini review. Light per-note scope but corpus-wide reach — could be done incrementally. See review file.
+
+Review file: reviews/outer-review-2026-05-11-claude-opus-4-7.md
 
 ### ✓ 2026-05-13: Add Framework-Independent Voids subsection to voids index
 - **Type**: refine-draft

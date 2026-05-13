@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Reality-Feeling Void"
 created: 2026-02-14
 modified: 2026-02-14
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-05-13T18:51:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -63,7 +63,7 @@ Experience comes stamped with a quality of "realness" — a felt conviction that
   - Reality "means simply relation to our emotional and active life…whatever excites and stimulates our interest is real"
   - The feeling of reality is not propositional but affective — a felt quality prior to judgment
   - Multiple "sub-universes" of reality (the world of sense, of science, of abstract truth, of madness) each with their own reality-feeling
-- **Tenet alignment**: Supports dualism — if reality-feeling is affective rather than computational, it resists purely functional explanation
+- **Tenet alignment**: Compatible with dualism — the affective character of reality-feeling resists *purely propositional* explanation, but James himself was a radical empiricist and pragmatist; nothing in his account requires that affect be non-physical. Enactivists and functional theories of affect can absorb the same datum.
 - **Quote**: "Whatever excites and stimulates our interest is real."
 
 ### Edmund Husserl — Doxic Modality and the Ur-doxa (Ideas I, 1913)
@@ -74,7 +74,7 @@ Experience comes stamped with a quality of "realness" — a felt conviction that
   - This belief character is NOT part of the representational content but a structural feature of the act itself
   - The belief can be "neutralized" (as in imagination, fantasy, or the philosophical epoché) but not directly observed
   - Neutralization reveals the belief's presence by contrast — you notice reality-positing when it's suspended
-- **Tenet alignment**: The structural invisibility of doxic modality supports dualist interpretations — the reality-feeling operates at a level prior to and independent of content
+- **Tenet alignment**: Compatible with dualism — the structural invisibility of doxic modality is a phenomenological finding that operates at the level of intentional structure. Husserl himself bracketed metaphysical commitments via the epoché; the finding is equally compatible with non-dualist accounts that locate doxic modality in pre-reflective neural processing.
 - **Quote**: "Every act has a doxic position-taking regarding the existence of the object."
 
 ### Thomas Metzinger — Phenomenal Transparency (Being No One, 2003)
@@ -86,7 +86,7 @@ Experience comes stamped with a quality of "realness" — a felt conviction that
   - The "window of presence" (Präsenzfenster) is the temporal frame within which experience has its reality-quality
   - Transparency is not a skill failure — it is how representation works. The construction process is structurally hidden
   - Depersonalization/derealization represent partial transparency breakdowns — the "glass" of the window becoming visible
-- **Tenet alignment**: Strong connection to Occam's Razor Has Limits — Metzinger's framework implies the simplest model (naïve realism) is built into cognition by design, potentially hiding the true nature of experience
+- **Tenet alignment**: Compatible with Occam's Razor Has Limits — Metzinger's transparency framework shows how apparent simplicity (naïve realism) can mask underlying constructive complexity. Metzinger himself is a representational naturalist, not a dualist; the structural insight about apparent-simplicity-masking-complexity is what the Map borrows, not a metaphysical conclusion.
 - **Quote**: "The phenomenal self emerges exactly because we do not recognize our self-model as a model."
 
 ### Matthew Ratcliffe — Existential Feelings (Feelings of Being, 2008)
@@ -98,7 +98,7 @@ Experience comes stamped with a quality of "realness" — a felt conviction that
   - Depression involves alteration of existential feeling: the world loses its quality of mattering, of offering possibilities
   - These feelings form a background that is normally invisible — noticed only when disturbed
   - 2024 application: existential feelings framework used to analyze psychedelic therapy, where reality-feeling is radically altered
-- **Tenet alignment**: Bidirectional Interaction — existential feelings suggest consciousness actively constitutes the sense of reality rather than passively receiving it
+- **Tenet alignment**: Compatible with Bidirectional Interaction — Ratcliffe's "active constitution" is enactivist-phenomenological language and does not by itself entail mind→world causal influence in the dualist sense. Enactivist accounts can describe constitution without any non-physical causation.
 - **Quote**: Existential feelings are "responsible for our sense of reality."
 
 ### Alexandre Billon — "The Psychopathology of Metaphysics" (Metaphilosophy, 2024)
@@ -121,7 +121,7 @@ Experience comes stamped with a quality of "realness" — a felt conviction that
   - The normal pre-reflective sense of "presence" requires both tacit self-awareness and world-engagement
   - When transparency breaks: "disembodied spirit" (sharp awareness separated from felt existence) and "deanimated body" (feeling distant and lifeless)
   - 2024 extension: self-disorders in schizophrenia reconceptualized as "disorders of transparency"
-- **Tenet alignment**: Dualism — the dissociation between awareness and felt reality suggests these are separable components, not a unified physical process
+- **Tenet alignment**: Compatible with dualism — the dissociation between awareness and felt reality is functionally observable in psychopathology. Sass himself works in phenomenology of psychiatry and does not draw substance-dualist conclusions; the same dissociation can be modelled by functional theories that posit distinct sub-systems for awareness and reality-monitoring.
 
 ### Cognitive Reality Monitoring Network (Simons, Garrison & Johnson, 2017; extended 2024)
 - **URL**: https://www.sciencedirect.com/science/article/pii/S0168010224000117
@@ -144,7 +144,7 @@ Experience comes stamped with a quality of "realness" — a felt conviction that
   - "Seeing the Dark" (2018): transparency and opacity explained through precision weighting in active inference
   - Psychedelic-induced ego dissolution reduces precision of self-model predictions, dissolving the reality-feeling of selfhood
   - A "hyper-model" for precision-control may be central to consciousness — controlling not just what seems real but the overall structure of reality-assessment
-- **Tenet alignment**: Occam's Razor Has Limits — the precision-weighting mechanism itself operates below consciousness. The simplest explanation (things seem real because they are) may hide a complex generative process
+- **Tenet alignment**: Compatible with Occam's Razor Has Limits — the precision-weighting mechanism's invisibility shows that phenomenally simple appearances can mask computational complexity. Friston, Clark, and Laukkonen are computationalists and treat the mechanism as fully physical; the structural lesson about apparent simplicity is independent of any anti-physicalist conclusion.
 
 ### Fabiana Caserta — "The Opaque Window" (2022)
 - **URL**: https://philpapers.org/rec/CASTOW-2
@@ -154,7 +154,7 @@ Experience comes stamped with a quality of "realness" — a felt conviction that
   - The metaphor illuminates the structure: normally we "look through" experience to its objects; in depersonalization we see the looking itself
   - Patients report: "I know it's real but it doesn't feel real" — a dissociation between judgment and phenomenal quality
   - This dissociation proves that the reality-feeling is independent of belief — you can believe the world is real while it feels unreal, and vice versa (as in vivid dreams)
-- **Tenet alignment**: Dualism — the separability of cognitive judgment ("I know this is real") from phenomenal reality-feeling ("it doesn't feel real") suggests these are distinct processes, possibly operating at different ontological levels
+- **Tenet alignment**: Compatible with dualism — the judgment/feeling dissociation is a real phenomenological finding but separability of *processes* does not entail separability at the *ontological* level; functional theories with distinct cognitive and phenomenal sub-systems can absorb the same data without dualist commitment.
 
 ## The Void
 

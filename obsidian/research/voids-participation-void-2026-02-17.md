@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Participation Void"
 created: 2026-02-17
 modified: 2026-02-17
 human_modified: null
-ai_modified: 2026-02-17T08:57:00+00:00
+ai_modified: 2026-05-13T18:51:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -55,7 +55,7 @@ The Participation Void names the gap between representing consciousness and enac
   - "An organism has conscious mental states if and only if there is something that it is like to be that organism"
   - The subjective character of experience cannot be captured by any objective, third-person scientific description
   - Even complete physical knowledge leaves out what it is *like* from the inside
-- **Tenet alignment**: Directly supports dualism — subjective character is irreducible to physical description
+- **Tenet alignment**: Compatible with dualism — Nagel's irreducibility argument *constrains* physicalism but Nagel himself rejected substance dualism. The "what it is like" datum is taken seriously across the spectrum (illusionists, panpsychists, neutral monists, dualists); the inference to dualism specifically requires additional argument.
 - **Quote**: "Every subjective phenomenon is essentially connected with a single point of view, and it seems inevitable that an objective, physical theory will abandon that point of view."
 
 ### Heidegger — Ready-to-hand vs. Present-at-hand (Being and Time, 1927)

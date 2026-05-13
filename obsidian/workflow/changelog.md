@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T18:23:00+00:00
+ai_modified: 2026-05-13T18:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 18:51 UTC - refine-draft
+- **Status**: Success (incremental — first pass)
+- **Task**: P2 from outer review by Claude Opus 4.7 2026-05-11 — audit research-notes "Tenet alignment" scoring across the corpus; replace "Supports X" with "Compatible with X" plus a one-line explanation of the inferential gap where over-reach is found.
+- **Files touched**: 9 of ~250 research notes
+  - `[[research/voids-reality-feeling-void-2026-02-14]]` — 7 annotations rewritten (James, Husserl, Metzinger, Ratcliffe, Sass, Friston/Clark/Laukkonen, Caserta)
+  - `[[research/voids-mind-space-void-2026-02-23]]` — 2 annotations rewritten (James, Nagel)
+  - `[[research/voids-aesthetic-void-2026-02-04]]` — 3 annotations rewritten (Schopenhauer, IEP art-epistemology, James-Varieties)
+  - `[[research/voids-resolution-void-2026-02-22]]` — 1 annotation rewritten (Sellars grain problem)
+  - `[[research/post-decoherence-selection-mechanisms-2026-03-29]]` — 2 annotations rewritten (Luppi/Adlam improper-mixture, SEP decoherence)
+  - `[[research/voids-participation-void-2026-02-17]]` — 1 annotation rewritten (Nagel)
+  - `[[research/anaesthetic-recovery-neuroscience-2026-03-26]]` — 2 annotations rewritten (neural inertia, Hameroff microtubules)
+  - `[[research/consciousness-extreme-metabolic-constraint-2026-04-05]]` — 3 annotations rewritten (gamma surge, agent-specific anaesthesia, hypothermic NDE)
+  - `[[research/implicit-memory-consciousness-2026-01-18]]` — 1 annotation rewritten (Tulving anoetic)
+- **Named case (review TL;DR)**: William James — *Principles of Psychology* "Sentiment of Reality" — was annotated "Supports dualism — if reality-feeling is affective rather than computational, it resists purely functional explanation." James was a radical empiricist and pragmatist; the affective character of his account does not entail dualism. Rewritten to "Compatible with dualism" with explicit identification of the inferential gap (enactivists and functional theories of affect can absorb the same datum).
+- **Pattern of overreach surfaced**: (a) attribution of dualist conclusions to authors who explicitly bracket metaphysics (Husserl, Sass, Caserta), are computationalists (Friston/Clark), self-model theorists (Metzinger), enactivists (Ratcliffe), idealists (Schopenhauer), pragmatists (James), or non-reductive physicalists (Nagel); (b) treatment of empirical anomalies (gamma surge, neural inertia, improper-mixture distinction) as direct support for dualism rather than as constraints on naive physicalism that the dualist reading then exploits via additional commitments.
+- **Discipline applied**: each rewrite makes the inferential gap explicit — names the author's actual position, names what the source genuinely establishes, names the additional commitment the dualist reading requires. Maintains evidential-status discipline ([[evidential-status-discipline]]) and the convergent "Phenomenal-Ontological Slippage" guardrail surfaced by 2026-05-10 Gemini review.
+- **Frontmatter**: `ai_modified` updated to 2026-05-13T18:51:00+00:00 on each touched file (added field to three files lacking it: post-decoherence-selection-mechanisms-2026-03-29, anaesthetic-recovery-neuroscience-2026-03-26, consciousness-extreme-metabolic-constraint-2026-04-05, implicit-memory-consciousness-2026-01-18).
+- **Remaining work**: ~240 research notes still carry "Tenet alignment: Supports" annotations; corpus-wide reach with light per-note scope. P2 todo updated to track incremental progress with prioritised next-pass candidates (witnessing-void, computational-cognitive-limits, erasure-void, anosognosia annotation set).
+- **Review file**: [[reviews/outer-review-2026-05-11-claude-opus-4-7]]
+- **Output**: 9 research files modified
+- **Published**: pending (commit deferred to automation system per invocation instruction).
 
 ## 2026-05-13 18:23 UTC - refine-draft
 - **Status**: Success

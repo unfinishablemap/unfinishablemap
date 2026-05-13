@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Aesthetic Void"
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-02-04T22:57:00+00:00
+ai_modified: 2026-05-13T18:51:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -66,7 +66,7 @@ Aesthetic experience—profound encounters with beauty, sublimity, and art—exh
   - First two are essential: cannot articulate, yet feels like genuine knowledge
   - Creates paradox: if ineffable, how can it grant knowledge? Knowledge usually requires expressibility
   - Mystical states are "states of insight into depths of truth unplumbed by the discursive intellect"
-- **Tenet alignment**: The ineffability-noesis paradox maps directly to cognitive limits—accessing territory that exceeds representational capacity
+- **Tenet alignment**: Compatible with the Map's cognitive-limits framing — James reports the *phenomenology* of mystical states; the inference that they reveal genuine extra-representational territory (rather than failure of the representational system) requires additional argument the Map supplies independently.
 - **Quote**: "In this peculiarity, mystical states are more like states of feeling than like states of intellect"
 
 ### Schopenhauer's Aesthetics (SEP)
@@ -77,7 +77,7 @@ Aesthetic experience—profound encounters with beauty, sublimity, and art—exh
   - The intellect, freed from serving the will, can access Ideas (Platonic forms) directly
   - Art allows non-geniuses to intuit Ideas they cannot perceive in nature directly
   - "Will-less perception" = perceiving objects simply for what they are in themselves, not in relation to our desires
-- **Tenet alignment**: Supports dualism—aesthetic experience involves a mode of consciousness distinct from ordinary cognition; the suspension of will maps to altered relationship between consciousness and physical processes
+- **Tenet alignment**: Compatible with dualism — Schopenhauer's metaphysics is itself an idealism (Will as noumenal ground), not a substance dualism. The mode-distinctness claim is a phenomenological observation that functional theories of attention can absorb without invoking a non-physical mind.
 - **Quote**: "Although the intellect exists only to serve the will, in certain humans the intellect accorded by nature is so disproportionately large that it far exceeds the amount needed to serve the will"
 
 ### Art and Epistemology (IEP)
@@ -88,7 +88,7 @@ Aesthetic experience—profound encounters with beauty, sublimity, and art—exh
   - Art may provide non-propositional knowledge—understanding that exceeds what can be stated
   - Distinction between propositional knowledge (expressible) and knowledge-by-acquaintance (requires experience)
   - Art creates "understanding" (holistic, non-reducible) rather than discrete "knowledge"
-- **Tenet alignment**: Supports the existence of cognitive modes beyond ordinary concept-manipulation; suggests art may access territory closed to propositional thought
+- **Tenet alignment**: Compatible with the Map's claim that there are cognitive modes beyond ordinary concept-manipulation — non-propositional knowledge in art is widely accepted across analytic aesthetics without dualist commitment; the inferential gap to dualism would require additional argument that the non-propositional mode resists physical realisation.
 - **Quote**: "Examining our presuppositions about what constitutes knowledge may lead us to reconceive knowledge in such a way that we come to understand how it can be gained non-propositionally"
 
 ### Negative Theology and Aesthetics (CERCCA)
