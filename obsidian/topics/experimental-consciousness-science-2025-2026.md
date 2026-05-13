@@ -4,7 +4,7 @@ description: "Major consciousness experiments of 2025-2026—COGITATE adversaria
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-05-03T11:28:31.670214+00:00
+ai_modified: 2026-05-13T13:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated:
-last_deep_review: 2026-03-28T07:42:00+00:00
+last_deep_review: 2026-05-13T13:22:00+00:00
 embedded_videos:
   - id: 9cHrSnEjSzk
     url: https://www.youtube-nocookie.com/embed/9cHrSnEjSzk
@@ -87,7 +87,7 @@ The authors remain physicalists—they argue consciousness emerges from biologic
 
 A 2025 review in *Brain* synthesised evidence that up to 25% of patients diagnosed as being in a vegetative state may harbour covert consciousness—awareness without any behavioural expression. New multimodal tools integrating EEG, MRI, PET, and functional near-infrared spectroscopy (fNIRS) are advancing clinical detection of consciousness in unresponsive patients.
 
-This finding has direct philosophical significance. If consciousness can persist when the bidirectional causal channel between mind and body is severely damaged, then consciousness is not identical to the observable physical behaviour that physicalist criteria use to detect it. Behavioural absence does not entail experiential absence. The covert consciousness findings demonstrate that the relationship between consciousness and its physical expression is one of correlation, not identity—precisely the distinction the Map insists on when interpreting [[neural-correlates-of-consciousness|neural correlates]].
+This finding has direct philosophical significance. If consciousness can persist when the bidirectional causal channel between mind and body is severely damaged, then consciousness is not identical to the observable physical behaviour that physicalist criteria use to detect it. Behavioural absence does not entail experiential absence. The findings establish a correlate/identity distinction at the *behavioural* level: behavioural criteria cannot adjudicate which relation holds. The same distinction runs through the Map's interpretation of [[neural-correlates-of-consciousness|neural correlates]] at the neural level, though that broader claim does separate argumentative work that no single behavioural-detection study could settle.
 
 ## Wider Developments
 
@@ -103,7 +103,7 @@ The COGITATE results support the Map's [[tenets#^occams-limits|fifth tenet]]—t
 
 The biophoton detection and Keppler's ZPF model provide new candidate mechanisms for the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. Both identify quantum-level processes in the brain that could serve as the interface where consciousness biases otherwise indeterminate physical outcomes. Neither proves that consciousness operates through these mechanisms, but they expand the empirical landscape in which such mechanisms could be tested.
 
-The split-brain findings and covert consciousness evidence support the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet by demonstrating that consciousness and its physical substrates relate as interface partners, not as identical. Minimal connections preserve full unity; damaged output channels conceal intact experience. Both patterns are expected if consciousness uses the brain as an instrument rather than being constituted by it.
+The split-brain findings and covert consciousness evidence are more naturally read on the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—where consciousness and its physical substrates relate as interface partners—than on the simplest identity accounts. Minimal connections preserve full unity; damaged output channels conceal intact experience. Both patterns are expected if consciousness uses the brain as an instrument rather than being constituted by it; both *constrain* the simplest identity readings without by themselves *establishing* the interface alternative, which the Map advances on the broader weight of its tenets.
 
 The Map interprets these findings not as proof of dualism—no single experiment could establish that—but as convergent evidence that physicalist explanation is incomplete. The hard problem remains unbridged. The dominant theories face empirical challenges. New findings consistently reveal consciousness to be more resilient, more fundamental, and less reducible than physicalist frameworks predict.
 

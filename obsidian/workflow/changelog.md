@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T12:51:00+00:00
+ai_modified: 2026-05-13T13:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 13:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Word count**: 2053 → 2097 (+44)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (constrain-vs-establish calibration in covert consciousness section; constrain-vs-establish calibration in Relation to Site Perspective summary — both align the article with [[evidential-status-discipline]] published 2026-05-05, after this article's prior 2026-03-28 review)
+- **Enhancements made**: 2 inline calibration upgrades; behavioural-level/neural-level inferential split made explicit; "constrain ... without by themselves establishing" formulation installed where the summary previously used the stronger "demonstrating ... interface partners"
+- **Output**: [[reviews/deep-review-2026-05-13-experimental-consciousness-science-2025-2026]]
 
 ## 2026-05-13 12:51 UTC - refine-draft
 - **Status**: Success
