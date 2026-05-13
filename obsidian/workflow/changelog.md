@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T20:51:00+00:00
+ai_modified: 2026-05-13T21:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 21:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Project doc on MQI empirical fragility — flagging the narrowing-gap dependence
+- **Output**: [[project/mqi-empirical-fragility]]
+- **Word count**: 2991 (project-doc soft_warning; comparable to framework-stage-calibration and direct-refutation-discipline)
+- **Based on research**: no (synthesises existing catalogue treatments: tenets#minimal-quantum-interaction, falsification-roadmap, penrose-gravity-induced-collapse, born-rule-violation-brain-interface-empirical-status, spontaneous-collapse-theories, measurement-problem, post-decoherence-selection-programme)
+- **Discipline placement**: sixth named methodological pattern in the Map's editorial system; operates at the *physics-dependence layer* (catalogues which physics developments would narrow MQI's operating gap). Follows closed-loop opportunity execution (cycle), coalesce-condense-apex-stability (article), bedrock-clash vs. absorption (within-article), framework-stage calibration (framework), direct-refutation discipline (reasoning-mode), evidential-status discipline (calibration).
+- **Structure**: structural dependence statement → five-scenario narrowing-gap inventory (measurement-problem closure, spontaneous-collapse modulation-channel constraint, decoherence dissolution, neural-coherence elimination, Born-rule sensitivity at brain interface) → three concentric circles of what would be foreclosed/constrained/survives → three rules (name dependence, distinguish foreclosure from refutation, audit over/under-coupling) → three honest limitations including the principled-vs-empirical-gap caveat → tenet alignment (reflexive with Tenet 2; calibration-layer with Tenet 5)
 
 ## 2026-05-13 20:51 UTC - refine-draft
 - **Status**: Success

@@ -173,14 +173,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness + chain (cross-article Tegmark/Hagan audit, evidential-status-discipline refine)
 - **Generated**: 2026-05-10
 
-### P2: Project doc on MQI empirical fragility — flagging the narrowing-gap dependence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-10. The reviewer flags that the Map's mental-causation mechanism (consciousness modulating quantum measurement collapse via objective-reduction theories or TSVF/transactional handshakes) operates within narrowing gaps of contemporary quantum measurement ambiguity. There is currently zero empirical evidence that integrated information or subjective states affect wave function collapse rates. If future physics produces a deterministic non-collapse reconciliation of quantum gravity, or empirically demonstrates that environmental decoherence fully explains the classical transition, the Map's proposed mechanism for mental causation would dissolve. This is methodological honesty, not a fatal critique — but the framework should explicitly acknowledge the load-bearing dependence rather than discovering it under pressure. Write `obsidian/project/mqi-empirical-fragility.md` covering: (a) the dependence chain (interactionist dualism + bidirectional causation → mental causation requires physical leverage point → MQI-style modulation requires quantum indeterminacy → indeterminacy requires non-determinist QM interpretation); (b) the empirical signals that would weaken or strengthen this dependence; (c) the relation to the existing tenet-bracketing methodology — Mode Four (above) is the natural discharge classification for this case; (d) the philosophical posture: the framework is honest about its dependencies, treats them as load-bearing rather than ignored, and accepts that metaphysical commitments are revisable under empirical pressure. Estimated 600–900 words; project-doc placement. Tenet alignment: methodological / Tenet 5 (Occam's Razor Has Limits — applies in the inverse: simplicity is unreliable but so is selecting an interpretation purely on metaphysical preference). **Sequencing**: should land after Mode Four (P3 above) since Mode Four is the natural classification slot for Empirical Underdetermination cases like this. See review file.
-- **Review file**: `reviews/outer-review-2026-05-10-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-10
-
 ### P2: Cross-review concepts/phenomenology.md against concepts/autonoetic-consciousness.md to reconcile the diachronic-identity ground
 - **Type**: cross-review
 - **Status**: pending
@@ -3552,6 +3544,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Project doc on MQI empirical fragility — flagging the narrowing-gap dependence
+- **Type**: expand-topic
+- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-10. The reviewer flags that the Map's mental-causation mechanism (consciousness modulating quantum measurement collapse via objective-reduction theories or TSVF/transactional handshakes) operates within narrowing gaps of contemporary quantum measurement ambiguity. There is currently zero empirical evidence that integrated information or subjective states affect wave function collapse rates. If future physics produces a deterministic non-collapse reconciliation of quantum gravity, or empirically demonstrates that environmental decoherence fully explains the classical transition, the Map's proposed mechanism for mental causation would dissolve. This is methodological honesty, not a fatal critique — but the framework should explicitly acknowledge the load-bearing dependence rather than discovering it under pressure. Write `obsidian/project/mqi-empirical-fragility.md` covering: (a) the dependence chain (interactionist dualism + bidirectional causation → mental causation requires physical leverage point → MQI-style modulation requires quantum indeterminacy → indeterminacy requires non-determinist QM interpretation); (b) the empirical signals that would weaken or strengthen this dependence; (c) the relation to the existing tenet-bracketing methodology — Mode Four (above) is the natural discharge classification for this case; (d) the philosophical posture: the framework is honest about its dependencies, treats them as load-bearing rather than ignored, and accepts that metaphysical commitments are revisable under empirical pressure. Estimated 600–900 words; project-doc placement. Tenet alignment: methodological / Tenet 5 (Occam's Razor Has Limits — applies in the inverse: simplicity is unreliable but so is selecting an interpretation purely on metaphysical preference). **Sequencing**: should land after Mode Four (P3 above) since Mode Four is the natural classification slot for Empirical Underdetermination cases like this. See review file.
+- **Output**: Project doc on MQI empirical fragility — flagging the narrowing-gap dependence
 
 ### ✓ 2026-05-13: Add Mode Four (Empirical Underdetermination) to the engagement-mode taxonomy
 - **Type**: refine-draft
