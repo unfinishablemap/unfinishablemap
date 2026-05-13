@@ -4,7 +4,7 @@ description: "The moment attention returns from wandering reveals a micro-struct
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-04-27T19:19:00+00:00
+ai_modified: 2026-05-13T17:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,8 @@ related_articles:
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[structure-of-attention]]"
   - "[[attention-and-the-consciousness-interface]]"
+  - "[[non-temporal-consciousness]]"
+  - "[[phenomenology-of-anticipation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -103,7 +105,7 @@ The phrase "returning attention" conceals an ambiguity. What exactly returns? Se
 - **Meta-awareness**: The monitoring function re-engages
 - **Intention**: The original plan ("watch the breath") reasserts itself
 - **Effort**: The phenomenal sense of trying reappears
-- **Temporal orientation**: Experience shifts from absorption in content (timeless wandering) to directed engagement (future-oriented attending)
+- **Temporal orientation**: Experience shifts from absorption in content (timeless wandering) to directed engagement (future-oriented attending) — the more profound form of alert atemporality cultivated in sustained practice is treated in [[non-temporal-consciousness]], where it bears on whether the deepest level of mind is constitutively temporal at all
 
 The bundled character of returning — all these aspects shifting together rather than sequentially — suggests that what returns is not a single faculty but an entire mode of consciousness. A mechanistic account can explain some of this bundling: executive control re-engagement naturally recruits multiple cognitive functions simultaneously. But the bundling extends beyond what a single network predicts. Meta-awareness, phenomenal effort, and temporal reorientation are not all executive-control functions, yet they shift in concert. This points to a unified transition in how consciousness relates to the brain, not just a change in which network is active.
 
@@ -145,6 +147,8 @@ This has implications for the [[contemplative-epistemology|contemplative epistem
 - [[witness-consciousness]] — The observer capacity that underlies meta-awareness
 - [[structure-of-attention]] — Three-mode architecture of attentional control
 - [[contemplative-epistemology]] — Why trained introspection produces reliable phenomenological data
+- [[non-temporal-consciousness]] — Whether the alert, content-free awareness cultivated through return practice lies outside time
+- [[phenomenology-of-anticipation]] — Protention as the forward-directed structure that returning attention re-engages
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Protention—the forward-directed structure of present experience�
 created: 2026-02-09
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-04-10T22:56:00+00:00
+ai_modified: 2026-05-13T17:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,8 @@ related_articles:
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[categorical-surprise]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
+  - "[[non-temporal-consciousness]]"
+  - "[[phenomenology-of-returning-attention]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -92,7 +94,7 @@ The [[temporal-consciousness|specious present]]—the experienced duration of "n
 
 Bergson captured this in his account of [[temporal-consciousness|durée]]: lived time isn't a series of nows strung together but an interpenetrating flow where each phase contains both its past and its anticipated continuation. The forward lean of experience is part of what makes time feel like *flowing* rather than *accumulating*—duration moves because protention gives each moment a futureward orientation.
 
-Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] research suggests that contemplative practices can reveal protentional structure with unusual clarity. Meditators attending closely to the arising of experience report noticing a directional quality—each moment seems to "point" toward its successor. This is protention made visible through sustained phenomenological attention. A tension emerges here: the Buddhist contemplative traditions that generate these reports also challenge the notion of a unified subject doing the anticipating. If *anattā* (no-self) holds, protention may be a process without an agent—forward-directedness with no one reaching forward. The Map acknowledges this challenge while maintaining that the irreducibility of the protentional experience itself persists regardless of how the experiencing subject is characterised.
+Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] research suggests that contemplative practices can reveal protentional structure with unusual clarity. Meditators attending closely to the arising of experience report noticing a directional quality—each moment seems to "point" toward its successor. This is protention made visible through sustained phenomenological attention. Reports from deeper contemplative states go the other direction: in the alert timelessness Frischhut documents, protentional structure itself reportedly ceases while alertness persists ([[non-temporal-consciousness]]) — a phenomenon that, if genuine, would put pressure on the claim that protention is constitutive of conscious experience rather than a feature it can shed. A tension emerges here: the Buddhist contemplative traditions that generate these reports also challenge the notion of a unified subject doing the anticipating. If *anattā* (no-self) holds, protention may be a process without an agent—forward-directedness with no one reaching forward. The Map acknowledges this challenge while maintaining that the irreducibility of the protentional experience itself persists regardless of how the experiencing subject is characterised.
 
 ## Agency and Anticipatory Consciousness
 
@@ -149,6 +151,8 @@ Protention supports and illuminates several of the Map's foundational commitment
 - [[time-collapse-and-agency]] — The Map's framework connecting consciousness, collapse, and agency
 - [[agent-causation]] — Why protention's active character supports agent-causal accounts
 - [[phenomenology-of-intellectual-life]] — Temporal meaning as one of five phenomenal meaning modes
+- [[non-temporal-consciousness]] — Whether the deepest level of consciousness can shed protentional structure while remaining alert
+- [[phenomenology-of-returning-attention]] — Where ordinary attentional return re-engages protentional structure after wandering
 
 ## References
 

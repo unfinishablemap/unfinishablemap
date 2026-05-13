@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T16:51:00+00:00
+ai_modified: 2026-05-13T17:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 17:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Word count**: 5619 → 5678 (+59, hard_warning preserved at 187% → 189% of 3000-word soft threshold; well clear of 6000 critical)
+- **Critical issues addressed**: 0 (article is at high stability after four prior reviews; no critical issues found in this pass)
+- **Medium issues addressed**: 1 (missing reciprocal cluster integration — four cluster nodes had no back-links to non-temporal-consciousness despite shared subject matter)
+- **Enhancements made**: 5 — reciprocal links added across the cluster
+  - Forward links from non-temporal-consciousness.md to `[[phenomenology-of-anticipation]]` (inline at the retention/primal-impression/protention paragraph), `[[phenomenology-of-returning-attention]]` (inline at the Meditative Evidence section), and `[[attention-and-the-consciousness-interface]]` (frontmatter); compensating trim on Further Reading description for cognitive-phenomenology entry.
+  - Back-link in `concepts/temporal-consciousness.md` on the cessation-states line, forking readers between the temporal-constitution reading already there and the non-temporal-ground alternative.
+  - Back-link in `topics/attention-and-the-consciousness-interface.md` in the "Meditation: Training the Interface" section, connecting witness-awareness to both the non-temporal reading and returning-attention's micro-structure.
+  - Back-link in `topics/phenomenology-of-returning-attention.md` at the "What Returns?" section's "timeless wandering" bullet, distinguishing degenerate from cultivated timelessness.
+  - Back-link in `topics/phenomenology-of-anticipation.md` at the Varela section, noting that deeper contemplative states reportedly suspend protentional structure while preserving alertness.
+- **Pre-existing reciprocity**: `consciousness-and-the-ontology-of-temporal-becoming.md` and `apex/machine-question.md` were verified to already carry reciprocal links; no changes needed there.
+- **Reasoning-mode classification**: No new named-opponent engagements added. Prior classifications (Bergson, representationalist, constructivist, Madhyamaka, eternalist B-series, Bayne, MWI) carry forward unchanged from the 2026-05-05 review.
+- **Output**: [[reviews/deep-review-2026-05-13-non-temporal-consciousness]]
+- **Published**: pending (commit deferred to automation system per invocation instruction).
 
 ## 2026-05-13 16:51 UTC - refine-draft
 - **Status**: Success

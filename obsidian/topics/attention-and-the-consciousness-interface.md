@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-05-12
 human_modified:
-ai_modified: 2026-05-12T07:31:00+00:00
+ai_modified: 2026-05-13T17:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,6 +38,8 @@ related_articles:
   - "[[attention-as-causal-bridge]]"
   - "[[structure-of-attention]]"
   - "[[predictive-processing-and-dualism]]"
+  - "[[non-temporal-consciousness]]"
+  - "[[phenomenology-of-returning-attention]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -186,7 +188,7 @@ Schwartz interprets the results as evidence for the quantum Zeno mechanism. The 
 
 Beginning meditators struggle to sustain attention on simple objects; with practice, sustained attention improves and effort requirements decrease. Long-term meditators show functional differences in attention networks, though earlier claims of structural brain changes have been challenged by Kral et al. (2022), whose well-powered study (218 participants, active controls) found no structural changes from mindfulness-based stress reduction.
 
-Some contemplative traditions report [[witness-consciousness]]—awareness observing mental contents without identification. If AST were correct, intensive practice should reveal consciousness as schematic. Instead, practice deepens the sense that awareness is prior to its contents—fitting the interface model where consciousness disengages from active selection while maintaining awareness.
+Some contemplative traditions report [[witness-consciousness]]—awareness observing mental contents without identification. If AST were correct, intensive practice should reveal consciousness as schematic. Instead, practice deepens the sense that awareness is prior to its contents—fitting the interface model where consciousness disengages from active selection while maintaining awareness. The deeper case that this awareness is not merely content-free but reportedly non-temporal is developed in [[non-temporal-consciousness]]; the micro-structure of ordinary attention's return after wandering is treated in [[phenomenology-of-returning-attention]].
 
 ### The Epistemological Challenge
 
@@ -267,6 +269,8 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [[clinical-phenomenology-and-altered-experience]] — How mental illness reveals the structure of experience
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Anesthesia, coma, and disorders of consciousness as parallel interface disruptions
 - [[voids/attention-and-consciousness]] — The epistemological voids that attention creates and that its disorders deepen
+- [[non-temporal-consciousness]] — Whether the awareness revealed in deep meditative practice transcends time
+- [[phenomenology-of-returning-attention]] — The micro-structure of attentional return as everyday interface dynamics
 
 ## References
 
