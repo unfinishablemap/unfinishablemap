@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-09 15:38:00+00:00
+ai_modified: 2026-05-13 11:55:32.555137+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,6 +17,11 @@ date: &id001 2026-05-08
 description: Human+AI exploration of aphantasia—the absence of voluntary mental imagery—as
   a real, prevalent, and empirically anchored variation within a single species.
 draft: false
+embedded_videos:
+- embedded: 2026-05-13 11:55:32.555137+00:00
+  id: FjkqqFUeqrk
+  source: notebooklm/0056-01-aphantasia
+  url: https://www.youtube-nocookie.com/embed/FjkqqFUeqrk
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-08 16:07:00+00:00
@@ -41,6 +46,12 @@ topics:
 Aphantasia is the absence, in a substantial minority of otherwise typical minds, of voluntary phenomenal imagery. Asked to picture a red apple, an aphantasic person reports nothing visual—no mental picture, no shadow of one, no faded sketch. The cognitive task that imagery is usually thought to support (recalling a face, rehearsing a route, picturing a friend's living room) gets done anyway, by other means. Roughly 1% of the population is extreme-aphantasic, 3% extreme-hyperphantasic at the opposite end, and the remainder spread across a continuous spectrum of reported vividness ([Zeman 2024](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(24\)00034-2)). The phenomenon was named by Adam Zeman in 2015, but the underlying observation—that minds vary, perhaps radically, in what they "see" inwardly—was first documented by Francis Galton in 1880 and then partially eclipsed for over a century before the post-2010 clinical literature reopened it.
 
 Aphantasia matters to philosophy of mind because it is empirically anchored single-species evidence that two minds can perform demonstrably the same cognitive task with phenomenally divergent inner lives—and, in the limiting case, with one of those lives missing the imagery the task is conventionally said to require. That makes aphantasia a load-bearing case for the [phenomenology-vs-function](/concepts/phenomenology-vs-function-axis/) debate, the [hard problem of consciousness](/topics/hard-problem-of-consciousness/), and the broader question of how much a third-person science of mind can capture about first-person experience.
+
+<details class="yt-embed" data-video-id="FjkqqFUeqrk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/FjkqqFUeqrk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What Aphantasics Report
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-04-17 08:55:00+00:00
+ai_modified: 2026-05-13 11:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -181,7 +181,7 @@ Together, these explain why consciousness acts on brains specifically: brains me
 - [decoherence](/concepts/decoherence/) — The decoherence objection and quantum biology responses
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — Acting on decohered mixtures rather than coherent superpositions
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Clinical evidence favouring the interface model
-- [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/) — How attention disorders reveal interface architecture
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How attention disorders reveal interface architecture
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — How interface boundaries vary across species and neural architectures
 
 ## References

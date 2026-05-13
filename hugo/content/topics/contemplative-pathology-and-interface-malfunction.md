@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-27 10:21:00+00:00
+ai_modified: 2026-05-13 11:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -99,7 +99,7 @@ The [minimal quantum interaction tenet](/tenets/#minimal-quantum-interaction) su
 - [interface-friction](/concepts/interface-friction/)
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
-- [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/) — The epistemological void when attention itself is disordered
+- [The Epistemological Challenge](/topics/attention-and-the-consciousness-interface/#the-epistemological-challenge) — When attention itself is disordered
 
 ## References
 

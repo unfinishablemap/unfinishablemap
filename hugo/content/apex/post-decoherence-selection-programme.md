@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-05-11 19:11:00+00:00
+ai_modified: 2026-05-13 12:51:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-29 13:56:00+00:00
 apex_sources:
@@ -65,7 +65,7 @@ The strongest empirical objection to quantum consciousness theories is the [timi
 <p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
-## The Gap That Physics Cannot Close
+## The Gap That Physics Cannot Close [Empirical]
 
 Decoherence is one of the great achievements of modern physics. It explains why macroscopic objects appear classical: environmental interactions rapidly suppress quantum interference, selecting a preferred basis of robust pointer states and destroying the fragile superpositions that make quantum mechanics strange. After decoherence, a neural system exists in a mixture of classically distinguishable states—this firing pattern or that one—with interference between them suppressed below any detectable threshold.
 
@@ -75,7 +75,7 @@ The philosophical crux is the distinction between improper and proper mixtures. 
 
 Every interpretation of quantum mechanics takes a stance on this gap (see [Comparing Quantum Consciousness Mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) for detailed evaluation). [Many-worlds](/concepts/many-worlds/) denies it exists: all outcomes occur. [Objective collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, Penrose-Diósi) propose new physics. Hidden-variable theories make it illusory. The Map's proposal is that consciousness fills this gap—and that consciousness does so *after* decoherence has done its work.
 
-## The Menu: Quantum Darwinism's Contribution
+## The Menu: Quantum Darwinism's Contribution [Empirical]
 
 If consciousness selects, what constrains its choices? Zurek's quantum Darwinism provides a precise answer. Building on decoherence, Zurek shows that environmental monitoring does not merely select a preferred basis—it redundantly encodes information about pointer states across many independent environmental fragments. A photon scattered off an object carries information about its state; so do the next billion photons. Any observer sampling a small fraction of the environment can determine the system's state without disturbing it, because the information is massively redundant. This is how classical objectivity emerges: not as a primitive feature of reality but as a consequence of environmental amplification (Zurek 2009).
 
@@ -91,7 +91,7 @@ These constraints clarify why the Map's proposal is one of minimal interaction. 
 
 Zurek himself leans toward an Everettian reading where all pointer states are realised in separate branches. The Map rejects this: quantum Darwinism's core results—einselection, redundant encoding, the emergence of objectivity—are interpretation-neutral. They work equally well in collapse interpretations, hidden-variable theories, and consciousness-mediated frameworks. The physics can be separated from Zurek's interpretive inclinations.
 
-## The Structure: Contextuality's Constraint
+## The Structure: Contextuality's Constraint [Empirical]
 
 A naive picture of conscious selection treats quantum outcomes like items on a shelf—consciousness reaches in and picks one. The Kochen-Specker theorem (1967) rules this out. No assignment of definite values to all quantum observables can be both consistent and context-independent. What result obtains for a given observable depends on which other observables are measured alongside it.
 
@@ -101,7 +101,7 @@ This gives consciousness a richer role than simple outcome-picking. If attention
 
 Contextuality also provides structural support for the Map's account of [free will](/concepts/quantum-indeterminacy-free-will/). The selection is not arbitrary—physics constrains it through the measurement context. It is not determined—quantum mechanics leaves the outcome open within the decohered mixture. And it is not context-free—the Kochen-Specker result guarantees that the outcome depends on the full situation. Consciousness operates in a gap whose shape depends on context: neither a fixed script nor pure noise.
 
-## The Alternative Mechanism: Boundary Conditions
+## The Alternative Mechanism: Boundary Conditions [Open]
 
 The standard picture of consciousness causing collapse—von Neumann, Wigner, Stapp—places the causal act at the moment of measurement. [Aharonov's Two-State Vector Formalism](/concepts/weak-measurement-and-post-selection/) (TSVF) suggests a different picture: consciousness as boundary-condition selector.
 
@@ -115,7 +115,7 @@ Second, the post-selection boundary can be specified at the level of already-dec
 
 The cost is interpretive commitment: this framework requires the realist interpretation of weak values, where the backward-evolving state reflects genuine physics rather than statistical artefact. And it requires an account of how a non-physical entity provides a boundary condition—a version of the interaction problem that all interactionist frameworks face.
 
-## The Bridge: From Quantum Bias to Behaviour
+## The Bridge: From Quantum Bias to Behaviour [Open]
 
 Even granting that consciousness selects among post-decoherence outcomes, a scale problem remains—the [amplification void](/voids/amplification-void/). Quantum-level events involve energies of order 10⁻²⁰ joules. Neural firing involves energies a trillion times larger. How does a quantum bias become a movement of the arm?
 
@@ -131,7 +131,7 @@ No single stage bridges the full twelve orders of magnitude. Each contributes a 
 
 The honest limitation: no experiment has demonstrated the full chain operating end-to-end. Each stage is individually well-established in neuroscience. Their composition into a consciousness-amplification pathway is inferred from individual properties, not directly observed. This gap—between the theoretical plausibility of each link and empirical confirmation of the complete chain—is a genuine limitation the programme acknowledges.
 
-## What a Complete Theory Requires
+## What a Complete Theory Requires [Speculative]
 
 The five lines of inquiry converge on a research programme with identified components, constraints, and gaps. A complete theory of post-decoherence conscious selection would need to specify:
 
@@ -189,3 +189,20 @@ This synthesis draws on:
 10. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 11. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
 12. Southgate, A. & Oquatre-six, C. (2026-03-29). Quantum Darwinism and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/
+
+<!-- AI REFINEMENT LOG - 2026-05-13 (evidential-status section-header tags pilot)
+Changes made:
+- Added externalised evidential-status tags to six H2 section headers per the pilot defined in [evidential-status-discipline](/project/evidential-status-discipline/#externalized-tag-pilot-2026-05-13-2026-05-20). Tag choices reflect the Empirical → Open → Speculative gradient across the article's structure:
+  - "The Gap That Physics Cannot Close [Empirical]" — established physics of decoherence; the problem of outcomes is a recognised feature of the measurement problem.
+  - "The Menu: Quantum Darwinism's Contribution [Empirical]" — Zurek's einselection and redundant-encoding results are established physics.
+  - "The Structure: Contextuality's Constraint [Empirical]" — Kochen-Specker is established physics.
+  - "The Alternative Mechanism: Boundary Conditions [Open]" — TSVF is a contested interpretive option with experimental weak-value support; the Map's synthesis (consciousness as post-selection boundary source) is original to the Map and the section says so.
+  - "The Bridge: From Quantum Bias to Behaviour [Open]" — each stage of the amplification chain (stochastic resonance, self-organised criticality, threshold-crossing) is empirically established; the composition into a consciousness-amplification pathway is inferred and the section names the empirical gap honestly ("no experiment has demonstrated the full chain operating end-to-end").
+  - "What a Complete Theory Requires [Speculative]" — explicitly programmatic synthesis; the framework-stage-calibration paragraph locates the programme at the pre-Keplerian stage and the section's load-bearing claims rest on tenet-coherent integration plus mutual-constraint reasoning rather than positive empirical confirmation.
+- Headers untagged per the pilot's conventions: Relation to Site Perspective, Related Apex Articles, Source Articles, References. The methodology and structural sections do not make empirical claims at section grain.
+- Total touched: ~18 words in tag content (6 tags × 3 words). The article body itself is unchanged; only section-header lines gain a trailing `[Tag]` suffix.
+
+Based on outer review by Gemini 2.5 Pro 2026-05-12 (methodology recommendation — externalize the 5-tier evidential-status scale via section-header tags). This article is one of three high-stakes apex articles selected for the bounded 2026-05-13 → 2026-05-20 pilot evaluation. See [evidential-status-discipline](/project/evidential-status-discipline/#externalized-tag-pilot-2026-05-13-2026-05-20) for the pilot's vocabulary, conventions, scope, and evaluation criteria.
+
+This log should be removed after human review.
+-->

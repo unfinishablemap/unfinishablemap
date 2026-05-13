@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-05-12 06:00:00+00:00
+ai_modified: 2026-05-13 11:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -242,7 +242,7 @@ For the Map's framework, this architecture illuminates the mind-matter interface
 
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and brain
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — ADHD, fatigue, and meditation deficits reveal interface components
-- [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/) — The epistemological void when attention's own instrument is disordered
+- [The Epistemological Challenge](/topics/attention-and-the-consciousness-interface/#the-epistemological-challenge) — When attention's own instrument is disordered
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and potential mechanism of attentional effort
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Contemplative evidence on attention's structure
 - [motor-selection](/concepts/motor-selection/) — Parallel evidence from voluntary motor control

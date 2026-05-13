@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-04-16 13:43:00+00:00
+ai_modified: 2026-05-13 11:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ related_articles:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[pain-consciousness-and-causal-power]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
-- '[[attention-disorders-and-consciousness]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[curated-mind]]'
 title: Clinical Phenomenology and Altered Experience
 topics:
@@ -181,7 +181,7 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 ### Methodology
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The epistemic status of first-person reports
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Deliberate alteration as complement to involuntary disruption
-- [attention-disorders-and-consciousness](/topics/attention-and-the-consciousness-interface/) — The epistemological void when attention disorders compromise investigation
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The epistemological void when attention disorders compromise investigation
 
 ### Core Concepts
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — The minimal self that schizophrenia disrupts
