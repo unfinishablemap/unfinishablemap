@@ -4,7 +4,7 @@ description: "When meditation destabilizes the consciousness-brain interface: da
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-27T10:21:00+00:00
+ai_modified: 2026-05-13T11:22:00+00:00
 draft: false
 topics:
   - "[[contemplative-practice-as-philosophical-evidence]]"
@@ -97,7 +97,7 @@ The [[tenets#^minimal-quantum-interaction|minimal quantum interaction tenet]] su
 - [[interface-friction]]
 - [[edge-states-and-void-probes]]
 - [[attention-and-the-consciousness-interface]]
-- [[attention-disorders-and-consciousness]] — The epistemological void when attention itself is disordered
+- [[attention-and-the-consciousness-interface#The Epistemological Challenge|The Epistemological Challenge]] — When attention itself is disordered
 
 ## References
 

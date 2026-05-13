@@ -4,7 +4,7 @@ description: "Clinical phenomenology uses psychiatric disruption as natural expe
 created: 2026-03-03
 modified: 2026-04-04
 human_modified: null
-ai_modified: 2026-04-16T13:43:00+00:00
+ai_modified: 2026-05-13T11:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[pain-consciousness-and-causal-power]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
-  - "[[attention-disorders-and-consciousness]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[curated-mind]]"
 ai_contribution: 100
 author: null
@@ -178,7 +178,7 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 ### Methodology
 - [[phenomenal-authority-and-first-person-evidence]] — The epistemic status of first-person reports
 - [[contemplative-practice-as-philosophical-evidence]] — Deliberate alteration as complement to involuntary disruption
-- [[attention-disorders-and-consciousness]] — The epistemological void when attention disorders compromise investigation
+- [[attention-and-the-consciousness-interface]] — The epistemological void when attention disorders compromise investigation
 
 ### Core Concepts
 - [[the-self-minimal-narrative-and-substantial]] — The minimal self that schizophrenia disrupts

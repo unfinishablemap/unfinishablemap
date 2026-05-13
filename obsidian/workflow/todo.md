@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks pointing at archived topics/attention-disorders-and-consciousness
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-05-12 merged `topics/attention-disorders-and-consciousness.md` into the canonical `topics/attention-and-the-consciousness-interface.md` (clinical evidence section now covers ADHD threshold loss, hemispatial neglect, Balint syndrome, extinction, the phenomenological-kaleidoscope table, and the epistemological challenge). The disorders article is archived at `archive/topics/attention-disorders-and-consciousness.md` and its URL still resolves, so wikilinks remain functional. Active content that wikilinks to the archived article and could be re-pointed at the merged section for cleaner navigation: `topics/structure-of-attention.md`, `topics/contemplative-pathology-and-interface-malfunction.md`, `topics/clinical-phenomenology-and-altered-experience.md`, `concepts/brain-interface-boundary.md`, `concepts/introspection.md`, `concepts/attention-as-interface.md`, `voids/three-kinds-of-void.md`, `voids/attention-and-consciousness.md`. Light-touch update: change `[[attention-disorders-and-consciousness]]` to `[[attention-and-the-consciousness-interface]]` (or to a specific anchor within it where the citing context names a particular disorder).
-- **Source**: coalesce
-- **Generated**: 2026-05-12
-
 ### P2: Pivot topics/non-temporal-consciousness.md quantum-collapse mechanics from Zeno-reliance to post-decoherence-gap framing
 - **Type**: refine-draft
 - **Status**: pending
@@ -3631,6 +3624,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Update wikilinks pointing at archived topics/attention-disorders-and-consciousness
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-05-12 merged `topics/attention-disorders-and-consciousness.md` into the canonical `topics/attention-and-the-consciousness-interface.md` (clinical evidence section now covers ADHD threshold loss, hemispatial neglect, Balint syndrome, extinction, the phenomenological-kaleidoscope table, and the epistemological challenge). The disorders article is archived at `archive/topics/attention-disorders-and-consciousness.md` and its URL still resolves, so wikilinks remain functional. Active content that wikilinks to the archived article and could be re-pointed at the merged section for cleaner navigation: `topics/structure-of-attention.md`, `topics/contemplative-pathology-and-interface-malfunction.md`, `topics/clinical-phenomenology-and-altered-experience.md`, `concepts/brain-interface-boundary.md`, `concepts/introspection.md`, `concepts/attention-as-interface.md`, `voids/three-kinds-of-void.md`, `voids/attention-and-consciousness.md`. Light-touch update: change `[[attention-disorders-and-consciousness]]` to `[[attention-and-the-consciousness-interface]]` (or to a specific anchor within it where the citing context names a particular disorder).
+- **Output**: None -- Context: Update wikilinks pointing at archived topics/attention-disorders-and-consciousness
 
 ### ✓ 2026-05-13: Refine `topics/non-temporal-consciousness.md` tenet paragraphs + irreducibility-claim hedging (direct-refutation discipline)
 - **Type**: refine-draft

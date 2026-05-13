@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-04-17T08:55:00+00:00
+ai_modified: 2026-05-13T11:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ Neural systems model motor plans, perceptual hypotheses, counterfactual possibil
 
 ### 3. Attention Mechanisms
 
-The system must include mechanisms for directed focus—increasing processing resources on specific contents while suppressing others. Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] requires repeated observation to hold quantum states stable. [[attention-as-interface|Attention]] neurally implements this through frontoparietal networks. Systems without attention mechanisms cannot implement Zeno-style selection. Clinical evidence reinforces this: [[attention-disorders-and-consciousness|attention disorders]] such as hemispatial neglect and Balint syndrome disrupt specific components of the attention interface while leaving consciousness itself intact—consistent with attention serving as interface channel rather than constituting consciousness.
+The system must include mechanisms for directed focus—increasing processing resources on specific contents while suppressing others. Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] requires repeated observation to hold quantum states stable. [[attention-as-interface|Attention]] neurally implements this through frontoparietal networks. Systems without attention mechanisms cannot implement Zeno-style selection. Clinical evidence reinforces this: [[attention-and-the-consciousness-interface|attention disorders]] such as hemispatial neglect and Balint syndrome disrupt specific components of the attention interface while leaving consciousness itself intact—consistent with attention serving as interface channel rather than constituting consciousness.
 
 ### 4. Feedback Integration
 
@@ -178,7 +178,7 @@ Together, these explain why consciousness acts on brains specifically: brains me
 - [[decoherence]] — The decoherence objection and quantum biology responses
 - [[post-decoherence-selection]] — Acting on decohered mixtures rather than coherent superpositions
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Clinical evidence favouring the interface model
-- [[attention-disorders-and-consciousness]] — How attention disorders reveal interface architecture
+- [[attention-and-the-consciousness-interface]] — How attention disorders reveal interface architecture
 - [[comparative-consciousness-and-interface-differences]] — How interface boundaries vary across species and neural architectures
 
 ## References

@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-28T04:44:00+00:00
+ai_modified: 2026-05-13T11:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -191,7 +191,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 - [[noetic-feelings-void]] — The felt signals that gate cognition from inside (feelings of knowing, rightness, familiarity) and why the heuristic machinery producing them is recursively opaque
 - [[imagery-void]] — Aphantasia/hyperphantasia divergence as paradigm intra-species phenomenal incommensurability; the function-phenomenology wedge from mental rotation studies
 - [[phenomenal-authority-and-first-person-evidence]] — The spectrum of phenomenal authority positions and phenomenal conservatism
-- [[attention-disorders-and-consciousness]] — When the attentional basis of introspection is itself disordered
+- [[attention-and-the-consciousness-interface]] — When the attentional basis of introspection is itself disordered
 - [[voids-between-minds|The Intersubjective Void]] — How social calibration compounds introspective unreliability
 
 ## References
