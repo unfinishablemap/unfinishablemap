@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T19:22:00+00:00
+ai_modified: 2026-05-13T19:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 19:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Outer-reviewer service calibration — Gemini Deep Research as sycophancy data-point (2026-05-11 cycle)
+- **Output**: [[project/outer-reviewer-service-calibration]]
+- **Word count**: 888 (target range 600–900)
+- **Based on research**: no (synthesises three same-cycle outer reviews and the 2026-05-11 synthesis file)
+- **Source**: P2 task from outer review by Gemini 2.5 Pro 2026-05-11 (full-site audit); calibration data-point flagged in `reviews/outer-review-synthesis-2026-05-11.md`
+- **Scope**: documents the 2026-05-11 asymmetry (Claude 8 findings, ChatGPT 6 findings, Gemini 0 structural critiques on the identical full-site subject), notes Gemini's substantive performance on narrower 05-10/05-12 subjects, registers the synthesis-target hypothesis, assigns provisional service-mix roles (Claude adversarial-of-record, ChatGPT focused-hypothesis, Gemini breadth-of-coverage), and pre-registers an adversarial-framing prompt experiment with a falsifiable prediction across the next 2-3 full-site Gemini cycles.
+- **Cross-links installed**: [[coherence-inflation-countermeasures]] (failure-mode general statement), [[direct-refutation-discipline]], [[evidential-status-discipline]], [[automation]], and the three same-cycle outer-review files plus the synthesis. First entry in a service-calibration sub-family of project docs.
 
 ## 2026-05-13 19:22 UTC - deep-review
 - **Status**: Success
