@@ -46,7 +46,7 @@ related_articles:
   - "[[consciousness-bandwidth-architecture]]"
   - "[[the-interface-problem]]"
   - "[[amplification-mechanisms-consciousness-physics]]"
-  - "[[born-rule-violation-brain-interface-empirical-status]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -266,7 +266,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [[delegatory-causation]] — Saad's Subset Law* and Delegatory Law: the developed authority-selecting psychophysical law
 - [[delegation-meets-quantum-selection]] — The Born-rule distribution as the physical grounding of Saad's default causal profile, giving empirical content to psychophysical coupling
 - [[the-interface-problem]] — Where consciousness meets the brain and the challenge of specifying the mind-matter mapping
-- [[born-rule-violation-brain-interface-empirical-status]] — Which coupling proposals require Born-rule violation, active experimental programmes, and what negative results would and would not foreclose
+- [[born-rule-and-the-consciousness-interface]] — Which coupling proposals require Born-rule violation, active experimental programmes, and what negative results would and would not foreclose
 - [[concepts/functionalism]] — The view the Map rejects
 - [[haecceity]] — Why organizational invariance is rejected
 - [[chalmers-psychophysical-laws-2026-01-17]] — Research notes on Chalmers' framework

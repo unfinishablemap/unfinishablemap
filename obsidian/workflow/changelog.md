@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T19:51:00+00:00
+ai_modified: 2026-05-13T20:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 20:22 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/born-rule-and-the-consciousness-interface]] (theoretical case), [[topics/born-rule-violation-brain-interface-empirical-status]] (empirical landscape)
+- **Target**: [[topics/born-rule-and-the-consciousness-interface]] (merged into existing slug, original URL preserved)
+- **Archived**: [[archive/topics/born-rule-violation-brain-interface-empirical-status]]
+- **Rationale**: The two articles were complementary — one made the theoretical/abductive case that the Born rule encodes the interface (derivation failures, interpretation-invariance, urgleichung, causal consistency), the other catalogued the empirical landscape (corridor taxonomy, active experimental programmes, what negatives foreclose). They shared the corridor/minimum-outside/trumping taxonomy, the Masanes-Galley-Müller and Sinha references, and overlapping tenet-relation sections. Combined into a single comprehensive treatment with the empirical-status sections integrated between theoretical sections.
+- **References to review**: 13 active wikilinks updated from `[[born-rule-violation-brain-interface-empirical-status]]` to `[[born-rule-and-the-consciousness-interface]]` (mechanism-costs-dualism-thickness-quadrants, selection-only-mind-influence, interface-efficacy-and-the-cognitive-gap, evolved-mind-brain-interface-efficacy-2026-05-05, falsification-roadmap-for-the-interface-model, psychophysical-laws, testing-consciousness-collapse, quantum-measurement-and-consciousness, stapp-quantum-mind, consciousness-and-probability-interpretation, consciousness-and-the-structure-of-scientific-revolutions, wheelers-participatory-universe-and-it-from-bit, pragmatist-quantum-foundations-and-the-agent). Dated references `[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]` (pointing to the separate research note) left unchanged.
 
 ## 2026-05-13 19:51 UTC - expand-topic
 - **Status**: Success

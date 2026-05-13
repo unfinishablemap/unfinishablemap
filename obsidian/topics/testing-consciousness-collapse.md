@@ -23,7 +23,7 @@ related_articles:
   - "[[decoherence-and-macroscopic-superposition]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
   - "[[born-rule-and-the-consciousness-interface]]"
-  - "[[born-rule-violation-brain-interface-empirical-status]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
   - "[[penrose-gravity-induced-collapse-empirical-prospects]]"
   - "[[forward-in-time-conscious-selection]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
@@ -78,7 +78,7 @@ An ideal experiment would compare a quantum system measured by a conscious obser
 
 **Macromolecule interferometry:** The current record (Fein et al., 2019) stands at ~25,000 amu. Direct CSL testing requires superpositions at 10⁹–10¹¹ amu. The proposed MAQRO space mission would probe this regime — persistent superposition would largely exclude CSL, while mass-dependent breakdown would support the physical framework consciousness-collapse requires.
 
-**Brain-interface programmes:** A parallel landscape targets the brain-internal regime — Kerskens' MRI entanglement-witness protocol (2022), Babcock-Hameroff microtubule evidence (2025), the Nirvanic quantum-agent device (2025), and Maier-Dechamps's (2018) preregistered RNG null. [[born-rule-violation-brain-interface-empirical-status]] catalogues these and the corridor/minimum-outside-corridor/trumping taxonomy for reading Born-rule status.
+**Brain-interface programmes:** A parallel landscape targets the brain-internal regime — Kerskens' MRI entanglement-witness protocol (2022), Babcock-Hameroff microtubule evidence (2025), the Nirvanic quantum-agent device (2025), and Maier-Dechamps's (2018) preregistered RNG null. [[born-rule-and-the-consciousness-interface]] catalogues these and the corridor/minimum-outside-corridor/trumping taxonomy for reading Born-rule status.
 
 ## Tier 1 Predictions: Does Collapse Happen at All?
 
@@ -238,7 +238,7 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 - [[spontaneous-collapse-theories]] — GRW, CSL, and Penrose OR in detail
 - [[comparing-quantum-consciousness-mechanisms]] — How proposed mechanisms compare
 - [[born-rule-and-the-consciousness-interface]] — Why deriving the Born rule matters for collapse theories
-- [[born-rule-violation-brain-interface-empirical-status]] — Active brain-interface programmes and the corridor-vs-minimum-outside-corridor taxonomy
+- [[born-rule-and-the-consciousness-interface]] — Active brain-interface programmes and the corridor-vs-minimum-outside-corridor taxonomy
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — Experimental programme constraining gravity-collapse models
 - [[anaesthesia-and-the-consciousness-interface]] — Anaesthesia as a test case for consciousness-physics interaction
 - [[testability-ledger]] — Systematic catalogue of what would disconfirm the Map's framework

@@ -25,7 +25,7 @@ related_articles:
   - "[[parsimony-epistemology]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
   - "[[falsification-roadmap-for-the-interface-model]]"
-  - "[[born-rule-violation-brain-interface-empirical-status]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

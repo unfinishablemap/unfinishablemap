@@ -2,10 +2,15 @@
 title: "The Empirical Status of Born-Rule-Violating Consciousness-Physics Tests at the Brain Interface"
 description: "Maps which consciousness-physics proposals require Born-rule violation, catalogues active experimental programmes at the brain interface, and specifies what negative results would and would not foreclose."
 created: 2026-04-23
-modified: 2026-04-23
+modified: 2026-05-13
 human_modified:
-ai_modified: 2026-04-23T14:40:00+00:00
+ai_modified: 2026-05-13T20:22:00+00:00
 draft: false
+archived: true
+archived_date: 2026-05-13T20:22:00+00:00
+superseded_by: "/topics/born-rule-and-the-consciousness-interface/"
+archive_reason: "Coalesced into The Born Rule and the Consciousness-Physics Interface"
+original_path: "/topics/born-rule-violation-brain-interface-empirical-status/"
 topics:
   - "[[mathematical-structure-of-the-consciousness-physics-interface]]"
   - "[[born-rule-and-the-consciousness-interface]]"

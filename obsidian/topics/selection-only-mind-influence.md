@@ -150,7 +150,7 @@ The Map interprets the empirical situation as follows. The vanishing of detectab
 - [[trilemma-of-selection]]
 - [[stapp-quantum-mind]]
 - [[born-rule-and-the-consciousness-interface]]
-- [[born-rule-violation-brain-interface-empirical-status]]
+- [[born-rule-and-the-consciousness-interface]]
 - [[asymmetric-bandwidth-consciousness-2026-03-02|asymmetric-bandwidth-consciousness]]
 - [[bandwidth-of-consciousness]]
 - [[consciousness-bandwidth-architecture]]

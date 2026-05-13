@@ -23,7 +23,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[causal-powers]]"
   - "[[brain-interface-boundary]]"
-  - "[[born-rule-violation-brain-interface-empirical-status]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
   - "[[evolution-of-consciousness]]"
   - "[[consciousness-bandwidth-architecture]]"
   - "[[consciousness-selecting-neural-patterns]]"
@@ -139,7 +139,7 @@ The contribution is a re-framing of comparative-cognition data, not a new empiri
 - [[invertebrate-consciousness-as-interface-test]] — the deepest test case for whether interface scaling extends below the vertebrate clade.
 - [[bandwidth-of-consciousness]] — the human-internal version of the bandwidth axis.
 - [[baseline-cognition]] — what the unconscious substrate can do without interface contribution, relevant for cross-species inference.
-- [[born-rule-violation-brain-interface-empirical-status]] — the empirical floor against which interface-efficacy claims must be calibrated.
+- [[born-rule-and-the-consciousness-interface]] — the empirical floor against which interface-efficacy claims must be calibrated.
 - [[selection-only-mind-influence]] — the information-theoretic limits on per-event selection that supply the strict background within which the four efficacy axes operate.
 - [[evidential-status-discipline]] — the labelling discipline that keeps tenet-coherence and evidence-elevation distinct.
 - [[framework-stage-calibration]] — when a framework is mature enough to warrant prediction-generation rather than reframing alone.

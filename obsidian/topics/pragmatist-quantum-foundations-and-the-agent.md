@@ -25,7 +25,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[born-rule-and-the-consciousness-interface]]"
-  - "[[born-rule-violation-brain-interface-empirical-status]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
   - "[[william-james-consciousness]]"
   - "[[wheelers-participatory-universe-and-it-from-bit]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
@@ -148,7 +148,7 @@ The four positions converge on a structural frame in which agents matter irreduc
 - [[pragmatism]] — The pragmatist tradition and its implications for consciousness
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism and its relation to Copenhagen pragmatism
 - [[born-rule-and-the-consciousness-interface]] — The Born rule as encoding the consciousness-physics interface
-- [[born-rule-violation-brain-interface-empirical-status]] — Corridor vs. minimum-outside-corridor vs. trumping: which pragmatist positions require Born violation and which preserve it
+- [[born-rule-and-the-consciousness-interface]] — Corridor vs. minimum-outside-corridor vs. trumping: which pragmatist positions require Born violation and which preserve it
 - [[wheelers-participatory-universe-and-it-from-bit]] — Participatory realism's common ancestor
 - [[william-james-consciousness]] — James's approach to consciousness in full detail
 - [[indexical-identity-quantum-measurement]] — Why QBism's primitive-agent stance instantiates the indexical gap

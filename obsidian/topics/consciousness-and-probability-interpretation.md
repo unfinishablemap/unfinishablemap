@@ -25,7 +25,7 @@ related_articles:
   - "[[voids-probability-intuition-void-2026-02-03]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[the-quantitative-comprehension-void]]"
-  - "[[born-rule-violation-brain-interface-empirical-status]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -140,7 +140,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [[probability-problem-in-many-worlds]] — Decision theory, self-locating uncertainty, and envariance all fail to recover the Born rule in MWI
 - [[qm-interpretations-beyond-many-worlds]] — Which QM interpretations leave room for consciousness at the interface
 - [[born-rule-and-the-consciousness-interface]] — Why Born rule derivation failures point toward consciousness-collapse
-- [[born-rule-violation-brain-interface-empirical-status]] — Which interface proposals preserve, bend, or sit orthogonal to the Born rule, and what current experiments can and cannot decide
+- [[born-rule-and-the-consciousness-interface]] — Which interface proposals preserve, bend, or sit orthogonal to the Born rule, and what current experiments can and cannot decide
 
 ## References
 

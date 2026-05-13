@@ -32,7 +32,7 @@ related_articles:
   - "[[stapp-mental-effort-mind-matter-2026-01-14]]"
   - "[[attention-as-interface]]"
   - "[[what-consciousness-tells-us-about-physics]]"
-  - "[[born-rule-violation-brain-interface-empirical-status]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -181,7 +181,7 @@ The model generates falsifiable predictions:
 - [[stapp-mental-effort-mind-matter-2026-01-14]] — Detailed research notes
 - [[qm-interpretations-beyond-many-worlds]] — How Stapp's Zeno mechanism fits within the broader interpretive landscape
 - [[amplification-mechanisms-consciousness-physics]] — Comparative survey: Stapp's Zeno approach alongside five other amplification mechanisms
-- [[born-rule-violation-brain-interface-empirical-status]] — Where Stapp's Zeno picture sits in the corridor-vs-minimum-outside-corridor taxonomy, and what current experiments can and cannot foreclose
+- [[born-rule-and-the-consciousness-interface]] — Where Stapp's Zeno picture sits in the corridor-vs-minimum-outside-corridor taxonomy, and what current experiments can and cannot foreclose
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the reverse inference from consciousness to physics, with the Born rule as interface specification
 
 ## References

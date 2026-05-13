@@ -30,7 +30,7 @@ related_articles:
   - "[[quantum-measurement-and-subjective-probability]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[pragmatist-quantum-foundations-under-dualism]]"
-  - "[[born-rule-violation-brain-interface-empirical-status]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
   - "[[methodology-of-consciousness-research]]"
@@ -129,7 +129,7 @@ The Map [[tenets#^no-many-worlds|rejects Many-Worlds]] while acknowledging that 
 
 ### Exploit the Gap: Consciousness Selection
 
-A third approach takes the gap seriously: consciousness determines outcomes at the measurement event itself. The Map distinguishes three live flavors — *corridor-preserving*, *Born-bending*, and *trumping-orthogonal* — catalogued with empirical stakes in [[born-rule-violation-brain-interface-empirical-status]]. [[forward-in-time-conscious-selection|Non-retrocausal selection]] frameworks like [[quantum-consciousness#quantum-zeno-effect-stapp|Stapp's quantum Zeno model]] and Chalmers-McQueen's CSL-IIT fall in the Born-bending family: mental attention biases which neural patterns become actual, with selection statistics depending on a consciousness-related variable. Stapp's model is the most developed successor to the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]], specifying *how* consciousness terminates the chain — through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse."
+A third approach takes the gap seriously: consciousness determines outcomes at the measurement event itself. The Map distinguishes three live flavors — *corridor-preserving*, *Born-bending*, and *trumping-orthogonal* — catalogued with empirical stakes in [[born-rule-and-the-consciousness-interface]]. [[forward-in-time-conscious-selection|Non-retrocausal selection]] frameworks like [[quantum-consciousness#quantum-zeno-effect-stapp|Stapp's quantum Zeno model]] and Chalmers-McQueen's CSL-IIT fall in the Born-bending family: mental attention biases which neural patterns become actual, with selection statistics depending on a consciousness-related variable. Stapp's model is the most developed successor to the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]], specifying *how* consciousness terminates the chain — through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse."
 
 The strength: consciousness is causally efficacious—[[tenets#^bidirectional-interaction|Bidirectional Interaction]] is preserved. The weakness: the mechanism by which mental attention generates observation events in a warm, decoherent brain remains unspecified.
 
@@ -201,7 +201,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [[prebiotic-collapse]] — How definite outcomes obtained before conscious observers existed
 - [[qm-interpretations-beyond-many-worlds]] — Interpretation comparison
 - [[pragmatist-quantum-foundations-under-dualism]] — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is assumed
-- [[born-rule-violation-brain-interface-empirical-status]] — Empirical status of corridor vs. Born-bending dualism at the brain interface
+- [[born-rule-and-the-consciousness-interface]] — Empirical status of corridor vs. Born-bending dualism at the brain interface
 - [[cognitive-science-of-dualism]] — How cognitive science reinforces the first-person/third-person distinction
 - [[tenets]] — The Map's foundational commitments
 

@@ -33,7 +33,7 @@ related_articles:
   - "[[consciousness-and-the-structure-of-scientific-revolutions]]"
   - "[[parsimony-case-for-interactionist-dualism]]"
   - "[[penrose-gravity-induced-collapse-empirical-prospects]]"
-  - "[[born-rule-violation-brain-interface-empirical-status]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
   - "[[framework-stage-calibration]]"
 ai_contribution: 100
 author:
@@ -145,7 +145,7 @@ Six experimental programmes bear directly on the tenets:
 
 2. **Collapse-vs-decoherence experiments**: The levitated-optomechanical programme and related proposals. If objective collapse is confirmed, Tenet 4 gains support and MWI loses ground.
 
-3. **Born-rule tests at the brain interface**: No published experiment has directly probed the Born rule inside living neural tissue during a conscious act of selection—yet this is the regime that consciousness-physics-interface proposals target. Entanglement-witness protocols (Kerskens & Pérez, 2022), brain-to-qubit coupling devices (the Nirvanic "Spark of Life" roadmap), and tightened Born-rule precision in adjacent regimes each narrow the space. See [[born-rule-violation-brain-interface-empirical-status]] for which readings of Tenet 2 each programme can and cannot adjudicate.
+3. **Born-rule tests at the brain interface**: No published experiment has directly probed the Born rule inside living neural tissue during a conscious act of selection—yet this is the regime that consciousness-physics-interface proposals target. Entanglement-witness protocols (Kerskens & Pérez, 2022), brain-to-qubit coupling devices (the Nirvanic "Spark of Life" roadmap), and tightened Born-rule precision in adjacent regimes each narrow the space. See [[born-rule-and-the-consciousness-interface]] for which readings of Tenet 2 each programme can and cannot adjudicate.
 
 4. **Adversarial collaborations on consciousness**: The IIT-vs-GNWT programme showed partial testability is possible (see [[experimental-consciousness-science-2025-2026]] for the COGITATE results and their implications). Future adversarial collaborations—especially any that test dualist-compatible predictions against physicalist ones—are directly relevant.
 
