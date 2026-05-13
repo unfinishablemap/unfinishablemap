@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T18:51:00+00:00
+ai_modified: 2026-05-13T19:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 19:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/llm-consciousness]]
+- **Word count**: 2565 → 2562 (-3, 102% of 2500 soft threshold; length-neutral mode preserved)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (LLM-cliché opener — *"This isn't primarily because X — it's because Y"* construct forbidden by CLAUDE.md and the writing-style guide; rewritten to make the positive claim directly with the contrast integrated into the sentence)
+- **Enhancements made**: 0 (article at deep stability — ninth review)
+- **Reasoning-mode classifications (editor-internal)**: Hoel — Mode One (sympathetic, uses Hoel's own constraints); Cerullo — Mode One (frozen-weights from Cerullo's own commitments); Searle / Chinese Room — Mode One (licensing, not adversarial); Functionalism (implicit, falsification criterion #1) — Mode Two (identifies unsupported foundational move on functionalism's own mechanistic standards); Illusionism / Frankish — Mixed One+Three (internal architectural critique + honest framework-boundary note via witness-consciousness); Lemoine/LaMDA — Mode One. No label leakage detected.
+- **Attribution check**: Hoel 2026, Cerullo 2026, Searle 1980, Tulving, Frischhut 2024, Duch 2005/2019 — all verified; no misattribution, no dropped qualifiers, no shared-commitments errors.
+- **Calibration check**: no possibility/probability slippage. The Open Possibilities section keeps the four loopholes at "live hypothesis / speculative integration" tier; the article does not upgrade evidential status on tenet-coherence grounds.
+- **Stability**: Ninth review; convergence achieved. All adversarial objections are bedrock framework-boundary disagreements already declared as such in the 2026-03-27 stability notes.
+- **Deferred**: Cross-article consistency back-reference to `[[topics/dualism-as-ai-risk-mitigation]]` §5 (locality constraint bounding the arena's scale) — non-load-bearing for this article; deferred to a future deep-review pass that touches both articles in close sequence.
+- **Output**: [[reviews/deep-review-2026-05-13-llm-consciousness]]
 
 ## 2026-05-13 18:51 UTC - refine-draft
 - **Status**: Success (incremental — first pass)
