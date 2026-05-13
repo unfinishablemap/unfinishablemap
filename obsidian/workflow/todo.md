@@ -37,22 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine topics/non-temporal-consciousness.md — empirical-claim fixes (corpus callosum figure, propofol attribution)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-12. Small empirical-precision fixes: (1) The "250 million corpus callosum fibres" figure is presented with false precision — the clinical-neuroanatomy single-figure consensus is ~200 million; the range "200–300 million" is also standard. Either revise to "approximately 200 million" or "200–300 million axons." (2) The propofol-induced-unconsciousness finding is currently merged under Mashour (2012). Re-attribute: the empirical paper is Lewis et al., "Rapid fragmentation of neuronal networks at the onset of propofol-induced unconsciousness," *PNAS* 109(49): E3377–E3386 (2012); Mashour (2012), *PNAS* 109(49): 19876–19877 wrote the *commentary*. Refine cleanly cites both with the right attribution direction. ~80–150 words touched. Tenet alignment: empirical hedging / [[evidential-status-discipline]]. See review file.
-- **Review file**: `reviews/outer-review-2026-05-12-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-12
-
-### P2: Refine topics/non-temporal-consciousness.md — citation expansion (Metzinger, Dainton/Phillips, Hoerl-McCormack, Libet, Boethius/Aquinas)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-12. Five citation additions the article should engage at least briefly: (1) **Metzinger 2020**, "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness," *Philosophy and the Mind Sciences* 1(I): 1–44, DOI 10.33735/phimisci.2020.I.46 — the most serious naturalist account of pure-consciousness phenomenology and a direct competitor to the article's preferred dualist reading of Frischhut. (2) **Dainton**, *Stream of Consciousness* (Routledge 2000/2006) and **Phillips**, "Experience of and in Time," *Philosophy Compass* 9(2) (2014): 131–144 — the standard contemporary treatment of naïve realism about temporal experience; the article positions itself in this literature but engages only the Husserl–Hoerl strand. (3) **Hoerl–McCormack** 2019, *Behavioral and Brain Sciences* 42 — dual-systems perspective on temporal cognition. (4) **Libet** brief paragraph in the free-will cross-link: the article's tenet-mapping promises that "a non-temporal ground dissolves the Libet timing objection" but never argues for it. (5) **Boethius** (*Consolation of Philosophy* V) and **Aquinas** (*Summa Theologiae* I, q.10) — classical theological source of the vocabulary. Clarify whether the article's "non-temporal" is closer to Boethian *aeternitas* (atemporal eternity), *aevum* (the angelic duration), or a wholly modern notion. Light scope: ~250–400 words added across these five additions; each is a 1–3 sentence engagement, not a full literature review. Tenet alignment: methodological / scholarly breadth. See review file.
-- **Review file**: `reviews/outer-review-2026-05-12-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-12
-
 ### P2: Cross-link `topics/non-temporal-consciousness.md` with cluster — reciprocal integration across temporal-consciousness, attention-interface, returning-attention, temporal-becoming, anticipation, machine-question
 - **Type**: cross-review
 - **Status**: pending
@@ -3576,6 +3560,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Refine topics/non-temporal-consciousness.md — empirical-claim fixes (corpus callosum figure, propofol attribution)
+- **Type**: refine-draft
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-12. Small empirical-precision fixes: (1) The "250 million corpus callosum fibres" figure is presented with false precision — the clinical-neuroanatomy single-figure consensus is ~200 million; the range "200–300 million" is also standard. Either revise to "approximately 200 million" or "200–300 million axons." (2) The propofol-induced-unconsciousness finding is currently merged under Mashour (2012). Re-attribute: the empirical paper is Lewis et al., "Rapid fragmentation of neuronal networks at the onset of propofol-induced unconsciousness," *PNAS* 109(49): E3377–E3386 (2012); Mashour (2012), *PNAS* 109(49): 19876–19877 wrote the *commentary*. Refine cleanly cites both with the right attribution direction. ~80–150 words touched. Tenet alignment: empirical hedging / [[evidential-status-discipline]]. See review file.
+- **Output**: obsidian/topics/non-temporal-consciousness.md
+
+Task context:
+From outer review by Claude Opus 4.7 2026-05-12. Small empirical-precision fixes: (1) The "250 million corpus callosum fibres" figure is presented with false precision — the clinical-neuroanatomy single-figure consensus is ~200 million; the range "200–300 million" is also standard. Either revise to "approximately 200 million" or "200–300 million axons." (2) The propofol-induced-unconsciousness finding is currently merged under Mashour (2012). Re-attribute: the empirical paper is Lewis et al., "Rapid fragmentation of neuronal networks at the onset of propofol-induced unconsciousness," *PNAS* 109(49): E3377–E3386 (2012); Mashour (2012), *PNAS* 109(49): 19876–19877 wrote the *commentary*. Refine cleanly cites both with the right attribution direction. ~80–150 words touched. Tenet alignment: empirical hedging / [[evidential-status-discipline]]. See review file.
+
+Review file: reviews/outer-review-2026-05-12-claude-opus-4-7.md
+
+### ✓ 2026-05-13: Refine topics/non-temporal-consciousness.md — empirical-claim fixes (corpus callosum figure, propofol attribution)
+- **Type**: refine-draft
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-12. Two targeted empirical-precision edits in the "What Fragmented Consciousness Reveals" section. (1) Corpus callosum figure: "250 million corpus callosum fibres" → "the corpus callosum's 200–300 million axons" — replaces the false-precision single figure with the standard clinical-neuroanatomy range. (2) Propofol attribution: the empirical finding is now attributed to Lewis et al. (2012), *PNAS* 109(49): E3377–E3386; Mashour's accompanying *PNAS* commentary (109(49): 19876–19877) is re-attributed as the integration-disruption framing rather than the source of the observation. Removed the intervening "not by X but by Y" LLM cliché in the rewrite. Added Lewis et al. to References between Katz and Mashour; flagged the Mashour entry as `[Commentary on Lewis et al.]`. ~130 words touched (within the 80–150 budget). Tenet alignment: empirical hedging / [[evidential-status-discipline]].
+- **Output**: obsidian/topics/non-temporal-consciousness.md (lines 106–108 and References block)
+- **Review file**: `reviews/outer-review-2026-05-12-claude-opus-4-7.md`
+- **Source**: outer-review (2026-05-12)
 
 ### ✓ 2026-05-13: Clear trailing AI REFINEMENT LOG HTML comment blocks from topics/non-temporal-consciousness.md
 - **Type**: refine-draft

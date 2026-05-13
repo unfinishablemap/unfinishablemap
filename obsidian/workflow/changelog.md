@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T16:22:00+00:00
+ai_modified: 2026-05-13T16:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 16:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source**: outer review [[reviews/outer-review-2026-05-12-claude-opus-4-7]] §B2 ("Minor factual issues") and §R9–R10 — both empirical-precision findings explicitly confirmed in the review's Verification Notes.
+- **Changes**: Two targeted edits in the "What Fragmented Consciousness Reveals" section. (1) Corpus callosum figure: "250 million corpus callosum fibres" → "the corpus callosum's 200–300 million axons" — replaces a false-precision single figure with the standard clinical-neuroanatomy range. (2) Propofol attribution: the empirical finding (rapid fragmentation of neuronal networks during loss of consciousness) is now attributed to Lewis et al. (2012), *PNAS* 109(49): E3377–E3386, with Mashour's accompanying *PNAS* commentary (109(49): 19876–19877) re-attributed as the integration-disruption *framing* rather than the source of the empirical observation. The intervening "not by X but by Y" construct (an LLM cliché flagged in `obsidian/project/writing-style.md`) was removed in the rewrite. Added the Lewis et al. entry to References between Katz and Mashour; flagged the Mashour entry as `[Commentary on Lewis et al.]` to make the citation direction explicit.
+- **Words touched**: ~130 (within the task's 80–150 budget).
+- **Tenet alignment**: [[evidential-status-discipline]] — empirical hedging on the corpus-callosum figure brings the article's neuroanatomy in line with the discipline's calibration ceiling; correct citation direction for the propofol finding restores the empirical-paper / commentary asymmetry the prior phrasing collapsed.
+- **Engagement classification**: not applicable (no named-opponent reply touched; the fixes are scholarly-accuracy housekeeping, not argument moves).
+- **Published**: pending (commit deferred to automation system per invocation instruction).
 
 ## 2026-05-13 16:22 UTC - deep-review
 - **Status**: Success

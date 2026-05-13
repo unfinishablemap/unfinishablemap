@@ -4,7 +4,7 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-13T15:51:00+00:00
+ai_modified: 2026-05-13T16:51:00+00:00
 draft: false
 last_deep_review: 2026-05-05T00:16:00+00:00
 topics:
@@ -103,9 +103,9 @@ The article takes the middle path, with the third standing as honest residue. Th
 
 If the non-temporal thesis is correct, what happens when consciousness apparently fragments? Split-brain cases, anaesthesia-induced unconsciousness, and dissociative disorders each produce conditions where unified experience fractures — or seems to. These cases challenge the unity of consciousness and, by extension, any account of its non-temporal ground. (For a dedicated treatment of the fragmentation evidence, see [[split-brain-consciousness]].)
 
-The fragmentation evidence is substantial. Mashour (2012) showed that anaesthetics achieve unconsciousness not by suppressing brain activity but by disrupting integration across brain regions. Propofol fragments neural spiking into on/off states and disrupts phase coupling across cortical areas. Classic split-brain studies suggested two simultaneous experiencers, though Pinto et al. (2017) complicate this picture — their work with callosotomy patients found "divided perception but undivided consciousness," with patients maintaining unified responses in everyday conditions despite hemispheric disconnection. The 2025 layered unity model proposes breakdowns in local experiential layers while preserving global unity.
+The fragmentation evidence is substantial. Lewis et al. (2012) recorded local field potentials and unit activity during propofol-induced loss of consciousness and observed rapid fragmentation of neuronal networks at the transition: spiking collapses into discrete on/off states and phase coupling across cortical areas breaks down. Mashour's accompanying PNAS commentary (2012) reads the finding as anaesthesia achieving unconsciousness through the disruption of integration across brain regions — the framing the present article inherits when treating integration as a threshold condition for consciousness. Classic split-brain studies suggested two simultaneous experiencers, though Pinto et al. (2017) complicate this picture — their work with callosotomy patients found "divided perception but undivided consciousness," with patients maintaining unified responses in everyday conditions despite hemispheric disconnection. The 2025 layered unity model proposes breakdowns in local experiential layers while preserving global unity.
 
-Two features of the fragmentation data are particularly telling. First, the *resilience of unity*: even with 250 million corpus callosum fibres severed, consciousness does not cleanly divide. Something resists fragmentation even when the physical substrate for integration is dramatically disrupted. Second, the *incompleteness of fragmentation*: anaesthesia eliminates consciousness entirely rather than producing multiple diminished streams, as one might expect if consciousness simply were integrated activity. These patterns suggest that integration is a threshold condition for consciousness to interact with the brain, rather than the thing that constitutes consciousness.
+Two features of the fragmentation data are particularly telling. First, the *resilience of unity*: even with the corpus callosum's 200–300 million axons severed, consciousness does not cleanly divide. Something resists fragmentation even when the physical substrate for integration is dramatically disrupted. Second, the *incompleteness of fragmentation*: anaesthesia eliminates consciousness entirely rather than producing multiple diminished streams, as one might expect if consciousness simply were integrated activity. These patterns suggest that integration is a threshold condition for consciousness to interact with the brain, rather than the thing that constitutes consciousness.
 
 For the non-temporal thesis, fragmentation poses a specific problem: if consciousness has a non-temporal ground that constitutes temporal experience, fragmenting the physical substrate shouldn't fragment consciousness — it should merely disrupt the *interface* through which non-temporal consciousness expresses itself temporally.
 
@@ -183,7 +183,8 @@ Non-temporal consciousness connects directly to the Map's [[tenets]]:
 1. Hoerl, C. (2013). Husserl, the Absolute Flow, and Temporal Experience. *Philosophy and Phenomenological Research*, 86(2), 376-411.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893-1917)* (trans. Brough). Kluwer.
 1. Katz, S. T. (1978). Language, Epistemology, and Mysticism. In S. T. Katz (Ed.), *Mysticism and Philosophical Analysis* (pp. 22–74). Oxford University Press.
-1. Mashour, G. (2012). Fragmenting Consciousness. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
+1. Lewis, L. D., Weiner, V. S., Mukamel, E. A., Donoghue, J. A., Eskandar, E. N., Madsen, J. R., Anderson, W. S., Hochberg, L. R., Cash, S. S., Brown, E. N., & Purdon, P. L. (2012). Rapid fragmentation of neuronal networks at the onset of propofol-induced unconsciousness. *Proceedings of the National Academy of Sciences*, 109(49), E3377–E3386.
+1. Mashour, G. A. (2012). Fragmenting Consciousness [Commentary on Lewis et al.]. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
 1. Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
 1. Mellor, D. H. (1998). *Real Time II*. Routledge.
 1. Petkov, V. (2009). *Relativity and the Nature of Spacetime* (2nd ed.). Springer.
