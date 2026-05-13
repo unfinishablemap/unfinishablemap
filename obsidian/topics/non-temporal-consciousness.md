@@ -4,7 +4,7 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-13T12:23:00+00:00
+ai_modified: 2026-05-13T12:51:00+00:00
 draft: false
 last_deep_review: 2026-05-05T00:16:00+00:00
 topics:
@@ -43,7 +43,7 @@ Consciousness may not be fundamentally temporal. The Unfinishable Map's treatmen
 
 "Non-temporal" carries two distinct meanings in what follows. Husserl's absolute flow is *metaphysically* non-temporal — it does not exist within the temporal order. Meditative timelessness is *phenomenologically* atemporal — experience lacks temporal markers while the meditator's brain continues operating in time. These are different claims, but they converge: if the deepest level of consciousness is metaphysically non-temporal (Husserl), we might expect that accessing it strips away phenomenal temporal structure (meditation). The metaphysical thesis offers one Map-compatible explanation of the phenomenological finding; representational, neurophenomenological, and embodied-time explanations remain live.
 
-## Husserl's Absolute Flow
+## Husserl's Absolute Flow [Open]
 
 Edmund Husserl identified three levels of temporal constitution. Transcendent objects exist in world time — the clock ticks, the sun moves. Immanent unities are experiences within time — hearing a melody, feeling pain. But beneath both lies what Husserl called the **absolute flow**: the consciousness that constitutes temporal experience without itself being temporal.
 
@@ -53,7 +53,7 @@ The answer involves a regress argument. If the consciousness that constitutes ou
 
 Temporal categories — succession, simultaneity, before and after — apply to what the absolute flow produces, not to the flow itself. The flow constitutes time without inhabiting it. Retention, primal impression, and protention belong to the level of immanent temporal unities, not to the absolute subjectivity that makes them possible.
 
-## Meditative Evidence for Timelessness
+## Meditative Evidence for Timelessness [Open]
 
 Husserl's argument is phenomenological and theoretical. Frischhut (2024) provides first-person evidence through the study of advanced meditators reporting deep states as "timeless" — yet continuously alert.
 
@@ -73,7 +73,7 @@ The structural pattern nevertheless retains some weight. Reports of alert awaren
 
 This commits the argument to the [[evidential-status-discipline|evidential-status discipline]]'s constraint that phenomenological reports do not on their own license metaphysical upgrades. The contemplative literature is not deciding the metaphysics of time. It is one of several mutually supporting lines — Husserl's regress, the cognitive-phenomenological case, and the meditative reports — whose convergence is, as the closing argument explicitly preserves, suggestive rather than decisive. The constructivist critique narrows what the meditative line can deliver without removing it entirely.
 
-## Bergson's Challenge: Consciousness as Essentially Temporal
+## Bergson's Challenge: Consciousness as Essentially Temporal [Open]
 
 Henri Bergson offers the strongest counterpoint. For Bergson, consciousness *is* duration — [[temporal-consciousness|durée]], the qualitative flow of lived time where the past permeates the present and each moment gains meaning from its predecessors. Strip away temporality and you strip away consciousness itself.
 
@@ -83,7 +83,7 @@ The tension between Husserl and Bergson is genuine. Both deny that consciousness
 
 A possible synthesis: Bergson's durée describes what consciousness does (produces temporal experience); Husserl's absolute flow describes what consciousness is (a non-temporal constituting activity). Durée is the output; the absolute flow is the source. This preserves Bergson's insight that lived time is irreducible to physical time while accommodating Husserl's observation that something non-temporal must ground temporal experience to avoid regress. Bergsonians would contest this synthesis — for Bergson, the distinction between what consciousness *does* and what it *is* collapses, since consciousness just is its creative activity. The synthesis therefore favours Husserl, and the genuine tension may not be fully resolvable.
 
-## The Madhyamaka Challenge to the Persisting Subject
+## The Madhyamaka Challenge to the Persisting Subject [Open]
 
 The contemplative evidence carries an ontological commitment that the Map cannot straightforwardly inherit. The states the previous section relies on — the upper *Jhānas*, the cessation of *Nirodha Samapatti*, the witness consciousness foregrounded in Advaita-influenced practice — emerge from traditions that interpret what they report through a specific metaphysics of the subject. In the Madhyamaka school descending from Nāgārjuna, that metaphysics is austere. The *catuṣkoṭi* (tetralemma) denies that any phenomenon can coherently be said to exist, not exist, both, or neither — and the experiencing subject is no exception. The apparent unity of the deep meditative state, on this reading, reflects the absence of grasping for an underlying mind rather than the presence of one. *Anātman* (non-self) is the tradition's preferred interpretation of the phenomenology, not peripheral commentary on it: the dissolution of temporal markers in deep absorption coincides with the dissolution of the experiencer who might have hosted them.
 
@@ -99,7 +99,7 @@ The third is *framework-boundary marking*. The Madhyamaka tradition and the Map'
 
 The article takes the middle path, with the third standing as honest residue. The negative claim — that consciousness is not constitutively temporal — is what the contemplative evidence here supports, and that is the claim the article makes. The further claim that this non-temporal consciousness is the persisting substantial subject required by the Map's quantum mechanism originates in the dualism tenet and its downstream commitments rather than in the contemplative reports themselves. The friction with Madhyamaka is real, and the Map does not extract more from the phenomenology than the phenomenology, on a no-self reading, was doing.
 
-## What Fragmented Consciousness Reveals
+## What Fragmented Consciousness Reveals [Open]
 
 If the non-temporal thesis is correct, what happens when consciousness apparently fragments? Split-brain cases, anaesthesia-induced unconsciousness, and dissociative disorders each produce conditions where unified experience fractures — or seems to. These cases challenge the unity of consciousness and, by extension, any account of its non-temporal ground. (For a dedicated treatment of the fragmentation evidence, see [[split-brain-consciousness]].)
 
@@ -115,7 +115,7 @@ This response is speculative. It predicts that split-brain patients have a unifi
 
 What the non-temporal thesis adds is an *explanation* for why unity might be preserved at the global level even when local integration breaks down. If consciousness has a non-temporal ground that is inherently unified (because unity-threatening division requires temporal structure — one part before or after another), then this illustrates the logical space for an interface-only reading of the fragmentation data — global unity as primitive, apparent fragmentation as a feature of the interface — without yet adjudicating between that reading and rivals such as Bayne's switch model or the 2025 layered-unity proposal.
 
-## The Argument for Irreducibility
+## The Argument for Irreducibility [Speculative]
 
 The non-temporal thesis provides a direct argument for the irreducibility of consciousness to physical processes:
 
@@ -279,6 +279,23 @@ Engagement classification (editor-internal, per [[direct-refutation-discipline]]
 - engagement with the magnetoreception → cortical-integration empirical chasm: Mode Three (framework-boundary marking honestly named). The Princeton 2026 cryptochrome work and photosynthetic energy-transfer demonstrations show that biology *can* harness quantum effects locally, but they do not establish that the brain integrates them across the visual/auditory/cognitive fields at the temporal scale a consciousness mechanism requires. The paragraph names this as the empirical gap the programme has yet to bridge rather than dressing the local demonstrations as evidence for the macroscopic integration claim.
 
 Based on outer review by Gemini 2.5 Pro 2026-05-12 (R2 — pivot from Zeno-centric mechanism passages toward the post-decoherence gap; cross-link the apex; acknowledge the magnetoreception → cortical-integration empirical chasm). The reviewer's framing assumed the article currently *contained* Zeno-effect passages and Tegmark-decoherence-timescale hedging; in fact the article does not contain those passages (verified by grep), so the structural pivot lands at the MQI paragraph's previous consciousness-as-collapse-agent framing rather than at a Zeno passage. Convergent with same-cycle Claude review's R5 (engage non-temporal physics like Wheeler–DeWitt/Barbour/Rovelli), which the 2026-05-12 refinement already addressed in the Premise 3 paragraph.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-13 (evidential-status section-header tags pilot)
+Changes made:
+- Added externalised evidential-status tags to six H2 section headers per the pilot defined in [[evidential-status-discipline#Externalized Tag Pilot (2026-05-13 → 2026-05-20)]]. The article's structure makes the *Open → Speculative* gradient load-bearing: the body sections present contested phenomenological and philosophical positions (Husserl, meditation, Bergson, Madhyamaka, fragmentation) — all *[Open]* — while the closing irreducibility argument is the *[Speculative]* synthesis depending on contested premises.
+  - "Husserl's Absolute Flow [Open]" — one interpretation among contemporary phenomenologies; Hoerl 2013 cited.
+  - "Meditative Evidence for Timelessness [Open]" — Frischhut 2024 vs Katz–Sharf constructivist critique, both engaged in the section; live debate.
+  - "Bergson's Challenge: Consciousness as Essentially Temporal [Open]" — counterpoint section; Bergson's view live and explicitly preserved as the strongest counterpoint.
+  - "The Madhyamaka Challenge to the Persisting Subject [Open]" — three responses laid out as live options; the article does not pretend the matter is closed.
+  - "What Fragmented Consciousness Reveals [Open]" — multiple competing models (Bayne's switch, 2025 layered-unity, interface-only) explicitly preserved as live; no model declared decisive.
+  - "The Argument for Irreducibility [Speculative]" — the article's load-bearing speculative integration; the 2026-05-13 falsifiability paragraph and the *evidential-status-discipline* citation already mark the section's claims as abductive integration rather than empirical establishment. The tag externalises what the paragraph already does in natural prose.
+- Headers untagged per the pilot's conventions: Relation to Site Perspective, Further Reading, References. Methodology and structural sections do not make empirical claims at section grain.
+- Total touched: ~18 words in tag content (6 tags × 3 words). The article body itself is unchanged; only section-header lines gain a trailing `[Tag]` suffix.
+
+Based on outer review by Gemini 2.5 Pro 2026-05-12 (methodology recommendation — externalize the 5-tier evidential-status scale via section-header tags). This article is the third of three high-stakes apex/topic articles selected for the bounded 2026-05-13 → 2026-05-20 pilot evaluation and was the article whose review surfaced the recommendation. See [[evidential-status-discipline#Externalized Tag Pilot (2026-05-13 → 2026-05-20)]] for the pilot's vocabulary, conventions, scope, and evaluation criteria.
 
 This log should be removed after human review.
 -->

@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Externalize the 5-tier evidential-status scale via visible textual tags in major article headers
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-12 (methodology recommendation). The 5-tier Evidential-Status Scale (Speculative → Empirical → Open) currently functions primarily as internal editor-vocabulary used during the review process. The reviewer's recommendation: build trust with academic readers and prevent external audiences from committing the coherence-inflation the editors actively work to avoid by exposing these tiers via visible textual tagging. Appending a standardized marker (e.g., `[Speculative]`, `[Empirical]`, `[Open]`) to the headers of major sections would rapidly clarify the exact epistemic weight of arguments and prevent slippage between possibility and probability. Refine `obsidian/project/evidential-status-discipline.md` to define the externalized tag vocabulary and provide markdown conventions; pilot the tags on 2-3 high-stakes apex articles (e.g., `apex/post-decoherence-selection-programme`, `apex/machine-question`, `topics/non-temporal-consciousness`); evaluate after 1 week and decide whether to roll out corpus-wide or keep tags as opt-in for speculative-heavy articles. ~250–400 words touched across the project doc + 3 pilot articles. Tenet alignment: methodological / [[evidential-status-discipline]]. See review file.
-- **Review file**: `reviews/outer-review-2026-05-12-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-12
-
 ### P2: Formalize the Voids-Circularity Discount in public-facing methodology page
 - **Type**: expand-topic
 - **Status**: pending
@@ -3608,6 +3600,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Externalize the 5-tier evidential-status scale via visible textual tags in major article headers
+- **Type**: refine-draft
+- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-12 (methodology recommendation). The 5-tier Evidential-Status Scale (Speculative → Empirical → Open) currently functions primarily as internal editor-vocabulary used during the review process. The reviewer's recommendation: build trust with academic readers and prevent external audiences from committing the coherence-inflation the editors actively work to avoid by exposing these tiers via visible textual tagging. Appending a standardized marker (e.g., `[Speculative]`, `[Empirical]`, `[Open]`) to the headers of major sections would rapidly clarify the exact epistemic weight of arguments and prevent slippage between possibility and probability. Refine `obsidian/project/evidential-status-discipline.md` to define the externalized tag vocabulary and provide markdown conventions; pilot the tags on 2-3 high-stakes apex articles (e.g., `apex/post-decoherence-selection-programme`, `apex/machine-question`, `topics/non-temporal-consciousness`); evaluate after 1 week and decide whether to roll out corpus-wide or keep tags as opt-in for speculative-heavy articles. ~250–400 words touched across the project doc + 3 pilot articles. Tenet alignment: methodological / [[evidential-status-discipline]]. See review file.
+- **Output**: obsidian/project/evidential-status-discipline.md
+
+Task context:
+From outer review by Gemini 2.5 Pro 2026-05-12 (methodology recommendation). The 5-tier Evidential-Status Scale (Speculative → Empirical → Open) currently functions primarily as internal editor-vocabulary used during the review process. The reviewer's recommendation: build trust with academic readers and prevent external audiences from committing the coherence-inflation the editors actively work to avoid by exposing these tiers via visible textual tagging. Appending a standardized marker (e.g., `[Speculative]`, `[Empirical]`, `[Open]`) to the headers of major sections would rapidly clarify the exact epistemic weight of arguments and prevent slippage between possibility and probability. Refine `obsidian/project/evidential-status-discipline.md` to define the externalized tag vocabulary and provide markdown conventions; pilot the tags on 2-3 high-stakes apex articles (e.g., `apex/post-decoherence-selection-programme`, `apex/machine-question`, `topics/non-temporal-consciousness`); evaluate after 1 week and decide whether to roll out corpus-wide or keep tags as opt-in for speculative-heavy articles. ~250–400 words touched across the project doc + 3 pilot articles. Tenet alignment: methodological / [[evidential-status-discipline]]. See review file.
+
+Review file: reviews/outer-review-2026-05-12-gemini-2-5-pro.md
 
 ### ✓ 2026-05-13: Refine topics/non-temporal-consciousness.md — promote the falsifiability acknowledgment from review-internal to concluding text
 - **Type**: refine-draft

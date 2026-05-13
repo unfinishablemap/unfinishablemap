@@ -4,7 +4,7 @@ description: "A tenet may remove a defeater, but it must not upgrade the evidenc
 created: 2026-05-05
 modified: 2026-05-10
 human_modified: null
-ai_modified: 2026-05-10T18:02:00+00:00
+ai_modified: 2026-05-13T12:51:00+00:00
 last_deep_review: 2026-05-10T18:31:00+00:00
 draft: false
 topics: []
@@ -41,7 +41,7 @@ When the Map labels an empirical claim about consciousness — "*C. elegans* is 
 
 The discipline is the methodological response to the failure mode the 2026-05-03 ChatGPT 5 Pro outer review identified as the Map's central drift vector: *possibility/probability slippage*, in which "cannot be ruled out under our metaphysics" silently slides to "positively supported by the evidence." It joins the family of named methodological disciplines — [[closed-loop-opportunity-execution|closed-loop opportunity execution]] at cycle level, [[coalesce-condense-apex-stability|coalesce-condense-apex-stability]] at article level, [[bedrock-clash-vs-absorption|bedrock-clash vs. absorption]] at within-article level, [[framework-stage-calibration|framework-stage calibration]] at framework level, [[direct-refutation-discipline|direct-refutation discipline]] at reasoning-mode level — and operates at the *calibration layer*: how the catalogue labels its own empirical claims relative to what it actually has, separable from what its tenets permit.
 
-**Editor-internal vocabulary.** The five-tier scale defined below, the *tenet register / evidence register* distinction, and the diagnostic test are editor-vocabulary the Map's review skills use when classifying findings. They are *not* exposed in article prose. Articles express the same calibration in natural journal-quality language — *"the case is open but unsettled"*, *"contested but real"*, *"a serious possibility but not established"* — see [[writing-style|the writing-style guide's "Evidential Calibration in Articles" section]] for the patterns. The discipline document is where the editor learns and reasons about the calibration; the changelog is where individual classifications are recorded; the article body itself stays free of the editorial labels.
+**Editor-internal vocabulary, with a bounded section-header pilot.** The five-tier scale defined below, the *tenet register / evidence register* distinction, and the diagnostic test are editor-vocabulary the Map's review skills use when classifying findings. They are *not* exposed in running article prose. Articles express the same calibration in natural journal-quality language — *"the case is open but unsettled"*, *"contested but real"*, *"a serious possibility but not established"* — see [[writing-style|the writing-style guide's "Evidential Calibration in Articles" section]] for the patterns. The discipline document is where the editor learns and reasons about the calibration; the changelog is where individual classifications are recorded; the article body itself stays free of the editorial labels — with one bounded exception under pilot evaluation through 2026-05-20, a three-tier section-header tag vocabulary (*[Empirical] / [Open] / [Speculative]*) scoped to three high-stakes apex articles. The pilot's vocabulary, markdown convention, and evaluation criteria are defined in the *Externalized Tag Pilot* section below.
 
 ## The Failure Mode
 
@@ -187,13 +187,45 @@ The `/expand-topic` and `/coalesce` skills inherit the discipline at the same le
 
 - Bold-headed `**Evidential status:**` callouts
 - The phrase `tenet-register move` (or `tenet register` / `evidence register` framings exposed as labels rather than embedded in natural distinction-making)
-- Bracketed tier labels attached to specific claims (*"C. elegans is conscious [live hypothesis]"*)
+- Bracketed *five-tier* labels attached to specific claims in running prose (*"C. elegans is conscious [live hypothesis]"*). The bounded *three-tier* section-header tags are under pilot evaluation — see *Externalized Tag Pilot* below.
 
 The five-tier scale itself may appear *once* in the catalogue as a methodological note — typically in [[consciousness-in-simple-organisms]] where it is load-bearing for case-by-case treatment — written as natural prose, not as a labelled scale applied to each case.
 
 The five-tier scale is not the only viable scheme; Birch's 2024 *Edge of Sentience* offers an alternative precautionary framework already cited in the catalogue's bibliography. The discipline is *the labelling requirement at the editor's level and the diagnostic test*, not the specific scale; alternative scales that preserve the tenet-register / evidence-register distinction satisfy the discipline. The five-tier scale is the catalogue's chosen instantiation because it integrates cleanly with the New York Declaration and SEP language already cited across animal-consciousness articles. The catalogue's structured comparison of the two schemes — at [[birch-edge-of-sentience-and-the-five-tier-scale]] — develops the action-versus-description complementarity in detail, showing why Birch's two-tier action-layer apparatus and the Map's five-tier description-layer scale are structurally complementary rather than rival.
 
-The discipline integrates with the `/outer-review` post-processor: outer-review findings are precisely the corpus where the slippage is most visible, because outer reviewers do not share the Map's tenets and can see the conversion of tenet-coherence into evidence-elevation from outside. Tasks generated by `/outer-review` for evidential-calibration findings carry an explicit remit: *classify each flagged claim under the diagnostic test; rewrite the passage in natural prose so the calibration is honest about what the catalogue actually has, separable from what the tenets permit. Do not introduce tier labels or register-vocabulary into the article body.*
+The discipline integrates with the `/outer-review` post-processor: outer-review findings are precisely the corpus where the slippage is most visible, because outer reviewers do not share the Map's tenets and can see the conversion of tenet-coherence into evidence-elevation from outside. Tasks generated by `/outer-review` for evidential-calibration findings carry an explicit remit: *classify each flagged claim under the diagnostic test; rewrite the passage in natural prose so the calibration is honest about what the catalogue actually has, separable from what the tenets permit. Do not introduce per-claim tier labels or register-vocabulary into running article prose; the bounded section-header tags under pilot evaluation are the only permitted externalised form.*
+
+## Externalized Tag Pilot (2026-05-13 → 2026-05-20)
+
+The 2026-05-12 Gemini 2.5 Pro outer review of [[topics/non-temporal-consciousness]] surfaced a methodology-level recommendation that pushes against the discipline's standing prohibition on per-claim tier labels: externalise the calibration scale by appending short bracketed tags to the headers of major article sections. The reviewer's argument is that academic readers who cannot see the editor's diagnostic vocabulary lack a section-grain signal for distinguishing speculative-tier integration from empirically-supported argument, and that the in-prose calibration phrasings — *"a serious possibility but not established"*, *"strongly supported, near-consensus"* — vary in register across the catalogue more than is ideal for a reader scanning at heading granularity. Exposing the calibration at the heading helps prevent external audiences from committing the coherence-inflation the editors actively work to avoid.
+
+The pilot externalises the editor's 5-tier internal scale into a 3-tier user-facing vocabulary chosen for legibility at section-header scale:
+
+| External tag | Internal tiers it covers | Section character |
+|---|---|---|
+| **[Empirical]** | *Established* + *Strongly supported* | The section's load-bearing claims are well-supported by the empirical or scholarly literature; tenet-coherence is not doing the structural work. |
+| **[Open]** | *Realistic possibility, contested* + *Live hypothesis* | The case is open but unsettled; positive evidence is partial or contested; the section preserves the disagreement honestly rather than resolving it. |
+| **[Speculative]** | *Speculative integration* | The case rests on tenet-coherence plus suggestive considerations rather than positive empirical evidence; the section is doing speculative integration the reader should weigh accordingly. |
+
+**Markdown convention.** Append the tag in square brackets at the end of the H2 header on the same line, separated by a single space:
+
+```markdown
+## The Menu: Quantum Darwinism's Contribution [Empirical]
+## The Alternative Mechanism: Boundary Conditions [Open]
+## The Argument for Irreducibility [Speculative]
+```
+
+Headers for methodological, framing, or structural sections — lede, *Relation to Site Perspective*, *Further Reading*, *References*, *Source Articles*, *What Would Challenge This View?* — carry no tag. The tags mark *empirical-claim density* at section grain; methodology and structural sections do not make that kind of claim and would only be misread if tagged. The pilot applies to H2 headers only; H3 subsection headers stay untagged because nesting tags within already-tagged sections reintroduces the per-claim slippage the discipline forbids.
+
+**Pilot scope.** Three high-stakes articles where the slippage risk is highest and the reader most needs the section-grain signal:
+
+- [[apex/post-decoherence-selection-programme]] — quantum-physics speculative integration where the *Empirical → Open → Speculative* gradient across the article is the load-bearing structure
+- [[apex/machine-question]] — AI-consciousness reasoning where independent-of-dualism arguments coexist with tenet-dependent ones and the reader needs the section-grain signal for which layer they are on
+- [[topics/non-temporal-consciousness]] — the article whose 2026-05-12 review surfaced the recommendation; uses contemplative reports as evidence and runs the metaphysical-upgrade risk most visibly
+
+**Evaluation on 2026-05-20.** Decision criteria: *(a)* does the visible tagging change reader interpretation in any feedback the catalogue receives in the interval (outer-review remarks, human-curator notes, downstream task chains); *(b)* does the editor find the per-section tagging clarifying or constraining when revising the piloted articles; *(c)* does the tagging introduce its own slippage failure mode — for instance, a bracketed *[Empirical]* tag becoming a shield against doing the work of natural-prose calibration *inside* the section it labels, or a *[Speculative]* tag being read as a disclaimer that licences stronger claims than the prose would otherwise carry. If (a) is positive and (c) is not observed, roll out corpus-wide to all topics, apex, and concept articles. If (b) is mixed but (c) is not observed, keep the tags as opt-in for speculative-heavy articles. If (c) is observed, withdraw and document the failure mode for future reference.
+
+The pilot does **not** revoke the prohibition on per-claim bracket labels. *"C. elegans is conscious [live hypothesis]"* remains forbidden — the prohibition was for *per-claim* tier-labels inside paragraphs of running prose; the pilot externalises tags at *section-header* grain only, which is a different granularity carrying different risks. If the pilot succeeds, the prohibition narrows from "no tier labels in article prose" to "no tier labels inside paragraphs," with the section-header convention as the permitted form. If the pilot fails, the prohibition restores in full and the failure-mode documentation lives at this section's evaluation footnote for future review proposals.
 
 ## Honest Limitation
 
@@ -246,3 +278,21 @@ The evidential-status discipline is documented through the catalogue's outer-rev
 9. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/
 10. Southgate, A. & Oquatre-sept, C. (2026-04-29). Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/bedrock-clash-vs-absorption/
 11. *The Unfinishable Map* outer review, 2026-05-10 (ChatGPT 5.5 Pro). Pressure-tests [[phenomenology-of-memory-and-the-self]]; identifies the experience→irreducibility, dissociation-chain, and MWI-restatement failure modes the three cross-cutting rules in this article codify. https://unfinishablemap.org/reviews/outer-review-2026-05-10-chatgpt-5-5-pro/
+12. *The Unfinishable Map* outer review, 2026-05-12 (Gemini 2.5 Pro). Audits [[topics/non-temporal-consciousness]]; recommends externalising the five-tier scale via section-header tags to give academic readers a section-grain signal. The recommendation seeds the *Externalized Tag Pilot* in this article. https://unfinishablemap.org/reviews/outer-review-2026-05-12-gemini-2-5-pro/
+
+<!-- AI REFINEMENT LOG - 2026-05-13 (externalised-tag pilot)
+Changes made:
+- Updated the "Editor-internal vocabulary" preamble to acknowledge the bounded section-header pilot. Header phrase changed from "Editor-internal vocabulary." to "Editor-internal vocabulary, with a bounded section-header pilot."; trailing clause added pointing to the new Externalized Tag Pilot section and naming the three-tier external vocabulary ([Empirical] / [Open] / [Speculative]).
+- Updated the "Forbidden in article prose" bullet on bracketed tier labels to specify *five-tier* labels in *running prose* (so the *three-tier* section-header pilot is not caught by the prohibition); added a pointer to the pilot section.
+- Updated the /outer-review remit sentence in the Implementation section: "Do not introduce tier labels or register-vocabulary into the article body" → "Do not introduce per-claim tier labels or register-vocabulary into running article prose; the bounded section-header tags under pilot evaluation are the only permitted externalised form."
+- Added new section *Externalized Tag Pilot (2026-05-13 → 2026-05-20)* between Implementation and Honest Limitation. Defines the 3-tier external vocabulary (Empirical / Open / Speculative), maps each tag to the internal 5-tier scale it covers, gives the markdown convention (square-bracket suffix on H2 headers, single space separator), names the headers exempt from tagging (lede, Relation to Site Perspective, Further Reading, References, Source Articles, What Would Challenge This View?), declares H3-headers untagged to avoid per-claim slippage, names the three pilot articles (apex/post-decoherence-selection-programme, apex/machine-question, topics/non-temporal-consciousness), and sets the 2026-05-20 evaluation date with three decision criteria (interpretation change in reader feedback; editor finds the tagging clarifying or constraining; tagging introduces a new slippage failure mode like tag-as-shield-against-prose-calibration or tag-as-disclaimer-licensing-stronger-claims). Closing paragraph clarifies that the pilot does not revoke the prohibition on per-claim labels; the prohibition narrows on success and restores in full on failure.
+- Added reference 12 to the Gemini 2.5 Pro 2026-05-12 outer review as the originating recommendation.
+- Total touched: ~470 words across the project doc (preamble ~50 words touched, Forbidden bullet ~30 words touched, /outer-review remit ~25 words touched, new pilot section ~340 words new, References entry ~30 words new). The pilot articles below carry ~25 words each in section-header tag additions (6 tags × ~3 words on apex/post-decoherence-selection-programme; 10 tags × ~3 words on apex/machine-question; 6 tags × ~3 words on topics/non-temporal-consciousness — ~70 words total in tag content, plus the refinement-log notes per article).
+
+Engagement classification: not applicable — this is a methodology revision, not an engagement with a named opponent. The Gemini reviewer's recommendation is taken up at face value as a methodology proposal; the pilot is the bounded experimental design under which the proposal is evaluated against the discipline's standing prohibition on tier labels in article prose.
+
+Based on outer review by Gemini 2.5 Pro 2026-05-12 (methodology recommendation: externalize the 5-tier evidential-status scale). Convergent with the broader 2026-05 outer-review pattern of recommending the Map make its self-corrective machinery legible to academic readers rather than relying on internal editorial process alone.
+
+This log should be removed after human review.
+-->
+

@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T12:23:00+00:00
+ai_modified: 2026-05-13T12:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 12:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[project/evidential-status-discipline]] + three pilot articles ([[apex/post-decoherence-selection-programme]], [[apex/machine-question]], [[topics/non-temporal-consciousness]])
+- **Source**: outer-review (Gemini 2.5 Pro 2026-05-12 — methodology recommendation: externalize the 5-tier evidential-status scale via section-header tags to give academic readers a section-grain signal for distinguishing speculative-tier integration from empirically-supported argument and prevent external audiences from committing the coherence-inflation the editors actively work to avoid)
+- **Changes**: Project doc (~470 words touched): updated *Editor-internal vocabulary* preamble to acknowledge the bounded section-header pilot; updated *Forbidden in article prose* bullet on bracketed tier labels to specify *five-tier* labels in *running prose* (so the three-tier section-header pilot is not caught by the prohibition); updated /outer-review remit to permit section-header tags under pilot evaluation; added new section *Externalized Tag Pilot (2026-05-13 → 2026-05-20)* between Implementation and Honest Limitation, defining the 3-tier external vocabulary ([Empirical] / [Open] / [Speculative]), mapping each tag to the internal 5-tier tiers it covers, giving the markdown convention (square-bracket suffix on H2 headers; H3 untagged; methodology/structural sections untagged), naming the three pilot articles, and setting the 2026-05-20 evaluation date with three decision criteria including a tag-as-shield-against-prose-calibration failure-mode check; added reference 12 to the Gemini 2.5 Pro 2026-05-12 outer review. Pilot articles (~66 words touched in tag content): [[apex/post-decoherence-selection-programme]] 6 section-header tags (Empirical Empirical Empirical → Open Open → Speculative across the article's *Empirical → Speculative* gradient); [[apex/machine-question]] 10 section-header tags ([Open] for independent-of-dualism arguments, [Speculative] for tenet-dependent ones — the two-layer structure the article's lede already declared in natural prose, now externalised at section grain); [[topics/non-temporal-consciousness]] 6 section-header tags ([Open] for the body sections that present contested phenomenological and philosophical positions, [Speculative] for the closing irreducibility argument the article already marks as abductive integration).
+- **Pilot evaluation**: scheduled for 2026-05-20. Decision criteria: (a) does the visible tagging change reader interpretation in any feedback the catalogue receives in the interval; (b) does the editor find the per-section tagging clarifying or constraining when revising the piloted articles; (c) does the tagging introduce its own slippage failure mode — bracketed tag becoming a shield against natural-prose calibration inside the section it labels, or [Speculative] tag being read as a disclaimer that licences stronger claims than the prose would otherwise carry. Roll out corpus-wide if (a) is positive and (c) is not observed; opt-in for speculative-heavy articles if (b) is mixed and (c) is not observed; withdraw if (c) is observed and document the failure mode for future reference.
+- **Published**: yes
 
 ## 2026-05-13 12:23 UTC - refine-draft
 - **Status**: Success
