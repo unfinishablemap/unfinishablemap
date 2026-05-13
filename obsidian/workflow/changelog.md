@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T11:51:00+00:00
+ai_modified: 2026-05-13T12:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 12:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source**: outer-review (Gemini 2.5 Pro 2026-05-12 — R3 epistemic-tone-on-falsifiability task; convergent with same-cycle Claude review's R7 on convergence-vs-coherentism circularity, both flagging epistemic over-reach in the concluding paragraphs)
+- **Changes**: Three loci (~230 words touched). (1) Fragmentation section closing tone-tempered: "global unity is the default and fragmentation is always a feature of the interface, never of the mind" → "this illustrates the logical space for an interface-only reading of the fragmentation data — global unity as primitive, apparent fragmentation as a feature of the interface — without yet adjudicating between that reading and rivals such as Bayne's switch model or the 2025 layered-unity proposal." The "always/never" ontological declaration becomes a logical-space illustration that explicitly defers among competing models. (2) Convergence framing tone-tempered: "What cannot be easily dismissed is the convergence" → "What carries weight, even if not decisive, is the convergence"; "the regress argument establishes logical necessity" → "marks out a logical space that calls for a non-temporal ground." (3) New ~190-word paragraph added in the "Argument for Irreducibility" section, promoting the falsifiability acknowledgment from internal review notes to the public concluding paragraphs. The paragraph names the specific failure mode Gemini flagged: the constitutive identity between conscious passage and collapse-generated passage is in practice empirically indistinguishable from a correlation-only alternative; (a) cites the post-decoherence framing as the locus of the strongest constitutive formulation; (b) names the abductive structure under which the constitutive reading is held; (c) invokes the [[evidential-status-discipline]] explicitly, separating the article's load-bearing convergent claim (that consciousness is not constitutively temporal) from the stronger constitutive identification offered under that ceiling. The prior "not unfalsifiable" sentence qualified to "not unfalsifiable in this broad form" to signal that the broad non-temporal thesis is open to philosophical/empirical disconfirmation, while the sharper constitutive-identity formulation faces an additional in-practice falsifiability problem the new paragraph addresses.
+- **Engagement**: with the in-practice unfalsifiability of the constitutive identity — Mode Three (framework-boundary marking honestly named). The constitutive vs correlation-only distinction is not adjudicable by available empirical tests, and the article now says so explicitly rather than absorbing the acknowledgment into the internal review record. The Map's preferred reading is held abductively on grounds of theoretical integration; the new paragraph names this register-appropriately — a constitutive medium illustrated in logical space and motivated by convergent considerations, not established by data the correlation-only reading could not equally claim. Consistent with the [[evidential-status-discipline]] constraint that phenomenological reports and theoretical integration do not on their own license metaphysical upgrades; the article distinguishes the weaker load-bearing claim from the stronger speculative integration explicitly.
+- **Published**: yes
 
 ## 2026-05-13 11:51 UTC - refine-draft
 - **Status**: Success
