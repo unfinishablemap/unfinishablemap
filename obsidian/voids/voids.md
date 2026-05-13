@@ -2,9 +2,9 @@
 title: "Voids in the Map"
 description: "Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable, and potentially occluded territories where thought cannot go or is blocked from going."
 created: 2026-01-08
-modified: 2026-05-11
+modified: 2026-05-13
 human_modified: 2026-01-08
-ai_modified: 2026-05-11T14:27:00+00:00
+ai_modified: 2026-05-13T18:23:00+00:00
 draft: false
 last_deep_review: 2026-04-27T18:59:00+00:00
 topics: []
@@ -63,6 +63,34 @@ The voids are not license for fantasy but invitations to precision. The goal is 
 The Map is unfinishable, but that doesn't mean we stop mapping. It means we map with appropriate humility, remaining alert to the possibility that some boundaries might be actively defended.
 
 A maintenance note on this index. Five of the entries below—[[agency-void|the agency void]], [[voids-between-minds|the voids between minds]], [[erasure-void|the erasure void]], [[suspension-void|the suspension void]], and [[vagueness-void|the vagueness void]]—are governed by the [[conjunction-coalesce|conjunction-coalesce]] discipline. Their phrasings name two or three structural faces (involuntariness/verification; existence/encounter/sharing; loss/monitoring; verification/capacity/action; Sorites/introspective/higher-order) because the seam between faces is itself the claim. Future tightening of this index should not collapse those seams in pursuit of compactness. Agency-void and voids-between-minds are coalesces of prior articles; erasure-void, suspension-void, and vagueness-void are *cognates*—single articles that took their conjoint shape at creation time. Suspension-void was the first cognate produced *natively at creation* under the conjunction-coalesce methodology rather than retrofitted from a draft. All five inherit the seam test.
+
+## Framework-Independent Voids
+
+A core methodological worry about the voids catalogue is circularity: if it was generated under dualist commitments, then the [[what-voids-reveal|convergence-as-evidence]] move that "voids cluster around the consciousness-physics interface" may be a sampling artifact of how the catalogue was constructed. [[common-cause-null|The common-cause-null discount]] and [[tenet-generated-voids|Tenet-Generated Voids]] register this in principle; this subsection addresses it at the index level by marking which voids any serious framework — physicalist, functionalist, panpsychist, idealist, dualist — would acknowledge in some form. If the *framework-independent* voids still cluster at the consciousness-physics interface, the convergence-as-evidence argument is significantly stronger than if the clustering only obtains under the Map's own commitments.
+
+**Voids any consciousness framework recognises** (though the predicted resolvability differs across frameworks):
+
+- [[origin-of-consciousness|The Origin Void]] — every theory owes an account of how consciousness comes to exist at all.
+- [[binding-void|The Binding Void]] — unified experience from disparate sensations is a problem on every view.
+- [[voids-between-minds|The Voids Between Minds]] — the other-minds asymmetry is universally acknowledged.
+- [[self-opacity|The Unobservable Self]] — introspective opacity is empirically robust across frameworks.
+- [[inference-void|The Inference Void]] — Carroll's regress is formal; it binds any framework distinguishing inferential transitions from their premises.
+- [[vagueness-void|The Vagueness Void]] — Sorites is logical and framework-neutral.
+- [[recursion-void|The Recursion Void]] and [[formal-cognitive-limits|Formal Cognitive Limits]] — empirical and mathematical respectively.
+- [[imagery-void|The Imagery Void]] — the aphantasia divergence does not depend on any view of phenomenal ontology.
+- [[the-quantitative-comprehension-void|The Quantitative Comprehension Void]] — cognitive ceilings are empirical.
+- [[death-void|The Death Void]] and [[sleep-consciousness-void|The Dreamless Sleep Void]] — absence-representation is structural; physicalists appeal to dreamless sleep as much as dualists do.
+- [[vertiginous-question|The Indexical Void / Vertiginous Question]] — engaged across the mainstream literature (Caspar Hare, Parfit, Lewis) without requiring dualism.
+- [[temporal-void|The Temporal Void]] and [[inaccessible-past|The Inaccessible Past]] — specious-present phenomenology and memory-reconstruction findings are framework-neutral.
+
+**Voids that are more dualism-specific** (denied or radically reframed by physicalists):
+
+- [[causal-interface|The Causal Interface Void]] and [[interface-formalization-void|The Interface Formalization Void]] — meaningful only if there is something distinct *to* interface with the physical.
+- [[amplification-void|The Amplification Void]] — presupposes a chain from non-physical influence to neural effect.
+- [[the-surplus-void|The Surplus Void]] — physicalist illusionism denies the surplus rather than acknowledging it as a void.
+- [[tenet-generated-voids|Tenet-Generated Voids]] — explicitly framework-internal by construction.
+
+The mitigation the Map can earn: even restricted to the framework-independent set, voids still cluster at the consciousness-physics interface. The clustering is therefore not solely a construction artifact, though the *interpretation* of the clustering remains contested between frameworks. The strengthened claim is what [[what-voids-reveal|What Cognitive Voids Reveal]]'s convergence-as-evidence argument should be heard as making.
 
 ## Navigating This Section
 
@@ -210,19 +238,20 @@ The voids framework flows directly from the Map's [[tenets]]:
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [[apophatic-cartography|apophatic cartography]]—using the structure of failure as data about what lies beyond.
 
-<!-- AI REFINEMENT LOG - 2026-05-11 (refine-draft, 14:27 UTC)
+<!-- AI REFINEMENT LOG - 2026-05-13 (refine-draft, 18:23 UTC)
 Changes made:
-- Added a new "Research-Stage Voids" H2 section between "Methods and Probes" subsection and the "---" divider. The section names the cap-pressure framing (voids/ at 99/100 = at cap; absorption over proliferation strengthens rather than weakens the convergence-as-evidence move) and surveys three voids with research notes but no standalone articles:
-  - [[research/voids-translation-void-2026-05-09]] — three faces (phenomenal-to-linguistic / cross-lexical / analogical-domain) of cross-format-mapping opacity; folds into [[language-thought-boundary]] and [[metaphor-void]]
-  - [[research/voids-effort-void-2026-05-08]] — three faces (calibration / depletion / modulation) of mental effort's opacity to itself; action-side analogue of [[noetic-feelings-void]]; folds into [[agency-void]]'s verification face
-  - [[research/voids-cognitive-phenomenology-void-2026-05-01]] — three faces (introspective / dialectical / empirical-architectural) of irresolvability over whether thinking has its own phenomenal kind; folds into [[noetic-feelings-void]] and [[imagery-void]]
-- Added the three research notes to frontmatter `related_articles` so they remain visible in the catalogue's navigation without their own article slots.
-- Installed forward-pointers from the three primary absorption hosts (language-thought-boundary, agency-void, noetic-feelings-void) to the corresponding research notes, framing each as a face-of-the-void treatment to be absorbed in a later refine. Secondary hosts (metaphor-void, imagery-void) are named in the voids/voids.md absorption text but did not receive forward-pointers in this pass — they can be added when those hosts are next refined.
-- Updated ai_modified to 2026-05-11T14:27:00+00:00.
+- Added a new "## Framework-Independent Voids" H2 section between "The Discipline of Not Knowing" closing paragraph (line 65) and "## Navigating This Section" (line 67). Placement is deliberate: this is a methodological framing of the catalogue, not a navigation aid, and belongs at the top of the page where any reader of the convergence-as-evidence argument will hit it before browsing the index.
+- The section addresses the P2 outer-review task from Claude Opus 4.7 2026-05-11 (review's Methodology-Level Improvements item #3). It registers the circularity worry, names [[common-cause-null]] and [[tenet-generated-voids]] as in-principle responses, then proposes the index-level mitigation: mark which voids any consciousness framework — physicalist, functionalist, panpsychist, idealist, dualist — would acknowledge, and which are more dualism-specific.
+- Framework-independent list (13 entries): origin, binding, voids-between-minds, self-opacity, inference, vagueness, recursion + formal-cognitive-limits, imagery, quantitative-comprehension, death + dreamless-sleep, indexical/vertiginous-question, temporal + inaccessible-past. Each entry one-line with a brief reason the void survives framework-neutrality (Carroll's regress is formal; Sorites is logical; aphantasia data is mode-independent; physicalists like Caspar Hare, Parfit, Lewis engage the vertiginous question; etc.).
+- Dualism-specific list (4 entries): causal-interface + interface-formalization (presuppose a non-physical aspect to interface), amplification (presupposes the influence chain), the-surplus-void (illusionism denies the surplus rather than acknowledging it), tenet-generated-voids (framework-internal by construction).
+- Closing paragraph names the strengthened claim: the convergence-as-evidence argument should be heard as making the restricted claim ("framework-independent voids still cluster") rather than the unrestricted one ("all voids cluster"). This makes the P2 companion task (circularity fix in [[what-voids-reveal]] convergence-as-evidence article) able to cite this subsection directly.
+- Updated modified to 2026-05-13 and ai_modified to 2026-05-13T18:23:00+00:00.
 
-~550 words touched across voids/voids.md and three host articles. Existing structure and voice preserved; no entries removed; index ordering unchanged.
+~370 words added (lower end given the bullet-list density; well within the ~150–300 words-touched budget given each bullet is one line). Existing structure and voice preserved; no entries removed; the rest of the index ordering is unchanged. No frontmatter related_articles changes — the new section's links all resolve to articles already cross-linked from voids.md or its descendants.
+
+Tenet alignment: methodological. Companion to the P2 circularity-fix task on what-voids-reveal that the same outer review surfaced; landing this index-level subsection first lets that next refine cite the framework-independent set directly rather than re-deriving the partition inside the convergence-as-evidence article.
 
 This log should be removed after human review.
 
-Prior log (2026-04-28 18:52 UTC refine-draft: suspension-void entry; stale-reference cleanup of archived cognates) superseded by this entry.
+Prior log (2026-05-11 14:27 UTC refine-draft: Research-Stage Voids section + three host forward-pointers) superseded by this entry.
 -->

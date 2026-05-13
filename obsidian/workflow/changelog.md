@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T17:51:00+00:00
+ai_modified: 2026-05-13T18:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 18:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Task**: P2 from outer review by Claude Opus 4.7 2026-05-11 — add "Framework-Independent Voids" subsection at index level so the convergence-as-evidence argument can rest on the partition between framework-neutral and dualism-specific voids rather than on the catalogue as a whole.
+- **Changes**: Added "## Framework-Independent Voids" H2 between "The Discipline of Not Knowing" (line 65) and "## Navigating This Section" (line 67). The section names the circularity worry, points to [[common-cause-null]] and [[tenet-generated-voids]] as in-principle responses, then partitions 17 voids into framework-independent (13) and dualism-specific (4) sets with one-line reasons each. Closing paragraph names the strengthened claim the convergence-as-evidence argument should now be heard as making. ~370 words added; existing structure and voice preserved; no entries removed.
+- **Partition rationale**: framework-independent set restricted to voids any serious consciousness framework — physicalist, functionalist, panpsychist, idealist, dualist — would acknowledge in some form (with predicted resolvability differing across frameworks): origin, binding, voids-between-minds, self-opacity, inference (Carroll's regress is formal), vagueness (Sorites is logical), recursion + formal-cognitive-limits (empirical and mathematical), imagery (aphantasia is mode-independent), quantitative-comprehension (cognitive ceilings empirical), death + dreamless-sleep (absence-representation structural), indexical/vertiginous-question (engaged by Caspar Hare, Parfit, Lewis without requiring dualism), temporal + inaccessible-past (phenomenology and reconstruction findings framework-neutral). Dualism-specific set: causal-interface + interface-formalization (presuppose a non-physical aspect to interface), amplification (presupposes the influence chain), the-surplus-void (illusionism denies the surplus rather than acknowledging it as a void), tenet-generated-voids (framework-internal by construction).
+- **Companion**: P2 circularity-fix task on `what-voids-reveal` convergence-as-evidence can now cite this subsection directly rather than re-deriving the partition inside its own body.
+- **Frontmatter**: modified → 2026-05-13; ai_modified → 2026-05-13T18:23:00+00:00. No related_articles changes — all new links resolve to articles already cross-linked from voids.md or its descendants.
+- **Output**: [[voids/voids]]
+- **Published**: pending (commit deferred to automation system per invocation instruction).
 
 ## 2026-05-13 17:51 UTC - optimistic-review
 - **Status**: Success

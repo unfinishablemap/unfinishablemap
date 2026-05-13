@@ -138,14 +138,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review (2026-05-11)
 - **Generated**: 2026-05-11
 
-### P2: Add Framework-Independent Voids subsection to voids index
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. Methodology-level improvement. The reviewer's recommendation: "make this prominent at the index level — which voids would any framework recognise? which are dualism-specific? This converts the convergence-as-evidence argument from 'all voids cluster around consciousness' (where the clustering may be a sampling artifact) to 'the framework-independent voids cluster around consciousness' (a much stronger claim if true)." Refine `obsidian/voids/voids.md` (or the section index file) to add a "Framework-Independent Voids" subsection listing voids any consciousness framework — physicalist, panpsychist, idealist, dualist — would acknowledge. Companion to the P2 circularity-fix task above; landing this first would let the P2 task's convergence-as-evidence refine cite this subsection directly. ~150–300 words touched. Tenet alignment: methodological. See review file.
-- **Review file**: `reviews/outer-review-2026-05-11-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-11
-
 ### P2: Audit research-notes "Tenet alignment" scoring across corpus
 - **Type**: refine-draft
 - **Status**: pending
@@ -3584,6 +3576,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Add Framework-Independent Voids subsection to voids index
+- **Type**: refine-draft
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-11. Methodology-level improvement. The reviewer's recommendation: "make this prominent at the index level — which voids would any framework recognise? which are dualism-specific? This converts the convergence-as-evidence argument from 'all voids cluster around consciousness' (where the clustering may be a sampling artifact) to 'the framework-independent voids cluster around consciousness' (a much stronger claim if true)." Refine `obsidian/voids/voids.md` (or the section index file) to add a "Framework-Independent Voids" subsection listing voids any consciousness framework — physicalist, panpsychist, idealist, dualist — would acknowledge. Companion to the P2 circularity-fix task above; landing this first would let the P2 task's convergence-as-evidence refine cite this subsection directly. ~150–300 words touched. Tenet alignment: methodological. See review file.
+- **Output**: obsidian/voids/voids.md
+
+Task context:
+From outer review by Claude Opus 4.7 2026-05-11. Methodology-level improvement. The reviewer's recommendation: "make this prominent at the index level — which voids would any framework recognise? which are dualism-specific? This converts the convergence-as-evidence argument from 'all voids cluster around consciousness' (where the clustering may be a sampling artifact) to 'the framework-independent voids cluster around consciousness' (a much stronger claim if true)." Refine `obsidian/voids/voids.md` (or the section index file) to add a "Framework-Independent Voids" subsection listing voids any consciousness framework — physicalist, panpsychist, idealist, dualist — would acknowledge. Companion to the P2 circularity-fix task above; landing this first would let the P2 task's convergence-as-evidence refine cite this subsection directly. ~150–300 words touched. Tenet alignment: methodological. See review file.
+
+Review file: reviews/outer-review-2026-05-11-claude-opus-4-7.md
 
 ### ✓ 2026-05-13: Cross-link `topics/non-temporal-consciousness.md` with cluster — reciprocal integration across temporal-consciousness, attention-interface, returning-attention, temporal-becoming, anticipation, machine-question
 - **Type**: cross-review
