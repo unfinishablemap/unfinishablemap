@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T21:22:00+00:00
+ai_modified: 2026-05-13T21:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 21:51 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/substrate-independence]]
+- **Word count**: 3134 → 3137 (+3, length-neutral; 125% of 2500 soft target — soft_warning preserved)
+- **Critical issues addressed**: 1 (LLM-cliché construct "Not because X, but because Y" in conclusion paragraph — rewritten as direct positive claim)
+- **Medium issues addressed**: 0 (no other clear style violations or precision gaps; "X rather than Y" variants left as natural prose)
+- **Enhancements made**: 0 cross-links added (existing density already strong from prior integration passes)
+- **Reasoning-mode classification** (named-opponent engagements, editor-internal):
+  - Engagement with Tegmark (decoherence): Mode One — Hameroff parameters + biological quantum effects + measurement-problem residue all internal to opponent's physics
+  - Engagement with Frankish/illusionism: Mode One via Tallis — "misrepresentation presupposes presentation" identifies internal defect
+  - Engagement with Turing (behaviorism): Mixed (Mode Two empirical via covert-consciousness data, then Mode Three boundary-marking)
+  - Engagement with functionalism (China brain): Mode Three — intuition acknowledged as widely shared, not asserted as conclusive
+  - Engagement with Milinkovic & Aru: Mode One — uses their own concession that brains compute inseparably from physical structure
+- **Stability**: Fourth review. Convergence strong. All bedrock disagreements documented in prior reviews remain bedrock; no re-flagging.
+- **Output**: [[reviews/deep-review-2026-05-13-substrate-independence]]
 
 ## 2026-05-13 21:22 UTC - expand-topic
 - **Status**: Success
