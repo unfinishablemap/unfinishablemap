@@ -216,14 +216,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-05-10
 
-### P2: Apply coherence-inflation safeguards more aggressively to topics/phenomenology-of-memory-and-the-self.md (hostile-review pass)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by ChatGPT 5.5 Pro 2026-05-10. Item 15 of the review's improvement list. The site already identifies risks from AI-assisted self-reinforcement and calls for steelmanning materialism, functionalism, MWI, epiphenomenalism, and illusionism via [[coherence-inflation-countermeasures]]. The focused memory article is rhetorically coherent but its strongest conclusions need more hostile review than the deep-review pipeline has so far given them. After the P1 refine-draft above lands, schedule a dedicated hostile-review pass that (a) attempts the strongest possible source-monitoring / self-attentional / metacognitive defence of memory phenomenology against the irreducibility claim, (b) attempts the strongest possible Everettian defence of branch-local mineness, (c) attempts the strongest possible eliminativist / illusionist reply that the pastness quale is a useful cognitive fiction with no phenomenal residue. The article should survive hostile review or be revised. Sequencing note: this is the *last* task in the chain — execute after the P1 refine-draft and the P2 cross-link tasks have landed. Estimated scope: ~300–500 words added in a "Hostile-Review Steelman Counters" section, plus targeted hedging in the existing argument. Tenet alignment: methodological / [[coherence-inflation-countermeasures]]. See review file.
-- **Review file**: `reviews/outer-review-2026-05-10-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-10
-
 ### P3: Write topic article on Reconsolidation as Selection-Window
 - **Type**: expand-topic
 - **Status**: pending
@@ -3536,6 +3528,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Apply coherence-inflation safeguards more aggressively to topics/phenomenology-of-memory-and-the-self.md (hostile-review pass)
+- **Type**: refine-draft
+- **Notes**: From outer review by ChatGPT 5.5 Pro 2026-05-10. Item 15 of the review's improvement list. The site already identifies risks from AI-assisted self-reinforcement and calls for steelmanning materialism, functionalism, MWI, epiphenomenalism, and illusionism via [[coherence-inflation-countermeasures]]. The focused memory article is rhetorically coherent but its strongest conclusions need more hostile review than the deep-review pipeline has so far given them. After the P1 refine-draft above lands, schedule a dedicated hostile-review pass that (a) attempts the strongest possible source-monitoring / self-attentional / metacognitive defence of memory phenomenology against the irreducibility claim, (b) attempts the strongest possible Everettian defence of branch-local mineness, (c) attempts the strongest possible eliminativist / illusionist reply that the pastness quale is a useful cognitive fiction with no phenomenal residue. The article should survive hostile review or be revised. Sequencing note: this is the *last* task in the chain — execute after the P1 refine-draft and the P2 cross-link tasks have landed. Estimated scope: ~300–500 words added in a "Hostile-Review Steelman Counters" section, plus targeted hedging in the existing argument. Tenet alignment: methodological / [[coherence-inflation-countermeasures]]. See review file.
+- **Output**: obsidian/topics/phenomenology-of-memory-and-the-self.md
+
+Task context:
+From outer review by ChatGPT 5.5 Pro 2026-05-10. Item 15 of the review's improvement list. The site already identifies risks from AI-assisted self-reinforcement and calls for steelmanning materialism, functionalism, MWI, epiphenomenalism, and illusionism via [[coherence-inflation-countermeasures]]. The focused memory article is rhetorically coherent but its strongest conclusions need more hostile review than the deep-review pipeline has so far given them. After the P1 refine-draft above lands, schedule a dedicated hostile-review pass that (a) attempts the strongest possible source-monitoring / self-attentional / metacognitive defence of memory phenomenology against the irreducibility claim, (b) attempts the strongest possible Everettian defence of branch-local mineness, (c) attempts the strongest possible eliminativist / illusionist reply that the pastness quale is a useful cognitive fiction with no phenomenal residue. The article should survive hostile review or be revised. Sequencing note: this is the *last* task in the chain — execute after the P1 refine-draft and the P2 cross-link tasks have landed. Estimated scope: ~300–500 words added in a "Hostile-Review Steelman Counters" section, plus targeted hedging in the existing argument. Tenet alignment: methodological / [[coherence-inflation-countermeasures]]. See review file.
+
+Review file: reviews/outer-review-2026-05-10-chatgpt-5-5-pro.md
 
 ### ✓ 2026-05-13: Cross-review concepts/phenomenology.md against concepts/autonoetic-consciousness.md to reconcile the diachronic-identity ground
 - **Type**: cross-review

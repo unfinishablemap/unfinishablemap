@@ -5,6 +5,24 @@ ai_modified: 2026-05-13T22:22:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-13 22:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Source**: outer-review-2026-05-10-chatgpt-5-5-pro.md Item 15 (P2 hostile-review pass; last task in the 2026-05-10 ChatGPT chain after the P1 refine-draft and P2 cross-link tasks landed)
+- **Changes**:
+  - Added "Hostile-Review Steelman Counters" section (~480 words, three steelmen at maximum strength): (a) integrated source-monitoring / self-attentional account (Johnson, Hashtroudi & Lindsay 1993; Gentry 2021) as multi-channel attribution covering the same phenomenology the article calls irreducible; (b) Vaidman-line Everettian branch-local mineness with classical determinate-past observers; (c) Frankish-style illusionism as no-phenomenal-residue cognitive fiction; each steelman closed with the Map's honest reply identifying the disagreement as foundational-move-boundary, framework-boundary, or methodological-boundary rather than refutation
+  - Hedged "What no materialist account has explained" → existing functional/source-monitoring/metacognitive accounts identify the mechanism; what they have not yet *derived* is the bridge to felt re-encountering. "Unsolvable within a physicalist framework" → "unbridged" + forward link to hostile-review section
+  - Hedged Klein–Nichols inference: "evidence *for* the phenomenal reality of mineness" → "evidence that mineness is at minimum a separable factor from content; whether the dissociable factor is phenomenal or functional is itself contested"; forward link to hostile-review section
+  - Added Johnson, Hashtroudi & Lindsay (1993), Gentry (2021), and Frankish (2016) references; added `coherence-inflation-countermeasures`, `phenomenal-authority-and-first-person-evidence`, and `many-worlds` to related_articles
+- **Reasoning-mode classification** (named-opponent engagements, editor-internal):
+  - Source-monitoring steelman: Mode Two — the Map names the hard problem one tier up as the foundational-move callout, using the opponent's own mechanism-explanation standard; reply does not invoke tenets, does not refute inside the opponent's framework
+  - Everettian steelman: Mode Three — disagreement honestly routed through the haecceity auxiliary commitment named earlier in the article; phenomenology alone does not refute branch-local determinacy
+  - Illusionist steelman: Mode Three — bedrock methodological clash on phenomenal-authority; article does not pretend phenomenological evidence refutes illusionism inside the illusionist framework
+  - No mode labels appear in article prose; no `per [[direct-refutation-discipline]]` callouts; no bold-headed evidential-status callouts; no boundary-substitution (each steelman's reply explicitly declares its mode honestly in natural prose)
+- **Coherence-inflation discipline applied**: Per [[coherence-inflation-countermeasures]] Countermeasure 2 (mandatory steelman sections); each steelman is presented in its strongest form (not strawman), attributed to actual proponents, given adequate space, and responded to directly rather than juxtaposed. The closing paragraph explicitly records that none of the three steelmen is closed by the article's prior sections — the article's conclusions stand only inside the Map's auxiliary commitments
+- **Word count delta**: +~580 words (steelman section ~480 + hedge expansions ~100); article now ~5800 words. Length discipline pressure noted — a future condense task (P3 line 4223 of todo.md, already executed 2026-05-11 per changelog) may need a re-run to manage post-hostile-review accumulated length
+- **Output**: obsidian/topics/phenomenology-of-memory-and-the-self.md
+
 ## 2026-05-13 22:22 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenology]]
