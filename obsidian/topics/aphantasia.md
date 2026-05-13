@@ -4,7 +4,7 @@ description: "Human+AI exploration of aphantasia—the absence of voluntary ment
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-05-09T15:38:00+00:00
+ai_modified: 2026-05-13T11:55:32.555137+00:00
 last_deep_review: 2026-05-08T16:07:00+00:00
 draft: false
 topics:
@@ -34,11 +34,22 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-08
 last_curated:
+embedded_videos:
+  - id: FjkqqFUeqrk
+    url: https://www.youtube-nocookie.com/embed/FjkqqFUeqrk
+    embedded: 2026-05-13T11:55:32.555137+00:00
+    source: notebooklm/0056-01-aphantasia
 ---
 
 Aphantasia is the absence, in a substantial minority of otherwise typical minds, of voluntary phenomenal imagery. Asked to picture a red apple, an aphantasic person reports nothing visual—no mental picture, no shadow of one, no faded sketch. The cognitive task that imagery is usually thought to support (recalling a face, rehearsing a route, picturing a friend's living room) gets done anyway, by other means. Roughly 1% of the population is extreme-aphantasic, 3% extreme-hyperphantasic at the opposite end, and the remainder spread across a continuous spectrum of reported vividness ([Zeman 2024](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(24\)00034-2)). The phenomenon was named by Adam Zeman in 2015, but the underlying observation—that minds vary, perhaps radically, in what they "see" inwardly—was first documented by Francis Galton in 1880 and then partially eclipsed for over a century before the post-2010 clinical literature reopened it.
 
 Aphantasia matters to philosophy of mind because it is empirically anchored single-species evidence that two minds can perform demonstrably the same cognitive task with phenomenally divergent inner lives—and, in the limiting case, with one of those lives missing the imagery the task is conventionally said to require. That makes aphantasia a load-bearing case for the [[phenomenology-vs-function-axis|phenomenology-vs-function]] debate, the [[hard-problem-of-consciousness|hard problem of consciousness]], and the broader question of how much a third-person science of mind can capture about first-person experience.
+
+<details class="yt-embed" data-video-id="FjkqqFUeqrk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/FjkqqFUeqrk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What Aphantasics Report
 
