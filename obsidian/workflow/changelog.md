@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T13:22:00+00:00
+ai_modified: 2026-05-13T13:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 13:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Voids-Circularity Discount (public-facing methodology page)
+- **Output**: [[project/voids-circularity-discount]]
+- **Word count**: 2096
+- **Source**: outer-review (Gemini 2.5 Pro 2026-05-12 — methodology recommendation: while the Common-Cause-Null Discount adjusts internal weighting, its principles are not yet detailed in a public-facing methodology page; openly state how the project penalizes its own models for framework-internal coherence)
+- **Coverage**: (a) structural objection — convergence of voids catalogued under the framework with the framework that defines them cannot earn N-fold inferential force; (b) calibration mechanism — per-cluster independence scoring across seven diagnostic categories (empirical, phenomenological, clinical, contemplative, linguistic, quantum-theoretic, cross-cultural); (c) strict prohibition on double-counting tenet-generated voids with substitution-check diagnostic; (d) relation to sister disciplines [[common-cause-null]] (parent), [[evidential-status-discipline]] (single-claim layer), [[direct-refutation-discipline]] (reasoning-mode layer), [[coherence-inflation-countermeasures]] (system-level guards); (e) universal-solvent risk and graduated-discount response inherited from common-cause-null; (f) Tenet 5 alignment at meta-methodological level as symmetric-on-the-dualist-side counterpart to materialist parsimony failure.
+- **Based on research**: yes (the diagnosis is already documented in [[common-cause-null]] §"The voids catalogue", [[the-surplus-void]] §worked exhibit, and [[tenet-generated-voids]]; this article externalises that internal discipline for public-facing methodology readers)
+- **Published**: yes
 
 ## 2026-05-13 13:22 UTC - deep-review
 - **Status**: Success

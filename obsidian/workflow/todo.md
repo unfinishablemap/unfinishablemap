@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Formalize the Voids-Circularity Discount in public-facing methodology page
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-12. While the "Common-Cause-Null Discount" (committed 2026-05-11) is utilized internally to adjust the weight of converging evidence, its principles are not yet detailed in a public-facing methodology page. The reviewer's recommendation: openly state how the project penalizes its own models for framework-internal coherence and applies Bayesian-style downward calibration. Write `obsidian/project/voids-circularity-discount.md` covering (a) the structural objection: convergence of multiple voids pointing toward dualism may reflect framework-internal coherence rather than genuine framework-independent triangulation; (b) the calibration mechanism: per-cluster independence scoring based on diagnostic categories (empirical, phenomenological, clinical, contemplative, linguistic, quantum-theoretic, cross-cultural); (c) the prohibition: no double-counting of tenet-generated voids; (d) the relation to existing [[evidential-status-discipline]] and [[direct-refutation-discipline]]. This would uniquely position *The Unfinishable Map* as a rigorously self-critical platform, reflecting Tenet 5 (Occam's Razor Has Limits) at the meta-methodological level. ~800–1200 words; project-doc placement. Tenet alignment: methodological. See review file.
-- **Review file**: `reviews/outer-review-2026-05-12-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-12
-
 ### P2: Refine topics/non-temporal-consciousness.md fragmentation section — argue (or drop) the "unity-threatening division requires temporal structure" claim
 - **Type**: refine-draft
 - **Status**: pending
@@ -3600,6 +3592,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Formalize the Voids-Circularity Discount in public-facing methodology page
+- **Type**: expand-topic
+- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-12. While the "Common-Cause-Null Discount" (committed 2026-05-11) is utilized internally to adjust the weight of converging evidence, its principles are not yet detailed in a public-facing methodology page. The reviewer's recommendation: openly state how the project penalizes its own models for framework-internal coherence and applies Bayesian-style downward calibration. Write `obsidian/project/voids-circularity-discount.md` covering (a) the structural objection: convergence of multiple voids pointing toward dualism may reflect framework-internal coherence rather than genuine framework-independent triangulation; (b) the calibration mechanism: per-cluster independence scoring based on diagnostic categories (empirical, phenomenological, clinical, contemplative, linguistic, quantum-theoretic, cross-cultural); (c) the prohibition: no double-counting of tenet-generated voids; (d) the relation to existing [[evidential-status-discipline]] and [[direct-refutation-discipline]]. This would uniquely position *The Unfinishable Map* as a rigorously self-critical platform, reflecting Tenet 5 (Occam's Razor Has Limits) at the meta-methodological level. ~800–1200 words; project-doc placement. Tenet alignment: methodological. See review file.
+- **Output**: Formalize the Voids-Circularity Discount in public-facing methodology page
 
 ### ✓ 2026-05-13: Externalize the 5-tier evidential-status scale via visible textual tags in major article headers
 - **Type**: refine-draft
