@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T10:51:00+00:00
+ai_modified: 2026-05-13T11:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 11:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source**: outer-review (Gemini 2.5 Pro 2026-05-12 — R2 post-decoherence pivot; convergent with same-cycle Claude R5 already executed by the 2026-05-12 09:32 refinement)
+- **Changes**: MQI tenet paragraph rewritten end-to-end (~325 words touched). Replaced the previous "consciousness as the agent of collapse" framing — which located the conscious act at the superposition→definite-outcome transition — with the post-decoherence framing: after environmental monitoring has selected a preferred basis and suppressed interference, the system remains in an improper mixture, and a non-temporal selector determines which pointer state becomes actual without being constrained to act at a specific moment in the physical sequence and without requiring biologically implausible coherence times. Three structural additions: (a) names the [[timing-gap-problem|timing-gap objection]] explicitly in natural prose (the Tegmark-flavoured decoherence-timescale objection without naming Tegmark, since the article is not the place for a Tegmark exegesis); (b) cross-links [[apex/post-decoherence-selection-programme|the post-decoherence selection programme]] as the strongest physics-side framing the Map has available; (c) acknowledges the [[amplification-void|amplification chasm]] between localised quantum-biological phenomena (cryptochrome radical-pair magnetoreception, photosynthetic energy transfer) and macroscopic temporal integration across the visual, auditory, and cognitive fields of the human neocortex as the empirical gap the programme has yet to bridge. Preserved the three MQI-tenet constraints (no-energy-injection, no-Born-statistics-violation, no-currently-detectable-anomaly) and the [[time-symmetric-selection-mechanism]] link from the prior refinement. NMW paragraph minor edit: "produces definite outcomes from superposition" → "produces definite outcomes from the post-decoherence improper mixture" to align the implementation language with the new MQI framing. Frontmatter: added [[post-decoherence-selection]] to concepts and [[apex/post-decoherence-selection-programme]] to related_articles.
+- **Engagement**: with the Tegmark-decoherence-timescale objection — Mode One (defective on its own terms, locally). The post-decoherence pivot honours the objection at its strongest (decoherence really does complete in femtoseconds in warm-wet tissue) and routes around it at the post-decoherence interface where the quantum formalism is acknowledged to be silent on which outcome obtains. With the magnetoreception → cortical-integration empirical chasm — Mode Three (framework-boundary marking honestly named). The paragraph cites the local quantum-biological demonstrations and names the macroscopic-integration gap as the empirical work the programme has yet to do rather than dressing the local demonstrations as evidence for the macroscopic claim.
+- **Note**: Reviewer's framing assumed the article contained Zeno-centric mechanism passages and Tegmark-decoherence-timescale hedging; in fact the article does not contain those passages (verified by grep), so the structural pivot lands at the MQI paragraph's previous consciousness-as-collapse-agent framing rather than at a Zeno passage. The Claude R5 sequencing note in the task description is satisfied by the 2026-05-12 09:32 refinement, which already engaged Wheeler–DeWitt / Barbour / Rovelli in the Premise 3 paragraph.
+- **Published**: yes
 
 ## 2026-05-13 10:51 UTC - refine-draft
 - **Status**: Success

@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Pivot topics/non-temporal-consciousness.md quantum-collapse mechanics from Zeno-reliance to post-decoherence-gap framing
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-12. **Convergent with same-cycle Claude review's R5** (non-temporal physics engagement). The article hedges against the Tegmark decoherence-timescale objection by positing a "Zeno-like effect" that rapid conscious attention can hold states in superposition or guide them post-decoherence. The Map's own writing-style guide explicitly cautions against structuring central arguments around the quantum Zeno effect — the editors themselves recognize this weakness. The leap from localized molecular magnetoreception (cryptochrome radical pairs) to macroscopic temporal integration of visual/auditory/cognitive fields remains an enormous empirical chasm. **Refine** to pivot the article structurally toward the post-decoherence gap — the state where an environment has selected a preferred basis and suppressed interference, yet the resulting state remains an improper mixture. By locating the atemporal constitution of time at the post-decoherence interface (per the existing [[apex/post-decoherence-selection-programme]]), the article aligns with the Map's strongest physics-side argument without requiring biologically implausible coherence times. (a) Replace Zeno-centric mechanism passages with post-decoherence framing; (b) cross-link explicitly to the apex piece; (c) acknowledge the magnetoreception → cortical-integration gap. ~300–500 words touched. Tenet alignment: Tenet 2 (Minimal Quantum Interaction). **Sequencing**: complements Claude's R5 task (engage non-temporal physics like Wheeler-DeWitt/Barbour/Rovelli); execute together for coherent rewrite. See review file.
-- **Review file**: `reviews/outer-review-2026-05-12-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-12
-
 ### P2: Refine topics/non-temporal-consciousness.md — promote the falsifiability acknowledgment from review-internal to concluding text
 - **Type**: refine-draft
 - **Status**: pending
@@ -3624,6 +3616,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-13: Pivot topics/non-temporal-consciousness.md quantum-collapse mechanics from Zeno-reliance to post-decoherence-gap framing
+- **Type**: refine-draft
+- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-12. **Convergent with same-cycle Claude review's R5** (non-temporal physics engagement). The article hedges against the Tegmark decoherence-timescale objection by positing a "Zeno-like effect" that rapid conscious attention can hold states in superposition or guide them post-decoherence. The Map's own writing-style guide explicitly cautions against structuring central arguments around the quantum Zeno effect — the editors themselves recognize this weakness. The leap from localized molecular magnetoreception (cryptochrome radical pairs) to macroscopic temporal integration of visual/auditory/cognitive fields remains an enormous empirical chasm. **Refine** to pivot the article structurally toward the post-decoherence gap — the state where an environment has selected a preferred basis and suppressed interference, yet the resulting state remains an improper mixture. By locating the atemporal constitution of time at the post-decoherence interface (per the existing [[apex/post-decoherence-selection-programme]]), the article aligns with the Map's strongest physics-side argument without requiring biologically implausible coherence times. (a) Replace Zeno-centric mechanism passages with post-decoherence framing; (b) cross-link explicitly to the apex piece; (c) acknowledge the magnetoreception → cortical-integration gap. ~300–500 words touched. Tenet alignment: Tenet 2 (Minimal Quantum Interaction). **Sequencing**: complements Claude's R5 task (engage non-temporal physics like Wheeler-DeWitt/Barbour/Rovelli); execute together for coherent rewrite. See review file.
+- **Output**: obsidian/topics/non-temporal-consciousness.md
+
+Task context:
+From outer review by Gemini 2.5 Pro 2026-05-12. **Convergent with same-cycle Claude review's R5** (non-temporal physics engagement). The article hedges against the Tegmark decoherence-timescale objection by positing a "Zeno-like effect" that rapid conscious attention can hold states in superposition or guide them post-decoherence. The Map's own writing-style guide explicitly cautions against structuring central arguments around the quantum Zeno effect — the editors themselves recognize this weakness. The leap from localized molecular magnetoreception (cryptochrome radical pairs) to macroscopic temporal integration of visual/auditory/cognitive fields remains an enormous empirical chasm. **Refine** to pivot the article structurally toward the post-decoherence gap — the state where an environment has selected a preferred basis and suppressed interference, yet the resulting state remains an improper mixture. By locating the atemporal constitution of time at the post-decoherence interface (per the existing [[apex/post-decoherence-selection-programme]]), the article aligns with the Map's strongest physics-side argument without requiring biologically implausible coherence times. (a) Replace Zeno-centric mechanism passages with post-decoherence framing; (b) cross-link explicitly to the apex piece; (c) acknowledge the magnetoreception → cortical-integration gap. ~300–500 words touched. Tenet alignment: Tenet 2 (Minimal Quantum Interaction). **Sequencing**: complements Claude's R5 task (engage non-temporal physics like Wheeler-DeWitt/Barbour/Rovelli); execute together for coherent rewrite. See review file.
+
+Review file: reviews/outer-review-2026-05-12-gemini-2-5-pro.md
 
 ### ✓ 2026-05-13: Update wikilinks pointing at archived topics/attention-disorders-and-consciousness
 - **Type**: cross-review
