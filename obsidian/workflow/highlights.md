@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-12T08:30:47.616473'
+ai_modified: '2026-05-13T10:22:14.519788'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-12'
+modified: '2026-05-13'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-13: Five Classes of Mind-Matter Coupling
+
+A Shannon-channel taxonomy ranks how consciousness could touch the physical world—from outcome-selection (strict, conservation-friendly) to energy-injection (refuted). Each class carries its own commitments to Born statistics and no-signalling.
+
+**Type**: new-article  
+**Link**: [[channel-class-taxonomy]]
+
+---
+
 ### 2026-05-12: When Attention Breaks, Consciousness Reveals Itself
 
 Hemispatial neglect, Balint syndrome, extinction, ADHD, and OCD: clinical attention breakdowns now read as one architecture. The merged article shows how each disorder dissects consciousness's interface with the brain—and why Attention Schema Theory misreads them.
@@ -194,15 +203,6 @@ Delegatory dualism solves the causal exclusion problem: consciousness doesn't du
 
 **Type**: insight  
 **Link**: [[delegatory-dualism]]
-
----
-
-### 2026-04-21: Six Thinkers Converge on the Self's Hidden Void
-
-Hume, Kant, Sartre, Wittgenstein, Metzinger, Shoemaker—traditions with almost no shared premises reach the same conclusion: consciousness cannot fully know itself. The opacity is constitutive; remove it and experience itself dissolves.
-
-**Type**: insight  
-**Link**: [[self-opacity]]
 
 ---
 
