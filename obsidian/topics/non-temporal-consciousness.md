@@ -4,7 +4,7 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-12T09:32:00+00:00
+ai_modified: 2026-05-13T10:23:00+00:00
 draft: false
 last_deep_review: 2026-05-05T00:16:00+00:00
 topics:
@@ -19,6 +19,7 @@ concepts:
   - "[[collapse-and-time]]"
   - "[[witness-consciousness]]"
   - "[[direct-refutation-discipline]]"
+  - "[[evidential-status-discipline]]"
 related_articles:
   - "[[tenets]]"
   - "[[apex/machine-question]]"
@@ -61,6 +62,14 @@ This is distinct from ordinary time distortion. When absorbed in a task, time se
 If consciousness can shed temporal structure while remaining alert, this reveals something about the relationship between consciousness and time. The brain — a physical system — operates temporally throughout meditation. Neural oscillations continue. Blood flows. Yet the meditator reports an experience stripped of temporal character. If the physical substrate remains temporal while experience becomes atemporal, then experience and substrate are not identical.
 
 A representationalist can resist this conclusion: the experience remains a temporal brain process whose *content* lacks temporal markers, just as a visual experience of uniform darkness is a spatial brain process whose content lacks spatial differentiation. On this view, meditative "timelessness" is altered time *perception*, not genuinely atemporal experience. The non-temporal thesis requires that the atemporality is not merely representational but constitutive — that what the meditator accesses is the non-temporal ground itself, not a temporal representation of timelessness. Husserl's regress argument supports this stronger reading: if temporal experience must be constituted by something, and that something cannot itself be temporal, then meditative states that strip away temporal constitution reveal the constituting activity directly.
+
+A deeper objection cuts beneath the representationalist's. The constructivist tradition in religious studies — Steven Katz's "Language, Epistemology, and Mysticism" (1978) and Robert Sharf's "Buddhist Modernism and the Rhetoric of Meditative Experience" (1995) and "The Rhetoric of Experience and the Study of Religion" (2000) — denies that meditative reports are *unmediated* phenomenological data at all. Katz's claim is uncompromising: there are "*no* pure (i.e., unmediated) experiences." Sharf presses the point on the Buddhist case in particular. Meditation reports are best read as "the ritualization of experience… scripts for the performance of an eminently public religious drama," reports that "resist definition by design" and are not the kind of thing that "can lend itself to scientific scrutiny." On this reading, the meditator's "alert timelessness" is not raw phenomenology breaking through doctrinal categories; it is the doctrinal categories shaping which features of attention the practitioner notices, names, and reports. The Jhāna treatise does not record what the meditator finds — it instructs the meditator what to find, and the report's convergence with the treatise is the outcome the tradition was engineered to produce. If Katz and Sharf are right, Frischhut's first-person evidence is doctrinally scripted performance rather than first-person evidence, and the Extended Now Interpretation is reading metaphysics into ritualised speech.
+
+The constructivist critique cannot be defeated inside its own framework, and the article does not pretend otherwise. Asking whether the report is "really" unmediated asks what the reporter would have said in the counterfactual where they had never encountered the tradition — a question whose answer is unavailable by construction. The framework has the dialectical resources to absorb the available counter-moves: the supposed cross-tradition convergence is reconstructable as cross-influence; the supposedly minimal phenomenological core is itself a doctrinal artefact of comparative-mysticism scholarship; even appeal to non-doctrinal control subjects (psychedelic timelessness, near-death cases) inherits Western-frame categories of its own. The disagreement here is bedrock, and the article registers it as framework-boundary disagreement rather than dressing a framework-external rejoinder as a refutation — the same honest move the article makes for Madhyamaka in the section below.
+
+The structural pattern nevertheless retains some weight. Reports of alert awareness stripped of temporal markers recur across traditions whose surface doctrines differ — Theravāda Buddhist Jhāna, Tibetan rigpa, Zen kenshō, Advaita witness consciousness, Christian contemplative apophasis. The constructivist will reply that the comparativist apparatus is itself a Western academic construction flattening the differences to manufacture the convergence, and the reply has real force. A more modest claim nonetheless survives. The structural feature the article relies on — alertness preserved while temporal markers reportedly cease — is not the kind of doctrinal content the various traditions were independently incentivised to engineer. Each tradition's home explanation of *what* the alert-timeless feature means is doctrinally shaped; that the feature is reportable across traditions in the first place is the structural pattern doing the work for the argument. Sharf is right that any individual report is doctrinally scripted; the article does not need any individual report to be unmediated, only the structural recurrence to be more than coincidence.
+
+This commits the argument to the [[evidential-status-discipline|evidential-status discipline]]'s constraint that phenomenological reports do not on their own license metaphysical upgrades. The contemplative literature is not deciding the metaphysics of time. It is one of several mutually supporting lines — Husserl's regress, the cognitive-phenomenological case, and the meditative reports — whose convergence is, as the closing argument explicitly preserves, suggestive rather than decisive. The constructivist critique narrows what the meditative line can deliver without removing it entirely.
 
 ## Bergson's Challenge: Consciousness as Essentially Temporal
 
@@ -167,6 +176,7 @@ Non-temporal consciousness connects directly to the Map's [[tenets]]:
 1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*. https://academic.oup.com/pq/advance-article-abstract/doi/10.1093/pq/pqae081/7718358
 1. Hoerl, C. (2013). Husserl, the Absolute Flow, and Temporal Experience. *Philosophy and Phenomenological Research*, 86(2), 376-411.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893-1917)* (trans. Brough). Kluwer.
+1. Katz, S. T. (1978). Language, Epistemology, and Mysticism. In S. T. Katz (Ed.), *Mysticism and Philosophical Analysis* (pp. 22–74). Oxford University Press.
 1. Mashour, G. (2012). Fragmenting Consciousness. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
 1. Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
 1. Mellor, D. H. (1998). *Real Time II*. Routledge.
@@ -175,11 +185,27 @@ Non-temporal consciousness connects directly to the Map's [[tenets]]:
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 1. Putnam, H. (1967). Time and Physical Geometry. *Journal of Philosophy*, 64, 240–247.
 1. Rovelli, C. (1996). Relational Quantum Mechanics. *International Journal of Theoretical Physics*, 35(8), 1637–1678.
+1. Sharf, R. H. (1995). Buddhist Modernism and the Rhetoric of Meditative Experience. *Numen*, 42(3), 228–283.
+1. Sharf, R. H. (2000). The Rhetoric of Experience and the Study of Religion. *Journal of Consciousness Studies*, 7(11–12), 267–287.
 1. A layered unity model of split-brain consciousness. *Philosophical Studies* (2025). https://link.springer.com/article/10.1007/s11098-025-02339-3
 1. Temporal Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-temporal/
 1. The Unity of Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-unity/
 1. Phenomenology and Time-Consciousness. *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/phe-time/
 1. The Problem of Time in Canonical Quantum Gravity. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/quantum-gravity/
+
+<!-- AI REFINEMENT LOG - 2026-05-13
+Changes made:
+- Added four new paragraphs (~580 words) at the close of the "Meditative Evidence for Timelessness" section, immediately after the existing representationalist-objection paragraph and before the Bergson section, addressing the Katz–Sharf constructivist critique of meditator reports as phenomenological data. (1) States the position at full strength — Katz 1978 ("There are NO pure (i.e., unmediated) experiences"), Sharf 1995 ("ritualization of experience … scripts for the performance of an eminently public religious drama"), Sharf 2000 (reports "resist definition by design"; not the kind of thing that "can lend itself to scientific scrutiny"). Concludes with the constructivist consequence: Frischhut's ENI is reading metaphysics into ritualised speech. (2) Concedes the critique cannot be defeated inside its own framework — natural-prose framework-boundary marking, mirroring the move the article already makes for Madhyamaka. Catalogues the dialectical resources the framework has to absorb available counter-moves (cross-tradition convergence as cross-influence; minimal phenomenological core as scholarly artefact; control-subject appeal as Western-frame contaminated). (3) Argues the structural pattern retains some weight — alertness-with-temporal-markers-ceased recurs across Theravāda Jhāna, Tibetan rigpa, Zen kenshō, Advaita witness consciousness, Christian contemplative apophasis. The argument does not need any individual report to be unmediated, only the structural recurrence to be more than coincidence. (4) Connects to the [[evidential-status-discipline]]: contemplative literature is not deciding the metaphysics; it is one of several mutually supporting lines whose convergence is suggestive rather than decisive — the register the closing argument explicitly preserves. The constructivist critique narrows the meditative line without removing it.
+- Added [[evidential-status-discipline]] to the concepts frontmatter list (was already coupled to [[direct-refutation-discipline]]; the discipline pair is now both linked).
+- Added three references: Katz 1978 (Mysticism and Philosophical Analysis chapter), Sharf 1995 (Numen), Sharf 2000 (JCS). All three are real, correctly attributed, and quote-verified against the outer-review source.
+
+Engagement classification (editor-internal, per [[direct-refutation-discipline]] — recorded here for the changelog, not for article prose):
+- engagement with Katz–Sharf constructivism: Mode Three (framework-boundary marking) with a calibration-preserving residue. The constructivist framework's strongest version is self-stabilising — every counter-move the article could offer is reabsorbable as itself constructed — so an in-framework refutation is not available without first stepping outside the constructivist commitment. The article registers the bedrock disagreement honestly rather than dressing tenet-external grounds as in-framework refutation, *and* preserves a calibrated structural-pattern claim that survives within the [[evidential-status-discipline]]'s register-distinction: cross-traditional reportability of an alertness-without-temporal-markers structural feature is not the kind of doctrinal content traditions were independently incentivised to engineer, even though each tradition's home explanation of what it means is doctrinally shaped. The move is consistent with the constrain-vs-establish formulation in [[evidential-status-discipline]] — the meditative reports constrain readings on which consciousness is constitutively temporal without establishing the substantive metaphysical thesis, which is what the article was always claiming.
+
+Based on outer review by Claude Opus 4.7 2026-05-12 (peer-review-style audit, 271 sources), R2 — flagged by the reviewer as "the single most consequential scholarly gap" and the highest-leverage fix. R3 (Zahavi blocks the regress) remains for a separate pass per task allocation.
+
+This log should be removed after human review.
+-->
 
 <!-- AI REFINEMENT LOG - 2026-05-12
 Changes made:

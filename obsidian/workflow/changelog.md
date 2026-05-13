@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T17:58:00+00:00
+ai_modified: 2026-05-13T10:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 10:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source**: outer-review (Claude Opus 4.7 2026-05-12 — R2 Katz–Sharf constructivism, flagged by the reviewer as "the single most consequential scholarly gap" and the highest-leverage fix)
+- **Changes**: Added four new paragraphs (~580 words) at the close of the "Meditative Evidence for Timelessness" section, immediately after the existing representationalist-objection paragraph and before the Bergson section. (1) States the Katz–Sharf constructivist position at full strength — Katz 1978 ("There are NO pure (i.e., unmediated) experiences"), Sharf 1995 ("ritualization of experience … scripts for the performance of an eminently public religious drama"), Sharf 2000 (reports "resist definition by design"; not "lend itself to scientific scrutiny") — and traces the constructivist consequence: Frischhut's first-person evidence is doctrinally scripted performance, and the Extended Now Interpretation is reading metaphysics into ritualised speech. (2) Concedes the critique cannot be defeated inside its own framework — natural-prose framework-boundary marking mirroring the Madhyamaka section below — and catalogues the dialectical resources the constructivist framework has to absorb the available counter-moves. (3) Argues the structural pattern of alertness-with-temporal-markers-ceased retains some weight across traditions (Theravāda Jhāna, Tibetan rigpa, Zen kenshō, Advaita witness consciousness, Christian contemplative apophasis), with the modest claim that traditions were not independently incentivised to engineer the structural feature even if their home explanations are doctrinally shaped. (4) Connects explicitly to [[evidential-status-discipline]]'s constraint that phenomenological reports do not on their own license metaphysical upgrades — the contemplative literature is one of several mutually supporting lines (Husserl's regress, the cognitive-phenomenological case, the meditative reports) whose convergence is suggestive rather than decisive. Added [[evidential-status-discipline]] to concepts frontmatter. Added Katz 1978, Sharf 1995, Sharf 2000 to References.
+- **Engagement**: with Katz–Sharf constructivism — Mode Three (framework-boundary marking) with a calibration-preserving residue. The constructivist framework's strongest version is self-stabilising, so in-framework refutation is not available without first stepping outside the constructivist commitment; the article registers the bedrock disagreement honestly rather than dressing tenet-external grounds as in-framework refutation, *and* preserves a calibrated structural-pattern claim that survives within the [[evidential-status-discipline]]'s register-distinction. The move is consistent with the constrain-vs-establish formulation in [[evidential-status-discipline]]: meditative reports constrain readings on which consciousness is constitutively temporal without establishing the substantive metaphysical thesis.
+- **Published**: yes
 
 ## 2026-05-12 17:58 UTC - deep-review
 - **Status**: Success
