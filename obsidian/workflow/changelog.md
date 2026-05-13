@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T14:51:00+00:00
+ai_modified: 2026-05-13T15:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 15:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source**: pessimistic-review 2026-05-13 (Issues 1 and 2, both rated critical severity — label-leakage failures convergent with three independent outer reviewers from 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, and 2026-05-04 Claude who identified label-leakage as the catalogue's primary structural weakness; today's five refinement passes had reintroduced the failure mode at these two loci)
+- **Changes**: ~95 words touched across two loci. (1) Line 70 (Meditative Evidence section, closing sentence of the Katz–Sharf constructivism paragraph): replaced editor-method narration ("the article registers it as framework-boundary disagreement rather than dressing a framework-external rejoinder as a refutation — the same honest move the article makes for Madhyamaka in the section below") with direct substantive prose stating that any reply the Map could offer would proceed from premises the constructivist framework rejects and would impose the Map's framework from outside rather than refute the constructivist's commitments from within. Drops "the article registers it as", "the same honest move the article makes", and the forward-pointing reference to the section below. (2) Line 98 (Madhyamaka section, third response): replaced "The third is *framework-boundary marking*." with "The third response acknowledges that the disagreement is ontological bedrock." The italicised noun-phrase named option ("*framework-boundary marking*") is the editor-vocabulary the [[direct-refutation-discipline]] explicitly forbids as a *bedrock-perimeter* variant; the italicisation made the leakage worse by presenting the technical label as a named option parallel to "the *minimal subject* response" (line 94) and "the *partial-credit* response" (line 96). The natural-prose verb-phrasing does the same work without the technical label.
+- **Engagement**: Both fixes are label-leakage corrections, not engagement reclassifications. The underlying engagement modes are unchanged: Katz–Sharf engagement remains Mode Three (framework-boundary marking honestly named); Madhyamaka third response remains Mode Three with substantial-subject originating from the dualism tenet rather than from the contemplative reports. What changed is the prose-level expression: the editor's diagnostic vocabulary is removed from article prose and the substance is stated in natural language.
+- **Published**: yes
 
 ## 2026-05-13 14:51 UTC - pessimistic-review
 - **Status**: Success
