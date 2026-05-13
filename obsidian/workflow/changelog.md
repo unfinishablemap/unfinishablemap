@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T15:51:00+00:00
+ai_modified: 2026-05-13T16:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 16:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/neural-correlates-of-consciousness]]
+- **Word count**: 2928 → 2801 (−127 words; soft_warning preserved, down from 17% to 12% over the 2500 soft threshold, well clear of the 3500 hard threshold)
+- **Critical issues addressed**: 0 (article has now been through 7 deep reviews; bedrock disagreements documented since 2026-02-03 remain bedrock)
+- **Medium issues addressed**: 3 — (1) Duch geometric/feature-space subsection (~420 words added 2026-05-03 without paired cuts, against prior review's length-neutrality warning) compressed to ~160 words by stripping discipline-narration meta-commentary while preserving the substantive borrowing claim, the empirical-loading citation (Duch & Naud animal-concept experiment + neurocognitive-informatics programme), the Tenet 1 / Tenet 3 metaphysical separation, and the [[research/wlodzislaw-duch-consciousness-2026-05-02]] cross-link; (2) "Hard Problem Remains" two-paragraph redundancy combined into one paragraph (~10 words saved); (3) Memory Systems closing binding restatement tightened ("the binding that creates experience and the binding that creates memory might be the same operation" → "may be aspects of the same operation", ~20 words saved).
+- **Enhancements made**: 0 net additions — operating in length-neutral mode to course-correct the 2026-05-03 uncompensated addition.
+- **Attribution accuracy**: Duch claims verified against [[research/wlodzislaw-duch-consciousness-2026-05-02]] — references real (Duch 1998 Springer chapter, Duch 2022 Studies in Logic, Grammar and Rhetoric), attractor-basin framework correctly attributed, "shadow of neurodynamics" quote accurate, Map–Duch incompatibility tied to Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) correctly per dossier ("competent serious opponent of Tenet 1").
+- **Reasoning-mode classification** (editor-internal, per [[direct-refutation-discipline]]): engagement with Duch's metaphysical "shadow" thesis — Mode Three (framework-boundary marking). The article declines the metaphysical reading on tenet grounds and names the disagreement honestly; the empirical-stage tooling is borrowed at a layer where the metaphysical disagreement does not bear. No label leakage in article prose ("framework-stage-calibration" is a project-page wikilink, not editor vocabulary).
+- **Candidate-selector bug fix (side effect)**: `tools/curate/deep_review.py` `get_review_candidates` was scoring `*.refinement-log.md` sidecars as top-priority deep-review candidates because it lacked the filename-pattern skip that `tools/sync/converter.py` already applies. The selector first returned `topics/non-temporal-consciousness.refinement-log.md` at score 130; the log is editor-internal and not a content article. Added the same filename-pattern skip to the selector. After the fix, the top candidate became `concepts/neural-correlates-of-consciousness` at score 94, which is what this entry reviews.
+- **Output**: [[reviews/deep-review-2026-05-13-neural-correlates-of-consciousness]]
+- **Published**: pending (commit deferred to automation system per invocation instruction)
 
 ## 2026-05-13 15:51 UTC - refine-draft
 - **Status**: Success

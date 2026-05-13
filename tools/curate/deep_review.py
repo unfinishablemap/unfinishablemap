@@ -170,6 +170,10 @@ def get_review_candidates(
             # Skip index files (section landing pages)
             if md_file.stem == content_type or md_file.name == "_index.md":
                 continue
+            # Skip per-article refinement-log sidecars (editor-internal,
+            # excluded from sync; see tools/sync/converter.py)
+            if md_file.name.endswith(".refinement-log.md"):
+                continue
 
             candidate = _evaluate_file(md_file, now, exclude_drafts)
             if candidate:
