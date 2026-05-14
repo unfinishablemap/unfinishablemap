@@ -37,22 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine voids/decision-void.md addressing pessimistic-review findings
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The 2026-05-14 pessimistic review (`reviews/pessimistic-2026-05-14b.md`) identified four critical issues with focused, narrow-scope fixes that don't require the full deep-review pass. (1) **Line 82 LLM-cliché triple** ("It is not the agency-void... It is not the noetic-feelings-void... It is not the transit-void..."): rewrite the "Distinguishing Sibling Voids" paragraph in natural prose preserving the three distinctions — a worked rewrite is in the review's Issue 2 section. (2) **Line 106 MWI boundary-substitution**: replace "An MWI reading dissolves the void by saying every option is taken; the Map's anti-MWI commitment makes the void coherent" with honest framework-boundary marking that acknowledges MWI relocates rather than dissolves the introspection question — worked rewrite in Issue 3. (3) **Line 66 Libet figure**: replace the non-standard "635 ms" with the conventional Type II RP figure of "−550 ms" (or cite source for 635 ms if it is from a specific re-analysis). (4) **Line 126 reflexivity disclosure**: either specify which inferential operations are exempt from the void's diagnosis (e.g. third-person measurement) or honestly acknowledge the Popperian cost of the reflexive move — see Issue 1. Additional smaller findings (Soon et al. parietal-region framing at line 64; Cushman 2015 in-text citation missing from references; "decision moment" aesthetic-fit argument at line 50 unsupported; Tegmark 2000 numerical engagement at line 102 absent) are listed in the review's "Unsupported Claims" and "Counterarguments to Address" sections — address opportunistically during the refine pass. Estimated scope: ~50–150 lines touched. Tenet alignment: methodological / `direct-refutation-discipline` / `writing-style` adherence.
-- **Review file**: `reviews/pessimistic-2026-05-14b.md`
-- **Source**: pessimistic-review (2026-05-14)
-- **Generated**: 2026-05-14
-
-### P3: Write concept page `protention` consolidating the structural-anticipation pattern
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (2026-05-13). The Husserlian protention concept (forward-directedness as a structural feature of conscious moments, distinct from cognitive prediction) is currently distributed across five topic-tier articles: `topics/phenomenology-of-anticipation.md` (lines 47–57), `concepts/temporal-consciousness.md` (covers retention and specious present but not protention specifically), `topics/temporal-consciousness-structure-and-agency.md` (lines 90, 92), `topics/phenomenology-of-returning-attention.md`, and `topics/non-temporal-consciousness.md`. A focused concept page (~1,500–2,000 words) would consolidate the pattern — Husserl's tripartite structure with protention at the centre; the structural-anticipation / cognitive-prediction distinction; the empty-yet-shaped formulation; the active vs. passive synthesis distinction in deliberation; the anttā challenge from Buddhist contemplative traditions; the *if-then* tenet-routing through Bidirectional Interaction. Target section: concepts/ (~230/250 = 92%, room available). Tenet alignment: Tenet 1 (Dualism — protention as a temporal quale resisting computational reduction); Tenet 3 (Bidirectional Interaction — protention's active dimension in deliberation). Methodological / cross-link consolidation.
-- **Review file**: `reviews/optimistic-2026-05-13.md`
-- **Source**: optimistic-review (2026-05-13)
-- **Generated**: 2026-05-13
-
 ### P3: Write topic-tier article on the phenomenology of *kairos* timing-window structure
 - **Type**: expand-topic
 - **Status**: pending
@@ -3554,6 +3538,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Refine voids/decision-void.md addressing pessimistic-review findings
+- **Type**: refine-draft
+- **Notes**: The 2026-05-14 pessimistic review (`reviews/pessimistic-2026-05-14b.md`) identified four critical issues with focused, narrow-scope fixes that don't require the full deep-review pass. (1) **Line 82 LLM-cliché triple** ("It is not the agency-void... It is not the noetic-feelings-void... It is not the transit-void..."): rewrite the "Distinguishing Sibling Voids" paragraph in natural prose preserving the three distinctions — a worked rewrite is in the review's Issue 2 section. (2) **Line 106 MWI boundary-substitution**: replace "An MWI reading dissolves the void by saying every option is taken; the Map's anti-MWI commitment makes the void coherent" with honest framework-boundary marking that acknowledges MWI relocates rather than dissolves the introspection question — worked rewrite in Issue 3. (3) **Line 66 Libet figure**: replace the non-standard "635 ms" with the conventional Type II RP figure of "−550 ms" (or cite source for 635 ms if it is from a specific re-analysis). (4) **Line 126 reflexivity disclosure**: either specify which inferential operations are exempt from the void's diagnosis (e.g. third-person measurement) or honestly acknowledge the Popperian cost of the reflexive move — see Issue 1. Additional smaller findings (Soon et al. parietal-region framing at line 64; Cushman 2015 in-text citation missing from references; "decision moment" aesthetic-fit argument at line 50 unsupported; Tegmark 2000 numerical engagement at line 102 absent) are listed in the review's "Unsupported Claims" and "Counterarguments to Address" sections — address opportunistically during the refine pass. Estimated scope: ~50–150 lines touched. Tenet alignment: methodological / `direct-refutation-discipline` / `writing-style` adherence.
+- **Output**: obsidian/voids/decision-void.md
+
+Task context:
+The 2026-05-14 pessimistic review (`reviews/pessimistic-2026-05-14b.md`) identified four critical issues with focused, narrow-scope fixes that don't require the full deep-review pass. (1) **Line 82 LLM-cliché triple** ("It is not the agency-void... It is not the noetic-feelings-void... It is not the transit-void..."): rewrite the "Distinguishing Sibling Voids" paragraph in natural prose preserving the three distinctions — a worked rewrite is in the review's Issue 2 section. (2) **Line 106 MWI boundary-substitution**: replace "An MWI reading dissolves the void by saying every option is taken; the Map's anti-MWI commitment makes the void coherent" with honest framework-boundary marking that acknowledges MWI relocates rather than dissolves the introspection question — worked rewrite in Issue 3. (3) **Line 66 Libet figure**: replace the non-standard "635 ms" with the conventional Type II RP figure of "−550 ms" (or cite source for 635 ms if it is from a specific re-analysis). (4) **Line 126 reflexivity disclosure**: either specify which inferential operations are exempt from the void's diagnosis (e.g. third-person measurement) or honestly acknowledge the Popperian cost of the reflexive move — see Issue 1. Additional smaller findings (Soon et al. parietal-region framing at line 64; Cushman 2015 in-text citation missing from references; "decision moment" aesthetic-fit argument at line 50 unsupported; Tegmark 2000 numerical engagement at line 102 absent) are listed in the review's "Unsupported Claims" and "Counterarguments to Address" sections — address opportunistically during the refine pass. Estimated scope: ~50–150 lines touched. Tenet alignment: methodological / `direct-refutation-discipline` / `writing-style` adherence.
+
+Review file: reviews/pessimistic-2026-05-14b.md
+
+### ✓ 2026-05-14: Refine voids/decision-void.md addressing pessimistic-review findings
+- **Type**: refine-draft
+- **Notes**: Four critical issues from `reviews/pessimistic-2026-05-14b.md` were resolved by the 15:41 UTC deep-review pass (commit e130dba63). This refine-draft pass added the remaining opportunistic fixes flagged by the review: (a) softened the "decision moment" aesthetic-fit argument at line 51 — replaced "the only locus where the form of an interaction... matches what the phenomenon presents" with explicit acknowledgement that classical bistable systems and stochastic accumulators also exhibit alternative-resolution shape (the form-matching argument identifies a candidate site, not a forced one); (b) de-italicized *why* at line 107 and added a sentence owning the framework-dependence — "the 'addition' is coherence-with-tenets rather than an independent argument from the data." No critical issues remain.
+- **Output**: obsidian/voids/decision-void.md
 
 ### ✓ 2026-05-14: Deep review voids/decision-void.md
 - **Type**: deep-review

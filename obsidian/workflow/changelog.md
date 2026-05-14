@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T16:10:00+00:00
+ai_modified: 2026-05-14T16:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 16:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/decision-void]]
+- **Source**: pessimistic-review (2026-05-14b), opportunistic-fixes pass after 15:41 UTC deep-review consumed the four critical issues
+- **Changes**: 2 targeted edits addressing remaining review items. (1) "Decision moment" aesthetic-fit argument at line 51: softened "the only locus where the form of an interaction... matches what the phenomenon presents" → "among phenomenally-given cognitive transitions, the deliberation→commitment crossing is the one whose form... matches what would be wanted for influence on indeterminate microphysical events"; appended explicit acknowledgement that classical bistable systems and stochastic accumulators also exhibit alternative-resolution shape ("the form-matching argument identifies a phenomenologically-natural candidate site, not the uniquely possible one") — addresses the Tegmark-voice objection that the form-matching argument was asserted, not earned. (2) Italicised *why* at line 107: de-italicised and added a clarifying sentence — "The 'addition' is coherence-with-tenets rather than an independent argument from the data; the disagreement with physicalism, here as elsewhere, runs to the wider framework" — addresses the review's "framework-dependence concealed by rhetorical italics" flag.
+- **Engagements with named opponents (editor's notes only)**: Tegmark — Mode One sharpening (downgraded "only locus" claim from forcing-argument to candidate-site identification, naming the classical-systems alternative); physicalism (Dennett/Churchlands) — Mode Three sharpening (made the framework-dependence explicit in the *why*-sentence rather than letting italics carry the load). No editor-vocabulary leakage in article body.
+- **Stability**: Article remains in good condition. The four critical issues were resolved by the deep-review pass earlier today; the refine-draft completes the cleanup of the secondary findings without re-litigating settled work.
+- **Output**: obsidian/voids/decision-void.md
+- **Published**: yes
 
 ## 2026-05-14 16:10 UTC - deep-review
 - **Status**: Success
