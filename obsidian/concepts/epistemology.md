@@ -4,7 +4,7 @@ description: "How we know what we know about consciousness—and why the standar
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-21T06:38:00+00:00
+ai_modified: 2026-05-14T01:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-25
 last_curated:
-last_deep_review: 2026-03-28T00:14:00+00:00
+last_deep_review: 2026-05-14T01:25:00+00:00
 ---
 
 Epistemology — the study of knowledge, justification, and rational belief — takes on distinctive significance in The Unfinishable Map's framework because the consciousness debate is, at bottom, an epistemological crisis. The central dispute is not merely about what exists but about what kinds of evidence count, what methods of inquiry are appropriate, and whether the standard epistemic toolkit — third-person observation, parsimony, empirical prediction — is adequate for the domain it is being asked to adjudicate.
@@ -80,7 +80,7 @@ Second, the problem of other minds becomes acute. If consciousness is non-physic
 
 Third, the limits of knowledge become themselves epistemologically significant. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] examines how we can have genuine knowledge about what resists being known. The [[meta-epistemology-of-limits]] asks the recursive question: how do we know our cognitive limits are genuine rather than merely temporary? These are not idle puzzles but load-bearing questions for any framework that posits a boundary between the physical and the mental.
 
-Fourth, [[epistemology-of-convergence-arguments|convergence]] becomes a central epistemic method. When multiple independent lines of inquiry — phenomenological, empirical, philosophical — point toward the same conclusion, this convergence provides warrant that no single line could provide alone. The Map's case for dualism relies heavily on convergence: the knowledge argument, conceivability arguments, the explanatory gap, and the argument from reason each provide independent evidence that physical description is incomplete.
+Fourth, [[epistemology-of-convergence-arguments|convergence]] becomes a central epistemic method. When multiple independent lines of inquiry — phenomenological, empirical, philosophical — point toward the same conclusion, this convergence provides warrant that no single line could provide alone. The Map's case for dualism relies heavily on convergence: the [[knowledge-argument]], [[conceivability-possibility-inference|conceivability arguments]], the [[explanatory-gap]], and the [[argument-from-reason]] each provide independent evidence that physical description is incomplete.
 
 Fifth, the [[philosophy-of-science-under-dualism|philosophy of science itself requires revision]]. If reality has aspects that third-person methods cannot fully capture, then the scope of scientific explanation is narrower than typically assumed — not because science fails, but because its methods are optimised for the physical domain. This does not diminish science but clarifies its boundaries.
 
