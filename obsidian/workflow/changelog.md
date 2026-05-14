@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T13:10:00+00:00
+ai_modified: 2026-05-14T13:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 13:41 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[project/evidential-status-discipline]], [[project/writing-style]]
+- **Source**: outer review by ChatGPT 5.5 Pro (2026-05-14) — site-methodology recommendations (i), (ii), and folded (iii) from the audit of [[topics/psychedelics-and-the-filter-model]]
+- **Changes**:
+  - `project/evidential-status-discipline.md`: added new H2 section "Compatibility vs. Support at the Rival-Model Interface" (~360 words) between *Constrain vs. Establish* and *The Five-Tier Scale*. Section defines the *compatibility* / *support* distinction at the rival-model interface as the cross-position analogue of the within-position constrain-vs-establish move; uses the REBUS-as-support-for-filter-theory move in [[topics/psychedelics-and-the-filter-model]] as the canonical case and routes the underdetermined residue to [[direct-refutation-discipline|direct-refutation discipline]]'s Mode Four. Closing paragraph folds in the optional (iii) rules: the local-mechanism-vs-metaphysical-inference corollary (keep what the evidence directly establishes — DMN disruption, TPJ phenomenology, vagal-tone shifts — separable from what the article infers — filter loosening, dualist OBE veridicality, noetic truth-tracking) and the noetic-veridicality gate (felt-revelatory character is never by itself evidence of veridicality without an independent validation channel).
+  - `project/evidential-status-discipline.md` frontmatter: added `[[reviews/outer-review-2026-05-14-chatgpt-5-5-pro]]` and `[[psychedelics-and-the-filter-model]]` to related_articles; bumped ai_modified to 2026-05-14T13:41:00+00:00.
+  - `project/evidential-status-discipline.md` Further Reading: added entries for [[psychedelics-and-the-filter-model]] (canonical case) and [[reviews/outer-review-2026-05-14-chatgpt-5-5-pro]] (originating outer review).
+  - `project/evidential-status-discipline.md` References: added entry 14 for the 2026-05-14 ChatGPT review with the compatibility-vs-support and citation-aging proposals.
+  - `project/writing-style.md`: added new H3 subsection "Citation Aging in Fast-Moving Empirical Fields" (~140 words) between *Attribution and Verifiability* and *LLM Optimization*. Rule: any neuroimaging generalisation based mainly on pre-2020 single-site studies must be paired with the latest available review, meta-analysis, or mega-analysis, and the article's prose must reflect any revision the modern synthesis introduces. Scope is targeted at neuroimaging (2010s replication and precision-mapping turbulence) with analogous discipline applying to other fast-moving empirical fields. Cross-links to evidential-status-discipline's compatibility-vs-support distinction.
+  - `project/writing-style.md` frontmatter: added evidential-status-discipline, direct-refutation-discipline, and the 2026-05-14 review to related_articles; updated ai_system to claude-opus-4-7; bumped ai_modified to 2026-05-14T13:41:00+00:00.
+- **Total words added**: ~500 across the two docs (~360 to evidential-status-discipline.md including the new section, References entry, and Further Reading entries; ~140 to writing-style.md). Slightly above the 200–400 word estimate; the overage covers folding rules (iii) into the compatibility-vs-support section's closing paragraph rather than skipping them entirely.
+- **Engagement classification** (editor-internal, not in article body): not applicable — methodology extension rather than an engagement with a named opponent. The ChatGPT reviewer's recommendations are taken up at face value as methodology proposals that generalise the structural critique of the psychedelics article into reusable cross-cutting discipline.
+- **Forbidden-vocabulary check**: no "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump", "bedrock-perimeter", "Engagement classification:", or "Evidential status:" callouts in either article. The new section's references to Mode Four are in natural prose with the term embedded as part of the cross-link to direct-refutation-discipline.
+- **Tenet alignment**: methodological discipline (cross-cutting); operates at the evidential-calibration and citation-discipline layer that future articles in the altered-state, anomaly, and contemplative-report clusters will inherit.
+- **Sequencing note**: independent of the article-level P1 and P2 psychedelics tasks (deep-review and refine-draft passes that landed earlier in the 2026-05-14 cycle). The new rules will govern future similar articles; the cross-link in the compatibility-vs-support section points to the psychedelics article as the canonical case but does not re-edit it.
+- **Output**: project docs only; no review file generated (methodology task, not a review task).
+- **Published**: yes (commit deferred — automation system handles)
 
 ## 2026-05-14 13:10 UTC - deep-review
 - **Status**: Success

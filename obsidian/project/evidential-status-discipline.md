@@ -4,7 +4,7 @@ description: "A tenet may remove a defeater, but it must not upgrade the evidenc
 created: 2026-05-05
 modified: 2026-05-10
 human_modified: null
-ai_modified: 2026-05-13T20:51:00+00:00
+ai_modified: 2026-05-14T13:41:00+00:00
 last_deep_review: 2026-05-10T18:31:00+00:00
 draft: false
 topics: []
@@ -29,7 +29,9 @@ related_articles:
   - "[[tenets]]"
   - "[[reviews/outer-review-2026-05-03-chatgpt-5-5-pro]]"
   - "[[reviews/outer-review-2026-05-10-chatgpt-5-5-pro]]"
+  - "[[reviews/outer-review-2026-05-14-chatgpt-5-5-pro]]"
   - "[[reviews/optimistic-2026-05-09]]"
+  - "[[psychedelics-and-the-filter-model]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -68,6 +70,14 @@ The discipline's operative phrasing was installed in [[mental-effort]]'s treatme
 **The symmetric form.** The discipline applies bidirectionally. The dualist must not treat phenomenological evidence (introspection, contemplative reports, anomalies) as if it had *established* dualism when it has only *constrained* the simplest reductive reading. The materialist must not treat neural-correlate or stimulation evidence as if it had *established* the reduction when it has only *constrained* the strongest non-physical reading. TPJ stimulation produces OBE-like phenomenology, which constrains "consciousness literally exits the body" for stimulation-induced and VR-induced cases but does not establish "all OBEs are TPJ artefacts." Felt-effort/operation dissociations constrain the simplest dualist identity claim but do not establish that felt effort is exhausted by sub-personal cost-benefit machinery. The asymmetry the discipline guards against is the tendency for the *house perspective* — whichever it is — to silently treat constraint as establishment when the evidence runs in its favour.
 
 The diagnostic test extends symmetrically: a reviewer applying it on the dualist side ("would a tenet-accepting reviewer still flag this?") has a counterpart on the materialist side ("would a materialism-accepting reviewer still flag a passage that converted 'stimulation produces phenomenology' into 'phenomenology is exhausted by stimulation'?"). Honest empirical labelling within either framework respects the constraint/establish boundary. The catalogue's existing instances of the move are gathered as a worked example below.
+
+## Compatibility vs. Support at the Rival-Model Interface
+
+The *constrain*-vs-*establish* distinction operates within a single position. A second distinction operates *across* rival models. When a body of evidence fits both a site tenet's predictions and a leading rival model's predictions, the article must classify the evidence as *compatibility* — the evidence does not adjudicate — rather than as *support* for the Map's reading, unless the article names an independent discriminator the rival does not also predict. The support claim requires the further argument that the Map's reading better predicts the evidence, and the better-prediction claim requires a feature only the Map's reading entails.
+
+The canonical case is the 2026-05-14 ChatGPT outer review of [[psychedelics-and-the-filter-model]]: the article said "the empirical evidence supporting REBUS simultaneously supports the filter interpretation." On the rival-model interface that is too strong. REBUS, the entropic-brain framework, and predictive-processing accounts predict the same neuroimaging signatures — large-scale network reconfiguration, DMN disruption, increased between-network coupling, neural entropy — by mechanisms that do not invoke a non-produced mind. The evidence is compatible with the filter reading but does not support it over the rivals unless the article names a discriminator (independently verified selective access; a measurement only the filter reading predicts). Without the discriminator, the case is empirically underdetermined and routes to [[direct-refutation-discipline|direct-refutation discipline]]'s Mode Four.
+
+The rule has an article-level corollary that altered-state, anomaly, and contemplative-report articles in particular must respect: keep the local mechanism the evidence directly establishes (DMN disruption, TPJ phenomenology, vagal-tone shifts under contemplative absorption) separable from the metaphysical inference the article draws (filter loosening, dualist OBE veridicality, noetic truth-tracking). The felt-revelatory character of an experience — its phenomenological signature of having accessed something deep, hidden, or prior — is never by itself evidence that the experience is veridical. Moving from *felt revelatory* to *truth-tracking* requires an independent validation channel: prospective verification, content that could not plausibly arise from memory or inference, or a measurement only the Map's reading predicts. Conflating local mechanism with metaphysical inference, or felt revelation with veridical access, is the within-paragraph failure mode the compatibility-vs-support boundary catches at the discriminator level.
 
 ## The Five-Tier Scale
 
@@ -262,7 +272,9 @@ Beyond tenet alignment, the discipline complements [[coherence-inflation-counter
 - [[memory-anomalies]] — Bergson's "memory of the present" raised as one candidate explanation, not load-bearing dualist commitment; the empirical-side instance for source-monitoring failures
 - [[out-of-body-experiences]] — the argument-from-mechanism section as the canonical materialist-side refusal: sufficient mechanism does not entail necessary mechanism
 - [[synaesthesia]] — the interface reading explicitly self-labelled as speculative-integration tier; within-species divergence constrains functionalism without establishing the interface alternative
+- [[psychedelics-and-the-filter-model]] — the canonical case for the compatibility-vs-support distinction at the rival-model interface; REBUS, entropic-brain, and predictive-processing accounts predict the same neuroimaging signatures the article had read as supporting filter theory
 - [[reviews/outer-review-2026-05-03-chatgpt-5-5-pro]] — the originating outer review; identified evidence-grade slippage and proposed the five-tier scale
+- [[reviews/outer-review-2026-05-14-chatgpt-5-5-pro]] — the originating outer review for the compatibility-vs-support distinction and the citation-aging rule for neuroscience
 - [[automation]] — the broader automation system in which `/refine-draft`, `/deep-review`, `/optimistic-review`, and `/outer-review` operate
 
 ## References
@@ -282,6 +294,7 @@ The evidential-status discipline is documented through the catalogue's outer-rev
 11. *The Unfinishable Map* outer review, 2026-05-10 (ChatGPT 5.5 Pro). Pressure-tests [[phenomenology-of-memory-and-the-self]]; identifies the experience→irreducibility, dissociation-chain, and MWI-restatement failure modes the three cross-cutting rules in this article codify. https://unfinishablemap.org/reviews/outer-review-2026-05-10-chatgpt-5-5-pro/
 12. *The Unfinishable Map* outer review, 2026-05-12 (Gemini 2.5 Pro). Audits [[topics/non-temporal-consciousness]]; recommends externalising the five-tier scale via section-header tags to give academic readers a section-grain signal. The recommendation seeds the *Externalized Tag Pilot* in this article. https://unfinishablemap.org/reviews/outer-review-2026-05-12-gemini-2-5-pro/
 13. *The Unfinishable Map* outer review, 2026-05-10 (Gemini 2.5 Pro). Deep Research review of [[topics/phenomenology-of-memory-and-the-self]]; proposes "Mode Four: Empirical Underdetermination" as a fourth honest-discharge mode for [[direct-refutation-discipline|direct-refutation discipline]]. The proposal complements this discipline's diagnostic test by giving it an alternative residue to bedrock when the available evidence cannot adjudicate. https://unfinishablemap.org/reviews/outer-review-2026-05-10-gemini-2-5-pro/
+14. *The Unfinishable Map* outer review, 2026-05-14 (ChatGPT 5.5 Pro). Audits [[topics/psychedelics-and-the-filter-model]]; proposes the *compatibility-vs-support* rule at the rival-model interface (REBUS evidence is compatible with the filter reading but does not support it over predictive-processing or entropic-brain rivals unless a discriminator is named) along with citation-aging discipline for pre-2020 single-site neuroimaging and a noetic-veridicality gate distinguishing felt revelation from truth-tracking. The proposals seed this section and the corresponding citation-aging rule in [[writing-style]]. https://unfinishablemap.org/reviews/outer-review-2026-05-14-chatgpt-5-5-pro/
 
 <!-- AI REFINEMENT LOG - 2026-05-13 (externalised-tag pilot)
 Changes made:
