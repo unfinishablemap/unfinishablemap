@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T12:41:00+00:00
+ai_modified: 2026-05-14T13:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 13:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]]
+- **Word count**: 2919 → 2919 (0) — HTML refinement-log removal does not affect prose word count
+- **Critical issues addressed**: 0 — ninth review, no critical issues found across last five reviews
+- **Medium issues addressed**: 1 — removed two stale HTML refinement log blocks (2026-04-16, 2026-05-11) both marked "should be removed after human review"; substantive content preserved in archive trail
+- **Enhancements made**: 0 — administrative cleanup only; article body and conceptual structure unchanged
+- **Length status**: 2919 words, 117% of soft threshold (length-neutral mode applied)
+- **Engagement classification** (editor-internal):
+  - epiphenomenalism via self-stultification: Mode One — defective on its own terms, leveraging the epiphenomenalist's own commitment to evidence-based rational belief
+  - closure argument: Mixed (Mode Two + Mode Three) — closure premise identified as unsupported foundational move at quantum indeterminacies; rejection of strong closure declared honestly as tenet-boundary residue
+  - evolutionary objection: Mode Two — epiphenomenalism helps itself to "consciousness tracks adaptive features" without explaining systematic phenomenal-to-fitness tracking; invokes evolutionary parsimony, a standard the framework endorses
+  - knowledge argument reversed: Mode One — forces pre-established harmony, defective inside its own framework
+  - identity theory / functionalism / panpsychism (Responses section): Mode Three — costs of rival positions noted honestly without claiming refutation
+- **Forbidden-vocabulary check**: no label leakage in article body — no "Mode One/Two/Three", "direct-refutation-feasible", "unsupported-jump", "bedrock-perimeter", "Engagement classification:", "per [[direct-refutation-discipline]]" found in prose
+- **Tenet alignment**: Bidirectional Interaction (Tenet 3) preserved at full strength; three-way distinction continues to do the work of separating "all consciousness is causally coupled" (metaphysical) from "some consciousness is report-grounded" (epistemic)
+- **Stability**: article fully stable — ninth review, fifth consecutive review with no critical issues; bedrock disagreements (MWI, eliminative materialism, deflationary physicalism) noted as framework-boundary standoffs
+- **Output**: [[reviews/deep-review-2026-05-14-epiphenomenalism]]
+- **Files modified**: `obsidian/concepts/epiphenomenalism.md` (HTML comment removal + ai_modified + last_deep_review frontmatter)
+- **Published**: yes (commit deferred — automation system handles)
 
 ## 2026-05-14 12:41 UTC - deep-review
 - **Status**: Success

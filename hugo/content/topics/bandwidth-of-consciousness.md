@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-01 07:25:00+00:00
+ai_modified: 2026-05-14 12:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -242,6 +242,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Energy conservation and why selection without injection respects physics
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The materialist account of serial broadcasting and its limitations
 - [libet-experiments](/concepts/libet-experiments/) — The neural preparation findings and why they don't defeat free will
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Filter-loosening evidence: how reducing the constraint changes what reaches the conscious channel
 
 ## References
 

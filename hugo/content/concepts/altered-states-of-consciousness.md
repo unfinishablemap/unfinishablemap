@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-05-01 02:26:00+00:00
+ai_modified: 2026-05-14 12:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -173,6 +173,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — The bidirectional inaccessibility between waking and dreaming states
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across states and species?
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — How anaesthetic agents reconfigure the consciousness interface
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Dedicated treatment of psychedelic neuroimaging, REBUS, Letheby's predictive-self-binding rival, and the anaesthesia-symmetry caveat
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practices as evidence for irreducible consciousness
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How psychiatric conditions reveal the hidden architecture of consciousness
 - [death-and-consciousness](/topics/death-and-consciousness/) — Death-related altered states: deathbed visions, terminal lucidity, and nearing death awareness

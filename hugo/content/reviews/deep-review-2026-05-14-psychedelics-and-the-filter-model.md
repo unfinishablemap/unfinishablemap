@@ -94,3 +94,43 @@ Forbidden-vocabulary check: scanned the article body for "Mode One/Two/Three/Fou
 - The *coheres with* / *evidences* distinction installed in the May 14 fourth pass is the article's calibration spine. Future reviews should preserve it rather than oscillate. Reviews that try to upgrade the article's evidential-status claims past "tenet-coherent, not evidence-discriminating" are reverting prior outer-reviewer-validated calibration work and should be resisted.
 - The Letheby and anaesthesia-symmetry sections together discharge the structural critiques the 2026-05-14 outer reviewers converged on. Reviews that find these sections "too long" or "could be tighter" are pointing at the article's length problem, not at content defects. Use condense, not section removal.
 - This pass made no calibration changes. The cross-link gaps in the predictive-processing cluster were the only structural defects identified, and they are now closed.
+
+---
+
+## Pass 2 — 2026-05-14 12:41 UTC
+
+**Trigger**: A second cross-link audit invocation 31 minutes after Pass 1. Verified Pass 1's outbound work (predictive-processing cluster, DMN calibration import, filter-theory reverse link) before re-auditing reciprocal coverage across the full neighbourhood.
+
+### Critical Issues Found
+
+- **Pass 1's filter-cluster reciprocity claim was inaccurate.** Pass 1 asserted that [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), and [william-james-consciousness](/topics/william-james-consciousness/) had reciprocal backlinks to the psychedelics article. Direct inspection of each file's Further Reading section showed none of the three did. The filter-cluster reciprocity audit had been performed by frontmatter and outbound scan only, not by reading each target's Further Reading list.
+  **Resolution**: Added Further Reading entries to all three. Upgraded the existing inline body mention of "psychedelic DMN suppression" in [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) to a wikilink, since the mention was already there in prose.
+- **DMN cluster reciprocity gap on [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/).** The article is listed in the psychedelics piece's `concepts:` frontmatter and Further Reading, and the altered-states concept page discusses psychedelics extensively (Huxley reducing valve, REBUS, ego dissolution, quantum Orch OR), yet had no link back to the dedicated psychedelics article. In-scope for the audit's DMN-cluster coverage.
+  **Resolution**: Added Further Reading entry to [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) linking back to [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/).
+
+### Medium Issues Found
+
+None new. Article length remains at hard_warning (5998 words); no body changes in this pass.
+
+### Reciprocity Audit Result (post-Pass 2)
+
+| Target | Cluster | Pass 1 claim | Pass 2 verification | Fix |
+|---|---|---|---|---|
+| [filter-theory](/concepts/filter-theory/) | filter | Linked + reverse link added | ✓ Confirmed | none needed |
+| [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) | filter | Linked | ✓ Confirmed (3 mentions in body + Further Reading) | none needed |
+| [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) | filter | Linked | ✗ No reciprocal link | Added body wikilink + Further Reading entry |
+| [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) | filter | Linked | ✗ No reciprocal link | Added Further Reading entry |
+| [william-james-consciousness](/topics/william-james-consciousness/) | filter | Linked | ✗ No reciprocal link | Added Further Reading entry |
+| [default-mode-network](/concepts/default-mode-network/) | DMN | Linked + calibration imported | ✓ Confirmed | none needed |
+| [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) | DMN | Linked | ✓ Confirmed (frontmatter + body + Further Reading) | none needed |
+| [self-and-self-consciousness](/concepts/self-and-self-consciousness/) | DMN | Linked | ✓ Confirmed (frontmatter + 2 body mentions + Further Reading) | none needed |
+| [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) | DMN/concept | (not audited explicitly) | ✗ No reciprocal link despite extensive psychedelic content | Added Further Reading entry |
+| [predictive-processing](/concepts/predictive-processing/) | PP | Reciprocal link added in Pass 1 | ✓ Confirmed | none needed |
+| [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) | PP | Reciprocal link added in Pass 1 | ✓ Confirmed | none needed |
+
+### Stability Update
+
+- Pass 1's "all cross-link gaps closed" stability claim has been corrected by Pass 2. The remaining cluster — five articles after Pass 2's fixes — now genuinely has bidirectional reciprocity verified by direct file inspection rather than asserted from outbound scan alone.
+- The procedural lesson: cross-link audit reciprocity must be verified by grepping each target file's Further Reading, not inferred from frontmatter or body mentions. A target that mentions the article in prose without linking is still a reciprocity gap.
+- The article body itself was not modified in Pass 2 — only the four reciprocal target files. The psychedelics article's `last_deep_review` is updated to 12:41 UTC; `ai_modified` retains the 12:10 UTC timestamp from Pass 1 since the article body is unchanged.
+- Future deep-review cycles should not re-audit reciprocity for the same cluster within a single day; this Pass 2 was specifically corrective work driven by a re-invocation that revealed Pass 1's incomplete verification methodology.

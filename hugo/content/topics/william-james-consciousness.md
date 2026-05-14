@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-04-18 08:34:00+00:00
+ai_modified: 2026-05-14 12:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -203,6 +203,7 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism as live option is epistemically responsible
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — James's pragmatic opening developed into a full argument for dualism
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — James's *Varieties* as evidence for a structural limit on evaluating numinous experience
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Pharmacological evidence for the transmission/filter model James first articulated
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References
