@@ -60,7 +60,7 @@ Six sympathetic philosopher personas (Property Dualist, Quantum Mind Theorist, P
 
 ### Cross-links Added (Inbound - Orphan Integration)
 The article was identified as orphaned (no inbound links). Added backlinks from:
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — in "The Foundation: Why Consciousness Grounds Ethics" section
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — in "The Foundation: Why Consciousness Grounds Ethics" section
 - [meaning-of-life](/topics/meaning-of-life/) — in "Consciousness as Foundational" section
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — in opening section
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — in "Experiential Alignment" section

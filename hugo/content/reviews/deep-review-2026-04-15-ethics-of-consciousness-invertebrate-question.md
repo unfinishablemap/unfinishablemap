@@ -52,7 +52,7 @@ topics: []
 
 ### Cross-links Added (inbound, from other articles)
 - [animal-consciousness](/topics/animal-consciousness/) — Added sentence in "Moral Status" section linking to invertebrate ethics
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Added sentence in "Animal Ethics" section connecting to invertebrate question
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — Added sentence in "Animal Ethics" section connecting to invertebrate question
 - [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/) — Added to related_articles frontmatter, Further Reading, and body text (universal coupling section)
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Added sentence in metarepresentational framework section
 - [valence](/concepts/valence/) — Added sentence in "Valence and Moral Status" section

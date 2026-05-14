@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-04-05 18:48:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ title: Experiential Alignment
 topics:
 - '[[purpose-and-alignment]]'
 - '[[ai-consciousness]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 ---
 
 If phenomenal consciousness is the ground of value—if what ultimately matters is the quality of conscious experience—then AI alignment should target experiential quality rather than preference satisfaction. The [consciousness-value-connection](/concepts/consciousness-value-connection/) makes this case: value requires mattering, mattering requires experience, so without consciousness nothing has intrinsic worth. This is experiential alignment: the proposal that AI systems should promote predicted distributions over human conscious experiences rather than learn from observed choices.
@@ -261,7 +261,7 @@ The task of specifying experiential targets is itself part of the inquiry that A
 
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — The broader context connecting alignment to life's purpose
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding experiential value
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — How consciousness grounds both moral patienthood and agency
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — How consciousness grounds both moral patienthood and agency
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — First-person methods for investigating experience
 - [ai-consciousness](/topics/ai-consciousness/) — Why AI may lack the consciousness to understand preferences from inside
 - [illusionism](/concepts/illusionism/) — The strongest challenge to taking phenomenal consciousness seriously

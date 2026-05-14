@@ -91,7 +91,7 @@ All 19 wikilink targets resolve to existing files:
 - [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/) ✓
 - [ai-consciousness](/topics/ai-consciousness/) ✓
 - [meaning-of-life](/topics/meaning-of-life/) ✓
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) ✓
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) ✓
 
 ## Remaining Items
 

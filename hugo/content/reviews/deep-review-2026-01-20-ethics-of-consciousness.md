@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Ethics of Consciousness](/topics/ethics-of-consciousness/)
+**Article**: [Ethics of Consciousness](/topics/ethics-under-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

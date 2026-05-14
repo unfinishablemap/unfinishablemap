@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-26 22:23:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -56,7 +56,7 @@ related_articles:
 - '[[phenomenal-concepts-as-materialist-response]]'
 - '[[evaluative-qualia-phenomenal-normativity-across-traditions]]'
 - '[[introspection-reliability-first-person-2026-01-15]]'
-- '[[ethics-and-value-in-a-dualist-world]]'
+- '[[ethics-under-dualism]]'
 - '[[observation-and-measurement-void]]'
 - '[[voids-between-minds]]'
 - '[[objectivity-and-consciousness]]'

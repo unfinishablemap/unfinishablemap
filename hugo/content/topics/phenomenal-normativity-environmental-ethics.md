@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-04-20 15:38:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,7 @@ related_articles:
 - '[[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]'
 title: Phenomenal Normativity and Environmental Ethics
 topics:
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[animal-consciousness]]'
 ---
 
@@ -103,7 +103,7 @@ The aesthetic argument also extends to future generations. Even if no currently 
 
 Phenomenal normativity combined with the [hard problem](/topics/hard-problem-of-consciousness/) demands environmental moral humility. We cannot be certain where consciousness ends.
 
-The [graduated confidence framework](/topics/ethics-of-consciousness/#moral-uncertainty-when-we-dont-know) applies: moral consideration should be weighted by confidence in consciousness. For mammals and birds, confidence is high—they share the cortical and thalamic structures associated with consciousness in humans, display flexible behaviour, and exhibit pain responses that are neuroanatomically homologous to ours. For fish and cephalopods, confidence is moderate—they possess nociceptors, show aversive learning, and display behavioural flexibility, but their neural architectures differ substantially. For insects, confidence is low but non-zero—their behavioural complexity sometimes exceeds what reflexive processing would predict. For plants and ecosystems as wholes, near-zero—no known mechanism for unified [phenomenal experience](/concepts/evaluative-phenomenal-character/).
+The [graduated confidence framework](/topics/ethics-under-dualism/#moral-uncertainty-when-we-dont-know) applies: moral consideration should be weighted by confidence in consciousness. For mammals and birds, confidence is high—they share the cortical and thalamic structures associated with consciousness in humans, display flexible behaviour, and exhibit pain responses that are neuroanatomically homologous to ours. For fish and cephalopods, confidence is moderate—they possess nociceptors, show aversive learning, and display behavioural flexibility, but their neural architectures differ substantially. For insects, confidence is low but non-zero—their behavioural complexity sometimes exceeds what reflexive processing would predict. For plants and ecosystems as wholes, near-zero—no known mechanism for unified [phenomenal experience](/concepts/evaluative-phenomenal-character/).
 
 This uncertainty creates a practical asymmetry. The cost of treating a conscious being as if it lacks consciousness (ignoring genuine suffering) is far greater than the cost of treating a non-conscious entity as if it might be conscious (unnecessary caution). Environmental policies should err on the side of protecting beings whose consciousness status is uncertain.
 
@@ -139,7 +139,7 @@ The Map's tenets shape environmental ethics distinctively:
 
 - [phenomenal normativity / evaluative qualia](/concepts/evaluative-phenomenal-character/) — The view that experience carries intrinsic normative force; also the locus of moral phenomenology and direct moral perception
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness across beings
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — Moral implications of consciousness across beings
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for and scope of animal experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical foundation
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic normativity beyond hedonic valence

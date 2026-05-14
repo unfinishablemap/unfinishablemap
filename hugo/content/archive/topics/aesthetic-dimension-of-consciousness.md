@@ -236,7 +236,7 @@ The aesthetic dimension of consciousness supports the Map's [foundational commit
 - [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — Aesthetic experience guiding scientific theory choice
 - [qualia](/concepts/qualia/) — The broader problem of qualitative experience
 - [phenomenal unity](/concepts/unity-of-consciousness/) — The binding problem and aesthetic wholes
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of conscious experience
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — Moral implications of conscious experience
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
 - [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Why aesthetic knowledge requires experience

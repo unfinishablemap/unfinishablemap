@@ -197,7 +197,7 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical framework: phenomenal properties constitute value
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — Ethical implications of consciousness-grounded value
 - [Moral Phenomenology and Perception](/concepts/evaluative-phenomenal-character/) — What moral experience feels like and whether ethical properties can be directly perceived
 - [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — The thesis that phenomenal states carry intrinsic normative force
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands

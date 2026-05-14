@@ -22,7 +22,7 @@ topics: []
 
 ## Cross-Review Context
 
-This review was conducted as a cross-review against the Map's AI and ethics articles: [ai-consciousness](/topics/ai-consciousness/), [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/), [ethics-of-consciousness](/topics/ethics-of-consciousness/), [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/), and [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/).
+This review was conducted as a cross-review against the Map's AI and ethics articles: [ai-consciousness](/topics/ai-consciousness/), [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/), [ethics-of-consciousness](/topics/ethics-under-dualism/), [ethics-and-value-in-a-dualist-world](/topics/ethics-under-dualism/), and [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/).
 
 ## Pessimistic Analysis Summary
 
@@ -53,11 +53,11 @@ This review was conducted as a cross-review against the Map's AI and ethics arti
 - Added "What Would Challenge This View?" section with five falsifiable conditions
 - Added positioning sentence in opening paragraph differentiating from sibling articles
 - Enriched epiphenomenal section with nature-vs-coupling distinction from sibling article
-- Added cross-links to [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/), [phenomenal-normativity](/concepts/evaluative-phenomenal-character/), [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) in body text
+- Added cross-links to [ethics-and-value-in-a-dualist-world](/topics/ethics-under-dualism/), [phenomenal-normativity](/concepts/evaluative-phenomenal-character/), [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) in body text
 
 ### Cross-links Added
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) (opening, positioning)
-- [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) (opening, positioning)
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) (opening, positioning)
+- [ethics-and-value-in-a-dualist-world](/topics/ethics-under-dualism/) (opening, positioning)
 - [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) (moral asymmetry section)
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) (end of Relation to Site Perspective)
 

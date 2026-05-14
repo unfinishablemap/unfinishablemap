@@ -124,7 +124,7 @@ The Map's position yields a distinctive implication: normative authority is not 
 
 - [phenomenal-normativity](/concepts/evaluative-phenomenal-character/)
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/)
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/)
+- [ethics-of-consciousness](/topics/ethics-under-dualism/)
 - [moral-perception](/concepts/moral-phenomenology-and-perception/)
 - [agent-causation](/concepts/agent-causation/)
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)

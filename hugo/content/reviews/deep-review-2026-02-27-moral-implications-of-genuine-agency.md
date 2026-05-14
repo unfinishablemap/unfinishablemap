@@ -75,7 +75,7 @@ No attribution errors found.
 **Body text + Further Reading links added FROM these articles:**
 1. [moral-responsibility](/concepts/moral-responsibility/) — Added link in Self-Understanding section and Further Reading
 2. [free-will](/topics/free-will/) — Added link in Free Will and Personal Identity section and Further Reading
-3. [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Added link in Moral Responsibility section and Further Reading
+3. [ethics-of-consciousness](/topics/ethics-under-dualism/) — Added link in Moral Responsibility section and Further Reading
 4. [consciousness-and-agency](/apex/consciousness-and-agency/) (apex) — Added link in Moral Responsibility Grounded section
 5. [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Added link in Authentic Choice and Moral Responsibility section and Further Reading
 

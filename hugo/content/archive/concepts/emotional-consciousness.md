@@ -153,7 +153,7 @@ This connects to [attention-as-interface](/concepts/attention-as-interface/) and
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
 - [qualia](/concepts/qualia/) — The broader category of phenomenal properties, of which valence is a key instance
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical view that value is grounded in conscious experience
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Why consciousness grounds moral consideration
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — Why consciousness grounds moral consideration
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal influence through valenced assessment
 - [higher-order-theories](/concepts/higher-order-theories/) — The view that conscious emotions require higher-order representation
 - [functionalism](/concepts/functionalism/) — The view that mental states are functional roles, challenged by affective qualia

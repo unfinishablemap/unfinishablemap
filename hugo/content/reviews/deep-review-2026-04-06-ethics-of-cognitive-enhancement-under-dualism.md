@@ -64,13 +64,13 @@ Source/Map separation clear throughout. Map positions consistently introduced wi
 ### Cross-links Added (Inbound — from other articles)
 - [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) — added sentence in developmental constraint section + Further Reading entry + related_articles
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — added sentence in automatisation section + Further Reading entry
-- [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) — added to related_articles
+- [ethics-and-value-in-a-dualist-world](/topics/ethics-under-dualism/) — added to related_articles
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — added to related_articles
 
 ### Cross-links Added (Outbound — from target article)
 - [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
-- [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
+- [ethics-and-value-in-a-dualist-world](/topics/ethics-under-dualism/)
 
 ## Remaining Items
 

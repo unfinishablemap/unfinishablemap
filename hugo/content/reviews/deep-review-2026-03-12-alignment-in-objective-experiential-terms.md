@@ -53,7 +53,7 @@ topics: []
 ### Cross-links Added (Orphan Integration — Primary Focus)
 
 **Inbound links added FROM existing articles:**
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Added sentence linking to this article in the alignment/experiential targeting section
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — Added sentence linking to this article in the alignment/experiential targeting section
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Added sentence in the AI alignment implications section
 - [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — Added sentence in the AI/other minds implications section
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Added to related_articles frontmatter AND body text in experiential alignment section

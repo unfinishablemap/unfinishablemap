@@ -54,7 +54,7 @@ None. No factual errors, misattributions, broken links, or missing required sect
 - Added cross-links to ethics-and-value-in-a-dualist-world throughout
 
 ### Cross-links Added
-- [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) (frontmatter, body, Further Reading)
+- [ethics-and-value-in-a-dualist-world](/topics/ethics-under-dualism/) (frontmatter, body, Further Reading)
 - [moral-perception](/concepts/moral-phenomenology-and-perception/) (body, tenet section)
 
 ## Remaining Items

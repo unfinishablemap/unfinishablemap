@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -53,7 +53,7 @@ related_articles:
 - '[[consciousness-and-neurodegenerative-disease]]'
 - '[[phenomenology-of-cognitive-capacity]]'
 - '[[consciousness-and-moral-agency-under-duress]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[valence-and-conscious-selection]]'
 - '[[clinical-phenomenology-and-altered-experience]]'

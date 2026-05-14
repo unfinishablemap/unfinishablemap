@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-04-26 16:07:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ related_articles:
 title: The Phenomenology of Moral Life
 topics:
 - '[[moral-implications-of-genuine-agency]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[topics/free-will]]'
 - '[[meaning-of-life]]'
 ---
@@ -144,7 +144,7 @@ The phenomenology of moral life connects to the Map's [foundational commitments]
 
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical framework: phenomenal properties constitute value
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — Ethical implications of consciousness-grounded value
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — Unified treatment of moral perception, phenomenal normativity, and the first-person investigation of evaluative experience
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The shared phenomenal architecture of normative demands
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What follows for moral life when agency is real

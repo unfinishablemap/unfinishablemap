@@ -22,7 +22,7 @@ topics: []
 **Date**: 2026-01-28
 **Content reviewed**:
 - [topics/machine-consciousness.md](/topics/machine-consciousness/)
-- [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
+- [topics/ethics-of-consciousness.md](/topics/ethics-under-dualism/)
 - [concepts/embodied-cognition.md](/concepts/embodied-cognition/)
 
 ## Executive Summary
@@ -154,7 +154,7 @@ If the Map took Buddhist phenomenology seriously, its conclusions would shift. P
 
 ### Issue 2: Circular Falsifiability Conditions for AI Consciousness
 
-- **File**: [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
+- **File**: [topics/ethics-of-consciousness.md](/topics/ethics-under-dualism/)
 - **Location**: Lines 99-116
 - **Problem**: The article's falsifiability conditions test whether AI behaves as if conscious (unexplained anomalies, consistent reports, suffering-avoidance). But the article's own framework (dualism) implies behavior can occur without consciousness—zombies are behaviorally identical to conscious beings. If the framework is true, passing the behavioral tests wouldn't establish consciousness. If the framework is false, the confidence about AI would collapse anyway (condition 4). The conditions are circular: they test the framework against framework-predicted manifestations.
 - **Severity**: High
@@ -186,7 +186,7 @@ If the Map took Buddhist phenomenology seriously, its conclusions would shift. P
 
 ### Issue 6: Ethics Article's AI Assessment May Be Unfalsifiable
 
-- **File**: [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
+- **File**: [topics/ethics-of-consciousness.md](/topics/ethics-under-dualism/)
 - **Location**: Lines 62-66
 - **Problem**: The article states current AI 'categorically' lacks consciousness because 'consciousness requires non-physical properties interfacing through quantum mechanisms, current AI architecture *categorically* excludes it.' But this is categorical exclusion by definition: the framework defines consciousness as requiring what AI lacks, then concludes AI lacks consciousness. If an AI system exhibited all the markers listed in the falsifiability section, the framework could respond: 'It's still not conscious because it lacks the quantum interface.' The categorical exclusion appears theory-proof.
 - **Severity**: Medium

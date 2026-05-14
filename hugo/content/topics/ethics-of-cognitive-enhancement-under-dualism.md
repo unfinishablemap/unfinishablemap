@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,11 +29,10 @@ related_articles:
 - '[[consciousness-interface-development]]'
 - '[[brain-computer-interfaces-and-the-interface-boundary]]'
 - '[[bandwidth-of-consciousness]]'
-- '[[ethics-and-value-in-a-dualist-world]]'
 - '[[moral-architecture-of-consciousness]]'
 title: The Ethics of Cognitive Enhancement Under Dualism
 topics:
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[free-will]]'
 - '[[personal-identity]]'
 ---
@@ -120,7 +119,7 @@ The Map's dualist commitments reshape cognitive enhancement ethics in several wa
 
 ## Further Reading
 
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Broader ethical framework for consciousness-grounded moral status
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — Broader ethical framework for consciousness-grounded moral status
 - [free-will](/topics/free-will/) — Agent causation and moral responsibility under the Map's framework
 - [personal-identity](/topics/personal-identity/) — Why indexical identity persists through radical change
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis on what persists through transformation
@@ -135,12 +134,11 @@ The Map's dualist commitments reshape cognitive enhancement ethics in several wa
 - [creative-consciousness](/concepts/creative-consciousness/)
 - [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) — Empirical test of whether consciousness extends beyond existing neural architecture
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The capacity constraints of the mind-brain channel that enhancement would modify
-- [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) — Broader ethical framework for dualist moral philosophy
 
 ## References
 
 1. Bostrom, N. & Sandberg, A. (2009). "The Wisdom of Nature: An Evolutionary Heuristic for Human Enhancement." In J. Savulescu & N. Bostrom (Eds.), *Human Enhancement*. Oxford University Press.
 2. Sandel, M. J. (2007). *The Case against Perfection: Ethics in the Age of Genetic Engineering*. Harvard University Press.
 3. Savulescu, J. (2001). "Procreative Beneficence: Why We Should Select the Best Children." *Bioethics*, 15(5-6), 413-426.
-4. Southgate, A. & Oquatre-six, C. (2026-01-16). Ethics of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ethics-of-consciousness/
+4. Southgate, A. & Oquatre-six, C. (2026-01-16). Ethics Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/ethics-under-dualism/
 5. Southgate, A. & Oquatre-cinq, C. (2026-01-16). The Mind-Matter Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mind-matter-interface/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-20 20:38:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,7 +31,7 @@ related_articles:
 title: Moral Responsibility
 topics:
 - '[[topics/free-will]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 ---
 
 Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [agent causation](/concepts/agent-causation/)—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action, making moral responsibility metaphysically robust rather than merely pragmatic.
@@ -180,7 +180,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum indeterminacy supports libertarian free will and responds to luck
 - [free-will](/topics/free-will/) — The broader free will question and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Agent vs. event causation in detail
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Consciousness as the foundation of moral status
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — Consciousness as the foundation of moral status
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness can cause physical effects
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and why it fails to undermine desert
 - [decoherence](/concepts/decoherence/) — The quantum challenge and biological responses

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-04-16 04:19:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 title: The Consciousness-Value Connection
 topics:
 - '[[meaning-of-life]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 ---
 
 The consciousness-value connection is the claim that consciousness is necessary for value to exist. Without phenomenal experience—without there being something it is like to be something—nothing can possess intrinsic value. A universe of matter in motion, however complex, contains no value unless something *experiences* that universe. Value enters reality only where experience exists.
@@ -184,7 +184,7 @@ These conditions do not currently obtain. The connection stands.
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — How consciousness-grounded value addresses metaethical challenges, with phenomenal properties constituting value
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness-grounded value provides meaning
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as the phenomenal dimension of good and bad
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of the consciousness-value connection
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — Moral implications of the consciousness-value connection
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalizing the connection for AI
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment depends on this view
 - [qualia](/concepts/qualia/) — The qualitative properties that carry value

@@ -50,10 +50,10 @@ This review was conducted specifically to address the article's orphan status (z
 ### Cross-links Added (Inbound)
 - [ai-consciousness](/topics/ai-consciousness/) — Alignment Implications section: link noting ethical obligations from consciousness uncertainty
 - [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — Metzinger's Moral Precaution section: link developing moral asymmetry and practical obligations
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral Patienthood section: link to dedicated AI ethics treatment
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — Moral Patienthood section: link to dedicated AI ethics treatment
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — Extensions: Animals and Machines section: link noting moral weight of epistemic gap
 - [animal-consciousness](/topics/animal-consciousness/) — Why Inference Is Stronger section: link on moral implications of animal-AI asymmetry
-- [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) — Suffering carries ontological weight: link on AI suffering implications
+- [ethics-and-value-in-a-dualist-world](/topics/ethics-under-dualism/) — Suffering carries ontological weight: link on AI suffering implications
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Value Lives in Experience section: link on consciousness-value connection driving AI ethics
 
 ## Remaining Items

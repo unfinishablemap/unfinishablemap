@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-17 03:55:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -48,7 +48,7 @@ related_articles:
 title: Emotion and Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 ---
 
 Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia demonstrates that these properties do genuine causal work: remove the felt quality and motivation collapses, even when all functional machinery remains intact. Emotion therefore reveals not only that phenomenal properties are irreducible but that they are *causally indispensable*—unifying two conclusions that standard arguments for dualism reach only separately. The Unfinishable Map treats this convergence of irreducibility and causal efficacy as the empirical backbone of its dualist framework.
@@ -175,7 +175,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position that mind and body are distinct yet causally connected
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can be phenomenally conscious
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Whether emotional consciousness differs in nature, coupling, or both across species
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — Moral implications of consciousness
 - [moral phenomenology and perception](/concepts/evaluative-phenomenal-character/) — The felt character of wrongness, obligation, and guilt as moral qualia
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — Valence as the criterion for conscious selection
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How mood and atmosphere co-constitute place-experience

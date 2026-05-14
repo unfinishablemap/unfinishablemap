@@ -229,7 +229,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-07 10:21 UTC - refine-draft
 - **Status**: Success
-- **Files**: [simulation](/concepts/simulation/), [knowledge-argument](/concepts/knowledge-argument/), [ethics-of-consciousness](/topics/ethics-of-consciousness/)
+- **Files**: [simulation](/concepts/simulation/), [knowledge-argument](/concepts/knowledge-argument/), [ethics-of-consciousness](/topics/ethics-under-dualism/)
 - **Changes**: Integrated conditional language throughout main claims in all three articles. simulation.md: replaced "dissolves" with qualified framing, added explicit gap between thought experiment and reality. knowledge-argument.md: added new section on intuition reliability engaging Dennett/Schwitzgebel/Machery; qualified learning claim as contested; softened phenomenal concepts dismissal. ethics-of-consciousness.md: made framework-dependence of AI consciousness conclusions explicit throughout; qualified convergence claim; added conditional framing to summary.
 - **Based on**: [pessimistic-2026-02-05](/reviews/pessimistic-2026-02-05/) (Issues 1, 2, 3, 4, 5)
 - **Published**: yes

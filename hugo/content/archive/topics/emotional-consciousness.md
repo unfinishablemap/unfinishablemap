@@ -206,7 +206,7 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — How we know others are conscious
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can be phenomenally conscious
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — Moral implications of consciousness
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How mood and atmosphere co-constitute place-experience
 - [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/) — Research notes on emotions and valence
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-29 14:55:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,7 +32,7 @@ related_articles:
 title: Moral Implications of Genuine Agency
 topics:
 - '[[topics/free-will]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[phenomenology-of-moral-life]]'
 - '[[consciousness-and-moral-agency-under-duress]]'
 ---
@@ -146,7 +146,7 @@ A more honest framing: this is a philosophical framework whose grounding is larg
 - [moral-responsibility](/concepts/moral-responsibility/)
 - [agent-causation](/concepts/agent-causation/)
 - [free-will](/topics/free-will/)
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/)
+- [ethics-under-dualism](/topics/ethics-under-dualism/)
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/)
 - [moral phenomenology and perception](/concepts/evaluative-phenomenal-character/) — The felt character of wrongness, obligation, and guilt that makes moral deliberation phenomenally serious
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/)

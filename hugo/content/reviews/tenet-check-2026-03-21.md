@@ -40,7 +40,7 @@ The following files contain HTML comment blocks from the evolution loop's review
 - [topics/animal-consciousness.md](/topics/animal-consciousness/)
 - [topics/consciousness-and-neurodegenerative-disease.md](/topics/consciousness-and-neurodegenerative-disease/)
 - [topics/emergence-as-universal-hard-problem.md](/topics/emergence-as-universal-hard-problem/)
-- [topics/ethics-and-value-in-a-dualist-world.md](/topics/ethics-and-value-in-a-dualist-world/)
+- [topics/ethics-and-value-in-a-dualist-world.md](/topics/ethics-under-dualism/)
 - [topics/evolutionary-case-for-mental-causation.md](/topics/evolutionary-case-for-mental-causation/)
 - [topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/)
 - [topics/hypnagogic-phenomenology-and-interface-modulation.md](/topics/hypnagogic-phenomenology-and-interface-modulation/)

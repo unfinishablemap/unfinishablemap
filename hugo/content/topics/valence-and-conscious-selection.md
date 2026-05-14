@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-11 13:20:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ related_articles:
 title: Valence and the Mechanism of Conscious Selection
 topics:
 - '[[topics/free-will]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[emotion-and-dualism]]'
 ---

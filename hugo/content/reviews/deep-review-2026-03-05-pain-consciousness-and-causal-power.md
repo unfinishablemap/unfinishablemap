@@ -62,7 +62,7 @@ Files updated (62 link replacements across 26 files):
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) (3)
 - [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) (2)
 - [emotional-consciousness](/topics/emotion-and-dualism/) (2)
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) (4)
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) (4)
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) (2)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (2)
 - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) (3)

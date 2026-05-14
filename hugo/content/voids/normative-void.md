@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-04-29 06:49:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,7 +31,7 @@ related_articles:
 - '[[recognition-void]]'
 - '[[topics/phenomenal-value-realism]]'
 - '[[moral-responsibility]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 title: The Normative Void
 topics:
 - '[[meaning-of-life]]'

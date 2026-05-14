@@ -33,7 +33,7 @@ topics: []
 ### Counterarguments Considered
 - Eliminative materialist (Churchland) rejection of consciousness as a real category — bedrock disagreement, noted in prior reviews, not re-flagged.
 - Tegmark's denial that consciousness needs quantum substrates — bedrock disagreement, noted in prior reviews.
-- Buddhist universal compassion — out of scope (covered in [ethics-of-consciousness](/topics/ethics-of-consciousness/)), as previous review established.
+- Buddhist universal compassion — out of scope (covered in [ethics-of-consciousness](/topics/ethics-under-dualism/)), as previous review established.
 - Dennett-style functionalist disagreement — addressed via the framework-dependent transparency note, which is honest about conditional confidence.
 
 ## Optimistic Analysis Summary

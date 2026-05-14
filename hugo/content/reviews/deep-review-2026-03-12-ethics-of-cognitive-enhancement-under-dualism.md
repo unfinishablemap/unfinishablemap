@@ -57,7 +57,7 @@ topics: []
 
 ### Cross-links Added (Inbound — Orphan Integration)
 - [personal-identity](/topics/personal-identity/) — added enhancement scenario in "Implications for Survival" section
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — added link in "Identity Ethics: Copies, Uploads, and Simulations" section
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — added link in "Identity Ethics: Copies, Uploads, and Simulations" section
 - [identity-across-transformations](/apex/identity-across-transformations/) — added paragraph in "Altered States: Transformation Without Loss" section
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — added link in "The Quantum Dimension" section
 - [childhood-development-and-the-interface](/topics/consciousness-interface-development/) — added paragraph in "The Developing Architecture" section

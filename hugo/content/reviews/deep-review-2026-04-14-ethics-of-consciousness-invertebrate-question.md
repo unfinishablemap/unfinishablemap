@@ -54,7 +54,7 @@ topics: []
 - Bridging sentence connecting the graduated confidence framework to the invertebrate frontier
 
 ### Cross-links Added
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) (body text wikilink added in "Moral Status Without Moral Agency" section)
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) (body text wikilink added in "Moral Status Without Moral Agency" section)
 
 ## Cross-Review Observations
 

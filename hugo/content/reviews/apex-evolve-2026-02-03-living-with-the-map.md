@@ -25,7 +25,7 @@ Four sources modified after last synthesis:
    - Expanded contemplative evidence (witness consciousness, phenomenology of depth, durée)
    - Strengthened illusionist response section
 
-2. **[ethics-of-consciousness](/topics/ethics-of-consciousness/)** (modified 2026-02-02T20:46:00+00:00)
+2. **[ethics-of-consciousness](/topics/ethics-under-dualism/)** (modified 2026-02-02T20:46:00+00:00)
    - Added "What Would Change the AI Assessment?" section with falsifiability conditions
    - Refined moral uncertainty treatment
 

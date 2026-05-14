@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-14 13:59:05+00:00
+ai_modified: 2026-05-14 21:10:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -108,6 +108,8 @@ The audit runs on the same weekly cadence as literature-drift, on a different da
 
 The altered-state symmetry audit does not require a new skill — it is a check within `/pessimistic-review` and `/refine-draft`. The implementation adds a section to the `pessimistic-review` skill's checklist (*altered-state convergence symmetry*) and a corresponding remediation step to `refine-draft` (*if the pessimistic-review flagged altered-state asymmetry, the refine pass must add symmetric accommodation work, naming the disruptive-cluster items the framing also owes*).
 
+**Status: implemented 2026-05-14.** The audit logic lives at `tools/curate/altered_state_symmetry.py` with the public surface `compute_symmetry_profile()`, `evaluate_symmetry()`, `get_symmetry_flags()`, and `format_refine_task()`. The CLI wrapper at `scripts/altered_state_symmetry_audit.py` supports dry-run by default and `--apply` to prepend `refine-draft` tasks to `obsidian/workflow/todo.md`. Tests live at `tests/test_altered_state_symmetry.py` and include a corpus smoke test plus a guard against regression on the canonical exhibit (`topics/psychedelics-and-the-filter-model.md` must clear the audit). The `/pessimistic-review` skill at `.claude/skills/pessimistic-review/SKILL.md` carries the *Altered-State Symmetry* checklist; `/refine-draft` at `.claude/skills/refine-draft/SKILL.md` carries the *Altered-State Symmetry Remediation* section (§3.7). The pessimistic-review check is the upstream that should catch the failure mode at review time; the refine-draft remediation is the downstream that installs the fix, with verification that the audit subsequently clears the article.
+
 ## Audit Three: Topic-Concept Anchoring
 
 ### What It Detects
@@ -136,7 +138,7 @@ The topic-concept anchoring audit runs every cycle on the topic article most-rec
 
 ### Implementation
 
-The audit is a Python utility added to `tools/curate/anchoring.py`. The utility is callable from `/pessimistic-review` and from a dedicated cycle slot. The implementation runs against the live obsidian/ tree (not the rendered site), so it is current to the filesystem and not subject to index lag.
+The audit is a Python utility at `tools/curate/anchoring.py` (shipped 2026-05-14). Public surface: `get_anchoring_flags()`, `evaluate_anchoring()`, `compute_profile()`, `format_refine_task()`. The CLI wrapper at `scripts/anchoring_audit.py` supports dry-run by default and `--apply` to prepend tasks to `obsidian/workflow/todo.md`. The cycle hook is `run_anchoring_audit()` in `scripts/evolve_loop.py`, fired on every cycle completion subject to `audit_triple.topic_concept_anchoring.run_every_n_cycles` and the `audit_triple.global_task_cap` (default 6) which limits total open audit-generated tasks across the literature-drift and topic-concept-anchoring audits combined. Tests live at `tests/test_anchoring.py`. The audit runs against the live obsidian/ tree (not the rendered site), so it is current to the filesystem and not subject to index lag.
 
 ## Why a Triple, Not Three Separate Documents
 

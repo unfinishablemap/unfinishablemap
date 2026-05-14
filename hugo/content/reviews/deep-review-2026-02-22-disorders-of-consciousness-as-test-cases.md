@@ -49,7 +49,7 @@ No new counterarguments needed—all were addressed in the previous review. Bedr
   - [filter-theory](/concepts/filter-theory/) (covert consciousness section)
   - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) (filter theory section)
   - [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/) (opening comparison of dissociations)
-  - [ethics-of-consciousness](/topics/ethics-of-consciousness/) (vegetative states mention)
+  - [ethics-of-consciousness](/topics/ethics-under-dualism/) (vegetative states mention)
   - [integrated-information-theory](/concepts/integrated-information-theory/) (What's Unconscious section)
   - [functionalism](/concepts/functionalism/) (boundary cases section)
 

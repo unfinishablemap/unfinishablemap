@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-11 13:20:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ related_articles:
 title: Phenomenal Value Realism
 topics:
 - '[[meaning-of-life]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[emotion-and-dualism]]'
 ---
 
@@ -253,7 +253,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The full arc of moral consciousness from perception through deliberation to choice
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — Ethical implications of consciousness-grounded value
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalising phenomenal value realism for AI alignment
 - [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/) — Why phenomenal qualities ground genuinely objective alignment criteria
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment should target experiential quality

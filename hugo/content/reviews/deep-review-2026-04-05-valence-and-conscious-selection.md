@@ -57,7 +57,7 @@ Six new inline cross-references from articles that discuss valence-based selecti
 1. **[the-interface-specification-problem](/topics/the-interface-problem/)** — In "Three Unspecified Candidates" section, after the Valence → action selection bullet, connecting to the selection currency thesis as the developed version of this candidate
 2. **[evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/)** — In Minimal Quantum Interaction tenet paragraph, linking the value-blind/value-sensitive fork to the normative guidance question
 3. **[evolution-of-consciousness](/concepts/evolution-of-consciousness/)** — In "The Epiphenomenalist Challenge" section, linking "felt valence guides behaviour" to the selection mechanism article
-4. **[ethics-of-consciousness](/topics/ethics-of-consciousness/)** — In "Suffering: The Moral Core" section, connecting negative valence to the selection currency thesis (valence not epiphenomenal but participatory)
+4. **[ethics-of-consciousness](/topics/ethics-under-dualism/)** — In "Suffering: The Moral Core" section, connecting negative valence to the selection currency thesis (valence not epiphenomenal but participatory)
 5. **[animal-consciousness](/topics/animal-consciousness/)** — In "Emotional Consciousness and Animal Sentience" section, linking felt badness to the valence-based selection framework across species
 6. **[evaluative-qualia](/concepts/evaluative-phenomenal-character/)** — In Minimal Quantum Interaction tenet paragraph, connecting consciousness biasing outcomes to the formal selection currency thesis
 

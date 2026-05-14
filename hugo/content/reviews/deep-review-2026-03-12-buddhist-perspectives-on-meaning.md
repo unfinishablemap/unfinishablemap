@@ -51,7 +51,7 @@ No new counterarguments beyond those addressed in the previous review. The train
 ### Cross-links Added
 - [personal-identity](/topics/personal-identity/) — in no-self section
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — in witness consciousness section
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — in ethics section
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — in ethics section
 - [death-and-consciousness](/topics/death-and-consciousness/) — in impermanence section
 - [phenomenology-of-meaning-making](/topics/phenomenology-of-understanding-and-meaning/) — in Further Reading
 

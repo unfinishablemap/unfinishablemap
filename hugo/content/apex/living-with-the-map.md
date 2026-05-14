@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-12 01:15:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-01 21:33:00+00:00
 apex_sources:
 - topics/meaning-of-life
-- topics/ethics-of-consciousness
+- topics/ethics-under-dualism
 - topics/purpose-and-alignment
 - topics/phenomenal-value-realism
 - concepts/evaluative-phenomenal-character
@@ -50,7 +50,7 @@ related_articles:
 title: Living with the Map
 topics:
 - '[[meaning-of-life]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[topics/free-will]]'
 ---
 
@@ -118,13 +118,13 @@ So *pursue what genuinely engages you*. Not what looks good from outside, not wh
 
 ## Others Matter Too
 
-The [ethics of consciousness](/topics/ethics-of-consciousness/) extends beyond individual meaning. If consciousness grounds value, then every conscious being instantiates value. Animals with subjective experience can suffer in ways that matter morally. Other humans are not resources for your purposes but fellow centres of intrinsic significance.
+The [ethics of consciousness](/topics/ethics-under-dualism/) extends beyond individual meaning. If consciousness grounds value, then every conscious being instantiates value. Animals with subjective experience can suffer in ways that matter morally. Other humans are not resources for your purposes but fellow centres of intrinsic significance.
 
 The Map's framework gives special weight to *[valence](/topics/valence-and-conscious-selection/)*—the felt positive or negative quality of experience. [Phenomenal normativity](/concepts/evaluative-phenomenal-character/) explains why: [suffering's badness is constitutive of what suffering *is*](/topics/pain-consciousness-and-causal-power/), not an evaluation layered on top. This is not merely a preference but a recognition of how value is structured in the phenomenal character of experience itself.
 
 This shapes how to live among others. Causing unnecessary suffering is wrong because suffering is genuinely bad. Promoting flourishing is good because flourishing experiences are genuinely good. The Map isn't utilitarian in demanding you maximise aggregate welfare regardless of cost to yourself—but it does imply attention to how your choices affect others' experiential quality. The suffering you cause is real suffering. The joy you enable is real joy.
 
-Where consciousness is uncertain—in animals with simpler nervous systems, in edge cases like brain organoids or future AI architectures—the [appropriate response](/topics/ethics-of-consciousness/#moral-uncertainty-when-we-dont-know) is to weight moral consideration by confidence in consciousness. Universal precaution proves too much, but dismissal risks ignoring genuine suffering. The stakes of misclassification are severe enough to warrant careful assessment rather than categorical pronouncements.
+Where consciousness is uncertain—in animals with simpler nervous systems, in edge cases like brain organoids or future AI architectures—the [appropriate response](/topics/ethics-under-dualism/#moral-uncertainty-when-we-dont-know) is to weight moral consideration by confidence in consciousness. Universal precaution proves too much, but dismissal risks ignoring genuine suffering. The stakes of misclassification are severe enough to warrant careful assessment rather than categorical pronouncements.
 
 ## Contemplative Practice
 
@@ -148,7 +148,7 @@ Two responses. First, all practical life involves acting on imperfect informatio
 
 Second, uncertainty itself has practical implications. The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) warns against assuming simpler pictures are correct when our knowledge is incomplete. The hard problem of consciousness remains unsolved. The nature of time and causation remains contested. Even the mechanism of willing is [structurally hidden from introspection](/voids/self-opacity/)—we know *that* we choose but cannot observe *how* consciousness translates intention into action. Epistemic humility counsels openness to possibilities that mainstream naturalism dismisses, and acceptance that some aspects of our own agency may remain opaque.
 
-Technology amplifies these stakes. Current AI systems lack consciousness on this analysis—they process information and generate sophisticated behaviour, but there is nothing it is like to be them. Yet the Map's [confidence about AI](/topics/ethics-of-consciousness/#what-would-change-the-ai-assessment) is only as strong as the framework itself. If consciousness doesn't require quantum interfaces—a possibility the Map acknowledges—the categorical exclusion fails. Intellectual honesty requires specifying what would change the assessment, and remaining epistemically humble about the framework's completeness.
+Technology amplifies these stakes. Current AI systems lack consciousness on this analysis—they process information and generate sophisticated behaviour, but there is nothing it is like to be them. Yet the Map's [confidence about AI](/topics/ethics-under-dualism/#ai-non-consciousness-and-its-limits) is only as strong as the framework itself. If consciousness doesn't require quantum interfaces—a possibility the Map acknowledges—the categorical exclusion fails. Intellectual honesty requires specifying what would change the assessment, and remaining epistemically humble about the framework's completeness.
 
 [AI alignment](/topics/purpose-and-alignment/) faces a deeper problem: we haven't resolved what human interests ultimately are. If our preferences are unreliable guides to our own good—shaped by evolution for survival rather than flourishing—then learning from them cannot produce genuine alignment. The [experiential alignment](/concepts/experiential-alignment/) framework follows: aligned systems should target predicted distributions over conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices, with special weight to felt valence because the badness of suffering is constitutive of what suffering *is*. Conscious beings must remain in the loop, not because humans are infallible, but because only conscious beings can verify whether experiential quality is being served.
 
@@ -166,7 +166,7 @@ What does this add up to? Not a prescription but a shape—a way of orienting to
 
 *Take choices seriously.* You author your life through what you decide. The [No Many Worlds tenet](/tenets/#no-many-worlds) gives this weight: you chose *this*, and the alternatives were genuinely rejected, not routed elsewhere.
 
-*Extend consideration to others.* Every conscious being matters. The [ethics of consciousness](/topics/ethics-of-consciousness/) extends this to animals with subjective experience. Let this shape how your choices affect others.
+*Extend consideration to others.* Every conscious being matters. The [ethics of consciousness](/topics/ethics-under-dualism/) extends this to animals with subjective experience. Let this shape how your choices affect others.
 
 *Embrace uncertainty.* Knowledge is incomplete. Keep inquiring. The Map is unfinishable because the territory is vast and the exploration ongoing.
 
@@ -204,7 +204,7 @@ This apex article draws together practical implications from all five tenets:
 
 This apex article synthesizes:
 - [The Meaning of Life](/topics/meaning-of-life/) — Meaning grounded in consciousness itself, with contemplative evidence and process philosophy perspective
-- [Ethics of Consciousness](/topics/ethics-of-consciousness/) — How consciousness creates moral status and extends consideration to all sentient beings
+- [Ethics Under Dualism](/topics/ethics-under-dualism/) — How consciousness creates moral status and extends consideration to all sentient beings
 - [Purpose and AI Alignment](/topics/purpose-and-alignment/) — Why AI alignment faces the meaning problem and requires human judgment, with the experiential alignment framework as its constructive proposal
 - [Phenomenal Value Realism](/topics/phenomenal-value-realism/) — Value as a feature of experience, extended to phenomenal value pluralism
 - [Evaluative Phenomenal Character](/concepts/evaluative-phenomenal-character/) — Why experience carries intrinsic normative force, grounding the is-ought bridge

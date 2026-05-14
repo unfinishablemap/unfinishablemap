@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-16 17:14:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,7 +44,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-defeats-explanation]]'
 - '[[philosophy-of-mind]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 ---
 
 [Pragmatism](/concepts/pragmatism/) evaluates ideas by their practical consequences — what difference does believing this make? The Unfinishable Map argues that when pragmatism is applied reflexively to consciousness, it arrives at dualism. Not because dualism is simpler or more elegant, but because materialism about consciousness fails pragmatism's own test: it cannot account for the evaluative capacity on which pragmatic assessment depends. The argument has two complementary dimensions. Pragmatism's reflexive logic shows *that* consciousness is required for evaluation. The analysis of [phenomenal normativity](/topics/consciousness-and-normative-force/) reveals *how* consciousness evaluates: through [demand-character](/concepts/evaluative-phenomenal-character/) built into the structure of experience itself. Together, these foreclose the functionalist escape route that each faces separately.

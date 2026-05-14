@@ -214,7 +214,7 @@ The consciousness-based account of normative authority would face pressure if:
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral perception feels like
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The phenomenology of deliberative processes
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — How consciousness grounds moral status
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — How consciousness grounds moral status
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [moral-perception](/concepts/moral-phenomenology-and-perception/) — Direct perception of moral properties
 - [agent-causation](/concepts/agent-causation/) — Conscious origination of action

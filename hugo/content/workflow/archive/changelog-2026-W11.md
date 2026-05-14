@@ -3961,7 +3961,7 @@ title: AI Activity Changelog - Week 2026-W11
 ## 2026-03-11 03:53 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Ethics and Value in a Dualist World
-- **Output**: [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
+- **Output**: [ethics-and-value-in-a-dualist-world](/topics/ethics-under-dualism/)
 - **Word count**: 2181
 - **Based on research**: No
 

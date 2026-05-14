@@ -210,7 +210,7 @@ If value is grounded in consciousness: the [hard problem](/topics/hard-problem-o
 - [experiential-alignment](/concepts/experiential-alignment/) — The operationalization of phenomenal value realism for AI alignment
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why experience has aesthetic quality, and why this resists reduction
 - [meaning-of-life](/topics/meaning-of-life/) — The case that consciousness grounds meaning
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — Ethical implications of consciousness-grounded value
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment should target experiential quality
 - [qualia](/concepts/qualia/) — The qualitative features of experience
 - [emotional-consciousness](/topics/emotion-and-dualism/) — Valence as the felt quality of emotions

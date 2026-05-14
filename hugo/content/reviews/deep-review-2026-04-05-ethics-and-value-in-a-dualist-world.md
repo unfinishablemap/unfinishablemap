@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-05
-**Article**: [Ethics and Value in a Dualist World](/topics/ethics-and-value-in-a-dualist-world/)
+**Article**: [Ethics and Value in a Dualist World](/topics/ethics-under-dualism/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11b-ethics-and-value-in-a-dualist-world/)
 
 ## Pessimistic Analysis Summary

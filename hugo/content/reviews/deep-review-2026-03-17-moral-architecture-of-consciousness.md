@@ -56,8 +56,8 @@ None. The article has all required sections, no factual errors, no misattributio
 
 ### Cross-links Added
 From source articles (related_articles + Further Reading):
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/)
-- [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
+- [ethics-of-consciousness](/topics/ethics-under-dualism/)
+- [ethics-and-value-in-a-dualist-world](/topics/ethics-under-dualism/)
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/)
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)

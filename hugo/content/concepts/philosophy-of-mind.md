@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-03-23 12:53:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -57,7 +57,7 @@ The field organises around several core problems:
 
 - **[Personal identity](/topics/personal-identity/)**: What makes a person the same conscious subject across time? Is identity grounded in psychological continuity, physical continuity, or something else?
 
-These problems are not merely academic puzzles. They determine how we think about [free will](/topics/free-will/) (if consciousness is epiphenomenal, libertarian freedom is impossible), [moral status](/topics/ethics-of-consciousness/) (which entities deserve moral consideration depends on which are conscious), [machine consciousness](/topics/ai-consciousness/) (whether functional equivalence suffices for experience), and what kind of beings we are.
+These problems are not merely academic puzzles. They determine how we think about [free will](/topics/free-will/) (if consciousness is epiphenomenal, libertarian freedom is impossible), [moral status](/topics/ethics-under-dualism/) (which entities deserve moral consideration depends on which are conscious), [machine consciousness](/topics/ai-consciousness/) (whether functional equivalence suffices for experience), and what kind of beings we are.
 
 ## Major Positions
 

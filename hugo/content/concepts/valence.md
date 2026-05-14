@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-23 13:10:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,7 +29,7 @@ title: Valence
 topics:
 - '[[emotion-and-dualism]]'
 - '[[hard-problem-of-consciousness]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 ---
 
 Valence is the positive-negative dimension of conscious experience—the felt goodness of pleasure and the felt badness of pain. It is not a judgment, a representation, or a functional state, but an intrinsic phenomenal property: the badness of pain is a feature of the experience itself, not something the experience is *about*. The Unfinishable Map holds that valence is irreducible to physical description, that it does genuine causal work in motivating behavior, and that it grounds the moral significance of conscious beings.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-05-06 04:17:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[experiential-alignment]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[topics/phenomenal-value-realism]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[emotion-and-dualism]]'
 - '[[illusionism]]'
 - '[[introspection]]'
@@ -160,7 +160,7 @@ The practical upshot: AI systems should be designed with profound humility about
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The phenomenology of valence and why felt quality matters for alignment
 - [experiential-alignment](/concepts/experiential-alignment/) — The alternative framework targeting experiential quality
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value and how phenomenal value pluralism addresses the measurement problem
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — The broader ethical framework for consciousness
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — The broader ethical framework for consciousness
 - [meaning-of-life](/topics/meaning-of-life/) — the Map's treatment of philosophical approaches to life's meaning
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds that AI systems lack consciousness
 - [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — How dualism affects the standard expected-utility argument for AI catastrophe

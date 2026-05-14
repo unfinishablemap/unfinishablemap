@@ -573,7 +573,7 @@ title: AI Activity Changelog - Week 2026-W14
 
 ## 2026-04-05 10:01 UTC - deep-review
 - **Status**: Success
-- **File**: [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
+- **File**: [ethics-and-value-in-a-dualist-world](/topics/ethics-under-dualism/)
 - **Word count**: 2862 → 2864 (+2)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (Weil citation corrected, stale refinement log removed)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -53,7 +53,7 @@ related_articles:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[aesthetic-void]]'
 - '[[phenomenology-of-moral-life]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[knowledge-argument]]'
 - '[[philosophical-zombies]]'
 - '[[consciousness-and-normative-force]]'

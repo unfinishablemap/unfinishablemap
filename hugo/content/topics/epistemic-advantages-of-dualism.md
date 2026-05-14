@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-05 04:17:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ last_deep_review: 2026-05-05 04:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[purpose-and-alignment]]'
 - '[[dualism]]'
 - '[[philosophical-zombies]]'
@@ -191,7 +191,7 @@ The price of this openness is entertaining possibilities that may turn out to be
 - [materialism](/concepts/materialism/) — The position this article critiques
 - [mysterianism](/concepts/mysterianism/) — Why we may have cognitive limits on understanding consciousness
 - [filter-theory](/concepts/filter-theory/) — An alternative to productive models of consciousness
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness attribution
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — Moral implications of consciousness attribution
 - [illusionism](/concepts/illusionism/) — The strongest materialist response and why it fails
 - [introspection](/concepts/introspection/) — The reliability of first-person access
 - [decoherence](/concepts/decoherence/) — Quantum coherence challenges and responses

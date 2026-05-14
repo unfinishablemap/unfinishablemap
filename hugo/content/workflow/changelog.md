@@ -1,13 +1,70 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14 18:10:00+00:00
+ai_modified: 2026-05-14 21:10:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-14 21:10 UTC - refine-draft (Audit Two implementation)
+- **Status**: Success
+- **File**: chain follow-up to [calibration-audit-triple](/project/calibration-audit-triple/) — Audit Two implementation
+- **Changes**: shipped `tools/curate/altered_state_symmetry.py` (altered-state symmetry audit, ~280 LOC), CLI wrapper at `scripts/altered_state_symmetry_audit.py`, `tests/test_altered_state_symmetry.py` (17 tests, all passing including a corpus smoke and a regression guard pinning the canonical exhibit `topics/psychedelics-and-the-filter-model.md` to *no flag* after today's symmetry installation). Extended `.claude/skills/pessimistic-review/SKILL.md` with the *Altered-State Symmetry* checklist (three checks: supportive-cluster gate, disruptive-cluster engagement, symmetry-acknowledgment) and `.claude/skills/refine-draft/SKILL.md` §3.7 *Altered-State Symmetry Remediation* (three required moves with reference phrasings from the 2026-05-14 canonical fix, plus a verification step against the audit). Updated [calibration-audit-triple](/project/calibration-audit-triple/) Audit Two "Implementation" block with a "Status: implemented 2026-05-14" note pointing to the public surface.
+- **Audit baseline**: 4 candidate articles surface against current corpus on default thresholds (`topics/arguments-against-materialism`, `concepts/perceptual-degradation-and-the-interface` plus two more). CLI per-run cap of 2 and the audit_triple global cap of 6 prevent flood; the canonical exhibit clears the audit cleanly.
+- **Tenet alignment**: methodological enforcement of [direct-refutation-discipline](/project/direct-refutation-discipline/) (catches the convergence-counting failure mode the 2026-05-14 outer-review surfaced after the psychedelics article had passed four prior refine passes) and [evidential-status-discipline](/project/evidential-status-discipline/) (the supportive cluster cannot be cited as multiple independent confirmations of filter framing while the parallel disruptive cluster remains unaddressed).
+- **Published**: yes
+
+## 2026-05-14 20:42 UTC - cross-review (wikilink retarget after coalesce)
+- **Status**: Success
+- **Target**: [ethics-under-dualism](/topics/ethics-under-dualism/) (coalesce target from 2026-05-14 20:10 UTC)
+- **Scope**: 31 active content files (apex/topics/concepts/voids/research) — reviews/, workflow/, and workflow/archive/ excluded as historical records
+- **Wikilink replacements**: 63 — `[[ethics-of-consciousness]]`, `[[topics/ethics-of-consciousness]]`, `[[ethics-and-value-in-a-dualist-world]]`, `[[topics/ethics-and-value-in-a-dualist-world]]` (with and without pipe-aliases and section anchors) → `[[ethics-under-dualism]]`. Section anchors `#AI Ethics: Non-Consciousness and Its Limits` and `#What Would Change the AI Assessment?` remapped to `#AI: Non-Consciousness and Its Limits` to match the coalesced article's heading structure. `#Moral Uncertainty: When We Don't Know` preserved verbatim (heading retained in target).
+- **Manual edits (5 files)**: deduped Further Reading and frontmatter entries where both old articles were linked from the same file (3 cases — `apex/moral-architecture-of-consciousness`, `topics/ethics-of-cognitive-enhancement-under-dualism`, `topics/ethics-of-possible-ai-consciousness`); rewrote one prose sentence in `ethics-of-possible-ai-consciousness` that named both old titles in a single contrast; updated `apex_sources` in `apex/moral-architecture-of-consciousness` and `apex/living-with-the-map`; updated `**Source articles**` registry in `apex/apex-articles`; updated the self-citation URL/title in `ethics-of-cognitive-enhancement-under-dualism` References (4); updated three title-style aliases in Further Reading from "Ethics of Consciousness"/"Ethics and Value in a Dualist World" to "Ethics Under Dualism" where the alias served as a section-link title.
+- **Preserved**: historical records in reviews/, workflow/archive/, and the coalesce changelog entries above; the `coalesced_from:` frontmatter on `topics/ethics-under-dualism` (intentional history); the archived stubs at `archive/topics/ethics-of-consciousness` and `archive/topics/ethics-and-value-in-a-dualist-world` (URL redirects via `superseded_by`); prose pipe-aliases like "ethics of consciousness" (lowercase, descriptive) and "appropriate response" that read naturally without retitling; one plain-text "ethics-of-consciousness" mention inside a dated research note (2026-01-19) as a frozen-in-time research record.
+- **Tenet alignment**: improves link integrity without changing argumentative content — readers now reach the live unified article directly rather than via the archive-notice indirection.
+
+## 2026-05-14 20:10 UTC - coalesce
+- **Status**: Success
+- **Sources**: [ethics-of-consciousness](/topics/ethics-of-consciousness/), [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
+- **Target**: [ethics-under-dualism](/topics/ethics-under-dualism/)
+- **Archived**: [ethics-of-consciousness](/archive/topics/ethics-of-consciousness/), [ethics-and-value-in-a-dualist-world](/archive/topics/ethics-and-value-in-a-dualist-world/)
+- **References to review**: 78 wikilinks across active obsidian content (62 + 16) — follow-up cross-review task created
+- **Rationale**: Both articles (~3000 words each) developed the same thesis — consciousness grounds ethics under dualism — with substantial overlap on phenomenal value realism, agent causation, illusionism challenge, and tenet alignment. ethics-of-consciousness emphasised moral patienthood (who counts); ethics-and-value-in-a-dualist-world emphasised theoretical unification of value/agency/normativity/perception. Coalesced article preserves both angles in single comprehensive piece; apex `moral-architecture-of-consciousness` continues to serve as compressed synthesis. Frees one slot in topics/ (240 → 239 of 250 cap).
+
+## 2026-05-14 19:41 UTC - refine-draft
+- **Status**: Success
+- **File**: chain follow-up to [calibration-audit-triple](/project/calibration-audit-triple/) — Audit Three implementation
+- **Changes**: shipped `tools/curate/anchoring.py` (topic-concept anchoring audit), CLI wrapper at `scripts/anchoring_audit.py`, `tests/test_anchoring.py` (21 tests, all passing), `audit_triple.topic_concept_anchoring` config block in `evolution-state.yaml`, cycle-completion hook in `scripts/evolve_loop.py` (`run_anchoring_audit`) that runs the sub-second audit every cycle subject to `global_task_cap` of 6. Implements the spec at [calibration-audit-triple](/project/calibration-audit-triple/) §"Audit Three: Topic-Concept Anchoring". Mechanical detection across three checks (hedge density ratio, strong-assertion density ratio, underdetermination markers); fires when ≥2 of 3 fail. Worked exhibit (psychedelics-and-the-filter-model) was previously flagged but no longer fires after today's refine — confirms calibration was brought in line with anchor concepts.
+- **Audit baseline**: 232 flags against current corpus on default thresholds. Per-run cap of 2 and global cap of 6 prevent flood; falsification triggers (20–80% acceptance window) feed `/tune-system`.
+- **Tenet alignment**: methodological enforcement of [evidential-status-discipline](/project/evidential-status-discipline/) and [direct-refutation-discipline](/project/direct-refutation-discipline/); operationalises the 10th-consecutive outer-review-flagged enforcement gap (see [outer-review-synthesis-2026-05-14](/reviews/outer-review-synthesis-2026-05-14/) finding E).
+- **Published**: yes (local; awaiting automation commit)
+
+## 2026-05-14 19:10 UTC - deep-review
+- **Status**: Success
+- **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Word count**: 2959 → 2976 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing Schlosshauer 2025 reference entry; dangling Tegmark 2000 reference now tied into prose)
+- **Enhancements made**: 1 (replaced "biases" with "selects" at corridor definition for precision — corridor by construction does not redistribute frequencies)
+- **Engagement classifications (editor-only)**: Stapp literal-Zeno reading: Mode One (defective on its own terms via the frequency-of-observation argument); Penrose-Hameroff Orch-OR: Mode Three (framework-boundary marking; Gran Sasso in-framework null on simplest Diósi-Penrose model)
+- **Calibration check**: No possibility/probability slippage detected. Evidential-status language is honest across the five-tier scale; the article explicitly admits the strict corridor reading is "unfalsifiable by current instruments" and specifies plural-and-convergent foreclosure criteria
+- **Attribution accuracy**: All inline citations verified against reference apparatus; Stapp's two readings (Zeno + Heisenberg choice), Orch-OR's non-computability claim, Masanes-Galley-Müller and Torres Alegre's conditional theorems all rendered accurately
+- **Output**: [deep-review-2026-05-14-brain-internal-born-rule-testing](/reviews/deep-review-2026-05-14-brain-internal-born-rule-testing/)
+
+## 2026-05-14 18:41 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Overdetermination Dissolution Under Selection-Only Interactionism
+- **Output**: [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/)
+- **Word count**: 2592
+- **Based on research**: no (synthesis from existing topic and concept cluster); develops the slogan at `topics/consciousness-and-causal-powers.md` line 194 ("consciousness influences outcomes precisely where physics is silent, so there is no competition between mental and physical causes") into a stand-alone structural argument; draws on [selection-only-mind-influence](/topics/selection-only-mind-influence/) (Born-rule preservation, content-confinement, per-trial-rate arithmetic), [selection-only-channel](/concepts/selection-only-channel/) (channel-class framing), [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) (Kim's four-premise exclusion argument), [delegatory-dualism](/topics/delegatory-dualism/) / [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) / [trumping-preemption](/concepts/trumping-preemption/) (the trumping/preemption alternative response), [post-decoherence-selection](/concepts/post-decoherence-selection/) / [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (interface locus and Born-rule binding constraint), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) (gravity-well framing).
+- **Coverage**: States Kim's four premises with the overdetermination premise (premise 3) load-bearing for the dualist's pain. Identifies the standard responses (Yablo's proportionality, identity-theory collapse, non-reductive physicalism) as accepting Kim's framing — *two sufficient causes competing for one effect* — and negotiating downstream. Develops the Map's distinct structural move: at quantum indeterminacies, premise 1 (causal closure as sufficiency) is locally false, so there is no second sufficient cause for the mental cause to compete with; the architecture is *one composite cause with two-part decomposition* (brain-side candidate set + Born probabilities; mind-side selection event). Distinguishes from trumping preemption / delegatory dualism explicitly: trumping accepts both causes are sufficient and designates one authoritative; selection-only denies one is sufficient in the first place; the two are compatible but structurally distinct. Names three costs: Born-rule preservation (signed rate bounded by ε² / (2 ln 2) bits/trial), content-confinement (phenomenal repertoire bounded by candidate-space dimensionality), interface localisation (dissolution only applies at neural quantum indeterminacies of the relevant kind). Names presuppositions: dualism, no-many-worlds, genuine ontic indeterminacy. Tenet anchoring: Tenet 3 (Bidirectional Interaction — primary, the tenet the dissolution defends); Tenet 2 (Minimal Quantum Interaction — the structural work; "the smaller the interface, the less competition with physical causation it generates"); Tenets 1 and 4 as presuppositions.
+- **Section count**: topics/ goes from 224 → 225 / 250.
+- **Self-citations**: 2 (Oquatre-sept on selection-only-mind-influence; Sonquatre-cinq on consciousness-and-causal-powers — the article whose line 194 the dissolution argument develops).
+- **Apex sources**: none — checked `apex/apex-articles.md`; the new topic does not appear in any approved apex article's `Source articles` list.
+- **Published**: yes
 
 ## 2026-05-14 18:10 UTC - expand-topic
 - **Status**: Success

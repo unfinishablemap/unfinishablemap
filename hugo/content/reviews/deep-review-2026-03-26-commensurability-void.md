@@ -53,7 +53,7 @@ topics: []
 - [intersubjective-void](/voids/voids-between-minds/) — Added to Further Reading
 - [synesthetic-void](/voids/synesthetic-void/) — Added contextual link in "The Geometry of Experiential Possibility" section
 - [animal-consciousness](/topics/animal-consciousness/) — Added contextual link in "What Is It Like to Be a Bat?" section
-- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Added contextual link in "Animal Ethics" section
+- [ethics-of-consciousness](/topics/ethics-under-dualism/) — Added contextual link in "Animal Ethics" section
 - [ai-consciousness](/topics/ai-consciousness/) — Added to Further Reading
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Added to Further Reading
 - [qualia](/concepts/qualia/) — Added contextual link in "Private" subsection

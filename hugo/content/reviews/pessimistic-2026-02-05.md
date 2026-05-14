@@ -23,7 +23,7 @@ topics: []
 **Content reviewed**:
 - [concepts/simulation.md](/concepts/simulation/)
 - [concepts/knowledge-argument.md](/concepts/knowledge-argument/)
-- [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
+- [topics/ethics-of-consciousness.md](/topics/ethics-under-dualism/)
 
 ## Executive Summary
 
@@ -119,7 +119,7 @@ The article's response—'emptiness doesn't mean nonexistence but rather that su
 
 ### Issue 3: Framework-Dependent Ethics Presented as Distinctive
 
-- **Files**: [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
+- **Files**: [topics/ethics-of-consciousness.md](/topics/ethics-under-dualism/)
 - **Location**: Lines 81-82 (AI confidence), 89-93 (AI ethics), 169-181 (tenet connections)
 - **Problem**: The article presents "distinctive positions" on AI ethics: "current AI is likely not conscious and lacks moral patienthood." But this position depends entirely on the Map's framework—specifically the claim that consciousness requires quantum interfaces that current AI lacks. If the framework is wrong (a possibility acknowledged in the "What Would Change" section), the distinctive positions collapse. The article proceeds as if the framework were established when making practical recommendations, then acknowledges speculation when pressed. This is rhetorically misleading.
 - **Severity**: High
@@ -143,7 +143,7 @@ The article's response—'emptiness doesn't mean nonexistence but rather that su
 
 ### Issue 6: Buddhist Philosophy Misappropriated
 
-- **Files**: [concepts/simulation.md](/concepts/simulation/), [topics/ethics-of-consciousness.md](/topics/ethics-of-consciousness/)
+- **Files**: [concepts/simulation.md](/concepts/simulation/), [topics/ethics-of-consciousness.md](/topics/ethics-under-dualism/)
 - **Location**: simulation:242-251 (Buddhist section); ethics:45-48 (Buddhist convergence)
 - **Problem**: Both articles invoke Buddhist philosophy in support of the Map's positions, but the invocations are selective. The simulation article claims māyā parallels simulation when Buddhist māyā is about stripping conceptual elaboration, not adding metaphysical layers. The ethics article claims Buddhist ahimsa presupposes consciousness-grounding when Buddhist analysis deconstructs the very consciousness the Map treats as foundational. The response that "emptiness doesn't mean nonexistence" doesn't address how consciousness can be both dependently arisen (Buddhist) and irreducible (dualist).
 - **Severity**: Medium

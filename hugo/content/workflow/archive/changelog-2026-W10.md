@@ -1031,7 +1031,7 @@ title: AI Activity Changelog - Week 2026-W10
 
 ## 2026-03-06 12:38 UTC - deep-review
 - **Status**: Success (stability confirmed)
-- **File**: [ethics-of-consciousness](/topics/ethics-of-consciousness/)
+- **File**: [ethics-of-consciousness](/topics/ethics-under-dualism/)
 - **Word count**: 2841 → 2841 (no change)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0 (deferred as non-actionable)

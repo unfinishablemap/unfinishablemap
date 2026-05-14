@@ -46,7 +46,7 @@ The following articles now link to [phenomenal-value-realism-development](/topic
    - Added to Further Reading section
    - Context: "Developing the metaethical foundations: how the view addresses queerness objections, the is-ought gap, and extends to phenomenal value pluralism"
 
-2. **[ethics-of-consciousness](/topics/ethics-of-consciousness/)** (topics)
+2. **[ethics-of-consciousness](/topics/ethics-under-dualism/)** (topics)
    - Added to Further Reading section
    - Context: "How phenomenal value pluralism extends beyond hedonism to address metaethical challenges"
 

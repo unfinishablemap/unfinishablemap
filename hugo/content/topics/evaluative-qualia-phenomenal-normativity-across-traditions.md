@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-04-21 06:38:00+00:00
+ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -37,7 +37,7 @@ related_articles:
 - '[[consciousness-and-the-normativity-of-reason]]'
 title: Evaluative Qualia and Phenomenal Normativity Across Traditions
 topics:
-- '[[ethics-of-consciousness]]'
+- '[[ethics-under-dualism]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 ---
