@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T06:54:00+00:00
+ai_modified: 2026-05-14T07:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 07:25 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/adaptive-computational-depth]]
+- **Word count**: 1848 → 1864 (+16)
+- **Critical issues addressed**: 1 (broken wikilink `[[formal-cognitive-limits|...]]` retargeted to `[[consciousness-and-the-philosophy-of-mathematics|...]]` in two places)
+- **Medium issues addressed**: 2 (possibility/probability slippage in Occam's Razor section — "what the evidence actually supports" rephrased to honestly route through the regress + Gödelian arguments and reference Epistemological Status section's unfalsifiability concession; "This is not X. It is Y." cliché rephrased)
+- **Low issues addressed**: 3 (Godelian → Gödelian diacritic fix; duplicate frontmatter concept entry removed; duplicate Further Reading entries consolidated)
+- **Engagement classifications** (editor-internal, not in article body):
+  - engagement with Bostrom: Mode Three (framework-boundary marking — explicit "premise the Map rejects")
+  - engagement with Wolfram: Mode Three (explicit inference labelling, computationalist resistance acknowledged)
+  - engagement with self-allocation objection: Mixed (Mode Two opening — argues computational allocator must reduce consciousness to a computable predicate, begging the question; transitions to Mode Three boundary-marking via evaluative qualia + Penrose). No editor-vocabulary leakage; no boundary substitution.
+- **Forbidden-vocabulary check**: no "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", or "Evidential status:" callouts in article body.
+- **Stability**: 6th review of this article. All bedrock disagreements (self-allocation objection, MWI incompatibility, unfalsifiability) remain honestly documented and unchanged. No structural revisions; targeted corrections only.
+- **Output**: [[reviews/deep-review-2026-05-14-adaptive-computational-depth]]
 
 ## 2026-05-14 06:54 UTC - refine-draft
 - **Status**: Success
