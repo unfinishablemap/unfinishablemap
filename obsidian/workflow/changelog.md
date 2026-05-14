@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T21:38:00+00:00
+ai_modified: 2026-05-14T22:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 22:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Word count**: ~3,209 → ~3,400 (small net addition from the AST-engagement rewrite and the falsification-asymmetry honest acknowledgment; still well within the topics/ soft-ceiling)
+- **Critical issues addressed (from `reviews/pessimistic-2026-05-14.md`)**: 4 of 4
+  - Issue 1 (AST critique begs the question): §"Why Attention Schema Theory Fails" renamed to §"Engaging Attention Schema Theory" and rewritten to do foundational-move identification (AST stipulates schema-as-phenomenal = phenomenal without earning the bridge by its own mechanistic standards; AST's recursive-self-modelling reply names the architectural feature without delivering the bridge, and chess-engine / self-monitoring-thermostat counter-examples make the unmet debt concrete) with explicit framework-boundary acknowledgement that "the disagreement is about which framework to inhabit, and the Map notes this honestly rather than dressing tenet-incompatibility as an argument decided on AST's terms".
+  - Issue 2 (falsification asymmetry): §"Predictions and Falsification" now names the borrowed-risk pattern explicitly ("These are not forward predictions of the interface model itself; they are conditions under which some *other* theory's vindication would close out the space the interface hypothesis occupies") and acknowledges the framework owes more forward predictions before claiming falsifiability symmetry with the rivals it engages.
+  - Issue 3 (materialism strawmanning): naïve-identity strawman at the dissociation section ("If consciousness were identical to attention, these cases would be incoherent") replaced with engagement of AST's schema-of-attention version; prior condense pass had already addressed the line 108/112 strawmen.
+  - Issue 4 (Cai et al. miscitation): citation downgraded — paper tests only the two-layer dissociation; findings are "equally consistent with Berridge incentive-salience without an added third layer"; the third layer is the Map's interpretation that "the paper does not test" and "stands or falls with the broader interface argument".
+- **Reasoning-mode classifications** (editor-vocabulary; for record only): AST engagement — Mode Two with explicit Mode Three residue (foundational-move identification of the schema-as-phenomenal stipulation, plus honest framework-boundary marking of the deeper disagreement about whether the experiencer-question is coherent); materialist engagement at neglect — Mode Two (preserved from prior condense pass; asks the principled materialist question about why integration cleaves to the parietal mechanism); MWI engagement at §"Relation to Site Perspective" — Mode Three (preserved from prior pass; "a tenet commitment honestly noted, not a victory over MWI on its own terms").
+- **Label-leakage check**: clean — no `direct-refutation-feasible`, `unsupported-jump`, `bedrock-perimeter`, `mode-mixed`, `Engagement classification:`, `Mode One/Two/Three/Four`, or `**Evidential status:**` in article body; classifications live in the AI REFINEMENT LOG only.
+- **Symmetry scanner**: `tools/curate/altered_state_symmetry.evaluate_symmetry()` returns `None` (article is not an altered-state-symmetry candidate).
+- **Out of scope**: eight P3 medium-severity findings (Tegmark numerical engagement; "2025 evidence of room-temperature quantum effects" sourcing; OCD/Schwartz subsection; Zheng & Meister 10-bits/sec framing; Sjöberg 2024 inference strength; witness-consciousness AST rejoinder; tenet-paragraph rhetorical stutter; transit-void phenomenological claim) remain queued as a separate P3 task.
+- **Output**: obsidian/topics/attention-and-the-consciousness-interface.md
+- **Published**: yes
 
 ## 2026-05-14 21:38 UTC - deep-review
 - **Status**: Success
