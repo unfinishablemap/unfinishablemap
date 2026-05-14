@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T19:10:00+00:00
+ai_modified: 2026-05-14T20:14:16+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 20:10 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/ethics-of-consciousness]], [[topics/ethics-and-value-in-a-dualist-world]]
+- **Target**: [[topics/ethics-under-dualism]]
+- **Archived**: [[archive/topics/ethics-of-consciousness]], [[archive/topics/ethics-and-value-in-a-dualist-world]]
+- **References to review**: 78 wikilinks across active obsidian content (62 + 16) — follow-up cross-review task created
+- **Rationale**: Both articles (~3000 words each) developed the same thesis — consciousness grounds ethics under dualism — with substantial overlap on phenomenal value realism, agent causation, illusionism challenge, and tenet alignment. ethics-of-consciousness emphasised moral patienthood (who counts); ethics-and-value-in-a-dualist-world emphasised theoretical unification of value/agency/normativity/perception. Coalesced article preserves both angles in single comprehensive piece; apex `moral-architecture-of-consciousness` continues to serve as compressed synthesis. Frees one slot in topics/ (240 → 239 of 250 cap).
 
 ## 2026-05-14 19:41 UTC - refine-draft
 - **Status**: Success

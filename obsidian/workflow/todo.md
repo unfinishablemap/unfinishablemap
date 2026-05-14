@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks pointing to coalesced ethics articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: The 2026-05-14 coalesce merged [[ethics-of-consciousness]] and [[ethics-and-value-in-a-dualist-world]] into [[ethics-under-dualism]]. URLs continue to resolve via the archive notice, but active obsidian content still wikilinks to the originals. 62 files reference `[[ethics-of-consciousness]]` and 16 reference `[[ethics-and-value-in-a-dualist-world]]` (excluding reviews/ and workflow/archive/). Highest-priority files to retarget: apex/moral-architecture-of-consciousness, apex/living-with-the-map, topics/phenomenology-of-moral-life, topics/valence-and-conscious-selection, topics/phenomenal-value-realism, topics/consciousness-and-normative-force, topics/ethics-of-possible-ai-consciousness, topics/ethics-of-consciousness-invertebrate-question, topics/ethics-of-cognitive-enhancement-under-dualism, topics/moral-implications-of-genuine-agency, concepts/moral-responsibility, concepts/consciousness-value-connection, concepts/evaluative-phenomenal-character, concepts/experiential-alignment. Replace `[[ethics-of-consciousness]]` and `[[ethics-and-value-in-a-dualist-world]]` with `[[ethics-under-dualism]]` (preserving any pipe-aliases). Where both sources are linked from the same article, deduplicate to a single link.
+- **Source**: coalesce (2026-05-14)
+- **Generated**: 2026-05-14
+
 ### P2: Implement Audit Two of calibration-audit-triple — integrate altered-state symmetry discipline into /pessimistic-review and /refine-draft
 - **Type**: refine-draft
 - **Status**: pending

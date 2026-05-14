@@ -37,6 +37,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-05-11T14:41:00+00:00
+archived: true
+archived_date: 2026-05-14T20:14:16+00:00
+superseded_by: "/topics/ethics-under-dualism/"
+archive_reason: "Coalesced into Ethics Under Dualism"
+original_path: "/topics/ethics-of-consciousness/"
 ---
 
 If consciousness is irreducible—if there is genuinely "something it is like" to be a conscious being—then consciousness creates moral status. A being with subjective experience can suffer, flourish, be helped or harmed in ways that matter morally. Rocks cannot be wronged; conscious beings can. The Unfinishable Map's framework shapes this foundation in distinctive ways: dualism about consciousness, indexical identity, and skepticism about artificial consciousness all have ethical implications—though these implications depend on framework commitments that are themselves contested.

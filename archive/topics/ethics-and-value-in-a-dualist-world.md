@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
 last_deep_review: 2026-04-05T10:01:00+00:00
+archived: true
+archived_date: 2026-05-14T20:14:16+00:00
+superseded_by: "/topics/ethics-under-dualism/"
+archive_reason: "Coalesced into Ethics Under Dualism"
+original_path: "/topics/ethics-and-value-in-a-dualist-world/"
 ---
 
 If consciousness is irreducible and causally efficacious, the entire ethical landscape transforms. The Unfinishable Map's dualism does not merely add a metaphysical layer to existing moral philosophy—it resolves a fragmentation problem that materialist ethics has never overcome. Under materialism, value theory, agency theory, normativity, and moral epistemology draw on different and often incompatible foundations. Under dualism, all four converge on a single ground: conscious experience. This convergence is the distinctive contribution of dualist ethics, and it produces a moral worldview more unified than any materialist framework can offer.

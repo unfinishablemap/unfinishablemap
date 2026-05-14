@@ -1,6 +1,10 @@
-last_updated: '2026-05-14T19:10:26.580485+00:00'
-session_count: 7179
-cycle_position: 6807
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-14T19:40:26.580768+00:00'
+session_count: 7180
+cycle_position: 6808
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-14T14:40:26.574994+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-14T08:10:26.567031+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-12T02:00:16.169117+00:00'
-  agentic-social: '2026-05-14T19:41:23.554612+00:00'
+  agentic-social: '2026-05-14T19:40:26.580768+00:00'
   embed-videos: '2026-05-14T11:40:26.570200+00:00'
   commission-chatgpt-review: '2026-05-14T02:24:29.762499+00:00'
   commission-claude-review: '2026-05-14T03:24:29.763363+00:00'
@@ -51,11 +55,7 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-14'
-  outcome: success
-- task: "expand-topic (New methodology \u2014 literature-drift review skill + )"
+- task: expand-topic (New methodology — literature-drift review skill + )
   type: expand-topic
   date: '2026-05-14'
   outcome: success
@@ -143,40 +143,9 @@ recent_tasks:
   type: deep-review
   date: '2026-05-14'
   outcome: success
-audit_triple:
-  # Config for the calibration audit triple
-  # (project/calibration-audit-triple.md).
-  literature_drift:
-    active_research_sections:
-    - psychedelics
-    - animal-cognition
-    - quantum
-    - iit
-    - consciousness-measurement
-    - neural-complexity
-    median_year_lag_threshold: 5
-    missing_citation_threshold: 2
-    recently_audited: []
-    total_audits: 0
-    flagged_audits: 0
-    clean_audits: 0
-  topic_concept_anchoring:
-    # Audit Three: topic articles whose calibration exceeds their anchor
-    # concept's. Mechanical detection is crude on purpose; the subsequent
-    # refine-draft pass dismisses false positives.
-    hedge_density_ratio: 0.6        # topic ≥ 60% of anchor's hedge density
-    strong_assertion_ratio: 1.5     # topic ≤ 1.5× anchor's strong-assertions
-    min_word_count: 400             # skip articles shorter than this
-    max_tasks_per_run: 2            # cap per audit run
-    run_every_n_cycles: 1           # cycle frequency (1 = every full cycle)
-    total_audits: 0
-    flagged_audits: 0
-  global_task_cap: 6                # total audit-generated tasks active at once
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/minimal-consciousness/
-    date: '2026-05-14T19:41:23.554576+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-in-simple-organisms
-    - animal-consciousness
+- task: 'refine-draft (Task context:
+
+    Chain follow-up to today''s 2026-05-1)'
+  type: refine-draft
+  date: '2026-05-14'
+  outcome: success
