@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/phenomenology-of-memory-and-the-self.md (4558 words, 152% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds topics/ hard-warning threshold (4000 words) at 152% of soft-warning target. Recently outer-reviewed (2026-05-10 cycle, all three services), refined repeatedly since, and has accumulated steelman counters per the 2026-05-13 refine-draft commit `1b527f2c5`. Now stable enough to condense. Preserve: the central phenomenological argument linking memory's subject-of-experience requirement to the persisting-self thesis; the steelman counters (Buddhist no-self, Parfit reductionism, narrative-self constructivism); the empirical anchors (episodic memory neuroscience; amnesia case studies; déjà vu and source-monitoring data); the tenet-routing through Tenet 1 (Dualism) and Tenet 4 (No Many Worlds) where the persisting subject does load-bearing work. Watch for: redundant re-introduction of the persisting-subject thesis; duplicated coverage of standard memory-types taxonomy (semantic / episodic / procedural / implicit) that other concept pages now cover; over-detailed exposition of empirical exhibits where a citation suffices. Defer to `[[concepts/personal-identity]]`, `[[concepts/diachronic-agency-and-personal-narrative]]`, `[[concepts/implicit-memory]]` where each topic has its own anchor. Tenet alignment: Tenet 1 (Dualism); Tenet 4 (No Many Worlds — indexical-identity argument).
-- **Source**: length_analysis
-- **Generated**: 2026-05-13
-
 ### P3: Write concept page `protention` consolidating the structural-anticipation pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -3529,6 +3522,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Condense topics/phenomenology-of-memory-and-the-self.md (4558 words, 152% of target)
+- **Type**: condense
+- **Notes**: Article exceeds topics/ hard-warning threshold (4000 words) at 152% of soft-warning target. Recently outer-reviewed (2026-05-10 cycle, all three services), refined repeatedly since, and has accumulated steelman counters per the 2026-05-13 refine-draft commit `1b527f2c5`. Now stable enough to condense. Preserve: the central phenomenological argument linking memory's subject-of-experience requirement to the persisting-self thesis; the steelman counters (Buddhist no-self, Parfit reductionism, narrative-self constructivism); the empirical anchors (episodic memory neuroscience; amnesia case studies; déjà vu and source-monitoring data); the tenet-routing through Tenet 1 (Dualism) and Tenet 4 (No Many Worlds) where the persisting subject does load-bearing work. Watch for: redundant re-introduction of the persisting-subject thesis; duplicated coverage of standard memory-types taxonomy (semantic / episodic / procedural / implicit) that other concept pages now cover; over-detailed exposition of empirical exhibits where a citation suffices. Defer to `[[concepts/personal-identity]]`, `[[concepts/diachronic-agency-and-personal-narrative]]`, `[[concepts/implicit-memory]]` where each topic has its own anchor. Tenet alignment: Tenet 1 (Dualism); Tenet 4 (No Many Worlds — indexical-identity argument).
+- **Output**: obsidian/topics/phenomenology-of-memory-and-the-self.md
 
 ### ✓ 2026-05-14: Condense topics/born-rule-and-the-consciousness-interface.md (5604 words, 187% of target)
 - **Type**: condense

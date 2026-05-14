@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T01:25:00+00:00
+ai_modified: 2026-05-14T01:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 01:54 UTC - condense
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Before**: 4558 words
+- **After**: 2998 words
+- **Reduction**: 34%
+- **Technique**: Merged "Pastness deflationary readings" with "The Discrimination Problem" (heavy overlap on simulationist and source-monitoring discussions); compressed each of the three hostile-review steelmen (each was repeating prior material); tightened verbose passages in "Double Presence", "Memory as Self-Constitution", "Memory as Self-Threat", and "Mineness" sections. Preserved opening summary, Relation to Site Perspective, all core arguments (pastness quale irreducibility, haecceity bridge, double presence, MWI inference), and all key citations.
 
 ## 2026-05-14 01:25 UTC - deep-review
 - **Status**: Success
