@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14 13:41:00+00:00
+ai_modified: 2026-05-14 14:19:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-14 14:19 UTC - condense
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Before**: 5998 words
+- **After**: 3369 words
+- **Reduction**: 44%
+- **Technique**: removed redundant explanatory passages, compressed citation density (kept primary studies, trimmed parenthetical elaboration), tightened hedging across the Neuroimaging Paradox, Letheby, and Anaesthesia-symmetry sections; consolidated the three-paragraph Huxley/Reducing Valve and Quantum Appendix into tighter forms. Preserved opening summary, the Letheby naturalistic-alternative engagement, the anaesthesia-symmetry honesty section, "Where the Accounts Could Diverge" with its three-way access distinction, the Zahavi-vs-Metzinger departure, and all five tenet links in "Relation to Site Perspective".
 
 ## 2026-05-14 13:41 UTC - refine-draft
 - **Status**: Success

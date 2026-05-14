@@ -38,6 +38,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense topics/attention-and-the-consciousness-interface.md (4035 words, 134% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 4000-word hard threshold for topics/. Preserve core arguments (attention as the operational mechanism of the consciousness–brain interface; selection-trilemma engagement; Schwartz OCD evidence; the bandwidth constraints inherited from `[[filter-theory]]`) while removing redundancy and deferring detailed sub-arguments to linked articles. Check for HTML-comment `<!-- AI REFINEMENT LOG -->` leakage flagged in the queued temporal-cluster hygiene audit; strip or move to a `.refinement-log.md` sidecar per the established pattern. See /condense skill. Length thresholds for topics/: 3000 soft / 4000 hard / 6000 critical.
+- **Source**: length_analysis
+- **Generated**: 2026-05-14
+
+### P2: Deep review voids/decision-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-05-10 but never deep-reviewed — 2866-word article sitting in voids/ section (at the 100/100 cap, so any structural issues will propagate to a saturated cluster). Verify coherence, accuracy of claims, evidential-status discipline (no possibility→probability slippage; no coherence-inflation), cross-references to related voids (suspension-void, wholeheartedness-void, the-decisional-void cluster), and tenet alignment. Also check for LLM clichés ("This is not X. It is Y.") and HTML-comment refinement-log leakage. As a voids-cluster member close to its cap, surface any coalesce candidates with sibling void articles if duplication is found.
+- **Source**: staleness
+- **Generated**: 2026-05-14
+
 ### P3: Write concept page `protention` consolidating the structural-anticipation pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -3547,6 +3561,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Condense topics/psychedelics-and-the-filter-model.md (5998 words, 200% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word hard threshold for topics/ at 5998 words, sitting just under the 6000-word critical threshold. The article has accrued substantial material from intensive same-day refinement (multiple refine-draft passes + deep-reviews driven by 2026-05-14 outer-review convergence). The refines installed valuable hedges and back-ported concept-page calibrations; the condense pass should preserve those gains. Retain: the *coheres with* / *evidences* distinction; the underdetermination framing; the load-bearing cross-links to `[[filter-theory]]`, `[[default-mode-network]]`, `[[predictive-processing]]`, `[[predictive-processing-and-dualism]]`; the Mode-Four / evidence-ladder framing; named falsifying scenarios; today's hedge language in §"Relation to Site Perspective". Defer detailed sub-arguments to linked articles. Run only after any in-flight refine tasks complete so the condense operates on stabilised text. See /condense skill. Length thresholds for topics/: 3000 soft / 4000 hard / 6000 critical.
+- **Output**: obsidian/topics/psychedelics-and-the-filter-model.md
 
 ### ✓ 2026-05-14: Encode "compatibility is not support" + neuroscience citation-aging rules into project methodology docs
 - **Type**: refine-draft
