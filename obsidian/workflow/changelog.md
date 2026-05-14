@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T05:45:00+00:00
+ai_modified: 2026-05-14T05:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 05:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Trigger**: Outer review by Claude Opus 4.7 (2026-05-14); convergent with same-cycle ChatGPT 5.5 Pro review (synthesis [[reviews/outer-review-synthesis-2026-05-14]]).
+- **Scope**: Empirical-base refresh from 2012-era citations to 2020–2025 literature. Mode-One in-framework defect per [[direct-refutation-discipline]] (stale citations correctable inside the article's existing framework).
+- **Changes**:
+  - Opening: softened "suppress activity in the DMN" to a cortex-wide-desynchronization framing with DMN as the most visible (but not exclusive) locus.
+  - Neuroimaging Paradox §: rewrote to lead with Siegel et al. (2024, *Nature*) cortex-wide desynchronization and Timmermann et al. (2024, *J. Neurosci.*) alpha-band collapse. Added new paragraph on 2020–2025 upstream-mechanism candidates: Doss 2020 + Doss/Považan 2022 CCC claustrum model, Brennan 2024 (5-HT2C non-canonical pathway), Mason 2020 (glutamate-valence). Filter-theory paragraph rewritten to acknowledge that the constraint of conscious bandwidth looks distributed across claustrum, thalamic gating, predictive priors, and network-identity architecture — and that Huxley's reducing-valve metaphor maps more naturally onto thalamic/claustral gating than onto the DMN specifically. Linked to [[evidential-status-discipline]].
+  - Huxley dose-response paragraph: hedged the "more DMN suppression → more intense effects" claim with Smigielski et al. (2019) mPFC–PCC decoupling mediation finding and Siegel 2024 high-dose network-identity dissolution.
+  - Ego Dissolution §: hedged the Lebedev (2015) DMN-specific framing with Tagliazucchi (2016) global FC, Timmermann (2024) alpha-band, and Mason (2020) glutamate-valence as competing/complementary correlates.
+  - References: added Brennan 2024, Doss 2020, Doss/Považan 2022, Mason 2020, Siegel 2024, Smigielski 2019, Timmermann 2024 (renumbered 1–25).
+- **Engagement classification** (editor-internal): Mode One — in-framework defect; the deeper structural critiques (Letheby engagement, anaesthesia/asymmetry, quantum overreach, Mind-at-Large vs minimal filter theory) remain out of scope and are handled by sibling tasks from the same synthesis cycle.
+- **Words touched**: ~830
+- **Published**: yes (article was already `draft: false`; changes published in place)
 
 ## 2026-05-14 05:45 UTC - combine-outer-reviews
 - **Status**: Success
