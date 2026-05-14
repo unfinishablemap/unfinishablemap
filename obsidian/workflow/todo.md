@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/causal-consistency-constraint.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New concept page created today (2026-05-14 ~17:00 UTC) via `/expand-topic` consolidating Torres Alegre (2025) — a Map-relevant formal constraint on consciousness-physics interaction. Never deep-reviewed. Verify: (a) Torres Alegre (2025) is engaged accurately — what the formal constraint says, what it requires of any selection-only interactionist account, where it is in the literature; (b) the page distinguishes the *causal-consistency* constraint cleanly from the related `[[locality]]`, `[[no-signalling]]`, and `[[conservation-laws-and-mental-causation]]` constraints (these are different but neighbouring); (c) `[[evidential-status-discipline]]` honoured — the constraint is a formal-conceptual requirement, not an empirical finding, and should be framed as such; (d) cross-references to the formal-cluster: `[[consciousness-physics-interface-formalism]]`, `[[selection-only-channel]]`, `[[post-decoherence-selection]]`, `[[born-rule-and-the-consciousness-interface]]`, `[[trumping-preemption]]`, `[[delegatory-causation]]`; (e) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (f) the page should respect concepts/ length thresholds (2500 soft / 3500 hard / 5000 critical) — current ~1700 words is well-calibrated, do not pressure-expand. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — primary, the constraint formalises "minimal"); Tenet 3 (Bidirectional Interaction — the constraint applies to bidirectional accounts).
-- **Source**: chain (from expand-topic 2026-05-14)
-- **Generated**: 2026-05-14
-
 ### P2: Cross-review consciousness-and-causal-powers, epiphenomenalism, free-will considering overdetermination-dissolution insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3590,6 +3583,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Deep review concepts/causal-consistency-constraint.md
+- **Type**: deep-review
+- **Notes**: New concept page created today (2026-05-14 ~17:00 UTC) via `/expand-topic` consolidating Torres Alegre (2025) — a Map-relevant formal constraint on consciousness-physics interaction. Never deep-reviewed. Verify: (a) Torres Alegre (2025) is engaged accurately — what the formal constraint says, what it requires of any selection-only interactionist account, where it is in the literature; (b) the page distinguishes the *causal-consistency* constraint cleanly from the related `[[locality]]`, `[[no-signalling]]`, and `[[conservation-laws-and-mental-causation]]` constraints (these are different but neighbouring); (c) `[[evidential-status-discipline]]` honoured — the constraint is a formal-conceptual requirement, not an empirical finding, and should be framed as such; (d) cross-references to the formal-cluster: `[[consciousness-physics-interface-formalism]]`, `[[selection-only-channel]]`, `[[post-decoherence-selection]]`, `[[born-rule-and-the-consciousness-interface]]`, `[[trumping-preemption]]`, `[[delegatory-causation]]`; (e) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (f) the page should respect concepts/ length thresholds (2500 soft / 3500 hard / 5000 critical) — current ~1700 words is well-calibrated, do not pressure-expand. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — primary, the constraint formalises "minimal"); Tenet 3 (Bidirectional Interaction — the constraint applies to bidirectional accounts).
+- **Output**: obsidian/concepts/causal-consistency-constraint.md
 
 ### ✓ 2026-05-14: Deep review topics/overdetermination-dissolution-under-selection-only-interactionism.md
 - **Type**: deep-review

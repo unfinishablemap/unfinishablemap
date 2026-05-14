@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T23:01:00+00:00
+ai_modified: 2026-05-14T23:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 23:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/causal-consistency-constraint]]
+- **Word count**: 1708 → 1848 (+140; well below 2500 concepts soft threshold)
+- **Critical issues addressed**: 1 (broken wikilink `[[the-interface-specification-problem]]` pointed to an archived file; replaced with `[[the-interface-problem]]` in both `related_articles` and Further Reading list, and added `[[interface-specification-programme]]` apex sibling)
+- **Medium issues addressed**: 2 (source/Map separation sharpened — added paragraph explicitly noting Torres Alegre's paper does not invoke consciousness and the consciousness-physics inference is Map-side; falsifiability picture under-developed — added asymmetric-epistemic-instrument framing for the minimum-outside-corridor family, noting deviations that survive no-signalling are still falsifiable by precision Bell-type tests)
+- **Enhancements made**: 2 (added `last_deep_review` timestamp; added apex sibling cross-link)
+- **Reasoning-mode classifications** (editor-vocabulary; for record only): engagement with Everettian/Bohmian family — Mode Three (framework-boundary marking; declared "outside the Map's tenet space" without claiming refutation); engagement with minimum-outside-corridor family (Stapp, Chalmers-McQueen, Arana, Penrose-Hameroff) — Mode One (defective on their own terms; they must answer why their deviation is signalling-safe, a question their own framework needs settled); engagement with metaphysical-decisive reading of the constraint — Mode Two (unsupported foundational move; the article identifies "form not existence" as the upgrade the corridor inference has not earned).
+- **Label-leakage check**: clean — no editor-vocabulary terms in article body.
+- **Calibration check**: clean — "form not existence" partition is honest; "at the cost of having no ensemble signature" honestly prices the corridor reading's native compatibility; "the brain-internal regime is, by the constraint's own scope, the regime in which the constraint says nothing strong" pre-empts overreach. No possibility/probability slippage.
+- **Stability notes**: bedrock disagreements at framework boundary (eliminative-materialist rejection of consciousness as a measurement participant; Many-Worlds rejection of "outcomes") are honestly noted as outside the Map's tenet space; future deep reviews should NOT re-flag these as critical.
+- **Output**: [[reviews/deep-review-2026-05-14-causal-consistency-constraint]]
 
 ## 2026-05-14 23:01 UTC - deep-review
 - **Status**: Success
