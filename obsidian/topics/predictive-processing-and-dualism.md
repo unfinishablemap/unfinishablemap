@@ -4,7 +4,7 @@ description: "Predictive processing's metaphysically neutral formalism provides 
 created: 2026-02-15
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-14T12:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,6 +153,7 @@ The Unfinishable Map sees predictive processing as a valuable ally — the best 
 - [[empirical-phenomena-mental-causation|placebo effect]] — Expectations as strong priors with measurable outcomes
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
 - [[parsimony-epistemology]] — Why simplicity cannot settle the consciousness debate
+- [[psychedelics-and-the-filter-model]] — REBUS and Letheby's predictive-self-binding account: PP under dualism applied to altered states
 
 ## References
 

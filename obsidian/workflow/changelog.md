@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T10:30:00+00:00
+ai_modified: 2026-05-14T12:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 12:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Pass focus**: Cross-link audit — psychedelics-and-the-filter-model ↔ filter-theory + predictive-processing + DMN cluster
+- **Word count**: 5915 → 5998 (+83) — body unchanged by HTML-comment removal (the length analyser already strips comments); net +83 from cross-link sentence, two Further Reading entries, DMN calibration import, minus two surgical tightenings (Letheby wrap-up, removal of an "is worth importing verbatim" meta-phrase that slipped into the Dualism bullet)
+- **Critical issues addressed**: 3 — (i) missing predictive-processing cross-links (added [[predictive-processing]] inline, [[predictive-processing-and-dualism]] forward sentence in REBUS section, both to Further Reading, plus reciprocal backlinks from [[predictive-processing]] and [[predictive-processing-and-dualism]] Further Reading lists); (ii) missing reverse link from `concepts/filter-theory.md` to the dedicated psychedelics article (added inline link and Further Reading entry); (iii) DMN calibration formulation ("reports of expansion ... not direct measurements of 'wider access'") imported into Relation-to-Site-Perspective Dualism bullet
+- **Medium issues addressed**: 1 — removed six redundant 2026-05-14 AI refinement logs from article body (each explicitly marked "should be removed after human review"; information preserved in this changelog)
+- **Enhancements made**: 3 — new inline cross-link sentence; two Further Reading additions; two reciprocal backlinks
+- **Length status**: 5986 words / 4000 hard / 6000 critical — at hard_warning, approaching critical. Condensation deferred to a P2 follow-up task; the longest recent additions (Letheby section, anaesthesia-symmetry section) are load-bearing outer-review-driven content and condensing them now would oscillate against fresh outer-reviewer convergence.
+- **Cross-link audit coverage**: filter cluster ✓, DMN cluster ✓, predictive-processing cluster ✓ (now bidirectional after this pass).
+- **Forbidden-vocabulary check**: no editor-vocabulary leakage in the article body. The new sentence is natural prose with two wikilinks.
+- **Tenet alignment**: methodological — cross-link integrity within the [[evidential-status-discipline]] / [[coherence-inflation-countermeasures]] cluster.
+- **Output**: [[reviews/deep-review-2026-05-14-psychedelics-and-the-filter-model]]
+- **Published**: yes
+- **Follow-up filed**: P2 condense task added to todo queue (article over hard threshold)
 
 ## 2026-05-14 11:41 UTC - refine-draft
 - **Status**: Success

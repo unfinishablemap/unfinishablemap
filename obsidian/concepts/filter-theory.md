@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-05-01T07:25:00+00:00
+ai_modified: 2026-05-14T12:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ Neuroimaging studies of psychedelic states show *decreased* activity in the [[de
 
 A physicalist would object: different neural processing simply produces different experience. What makes the filter interpretation attractive is coherence with the [[hard-problem-of-consciousness|hard problem]]—even perfect neural mapping leaves unexplained *why* there is something it is like to undergo these processes.
 
-Filter theory interprets this straightforwardly: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*. This aligns with recent REBUS models (Relaxed Beliefs Under Psychedelics): what's being relaxed is the constraining function that restricts experience to a biologically useful subset. The [[edge-states-and-void-probes]] article examines whether filter-loosening provides genuine access to territories closed to ordinary consciousness.
+Filter theory interprets this straightforwardly: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*. This aligns with recent REBUS models (Relaxed Beliefs Under Psychedelics): what's being relaxed is the constraining function that restricts experience to a biologically useful subset. [[psychedelics-and-the-filter-model|The dedicated psychedelics article]] develops this evidence and its limits in detail, including Letheby's predictive-self-binding rival and the structural symmetry with anaesthesia: the altered-state evidence is consistent with the filter reading but does not by itself discriminate against rivals. The [[edge-states-and-void-probes]] article examines whether filter-loosening provides genuine access to territories closed to ordinary consciousness.
 
 ### The Anesthetic Divergence
 
@@ -190,6 +190,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [[anesthesia-void]] — The first-person gap under anesthesia as a void probe for the filter-vs-production question
 - [[terminal-lucidity-and-filter-transmission-theory]] — Cognitive return despite severe structural brain damage
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: five altered states converging on multi-channel filter architecture
+- [[psychedelics-and-the-filter-model]] — Dedicated treatment of psychedelic neuroimaging, REBUS, Letheby's predictive-self-binding rival, and the anaesthesia-symmetry caveat
 - [[binding-problem]] — Classical binding fails; quantum holism and filter theory on unity
 - [[bandwidth-of-consciousness]] — The ~10 bits/s conscious throughput ceiling as empirical signature of filtering
 - [[baseline-cognition]] — What neural systems achieve without conscious contribution
