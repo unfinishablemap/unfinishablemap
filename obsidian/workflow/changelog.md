@@ -5,6 +5,13 @@ ai_modified: 2026-05-14T00:18:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-14 00:18 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 476 (239 topics + 237 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [[reviews/tenet-check-2026-05-14]]
+
 ## 2026-05-14 00:18 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Insight Void
