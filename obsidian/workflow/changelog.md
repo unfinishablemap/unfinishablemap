@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T07:25:00+00:00
+ai_modified: 2026-05-14T07:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 07:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Source**: outer review by Claude Opus 4.7 (2026-05-14) §4.1–4.2 and §5(a) items 2 and 8
+- **Changes**: back-ported the [[filter-theory]] and [[default-mode-network]] concept-page hedges to the topic article. Opening: replaced "challenge to production models that no other pharmacological intervention matches" with the hedged "distinctive interpretive challenge ... whether this constitutes evidence for filter theory over production theory remains contested" formulation; replaced "is consistent with this pattern in a way production models struggle to match" overclaim and the "Production models, by contrast, must explain how a brain doing less produces a mind experiencing more" strawman flagged in review §2.1 with "offers a natural re-description of this data, though one that is empirically equivalent to production-side accounts on the altered-state evidence alone." Added explicit *coheres with* / *evidences* distinction. Relation-to-Site-Perspective Dualism bullet rewritten to match: "Filter theory's edge here is *coherence with* Tenet 1 rather than *evidence for* it." Metzinger citation issue (review §4.5) was already resolved in the second-pass Letheby section, which attributes the "minimal self as witness" move to Zahavi rather than Metzinger; no further change required.
+- **Engagement classification** (editor-internal, not in article body): Mode One — in-framework calibration defect. Concept pages already make the concessions; topic article had drifted past them. Also touches [[coherence-inflation-countermeasures]]: headline triumphalism is the canonical inflation pattern, the fix is the canonical countermeasure (route discriminating force through broader theoretical commitments rather than dressing tenet-coherence as data-driven evidential support).
+- **Forbidden-vocabulary check**: no "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", or "Evidential status:" callouts in article body. The *coheres with* / *evidences* distinction is in natural prose.
+- **Words touched**: ~310 (target: 250–400)
+- **Published**: yes
 
 ## 2026-05-14 07:25 UTC - deep-review
 - **Status**: Success

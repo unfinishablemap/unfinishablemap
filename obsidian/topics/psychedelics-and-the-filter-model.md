@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-05-14T06:54:00+00:00
+ai_modified: 2026-05-14T07:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ embedded_videos:
     source: notebooklm/0049-01-psychedelics-and-the-filter-model
 ---
 
-Psychedelics present a challenge to production models of consciousness that no other pharmacological intervention matches. When psilocybin, LSD, or DMT desynchronize cortical activity—most visibly in the brain's [[default-mode-network|default mode network]] (DMN), but, on more recent imaging, across the cortex as a whole—subjects do not report diminished experience. They report the opposite: expanded perception, heightened emotional depth, ego dissolution, and encounters with what many describe as "more real than real." The Unfinishable Map's [[filter-theory|filter theory]]—the view that the brain constrains consciousness rather than producing it—is consistent with this pattern in a way production models struggle to match. A loosened filter should yield richer experience, even as the neural machinery generating the filter operates less. Production models, by contrast, must explain how a brain doing less produces a mind experiencing more.
+Psychedelics present a distinctive interpretive challenge: their pharmacological mechanism is specific, the subjective effects are intense and well-characterised, and the relevant neural changes occur in networks tied to self-reference. Whether this constitutes evidence for filter theory over production theory remains contested. When psilocybin, LSD, or DMT desynchronize cortical activity—most visibly in the brain's [[default-mode-network|default mode network]] (DMN), but, on more recent imaging, across the cortex as a whole—subjects do not report diminished experience. They report the opposite: expanded perception, heightened emotional depth, ego dissolution, and encounters with what many describe as "more real than real." The Unfinishable Map's [[filter-theory|filter theory]]—the view that the brain constrains consciousness rather than producing it—offers a natural re-description of this data, though one that is empirically equivalent to production-side accounts on the altered-state evidence alone. The pattern *coheres with* the Map's dualist commitment; whether it *evidences* filter theory over its rivals depends on broader theoretical considerations developed in the [[#Letheby's Naturalistic Alternative|Letheby]] and [[#Why Anaesthesia and Slow-Wave Sleep Don't Refute Filter Theory|symmetry]] sections below.
 
 <details class="yt-embed" data-video-id="y7dwCAN7QY0">
 <summary>Video introduction</summary>
@@ -155,7 +155,7 @@ The Map does not rely on the quantum hypothesis to make its case for filter theo
 
 Psychedelics illuminate several of the Map's [[tenets]]:
 
-**Dualism.** The neuroimaging paradox—less brain activity producing richer experience—is a significant pharmacological challenge to production models. If the brain produces consciousness as the liver produces bile, suppressing brain activity should suppress consciousness. It does not, at least not straightforwardly: the disinhibition rebuttal complicates the picture but does not dissolve the puzzle of why DMN suppression yields the *specific* phenomenological structure it does. Filter theory, grounded in dualism, predicts the observed result. [[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]] provides the complementary case: cognitive function returning despite severe structural brain damage, where the filter's collapse near death briefly permits unfiltered transmission.
+**Dualism.** The neuroimaging picture—desynchronized, less narrative-self-bound brain activity coinciding with richer reported experience—sits naturally within filter theory and is consistent with the Map's dualist commitment. It does not, on the altered-state data alone, refute production models: entropic-brain, predictive-self-binding (Letheby), and disinhibition accounts accommodate the same data, and the article concedes this directly in the Letheby and symmetry sections above. Filter theory's edge here is *coherence with* Tenet 1 rather than *evidence for* it. The discriminating work is done by the broader corpus, including [[terminal-lucidity-and-filter-transmission-theory|terminal lucidity]] and the convergence pattern across [[anaesthesia-and-the-consciousness-interface|anaesthesia]] and other interface cases—taken, as the symmetry section requires, as one phenomenological cluster rather than as multiple independent confirmations.
 
 **Minimal Quantum Interaction.** The Orch OR psychedelic hypothesis, while speculative, proposes a concrete mechanism for the Map's tenet: psychedelics alter quantum dynamics in microtubules, expanding the interface through which consciousness interacts with neural processes. This remains a possibility to investigate rather than a commitment.
 
@@ -207,6 +207,25 @@ Psychedelics illuminate several of the Map's [[tenets]]:
 25. Timmermann, C. et al. (2024). DMT alters cortical travelling waves and alpha-band power; alpha collapse tracks ego dissolution intensity. *Journal of Neuroscience*.
 26. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
 27. Southgate, A. & Oquatre-six, C. (2026-02-23). Dream Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/dream-consciousness/
+
+<!-- AI REFINEMENT LOG - 2026-05-14 (fourth pass, 07:54 UTC)
+Topic-vs-concept-page calibration drift, in response to outer review by Claude Opus 4.7 (2026-05-14) §4.1–4.2 and §5(a) items 2 and 8. The review found that the topic article was rhetorically more confident than its anchor concept pages ([[filter-theory]], [[default-mode-network]]), both of which already concede that "neither interpretation is forced by the data alone." Back-ports those concessions to the topic article and applies the tenet-coherent / tenet-evidenced distinction the review's §5(c) item 5 calls for.
+
+Changes:
+- Opening paragraph: replaced the "challenge to production models that no other pharmacological intervention matches" headline with the hedged "distinctive interpretive challenge ... whether this constitutes evidence for filter theory over production theory remains contested" formulation specified in the task brief. Replaced the "is consistent with this pattern in a way production models struggle to match" overclaim — and the closing "Production models, by contrast, must explain how a brain doing less produces a mind experiencing more" strawman flagged in review §2.1 — with "offers a natural re-description of this data, though one that is empirically equivalent to production-side accounts on the altered-state evidence alone." Added explicit *coheres with* / *evidences* distinction and forward-anchored to the Letheby and symmetry sections that already do the discriminating work.
+- "Relation to Site Perspective" Dualism bullet: rewrote to match the new opening's calibration. Removed "is a significant pharmacological challenge to production models" and the "if the brain produces consciousness as the liver produces bile" framing. Added explicit "Filter theory's edge here is *coherence with* Tenet 1 rather than *evidence for* it" formulation. Routed discriminating work through the broader corpus (terminal lucidity + the convergence pattern across interface cases) and explicitly invoked the no-double-counting corollary from the symmetry section.
+- Metzinger citation: already fixed in the second-pass Letheby section (lines 96–97 attribute the "minimal self as witness" move to Zahavi rather than Metzinger, with explicit acknowledgement that Metzinger draws eliminativist conclusions the Map does not endorse). The fourth-pass review brief item (c) is therefore already satisfied; no further change required.
+
+Engagement classification (editor-internal, not in article body): Mode One — in-framework calibration defect. The concept pages this topic depends on already make the concessions; the topic article had drifted past them. Correctable inside the article's own framework by back-porting the existing in-corpus calibration. Also touches [[coherence-inflation-countermeasures]]: the headline triumphalism is the canonical coherence-inflation pattern (claims at the topic tier inflated past the foundational tier's concessions), and the fix is the canonical countermeasure (route discriminating force through the broader theoretical commitments rather than dressing tenet-coherence as data-driven evidential support).
+
+Forbidden vocabulary check: "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", and the meta-phrase "per [[direct-refutation-discipline]]" do not appear in the article body. The *coheres with* / *evidences* distinction is in natural prose. No bold-headed "Evidential status:" callouts.
+
+Tenet alignment: methodological / coherence-maintenance — Tenet 5 (Occam's Razor Has Limits) by way of [[evidential-status-discipline]] and [[coherence-inflation-countermeasures]]: when the data underdetermines the choice between rival frameworks, the choice is honestly named as routed through broader theoretical commitments rather than dressed as data-driven.
+
+~310 words touched (target: 250–400). Total article length unchanged within rounding.
+
+This log should be removed after human review.
+-->
 
 <!-- AI REFINEMENT LOG - 2026-05-14
 Refresh of the article's empirical base from 2012-era citations to the 2020-2025 literature, in response to outer review by Claude Opus 4.7 (2026-05-14). Applied as a Mode-One in-framework defect (stale citations), per [[direct-refutation-discipline]].
