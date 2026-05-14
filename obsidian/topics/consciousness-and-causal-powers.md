@@ -4,8 +4,8 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-01T07:25:00+00:00
-last_deep_review: 2026-03-28T03:42:00+00:00
+ai_modified: 2026-05-14T04:37:00+00:00
+last_deep_review: 2026-05-14T04:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ When we say consciousness has "causal powers," what might this mean? Several pos
 
 **Selection among alternatives**: Consciousness could choose among physically permissible outcomes where the laws of nature leave the result undetermined. This is the Map's position. Physics specifies probabilities; consciousness biases which probability actualizes. No energy is added, no force exerted—only selection among genuine possibilities. The [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] frames this as the interface function of information: syntactic constraints from physics, semantic selection from consciousness.
 
-**Pattern amplification**: Consciousness could sustain or amplify certain neural patterns through repeated "observation" in the quantum sense. One proposed mechanism—the [[stapp-quantum-mind|quantum Zeno effect]]—suggests that attention holds neural states in superposition longer than they would naturally persist, allowing conscious intentions to shape which patterns stabilize. The causal power here is not pushing but holding. Six distinct [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] have been proposed for how such quantum-level influence scales to macroscopic neural effects.
+**Pattern amplification**: Consciousness could sustain or amplify certain neural patterns through repeated "observation" in the quantum sense. One proposed mechanism—the [[stapp-quantum-mind|quantum Zeno effect]]—suggests that attention holds neural states in superposition longer than they would naturally persist, allowing conscious intentions to shape which patterns stabilize. The causal power here is not pushing but holding. Seven distinct [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] have been proposed for how such quantum-level influence scales to macroscopic neural effects.
 
 **Organizational influence**: Consciousness might affect how neural components organize without affecting their individual behaviour. This is closer to emergence theories—consciousness as a high-level property that causally constrains lower levels through organizational feedback. The challenge: specifying how organization contributes novel powers without violating lower-level laws.
 
