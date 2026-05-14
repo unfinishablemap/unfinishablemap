@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T23:24:00+00:00
+ai_modified: 2026-05-13T23:58:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-13 23:58 UTC - refine-draft
+- **Status**: No-op (duplicate task)
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source**: 2026-05-14 replenish-queue chore re-generated the P1 critical-findings task from [[reviews/pessimistic-2026-05-13]] §Issues 1 and 2 — but the work was already completed in commit `4d01a0767` (2026-05-13 15:22 UTC refine-draft pass; see this changelog's 15:22 entry for the full work record).
+- **Verification**: Confirmed both fixes are present in the current article. (1) §Madhyamaka third response opens "The third response acknowledges that the disagreement is ontological bedrock." — no italicised "*framework-boundary marking*" named option. (2) §Meditative Evidence Katz–Sharf paragraph closes "The disagreement here is bedrock. Any reply the Map could offer would proceed from premises the constructivist framework rejects — phenomenological access as evidence, comparative-mysticism scholarship as data — and would impose the Map's framework from outside rather than refute the constructivist's commitments from within." — no "the article registers it as" / "the same honest move" / "the section below" phrasings.
+- **Changes**: 0 article modifications. Task moved from Active to Completed in `obsidian/workflow/todo.md`; no `ai_modified` bump on the article since no content changed.
+- **Note for replenish-queue calibration**: This is the second instance in recent days where replenish-queue generated a task targeting a defect already addressed by an earlier same-day pass. Pessimistic-review tasks should ideally be deduplicated against the changelog before being added back to Active.
+- **Published**: yes
 
 ## 2026-05-13 23:24 UTC - expand-topic
 - **Status**: Success
