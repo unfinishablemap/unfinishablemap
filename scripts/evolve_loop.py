@@ -887,7 +887,13 @@ def run_session(
                         svc.skill_collect,
                         ready_review.target_filename,
                     ),
-                    timeout_seconds=600,
+                    # 15 min: collect = wake (~50s) + extract+download (~30s)
+                    # + write (~10s) + auto-invoked /outer-review (~5-7 min for
+                    # large bodies with claim verification + task generation).
+                    # The 2026-05-14 claude collect timed out at 600s. The
+                    # 2026-05-12 Step 3 polling expansion + research-heavy
+                    # responses tipped it over.
+                    timeout_seconds=900,
                     verbose=verbose,
                     chrome=True,
                 )

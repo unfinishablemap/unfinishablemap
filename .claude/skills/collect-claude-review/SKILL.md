@@ -184,17 +184,44 @@ The artifact body is the `.standard-markdown` element with the largest text cont
 })()
 ```
 
-## Step 6: Read the markdown out in chunks
+## Step 6: Download the body via Blob (NOT chunked read)
 
-The MCP javascript_tool truncates large outputs and may block content with tracking-style query strings. Iterate in 800-char chunks:
+The MCP `javascript_tool` truncates large outputs and chunked reads with ~30-50 800-char chunks burn ~3-5 minutes wall-clock per collect — enough to push the dispatcher's 10-min timeout to failure on research-heavy 25-40K-char bodies. Use a single Blob-download instead. Multi-file download permission is already granted for `claude.ai` on this profile.
+
+Trigger the download in JS — this also stores the body on `window` as a fallback if the download fails:
+
+```javascript
+(() => {
+  const body = window.__collect_review_body;
+  if (!body) return JSON.stringify({err: 'body missing from window'});
+  const blob = new Blob([body], {type: 'text/markdown'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `collect-claude-body-${TARGET_DATE}.md`;  // e.g. 2026-05-14
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  setTimeout(() => URL.revokeObjectURL(url), 2000);
+  return JSON.stringify({triggered: true, bodyLen: body.length});
+})()
+```
+
+Then wait briefly and move the file into the project tmp dir:
+
+```bash
+sleep 2 && mv ~/Downloads/collect-claude-body-{date}.md /home/andy/unfin/unfinishablemap/tmp/
+```
+
+Verify size with `ls -la` before proceeding. If the file is missing (download was silently blocked), fall back to chunked read:
 
 ```javascript
 window.__collect_review_body.slice(0, 800)
 window.__collect_review_body.slice(800, 1600)
-// ... until offset >= bodyLen
+// ... until offset >= bodyLen — halve on [BLOCKED: ...]
 ```
 
-If a chunk gets blocked (`[BLOCKED: ...]`), halve the chunk size and retry. Concatenate chunks in the skill.
+If multi-file download permission is REVOKED in Chrome, the Blob path silently fails — that's the canonical signal to fall back to chunked-read and surface a warning so the operator can re-grant permission.
 
 ## Step 7: Write the review file
 
