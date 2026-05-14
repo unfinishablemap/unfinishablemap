@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T06:25:00+00:00
+ai_modified: 2026-05-14T06:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 06:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Trigger**: Outer review by Claude Opus 4.7 (2026-05-14) §2.3 — "the elephant" of the article. If "less brain activity → richer experience → filter theory" is the inference under psychedelics, anaesthesia and slow-wave sleep should refute filter theory by exactly the same logic. The Map's anaesthesia article handles the cases gracefully (interface narrows rather than vanishes; covert consciousness; structured first-person reports of the anaesthetic interval), but that move is structurally identical to the production-side accommodation move and is not paid for by altered-state data alone. Third refine-draft pass on this article today (sibling to the 05:55 UTC empirical-base refresh and the 06:25 UTC Letheby engagement).
+- **Scope**: Added new section **"Why Anaesthesia and Slow-Wave Sleep Don't Refute Filter Theory"** between "Letheby's Naturalistic Alternative" and "Epistemological Questions". ~470 words covering (a) direct citation of [[anaesthesia-and-the-consciousness-interface]] as the Map's existing handling of the symmetric move; (b) acknowledgement that the filter-narrowing accommodation is structurally identical to the production-side dynamical-complexity-reorganisation accommodation — both are accommodations, neither is paid for by altered-state data alone; (c) honest conclusion in the prescribed form: "filter theory and production theory each accommodate the full set of altered states; the discrimination, if any, comes from broader theoretical considerations rather than from the altered-state data alone"; (d) explicit no-double-counting corollary: the convergence-of-altered-states pattern (psychedelics + terminal lucidity + contemplative practice + lucid dreaming + sensory deprivation) is one phenomenological cluster carrying the evidential weight of one pattern, not five. Walks back the opening "challenge no other pharmacological intervention matches" framing as methodologically isolated, citing the Map's own anaesthesia article's concession that production models "account for the change straightforwardly."
+- **Engagement classification** (editor-internal, not in article body): Mode Two — naming an unsupported foundational move. The earlier framing helped itself to selection of filter-supportive altered states without addressing the filter-unsupportive ones by the same standards. The reply uses the article's own evidential-status discipline against that selection; the discharge is to hedge the inference and route adjudication through broader theoretical commitments (Tenet 1, convergence of interface architectures across the anaesthesia/psychedelic/terminal-lucidity cases, the Letheby section's symmetric-debts result) rather than altered-state data alone.
+- **Forbidden-vocabulary check**: "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", and the meta-phrase "per [[direct-refutation-discipline]]" do not appear in the new section body. The "helps itself to" pattern is used once in natural prose. No bold-headed "Evidential status:" callouts; the discipline link is `[[evidential-status-discipline|the evidential-status discipline]]` in natural prose.
+- **Tenet alignment**: methodological — Tenet 5 (Occam's Razor Has Limits) by way of [[evidential-status-discipline]]: when altered-state data underdetermines the choice between rival frameworks, the choice is honestly routed through broader theoretical commitments rather than dressed as data-driven.
+- **No references added** (this pass is a methodological/structural section; relevant citations were already present from the 05:55 UTC and 06:25 UTC passes).
+- **Sibling tasks remaining** from the same outer review: anchor-page calibration + Metzinger citation fix (P1), Competing Accounts + phenomenology measurement caveats + quantum/Orch-OR downgrade (P2), full Letheby topic article (P2), three methodology project docs (P2).
+- **Words added**: ~470 (section, no new references). Article length increased from ~3,980 to ~4,450 words.
+- **Published**: yes (article was already `draft: false`; section published in place)
 
 ## 2026-05-14 06:25 UTC - refine-draft
 - **Status**: Success

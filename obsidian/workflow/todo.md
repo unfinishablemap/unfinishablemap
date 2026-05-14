@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-14
 
-### P1: Refine topics/psychedelics-and-the-filter-model.md — address the altered-state symmetry / asymmetry problem (anaesthesia / sleep)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-14. The "elephant" of the article per the reviewer: if "less brain activity → richer experience → filter theory" is the inference under psychedelics, why don't anaesthesia and slow-wave sleep refute filter theory by exactly the same logic? They show "less brain activity → less experience" — the opposite direction. The Map's `[[anaesthesia-and-the-consciousness-interface]]` article handles this gracefully ("the filter narrows rather than vanishes; covert consciousness etc.") — but that move is *also* available to production theorists. Both theories accommodate both data; the discrimination, if any, comes from broader theoretical considerations rather than from the altered-state data alone. Refine to add a section "Why don't anaesthesia and slow-wave sleep refute filter theory?" that (a) cites the existing anaesthesia article directly; (b) acknowledges the structural symmetry between filter-supportive and filter-undermining accommodations; (c) concludes honestly: "Filter theory and production theory each accommodate the full set of altered states; the discrimination, if any, comes from broader theoretical considerations rather than from the altered-state data alone"; (d) explicitly NOT double-count the convergence-of-altered-states pattern as multiple independent confirmations. Apply [[direct-refutation-discipline]] Mode Two — naming an unsupported foundational move (selection of supportive altered states without addressing the unsupportive ones). ~300–500 words touched. Tenet alignment: methodological / [[evidential-status-discipline]]. See review file.
-- **Review file**: `reviews/outer-review-2026-05-14-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-14
-
 ### P2: Refine topics/psychedelics-and-the-filter-model.md — Competing Accounts section + Phenomenology-measurement caveats + downgrade quantum/Orch-OR
 - **Type**: refine-draft
 - **Status**: pending
@@ -3633,6 +3625,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Refine topics/psychedelics-and-the-filter-model.md — address the altered-state symmetry / asymmetry problem (anaesthesia / sleep)
+- **Type**: refine-draft
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-14. The "elephant" of the article per the reviewer: if "less brain activity → richer experience → filter theory" is the inference under psychedelics, why don't anaesthesia and slow-wave sleep refute filter theory by exactly the same logic? They show "less brain activity → less experience" — the opposite direction. The Map's `[[anaesthesia-and-the-consciousness-interface]]` article handles this gracefully ("the filter narrows rather than vanishes; covert consciousness etc.") — but that move is *also* available to production theorists. Both theories accommodate both data; the discrimination, if any, comes from broader theoretical considerations rather than from the altered-state data alone. Refine to add a section "Why don't anaesthesia and slow-wave sleep refute filter theory?" that (a) cites the existing anaesthesia article directly; (b) acknowledges the structural symmetry between filter-supportive and filter-undermining accommodations; (c) concludes honestly: "Filter theory and production theory each accommodate the full set of altered states; the discrimination, if any, comes from broader theoretical considerations rather than from the altered-state data alone"; (d) explicitly NOT double-count the convergence-of-altered-states pattern as multiple independent confirmations. Apply [[direct-refutation-discipline]] Mode Two — naming an unsupported foundational move (selection of supportive altered states without addressing the unsupportive ones). ~300–500 words touched. Tenet alignment: methodological / [[evidential-status-discipline]]. See review file.
+- **Output**: obsidian/topics/psychedelics-and-the-filter-model.md
+
+Task context:
+From outer review by Claude Opus 4.7 2026-05-14. The "elephant" of the article per the reviewer: if "less brain activity → richer experience → filter theory" is the inference under psychedelics, why don't anaesthesia and slow-wave sleep refute filter theory by exactly the same logic? They show "less brain activity → less experience" — the opposite direction. The Map's `[[anaesthesia-and-the-consciousness-interface]]` article handles this gracefully ("the filter narrows rather than vanishes; covert consciousness etc.") — but that move is *also* available to production theorists. Both theories accommodate both data; the discrimination, if any, comes from broader theoretical considerations rather than from the altered-state data alone. Refine to add a section "Why don't anaesthesia and slow-wave sleep refute filter theory?" that (a) cites the existing anaesthesia article directly; (b) acknowledges the structural symmetry between filter-supportive and filter-undermining accommodations; (c) concludes honestly: "Filter theory and production theory each accommodate the full set of altered states; the discrimination, if any, comes from broader theoretical considerations rather than from the altered-state data alone"; (d) explicitly NOT double-count the convergence-of-altered-states pattern as multiple independent confirmations. Apply [[direct-refutation-discipline]] Mode Two — naming an unsupported foundational move (selection of supportive altered states without addressing the unsupportive ones). ~300–500 words touched. Tenet alignment: methodological / [[evidential-status-discipline]]. See review file.
+
+Review file: reviews/outer-review-2026-05-14-claude-opus-4-7.md
 
 ### ✓ 2026-05-14: Refine topics/psychedelics-and-the-filter-model.md — add dedicated Letheby Predictive Self-Binding engagement (the strongest non-dualist opponent)
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-05-14T06:25:00+00:00
+ai_modified: 2026-05-14T06:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,6 +112,18 @@ Where does the filter account exceed Letheby's? On altered-state data alone, it 
 Predictive self-binding helps itself to a foundational move that predictive processing as a programme has not yet paid for: the assumption that a sufficiently structured Bayesian model is, by being so structured, phenomenally felt. This is the [[hard-problem-of-consciousness|hard-problem]] criticism in its predictive-processing register—predictive processing inherits the explanatory gap whether or not it explains the structural features of psychedelic experience. But Letheby can fairly reply that filter theory inherits a parallel debt: positing an extra-cerebral consciousness for the brain to filter only relocates the question of what makes that consciousness phenomenal. The objection identifies a genuine debt on Letheby's side without discharging the symmetric debt on the Map's. Neither side can honestly claim the altered-state data alone settles which debt is more tractable.
 
 What discriminates the two accounts, in the end, is not the psychedelic neuroimaging or the phenomenology but broader theoretical commitments: whether one expects consciousness to admit reduction to predictive-modelling architectures, how one weighs the convergent evidence from cases this article does not reach (terminal lucidity, anaesthesia asymmetry, contemplative cessation), and which metaphysical starting point leaves the smaller residue of unexplained explananda. The Map's commitment to [[tenets|Tenet 1 (Dualism)]] places it outside Letheby's framework as a matter of foundational stance, not of altered-state-data adjudication. The honest discharge is to say so directly: this article supports filter theory as the better fit *given the Map's broader commitments*, while granting that on the psychedelic evidence considered in isolation, predictive self-binding is a competent rival no smaller in explanatory reach.
+
+## Why Anaesthesia and Slow-Wave Sleep Don't Refute Filter Theory
+
+The inference the earlier sections lean on runs: *less brain activity → richer experience → filter theory*. The symmetric counter-question is unavoidable: deep anaesthesia and slow-wave sleep also decrease brain activity, yet experience contracts to nothing. By the same logic, these cases ought to refute filter theory exactly as cleanly as psychedelics are said to refute production theory. The article's earlier framing has not paid for this asymmetry by its own standards — it selects the filter-supportive altered states without addressing the filter-unsupportive ones with equal rigour, and the inference looks tendentious once that selection is named.
+
+The Map does have a reply available: [[anaesthesia-and-the-consciousness-interface|the anaesthesia article]] argues that anaesthetics narrow the interface rather than abolish consciousness — propofol and xenon target the phenomenal-presence component specifically, ketamine severs access channels while sparing phenomenal content, sevoflurane disrupts temporal binding, and the resulting state under deep anaesthesia is closer to filter-closure than to filter-absence. Slow-wave sleep is treated analogously: covert consciousness, post-anaesthetic dream reports, and the structured phenomenology of the [[anesthesia-void|anaesthetic interval]] are read as evidence that the interface architecture remains intact even when its bandwidth is driven to near-zero. This is a coherent move and the Map endorses it.
+
+But the structural point is that the same move is available to production theorists. A predictive-processing account, an entropic-brain account, or a global-workspace account can equally say: psychedelics decrease one variable (top-down priors, network identity, narrative-self construction) while *increasing* another (cross-network communication, signal diversity, criticality); anaesthesia decreases both; "less activity" is too coarse for either side to win on; what matters is which decrease one is tracking. Filter theory accommodates the full set of altered states by treating "filter narrows" and "filter loosens" as different perturbations of one architecture. Production theory accommodates the same set by treating "dynamical complexity collapses" and "dynamical complexity reorganises" as different perturbations of one mechanism. Both moves are structurally identical accommodations, and neither is paid for by the altered-state data alone.
+
+Two corollaries follow for the rest of this article. First, the convergence-of-altered-states pattern — psychedelics, terminal lucidity, contemplative practice, lucid dreaming, sensory deprivation — cannot honestly be cited as multiple independent confirmations of filter theory. They are members of a single phenomenological cluster ("filter perturbation → enriched manifestation") and the cluster carries the evidential weight of one pattern, not five. Second, the opening claim that psychedelics are "a challenge to production models that no other pharmacological intervention matches" is rhetorically strong but methodologically isolated. Deep anaesthesia is at least as direct a challenge to *filter* models under the same evidential standards, and the Map's anaesthesia article already concedes that production models "account for the change straightforwardly: disrupt one subsystem and the overall output shifts."
+
+The honest conclusion is the one [[evidential-status-discipline|the evidential-status discipline]] requires: filter theory and production theory each accommodate the full set of altered states; the discrimination, if any, comes from broader theoretical considerations rather than from the altered-state data alone. This article supports filter theory as the better fit *given the Map's broader commitments* — Tenet 1 (Dualism), the convergence of the interface architectures across the anaesthesia/psychedelic/terminal-lucidity cases, the structural features of selective access, and the symmetric explanatory debts identified in the Letheby section above. It does not support filter theory by the psychedelic data alone, and earlier sections that lean toward "the data settles it" should be read in light of this discipline rather than against it.
 
 ## Epistemological Questions
 
@@ -229,6 +241,26 @@ Forbidden vocabulary check: "Mode One/Two/Three/Four", "direct-refutation-feasib
 References: added Letheby & Gerrans (2017, *Neuroscience of Consciousness*) and Letheby (2021, OUP) at positions 16 and 17; renumbered subsequent entries (Mason→18, ..., Southgate→27).
 
 ~830 words added (target: 600–900). Total length increased from ~3,150 to ~3,980 words.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-14 (third pass, 06:54 UTC)
+Added new section "Why Anaesthesia and Slow-Wave Sleep Don't Refute Filter Theory" between "Letheby's Naturalistic Alternative" and "Epistemological Questions." Addresses the structural-symmetry critique flagged as §2.3 "the elephant" of the outer review by Claude Opus 4.7 (2026-05-14): if "less brain activity → richer experience → filter theory" is the inference under psychedelics, anaesthesia and slow-wave sleep should refute filter theory by exactly the same logic.
+
+Section covers, per the task brief:
+- (a) cites [[anaesthesia-and-the-consciousness-interface]] directly — the Map's existing handling of the interface-narrowing/covert-consciousness move;
+- (b) acknowledges structural symmetry: the filter-narrowing accommodation is structurally identical to the dynamical-complexity-reorganisation accommodation production theorists use; both sides do the same kind of accommodation work, and the asymmetry was in the article's case selection, not in the world;
+- (c) lands on the honest conclusion: "filter theory and production theory each accommodate the full set of altered states; the discrimination, if any, comes from broader theoretical considerations rather than from the altered-state data alone";
+- (d) explicitly names the no-double-counting corollary: the convergence-of-altered-states pattern (psychedelics + terminal lucidity + contemplative practice + lucid dreaming + sensory deprivation) is one phenomenological cluster carrying the evidential weight of one pattern, not five. Walks back the opening "challenge that no other pharmacological intervention matches" framing as methodologically isolated.
+
+Engagement classification (editor-internal, not in article body): Mode Two — naming an unsupported foundational move. The earlier framing helped itself to selection of filter-supportive altered states without addressing the filter-unsupportive ones by the same standards. The reply uses the article's own evidential-status discipline against the selection; the discharge is to hedge the inference and route adjudication through broader theoretical commitments rather than altered-state data alone. The Map's anaesthesia article's concession ("production models account for the change straightforwardly") is cited as in-corpus confirmation that the asymmetry was a local rhetorical slip, not a Map-wide methodological commitment.
+
+Forbidden vocabulary check: "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", and the meta-phrase "per [[direct-refutation-discipline]]" do not appear in the new section. The "helps itself to" pattern is used once in natural prose. No bold-headed "Evidential status:" callouts; the discipline link is `[[evidential-status-discipline|the evidential-status discipline]]` in natural prose.
+
+Tenet alignment: methodological — Tenet 5 (Occam's Razor Has Limits) by way of [[evidential-status-discipline]]: when the data underdetermines the choice between rival frameworks, the choice is honestly routed through broader theoretical commitments rather than dressed as data-driven.
+
+~470 words touched (target: 300–500). Total length increased from ~3,980 to ~4,450 words.
 
 This log should be removed after human review.
 -->
