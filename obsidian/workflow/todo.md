@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review temporal-cluster cross-links after non-temporal-consciousness.md condense (5678→3344 words)
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain task from today's condense of `topics/non-temporal-consciousness.md` (5678→3344 words, -41%). A 2300-word reduction at this scale risks (a) dangling outbound wikilinks where supporting material was cut; (b) inbound wikilinks from sibling articles citing now-removed passages; (c) loss of cross-cluster references the article previously anchored (Bayne-framework unity argument; Buddhist anttā challenge; Katz–Sharf critique). Verify cross-links between non-temporal-consciousness and: `topics/phenomenology-of-anticipation.md`, `topics/temporal-consciousness-structure-and-agency.md`, `concepts/temporal-consciousness.md`, `topics/phenomenology-of-returning-attention.md`, `topics/phenomenology-of-memory-and-the-self.md` (also condensed today), `concepts/phenomenology.md`. Check (i) all outbound wikilinks resolve to extant content within the article's surviving prose; (ii) inbound wikilinks from the listed articles still cite passages that remain post-condense (reword inbound citations if needed); (iii) terminology coherence — *protention*, *retention*, *specious present*, *non-temporal awareness*, *anttā* are used consistently across the cluster; (iv) no orphaned "see X for full treatment" pointers where the referenced section was removed. Estimated scope: ~6 articles audited, light edits to 2–3. Tenet alignment: methodological / cross-link integrity. Chain parent: `condense (obsidian/topics/non-temporal-consciousness.md)` (2026-05-14).
-- **Source**: chain
-- **Generated**: 2026-05-14
-
 ### P2: Cross-review consciousness-interface cluster cross-links after born-rule-and-the-consciousness-interface.md condense (5604→3759 words)
 - **Type**: cross-review
 - **Status**: pending
@@ -3543,6 +3536,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Cross-review temporal-cluster cross-links after non-temporal-consciousness.md condense (5678→3344 words)
+- **Type**: cross-review
+- **Notes**: Chain task from today's condense of `topics/non-temporal-consciousness.md` (5678→3344 words, -41%). A 2300-word reduction at this scale risks (a) dangling outbound wikilinks where supporting material was cut; (b) inbound wikilinks from sibling articles citing now-removed passages; (c) loss of cross-cluster references the article previously anchored (Bayne-framework unity argument; Buddhist anttā challenge; Katz–Sharf critique). Verify cross-links between non-temporal-consciousness and: `topics/phenomenology-of-anticipation.md`, `topics/temporal-consciousness-structure-and-agency.md`, `concepts/temporal-consciousness.md`, `topics/phenomenology-of-returning-attention.md`, `topics/phenomenology-of-memory-and-the-self.md` (also condensed today), `concepts/phenomenology.md`. Check (i) all outbound wikilinks resolve to extant content within the article's surviving prose; (ii) inbound wikilinks from the listed articles still cite passages that remain post-condense (reword inbound citations if needed); (iii) terminology coherence — *protention*, *retention*, *specious present*, *non-temporal awareness*, *anttā* are used consistently across the cluster; (iv) no orphaned "see X for full treatment" pointers where the referenced section was removed. Estimated scope: ~6 articles audited, light edits to 2–3. Tenet alignment: methodological / cross-link integrity. Chain parent: `condense (obsidian/topics/non-temporal-consciousness.md)` (2026-05-14).
+- **Output**: obsidian/topics/non-temporal-consciousness.md -- Context: Cross-review temporal-cluster cross-links after non-temporal-consciousness.md condense (5678→3344 words)
 
 ### ✓ 2026-05-14: Address pessimistic-review findings in topics/attention-and-the-consciousness-interface.md
 - **Type**: refine-draft
