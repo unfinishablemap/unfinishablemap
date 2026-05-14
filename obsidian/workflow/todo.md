@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/attention-and-the-consciousness-interface.md (4519 words, 151% of topics hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word topics/ hard threshold (and the 4000-word soft-critical band) at 4519 words. Currently the only article-tier hard_warning length violation in the catalogue after today's condense pass on three temporal-cluster articles (`non-temporal-consciousness.md`, `born-rule-and-the-consciousness-interface.md`, `phenomenology-of-memory-and-the-self.md`). The article is a load-bearing hub for the Map's attention-as-interface programme — preserve the core argument structure (attention as bandwidth filter; Schwartz OCD case; selection trilemma; relation to Tenet 3 Bidirectional Interaction). Defer detailed phenomenological exhibits to linked articles (`phenomenology-of-returning-attention`, `structure-of-attention`, `attention-and-consciousness`) where they already live in fuller form. Watch for opportunities to compress: editor-vocabulary leakage (HTML refinement-log comments — already a known temporal-cluster issue); compressed prose where one sentence does the work of three; passages reproducing material already canonical elsewhere in the cluster. Target word count: ~3000-3200 words (within soft threshold). Tenet alignment: Tenet 3 (Bidirectional Interaction) primary; Tenet 1 (Dualism) secondary. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-14
-
 ### P2: Cross-review temporal-cluster cross-links after non-temporal-consciousness.md condense (5678→3344 words)
 - **Type**: cross-review
 - **Status**: pending
@@ -3550,6 +3543,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Condense topics/attention-and-the-consciousness-interface.md (4519 words, 151% of topics hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word topics/ hard threshold (and the 4000-word soft-critical band) at 4519 words. Currently the only article-tier hard_warning length violation in the catalogue after today's condense pass on three temporal-cluster articles (`non-temporal-consciousness.md`, `born-rule-and-the-consciousness-interface.md`, `phenomenology-of-memory-and-the-self.md`). The article is a load-bearing hub for the Map's attention-as-interface programme — preserve the core argument structure (attention as bandwidth filter; Schwartz OCD case; selection trilemma; relation to Tenet 3 Bidirectional Interaction). Defer detailed phenomenological exhibits to linked articles (`phenomenology-of-returning-attention`, `structure-of-attention`, `attention-and-consciousness`) where they already live in fuller form. Watch for opportunities to compress: editor-vocabulary leakage (HTML refinement-log comments — already a known temporal-cluster issue); compressed prose where one sentence does the work of three; passages reproducing material already canonical elsewhere in the cluster. Target word count: ~3000-3200 words (within soft threshold). Tenet alignment: Tenet 3 (Bidirectional Interaction) primary; Tenet 1 (Dualism) secondary. See `/condense` skill.
+- **Output**: obsidian/topics/attention-and-the-consciousness-interface.md
 
 ### ✓ 2026-05-14: Condense topics/phenomenology-of-memory-and-the-self.md (4558 words, 152% of target)
 - **Type**: condense

@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T01:54:00+00:00
+ai_modified: 2026-05-14T02:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 02:37 UTC - condense
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Before**: 4519 words
+- **After**: 3209 words
+- **Reduction**: 29%
+- **Technique**: Removed stale AI refinement log comment. Collapsed three subheadings under "Convergence" into prose; merged Dopamine/Threshold details into Competition-Selection. Tightened Dissociation section (Overflow, Constraints, Interface) and AST section. Compressed Clinical Evidence intro and each disorder subsection while preserving the Phenomenological Kaleidoscope table; merged Fatigue+OCD+Meditation into one subsection; merged Effort/Libet/Sites into one section and Predictions+Falsification into another. Tightened Relation to Site Perspective tenet entries and Honest Limitations. Trimmed Further Reading descriptions. Preserved opening summary, the four-case dissociation table, the phenomenological kaleidoscope table, all five tenet connections, and key citations (Rizzolatti, Cisek, Cai et al., Schurger, Schwartz, COGITATE, Zheng & Meister).
 
 ## 2026-05-14 01:54 UTC - condense
 - **Status**: Success
