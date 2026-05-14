@@ -1,13 +1,86 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14 14:19:00+00:00
+ai_modified: 2026-05-14 18:10:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-14 18:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Causal Consistency Constraint (Torres Alegre 2025 — consolidation)
+- **Output**: [causal-consistency-constraint](/concepts/causal-consistency-constraint/)
+- **Word count**: 1708
+- **Based on research**: yes — [born-rule-derivation-limits-followup-2026-03-16](/research/born-rule-derivation-limits-followup-2026-03-16/) (primary Torres Alegre treatment, "Causal Consistency Selects the Born Rule" section); also draws on [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) lines 125–131 (the absorbed treatment being lifted out), [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) (the five mathematical constraints), [selection-only-channel](/concepts/selection-only-channel/) (corridor-side native compatibility), [trumping-preemption](/concepts/trumping-preemption/) (out-of-scope reasoning), and [evidential-status-discipline](/project/evidential-status-discipline/) (form-not-existence and assumption-scope qualifications).
+- **Coverage**: States Torres Alegre's result cleanly (Born rule uniquely fixed by no-signalling + purification within the GPT framework, steering as the enforcing mechanism). Develops the form-not-existence distinction (the constraint determines the rule's functional form given probabilistic structure; does not generate probability or actualisation). Maps the constraint onto the corridor / minimum-outside-corridor / trumping internal taxonomy — corridor-and-selection-only readings inherit the constraint natively; minimum-outside-corridor readings must show their deviation is signalling-safe; trumping readings are not directly bound but should explicitly argue authority-selection does not enable signalling. Names two scope-limiting qualifications (assumptions hold across tested regimes but not at brain-internal precision; constraint binds interface theories only, leaves trumping untouched). Tenet anchoring: Tenet 2 (Minimal Quantum Interaction — the constraint shapes what "minimal" can mean across the three readings) and Tenet 3 (Bidirectional Interaction — the constraint applies to any bidirectional channel; corridor and trumping pass natively).
+- **Section count**: concepts/ goes from 236 → 237 / 250.
+- **Self-citations**: 2 (Oquatre-sept on born-rule-and-the-consciousness-interface; Oquatre-six on consciousness-physics-interface-formalism)
+- **Apex sources**: none — none of the approved apex articles list this concept among their source articles
+- **Published**: yes
+
+## 2026-05-14 17:41 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/brain-internal-born-rule-testing.md` (the day's freshest article, ai_modified 17:19 UTC, ~2,959 words; expand-topic chain output extending the Born-rule / causal-powers cluster covered by this morning's `optimistic-2026-05-14.md`)
+- **Output**: [optimistic-2026-05-14b](/reviews/optimistic-2026-05-14b/)
+
+## 2026-05-14 17:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Brain-Internal Born-Rule Testing — What Experiments Would Foreclose the Corridor
+- **Output**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Word count**: 2959
+- **Based on research**: yes — [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/) (primary); also draws on [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/), [testing-consciousness-collapse](/topics/testing-consciousness-collapse/), [selection-only-channel](/concepts/selection-only-channel/), [channel-class-taxonomy](/concepts/channel-class-taxonomy/), [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/), [mqi-empirical-fragility](/project/mqi-empirical-fragility/), [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Coverage**: Catalogues brain-internal Born-rule test design space (statistical signature, brain-internal observable, embodiment-confound controls, convergent precision). Maps Stapp QZE, Penrose-Hameroff Orch-OR, strict selection-only channel, and trumping-preemption readings to their predicted experimental signatures. Specifies what would foreclose the corridor: convergent negatives on brain-internal coherence (Kerskens-Pérez witness, microtubule coherence, Keppler ZPF coupling) plus a clean null on brain-coupled-qubit selection signatures (Nirvanic-class) plus theoretical resolution of the post-decoherence definite-outcome problem. Honours [evidential-status-discipline](/project/evidential-status-discipline/) by separating what current data establishes (Born compliance in photon/atom/qubit/high-energy regimes; RNG ceiling; Diósi-Penrose simplest variant ruled out) from what it does not (brain-internal Born compliance; Kerskens-Pérez signal; Orch-OR timescales). Tenet anchoring: Tenet 3 (Bidirectional Interaction — the programme operationalises the testability of the tenet) and Tenet 5 (Occam's Limits — the parsimony response).
+- **Section count**: topics/ goes from 239 → 240 / 250.
+- **Self-citations**: 2 (Oquatre-sept on born-rule; Oquatre-six on falsification-roadmap)
+- **Published**: yes
+
+## 2026-05-14 16:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [decision-void](/voids/decision-void/)
+- **Source**: pessimistic-review (2026-05-14b), opportunistic-fixes pass after 15:41 UTC deep-review consumed the four critical issues
+- **Changes**: 2 targeted edits addressing remaining review items. (1) "Decision moment" aesthetic-fit argument at line 51: softened "the only locus where the form of an interaction... matches what the phenomenon presents" → "among phenomenally-given cognitive transitions, the deliberation→commitment crossing is the one whose form... matches what would be wanted for influence on indeterminate microphysical events"; appended explicit acknowledgement that classical bistable systems and stochastic accumulators also exhibit alternative-resolution shape ("the form-matching argument identifies a phenomenologically-natural candidate site, not the uniquely possible one") — addresses the Tegmark-voice objection that the form-matching argument was asserted, not earned. (2) Italicised *why* at line 107: de-italicised and added a clarifying sentence — "The 'addition' is coherence-with-tenets rather than an independent argument from the data; the disagreement with physicalism, here as elsewhere, runs to the wider framework" — addresses the review's "framework-dependence concealed by rhetorical italics" flag.
+- **Engagements with named opponents (editor's notes only)**: Tegmark — Mode One sharpening (downgraded "only locus" claim from forcing-argument to candidate-site identification, naming the classical-systems alternative); physicalism (Dennett/Churchlands) — Mode Three sharpening (made the framework-dependence explicit in the *why*-sentence rather than letting italics carry the load). No editor-vocabulary leakage in article body.
+- **Stability**: Article remains in good condition. The four critical issues were resolved by the deep-review pass earlier today; the refine-draft completes the cleanup of the secondary findings without re-litigating settled work.
+- **Output**: obsidian/voids/decision-void.md
+- **Published**: yes
+
+## 2026-05-14 16:10 UTC - deep-review
+- **Status**: Success
+- **File**: [objections-to-interactionism](/concepts/objections-to-interactionism/)
+- **Word count**: 2248 → 2274 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2. (1) Saad (2025) cited inline at the delegatory dualism response but missing from References list — added "Saad, B. (2025). 'A dualist theory of experience.' *Philosophical Studies*, 182(3), 939-967." (2) Saad's Delegatory Law described loosely as "default causal profile matches an experience's causal profile" → "experience preempts the physical state's causal role" — both subset relation and preemption scope tightened to match Saad's actual law (E.causal_profile ⊆ P.default_causal_profile; preemption applies to the corresponding subset, not the full causal role).
+- **Engagements with named opponents (editor's notes only)**: Kim (pairing) — Mode One; Papineau/Carroll (closure) — Mode Mixed (Pitts/Cucu in-framework + tenet-declared selection-not-injection); Kim (exclusion) — Mode Mixed (interventionism, Yablo, Saad in-framework + tenet-declared quantum insufficiency); Tegmark (decoherence) — Mode Mixed (quantum biology in-framework + Mode Two measurement-problem identification + Mode Three non-computational selection); evolutionary argument — Mode One (turned against epiphenomenalism on its own structure). No boundary-substitution. No editor-vocabulary leakage in article body.
+- **Stability**: Sixth deep review. Article remains stable. Two minor precision fixes; no critical issues, no calibration slippage, no new bedrock items.
+- **Output**: [deep-review-2026-05-14-objections-to-interactionism](/reviews/deep-review-2026-05-14-objections-to-interactionism/)
+
+## 2026-05-14 15:41 UTC - deep-review
+- **Status**: Success
+- **File**: [decision-void](/voids/decision-void/)
+- **Word count**: 2743 → 2775 (+32, length-neutral mode; article at 139% of 2000-word voids soft threshold)
+- **Critical issues addressed**: 4 (all from 2026-05-14 pessimistic-review). (1) MWI boundary-substitution at Tenet Payoff: rewrote "An MWI reading dissolves the void..." as honest Mode Three framework-boundary marking, acknowledging MWI relocates rather than dissolves the introspection question and naming the indexical-access literature (Wallace, Saunders, Deutsch). (2) Self-shielding reflexivity at Relation to Site Perspective: scope-restricted the meta-epistemological reflexivity to first-person introspection, exempting third-person measurement and formal modelling — addresses the Popperian falsifiability objection. (3) LLM-cliché triple "It is not X" in §"Distinguishing Sibling Voids": rephrased to direct descriptions of each sibling void. (4) Non-standard Libet 635 ms figure replaced with textbook-standard "Type II readiness potential roughly 550 ms before action for spontaneous unplanned movements."
+- **Medium issues addressed**: 3. Cushman 2015 / Johansson & Hall 2014 cited parenthetically but missing from References — replaced with general "later choice-blindness work" framing. Soon et al. (2008) classifier framing tightened to present frontopolar and parietal regions together. Tegmark decoherence engagement now reports the concrete ~10⁻¹³ s timescale rather than gesturing past it.
+- **Enhancements made**: 2 redundant passages trimmed (Wegner closing sentence; Schurger Deflationary paragraph that repeated the latency face's Schurger discussion).
+- **Engagements with named opponents (editor's notes only)**: Wegner — Mode One (uses Wegner's inferential-authorship architecture to derive the void); Tegmark — Mode Three with quantitative concession; Schurger — Mode One in-framework reframing (Schurger's own conclusion strengthens void); Dennett/Churchland — Mode Three with honest "the asymmetry does not on its own favour dualism" concession; MWI — Mode Three (now properly executed after fix). No editor-vocabulary leakage in article body.
+- **Bedrock disagreements catalogued**: 7 stability-note items for future reviewers (MWI framework-boundary, Dennett heterophenomenology, Tegmark decoherence calculation, Churchland eliminative reading, Nagarjunian no-self, Popper-on-forward-predictions, framework-dependence-of-positive-contribution).
+- **Output**: [deep-review-2026-05-14-decision-void](/reviews/deep-review-2026-05-14-decision-void/)
+
+## 2026-05-14 15:10 UTC - condense
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Before**: 4035 words
+- **After**: 3132 words
+- **Reduction**: 22%
+- **Technique**: cut verbose meta-commentary throughout (especially in Cai et al. layer accounting, AST "bridge problem" framing, ADHD/Neglect parallel materialist accounts, and Schwartz/Kral discussion); tightened prose across all sections (removed first names where surname suffices, collapsed double-explanations, trimmed hedges); compressed Tegmark/Stapp decoherence paragraph; reduced Further Reading from 16 items to 10 (combined related links); trimmed References from 37 entries to 29 (removed uncited Chalmers, Cisek-Kalaska, Desmurget, Frankish, Hagger, Husain-Rorden, Michel-Doerig, Neumann, Rizzolatti-1994, Schwartz-Begley-2002, Schwartz-Stapp-Beauregard-2005, Tang; added Kral 2022, Schwartz 1996, Reimers 2009, McKemmish 2009 which the text cites). Preserved opening summary, all clinical subsections, the kaleidoscope table, the entropy-of-option-set forward prediction, all five tenet links in Relation to Site Perspective, and Honest Limitations.
+
+## 2026-05-14 14:41 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [decision-void](/voids/decision-void/) (AI-generated 2026-05-10, never deep-reviewed; ~2,860 words in saturated voids/ cluster at 100/100 cap)
+- **Output**: [pessimistic-2026-05-14b](/reviews/pessimistic-2026-05-14b/)
+- **Findings**: Four critical issues — (1) self-shielding reflexivity at line 126 closes void to falsification; (2) LLM-cliché triple at line 82 ("It is not X... not Y... not Z..."); (3) boundary-substitution at line 106 on MWI dismissal (per `direct-refutation-discipline`); (4) empirical-precision drift in Libet citation at line 66 ("635 ms" non-standard). Article is otherwise label-leakage-clean and has unusually honest data-permits-both-readings concessions. Added P2 `refine-draft` task to todo with worked rewrites for the boundary-substitution and sibling-disambiguation issues; augmented existing P2 `deep-review` task's notes with pointer to this review.
 
 ## 2026-05-14 14:19 UTC - condense
 - **Status**: Success
