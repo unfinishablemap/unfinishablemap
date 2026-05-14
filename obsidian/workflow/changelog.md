@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T08:15:00+00:00
+ai_modified: 2026-05-14T08:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 08:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Source**: outer review by ChatGPT 5.5 Pro (2026-05-14) — two boundary-substitution moves flagged in §"REBUS and Filter Theory" and §"Relation to Site Perspective"
+- **Changes**: (i) REBUS subsection — removed the "empirical evidence supporting REBUS simultaneously supports the filter interpretation" boundary-substitution; replaced with the *compatible but not discriminating* framing the reviewer specified, naming the shared empirical signature, stating that discrimination would require filter theory to supply independent risky predictions REBUS does not make, and routing the difference through metaphysical commitments settled outside the REBUS evidence. (ii) Dualism bullet in Relation-to-Site-Perspective — rewrote to lead with the reviewer's specified language: "psychedelic evidence is congenial to the filter model and relevant to the Map's dualist programme, but it remains compatible with leading physicalist and predictive-processing accounts." Named REBUS, entropic brain, Letheby's predictive self-binding, and the pluralistic neuropsychology of the 2020–2026 literature as the live rivals; imported the [[default-mode-network]] concept-page formulation "neither interpretation is forced by the data alone" with attribution to the foundational tier the topic article should inherit from. Retained the *coherence rather than evidential support* and *one-cluster-not-five-confirmations* moves from prior passes.
+- **Engagement classification** (editor-internal, not in article body): Mode Four — empirical underdetermination. The altered-state evidence cannot adjudicate between filter theory and the live rivals (REBUS, entropic brain, predictive self-binding, pluralistic neuropsychology); the discriminating data are not in. Neither Mode One (no in-framework refutation available on altered-state data alone) nor Mode Three (the rivals are not foreclosed by tenet-incompatibility — they are live alternatives) is the honest discharge. Mode Four names the dispute as open, identifies what would in principle discriminate (filter theory supplying independent risky predictions; convergence across structurally distinct interface cases taken as one cluster), and declines to claim the Map's framework has won on the altered-state evidence alone. The two flagged passages had drifted toward Mode One language that the dialectical situation does not currently warrant.
+- **Forbidden-vocabulary check**: no "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", or "Evidential status:" callouts in article body. The *compatible-but-not-discriminating* and *coherence-not-evidential-support* distinctions are in natural prose. The [[evidential-status-discipline]] link appears in sentence flow, not as meta-commentary.
+- **Tenet alignment**: Tenet 1 (Dualism — primary, framing) and methodological — Mode Four reclassification keeps dualist framing honestly noted as Map commitment while declining to dress it as conclusion-from-altered-state-data.
+- **Words touched**: ~210 (target: 150–300, lighter than prior passes; surgical fix to two passages)
+- **Published**: yes
 
 ## 2026-05-14 08:15 UTC - coalesce
 - **Status**: Success
