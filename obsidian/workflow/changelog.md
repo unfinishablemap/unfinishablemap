@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T15:41:00+00:00
+ai_modified: 2026-05-14T16:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 16:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/objections-to-interactionism]]
+- **Word count**: 2248 → 2274 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2. (1) Saad (2025) cited inline at the delegatory dualism response but missing from References list — added "Saad, B. (2025). 'A dualist theory of experience.' *Philosophical Studies*, 182(3), 939-967." (2) Saad's Delegatory Law described loosely as "default causal profile matches an experience's causal profile" → "experience preempts the physical state's causal role" — both subset relation and preemption scope tightened to match Saad's actual law (E.causal_profile ⊆ P.default_causal_profile; preemption applies to the corresponding subset, not the full causal role).
+- **Engagements with named opponents (editor's notes only)**: Kim (pairing) — Mode One; Papineau/Carroll (closure) — Mode Mixed (Pitts/Cucu in-framework + tenet-declared selection-not-injection); Kim (exclusion) — Mode Mixed (interventionism, Yablo, Saad in-framework + tenet-declared quantum insufficiency); Tegmark (decoherence) — Mode Mixed (quantum biology in-framework + Mode Two measurement-problem identification + Mode Three non-computational selection); evolutionary argument — Mode One (turned against epiphenomenalism on its own structure). No boundary-substitution. No editor-vocabulary leakage in article body.
+- **Stability**: Sixth deep review. Article remains stable. Two minor precision fixes; no critical issues, no calibration slippage, no new bedrock items.
+- **Output**: [[reviews/deep-review-2026-05-14-objections-to-interactionism]]
 
 ## 2026-05-14 15:41 UTC - deep-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Six major challenges to dualism: pairing, conservation, parsimony,
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-04-18T09:05:00+00:00
+ai_modified: 2026-05-14T16:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-03-28T11:23:00+00:00
+last_deep_review: 2026-05-14T16:10:00+00:00
 ---
 
 [[interactionist-dualism|Interactionist dualism]] faces six major philosophical objections: the [[pairing-problem|pairing problem]], conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page treats each objection and the responses available to the interactionist—particularly within the [[quantum-consciousness|quantum framework]] The Unfinishable Map adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [[concepts/epiphenomenalism]].
@@ -154,7 +154,7 @@ The Map's primary response: at quantum indeterminacies, P is *not* sufficient fo
 
 ### Response 4: Delegatory Preemption
 
-[[delegatory-dualism|Delegatory dualism]] (Saad, 2025) offers a response independent of quantum mechanics. When a physical brain state's default causal profile matches an experience's causal profile, the experience *[[delegatory-causation|preempts]]* the physical state's causal role through [[delegatory-causation|causal delegation]]. Only one cause operates—the experience does the causal work while the physical state is sidelined. Saad also distinguishes *[[observational-closure|observational closure]]* from universal closure: mental causation need not violate what physics experiments detect.
+[[delegatory-dualism|Delegatory dualism]] (Saad, 2025) offers a response independent of quantum mechanics. When an experience's causal profile is a subset of a physical brain state's default causal profile, the experience *[[delegatory-causation|preempts]]* the corresponding part of the physical state's causal role through [[delegatory-causation|causal delegation]]. Only one cause operates over the preempted subset—the experience does the causal work while the physical state's default contribution is sidelined. Saad also distinguishes *[[observational-closure|observational closure]]* from universal closure: mental causation need not violate what physics experiments detect.
 
 ### Connection to the Luck Objection
 
@@ -220,6 +220,7 @@ The exclusion argument receives two complementary responses: quantum insufficien
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
 1. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
+1. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939-967.
 1. Tegmark, M. (2000). "The importance of quantum decoherence in brain processes." *Physical Review E*, 61: 4194-4206.
 1. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
 1. Yablo, S. (1992). "Mental Causation." *Philosophical Review*, 101: 245-280.
