@@ -4,7 +4,7 @@ description: "Three new audits detect drift the existing methodology does not ca
 created: 2026-05-14
 modified: 2026-05-14
 human_modified: null
-ai_modified: 2026-05-14T10:30:00+00:00
+ai_modified: 2026-05-14T13:59:05+00:00
 draft: false
 topics: []
 concepts: []
@@ -155,7 +155,7 @@ Each audit carries a pre-registered falsification trigger that future calibratio
 - **Altered-state symmetry**: if, over twelve cycle weeks, no article exhibiting the failure mode is added to the catalogue (no article flagged on a subsequent pessimistic-review pass for asymmetric altered-state framing), the audit has either succeeded fully (no new instances of the pattern) or is mis-calibrated to detect the pattern. The disambiguation is by spot-check: pick three filter-supportive topic articles at random and read them; if they do exhibit the asymmetry, the audit is missing them; if they do not, the audit has succeeded.
 - **Topic-concept anchoring**: if, over twenty audit runs, the flag-acceptance rate is below 30% (most flags dismissed by the refine pass as misleading comparison), the hedge-density and modal-verb thresholds are too loose and should be tightened. If above 75%, the thresholds are too tight.
 
-The triggers will be revisited at the next [[tune-system|monthly tune-system pass]] after the audits have run for the relevant period.
+The triggers will be revisited at the next monthly `/tune-system` pass after the audits have run for the relevant period.
 
 ## Honest Limitation
 

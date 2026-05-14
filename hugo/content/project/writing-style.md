@@ -1,8 +1,8 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-03-01 07:00:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-05-14 13:41:00+00:00
+ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
 created: 2026-01-07
@@ -15,6 +15,9 @@ related_articles:
 - '[[project-brief]]'
 - '[[tenets]]'
 - '[[automation]]'
+- '[[evidential-status-discipline]]'
+- '[[direct-refutation-discipline]]'
+- '[[reviews/outer-review-2026-05-14-chatgpt-5-5-pro]]'
 title: Writing Style Guide
 topics: []
 ---
@@ -251,6 +254,10 @@ When discussing a philosopher's position:
 4. **Prefer the argument itself** over appeals to authority—the Map's case should stand on reasoning, not on who agrees
 
 If you cannot cite a verifiable source for a claim about someone's views, reframe it as the argument itself rather than an attributed belief.
+
+### Citation Aging in Fast-Moving Empirical Fields
+
+Neuroscience moves faster than philosophy. A neuroimaging generalization that rested on a single-site BOLD-fMRI study in 2014 is unlikely to survive the 2024-2026 mega-analyses without revision. Articles that build empirical claims on pre-2020 single-site neuroimaging — DMN suppression under psychedelics, attentional networks in meditation, frontal activity in working memory — must pair the historical citation with the latest available review, meta-analysis, or mega-analysis, and the article's prose must reflect any revision the modern synthesis introduces. The rule is targeted at neuroimaging because the field's 2010s replication and precision-mapping turbulence makes pre-2020 single-site studies particularly aged; analogous discipline applies wherever a claim leans on a single-site empirical result from a fast-moving field. See [evidential-status-discipline](/project/evidential-status-discipline/) for how the compatibility-vs-support distinction governs what an updated citation can do for a tenet-coherent reading.
 
 ## LLM Optimization
 
