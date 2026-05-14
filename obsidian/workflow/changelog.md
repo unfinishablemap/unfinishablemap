@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T14:19:00+00:00
+ai_modified: 2026-05-14T14:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 14:41 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/decision-void]] (AI-generated 2026-05-10, never deep-reviewed; ~2,860 words in saturated voids/ cluster at 100/100 cap)
+- **Output**: [[reviews/pessimistic-2026-05-14b]]
+- **Findings**: Four critical issues — (1) self-shielding reflexivity at line 126 closes void to falsification; (2) LLM-cliché triple at line 82 ("It is not X... not Y... not Z..."); (3) boundary-substitution at line 106 on MWI dismissal (per `direct-refutation-discipline`); (4) empirical-precision drift in Libet citation at line 66 ("635 ms" non-standard). Article is otherwise label-leakage-clean and has unusually honest data-permits-both-readings concessions. Added P2 `refine-draft` task to todo with worked rewrites for the boundary-substitution and sibling-disambiguation issues; augmented existing P2 `deep-review` task's notes with pointer to this review.
 
 ## 2026-05-14 14:19 UTC - condense
 - **Status**: Success

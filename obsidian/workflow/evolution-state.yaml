@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-14T13:40:26.572359+00:00'
-session_count: 7168
-cycle_position: 6796
+last_updated: '2026-05-14T14:10:26.574764+00:00'
+session_count: 7169
+cycle_position: 6797
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-14T02:54:29.762849+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-05-14T02:24:29.762499+00:00'
   commission-claude-review: '2026-05-14T03:24:29.763363+00:00'
   commission-gemini-review: '2026-05-14T04:24:29.764044+00:00'
-last_git_push: '2026-05-14T06:24:29.765071+00:00'
+last_git_push: '2026-05-14T14:10:26.574764+00:00'
 last_tweet_date: '2026-05-14'
 content_stats:
   total_files: 297
@@ -54,21 +54,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 497
-  needs_replenishment: false
-  last_replenishment: '2026-05-14T14:10:00+00:00'
-  replenishment_source_counts:
-    length_analysis: 2
-    staleness: 1
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-14'
-  outcome: success
 - task: deep-review (obsidian/topics/born-rule-and-the-consciousness-in)
   type: deep-review
   date: '2026-05-14'
@@ -150,5 +136,9 @@ recent_tasks:
 
     From outer review 2026-05-14 (ChatGP)'
   type: refine-draft
+  date: '2026-05-14'
+  outcome: success
+- task: condense (obsidian/topics/psychedelics-and-the-filter-model.)
+  type: condense
   date: '2026-05-14'
   outcome: success
