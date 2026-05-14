@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T23:33:00+00:00
+ai_modified: 2026-05-14T23:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 23:37 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Confabulation Void
+- **Category**: Mixed (Occluded + Unexplorable — operation-void with structural undetectability from within)
+- **Output**: [[research/voids-confabulation-void-2026-05-14]]
+- **Key finding**: The void is the operation of *filling-in for unwitnessed cognitive history with a plausible narrative*; three faces (generation, detection, pervasiveness) conjoin into structural irresolvability — Coutinho et al. 2021 confidence-accuracy reversal supplies the strongest single piece of evidence the felt-rightness signal is anti-correlated with the criterion it would need to track. Designed for absorption into [[narrative-void]] (generation), [[source-attribution-void]] (generation+detection), [[self-opacity]] / [[necessary-opacity]] (pervasiveness), [[agency-void]] verification face, and [[noetic-feelings-void]] (detection) per the cap-pressure-forces-absorption pattern at [[voids]].
 
 ## 2026-05-14 23:33 UTC - deep-review
 - **Status**: Success
