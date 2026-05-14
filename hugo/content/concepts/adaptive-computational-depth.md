@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-17 01:41:00+00:00
+ai_modified: 2026-05-14 07:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,6 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[prebiotic-collapse]]'
 - '[[bidirectional-interaction]]'
-- '[[evaluative-phenomenal-character]]'
 - '[[evaluative-phenomenal-character]]'
 - '[[consciousness-value-connection]]'
 created: 2026-02-24
@@ -21,7 +20,7 @@ description: Adaptive computational depth—the idea that reality allocates deta
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 03:12:00+00:00
+last_deep_review: 2026-05-14 07:25:00+00:00
 modified: *id001
 related_articles:
 - '[[adaptive-computational-depth-2026-02-08]]'
@@ -42,7 +41,7 @@ In computational physics, adaptive mesh refinement allocates processing power to
 
 Adaptive computational depth applies this logic to reality itself. If the universe has finite informational or computational resources, it need not determine every quantum state in advance. States that no observer will inspect can remain indeterminate—not hidden, but genuinely undecided. Detail crystallises where consciousness directs attention.
 
-This is not merely a metaphor borrowed from computing. On interpretations where measurement produces definite outcomes from indeterminate superpositions—Copenhagen, objective collapse, consciousness-based—quantum mechanics already exhibits this structure. Properties remain indeterminate until something resolves them. The [measurement problem](/concepts/measurement-problem/)—why and how this resolution occurs—remains unsolved. Adaptive computational depth names a pattern that several interpretations of physics already display but cannot fully account for.
+The pattern goes beyond metaphor. On interpretations where measurement produces definite outcomes from indeterminate superpositions—Copenhagen, objective collapse, consciousness-based—quantum mechanics already exhibits this structure. Properties remain indeterminate until something resolves them. The [measurement problem](/concepts/measurement-problem/)—why and how this resolution occurs—remains unsolved. Adaptive computational depth names a pattern that several interpretations of physics already display but cannot fully account for.
 
 ## Sources of the Idea
 
@@ -68,7 +67,7 @@ The recent literature on [evaluative qualia](/concepts/evaluative-phenomenal-cha
 
 Roger Penrose's argument that consciousness involves non-computable processes (Penrose 1994) resolves this regress. If conscious observation is what collapses indeterminacy into definite outcomes, and this process is non-algorithmic, then adaptive computational depth is a real feature of reality that no simulation could reproduce. The adaptivity is genuine—physics really does resolve into definite states where consciousness attends—but the mechanism is not computation. It is non-computable consciousness acting on [quantum indeterminacy](/concepts/quantum-consciousness/).
 
-Faizal et al. (2025) reach a compatible conclusion from a different direction, arguing via Gödel's incompleteness theorem that "a fully consistent and complete description of reality cannot be achieved through computation alone." These results belong to a broader family of [proven computational limits](/voids/formal-cognitive-limits/)—Gödel, Turing, Chaitin—that no algorithmic process can circumvent. Whether or not Faizal's specific proof withstands scrutiny, the general point reinforces the non-computability turn: adaptive depth is real, but its engine is not a computer.
+Faizal et al. (2025) reach a compatible conclusion from a different direction, arguing via Gödel's incompleteness theorem that "a fully consistent and complete description of reality cannot be achieved through computation alone." These results belong to a broader family of [proven computational limits](/concepts/consciousness-and-the-philosophy-of-mathematics/)—Gödel, Turing, Chaitin—that no algorithmic process can circumvent. Whether or not Faizal's specific proof withstands scrutiny, the general point reinforces the non-computability turn: adaptive depth is real, but its engine is not a computer.
 
 ## The Prebiotic Question
 
@@ -88,7 +87,7 @@ Adaptive computational depth aligns with each of the Map's [tenets](/tenets/) in
 
 **No Many Worlds.** Under many-worlds, all quantum outcomes occur in separate branches, and there is nothing to allocate—every possibility is realised. Adaptive computational depth is incoherent under many-worlds because the concept requires selective realisation. Only interpretations where measurement produces single definite outcomes leave room for an allocator of detail.
 
-**Occam's Razor has limits.** The computationalist version of adaptive depth—reality as a simulation optimising resources—is appealingly simple. But this simplicity collapses under examination: it assumes computable consciousness, generates infinite regress in the allocation mechanism, and conflicts with Godelian limits on computation. The more complex account—non-computable consciousness modulating quantum indeterminacy—is what the evidence actually supports.
+**Occam's Razor has limits.** The computationalist version of adaptive depth—reality as a simulation optimising resources—is appealingly simple. But this simplicity collapses under examination: it assumes computable consciousness, generates infinite regress in the allocation mechanism, and conflicts with Gödelian limits on computation. The more complex account—non-computable consciousness modulating quantum indeterminacy—is what the regress and Gödelian arguments actually point toward, though without the empirical support that would distinguish it from random collapse (see Epistemological Status, below).
 
 ## Epistemological Status
 
@@ -120,9 +119,8 @@ The adaptive-computational-depth framework would face serious difficulty if:
 - [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/)
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
-- [formal-cognitive-limits](/voids/formal-cognitive-limits/)
-- [evaluative qualia](/concepts/evaluative-phenomenal-character/)
-- [phenomenal normativity](/concepts/evaluative-phenomenal-character/)
+- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
+- [evaluative qualia and phenomenal normativity](/concepts/evaluative-phenomenal-character/)
 - [consciousness-value-connection](/concepts/consciousness-value-connection/)
 - [qbism](/concepts/qbism/)
 

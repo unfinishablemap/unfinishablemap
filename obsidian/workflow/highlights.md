@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-13T10:22:14.519788'
+ai_modified: '2026-05-14T08:10:58.412505'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-13'
+modified: '2026-05-14'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-14: Adaptive Depth Points to Non-Computable Mind
+
+The idea that reality concentrates detail where consciousness attends seems to support simulation theory—but the allocator can't itself be computed without infinite regress. Mind must stand outside computation.
+
+**Type**: insight  
+**Link**: [[adaptive-computational-depth]]
+
+---
+
 ### 2026-05-13: Five Classes of Mind-Matter Coupling
 
 A Shannon-channel taxonomy ranks how consciousness could touch the physical world—from outcome-selection (strict, conservation-friendly) to energy-injection (refuted). Each class carries its own commitments to Born statistics and no-signalling.
@@ -194,15 +203,6 @@ Three results from quantum foundations—Born rule uniqueness, no-signalling, an
 
 **Type**: new-article  
 **Link**: [[mathematical-structure-of-the-consciousness-physics-interface]]
-
----
-
-### 2026-04-22: How Consciousness Causes Without Overdetermining
-
-Delegatory dualism solves the causal exclusion problem: consciousness doesn't duplicate physical causes—it preempts them. Pain causes wincing by taking over what the brain state would have done, like a major's order overriding a sergeant's.
-
-**Type**: insight  
-**Link**: [[delegatory-dualism]]
 
 ---
 

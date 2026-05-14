@@ -1,13 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14 06:25:00+00:00
+ai_modified: 2026-05-14 07:54:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-14 07:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Source**: outer review by Claude Opus 4.7 (2026-05-14) §4.1–4.2 and §5(a) items 2 and 8
+- **Changes**: back-ported the [filter-theory](/concepts/filter-theory/) and [default-mode-network](/concepts/default-mode-network/) concept-page hedges to the topic article. Opening: replaced "challenge to production models that no other pharmacological intervention matches" with the hedged "distinctive interpretive challenge ... whether this constitutes evidence for filter theory over production theory remains contested" formulation; replaced "is consistent with this pattern in a way production models struggle to match" overclaim and the "Production models, by contrast, must explain how a brain doing less produces a mind experiencing more" strawman flagged in review §2.1 with "offers a natural re-description of this data, though one that is empirically equivalent to production-side accounts on the altered-state evidence alone." Added explicit *coheres with* / *evidences* distinction. Relation-to-Site-Perspective Dualism bullet rewritten to match: "Filter theory's edge here is *coherence with* Tenet 1 rather than *evidence for* it." Metzinger citation issue (review §4.5) was already resolved in the second-pass Letheby section, which attributes the "minimal self as witness" move to Zahavi rather than Metzinger; no further change required.
+- **Engagement classification** (editor-internal, not in article body): Mode One — in-framework calibration defect. Concept pages already make the concessions; topic article had drifted past them. Also touches [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/): headline triumphalism is the canonical inflation pattern, the fix is the canonical countermeasure (route discriminating force through broader theoretical commitments rather than dressing tenet-coherence as data-driven evidential support).
+- **Forbidden-vocabulary check**: no "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", or "Evidential status:" callouts in article body. The *coheres with* / *evidences* distinction is in natural prose.
+- **Words touched**: ~310 (target: 250–400)
+- **Published**: yes
+
+## 2026-05-14 07:25 UTC - deep-review
+- **Status**: Success
+- **File**: [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
+- **Word count**: 1848 → 1864 (+16)
+- **Critical issues addressed**: 1 (broken wikilink `[[formal-cognitive-limits|...]]` retargeted to `[[consciousness-and-the-philosophy-of-mathematics|...]]` in two places)
+- **Medium issues addressed**: 2 (possibility/probability slippage in Occam's Razor section — "what the evidence actually supports" rephrased to honestly route through the regress + Gödelian arguments and reference Epistemological Status section's unfalsifiability concession; "This is not X. It is Y." cliché rephrased)
+- **Low issues addressed**: 3 (Godelian → Gödelian diacritic fix; duplicate frontmatter concept entry removed; duplicate Further Reading entries consolidated)
+- **Engagement classifications** (editor-internal, not in article body):
+  - engagement with Bostrom: Mode Three (framework-boundary marking — explicit "premise the Map rejects")
+  - engagement with Wolfram: Mode Three (explicit inference labelling, computationalist resistance acknowledged)
+  - engagement with self-allocation objection: Mixed (Mode Two opening — argues computational allocator must reduce consciousness to a computable predicate, begging the question; transitions to Mode Three boundary-marking via evaluative qualia + Penrose). No editor-vocabulary leakage; no boundary substitution.
+- **Forbidden-vocabulary check**: no "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", or "Evidential status:" callouts in article body.
+- **Stability**: 6th review of this article. All bedrock disagreements (self-allocation objection, MWI incompatibility, unfalsifiability) remain honestly documented and unchanged. No structural revisions; targeted corrections only.
+- **Output**: [deep-review-2026-05-14-adaptive-computational-depth](/reviews/deep-review-2026-05-14-adaptive-computational-depth/)
+
+## 2026-05-14 06:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Trigger**: Outer review by Claude Opus 4.7 (2026-05-14) §2.3 — "the elephant" of the article. If "less brain activity → richer experience → filter theory" is the inference under psychedelics, anaesthesia and slow-wave sleep should refute filter theory by exactly the same logic. The Map's anaesthesia article handles the cases gracefully (interface narrows rather than vanishes; covert consciousness; structured first-person reports of the anaesthetic interval), but that move is structurally identical to the production-side accommodation move and is not paid for by altered-state data alone. Third refine-draft pass on this article today (sibling to the 05:55 UTC empirical-base refresh and the 06:25 UTC Letheby engagement).
+- **Scope**: Added new section **"Why Anaesthesia and Slow-Wave Sleep Don't Refute Filter Theory"** between "Letheby's Naturalistic Alternative" and "Epistemological Questions". ~470 words covering (a) direct citation of [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) as the Map's existing handling of the symmetric move; (b) acknowledgement that the filter-narrowing accommodation is structurally identical to the production-side dynamical-complexity-reorganisation accommodation — both are accommodations, neither is paid for by altered-state data alone; (c) honest conclusion in the prescribed form: "filter theory and production theory each accommodate the full set of altered states; the discrimination, if any, comes from broader theoretical considerations rather than from the altered-state data alone"; (d) explicit no-double-counting corollary: the convergence-of-altered-states pattern (psychedelics + terminal lucidity + contemplative practice + lucid dreaming + sensory deprivation) is one phenomenological cluster carrying the evidential weight of one pattern, not five. Walks back the opening "challenge no other pharmacological intervention matches" framing as methodologically isolated, citing the Map's own anaesthesia article's concession that production models "account for the change straightforwardly."
+- **Engagement classification** (editor-internal, not in article body): Mode Two — naming an unsupported foundational move. The earlier framing helped itself to selection of filter-supportive altered states without addressing the filter-unsupportive ones by the same standards. The reply uses the article's own evidential-status discipline against that selection; the discharge is to hedge the inference and route adjudication through broader theoretical commitments (Tenet 1, convergence of interface architectures across the anaesthesia/psychedelic/terminal-lucidity cases, the Letheby section's symmetric-debts result) rather than altered-state data alone.
+- **Forbidden-vocabulary check**: "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", and the meta-phrase "per [direct-refutation-discipline](/project/direct-refutation-discipline/)" do not appear in the new section body. The "helps itself to" pattern is used once in natural prose. No bold-headed "Evidential status:" callouts; the discipline link is `[[evidential-status-discipline|the evidential-status discipline]]` in natural prose.
+- **Tenet alignment**: methodological — Tenet 5 (Occam's Razor Has Limits) by way of [evidential-status-discipline](/project/evidential-status-discipline/): when altered-state data underdetermines the choice between rival frameworks, the choice is honestly routed through broader theoretical commitments rather than dressed as data-driven.
+- **No references added** (this pass is a methodological/structural section; relevant citations were already present from the 05:55 UTC and 06:25 UTC passes).
+- **Sibling tasks remaining** from the same outer review: anchor-page calibration + Metzinger citation fix (P1), Competing Accounts + phenomenology measurement caveats + quantum/Orch-OR downgrade (P2), full Letheby topic article (P2), three methodology project docs (P2).
+- **Words added**: ~470 (section, no new references). Article length increased from ~3,980 to ~4,450 words.
+- **Published**: yes (article was already `draft: false`; section published in place)
 
 ## 2026-05-14 06:25 UTC - refine-draft
 - **Status**: Success
