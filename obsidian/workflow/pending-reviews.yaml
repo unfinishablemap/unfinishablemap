@@ -417,3 +417,31 @@
   subject_articles:
   - topics/psychedelics-and-the-filter-model.md
   subject_source: reuse:pending-reviews:outer-review-2026-05-14-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/953dfbf70511e692
+  commissioned_at: '2026-05-14T04:37:28.568465+00:00'
+  prompt_summary: Audit psychedelics-and-the-filter-model article
+  target_filename: outer-review-2026-05-14-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please audit \"Psychedelics and the Filter Model\" on The Unfinishable\
+    \ Map (https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/),\
+    \ a philosophy project defending substance dualism and filter theory of consciousness.\n\
+    \nThe article argues psychedelics provide pharmacological evidence for filter\
+    \ theory: DMN suppression correlates with expanded\u2014not diminished\u2014conscious\
+    \ experience, which production models of mind struggle to explain.\n\nAssess:\
+    \ (a) Is the central neuroimaging argument fairly stated? Are strong materialist\
+    \ responses (predictive processing/REBUS, neural entropy, salience amplification)\
+    \ underweighted? (b) Does the article fairly handle selection effects in trip\
+    \ reports, replication concerns, and alternative interpretations of mystical-type\
+    \ experience? (c) Is the article's relevance to the site's wider tenets (visible\
+    \ at https://unfinishablemap.org and the changelog at https://unfinishablemap.org/workflow/changelog/)\
+    \ supported by the evidence cited?\n\nEnd your report with a list of concrete\
+    \ potential improvements to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit psychedelics-and-the-filter-model
+  subject_articles:
+  - topics/psychedelics-and-the-filter-model.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-14-chatgpt-5-5-pro.md

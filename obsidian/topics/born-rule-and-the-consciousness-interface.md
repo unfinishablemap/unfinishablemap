@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-14
 human_modified:
-ai_modified: 2026-05-14T00:54:00+00:00
+ai_modified: 2026-05-14T05:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,16 +39,17 @@ related_articles:
   - "[[trilemma-of-selection]]"
   - "[[many-worlds-argument]]"
   - "[[concepts/many-worlds]]"
-  - "[[pragmatist-quantum-foundations-under-dualism]]"
+  - "[[pragmatist-quantum-foundations-and-the-agent]]"
   - "[[the-interface-problem]]"
   - "[[amplification-mechanisms-consciousness-physics-2026-03-18]]"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
+  - "[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-04-23T16:35:00+00:00
+last_deep_review: 2026-05-14T05:04:00+00:00
 coalesced_from:
   - "/topics/born-rule-derivation-failures-consciousness-collapse/"
   - "/topics/born-rule-interpretation-invariance-consciousness/"
@@ -83,7 +84,7 @@ Beyond additivity, each derivation presupposes an observer. Decoherence selects 
 
 **Zurek's envariance** (2005) appeals to symmetries of entangled states. Schlosshauer-Fine (2005) showed the auxiliary assumption extending from equal to unequal amplitudes is strong enough to yield the Born rule directly; Máttyus (2023) showed envariance does not necessitate Born's rule for all measurements.
 
-**QBism** (DeBrota-Fuchs-Schack 2021) reframes the Born rule as a normative coherence constraint on agent credences, making the observer central by design. The [[pragmatist-quantum-foundations-under-dualism|pragmatist family]] reading treats this normativity as the structural surface of a dualist interface QBism declines to posit.
+**QBism** (DeBrota-Fuchs-Schack 2021) reframes the Born rule as a normative coherence constraint on agent credences, making the observer central by design. The [[pragmatist-quantum-foundations-and-the-agent|pragmatist family]] reading treats this normativity as the structural surface of a dualist interface QBism declines to posit.
 
 **Masanes-Galley-Müller** (2019) derives the Born rule from quantum postulates plus finite-dimensionality, but operational axioms presuppose definite outcomes, relocating observer-dependence without eliminating it.
 

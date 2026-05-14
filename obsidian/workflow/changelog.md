@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T04:37:00+00:00
+ai_modified: 2026-05-14T05:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 05:04 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Word count**: 3759 → 3759 (rename-only body edit, frontmatter-only addition)
+- **Critical issues addressed**: 1 (archived target `[[pragmatist-quantum-foundations-under-dualism]]` → live successor `[[pragmatist-quantum-foundations-and-the-agent]]` in body QBism paragraph and frontmatter related_articles)
+- **Medium issues addressed**: 1 (restored `[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]` to frontmatter related_articles — verified cluster cross-link present in 2026-04-23 review state, dropped by 2026-05-14 condense)
+- **Enhancements made**: 0 (length-neutral mode; article at 125% of soft threshold)
+- **Engagement modes (editor-internal)**: N/A — article surveys derivation programmes (Gleason, Deutsch-Wallace, Carroll-Sebens, Zurek, QBism, MGM) and notes their structural limits without "replying to named opponents" in the §2.6 sense; no boundary-substitution risk, no editor-vocabulary leakage detected.
+- **Output**: [[reviews/deep-review-2026-05-14-born-rule-and-the-consciousness-interface]]
+- **Stability**: 16th review; content fully converged; condense preserved every previously-reviewed semantic commitment; this pass corrected only cluster cross-link integrity.
 
 ## 2026-05-14 04:37 UTC - deep-review
 - **Status**: Success

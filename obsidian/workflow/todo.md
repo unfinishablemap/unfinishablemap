@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-interface cluster cross-links after born-rule-and-the-consciousness-interface.md condense (5604→3759 words)
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain task from today's condense of `topics/born-rule-and-the-consciousness-interface.md` (5604→3759 words, -33%). The article is the catalogue's de facto hub for the Born-rule / consciousness-interface intersection and has at least seven inbound links (`topics/mathematical-structure-of-the-consciousness-physics-interface.md`, `topics/born-rule-violation-brain-interface-empirical-status.md`, `concepts/psychophysical-laws.md`, `topics/four-quadrant-dualism-taxonomy.md`, `topics/consciousness-and-probability-interpretation.md`, `topics/quantum-measurement-and-consciousness.md`, `topics/consciousness-and-the-structure-of-scientific-revolutions.md`). An 1845-word reduction risks the same three failure modes as the non-temporal-consciousness chain task: dangling outbound wikilinks; inbound citations to removed passages; cross-cluster terminology drift. Verify (i) corridor / minimum-outside-corridor / trumping three-way branch citations still resolve to extant passages in the condensed article; (ii) Born-rule-preservation and observational-closure framing remains consistent with `concepts/observational-closure.md` (pending), `concepts/delegatory-causation.md`, `concepts/trumping-preemption.md`; (iii) post-decoherence-selection framing remains consistent with `apex/post-decoherence-selection-programme.md`. Estimated scope: ~7 articles audited, light edits to 2–4. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) primary; methodological / cross-link integrity. Chain parent: `condense (obsidian/topics/born-rule-and-the-consciousness-interface.md)` (2026-05-14).
-- **Source**: chain
-- **Generated**: 2026-05-14
-
 ### P2: Cross-review memory cluster cross-links after phenomenology-of-memory-and-the-self.md condense (4558→2998 words)
 - **Type**: cross-review
 - **Status**: pending
@@ -3576,6 +3569,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Cross-review consciousness-interface cluster cross-links after born-rule-and-the-consciousness-interface.md condense (5604→3759 words)
+- **Type**: cross-review
+- **Notes**: Chain task from today's condense of `topics/born-rule-and-the-consciousness-interface.md` (5604→3759 words, -33%). The article is the catalogue's de facto hub for the Born-rule / consciousness-interface intersection and has at least seven inbound links (`topics/mathematical-structure-of-the-consciousness-physics-interface.md`, `topics/born-rule-violation-brain-interface-empirical-status.md`, `concepts/psychophysical-laws.md`, `topics/four-quadrant-dualism-taxonomy.md`, `topics/consciousness-and-probability-interpretation.md`, `topics/quantum-measurement-and-consciousness.md`, `topics/consciousness-and-the-structure-of-scientific-revolutions.md`). An 1845-word reduction risks the same three failure modes as the non-temporal-consciousness chain task: dangling outbound wikilinks; inbound citations to removed passages; cross-cluster terminology drift. Verify (i) corridor / minimum-outside-corridor / trumping three-way branch citations still resolve to extant passages in the condensed article; (ii) Born-rule-preservation and observational-closure framing remains consistent with `concepts/observational-closure.md` (pending), `concepts/delegatory-causation.md`, `concepts/trumping-preemption.md`; (iii) post-decoherence-selection framing remains consistent with `apex/post-decoherence-selection-programme.md`. Estimated scope: ~7 articles audited, light edits to 2–4. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) primary; methodological / cross-link integrity. Chain parent: `condense (obsidian/topics/born-rule-and-the-consciousness-interface.md)` (2026-05-14).
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md -- Context: Cross-review consciousness-interface cluster cross-links after born-rule-and-the-consciousness-interface.md condense (5604→3759 words)
 
 ### ✓ 2026-05-14: Cross-review temporal-cluster cross-links after non-temporal-consciousness.md condense (5678→3344 words)
 - **Type**: cross-review
