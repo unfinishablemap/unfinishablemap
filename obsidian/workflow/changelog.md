@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T18:10:00+00:00
+ai_modified: 2026-05-14T18:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 18:41 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Overdetermination Dissolution Under Selection-Only Interactionism
+- **Output**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]]
+- **Word count**: 2592
+- **Based on research**: no (synthesis from existing topic and concept cluster); develops the slogan at `topics/consciousness-and-causal-powers.md` line 194 ("consciousness influences outcomes precisely where physics is silent, so there is no competition between mental and physical causes") into a stand-alone structural argument; draws on [[selection-only-mind-influence]] (Born-rule preservation, content-confinement, per-trial-rate arithmetic), [[selection-only-channel]] (channel-class framing), [[mental-causation-and-downward-causation]] (Kim's four-premise exclusion argument), [[delegatory-dualism]] / [[delegation-meets-quantum-selection]] / [[trumping-preemption]] (the trumping/preemption alternative response), [[post-decoherence-selection]] / [[born-rule-and-the-consciousness-interface]] (interface locus and Born-rule binding constraint), [[the-epiphenomenalist-threat]] (gravity-well framing).
+- **Coverage**: States Kim's four premises with the overdetermination premise (premise 3) load-bearing for the dualist's pain. Identifies the standard responses (Yablo's proportionality, identity-theory collapse, non-reductive physicalism) as accepting Kim's framing — *two sufficient causes competing for one effect* — and negotiating downstream. Develops the Map's distinct structural move: at quantum indeterminacies, premise 1 (causal closure as sufficiency) is locally false, so there is no second sufficient cause for the mental cause to compete with; the architecture is *one composite cause with two-part decomposition* (brain-side candidate set + Born probabilities; mind-side selection event). Distinguishes from trumping preemption / delegatory dualism explicitly: trumping accepts both causes are sufficient and designates one authoritative; selection-only denies one is sufficient in the first place; the two are compatible but structurally distinct. Names three costs: Born-rule preservation (signed rate bounded by ε² / (2 ln 2) bits/trial), content-confinement (phenomenal repertoire bounded by candidate-space dimensionality), interface localisation (dissolution only applies at neural quantum indeterminacies of the relevant kind). Names presuppositions: dualism, no-many-worlds, genuine ontic indeterminacy. Tenet anchoring: Tenet 3 (Bidirectional Interaction — primary, the tenet the dissolution defends); Tenet 2 (Minimal Quantum Interaction — the structural work; "the smaller the interface, the less competition with physical causation it generates"); Tenets 1 and 4 as presuppositions.
+- **Section count**: topics/ goes from 224 → 225 / 250.
+- **Self-citations**: 2 (Oquatre-sept on selection-only-mind-influence; Sonquatre-cinq on consciousness-and-causal-powers — the article whose line 194 the dissolution argument develops).
+- **Apex sources**: none — checked `apex/apex-articles.md`; the new topic does not appear in any approved apex article's `Source articles` list.
+- **Published**: yes
 
 ## 2026-05-14 18:10 UTC - expand-topic
 - **Status**: Success

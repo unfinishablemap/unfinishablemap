@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write topic article "Overdetermination Dissolution Under Selection-Only Interactionism"
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-14 (Ideas for Later). Develops the "consciousness influences outcomes precisely where physics is silent, so there is no competition between mental and physical causes" point from `topics/consciousness-and-causal-powers.md` line 194 into a stand-alone treatment of how the overdetermination objection dissolves under selection-only / corridor interpretations. The article should (a) state the overdetermination objection in its strongest form (Kim's exclusion argument extended to interactionist dualism: if every physical event has a sufficient physical cause, what causal work remains for the mental?); (b) trace why selection-only readings dissolve rather than escape the objection — physics fixes the alternatives and their amplitudes; consciousness selects among quantum-physically-permitted alternatives; the physical sufficient cause is not displaced because it never specified the selection; (c) distinguish dissolution from competing strategies — the dissolution argument is *not* the same as the appeal-to-undetermination move (physics doesn't fix outcomes), and is *not* the same as the trumping-preemption move (consciousness overrides physics); (d) compare with how the objection fares for trumping vs corridor readings (corridor: clean dissolution; trumping: needs additional structural argument); (e) engage Kim, Lowe, and Sturgeon on how mental causation can be coherent under conservation; (f) honour `[[direct-refutation-discipline]]` — distinguish in-framework refutation (Kim's argument fails on its own terms once selection-only is admitted) from framework-boundary marking (Kim's framework presupposes physical-physical sufficiency at a level the interactionist denies). Target section: topics/ (currently 239/250, room available). Estimated scope: 2,500–3,000 words. Tenet alignment: Tenet 3 (Bidirectional Interaction — primary); Tenet 2 (Minimal Quantum Interaction — the dissolution depends on physics having alternatives the mind can select among).
-- **Review file**: `reviews/optimistic-2026-05-14.md`
-- **Source**: optimistic-review (2026-05-14)
-- **Generated**: 2026-05-14
-
 ### P2: Implement Audit Three of calibration-audit-triple — create `tools/curate/anchoring.py` topic-vs-concept calibration utility
 - **Type**: refine-draft
 - **Status**: pending
@@ -3584,6 +3576,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Write topic article "Overdetermination Dissolution Under Selection-Only Interactionism"
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-14 (Ideas for Later). Develops the "consciousness influences outcomes precisely where physics is silent, so there is no competition between mental and physical causes" point from `topics/consciousness-and-causal-powers.md` line 194 into a stand-alone treatment of how the overdetermination objection dissolves under selection-only / corridor interpretations. The article should (a) state the overdetermination objection in its strongest form (Kim's exclusion argument extended to interactionist dualism: if every physical event has a sufficient physical cause, what causal work remains for the mental?); (b) trace why selection-only readings dissolve rather than escape the objection — physics fixes the alternatives and their amplitudes; consciousness selects among quantum-physically-permitted alternatives; the physical sufficient cause is not displaced because it never specified the selection; (c) distinguish dissolution from competing strategies — the dissolution argument is *not* the same as the appeal-to-undetermination move (physics doesn't fix outcomes), and is *not* the same as the trumping-preemption move (consciousness overrides physics); (d) compare with how the objection fares for trumping vs corridor readings (corridor: clean dissolution; trumping: needs additional structural argument); (e) engage Kim, Lowe, and Sturgeon on how mental causation can be coherent under conservation; (f) honour `[[direct-refutation-discipline]]` — distinguish in-framework refutation (Kim's argument fails on its own terms once selection-only is admitted) from framework-boundary marking (Kim's framework presupposes physical-physical sufficiency at a level the interactionist denies). Target section: topics/ (currently 239/250, room available). Estimated scope: 2,500–3,000 words. Tenet alignment: Tenet 3 (Bidirectional Interaction — primary); Tenet 2 (Minimal Quantum Interaction — the dissolution depends on physics having alternatives the mind can select among).
+- **Output**: Write topic article "Overdetermination Dissolution Under Selection-Only Interactionism"
 
 ### ✓ 2026-05-14: Create concept page `causal-consistency-constraint` consolidating Torres Alegre (2025)
 - **Type**: expand-topic
