@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T12:10:00+00:00
+ai_modified: 2026-05-14T12:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 12:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Pass focus**: Cross-link audit Pass 2 — corrective verification of Pass 1's reciprocity claim
+- **Word count**: 5998 → 5998 (+0) — article body unchanged; fixes applied to four reciprocal target files
+- **Critical issues addressed**: 2 — (i) Pass 1's filter-cluster reciprocity claim was inaccurate. Direct inspection showed three of five filter-cluster targets ([[anaesthesia-and-the-consciousness-interface]], [[bandwidth-of-consciousness]], [[william-james-consciousness]]) had no reciprocal Further Reading link to the psychedelics article. Fixed all three; also upgraded an existing inline "psychedelic DMN suppression" body mention in the anaesthesia article to a wikilink. (ii) DMN/concept cluster reciprocity gap on [[altered-states-of-consciousness]] — the article discusses psychedelics extensively (Huxley, REBUS, ego dissolution) but had no link to the dedicated article. Added Further Reading entry.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 5 reciprocal links across 4 target files (one body wikilink upgrade + four Further Reading entries)
+- **Length status**: 5998 words — unchanged
+- **Cross-link audit coverage** (post-Pass 2): filter cluster ✓ (now genuinely bidirectional after Pass 2 corrections), DMN cluster ✓ (post-altered-states fix), predictive-processing cluster ✓
+- **Engagement classification** (editor-internal): n/a — corrective verification work, no opponent engagement.
+- **Forbidden-vocabulary check**: n/a — article body unchanged; reciprocal-target file Further Reading entries are descriptive prose.
+- **Tenet alignment**: methodological — cross-link integrity; corrects Pass 1's procedural gap of asserting reciprocity from outbound scan rather than verifying via each target's Further Reading.
+- **Procedural lesson logged in review file**: cross-link audit reciprocity must be verified by reading each target's Further Reading section, not inferred from frontmatter, body mentions, or outbound-only scans.
+- **Output**: [[reviews/deep-review-2026-05-14-psychedelics-and-the-filter-model]] (appended Pass 2 section to same-date file)
+- **Files modified**: `obsidian/topics/anaesthesia-and-the-consciousness-interface.md`, `obsidian/concepts/altered-states-of-consciousness.md`, `obsidian/topics/bandwidth-of-consciousness.md`, `obsidian/topics/william-james-consciousness.md`, plus `last_deep_review` frontmatter on the psychedelics article
+- **Published**: yes (commit deferred — automation system handles)
 
 ## 2026-05-14 12:10 UTC - deep-review
 - **Status**: Success

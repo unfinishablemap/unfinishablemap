@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-05-01T02:26:00+00:00
+ai_modified: 2026-05-14T12:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -171,6 +171,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — The bidirectional inaccessibility between waking and dreaming states
 - [[comparative-consciousness-and-interface-differences]] — Does the interface vary across states and species?
 - [[anaesthesia-and-the-consciousness-interface]] — How anaesthetic agents reconfigure the consciousness interface
+- [[psychedelics-and-the-filter-model]] — Dedicated treatment of psychedelic neuroimaging, REBUS, Letheby's predictive-self-binding rival, and the anaesthesia-symmetry caveat
 - [[contemplative-practice-as-philosophical-evidence]] — Contemplative practices as evidence for irreducible consciousness
 - [[clinical-phenomenology-and-altered-experience]] — How psychiatric conditions reveal the hidden architecture of consciousness
 - [[death-and-consciousness]] — Death-related altered states: deathbed visions, terminal lucidity, and nearing death awareness

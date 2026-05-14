@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-04-17
 human_modified:
-ai_modified: 2026-05-03T11:41:37.772459+00:00
+ai_modified: 2026-05-14T12:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -98,7 +98,7 @@ Brain complexity measures like the perturbational complexity index (PCI) show co
 
 The ketamine case poses a specific challenge to integrated information theory (IIT). Under ketamine, brain complexity measured by PCI remains at waking levels yet consciousness is disconnected from the environment. Filter theory accommodates this naturally: integration capacity remains intact because consciousness still engages through the interface, but access channels have been pharmacologically blocked.
 
-The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity — coherent awareness returning in severely deteriorated brains — and cardiac arrest gamma surges (Xu et al., 2023, in two of four patients studied) are neurobiological paradoxes for production theory, with Parnia et al. (2023) finding ~40% of cardiac arrest patients showing organised brain activity during CPR. Filter theory predicts these naturally: reduced filtering allows more consciousness through. The broader pattern of [[consciousness-under-extreme-metabolic-constraint|consciousness persisting under extreme metabolic constraint]] — including psychedelic DMN suppression, near-death experiences, and agent-specific anaesthesia profiles — reinforces this interpretation.
+The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity — coherent awareness returning in severely deteriorated brains — and cardiac arrest gamma surges (Xu et al., 2023, in two of four patients studied) are neurobiological paradoxes for production theory, with Parnia et al. (2023) finding ~40% of cardiac arrest patients showing organised brain activity during CPR. Filter theory predicts these naturally: reduced filtering allows more consciousness through. The broader pattern of [[consciousness-under-extreme-metabolic-constraint|consciousness persisting under extreme metabolic constraint]] — including [[psychedelics-and-the-filter-model|psychedelic DMN suppression and broader cortical desynchronization]], near-death experiences, and agent-specific anaesthesia profiles — reinforces this interpretation.
 
 The pharmacological specificity documented here also bears on [[testing-consciousness-collapse|experimental design for consciousness-collapse testing]]: different agents selectively disrupting different interface channels could provide the controlled variation that consciousness-collapse experiments need. The [[testing-consciousness-collapse|concrete prediction catalogue]] includes anaesthesia-modulated collapse dynamics as one of the key divergent predictions between consciousness-collapse and decoherence.
 
@@ -195,6 +195,7 @@ These findings remain speculative, but if anaesthetics work partly by disrupting
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the decisive test case of pain asymbolia
 - [[testing-consciousness-collapse]] — How pharmacological channel mapping could inform consciousness-collapse experimental design
 - [[anesthesia-void]] — The first-person epistemic structure of the anaesthetic interval: the gap as void rather than mechanism
+- [[psychedelics-and-the-filter-model]] — The complementary case: decreased filtering yields expanded rather than diminished experience, completing the filter-perturbation pattern
 
 ## References
 

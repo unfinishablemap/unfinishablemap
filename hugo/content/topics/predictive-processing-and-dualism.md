@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-14 12:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -155,6 +155,7 @@ The Unfinishable Map sees predictive processing as a valuable ally — the best 
 - [placebo effect](/topics/empirical-phenomena-mental-causation/) — Expectations as strong priors with measurable outcomes
 - [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why simplicity cannot settle the consciousness debate
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — REBUS and Letheby's predictive-self-binding account: PP under dualism applied to altered states
 
 ## References
 

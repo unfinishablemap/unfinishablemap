@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-05-01T07:25:00+00:00
+ai_modified: 2026-05-14T12:41:00+00:00
 draft: false
 description: "The 100-million-fold gap between neural processing and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -239,6 +239,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [[conservation-laws-and-mental-causation]] — Energy conservation and why selection without injection respects physics
 - [[global-workspace-theory]] — The materialist account of serial broadcasting and its limitations
 - [[libet-experiments]] — The neural preparation findings and why they don't defeat free will
+- [[psychedelics-and-the-filter-model]] — Filter-loosening evidence: how reducing the constraint changes what reaches the conscious channel
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-27 05:14:00+00:00
+ai_modified: 2026-05-14 12:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -224,6 +224,7 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) substantively:
 - [intentionality](/concepts/intentionality/) — Where PP's content-vocabulary gets its aboutness from (or fails to)
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams as unconstrained prediction
 - [filter-theory](/concepts/filter-theory/) — Alternative interpretation of dream evidence
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — REBUS as a PP-based psychedelics framework and Letheby's predictive-self-binding account
 - [illusionism](/concepts/illusionism/) — The radical physicalist interpretation of PP
 - [eliminative-materialism](/topics/eliminative-materialism/) — Why PP figures as a softer alternative to Churchland's classical eliminativism
 - [introspection](/concepts/introspection/) — First-person access to predictive processes
