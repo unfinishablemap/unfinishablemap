@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T08:40:00+00:00
+ai_modified: 2026-05-14T09:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 09:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [[project/outer-reviewer-service-calibration]]
+- **Source**: outer review by Gemini 2.5 Pro (2026-05-14) — third data-point in the Gemini Deep Research calibration sequence (2026-05-11 full-site sympathetic synthesis → 2026-05-12 substantive critique on non-temporal-consciousness → 2026-05-14 moderate critique on psychedelics-and-the-filter-model that missed Letheby)
+- **Changes**: (i) Subject-Type Sensitivity section — added the 2026-05-14 data point sitting between the two prior cases: more critical than the full-site review (surfacing unfalsifiability, amplification void, bandwidth asymmetry) but still leaning synthesis-with-table-format-comparison, closing appreciatively, and missing the strongest contemporary opponent (Letheby's predictive self-binding) that same-cycle Claude caught. (ii) New "Refined Hypothesis: Opponent-Canonicity Scaling" subsection — the narrow-vs-broad distinction is too coarse for three-cycle data; refined hypothesis is that Gemini Deep Research's depth-of-critique scales with how well-documented the article's canonical opponents are in the academic literature. Well-canonised opponents (Madhyamaka/Frankish/Dennett on non-temporal-consciousness) get surfaced via citation-density retrieval; niche-but-strongest opponents (Letheby on psychedelics) get missed. The corpus-level 2026-05-11 case is the limit case where no specific opponent literature is centrally indexed. (iii) Service Mix Implications — refined Gemini entry to reflect opponent-canonicity scaling, with cross-reference-against-same-cycle-Claude as the operational mitigation for niche-opponent blind spots. (iv) Frontmatter — modified/ai_modified bumped to 2026-05-14; added related_articles for 2026-05-12 and 2026-05-14 Gemini reviews plus the same-cycle Claude review.
+- **Tenet alignment**: methodological (calibration of the outer-review channel feeds [[coherence-inflation-countermeasures]] discipline applied to the pipeline itself)
+- **Words touched**: ~220 added (target: 150–250; on-spec)
+- **Published**: yes
 
 ## 2026-05-14 08:40 UTC - refine-draft
 - **Status**: Success

@@ -37,22 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update obsidian/project/outer-reviewer-service-calibration.md (when it lands) with refined Gemini conditional pattern
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-14. Third data-point in the Gemini Deep Research calibration sequence: 2026-05-11 (full-site → sympathetic synthesis with no critique), 2026-05-12 (focused article on non-temporal-consciousness → substantive critique surfacing the novel Madhyamaka challenge), 2026-05-14 (focused article on psychedelics-and-the-filter-model → moderately critical but still leans synthesizing, missed the strongest opponent Letheby that Claude caught). Refined conditional pattern: **Gemini's depth-of-critique scales with how well-documented the article's canonical opponents are in the literature.** Non-temporal-consciousness has Madhyamaka / Dennett / Frankish as canonical opponents — Gemini engaged them. Psychedelics-and-the-filter-model has Letheby as the strongest opponent — more niche, and Gemini missed him while Claude caught him. The pending P3 (now P2 after 2026-05-13 batch bump) `Project doc on outer-reviewer service calibration — Gemini Deep Research as sycophancy data-point (2026-05-11 cycle)` should be updated to reflect this when it lands. Refine the project doc draft to include the 2026-05-14 data point and the refined "scales with opponent canonicity" hypothesis. ~150–250 words to add. Tenet alignment: methodological. **Sequencing**: blocked until the parent calibration project doc has been written. See review file.
-- **Review file**: `reviews/outer-review-2026-05-14-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-14
-
-### P2: Refine topics/psychedelics-and-the-filter-model.md — Competing Accounts section + Phenomenology-measurement caveats + downgrade quantum/Orch-OR
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-14. Three linked sub-tasks bundled for execution coherence: **(a) Competing Accounts section.** Currently REBUS is the only production-side competitor named (and treated as compatible-with-filter-theory rather than as a competitor). Add a section addressing Entropic Brain Hypothesis 2.0 (Carhart-Harris 2018; Schartner 2017 Lempel-Ziv complexity; Mediano 2026 preprint), Predictive Self-Binding (Letheby/Gerrans — see separate P1), broader predictive processing (Clark, Seth), GWT, IIT. For each, state empirical predictions, show where they overlap with filter theory, identify discriminating predictions. If none exist, say so. **(b) Phenomenology-measurement caveats.** Add a paragraph acknowledging MEQ30 cultural-framing critique (Mosurinjohn 2023; Cole-Turner 2024; Stocker 2026), 11D-ASC / 5D-ASC cross-laboratory variability (Liechti 2017), demand-characteristic concerns (Muthukumaraswamy 2021), the unblinding problem, the specific metacognitive deficits induced by psychedelics. State explicitly that these are reasons to treat the subjective-richness premise with *measured* confidence rather than as a brute datum. **(c) Cut or radically downgrade quantum/Orch-OR section.** Babcock et al. (2024) shows tryptophan superradiance but NOT consciousness-relevance; Kerskens & Pérez López (2022) is unreplicated; Hameroff (2024) is advocacy on his own theory. Reduce to one paragraph noting that *if* Orch-OR is correct it *could* provide a substrate for filter theory, while emphasising that none of the cited evidence (a) shows quantum coherence is functionally relevant, (b) shows psychedelics modulate it, or (c) is independently replicated. The Map's `[[evidential-status-discipline]]` would not permit the current framing. ~700–1100 words touched across the three additions. Tenet alignment: methodological / [[evidential-status-discipline]] / [[coherence-inflation-countermeasures]]. See review file.
-- **Review file**: `reviews/outer-review-2026-05-14-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-14
-
 ### P2: New methodology — literature-drift review skill + altered-state symmetry discipline + topic-vs-concept calibration audit
 - **Type**: expand-topic
 - **Status**: pending
@@ -3601,6 +3585,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Update obsidian/project/outer-reviewer-service-calibration.md (when it lands) with refined Gemini conditional pattern
+- **Type**: refine-draft
+- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-14. Third data-point in the Gemini Deep Research calibration sequence: 2026-05-11 (full-site → sympathetic synthesis with no critique), 2026-05-12 (focused article on non-temporal-consciousness → substantive critique surfacing the novel Madhyamaka challenge), 2026-05-14 (focused article on psychedelics-and-the-filter-model → moderately critical but still leans synthesizing, missed the strongest opponent Letheby that Claude caught). Refined conditional pattern: **Gemini's depth-of-critique scales with how well-documented the article's canonical opponents are in the literature.** Non-temporal-consciousness has Madhyamaka / Dennett / Frankish as canonical opponents — Gemini engaged them. Psychedelics-and-the-filter-model has Letheby as the strongest opponent — more niche, and Gemini missed him while Claude caught him. The pending P3 (now P2 after 2026-05-13 batch bump) `Project doc on outer-reviewer service calibration — Gemini Deep Research as sycophancy data-point (2026-05-11 cycle)` should be updated to reflect this when it lands. Refine the project doc draft to include the 2026-05-14 data point and the refined "scales with opponent canonicity" hypothesis. ~150–250 words to add. Tenet alignment: methodological. **Sequencing**: blocked until the parent calibration project doc has been written. See review file.
+- **Output**: obsidian/project/outer-reviewer-service-calibration.md
+
+Task context:
+From outer review by Gemini 2.5 Pro 2026-05-14. Third data-point in the Gemini Deep Research calibration sequence: 2026-05-11 (full-site → sympathetic synthesis with no critique), 2026-05-12 (focused article on non-temporal-consciousness → substantive critique surfacing the novel Madhyamaka challenge), 2026-05-14 (focused article on psychedelics-and-the-filter-model → moderately critical but still leans synthesizing, missed the strongest opponent Letheby that Claude caught). Refined conditional pattern: **Gemini's depth-of-critique scales with how well-documented the article's canonical opponents are in the literature.** Non-temporal-consciousness has Madhyamaka / Dennett / Frankish as canonical opponents — Gemini engaged them. Psychedelics-and-the-filter-model has Letheby as the strongest opponent — more niche, and Gemini missed him while Claude caught him. The pending P3 (now P2 after 2026-05-13 batch bump) `Project doc on outer-reviewer service calibration — Gemini Deep Research as sycophancy data-point (2026-05-11 cycle)` should be updated to reflect this when it lands. Refine the project doc draft to include the 2026-05-14 data point and the refined "scales with opponent canonicity" hypothesis. ~150–250 words to add. Tenet alignment: methodological. **Sequencing**: blocked until the parent calibration project doc has been written. See review file.
+
+Review file: reviews/outer-review-2026-05-14-gemini-2-5-pro.md
+
+### ✓ 2026-05-14: Update obsidian/project/outer-reviewer-service-calibration.md with refined Gemini conditional pattern
+- **Type**: refine-draft
+- **Notes**: Added the 2026-05-14 data point to the Subject-Type Sensitivity section and introduced a new "Refined Hypothesis: Opponent-Canonicity Scaling" subsection. The refined hypothesis: Gemini Deep Research's depth-of-critique scales with how well-documented the article's canonical opponents are in the academic literature — well-canonised opponents (Madhyamaka/Frankish/Dennett on non-temporal-consciousness) get surfaced via citation-density retrieval; niche-but-strongest opponents (Letheby on psychedelics-and-the-filter-model) get missed. The corpus-level full-site case is the limit case where no specific opponent literature is centrally indexed. Also refined the Service Mix Implications entry for Gemini to reflect opponent-canonicity scaling.
+- **Output**: obsidian/project/outer-reviewer-service-calibration.md
 
 ### ✓ 2026-05-14: Apply direct-refutation discipline / Mode Four reclassification to psychedelics-and-the-filter-model.md (tenet-protective framing + REBUS over-claim)
 - **Type**: refine-draft
