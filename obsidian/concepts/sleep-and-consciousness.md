@@ -4,7 +4,7 @@ description: "Consciousness operates in gradations during sleep. Memory consolid
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-29T02:22:00+00:00
+ai_modified: 2026-05-14T09:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,6 @@ related_articles:
   - "[[sleep-memory-consolidation-consciousness-2026-01-18]]"
   - "[[dream-consciousness]]"
   - "[[capability-division-problem]]"
-  - "[[episodic-memory]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[consciousness-and-memory]]"
 ai_contribution: 100
@@ -37,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-03-28T06:35:00+00:00
+last_deep_review: 2026-05-14T09:40:00+00:00
 ---
 
 Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [[dream-consciousness#Lucid Dreaming: A Distinct State|Lucid dreaming]] restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second bandwidth limitation of conscious experience, replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
@@ -160,7 +159,7 @@ The Map's interpretation would face difficulty if:
 
 - [[dream-consciousness]] — The phenomenology and philosophy of dream experience
 - [[consciousness-disruption-and-the-mind-brain-interface]] — How unconsciousness illuminates mind-brain relationships
-- [[episodic-memory]] — Memory systems affected by sleep consolidation
+- [[episodic-memory]] — Memory systems affected by sleep consolidation, treated as a dual-domain capability across physical and non-physical sides
 - [[binding-problem]] — How distributed processing becomes unified experience
 - [[attention-as-interface]] — The proposed mechanism for consciousness-brain interaction
 - [[filter-theory]] — The transmission model that sleep evidence supports
@@ -173,7 +172,6 @@ The Map's interpretation would face difficulty if:
 - [[altered-states-of-consciousness]] — Sleep within the broader taxonomy of ASCs
 - [[sleep-memory-consolidation-consciousness-2026-01-18]] — Detailed research notes
 - [[capability-division-problem]] — Which capabilities belong to the brain and which to consciousness
-- [[episodic-memory]] — Memory as a dual-domain capability across physical and non-physical domains
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — Why waking cannot access dreaming and dreaming cannot access waking
 
 ## References

@@ -5,6 +5,18 @@ ai_modified: 2026-05-14T09:11:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-14 09:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/sleep-and-consciousness]]
+- **Word count**: 2009 → 2009 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate `[[episodic-memory]]` references from automated wikilink rename — removed from `related_articles` frontmatter and merged the two Further Reading entries)
+- **Enhancements made**: 0
+- **Calibration check**: clean — no possibility/probability slippage detected
+- **Engagement classification**: illusionism — Mode Mixed (Mode-Two regress argument + Mode-One asymmetry/trainability + Mode-Three contemplative boundary-marking); no label leakage; no boundary-substitution
+- **Stability**: fifth review; article remains fully converged
+- **Output**: [[reviews/deep-review-2026-05-14-sleep-and-consciousness]]
+
 ## 2026-05-14 09:11 UTC - refine-draft
 - **Status**: Success
 - **File**: [[project/outer-reviewer-service-calibration]]
