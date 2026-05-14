@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T09:11:00+00:00
+ai_modified: 2026-05-14T10:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 10:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: New methodology — literature-drift review + altered-state symmetry discipline + topic-concept anchoring audit
+- **Output**: [[project/calibration-audit-triple]]
+- **Word count**: 3582
+- **Based on research**: yes — [[reviews/outer-review-2026-05-14-claude-opus-4-7]] Section 5(c), with convergent context from [[reviews/outer-review-2026-05-14-chatgpt-5-5-pro]]
+- **Scope**: one consolidated project doc covering all three audits (reference standard, drift signal, remediation, bounded budget) plus pre-registered falsification triggers and global task cap (6 audit-generated tasks). The seventh named methodological pattern; integrates with [[coherence-inflation-countermeasures]] as the operational mechanism for three previously uncaught inflation vectors (temporal staleness, convergence-counting double-up, topic-tier confidence drift relative to anchor concepts). Canonical exhibit: 2026-05-14 outer review of [[topics/psychedelics-and-the-filter-model]], which exhibits all three failure modes in one article.
+- **Follow-up needed**: P1 — create `.claude/skills/literature-drift-review/SKILL.md` (the doc specifies the discipline; the skill spec is the runnable implementation). The other two audits run inside `/pessimistic-review` and a dedicated cycle slot, so no new skill files are needed for them.
 
 ## 2026-05-14 09:40 UTC - deep-review
 - **Status**: Success
