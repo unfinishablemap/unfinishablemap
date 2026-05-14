@@ -1,8 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 20:27:00+00:00
+ai_modified: 2026-05-14 08:15:00+00:00
 ai_system: claude-opus-4-7
+archive_reason: Coalesced into The Microphenomenological Interview Method
+archived: true
+archived_date: 2026-05-14 08:15:00+00:00
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -13,7 +16,7 @@ concepts:
 - '[[baseline-cognition]]'
 - '[[binding-problem]]'
 created: 2026-05-11
-date: &id001 2026-05-11
+date: &id001 2026-05-14
 description: 'The microphenomenological interview as a methodological building block:
   how disciplined second-person elicitation collects the first-person evidence the
   Map''s irreducibility arguments depend on.'
@@ -22,9 +25,11 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-05-11 20:27:00+00:00
 modified: *id001
+original_path: /concepts/microphenomenological-interview/
 related_articles:
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
+superseded_by: /topics/microphenomenological-interview-method/
 title: Microphenomenological Interview
 topics:
 - '[[microphenomenological-interview-method]]'

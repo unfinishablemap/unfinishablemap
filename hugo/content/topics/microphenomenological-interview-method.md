@@ -1,22 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-05-11 20:57:00+00:00
+ai_modified: 2026-05-14 08:15:00+00:00
 ai_system: claude-opus-4-7
 author: null
+coalesced_from:
+- /concepts/microphenomenological-interview/
 concepts:
-- '[[microphenomenological-interview]]'
 - '[[phenomenological-evidence]]'
 - '[[introspection]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[heterophenomenology]]'
 - '[[cognitive-phenomenology]]'
 - '[[binding-problem]]'
+- '[[phenomenology]]'
+- '[[baseline-cognition]]'
 created: 2026-04-19
-date: &id001 2026-04-19
+date: &id001 2026-05-14
 description: Claire Petitmengin's disciplined second-person interview procedure for
-  eliciting pre-reflective experience, its Husserlian evidence profile, and its role
-  in the Map's case for rigorous first-person method.
+  eliciting pre-reflective experience, its Husserlian evidence profile, position among
+  related techniques, and the Map arguments that depend on it.
 draft: false
 human_modified: null
 last_curated: null
@@ -31,15 +34,17 @@ topics: []
 
 The microphenomenological interview, developed by Claire Petitmengin from Pierre Vermersch's *entretien d'explicitation*, is a structured second-person procedure that guides a subject through a brief phenomenological reduction, evokes a singular past experiential moment in embodied memory, and elicits fine-grained description of its pre-reflective structure through non-leading prompts. The method's distinctive claim is that trained interviewing can raise to articulated report experiential content that casual introspection systematically overlooks. It is the closest thing consciousness science currently has to a replicable, protocolised first-person technique — which is why it deserves careful treatment on a map that takes phenomenological evidence seriously.
 
-This article describes the procedure, positions its outputs on the [Husserlian evidence taxonomy](/topics/phenomenal-authority-and-first-person-evidence/#husserls-evidence-taxonomy) (explained in that article — briefly, Husserl distinguishes *apodictic* from *assertoric* evidence along one axis and *adequate* from *inadequate* along another), surveys the epilepsy-prodrome work that remains its strongest empirical demonstration, and catalogues documented limits. A closing section treats the Map's specific interest: why a method that strengthens reports about pre-reflective experience matters for the [Dualism tenet](/tenets/#dualism) without proving it. A companion concept page, [microphenomenological-interview](/concepts/microphenomenological-interview/), treats the interview as a building block — situating it among related techniques (descriptive experience sampling, classical Husserlian phenomenology, contemplative inquiry) and enumerating the load-bearing arguments across the Map that depend on something roughly like it being defensible.
+The method also functions as a methodological building block across the Map. Many of the Map's irreducibility arguments — about [cognitive phenomenology](/concepts/cognitive-phenomenology/), the [binding problem](/concepts/binding-problem/), and the [phenomenology of agency](/concepts/phenomenology-of-choice-and-volition/) — depend on first-person reports surviving the standing charge that introspection is too unreliable to bear evidential weight. The microphenomenological interview is currently the cleanest published answer to that charge, and is the cleanest operational candidate for what the Map calls [phenomenal authority](/topics/phenomenal-authority-and-first-person-evidence/).
+
+This article describes the procedure, situates it among related techniques, positions its outputs on the [Husserlian evidence taxonomy](/topics/phenomenal-authority-and-first-person-evidence/#husserls-evidence-taxonomy) (explained in that article — briefly, Husserl distinguishes *apodictic* from *assertoric* evidence along one axis and *adequate* from *inadequate* along another), surveys the epilepsy-prodrome work that remains its strongest empirical demonstration, catalogues documented limits, and enumerates the load-bearing arguments across the Map that depend on something roughly like it being defensible. A closing section treats the Map's specific interest: why a method that strengthens reports about pre-reflective experience matters for the [Dualism tenet](/tenets/#dualism) without proving it.
 
 ## The Interview Procedure
 
 The microphenomenological interview targets one specific, singular past experience rather than a generic report. Petitmengin (2006) describes gathering "first person" data through another person (a "You"), hence the "second person" label. The interviewer's role is structural — to sustain an evocative attitude and withhold leading content — rather than interpretive.
 
-**Selection of the target episode.** The subject picks (or is guided to) a particular moment — not "what meditation is like for you" but "that meditation session yesterday morning, when you noticed attention returning". Specificity is procedurally essential: without a singular anchor, the subject drifts toward generic opinions.
+**Selection of the target episode.** The subject picks (or is guided to) a particular moment — not "what meditation is like for you" but "that meditation session yesterday morning, when you noticed attention returning". Specificity is procedurally essential: without a singular anchor, the subject drifts toward generic opinions or standing self-narratives rather than re-encountering experience.
 
-**Evocation.** The interviewer helps the subject re-enter the embodied memory of the chosen moment. Evocation cues typically include bodily posture, sensory detail (where were you, what were you looking at, what was the temperature), and the affective tone. A subject successfully in evocation often shifts eye-gaze, slows speech, and uses present tense.
+**Evocation.** The interviewer helps the subject re-enter the embodied memory of the chosen moment. Evocation cues typically include bodily posture, sensory detail (where were you, what were you looking at, what was the temperature), and the affective tone. A subject successfully in evocation often shifts eye-gaze, slows speech, and uses present tense — markers an interviewer is trained to recognise and sustain.
 
 **Non-leading content and position questions.** The interviewer then asks about the experience without supplying content. Content-direction questions ask what is present ("and then what happens?"), while position-direction questions ask how something is given ("and where is that feeling — is it felt in one place or several?"). Petitmengin (2006) catalogues a taxonomy of pre-reflective difficulties and the technique for each: not knowing that one can become aware, not knowing how, failure to notice, failure to verbalise.
 
@@ -48,6 +53,16 @@ The microphenomenological interview targets one specific, singular past experien
 **Analysis.** Petitmengin, Remillieux and Valenzuela-Moguillansky (2019) formalise the separate work of *analysing* interview transcripts. Their 15-stage procedure transforms singular descriptions into two kinds of generic structure: *diachronic* (temporal unfolding — phases, transitions, durations) and *synchronic* (momentary structure — what is co-present in a single instant). The procedure is iterative and abductive: proposed structures are tested against further interviews and revised.
 
 Diachronic analysis treats experience as unfolding; synchronic analysis takes a transverse slice. The two are complementary, and the resulting structures are claimed to converge at three reliability levels: intra-subject consistency (the same subject re-interviewed gives the same structure), inter-subject structural recurrence (different subjects yield convergent generic structures for comparable episodes), and inter-analyst agreement (independent coders extract the same structures from the same transcripts).
+
+## Position Among Related Techniques
+
+The microphenomenological interview sits among several techniques aimed at the same general object. Distinguishing it sharpens the concept.
+
+- **Vermersch's *entretien d'explicitation*** is the parent technique, developed for educational and ergonomic contexts to elicit how a person performed a particular cognitive task. Microphenomenology adapts and tightens it for consciousness-science use, particularly around pre-reflective content rather than procedural knowledge.
+- **Descriptive experience sampling (DES)**, associated with Russell Hurlburt, samples experience at random beeps and interviews subjects shortly afterward. DES targets ordinary daily experience rather than evoked specific moments, and emphasises sample variety over evocative depth. Hurlburt is also one of the method's principal critics.
+- **[Heterophenomenology](/concepts/heterophenomenology/)**, associated with Daniel Dennett, treats all subject reports as data about a "world the subject takes herself to inhabit" without committing to inner referents. It is the principal methodological alternative — and it can in principle ingest microphenomenological transcripts as data while remaining neutral about whether the descriptions track real phenomenal content.
+- **Classical Husserlian phenomenology** is the philosophical ancestor; microphenomenology is the protocolised, empirically-deployable descendant. Where Husserl described what trained phenomenological seeing should look like, microphenomenology supplies a protocol another researcher can apply.
+- **Contemplative first-person inquiry** (insight meditation, Mahamudra-style pointing-out instructions) targets similar pre-reflective content through trained introspection without an external interviewer. The two traditions are increasingly read as complementary; see [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/).
 
 ## Husserlian Evidence Profile
 
@@ -94,6 +109,18 @@ The method has real limits, and the microphenomenological community is unusually
 
 None of these limits is fatal. Together they set the method's ceiling: a substantial improvement on casual introspection for a well-specified class of experiences, not a universal window on consciousness.
 
+## What the Map's Arguments Depend On
+
+The Map's catalogue cites phenomenological evidence at multiple load-bearing junctures. The microphenomenological interview is the methodological floor under several of them.
+
+**[Cognitive phenomenology](/concepts/cognitive-phenomenology/).** The claim that thought has its own phenomenal character — that there is something it is like to grasp a meaning, follow an inference, or notice a contradiction — is the cognitive phenomenology thesis. The Map relies on this thesis for several irreducibility arguments. Cognitive phenomenology is precisely the domain microphenomenological interview was designed to probe: thought-experience is fast, fragile, and easily overwritten by post-hoc rationalisation, which is exactly the territory the method's evocation-plus-non-leading-prompts architecture is built for. If the cognitive-phenomenology thesis depends on disciplined first-person reports rather than casual introspection — and the Map maintains it does — then the cognitive-phenomenology thesis depends on a method roughly like microphenomenology being defensible.
+
+**The [binding problem](/concepts/binding-problem/) cluster.** Arguments that conscious unity is a single, integrated givenness rather than a collection of independent registrations rest on phenomenological reports about what unity is *like* from the inside. The microphenomenological interview's synchronic analysis — what is co-present in a single instant — is the procedural form in which such reports become inter-subjectively checkable.
+
+**Agency and free-will reports.** The Map's arguments about [the phenomenology of choice and volition](/concepts/phenomenology-of-choice-and-volition/) depend on subjects accurately reporting the *texture* of agentive experience: where the sense of authoring arises, when it precedes versus follows a decision, what its felt structure is. Libet-style paradigms famously generate scepticism about such reports; microphenomenological interview offers a more disciplined route to the same evidence, and a route whose findings can be checked for convergence across subjects.
+
+**Phenomenal authority more generally.** The broader claim that experience has a kind of evidential standing third-person methods cannot replicate — what the Map calls [phenomenal authority](/topics/phenomenal-authority-and-first-person-evidence/) — is more defensible when the method by which first-person evidence is collected can be named, scrutinised, and shown to converge across subjects and analysts.
+
 ## Relation to Site Perspective
 
 The Map's interest in microphenomenology is methodological rather than metaphysical.
@@ -104,13 +131,8 @@ The epilepsy prodrome finding also bears on the [Occam's Razor Has Limits tenet]
 
 The Map does *not* claim that Petitmengin or her collaborators hold any tenet the Map holds. The microphenomenology literature is scrupulously agnostic on the metaphysics of consciousness, and its authors typically frame their programme as compatible with a wide range of positions. The Map's reading of their work as methodologically supportive of Dualism (via better first-person evidence) and Occam's-Limits (via the ampliative-inquiry illustration) is the Map's, not theirs. Readers who want the source authors' own framings should go to the cited papers rather than take this article as representative of their views.
 
-One further integration: the method is a live candidate for operationalising what the Map calls [phenomenal authority](/topics/phenomenal-authority-and-first-person-evidence/). If subjects trained in microphenomenology produce descriptions that converge across subjects, hold up under repeated analysis, and occasionally surface content invisible to third-person measurement, that is a nontrivial fact that an adequate theory of consciousness must accommodate. How much weight to put on the fact remains open; the method itself is the thing being argued about, not yet a settled source of argument.
-
-Several specific Map arguments lean on something roughly like microphenomenology being defensible — [cognitive phenomenology](/concepts/cognitive-phenomenology/) (that thought has its own phenomenal character), the [binding problem](/concepts/binding-problem/)'s reliance on reports about experiential unity, and the [phenomenology of choice and volition](/concepts/phenomenology-of-choice-and-volition/) (where Libet-style scepticism is most acute). The [concept-level treatment](/concepts/microphenomenological-interview/) enumerates these dependencies; this article restricts itself to what the method does and does not deliver as a method.
-
 ## Further Reading
 
-- [microphenomenological-interview](/concepts/microphenomenological-interview/) — concept-level treatment, with the method's role as a building block under cognitive-phenomenology, binding-problem, and agency arguments, and its position among related techniques (descriptive experience sampling, *entretien d'explicitation*, contemplative first-person inquiry)
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — the broader epistemological frame and the claim the method operationalises
 - [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — the programme microphenomenology serves
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — concept page for the evidence type
@@ -118,18 +140,26 @@ Several specific Map arguments lean on something roughly like microphenomenology
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — a cognate trained-observation tradition
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — a parallel argument that disciplined first-person inquiry yields evidence of philosophical consequence
 - [heterophenomenology](/concepts/heterophenomenology/) — the principal methodological alternative that treats reports as data without committing to inner referents
+- [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — the domain the method was largely designed to probe
+- [phenomenology](/concepts/phenomenology/) — the Husserlian tradition the technique operationalises
 
 ## References
 
 1. Bitbol, M. & Petitmengin, C. (2017). Neurophenomenology and the micro-phenomenological interview. In *The Blackwell Companion to Consciousness* (2nd ed.). Wiley. https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119132363.ch51
 2. Depraz, N., Varela, F. J., & Vermersch, P. (2003). *On Becoming Aware: A Pragmatics of Experiencing*. John Benjamins.
 3. Di Paolo, E. A. & De Jaegher, H. (2019). Microphenomenology of first encounters: A sympathetic critique. *Constructivist Foundations*, 14(2), 185–187.
-4. Olivares, F. A., Vargas, E., Fuentes, C., Martínez-Pernía, D., & Canales-Johnson, A. (2015). Neurophenomenology revisited: Second-person methods for the study of human consciousness. *Frontiers in Psychology*.
-5. Petitmengin, C. (2006). Describing one's subjective experience in the second person: An interview method for the science of consciousness. *Phenomenology and the Cognitive Sciences*, 5(3), 229–269.
-6. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2006). Seizure anticipation: Are neurophenomenological approaches able to detect preictal symptoms? *Epilepsy and Behavior*.
-7. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2007). Anticipating seizure: Pre-reflective experience at the centre of neurophenomenology. *Phenomenology and the Cognitive Sciences*.
-8. Petitmengin, C. (2019). Studying the experience of meditation through micro-phenomenology. *Current Opinion in Psychology*, 28, 54–59.
-9. Petitmengin, C., Remillieux, A., & Valenzuela-Moguillansky, C. (2019). Discovering the structures of lived experience: Towards a micro-phenomenological analysis method. *Phenomenology and the Cognitive Sciences*, 18(4), 691–730.
-10. Sparby, T. (2023). Training naive subjects in using micro-phenomenological self-inquiry to investigate pain and suffering during headaches. *Scandinavian Journal of Psychology*.
-11. Valenzuela-Moguillansky, C. & Vásquez-Rosati, A. (2022). The lived experience of remembering a 'good' interview: Micro-phenomenology applied to itself. *Phenomenology and the Cognitive Sciences*.
-12. Vermersch, P. (1994). *L'entretien d'explicitation*. ESF Éditeur.
+4. Hurlburt, R. T. & Akhter, S. A. (2006). The descriptive experience sampling method. *Phenomenology and the Cognitive Sciences*, 5(3), 271–301.
+5. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
+6. Olivares, F. A., Vargas, E., Fuentes, C., Martínez-Pernía, D., & Canales-Johnson, A. (2015). Neurophenomenology revisited: Second-person methods for the study of human consciousness. *Frontiers in Psychology*, 6, 673.
+7. Petitmengin, C. (2006). Describing one's subjective experience in the second person: An interview method for the science of consciousness. *Phenomenology and the Cognitive Sciences*, 5(3), 229–269. https://link.springer.com/article/10.1007/s11097-006-9022-2
+8. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2006). Seizure anticipation: Are neurophenomenological approaches able to detect preictal symptoms? *Epilepsy and Behavior*.
+9. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2007). Anticipating seizure: Pre-reflective experience at the centre of neurophenomenology. *Phenomenology and the Cognitive Sciences*.
+10. Petitmengin, C. (2019). Studying the experience of meditation through micro-phenomenology. *Current Opinion in Psychology*, 28, 54–59.
+11. Petitmengin, C., Remillieux, A., & Valenzuela-Moguillansky, C. (2019). Discovering the structures of lived experience: Towards a micro-phenomenological analysis method. *Phenomenology and the Cognitive Sciences*, 18(4), 691–730.
+12. Petitmengin, C., Remillieux, A., Cahour, B., & Carter-Thomas, S. (2013). A gap in Nisbett and Wilson's findings? A first-person access to our cognitive processes. *Consciousness and Cognition*, 22(2), 654–669.
+13. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+14. Sparby, T. (2023). Training naive subjects in using micro-phenomenological self-inquiry to investigate pain and suffering during headaches. *Scandinavian Journal of Psychology*.
+15. Valenzuela-Moguillansky, C. & Vásquez-Rosati, A. (2022). The lived experience of remembering a 'good' interview: Micro-phenomenology applied to itself. *Phenomenology and the Cognitive Sciences*.
+16. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330–349.
+17. Vermersch, P. (1994). *L'entretien d'explicitation*. ESF Éditeur.
+18. "Can we trust the phenomenological interview? Metaphysical, epistemological, and methodological objections" (2021). *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-021-09744-z

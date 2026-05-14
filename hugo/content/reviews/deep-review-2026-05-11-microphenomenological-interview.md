@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-11
-**Article**: [Microphenomenological Interview](/concepts/microphenomenological-interview/) (concept page)
+**Article**: [Microphenomenological Interview](/topics/microphenomenological-interview-method/) (concept page)
 **Previous review**: Never (newly created 2026-05-11; sibling topic article [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) reviewed 2026-04-19)
 **Word count**: 2111 → 2117 (+6)
 

@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14 07:54:00+00:00
+ai_modified: 2026-05-14 08:15:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-14 08:15 UTC - coalesce
+- **Status**: Success
+- **Sources**: [microphenomenological-interview](/concepts/microphenomenological-interview/), [microphenomenological-interview-method](/topics/microphenomenological-interview-method/)
+- **Target**: [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) (preserved slug; concept page coalesced in)
+- **Archived**: [microphenomenological-interview](/archive/concepts/microphenomenological-interview/)
+- **Rationale**: The concept and topic articles were created within weeks of each other (concept on 2026-05-11; topic on 2026-04-19) and covered the same Petitmengin method with overlapping procedural descriptions, evidence-profile framing, and Site-Perspective sections. The concept article's distinctive content — the "Position Among Related Techniques" survey and the "What the Map's Arguments Depend On" enumeration — was folded into the topic article as new sections. The Husserlian Evidence Profile, Epilepsy Prodrome Studies, and Documented Limits remain in the topic article's more developed form. Both articles' Further Reading lists were merged and deduplicated.
+- **References to review**: none — `concepts/introspection.md` and `concepts/cognitive-phenomenology.md` already link to `[[microphenomenological-interview-method]]` (the surviving target); no inbound references to the archived `[[microphenomenological-interview]]` concept slug exist in active content.
+- **Voids pressure note**: section selection prioritised pressure (voids 97%, topics 95%, concepts 94%); the strongest pair found was the topic↔concept duplication here, which reduces concepts/ from 236 → 235 toward its 250 cap.
 
 ## 2026-05-14 07:54 UTC - refine-draft
 - **Status**: Success

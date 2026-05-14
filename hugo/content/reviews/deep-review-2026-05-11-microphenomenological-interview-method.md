@@ -19,12 +19,12 @@ topics: []
 **Date**: 2026-05-11
 **Article**: [The Microphenomenological Interview Method](/topics/microphenomenological-interview-method/)
 **Previous review**: [2026-04-19](/reviews/deep-review-2026-04-19-microphenomenological-interview-method/)
-**Cross-review against**: [microphenomenological-interview](/concepts/microphenomenological-interview/) (new concept article, 2026-05-11)
+**Cross-review against**: [microphenomenological-interview](/topics/microphenomenological-interview-method/) (new concept article, 2026-05-11)
 **Word count**: 2179 → 2314 (+135)
 
 ## Cross-Review Context
 
-A concept-level companion page, [microphenomenological-interview](/concepts/microphenomenological-interview/), was created on 2026-05-11. It treats the method as a building block, names the load-bearing arguments across the Map that depend on it (cognitive phenomenology, binding-problem reports, phenomenology of choice and volition, phenomenal authority more generally), and positions the technique among related methods (Vermersch's *entretien d'explicitation*, Hurlburt's descriptive experience sampling, classical Husserlian phenomenology, contemplative first-person inquiry).
+A concept-level companion page, [microphenomenological-interview](/topics/microphenomenological-interview-method/), was created on 2026-05-11. It treats the method as a building block, names the load-bearing arguments across the Map that depend on it (cognitive phenomenology, binding-problem reports, phenomenology of choice and volition, phenomenal authority more generally), and positions the technique among related methods (Vermersch's *entretien d'explicitation*, Hurlburt's descriptive experience sampling, classical Husserlian phenomenology, contemplative first-person inquiry).
 
 The concept article cites the topic article (Southgate & Oquatre-sept 2026-04-19) as a reference. The reciprocal link from topic to concept was missing — that is the principal cross-review action.
 
@@ -36,7 +36,7 @@ None. Re-checked attribution accuracy against the new concept article — no con
 ### Medium Issues Found
 - **Missing reciprocal link to the new concept page** (intro and Further Reading): Resolved by adding a one-sentence pointer in paragraph 2 and a Further Reading entry that names the concept article's distinctive contribution (building-block framing, related-techniques comparison).
 - **"It is not X; but it is Y" cliché in the prodrome section** (line 67): "It is not a metaphysical argument for anything; but it is a methodological argument that trained observation is *ampliative*". Resolved by rephrasing as a positive claim — "The argument the case carries is methodological rather than metaphysical: trained observation is *ampliative*, yielding content that untrained observation misses." Site style guide explicitly forbids this construct.
-- **Missing concept-page links in frontmatter**: [microphenomenological-interview](/concepts/microphenomenological-interview/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [binding-problem](/concepts/binding-problem/) now added to the concepts list — these are dependencies the new concept article makes explicit and that should be cross-discoverable from the topic page.
+- **Missing concept-page links in frontmatter**: [microphenomenological-interview](/topics/microphenomenological-interview-method/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [binding-problem](/concepts/binding-problem/) now added to the concepts list — these are dependencies the new concept article makes explicit and that should be cross-discoverable from the topic page.
 
 ### Low Issues Found
 None requiring action.
@@ -64,10 +64,10 @@ None unsupported.
 - Added a one-sentence pointer to the concept-level companion in paragraph 2, naming what the concept page distinctively contributes (related-techniques comparison; enumeration of load-bearing dependencies).
 - Added a paragraph at the end of "Relation to Site Perspective" naming three specific load-bearing arguments (cognitive phenomenology, binding problem, choice-and-volition) and pointing to the concept page for the full enumeration. The topic article's scope (the method as a method) is preserved; the concept page's scope (the method as a Map-wide methodological floor) is now discoverable from here.
 - Eliminated the "It is not X; but it is Y" cliché in the prodrome section by rephrasing as a positive claim.
-- Added [microphenomenological-interview](/concepts/microphenomenological-interview/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/), and [binding-problem](/concepts/binding-problem/) to the concepts frontmatter.
+- Added [microphenomenological-interview](/topics/microphenomenological-interview-method/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/), and [binding-problem](/concepts/binding-problem/) to the concepts frontmatter.
 
 ### Cross-links Added
-- [microphenomenological-interview](/concepts/microphenomenological-interview/) (concept page, multiple locations)
+- [microphenomenological-interview](/topics/microphenomenological-interview-method/) (concept page, multiple locations)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) (frontmatter + Site Perspective)
 - [binding-problem](/concepts/binding-problem/) (frontmatter + Site Perspective)
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) (Site Perspective)

@@ -2,11 +2,16 @@
 title: "Microphenomenological Interview"
 description: "The microphenomenological interview as a methodological building block: how disciplined second-person elicitation collects the first-person evidence the Map's irreducibility arguments depend on."
 created: 2026-05-11
-modified: 2026-05-11
+modified: 2026-05-14
 human_modified:
-ai_modified: 2026-05-11T20:27:00+00:00
+ai_modified: 2026-05-14T08:15:00+00:00
 last_deep_review: 2026-05-11T20:27:00+00:00
 draft: false
+archived: true
+archived_date: 2026-05-14T08:15:00+00:00
+superseded_by: "/topics/microphenomenological-interview-method/"
+archive_reason: "Coalesced into The Microphenomenological Interview Method"
+original_path: "/concepts/microphenomenological-interview/"
 topics:
   - "[[microphenomenological-interview-method]]"
   - "[[phenomenological-method-and-evidence-standards]]"
