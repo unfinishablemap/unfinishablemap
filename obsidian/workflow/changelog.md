@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T23:37:00+00:00
+ai_modified: 2026-05-14T23:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 23:49 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/attention-as-causal-bridge]]
+- **Changed sources**: 2 (`concepts/mental-effort` modified 2026-05-09; `topics/attention-and-the-consciousness-interface` modified 2026-05-14)
+- **Selection**: auto-selected as stalest (score 80.1 — 40 days × 2 changed sources)
+- **Word count**: 2976 → 3547 (within 2500–4000 target)
+- **Edits**: (1) §"Why Effort Matters" — added dissociation paragraph (Naccache 2005 calibration; Hagger 2016 N=2,141 depletion null; Kurzban 2013 / Inzlicht 2021 modulation) with constrain-vs-establish framing and cluster reference to [[phenomenal-output-causal-machinery-dissociation]]; (2) §"The Three-Layer Architecture" — softened Cai et al. 2024 from "demonstrated" to "consistent with rather than licensed by"; (3) §"The Rival Theory" → §"Engaging Attention Schema Theory" — rewrote per source article's posture with foundational-move identification, chess-engine / self-monitoring-thermostat counter-examples to recursive-self-modelling reply, framework-boundary acknowledgement; (4) §"Synthesis" — added candid second limitation on falsifiability naming borrowed-risk asymmetry and the effort-entropy forward prediction.
+- **Frontmatter fix**: stale source path `voids/attention-created-voids` → `voids/attention-and-consciousness` (body link was already correct).
+- **References added**: Hagger 2016, Inzlicht 2021, Kurzban 2013, Naccache 2005.
+- **Review**: [[reviews/apex-evolve-2026-05-14-attention-as-causal-bridge]]
 
 ## 2026-05-14 23:37 UTC - research-voids
 - **Status**: Success
