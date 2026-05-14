@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13T23:58:00+00:00
+ai_modified: 2026-05-14T00:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 00:18 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Insight Void
+- **Category**: Mixed (primarily Unexplorable, with strong Occluded component — alpha-blink architecturally gates consciousness out of antecedent processing)
+- **Output**: [[research/voids-insight-void-2026-05-14]]
+- **Key finding**: The restructuring operation that breaks impasse (Knoblich's constraint-relaxation + chunk-decomposition) is sub-personal; the right-temporal gamma burst at 300ms is preceded by a ~1.5s alpha "brain blink" suppressing sensory input; the felt-rightness signal (Topolinski-Reber fluency account) can be artificially induced with semantic priming and decoupled from truth (Danek-Wiley false insights, Laukkonen "dark side of Eureka"). Three structural faces — restructuring, antecedent-blindness, calibration — conjoin into an irresolvable operation-void in the family of [[transit-void]], [[decision-void]], [[inference-void]]. Recommended absorption: primary host [[transit-void]] (restructuring as fourth crossing); calibration face into [[noetic-feelings-void]]; cross-references to [[decision-void]], [[creative-aesthetic-void]], [[aspect-perception-void]]. Catalogue at 99/100 — absorption preferred over standalone article per the discipline noted in [[voids]].
 
 ## 2026-05-13 23:58 UTC - refine-draft
 - **Status**: No-op (duplicate task)
