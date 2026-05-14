@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T05:30:00+00:00
+ai_modified: 2026-05-14T05:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 05:35 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research, ontological audit)
+- **File**: [[reviews/outer-review-2026-05-14-gemini-2-5-pro]]
+- **Subject**: recent / topics/psychedelics-and-the-filter-model.md (reuse from chatgpt commission)
+- **Recovery context**: gemini's dispatcher collect hadn't been attempted (starved behind claude's stuck slot per the oldest-first dispatcher). Manual recovery via Blob-download (worked first try).
+- **Claims verified**: 3 (article does engage CSTC/CCC/REBUS at some level; does cite ~10 bits/s; unfalsifiability concern is named in pessimistic-review apparatus)
+- **High-value findings**: 2 novel (explicit cross-link to `[[amplification-void]]`/`[[agency-void]]`/No-MWI as inherited dependencies; refined Gemini-calibration hypothesis); 4 convergent with claude (REBUS engagement insufficient; quantum/amplification weakness; unfalsifiability/asymmetry; bandwidth-asymmetry engagement)
+- **Tasks generated**: 2 (P2: 2) — both small cross-link / calibration-update tasks. Most substantive findings already covered by claude's task set.
+- **Calibration update**: Third data-point in the Gemini-on-focused-articles series. Refined hypothesis: Gemini's depth-of-critique scales with how well-documented the article's canonical opponents are in the literature. Letheby (niche) was missed; Madhyamaka (canonical) was caught on 2026-05-12.
 
 ## 2026-05-14 05:30 UTC - outer-review
 - **Status**: Success

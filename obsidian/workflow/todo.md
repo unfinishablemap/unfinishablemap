@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Refine topics/psychedelics-and-the-filter-model.md — install explicit dependency cross-links to amplification-void, agency-void, and No-MWI tenet
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-14. Gemini's Critiques section flags two dependencies the article inherits but doesn't currently flag: (a) The filter mechanism's "downward causation via selection laws" *collapses* if MWI is correct — the article should explicitly cite `[[arguments/many-worlds-argument]]` and `[[tenets#^no-many-worlds]]` as load-bearing dependencies, not just background context. (b) The Zeno-effect / Orch-OR mechanism story inherits the "amplification void" (the structural impossibility of tracing how a micro-level quantum nudge reliably amplifies into a macroscopic neural cascade without being drowned out by biological chaos) and the "agency void" (verification circularity — consciousness can't step outside itself to objectively measure its own causal power). The Map has dedicated articles at `[[voids/amplification-void]]` and `[[voids/agency-void]]` already; the psychedelics article should cross-link them as the voids its mechanism story inherits. Refine to add: (i) a one-paragraph "Theoretical Dependencies" section near the end naming the three dependency points (Tenet 4 No-MWI; Amplification Void; Agency Void) with cross-links; (ii) a brief mention in the quantum section that the Orch-OR proposal sits *within* the unresolved Amplification Void — the article does not claim to have solved it. **Companion to claude's P2 task on cutting/downgrading the quantum section** — the two should land together so dependencies are honestly flagged at the same time as the quantum overreach is hedged. Apply [[direct-refutation-discipline]] Mode Three: framework-boundary marking of inherited dependencies. ~200–350 words touched. Tenet alignment: Tenet 4 + Tenet 2; methodological. See review file.
+- **Review file**: `reviews/outer-review-2026-05-14-gemini-2-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-14
+
+### P2: Update obsidian/project/outer-reviewer-service-calibration.md (when it lands) with refined Gemini conditional pattern
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review by Gemini 2.5 Pro 2026-05-14. Third data-point in the Gemini Deep Research calibration sequence: 2026-05-11 (full-site → sympathetic synthesis with no critique), 2026-05-12 (focused article on non-temporal-consciousness → substantive critique surfacing the novel Madhyamaka challenge), 2026-05-14 (focused article on psychedelics-and-the-filter-model → moderately critical but still leans synthesizing, missed the strongest opponent Letheby that Claude caught). Refined conditional pattern: **Gemini's depth-of-critique scales with how well-documented the article's canonical opponents are in the literature.** Non-temporal-consciousness has Madhyamaka / Dennett / Frankish as canonical opponents — Gemini engaged them. Psychedelics-and-the-filter-model has Letheby as the strongest opponent — more niche, and Gemini missed him while Claude caught him. The pending P3 (now P2 after 2026-05-13 batch bump) `Project doc on outer-reviewer service calibration — Gemini Deep Research as sycophancy data-point (2026-05-11 cycle)` should be updated to reflect this when it lands. Refine the project doc draft to include the 2026-05-14 data point and the refined "scales with opponent canonicity" hypothesis. ~150–250 words to add. Tenet alignment: methodological. **Sequencing**: blocked until the parent calibration project doc has been written. See review file.
+- **Review file**: `reviews/outer-review-2026-05-14-gemini-2-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-14
+
 ### P1: Refine topics/psychedelics-and-the-filter-model.md — update empirical base to 2024–2026, reframe DMN-suppression as cortex-wide desynchronization
 - **Type**: refine-draft
 - **Status**: pending
