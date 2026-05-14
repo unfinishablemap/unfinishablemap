@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-14T10:10:26.569083+00:00'
-session_count: 7161
-cycle_position: 6789
+last_updated: '2026-05-14T10:40:26.569580+00:00'
+session_count: 7162
+cycle_position: 6790
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-14T02:54:29.762849+00:00'
@@ -22,7 +22,6 @@ last_runs:
   commission-chatgpt-review: '2026-05-14T02:24:29.762499+00:00'
   commission-claude-review: '2026-05-14T03:24:29.763363+00:00'
   commission-gemini-review: '2026-05-14T04:24:29.764044+00:00'
-  literature-drift-review: null
 last_git_push: '2026-05-14T06:24:29.765071+00:00'
 last_tweet_date: '2026-05-14'
 content_stats:
@@ -34,39 +33,6 @@ section_caps:
   max_topics: 250
   max_concepts: 250
   max_voids: 100
-audit_triple:
-  # Configuration for the three calibration audits specified in
-  # project/calibration-audit-triple.md (2026-05-14). Only literature_drift
-  # runs as a standalone skill; the other two integrate into existing skills.
-  global_task_cap: 6   # max active audit-generated tasks at once (across all three audits)
-  literature_drift:
-    # Wall-clock weekly trigger. Tuesday 05:00 UTC. Independent of --interval,
-    # so cadence is stable across speed changes. Idempotency via
-    # state.last_runs["literature-drift-review"].date() != today.
-    weekly_cadence_day: Tuesday   # 0=Mon..6=Sun; resolved to weekday(1) in evolve_loop.py
-    trigger_hour_utc: 5
-    # Drift thresholds — both must fire for a refine-draft task to be generated.
-    median_year_lag_threshold: 5   # cited literature's median year > N years behind article's ai_modified year
-    missing_citation_threshold: 2  # ≥N topically-appropriate recent papers absent from article
-    # Articles outside these area patterns use existing review channels (deep-review,
-    # refine-draft). Match is substring against the article slug (path stem).
-    active_research_sections:
-      - psychedelics-and-the-filter-model
-      - consciousness-and-the-problem-of-measurement-standards
-      - quantum-measurement-and-consciousness
-      - animal-consciousness
-      - consciousness-and-integrated-information
-      - quantum-biology-and-neural-consciousness
-    # Rotation tracking — articles audited in the last 30 days are skipped.
-    # Skill appends slugs here; oldest fall off when len > 30.
-    recently_audited: []
-    # Audit telemetry — feeds the 30-run falsification trigger:
-    # if flagged_audits / total_audits is outside the 20–80% window, retune
-    # thresholds at the next /tune-system pass.
-    last_audit_date: null
-    total_audits: 0
-    flagged_audits: 0
-    clean_audits: 0
 convergence_targets:
   min_topics: 10
   min_concepts: 15
@@ -89,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/topics/born-rule-and-the-consciousness-in)
-  type: condense
-  date: '2026-05-14'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-14'
@@ -167,5 +129,14 @@ recent_tasks:
   outcome: success
 - task: expand-topic (New methodology — literature-drift review skill + )
   type: expand-topic
+  date: '2026-05-14'
+  outcome: success
+- task: 'refine-draft (SKILL.md
+
+
+    Task context:
+
+    Chain follow-up to today''s)'
+  type: refine-draft
   date: '2026-05-14'
   outcome: success

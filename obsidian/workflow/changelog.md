@@ -5,6 +5,27 @@ ai_modified: 2026-05-14T10:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-14 11:15 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Word count**: 2998 → 2998 (+0) — at exact soft threshold (3000), length-neutral mode
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (cross-links verified intact post-condense; no content changes warranted)
+- **Calibration check**: clean — exemplary calibration (explicit phenomenological-report-vs-metaphysical-conclusion separation at L60, narrowed dualist consequence at L80, source-monitoring discrimination concession at L92, auxiliary-commitments disclosure at L128)
+- **Engagement classifications** (editor-internal, not in article body):
+  - Perrin et al. (metacognitive): Mode Two — relocation doesn't dissolve
+  - Fernández (intentionalist): Mode Two — owes a story
+  - Michaelian (simulationism): Mode One — empirical reply on felt difference
+  - Lane, Guillot, Howell & Thompson, Dings (for-me-ness too thin): Mode Three — framework boundary
+  - Source-monitoring (Johnson, Gentry): Mode Two — hard problem relocated, not dissolved
+  - MWI (Vaidman): Mode Three — framework boundary via haecceity auxiliary
+  - Illusionism (Frankish): Mode Three — bedrock-clashing, absorbed honestly
+- **Forbidden-vocabulary check**: no "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", or "Evidential status:" callouts in article body. "Bedrock-clashing" at L126 is natural prose use of [[bedrock-clash-vs-absorption]] concept name.
+- **Cross-links verified post-condense**: memory-anomalies (forward L58, reciprocal L99 ✓), anoetic-noetic-autonoetic-consciousness (forward L100, reciprocal L137 ✓), evidential-status-discipline (L60 ✓), inaccessible-past (L76, L106 ✓), phenomenal-authority (L98 ✓), temporal-consciousness-structure-and-agency (L64 ✓). All cross-links from 2026-05-10 cross-link task survived the 2026-05-14 condense intact.
+- **Stability**: fourth deep review (plus 2026-05-10 cross-link task). Article remains stable post-condense; bedrock disagreements (Dennett, MWI, Churchland, Buddhist no-self, illusionism) catalogued in prior reviews and should not be re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-14-phenomenology-of-memory-and-the-self]]
+
 ## 2026-05-14 10:12 UTC - expand-topic
 - **Status**: Success
 - **Topic**: New methodology — literature-drift review + altered-state symmetry discipline + topic-concept anchoring audit

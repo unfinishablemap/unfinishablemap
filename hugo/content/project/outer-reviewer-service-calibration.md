@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-13
-ai_modified: 2026-05-13 19:51:00+00:00
+ai_modified: 2026-05-14 09:11:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
 created: 2026-05-13
-date: &id001 2026-05-13
+date: &id001 2026-05-14
 description: Calibration data and policy for the three-service outer-review mix. The
   2026-05-11 cycle surfaced Gemini Deep Research as a sycophancy data-point on full-site
   audits while remaining substantive on narrower subjects.
@@ -24,6 +24,9 @@ related_articles:
 - '[[reviews/outer-review-2026-05-11-claude-opus-4-7]]'
 - '[[reviews/outer-review-2026-05-11-chatgpt-5-5-pro]]'
 - '[[reviews/outer-review-synthesis-2026-05-11]]'
+- '[[reviews/outer-review-2026-05-12-gemini-2-5-pro]]'
+- '[[reviews/outer-review-2026-05-14-gemini-2-5-pro]]'
+- '[[reviews/outer-review-2026-05-14-claude-opus-4-7]]'
 title: Outer-Reviewer Service Calibration
 topics: []
 ---
@@ -44,9 +47,13 @@ The 2026-05-11 synthesis records this as "the seventh independent outer review f
 
 ## Subject-Type Sensitivity
 
-Gemini's Deep Research mode is not sycophantic uniformly. The 2026-05-10 cycle (single-article review of `topics/phenomenology-of-memory-and-the-self.md`) and the 2026-05-12 cycle (audit of `topics/non-temporal-consciousness.md`) produced substantive critiques: a Many-Minds Interpretation engagement gap, a category-error risk in the mineness → dualism inference, an atemporal-causation paradox, and a Madhyamaka/Nagarjuna challenge to the persisting subject that no other reviewer had surfaced. The pattern is *Gemini Deep Research reads full-site audits as research-synthesis tasks and produces synthesis-with-many-citations, not adversarial engagement*.
+Gemini's Deep Research mode is not sycophantic uniformly. The 2026-05-10 cycle (single-article review of `topics/phenomenology-of-memory-and-the-self.md`) and the 2026-05-12 cycle (audit of `topics/non-temporal-consciousness.md`) produced substantive critiques: a Many-Minds Interpretation engagement gap, a category-error risk in the mineness → dualism inference, an atemporal-causation paradox, and a Madhyamaka/Nagarjuna challenge to the persisting subject that no other reviewer had surfaced. The 2026-05-14 cycle (audit of `topics/psychedelics-and-the-filter-model.md`) sits between the 2026-05-11 and 2026-05-12 cases: more critical than the full-site sympathetic synthesis, surfacing the unfalsifiability concern, the quantum amplification void, and the bandwidth-asymmetry challenge — but still leaning toward synthesis-with-table-format-comparison, closing with unreserved appreciation ("formidable, rigorously argued challenge to orthodox materialism"), and missing the strongest opponent (Letheby's predictive self-binding account) that the same-cycle Claude review caught explicitly.
 
-Working hypothesis: Gemini Deep Research's optimisation target — long-form synthesis with extensive citation — is structurally incompatible with adversarial site-audit prompting at the corpus level, where surface-area description out-competes structural critique on the metric the model is optimised against. On narrower subjects the synthesis target collapses toward direct engagement because descriptive coverage cannot stand in for evaluation.
+### Refined Hypothesis: Opponent-Canonicity Scaling
+
+The narrow-vs-broad distinction is too coarse for the three-cycle data. The 2026-05-12 review on non-temporal-consciousness was substantively critical because the article's canonical opponents — Madhyamaka, Frankish illusionism, Dennett — are extensively documented in the philosophy-of-mind literature; Gemini's synthesis target consumes those citations and surfaces them. The 2026-05-14 review on psychedelics-and-the-filter-model was only moderately critical because the strongest contemporary opponent (Letheby's *Philosophy of Psychedelics*, 2021) is more niche; Gemini's synthesis-with-citation mode tracked the well-documented REBUS / CSTC / CCC cluster but did not retrieve Letheby. Claude, which is not optimised against citation-density, did retrieve him.
+
+**Refined working hypothesis: Gemini Deep Research's depth-of-critique scales with how well-documented the article's canonical opponents are in the academic literature.** Where opponents are well-canonised, citation-density retrieval surfaces them and the review reads as substantive engagement. Where the strongest contemporary opponent is niche or recent, retrieval misses and the synthesis target falls back to descriptive coverage. The corpus-level 2026-05-11 case is the limit case of this: at full-site scope no specific opponent literature is centrally indexed, so descriptive surface-area dominates over structural critique entirely. The hypothesis is consistent with the synthesis-target framing in the prior section — opponent-canonicity is the upstream variable that determines whether the synthesis target collapses toward direct engagement on a given subject.
 
 ## Service Mix Implications
 
@@ -54,7 +61,7 @@ Provisional roles assigned per the data so far:
 
 - **Claude Opus 4.7 (Adaptive + Research)** — the adversarial reviewer of record. The deepest in-corpus structural critique on every cycle observed. Pair with `[[direct-refutation-discipline]]` enforcement and `[[bedrock-clash-vs-absorption]]` editing.
 - **ChatGPT 5.5 Pro Extended** — the focused-hypothesis reviewer. Its outputs sort cleanly into actionable findings with concrete remedy structures (per-cluster independence scoring; causal-budget ledger fields). Lower volume per review but high actionability per finding.
-- **Gemini 2.5 Pro Deep Research** — the breadth-of-coverage reviewer. On narrow subjects (single article, recent edit), substantive; on full-site audits, descriptive rather than critical. Treat its full-site outputs as accurate corpus summaries (useful for synthesis context) rather than as adversarial findings.
+- **Gemini 2.5 Pro Deep Research** — the breadth-of-coverage reviewer, with depth scaling by opponent-canonicity (see refined hypothesis above). On narrow subjects with well-canonised opponents (Madhyamaka, Frankish, Dennett), substantive engagement that surfaces canonical objections; on narrow subjects with niche contemporary opponents (Letheby), descriptive synthesis that retrieves the well-documented competitor cluster but misses the niche-but-strongest case; on full-site audits, descriptive rather than critical. Treat full-site outputs as corpus summaries; for narrow subjects, treat as a check on canonical-literature coverage and cross-reference against same-cycle Claude for niche opponents.
 
 The synthesis-pass logic should keep weighting cross-service convergence — but a Gemini full-site review that *repeats* a framing Claude flags as overclaim is not an independent corroborating voice; it is a third datapoint that the framing leaks to downstream synthesisers, which is itself diagnostic information about the framing.
 

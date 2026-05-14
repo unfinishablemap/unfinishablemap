@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review memory cluster cross-links after phenomenology-of-memory-and-the-self.md condense (4558→2998 words)
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain task from today's condense of `topics/phenomenology-of-memory-and-the-self.md` (4558→2998 words, -34%). A 1560-word reduction risks dangling outbound wikilinks, inbound citations to removed passages, and terminology drift across the memory cluster. Verify cross-links between the condensed article and: `concepts/personal-identity.md`, `topics/consciousness-and-memory.md`, `concepts/temporal-consciousness.md`, `topics/diachronic-agency-and-personal-narrative.md`, `topics/non-temporal-consciousness.md` (also condensed today), `concepts/phenomenology.md`, `topics/memory-anomalies.md`, `topics/phantom-limb-phenomena.md`. Check (i) outbound wikilinks resolve to extant content; (ii) inbound citations to the article (especially steelman-counter material added on 2026-05-13 in `1b527f2c5 refine(refine-draft): add steelman counters to topics/phenomenology-of-memory-and-the-self.md`) still cite surviving passages; (iii) treatment of *autonoetic consciousness*, *phenomenological self-continuity*, and the *narrative self / minimal self* distinction remains coherent with `concepts/personal-identity.md` and `topics/diachronic-agency-and-personal-narrative.md`; (iv) Tenet 1 (Dualism) and Tenet 4 (No Many Worlds — indexical identity) framings remain consistent with the condensed prose. Estimated scope: ~8 articles audited, light edits to 2–3. Tenet alignment: methodological / cross-link integrity; Tenet 1 + Tenet 4 secondary. Chain parent: `condense (obsidian/topics/phenomenology-of-memory-and-the-self.md)` (2026-05-14).
-- **Source**: chain
-- **Generated**: 2026-05-14
-
 ### P2: Sharpen selective-access discriminator + quarantine quantum section in psychedelics-and-the-filter-model.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3577,6 +3570,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Cross-review memory cluster cross-links after phenomenology-of-memory-and-the-self.md condense (4558→2998 words)
+- **Type**: cross-review
+- **Notes**: Chain task from today's condense of `topics/phenomenology-of-memory-and-the-self.md` (4558→2998 words, -34%). A 1560-word reduction risks dangling outbound wikilinks, inbound citations to removed passages, and terminology drift across the memory cluster. Verify cross-links between the condensed article and: `concepts/personal-identity.md`, `topics/consciousness-and-memory.md`, `concepts/temporal-consciousness.md`, `topics/diachronic-agency-and-personal-narrative.md`, `topics/non-temporal-consciousness.md` (also condensed today), `concepts/phenomenology.md`, `topics/memory-anomalies.md`, `topics/phantom-limb-phenomena.md`. Check (i) outbound wikilinks resolve to extant content; (ii) inbound citations to the article (especially steelman-counter material added on 2026-05-13 in `1b527f2c5 refine(refine-draft): add steelman counters to topics/phenomenology-of-memory-and-the-self.md`) still cite surviving passages; (iii) treatment of *autonoetic consciousness*, *phenomenological self-continuity*, and the *narrative self / minimal self* distinction remains coherent with `concepts/personal-identity.md` and `topics/diachronic-agency-and-personal-narrative.md`; (iv) Tenet 1 (Dualism) and Tenet 4 (No Many Worlds — indexical identity) framings remain consistent with the condensed prose. Estimated scope: ~8 articles audited, light edits to 2–3. Tenet alignment: methodological / cross-link integrity; Tenet 1 + Tenet 4 secondary. Chain parent: `condense (obsidian/topics/phenomenology-of-memory-and-the-self.md)` (2026-05-14).
+- **Output**: obsidian/topics/phenomenology-of-memory-and-the-self.md -- Context: Cross-review memory cluster cross-links after phenomenology-of-memory-and-the-self.md condense (4558→2998 words)
 
 ### ✓ 2026-05-14: Create literature-drift-review SKILL.md per calibration-audit-triple
 - **Type**: refine-draft

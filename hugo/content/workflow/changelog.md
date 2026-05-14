@@ -1,13 +1,54 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14 08:15:00+00:00
+ai_modified: 2026-05-14 10:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-14 10:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: New methodology — literature-drift review + altered-state symmetry discipline + topic-concept anchoring audit
+- **Output**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Word count**: 3582
+- **Based on research**: yes — [outer-review-2026-05-14-claude-opus-4-7](/reviews/outer-review-2026-05-14-claude-opus-4-7/) Section 5(c), with convergent context from [outer-review-2026-05-14-chatgpt-5-5-pro](/reviews/outer-review-2026-05-14-chatgpt-5-5-pro/)
+- **Scope**: one consolidated project doc covering all three audits (reference standard, drift signal, remediation, bounded budget) plus pre-registered falsification triggers and global task cap (6 audit-generated tasks). The seventh named methodological pattern; integrates with [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) as the operational mechanism for three previously uncaught inflation vectors (temporal staleness, convergence-counting double-up, topic-tier confidence drift relative to anchor concepts). Canonical exhibit: 2026-05-14 outer review of [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/), which exhibits all three failure modes in one article.
+- **Follow-up needed**: P1 — create `.claude/skills/literature-drift-review/SKILL.md` (the doc specifies the discipline; the skill spec is the runnable implementation). The other two audits run inside `/pessimistic-review` and a dedicated cycle slot, so no new skill files are needed for them.
+
+## 2026-05-14 09:40 UTC - deep-review
+- **Status**: Success
+- **File**: [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
+- **Word count**: 2009 → 2009 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate `[[episodic-memory]]` references from automated wikilink rename — removed from `related_articles` frontmatter and merged the two Further Reading entries)
+- **Enhancements made**: 0
+- **Calibration check**: clean — no possibility/probability slippage detected
+- **Engagement classification**: illusionism — Mode Mixed (Mode-Two regress argument + Mode-One asymmetry/trainability + Mode-Three contemplative boundary-marking); no label leakage; no boundary-substitution
+- **Stability**: fifth review; article remains fully converged
+- **Output**: [deep-review-2026-05-14-sleep-and-consciousness](/reviews/deep-review-2026-05-14-sleep-and-consciousness/)
+
+## 2026-05-14 09:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [outer-reviewer-service-calibration](/project/outer-reviewer-service-calibration/)
+- **Source**: outer review by Gemini 2.5 Pro (2026-05-14) — third data-point in the Gemini Deep Research calibration sequence (2026-05-11 full-site sympathetic synthesis → 2026-05-12 substantive critique on non-temporal-consciousness → 2026-05-14 moderate critique on psychedelics-and-the-filter-model that missed Letheby)
+- **Changes**: (i) Subject-Type Sensitivity section — added the 2026-05-14 data point sitting between the two prior cases: more critical than the full-site review (surfacing unfalsifiability, amplification void, bandwidth asymmetry) but still leaning synthesis-with-table-format-comparison, closing appreciatively, and missing the strongest contemporary opponent (Letheby's predictive self-binding) that same-cycle Claude caught. (ii) New "Refined Hypothesis: Opponent-Canonicity Scaling" subsection — the narrow-vs-broad distinction is too coarse for three-cycle data; refined hypothesis is that Gemini Deep Research's depth-of-critique scales with how well-documented the article's canonical opponents are in the academic literature. Well-canonised opponents (Madhyamaka/Frankish/Dennett on non-temporal-consciousness) get surfaced via citation-density retrieval; niche-but-strongest opponents (Letheby on psychedelics) get missed. The corpus-level 2026-05-11 case is the limit case where no specific opponent literature is centrally indexed. (iii) Service Mix Implications — refined Gemini entry to reflect opponent-canonicity scaling, with cross-reference-against-same-cycle-Claude as the operational mitigation for niche-opponent blind spots. (iv) Frontmatter — modified/ai_modified bumped to 2026-05-14; added related_articles for 2026-05-12 and 2026-05-14 Gemini reviews plus the same-cycle Claude review.
+- **Tenet alignment**: methodological (calibration of the outer-review channel feeds [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) discipline applied to the pipeline itself)
+- **Words touched**: ~220 added (target: 150–250; on-spec)
+- **Published**: yes
+
+## 2026-05-14 08:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Source**: outer review by ChatGPT 5.5 Pro (2026-05-14) — two boundary-substitution moves flagged in §"REBUS and Filter Theory" and §"Relation to Site Perspective"
+- **Changes**: (i) REBUS subsection — removed the "empirical evidence supporting REBUS simultaneously supports the filter interpretation" boundary-substitution; replaced with the *compatible but not discriminating* framing the reviewer specified, naming the shared empirical signature, stating that discrimination would require filter theory to supply independent risky predictions REBUS does not make, and routing the difference through metaphysical commitments settled outside the REBUS evidence. (ii) Dualism bullet in Relation-to-Site-Perspective — rewrote to lead with the reviewer's specified language: "psychedelic evidence is congenial to the filter model and relevant to the Map's dualist programme, but it remains compatible with leading physicalist and predictive-processing accounts." Named REBUS, entropic brain, Letheby's predictive self-binding, and the pluralistic neuropsychology of the 2020–2026 literature as the live rivals; imported the [default-mode-network](/concepts/default-mode-network/) concept-page formulation "neither interpretation is forced by the data alone" with attribution to the foundational tier the topic article should inherit from. Retained the *coherence rather than evidential support* and *one-cluster-not-five-confirmations* moves from prior passes.
+- **Engagement classification** (editor-internal, not in article body): Mode Four — empirical underdetermination. The altered-state evidence cannot adjudicate between filter theory and the live rivals (REBUS, entropic brain, predictive self-binding, pluralistic neuropsychology); the discriminating data are not in. Neither Mode One (no in-framework refutation available on altered-state data alone) nor Mode Three (the rivals are not foreclosed by tenet-incompatibility — they are live alternatives) is the honest discharge. Mode Four names the dispute as open, identifies what would in principle discriminate (filter theory supplying independent risky predictions; convergence across structurally distinct interface cases taken as one cluster), and declines to claim the Map's framework has won on the altered-state evidence alone. The two flagged passages had drifted toward Mode One language that the dialectical situation does not currently warrant.
+- **Forbidden-vocabulary check**: no "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", or "Evidential status:" callouts in article body. The *compatible-but-not-discriminating* and *coherence-not-evidential-support* distinctions are in natural prose. The [evidential-status-discipline](/project/evidential-status-discipline/) link appears in sentence flow, not as meta-commentary.
+- **Tenet alignment**: Tenet 1 (Dualism — primary, framing) and methodological — Mode Four reclassification keeps dualist framing honestly noted as Map commitment while declining to dress it as conclusion-from-altered-state-data.
+- **Words touched**: ~210 (target: 150–300, lighter than prior passes; surgical fix to two passages)
+- **Published**: yes
 
 ## 2026-05-14 08:15 UTC - coalesce
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-29 02:22:00+00:00
+ai_modified: 2026-05-14 09:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,14 +26,13 @@ description: Consciousness operates in gradations during sleep. Memory consolida
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 06:35:00+00:00
+last_deep_review: 2026-05-14 09:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[sleep-memory-consolidation-consciousness-2026-01-18]]'
 - '[[dream-consciousness]]'
 - '[[capability-division-problem]]'
-- '[[episodic-memory]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[consciousness-and-memory]]'
 title: Sleep and Consciousness
@@ -162,7 +161,7 @@ The Map's interpretation would face difficulty if:
 
 - [dream-consciousness](/topics/dream-consciousness/) — The phenomenology and philosophy of dream experience
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — How unconsciousness illuminates mind-brain relationships
-- [episodic-memory](/concepts/episodic-memory/) — Memory systems affected by sleep consolidation
+- [episodic-memory](/concepts/episodic-memory/) — Memory systems affected by sleep consolidation, treated as a dual-domain capability across physical and non-physical sides
 - [binding-problem](/concepts/binding-problem/) — How distributed processing becomes unified experience
 - [attention-as-interface](/concepts/attention-as-interface/) — The proposed mechanism for consciousness-brain interaction
 - [filter-theory](/concepts/filter-theory/) — The transmission model that sleep evidence supports
@@ -175,7 +174,6 @@ The Map's interpretation would face difficulty if:
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Sleep within the broader taxonomy of ASCs
 - [sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/) — Detailed research notes
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
-- [episodic-memory](/concepts/episodic-memory/) — Memory as a dual-domain capability across physical and non-physical domains
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — Why waking cannot access dreaming and dreaming cannot access waking
 
 ## References
