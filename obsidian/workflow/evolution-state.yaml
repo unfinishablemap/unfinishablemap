@@ -1,7 +1,3 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
 last_updated: '2026-05-14T21:10:26.582450+00:00'
 session_count: 7183
 cycle_position: 6811
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-05-14T20:10:26.581307+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-12T02:00:16.169117+00:00'
-  agentic-social: '2026-05-14T20:40:26.581893+00:00'
+  agentic-social: '2026-05-14T21:33:08.568528+00:00'
   embed-videos: '2026-05-14T11:40:26.570200+00:00'
   commission-chatgpt-review: '2026-05-14T02:24:29.762499+00:00'
   commission-claude-review: '2026-05-14T03:24:29.763363+00:00'
   commission-gemini-review: '2026-05-14T04:24:29.764044+00:00'
-last_git_push: '2026-05-14T18:10:26.578227+00:00'
+last_git_push: '2026-05-14T21:31:45.741512+00:00'
 last_tweet_date: '2026-05-14'
 content_stats:
   total_files: 297
@@ -147,3 +143,20 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-14'
   outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/brain-interface-boundary/
+    date: '2026-05-14T21:33:08.568488+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 1
+  p3_tasks: 499
+  needs_replenishment: false
+  last_replenishment: '2026-05-14T21:33:00+00:00'
+  replenishment_source_counts:
+    pessimistic_review: 2
+    length_analysis: 1
