@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/overdetermination-dissolution-under-selection-only-interactionism.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New article created today (2026-05-14 18:41 UTC) via `/expand-topic` from the queued P3 task at todo.md line 3607 chain (optimistic-2026-05-14 "Ideas for Later"). The article develops the "consciousness influences outcomes precisely where physics is silent" point from `topics/consciousness-and-causal-powers.md` line 194 into a stand-alone treatment of how the overdetermination objection dissolves under selection-only / corridor interpretations. Never deep-reviewed. Verify: (a) the dissolution-vs-trumping distinction is cleanly drawn (corridor reading delivers clean dissolution; trumping reading requires additional structural argument); (b) Kim's exclusion-argument engagement is honest — the article should engage rather than dismiss; (c) `[[direct-refutation-discipline]]` is honoured — distinguish in-framework refutation from framework-boundary marking on the physical-physical-sufficiency assumption; (d) `[[evidential-status-discipline]]` is honoured — the "non-competition" claim is a structural-conceptual move, not an empirical claim, and the article should not slip into possibility→probability registers; (e) tenet routing through Tenet 3 (Bidirectional Interaction — primary) and Tenet 2 (Minimal Quantum Interaction — the dissolution depends on physics having alternatives the mind can select among); (f) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (g) verify cross-references to the cluster — `[[consciousness-and-causal-powers]]`, `[[mental-causation-and-downward-causation]]`, `[[interactionist-dualism]]`, `[[selection-only-channel]]`, `[[post-decoherence-selection]]`, `[[delegatory-causation]]`, `[[trumping-preemption]]`, `[[psychophysical-laws]]`, `[[epiphenomenalism]]`, `[[free-will]]`, `[[causal-consistency-constraint]]`.
-- **Source**: chain (from expand-topic 2026-05-14)
-- **Generated**: 2026-05-14
-
 ### P2: Deep review concepts/causal-consistency-constraint.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3597,6 +3590,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Deep review topics/overdetermination-dissolution-under-selection-only-interactionism.md
+- **Type**: deep-review
+- **Notes**: New article created today (2026-05-14 18:41 UTC) via `/expand-topic` from the queued P3 task at todo.md line 3607 chain (optimistic-2026-05-14 "Ideas for Later"). The article develops the "consciousness influences outcomes precisely where physics is silent" point from `topics/consciousness-and-causal-powers.md` line 194 into a stand-alone treatment of how the overdetermination objection dissolves under selection-only / corridor interpretations. Never deep-reviewed. Verify: (a) the dissolution-vs-trumping distinction is cleanly drawn (corridor reading delivers clean dissolution; trumping reading requires additional structural argument); (b) Kim's exclusion-argument engagement is honest — the article should engage rather than dismiss; (c) `[[direct-refutation-discipline]]` is honoured — distinguish in-framework refutation from framework-boundary marking on the physical-physical-sufficiency assumption; (d) `[[evidential-status-discipline]]` is honoured — the "non-competition" claim is a structural-conceptual move, not an empirical claim, and the article should not slip into possibility→probability registers; (e) tenet routing through Tenet 3 (Bidirectional Interaction — primary) and Tenet 2 (Minimal Quantum Interaction — the dissolution depends on physics having alternatives the mind can select among); (f) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (g) verify cross-references to the cluster — `[[consciousness-and-causal-powers]]`, `[[mental-causation-and-downward-causation]]`, `[[interactionist-dualism]]`, `[[selection-only-channel]]`, `[[post-decoherence-selection]]`, `[[delegatory-causation]]`, `[[trumping-preemption]]`, `[[psychophysical-laws]]`, `[[epiphenomenalism]]`, `[[free-will]]`, `[[causal-consistency-constraint]]`.
+- **Output**: obsidian/topics/overdetermination-dissolution-under-selection-only-interactionism.md
 
 ### ✓ 2026-05-14: Condense topics/ethics-under-dualism.md (4859 words, 162% of topics hard threshold)
 - **Type**: condense

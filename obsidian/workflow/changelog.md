@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T22:37:00+00:00
+ai_modified: 2026-05-14T23:01:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 23:01 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]]
+- **Word count**: 2592 → 2592 (length-neutral; one cliché-construction sentence tightened, no net delta)
+- **Critical issues addressed**: 0 (article is well-calibrated and structurally honest; attribution accuracy and source/Map separation verified; possibility-probability slippage explicitly named and avoided in §"What the Dissolution Does Not Claim")
+- **Medium issues addressed**: 1 (LLM cliché "This is not X; it is Y" construction on line 75 — explicitly flagged in writing-style guide as overused pattern — rewritten to "one effect, two-part decomposition" inline)
+- **Enhancements made**: 1 (added `last_deep_review` timestamp field that was missing from frontmatter)
+- **Reasoning-mode classifications** (editor-vocabulary; for record only): Kim engagement — Mode One (defective on its own terms; premise 1 of the exclusion argument is locally false at quantum indeterminacies, an empirical claim contestable inside Kim's framework); Yablo / non-reductive-physicalist engagement — Mode One (the article identifies that these responses accept Kim's framing and renegotiate within it, while the Map's move denies the framing structurally — a move available within non-reductive-physicalist discourse); Saad / Schaffer (delegatory and trumping) engagement — sibling-position framing, not opposition (article explicitly registers compatibility, no mode-classification warranted); hidden-variables / many-worlds engagement at the final caveat — Mode Three (framework-boundary marking; the article honestly notes conditionality on the Map's tenets without claiming refutation).
+- **Label-leakage check**: clean — no `direct-refutation-feasible`, `unsupported-jump`, `bedrock-perimeter`, `mode-mixed`, `Engagement classification:`, `Mode One/Two/Three/Four`, or `**Evidential status:**` in article body.
+- **Stability notes**: bedrock disagreements at the framework boundary (eliminative-materialist denial of mind, Many-Worlds rejection of selection events, hidden-variables determinism) are explicitly acknowledged as conditional defeaters; future deep reviews should NOT re-flag these as critical.
+- **Output**: [[reviews/deep-review-2026-05-14-overdetermination-dissolution-under-selection-only-interactionism]]
 
 ## 2026-05-14 22:37 UTC - condense
 - **Status**: Success

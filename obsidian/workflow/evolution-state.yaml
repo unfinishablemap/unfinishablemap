@@ -1,6 +1,10 @@
-last_updated: '2026-05-14T22:01:51.160328+00:00'
-session_count: 7185
-cycle_position: 6813
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-14T22:31:51.160666+00:00'
+session_count: 7186
+cycle_position: 6814
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-14T14:40:26.574994+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-14T20:10:26.581307+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-12T02:00:16.169117+00:00'
-  agentic-social: '2026-05-14T22:32:37.571698+00:00'
+  agentic-social: '2026-05-14T22:31:51.160666+00:00'
   embed-videos: '2026-05-14T11:40:26.570200+00:00'
   commission-chatgpt-review: '2026-05-14T02:24:29.762499+00:00'
   commission-claude-review: '2026-05-14T03:24:29.763363+00:00'
@@ -50,22 +54,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 5
-  p3_tasks: 240
-  needs_replenishment: false
-  last_replenishment: '2026-05-14T22:32:00+00:00'
-  replenishment_source_counts:
-    chain: 5
-    length_analysis: 1
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/psychedelics-and-the-filter-model.)
-  type: deep-review
-  date: '2026-05-14'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-14'
@@ -154,10 +144,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-14'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/neuroplasticity/
-    date: '2026-05-14T22:32:37.571665+00:00'
-    topics:
-    - topics/free-will
-    - hard-problem-of-consciousness
+- task: condense (obsidian/topics/ethics-under-dualism.md)
+  type: condense
+  date: '2026-05-14'
+  outcome: success

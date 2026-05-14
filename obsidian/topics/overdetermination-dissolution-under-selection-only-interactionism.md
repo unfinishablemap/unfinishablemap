@@ -4,7 +4,8 @@ description: "How the Map's strictest reading of Tenet 2 dissolves Kim's overdet
 created: 2026-05-14
 modified: 2026-05-14
 human_modified:
-ai_modified: 2026-05-14T18:41:00+00:00
+ai_modified: 2026-05-14T23:01:00+00:00
+last_deep_review: 2026-05-14T23:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +73,7 @@ To see why the dissolution works, the architecture of a selection event has to b
 
 The architecture commits to [[post-decoherence-selection]] as the locus of the interface rather than to pre-decoherence coherence at neural scales — a choice that sidesteps the [[concepts/objections-to-interactionism|decoherence-timing objection]] but which the Map registers as one mechanism candidate rather than a settled commitment. What matters for the overdetermination argument is the structural division of labour, not which specific mechanism implements it.
 
-Under this architecture, asking "did the physical cause or the mental cause produce c_k?" is the wrong question. The physical cause produced the set {c_i} and its probabilities; the mental cause produced the realisation of c_k specifically. They produced different things, jointly resulting in the same observable outcome. This is not two causes for one effect; it is one effect that has two-part decomposition.
+Under this architecture, asking "did the physical cause or the mental cause produce c_k?" is the wrong question. The physical cause produced the set {c_i} and its probabilities; the mental cause produced the realisation of c_k specifically. They produced different things, jointly resulting in the same observable outcome — one effect, two-part decomposition.
 
 ## Distinguishing from Trumping and Delegatory Approaches
 
