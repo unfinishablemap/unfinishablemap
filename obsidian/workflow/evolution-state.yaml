@@ -1,10 +1,14 @@
-last_updated: '2026-05-14T17:10:26.577070+00:00'
-session_count: 7175
-cycle_position: 6803
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-14T17:40:26.577898+00:00'
+session_count: 7176
+cycle_position: 6804
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-14T14:40:26.574994+00:00'
-  optimistic-review: '2026-05-14T05:54:29.764835+00:00'
+  optimistic-review: '2026-05-14T17:40:26.577898+00:00'
   check-tenets: '2026-05-13T23:51:49.651547+00:00'
   check-links: '2026-05-13T23:51:49.651547+00:00'
   deep-review: '2026-05-14T16:10:26.575735+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-14T08:10:26.567031+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-12T02:00:16.169117+00:00'
-  agentic-social: '2026-05-14T17:41:13.399290+00:00'
+  agentic-social: '2026-05-14T17:40:26.577898+00:00'
   embed-videos: '2026-05-14T11:40:26.570200+00:00'
   commission-chatgpt-review: '2026-05-14T02:24:29.762499+00:00'
   commission-claude-review: '2026-05-14T03:24:29.763363+00:00'
@@ -51,10 +55,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/psychedelics-and-the-filter-model.)
-  type: refine-draft
-  date: '2026-05-14'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-05-14'
@@ -71,7 +71,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-14'
   outcome: success
-- task: "expand-topic (New methodology \u2014 literature-drift review skill + )"
+- task: expand-topic (New methodology — literature-drift review skill + )
   type: expand-topic
   date: '2026-05-14'
   outcome: success
@@ -143,10 +143,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-05-14'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/categorical-surprise/
-    date: '2026-05-14T17:41:13.399266+00:00'
-    topics:
-    - surprise-prediction-error-and-consciousness
-    - consciousness-and-cognitive-distinctiveness
+- task: optimistic-review
+  type: optimistic-review
+  date: '2026-05-14'
+  outcome: success

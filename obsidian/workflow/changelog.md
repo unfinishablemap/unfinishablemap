@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T17:41:00+00:00
+ai_modified: 2026-05-14T18:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 18:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Causal Consistency Constraint (Torres Alegre 2025 — consolidation)
+- **Output**: [[concepts/causal-consistency-constraint]]
+- **Word count**: 1708
+- **Based on research**: yes — [[born-rule-derivation-limits-followup-2026-03-16]] (primary Torres Alegre treatment, "Causal Consistency Selects the Born Rule" section); also draws on [[born-rule-and-the-consciousness-interface]] lines 125–131 (the absorbed treatment being lifted out), [[consciousness-physics-interface-formalism]] (the five mathematical constraints), [[selection-only-channel]] (corridor-side native compatibility), [[trumping-preemption]] (out-of-scope reasoning), and [[evidential-status-discipline]] (form-not-existence and assumption-scope qualifications).
+- **Coverage**: States Torres Alegre's result cleanly (Born rule uniquely fixed by no-signalling + purification within the GPT framework, steering as the enforcing mechanism). Develops the form-not-existence distinction (the constraint determines the rule's functional form given probabilistic structure; does not generate probability or actualisation). Maps the constraint onto the corridor / minimum-outside-corridor / trumping internal taxonomy — corridor-and-selection-only readings inherit the constraint natively; minimum-outside-corridor readings must show their deviation is signalling-safe; trumping readings are not directly bound but should explicitly argue authority-selection does not enable signalling. Names two scope-limiting qualifications (assumptions hold across tested regimes but not at brain-internal precision; constraint binds interface theories only, leaves trumping untouched). Tenet anchoring: Tenet 2 (Minimal Quantum Interaction — the constraint shapes what "minimal" can mean across the three readings) and Tenet 3 (Bidirectional Interaction — the constraint applies to any bidirectional channel; corridor and trumping pass natively).
+- **Section count**: concepts/ goes from 236 → 237 / 250.
+- **Self-citations**: 2 (Oquatre-sept on born-rule-and-the-consciousness-interface; Oquatre-six on consciousness-physics-interface-formalism)
+- **Apex sources**: none — none of the approved apex articles list this concept among their source articles
+- **Published**: yes
 
 ## 2026-05-14 17:41 UTC - optimistic-review
 - **Status**: Success
