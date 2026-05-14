@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T15:10:00+00:00
+ai_modified: 2026-05-14T15:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 15:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/decision-void]]
+- **Word count**: 2743 → 2775 (+32, length-neutral mode; article at 139% of 2000-word voids soft threshold)
+- **Critical issues addressed**: 4 (all from 2026-05-14 pessimistic-review). (1) MWI boundary-substitution at Tenet Payoff: rewrote "An MWI reading dissolves the void..." as honest Mode Three framework-boundary marking, acknowledging MWI relocates rather than dissolves the introspection question and naming the indexical-access literature (Wallace, Saunders, Deutsch). (2) Self-shielding reflexivity at Relation to Site Perspective: scope-restricted the meta-epistemological reflexivity to first-person introspection, exempting third-person measurement and formal modelling — addresses the Popperian falsifiability objection. (3) LLM-cliché triple "It is not X" in §"Distinguishing Sibling Voids": rephrased to direct descriptions of each sibling void. (4) Non-standard Libet 635 ms figure replaced with textbook-standard "Type II readiness potential roughly 550 ms before action for spontaneous unplanned movements."
+- **Medium issues addressed**: 3. Cushman 2015 / Johansson & Hall 2014 cited parenthetically but missing from References — replaced with general "later choice-blindness work" framing. Soon et al. (2008) classifier framing tightened to present frontopolar and parietal regions together. Tegmark decoherence engagement now reports the concrete ~10⁻¹³ s timescale rather than gesturing past it.
+- **Enhancements made**: 2 redundant passages trimmed (Wegner closing sentence; Schurger Deflationary paragraph that repeated the latency face's Schurger discussion).
+- **Engagements with named opponents (editor's notes only)**: Wegner — Mode One (uses Wegner's inferential-authorship architecture to derive the void); Tegmark — Mode Three with quantitative concession; Schurger — Mode One in-framework reframing (Schurger's own conclusion strengthens void); Dennett/Churchland — Mode Three with honest "the asymmetry does not on its own favour dualism" concession; MWI — Mode Three (now properly executed after fix). No editor-vocabulary leakage in article body.
+- **Bedrock disagreements catalogued**: 7 stability-note items for future reviewers (MWI framework-boundary, Dennett heterophenomenology, Tegmark decoherence calculation, Churchland eliminative reading, Nagarjunian no-self, Popper-on-forward-predictions, framework-dependence-of-positive-contribution).
+- **Output**: [[reviews/deep-review-2026-05-14-decision-void]]
 
 ## 2026-05-14 15:10 UTC - condense
 - **Status**: Success

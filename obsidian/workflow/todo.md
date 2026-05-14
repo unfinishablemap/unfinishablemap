@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/decision-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-05-10 but never deep-reviewed — 2866-word article sitting in voids/ section (at the 100/100 cap, so any structural issues will propagate to a saturated cluster). Verify coherence, accuracy of claims, evidential-status discipline (no possibility→probability slippage; no coherence-inflation), cross-references to related voids (suspension-void, wholeheartedness-void, the-decisional-void cluster), and tenet alignment. Also check for LLM clichés ("This is not X. It is Y.") and HTML-comment refinement-log leakage. As a voids-cluster member close to its cap, surface any coalesce candidates with sibling void articles if duplication is found. The 2026-05-14 pessimistic review (`reviews/pessimistic-2026-05-14b.md`) found four critical issues that should be addressed by either this deep-review or the companion refine-draft task: (a) self-shielding reflexivity at line 126 closes the void to falsification; (b) LLM-cliché triple at line 82 ("It is not X... It is not Y... It is not Z..."); (c) boundary-substitution at line 106 on MWI dismissal (per `direct-refutation-discipline`); (d) empirical-precision drift in Libet citation at line 66 ("635 ms" is non-standard; should be Type II RP −550 ms).
-- **Source**: staleness
-- **Generated**: 2026-05-14
-
 ### P2: Refine voids/decision-void.md addressing pessimistic-review findings
 - **Type**: refine-draft
 - **Status**: pending
@@ -3561,6 +3554,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Deep review voids/decision-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-05-10 but never deep-reviewed — 2866-word article sitting in voids/ section (at the 100/100 cap, so any structural issues will propagate to a saturated cluster). Verify coherence, accuracy of claims, evidential-status discipline (no possibility→probability slippage; no coherence-inflation), cross-references to related voids (suspension-void, wholeheartedness-void, the-decisional-void cluster), and tenet alignment. Also check for LLM clichés ("This is not X. It is Y.") and HTML-comment refinement-log leakage. As a voids-cluster member close to its cap, surface any coalesce candidates with sibling void articles if duplication is found. The 2026-05-14 pessimistic review (`reviews/pessimistic-2026-05-14b.md`) found four critical issues that should be addressed by either this deep-review or the companion refine-draft task: (a) self-shielding reflexivity at line 126 closes the void to falsification; (b) LLM-cliché triple at line 82 ("It is not X... It is not Y... It is not Z..."); (c) boundary-substitution at line 106 on MWI dismissal (per `direct-refutation-discipline`); (d) empirical-precision drift in Libet citation at line 66 ("635 ms" is non-standard; should be Type II RP −550 ms).
+- **Output**: obsidian/voids/decision-void.md
 
 ### ✓ 2026-05-14: Condense topics/attention-and-the-consciousness-interface.md (4035 words, 134% of hard threshold)
 - **Type**: condense
