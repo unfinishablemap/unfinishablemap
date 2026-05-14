@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T05:54:00+00:00
+ai_modified: 2026-05-14T06:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 06:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Trigger**: Outer review by Claude Opus 4.7 (2026-05-14); the reviewer named Letheby's predictive-self-binding theory as "the strongest single rebuttal" omitted from the article. Sibling task to the same-day 05:55 UTC empirical-base refresh on the same article (different concern: that pass was Mode-One stale-citation correction; this pass is the structural Letheby engagement).
+- **Scope**: Added new section **"Letheby's Naturalistic Alternative"** between "Ego Dissolution and the Filtering Self" (which sets up the Metzinger/Zahavi self-model framework Letheby builds on) and "Epistemological Questions". ~830 words covering (i) what predictive self-binding theory claims (self-models as high-precision Bayesian priors; ego dissolution as prior-relaxation; "more real than real" as opaque-model phenomenology, not cosmic-consciousness exposure); (ii) Letheby uses the same neuroimaging evidence the article cites (Carhart-Harris 2012, Lebedev 2015, Tagliazucchi 2016, Timmermann 2024); (iii) where filter theory exceeds Letheby's account — honestly, on altered-state data alone, it does not, both predict the same neuroimaging signatures and selective-access patterns, the only distinguishable bet is the persistence of a minimal self under dissolution; (iv) what evidence would discriminate — nothing in the altered-state data alone, the dispute turns on broader theoretical commitments (other altered-state cases, metaphysical priors).
+- **Engagement classification** (editor-internal, not in article body): The section opens with a Mode Two move (predictive self-binding helps itself to the assumption that a sufficiently structured Bayesian model is, by being so structured, phenomenally felt — the standard hard-problem debt in the PP register), but the symmetric debt on filter theory's side (positing extra-cerebral consciousness only relocates the phenomenal-feel question) prevents the Mode Two argument from discharging. Section therefore lands honestly on Mode Three / Mode Four: the disagreement is closer to bedrock than the altered-state data permits adjudicating, and the article supports filter theory as the better fit *given the Map's broader commitments* while granting that on the psychedelic evidence considered in isolation, predictive self-binding is a competent rival no smaller in explanatory reach. Per [[direct-refutation-discipline]], this is the honest discharge for an opponent whose framework cannot be defeated by the evidence the article actually cites.
+- **Forbidden-vocabulary check**: "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", and the meta-phrase "per [[direct-refutation-discipline]]" do not appear in the new section body. Engagement is in natural prose with sectional links to [[ineffable-encounter-void]], [[hard-problem-of-consciousness]], and [[tenets]] only.
+- **References**: added Letheby & Gerrans (2017, *Neuroscience of Consciousness*) and Letheby (2021, OUP) at positions 16–17; renumbered subsequent entries (Mason→18, Metzinger→19, Siegel→20, Sjöstedt-Hughes→21, Smigielski→22, Stace→23, Tagliazucchi→24, Timmermann→25, Zahavi→26, Southgate→27).
+- **Sibling tasks remaining** from the same outer review: anaesthesia/asymmetry section (P1), anchor-page calibration + Metzinger citation fix (P1), Competing Accounts + phenomenology measurement caveats + quantum/Orch-OR downgrade (P2), full Letheby topic article (P2), three methodology project docs (P2).
+- **Words added**: ~830 (section + 2 references). Article length increased from ~3,150 to ~3,980 words.
+- **Published**: yes (article was already `draft: false`; section published in place)
 
 ## 2026-05-14 05:54 UTC - optimistic-review
 - **Status**: Success

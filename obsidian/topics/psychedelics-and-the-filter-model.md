@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-05-14T05:55:00+00:00
+ai_modified: 2026-05-14T06:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -99,6 +99,20 @@ From the Map's perspective, then, the narrative self-model is a core filtering s
 
 This connects to the question of what psychedelic "unity experiences" represent. Subjects commonly report dissolution of the boundary between self and world, a felt identity with all things. If the self-model is a filter component that divides consciousness into "me" and "everything else," its removal doesn't produce an *experience of unity*—it removes the *experience of division*. Unity is what remains when the dividing filter goes silent.
 
+## Letheby's Naturalistic Alternative
+
+The strongest contemporary philosophical opponent of the filter reading is not the disinhibition theorist or the eliminative materialist but Chris Letheby, whose *Philosophy of Psychedelics* (Oxford 2021) and earlier collaboration with Philip Gerrans (2017) develop an explicitly *naturalistic* account that uses the same neuroimaging data this article cites and reaches the opposite metaphysical conclusion. The earlier sections engage REBUS as a friendly compatible model and disinhibition as a partial accommodation; honesty requires also engaging the most developed competitor that treats the filter reading as a metaphysically extravagant misreading of data better explained without it.
+
+Letheby and Gerrans, building on Metzinger's self-model theory and the broader predictive-processing tradition, propose that the self is a *high-precision Bayesian prior structure*—an internal model the brain maintains because it stabilises action-selection and credit-assignment over time. The felt sense of being a continuous subject is not consciousness *of* a self but the brain's predictive machinery successfully binding self-related information into a transparent, action-guiding model. Ego dissolution under psilocybin or DMT is the relaxation of the high-precision priors that normally hold this self-model in place. When the priors weaken, the model becomes opaque—the subject experiences the model *as a model* rather than seeing-through it as "me." The "more real than real" quality, on Letheby's reading, follows directly: opaque self-models feel revelatory because they expose what is normally invisible, not because anything beyond the model is being revealed. Letheby characterises psychedelic insight as "dispelling-the-illusion" rather than "third-eye": no extra-cerebral consciousness is unmasked; the brain's self-construction is.
+
+Letheby's account uses the same neuroimaging evidence the filter reading uses. The Carhart-Harris (2012) intra-DMN decreases, the Lebedev (2015) ego-dissolution correlations, the Tagliazucchi (2016) global functional-connectivity increases, and the Timmermann (2024) alpha-band findings all fit naturally into the predictive-self-binding story: weakened high-precision priors permit bottom-up signal to dominate, the self-model loses its transparent-prior status, and the network architecture that normally maintains it desynchronises. The earlier framing here—that less brain activity yielding richer experience strains production accounts—does not strain Letheby's account at all. Predictive processing predicts richer phenomenology under prior-relaxation as a physical-dynamical consequence, with no extra-physical consciousness required.
+
+Where does the filter account exceed Letheby's? On altered-state data alone, it does not. Both accounts predict the same neuroimaging signatures, the same intensity-dissolution correlations, the same selective access to suppressed material (Letheby: relaxed priors permit normally-suppressed bottom-up content to surface; filter theory: loosened filter grants access to genuinely suppressed information). The only place the two accounts make distinguishable bets concerns the character of unity experiences and the persistence of the minimal self under dissolution. Filter theory predicts a continuing for-me-ness that bare prior-relaxation should not require; Letheby predicts that whatever "witnessing" is reported is itself a not-yet-decohered model component, not evidence of a transcendent subject. First-person reports underdetermine the choice—the phenomenology is consistent with either reading—and as the [[ineffable-encounter-void|ineffable-encounter analysis]] notes, the dismantled metacognitive instrumentation makes adjudication on phenomenological grounds particularly fraught.
+
+Predictive self-binding helps itself to a foundational move that predictive processing as a programme has not yet paid for: the assumption that a sufficiently structured Bayesian model is, by being so structured, phenomenally felt. This is the [[hard-problem-of-consciousness|hard-problem]] criticism in its predictive-processing register—predictive processing inherits the explanatory gap whether or not it explains the structural features of psychedelic experience. But Letheby can fairly reply that filter theory inherits a parallel debt: positing an extra-cerebral consciousness for the brain to filter only relocates the question of what makes that consciousness phenomenal. The objection identifies a genuine debt on Letheby's side without discharging the symmetric debt on the Map's. Neither side can honestly claim the altered-state data alone settles which debt is more tractable.
+
+What discriminates the two accounts, in the end, is not the psychedelic neuroimaging or the phenomenology but broader theoretical commitments: whether one expects consciousness to admit reduction to predictive-modelling architectures, how one weighs the convergent evidence from cases this article does not reach (terminal lucidity, anaesthesia asymmetry, contemplative cessation), and which metaphysical starting point leaves the smaller residue of unexplained explananda. The Map's commitment to [[tenets|Tenet 1 (Dualism)]] places it outside Letheby's framework as a matter of foundational stance, not of altered-state-data adjudication. The honest discharge is to say so directly: this article supports filter theory as the better fit *given the Map's broader commitments*, while granting that on the psychedelic evidence considered in isolation, predictive self-binding is a competent rival no smaller in explanatory reach.
+
 ## Epistemological Questions
 
 Do psychedelic experiences provide genuine knowledge, or do they merely feel profound? This question bears directly on filter theory's plausibility.
@@ -169,16 +183,18 @@ Psychedelics illuminate several of the Map's [[tenets]]:
 13. Katz, S. T. (1978). Language, epistemology, and mysticism. In *Mysticism and Philosophical Analysis*. Oxford University Press.
 14. Kerskens, C. M. & Pérez López, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 15. Lebedev, A. V. et al. (2015). Finding the self by losing the self: Neural correlates of ego-dissolution under psilocybin. *Human Brain Mapping*, 36(8), 3137-3153.
-16. Mason, N. L. et al. (2020). Me, myself, bye: Regional alterations in glutamate and the experience of ego dissolution with psilocybin. *Neuropsychopharmacology*, 45, 2003-2011.
-17. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-18. Siegel, J. S. et al. (2024). Psilocybin desynchronizes the human brain. *Nature*, 632, 131-138.
-19. Sjöstedt-Hughes, P. (2024). The Bergsonian metaphysics behind Huxley's doors. In *Philosophy and Psychedelics*. Springer.
-20. Smigielski, L. et al. (2019). Characterization and prediction of acute and sustained response to psychedelic psilocybin in a mindfulness group retreat. *Scientific Reports*, 9, 14914.
-21. Stace, W. T. (1960). *Mysticism and Philosophy*. Macmillan.
-22. Tagliazucchi, E. et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
-23. Timmermann, C. et al. (2024). DMT alters cortical travelling waves and alpha-band power; alpha collapse tracks ego dissolution intensity. *Journal of Neuroscience*.
-24. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
-25. Southgate, A. & Oquatre-six, C. (2026-02-23). Dream Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/dream-consciousness/
+16. Letheby, C. & Gerrans, P. (2017). Self unbound: Ego dissolution in psychedelic experience. *Neuroscience of Consciousness*, 2017(1), nix016.
+17. Letheby, C. (2021). *Philosophy of Psychedelics*. Oxford University Press.
+18. Mason, N. L. et al. (2020). Me, myself, bye: Regional alterations in glutamate and the experience of ego dissolution with psilocybin. *Neuropsychopharmacology*, 45, 2003-2011.
+19. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+20. Siegel, J. S. et al. (2024). Psilocybin desynchronizes the human brain. *Nature*, 632, 131-138.
+21. Sjöstedt-Hughes, P. (2024). The Bergsonian metaphysics behind Huxley's doors. In *Philosophy and Psychedelics*. Springer.
+22. Smigielski, L. et al. (2019). Characterization and prediction of acute and sustained response to psychedelic psilocybin in a mindfulness group retreat. *Scientific Reports*, 9, 14914.
+23. Stace, W. T. (1960). *Mysticism and Philosophy*. Macmillan.
+24. Tagliazucchi, E. et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
+25. Timmermann, C. et al. (2024). DMT alters cortical travelling waves and alpha-band power; alpha collapse tracks ego dissolution intensity. *Journal of Neuroscience*.
+26. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
+27. Southgate, A. & Oquatre-six, C. (2026-02-23). Dream Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/dream-consciousness/
 
 <!-- AI REFINEMENT LOG - 2026-05-14
 Refresh of the article's empirical base from 2012-era citations to the 2020-2025 literature, in response to outer review by Claude Opus 4.7 (2026-05-14). Applied as a Mode-One in-framework defect (stale citations), per [[direct-refutation-discipline]].
@@ -195,5 +211,25 @@ Changes:
 Engagement classification (for changelog only, not article body): Mode One — in-framework defect (stale empirical citations), correctable inside the article's existing framework without recourse to boundary-marking. The deeper structural critiques the same review raises (Letheby engagement, anaesthesia/asymmetry, quantum overreach, Mind-at-Large vs minimal-filter-theory) are out of scope here and are handled by separate tasks in the same synthesis cycle.
 
 ~830 words touched. This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-14 (second pass, 06:25 UTC)
+Added new section "Letheby's Naturalistic Alternative" engaging the strongest non-dualist philosophical opponent named in the same Claude Opus 4.7 outer review. Section placed between "Ego Dissolution and the Filtering Self" (which sets up the Metzinger/Zahavi self-model framework Letheby builds on) and "Epistemological Questions."
+
+Section covers, per the task brief:
+- (i) what predictive self-binding theory claims (self-models as high-precision Bayesian prior structures; ego dissolution as relaxation of those priors; "more real than real" as opaque-model phenomenology, not cosmic-consciousness exposure);
+- (ii) that Letheby uses the same neuroimaging data the article cites (Carhart-Harris 2012, Lebedev 2015, Tagliazucchi 2016, Timmermann 2024);
+- (iii) where filter theory's account exceeds Letheby's: honestly, on altered-state data alone, it does not — both predict the same neuroimaging signatures and selective-access patterns; the only distinguishable bet is the persistence of a minimal self under dissolution;
+- (iv) what evidence would discriminate: nothing in the altered-state data alone; the dispute turns on broader theoretical commitments (other altered-state cases, metaphysical priors).
+
+Engagement classification (editor-internal, not in article body): Mode Two opens (predictive self-binding helps itself to the assumption that a structured Bayesian model is, by being so structured, phenomenally felt — the standard hard-problem debt in PP register), but the symmetric debt on filter theory's side (positing extra-cerebral consciousness only relocates the phenomenal-feel question) prevents the Mode Two argument from discharging. Section therefore lands honestly on Mode Three / Mode Four: the disagreement is closer to bedrock than the altered-state data permits adjudicating, and is named as such in natural prose rather than dressed as in-framework refutation.
+
+Forbidden vocabulary check: "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", and the meta-phrase "per [[direct-refutation-discipline]]" do not appear in the new section. Engagement is in natural prose with sectional links to [[ineffable-encounter-void]], [[hard-problem-of-consciousness]], and [[tenets]] only.
+
+References: added Letheby & Gerrans (2017, *Neuroscience of Consciousness*) and Letheby (2021, OUP) at positions 16 and 17; renumbered subsequent entries (Mason→18, ..., Southgate→27).
+
+~830 words added (target: 600–900). Total length increased from ~3,150 to ~3,980 words.
+
+This log should be removed after human review.
 -->
 

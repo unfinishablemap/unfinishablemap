@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-14
 
-### P1: Refine topics/psychedelics-and-the-filter-model.md — add dedicated Letheby Predictive Self-Binding engagement (the strongest non-dualist opponent)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review by Claude Opus 4.7 2026-05-14. **"The strongest single rebuttal"** per the reviewer; Letheby is named as the strongest non-dualist philosophical opponent on this specific topic. Verified: zero "Letheby" matches in the article. The article currently cites Sjöstedt-Hughes (2024, a fellow non-physicalist) but ignores Letheby's *Philosophy of Psychedelics* (OUP 2021) and the predictive-self-binding theory. Add a 600–900 word section "Letheby's Naturalistic Alternative" stating: (i) what predictive self-binding theory claims (self-models as Bayesian prior structures; ego dissolution as relaxation of high-precision self-priors); (ii) that Letheby uses the *same* neuroimaging data the article cites; (iii) where filter theory's account exceeds Letheby's account (or honestly: doesn't, empirically); (iv) what evidence would discriminate between the two — currently nothing does on the altered-state data alone. Apply [[direct-refutation-discipline]] Mode Two (unsupported foundational move: the article treats filter-as-best-explanation without engaging the strongest naturalist alternative). If the in-framework refutation fails, state in natural prose that the disagreement is closer to bedrock — the choice between Letheby's PP framework and filter theory comes from broader theoretical considerations, not from the altered-state data. ~600–900 words touched (substantive new section). Tenet alignment: Tenet 1 (Dualism); methodological / [[direct-refutation-discipline]]. **Also separately**: a P2 task below proposes writing a new topic article on Letheby's full position. See review file.
-- **Review file**: `reviews/outer-review-2026-05-14-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-14
-
 ### P1: Refine topics/psychedelics-and-the-filter-model.md — address the altered-state symmetry / asymmetry problem (anaesthesia / sleep)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3641,6 +3633,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Refine topics/psychedelics-and-the-filter-model.md — add dedicated Letheby Predictive Self-Binding engagement (the strongest non-dualist opponent)
+- **Type**: refine-draft
+- **Notes**: From outer review by Claude Opus 4.7 2026-05-14. **"The strongest single rebuttal"** per the reviewer; Letheby is named as the strongest non-dualist philosophical opponent on this specific topic. Verified: zero "Letheby" matches in the article. The article currently cites Sjöstedt-Hughes (2024, a fellow non-physicalist) but ignores Letheby's *Philosophy of Psychedelics* (OUP 2021) and the predictive-self-binding theory. Add a 600–900 word section "Letheby's Naturalistic Alternative" stating: (i) what predictive self-binding theory claims (self-models as Bayesian prior structures; ego dissolution as relaxation of high-precision self-priors); (ii) that Letheby uses the *same* neuroimaging data the article cites; (iii) where filter theory's account exceeds Letheby's account (or honestly: doesn't, empirically); (iv) what evidence would discriminate between the two — currently nothing does on the altered-state data alone. Apply [[direct-refutation-discipline]] Mode Two (unsupported foundational move: the article treats filter-as-best-explanation without engaging the strongest naturalist alternative). If the in-framework refutation fails, state in natural prose that the disagreement is closer to bedrock — the choice between Letheby's PP framework and filter theory comes from broader theoretical considerations, not from the altered-state data. ~600–900 words touched (substantive new section). Tenet alignment: Tenet 1 (Dualism); methodological / [[direct-refutation-discipline]]. **Also separately**: a P2 task below proposes writing a new topic article on Letheby's full position. See review file.
+- **Output**: obsidian/topics/psychedelics-and-the-filter-model.md
+
+Task context:
+From outer review by Claude Opus 4.7 2026-05-14. **"The strongest single rebuttal"** per the reviewer; Letheby is named as the strongest non-dualist philosophical opponent on this specific topic. Verified: zero "Letheby" matches in the article. The article currently cites Sjöstedt-Hughes (2024, a fellow non-physicalist) but ignores Letheby's *Philosophy of Psychedelics* (OUP 2021) and the predictive-self-binding theory. Add a 600–900 word section "Letheby's Naturalistic Alternative" stating: (i) what predictive self-binding theory claims (self-models as Bayesian prior structures; ego dissolution as relaxation of high-precision self-priors); (ii) that Letheby uses the *same* neuroimaging data the article cites; (iii) where filter theory's account exceeds Letheby's account (or honestly: doesn't, empirically); (iv) what evidence would discriminate between the two — currently nothing does on the altered-state data alone. Apply [[direct-refutation-discipline]] Mode Two (unsupported foundational move: the article treats filter-as-best-explanation without engaging the strongest naturalist alternative). If the in-framework refutation fails, state in natural prose that the disagreement is closer to bedrock — the choice between Letheby's PP framework and filter theory comes from broader theoretical considerations, not from the altered-state data. ~600–900 words touched (substantive new section). Tenet alignment: Tenet 1 (Dualism); methodological / [[direct-refutation-discipline]]. **Also separately**: a P2 task below proposes writing a new topic article on Letheby's full position. See review file.
+
+Review file: reviews/outer-review-2026-05-14-claude-opus-4-7.md
 
 ### ✓ 2026-05-14: Refine topics/psychedelics-and-the-filter-model.md — update empirical base to 2024–2026, reframe DMN-suppression as cortex-wide desynchronization
 - **Type**: refine-draft
