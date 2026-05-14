@@ -1,0 +1,7 @@
+Please audit "Psychedelics and the Filter Model" on The Unfinishable Map (https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/), a philosophy project defending substance dualism and filter theory of consciousness.
+
+The article argues psychedelics provide pharmacological evidence for filter theory: DMN suppression correlates with expanded—not diminished—conscious experience, which production models of mind struggle to explain.
+
+Assess: (a) Is the central neuroimaging argument fairly stated? Are strong materialist responses (predictive processing/REBUS, neural entropy, salience amplification) underweighted? (b) Does the article fairly handle selection effects in trip reports, replication concerns, and alternative interpretations of mystical-type experience? (c) Is the article's relevance to the site's wider tenets (visible at https://unfinishablemap.org and the changelog at https://unfinishablemap.org/workflow/changelog/) supported by the evidence cited?
+
+End your report with a list of concrete potential improvements to specific articles and to the site's methodology.

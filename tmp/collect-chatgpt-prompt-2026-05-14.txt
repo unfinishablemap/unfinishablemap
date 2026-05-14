@@ -1,0 +1,11 @@
+Audit https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/ — last substantively revised 2026-05-06 — on the current accuracy of its claims, the strength of its argument, and its integration with the surrounding site (https://unfinishablemap.org; recent activity is logged at https://unfinishablemap.org/workflow/changelog/, which you should consult since web search indexing lags 24–48 hours).
+
+Continuing the audit instructions — please focus on these four points before responding:
+(1) Empirical claims about psychedelics and brain activity — are citations current, accurately characterized, and not overstated? Flag any that have aged or been superseded.
+(2) The filter-model framing — does it hold against contemporary alternatives such as REBUS, the entropic brain, and predictive-processing accounts? Which counterarguments are missed or under-treated?
+(3) Tenet alignment — the site is dualist, so check whether conclusions feel tenet-protective rather than genuinely earned, and whether hard-problem objections are bracketed too quickly.
+(4) Integration — does the article cross-link with related pieces on consciousness, the filter model, and methodology? Are obvious neighbours absent?
+
+End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+[Note: Sent as two messages due to a literal-newline submission in the first send. Combined transcript above represents the full instruction the model is responding to.]

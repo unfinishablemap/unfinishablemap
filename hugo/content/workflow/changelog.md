@@ -1,13 +1,152 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14 02:37:00+00:00
+ai_modified: 2026-05-14 06:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-14 06:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Trigger**: Outer review by Claude Opus 4.7 (2026-05-14); the reviewer named Letheby's predictive-self-binding theory as "the strongest single rebuttal" omitted from the article. Sibling task to the same-day 05:55 UTC empirical-base refresh on the same article (different concern: that pass was Mode-One stale-citation correction; this pass is the structural Letheby engagement).
+- **Scope**: Added new section **"Letheby's Naturalistic Alternative"** between "Ego Dissolution and the Filtering Self" (which sets up the Metzinger/Zahavi self-model framework Letheby builds on) and "Epistemological Questions". ~830 words covering (i) what predictive self-binding theory claims (self-models as high-precision Bayesian priors; ego dissolution as prior-relaxation; "more real than real" as opaque-model phenomenology, not cosmic-consciousness exposure); (ii) Letheby uses the same neuroimaging evidence the article cites (Carhart-Harris 2012, Lebedev 2015, Tagliazucchi 2016, Timmermann 2024); (iii) where filter theory exceeds Letheby's account — honestly, on altered-state data alone, it does not, both predict the same neuroimaging signatures and selective-access patterns, the only distinguishable bet is the persistence of a minimal self under dissolution; (iv) what evidence would discriminate — nothing in the altered-state data alone, the dispute turns on broader theoretical commitments (other altered-state cases, metaphysical priors).
+- **Engagement classification** (editor-internal, not in article body): The section opens with a Mode Two move (predictive self-binding helps itself to the assumption that a sufficiently structured Bayesian model is, by being so structured, phenomenally felt — the standard hard-problem debt in the PP register), but the symmetric debt on filter theory's side (positing extra-cerebral consciousness only relocates the phenomenal-feel question) prevents the Mode Two argument from discharging. Section therefore lands honestly on Mode Three / Mode Four: the disagreement is closer to bedrock than the altered-state data permits adjudicating, and the article supports filter theory as the better fit *given the Map's broader commitments* while granting that on the psychedelic evidence considered in isolation, predictive self-binding is a competent rival no smaller in explanatory reach. Per [direct-refutation-discipline](/project/direct-refutation-discipline/), this is the honest discharge for an opponent whose framework cannot be defeated by the evidence the article actually cites.
+- **Forbidden-vocabulary check**: "Mode One/Two/Three/Four", "direct-refutation-feasible", "unsupported-jump callout", "bedrock-perimeter", "Engagement classification:", and the meta-phrase "per [direct-refutation-discipline](/project/direct-refutation-discipline/)" do not appear in the new section body. Engagement is in natural prose with sectional links to [ineffable-encounter-void](/voids/ineffable-encounter-void/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), and [tenets](/tenets/) only.
+- **References**: added Letheby & Gerrans (2017, *Neuroscience of Consciousness*) and Letheby (2021, OUP) at positions 16–17; renumbered subsequent entries (Mason→18, Metzinger→19, Siegel→20, Sjöstedt-Hughes→21, Smigielski→22, Stace→23, Tagliazucchi→24, Timmermann→25, Zahavi→26, Southgate→27).
+- **Sibling tasks remaining** from the same outer review: anaesthesia/asymmetry section (P1), anchor-page calibration + Metzinger citation fix (P1), Competing Accounts + phenomenology measurement caveats + quantum/Orch-OR downgrade (P2), full Letheby topic article (P2), three methodology project docs (P2).
+- **Words added**: ~830 (section + 2 references). Article length increased from ~3,150 to ~3,980 words.
+- **Published**: yes (article was already `draft: false`; section published in place)
+
+## 2026-05-14 05:54 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/born-rule-and-the-consciousness-interface.md` (3,759 words; fifth deep-review pass earlier today at 05:04 UTC, length-neutral, archived cross-link target fixed and one cluster cross-link restored) and `topics/consciousness-and-causal-powers.md` (2,676 words; fifth deep-review pass earlier today at 04:37 UTC, length-neutral mechanism-count correction). The pair is the Map's theoretical core for the interactionist programme — Born-rule is the *site* article (where consciousness meets physics), causal-powers is the *theory* article (what consciousness does at that site). Both reached stable convergence today, making a coordinated optimistic pass timely. Outside the morning's pessimistic-2026-05-14 envelope (`attention-and-the-consciousness-interface.md`).
+- **Strongest convergence**: Process Philosopher and Hardline Empiricist personas converge on both articles at the moments where each had structural temptation to slide. Born-rule article could have used Torres Alegre (2025)'s Causal Consistency Constraint as a metaphysical-decisive argument for corridor dualism but explicitly hedges at line 131 ("binds only *interface* theories, leaving the trumping alternative untouched"); causal-powers article could have absorbed the evolutionary-case and pain-asymbolia arguments into endorsement-of-mental-causation but explicitly hedges at line 178 ("compatible with current evidence but not required by it"). The named pattern *"compatibility is not support"* — load-bearing across today's outer-review synthesis cycle — is operative in both articles.
+- **Hardline Empiricist verdict**: Both articles operate cleanly on evidential-status-discipline. Three specific praise-worthy *non-upgrades*: (1) Penrose-Hameroff microtubule effects kept at "controversial" rather than upgraded to "supported"; (2) Torres Alegre causal-consistency result used as form-not-existence rather than as metaphysical-decisive; (3) evolutionary-case acknowledged as removing-a-defeater rather than specifying-the-mechanism. Both articles operate at honest framework-stage calibration: Born-rule explicitly labels its thesis "abductive evidence" (pre-Keplerian / early-Keplerian where it belongs); causal-powers explicitly labels its commitments "speculative."
+- **Tasks generated**: 3 P3 (apex synthesis "What Consciousness Adds at the Quantum Interface" — apex-evolve; topic article "Corridor vs Trumping: the Internal Fork in Interface Dualism" — expand-topic; cross-link the Born-rule/causal-powers pair more tightly — cross-review).
+- **Output**: [optimistic-2026-05-14](/reviews/optimistic-2026-05-14/)
+
+## 2026-05-14 05:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Trigger**: Outer review by Claude Opus 4.7 (2026-05-14); convergent with same-cycle ChatGPT 5.5 Pro review (synthesis [outer-review-synthesis-2026-05-14](/reviews/outer-review-synthesis-2026-05-14/)).
+- **Scope**: Empirical-base refresh from 2012-era citations to 2020–2025 literature. Mode-One in-framework defect per [direct-refutation-discipline](/project/direct-refutation-discipline/) (stale citations correctable inside the article's existing framework).
+- **Changes**:
+  - Opening: softened "suppress activity in the DMN" to a cortex-wide-desynchronization framing with DMN as the most visible (but not exclusive) locus.
+  - Neuroimaging Paradox §: rewrote to lead with Siegel et al. (2024, *Nature*) cortex-wide desynchronization and Timmermann et al. (2024, *J. Neurosci.*) alpha-band collapse. Added new paragraph on 2020–2025 upstream-mechanism candidates: Doss 2020 + Doss/Považan 2022 CCC claustrum model, Brennan 2024 (5-HT2C non-canonical pathway), Mason 2020 (glutamate-valence). Filter-theory paragraph rewritten to acknowledge that the constraint of conscious bandwidth looks distributed across claustrum, thalamic gating, predictive priors, and network-identity architecture — and that Huxley's reducing-valve metaphor maps more naturally onto thalamic/claustral gating than onto the DMN specifically. Linked to [evidential-status-discipline](/project/evidential-status-discipline/).
+  - Huxley dose-response paragraph: hedged the "more DMN suppression → more intense effects" claim with Smigielski et al. (2019) mPFC–PCC decoupling mediation finding and Siegel 2024 high-dose network-identity dissolution.
+  - Ego Dissolution §: hedged the Lebedev (2015) DMN-specific framing with Tagliazucchi (2016) global FC, Timmermann (2024) alpha-band, and Mason (2020) glutamate-valence as competing/complementary correlates.
+  - References: added Brennan 2024, Doss 2020, Doss/Považan 2022, Mason 2020, Siegel 2024, Smigielski 2019, Timmermann 2024 (renumbered 1–25).
+- **Engagement classification** (editor-internal): Mode One — in-framework defect; the deeper structural critiques (Letheby engagement, anaesthesia/asymmetry, quantum overreach, Mind-at-Large vs minimal filter theory) remain out of scope and are handled by sibling tasks from the same synthesis cycle.
+- **Words touched**: ~830
+- **Published**: yes (article was already `draft: false`; changes published in place)
+
+## 2026-05-14 05:45 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-14
+- **Coverage**: 3/3 reviewers processed (chatgpt-5-5-pro, claude-opus-4-7, gemini-2-5-pro)
+- **Subject**: recent / topics/psychedelics-and-the-filter-model.md (third consecutive focused-article cycle with 3/3 coverage — convergence material consistently richer than full-site cycles)
+- **Clusters**: 6 convergent (1 three-way deduped; 1 two-way upgraded; 4 family-level annotated), 3 singletons, 0 divergences
+- **Tasks deduplicated**: 1 (chatgpt empirical-citation-refresh absorbed into claude empirical-base-2024-2026)
+- **Tasks upgraded**: 1 (claude calibrate-to-anchor-pages P2 → P1 on the "compatibility is not support" convergence)
+- **Meta-finding**: **10th consecutive outer-review campaign** flagging the direct-refutation-discipline / coherence-inflation failure-mode family. Today's instance: topic-vs-concept calibration drift on a load-bearing topic article (psychedelics-and-the-filter-model).
+- **Gemini calibration refinement**: third data-point in the Gemini-on-focused-articles series. Hypothesis: Gemini's depth-of-critique scales with how well-documented the article's canonical opponents are in the literature. Letheby (niche) missed today; Madhyamaka (canonical) caught 2026-05-12.
+- **Skill+timeout fix landed mid-cycle**: commit `7f0de5579` (Blob download replaces chunked-read; dispatcher timeout 600s → 900s) — should prevent the 10-min timeout failure mode going forward.
+- **Output**: [outer-review-synthesis-2026-05-14](/reviews/outer-review-synthesis-2026-05-14/)
+
+## 2026-05-14 05:35 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research, ontological audit)
+- **File**: [outer-review-2026-05-14-gemini-2-5-pro](/reviews/outer-review-2026-05-14-gemini-2-5-pro/)
+- **Subject**: recent / topics/psychedelics-and-the-filter-model.md (reuse from chatgpt commission)
+- **Recovery context**: gemini's dispatcher collect hadn't been attempted (starved behind claude's stuck slot per the oldest-first dispatcher). Manual recovery via Blob-download (worked first try).
+- **Claims verified**: 3 (article does engage CSTC/CCC/REBUS at some level; does cite ~10 bits/s; unfalsifiability concern is named in pessimistic-review apparatus)
+- **High-value findings**: 2 novel (explicit cross-link to `[[amplification-void]]`/`[[agency-void]]`/No-MWI as inherited dependencies; refined Gemini-calibration hypothesis); 4 convergent with claude (REBUS engagement insufficient; quantum/amplification weakness; unfalsifiability/asymmetry; bandwidth-asymmetry engagement)
+- **Tasks generated**: 2 (P2: 2) — both small cross-link / calibration-update tasks. Most substantive findings already covered by claude's task set.
+- **Calibration update**: Third data-point in the Gemini-on-focused-articles series. Refined hypothesis: Gemini's depth-of-critique scales with how well-documented the article's canonical opponents are in the literature. Letheby (niche) was missed; Madhyamaka (canonical) was caught on 2026-05-12.
+
+## 2026-05-14 05:30 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Research mode, adversarial audit, ~300 sources, 11m+)
+- **File**: [outer-review-2026-05-14-claude-opus-4-7](/reviews/outer-review-2026-05-14-claude-opus-4-7/)
+- **Subject**: recent / topics/psychedelics-and-the-filter-model.md (reuse from chatgpt-5-5-pro commission)
+- **Recovery context**: dispatcher's collect-claude-review timed out at exactly 10:01s (04:54:29→05:04:30, attempts=0). Combined cause: 2026-05-12 Step-3 polling expansion + 25-40K-char body chunked-read both eating wall-clock. Skill+timeout fix landed in `7f0de5579` (Blob download replaces chunked-read; dispatcher timeout 600s→900s). Manual recovery via the Blob-download path; body was 56K chars (largest claude collect so far).
+- **Claims verified**: 7 (article cites 2012-era canon only, missing Siegel 2024/Timmermann 2024/Doss 2020/Brennan 2024/Mason 2020; no Letheby; no Entropic Brain 2.0 / Lempel-Ziv complexity; quantum section cites Babcock+Kerskens+Hameroff with permissive epistemic status; filter-theory concept page is more cautious than this topic article; Metzinger "minimal self as witness" deployment not endorsed by Metzinger)
+- **High-value findings**: 7 — stale empirical base; Letheby unaddressed; asymmetry problem (anaesthesia/sleep); REBUS-only competing-accounts coverage; phenomenology-measurement weaknesses; quantum section overreach; topic-vs-concept calibration drift
+- **Tasks generated**: 7 (P1: 3, P2: 4) — 5 refines of the target article, 1 new topic article (Letheby naturalistic account), 1 methodology project-doc bundle (literature-drift skill + altered-state symmetry + topic-vs-concept audit)
+- **Convergence**: Likely heavy convergence with same-cycle ChatGPT 2026-05-14 (also on this article, processed ~04:30 UTC). Synthesis pass will surface specific overlaps — visible likely-convergent candidates: stale empirical base, quantum overreach, REBUS-only competing-accounts coverage. **Tenth independent outer review** flagging the coherence-inflation / topic-vs-concept-calibration-drift family — the reviewer points at the Map's own `[[coherence-inflation-countermeasures]]` and `[[evidential-status-discipline]]` as discipline pages the article fails to enforce on itself.
+
+## 2026-05-14 05:04 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Word count**: 3759 → 3759 (rename-only body edit, frontmatter-only addition)
+- **Critical issues addressed**: 1 (archived target `[[pragmatist-quantum-foundations-under-dualism]]` → live successor `[[pragmatist-quantum-foundations-and-the-agent]]` in body QBism paragraph and frontmatter related_articles)
+- **Medium issues addressed**: 1 (restored `[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]` to frontmatter related_articles — verified cluster cross-link present in 2026-04-23 review state, dropped by 2026-05-14 condense)
+- **Enhancements made**: 0 (length-neutral mode; article at 125% of soft threshold)
+- **Engagement modes (editor-internal)**: N/A — article surveys derivation programmes (Gleason, Deutsch-Wallace, Carroll-Sebens, Zurek, QBism, MGM) and notes their structural limits without "replying to named opponents" in the §2.6 sense; no boundary-substitution risk, no editor-vocabulary leakage detected.
+- **Output**: [deep-review-2026-05-14-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-05-14-born-rule-and-the-consciousness-interface/)
+- **Stability**: 16th review; content fully converged; condense preserved every previously-reviewed semantic commitment; this pass corrected only cluster cross-link integrity.
+
+## 2026-05-14 04:37 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Word count**: 2676 → 2676 (one-word substitution)
+- **Critical issues addressed**: 1 (mechanism count: "Six" → "Seven" to match the post-coalesce state of [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/))
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article is in stable convergence; this was the fifth review)
+- **Engagement modes (editor-internal)**: engagement with physicalist/identity theorist: Mixed (Mode Two — unsupported-move identification, "phenomenal character has no explanatory role"; followed by Mode Three — explicit framework-boundary marking, "does not by itself prove dualism"). No label leakage in article body.
+- **Output**: [deep-review-2026-05-14-consciousness-and-causal-powers](/reviews/deep-review-2026-05-14-consciousness-and-causal-powers/)
+
+## 2026-05-14 04:50 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-05-14-chatgpt-5-5-pro](/reviews/outer-review-2026-05-14-chatgpt-5-5-pro/)
+- **Subject**: Audit `topics/psychedelics-and-the-filter-model` (recent-aged-fallback selection)
+- **Verdict**: Revise, not retract — article is candid and well-integrated, but the "less brain activity → richer mind" framing and the "REBUS evidence supports filter theory" move produce tenet-protective scaffolding; reviewer recommends Mode Four (empirical underdetermination) reclassification.
+- **Claims verified**: 5 Map-internal (reverse-link gap from `concepts/filter-theory`, DMN page already better-calibrated, Mode Four framework exists in `project/direct-refutation-discipline.md`, predictive-processing concept pages exist but uncross-linked, REBUS-as-support framing faithfully quoted from article); 6 external 2024-2026 citations not individually verified (deferred to refine-draft pass)
+- **High-value findings**: 5 (Mode Four reclassification of tenet-protective "Relation to Site Perspective" section; REBUS-support → REBUS-compatibility downgrade — boundary-substitution flag; empirical-citation refresh to 2024-2026 literature with modality-specific neural-effect language; three-way phenomenological/psychological/veridical access discriminator sharpening + quantum-section quarantine; cross-link gaps — filter-theory reverse-link, predictive-processing cluster, DMN bidirectional caveat)
+- **Tasks generated**: 5 (P1: 1, P2: 4) — direct-refutation discipline applied to the P1 framing task
+- **Convergent finding**: tenet-protective framing + boundary-substitution surfaces again — converges with the 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, and 2026-05-04 Claude reviews on boundary-substitution as a recurring structural weakness in tenet-pillar articles. The Mode Four / direct-refutation discipline (added 2026-05-13) is the system-level response; this review provides another test case.
+
+## 2026-05-14 03:54 UTC - deep-review
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Word count**: 3344 → 3345 (+1, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (restored orphaned Mashour 2012 parenthetical citation in fragmentation section; condense had dropped the in-body citation while keeping it in References)
+- **Enhancements made**: 0 (article is at full stability post-condense; cluster integrity verified — every back-link anchor from `concepts/temporal-consciousness`, `attention-and-the-consciousness-interface`, `phenomenology-of-returning-attention`, `phenomenology-of-anticipation`, `consciousness-and-the-ontology-of-temporal-becoming`, `apex/machine-question`, and `temporal-consciousness-structure-and-agency` survives the 5678→3344 condense intact)
+- **Reasoning-mode classification**: no new named-opponent engagements; carry forward from 2026-05-13 (Bergson Mode Mixed; representationalist Mode One; constructivist Mode Three; Madhyamaka Mode Three with partial-credit; eternalist lineage Mode Three; Bayne Mode One; MWI Mode Three)
+- **Output**: [deep-review-2026-05-14-non-temporal-consciousness](/reviews/deep-review-2026-05-14-non-temporal-consciousness/)
+
+## 2026-05-14 03:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Source**: [pessimistic-2026-05-14](/reviews/pessimistic-2026-05-14/)
+- **Word count**: 3209 → ~3,920 (substantive fixes required real engagement; still well below the 4519 pre-condense baseline)
+- **Critical issues addressed**: 4 of 4
+  - (1) AST critique upgraded: identified the unearned foundational move (schema's representation of attention as phenomenal *just is* phenomenality, stipulated not specified); reframed Tallis "misrepresentation presupposes presentation" as a bridge-problem pressure rather than as a question-begging demand for an experiencer; explicit honest noting that "what experiences this?" coherence is the bedrock disagreement.
+  - (2) Falsification: added one model-specific quantitative prediction (phenomenal effort scales with entropy of the option set at threshold crossing, separable from discrimination difficulty); explicit asymmetry acknowledgement that the five "rival-framework vindication" conditions are background-theory failures rather than forward predictions of the interface model.
+  - (3) ADHD and Neglect rewritten to engage integration/access materialist position rather than the cruder identity claim that no contemporary materialist holds.
+  - (4) Cai et al. citation decoupled from third-layer claim; the paper licenses two layers, the third is explicitly the Map's interpretation that goes beyond the empirical work.
+- **Secondary findings addressed**: 8 of 8
+  - (a) Tegmark (2000) engaged in body with the 10⁻¹³ / 10⁻²⁰ second decoherence numbers; Stapp transition-scale response, Penrose-Hameroff microtubule shielding response, Reimers/McKemmish independent-grounds critique, honest residue
+  - (b) Unsourced "2025 evidence of room-temperature quantum effects" removed
+  - (c) Schwartz/OCD dishonest "philosophically significant" framing dropped; result presented as illustrative-case-that-motivated-framing rather than empirical support
+  - (d) Zheng & Meister reframed as behavioural-throughput / sensory-transduction stage comparison rather than misleading "100-million-fold asymmetry" ratio
+  - (e) Sjöberg "the readiness potential cannot be the conscious decision" softened to "one data point against the strong Libet reading"
+  - (f) Witness-consciousness reference qualified — Advaita reading vs Madhyamaka/Dzogchen anti-reification reading; AST rejoinder noted
+  - (g) Relation to Site Perspective openings varied; MWI subsection now engages amplitude-weighting counterargument and honestly marks the disagreement as running at framework boundary rather than as in-MWI refutation
+  - (h) Transit-void claim qualified to moment-of-capture level vs retrospective reconstruction
+- **Engagement classification**: AST critique now Mode Two primary (unsupported foundational move — the stipulated bridge from representation to felt quality) with Mode Three coda (bedrock disagreement on whether "what experiences this?" is coherent); MWI engagement now Mode Three honest (boundary-marking with amplitude-weighting counterargument engaged); ADHD/Neglect now Mode Three (challenge integration materialist to specify why integration tracks lesion topography), not refutation. No label leakage.
+- **Published**: yes
+
+## 2026-05-14 02:54 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) (~3,209 words post-2026-05-14 condense; clean label-leakage; 4 substantive defects + 8 secondary findings)
+- **Output**: [pessimistic-2026-05-14](/reviews/pessimistic-2026-05-14/)
 
 ## 2026-05-14 02:37 UTC - condense
 - **Status**: Success

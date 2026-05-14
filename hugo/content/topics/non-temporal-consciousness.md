@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-05-14 00:25:00+00:00
+ai_modified: 2026-05-14 03:54:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Can consciousness exist outside time? Husserl's absolute flow, medi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-13 17:22:00+00:00
+last_deep_review: 2026-05-14 03:54:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ The article takes a middle path. The *minimal subject* response (Zahavi's neo-Hu
 
 If consciousness has a non-temporal ground, what happens when it apparently fragments? Split-brain cases, anaesthesia, and dissociative disorders produce conditions where unified experience fractures — or seems to. For dedicated treatment, see [split-brain-consciousness](/topics/split-brain-consciousness/).
 
-Two features of the fragmentation data are telling. The *resilience of unity*: even with the corpus callosum severed, consciousness does not cleanly divide; Pinto et al. (2017) find "divided perception but undivided consciousness" in callosotomy patients. The *incompleteness of fragmentation*: Lewis et al. (2012) observed that propofol-induced unconsciousness disrupts integration but eliminates consciousness entirely rather than producing multiple diminished streams. These patterns suggest integration is a threshold condition for consciousness to interact with the brain, rather than what constitutes consciousness.
+Two features of the fragmentation data are telling. The *resilience of unity*: even with the corpus callosum severed, consciousness does not cleanly divide; Pinto et al. (2017) find "divided perception but undivided consciousness" in callosotomy patients. The *incompleteness of fragmentation*: Lewis et al. (2012) observed that propofol-induced unconsciousness disrupts integration but eliminates consciousness entirely rather than producing multiple diminished streams (Mashour, 2012). These patterns suggest integration is a threshold condition for consciousness to interact with the brain, rather than what constitutes consciousness.
 
 For the non-temporal thesis, fragmentation poses a specific problem: if consciousness has a non-temporal ground constituting temporal experience, fragmenting the physical substrate shouldn't fragment consciousness — only disrupt the *interface* through which it expresses itself temporally. The dualist interface response holds that the brain hosts an integrated substrate through which a non-physical mind expresses itself, with fragmentation affecting the interface rather than the mind. The radio-receiver analogy illustrates the shape of the reply without bearing the argumentative weight.
 
