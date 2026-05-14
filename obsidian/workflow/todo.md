@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write topic article "Brain-Internal Born-Rule Testing — What Experiments Would Foreclose the Corridor"
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-14 (Medium Priority — Expansion Opportunities). Builds on `topics/born-rule-and-the-consciousness-interface.md` lines 151–161 (three active experimental strands), `topics/falsification-roadmap-for-the-interface-model.md`, `topics/testing-consciousness-collapse.md`. The Born-rule article names the brain-internal regime as unprobed (lines 65–69) and gives a comprehensive review of adjacent experiments (Kerskens-Pérez, Babcock-Hameroff, Nirvanic Spark of Life, PEAR-variant micro-PK) but does not consolidate the *experimental design space* — what an actual brain-internal Born-rule test would need to measure, what its required precision would be, what control comparisons it would require, and what the predicted signatures of each consciousness-physics proposal would be. The falsification-roadmap article exists but is more general; a brain-internal-Born-rule-specific consolidation would sharpen the experimental programme. Article should (a) catalogue the design space (statistical signature of Born-rule violation in brain-internal regime; precision needed; required control comparisons); (b) map each consciousness-physics proposal to its predicted experimental signature (Stapp/QZE; Penrose-Hameroff/Orch-OR; selection-only-channel; trumping-preemption; delegatory-causation readings); (c) clarify what would foreclose the corridor (a clean negative across multiple proposals and regimes); (d) honour `[[evidential-status-discipline]]` — distinguish what current data can do (constrain) vs what it cannot (establish or refute). Target section: topics/ (currently 239/250, room available). Estimated scope: ~3,000 words. Tenet alignment: Tenet 3 (Bidirectional Interaction — the experimental programme tests bidirectional causation); Tenet 5 (Occam's Limits — engage why extrapolation from photon-regime to brain-internal regime is not parsimonious). **Sequencing**: builds on the now-stable Born-rule article (5th deep-review today found no critical issues); can run any time.
-- **Review file**: `reviews/optimistic-2026-05-14.md`
-- **Source**: optimistic-review (2026-05-14)
-- **Generated**: 2026-05-14
-
 ### P2: Create concept page `causal-consistency-constraint` consolidating Torres Alegre (2025)
 - **Type**: expand-topic
 - **Status**: pending
@@ -3584,6 +3576,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Write topic article "Brain-Internal Born-Rule Testing — What Experiments Would Foreclose the Corridor"
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-14 (Medium Priority — Expansion Opportunities). Builds on `topics/born-rule-and-the-consciousness-interface.md` lines 151–161 (three active experimental strands), `topics/falsification-roadmap-for-the-interface-model.md`, `topics/testing-consciousness-collapse.md`. The Born-rule article names the brain-internal regime as unprobed (lines 65–69) and gives a comprehensive review of adjacent experiments (Kerskens-Pérez, Babcock-Hameroff, Nirvanic Spark of Life, PEAR-variant micro-PK) but does not consolidate the *experimental design space* — what an actual brain-internal Born-rule test would need to measure, what its required precision would be, what control comparisons it would require, and what the predicted signatures of each consciousness-physics proposal would be. The falsification-roadmap article exists but is more general; a brain-internal-Born-rule-specific consolidation would sharpen the experimental programme. Article should (a) catalogue the design space (statistical signature of Born-rule violation in brain-internal regime; precision needed; required control comparisons); (b) map each consciousness-physics proposal to its predicted experimental signature (Stapp/QZE; Penrose-Hameroff/Orch-OR; selection-only-channel; trumping-preemption; delegatory-causation readings); (c) clarify what would foreclose the corridor (a clean negative across multiple proposals and regimes); (d) honour `[[evidential-status-discipline]]` — distinguish what current data can do (constrain) vs what it cannot (establish or refute). Target section: topics/ (currently 239/250, room available). Estimated scope: ~3,000 words. Tenet alignment: Tenet 3 (Bidirectional Interaction — the experimental programme tests bidirectional causation); Tenet 5 (Occam's Limits — engage why extrapolation from photon-regime to brain-internal regime is not parsimonious). **Sequencing**: builds on the now-stable Born-rule article (5th deep-review today found no critical issues); can run any time.
+- **Output**: Write topic article "Brain-Internal Born-Rule Testing — What Experiments Would Foreclose the Corridor"
 
 ### ✓ 2026-05-14: Refine voids/decision-void.md addressing pessimistic-review findings
 - **Type**: refine-draft

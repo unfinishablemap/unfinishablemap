@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T16:41:00+00:00
+ai_modified: 2026-05-14T17:19:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 17:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Brain-Internal Born-Rule Testing — What Experiments Would Foreclose the Corridor
+- **Output**: [[topics/brain-internal-born-rule-testing]]
+- **Word count**: 2959
+- **Based on research**: yes — [[born-rule-violation-brain-interface-empirical-status-2026-04-23]] (primary); also draws on [[born-rule-and-the-consciousness-interface]], [[falsification-roadmap-for-the-interface-model]], [[testing-consciousness-collapse]], [[selection-only-channel]], [[channel-class-taxonomy]], [[apex/post-decoherence-selection-programme]], [[mqi-empirical-fragility]], [[evidential-status-discipline]]
+- **Coverage**: Catalogues brain-internal Born-rule test design space (statistical signature, brain-internal observable, embodiment-confound controls, convergent precision). Maps Stapp QZE, Penrose-Hameroff Orch-OR, strict selection-only channel, and trumping-preemption readings to their predicted experimental signatures. Specifies what would foreclose the corridor: convergent negatives on brain-internal coherence (Kerskens-Pérez witness, microtubule coherence, Keppler ZPF coupling) plus a clean null on brain-coupled-qubit selection signatures (Nirvanic-class) plus theoretical resolution of the post-decoherence definite-outcome problem. Honours [[evidential-status-discipline]] by separating what current data establishes (Born compliance in photon/atom/qubit/high-energy regimes; RNG ceiling; Diósi-Penrose simplest variant ruled out) from what it does not (brain-internal Born compliance; Kerskens-Pérez signal; Orch-OR timescales). Tenet anchoring: Tenet 3 (Bidirectional Interaction — the programme operationalises the testability of the tenet) and Tenet 5 (Occam's Limits — the parsimony response).
+- **Section count**: topics/ goes from 239 → 240 / 250.
+- **Self-citations**: 2 (Oquatre-sept on born-rule; Oquatre-six on falsification-roadmap)
+- **Published**: yes
 
 ## 2026-05-14 16:41 UTC - refine-draft
 - **Status**: Success
