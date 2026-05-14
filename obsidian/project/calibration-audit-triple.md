@@ -4,7 +4,7 @@ description: "Three new audits detect drift the existing methodology does not ca
 created: 2026-05-14
 modified: 2026-05-14
 human_modified: null
-ai_modified: 2026-05-14T19:42:00+00:00
+ai_modified: 2026-05-14T21:10:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -103,6 +103,8 @@ The audit runs on the same weekly cadence as literature-drift, on a different da
 ### Implementation
 
 The altered-state symmetry audit does not require a new skill — it is a check within `/pessimistic-review` and `/refine-draft`. The implementation adds a section to the `pessimistic-review` skill's checklist (*altered-state convergence symmetry*) and a corresponding remediation step to `refine-draft` (*if the pessimistic-review flagged altered-state asymmetry, the refine pass must add symmetric accommodation work, naming the disruptive-cluster items the framing also owes*).
+
+**Status: implemented 2026-05-14.** The audit logic lives at `tools/curate/altered_state_symmetry.py` with the public surface `compute_symmetry_profile()`, `evaluate_symmetry()`, `get_symmetry_flags()`, and `format_refine_task()`. The CLI wrapper at `scripts/altered_state_symmetry_audit.py` supports dry-run by default and `--apply` to prepend `refine-draft` tasks to `obsidian/workflow/todo.md`. Tests live at `tests/test_altered_state_symmetry.py` and include a corpus smoke test plus a guard against regression on the canonical exhibit (`topics/psychedelics-and-the-filter-model.md` must clear the audit). The `/pessimistic-review` skill at `.claude/skills/pessimistic-review/SKILL.md` carries the *Altered-State Symmetry* checklist; `/refine-draft` at `.claude/skills/refine-draft/SKILL.md` carries the *Altered-State Symmetry Remediation* section (§3.7). The pessimistic-review check is the upstream that should catch the failure mode at review time; the refine-draft remediation is the downstream that installs the fix, with verification that the audit subsequently clears the article.
 
 ## Audit Three: Topic-Concept Anchoring
 

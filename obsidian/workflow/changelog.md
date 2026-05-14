@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-05-14T21:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 21:10 UTC - refine-draft (Audit Two implementation)
+- **Status**: Success
+- **File**: chain follow-up to [[project/calibration-audit-triple]] — Audit Two implementation
+- **Changes**: shipped `tools/curate/altered_state_symmetry.py` (altered-state symmetry audit, ~280 LOC), CLI wrapper at `scripts/altered_state_symmetry_audit.py`, `tests/test_altered_state_symmetry.py` (17 tests, all passing including a corpus smoke and a regression guard pinning the canonical exhibit `topics/psychedelics-and-the-filter-model.md` to *no flag* after today's symmetry installation). Extended `.claude/skills/pessimistic-review/SKILL.md` with the *Altered-State Symmetry* checklist (three checks: supportive-cluster gate, disruptive-cluster engagement, symmetry-acknowledgment) and `.claude/skills/refine-draft/SKILL.md` §3.7 *Altered-State Symmetry Remediation* (three required moves with reference phrasings from the 2026-05-14 canonical fix, plus a verification step against the audit). Updated [[project/calibration-audit-triple]] Audit Two "Implementation" block with a "Status: implemented 2026-05-14" note pointing to the public surface.
+- **Audit baseline**: 4 candidate articles surface against current corpus on default thresholds (`topics/arguments-against-materialism`, `concepts/perceptual-degradation-and-the-interface` plus two more). CLI per-run cap of 2 and the audit_triple global cap of 6 prevent flood; the canonical exhibit clears the audit cleanly.
+- **Tenet alignment**: methodological enforcement of [[direct-refutation-discipline]] (catches the convergence-counting failure mode the 2026-05-14 outer-review surfaced after the psychedelics article had passed four prior refine passes) and [[evidential-status-discipline]] (the supportive cluster cannot be cited as multiple independent confirmations of filter framing while the parallel disruptive cluster remains unaddressed).
+- **Published**: yes
 
 ## 2026-05-14 20:42 UTC - cross-review (wikilink retarget after coalesce)
 - **Status**: Success
