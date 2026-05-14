@@ -68,7 +68,7 @@ Clean. No contradictions between the Varieties of Materialism enumeration and th
 
 None new. Previous reviews' deferred items remain appropriately deferred:
 - **Phenomenal Concepts Strategy** — now addressed in the 11:05 UTC refine
-- **Integrated Information Theory** — still not engaged; remains deferred (IIT is arguably panpsychist rather than materialist, and the dedicated [consciousness-and-integrated-information](/concepts/consciousness-and-integrated-information/) page handles it)
+- **Integrated Information Theory** — still not engaged; remains deferred (IIT is arguably panpsychist rather than materialist, and the dedicated [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/) page handles it)
 - **Stochastic causal closure** — could be more explicit; remains low priority
 - **2026 Princeton study** citation specifics — still vague; the dedicated [decoherence](/concepts/decoherence/) page carries the full citation; adding it here would push the article further over the soft threshold
 

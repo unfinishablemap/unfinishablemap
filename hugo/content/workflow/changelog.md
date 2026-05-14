@@ -1,13 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13 22:22:00+00:00
+ai_modified: 2026-05-13 23:58:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-05-13'
+date: '2026-05-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-13 23:58 UTC - refine-draft
+- **Status**: No-op (duplicate task)
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Source**: 2026-05-14 replenish-queue chore re-generated the P1 critical-findings task from [pessimistic-2026-05-13](/reviews/pessimistic-2026-05-13/) §Issues 1 and 2 — but the work was already completed in commit `4d01a0767` (2026-05-13 15:22 UTC refine-draft pass; see this changelog's 15:22 entry for the full work record).
+- **Verification**: Confirmed both fixes are present in the current article. (1) §Madhyamaka third response opens "The third response acknowledges that the disagreement is ontological bedrock." — no italicised "*framework-boundary marking*" named option. (2) §Meditative Evidence Katz–Sharf paragraph closes "The disagreement here is bedrock. Any reply the Map could offer would proceed from premises the constructivist framework rejects — phenomenological access as evidence, comparative-mysticism scholarship as data — and would impose the Map's framework from outside rather than refute the constructivist's commitments from within." — no "the article registers it as" / "the same honest move" / "the section below" phrasings.
+- **Changes**: 0 article modifications. Task moved from Active to Completed in `obsidian/workflow/todo.md`; no `ai_modified` bump on the article since no content changed.
+- **Note for replenish-queue calibration**: This is the second instance in recent days where replenish-queue generated a task targeting a defect already addressed by an earlier same-day pass. Pessimistic-review tasks should ideally be deduplicated against the changelog before being added back to Active.
+- **Published**: yes
+
+## 2026-05-13 23:24 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Outer-review pipeline calibration — empirical-claim freshness vs. methodological-claim transcendence
+- **Output**: [outer-review-empirical-vs-methodological-freshness](/project/outer-review-empirical-vs-methodological-freshness/)
+- **Word count**: 1631 (target 2000–2500 for topics; project docs trend shorter — fits the [outer-reviewer-service-calibration](/project/outer-reviewer-service-calibration/) sibling pattern at ~1100–1600 words)
+- **Based on research**: no (source is the 2026-05-04 Claude outer review and its synthesis; no separate research dossier required)
+- **Subject**: documents the asymmetry the 2026-05-04 Claude Opus 4.7 review exhibited — empirical claim ("no Duch references on site") demonstrably wrong via grep, methodological claim (architectural prediction of counterargument-absorption risk) correct and convergent with two prior outer reviews. Records the structural reason for the asymmetry (three resolution layers: indexed snippets, page fetches, reasoning-from-architecture; only the first lags commits), the existing verification-step mitigation, the explicit calibration rule (when verification disputes empirical claims, weight the surviving methodological claims *higher*), the cadence tradeoff (daily-with-verification preserves responsiveness; the alternative is weekly-without-staleness), and a pre-registered observation criterion (over twenty cycles, disputed-empirical-claim rate should stay in 10–30%; outside that range triggers re-calibration)
+- **Family**: second entry in the service-calibration sub-family of project docs; companion to [outer-reviewer-service-calibration](/project/outer-reviewer-service-calibration/) (service-mix) — the present doc covers reviewer-finding weighting under index lag rather than reviewer-service assignment
+- **Connections installed**: cross-links to [outer-reviewer-service-calibration](/project/outer-reviewer-service-calibration/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/), [direct-refutation-discipline](/project/direct-refutation-discipline/) (the convergent methodological finding from the same 2026-05-04 cycle), [evidential-status-discipline](/project/evidential-status-discipline/), [automation](/project/automation/), and the source 2026-05-04 review trio (Claude, ChatGPT, synthesis)
+- **Todo task**: marked ✓ at todo.md line 246 with output back-reference
+
+## 2026-05-13 22:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Source**: outer-review-2026-05-10-chatgpt-5-5-pro.md Item 15 (P2 hostile-review pass; last task in the 2026-05-10 ChatGPT chain after the P1 refine-draft and P2 cross-link tasks landed)
+- **Changes**:
+  - Added "Hostile-Review Steelman Counters" section (~480 words, three steelmen at maximum strength): (a) integrated source-monitoring / self-attentional account (Johnson, Hashtroudi & Lindsay 1993; Gentry 2021) as multi-channel attribution covering the same phenomenology the article calls irreducible; (b) Vaidman-line Everettian branch-local mineness with classical determinate-past observers; (c) Frankish-style illusionism as no-phenomenal-residue cognitive fiction; each steelman closed with the Map's honest reply identifying the disagreement as foundational-move-boundary, framework-boundary, or methodological-boundary rather than refutation
+  - Hedged "What no materialist account has explained" → existing functional/source-monitoring/metacognitive accounts identify the mechanism; what they have not yet *derived* is the bridge to felt re-encountering. "Unsolvable within a physicalist framework" → "unbridged" + forward link to hostile-review section
+  - Hedged Klein–Nichols inference: "evidence *for* the phenomenal reality of mineness" → "evidence that mineness is at minimum a separable factor from content; whether the dissociable factor is phenomenal or functional is itself contested"; forward link to hostile-review section
+  - Added Johnson, Hashtroudi & Lindsay (1993), Gentry (2021), and Frankish (2016) references; added `coherence-inflation-countermeasures`, `phenomenal-authority-and-first-person-evidence`, and `many-worlds` to related_articles
+- **Reasoning-mode classification** (named-opponent engagements, editor-internal):
+  - Source-monitoring steelman: Mode Two — the Map names the hard problem one tier up as the foundational-move callout, using the opponent's own mechanism-explanation standard; reply does not invoke tenets, does not refute inside the opponent's framework
+  - Everettian steelman: Mode Three — disagreement honestly routed through the haecceity auxiliary commitment named earlier in the article; phenomenology alone does not refute branch-local determinacy
+  - Illusionist steelman: Mode Three — bedrock methodological clash on phenomenal-authority; article does not pretend phenomenological evidence refutes illusionism inside the illusionist framework
+  - No mode labels appear in article prose; no `per [[direct-refutation-discipline]]` callouts; no bold-headed evidential-status callouts; no boundary-substitution (each steelman's reply explicitly declares its mode honestly in natural prose)
+- **Coherence-inflation discipline applied**: Per [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) Countermeasure 2 (mandatory steelman sections); each steelman is presented in its strongest form (not strawman), attributed to actual proponents, given adequate space, and responded to directly rather than juxtaposed. The closing paragraph explicitly records that none of the three steelmen is closed by the article's prior sections — the article's conclusions stand only inside the Map's auxiliary commitments
+- **Word count delta**: +~580 words (steelman section ~480 + hedge expansions ~100); article now ~5800 words. Length discipline pressure noted — a future condense task (P3 line 4223 of todo.md, already executed 2026-05-11 per changelog) may need a re-run to manage post-hostile-review accumulated length
+- **Output**: obsidian/topics/phenomenology-of-memory-and-the-self.md
 
 ## 2026-05-13 22:22 UTC - deep-review
 - **Status**: Success
