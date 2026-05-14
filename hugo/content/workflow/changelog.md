@@ -1,13 +1,79 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-13 23:58:00+00:00
+ai_modified: 2026-05-14 02:37:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-14 02:37 UTC - condense
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Before**: 4519 words
+- **After**: 3209 words
+- **Reduction**: 29%
+- **Technique**: Removed stale AI refinement log comment. Collapsed three subheadings under "Convergence" into prose; merged Dopamine/Threshold details into Competition-Selection. Tightened Dissociation section (Overflow, Constraints, Interface) and AST section. Compressed Clinical Evidence intro and each disorder subsection while preserving the Phenomenological Kaleidoscope table; merged Fatigue+OCD+Meditation into one subsection; merged Effort/Libet/Sites into one section and Predictions+Falsification into another. Tightened Relation to Site Perspective tenet entries and Honest Limitations. Trimmed Further Reading descriptions. Preserved opening summary, the four-case dissociation table, the phenomenological kaleidoscope table, all five tenet connections, and key citations (Rizzolatti, Cisek, Cai et al., Schurger, Schwartz, COGITATE, Zheng & Meister).
+
+## 2026-05-14 01:54 UTC - condense
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Before**: 4558 words
+- **After**: 2998 words
+- **Reduction**: 34%
+- **Technique**: Merged "Pastness deflationary readings" with "The Discrimination Problem" (heavy overlap on simulationist and source-monitoring discussions); compressed each of the three hostile-review steelmen (each was repeating prior material); tightened verbose passages in "Double Presence", "Memory as Self-Constitution", "Memory as Self-Threat", and "Mineness" sections. Preserved opening summary, Relation to Site Perspective, all core arguments (pastness quale irreducibility, haecceity bridge, double presence, MWI inference), and all key citations.
+
+## 2026-05-14 01:25 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology](/concepts/epistemology/)
+- **Word count**: 1597 → 1593 (-4; wikilink alias text counts differently than the prior bare phrase)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added four named-argument wikilinks in the convergence sentence: knowledge-argument, conceivability-possibility-inference, explanatory-gap, argument-from-reason)
+- **Enhancements made**: 1 (wiki structure strengthened)
+- **Engagement classification**: heterophenomenology/Dennett — Mode Three (framework-boundary marking, honest as written); causal closure — Mode Two (unsupported-move identification, strong as written); parsimony — Mode One by delegation to [parsimony-epistemology](/concepts/parsimony-epistemology/). No label leakage.
+- **Stability**: Third review; article has converged. Previous critical/medium issues from 2026-03-25 and 2026-03-28 remain resolved; only intervening change was wikilink-target rename (acquaintance-knowledge → phenomenal-acquaintance).
+- **Output**: [deep-review-2026-05-14-epistemology](/reviews/deep-review-2026-05-14-epistemology/)
+
+## 2026-05-14 00:54 UTC - condense
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Before**: 5604 words
+- **After**: 3759 words
+- **Reduction**: 33%
+- **Technique**: Tightened opening triad; halved brain-internal-gap section (removed MGM block quote and repeated framing); condensed per-derivation breakdowns under "Observer in Every Standard Derivation"; trimmed Bohmian/GRW/transactional/categorical subsections under interpretation-invariant pattern; cut urgleichung section by 55% (removed "honest fallback" paragraph and redundant deformation framing); condensed corridor taxonomy bullets; consolidated four experimental subsections from 770→500 words; trimmed redundancy between "Why Underivability Matters" and opening; tightened MQI commitments and Relation to Site Perspective without dropping any tenet. Preserved opening summary, taxonomy {#corridor-taxonomy} anchor, all five tenet connections, interface/trumping fork, and full references list (lightly compressed).
+
+## 2026-05-14 00:25 UTC - condense
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Before**: 5678 words
+- **After**: 3344 words
+- **Reduction**: 41%
+- **Technique**: Compressed constructivist (Katz/Sharf) critique into single paragraph; tightened Madhyamaka three-response structure; deferred fragmentation-evidence detail to [split-brain-consciousness](/topics/split-brain-consciousness/); compressed eternalist lineage and Wheeler-DeWitt asides in irreducibility argument; tightened verbose tenet entries in Relation to Site Perspective. Preserved opening summary, all five tenet connections, core regress/Husserl argument, Frischhut ENI, and the convergence claim.
+
+## 2026-05-14 00:18 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (6995 → 7139)
+- **Period**: 2026-05-10 17:11 UTC → 2026-05-14 00:18 UTC (~79h)
+- **Findings**: 1 NEW cadence/commission-gap, 1 NEW failure-pattern (1st miss), 1 NEW queue (P3 −59), 1 NEW review (4th methodology-ratchet recurrence), 1 NEW convergence (concepts +7)
+- **Tier 1 changes**: 0 applied (36th consecutive report blocked by missing YAML sections)
+- **Tier 2 recommendations**: 14 logged (1 NEW: outer-review subject-selection audit; 1 escalated to High: methodology-ratchet project doc; 1 de-escalated: P3 ceiling)
+- **Output**: [system-tune-2026-05-14](/reviews/system-tune-2026-05-14/)
+
+## 2026-05-14 00:18 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 476 (239 topics + 237 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-05-14](/reviews/tenet-check-2026-05-14/)
+
+## 2026-05-14 00:18 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Insight Void
+- **Category**: Mixed (primarily Unexplorable, with strong Occluded component — alpha-blink architecturally gates consciousness out of antecedent processing)
+- **Output**: [voids-insight-void-2026-05-14](/research/voids-insight-void-2026-05-14/)
+- **Key finding**: The restructuring operation that breaks impasse (Knoblich's constraint-relaxation + chunk-decomposition) is sub-personal; the right-temporal gamma burst at 300ms is preceded by a ~1.5s alpha "brain blink" suppressing sensory input; the felt-rightness signal (Topolinski-Reber fluency account) can be artificially induced with semantic priming and decoupled from truth (Danek-Wiley false insights, Laukkonen "dark side of Eureka"). Three structural faces — restructuring, antecedent-blindness, calibration — conjoin into an irresolvable operation-void in the family of [transit-void](/voids/transit-void/), [decision-void](/voids/decision-void/), [inference-void](/voids/inference-void/). Recommended absorption: primary host [transit-void](/voids/transit-void/) (restructuring as fourth crossing); calibration face into [noetic-feelings-void](/voids/noetic-feelings-void/); cross-references to [decision-void](/voids/decision-void/), [creative-aesthetic-void](/voids/creative-aesthetic-void/), [aspect-perception-void](/voids/aspect-perception-void/). Catalogue at 99/100 — absorption preferred over standalone article per the discipline noted in [voids](/voids/).
 
 ## 2026-05-13 23:58 UTC - refine-draft
 - **Status**: No-op (duplicate task)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-21 06:38:00+00:00
+ai_modified: 2026-05-14 01:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: How we know what we know about consciousness—and why the standard
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 00:14:00+00:00
+last_deep_review: 2026-05-14 01:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ Second, the problem of other minds becomes acute. If consciousness is non-physic
 
 Third, the limits of knowledge become themselves epistemologically significant. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) examines how we can have genuine knowledge about what resists being known. The [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) asks the recursive question: how do we know our cognitive limits are genuine rather than merely temporary? These are not idle puzzles but load-bearing questions for any framework that posits a boundary between the physical and the mental.
 
-Fourth, [convergence](/topics/epistemology-of-convergence-arguments/) becomes a central epistemic method. When multiple independent lines of inquiry — phenomenological, empirical, philosophical — point toward the same conclusion, this convergence provides warrant that no single line could provide alone. The Map's case for dualism relies heavily on convergence: the knowledge argument, conceivability arguments, the explanatory gap, and the argument from reason each provide independent evidence that physical description is incomplete.
+Fourth, [convergence](/topics/epistemology-of-convergence-arguments/) becomes a central epistemic method. When multiple independent lines of inquiry — phenomenological, empirical, philosophical — point toward the same conclusion, this convergence provides warrant that no single line could provide alone. The Map's case for dualism relies heavily on convergence: the [knowledge-argument](/concepts/knowledge-argument/), [conceivability arguments](/concepts/conceivability-possibility-inference/), the [explanatory-gap](/concepts/explanatory-gap/), and the [argument-from-reason](/topics/argument-from-reason/) each provide independent evidence that physical description is incomplete.
 
 Fifth, the [philosophy of science itself requires revision](/concepts/philosophy-of-science-under-dualism/). If reality has aspects that third-person methods cannot fully capture, then the scope of scientific explanation is narrower than typically assumed — not because science fails, but because its methods are optimised for the physical domain. This does not diminish science but clarifies its boundaries.
 
