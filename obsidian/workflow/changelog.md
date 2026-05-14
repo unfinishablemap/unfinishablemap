@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T00:18:00+00:00
+ai_modified: 2026-05-14T00:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 00:25 UTC - condense
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Before**: 5678 words
+- **After**: 3344 words
+- **Reduction**: 41%
+- **Technique**: Compressed constructivist (Katz/Sharf) critique into single paragraph; tightened Madhyamaka three-response structure; deferred fragmentation-evidence detail to [[split-brain-consciousness]]; compressed eternalist lineage and Wheeler-DeWitt asides in irreducibility argument; tightened verbose tenet entries in Relation to Site Perspective. Preserved opening summary, all five tenet connections, core regress/Husserl argument, Frischhut ENI, and the convergence claim.
 
 ## 2026-05-14 00:18 UTC - tune-system
 - **Status**: Success

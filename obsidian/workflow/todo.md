@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/non-temporal-consciousness.md (5678 words, 189% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds topics/ hard-warning threshold (4000 words) and is approaching the critical threshold (6000 words) — at 189% of soft-warning target (3000 words). Five sequential refine-draft passes today have settled the 2026-05-12 outer-review trio and earned the article its current substantive shape; the pessimistic-2026-05-13 follow-ups are local rather than structural. Now is the right window for a condensation pass: the article has reached convergence with cluster-coherence work essentially done, and further additions risk pushing it over the critical threshold. Preserve the load-bearing moves — the A-series/B-series Premise 1 disambiguation, the three-response Madhyamaka treatment, the Bayne fragmentation engagement, the Katz–Sharf bedrock-acknowledgement, the post-decoherence MQI pivot, the §Relation to Site Perspective tenet routing — while removing redundancy. Watch for: repeated re-introduction of Husserl's tripartite structure (could cite the future `protention` concept page when it lands; for now, reduce the second/third occurrences); duplicated framing of the constitutive-vs-correlate distinction; the §"Honest Limitations" / falsifiability section may admit compression once the High-severity refine task above lands. Defer detailed quantum-mechanism elaboration to [[apex/post-decoherence-selection-programme]]. The article also retains a refinement-log sidecar (`topics/non-temporal-consciousness.refinement-log.md`) per the 2026-05-13 deep-review pass — that sidecar is fine and should not be touched. **Sequencing**: execute *after* the two P1 refine-draft tasks above so the condensation does not erase fixes that need to land first. Tenet alignment: Tenet 1 (Dualism); Tenet 3 (Bidirectional Interaction); Tenet 2 (MQI). See [[reviews/pessimistic-2026-05-13]] for context on what is structurally load-bearing.
-- **Source**: length_analysis
-- **Generated**: 2026-05-13
-
 ### P2: Condense topics/born-rule-and-the-consciousness-interface.md (5604 words, 187% of target)
 - **Type**: condense
 - **Status**: pending
@@ -3543,6 +3536,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Condense topics/non-temporal-consciousness.md (5678 words, 189% of target)
+- **Type**: condense
+- **Notes**: Article exceeds topics/ hard-warning threshold (4000 words) and is approaching the critical threshold (6000 words) — at 189% of soft-warning target (3000 words). Five sequential refine-draft passes today have settled the 2026-05-12 outer-review trio and earned the article its current substantive shape; the pessimistic-2026-05-13 follow-ups are local rather than structural. Now is the right window for a condensation pass: the article has reached convergence with cluster-coherence work essentially done, and further additions risk pushing it over the critical threshold. Preserve the load-bearing moves — the A-series/B-series Premise 1 disambiguation, the three-response Madhyamaka treatment, the Bayne fragmentation engagement, the Katz–Sharf bedrock-acknowledgement, the post-decoherence MQI pivot, the §Relation to Site Perspective tenet routing — while removing redundancy. Watch for: repeated re-introduction of Husserl's tripartite structure (could cite the future `protention` concept page when it lands; for now, reduce the second/third occurrences); duplicated framing of the constitutive-vs-correlate distinction; the §"Honest Limitations" / falsifiability section may admit compression once the High-severity refine task above lands. Defer detailed quantum-mechanism elaboration to [[apex/post-decoherence-selection-programme]]. The article also retains a refinement-log sidecar (`topics/non-temporal-consciousness.refinement-log.md`) per the 2026-05-13 deep-review pass — that sidecar is fine and should not be touched. **Sequencing**: execute *after* the two P1 refine-draft tasks above so the condensation does not erase fixes that need to land first. Tenet alignment: Tenet 1 (Dualism); Tenet 3 (Bidirectional Interaction); Tenet 2 (MQI). See [[reviews/pessimistic-2026-05-13]] for context on what is structurally load-bearing.
+- **Output**: obsidian/topics/non-temporal-consciousness.md
 
 ### ✓ 2026-05-14: Address Critical findings in topics/non-temporal-consciousness.md (label-leakage at line 98, meta-commentary at line 70)
 - **Type**: refine-draft
