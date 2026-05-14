@@ -4,13 +4,13 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-16T17:14:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-defeats-explanation]]"
   - "[[philosophy-of-mind]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[explanatory-gap]]"

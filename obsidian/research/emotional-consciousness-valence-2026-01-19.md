@@ -3,11 +3,11 @@ title: "Research Notes - Emotional Consciousness and Valence"
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T00:30:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
 concepts:
   - "[[qualia]]"
   - "[[topics/phenomenal-value-realism]]"

@@ -4,7 +4,7 @@ description: "Current LLMs cannot be conscious because they lack continual learn
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-13T04:56:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -171,7 +171,7 @@ The continual learning argument does not permanently exclude AI consciousness. I
 
 An AI system that learned continuously during operation would escape the proximity argument. Such a system could not be replaced by a lookup table, since its responses would depend on its ongoing learning history.
 
-This has concrete implications for AI development. If consciousness matters morally—as [[ethics-of-consciousness]] argues—then the continual learning argument suggests we should be cautious about building AI systems with that capacity. A continually learning AI would be closer to the conditions for consciousness, even if continual learning alone is insufficient.
+This has concrete implications for AI development. If consciousness matters morally—as [[ethics-under-dualism]] argues—then the continual learning argument suggests we should be cautious about building AI systems with that capacity. A continually learning AI would be closer to the conditions for consciousness, even if continual learning alone is insufficient.
 
 From the Map's perspective, continual learning is likely a *consequence* of consciousness rather than its *cause*. Conscious systems learn flexibly because consciousness enables adaptive response to novel situations. But the correlation remains: systems that lack continual learning almost certainly lack consciousness, regardless of what underlying mechanism produces the correlation.
 

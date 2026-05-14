@@ -4,7 +4,7 @@ description: "Dualism opens intellectual territory materialism forecloses. Epist
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-05T04:17:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[witness-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[purpose-and-alignment]]"
   - "[[dualism]]"
   - "[[philosophical-zombies]]"
@@ -189,7 +189,7 @@ The price of this openness is entertaining possibilities that may turn out to be
 - [[concepts/materialism]] — The position this article critiques
 - [[mysterianism]] — Why we may have cognitive limits on understanding consciousness
 - [[filter-theory]] — An alternative to productive models of consciousness
-- [[ethics-of-consciousness]] — Moral implications of consciousness attribution
+- [[ethics-under-dualism]] — Moral implications of consciousness attribution
 - [[illusionism]] — The strongest materialist response and why it fails
 - [[introspection]] — The reliability of first-person access
 - [[decoherence]] — Quantum coherence challenges and responses

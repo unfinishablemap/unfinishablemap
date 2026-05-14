@@ -4,11 +4,11 @@ description: "Conscious experience carries intrinsic evaluative character—felt
 created: 2026-01-16
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-21T06:38:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[consciousness-and-normative-force]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[phenomenology-of-moral-life]]"

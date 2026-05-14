@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T20:14:16+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 20:42 UTC - cross-review (wikilink retarget after coalesce)
+- **Status**: Success
+- **Target**: [[topics/ethics-under-dualism]] (coalesce target from 2026-05-14 20:10 UTC)
+- **Scope**: 31 active content files (apex/topics/concepts/voids/research) — reviews/, workflow/, and workflow/archive/ excluded as historical records
+- **Wikilink replacements**: 63 — `[[ethics-of-consciousness]]`, `[[topics/ethics-of-consciousness]]`, `[[ethics-and-value-in-a-dualist-world]]`, `[[topics/ethics-and-value-in-a-dualist-world]]` (with and without pipe-aliases and section anchors) → `[[ethics-under-dualism]]`. Section anchors `#AI Ethics: Non-Consciousness and Its Limits` and `#What Would Change the AI Assessment?` remapped to `#AI: Non-Consciousness and Its Limits` to match the coalesced article's heading structure. `#Moral Uncertainty: When We Don't Know` preserved verbatim (heading retained in target).
+- **Manual edits (5 files)**: deduped Further Reading and frontmatter entries where both old articles were linked from the same file (3 cases — `apex/moral-architecture-of-consciousness`, `topics/ethics-of-cognitive-enhancement-under-dualism`, `topics/ethics-of-possible-ai-consciousness`); rewrote one prose sentence in `ethics-of-possible-ai-consciousness` that named both old titles in a single contrast; updated `apex_sources` in `apex/moral-architecture-of-consciousness` and `apex/living-with-the-map`; updated `**Source articles**` registry in `apex/apex-articles`; updated the self-citation URL/title in `ethics-of-cognitive-enhancement-under-dualism` References (4); updated three title-style aliases in Further Reading from "Ethics of Consciousness"/"Ethics and Value in a Dualist World" to "Ethics Under Dualism" where the alias served as a section-link title.
+- **Preserved**: historical records in reviews/, workflow/archive/, and the coalesce changelog entries above; the `coalesced_from:` frontmatter on `topics/ethics-under-dualism` (intentional history); the archived stubs at `archive/topics/ethics-of-consciousness` and `archive/topics/ethics-and-value-in-a-dualist-world` (URL redirects via `superseded_by`); prose pipe-aliases like "ethics of consciousness" (lowercase, descriptive) and "appropriate response" that read naturally without retitling; one plain-text "ethics-of-consciousness" mention inside a dated research note (2026-01-19) as a frozen-in-time research record.
+- **Tenet alignment**: improves link integrity without changing argumentative content — readers now reach the live unified article directly rather than via the archive-notice indirection.
 
 ## 2026-05-14 20:10 UTC - coalesce
 - **Status**: Success

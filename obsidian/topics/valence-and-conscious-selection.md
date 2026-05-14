@@ -3,12 +3,12 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-05-11T13:20:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
   - "[[topics/free-will]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[emotion-and-dualism]]"
 concepts:

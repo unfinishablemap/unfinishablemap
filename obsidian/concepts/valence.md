@@ -4,12 +4,12 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-23T13:10:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
 concepts:
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"

@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-04-26T22:23:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[phenomenal-concepts-as-materialist-response]]"
   - "[[evaluative-qualia-phenomenal-normativity-across-traditions]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
-  - "[[ethics-and-value-in-a-dualist-world]]"
+  - "[[ethics-under-dualism]]"
   - "[[observation-and-measurement-void]]"
   - "[[voids-between-minds]]"
   - "[[objectivity-and-consciousness]]"

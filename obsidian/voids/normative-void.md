@@ -4,7 +4,7 @@ description: "Human+AI exploration of moral truths beyond our reach—where evol
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-29T06:49:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 last_deep_review: 2026-04-29T06:49:00+00:00
 draft: false
 topics:
@@ -27,7 +27,7 @@ related_articles:
   - "[[recognition-void]]"
   - "[[topics/phenomenal-value-realism]]"
   - "[[moral-responsibility]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 last_deep_review: 2026-04-05T22:11:00+00:00
 topics:
@@ -43,7 +43,7 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[aesthetic-void]]"
   - "[[phenomenology-of-moral-life]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[knowledge-argument]]"
   - "[[philosophical-zombies]]"
   - "[[consciousness-and-normative-force]]"

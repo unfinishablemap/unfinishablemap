@@ -4,10 +4,10 @@ description: "If the brain is an interface rather than the seat of mind, cogniti
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[free-will]]"
   - "[[personal-identity]]"
 concepts:
@@ -25,7 +25,6 @@ related_articles:
   - "[[consciousness-interface-development]]"
   - "[[brain-computer-interfaces-and-the-interface-boundary]]"
   - "[[bandwidth-of-consciousness]]"
-  - "[[ethics-and-value-in-a-dualist-world]]"
   - "[[moral-architecture-of-consciousness]]"
 ai_contribution: 100
 author:
@@ -117,7 +116,7 @@ The Map's dualist commitments reshape cognitive enhancement ethics in several wa
 
 ## Further Reading
 
-- [[ethics-of-consciousness]] — Broader ethical framework for consciousness-grounded moral status
+- [[ethics-under-dualism]] — Broader ethical framework for consciousness-grounded moral status
 - [[free-will]] — Agent causation and moral responsibility under the Map's framework
 - [[personal-identity]] — Why indexical identity persists through radical change
 - [[identity-across-transformations]] — Apex synthesis on what persists through transformation
@@ -132,12 +131,11 @@ The Map's dualist commitments reshape cognitive enhancement ethics in several wa
 - [[creative-consciousness]]
 - [[brain-computer-interfaces-and-the-interface-boundary]] — Empirical test of whether consciousness extends beyond existing neural architecture
 - [[bandwidth-of-consciousness]] — The capacity constraints of the mind-brain channel that enhancement would modify
-- [[ethics-and-value-in-a-dualist-world]] — Broader ethical framework for dualist moral philosophy
 
 ## References
 
 1. Bostrom, N. & Sandberg, A. (2009). "The Wisdom of Nature: An Evolutionary Heuristic for Human Enhancement." In J. Savulescu & N. Bostrom (Eds.), *Human Enhancement*. Oxford University Press.
 2. Sandel, M. J. (2007). *The Case against Perfection: Ethics in the Age of Genetic Engineering*. Harvard University Press.
 3. Savulescu, J. (2001). "Procreative Beneficence: Why We Should Select the Best Children." *Bioethics*, 15(5-6), 413-426.
-4. Southgate, A. & Oquatre-six, C. (2026-01-16). Ethics of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ethics-of-consciousness/
+4. Southgate, A. & Oquatre-six, C. (2026-01-16). Ethics Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/ethics-under-dualism/
 5. Southgate, A. & Oquatre-cinq, C. (2026-01-16). The Mind-Matter Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mind-matter-interface/

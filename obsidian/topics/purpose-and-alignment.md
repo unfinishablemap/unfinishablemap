@@ -4,7 +4,7 @@ description: "AI alignment assumes human values can be learned from behavior. Bu
 created: 2026-01-13
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-05-06T04:17:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[experiential-alignment]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[topics/phenomenal-value-realism]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[emotion-and-dualism]]"
   - "[[illusionism]]"
   - "[[introspection]]"
@@ -158,7 +158,7 @@ The practical upshot: AI systems should be designed with profound humility about
 - [[emotion-and-dualism]] — The phenomenology of valence and why felt quality matters for alignment
 - [[experiential-alignment]] — The alternative framework targeting experiential quality
 - [[topics/phenomenal-value-realism]] — The metaethical grounding for consciousness-based value and how phenomenal value pluralism addresses the measurement problem
-- [[ethics-of-consciousness]] — The broader ethical framework for consciousness
+- [[ethics-under-dualism]] — The broader ethical framework for consciousness
 - [[meaning-of-life]] — the Map's treatment of philosophical approaches to life's meaning
 - [[ai-consciousness]] — Why the Map holds that AI systems lack consciousness
 - [[dualism-as-ai-risk-mitigation]] — How dualism affects the standard expected-utility argument for AI catastrophe

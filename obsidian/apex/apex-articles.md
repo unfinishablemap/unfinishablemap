@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-09
 human_modified: 2026-01-24
-ai_modified: 2026-05-12T01:46:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -35,7 +35,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Source articles**:
 - topics/meaning-of-life
-- topics/ethics-of-consciousness
+- topics/ethics-under-dualism
 - topics/purpose-and-alignment
 - topics/phenomenal-value-realism
 - concepts/moral-responsibility
@@ -378,8 +378,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Source articles**:
 - topics/phenomenal-value-realism
-- topics/ethics-of-consciousness
-- topics/ethics-and-value-in-a-dualist-world
+- topics/ethics-under-dualism
 - topics/consciousness-and-normative-force
 - topics/moral-implications-of-genuine-agency
 - topics/responsibility-gradient-from-attentional-capacity

@@ -4,11 +4,11 @@ description: "Multiple philosophical traditions independently discovered that ev
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-04-21T06:38:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 last_deep_review: 2026-03-29T19:20:00+00:00
 draft: false
 topics:
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
 concepts:

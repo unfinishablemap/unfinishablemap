@@ -4,11 +4,11 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-04-27T07:13:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
   - "[[phenomenology-of-moral-life]]"
 concepts:

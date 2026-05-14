@@ -4,11 +4,11 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-04-20T20:38:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
 concepts:
   - "[[agent-causation]]"
   - "[[mental-causation-and-downward-causation]]"
@@ -178,7 +178,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [[quantum-indeterminacy-free-will]] — How quantum indeterminacy supports libertarian free will and responds to luck
 - [[topics/free-will]] — The broader free will question and the Map's position
 - [[agent-causation]] — Agent vs. event causation in detail
-- [[ethics-of-consciousness]] — Consciousness as the foundation of moral status
+- [[ethics-under-dualism]] — Consciousness as the foundation of moral status
 - [[mental-causation-and-downward-causation|mental causation]] — How consciousness can cause physical effects
 - [[illusionism]] — The eliminativist challenge and why it fails to undermine desert
 - [[decoherence]] — The quantum challenge and biological responses

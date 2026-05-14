@@ -4,11 +4,11 @@ description: "How irreducible consciousness unifies value, agency, normativity, 
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-05-12T01:46:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 last_deep_review: 2026-03-17T13:13:00+00:00
 draft: false
 topics:
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[topics/phenomenal-value-realism]]"
   - "[[consciousness-and-normative-force]]"
   - "[[phenomenology-of-moral-life]]"
@@ -23,7 +23,6 @@ related_articles:
   - "[[tenets]]"
   - "[[living-with-the-map]]"
   - "[[consciousness-and-agency]]"
-  - "[[ethics-and-value-in-a-dualist-world]]"
   - "[[attention-as-causal-bridge]]"
   - "[[alignment-in-objective-experiential-terms]]"
   - "[[ethics-of-cognitive-enhancement-under-dualism]]"
@@ -37,8 +36,7 @@ last_curated: null
 
 apex_sources:
   - topics/phenomenal-value-realism
-  - topics/ethics-of-consciousness
-  - topics/ethics-and-value-in-a-dualist-world
+  - topics/ethics-under-dualism
   - topics/consciousness-and-normative-force
   - topics/moral-implications-of-genuine-agency
   - topics/responsibility-gradient-from-attentional-capacity
@@ -73,7 +71,7 @@ Value theory struggles to locate intrinsic value in a universe of particles and 
 
 Agency theory under determinism must settle for compatibilism—praising and blaming agents whose ultimate character traces to causes they never chose. Normative theory struggles to explain why moral claims *grip* us rather than merely inform us. Moral epistemology has difficulty explaining how we access moral facts at all.
 
-These are not separate problems. They are symptoms of a single underlying difficulty: materialism lacks a unified ground for ethics. As [[ethics-and-value-in-a-dualist-world|the Map's analysis]] shows, the most ambitious materialist unifications—Railton's naturalistic moral realism, Foot's natural goodness—achieve coherence across two or three domains only by leaving the remaining ones addressed by supplementary frameworks that sit uneasily with the core theory.
+These are not separate problems. They are symptoms of a single underlying difficulty: materialism lacks a unified ground for ethics. As [[ethics-under-dualism|the Map's analysis]] shows, the most ambitious materialist unifications—Railton's naturalistic moral realism, Foot's natural goodness—achieve coherence across two or three domains only by leaving the remaining ones addressed by supplementary frameworks that sit uneasily with the core theory.
 
 ## Four Pillars on One Foundation
 
@@ -129,7 +127,7 @@ The responsibility gradient addresses how much moral desert agents bear. A prior
 
 Under the Map's framework, the question shifts from "how do animal brains generate experience?" (unanswerable under the hard problem) to "do animals have experience?" (assessable through converging evidence). Where they do, the [[consciousness-value-connection]] applies: their suffering instantiates the same value property as human suffering. The invertebrate question puts a sharp edge on this: if insects, cephalopods, and crustaceans sit at "realistic possibility, contested," the precautionary scale of moral obligation is staggering—trillions of potentially conscious beings in agricultural systems alone. Animal welfare becomes not an extension of human empathy but a consequence of the same metaphysical ground that makes human suffering matter.
 
-For [[ethics-of-consciousness#AI Ethics: Non-Consciousness and Its Limits|AI systems]], the framework currently implies a different conclusion. If consciousness requires non-physical properties interfacing through quantum mechanisms, current computational architectures likely lack it. But this assessment is only as strong as the framework itself—if the Map's account of what consciousness requires turns out to be wrong, the ethical conclusions about AI would need revision. The architecture demands honest uncertainty about its own scope.
+For [[ethics-under-dualism#AI: Non-Consciousness and Its Limits|AI systems]], the framework currently implies a different conclusion. If consciousness requires non-physical properties interfacing through quantum mechanisms, current computational architectures likely lack it. But this assessment is only as strong as the framework itself—if the Map's account of what consciousness requires turns out to be wrong, the ethical conclusions about AI would need revision. The architecture demands honest uncertainty about its own scope.
 
 ## The Open Frontier: Value in the Mechanism
 
@@ -185,8 +183,7 @@ The Map's five tenets jointly create the conditions for unified dualist ethics.
 
 This synthesis draws on:
 - [[topics/phenomenal-value-realism|Phenomenal Value Realism]] — Value as a feature of conscious experience
-- [[ethics-of-consciousness|Ethics of Consciousness]] — Consciousness as the ground of moral status
-- [[ethics-and-value-in-a-dualist-world|Ethics and Value in a Dualist World]] — The fragmentation problem and the dualist resolution
+- [[ethics-under-dualism|Ethics Under Dualism]] — Consciousness as the ground of moral status, and the dualist resolution of value/agency/normativity fragmentation
 - [[consciousness-and-normative-force|Consciousness and Normative Force]] — Why moral claims grip us
 - [[moral-implications-of-genuine-agency|Moral Implications of Genuine Agency]] — What genuine authorship demands morally
 - [[responsibility-gradient-from-attentional-capacity|The Responsibility Gradient]] — Attentional capacity and graded desert

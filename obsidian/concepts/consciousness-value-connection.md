@@ -4,11 +4,11 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-04-16T04:19:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
 concepts:
   - "[[phenomenal-value-realism]]"
   - "[[evaluative-phenomenal-character]]"
@@ -182,7 +182,7 @@ These conditions do not currently obtain. The connection stands.
 - [[topics/phenomenal-value-realism]] — How consciousness-grounded value addresses metaethical challenges, with phenomenal properties constituting value
 - [[meaning-of-life]] — How consciousness-grounded value provides meaning
 - [[emotion-and-dualism]] — Valence as the phenomenal dimension of good and bad
-- [[ethics-of-consciousness]] — Moral implications of the consciousness-value connection
+- [[ethics-under-dualism]] — Moral implications of the consciousness-value connection
 - [[experiential-alignment]] — Operationalizing the connection for AI
 - [[purpose-and-alignment]] — Why AI alignment depends on this view
 - [[qualia]] — The qualitative properties that carry value

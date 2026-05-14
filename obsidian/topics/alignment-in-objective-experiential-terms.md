@@ -4,11 +4,11 @@ description: "If phenomenal qualities are real features of reality, the badness 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-05-06T14:07:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[meaning-of-life]]"
 concepts:
   - "[[experiential-alignment]]"

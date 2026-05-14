@@ -4,7 +4,7 @@ description: "Philosophy of mind as a field—its central questions, major posit
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-23T12:53:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ The field organises around several core problems:
 
 - **[[personal-identity|Personal identity]]**: What makes a person the same conscious subject across time? Is identity grounded in psychological continuity, physical continuity, or something else?
 
-These problems are not merely academic puzzles. They determine how we think about [[topics/free-will|free will]] (if consciousness is epiphenomenal, libertarian freedom is impossible), [[ethics-of-consciousness|moral status]] (which entities deserve moral consideration depends on which are conscious), [[ai-consciousness|machine consciousness]] (whether functional equivalence suffices for experience), and what kind of beings we are.
+These problems are not merely academic puzzles. They determine how we think about [[topics/free-will|free will]] (if consciousness is epiphenomenal, libertarian freedom is impossible), [[ethics-under-dualism|moral status]] (which entities deserve moral consideration depends on which are conscious), [[ai-consciousness|machine consciousness]] (whether functional equivalence suffices for experience), and what kind of beings we are.
 
 ## Major Positions
 

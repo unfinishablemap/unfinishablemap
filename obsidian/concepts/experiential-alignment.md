@@ -4,12 +4,12 @@ description: "AI should target experiential quality, not preference satisfaction
 created: 2026-01-17
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-04-05T18:48:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
   - "[[ai-consciousness]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
 concepts:
   - "[[topics/phenomenal-value-realism]]"
   - "[[qualia]]"
@@ -258,7 +258,7 @@ The task of specifying experiential targets is itself part of the inquiry that A
 
 - [[purpose-and-alignment]] — The broader context connecting alignment to life's purpose
 - [[topics/phenomenal-value-realism]] — The metaethical position grounding experiential value
-- [[ethics-of-consciousness]] — How consciousness grounds both moral patienthood and agency
+- [[ethics-under-dualism]] — How consciousness grounds both moral patienthood and agency
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — First-person methods for investigating experience
 - [[ai-consciousness]] — Why AI may lack the consciousness to understand preferences from inside
 - [[illusionism]] — The strongest challenge to taking phenomenal consciousness seriously

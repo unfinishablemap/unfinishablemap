@@ -4,11 +4,11 @@ description: "The full arc of moral consciousness—from the pre-reflective stri
 created: 2026-02-08
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-04-26T16:07:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[moral-implications-of-genuine-agency]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[topics/free-will]]"
   - "[[meaning-of-life]]"
 concepts:
@@ -140,7 +140,7 @@ The phenomenology of moral life connects to the Map's [[tenets|foundational comm
 
 - [[topics/phenomenal-value-realism]] — The metaethical framework: phenomenal properties constitute value
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
-- [[ethics-of-consciousness]] — Ethical implications of consciousness-grounded value
+- [[ethics-under-dualism]] — Ethical implications of consciousness-grounded value
 - [[evaluative-phenomenal-character]] — Unified treatment of moral perception, phenomenal normativity, and the first-person investigation of evaluative experience
 - [[consciousness-and-normative-force]] — The shared phenomenal architecture of normative demands
 - [[moral-implications-of-genuine-agency]] — What follows for moral life when agency is real

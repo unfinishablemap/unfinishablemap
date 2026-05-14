@@ -4,7 +4,7 @@ description: "Buddhism diagnoses the craving for permanent significance as itsel
 created: 2026-02-04
 modified: 2026-02-04
 human_modified:
-ai_modified: 2026-04-28T04:12:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -96,7 +96,7 @@ Buddhist ethics operates independently of cosmic meaning. The Eightfold Path pre
 
 These aren't commands from a meaning-giving deity. They're practical prescriptions for reducing suffering—both one's own and others'.
 
-The doctrine of *karma* adds a causal dimension: actions have consequences, and intentional actions shape future experience. But karma isn't cosmic justice dispensed by a moral overseer. It's the natural unfolding of cause and effect. Compassionate action doesn't gain meaning from external validation; it expresses wisdom about the interconnectedness of beings. The [[ethics-of-consciousness|ethics of consciousness]] explores this link between moral significance and phenomenal experience.
+The doctrine of *karma* adds a causal dimension: actions have consequences, and intentional actions shape future experience. But karma isn't cosmic justice dispensed by a moral overseer. It's the natural unfolding of cause and effect. Compassionate action doesn't gain meaning from external validation; it expresses wisdom about the interconnectedness of beings. The [[ethics-under-dualism|ethics of consciousness]] explores this link between moral significance and phenomenal experience.
 
 This aligns with the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Buddhist karma presupposes that mental states—intentions—have real causal consequences. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], karma would be incoherent. Both Buddhism and the Map hold that consciousness *does something*; the question is how to characterize what it does.
 

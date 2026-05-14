@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal and epiphenomenalism made u
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[consciousness-and-neurodegenerative-disease]]"
   - "[[phenomenology-of-cognitive-capacity]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[valence-and-conscious-selection]]"
   - "[[clinical-phenomenology-and-altered-experience]]"

@@ -4,11 +4,11 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-05-11T13:20:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[emotion-and-dualism]]"
 concepts:
   - "[[evaluative-phenomenal-character]]"
@@ -250,7 +250,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[phenomenology-of-moral-life]] — The full arc of moral consciousness from perception through deliberation to choice
 - [[meaning-of-life]] — How consciousness grounds meaning
-- [[ethics-of-consciousness]] — Ethical implications of consciousness-grounded value
+- [[ethics-under-dualism]] — Ethical implications of consciousness-grounded value
 - [[experiential-alignment]] — Operationalising phenomenal value realism for AI alignment
 - [[alignment-in-objective-experiential-terms]] — Why phenomenal qualities ground genuinely objective alignment criteria
 - [[purpose-and-alignment]] — Why AI alignment should target experiential quality

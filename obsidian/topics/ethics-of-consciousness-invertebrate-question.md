@@ -4,7 +4,7 @@ description: "Dualism implies moral obligations wherever consciousness couples w
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-05-06T12:16:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[invertebrate-consciousness-as-interface-test]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[animal-consciousness]]"
   - "[[consciousness-in-simple-organisms]]"
   - "[[phenomenal-value-realism]]"
@@ -84,7 +84,7 @@ The Map's [[tenets#^occams-limits|fifth tenet]] reinforces this point. Dismissin
 
 ## Moral Status Without Moral Agency
 
-Most invertebrates that may be conscious are unlikely to be moral *agents*—beings capable of recognising and responding to moral claims. A bee can suffer but probably cannot deliberate about whether to cause suffering. Under the Map's framework, where [[moral-responsibility|moral responsibility]] requires conscious [[agent-causation|agent causation]], invertebrates are moral patients—beings toward whom we have obligations—without being moral agents who bear obligations themselves. The [[ethics-of-consciousness|broader ethics of consciousness]] article develops this patient/agent distinction and the graduated confidence framework; the invertebrate case extends that framework to its most challenging frontier.
+Most invertebrates that may be conscious are unlikely to be moral *agents*—beings capable of recognising and responding to moral claims. A bee can suffer but probably cannot deliberate about whether to cause suffering. Under the Map's framework, where [[moral-responsibility|moral responsibility]] requires conscious [[agent-causation|agent causation]], invertebrates are moral patients—beings toward whom we have obligations—without being moral agents who bear obligations themselves. The [[ethics-under-dualism|broader ethics of consciousness]] article develops this patient/agent distinction and the graduated confidence framework; the invertebrate case extends that framework to its most challenging frontier.
 
 This asymmetry is familiar from human ethics (infants and severely cognitively impaired humans are moral patients but not full moral agents). But the invertebrate case extends it to an unfamiliar scale. If trillions of moral patients exist in agricultural systems, in ecosystems affected by human activity, and underfoot on every walk, the total weight of moral obligation becomes staggering.
 
@@ -117,7 +117,7 @@ The [[tenets#^occams-limits|fifth tenet]]—that parsimony is unreliable with in
 ## Further Reading
 
 - [[invertebrate-consciousness-as-interface-test]]
-- [[ethics-of-consciousness]]
+- [[ethics-under-dualism]]
 - [[animal-consciousness]]
 - [[consciousness-in-simple-organisms]]
 - [[phenomenal-value-realism]]

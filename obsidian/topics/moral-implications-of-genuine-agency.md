@@ -4,11 +4,11 @@ description: "If consciousness causes actions, morality changes from useful conv
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-29T14:55:00+00:00
+ai_modified: 2026-05-14T20:42:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
-  - "[[ethics-of-consciousness]]"
+  - "[[ethics-under-dualism]]"
   - "[[phenomenology-of-moral-life]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
 concepts:
@@ -143,7 +143,7 @@ A more honest framing: this is a philosophical framework whose grounding is larg
 - [[moral-responsibility]]
 - [[agent-causation]]
 - [[topics/free-will]]
-- [[ethics-of-consciousness]]
+- [[ethics-under-dualism]]
 - [[phenomenology-of-moral-life]]
 - [[evaluative-phenomenal-character|moral phenomenology and perception]] — The felt character of wrongness, obligation, and guilt that makes moral deliberation phenomenally serious
 - [[consciousness-and-moral-agency-under-duress]]
