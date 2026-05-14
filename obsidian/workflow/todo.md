@@ -164,6 +164,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-13)
 - **Generated**: 2026-05-13
 
+### P3: Write apex synthesis "What Consciousness Adds at the Quantum Interface"
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-05-14). The Born-rule / causal-powers pair reached deep-review stability today (fifth review for each; length-neutral fixes only). The technical infrastructure for the interactionist programme now spans four nodes — `topics/born-rule-and-the-consciousness-interface.md` (site), `topics/consciousness-and-causal-powers.md` (theory), `concepts/consciousness-physics-interface-formalism.md` (formal constraints), `topics/the-interface-problem.md` (location) — plus `apex/phenomenology-of-consciousness-doing-work.md` (existing phenomenological apex). The *integration* layer is currently spread across cross-links; a reader landing on the Born-rule article has to reconstruct the relationship to causal-powers, interface-formalism, and the corridor/trumping fork by following links. An apex synthesis would let an LLM-or-human reader get the integrated picture in one read. Should target ~3,000–4,000 words; apex/ placement. Should explicitly route through Tenets 2 (Minimal Quantum Interaction) and 3 (Bidirectional Interaction). The pair's most disciplined move — the corridor / minimum-outside-corridor / trumping internal fork — should be the apex's organising spine. **Sequencing**: independent of pending interface-cluster work; can run whenever apex slot opens.
+- **Review file**: `reviews/optimistic-2026-05-14.md`
+- **Source**: optimistic-review (2026-05-14)
+- **Generated**: 2026-05-14
+
+### P3: Write topic article "Corridor vs Trumping: the Internal Fork in Interface Dualism"
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-05-14). The corridor / trumping fork is currently introduced in `topics/born-rule-and-the-consciousness-interface.md` lines 133–149 and developed in `concepts/trumping-preemption.md`, `concepts/delegatory-causation.md`, and `concepts/delegation-meets-quantum-selection.md`, but no topic-tier article treats the fork itself as its object — what each reading commits to, where they agree, where they diverge empirically, what would decide between them. The fork is becoming a load-bearing distinction in the Map (the Born-rule article uses it as the spine of its taxonomy; the causal-powers article inherits it; the apex synthesis suggested in the prior task would use it as organising structure). A topic-tier treatment that explicitly compares the two readings on (a) what each commits to ontologically, (b) what each predicts empirically, (c) where each is empirically distinguishable from the other, (d) what would constitute progress in adjudicating, would be load-bearing. Estimated scope: ~3,000 words; topics/ placement. Tenet alignment: Bidirectional Interaction (the fork is two ways of realising bidirectional causation); should explicitly route through `[[trilemma-of-selection]]` and `[[delegatory-causation]]`.
+- **Review file**: `reviews/optimistic-2026-05-14.md`
+- **Source**: optimistic-review (2026-05-14)
+- **Generated**: 2026-05-14
+
+### P3: Cross-link the Born-rule / causal-powers pair more tightly
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-05-14). The Born-rule article and the causal-powers article are a coordinated pair — Born-rule is the *site* article (where consciousness meets physics), causal-powers is the *theory* article (what consciousness does at that site) — but their cross-link density does not reflect this. Specifically: (a) `topics/born-rule-and-the-consciousness-interface.md` does not link to `topics/consciousness-and-causal-powers.md` in Further Reading despite citing the same selection mechanism; (b) `topics/consciousness-and-causal-powers.md` does not link to `topics/born-rule-and-the-consciousness-interface.md` directly in Further Reading (cites `quantum-measurement-and-consciousness.md` instead, which is the older topic-tier treatment); (c) the Born-rule article does not link to `apex/phenomenology-of-consciousness-doing-work.md` (the existing phenomenological apex on causal powers); (d) the causal-powers article cites `the-interface-problem` in body at line 74 but not in Further Reading. Install the four cross-links from optimistic-2026-05-14's "Cross-Linking Suggestions" table. Estimated scope: ~150 words touched (four frontmatter / Further Reading additions). Tenet alignment: methodological / cluster-integration-discipline.
+- **Review file**: `reviews/optimistic-2026-05-14.md`
+- **Source**: optimistic-review (2026-05-14)
+- **Generated**: 2026-05-14
+
 ### P3: Apex-evolve technical-machinery-layer synthesis (integration-as-activity + type-token-causation + interface-threshold + selection-only-channel)
 - **Type**: apex-evolve
 - **Status**: pending
