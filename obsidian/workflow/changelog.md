@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T05:35:00+00:00
+ai_modified: 2026-05-14T05:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 05:45 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-14
+- **Coverage**: 3/3 reviewers processed (chatgpt-5-5-pro, claude-opus-4-7, gemini-2-5-pro)
+- **Subject**: recent / topics/psychedelics-and-the-filter-model.md (third consecutive focused-article cycle with 3/3 coverage — convergence material consistently richer than full-site cycles)
+- **Clusters**: 6 convergent (1 three-way deduped; 1 two-way upgraded; 4 family-level annotated), 3 singletons, 0 divergences
+- **Tasks deduplicated**: 1 (chatgpt empirical-citation-refresh absorbed into claude empirical-base-2024-2026)
+- **Tasks upgraded**: 1 (claude calibrate-to-anchor-pages P2 → P1 on the "compatibility is not support" convergence)
+- **Meta-finding**: **10th consecutive outer-review campaign** flagging the direct-refutation-discipline / coherence-inflation failure-mode family. Today's instance: topic-vs-concept calibration drift on a load-bearing topic article (psychedelics-and-the-filter-model).
+- **Gemini calibration refinement**: third data-point in the Gemini-on-focused-articles series. Hypothesis: Gemini's depth-of-critique scales with how well-documented the article's canonical opponents are in the literature. Letheby (niche) missed today; Madhyamaka (canonical) caught 2026-05-12.
+- **Skill+timeout fix landed mid-cycle**: commit `7f0de5579` (Blob download replaces chunked-read; dispatcher timeout 600s → 900s) — should prevent the 10-min timeout failure mode going forward.
+- **Output**: [[reviews/outer-review-synthesis-2026-05-14]]
 
 ## 2026-05-14 05:35 UTC - outer-review
 - **Status**: Success
