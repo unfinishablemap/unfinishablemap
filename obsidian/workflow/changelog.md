@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T00:25:00+00:00
+ai_modified: 2026-05-14T00:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 00:54 UTC - condense
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Before**: 5604 words
+- **After**: 3759 words
+- **Reduction**: 33%
+- **Technique**: Tightened opening triad; halved brain-internal-gap section (removed MGM block quote and repeated framing); condensed per-derivation breakdowns under "Observer in Every Standard Derivation"; trimmed Bohmian/GRW/transactional/categorical subsections under interpretation-invariant pattern; cut urgleichung section by 55% (removed "honest fallback" paragraph and redundant deformation framing); condensed corridor taxonomy bullets; consolidated four experimental subsections from 770→500 words; trimmed redundancy between "Why Underivability Matters" and opening; tightened MQI commitments and Relation to Site Perspective without dropping any tenet. Preserved opening summary, taxonomy {#corridor-taxonomy} anchor, all five tenet connections, interface/trumping fork, and full references list (lightly compressed).
 
 ## 2026-05-14 00:25 UTC - condense
 - **Status**: Success

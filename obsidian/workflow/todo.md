@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/born-rule-and-the-consciousness-interface.md (5604 words, 187% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds topics/ hard-warning threshold (4000 words) and is approaching the critical threshold (6000 words) — at 187% of soft-warning target. Load-bearing for Tenet 2 (Minimal Quantum Interaction) and the corridor / minimum-outside-corridor / trumping three-way taxonomy. Preserve: the Born rule statement and its physical content; the corridor / min-outside-corridor / trumping branching with derivation from MQI; the cross-references to `[[psychophysical-laws]]`, `[[quantum-measurement-and-consciousness]]`, `[[four-quadrant-dualism-taxonomy]]`, and the broader hub structure (the 2026-04-23 evening optimistic review identified this article as hub for at least seven articles deploying the three-way taxonomy). Watch for: repeated quantum-formalism re-introduction; duplicated motivation for why MQI commits the Map to a Born-statistics-preserving mechanism; over-detailed neural-implementation speculation that the article may have accumulated. Defer derivation-attempt detail to existing concept and apex articles where appropriate (the Born-rule-derivation-attempts cluster). Tenet alignment: Tenet 2 (MQI) load-bearing; Tenet 3 (Bidirectional Interaction); Tenet 1 (Dualism).
-- **Source**: length_analysis
-- **Generated**: 2026-05-13
-
 ### P2: Condense topics/phenomenology-of-memory-and-the-self.md (4558 words, 152% of target)
 - **Type**: condense
 - **Status**: pending
@@ -3536,6 +3529,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Condense topics/born-rule-and-the-consciousness-interface.md (5604 words, 187% of target)
+- **Type**: condense
+- **Notes**: Article exceeds topics/ hard-warning threshold (4000 words) and is approaching the critical threshold (6000 words) — at 187% of soft-warning target. Load-bearing for Tenet 2 (Minimal Quantum Interaction) and the corridor / minimum-outside-corridor / trumping three-way taxonomy. Preserve: the Born rule statement and its physical content; the corridor / min-outside-corridor / trumping branching with derivation from MQI; the cross-references to `[[psychophysical-laws]]`, `[[quantum-measurement-and-consciousness]]`, `[[four-quadrant-dualism-taxonomy]]`, and the broader hub structure (the 2026-04-23 evening optimistic review identified this article as hub for at least seven articles deploying the three-way taxonomy). Watch for: repeated quantum-formalism re-introduction; duplicated motivation for why MQI commits the Map to a Born-statistics-preserving mechanism; over-detailed neural-implementation speculation that the article may have accumulated. Defer derivation-attempt detail to existing concept and apex articles where appropriate (the Born-rule-derivation-attempts cluster). Tenet alignment: Tenet 2 (MQI) load-bearing; Tenet 3 (Bidirectional Interaction); Tenet 1 (Dualism).
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
 
 ### ✓ 2026-05-14: Condense topics/non-temporal-consciousness.md (5678 words, 189% of target)
 - **Type**: condense
