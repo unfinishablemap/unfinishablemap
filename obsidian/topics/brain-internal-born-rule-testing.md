@@ -4,7 +4,7 @@ description: "The corridor reading of Tenet 2 predicts no Born-statistical signa
 created: 2026-05-14
 modified: 2026-05-14
 human_modified:
-ai_modified: 2026-05-14T17:19:00+00:00
+ai_modified: 2026-05-14T19:10:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-14
 last_curated:
-last_deep_review:
+last_deep_review: 2026-05-14T19:10:00+00:00
 ---
 
 The Map's corridor reading of [[tenets#^minimal-quantum-interaction|Tenet 2]] — consciousness selects which Born-distributed outcome actualises but does not bend the distribution — is the only reading of Minimal Quantum Interaction that is invisible to ensemble Born-rule tests by construction. That invisibility looks unfalsifiable, and answering the look is this article's job. The Born rule has been tested to roughly 10⁻² in photon triple-slit experiments (Sinha et al. 2010), tightened by atomic and high-energy work since (Phys. Rev. D 2025), and uniquely derived from causally consistent steering in generalised probabilistic theories (Torres Alegre 2025). No published experiment yet probes the rule inside living neural tissue during an act of conscious selection. The corridor reading exploits exactly this gap.
@@ -46,7 +46,7 @@ Foreclosing the corridor would not require a single null result. It would requir
 
 ## What the Corridor Is
 
-The corridor reading holds that consciousness biases which definite outcome emerges from the post-decoherence mixture without redistributing probability mass over alternatives — single-event selection without ensemble signature. It is the strictest reading of Tenet 2 in the [[channel-class-taxonomy|channel-class taxonomy]]: Class 1, the [[selection-only-channel|selection-only channel]]. The mind sees the prior distribution {p₁, …, p_N} that physics specifies, picks among the alternatives, and long-run frequency converges to the Born distribution exactly. The five-constraint corridor — conservation, no-signalling, second-order interference preservation, decoherence consistency, and Born compliance — is satisfied trivially. The trade-off is severe: by Han (2016) the per-trial Shannon capacity of a Born-compliant channel converges to zero as the number of trials grows.
+The corridor reading holds that consciousness selects which definite outcome emerges from the post-decoherence mixture without redistributing probability mass over alternatives — single-event selection without ensemble signature. It is the strictest reading of Tenet 2 in the [[channel-class-taxonomy|channel-class taxonomy]]: Class 1, the [[selection-only-channel|selection-only channel]]. The mind sees the prior distribution {p₁, …, p_N} that physics specifies, picks among the alternatives, and long-run frequency converges to the Born distribution exactly. The five-constraint corridor — conservation, no-signalling, second-order interference preservation, decoherence consistency, and Born compliance — is satisfied trivially. The trade-off is severe: by Han (2016) the per-trial Shannon capacity of a Born-compliant channel converges to zero as the number of trials grows.
 
 A reading slightly outside the corridor — *probability-bias* — admits a small per-event deviation ε. Probability-bias channels reweight {pᵢ} to {pᵢ′} subject to Σpᵢ′ = 1. The empirical ceiling from RNG meta-analysis is roughly ε ≈ 10⁻⁴ (Bösch et al. 2006), tightened toward the null at typical scales by preregistered Bayesian work (Maier & Dechamps 2018). The corridor is what survives categorical commitment to no deviation; probability-bias is what survives if the empirical ceiling permits a non-zero ε at sub-RNG-detection levels brain-internally.
 
@@ -56,7 +56,7 @@ The article's working question: what would shut both readings, forcing the Map e
 
 Every precision test of the Born rule lives in one of four regimes: optical (triple-slit, double-slit which-way), atomic/molecular (interferometry up to ~25,000 amu), superconducting-qubit, or high-energy. Sinha et al. (2010) measured Sorkin's third-order interference parameter at less than 10⁻² of the second-order contribution; subsequent optical and high-energy work has tightened the bound. The Masanes-Galley-Müller (2019) and Torres Alegre (2025) derivations give conditional theorems: *if* purification, steering, exact no-signalling, finite-parameter state estimation, and tensor-product subsystem independence hold, then the Born rule is uniquely fixed. The arguments are mathematically airtight; their empirical status is that the premises have been validated in photon-atom-qubit settings and not in brains.
 
-The brain-internal regime sits outside all four tested regimes. Neural tissue is wet, warm, biological, with macroscopic mass scales relevant to the Diósi-Penrose threshold, contested claims about microtubule coherence at functionally relevant scales, and an open question about whether the standard tensor-product factorisation between "the brain" and "the rest" is empirically tested at the scale a conscious-selection event would occupy. None of the precision Born-rule data transfers without an inference step the literature has not pressure-tested.
+The brain-internal regime sits outside all four tested regimes. Neural tissue is wet, warm, biological, with macroscopic mass scales relevant to the Diósi-Penrose threshold, contested claims about microtubule coherence at functionally relevant scales (the locus of Tegmark's 2000 decoherence-skeptic argument), and an open question about whether the standard tensor-product factorisation between "the brain" and "the rest" is empirically tested at the scale a conscious-selection event would occupy. None of the precision Born-rule data transfers without an inference step the literature has not pressure-tested.
 
 This is the brain-internal gap. The corridor reading lives in it.
 
@@ -161,10 +161,11 @@ The corridor, then, is not unfalsifiable. It is unfalsifiable *by current instru
 7. Maier, M. A., & Dechamps, M. C. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology* 9: 379.
 8. Masanes, L., Galley, T. D., & Müller, M. P. (2019). The measurement postulates of quantum mechanics are operationally redundant. *Nature Communications* 10: 1361.
 9. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics* 76(4): 1267–1305.
-10. Sinha, U., Couteau, C., Jennewein, T., Laflamme, R., & Weihs, G. (2010). Ruling out multi-order interference in quantum mechanics. *Science* 329: 418–421.
-11. Sorkin, R. D. (1994). Quantum mechanics as quantum measure theory. *Modern Physics Letters A* 9: 3119–3128.
-12. Stapp, H. P. (n.d.). Selected works. Lawrence Berkeley National Laboratory. https://www-physics.lbl.gov/~stapp/
-13. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E* 61: 4194–4206.
-14. Torres Alegre, G. (2025). Causal consistency selects the Born rule: a derivation from steering in generalised probabilistic theories. arXiv:2512.12636.
-15. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
-16. Southgate, A. & Oquatre-six, C. (2026-04-09). Falsification Roadmap for the Interface Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/falsification-roadmap-for-the-interface-model/
+10. Schlosshauer, M. (2025). Quantum decoherence. *Physics Reports* 1063: 1–64.
+11. Sinha, U., Couteau, C., Jennewein, T., Laflamme, R., & Weihs, G. (2010). Ruling out multi-order interference in quantum mechanics. *Science* 329: 418–421.
+12. Sorkin, R. D. (1994). Quantum mechanics as quantum measure theory. *Modern Physics Letters A* 9: 3119–3128.
+13. Stapp, H. P. (n.d.). Selected works. Lawrence Berkeley National Laboratory. https://www-physics.lbl.gov/~stapp/
+14. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E* 61: 4194–4206.
+15. Torres Alegre, G. (2025). Causal consistency selects the Born rule: a derivation from steering in generalised probabilistic theories. arXiv:2512.12636.
+16. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
+17. Southgate, A. & Oquatre-six, C. (2026-04-09). Falsification Roadmap for the Interface Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/falsification-roadmap-for-the-interface-model/

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T18:41:00+00:00
+ai_modified: 2026-05-14T19:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 19:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-internal-born-rule-testing]]
+- **Word count**: 2959 → 2976 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing Schlosshauer 2025 reference entry; dangling Tegmark 2000 reference now tied into prose)
+- **Enhancements made**: 1 (replaced "biases" with "selects" at corridor definition for precision — corridor by construction does not redistribute frequencies)
+- **Engagement classifications (editor-only)**: Stapp literal-Zeno reading: Mode One (defective on its own terms via the frequency-of-observation argument); Penrose-Hameroff Orch-OR: Mode Three (framework-boundary marking; Gran Sasso in-framework null on simplest Diósi-Penrose model)
+- **Calibration check**: No possibility/probability slippage detected. Evidential-status language is honest across the five-tier scale; the article explicitly admits the strict corridor reading is "unfalsifiable by current instruments" and specifies plural-and-convergent foreclosure criteria
+- **Attribution accuracy**: All inline citations verified against reference apparatus; Stapp's two readings (Zeno + Heisenberg choice), Orch-OR's non-computability claim, Masanes-Galley-Müller and Torres Alegre's conditional theorems all rendered accurately
+- **Output**: [[reviews/deep-review-2026-05-14-brain-internal-born-rule-testing]]
 
 ## 2026-05-14 18:41 UTC - expand-topic
 - **Status**: Success
