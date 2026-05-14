@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T14:41:00+00:00
+ai_modified: 2026-05-14T15:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 15:10 UTC - condense
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Before**: 4035 words
+- **After**: 3132 words
+- **Reduction**: 22%
+- **Technique**: cut verbose meta-commentary throughout (especially in Cai et al. layer accounting, AST "bridge problem" framing, ADHD/Neglect parallel materialist accounts, and Schwartz/Kral discussion); tightened prose across all sections (removed first names where surname suffices, collapsed double-explanations, trimmed hedges); compressed Tegmark/Stapp decoherence paragraph; reduced Further Reading from 16 items to 10 (combined related links); trimmed References from 37 entries to 29 (removed uncited Chalmers, Cisek-Kalaska, Desmurget, Frankish, Hagger, Husain-Rorden, Michel-Doerig, Neumann, Rizzolatti-1994, Schwartz-Begley-2002, Schwartz-Stapp-Beauregard-2005, Tang; added Kral 2022, Schwartz 1996, Reimers 2009, McKemmish 2009 which the text cites). Preserved opening summary, all clinical subsections, the kaleidoscope table, the entropy-of-option-set forward prediction, all five tenet links in Relation to Site Perspective, and Honest Limitations.
 
 ## 2026-05-14 14:41 UTC - pessimistic-review
 - **Status**: Success

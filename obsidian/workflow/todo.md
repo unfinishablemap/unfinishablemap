@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/attention-and-the-consciousness-interface.md (4035 words, 134% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 4000-word hard threshold for topics/. Preserve core arguments (attention as the operational mechanism of the consciousness–brain interface; selection-trilemma engagement; Schwartz OCD evidence; the bandwidth constraints inherited from `[[filter-theory]]`) while removing redundancy and deferring detailed sub-arguments to linked articles. Check for HTML-comment `<!-- AI REFINEMENT LOG -->` leakage flagged in the queued temporal-cluster hygiene audit; strip or move to a `.refinement-log.md` sidecar per the established pattern. See /condense skill. Length thresholds for topics/: 3000 soft / 4000 hard / 6000 critical.
-- **Source**: length_analysis
-- **Generated**: 2026-05-14
-
 ### P2: Deep review voids/decision-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3568,6 +3561,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Condense topics/attention-and-the-consciousness-interface.md (4035 words, 134% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word hard threshold for topics/. Preserve core arguments (attention as the operational mechanism of the consciousness–brain interface; selection-trilemma engagement; Schwartz OCD evidence; the bandwidth constraints inherited from `[[filter-theory]]`) while removing redundancy and deferring detailed sub-arguments to linked articles. Check for HTML-comment `<!-- AI REFINEMENT LOG -->` leakage flagged in the queued temporal-cluster hygiene audit; strip or move to a `.refinement-log.md` sidecar per the established pattern. See /condense skill. Length thresholds for topics/: 3000 soft / 4000 hard / 6000 critical.
+- **Output**: obsidian/topics/attention-and-the-consciousness-interface.md
 
 ### ✓ 2026-05-14: Condense topics/psychedelics-and-the-filter-model.md (5998 words, 200% of hard threshold)
 - **Type**: condense
