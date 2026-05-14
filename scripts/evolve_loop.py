@@ -64,6 +64,13 @@ CHANGELOG_PATH = REPO_ROOT / "obsidian" / "workflow" / "changelog.md"
 # Add-and-tweet time (8am UTC)
 TWEET_HOUR_UTC = 8
 
+# Literature-drift audit — wall-clock weekly trigger, Tuesday 05:00 UTC.
+# Cadence chosen to be --interval-independent (cycle-triggers drift with speed)
+# and to sit between the 02–04 UTC outer-review commission cluster and the
+# 08:00 UTC tweet trigger. One WebSearch call per run is the cost gate.
+LITERATURE_DRIFT_WEEKDAY = 1  # Monday=0, Tuesday=1
+LITERATURE_DRIFT_HOUR_UTC = 5
+
 # Agentic social posting interval (minutes)
 AGENTIC_SOCIAL_INTERVAL_MINUTES = 45
 
@@ -638,6 +645,23 @@ def should_add_and_tweet(now: datetime, state: EvolutionState) -> bool:
     return state.last_tweet_date != today
 
 
+def should_run_literature_drift(now: datetime, state: EvolutionState) -> bool:
+    """Check if the literature-drift audit should run.
+
+    Runs once per Tuesday at/after LITERATURE_DRIFT_HOUR_UTC. Idempotent via
+    last_runs["literature-drift-review"].date() != today. No Chrome required,
+    so this trigger does not gate on the automation window.
+    """
+    if now.weekday() != LITERATURE_DRIFT_WEEKDAY:
+        return False
+    if now.hour < LITERATURE_DRIFT_HOUR_UTC:
+        return False
+    last_run = state.last_runs.get("literature-drift-review")
+    if last_run is not None and last_run.date() == now.date():
+        return False
+    return True
+
+
 def should_post_agentic_social(now: datetime, state: EvolutionState) -> bool:
     """Check if we should post to agentic social network.
 
@@ -785,6 +809,45 @@ def run_session(
         else:
             log.info("No highlight-worthy work found today")
             state.last_tweet_date = today  # Don't retry today
+
+    # 1.45. Time-triggered: Literature-drift audit, Tuesday 05:00 UTC weekly.
+    # See project/calibration-audit-triple.md (Audit One). One WebSearch call
+    # per run; no Chrome dependency; idempotent via last_runs date check.
+    if should_run_literature_drift(now, state):
+        log.info(
+            f"Literature-drift audit triggered "
+            f"(Tuesday {now.hour:02d}:{now.minute:02d} UTC)"
+        )
+        try:
+            success, output = run_skill(
+                SkillInvocation("literature-drift-review"),
+                timeout_seconds=600,  # 10 min: 1 WebSearch + local edits + todo append
+                verbose=verbose,
+                skip_commit=True,
+            )
+            # Always stamp last_runs so we don't retry the same Tuesday on
+            # failure; the audit re-runs next week regardless of outcome.
+            state.last_runs["literature-drift-review"] = now
+            if success:
+                tasks_executed.append("literature-drift-review")
+                log.info("Literature-drift audit completed")
+                try:
+                    commit_hash = run_agent_commit("literature-drift-review", output)
+                    if commit_hash:
+                        log.info(f"Committed as agent: {commit_hash}")
+                except (GitError, Exception) as e:
+                    log.warning(f"Failed to commit literature-drift audit: {e}")
+            else:
+                log.warning("Literature-drift audit failed (non-fatal)")
+                if output:
+                    for line in output.strip().split("\n")[-5:]:
+                        if line.strip():
+                            log.warning(f"  {line}")
+        except SkillTimeoutError:
+            log.warning("Literature-drift audit timed out (non-fatal)")
+            state.last_runs["literature-drift-review"] = now
+        except Exception as e:
+            log.warning(f"Literature-drift audit error (non-fatal): {e}")
 
     # 1.5. Time-triggered: Post to agentic social network (every 45 minutes)
     if should_post_agentic_social(now, state):

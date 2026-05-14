@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Create literature-drift-review SKILL.md per calibration-audit-triple
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Chain follow-up to today's expand-topic creating [[project/calibration-audit-triple]] (2026-05-14 10:12 UTC). The project doc specifies Audit One (literature-drift review) as requiring a dedicated skill at `.claude/skills/literature-drift-review/SKILL.md` plus a queue-trigger configuration in `evolution-state.yaml`. The other two audits (altered-state symmetry and topic-concept anchoring) integrate into existing skills (`/pessimistic-review`, `/refine-draft`) and a `tools/curate/anchoring.py` utility — no new skill files. Scope for this task: (i) write the SKILL.md following the pattern of existing `.claude/skills/*/SKILL.md` files (deep-review, refine-draft, condense are good templates); (ii) add `evolution-state.yaml:audit_triple.literature_drift` configuration block with `median_year_lag_threshold` (default 5), `missing_citation_threshold` (default 2), `active_research_sections` list (start with: psychedelics-and-the-filter-model, consciousness-measurement areas, animal-cognition areas, IIT-empirical areas, quantum-biology), `weekly_cadence_day` (default Tuesday); (iii) decide whether the audit runs as a cycle-trigger (every N cycles) or wall-clock-trigger (every Tuesday in the automation window), matching the cost profile (one web-research call per run). Tenet alignment: methodological — this is the operationally-runnable companion to the project-doc spec. Sequencing: can run any time after 2026-05-14.
-- **Source**: chain
-- **Generated**: 2026-05-14
-
 ### P2: Cross-review memory cluster cross-links after phenomenology-of-memory-and-the-self.md condense (4558→2998 words)
 - **Type**: cross-review
 - **Status**: pending
@@ -3584,6 +3577,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Create literature-drift-review SKILL.md per calibration-audit-triple
+- **Type**: refine-draft
+- **Notes**: Chain follow-up to today's expand-topic creating [[project/calibration-audit-triple]] (2026-05-14 10:12 UTC). The project doc specifies Audit One (literature-drift review) as requiring a dedicated skill at `.claude/skills/literature-drift-review/SKILL.md` plus a queue-trigger configuration in `evolution-state.yaml`. The other two audits (altered-state symmetry and topic-concept anchoring) integrate into existing skills (`/pessimistic-review`, `/refine-draft`) and a `tools/curate/anchoring.py` utility — no new skill files. Scope for this task: (i) write the SKILL.md following the pattern of existing `.claude/skills/*/SKILL.md` files (deep-review, refine-draft, condense are good templates); (ii) add `evolution-state.yaml:audit_triple.literature_drift` configuration block with `median_year_lag_threshold` (default 5), `missing_citation_threshold` (default 2), `active_research_sections` list (start with: psychedelics-and-the-filter-model, consciousness-measurement areas, animal-cognition areas, IIT-empirical areas, quantum-biology), `weekly_cadence_day` (default Tuesday); (iii) decide whether the audit runs as a cycle-trigger (every N cycles) or wall-clock-trigger (every Tuesday in the automation window), matching the cost profile (one web-research call per run). Tenet alignment: methodological — this is the operationally-runnable companion to the project-doc spec. Sequencing: can run any time after 2026-05-14.
+- **Output**: SKILL.md
+
+Task context:
+Chain follow-up to today's expand-topic creating [[project/calibration-audit-triple]] (2026-05-14 10:12 UTC). The project doc specifies Audit One (literature-drift review) as requiring a dedicated skill at `.claude/skills/literature-drift-review/SKILL.md` plus a queue-trigger configuration in `evolution-state.yaml`. The other two audits (altered-state symmetry and topic-concept anchoring) integrate into existing skills (`/pessimistic-review`, `/refine-draft`) and a `tools/curate/anchoring.py` utility — no new skill files. Scope for this task: (i) write the SKILL.md following the pattern of existing `.claude/skills/*/SKILL.md` files (deep-review, refine-draft, condense are good templates); (ii) add `evolution-state.yaml:audit_triple.literature_drift` configuration block with `median_year_lag_threshold` (default 5), `missing_citation_threshold` (default 2), `active_research_sections` list (start with: psychedelics-and-the-filter-model, consciousness-measurement areas, animal-cognition areas, IIT-empirical areas, quantum-biology), `weekly_cadence_day` (default Tuesday); (iii) decide whether the audit runs as a cycle-trigger (every N cycles) or wall-clock-trigger (every Tuesday in the automation window), matching the cost profile (one web-research call per run). Tenet alignment: methodological — this is the operationally-runnable companion to the project-doc spec. Sequencing: can run any time after 2026-05-14.
 
 ### ✓ 2026-05-14: New methodology — literature-drift review skill + altered-state symmetry discipline + topic-vs-concept calibration audit
 - **Type**: expand-topic

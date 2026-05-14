@@ -4,7 +4,7 @@ import logging
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
-from typing import Optional
+from typing import Any, Optional
 
 import yaml
 
@@ -95,6 +95,11 @@ class EvolutionState:
     failed_tasks: dict[str, int]  # task_title -> retry_count
     recent_tasks: list[TaskRecord] = field(default_factory=list)
 
+    # Free-form config block for the calibration audit triple
+    # (project/calibration-audit-triple.md). The skill reads/writes this
+    # directly via yaml; the dataclass just round-trips it.
+    audit_triple: dict[str, Any] = field(default_factory=dict)
+
     # Legacy fields - kept for backward compatibility during migration
     cadences: dict[str, int] = field(default_factory=dict)
     overdue_thresholds: dict[str, int] = field(default_factory=dict)
@@ -160,6 +165,7 @@ def load_state(path: Path) -> EvolutionState:
         quality=Quality(**data.get("quality", {})),
         failed_tasks=data.get("failed_tasks", {}),
         recent_tasks=recent_tasks,
+        audit_triple=data.get("audit_triple", {}),
         # Legacy fields - load but don't use for scheduling
         cadences=data.get("cadences", {}),
         overdue_thresholds=data.get("overdue_thresholds", {}),
@@ -168,7 +174,22 @@ def load_state(path: Path) -> EvolutionState:
 
 
 def save_state(state: EvolutionState, path: Path) -> None:
-    """Save evolution state to YAML file."""
+    """Save evolution state to YAML file.
+
+    Re-reads audit_triple from disk before writing to preserve any
+    concurrent updates made by skills (literature-drift-review writes
+    its rotation/telemetry directly to this file).
+    """
+    # Refresh audit_triple from disk to avoid clobbering skill writes.
+    audit_triple_on_disk = state.audit_triple
+    if path.exists():
+        try:
+            with open(path, encoding="utf-8") as f:
+                disk_data = yaml.safe_load(f) or {}
+            audit_triple_on_disk = disk_data.get("audit_triple", state.audit_triple)
+        except Exception as e:
+            log.warning(f"Could not re-read audit_triple from {path}: {e}")
+
     # Convert last_runs to serializable format
     last_runs = {}
     for key, value in state.last_runs.items():
@@ -210,6 +231,7 @@ def save_state(state: EvolutionState, path: Path) -> None:
             "max_concepts": state.section_caps.max_concepts,
             "max_voids": state.section_caps.max_voids,
         },
+        "audit_triple": audit_triple_on_disk,
         "convergence_targets": {
             "min_topics": state.convergence_targets.min_topics,
             "min_concepts": state.convergence_targets.min_concepts,
