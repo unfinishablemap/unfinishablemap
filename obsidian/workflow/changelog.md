@@ -5,6 +5,28 @@ ai_modified: 2026-05-14T02:37:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-14 03:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Source**: [[reviews/pessimistic-2026-05-14]]
+- **Word count**: 3209 → ~3,920 (substantive fixes required real engagement; still well below the 4519 pre-condense baseline)
+- **Critical issues addressed**: 4 of 4
+  - (1) AST critique upgraded: identified the unearned foundational move (schema's representation of attention as phenomenal *just is* phenomenality, stipulated not specified); reframed Tallis "misrepresentation presupposes presentation" as a bridge-problem pressure rather than as a question-begging demand for an experiencer; explicit honest noting that "what experiences this?" coherence is the bedrock disagreement.
+  - (2) Falsification: added one model-specific quantitative prediction (phenomenal effort scales with entropy of the option set at threshold crossing, separable from discrimination difficulty); explicit asymmetry acknowledgement that the five "rival-framework vindication" conditions are background-theory failures rather than forward predictions of the interface model.
+  - (3) ADHD and Neglect rewritten to engage integration/access materialist position rather than the cruder identity claim that no contemporary materialist holds.
+  - (4) Cai et al. citation decoupled from third-layer claim; the paper licenses two layers, the third is explicitly the Map's interpretation that goes beyond the empirical work.
+- **Secondary findings addressed**: 8 of 8
+  - (a) Tegmark (2000) engaged in body with the 10⁻¹³ / 10⁻²⁰ second decoherence numbers; Stapp transition-scale response, Penrose-Hameroff microtubule shielding response, Reimers/McKemmish independent-grounds critique, honest residue
+  - (b) Unsourced "2025 evidence of room-temperature quantum effects" removed
+  - (c) Schwartz/OCD dishonest "philosophically significant" framing dropped; result presented as illustrative-case-that-motivated-framing rather than empirical support
+  - (d) Zheng & Meister reframed as behavioural-throughput / sensory-transduction stage comparison rather than misleading "100-million-fold asymmetry" ratio
+  - (e) Sjöberg "the readiness potential cannot be the conscious decision" softened to "one data point against the strong Libet reading"
+  - (f) Witness-consciousness reference qualified — Advaita reading vs Madhyamaka/Dzogchen anti-reification reading; AST rejoinder noted
+  - (g) Relation to Site Perspective openings varied; MWI subsection now engages amplitude-weighting counterargument and honestly marks the disagreement as running at framework boundary rather than as in-MWI refutation
+  - (h) Transit-void claim qualified to moment-of-capture level vs retrospective reconstruction
+- **Engagement classification**: AST critique now Mode Two primary (unsupported foundational move — the stipulated bridge from representation to felt quality) with Mode Three coda (bedrock disagreement on whether "what experiences this?" is coherent); MWI engagement now Mode Three honest (boundary-marking with amplitude-weighting counterargument engaged); ADHD/Neglect now Mode Three (challenge integration materialist to specify why integration tracks lesion topography), not refutation. No label leakage.
+- **Published**: yes
+
 ## 2026-05-14 02:54 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/attention-and-the-consciousness-interface]] (~3,209 words post-2026-05-14 condense; clean label-leakage; 4 substantive defects + 8 secondary findings)

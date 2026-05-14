@@ -389,3 +389,31 @@
   subject_articles:
   - topics/psychedelics-and-the-filter-model.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/3c24edef-3629-4491-9251-b5e0e99f2f53
+  commissioned_at: '2026-05-14T03:29:16.864927+00:00'
+  prompt_summary: Audit psychedelics-and-the-filter-model article
+  target_filename: outer-review-2026-05-14-claude-opus-4-7.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Sorry, message truncated. The article: https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/\
+    \ \u2014 it argues psychedelics (which decrease default-mode-network activity\
+    \ while subjects report expanded consciousness) offer pharmacological support\
+    \ for filter theory over production models. Audit it for: (1) empirical accuracy\
+    \ of the cited neuroimaging claims about DMN suppression and psychedelic phenomenology\
+    \ against 2024\u20132026 literature; (2) argumentative soundness \u2014 does the\
+    \ inference from decreased neural activity to filter theory survive obvious counterarguments;\
+    \ (3) engagement with the strongest production-model rebuttals (entropic brain\
+    \ hypothesis, REBUS, predictive processing accounts); (4) internal consistency\
+    \ with the Map's broader dualist framing \u2014 see https://unfinishablemap.org\
+    \ and the changelog https://unfinishablemap.org/workflow/changelog/ for context\
+    \ (note web index lag means very recent changes may not appear in search). End\
+    \ your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit psychedelics-and-the-filter-model
+  subject_articles:
+  - topics/psychedelics-and-the-filter-model.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-14-chatgpt-5-5-pro.md
