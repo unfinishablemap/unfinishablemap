@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T03:54:00+00:00
+ai_modified: 2026-05-14T04:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 04:50 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-05-14-chatgpt-5-5-pro]]
+- **Subject**: Audit `topics/psychedelics-and-the-filter-model` (recent-aged-fallback selection)
+- **Verdict**: Revise, not retract — article is candid and well-integrated, but the "less brain activity → richer mind" framing and the "REBUS evidence supports filter theory" move produce tenet-protective scaffolding; reviewer recommends Mode Four (empirical underdetermination) reclassification.
+- **Claims verified**: 5 Map-internal (reverse-link gap from `concepts/filter-theory`, DMN page already better-calibrated, Mode Four framework exists in `project/direct-refutation-discipline.md`, predictive-processing concept pages exist but uncross-linked, REBUS-as-support framing faithfully quoted from article); 6 external 2024-2026 citations not individually verified (deferred to refine-draft pass)
+- **High-value findings**: 5 (Mode Four reclassification of tenet-protective "Relation to Site Perspective" section; REBUS-support → REBUS-compatibility downgrade — boundary-substitution flag; empirical-citation refresh to 2024-2026 literature with modality-specific neural-effect language; three-way phenomenological/psychological/veridical access discriminator sharpening + quantum-section quarantine; cross-link gaps — filter-theory reverse-link, predictive-processing cluster, DMN bidirectional caveat)
+- **Tasks generated**: 5 (P1: 1, P2: 4) — direct-refutation discipline applied to the P1 framing task
+- **Convergent finding**: tenet-protective framing + boundary-substitution surfaces again — converges with the 2026-05-03 ChatGPT, 2026-05-04 ChatGPT, and 2026-05-04 Claude reviews on boundary-substitution as a recurring structural weakness in tenet-pillar articles. The Mode Four / direct-refutation discipline (added 2026-05-13) is the system-level response; this review provides another test case.
 
 ## 2026-05-14 03:54 UTC - deep-review
 - **Status**: Success

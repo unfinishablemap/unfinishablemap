@@ -361,9 +361,9 @@
   commissioned_at: '2026-05-14T02:32:05.445671+00:00'
   prompt_summary: Audit psychedelics-and-the-filter-model article (recent-modified)
   target_filename: outer-review-2026-05-14-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-14T04:29:11.614261+00:00'
   failure_reason: null
   prompt_text: "Audit https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/\
     \ \u2014 last substantively revised 2026-05-06 \u2014 on the current accuracy\
