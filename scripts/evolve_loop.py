@@ -662,6 +662,74 @@ def should_run_literature_drift(now: datetime, state: EvolutionState) -> bool:
     return True
 
 
+def run_anchoring_audit(state: EvolutionState, now: datetime) -> int | None:
+    """Run the topic-concept anchoring audit (Audit Three of the calibration
+    audit triple) and append up to N refine-draft tasks to todo.md.
+
+    Returns the number of tasks appended, or None if the audit is disabled
+    or the global task cap is hit. Sub-second cost; safe to run every cycle.
+    See project/calibration-audit-triple.md Audit Three for the spec.
+    """
+    from tools.curate.anchoring import format_refine_task, get_anchoring_flags
+
+    config = state.audit_triple.get("topic_concept_anchoring", {})
+    if not config:
+        return None
+
+    flags = get_anchoring_flags(
+        REPO_ROOT / "obsidian",
+        hedge_density_ratio=float(config.get("hedge_density_ratio", 0.6)),
+        strong_assertion_ratio=float(config.get("strong_assertion_ratio", 1.5)),
+        min_word_count=int(config.get("min_word_count", 400)),
+    )
+
+    todo_path = REPO_ROOT / "obsidian" / "workflow" / "todo.md"
+    if not todo_path.is_file():
+        return None
+    body = todo_path.read_text()
+
+    global_cap = int(state.audit_triple.get("global_task_cap", 6))
+    open_audit_tasks = body.count("**Source**: topic-concept-anchoring-audit")
+    open_audit_tasks += body.count("**Source**: literature-drift-audit")
+    if open_audit_tasks >= global_cap:
+        log.info(
+            f"Anchoring audit skipped: global audit-task cap reached "
+            f"({open_audit_tasks}/{global_cap})"
+        )
+        return 0
+
+    new_flags = [
+        f for f in flags
+        if (
+            f"### P2: Adopt {f.anchor_concept_path.stem} calibration in "
+            f"{f.topic_path.stem}"
+        ) not in body
+    ]
+    headroom = global_cap - open_audit_tasks
+    per_run = int(config.get("max_tasks_per_run", 2))
+    capped = new_flags[: min(per_run, headroom)]
+    if not capped:
+        config["total_audits"] = int(config.get("total_audits", 0)) + 1
+        state.audit_triple["topic_concept_anchoring"] = config
+        return 0
+
+    today_iso = now.date().isoformat()
+    blocks = [format_refine_task(f, today_iso) for f in capped]
+    insertion = "\n".join(blocks) + "\n"
+    if "## Active Tasks\n" not in body:
+        return 0
+    new_body = body.replace(
+        "## Active Tasks\n", "## Active Tasks\n\n" + insertion, 1
+    )
+    todo_path.write_text(new_body)
+
+    config["total_audits"] = int(config.get("total_audits", 0)) + 1
+    config["flagged_audits"] = int(config.get("flagged_audits", 0)) + len(capped)
+    state.audit_triple["topic_concept_anchoring"] = config
+
+    return len(blocks)
+
+
 def should_post_agentic_social(now: datetime, state: EvolutionState) -> bool:
     """Check if we should post to agentic social network.
 
@@ -1264,6 +1332,38 @@ def run_session(
     if is_cycle_complete(state.cycle_position):
         cycles_completed = state.cycle_position // CYCLE_LENGTH
         log.info(f"Cycle {cycles_completed} complete!")
+
+        # Topic-concept anchoring audit — sub-second local audit; runs every
+        # N cycles per audit_triple.topic_concept_anchoring.run_every_n_cycles.
+        # See project/calibration-audit-triple.md Audit Three.
+        every_n = int(
+            state.audit_triple.get("topic_concept_anchoring", {}).get(
+                "run_every_n_cycles", 1
+            )
+        )
+        if every_n > 0 and cycles_completed % every_n == 0:
+            try:
+                added = run_anchoring_audit(state, now)
+                if added is None:
+                    log.info("Anchoring audit disabled (no config); skipped")
+                elif added > 0:
+                    log.info(
+                        f"Anchoring audit: appended {added} refine-draft "
+                        f"task(s) to todo.md"
+                    )
+                    tasks_executed.append("topic-concept-anchoring-audit")
+                    try:
+                        commit_hash = run_agent_commit(
+                            "topic-concept-anchoring-audit", ""
+                        )
+                        if commit_hash:
+                            log.info(f"Committed as agent: {commit_hash}")
+                    except (GitError, Exception) as e:
+                        log.warning(f"Failed to commit anchoring audit: {e}")
+                else:
+                    log.info("Anchoring audit: no new flags")
+            except Exception as e:
+                log.warning(f"Anchoring audit error (non-fatal): {e}")
 
         triggers = get_cycle_triggers(cycles_completed)
         for trigger_task in triggers:

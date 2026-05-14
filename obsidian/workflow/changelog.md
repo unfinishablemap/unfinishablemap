@@ -5,6 +5,14 @@ ai_modified: 2026-05-14T19:10:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-14 19:41 UTC - refine-draft
+- **Status**: Success
+- **File**: chain follow-up to [[project/calibration-audit-triple]] — Audit Three implementation
+- **Changes**: shipped `tools/curate/anchoring.py` (topic-concept anchoring audit), CLI wrapper at `scripts/anchoring_audit.py`, `tests/test_anchoring.py` (21 tests, all passing), `audit_triple.topic_concept_anchoring` config block in `evolution-state.yaml`, cycle-completion hook in `scripts/evolve_loop.py` (`run_anchoring_audit`) that runs the sub-second audit every cycle subject to `global_task_cap` of 6. Implements the spec at [[project/calibration-audit-triple]] §"Audit Three: Topic-Concept Anchoring". Mechanical detection across three checks (hedge density ratio, strong-assertion density ratio, underdetermination markers); fires when ≥2 of 3 fail. Worked exhibit (psychedelics-and-the-filter-model) was previously flagged but no longer fires after today's refine — confirms calibration was brought in line with anchor concepts.
+- **Audit baseline**: 232 flags against current corpus on default thresholds. Per-run cap of 2 and global cap of 6 prevent flood; falsification triggers (20–80% acceptance window) feed `/tune-system`.
+- **Tenet alignment**: methodological enforcement of [[evidential-status-discipline]] and [[direct-refutation-discipline]]; operationalises the 10th-consecutive outer-review-flagged enforcement gap (see [[reviews/outer-review-synthesis-2026-05-14]] finding E).
+- **Published**: yes (local; awaiting automation commit)
+
 ## 2026-05-14 19:10 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/brain-internal-born-rule-testing]]

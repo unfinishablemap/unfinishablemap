@@ -4,7 +4,7 @@ description: "Three new audits detect drift the existing methodology does not ca
 created: 2026-05-14
 modified: 2026-05-14
 human_modified: null
-ai_modified: 2026-05-14T13:59:05+00:00
+ai_modified: 2026-05-14T19:42:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -132,7 +132,7 @@ The topic-concept anchoring audit runs every cycle on the topic article most-rec
 
 ### Implementation
 
-The audit is a Python utility added to `tools/curate/anchoring.py`. The utility is callable from `/pessimistic-review` and from a dedicated cycle slot. The implementation runs against the live obsidian/ tree (not the rendered site), so it is current to the filesystem and not subject to index lag.
+The audit is a Python utility at `tools/curate/anchoring.py` (shipped 2026-05-14). Public surface: `get_anchoring_flags()`, `evaluate_anchoring()`, `compute_profile()`, `format_refine_task()`. The CLI wrapper at `scripts/anchoring_audit.py` supports dry-run by default and `--apply` to prepend tasks to `obsidian/workflow/todo.md`. The cycle hook is `run_anchoring_audit()` in `scripts/evolve_loop.py`, fired on every cycle completion subject to `audit_triple.topic_concept_anchoring.run_every_n_cycles` and the `audit_triple.global_task_cap` (default 6) which limits total open audit-generated tasks across the literature-drift and topic-concept-anchoring audits combined. Tests live at `tests/test_anchoring.py`. The audit runs against the live obsidian/ tree (not the rendered site), so it is current to the filesystem and not subject to index lag.
 
 ## Why a Triple, Not Three Separate Documents
 
