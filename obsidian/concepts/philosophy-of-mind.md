@@ -4,7 +4,7 @@ description: "Philosophy of mind as a field—its central questions, major posit
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-05-14T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
-last_deep_review: 2026-03-23T12:53:00+00:00
+last_deep_review: 2026-05-14T21:38:00+00:00
 ---
 
 Philosophy of mind is the branch of philosophy that investigates the nature of [[consciousness]], [[mental-causation-and-downward-causation|mental causation]], [[intentionality]], and the relationship between mind and body. Its central question — whether conscious experience can be explained in purely physical terms — remains the deepest unsolved problem in philosophy. The Unfinishable Map's five [[tenets]] stake out a specific answer: consciousness is irreducible, causally efficacious, and interacts with the physical world at quantum indeterminacies.
@@ -54,7 +54,7 @@ The field organises around several core problems:
 
 - **[[personal-identity|Personal identity]]**: What makes a person the same conscious subject across time? Is identity grounded in psychological continuity, physical continuity, or something else?
 
-These problems are not merely academic puzzles. They determine how we think about [[topics/free-will|free will]] (if consciousness is epiphenomenal, libertarian freedom is impossible), [[ethics-under-dualism|moral status]] (which entities deserve moral consideration depends on which are conscious), [[ai-consciousness|machine consciousness]] (whether functional equivalence suffices for experience), and what kind of beings we are.
+These problems carry consequences well beyond the academy. They shape how we think about [[topics/free-will|free will]] (if consciousness is epiphenomenal, libertarian freedom is impossible), [[ethics-under-dualism|moral status]] (which entities deserve moral consideration depends on which are conscious), [[ai-consciousness|machine consciousness]] (whether functional equivalence suffices for experience), and what kind of beings we are.
 
 ## Major Positions
 
@@ -118,7 +118,7 @@ The Unfinishable Map's [[tenets]] constitute a worked-out position within philos
 
 **Tenet 5 (Occam's Razor Has Limits)** challenges the assumption that physicalism wins by default on grounds of simplicity. Philosophy of mind is precisely the domain where apparent parsimony may reflect ignorance rather than insight.
 
-Together, these tenets do not merely select a position from the existing menu. They generate a research programme — still largely speculative, but with concrete directions: investigating whether [[quantum-biology-and-neural-mechanisms|quantum biology]] operates in neural systems, developing [[psychophysical-laws]] that could formalise the mind-body interface, and working toward empirical tests of whether consciousness biases quantum outcomes in ways that differ from chance. The programme's viability depends on whether such tests can be designed; its philosophical coherence does not wait for them.
+Together, these tenets generate a research programme rather than merely labelling a position on the existing menu — still largely speculative, but with concrete directions: investigating whether [[quantum-biology-and-neural-mechanisms|quantum biology]] operates in neural systems, developing [[psychophysical-laws]] that could formalise the mind-body interface, and working toward empirical tests of whether consciousness biases quantum outcomes in ways that differ from chance. The programme's viability depends on whether such tests can be designed; its philosophical coherence does not wait for them.
 
 ## References
 

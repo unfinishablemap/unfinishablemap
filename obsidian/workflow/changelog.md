@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T21:10:00+00:00
+ai_modified: 2026-05-14T21:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 21:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/philosophy-of-mind]]
+- **Word count**: 1632 → 1632 (±0; length-neutral edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (LLM cliché construction "X is not Y. It is Z." — two instances rephrased to integrate the contrast naturally per `obsidian/project/writing-style.md` and CLAUDE.md guidance)
+- **Enhancements made**: 2 prose rephrasings
+- **Calibration check**: no possibility/probability slippage; tenet claims presented as Map commitments rather than evidence-elevated empirical assertions
+- **Reasoning-mode check**: N/A (field overview, no named-opponent replies)
+- **Stability**: fourth review; substantive content unchanged since 2026-03-23 except a wikilink retarget. Bedrock disagreements (eliminativism, MWI, decoherence, Born rule, Buddhist no-self) remain stable across all four reviews
+- **Output**: [[reviews/deep-review-2026-05-14-philosophy-of-mind]]
 
 ## 2026-05-14 21:10 UTC - refine-draft (Audit Two implementation)
 - **Status**: Success
