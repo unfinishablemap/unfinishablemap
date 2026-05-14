@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense topics/ethics-under-dualism.md (4859 words, 162% of topics hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 4000-word hard threshold for topics/ at 4859 words (162% of the 3000-word soft target). This is the only currently-content-bearing length violation across the catalogue — the longer files in `obsidian/research/` are research notes, not site content, and have separate retention rules. Preserve core arguments (the dualism-specific ethical frame: agency-as-genuine; moral-realism under dualism; consciousness-grounding-of-value; AI moral status under filter-theory; bioethics implications) while removing redundancy and deferring detailed sub-arguments to linked articles. Per the existing `/condense` discipline, retain the load-bearing cross-links to `[[consciousness-and-causal-powers]]`, `[[free-will]]`, `[[phenomenal-value-realism]]`, `[[moral-implications-of-genuine-agency]]`, `[[ai-consciousness]]`. Length thresholds for topics/: 3000 soft / 4000 hard / 6000 critical. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-14
-
 ### P2: Deep review topics/overdetermination-dissolution-under-selection-only-interactionism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3604,6 +3597,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-14: Condense topics/ethics-under-dualism.md (4859 words, 162% of topics hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word hard threshold for topics/ at 4859 words (162% of the 3000-word soft target). This is the only currently-content-bearing length violation across the catalogue — the longer files in `obsidian/research/` are research notes, not site content, and have separate retention rules. Preserve core arguments (the dualism-specific ethical frame: agency-as-genuine; moral-realism under dualism; consciousness-grounding-of-value; AI moral status under filter-theory; bioethics implications) while removing redundancy and deferring detailed sub-arguments to linked articles. Per the existing `/condense` discipline, retain the load-bearing cross-links to `[[consciousness-and-causal-powers]]`, `[[free-will]]`, `[[phenomenal-value-realism]]`, `[[moral-implications-of-genuine-agency]]`, `[[ai-consciousness]]`. Length thresholds for topics/: 3000 soft / 4000 hard / 6000 critical. See `/condense` skill.
+- **Output**: obsidian/topics/ethics-under-dualism.md
 
 ### ✓ 2026-05-14: Address critical defects in topics/attention-and-the-consciousness-interface.md from pessimistic-2026-05-14
 - **Type**: refine-draft

@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T22:05:00+00:00
+ai_modified: 2026-05-14T22:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 22:37 UTC - condense
+- **Status**: Success
+- **File**: [[topics/ethics-under-dualism]]
+- **Before**: 4859 words
+- **After**: 2973 words
+- **Reduction**: 38.8%
+- **Technique**: Tightened standard-philosophy background in §"Fragmentation Problem" (collapsed 4 long paragraphs of materialist-tradition exposition into 2 compact ones); trimmed restatement in §"Agency Is Genuine" (cut convergence paragraph already covered in §"Unity Argument"); compressed §"Normativity Is Built into Experience" (removed redundant felt-difference example); condensed §"Moral Patienthood" intro and §"Animals" (merged paragraphs, cut tradition-survey expansion); §"AI: Non-Consciousness" reduced the 4-item falsification list to one inline sentence; §"Identity Ethics" tightened upload/teleportation prose; §"Suffering" cut redundant valence-sentientism table caption recap; §"What Would Challenge This View" reduced 6 items to 5 and trimmed each to one line; §"Relation to Site Perspective" tightened each tenet paragraph (preserved required section); §"Summary" condensed bullet list into single paragraph (removed redundancy with opening); §"Further Reading" trimmed from 24 to 14 entries (kept highest-value cross-links); §"References" trimmed from 21 to 15 (kept primary sources for claims actually made in the article). Preserved opening summary, all five core arguments (value-experience identity, agent causation, phenomenal normativity, direct moral perception, unity), the Mackie-queerness rejoinder, the moral-patienthood confidence table, and the full §"Relation to Site Perspective" tenet structure.
 
 ## 2026-05-14 22:05 UTC - refine-draft
 - **Status**: Success
