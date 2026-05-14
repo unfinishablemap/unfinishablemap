@@ -394,9 +394,9 @@
   commissioned_at: '2026-05-14T03:29:16.864927+00:00'
   prompt_summary: Audit psychedelics-and-the-filter-model article
   target_filename: outer-review-2026-05-14-claude-opus-4-7.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-14T05:21:00.199764+00:00'
   failure_reason: null
   prompt_text: "Sorry, message truncated. The article: https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/\
     \ \u2014 it argues psychedelics (which decrease default-mode-network activity\
@@ -422,9 +422,9 @@
   commissioned_at: '2026-05-14T04:37:28.568465+00:00'
   prompt_summary: Audit psychedelics-and-the-filter-model article
   target_filename: outer-review-2026-05-14-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-14T05:21:00.971478+00:00'
   failure_reason: null
   prompt_text: "Please audit \"Psychedelics and the Filter Model\" on The Unfinishable\
     \ Map (https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/),\

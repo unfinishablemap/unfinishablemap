@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T05:04:00+00:00
+ai_modified: 2026-05-14T05:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-14 05:30 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Research mode, adversarial audit, ~300 sources, 11m+)
+- **File**: [[reviews/outer-review-2026-05-14-claude-opus-4-7]]
+- **Subject**: recent / topics/psychedelics-and-the-filter-model.md (reuse from chatgpt-5-5-pro commission)
+- **Recovery context**: dispatcher's collect-claude-review timed out at exactly 10:01s (04:54:29→05:04:30, attempts=0). Combined cause: 2026-05-12 Step-3 polling expansion + 25-40K-char body chunked-read both eating wall-clock. Skill+timeout fix landed in `7f0de5579` (Blob download replaces chunked-read; dispatcher timeout 600s→900s). Manual recovery via the Blob-download path; body was 56K chars (largest claude collect so far).
+- **Claims verified**: 7 (article cites 2012-era canon only, missing Siegel 2024/Timmermann 2024/Doss 2020/Brennan 2024/Mason 2020; no Letheby; no Entropic Brain 2.0 / Lempel-Ziv complexity; quantum section cites Babcock+Kerskens+Hameroff with permissive epistemic status; filter-theory concept page is more cautious than this topic article; Metzinger "minimal self as witness" deployment not endorsed by Metzinger)
+- **High-value findings**: 7 — stale empirical base; Letheby unaddressed; asymmetry problem (anaesthesia/sleep); REBUS-only competing-accounts coverage; phenomenology-measurement weaknesses; quantum section overreach; topic-vs-concept calibration drift
+- **Tasks generated**: 7 (P1: 3, P2: 4) — 5 refines of the target article, 1 new topic article (Letheby naturalistic account), 1 methodology project-doc bundle (literature-drift skill + altered-state symmetry + topic-vs-concept audit)
+- **Convergence**: Likely heavy convergence with same-cycle ChatGPT 2026-05-14 (also on this article, processed ~04:30 UTC). Synthesis pass will surface specific overlaps — visible likely-convergent candidates: stale empirical base, quantum overreach, REBUS-only competing-accounts coverage. **Tenth independent outer review** flagging the coherence-inflation / topic-vs-concept-calibration-drift family — the reviewer points at the Map's own `[[coherence-inflation-countermeasures]]` and `[[evidential-status-discipline]]` as discipline pages the article fails to enforce on itself.
 
 ## 2026-05-14 05:04 UTC - deep-review
 - **Status**: Success
