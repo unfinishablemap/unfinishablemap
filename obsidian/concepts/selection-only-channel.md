@@ -4,7 +4,7 @@ description: "Information-channel framing of selection-only mind-influence: per-
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-15T01:31:00+00:00
+ai_modified: 2026-05-15T03:31:00+00:00
 last_deep_review: 2026-05-11T19:11:00+00:00
 draft: false
 topics:
@@ -30,6 +30,7 @@ related_articles:
   - "[[interface-efficacy-and-the-cognitive-gap]]"
   - "[[possibility-probability-slippage]]"
   - "[[brain-internal-born-rule-testing]]"
+  - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7

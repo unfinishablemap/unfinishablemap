@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-05-11T23:42:00+00:00
+ai_modified: 2026-05-15T03:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,6 +38,7 @@ related_articles:
   - "[[causal-closure-debate-historical-survey]]"
   - "[[completeness-in-physics-under-dualism]]"
   - "[[falsification-roadmap-for-the-interface-model]]"
+  - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

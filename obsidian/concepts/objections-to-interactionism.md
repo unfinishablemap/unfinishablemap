@@ -4,7 +4,7 @@ description: "Six major challenges to dualism: pairing, conservation, parsimony,
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-05-14T16:10:00+00:00
+ai_modified: 2026-05-15T03:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -150,7 +150,7 @@ Yablo argues mental properties may be more *proportional* causes. "Being in pain
 
 ### Response 3: Quantum Insufficiency
 
-The Map's primary response: at quantum indeterminacies, P is *not* sufficient for E—physics determines probabilities but not outcomes. Where physics is genuinely incomplete, mental properties fill the gap without exclusion. There is no sufficient physical cause to do the excluding.
+The Map's primary response: at quantum indeterminacies, P is *not* sufficient for E—physics determines probabilities but not outcomes. Where physics is genuinely incomplete, mental properties fill the gap without exclusion. There is no sufficient physical cause to do the excluding. The structural development of this move — why selection-only architecture *dissolves* rather than *answers* Kim's overdetermination premise, and what empirical price the dissolution carries — is given in [[overdetermination-dissolution-under-selection-only-interactionism]].
 
 ### Response 4: Delegatory Preemption
 
@@ -175,7 +175,7 @@ These are empirical and interpretive questions, not settled by philosophical arg
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong |
 | Decoherence | Quantum interactionism | Quantum biology evidence, decoherence doesn't solve measurement problem | Moderate |
 | Evolutionary argument | Epiphenomenalism | *Supports* interactionism—consciousness must cause to be selected | N/A (supports site) |
-| Exclusion argument | Mental causation | Physics is insufficient at quantum indeterminacies; [[delegatory-dualism|delegatory preemption]] avoids overdetermination | Strong |
+| Exclusion argument | Mental causation | Physics is insufficient at quantum indeterminacies — the [[overdetermination-dissolution-under-selection-only-interactionism|dissolution argument]] denies the framing of two competing sufficient causes; [[delegatory-dualism|delegatory preemption]] gives a complementary response | Strong |
 
 ## Relation to the Map's Perspective
 
@@ -194,6 +194,7 @@ The exclusion argument receives two complementary responses: quantum insufficien
 ## Further Reading
 
 - [[conservation-laws-and-mental-causation]] — Comprehensive response to the conservation objection
+- [[overdetermination-dissolution-under-selection-only-interactionism]] — How the strictest reading of Tenet 2 dissolves Kim's overdetermination objection rather than answering it on Kim's terms
 - [[delegatory-dualism]] — Saad's solution to exclusion via preemption
 - [[interactionist-dualism]] — The position these objections target
 - [[pairing-problem]] — Detailed treatment of Kim's pairing challenge

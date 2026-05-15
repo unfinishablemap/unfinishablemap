@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-15T03:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -88,7 +88,7 @@ Mental properties [[supervenience|supervene]] on physical properties: no mental 
 
 ### The Overdetermination Problem
 
-Kim argues systematic overdetermination is untenable—two independent causal chains reliably converging would be an intolerable coincidence. Responses include Yablo's proportionality argument (mental properties may be the more appropriate causal level), the levels response (one cause under two descriptions), and [[delegatory-causation|causal delegation]]—the physical state *delegates* its causal work to the experience.
+Kim argues systematic overdetermination is untenable—two independent causal chains reliably converging would be an intolerable coincidence. Responses include Yablo's proportionality argument (mental properties may be the more appropriate causal level), the levels response (one cause under two descriptions), and [[delegatory-causation|causal delegation]]—the physical state *delegates* its causal work to the experience. The Map's strictest reading goes further: the [[overdetermination-dissolution-under-selection-only-interactionism|dissolution argument]] denies Kim's framing entirely, holding that at quantum indeterminacies the physical contribution is *not* sufficient and there is no second cause to compete with — only the conjunction of brain-side preparation and mind-side selection produces the outcome.
 
 ## Major Responses to the Exclusion Argument
 
@@ -239,6 +239,7 @@ Mental causation and downward causation are central to the Map's framework.
 - [[mind-matter-interface]] — The unified two-layer architecture
 - [[consciousness-bandwidth-architecture]] — Whether the mind-body channel carries enough information
 - [[selection-only-mind-influence]] — Information-theoretic limits on per-event selection that the quantum mechanism must respect
+- [[overdetermination-dissolution-under-selection-only-interactionism]] — How the strictest reading of Tenet 2 dissolves Kim's overdetermination objection rather than answering it on Kim's terms
 - [[interface-efficacy-and-the-cognitive-gap]] — Comparative-evolutionary scaling of the interface mechanism across species
 - [[concepts/many-worlds]] — Why the Map rejects MWI (and why it matters here)
 - [[pairing-problem]] — What connects this mind to this body

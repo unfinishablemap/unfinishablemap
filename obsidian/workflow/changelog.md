@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T03:15:00+00:00
+ai_modified: 2026-05-15T03:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 03:31 UTC - deep-review (cross-review catalogue integration)
+- **Status**: Success
+- **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]]
+- **Context**: Cross-review catalogue integration for the new article (created and deep-reviewed 2026-05-14). The article body was unchanged from yesterday's deep-review pass, which judged it structurally honest, well-calibrated, and at 86% of soft length threshold. This pass closed the catalogue-integration gap: the article was cross-linked outward to 18 articles but only 3 host articles linked back to it. Five high-leverage host articles updated to surface the new dissolution argument from the canonical entry points readers and LLMs use when navigating the exclusion-argument cluster.
+- **Article word count**: 2581 → 2581 (no body changes; 86% of 3000-word soft threshold, unchanged)
+- **Critical issues addressed**: 0 (yesterday's deep-review found none; spot-check confirmed convergence — Saad's "default causal profile" qualifier intact, calibration backbone intact, no label leakage, no length pressure)
+- **Catalogue back-links added**: 5 host articles
+  - [[concepts/mental-causation-and-downward-causation]]: §"The Overdetermination Problem" extended to surface the dissolution alongside Yablo, levels, delegatory-causation; Further Reading entry added (substantive)
+  - [[concepts/objections-to-interactionism]]: §"The Exclusion Argument" Response 3 (Quantum Insufficiency) extended to point to the structural development; Summary table row updated; Further Reading entry added (substantive)
+  - [[concepts/selection-only-channel]]: related_articles back-link added (frontmatter)
+  - [[topics/selection-only-mind-influence]]: related_articles back-link added (frontmatter; closes sibling-articles loop)
+  - [[concepts/causal-closure]]: related_articles back-link added (frontmatter; the dissolution denies this principle locally)
+- **Articles considered but not modified**: interactionist-dualism (cross-reference clutter risk), delegatory-dualism, delegation-meets-quantum-selection, the-epiphenomenalist-threat, the-interface-problem, born-rule-and-the-consciousness-interface, conservation-laws-and-mental-causation, post-decoherence-selection — all referenced *by* the new article but lower-priority for reciprocal back-links; deferred to future cross-review if navigational value warrants.
+- **Engagement classification (editor-internal, not in article)**: Yesterday's classification holds — Mode One for Kim engagement (defective on its own terms via local denial of premise 1), Mode One for Yablo/standard non-reductive responses, Mode Three for hidden-variables/MWI alternatives at the final caveat. No mode changes from yesterday.
+- **Output**: [[reviews/deep-review-2026-05-15-overdetermination-dissolution-cross-review]]
 
 ## 2026-05-15 03:05 UTC - expand-topic
 - **Status**: Success

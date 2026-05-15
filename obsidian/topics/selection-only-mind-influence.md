@@ -4,7 +4,7 @@ description: "Human–AI exploration of the strictest reading of mind-on-quantum
 created: 2026-05-05
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T19:11:00+00:00
+ai_modified: 2026-05-15T03:31:00+00:00
 last_deep_review: 2026-05-08T12:06:00+00:00
 draft: false
 topics: []
@@ -22,6 +22,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[interface-specification-programme]]"
   - "[[interface-efficacy-and-the-cognitive-gap]]"
+  - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
