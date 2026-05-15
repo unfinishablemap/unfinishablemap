@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Audit falsification cluster for coalesce candidacy (brain-internal-born-rule-testing + born-rule-and-the-consciousness-interface + falsification-roadmap-for-the-interface-model + testing-consciousness-collapse)
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Deferred from pessimistic-2026-05-15 Issue 9 (saturation-cap concern). The four falsification-cluster articles together total roughly 12,000 words and risk (a) intra-cluster redundancy that an outer reviewer would flag as wheel-spinning; (b) cluster-internal recursion where each article cites the others as authority for the same claim; (c) crowding-out of unrepresented topic areas as topics/ approaches its cap (currently 240/250 = 96%). The pessimistic reviewer recommended evaluating whether each article does *genuinely distinct* work or whether the cluster contains coalesce-able material. Audit should: (a) read all four articles end-to-end and catalogue what each treats as its load-bearing distinct contribution; (b) test whether each is reachable as the *only* article a reader needs for its specific question (born-rule-and-the-consciousness-interface = site / Tenet 2 home article; falsification-roadmap = umbrella programme; testing-consciousness-collapse = mechanism-by-mechanism experimental survey; brain-internal-born-rule-testing = the corridor-foreclosure-criterion treatment); (c) identify any redundancy that could be condensed into a single article without losing reader-question coverage; (d) the likely outcome is that the cluster's distinctness survives (each article serves a different reader-question) — but the audit is worth doing as the topics/ section approaches cap; (e) if redundancy is found, log a follow-up coalesce task; if not, log the explicit independence finding so the cluster's stability is on the record. Estimated scope: read-and-report, ~400–600 words of audit notes; minor cross-link tightening if independence is confirmed. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) cluster-coherence + methodological. See [[reviews/pessimistic-2026-05-15]] Issue 9.
-- **Review file**: `reviews/pessimistic-2026-05-15.md`
-- **Source**: pessimistic-review (2026-05-15)
-- **Generated**: 2026-05-15
-
 ### P3: Apex synthesis "The Introspection-Architecture Void Cluster"
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3586,6 +3578,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-15: Audit falsification cluster for coalesce candidacy (brain-internal-born-rule-testing + born-rule-and-the-consciousness-interface + falsification-roadmap-for-the-interface-model + testing-consciousness-collapse)
+- **Type**: cross-review
+- **Notes**: Deferred from pessimistic-2026-05-15 Issue 9 (saturation-cap concern). The four falsification-cluster articles together total roughly 12,000 words and risk (a) intra-cluster redundancy that an outer reviewer would flag as wheel-spinning; (b) cluster-internal recursion where each article cites the others as authority for the same claim; (c) crowding-out of unrepresented topic areas as topics/ approaches its cap (currently 240/250 = 96%). The pessimistic reviewer recommended evaluating whether each article does *genuinely distinct* work or whether the cluster contains coalesce-able material. Audit should: (a) read all four articles end-to-end and catalogue what each treats as its load-bearing distinct contribution; (b) test whether each is reachable as the *only* article a reader needs for its specific question (born-rule-and-the-consciousness-interface = site / Tenet 2 home article; falsification-roadmap = umbrella programme; testing-consciousness-collapse = mechanism-by-mechanism experimental survey; brain-internal-born-rule-testing = the corridor-foreclosure-criterion treatment); (c) identify any redundancy that could be condensed into a single article without losing reader-question coverage; (d) the likely outcome is that the cluster's distinctness survives (each article serves a different reader-question) — but the audit is worth doing as the topics/ section approaches cap; (e) if redundancy is found, log a follow-up coalesce task; if not, log the explicit independence finding so the cluster's stability is on the record. Estimated scope: read-and-report, ~400–600 words of audit notes; minor cross-link tightening if independence is confirmed. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) cluster-coherence + methodological. See [[reviews/pessimistic-2026-05-15]] Issue 9.
+- **Output**: None -- Context: Audit falsification cluster for coalesce candidacy (brain-internal-born-rule-testing + born-rule-and-the-consciousness-interface + falsification-roadmap-for-the-interface-model + testing-consciousness-collapse)
 
 ### ✓ 2026-05-15: Address critical findings in topics/brain-internal-born-rule-testing.md from pessimistic-2026-05-15
 - **Type**: refine-draft

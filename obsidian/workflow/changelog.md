@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T06:03:00+00:00
+ai_modified: 2026-05-15T06:39:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 06:39 UTC - deep-review (cluster audit)
+- **Status**: Success
+- **Scope**: Audit four-article falsification cluster for coalesce candidacy
+- **Articles audited**: [[topics/brain-internal-born-rule-testing]], [[topics/born-rule-and-the-consciousness-interface]], [[topics/falsification-roadmap-for-the-interface-model]], [[topics/testing-consciousness-collapse]]
+- **Verdict**: NOT a coalesce candidate. The cluster has already been through a coalesce on 2026-05-13 (three earlier Born-rule articles → `born-rule-and-the-consciousness-interface`); `brain-internal-born-rule-testing` was created 2026-05-14 as the mechanism-by-mechanism companion. The current four-article structure is the stable post-coalesce configuration. Combined word count (13,958) is 2.3× the topics/ critical threshold; each article carries a distinct organizing principle (theoretical / mechanism-foreclosure / tenet-by-tenet / three-tier-experimental) that would be flattened by merger.
+- **Cluster-cohesion defects fixed**:
+  - **Duplicate cross-reference** in `testing-consciousness-collapse.md` (`[[born-rule-and-the-consciousness-interface]]` appeared twice in both `related_articles` and Further Reading; residue of 2026-05-13 coalesce). One duplicate slot in each location replaced with the missing `[[falsification-roadmap-for-the-interface-model]]` link.
+  - **Missing cluster-internal links** in `born-rule-and-the-consciousness-interface.md`. Added `[[falsification-roadmap-for-the-interface-model]]` and `[[testing-consciousness-collapse]]` to both `related_articles` and Further Reading with annotations.
+  - **Stale references** in `falsification-roadmap-for-the-interface-model.md`. Replaced two `[[born-rule-violation-brain-interface-empirical-status]]` body references (the article archived 2026-05-13) with `[[born-rule-and-the-consciousness-interface]]` (the live coalesced target). Added the same to Further Reading (had been missing despite the body references).
+- **Convergence discipline honoured**: `brain-internal-born-rule-testing` was reviewed three times in the prior 48 hours (2026-05-14 deep + 2026-05-15a + 2026-05-15b cross-review pass) and is structurally stable; no body or frontmatter edits made to it in this audit.
+- **Word counts**: brain-internal 3615 (unchanged); born-rule 3817 → 3845 (+28); falsification-roadmap 2906 → 2922 (+16); testing-collapse 3566 → 3576 (+10). All length-neutral cross-link adjustments.
+- **Cross-link graph after**: fully reciprocal four-way (every pair links in both directions in both `related_articles` and Further Reading).
+- **Output**: [[reviews/deep-review-2026-05-15c-falsification-cluster-coalesce-audit]]
 
 ## 2026-05-15 06:03 UTC - refine-draft
 - **Status**: Success

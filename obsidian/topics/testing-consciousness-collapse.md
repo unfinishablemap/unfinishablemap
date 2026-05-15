@@ -2,9 +2,9 @@
 title: "Testing Consciousness-Collapse: Obstacles, Experiments, and the Path Forward"
 description: "Can experiments distinguish consciousness-driven collapse from decoherence? Predictions fall into three tiers—collapse existence, consciousness-dependence, and logical constraints—with the consciousness-specific tier remaining the hardest and most important frontier."
 created: 2026-02-19
-modified: 2026-04-23
+modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-15T01:31:00+00:00
+ai_modified: 2026-05-15T06:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[decoherence-and-macroscopic-superposition]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
   - "[[born-rule-and-the-consciousness-interface]]"
-  - "[[born-rule-and-the-consciousness-interface]]"
+  - "[[falsification-roadmap-for-the-interface-model]]"
   - "[[penrose-gravity-induced-collapse-empirical-prospects]]"
   - "[[forward-in-time-conscious-selection]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
@@ -238,8 +238,8 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 
 - [[spontaneous-collapse-theories]] — GRW, CSL, and Penrose OR in detail
 - [[comparing-quantum-consciousness-mechanisms]] — How proposed mechanisms compare
-- [[born-rule-and-the-consciousness-interface]] — Why deriving the Born rule matters for collapse theories
-- [[born-rule-and-the-consciousness-interface]] — Active brain-interface programmes and the corridor-vs-minimum-outside-corridor taxonomy
+- [[born-rule-and-the-consciousness-interface]] — Why deriving the Born rule matters for collapse theories, and the corridor-vs-minimum-outside-corridor-vs-trumping taxonomy of MQI readings
+- [[falsification-roadmap-for-the-interface-model]] — The tenet-by-tenet falsification analysis within which this experimental hierarchy sits
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — Experimental programme constraining gravity-collapse models
 - [[anaesthesia-and-the-consciousness-interface]] — Anaesthesia as a test case for consciousness-physics interaction
 - [[testability-ledger]] — Systematic catalogue of what would disconfirm the Map's framework
