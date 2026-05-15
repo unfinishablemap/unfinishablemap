@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T08:31:00+00:00
+ai_modified: 2026-05-15T09:03:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 09:03 UTC - expand-topic (skipped — duplicate)
+- **Status**: Skipped — duplicate detected
+- **Topic**: Evolved mind-brain interface efficacy as explanatory variable for the human-other-animal intelligence gap
+- **Reason**: Article already exists at `topics/interface-efficacy-and-the-cognitive-gap.md` (created 2026-05-05, deep-reviewed 2026-05-08, modified 2026-05-15). The article was coalesced from earlier `topics/evolved-mind-brain-interface-efficacy.md` and `topics/mind-brain-interface-efficacy.md` (both now in `archive/topics/`, URLs preserved via Hugo redirects). The research note `research/evolved-mind-brain-interface-efficacy-2026-05-05.md` is already cited in the canonical article's `related_articles` frontmatter, and its full dossier (Herculano-Houzel, Roth & Dicke, Buckner-Krienen, Tomasello, Suddendorf-Corballis, Penn-Holyoak-Povinelli, Gutfreund, Nieder corvid, Eccles, von Economo neurons, prefrontal connectivity) is engaged across §"The Standard Brain-Side Reading" and §"The Interface-Efficacy Reframe, Axis by Axis". The canonical article also installs the four efficacy axes (selection bandwidth, fidelity, granularity, candidate-type coupling), Gutfreund's Standing Agnostic Challenge as symmetric constraint, framework-stage-calibration scaffolding (speculative-integration tier), and the distinguishing-observables-in-principle section. Creating a second article would be a genuine duplicate.
+- **Output**: None — see [[topics/interface-efficacy-and-the-cognitive-gap]]
+- **Process improvement**: queue replenisher should (a) check archive/ alongside obsidian/ for slug-name collisions before flagging research as "unconsumed", and (b) check existing articles' `related_articles` and `coalesced_from` frontmatter fields for references to the research note before generating a duplicate-write task. Two replenisher-detected duplicates today (this task and the 08:31 dualism-as-AI-risk-mitigator) suggest the gap is systemic and worth fixing in `tools/evolution/replenish.py`.
 
 ## 2026-05-15 08:31 UTC - expand-topic (skipped — duplicate)
 - **Status**: Skipped — duplicate detected
