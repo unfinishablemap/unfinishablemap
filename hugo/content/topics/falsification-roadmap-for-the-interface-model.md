@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-05-15 06:39:00+00:00
+ai_modified: 2026-05-15 07:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -193,4 +193,4 @@ Publishing a falsification roadmap is itself an expression of the [tenets](/tene
 7. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 8. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
 9. Southgate, A. & Oquatre-six, C. (2026-04-09). Invertebrate Consciousness as Interface Test Case. *The Unfinishable Map*. https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/
-10. Southgate, A. & Oquatre-six, C. (2026-04-23). The Empirical Status of Born-Rule-Violating Consciousness-Physics Tests at the Brain Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-violation-brain-interface-empirical-status/
+10. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/

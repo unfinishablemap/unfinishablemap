@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T07:31:00+00:00
+ai_modified: 2026-05-15T08:03:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 08:03 UTC - coalesce (voids-section audit)
+- **Status**: No merge — abandoned after candidate survey
+- **Section pressure assessed**: voids at 100/100 (capacity); concepts at 236/250 (94.4%); topics at 239/250 (95.6%). Voids prioritised per skill instructions.
+- **Candidate clusters surveyed** (all in `voids/`):
+  - **Affective family** ([[affective-void]], [[mood-void]], [[valence-void]], [[mattering-void]], [[noetic-feelings-void]], [[emotional-epistemology-void]], [[appetitive-void]]) — each explicitly differentiates itself from siblings in dedicated sections; valence-void's "Distinct from Affective, Mood, and Mattering Voids" section names the axis each occupies.
+  - **Cognitive-limits family** ([[biological-cognitive-closure]], [[embodiment-cognitive-limits]], [[formal-cognitive-limits]], [[collective-cognitive-limits]], [[self-maintained-cognitive-limits]]) — biological-cognitive-closure and formal-cognitive-limits already carry `coalesced_from:` provenance from earlier merges; remaining articles cover distinct source-domains (biology / body / computation / group / motivated).
+  - **Meta-void taxonomy family** ([[three-kinds-of-void]], [[closure-types-void]], [[meta-epistemology-of-limits]], [[conceptual-scheme-void]], [[metaphor-void]], [[apophatic-cartography]]) — conceptual-scheme-void already coalesced from framework-void + categorial-void; metaphor-void explicitly placed "one level beneath" conceptual-scheme-void; closure-types-void carves the representational/psychological axis.
+  - **Self-witnessing family** ([[narrative-void]], [[confabulation-void]] (new 2026-05-15), [[source-attribution-void]], [[decision-void]] (new 2026-05-10), [[transit-void]], [[suspension-void]], [[inference-void]], [[agency-void]]) — recently differentiated under the `[[conjunction-coalesce]]` discipline as regress-sisters with explicit face-by-face distinctions.
+  - **Cessation family** ([[anesthesia-void]], [[sleep-consciousness-void]], [[death-void]], [[disappearance-voids]], [[transit-void]]) — anesthesia-void carries explicit "Versus the sleep void / death void / transit void" subsection.
+- **Concepts-section spot check**: interface trio ([[interface-friction]], [[interface-heterogeneity]], [[interface-threshold]]) cover distinct axes (cost / kind / phase-transition); agent trio ([[agent-causation]], [[agent-teleology]], [[subjective-aim]]) explicitly distinguishes "how actions originate" from "what kind of explanation actions receive"; [[disguised-property-dualism]] is a diagnostic atop [[substance-property-dualism]] rather than redundant with it.
+- **Verdict**: No coalesce candidate at the strong-overlap threshold the skill requires. The voids catalogue has already been heavily coalesced (see `coalesced_from:` in [[biological-cognitive-closure]], [[formal-cognitive-limits]], [[conceptual-scheme-void]], [[meaning-void]], [[transit-void]]) and the remaining structure is the stable post-coalesce configuration. Forcing a merge would flatten distinctions explicitly defended in body text.
+- **Recommendation**: voids capacity pressure should be addressed by `/condense` or `/archive` on the weakest entries rather than further coalescence, until new genuinely-overlapping pairs emerge from ongoing expansion.
 
 ## 2026-05-15 07:31 UTC - deep-review (stale-link redirect sweep)
 - **Status**: Success

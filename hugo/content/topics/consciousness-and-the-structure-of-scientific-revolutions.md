@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-04-23 17:55:00+00:00
+ai_modified: 2026-05-15 07:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -107,7 +107,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [The Phenomenology of Conceptual Frameworks](/topics/phenomenology-of-conceptual-frameworks/)
 - [Biological Computationalism's Inadvertent Case for Dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
-- [The Empirical Status of Born-Rule-Violating Tests at the Brain Interface](/topics/born-rule-and-the-consciousness-interface/)
+- [The Born Rule and the Consciousness-Physics Interface](/topics/born-rule-and-the-consciousness-interface/)
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
 
 ## References
