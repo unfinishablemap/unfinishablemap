@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T01:31:00+00:00
+ai_modified: 2026-05-15T02:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 02:05 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [[concepts/causal-consistency-constraint]]
+- **Context**: Cross-review of yesterday's-published Torres Alegre (2025) integration into the [[concepts/post-decoherence-selection|post-decoherence-selection]] and [[concepts/consciousness-physics-interface-formalism|interface-formalism]] cluster. Yesterday's deep-review concluded the article was stable; today's pass is integration-focused. Two cluster-integration gaps closed: the article referenced "the corridor reading" repeatedly in §4 without ever wikilinking to `[[post-decoherence-selection]]` (the canonical Map article naming the corridor mechanism), and it cited Masanes-Galley-Müller (2019) without flagging that the same paper grounds Born Rule Preservation in `[[consciousness-physics-interface-formalism]]`'s five-constraint list — Torres Alegre's result effectively unifies two of those constraints (Born Rule + No-Signalling) into one derivational geometry. New paragraph added to "Form, Not Existence" section makes the unification explicit while preserving the checklist usefulness of the five-constraint framing.
+- **Word count**: 1848 → 1977 (+129 words; 79% of concepts soft threshold, length-neutral mode not triggered)
+- **Critical issues addressed**: 0 (none found — yesterday's review's stability holds)
+- **Medium issues addressed**: 2 (post-decoherence-selection link gap; cpif-formalism cluster connection)
+- **Enhancements made**: 3 (concepts list addition, body sentence in corridor subsection, new paragraph connecting to five-constraint formalism, Further Reading entry)
+- **Reasoning-mode classification**: No new named-opponent engagements added; yesterday's classifications stand (Mode Three for Everettian/Bohmian, Mode One for minimum-outside-corridor family, Mode Two for metaphysical-decisive reading of the constraint). No label leakage in new prose. No boundary-substitution.
+- **Calibration check**: New cpif-formalism paragraph is structural observation, not evidential upgrade. Tenet-accepting-reviewer diagnostic test passes — no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-05-15-causal-consistency-constraint]]
+- **Remaining**: Reciprocal inbound links from `[[post-decoherence-selection]]` and `[[consciousness-physics-interface-formalism]]` back to this article are out of scope for single-file review; future cross-review of those targets should add them.
 
 ## 2026-05-15 01:31 UTC - deep-review (cross-review)
 - **Status**: Success

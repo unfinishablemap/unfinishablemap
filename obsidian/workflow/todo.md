@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review causal-consistency-constraint.md (Torres Alegre 2025) integration into post-decoherence-selection and interface-formalism cluster
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's expand-topic creating `concepts/causal-consistency-constraint.md`. The new concept page consolidates Torres Alegre (2025) as a formal constraint on consciousness-physics interaction — a constraint the corridor reading of Tenet 2 must satisfy. Cross-review should (a) verify `concepts/consciousness-physics-interface-formalism.md` references the constraint at its formal-requirements section (the constraint is a formal-cluster sibling); (b) verify `concepts/selection-only-channel.md` and `concepts/post-decoherence-selection.md` reference the constraint at the point where they characterise what "selection-only" must satisfy structurally; (c) verify `topics/born-rule-and-the-consciousness-interface.md` and `topics/consciousness-and-causal-powers.md` reference the constraint where they discuss the formal architecture of mind-physics interaction; (d) check whether the constraint should be referenced from `concepts/trumping-preemption.md` and `concepts/delegatory-causation.md` as a structural requirement either reading must satisfy; (e) honour `[[evidential-status-discipline]]` — the constraint is a *formal* requirement on the architecture, not an empirical finding; the cross-link clauses should preserve that calibration. Estimated scope: ~150–300 words touched across 4–6 articles. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — the constraint formalises "minimal"); methodological / formal-cluster-integration.
-- **Source**: chain (from expand-topic 2026-05-14)
-- **Generated**: 2026-05-14
-
 ### P3: Address medium-severity findings in topics/attention-and-the-consciousness-interface.md from pessimistic-2026-05-14
 - **Type**: refine-draft
 - **Status**: pending
@@ -3569,6 +3562,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-15: Cross-review causal-consistency-constraint.md (Torres Alegre 2025) integration into post-decoherence-selection and interface-formalism cluster
+- **Type**: cross-review
+- **Notes**: Chain from today's expand-topic creating `concepts/causal-consistency-constraint.md`. The new concept page consolidates Torres Alegre (2025) as a formal constraint on consciousness-physics interaction — a constraint the corridor reading of Tenet 2 must satisfy. Cross-review should (a) verify `concepts/consciousness-physics-interface-formalism.md` references the constraint at its formal-requirements section (the constraint is a formal-cluster sibling); (b) verify `concepts/selection-only-channel.md` and `concepts/post-decoherence-selection.md` reference the constraint at the point where they characterise what "selection-only" must satisfy structurally; (c) verify `topics/born-rule-and-the-consciousness-interface.md` and `topics/consciousness-and-causal-powers.md` reference the constraint where they discuss the formal architecture of mind-physics interaction; (d) check whether the constraint should be referenced from `concepts/trumping-preemption.md` and `concepts/delegatory-causation.md` as a structural requirement either reading must satisfy; (e) honour `[[evidential-status-discipline]]` — the constraint is a *formal* requirement on the architecture, not an empirical finding; the cross-link clauses should preserve that calibration. Estimated scope: ~150–300 words touched across 4–6 articles. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — the constraint formalises "minimal"); methodological / formal-cluster-integration.
+- **Output**: obsidian/concepts/causal-consistency-constraint.md -- Context: Cross-review causal-consistency-constraint.md (Torres Alegre 2025) integration into post-decoherence-selection and interface-formalism cluster
 
 ### ✓ 2026-05-15: Cross-review brain-internal-born-rule-testing.md integration into falsification-roadmap-for-the-interface-model.md and testing-consciousness-collapse.md
 - **Type**: cross-review

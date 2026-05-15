@@ -2,10 +2,10 @@
 title: "Causal Consistency Constraint"
 description: "Torres Alegre's no-signalling result fixes the Born rule's form for any interface theory; the Map treats this as a derivational corridor not a metaphysical proof."
 created: 2026-05-14
-modified: 2026-05-14
+modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-14T23:33:00+00:00
-last_deep_review: 2026-05-14T23:33:00+00:00
+ai_modified: 2026-05-15T02:05:00+00:00
+last_deep_review: 2026-05-15T02:05:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -13,6 +13,7 @@ topics:
   - "[[mathematical-structure-of-the-consciousness-physics-interface]]"
 concepts:
   - "[[consciousness-physics-interface-formalism]]"
+  - "[[post-decoherence-selection]]"
   - "[[selection-only-channel]]"
   - "[[trumping-preemption]]"
   - "[[interactionist-dualism]]"
@@ -61,11 +62,13 @@ What the constraint does not accomplish: it does not explain why one outcome act
 
 The Map's [[completeness-in-physics-under-dualism|completeness analysis]] articulates this asymmetry: physics is structurally complete (the form of the rule is fixed by causal consistency) yet ontologically partial (the rule does not generate the actualisation it describes). The causal consistency constraint is a clean instance of the structural side of this partition.
 
+Within the Map's [[consciousness-physics-interface-formalism|five-constraint interface formalism]], Torres Alegre's result tightens the relationship between two constraints that were previously listed separately. *Born Rule Preservation* (the requirement that any coupling map preserve ensemble Born statistics) and *No-Signalling Compliance* (the requirement that conscious selection at one location not alter measurement statistics at a distant location) are not independent: under purification, no-signalling *forces* the Born form. The five-constraint list remains useful as a checklist of what any coupling map must respect, but the derivational geometry is more unified than the list-form suggests — the relativistic-causality constraint does double duty.
+
 ## Implications for the Interactionist Taxonomy
 
 The Map's working internal taxonomy distinguishes three families of consciousness-physics proposal (see [[born-rule-and-the-consciousness-interface#corridor-taxonomy|the corridor taxonomy]]). The constraint relates to each family differently, and the differential treatment is part of what makes the constraint diagnostically useful.
 
-**Corridor / selection-only readings.** A [[selection-only-channel|selection-only channel]] preserves Born statistics by construction: mind redistributes selection mass over an output alphabet whose set is fixed by upstream physical dynamics, and the long-run frequency of any outcome converges to its Born weight. The corridor reading inherits the constraint *natively* — there is no extra work to show that selection-only coupling respects no-signalling, because the channel is defined so that ensemble statistics are unperturbed. This makes corridor dualism maximally compatible with the constraint at the cost of having no ensemble signature.
+**Corridor / selection-only readings.** A [[selection-only-channel|selection-only channel]] preserves Born statistics by construction: mind redistributes selection mass over an output alphabet whose set is fixed by upstream physical dynamics, and the long-run frequency of any outcome converges to its Born weight. The corridor reading inherits the constraint *natively* — there is no extra work to show that selection-only coupling respects no-signalling, because the channel is defined so that ensemble statistics are unperturbed. This makes corridor dualism maximally compatible with the constraint at the cost of having no ensemble signature. The Map's [[post-decoherence-selection|post-decoherence selection]] proposal is the canonical instance: consciousness acts on the already-decohered improper mixture, choosing among the alternatives physics has already prepared, without modifying the probability distribution over those alternatives.
 
 **Minimum-outside-the-corridor readings.** Proposals that posit small but nonzero deviations from Born statistics — Stapp's quantum Zeno read as actually modifying selection probabilities, Chalmers-McQueen Φ-dependent collapse, Arana (2025) time-extended weighting, Penrose-Hameroff Orch-OR — must show that whatever deviation they posit does not enable superluminal signalling. Some deviations are compatible with no-signalling if the modification respects locality and is restricted to single-event statistics that average back to Born; others are not. The constraint sharpens the empirical fragility of these proposals in two directions at once: any minimum-outside-corridor proposal that survives the theorem must explain *why* its deviation is signalling-safe, and any proposal whose deviations *would* show up in ensemble statistics is, by the same token, falsifiable in principle by a precision Bell-type test against the standard Born prediction. The constraint is therefore an asymmetric epistemic instrument — costly to satisfy, productive when it fails.
 
@@ -99,6 +102,7 @@ The constraint connects to the Map's [[tenets|foundational commitments]] without
 - [[consciousness-and-causal-powers]]
 - [[consciousness-physics-interface-formalism]]
 - [[mathematical-structure-of-the-consciousness-physics-interface]]
+- [[post-decoherence-selection]]
 - [[selection-only-channel]]
 - [[trumping-preemption]]
 - [[the-interface-problem]]
