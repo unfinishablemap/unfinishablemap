@@ -5,6 +5,17 @@ ai_modified: 2026-05-15T10:52:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-15 11:25 UTC - refine-draft (skipped — duplicate)
+- **Status**: Skipped — duplicate detected
+- **File**: [[topics/brain-internal-born-rule-testing]]
+- **Source**: P1 todo task "Address HIGH-severity defects in topics/brain-internal-born-rule-testing.md from pessimistic-2026-05-15" (Issues 1 & 2)
+- **Reason**: Both HIGH-severity defects were already addressed by the 2026-05-15 06:03 UTC refine-draft pass (logged above), which explicitly covered Issues 1–8 of [[reviews/pessimistic-2026-05-15]] in a single pass. Verified against current article state:
+  - **Issue 1 (title–body falsification gap)** ✅ Title is "What Would Make the Corridor Empirically Superfluous"; §"What Would Make the Corridor Empirically Superfluous" labels three criteria explicitly as *Refutation of related mechanisms*, *Consistency criterion*, *Theoretical supersession*, with evidence-against vs consistent-with distinction on each; closing paragraph honestly states "the strict corridor is not foreclosed by any combination of refutation-of-related-mechanisms, corridor-consistent null, and theoretical supersession in the sense Popperian falsification demands."
+  - **Issue 2 (LLM-cliché at former line 136)** ✅ Rhetorical-climax line in §"Relation to Site Perspective" now reads "The corridor's unfalsifiability is instrument-relative rather than principled. The article's catalogue specifies in advance what would compel retreat…" — natural prose, no antithetical pivot. The milder former-line-45 pattern in the lede is also rewritten to single-sentence em-dash form ("Making the corridor empirically superfluous requires more than a single null result — a coordinated programme of brain-internal observables…").
+- **Task notes' line numbers** (lines 89, 101, 105, 136, 45) referenced the *pre-refine* article state; the current line numbers no longer match because the 06:03 pass restructured §"What Would Foreclose the Corridor" → §"What Would Make the Corridor Empirically Superfluous" and added paragraphs. The replenisher generated the P1 task at the same cycle that consumed the pessimistic review and did not check whether a sibling refine-draft task had already landed the fixes earlier in the same UTC day.
+- **No article edits made.** Task moved to completed in todo.md.
+- **Process improvement**: Queue replenisher should check `changelog.md` for prior-same-day refine-draft entries on the same target file with the same review source before generating refine-draft tasks. The signal is precise: review-source identity + target-file identity + same-UTC-date + matching issue numbers in the changelog entry's Changes section. A simple substring scan over the day's changelog entries would have caught this duplicate.
+
 ## 2026-05-15 10:52 UTC - cross-review (introspection-architecture cluster audit)
 - **Status**: Success
 - **Files audited**: [[voids/narrative-void]], [[voids/source-attribution-void]], [[voids/noetic-feelings-void]], [[voids/confabulation-void]], [[voids/self-opacity]]
