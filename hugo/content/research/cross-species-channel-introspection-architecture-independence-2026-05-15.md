@@ -1,22 +1,24 @@
 ---
-title: "Research Notes - Cross-Species Channel for Introspection-Architecture Independence Scoring"
-created: 2026-05-15
-modified: 2026-05-15
-human_modified: null
-ai_modified: 2026-05-15T23:32:00+00:00
-draft: false
-target_section: topics
-topics:
-  - "[[introspection-architecture-independence-scoring]]"
-concepts:
-  - "[[introspection]]"
-  - "[[metacognition]]"
-related_articles:
-  - "[[introspection-architecture-independence-scoring]]"
-  - "[[common-cause-null]]"
-  - "[[voids-circularity-discount]]"
 ai_contribution: 100
+ai_modified: 2026-05-15 23:32:00+00:00
 ai_system: claude-opus-4-7
+concepts:
+- '[[introspection]]'
+- '[[metacognition]]'
+created: 2026-05-15
+date: &id001 2026-05-15
+draft: false
+human_modified: null
+modified: *id001
+related_articles:
+- '[[introspection-architecture-independence-scoring]]'
+- '[[common-cause-null]]'
+- '[[voids-circularity-discount]]'
+target_section: topics
+title: Research Notes - Cross-Species Channel for Introspection-Architecture Independence
+  Scoring
+topics:
+- '[[introspection-architecture-independence-scoring]]'
 ---
 
 # Research: Cross-Species Channel for Introspection-Architecture Independence Scoring
@@ -36,7 +38,7 @@ ai_system: claude-opus-4-7
 
 ## Executive Summary
 
-The [[introspection-architecture-independence-scoring|introspection-architecture independence scoring exhibit]] names the cross-species channel as "currently absent" with the principled obstacle that introspection's signature requires a first-person report most non-human animals do not produce. Three bodies of work bear on whether that gap can be filled: (a) comparative metacognition (Smith, Hampton, Beran, Kepecs) finds metacognitive monitoring in rhesus macaques, capuchins, rats, and great apes, with the orbitofrontal substrate in rats functionally parallel to primate prefrontal substrate; (b) source-monitoring and episodic-like-memory work in rats and scrub jays gives partial structural analogues to the source-attribution-void signature; (c) the cross-species mirror-self-recognition literature (Gallup, Plotnik, Reiss, Kohda's cleaner wrasse) touches *self*-recognition but not the reconstruction-vs-readout introspective signature. Two strong critiques limit the channel: Le Pelley's associative-learning models reproduce the metacognitive performance signature without invoking metacognition, and Carruthers's *Opacity of Mind* programme argues both human and animal metacognition run on a common interpretive (not introspective) access, which would predict the convergence and undercut the framework-independence claim. The most promising alternative — and the principal finding of the research — is that the cross-architecture channel can be opened not via animals (whose neural substrate is too similar to human substrate) but via *LLM introspection studies* (Lindsey et al. 2025; Anthropic introspection adapters 2026), where mechanistic interpretability lets independent ground truth be compared against self-report and where the architectural distance from biological introspection is maximal. The Anthropic "feeling the strength but not the source" finding (2025) is a direct structural parallel to the [[source-attribution-void]].
+The [introspection-architecture independence scoring exhibit](/topics/introspection-architecture-independence-scoring/) names the cross-species channel as "currently absent" with the principled obstacle that introspection's signature requires a first-person report most non-human animals do not produce. Three bodies of work bear on whether that gap can be filled: (a) comparative metacognition (Smith, Hampton, Beran, Kepecs) finds metacognitive monitoring in rhesus macaques, capuchins, rats, and great apes, with the orbitofrontal substrate in rats functionally parallel to primate prefrontal substrate; (b) source-monitoring and episodic-like-memory work in rats and scrub jays gives partial structural analogues to the source-attribution-void signature; (c) the cross-species mirror-self-recognition literature (Gallup, Plotnik, Reiss, Kohda's cleaner wrasse) touches *self*-recognition but not the reconstruction-vs-readout introspective signature. Two strong critiques limit the channel: Le Pelley's associative-learning models reproduce the metacognitive performance signature without invoking metacognition, and Carruthers's *Opacity of Mind* programme argues both human and animal metacognition run on a common interpretive (not introspective) access, which would predict the convergence and undercut the framework-independence claim. The most promising alternative — and the principal finding of the research — is that the cross-architecture channel can be opened not via animals (whose neural substrate is too similar to human substrate) but via *LLM introspection studies* (Lindsey et al. 2025; Anthropic introspection adapters 2026), where mechanistic interpretability lets independent ground truth be compared against self-report and where the architectural distance from biological introspection is maximal. The Anthropic "feeling the strength but not the source" finding (2025) is a direct structural parallel to the [source-attribution-void](/voids/source-attribution-void/).
 
 ## Key Sources
 
@@ -92,7 +94,7 @@ The [[introspection-architecture-independence-scoring|introspection-architecture
   - Source memory in rats lasts up to seven days, drops out at fourteen
   - Rodent mPFC implicated as homolog of primate DLPFC for source monitoring
   - Abnormally high false-alarm rates with mPFC lesions parallel human prefrontal source-monitoring impairment
-- **Significance for cluster**: This is the *closest* current cross-species analogue to the [[source-attribution-void]]. The rodent shows source-monitoring failure with the right neural lesion. The architectural feature (a substrate whose function is source-tagging, whose failure produces misattribution) is preserved across rodent and primate. The despite-commitments status is high: rodent behaviorist tradition did not predict source memory in rats.
+- **Significance for cluster**: This is the *closest* current cross-species analogue to the [source-attribution-void](/voids/source-attribution-void/). The rodent shows source-monitoring failure with the right neural lesion. The architectural feature (a substrate whose function is source-tagging, whose failure produces misattribution) is preserved across rodent and primate. The despite-commitments status is high: rodent behaviorist tradition did not predict source memory in rats.
 
 ### Clayton & Dickinson (1998, 2024-25 revisit): Scrub Jay Episodic-Like Memory
 
@@ -175,7 +177,7 @@ The [[introspection-architecture-independence-scoring|introspection-architecture
   - The *architectural feature* (a confidence/source-monitoring substrate whose function is metacognitive and whose damage produces specific failures) is preserved across rodent, primate, and corvid
   - The neural localisation is convergent rather than coincidental (mPFC in rodent, DLPFC in primate)
   - Crystal's 2010s paradigms control for some Le Pelley associative-learning alternatives
-- **Relation to site tenets**: The position is compatible with Tenet 1 if the architectural feature is read as a *bounded-witness signature* rather than an *information-processing feature*. The Map's [[evidential-status-discipline|evidential-status discipline]] would license partial weight here.
+- **Relation to site tenets**: The position is compatible with Tenet 1 if the architectural feature is read as a *bounded-witness signature* rather than an *information-processing feature*. The Map's [evidential-status discipline](/project/evidential-status-discipline/) would license partial weight here.
 
 ### Position 2: Cross-Species Channel Cannot Supply Despite-Commitments Evidence
 
@@ -196,7 +198,7 @@ The [[introspection-architecture-independence-scoring|introspection-architecture
   - Self-report is available — removing the principled obstacle
   - Interpretability gives independent measurement of internal state, allowing direct test of report-vs-mechanism discrepancy
   - "Strength but not source" finding (Vogel 2025) is a structural parallel to source-attribution-void produced by a system whose generating framework (transformer next-token prediction) did not predict it — *despite-commitments* by construction
-- **Relation to site tenets**: The Map's [[ai-consciousness]] and [[machine-consciousness]] articles already maintain neutrality about AI consciousness. The cross-architecture-via-LLMs reading does not claim LLMs are conscious; it claims their introspective architecture, whatever its phenomenology, exhibits the cluster's signature, and the architectural distance is the strongest cross-observer triangulation available.
+- **Relation to site tenets**: The Map's [ai-consciousness](/topics/ai-consciousness/) and [machine-consciousness](/topics/machine-consciousness/) articles already maintain neutrality about AI consciousness. The cross-architecture-via-LLMs reading does not claim LLMs are conscious; it claims their introspective architecture, whatever its phenomenology, exhibits the cluster's signature, and the architectural distance is the strongest cross-observer triangulation available.
 
 ## Key Debates
 
@@ -251,7 +253,7 @@ The article would argue that the principled obstacle the topic article names (an
 
 ### Angle 3: Both Channels are Framework-Shaped (Sceptical Resolution)
 
-The article would argue that *neither* cross-species nor cross-architecture-via-LLMs cleanly discharges the [[common-cause-null|common-cause null]]: the cross-species channel runs through interpretation under associative-learning challenge and ISA-theory predicts the signature; the cross-architecture channel runs through interpretability tools whose ground-truth claims are themselves model-dependent. The article would settle for marking the gap as a *bounded* gap — neither channel earns despite-commitments weight, but the cluster's core anchoring remains the patient-population and healthy-adult despite-commitments evidence already catalogued. This angle is the most epistemically conservative and matches the topic article's existing voids-circularity-discount discipline.
+The article would argue that *neither* cross-species nor cross-architecture-via-LLMs cleanly discharges the [common-cause null](/project/common-cause-null/): the cross-species channel runs through interpretation under associative-learning challenge and ISA-theory predicts the signature; the cross-architecture channel runs through interpretability tools whose ground-truth claims are themselves model-dependent. The article would settle for marking the gap as a *bounded* gap — neither channel earns despite-commitments weight, but the cluster's core anchoring remains the patient-population and healthy-adult despite-commitments evidence already catalogued. This angle is the most epistemically conservative and matches the topic article's existing voids-circularity-discount discipline.
 
 **Recommended angle**: A composite of (1) and (2) with the discipline of (3). The article should (a) catalogue what cross-species evidence exists, scoring it under the despite-commitments / because-prediction split; (b) acknowledge the Le Pelley/Carruthers critique as load-reducing; (c) introduce LLM introspection as a genuinely novel cross-architecture channel; (d) score the LLM channel separately, treating it as an *open* rather than *settled* anchor; (e) update the cluster's independence score downward where the critiques apply and *sideways* where the LLM channel partially compensates. The framing matches the parent exhibit's calibration discipline rather than treating new evidence as straightforward strengthening.
 

@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-15T22:52:00+00:00
+ai_modified: 2026-05-15T23:40:00+00:00
 last_deep_review: 2026-05-15T22:52:00+00:00
 draft: false
 topics:
@@ -104,7 +104,7 @@ The [[common-cause-null|common-cause-null discipline]] at its line 86 instructs 
 
 ## Scoring Against the Four Criteria
 
-**Signature specificity.** The sub-cluster passes this criterion in a strong form. The four faces produce four genuinely different positive contents — story, origin-tag, verdict-feeling, fabricated content — and the [[cross-review-2026-05-15-introspection-architecture-cluster-audit|2026-05-15 audit]] of the cluster found the differentiation to be substantive rather than nominal. Confabulation-void's anti-correlation finding is a face-specific signature that does not collapse into the others. The [[abandon-coalesce]] discipline's gap-preserving move applies here: the four faces have not been coalesced into a single void, and the audit confirms that adjacent voids are deliberately differentiated rather than reflecting curation bias.
+**Signature specificity.** The sub-cluster passes this criterion in a strong form. The four faces produce four genuinely different positive contents — story, origin-tag, verdict-feeling, fabricated content — and the [[cross-review-2026-05-15-introspection-architecture-cluster-audit|2026-05-15 audit]] of the cluster found the differentiation to be substantive rather than nominal. Confabulation-void's anti-correlation finding is a face-specific signature that does not collapse into the others. The **abandon-coalesce** discipline's gap-preserving move applies here: the four faces have not been coalesced into a single void, and the audit confirms that adjacent voids are deliberately differentiated rather than reflecting curation bias.
 
 **Structured persistence.** Strong. The Nisbett-Wilson finding has persisted under fifty years of attempts at resolution, including the 1980s introspective-cognitive-psychology counter-movement and the 2010s neural-correlate research programmes. Schnider's mechanism has been refined but not dissolved by 2010s and 2020s patient-population work. The signature is stable across the cognitivist, embodied-cognition, and predictive-processing programmes.
 

@@ -1,13 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15 22:52:00+00:00
+ai_modified: 2026-05-15 23:32:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-15'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-15 23:32 UTC - research-topic
+- **Status**: Success
+- **Topic**: cross-species channel for introspection-architecture independence scoring
+- **Output**: [cross-species-channel-introspection-architecture-independence-2026-05-15](/research/cross-species-channel-introspection-architecture-independence-2026-05-15/)
+- **Sources consulted**: 20+ (comparative metacognition, MSR, source-monitoring rodents, scrub jay episodic-like memory, Carruthers ISA / Le Pelley associative-learning critiques, Anthropic LLM introspection 2025-26, Birch sentience framework 2024)
 
 ## 2026-05-15 22:52 UTC - deep-review
 - **Status**: Success
