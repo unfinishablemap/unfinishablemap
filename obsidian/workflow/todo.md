@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-causal-powers, epiphenomenalism, free-will considering overdetermination-dissolution insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's expand-topic creating `topics/overdetermination-dissolution-under-selection-only-interactionism.md`. The new article extends an argument seeded at `topics/consciousness-and-causal-powers.md` line 194 (the "no competition between mental and physical causes" move) and deploys load-bearing cross-links to `[[concepts/epiphenomenalism]]`, `[[topics/free-will]]`, `[[mental-causation-and-downward-causation]]`, `[[selection-only-channel]]`, `[[post-decoherence-selection]]`. Cross-review should (a) verify each of those articles has reciprocal cross-links back to the new article in frontmatter and Further Reading; (b) check whether the dissolution argument tightens or sharpens existing arguments in those articles — particularly the epiphenomenalism page's three-way distinction (causally-coupled / report-grounded / inherited-discourse) interacts with the dissolution move because dissolution presupposes a causally-coupled reading; (c) check `topics/free-will.md` and `concepts/mental-causation-and-downward-causation.md` for places where the Kim-exclusion engagement currently leans on appeals-to-undetermination that the dissolution argument supersedes — install the new framing where the upgrade is cleaner; (d) verify `topics/consciousness-and-causal-powers.md` line 194 cites the dedicated new treatment rather than carrying the argument inline; (e) honour `[[direct-refutation-discipline]]` — the dissolution move is in-framework refutation of Kim's argument, distinct from framework-boundary marking on physical-physical-sufficiency. Estimated scope: ~200–400 words touched across 3–4 articles. Tenet alignment: Tenet 3 (Bidirectional Interaction) load-bearing.
-- **Source**: chain (from expand-topic 2026-05-14)
-- **Generated**: 2026-05-14
-
 ### P2: Cross-review brain-internal-born-rule-testing.md integration into falsification-roadmap-for-the-interface-model.md and testing-consciousness-collapse.md
 - **Type**: cross-review
 - **Status**: pending
@@ -3583,6 +3576,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-15: Cross-review consciousness-and-causal-powers, epiphenomenalism, free-will considering overdetermination-dissolution insights
+- **Type**: cross-review
+- **Notes**: Chain from today's expand-topic creating `topics/overdetermination-dissolution-under-selection-only-interactionism.md`. The new article extends an argument seeded at `topics/consciousness-and-causal-powers.md` line 194 (the "no competition between mental and physical causes" move) and deploys load-bearing cross-links to `[[concepts/epiphenomenalism]]`, `[[topics/free-will]]`, `[[mental-causation-and-downward-causation]]`, `[[selection-only-channel]]`, `[[post-decoherence-selection]]`. Cross-review should (a) verify each of those articles has reciprocal cross-links back to the new article in frontmatter and Further Reading; (b) check whether the dissolution argument tightens or sharpens existing arguments in those articles — particularly the epiphenomenalism page's three-way distinction (causally-coupled / report-grounded / inherited-discourse) interacts with the dissolution move because dissolution presupposes a causally-coupled reading; (c) check `topics/free-will.md` and `concepts/mental-causation-and-downward-causation.md` for places where the Kim-exclusion engagement currently leans on appeals-to-undetermination that the dissolution argument supersedes — install the new framing where the upgrade is cleaner; (d) verify `topics/consciousness-and-causal-powers.md` line 194 cites the dedicated new treatment rather than carrying the argument inline; (e) honour `[[direct-refutation-discipline]]` — the dissolution move is in-framework refutation of Kim's argument, distinct from framework-boundary marking on physical-physical-sufficiency. Estimated scope: ~200–400 words touched across 3–4 articles. Tenet alignment: Tenet 3 (Bidirectional Interaction) load-bearing.
+- **Output**: None -- Context: Cross-review consciousness-and-causal-powers, epiphenomenalism, free-will considering overdetermination-dissolution insights
 
 ### ✓ 2026-05-14: Deep review concepts/causal-consistency-constraint.md
 - **Type**: deep-review

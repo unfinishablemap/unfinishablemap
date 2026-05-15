@@ -2,9 +2,9 @@
 title: "Epiphenomenalism"
 description: "Consciousness as causally inert byproduct. Self-stultification proves our consciousness must be efficacious—but the AI case shows this may not generalize."
 created: 2026-01-09
-modified: 2026-03-27
+modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-05-14T13:10:00+00:00
+ai_modified: 2026-05-15T00:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,6 +33,7 @@ related_articles:
   - "[[ai-epiphenomenalism]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[self-stultification-as-master-argument]]"
+  - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
 coalesced_from:
   - "/concepts/arguments-against-epiphenomenalism/"
 ai_contribution: 100
@@ -40,7 +41,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-05-14T13:10:00+00:00
+last_deep_review: 2026-05-15T00:01:00+00:00
 ---
 
 Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing, not even our reports about it. Your experience of pain does not cause you to wince; rather, the brain states that produce the wince also happen to produce pain experience as a side effect. Consciousness, on this view, is steam rising from a locomotive: produced by the engine but playing no role in moving the train.
@@ -71,7 +72,7 @@ The [[causal-closure|causal closure of physics]] provides the main motivation fo
 4. **Exclusion**: Therefore, mental causes are excluded by physical causes.
 5. **Conclusion**: Mental events cause nothing (epiphenomenalism) or are identical to physical events (reductionism).
 
-Epiphenomenalists accept this argument. Materialists reject premise 2. The Map rejects premise 1—the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes that physics leaves undetermined. At quantum indeterminacies, physics provides *necessary* but not *sufficient* causes, leaving room for mental causation without exclusion.
+Epiphenomenalists accept this argument. Materialists reject premise 2. The Map rejects premise 1—the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes that physics leaves undetermined. At quantum indeterminacies, physics provides *necessary* but not *sufficient* causes, leaving room for mental causation without exclusion. The structural version of this move — that the local failure of premise 1 *dissolves* Kim's overdetermination worry rather than answering it — is developed in [[overdetermination-dissolution-under-selection-only-interactionism]].
 
 ### The Explanatory Gap
 

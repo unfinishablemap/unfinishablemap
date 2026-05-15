@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-14T23:55:00+00:00
+ai_modified: 2026-05-15T00:01:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 00:01 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Files**: [[topics/consciousness-and-causal-powers]], [[concepts/epiphenomenalism]], [[topics/free-will]]
+- **Context**: Cross-review against the 2026-05-14 publication of [[topics/overdetermination-dissolution-under-selection-only-interactionism]]. The new article quotes consciousness-and-causal-powers' slogan ("influences outcomes precisely where physics is silent, so there is no competition") and develops it into a structural dissolution of Kim's overdetermination objection — denying premise 1 locally so the redundancy worry has nothing to attach to. All three target articles touch Kim's exclusion argument but lacked reciprocal cross-links.
+- **Word counts**: consciousness-and-causal-powers 2676 → 2731 (+55); epiphenomenalism 2919 → 2946 (+27, length-neutral mode — Further Reading bullet skipped); free-will 2828 → 2869 (+41).
+- **Critical issues addressed**: 0 (no critical issues found; articles remain stable)
+- **Medium issues addressed**: 3 (one cross-link gap per article)
+- **Enhancements made**: 3 (reciprocal cross-links — frontmatter + inline at the load-bearing passage + Further Reading where length allowed)
+- **Bedrock disagreements**: All carried forward from previous reviews; no re-flagging of framework-boundary objections (eliminativist, MWI, deflationary physicalist).
+- **Output**: [[reviews/deep-review-2026-05-15-consciousness-and-causal-powers]], [[reviews/deep-review-2026-05-15-epiphenomenalism]], [[reviews/deep-review-2026-05-15-free-will]]
 
 ## 2026-05-14 23:49 UTC - apex-evolve
 - **Status**: Complete

@@ -2,10 +2,10 @@
 title: "Consciousness and Causal Powers"
 description: "What kind of causal powers does consciousness possess? Examining the nature and scope of phenomenal influence on physical reality through human-AI dialogue."
 created: 2026-02-11
-modified: 2026-02-15
+modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-14T04:37:00+00:00
-last_deep_review: 2026-05-14T04:37:00+00:00
+ai_modified: 2026-05-15T00:01:00+00:00
+last_deep_review: 2026-05-15T00:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,6 +38,7 @@ related_articles:
   - "[[valence-and-conscious-selection]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[volitional-control]]"
+  - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -191,13 +192,14 @@ This framework has several virtues:
 
 **Explanatory power**: The framework explains the phenomenology of effort, the limits of voluntary control, the correlation between attention and neural persistence, and the evolutionary value of consciousness—all from a single causal mechanism.
 
-**Philosophical coherence**: By locating mental causation at genuine physical indeterminacies, the Map avoids both epiphenomenalism (consciousness does nothing) and overdetermination—the problem that arises when mental and physical causes each fully account for the same effect, making one redundant. Consciousness influences outcomes precisely where physics is silent, so there is no competition between mental and physical causes.
+**Philosophical coherence**: By locating mental causation at genuine physical indeterminacies, the Map avoids both epiphenomenalism (consciousness does nothing) and overdetermination—the problem that arises when mental and physical causes each fully account for the same effect, making one redundant. Consciousness influences outcomes precisely where physics is silent, so there is no competition between mental and physical causes. [[overdetermination-dissolution-under-selection-only-interactionism|The structural development of this slogan]] argues that Kim's overdetermination objection does not need to be answered so much as dissolved: where physical causes are not sufficient, the second cause Kim worries about has nothing to be redundant with.
 
 The cost is commitment to quantum effects in the brain operating at timescales relevant to neural processing—a hypothesis that remains speculative. The Map accepts this cost as the price of coherent [[interactionist-dualism|interactionist dualism]].
 
 ## Further Reading
 
 - [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
+- [[overdetermination-dissolution-under-selection-only-interactionism]] — Structural development of "no competition" into a full response to Kim's exclusion argument
 - [[mental-imagery]] — Voluntary imagery as concrete evidence for consciousness's causal powers
 - [[evolutionary-case-for-mental-causation]] — Evidence from natural selection for causal efficacy
 - [[psychophysical-laws-bridging-mind-and-matter]] — Formal frameworks for mind-matter interaction
