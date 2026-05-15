@@ -4,7 +4,7 @@ description: "Human+AI exploration of why conscious experience is wildly over-sp
 created: 2026-02-24
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T09:35:00+00:00
+ai_modified: 2026-05-15T18:28:00+00:00
 last_deep_review: 2026-03-16T02:32:00+00:00
 draft: false
 topics:
@@ -18,6 +18,7 @@ concepts:
   - "[[philosophical-zombies]]"
 related_articles:
   - "[[voids]]"
+  - "[[apex/taxonomy-of-voids]]"
   - "[[aesthetic-void]]"
   - "[[affective-void]]"
   - "[[imagination-and-creativity-void]]"
@@ -108,7 +109,7 @@ This is a conditional fit, not evidence for the antecedent. The surplus void's i
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** sharpens the puzzle as described above. If consciousness acts on the physical world, its causal role could be served by something far leaner. The surplus suggests — again conditionally on the tenet — that consciousness is not an instrument shaped to its task but something whose nature exceeds any task it performs.
 
-The surplus void also connects to the [[aesthetic-void]] (where articulation fails at beauty), the [[affective-void]] (emotions beyond human reach), the [[imagination-and-creativity-void]] (where creative insight originates), and the [[phenomenal-quality-void|phenomenal quality void]] (why experience has the specific immediate character it does). Each of these voids touches a different face of the same underlying excess — consciousness delivering more than any framework of purpose can contain. That convergence is exactly what the common-cause objection asks the catalogue to discount, since the several voids may articulate one architecture of opacity rather than several independent boundaries.
+The surplus void also connects to the [[aesthetic-void]] (where articulation fails at beauty), the [[affective-void]] (emotions beyond human reach), the [[imagination-and-creativity-void]] (where creative insight originates), and the [[phenomenal-quality-void|phenomenal quality void]] (why experience has the specific immediate character it does). Each of these voids touches a different face of the same underlying excess — consciousness delivering more than any framework of purpose can contain. That convergence is exactly what the common-cause objection asks the catalogue to discount, since the several voids may articulate one architecture of opacity rather than several independent boundaries. The [[apex/taxonomy-of-voids|taxonomy of voids]] names this article as the catalogue's *worked exhibit* for per-cluster independence scoring — the article in which the framework-internal-coherence reading replaced the older framework-independent-evidence framing, and the model the catalogue's other clusters now have to match before their convergence claims earn comparable weight.
 
 ## Further Reading
 

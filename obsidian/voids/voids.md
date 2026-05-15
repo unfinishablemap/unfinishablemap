@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-05-15
 human_modified: 2026-01-08
-ai_modified: 2026-05-15T14:00:00+00:00
+ai_modified: 2026-05-15T18:28:00+00:00
 draft: false
 last_deep_review: 2026-04-27T18:59:00+00:00
 topics: []
@@ -12,6 +12,7 @@ concepts:
   - "[[simulation]]"
   - "[[mysterianism]]"
 related_articles:
+  - "[[apex/taxonomy-of-voids]]"
   - "[[tenets]]"
   - "[[index]]"
   - "[[three-kinds-of-void]]"
@@ -99,6 +100,7 @@ The mitigation the Map can earn: even restricted to the framework-independent se
 
 ### Foundational Articles
 
+- [[apex/taxonomy-of-voids|Taxonomy of Voids]] — Apex synthesis: the catalogue organised by *why* thought fails (four kinds), *where* (five domain clusters), and *how* (six+two failure signatures), with the calibration register that governs the convergence-as-evidence move
 - [[three-kinds-of-void|Three Kinds of Void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[origin-of-consciousness|The Origin Void]] — Why consciousness exists at all—the most logically prior void
 - [[compound-failure-signatures|Compound Failure Signatures]] — Using the structure of failure as data
