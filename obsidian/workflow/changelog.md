@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T23:32:00+00:00
+ai_modified: 2026-05-15T23:43:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 23:43 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Perceptual Reality-Monitoring Void
+- **Category**: Mixed (Occluded + Unexplorable — operation-void: the discriminator is sub-personal and uses signals structurally overlapping with what they would need to separate)
+- **Output**: [[research/voids-perceptual-reality-monitoring-void-2026-05-15]]
+- **Key finding**: The structural opacity around the real-time operation by which consciousness assigns content to *real* vs *imagined*. Three faces conjoin: the *Perky face* (Perky 1910 / Segal-Fusella 1970 / 2025 *Neuron* fusiform-gyrus trial-by-trial confusion prediction — at weak stimulus and vivid imagery, the crossover is empirical and unwitnessed); the *confidence-decoupling face* (Dijkstra & Fleming 2024 in *JOV*: confidence criteria move *with* the decision criterion when congruent imagery is present, so the metacognitive layer inherits the same bias as the perceptual layer — *congruent imagery raises high-confidence false alarms*, the signature absent-warning architecture); the *pathological-equivalence face* (hallucination = felt-real-without-reality, derealization = reality-without-felt-real — Billon 2024 *Metaphilosophy* — showing the felt-real signal is a *separable layer*, dissociable from the substrate in both directions). The void is the online sister of [[source-attribution-void]] (memory-time vs perception-time origin inference) and the moment-by-moment face of [[predictive-construction-void]] (construct/receive partitioning). Distinct from [[imagery-void]] (fidelity/vividness of imagery itself rather than its discrimination from perception). The 1910–2025 empirical arc (Perky → Segal-Fusella → Aru-Suzuki-Larkum 2020 → Dijkstra-Kok-Fleming 2022 → Dijkstra-Fleming 2024 → 2025 *Neuron*) parallels the imagery-void's Galton → Würzburg → aphantasia recurrence: the territory keeps producing this shape because the shape is structural. Catalogue at 100/100 — absorption preferred per the discipline noted in [[voids]]. Recommended primary host: [[predictive-construction-void]] (the online-operational face of the construct/receive distinction); secondary fold-ins to [[source-attribution-void]] (online sister), [[imagery-void]] (Perky-threshold extension of the fidelity face), [[noetic-feelings-void]] (felt-real signal as a noetic feeling), [[simulation-detection-void]] (the same operation at macro timescale).
 
 ## 2026-05-15 23:32 UTC - research-topic
 - **Status**: Success
