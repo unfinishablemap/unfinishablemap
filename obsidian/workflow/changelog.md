@@ -5,6 +5,14 @@ ai_modified: 2026-05-15T16:01:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-15 16:20 UTC - condense
+- **Status**: Success
+- **File**: [[voids/source-attribution-void]]
+- **Before**: 3121 words (hard_warning, 156% of 2000 target)
+- **After**: 2425 words (soft_warning, 121% of target)
+- **Reduction**: 22%
+- **Technique**: tightened prose across all body sections; cut excessive Wegner-eliminativism hedging in Confabulatory Layer; condensed methodological detail in choice-blindness/cryptomnesia/source-amnesia evidence trio; compressed long Distinctions paragraph from list-form; trimmed Bidirectional Interaction hedging; collapsed the 150-word encoding-void Further Reading bullet to a single line. Opening summary, Three Layers structural taxonomy, Relation to Site Perspective subsections, and all cross-links preserved.
+
 ## 2026-05-15 16:01 UTC - deep-review
 - **Status**: Success (convergence confirmed; no content changes)
 - **File**: [[concepts/meditation-and-consciousness-modes]]

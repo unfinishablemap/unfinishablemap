@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/source-attribution-void.md (3121 words, 156% of soft target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Length-analysis surfaced `voids/source-attribution-void.md` at 3121 words against the voids/ soft threshold of 2000 (156%) and hard threshold of 3000 (104%, hard_warning status). The article is load-bearing for the introspection-architecture sub-cluster (cited from `voids/confabulation-void.md`, `voids/noetic-feelings-void.md`, `voids/narrative-void.md`, `concepts/heterophenomenology.md`, `concepts/introspection.md`, `topics/microphenomenological-interview-method.md`, and the apex synthesis task at active-tasks line ~48) so the condense must preserve the three-layer phenomenal-no-tag / cognitive-bias / Bidirectional-Interaction-concession structure that downstream articles depend on. Condense priorities (per /condense skill): (a) trim the redundant empirical-exhibit re-exposition where the same exhibits (Loftus misinformation; Schnider orbitofrontal filter; Johansson-Hall choice-blindness; cryptomnesia; déjà vu) are described both in body and in the references-and-sources clusters — pick one site per exhibit and have the other refer; (b) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban) and rephrase to positive claims; (c) check for `<!-- AI REFINEMENT LOG -->` HTML-comment leakage and extract to sidecar if found (per `topics/non-temporal-consciousness.refinement-log.md` precedent); (d) preserve the load-bearing concession at lines 105–107 ("any evidential case for bidirectional interaction has to be made elsewhere, through statistical or behavioural traces rather than phenomenal ones") since it is cited from related articles; (e) honour `[[evidential-status-discipline]]` — do not strengthen claims while shortening; (f) target ~2500–2700 words (within soft threshold, comfortable margin). Tenet alignment: methodological + Tenet 3 (Bidirectional Interaction — concession structure must remain) + Tenet 1 (Dualism — the bounded-witness reading). **Sequencing**: independent of other tasks; can run any cycle.
-- **Source**: length_analysis
-- **Generated**: 2026-05-15
-
 ### P2: Condense apex/taxonomy-of-voids.md (5059 words, 126% of soft target)
 - **Type**: condense
 - **Status**: pending
@@ -3614,6 +3607,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-15: Condense voids/source-attribution-void.md (3121 words, 156% of soft target)
+- **Type**: condense
+- **Notes**: Length-analysis surfaced `voids/source-attribution-void.md` at 3121 words against the voids/ soft threshold of 2000 (156%) and hard threshold of 3000 (104%, hard_warning status). The article is load-bearing for the introspection-architecture sub-cluster (cited from `voids/confabulation-void.md`, `voids/noetic-feelings-void.md`, `voids/narrative-void.md`, `concepts/heterophenomenology.md`, `concepts/introspection.md`, `topics/microphenomenological-interview-method.md`, and the apex synthesis task at active-tasks line ~48) so the condense must preserve the three-layer phenomenal-no-tag / cognitive-bias / Bidirectional-Interaction-concession structure that downstream articles depend on. Condense priorities (per /condense skill): (a) trim the redundant empirical-exhibit re-exposition where the same exhibits (Loftus misinformation; Schnider orbitofrontal filter; Johansson-Hall choice-blindness; cryptomnesia; déjà vu) are described both in body and in the references-and-sources clusters — pick one site per exhibit and have the other refer; (b) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban) and rephrase to positive claims; (c) check for `<!-- AI REFINEMENT LOG -->` HTML-comment leakage and extract to sidecar if found (per `topics/non-temporal-consciousness.refinement-log.md` precedent); (d) preserve the load-bearing concession at lines 105–107 ("any evidential case for bidirectional interaction has to be made elsewhere, through statistical or behavioural traces rather than phenomenal ones") since it is cited from related articles; (e) honour `[[evidential-status-discipline]]` — do not strengthen claims while shortening; (f) target ~2500–2700 words (within soft threshold, comfortable margin). Tenet alignment: methodological + Tenet 3 (Bidirectional Interaction — concession structure must remain) + Tenet 1 (Dualism — the bounded-witness reading). **Sequencing**: independent of other tasks; can run any cycle.
+- **Output**: obsidian/voids/source-attribution-void.md
 
 ### ✓ 2026-05-15: Cross-review confabulation-resistance propagation coherence across the 5 articles touched today
 - **Type**: cross-review
