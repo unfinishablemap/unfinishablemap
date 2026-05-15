@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T02:05:00+00:00
+ai_modified: 2026-05-15T02:39:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 02:39 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/brain-internal-born-rule-testing]] (171 lines, ~3,100 words; AI-generated 2026-05-14, last modified 2026-05-15T01:31 UTC after same-day deep-review pass; never previously pessimistic-reviewed despite sitting in the load-bearing falsification cluster)
+- **Critical issues found**: 2 (title–body falsification gap with "foreclosure"/"superseded" conflation; LLM-cliché "not X. It is Y." construction at line 136 at rhetorical climax)
+- **Medium issues found**: 3 (overstrong "mathematically airtight" / "uniquely derived" language; absent Tegmark calculation in Orch-OR section; unacknowledged single-outcome ontology commitment vis-à-vis MWI)
+- **Low/meta issues found**: 4 (trumping-preemption as epiphenomenalism-with-metaphor; "Phys. Rev. D 2025" imprecise citation; Han 2016 Shannon-capacity claim under-specified; corridor-cluster saturation-cap concern)
+- **Action**: P2 refine-draft task added to todo.md addressing critical findings; medium/low findings folded into the same task notes
+- **Output**: [[reviews/pessimistic-2026-05-15]]
 
 ## 2026-05-15 02:05 UTC - deep-review (cross-review)
 - **Status**: Success
