@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T00:01:00+00:00
+ai_modified: 2026-05-15T01:02:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 01:02 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-under-dualism]]
+- **Word count**: 2973 → 2995 (+22, length-neutral mode at soft threshold)
+- **Critical issues addressed**: 0 (none found — attribution accuracy clean, calibration honest, no possibility/probability slippage in patienthood table)
+- **Medium issues addressed**: 4 (Kantian dignity attribution made more honest about the dualist interpretive layer; illusionist response (3) replaced — practically-unliveable charge swapped for the sharper normativity-gap move Frankish must address; insect-farming claim hedged with "potentially" to track its conditional structure; LLM-cliché "not X — Y — but Z" construct in Unity Argument opener replaced with direct positive claim)
+- **Engagement classifications** (editor-internal): Mackie/queerness — Mode One; compatibilism — Mode One; constructivism — Mode Two; Railton — Mode One; Foot — Mode One; illusionism/Frankish — Mixed (Modes One, Two, Three with framework-boundary residue honestly noted). No editor-vocabulary leakage in article body.
+- **Bedrock disagreements** (carried forward as stable, not to be re-flagged): eliminativist/illusionist denial of phenomenal consciousness; MWI defenders on indexical identity; physicalist rejection of agent causation; decoherence objection to quantum interactionism.
+- **Output**: [[reviews/deep-review-2026-05-15-ethics-under-dualism]]
 
 ## 2026-05-15 00:01 UTC - deep-review (cross-review)
 - **Status**: Success

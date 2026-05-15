@@ -2,9 +2,10 @@
 title: "Ethics Under Dualism"
 description: "If consciousness is irreducible and causally efficacious, it both grounds moral status and unifies value, agency, normativity, and moral perception under a single ground — resolving the fragmentation that plagues materialist ethics."
 created: 2026-01-16
-modified: 2026-05-14
+modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-05-14T22:37:00+00:00
+ai_modified: 2026-05-15T01:02:00+00:00
+last_deep_review: 2026-05-15T01:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -92,7 +93,7 @@ Materialist accounts must bridge a gap between descriptive facts and normative f
 
 ### The Unity Argument
 
-The distinctive claim is not that dualism answers each ethical question better than materialism — individual arguments can be disputed — but that it answers them *from the same place*. Value, agency, normativity, and moral epistemology all trace back to irreducible conscious experience.
+The distinctive claim concerns *unity*. Dualism answers value, agency, normativity, and moral epistemology from the same place — irreducible conscious experience. Individual arguments may be disputed; the unification holds.
 
 **Coherence.** The agent who exercises genuine causal power is the same subject who experiences value, feels moral demand, and perceives ethical properties directly. No gap between who acts, what matters, why it binds, and how we know.
 
@@ -102,7 +103,7 @@ The distinctive claim is not that dualism answers each ethical question better t
 
 ## Moral Patienthood: Who Counts?
 
-Several philosophical traditions treat consciousness as central to moral status: Bentham's utilitarian criterion of suffering capacity, Kantian dignity requiring a conscious deliberator, virtue ethics' experiential flourishing, Regan's "subjects of a life," and Buddhist *ahimsa*. The overlap across traditions that disagree about nearly everything else suggests consciousness is deeply important to ethics. (Buddhist emptiness — *śūnyatā* — is no obstacle: compassion responds to dependently-arisen suffering precisely because there is suffering that matters, even without a permanent self who suffers.)
+Several philosophical traditions treat consciousness as central to moral status: Bentham's utilitarian criterion of suffering capacity, Kant's dignity grounded in rational self-determination (a capacity a dualist reading takes to presuppose a conscious deliberator), virtue ethics' experiential flourishing, Regan's "subjects of a life," and Buddhist *ahimsa*. The overlap across traditions that disagree about nearly everything else suggests consciousness is deeply important to ethics. (Buddhist emptiness — *śūnyatā* — is no obstacle: compassion responds to dependently-arisen suffering precisely because there is suffering that matters, even without a permanent self who suffers.)
 
 Moral patienthood extends to all conscious beings, but only to conscious beings. Which systems are conscious?
 
@@ -130,7 +131,7 @@ The framework shapes this differently than functionalism: if consciousness requi
 
 ### Animals: Implications of Consciousness
 
-If animals are conscious — and convergent evidence strongly suggests many are — their suffering is real suffering. Factory farming, laboratory testing, and wildlife destruction involve moral costs proportional to the consciousness involved. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet strengthens this: animal pain isn't epiphenomenal but causally shapes behaviour, meaning it matters *to the animal*. The [[ethics-of-consciousness-invertebrate-question|invertebrate question]] pushes further: if dualism places no anthropocentric barrier on consciousness, even "Low" confidence assigned to insects warrants precautionary consideration — and the scale of insect farming makes this one of the most significant moral questions of the present era. The [[commensurability-void]] adds a complication: phenomenal experience may yield only a partial ordering across architectures, making some cross-species welfare comparisons structurally impossible.
+If animals are conscious — and convergent evidence strongly suggests many are — their suffering is real suffering. Factory farming, laboratory testing, and wildlife destruction involve moral costs proportional to the consciousness involved. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet strengthens this: animal pain isn't epiphenomenal but causally shapes behaviour, meaning it matters *to the animal*. The [[ethics-of-consciousness-invertebrate-question|invertebrate question]] pushes further: if dualism places no anthropocentric barrier on consciousness, even "Low" confidence assigned to insects warrants precautionary consideration — and the scale of insect farming makes this potentially one of the most significant moral questions of the present era. The [[commensurability-void]] adds a complication: phenomenal experience may yield only a partial ordering across architectures, making some cross-species welfare comparisons structurally impossible.
 
 ### AI: Non-Consciousness and Its Limits
 
@@ -174,9 +175,7 @@ A dualist ethics is more demanding than its materialist alternatives:
 
 [[illusionism|Illusionism]] argues phenomenal consciousness is illusion — what we call "qualia" are functional states our [[introspection|introspective]] systems misrepresent. If there's no "felt badness" of pain, does consciousness-based ethics collapse?
 
-Three responses: (1) The illusionist must still explain what the *illusion* of suffering is like — illusions are still experiences, and "apparent suffering" is itself something we should care about. (2) Illusionists' own avoidance behaviour presupposes these states matter. (3) Illusionism implies value nihilism, which is practically unliveable.
-
-Even if illusionism were true, we'd still have reason to prevent functional-suffering. But illusionism makes ethics arbitrary: why should functional-suffering matter while functional-joy doesn't? The Map's position — phenomenal consciousness is real and grounds value — provides a more stable foundation.
+Three responses. First, illusionists must still explain what the *illusion* of suffering is like — illusions are themselves experiences, and "apparent suffering" warrants concern. Second, illusionists' own avoidance behaviour presupposes these states matter to them. Third, replacing "felt badness" with "functional state representing badness" leaves the normativity gap intact: a representation has no obvious grip on us once the felt quality is eliminated. Frankish's reply that functional analogues carry the moral work remains available within his programme; the disagreement with the Map's grounding is a framework-boundary one, honestly noted, not a refutation either way. The Map's position — phenomenal consciousness is real and grounds value — closes the gap rather than relocating it.
 
 ## What Would Challenge This View
 
