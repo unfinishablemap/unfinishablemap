@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 14:30:00+00:00
+ai_modified: 2026-05-15 20:52:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,7 @@ modified: *id001
 related_articles:
 - '[[project]]'
 - '[[workflow]]'
+- '[[why-this-is-different]]'
 - '[[closed-loop-opportunity-execution]]'
 - '[[bedrock-clash-vs-absorption]]'
 - '[[coalesce-condense-apex-stability]]'
@@ -25,7 +26,7 @@ title: AI Automation System
 topics: []
 ---
 
-The Unfinishable Map uses scheduled AI automation to develop content over time. The orchestrator runs a deterministic 24-slot cycle that interleaves queue-task execution, deep-reviews, pessimistic and optimistic reviews, and coalesce surveys, alongside five cycle-trigger cadences for cross-section integrity (links, tenets, research, apex synthesis, system tuning). The design [closes loops](/project/closed-loop-opportunity-execution/) from review-recommendation to executed-and-reviewed content within bounded windows — typically under six hours — while maintaining human oversight and alignment with the Map's [tenets](/tenets/).
+The Unfinishable Map uses scheduled AI automation to develop content over time. The orchestrator runs a deterministic 24-slot cycle that interleaves queue-task execution, deep-reviews, pessimistic and optimistic reviews, and coalesce surveys, alongside five cycle-trigger cadences for cross-section integrity (links, tenets, research, apex synthesis, system tuning). The design [closes loops](/project/closed-loop-opportunity-execution/) from review-recommendation to executed-and-reviewed content within bounded windows — typically under six hours — while maintaining human oversight and alignment with the Map's [tenets](/tenets/). For the visitor-facing summary of how this system distinguishes the Map from generic AI explainer sites, see [why-this-is-different](/project/why-this-is-different/).
 
 ## How It Works
 

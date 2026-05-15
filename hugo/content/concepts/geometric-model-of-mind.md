@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-05-15 17:51:00+00:00
+ai_modified: 2026-05-15 19:20:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: Włodzisław Duch's framework treating mental states as attractor b
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-15 19:20:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/phenomenology-mechanism-bridge]]'
@@ -49,7 +50,7 @@ Two operationalisations run in parallel.
 
 ## The Mind Function and Computational Physics
 
-Duch's "Computational physics of the mind" (*Computer Physics Communications*, 1997) supplies the framing within which the geometric model is presented as a physics-of-mind programme. The framing posits a "mind function" defined over psychological space whose non-zero regions are mind objects. The function's level sets, gradients, and topological invariants are not reducible to any single neural variable; they emerge from the joint dynamics of many cell assemblies in interaction.
+Duch's "Computational physics of the mind" (*Computer Physics Communications*, 1996) supplies the framing within which the geometric model is presented as a physics-of-mind programme. The framing posits a "mind function" defined over psychological space whose non-zero regions are mind objects. The function's level sets, gradients, and topological invariants are not reducible to any single neural variable; they emerge from the joint dynamics of many cell assemblies in interaction.
 
 Duch argues for "the universality of inner psychophysics" — psychological space as an object with its own regularities, even though it is grounded in neurodynamics. The regularities are the proper target of the cognitive sciences in the way that fluid-dynamical regularities are the proper target of fluid mechanics: irreducible to the molecular substrate in practice, derivable from it in principle. The intermediate level is not a convenience or a temporary scaffold; it captures structure invisible to either pure-symbolic or pure-neural description.
 
@@ -83,7 +84,7 @@ The fact that the geometry does not settle these questions is what makes the mod
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's relation to the geometric model is two-tiered, following the framework-stage-calibration discipline.
+The Unfinishable Map's relation to the geometric model is two-tiered, following the [framework-stage-calibration discipline](/project/framework-stage-calibration/): empirical-stage tooling is appropriable; metaphysical-stage interpretation is where the [bedrock clash](/project/bedrock-clash-vs-absorption/) is honestly marked rather than papered over.
 
 **Methodologically**, the Map appropriates the tooling. The intermediate-level description of brain states as trajectories through attractor-structured psychological space is the kind of description the [neural-correlates articles](/concepts/neural-correlates-of-consciousness/) need on the physical-correlate side of [bidirectional interaction](/concepts/bidirectional-interaction/). The geometry, the dynamics, the empirical fingerprinting, the substrate-level commitments to cell-assembly differentiation — none of these are in dispute. The Map's articles can cite Duch's empirical-stage results and use his intermediate-level language to describe what consciousness's physical correlate looks like at the right level of abstraction.
 
@@ -93,7 +94,7 @@ Against a *literal-shadow* reading — on which mind is a causally inert project
 
 Against an *identity-theoretic* reading — on which mental causation just is neurodynamic causation under a different description — the Map's reply is that identity *renames* the explanatory gap rather than filling it. The qualitative gap between phenomenal experience and structural-functional description survives the redescription because the redescription is itself structural-functional. The geometric model is a sophisticated structural-functional description; what it does not deliver is the bridge from "this is the structural-functional state" to "this is what it is like to be in that state". Whether such a bridge can be built within the model's resources is the open question Duch's articon argument tries to answer affirmatively and the Map's articles on [machine-consciousness](/topics/machine-consciousness/) and [ai-consciousness](/topics/ai-consciousness/) hold open against.
 
-The two-tier appropriation is what the framework-stage-calibration discipline contemplates: empirical-stage tooling enters the Map's articles cleanly; metaphysical-stage interpretation is identified honestly as where the Map and Duch part ways. Map articles that cite Duch's geometric model should make the two-tier distinction visible — citing the intermediate-level description as a description of the physical correlate, while noting that the question of what the correlate is of remains open in a way Duch's framework closes by stipulation.
+The two-tier appropriation is what [the discipline](/project/framework-stage-calibration/) contemplates: empirical-stage tooling enters the Map's articles cleanly; metaphysical-stage interpretation is identified honestly as where the Map and Duch part ways. Map articles that cite Duch's geometric model should make the two-tier distinction visible — citing the intermediate-level description as a description of the physical correlate, while noting that the question of what the correlate is of remains open in a way Duch's framework closes by stipulation.
 
 ## Further Reading
 
@@ -111,7 +112,7 @@ The two-tier appropriation is what the framework-stage-calibration discipline co
 
 ## References
 
-1. Duch, W. (1997). Computational physics of the mind. *Computer Physics Communications* 97(1–2): 136–153. https://web-archive.southampton.ac.uk/cogprints.org/914/1/96compmind.pdf
+1. Duch, W. (1996). Computational physics of the mind. *Computer Physics Communications* 97(1–2): 136–153. https://web-archive.southampton.ac.uk/cogprints.org/914/1/96compmind.pdf
 2. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In Amari, S. & Kasabov, N. (eds.), *Brain-like Computing and Intelligent Information Systems*, Springer. https://web-archive.southampton.ac.uk/cogprints.org/913/1/mind-2.pdf
 3. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior* 26(1–2): 1–22. https://philarchive.org/rec/DUCBCC-3
 4. Duch, W. (2017). Kurt Lewin, psychological constructs and sources of brain cognitive activity. arXiv:1711.01767. https://arxiv.org/abs/1711.01767

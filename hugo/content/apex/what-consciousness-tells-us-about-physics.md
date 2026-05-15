@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-05-03 11:28:31.632243+00:00
+ai_modified: 2026-05-15 19:20:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-27 12:43:00+00:00
 apex_sources:
@@ -63,6 +63,7 @@ related_articles:
 - '[[four-quadrant-dualism-taxonomy]]'
 - '[[delegatory-dualism]]'
 - '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
+- '[[concepts/geometric-model-of-mind]]'
 title: What Consciousness Tells Us About Physics
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -190,7 +191,7 @@ If this picture is correct, a genuine theory of everything would need to be *bi-
 
 ## The Rival Programme: A Physics-of-Mind That Goes the Other Way
 
-The reverse inference runs from consciousness to constraints on physics. The most rigorous *programmatic competitor* runs in the opposite direction: from physics to mind. Włodzisław Duch's "computational physics of the mind" (Duch 1996, 2019) explicitly proposes that cognitive science should be a target for the same modelling discipline physics applies to other domains — mind objects as quasi-stable attractor states of brain dynamics, mental events as trajectories through psychological space, mind as the "shadow" of neurodynamics. The directionality is the inverse of the reverse inference: physics is the secure starting point and mind is the *expressed approximation*. Duch's anti-quantum-mind position (extensively documented in [the research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/)) deepens the rivalry — he argues that quantum proposals are "pseudo-mysticism" using exotic physics to fill gaps a classical-computational model can already fill. His position is the strongest competent denial of *both* moves the reverse inference makes: that consciousness is not exhausted by neurodynamics, and that quantum indeterminacies are the right place for the interface to sit.
+The reverse inference runs from consciousness to constraints on physics. The most rigorous *programmatic competitor* runs in the opposite direction: from physics to mind. Włodzisław Duch's "computational physics of the mind" (Duch 1996, 2019) explicitly proposes that cognitive science should be a target for the same modelling discipline physics applies to other domains — mind objects as quasi-stable attractor states of brain dynamics, mental events as trajectories through psychological space, mind as the "shadow" of neurodynamics. The formal tooling — [psychological space, attractor basins, and trajectory-as-mental-event](/concepts/geometric-model-of-mind/) — is methodologically appropriable; the metaphysical reading is where the rivalry lives. The directionality is the inverse of the reverse inference: physics is the secure starting point and mind is the *expressed approximation*. Duch's anti-quantum-mind position (extensively documented in [the research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/)) deepens the rivalry — he argues that quantum proposals are "pseudo-mysticism" using exotic physics to fill gaps a classical-computational model can already fill. His position is the strongest competent denial of *both* moves the reverse inference makes: that consciousness is not exhausted by neurodynamics, and that quantum indeterminacies are the right place for the interface to sit.
 
 The two programmes are not symmetrically opposed; they are calibrated against each other along two axes. *On the directionality axis*: the reverse inference reads the measurement problem as disclosure of a structural-actualising boundary; Duch reads it as a within-physics problem to be settled by spontaneous-collapse mechanisms (which the reverse inference accepts as the baseline) without consciousness contributing anything additional. *On the substantive-quantum axis*: the reverse inference and Duch *converge* against Penrose-Hameroff-scale macroscopic coherence proposals while *diverging* on whether anything below that scale (the Map's minimal interface) is required at all. The framework-stage-calibration discipline (per [framework-stage-calibration](/project/framework-stage-calibration/)) is the right anchor for the disagreement: the reverse inference is *pre-Keplerian* — accumulating Tycho-analogue measurements (bandwidth, Born-rule consistency, theta-band signatures) en route to specification laws Duch's classical-computational model claims are unnecessary. The empirical-equivalence problem below is where both programmes meet on equal terms: until the falsification roadmap delivers, the choice between Duch's classical-shadow reading and the reverse inference's bi-aspectual reading runs along philosophical rather than experimental axes.
 

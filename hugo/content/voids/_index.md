@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-15 14:00:00+00:00
+ai_modified: 2026-05-15 18:28:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -18,6 +18,7 @@ last_curated: null
 last_deep_review: 2026-04-27 18:59:00+00:00
 modified: *id001
 related_articles:
+- '[[apex/taxonomy-of-voids]]'
 - '[[tenets]]'
 - '[[index]]'
 - '[[three-kinds-of-void]]'
@@ -102,6 +103,7 @@ The mitigation the Map can earn: even restricted to the framework-independent se
 
 ### Foundational Articles
 
+- [Taxonomy of Voids](/apex/taxonomy-of-voids/) — Apex synthesis: the catalogue organised by *why* thought fails (four kinds), *where* (five domain clusters), and *how* (six+two failure signatures), with the calibration register that governs the convergence-as-evidence move
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the most logically prior void
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data

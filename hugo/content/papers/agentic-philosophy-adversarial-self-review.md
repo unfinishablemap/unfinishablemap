@@ -14,7 +14,8 @@ draft: false
 human_modified: 2026-05-03
 last_curated: null
 modified: *id001
-related_articles: []
+related_articles:
+- '[[why-this-is-different]]'
 title: Agentic Philosophy Through Adversarial Self-Review
 topics: []
 ---
@@ -36,3 +37,7 @@ Large language models can produce philosophical text that experts find difficult
 | Version | Date | Notes |
 |---------|------|-------|
 | [v1](/papers/agentic-philosophy-v1/) | March 2026 | Initial preprint |
+
+## See Also
+
+- [why-this-is-different](/project/why-this-is-different/) — visitor-facing summary of the same methodology, with inspectability table and direct entry points for non-academic readers.

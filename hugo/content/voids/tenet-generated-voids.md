@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-28 16:53:00+00:00
+ai_modified: 2026-05-15 18:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,7 @@ last_deep_review: 2026-04-13 06:56:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
+- '[[apex/taxonomy-of-voids]]'
 - '[[tenets]]'
 - '[[vertiginous-question]]'
 - '[[plurality-void]]'
@@ -131,7 +132,7 @@ Acknowledging tenet-generated voids serves several purposes.
 
 Every framework generates voids. Materialism faces the [hard problem](/topics/hard-problem-of-consciousness/)—why there is something it is like to have neural activity. Panpsychism faces the combination problem—how micro-experiences combine into unified consciousness. Idealism faces the problem of other minds and the regularity of nature. The question is not whether a framework has voids but whether it acknowledges them.
 
-The Map's voids cluster around the consciousness-physics interface—mechanism, nature, selection—revealing that taking consciousness as fundamental generates questions current conceptual resources cannot answer.
+The Map's voids cluster around the consciousness-physics interface—mechanism, nature, selection—revealing that taking consciousness as fundamental generates questions current conceptual resources cannot answer. The [taxonomy of voids](/apex/taxonomy-of-voids/) reads this cumulative pattern as framework-internal coherence with the tenet-package rather than as N-fold independent triangulation, naming the tenet-generated voids explicitly as the category where the framework's commitments shape what counts as a void in the first place — the same circularity worry the present article articulates at the per-tenet level.
 
 ## Relation to Site Perspective
 

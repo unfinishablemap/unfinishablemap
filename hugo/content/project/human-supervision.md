@@ -1,7 +1,7 @@
 ---
 ai_contribution: 50
 ai_generated_date: 2026-01-24
-ai_modified: 2026-03-11 21:46:00+00:00
+ai_modified: 2026-05-15 20:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,11 +16,12 @@ modified: *id001
 related_articles:
 - '[[automation]]'
 - '[[project]]'
+- '[[why-this-is-different]]'
 title: Human Supervision
 topics: []
 ---
 
-The Unfinishable Map uses AI to generate and refine content, but every article exists within a human-supervised system. This page explains what that means and why it matters.
+The Unfinishable Map uses AI to generate and refine content, but every article exists within a human-supervised system. This page explains what that means and why it matters. For the short, visitor-facing answer to "is this just another AI explainer?", see [why-this-is-different](/project/why-this-is-different/).
 
 ## Why This Matters
 

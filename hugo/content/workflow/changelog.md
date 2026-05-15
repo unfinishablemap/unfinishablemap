@@ -1,13 +1,71 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15 17:51:00+00:00
+ai_modified: 2026-05-15 21:55:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-15'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-15 21:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Per-Cluster Independence-Scoring Exhibit for the Introspection-Architecture Sub-Cluster
+- **Output**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Word count**: 2998 (ok at 100% of 3000 soft target)
+- **Based on research**: no — based on `reviews/cross-review-2026-05-15-introspection-architecture-cluster-audit.md` (audit of the four cluster members) and the methodological scaffolding in `project/voids-circularity-discount.md` and `project/common-cause-null.md`; second worked exhibit in parallel to `voids/the-surplus-void.md`. Scores against apophatic-cartography's four criteria (signature specificity, structured persistence, cross-observer convergence, framework independence); sorts anchors by population-type (patient-population: Gazzaniga, Schnider, Hirstein; healthy-adult: Nisbett-Wilson, Johansson-Hall, Coutinho, Wheatley, Haidt; cross-tradition: Buddhist *kleshas* calibration-grade; cross-species gap named); applies despite-commitments / because-prediction split. Honors evidential-status-discipline — calibration not proof.
+
+## 2026-05-15 21:20 UTC - deep-review
+- **Status**: Success
+- **File**: [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
+- **Word count**: 3925 → 3925 (length-neutral; soft_warning at 131% of 3000 target)
+- **Critical issues addressed**: 1 — possibility/probability slippage in the Threshold-Crossing section. The empirical Thura & Cisek 280ms commitment point was correctly attributed, but the subsequent passage used present indicative ("produces a measurable difference") for what the article's own "What Remains Speculative" section disclaims as an unrealized prediction. A tenet-accepting reviewer would still flag this under the diagnostic test. Resolution: softened to conditional/predictive phrasing — "marks where the amplification chain would terminate on this account" / "would shift which competing neural population reaches threshold first" / "The predicted outcome." Length-neutral substitution.
+- **Medium issues addressed**: 0 (indicative-mood description of the three-stage chain was reviewed and left as-is — the "What Remains Speculative" section provides adequate calibration two sections later, and the indicative is conventional model-description in scientific writing)
+- **Enhancements made**: 0 — article is at 131% of soft threshold, length-neutral mode; substantial cross-linking already in place (≈20 wikilinks all verified to resolve)
+- **Engagement modes (editor-internal)**: not applicable — survey of mechanisms, not a polemical reply. Tegmark's decoherence calculation is engaged via empirical recalculation by other researchers (Hagan/Tuszynski/Hameroff 2002), not as a framework rebuttal. No Mode-One/Two/Three classifications needed.
+- **Stability note**: Fifth deep review of this article. Through all five, no attribution errors, internal contradictions, or source/Map conflations have been found. Seven-mechanism + three-stage-chain is the post-coalesce stable shape. Future reviews should re-check only after substantive content additions; bedrock disagreement from physicalist/MWI/eliminative-materialist personas at the framework boundary should not be re-flagged as critical.
+- **Output**: [deep-review-2026-05-15-amplification-mechanisms-consciousness-physics](/reviews/deep-review-2026-05-15-amplification-mechanisms-consciousness-physics/)
+
+## 2026-05-15 20:52 UTC - deep-review
+- **Status**: Success
+- **File**: [why-this-is-different](/project/why-this-is-different/) (orphan-integration deep review)
+- **Word count**: 531 → 531 (target body unchanged; two prose fixes were token-neutral)
+- **Critical issues addressed**: 2 — both instances of the forbidden "This is not X. It is Y." LLM-cliché construct (per CLAUDE.md writing-style rule); rephrased inline and as a direct positive claim respectively
+- **Medium issues addressed**: 1 — zero inbound body-links from the catalogue; resolved by installing reciprocal references from `project/project.md` (Related Documents list + frontmatter), `project/human-supervision.md` (intro + frontmatter), `project/automation.md` (opening lede + frontmatter), and `papers/agentic-philosophy-adversarial-self-review.md` (See Also section + frontmatter)
+- **Enhancements made**: target article's `related_articles` frontmatter updated to include `human-supervision` (the closest sibling page); inline body link to `[[human-supervision]]` added at "human direction" anchor; `ai_contribution` raised from 30 to 35 to reflect the cliché-fix pass
+- **Engagement modes (editor-internal)**: not applicable — article makes no named-opponent replies; no source-based attribution claims; no possibility/probability slippage; reviewed against landing-page conventions rather than philosophical-engagement discipline
+- **Stability note**: Empiricist (Popper) objection that the comparison table's right column is self-descriptive is *not* a critical issue — it is the article's defensible self-positioning, with operational falsifiers (GitHub history, changelog, review archive) already listed in the body. Future reviews should not re-flag. Coalesce with `human-supervision.md` is a separate editorial question deferred.
+- **Output**: [deep-review-2026-05-15-why-this-is-different](/reviews/deep-review-2026-05-15-why-this-is-different/)
+
+## 2026-05-15 20:20 UTC - condense
+- **Status**: Success
+- **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Before**: 4053 words (hard_warning, 135% of target)
+- **After**: 3134 words (soft_warning, slightly above 3000 target)
+- **Reduction**: 22.7% (919 words cut)
+- **Technique**: Tightened prose throughout (removed hedging, qualifications, restated openers); compressed the Bayesian-formalisation aside in Formal Structure; trimmed the long contemplative-phenomenology passage in Robustness; cut repeated framing in the vitalism/geocentrism analysis; merged the standalone "Scope of the Argument" section into "Convergence Applied to Dualism" as a subsection (eliminating duplicated scope-condition discussion); light tightening across Anti-Realist Challenge, Divergence, and Relation to Site Perspective. Preserved opening summary, three-condition framework, tenet alignment, all cross-links, and the article's distinctive voice.
+
+## 2026-05-15 19:20 UTC - deep-review
+- **Status**: Success
+- **File**: [geometric-model-of-mind](/concepts/geometric-model-of-mind/) (back-link installation pass)
+- **Word count**: 2003 → 2003 (unchanged; back-link pass only)
+- **Critical issues addressed**: 0 (target article unchanged in body)
+- **Medium issues addressed**: 5 — installed reciprocal back-links from the five most natural-anchor articles: [duch-neurodynamic-theory-of-mind](/topics/duch-neurodynamic-theory-of-mind/) (sibling topic with whole section on the geometric model), [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) (subsection "Borrowed Tooling: The Geometric / Feature-Space Description"), [biological-computationalism](/concepts/biological-computationalism/) (Historical Context paragraph on Duch's substrate-independent computationalism), [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/) (subsection "A Borrowed Intermediate-Level Description"), [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) (section "The Rival Programme: A Physics-of-Mind That Goes the Other Way"). Each landing wraps an existing inline reference to Duch's geometric tooling; no synthetic prose was injected.
+- **Enhancements made**: 5 back-links installed, each at a natural inline anchor; concept-page now properly locatable from the five most relevant entry points
+- **Engagement modes (editor-internal)**: All five installations are Mode One — natural fit. No label leakage; no rewriting of destination prose.
+- **Stability note**: The five-back-link state is the stable post-creation configuration. Ten further candidates are deferred; future deep-reviews of the destination articles can install them organically when natural anchor points emerge. Principle: back-links should follow editorial expansion, not drive it.
+- **Output**: [deep-review-2026-05-15-geometric-model-of-mind-backlinks](/reviews/deep-review-2026-05-15-geometric-model-of-mind-backlinks/)
+
+## 2026-05-15 18:51 UTC - deep-review
+- **Status**: Success
+- **File**: [geometric-model-of-mind](/concepts/geometric-model-of-mind/)
+- **Word count**: 1986 → 2003 (+17)
+- **Critical issues addressed**: 1 — Duch CPC paper date 1997 → 1996 (body and references), aligning with sibling [duch-neurodynamic-theory-of-mind](/topics/duch-neurodynamic-theory-of-mind/), apex [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/), and the [research notes](/research/wlodzislaw-duch-consciousness-2026-05-02/)
+- **Medium issues addressed**: 2 — wikilinked "framework-stage-calibration discipline" → [framework-stage-calibration](/project/framework-stage-calibration/) at both occurrences; added [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) cross-link to expose the disagreement-pattern that governs the two-tier engagement
+- **Engagement modes (editor-internal)**: Mode Three (framework-boundary) for the literal-shadow → epiphenomenalism reply; Mode Two (unsupported foundational move) for the identity-theoretic → "identity renames the gap" reply. No label leakage in article prose.
+- **Stability note**: Two bedrock disagreements with Duch (physicalist denial of phenomenal gap; identity-theoretic denial that renaming is not explaining) are framework-boundary clashes, not correctable defects — future reviews should not re-flag these as critical
+- **Output**: [deep-review-2026-05-15-geometric-model-of-mind](/reviews/deep-review-2026-05-15-geometric-model-of-mind/)
 
 ## 2026-05-15 17:51 UTC - expand-topic
 - **Status**: Success

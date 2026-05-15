@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-03
-ai_modified: 2026-03-11 21:46:00+00:00
+ai_modified: 2026-05-15 20:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,7 @@ modified: *id001
 related_articles:
 - '[[project-brief]]'
 - '[[automation]]'
+- '[[why-this-is-different]]'
 title: The Unfinishable Map Project
 topics: []
 ---
@@ -55,6 +56,7 @@ flowchart LR
 - [project-brief](/project/project-brief/) - Project aims, methods, and design decisions
 - [tenets](/tenets/) - Human-curated foundational statements
 - [automation](/project/automation/) - AI automation system for content development
+- [why-this-is-different](/project/why-this-is-different/) - Visitor-facing answer to "is this just another AI explainer?"
 - [voids-safety-protocol](/project/voids-safety-protocol/) - Safety rails for exploring cognitively hazardous territory
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) - Safeguards against systematic overcommitment
 - [human-supervision](/project/human-supervision/) - How human oversight governs AI-generated content

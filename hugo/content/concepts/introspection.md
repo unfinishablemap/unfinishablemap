@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-15 13:20:00+00:00
+ai_modified: 2026-05-15 18:28:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -39,6 +39,7 @@ last_deep_review: 2026-04-28 04:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[apex/taxonomy-of-voids]]'
 - '[[introspection-reliability-first-person-2026-01-15]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
 - '[[voids-between-minds]]'
@@ -149,7 +150,7 @@ This differs from the process/content distinction. That distinction says we cann
 
 David Hume put it empirically: "I can never catch myself at any time without a perception." [Witness consciousness](/concepts/witness-consciousness/) traditions reach the same end—the instruction to "look at the looker" exhausts the search rather than finding something.
 
-The [self-reference paradox](/voids/self-opacity/) distinguishes three converging types: *structural* limits analogous to Gödel's incompleteness (some truths about the system lie permanently beyond its reach), *transparency* limits where the self-model must hide its machinery to function, and *recursive* limits where nested self-observation collapses. All three constrain introspection — a form of [self-stultification](/concepts/self-stultification/) where self-knowing undermines self-knowledge. The implications: understanding subjectivity requires making it into an object; meditators report the limit more clearly rather than overcoming it; and the calibrator *is* the thing to be calibrated. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) places these signatures in a broader grid where construction-mistaken-for-observation is the characteristic failure mode of introspective limits.
+The [self-reference paradox](/voids/self-opacity/) distinguishes three converging types: *structural* limits analogous to Gödel's incompleteness (some truths about the system lie permanently beyond its reach), *transparency* limits where the self-model must hide its machinery to function, and *recursive* limits where nested self-observation collapses. All three constrain introspection — a form of [self-stultification](/concepts/self-stultification/) where self-knowing undermines self-knowledge. The implications: understanding subjectivity requires making it into an object; meditators report the limit more clearly rather than overcoming it; and the calibrator *is* the thing to be calibrated. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) places these signatures in a broader grid where construction-mistaken-for-observation is the characteristic failure mode of introspective limits. The [taxonomy of voids](/apex/taxonomy-of-voids/#the-self-knowledge-cluster) treats the introspective architecture as the operation around which the catalogue's largest cluster (self-knowledge) is organised, with a four-void introspection-architecture sub-cluster (narrative, source-attribution, noetic-feelings, confabulation) supplying the cluster's empirical backbone.
 
 ## Error-Blindness: A Structural Limit
 
@@ -192,6 +193,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — First-person observation through contemplative practice as legitimate knowledge
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon in contemplative traditions
 - [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: phenomenological experiments you can run using your own experience
+- [Taxonomy of Voids](/apex/taxonomy-of-voids/) — Apex synthesis: the catalogue's cluster-level treatment of self-knowledge voids, where introspection is the cognitive operation around which the largest cluster is organised
 - [source-attribution-void](/voids/source-attribution-void/) — The architectural absence of origin tags on mental content: why choice blindness and confabulation are structural features rather than noisy exceptions
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — The felt signals that gate cognition from inside (feelings of knowing, rightness, familiarity) and why the heuristic machinery producing them is recursively opaque
 - [imagery-void](/voids/imagery-void/) — Aphantasia/hyperphantasia divergence as paradigm intra-species phenomenal incommensurability; the function-phenomenology wedge from mental rotation studies

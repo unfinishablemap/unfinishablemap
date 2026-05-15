@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 21:20:00+00:00
+ai_modified: 2026-05-15 19:20:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
+- '[[geometric-model-of-mind]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[biological-computationalism]]'
 - '[[quantum-consciousness]]'
@@ -52,7 +53,7 @@ What "shadow" means metaphysically is open to two readings inside Duch's corpus.
 
 ## The Geometric Model: Psychological Space and Attractor Dynamics
 
-The geometric programme is the most empirically productive element of Duch's corpus and the part the Map's articles can most cleanly engage. Three commitments structure it.
+The geometric programme — treated in detail in the [geometric-model-of-mind concept article](/concepts/geometric-model-of-mind/) — is the most empirically productive element of Duch's corpus and the part the Map's articles can most cleanly engage. Three commitments structure it.
 
 First, **mind objects are basins of attraction**. A concept like "dog" corresponds not to a symbol or a single neural state but to a region of neurodynamic state-space whose attractor structure pulls in nearby trajectories. The model predicts that conceptually similar items occupy nearby regions, that conceptual ambiguity corresponds to overlapping or saddle-point regions, and that conceptual transitions trace trajectories whose topology constrains what counts as valid inference.
 
@@ -109,6 +110,7 @@ The articon thesis is the strongest competent affirmative position the Map's [op
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)
 - [ai-consciousness](/topics/ai-consciousness/)
+- [geometric-model-of-mind](/concepts/geometric-model-of-mind/)
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
 - [biological-computationalism](/concepts/biological-computationalism/)
 - [qualia](/concepts/qualia/)

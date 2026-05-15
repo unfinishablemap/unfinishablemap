@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-13 16:22:00+00:00
+ai_modified: 2026-05-15 19:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
 - '[[interactionist-dualism]]'
+- '[[geometric-model-of-mind]]'
 - '[[integrated-information-theory]]'
 - '[[concepts/materialism]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
@@ -90,7 +91,7 @@ For interactionist frameworks, NCC research may help locate the *interface* wher
 
 ### Borrowed Tooling: The Geometric / Feature-Space Description
 
-Some NCC tooling is methodologically appropriable from research programmes whose metaphysics the Map rejects. Włodzisław Duch's geometric / feature-space programme (Duch 1998, 2022) describes mental states as quasi-stable attractor basins in a multi-dimensional psychological space, mental events as trajectories between attractors, and concepts as topological structure over those trajectories. Empirical loading comes from feature-space matches to similarity-judgment data (the Duch & Naud animal-concept experiment) and from the broader neurocognitive-informatics programme. The framework supplies an intermediate-level correlate-side description — between symbolic AI and pure neural simulation — of how transitions between attractors map onto reportable changes in conscious content.
+Some NCC tooling is methodologically appropriable from research programmes whose metaphysics the Map rejects. Włodzisław Duch's [geometric / feature-space programme](/concepts/geometric-model-of-mind/) (Duch 1998, 2022) describes mental states as quasi-stable attractor basins in a multi-dimensional psychological space, mental events as trajectories between attractors, and concepts as topological structure over those trajectories. Empirical loading comes from feature-space matches to similarity-judgment data (the Duch & Naud animal-concept experiment) and from the broader neurocognitive-informatics programme. The framework supplies an intermediate-level correlate-side description — between symbolic AI and pure neural simulation — of how transitions between attractors map onto reportable changes in conscious content.
 
 The Map borrows the empirical tooling without Duch's metaphysical reading of mind as a "shadow" of neurodynamics. That reading is ontologically derivative ([Tenet 1](/tenets/#dualism) rejects it) and structurally compatible with the epiphenomenalism [Tenet 3](/tenets/#bidirectional-interaction) rejects. Per [framework-stage-calibration](/project/framework-stage-calibration/), the borrowing stays at the empirical layer; convergence and divergence are mapped in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
 
@@ -195,6 +196,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why consciousness resists measurement at every level
 - [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/) — COGITATE results, split-brain unity, and other 2025-2026 findings bearing on NCC interpretation
 - [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — Geometric / feature-space tooling appropriated for the correlate-side description, with framework-stage-calibration boundaries kept explicit
+- [geometric-model-of-mind](/concepts/geometric-model-of-mind/) — The borrowed tooling treated in its own concept article
 
 ## References
 
