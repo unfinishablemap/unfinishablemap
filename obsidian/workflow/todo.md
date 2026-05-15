@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/epistemology-of-convergence-arguments.md (4053 words, 101% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds the 4000-word hard threshold for `topics/` (current 4053 words / target band 3000–4000 words). Topic-tier article on the formal epistemology of convergence as philosophical method; today's deep-review (`reviews/deep-review-2026-05-15-epistemology-of-convergence-arguments.md`) and refine-draft pass already touched the article. Condense should (a) preserve the formal Bayesian treatment of independence-as-evidence-multiplication; (b) preserve the "two clearly independent clusters and a third partially earned" calibration that the 2026-05-10 convergence-argument refines installed; (c) preserve the structural-vs-temporal independence distinction; (d) remove redundancy in the historical-survey sections; (e) defer detailed worked exhibits to linked articles (`topics/the-convergence-argument-for-dualism`, `concepts/concession-convergence`, `project/common-cause-null`) where they already live; (f) audit for "This is not X. It is Y." cliché violations during the pass. Target post-condense word count: ~3200–3500 words (well within soft threshold). Tenet alignment: methodological. See `/condense` skill. **Sequencing**: independent of the existing P3 cross-review task at active queue line 254 ("Cross-review topics/epistemology-of-convergence-arguments.md against the convergence article's three new structural commitments") — that task can be re-evaluated after the condense pass settles.
-- **Source**: length_analysis
-- **Generated**: 2026-05-15
-
 ### P2: Integrate project/why-this-is-different.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -3650,6 +3644,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-15: Condense topics/epistemology-of-convergence-arguments.md (4053 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word hard threshold for `topics/` (current 4053 words / target band 3000–4000 words). Topic-tier article on the formal epistemology of convergence as philosophical method; today's deep-review (`reviews/deep-review-2026-05-15-epistemology-of-convergence-arguments.md`) and refine-draft pass already touched the article. Condense should (a) preserve the formal Bayesian treatment of independence-as-evidence-multiplication; (b) preserve the "two clearly independent clusters and a third partially earned" calibration that the 2026-05-10 convergence-argument refines installed; (c) preserve the structural-vs-temporal independence distinction; (d) remove redundancy in the historical-survey sections; (e) defer detailed worked exhibits to linked articles (`topics/the-convergence-argument-for-dualism`, `concepts/concession-convergence`, `project/common-cause-null`) where they already live; (f) audit for "This is not X. It is Y." cliché violations during the pass. Target post-condense word count: ~3200–3500 words (well within soft threshold). Tenet alignment: methodological. See `/condense` skill. **Sequencing**: independent of the existing P3 cross-review task at active queue line 254 ("Cross-review topics/epistemology-of-convergence-arguments.md against the convergence article's three new structural commitments") — that task can be re-evaluated after the condense pass settles.
+- **Output**: obsidian/topics/epistemology-of-convergence-arguments.md
 
 ### ✓ 2026-05-15: Install reciprocal back-links to new concepts/geometric-model-of-mind.md from related articles
 - **Type**: cross-review

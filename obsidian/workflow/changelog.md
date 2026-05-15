@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T19:20:00+00:00
+ai_modified: 2026-05-15T20:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 20:20 UTC - condense
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Before**: 4053 words (hard_warning, 135% of target)
+- **After**: 3134 words (soft_warning, slightly above 3000 target)
+- **Reduction**: 22.7% (919 words cut)
+- **Technique**: Tightened prose throughout (removed hedging, qualifications, restated openers); compressed the Bayesian-formalisation aside in Formal Structure; trimmed the long contemplative-phenomenology passage in Robustness; cut repeated framing in the vitalism/geocentrism analysis; merged the standalone "Scope of the Argument" section into "Convergence Applied to Dualism" as a subsection (eliminating duplicated scope-condition discussion); light tightening across Anti-Realist Challenge, Divergence, and Relation to Site Perspective. Preserved opening summary, three-condition framework, tenet alignment, all cross-links, and the article's distinctive voice.
 
 ## 2026-05-15 19:20 UTC - deep-review
 - **Status**: Success
