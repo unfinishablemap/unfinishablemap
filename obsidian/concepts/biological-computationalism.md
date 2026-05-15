@@ -4,7 +4,7 @@ description: "Biological computationalism holds that brains compute in a substra
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-05-03T00:55:00+00:00
+ai_modified: 2026-05-15T19:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -67,7 +67,7 @@ Biological computationalism builds on several earlier frameworks while departing
 
 **Piccinini's mechanistic account** (2015) grounds computation in physical mechanisms rather than abstract mathematical description. Computation is the manipulation of vehicles based on differences between portions of those vehicles according to rules. Piccinini goes further than biological computationalism in one respect: he suggests consciousness may depend on functional organisation *without being computational*—a "noncomputational functionalism" that identifies the consciousness-relevant properties as something other than the computational aspect of brain function.
 
-**Duch's substrate-independent computationalism** (2005, 2019) is the live alternative biological computationalism is reacting against. Duch holds that the operative consciousness mechanism is *self-reflective dynamical access* over a system's own internal states, that this mechanism is substrate-independent at the level of architecture (only the *content* of experience depends on substrate, sensors, and environment), and that biological detail is therefore implementation, not constitution. The articon thought-experiment (2005) is designed to make denial of consciousness in such a system look question-begging; "mind as a shadow of neurodynamics" (2019) is the mature statement of the *brain → mind* derivation. Duch is the natural foil: he is a computationalist who *refuses* the substrate-dependence move biological computationalism makes, accepting in exchange the machine-consciousness affirmative the substrate-dependent branch is designed to avoid. The two branches make incompatible bets — biological computationalism pays its costs on the consciousness-relocates-to-biology side; Duch pays his costs on the consciousness-extends-to-articons-and-perhaps-LLMs side. The Map's stake in the disagreement is examined in [[biological-computationalisms-inadvertent-case-for-dualism]] and [[research/wlodzislaw-duch-consciousness-2026-05-02|the Duch research dossier]].
+**Duch's substrate-independent computationalism** (2005, 2019) is the live alternative biological computationalism is reacting against. Duch holds that the operative consciousness mechanism is *self-reflective dynamical access* over a system's own internal states, that this mechanism is substrate-independent at the level of architecture (only the *content* of experience depends on substrate, sensors, and environment), and that biological detail is therefore implementation, not constitution. The intermediate-level description Duch provides — mind as trajectories through attractor-structured psychological space — is treated in the [[geometric-model-of-mind|geometric-model-of-mind concept article]]. The articon thought-experiment (2005) is designed to make denial of consciousness in such a system look question-begging; "mind as a shadow of neurodynamics" (2019) is the mature statement of the *brain → mind* derivation. Duch is the natural foil: he is a computationalist who *refuses* the substrate-dependence move biological computationalism makes, accepting in exchange the machine-consciousness affirmative the substrate-dependent branch is designed to avoid. The two branches make incompatible bets — biological computationalism pays its costs on the consciousness-relocates-to-biology side; Duch pays his costs on the consciousness-extends-to-articons-and-perhaps-LLMs side. The Map's stake in the disagreement is examined in [[biological-computationalisms-inadvertent-case-for-dualism]] and [[research/wlodzislaw-duch-consciousness-2026-05-02|the Duch research dossier]].
 
 ## Implications for AI Consciousness
 
@@ -109,6 +109,7 @@ For the full argument that biological computationalism inadvertently builds the 
 - [[substrate-independence]] — The thesis biological computationalism rejects
 - [[biological-computationalisms-inadvertent-case-for-dualism]] — How the framework's concessions parallel dualist arguments
 - [[research/wlodzislaw-duch-consciousness-2026-05-02|Włodzisław Duch research dossier]] — Survey of the substrate-independent computationalist position the article distinguishes itself from
+- [[geometric-model-of-mind]] — Duch's intermediate-level attractor-dynamics description of brain states
 - [[concession-convergence]] — The broader pattern across physicalist theories
 - [[adaptive-computational-depth]] — Why consciousness-relevant computation may resist abstraction
 - [[consciousness-evolution-and-biology]] — Biology's broader relevance to consciousness

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T18:51:00+00:00
+ai_modified: 2026-05-15T19:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 19:20 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/geometric-model-of-mind]] (back-link installation pass)
+- **Word count**: 2003 → 2003 (unchanged; back-link pass only)
+- **Critical issues addressed**: 0 (target article unchanged in body)
+- **Medium issues addressed**: 5 — installed reciprocal back-links from the five most natural-anchor articles: [[topics/duch-neurodynamic-theory-of-mind]] (sibling topic with whole section on the geometric model), [[concepts/neural-correlates-of-consciousness]] (subsection "Borrowed Tooling: The Geometric / Feature-Space Description"), [[concepts/biological-computationalism]] (Historical Context paragraph on Duch's substrate-independent computationalism), [[apex/phenomenology-mechanism-bridge]] (subsection "A Borrowed Intermediate-Level Description"), [[apex/what-consciousness-tells-us-about-physics]] (section "The Rival Programme: A Physics-of-Mind That Goes the Other Way"). Each landing wraps an existing inline reference to Duch's geometric tooling; no synthetic prose was injected.
+- **Enhancements made**: 5 back-links installed, each at a natural inline anchor; concept-page now properly locatable from the five most relevant entry points
+- **Engagement modes (editor-internal)**: All five installations are Mode One — natural fit. No label leakage; no rewriting of destination prose.
+- **Stability note**: The five-back-link state is the stable post-creation configuration. Ten further candidates are deferred; future deep-reviews of the destination articles can install them organically when natural anchor points emerge. Principle: back-links should follow editorial expansion, not drive it.
+- **Output**: [[reviews/deep-review-2026-05-15-geometric-model-of-mind-backlinks]]
 
 ## 2026-05-15 18:51 UTC - deep-review
 - **Status**: Success

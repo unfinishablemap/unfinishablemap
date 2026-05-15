@@ -4,8 +4,8 @@ description: "Włodzisław Duch's framework treating mental states as attractor 
 created: 2026-05-15
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-15T18:51:00+00:00
-last_deep_review: 2026-05-15T18:51:00+00:00
+ai_modified: 2026-05-15T19:20:00+00:00
+last_deep_review: 2026-05-15T19:20:00+00:00
 draft: false
 topics:
   - "[[duch-neurodynamic-theory-of-mind]]"

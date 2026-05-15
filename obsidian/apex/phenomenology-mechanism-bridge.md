@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-05-12T04:20:00+00:00
+ai_modified: 2026-05-15T19:20:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[apex-articles]]"
   - "[[framework-stage-calibration]]"
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
+  - "[[concepts/geometric-model-of-mind]]"
   - "[[project/coherence-inflation-countermeasures]]"
 
 ai_contribution: 100
@@ -75,7 +76,7 @@ The phenomenological level provides the first anchor: the experience of agency h
 
 ### A Borrowed Intermediate-Level Description
 
-A specific class of intermediate-level description is methodologically appropriable for the bridge between phenomenology and neural architecture from a research programme whose metaphysics the chain otherwise rejects. Włodzisław Duch's geometric / feature-space programme (Duch 1998, 2022) describes mental states as quasi-stable attractor basins in a multi-dimensional psychological space, mental events as trajectories between attractors, and conceptual structure as topological constraint over those trajectories. Empirical loading comes from feature-space matches to similarity-judgment data and from the broader neurocognitive-informatics programme grounding cognitive constructs in measurable neural-network activity. This tooling sits at a level the bridge needs: between symbolic descriptions of mental content and pure neural simulation, with explicit links to first-person-relevant features but neurally instantiated dynamics.
+A specific class of intermediate-level description is methodologically appropriable for the bridge between phenomenology and neural architecture from a research programme whose metaphysics the chain otherwise rejects. Włodzisław Duch's [[concepts/geometric-model-of-mind|geometric / feature-space programme]] (Duch 1998, 2022) describes mental states as quasi-stable attractor basins in a multi-dimensional psychological space, mental events as trajectories between attractors, and conceptual structure as topological constraint over those trajectories. Empirical loading comes from feature-space matches to similarity-judgment data and from the broader neurocognitive-informatics programme grounding cognitive constructs in measurable neural-network activity. This tooling sits at a level the bridge needs: between symbolic descriptions of mental content and pure neural simulation, with explicit links to first-person-relevant features but neurally instantiated dynamics.
 
 The framework-stage-calibration discipline is the right anchor for the borrowing. Duch's empirical-stage tooling fits the bridge's correlate-side description of how phenomenologically reported transitions (effort, deliberation, settling) map onto neurally instantiated trajectories. The Map's appropriation must remain in the empirical-stage layer: Duch's metaphysical-stage thesis (mind as a "shadow" of neurodynamics, ontologically derivative) is *structurally compatible with epiphenomenalism* — and the chain's central commitment is the inverse, that consciousness does causal work the substrate-level dynamics cannot supply on their own. The borrowing therefore stops at the description; it does not import the metaphysical reading. The convergence-and-divergence map is in [[research/wlodzislaw-duch-consciousness-2026-05-02|the Duch research dossier]].
 
