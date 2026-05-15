@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-11 19:11:00+00:00
+ai_modified: 2026-05-15 03:31:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
 - '[[interface-specification-programme]]'
 - '[[interface-efficacy-and-the-cognitive-gap]]'
+- '[[overdetermination-dissolution-under-selection-only-interactionism]]'
 title: 'Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World
   Signatures'
 topics: []

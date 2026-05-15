@@ -32,6 +32,7 @@ related_articles:
 - '[[post-decoherence-selection-programme]]'
 - '[[interface-threshold]]'
 - '[[possibility-probability-slippage]]'
+- '[[brain-internal-born-rule-testing]]'
 title: Channel-Class Taxonomy
 topics:
 - '[[selection-only-mind-influence]]'
@@ -145,6 +146,7 @@ The Map treats the class hierarchy as a *menu, not a verdict*. Which class is co
 - [interface-threshold](/concepts/interface-threshold/) — Architectural conditions for any class to operate
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — Bandwidth implications across classes
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/) — Why coherence with tenets is not evidence for a class
+- [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — Mechanism-specific signatures for Classes 1–4 and what would foreclose each
 
 ## References
 

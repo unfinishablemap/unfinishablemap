@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-16 04:47:00+00:00
+ai_modified: 2026-05-15 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[time-symmetric-selection-mechanism]]'
 - '[[time-collapse-and-agency]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
+- '[[causal-consistency-constraint]]'
 title: Time-Symmetric Physics
 topics:
 - '[[hard-problem-of-consciousness]]'

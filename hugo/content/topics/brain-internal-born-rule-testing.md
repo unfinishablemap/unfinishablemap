@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-15 01:31:00+00:00
+ai_modified: 2026-05-15 05:02:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,11 +24,12 @@ description: 'The corridor reading of Tenet 2 predicts no Born-statistical signa
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 01:31:00+00:00
+last_deep_review: 2026-05-15 05:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[apex/post-decoherence-selection-programme]]'
+- '[[apex/phenomenology-of-consciousness-doing-work]]'
 - '[[mqi-empirical-fragility]]'
 - '[[evidential-status-discipline]]'
 - '[[penrose-gravity-induced-collapse-empirical-prospects]]'
@@ -36,6 +37,9 @@ related_articles:
 - '[[the-interface-problem]]'
 - '[[testability-ledger]]'
 - '[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]'
+- '[[quantum-measurement-and-consciousness]]'
+- '[[consciousness-and-causal-powers]]'
+- '[[quantum-biology-and-neural-consciousness]]'
 title: Brain-Internal Born-Rule Testing — What Experiments Would Foreclose the Corridor
 topics:
 - '[[born-rule-and-the-consciousness-interface]]'

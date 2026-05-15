@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-05-10 23:01:00+00:00
+ai_modified: 2026-05-15 04:31:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -55,6 +55,7 @@ related_articles:
 - '[[testing-consciousness-collapse]]'
 - '[[timing-gap-problem]]'
 - '[[decision-void]]'
+- '[[causal-consistency-constraint]]'
 title: Forward-in-Time Conscious Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -141,7 +142,7 @@ A more thoroughgoing dissent (Duch 2005, 2019) reads the same decoherence facts 
 
 Five considerations favour forward-in-time over retrocausal selection, varying in strength.
 
-**Minimality (strong).** The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) favours the smallest deviation from standard physics. Forward-in-time selection requires one intervention at one moment; retrocausal selection requires an influence propagating backward through an entire causal history.
+**Minimality (strong).** The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) favours the smallest deviation from standard physics. Forward-in-time selection requires one intervention at one moment; retrocausal selection requires an influence propagating backward through an entire causal history. The [causal consistency constraint](/concepts/causal-consistency-constraint/) sharpens what "minimal" means for the post-decoherence variant: selection-only coupling preserves Born statistics by construction, so the relativistic-causality requirement Torres Alegre (2025) showed any participant in measurement outcomes must respect is satisfied without further argument.
 
 **Phenomenological fit (weak).** Conscious experience presents itself as choosing among present possibilities, but this is non-conclusive: MWI satisfies it (each branch instantiates a choice), and so does epiphenomenalism. At best a tie-breaker.
 

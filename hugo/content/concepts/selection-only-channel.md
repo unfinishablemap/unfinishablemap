@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-15 01:31:00+00:00
+ai_modified: 2026-05-15 03:31:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -33,6 +33,7 @@ related_articles:
 - '[[interface-efficacy-and-the-cognitive-gap]]'
 - '[[possibility-probability-slippage]]'
 - '[[brain-internal-born-rule-testing]]'
+- '[[overdetermination-dissolution-under-selection-only-interactionism]]'
 title: Selection-Only Channel
 topics:
 - '[[selection-only-mind-influence]]'

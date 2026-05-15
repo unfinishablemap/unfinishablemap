@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-05-10 15:41:00+00:00
+ai_modified: 2026-05-15 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,6 +36,7 @@ related_articles:
 - '[[forward-in-time-conscious-selection]]'
 - '[[interactionist-dualism]]'
 - '[[phenomenology-of-memory-and-the-self]]'
+- '[[causal-consistency-constraint]]'
 title: Atemporal Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -113,7 +114,7 @@ A 2025 experimental result testing the physical significance of Bell nonlocality
 
 ### Lorentz Invariance
 
-Standard consciousness-collapse models face a relativistic problem: if consciousness collapses a spatially extended wavefunction, this requires a preferred reference frame — simultaneous collapse across space. Atemporal models, particularly the transactional interpretation, are naturally Lorentz invariant. The handshake between offer and confirmation waves respects relativity without requiring simultaneity. For a dualist framework that must interface with physics, this is a significant advantage over non-retrocausal selection models.
+Standard consciousness-collapse models face a relativistic problem: if consciousness collapses a spatially extended wavefunction, this requires a preferred reference frame — simultaneous collapse across space. Atemporal models, particularly the transactional interpretation, are naturally Lorentz invariant. The handshake between offer and confirmation waves respects relativity without requiring simultaneity. For a dualist framework that must interface with physics, this is a significant advantage over non-retrocausal selection models. The [causal consistency constraint](/concepts/causal-consistency-constraint/) makes the relativistic-causality requirement explicit: under purification, no-signalling forces the Born form for any interface theory, and atemporal-transactional readings inherit this constraint along the same channel as forward-in-time corridor readings.
 
 ## Comparison with Non-Retrocausal Selection
 

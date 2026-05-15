@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-30 19:21:00+00:00
+ai_modified: 2026-05-15 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,6 +22,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[von-neumann-wigner-interpretation]]'
 - '[[post-decoherence-selection]]'
+- '[[causal-consistency-constraint]]'
 created: 2026-02-01
 date: &id001 2026-04-18
 description: 'The measurement problem and the hard problem share an identical logical
@@ -41,6 +42,7 @@ related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'
 - '[[pragmatist-quantum-foundations-under-dualism]]'
 - '[[born-rule-and-the-consciousness-interface]]'
+- '[[brain-internal-born-rule-testing]]'
 - '[[consciousness-measurement-problem-2026-01-16]]'
 - '[[measurement-problem-quantum-mechanics-2026-01-14]]'
 - '[[methodology-of-consciousness-research]]'
@@ -133,7 +135,7 @@ The Map [rejects Many-Worlds](/tenets/#no-many-worlds) while acknowledging that 
 
 ### Exploit the Gap: Consciousness Selection
 
-A third approach takes the gap seriously: consciousness determines outcomes at the measurement event itself. The Map distinguishes three live flavors — *corridor-preserving*, *Born-bending*, and *trumping-orthogonal* — catalogued with empirical stakes in [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/). [Non-retrocausal selection](/topics/forward-in-time-conscious-selection/) frameworks like [Stapp's quantum Zeno model](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) and Chalmers-McQueen's CSL-IIT fall in the Born-bending family: mental attention biases which neural patterns become actual, with selection statistics depending on a consciousness-related variable. Stapp's model is the most developed successor to the [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/), specifying *how* consciousness terminates the chain — through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse."
+A third approach takes the gap seriously: consciousness determines outcomes at the measurement event itself. The Map distinguishes three live flavors — *corridor-preserving*, *Born-bending*, and *trumping-orthogonal* — catalogued with empirical stakes in [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/). The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) shapes how these flavors relate to physics: corridor-preserving readings inherit the constraint natively, Born-bending readings must show their deviation is signalling-safe, and trumping readings remain orthogonal because they do not modify the probability assignment. [Non-retrocausal selection](/topics/forward-in-time-conscious-selection/) frameworks like [Stapp's quantum Zeno model](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) and Chalmers-McQueen's CSL-IIT fall in the Born-bending family: mental attention biases which neural patterns become actual, with selection statistics depending on a consciousness-related variable. Stapp's model is the most developed successor to the [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/), specifying *how* consciousness terminates the chain — through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse."
 
 The strength: consciousness is causally efficacious—[Bidirectional Interaction](/tenets/#bidirectional-interaction) is preserved. The weakness: the mechanism by which mental attention generates observation events in a warm, decoherent brain remains unspecified.
 
@@ -206,6 +208,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Interpretation comparison
 - [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is assumed
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Empirical status of corridor vs. Born-bending dualism at the brain interface
+- [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — What experimental programme would foreclose the strict corridor reading of Tenet 2
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science reinforces the first-person/third-person distinction
 - [tenets](/tenets/) — The Map's foundational commitments
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-05-01 07:25:00+00:00
+ai_modified: 2026-05-15 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[psychophysical-laws]]'
 - '[[coupling-modes]]'
 - '[[causal-closure]]'
+- '[[causal-consistency-constraint]]'
 created: 2026-03-19
 date: &id001 2026-03-19
 description: 'The formal mathematical components and constraints any theory of consciousness-physics
@@ -73,7 +74,7 @@ Sorkin (1994) demonstrated that the Born rule implies the absence of third-order
 
 The coupling map must not inject energy, momentum, or any conserved quantity into the physical system (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for the full philosophical argument). Selection among quantum-allowed outcomes — biasing which result actualises on each trial without altering ensemble Born statistics — requires no energy transfer. Conservation laws hold in expectation: as long as outcome frequencies match squared amplitudes (Constraint 1), expected energy and momentum are preserved across the ensemble even when individual outcomes differ in energy. The clearest case is selection among energy-degenerate outcomes, where no individual transition violates conservation; the more general case is selection within Born-compliant statistics, where conservation holds on average. This is the formal basis for the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness acts only where physics is genuinely underdetermined, adding information without adding energy.
 
-Together, these five constraints define what the [mathematical corridor](/topics/mathematical-structure-of-the-consciousness-physics-interface/) article calls the narrow space through which any consciousness-physics interaction must pass. Beyond these formal bounds, empirical evidence adds a sixth practical constraint: the [~10 bits/second bandwidth](/concepts/consciousness-bandwidth-architecture/) of conscious processing limits how much information C can inject per unit time, making the coupling not only mathematically minimal but informationally sparse.
+Together, these five constraints define what the [mathematical corridor](/topics/mathematical-structure-of-the-consciousness-physics-interface/) article calls the narrow space through which any consciousness-physics interaction must pass. The list is a checklist of what any coupling map must respect; the underlying derivational geometry is more unified than the list-form suggests. Torres Alegre's [causal consistency result](/concepts/causal-consistency-constraint/) (2025) shows that, under purification, no-signalling *forces* the Born form, so Constraints 1 (Born Rule Preservation) and 3 (No-Signalling Compliance) are not independent — relativistic causality does double duty. Beyond these formal bounds, empirical evidence adds a sixth practical constraint: the [~10 bits/second bandwidth](/concepts/consciousness-bandwidth-architecture/) of conscious processing limits how much information C can inject per unit time, making the coupling not only mathematically minimal but informationally sparse.
 
 ## How Existing Frameworks Instantiate the Formalism
 

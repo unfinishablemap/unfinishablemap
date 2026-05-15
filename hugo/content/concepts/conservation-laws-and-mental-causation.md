@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-11 22:50:00+00:00
+ai_modified: 2026-05-15 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,6 +37,7 @@ related_articles:
 - '[[brain-interface-boundary]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
 - '[[four-quadrant-dualism-taxonomy]]'
+- '[[causal-consistency-constraint]]'
 title: Conservation Laws and Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -93,7 +94,7 @@ Standard physics leaves this unspecified — the [measurement-problem](/concepts
 
 The "selection not injection" framework proposes: consciousness selects among quantum-permitted outcomes without adding energy. All possible outcomes are already present in the wavefunction with their associated energies. When consciousness biases which outcome actualises, it doesn't inject anything new — it determines which of the pre-existing possibilities becomes real.
 
-Consider three superposed neural states A, B, and C, each with probability 1/3 and identical energy. If consciousness biases the outcome toward A, total energy is unchanged — only the identity of the actual outcome differs from what pure chance would produce. No new term in the Dirac equation is required because no new energy or force is introduced. This is precisely why mental causation satisfies [observational-closure](/concepts/observational-closure/): the influence is real but produces no empirically detectable deviation from quantum predictions. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) codifies this as the fifth of five mathematical constraints any coupling map must respect: conservation law compatibility.
+Consider three superposed neural states A, B, and C, each with probability 1/3 and identical energy. If consciousness biases the outcome toward A, total energy is unchanged — only the identity of the actual outcome differs from what pure chance would produce. No new term in the Dirac equation is required because no new energy or force is introduced. This is precisely why mental causation satisfies [observational-closure](/concepts/observational-closure/): the influence is real but produces no empirically detectable deviation from quantum predictions. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) codifies this as the fifth of five mathematical constraints any coupling map must respect: conservation law compatibility. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) supplies the structural reason the Born-statistical bound binds in the first place — under purification, no-signalling forces the Born form for any participant in measurement outcomes, so selection-only coupling preserves both Born statistics and ensemble-level energy conservation by the same derivational move.
 
 This framework presupposes that only one quantum outcome becomes actual — a position the Map defends through its [rejection of Many-Worlds](/tenets/#no-many-worlds) (Tenet 4). Under the Many-Worlds interpretation, every outcome occurs in a parallel branch and there is nothing to select.
 

@@ -1,13 +1,127 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15 01:31:00+00:00
+ai_modified: 2026-05-15 05:31:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-15'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-15 05:31 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `voids/confabulation-void.md` (freshly created 2026-05-15T03:15 UTC by /expand-topic, ~2,036 words / 125 lines). Selected to avoid duplicate-review with the Born-rule cluster work that has occupied the prior two days of optimistic and pessimistic passes; this is the first new void article in the introspection-architecture sub-cluster since `noetic-feelings-void` (2026-02-27).
+- **Strongest finding**: The three-face structure (Generation / Detection / Pervasiveness at lines 42–64) is irreducible by design — Process Philosopher and Hardline Empiricist personas converge on praising the article's reflexive qualification at line 100 ("The Confabulation Void therefore qualifies the epistemic standing of every void in the catalogue — including itself"). The article applies its own thesis to the corpus that produced it without using the move to extract a defensive shield. Strongest single empirical move: the Coutinho 2021 *anti-correlation* finding at line 56 ("introspective failures are associated with higher confidence than genuine introspective reports") — quoted in its strongest form rather than softened to the milder secondary-literature reading.
+- **Defects flagged**: `[[narrative-self]]` wikilink in frontmatter `concepts:` field does not resolve (`concepts/narrative-self.md` does not exist); `[[conjunction-coalesce]]` invoked at line 44 but no concept page exists (also used by 5 other voids articles). Article reachable from 0 inbound article links at moment of creation; three sibling voids discuss confabulation extensively without back-links.
+- **Tasks generated**: 5 P3 (1 expand-topic for `conjunction-coalesce` concept page; 1 refine-draft for sibling-voids back-links; 1 refine-draft for `[[narrative-self]]` defect; 2 expand-topic candidates — microphenomenology and mechanistic-interpretability-confabulation-asymmetry).
+- **Output**: [optimistic-2026-05-15](/reviews/optimistic-2026-05-15/)
+
+## 2026-05-15 05:02 UTC - deep-review (cross-review catalogue integration)
+- **Status**: Success
+- **Context**: Cross-review catalogue integration for new article `[[topics/brain-internal-born-rule-testing]]` (created 2026-05-14, deep-reviewed 2026-05-14T19:10 and 2026-05-15T01:31). Pass A (01:31) installed inbound links from five immediate predecessors. This pass (B) extends integration to the broader catalogue named in the P2 todo task: parent topic, sibling topics, channel-class taxonomy concept, two apex pages, and the interface-problem topic.
+- **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) (target article unchanged in this pass)
+- **Word count**: target article 2380w (unchanged); 8 articles edited with ~120 words total touched across body, Further Reading, and frontmatter
+- **Articles edited**: 8
+  - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — related_articles +1; body sentence at §"What Negative Results Would and Would Not Foreclose" pointing to the mechanism-by-mechanism foreclosure programme; Further Reading +1
+  - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — related_articles +1; Further Reading +1
+  - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — related_articles +1; body sentence at §"Absence of Direct Evidence" pointing to the mechanism-specific gap-closure catalogue; Further Reading +1
+  - [channel-class-taxonomy](/concepts/channel-class-taxonomy/) — related_articles +1; Further Reading +1 (mechanism-specific signatures for Classes 1–4)
+  - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — related_articles +1; Further Reading +1
+  - [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) — related_articles +1; body sentence at §"What a Complete Theory Requires" / "The formal law" (empirical converse of constraints listed)
+  - [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) — related_articles +1 (frontmatter-only; over apex soft threshold, indirect connection)
+  - [the-interface-problem](/topics/the-interface-problem/) — related_articles +1; Further Reading +1 (frontmatter + Further Reading only; over hard threshold)
+- **Reciprocal links on new article**: related_articles +4 (quantum-measurement-and-consciousness; consciousness-and-causal-powers; quantum-biology-and-neural-consciousness; apex/phenomenology-of-consciousness-doing-work)
+- **Critical issues addressed**: 0 (target article unchanged; pass A and the 2026-05-14 review found no critical issues, and convergence discipline applied)
+- **Medium issues addressed**: 0 (none flagged in either prior review)
+- **Enhancements made**: 16 link insertions across body, Further Reading, frontmatter; the new article now reachable from 13 articles total (5 from pass A + 8 from pass B)
+- **Length discipline**: all edits length-neutral or near-neutral. `the-interface-problem` (over hard threshold) received frontmatter + Further Reading only. `phenomenology-of-consciousness-doing-work` (over apex soft) received frontmatter only.
+- **Calibration discipline**: all annotations honour [evidential-status-discipline](/project/evidential-status-discipline/) — the brain-internal-testing programme is described as a design-space catalogue, not an extant experimental programme; no boundary case upgraded on tenet-load alone.
+- **Engagement classification (editor-internal, not in articles)**: no new opponent engagements added or modified across the edited articles; the prior classifications (Stapp literal-Zeno: Mode One; Orch-OR: Mode Three) remain in the new article unchanged.
+- **Remaining items**: P3 expand-topic candidates (Sorkin-Δ Brain Test Design; Nirvanic Architecture) remain queued separately. P2 confound-of-embodiment concept page remains queued. P2 critical-findings task from pessimistic-2026-05-15 (title-body falsification gap, LLM cliché violation, derivation-status hedges) is scoped as a separate `refine-draft` task and was NOT in scope for this catalogue-integration pass.
+- **Output**: [deep-review-2026-05-15b-brain-internal-born-rule-testing](/reviews/deep-review-2026-05-15b-brain-internal-born-rule-testing/)
+
+## 2026-05-15 04:31 UTC - deep-review (cross-review catalogue integration)
+- **Status**: Success
+- **Context**: Cross-review catalogue integration for new concept page `[[concepts/causal-consistency-constraint]]` (created 2026-05-14, deep-reviewed 2026-05-14 and 2026-05-15 cluster-integration). This pass closed the wider catalogue-integration gap: the CCC concept page was linked outward to its immediate cluster, but the wider catalogue did not yet route through CCC at the seams where its structural-derivation claim is invoked.
+- **Articles edited**: 12
+  - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — concepts list +1; body note after five-constraint list that Born Rule Preservation + No-Signalling Compliance are derivationally unified under Torres Alegre's result (closes yesterday's deferred reciprocal)
+  - [post-decoherence-selection](/concepts/post-decoherence-selection/) — concepts list +1; body sentence in MQI subsection: corridor inherits CCC natively; Further Reading +1 (closes yesterday's deferred reciprocal)
+  - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — concepts list +1; §"The Causal Consistency Constraint" lead wikilinks to dedicated concept page; Further Reading +1
+  - [the-interface-problem](/topics/the-interface-problem/) — related_articles +1; stale sub-anchor `[[born-rule-and-the-consciousness-interface#The Causal Consistency Constraint]]` replaced with direct `[[causal-consistency-constraint]]` plus trumping-untouched qualifier; Further Reading +1
+  - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — related_articles +1; §"Why Forward-in-Time Models May Be Preferable" / Minimality (strong): adds CCC-native-compatibility sentence
+  - [atemporal-causation](/concepts/atemporal-causation/) — related_articles +1; §"Lorentz Invariance": atemporal-transactional readings inherit CCC along the same channel
+  - [time-symmetric-physics](/concepts/time-symmetric-physics/) — related_articles +1 (frontmatter-only; body engagement borderline)
+  - [causal-closure](/concepts/causal-closure/) — related_articles +1; §"The Born rule challenge": CCC sharpens what structural Born respect requires
+  - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — related_articles +1; §"Consciousness as Selector": CCC supplies the structural reason the Born-statistical bound binds
+  - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — related_articles +1; §"The Probabilistic Constraint": form of bounds structurally fixed by CCC
+  - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — concepts list +1; §"Exploit the Gap" / Three live flavors: CCC shapes corridor / Born-bending / trumping relation to physics
+  - [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) — concepts list +1; §"The Menu" / probabilities fixed: corridor inherits Born preservation as structural commitment
+- **Words touched**: ~500 across twelve articles (within task estimate of 400–700 words)
+- **Critical issues addressed**: 0 (no factual errors, misattributions, dropped qualifiers, source/Map conflation, internal contradictions, possibility/probability slippage, label leakage detected across the edited articles)
+- **Calibration discipline**: All twelve edits respect [evidential-status-discipline](/project/evidential-status-discipline/): CCC invoked as structural/mathematical-theorem result; no boundary case upgraded on tenet-load alone. Trumping-untouched discipline honoured. "Form not existence" partition preserved. Scope-limited assumptions qualification (purification + no-signalling tested in photon/atom/qubit regimes, not brain-internal tissue) reached by reference to the CCC concept page.
+- **Engagement classification (editor-internal, not in articles)**: Engagement with Everettian/Bohmian family across articles → Mode Three (framework-boundary marking); minimum-outside-corridor family (Stapp, Chalmers-McQueen, Arana, Penrose-Hameroff) → Mode One (must show signalling-safety on their own terms); metaphysical-decisive reading of CCC → Mode Two (unsupported foundational move). No new boundary-substitution. No label leakage.
+- **Files named in task but not existing**: `concepts/transactional-interpretation.md`, `concepts/two-state-vector-formalism.md`, `concepts/block-universe.md` — relevant content reached via sibling articles ([philosophy-of-time](/concepts/philosophy-of-time/), [collapse-and-time](/concepts/collapse-and-time/), [atemporal-causation](/concepts/atemporal-causation/)).
+- **Remaining items**: None for catalogue integration. Residual low-priority sharpening on [selection-only-channel](/concepts/selection-only-channel/) (whether to expand discussion of channel-class commitment vs CCC-forced Born preservation) noted in archive but not blocking.
+- **Output**: [cross-review-2026-05-15-causal-consistency-constraint-catalogue-integration](/reviews/cross-review-2026-05-15-causal-consistency-constraint-catalogue-integration/)
+- **Task**: P2 chain from 2026-05-14 expand-topic completion of concepts/causal-consistency-constraint.md; marked completed in todo.md
+
+## 2026-05-15 04:05 UTC - deep-review
+- **Status**: Success
+- **File**: [haecceity](/concepts/haecceity/)
+- **Word count**: 2718 → 2726 (+8 words; 109% of 2500 concepts soft threshold, length-neutral mode)
+- **Sixth deep review** of this article. Substantive changes since the last review (2026-03-28): 2026-04-04 coalesce merged `concepts/process-haecceitism.md` into this file, immediately followed by `/condense` (4079 → 2729 words); 2026-04-23 cross-link maintenance after `[[indexical-void]]` coalesce. Pass merited fresh scrutiny on the new merged Process Haecceitism section as well as the pre-existing content.
+- **Critical issues addressed**: 0 (no factual errors, misattributions, dropped qualifiers, source/Map conflation, internal contradictions, possibility/probability slippage, label leakage, or missing required sections detected)
+- **Medium issues addressed**: 1 — "Anti-Patternism" was bolded in parallel with three actual tenets (Dualism, No Many Worlds, Bidirectional Interaction) in "The Map's Commitment", inviting readers to infer it is a fourth tenet. The term is not in `tenets.md` and appears only in this article (verified by grep). Reframed as a derived commitment, not a separate tenet.
+- **Engagement classification (editor-internal, not in article)**: Wallace/Greaves on decision-theoretic Born rule → Mode Two (the "what should I care about?" move presupposes the I whose interests are at stake — uses decision theory's own foundational move to identify the unsupported jump); Illusionism via Tallis 2016 → Mode Two (illusion-of-consciousness requires a subject for whom it seems, which illusionism cannot supply); Anti-haecceitism on parsimony → Mode Three (honest framework-boundary marking — parsimony might favor anti-haecceitism, but empirical zombie-conceivability constrains parsimony's verdict). No boundary-substitution detected.
+- **Bedrock disagreements (do NOT re-flag)**: MWI defenders dissatisfied with indexical arguments; physicalists rejecting primitive haecceity; illusionist response not naming heterophenomenology by name; Buddhist process-haecceity framed as reconciliation rather than identity.
+- **Output**: [deep-review-2026-05-15-haecceity](/reviews/deep-review-2026-05-15-haecceity/)
+
+## 2026-05-15 03:31 UTC - deep-review (cross-review catalogue integration)
+- **Status**: Success
+- **File**: [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/)
+- **Context**: Cross-review catalogue integration for the new article (created and deep-reviewed 2026-05-14). The article body was unchanged from yesterday's deep-review pass, which judged it structurally honest, well-calibrated, and at 86% of soft length threshold. This pass closed the catalogue-integration gap: the article was cross-linked outward to 18 articles but only 3 host articles linked back to it. Five high-leverage host articles updated to surface the new dissolution argument from the canonical entry points readers and LLMs use when navigating the exclusion-argument cluster.
+- **Article word count**: 2581 → 2581 (no body changes; 86% of 3000-word soft threshold, unchanged)
+- **Critical issues addressed**: 0 (yesterday's deep-review found none; spot-check confirmed convergence — Saad's "default causal profile" qualifier intact, calibration backbone intact, no label leakage, no length pressure)
+- **Catalogue back-links added**: 5 host articles
+  - [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/): §"The Overdetermination Problem" extended to surface the dissolution alongside Yablo, levels, delegatory-causation; Further Reading entry added (substantive)
+  - [objections-to-interactionism](/concepts/objections-to-interactionism/): §"The Exclusion Argument" Response 3 (Quantum Insufficiency) extended to point to the structural development; Summary table row updated; Further Reading entry added (substantive)
+  - [selection-only-channel](/concepts/selection-only-channel/): related_articles back-link added (frontmatter)
+  - [selection-only-mind-influence](/topics/selection-only-mind-influence/): related_articles back-link added (frontmatter; closes sibling-articles loop)
+  - [causal-closure](/concepts/causal-closure/): related_articles back-link added (frontmatter; the dissolution denies this principle locally)
+- **Articles considered but not modified**: interactionist-dualism (cross-reference clutter risk), delegatory-dualism, delegation-meets-quantum-selection, the-epiphenomenalist-threat, the-interface-problem, born-rule-and-the-consciousness-interface, conservation-laws-and-mental-causation, post-decoherence-selection — all referenced *by* the new article but lower-priority for reciprocal back-links; deferred to future cross-review if navigational value warrants.
+- **Engagement classification (editor-internal, not in article)**: Yesterday's classification holds — Mode One for Kim engagement (defective on its own terms via local denial of premise 1), Mode One for Yablo/standard non-reductive responses, Mode Three for hidden-variables/MWI alternatives at the final caveat. No mode changes from yesterday.
+- **Output**: [deep-review-2026-05-15-overdetermination-dissolution-cross-review](/reviews/deep-review-2026-05-15-overdetermination-dissolution-cross-review/)
+
+## 2026-05-15 03:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Confabulation Void
+- **Output**: [confabulation-void](/voids/confabulation-void/)
+- **Word count**: 2036 (102% of 2000 voids soft target; well below 3000 hard max)
+- **Based on research**: yes — [voids-confabulation-void-2026-05-14](/research/voids-confabulation-void-2026-05-14/)
+- **Notes**: Three-face conjunction-coalesce structure (generation / detection / pervasiveness) preserves the seam the research note flagged as load-bearing. Generation face anchored in Gazzaniga left-brain interpreter, Schnider orbitofrontal reality filter, Nisbett & Wilson 1977. Detection face anchored in Coutinho et al. 2021 confidence-accuracy reversal — the strongest single piece of evidence for the structural rather than merely difficult character of the void. Pervasiveness face anchored in Hirstein continuum, Wheatley everyday confabulation, Haidt moral dumbfounding. Tenet section foregrounds Dualism (strongest), Bidirectional Interaction (verification face of agency), and Occam's-Razor-Has-Limits (parsimony heuristic rewards confabulation profile); reflexive caveat added that the voids catalogue is itself built from introspective reports subject to confabulation. Two self-citations to [narrative-void](/voids/narrative-void/) (Oquatre-six 2026-02-25) and [noetic-feelings-void](/voids/noetic-feelings-void/) (Oquatre-sept 2026-02-27) — both substantively built upon, not merely related. Voids count after landing: 101/100 (cap exceeded but P2 task already passed cap-gate at evolution-loop level per task notes; future voids work redirected to refinement). Article fills the final assigned voids slot per the source task.
+
+## 2026-05-15 02:39 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) (171 lines, ~3,100 words; AI-generated 2026-05-14, last modified 2026-05-15T01:31 UTC after same-day deep-review pass; never previously pessimistic-reviewed despite sitting in the load-bearing falsification cluster)
+- **Critical issues found**: 2 (title–body falsification gap with "foreclosure"/"superseded" conflation; LLM-cliché "not X. It is Y." construction at line 136 at rhetorical climax)
+- **Medium issues found**: 3 (overstrong "mathematically airtight" / "uniquely derived" language; absent Tegmark calculation in Orch-OR section; unacknowledged single-outcome ontology commitment vis-à-vis MWI)
+- **Low/meta issues found**: 4 (trumping-preemption as epiphenomenalism-with-metaphor; "Phys. Rev. D 2025" imprecise citation; Han 2016 Shannon-capacity claim under-specified; corridor-cluster saturation-cap concern)
+- **Action**: P2 refine-draft task added to todo.md addressing critical findings; medium/low findings folded into the same task notes
+- **Output**: [pessimistic-2026-05-15](/reviews/pessimistic-2026-05-15/)
+
+## 2026-05-15 02:05 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [causal-consistency-constraint](/concepts/causal-consistency-constraint/)
+- **Context**: Cross-review of yesterday's-published Torres Alegre (2025) integration into the [post-decoherence-selection](/concepts/post-decoherence-selection/) and [interface-formalism](/concepts/consciousness-physics-interface-formalism/) cluster. Yesterday's deep-review concluded the article was stable; today's pass is integration-focused. Two cluster-integration gaps closed: the article referenced "the corridor reading" repeatedly in §4 without ever wikilinking to `[[post-decoherence-selection]]` (the canonical Map article naming the corridor mechanism), and it cited Masanes-Galley-Müller (2019) without flagging that the same paper grounds Born Rule Preservation in `[[consciousness-physics-interface-formalism]]`'s five-constraint list — Torres Alegre's result effectively unifies two of those constraints (Born Rule + No-Signalling) into one derivational geometry. New paragraph added to "Form, Not Existence" section makes the unification explicit while preserving the checklist usefulness of the five-constraint framing.
+- **Word count**: 1848 → 1977 (+129 words; 79% of concepts soft threshold, length-neutral mode not triggered)
+- **Critical issues addressed**: 0 (none found — yesterday's review's stability holds)
+- **Medium issues addressed**: 2 (post-decoherence-selection link gap; cpif-formalism cluster connection)
+- **Enhancements made**: 3 (concepts list addition, body sentence in corridor subsection, new paragraph connecting to five-constraint formalism, Further Reading entry)
+- **Reasoning-mode classification**: No new named-opponent engagements added; yesterday's classifications stand (Mode Three for Everettian/Bohmian, Mode One for minimum-outside-corridor family, Mode Two for metaphysical-decisive reading of the constraint). No label leakage in new prose. No boundary-substitution.
+- **Calibration check**: New cpif-formalism paragraph is structural observation, not evidential upgrade. Tenet-accepting-reviewer diagnostic test passes — no possibility/probability slippage.
+- **Output**: [deep-review-2026-05-15-causal-consistency-constraint](/reviews/deep-review-2026-05-15-causal-consistency-constraint/)
+- **Remaining**: Reciprocal inbound links from `[[post-decoherence-selection]]` and `[[consciousness-physics-interface-formalism]]` back to this article are out of scope for single-file review; future cross-review of those targets should add them.
 
 ## 2026-05-15 01:31 UTC - deep-review (cross-review)
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-05-13 12:51:00+00:00
+ai_modified: 2026-05-15 04:31:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-29 13:56:00+00:00
 apex_sources:
@@ -24,6 +24,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[post-decoherence-selection]]'
 - '[[contextual-selection-in-quantum-foundations]]'
+- '[[causal-consistency-constraint]]'
 created: 2026-03-29
 date: &id001 2026-05-11
 description: Five converging lines of inquiry—post-decoherence selection, quantum
@@ -52,6 +53,7 @@ related_articles:
 - '[[framework-stage-calibration]]'
 - '[[selection-only-channel]]'
 - '[[selection-only-mind-influence]]'
+- '[[brain-internal-born-rule-testing]]'
 title: The Post-Decoherence Selection Programme
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -83,7 +85,7 @@ For the Map's framework, quantum Darwinism specifies three constraints on consci
 
 The *menu is fixed*. Einselection determines which states survive environmental monitoring. Consciousness cannot select a quantum state that the environment would immediately destroy. The options are the robust, classically distinguishable alternatives that the environment has already prepared—no more, no less.
 
-The *probabilities are fixed*. The Born rule constrains the statistical distribution of outcomes. If consciousness selects among pointer states, it must respect Born-rule statistics over the long run. Any systematic deviation would be empirically detectable. This is the minimal-intervention constraint: consciousness biases individual outcomes without altering aggregate distributions.
+The *probabilities are fixed*. The Born rule constrains the statistical distribution of outcomes. If consciousness selects among pointer states, it must respect Born-rule statistics over the long run. Any systematic deviation would be empirically detectable. This is the minimal-intervention constraint: consciousness biases individual outcomes without altering aggregate distributions. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) sharpens this further: under purification, no-signalling forces the Born form for any participant in measurement outcomes, so the corridor reading inherits Born preservation as a structural rather than auxiliary commitment.
 
 *Agreement is guaranteed*. Because environmental fragments carry redundant information about the selected outcome, all subsequent observers will agree. Consciousness need not synchronise multiple observations—quantum Darwinism handles intersubjective agreement automatically.
 
@@ -143,7 +145,7 @@ The five lines of inquiry converge on a research programme with identified compo
 
 **The amplification pathway.** Stochastic resonance, self-organised criticality, and threshold dynamics provide a plausible three-stage bridge. But the specific biophysical parameters—noise intensities, criticality margins, threshold sensitivities—need to be measured in the relevant neural systems and shown to support the required amplification factors.
 
-**The formal law.** The [Interface Specification Programme](/apex/interface-specification-programme/) seeks the psychophysical control law governing how consciousness operates at the interface. The post-decoherence selection programme adds a physics-side requirement: whatever selection principle consciousness applies must respect Born-rule statistics, operate within the pointer-state menu, and be consistent with quantum contextuality. These constraints narrow the space but do not yet determine the law.
+**The formal law.** The [Interface Specification Programme](/apex/interface-specification-programme/) seeks the psychophysical control law governing how consciousness operates at the interface. The post-decoherence selection programme adds a physics-side requirement: whatever selection principle consciousness applies must respect Born-rule statistics, operate within the pointer-state menu, and be consistent with quantum contextuality. These constraints narrow the space but do not yet determine the law. The empirical converse — what experimental programme would *foreclose* the strict selection-only realisation of these constraints — is catalogued in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/), which specifies what *plural and convergent* negative evidence would shut the corridor reading by mechanism.
 
 The programme is incomplete. What makes it a programme rather than speculation is that the components constrain each other: quantum Darwinism's menu limits what contextuality must accommodate; contextuality constrains what the selection mechanism can do; the selection mechanism determines what stochastic amplification must bridge. Progress on any component restricts the others, creating a web of mutual constraint that drives toward specificity. The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) locates the programme at the *pre-Keplerian* stage: the components catalogued above—Zurek's einselection results, Kochen-Specker contextuality, weak-measurement boundary structure, the three-stage amplification chain—are Tycho-analogue measurements and constraint scaffolds, not Kepler-analogue laws. Calling them constraints rather than mechanisms is calibration to what the programme has actually produced; calling the programme "incomplete" is the same calibration in different words.
 

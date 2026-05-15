@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-05-14 05:04:00+00:00
+ai_modified: 2026-05-15 04:31:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -20,6 +20,7 @@ concepts:
 - '[[delegatory-causation]]'
 - '[[psychophysical-laws]]'
 - '[[consciousness-physics-interface-formalism]]'
+- '[[causal-consistency-constraint]]'
 created: 2026-03-15
 date: &id001 2026-05-14
 description: 'The Born rule resists derivation across every quantum interpretation
@@ -54,6 +55,7 @@ related_articles:
 - '[[amplification-mechanisms-consciousness-physics-2026-03-18]]'
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 - '[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]'
+- '[[brain-internal-born-rule-testing]]'
 title: The Born Rule and the Consciousness-Physics Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -128,7 +130,7 @@ Two features resist purely mathematical-realist redescription. First, the deform
 
 ## The Causal Consistency Constraint
 
-Torres Alegre (2025) showed that within generalised probabilistic theories satisfying purification, the Born rule is the *only* probability assignment consistent with no-signalling. Nonlinear deviations would enable superluminal communication via quantum steering. The result assumes probabilistic structure and derives the rule's *form*, not its existence.
+The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) shows that within generalised probabilistic theories satisfying purification, the Born rule is the *only* probability assignment consistent with no-signalling. Nonlinear deviations would enable superluminal communication via quantum steering. The result assumes probabilistic structure and derives the rule's *form*, not its existence.
 
 For the interface interpretation, this is illuminating. If consciousness modulates quantum outcomes, it *must* follow the Born rule — any deviation would enable superluminal signalling, inconsistent with [minimal interaction](/tenets/#minimal-quantum-interaction). The Born rule is what relativistic causality *requires* of any agent — physical or non-physical — that participates in measurement outcomes.
 
@@ -192,7 +194,7 @@ Three caveats apply. First, absence of a derivation is not proof none exists —
 
 A hypothetical clean null on all experimental strands — no brain-internal coherence, no Nirvanic quantum-agent signal, continued preregistered micro-PK nulls — would foreclose Orch-OR and theories requiring macroscopic biological quantum coherence; PEAR-variant micro-PK; Keppler's zero-point-field interface; and minimum-outside-corridor models predicting effects at current sensitivity.
 
-It would not foreclose corridor dualism (predicts no signature at any sensitivity), Arana-style exponentially-suppressed Born modifications, trumping dualism, or Chalmers-McQueen Φ-collapse with sub-detectable coupling. The Map can survive a clean negative sweep by retreating to corridor or trumping readings. What it cannot do — without dishonesty — is pretend existing Born tests have already validated the corridor over minimum-outside-corridor alternatives. They have not, and given their regime, they could not.
+It would not foreclose corridor dualism (predicts no signature at any sensitivity), Arana-style exponentially-suppressed Born modifications, trumping dualism, or Chalmers-McQueen Φ-collapse with sub-detectable coupling. The Map can survive a clean negative sweep by retreating to corridor or trumping readings. What it cannot do — without dishonesty — is pretend existing Born tests have already validated the corridor over minimum-outside-corridor alternatives. They have not, and given their regime, they could not. The companion piece [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) lays out, mechanism by mechanism, what *plural and convergent* foreclosure would actually look like — and why no single null forecloses the strict selection-only reading by construction.
 
 ## Relation to Site Perspective
 
@@ -212,6 +214,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — The mathematical corridor
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — Five non-negotiable coupling constraints
+- [causal-consistency-constraint](/concepts/causal-consistency-constraint/) — Torres Alegre's no-signalling derivation of the Born form
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — The Born rule as interface structure
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — The Born rule gap at its widest
 - [Against Many-Worlds](/arguments/many-worlds-argument/) — Cumulative case against MWI
@@ -224,6 +227,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Empirical outlook for the gravitational-collapse line
 - [amplification-mechanisms-consciousness-physics-2026-03-18](/research/amplification-mechanisms-consciousness-physics-2026-03-18/) — How single-event selection might become macroscopically visible
 - [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/) — A proposed interface locus for Born-sensitive experiments
+- [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — Mechanism-by-mechanism catalogue of what would foreclose the corridor reading
 - [interface-formalization-void](/voids/interface-formalization-void/) — What remains unformalised about the interface
 
 ## References

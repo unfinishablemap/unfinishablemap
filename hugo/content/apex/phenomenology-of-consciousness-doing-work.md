@@ -49,6 +49,7 @@ related_articles:
 - '[[pain-consciousness-and-causal-power]]'
 - '[[phantom-limb-phenomena]]'
 - '[[phenomenal-output-causal-machinery-dissociation]]'
+- '[[brain-internal-born-rule-testing]]'
 title: The Phenomenology of Consciousness Doing Work
 topics:
 - '[[phenomenology-of-agency-vs-passivity]]'

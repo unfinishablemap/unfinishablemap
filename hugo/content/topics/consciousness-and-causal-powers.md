@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-05-15 00:01:00+00:00
+ai_modified: 2026-05-15 04:31:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: What kind of causal powers does consciousness possess? Examining th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 00:01:00+00:00
+last_deep_review: 2026-05-15 04:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,12 +36,14 @@ related_articles:
 - '[[conservation-laws-and-mental-causation]]'
 - '[[topics/phenomenal-value-realism]]'
 - '[[quantum-measurement-and-consciousness]]'
+- '[[brain-internal-born-rule-testing]]'
 - '[[the-interface-problem]]'
 - '[[metaphysics-of-information-under-dualism]]'
 - '[[valence-and-conscious-selection]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[volitional-control]]'
 - '[[overdetermination-dissolution-under-selection-only-interactionism]]'
+- '[[causal-consistency-constraint]]'
 title: Consciousness and Causal Powers
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -84,7 +86,7 @@ This preserves [conservation laws](/concepts/conservation-laws-and-mental-causat
 
 ### The Probabilistic Constraint
 
-[Quantum mechanics provides probabilities, not certainties](/concepts/quantum-probability-consciousness/). Even if consciousness biases outcomes, it operates within probabilistic bounds. You cannot guarantee an extremely unlikely quantum outcome simply by wanting it strongly enough. The causal power is real but operates through shifting probability distributions, not deterministic control.
+[Quantum mechanics provides probabilities, not certainties](/concepts/quantum-probability-consciousness/). Even if consciousness biases outcomes, it operates within probabilistic bounds. You cannot guarantee an extremely unlikely quantum outcome simply by wanting it strongly enough. The causal power is real but operates through shifting probability distributions, not deterministic control. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) shows the form of those bounds is structurally fixed for any interface theory: under purification, no-signalling forces the Born form, so a corridor-respecting consciousness preserves Born statistics by construction while minimum-outside-corridor proposals must show their deviation is signalling-safe.
 
 This might explain why voluntary action feels effortful rather than automatic—consciousness is working to shift probabilities in neural systems where countless quantum events create statistical noise. Success is not guaranteed; it requires sustained effort and favourable circumstances.
 
@@ -178,7 +180,7 @@ Humans possess cognitive capacities (logical reasoning, metacognition, cumulativ
 
 ### Absence of Direct Evidence
 
-Notably, we lack direct empirical evidence that consciousness biases quantum outcomes in brains. The hypothesis is *compatible* with current evidence but not *required* by it. A physicalist can accept mental causation without accepting non-physical causal powers—by identifying mental states with neural states, mental causation becomes a subset of physical causation. On this view, any "selection" among quantum outcomes is itself a physical process, and invoking consciousness adds nothing beyond a redescription.
+Notably, we lack direct empirical evidence that consciousness biases quantum outcomes in brains. The hypothesis is *compatible* with current evidence but not *required* by it. A physicalist can accept mental causation without accepting non-physical causal powers—by identifying mental states with neural states, mental causation becomes a subset of physical causation. On this view, any "selection" among quantum outcomes is itself a physical process, and invoking consciousness adds nothing beyond a redescription. The mechanism-by-mechanism specification of what evidence *would* close this gap — and what reading of Tenet 2 each direction of negative result would constrain — is catalogued in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/).
 
 The Map's response: identity theories face their own difficulties. If mental states just *are* neural states, then the qualitative character of experience—the painfulness of pain, the redness of red—has no explanatory role in the causal story. The neural state does all the work, and phenomenal character is epiphenomenal in all but name. The Map's position requires the independent [dualism](/concepts/dualism/) to establish that mental causation cannot be reduced to physical causation. The causal powers framework describes *how* non-physical causation might work if dualism is true—it does not by itself prove dualism.
 
@@ -212,6 +214,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why mental causation need not violate physical conservation
 - [the-interface-problem](/topics/the-interface-problem/) — Where and why consciousness interfaces with the physical, and how phenomenal states map to physical selections
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as window for mental causation
+- [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — Mechanism-specific catalogue of what experiments would constrain consciousness's causal role at the quantum interface
 - [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology, and what kind of law could bridge mind and matter
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: how the phenomenology of effort, selection, and holding constitutes evidence for causal powers
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most frameworks converge on causal impotence without a specific mechanism
