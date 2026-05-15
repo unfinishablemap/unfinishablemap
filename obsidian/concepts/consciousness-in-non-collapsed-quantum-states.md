@@ -4,7 +4,7 @@ description: "Exploring what consciousness does during quantum superposition —
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-04-30T19:21:00+00:00
+ai_modified: 2026-05-15T09:31:00+00:00
 draft: false
 topics:
   - "[[consciousness-in-smeared-quantum-states]]"
@@ -24,12 +24,13 @@ related_articles:
   - "[[consciousness-non-collapsed-quantum-states-2026-02-10]]"
   - "[[von-neumann-wigner-interpretation]]"
   - "[[consciousness-selecting-neural-patterns]]"
+  - "[[process-philosophy]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-03-27T18:32:00+00:00
+last_deep_review: 2026-05-15T09:31:00+00:00
 ---
 
 If consciousness interacts with quantum mechanics at the point of collapse, a prior question demands attention: what is consciousness doing *before* collapse, when the relevant brain states exist in superposition — simultaneously occupying multiple possible configurations? The Unfinishable Map treats consciousness as a selector among superposed neural states. But the selector must exist during the superposition phase in order to act on it — and that raises a problem with no clean answer. The non-collapsed quantum state is where the interaction must begin, yet we have almost no philosophical framework for what consciousness is or does in that interval.
@@ -50,7 +51,7 @@ Three logical possibilities emerge:
 
 **Consciousness is present but indeterminate.** Perhaps experience during superposition is genuinely indefinite — a smear across possible experiential states without any single one being actual. Koch and collaborators have proposed something in this direction, suggesting that the richness of superposition might correspond to the richness of experience. This would mean consciousness doesn't require definiteness, challenging what nearly all other frameworks assume. The difficulty is that no one has articulated what indeterminate experience would be like, and it may be that the request is incoherent — an experience without definite character may be no experience at all.
 
-**Consciousness is present and definite, selecting among the superposed possibilities.** This is [[stapp-quantum-mind|Stapp's position]] and the one most aligned with the Map's tenets — the core mechanism described in [[consciousness-selecting-neural-patterns|consciousness selecting neural patterns]]. All three major [[forward-in-time-conscious-selection|non-retrocausal selection frameworks]] — Stapp's Zeno approach, Penrose-Hameroff Orch OR, and Chalmers-McQueen CSL — adopt some version of this option. Consciousness maintains its determinacy throughout, acting as the selector that resolves superposition into definite outcome. The mind is never in the same indeterminate state as the brain. Rather, consciousness operates *on* the superposition from a position of experiential definiteness.
+**Consciousness is present and definite, selecting among the superposed possibilities.** This is [[stapp-quantum-mind|Stapp's position]] and the one most aligned with the Map's tenets — the core mechanism described in [[consciousness-selecting-neural-patterns|consciousness selecting neural patterns]]. All three major [[forward-in-time-conscious-selection|non-retrocausal selection frameworks]] — Stapp's Zeno approach, Penrose-Hameroff Orch OR, and Chalmers-McQueen CSL — adopt some version of this option. Consciousness maintains its determinacy throughout, acting as the selector that resolves superposition into definite outcome. The mind is never in the same indeterminate state as the brain. Rather, consciousness operates *on* the superposition from a position of experiential definiteness. A non-quantum parallel runs through [[process-philosophy|Whitehead's process philosophy]], where each "actual occasion" achieves definite experiential character through concrescence — determinacy treated as constitutive of experience even amid continuous becoming. The convergence is suggestive rather than load-bearing: two very different metaphysical traditions arrive at constitutive determinacy by independent routes.
 
 ## The Definiteness Constraint
 
@@ -102,6 +103,7 @@ The Map's [[tenets]] commit to consciousness as an active selector among superpo
 - [[indexical-knowledge-and-identity]]
 - [[von-neumann-wigner-interpretation]]
 - [[consciousness-selecting-neural-patterns]]
+- [[process-philosophy]]
 
 ## References
 
