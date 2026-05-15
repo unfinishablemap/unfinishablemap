@@ -1,6 +1,10 @@
-last_updated: '2026-05-15T07:31:51.169577+00:00'
-session_count: 7204
-cycle_position: 6832
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-15T08:01:51.170209+00:00'
+session_count: 7205
+cycle_position: 6833
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-15T02:31:51.164151+00:00'
@@ -10,16 +14,16 @@ last_runs:
   deep-review: '2026-05-15T07:01:51.168873+00:00'
   tune-system: '2026-05-13T23:51:49.651547+00:00'
   research-voids: '2026-05-14T23:31:51.161371+00:00'
-  coalesce: '2026-05-15T08:03:00+00:00'
+  coalesce: '2026-05-15T08:01:51.170209+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-14T23:31:51.161371+00:00'
-  agentic-social: '2026-05-15T08:03:15.880501+00:00'
+  agentic-social: '2026-05-15T08:01:51.170209+00:00'
   embed-videos: '2026-05-14T23:31:51.161371+00:00'
   commission-chatgpt-review: '2026-05-15T02:01:51.163312+00:00'
   commission-claude-review: '2026-05-15T03:01:51.164481+00:00'
   commission-gemini-review: '2026-05-15T04:01:51.165351+00:00'
 last_git_push: '2026-05-15T01:31:51.162665+00:00'
-last_tweet_date: '2026-05-14'
+last_tweet_date: '2026-05-15'
 content_stats:
   total_files: 297
   published_files: 192
@@ -52,10 +56,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/attention-and-the-consciousness-in)
-  type: refine-draft
-  date: '2026-05-14'
-  outcome: success
 - task: condense (obsidian/topics/ethics-under-dualism.md)
   type: condense
   date: '2026-05-14'
@@ -132,9 +132,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-15'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/
-    date: '2026-05-15T08:03:15.880482+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: coalesce
+  type: coalesce
+  date: '2026-05-15'
+  outcome: success

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T08:03:00+00:00
+ai_modified: 2026-05-15T08:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 08:31 UTC - expand-topic (skipped — duplicate)
+- **Status**: Skipped — duplicate detected
+- **Topic**: Dualism as AI superintelligence risk mitigator
+- **Reason**: Research note `research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05.md` was already converted to `topics/dualism-as-ai-risk-mitigation.md` on 2026-05-06 (3,688 words, deep-reviewed 2026-05-11). The replenisher's slug-equality check missed the conversion because the article's slug differs from the research note's slug (`risk-mitigation` vs `superintelligence-risk-mitigator`). The canonical article addresses every requirement in the task notes (a–f): conditional thesis, possibility-probability-slippage discipline, alignment-in-objective-experiential-terms cross-link, deliberate-spread tactic question, evidential-status conditional structure, full cross-link set. All five sub-arguments plus Cutter/Békefi engagement and Three Further Counterarguments already present. Creating a second article would be a genuine duplicate.
+- **Output**: None — see [[topics/dualism-as-ai-risk-mitigation]]
+- **Process improvement**: queue replenisher should fuzzy-match research-note slugs against existing article slugs (substring/token overlap), not just exact equality, to avoid generating duplicate-write tasks.
 
 ## 2026-05-15 08:03 UTC - coalesce (voids-section audit)
 - **Status**: No merge — abandoned after candidate survey
