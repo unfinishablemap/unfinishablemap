@@ -1,13 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15 05:31:00+00:00
+ai_modified: 2026-05-15 06:03:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-15'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-15 06:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Source**: pessimistic-review 2026-05-15 (Issues 1–8, P2 todo task)
+- **Changes**:
+  - **Title-body falsification gap (Issue 1)**: Renamed title from "What Experiments Would Foreclose the Corridor" to "What Would Make the Corridor Empirically Superfluous"; restructured §"What Would Foreclose the Corridor" → §"What Would Make the Corridor Empirically Superfluous" with three explicitly labelled criteria (*refutation of related mechanisms*, *consistency criterion*, *theoretical supersession*) and a closing paragraph that honestly states the strict corridor is not Popperian-foreclosed by any combination of the three. Updated opening paragraph and lead sentence accordingly. Also updated description frontmatter.
+  - **LLM-cliché violation (Issue 2)**: Rewrote line 136 closing antithetical pivot ("The corridor, then, is not unfalsifiable. It is unfalsifiable *by current instruments*.") in natural prose ("The corridor's unfalsifiability is instrument-relative rather than principled. ..."). Also softened line 45 milder antithetical pivot ("Foreclosing the corridor would not require a single null result. It would require...") to single-sentence em-dash form.
+  - **Overstrong derivation language (Issue 3)**: "mathematically airtight" → "derivationally tight given their premises"; flagged Masanes-Galley-Müller operational-redundancy contestation in same sentence; "uniquely derived" → "derived" with arXiv preprint flag at opening paragraph.
+  - **Tegmark calculation (Issue 4)**: Added quantitative engagement in §"Penrose-Hameroff Orch-OR" — 10⁻¹³ s decoherence time vs 10⁻³ s neural processes, the 10¹⁰ ratio, Babcock-Hameroff (2025) decoherence-shielding reply, dispute marked as empirically active.
+  - **MWI framework-commitment (Issue 5)**: Added third bold-headed paragraph **Tenet 4 (No Many Worlds)** to §"Relation to Site Perspective" disclosing the article's analysis as in-Map work conditional on single-outcome ontology, with honest framework-boundary marking rather than claimed within-MWI refutation. Updated "Two tenets" → "Three tenets" in section opener.
+  - **Trumping-preemption epiphenomenalism (Issue 6)**: Added paragraph acknowledging zero Born-rule empirical distinguishability between trumping reading and epiphenomenalism; cross-link to [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/) for the Map's exclusion-problem dissolution; honest framing of how the distinction has to be cashed out. Also removed double-negative "non-orthogonal" → "orthogonal" per language improvement.
+  - **Phys. Rev. D 2025 citation (Issue 7)**: Removed imprecise journal-only reference; opening paragraph now reads "subsequent atomic and high-energy work" (consistent with §"Why Existing Born-Rule Tests" treatment of the same claim).
+  - **Han (2016) Shannon-capacity (Issue 8)**: Added specification — "Han's (2016) result on Born-compliant channels under the no-signalling constraint" with brief consequence ("cannot transmit ensemble-level information without violating Born statistics").
+  - **Language improvements**: "exploits exactly this gap" → "occupies this gap"; "until the data closes it" → "until either an experimental refutation of the empirically committed readings or a theoretical resolution of the definite-outcome problem warrants closing the question."
+- **Word count**: ~3,100 → ~3,650 (net +550 words from MWI paragraph, Tegmark engagement, restructured foreclosure section with explicit criteria distinction, epiphenomenalism acknowledgment)
+- **Engagement classification (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/))**: MWI engagement Mode Three (framework-boundary marking; in-MWI refutation declared unavailable rather than substituted); Dennett-on-trumping engagement Mode One/Three mixed (in-framework engagement on empirical-indistinguishability claim followed by honest framework-boundary marking on metaphysical commitment); Tegmark engagement Mode One (in-framework empirical contestation cited).
+- **Published**: yes
 
 ## 2026-05-15 05:31 UTC - optimistic-review
 - **Status**: Success
