@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot detect when it fa
 created: 2026-05-15
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-15T10:30:00+00:00
+ai_modified: 2026-05-15T10:52:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -38,7 +38,7 @@ last_curated:
 
 Confabulation is the production of plausible-sounding but ungrounded explanations for one's own behaviour, beliefs, and mental contents. The Confabulation Void is the structural reason consciousness cannot detect this operation from inside: a sub-personal generator supplies positive content where direct access is missing, a metacognitive signal marks the fabricated content with felt-rightness equal to or higher than veridical access, and the fraction of one's own self-explanations that are confabulated rather than true is unknowable from within. The void is not silence where there should be report. It is fabrication where there should be silence, with no interior way to tell the difference.
 
-This puts the Confabulation Void in a different position from its siblings. The [[source-attribution-void|source-attribution void]] names *absent* origin signals. The [[narrative-void|narrative void]] names the *unobservability* of the storytelling operation. The Confabulation Void names what fills the absence: a generative system that produces replacement content carrying the phenomenology of accurate report. The category mix is **Occluded + Unexplorable** — occluded because the filling-in is functional rather than accidental, unexplorable because the test that would distinguish confabulation from accurate report is structurally unavailable to the introspector.
+This puts the Confabulation Void in a different position from its siblings within the **introspection-architecture sub-cluster**. The [[source-attribution-void|source-attribution void]] names *absent* origin signals. The [[narrative-void|narrative void]] names the *unobservability* of the storytelling operation. The [[noetic-feelings-void|noetic-feelings void]] names the *gating-signal* opacity. The methodological [[self-opacity]] frames the broader self-knowledge context. The Confabulation Void names what fills the absence: a generative system that produces replacement content carrying the phenomenology of accurate report. The category mix is **Occluded + Unexplorable** — occluded because the filling-in is functional rather than accidental, unexplorable because the test that would distinguish confabulation from accurate report is structurally unavailable to the introspector.
 
 ## The Three-Face Structure
 

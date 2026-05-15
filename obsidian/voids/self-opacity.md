@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-04-30
 human_modified: null
-ai_modified: 2026-05-01T01:25:00+00:00
+ai_modified: 2026-05-15T10:52:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -65,7 +65,7 @@ coalesced_from:
   - "/voids/phenomenology-of-self-reference/"
 ---
 
-Consciousness cannot fully know itself. When it tries, it encounters three structural impossibilities: the observer cannot observe itself observing, cognitive processes remain hidden while their products become conscious, and self-reference produces felt instabilities rather than clean self-knowledge. These are not three separate failures but three facets of a single void—the self-opacity of consciousness.
+Consciousness cannot fully know itself. When it tries, it encounters three structural impossibilities: the observer cannot observe itself observing, cognitive processes remain hidden while their products become conscious, and self-reference produces felt instabilities rather than clean self-knowledge. These are not three separate failures but three facets of a single void—the self-opacity of consciousness. This article frames the broader self-knowledge context for the introspection-architecture sub-cluster, of which the specific architectural faces are catalogued in [[narrative-void]], [[source-attribution-void]], [[noetic-feelings-void]], and [[confabulation-void]].
 
 The convergence is striking. Six thinkers from divergent frameworks identify the unobservable self despite sharing almost no premises. Empirical psychology confirms that we confabulate our reasons and construct our sense of agency from interpretive cues. Phenomenology reveals that turning attention inward produces distinctive experiential signatures—felt inversion, semantic vertigo, oscillation—that outward-directed thought lacks. The Unfinishable Map proposes that this self-opacity is not a limitation but a constitutive feature: the subject-object asymmetry that makes experience possible.
 

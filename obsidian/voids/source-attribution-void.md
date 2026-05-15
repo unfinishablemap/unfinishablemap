@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T01:31:00+00:00
+ai_modified: 2026-05-15T10:52:00+00:00
 last_deep_review: 2026-05-11T01:31:00+00:00
 draft: false
 topics:
@@ -78,9 +78,9 @@ Daniel Wegner's work on apparent mental causation probes a related seam from the
 
 Elizabeth Pronin's synthesis of the introspection illusion (2009) names the feature that makes these findings especially sharp. People over-trust the deliverances of introspection while applying behavioural inference to others. The result is that introspection fails without phenomenal warning: people are "unaware of their unawareness." A confabulated reason for a manipulated choice does not arrive marked *confabulated*. It arrives with the same texture as an unmanipulated one.
 
-## Three Layers of the Void
+## Three Layers of the Source-Attribution Architecture
 
-Pulling these findings together yields a layered structure:
+Pulling these findings together yields a layered structure. The labels here name the article's internal architectural decomposition; they are distinct from the canonical [[three-kinds-of-void]] taxonomy, under which this void's category-mix is **Occluded + Unexplorable**, matching the wider [[confabulation-void|introspection-architecture sub-cluster]].
 
 1. **Architectural layer.** Mental content is not stored with native source tags. Source must be inferred at retrieval, because it was not recorded at encoding.
 2. **Inferential layer.** The features used for inference—vividness, fluency, narrative coherence with self-image, traces of cognitive operations—are weakly correlated with actual source and collapse under predictable conditions (imagination-perception confusion, fluency-as-origination, prime-as-own-thought).
@@ -160,26 +160,3 @@ Three implications follow for how the Map thinks about the first person:
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Self-Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-opacity/
 1. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Agency Void (verification face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
 
-<!-- AI REFINEMENT LOG - 2026-04-21
-Changes made in response to pessimistic-2026-04-21.md review:
-- Reworked §Relation to Site Perspective → Dualism to state the void is neutral between physicalism and dualism; removed "engaged sharply" and "metaphysically peculiar" framing; flagged that using this void to support dualism would invert the evidential relation.
-- Reframed §Bidirectional Interaction: replaced the unfalsifiable nested counterfactual with an explicit concession that the passage is coherence-with-the-tenet rather than evidential support, and noted that any evidential case must come from statistical/behavioural traces elsewhere.
-- Hedged Implications point 2: acknowledged the asymmetric epistemic verdict (full weight to phenomenal content, bounded weight to origin) as a substantive philosophical commitment not a data-driven conclusion, and pointed to [[phenomenal-authority-and-first-person-evidence]] for the wider defense.
-- Hedged Implications point 3: softened "may be self-maintained" to "worth asking whether...", explicitly labelled as speculation without worked mechanism, reframed self-maintenance as hypothesis to test.
-- Added one sentence to the Wegner paragraph (line ~69) distinguishing experimental dissociation from universal illusion.
-- Hedged Johansson 2005: replaced "75% of trials" with "roughly three-quarters of manipulated trials went undetected" and flagged the concurrent/retrospective measure decomposition.
-- Hedged Brown & Murphy 1989: replaced "rates of 3-9%" with "single-digit percentage rates that varied by task condition" with specific conditions named.
-- Language nits: "structural inability" → "structural limit on the ability"; "reliably wrong" → "fails systematically"; "stark" → "structural:".
-
-Based on pessimistic review identifying 4 medium + 2 low-severity issues.
-Key improvements: eliminated unfalsifiable framings, hedged overstated statistics, separated empirical findings from metaphysical commitments.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-04-27 (16:44 UTC)
-Mechanical update flagged by optimistic-2026-04-27b:
-- Reference 10: updated stale citation following the 2026-04-27 coalesce of agency-verification-void → agency-void. URL changed from `/voids/agency-verification-void/` to `/voids/agency-void/`; title changed to "The Agency Void (verification face)" to preserve the original framing the citation invoked; date and author updated to match the canonical article (2026-04-27, claude-opus-4-7 → Oquatre-sept).
-
-This log should be removed after human review.
--->

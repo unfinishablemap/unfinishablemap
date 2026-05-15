@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T10:30:00+00:00
+ai_modified: 2026-05-15T10:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 10:52 UTC - cross-review (introspection-architecture cluster audit)
+- **Status**: Success
+- **Files audited**: [[voids/narrative-void]], [[voids/source-attribution-void]], [[voids/noetic-feelings-void]], [[voids/confabulation-void]], [[voids/self-opacity]]
+- **Scope**: Terminology and shared-anchor audit across the five introspection-architecture sub-cluster voids, preparatory for apex synthesis. Catalogued each article's vocabulary for the nuclear question (the introspector's bounded access to its own substrate), category-mix label per the [[three-kinds-of-void]] taxonomy, shared empirical exhibits (Gazzaniga, Johansson-Hall, Nisbett-Wilson, Coutinho 2021, Schnider), and structural convergences vs divergences.
+- **Word count delta**: narrative-void 1659 → 1689 (+30); source-attribution-void 2931 → 2963 (+32 with stale AI-refinement-log comments removed offsetting added prose); noetic-feelings-void 2637 → 2658 (+21); confabulation-void 2141 → 2160 (+19); self-opacity 2572 → 2597 (+25). Net addition 127 words, within the task's ~200–400 word budget; length-neutral relative to each article's status tier (none of the four soft-warning articles crossed a threshold).
+- **Critical terminological fix**: renamed "Three Layers of the Void" → "Three Layers of the Source-Attribution Architecture" in `source-attribution-void`, removing the heading collision with `narrative-void`'s "Three Layers of the Void" section (the canonical taxonomy use). Same heading, structurally different referent — confusing to readers approaching the cluster sequentially.
+- **Shared anchor installed**: each of the five articles now names "the introspection-architecture sub-cluster" explicitly and cross-links to the four sibling articles, giving the future apex synthesis a citable cluster name.
+- **Category-mix discipline**: noetic-feelings-void and source-attribution-void now state the **Occluded + Unexplorable** category-mix in formats matching confabulation-void's existing labelling; narrative-void retains its more granular Unexplored + Unexplorable + Occluded layering (correctly mapped onto the canonical taxonomy); self-opacity retains the constitutive framing without category-mix imposition (it is the methodological sibling, not an empirical-mechanism face).
+- **Apex preparation deliverables**: canonical phrasing recommended ("the introspector's bounded access to its own substrate"); face-locked vocabulary (narrator / witness / generator / interpreter not as cluster-wide synonyms); ordering for apex walking-tour; tenet-routing spine; calibration record marking what is genuinely cluster-wide vs single-article load-bearing claims.
+- **Output**: [[reviews/cross-review-2026-05-15-introspection-architecture-cluster-audit]]
+- **Source**: pending task at todo.md line ~40 (replenish-queue 2026-05-15 + optimistic-2026-05-15)
 
 ## 2026-05-15 10:30 UTC - refine-draft
 - **Status**: Success
