@@ -2,9 +2,9 @@
 title: "Haecceity and Indexical Identity"
 description: "The quality of being this particular conscious subject. Pattern-based theories cannot capture what makes you you rather than a qualitative duplicate."
 created: 2026-01-16
-modified: 2026-04-04
+modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-04-23T20:16:25+00:00
+ai_modified: 2026-05-15T04:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-28T00:24:00+00:00
+last_deep_review: 2026-05-15T04:05:00+00:00
 coalesced_from:
   - "/concepts/process-haecceitism/"
 ---
@@ -169,7 +169,7 @@ The haecceitistic framework would be challenged by: (1) a successful illusionist
 
 ## The Map's Commitment
 
-The Map's commitments imply haecceity about conscious subjects: **Dualism** means qualitative physical identity doesn't guarantee conscious identity. **No Many Worlds** requires a fact about which conscious subject I am. **Bidirectional Interaction** means *this* consciousness causally affects *this* brain—a further fact beyond qualitative relations. **Anti-Patternism** rejects Parfit's view that personal identity reduces to psychological continuity.
+The Map's tenets imply haecceity about conscious subjects: **Dualism** means qualitative physical identity doesn't guarantee conscious identity. **No Many Worlds** requires a fact about which conscious subject I am. **Bidirectional Interaction** means *this* consciousness causally affects *this* brain—a further fact beyond qualitative relations. Together these entail rejecting Parfit's view that personal identity reduces to psychological continuity—a derived commitment, not a separate tenet.
 
 Process haecceitism refines what the Map presupposes: personal identity is not pattern identity, and the particularity grounding identity need not require a permanent soul. *You* are not interchangeable with a qualitative duplicate. Being this conscious subject is a primitive fact—your haecceity—whether that fact attaches to an enduring substance or an impermanent experiential process.
 

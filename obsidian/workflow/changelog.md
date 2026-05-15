@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T03:31:00+00:00
+ai_modified: 2026-05-15T04:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 04:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/haecceity]]
+- **Word count**: 2718 → 2726 (+8 words; 109% of 2500 concepts soft threshold, length-neutral mode)
+- **Sixth deep review** of this article. Substantive changes since the last review (2026-03-28): 2026-04-04 coalesce merged `concepts/process-haecceitism.md` into this file, immediately followed by `/condense` (4079 → 2729 words); 2026-04-23 cross-link maintenance after `[[indexical-void]]` coalesce. Pass merited fresh scrutiny on the new merged Process Haecceitism section as well as the pre-existing content.
+- **Critical issues addressed**: 0 (no factual errors, misattributions, dropped qualifiers, source/Map conflation, internal contradictions, possibility/probability slippage, label leakage, or missing required sections detected)
+- **Medium issues addressed**: 1 — "Anti-Patternism" was bolded in parallel with three actual tenets (Dualism, No Many Worlds, Bidirectional Interaction) in "The Map's Commitment", inviting readers to infer it is a fourth tenet. The term is not in `tenets.md` and appears only in this article (verified by grep). Reframed as a derived commitment, not a separate tenet.
+- **Engagement classification (editor-internal, not in article)**: Wallace/Greaves on decision-theoretic Born rule → Mode Two (the "what should I care about?" move presupposes the I whose interests are at stake — uses decision theory's own foundational move to identify the unsupported jump); Illusionism via Tallis 2016 → Mode Two (illusion-of-consciousness requires a subject for whom it seems, which illusionism cannot supply); Anti-haecceitism on parsimony → Mode Three (honest framework-boundary marking — parsimony might favor anti-haecceitism, but empirical zombie-conceivability constrains parsimony's verdict). No boundary-substitution detected.
+- **Bedrock disagreements (do NOT re-flag)**: MWI defenders dissatisfied with indexical arguments; physicalists rejecting primitive haecceity; illusionist response not naming heterophenomenology by name; Buddhist process-haecceity framed as reconciliation rather than identity.
+- **Output**: [[reviews/deep-review-2026-05-15-haecceity]]
 
 ## 2026-05-15 03:31 UTC - deep-review (cross-review catalogue integration)
 - **Status**: Success
