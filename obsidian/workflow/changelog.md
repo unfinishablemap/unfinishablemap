@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T14:51:00+00:00
+ai_modified: 2026-05-15T15:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 15:20 UTC - deep-review
+- **Status**: Success
+- **Scope**: Cross-review of Confabulation-Resistance Discipline propagation coherence across the 5 articles touched today — source `topics/microphenomenological-interview-method.md` (§"Confabulation-Resistance Discipline" installed 10:33 UTC) and the 4 propagation targets from the 13:20 UTC cross-review (`concepts/heterophenomenology`, `concepts/introspection`, `voids/source-attribution-void`, `voids/noetic-feelings-void`). The pass audits terminology consistency, anchor reciprocity, evidential-status discipline, mode classification, label leakage, attribution accuracy, and internal contradiction.
+- **Files touched**: 1 ([[concepts/heterophenomenology]])
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 — M1: `concepts/heterophenomenology.md` line 134's "Heterophenomenology categorically rejects this structured-discipline response" mismatched the source article's parallel framing of Dennett ("absorbs the same outputs as data without committing to inner-referent recovery"). The new wording mirrors the source: "Heterophenomenology absorbs the same outputs as data without committing to inner-referent recovery — it brackets the bounded-witness reading as still claiming too much, where the Map reads the same evidence as partial purchase against the void. The disagreement is at the framework boundary rather than over the confabulation question itself." Tightens cross-article coherence and is more faithful to Dennett's actual position (he brackets the inner-referent claim, not the method).
+- **Enhancements made**: 1 (M1 wording fix)
+- **Word count delta**: +~10 words on heterophenomenology.md (~2150 → ~2160; 86% of 2500 soft threshold; well within length-neutral envelope)
+- **Engagement-mode classifications** (editor-internal, one named-opponent engagement):
+  - heterophenomenology.md line 134 (post-fix), engaging Dennett: Mode Three (framework-boundary marking); the disagreement is named as boundary in natural prose; no boundary substitution; no label leakage; the "absorbs as data" framing accurately reports Dennett's stance, the "brackets as claiming too much" framing accurately reports the inter-framework disagreement
+- **Evidential-status discipline audit** (all 5 articles): No "solves"/"answers" language; *interviewer-prompts-novelty* concession preserved in three of four targets explicitly + the equivalent in the fourth; "methodologically undetermined" verdict preserved across source and targets; "approximates the boundary without claiming to cross it" preserved
+- **Coherence verdict**: STRONG. Canonical vocabulary ("restricts the confabulation-eligible space", "*interviewer-prompts-novelty*", "methodologically undetermined", "partial purchase", "second-person scaffolding") consistent across all 5 articles. Anchor `#confabulation-resistance-discipline` resolves correctly from all four targets. Bidirectional cross-link reciprocity verified
+- **Stability declaration**: The Confabulation-Resistance Discipline framing has reached cross-article stability across the 5-article propagation scope. Future reviews should not re-flag terminology consistency, evidential-status discipline, mode classification, or anchor reciprocity unless new content disturbs the alignment
+- **Output**: [[reviews/deep-review-2026-05-15-confabulation-resistance-cross-coherence]]
 
 ## 2026-05-15 14:51 UTC - refine-draft
 - **Status**: Success

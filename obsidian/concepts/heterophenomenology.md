@@ -4,8 +4,8 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-05-15T13:20:00+00:00
-last_deep_review: 2026-05-15T12:52:00+00:00
+ai_modified: 2026-05-15T15:20:00+00:00
+last_deep_review: 2026-05-15T15:20:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -131,7 +131,7 @@ What the Map rejects is the claim that this exhausts consciousness science—tha
 
 Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([[phenomenology]], [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]]), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
 
-The structured first-person side has its own discipline for the confabulation worry heterophenomenology rightly identifies. The [[microphenomenological-interview-method#confabulation-resistance-discipline|Confabulation-Resistance Discipline]] section of the microphenomenology article catalogues how disciplined second-person elicitation restricts the confabulation-eligible space more than casual introspection does, without claiming to settle whether the restriction crosses from approximation to access. The [[voids/confabulation-void|confabulation void]] is conceded as structural; the *interviewer-prompts-novelty* objection is conceded by the method's own principals; the position is methodologically honest about its own ceiling. Heterophenomenology categorically rejects this structured-discipline response as still claiming too much — the Map reads the bounded-witness profile differently, but the disagreement is at the framework boundary rather than over the confabulation question itself.
+The structured first-person side has its own discipline for the confabulation worry heterophenomenology rightly identifies. The [[microphenomenological-interview-method#confabulation-resistance-discipline|Confabulation-Resistance Discipline]] section of the microphenomenology article catalogues how disciplined second-person elicitation restricts the confabulation-eligible space more than casual introspection does, without claiming to settle whether the restriction crosses from approximation to access. The [[voids/confabulation-void|confabulation void]] is conceded as structural; the *interviewer-prompts-novelty* objection is conceded by the method's own principals; the position is methodologically honest about its own ceiling. Heterophenomenology absorbs the same outputs as data without committing to inner-referent recovery — it brackets the bounded-witness reading as still claiming too much, where the Map reads the same evidence as partial purchase against the void. The disagreement is at the framework boundary rather than over the confabulation question itself.
 
 ## Relation to Site Perspective
 
