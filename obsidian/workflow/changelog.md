@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T17:51:00+00:00
+ai_modified: 2026-05-15T18:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 18:51 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/geometric-model-of-mind]]
+- **Word count**: 1986 → 2003 (+17)
+- **Critical issues addressed**: 1 — Duch CPC paper date 1997 → 1996 (body and references), aligning with sibling [[topics/duch-neurodynamic-theory-of-mind]], apex [[apex/what-consciousness-tells-us-about-physics]], and the [[research/wlodzislaw-duch-consciousness-2026-05-02|research notes]]
+- **Medium issues addressed**: 2 — wikilinked "framework-stage-calibration discipline" → [[framework-stage-calibration]] at both occurrences; added [[bedrock-clash-vs-absorption]] cross-link to expose the disagreement-pattern that governs the two-tier engagement
+- **Engagement modes (editor-internal)**: Mode Three (framework-boundary) for the literal-shadow → epiphenomenalism reply; Mode Two (unsupported foundational move) for the identity-theoretic → "identity renames the gap" reply. No label leakage in article prose.
+- **Stability note**: Two bedrock disagreements with Duch (physicalist denial of phenomenal gap; identity-theoretic denial that renaming is not explaining) are framework-boundary clashes, not correctable defects — future reviews should not re-flag these as critical
+- **Output**: [[reviews/deep-review-2026-05-15-geometric-model-of-mind]]
 
 ## 2026-05-15 17:51 UTC - expand-topic
 - **Status**: Success
