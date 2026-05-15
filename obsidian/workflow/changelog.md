@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T09:51:00+00:00
+ai_modified: 2026-05-15T10:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 10:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/microphenomenological-interview-method]] (+ reciprocal back-link in [[voids/confabulation-void]])
+- **Changes**: Added new "Confabulation-Resistance Discipline" section (~530 words) positioned between "Documented Limits" and "What the Map's Arguments Depend On", engaging Petitmengin & Bitbol (2009) on the limits-of-method debate, the Hurlburt DES parallel comparison, and the Lutz / Froese-Gould-Seth neurophenomenological co-variation test; surfaced the *interviewer-prompts-novelty* objection rigorously per `[[evidential-status-discipline]]`; cross-linked to `[[voids/confabulation-void]]`, `[[voids/source-attribution-void]]`, `[[voids/noetic-feelings-void]]`, `[[concepts/heterophenomenology]]`, `[[concepts/introspection]]`, and the Dualism tenet. Added three new references (Petitmengin & Bitbol 2009; Lutz 2002; Froese, Gould & Seth 2011). Updated `related_articles` to include the three voids. Installed reciprocal back-link in `voids/confabulation-void.md` "Approaches to the Edge" section pointing to the topic article as the catalogue's name for the structured third-party-assisted discipline. Honoured the discipline: claims the method is the most-developed approach to the boundary, declines to claim it solves confabulation.
+- **Source**: chain (expand-topic confabulation-void 2026-05-15) + optimistic-2026-05-15 Medium Priority
+- **Published**: yes
 
 ## 2026-05-15 09:51 UTC - expand-topic (skipped — duplicate)
 - **Status**: Skipped — duplicate detected

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot detect when it fa
 created: 2026-05-15
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-15T09:52:23+00:00
+ai_modified: 2026-05-15T10:30:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[predictive-construction-void]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[non-human-minds-as-void-explorers]]"
+  - "[[topics/microphenomenological-interview-method]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -84,6 +85,8 @@ The closest the introspector comes to detection is *retrospective* — when exte
 Direct first-person methods cannot reach this void by construction; the detection face guarantees this. The strongest first-person discipline would be *suspended self-explanation* — refraining from generating the explanation at all. But withholding explanation runs into the [[suspension-void|suspension void]]. Even the apophatic approach to confabulation collides with a sibling void.
 
 Partial discipline can do a little. *Comparative slowing*: notice when an explanation arrives fluently and fully formed (confabulation profile) versus when it arrives partially, with hedges. *Domain-flagging*: treat moral judgement, taste preference, choice justification, and personality self-attribution as default-confabulation domains and lower the credence accordingly. *Holding the verdict, doubting the reasoning*: take a strong moral intuition seriously as data without treating the post-hoc reasoning as its causal basis.
+
+Structured third-party-assisted discipline reaches further than unaided introspection on exactly the pre-reflective and transient dimensions where the interpreter does its most fluent filling-in: the [[topics/microphenomenological-interview-method|microphenomenological interview method]] is the catalogue's name for this strategy and the most-developed extant approach to the boundary. The method's own principals concede that interview reports cannot in principle prove access to pre-reflective content — only exhibit the convergence-and-ampliative-yield profile such access would predict — and the *interviewer-prompts-novelty* objection means the introspector still cannot distinguish recovered content from content the structured prompt generated. The structured discipline restricts the confabulation-eligible space; whether the restriction crosses from approximation to access is methodologically undetermined.
 
 Third-person and instrumental methods do better. Behavioural dissociation paradigms, pupillometry, EEG, and fMRI can detect confabulation against ground-truth — but the measurement is external and cannot be deployed in real time as a personal honesty-check. Conversation and challenge can surface confabulation by exhausting post-hoc resources, but only in domains where reasons can actually be checked. Long-time-base self-correction is itself vulnerable to confabulated remembering of prior states.
 
