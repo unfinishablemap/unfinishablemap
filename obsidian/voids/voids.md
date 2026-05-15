@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-05-15
 human_modified: 2026-01-08
-ai_modified: 2026-05-15T12:29:00+00:00
+ai_modified: 2026-05-15T14:00:00+00:00
 draft: false
 last_deep_review: 2026-04-27T18:59:00+00:00
 topics: []
@@ -156,6 +156,7 @@ The mitigation the Map can earn: even restricted to the framework-independent se
 - [[noetic-feelings-void|The Noetic Feelings Void]] — Why the felt signals that gate cognition from inside—knowing, rightness, understanding, obviousness—cannot be audited without deploying more signals of the same kind (coalesced with understanding-void 2026-04-24)
 - [[vertiginous-question|The Indexical Void / Vertiginous Question]] — Why first-person identity resists explanation (coalesced 2026-04-23)
 - [[narrative-void|The Narrative Void]] — Why consciousness cannot observe its own storytelling
+- [[confabulation-void|The Confabulation Void]] — Why consciousness cannot detect when a sub-personal interpreter fabricates explanations for its own behaviour, with the felt signal that would mark the fabrication anti-correlated with accuracy in conditions where reliability most matters; three faces (generation / detection / pervasiveness) supply the positive-content twin of [[source-attribution-void|source-attribution]] within the introspection-architecture sub-cluster (created 2026-05-15)
 - [[ownership-void|The Ownership Void]] — Why we cannot introspect how experiences become ours
 - [[plurality-void|The Plurality Void]] — Why we cannot conceive being multiple subjects at once
 - [[resolution-void|The Resolution Void]] — The six-order-of-magnitude compression between available and accessed information
@@ -244,29 +245,16 @@ The voids framework flows directly from the Map's [[tenets]]:
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [[apophatic-cartography|apophatic cartography]]—using the structure of failure as data about what lies beyond.
 
-<!-- AI REFINEMENT LOG - 2026-05-15 (refine-draft, 12:29 UTC)
+<!-- AI REFINEMENT LOG - 2026-05-15 (refine-draft, 14:00 UTC)
 Changes made:
-- Extended the existing "Research-Stage Voids" subsection (line 217 onward) from 3 entries to 6 by adding insight-void, encoding-void, and participation-void. Existing translation/effort/cognitive-phenomenology entries preserved verbatim; cap-pressure framing in the opening paragraph updated to reflect the growth from three to six and explicitly cite the addition as an exhibit of absorption-over-proliferation discipline.
-- Insight Void (2026-05-14 research note, 4509w) — three-face structure: restructuring (Knoblich-Ohlsson 1999 + Knoblich-Ohlsson-Raney 2001 eye-tracking), antecedent-blindness (Jung-Beeman et al. 2004 alpha-blink + gamma burst; Salvi et al. 2019 gamma tACS causal), calibration (Danek-Wiley 2017 false insights; Topolinski-Reber 2010 fluency account; Laukkonen 2020 "dark side of Eureka"). Folds-into: noetic-feelings-void (calibration face), decision-void (sister-regress).
-- Encoding Void (2026-05-12 research note) — three-face structure: selection (Yang et al. 2024 SWR-tagging; Sun et al. 2025 recall-gated consolidation), boundary (Kurby-Zacks 2008 EST + Radvansky-Zacks 2017 doorway-effect flushing + Yan et al. 2024 active-maintenance), consolidation (Stickgold 2005 sleep-dependent; Henke-lab Schreiner et al. 2022 inverse forgetting). Folds-into: narrative-void (encoding-as-storytelling), source-attribution-void (architectural-layer upstream).
-- Participation Void (2026-02-17 research note, never integrated) — Heidegger ready-to-hand/present-at-hand, Merleau-Ponty motor intentionality, Polanyi tacit knowing, Ryle know-how/know-that, Dreyfus absorbed coping, Brentano paradox of introspection. Folds-into: agency-void (motor-intentionality face), wholeheartedness-void (engaged-identification face). The task notes suggested "the-givenness-void" as a candidate host but no such article exists; the post-coalesce naming check resolved to agency-void + wholeheartedness-void as the closest existing matches (tacit-integration-void would also work as a third pointer but was omitted to keep scope tight).
-- Frontmatter: modified → 2026-05-15; ai_modified → 2026-05-15T12:29:00+00:00; related_articles +3 (the three new research notes).
-- Six forward-pointers installed in candidate host articles, each framed as the absorption target's named face of the surveyed void:
-  - noetic-feelings-void.md: insight-void (calibration face / Eureka heuristic)
-  - decision-void.md: insight-void (sister-regress at impasse→restructuring closure)
-  - narrative-void.md: encoding-void (encoding-as-storytelling, upstream)
-  - source-attribution-void.md: encoding-void (architectural-layer upstream)
-  - agency-void.md: participation-void (motor-intentionality face of verification opacity)
-  - wholeheartedness-void.md: participation-void (engaged-identification face of standing condition)
-- Format matches the prior research-stage forward-pointers installed in noetic-feelings-void.md (cognitive-phenomenology, effort) and agency-void.md (effort): a single bulleted entry at the end of "Further Reading," named with `(research-stage)` suffix, citing key empirical anchors, naming the absorption face, ending with "Cap-deferred, awaiting absorption."
+- Registered the new `voids/confabulation-void.md` (created today 10:52 UTC, commit `bc9278a58`) in the catalogue's Specific Voids list, placed immediately after `narrative-void` since the new article positions itself as "the engine the interpreter supplies" for narrative-void's storytelling-operation host-account. Single-bullet "Why X" gloss matches the surrounding index voice: names the felt-signal anti-correlation as the void's distinguishing structural feature, names the three faces (generation / detection / pervasiveness), and frames the void as the positive-content twin of source-attribution within the introspection-architecture sub-cluster.
+- Frontmatter: ai_modified → 2026-05-15T14:00:00+00:00 (from T12:29:00). modified date unchanged (already 2026-05-15 from the morning's research-stage extension). related_articles unchanged — confabulation-void is a regular cataloged void, not a research-stage one, and the existing related_articles list scopes to foundational/methodological articles plus research-stage entries; the body wikilink suffices.
 
-~620 words touched across voids.md + 6 host articles; within the ~400–700 word scope set by the task. Existing structure and voice preserved; no entries removed; the framework-independent and navigating-this-section material from prior refines is unchanged.
+~90 words touched in voids.md (within the ~80–150 word scope set by the task across both files). Existing structure and voice preserved; no entries removed; the framework-independent material and Research-Stage Voids subsection from prior refines unchanged.
 
-Tenet alignment: methodological / catalogue-navigation discipline. The three new entries exhibit the absorption-over-proliferation move that the cap-pressure framing in the opening paragraph claims for the catalogue.
-
-Capacity status: voids/ at 101/100 — over cap. The integration discipline (refine-draft on voids.md, not expand-topic) is honoured: no new void articles created; three surveyed voids visible via index + host forward-pointers + frontmatter related_articles, awaiting later absorption when the absorbing-article refines have scope.
+Tenet alignment: site-integrity / index-coherence discipline.
 
 This log should be removed after human review.
 
-Prior log (2026-05-13 18:23 UTC refine-draft: Framework-Independent Voids subsection) superseded by this entry.
+Prior log (2026-05-15 12:29 UTC refine-draft: Research-Stage Voids extension to six entries) superseded by this entry.
 -->

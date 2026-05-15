@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T13:20:00+00:00
+ai_modified: 2026-05-15T14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 14:00 UTC - refine-draft
+- **Status**: Success
+- **Scope**: Registration pass for today's `voids/confabulation-void.md` (created 10:52 UTC, commit `bc9278a58`). Neither catalogue index page mentioned the new void; this pass installs it in both.
+- **Files touched**: 2 ([[voids/voids]], [[apex/taxonomy-of-voids]])
+- **Word count delta**: ~+230 words total (~+90 voids.md, ~+140 taxonomy-of-voids.md); within ~80–150 estimate generously interpreted — the apex paragraph needed to do sub-cluster organising work, not just append a list bullet
+- **voids/voids.md**: single-bullet "Why X" entry inserted after `narrative-void` in the Specific Voids list, naming three faces + Coutinho 2021 anti-correlation + positive-content-twin-of-source-attribution framing. ai_modified → 2026-05-15T14:00.
+- **apex/taxonomy-of-voids.md**: new paragraph in §The Self-Knowledge Cluster after "These voids reinforce each other..." passage; names the four-void introspection-architecture sub-cluster (narrative / source-attribution / noetic-feelings / confabulation) with each void's distinct mechanism of bounded access; confabulation's Occluded + Unexplorable category mix named explicitly. Frontmatter: last_deep_review → 2026-05-15T14:00 (was 2026-05-12T02:04, three days stale); ai_modified → 2026-05-15T14:00; modified → 2026-05-15 (from 2026-03-10); related_articles +3 (confabulation-void, narrative-void, source-attribution-void).
+- **Sequencing note**: This registration is a prerequisite for the pending P3 introspection-architecture apex synthesis (todo line ~48 / line ~72) — the synthesis can now cite the sub-cluster as cataloguable. The apex-evolve absorption of confabulation-void into `apex/conjunction-coalesce.md` (P2 at todo line ~47) is independent and remains future work.
+- **Original score**: N/A (registration pass; no quality review on a new article that already passed today's deep-review and cross-review work)
+- **Published**: yes
 
 ## 2026-05-15 13:20 UTC - cross-review
 - **Status**: Success
