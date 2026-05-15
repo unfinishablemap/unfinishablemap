@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-05-12 02:04:00+00:00
+ai_modified: 2026-05-15 14:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-30 03:11:00+00:00
 apex_sources:
@@ -30,14 +30,14 @@ concepts:
 - '[[introspection]]'
 - '[[simulation]]'
 created: 2026-03-10
-date: &id001 2026-03-10
+date: &id001 2026-05-15
 description: Sixty+ cognitive voids cluster at the consciousness-matter interface—structured
   taxonomy supporting the Map's tenet-package as framework-internal coherence under
   the common-cause-null discount.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-12 02:04:00+00:00
+last_deep_review: 2026-05-15 14:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -80,6 +80,9 @@ related_articles:
 - '[[tenet-generated-voids]]'
 - '[[the-surplus-void]]'
 - '[[project/coherence-inflation-countermeasures]]'
+- '[[confabulation-void]]'
+- '[[narrative-void]]'
+- '[[source-attribution-void]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -114,6 +117,8 @@ The 60+ individual voids sort into domains by *where* in cognitive space they oc
 The densest cluster surrounds the mind's attempt to examine itself. The [unobservable self](/voids/self-opacity/)—the subject that cannot become its own object—anchors this domain. Surrounding it: [introspective opacity](/voids/self-opacity/) (the mechanisms of experience hidden from the experiencer), the [calibration void](/voids/observation-and-measurement-void/) (introspection cannot be verified against any independent standard), the [observation void](/voids/observation-and-measurement-void/) (every method of studying consciousness transforms what it studies), the [self-reference paradox](/voids/self-opacity/) (where consciousness cannot map because it is the mapper), and the [witnessing-void](/voids/witnessing-void/) (the first-order impossibility of witnessing *qua operation* examining itself, distinct from the unobservable-owner framing of self-opacity).
 
 These voids reinforce each other, creating what the Map calls [compound cognitive limits](/voids/compound-failure-signatures/)—emergent failure modes that no single void predicts. The cluster is especially resistant to investigation because the instrument and the object are the same. As [the limits reveal](/voids/what-voids-reveal/), this tells us something specific about what we are: beings whose cognitive architecture includes systematic opacity about its own operations.
+
+A four-void *introspection-architecture* sub-cluster organises within this domain by naming distinct mechanisms of the introspector's bounded access to its own substrate. The [narrative void](/voids/narrative-void/) names the unobservability of the storytelling operation; the [source-attribution void](/voids/source-attribution-void/) names the absence of native origin tags; the [noetic-feelings void](/voids/noetic-feelings-void/) names the opacity of the gating signals that license cognition from inside; and the [confabulation void](/voids/confabulation-void/) names what fills the absence—a sub-personal interpreter that produces fabricated explanations carrying the phenomenology of accurate report. Confabulation-void's category mix is cross-categorial—Occluded (the filling-in is functional rather than accidental) plus Unexplorable (the test that would distinguish fabricated from veridical report is structurally unavailable to the introspector)—and Coutinho et al.'s 2021 finding that the felt-rightness signal tracks accuracy *inversely* in the conditions where reliability matters most marks the void as the active twin of source-attribution: where source-attribution names absent origin signals, confabulation names the positive-content fabrication that fills the gap.
 
 The [erasure void](/voids/erasure-void/) extends the cluster across time: consciousness cannot inventory its own deletions, because the monitoring system that would detect cognitive loss typically erodes alongside the capacity itself. Clinical anosognosia—patients with damage to both a function and its monitoring system sincerely deny their deficits—is the stark case, but the structure is universal, visible in ordinary ageing and in the Dunning-Kruger dynamic where the metacognitive skills required to recognise incompetence coincide with the skills themselves. This void introduces a failure mode the others lack: where introspective opacity is noticed as opacity, the erasure void is not noticed at all. The world simply appears complete.
 
@@ -236,3 +241,15 @@ This synthesis draws from:
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Framework-generated limits as intellectual honesty
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — The distinction between evolved and engineered constraints
 - [Medium-Status Voids in Cognition](/apex/medium-status-voids-in-cognition/) — The content/capacity/medium-status typology and the operative-self-reference shape
+
+<!-- AI REFINEMENT LOG - 2026-05-15 (refine-draft, 14:00 UTC)
+Changes made:
+- Registered `voids/confabulation-void.md` (created today 10:52 UTC, commit `bc9278a58`) in the Self-Knowledge Cluster section by adding a new paragraph after the "These voids reinforce each other..." passage. The paragraph names the four-void introspection-architecture sub-cluster (narrative / source-attribution / noetic-feelings / confabulation) and walks each void's distinct mechanism of the introspector's bounded access to its own substrate. Confabulation-void's cross-categorial mix (Occluded + Unexplorable) is named explicitly, as is the Coutinho 2021 anti-correlation finding that distinguishes the detection face from generic noetic-feelings unreliability. The void is framed as the active twin of source-attribution: positive-content fabrication that fills the absence source-attribution names.
+- Frontmatter: ai_modified → 2026-05-15T14:00:00+00:00 (from 2026-05-12T02:04:00+00:00); last_deep_review → 2026-05-15T14:00:00+00:00 (registration pass); modified → 2026-05-15 (from 2026-03-10, which was stale); related_articles +3 (confabulation-void, narrative-void, source-attribution-void) — narrative-void and source-attribution-void were already in the body wikilinks elsewhere in the article but missing from the explicit related_articles field, and registering the sub-cluster cleanly required the back-links to be explicit at the frontmatter level.
+
+~140 words touched in taxonomy-of-voids.md. Combined with ~90 words in voids.md, total scope ~230 words across both files (slightly above the ~80–150 estimate because the apex paragraph needed to do the sub-cluster organising work, not merely insert a list entry).
+
+Tenet alignment: site-integrity / index-coherence discipline. The sub-cluster naming is independent of the pending introspection-architecture apex synthesis (P3 at todo line ~48) — registration here lets that apex cite the cluster as cataloguable; the synthesis remains future work.
+
+This log should be removed after human review.
+-->
