@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense apex/taxonomy-of-voids.md (5059 words, 126% of soft target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Length-analysis surfaced `apex/taxonomy-of-voids.md` at 5059 words against the apex/ soft threshold of 4000 (126%) and hard threshold of 5000 (101%, hard_warning status). The article is the apex navigation hub for the voids catalogue (referenced from the apex-synthesis task at active-tasks line ~48, from `apex/phenomenology-mechanism-bridge.md`, from `apex/conjunction-coalesce.md`, and from many voids articles); condensing it must preserve the taxonomy structure (Occluded / Unexplorable / Tenet-Generated / Methodological / Compound categories) and the failure-signature topology (felt-as-opacity / silent erasure / boundary-not-found) since these are the apex's load-bearing organising structures. Condense priorities: (a) trim the changelog entries embedded in the body (lines ~220–250 per prior optimistic flags) and either delete entries older than 60 days or move to a sidecar `apex/taxonomy-of-voids.refinement-log.md` (precedent: `topics/non-temporal-consciousness.refinement-log.md`); (b) audit for repeated definitions — the article restates the five categories at multiple points; pick one canonical exposition and have the others refer; (c) check for editor-vocabulary leakage (per `tenets.md` 2026-05-12 precedent) — `**Evidential status:**` callouts, `Engagement classification:` meta-commentary, `per [[direct-refutation-discipline]]` meta-asides should be either deleted or moved to a sidecar; (d) audit for "This is not X. It is Y." cliché violations; (e) preserve cross-traditional convergence framing and the cluster-citations (introspection-architecture sub-cluster, methodological cluster, etc.); (f) target ~4200–4500 words (within soft+hard window, comfortable margin). Tenet alignment: methodological / apex-stability discipline. **Sequencing**: best done *before* the apex-synthesis task at active-tasks line ~48 fires (so the apex synthesis can cite a stabilised taxonomy-of-voids); independent of other tasks otherwise.
-- **Source**: length_analysis
-- **Generated**: 2026-05-15
-
 ### P2: Write concept article on Włodzisław Duch's geometric model of mind ("mind as shadow of neurodynamics")
 - **Type**: expand-topic
 - **Status**: pending
@@ -3607,6 +3600,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-15: Condense apex/taxonomy-of-voids.md (5059 words, 126% of soft target)
+- **Type**: condense
+- **Notes**: Length-analysis surfaced `apex/taxonomy-of-voids.md` at 5059 words against the apex/ soft threshold of 4000 (126%) and hard threshold of 5000 (101%, hard_warning status). The article is the apex navigation hub for the voids catalogue (referenced from the apex-synthesis task at active-tasks line ~48, from `apex/phenomenology-mechanism-bridge.md`, from `apex/conjunction-coalesce.md`, and from many voids articles); condensing it must preserve the taxonomy structure (Occluded / Unexplorable / Tenet-Generated / Methodological / Compound categories) and the failure-signature topology (felt-as-opacity / silent erasure / boundary-not-found) since these are the apex's load-bearing organising structures. Condense priorities: (a) trim the changelog entries embedded in the body (lines ~220–250 per prior optimistic flags) and either delete entries older than 60 days or move to a sidecar `apex/taxonomy-of-voids.refinement-log.md` (precedent: `topics/non-temporal-consciousness.refinement-log.md`); (b) audit for repeated definitions — the article restates the five categories at multiple points; pick one canonical exposition and have the others refer; (c) check for editor-vocabulary leakage (per `tenets.md` 2026-05-12 precedent) — `**Evidential status:**` callouts, `Engagement classification:` meta-commentary, `per [[direct-refutation-discipline]]` meta-asides should be either deleted or moved to a sidecar; (d) audit for "This is not X. It is Y." cliché violations; (e) preserve cross-traditional convergence framing and the cluster-citations (introspection-architecture sub-cluster, methodological cluster, etc.); (f) target ~4200–4500 words (within soft+hard window, comfortable margin). Tenet alignment: methodological / apex-stability discipline. **Sequencing**: best done *before* the apex-synthesis task at active-tasks line ~48 fires (so the apex synthesis can cite a stabilised taxonomy-of-voids); independent of other tasks otherwise.
+- **Output**: obsidian/apex/taxonomy-of-voids.md
 
 ### ✓ 2026-05-15: Condense voids/source-attribution-void.md (3121 words, 156% of soft target)
 - **Type**: condense

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T16:01:00+00:00
+ai_modified: 2026-05-15T16:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 16:51 UTC - condense
+- **File**: [[apex/taxonomy-of-voids]]
+- **Before**: 5059 words (hard_warning, 126% of 4000 target)
+- **After**: 4303 words (soft_warning, 108% of target)
+- **Reduction**: 15%
+- **Technique**: removed the obsolete inline `AI REFINEMENT LOG` HTML comment (~240 words, marked for removal post-review); consolidated three sibling cross-cutting-axis paragraphs in the Phenomenological Cluster into a unified intro + three condensed sub-paragraphs; tightened the introspection-architecture sub-cluster paragraph; trimmed redundancy from the long phenomenological-voids enumeration paragraph; consolidated eight failure-signature paragraphs into six tighter ones in the *Topology of Failure* section; light trims throughout *Three Kinds to Four*, *Formal/Meta-Cognitive Cluster*, *Convergence Pattern*, and *Taxonomy's Own Limits*. Opening summary, the *Relation to Site Perspective* section, all wikilinks, the four-kinds typology, the common-cause-null discipline, and the framework-internal-coherence caveats preserved intact.
 
 ## 2026-05-15 16:20 UTC - condense
 - **Status**: Success
