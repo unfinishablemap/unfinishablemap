@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T22:29:00+00:00
+ai_modified: 2026-05-15T22:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 22:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/introspection-architecture-independence-scoring]]
+- **Word count**: 2998 → 2999 (length-neutral mode; at soft threshold for topics)
+- **Scope**: Cross-exhibit methodological-consistency audit against [[voids/the-surplus-void]]. Second-pass focused review at 22:52 UTC following the initial deep-review at 22:29 UTC. Verified terminology consistency ("framework-internal-coherence"), exhibit-numbering, methodological-contrast framing (patient-population anchors as load-bearing difference), asymmetric application of despite-commitments / because-prediction split (justified by empirical-vs-philosophical-anchor distinction), and asymmetric framework-independence treatment (justified by presence of translation-surviving architectural finding in only one cluster). All four scoring claims about the surplus-void at line 117 cross-validated against the surplus-void's actual content.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — attribution-precision in line 117. Previous wording "Its scoring profile, as retracted in the 2026-05-11 refinement:" could be misread as claiming the surplus-void's 2026-05-11 refinement performed the four-criterion scoring; the refinement made the framework-independence weakness explicit but did not produce a four-criterion self-scoring. Rewrote to "Scoring the surplus-void on the same four criteria, post-2026-05-11 retraction:" — clarifies that this article performs the comparative scoring, with the retraction as temporal context.
+- **Enhancements made**: 0 (length-neutral surgical fix only; no new content)
+- **Engagement modes (editor-internal)**: N/A for the edit (attribution-precision correction, not opponent engagement). The article's existing Mode Three framework-boundary disagreement with materialism is preserved.
+- **Stability note**: Cross-exhibit methodological consistency is now settled between this article and the-surplus-void.md. Future reviews should not re-litigate the terminology, the exhibit-numbering, or the methodological-contrast framing. The asymmetric application of despite-commitments / because-prediction and the asymmetric framework-independence treatment are both settled as methodologically justified.
+- **Output**: [[reviews/deep-review-2026-05-15-introspection-architecture-cross-exhibit-audit]]
 
 ## 2026-05-15 22:29 UTC - deep-review
 - **Status**: Success

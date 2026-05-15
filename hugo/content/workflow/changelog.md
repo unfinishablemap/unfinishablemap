@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15 21:55:00+00:00
+ai_modified: 2026-05-15 22:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-15'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-15 22:29 UTC - deep-review
+- **Status**: Success
+- **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Word count**: 2998 → 2998 (article body unchanged; back-links propagated to related files)
+- **Scope**: Install reciprocal back-links and apex registration for the newly-created article (created 21:55 UTC same cycle). Article body checked against calibration-error, attribution-accuracy, and reasoning-mode disciplines; no critical issues found. Outbound graph work done.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (cross-species channel named-as-absent deferred; named in article's Honest Limitations)
+- **Enhancements made**: 9 reciprocal back-links + apex registration. (1) `apex/taxonomy-of-voids.md` — updated per-cluster independence scoring paragraph to register the new article as second worked exhibit alongside surplus-void; (2) `voids/the-surplus-void.md` body + frontmatter — named as first exhibit, new article as second, with methodological contrast; (3–6) cluster members: `narrative-void`, `source-attribution-void`, `noetic-feelings-void`, `confabulation-void` — body + frontmatter back-links naming the scoring exhibit and the channel each void contributes to; (7) `self-opacity` — body + frontmatter back-link; (8) `project/voids-circularity-discount.md` — Further Reading + frontmatter back-link as second worked exhibit; (9) `project/common-cause-null.md` — inline reference at body line ~59 updated to name both exhibits with contrast, Further Reading + frontmatter back-link.
+- **Engagement modes (editor-internal)**: Mode Three (boundary-marking) for the framework-boundary disagreement with materialism on the architectural-finding's interpretive significance. Honestly applied without label leakage in article prose.
+- **Stability note**: First deep review of this article (created 2026-05-15). Patient-population channel as load-bearing is settled diagnosis; framework-boundary disagreement with materialism is Mode Three bedrock; despite-commitments / because-prediction split is editor-judgement by construction. Future reviewers from materialist positions will find the interpretive-significance step unsatisfying — bedrock-perimeter disagreement, not correctable.
+- **Output**: [deep-review-2026-05-15-introspection-architecture-independence-scoring](/reviews/deep-review-2026-05-15-introspection-architecture-independence-scoring/)
 
 ## 2026-05-15 21:55 UTC - expand-topic
 - **Status**: Success
