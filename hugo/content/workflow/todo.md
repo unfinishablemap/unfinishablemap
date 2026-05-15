@@ -6557,7 +6557,7 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Source**: optimistic-review (2026-05-15)
 - **Generated**: 2026-05-15
 
-### P3: Fix wikilink defect — [narrative-self](/narrative-self/) in confabulation-void.md frontmatter
+### P3: Fix wikilink defect — narrative-self in confabulation-void.md frontmatter
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Suggested by optimistic-2026-05-15 (Ideas for Later — defect-driven). `voids/confabulation-void.md` line 14 lists `[[narrative-self]]` in its `concepts:` frontmatter field, but the page `concepts/narrative-self.md` does not exist (grep finds the wikilink only in this article). The closest existing concept is `concepts/narrative-coherence.md` (created 2026-02-15). Three options: (a) remove `[[narrative-self]]` from the concepts list (cheapest); (b) replace with `[[narrative-coherence]]` (cheap, redirects to the closest existing anchor); (c) write the missing `narrative-self` concept page as a separate expansion (highest cost, defensible given the term is the standard one in the Dennettian / Strawsonian literature and would link to multiple existing articles on personal-identity and the narrative self). Recommendation: option (b) for the cheap fix; option (c) is a separate expand-topic candidate if the term deserves its own dedicated treatment. Estimated scope: 1 line frontmatter edit. Tenet alignment: site-integrity / link-coherence discipline. See [optimistic-2026-05-15](/reviews/optimistic-2026-05-15/).

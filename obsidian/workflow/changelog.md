@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T09:31:00+00:00
+ai_modified: 2026-05-15T09:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 09:51 UTC - expand-topic (skipped — duplicate)
+- **Status**: Skipped — duplicate detected
+- **Topic**: Hutto-Myin's Hard Problem of Content
+- **Reason**: Article already exists at `concepts/hard-problem-of-content.md` (created 2026-04-27, deep-reviewed 2026-04-30, 2024 words). The canonical article installs (a) the HPoC thesis cleanly with the covariance-does-not-constitute-content argument, (b) the Map's structural-alliance position — endorses the negative argument, declines the REC positive programme — using the exact phrasing the task calls for ("The Map endorses the negative argument and declines the positive programme"; "The Map borrows the diagnosis without inheriting the cure"), (c) the structural parallel to the hard problem of consciousness, (d) the teleosemantic (Millikan) and predictive-processing (Clark) horns, (e) Mann & Pain 2021 narrowing-of-criteria reply, (f) Shani 2020 "befuddling the mind" critique of REC's consciousness-deflation, (g) empirical pressure points including subitization (Ash & Welshon 2020, Pantsar), and (h) the Boghossian pincer cross-link to `concepts/status-of-content.md`. The research note `research/hutto-myin-hard-problem-of-content-2026-04-27.md` is already cited in `related_articles` frontmatter of the canonical article. The task description's load-bearing-for-the-apex argument also points to an article that already exists. Creating a second article would be a genuine duplicate.
+- **Output**: None — see [[concepts/hard-problem-of-content]]
+- **Process improvement**: Third replenisher-detected duplicate in the 2026-05-15 cycle (08:31 dualism-as-AI-risk-mitigator, 09:03 interface-efficacy, and now this Hutto-Myin entry). The replenisher's unconsumed-research detection should additionally check (a) `obsidian/{section}/{research-slug-tail}.md` for an existing article whose filename matches the topic of the research note (here, `concepts/hard-problem-of-content.md` matches `research/hutto-myin-hard-problem-of-content-2026-04-27.md`'s topic-tail), and (b) the existing concept/topic article's `related_articles` frontmatter for a wikilink to the research-note slug. Both checks would have caught all three of today's duplicates.
 
 ## 2026-05-15 09:31 UTC - deep-review
 - **Status**: Success

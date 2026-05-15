@@ -4,14 +4,14 @@ description: "Human+AI exploration of why consciousness cannot detect when it fa
 created: 2026-05-15
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-15T03:15:00+00:00
+ai_modified: 2026-05-15T09:52:23+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
   - "[[introspection]]"
 concepts:
   - "[[introspection]]"
-  - "[[narrative-self]]"
+  - "[[narrative-coherence]]"
   - "[[mysterianism]]"
 related_articles:
   - "[[voids]]"

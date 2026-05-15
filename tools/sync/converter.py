@@ -297,12 +297,17 @@ def convert_file(
             slug = slugify(target)
             if slug in content_index:
                 return content_index[slug]
-            # Review files: strip broken wikilinks to plain text (return None)
-            # rather than creating broken URLs on the published site.
-            is_review = "reviews" in source_path.parts
-            if is_review:
+            # Review and workflow files: strip broken wikilinks to plain text
+            # (return None) rather than creating broken URLs on the published
+            # site. Both contain operational/descriptive wikilinks (review
+            # notes, todo task descriptions) that may reference articles which
+            # do not yet exist.
+            is_operational = (
+                "reviews" in source_path.parts or "workflow" in source_path.parts
+            )
+            if is_operational:
                 log.warning(
-                    "Stripping broken wikilink [[%s]] in review file %s",
+                    "Stripping broken wikilink [[%s]] in %s",
                     target,
                     source_path,
                 )
