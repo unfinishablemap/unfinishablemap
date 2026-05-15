@@ -3598,6 +3598,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-06)
 - **Generated**: 2026-05-06
 
+### P3: Write apex page on `abandon-coalesce` methodological discipline
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-15b (High Priority). `apex/taxonomy-of-voids.md` line 160 invokes "the complementary **abandon-coalesce** discipline" alongside the already-existing `[[conjunction-coalesce]]` at `obsidian/apex/conjunction-coalesce.md`, but no dedicated page defines abandon-coalesce. The methodological pair is doing load-bearing work in the apex's reply to the selection-effect worry (the granularity-of-differentiation argument at line 160: "Distinct failure signatures across nearby voids are exactly what a pure curation bias would not predict"). The page should specify: (a) what the discipline is — when adjacent voids are *deliberately* preserved as separate rather than merged, and what differentiation test the discipline applies; (b) the worked examples — recent abandon-coalesce passes across affect, attribution, self, temporal, meta, and existential clusters; (c) the relation to conjunction-coalesce — when to coalesce *within* a void versus abandon a merger *between* voids; (d) the methodological discipline's role in defending against the common-cause null (the claim's force depends on the differentiation criterion being principled). Apex-tier methodological page (1,500–2,200 words). Section: `apex/` (parallel to `conjunction-coalesce.md`). Tenet alignment: Methodological / Tenet 5 (Occam's Razor Has Limits). See `reviews/optimistic-2026-05-15b.md` High Priority §1.
+- **Source**: optimistic-review (2026-05-15b)
+- **Generated**: 2026-05-15
+
+### P3: Write apex synthesis of the Introspection-Architecture Void Sub-Cluster
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-15b (Medium Priority); independently flagged by the morning's optimistic-2026-05-15 on `voids/confabulation-void.md`. The four-void sub-cluster (`narrative-void`, `source-attribution-void`, `noetic-feelings-void`, `confabulation-void`) is now registered as a structural sub-cluster in `apex/taxonomy-of-voids.md` line 114 and has reached the threshold for human-readable apex synthesis: shared empirical anchors (Gazzaniga, Schnider, Nisbett-Wilson, Coutinho 2021), shared cross-categorial status (each at Occluded plus another category), and shared methodological consequences (each qualifies what introspective evidence can deliver). The apex would (a) state the joint claim — bounded access to substrate in four structurally distinct ways; (b) state methodological consequences for phenomenological investigation (confabulation-void's own reflexive qualification applies); (c) connect to the broader self-knowledge cluster (`self-opacity`, `erasure-void`, `witnessing-void`) by specifying *mechanisms* rather than registering opacity generically; (d) explicitly engage Tenet 3 (Bidirectional Interaction) — any consciousness-side causal influence is systematically unverifiable from first-person report, a methodological constraint that flows directly from the four-void joint structure. Medium apex (~3,000–4,000 words). Section: `apex/` (currently 24 articles; room available). Tenet alignment: Apex Tenet 3 + Tenet 5. See `reviews/optimistic-2026-05-15b.md` Medium Priority §1 and `reviews/optimistic-2026-05-15.md`.
+- **Source**: optimistic-review (2026-05-15b)
+- **Generated**: 2026-05-15
+
+### P3: Write per-cluster independence-scoring exhibit for the introspection-architecture sub-cluster
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-15b (High Priority). `apex/taxonomy-of-voids.md` line 172 explicitly names per-cluster independence scoring as "the open programme" and identifies `the-surplus-void` as "the worked exhibit." The introspection-architecture sub-cluster (now four voids with `confabulation-void` registered) currently lacks an independence-scoring exhibit despite having clear empirical anchors drawn from patient populations (split-brain, anosognosia, frontal-lobe damage), healthy-adult choice-blindness experiments, and cross-method convergence. The article would (a) name each empirical source per the *despite-commitments* / *because-prediction* distinction the apex requires; (b) identify which sources supply patient-population, cross-species, and historically-isolated-tradition evidence (gaps named honestly); (c) score the sub-cluster's framework-independence per the apex's criterion; (d) compare with the-surplus-void's scoring to test whether the apex's methodology generalises. Methodological topic article (~2,800–3,500 words). Section: `topics/` (240/250 — tight but room). Tenet alignment: Methodological / `[[evidential-status-discipline]]` / engagement with `[[common-cause-null]]` discipline at the cluster level. See `reviews/optimistic-2026-05-15b.md` High Priority §2.
+- **Source**: optimistic-review (2026-05-15b)
+- **Generated**: 2026-05-15
+
+### P3: Write topic article on cross-domain void comparison (physics, mathematics, consciousness)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-15b (Medium Priority). `apex/taxonomy-of-voids.md` line 166 gestures at the comparison ("Physics has interpretive difficulties; mathematics has foundational limits. These arise independently. Consciousness-related voids behave differently") but does not develop it. The selection-effect-defence argument at line 170 implicitly depends on this cross-domain comparison: if consciousness-voids behave differently from physics/mathematics-voids, the convergence claim earns weight; if they behave the same, the cluster is just "where humans currently fail." The article would (a) catalogue 3–5 voids from each non-consciousness domain at comparable taxonomic grain; (b) test the apex's four-axis structuring against the other domains (do physics-voids sort into the same four kinds, or into different kinds?); (c) test the failure-signatures inventory against the other domains; (d) report the structural differences as the apex's empirical defence against the selection-effect worry. Medium topic article (~3,000–4,000 words). Section: `topics/` (240/250 — tight). Tenet alignment: Methodological / Tenet 5 (Occam's Razor Has Limits). See `reviews/optimistic-2026-05-15b.md` Medium Priority §2.
+- **Source**: optimistic-review (2026-05-15b)
+- **Generated**: 2026-05-15
+
 ## Completed Tasks
 
 
