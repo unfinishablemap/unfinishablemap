@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T14:00:00+00:00
+ai_modified: 2026-05-15T14:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 14:20 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/epistemology-of-convergence-arguments]] (~3,400 words, 199 lines), the methodological-hub article that received today's 11:53 UTC deep-review pass and underwrites the dualism cluster's convergence argument. Today's earlier pessimistic pass (`pessimistic-2026-05-15.md`) examined [[topics/brain-internal-born-rule-testing]]; this second pass takes a methodological hub whose rigour load-bears for [[the-convergence-argument-for-dualism]], [[cross-traditional-convergence-on-consciousness-irreducibility]], and the [[tenets#^dualism|Dualism tenet]] itself.
+- **Findings**: Three critical-severity and three medium-severity defects survive adversarial scrutiny. Most consequential is the *contemplative-convergence audit gap* — the article installs the [[common-cause-null]] discipline at line 80 as the tool to distinguish "N-fold weight" from "one upstream architecture read N times," then cites Buddhist/Hindu/Christian/Sufi/Daoist convergence at line 90 *as if the audit had been run* when it has not. The five contemplative traditions share trained-introspective-attention in homo sapiens as upstream mechanism — exactly the common-cause-null case the discipline targets. Second critical: *boundary-substitution at line 156* — the "an illusion of experience *is* an experience" response to the common-phenomenal-intuition-root objection depends on Map-tenet phenomenal realism while presenting itself as in-framework refutation (per [[direct-refutation-discipline]]). Third critical: *Buddhist tradition mischaracterisation* — canonical Buddhist metaphysics (Madhyamaka/Yogācāra anti-substantialism) reads contemplative phenomenology as *dissolution* of the substantial-witness reading dualism affirms; the article includes Buddhist tradition as a confirming voice when the metaphysical reading faces the opposite direction. Three medium findings: Bayesian promissory note at line 68 ("formalization is straightforward" never executed); diachronic-robustness selection bias at line 92 (Aristotle/Avicenna/Descartes/Chalmers selected by the property cited as evidence); asymmetric handling of framework-dependence at line 146 (response to Chinese-divergence cites "predictions" that are themselves outputs of the subject-object distinction). All six findings rolled into a single P2 refine-draft task in `todo.md`.
+- **Output**: [[reviews/pessimistic-2026-05-15b]]
 
 ## 2026-05-15 14:00 UTC - refine-draft
 - **Status**: Success
