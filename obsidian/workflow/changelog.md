@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T21:20:00+00:00
+ai_modified: 2026-05-15T21:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 21:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Per-Cluster Independence-Scoring Exhibit for the Introspection-Architecture Sub-Cluster
+- **Output**: [[topics/introspection-architecture-independence-scoring]]
+- **Word count**: 2998 (ok at 100% of 3000 soft target)
+- **Based on research**: no — based on `reviews/cross-review-2026-05-15-introspection-architecture-cluster-audit.md` (audit of the four cluster members) and the methodological scaffolding in `project/voids-circularity-discount.md` and `project/common-cause-null.md`; second worked exhibit in parallel to `voids/the-surplus-void.md`. Scores against apophatic-cartography's four criteria (signature specificity, structured persistence, cross-observer convergence, framework independence); sorts anchors by population-type (patient-population: Gazzaniga, Schnider, Hirstein; healthy-adult: Nisbett-Wilson, Johansson-Hall, Coutinho, Wheatley, Haidt; cross-tradition: Buddhist *kleshas* calibration-grade; cross-species gap named); applies despite-commitments / because-prediction split. Honors evidential-status-discipline — calibration not proof.
 
 ## 2026-05-15 21:20 UTC - deep-review
 - **Status**: Success
