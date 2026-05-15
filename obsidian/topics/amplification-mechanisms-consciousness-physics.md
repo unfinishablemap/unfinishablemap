@@ -4,7 +4,7 @@ description: "Seven proposed mechanisms for scaling quantum-level conscious infl
 created: 2026-03-18
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-04-30T19:21:00+00:00
+ai_modified: 2026-05-15T21:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-03-29T16:41:00+00:00
+last_deep_review: 2026-05-15T21:20:00+00:00
 coalesced_from:
   - "/topics/stochastic-amplification-and-neural-selection/"
 ---
@@ -118,7 +118,7 @@ This competition architecture provides a final stage for the amplification chain
 
 The mathematics of drift-diffusion make the amplification explicit. The probability that option A wins over option B depends on the drift rate (bias) and the noise level. When noise is high relative to the bias—precisely the regime where SR operates—a small change in drift rate produces a disproportionate change in outcome probability. Dopamine modulates the decision threshold (Westbrook et al., 2023), setting how much evidence is needed, while the accumulation process itself remains stochastic and susceptible to weak biases.
 
-The commitment point identified by Thura and Cisek (2014)—approximately 280 milliseconds before movement onset, when one option achieves dominance—marks the moment where the amplification chain completes. A quantum-level bias, amplified through SR and criticality into a network-level signal, produces a measurable difference in which competing neural population reaches threshold first. The outcome is a specific action: reaching for one cup rather than another, speaking one word rather than its alternative.
+The commitment point identified by Thura and Cisek (2014)—approximately 280 milliseconds before movement onset, when one option achieves dominance—marks where the amplification chain would terminate on this account. A quantum-level bias, amplified through SR and criticality into a network-level signal, would shift which competing neural population reaches threshold first. The predicted outcome is a specific action: reaching for one cup rather than another, speaking one word rather than its alternative.
 
 ## The Three-Stage Amplification Chain
 

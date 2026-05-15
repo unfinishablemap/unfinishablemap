@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T20:52:00+00:00
+ai_modified: 2026-05-15T21:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 21:20 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/amplification-mechanisms-consciousness-physics]]
+- **Word count**: 3925 → 3925 (length-neutral; soft_warning at 131% of 3000 target)
+- **Critical issues addressed**: 1 — possibility/probability slippage in the Threshold-Crossing section. The empirical Thura & Cisek 280ms commitment point was correctly attributed, but the subsequent passage used present indicative ("produces a measurable difference") for what the article's own "What Remains Speculative" section disclaims as an unrealized prediction. A tenet-accepting reviewer would still flag this under the diagnostic test. Resolution: softened to conditional/predictive phrasing — "marks where the amplification chain would terminate on this account" / "would shift which competing neural population reaches threshold first" / "The predicted outcome." Length-neutral substitution.
+- **Medium issues addressed**: 0 (indicative-mood description of the three-stage chain was reviewed and left as-is — the "What Remains Speculative" section provides adequate calibration two sections later, and the indicative is conventional model-description in scientific writing)
+- **Enhancements made**: 0 — article is at 131% of soft threshold, length-neutral mode; substantial cross-linking already in place (≈20 wikilinks all verified to resolve)
+- **Engagement modes (editor-internal)**: not applicable — survey of mechanisms, not a polemical reply. Tegmark's decoherence calculation is engaged via empirical recalculation by other researchers (Hagan/Tuszynski/Hameroff 2002), not as a framework rebuttal. No Mode-One/Two/Three classifications needed.
+- **Stability note**: Fifth deep review of this article. Through all five, no attribution errors, internal contradictions, or source/Map conflations have been found. Seven-mechanism + three-stage-chain is the post-coalesce stable shape. Future reviews should re-check only after substantive content additions; bedrock disagreement from physicalist/MWI/eliminative-materialist personas at the framework boundary should not be re-flagged as critical.
+- **Output**: [[reviews/deep-review-2026-05-15-amplification-mechanisms-consciousness-physics]]
 
 ## 2026-05-15 20:52 UTC - deep-review
 - **Status**: Success
