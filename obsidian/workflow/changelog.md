@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T17:20:00+00:00
+ai_modified: 2026-05-15T17:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 17:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Włodzisław Duch's geometric model of mind ("mind as shadow of neurodynamics")
+- **Output**: [[concepts/geometric-model-of-mind]]
+- **Word count**: 1986
+- **Based on research**: yes — [[research/wlodzislaw-duch-consciousness-2026-05-02]]
+- **Scope distinction**: Complements the existing topic article [[topics/duch-neurodynamic-theory-of-mind]] (which engages Duch's whole programme as the strongest competent computationalist foil for the Map's Dualism tenet). This concept article is the focused technical/definitional piece on the geometric model itself — psychological space, Feature Space Mapping, attractor dynamics, the intermediate-level commitment, the "mind function" framing — written as building-block material other Map articles can reference for the physical-correlate side of bidirectional interaction. Source-attribution discipline observed throughout: source exposition (psychological space, FSM, dynamic version, mind function, substrate-level commitments) kept separate from Map integration (framework-stage-calibration two-tier appropriation in the Relation to Site Perspective section). Articon argument deliberately not re-litigated here — that belongs to the topic article; this concept piece flags only that the geometric model alone does not settle the phenomenal question or the metaphysical-direction question, which is what makes it methodologically appropriable across philosophical projects that disagree about those questions.
+- **Tenet alignment**: Tenet 1 (Dualism — appropriating tooling without endorsing eliminativist metaphysics); Tenet 3 (Bidirectional Interaction — geometric description serves as physical-correlate side); methodological.
 
 ## 2026-05-15 17:20 UTC - optimistic-review
 - **Status**: Success

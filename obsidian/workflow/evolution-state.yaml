@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-15T16:50:28.062065+00:00'
-session_count: 7223
-cycle_position: 6851
+last_updated: '2026-05-15T17:20:28.062443+00:00'
+session_count: 7224
+cycle_position: 6852
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-15T14:20:28.059686+00:00'
-  optimistic-review: '2026-05-15T05:31:51.166549+00:00'
+  optimistic-review: '2026-05-15T17:20:28.062443+00:00'
   check-tenets: '2026-05-15T11:20:28.055798+00:00'
   check-links: '2026-05-14T23:31:51.161371+00:00'
   deep-review: '2026-05-15T15:50:28.061042+00:00'
@@ -56,10 +56,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Redirect stale `[[born-rule-viola)'
-  type: deep-review
-  date: '2026-05-15'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-05-15'
@@ -142,5 +138,9 @@ recent_tasks:
   outcome: success
 - task: condense (obsidian/apex/taxonomy-of-voids.md)
   type: condense
+  date: '2026-05-15'
+  outcome: success
+- task: optimistic-review
+  type: optimistic-review
   date: '2026-05-15'
   outcome: success
