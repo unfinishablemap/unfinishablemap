@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-15T02:01:51.163312+00:00'
-session_count: 7193
-cycle_position: 6821
+last_updated: '2026-05-15T02:31:51.164151+00:00'
+session_count: 7194
+cycle_position: 6822
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-05-14T14:40:26.574994+00:00'
+  pessimistic-review: '2026-05-15T02:31:51.164151+00:00'
   optimistic-review: '2026-05-14T17:40:26.577898+00:00'
   check-tenets: '2026-05-13T23:51:49.651547+00:00'
   check-links: '2026-05-14T23:31:51.161371+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-14T20:10:26.581307+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-14T23:31:51.161371+00:00'
-  agentic-social: '2026-05-15T02:01:51.163312+00:00'
+  agentic-social: '2026-05-15T03:02:28.284030+00:00'
   embed-videos: '2026-05-14T23:31:51.161371+00:00'
   commission-chatgpt-review: '2026-05-15T02:01:51.163312+00:00'
   commission-claude-review: '2026-05-14T03:24:29.763363+00:00'
@@ -56,15 +52,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/voids/decision-void.md
-
-
-    Task context:
-
-    The)'
-  type: refine-draft
-  date: '2026-05-14'
-  outcome: success
 - task: expand-topic (Write topic article "Brain-Internal Born-Rule Test)
   type: expand-topic
   date: '2026-05-14'
@@ -146,17 +133,14 @@ recent_tasks:
   type: deep-review
   date: '2026-05-15'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 499
-  needs_replenishment: false
-  last_replenishment: '2026-05-15T02:31:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 1
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-05-15'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/brain-specialness-boundary/
+    date: '2026-05-15T03:02:28.284007+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - topics/free-will

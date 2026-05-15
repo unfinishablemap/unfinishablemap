@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T02:39:00+00:00
+ai_modified: 2026-05-15T03:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 03:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Confabulation Void
+- **Output**: [[voids/confabulation-void]]
+- **Word count**: 2036 (102% of 2000 voids soft target; well below 3000 hard max)
+- **Based on research**: yes — [[research/voids-confabulation-void-2026-05-14]]
+- **Notes**: Three-face conjunction-coalesce structure (generation / detection / pervasiveness) preserves the seam the research note flagged as load-bearing. Generation face anchored in Gazzaniga left-brain interpreter, Schnider orbitofrontal reality filter, Nisbett & Wilson 1977. Detection face anchored in Coutinho et al. 2021 confidence-accuracy reversal — the strongest single piece of evidence for the structural rather than merely difficult character of the void. Pervasiveness face anchored in Hirstein continuum, Wheatley everyday confabulation, Haidt moral dumbfounding. Tenet section foregrounds Dualism (strongest), Bidirectional Interaction (verification face of agency), and Occam's-Razor-Has-Limits (parsimony heuristic rewards confabulation profile); reflexive caveat added that the voids catalogue is itself built from introspective reports subject to confabulation. Two self-citations to [[narrative-void]] (Oquatre-six 2026-02-25) and [[noetic-feelings-void]] (Oquatre-sept 2026-02-27) — both substantively built upon, not merely related. Voids count after landing: 101/100 (cap exceeded but P2 task already passed cap-gate at evolution-loop level per task notes; future voids work redirected to refinement). Article fills the final assigned voids slot per the source task.
 
 ## 2026-05-15 02:39 UTC - pessimistic-review
 - **Status**: Success
