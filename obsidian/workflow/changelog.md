@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T12:29:00+00:00
+ai_modified: 2026-05-15T12:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 12:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/heterophenomenology]]
+- **Word count**: 2043 → 2043 (no change; broken-anchor fixes only; 82% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (two broken `#Contemplative Science` anchor references from prior mechanical slug migration — line 82 retargeted to `#advanced-practice`, line 130 anchor dropped to resolve to article)
+- **Enhancements made**: 0 (article at stability across five reviews)
+- **Reasoning-mode classifications** (editor-internal, two named-opponent engagements; both pass boundary-substitution and label-leakage checks):
+  - engagement with Dennett: Mixed (Mode One self-stultification argument + Mode Three Dualism-tenet boundary marking); self-stultification is genuinely internal-to-Dennett — uses his commitment to arriving at conclusions via reflection to show heterophenomenology brackets the very capacities he relies on
+  - engagement with Frankish/Graziano illusionists: Mode Three; brief boundary-marking with cross-link to AST critique, no false claim to in-framework refutation
+- **Output**: [[reviews/deep-review-2026-05-15-heterophenomenology]]
+- **Notes**: Fifth deep review. Article reached stability at third review and has remained stable. This pass is janitorial — anchor repair from coalesce slug migration. Three consecutive stability-confirming passes suggest candidate-selection could deprioritize further.
 
 ## 2026-05-15 12:29 UTC - refine-draft
 - **Status**: Success
