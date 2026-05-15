@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-04-23 11:25:00+00:00
+ai_modified: 2026-05-15 01:31:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[objections-to-interactionism]]'
 - '[[interface-formalization-void]]'
 - '[[tenets]]'
+- '[[brain-internal-born-rule-testing]]'
 title: Trumping Preemption
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -101,6 +102,7 @@ The Map speculates — more cautiously than Saad does — that trumping is best 
 - [interface-formalization-void](/voids/interface-formalization-void/)
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
 - [tenets](/tenets/)
+- [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — Foreclosure programme for the trumping reading of Tenet 2: why a complete classical-mechanistic account of authoritative selection would be required to refute it
 
 ## References
 

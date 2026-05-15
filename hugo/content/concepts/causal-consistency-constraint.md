@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-14 18:10:00+00:00
+ai_modified: 2026-05-14 23:33:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,10 +19,12 @@ description: Torres Alegre's no-signalling result fixes the Born rule's form for
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-14 23:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[the-interface-specification-problem]]'
+- '[[the-interface-problem]]'
+- '[[interface-specification-programme]]'
 - '[[completeness-in-physics-under-dualism]]'
 - '[[conservation-laws-and-mental-causation]]'
 - '[[delegatory-causation]]'
@@ -50,6 +52,8 @@ Under these assumptions, the only functional relationship between the geometric 
 
 The result joins a longer sequence of structural reconstructions — Gleason (1957), Deutsch (1999), Wallace (2003-2012), Zurek (envariance), Masanes-Galley-Müller (2019), Agrawal-Wilson (2025), Torres Alegre (2025) — each of which derives the Born rule from some combination of geometric, decision-theoretic, symmetric, or causal axioms. None explains the existence of definite outcomes; each presupposes some piece of the measurement-and-probability framework. Torres Alegre's specific contribution is to identify *relativistic causality itself* as the selecting principle.
 
+Torres Alegre's paper does not itself invoke consciousness. The result is stated about agents-and-measurements in the abstract sense the GPT framework supplies; the Map is responsible for the further claim that *any participant* in an actualisation event — including, on the corridor reading, a non-physical participant — falls under the theorem's scope. This is a Map-side inference, not a source-side claim, and it stands or falls on whether the theorem's two structural conditions (purification, no-signalling) reach the consciousness-physics interface as well as they reach photon and qubit regimes.
+
 ## Form, Not Existence
 
 The constraint determines the Born rule's functional form, given that probabilistic predictions exist. It does not generate probabilities from non-probabilistic premises. This distinction is load-bearing for the Map's reading.
@@ -66,7 +70,7 @@ The Map's working internal taxonomy distinguishes three families of consciousnes
 
 **Corridor / selection-only readings.** A [selection-only channel](/concepts/selection-only-channel/) preserves Born statistics by construction: mind redistributes selection mass over an output alphabet whose set is fixed by upstream physical dynamics, and the long-run frequency of any outcome converges to its Born weight. The corridor reading inherits the constraint *natively* — there is no extra work to show that selection-only coupling respects no-signalling, because the channel is defined so that ensemble statistics are unperturbed. This makes corridor dualism maximally compatible with the constraint at the cost of having no ensemble signature.
 
-**Minimum-outside-the-corridor readings.** Proposals that posit small but nonzero deviations from Born statistics — Stapp's quantum Zeno read as actually modifying selection probabilities, Chalmers-McQueen Φ-dependent collapse, Arana (2025) time-extended weighting, Penrose-Hameroff Orch-OR — must show that whatever deviation they posit does not enable superluminal signalling. Some deviations are compatible with no-signalling if the modification respects locality and is restricted to single-event statistics that average back to Born; others are not. The constraint sharpens the empirical fragility of these proposals: any minimum-outside-corridor proposal that survives the constraint must explain *why* its deviation is signalling-safe.
+**Minimum-outside-the-corridor readings.** Proposals that posit small but nonzero deviations from Born statistics — Stapp's quantum Zeno read as actually modifying selection probabilities, Chalmers-McQueen Φ-dependent collapse, Arana (2025) time-extended weighting, Penrose-Hameroff Orch-OR — must show that whatever deviation they posit does not enable superluminal signalling. Some deviations are compatible with no-signalling if the modification respects locality and is restricted to single-event statistics that average back to Born; others are not. The constraint sharpens the empirical fragility of these proposals in two directions at once: any minimum-outside-corridor proposal that survives the theorem must explain *why* its deviation is signalling-safe, and any proposal whose deviations *would* show up in ensemble statistics is, by the same token, falsifiable in principle by a precision Bell-type test against the standard Born prediction. The constraint is therefore an asymmetric epistemic instrument — costly to satisfy, productive when it fails.
 
 **Trumping readings.** [Trumping dualism](/concepts/trumping-preemption/) treats consciousness as authoritative over outcomes the formalism already generates, leaving the probability distribution untouched. The constraint does not directly bind trumping-style proposals because they do not modify the probability assignment at all — they reinterpret which sufficient process counts as *the* cause. But trumping readings need to show that the authority-selection layer does not, via some indirect path, enable signalling. The argument is short — authority does not modify outcome statistics, so no signal — but it is not automatic and merits explicit treatment in any trumping-style article that invokes the result.
 
@@ -100,7 +104,8 @@ The constraint connects to the Map's [foundational commitments](/tenets/) withou
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
 - [selection-only-channel](/concepts/selection-only-channel/)
 - [trumping-preemption](/concepts/trumping-preemption/)
-- [the-interface-specification-problem](/topics/the-interface-problem/)
+- [the-interface-problem](/topics/the-interface-problem/)
+- [interface-specification-programme](/apex/interface-specification-programme/)
 - [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
 - [evidential-status-discipline](/project/evidential-status-discipline/)
 

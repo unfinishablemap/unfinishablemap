@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 19:11:00+00:00
+ai_modified: 2026-05-15 01:31:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
 - '[[interface-efficacy-and-the-cognitive-gap]]'
 - '[[possibility-probability-slippage]]'
+- '[[brain-internal-born-rule-testing]]'
 title: Selection-Only Channel
 topics:
 - '[[selection-only-mind-influence]]'
@@ -142,6 +143,7 @@ The Map does not commit to the strict selection-only reading as the only viable 
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
 - [interface-specification-programme](/apex/interface-specification-programme/)
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
+- [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — What experiments would foreclose the strict selection-only reading of Tenet 2
 
 ## References
 

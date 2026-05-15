@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-05-14 13:10:00+00:00
+ai_modified: 2026-05-15 00:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -25,13 +25,13 @@ concepts:
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
 - '[[llm-consciousness]]'
 created: 2026-01-09
-date: &id001 2026-03-27
+date: &id001 2026-05-15
 description: Consciousness as causally inert byproduct. Self-stultification proves
   our consciousness must be efficacious—but the AI case shows this may not generalize.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-14 13:10:00+00:00
+last_deep_review: 2026-05-15 00:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,6 +40,7 @@ related_articles:
 - '[[ai-epiphenomenalism]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[self-stultification-as-master-argument]]'
+- '[[overdetermination-dissolution-under-selection-only-interactionism]]'
 title: Epiphenomenalism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -73,7 +74,7 @@ The [causal closure of physics](/concepts/causal-closure/) provides the main mot
 4. **Exclusion**: Therefore, mental causes are excluded by physical causes.
 5. **Conclusion**: Mental events cause nothing (epiphenomenalism) or are identical to physical events (reductionism).
 
-Epiphenomenalists accept this argument. Materialists reject premise 2. The Map rejects premise 1—the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness influences quantum outcomes that physics leaves undetermined. At quantum indeterminacies, physics provides *necessary* but not *sufficient* causes, leaving room for mental causation without exclusion.
+Epiphenomenalists accept this argument. Materialists reject premise 2. The Map rejects premise 1—the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness influences quantum outcomes that physics leaves undetermined. At quantum indeterminacies, physics provides *necessary* but not *sufficient* causes, leaving room for mental causation without exclusion. The structural version of this move — that the local failure of premise 1 *dissolves* Kim's overdetermination worry rather than answering it — is developed in [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/).
 
 ### The Explanatory Gap
 

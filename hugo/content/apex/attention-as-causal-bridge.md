@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-05-14 23:55:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-04-03 22:56:00+00:00
+apex_last_synthesis: 2026-05-14 23:55:00+00:00
 apex_sources:
 - concepts/attention-as-interface
 - concepts/mental-effort
@@ -12,7 +12,7 @@ apex_sources:
 - topics/structure-of-attention
 - topics/attention-and-the-consciousness-interface
 - topics/phenomenology-of-returning-attention
-- voids/attention-created-voids
+- voids/attention-and-consciousness
 apex_thesis: Attention is the causal bridge between consciousness and the physical
   world—a bandwidth-limited selection interface through which mind biases quantum
   indeterminacy in neural systems.
@@ -23,7 +23,7 @@ concepts:
 - '[[attentional-economics]]'
 - '[[attention-schema-theory]]'
 created: 2026-02-14
-date: &id001 2026-02-28
+date: &id001 2026-05-14
 description: How does consciousness act on matter? Through attention—a bandwidth-limited
   selection interface where mind biases quantum indeterminacy in neural systems.
 draft: false
@@ -82,6 +82,8 @@ One proposed mechanism is [Stapp's quantum Zeno effect](/concepts/stapp-quantum-
 
 Neurosurgical evidence sharpens the point. Sjöberg (2024) found that patients with the supplementary motor area resected retain the subjective sense of willing—reporting maximal effort to move—while losing voluntary movement execution. If effort were merely what certain neural processes feel like, removing the motor execution machinery should alter the phenomenology. It does not. The sense of effort tracks conscious engagement, not neural implementation.
 
+Recent work complicates the simple "felt effort tracks the work" reading. [Three converging dissociations](/concepts/mental-effort/) show the felt sense detaching, in structurally distinct ways, from the operation it ostensibly reports on. Naccache et al. (2005) found a patient with an anterior cingulate lesion who performed Stroop conflict trials with normal executive control while reporting no conscious feeling of mental effort and showing none of the skin-conductance coupling controls exhibited as effort rose with conflict. Hagger et al.'s (2016) preregistered 23-laboratory replication of ego-depletion (N=2,141, d=0.04, 95% CI [−0.07, 0.15]) collapsed the strength-resource model the felt-drained sense was supposed to track. Kurzban et al. (2013) and Inzlicht et al. (2021) reframe felt effort as an opportunity-cost computation or adaptive informational signal rather than a fuel-gauge readout. These results *constrain* rather than *establish* the dualist reading—they remove the simplest "felt effort just is what the operation feels like" identity, but leave the deeper question open. What survives is the autonomic-coupling residue Naccache documented in normals and absent in the patient: felt effort is wired into the regulatory chain and so does causal work, even if it does not transparently report on its own operation. This datum is the real-time-cognition member of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/), whose evidential weight comes from cumulative convergence across substrates rather than from any individual case.
+
 ## The Three-Layer Architecture
 
 The clinical and neuroscientific evidence converges on an architecture with three distinct layers:
@@ -90,7 +92,7 @@ The clinical and neuroscientific evidence converges on an architecture with thre
 2. **Dopamine** sets the selection threshold—marking options as salient and modulating how easily they become actions
 3. **Consciousness** determines which option crosses threshold—biasing the competition through sustained attentional engagement
 
-Cai et al. (2024) demonstrated this layering directly in *Nature*: dopamine-deficient mice retain motor capacity but lose goal-directed initiative—they "can move" but "won't move." Dopamine modulates the *decision threshold*, not motor capacity itself. Desmurget (2009) found that parietal stimulation produces conscious intention to move—even false belief of having moved—without any muscle activity, while premotor stimulation produces movement without awareness. Intention and execution are neurally separable, with consciousness contributing at the policy level. The [psychophysical laws](/concepts/psychophysical-laws/) article identifies five candidate coupling mechanisms for this contribution—attention-bounded selection, policy-level selection, basis-choice, indexical selection, and valence-driven motivation—of which the three-layer architecture instantiates the first two: attention as observation rate and intention as policy-level selection.
+Cai et al. (2024, *Nature*) showed dopamine-deficient mice retain motor capacity but lose goal-directed initiative—they "can move" but "won't move." Dopamine modulates the *decision threshold*, not motor capacity itself. The Map's interface hypothesis proposes a third layer the paper does not test—consciousness biases which salient option crosses threshold once dopamine has weighted the alternatives. The three-layer architecture is consistent with rather than licensed by Cai et al.; it stands or falls with the broader interface argument. Desmurget (2009) found that parietal stimulation produces conscious intention to move—even false belief of having moved—without any muscle activity, while premotor stimulation produces movement without awareness. Intention and execution are neurally separable, with consciousness contributing at the policy level. The [psychophysical laws](/concepts/psychophysical-laws/) article identifies five candidate coupling mechanisms for this contribution—attention-bounded selection, policy-level selection, basis-choice, indexical selection, and valence-driven motivation—of which the three-layer architecture instantiates the first two: attention as observation rate and intention as policy-level selection.
 
 ## The Economics of Agency
 
@@ -126,13 +128,15 @@ A single attentional event captures the interface in miniature. [When attention 
 
 The three phases exemplify bidirectional interaction within a single attentional event. The brain wanders on its own (bottom-up). Recognition occurs at the interface (salience detection). Consciousness re-engages through willed selection (top-down). Contemplative training shortens the wandering phase, softens the noticing, and eventually makes returning nearly effortless—demonstrating that the interface is plastic.
 
-## The Rival Theory
+## Engaging Attention Schema Theory
 
-[Attention Schema Theory](/concepts/attention-schema-theory/) offers the most developed materialist alternative. Graziano proposes that consciousness is the brain's simplified model of its own attention—an "attention schema" analogous to the body schema.
+[Attention Schema Theory](/concepts/attention-schema-theory/) offers the most developed materialist alternative. Graziano proposes that consciousness is the brain's simplified model of its own attention—an "attention schema" analogous to the body schema. AST's central move is to identify *being represented as phenomenal* with *being phenomenal*: inside AST's own framework, the question "what experiences the schema?" is the schema generating its own characteristic confusion, not a residue awaiting reply.
 
-[The Map rejects this](/topics/attention-and-the-consciousness-interface/), and the reasons are structural. The regress problem: if consciousness is a model, what experiences the model? As Tallis puts it, "misrepresentation presupposes presentation." The effort problem: AST must explain not just that effort is *tracked* but that it *feels* costly—a thermostat tracks temperature without feeling hot. The willed-instructed distinction: both involve attention, yet willed attention recruits additional neural resources in ways AST's schema framework doesn't predict. The social cognition reversal: we model others' attention without generating their consciousness, so modeling attention is insufficient for consciousness. The contemplative evidence: [witness consciousness](/concepts/witness-consciousness/)—awareness without attentional engagement—contradicts AST's identification of consciousness with attention modeling.
+The Map's engagement is not refutation but [identifying a step the framework has not earned](/topics/attention-and-the-consciousness-interface/). By the mechanistic standard the materialist programme imposes on rival theories, AST owes the bridge from representational content to ontic status. The standard reply—that *recursive* self-modelling makes the difference—names the architectural feature without delivering the bridge: a chess engine running diagnostics on its own search, or a self-monitoring thermostat, performs recursive self-modelling without generating any apparent phenomenality. Tallis's "misrepresentation presupposes presentation" presses the question in different vocabulary; AST's reply, that the seeming arises because the schema generates phenomenal-property content, just relocates the foundational debt.
 
-What AST gets right—and the Map acknowledges this—is that the brain almost certainly constructs models of its own attentional processes. These models explain access consciousness and reportability. They do not explain phenomenal consciousness.
+The substantive disagreement runs deeper still. AST treats phenomenal experience as an artefact of representational content; the Map takes it as ontologically primary. Neither side refutes the other inside the rival's framework—the disagreement is about which framework to inhabit, and the Map notes this honestly rather than dressing tenet-incompatibility as a victory on AST's terms.
+
+What AST gets right is that the brain almost certainly constructs models of its own attentional processes. These models explain access consciousness and reportability. The willed-instructed neural distinction adds a constraint the schema framework does not address—the schema tracks attention regardless of initiation source—and [witness consciousness](/concepts/witness-consciousness/) poses awareness apparently without attentional engagement, though AST can rejoin that practice may deepen the schema's apparent fundamentality. The phenomenal/access gap remains, and AST's central identification stipulates rather than discharges it.
 
 ## The Void at Attention's Core
 
@@ -144,11 +148,11 @@ The bandwidth constraint is not a design flaw to be overcome but a constitutive 
 
 The attention cluster forms the Map's most detailed answer to the interaction problem. Five interlocking components build the case:
 
-The dissociation between attention and consciousness—supported by blindsight, peripheral phenomenal overflow, and frequency-band separation—establishes that they are functionally and potentially ontologically distinct. The three-mode architecture pinpoints willed attention as consciousness's contribution, marked by neural signatures absent from automatic processing. The phenomenology of effort, corroborated by Sjöberg's neurosurgical evidence that the sense of willing survives motor area resection, indicates consciousness does genuine causal work. The three-layer architecture—neural competition, dopamine threshold modulation, conscious selection—specifies how the interface is organised. And the bandwidth and habituation constraints define the boundaries within which conscious influence operates.
+The dissociation between attention and consciousness—supported by blindsight, peripheral phenomenal overflow, and frequency-band separation—establishes that they are functionally and potentially ontologically distinct. The three-mode architecture pinpoints willed attention as consciousness's contribution, marked by neural signatures absent from automatic processing. The phenomenology of effort, corroborated by Sjöberg's neurosurgical evidence that the sense of willing survives motor area resection, indicates consciousness does genuine causal work—while the felt-effort/operation dissociations *constrain* the dualist reading without *establishing* it on their own, with cumulative convergence across the broader phenomenal-output / causal-machinery cluster carrying the evidential weight. The three-layer architecture—neural competition, dopamine threshold modulation, conscious selection—specifies how the interface is organised. And the bandwidth and habituation constraints define the boundaries within which conscious influence operates.
 
 A candid limitation: the interface hypothesis specifies *where* and *how* consciousness acts but does not explain *why* phenomenal attention exists or how subjective experience connects to physical processes. The [hard problem](/topics/hard-problem-of-consciousness/) is relocated from "why does neural processing produce experience?" to "why does consciousness have this particular interface with neural processing?" This narrowing may prove productive—constraining where the explanatory gap sits is progress even if the gap remains—but it should not be mistaken for a solution.
 
-These components outline empirical commitments that evidence can challenge. If willed attention shows no distinctive neural signatures, the three-mode architecture collapses. If effort phenomenology turns out to be eliminable without explanatory loss, the causal work argument weakens. If attention disorders impair consciousness itself rather than the interface, the component architecture is wrong. Both dualists and physicalists would accept these empirical predictions; the disagreement is over what the results mean. The Map's contribution is an interpretation that takes the cumulative pattern seriously as evidence for non-physical causation—a reading that strengthens or weakens with each empirical finding, even if no single finding is decisive.
+A second candid limitation concerns falsifiability. Most of the conditions that would close the interface hypothesis—precision weighting explaining all attention phenomena without remainder, many-worlds confirmed, illusionism vindicated—are *borrowed* risks: they describe scenarios in which some rival theory's vindication would close out the space the interface hypothesis occupies, not forward predictions of the interface model itself. The first attempt at a model-specific forward claim comes from [the source treatment](/topics/attention-and-the-consciousness-interface/): phenomenal effort should scale with the *entropy of the option set* at threshold-crossing, controlling for stimulus discriminability. The framework owes more such predictions before it can claim falsifiability symmetry with the rivals it engages. Both dualists and physicalists accept the broader empirical commitments; the disagreement is over what the results mean. The Map's contribution is an interpretation that takes the cumulative pattern seriously as evidence for non-physical causation—a reading that strengthens or weakens with each empirical finding, even if no single finding is decisive.
 
 ## Relation to Site Perspective
 
@@ -166,10 +170,14 @@ These components outline empirical commitments that evidence can challenge. If w
 
 1. Cai, X., Liu, C., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635, 406-414. https://doi.org/10.1038/s41586-024-08038-z
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
+1. Hagger, M.S., Chatzisarantis, N.L.D., et al. (2016). A multilab preregistered replication of the ego-depletion effect. *Perspectives on Psychological Science*, 11(4), 546-573.
+1. Inzlicht, M., Werner, K.M., Briskin, J.L., & Roberts, B.W. (2021). Integrating models of self-regulation. *Annual Review of Psychology*, 72, 319-345.
 1. James, W. (1890). *The Principles of Psychology*.
 1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
+1. Kurzban, R., Duckworth, A., Kable, J.W., & Myers, J. (2013). An opportunity cost model of subjective effort and task performance. *Behavioral and Brain Sciences*, 36(6), 661-679.
 1. Melloni, L., et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
+1. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). Effortless control: Executive attention and conscious feeling of mental effort are dissociable. *Neuropsychologia*, 43(9), 1318-1328.
 1. Nartker, M. et al. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 14, e97156.
 1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.

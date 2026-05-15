@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-05-14 20:42:00+00:00
+ai_modified: 2026-05-14 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Philosophy of mind as a field—its central questions, major positi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 12:53:00+00:00
+last_deep_review: 2026-05-14 21:38:00+00:00
 modified: *id001
 related_articles:
 - '[[dualism]]'
@@ -57,7 +57,7 @@ The field organises around several core problems:
 
 - **[Personal identity](/topics/personal-identity/)**: What makes a person the same conscious subject across time? Is identity grounded in psychological continuity, physical continuity, or something else?
 
-These problems are not merely academic puzzles. They determine how we think about [free will](/topics/free-will/) (if consciousness is epiphenomenal, libertarian freedom is impossible), [moral status](/topics/ethics-under-dualism/) (which entities deserve moral consideration depends on which are conscious), [machine consciousness](/topics/ai-consciousness/) (whether functional equivalence suffices for experience), and what kind of beings we are.
+These problems carry consequences well beyond the academy. They shape how we think about [free will](/topics/free-will/) (if consciousness is epiphenomenal, libertarian freedom is impossible), [moral status](/topics/ethics-under-dualism/) (which entities deserve moral consideration depends on which are conscious), [machine consciousness](/topics/ai-consciousness/) (whether functional equivalence suffices for experience), and what kind of beings we are.
 
 ## Major Positions
 
@@ -121,7 +121,7 @@ The Unfinishable Map's [tenets](/tenets/) constitute a worked-out position withi
 
 **Tenet 5 (Occam's Razor Has Limits)** challenges the assumption that physicalism wins by default on grounds of simplicity. Philosophy of mind is precisely the domain where apparent parsimony may reflect ignorance rather than insight.
 
-Together, these tenets do not merely select a position from the existing menu. They generate a research programme — still largely speculative, but with concrete directions: investigating whether [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) operates in neural systems, developing [psychophysical-laws](/concepts/psychophysical-laws/) that could formalise the mind-body interface, and working toward empirical tests of whether consciousness biases quantum outcomes in ways that differ from chance. The programme's viability depends on whether such tests can be designed; its philosophical coherence does not wait for them.
+Together, these tenets generate a research programme rather than merely labelling a position on the existing menu — still largely speculative, but with concrete directions: investigating whether [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) operates in neural systems, developing [psychophysical-laws](/concepts/psychophysical-laws/) that could formalise the mind-body interface, and working toward empirical tests of whether consciousness biases quantum outcomes in ways that differ from chance. The programme's viability depends on whether such tests can be designed; its philosophical coherence does not wait for them.
 
 ## References
 

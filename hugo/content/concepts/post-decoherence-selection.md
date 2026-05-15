@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-04-16 11:59:00+00:00
+ai_modified: 2026-05-15 01:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -35,6 +35,7 @@ related_articles:
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[quantum-darwinism-and-consciousness]]'
 - '[[post-decoherence-selection-programme]]'
+- '[[brain-internal-born-rule-testing]]'
 title: Post-Decoherence Selection
 topics:
 - '[[hard-problem-of-consciousness]]'

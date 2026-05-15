@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-10 22:31:00+00:00
+ai_modified: 2026-05-15 00:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ concepts:
 - '[[control-theoretic-will]]'
 - '[[spontaneous-intentional-action]]'
 created: 2026-01-08
-date: &id001 2026-05-10
+date: &id001 2026-05-15
 description: Can we genuinely author our choices? The Map defends agent-causal libertarian
   free will grounded in phenomenology—the felt difference between choosing and merely
   observing.
@@ -44,7 +44,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/ltzeYOXCUvY
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-10 22:31:00+00:00
+last_deep_review: 2026-05-15 00:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,6 +57,7 @@ related_articles:
 - '[[wholeheartedness-void]]'
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[moral-implications-of-genuine-agency]]'
+- '[[overdetermination-dissolution-under-selection-only-interactionism]]'
 title: Free Will and Determinism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -134,7 +135,7 @@ If consciousness selects neural patterns, shouldn't selection occur *before* neu
 
 ## Mental Causation and Epiphenomenalism
 
-Free will requires [mental causation](/concepts/mental-causation-and-downward-causation/): decisions must cause physical outcomes. Kim's exclusion argument challenges this, but the Map responds: physics provides *necessary but not sufficient* causes where genuine indeterminacy exists. [Causal closure](/concepts/causal-closure/) fails precisely where consciousness acts.
+Free will requires [mental causation](/concepts/mental-causation-and-downward-causation/): decisions must cause physical outcomes. Kim's exclusion argument challenges this, but the Map responds: physics provides *necessary but not sufficient* causes where genuine indeterminacy exists. [Causal closure](/concepts/causal-closure/) fails precisely where consciousness acts. The full structural development — that the local failure of Kim's closure premise dissolves the overdetermination worry rather than answering it — is in [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/).
 
 [Epiphenomenalism](/concepts/epiphenomenalism/) faces self-stultification: if conscious states cause nothing, your belief that you're conscious isn't caused by actually being conscious. The [argument-from-reason](/topics/argument-from-reason/) extends this: rational inference requires tracking normative relationships, which physical causation alone cannot instantiate.
 
@@ -210,6 +211,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What genuine agency implies for obligation, character, and moral life
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian free will
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How the framework addresses Kim's exclusion argument
+- [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/) — Why Kim's overdetermination worry dissolves under selection-only interactionism rather than needing an answer
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing: initiation, sustained control, effort, and veto
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Consciousness-dependent capacity to imagine alternatives
 - [counterfactual-void](/voids/counterfactual-void/) — Architectural limits of modal cognition
