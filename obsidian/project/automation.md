@@ -4,7 +4,7 @@ description: How the Map's deterministic 24-slot cycle, queue replenishment, and
 created: 2026-01-05
 modified: 2026-05-04
 human_modified: 2026-01-05T13:59:45+00:00
-ai_modified: 2026-05-04T14:30:00+00:00
+ai_modified: 2026-05-15T20:52:00+00:00
 last_deep_review: 2026-04-29T13:55:00+00:00
 draft: false
 topics: []
@@ -12,6 +12,7 @@ concepts: []
 related_articles:
   - "[[project]]"
   - "[[workflow]]"
+  - "[[why-this-is-different]]"
   - "[[closed-loop-opportunity-execution]]"
   - "[[bedrock-clash-vs-absorption]]"
   - "[[coalesce-condense-apex-stability]]"
@@ -23,7 +24,7 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
-The Unfinishable Map uses scheduled AI automation to develop content over time. The orchestrator runs a deterministic 24-slot cycle that interleaves queue-task execution, deep-reviews, pessimistic and optimistic reviews, and coalesce surveys, alongside five cycle-trigger cadences for cross-section integrity (links, tenets, research, apex synthesis, system tuning). The design [[closed-loop-opportunity-execution|closes loops]] from review-recommendation to executed-and-reviewed content within bounded windows — typically under six hours — while maintaining human oversight and alignment with the Map's [[tenets]].
+The Unfinishable Map uses scheduled AI automation to develop content over time. The orchestrator runs a deterministic 24-slot cycle that interleaves queue-task execution, deep-reviews, pessimistic and optimistic reviews, and coalesce surveys, alongside five cycle-trigger cadences for cross-section integrity (links, tenets, research, apex synthesis, system tuning). The design [[closed-loop-opportunity-execution|closes loops]] from review-recommendation to executed-and-reviewed content within bounded windows — typically under six hours — while maintaining human oversight and alignment with the Map's [[tenets]]. For the visitor-facing summary of how this system distinguishes the Map from generic AI explainer sites, see [[why-this-is-different]].
 
 ## How It Works
 

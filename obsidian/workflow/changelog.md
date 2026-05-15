@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T20:20:00+00:00
+ai_modified: 2026-05-15T20:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 20:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[project/why-this-is-different]] (orphan-integration deep review)
+- **Word count**: 531 → 531 (target body unchanged; two prose fixes were token-neutral)
+- **Critical issues addressed**: 2 — both instances of the forbidden "This is not X. It is Y." LLM-cliché construct (per CLAUDE.md writing-style rule); rephrased inline and as a direct positive claim respectively
+- **Medium issues addressed**: 1 — zero inbound body-links from the catalogue; resolved by installing reciprocal references from `project/project.md` (Related Documents list + frontmatter), `project/human-supervision.md` (intro + frontmatter), `project/automation.md` (opening lede + frontmatter), and `papers/agentic-philosophy-adversarial-self-review.md` (See Also section + frontmatter)
+- **Enhancements made**: target article's `related_articles` frontmatter updated to include `human-supervision` (the closest sibling page); inline body link to `[[human-supervision]]` added at "human direction" anchor; `ai_contribution` raised from 30 to 35 to reflect the cliché-fix pass
+- **Engagement modes (editor-internal)**: not applicable — article makes no named-opponent replies; no source-based attribution claims; no possibility/probability slippage; reviewed against landing-page conventions rather than philosophical-engagement discipline
+- **Stability note**: Empiricist (Popper) objection that the comparison table's right column is self-descriptive is *not* a critical issue — it is the article's defensible self-positioning, with operational falsifiers (GitHub history, changelog, review archive) already listed in the body. Future reviews should not re-flag. Coalesce with `human-supervision.md` is a separate editorial question deferred.
+- **Output**: [[reviews/deep-review-2026-05-15-why-this-is-different]]
 
 ## 2026-05-15 20:20 UTC - condense
 - **Status**: Success

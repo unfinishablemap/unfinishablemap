@@ -8,7 +8,8 @@ ai_modified: null
 draft: false
 topics: []
 concepts: []
-related_articles: []
+related_articles:
+  - "[[why-this-is-different]]"
 ai_contribution: 0
 author: Andy Southgate
 ai_system: null
@@ -33,3 +34,7 @@ Large language models can produce philosophical text that experts find difficult
 | Version | Date | Notes |
 |---------|------|-------|
 | [[agentic-philosophy-v1|v1]] | March 2026 | Initial preprint |
+
+## See Also
+
+- [[why-this-is-different]] — visitor-facing summary of the same methodology, with inspectability table and direct entry points for non-academic readers.

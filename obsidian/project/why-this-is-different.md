@@ -4,7 +4,8 @@ description: "Yes, the Unfinishable Map uses AI. Here's why that is not the end 
 created: 2026-05-03
 modified: 2026-05-03
 human_modified: 2026-05-03
-ai_modified: 2026-05-10T17:29:15.129633+00:00
+ai_modified: 2026-05-15T20:52:00+00:00
+last_deep_review: 2026-05-15T20:52:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -12,8 +13,9 @@ related_articles:
   - "[[project]]"
   - "[[automation]]"
   - "[[workflow]]"
+  - "[[human-supervision]]"
   - "[[agentic-philosophy-adversarial-self-review]]"
-ai_contribution: 30
+ai_contribution: 35
 author: "Andy Southgate"
 ai_system: "claude-opus-4-7"
 ai_generated_date: null
@@ -35,11 +37,11 @@ This page is for visitors arriving from a video, a tweet, or a search and wantin
 
 ## Is this AI-generated?
 
-Yes, partly. The Map uses AI extensively. But it does not use AI as a black box for disposable content. AI agents research, draft, criticise, revise, cross-reference, and maintain the corpus under human direction. The process is logged, versioned, and exposed — see [[automation]] for the system, [[workflow]] for the skills, and [[changelog]] for the activity record.
+Yes, partly. The Map uses AI extensively, but not as a black box for disposable content. AI agents research, draft, criticise, revise, cross-reference, and maintain the corpus under [[human-supervision|human direction]]. The process is logged, versioned, and exposed — see [[automation]] for the system, [[workflow]] for the skills, and [[changelog]] for the activity record.
 
 ## Why should I trust it?
 
-Not because the AI is trusted. Because the system is designed to be inspectable and self-critical.
+Trust comes from the system's design for inspectability and self-criticism, not from assumed AI reliability.
 
 You should not trust a claim because it appears on the Map. You should inspect its sources, its review history, the objections raised against it, and its place in the wider framework. Every article carries authorship metadata (human / AI / mixed, the model used, the date of last review). Every change is in the [GitHub history](https://github.com/unfinishablemap/unfinishablemap). Every review pass — pessimistic, optimistic, deep — is logged.
 

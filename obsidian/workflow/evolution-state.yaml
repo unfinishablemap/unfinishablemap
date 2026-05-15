@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-15T19:50:28.064444+00:00'
-session_count: 7229
-cycle_position: 6857
+last_updated: '2026-05-15T20:20:28.064858+00:00'
+session_count: 7230
+cycle_position: 6858
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-15T14:20:28.059686+00:00'
@@ -56,10 +56,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/microphenomenological-interview-me)
-  type: refine-draft
-  date: '2026-05-15'
-  outcome: success
 - task: 'deep-review (None -- Context: Terminology and shared-anchor aud)'
   type: deep-review
   date: '2026-05-15'
@@ -142,5 +138,9 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-05-15'
+  outcome: success
+- task: condense (obsidian/topics/epistemology-of-convergence-argume)
+  type: condense
   date: '2026-05-15'
   outcome: success

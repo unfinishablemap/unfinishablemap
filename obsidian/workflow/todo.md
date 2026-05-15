@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate project/why-this-is-different.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-05-03 with `ai_contribution: 30` (mixed human/AI authorship), 1986+ words by `ai_modified: 2026-05-10`, no inbound body links from any obsidian content. The article is the user-facing answer to "yes, the Map uses AI — here's why that is not the end of the story" and is structurally important navigation-wise (it bridges the project's automation transparency with the rest of the catalogue). Inbound-link audit shows zero references from `topics/`, `concepts/`, `apex/`, `voids/`, or other `project/` files. Frontmatter lists 4 related articles (`project`, `automation`, `workflow`, `agentic-philosophy-adversarial-self-review`) but reciprocation is absent. Integration should (a) install reciprocal references from `project/project.md` (the section index — likely the most load-bearing inbound), `project/automation.md` (if it exists, or alternate AI-process article), `project/agentic-philosophy-adversarial-self-review.md` (the methodological sibling); (b) add an inbound link from `obsidian/index.md` or a relevant landing page where new visitors arrive; (c) verify the article's role in the site's narrative architecture — it is currently neither the section-index file (that's `project/project.md`) nor a navigational target from anywhere; (d) consider whether `apex/why-the-map-is-different.md` (if it exists) or `apex/the-map-as-philosophical-method.md` should cite it; (e) honour the article's mixed-authorship status — its position in the navigation should reflect that it is user-facing rather than tucked away. Short scope (~80–200 words touched across 3–5 inbound articles). Tenet alignment: methodological / discoverability discipline.
-- **Source**: orphan_integration
-- **Generated**: 2026-05-15
-
 ### P2: Write topic article — Per-Cluster Independence-Scoring Exhibit for the Introspection-Architecture Sub-Cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -3644,6 +3637,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-15: Integrate project/why-this-is-different.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-05-03 with `ai_contribution: 30` (mixed human/AI authorship), 1986+ words by `ai_modified: 2026-05-10`, no inbound body links from any obsidian content. The article is the user-facing answer to "yes, the Map uses AI — here's why that is not the end of the story" and is structurally important navigation-wise (it bridges the project's automation transparency with the rest of the catalogue). Inbound-link audit shows zero references from `topics/`, `concepts/`, `apex/`, `voids/`, or other `project/` files. Frontmatter lists 4 related articles (`project`, `automation`, `workflow`, `agentic-philosophy-adversarial-self-review`) but reciprocation is absent. Integration should (a) install reciprocal references from `project/project.md` (the section index — likely the most load-bearing inbound), `project/automation.md` (if it exists, or alternate AI-process article), `project/agentic-philosophy-adversarial-self-review.md` (the methodological sibling); (b) add an inbound link from `obsidian/index.md` or a relevant landing page where new visitors arrive; (c) verify the article's role in the site's narrative architecture — it is currently neither the section-index file (that's `project/project.md`) nor a navigational target from anywhere; (d) consider whether `apex/why-the-map-is-different.md` (if it exists) or `apex/the-map-as-philosophical-method.md` should cite it; (e) honour the article's mixed-authorship status — its position in the navigation should reflect that it is user-facing rather than tucked away. Short scope (~80–200 words touched across 3–5 inbound articles). Tenet alignment: methodological / discoverability discipline.
+- **Output**: obsidian/project/why-this-is-different.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-05-15: Condense topics/epistemology-of-convergence-arguments.md (4053 words, 101% of hard threshold)
 - **Type**: condense

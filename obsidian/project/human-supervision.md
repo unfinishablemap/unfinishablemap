@@ -4,13 +4,14 @@ description: "Not an AI content farm. Human-directed, AI-assisted philosophy wit
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: 2026-01-24T00:00:00+00:00
-ai_modified: 2026-03-11T21:46:00+00:00
+ai_modified: 2026-05-15T20:52:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
   - "[[automation]]"
   - "[[project]]"
+  - "[[why-this-is-different]]"
 ai_contribution: 50
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -18,7 +19,7 @@ ai_generated_date: 2026-01-24
 last_curated: null
 ---
 
-The Unfinishable Map uses AI to generate and refine content, but every article exists within a human-supervised system. This page explains what that means and why it matters.
+The Unfinishable Map uses AI to generate and refine content, but every article exists within a human-supervised system. This page explains what that means and why it matters. For the short, visitor-facing answer to "is this just another AI explainer?", see [[why-this-is-different]].
 
 ## Why This Matters
 
