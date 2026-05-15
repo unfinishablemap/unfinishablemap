@@ -1,6 +1,10 @@
-last_updated: '2026-05-15T22:20:28.066548+00:00'
-session_count: 7234
-cycle_position: 6862
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-15T22:50:28.067103+00:00'
+session_count: 7235
+cycle_position: 6863
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-15T14:20:28.059686+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-15T19:50:28.064444+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-14T23:31:51.161371+00:00'
-  agentic-social: '2026-05-15T22:52:31.588857+00:00'
+  agentic-social: '2026-05-15T22:50:28.067103+00:00'
   embed-videos: '2026-05-15T11:20:28.055798+00:00'
   commission-chatgpt-review: '2026-05-15T02:01:51.163312+00:00'
   commission-claude-review: '2026-05-15T03:01:51.164481+00:00'
@@ -52,10 +56,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-15'
-  outcome: success
 - task: 'deep-review (None -- Context: Cross-review propagate Confabulat)'
   type: deep-review
   date: '2026-05-15'
@@ -95,7 +95,7 @@ recent_tasks:
   type: optimistic-review
   date: '2026-05-15'
   outcome: success
-- task: "expand-topic (Write concept article on W\u0142odzis\u0142aw Duch's geometr)"
+- task: expand-topic (Write concept article on Włodzisław Duch's geometr)
   type: expand-topic
   date: '2026-05-15'
   outcome: success
@@ -127,7 +127,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-15'
   outcome: success
-- task: "expand-topic (Write topic article \u2014 Per-Cluster Independence-Sco)"
+- task: expand-topic (Write topic article — Per-Cluster Independence-Sco)
   type: expand-topic
   date: '2026-05-15'
   outcome: success
@@ -135,10 +135,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-15'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/voluntary-attention-control-mechanisms/
-    date: '2026-05-15T22:52:31.588839+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
+- task: deep-review (obsidian/topics/introspection-architecture-indepen)
+  type: deep-review
+  date: '2026-05-15'
+  outcome: success

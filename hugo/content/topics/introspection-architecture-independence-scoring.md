@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-05-15 22:29:00+00:00
+ai_modified: 2026-05-15 22:52:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: A worked exhibit applying the voids-circularity discount to the fou
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 22:29:00+00:00
+last_deep_review: 2026-05-15 22:52:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -118,7 +118,7 @@ The [common-cause-null discipline](/project/common-cause-null/) at its line 86 i
 
 ## Comparison with the-Surplus-Void Scoring
 
-[The surplus void](/voids/the-surplus-void/) is the catalogue's first worked exhibit. Its scoring profile, as retracted in the 2026-05-11 refinement: signature specificity moderate (the surplus claim is more diffuse than the four-face structure of the present cluster); structured persistence strong (the gap has persisted since Wallace 1870); cross-observer convergence weak (Wallace, Chalmers, Levine work in philosophically continuous traditions; the zombie argument and the explanatory gap share methodological lineage); framework independence weak (the void is identified under dualism-friendly methodology, and the explanatory gap's status as a void depends on rejecting the materialist's option to count phenomenal reduction as complete wherever functional reduction succeeds).
+[The surplus void](/voids/the-surplus-void/) is the catalogue's first worked exhibit. Scoring the surplus-void on the same four criteria, post-2026-05-11 retraction: signature specificity moderate (the surplus claim is more diffuse than the four-face structure of the present cluster); structured persistence strong (the gap has persisted since Wallace 1870); cross-observer convergence weak (Wallace, Chalmers, Levine work in philosophically continuous traditions; the zombie argument and the explanatory gap share methodological lineage); framework independence weak (the void is identified under dualism-friendly methodology, and the explanatory gap's status as a void depends on rejecting the materialist's option to count phenomenal reduction as complete wherever functional reduction succeeds).
 
 The present cluster scores higher than the surplus-void on cross-observer convergence (because patient-population evidence is present and Buddhist *kleshas* supply a partial cross-tradition channel) and substantially higher on framework independence (because the architectural finding survives framework translation in a way the surplus claim does not). The cluster scores comparably on structured persistence and somewhat higher on signature specificity.
 
