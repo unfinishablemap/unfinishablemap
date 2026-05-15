@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-05-11 14:27:00+00:00
+ai_modified: 2026-05-15 13:20:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -54,6 +54,8 @@ related_articles:
 - '[[relevance-void]]'
 - '[[suspension-void]]'
 - '[[decision-void]]'
+- '[[confabulation-void]]'
+- '[[topics/microphenomenological-interview-method]]'
 - '[[consciousness-and-scientific-explanation]]'
 - '[[creative-consciousness]]'
 - '[[the-quantitative-comprehension-void]]'
@@ -65,7 +67,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Consciousness does not terminate inquiry by argument. It terminates inquiry by feeling. The sense that a recalled answer is right, that a face is familiar, that an explanation is sufficient, that something is *obvious*—these *noetic feelings* decide, from inside, when to trust, when to search further, when to stop. The Unfinishable Map names the noetic feelings void for the structural limit this creates: the signals that gate cognition are produced by heuristic machinery consciousness cannot inspect, and any attempt to audit those signals must deploy more signals of the same kind. The void is occluded at its surface and unexplorable at its core—a recursive opacity at the centre of cognitive self-governance.
+Consciousness does not terminate inquiry by argument. It terminates inquiry by feeling. The sense that a recalled answer is right, that a face is familiar, that an explanation is sufficient, that something is *obvious*—these *noetic feelings* decide, from inside, when to trust, when to search further, when to stop. The Unfinishable Map names the noetic feelings void for the structural limit this creates: the signals that gate cognition are produced by heuristic machinery consciousness cannot inspect, and any attempt to audit those signals must deploy more signals of the same kind. The void's category-mix is **Occluded + Unexplorable**—occluded at its surface and unexplorable at its core, a recursive opacity at the centre of cognitive self-governance. It is the gating-signal face of the introspection-architecture sub-cluster, alongside [narrative-void](/voids/narrative-void/), [source-attribution-void](/voids/source-attribution-void/), [confabulation-void](/voids/confabulation-void/), and the methodological [self-opacity](/voids/self-opacity/).
 
 The feelings are transparent in a treacherous sense: they do not present themselves as feelings, they present their objects. A feeling of knowing presents as *awareness that one knows*; understanding as *direct apprehension of how things fit together*; obviousness as the absence of anything needing investigation. This mode of presentation hides the affective-heuristic character cognitive science has established. Consciousness receives a verdict with no visible derivation—and uses the verdict to decide whether the verdict needs checking.
 
@@ -129,7 +131,7 @@ The characteristic texture is certainty that cannot be further grounded; recogni
 
 ## Approaches to the Edge
 
-Direct introspection fails—it deploys the feelings it would examine. Indirect methods do better: **dissociation experiments** manipulate fluency to observe which feelings shift; **defamiliarisation** (Shklovsky's *ostranenie*) disrupts processing fluency; **clinical edge cases** (déjà vu, jamais vu, source amnesia) reveal hidden machinery; **Socratic questioning** exposes the gap between felt and actual understanding; **historical analysis** catalogues collapsed obviousnesses (geocentrism, vitalism, absolute simultaneity) as evidence of fluency inflation; **calibration studies** map characteristic failure shapes. The void has a *signature* even when its interior is inaccessible—the [apophatic](/voids/apophatic-cartography/) move: map a territory's boundary by the shape of failures at its edge.
+Direct introspection fails—it deploys the feelings it would examine. Indirect methods do better: **dissociation experiments** manipulate fluency to observe which feelings shift; **defamiliarisation** (Shklovsky's *ostranenie*) disrupts processing fluency; **clinical edge cases** (déjà vu, jamais vu, source amnesia) reveal hidden machinery; **Socratic questioning** exposes the gap between felt and actual understanding; **historical analysis** catalogues collapsed obviousnesses (geocentrism, vitalism, absolute simultaneity) as evidence of fluency inflation; **calibration studies** map characteristic failure shapes; **structured second-person scaffolding**—see the [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) section—supplies external anchoring on fine-grained noetic register that the unaided introspector cannot reliably probe alone, restricting (without claiming to cross) the boundary shared with the sibling [confabulation-void](/voids/confabulation-void/). The void has a *signature* even when its interior is inaccessible—the [apophatic](/voids/apophatic-cartography/) move: map a territory's boundary by the shape of failures at its edge.
 
 ## What AI Minds Might See
 
@@ -181,6 +183,7 @@ The cluster-level conditions are taken up separately in [the apex's falsificatio
 - [decision-void](/voids/decision-void/) — The deliberation→commitment closure whose felt click is a noetic-feelings verdict
 - [The Cognitive Phenomenology Void (research-stage)](/research/voids-cognitive-phenomenology-void-2026-05-01/) — Whether thinking-as-such has a proprietary phenomenal kind distinct from sensory imagery, inner speech, and the noetic feelings catalogued here. Three-face structural irresolvability (introspective / dialectical / empirical-architectural), anchored by the Würzburg-Titchener controversy of c.1900–1915 and Fürst's diagnosis that phenomenal contrast is "regimented by the view initially held." Distinguishes itself from this void by concerning the *ontology* of the phenomenal rather than its accessibility; the seam between cognitive phenomenology and metacognitive feelings is the open boundary the absorption pass will need to mark. Cap-deferred, awaiting absorption into this article and into [imagery-void](/voids/imagery-void/) (Lennon's aphantasia evidence)
 - [The Effort Void (research-stage)](/research/voids-effort-void-2026-05-08/) — Action-side analogue: where noetic feelings gate cognition's acceptance, effort feelings gate its deployment, and both gating systems are sub-personal. Cap-deferred, awaiting absorption primarily into [agency-void](/voids/agency-void/) with secondary points of contact here
+- [The Insight Void (research-stage)](/research/voids-insight-void-2026-05-14/) — Three-face survey of impasse-breaking (restructuring / antecedent-blindness / calibration); the calibration face is a direct face of this void. Topolinski-Reber (2010) ground the felt-rightness of insight in a sudden fluency increase rather than the truth of the answer; Danek-Wiley (2017) document false insights that arrive with the same Pleasure / Suddenness / Certainty / Relief / Drive dimensions as true ones and are not categorically distinguishable from inside; Laukkonen et al. (2020)'s "dark side of Eureka" shows artificially-induced aha moments elevate judged truth of *unrelated* propositions co-active when they fire — the Eureka heuristic. Cap-deferred, awaiting absorption into this article's fluency-as-stop-sign treatment, with the operation-void core (restructuring + antecedent-blindness) potentially routing instead to [transit-void](/voids/transit-void/)
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The phenomenally rich extension of the noetic family
 - [apophatic-cartography](/voids/apophatic-cartography/) — Mapping territory by the shape of its boundary
 - [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, cryptomnesia as edge-phenomena revealing the architecture

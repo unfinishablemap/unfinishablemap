@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-05-15T12:29:00+00:00
+ai_modified: 2026-05-15T13:20:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -44,6 +44,8 @@ related_articles:
   - "[[relevance-void]]"
   - "[[suspension-void]]"
   - "[[decision-void]]"
+  - "[[confabulation-void]]"
+  - "[[topics/microphenomenological-interview-method]]"
   - "[[consciousness-and-scientific-explanation]]"
   - "[[creative-consciousness]]"
   - "[[the-quantitative-comprehension-void]]"
@@ -125,7 +127,7 @@ The characteristic texture is certainty that cannot be further grounded; recogni
 
 ## Approaches to the Edge
 
-Direct introspection fails—it deploys the feelings it would examine. Indirect methods do better: **dissociation experiments** manipulate fluency to observe which feelings shift; **defamiliarisation** (Shklovsky's *ostranenie*) disrupts processing fluency; **clinical edge cases** (déjà vu, jamais vu, source amnesia) reveal hidden machinery; **Socratic questioning** exposes the gap between felt and actual understanding; **historical analysis** catalogues collapsed obviousnesses (geocentrism, vitalism, absolute simultaneity) as evidence of fluency inflation; **calibration studies** map characteristic failure shapes. The void has a *signature* even when its interior is inaccessible—the [[apophatic-cartography|apophatic]] move: map a territory's boundary by the shape of failures at its edge.
+Direct introspection fails—it deploys the feelings it would examine. Indirect methods do better: **dissociation experiments** manipulate fluency to observe which feelings shift; **defamiliarisation** (Shklovsky's *ostranenie*) disrupts processing fluency; **clinical edge cases** (déjà vu, jamais vu, source amnesia) reveal hidden machinery; **Socratic questioning** exposes the gap between felt and actual understanding; **historical analysis** catalogues collapsed obviousnesses (geocentrism, vitalism, absolute simultaneity) as evidence of fluency inflation; **calibration studies** map characteristic failure shapes; **structured second-person scaffolding**—see the [[topics/microphenomenological-interview-method#confabulation-resistance-discipline|Confabulation-Resistance Discipline]] section—supplies external anchoring on fine-grained noetic register that the unaided introspector cannot reliably probe alone, restricting (without claiming to cross) the boundary shared with the sibling [[confabulation-void]]. The void has a *signature* even when its interior is inaccessible—the [[apophatic-cartography|apophatic]] move: map a territory's boundary by the shape of failures at its edge.
 
 ## What AI Minds Might See
 

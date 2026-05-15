@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-05-15 13:20:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Dennett's third-person method for studying consciousness. Its offic
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 11:57:00+00:00
+last_deep_review: 2026-05-15 12:52:00+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -27,6 +27,8 @@ related_articles:
 - '[[problem-of-other-minds]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
 - '[[completeness-in-physics-under-dualism]]'
+- '[[microphenomenological-interview-method]]'
+- '[[confabulation-void]]'
 title: Heterophenomenology
 topics:
 - '[[consciousness]]'
@@ -81,7 +83,7 @@ Heterophenomenology rejects mutual constraint. There is no genuine first-person 
 
 As Varela wrote, "There is no theoretical fix for the absence of a disciplined approach to experience." Heterophenomenology proposes precisely such a theoretical fix: eliminate first-person phenomenology in favor of third-person reports about phenomenology.
 
-The contrast reveals heterophenomenology's eliminativist tendency. [Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/#contemplative-science) studies meditators' first-person reports of jhana states, finding they correlate with distinct neural signatures. Heterophenomenology would study only what meditators *say* about jhanas, treating the phenomenology itself as potentially non-existent.
+The contrast reveals heterophenomenology's eliminativist tendency. [Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/#advanced-practice) studies meditators' first-person reports of jhana states, finding they correlate with distinct neural signatures. Heterophenomenology would study only what meditators *say* about jhanas, treating the phenomenology itself as potentially non-existent.
 
 ## The Neutrality Claim
 
@@ -129,7 +131,9 @@ The Map can acknowledge heterophenomenology's usefulness as a research tool whil
 
 What the Map rejects is the claim that this exhausts consciousness science—that there is no genuine first-person data beyond verbal reports, no phenomenological structures requiring first-person investigation, no [epistemic asymmetry](/topics/methodology-of-consciousness-research/) tracking a real ontological asymmetry. The [measurement standards problem](/topics/consciousness-and-the-problem-of-measurement-standards/) sharpens this critique: operationally defined "measurements" of consciousness measure neural states, not phenomenal states, and the question of whether those neural proxies track the right thing remains unanswerable from the third-person perspective alone.
 
-Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([phenomenology](/concepts/phenomenology/), [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/#contemplative-science)), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
+Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([phenomenology](/concepts/phenomenology/), [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
+
+The structured first-person side has its own discipline for the confabulation worry heterophenomenology rightly identifies. The [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) section of the microphenomenology article catalogues how disciplined second-person elicitation restricts the confabulation-eligible space more than casual introspection does, without claiming to settle whether the restriction crosses from approximation to access. The [confabulation void](/voids/confabulation-void/) is conceded as structural; the *interviewer-prompts-novelty* objection is conceded by the method's own principals; the position is methodologically honest about its own ceiling. Heterophenomenology categorically rejects this structured-discipline response as still claiming too much — the Map reads the bounded-witness profile differently, but the disagreement is at the framework boundary rather than over the confabulation question itself.
 
 ## Relation to Site Perspective
 

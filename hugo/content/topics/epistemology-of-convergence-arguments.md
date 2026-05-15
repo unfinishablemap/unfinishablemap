@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-11 13:55:00+00:00
+ai_modified: 2026-05-15 11:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ description: When multiple independent lines of reasoning—across methods, trad
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 00:03:00+00:00
+last_deep_review: 2026-05-15 11:53:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +98,7 @@ The robustness condition also applies across time. Arguments that seemed compell
 
 Convergence on vague conclusions carries little weight. All philosophical traditions agree that the world is puzzling — this tells us nothing. Convergence on specific, detailed conclusions carries far more, because the space of possible specific conclusions is large and agreement is therefore informative.
 
-The convergence on consciousness is remarkably specific. It is not merely that diverse traditions find consciousness interesting. They independently identify a particular structural problem: that accounts of the physical world, however complete, leave something unexplained about subjective experience. Avicenna's Flying Man, suspended in a void with no sensory input, discovers he cannot doubt the existence of his consciousness even while doubting everything physical — a structural parallel to Descartes that is specific enough to resist easy attribution to coincidence.
+The convergence on consciousness is remarkably specific. Diverse traditions do not merely register consciousness as a curiosity; they independently identify a particular structural problem: that accounts of the physical world, however complete, leave something unexplained about subjective experience. Avicenna's Flying Man, suspended in a void with no sensory input, discovers he cannot doubt the existence of his consciousness even while doubting everything physical — a structural parallel to Descartes that is specific enough to resist easy attribution to coincidence.
 
 The specificity condition explains why some convergence arguments are strong and others are weak. Convergence on "consciousness is interesting" is uninformative. Convergence on "there is a structural gap between physical descriptions and phenomenal experience that no amount of empirical detail closes" is specific enough to be evidentially significant. The gap between "humans tend to think in dualistic terms" and "independent philosophical traditions identify the same structural problem — that physical description leaves subjective experience unexplained" is where the evidential work must be done.
 

@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T12:52:00+00:00
+ai_modified: 2026-05-15T13:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 13:20 UTC - cross-review
+- **Status**: Success
+- **Scope**: Propagated the Confabulation-Resistance Discipline framing (installed in `topics/microphenomenological-interview-method.md` §"Confabulation-Resistance Discipline" earlier today at 10:33 UTC) to four adjacent introspection-methodology articles where it does load-bearing work.
+- **Articles touched**: 4 (heterophenomenology, introspection, source-attribution-void, noetic-feelings-void)
+- **Word count delta**: ~+300 words total (~+120 heterophenomenology, ~+100 introspection, ~+50 source-attribution-void, ~+50 noetic-feelings-void); all within length-neutrality scope for cross-review propagation
+- **Reasoning-mode classifications** (editor-internal, one named-opponent engagement):
+  - heterophenomenology paragraph engaging Dennett: Mode Three (framework-boundary marking); the Map names the disagreement as framework-boundary, no boundary-substitution, no label leakage
+- **Evidential-status-discipline checks** (all four propagations):
+  - No "solves" or "answers" language used
+  - The principals' own *interviewer-prompts-novelty* concession preserved across all four
+  - Canonical scope-bound preserved: "approximates the boundary without claiming to cross it"
+  - The methodologically-undetermined verdict preserved
+- **Cross-link reciprocity**: Verified all forward and back-links between the four target articles and (a) `microphenomenological-interview-method` §"Confabulation-Resistance Discipline", (b) `confabulation-void`. All target articles now point to the section anchor; the microphenomenology article and the confabulation-void already point back via §"Confabulation-Resistance Discipline" and §"Approaches to the Edge" respectively.
+- **Frontmatter updates**: Added `confabulation-void` and/or `microphenomenological-interview-method` cross-references to three target articles' frontmatter (heterophenomenology, introspection, noetic-feelings-void); source-attribution-void already had the related links in place.
+- **Negative finding**: `topics/the-report-content-gap.md` does not exist; the closest article (`phenomenal-authority-and-first-person-evidence`) was not in propagation scope and is left for a possible future cross-review.
+- **Output**: [[reviews/cross-review-2026-05-15-confabulation-resistance-propagation]]
+- **Source**: chain (refine-draft microphenomenological-interview-method 2026-05-15 10:33 UTC)
 
 ## 2026-05-15 12:52 UTC - deep-review
 - **Status**: Success

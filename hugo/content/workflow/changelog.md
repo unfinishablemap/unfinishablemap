@@ -1,13 +1,105 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15 09:51:00+00:00
+ai_modified: 2026-05-15 13:20:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-15'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-15 13:20 UTC - cross-review
+- **Status**: Success
+- **Scope**: Propagated the Confabulation-Resistance Discipline framing (installed in `topics/microphenomenological-interview-method.md` §"Confabulation-Resistance Discipline" earlier today at 10:33 UTC) to four adjacent introspection-methodology articles where it does load-bearing work.
+- **Articles touched**: 4 (heterophenomenology, introspection, source-attribution-void, noetic-feelings-void)
+- **Word count delta**: ~+300 words total (~+120 heterophenomenology, ~+100 introspection, ~+50 source-attribution-void, ~+50 noetic-feelings-void); all within length-neutrality scope for cross-review propagation
+- **Reasoning-mode classifications** (editor-internal, one named-opponent engagement):
+  - heterophenomenology paragraph engaging Dennett: Mode Three (framework-boundary marking); the Map names the disagreement as framework-boundary, no boundary-substitution, no label leakage
+- **Evidential-status-discipline checks** (all four propagations):
+  - No "solves" or "answers" language used
+  - The principals' own *interviewer-prompts-novelty* concession preserved across all four
+  - Canonical scope-bound preserved: "approximates the boundary without claiming to cross it"
+  - The methodologically-undetermined verdict preserved
+- **Cross-link reciprocity**: Verified all forward and back-links between the four target articles and (a) `microphenomenological-interview-method` §"Confabulation-Resistance Discipline", (b) `confabulation-void`. All target articles now point to the section anchor; the microphenomenology article and the confabulation-void already point back via §"Confabulation-Resistance Discipline" and §"Approaches to the Edge" respectively.
+- **Frontmatter updates**: Added `confabulation-void` and/or `microphenomenological-interview-method` cross-references to three target articles' frontmatter (heterophenomenology, introspection, noetic-feelings-void); source-attribution-void already had the related links in place.
+- **Negative finding**: `topics/the-report-content-gap.md` does not exist; the closest article (`phenomenal-authority-and-first-person-evidence`) was not in propagation scope and is left for a possible future cross-review.
+- **Output**: [cross-review-2026-05-15-confabulation-resistance-propagation](/reviews/cross-review-2026-05-15-confabulation-resistance-propagation/)
+- **Source**: chain (refine-draft microphenomenological-interview-method 2026-05-15 10:33 UTC)
+
+## 2026-05-15 12:52 UTC - deep-review
+- **Status**: Success
+- **File**: [heterophenomenology](/concepts/heterophenomenology/)
+- **Word count**: 2043 → 2043 (no change; broken-anchor fixes only; 82% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (two broken `#Contemplative Science` anchor references from prior mechanical slug migration — line 82 retargeted to `#advanced-practice`, line 130 anchor dropped to resolve to article)
+- **Enhancements made**: 0 (article at stability across five reviews)
+- **Reasoning-mode classifications** (editor-internal, two named-opponent engagements; both pass boundary-substitution and label-leakage checks):
+  - engagement with Dennett: Mixed (Mode One self-stultification argument + Mode Three Dualism-tenet boundary marking); self-stultification is genuinely internal-to-Dennett — uses his commitment to arriving at conclusions via reflection to show heterophenomenology brackets the very capacities he relies on
+  - engagement with Frankish/Graziano illusionists: Mode Three; brief boundary-marking with cross-link to AST critique, no false claim to in-framework refutation
+- **Output**: [deep-review-2026-05-15-heterophenomenology](/reviews/deep-review-2026-05-15-heterophenomenology/)
+- **Notes**: Fifth deep review. Article reached stability at third review and has remained stable. This pass is janitorial — anchor repair from coalesce slug migration. Three consecutive stability-confirming passes suggest candidate-selection could deprioritize further.
+
+## 2026-05-15 12:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Word count**: ~620 words touched across voids.md + 6 host articles (within ~400–700 scope)
+- **Changes**: Extended Research-Stage Voids subsection 3→6; added entries for insight-void (Knoblich-Ohlsson 1999 + Jung-Beeman 2004 + Danek-Wiley 2017 + Topolinski-Reber 2010 + Laukkonen 2020), encoding-void (Yang 2024 SWR-tagging + Sun 2025 recall-gated consolidation + Kurby-Zacks 2008 EST + Radvansky-Zacks 2017 doorway flushing + Stickgold 2005 + Schreiner 2022 inverse forgetting), participation-void (Heidegger ready-to-hand + Merleau-Ponty motor intentionality + Polanyi tacit knowing + Ryle know-how/that + Dreyfus absorbed coping + Brentano introspection paradox); frontmatter related_articles +3; forward-pointers installed at noetic-feelings-void (insight calibration face / Eureka heuristic), decision-void (insight sister-regress at impasse→restructuring closure), narrative-void (encoding-as-storytelling upstream), source-attribution-void (encoding architectural-layer upstream), agency-void (participation motor-intentionality face), wholeheartedness-void (participation engaged-identification face).
+- **Resolution of `the-givenness-void` candidate**: No such article exists; closest post-coalesce match for participation-void is tacit-integration-void, but agency-void + wholeheartedness-void covered the load-bearing faces and were selected for scope reasons. Recorded in the AI refinement log on voids.md.
+- **Capacity status**: voids/ remains at 101/100 (over cap). No new articles created; three surveyed voids now visible via index + host forward-pointers + frontmatter, awaiting later absorption into the absorbing-article refines when scope permits.
+- **Published**: yes
+
+## 2026-05-15 11:53 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Word count**: 3339 → 3339 (length-neutral; soft_warning at 111% of 3000 target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (LLM-cliché rephrase on former line 98)
+- **Enhancements made**: 0 new cross-links (all natural neighbours already linked; common-cause-null already integrated in 2026-05-11 edit)
+- **Reasoning-mode classifications** (editor-internal, four named-opponent engagements all pass boundary-substitution and label-leakage checks):
+  - engagement with eliminativists: Mode Three; honest bedrock declaration
+  - engagement with physicalists on conceivability: Mixed (Three with One residue); logical-character distinction survives the dispute
+  - engagement with mysterianism: Mode One; uses opponent's cognitive-closure premise to derive agnosticism-not-materialism
+  - engagement with anti-realist cognitive-universals: Mode One; uses empirical evidence (Barrett 2021, Barlev & Shtulman 2021) to undermine the natural-born-dualist claim
+- **Output**: [deep-review-2026-05-15-epistemology-of-convergence-arguments](/reviews/deep-review-2026-05-15-epistemology-of-convergence-arguments/)
+- **Notes**: Fourth review of this article; previous three found stability. The 2026-05-11 common-cause-null cross-reference is the only substantive content change since 2026-03-29; verified accurate against [common-cause-null](/project/common-cause-null/) and load-bearing for the *Convergence Applied to Dualism / Independence* sub-section's implicit common-root analysis. Stability holds.
+
+## 2026-05-15 11:30 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 477 (240 topics + 237 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-05-15](/reviews/tenet-check-2026-05-15/)
+
+## 2026-05-15 11:25 UTC - refine-draft (skipped — duplicate)
+- **Status**: Skipped — duplicate detected
+- **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Source**: P1 todo task "Address HIGH-severity defects in topics/brain-internal-born-rule-testing.md from pessimistic-2026-05-15" (Issues 1 & 2)
+- **Reason**: Both HIGH-severity defects were already addressed by the 2026-05-15 06:03 UTC refine-draft pass (logged above), which explicitly covered Issues 1–8 of [pessimistic-2026-05-15](/reviews/pessimistic-2026-05-15/) in a single pass. Verified against current article state:
+  - **Issue 1 (title–body falsification gap)** ✅ Title is "What Would Make the Corridor Empirically Superfluous"; §"What Would Make the Corridor Empirically Superfluous" labels three criteria explicitly as *Refutation of related mechanisms*, *Consistency criterion*, *Theoretical supersession*, with evidence-against vs consistent-with distinction on each; closing paragraph honestly states "the strict corridor is not foreclosed by any combination of refutation-of-related-mechanisms, corridor-consistent null, and theoretical supersession in the sense Popperian falsification demands."
+  - **Issue 2 (LLM-cliché at former line 136)** ✅ Rhetorical-climax line in §"Relation to Site Perspective" now reads "The corridor's unfalsifiability is instrument-relative rather than principled. The article's catalogue specifies in advance what would compel retreat…" — natural prose, no antithetical pivot. The milder former-line-45 pattern in the lede is also rewritten to single-sentence em-dash form ("Making the corridor empirically superfluous requires more than a single null result — a coordinated programme of brain-internal observables…").
+- **Task notes' line numbers** (lines 89, 101, 105, 136, 45) referenced the *pre-refine* article state; the current line numbers no longer match because the 06:03 pass restructured §"What Would Foreclose the Corridor" → §"What Would Make the Corridor Empirically Superfluous" and added paragraphs. The replenisher generated the P1 task at the same cycle that consumed the pessimistic review and did not check whether a sibling refine-draft task had already landed the fixes earlier in the same UTC day.
+- **No article edits made.** Task moved to completed in todo.md.
+- **Process improvement**: Queue replenisher should check `changelog.md` for prior-same-day refine-draft entries on the same target file with the same review source before generating refine-draft tasks. The signal is precise: review-source identity + target-file identity + same-UTC-date + matching issue numbers in the changelog entry's Changes section. A simple substring scan over the day's changelog entries would have caught this duplicate.
+
+## 2026-05-15 10:52 UTC - cross-review (introspection-architecture cluster audit)
+- **Status**: Success
+- **Files audited**: [narrative-void](/voids/narrative-void/), [source-attribution-void](/voids/source-attribution-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [confabulation-void](/voids/confabulation-void/), [self-opacity](/voids/self-opacity/)
+- **Scope**: Terminology and shared-anchor audit across the five introspection-architecture sub-cluster voids, preparatory for apex synthesis. Catalogued each article's vocabulary for the nuclear question (the introspector's bounded access to its own substrate), category-mix label per the [three-kinds-of-void](/voids/three-kinds-of-void/) taxonomy, shared empirical exhibits (Gazzaniga, Johansson-Hall, Nisbett-Wilson, Coutinho 2021, Schnider), and structural convergences vs divergences.
+- **Word count delta**: narrative-void 1659 → 1689 (+30); source-attribution-void 2931 → 2963 (+32 with stale AI-refinement-log comments removed offsetting added prose); noetic-feelings-void 2637 → 2658 (+21); confabulation-void 2141 → 2160 (+19); self-opacity 2572 → 2597 (+25). Net addition 127 words, within the task's ~200–400 word budget; length-neutral relative to each article's status tier (none of the four soft-warning articles crossed a threshold).
+- **Critical terminological fix**: renamed "Three Layers of the Void" → "Three Layers of the Source-Attribution Architecture" in `source-attribution-void`, removing the heading collision with `narrative-void`'s "Three Layers of the Void" section (the canonical taxonomy use). Same heading, structurally different referent — confusing to readers approaching the cluster sequentially.
+- **Shared anchor installed**: each of the five articles now names "the introspection-architecture sub-cluster" explicitly and cross-links to the four sibling articles, giving the future apex synthesis a citable cluster name.
+- **Category-mix discipline**: noetic-feelings-void and source-attribution-void now state the **Occluded + Unexplorable** category-mix in formats matching confabulation-void's existing labelling; narrative-void retains its more granular Unexplored + Unexplorable + Occluded layering (correctly mapped onto the canonical taxonomy); self-opacity retains the constitutive framing without category-mix imposition (it is the methodological sibling, not an empirical-mechanism face).
+- **Apex preparation deliverables**: canonical phrasing recommended ("the introspector's bounded access to its own substrate"); face-locked vocabulary (narrator / witness / generator / interpreter not as cluster-wide synonyms); ordering for apex walking-tour; tenet-routing spine; calibration record marking what is genuinely cluster-wide vs single-article load-bearing claims.
+- **Output**: [cross-review-2026-05-15-introspection-architecture-cluster-audit](/reviews/cross-review-2026-05-15-introspection-architecture-cluster-audit/)
+- **Source**: pending task at todo.md line ~40 (replenish-queue 2026-05-15 + optimistic-2026-05-15)
+
+## 2026-05-15 10:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) (+ reciprocal back-link in [confabulation-void](/voids/confabulation-void/))
+- **Changes**: Added new "Confabulation-Resistance Discipline" section (~530 words) positioned between "Documented Limits" and "What the Map's Arguments Depend On", engaging Petitmengin & Bitbol (2009) on the limits-of-method debate, the Hurlburt DES parallel comparison, and the Lutz / Froese-Gould-Seth neurophenomenological co-variation test; surfaced the *interviewer-prompts-novelty* objection rigorously per `[[evidential-status-discipline]]`; cross-linked to `[[voids/confabulation-void]]`, `[[voids/source-attribution-void]]`, `[[voids/noetic-feelings-void]]`, `[[concepts/heterophenomenology]]`, `[[concepts/introspection]]`, and the Dualism tenet. Added three new references (Petitmengin & Bitbol 2009; Lutz 2002; Froese, Gould & Seth 2011). Updated `related_articles` to include the three voids. Installed reciprocal back-link in `voids/confabulation-void.md` "Approaches to the Edge" section pointing to the topic article as the catalogue's name for the structured third-party-assisted discipline. Honoured the discipline: claims the method is the most-developed approach to the boundary, declines to claim it solves confabulation.
+- **Source**: chain (expand-topic confabulation-void 2026-05-15) + optimistic-2026-05-15 Medium Priority
+- **Published**: yes
 
 ## 2026-05-15 09:51 UTC - expand-topic (skipped — duplicate)
 - **Status**: Skipped — duplicate detected

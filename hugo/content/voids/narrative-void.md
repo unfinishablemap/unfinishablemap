@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-05-15 12:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -35,7 +35,7 @@ topics:
 
 Consciousness constructs a running story of who you are—a coherent narrative from fragmentary, discontinuous experience. But the construction process is invisible to the one living inside the result. The Unfinishable Map calls this the narrative void: the gap between raw experience and the story consciousness tells about itself. What gets edited out, smoothed over, or fabricated to maintain coherence cannot be observed from within the narrative. Worse, the fabrication presents itself with the same phenomenological confidence as genuine memory.
 
-This void is not merely an epistemic limitation. It is a three-layered structure—partly unexplored, partly unexplorable, and actively occluded—that raises sharp questions about self-knowledge, personal identity, and the nature of conscious agency.
+This void is not merely an epistemic limitation. It is a three-layered structure—partly unexplored, partly unexplorable, and actively occluded—that raises sharp questions about self-knowledge, personal identity, and the nature of conscious agency. It sits within the introspection-architecture sub-cluster alongside [source-attribution-void](/voids/source-attribution-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [confabulation-void](/voids/confabulation-void/), and the methodological [self-opacity](/voids/self-opacity/), each of which catalogues a distinct face of the introspector's bounded access to its own substrate.
 
 ## The Unreliable Narrator
 
@@ -105,6 +105,7 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 - [narrative-coherence](/concepts/narrative-coherence/)
 - [necessary-opacity](/voids/necessary-opacity/)
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/)
+- [The Encoding Void (research-stage)](/research/voids-encoding-void-2026-05-12/) — Upstream of this article's storytelling: which fragments survive to become narratively integrable is determined by sharp-wave-ripple tagging (Yang et al. 2024 in *Science* — hippocampal SWRs tag specific waking experiences during reward consummation, and sleep SWRs preferentially replay the tagged sequences), recall-gated consolidation (Sun et al. 2025), and event-boundary "memory flushing" (Radvansky-Zacks 2017's doorway effect, with Yan et al. 2024 showing flushing occurs despite active maintenance) — all sub-personal. The Henke-lab inverse-forgetting result (Schreiner et al. 2022) sharpens the void: subliminally-encoded episodic traces consolidate along trajectories *opposite* to the conscious case, meaning the storyteller works on material whose selection criterion it neither set nor witnessed. Cap-deferred, awaiting absorption as the encoding-side face of the storytelling architecture this article treats
 
 ## References
 

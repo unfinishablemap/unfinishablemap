@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-13 11:22:00+00:00
+ai_modified: 2026-05-15 13:20:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -27,6 +27,7 @@ concepts:
 - '[[source-attribution-void]]'
 - '[[noetic-feelings-void]]'
 - '[[imagery-void]]'
+- '[[confabulation-void]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: Our primary access to consciousness is contested. But critiques target
@@ -95,6 +96,8 @@ Claire Petitmengin's [microphenomenology](/topics/microphenomenological-intervie
 The method's strongest empirical demonstration is Petitmengin, Navarro, and Le Van Quyen's (2006/2007) work on epilepsy prodromes: continuous, hour-scale premonitory experiences that patients did not spontaneously report and that third-person measurements did not detect. Microphenomenological interviewing surfaced them, and patients who learned to recognise their own prodromes reduced seizure frequency non-pharmacologically. Trained first-person inquiry can be *ampliative*—surfacing content that casual introspection and external instruments both miss.
 
 "Performative coherence" replaces correspondence as the validity criterion—but determining the "actual texture" requires the very access under evaluation. Microphenomenology constrains the calibration problem without solving it.
+
+For the structured-discipline response to the [confabulation void](/voids/confabulation-void/) specifically — the case for partial purchase against the structural feature distinguishing confabulation from mere unreliability — see the [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) section. The method approximates the boundary without claiming to cross it: disciplined second-person elicitation restricts the confabulation-eligible space more than casual introspection does, but the *interviewer-prompts-novelty* objection means the introspector cannot distinguish recovered content from content the structured prompt generated. Whether the restriction crosses from approximation to access is methodologically undetermined — and the method's own principals concede this.
 
 ## Critical Phenomenology: A Middle Path
 

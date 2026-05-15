@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-05-14 11:15:00+00:00
+ai_modified: 2026-05-15 11:30:11.236800+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,6 +19,11 @@ date: &id001 2026-02-15
 description: Remembering is not retrieving stored data but re-inhabiting a perspective—and
   the self that emerges through this act is both constituted and endangered by it.
 draft: false
+embedded_videos:
+- embedded: 2026-05-15 11:30:11.236800+00:00
+  id: lF5n6jgBuZo
+  source: notebooklm/0059-01-phenomenology-of-memory-and-the-self
+  url: https://www.youtube-nocookie.com/embed/lF5n6jgBuZo
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-14 11:15:00+00:00
@@ -42,6 +47,12 @@ topics:
 ---
 
 Remembering is the act through which a self encounters itself across time. When you recall a childhood afternoon, you do not access a file—you re-inhabit a perspective, experiencing yourself as both present rememberer and past protagonist. This double presence is the phenomenological mechanism through which the self discovers it has a past, and therefore that it is the kind of thing that persists. The Unfinishable Map argues that remembering—with its distinctive phenomenology of ownership, pastness, and reconstruction—both constitutes the temporally extended self and reveals the limits of self-knowledge. Memory builds the self it cannot fully recover.
+
+<details class="yt-embed" data-video-id="lF5n6jgBuZo">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/lF5n6jgBuZo">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Double Presence
 

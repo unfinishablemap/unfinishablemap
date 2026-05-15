@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-05-14 08:15:00+00:00
+ai_modified: 2026-05-15 10:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -16,7 +16,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[baseline-cognition]]'
 created: 2026-04-19
-date: &id001 2026-05-14
+date: &id001 2026-05-15
 description: Claire Petitmengin's disciplined second-person interview procedure for
   eliciting pre-reflective experience, its Husserlian evidence profile, position among
   related techniques, and the Map arguments that depend on it.
@@ -28,6 +28,9 @@ modified: *id001
 related_articles:
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
+- '[[voids/confabulation-void]]'
+- '[[voids/source-attribution-void]]'
+- '[[voids/noetic-feelings-void]]'
 title: The Microphenomenological Interview Method
 topics: []
 ---
@@ -109,6 +112,18 @@ The method has real limits, and the microphenomenological community is unusually
 
 None of these limits is fatal. Together they set the method's ceiling: a substantial improvement on casual introspection for a well-specified class of experiences, not a universal window on consciousness.
 
+## Confabulation-Resistance Discipline
+
+The [confabulation void](/voids/confabulation-void/) names a structural feature of self-report distinct from generic unreliability: a sub-personal generator supplies positive content where direct access is missing, and the felt-rightness signal that would distinguish fabrication from veridical access is anti-correlated with accuracy in the conditions that matter most. Casual [introspection](/concepts/introspection/) cannot reach behind this gap by construction. Microphenomenology is the most developed third-party-assisted discipline currently aimed at the boundary. Whether it crosses the boundary or only approximates it from outside is a live question the method itself does not settle.
+
+The case for partial purchase is structural. Confabulation operates most powerfully on the *pre-reflective* and the *transient* — the dimensions where unaided introspection leaves the most filling-in work for the interpreter. Evocation targets exactly this layer: re-anchoring the subject in embodied memory of a singular moment and constraining the interviewer to position-direction prompts restricts the contextual cues from which a confabulated explanation could fluently assemble. Olivares et al.'s (2015) ~80% experimental-manipulation detection figure and the prodrome surfacing of content invisible to casual report are the strongest extant signals that disciplined evocation can raise pre-reflective content into report that casual introspection systematically overlooks. The structural link to the [source-attribution void](/voids/source-attribution-void/) and the [noetic-feelings void](/voids/noetic-feelings-void/) is the same: second-person scaffolding supplies external anchoring on dimensions — origin-of-givenness, position-of-presence, fine-grained noetic register — that the introspector cannot reliably probe alone.
+
+The case against full purchase is conceded by the method's own principals. Petitmengin and Bitbol (2009), responding to the limits-of-method debate, accept that interview reports cannot in principle *prove* access to pre-reflective content — only exhibit the convergence-and-ampliative-yield profile such access would predict. Hurlburt's DES tradition runs the parallel comparison: random-beep sampling and microphenomenology surface partially non-overlapping content with no clean adjudication of residue. Neurophenomenological work (Lutz 2002; Froese, Gould and Seth 2011) treats co-variation of disciplined first-person report with neural-dynamic markers as the operative test, on the principle that mere confabulation should not co-vary with brain signal in the way the prodrome and meditation findings do.
+
+The deepest objection is *interviewer-prompts-novelty*. The structured position-question may not surface content the subject had but did not notice; it may *generate* new content the subject did not have until prompted, which is then reported with the same felt-veridicality as genuine recovery. The detection face of the confabulation void guarantees that the subject cannot tell the difference, and interviewer training does not transmit a felt-signal the subject lacks. The most the method can claim is that its position-direction architecture *restricts* the confabulation-eligible space more than casual introspection does; whether the restriction crosses the threshold from approximation to access is methodologically undetermined. [Heterophenomenology](/concepts/heterophenomenology/) absorbs the same outputs as data without committing to inner-referent recovery — the principal alternative the method cannot refute from inside.
+
+The Map's reading places microphenomenology in the introspection catalogue as the most-developed structured-discipline strategy that approximates the boundary without claiming to cross it — a methodological cousin to the unaided partial-discipline strategies (comparative slowing, domain-flagging, verdict-without-reasoning) catalogued in the confabulation void's "Approaches to the Edge", with the second-person scaffolding the unaided strategies forgo. The bounded-witness architecture the [Dualism tenet](/tenets/#dualism) predicts — partial recovery of pre-reflective content under structured external probing, with residue the introspector cannot distinguish from prompted novelty — is consistent with this empirical record. It does not, in either direction, decide the matter.
+
 ## What the Map's Arguments Depend On
 
 The Map's catalogue cites phenomenological evidence at multiple load-bearing junctures. The microphenomenological interview is the methodological floor under several of them.
@@ -152,6 +167,9 @@ The Map does *not* claim that Petitmengin or her collaborators hold any tenet th
 5. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
 6. Olivares, F. A., Vargas, E., Fuentes, C., Martínez-Pernía, D., & Canales-Johnson, A. (2015). Neurophenomenology revisited: Second-person methods for the study of human consciousness. *Frontiers in Psychology*, 6, 673.
 7. Petitmengin, C. (2006). Describing one's subjective experience in the second person: An interview method for the science of consciousness. *Phenomenology and the Cognitive Sciences*, 5(3), 229–269. https://link.springer.com/article/10.1007/s11097-006-9022-2
+7a. Petitmengin, C. & Bitbol, M. (2009). The validity of first-person descriptions as authenticity and coherence. *Journal of Consciousness Studies*, 16(10–12), 363–404.
+7b. Lutz, A. (2002). Toward a neurophenomenology as an account of generative passages: A first empirical case study. *Phenomenology and the Cognitive Sciences*, 1(2), 133–167.
+7c. Froese, T., Gould, C., & Seth, A. K. (2011). Validating and calibrating first- and second-person methods in the science of consciousness. *Journal of Consciousness Studies*, 18(2), 38–64.
 8. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2006). Seizure anticipation: Are neurophenomenological approaches able to detect preictal symptoms? *Epilepsy and Behavior*.
 9. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2007). Anticipating seizure: Pre-reflective experience at the centre of neurophenomenology. *Phenomenology and the Cognitive Sciences*.
 10. Petitmengin, C. (2019). Studying the experience of meditation through micro-phenomenology. *Current Opinion in Psychology*, 28, 54–59.

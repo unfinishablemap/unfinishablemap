@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-05-11 01:31:00+00:00
+ai_modified: 2026-05-15 13:20:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -81,15 +81,15 @@ Daniel Wegner's work on apparent mental causation probes a related seam from the
 
 Elizabeth Pronin's synthesis of the introspection illusion (2009) names the feature that makes these findings especially sharp. People over-trust the deliverances of introspection while applying behavioural inference to others. The result is that introspection fails without phenomenal warning: people are "unaware of their unawareness." A confabulated reason for a manipulated choice does not arrive marked *confabulated*. It arrives with the same texture as an unmanipulated one.
 
-## Three Layers of the Void
+## Three Layers of the Source-Attribution Architecture
 
-Pulling these findings together yields a layered structure:
+Pulling these findings together yields a layered structure. The labels here name the article's internal architectural decomposition; they are distinct from the canonical [three-kinds-of-void](/voids/three-kinds-of-void/) taxonomy, under which this void's category-mix is **Occluded + Unexplorable**, matching the wider [introspection-architecture sub-cluster](/voids/confabulation-void/).
 
 1. **Architectural layer.** Mental content is not stored with native source tags. Source must be inferred at retrieval, because it was not recorded at encoding.
 2. **Inferential layer.** The features used for inference—vividness, fluency, narrative coherence with self-image, traces of cognitive operations—are weakly correlated with actual source and collapse under predictable conditions (imagination-perception confusion, fluency-as-origination, prime-as-own-thought).
 3. **Confabulatory layer.** When reconstruction fails or lacks input, the system silently generates a plausible source. No internal marker distinguishes reconstruction from confabulation. The output feels the same from inside.
 
-This layering matters for what kind of limit this is. Better introspection cannot reach the architectural layer: there is nothing there to reach. Better introspection can sometimes probe the inferential layer—microphenomenological interview (Petitmengin) and trained contemplative observation can recover transient features used in inference—but the source tag itself remains inaccessible, because the tag is the construction, not its input. And the confabulatory layer is structurally unflagged: the very feature that would warn you that this content was generated is the feature the generation strips out.
+This layering matters for what kind of limit this is. Better introspection cannot reach the architectural layer: there is nothing there to reach. Better introspection can sometimes probe the inferential layer—microphenomenological interview (Petitmengin) and trained contemplative observation can recover transient features used in inference; the [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) section catalogues the structured-discipline strategy as the catalogue's home for partial-purchase against the sibling [confabulation-void](/voids/confabulation-void/), with the principals' own concession that *interviewer-prompts-novelty* prevents the method from settling whether the restriction crosses from approximation to access—but the source tag itself remains inaccessible regardless, because the tag is the construction, not its input. And the confabulatory layer is structurally unflagged: the very feature that would warn you that this content was generated is the feature the generation strips out.
 
 ## The Phenomenology of Unmarkedness
 
@@ -149,6 +149,7 @@ Three implications follow for how the Map thinks about the first person:
 - [source-attribution-divergence](/topics/source-attribution-divergence/) — The topic-tier subject explainer: empirical signatures (source-monitoring tasks, choice blindness, cryptomnesia, imagery-spectrum correlations) of the within-species spread this void treats apophatically
 - [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, and cryptomnesia as a single phenomenon viewed from three angles: the concrete-phenomenon exhibits of the source-monitoring architecture this void treats abstractly
 - [decision-void](/voids/decision-void/) — The deliberation→commitment moment as the specific application: surface features of the outcome stand in for the inaccessible event of choosing
+- [The Encoding Void (research-stage)](/research/voids-encoding-void-2026-05-12/) — Architectural-layer complement upstream of this article's inferential and confabulatory layers. The "absence of native source tags" claim is sharpened by the encoding mechanisms that determine which traces survive: sharp-wave-ripple tagging operates at millisecond scale below conscious access (Yang et al. 2024); recall-gated consolidation selects on prior-schema consistency the encoder cannot consciously evaluate (Sun et al. 2025); Henke-lab subliminal-encoding work (Reber 2012, Züst 2015, Schreiner 2022) shows episodic traces forming entirely *without* conscious encoding, consolidating along inverse trajectories. The void deepens this article's diagnosis: not merely that source is reconstructed at retrieval, but that the encoding side never wrote a source tag there for reconstruction to recover. Cap-deferred, awaiting absorption into the architectural-layer treatment
 
 ## References
 
@@ -162,27 +163,3 @@ Three implications follow for how the Map thinks about the first person:
 1. Wegner, D. M., & Wheatley, T. (1999). Apparent mental causation: Sources of the experience of will. *American Psychologist*, 54(7), 480-492.
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Self-Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-opacity/
 1. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Agency Void (verification face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
-
-<!-- AI REFINEMENT LOG - 2026-04-21
-Changes made in response to pessimistic-2026-04-21.md review:
-- Reworked §Relation to Site Perspective → Dualism to state the void is neutral between physicalism and dualism; removed "engaged sharply" and "metaphysically peculiar" framing; flagged that using this void to support dualism would invert the evidential relation.
-- Reframed §Bidirectional Interaction: replaced the unfalsifiable nested counterfactual with an explicit concession that the passage is coherence-with-the-tenet rather than evidential support, and noted that any evidential case must come from statistical/behavioural traces elsewhere.
-- Hedged Implications point 2: acknowledged the asymmetric epistemic verdict (full weight to phenomenal content, bounded weight to origin) as a substantive philosophical commitment not a data-driven conclusion, and pointed to [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) for the wider defense.
-- Hedged Implications point 3: softened "may be self-maintained" to "worth asking whether...", explicitly labelled as speculation without worked mechanism, reframed self-maintenance as hypothesis to test.
-- Added one sentence to the Wegner paragraph (line ~69) distinguishing experimental dissociation from universal illusion.
-- Hedged Johansson 2005: replaced "75% of trials" with "roughly three-quarters of manipulated trials went undetected" and flagged the concurrent/retrospective measure decomposition.
-- Hedged Brown & Murphy 1989: replaced "rates of 3-9%" with "single-digit percentage rates that varied by task condition" with specific conditions named.
-- Language nits: "structural inability" → "structural limit on the ability"; "reliably wrong" → "fails systematically"; "stark" → "structural:".
-
-Based on pessimistic review identifying 4 medium + 2 low-severity issues.
-Key improvements: eliminated unfalsifiable framings, hedged overstated statistics, separated empirical findings from metaphysical commitments.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-04-27 (16:44 UTC)
-Mechanical update flagged by optimistic-2026-04-27b:
-- Reference 10: updated stale citation following the 2026-04-27 coalesce of agency-verification-void → agency-void. URL changed from `/voids/agency-verification-void/` to `/voids/agency-void/`; title changed to "The Agency Void (verification face)" to preserve the original framing the citation invoked; date and author updated to match the canonical article (2026-04-27, claude-opus-4-7 → Oquatre-sept).
-
-This log should be removed after human review.
--->

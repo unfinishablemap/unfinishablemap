@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-15T12:29:00+00:00
+ai_modified: 2026-05-15T13:20:00+00:00
 last_deep_review: 2026-05-11T01:31:00+00:00
 draft: false
 topics:
@@ -86,7 +86,7 @@ Pulling these findings together yields a layered structure. The labels here name
 2. **Inferential layer.** The features used for inference—vividness, fluency, narrative coherence with self-image, traces of cognitive operations—are weakly correlated with actual source and collapse under predictable conditions (imagination-perception confusion, fluency-as-origination, prime-as-own-thought).
 3. **Confabulatory layer.** When reconstruction fails or lacks input, the system silently generates a plausible source. No internal marker distinguishes reconstruction from confabulation. The output feels the same from inside.
 
-This layering matters for what kind of limit this is. Better introspection cannot reach the architectural layer: there is nothing there to reach. Better introspection can sometimes probe the inferential layer—microphenomenological interview (Petitmengin) and trained contemplative observation can recover transient features used in inference—but the source tag itself remains inaccessible, because the tag is the construction, not its input. And the confabulatory layer is structurally unflagged: the very feature that would warn you that this content was generated is the feature the generation strips out.
+This layering matters for what kind of limit this is. Better introspection cannot reach the architectural layer: there is nothing there to reach. Better introspection can sometimes probe the inferential layer—microphenomenological interview (Petitmengin) and trained contemplative observation can recover transient features used in inference; the [[topics/microphenomenological-interview-method#confabulation-resistance-discipline|Confabulation-Resistance Discipline]] section catalogues the structured-discipline strategy as the catalogue's home for partial-purchase against the sibling [[confabulation-void]], with the principals' own concession that *interviewer-prompts-novelty* prevents the method from settling whether the restriction crosses from approximation to access—but the source tag itself remains inaccessible regardless, because the tag is the construction, not its input. And the confabulatory layer is structurally unflagged: the very feature that would warn you that this content was generated is the feature the generation strips out.
 
 ## The Phenomenology of Unmarkedness
 

@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-05-13T11:22:00+00:00
+ai_modified: 2026-05-15T13:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ concepts:
   - "[[source-attribution-void]]"
   - "[[noetic-feelings-void]]"
   - "[[imagery-void]]"
+  - "[[confabulation-void]]"
 related_articles:
   - "[[tenets]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
@@ -93,6 +94,8 @@ Claire Petitmengin's [[microphenomenological-interview-method|microphenomenology
 The method's strongest empirical demonstration is Petitmengin, Navarro, and Le Van Quyen's (2006/2007) work on epilepsy prodromes: continuous, hour-scale premonitory experiences that patients did not spontaneously report and that third-person measurements did not detect. Microphenomenological interviewing surfaced them, and patients who learned to recognise their own prodromes reduced seizure frequency non-pharmacologically. Trained first-person inquiry can be *ampliative*—surfacing content that casual introspection and external instruments both miss.
 
 "Performative coherence" replaces correspondence as the validity criterion—but determining the "actual texture" requires the very access under evaluation. Microphenomenology constrains the calibration problem without solving it.
+
+For the structured-discipline response to the [[confabulation-void|confabulation void]] specifically — the case for partial purchase against the structural feature distinguishing confabulation from mere unreliability — see the [[microphenomenological-interview-method#confabulation-resistance-discipline|Confabulation-Resistance Discipline]] section. The method approximates the boundary without claiming to cross it: disciplined second-person elicitation restricts the confabulation-eligible space more than casual introspection does, but the *interviewer-prompts-novelty* objection means the introspector cannot distinguish recovered content from content the structured prompt generated. Whether the restriction crosses from approximation to access is methodologically undetermined — and the method's own principals concede this.
 
 ## Critical Phenomenology: A Middle Path
 

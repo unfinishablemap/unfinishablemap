@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-10
-ai_modified: 2026-05-14 16:41:00+00:00
+ai_modified: 2026-05-15 12:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -137,6 +137,7 @@ The void is also [meta-epistemologically reflexive](/voids/meta-epistemology-of-
 - [transit-void](/voids/transit-void/) — Crossings in general, of which the deliberation→commitment crossing is one
 - [suspension-void](/voids/suspension-void/) — Sister regress: holding-open's introspective opacity
 - [inference-void](/voids/inference-void/) — Sister regress: making-explicit invokes what it explains
+- [The Insight Void (research-stage)](/research/voids-insight-void-2026-05-14/) — Sister-regress at the structurally analogous impasse→restructuring crossing: where this void targets deliberation→commitment closure, insight targets impasse→restructuring closure. Both are operation-voids consciousness witnesses only as endpoints. Jung-Beeman et al. (2004) document an alpha-band "brain-blink" suppressing external sensory monitoring ~1.5s before the right-temporal gamma burst that marks the aha — antecedent-blindness as architectural feature, paralleling this article's latency face; Johansson-Hall-style choice-blindness confabulation is paralleled by Danek-Wiley (2017) false insights that arrive with the same confident phenomenology as true ones. Cap-deferred, with the closure-and-confabulation parallel to this article's three faces explicit on absorption
 - [source-attribution-void](/voids/source-attribution-void/) — Why introspective reports reconstruct origin from surface features
 - [causal-interface](/voids/causal-interface/) — The opacity at the interface itself
 - [interface-formalization-void](/voids/interface-formalization-void/) — Why the consciousness-physics interface resists formalization
