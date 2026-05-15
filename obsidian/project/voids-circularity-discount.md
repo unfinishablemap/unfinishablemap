@@ -23,6 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[apex/taxonomy-of-voids]]"
   - "[[the-surplus-void]]"
+  - "[[topics/introspection-architecture-independence-scoring]]"
   - "[[tenet-generated-voids]]"
   - "[[voids]]"
   - "[[the-convergence-argument-for-dualism]]"
@@ -105,7 +106,8 @@ The catalogue retains its value under the discount. Voids document what the stan
 - [[testability-ledger]] — what the framework treats as decisive disconfirmation
 - [[apex/taxonomy-of-voids]] — the catalogue the discount is most often applied to
 - [[tenet-generated-voids]] — the sub-catalogue subject to the strict prohibition
-- [[the-surplus-void]] — worked exhibit: the article that retracted its evidence-of-dualism framing in light of the circularity diagnosis
+- [[the-surplus-void]] — first worked exhibit: the article that retracted its evidence-of-dualism framing in light of the circularity diagnosis
+- [[topics/introspection-architecture-independence-scoring]] — second worked exhibit: the four-void introspection-architecture sub-cluster scored against the four criteria, partially retaining the cluster's evidential weight via patient-population despite-commitments anchors
 - [[the-convergence-argument-for-dualism]] — the convergence claim the discount most heavily constrains
 - [[voids]] — the catalogue's index
 

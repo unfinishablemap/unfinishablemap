@@ -4,7 +4,8 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-15T21:55:00+00:00
+ai_modified: 2026-05-15T22:29:00+00:00
+last_deep_review: 2026-05-15T22:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
