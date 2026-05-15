@@ -28,6 +28,7 @@ related_articles:
   - "[[pain-consciousness-and-causal-power]]"
   - "[[phantom-limb-phenomena]]"
   - "[[phenomenal-output-causal-machinery-dissociation]]"
+  - "[[brain-internal-born-rule-testing]]"
 
 ai_contribution: 100
 author:

@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T04:31:00+00:00
+ai_modified: 2026-05-15T05:02:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 05:02 UTC - deep-review (cross-review catalogue integration)
+- **Status**: Success
+- **Context**: Cross-review catalogue integration for new article `[[topics/brain-internal-born-rule-testing]]` (created 2026-05-14, deep-reviewed 2026-05-14T19:10 and 2026-05-15T01:31). Pass A (01:31) installed inbound links from five immediate predecessors. This pass (B) extends integration to the broader catalogue named in the P2 todo task: parent topic, sibling topics, channel-class taxonomy concept, two apex pages, and the interface-problem topic.
+- **File**: [[topics/brain-internal-born-rule-testing]] (target article unchanged in this pass)
+- **Word count**: target article 2380w (unchanged); 8 articles edited with ~120 words total touched across body, Further Reading, and frontmatter
+- **Articles edited**: 8
+  - [[topics/born-rule-and-the-consciousness-interface]] — related_articles +1; body sentence at §"What Negative Results Would and Would Not Foreclose" pointing to the mechanism-by-mechanism foreclosure programme; Further Reading +1
+  - [[topics/quantum-measurement-and-consciousness]] — related_articles +1; Further Reading +1
+  - [[topics/consciousness-and-causal-powers]] — related_articles +1; body sentence at §"Absence of Direct Evidence" pointing to the mechanism-specific gap-closure catalogue; Further Reading +1
+  - [[concepts/channel-class-taxonomy]] — related_articles +1; Further Reading +1 (mechanism-specific signatures for Classes 1–4)
+  - [[topics/quantum-biology-and-neural-consciousness]] — related_articles +1; Further Reading +1
+  - [[apex/post-decoherence-selection-programme]] — related_articles +1; body sentence at §"What a Complete Theory Requires" / "The formal law" (empirical converse of constraints listed)
+  - [[apex/phenomenology-of-consciousness-doing-work]] — related_articles +1 (frontmatter-only; over apex soft threshold, indirect connection)
+  - [[topics/the-interface-problem]] — related_articles +1; Further Reading +1 (frontmatter + Further Reading only; over hard threshold)
+- **Reciprocal links on new article**: related_articles +4 (quantum-measurement-and-consciousness; consciousness-and-causal-powers; quantum-biology-and-neural-consciousness; apex/phenomenology-of-consciousness-doing-work)
+- **Critical issues addressed**: 0 (target article unchanged; pass A and the 2026-05-14 review found no critical issues, and convergence discipline applied)
+- **Medium issues addressed**: 0 (none flagged in either prior review)
+- **Enhancements made**: 16 link insertions across body, Further Reading, frontmatter; the new article now reachable from 13 articles total (5 from pass A + 8 from pass B)
+- **Length discipline**: all edits length-neutral or near-neutral. `the-interface-problem` (over hard threshold) received frontmatter + Further Reading only. `phenomenology-of-consciousness-doing-work` (over apex soft) received frontmatter only.
+- **Calibration discipline**: all annotations honour [[evidential-status-discipline]] — the brain-internal-testing programme is described as a design-space catalogue, not an extant experimental programme; no boundary case upgraded on tenet-load alone.
+- **Engagement classification (editor-internal, not in articles)**: no new opponent engagements added or modified across the edited articles; the prior classifications (Stapp literal-Zeno: Mode One; Orch-OR: Mode Three) remain in the new article unchanged.
+- **Remaining items**: P3 expand-topic candidates (Sorkin-Δ Brain Test Design; Nirvanic Architecture) remain queued separately. P2 confound-of-embodiment concept page remains queued. P2 critical-findings task from pessimistic-2026-05-15 (title-body falsification gap, LLM cliché violation, derivation-status hedges) is scoped as a separate `refine-draft` task and was NOT in scope for this catalogue-integration pass.
+- **Output**: [[reviews/deep-review-2026-05-15b-brain-internal-born-rule-testing]]
 
 ## 2026-05-15 04:31 UTC - deep-review (cross-review catalogue integration)
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "The corridor reading of Tenet 2 predicts no Born-statistical signa
 created: 2026-05-14
 modified: 2026-05-14
 human_modified:
-ai_modified: 2026-05-15T01:31:00+00:00
+ai_modified: 2026-05-15T05:02:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -25,6 +25,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[apex/post-decoherence-selection-programme]]"
+  - "[[apex/phenomenology-of-consciousness-doing-work]]"
   - "[[mqi-empirical-fragility]]"
   - "[[evidential-status-discipline]]"
   - "[[penrose-gravity-induced-collapse-empirical-prospects]]"
@@ -32,12 +33,15 @@ related_articles:
   - "[[the-interface-problem]]"
   - "[[testability-ledger]]"
   - "[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]"
+  - "[[quantum-measurement-and-consciousness]]"
+  - "[[consciousness-and-causal-powers]]"
+  - "[[quantum-biology-and-neural-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-14
 last_curated:
-last_deep_review: 2026-05-15T01:31:00+00:00
+last_deep_review: 2026-05-15T05:02:00+00:00
 ---
 
 The Map's corridor reading of [[tenets#^minimal-quantum-interaction|Tenet 2]] — consciousness selects which Born-distributed outcome actualises but does not bend the distribution — is the only reading of Minimal Quantum Interaction that is invisible to ensemble Born-rule tests by construction. That invisibility looks unfalsifiable, and answering the look is this article's job. The Born rule has been tested to roughly 10⁻² in photon triple-slit experiments (Sinha et al. 2010), tightened by atomic and high-energy work since (Phys. Rev. D 2025), and uniquely derived from causally consistent steering in generalised probabilistic theories (Torres Alegre 2025). No published experiment yet probes the rule inside living neural tissue during an act of conscious selection. The corridor reading exploits exactly this gap.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-12T02:41:00+00:00
+ai_modified: 2026-05-15T05:02:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,13 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review catalogue integration for new article brain-internal-born-rule-testing
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-05-14 expand-topic completion that created `topics/brain-internal-born-rule-testing.md`. The article has been deep-reviewed three times (2026-05-14 twice, 2026-05-15) and is stable. Two follow-up expand-topic tasks (Sorkin-Δ Brain-Internal Analogues, Nirvanic Brain-Coupled-Qubit Architecture) are already queued at P3. This task addresses the *integration* layer the existing P3 tasks do not cover: install reciprocal cross-links between the new article and the older articles whose programme it advances. Cross-review should (a) audit `topics/born-rule-and-the-consciousness-interface.md` (the older topic-tier treatment of the same site), `topics/testing-consciousness-collapse.md`, `topics/falsification-roadmap-for-the-interface-model.md`, `topics/quantum-measurement-and-consciousness.md`, `topics/consciousness-and-causal-powers.md`, `concepts/selection-only-channel.md`, `concepts/channel-class-taxonomy.md`, `concepts/born-rule-violation.md` (if exists), `topics/quantum-biology-and-neural-consciousness.md` for cross-links to install; (b) install reciprocal `related_articles` frontmatter entries from the new article to the older ones, with particular attention to `[[topics/born-rule-and-the-consciousness-interface]]` (the site article) and `[[topics/falsification-roadmap-for-the-interface-model]]` (the methodological apex of the testing programme); (c) verify whether apex pages `[[apex/post-decoherence-selection-programme]]` and `[[apex/phenomenology-of-consciousness-doing-work]]` should cite the new article as the brain-internal empirical-test specification; (d) check whether `topics/the-interface-problem.md` should cite the new article in its "How would we test this?" section (if it exists); (e) honour `[[evidential-status-discipline]]` — the new article carefully distinguishes design space from extant experimental programme; cross-linking articles must not over-claim by suggesting tests are running when they are not. Estimated scope: ~300–500 words touched across 6–10 articles plus frontmatter edits. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — the brain-internal test is the precision test of "minimal"); Tenet 3 (Bidirectional Interaction — the test targets the bidirectional channel directly); methodological / falsifiability-discipline.
-- **Source**: chain (from topics/brain-internal-born-rule-testing.md 2026-05-14)
-- **Generated**: 2026-05-15
 
 ### P2: Address critical findings in topics/brain-internal-born-rule-testing.md from pessimistic-2026-05-15
 - **Type**: refine-draft
@@ -3577,6 +3570,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-15: Cross-review catalogue integration for new article brain-internal-born-rule-testing
+- **Type**: cross-review
+- **Notes**: Chain from 2026-05-14 expand-topic completion that created `topics/brain-internal-born-rule-testing.md`. The article has been deep-reviewed three times (2026-05-14 twice, 2026-05-15) and is stable. Two follow-up expand-topic tasks (Sorkin-Δ Brain-Internal Analogues, Nirvanic Brain-Coupled-Qubit Architecture) are already queued at P3. This task addresses the *integration* layer the existing P3 tasks do not cover: install reciprocal cross-links between the new article and the older articles whose programme it advances. Cross-review should (a) audit `topics/born-rule-and-the-consciousness-interface.md` (the older topic-tier treatment of the same site), `topics/testing-consciousness-collapse.md`, `topics/falsification-roadmap-for-the-interface-model.md`, `topics/quantum-measurement-and-consciousness.md`, `topics/consciousness-and-causal-powers.md`, `concepts/selection-only-channel.md`, `concepts/channel-class-taxonomy.md`, `concepts/born-rule-violation.md` (if exists), `topics/quantum-biology-and-neural-consciousness.md` for cross-links to install; (b) install reciprocal `related_articles` frontmatter entries from the new article to the older ones, with particular attention to `[[topics/born-rule-and-the-consciousness-interface]]` (the site article) and `[[topics/falsification-roadmap-for-the-interface-model]]` (the methodological apex of the testing programme); (c) verify whether apex pages `[[apex/post-decoherence-selection-programme]]` and `[[apex/phenomenology-of-consciousness-doing-work]]` should cite the new article as the brain-internal empirical-test specification; (d) check whether `topics/the-interface-problem.md` should cite the new article in its "How would we test this?" section (if it exists); (e) honour `[[evidential-status-discipline]]` — the new article carefully distinguishes design space from extant experimental programme; cross-linking articles must not over-claim by suggesting tests are running when they are not. Estimated scope: ~300–500 words touched across 6–10 articles plus frontmatter edits. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — the brain-internal test is the precision test of "minimal"); Tenet 3 (Bidirectional Interaction — the test targets the bidirectional channel directly); methodological / falsifiability-discipline.
+- **Output**: None -- Context: Cross-review catalogue integration for new article brain-internal-born-rule-testing
 
 ### ✓ 2026-05-15: Cross-review catalogue integration for new concept page causal-consistency-constraint
 - **Type**: cross-review

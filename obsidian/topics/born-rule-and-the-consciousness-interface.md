@@ -45,6 +45,7 @@ related_articles:
   - "[[amplification-mechanisms-consciousness-physics-2026-03-18]]"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
   - "[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]"
+  - "[[brain-internal-born-rule-testing]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -189,7 +190,7 @@ Three caveats apply. First, absence of a derivation is not proof none exists —
 
 A hypothetical clean null on all experimental strands — no brain-internal coherence, no Nirvanic quantum-agent signal, continued preregistered micro-PK nulls — would foreclose Orch-OR and theories requiring macroscopic biological quantum coherence; PEAR-variant micro-PK; Keppler's zero-point-field interface; and minimum-outside-corridor models predicting effects at current sensitivity.
 
-It would not foreclose corridor dualism (predicts no signature at any sensitivity), Arana-style exponentially-suppressed Born modifications, trumping dualism, or Chalmers-McQueen Φ-collapse with sub-detectable coupling. The Map can survive a clean negative sweep by retreating to corridor or trumping readings. What it cannot do — without dishonesty — is pretend existing Born tests have already validated the corridor over minimum-outside-corridor alternatives. They have not, and given their regime, they could not.
+It would not foreclose corridor dualism (predicts no signature at any sensitivity), Arana-style exponentially-suppressed Born modifications, trumping dualism, or Chalmers-McQueen Φ-collapse with sub-detectable coupling. The Map can survive a clean negative sweep by retreating to corridor or trumping readings. What it cannot do — without dishonesty — is pretend existing Born tests have already validated the corridor over minimum-outside-corridor alternatives. They have not, and given their regime, they could not. The companion piece [[brain-internal-born-rule-testing]] lays out, mechanism by mechanism, what *plural and convergent* foreclosure would actually look like — and why no single null forecloses the strict selection-only reading by construction.
 
 ## Relation to Site Perspective
 
@@ -222,6 +223,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — Empirical outlook for the gravitational-collapse line
 - [[amplification-mechanisms-consciousness-physics-2026-03-18]] — How single-event selection might become macroscopically visible
 - [[attention-motor-planning-quantum-interface-2026-01-23]] — A proposed interface locus for Born-sensitive experiments
+- [[brain-internal-born-rule-testing]] — Mechanism-by-mechanism catalogue of what would foreclose the corridor reading
 - [[interface-formalization-void]] — What remains unformalised about the interface
 
 ## References

@@ -25,6 +25,7 @@ related_articles:
   - "[[causal-closure]]"
   - "[[terminal-lucidity-and-filter-transmission-theory]]"
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
+  - "[[brain-internal-born-rule-testing]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -186,6 +187,7 @@ Two structural responses follow. *First*, the convergent-conclusion-opposite-rea
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism for mental causation
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
 - [[testing-consciousness-collapse]] — Designing experiments to test consciousness-collapse hypotheses
+- [[brain-internal-born-rule-testing]] — Mechanism-specific catalogue of what brain-internal experiments would foreclose the corridor reading of Tenet 2
 - [[causal-closure]] — Why causal closure is not absolute at quantum indeterminacies
 - [[evolutionary-case-for-quantum-neural-effects]] — Why evolutionary logic makes quantum neural effects probable
 - [[tenets]] — The Map's foundational commitments

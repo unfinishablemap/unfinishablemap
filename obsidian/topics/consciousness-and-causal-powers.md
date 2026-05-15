@@ -33,6 +33,7 @@ related_articles:
   - "[[conservation-laws-and-mental-causation]]"
   - "[[topics/phenomenal-value-realism]]"
   - "[[quantum-measurement-and-consciousness]]"
+  - "[[brain-internal-born-rule-testing]]"
   - "[[the-interface-problem]]"
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[valence-and-conscious-selection]]"
@@ -177,7 +178,7 @@ Humans possess cognitive capacities (logical reasoning, metacognition, cumulativ
 
 ### Absence of Direct Evidence
 
-Notably, we lack direct empirical evidence that consciousness biases quantum outcomes in brains. The hypothesis is *compatible* with current evidence but not *required* by it. A physicalist can accept mental causation without accepting non-physical causal powers—by identifying mental states with neural states, mental causation becomes a subset of physical causation. On this view, any "selection" among quantum outcomes is itself a physical process, and invoking consciousness adds nothing beyond a redescription.
+Notably, we lack direct empirical evidence that consciousness biases quantum outcomes in brains. The hypothesis is *compatible* with current evidence but not *required* by it. A physicalist can accept mental causation without accepting non-physical causal powers—by identifying mental states with neural states, mental causation becomes a subset of physical causation. On this view, any "selection" among quantum outcomes is itself a physical process, and invoking consciousness adds nothing beyond a redescription. The mechanism-by-mechanism specification of what evidence *would* close this gap — and what reading of Tenet 2 each direction of negative result would constrain — is catalogued in [[brain-internal-born-rule-testing]].
 
 The Map's response: identity theories face their own difficulties. If mental states just *are* neural states, then the qualitative character of experience—the painfulness of pain, the redness of red—has no explanatory role in the causal story. The neural state does all the work, and phenomenal character is epiphenomenal in all but name. The Map's position requires the independent [[dualism]] to establish that mental causation cannot be reduced to physical causation. The causal powers framework describes *how* non-physical causation might work if dualism is true—it does not by itself prove dualism.
 
@@ -211,6 +212,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [[conservation-laws-and-mental-causation]] — Why mental causation need not violate physical conservation
 - [[the-interface-problem]] — Where and why consciousness interfaces with the physical, and how phenomenal states map to physical selections
 - [[quantum-measurement-and-consciousness]] — The measurement problem as window for mental causation
+- [[brain-internal-born-rule-testing]] — Mechanism-specific catalogue of what experiments would constrain consciousness's causal role at the quantum interface
 - [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology, and what kind of law could bridge mind and matter
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: how the phenomenology of effort, selection, and holding constitutes evidence for causal powers
 - [[the-epiphenomenalist-threat]] — Why most frameworks converge on causal impotence without a specific mechanism

@@ -37,6 +37,7 @@ related_articles:
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[born-rule-and-the-consciousness-interface]]"
+  - "[[brain-internal-born-rule-testing]]"
   - "[[causal-consistency-constraint]]"
   - "[[interface-specification-programme]]"
   - "[[framework-stage-calibration]]"
@@ -175,6 +176,7 @@ The interface problem is the Map's most significant open challenge. Partial answ
 - [[history-of-the-interaction-problem]] — Princess Elisabeth onward
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — Methods when observation is structurally limited
 - [[born-rule-and-the-consciousness-interface]] — Born-rule constraint on any selection
+- [[brain-internal-born-rule-testing]] — Mechanism-specific catalogue of what would foreclose the strict corridor reading of Tenet 2
 - [[causal-consistency-constraint]] — Torres Alegre's structural derivation: form not existence
 - [[interface-specification-programme]] — Apex synthesis
 - [[falsification-roadmap-for-the-interface-model]] — From in-principle to applicable falsifiers

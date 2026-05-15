@@ -29,6 +29,7 @@ related_articles:
   - "[[post-decoherence-selection-programme]]"
   - "[[interface-threshold]]"
   - "[[possibility-probability-slippage]]"
+  - "[[brain-internal-born-rule-testing]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -142,6 +143,7 @@ The Map treats the class hierarchy as a *menu, not a verdict*. Which class is co
 - [[interface-threshold]] — Architectural conditions for any class to operate
 - [[consciousness-bandwidth-architecture]] — Bandwidth implications across classes
 - [[possibility-probability-slippage]] — Why coherence with tenets is not evidence for a class
+- [[brain-internal-born-rule-testing]] — Mechanism-specific signatures for Classes 1–4 and what would foreclose each
 
 ## References
 

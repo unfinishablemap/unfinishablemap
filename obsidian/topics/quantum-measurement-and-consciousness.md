@@ -32,6 +32,7 @@ related_articles:
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[pragmatist-quantum-foundations-under-dualism]]"
   - "[[born-rule-and-the-consciousness-interface]]"
+  - "[[brain-internal-born-rule-testing]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
   - "[[methodology-of-consciousness-research]]"
@@ -203,6 +204,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [[qm-interpretations-beyond-many-worlds]] — Interpretation comparison
 - [[pragmatist-quantum-foundations-under-dualism]] — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is assumed
 - [[born-rule-and-the-consciousness-interface]] — Empirical status of corridor vs. Born-bending dualism at the brain interface
+- [[brain-internal-born-rule-testing]] — What experimental programme would foreclose the strict corridor reading of Tenet 2
 - [[cognitive-science-of-dualism]] — How cognitive science reinforces the first-person/third-person distinction
 - [[tenets]] — The Map's foundational commitments
 
