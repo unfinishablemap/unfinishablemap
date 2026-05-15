@@ -4,7 +4,7 @@ description: "Post-decoherence selection is the process that actualizes one outc
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-04-16T11:59:00+00:00
+ai_modified: 2026-05-15T01:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[what-consciousness-tells-us-about-physics]]"
   - "[[quantum-darwinism-and-consciousness]]"
   - "[[post-decoherence-selection-programme]]"
+  - "[[brain-internal-born-rule-testing]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

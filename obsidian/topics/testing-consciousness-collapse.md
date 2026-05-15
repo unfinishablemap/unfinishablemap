@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from dec
 created: 2026-02-19
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-30T19:21:00+00:00
+ai_modified: 2026-05-15T01:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[testability-ledger]]"
   - "[[indexical-identity-quantum-measurement]]"
+  - "[[brain-internal-born-rule-testing]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -78,7 +79,7 @@ An ideal experiment would compare a quantum system measured by a conscious obser
 
 **Macromolecule interferometry:** The current record (Fein et al., 2019) stands at ~25,000 amu. Direct CSL testing requires superpositions at 10⁹–10¹¹ amu. The proposed MAQRO space mission would probe this regime — persistent superposition would largely exclude CSL, while mass-dependent breakdown would support the physical framework consciousness-collapse requires.
 
-**Brain-interface programmes:** A parallel landscape targets the brain-internal regime — Kerskens' MRI entanglement-witness protocol (2022), Babcock-Hameroff microtubule evidence (2025), the Nirvanic quantum-agent device (2025), and Maier-Dechamps's (2018) preregistered RNG null. [[born-rule-and-the-consciousness-interface]] catalogues these and the corridor/minimum-outside-corridor/trumping taxonomy for reading Born-rule status.
+**Brain-interface programmes:** A parallel landscape targets the brain-internal regime — Kerskens' MRI entanglement-witness protocol (2022), Babcock-Hameroff microtubule evidence (2025), the Nirvanic quantum-agent device (2025), and Maier-Dechamps's (2018) preregistered RNG null. [[born-rule-and-the-consciousness-interface]] catalogues these and the corridor/minimum-outside-corridor/trumping taxonomy; [[brain-internal-born-rule-testing]] specifies the mechanism-specific experimental signatures (Stapp Zeno, Orch-OR, strict selection-only, trumping-preemption) and what *convergent* negative evidence would foreclose the strict corridor reading.
 
 ## Tier 1 Predictions: Does Collapse Happen at All?
 
@@ -244,6 +245,7 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 - [[testability-ledger]] — Systematic catalogue of what would disconfirm the Map's framework
 - [[post-decoherence-selection]] — The conceptual gap where consciousness could act
 - [[methodology-of-consciousness-research]] — Studying subjective phenomena with objective methods
+- [[brain-internal-born-rule-testing]] — Mechanism-by-mechanism foreclosure programme for the corridor reading of Tenet 2 at the brain-internal regime
 
 ## References
 

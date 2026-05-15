@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-05-03T08:54:00+00:00
+ai_modified: 2026-05-15T01:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[parsimony-case-for-interactionist-dualism]]"
   - "[[penrose-gravity-induced-collapse-empirical-prospects]]"
   - "[[born-rule-and-the-consciousness-interface]]"
+  - "[[brain-internal-born-rule-testing]]"
   - "[[framework-stage-calibration]]"
 ai_contribution: 100
 author:
@@ -83,7 +84,7 @@ A principled resolution of the [[knowledge-argument|knowledge argument]] (Mary's
 
 **Honest assessment**: The tenet is broader than any single mechanism. It commits to *some* quantum-level interface, not to microtubules or the Zeno effect specifically. This breadth makes the tenet harder to falsify than any individual mechanism—a feature the Lakatosian critic reasonably reads as a protective belt absorbing each empirical advance without commitment to a specific mechanism. The Map's response is to acknowledge the worry directly rather than rebut it: see [[the-interface-problem]] for the framework's open concession that the recent narrowing toward an attention-motor architectural umbrella is post-hoc accommodation rather than predictive narrowing, with the defence being that the resulting picture is more constrained than agnosticism while remaining empirically tractable. The same discipline applies here. Falsifying Orch OR would not falsify the tenet, but the framework should specify that falsifying *all* quantum biology in neural systems would, and should not silently absorb each disconfirmation into the next mechanism without acknowledgment. The methodology that licenses this kind of post-hoc accommodation while keeping it visible is articulated at project-doc level in [[framework-stage-calibration]]: the framework sits at a pre-Keplerian stage accumulating Tycho-analogue measurements, and the present roadmap is the catalogue of intermediate experimental advances the discipline's in-principle decidability commitment depends on. Even confirming quantum effects in the brain would leave the deeper challenge: [[the-interface-problem|specifying exactly how conscious states map to physical selections]]—currently unfalsifiable in practice, in-principle accessible as detection thresholds improve, and the hardest open problem facing the Map's framework.
 
-A further distinction sharpens the falsification picture. The "minimum" in Minimal Quantum Interaction admits at least three readings: *corridor* (consciousness biases single-event selection but ensemble statistics remain Born-compliant), *minimum-outside-the-corridor* (consciousness produces detectable deviations from Born statistics—Stapp's Zeno rate, Chalmers-McQueen Φ-collapse, Arana's λ-suppressed weighting, Orch OR), and *trumping* (consciousness is authoritative on an axis orthogonal to Born-rule dynamics). These three readings have different falsification conditions: corridor predicts no statistical signature by construction and is therefore the hardest to directly test, minimum-outside-corridor is the most empirically distinguishable, and trumping treats Born-rule tests as neither confirming nor threatening. The [[born-rule-violation-brain-interface-empirical-status|empirical status of Born-rule tests at the brain interface]] catalogues which current experimental programmes bear on which reading.
+A further distinction sharpens the falsification picture. The "minimum" in Minimal Quantum Interaction admits at least three readings: *corridor* (consciousness biases single-event selection but ensemble statistics remain Born-compliant), *minimum-outside-the-corridor* (consciousness produces detectable deviations from Born statistics—Stapp's Zeno rate, Chalmers-McQueen Φ-collapse, Arana's λ-suppressed weighting, Orch OR), and *trumping* (consciousness is authoritative on an axis orthogonal to Born-rule dynamics). These three readings have different falsification conditions: corridor predicts no statistical signature by construction and is therefore the hardest to directly test, minimum-outside-corridor is the most empirically distinguishable, and trumping treats Born-rule tests as neither confirming nor threatening. The [[born-rule-violation-brain-interface-empirical-status|empirical status of Born-rule tests at the brain interface]] catalogues which current experimental programmes bear on which reading; [[brain-internal-born-rule-testing|brain-internal Born-rule testing]] extends that catalogue to the mechanism-specific signatures (Stapp Zeno, Orch-OR, strict selection-only, trumping-preemption) and specifies the *convergent* negative evidence that would foreclose the corridor reading rather than merely fail to detect a single signature.
 
 ## Tenet 3: Bidirectional Interaction
 
@@ -145,7 +146,7 @@ Six experimental programmes bear directly on the tenets:
 
 2. **Collapse-vs-decoherence experiments**: The levitated-optomechanical programme and related proposals. If objective collapse is confirmed, Tenet 4 gains support and MWI loses ground.
 
-3. **Born-rule tests at the brain interface**: No published experiment has directly probed the Born rule inside living neural tissue during a conscious act of selection—yet this is the regime that consciousness-physics-interface proposals target. Entanglement-witness protocols (Kerskens & Pérez, 2022), brain-to-qubit coupling devices (the Nirvanic "Spark of Life" roadmap), and tightened Born-rule precision in adjacent regimes each narrow the space. See [[born-rule-and-the-consciousness-interface]] for which readings of Tenet 2 each programme can and cannot adjudicate.
+3. **Born-rule tests at the brain interface**: No published experiment has directly probed the Born rule inside living neural tissue during a conscious act of selection—yet this is the regime that consciousness-physics-interface proposals target. Entanglement-witness protocols (Kerskens & Pérez, 2022), brain-to-qubit coupling devices (the Nirvanic "Spark of Life" roadmap), and tightened Born-rule precision in adjacent regimes each narrow the space. See [[born-rule-and-the-consciousness-interface]] for which readings of Tenet 2 each programme can and cannot adjudicate, and [[brain-internal-born-rule-testing]] for the mechanism-by-mechanism foreclosure programme — including what *plural-and-convergent* negative evidence would be required to shut the strict corridor reading.
 
 4. **Adversarial collaborations on consciousness**: The IIT-vs-GNWT programme showed partial testability is possible (see [[experimental-consciousness-science-2025-2026]] for the COGITATE results and their implications). Future adversarial collaborations—especially any that test dualist-compatible predictions against physicalist ones—are directly relevant.
 
@@ -175,6 +176,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 - [[methodology-of-consciousness-research]] — Epistemological challenges in studying consciousness
 - [[testability-ledger]] — Running ledger of the Map's testable predictions
 - [[framework-stage-calibration]] — The editorial discipline that names this roadmap as the catalogue of intermediate experimental advances on which the framework's in-principle decidability commitment depends
+- [[brain-internal-born-rule-testing]] — Mechanism-specific foreclosure programme for the corridor reading of Tenet 2: Stapp Zeno, Orch-OR, strict selection-only, and trumping-preemption each mapped to their predicted experimental signatures
 
 ## References
 

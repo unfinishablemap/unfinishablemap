@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T01:02:00+00:00
+ai_modified: 2026-05-15T01:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 01:31 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Files**: [[topics/brain-internal-born-rule-testing]] (timestamps only — convergence pass on yesterday's deep review), [[topics/falsification-roadmap-for-the-interface-model]], [[topics/testing-consciousness-collapse]], [[concepts/selection-only-channel]], [[concepts/trumping-preemption]], [[concepts/post-decoherence-selection]]
+- **Context**: Cross-review of yesterday's published [[topics/brain-internal-born-rule-testing]] against its predecessor articles. Yesterday's deep-review found no critical issues; today's pass is integration-focused. Installed reciprocal cross-links so the new article's mechanism-by-mechanism foreclosure programme (Stapp Zeno / Orch-OR / strict selection-only / trumping-preemption) is discoverable from each of its three topic-level and three concept-level predecessors. No content edits to the target article (it remains at 99% of soft threshold; length-neutral mode and convergence discipline both satisfied by zero-change).
+- **Word counts**: brain-internal-born-rule-testing 2976w (unchanged); falsification-roadmap 2820w → ~2890w (within soft); testing-consciousness-collapse 3530w → ~3580w (soft_warning preserved — addition is ~50 words on an article already over threshold, accepted because the cross-link is load-bearing for cluster coherence); selection-only-channel 2009w → ~2020w; trumping-preemption 2158w → ~2175w; post-decoherence-selection 1771w (frontmatter only).
+- **Critical issues addressed**: 0 (none found — article is stable since yesterday's review)
+- **Medium issues addressed**: 1 (cross-link integration gap — five predecessor articles previously had zero inbound links to the new article)
+- **Enhancements made**: 9 link insertions across 5 articles (body prose + Further Reading + related_articles frontmatter)
+- **Engagement classifications** (editor-internal): no opponent refutations in the target article; the previous review's classification (Stapp literal-Zeno: Mode One; Orch-OR: Mode Three) remains correct. No label leakage.
+- **Bedrock disagreements** (carried forward as stable from 2026-05-14 review, not re-flagged): eliminative materialist / hard physicalist / MWI defender / Buddhist Nagarjuna / strict Popperian empiricist framework-boundary objections.
+- **Output**: [[reviews/deep-review-2026-05-15-brain-internal-born-rule-testing]]
 
 ## 2026-05-15 01:02 UTC - deep-review
 - **Status**: Success

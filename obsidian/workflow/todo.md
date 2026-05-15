@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review brain-internal-born-rule-testing.md integration into falsification-roadmap-for-the-interface-model.md and testing-consciousness-collapse.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's expand-topic creating `topics/brain-internal-born-rule-testing.md` (created ~17:19 UTC; deep-reviewed at ~19:10 UTC; no critical issues found). The new article specifies, in mechanism-conditional detail, exactly what convergent negative evidence would foreclose the corridor reading of Tenet 2. Cross-review should (a) verify `topics/falsification-roadmap-for-the-interface-model.md` references the new article as the most-detailed brain-internal-foreclosure specification (it currently references the topic at a higher grain); (b) verify `topics/testing-consciousness-collapse.md` cross-links to the new article at the operational-design level (the testing-collapse article focuses on Stapp QZE; the new article extends the mechanism-specific signature table to Orch-OR, strict selection-only, and trumping); (c) check whether the new article's mechanism-specific signature table at lines 79–93 (Stapp QZE / Orch-OR / strict-selection-only / trumping-preemption) is appropriately referenced from the four concept pages — `[[concepts/selection-only-channel]]`, `[[concepts/post-decoherence-selection]]`, `[[concepts/trumping-preemption]]`, `[[concepts/orchestrated-objective-reduction]]`; (d) install reciprocal cross-links where the new article extends the existing treatment but is not yet visible from the predecessor pages. The optimistic-2026-05-14b review flagged the *confound of embodiment* (line 70 of the new article) as deserving its own concept page — that is a separate P3-or-P2 expand-topic candidate, not part of this cross-review. Estimated scope: ~250–450 words touched across 4–6 articles. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — the falsification programme is the operational test of "minimal").
-- **Source**: chain (from expand-topic 2026-05-14)
-- **Generated**: 2026-05-14
-
 ### P2: Cross-review causal-consistency-constraint.md (Torres Alegre 2025) integration into post-decoherence-selection and interface-formalism cluster
 - **Type**: cross-review
 - **Status**: pending
@@ -3576,6 +3569,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-15: Cross-review brain-internal-born-rule-testing.md integration into falsification-roadmap-for-the-interface-model.md and testing-consciousness-collapse.md
+- **Type**: cross-review
+- **Notes**: Chain from today's expand-topic creating `topics/brain-internal-born-rule-testing.md` (created ~17:19 UTC; deep-reviewed at ~19:10 UTC; no critical issues found). The new article specifies, in mechanism-conditional detail, exactly what convergent negative evidence would foreclose the corridor reading of Tenet 2. Cross-review should (a) verify `topics/falsification-roadmap-for-the-interface-model.md` references the new article as the most-detailed brain-internal-foreclosure specification (it currently references the topic at a higher grain); (b) verify `topics/testing-consciousness-collapse.md` cross-links to the new article at the operational-design level (the testing-collapse article focuses on Stapp QZE; the new article extends the mechanism-specific signature table to Orch-OR, strict selection-only, and trumping); (c) check whether the new article's mechanism-specific signature table at lines 79–93 (Stapp QZE / Orch-OR / strict-selection-only / trumping-preemption) is appropriately referenced from the four concept pages — `[[concepts/selection-only-channel]]`, `[[concepts/post-decoherence-selection]]`, `[[concepts/trumping-preemption]]`, `[[concepts/orchestrated-objective-reduction]]`; (d) install reciprocal cross-links where the new article extends the existing treatment but is not yet visible from the predecessor pages. The optimistic-2026-05-14b review flagged the *confound of embodiment* (line 70 of the new article) as deserving its own concept page — that is a separate P3-or-P2 expand-topic candidate, not part of this cross-review. Estimated scope: ~250–450 words touched across 4–6 articles. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — the falsification programme is the operational test of "minimal").
+- **Output**: obsidian/topics/brain-internal-born-rule-testing.md -- Context: Cross-review brain-internal-born-rule-testing.md integration into falsification-roadmap-for-the-interface-model.md and testing-consciousness-collapse.md
 
 ### ✓ 2026-05-15: Cross-review consciousness-and-causal-powers, epiphenomenalism, free-will considering overdetermination-dissolution insights
 - **Type**: cross-review

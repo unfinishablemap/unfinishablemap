@@ -4,7 +4,7 @@ description: "Schaffer decouples causal authority from sufficiency; the Map trea
 created: 2026-04-22
 modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-04-23T11:25:00+00:00
+ai_modified: 2026-05-15T01:31:00+00:00
 last_deep_review: 2026-04-22T21:38:00+00:00
 draft: false
 topics:
@@ -26,6 +26,7 @@ related_articles:
   - "[[objections-to-interactionism]]"
   - "[[interface-formalization-void]]"
   - "[[tenets]]"
+  - "[[brain-internal-born-rule-testing]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -98,6 +99,7 @@ The Map speculates — more cautiously than Saad does — that trumping is best 
 - [[interface-formalization-void]]
 - [[four-quadrant-dualism-taxonomy]]
 - [[tenets]]
+- [[brain-internal-born-rule-testing]] — Foreclosure programme for the trumping reading of Tenet 2: why a complete classical-mechanistic account of authoritative selection would be required to refute it
 
 ## References
 
