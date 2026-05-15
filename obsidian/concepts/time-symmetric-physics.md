@@ -4,7 +4,7 @@ description: "Fundamental physics equations work equally well forward and backwa
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-05-15T04:31:00+00:00
+ai_modified: 2026-05-15T07:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[philosophy-of-time]]"
   - "[[decoherence]]"
   - "[[atemporal-causation]]"
+  - "[[weak-measurement-and-post-selection]]"
 related_articles:
   - "[[tenets]]"
   - "[[time-symmetric-selection-mechanism]]"
@@ -28,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-03-16T04:47:00+00:00
+last_deep_review: 2026-05-15T07:11:00+00:00
 ---
 
 Time-symmetric physics refers to the property of fundamental physical laws working equally well when run backward in time. The Schrödinger equation, Maxwell's equations, and general relativity are all time-reversal invariant—given any solution, reversing the direction of time produces another valid solution. This symmetry has profound implications: if fundamental physics doesn't distinguish past from future, the apparent "arrow of time" we experience must emerge from something other than basic physical law.
@@ -102,7 +103,7 @@ Aharonov, Bergmann, and Lebowitz (1964) developed the Two-State Vector Formalism
 - A forward-evolving state vector (from initial preparation)
 - A backward-evolving state vector (from final post-selection)
 
-Neither vector alone provides complete information. Weak measurements—gentle probes that don't fully collapse the system—can reveal "weak values" inaccessible to standard measurement. These weak values can lie outside the eigenvalue spectrum, suggesting that the backward-evolving vector contributes genuine physical content.
+Neither vector alone provides complete information. [[weak-measurement-and-post-selection|Weak measurements]]—gentle probes that don't fully collapse the system—can reveal "weak values" inaccessible to standard measurement. These weak values can lie outside the eigenvalue spectrum, suggesting that the backward-evolving vector contributes genuine physical content.
 
 TSVF makes [[retrocausality]] mathematically explicit rather than interpretively optional. The formalism works; whether to take its retrocausal implications seriously is a philosophical choice.
 
@@ -174,6 +175,7 @@ Time-symmetric physics connects to the Map's [[tenets]] in several ways:
 
 - [[retrocausality]] — Backward causation and the Libet resolution
 - [[atemporal-causation]] — Causation outside temporal sequence, grounded in time-symmetric frameworks
+- [[weak-measurement-and-post-selection]] — How TSVF gets empirical traction through weak values and post-selected ensembles
 - [[presentiment-and-retrocausality]] — Distinguishing physics-based retrocausality from contested parapsychological claims
 - [[collapse-and-time]] — How collapse introduces temporal asymmetry
 - [[time-symmetric-selection-mechanism]] — Consciousness selecting through atemporal constraint-satisfaction
