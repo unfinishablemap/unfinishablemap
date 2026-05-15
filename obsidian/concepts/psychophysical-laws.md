@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-05-01T07:25:00+00:00
+ai_modified: 2026-05-15T07:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -218,7 +218,7 @@ Any coupling law faces the [[decoherence]] objection: quantum superpositions in 
 
 ## Testing the Coupling Law
 
-**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes. Bösch et al. (2006) found small positive effects consistent with publication bias; Maier and Dechamps (2018), using preregistered Bayesian methodology, report strong evidence for the null. If coupling restricts selection to attention-controlled neural systems, RNG experiments should fail by design — and [[born-rule-violation-brain-interface-empirical-status|corridor dualism]] predicts no statistical signature at any sensitivity. The empirical state of Born-rule testing at the brain interface is catalogued in that companion article.
+**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes. Bösch et al. (2006) found small positive effects consistent with publication bias; Maier and Dechamps (2018), using preregistered Bayesian methodology, report strong evidence for the null. If coupling restricts selection to attention-controlled neural systems, RNG experiments should fail by design — and [[born-rule-and-the-consciousness-interface|corridor dualism]] predicts no statistical signature at any sensitivity. The empirical state of Born-rule testing at the brain interface is catalogued in that companion article.
 
 **A better test**: Measure whether conscious effort correlates with neural pattern stability in attention networks. If Stapp's Zeno mechanism is real, effort should map to pattern persistence.
 

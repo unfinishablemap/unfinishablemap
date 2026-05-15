@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-05-15 04:31:00+00:00
+ai_modified: 2026-05-15 07:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[philosophy-of-time]]'
 - '[[decoherence]]'
 - '[[atemporal-causation]]'
+- '[[weak-measurement-and-post-selection]]'
 created: 2026-02-01
 date: &id001 2026-02-02
 description: Fundamental physics equations work equally well forward and backward
@@ -20,7 +21,7 @@ description: Fundamental physics equations work equally well forward and backwar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-16 04:47:00+00:00
+last_deep_review: 2026-05-15 07:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,7 +106,7 @@ Aharonov, Bergmann, and Lebowitz (1964) developed the Two-State Vector Formalism
 - A forward-evolving state vector (from initial preparation)
 - A backward-evolving state vector (from final post-selection)
 
-Neither vector alone provides complete information. Weak measurements—gentle probes that don't fully collapse the system—can reveal "weak values" inaccessible to standard measurement. These weak values can lie outside the eigenvalue spectrum, suggesting that the backward-evolving vector contributes genuine physical content.
+Neither vector alone provides complete information. [Weak measurements](/concepts/weak-measurement-and-post-selection/)—gentle probes that don't fully collapse the system—can reveal "weak values" inaccessible to standard measurement. These weak values can lie outside the eigenvalue spectrum, suggesting that the backward-evolving vector contributes genuine physical content.
 
 TSVF makes [retrocausality](/concepts/retrocausality/) mathematically explicit rather than interpretively optional. The formalism works; whether to take its retrocausal implications seriously is a philosophical choice.
 
@@ -177,6 +178,7 @@ Time-symmetric physics connects to the Map's [tenets](/tenets/) in several ways:
 
 - [retrocausality](/concepts/retrocausality/) — Backward causation and the Libet resolution
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence, grounded in time-symmetric frameworks
+- [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/) — How TSVF gets empirical traction through weak values and post-selected ensembles
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Distinguishing physics-based retrocausality from contested parapsychological claims
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — Consciousness selecting through atemporal constraint-satisfaction

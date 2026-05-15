@@ -4,7 +4,7 @@ description: "An interactionist-dualist reading of the human-other-animal cognit
 created: 2026-05-05
 modified: 2026-05-08
 human_modified: null
-ai_modified: 2026-05-08T08:16:00+00:00
+ai_modified: 2026-05-15T07:31:00+00:00
 last_deep_review: 2026-05-08T08:16:00+00:00
 draft: false
 topics:
@@ -102,7 +102,7 @@ This is the discipline [[evidential-status-discipline]] articulates at the catal
 
 Several measurements would discriminate interface-efficacy and brain-side scaling readings if they could be operationalised. None is currently feasible. Naming them specifies what work would need to happen for the readings to pull apart in evidence rather than only interpretation:
 
-- **Born-rule deviation patterns scaling with phylogenetic intelligence rank**. If interface efficacy varies across species and the interface acts via probability bias on quantum-influenced neural events, the pattern of deviation from Born-rule expectation — were it ever measurable in vivo — would scale with intelligence rank rather than with cortical neuron count. The Map's [[born-rule-violation-brain-interface-empirical-status|standing-status note]] documents that the human case alone is currently null; cross-species comparative data does not exist at all.
+- **Born-rule deviation patterns scaling with phylogenetic intelligence rank**. If interface efficacy varies across species and the interface acts via probability bias on quantum-influenced neural events, the pattern of deviation from Born-rule expectation — were it ever measurable in vivo — would scale with intelligence rank rather than with cortical neuron count. The Map's [[born-rule-and-the-consciousness-interface|standing-status note]] documents that the human case alone is currently null; cross-species comparative data does not exist at all.
 - **Cross-species GNW bandwidth and selection-rate comparisons**. Workspace operating-rate measurements across primates, cetaceans, and corvids during analogous cognitive tasks would test whether the bandwidth axis tracks cognitive grade or substrate.
 - **Volitional/reflexive task contrasts in neural-coherence-domain signatures**. Interface-mediated processing should show coherence-domain signatures absent in matched reflexive control tasks, with the contrast scaling across species along the cognitive gradient.
 - **Candidate-set-diversity correlates of reportable content**. If candidate-type coupling is the variable, then the diversity of neural-pattern types whose firing precedes a reportable cognitive operation should differ across species during analogous tasks. Multi-unit recording in PFC during analogical-reasoning tasks comparing humans, macaques, and corvids would in principle test this; the methodological barriers are non-trivial.

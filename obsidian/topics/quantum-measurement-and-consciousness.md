@@ -4,7 +4,7 @@ description: "The measurement problem and the hard problem share an identical lo
 created: 2026-02-01
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-05-15T04:31:00+00:00
+ai_modified: 2026-05-15T07:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -111,7 +111,7 @@ The [[causal-closure|causal closure]] principle—every physical event has a suf
 
 **No energy required.** Selecting among outcomes need not inject energy. In certain scenarios, possible outcomes are equi-energetic, and biasing toward one doesn't violate conservation laws. (See [[conservation-laws-and-mental-causation]] for the detailed argument.)
 
-**Statistical compatibility.** On the Map's corridor-dualist working hypothesis, selection preserves Born statistics over ensembles while determining first-person outcomes. Whether Born-bending variants are required instead is a [[born-rule-violation-brain-interface-empirical-status|live empirical question]].
+**Statistical compatibility.** On the Map's corridor-dualist working hypothesis, selection preserves Born statistics over ensembles while determining first-person outcomes. Whether Born-bending variants are required instead is a [[born-rule-and-the-consciousness-interface|live empirical question]].
 
 **Genuine indeterminacy.** Unlike classical "randomness" (which might be deterministic chaos), [[quantum-indeterminacy-free-will|quantum indeterminacy]] appears fundamental.
 

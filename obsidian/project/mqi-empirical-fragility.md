@@ -4,7 +4,7 @@ description: "The Minimal Quantum Interaction tenet depends on a physics gap tha
 created: 2026-05-13
 modified: 2026-05-13
 human_modified: null
-ai_modified: 2026-05-13T21:22:00+00:00
+ai_modified: 2026-05-15T07:31:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -19,7 +19,7 @@ related_articles:
   - "[[falsification-roadmap-for-the-interface-model]]"
   - "[[penrose-gravity-induced-collapse-empirical-prospects]]"
   - "[[born-rule-and-the-consciousness-interface]]"
-  - "[[born-rule-violation-brain-interface-empirical-status]]"
+  - "[[brain-internal-born-rule-testing]]"
   - "[[spontaneous-collapse-theories]]"
   - "[[measurement-problem]]"
   - "[[decoherence]]"
@@ -58,7 +58,7 @@ The discipline maintains an explicit inventory of physics developments that woul
 
 **4. No quantum coherence survives in neural systems at any relevant scale.** Tegmark's decoherence-time calculations for neural microtubules (10⁻¹³ to 10⁻²⁰ seconds) versus Hameroff's group's revised estimates (10⁻⁵ to 10⁻⁴ seconds) define the active dispute. The Map's [[apex/post-decoherence-selection-programme|post-decoherence-selection]] strategy reduces but does not eliminate the dependence: even post-decoherence selection requires that *some* quantum-level indeterminacy persists at neural scales at the moment of selection. If a definitive result established that neural systems are effectively classical at every timescale at which selection could matter, the gap would close from the biological side rather than the physics side. The closure would not refute Tenet 2 in principle (MQI does not commit to neural-tissue mechanism specifically) but would foreclose the most natural site at which the tenet's operating space could be located.
 
-**5. Born-rule deviations are ruled out at the brain interface.** Recent preregistered work has already partially foreclosed one visible branch — large, unaided, intention-driven Born-rule violation of the PEAR variety (Maier & Dechamps 2018). The catalogue's response (see [[born-rule-violation-brain-interface-empirical-status]]) is that Tenet 2 does not require large-signal effects; corridor-level biasing or suppressed deviations below current sensitivity remain compatible. The fragility scenario is that improving experimental sensitivity systematically rules out *all* readings of MQI — corridor, minimum-outside-corridor, and trumping — across the relevant parameter space. The corridor reading is the hardest to falsify by construction (it predicts no statistical signature), but improving sensitivity narrows the alternative readings' operating space; if only the corridor reading survives a generation of negative results, the framework's empirical content has been substantially eroded even when it remains technically consistent with the data.
+**5. Born-rule deviations are ruled out at the brain interface.** Recent preregistered work has already partially foreclosed one visible branch — large, unaided, intention-driven Born-rule violation of the PEAR variety (Maier & Dechamps 2018). The catalogue's response (see [[born-rule-and-the-consciousness-interface]] and [[brain-internal-born-rule-testing]]) is that Tenet 2 does not require large-signal effects; corridor-level biasing or suppressed deviations below current sensitivity remain compatible. The fragility scenario is that improving experimental sensitivity systematically rules out *all* readings of MQI — corridor, minimum-outside-corridor, and trumping — across the relevant parameter space. The corridor reading is the hardest to falsify by construction (it predicts no statistical signature), but improving sensitivity narrows the alternative readings' operating space; if only the corridor reading survives a generation of negative results, the framework's empirical content has been substantially eroded even when it remains technically consistent with the data.
 
 The inventory is not exhaustive — it is the catalogue's working list of *named* narrowing scenarios. The list is meant to be added to when new physics developments become relevant, removed from when scenarios become moot, and audited at deep-review time when an article makes MQI-dependent claims.
 
@@ -106,7 +106,8 @@ The discipline serves the Map's primary audience — LLMs fetching pages on beha
 - [[direct-refutation-discipline]] — the methodological cousin at reasoning-mode level; foreclosure-by-gap-closure is structurally distinct from the four direct-refutation modes and warrants its own treatment
 - [[falsification-roadmap-for-the-interface-model]] — the article catalogue of what would falsify each tenet; the present discipline catalogues what would foreclose them by gap-closure
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — the worked example of how a specific physics development (the 2021 Gran Sasso DP falsification) narrowed the gap without foreclosing the framework; the article's "modified version survives" stance is the kind of move the discipline tracks
-- [[born-rule-violation-brain-interface-empirical-status]] — the worked example of how empirical sensitivity at the brain interface constrains MQI's readings; the article's three-reading taxonomy (corridor, minimum-outside-corridor, trumping) is the unit the discipline tracks at the Born-rule layer
+- [[born-rule-and-the-consciousness-interface]] — the worked example of how empirical sensitivity at the brain interface constrains MQI's readings; the article's three-reading taxonomy (corridor, minimum-outside-corridor, trumping) is the unit the discipline tracks at the Born-rule layer
+- [[brain-internal-born-rule-testing]] — the mechanism-by-mechanism companion article cataloguing what plural-and-convergent negative evidence would be required to foreclose each reading
 - [[apex/post-decoherence-selection-programme]] — the apex article articulating the Map's strongest current MQI-instantiation; the empirical-fragility discipline's audit lives in dialogue with this programme's own concession that "empirical risk has been concentrated into a narrower band"
 - [[the-interface-problem]] — the topic article articulating the specification gap MQI inherits; the present discipline locates the specification gap inside the broader empirical-fragility frame
 - [[measurement-problem]] — the concept article whose unresolved status is the operating space MQI presupposes

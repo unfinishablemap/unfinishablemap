@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T07:11:00+00:00
+ai_modified: 2026-05-15T07:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 07:31 UTC - deep-review (stale-link redirect sweep)
+- **Status**: Success
+- **Scope**: Redirect all live obsidian content references from the archived `[[born-rule-violation-brain-interface-empirical-status]]` (archived 2026-05-13) to its canonical coalesced successor `[[born-rule-and-the-consciousness-interface]]`.
+- **Files modified** (9):
+  - [[topics/consciousness-and-probability-interpretation]] — 1 body link
+  - [[topics/pragmatist-quantum-foundations-and-the-agent]] — 2 body links
+  - [[topics/quantum-measurement-and-consciousness]] — 1 body link
+  - [[topics/falsification-roadmap-for-the-interface-model]] — 1 citation (References § entry 10) rewritten to canonical-successor citation form
+  - [[topics/interface-efficacy-and-the-cognitive-gap]] — 1 body link
+  - [[topics/consciousness-and-the-structure-of-scientific-revolutions]] — 1 body link, 1 Further Reading entry
+  - [[concepts/psychophysical-laws]] — 1 body link
+  - [[concepts/stapp-quantum-mind]] — 1 body link
+  - [[project/mqi-empirical-fragility]] — 1 frontmatter related_articles entry, 1 body reference, 1 Further Reading entry
+- **Total redirects**: 11 across 9 files (plus 2 cross-link additions of `[[brain-internal-born-rule-testing]]` as companion in `mqi-empirical-fragility.md` body and Further Reading)
+- **Display-text discipline**: all visible prose preserved verbatim; only link targets changed (except the one citation rewrite in `falsification-roadmap-for-the-interface-model.md`, which was updated to match the canonical-successor citation form already used in `brain-internal-born-rule-testing.md` and `causal-consistency-constraint.md`).
+- **NOT modified** (research-note slug, not topic slug — file still exists): `[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]` references at `topics/mathematical-structure-of-the-consciousness-physics-interface.md`, `topics/four-quadrant-dualism-taxonomy.md`, `topics/brain-internal-born-rule-testing.md`, `topics/born-rule-and-the-consciousness-interface.md`. Also not modified: the `coalesced_from` historical metadata in `born-rule-and-the-consciousness-interface.md` (intentional provenance trace).
+- **Length impact**: length-neutral wikilink swaps; +29 words total in `mqi-empirical-fragility.md` Further Reading from the added `brain-internal-born-rule-testing` companion line.
+- **Output**: [[reviews/deep-review-2026-05-15d-born-rule-stale-link-redirect]]
 
 ## 2026-05-15 07:11 UTC - deep-review
 - **Status**: Success

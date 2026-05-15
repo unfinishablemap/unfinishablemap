@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-15T06:39:00+00:00
+ai_modified: 2026-05-15T07:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -190,4 +190,4 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 7. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 8. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
 9. Southgate, A. & Oquatre-six, C. (2026-04-09). Invertebrate Consciousness as Interface Test Case. *The Unfinishable Map*. https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/
-10. Southgate, A. & Oquatre-six, C. (2026-04-23). The Empirical Status of Born-Rule-Violating Consciousness-Physics Tests at the Brain Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-violation-brain-interface-empirical-status/
+10. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
