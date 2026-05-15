@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-14
 human_modified:
-ai_modified: 2026-05-14T05:04:00+00:00
+ai_modified: 2026-05-15T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[delegatory-causation]]"
   - "[[psychophysical-laws]]"
   - "[[consciousness-physics-interface-formalism]]"
+  - "[[causal-consistency-constraint]]"
 related_articles:
   - "[[tenets]]"
   - "[[probability-problem-in-many-worlds]]"
@@ -124,7 +125,7 @@ Two features resist purely mathematical-realist redescription. First, the deform
 
 ## The Causal Consistency Constraint
 
-Torres Alegre (2025) showed that within generalised probabilistic theories satisfying purification, the Born rule is the *only* probability assignment consistent with no-signalling. Nonlinear deviations would enable superluminal communication via quantum steering. The result assumes probabilistic structure and derives the rule's *form*, not its existence.
+The [[causal-consistency-constraint|causal consistency constraint]] (Torres Alegre 2025) shows that within generalised probabilistic theories satisfying purification, the Born rule is the *only* probability assignment consistent with no-signalling. Nonlinear deviations would enable superluminal communication via quantum steering. The result assumes probabilistic structure and derives the rule's *form*, not its existence.
 
 For the interface interpretation, this is illuminating. If consciousness modulates quantum outcomes, it *must* follow the Born rule — any deviation would enable superluminal signalling, inconsistent with [[tenets#^minimal-quantum-interaction|minimal interaction]]. The Born rule is what relativistic causality *requires* of any agent — physical or non-physical — that participates in measurement outcomes.
 
@@ -208,6 +209,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 
 - [[mathematical-structure-of-the-consciousness-physics-interface]] — The mathematical corridor
 - [[consciousness-physics-interface-formalism]] — Five non-negotiable coupling constraints
+- [[causal-consistency-constraint]] — Torres Alegre's no-signalling derivation of the Born form
 - [[quantum-probability-consciousness]] — The Born rule as interface structure
 - [[probability-problem-in-many-worlds]] — The Born rule gap at its widest
 - [[many-worlds-argument|Against Many-Worlds]] — Cumulative case against MWI

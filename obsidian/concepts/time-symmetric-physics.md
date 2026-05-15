@@ -4,7 +4,7 @@ description: "Fundamental physics equations work equally well forward and backwa
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-16T04:47:00+00:00
+ai_modified: 2026-05-15T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[time-symmetric-selection-mechanism]]"
   - "[[time-collapse-and-agency]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
+  - "[[causal-consistency-constraint]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

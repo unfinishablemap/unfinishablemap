@@ -4,8 +4,8 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-15T00:01:00+00:00
-last_deep_review: 2026-05-15T00:01:00+00:00
+ai_modified: 2026-05-15T04:31:00+00:00
+last_deep_review: 2026-05-15T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,6 +39,7 @@ related_articles:
   - "[[the-epiphenomenalist-threat]]"
   - "[[volitional-control]]"
   - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
+  - "[[causal-consistency-constraint]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -82,7 +83,7 @@ This preserves [[conservation-laws-and-mental-causation|conservation laws]]—an
 
 ### The Probabilistic Constraint
 
-[[quantum-probability-consciousness|Quantum mechanics provides probabilities, not certainties]]. Even if consciousness biases outcomes, it operates within probabilistic bounds. You cannot guarantee an extremely unlikely quantum outcome simply by wanting it strongly enough. The causal power is real but operates through shifting probability distributions, not deterministic control.
+[[quantum-probability-consciousness|Quantum mechanics provides probabilities, not certainties]]. Even if consciousness biases outcomes, it operates within probabilistic bounds. You cannot guarantee an extremely unlikely quantum outcome simply by wanting it strongly enough. The causal power is real but operates through shifting probability distributions, not deterministic control. The [[causal-consistency-constraint|causal consistency constraint]] (Torres Alegre 2025) shows the form of those bounds is structurally fixed for any interface theory: under purification, no-signalling forces the Born form, so a corridor-respecting consciousness preserves Born statistics by construction while minimum-outside-corridor proposals must show their deviation is signalling-safe.
 
 This might explain why voluntary action feels effortful rather than automatic—consciousness is working to shift probabilities in neural systems where countless quantum events create statistical noise. Success is not guaranteed; it requires sustained effort and favourable circumstances.
 

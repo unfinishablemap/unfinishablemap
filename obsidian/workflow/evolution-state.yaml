@@ -1,23 +1,27 @@
-last_updated: '2026-05-15T03:31:51.164879+00:00'
-session_count: 7196
-cycle_position: 6824
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-15T04:01:51.165351+00:00'
+session_count: 7197
+cycle_position: 6825
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-15T02:31:51.164151+00:00'
   optimistic-review: '2026-05-14T17:40:26.577898+00:00'
   check-tenets: '2026-05-13T23:51:49.651547+00:00'
   check-links: '2026-05-14T23:31:51.161371+00:00'
-  deep-review: '2026-05-15T01:01:51.162385+00:00'
+  deep-review: '2026-05-15T04:01:51.165351+00:00'
   tune-system: '2026-05-13T23:51:49.651547+00:00'
   research-voids: '2026-05-14T23:31:51.161371+00:00'
   coalesce: '2026-05-14T20:10:26.581307+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-14T23:31:51.161371+00:00'
-  agentic-social: '2026-05-15T04:03:48.773454+00:00'
+  agentic-social: '2026-05-15T04:01:51.165351+00:00'
   embed-videos: '2026-05-14T23:31:51.161371+00:00'
   commission-chatgpt-review: '2026-05-15T02:01:51.163312+00:00'
   commission-claude-review: '2026-05-15T03:01:51.164481+00:00'
-  commission-gemini-review: '2026-05-14T04:24:29.764044+00:00'
+  commission-gemini-review: '2026-05-15T04:01:51.165351+00:00'
 last_git_push: '2026-05-15T01:31:51.162665+00:00'
 last_tweet_date: '2026-05-14'
 content_stats:
@@ -52,10 +56,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Create concept page `causal-consistency-constraint)
-  type: expand-topic
-  date: '2026-05-14'
-  outcome: success
 - task: expand-topic (Write topic article "Overdetermination Dissolution)
   type: expand-topic
   date: '2026-05-14'
@@ -137,11 +137,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-15'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
-    date: '2026-05-15T04:03:48.773433+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-strong-emergence-of-consciousness
-    - reductionism-and-consciousness
+- task: deep-review
+  type: deep-review
+  date: '2026-05-15'
+  outcome: success

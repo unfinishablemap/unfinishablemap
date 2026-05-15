@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-11T22:50:00+00:00
+ai_modified: 2026-05-15T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,6 +37,7 @@ related_articles:
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[born-rule-and-the-consciousness-interface]]"
+  - "[[causal-consistency-constraint]]"
   - "[[interface-specification-programme]]"
   - "[[framework-stage-calibration]]"
   - "[[interface-efficacy-and-the-cognitive-gap]]"
@@ -133,7 +134,7 @@ The Newton analogy has limits: Newton had precise measurements and a mathematica
 
 ## What Would Count as Progress
 
-Incremental advance is possible without solving the problem whole. **Narrowing the mental variable**: demonstrating that one conscious state (attention, intention, effort, valence) correlates with selection while others do not — Rajan et al.'s theta signatures are a step. **Constraining the physical parameter**: Torres Alegre's [[born-rule-and-the-consciousness-interface#The Causal Consistency Constraint|causal consistency result]] proves any consciousness-mediated selection must follow the Born rule exactly (deviation would enable superluminal signalling). **Differential predictions**: if Stapp's and Eccles' models predict different outcomes in some paradigm, specification advances without confirming either. **Developmental and disruption tests**: interface effectiveness should track frontoparietal maturation; lesions or TMS to attention-motor architecture should disrupt conscious selection more specifically than general neural insults. **Oscillatory signatures**: the beta-to-theta transition should correlate with moments of conscious selection if the interface operates through threshold-crossing.
+Incremental advance is possible without solving the problem whole. **Narrowing the mental variable**: demonstrating that one conscious state (attention, intention, effort, valence) correlates with selection while others do not — Rajan et al.'s theta signatures are a step. **Constraining the physical parameter**: Torres Alegre's [[causal-consistency-constraint|causal consistency result]] shows any consciousness-mediated selection that participates in the probability assignment must follow the Born form (deviation would enable superluminal signalling), with [[trumping-preemption|trumping]] readings left untouched because they do not modify the probability assignment. **Differential predictions**: if Stapp's and Eccles' models predict different outcomes in some paradigm, specification advances without confirming either. **Developmental and disruption tests**: interface effectiveness should track frontoparietal maturation; lesions or TMS to attention-motor architecture should disrupt conscious selection more specifically than general neural insults. **Oscillatory signatures**: the beta-to-theta transition should correlate with moments of conscious selection if the interface operates through threshold-crossing.
 
 ## What Would Falsify the Framework
 
@@ -174,6 +175,7 @@ The interface problem is the Map's most significant open challenge. Partial answ
 - [[history-of-the-interaction-problem]] — Princess Elisabeth onward
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — Methods when observation is structurally limited
 - [[born-rule-and-the-consciousness-interface]] — Born-rule constraint on any selection
+- [[causal-consistency-constraint]] — Torres Alegre's structural derivation: form not existence
 - [[interface-specification-programme]] — Apex synthesis
 - [[falsification-roadmap-for-the-interface-model]] — From in-principle to applicable falsifiers
 

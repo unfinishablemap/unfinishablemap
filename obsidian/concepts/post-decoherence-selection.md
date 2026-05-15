@@ -4,7 +4,7 @@ description: "Post-decoherence selection is the process that actualizes one outc
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-05-15T01:31:00+00:00
+ai_modified: 2026-05-15T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[trilemma-of-selection]]"
   - "[[prebiotic-collapse]]"
+  - "[[causal-consistency-constraint]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-neural-timing-constraints]]"
@@ -76,7 +77,7 @@ Post-decoherence selection aligns with all five of the Map's [[tenets]].
 
 The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to physics. Post-decoherence selection reinforces this: the physical formalism terminates at an improper mixture, and something non-physical actualizes the outcome.
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet requires the smallest possible non-physical influence on physical outcomes. Post-decoherence selection satisfies this more cleanly than any competing framework. Objective collapse theories (GRW, Penrose–Diósi) require introducing entirely new physics—ad hoc parameters, spontaneous localization fields, gravitational collapse thresholds—none of which have been experimentally confirmed. Hidden-variable theories require a complete deterministic substructure underlying all of quantum mechanics. By contrast, post-decoherence selection asks only that consciousness choose among alternatives that physics has already prepared. The physical dynamics do all the work of producing distinguishable options; consciousness contributes only the selection itself, the minimal possible intervention.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet requires the smallest possible non-physical influence on physical outcomes. Post-decoherence selection satisfies this more cleanly than any competing framework. Objective collapse theories (GRW, Penrose–Diósi) require introducing entirely new physics—ad hoc parameters, spontaneous localization fields, gravitational collapse thresholds—none of which have been experimentally confirmed. Hidden-variable theories require a complete deterministic substructure underlying all of quantum mechanics. By contrast, post-decoherence selection asks only that consciousness choose among alternatives that physics has already prepared. The physical dynamics do all the work of producing distinguishable options; consciousness contributes only the selection itself, the minimal possible intervention. The corridor inherits the [[causal-consistency-constraint|causal consistency constraint]] natively: selection-only coupling preserves Born statistics by construction, so the relativistic-causality requirement Torres Alegre (2025) showed any participant in measurement outcomes must respect is satisfied without further argument.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet demands that consciousness causally influence the physical world. This is where the competing frameworks fail most decisively. Objective collapse makes consciousness a spectator—outcomes are determined by physical parameters (mass thresholds, spontaneous localization rates) with no role for experience. Bohmian mechanics is fully deterministic: initial particle positions fix every subsequent outcome, leaving no causal gap for mind. Many worlds denies that selection occurs at all. Even history selection frameworks are physically self-contained—consistent histories assigns probabilities without requiring a selector, and the transactional interpretation's handshakes are between physical emitters and absorbers. Only consciousness-mediated selection preserves genuine bidirectional causation: consciousness determines which element of the decohered mixture becomes actual, and the actualized outcome in turn shapes subsequent conscious experience.
 
@@ -101,6 +102,7 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 - [[quantum-darwinism-and-consciousness|Quantum Darwinism and Consciousness]]
 - [[stapp-quantum-mind]]
 - [[interactionist-dualism|Interactionist Dualism]]
+- [[causal-consistency-constraint]] — Why corridor-style selection-only coupling is natively no-signalling-compliant
 
 ## References
 

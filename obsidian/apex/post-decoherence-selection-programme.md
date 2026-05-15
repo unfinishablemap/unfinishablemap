@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-13T12:51:00+00:00
+ai_modified: 2026-05-15T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[post-decoherence-selection]]"
   - "[[contextual-selection-in-quantum-foundations]]"
+  - "[[causal-consistency-constraint]]"
 description: "Five converging lines of inquiry—post-decoherence selection, quantum Darwinism, contextuality, weak measurement, and stochastic amplification—constitute a physics research programme for consciousness acting after decoherence."
 related_articles:
   - "[[tenets]]"
@@ -77,7 +78,7 @@ For the Map's framework, quantum Darwinism specifies three constraints on consci
 
 The *menu is fixed*. Einselection determines which states survive environmental monitoring. Consciousness cannot select a quantum state that the environment would immediately destroy. The options are the robust, classically distinguishable alternatives that the environment has already prepared—no more, no less.
 
-The *probabilities are fixed*. The Born rule constrains the statistical distribution of outcomes. If consciousness selects among pointer states, it must respect Born-rule statistics over the long run. Any systematic deviation would be empirically detectable. This is the minimal-intervention constraint: consciousness biases individual outcomes without altering aggregate distributions.
+The *probabilities are fixed*. The Born rule constrains the statistical distribution of outcomes. If consciousness selects among pointer states, it must respect Born-rule statistics over the long run. Any systematic deviation would be empirically detectable. This is the minimal-intervention constraint: consciousness biases individual outcomes without altering aggregate distributions. The [[causal-consistency-constraint|causal consistency constraint]] (Torres Alegre 2025) sharpens this further: under purification, no-signalling forces the Born form for any participant in measurement outcomes, so the corridor reading inherits Born preservation as a structural rather than auxiliary commitment.
 
 *Agreement is guaranteed*. Because environmental fragments carry redundant information about the selected outcome, all subsequent observers will agree. Consciousness need not synchronise multiple observations—quantum Darwinism handles intersubjective agreement automatically.
 

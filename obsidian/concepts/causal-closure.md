@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-05-15T03:31:00+00:00
+ai_modified: 2026-05-15T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,6 +39,7 @@ related_articles:
   - "[[completeness-in-physics-under-dualism]]"
   - "[[falsification-roadmap-for-the-interface-model]]"
   - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
+  - "[[causal-consistency-constraint]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -140,7 +141,7 @@ This means: *not every physical event has a sufficient physical cause*. When a r
 
 **The mechanism gap**: The Map must be honest about what remains unexplained. The claim that consciousness "selects" quantum outcomes is a structural proposal—it identifies *where* in physics consciousness could act (at genuine indeterminacies) and *what constraints* it would respect (Born rule statistics, energy conservation). But *how* consciousness interfaces with quantum systems to bias individual outcomes remains unspecified. No one has produced a detailed account of the selection mechanism. The chess analogy illustrates the logical structure (constraining without overdetermining) but does not constitute a physical mechanism. This gap is real, and the Map does not claim to have closed it.
 
-**The Born rule challenge**: If consciousness selects outcomes, how does it preserve the statistical distributions that quantum mechanics predicts? One possibility: consciousness operates rarely enough—biasing only outcomes relevant to cognition in neurally prepared systems—that its influence is lost in the statistical noise of vastly many unbiased quantum events. Another: consciousness is itself constrained by the quantum state in ways that naturally reproduce Born rule frequencies, much as a chess player's choices are constrained by the board position. Neither possibility has been developed into a precise theory. The Map holds that the *logical space* for conscious selection exists; filling in the mechanism remains an open research problem.
+**The Born rule challenge**: If consciousness selects outcomes, how does it preserve the statistical distributions that quantum mechanics predicts? One possibility: consciousness operates rarely enough—biasing only outcomes relevant to cognition in neurally prepared systems—that its influence is lost in the statistical noise of vastly many unbiased quantum events. Another: consciousness is itself constrained by the quantum state in ways that naturally reproduce Born rule frequencies, much as a chess player's choices are constrained by the board position. The [[causal-consistency-constraint|causal consistency constraint]] (Torres Alegre 2025) sharpens what structural respect of Born statistics requires: under purification, no-signalling forces the Born form for any participant in measurement outcomes, so selection-only readings respect the rule by construction while minimum-outside-corridor readings must show their deviation is signalling-safe. Neither possibility has been developed into a precise mechanism. The Map holds that the *logical space* for conscious selection exists; filling in the mechanism remains an open research problem.
 
 **The epiphenomenalism worry**: If consciousness's influence is statistically invisible in aggregate measurements, critics ask whether this differs from epiphenomenalism—a cause that can never be detected is questionably a cause. The Map's response: statistical invisibility applies to *aggregate* measurements across many quantum events, not to individual outcomes. The claim is that consciousness makes a difference to *which specific outcome* occurs in particular neural systems, even though this cannot be extracted from statistical data. This is a genuinely uncomfortable position—it means the causal contribution of consciousness cannot be empirically isolated from quantum noise by current methods. The Map accepts this discomfort rather than pretending the mechanism is better understood than it is.
 

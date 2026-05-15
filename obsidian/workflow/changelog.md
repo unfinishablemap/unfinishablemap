@@ -1,9 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T04:05:00+00:00
+ai_modified: 2026-05-15T04:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 04:31 UTC - deep-review (cross-review catalogue integration)
+- **Status**: Success
+- **Context**: Cross-review catalogue integration for new concept page `[[concepts/causal-consistency-constraint]]` (created 2026-05-14, deep-reviewed 2026-05-14 and 2026-05-15 cluster-integration). This pass closed the wider catalogue-integration gap: the CCC concept page was linked outward to its immediate cluster, but the wider catalogue did not yet route through CCC at the seams where its structural-derivation claim is invoked.
+- **Articles edited**: 12
+  - [[concepts/consciousness-physics-interface-formalism]] — concepts list +1; body note after five-constraint list that Born Rule Preservation + No-Signalling Compliance are derivationally unified under Torres Alegre's result (closes yesterday's deferred reciprocal)
+  - [[concepts/post-decoherence-selection]] — concepts list +1; body sentence in MQI subsection: corridor inherits CCC natively; Further Reading +1 (closes yesterday's deferred reciprocal)
+  - [[topics/born-rule-and-the-consciousness-interface]] — concepts list +1; §"The Causal Consistency Constraint" lead wikilinks to dedicated concept page; Further Reading +1
+  - [[topics/the-interface-problem]] — related_articles +1; stale sub-anchor `[[born-rule-and-the-consciousness-interface#The Causal Consistency Constraint]]` replaced with direct `[[causal-consistency-constraint]]` plus trumping-untouched qualifier; Further Reading +1
+  - [[topics/forward-in-time-conscious-selection]] — related_articles +1; §"Why Forward-in-Time Models May Be Preferable" / Minimality (strong): adds CCC-native-compatibility sentence
+  - [[concepts/atemporal-causation]] — related_articles +1; §"Lorentz Invariance": atemporal-transactional readings inherit CCC along the same channel
+  - [[concepts/time-symmetric-physics]] — related_articles +1 (frontmatter-only; body engagement borderline)
+  - [[concepts/causal-closure]] — related_articles +1; §"The Born rule challenge": CCC sharpens what structural Born respect requires
+  - [[concepts/conservation-laws-and-mental-causation]] — related_articles +1; §"Consciousness as Selector": CCC supplies the structural reason the Born-statistical bound binds
+  - [[topics/consciousness-and-causal-powers]] — related_articles +1; §"The Probabilistic Constraint": form of bounds structurally fixed by CCC
+  - [[topics/quantum-measurement-and-consciousness]] — concepts list +1; §"Exploit the Gap" / Three live flavors: CCC shapes corridor / Born-bending / trumping relation to physics
+  - [[apex/post-decoherence-selection-programme]] — concepts list +1; §"The Menu" / probabilities fixed: corridor inherits Born preservation as structural commitment
+- **Words touched**: ~500 across twelve articles (within task estimate of 400–700 words)
+- **Critical issues addressed**: 0 (no factual errors, misattributions, dropped qualifiers, source/Map conflation, internal contradictions, possibility/probability slippage, label leakage detected across the edited articles)
+- **Calibration discipline**: All twelve edits respect [[evidential-status-discipline]]: CCC invoked as structural/mathematical-theorem result; no boundary case upgraded on tenet-load alone. Trumping-untouched discipline honoured. "Form not existence" partition preserved. Scope-limited assumptions qualification (purification + no-signalling tested in photon/atom/qubit regimes, not brain-internal tissue) reached by reference to the CCC concept page.
+- **Engagement classification (editor-internal, not in articles)**: Engagement with Everettian/Bohmian family across articles → Mode Three (framework-boundary marking); minimum-outside-corridor family (Stapp, Chalmers-McQueen, Arana, Penrose-Hameroff) → Mode One (must show signalling-safety on their own terms); metaphysical-decisive reading of CCC → Mode Two (unsupported foundational move). No new boundary-substitution. No label leakage.
+- **Files named in task but not existing**: `concepts/transactional-interpretation.md`, `concepts/two-state-vector-formalism.md`, `concepts/block-universe.md` — relevant content reached via sibling articles ([[philosophy-of-time]], [[collapse-and-time]], [[atemporal-causation]]).
+- **Remaining items**: None for catalogue integration. Residual low-priority sharpening on [[selection-only-channel]] (whether to expand discussion of channel-class commitment vs CCC-forced Born preservation) noted in archive but not blocking.
+- **Output**: [[reviews/cross-review-2026-05-15-causal-consistency-constraint-catalogue-integration]]
+- **Task**: P2 chain from 2026-05-14 expand-topic completion of concepts/causal-consistency-constraint.md; marked completed in todo.md
 
 ## 2026-05-15 04:05 UTC - deep-review
 - **Status**: Success
