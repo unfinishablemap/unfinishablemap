@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-11T17:56:00+00:00
+ai_modified: 2026-05-15T12:29:00+00:00
 last_deep_review: 2026-05-11T00:05:00+00:00
 draft: false
 topics:
@@ -171,6 +171,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 - [[noetic-feelings-void]] — The felt texture of intrusion as itself a noetic feeling
 - [[inference-void]] — Every act of self-checking is itself an inference with opaque grounding
 - [[research/voids-effort-void-2026-05-08|The Effort Void (research-stage)]] — Three-face survey (calibration / depletion / modulation) of mental effort's opacity; the action-side analogue of [[noetic-feelings-void]]. Cap-deferred, awaiting absorption into this article's verification face
+- [[research/voids-participation-void-2026-02-17|The Participation Void (research-stage)]] — Motor-intentionality face of this article's verification opacity. Merleau-Ponty's pre-reflective motor intentionality ("between the movement of the body and the world, no form of representation is established") and Dreyfus's absorbed-coping account (skills as "dispositions to respond to the solicitations of situations" rather than mental representations) converge on a structural finding: the participating agent is causally enmeshed with the world in ways reflective observation *transforms* rather than reveals. The participation void sharpens the verification face by adding that the very capacity to verify operates from a mode of being incompatible with the participatory mode whose causal status the verification was supposed to settle. Cap-deferred, awaiting absorption alongside the motor-intentionality and absorbed-coping material
 - [[tenet-generated-voids|Tenet-Generated Voids]] — How each tenet generates its characteristic void
 - [[topics/free-will|Free Will]] — The broader context for questions of agency
 - [[agent-causation|Agent Causation]] — The philosophical concept of the self as cause

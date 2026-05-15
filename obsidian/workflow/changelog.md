@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T11:53:00+00:00
+ai_modified: 2026-05-15T12:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-15 12:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Word count**: ~620 words touched across voids.md + 6 host articles (within ~400–700 scope)
+- **Changes**: Extended Research-Stage Voids subsection 3→6; added entries for insight-void (Knoblich-Ohlsson 1999 + Jung-Beeman 2004 + Danek-Wiley 2017 + Topolinski-Reber 2010 + Laukkonen 2020), encoding-void (Yang 2024 SWR-tagging + Sun 2025 recall-gated consolidation + Kurby-Zacks 2008 EST + Radvansky-Zacks 2017 doorway flushing + Stickgold 2005 + Schreiner 2022 inverse forgetting), participation-void (Heidegger ready-to-hand + Merleau-Ponty motor intentionality + Polanyi tacit knowing + Ryle know-how/that + Dreyfus absorbed coping + Brentano introspection paradox); frontmatter related_articles +3; forward-pointers installed at noetic-feelings-void (insight calibration face / Eureka heuristic), decision-void (insight sister-regress at impasse→restructuring closure), narrative-void (encoding-as-storytelling upstream), source-attribution-void (encoding architectural-layer upstream), agency-void (participation motor-intentionality face), wholeheartedness-void (participation engaged-identification face).
+- **Resolution of `the-givenness-void` candidate**: No such article exists; closest post-coalesce match for participation-void is tacit-integration-void, but agency-void + wholeheartedness-void covered the load-bearing faces and were selected for scope reasons. Recorded in the AI refinement log on voids.md.
+- **Capacity status**: voids/ remains at 101/100 (over cap). No new articles created; three surveyed voids now visible via index + host forward-pointers + frontmatter, awaiting later absorption into the absorbing-article refines when scope permits.
+- **Published**: yes
 
 ## 2026-05-15 11:53 UTC - deep-review
 - **Status**: Success

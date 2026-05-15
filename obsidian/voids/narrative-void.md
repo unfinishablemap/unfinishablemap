@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own s
 created: 2026-02-25
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-05-15T10:52:00+00:00
+ai_modified: 2026-05-15T12:29:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -103,6 +103,7 @@ The narrative void also illustrates the Map's [[tenets#^occams-limits|tenet that
 - [[narrative-coherence]]
 - [[necessary-opacity]]
 - [[observation-and-measurement-void]]
+- [[research/voids-encoding-void-2026-05-12|The Encoding Void (research-stage)]] — Upstream of this article's storytelling: which fragments survive to become narratively integrable is determined by sharp-wave-ripple tagging (Yang et al. 2024 in *Science* — hippocampal SWRs tag specific waking experiences during reward consummation, and sleep SWRs preferentially replay the tagged sequences), recall-gated consolidation (Sun et al. 2025), and event-boundary "memory flushing" (Radvansky-Zacks 2017's doorway effect, with Yan et al. 2024 showing flushing occurs despite active maintenance) — all sub-personal. The Henke-lab inverse-forgetting result (Schreiner et al. 2022) sharpens the void: subliminally-encoded episodic traces consolidate along trajectories *opposite* to the conscious case, meaning the storyteller works on material whose selection criterion it neither set nor witnessed. Cap-deferred, awaiting absorption as the encoding-side face of the storytelling architecture this article treats
 
 ## References
 

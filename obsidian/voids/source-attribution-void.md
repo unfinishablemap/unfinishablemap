@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-15T10:52:00+00:00
+ai_modified: 2026-05-15T12:29:00+00:00
 last_deep_review: 2026-05-11T01:31:00+00:00
 draft: false
 topics:
@@ -146,6 +146,7 @@ Three implications follow for how the Map thinks about the first person:
 - [[source-attribution-divergence]] — The topic-tier subject explainer: empirical signatures (source-monitoring tasks, choice blindness, cryptomnesia, imagery-spectrum correlations) of the within-species spread this void treats apophatically
 - [[memory-anomalies]] — Déjà vu, jamais vu, and cryptomnesia as a single phenomenon viewed from three angles: the concrete-phenomenon exhibits of the source-monitoring architecture this void treats abstractly
 - [[decision-void]] — The deliberation→commitment moment as the specific application: surface features of the outcome stand in for the inaccessible event of choosing
+- [[research/voids-encoding-void-2026-05-12|The Encoding Void (research-stage)]] — Architectural-layer complement upstream of this article's inferential and confabulatory layers. The "absence of native source tags" claim is sharpened by the encoding mechanisms that determine which traces survive: sharp-wave-ripple tagging operates at millisecond scale below conscious access (Yang et al. 2024); recall-gated consolidation selects on prior-schema consistency the encoder cannot consciously evaluate (Sun et al. 2025); Henke-lab subliminal-encoding work (Reber 2012, Züst 2015, Schreiner 2022) shows episodic traces forming entirely *without* conscious encoding, consolidating along inverse trajectories. The void deepens this article's diagnosis: not merely that source is reconstructed at retrieval, but that the encoding side never wrote a source tag there for reconstruction to recover. Cap-deferred, awaiting absorption into the architectural-layer treatment
 
 ## References
 

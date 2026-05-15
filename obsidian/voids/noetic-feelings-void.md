@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-05-15T10:52:00+00:00
+ai_modified: 2026-05-15T12:29:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -177,6 +177,7 @@ The cluster-level conditions are taken up separately in [[medium-status-voids-in
 - [[decision-void]] — The deliberation→commitment closure whose felt click is a noetic-feelings verdict
 - [[research/voids-cognitive-phenomenology-void-2026-05-01|The Cognitive Phenomenology Void (research-stage)]] — Whether thinking-as-such has a proprietary phenomenal kind distinct from sensory imagery, inner speech, and the noetic feelings catalogued here. Three-face structural irresolvability (introspective / dialectical / empirical-architectural), anchored by the Würzburg-Titchener controversy of c.1900–1915 and Fürst's diagnosis that phenomenal contrast is "regimented by the view initially held." Distinguishes itself from this void by concerning the *ontology* of the phenomenal rather than its accessibility; the seam between cognitive phenomenology and metacognitive feelings is the open boundary the absorption pass will need to mark. Cap-deferred, awaiting absorption into this article and into [[imagery-void]] (Lennon's aphantasia evidence)
 - [[research/voids-effort-void-2026-05-08|The Effort Void (research-stage)]] — Action-side analogue: where noetic feelings gate cognition's acceptance, effort feelings gate its deployment, and both gating systems are sub-personal. Cap-deferred, awaiting absorption primarily into [[agency-void]] with secondary points of contact here
+- [[research/voids-insight-void-2026-05-14|The Insight Void (research-stage)]] — Three-face survey of impasse-breaking (restructuring / antecedent-blindness / calibration); the calibration face is a direct face of this void. Topolinski-Reber (2010) ground the felt-rightness of insight in a sudden fluency increase rather than the truth of the answer; Danek-Wiley (2017) document false insights that arrive with the same Pleasure / Suddenness / Certainty / Relief / Drive dimensions as true ones and are not categorically distinguishable from inside; Laukkonen et al. (2020)'s "dark side of Eureka" shows artificially-induced aha moments elevate judged truth of *unrelated* propositions co-active when they fire — the Eureka heuristic. Cap-deferred, awaiting absorption into this article's fluency-as-stop-sign treatment, with the operation-void core (restructuring + antecedent-blindness) potentially routing instead to [[transit-void]]
 - [[epistemic-emotions]] — The phenomenally rich extension of the noetic family
 - [[apophatic-cartography]] — Mapping territory by the shape of its boundary
 - [[memory-anomalies]] — Déjà vu, jamais vu, cryptomnesia as edge-phenomena revealing the architecture

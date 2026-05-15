@@ -4,7 +4,7 @@ description: "From inside, consciousness cannot verify that a present identifica
 created: 2026-05-11
 modified: 2026-05-12
 human_modified: null
-ai_modified: 2026-05-12T03:35:00+00:00
+ai_modified: 2026-05-15T12:29:00+00:00
 last_deep_review: 2026-05-11T19:43:00+00:00
 draft: false
 topics:
@@ -105,6 +105,7 @@ The void is methodologically apophatic per [[evidential-status-discipline]]: its
 - [[ownership-void]] — Adjacent void on the broader ownership of mental events
 - [[apophatic-cartography]] — Method for surveying voids by their failure shapes
 - [[control-theoretic-will]] — The decision-theoretic frame the void exceeds
+- [[research/voids-participation-void-2026-02-17|The Participation Void (research-stage)]] — Engaged-identification face of this article's standing-condition void. Where wholeheartedness examines the *standing condition* of being self-identified, participation names the gap between *enacted* identification and *represented* identification: Heidegger's ready-to-hand/present-at-hand distinction, Merleau-Ponty's tacit cogito, Polanyi's "we know more than we can tell," and Brentano's paradox of introspection all converge on the claim that participation is *transformed* by reflective inspection rather than revealed by it. The participation void supplies the deeper ontological substrate: the regress, disownability, and ambivalence-detection faces all presume an inspectable participatory state, and the participation void argues the participatory mode resists that very inspection. Cap-deferred, awaiting absorption into the regress face's treatment of why higher-order endorsement is structurally arbitrary
 
 ## References
 

@@ -4,7 +4,7 @@ description: "The moment open weighing collapses into sealed choice is structura
 created: 2026-05-10
 modified: 2026-05-14
 human_modified: null
-ai_modified: 2026-05-14T16:41:00+00:00
+ai_modified: 2026-05-15T12:29:00+00:00
 last_deep_review: 2026-05-14T15:41:00+00:00
 draft: false
 topics:
@@ -134,6 +134,7 @@ The void is also [[meta-epistemology-of-limits|meta-epistemologically reflexive]
 - [[transit-void]] — Crossings in general, of which the deliberation→commitment crossing is one
 - [[suspension-void]] — Sister regress: holding-open's introspective opacity
 - [[inference-void]] — Sister regress: making-explicit invokes what it explains
+- [[research/voids-insight-void-2026-05-14|The Insight Void (research-stage)]] — Sister-regress at the structurally analogous impasse→restructuring crossing: where this void targets deliberation→commitment closure, insight targets impasse→restructuring closure. Both are operation-voids consciousness witnesses only as endpoints. Jung-Beeman et al. (2004) document an alpha-band "brain-blink" suppressing external sensory monitoring ~1.5s before the right-temporal gamma burst that marks the aha — antecedent-blindness as architectural feature, paralleling this article's latency face; Johansson-Hall-style choice-blindness confabulation is paralleled by Danek-Wiley (2017) false insights that arrive with the same confident phenomenology as true ones. Cap-deferred, with the closure-and-confabulation parallel to this article's three faces explicit on absorption
 - [[source-attribution-void]] — Why introspective reports reconstruct origin from surface features
 - [[causal-interface]] — The opacity at the interface itself
 - [[interface-formalization-void]] — Why the consciousness-physics interface resists formalization
