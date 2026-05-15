@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-05-15 04:31:00+00:00
+ai_modified: 2026-05-15 06:39:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[consciousness-physics-interface-formalism]]'
 - '[[causal-consistency-constraint]]'
 created: 2026-03-15
-date: &id001 2026-05-14
+date: &id001 2026-05-15
 description: 'The Born rule resists derivation across every quantum interpretation
   — abductive evidence it encodes the consciousness-physics interface rather than
   a gap awaiting closure. With empirical status: which proposals require violation,
@@ -56,6 +56,8 @@ related_articles:
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 - '[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]'
 - '[[brain-internal-born-rule-testing]]'
+- '[[falsification-roadmap-for-the-interface-model]]'
+- '[[testing-consciousness-collapse]]'
 title: The Born Rule and the Consciousness-Physics Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -228,6 +230,8 @@ The Map's working position is that the empirical question is genuinely open, pre
 - [amplification-mechanisms-consciousness-physics-2026-03-18](/research/amplification-mechanisms-consciousness-physics-2026-03-18/) — How single-event selection might become macroscopically visible
 - [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/) — A proposed interface locus for Born-sensitive experiments
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — Mechanism-by-mechanism catalogue of what would foreclose the corridor reading
+- [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — The tenet-by-tenet framework within which the Born-rule question is one branch
+- [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — The three-tier collapse-vs-decoherence experimental hierarchy this article's Born-rule analysis sits within
 - [interface-formalization-void](/voids/interface-formalization-void/) — What remains unformalised about the interface
 
 ## References

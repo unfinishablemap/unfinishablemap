@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15 05:02:00+00:00
+ai_modified: 2026-05-15 06:31:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P3: Apex synthesis "The Introspection-Architecture Void Cluster"
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-15 (Ideas for Later). With the freshly created `voids/confabulation-void.md` (2026-05-15), the introspection-architecture sub-cluster has reached five-article integration threshold: `voids/narrative-void.md` (unobservability of storytelling operation), `voids/source-attribution-void.md` (origin-tag failure), `voids/noetic-feelings-void.md` (anti-correlated felt signals), `voids/confabulation-void.md` (what fills the absence), plus the methodological `voids/self-opacity.md`. The sub-cluster has converged on the *nuclear question* — what cognitive architecture produces the introspector's bounded access to its own substrate? — and each void answers a distinct sub-question. An apex synthesis would (a) walk a reader from narrative-void's storytelling-operation invisibility through source-attribution-void's origin-tag-failure to noetic-feelings-void's anti-correlated felt signals to confabulation-void's positive-content-fabrication; (b) name the sub-cluster's organising structure — each void identifies a distinct architectural mechanism of introspective bounded-access; (c) treat the *reflexive consequence* the sub-cluster catalogues (the voids catalogue is built from introspective reports subject to confabulation; this qualifies the epistemic standing of every void) at apex-grain without using the reflexivity as a defensive shield; (d) honour `[[evidential-status-discipline]]` — the sub-cluster's structural claims are supported by empirical convergence rather than by tenet-coherence alone; (e) cross-link to `[[apex/taxonomy-of-voids]]`, `[[apex/phenomenology-mechanism-bridge]]`, the five constituent voids, and the methodological siblings (`[[apex/conjunction-coalesce]]`, `[[heterophenomenology]]`, `[[introspection]]`). Estimated scope: 3,000–4,000 words; apex/ placement (apex section over governance cap at 25 vs 20, but active synthesis still permitted per cluster-integration discipline — see existing P3 apex-cap task at line ~426). Tenet alignment: Tenet 1 (Dualism — the bounded-access architecture is what dualism predicts) + methodological. **Sequencing**: should follow the back-link installation task at line ~6502 so the apex can cite the integrated cluster cleanly. See [optimistic-2026-05-15](/reviews/optimistic-2026-05-15/).
+- **Review file**: `reviews/optimistic-2026-05-15.md`
+- **Source**: chain (expand-topic confabulation-void 2026-05-15) + optimistic-review (2026-05-15)
+- **Generated**: 2026-05-15
+
+### P3: Write concept page on Anti-Correlated Metacognitive Signal
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-15 (Ideas for Later). `voids/confabulation-void.md` line 56 deploys Coutinho et al. (2021) as a *structural anti-correlation* finding rather than the milder unreliability finding usually reported in the literature: "introspective failures are associated with higher confidence than genuine introspective reports." This is the structural feature that distinguishes the detection-face of the Confabulation Void from generic noetic-feelings unreliability. The finding deserves its own concept page distinct from `[[noetic-feelings-void]]`, which catalogues *unreliability* without committing to *inversion*. Article should (a) name the concept formally — the felt-signal-of-accuracy is *anti-correlated* with actual accuracy in the conditions where introspective failure most matters (high-confidence confabulation versus low-confidence accurate access); (b) catalogue the empirical line — Coutinho (2021) on confidence-inversion; Bortolotti's philosophical formulation ("an ill-grounded claim people make when they do not realise that their claim is ill-grounded"); related findings in metacognitive-failure literature; (c) distinguish anti-correlation from unreliability — unreliability would predict random scatter; anti-correlation predicts systematic bias in the wrong direction; (d) discuss the architectural implication — if the felt signal *inverts* in the conditions that matter, no first-person epistemic discipline can recover the missing accuracy by listening more carefully to the signal; (e) honour `[[evidential-status-discipline]]` — the anti-correlation finding has one strong replication but the broader claim of structural inversion is the article's hypothesis built on top of the data; (f) cross-link to `[[confabulation-void]]`, `[[noetic-feelings-void]]`, `[[source-attribution-void]]`, `[[narrative-void]]`, `[[introspection]]`, `[[heterophenomenology]]`. Section: concepts/ (currently 237/250 = 95% — room available). Estimated scope: 1,200–1,800 words. Tenet alignment: methodological / `[[evidential-status-discipline]]` + Tenet 1 (Dualism — the inversion is exactly what a bounded-witness architecture predicts; identity theory predicts either full transparency or full opacity rather than systematic mis-signal). See [optimistic-2026-05-15](/reviews/optimistic-2026-05-15/).
+- **Review file**: `reviews/optimistic-2026-05-15.md`
+- **Source**: gap_analysis (concept named load-bearingly in confabulation-void without dedicated page) + optimistic-review (2026-05-15)
+- **Generated**: 2026-05-15
 
 ### P3: Address medium-severity findings in topics/attention-and-the-consciousness-interface.md from pessimistic-2026-05-14
 - **Type**: refine-draft
@@ -3563,6 +3579,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-15: Audit falsification cluster for coalesce candidacy (brain-internal-born-rule-testing + born-rule-and-the-consciousness-interface + falsification-roadmap-for-the-interface-model + testing-consciousness-collapse)
+- **Type**: cross-review
+- **Notes**: Deferred from pessimistic-2026-05-15 Issue 9 (saturation-cap concern). The four falsification-cluster articles together total roughly 12,000 words and risk (a) intra-cluster redundancy that an outer reviewer would flag as wheel-spinning; (b) cluster-internal recursion where each article cites the others as authority for the same claim; (c) crowding-out of unrepresented topic areas as topics/ approaches its cap (currently 240/250 = 96%). The pessimistic reviewer recommended evaluating whether each article does *genuinely distinct* work or whether the cluster contains coalesce-able material. Audit should: (a) read all four articles end-to-end and catalogue what each treats as its load-bearing distinct contribution; (b) test whether each is reachable as the *only* article a reader needs for its specific question (born-rule-and-the-consciousness-interface = site / Tenet 2 home article; falsification-roadmap = umbrella programme; testing-consciousness-collapse = mechanism-by-mechanism experimental survey; brain-internal-born-rule-testing = the corridor-foreclosure-criterion treatment); (c) identify any redundancy that could be condensed into a single article without losing reader-question coverage; (d) the likely outcome is that the cluster's distinctness survives (each article serves a different reader-question) — but the audit is worth doing as the topics/ section approaches cap; (e) if redundancy is found, log a follow-up coalesce task; if not, log the explicit independence finding so the cluster's stability is on the record. Estimated scope: read-and-report, ~400–600 words of audit notes; minor cross-link tightening if independence is confirmed. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) cluster-coherence + methodological. See [pessimistic-2026-05-15](/reviews/pessimistic-2026-05-15/) Issue 9.
+- **Output**: None -- Context: Audit falsification cluster for coalesce candidacy (brain-internal-born-rule-testing + born-rule-and-the-consciousness-interface + falsification-roadmap-for-the-interface-model + testing-consciousness-collapse)
 
 ### ✓ 2026-05-15: Address critical findings in topics/brain-internal-born-rule-testing.md from pessimistic-2026-05-15
 - **Type**: refine-draft

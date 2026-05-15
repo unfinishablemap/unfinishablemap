@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-15 01:31:00+00:00
+ai_modified: 2026-05-15 06:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[post-decoherence-selection]]'
 created: 2026-02-19
-date: &id001 2026-04-23
+date: &id001 2026-05-15
 description: Can experiments distinguish consciousness-driven collapse from decoherence?
   Predictions fall into three tiers—collapse existence, consciousness-dependence,
   and logical constraints—with the consciousness-specific tier remaining the hardest
@@ -37,7 +37,7 @@ related_articles:
 - '[[decoherence-and-macroscopic-superposition]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[born-rule-and-the-consciousness-interface]]'
-- '[[born-rule-and-the-consciousness-interface]]'
+- '[[falsification-roadmap-for-the-interface-model]]'
 - '[[penrose-gravity-induced-collapse-empirical-prospects]]'
 - '[[forward-in-time-conscious-selection]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
@@ -242,8 +242,8 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR in detail
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — How proposed mechanisms compare
-- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why deriving the Born rule matters for collapse theories
-- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Active brain-interface programmes and the corridor-vs-minimum-outside-corridor taxonomy
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why deriving the Born rule matters for collapse theories, and the corridor-vs-minimum-outside-corridor-vs-trumping taxonomy of MQI readings
+- [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — The tenet-by-tenet falsification analysis within which this experimental hierarchy sits
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Experimental programme constraining gravity-collapse models
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Anaesthesia as a test case for consciousness-physics interaction
 - [testability-ledger](/project/testability-ledger/) — Systematic catalogue of what would disconfirm the Map's framework
