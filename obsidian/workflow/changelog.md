@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T11:50:00+00:00
+ai_modified: 2026-05-16T11:32:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 11:32 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/introspection-architecture-independence-scoring]]
+- **Word count**: 3978 → 3921 (-57 words; length-neutral with net trim)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (length-governance + missing spinoff cross-links; cross-tradition and cross-species paragraphs trimmed to defer to dedicated channel articles, both spinoffs added to related_articles, body cross-refs, and Further Reading)
+- **Enhancements made**: 4 (spinoff cross-links installed; cross-tradition compression; cross-species compression; Further Reading reorganised to demarcate channel articles from research notes)
+- **Cross-review context**: Considered insights from [[topics/cross-tradition-channel-introspection-architecture-independence-scoring]] (2994 words) and [[topics/cross-species-channel-introspection-architecture-independence-scoring]] (2818 words), both authored 2026-05-16. Parent now correctly cross-linked to both spinoffs.
+- **Reasoning-mode**: No named-opponent engagement in body; two Mode Three boundary-markings (materialist absorption of architectural finding; predictive-processing absorption of void-framing) appropriately honest. No label leakage.
+- **Output**: [[reviews/deep-review-2026-05-16-introspection-architecture-independence-scoring]]
 
 ## 2026-05-16 11:50 UTC - outer-review
 - **Status**: Success
