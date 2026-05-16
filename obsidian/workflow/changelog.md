@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T15:30:00+00:00
+ai_modified: 2026-05-16T16:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 16:30 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-tradition-channel-introspection-architecture-independence-scoring]]
+- **Word count**: 4742 → 4744 (effectively length-neutral; integrated substantial new audit findings while trimming equivalent compensation)
+- **Critical issues addressed**: 3 — (1) stale "score-pending-Neoplatonist-audit" caveat discharged across lede / §"Scoring the Channel" / §"Honest Limitations" / §"Relation to Site Perspective" (audit completed at 15:30 UTC, 30 min after the previous refine pass); (2) factual misattribution of "cleanest historical-isolation defence" corrected from early-Sufi practice to Advaita per the audit's central finding; (3) 228-line HTML-commented AI REFINEMENT LOG removed per its own instruction ("This log should be removed after human review").
+- **Medium issues addressed**: 2 — (4) Ghazālī hidden *riyāʾ* despite-commitments score softened at the framing level (Avicennan-Neoplatonist downstream) with finding-level rating preserved; (5) length-neutral mode applied — net additions for Neoplatonist audit integration (~1290 words: Evagrian-Christian-monastic channel, Adamson/Aklan/Schwyzer/Hendrix/Stewart references, framing-level discount, residual-gap discussion) compensated by trims (~1290 words across the lede, Madhyamaka, Sufi-independence, Frede, Inwood-Long, Scoring "three accountings," Cross-observer convergence, Modern Reception, Honest Limitations Churchland, conservative-reading, and khawāṭir/Ghazālī scoring paragraphs).
+- **Enhancements made**: 7 — discharged Neoplatonist-audit caveat with differentiated findings; inverted cleanest-defence attribution; added Evagrian-Christian-monastic channel as most-consequential Sufi-specific discount with timeline; added Schwyzer/Hendrix framework-level Plotinian contribution; named the Evagrian-reduction-to-Stoicism residual gap; softened Ghazālī framing with explicit transmission chain; removed HTML-comment AI REFINEMENT LOG.
+- **Cross-links added**: 1 — [[research/neoplatonist-common-cause-introspection-architecture-2026-05-16]] (frontmatter, lede, §"Sufi Practice," §"Scoring the Channel," §"Relation to Site Perspective").
+- **New references**: 7 — Adamson 2002, Aklan 2018, Armstrong 1936, Evagrius primary works, Hendrix 2005, Schwyzer 1960, Stewart 2005.
+- **Reasoning-mode** (editor-internal): No new opponent-engagements introduced; existing Mode One (Inwood-Long), Mode Two (Churchland on vocabulary-stripping), and Mode Three (Madhyamaka; physicalism boundary) engagements preserved through the trims. No editor-vocabulary leaks in body — verified after HTML-comment removal.
+- **Stability notes**: Article has now stabilised. Differentiated Neoplatonist-channel weights by tradition-pair are settled audit conclusions, not philosophical positions — future reviews should treat them as research-findings to cite rather than positions to revise. The structural ceiling appears to be ~4700 words given the three-tradition audit's multi-layered discipline; future condense passes would require structural restructuring beyond a deep-review's scope.
+- **Output**: [[reviews/deep-review-2026-05-16-cross-tradition-channel-introspection-architecture-independence-scoring]]
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
 
 ## 2026-05-16 15:30 UTC - research-topic
 - **Status**: Success

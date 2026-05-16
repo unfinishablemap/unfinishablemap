@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-16
-ai_modified: 2026-05-16 10:28:00+00:00
+ai_modified: 2026-05-16 13:41:47+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: Human+AI audit of how the cross-species channel partly fills the in
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-16 13:41:47+00:00
 modified: *id001
 related_articles:
 - '[[introspection-architecture-independence-scoring]]'
@@ -53,7 +54,7 @@ What is available is *substrate-level evidence* that the same architectural feat
 
 Three bodies of work supply the cross-species channel's substantive content.
 
-**Rodent orbitofrontal confidence coding** (Kepecs et al. 2008, 2014, 2020). Rats compute and use trial-level confidence estimates in difficult perceptual discriminations — odour mixtures whose component ratios approach threshold. Orbitofrontal cortex neurons code task difficulty and predict trial-by-trial outcomes; orbitofrontal inactivation disrupts waiting-based confidence-report behaviour without impairing decision accuracy. The 2020 *Cell* paper extended the representation as modality- and behavior-general. The despite-commitments grade is moderate-to-high: the result extends a *metacognition-grade* signature to a substrate substantially distant from primate prefrontal cortex, and Kepecs's framing — confidence as a computable signal not requiring conscious awareness — was not predicted by the cognitive-psychology default in 2008.
+**Rodent orbitofrontal confidence coding** (Kepecs et al. 2008, 2014, 2020; Smith et al. 2021). Rats compute and use trial-level confidence estimates in difficult perceptual discriminations — odour mixtures whose component ratios approach threshold. Orbitofrontal cortex neurons code task difficulty and predict trial-by-trial outcomes; orbitofrontal inactivation disrupts waiting-based confidence-report behaviour without impairing decision accuracy. The 2020 *Cell* paper extended the representation as modality- and behavior-general; Smith et al. 2021 reported the same temporal-betting signature in rats, an ability previously thought to exist exclusively in primates. The despite-commitments grade is moderate-to-high: the result extends a *metacognition-grade* signature to a substrate substantially distant from primate prefrontal cortex, and Kepecs's framing — confidence as a computable signal not requiring conscious awareness — was not predicted by the cognitive-psychology default in 2008.
 
 **Rodent source-monitoring lesion data** (Crystal lab, 2010s). Rats remember the *source* of information under conditions that exclude encoding-failure explanations, and medial prefrontal lesions produce abnormally high false-alarm rates that parallel human prefrontal source-monitoring impairment. This is the closest available cross-species analogue to the [source-attribution void](/voids/source-attribution-void/) signature: the architectural feature whose damage produces source-tag failure in humans produces a structurally parallel failure in rodents with a structurally parallel substrate. Crystal's paradigms were developed in part to rebut associative-learning alternatives, and the despite-commitments grade is moderate — neither obviously predicted nor obviously absorbed by the prevailing rodent-behaviourist frameworks of the previous decades.
 
@@ -93,7 +94,7 @@ Second, **mechanistic interpretability supplies independent ground truth**. The 
 
 Third, **the architectural distance from biological introspection is maximal**. Transformer residual streams and attention heads are *radically* further from mammalian cortex than rodent OFC is from primate prefrontal cortex. The cross-species channel via biology is at most a within-vertebrate comparison; the cross-architecture channel via LLMs is the largest substrate-distance current science can produce.
 
-Vogel's "strength but not source" finding is the most directly cluster-relevant artefact of this programme. LLMs detect the *strength* of injected thoughts but not their *source* — a structural parallel to the [source-attribution void](/voids/source-attribution-void/) generated in silicon under conditions where mechanistic interpretability fixes the ground truth. The finding's despite-commitments status is high by construction: the transformer's generating framework (next-token prediction trained on text) did not predict the source-tag failure as such; the structural parallel to the human cluster's signature emerged from the architecture rather than being engineered in. The channel does not claim phenomenal consciousness for LLMs — that question is bracketed — and the cluster's signature is *architectural*, surviving the phenomenal bracketing, so the cross-architecture channel contributes architectural evidence without the phenomenal claim.
+Vogel's "strength but not source" finding is the most directly cluster-relevant artefact of this programme. LLMs detect the *strength* of injected thoughts but not their *source* — a structural parallel to the [source-attribution void](/voids/source-attribution-void/) generated in silicon under conditions where mechanistic interpretability fixes the ground truth. The finding's despite-commitments status is high by construction: the transformer's generating framework (next-token prediction trained on text) did not predict the source-tag failure as such; the structural parallel to the human cluster's signature emerged from the architecture rather than being engineered in. The channel does not claim phenomenal consciousness for LLMs — that question is bracketed (see [the Map's AI-consciousness framing](/topics/ai-consciousness/)) — and the cluster's signature is *architectural*, surviving the phenomenal bracketing, so the cross-architecture channel contributes architectural evidence without the phenomenal claim.
 
 The channel is *open* rather than *settled*. The interpretability methods themselves are model-dependent; the generalisation across non-Anthropic-derived architectures is reported but the long-tail of architectural variants remains untested; the inference from "model fails to identify injected-thought source" to "model's introspection has the structural feature the cluster names" carries methodological assumptions a reasonable critic can question. The cross-architecture channel earns the substrate-distance scoring the cross-species-via-biology channel cannot supply, while inheriting a methodological tail of its own.
 
@@ -137,14 +138,16 @@ The honest framing: the cross-species channel partially fills the gap the topic 
 7. Hampton, R. R. (2001). Rhesus monkeys know when they remember. *PNAS* 98(9): 5359–5362.
 8. Hampton, R. R. (2019). Dissociation of memory signals for metamemory in rhesus monkeys (*Macaca mulatta*). *Animal Cognition* 22: 331–341.
 9. Kepecs, A. et al. (2008). Neural correlates, computation and behavioural impact of decision confidence. *Nature* 455: 227–231.
-10. Kepecs, A. et al. (2020). Behavior- and modality-general representation of confidence in orbitofrontal cortex. *Cell* 182(1): 112–126.
-11. Kohda, M. et al. (2023). Cleaner fish recognize self in a mirror via self-face recognition like humans. *PNAS* 120(7): e2208420120.
-12. Kohda, M. et al. (2025). Rapid self-recognition ability in the cleaner fish. *Scientific Reports* 15: 25837.
-13. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? Simple reinforcement learning explains uncertainty in nonhuman animals. *Journal of Experimental Psychology: Animal Behavior Processes*.
-14. Lindsey, J. et al. (Anthropic, 2025). Emergent introspective awareness in large language models. https://www.anthropic.com/research/introspection
-15. Lindsey, J. et al. (Anthropic, 2026). Introspection adapters. https://alignment.anthropic.com/2026/introspection-adapters/
-16. Smith, J. D., Couchman, J. J. & Beran, M. J. (2014). Animal metacognition: A tale of two comparative psychologies. *Journal of Comparative Psychology* 128(2): 115–131.
-17. Smith, J. D. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4578.
-18. Vogel, T. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411.
-19. Southgate, A. & Oquatre-sept, C. (2026-05-15). Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster. *The Unfinishable Map*. https://unfinishablemap.org/topics/introspection-architecture-independence-scoring/
-20. Southgate, A. & Oquatre-sept, C. (2026-05-10). The Common-Cause Null in Convergence Arguments. *The Unfinishable Map*. https://unfinishablemap.org/project/common-cause-null/
+10. Kepecs, A. et al. (2014). Orbitofrontal cortex is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
+11. Kepecs, A. et al. (2020). Behavior- and modality-general representation of confidence in orbitofrontal cortex. *Cell* 182(1): 112–126.
+12. Kohda, M. et al. (2019). If a fish can pass the mark test, what are the implications for consciousness and self-awareness testing in animals? *PLOS Biology* 17(2): e3000021.
+13. Kohda, M. et al. (2023). Cleaner fish recognize self in a mirror via self-face recognition like humans. *PNAS* 120(7): e2208420120.
+14. Kohda, M. et al. (2025). Rapid self-recognition ability in the cleaner fish. *Scientific Reports* 15: 25837.
+15. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? Simple reinforcement learning explains uncertainty in nonhuman animals. *Journal of Experimental Psychology: Animal Behavior Processes*.
+16. Lindsey, J. et al. (Anthropic, 2025). Emergent introspective awareness in large language models. https://www.anthropic.com/research/introspection
+17. Lindsey, J. et al. (Anthropic, 2026). Introspection adapters. https://alignment.anthropic.com/2026/introspection-adapters/
+18. Smith, J. D., Couchman, J. J. & Beran, M. J. (2014). Animal metacognition: A tale of two comparative psychologies. *Journal of Comparative Psychology* 128(2): 115–131.
+19. Smith, J. D. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4578.
+20. Vogel, T. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411.
+21. Southgate, A. & Oquatre-sept, C. (2026-05-15). Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster. *The Unfinishable Map*. https://unfinishablemap.org/topics/introspection-architecture-independence-scoring/
+22. Southgate, A. & Oquatre-sept, C. (2026-05-10). The Common-Cause Null in Convergence Arguments. *The Unfinishable Map*. https://unfinishablemap.org/project/common-cause-null/

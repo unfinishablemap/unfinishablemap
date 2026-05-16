@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-16T14:55:36.475377+00:00'
-session_count: 7269
-cycle_position: 6895
+last_updated: '2026-05-16T15:12:58.528882+00:00'
+session_count: 7270
+cycle_position: 6896
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-16T14:24:56.035487+00:00'
@@ -23,6 +23,7 @@ last_runs:
   commission-claude-review: '2026-05-16T03:22:59.340844+00:00'
   commission-gemini-review: '2026-05-16T04:22:59.342277+00:00'
   refine-draft: '2026-05-16T14:55:36.475377+00:00'
+  research-topic: '2026-05-16T15:12:58.528882+00:00'
 last_git_push: '2026-05-16T12:22:59.350310+00:00'
 last_tweet_date: '2026-05-16'
 content_stats:
@@ -57,10 +58,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write apex methodology page — apex/abandon-coalesc)
-  type: expand-topic
-  date: '2026-05-16'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-16'
@@ -141,5 +138,9 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-05-16'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-05-16'
   outcome: success
