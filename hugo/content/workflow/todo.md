@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering concepts/naturally-occluded.md insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 2026-05-16 `expand-topic` creating `obsidian/concepts/naturally-occluded.md` (Naturally Occluded — fourth-kind void category, the methodological slot for evolutionary considerations within the void taxonomy). The new article formalises a category previously invoked at the apex tier without dedicated treatment. Cross-review the four most-relevant existing articles for back-linking and for places where the naturally-occluded category should now be referenced explicitly: (a) `apex/taxonomy-of-voids.md` (line 100 invokes the category) — install reciprocal back-link to the new concept page plus a 1–2-sentence pointer that the category-distinction now has its own treatment. (b) `concepts/three-kinds-of-void.md` — the existing three-kind taxonomy needs an explicit pointer to the fourth-kind extension at the methodological grain. (c) `concepts/biological-cognitive-closure.md` — the evidential basis for naturally-occluded; install reciprocal cross-link and verify the new article's treatment of "evidential basis" matches biological-cognitive-closure's framing. (d) `concepts/fitness-beats-truth.md` — the formal-mathematical anchor; install reciprocal cross-link and verify the formal-mathematical relation is accurately represented. Also check whether `meta-epistemology-of-limits.md`, `self-maintained-cognitive-limits.md`, `voids/voids.md` should now reference the fourth-kind category explicitly. Honour `[[evidential-status-discipline]]` — the new article correctly calibrates "live hypothesis rather than established mechanism"; verify cross-references do not inflate the category's standing. Estimated scope: ~200–400 words touched across 4–6 articles. Tenet alignment: methodological. See `obsidian/concepts/naturally-occluded.md`.
-- **Source**: chain (from expand-topic naturally-occluded.md 2026-05-16)
-- **Generated**: 2026-05-16
-
 ### P2: Cross-review related articles considering concepts/apophatic-cartography-four-criteria.md insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3652,6 +3645,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-16: Cross-review related articles considering concepts/naturally-occluded.md insights
+- **Type**: cross-review
+- **Notes**: Chain from today's 2026-05-16 `expand-topic` creating `obsidian/concepts/naturally-occluded.md` (Naturally Occluded — fourth-kind void category, the methodological slot for evolutionary considerations within the void taxonomy). The new article formalises a category previously invoked at the apex tier without dedicated treatment. Cross-review the four most-relevant existing articles for back-linking and for places where the naturally-occluded category should now be referenced explicitly: (a) `apex/taxonomy-of-voids.md` (line 100 invokes the category) — install reciprocal back-link to the new concept page plus a 1–2-sentence pointer that the category-distinction now has its own treatment. (b) `concepts/three-kinds-of-void.md` — the existing three-kind taxonomy needs an explicit pointer to the fourth-kind extension at the methodological grain. (c) `concepts/biological-cognitive-closure.md` — the evidential basis for naturally-occluded; install reciprocal cross-link and verify the new article's treatment of "evidential basis" matches biological-cognitive-closure's framing. (d) `concepts/fitness-beats-truth.md` — the formal-mathematical anchor; install reciprocal cross-link and verify the formal-mathematical relation is accurately represented. Also check whether `meta-epistemology-of-limits.md`, `self-maintained-cognitive-limits.md`, `voids/voids.md` should now reference the fourth-kind category explicitly. Honour `[[evidential-status-discipline]]` — the new article correctly calibrates "live hypothesis rather than established mechanism"; verify cross-references do not inflate the category's standing. Estimated scope: ~200–400 words touched across 4–6 articles. Tenet alignment: methodological. See `obsidian/concepts/naturally-occluded.md`.
+- **Output**: obsidian/concepts/naturally-occluded.md -- Context: Cross-review related articles considering concepts/naturally-occluded.md insights
 
 ### ✓ 2026-05-16: Address calibration overstatements in topics/introspection-architecture-independence-scoring.md
 - **Type**: refine-draft

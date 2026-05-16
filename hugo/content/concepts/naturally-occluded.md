@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-16
-ai_modified: 2026-05-16 01:23:00+00:00
+ai_modified: 2026-05-16 03:27:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: Human-AI inquiry into the fourth-kind void category — opacity tha
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-16 03:27:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -61,7 +62,7 @@ The Naturally Occluded category needs a formal anchor because adaptive explanati
 
 The theorem operationalises the category at one site: natural selection *systematically* favoured fitness-tuned over truth-tuned perception. The site is bounded — perception, not cognition in general — and the category inherits its initial credibility from this bounded formal result, earning extensions to other cognitive sites only as further evidence accumulates.
 
-Three independent extensions strengthen the category beyond perception. Gerd Gigerenzer's ecological-rationality programme documents *less-is-more effects* in which "systematically ignoring part of the available information leads to more accurate inferences" (Todd & Gigerenzer 2012). Robert Trivers' analysis of self-deception argues that "we deceive ourselves the better to deceive others" (Trivers & von Hippel 2011); some truths are actively suppressed from consciousness because their social-strategic costs exceed their representational benefits. James Field and Michael Bonsall (2018) prove formally that the reproductive value of information can become negative under realistic cost conditions — *acquiring information sometimes reduces fitness*. The four results converge on the structural claim the category needs: evolved cognitive systems are shaped to be selectively ignorant, not comprehensively informed.
+Three independent extensions strengthen the category beyond perception. Gerd Gigerenzer's ecological-rationality programme documents *less-is-more effects* in which "systematically ignoring part of the available information leads to more accurate inferences" (Todd & Gigerenzer 2012). The von Hippel and Trivers analysis of self-deception argues that "we deceive ourselves the better to deceive others" (von Hippel & Trivers 2011); some truths are actively suppressed from consciousness because their social-strategic costs exceed their representational benefits. James Field and Michael Bonsall (2018) prove formally that the reproductive value of information can become negative under realistic cost conditions — *acquiring information sometimes reduces fitness*. The four results converge on the structural claim the category needs: evolved cognitive systems are shaped to be selectively ignorant, not comprehensively informed.
 
 ## Catalogue Exemplars on the Adaptive Reading
 
@@ -73,7 +74,7 @@ The **[agency void](/voids/agency-void/)** reads as Naturally Occluded on the *S
 
 The **[noetic-feelings void](/voids/noetic-feelings-void/)** reads as Naturally Occluded on the *evolved attention-gating* hypothesis: the felt signals that gate cognition from inside — knowing, rightness, understanding, obviousness — must be fast and frugal to function under real-time pressure, hence cannot themselves be unpacked into their sub-personal computations without losing the speed advantage that justified their evolution.
 
-The exemplars share a structural feature: the void's *opacity is itself the function the void serves*. This distinguishes Naturally Occluded voids from Unexplorable ones, where opacity is incidental — and supplies the discipline against indiscriminate adaptive labelling: a void should be read as Naturally Occluded only when there is a credible account of *why visibility would carry costs*.
+The exemplars share a structural feature: the void's *opacity is itself the function the void serves*. This distinguishes the Naturally Occluded *reading* from the Unexplorable reading, where opacity is incidental to architectural impossibility (even when the same void admits both classifications) — and supplies the discipline against indiscriminate adaptive labelling: a void should be read as Naturally Occluded only when there is a credible account of *why visibility would carry costs*.
 
 ## The Calibration Burden
 
