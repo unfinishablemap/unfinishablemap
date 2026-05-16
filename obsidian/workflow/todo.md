@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/cross-tradition-channel-introspection-architecture-independence-scoring.md (4744 words, 158% of topics hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Article authored 2026-05-16 from cross-tradition-channel research; second-pass pessimistic review (2026-05-16b) already triggered a major in-place refine. Preserve (a) the four-criteria scoring framework; (b) the despite-commitments / because-prediction distinction; (c) the per-tradition observation catalogues (Buddhist *kleshas*; Stoic *propatheia*; Sufi *khawāṭir*; Advaita *adhyāsa*); (d) the architectural-specifics test; (e) tenet alignment. Trim by removing redundancy across the per-tradition sections — each currently re-derives the four-criteria framework inline; the framework should live once at the discipline-introduction section and each tradition section should apply it tersely. Defer detailed Sufi historiography to the Neoplatonist research note (cite, don't re-narrate). Target: ≤3500 words. **Sequencing**: run *after* the P2 Neoplatonist-audit refine above so the audit-aware framing survives the condense. Tenet alignment: methodological / writing-style. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-16
-
 ### P2: Condense topics/introspection-architecture-independence-scoring.md (4017 words, 134% of topics hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3693,6 +3686,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-16: Condense topics/cross-tradition-channel-introspection-architecture-independence-scoring.md (4744 words, 158% of topics hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Article authored 2026-05-16 from cross-tradition-channel research; second-pass pessimistic review (2026-05-16b) already triggered a major in-place refine. Preserve (a) the four-criteria scoring framework; (b) the despite-commitments / because-prediction distinction; (c) the per-tradition observation catalogues (Buddhist *kleshas*; Stoic *propatheia*; Sufi *khawāṭir*; Advaita *adhyāsa*); (d) the architectural-specifics test; (e) tenet alignment. Trim by removing redundancy across the per-tradition sections — each currently re-derives the four-criteria framework inline; the framework should live once at the discipline-introduction section and each tradition section should apply it tersely. Defer detailed Sufi historiography to the Neoplatonist research note (cite, don't re-narrate). Target: ≤3500 words. **Sequencing**: run *after* the P2 Neoplatonist-audit refine above so the audit-aware framing survives the condense. Tenet alignment: methodological / writing-style. See `/condense` skill.
 
 ### ✓ 2026-05-16: Apply Neoplatonist common-cause audit findings to topics/cross-tradition-channel-introspection-architecture-independence-scoring.md
 - **Type**: refine-draft

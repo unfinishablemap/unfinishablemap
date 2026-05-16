@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T19:51:02+00:00
+ai_modified: 2026-05-16T20:08:46+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 20:08 UTC - condense
+- **Status**: Success
+- **File**: [[topics/cross-tradition-channel-introspection-architecture-independence-scoring]]
+- **Before**: 5088 words
+- **After**: 3393 words
+- **Reduction**: 33%
+- **Technique**: Cut redundancy across all sections — collapsed multi-sentence audit-attribution restatements into single references; trimmed verbose conditional/caveat phrasing in scoring discussions; tightened Architectural-Specifics Test exposition; condensed Sufi independence-problem paragraph and Scoring-the-Channel summary; trimmed Modern Reception, Relation to Site Perspective, and Honest Limitations sections where claims were restated. Preserved opening summary, all three tradition analyses' core findings (*adhyāsa*/*antaḥkaraṇa* subdivision, hidden *riyāʾ*, *propatheia* on Sorabji), Architectural-Specifics Test, four-criterion scoring rubric, References, Further Reading, and Relation to Site Perspective.
 
 ## 2026-05-16 19:51 UTC - deep-review
 - **Status**: Success
