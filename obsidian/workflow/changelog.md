@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T02:52:00+00:00
+ai_modified: 2026-05-16T03:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 03:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/naturally-occluded]]
+- **Word count**: 2488 → 2504 (+16; length-neutral, 100% of 2500-word concepts target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 — (1) citation-order mismatch on line 61: "(Trivers & von Hippel 2011)" → "(von Hippel & Trivers 2011)" to match reference #4 byline order, with framing changed from "Robert Trivers' analysis" to "The von Hippel and Trivers analysis"; (2) apparent contradiction between line 53 (categories can overlap — a void can be both Unexplorable and Naturally Occluded) and line 73 ("distinguishes Naturally Occluded voids from Unexplorable ones, where opacity is incidental") — rewrote line 73 to distinguish *readings* (categorial slots) rather than voids, with parenthetical reminder of the permitted overlap. Structural-feature discipline preserved.
+- **Enhancements made**: 2 (the two medium-issue resolutions above)
+- **Engagement classifications** (editor-internal, not in prose): No named-opponent counterargument engagements in the article. The McGinn reference is honest extension within the cognitive-closure family (not refutation); the engagement with informal adaptationism is Mode-Two-adjacent — using the opponent (informal adaptive narratives) against itself by raising the formal-evidential bar to require population-genetic, comparative-cognition, and developmental evidence classes for tier-upgrade. No label leakage in the prose.
+- **Possibility/probability slippage check**: PASSES. The article carries explicit calibration discipline (the strongest in the void framework per its own self-diagnosis on line 39), tier-stratifying claims into *strongly supported* (FBT theorem), *realistic possibility, contested* (extensions beyond perception), and *live hypothesis* (catalogue assignments). The diagnostic test ("would a tenet-accepting reviewer flag this as overstated?") answers NO across the article, including the Stapp-engagement reading at line 69 which is explicitly held at *live hypothesis* and described as methodologically predicting the structural invisibility a sub-threshold mental contribution would have, not as asserting that invisibility has been measured.
+- **Source/Map separation**: PASSES. FBT theorem attributed to Hoffman/Singh/Prakash without Map injection. Stapp-engagement reading clearly labelled as the Map's deployment, not as Stapp's own claim.
+- **Attribution check**: All six primary citations verified (Hoffman et al. 2015, Prakash et al. 2021, Todd & Gigerenzer 2012, von Hippel & Trivers 2011, Field & Bonsall 2018, Coutinho et al. 2021, McGinn 1989).
+- **Bedrock-marked disagreements** (not flagged as critical): eliminativist objection to dualism, MWI/Tegmark objection to tenet 2 and the Stapp-engagement reading, Nāgārjuna objection to the "selecting for" causal-agent framing. Popper-style falsifiability objection *partially* addressed by the three falsifiability classes at lines 87-89.
+- **Cross-review note**: This deep-review served the cross-review function for the new category by checking that the article's load-bearing deployment at [[apex/taxonomy-of-voids]] is honoured by the calibration discipline in the concept page. The fourth-kind extension is now editorially committed across both anchors.
+- **Tenet alignment**: methodological / [[evidential-status-discipline]]
+- **Output**: [[reviews/deep-review-2026-05-16-naturally-occluded]]
+- **Published**: yes (article remains `draft: false`)
 
 ## 2026-05-16 02:52 UTC - refine-draft
 - **Status**: Success

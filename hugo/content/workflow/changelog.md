@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 02:29:00+00:00
+ai_modified: 2026-05-16 02:52:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-16'
@@ -9,7 +9,30 @@ related_articles: []
 title: Changelog
 ---
 
-## 2026-05-16 02:29 UTC - pessimistic-review
+## 2026-05-16 02:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Review file**: [pessimistic-2026-05-16](/reviews/pessimistic-2026-05-16/)
+- **Context**: First adversarial refine of the cluster's per-cluster independence-scoring exhibit. Deep-review (22:52 UTC) had declared no critical issues; the pessimistic pass (02:29 UTC) found three load-bearing calibration overstatements and a tier of medium counterargument items. This refine closes all three critical issues plus the medium tier. The article's overall structure and conclusion are preserved; what changes is calibration honesty about which anchors discharge which version of the common-cause null.
+- **Critical fixes**:
+  - **Gazzaniga reclassified** (§Despite-Commitments vs Because-Prediction): the article previously placed the entire Gazzaniga anchor in because-prediction on the basis that the interpreter framework was developed *to account for* split-brain results. Refine splits observation from framework — the 1978 split-brain confabulation observations are despite-commitments with respect to the pre-1978 cognitivist default; the 1985+ interpreter framework's subsequent confirmations are because-prediction. Headline count shifts from 5/3 to 6/2. Added a preamble paragraph stating the discipline operates on observations at time-of-observation, not on the mature explanatory framework, to head off the structural mistake the original made.
+  - **Healthy-adult overcount** (§Despite-Commitments vs Because-Prediction → split-as-load-bearing): the previous text bundled patient-population and healthy-adult despite-commitments anchors as if they jointly discharged the strongest common-cause null. Refine separates by population channel: only the patient-population despite-commitments anchors (Schnider, Hirstein — two anchors) license the structural claim against the strongest null (shared neurotypical introspective architecture); the healthy-adult despite-commitments anchors (Nisbett-Wilson, Johansson-Hall, Coutinho) supply methodological diversity within a channel whose structural defence does not extend to the strongest null. The honest accounting names 2 / 4 / 2 (strongest-null-licensing / methodological-diversity / because-prediction) rather than 5 / 3 or 6 / 2.
+  - **Kleshas paragraph rewritten** (§Population-Type Profile → Cross-tradition channel): the previous text asserted historical-isolation was satisfied by pre-modern origin alone and read the *kleshas* as cross-tradition agreement on the architectural framing. Refine (a) explicitly downgrades historical-isolation to *partially satisfied* — pre-modern origin is necessary but the *kleshas* tradition developed in dialogue with Sāṃkhya, Yoga, and Brahmanical philosophies of mind; the strong reading of isolation from cross-pollination is not earned; (b) separates the empirical parallel (introspective reports diverge from underlying machinery — cross-observer agreement here) from the metaphysical divergence (Buddhist diagnosis is anti-substantialist; the cluster's reading is bounded-witness — diagnoses run opposite); (c) names that treating the parallel as architectural-framing agreement would appropriate the data while inverting the conclusion, and limits the citation to empirical-signature convergence.
+- **Medium fixes**:
+  - Patient-population channel claim softened from "the convergence cannot be running through neurotypical shared machinery" to "cannot be running *only* through neurotypical shared machinery, because the populations under test exhibit architectural divergences (callosal disconnection, orbitofrontal lesion) that the standard machinery does not share" — the original overstated since callosotomy and orbitofrontal patients retain most neurotypical machinery.
+  - Stable-across-programmes claim (§Structured persistence) distinguished into empirical persistence (high) versus theoretical-persistence-as-a-void (uneven — predictive-processing absorbs the signature without requiring the bounded-witness reading; Clark, Hohwy cited).
+  - Nisbett-Wilson "fifty years" citation specified — Ericsson & Simon 1980 protocol-analysis counter-movement and the 2010s neural-correlate research programmes are now named as the specific waves of attempted resolution rather than asserted generically.
+  - Non-flatness claim softened — "the methodology is therefore not a flat instrument" → "the two-exhibit corpus has produced different scores so far; stronger non-flatness claims await an unfavourable test case", with an explicit acknowledgment that N=2 with one promotion-selected and one retraction-selected cluster is consistent with both *methodology works* and *methodology rationalises curatorial decisions*. Selection-bias concern named.
+  - Relation to Site Perspective tightened — the article now explicitly states that the compatibility-plus-boundary-marking weighting follows from the *lower* (interpretive-significance) framework-independence score, not the higher (architectural-finding) one, closing the cumulative-language drift the reviewer flagged.
+  - Cross-species gap framing — was "named, not filled"; now distinguishes the principled (direct verbal-report) impossibility from the contingent (proxy-channel design) fillability so the gap-naming does not read as a claim of permanent impossibility.
+  - Forward reference to abandon-coalesce (which doesn't yet exist) replaced with a descriptive phrasing pointing at the methodological pair-partner of [conjunction-coalesce](/apex/conjunction-coalesce/); the dedicated page can later be cross-linked when it lands.
+- **Engagement classifications** (editor-internal, not in prose): Churchland/Dennett (eliminativism, multiple-drafts) — Mode Three (framework-boundary marking, preserved from deep-review pass); Tegmark (operationalisation) — Mode Two on the N=2 numerical claim, addressed by softening the non-flatness assertion; Popper (falsifiability) — left as honest limitation rather than fully addressed (an unfavourable test case is a future-work item, not a same-pass deliverable); Nāgārjuna (Madhyamaka) — Mode Three plus structural-feature-only concession, now explicit in the rewritten kleshas paragraph.
+- **Word count**: ~3,000 → ~3,500 (net +~500 from the kleshas rewrite, the load-bearing decomposition, the predictive-processing distinction, the lower-score weighting paragraph, and the cross-species gap clarification; the article remains in normal topic-tier length range).
+- **Honoured**: [evidential-status-discipline](/project/evidential-status-discipline/) — the cluster's calibration is no longer over-generous against the strongest common-cause null; the licensing count for the strongest null is now explicitly 2 anchors, with the headline 6/2 retained but firewalled from being read as the licensing count.
+- **Tenet alignment**: methodological / [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Published**: yes (article remains `draft: false`)
+
+
 - **Status**: Success
 - **Content reviewed**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) — first adversarial audit of today's new methodological exhibit; deep-review (22:52 UTC) had declared no critical issues
 - **Output**: [pessimistic-2026-05-16](/reviews/pessimistic-2026-05-16/)

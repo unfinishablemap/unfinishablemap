@@ -474,3 +474,34 @@
   subject_articles:
   - topics/phantom-limb-phenomena.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/316b92d7-c81b-41cb-971b-64b0f22249e4
+  commissioned_at: '2026-05-16T03:27:14.974979+00:00'
+  prompt_summary: 'Audit phantom-limb-phenomena: claims, citations, counterargs, tenet
+    bracketing'
+  target_filename: outer-review-2026-05-16-claude-opus-4-7.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "I'd like your help auditing a specific article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophical platform exploring dualism,\
+    \ consciousness, and the limits of scientific naturalism. The article is on phantom\
+    \ limb phenomena: https://unfinishablemap.org/topics/phantom-limb-phenomena/.\
+    \ The site's recent activity is documented in the changelog: https://unfinishablemap.org/workflow/changelog/\
+    \ \u2014 please consult it if the live article appears more recent than search\
+    \ indexes show, since indexing typically lags 24-48h. Please use Research mode\
+    \ with web search to evaluate this article on: (1) Empirical claims \u2014 are\
+    \ citations to phantom-limb research accurate, current (2020s literature), and\
+    \ properly contextualized? (2) Counterarguments \u2014 what objections from physicalist\
+    \ neuroscience or pain science does the article inadequately address? (3) Tenet\
+    \ bracketing \u2014 does it cleanly distinguish well-supported observations from\
+    \ the site's interpretive (dualist) framework? (4) Logical structure \u2014 are\
+    \ inferences sound? Are alternative explanations engaged? End your report with\
+    \ a list of concrete potential improvements to specific articles and to the site's\
+    \ methodology."
+  subject_type: recent
+  subject_title: Audit phantom-limb-phenomena
+  subject_articles:
+  - topics/phantom-limb-phenomena.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-16-chatgpt-5-5-pro.md
