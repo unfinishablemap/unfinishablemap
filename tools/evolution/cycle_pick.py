@@ -51,6 +51,10 @@ from tools.todo.processor import TaskType  # noqa: E402
 STATE_PATH = REPO_ROOT / "obsidian" / "workflow" / "evolution-state.yaml"
 STOP_SIGNAL_PATH = REPO_ROOT / ".unfin" / "stop-loop"
 PENDING_TRIGGERS_PATH = REPO_ROOT / ".unfin" / "pending-triggers.json"
+# Sentinel: cycle_pick writes the chosen queue task here so cycle_post can
+# look it up by title (stable across line-number drift caused by skills
+# adding follow-up tasks to todo.md mid-iteration).
+CURRENT_QUEUE_TASK_PATH = REPO_ROOT / ".unfin" / "current-queue-task.json"
 
 MIN_QUEUE_TASKS = 3
 
@@ -199,6 +203,14 @@ def main() -> int:
             _emit_idle("queue_empty", "no executable queue tasks")
             return 0
         invocation = task_to_skill(task)
+        # Persist the task identity for cycle_post — title is stable
+        # across line-number drift caused by skills adding follow-up
+        # tasks to todo.md mid-iteration.
+        CURRENT_QUEUE_TASK_PATH.parent.mkdir(parents=True, exist_ok=True)
+        CURRENT_QUEUE_TASK_PATH.write_text(
+            json.dumps({"title": task.title, "line_number": task.line_number}),
+            encoding="utf-8",
+        )
         _emit_invoke(
             "queue",
             invocation.skill,

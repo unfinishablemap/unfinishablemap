@@ -47,6 +47,7 @@ from tools.todo.processor import parse_tasks  # noqa: E402
 STATE_PATH = REPO_ROOT / "obsidian" / "workflow" / "evolution-state.yaml"
 TODO_PATH = REPO_ROOT / "obsidian" / "workflow" / "todo.md"
 PENDING_TRIGGERS_PATH = REPO_ROOT / ".unfin" / "pending-triggers.json"
+CURRENT_QUEUE_TASK_PATH = REPO_ROOT / ".unfin" / "current-queue-task.json"
 
 AGENT_AUTHOR = "unfinishablemap.org Agent <agent@unfinishablemap.org>"
 
@@ -125,19 +126,56 @@ def _detect_sentinels(note: str) -> tuple[bool, bool]:
     return ("suspension_detected" in n, "login_required" in n)
 
 
+def _read_current_queue_task() -> tuple[str | None, int | None]:
+    """Read the chosen-task sentinel cycle_pick wrote. Returns (title, line)."""
+    if not CURRENT_QUEUE_TASK_PATH.is_file():
+        return (None, None)
+    import json
+    try:
+        data = json.loads(CURRENT_QUEUE_TASK_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        return (None, None)
+    return (data.get("title"), data.get("line_number"))
+
+
 def _mark_queue_task_completed(line_number: int) -> str | None:
-    """Mark the queue task at the given line as completed. Returns task title or None."""
+    """Mark the queue task as completed. Returns task title or None.
+
+    Lookup priority:
+      1. Title from `.unfin/current-queue-task.json` (stable across line
+         drift when skills add follow-up tasks to todo.md mid-iteration).
+      2. Line number passed in (fallback when sentinel missing/stale).
+    """
     content = load_todo()
     parsed = parse_tasks(content)
+
+    sentinel_title, sentinel_line = _read_current_queue_task()
+
+    # Try title match first if we have one.
+    if sentinel_title:
+        for task in parsed["active"]:
+            if task.title == sentinel_title:
+                try:
+                    mark_task_completed(task)
+                except Exception as e:
+                    emit("warning", f"mark_task_completed failed (title): {e}")
+                    return None
+                return task.title
+
+    # Fallback: lookup by line number.
     for task in parsed["active"]:
         if task.line_number == line_number:
             try:
                 mark_task_completed(task)
             except Exception as e:
-                emit("warning", f"mark_task_completed failed for line {line_number}: {e}")
+                emit("warning", f"mark_task_completed failed (line {line_number}): {e}")
                 return None
             return task.title
-    emit("warning", f"queue task at line {line_number} not found")
+
+    emit(
+        "warning",
+        f"queue task not found (title={sentinel_title!r}, line={line_number})",
+    )
     return None
 
 

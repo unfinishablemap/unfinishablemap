@@ -4,16 +4,14 @@ description: "Multiple philosophical traditions independently discovered that ev
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-05-14T20:42:00+00:00
-last_deep_review: 2026-03-29T19:20:00+00:00
+ai_modified: 2026-05-16T19:51:02+00:00
+last_deep_review: 2026-05-16T19:51:02+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
 concepts:
-  - "[[evaluative-phenomenal-character]]"
-  - "[[evaluative-phenomenal-character]]"
   - "[[evaluative-phenomenal-character]]"
   - "[[qualia]]"
   - "[[valence]]"
@@ -22,8 +20,6 @@ related_articles:
   - "[[topics/phenomenal-value-realism]]"
   - "[[topics/consciousness-and-normative-force]]"
   - "[[buddhism-and-dualism]]"
-  - "[[concepts/phenomenal-normativity]]"
-  - "[[concepts/evaluative-qualia]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[phenomenal-acquaintance]]"
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +45,7 @@ This matters because the most common physicalist response to [[evaluative-phenom
 
 ## Buddhist Vedanā: Evaluative Tone Before Thought
 
-The Pali *Satipaṭṭhāna Sutta* (c. 500 BCE) identifies *vedanā*—feeling tone—as the second of four foundations of mindfulness, more fundamental than mental states or conceptual content. Vedanā arises at sensory contact as pleasant, unpleasant, or neutral—pre-reflective evaluative phenomenology prior to emotion, preference, or judgment. It captures the felt valence of experience before any cognitive processing occurs.
+The Pali *Satipaṭṭhāna Sutta* (c. 500 BCE) identifies *vedanā*—feeling tone—as the second of four foundations of mindfulness, more fundamental than mental states or conceptual content. Vedanā arises at sensory contact as pleasant, unpleasant, or neutral—pre-reflective valence prior to emotion, preference, or judgment. The pleasant and unpleasant cases carry overt evaluative character; the neutral case (*adukkhamasukha*) is recognised as a felt absence-of-tone, not the lack of any phenomenal character whatsoever. Vedanā captures the felt valence of experience, including its zero point, before any cognitive processing occurs.
 
 The Abhidharma tradition elaborates: vedanā is a *cetasika* (mental factor) present in every moment of consciousness. There is no experience without evaluative tone. This structural claim—that evaluation pervades all experience rather than appearing only in special cases—parallels the Western [[evaluative-phenomenal-character|phenomenal normativity]] thesis that phenomenal experiences carry intrinsic normative force.
 
@@ -95,7 +91,9 @@ Onof (2008) identifies a further tension: if phenomenal properties are causally 
 
 Independent discovery across traditions does not prove that evaluative qualia are irreducible. But it shifts the burden of proof. The physicalist must explain why five traditions, using methods ranging from meditative attention to formal argument, all converged on the same phenomenological finding if that finding is merely a cognitive illusion or a projection.
 
-The projection hypothesis faces a specific difficulty: if evaluative character were projected onto neutral experience by culturally specific cognitive processes, we would expect different traditions to project different evaluative structures. Instead, the convergence is structural—evaluation is basic, pre-reflective, and constitutive rather than derivative. Buddhist vedanā, Confucian *qíng*, Indian *rasa*, Islamic *ʿilm al-ḥuḍūrī*, and Western evaluative qualia all share this structural profile despite emerging from incompatible metaphysical frameworks.
+The projection hypothesis faces a specific difficulty in two variants. The weaker form—evaluative character is projected by culturally specific cognitive processes—predicts that different traditions project different evaluative structures. The convergence is structural instead: evaluation is basic, pre-reflective, and constitutive rather than derivative. Buddhist vedanā, Confucian *qíng*, Indian *rasa*, Islamic *ʿilm al-ḥuḍūrī*, and Western evaluative qualia share this profile despite emerging from incompatible metaphysical frameworks.
+
+The stronger form appeals to shared human neural architecture: cross-cultural convergence is what we should expect from a single species running the same affective circuitry. This is the serious physicalist reply, and it carries weight against any claim that convergence by itself *proves* irreducibility. The reply nevertheless concedes the load-bearing point. Appealing to shared neural architecture relocates the explanatory puzzle without dissolving it: the question becomes why neural structures with these particular properties generate evaluative phenomenal character at all, rather than functioning silently. That is the [[hard-problem-of-consciousness|hard problem]] applied to value—and the physicalist owes a bridge from circuitry to felt mattering that the appeal to shared circuitry does not supply. The convergence does not refute physicalism inside the physicalist's framework; it shifts the burden by making the explanatory gap harder to localise as a quirk of one tradition's introspection.
 
 The Map interprets this convergence as evidence that evaluative phenomenal character tracks a real feature of consciousness—one that resists reduction precisely because it is not a physical property at all.
 
@@ -115,9 +113,7 @@ The cross-traditional convergence on evaluative qualia connects to the Map's [[t
 
 ## Further Reading
 
-- [[evaluative-phenomenal-character|evaluative qualia]] — The distinct category of phenomenal experiences carrying intrinsic evaluative character
-- [[evaluative-phenomenal-character|phenomenal normativity]] — The thesis that phenomenal experiences carry intrinsic normative force
-- [[evaluative-phenomenal-character|normative phenomenology]] — Methodological first-person investigation of normative properties
+- [[evaluative-phenomenal-character]] — The unified concept covering evaluative qualia, phenomenal normativity, and normative phenomenology
 - [[topics/phenomenal-value-realism]] — The metaethical position grounded in evaluative qualia
 - [[topics/consciousness-and-normative-force]] — How phenomenal normativity manifests across domains
 - [[buddhism-and-dualism]] — Buddhist perspectives on experience and dualism
