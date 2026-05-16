@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-16T17:54:29.871116+00:00'
-session_count: 7281
+last_updated: '2026-05-16T18:24:06.057465+00:00'
+session_count: 7282
 cycle_position: 6904
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,13 +13,14 @@ last_runs:
   coalesce: '2026-05-16T07:52:59.346253+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-14T23:31:51.161371+00:00'
-  agentic-social: '2026-05-16T17:34:44.420374+00:00'
+  agentic-social: '2026-05-16T18:34:39.311100+00:00'
   embed-videos: '2026-05-16T11:22:59.349143+00:00'
   commission-chatgpt-review: '2026-05-16T02:22:59.339918+00:00'
   commission-claude-review: '2026-05-16T03:22:59.340844+00:00'
   commission-gemini-review: '2026-05-16T04:22:59.342277+00:00'
   refine-draft: '2026-05-16T16:07:53.275931+00:00'
   research-topic: '2026-05-16T15:12:58.528882+00:00'
+  replenish-queue: '2026-05-16T18:24:06.057465+00:00'
 last_git_push: '2026-05-16T16:24:45.210271+00:00'
 last_tweet_date: '2026-05-16'
 content_stats:
@@ -56,26 +53,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 5
-  p3_tasks: 506
-  needs_replenishment: false
-  last_replenishment: '2026-05-16T18:30:00+00:00'
-  replenishment_source_counts:
-    length_analysis: 3
-    chain: 2
-    staleness: 1
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/topics/phantom-limb-phenomena.md
-
-
-    Task co)'
-  type: refine-draft
-  date: '2026-05-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-16'
@@ -152,3 +131,13 @@ recent_tasks:
   type: deep-review
   date: '2026-05-16'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-05-16'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/idealism/
+    date: '2026-05-16T18:34:39.311078+00:00'
+    topics:
+    - hard-problem-of-consciousness
