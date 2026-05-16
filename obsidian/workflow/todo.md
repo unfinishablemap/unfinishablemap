@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T18:00:00+00:00
+ai_modified: 2026-05-16T18:30:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Condense topics/phantom-limb-phenomena.md (8074 words, 269% of topics critical threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 6000-word critical threshold for topics/. Today's six refine passes (Price 2006 + Root 2022 engagement; congenital-phantoms expansion; lede feature (iii) qualification; falsifier #4 rewrite; structural-default reading hedging; Brugger 2000 reframe) added ~700 words to a file already over-length. Preserve (a) core arguments at lede; (b) Price 2006 / Root 2022 / Crawford 2014 / Melzack et al. 1997 engagement at congenital-phantoms section; (c) falsifier list in §"What Would Challenge This View?"; (d) tenet alignment in §"Relation to Site Perspective". Trim by removing redundancy across the five empirical-case clusters (referred sensation; immediate-onset; vivid-quality; pre-amputation pain correlation; congenital phantoms) — each currently re-derives the structural-default framing inline; the load-bearing statement of the framing should live once at the lede and be referenced cleanly. Defer detailed mechanism-debate exegesis to `[[concepts/body-schema]]` or sibling pages where possible. Also: six `<!-- AI REFINEMENT LOG -->` blocks at lines 196–310 (~115 lines) should be moved to a sidecar `topics/phantom-limb-phenomena.refinement-log.md` per the non-temporal-consciousness pattern (an existing P3 task at line ~? overlaps; subsume that task or sequence after). Target: ≤5500 words (below hard threshold). Tenet alignment: methodological / writing-style + Tenet 1 (Dualism). See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-16
+
+### P2: Apply Neoplatonist common-cause audit findings to topics/cross-tradition-channel-introspection-architecture-independence-scoring.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Chain from completed 2026-05-16 research-topic (`research/neoplatonist-common-cause-introspection-architecture-2026-05-16.md`) which audited the un-audited Neoplatonist common-cause channel that the cross-tradition article had named as "the largest residual gap in the channel's independence calibration." Research conclusion: the overall score holds at *low-moderate* rather than collapsing to kleshas-only-equivalent, but the *Sufi* component requires a sharper common-cause discount than the article currently applies (early Sufi inner-faculty psychology, including Muḥāsibī, carried a Neoplatonist substrate via Evagrius Ponticus's 4th-century Christian-monastic *logismoi* doctrine and via direct philosophical transmission through the al-Kindī-circle Arabic Plotinus by mid-9th century). Stoic *propatheia* and Advaita Vedānta findings are unaffected (Plotinus inherited from Stoics rather than feeding them; Advaita's architectural specifics predate any Plotinian-Vedānta mediation channel). Refine the article to: (a) replace the "score-pending-Neoplatonist-audit" caveat (if still present) with the audit verdict at the relevant scoring paragraph; (b) sharpen the *khawāṭir* taxonomy / *muḥāsaba* practice "cleanest historical-isolation defence" framing — partly undermined by Evagrian *logismoi* anteriority and Arabic-Plotinus transmission; (c) leave Stoic *propatheia* and Advaita scoring intact but cite the audit's chronological/directional arguments for why they're unaffected; (d) propagate the Sufi-specific discount into the channel's overall score (still *low-moderate* but with sharper component-level calibration); (e) cross-link to the research note and to `[[project/common-cause-null]]` + `[[project/voids-circularity-discount]]` where the discount discipline lives. Estimated scope: ~250–450 words touched. Tenet alignment: methodological / `[[evidential-status-discipline]]` + `[[project/common-cause-null]]`. **Sequencing**: best run *before* any condense task on the same article (P2 below) so the new audit-aware framing survives the condense pass rather than being trimmed.
+- **Source**: chain (research-topic neoplatonist-common-cause-introspection-architecture 2026-05-16)
+- **Generated**: 2026-05-16
+
+### P2: Condense topics/cross-tradition-channel-introspection-architecture-independence-scoring.md (4744 words, 158% of topics hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Article authored 2026-05-16 from cross-tradition-channel research; second-pass pessimistic review (2026-05-16b) already triggered a major in-place refine. Preserve (a) the four-criteria scoring framework; (b) the despite-commitments / because-prediction distinction; (c) the per-tradition observation catalogues (Buddhist *kleshas*; Stoic *propatheia*; Sufi *khawāṭir*; Advaita *adhyāsa*); (d) the architectural-specifics test; (e) tenet alignment. Trim by removing redundancy across the per-tradition sections — each currently re-derives the four-criteria framework inline; the framework should live once at the discipline-introduction section and each tradition section should apply it tersely. Defer detailed Sufi historiography to the Neoplatonist research note (cite, don't re-narrate). Target: ≤3500 words. **Sequencing**: run *after* the P2 Neoplatonist-audit refine above so the audit-aware framing survives the condense. Tenet alignment: methodological / writing-style. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-16
+
+### P2: Condense topics/introspection-architecture-independence-scoring.md (4017 words, 134% of topics hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Parent exhibit article for the introspection-architecture independence-scoring programme. Multiple refines through May 2026 have accreted material; preserve (a) the four-criteria methodological scaffold; (b) the per-cluster scoring rubric the per-cluster exhibits inherit; (c) the cross-references to the dedicated channel articles (`cross-tradition-channel-…`, `cross-species-channel-…`, `pupillometry-behavioural-channel`); (d) tenet alignment. Trim by deferring channel-specific exegesis to the dedicated channel articles (which already exist as siblings) — the parent exhibit should orient readers to the programme and route them to the channels, not re-derive each channel's findings inline. Target: ≤3500 words. Tenet alignment: methodological / writing-style. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-16
+
+### P2: Cross-review related articles considering concepts/naturally-occluded.md insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from 2026-05-16 `expand-topic` creating `obsidian/concepts/naturally-occluded.md`, which formally promotes the "Naturally Occluded" category from informal mention to load-bearing fourth-kind anchored by the FBT theorem. Today's deep-review (`reviews/deep-review-2026-05-16-naturally-occluded.md`) found the article first-review-stable. The cross-review pass should install reciprocal back-links from the most-relevant existing articles: (a) `apex/taxonomy-of-voids.md` — the existing "From Three Kinds to Four" section should now cite the dedicated concept page rather than re-deriving the fourth-kind framing; verify the apex's three-kinds → four-kinds transition is consistent with the concept page's FBT-theorem anchoring. (b) `voids/three-kinds-of-void.md` — the older three-kinds article should be brought into consistency with the now-canonical four-kinds framing (or the older three-kinds article should be flagged for archive/coalesce if it has been superseded). (c) `voids/biological-cognitive-closure.md` — the FBT-theorem grounding belongs in the closure literature this article catalogues. (d) `concepts/fitness-beats-truth.md` (if it exists) or whichever article carries the FBT-theorem treatment — install reciprocal cross-reference. (e) 1–2 secondary targets per the deep-review's cross-link suggestions. Honour `[[evidential-status-discipline]]` — FBT theorem is a formal-mathematical anchor, not a metaphysical-truth claim; ensure cross-references preserve this register. Estimated scope: ~200–400 words touched across 5–7 articles. Tenet alignment: methodological + Tenet 1 (Dualism — the four-kinds framing supports the bounded-witness architecture).
+- **Source**: chain (expand-topic naturally-occluded.md 2026-05-16)
+- **Generated**: 2026-05-16
+
+### P3: Deep review topics/constitutive-exclusion.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (`ai_contribution: 100`) last deep-reviewed 71 days ago. Routine staleness check — verify the article (a) still reflects the catalogue's current framing of the exclusion problem (recent type-token-causation, integration-as-activity, interface-threshold, selection-only-channel concept pages have changed the surrounding cluster); (b) cross-links remain live and point to the right canonical pages (post-coalesce/post-archive); (c) tenet routing remains accurate (the article's "Relation to Site Perspective" section should reflect any Tenet 5 refinements that have landed since the last review); (d) honours `[[evidential-status-discipline]]` and the catalogue's anti-LLM-cliché disciplines (no banned "not X but Y" constructions; no editor-vocabulary leakage). Short scope; deep-review with in-place fixes if minor, or generate follow-on refine-draft task if substantive. Tenet alignment: methodological / staleness audit.
+- **Source**: staleness
+- **Generated**: 2026-05-16
 
 ### ✓ 2026-05-16: Engage Price 2006 + Root 2022 on congenital phantoms in topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
