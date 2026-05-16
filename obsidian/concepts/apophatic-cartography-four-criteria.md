@@ -4,7 +4,8 @@ description: "Signature specificity, structured persistence, cross-observer conv
 created: 2026-05-16
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-05-16T00:24:00+00:00
+ai_modified: 2026-05-16T00:52:00+00:00
+last_deep_review: 2026-05-16T00:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +36,7 @@ ai_generated_date: 2026-05-16
 last_curated:
 ---
 
-Four criteria decide when a cognitive failure earns the label *void* in the Map's catalogue rather than the label *ignorance not yet repaired*: **signature specificity** (the failure has a distinct shape, not generic mystery), **structured persistence** (the shape survives translation across time and across competing frameworks), **cross-observer convergence** (independent observers in independent traditions arrive at the same shape), and **framework independence** (the observation is recorded even when the observer's framework does not predict it). [[apophatic-cartography|Apophatic cartography]] introduces them; [[apex/taxonomy-of-voids|the taxonomy of voids]] invokes them at line 162 as the catalogue's epistemic backbone; the [[the-surplus-void|surplus-void retraction]] and [[topics/introspection-architecture-independence-scoring|the introspection-architecture sub-cluster scoring]] are the two worked exhibits that show the criteria functioning as a calibration instrument rather than as a flat stamp of approval.
+Four criteria decide when a cognitive failure earns the label *void* in the Map's catalogue rather than the label *ignorance not yet repaired*: **signature specificity** (the failure has a distinct shape, not generic mystery), **structured persistence** (the shape survives translation across time and across competing frameworks), **cross-observer convergence** (independent observers in independent traditions arrive at the same shape), and **framework independence** (the observation is recorded even when the observer's framework does not predict it). [[apophatic-cartography|Apophatic cartography]] originally listed five criteria with two further indicators; [[apex/taxonomy-of-voids|the taxonomy of voids]] consolidated to the four invoked at line 162 as the catalogue's epistemic backbone, folding *progressive articulation* (finer structure unfolding as inquiry deepens) into structured persistence's temporal face. The [[the-surplus-void|surplus-void retraction]] and [[topics/introspection-architecture-independence-scoring|the introspection-architecture sub-cluster scoring]] are the two worked exhibits that show the criteria functioning as a calibration instrument rather than as a flat stamp of approval.
 
 This page consolidates the four criteria into a single referential anchor. Each criterion is stated cleanly, operationalised against the two worked exhibits, paired with its specific failure mode, and bounded against the temptation to read the criteria as a proof procedure. The criteria are *calibration* instruments — they bound what evidential weight a cluster can claim, not what it has shown.
 
@@ -98,7 +99,7 @@ The criteria do four kinds of work the catalogue depends on.
 
 **Calibrating evidential weight.** The criteria translate cluster structure into a calibrated label from the [[evidential-status-discipline|evidential-status discipline]]'s five-tier scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*). A cluster scoring high on signature specificity, structured persistence, and framework independence with mixed cross-observer convergence is in a position to earn *strongly supported* for the architectural finding and *realistic possibility* for the interpretive significance — but not *established* for either, and not even *strongly supported* for the interpretive significance without further independent triangulation.
 
-**Discriminating clusters at different positions on the scale.** The criteria are not a flat instrument. The two worked exhibits produce visibly different scores: the surplus void retracted from independent-evidence framing to framework-internal-coherence calibration; the introspection-architecture sub-cluster *partially retains* its independence score on the architectural finding while ceding ground on the interpretive significance. The methodology must score these differently for it to be doing work; it does.
+**Discriminating clusters at different positions on the scale.** The criteria are not a flat instrument. The two worked exhibits produce visibly different scores: the surplus void retracted from independent-evidence framing to framework-internal-coherence calibration; the introspection-architecture sub-cluster *partially retains* its independence score on the architectural finding while ceding ground on the interpretive significance.
 
 ## Honest Bounds
 
