@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T19:00:00+00:00
+ai_modified: 2026-05-16T20:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 20:00 UTC - deep-review (cross-review of naturally-occluded insights)
+- **Status**: Success
+- **File**: [[voids/three-kinds-of-void]] (subject) + [[concepts/adaptive-cognitive-limits]] (reciprocal link only)
+- **Driver**: Cross-review task following today's expand-topic creation of [[concepts/naturally-occluded]] (`reviews/deep-review-2026-05-16-naturally-occluded.md`). The new concept article formally promotes the "Naturally Occluded" category from informal mention to load-bearing fourth-kind, anchored by the FBT theorem. The parent apex [[apex/taxonomy-of-voids|taxonomy-of-voids]] (deep-reviewed 2026-05-15) already contains a "From Three Kinds to Four" section. This cross-review brings [[voids/three-kinds-of-void]] into consistency with the now-canonical four-kinds framing.
+- **Word count**: three-kinds-of-void 1926 → 1998 (+72; 100% of 2000-word voids soft threshold, "ok" status)
+- **Critical issues addressed**: 1 (canonical-position inconsistency — previous stability note "do not adopt naturally-occluded as a formal category" overturned by apex-level editorial decision; re-flagging licit per deep-review §1.5 case 2)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 4 (opener acknowledges four-kinds extension + links to [[naturally-occluded]] and [[apex/taxonomy-of-voids]]; line-83 update directs to dedicated concept article and cites [[fitness-beats-truth]] formal anchor; reciprocal `related_articles` and Further Reading on both files; filler trim "in a particularly vivid way" to maintain length-neutrality)
+- **Stability**: Eighth review. Article retains its title and role as canonical home of the original three-kinds taxonomy; the fourth kind is acknowledged in opener and line-83 with links to its dedicated home, but no top-level `## Naturally Occluded` section added. Presence/absence axis stability preserved (not collapsed into the four-kinds scheme).
+- **Engagement modes**: No named-opponent counterargument engagements in this article; pessimistic personas raised bedrock objections at the tenet boundary, which the article continues to address methodologically (the "testably speculative" calibration). No label leakage.
+- **Possibility/probability slippage check**: PASSES. The four-kinds addition is structural, not evidential; no void's tier is upgraded.
+- **Output**: [[reviews/deep-review-2026-05-16b-three-kinds-of-void]]
 
 ## 2026-05-16 19:00 UTC - deep-review
 - **Status**: Success

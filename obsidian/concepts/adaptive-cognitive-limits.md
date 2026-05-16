@@ -2,9 +2,9 @@
 title: "Adaptive Cognitive Limits"
 description: "Human-AI inquiry into cognitive limits as evolutionary features — blind spots maintained by natural selection because ignorance conferred fitness advantage, not defects awaiting correction."
 created: 2026-03-23
-modified: 2026-03-23
+modified: 2026-05-16
 human_modified:
-ai_modified: 2026-04-28T22:45:00+00:00
+ai_modified: 2026-05-16T05:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ related_articles:
   - "[[self-maintained-cognitive-limits]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[three-kinds-of-void]]"
+  - "[[naturally-occluded]]"
   - "[[compound-failure-signatures]]"
   - "[[perceptual-degradation-and-the-interface]]"
   - "[[what-voids-reveal]]"
@@ -102,6 +103,7 @@ A bootstrapping problem remains: if philosophical intuitions are fitness-shaped,
 - [[self-maintained-cognitive-limits]] — The motivational deflection that steers thought away from certain territories
 - [[meta-epistemology-of-limits]] — Whether we can distinguish genuine closure from difficult problems
 - [[three-kinds-of-void]] — The taxonomy adaptive limits refine
+- [[naturally-occluded]] — The dedicated fourth-kind void concept anchored by FBT and the void-side counterpart to this article
 - [[compound-failure-signatures]] — Mapping different modes of cognitive failure
 - [[perceptual-degradation-and-the-interface]] — How Hoffman's interface theory connects to perceptual breakdown
 
