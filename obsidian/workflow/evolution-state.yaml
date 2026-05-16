@@ -1,7 +1,3 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
 last_updated: '2026-05-16T07:52:59.346253+00:00'
 session_count: 7253
 cycle_position: 6881
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-16T07:52:59.346253+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-14T23:31:51.161371+00:00'
-  agentic-social: '2026-05-16T07:22:59.345523+00:00'
+  agentic-social: '2026-05-16T08:28:46.481627+00:00'
   embed-videos: '2026-05-15T23:20:28.067528+00:00'
   commission-chatgpt-review: '2026-05-16T02:22:59.339918+00:00'
   commission-claude-review: '2026-05-16T03:22:59.340844+00:00'
@@ -108,7 +104,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-16'
   outcome: success
-- task: expand-topic (Write topic article — Per-Cluster Independence-Sco)
+- task: "expand-topic (Write topic article \u2014 Per-Cluster Independence-Sco)"
   type: expand-topic
   date: '2026-05-16'
   outcome: success
@@ -120,7 +116,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-16'
   outcome: success
-- task: expand-topic (Write apex methodology page — apex/abandon-coalesc)
+- task: "expand-topic (Write apex methodology page \u2014 apex/abandon-coalesc)"
   type: expand-topic
   date: '2026-05-16'
   outcome: success
@@ -136,3 +132,9 @@ recent_tasks:
   type: coalesce
   date: '2026-05-16'
   outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/content-specificity-of-mental-causation/
+    date: '2026-05-16T08:28:46.481608+00:00'
+    topics:
+    - hard-problem-of-consciousness

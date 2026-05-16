@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T07:52:00+00:00
+ai_modified: 2026-05-16T08:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 08:28 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Pupillometry as Behavioural-Channel Detection of What the Verbal Channel Misses
+- **Output**: [[topics/pupillometry-behavioural-channel]]
+- **Word count**: 2347
+- **Based on research**: no (drew on `[[reviews/optimistic-2026-05-15]]` Ideas for Later §line 115 and existing material in `[[voids/confabulation-void]]`, `[[topics/microphenomenological-interview-method]]`, `[[concepts/heterophenomenology]]`)
 
 ## 2026-05-16 07:52 UTC - coalesce
 - **Status**: Abandoned (no merger executed)
