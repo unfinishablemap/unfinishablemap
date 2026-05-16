@@ -52,22 +52,28 @@ JSON.stringify({
 
 If `visibilityState !== "visible"`, log a warning. Proceed anyway — Chrome MCP commands tend to make the tab visible enough for our queries even if `document.hidden` reports true. If the same conversation persistently fails to render after multiple collect attempts, escalate by navigating to the URL again (full page load forces a fresh render).
 
-## Step 3: Check readiness (poll, don't single-shot)
+## Step 3: Check readiness (poll for artifact tile, ignore stopBtn)
 
-The artifact tile can take longer than the Step-2.5 wake budget to render — Claude.ai lazily mounts research artifacts and the tab may not have full focus when the dispatcher's freshly-spawned Chrome subprocess opens it. A single check misses these cases and the skill incorrectly increments `collect_attempts`. **Run an explicit poll loop with 8 attempts** — phrased as a numbered procedure to prevent shortcutting:
+The artifact tile can take longer than the Step-2.5 wake budget to render — Claude.ai lazily mounts research artifacts and the tab may not have full focus when the dispatcher's freshly-spawned Chrome subprocess opens it. A single check misses these cases and the skill incorrectly increments `collect_attempts`. **Run an explicit poll loop with 8 attempts** — phrased as a numbered procedure to prevent shortcutting.
 
-The readiness check (call this **CHECK**):
+### Why we don't check stopBtn
+
+A previous version of this check required `stopBtn === false` AND `artifactTiles.length >= 1`. The 2026-05-16 cycle exposed that signal as unreliable: on the abandoned Claude entry, `stopBtn` was still `true` **eight hours after commission**, despite the artifact body being fully written and self-coherent (53 KB, clean end-of-report sentence). The 5 dispatcher attempts each correctly saw `stopBtn: true` and incremented — but the artifact had been ready the whole time. Plausible causes: Claude continues post-artifact text generation (closing summary, verification rounds) in project + research mode, or the `stop response` aria-label persists in the DOM after streaming ends, or the Claude Code extension banner contributes a matching button. The fix is to stop using `stopBtn` as a gate; the **body-stability sentinel** in Step 4 is the robust replacement signal for "artifact is finished writing."
+
+### The readiness check
+
 ```javascript
 JSON.stringify({
   msgCount: document.querySelectorAll('[data-testid="user-message"]').length,
-  artifactTiles: Array.from(document.querySelectorAll('button[aria-label^="View "]')).map(b => b.getAttribute('aria-label')),
-  stopBtn: !!Array.from(document.querySelectorAll('button')).find(b => /stop response/i.test(b.getAttribute('aria-label') || ''))
+  artifactTiles: Array.from(document.querySelectorAll('button[aria-label^="View "]')).map(b => b.getAttribute('aria-label'))
 })
 ```
 
-**Ready** when: `stopBtn === false` AND `artifactTiles.length >= 1`.
+**Ready** when: `artifactTiles.length >= 1`. (No stopBtn check. Body completeness is verified in Step 4 via the stability sentinel.)
 
-**Poll procedure (do every step; do NOT stop early on not-ready until poll 8)**:
+Call this **CHECK**.
+
+### Poll procedure (do every step; do NOT stop early on not-ready until poll 8)
 
 1. Run **CHECK** (poll 1). If ready → jump to Step 4.
 2. `computer.scroll` direction `down`, `scroll_amount: 1`. Then `computer.wait` duration `5`.
@@ -87,7 +93,7 @@ JSON.stringify({
 
 Total budget for Step 3: ~40 seconds (8 checks + 7 inter-poll waits). Log each CHECK result so a failed run leaves a trace.
 
-**Not ready after 8 polls**:
+**Not ready after 8 polls** (artifact tile never appeared):
 
 ```python
 from tools.reviews.pending import increment_attempt
@@ -98,11 +104,11 @@ then exit. Next loop iteration retries from scratch (fresh tab, fresh navigate).
 
 **Abandon check** (do this *before* the increment, after the 8th failed poll): if `(now - commissioned_at) >= 4 hours` AND still not ready, `mark_abandoned(target_filename)`, log Telegram WARNING, exit without incrementing.
 
-## Step 4: Open the artifact panel
+## Step 4: Open the artifact panel and verify body-stability
 
 Click the LAST `button[aria-label^="View "]` (most recent artifact). Use the `find` tool with the artifact's title text from Step 3 to get a ref, then `computer` action `left_click` with the ref.
 
-Wait 2s for the side panel to render. Verify:
+Wait 2s for the side panel to render. **MEASURE** the body:
 
 ```javascript
 JSON.stringify({
@@ -114,7 +120,19 @@ JSON.stringify({
 })
 ```
 
-`panelOpen: true` AND `bodySize > 1000` indicates the artifact body is rendered.
+This MEASURE is also the **body-stability sentinel** used in place of the discarded stopBtn check (see Step 3 rationale). Procedure:
+
+1. Confirm `panelOpen: true`. If false, the click did not land — retry once with a longer wait (4s) and a `computer.scroll_to` on the artifact-tile ref to bring it into view; if still closed, bail to **not-ready** path (Step 3 increment + exit).
+2. Record `bodySize` as `len1`.
+3. Reject immediately if `len1 < 1000` — the artifact may be a stub or still mounting. Bail to not-ready.
+4. `computer.wait` duration `10`.
+5. Re-run **MEASURE**, record `bodySize` as `len2`.
+6. **Stable** when `len1 == len2` AND `len2 >= 1000`. Proceed to Step 5.
+7. **Still streaming** when `len2 > len1` (body grew during the 10s window). Take one more sample: `computer.wait` `10`, MEASURE again as `len3`. If `len3 == len2`, stable — proceed to Step 5. If `len3 > len2`, the artifact is genuinely still being written; bail to not-ready (increment, exit; next iteration tries again).
+
+Total body-stability budget: 10–20 seconds added to Step 4. This is the load-bearing readiness signal; do not skip it.
+
+**Why the stability check matters more than the wait budget cost:** Step 3's tile-presence check is intentionally tolerant — the tile can appear during streaming. Without the stability sentinel, we'd risk extracting half-written artifacts. The 2026-05-16 incident showed that `stopBtn === false` is *not* a reliable proxy for "streaming finished," so we must check the artifact body itself.
 
 ## Step 5: Extract the artifact body (in JS)
 
@@ -285,7 +303,8 @@ Total runtime budget: 10 minutes.
 |---|---|---|
 | No ready entry | `find_ready(service="claude")` returns None | Silent skip. |
 | Login expired | composer absent OR URL redirected | Emit `LOGIN_REQUIRED: claude session expired` and stop. |
-| Response not ready | stop button present OR no artifact tile | `increment_attempt`, exit. |
+| Response not ready | no artifact tile after 8 polls in Step 3 | `increment_attempt`, exit. |
+| Artifact still streaming | body-stability check in Step 4 shows `len3 > len2` (growing across 20s window) | `increment_attempt`, exit. |
 | Response abandoned | `commissioned_at + 4h ≤ now` AND still not ready | `mark_abandoned`, log WARN, stop. |
 | Artifact panel doesn't open | `panelOpen: false` after click | Retry once with a longer wait, then bail. |
 | DOM extraction empty | `bodyLen === 0` after walk | Log error, leave entry pending for retry. |
