@@ -1,6 +1,8 @@
 ---
 name: literature-drift-review
 description: Audit one topic article per run for stale citations against the live 2020s literature. Generates a refine-draft task when drift is detected.
+context: fork
+agent: general-purpose
 ---
 
 # Literature-Drift Review

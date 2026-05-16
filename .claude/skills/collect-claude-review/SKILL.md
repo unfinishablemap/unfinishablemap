@@ -1,6 +1,8 @@
 ---
 name: collect-claude-review
 description: Open a previously-commissioned Claude conversation in Chrome, check whether the research artifact is ready, click the artifact tile, extract its body as markdown, write the file with seed frontmatter, mark the pending entry collected, and invoke /outer-review.
+context: fork
+agent: general-purpose
 ---
 
 # Collect Claude Review

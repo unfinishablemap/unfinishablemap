@@ -1,6 +1,8 @@
 ---
 name: validate-all
 description: Run comprehensive validation on all site content. Use for daily health checks or before deployment.
+context: fork
+agent: general-purpose
 ---
 
 # Validate All Content

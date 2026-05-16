@@ -1,6 +1,8 @@
 ---
 name: pessimistic-review
 description: Critically analyze content for logical gaps, unsupported claims, and potential counterarguments. Does not modify content.
+context: fork
+agent: general-purpose
 ---
 
 # Pessimistic Review

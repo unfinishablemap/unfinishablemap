@@ -1,6 +1,8 @@
 ---
 name: combine-outer-reviews
 description: Synthesize all outer reviews from a single UTC cycle into one convergence report; upgrade priority of tasks flagged by ≥2 reviewers.
+context: fork
+agent: general-purpose
 ---
 
 # Combine Outer Reviews

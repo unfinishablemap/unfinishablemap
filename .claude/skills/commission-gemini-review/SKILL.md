@@ -1,6 +1,8 @@
 ---
 name: commission-gemini-review
 description: Open Gemini in Chrome, enable Deep Research from the Tools menu (Pro is default), submit an outer-review prompt, click the "Start research" button on the research-plan stage, record the pending entry, and exit. Pairs with collect-gemini-review which retrieves the response after ~20 minutes.
+context: fork
+agent: general-purpose
 ---
 
 # Commission Gemini Review

@@ -1,6 +1,8 @@
 ---
 name: check-links
 description: Check all internal links on the local Hugo site for broken links. Use before pushing to verify site integrity.
+context: fork
+agent: general-purpose
 ---
 
 # Link Checker

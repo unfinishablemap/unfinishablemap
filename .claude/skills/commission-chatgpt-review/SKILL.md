@@ -1,6 +1,8 @@
 ---
 name: commission-chatgpt-review
 description: Open ChatGPT in Chrome, configure GPT-5.5 Pro with Extended thinking, submit an outer-review prompt, record the pending entry, and exit. Pairs with collect-chatgpt-review which retrieves the response after ~90 minutes.
+context: fork
+agent: general-purpose
 ---
 
 # Commission ChatGPT Review

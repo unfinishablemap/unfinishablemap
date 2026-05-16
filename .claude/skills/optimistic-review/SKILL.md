@@ -1,6 +1,8 @@
 ---
 name: optimistic-review
 description: Identify content strengths and opportunities for expansion. Suggests new topics and connections.
+context: fork
+agent: general-purpose
 ---
 
 # Optimistic Review

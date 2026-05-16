@@ -1,6 +1,8 @@
 ---
 name: collect-gemini-review
 description: Open a previously-commissioned Gemini conversation in Chrome, check whether the Deep Research report is ready, extract it as markdown from the inline panel, write the file with seed frontmatter, mark the pending entry collected, and invoke /outer-review.
+context: fork
+agent: general-purpose
 ---
 
 # Collect Gemini Review

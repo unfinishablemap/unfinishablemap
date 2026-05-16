@@ -1,6 +1,8 @@
 ---
 name: deep-review
 description: Comprehensive single-document review combining pessimistic and optimistic analysis with improvements. Modifies content.
+context: fork
+agent: general-purpose
 ---
 
 # Deep Review

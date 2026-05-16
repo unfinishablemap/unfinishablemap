@@ -1,6 +1,8 @@
 ---
 name: research-topic
 description: Research a philosophical topic using web search. Outputs research notes, not finished content.
+context: fork
+agent: general-purpose
 ---
 
 # Research Topic

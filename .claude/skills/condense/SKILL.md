@@ -1,6 +1,8 @@
 ---
 name: condense
 description: Intelligently reduce article length while preserving value. Does not arbitrarily truncate.
+context: fork
+agent: general-purpose
 ---
 
 # Condense Article

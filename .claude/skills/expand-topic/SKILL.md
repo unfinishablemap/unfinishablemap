@@ -1,6 +1,8 @@
 ---
 name: expand-topic
 description: Generate a new article on a topic. Content is published directly.
+context: fork
+agent: general-purpose
 ---
 
 # Expand Topic

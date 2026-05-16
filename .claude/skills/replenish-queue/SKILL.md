@@ -1,6 +1,8 @@
 ---
 name: replenish-queue
 description: Replenish the task queue when active tasks run low. Generates tasks from research chains, gap analysis, staleness, orphans, and length violations.
+context: fork
+agent: general-purpose
 ---
 
 # Replenish Queue

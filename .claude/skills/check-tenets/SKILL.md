@@ -1,6 +1,8 @@
 ---
 name: check-tenets
 description: Verify all site content aligns with the five foundational tenets. Use monthly or after major content additions.
+context: fork
+agent: general-purpose
 ---
 
 # Check Tenet Alignment

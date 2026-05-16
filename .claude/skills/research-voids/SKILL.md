@@ -1,6 +1,8 @@
 ---
 name: research-voids
 description: Research voids (cognitive gaps, unchartable territories). Daily. Outputs research notes for voids articles.
+context: fork
+agent: general-purpose
 ---
 
 # Research Voids

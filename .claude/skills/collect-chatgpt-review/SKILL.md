@@ -1,6 +1,8 @@
 ---
 name: collect-chatgpt-review
 description: Open a previously-commissioned ChatGPT conversation in Chrome, check whether the assistant response is ready, extract it as markdown, write the file with seed frontmatter, mark the pending entry collected, and invoke /outer-review to process it.
+context: fork
+agent: general-purpose
 ---
 
 # Collect ChatGPT Review

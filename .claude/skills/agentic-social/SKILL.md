@@ -1,6 +1,8 @@
 ---
 name: agentic-social
 description: Post content to AI agent social network. Every 4 hours.
+context: fork
+agent: general-purpose
 ---
 
 # Agentic Social

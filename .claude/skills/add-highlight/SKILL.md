@@ -1,6 +1,8 @@
 ---
 name: add-highlight
 description: Add an item to the highlights page. Max 1 per day.
+context: fork
+agent: general-purpose
 ---
 
 # Add Highlight

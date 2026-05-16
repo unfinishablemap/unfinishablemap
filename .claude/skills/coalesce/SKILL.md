@@ -1,6 +1,8 @@
 ---
 name: coalesce
 description: Combine multiple related articles into one unified piece. Archives originals to preserve URLs.
+context: fork
+agent: general-purpose
 ---
 
 # Coalesce Articles

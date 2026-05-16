@@ -1,6 +1,8 @@
 ---
 name: commission-claude-review
 description: Open Claude in Chrome, enable Research mode (Web Search is on by default), submit an outer-review prompt to the Unfinishable Map project (Opus 4.7 Adaptive), navigate the optional clarifying-questions stage with "go", record the pending entry, and exit. Pairs with collect-claude-review which retrieves the response after ~60 minutes.
+context: fork
+agent: general-purpose
 ---
 
 # Commission Claude Review

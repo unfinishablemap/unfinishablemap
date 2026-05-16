@@ -1,6 +1,8 @@
 ---
 name: apex-evolve
 description: Build and maintain apex articles—human-readable synthesis pieces.
+context: fork
+agent: general-purpose
 ---
 
 # Apex Evolve

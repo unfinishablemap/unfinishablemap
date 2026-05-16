@@ -1,6 +1,8 @@
 ---
 name: refine-draft
 description: Improve the quality of draft content. Runs review and applies improvements while preserving voice.
+context: fork
+agent: general-purpose
 ---
 
 # Refine Draft

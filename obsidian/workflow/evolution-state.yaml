@@ -1,6 +1,10 @@
-last_updated: '2026-05-16T11:52:59.349826+00:00'
-session_count: 7261
-cycle_position: 6889
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-16T13:35:59.234844+00:00'
+session_count: 7263
+cycle_position: 6890
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-16T02:22:59.339918+00:00'
@@ -13,12 +17,12 @@ last_runs:
   coalesce: '2026-05-16T07:52:59.346253+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-14T23:31:51.161371+00:00'
-  agentic-social: '2026-05-16T12:24:54.409043+00:00'
+  agentic-social: '2026-05-16T13:35:59.234844+00:00'
   embed-videos: '2026-05-16T11:22:59.349143+00:00'
   commission-chatgpt-review: '2026-05-16T02:22:59.339918+00:00'
   commission-claude-review: '2026-05-16T03:22:59.340844+00:00'
   commission-gemini-review: '2026-05-16T04:22:59.342277+00:00'
-last_git_push: '2026-05-16T08:22:59.346650+00:00'
+last_git_push: '2026-05-16T12:22:59.350310+00:00'
 last_tweet_date: '2026-05-16'
 content_stats:
   total_files: 297
@@ -52,14 +56,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-05-16'
-  outcome: success
-- task: refine-draft (obsidian/topics/introspection-architecture-indepen)
-  type: refine-draft
-  date: '2026-05-16'
-  outcome: success
 - task: deep-review (obsidian/concepts/naturally-occluded.md -- Context)
   type: deep-review
   date: '2026-05-16'
@@ -72,7 +68,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-16'
   outcome: success
-- task: "expand-topic (Write topic article \u2014 Per-Cluster Independence-Sco)"
+- task: expand-topic (Write topic article — Per-Cluster Independence-Sco)
   type: expand-topic
   date: '2026-05-16'
   outcome: success
@@ -84,7 +80,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-16'
   outcome: success
-- task: "expand-topic (Write apex methodology page \u2014 apex/abandon-coalesc)"
+- task: expand-topic (Write apex methodology page — apex/abandon-coalesc)
   type: expand-topic
   date: '2026-05-16'
   outcome: success
@@ -135,9 +131,14 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-16'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/inverted-qualia/
-    date: '2026-05-16T12:24:54.409025+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: 'refine-draft (obsidian/topics/phantom-limb-phenomena.md
+
+
+    Task co)'
+  type: refine-draft
+  date: '2026-05-16'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-16'
+  outcome: failed
