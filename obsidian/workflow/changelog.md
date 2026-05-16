@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T21:45:00+00:00
+ai_modified: 2026-05-16T22:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 22:51 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/interface-specification-programme]]
+- **Changed sources**: 5 (`consciousness-and-causal-powers`, `attention-and-the-consciousness-interface`, `delegatory-causation`, `the-psychophysical-control-law`, `control-theoretic-will`); plus stale `apex_sources` reference `bandwidth-problem-mental-causation` corrected to `consciousness-bandwidth-architecture` (the former was coalesced into the latter).
+- **Word count**: 3903 → 3987 (within 2500–4000 target)
+- **Key integrations**: Saad's Subset Law* / Delegatory Law named explicitly; pain-asymbolia as paradigm case for phenomenal biasing; conservation as locally entailed rather than asserted; [[causal-consistency-constraint]] (Torres Alegre 2025) tying bandwidth ceiling and Born corridor as faces of one structural requirement; [[overdetermination-dissolution-under-selection-only-interactionism|dissolution]] reading of Kim's exclusion objection; Cai et al. (2024) "can move but won't move" sharpening the ADHD/Parkinson's interface architecture; hemispatial neglect, Balint, extinction added as the broader clinical dissociation evidence; theta-band willed-attention signatures and 300/280ms timing; 2025 COGITATE adversarial-collaboration result (neither GWT nor IIT vindicated, conscious content tracks posterior cortex); effort-entropy forward prediction as the programme's first model-specific testable claim, with explicit borrowed-risk caveat. Condensed redundancies in opening, bandwidth, Born-rule, ADHD, OCD, specification gap, synthesis bullet list, and tenet-alignment sections to absorb the ~330 words of additions while landing 13 words under the 4000 cap.
+- **Review**: [[reviews/apex-evolve-2026-05-16-interface-specification-programme]]
 
 ## 2026-05-16 21:45 UTC - check-tenets
 - **Status**: Success
