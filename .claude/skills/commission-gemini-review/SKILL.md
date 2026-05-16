@@ -36,7 +36,30 @@ Branch on `type` ∈ `{queue, site, recent, none}`. For `none`, print `NO_SUBJEC
 
 The three services share one subject per UTC date so the synthesis pass sees real convergence. If a sibling service has already commissioned for this date, the selector returns a `reuse:...` source with the same subject — compose a Gemini-flavoured prompt around it.
 
-Compose a 120–180-word prompt that MUST include both `https://unfinishablemap.org` and `https://unfinishablemap.org/workflow/changelog/` (web-search has 24–48h index lag). Always close with: "End your report with a list of concrete potential improvements to specific articles and to the site's methodology."
+### Anti-sycophancy prompt construction (Gemini-specific)
+
+Three consecutive Gemini Deep Research cycles (2026-05-12 full-site, 2026-05-14 psychedelics, 2026-05-16 phantom-limb) showed an intermittent sycophancy pattern where Gemini retreats into describing the Map's automation and methodology infrastructure (Direct-Refutation Discipline, Causal-Budget Ledger, Voids-Circularity Discount, Five-Tier Evidential Scale, the 24-slot evolution loop, the adversarial review matrix) instead of auditing the article. The 2026-05-16 cycle produced *zero* of the four prompt-requested audit dimensions while ChatGPT 5.5 Pro and Claude Opus 4.7 each produced substantive critique on the same subject. The intermittent pattern correlates with how much methodology infrastructure Gemini's research can find and quote — the richer the project-doc surface, the deeper Gemini retreats into tour-guide mode.
+
+Gemini's prompt MUST therefore be more adversarial and more constrained than ChatGPT's and Claude's. Apply all five guardrails below when composing the prompt. **Do NOT** copy the ChatGPT/Claude prompt verbatim — those services do not need the same constraints, and ChatGPT/Claude prompts may already be sitting in `pending-reviews.yaml` for the same cycle if a sibling commissioned earlier.
+
+1. **Adversarial framing.** Open with the role assignment. Use language like: *"You are a hostile pre-publication referee for a top-tier philosophy journal (e.g.,* Mind *,* Synthese *,* Philosophical Studies *) reviewing this article for submission. Your remit is to identify weaknesses that would justify rejection or major revision."* This worked for Claude (Claude's 2026-05-16 review opened with "Pre-Publication Audit" framing autonomously); Gemini Deep Research does not adopt the frame autonomously and must be told.
+
+2. **Explicit no-describe-the-methodology rule.** Include a verbatim sentence: *"Do not describe the site's automation, review pipeline, methodology disciplines, evolution loop, or governance infrastructure. Those are project-internal and not the subject of audit. Assess only the article's empirical claims, citations, counterargument coverage, and logical inferences."* This blocks the documented failure mode directly.
+
+3. **No tenet enumeration; no framing as evidence-for.** Reference the site once by URL and topic; do **not** list the five tenets. Do **not** describe the subject article as a "useful empirical testbed for dualist theories" or any similar pre-framing. The reviewer should discover the article's commitments by reading it, not be told them. A neutral one-liner is fine: *"The article is at [URL] and makes claims about [topic]; the site argues for a non-reductive view of consciousness."*
+
+4. **Minimum-findings floor.** Require: *"End with at least five specific weaknesses. For each, cite at least one peer-reviewed source from 2020–2025 that the article omits, contradicts, or mishandles. If you cannot find five weaknesses, state explicitly why none are visible — but the default expectation is that a careful pre-publication audit of a contemporary topic will find five."* The floor flips Gemini's default behaviour from "compile the survey" to "find at least N defects."
+
+5. **Forbid the closing praise.** Include a verbatim sentence: *"Do not close with a summary of the site's strengths, methodology, or architectural ambition. The report ends with the weaknesses list and a one-sentence verdict on whether the article is ready for academic submission."*
+
+### Required structural elements (all prompts)
+
+Compose a 150–230-word prompt (slightly longer than ChatGPT/Claude due to the guardrails) that MUST include:
+
+- Both `https://unfinishablemap.org` and `https://unfinishablemap.org/workflow/changelog/` (web-search has 24–48h index lag).
+- The five anti-sycophancy guardrails above, in natural prose (do not number them in the prompt itself).
+- The four audit dimensions: (a) empirical accuracy against 2020s literature; (b) challenged/retracted/replicated results; (c) tenet-bracketed framings; (d) untested counterarguments or competing frameworks.
+- The closing: *"End your report with the at-least-five weaknesses list, each with a 2020–2025 source citation, and a one-sentence verdict on academic-submission readiness. Do not append summary praise."*
 
 Save full prompt text, short summary (≤80 chars), and the subject's `type`, `title`, `articles`, `source` for Step 8.
 
