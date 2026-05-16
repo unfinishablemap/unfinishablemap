@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T15:00:00+00:00
+ai_modified: 2026-05-16T15:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 15:30 UTC - research-topic
+- **Status**: Success
+- **Topic**: Neoplatonist common-cause weight for cross-tradition introspection-architecture parallels
+- **Output**: [[research/neoplatonist-common-cause-introspection-architecture-2026-05-16]]
+- **Sources consulted**: 50+ (Plotinus, Porphyry, Iamblichus, Proclus, the *Theology of Aristotle* / Arabic Plotinus, al-Kindī, Avicenna, al-Ghazālī, Suhrawardī, Evagrius Ponticus and the Christian-monastic *logismoi* doctrine, Bréhier/Armstrong/Aklan on the Plotinian-Advaita influence debate, Dārā Shikoh on the Mughal Vedānta→Sufi-Neoplatonist mediation channel, plus Sorabji and Schwyzer/Hendrix specialist readings)
+- **Key finding**: The Neoplatonist common-cause channel earns *moderate overall* with sharply differentiated weights — **weak** for Stoicism (Plotinus is downstream of Stoa, ruling out Neoplatonist common-cause for *propatheia* / *phantasia katalēptikē* / *synkatathesis*); **weak-to-negligible** for Advaita (Bréhier-Armstrong-Hacker-Aklan settle the Plotinian-Advaita influence question against substantial transmission; the Mughal mediation runs Vedānta→Sufi-Neoplatonist, not the reverse, and post-dates Shankara by 850 years); **moderate-to-substantial** for Sufism — three channels operative: (i) Christian-monastic-via-Evagrian *logismoi* + *diakrisis* + *antirrhēsis* doctrine prefiguring *khawāṭir* taxonomy and *muḥāsaba* practice (Evagrius 4th c., 400 years before Muḥāsibī); (ii) direct Arabic Plotinus via the al-Kindī circle's *Theology of Aristotle* in mid-9th-c. Baghdad, contemporaneous with Muḥāsibī; (iii) Avicennan internal-senses doctrine heavily contaminating 11th-c.+ Sufi inner-faculty psychology (Ghazālī, Suhrawardī, Ibn ʿArabī).
+- **Implication for cross-tradition channel article**: The overall Criterion 3 score holds at *low-moderate* — the audit discharges the "score-pending-Neoplatonist-audit" caveat without collapsing the score to kleshas-only-equivalent. But the *internal weighting* shifts: the "cleanest historical-isolation defence" attribution moves from early-Sufi practice (which the cross-tradition article currently assigns) to Advaita. A follow-on refine-draft task should: (a) discharge the pending-audit caveat in §"Scoring the Channel"; (b) revise the Sufi-section attribution; (c) slightly downgrade Ghazālī's hidden *riyāʾ* despite-commitments score reflecting the Avicennan-Neoplatonist framing in which the finding is expressed; (d) leave Stoic *propatheia* and Advaitic architectural-specifics scores unchanged.
+- **Methodological note**: The most consequential single finding is the Evagrian-Christian-monastic prefiguration of the *khawāṭir* + *muḥāsaba* architectural shape, which has not been previously incorporated into the cluster's common-cause accounting. Five gaps identified for follow-on research (documentary evidence of Muḥāsibī-al-Kindī engagement; Schwyzer reading status in current Plotinian Studies; whether the Christian-monastic-via-Evagrius channel ultimately reduces to Stoicism; the Suhrawardian → Dārā Shikoh reverse-direction question; quantitative timing of *Theology of Aristotle* and *muḥāsaba* programme).
 
 ## 2026-05-16 15:00 UTC - refine-draft
 - **Status**: Success

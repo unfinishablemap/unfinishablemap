@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Audit Neoplatonist common-cause weight for cross-tradition introspection-architecture parallels
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: From pessimistic review 2026-05-16b Issue 3. The cross-tradition channel's score for the introspection-architecture cluster is currently conditional on an un-audited Neoplatonist common-cause channel. The article explicitly admits this is "the largest residual gap in the channel's independence calibration." A focused research task should retrieve scholarly assessments of Neoplatonist influence on (a) late Stoicism (Plotinus's contact with Stoic cognitive theory; Porphyry's *Sententiae* and the soul's inner-faculty doctrine; the late-Stoic—Plotinian boundary in Iamblichus); (b) early Sufism (Plotinus's *Theology of Aristotle* via the Arabic Plotinus tradition; the Neoplatonic strata in Muḥāsibī and pre-Ghazālī Sufi psychology; the Neoplatonic—Sufi mediation via al-Kindī, al-Fārābī, Ibn Sīnā); (c) Advaita Vedānta-Islamic mediation channels (the Suhrawardī-illuminationist tradition's Neoplatonic substrate; whether Advaita-via-Islamic-mediation through Bīrūnī, Dārā Shikoh, or the Persian translation tradition is significant for inner-faculty doctrine). Produce research notes assessing the Neoplatonist common-cause weight as *substantial / moderate / weak / negligible*, with implications for the cross-tradition channel's Criterion 3 score. If substantial, the cross-tradition channel may degrade to kleshas-only-equivalent + Neoplatonist-tradition-one-observer, and the parent exhibit's Criterion 3 rating should be revised accordingly. Estimated scope: ~2 hours of focused research, output ~1500-2500 words in `research/neoplatonist-common-cause-introspection-architecture-2026-XX-XX.md`. Tenet alignment: methodological / [[project/common-cause-null]] + [[project/voids-circularity-discount]]. See [[reviews/pessimistic-2026-05-16b]] Issue 3.
-- **Review file**: `reviews/pessimistic-2026-05-16b.md`
-- **Source**: pessimistic-review
-- **Generated**: 2026-05-16
-
 ### ✓ 2026-05-16: Engage Price 2006 + Root 2022 on congenital phantoms in topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
 - **Status**: completed
@@ -3671,6 +3663,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-16: Audit Neoplatonist common-cause weight for cross-tradition introspection-architecture parallels
+- **Type**: research-topic
+- **Notes**: From pessimistic review 2026-05-16b Issue 3. The cross-tradition channel's score for the introspection-architecture cluster is currently conditional on an un-audited Neoplatonist common-cause channel. The article explicitly admits this is "the largest residual gap in the channel's independence calibration." A focused research task should retrieve scholarly assessments of Neoplatonist influence on (a) late Stoicism (Plotinus's contact with Stoic cognitive theory; Porphyry's *Sententiae* and the soul's inner-faculty doctrine; the late-Stoic—Plotinian boundary in Iamblichus); (b) early Sufism (Plotinus's *Theology of Aristotle* via the Arabic Plotinus tradition; the Neoplatonic strata in Muḥāsibī and pre-Ghazālī Sufi psychology; the Neoplatonic—Sufi mediation via al-Kindī, al-Fārābī, Ibn Sīnā); (c) Advaita Vedānta-Islamic mediation channels (the Suhrawardī-illuminationist tradition's Neoplatonic substrate; whether Advaita-via-Islamic-mediation through Bīrūnī, Dārā Shikoh, or the Persian translation tradition is significant for inner-faculty doctrine). Produce research notes assessing the Neoplatonist common-cause weight as *substantial / moderate / weak / negligible*, with implications for the cross-tradition channel's Criterion 3 score. If substantial, the cross-tradition channel may degrade to kleshas-only-equivalent + Neoplatonist-tradition-one-observer, and the parent exhibit's Criterion 3 rating should be revised accordingly. Estimated scope: ~2 hours of focused research, output ~1500-2500 words in `research/neoplatonist-common-cause-introspection-architecture-2026-XX-XX.md`. Tenet alignment: methodological / [[project/common-cause-null]] + [[project/voids-circularity-discount]]. See [[reviews/pessimistic-2026-05-16b]] Issue 3.
 
 ### ✓ 2026-05-16: Address scoring-epistemics issues in topics/cross-tradition-channel-introspection-architecture-independence-scoring.md
 - **Type**: refine-draft
