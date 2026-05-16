@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T20:00:00+00:00
+ai_modified: 2026-05-16T18:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 18:51 UTC - coalesce
+- **Status**: Abandoned (no merger executed)
+- **Verdict**: abandon-coalesce — see [[project/abandon-coalesce]] §"The Differentiation Test"
+- **Section under pressure**: `voids/` at 100/100 (at cap); `topics/` at 243/250 (97%); `concepts/` at 239/250 (96%). Highest-pressure section searched first per skill guidance.
+- **Candidate clusters evaluated (five iterations, per skill abandon clause)**:
+  1. `[[mood-void]]` + `[[valence-void]]` + `[[affective-void]]` — already rejected on 2026-04-27 per the apex worked-failure case; each article carries explicit "Distinct from X, Y, Z" sections; framework-independence passes (Heidegger's *Stimmung*, Russell's core affect, Nagel's bat — all pre-Map).
+  2. `[[three-kinds-of-void]]` + `[[closure-types-void]]` — taxonomic (unexplored/unexplorable/occluded) vs operational (representational/psychological closure within unexplorable). Articles explicitly cross-reference as complementary lenses. Framework-pre-existing (McGinn/Demircioglu/Kriegel debate predates the Map).
+  3. `[[mattering-void]]` + `[[relevance-void]]` — both members of the explicit four-void cluster the [[apex/medium-status-voids-in-cognition|medium-status-voids-in-cognition apex]] treats as deliberately distinguished faces (significance vs filtering); merger would damage the apex's structural claim. Framework-independent (Heidegger/Frankfurt/Vervaeke vs Heidegger/Dreyfus/Fodor frame-problem traditions).
+  4. `[[plurality-void]]` + `[[commensurability-void]]` — intra-experience singularity (Schrödinger/Coleman/Schechter on subject-summing) vs cross-architecture phenomenal partial ordering (Nagel/Wittgenstein/Díaz Boils). Distinct failure signatures, framework-independent.
+  5. `[[confabulation-void]]` + `[[source-attribution-void]]` — both part of the explicit "introspection-architecture sub-cluster" with [[narrative-void]] and [[noetic-feelings-void]] (the Coutinho et al. 2021 anchor and [[topics/introspection-architecture-independence-scoring]] independence-scoring exhibit are sub-cluster-level work); confabulation = positive-content fabrication, source-attribution = absent origin-tags. The confabulation-void article opens by explicitly distinguishing itself from its siblings.
+- **Differentiation-test verdict**: all five candidates pass all three sub-questions of [[project/abandon-coalesce]] §"The Differentiation Test" (signature distinctness, boundary-marking work in-prose, framework-independence of the distinction).
+- **Calibration-against-common-cause-null**: this pass adds an eighth worked case to the abandon-coalesce ledger, supplying further evidence that the catalogue's differentiation pattern is principled rather than curation-artefactual under section-pressure. Each candidate was selected because thematic adjacency made the merger superficially attractive; each was refused on structural grounds rather than thematic comfort.
+- **Procrastination check**: none of the five candidates appears in the 2026-04-27 or 2026-05-12 rejected-cluster ledgers as a repeat-refusal under thinner grounds; the affective trio (candidate 1) was previously rejected and is recorded here only as a sanity baseline against the prior verdict.
+- **Files modified**: none (no merger executed; no source archived; no new article created).
+- **References to review**: not applicable.
 
 ## 2026-05-16 20:00 UTC - deep-review (cross-review of naturally-occluded insights)
 - **Status**: Success
