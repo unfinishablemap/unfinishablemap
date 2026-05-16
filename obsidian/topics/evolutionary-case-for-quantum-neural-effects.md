@@ -4,7 +4,7 @@ description: "If evolution optimised quantum effects for bird navigation and enz
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-04-06T12:47:00+00:00
+ai_modified: 2026-05-16T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,12 +26,13 @@ related_articles:
   - "[[dimensionality-void]]"
   - "[[amplification-mechanisms-consciousness-physics]]"
   - "[[biological-cognitive-closure]]"
+  - "[[decoherence-and-macroscopic-superposition]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-23
 last_curated:
-last_deep_review: 2026-03-29T14:41:00+00:00
+last_deep_review: 2026-05-16T00:00:00+00:00
 ---
 
 Evolution has already optimised quantum effects in multiple biological systems—avian magnetoreception, enzyme catalysis, and photosynthetic energy transfer. The Unfinishable Map argues that the same evolutionary logic applies to neural systems, where the computational payoffs of quantum effects would dwarf those of a compass or a faster enzyme. If natural selection discovered quantum solutions for navigation and chemistry, the question is not whether it *could* discover them for neural computation, but whether the selective pressures were strong enough to drive it there.
@@ -143,6 +144,7 @@ The evolutionary argument connects to the Map's [[tenets]] at several points:
 - [[dimensionality-void]] — Why binding high-dimensional neural activity into unified experience is harder than it appears
 - [[amplification-mechanisms-consciousness-physics]] — How weak quantum biases get amplified into macroscopic neural outcomes
 - [[biological-cognitive-closure]] — How fitness-shaped intuitions bias our judgment of biological plausibility
+- [[decoherence-and-macroscopic-superposition]] — Recent experimental evidence on the receding quantum-classical boundary in warm biological systems
 
 ## References
 
