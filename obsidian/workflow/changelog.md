@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T10:56:00+00:00
+ai_modified: 2026-05-16T11:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 11:35 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Adaptive thinking + Research + Web Search)
+- **Subject**: Audit `topics/phantom-limb-phenomena.md` — empirical claims, citations, counterargs, tenet bracketing
+- **File**: [[reviews/outer-review-2026-05-16-claude-opus-4-7]]
+- **Manual recovery**: collected manually after dispatcher abandon-swept the entry (cause: Chrome "Name this browser" dialog inherited from interactive session — see [Chrome dialog failure modes](memory)); pending state flipped abandoned → collected, then /outer-review run interactively.
+- **Claims spot-verified**: 4 (Makin 2013 *Nat Commun*; Melzack neuromatrix; Makin/Krakauer 2023 *eLife* programme; Guémann 2023 mirror-therapy RCT meta-analysis); 3 not deep-verified but accepted on cross-reviewer convergence (Schone 2025 *Nat Neurosci*, Devor 2013, Price 2006)
+- **High-value findings**: 8 (Makin programme on cortical-map stability absent; Melzack neuromatrix theory not engaged as canonical physicalist competitor; predictive-processing accounts under-engaged; mirror therapy overstated against Guémann 2023; Price 2006 on congenital phantoms missing; "somatic interface" em-dash tenet bleed; falsifier #3 god-of-the-gaps formulation; no common-cause-null audit on three pillars)
+- **Tasks generated**: 8 (P1: 3 — Makin/Melzack/tenet-bleed; P2: 5 — predictive-processing, mirror-therapy qualification, Price+Root, falsifier #3, common-cause-null audit)
+- **Convergent with today's ChatGPT 5.5 Pro outer review**: Makin programme + 2025 longitudinal cortical-map study; predictive-processing engagement. Two reviewers independently surfacing the same empirical-recency gap is strong signal — synthesis pass will weight these convergent findings up.
+- **Direct-refutation discipline carried forward**: Melzack neuromatrix task and Price 2006 task both carry the discipline remit (Mode-One internal-critique opportunities); somatic-interface task explicitly targets label-leakage.
 
 ## 2026-05-16 10:56 UTC - expand-topic
 - **Status**: Success
