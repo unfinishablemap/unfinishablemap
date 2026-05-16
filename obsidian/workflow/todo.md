@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate project/abandon-coalesce.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: New methodology page created 2026-05-16 (`project/abandon-coalesce.md`, 1987 words) sits orphaned — no inbound wikilinks from elsewhere in the catalogue. The article articulates the third leg of the coalesce discipline (alongside `conjunction-coalesce` and the implicit `redundancy-coalesce`): when evaluation finds neither pattern present and merging would damage rather than improve. Install reciprocal cross-links from: (a) `apex/conjunction-coalesce.md` — name `abandon-coalesce` as the partner discipline at the obvious bridge points; (b) `project/common-cause-null.md`, `project/evidential-status-discipline.md`, `project/cluster-integration-discipline.md` — the project/ tier hosts the named-discipline family, so reciprocal cross-links belong here; (c) any articles referencing the 2026-04-28 abandon-coalesce decision or the 2026-05-15 optimistic review High Priority §1. Honour `[[evidential-status-discipline]]` — name the discipline at correct register. Short scope (~200–400 words touched across 4–6 articles). Tenet alignment: methodological / Occam's Razor Has Limits (Tenet 5).
-- **Source**: orphan_integration
-- **Generated**: 2026-05-16
-
 ### P2: Integrate project/calibration-audit-triple.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Methodology page created 2026-05-14 (`project/calibration-audit-triple.md`) defines the three-audit triple used by the literature-drift-review skill but has no inbound wikilinks from other catalogue articles. Install reciprocal cross-references from: (a) `project/evidential-status-discipline.md` — the calibration apparatus the triple operates against; (b) `project/common-cause-null.md` — sibling named discipline in the same family; (c) `project/automation.md` and any `project/` page describing the skill cadence (literature-drift-review runs weekly Tuesday 05:00 UTC); (d) where any topic article cites a drift-corrected claim, add link to the triple page as the methodology of record. Verify the page is reachable from the relevant `_index.md` section page so SEO indexing can pick it up. Honour `[[evidential-status-discipline]]`. Short scope (~150–300 words touched across 3–5 articles). Tenet alignment: methodological.
@@ -3699,6 +3693,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-16: Integrate project/abandon-coalesce.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New methodology page created 2026-05-16 (`project/abandon-coalesce.md`, 1987 words) sits orphaned — no inbound wikilinks from elsewhere in the catalogue. The article articulates the third leg of the coalesce discipline (alongside `conjunction-coalesce` and the implicit `redundancy-coalesce`): when evaluation finds neither pattern present and merging would damage rather than improve. Install reciprocal cross-links from: (a) `apex/conjunction-coalesce.md` — name `abandon-coalesce` as the partner discipline at the obvious bridge points; (b) `project/common-cause-null.md`, `project/evidential-status-discipline.md`, `project/cluster-integration-discipline.md` — the project/ tier hosts the named-discipline family, so reciprocal cross-links belong here; (c) any articles referencing the 2026-04-28 abandon-coalesce decision or the 2026-05-15 optimistic review High Priority §1. Honour `[[evidential-status-discipline]]` — name the discipline at correct register. Short scope (~200–400 words touched across 4–6 articles). Tenet alignment: methodological / Occam's Razor Has Limits (Tenet 5).
 
 ### ✓ 2026-05-16: Refine topics/anaesthesia-and-the-consciousness-interface.md to integrate fresh anaesthetic-recovery research
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "A methodological pattern: load-bearing inferences supported by a c
 created: 2026-05-11
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-11T06:02:00+00:00
+ai_modified: 2026-05-16T23:51:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
   - "[[direct-refutation-discipline]]"
   - "[[common-cause-null]]"
+  - "[[abandon-coalesce]]"
   - "[[testability-ledger]]"
   - "[[the-convergence-argument-for-dualism]]"
   - "[[the-binding-problem]]"
@@ -103,6 +104,7 @@ It also serves the [[tenets#^dualism|Dualism]] tenet indirectly. The Map's centr
 - [[bedrock-clash-vs-absorption]] — Within-article companion at rival-position handling
 - [[coherence-inflation-countermeasures]] — System-level inflation-resistance the discipline serves
 - [[testability-ledger]] — Falsifier-design pattern this discipline operationalises
+- [[abandon-coalesce]] — Editorial-curation companion at the cluster-evaluation grain: refuses mergers when adjacent voids encode deliberately differentiated failure signatures, supplying the local-differentiation evidence the cluster-integration discipline relies on at the within-cluster shape level
 
 ## References
 

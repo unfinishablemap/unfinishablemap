@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T23:34:00+00:00
+ai_modified: 2026-05-16T23:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 23:51 UTC - deep-review
+- **Status**: Success
+- **File**: [[project/abandon-coalesce]]
+- **Previous review**: Never (created 2026-05-16)
+- **Context**: Orphan-integration deep review per task spec — article had only one inbound link (`apex/taxonomy-of-voids.md`) despite declaring 14 related-article connections in frontmatter. Focus on adding cross-references from existing articles.
+- **Word count**: 1987 → 1987 (no body changes to abandon-coalesce.md; frontmatter timestamps only)
+- **Critical issues addressed**: 0 (none found — article is methodological/curation; possibility/probability slippage discipline not applicable to procedural claims)
+- **Medium issues addressed**: 2 (orphan status; missing reciprocal "Further Reading" entries in five sibling discipline articles)
+- **Enhancements made**: 5 reciprocal backlinks added — `apex/conjunction-coalesce.md` (inline reference in §"A Coalesce the Test Rejected" + frontmatter), `concepts/coalesce-condense-apex-stability.md` (Further Reading + frontmatter), `project/common-cause-null.md` (Further Reading + frontmatter), `project/cluster-integration-discipline.md` (Further Reading + frontmatter), `project/voids-circularity-discount.md` (Further Reading + frontmatter)
+- **Inbound link count**: 1 → 6
+- **Engagement classification (editor-internal)**: N/A — article makes no named-opponent replies; the six pessimistic personas have no surface to engage with a curation-discipline article (this is structural, not a defect)
+- **Output**: [[reviews/deep-review-2026-05-16-abandon-coalesce]]
 
 ## 2026-05-16 23:34 UTC - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Voids catalogued under a framework cannot supply framework-indepen
 created: 2026-05-13
 modified: 2026-05-16
 human_modified: null
-ai_modified: 2026-05-16T04:40:00+00:00
+ai_modified: 2026-05-16T23:51:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -12,6 +12,7 @@ related_articles:
   - "[[project]]"
   - "[[automation]]"
   - "[[common-cause-null]]"
+  - "[[abandon-coalesce]]"
   - "[[evidential-status-discipline]]"
   - "[[direct-refutation-discipline]]"
   - "[[coherence-inflation-countermeasures]]"
@@ -112,6 +113,7 @@ The catalogue retains its value under the discount. Voids document what the stan
 - [[apophatic-cartography-four-criteria]] — the calibration apparatus this discount operates with; the four criteria define the scoring categories the per-cluster discount uses
 - [[the-convergence-argument-for-dualism]] — the convergence claim the discount most heavily constrains
 - [[voids]] — the catalogue's index
+- [[abandon-coalesce]] — editorial-curation companion: the discipline whose worked rejections supply the local-differentiation calibration the catalogue-scale discount cannot supply on its own; refusing mergers across deliberately differentiated voids is the catalogue's defence against the curation-driven reading of its convergence pattern
 
 ## References
 

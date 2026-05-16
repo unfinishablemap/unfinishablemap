@@ -4,7 +4,7 @@ description: "When N independent observations converge, the common-cause null as
 created: 2026-05-10
 modified: 2026-05-16
 human_modified: null
-ai_modified: 2026-05-16T04:40:00+00:00
+ai_modified: 2026-05-16T23:51:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -29,6 +29,7 @@ related_articles:
   - "[[topics/introspection-architecture-independence-scoring]]"
   - "[[apophatic-cartography-four-criteria]]"
   - "[[tenet-generated-voids]]"
+  - "[[abandon-coalesce]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -123,6 +124,7 @@ The discipline complements [[direct-refutation-discipline|direct-refutation disc
 - [[cross-traditional-convergence-on-consciousness-irreducibility]] — the cross-cultural convergence-argument exemplar
 - [[concession-convergence]] — adjacent pattern: rival-framework convergence faces an analogous independence question
 - [[apex/taxonomy-of-voids]] — the catalogue whose convergence claim the discipline discounts most heavily; the cumulative-support reading calibrates to framework-internal coherence under the null
+- [[abandon-coalesce]] — the editorial-curation discipline whose worked rejections supply the local-differentiation calibration the present discipline cites at the sub-cluster grain; the framework-independence sub-question is the strongest defence against the curation-artefact reading of the convergence claim
 - [[the-surplus-void]] — first worked exhibit: the article that retracted its evidence-of-dualism framing in light of the discipline's circularity diagnosis
 - [[topics/introspection-architecture-independence-scoring]] — second worked exhibit: per-cluster independence scoring of the four-void introspection-architecture sub-cluster, with the patient-population channel as the strongest currently-available discharge of the null at the cluster level
 - [[apophatic-cartography-four-criteria]] — the calibration apparatus the discipline operates against; the despite-commitments / because-prediction split formalises criterion (4) for empirical-anchor clusters
