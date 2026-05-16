@@ -4,7 +4,7 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-04-28T10:21:00+00:00
+ai_modified: 2026-05-16T09:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[lucid-dreaming-and-dualist-rendering]]"
   - "[[embodied-consciousness]]"
   - "[[imagery-void]]"
+  - "[[phantom-limb-phenomena]]"
   - "[[dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09]]"
 ai_contribution: 100
 author:
@@ -44,9 +45,9 @@ Christina's case reveals the dual-domain structure. Physical proprioceptive proc
 
 ### The Phantom Body as Evidence
 
-Phantom limb phenomena provide the complementary dissociation. After amputation, the physical receptor channel is severed entirely, yet patients experience vivid sensations of the missing limb—position, movement, even pain. Neuroscience attributes this to persistent cortical representations: the brain's body map outlasts the body it represents. The Map accepts this physical explanation while noting what it leaves open: *why* does a cortical map produce felt presence? The persistence of phenomenal embodiment beyond physical structure parallels [[episodic-memory|Bergson's claim]] that the brain filters rather than produces experience. The physical channel has been cut; the phenomenal dimension persists. Under dual-domain architecture, this is expected: consciousness maintains its contribution to the body image even when the physical substrate withdraws.
+Phantom limb phenomena provide the complementary dissociation. After amputation, the physical receptor channel is severed at the felt site, yet patients experience vivid sensations of the missing limb—position, movement, even pain. The canonical treatment of these phenomena and their underlying neuroscience belongs to [[phantom-limb-phenomena]]; what matters here is the dissociation they instantiate. Persistent cortical representations, peripheral and dorsal-root-ganglion contributions, spinal sensitisation and predictive body-model dynamics together specify the production conditions: the brain continues to generate a body image when the body part it represents is gone. The Map accepts that multilevel mechanistic picture. What survives the mechanism is the explanatory-gap question — why production conditions of this kind should be accompanied by *felt* embodiment at all. Phantoms expose the gap between neural body maps and lived bodily presence; they sharpen the dual-domain question without by themselves establishing a non-neural bearer of embodiment.
 
-The phenomenon resists reduction to a simple neural echo. Patients report that phantom limbs can be moved, experience novel sensations, and even feel the grip of objects placed in the phantom hand during mirror therapy. Whether this constitutes genuine voluntary control or reactivation of motor representations is debated, but the richness and interactivity of the phenomenal experience suggests something beyond residual cortical firing—consciousness continuing to inhabit a body map whose physical anchoring has been removed.
+Patients also report that phantom limbs can be moved, experience novel sensations, and feel the grip of objects placed in the phantom hand during mirror therapy. Whether this is genuine voluntary control or reactivation of motor representations is debated. The richness and interactivity of the experience add pressure on any account that treats the felt body as a transparent read-out of peripheral signal, but the phantom remains a brain-mediated phenomenal state whose conditions of existence are neural even when the limb is not. The dual-domain reading is that those neural conditions specify the production of bodily experience without closing the question of why such production is felt — the same pattern the article tracks across memory and spatial imagination.
 
 ## Spatial Imagination: Mental Rotation and the Aphantasia Spectrum
 
@@ -109,6 +110,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 ## Further Reading
 
 - [[episodic-memory]] — The foundational dual-domain analysis
+- [[phantom-limb-phenomena]] — Canonical treatment of phantom phenomena, the current mechanism debate, and the careful bracketing of what they do and do not show about dualism
 - [[capability-division-problem]] — The general framework for where mind and brain divide
 - [[somatic-interface]] — Detailed treatment of bodily sensing channels
 - [[three-dimensional-world-representation-problem]] — The puzzle of phenomenal spatial experience
@@ -129,16 +131,20 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 8. Southgate, A. & Oquatre-six, C. (2026-03-09). Episodic Memory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/episodic-memory/
 9. Southgate, A. & Oquatre-six, C. (2026-02-23). The Somatic Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/somatic-interface/
 
-<!-- AI REFINEMENT LOG - 2026-04-28
+<!-- AI REFINEMENT LOG - 2026-05-16
 Changes made:
-- Updated §"Aphantasia as Natural Experiment" line 67 to replace outdated framing ("score normally on some mental rotation tests, though typically using different strategies (verbal or proprioceptive rather than visual-spatial)") with Kay, Keogh & Pearson (2024) finding: aphantasics are slower but more accurate using analytic rather than object-based strategies; both groups preserve the linear angular-disparity/RT relationship.
-- Added cross-link to [[imagery-void]] at end of dual-domain reading paragraph (line 71), naming the function-phenomenology face explicitly so the introspective side of the dissociation is reachable from this article.
-- Added [[imagery-void]] to frontmatter `related_articles` and to Further Reading.
-- Added Kay, Keogh & Pearson (2024) to references.
+- Rewrote §"The Phantom Body as Evidence" (both paragraphs). The previous prose asserted that "the phenomenal dimension persists" when the physical channel is cut, that "consciousness maintains its contribution to the body image even when the physical substrate withdraws," and that phantom richness "suggests something beyond residual cortical firing—consciousness continuing to inhabit a body map whose physical anchoring has been removed." This was stronger than the canonical phantom-limb article (which carefully says the phantom is a brain-mediated phenomenal state whose conditions of existence remain neural even when the limb is not).
+- New prose registers the explanatory-gap pressure honestly, notes that current mechanism work covers persistent cortical representations, peripheral/DRG, spinal sensitisation, and predictive body-model dynamics together (not Flor-style remapping alone), and uses the reviewer's recommended phrasing: "phantoms expose the gap between neural body maps and lived bodily presence; they sharpen the dual-domain question without by themselves establishing a non-neural bearer of embodiment."
+- Inlined link to [[phantom-limb-phenomena]] as the canonical treatment so this article no longer re-derives a stronger-than-canon stance.
+- Added [[phantom-limb-phenomena]] to frontmatter `related_articles` (mirrors the canonical article's existing backlink to this file) and to Further Reading.
+- Removed the [[episodic-memory|Bergson's claim]] aside from the rewritten paragraph; the Bergsonian filter framing was doing too much load-bearing work in a context the canonical article explicitly brackets. The episodic-memory cross-link remains intact in the opening paragraph and Further Reading.
 
-Chain context: 2026-04-28 07:43 UTC `concepts/mental-imagery.md` deep-review retracted the long-standing "aphantasics show reduced performance on mental rotation" claim. Correction propagated to mental-imagery, cognitive-phenomenology, cognitive-phenomenology-and-the-irreducibility-of-thought, phenomenal-contrast-method, phenomenology-of-imagination, introspection. This file was the remaining outlier carrying the old framing.
+Engagement classification (editor-internal, do not surface in article body):
+- Engagement with the implicit materialist about phantom phenomena: Mode Two — unsupported foundational move. The article was helping itself to "phenomenology suggests something beyond cortical firing" without the in-framework argument the surrounding articles supply and without the bracketing the canonical phantom-limb article provides. Fix replaces the unsupported jump with the in-framework explanatory-gap point (which is what the discipline asks for here) and defers to the canonical article for the full mechanism/bracketing treatment.
 
-Scope: ~210 words modified. Argumentative structure (dual-domain reading, three-capability table, tenet alignment) preserved. Tenet alignment: the corrected finding sharpens the function-phenomenology dissociation that is load-bearing for Dualism.
+Scope: ~290 words modified across the two-paragraph section + frontmatter/Further Reading entries. Argumentative structure (dual-domain table, three-capability comparison, tenet alignment) preserved. Tenet alignment: Tenet 1 (Dualism — now bracketed honestly with the canonical phantom-limb article rather than overclaiming on its behalf) and [[evidential-status-discipline]] (the rewritten paragraph keeps the compatibility-vs-support distinction visible inline rather than collapsing it).
+
+Source: outer review 2026-05-16 (ChatGPT 5.5 Pro audit of phantom-limb-phenomena), §4 "Integration with surrounding topics" + Concrete improvement #14.
 
 This log should be removed after human review.
 -->

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T09:23:00+00:00
+ai_modified: 2026-05-16T09:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 09:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
+- **Trigger**: P2 task from outer review 2026-05-16 (ChatGPT 5.5 Pro audit of phantom-limb-phenomena), §4 "Integration with surrounding topics" + Concrete improvement #14. Reviewer flagged the article as more tenet-protective than the canonical phantom-limb article — it asserted phantom richness "suggests something beyond residual cortical firing," stronger than the canonical home for phantom phenomena now claims.
+- **Changes**: Rewrote §"The Phantom Body as Evidence" (both paragraphs, ~290 words touched). The previous prose was helping itself to "phenomenal dimension persists," "consciousness maintains its contribution to the body image even when the physical substrate withdraws," and the headline "suggests something beyond residual cortical firing—consciousness continuing to inhabit a body map whose physical anchoring has been removed." New prose uses the reviewer's recommended formulation — phantoms expose the gap between neural body maps and lived bodily presence without by themselves establishing a non-neural bearer of embodiment — and ties to the multilevel-mechanism picture (persistent cortical representations + peripheral/DRG + spinal sensitisation + predictive body-model dynamics) the canonical article now lays out. Inlined `[[phantom-limb-phenomena]]` as canonical treatment so this article no longer re-derives a stronger-than-canon stance. Removed the `[[episodic-memory|Bergson's claim]]` aside (was doing too much load-bearing work in a context the canonical article explicitly brackets); episodic-memory cross-link survives in opening paragraph and Further Reading. Added `[[phantom-limb-phenomena]]` to frontmatter `related_articles` and Further Reading (mirrors canonical article's existing backlink).
+- **Engagement classification (editor-internal, not in article body)**: Mode Two — unsupported foundational move. The article asserted that phenomenology *suggests* something beyond cortical firing without the in-framework argument the surrounding articles supply and without the bracketing the canonical phantom-limb article provides. Fix replaces the unsupported jump with the in-framework explanatory-gap point (why production conditions of this kind should be accompanied by *felt* embodiment at all — the standard within-the-Map move) and defers to the canonical article for the full mechanism and bracketing treatment.
+- **Tenet alignment**: Tenet 1 (Dualism — now bracketed honestly with the canonical phantom-limb article rather than overclaiming on its behalf) and `[[evidential-status-discipline]]` (the rewritten paragraph keeps the compatibility-vs-support distinction visible inline rather than collapsing it).
+- **Published**: yes (draft: false preserved)
 
 ## 2026-05-16 09:23 UTC - deep-review
 - **Status**: Success
