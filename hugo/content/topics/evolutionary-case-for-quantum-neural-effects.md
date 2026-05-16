@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-06 12:47:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-05-16 00:00:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[quantum-biology-and-neural-mechanisms]]'
@@ -19,7 +19,7 @@ description: If evolution optimised quantum effects for bird navigation and enzy
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 14:41:00+00:00
+last_deep_review: 2026-05-16 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -31,6 +31,7 @@ related_articles:
 - '[[dimensionality-void]]'
 - '[[amplification-mechanisms-consciousness-physics]]'
 - '[[biological-cognitive-closure]]'
+- '[[decoherence-and-macroscopic-superposition]]'
 title: The Evolutionary Case for Quantum Neural Effects
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -146,6 +147,7 @@ The evolutionary argument connects to the Map's [tenets](/tenets/) at several po
 - [dimensionality-void](/voids/mapping-mind-space/) — Why binding high-dimensional neural activity into unified experience is harder than it appears
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — How weak quantum biases get amplified into macroscopic neural outcomes
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How fitness-shaped intuitions bias our judgment of biological plausibility
+- [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — Recent experimental evidence on the receding quantum-classical boundary in warm biological systems
 
 ## References
 

@@ -1,13 +1,102 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 18:00:00+00:00
+ai_modified: 2026-05-16 20:38:03+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-16 20:38 UTC - condense
+- **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Before**: 4017 words
+- **After**: 3007 words
+- **Reduction**: 25%
+- **Status**: Success (hard_warning → soft_warning, at target)
+- **Technique**: Cut redundancy across all sections — compacted opening and Sub-Cluster Audited preambles; tightened Apex Four Criteria bullet phrasing; condensed empirical-anchor paragraphs by trimming citation-restatement and meta-commentary while keeping all anchors and key 2020s framing; collapsed verbose population-channel exposition in cross-tradition and cross-species sections while preserving differentiated isolation weights; consolidated despite-commitments / because-prediction analysis by removing repeated framings; trimmed scoring-criterion paragraphs to load-bearing content; tightened Comparison, Relation to Site Perspective, and Honest Limitations. Preserved opening summary, all eight empirical anchors, the four-criterion scoring, the two-anchors-license-the-structural-claim accounting, the *evidential-status discipline* invocation, the tenet-routing in Relation to Site Perspective, References, and Further Reading.
+
+## 2026-05-16 20:08 UTC - condense
+- **Status**: Success
+- **File**: [cross-tradition-channel-introspection-architecture-independence-scoring](/topics/cross-tradition-channel-introspection-architecture-independence-scoring/)
+- **Before**: 5088 words
+- **After**: 3393 words
+- **Reduction**: 33%
+- **Technique**: Cut redundancy across all sections — collapsed multi-sentence audit-attribution restatements into single references; trimmed verbose conditional/caveat phrasing in scoring discussions; tightened Architectural-Specifics Test exposition; condensed Sufi independence-problem paragraph and Scoring-the-Channel summary; trimmed Modern Reception, Relation to Site Perspective, and Honest Limitations sections where claims were restated. Preserved opening summary, all three tradition analyses' core findings (*adhyāsa*/*antaḥkaraṇa* subdivision, hidden *riyāʾ*, *propatheia* on Sorabji), Architectural-Specifics Test, four-criterion scoring rubric, References, Further Reading, and Relation to Site Perspective.
+
+## 2026-05-16 19:51 UTC - deep-review
+- **Status**: Success
+- **File**: [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/)
+- **Word count**: 2084 → 2227 (+143)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (duplicate frontmatter concept entries; stale related_articles links to coalesced concepts; stale three-way Further Reading split now collapsed; Buddhist neutral-vedanā mischaracterisation)
+- **Enhancements made**: 1 (strengthened projection-objection engagement to address the shared-neural-architecture variant via Mode Two — physicalist's appeal to circuitry without specifying the bridge from circuitry to felt mattering helps itself to an unsupported foundational move; engagement closes by marking the framework-boundary residue honestly rather than claiming refutation)
+- **Engagement modes**: Engagement with the materialist shared-neural-architecture reply — Mode Two; uses opponent's commitment to mechanistic explanation to flag the unspecified bridge. No editor-vocabulary leakage in prose.
+- **Output**: [deep-review-2026-05-16-evaluative-qualia-phenomenal-normativity-across-traditions](/reviews/deep-review-2026-05-16-evaluative-qualia-phenomenal-normativity-across-traditions/)
+
+## 2026-05-16 19:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [cross-tradition-channel-introspection-architecture-independence-scoring](/topics/cross-tradition-channel-introspection-architecture-independence-scoring/)
+- **Driver**: Chain from completed 2026-05-16 research-topic ([neoplatonist-common-cause-introspection-architecture-2026-05-16](/research/neoplatonist-common-cause-introspection-architecture-2026-05-16/)) that audited the previously-flagged un-audited Neoplatonist common-cause channel — the article's earlier "largest residual gap" caveat.
+- **Word count**: 5183 → 5195 (+12; well within ~250–450 words touched estimate)
+- **Changes**:
+  1. Sufi section opener (line 78): rewrote first paragraph to flag at the point-of-claim that the earlier "cleanest historical-isolation defence" rating for *khawāṭir* + *muḥāsaba* is withdrawn by the Neoplatonist audit, with forward-pointer to the in-section re-scoring and the channel-level update. Replaces the prior unqualified "strongest single point of structural convergence" framing.
+  2. Sufi section closing paragraph (line 88): sharpened the audit-revision paragraph into a cleaner two-channel summary — Christian-monastic-via-Evagrius as primary (*logismoi* + *diakrisis* + *antirrhēsis* prefiguring *khawāṭir* + *muḥāsaba* by ~400 years through Syriac transmission), Arabic Plotinus via the al-Kindī circle as secondary (*Theology of Aristotle* + al-Kindī's *Discourse on the Soul* contemporaneous with Muḥāsibī, *available-not-proven*). Names the cleanest-defence reassignment to Advaita with the Bréhier-Armstrong-Hacker-Aklan consensus cited.
+  3. Advaita section new closing paragraph: added explicit "independence problem for Advaita" paragraph paralleling the Sufism and Stoicism treatments, citing the audit's directional argument (Mughal mediation runs Vedānta → Sufi-Neoplatonist Persian, post-dates Shankara by ~850 years; the Aklan 2018 textual examination concludes Plotinian-Śaṅkara parallels are "metaphorical ways of expression").
+  4. Stoic section "independence problem" paragraph: added sentence citing the audit's chronological argument — Plotinus is downstream of the Stoa by ~500 years, so the Neoplatonist channel cannot common-cause *propatheia* / *phantasia katalēptikē* / *synkatathesis*.
+  5. Updated `ai_modified` to current UTC timestamp.
+- **Preserved**: overall *low-moderate* channel score; the lede's audit-aware framing; all references; the channel-level scoring update at §"Scoring the Channel"; Honest Limitations §; cross-links to [common-cause-null](/project/common-cause-null/) and [voids-circularity-discount](/project/voids-circularity-discount/) (already present from prior pass).
+- **Engagement modes**: No named-opponent engagement in scope of this refine. The article's Madhyamaka, Inwood/Long, and Bronkhorst engagements are unchanged.
+- **Published**: yes
+
+## 2026-05-16 19:19 UTC - condense
+- **Status**: Success
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Before**: 8074 words (critical, 269% of 3000-word soft threshold)
+- **After**: 3997 words (soft_warning, just under 4000-word hard threshold)
+- **Reduction**: 50.5%
+- **Technique**: Tightened prose throughout; reduced lede from 520 → 266 words by removing redundant phrasings while preserving all three "philosophically loaded" features and forward-references. Cortical Body Maps (760 → 360), Mirror Therapy (543 → 267), Congenital Phantoms (1071 → 421), Neuromatrix (730 → 276), Predictive-Processing (1080 → 348), Common-Cause-Null Audit (618 → 226), Relation to Site Perspective (617 → 358), What Would Challenge (595 → 301). Preserved: opening summary, all section structure and anchors, complete reference list (24 citations), Further Reading list, all wikilinks, the framework-boundary engagement with both neuromatrix and predictive-processing, all four falsifiers, the common-cause-null audit. No content extracted to new articles (the article's content is tightly integrated and each subsection load-bears for the overall argument). Could not reach the 3000-word target without sacrificing the engagement-with-both-physicalist-competitors structure the article was designed around; landed at the section's hard threshold (just under 4000) which is a reasonable resting point given the article's role as the Map's anchor topic on embodied consciousness and central pain construction.
+
+## 2026-05-16 18:51 UTC - coalesce
+- **Status**: Abandoned (no merger executed)
+- **Verdict**: abandon-coalesce — see [abandon-coalesce](/project/abandon-coalesce/) §"The Differentiation Test"
+- **Section under pressure**: `voids/` at 100/100 (at cap); `topics/` at 243/250 (97%); `concepts/` at 239/250 (96%). Highest-pressure section searched first per skill guidance.
+- **Candidate clusters evaluated (five iterations, per skill abandon clause)**:
+  1. `[[mood-void]]` + `[[valence-void]]` + `[[affective-void]]` — already rejected on 2026-04-27 per the apex worked-failure case; each article carries explicit "Distinct from X, Y, Z" sections; framework-independence passes (Heidegger's *Stimmung*, Russell's core affect, Nagel's bat — all pre-Map).
+  2. `[[three-kinds-of-void]]` + `[[closure-types-void]]` — taxonomic (unexplored/unexplorable/occluded) vs operational (representational/psychological closure within unexplorable). Articles explicitly cross-reference as complementary lenses. Framework-pre-existing (McGinn/Demircioglu/Kriegel debate predates the Map).
+  3. `[[mattering-void]]` + `[[relevance-void]]` — both members of the explicit four-void cluster the [medium-status-voids-in-cognition apex](/apex/medium-status-voids-in-cognition/) treats as deliberately distinguished faces (significance vs filtering); merger would damage the apex's structural claim. Framework-independent (Heidegger/Frankfurt/Vervaeke vs Heidegger/Dreyfus/Fodor frame-problem traditions).
+  4. `[[plurality-void]]` + `[[commensurability-void]]` — intra-experience singularity (Schrödinger/Coleman/Schechter on subject-summing) vs cross-architecture phenomenal partial ordering (Nagel/Wittgenstein/Díaz Boils). Distinct failure signatures, framework-independent.
+  5. `[[confabulation-void]]` + `[[source-attribution-void]]` — both part of the explicit "introspection-architecture sub-cluster" with [narrative-void](/voids/narrative-void/) and [noetic-feelings-void](/voids/noetic-feelings-void/) (the Coutinho et al. 2021 anchor and [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) independence-scoring exhibit are sub-cluster-level work); confabulation = positive-content fabrication, source-attribution = absent origin-tags. The confabulation-void article opens by explicitly distinguishing itself from its siblings.
+- **Differentiation-test verdict**: all five candidates pass all three sub-questions of [abandon-coalesce](/project/abandon-coalesce/) §"The Differentiation Test" (signature distinctness, boundary-marking work in-prose, framework-independence of the distinction).
+- **Calibration-against-common-cause-null**: this pass adds an eighth worked case to the abandon-coalesce ledger, supplying further evidence that the catalogue's differentiation pattern is principled rather than curation-artefactual under section-pressure. Each candidate was selected because thematic adjacency made the merger superficially attractive; each was refused on structural grounds rather than thematic comfort.
+- **Procrastination check**: none of the five candidates appears in the 2026-04-27 or 2026-05-12 rejected-cluster ledgers as a repeat-refusal under thinner grounds; the affective trio (candidate 1) was previously rejected and is recorded here only as a sanity baseline against the prior verdict.
+- **Files modified**: none (no merger executed; no source archived; no new article created).
+- **References to review**: not applicable.
+
+## 2026-05-16 20:00 UTC - deep-review (cross-review of naturally-occluded insights)
+- **Status**: Success
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/) (subject) + [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) (reciprocal link only)
+- **Driver**: Cross-review task following today's expand-topic creation of [naturally-occluded](/concepts/naturally-occluded/) (`reviews/deep-review-2026-05-16-naturally-occluded.md`). The new concept article formally promotes the "Naturally Occluded" category from informal mention to load-bearing fourth-kind, anchored by the FBT theorem. The parent apex [taxonomy-of-voids](/apex/taxonomy-of-voids/) (deep-reviewed 2026-05-15) already contains a "From Three Kinds to Four" section. This cross-review brings [three-kinds-of-void](/voids/three-kinds-of-void/) into consistency with the now-canonical four-kinds framing.
+- **Word count**: three-kinds-of-void 1926 → 1998 (+72; 100% of 2000-word voids soft threshold, "ok" status)
+- **Critical issues addressed**: 1 (canonical-position inconsistency — previous stability note "do not adopt naturally-occluded as a formal category" overturned by apex-level editorial decision; re-flagging licit per deep-review §1.5 case 2)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 4 (opener acknowledges four-kinds extension + links to [naturally-occluded](/concepts/naturally-occluded/) and [taxonomy-of-voids](/apex/taxonomy-of-voids/); line-83 update directs to dedicated concept article and cites [fitness-beats-truth](/concepts/fitness-beats-truth/) formal anchor; reciprocal `related_articles` and Further Reading on both files; filler trim "in a particularly vivid way" to maintain length-neutrality)
+- **Stability**: Eighth review. Article retains its title and role as canonical home of the original three-kinds taxonomy; the fourth kind is acknowledged in opener and line-83 with links to its dedicated home, but no top-level `## Naturally Occluded` section added. Presence/absence axis stability preserved (not collapsed into the four-kinds scheme).
+- **Engagement modes**: No named-opponent counterargument engagements in this article; pessimistic personas raised bedrock objections at the tenet boundary, which the article continues to address methodologically (the "testably speculative" calibration). No label leakage.
+- **Possibility/probability slippage check**: PASSES. The four-kinds addition is structural, not evidential; no void's tier is upgraded.
+- **Output**: [deep-review-2026-05-16b-three-kinds-of-void](/reviews/deep-review-2026-05-16b-three-kinds-of-void/)
+
+## 2026-05-16 19:00 UTC - deep-review
+- **Status**: Success
+- **File**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/)
+- **Word count**: 2191 → 2206 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (cross-link to decoherence-and-macroscopic-superposition added — direct empirical complement to the article's decoherence-barrier section)
+- **Stability**: Sixth review. Article remains stable. No attribution errors, no calibration slippage, no source/Map conflation. Bedrock philosophical disagreements (quantum-skeptic, functionalist) acknowledged as not-critical per the bedrock-clash-vs-absorption discipline.
+- **Engagement modes**: No extended named-opponent replies; closest is Tegmark via Hagan citation (Mode Three — honest boundary marking with provenance caveat).
+- **Output**: [deep-review-2026-05-16-evolutionary-case-for-quantum-neural-effects](/reviews/deep-review-2026-05-16-evolutionary-case-for-quantum-neural-effects/)
 
 ## 2026-05-16 18:00 UTC - deep-review (cross-review of pupillometry-behavioural-channel insights)
 - **Status**: Success
