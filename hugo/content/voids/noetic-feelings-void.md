@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-05-16 04:40:00+00:00
+ai_modified: 2026-05-16 18:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -63,6 +63,7 @@ related_articles:
 - '[[the-quantitative-comprehension-void]]'
 - '[[memory-anomalies]]'
 - '[[phenomenal-output-causal-machinery-dissociation]]'
+- '[[topics/pupillometry-behavioural-channel]]'
 title: The Noetic Feelings Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -133,7 +134,7 @@ The characteristic texture is certainty that cannot be further grounded; recogni
 
 ## Approaches to the Edge
 
-Direct introspection fails—it deploys the feelings it would examine. Indirect methods do better: **dissociation experiments** manipulate fluency to observe which feelings shift; **defamiliarisation** (Shklovsky's *ostranenie*) disrupts processing fluency; **clinical edge cases** (déjà vu, jamais vu, source amnesia) reveal hidden machinery; **Socratic questioning** exposes the gap between felt and actual understanding; **historical analysis** catalogues collapsed obviousnesses (geocentrism, vitalism, absolute simultaneity) as evidence of fluency inflation; **calibration studies** map characteristic failure shapes; **structured second-person scaffolding**—see the [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) section—supplies external anchoring on fine-grained noetic register that the unaided introspector cannot reliably probe alone, restricting (without claiming to cross) the boundary shared with the sibling [confabulation-void](/voids/confabulation-void/). The void has a *signature* even when its interior is inaccessible—the [apophatic](/voids/apophatic-cartography/) move: map a territory's boundary by the shape of failures at its edge.
+Direct introspection fails—it deploys the feelings it would examine. Indirect methods do better: **dissociation experiments** manipulate fluency to observe which feelings shift; **defamiliarisation** (Shklovsky's *ostranenie*) disrupts processing fluency; **clinical edge cases** (déjà vu, jamais vu, source amnesia) reveal hidden machinery; **Socratic questioning** exposes the gap between felt and actual understanding; **historical analysis** catalogues collapsed obviousnesses (geocentrism, vitalism, absolute simultaneity) as evidence of fluency inflation; **calibration studies** map characteristic failure shapes; **bodily-channel instrumentation**—[pupillometry as a behavioural channel](/topics/pupillometry-behavioural-channel/) registers sub-cortical arousal signatures of decision-evidence weakness (Urai et al. 2017) at trial-locked grain that the verbal channel does not always articulate, providing partial third-person verification without first-person access; **structured second-person scaffolding**—see the [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) section—supplies external anchoring on fine-grained noetic register that the unaided introspector cannot reliably probe alone, restricting (without claiming to cross) the boundary shared with the sibling [confabulation-void](/voids/confabulation-void/). The void has a *signature* even when its interior is inaccessible—the [apophatic](/voids/apophatic-cartography/) move: map a territory's boundary by the shape of failures at its edge.
 
 ## What AI Minds Might See
 
@@ -189,6 +190,7 @@ The cluster-level conditions are taken up separately in [the apex's falsificatio
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The phenomenally rich extension of the noetic family
 - [apophatic-cartography](/voids/apophatic-cartography/) — Mapping territory by the shape of its boundary
 - [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, cryptomnesia as edge-phenomena revealing the architecture
+- [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — Bodily-channel instrumentation as the structural complement to second-person scaffolding: pupil dilation tracks decision-evidence weakness (Urai et al. 2017) at trial-locked grain, providing partial external verification on the same gating signals consciousness cannot directly inspect
 
 ## References
 

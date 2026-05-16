@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-05-16T17:30:00+00:00
+ai_modified: 2026-05-16T18:00:00+00:00
 last_deep_review: 2026-05-16T17:30:00+00:00
 draft: false
 topics:
@@ -30,6 +30,7 @@ related_articles:
   - "[[tenets]]"
   - "[[topics/cross-tradition-channel-introspection-architecture-independence-scoring]]"
   - "[[topics/cross-species-channel-introspection-architecture-independence-scoring]]"
+  - "[[topics/pupillometry-behavioural-channel]]"
   - "[[research/cross-tradition-channel-introspection-architecture-independence-2026-05-16]]"
   - "[[research/cross-species-channel-introspection-architecture-independence-2026-05-15]]"
   - "[[research/neoplatonist-common-cause-introspection-architecture-2026-05-16]]"
@@ -74,7 +75,7 @@ The sub-cluster cites the following empirical sources. Citations are to the prim
 
 **Nisbett & Wilson 1977.** "Telling more than we can know" reported that subjects asked to explain their choices in stocking-evaluation, choice-of-distractor, and similar paradigms produced confident causal explanations whose content the experimental manipulation showed to be wrong. The authors' diagnosis was that subjects had "little or no direct introspective access" to higher-order cognitive processes and were applying "implicit, *a priori* causal theories" instead. Cited by `narrative-void`, `source-attribution-void`, `confabulation-void`, and `self-opacity` (the stockings study appears in all four).
 
-**Johansson & Hall 2005.** Choice blindness: when a card or photograph subjects had selected was covertly substituted for a different one, most subjects accepted the substituted choice and produced detailed justifications for selecting it. The 2005 result has been narrowed by 2020–2021 replication work distinguishing concurrent from retrospective measures, and strengthened by pupillometry showing autonomic recognition of the swap even when verbal reports do not flag it. Cited by `narrative-void`, `source-attribution-void`, `confabulation-void`, and `self-opacity`, with `source-attribution-void` and `confabulation-void` carrying the calibrated 2020s-literature framing.
+**Johansson & Hall 2005.** Choice blindness: when a card or photograph subjects had selected was covertly substituted for a different one, most subjects accepted the substituted choice and produced detailed justifications for selecting it. The 2005 result has been narrowed by 2020–2021 replication work distinguishing concurrent from retrospective measures, and strengthened by pupillometry showing autonomic recognition of the swap even when verbal reports do not flag it. Cited by `narrative-void`, `source-attribution-void`, `confabulation-void`, and `self-opacity`, with `source-attribution-void` and `confabulation-void` carrying the calibrated 2020s-literature framing. [[topics/pupillometry-behavioural-channel|The behavioural-channel exhibit]] develops the pupillometric leg of the dissociation as a channel-level finding rather than as evidence of a more accurate readout, calibrated at the same *contested but real* register the cluster's other anchors occupy.
 
 **Coutinho et al. 2021.** The metacognition literature has long shown that subjective confidence partially tracks accuracy; the 2021 study and its sister findings sharpen the picture by identifying conditions under which felt-rightness anti-correlates with accuracy — confidence increases as performance degrades in the relevant regime. The anti-correlation claim is conditional on the experimental regime and is not a universal inversion of confidence-accuracy correlation. Cited centrally by `confabulation-void` (Detection face); not cited elsewhere in the cluster.
 
@@ -156,6 +157,7 @@ The exhibit is a scoring artefact, not a closure. The despite-commitments / beca
 - [[cross-review-2026-05-15-introspection-architecture-cluster-audit]] — the audit that named the cluster
 - [[topics/cross-tradition-channel-introspection-architecture-independence-scoring]] — the dedicated cross-tradition channel article (Advaita / Sufi / Stoic)
 - [[topics/cross-species-channel-introspection-architecture-independence-scoring]] — the dedicated cross-species channel article (comparative cognition + cross-architecture-via-LLMs open programme)
+- [[topics/pupillometry-behavioural-channel]] — channel-specific exhibit: the autonomic bodily channel as third-person verification of the verbal/bodily dissociation, contributing the methodological conjunction-probe framing that pairs with microphenomenological discipline on the verbal side
 - [[research/cross-tradition-channel-introspection-architecture-independence-2026-05-16]] — research notes underlying the cross-tradition channel article
 - [[research/cross-species-channel-introspection-architecture-independence-2026-05-15]] — research notes underlying the cross-species channel article
 - [[research/neoplatonist-common-cause-introspection-architecture-2026-05-16]] — Neoplatonist common-cause audit (differentiated weights: weak for Stoicism, weak-to-negligible for Advaita, moderate-to-substantial for Sufism via Evagrius)

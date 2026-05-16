@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-05-16 07:23:00+00:00
+ai_modified: 2026-05-16 18:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -32,6 +32,7 @@ related_articles:
 - '[[voids/source-attribution-void]]'
 - '[[voids/noetic-feelings-void]]'
 - '[[phenomenology-of-memory-and-the-self]]'
+- '[[topics/pupillometry-behavioural-channel]]'
 title: The Microphenomenological Interview Method
 topics: []
 ---
@@ -125,6 +126,8 @@ The deepest objection is *interviewer-prompts-novelty*. The structured position-
 
 The Map's reading places microphenomenology in the introspection catalogue as the most-developed structured-discipline strategy that approximates the boundary without claiming to cross it — a methodological cousin to the unaided partial-discipline strategies (comparative slowing, domain-flagging, verdict-without-reasoning) catalogued in the confabulation void's "Approaches to the Edge", with the second-person scaffolding the unaided strategies forgo. The bounded-witness architecture the [Dualism tenet](/tenets/#dualism) predicts — partial recovery of pre-reflective content under structured external probing, with residue the introspector cannot distinguish from prompted novelty — is consistent with this empirical record. It does not, in either direction, decide the matter.
 
+The structural complement on the *bodily-channel* side is [pupillometry as a behavioural channel](/topics/pupillometry-behavioural-channel/). Where microphenomenology sharpens the verbal channel by training and structured prompting, pupillometry sharpens the bodily channel by providing trial-locked autonomic measurement of content the verbal channel does not always reach. The two methods together constitute a *conjunction probe* — a stronger probe than either channel alone — without committing to the resolution of the confabulation question either method's principals concede the method cannot settle from inside. No conjunction studies pairing the two at scale have yet been conducted; the opportunity is open and is one the Map flags methodologically rather than substantively.
+
 ## What the Map's Arguments Depend On
 
 The Map's catalogue cites phenomenological evidence at multiple load-bearing junctures. The microphenomenological interview is the methodological floor under several of them.
@@ -159,6 +162,7 @@ The Map does *not* claim that Petitmengin or her collaborators hold any tenet th
 - [heterophenomenology](/concepts/heterophenomenology/) — the principal methodological alternative that treats reports as data without committing to inner referents
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — the domain the method was largely designed to probe
 - [phenomenology](/concepts/phenomenology/) — the Husserlian tradition the technique operationalises
+- [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — the bodily-channel methodological complement: trial-locked autonomic measurement of content the verbal channel does not always reach, with which microphenomenology forms a candidate conjunction probe stronger than either channel alone
 
 ## References
 

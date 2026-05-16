@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T17:30:00+00:00
+ai_modified: 2026-05-16T18:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 18:00 UTC - deep-review (cross-review of pupillometry-behavioural-channel insights)
+- **Status**: Success
+- **File**: [[topics/pupillometry-behavioural-channel]] (subject) — back-link installation across 8 related articles
+- **Driver**: P2 chain task from 2026-05-16 expand-topic creating `obsidian/topics/pupillometry-behavioural-channel.md`. The task notes specified 10 candidate articles in the introspection-architecture cluster for back-link review. Earlier-today's single-doc deep review (`reviews/deep-review-2026-05-16-pupillometry-behavioural-channel.md`) found the article first-review-stable. This cross-review installs reciprocal cross-links where the channel-specific exhibit does load-bearing work for the host article.
+- **Word count delta** (across all touched files): +~310 words distributed across 8 files (avg ~40 words per file: one calibrating sentence integrated into existing prose plus one Further Reading entry per article)
+- **Files modified**:
+  1. `voids/confabulation-void.md` — 2 in-text cross-link upgrades + Further Reading + related_articles
+  2. `voids/source-attribution-void.md` — Pupillometric extension paragraph at Choice Blindness + Further Reading + related_articles
+  3. `voids/noetic-feelings-void.md` — Bodily-channel instrumentation entry in Approaches to the Edge + Further Reading + related_articles
+  4. `voids/narrative-void.md` — Pupillometric extension at Choice Blindness section + Further Reading + related_articles
+  5. `topics/introspection-architecture-independence-scoring.md` — Cross-link at Johansson & Hall empirical anchor + Further Reading + related_articles
+  6. `topics/microphenomenological-interview-method.md` — Conjunction-probe paragraph closing the Confabulation-Resistance Discipline section + Further Reading + related_articles
+  7. `concepts/introspection.md` — Channel-level dissociation note at Process/Content distinction + Further Reading + related_articles
+  8. `concepts/heterophenomenology.md` — Bodily-channel/heterophenomenology paragraph at Limited Methodological Utility + Further Reading + related_articles
+- **Files NOT modified** (with rationale documented in review file):
+  - `concepts/metacognition.md` — pupillometry bears on metacognition only tangentially; cross-reference belongs in `noetic-feelings-void` where it has been added
+  - `project/evidential-status-discipline.md` — pupillometry is empirical channel-evidence, not a labelling-language calibration case; pupillometry article already cites the discipline (correct direction of relation)
+- **Calibration discipline honoured**: Pupillometry preserved as *contested but real* channel-evidence throughout. No upgrade to direct consciousness-readout; no force-fit into articles where the channel-grain doesn't match. Constrain-vs-establish and compatibility-vs-support boundaries respected.
+- **Engagement classifications**: One new engagement added at `concepts/heterophenomenology.md` (Mode Three — methodological supplement, boundary-marking; no editor-vocabulary leakage). All other host-article engagements preserved at their existing classifications.
+- **Output**: [[reviews/deep-review-2026-05-16-cross-review-pupillometry-behavioural-channel]]
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
 
 ## 2026-05-16 17:30 UTC - deep-review (cross-review pass 2)
 - **Status**: Success

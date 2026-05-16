@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot detect when it fa
 created: 2026-05-15
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-16T04:40:00+00:00
+ai_modified: 2026-05-16T18:00:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -32,6 +32,7 @@ related_articles:
   - "[[self-maintained-cognitive-limits]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[topics/microphenomenological-interview-method]]"
+  - "[[topics/pupillometry-behavioural-channel]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -71,7 +72,7 @@ The void in this face is not just that confabulation happens, but that the *frac
 
 Several lines of evidence converge to suggest that this void is not merely a difficult empirical problem but a structural feature of how consciousness relates to its substrate.
 
-**Replication-survival.** Nearly half a century after Nisbett and Wilson, the dissociation between actual causes and reported causes survives across paradigms. The Johansson-Hall *choice blindness* paradigm — in which subjects fluently justify choices they did not in fact make — has been narrowed by 2020–2021 replication work, but the structural finding is *strengthened* rather than weakened. Pupillometry follow-ups show *covert* detection of swapped trials: pupils dilate to the manipulation even when the verbal report does not flag it. The body knows; the verbal channel does not.
+**Replication-survival.** Nearly half a century after Nisbett and Wilson, the dissociation between actual causes and reported causes survives across paradigms. The Johansson-Hall *choice blindness* paradigm — in which subjects fluently justify choices they did not in fact make — has been narrowed by 2020–2021 replication work, but the structural finding is *strengthened* rather than weakened. Pupillometry follow-ups show *covert* detection of swapped trials: pupils dilate to the manipulation even when the verbal report does not flag it. The body knows; the verbal channel does not. [[topics/pupillometry-behavioural-channel|The behavioural-channel exhibit]] develops the pupillometric leg of the dissociation as a channel-level finding rather than as evidence of a more accurate readout, calibrated as *contested but real* at the structural grain.
 
 **Lesion convergence.** Schnider's orbitofrontal reality-filter mechanism, Feinberg's right-hemisphere anosognosia, and Gazzaniga's split-brain interpreter triangulate on the same architectural fact: a generative module without an integrated checking module produces confident false content. Different lesions produce different confabulation profiles, supporting a systemic-architecture interpretation rather than a single neural locus.
 
@@ -91,7 +92,7 @@ Partial discipline can do a little. *Comparative slowing*: notice when an explan
 
 Structured third-party-assisted discipline reaches further than unaided introspection on exactly the pre-reflective and transient dimensions where the interpreter does its most fluent filling-in: the [[topics/microphenomenological-interview-method|microphenomenological interview method]] is the catalogue's name for this strategy and the most-developed extant approach to the boundary. The method's own principals concede that interview reports cannot in principle prove access to pre-reflective content — only exhibit the convergence-and-ampliative-yield profile such access would predict — and the *interviewer-prompts-novelty* objection means the introspector still cannot distinguish recovered content from content the structured prompt generated. The structured discipline restricts the confabulation-eligible space; whether the restriction crosses from approximation to access is methodologically undetermined.
 
-Third-person and instrumental methods do better. Behavioural dissociation paradigms, pupillometry, EEG, and fMRI can detect confabulation against ground-truth — but the measurement is external and cannot be deployed in real time as a personal honesty-check. Conversation and challenge can surface confabulation by exhausting post-hoc resources, but only in domains where reasons can actually be checked. Long-time-base self-correction is itself vulnerable to confabulated remembering of prior states.
+Third-person and instrumental methods do better. Behavioural dissociation paradigms, [[topics/pupillometry-behavioural-channel|pupillometry as a behavioural channel]], EEG, and fMRI can detect confabulation against ground-truth — but the measurement is external and cannot be deployed in real time as a personal honesty-check. Conversation and challenge can surface confabulation by exhausting post-hoc resources, but only in domains where reasons can actually be checked. Long-time-base self-correction is itself vulnerable to confabulated remembering of prior states.
 
 The [[non-human-minds-as-void-explorers|AI-as-probe]] case is double-edged. Current LLM-based systems confabulate visibly — citations, factual claims, explanations of their own processing — and they can be interrupted, instrumented, and replayed in ways human minds cannot; mechanistic interpretability is beginning to identify activations that correspond to "the model knows it doesn't know" versus "the model proceeds anyway." But AI self-reports are constitutively externalist, generated by the same forward pass that produced the output. More visible confabulation, possibly a worse constitutive position from which to report on it.
 
@@ -114,6 +115,7 @@ A reflexive implication for the Map's own method is worth marking. The voids cat
 - [[agency-void]] — the verification face for action-explanation, the paradigm class
 - [[self-maintained-cognitive-limits]] — the framing under which consciousness participates in its own ignorance
 - [[predictive-construction-void]] — parallel boundary failure in the construct-versus-receive register
+- [[topics/pupillometry-behavioural-channel]] — the bodily-channel exhibit demonstrating the verbal-channel/autonomic-channel dissociation as channel-level rather than as evidence of a more accurate readout
 
 ## References
 

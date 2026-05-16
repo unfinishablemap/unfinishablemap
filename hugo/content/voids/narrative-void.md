@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-05-16 04:40:00+00:00
+ai_modified: 2026-05-16 18:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[narrative-coherence]]'
 - '[[necessary-opacity]]'
 - '[[observation-and-measurement-void]]'
+- '[[topics/pupillometry-behavioural-channel]]'
 title: The Narrative Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -51,7 +52,7 @@ This is not a pathology confined to split-brain patients. The interpreter operat
 
 The gap extends further than confabulated reasons. Johansson and Hall's choice blindness experiments demonstrated that people fail to notice when their own choices are covertly swapped—and then confabulate reasons for preferring the option they did not choose.
 
-Participants selected between photographs for attractiveness. Researchers secretly substituted the rejected photograph. Most participants did not detect the swap. They proceeded to explain, with normal confidence, why they preferred the face they had actually rejected. The narrative mechanism does not merely fabricate reasons for genuine choices; it fabricates reasons for choices that never occurred.
+Participants selected between photographs for attractiveness. Researchers secretly substituted the rejected photograph. Most participants did not detect the swap. They proceeded to explain, with normal confidence, why they preferred the face they had actually rejected. The narrative mechanism does not merely fabricate reasons for genuine choices; it fabricates reasons for choices that never occurred. Pupillometric extensions of the paradigm sharpen the structural finding: the autonomic channel can register the swap on manipulated trials even when the verbal narrative does not flag it, framing the dissociation at channel level rather than as a global indictment of self-report (see [the behavioural-channel exhibit](/topics/pupillometry-behavioural-channel/) for the channel-level treatment and its evidential limits).
 
 This finding extends [introspective opacity](/voids/self-opacity/) into new territory. Introspective opacity concerns the inability to observe cognitive processes—we see contents but not mechanisms. The narrative void goes further: the contents themselves may be fabricated. We are not merely blind to how we think; we can be blind to what we chose. The [observation-and-measurement-void](/voids/observation-and-measurement-void/) deepens the problem: even if we suspected our narrative of distortion, we have no independent standard of phenomenal accuracy against which to check it.
 
@@ -107,6 +108,7 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 - [narrative-coherence](/concepts/narrative-coherence/)
 - [necessary-opacity](/voids/necessary-opacity/)
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/)
+- [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — Pupillometric extension of the choice-blindness paradigm: the bodily channel registers swapped trials the verbal narrative does not flag, framed as a channel-level dissociation
 - [The Encoding Void (research-stage)](/research/voids-encoding-void-2026-05-12/) — Upstream of this article's storytelling: which fragments survive to become narratively integrable is determined by sharp-wave-ripple tagging (Yang et al. 2024 in *Science* — hippocampal SWRs tag specific waking experiences during reward consummation, and sleep SWRs preferentially replay the tagged sequences), recall-gated consolidation (Sun et al. 2025), and event-boundary "memory flushing" (Radvansky-Zacks 2017's doorway effect, with Yan et al. 2024 showing flushing occurs despite active maintenance) — all sub-personal. The Henke-lab inverse-forgetting result (Schreiner et al. 2022) sharpens the void: subliminally-encoded episodic traces consolidate along trajectories *opposite* to the conscious case, meaning the storyteller works on material whose selection criterion it neither set nor witnessed. Cap-deferred, awaiting absorption as the encoding-side face of the storytelling architecture this article treats
 
 ## References

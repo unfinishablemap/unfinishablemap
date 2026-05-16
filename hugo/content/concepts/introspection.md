@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-15 18:28:00+00:00
+ai_modified: 2026-05-16 18:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -49,6 +49,7 @@ related_articles:
 - '[[source-attribution-void]]'
 - '[[noetic-feelings-void]]'
 - '[[wholeheartedness-void]]'
+- '[[topics/pupillometry-behavioural-channel]]'
 title: Introspection and First-Person Methods
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -76,7 +77,7 @@ Metzinger's [transparency-opacity spectrum](/concepts/phenomenal-transparency-op
 
 This distinction is crucial for the [hard problem](/topics/hard-problem-of-consciousness/). [Cognitive science itself](/topics/cognitive-science-of-dualism/) depends on it: every neural correlate study trusts the subject's first-person report as testimony *about* experience, not merely as behavioural output. Arguments for dualism don't depend on introspecting cognitive processes—they depend on recognizing that experience has a qualitative character differing from its neural correlates. [Qualia](/concepts/qualia/) are what experience *is*, not what causes experience. The [consciousness-language interface](/topics/consciousness-and-language-interface/) complicates this: introspection is often linguistically mediated, and the linguistic encoding necessarily loses content from the original phenomenal state.
 
-Choice blindness concerns decision justification, not current phenomenal awareness. The subject misremembers which face they chose and confabulates reasons for a choice they didn't make. But at any moment, they still have visual experience—experience whose existence doesn't depend on accurately reporting its causal history.
+Choice blindness concerns decision justification, not current phenomenal awareness. The subject misremembers which face they chose and confabulates reasons for a choice they didn't make. But at any moment, they still have visual experience—experience whose existence doesn't depend on accurately reporting its causal history. [Pupillometric extensions](/topics/pupillometry-behavioural-channel/) of the paradigm sharpen the process/content distinction at the methodological grain: the autonomic channel can register the swap when the verbal channel does not flag it, locating the dissociation as channel-level rather than as a global failure of self-report — and exhibiting the bodily-channel third-person check that operates exactly on the process side the verbal channel cannot reach.
 
 ### Phenomenal Overflow: Evidence for the Distinction
 
@@ -200,6 +201,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The spectrum of phenomenal authority positions and phenomenal conservatism
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — When the attentional basis of introspection is itself disordered
 - [The Intersubjective Void](/voids/voids-between-minds/) — How social calibration compounds introspective unreliability
+- [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — Bodily-channel third-person check operating on the process side the verbal channel cannot reach; channel-level treatment of the choice-blindness dissociation
 
 ## References
 

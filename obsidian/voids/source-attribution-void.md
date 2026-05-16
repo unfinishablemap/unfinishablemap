@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-16T04:40:00+00:00
+ai_modified: 2026-05-16T18:00:00+00:00
 last_deep_review: 2026-05-11T01:31:00+00:00
 draft: false
 topics:
@@ -39,6 +39,7 @@ related_articles:
   - "[[source-attribution-divergence]]"
   - "[[memory-anomalies]]"
   - "[[decision-void]]"
+  - "[[topics/pupillometry-behavioural-channel]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -62,7 +63,7 @@ The architectural consequence is structural: the absence of native source tags i
 
 Three experimental programmes probe the void at its seams.
 
-**Choice blindness.** Johansson, Hall, Sikström and Olsson (2005) asked participants to choose between pairs of faces on attractiveness, then covertly switched the chosen face for the rejected one. Most manipulated trials went undetected. When asked to explain their (manipulated) choice, participants who missed the switch confidently produced detailed reasons for the face they had originally rejected—reasons as detailed and emotionally invested as genuine ones. The phenomenology of explaining a choice and explaining a non-choice was indistinguishable from within.
+**Choice blindness.** Johansson, Hall, Sikström and Olsson (2005) asked participants to choose between pairs of faces on attractiveness, then covertly switched the chosen face for the rejected one. Most manipulated trials went undetected. When asked to explain their (manipulated) choice, participants who missed the switch confidently produced detailed reasons for the face they had originally rejected—reasons as detailed and emotionally invested as genuine ones. The phenomenology of explaining a choice and explaining a non-choice was indistinguishable from within. Pupillometric follow-ups extend the seam: the autonomic channel can register the swap even when the verbal channel does not flag it, sharpening the structural finding into a verbal-channel/bodily-channel dissociation rather than a global indictment of self-report (see [[topics/pupillometry-behavioural-channel|the behavioural-channel exhibit]], where the channel-level framing and its limits are developed).
 
 **Cryptomnesia.** Brown and Murphy (1989) documented that in category-fluency tasks, subjects routinely "originate" ideas they had encountered before but forgotten encountering. The subject is confident of originality. The mechanism appears to be [[noetic-feelings-void|fluency-based attribution]]: the ease with which a thought arrives is misread as evidence of self-generation. The [[memory-anomalies|memory anomalies cluster]] develops cryptomnesia as one of three rotations on the same source-monitoring failure, alongside déjà vu (familiarity without recollection) and jamais vu (recollection without familiarity).
 
@@ -148,6 +149,7 @@ Three implications follow for how the Map thinks about the first person:
 - [[source-attribution-divergence]] — The topic-tier subject explainer: empirical signatures (source-monitoring tasks, choice blindness, cryptomnesia, imagery-spectrum correlations) of the within-species spread this void treats apophatically
 - [[memory-anomalies]] — Déjà vu, jamais vu, and cryptomnesia as a single phenomenon viewed from three angles: the concrete-phenomenon exhibits of the source-monitoring architecture this void treats abstractly
 - [[decision-void]] — The deliberation→commitment moment as the specific application: surface features of the outcome stand in for the inaccessible event of choosing
+- [[topics/pupillometry-behavioural-channel]] — Pupillometric extension of the choice-blindness paradigm: the autonomic channel registers the swap the verbal channel does not flag, framed as channel-level dissociation rather than a more accurate readout
 - [[research/voids-encoding-void-2026-05-12|The Encoding Void (research-stage)]] — Architectural-layer complement upstream of this article's inferential and confabulatory layers: sharp-wave-ripple tagging, recall-gated consolidation, and Henke-lab subliminal encoding show source tags are not written at encoding, deepening this article's diagnosis beyond reconstruction-at-retrieval. Cap-deferred
 
 ## References

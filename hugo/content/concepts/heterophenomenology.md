@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-15 15:20:00+00:00
+ai_modified: 2026-05-16 18:00:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[completeness-in-physics-under-dualism]]'
 - '[[microphenomenological-interview-method]]'
 - '[[confabulation-void]]'
+- '[[topics/pupillometry-behavioural-channel]]'
 title: Heterophenomenology
 topics:
 - '[[consciousness]]'
@@ -135,6 +136,8 @@ Heterophenomenology works as a tool within a larger framework that includes disc
 
 The structured first-person side has its own discipline for the confabulation worry heterophenomenology rightly identifies. The [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) section of the microphenomenology article catalogues how disciplined second-person elicitation restricts the confabulation-eligible space more than casual introspection does, without claiming to settle whether the restriction crosses from approximation to access. The [confabulation void](/voids/confabulation-void/) is conceded as structural; the *interviewer-prompts-novelty* objection is conceded by the method's own principals; the position is methodologically honest about its own ceiling. Heterophenomenology absorbs the same outputs as data without committing to inner-referent recovery — it brackets the bounded-witness reading as still claiming too much, where the Map reads the same evidence as partial purchase against the void. The disagreement is at the framework boundary rather than over the confabulation question itself.
 
+The complementary bodily-channel data is symmetrically positioned. [Pupillometry as a behavioural channel](/topics/pupillometry-behavioural-channel/) supplies trial-locked autonomic measurement that heterophenomenology can ingest on the same neutral terms as a verbal report — a pupillary trace is a behavioural fact about the subject in the broad biological sense. What the channel-level dissociation does is force heterophenomenology to *attend* to the disagreement between verbal and bodily channels: the subject's heterophenomenological world (the world they say they inhabit) and the subject's bodily behaviour (the world the experimenter measures) can come apart in interpretable ways. The data do not refute heterophenomenology; they do narrow the easiest reading on which verbal report exhausts what can be said.
+
 ## Relation to Site Perspective
 
 Heterophenomenology exemplifies the third-person-only approach to consciousness that the Map's [Dualism tenet](/tenets/#dualism) rejects. The [methodological divide](/topics/methodology-of-consciousness-research/) between first-person phenomenology and third-person neuroscience reflects a genuine ontological divide—phenomenal properties resist third-person description not because science is immature but because consciousness has irreducibly first-person character.
@@ -153,6 +156,7 @@ The Map endorses methodological pluralism: consciousness requires multiple inves
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)—The tension between objective science and subjective experience
 - [illusionism](/concepts/illusionism/)—The metaphysical view often paired with heterophenomenology
 - [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)—Physics is structurally complete yet ontologically partial, grounding the limits of third-person methods
+- [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — Trial-locked autonomic measurement heterophenomenology can ingest on neutral terms while the channel-level verbal/bodily dissociation forces attention to disagreement between the subject's heterophenomenological world and their measured bodily behaviour
 
 ## References
 

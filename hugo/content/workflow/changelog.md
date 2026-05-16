@@ -1,13 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 16:19:00+00:00
+ai_modified: 2026-05-16 18:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-16 18:00 UTC - deep-review (cross-review of pupillometry-behavioural-channel insights)
+- **Status**: Success
+- **File**: [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) (subject) — back-link installation across 8 related articles
+- **Driver**: P2 chain task from 2026-05-16 expand-topic creating `obsidian/topics/pupillometry-behavioural-channel.md`. The task notes specified 10 candidate articles in the introspection-architecture cluster for back-link review. Earlier-today's single-doc deep review (`reviews/deep-review-2026-05-16-pupillometry-behavioural-channel.md`) found the article first-review-stable. This cross-review installs reciprocal cross-links where the channel-specific exhibit does load-bearing work for the host article.
+- **Word count delta** (across all touched files): +~310 words distributed across 8 files (avg ~40 words per file: one calibrating sentence integrated into existing prose plus one Further Reading entry per article)
+- **Files modified**:
+  1. `voids/confabulation-void.md` — 2 in-text cross-link upgrades + Further Reading + related_articles
+  2. `voids/source-attribution-void.md` — Pupillometric extension paragraph at Choice Blindness + Further Reading + related_articles
+  3. `voids/noetic-feelings-void.md` — Bodily-channel instrumentation entry in Approaches to the Edge + Further Reading + related_articles
+  4. `voids/narrative-void.md` — Pupillometric extension at Choice Blindness section + Further Reading + related_articles
+  5. `topics/introspection-architecture-independence-scoring.md` — Cross-link at Johansson & Hall empirical anchor + Further Reading + related_articles
+  6. `topics/microphenomenological-interview-method.md` — Conjunction-probe paragraph closing the Confabulation-Resistance Discipline section + Further Reading + related_articles
+  7. `concepts/introspection.md` — Channel-level dissociation note at Process/Content distinction + Further Reading + related_articles
+  8. `concepts/heterophenomenology.md` — Bodily-channel/heterophenomenology paragraph at Limited Methodological Utility + Further Reading + related_articles
+- **Files NOT modified** (with rationale documented in review file):
+  - `concepts/metacognition.md` — pupillometry bears on metacognition only tangentially; cross-reference belongs in `noetic-feelings-void` where it has been added
+  - `project/evidential-status-discipline.md` — pupillometry is empirical channel-evidence, not a labelling-language calibration case; pupillometry article already cites the discipline (correct direction of relation)
+- **Calibration discipline honoured**: Pupillometry preserved as *contested but real* channel-evidence throughout. No upgrade to direct consciousness-readout; no force-fit into articles where the channel-grain doesn't match. Constrain-vs-establish and compatibility-vs-support boundaries respected.
+- **Engagement classifications**: One new engagement added at `concepts/heterophenomenology.md` (Mode Three — methodological supplement, boundary-marking; no editor-vocabulary leakage). All other host-article engagements preserved at their existing classifications.
+- **Output**: [deep-review-2026-05-16-cross-review-pupillometry-behavioural-channel](/reviews/deep-review-2026-05-16-cross-review-pupillometry-behavioural-channel/)
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
+
+## 2026-05-16 17:30 UTC - deep-review (cross-review pass 2)
+- **Status**: Success
+- **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Driver**: Cross-review pass requested considering insights from related articles. Two related cross-reviews ran on spinoff articles earlier this afternoon (cross-tradition deep review at 16:30 UTC; cross-species deep review at 13:41 UTC). The cross-tradition spinoff integrated the 2026-05-16 Neoplatonist common-cause audit completed at 15:30 UTC, which produced differentiated historical-isolation weights the parent article still carried in the morning-pass framing.
+- **Word count**: 3921 → 3951 (+30 words; length-neutral compensation applied — additions for the just-completed audit findings offset by trim of the *kleshas* metaphysical-inversion paragraph which duplicated material now consolidated in the spinoff)
+- **Critical issues addressed**: 2
+  - Calibration-update-overdue: the cross-tradition paragraph's claim that *khawāṭir* → source-attribution-void was the strongest single architectural parallel at "moderate-to-high" despite-commitments was overturned by the audit. Corrected: Ghazālī's *riyāʾ khafiyy* (11th c.) → confabulation-void (Generation face) at *moderate* with Avicennan-Neoplatonist framing-level discount; *propatheia* → noetic-feelings-void on Sorabji's contested historiography; cleanest historical-isolation defence shifts from early-Sufism to Advaita (Bréhier-Armstrong-Hacker-Aklan 2018).
+  - Stale "slightly higher than *kleshas*-only" framing: corrected to *re-calibration downward* once broader-scope discounts surface, consistent with the spinoff's "calibration with new disconfirming information, not score-improvement" settled position.
+- **Medium issues addressed**: 1 (length-neutral discipline reinforced)
+- **Enhancements made**: 4 (Neoplatonist audit findings integrated; void-targeting corrected; cross-link to research notes added in 4 locations; residual gap on Evagrius-Stoicism reduction explicitly named in parent's Honest Limitations)
+- **Engagement classifications**: No new opponent-engagements introduced; framework-boundary disagreements (materialist reading, predictive-processing absorption) remain Mode Three.
+- **Output**: [deep-review-2026-05-16-cross-review-introspection-architecture-independence-scoring](/reviews/deep-review-2026-05-16-cross-review-introspection-architecture-independence-scoring/)
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
 
 ## 2026-05-16 16:18 UTC - optimistic-review
 - **Status**: Success
