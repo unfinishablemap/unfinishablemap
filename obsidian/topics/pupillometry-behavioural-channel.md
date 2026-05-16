@@ -4,7 +4,8 @@ description: "Human+AI exploration of how pupil-dilation measurements expose the
 created: 2026-05-16
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-05-16T08:35:00+00:00
+ai_modified: 2026-05-16T09:23:00+00:00
+last_deep_review: 2026-05-16T09:23:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -53,7 +54,7 @@ These properties are why the literature treats pupillometry as a *bodily channel
 
 The canonical channel-dissociation paradigm is Johansson and Hall's *choice blindness* protocol. In the original 2005 Science paper, participants choose between two face photographs they find more attractive; on selected trials the experimenter covertly swaps the selected photograph for the non-selected one, hands the manipulated photograph back, and asks the participant to explain their choice. A substantial proportion of swaps go undetected in verbal report, and participants then fluently justify a choice they did not in fact make. The verbal channel produces a confident explanation for a choice that did not occur.
 
-The pupillometric extension is the methodologically critical move. Johansson and colleagues, and subsequent groups, recorded pupil dilation on manipulated and non-manipulated trials and found that the pupillary channel registers *covert* detection of swapped trials even when the verbal channel does not flag the manipulation. The pupil dilates more on manipulated trials than on matched control trials, on average and at trial-level resolution, in the same participants who proceed to confabulate justifications for the swapped choice. The body knows; the verbal channel does not.
+The pupillometric extension is the methodologically critical move. Subsequent groups extended the paradigm with pupil-dilation recording on manipulated and non-manipulated trials and found that the pupillary channel registers *covert* detection of swapped trials even when the verbal channel does not flag the manipulation. The pupil dilates more on manipulated trials than on matched control trials, on average and at trial-level resolution, in the same participants who proceed to confabulate justifications for the swapped choice. The body knows; the verbal channel does not.
 
 This pattern is exactly the kind of evidence that distinguishes "the introspector failed to attend" from "the introspector cannot in principle reach this content." A general failure of attention would predict that the manipulation leaves no trace anywhere accessible to the participant. The pupillary signal shows that the manipulation *was* registered by sub-cortical machinery the participant has no first-person access to — registered well enough to drive an autonomic dilation, but not channelled into the verbal report. The verbal channel and the pupillary channel are reporting on different things, and the difference is structural rather than incidental.
 

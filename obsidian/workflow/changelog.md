@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T08:52:00+00:00
+ai_modified: 2026-05-16T09:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 09:23 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/pupillometry-behavioural-channel]]
+- **Previous review**: Never (first deep review of this article)
+- **Word count**: 2353 → 2349 (−4; 78% of 3000 target — comfortable headroom, no length pressure)
+- **Critical issues addressed**: 0 (no critical issues found; calibration was already clean)
+- **Medium issues addressed**: 1 (softened "Johansson and colleagues" pupillometry attribution to "Subsequent groups" — precautionary attribution discipline since Johansson 2005 was behavioural and pupillometric extensions are by subsequent groups; matches the safer attribution already used in the confabulation-void article)
+- **Reasoning-mode classification (editor-internal)**:
+  - Engagement with heterophenomenology (Dennett): Mode Three — honest boundary-marking; the article notes Dennett's method can ingest pupillary traces and that the *dissociation* is what forces methodological supplementation, without claiming refutation.
+  - Engagement with physicalist reading: Mode Three — explicit concession that "a physicalist reading can be supplied" and the data "do not require" the Map's interpretation.
+  - No label leakage in article prose.
+- **Possibility/probability-slippage diagnostic**: Clean. Headline empirical claim is calibrated at the strongly-supported tier; Map-specific paragraph in Relation to Site Perspective explicitly declines tenet-as-evidence-upgrade.
+- **Cross-link audit**: All 13 wikilinks (including two #^anchor links to tenets.md and one fragment link to confabulation-void) verified resolvable.
+- **Enhancements made**: 0 (article was already comprehensive and well-calibrated; no expansion warranted)
+- **Output**: [[reviews/deep-review-2026-05-16-pupillometry-behavioural-channel]]
 
 ## 2026-05-16 08:52 UTC - deep-review
 - **Status**: Success
