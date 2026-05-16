@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T05:30:00+00:00
+ai_modified: 2026-05-16T05:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 05:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/introspection-architecture-independence-scoring]]
+- **Task**: Integrate two unconsumed research notes ([[research/cross-tradition-channel-introspection-architecture-independence-2026-05-16]] and [[research/cross-species-channel-introspection-architecture-independence-2026-05-15]]) into the per-cluster independence-scoring exhibit in length-neutral mode. Chain from the 2026-05-16 04:55 UTC expand-topic completed-duplicate skip.
+- **Changes**:
+  - Cross-tradition channel paragraph extended with Sufi *khawāṭir* taxonomy (single strongest structural parallel to [[source-attribution-void]]; despite-commitments-moderate-to-high architectural claim from *muḥāsaba* practice; lower at *nafs ammāra* framework-level), Stoic *prosochē* / *phantasia*-*sunkatathesis* / Seneca's *propatheia* (with Stoic-CBT inheritance line through Ellis-Beck as partial common-cause channel for the modern anchors), and Advaita Vedānta (Shankara's *adhyāsa* + *antaḥkaraṇa* doctrine, with metaphysical-inversion calibration in the same register as the *kleshas* treatment — empirical-surface convergence, not appropriation of Advaita as cross-observer agreement on the bounded-witness reading).
+  - Cross-species channel paragraph extended with concrete naming of the proxy-test architectures the comparative-cognition literature has produced: Hampton's macaque prospective-metamemory (2001, 2019), Kepecs's rat orbitofrontal confidence-coding (2008-2020), Crystal's rodent source-monitoring, Clayton's corvid what-where-when caching (1998; 2024-25 revisit), Krupenye et al. (2016) false-belief tracking in great apes, Kohda cleaner-wrasse mirror self-recognition. Per-researcher despite-commitments classification preserved; Le Pelley's associative-learning models and Carruthers's interpretive-sensory-access framework cited as load-reducing constraints. Channel framed as *partially fillable in proxy form, not filled*.
+  - Population-type profile's channel-aggregate accounting added: cross-tradition and cross-species channel updates do not discharge the strongest common-cause null; patient-population channel remains load-bearing.
+  - Cluster-comparison section compressed substantially (its work was done in three or four sentences; the remaining methodological-generalisation calibration tightened to spine). This was the source of the word-count budget for the channel additions.
+  - "Cross-observer convergence" sub-section in scoring updated to reflect the 2026-05-16 Advaita/Sufi/Stoic extension at calibration-grade weight and the partially-fillable cross-species channel.
+  - Honest Limitations updated: the deeper-cross-tradition audit named at write-time as the open programme is now partially executed; the open programme is now cross-architecture-via-LLMs scoring (Lindsey et al. 2025-26; Vogel "strength but not source" finding as structural parallel to [[source-attribution-void]]).
+  - related_articles + Further Reading wikilinks added for the two research notes.
+- **Length**: 3960 → 3978 words (+18; effectively length-neutral). Status soft_warning (132% of 3000 topics soft threshold; under 4000 hard threshold). The cluster-comparison cuts paid for the channel extensions.
+- **Evidential-status-discipline check**: PASSES. The Advaita/Sufi/Stoic additions are *illustrative empirical convergence* at calibration-grade weight, not load-bearing cross-tradition triangulation; the cross-species additions name the channel as *partially fillable in proxy form*, not *filled*. The metaphysical-inversion logic applied to *kleshas* is explicitly extended to Advaita rather than appropriating Advaita witness-consciousness as cross-observer convergence on the bounded-witness reading.
+- **Frontmatter**: `ai_modified` updated to 2026-05-16T05:55:00+00:00; two research-note wikilinks added to related_articles.
+- **Published**: yes
 
 ## 2026-05-16 05:30 UTC - optimistic-review
 - **Status**: Success
