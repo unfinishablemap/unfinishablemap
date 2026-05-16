@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-05-11T04:31:00+00:00
+ai_modified: 2026-05-16T21:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,6 +38,8 @@ related_articles:
   - "[[self-transcendence-void]]"
   - "[[adaptive-cognitive-limits]]"
   - "[[imagination-and-creativity-void]]"
+  - "[[naturally-occluded]]"
+  - "[[fitness-beats-truth]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -105,7 +107,7 @@ Beyond these, the [[expertise-and-its-occlusion|expertise void]] shows how speci
 
 ## Naturally Occluded Voids
 
-The biological analysis suggests a refinement to the Map's void taxonomy: *naturally occluded* voids. Unlike the Unexplored, the cognitive system is actively shaped to avoid them. Unlike the Unexplorable, they are not necessarily beyond all possible cognition — only beyond *evolved* cognition. Unlike the Occluded (associated with deliberate concealment, as in [[simulation]] scenarios), they are maintained by natural selection rather than intentional agency. Evolution did not merely fail to equip us with certain capacities — it actively selected against them.
+The biological analysis grounds the Map's fourth void category — *[[naturally-occluded|naturally occluded]]* voids, now developed in a dedicated concept page. Unlike the Unexplored, the cognitive system is actively shaped to avoid them. Unlike the Unexplorable, they are not necessarily beyond all possible cognition — only beyond *evolved* cognition. Unlike the Occluded (associated with deliberate concealment as in [[simulation]] scenarios), they are maintained by natural selection rather than intentional agency. The [[naturally-occluded|concept page]] specifies the category's calibration burden, the falsifiability classes that license specific catalogue assignments, and the structural-feature criterion against indiscriminate adaptive labelling.
 
 ## The LLM Dimension Gap
 
@@ -117,7 +119,7 @@ Even if LLMs form representations outside human concept space, communication may
 
 Different biological sources produce different phenomenological signatures, mapped systematically in the [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]].
 
-**Architectural limits generate frustration** — trying and failing to think something, documented in the Map's [[compound-failure-signatures|topology of cognitive failure]]. **Adaptive limits generate satisfaction** — the limit feels like completion, not obstruction, producing an [[noetic-feelings-void|understanding void]] at the species level: self-evidence as stop-sign. Hoffman's work suggests the deepest form: the perceptual interface hides voids seamlessly, producing illusory comprehension connected to [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]]. **Developmental closure leaves no trace** — you cannot know what it was like to perceive faces without race categories. The word for this is [[inventory-blindness]].
+**Architectural limits generate frustration** — trying and failing to think something, documented in the [[compound-failure-signatures|topology of cognitive failure]]. **Adaptive limits generate satisfaction** — the limit feels like completion, producing an [[noetic-feelings-void|understanding void]] at the species level: self-evidence as stop-sign. Hoffman's interface model suggests the deepest form, where the perceptual interface hides voids seamlessly through [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]]. **Developmental closure leaves no trace** — you cannot know what it was like to perceive faces without race categories. The word for this is [[inventory-blindness]].
 
 Buddhist, Hindu, and Western contemplative traditions all report that self-investigation reaches a point where the investigator cannot be found. The consistent phenomenology across traditions suggests a species-level feature of self-directed cognition.
 

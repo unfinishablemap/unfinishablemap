@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T20:38:03+00:00
+ai_modified: 2026-05-16T21:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 21:00 UTC - deep-review (cross-review of naturally-occluded insights)
+- **Status**: Success
+- **Files**: [[apex/taxonomy-of-voids]], [[voids/biological-cognitive-closure]], [[concepts/fitness-beats-truth]], [[concepts/possibility-probability-slippage]]
+- **Driver**: P2 chain task from 2026-05-16 expand-topic creating [[concepts/naturally-occluded]]. Earlier today's single-doc deep-review (`reviews/deep-review-2026-05-16-naturally-occluded.md`) found the article first-review-stable; the 20:00 UTC cross-review handled [[voids/three-kinds-of-void]] (target (b)). This pass completes the back-link installation by editing the remaining four most-relevant articles where the new concept page does load-bearing work.
+- **Word counts**: apex 4373 → 4378 (+5; soft_warning preserved length-neutral); biological-cognitive-closure 2030 → 2038 (+8; soft_warning preserved length-neutral); fitness-beats-truth 1687 → 1844 (+157; ok); possibility-probability-slippage 1972 → 2148 (+176; ok)
+- **Critical issues addressed**: 0 (no critical issues — the cross-review pass installs reciprocal back-links and methodological cross-citations to the new concept page)
+- **Medium issues addressed**: 1 (apex's "From Three Kinds to Four" section re-derived the fourth-kind framing without citing the dedicated concept page — now links to and cites it at first mention)
+- **Enhancements made**: 4 (apex links + tenet-routing MQI paragraph cross-link; biological-cognitive-closure's `## Naturally Occluded Voids` section rewritten to cite dedicated page and summarise calibration burden, falsifiability classes, structural-feature criterion; fitness-beats-truth gains a new "Anchoring the Naturally Occluded Category" section explaining its role as formal anchor at *strongly supported* tier; possibility-probability-slippage gains a worked-example "Naturally Occluded — methodological self-application" entry as the cleanest exhibit of a category page operationalising the discipline against its own strongest temptation)
+- **Engagement modes**: No named-opponent counterargument engagements in scope. Cross-links are methodological / cluster-integration moves.
+- **Possibility/probability slippage check**: PASSES. FBT remains *strongly supported*; extensions *realistic possibility*; catalogue assignments *live hypothesis*. No void's tier is upgraded by any cross-reference.
+- **Stability**: Four-kinds extension now load-bearing across the void cluster — canonical at [[apex/taxonomy-of-voids]] and [[concepts/naturally-occluded]]; acknowledged at [[voids/three-kinds-of-void]], [[voids/biological-cognitive-closure]], [[concepts/fitness-beats-truth]], [[concepts/adaptive-cognitive-limits]]; operationalised against slippage at [[concepts/possibility-probability-slippage]].
+- **Output**: [[reviews/deep-review-2026-05-16c-cross-review-naturally-occluded]]
 
 ## 2026-05-16 20:38 UTC - condense
 - **File**: [[topics/introspection-architecture-independence-scoring]]

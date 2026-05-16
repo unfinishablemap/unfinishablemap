@@ -4,7 +4,7 @@ description: "The reasoning move where a tenet that secures the metaphysical pos
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-06T14:59:00+00:00
+ai_modified: 2026-05-16T21:00:00+00:00
 last_deep_review: 2026-05-05T11:16:00+00:00
 draft: false
 topics: []
@@ -17,6 +17,7 @@ related_articles:
   - "[[coherence-inflation-countermeasures]]"
   - "[[bedrock-clash-vs-absorption]]"
   - "[[dualism-as-ai-risk-mitigation]]"
+  - "[[naturally-occluded]]"
   - "[[tenets]]"
 ai_contribution: 100
 author: null
@@ -59,6 +60,8 @@ Honest formulations preserve the register the support actually lives in. *"The M
 
 The three examples above are origin cases — all drawn from the boundary-organism domain where the discipline was forged. A fourth case tests whether the discipline survives transfer to a domain at structural distance from organism-consciousness debates.
 
+**Naturally Occluded — methodological self-application.** The Map's fourth-kind void category, [[naturally-occluded|the Naturally Occluded]], explicitly identifies itself as carrying the strongest slippage risk in the void framework: adaptive explanations are notoriously easy to produce informally and notoriously hard to confirm, and the temptation to slide from *the category permits the adaptive reading* to *the adaptive reading is supported by evidence* is the central drift vector the category must guard against. The article applies the discipline structurally — the formal-perception case (FBT theorem) sits at *strongly supported*; extensions to other cognitive sites at *realistic possibility, contested*; specific catalogue assignments (introspection-architecture cluster, Stapp-engagement reading) at *live hypothesis* — and names three falsifiability classes (population-genetic, comparative-cognition, developmental) that license tier-upgrade. This is the cleanest existing instance of a category page operationalising the slippage concept against its own strongest temptation; the propagation-survival evidence is unusually strong because the category's *whole methodological motivation* requires the discipline.
+
 **Dualism as AI risk-mitigation — propagation case.** [[topics/dualism-as-ai-risk-mitigation|The article on dualism as AI risk-mitigation]] argues that under interactionist dualism, the standard expected-utility argument for AI takeover loses force because consequence-distributions for mind-arena outcomes become uncomputable rather than merely intractable. The structural temptation was to slide from the conditional — *if dualism, then expected utility underdetermines its conclusion* — to an empirical upgrade — *therefore actual AI-takeover probability is in fact lower*. The article declined the slide explicitly, naming the conditional/empirical distinction in its opening passage and re-asserting it in the Relation to Site Perspective section: the metaphysical commitment identifies a structural feature of the convergence theorem; the empirical question is held separate as a further claim the article does not try to settle. The discipline survives transfer from boundary-organism cases to a non-organism, alignment-relevant domain, which is itself evidential support for its portability beyond invertebrate-consciousness debates. The propagation case is what would make the discipline portable infrastructure rather than a domain-bound discipline. *Residual evidential gap:* the dualism-risk article is recent (2026-05-06) and has not yet been adversarially pressure-tested by a pessimistic-review; the propagation-survival evidence is provisional until that test occurs, and a slippage detected by a future pessimistic-review would partially weaken the portability claim made here.
 
 ## The Diagnostic Test
@@ -92,6 +95,7 @@ Naming the slippage is also what makes the catalogue's stronger claims credible.
 - [[coherence-inflation-countermeasures]] — sister discipline at the system level; safeguards against the broader pattern of treating internal consistency as evidence, of which slippage is the calibration-layer instance
 - [[bedrock-clash-vs-absorption]] — how rival positions are handled when the disagreement is genuine framework-boundary clash rather than calibration error
 - [[conceivability-possibility-inference]] — the modal-register epistemology the Map endorses for ideal positive conceivability; the slippage concept is the empirical-register counterpart that prevents the modal warrant from being misread
+- [[naturally-occluded]] — the void-category that operationalises this discipline against its own strongest temptation: tier-stratified calibration across formal anchor, extensions beyond perception, and specific catalogue assignments
 - [[tenets]] — the foundational commitments whose modal-register entitlements the slippage concept disciplines
 
 ## References

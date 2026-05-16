@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-05-16
 human_modified: null
-ai_modified: 2026-05-16T04:40:00+00:00
+ai_modified: 2026-05-16T21:00:00+00:00
 draft: false
 description: "Sixty+ cognitive voids cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
 last_deep_review: 2026-05-15T14:00:00+00:00
@@ -59,6 +59,7 @@ related_articles:
   - "[[narrative-void]]"
   - "[[source-attribution-void]]"
   - "[[apophatic-cartography-four-criteria]]"
+  - "[[naturally-occluded]]"
 
 ai_contribution: 100
 author: null
@@ -96,7 +97,7 @@ The voids programme began with a [[three-kinds-of-void|simple taxonomy]]: the Un
 
 **The Occluded** are gaps that might be defended. The [[simulation|simulation hypothesis]] raises this most sharply: if we exist within a constructed reality, certain truths might be *engineered out* of cognitive reach. But occlusion need not require a designer—the Map's own tenets suggest consciousness-physics interaction may be systematically hidden from introspection.
 
-The [[biological-cognitive-closure|evolved cognitive limits]] research adds a fourth category: **the Naturally Occluded**. These are blind spots maintained not by any intentional agent but by natural selection, because ignorance itself conferred fitness advantage. The [[fitness-beats-truth|Fitness-Beats-Truth theorem]] (Hoffman, Singh, and Prakash) proves that perceptual strategies tuned to fitness payoffs strictly dominate those tuned to objective truth—evolution did not merely fail to equip us with certain capacities but actively selected against them.
+The [[biological-cognitive-closure|evolved cognitive limits]] research adds a fourth category: **[[naturally-occluded|the Naturally Occluded]]**. These are blind spots maintained not by any intentional agent but by natural selection, because ignorance itself conferred fitness advantage. The [[fitness-beats-truth|Fitness-Beats-Truth theorem]] (Hoffman, Singh, and Prakash) supplies the formal anchor—perceptual strategies tuned to fitness payoffs strictly dominate those tuned to objective truth—and the [[naturally-occluded|dedicated concept page]] specifies the category's load-bearing commitments, calibration burden, and the three classes of evidence (population-genetic, comparative-cognition, developmental) that would license tier-upgrade for specific catalogue assignments.
 
 Naturally occluded voids differ from each existing category: not simply uninvestigated, not beyond all possible cognition (only beyond *evolved* cognition), and maintained by the blind watchmaker rather than any deliberate agent. They occupy a distinctive position: limits with a *function*, potentially accessible to differently constituted minds.
 
@@ -212,7 +213,7 @@ The taxonomy connects to every one of the Map's [[tenets]], but most deeply to t
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through the [[agency-void|agency void]] and introspective opacity. If consciousness causally influences the physical world, the mechanism would be systematically hidden from introspection, and any single contribution would be unverifiable from inside—the very faculty that would check is the one whose causal status is in question. The self-knowledge cluster—opacity, calibration failure, observation effects—is exactly what a hidden, unverifiable causal interface would produce.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** relates to the naturally occluded category. If consciousness biases quantum outcomes minimally, the mechanism would need to operate below the threshold of introspective detection—and the adaptive framework suggests evolution would actively maintain this opacity.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** relates to the [[naturally-occluded|naturally occluded]] category. The mechanism would need to operate below introspective detection; the adaptive framework predicts evolution would actively maintain this opacity.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** connects through the indexical voids. The question "why am I *this* consciousness experiencing *this* outcome?"—explored in depth in [[vertiginous-question|The Indexical Void]]—is preserved as a genuine void rather than dissolved by declaring all outcomes equally real.
 

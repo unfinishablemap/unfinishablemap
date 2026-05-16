@@ -4,7 +4,7 @@ description: "Hoffman, Singh & Prakash's formal proof that natural selection fav
 created: 2026-03-15
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-05-16T21:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ related_articles:
   - "[[perceptual-degradation-and-the-interface]]"
   - "[[adaptive-cognitive-limits]]"
   - "[[the-quantitative-comprehension-void]]"
+  - "[[naturally-occluded]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -68,6 +69,10 @@ The FBT theorem has faced several lines of criticism.
 
 **Scope of the formal result.** The FBT theorem applies to organisms in evolutionary competition. Whether its conclusions extend to scientific instruments, mathematical reasoning, or collaborative inquiry is debatable. Science arguably transcends individual perceptual limitations through intersubjective verification and technological mediation.
 
+## Anchoring the Naturally Occluded Category
+
+The Map's void taxonomy uses the FBT theorem as the *formal anchor* for its fourth category, [[naturally-occluded|the Naturally Occluded]] — cognitive opacity that natural selection actively maintained because making the territory visible would have carried metabolic, computational, or behavioural costs without compensating fitness benefit. The theorem operationalises the category at one bounded site (perception, not cognition in general) at the *strongly supported* tier; extensions to other cognitive sites (introspection-architecture, agency-detection, attention-gating) inherit only *live hypothesis* status until population-genetic, comparative-cognition, or developmental evidence licenses tier-upgrade. The bounded-anchor structure is what makes the category methodologically usable: it earns initial credibility from the formal result at one site rather than universalising adaptive explanation across cognitive architecture. See the [[naturally-occluded|dedicated concept page]] for the calibration discipline, structural-feature criterion, and the three falsifiability classes that protect the category from indiscriminate adaptive labelling.
+
 ## Convergent Support
 
 The FBT theorem does not stand alone. Several independent lines of research converge on the conclusion that cognitive systems are optimised for something other than truth:
@@ -90,6 +95,7 @@ For **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**, the FBT
 
 - [[biological-cognitive-closure]] — How cognitive limits function as adaptive features shaped by natural selection
 - [[adaptive-cognitive-limits]] — The broader framework of evolution-maintained cognitive boundaries
+- [[naturally-occluded]] — The fourth-kind void category for which FBT is the formal-mathematical anchor
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — Why experience conceals its own representational character
 - [[perceptual-failure-and-the-interface]] — Perceptual failure analysed through Hoffman's interface framework
 - [[perceptual-degradation-and-the-interface]] — What degraded perception reveals about the interface's architecture

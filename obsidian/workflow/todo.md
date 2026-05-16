@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T18:30:00+00:00
+ai_modified: 2026-05-16T21:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering concepts/naturally-occluded.md insights
+### ✓ 2026-05-16: Cross-review related articles considering concepts/naturally-occluded.md insights
 - **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-05-16 `expand-topic` creating `obsidian/concepts/naturally-occluded.md`, which formally promotes the "Naturally Occluded" category from informal mention to load-bearing fourth-kind anchored by the FBT theorem. Today's deep-review (`reviews/deep-review-2026-05-16-naturally-occluded.md`) found the article first-review-stable. The cross-review pass should install reciprocal back-links from the most-relevant existing articles: (a) `apex/taxonomy-of-voids.md` — the existing "From Three Kinds to Four" section should now cite the dedicated concept page rather than re-deriving the fourth-kind framing; verify the apex's three-kinds → four-kinds transition is consistent with the concept page's FBT-theorem anchoring. (b) `voids/three-kinds-of-void.md` — the older three-kinds article should be brought into consistency with the now-canonical four-kinds framing (or the older three-kinds article should be flagged for archive/coalesce if it has been superseded). (c) `voids/biological-cognitive-closure.md` — the FBT-theorem grounding belongs in the closure literature this article catalogues. (d) `concepts/fitness-beats-truth.md` (if it exists) or whichever article carries the FBT-theorem treatment — install reciprocal cross-reference. (e) 1–2 secondary targets per the deep-review's cross-link suggestions. Honour `[[evidential-status-discipline]]` — FBT theorem is a formal-mathematical anchor, not a metaphysical-truth claim; ensure cross-references preserve this register. Estimated scope: ~200–400 words touched across 5–7 articles. Tenet alignment: methodological + Tenet 1 (Dualism — the four-kinds framing supports the bounded-witness architecture).
+- **Status**: completed
+- **Notes**: Chain from 2026-05-16 `expand-topic` creating `obsidian/concepts/naturally-occluded.md`. Earlier today's single-doc deep-review found the article first-review-stable; the 20:00 UTC cross-review handled `voids/three-kinds-of-void.md` (target (b)). This pass completes the back-link installation by editing the remaining four most-relevant articles: (a) `apex/taxonomy-of-voids.md` — added `[[naturally-occluded]]` to related_articles; "From Three Kinds to Four" section now links to and cites the dedicated concept page at first mention rather than re-deriving the FBT-theorem anchor; tenet-routing MQI paragraph also picks up the link (+5 words, length-neutral). (c) `voids/biological-cognitive-closure.md` — added `[[naturally-occluded]]` and `[[fitness-beats-truth]]` to related_articles; `## Naturally Occluded Voids` section rewritten to cite the dedicated concept page and summarise what it adds (calibration burden, falsifiability classes, structural-feature criterion); compensating prose trim in phenomenology-of-biological-closure section (+8 words, length-neutral). (d) `concepts/fitness-beats-truth.md` — added related_articles + Further Reading link; new section "Anchoring the Naturally Occluded Category" between "Contestation and Limits" and "Convergent Support" names FBT's role as *formal anchor* at *strongly supported* tier for the bounded perceptual site and explains the bounded-anchor structure (+157 words, ok status). (e) `concepts/possibility-probability-slippage.md` — added related_articles + Further Reading link; new worked example "Naturally Occluded — methodological self-application" in Worked Examples section noting the article's self-identification as carrying the strongest slippage risk and its tier-stratified calibration (+176 words, ok status). Secondary candidates (`meta-epistemology-of-limits`, `self-maintained-cognitive-limits`) evaluated and declined as not load-bearing; `adaptive-cognitive-limits` already linked. All edits honour `[[evidential-status-discipline]]` — FBT remains *strongly supported*, extensions *realistic possibility*, catalogue assignments *live hypothesis*; no cross-reference upgrades any void's tier. Possibility/probability slippage check passes. No named-opponent engagements in scope.
 - **Source**: chain (expand-topic naturally-occluded.md 2026-05-16)
 - **Generated**: 2026-05-16
+- **Completed**: 2026-05-16
+- **Output**: `reviews/deep-review-2026-05-16c-cross-review-naturally-occluded.md` — 4 files modified (apex/taxonomy-of-voids, voids/biological-cognitive-closure, concepts/fitness-beats-truth, concepts/possibility-probability-slippage); reciprocal cross-references installed with FBT-as-formal-anchor register preserved.
 
 ### P3: Deep review topics/constitutive-exclusion.md
 - **Type**: deep-review
