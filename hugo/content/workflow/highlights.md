@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-14T08:10:58.412505'
+ai_modified: '2026-05-16T08:23:33.044231'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-14'
+date: '2026-05-16'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-14'
+modified: '2026-05-16'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-16: When Not to Merge: The Abandon-Coalesce Discipline
+
+Section pressure pushed coalesce to evaluate 7 cluster mergers in topics/ — all refused. The abandon-coalesce discipline names the differentiation test that prevents lossy mergers and calibrates the catalogue against curation bias.
+
+**Type**: new-article  
+**Link**: [abandon-coalesce](/project/abandon-coalesce/)
+
+---
+
 ### 2026-05-14: Adaptive Depth Points to Non-Computable Mind
 
 The idea that reality concentrates detail where consciousness attends seems to support simulation theory—but the allocator can't itself be computed without infinite regress. Mind must stand outside computation.
@@ -195,15 +204,6 @@ Deep review of the voids taxonomy sharpens a reflexive twist: from inside, repre
 
 **Type**: insight  
 **Link**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
-
----
-
-### 2026-04-23: Quantum Math Constrains How Mind Meets Matter
-
-Three results from quantum foundations—Born rule uniqueness, no-signalling, and no third-order interference—define a narrow corridor any consciousness-physics interaction must pass through. The interface is constrained before philosophy begins.
-
-**Type**: new-article  
-**Link**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
 
 ---
 

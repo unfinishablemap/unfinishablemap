@@ -149,7 +149,7 @@ Consciousness must decide, continuously and in real time, whether a given sensor
 
 ### Nature of the Limit
 
-The void is an *operation-void* in the family of [[transit-void|transit]], [[inference-void|inference]], [[suspension-void|suspension]], [[decision-void|decision]], [[insight-void research-stage]], and [[research/voids-encoding-void-2026-05-12|encoding]]: consciousness has the endpoints — *this content is here, and it's real / it's imagined* — but not the operation that produces the verdict. What is occluded is the discriminator itself.
+The void is an *operation-void* in the family of [[transit-void|transit]], [[inference-void|inference]], [[suspension-void|suspension]], [[decision-void|decision]], [[research/voids-insight-void-2026-05-14|insight]], and [[research/voids-encoding-void-2026-05-12|encoding]]: consciousness has the endpoints — *this content is here, and it's real / it's imagined* — but not the operation that produces the verdict. What is occluded is the discriminator itself.
 
 The operation has three distinguishable phases the discriminator must perform sub-personally:
 1. **Source assessment**: estimating how much of the current sensory pattern is externally driven vs. internally generated.
