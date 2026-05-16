@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T23:10:00+00:00
+ai_modified: 2026-05-16T23:34:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 23:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Original score**: not separately reviewed (last_deep_review 2026-04-17); refine driven by promised follow-up from 2026-03-26 coalesce per task notes
+- **Changes**: Integrated research/anaesthetic-recovery-neuroscience-2026-03-26.md; added Hu et al. (2023, *Nature Neuroscience*) KCC2/Fbxl4 active-reboot finding as load-bearing molecular exhibit (mechanism-shared reopening pathway across pharmacologically dissimilar agents); added 2024–2025 IIT-φ-during-emergence context; inline evidential calibration on the recovery section (asymmetry empirically robust; interface interpretation as live hypothesis the evidence does not yet decide); extended Bidirectional Interaction tenet section with KCC2 disinhibition citation; added `[[evidential-status-discipline]]` to related_articles. ~+280 words; tenet alignment preserved (Dualism, Bidirectional Interaction); no upgrade of the direct readout of dualism.
+- **Engagement classification (editor-internal)**: Mode One on the production-theory framing — the active-reboot KCC2 pathway is internally puzzling on a generic-generator reading because the molecular machinery is oriented toward conscious state transitions specifically, not toward generic neural function, and operates via a single shared pathway across receptor systems with nothing pharmacological in common. Boundary-marking residue at Mode Three: the underlying interpretive disagreement (filter vs. generator) is acknowledged as not refuted within the production-theory framework, only constrained by the asymmetry pattern.
+- **Attribution note**: Task notes referenced "Bodart KCC2 down-regulation"; the published Nature Neuroscience paper is Hu, Liu, Yao et al. (2023). Cited the correct lead authors.
+- **Published**: yes
 
 ## 2026-05-16 23:10 UTC - tune-system
 - **Status**: Success (advisory-only)

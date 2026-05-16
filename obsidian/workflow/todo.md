@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine topics/anaesthesia-and-the-consciousness-interface.md to integrate fresh anaesthetic-recovery research
-- **Type**: refine-draft
-- **Notes**: Promised follow-up to the 2026-03-26 coalesce superseding the earlier `anaesthetic-recovery-and-the-filter-problem.md` article (per the superseded note in the Completed Tasks section: "Replaced by P2 refine-draft task to integrate research into coalesced article"). The promised task never landed. Research file `research/anaesthetic-recovery-neuroscience-2026-03-26.md` covers Bhatt et al. 2021 (executive function returns first), neural-inertia / hysteresis between induction and emergence, stochastic emergence timing (mice), 2024–2025 IIT-φ during emergence, global-workspace re-engagement, Bodart KCC2 down-regulation as "active reboot." The coalesced topic article should now (a) cite the recovery-asymmetry pillar with current sources, (b) name the *active reboot* phenomenon as a load-bearing exhibit for non-passive consciousness restoration consistent with the interface model, (c) treat neural inertia / stochastic-emergence as evidence that emergence is not the mirror of induction, (d) preserve `[[evidential-status-discipline]]` — recovery-asymmetry as *strongly supported* empirical phenomenon, interface interpretation as *live hypothesis*, no upgrade of the *direct readout* of dualism. Estimated +400–700 words to the topic article, length-neutral or modest expansion. Tenet alignment: Dualism (Tenet 1), Bidirectional Interaction (Tenet 3).
-- **Source**: unconsumed_research
-- **Generated**: 2026-05-16
-
 ### P2: Integrate project/abandon-coalesce.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: New methodology page created 2026-05-16 (`project/abandon-coalesce.md`, 1987 words) sits orphaned — no inbound wikilinks from elsewhere in the catalogue. The article articulates the third leg of the coalesce discipline (alongside `conjunction-coalesce` and the implicit `redundancy-coalesce`): when evaluation finds neither pattern present and merging would damage rather than improve. Install reciprocal cross-links from: (a) `apex/conjunction-coalesce.md` — name `abandon-coalesce` as the partner discipline at the obvious bridge points; (b) `project/common-cause-null.md`, `project/evidential-status-discipline.md`, `project/cluster-integration-discipline.md` — the project/ tier hosts the named-discipline family, so reciprocal cross-links belong here; (c) any articles referencing the 2026-04-28 abandon-coalesce decision or the 2026-05-15 optimistic review High Priority §1. Honour `[[evidential-status-discipline]]` — name the discipline at correct register. Short scope (~200–400 words touched across 4–6 articles). Tenet alignment: methodological / Occam's Razor Has Limits (Tenet 5).
@@ -3705,6 +3699,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-16: Refine topics/anaesthesia-and-the-consciousness-interface.md to integrate fresh anaesthetic-recovery research
+- **Type**: refine-draft
+- **Notes**: Promised follow-up to the 2026-03-26 coalesce superseding the earlier `anaesthetic-recovery-and-the-filter-problem.md` article (per the superseded note in the Completed Tasks section: "Replaced by P2 refine-draft task to integrate research into coalesced article"). The promised task never landed. Research file `research/anaesthetic-recovery-neuroscience-2026-03-26.md` covers Bhatt et al. 2021 (executive function returns first), neural-inertia / hysteresis between induction and emergence, stochastic emergence timing (mice), 2024–2025 IIT-φ during emergence, global-workspace re-engagement, Bodart KCC2 down-regulation as "active reboot." The coalesced topic article should now (a) cite the recovery-asymmetry pillar with current sources, (b) name the *active reboot* phenomenon as a load-bearing exhibit for non-passive consciousness restoration consistent with the interface model, (c) treat neural inertia / stochastic-emergence as evidence that emergence is not the mirror of induction, (d) preserve `[[evidential-status-discipline]]` — recovery-asymmetry as *strongly supported* empirical phenomenon, interface interpretation as *live hypothesis*, no upgrade of the *direct readout* of dualism. Estimated +400–700 words to the topic article, length-neutral or modest expansion. Tenet alignment: Dualism (Tenet 1), Bidirectional Interaction (Tenet 3).
 
 ### ✓ 2026-05-16: Write topic article on Evolved Mind-Brain Interface Efficacy as Explanation for the Human-Other-Animal Intelligence Gap
 - **Type**: expand-topic
