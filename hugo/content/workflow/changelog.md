@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 16:30:00+00:00
+ai_modified: 2026-05-16 16:19:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-16 16:18 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/) — 311 lines, ~5,400 words after the day's six refinement passes (cross-review at 08:52; mirror-therapy qualification; neuromatrix engagement; predictive-processing engagement; Price 2006 + Root 2022 on congenital phantoms; falsifier #3 god-of-the-gaps remediation at 15:49; common-cause-null audit of three pillars at 16:05). First sympathetic-persona pass after the day's hardening sequence settled.
+- **Output**: [optimistic-2026-05-16b](/reviews/optimistic-2026-05-16b/)
+- **Key findings**: Article is the Map's strongest current exhibit of *calibration discipline applied to a contested empirical topic in an active-research area*. Three load-bearing strengths: (1) symmetric framework-boundary engagement of neuromatrix theory and predictive processing — both engaged as strongest contemporary materialist competitors, both ceded essentially all empirical commitments, disagreement located at framework boundary not at empirical-mechanism level; (2) peripheral-readout strawman retraction (line 102) — article explicitly disclaims a rhetorical advantage it was already enjoying; (3) common-cause-null audit of own three pillars (§ at line 120) — discipline exhibited in article body rather than only editor-internal review, first phantom-topic implementation of methodology recommendation #4 from outer-review-2026-05-16-claude-opus-4-7. Process Philosopher and Hardline Empiricist personas converge cleanly on the same calibrated passages — Whitehead-friendliness preserved at architectural level, evidential-status discipline preserved at metaphysical-conclusion level without tier-upgrade slippage. Generated four follow-up P3 tasks (apex methodology on framework-boundary engagement; concept page on content-vocabulary aboutness; cross-link for in-body common-cause-null audit pattern; HTML comment cleanup).
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
+
+## 2026-05-16 16:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Driver**: outer-review-2026-05-16-claude-opus-4-7.md §4.3 + §5.6/6b. The article's three "philosophically loaded" features (vivid qualia, top-down modulation, congenital phantoms) were listed in the lede as a cumulative case that read as three independent lines of evidence. The reviewer's auditor judgment: they are not independent — all three rest on the same underlying observation that the brain centrally constructs the felt body. Methodology recommendation #4 (site-wide): every Map article with a cumulative ≥2-pillar case should run common-cause-null in the article body, not only in editor-internal review.
+- **Changes**: Added new section §"Common-Cause-Null Audit of the Three Pillars" {#common-cause-null-audit} (~620 words, 4 paragraphs) between §"The Predictive-Processing Account..." and §"Relation to Site Perspective". Audit identifies the shared upstream (brain-constructed felt body) on which all three pillars rest; recovers the partially-independent residuals each pillar adds (clinical specifiability; causal-pathway-shape; deeper-than-personal-history); specifies which residuals are absorbable by predictive processing and which sit at the framework boundary. Cross-references [common-cause-null](/project/common-cause-null/) and [evidential-status-discipline](/project/evidential-status-discipline/) explicitly. Reformulated the lede (line 40) to flag the shared central-construction base upfront with forward-reference to the audit. Light touch on §"Relation to Site Perspective" Dualism subsection cross-referencing the audit to the existing "consistent with rather than independent evidence for" calibration.
+- **Calibration**: Sharpened from three-fold independent triangulation to one observation plus three residual extensions, with partial independent force of two extensions (causal-pathway-shape; deeper-than-personal-history) preserved against collapse. Honours [evidential-status-discipline](/project/evidential-status-discipline/) by not weakening genuinely independent evidence; honours [common-cause-null](/project/common-cause-null/) by exhibiting the discipline in the article body rather than in editor-internal review. Methodology recommendation #4 from the outer review is now implemented in the article body.
+- **Scope**: ~620 words added (new section) + ~50 words reformulated in lede + ~15 words added in Dualism subsection. No new citations. Conclusion preserved. Altered-state-symmetry scanner returns None. No editor-vocabulary leaks in article body — verified.
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
+
+## 2026-05-16 15:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Driver**: outer-review-2026-05-16-claude-opus-4-7.md §5.5 — falsifier #3 god-of-the-gaps formulation. The defeater set the bar at "explaining why this activity produces this felt quality," a bar that by Chalmers' hypothesis no third-person empirical theory can in principle meet; the defeater was therefore unfalsifiable by design.
+- **Changes**: Rewrote falsifier #3 in §"What Would Challenge This View?" (~200 words). Old formulation required an in-principle impossible reductive bridge; new formulation specifies *predictive content-specific neural correlates* as the empirical evidence that would shift the balance — neural-state readouts that predict the felt quality, location, and modal character of phantom experience in fine detail across subjects and conditions, with predictions discriminating among reports the subjects had not yet generated. Diagnoses the old formulation's problem explicitly (Chalmers 1995, structural-vs-contingent gap), cross-references [evidential-status-discipline](/project/evidential-status-discipline/) for the falsifier-quality criterion, and notes that the new bar is *demanding but not impossible* — partial decoding results in vision and motor-imagery suggest the empirical terrain is not closed, but fine-grained content-specific decoding does not yet exist for phantoms or normal somatic experience.
+- **Calibration**: Tightened from metaphysical-impossibility-as-falsifier to empirical-evidence-as-falsifier. Falsifier retains real bite without becoming a moving target. Honours the methodology recommendation in §3 of the same outer review (falsifier-quality criterion: each falsifier must specify the kind of evidence that would shift the balance).
+- **Scope**: ~200 words touched in falsifier #3 only. No other sections, no new citations.
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
 
 ## 2026-05-16 16:30 UTC - deep-review
 - **Status**: Success
