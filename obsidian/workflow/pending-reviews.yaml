@@ -451,9 +451,9 @@
   prompt_summary: 'Audit phantom-limb-phenomena: claims, citations, counterargs, tenet
     bracketing'
   target_filename: outer-review-2026-05-16-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-16T04:30:01.838059+00:00'
   failure_reason: null
   prompt_text: "Please audit the article at https://unfinishablemap.org/topics/phantom-limb-phenomena/\
     \ on The Unfinishable Map \u2014 a philosophical content platform exploring consciousness\

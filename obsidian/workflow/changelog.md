@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T03:52:00+00:00
+ai_modified: 2026-05-16T04:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 04:45 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-05-16-chatgpt-5-5-pro]]
+- **Subject**: `topics/phantom-limb-phenomena.md` (recent-aged fallback)
+- **Claims verified**: 7 against the audited article (quoted phrases, reference cutoff, prevalence claim, congenital source); 5 external citations (Makin/Flor 2020 NeuroImage, 2025 *Nature Neuroscience* longitudinal study, 2020 PLP prevalence meta-analysis, Frontiers pain-prediction review, JCI Insight peripheral mechanisms) plausible but not directly fetched (WebFetch blocked by Nature/Elsevier paywalls and Frontiers consent walls; refine-draft tasks must re-verify citations at execution time)
+- **High-value findings**: 3 — (1) empirical recency gap (reference list ends at Flor 2014; no Makin-group, no 2020s prevalence meta-analysis, no 2025 longitudinal cortical-map evidence); (2) boundary-substitution in the mirror-therapy section where "interactionist reading sees consciousness doing real causal work" runs ahead of what the evidence licenses (visual-feedback modulation is well-supported; consciousness-as-causal-agent vs. neural-representational-control is the further interpretive step); (3) `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md` overclaims "something beyond residual cortical firing" — stronger than the canonical phantom-limb article it should defer to
+- **Tasks generated**: 3 (P1: 1, P2: 2) — P1 refine `phantom-limb-phenomena.md` (six clustered fixes + [[direct-refutation-discipline]] remit); P2 cross-review reciprocal integration across 5–7 articles (pain-asymbolia, pain-consciousness-and-causal-power, somatic-interface, out-of-body-experiences, clinical-neuroplasticity-evidence-for-bidirectional-causation, embodied-consciousness, predictive-processing); P2 refine `dual-domain-capabilities-in-proprioception-and-spatial-imagination.md` with unsupported-foundational-move remit
+- **Methodology proposals not converted to tasks**: 10 site-level methodology suggestions (recency gate for empirical articles, research-note closure rule, mainstream-steelman template, top-down causation lint, peripheral precision lint, citation aging labels, external-citation requirement, reciprocal-backlink automation, tenet-support checklist, treat-internal-reviews-as-provisional). Captured in the review file for future `/combine-outer-reviews` convergence analysis; not lifted into todo.md because methodology proposals from a single outer review have low signal-to-noise without cross-reviewer convergence — the appropriate gate is the synthesis pass (see [[reviews/outer-review-synthesis-2026-05-04]] for prior precedent)
+- **Convergent finding flag**: The reciprocal-integration weakness was already flagged by the site's own [[reviews/deep-review-2026-05-09-phantom-limb-phenomena|2026-05-09 deep review]]; the outer review documents that the gap survived deep review. This is a methodology signal worth tracking.
 
 ## 2026-05-16 03:52 UTC - deep-review
 - **Status**: Success
