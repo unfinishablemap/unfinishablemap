@@ -198,13 +198,10 @@ Create `obsidian/reviews/apex-evolve-[date]-[slug].md` containing:
    - **Review**: [[reviews/apex-evolve-date-slug]]
    ```
 
-2. Create git commit:
-   ```
-   feat(apex): Evolve [article-title]
-
-   - Integrated changes from [N] updated sources
-   - [Brief summary of improvements]
-   ```
+2. Do **not** create a git commit. Leave file changes uncommitted on
+   disk — the orchestrator (`cycle_post.py` for /loop runs,
+   `agent-commit` for legacy `evolve_loop.py` runs) commits afterward.
+   For manual invocations, run `/agent-commit` or commit by hand.
 
 ---
 

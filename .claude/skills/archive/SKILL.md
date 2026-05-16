@@ -85,15 +85,12 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 - **References found**: [count or "none"]
 ```
 
-### 6. Commit Changes
+### 6. Do Not Commit
 
-Create a git commit:
-```
-feat(auto): archive - [article-slug]
-
-Archived: [original-path] → [archive-path]
-Reason: [reason]
-```
+Leave file changes uncommitted on disk. The orchestrator (`cycle_post.py`
+for /loop runs, `agent-commit` for legacy `evolve_loop.py` runs) creates
+the git commit after this skill returns. For manual invocations, run
+`/agent-commit` afterward or commit by hand.
 
 ## Important
 

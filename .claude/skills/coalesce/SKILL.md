@@ -157,18 +157,12 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 - **References to review**: [count or "none"]
 ```
 
-### 9. Commit Changes
+### 9. Do Not Commit
 
-Create a git commit:
-```
-feat(content): coalesce [N] articles into [new-article-slug]
-
-Merged:
-- [source-1] → archive/[section]/[slug].md
-- [source-2] → archive/[section]/[slug].md
-
-New article: [target-path]
-```
+Leave file changes uncommitted on disk. The orchestrator (`cycle_post.py`
+for /loop runs, `agent-commit` for legacy `evolve_loop.py` runs) creates
+the git commit after this skill returns. For manual invocations, run
+`/agent-commit` afterward or commit by hand.
 
 ## Important
 

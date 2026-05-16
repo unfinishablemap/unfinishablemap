@@ -225,18 +225,12 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 - **Published**: yes
 ```
 
-### 11. Commit
+### 11. Do Not Commit
 
-Create a git commit with message:
-```
-refine(content): Improve [filename]
-
-Changes:
-- [Change 1]
-- [Change 2]
-
-Changes applied directly.
-```
+Leave file changes uncommitted on disk. The orchestrator (`cycle_post.py`
+for /loop runs, `agent-commit` for legacy `evolve_loop.py` runs) creates
+the git commit after this skill returns. For manual invocations, run
+`/agent-commit` afterward or commit by hand.
 
 ## What NOT to Do
 

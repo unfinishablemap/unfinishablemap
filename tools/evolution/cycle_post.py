@@ -32,6 +32,7 @@ from tools.evolution.cycle import (  # noqa: E402
     is_cycle_complete,
 )
 from tools.evolution.log_event import emit  # noqa: E402
+from tools.evolution.push import push_if_due  # noqa: E402
 from tools.evolution.state import (  # noqa: E402
     TaskRecord,
     load_state,
@@ -318,16 +319,24 @@ def main() -> int:
             pending.remove(args.skill)
             _save_pending_triggers(pending)
 
-    # --- Save state --------------------------------------------------------
-    state.last_updated = now
-    state.session_count += 1
-    save_state(state, STATE_PATH)
-
     # --- Commit any uncommitted changes -----------------------------------
     commit_info = completed_title or args.kind
     commit_hash = _commit_as_agent(args.skill, commit_info)
     if commit_hash:
         emit("info", f"committed: {commit_hash} (auto({args.skill}): {commit_info})")
+
+    # --- Validate + push if wall-clock interval has elapsed ----------------
+    # Mirrors evolve_loop.py's push check (every iteration, 4h default).
+    # Mutates state.last_git_push on success; saved with state below.
+    try:
+        push_if_due(state)
+    except Exception as e:
+        emit("warning", f"push_if_due error (non-fatal): {e}")
+
+    # --- Save state (after push so last_git_push gets persisted) ----------
+    state.last_updated = now
+    state.session_count += 1
+    save_state(state, STATE_PATH)
 
     emit("info",
          f"cycle_post done: kind={args.kind} skill={args.skill} status={args.status} "

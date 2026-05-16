@@ -181,16 +181,12 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 - **Technique**: [summary: cut redundancy, extracted [topic] to new article, etc.]
 ```
 
-### 8. Commit
+### 8. Do Not Commit
 
-```
-refine(content): condense [filename] from N to M words
-
-- [Key cut 1]
-- [Key cut 2]
-
-Preserved core arguments and tenet alignment.
-```
+Leave file changes uncommitted on disk. The orchestrator (`cycle_post.py`
+for /loop runs, `agent-commit` for legacy `evolve_loop.py` runs) creates
+the git commit after this skill returns. For manual invocations, run
+`/agent-commit` afterward or commit by hand.
 
 ## What NOT to Do
 

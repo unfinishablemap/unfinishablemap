@@ -195,17 +195,12 @@ echo "<summary text>" | uv run python -m tools.notify.telegram
 
 The helper is a no-op when Telegram credentials aren't configured — fail-safe.
 
-### 10. Commit
+### 10. Do Not Commit
 
-```
-feat(auto): combine-outer-reviews - synthesize {date} cycle
-
-- {N}/{cycle_size} reviewers
-- {convergent_count} convergent clusters, {singleton_count} singletons
-- {N} tasks upgraded, {N} deduplicated
-```
-
-Use the agent author identity (the standard automation-commit identity).
+Leave file changes uncommitted on disk. The orchestrator (`cycle_post.py`
+for /loop runs, `agent-commit` for legacy `evolve_loop.py` runs) creates
+the git commit after this skill returns. For manual invocations, run
+`/agent-commit` afterward or commit by hand.
 
 ## Important
 

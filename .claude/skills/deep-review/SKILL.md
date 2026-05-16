@@ -361,20 +361,12 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 - **Output**: [[reviews/deep-review-YYYY-MM-DD-slug]]
 ```
 
-### 10. Commit Changes
+### 10. Do Not Commit
 
-Create a git commit:
-
-```
-review(deep): Comprehensive review of [filename]
-
-Addressed:
-- [Key issue 1]
-- [Key issue 2]
-
-Enhanced:
-- [Key enhancement]
-```
+Leave file changes uncommitted on disk. The orchestrator (`cycle_post.py`
+for /loop runs, `agent-commit` for legacy `evolve_loop.py` runs) creates
+the git commit after this skill returns. For manual invocations, run
+`/agent-commit` afterward or commit by hand.
 
 ## What NOT to Do
 

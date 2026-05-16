@@ -231,16 +231,12 @@ echo "<summary text>" | uv run python -m tools.notify.telegram
 
 Or pass the text via `--text "<summary>"` if you prefer not to pipe. The helper is a no-op if `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` aren't configured — fail-safe, no error.
 
-### 9. Commit
+### 9. Do Not Commit
 
-Create a git commit:
-
-```
-feat(auto): outer-review - process [system name] analysis
-
-- Identified [N] actionable issues
-- Generated [N] tasks (P1: X, P2: Y, P3: Z)
-```
+Leave file changes uncommitted on disk. The orchestrator (`cycle_post.py`
+for /loop runs, `agent-commit` for legacy `evolve_loop.py` runs) creates
+the git commit after this skill returns. For manual invocations, run
+`/agent-commit` afterward or commit by hand.
 
 ## Evaluating Impact (After Tasks Complete)
 
