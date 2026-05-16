@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write topic article on Cross-Species Channel for Introspection-Architecture Independence Scoring
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/cross-species-channel-introspection-architecture-independence-2026-05-15.md` (5-channel architecture independence scoring research, target_section: topics). The research catalogues cross-species behavioural evidence that introspective failures of the kinds identified in the introspection-architecture sub-cluster (`voids/narrative-void`, `voids/source-attribution-void`, `voids/noetic-feelings-void`, `voids/confabulation-void`) recur in non-human animals — i.e. that the bounded-access architecture is not specific to human linguistic/cultural framing but recurs across organisms with different cognitive architectures. Article should (a) be designed as a channel-specific worked exhibit, parallel to `topics/pupillometry-behavioural-channel.md` (created 2026-05-16) and the verbal-report channel; (b) walk the empirical anchors per the *despite-commitments* / *because-prediction* distinction the `apex/taxonomy-of-voids.md` independence-scoring methodology requires; (c) identify which findings supply *cross-species* evidence that survives the voids-circularity discount (i.e. cannot be explained by linguistic/cultural overhang because non-linguistic organisms also exhibit the pattern); (d) honour `[[evidential-status-discipline]]` — cross-species inference always involves the operationalisation gap (how to measure metacognitive failure in organisms that cannot report) and should be calibrated as live convergence rather than established result; (e) cross-link to `[[topics/introspection-architecture-independence-scoring]]`, `[[topics/pupillometry-behavioural-channel]]`, `[[apex/taxonomy-of-voids]]`, `[[project/common-cause-null]]`, `[[project/voids-circularity-discount]]`. Target section: topics/ (241/250 — 9 slots available, tight). Estimated scope: 2,500–3,500 words. Tenet alignment: methodological / `[[evidential-status-discipline]]` + Tenet 1 (Dualism — bounded-access architecture recurring across species supports architectural rather than linguistic-cultural explanation).
-- **Source**: unconsumed_research
-- **Research file**: `research/cross-species-channel-introspection-architecture-independence-2026-05-15.md`
-- **Generated**: 2026-05-16
-
 ### P2: Write topic article on Cross-Tradition Channel (Advaita / Sufi / Stoic) for Introspection-Architecture Independence Scoring
 - **Type**: expand-topic
 - **Status**: pending
@@ -3654,6 +3646,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-16: Write topic article on Cross-Species Channel for Introspection-Architecture Independence Scoring
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/cross-species-channel-introspection-architecture-independence-2026-05-15.md` (5-channel architecture independence scoring research, target_section: topics). The research catalogues cross-species behavioural evidence that introspective failures of the kinds identified in the introspection-architecture sub-cluster (`voids/narrative-void`, `voids/source-attribution-void`, `voids/noetic-feelings-void`, `voids/confabulation-void`) recur in non-human animals — i.e. that the bounded-access architecture is not specific to human linguistic/cultural framing but recurs across organisms with different cognitive architectures. Article should (a) be designed as a channel-specific worked exhibit, parallel to `topics/pupillometry-behavioural-channel.md` (created 2026-05-16) and the verbal-report channel; (b) walk the empirical anchors per the *despite-commitments* / *because-prediction* distinction the `apex/taxonomy-of-voids.md` independence-scoring methodology requires; (c) identify which findings supply *cross-species* evidence that survives the voids-circularity discount (i.e. cannot be explained by linguistic/cultural overhang because non-linguistic organisms also exhibit the pattern); (d) honour `[[evidential-status-discipline]]` — cross-species inference always involves the operationalisation gap (how to measure metacognitive failure in organisms that cannot report) and should be calibrated as live convergence rather than established result; (e) cross-link to `[[topics/introspection-architecture-independence-scoring]]`, `[[topics/pupillometry-behavioural-channel]]`, `[[apex/taxonomy-of-voids]]`, `[[project/common-cause-null]]`, `[[project/voids-circularity-discount]]`. Target section: topics/ (241/250 — 9 slots available, tight). Estimated scope: 2,500–3,500 words. Tenet alignment: methodological / `[[evidential-status-discipline]]` + Tenet 1 (Dualism — bounded-access architecture recurring across species supports architectural rather than linguistic-cultural explanation).
+- **Output**: Write topic article on Cross-Species Channel for Introspection-Architecture Independence Scoring
 
 ### ✓ 2026-05-16: Refine topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md — moderate "beyond residual cortical firing" overclaim
 - **Type**: refine-draft

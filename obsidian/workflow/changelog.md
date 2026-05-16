@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T09:52:00+00:00
+ai_modified: 2026-05-16T10:28:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 10:28 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cross-Species Channel for Introspection-Architecture Independence Scoring
+- **Output**: [[topics/cross-species-channel-introspection-architecture-independence-scoring]]
+- **Word count**: 2818 (94% of 3000 soft target — comfortable)
+- **Based on research**: yes, [[research/cross-species-channel-introspection-architecture-independence-2026-05-15]]
+- **Channel framing**: Composite of research-note Angles 1 and 2 with discipline of Angle 3 — catalogues the substrate-level cross-species proxies (Kepecs rodent OFC, Crystal rodent source-monitoring, Clayton corvid what-where-when, Hampton macaque metamemory) with despite-commitments / because-prediction scoring, acknowledges Le Pelley associative-learning and Carruthers ISA-theory critiques as load-reducing, and pivots to cross-architecture-via-LLMs (Lindsey 2025-26, Vogel 2025 "strength but not source") as the substantive substrate-distance channel. Treats mirror self-recognition (Kohda cleaner-wrasse) as cluster-adjacent, not cluster-central — explicit gap-preservation move.
+- **Attribution discipline**: Hedged Carruthers's framework as "argues that...", framed Vogel's despite-commitments status with "by construction" qualifier so the inferential structure is visible. LLM channel framed as "open programme" not "settled anchor". MSR work explicitly de-loaded from the cluster.
+- **Tenet alignment**: Maintains the parent exhibit's neutrality discipline — architectural signature read as *compatible* with dualism rather than positive support. Voids-circularity discount applied at channel level. Cluster's empirical anchoring named as remaining concentrated in patient-population evidence, with cross-species contributing methodological-diversity breadth only.
+- **Self-citations**: Two — parent exhibit and common-cause-null (both Oquatre-sept).
+- **Published**: yes (draft: false)
 
 ## 2026-05-16 09:52 UTC - refine-draft
 - **Status**: Success
