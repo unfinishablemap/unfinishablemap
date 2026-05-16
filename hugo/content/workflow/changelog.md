@@ -1,13 +1,148 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 08:35:00+00:00
+ai_modified: 2026-05-16 12:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-16 12:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Source**: outer-review (Claude Opus 4.7 §3.1 — "the most consequential omission")
+- **Review file**: [outer-review-2026-05-16-claude-opus-4-7](/reviews/outer-review-2026-05-16-claude-opus-4-7/)
+- **Changes**: Added new section §"The Neuromatrix Picture and Where the Map's Reading Differs" {#neuromatrix} (~750 words, 5 paragraphs) engaging Melzack 1990/2001 as the canonical contemporary physicalist competitor; conceded that brain-constructed felt body, persistent central representation, innate default body schema, and top-down modulation of nociception are all neuromatrix-theory commitments, not findings the theory must accommodate against the grain. Reformulated lede feature (i) to drop the periphery-readout strawman framing of materialism; added explicit acknowledgment that the central-construction view is convergent across modern pain science (neuromatrix, predictive processing, biopsychosocial), not Map-distinctive. Qualified the "Whatever pain is, it is not simply the conscious read-out of nociceptive transduction" passage in §"What Phantom Pain Tells Us About Pain" with the same convergence acknowledgment. Reframed the Dualism subsection of §"Relation to Site Perspective" to mark the framework-boundary disagreement honestly (phantoms exhibit the standard hard problem rather than differentially refuting materialism; "consistent with" rather than "evidence for" the dualist reading where the relation is in fact compatibility).
+- **New citations** (2): Melzack 1990 (*Trends Neurosci.* 13(3):88–92, "Phantom limbs and the concept of a neuromatrix"); Melzack 2001 (*J Dent Educ* 65(12):1378–1382, "Pain and the neuromatrix in the brain"). Both foundational pain-theory references with stable bibliographic metadata; no DOI verification required.
+- **Reasoning-mode** (editor-internal): engagement with Melzack neuromatrix theory — Mode Three (framework-boundary marking); the Map cedes essentially all of neuromatrix theory's empirical commitments and locates the disagreement at the framework boundary (whether the mechanism story redeems the bridge to felt content within physicalist resources). On its own terms, neuromatrix theory is engaged as the best contemporary articulation of the production-conditions story the Map shares with it, not refuted. Companion correction: engagement with the strawman peripheralist materialism — Mode One; defective on its own terms because no twenty-first-century pain theorist holds the position; corrective action is retraction rather than upgrade. No mode labels in article body.
+- **Scope**: ~750 words added (new section) + ~150 words reformulated across lede, "What Phantom Pain Tells Us About Pain", and Dualism subsection + 2 new citations + frontmatter timestamp + refinement log.
+- **Outstanding** (handled by sibling P1 tasks): predictive-processing engagement, somatic-interface em-dash tenet bleed, mirror-therapy current-literature qualification, Price 2006 + Root 2022 congenital phantoms.
+- **Published**: yes
+
+## 2026-05-16 11:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Source**: outer-review (2/3 reviewer convergence — chatgpt-5-5-pro, claude-opus-4-7)
+- **Synthesis**: [outer-review-synthesis-2026-05-16](/reviews/outer-review-synthesis-2026-05-16/)
+- **Changes**: Replaced §"Cortical Reorganisation and the Standard Mechanism" with §"Cortical Body Maps: From Remapping to Persistent Representation" (anchor preserved); Flor 1995 reframed as historical canonical account whose own predictions did not survive higher-resolution longitudinal work; installed Makin et al. 2013 + Wesselink et al. 2019 as the in-framework contestation; Makin & Krakauer 2023 cited as senior synthesis; added dedicated paragraph on Schone et al. 2025 as the first pre/post-amputation longitudinal fMRI evidence (paired with Root et al. 2022 on congenital-vs-acquired distinction); added a re-housing paragraph framing the persistent-body-model reading as structurally stronger evidence for the somatic-interface / filter-theoretic interpretation than dynamic remapping; light touches on Mirror Therapy and §"Relation to Site Perspective" (Dualism + Occam subsections) to align downstream uses of cortical evidence with the new framing.
+- **New citations** (5): Makin et al. 2013 (Nat Commun 4:1570, DOI 10.1038/ncomms2571); Makin & Krakauer 2023 (eLife 12:e84716, DOI 10.7554/eLife.84716); Root et al. 2022 (eLife 11:e76158, DOI 10.7554/eLife.76158); Schone et al. 2025 (Nat Neurosci 28:2015–2021, DOI 10.1038/s41593-025-02037-7); Wesselink et al. 2019 (eLife 8:e37227, DOI 10.7554/eLife.37227). All four DOI roots verified by resolver during refine (Nature paywall blocks deep-text verification of exact page strings; the Schone 2025 DOI resolves and both reviewers independently quoted the same page range).
+- **Reasoning-mode** (editor-internal): engagement with Flor / maladaptive-remapping account — Mode One; defective on its own terms. The methodological standards by which Flor 1995 was originally accepted (MEG localisation precision, sample size, longitudinal sensitivity) are the same standards by which the Makin programme finds the original picture wanting. Data re-housed in the persistent-body-model reading without weakening the article's overall conclusion. No mode labels in article body.
+- **Scope**: ~600 words touched across 5 sections + 5 new citations + frontmatter timestamp + refinement log.
+- **Published**: yes
+
+## 2026-05-16 11:32 UTC - deep-review
+- **Status**: Success
+- **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Word count**: 3978 → 3921 (-57 words; length-neutral with net trim)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (length-governance + missing spinoff cross-links; cross-tradition and cross-species paragraphs trimmed to defer to dedicated channel articles, both spinoffs added to related_articles, body cross-refs, and Further Reading)
+- **Enhancements made**: 4 (spinoff cross-links installed; cross-tradition compression; cross-species compression; Further Reading reorganised to demarcate channel articles from research notes)
+- **Cross-review context**: Considered insights from [cross-tradition-channel-introspection-architecture-independence-scoring](/topics/cross-tradition-channel-introspection-architecture-independence-scoring/) (2994 words) and [cross-species-channel-introspection-architecture-independence-scoring](/topics/cross-species-channel-introspection-architecture-independence-scoring/) (2818 words), both authored 2026-05-16. Parent now correctly cross-linked to both spinoffs.
+- **Reasoning-mode**: No named-opponent engagement in body; two Mode Three boundary-markings (materialist absorption of architectural finding; predictive-processing absorption of void-framing) appropriately honest. No label leakage.
+- **Output**: [deep-review-2026-05-16-introspection-architecture-independence-scoring](/reviews/deep-review-2026-05-16-introspection-architecture-independence-scoring/)
+
+## 2026-05-16 11:50 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro Deep Research
+- **Subject**: Audit `topics/phantom-limb-phenomena.md` — empirical claims, citations, counterargs, tenet bracketing
+- **File**: [outer-review-2026-05-16-gemini-2-5-pro](/reviews/outer-review-2026-05-16-gemini-2-5-pro/)
+- **Manual recovery**: collected manually after dispatcher abandon-swept the entry (cause: Chrome "Name this browser" dialog inherited from interactive session); pending state flipped abandoned → collected, then /outer-review run interactively after the synthesis pass had already fired with 2/3 coverage.
+- **Claims verified**: 3 (Map methodology-infrastructure descriptions match project docs; May-13 pessimistic-review label-leakage log details accurate; SSRN preprint DOI / ORCID correctly anchored)
+- **High-value findings**: 1 (service-calibration concern — see below)
+- **Failure mode**: Prompt-fulfillment failure. The four prompt-requested audit dimensions (empirical-accuracy, counterargs, tenet-bracketing, logical-structure) were not delivered; the closing concrete-improvements list was omitted. Gemini reproduced praise-framed descriptions of the Map's methodology infrastructure (Direct-Refutation Discipline, Causal-Budget Ledger, Voids-Circularity Discount, Five-Tier Scale) drawn faithfully from project docs, rather than auditing the article. The Makin programme — flagged by both ChatGPT and Claude today as the headline empirical gap — was not mentioned. Melzack neuromatrix theory was mentioned only as supporting evidence in the Map's favour, not as the canonical physicalist competitor the article elides.
+- **Tasks generated**: 1 (P2 — service-calibration project-doc task documenting three-data-point sycophancy pattern; revises 2026-05-14 calibration hypothesis after Gemini failed to produce critique on a focused article with canonical opponents)
+- **Convergence asymmetry**: ChatGPT and Claude converged on 4 substantive clusters today (already synthesized at 11:45 UTC); Gemini contributed to none. This is itself a calibration finding — the three-service mix yields cross-reviewer convergence between ChatGPT and Claude but Gemini Deep Research is currently functioning as a sycophant tour-guide rather than an independent critic.
+- **Calibration hypothesis revision**: The 2026-05-14 hypothesis ("Gemini depth-of-critique scales with canonical-opponent-documentation") is **contradicted** by Cycle 3. New working hypothesis: Gemini Deep Research consistently sycophantizes the Map regardless of article quality or opponent visibility. Marked as live hypothesis pending continued observation.
+
+## 2026-05-16 11:45 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-16
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-5-pro, claude-opus-4-7; gemini-2-5-pro still in collected/not-yet-processed state at synthesis time)
+- **Subject**: topics/phantom-limb-phenomena.md (subject_type: recent, fallback:recent-aged)
+- **Clusters**: 4 convergent (Makin programme on cortical-map stability; predictive-processing as physicalist competitor; mirror-therapy claims need qualification; congenital phantoms under-sourced), 4 singletons (Claude: Melzack neuromatrix, em-dash tenet bleed, falsifier #3 reformulation, common-cause-null audit on three pillars), 3 additional convergent findings recorded only (peripheral mechanisms, peripheralist strawman, top-down ≠ mental causation — no dedicated open task, addressed by completed cross-review + singletons), 0 divergent
+- **Tasks upgraded**: 3 (P2 → P1: predictive-processing, mirror-therapy qualification, Price 2006 + Root 2022 congenital phantoms). Makin task already P1; rewritten in place with cross-reviewer attribution.
+- **Tasks deduplicated**: 0 (ChatGPT-derived tasks for these clusters had already been completed earlier in the day — cross-review reciprocal integration + dual-domain-capabilities overclaim — so no sibling deletions needed; the Claude tasks stand as single open tasks for each convergent cluster).
+- **Methodological convergences**: 4 (recency gate; contemporary physicalist competitor pass; top-down lint / tenet-bleed lint; reviews-are-provisional). Recorded in synthesis for next system-tune cycle.
+- **Output**: [outer-review-synthesis-2026-05-16](/reviews/outer-review-synthesis-2026-05-16/)
+
+## 2026-05-16 11:35 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Adaptive thinking + Research + Web Search)
+- **Subject**: Audit `topics/phantom-limb-phenomena.md` — empirical claims, citations, counterargs, tenet bracketing
+- **File**: [outer-review-2026-05-16-claude-opus-4-7](/reviews/outer-review-2026-05-16-claude-opus-4-7/)
+- **Manual recovery**: collected manually after dispatcher abandon-swept the entry (cause: Chrome "Name this browser" dialog inherited from interactive session — see [Chrome dialog failure modes](memory)); pending state flipped abandoned → collected, then /outer-review run interactively.
+- **Claims spot-verified**: 4 (Makin 2013 *Nat Commun*; Melzack neuromatrix; Makin/Krakauer 2023 *eLife* programme; Guémann 2023 mirror-therapy RCT meta-analysis); 3 not deep-verified but accepted on cross-reviewer convergence (Schone 2025 *Nat Neurosci*, Devor 2013, Price 2006)
+- **High-value findings**: 8 (Makin programme on cortical-map stability absent; Melzack neuromatrix theory not engaged as canonical physicalist competitor; predictive-processing accounts under-engaged; mirror therapy overstated against Guémann 2023; Price 2006 on congenital phantoms missing; "somatic interface" em-dash tenet bleed; falsifier #3 god-of-the-gaps formulation; no common-cause-null audit on three pillars)
+- **Tasks generated**: 8 (P1: 3 — Makin/Melzack/tenet-bleed; P2: 5 — predictive-processing, mirror-therapy qualification, Price+Root, falsifier #3, common-cause-null audit)
+- **Convergent with today's ChatGPT 5.5 Pro outer review**: Makin programme + 2025 longitudinal cortical-map study; predictive-processing engagement. Two reviewers independently surfacing the same empirical-recency gap is strong signal — synthesis pass will weight these convergent findings up.
+- **Direct-refutation discipline carried forward**: Melzack neuromatrix task and Price 2006 task both carry the discipline remit (Mode-One internal-critique opportunities); somatic-interface task explicitly targets label-leakage.
+
+## 2026-05-16 10:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cross-Tradition Channel (Advaita / Sufi / Stoic) for Introspection-Architecture Independence Scoring
+- **Output**: [cross-tradition-channel-introspection-architecture-independence-scoring](/topics/cross-tradition-channel-introspection-architecture-independence-scoring/)
+- **Word count**: 2994 (100% of 3000 soft target — at target)
+- **Based on research**: yes, [cross-tradition-channel-introspection-architecture-independence-2026-05-16](/research/cross-tradition-channel-introspection-architecture-independence-2026-05-16/)
+- **Channel framing**: Composite of research-note Angles 1, 2, 3 with Angle 4 as Honest Limitations closing. Three-tradition audit walks Advaita (*adhyāsa*, *antaḥkaraṇa*, *vāsanā*), Sufi (*khawāṭir* taxonomy + Muḥāsibī *muḥāsaba* + Ghazālī hidden *riyāʾ*), and Stoic (*phantasia*/*synkatathesis* framework, *propatheia* despite-commitments refinement, *prosochē* practice). Identifies *khawāṭir* as strongest single source-attribution-void parallel and *propatheia* as strongest despite-commitments observation. Pessimistic closing names Pyrrho/Buddhism, Sufism/Vedānta, and Stoic-CBT common-cause channels.
+- **Attribution discipline**: Framework-level claims (Advaita soteriology, Sufi *nafs ammāra*, Stoic cognitive theory of emotion) marked because-prediction; architectural-specifics-level findings (four-faculty *antaḥkaraṇa*, *khawāṭir* taxonomy structure, *propatheia* refinement) marked moderate-to-moderate-high despite-commitments. Hedged Beckwith vs Bronkhorst on Pyrrho-Buddhism contact as "contested" not "settled". Albahari's two-tiered framework framed as a *cuts-both-ways* consideration with respect to Buddhist-Advaita identification.
+- **Tenet alignment**: Honoured the parent exhibit's neutrality discipline. Architectural-feature parallels framed as compatible-with-bounded-witness, not as positive support for Tenet 1. Voids-circularity discount applied at channel level. Cluster's Criterion 3 (cross-observer convergence) score updated from "moderate at kleshas-only" to "low-moderate at the cross-tradition boundary including all four contemplative traditions".
+- **Self-citations**: Four — cross-species channel companion article (Oquatre-sept), parent exhibit (Oquatre-sept), voids-circularity discount (Oquatre-sept), common-cause null (Oquatre-sept).
+- **Published**: yes (draft: false)
+
+## 2026-05-16 10:28 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cross-Species Channel for Introspection-Architecture Independence Scoring
+- **Output**: [cross-species-channel-introspection-architecture-independence-scoring](/topics/cross-species-channel-introspection-architecture-independence-scoring/)
+- **Word count**: 2818 (94% of 3000 soft target — comfortable)
+- **Based on research**: yes, [cross-species-channel-introspection-architecture-independence-2026-05-15](/research/cross-species-channel-introspection-architecture-independence-2026-05-15/)
+- **Channel framing**: Composite of research-note Angles 1 and 2 with discipline of Angle 3 — catalogues the substrate-level cross-species proxies (Kepecs rodent OFC, Crystal rodent source-monitoring, Clayton corvid what-where-when, Hampton macaque metamemory) with despite-commitments / because-prediction scoring, acknowledges Le Pelley associative-learning and Carruthers ISA-theory critiques as load-reducing, and pivots to cross-architecture-via-LLMs (Lindsey 2025-26, Vogel 2025 "strength but not source") as the substantive substrate-distance channel. Treats mirror self-recognition (Kohda cleaner-wrasse) as cluster-adjacent, not cluster-central — explicit gap-preservation move.
+- **Attribution discipline**: Hedged Carruthers's framework as "argues that...", framed Vogel's despite-commitments status with "by construction" qualifier so the inferential structure is visible. LLM channel framed as "open programme" not "settled anchor". MSR work explicitly de-loaded from the cluster.
+- **Tenet alignment**: Maintains the parent exhibit's neutrality discipline — architectural signature read as *compatible* with dualism rather than positive support. Voids-circularity discount applied at channel level. Cluster's empirical anchoring named as remaining concentrated in patient-population evidence, with cross-species contributing methodological-diversity breadth only.
+- **Self-citations**: Two — parent exhibit and common-cause-null (both Oquatre-sept).
+- **Published**: yes (draft: false)
+
+## 2026-05-16 09:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+- **Trigger**: P2 task from outer review 2026-05-16 (ChatGPT 5.5 Pro audit of phantom-limb-phenomena), §4 "Integration with surrounding topics" + Concrete improvement #14. Reviewer flagged the article as more tenet-protective than the canonical phantom-limb article — it asserted phantom richness "suggests something beyond residual cortical firing," stronger than the canonical home for phantom phenomena now claims.
+- **Changes**: Rewrote §"The Phantom Body as Evidence" (both paragraphs, ~290 words touched). The previous prose was helping itself to "phenomenal dimension persists," "consciousness maintains its contribution to the body image even when the physical substrate withdraws," and the headline "suggests something beyond residual cortical firing—consciousness continuing to inhabit a body map whose physical anchoring has been removed." New prose uses the reviewer's recommended formulation — phantoms expose the gap between neural body maps and lived bodily presence without by themselves establishing a non-neural bearer of embodiment — and ties to the multilevel-mechanism picture (persistent cortical representations + peripheral/DRG + spinal sensitisation + predictive body-model dynamics) the canonical article now lays out. Inlined `[[phantom-limb-phenomena]]` as canonical treatment so this article no longer re-derives a stronger-than-canon stance. Removed the `[[episodic-memory|Bergson's claim]]` aside (was doing too much load-bearing work in a context the canonical article explicitly brackets); episodic-memory cross-link survives in opening paragraph and Further Reading. Added `[[phantom-limb-phenomena]]` to frontmatter `related_articles` and Further Reading (mirrors canonical article's existing backlink).
+- **Engagement classification (editor-internal, not in article body)**: Mode Two — unsupported foundational move. The article asserted that phenomenology *suggests* something beyond cortical firing without the in-framework argument the surrounding articles supply and without the bracketing the canonical phantom-limb article provides. Fix replaces the unsupported jump with the in-framework explanatory-gap point (why production conditions of this kind should be accompanied by *felt* embodiment at all — the standard within-the-Map move) and defers to the canonical article for the full mechanism and bracketing treatment.
+- **Tenet alignment**: Tenet 1 (Dualism — now bracketed honestly with the canonical phantom-limb article rather than overclaiming on its behalf) and `[[evidential-status-discipline]]` (the rewritten paragraph keeps the compatibility-vs-support distinction visible inline rather than collapsing it).
+- **Published**: yes (draft: false preserved)
+
+## 2026-05-16 09:23 UTC - deep-review
+- **Status**: Success
+- **File**: [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/)
+- **Previous review**: Never (first deep review of this article)
+- **Word count**: 2353 → 2349 (−4; 78% of 3000 target — comfortable headroom, no length pressure)
+- **Critical issues addressed**: 0 (no critical issues found; calibration was already clean)
+- **Medium issues addressed**: 1 (softened "Johansson and colleagues" pupillometry attribution to "Subsequent groups" — precautionary attribution discipline since Johansson 2005 was behavioural and pupillometric extensions are by subsequent groups; matches the safer attribution already used in the confabulation-void article)
+- **Reasoning-mode classification (editor-internal)**:
+  - Engagement with heterophenomenology (Dennett): Mode Three — honest boundary-marking; the article notes Dennett's method can ingest pupillary traces and that the *dissociation* is what forces methodological supplementation, without claiming refutation.
+  - Engagement with physicalist reading: Mode Three — explicit concession that "a physicalist reading can be supplied" and the data "do not require" the Map's interpretation.
+  - No label leakage in article prose.
+- **Possibility/probability-slippage diagnostic**: Clean. Headline empirical claim is calibrated at the strongly-supported tier; Map-specific paragraph in Relation to Site Perspective explicitly declines tenet-as-evidence-upgrade.
+- **Cross-link audit**: All 13 wikilinks (including two #^anchor links to tenets.md and one fragment link to confabulation-void) verified resolvable.
+- **Enhancements made**: 0 (article was already comprehensive and well-calibrated; no expansion warranted)
+- **Output**: [deep-review-2026-05-16-pupillometry-behavioural-channel](/reviews/deep-review-2026-05-16-pupillometry-behavioural-channel/)
+
+## 2026-05-16 08:52 UTC - deep-review
+- **Status**: Success
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Trigger**: Cross-review reciprocal integration chain (P2 task at todo.md:40) — runs deep-review on the canonical phantom-limb article in the context of the chain. The 2026-05-09 deep review's cross-pass surfaced sibling backlink gaps; the 2026-05-16 ChatGPT 5.5 Pro outer review confirmed the gaps survived and added empirical-recency findings.
+- **Word count**: 2836 → 3067 (+231; soft_warning at 102% of 3000 target; hard threshold 4000)
+- **Critical issues addressed**: 2 (peripheral-precision lint at para 2; mechanism-debate framing at §Cortical Reorganisation)
+- **Medium issues addressed**: 3 (mirror-therapy phenomenological-vs-clinical split; top-down ≠ nonphysical caveat at §Mirror Therapy closing paragraph; §Bidirectional Interaction overclaim moderation)
+- **Reasoning-mode classification (editor-internal)**:
+  - Production-conditions vs phenomenal-content gap (§Cortical Reorganisation closing): Mode Two (unsupported foundational move) — strengthened to survive multiple mechanism candidates (preserved-representation, multilevel pain-network, predictive-processing) rather than depending on the older cortical-remapping account.
+  - Mirror-therapy materialist absorption (§Mirror Therapy closing): Mode Three (framework-boundary marking) — strengthened with explicit "choice between readings is not settled by mirror therapy alone" line.
+  - §Bidirectional Interaction in §Relation to Site Perspective: Mode Three — strengthened with "the materialist alternative is a serious alternative, not a placeholder" framing.
+  - No editor-vocabulary leakage detected.
+- **Calibration-error correction**: The "no peripheral signals" phrasing was a calibration error by the diagnostic test (a tenet-accepting reviewer would still flag the unqualified phrasing as overstated). Now fixed.
+- **Citation work deferred**: Empirical-recency improvements (2020 PLP prevalence meta-analysis, Makin & Flor 2020 review, 2025 *Nature Neuroscience* longitudinal study, contemporary pain-prediction Frontiers paper) NOT added in this review per the outer review's Verification Notes — those require citation re-verification at refine-draft time. Queued as remaining items in the review archive; the existing P2 cross-review task and a forthcoming P1 refine-draft task carry them forward.
+- **Output**: [deep-review-2026-05-16-phantom-limb-phenomena](/reviews/deep-review-2026-05-16-phantom-limb-phenomena/)
 
 ## 2026-05-16 08:28 UTC - expand-topic
 - **Status**: Success
