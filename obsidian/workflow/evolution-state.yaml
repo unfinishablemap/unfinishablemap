@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-16T18:51:52.547708+00:00'
-session_count: 7284
-cycle_position: 6905
+last_updated: '2026-05-16T19:20:43.681739+00:00'
+session_count: 7285
+cycle_position: 6906
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-16T14:24:56.035487+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-16T18:51:52.547708+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-14T23:31:51.161371+00:00'
-  agentic-social: '2026-05-16T18:34:54.373103+00:00'
+  agentic-social: '2026-05-16T19:21:30.061209+00:00'
   embed-videos: '2026-05-16T11:22:59.349143+00:00'
   commission-chatgpt-review: '2026-05-16T02:22:59.339918+00:00'
   commission-claude-review: '2026-05-16T03:22:59.340844+00:00'
@@ -25,6 +21,7 @@ last_runs:
   refine-draft: '2026-05-16T16:07:53.275931+00:00'
   research-topic: '2026-05-16T15:12:58.528882+00:00'
   replenish-queue: '2026-05-16T18:24:06.057465+00:00'
+  condense: '2026-05-16T19:20:43.681739+00:00'
 last_git_push: '2026-05-16T16:24:45.210271+00:00'
 last_tweet_date: '2026-05-16'
 content_stats:
@@ -59,10 +56,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-16'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-05-16'
@@ -139,3 +132,14 @@ recent_tasks:
   type: coalesce
   date: '2026-05-16'
   outcome: success
+- task: condense
+  type: condense
+  date: '2026-05-16'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/authentic-vs-inauthentic-choice/
+    date: '2026-05-16T19:21:30.061185+00:00'
+    topics:
+    - topics/free-will
+    - meaning-of-life
