@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T11:32:00+00:00
+ai_modified: 2026-05-16T11:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 11:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Source**: outer-review (2/3 reviewer convergence — chatgpt-5-5-pro, claude-opus-4-7)
+- **Synthesis**: [[reviews/outer-review-synthesis-2026-05-16]]
+- **Changes**: Replaced §"Cortical Reorganisation and the Standard Mechanism" with §"Cortical Body Maps: From Remapping to Persistent Representation" (anchor preserved); Flor 1995 reframed as historical canonical account whose own predictions did not survive higher-resolution longitudinal work; installed Makin et al. 2013 + Wesselink et al. 2019 as the in-framework contestation; Makin & Krakauer 2023 cited as senior synthesis; added dedicated paragraph on Schone et al. 2025 as the first pre/post-amputation longitudinal fMRI evidence (paired with Root et al. 2022 on congenital-vs-acquired distinction); added a re-housing paragraph framing the persistent-body-model reading as structurally stronger evidence for the somatic-interface / filter-theoretic interpretation than dynamic remapping; light touches on Mirror Therapy and §"Relation to Site Perspective" (Dualism + Occam subsections) to align downstream uses of cortical evidence with the new framing.
+- **New citations** (5): Makin et al. 2013 (Nat Commun 4:1570, DOI 10.1038/ncomms2571); Makin & Krakauer 2023 (eLife 12:e84716, DOI 10.7554/eLife.84716); Root et al. 2022 (eLife 11:e76158, DOI 10.7554/eLife.76158); Schone et al. 2025 (Nat Neurosci 28:2015–2021, DOI 10.1038/s41593-025-02037-7); Wesselink et al. 2019 (eLife 8:e37227, DOI 10.7554/eLife.37227). All four DOI roots verified by resolver during refine (Nature paywall blocks deep-text verification of exact page strings; the Schone 2025 DOI resolves and both reviewers independently quoted the same page range).
+- **Reasoning-mode** (editor-internal): engagement with Flor / maladaptive-remapping account — Mode One; defective on its own terms. The methodological standards by which Flor 1995 was originally accepted (MEG localisation precision, sample size, longitudinal sensitivity) are the same standards by which the Makin programme finds the original picture wanting. Data re-housed in the persistent-body-model reading without weakening the article's overall conclusion. No mode labels in article body.
+- **Scope**: ~600 words touched across 5 sections + 5 new citations + frontmatter timestamp + refinement log.
+- **Published**: yes
 
 ## 2026-05-16 11:32 UTC - deep-review
 - **Status**: Success
