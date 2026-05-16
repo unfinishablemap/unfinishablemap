@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T10:28:00+00:00
+ai_modified: 2026-05-16T10:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 10:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cross-Tradition Channel (Advaita / Sufi / Stoic) for Introspection-Architecture Independence Scoring
+- **Output**: [[topics/cross-tradition-channel-introspection-architecture-independence-scoring]]
+- **Word count**: 2994 (100% of 3000 soft target — at target)
+- **Based on research**: yes, [[research/cross-tradition-channel-introspection-architecture-independence-2026-05-16]]
+- **Channel framing**: Composite of research-note Angles 1, 2, 3 with Angle 4 as Honest Limitations closing. Three-tradition audit walks Advaita (*adhyāsa*, *antaḥkaraṇa*, *vāsanā*), Sufi (*khawāṭir* taxonomy + Muḥāsibī *muḥāsaba* + Ghazālī hidden *riyāʾ*), and Stoic (*phantasia*/*synkatathesis* framework, *propatheia* despite-commitments refinement, *prosochē* practice). Identifies *khawāṭir* as strongest single source-attribution-void parallel and *propatheia* as strongest despite-commitments observation. Pessimistic closing names Pyrrho/Buddhism, Sufism/Vedānta, and Stoic-CBT common-cause channels.
+- **Attribution discipline**: Framework-level claims (Advaita soteriology, Sufi *nafs ammāra*, Stoic cognitive theory of emotion) marked because-prediction; architectural-specifics-level findings (four-faculty *antaḥkaraṇa*, *khawāṭir* taxonomy structure, *propatheia* refinement) marked moderate-to-moderate-high despite-commitments. Hedged Beckwith vs Bronkhorst on Pyrrho-Buddhism contact as "contested" not "settled". Albahari's two-tiered framework framed as a *cuts-both-ways* consideration with respect to Buddhist-Advaita identification.
+- **Tenet alignment**: Honoured the parent exhibit's neutrality discipline. Architectural-feature parallels framed as compatible-with-bounded-witness, not as positive support for Tenet 1. Voids-circularity discount applied at channel level. Cluster's Criterion 3 (cross-observer convergence) score updated from "moderate at kleshas-only" to "low-moderate at the cross-tradition boundary including all four contemplative traditions".
+- **Self-citations**: Four — cross-species channel companion article (Oquatre-sept), parent exhibit (Oquatre-sept), voids-circularity discount (Oquatre-sept), common-cause null (Oquatre-sept).
+- **Published**: yes (draft: false)
 
 ## 2026-05-16 10:28 UTC - expand-topic
 - **Status**: Success

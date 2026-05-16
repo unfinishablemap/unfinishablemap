@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T01:58:00+00:00
+ai_modified: 2026-05-16T10:56:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,14 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write topic article on Cross-Tradition Channel (Advaita / Sufi / Stoic) for Introspection-Architecture Independence Scoring
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/cross-tradition-channel-introspection-architecture-independence-2026-05-16.md` (target_section: topics). The research catalogues contemplative-tradition evidence (Advaita Vedanta, Sufi, Stoic) that the bounded-access architecture identified in the introspection-architecture sub-cluster recurs across historically-isolated traditions with radically different metaphysical commitments — i.e. that the same architectural pattern shows up across traditions which disagree about ontology. This is the *cross-tradition channel* parallel to `[[cross-species-channel-introspection-architecture-independence]]` (research 2026-05-15) and `[[topics/pupillometry-behavioural-channel]]`. Article should (a) be designed as a channel-specific worked exhibit; (b) walk the tradition-specific evidence per the *despite-commitments* / *because-prediction* distinction the `apex/taxonomy-of-voids.md` methodology requires (the traditions converge on bounded-access *despite* disagreeing about whether the bounding is metaphysically real, contemplatively dissolvable, or architecturally unalterable); (c) identify the operationalisation gap honestly — translation across tradition vocabularies always risks projecting Western-philosophical categories onto Sanskrit, Arabic, and Greek texts; (d) honour `[[evidential-status-discipline]]` — cross-tradition convergence is hypothesis-strengthening but not proof, and should be calibrated as live convergence; (e) cross-link to `[[topics/introspection-architecture-independence-scoring]]`, `[[topics/pupillometry-behavioural-channel]]`, `[[apex/taxonomy-of-voids]]`, `[[project/common-cause-null]]`, `[[project/voids-circularity-discount]]`, `[[topics/indian-philosophy-of-mind]]`, `[[concepts/witness-consciousness]]`. Target section: topics/ (241/250 — 9 slots available, tight). Estimated scope: 2,500–3,500 words. Tenet alignment: methodological / `[[evidential-status-discipline]]` + Tenet 1 (Dualism — convergence across traditions with incompatible metaphysics supports architectural rather than metaphysics-derived explanation). **Sequencing**: can run independently of cross-species channel article; both feed the same methodological apex.
-- **Source**: unconsumed_research
-- **Research file**: `research/cross-tradition-channel-introspection-architecture-independence-2026-05-16.md`
-- **Generated**: 2026-05-16
 
 ### P2: Cross-review related articles considering topics/introspection-architecture-independence-scoring.md insights
 - **Type**: cross-review
@@ -3646,6 +3638,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-16: Write topic article on Cross-Tradition Channel (Advaita / Sufi / Stoic) for Introspection-Architecture Independence Scoring
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/cross-tradition-channel-introspection-architecture-independence-2026-05-16.md` (target_section: topics). The research catalogues contemplative-tradition evidence (Advaita Vedanta, Sufi, Stoic) that the bounded-access architecture identified in the introspection-architecture sub-cluster recurs across historically-isolated traditions with radically different metaphysical commitments — i.e. that the same architectural pattern shows up across traditions which disagree about ontology. This is the *cross-tradition channel* parallel to `[[cross-species-channel-introspection-architecture-independence]]` (research 2026-05-15) and `[[topics/pupillometry-behavioural-channel]]`. Article should (a) be designed as a channel-specific worked exhibit; (b) walk the tradition-specific evidence per the *despite-commitments* / *because-prediction* distinction the `apex/taxonomy-of-voids.md` methodology requires (the traditions converge on bounded-access *despite* disagreeing about whether the bounding is metaphysically real, contemplatively dissolvable, or architecturally unalterable); (c) identify the operationalisation gap honestly — translation across tradition vocabularies always risks projecting Western-philosophical categories onto Sanskrit, Arabic, and Greek texts; (d) honour `[[evidential-status-discipline]]` — cross-tradition convergence is hypothesis-strengthening but not proof, and should be calibrated as live convergence; (e) cross-link to `[[topics/introspection-architecture-independence-scoring]]`, `[[topics/pupillometry-behavioural-channel]]`, `[[apex/taxonomy-of-voids]]`, `[[project/common-cause-null]]`, `[[project/voids-circularity-discount]]`, `[[topics/indian-philosophy-of-mind]]`, `[[concepts/witness-consciousness]]`. Target section: topics/ (241/250 — 9 slots available, tight). Estimated scope: 2,500–3,500 words. Tenet alignment: methodological / `[[evidential-status-discipline]]` + Tenet 1 (Dualism — convergence across traditions with incompatible metaphysics supports architectural rather than metaphysics-derived explanation). **Sequencing**: can run independently of cross-species channel article; both feed the same methodological apex.
+- **Output**: Write topic article on Cross-Tradition Channel (Advaita / Sufi / Stoic) for Introspection-Architecture Independence Scoring
 
 ### ✓ 2026-05-16: Write topic article on Cross-Species Channel for Introspection-Architecture Independence Scoring
 - **Type**: expand-topic
