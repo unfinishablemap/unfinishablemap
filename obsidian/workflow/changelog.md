@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T18:51:00+00:00
+ai_modified: 2026-05-16T19:19:56+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 19:19 UTC - condense
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Before**: 8074 words (critical, 269% of 3000-word soft threshold)
+- **After**: 3997 words (soft_warning, just under 4000-word hard threshold)
+- **Reduction**: 50.5%
+- **Technique**: Tightened prose throughout; reduced lede from 520 → 266 words by removing redundant phrasings while preserving all three "philosophically loaded" features and forward-references. Cortical Body Maps (760 → 360), Mirror Therapy (543 → 267), Congenital Phantoms (1071 → 421), Neuromatrix (730 → 276), Predictive-Processing (1080 → 348), Common-Cause-Null Audit (618 → 226), Relation to Site Perspective (617 → 358), What Would Challenge (595 → 301). Preserved: opening summary, all section structure and anchors, complete reference list (24 citations), Further Reading list, all wikilinks, the framework-boundary engagement with both neuromatrix and predictive-processing, all four falsifiers, the common-cause-null audit. No content extracted to new articles (the article's content is tightly integrated and each subsection load-bears for the overall argument). Could not reach the 3000-word target without sacrificing the engagement-with-both-physicalist-competitors structure the article was designed around; landed at the section's hard threshold (just under 4000) which is a reasonable resting point given the article's role as the Map's anchor topic on embodied consciousness and central pain construction.
 
 ## 2026-05-16 18:51 UTC - coalesce
 - **Status**: Abandoned (no merger executed)

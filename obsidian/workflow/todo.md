@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense topics/phantom-limb-phenomena.md (8074 words, 269% of topics critical threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 6000-word critical threshold for topics/. Today's six refine passes (Price 2006 + Root 2022 engagement; congenital-phantoms expansion; lede feature (iii) qualification; falsifier #4 rewrite; structural-default reading hedging; Brugger 2000 reframe) added ~700 words to a file already over-length. Preserve (a) core arguments at lede; (b) Price 2006 / Root 2022 / Crawford 2014 / Melzack et al. 1997 engagement at congenital-phantoms section; (c) falsifier list in §"What Would Challenge This View?"; (d) tenet alignment in §"Relation to Site Perspective". Trim by removing redundancy across the five empirical-case clusters (referred sensation; immediate-onset; vivid-quality; pre-amputation pain correlation; congenital phantoms) — each currently re-derives the structural-default framing inline; the load-bearing statement of the framing should live once at the lede and be referenced cleanly. Defer detailed mechanism-debate exegesis to `[[concepts/body-schema]]` or sibling pages where possible. Also: six `<!-- AI REFINEMENT LOG -->` blocks at lines 196–310 (~115 lines) should be moved to a sidecar `topics/phantom-limb-phenomena.refinement-log.md` per the non-temporal-consciousness pattern (an existing P3 task at line ~? overlaps; subsume that task or sequence after). Target: ≤5500 words (below hard threshold). Tenet alignment: methodological / writing-style + Tenet 1 (Dualism). See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-16
-
 ### P2: Apply Neoplatonist common-cause audit findings to topics/cross-tradition-channel-introspection-architecture-independence-scoring.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3707,6 +3700,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-16: Condense topics/phantom-limb-phenomena.md (8074 words, 269% of topics critical threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 6000-word critical threshold for topics/. Today's six refine passes (Price 2006 + Root 2022 engagement; congenital-phantoms expansion; lede feature (iii) qualification; falsifier #4 rewrite; structural-default reading hedging; Brugger 2000 reframe) added ~700 words to a file already over-length. Preserve (a) core arguments at lede; (b) Price 2006 / Root 2022 / Crawford 2014 / Melzack et al. 1997 engagement at congenital-phantoms section; (c) falsifier list in §"What Would Challenge This View?"; (d) tenet alignment in §"Relation to Site Perspective". Trim by removing redundancy across the five empirical-case clusters (referred sensation; immediate-onset; vivid-quality; pre-amputation pain correlation; congenital phantoms) — each currently re-derives the structural-default framing inline; the load-bearing statement of the framing should live once at the lede and be referenced cleanly. Defer detailed mechanism-debate exegesis to `[[concepts/body-schema]]` or sibling pages where possible. Also: six `<!-- AI REFINEMENT LOG -->` blocks at lines 196–310 (~115 lines) should be moved to a sidecar `topics/phantom-limb-phenomena.refinement-log.md` per the non-temporal-consciousness pattern (an existing P3 task at line ~? overlaps; subsume that task or sequence after). Target: ≤5500 words (below hard threshold). Tenet alignment: methodological / writing-style + Tenet 1 (Dualism). See `/condense` skill.
 
 ### ✓ 2026-05-16: Cross-review related articles considering concepts/naturally-occluded.md insights
 - **Type**: cross-review
