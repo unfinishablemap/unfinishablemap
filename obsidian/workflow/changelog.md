@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T16:19:00+00:00
+ai_modified: 2026-05-16T17:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 17:30 UTC - deep-review (cross-review pass 2)
+- **Status**: Success
+- **File**: [[topics/introspection-architecture-independence-scoring]]
+- **Driver**: Cross-review pass requested considering insights from related articles. Two related cross-reviews ran on spinoff articles earlier this afternoon (cross-tradition deep review at 16:30 UTC; cross-species deep review at 13:41 UTC). The cross-tradition spinoff integrated the 2026-05-16 Neoplatonist common-cause audit completed at 15:30 UTC, which produced differentiated historical-isolation weights the parent article still carried in the morning-pass framing.
+- **Word count**: 3921 → 3951 (+30 words; length-neutral compensation applied — additions for the just-completed audit findings offset by trim of the *kleshas* metaphysical-inversion paragraph which duplicated material now consolidated in the spinoff)
+- **Critical issues addressed**: 2
+  - Calibration-update-overdue: the cross-tradition paragraph's claim that *khawāṭir* → source-attribution-void was the strongest single architectural parallel at "moderate-to-high" despite-commitments was overturned by the audit. Corrected: Ghazālī's *riyāʾ khafiyy* (11th c.) → confabulation-void (Generation face) at *moderate* with Avicennan-Neoplatonist framing-level discount; *propatheia* → noetic-feelings-void on Sorabji's contested historiography; cleanest historical-isolation defence shifts from early-Sufism to Advaita (Bréhier-Armstrong-Hacker-Aklan 2018).
+  - Stale "slightly higher than *kleshas*-only" framing: corrected to *re-calibration downward* once broader-scope discounts surface, consistent with the spinoff's "calibration with new disconfirming information, not score-improvement" settled position.
+- **Medium issues addressed**: 1 (length-neutral discipline reinforced)
+- **Enhancements made**: 4 (Neoplatonist audit findings integrated; void-targeting corrected; cross-link to research notes added in 4 locations; residual gap on Evagrius-Stoicism reduction explicitly named in parent's Honest Limitations)
+- **Engagement classifications**: No new opponent-engagements introduced; framework-boundary disagreements (materialist reading, predictive-processing absorption) remain Mode Three.
+- **Output**: [[reviews/deep-review-2026-05-16-cross-review-introspection-architecture-independence-scoring]]
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
 
 ## 2026-05-16 16:18 UTC - optimistic-review
 - **Status**: Success
