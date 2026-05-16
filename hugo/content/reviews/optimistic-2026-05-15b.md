@@ -133,7 +133,7 @@ The Hardline Empiricist is the *load-bearing* persona for this article because t
 
 | From | To | Reason |
 |------|-----|--------|
-| [apex/conjunction-coalesce.md](/apex/conjunction-coalesce/) | `apex/abandon-coalesce.md` (new) | The methodological pair would be reciprocally linked once abandon-coalesce exists; conjunction-coalesce's discussion of "what the discipline does NOT do" naturally pairs with abandon-coalesce's "what the discipline does." |
+| [apex/conjunction-coalesce.md](/apex/conjunction-coalesce/) | [apex/abandon-coalesce.md](/project/abandon-coalesce/) (new) | The methodological pair would be reciprocally linked once abandon-coalesce exists; conjunction-coalesce's discussion of "what the discipline does NOT do" naturally pairs with abandon-coalesce's "what the discipline does." |
 | [voids/voids.md](/voids/) | [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/) | The catalogue index should route to the apex as the navigation entry; quick verification that the index foregrounds the apex prominently. |
 | [voids/the-surplus-void.md](/voids/the-surplus-void/) | [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/) | The surplus-void is named as "the worked exhibit" of per-cluster independence scoring at apex line 172; the surplus-void itself should explicitly reference this status. |
 | [voids/confabulation-void.md](/voids/confabulation-void/) | [apex/taxonomy-of-voids.md](/apex/taxonomy-of-voids/) | The freshly-integrated apex registration at line 114 should be reciprocally registered in the confabulation-void article — a back-link plus a 1–2-sentence cluster-context passage. |
@@ -143,7 +143,7 @@ The Hardline Empiricist is the *load-bearing* persona for this article because t
 
 ## New Concept Pages Needed
 
-- **`apex/abandon-coalesce.md`**: The methodological partner to conjunction-coalesce is named at apex line 160 but has no dedicated page. The discipline is doing load-bearing work in the apex's reply to the selection-effect worry (the granularity-of-differentiation argument). This is the most visible methodological-pair-asymmetry in the apex tier. See Expansion Opportunities — High Priority above.
+- **[apex/abandon-coalesce.md](/project/abandon-coalesce/)**: The methodological partner to conjunction-coalesce is named at apex line 160 but has no dedicated page. The discipline is doing load-bearing work in the apex's reply to the selection-effect worry (the granularity-of-differentiation argument). This is the most visible methodological-pair-asymmetry in the apex tier. See Expansion Opportunities — High Priority above.
 
 - **[concepts/naturally-occluded.md](/concepts/naturally-occluded/)**: The fourth-kind category at apex line 100 is categorially distinct from the other three (line 100 distinguishes it from Unexplored, Unexplorable, and Occluded) but the category-distinction itself has no dedicated treatment. The existing `biological-cognitive-closure` is the evidential basis; `fitness-beats-truth` is the formal anchor; the category as a *methodological-taxonomic* slot lacks its own page. Lower priority than abandon-coalesce because the apex's treatment is adequate for navigation; the dedicated page would primarily serve cross-cluster reference and the meta-epistemology-of-limits programme.
 

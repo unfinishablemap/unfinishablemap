@@ -481,8 +481,8 @@
     bracketing'
   target_filename: outer-review-2026-05-16-claude-opus-4-7.md
   status: pending
-  collect_attempts: 4
-  last_attempt_at: '2026-05-16T06:26:38.627452+00:00'
+  collect_attempts: 5
+  last_attempt_at: '2026-05-16T06:55:26.245728+00:00'
   failure_reason: null
   prompt_text: "I'd like your help auditing a specific article on The Unfinishable\
     \ Map (https://unfinishablemap.org), a philosophical platform exploring dualism,\

@@ -4,7 +4,7 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-05-16T06:55:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -18,7 +18,6 @@ concepts:
   - "[[illusionism]]"
   - "[[panpsychism]]"
   - "[[epiphenomenalism]]"
-  - "[[evaluative-phenomenal-character]]"
 related_articles:
   - "[[tenets]]"
   - "[[experiential-alignment]]"
@@ -28,7 +27,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
-last_deep_review: 2026-03-29T04:30:00+00:00
+last_deep_review: 2026-05-16T06:55:00+00:00
 ---
 
 The consciousness-value connection is the claim that consciousness is necessary for value to exist. Without phenomenal experience—without there being something it is like to be something—nothing can possess intrinsic value. A universe of matter in motion, however complex, contains no value unless something *experiences* that universe. Value enters reality only where experience exists.
@@ -190,10 +189,9 @@ These conditions do not currently obtain. The connection stands.
 - [[topics/free-will]] — How value-grounded consciousness enables genuine choice
 - [[illusionism]] — The strongest challenge and responses
 - [[panpsychism]] — What follows if consciousness is ubiquitous
-- [[evaluative-phenomenal-character|moral phenomenology and perception]] — Moral experience as evidence that consciousness carries evaluative structure
+- [[evaluative-phenomenal-character]] — Evaluative qualia and moral phenomenology: how consciousness carries intrinsic evaluative structure
 - [[moral-implications-of-genuine-agency]] — How genuine agency transforms the moral landscape
 - [[tenets]] — The foundational commitments grounding this view
-- [[evaluative-phenomenal-character|evaluative qualia]] — The phenomenal experiences carrying intrinsic evaluative character
 
 ## References
 
