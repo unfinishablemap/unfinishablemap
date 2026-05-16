@@ -1,8 +1,6 @@
 ---
 name: unfin-add-highlight-tweet
 description: Time-triggered wrapper around the add-highlight --tweet flow. Driven by a cron /loop firing daily at 08:00 UTC. Internal; not for direct invocation.
-disable-model-invocation: true
-user-invocable: false
 allowed-tools: Bash Skill
 ---
 

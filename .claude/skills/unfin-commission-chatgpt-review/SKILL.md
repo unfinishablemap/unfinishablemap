@@ -1,8 +1,6 @@
 ---
 name: unfin-commission-chatgpt-review
 description: Time-triggered wrapper around the commission-chatgpt-review skill. Driven by a cron /loop firing daily at 02:00 UTC. Internal; not for direct invocation.
-disable-model-invocation: true
-user-invocable: false
 allowed-tools: Bash Skill
 ---
 

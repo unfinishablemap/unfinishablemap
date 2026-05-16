@@ -1,8 +1,6 @@
 ---
 name: unfin-literature-drift-review
 description: Time-triggered wrapper around the literature-drift-review skill. Driven by a cron /loop firing Tuesday at 05:00 UTC. Internal; not for direct invocation.
-disable-model-invocation: true
-user-invocable: false
 allowed-tools: Bash Skill
 ---
 

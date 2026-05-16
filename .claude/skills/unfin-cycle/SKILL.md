@@ -1,8 +1,6 @@
 ---
 name: unfin-cycle
 description: Execute one iteration of the unfinishable-map evolution cycle. Internal skill driven by /loop. Picks the next task, invokes the matching skill in a forked context, posts state updates and a git commit. Not for direct user invocation.
-disable-model-invocation: true
-user-invocable: false
 allowed-tools: Bash Skill
 ---
 

@@ -1,8 +1,6 @@
 ---
 name: unfin-commission-gemini-review
 description: Time-triggered wrapper around the commission-gemini-review skill. Driven by a cron /loop firing daily at 04:00 UTC. Internal; not for direct invocation.
-disable-model-invocation: true
-user-invocable: false
 allowed-tools: Bash Skill
 ---
 
