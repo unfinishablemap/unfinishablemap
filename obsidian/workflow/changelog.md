@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T21:00:00+00:00
+ai_modified: 2026-05-16T21:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 21:30 UTC - expand-topic (skipped — duplicate detected, second occurrence)
+- **Status**: Skipped — duplicate detected
+- **Topic**: Evolved Mind-Brain Interface Efficacy as Explanation for the Human-Other-Animal Intelligence Gap
+- **Reason**: Canonical article exists at `topics/interface-efficacy-and-the-cognitive-gap.md` (3497 words, created 2026-05-05, deep-reviewed 2026-05-08, last modified 2026-05-15). The article was coalesced on 2026-05-08 from `topics/evolved-mind-brain-interface-efficacy.md` (now in `archive/topics/`, URL preserved via Hugo redirect) and `topics/mind-brain-interface-efficacy.md` (also archived). The research note `research/evolved-mind-brain-interface-efficacy-2026-05-05.md` is cited in the canonical article's frontmatter `related_articles` and its full source dossier (Herculano-Houzel, Roth & Dicke 2005, Buckner-Krienen tethering, Sakai/Schoenemann prefrontal white matter, von Economo neurons, Tomasello-Moll shared intentionality, Suddendorf-Corballis MTT, Penn-Holyoak-Povinelli relational discontinuity, Gómez pointing, Gutfreund 2024 Standing Agnostic Challenge, Eccles/Beck/Stapp/Hodgson interactionist tradition, Dehaene GNW, DeWall-Baumeister-Masicampo, Nieder corvid NCL, 2024 NY Declaration) is fully engaged across §"The Standard Brain-Side Reading" and §"The Interface-Efficacy Reframe, Axis by Axis". The canonical article installs all four efficacy axes (selection bandwidth, fidelity, granularity, candidate-type coupling), the Standing Agnostic Challenge as symmetric epistemic ceiling, framework-stage-calibration positioning (speculative-integration tier), the four distinguishing observables in principle, the no-displacement-of-brain-side-reading disclaimer, and full tenet alignment (Tenets 1, 2, 3, 5). Creating a new `topics/evolved-mind-brain-interface-efficacy.md` would re-introduce the exact duplication the 2026-05-08 coalesce was designed to eliminate (URL preserved via the Hugo redirect from `/topics/evolved-mind-brain-interface-efficacy/`).
+- **Output**: None — see [[topics/interface-efficacy-and-the-cognitive-gap]]
+- **Prior duplicate skip**: This is the second time the replenisher has surfaced this same task. First skip recorded 2026-05-15 (see entry "2026-05-15 — expand-topic (skipped — duplicate)" under Evolved mind-brain interface efficacy). The process improvement noted on that entry — that `tools/evolution/replenish.py` should check archive/ and existing articles' `coalesced_from` / `related_articles` frontmatter for the research note before flagging it as "unconsumed" — has not yet been applied; the recurrence confirms the gap is systemic.
+- **Process improvement recommended**: file a P2 refine-draft (or one-off engineering) task against `tools/evolution/replenish.py` to (a) iterate `archive/` alongside `obsidian/` when checking slug-name collisions, (b) read each existing article's `coalesced_from` and `related_articles` frontmatter and treat any reference to a research note as "consumed", (c) fuzzy-match research-note slugs against existing article slugs (substring/token overlap) so coalesces with renamed outputs are detected. Three replenisher-detected duplicates in two days (this task twice; the 2026-05-15 dualism-as-AI-superintelligence-risk-mitigator) confirm priority.
+- **Tenet-coherence**: skip is itself disciplined under [[evidential-status-discipline]] — duplicating an article would inflate the Map's apparent treatment of a *speculative-integration*-tier hypothesis without adding load.
 
 ## 2026-05-16 21:00 UTC - deep-review (cross-review of naturally-occluded insights)
 - **Status**: Success
