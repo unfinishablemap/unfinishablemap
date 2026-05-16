@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-05-11 04:31:00+00:00
+ai_modified: 2026-05-16 21:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -48,6 +48,8 @@ related_articles:
 - '[[self-transcendence-void]]'
 - '[[adaptive-cognitive-limits]]'
 - '[[imagination-and-creativity-void]]'
+- '[[naturally-occluded]]'
+- '[[fitness-beats-truth]]'
 title: Biological Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -109,7 +111,7 @@ Beyond these, the [expertise void](/voids/expertise-and-its-occlusion/) shows ho
 
 ## Naturally Occluded Voids
 
-The biological analysis suggests a refinement to the Map's void taxonomy: *naturally occluded* voids. Unlike the Unexplored, the cognitive system is actively shaped to avoid them. Unlike the Unexplorable, they are not necessarily beyond all possible cognition — only beyond *evolved* cognition. Unlike the Occluded (associated with deliberate concealment, as in [simulation](/concepts/simulation/) scenarios), they are maintained by natural selection rather than intentional agency. Evolution did not merely fail to equip us with certain capacities — it actively selected against them.
+The biological analysis grounds the Map's fourth void category — *[naturally occluded](/concepts/naturally-occluded/)* voids, now developed in a dedicated concept page. Unlike the Unexplored, the cognitive system is actively shaped to avoid them. Unlike the Unexplorable, they are not necessarily beyond all possible cognition — only beyond *evolved* cognition. Unlike the Occluded (associated with deliberate concealment as in [simulation](/concepts/simulation/) scenarios), they are maintained by natural selection rather than intentional agency. The [concept page](/concepts/naturally-occluded/) specifies the category's calibration burden, the falsifiability classes that license specific catalogue assignments, and the structural-feature criterion against indiscriminate adaptive labelling.
 
 ## The LLM Dimension Gap
 
@@ -121,7 +123,7 @@ Even if LLMs form representations outside human concept space, communication may
 
 Different biological sources produce different phenomenological signatures, mapped systematically in the [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/).
 
-**Architectural limits generate frustration** — trying and failing to think something, documented in the Map's [topology of cognitive failure](/voids/compound-failure-signatures/). **Adaptive limits generate satisfaction** — the limit feels like completion, not obstruction, producing an [understanding void](/voids/noetic-feelings-void/) at the species level: self-evidence as stop-sign. Hoffman's work suggests the deepest form: the perceptual interface hides voids seamlessly, producing illusory comprehension connected to [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/). **Developmental closure leaves no trace** — you cannot know what it was like to perceive faces without race categories. The word for this is [inventory-blindness](/concepts/inventory-blindness/).
+**Architectural limits generate frustration** — trying and failing to think something, documented in the [topology of cognitive failure](/voids/compound-failure-signatures/). **Adaptive limits generate satisfaction** — the limit feels like completion, producing an [understanding void](/voids/noetic-feelings-void/) at the species level: self-evidence as stop-sign. Hoffman's interface model suggests the deepest form, where the perceptual interface hides voids seamlessly through [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/). **Developmental closure leaves no trace** — you cannot know what it was like to perceive faces without race categories. The word for this is [inventory-blindness](/concepts/inventory-blindness/).
 
 Buddhist, Hindu, and Western contemplative traditions all report that self-investigation reaches a point where the investigator cannot be found. The consistent phenomenology across traditions suggests a species-level feature of self-directed cognition.
 

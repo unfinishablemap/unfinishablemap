@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 18:30:00+00:00
+ai_modified: 2026-05-16 21:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering concepts/naturally-occluded.md insights
+### P2: Refine topics/anaesthesia-and-the-consciousness-interface.md to integrate fresh anaesthetic-recovery research
+- **Type**: refine-draft
+- **Notes**: Promised follow-up to the 2026-03-26 coalesce superseding the earlier `anaesthetic-recovery-and-the-filter-problem.md` article (per the superseded note in the Completed Tasks section: "Replaced by P2 refine-draft task to integrate research into coalesced article"). The promised task never landed. Research file `research/anaesthetic-recovery-neuroscience-2026-03-26.md` covers Bhatt et al. 2021 (executive function returns first), neural-inertia / hysteresis between induction and emergence, stochastic emergence timing (mice), 2024–2025 IIT-φ during emergence, global-workspace re-engagement, Bodart KCC2 down-regulation as "active reboot." The coalesced topic article should now (a) cite the recovery-asymmetry pillar with current sources, (b) name the *active reboot* phenomenon as a load-bearing exhibit for non-passive consciousness restoration consistent with the interface model, (c) treat neural inertia / stochastic-emergence as evidence that emergence is not the mirror of induction, (d) preserve `[[evidential-status-discipline]]` — recovery-asymmetry as *strongly supported* empirical phenomenon, interface interpretation as *live hypothesis*, no upgrade of the *direct readout* of dualism. Estimated +400–700 words to the topic article, length-neutral or modest expansion. Tenet alignment: Dualism (Tenet 1), Bidirectional Interaction (Tenet 3).
+- **Source**: unconsumed_research
+- **Generated**: 2026-05-16
+
+### P2: Integrate project/abandon-coalesce.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New methodology page created 2026-05-16 (`project/abandon-coalesce.md`, 1987 words) sits orphaned — no inbound wikilinks from elsewhere in the catalogue. The article articulates the third leg of the coalesce discipline (alongside `conjunction-coalesce` and the implicit `redundancy-coalesce`): when evaluation finds neither pattern present and merging would damage rather than improve. Install reciprocal cross-links from: (a) `apex/conjunction-coalesce.md` — name `abandon-coalesce` as the partner discipline at the obvious bridge points; (b) `project/common-cause-null.md`, `project/evidential-status-discipline.md`, `project/cluster-integration-discipline.md` — the project/ tier hosts the named-discipline family, so reciprocal cross-links belong here; (c) any articles referencing the 2026-04-28 abandon-coalesce decision or the 2026-05-15 optimistic review High Priority §1. Honour `[[evidential-status-discipline]]` — name the discipline at correct register. Short scope (~200–400 words touched across 4–6 articles). Tenet alignment: methodological / Occam's Razor Has Limits (Tenet 5).
+- **Source**: orphan_integration
+- **Generated**: 2026-05-16
+
+### P2: Integrate project/calibration-audit-triple.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Methodology page created 2026-05-14 (`project/calibration-audit-triple.md`) defines the three-audit triple used by the literature-drift-review skill but has no inbound wikilinks from other catalogue articles. Install reciprocal cross-references from: (a) `project/evidential-status-discipline.md` — the calibration apparatus the triple operates against; (b) `project/common-cause-null.md` — sibling named discipline in the same family; (c) `project/automation.md` and any `project/` page describing the skill cadence (literature-drift-review runs weekly Tuesday 05:00 UTC); (d) where any topic article cites a drift-corrected claim, add link to the triple page as the methodology of record. Verify the page is reachable from the relevant `_index.md` section page so SEO indexing can pick it up. Honour `[[evidential-status-discipline]]`. Short scope (~150–300 words touched across 3–5 articles). Tenet alignment: methodological.
+- **Source**: orphan_integration
+- **Generated**: 2026-05-16
+
+### P2: Integrate project/mechanism-costs-cartography.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Methodology page created 2026-05-12 (`project/mechanism-costs-cartography.md`) — orphaned, no inbound wikilinks. Install reciprocal cross-references from: (a) the named-discipline family in `project/` (`evidential-status-discipline`, `common-cause-null`, `cluster-integration-discipline`, `abandon-coalesce`, `causal-budget-ledger`); (b) any topic/apex article doing mechanism-cost accounting (apex/conjunction-coalesce, apex/phenomenal-output-causal-machinery-dissociation, topics/clinical-neuroplasticity-evidence-for-bidirectional-causation are likely candidates); (c) any `apex/` page summarising the methodology stack. Confirm reachability from a section-index page. Honour `[[evidential-status-discipline]]`. Short scope (~150–300 words touched across 3–5 articles). Tenet alignment: methodological / Occam's Razor Has Limits (Tenet 5).
+- **Source**: orphan_integration
+- **Generated**: 2026-05-16
+
+### ✓ 2026-05-16: Cross-review related articles considering concepts/naturally-occluded.md insights
 - **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-05-16 `expand-topic` creating `obsidian/concepts/naturally-occluded.md`, which formally promotes the "Naturally Occluded" category from informal mention to load-bearing fourth-kind anchored by the FBT theorem. Today's deep-review (`reviews/deep-review-2026-05-16-naturally-occluded.md`) found the article first-review-stable. The cross-review pass should install reciprocal back-links from the most-relevant existing articles: (a) `apex/taxonomy-of-voids.md` — the existing "From Three Kinds to Four" section should now cite the dedicated concept page rather than re-deriving the fourth-kind framing; verify the apex's three-kinds → four-kinds transition is consistent with the concept page's FBT-theorem anchoring. (b) `voids/three-kinds-of-void.md` — the older three-kinds article should be brought into consistency with the now-canonical four-kinds framing (or the older three-kinds article should be flagged for archive/coalesce if it has been superseded). (c) `voids/biological-cognitive-closure.md` — the FBT-theorem grounding belongs in the closure literature this article catalogues. (d) `concepts/fitness-beats-truth.md` (if it exists) or whichever article carries the FBT-theorem treatment — install reciprocal cross-reference. (e) 1–2 secondary targets per the deep-review's cross-link suggestions. Honour `[[evidential-status-discipline]]` — FBT theorem is a formal-mathematical anchor, not a metaphysical-truth claim; ensure cross-references preserve this register. Estimated scope: ~200–400 words touched across 5–7 articles. Tenet alignment: methodological + Tenet 1 (Dualism — the four-kinds framing supports the bounded-witness architecture).
+- **Status**: completed
+- **Notes**: Chain from 2026-05-16 `expand-topic` creating `obsidian/concepts/naturally-occluded.md`. Earlier today's single-doc deep-review found the article first-review-stable; the 20:00 UTC cross-review handled `voids/three-kinds-of-void.md` (target (b)). This pass completes the back-link installation by editing the remaining four most-relevant articles: (a) `apex/taxonomy-of-voids.md` — added `[[naturally-occluded]]` to related_articles; "From Three Kinds to Four" section now links to and cites the dedicated concept page at first mention rather than re-deriving the FBT-theorem anchor; tenet-routing MQI paragraph also picks up the link (+5 words, length-neutral). (c) `voids/biological-cognitive-closure.md` — added `[[naturally-occluded]]` and `[[fitness-beats-truth]]` to related_articles; `## Naturally Occluded Voids` section rewritten to cite the dedicated concept page and summarise what it adds (calibration burden, falsifiability classes, structural-feature criterion); compensating prose trim in phenomenology-of-biological-closure section (+8 words, length-neutral). (d) `concepts/fitness-beats-truth.md` — added related_articles + Further Reading link; new section "Anchoring the Naturally Occluded Category" between "Contestation and Limits" and "Convergent Support" names FBT's role as *formal anchor* at *strongly supported* tier for the bounded perceptual site and explains the bounded-anchor structure (+157 words, ok status). (e) `concepts/possibility-probability-slippage.md` — added related_articles + Further Reading link; new worked example "Naturally Occluded — methodological self-application" in Worked Examples section noting the article's self-identification as carrying the strongest slippage risk and its tier-stratified calibration (+176 words, ok status). Secondary candidates (`meta-epistemology-of-limits`, `self-maintained-cognitive-limits`) evaluated and declined as not load-bearing; `adaptive-cognitive-limits` already linked. All edits honour `[[evidential-status-discipline]]` — FBT remains *strongly supported*, extensions *realistic possibility*, catalogue assignments *live hypothesis*; no cross-reference upgrades any void's tier. Possibility/probability slippage check passes. No named-opponent engagements in scope.
 - **Source**: chain (expand-topic naturally-occluded.md 2026-05-16)
 - **Generated**: 2026-05-16
+- **Completed**: 2026-05-16
+- **Output**: `reviews/deep-review-2026-05-16c-cross-review-naturally-occluded.md` — 4 files modified (apex/taxonomy-of-voids, voids/biological-cognitive-closure, concepts/fitness-beats-truth, concepts/possibility-probability-slippage); reciprocal cross-references installed with FBT-as-formal-anchor register preserved.
 
 ### P3: Deep review topics/constitutive-exclusion.md
 - **Type**: deep-review
@@ -3680,6 +3706,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-16: Write topic article on Evolved Mind-Brain Interface Efficacy as Explanation for the Human-Other-Animal Intelligence Gap
+- **Type**: expand-topic
+- **Notes**: Research completed 2026-05-05 in `research/evolved-mind-brain-interface-efficacy-2026-05-05.md` (4998 words, drawing on Herculano-Houzel neuron-counting, Roth/Dicke 2005, Buckner/Krienen tethering hypothesis, Tomasello cumulative culture, Suddendorf/Corballis mental time travel, Eccles psychon interactionism, von Economo neurons, Stapp quantum Zeno, New York Declaration on Animal Consciousness 2024) but no corresponding article yet exists. Synthesise into a topic-tier treatment that frames the human-vs-other-animal intelligence gap as plausibly explained by *interface efficacy* rather than (only) neural-architecture differences — i.e. the same physical substrate may admit different gains of conscious-causal influence on quantum-statistical outcomes. Honour `[[evidential-status-discipline]]`: interactionist-interface explanation as *live hypothesis* in a contested empirical area, not as established. Engage the standard physicalist alternatives (Buckner/Krienen tethering, Tomasello cumulative culture, Penn/Holyoak/Povinelli relational reasoning) at the framework boundary (concede empirical content; locate disagreement at the level of what *suffices* to explain the gap). Target section: topics/ (243/250 — 7 slots remaining). Estimated 2500–3500 words. Tenet alignment: Bidirectional Interaction (Tenet 3), Minimal Quantum Interaction (Tenet 2).
 
 ### ✓ 2026-05-16: Condense topics/introspection-architecture-independence-scoring.md (4017 words, 134% of topics hard threshold)
 - **Type**: condense

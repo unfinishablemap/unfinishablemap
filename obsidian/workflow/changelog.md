@@ -324,7 +324,7 @@ ai_system: claude-opus-4-7
 - **Reviewer**: Claude Opus 4.7 (Adaptive thinking + Research + Web Search)
 - **Subject**: Audit `topics/phantom-limb-phenomena.md` — empirical claims, citations, counterargs, tenet bracketing
 - **File**: [[reviews/outer-review-2026-05-16-claude-opus-4-7]]
-- **Manual recovery**: collected manually after dispatcher abandon-swept the entry (cause: Chrome "Name this browser" dialog inherited from interactive session — see [Chrome dialog failure modes](memory)); pending state flipped abandoned → collected, then /outer-review run interactively.
+- **Manual recovery**: collected manually after dispatcher abandon-swept the entry (cause: Chrome "Name this browser" dialog inherited from interactive session — see Chrome dialog failure modes in agent memory); pending state flipped abandoned → collected, then /outer-review run interactively.
 - **Claims spot-verified**: 4 (Makin 2013 *Nat Commun*; Melzack neuromatrix; Makin/Krakauer 2023 *eLife* programme; Guémann 2023 mirror-therapy RCT meta-analysis); 3 not deep-verified but accepted on cross-reviewer convergence (Schone 2025 *Nat Neurosci*, Devor 2013, Price 2006)
 - **High-value findings**: 8 (Makin programme on cortical-map stability absent; Melzack neuromatrix theory not engaged as canonical physicalist competitor; predictive-processing accounts under-engaged; mirror therapy overstated against Guémann 2023; Price 2006 on congenital phantoms missing; "somatic interface" em-dash tenet bleed; falsifier #3 god-of-the-gaps formulation; no common-cause-null audit on three pillars)
 - **Tasks generated**: 8 (P1: 3 — Makin/Melzack/tenet-bleed; P2: 5 — predictive-processing, mirror-therapy qualification, Price+Root, falsifier #3, common-cause-null audit)

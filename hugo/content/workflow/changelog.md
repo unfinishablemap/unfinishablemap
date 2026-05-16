@@ -1,13 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 20:38:03+00:00
+ai_modified: 2026-05-16 21:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-16 21:30 UTC - expand-topic (skipped — duplicate detected, second occurrence)
+- **Status**: Skipped — duplicate detected
+- **Topic**: Evolved Mind-Brain Interface Efficacy as Explanation for the Human-Other-Animal Intelligence Gap
+- **Reason**: Canonical article exists at `topics/interface-efficacy-and-the-cognitive-gap.md` (3497 words, created 2026-05-05, deep-reviewed 2026-05-08, last modified 2026-05-15). The article was coalesced on 2026-05-08 from `topics/evolved-mind-brain-interface-efficacy.md` (now in `archive/topics/`, URL preserved via Hugo redirect) and `topics/mind-brain-interface-efficacy.md` (also archived). The research note `research/evolved-mind-brain-interface-efficacy-2026-05-05.md` is cited in the canonical article's frontmatter `related_articles` and its full source dossier (Herculano-Houzel, Roth & Dicke 2005, Buckner-Krienen tethering, Sakai/Schoenemann prefrontal white matter, von Economo neurons, Tomasello-Moll shared intentionality, Suddendorf-Corballis MTT, Penn-Holyoak-Povinelli relational discontinuity, Gómez pointing, Gutfreund 2024 Standing Agnostic Challenge, Eccles/Beck/Stapp/Hodgson interactionist tradition, Dehaene GNW, DeWall-Baumeister-Masicampo, Nieder corvid NCL, 2024 NY Declaration) is fully engaged across §"The Standard Brain-Side Reading" and §"The Interface-Efficacy Reframe, Axis by Axis". The canonical article installs all four efficacy axes (selection bandwidth, fidelity, granularity, candidate-type coupling), the Standing Agnostic Challenge as symmetric epistemic ceiling, framework-stage-calibration positioning (speculative-integration tier), the four distinguishing observables in principle, the no-displacement-of-brain-side-reading disclaimer, and full tenet alignment (Tenets 1, 2, 3, 5). Creating a new `topics/evolved-mind-brain-interface-efficacy.md` would re-introduce the exact duplication the 2026-05-08 coalesce was designed to eliminate (URL preserved via the Hugo redirect from `/topics/evolved-mind-brain-interface-efficacy/`).
+- **Output**: None — see [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/)
+- **Prior duplicate skip**: This is the second time the replenisher has surfaced this same task. First skip recorded 2026-05-15 (see entry "2026-05-15 — expand-topic (skipped — duplicate)" under Evolved mind-brain interface efficacy). The process improvement noted on that entry — that `tools/evolution/replenish.py` should check archive/ and existing articles' `coalesced_from` / `related_articles` frontmatter for the research note before flagging it as "unconsumed" — has not yet been applied; the recurrence confirms the gap is systemic.
+- **Process improvement recommended**: file a P2 refine-draft (or one-off engineering) task against `tools/evolution/replenish.py` to (a) iterate `archive/` alongside `obsidian/` when checking slug-name collisions, (b) read each existing article's `coalesced_from` and `related_articles` frontmatter and treat any reference to a research note as "consumed", (c) fuzzy-match research-note slugs against existing article slugs (substring/token overlap) so coalesces with renamed outputs are detected. Three replenisher-detected duplicates in two days (this task twice; the 2026-05-15 dualism-as-AI-superintelligence-risk-mitigator) confirm priority.
+- **Tenet-coherence**: skip is itself disciplined under [evidential-status-discipline](/project/evidential-status-discipline/) — duplicating an article would inflate the Map's apparent treatment of a *speculative-integration*-tier hypothesis without adding load.
+
+## 2026-05-16 21:00 UTC - deep-review (cross-review of naturally-occluded insights)
+- **Status**: Success
+- **Files**: [taxonomy-of-voids](/apex/taxonomy-of-voids/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [fitness-beats-truth](/concepts/fitness-beats-truth/), [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
+- **Driver**: P2 chain task from 2026-05-16 expand-topic creating [naturally-occluded](/concepts/naturally-occluded/). Earlier today's single-doc deep-review (`reviews/deep-review-2026-05-16-naturally-occluded.md`) found the article first-review-stable; the 20:00 UTC cross-review handled [three-kinds-of-void](/voids/three-kinds-of-void/) (target (b)). This pass completes the back-link installation by editing the remaining four most-relevant articles where the new concept page does load-bearing work.
+- **Word counts**: apex 4373 → 4378 (+5; soft_warning preserved length-neutral); biological-cognitive-closure 2030 → 2038 (+8; soft_warning preserved length-neutral); fitness-beats-truth 1687 → 1844 (+157; ok); possibility-probability-slippage 1972 → 2148 (+176; ok)
+- **Critical issues addressed**: 0 (no critical issues — the cross-review pass installs reciprocal back-links and methodological cross-citations to the new concept page)
+- **Medium issues addressed**: 1 (apex's "From Three Kinds to Four" section re-derived the fourth-kind framing without citing the dedicated concept page — now links to and cites it at first mention)
+- **Enhancements made**: 4 (apex links + tenet-routing MQI paragraph cross-link; biological-cognitive-closure's `## Naturally Occluded Voids` section rewritten to cite dedicated page and summarise calibration burden, falsifiability classes, structural-feature criterion; fitness-beats-truth gains a new "Anchoring the Naturally Occluded Category" section explaining its role as formal anchor at *strongly supported* tier; possibility-probability-slippage gains a worked-example "Naturally Occluded — methodological self-application" entry as the cleanest exhibit of a category page operationalising the discipline against its own strongest temptation)
+- **Engagement modes**: No named-opponent counterargument engagements in scope. Cross-links are methodological / cluster-integration moves.
+- **Possibility/probability slippage check**: PASSES. FBT remains *strongly supported*; extensions *realistic possibility*; catalogue assignments *live hypothesis*. No void's tier is upgraded by any cross-reference.
+- **Stability**: Four-kinds extension now load-bearing across the void cluster — canonical at [taxonomy-of-voids](/apex/taxonomy-of-voids/) and [naturally-occluded](/concepts/naturally-occluded/); acknowledged at [three-kinds-of-void](/voids/three-kinds-of-void/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [fitness-beats-truth](/concepts/fitness-beats-truth/), [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/); operationalised against slippage at [possibility-probability-slippage](/concepts/possibility-probability-slippage/).
+- **Output**: [deep-review-2026-05-16c-cross-review-naturally-occluded](/reviews/deep-review-2026-05-16c-cross-review-naturally-occluded/)
 
 ## 2026-05-16 20:38 UTC - condense
 - **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
@@ -306,7 +328,7 @@ title: Changelog
 - **Reviewer**: Claude Opus 4.7 (Adaptive thinking + Research + Web Search)
 - **Subject**: Audit `topics/phantom-limb-phenomena.md` — empirical claims, citations, counterargs, tenet bracketing
 - **File**: [outer-review-2026-05-16-claude-opus-4-7](/reviews/outer-review-2026-05-16-claude-opus-4-7/)
-- **Manual recovery**: collected manually after dispatcher abandon-swept the entry (cause: Chrome "Name this browser" dialog inherited from interactive session — see [Chrome dialog failure modes](memory)); pending state flipped abandoned → collected, then /outer-review run interactively.
+- **Manual recovery**: collected manually after dispatcher abandon-swept the entry (cause: Chrome "Name this browser" dialog inherited from interactive session — see Chrome dialog failure modes in agent memory); pending state flipped abandoned → collected, then /outer-review run interactively.
 - **Claims spot-verified**: 4 (Makin 2013 *Nat Commun*; Melzack neuromatrix; Makin/Krakauer 2023 *eLife* programme; Guémann 2023 mirror-therapy RCT meta-analysis); 3 not deep-verified but accepted on cross-reviewer convergence (Schone 2025 *Nat Neurosci*, Devor 2013, Price 2006)
 - **High-value findings**: 8 (Makin programme on cortical-map stability absent; Melzack neuromatrix theory not engaged as canonical physicalist competitor; predictive-processing accounts under-engaged; mirror therapy overstated against Guémann 2023; Price 2006 on congenital phantoms missing; "somatic interface" em-dash tenet bleed; falsifier #3 god-of-the-gaps formulation; no common-cause-null audit on three pillars)
 - **Tasks generated**: 8 (P1: 3 — Makin/Melzack/tenet-bleed; P2: 5 — predictive-processing, mirror-therapy qualification, Price+Root, falsifier #3, common-cause-null audit)
