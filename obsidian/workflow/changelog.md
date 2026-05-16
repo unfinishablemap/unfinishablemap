@@ -5,6 +5,15 @@ ai_modified: 2026-05-16T15:49:23+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-16 16:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Driver**: outer-review-2026-05-16-claude-opus-4-7.md §4.3 + §5.6/6b. The article's three "philosophically loaded" features (vivid qualia, top-down modulation, congenital phantoms) were listed in the lede as a cumulative case that read as three independent lines of evidence. The reviewer's auditor judgment: they are not independent — all three rest on the same underlying observation that the brain centrally constructs the felt body. Methodology recommendation #4 (site-wide): every Map article with a cumulative ≥2-pillar case should run common-cause-null in the article body, not only in editor-internal review.
+- **Changes**: Added new section §"Common-Cause-Null Audit of the Three Pillars" {#common-cause-null-audit} (~620 words, 4 paragraphs) between §"The Predictive-Processing Account..." and §"Relation to Site Perspective". Audit identifies the shared upstream (brain-constructed felt body) on which all three pillars rest; recovers the partially-independent residuals each pillar adds (clinical specifiability; causal-pathway-shape; deeper-than-personal-history); specifies which residuals are absorbable by predictive processing and which sit at the framework boundary. Cross-references [[common-cause-null]] and [[evidential-status-discipline]] explicitly. Reformulated the lede (line 40) to flag the shared central-construction base upfront with forward-reference to the audit. Light touch on §"Relation to Site Perspective" Dualism subsection cross-referencing the audit to the existing "consistent with rather than independent evidence for" calibration.
+- **Calibration**: Sharpened from three-fold independent triangulation to one observation plus three residual extensions, with partial independent force of two extensions (causal-pathway-shape; deeper-than-personal-history) preserved against collapse. Honours [[evidential-status-discipline]] by not weakening genuinely independent evidence; honours [[common-cause-null]] by exhibiting the discipline in the article body rather than in editor-internal review. Methodology recommendation #4 from the outer review is now implemented in the article body.
+- **Scope**: ~620 words added (new section) + ~50 words reformulated in lede + ~15 words added in Dualism subsection. No new citations. Conclusion preserved. Altered-state-symmetry scanner returns None. No editor-vocabulary leaks in article body — verified.
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
+
 ## 2026-05-16 15:49 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/phantom-limb-phenomena]]
