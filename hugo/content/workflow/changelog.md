@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 00:52:00+00:00
+ai_modified: 2026-05-16 01:23:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-16 01:23 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Concept page `naturally-occluded` — the fourth-kind void category
+- **Output**: [naturally-occluded](/concepts/naturally-occluded/)
+- **Word count**: 2488 (100% of 2500 soft target — ok)
+- **Based on research**: no (consolidation of existing apex/taxonomy-of-voids "From Three Kinds to Four" framing, the [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) concept, [fitness-beats-truth](/concepts/fitness-beats-truth/) formal anchor, and [biological-cognitive-closure](/voids/biological-cognitive-closure/) evidential basis). Article (a) states the category cleanly — opacity that natural selection actively maintained because visibility carried fitness costs without behavioural benefit; (b) distinguishes the four void-categories at category level — what each commits to about *why* the failure persists; the Naturally Occluded category adds the load-bearing claim that evolution selects for the opacity rather than tolerating it as overhead; (c) catalogues exemplars on the adaptive reading — introspection-architecture sub-cluster ([narrative-void](/voids/narrative-void/), [source-attribution-void](/voids/source-attribution-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [confabulation-void](/voids/confabulation-void/)) on the adaptive narrative-coherence hypothesis; [agency-void](/voids/agency-void/) on the Stapp-engagement reading; [noetic-feelings-void](/voids/noetic-feelings-void/) on the evolved-attention-gating hypothesis; (d) names the methodological move — voids can be both Occluded *and* Naturally Occluded (dual classification adds independent evidential weight); (e) honours [evidential-status-discipline](/project/evidential-status-discipline/) with explicit calibration: FBT theorem at *strongly supported*, extension-beyond-perception at *realistic possibility, contested*, specific catalogue assignments at *live hypothesis*; names what would constitute progress (population-genetic models, comparative cognition data, developmental evidence); (f) cross-linked to [taxonomy-of-voids](/apex/taxonomy-of-voids/) (canonical home), [three-kinds-of-void](/voids/three-kinds-of-void/) (the taxonomy extended), [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) (broader concept), [fitness-beats-truth](/concepts/fitness-beats-truth/) (formal anchor), [biological-cognitive-closure](/voids/biological-cognitive-closure/) (evidential basis), [evidential-status-discipline](/project/evidential-status-discipline/), [possibility-probability-slippage](/concepts/possibility-probability-slippage/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/), [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/), the four introspection-architecture cluster voids, [agency-void](/voids/agency-void/). Tenet alignment: methodological + Tenet 1 (Dualism — bounded-witness architecture predicts why first-person verification of dualism is structurally hard) + Tenet 2 (Minimal Quantum Interaction — the Stapp-engagement reading deploys the category load-bearingly to defend the sub-threshold-detection feature).
 
 ## 2026-05-16 00:52 UTC - deep-review
 - **Status**: Success
