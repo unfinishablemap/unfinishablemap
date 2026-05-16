@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-13
-ai_modified: 2026-05-13 13:51:00+00:00
+ai_modified: 2026-05-16 04:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
 created: 2026-05-13
-date: &id001 2026-05-13
+date: &id001 2026-05-16
 description: Voids catalogued under a framework cannot supply framework-independent
   evidence for that framework. The discount applies per-cluster independence scoring
   and prohibits double-counting of tenet-generated voids.
@@ -30,6 +30,7 @@ related_articles:
 - '[[apex/taxonomy-of-voids]]'
 - '[[the-surplus-void]]'
 - '[[topics/introspection-architecture-independence-scoring]]'
+- '[[apophatic-cartography-four-criteria]]'
 - '[[tenet-generated-voids]]'
 - '[[voids]]'
 - '[[the-convergence-argument-for-dualism]]'
@@ -111,6 +112,7 @@ The catalogue retains its value under the discount. Voids document what the stan
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — the sub-catalogue subject to the strict prohibition
 - [the-surplus-void](/voids/the-surplus-void/) — first worked exhibit: the article that retracted its evidence-of-dualism framing in light of the circularity diagnosis
 - [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) — second worked exhibit: the four-void introspection-architecture sub-cluster scored against the four criteria, partially retaining the cluster's evidential weight via patient-population despite-commitments anchors
+- [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) — the calibration apparatus this discount operates with; the four criteria define the scoring categories the per-cluster discount uses
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — the convergence claim the discount most heavily constrains
 - [voids](/voids/) — the catalogue's index
 

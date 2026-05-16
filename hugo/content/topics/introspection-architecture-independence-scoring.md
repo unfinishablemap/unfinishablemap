@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-05-16 02:52:00+00:00
+ai_modified: 2026-05-16 04:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[evidential-status-discipline]]'
 - '[[tenet-generated-voids]]'
 - '[[apophatic-cartography]]'
+- '[[apophatic-cartography-four-criteria]]'
 - '[[tenets]]'
 title: 'Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster'
 topics:
@@ -53,7 +54,7 @@ The introspection-architecture sub-cluster names the cluster of voids documentin
 
 ## The Apex's Four Criteria
 
-[taxonomy-of-voids](/apex/taxonomy-of-voids/) at line 162 cites [apophatic-cartography](/voids/apophatic-cartography/)'s four criteria for treating cognitive failure as data about genuine limits rather than current ignorance:
+[taxonomy-of-voids](/apex/taxonomy-of-voids/) at line 162 cites the four criteria from [apophatic-cartography](/voids/apophatic-cartography/) (consolidated and operationalised at the dedicated [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) concept page) for treating cognitive failure as data about genuine limits rather than current ignorance:
 
 1. **Signature specificity.** The cluster must produce a *specific* failure signature, not generic mystery — different voids produce different signatures.
 2. **Structured persistence.** The failure must persist across time and across competing frameworks.
@@ -148,7 +149,8 @@ The exhibit is a scoring artefact, not a closure. The despite-commitments / beca
 - [voids-circularity-discount](/project/voids-circularity-discount/) — the cluster-level application of common-cause-null
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the single-claim calibration layer
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — the strict-prohibition sub-catalogue the discount applies to
-- [apophatic-cartography](/voids/apophatic-cartography/) — source of the four scoring criteria
+- [apophatic-cartography](/voids/apophatic-cartography/) — originating page with the broader five-criteria list
+- [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) — dedicated concept page consolidating the four scoring criteria as the catalogue's calibration backbone; this exhibit is its partial-retention case
 - [introspection](/concepts/introspection/) — the architectural feature the cluster is about
 - [cross-review-2026-05-15-introspection-architecture-cluster-audit](/reviews/cross-review-2026-05-15-introspection-architecture-cluster-audit/) — the audit that named the cluster
 

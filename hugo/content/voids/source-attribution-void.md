@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-05-15 16:20:00+00:00
+ai_modified: 2026-05-16 04:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,6 +24,7 @@ related_articles:
 - '[[tenets]]'
 - '[[self-opacity]]'
 - '[[topics/introspection-architecture-independence-scoring]]'
+- '[[apophatic-cartography-four-criteria]]'
 - '[[thought-stream-void]]'
 - '[[narrative-void]]'
 - '[[interested-party-void]]'
@@ -50,7 +51,7 @@ topics:
 
 Consciousness encounters its own contents already detached from their origin. A thought arrives and feels like *mine*; a belief feels reasoned-into; an intuition feels evident—yet nothing in the content itself specifies where it came from. The Unfinishable Map names the source-attribution void for the structural limit on the ability of consciousness to determine, from inside, whether a given mental content was self-generated, implanted by suggestion, primed by recent context, retrieved from forgotten exposure, or confabulated post-hoc to rationalise an outcome. Mental content lacks native origin tags. What introspection delivers is reconstruction, not readout.
 
-This void is distinct from neighbouring limits. [self-opacity](/voids/self-opacity/) concerns mechanism-blindness; [thought-stream-void](/voids/thought-stream-void/) concerns the arising and vanishing of mental content; [narrative-void](/voids/narrative-void/) concerns the construction of coherent self-stories. The source-attribution void sits at a sharper point: even when machinery and arising are granted, the *origin tag* for any given thought is not the kind of thing introspection delivers. Origin is inferred from surface features—vividness, fluency, narrative fit with self-image—and the inference fails systematically in characteristic conditions. This article gives the abstract apophatic treatment; [source-attribution-divergence](/topics/source-attribution-divergence/) gives the topic-tier subject explainer—within-species spread in source-monitoring accuracy as the third leg of the *within-species phenomenal-divergence* cluster anchored at [aphantasia](/topics/aphantasia/) and [synaesthesia](/topics/synaesthesia/). [The independence-scoring exhibit](/topics/introspection-architecture-independence-scoring/) scores this void within the four-void introspection-architecture sub-cluster against the catalogue's four criteria — Johnson, Hashtroudi & Lindsay's source-monitoring framework contributes to the cluster's healthy-adult despite-commitments channel.
+This void is distinct from neighbouring limits. [self-opacity](/voids/self-opacity/) concerns mechanism-blindness; [thought-stream-void](/voids/thought-stream-void/) concerns the arising and vanishing of mental content; [narrative-void](/voids/narrative-void/) concerns the construction of coherent self-stories. The source-attribution void sits at a sharper point: even when machinery and arising are granted, the *origin tag* for any given thought is not the kind of thing introspection delivers. Origin is inferred from surface features—vividness, fluency, narrative fit with self-image—and the inference fails systematically in characteristic conditions. This article gives the abstract apophatic treatment; [source-attribution-divergence](/topics/source-attribution-divergence/) gives the topic-tier subject explainer—within-species spread in source-monitoring accuracy as the third leg of the *within-species phenomenal-divergence* cluster anchored at [aphantasia](/topics/aphantasia/) and [synaesthesia](/topics/synaesthesia/). [The independence-scoring exhibit](/topics/introspection-architecture-independence-scoring/) scores this void within the four-void introspection-architecture sub-cluster against the [catalogue's four criteria](/concepts/apophatic-cartography-four-criteria/) — Johnson, Hashtroudi & Lindsay's source-monitoring framework contributes to the cluster's healthy-adult despite-commitments channel.
 
 ## The Unmarked Arrival
 

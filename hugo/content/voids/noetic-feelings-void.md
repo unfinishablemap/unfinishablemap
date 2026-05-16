@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-05-15 13:20:00+00:00
+ai_modified: 2026-05-16 04:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -39,6 +39,7 @@ related_articles:
 - '[[meta-epistemology-of-limits]]'
 - '[[thought-stream-void]]'
 - '[[apophatic-cartography]]'
+- '[[apophatic-cartography-four-criteria]]'
 - '[[three-kinds-of-void]]'
 - '[[disappearance-voids]]'
 - '[[meaning-void]]'
@@ -68,7 +69,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Consciousness does not terminate inquiry by argument. It terminates inquiry by feeling. The sense that a recalled answer is right, that a face is familiar, that an explanation is sufficient, that something is *obvious*—these *noetic feelings* decide, from inside, when to trust, when to search further, when to stop. The Unfinishable Map names the noetic feelings void for the structural limit this creates: the signals that gate cognition are produced by heuristic machinery consciousness cannot inspect, and any attempt to audit those signals must deploy more signals of the same kind. The void's category-mix is **Occluded + Unexplorable**—occluded at its surface and unexplorable at its core, a recursive opacity at the centre of cognitive self-governance. It is the gating-signal face of the introspection-architecture sub-cluster, alongside [narrative-void](/voids/narrative-void/), [source-attribution-void](/voids/source-attribution-void/), [confabulation-void](/voids/confabulation-void/), and the methodological [self-opacity](/voids/self-opacity/); [the independence-scoring exhibit](/topics/introspection-architecture-independence-scoring/) scores the four-void cluster jointly against the catalogue's four criteria.
+Consciousness does not terminate inquiry by argument. It terminates inquiry by feeling. The sense that a recalled answer is right, that a face is familiar, that an explanation is sufficient, that something is *obvious*—these *noetic feelings* decide, from inside, when to trust, when to search further, when to stop. The Unfinishable Map names the noetic feelings void for the structural limit this creates: the signals that gate cognition are produced by heuristic machinery consciousness cannot inspect, and any attempt to audit those signals must deploy more signals of the same kind. The void's category-mix is **Occluded + Unexplorable**—occluded at its surface and unexplorable at its core, a recursive opacity at the centre of cognitive self-governance. It is the gating-signal face of the introspection-architecture sub-cluster, alongside [narrative-void](/voids/narrative-void/), [source-attribution-void](/voids/source-attribution-void/), [confabulation-void](/voids/confabulation-void/), and the methodological [self-opacity](/voids/self-opacity/); [the independence-scoring exhibit](/topics/introspection-architecture-independence-scoring/) scores the four-void cluster jointly against the [catalogue's four criteria](/concepts/apophatic-cartography-four-criteria/).
 
 The feelings are transparent in a treacherous sense: they do not present themselves as feelings, they present their objects. A feeling of knowing presents as *awareness that one knows*; understanding as *direct apprehension of how things fit together*; obviousness as the absence of anything needing investigation. This mode of presentation hides the affective-heuristic character cognitive science has established. Consciousness receives a verdict with no visible derivation—and uses the verdict to decide whether the verdict needs checking.
 

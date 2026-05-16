@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-05-15 16:51:00+00:00
+ai_modified: 2026-05-16 04:40:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-30 03:11:00+00:00
 apex_sources:
@@ -30,7 +30,7 @@ concepts:
 - '[[introspection]]'
 - '[[simulation]]'
 created: 2026-03-10
-date: &id001 2026-05-15
+date: &id001 2026-05-16
 description: Sixty+ cognitive voids cluster at the consciousness-matter interface—structured
   taxonomy supporting the Map's tenet-package as framework-internal coherence under
   the common-cause-null discount.
@@ -83,6 +83,7 @@ related_articles:
 - '[[confabulation-void]]'
 - '[[narrative-void]]'
 - '[[source-attribution-void]]'
+- '[[apophatic-cartography-four-criteria]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -166,7 +167,7 @@ These signatures rarely appear in isolation. Overlapping limits produce qualitat
 
 Some voids prove *conjoint* rather than merely interacting—the [agency void](/voids/agency-void/), [voids between minds](/voids/voids-between-minds/), [erasure void](/voids/erasure-void/), [suspension void](/voids/suspension-void/), [imagery void](/voids/imagery-void/), [vagueness void](/voids/vagueness-void/), [common-knowledge void](/voids/common-knowledge-void/), and the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) face of [the quantitative comprehension void](/voids/the-quantitative-comprehension-void/) are multi-face voids whose joint structure does work no single face could. The [conjunction-coalesce](/apex/conjunction-coalesce/) discipline preserves these as single entries with the seam between faces visible, because the seam itself encodes the claim. The complementary **abandon-coalesce** discipline holds the *gap* between adjacent voids visible: recent passes across affect, attribution, self, temporal, meta, and existential clusters abandoned every merger after finding adjacent voids deliberately differentiated. Distinct failure signatures across nearby voids are exactly what a pure curation bias would not predict.
 
-The specificity matters. If every void produced the same generic failure—vague mystery, undifferentiated confusion—the taxonomy would collapse into unfalsifiable mysticism. Different voids producing different signatures is evidence that the taxonomy tracks real structure: the [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) maps each signature to its characteristic felt quality, confirming the distinctions are phenomenologically real. As [apophatic cartography](/voids/apophatic-cartography/) formalises, signature specificity is one of four criteria—alongside structured persistence across time and frameworks, cross-observer convergence across independent traditions, and framework independence (the failure persists even when its motivating assumptions are abandoned)—for treating cognitive failure as data about genuine limits rather than current ignorance.
+The specificity matters. If every void produced the same generic failure—vague mystery, undifferentiated confusion—the taxonomy would collapse into unfalsifiable mysticism. Different voids producing different signatures is evidence that the taxonomy tracks real structure: the [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) maps each signature to its characteristic felt quality, confirming the distinctions are phenomenologically real. As [apophatic cartography](/voids/apophatic-cartography/) formalises, signature specificity is one of [four criteria](/concepts/apophatic-cartography-four-criteria/)—alongside structured persistence across time and frameworks, cross-observer convergence across independent traditions, and framework independence (the failure persists even when its motivating assumptions are abandoned)—for treating cognitive failure as data about genuine limits rather than current ignorance. The dedicated concept page operationalises each criterion against the two worked exhibits and bounds the criteria as *calibration* rather than *proof*.
 
 ## The Convergence Pattern
 

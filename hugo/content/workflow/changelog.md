@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 03:52:00+00:00
+ai_modified: 2026-05-16 04:50:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-16 04:50 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Task**: Cross-review related articles in light of `concepts/apophatic-cartography-four-criteria.md` insights (chain from 2026-05-16 expand-topic)
+- **Focal article**: [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) (first-review-stable per [2026-05-16 deep-review](/reviews/deep-review-2026-05-16-apophatic-cartography-four-criteria/))
+- **Scope**: Install reciprocal cross-references to the dedicated four-criteria concept page across 10 articles where the four-criterion framing is doing methodological work — no content rewrites; surgical link installation with one-clause context where the link target's specific contribution warrants it
+- **Files modified**: 10 — `voids/apophatic-cartography.md` (originating page; consolidation pointer in § Criteria for Boundary Evidence + Further Reading entry), `apex/taxonomy-of-voids.md` (line 162 link + closing sentence on calibration-not-proof register), `topics/introspection-architecture-independence-scoring.md` (§ Apex's Four Criteria parenthetical + Further Reading split), `project/common-cause-null.md` (voids-catalogue paragraph pointer + related_articles + Further Reading), `voids/the-surplus-void.md` (Relation to Site Perspective link to "same four criteria" phrase), `voids/narrative-void.md`, `voids/source-attribution-void.md`, `voids/noetic-feelings-void.md`, `voids/confabulation-void.md` (four-void cluster opening-paragraph links + related_articles), `project/voids-circularity-discount.md` (Further Reading entry + related_articles)
+- **Critical issues addressed**: 0 (none found — pass installs cross-references; no content claims added that could carry slippage)
+- **Medium issues addressed**: 0 (existing prose preserved; cross-links installed in-place)
+- **Enhancements made**: 10 reciprocal cross-references installed; 10 related_articles entries added; 10 `ai_modified` timestamps updated
+- **Register check**: PASSES. All inserted clauses honour the *calibration-not-proof* register the dedicated concept page declares as load-bearing.
+- **Cross-link density check**: Justified. New link is to the canonical home of the framing each article invokes; absent the link, readers following the *four criteria* phrase would arrive at the originating five-criteria list rather than the consolidated calibration page.
+- **Word-count impact**: ~+50–60 words total across 10 files
+- **Output**: [deep-review-2026-05-16-cross-review-four-criteria](/reviews/deep-review-2026-05-16-cross-review-four-criteria/)
+
+## 2026-05-16 04:45 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-05-16-chatgpt-5-5-pro](/reviews/outer-review-2026-05-16-chatgpt-5-5-pro/)
+- **Subject**: `topics/phantom-limb-phenomena.md` (recent-aged fallback)
+- **Claims verified**: 7 against the audited article (quoted phrases, reference cutoff, prevalence claim, congenital source); 5 external citations (Makin/Flor 2020 NeuroImage, 2025 *Nature Neuroscience* longitudinal study, 2020 PLP prevalence meta-analysis, Frontiers pain-prediction review, JCI Insight peripheral mechanisms) plausible but not directly fetched (WebFetch blocked by Nature/Elsevier paywalls and Frontiers consent walls; refine-draft tasks must re-verify citations at execution time)
+- **High-value findings**: 3 — (1) empirical recency gap (reference list ends at Flor 2014; no Makin-group, no 2020s prevalence meta-analysis, no 2025 longitudinal cortical-map evidence); (2) boundary-substitution in the mirror-therapy section where "interactionist reading sees consciousness doing real causal work" runs ahead of what the evidence licenses (visual-feedback modulation is well-supported; consciousness-as-causal-agent vs. neural-representational-control is the further interpretive step); (3) `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md` overclaims "something beyond residual cortical firing" — stronger than the canonical phantom-limb article it should defer to
+- **Tasks generated**: 3 (P1: 1, P2: 2) — P1 refine `phantom-limb-phenomena.md` (six clustered fixes + [direct-refutation-discipline](/project/direct-refutation-discipline/) remit); P2 cross-review reciprocal integration across 5–7 articles (pain-asymbolia, pain-consciousness-and-causal-power, somatic-interface, out-of-body-experiences, clinical-neuroplasticity-evidence-for-bidirectional-causation, embodied-consciousness, predictive-processing); P2 refine `dual-domain-capabilities-in-proprioception-and-spatial-imagination.md` with unsupported-foundational-move remit
+- **Methodology proposals not converted to tasks**: 10 site-level methodology suggestions (recency gate for empirical articles, research-note closure rule, mainstream-steelman template, top-down causation lint, peripheral precision lint, citation aging labels, external-citation requirement, reciprocal-backlink automation, tenet-support checklist, treat-internal-reviews-as-provisional). Captured in the review file for future `/combine-outer-reviews` convergence analysis; not lifted into todo.md because methodology proposals from a single outer review have low signal-to-noise without cross-reviewer convergence — the appropriate gate is the synthesis pass (see [outer-review-synthesis-2026-05-04](/reviews/outer-review-synthesis-2026-05-04/) for prior precedent)
+- **Convergent finding flag**: The reciprocal-integration weakness was already flagged by the site's own [2026-05-09 deep review](/reviews/deep-review-2026-05-09-phantom-limb-phenomena/); the outer review documents that the gap survived deep review. This is a methodology signal worth tracking.
 
 ## 2026-05-16 03:52 UTC - deep-review
 - **Status**: Success

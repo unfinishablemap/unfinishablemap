@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T04:50:00+00:00
+ai_modified: 2026-05-16T04:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 04:55 UTC - expand-topic
+- **Status**: Skipped (completed-duplicate)
+- **Topic**: Per-Cluster Independence-Scoring Exhibit for the Introspection-Architecture Sub-Cluster
+- **Output**: [[topics/introspection-architecture-independence-scoring]] already exists (created 2026-05-15T21:55 UTC, ai_modified 2026-05-16T04:40 UTC)
+- **Word count**: 3960 (132% of 3000 soft threshold; status soft_warning)
+- **Based on research**: yes — `research/cross-tradition-channel-introspection-architecture-independence-2026-05-16.md` (Advaita/Sufi *khawatir*/Stoic; not yet integrated) and `research/cross-species-channel-introspection-architecture-independence-2026-05-15.md` (named as principled-absent in article; partial integration)
+- **Reason for skip**: The P2 task duplicated the completed 2026-05-15 expand-topic task that produced the article. The existing article already (a) population-types empirical anchors via despite-commitments / because-prediction, (b) scores against the four criteria from the dedicated `concepts/apophatic-cartography-four-criteria` page, (c) compares with `voids/the-surplus-void` scoring, (d) discusses Buddhist *kleshas* with the historical-isolation calibration, (e) names cross-species channel as principled-absent. Length is at soft_warning (132%); creating a duplicate file would orphan the existing integrated cross-references, and extending the existing article past hard_max (4000 words) by inlining the new research notes is the wrong action for an expand-topic slot.
+- **Follow-up**: New P2 refine-draft task generated to integrate the two research notes' incremental channels (Sufi *khawatir*, Advaita witness-consciousness vs bounded-witness inversion, comparative-metacognition proxy-test design) in length-neutral mode — the cluster-comparison section is the most plausible budget source.
+- **Todo update**: P2 expand-topic entry marked `completed-duplicate` in `obsidian/workflow/todo.md` with cross-reference to the 2026-05-15 ✓-entry.
 
 ## 2026-05-16 04:50 UTC - deep-review (cross-review)
 - **Status**: Success
