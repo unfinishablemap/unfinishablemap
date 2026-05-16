@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T19:19:56+00:00
+ai_modified: 2026-05-16T19:34:25+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 19:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-tradition-channel-introspection-architecture-independence-scoring]]
+- **Driver**: Chain from completed 2026-05-16 research-topic ([[research/neoplatonist-common-cause-introspection-architecture-2026-05-16]]) that audited the previously-flagged un-audited Neoplatonist common-cause channel — the article's earlier "largest residual gap" caveat.
+- **Word count**: 5183 → 5195 (+12; well within ~250–450 words touched estimate)
+- **Changes**:
+  1. Sufi section opener (line 78): rewrote first paragraph to flag at the point-of-claim that the earlier "cleanest historical-isolation defence" rating for *khawāṭir* + *muḥāsaba* is withdrawn by the Neoplatonist audit, with forward-pointer to the in-section re-scoring and the channel-level update. Replaces the prior unqualified "strongest single point of structural convergence" framing.
+  2. Sufi section closing paragraph (line 88): sharpened the audit-revision paragraph into a cleaner two-channel summary — Christian-monastic-via-Evagrius as primary (*logismoi* + *diakrisis* + *antirrhēsis* prefiguring *khawāṭir* + *muḥāsaba* by ~400 years through Syriac transmission), Arabic Plotinus via the al-Kindī circle as secondary (*Theology of Aristotle* + al-Kindī's *Discourse on the Soul* contemporaneous with Muḥāsibī, *available-not-proven*). Names the cleanest-defence reassignment to Advaita with the Bréhier-Armstrong-Hacker-Aklan consensus cited.
+  3. Advaita section new closing paragraph: added explicit "independence problem for Advaita" paragraph paralleling the Sufism and Stoicism treatments, citing the audit's directional argument (Mughal mediation runs Vedānta → Sufi-Neoplatonist Persian, post-dates Shankara by ~850 years; the Aklan 2018 textual examination concludes Plotinian-Śaṅkara parallels are "metaphorical ways of expression").
+  4. Stoic section "independence problem" paragraph: added sentence citing the audit's chronological argument — Plotinus is downstream of the Stoa by ~500 years, so the Neoplatonist channel cannot common-cause *propatheia* / *phantasia katalēptikē* / *synkatathesis*.
+  5. Updated `ai_modified` to current UTC timestamp.
+- **Preserved**: overall *low-moderate* channel score; the lede's audit-aware framing; all references; the channel-level scoring update at §"Scoring the Channel"; Honest Limitations §; cross-links to [[project/common-cause-null]] and [[project/voids-circularity-discount]] (already present from prior pass).
+- **Engagement modes**: No named-opponent engagement in scope of this refine. The article's Madhyamaka, Inwood/Long, and Bronkhorst engagements are unchanged.
+- **Published**: yes
 
 ## 2026-05-16 19:19 UTC - condense
 - **Status**: Success
