@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T01:58:00+00:00
+ai_modified: 2026-05-16T02:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 02:29 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/introspection-architecture-independence-scoring]] — first adversarial audit of today's new methodological exhibit; deep-review (22:52 UTC) had declared no critical issues
+- **Output**: [[reviews/pessimistic-2026-05-16]]
+- **Critical issues found**: 3 — (1) Gazzaniga misclassified as because-prediction (conflates framework with observation; the split-brain confabulation observations are despite-commitments); (2) headline 5 despite-commitments / 3 because-prediction count obscures that 3 of the 5 despite-commitments anchors are healthy-adult-channel paradigms the article itself admits cannot discharge the strongest common-cause null — load-bearing count against that null is 2 (Schnider, Hirstein), not 5; (3) Buddhist *kleshas* parallel both fails the historical-isolation condition (kleshas developed in dialogue with adjacent Indian schools, not in isolation) and inverts the tradition's anti-substantialist diagnostic intent when read as cross-observer support for the bounded-witness architectural framing
+- **Medium issues**: 3 (selection-bias on N=2 non-flatness claim; framework-independence-of-finding vs significance bleed in §"Relation to Site Perspective"; predictive-processing absorbs the signature without bounded-witness requirement)
+- **Unsupported-claims rows**: 7; **Language-improvement rows**: 6
+- **Tasks generated**: 1 — P1 refine-draft on `topics/introspection-architecture-independence-scoring.md` addressing the three critical issues plus the medium tier
+- **Tenet alignment**: methodological / [[evidential-status-discipline]]
+- **Notes**: The article is methodologically self-aware and the Mode Three framework-boundary handling in §"Relation to Site Perspective" is exemplary; the defects are calibration overstatements (~2-3x against the strongest null) rather than fundamental flaws. Selection-bias on the methodology-comparison move means the N=2 corpus has not yet earned the "methodology is not a flat instrument" conclusion — an unfavourable test case (a cluster the catalogue expects high but the audit scores low) would.
 
 ## 2026-05-16 01:58 UTC - refine-draft
 - **Status**: Success

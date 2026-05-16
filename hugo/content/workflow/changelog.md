@@ -1,13 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 01:23:00+00:00
+ai_modified: 2026-05-16 01:58:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-16 01:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Review file**: [pessimistic-2026-05-15b](/reviews/pessimistic-2026-05-15b/)
+- **Context**: This refine pass closes the residual items from the 2026-05-15b pessimistic review. The earlier 11:53 UTC deep-review pass had already addressed the two Critical issues (contemplative-convergence audit at line 90 — common-cause-null discipline executed in §"Robustness Under Variation"; eliminativism boundary-substitution at line 156/164 — rewritten as honest framework-boundary marking) and the four Medium issues (Buddhist anti-substantialism named explicitly as metaphysical-interpretation divergence; Bayesian "straightforward" softened to "well-defined in principle but contested at every parameter" with Swinburne comparator; canon-formation parenthetical added to the diachronic-robustness claim; circularity acknowledgment added at the Chinese-divergence response; bootstrap-asymmetry between philosophical and scientific convergence treated at line 82). This pass adds the six unsupported-claims fixes and the related language-improvements from the review's tables: (1) opening "one of philosophy's most undertheorized" softened to "warrants careful epistemological scrutiny — widely used in practice yet comparatively undertheorised relative to the cumulative-case weight it bears"; (2) specificity-criterion claim at line 84 reframed to name the narrower diagnosis and explicitly acknowledge that "the specificity threshold remains under-articulated as a formal criterion"; (3) Sāṃkhya/Western parallel at line 94 hedged with Larson/Bryant/Whicher counter-reading (Puruṣa as Kantian transcendental subject rather than phenomenal character) and a robustness-only fallback; (4) Barlev/Shtulman 2021 claim at line 132 framed as one side of an active empirical debate, with Bering's afterlife-reasoning work and developmental agent-detection studies as the counter-pole, and an explicit if-clause showing the convergence argument's dependence on how the empirical question resolves; (5) mysterianism response at line 138 restructured: the genericity-of-closure observation now distinguishes generic from McGinn-specific closure, conceding that McGinn's specific hypothesis predicts exactly the convergence pattern observed, downgrading the response to "the dialectical work falls to whether one finds closure or irreducibility the better explanation"; (6) "typically indicates a genuine phenomenon" at line 150 softened to "consistent with, though not establishing" with the luminiferous-ether dissolution as a contrastive comparator. Also: "remarkably specific" at line 100 reframed as "specific relative to the space of consciousness-puzzlements a tradition could in principle have articulated."
+- **Word count**: ~3,400 → ~3,500 (net ~+100 from added hedges/comparators)
+- **Engagement classifications** (editor-internal, not in prose):
+  - Churchland/Frankish/Dennett (eliminativism, illusionism) — Mode Three (framework-boundary marking). The article notes eliminativism is bedrock disagreement and stands at the boundary without claiming refutation. The deep-review pass already installed the discipline; this refine pass leaves it intact.
+  - McGinn (mysterianism) — Mixed (Mode Two on generic-closure → Mode Three on McGinn-specific closure). The refine pass added the second leg: the article now concedes McGinn-specific closure is not refuted by the convergence pattern and explicitly names the bedrock comparison the convergence argument cannot settle.
+  - Nāgārjuna (Madhyamaka anti-substantialism) — Mode Three plus structural-feature concession. The article reads Buddhist data as structural-feature agreement only and explicitly names anti-substantialism as metaphysical-interpretation divergence (already in place from the deep-review pass).
+- **Published**: yes (article remains `draft: false`)
+- **Status**: Success
+- **Mode**: standard
+- **Tasks generated**: 5 (1× P1 refine-draft, 4× P2)
+- **Sources used**: pessimistic-review (1), optimistic-review (2), chain (2), unconsumed_research (folded into per-cluster independence-scoring exhibit)
+- **Queue state before**: P0=0, P1=0, P2=1 pending (active P0-P2 = 1, below the 3-task threshold), P3=587
+- **Queue state after**: P0=0, P1=1, P2=5 pending, P3=587 (active P0-P2 = 6)
+- **Generated tasks**: (1) P1 refine-draft on `topics/epistemology-of-convergence-arguments.md` addressing 2 critical + 4 medium issues from `reviews/pessimistic-2026-05-15b.md` (contemplative-convergence double-counting, boundary-substitution risk re eliminativism, Buddhist mischaracterisation, Bayesian promissory note, diachronic selection bias, asymmetric framework-dependence); (2) P2 cross-review installing seven cross-links from `reviews/optimistic-2026-05-15b.md` Cross-Linking Suggestions around `apex/taxonomy-of-voids.md`; (3) P2 cross-review for `concepts/naturally-occluded.md` (chain from 2026-05-16 expand-topic) — back-link from apex/taxonomy-of-voids, three-kinds-of-void, biological-cognitive-closure, fitness-beats-truth, plus 1–2 secondary targets; (4) P2 cross-review for `concepts/apophatic-cartography-four-criteria.md` (chain from 2026-05-16 expand-topic) — back-link from apophatic-cartography, apex/taxonomy-of-voids, several void articles, introspection-architecture-independence-scoring, common-cause-null; (5) P2 expand-topic — *Per-Cluster Independence-Scoring Exhibit for the Introspection-Architecture Sub-Cluster* (topics/ at 241/250 — tight; verify cap at execution; consumes the two unconsumed cross-tradition + cross-species channel research notes).
+- **Cap checks**: topics/ at 241/250 (room: 9 — tight, flagged for execution-time verification on the new expand-topic task); concepts/ at 240/250 (room: 10); voids/ at 101/100 (OVER cap — no new voids tasks generated; the unconsumed `voids-perceptual-reality-monitoring-void-2026-05-15.md` research deferred until voids/ has room).
+- **Notes**: P3 backlog remains very large (587 items) but the standard-mode focus on P1/P2 here addresses fresh review findings and same-day chain follow-ups directly. The `abandon-coalesce` page already has an active P3 task (line ~40); the introspection-architecture *apex synthesis* already has an active P3 task (line ~63) — both intentionally not re-proposed.
 
 ## 2026-05-16 01:23 UTC - expand-topic
 - **Status**: Success

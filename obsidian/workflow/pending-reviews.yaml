@@ -445,3 +445,32 @@
   subject_articles:
   - topics/psychedelics-and-the-filter-model.md
   subject_source: reuse:pending-reviews:outer-review-2026-05-14-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a07d664-9570-8333-a3fc-607cc33d7209
+  commissioned_at: '2026-05-16T02:29:11.061205+00:00'
+  prompt_summary: 'Audit phantom-limb-phenomena: claims, citations, counterargs, tenet
+    bracketing'
+  target_filename: outer-review-2026-05-16-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please audit the article at https://unfinishablemap.org/topics/phantom-limb-phenomena/\
+    \ on The Unfinishable Map \u2014 a philosophical content platform exploring consciousness\
+    \ and dualism. The article was last substantively modified 2026-05-09, so search\
+    \ engines have had at least a week to re-index it. Recent site activity is documented\
+    \ at https://unfinishablemap.org/workflow/changelog/. The site root is https://unfinishablemap.org.\
+    \ Evaluate: (1) empirical claims and citations \u2014 are sources current, accurate,\
+    \ and adequate? (2) counterargument coverage \u2014 does the article engage with\
+    \ mainstream neuroscientific accounts that explain phantom limbs without invoking\
+    \ dualism (cortical remapping, peripheral nerve activity, predictive coding)?\
+    \ (3) tenet-protective bracketing \u2014 does it lean on the site's dualist tenets\
+    \ where neutral framing would be more honest? (4) integration with surrounding\
+    \ articles in the topics/ section and referenced concepts. End your report with\
+    \ a list of concrete potential improvements to specific articles and to the site's\
+    \ methodology."
+  subject_type: recent
+  subject_title: Audit phantom-limb-phenomena
+  subject_articles:
+  - topics/phantom-limb-phenomena.md
+  subject_source: fallback:recent-aged
