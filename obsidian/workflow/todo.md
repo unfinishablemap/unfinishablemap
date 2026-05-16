@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/introspection-architecture-independence-scoring.md (4017 words, 134% of topics hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Parent exhibit article for the introspection-architecture independence-scoring programme. Multiple refines through May 2026 have accreted material; preserve (a) the four-criteria methodological scaffold; (b) the per-cluster scoring rubric the per-cluster exhibits inherit; (c) the cross-references to the dedicated channel articles (`cross-tradition-channel-…`, `cross-species-channel-…`, `pupillometry-behavioural-channel`); (d) tenet alignment. Trim by deferring channel-specific exegesis to the dedicated channel articles (which already exist as siblings) — the parent exhibit should orient readers to the programme and route them to the channels, not re-derive each channel's findings inline. Target: ≤3500 words. Tenet alignment: methodological / writing-style. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-16
-
 ### P2: Cross-review related articles considering concepts/naturally-occluded.md insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3686,6 +3679,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-16: Condense topics/introspection-architecture-independence-scoring.md (4017 words, 134% of topics hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Parent exhibit article for the introspection-architecture independence-scoring programme. Multiple refines through May 2026 have accreted material; preserve (a) the four-criteria methodological scaffold; (b) the per-cluster scoring rubric the per-cluster exhibits inherit; (c) the cross-references to the dedicated channel articles (`cross-tradition-channel-…`, `cross-species-channel-…`, `pupillometry-behavioural-channel`); (d) tenet alignment. Trim by deferring channel-specific exegesis to the dedicated channel articles (which already exist as siblings) — the parent exhibit should orient readers to the programme and route them to the channels, not re-derive each channel's findings inline. Target: ≤3500 words. Tenet alignment: methodological / writing-style. See `/condense` skill.
 
 ### ✓ 2026-05-16: Condense topics/cross-tradition-channel-introspection-architecture-independence-scoring.md (4744 words, 158% of topics hard threshold)
 - **Type**: condense
