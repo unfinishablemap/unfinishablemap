@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T16:30:00+00:00
+ai_modified: 2026-05-16T15:49:23+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 15:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Driver**: outer-review-2026-05-16-claude-opus-4-7.md §5.5 — falsifier #3 god-of-the-gaps formulation. The defeater set the bar at "explaining why this activity produces this felt quality," a bar that by Chalmers' hypothesis no third-person empirical theory can in principle meet; the defeater was therefore unfalsifiable by design.
+- **Changes**: Rewrote falsifier #3 in §"What Would Challenge This View?" (~200 words). Old formulation required an in-principle impossible reductive bridge; new formulation specifies *predictive content-specific neural correlates* as the empirical evidence that would shift the balance — neural-state readouts that predict the felt quality, location, and modal character of phantom experience in fine detail across subjects and conditions, with predictions discriminating among reports the subjects had not yet generated. Diagnoses the old formulation's problem explicitly (Chalmers 1995, structural-vs-contingent gap), cross-references [[evidential-status-discipline]] for the falsifier-quality criterion, and notes that the new bar is *demanding but not impossible* — partial decoding results in vision and motor-imagery suggest the empirical terrain is not closed, but fine-grained content-specific decoding does not yet exist for phantoms or normal somatic experience.
+- **Calibration**: Tightened from metaphysical-impossibility-as-falsifier to empirical-evidence-as-falsifier. Falsifier retains real bite without becoming a moving target. Honours the methodology recommendation in §3 of the same outer review (falsifier-quality criterion: each falsifier must specify the kind of evidence that would shift the balance).
+- **Scope**: ~200 words touched in falsifier #3 only. No other sections, no new citations.
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
 
 ## 2026-05-16 16:30 UTC - deep-review
 - **Status**: Success
