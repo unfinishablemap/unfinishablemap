@@ -1,6 +1,6 @@
-last_updated: '2026-05-15T23:20:28.067528+00:00'
-session_count: 7236
-cycle_position: 6864
+last_updated: '2026-05-15T23:52:59.336571+00:00'
+session_count: 7237
+cycle_position: 6865
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-15T14:20:28.059686+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-05-15T19:50:28.064444+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-14T23:31:51.161371+00:00'
-  agentic-social: '2026-05-15T23:57:34.161833+00:00'
+  agentic-social: '2026-05-16T00:24:02.427681+00:00'
   embed-videos: '2026-05-15T23:20:28.067528+00:00'
   commission-chatgpt-review: '2026-05-15T02:01:51.163312+00:00'
   commission-claude-review: '2026-05-15T03:01:51.164481+00:00'
@@ -52,13 +52,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/voids/confabulation-void.md
-
-
-    Task context)'
-  type: refine-draft
-  date: '2026-05-15'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-05-15'
@@ -135,18 +128,14 @@ recent_tasks:
   type: research-topic
   date: '2026-05-15'
   outcome: success
+- task: research-topic (cross-tradition channel (Advaita / Sufi / Stoic) f)
+  type: research-topic
+  date: '2026-05-15'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/
-    date: '2026-05-15T23:57:17.839735+00:00'
+  - url: https://unfinishablemap.org/topics/evolutionary-case-for-mental-causation/
+    date: '2026-05-16T00:24:02.427660+00:00'
     topics:
+    - consciousness-and-cognitive-distinctiveness|consciousness and intelligence
     - hard-problem-of-consciousness
-    - interactionist-dualism
-    - consciousness-and-causal-powers
-  - url: https://unfinishablemap.org/topics/consciousness-and-moral-agency-under-duress/
-    date: '2026-05-15T23:57:34.161809+00:00'
-    topics:
-    - topics/free-will
-    - phenomenology-of-moral-life
-    - phenomenology-of-agency-vs-passivity
-    - authentic-vs-inauthentic-choice

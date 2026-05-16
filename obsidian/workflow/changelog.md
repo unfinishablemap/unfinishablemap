@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T00:10:00+00:00
+ai_modified: 2026-05-16T00:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 00:24 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Concept page `apophatic-cartography-four-criteria` — consolidating the methodology backbone
+- **Output**: [[concepts/apophatic-cartography-four-criteria]]
+- **Word count**: 2401 (96% of 2500 soft target — ok)
+- **Based on research**: no (consolidation of existing apex/taxonomy-of-voids line 162 invocation and two worked exhibits — `the-surplus-void` retraction case + `topics/introspection-architecture-independence-scoring` partial-retention case). Article states each criterion cleanly with its operationalisation in the two worked exhibits, describes the asymmetric application principle settled in the 2026-05-15 cross-exhibit audit (architectural-finding / interpretive-significance split; despite-commitments / because-prediction scope condition), catalogues the operational moves the criteria enable (discrimination against common-cause null, channel-load identification, evidential weight calibration, cluster discrimination), and names the criteria's bounds honestly (judgement-laden classification, single-observer dependence, recursive bind on framework-independence, gradable specificity, calibration-not-proof). Honours [[evidential-status-discipline]] — the criteria are calibration instruments, not proof instruments. Cross-linked to canonical home ([[apex/taxonomy-of-voids]]), broader methodology ([[apophatic-cartography]]), both worked exhibits, [[common-cause-null]], [[voids-circularity-discount]], [[coherence-inflation-countermeasures]], [[evidential-status-discipline]], [[tenet-generated-voids]], [[compound-failure-signatures]], [[meta-epistemology-of-limits]], [[epistemology-of-limit-knowledge]]. Tenet alignment: methodological / Tenet 5 (Occam's Razor Has Limits — the criteria are the discipline against the catalogue's parsimony temptation).
 
 ## 2026-05-16 00:10 UTC - research-topic
 - **Status**: Success
