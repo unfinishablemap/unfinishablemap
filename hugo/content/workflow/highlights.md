@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Section pressure pushed coalesce to evaluate 7 cluster mergers in topics/ — all refused. The abandon-coalesce discipline names the differentiation test that prevents lossy mergers and calibrates the catalogue against curation bias.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2055565733698912456  
 **Link**: [abandon-coalesce](/project/abandon-coalesce/)
 
 ---
