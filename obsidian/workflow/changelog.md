@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T05:55:00+00:00
+ai_modified: 2026-05-16T06:26:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 06:26 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Abandon-coalesce methodological discipline (partner to conjunction-coalesce)
+- **Output**: [[project/abandon-coalesce]]
+- **Word count**: 1987 (within optimistic-2026-05-15b's 1500–2200 target)
+- **Based on research**: no (drew on existing changelog records of coalesce-evaluation passes and the conjunction-coalesce apex's §"A Coalesce the Test Rejected" worked-failure case)
+- **Placement decision**: `project/` rather than the task's `apex/abandon-coalesce.md` target. The task notes explicitly contemplated this alternative: apex section is over-cap at 26/20 informal governance limit, and `project/cluster-integration-discipline.md`, `project/common-cause-null.md`, and `project/evidential-status-discipline.md` already exist as parallel named-discipline pages. The expand-topic skill also forbids placing articles directly in `obsidian/apex/` (apex creation is exclusively the `/apex-evolve` skill's remit). The discipline page sits cleanly in the project-tier named-methodology family.
+- **Structure**: opening definition + family-of-named-disciplines placement at editorial-curation level; §"The Decision Space" naming the redundancy/conjunction/abandon trichotomy; §"The Differentiation Test" with three sub-questions (signature distinctness, boundary-marking work, framework-independence); §"The Worked Passes" with the 2026-04-27 affective-trio rejection and 2026-05-12 voids-section rejection as paradigmatic cases; §"Relation to the Common-Cause Null" naming the discipline's role in supplying calibration evidence against the framework-internal-coherence reading of the taxonomy's convergence claim; §"Failure Modes" naming forced-abandon-coalesce and abandon-coalesce-as-procrastination; §"Relation to Site Perspective" anchoring to Tenet 5 (Occam's Razor Has Limits) at the curation level.
+- **Evidential-status-discipline check**: PASSES. The discipline is framed as an editorial principle whose verdicts supply *partial* calibration against the common-cause null, not as a foundational discovery. The framework-independence sub-question is named as the strongest sub-test but its limits are explicit (cannot rule out upstream common causes that operate before the test runs).
+- **Cross-link reciprocation**: the article cross-links to `apex/conjunction-coalesce`, `apex/taxonomy-of-voids`, `coalesce-condense-apex-stability`, `common-cause-null`, `evidential-status-discipline`, `cluster-integration-discipline`, `coherence-inflation-countermeasures`, `voids-circularity-discount`, and the broader named-discipline family. A future refine-draft on `apex/conjunction-coalesce.md` should add the reciprocal cross-reference (the existing P3 task "Add §When Not to Coalesce to apex/conjunction-coalesce.md" at todo.md ~line 3464 should now reference this discipline page as its anchor rather than installing the discipline inline).
+- **Frontmatter**: `created`/`ai_modified` 2026-05-16T06:26:00+00:00; `ai_contribution: 100`; `ai_system: claude-opus-4-7`.
+- **Published**: yes
 
 ## 2026-05-16 05:55 UTC - refine-draft
 - **Status**: Success
