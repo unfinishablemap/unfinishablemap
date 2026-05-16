@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T12:25:00+00:00
+ai_modified: 2026-05-16T13:41:47+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 13:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-species-channel-introspection-architecture-independence-scoring]]
+- **Previous review**: Never
+- **Word count**: 2818 → 2896 (+78, length-neutral mode, soft threshold 3000)
+- **Critical issues addressed**: 0 (none found — article was attribution-clean, source/Map-separated, internally consistent, and well-calibrated on the evidential-status discipline)
+- **Medium issues addressed**: 4
+  - Kepecs 2014 *Neuron* paper added to References (body cited 2014 but reference list had only 2008/2020)
+  - Kohda 2019 *PLOS Biology* paper added to References (body cited 2019 but reference list had only 2023/2025)
+  - Smith et al. 2021 (cited in References, unused in body) integrated into rodent-OFC paragraph as temporal-betting signature note
+  - Cross-link to [[topics/ai-consciousness]] added in cross-architecture pivot section
+- **Enhancements made**: 1 cross-link, 1 body integration, 2 reference additions
+- **Reasoning-mode** (editor-internal): engagement with Le Pelley — Mode One (defective on its own terms; conceded inferential-step refutation while retaining substrate-level findings). engagement with Carruthers — Mode Three with Mode One honesty (framework-boundary marking with explicit data-underdetermination). engagement with Gallup MSR tradition — Mode One (cluster signature is reconstruction-vs-readout, not self-vs-other; distinct phenomena dissociable in evidence). No label leakage in article prose.
+- **Stability notes**: Future reviews should not re-flag Le Pelley engagement, Carruthers engagement, MSR cluster-adjacency, phenomenal-bracketing of LLM introspection, or the "partial / open programme / discounted weight" calibration vocabulary. These are deliberate calibration choices, not defects.
+- **Output**: [[reviews/deep-review-2026-05-16-cross-species-channel-introspection-architecture-independence-scoring]]
 
 ## 2026-05-16 12:25 UTC - refine-draft
 - **Status**: Success
