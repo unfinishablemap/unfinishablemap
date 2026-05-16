@@ -263,11 +263,10 @@ print(f'{a.word_count} words ({a.excess_percent:.0f}% of {a.soft_threshold} targ
 
 Include final word count in the changelog entry.
 
-### 6. Update Todo
+### 6. Do Not Mark Todo Complete
 
-If this was a todo item:
-1. Mark the task as complete
-2. Note the output file
+Leave the originating todo task untouched. The orchestrator
+(`cycle_post.py`) marks it complete after this skill returns.
 
 ### 7. Log to Changelog
 

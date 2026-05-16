@@ -131,9 +131,10 @@ For each reference found:
 - These may need updating to point to the new unified article
 - Create a follow-up task if references found
 
-### 7. Update Todo
+### 7. Do Not Mark Todo Complete
 
-If this was a todo item, mark it complete.
+Leave the originating todo task untouched. The orchestrator
+(`cycle_post.py`) marks it complete after this skill returns.
 
 If references were found to archived articles, create a follow-up task:
 ```markdown

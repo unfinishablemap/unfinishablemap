@@ -200,9 +200,12 @@ This log should be removed after human review.
 -->
 ```
 
-### 9. Update Todo
+### 9. Do Not Mark Todo Complete
 
-If this was a todo item, mark it complete.
+Leave the originating todo task untouched. The orchestrator
+(`cycle_post.py`) marks it complete after this skill returns, using the
+line number passed at dispatch time. Marking it here causes the
+orchestrator to lose the task title for its commit message.
 
 If significant issues remain, create a new todo:
 ```markdown

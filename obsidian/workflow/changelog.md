@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T14:05:41+00:00
+ai_modified: 2026-05-16T14:19:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 14:19 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/cross-tradition-channel-introspection-architecture-independence-scoring]] (~2,994 words, 132 lines). Authored today via `/expand-topic` (last `ai_modified` 10:56 UTC) from `research/cross-tradition-channel-introspection-architecture-independence-2026-05-16`. The article is the cross-tradition half of the introspection-architecture cluster's per-channel audit programme, paired with `topics/cross-species-channel-introspection-architecture-independence-scoring`. It had not received a deep-review (cross-species sibling was deep-reviewed clean at 13:41 UTC); this is the article's first adversarial audit. Today's earlier pessimistic pass (`reviews/pessimistic-2026-05-16.md`) examined the parent exhibit; this second pass examines its cross-tradition channel article. Article carries methodological load for [[apex/taxonomy-of-voids]]'s Criterion 3 (cross-observer convergence) score in the per-cluster independence-scoring programme.
+- **Critical issues found**: 3 — (1) *khawāṭir* despite-commitments score (currently "moderate-to-high") may collapse to *because-prediction* within the Sufi tradition's own discernment-programme commitments — despite-commitments status holds only against external frameworks, not against the tradition's own diagnostic programme; (2) *propatheia* "single strongest despite-commitments observation" rating inherits Sorabji 2000's contested historiographic framing (Inwood, Long argue *propatheia* was implicit in earlier Stoic cognitive theory, not Senecan accommodation); (3) Neoplatonist common-cause channel is named as "the largest residual gap in the channel's independence calibration" but the unscored uncertainty is not propagated to the Criterion 3 rating.
+- **Medium issues found**: 2 — (4) "small upgrade from kleshas-only to cross-tradition" framing conflates "more data with more calibration" with "score improvement"; the new "low-moderate" rating is numerically *lower* than the prior "moderate" kleshas-only baseline, but the article presents this as an upgrade; (5) the architectural-specifics / framework-level distinction is doing enormous adjudicative work without explicit operationalisation criteria — discrimination procedure is by example only.
+- **Other findings**: 6 unsupported claims flagged (Beck-Stoic parallel without citation; Pyrrho-in-India without D.L. locus; Albahari "framework predicts the signature" without page reference; Frede's reading of *phantasia katalēptikē* asserted as standard; etc.). 6 language improvements suggested (operationalising "moderate-to-high" compound scores; hedging "single strongest" with conditional historiographic note; attributing rather than asserting framework-laden "facts"). Strengths preserved: metaphysical-inversion discipline correctly applied to Advaita; cuts-both-ways framing on Albahari; conservative-reading-not-refuted closing in §"Honest Limitations"; no direct-refutation-discipline label leakage; no altered-state symmetry issue.
+- **Tasks generated**: 2 — P2 refine-draft addressing the five issues plus the unsupported claims and language improvements; P2 research-topic auditing Neoplatonist common-cause weight for late-Stoic / early-Sufi / Advaita-via-Islamic-mediation parallels (Plotinus, Porphyry, Iamblichus, Proclus, the Arabic Plotinus tradition, Suhrawardī-illuminationist substrate).
+- **Output**: [[reviews/pessimistic-2026-05-16b]]
 
 ## 2026-05-16 14:05 UTC - refine-draft
 - **Status**: Success

@@ -136,9 +136,10 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 [Full citation list in consistent format]
 ```
 
-### 5. Update Todo
+### 5. Do Not Mark Todo Complete
 
-If this was a todo item, mark it complete and note the output file.
+Leave the originating todo task untouched. The orchestrator
+(`cycle_post.py`) marks it complete after this skill returns.
 
 ### 6. Log to Changelog
 
