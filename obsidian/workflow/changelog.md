@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T08:35:00+00:00
+ai_modified: 2026-05-16T08:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 08:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Trigger**: Cross-review reciprocal integration chain (P2 task at todo.md:40) — runs deep-review on the canonical phantom-limb article in the context of the chain. The 2026-05-09 deep review's cross-pass surfaced sibling backlink gaps; the 2026-05-16 ChatGPT 5.5 Pro outer review confirmed the gaps survived and added empirical-recency findings.
+- **Word count**: 2836 → 3067 (+231; soft_warning at 102% of 3000 target; hard threshold 4000)
+- **Critical issues addressed**: 2 (peripheral-precision lint at para 2; mechanism-debate framing at §Cortical Reorganisation)
+- **Medium issues addressed**: 3 (mirror-therapy phenomenological-vs-clinical split; top-down ≠ nonphysical caveat at §Mirror Therapy closing paragraph; §Bidirectional Interaction overclaim moderation)
+- **Reasoning-mode classification (editor-internal)**:
+  - Production-conditions vs phenomenal-content gap (§Cortical Reorganisation closing): Mode Two (unsupported foundational move) — strengthened to survive multiple mechanism candidates (preserved-representation, multilevel pain-network, predictive-processing) rather than depending on the older cortical-remapping account.
+  - Mirror-therapy materialist absorption (§Mirror Therapy closing): Mode Three (framework-boundary marking) — strengthened with explicit "choice between readings is not settled by mirror therapy alone" line.
+  - §Bidirectional Interaction in §Relation to Site Perspective: Mode Three — strengthened with "the materialist alternative is a serious alternative, not a placeholder" framing.
+  - No editor-vocabulary leakage detected.
+- **Calibration-error correction**: The "no peripheral signals" phrasing was a calibration error by the diagnostic test (a tenet-accepting reviewer would still flag the unqualified phrasing as overstated). Now fixed.
+- **Citation work deferred**: Empirical-recency improvements (2020 PLP prevalence meta-analysis, Makin & Flor 2020 review, 2025 *Nature Neuroscience* longitudinal study, contemporary pain-prediction Frontiers paper) NOT added in this review per the outer review's Verification Notes — those require citation re-verification at refine-draft time. Queued as remaining items in the review archive; the existing P2 cross-review task and a forthcoming P1 refine-draft task carry them forward.
+- **Output**: [[reviews/deep-review-2026-05-16-phantom-limb-phenomena]]
 
 ## 2026-05-16 08:28 UTC - expand-topic
 - **Status**: Success

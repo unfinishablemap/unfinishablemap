@@ -511,9 +511,9 @@
   prompt_summary: 'Audit phantom-limb-phenomena: claims, citations, counterargs, tenet
     bracketing'
   target_filename: outer-review-2026-05-16-gemini-2-5-pro.md
-  status: pending
+  status: abandoned
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-16T08:52:59.382921+00:00'
   failure_reason: null
   prompt_text: 'I''d like a Deep Research audit of the article at https://unfinishablemap.org/topics/phantom-limb-phenomena/,
     part of The Unfinishable Map, a philosophical content platform exploring consciousness
