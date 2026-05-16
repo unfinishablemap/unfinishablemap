@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-05-15 11:30:11.236800+00:00
+ai_modified: 2026-05-16 07:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[parfit-reductionism]]'
 - '[[witness-consciousness]]'
 - '[[temporal-consciousness]]'
+- '[[evidential-status-discipline]]'
 created: 2026-02-13
 date: &id001 2026-02-15
 description: Remembering is not retrieving stored data but re-inhabiting a perspective—and
@@ -26,7 +27,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/lF5n6jgBuZo
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-14 11:15:00+00:00
+last_deep_review: 2026-05-16 07:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,6 +40,8 @@ related_articles:
 - '[[coherence-inflation-countermeasures]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[many-worlds]]'
+- '[[microphenomenological-interview-method]]'
+- '[[voids/confabulation-void]]'
 title: Phenomenology of Memory and the Self
 topics:
 - '[[personal-identity]]'
@@ -91,6 +94,8 @@ The same process that builds the self threatens it. Memory's reconstructive natu
 **Identity distortion**: Memory's selectivity is shaped by availability bias, emotional salience, and retrieval practice. Traumatic memories may dominate because they are more retrievable; gradual positive changes may leave no discrete memorable episodes. The self memory constructs is systematically biased by the architecture of encoding and retrieval.
 
 **Pathological breakdowns**: Severe amnesia strips the self of temporal extension while leaving the minimal self intact. Patient KC retained semantic knowledge while losing autonoetic access to his past—he knew facts about his life without being able to *remember* living it. Rosenbaum et al. (2005) document residual semantic-autobiographical structure, so the dissociation is graded rather than total. Tippett, Prebble & Addis (2018) and Klein (2012, 2014) document AD/MCI patients in whom diachronic personal unity is sustained through *semantic* autobiographical continuity even as autonoetic continuity degrades. Phenomenological continuity is one route to diachronic unity, not the sole route. What survives is narrower: when episodic re-experiencing is intact, it carries a phenomenal character (pastness, mineness, double presence) that semantic continuity does not deliver. The dualist consequence rests on phenomenal character, not on identity-grounding monopoly.
+
+**Structured-method response to memory-confabulation.** The constructive turn raises the [confabulation void](/voids/confabulation-void/) in the memory-recall context: a sub-personal generator supplies positive content where direct access to the encoded trace is missing, and the felt-rightness signal that would distinguish reconstruction from veridical recovery is anti-correlated with accuracy in the conditions that matter. Hurlburt's Descriptive Experience Sampling and Petitmengin's microphenomenological interview — the catalogue's home for the structured-discipline response is the latter's [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) — deploy second-person scaffolding (evocation, position-direction prompts, re-anchoring in embodied memory) that *restricts the confabulation-eligible space* rather than dissolving it. The principals concede *interviewer-prompts-novelty*: the structured question may generate memory content the subject did not have until prompted, with the same felt-veridicality as genuine recovery. The discipline approximates the boundary without claiming to cross it; whether the restriction reaches access is methodologically undetermined. The pastness quale survives this calibration: it is the explanandum at issue, not the discrimination mechanism the structured method probes.
 
 ## Deflationary Readings of Pastness
 

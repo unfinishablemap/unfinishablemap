@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-05-14 20:42:00+00:00
+ai_modified: 2026-05-16 06:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,6 @@ concepts:
 - '[[illusionism]]'
 - '[[panpsychism]]'
 - '[[epiphenomenalism]]'
-- '[[evaluative-phenomenal-character]]'
 created: 2026-02-02
 date: &id001 2026-02-02
 description: Why consciousness is necessary for value to exist. Without experience,
@@ -21,7 +20,7 @@ description: Why consciousness is necessary for value to exist. Without experien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 04:30:00+00:00
+last_deep_review: 2026-05-16 06:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -192,10 +191,9 @@ These conditions do not currently obtain. The connection stands.
 - [free-will](/topics/free-will/) — How value-grounded consciousness enables genuine choice
 - [illusionism](/concepts/illusionism/) — The strongest challenge and responses
 - [panpsychism](/concepts/panpsychism/) — What follows if consciousness is ubiquitous
-- [moral phenomenology and perception](/concepts/evaluative-phenomenal-character/) — Moral experience as evidence that consciousness carries evaluative structure
+- [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — Evaluative qualia and moral phenomenology: how consciousness carries intrinsic evaluative structure
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms the moral landscape
 - [tenets](/tenets/) — The foundational commitments grounding this view
-- [evaluative qualia](/concepts/evaluative-phenomenal-character/) — The phenomenal experiences carrying intrinsic evaluative character
 
 ## References
 

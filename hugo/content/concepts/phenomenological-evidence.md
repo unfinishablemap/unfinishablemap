@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-04-25 20:29:00+00:00
+ai_modified: 2026-05-16 07:23:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -24,6 +24,7 @@ concepts:
 - '[[phenomenal-acquaintance]]'
 - '[[contemplative-epistemology]]'
 - '[[methodological-pluralism]]'
+- '[[evidential-status-discipline]]'
 created: 2026-02-01
 date: &id001 2026-04-19
 description: First-person experience reports are genuine evidence for consciousness
@@ -32,7 +33,7 @@ description: First-person experience reports are genuine evidence for consciousn
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-19 13:38:00+00:00
+last_deep_review: 2026-05-16 07:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,6 +45,8 @@ related_articles:
 - '[[cross-cultural-convergence-on-mental-causation]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 - '[[comparative-phenomenology-of-meditative-traditions]]'
+- '[[microphenomenological-interview-method]]'
+- '[[voids/confabulation-void]]'
 title: Phenomenological Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -102,6 +105,8 @@ This matters for the reliability debate. Critics (Schwitzgebel, Dennett) typical
 ### Microphenomenology
 
 Claire Petitmengin developed microphenomenology—specialised interview techniques that elicit fine-grained descriptions of brief experiential moments through present-tense indicators, non-leading questions, re-enactment, and process focus. The method has revealed previously invisible microstructures: the anticipatory phenomenology before epileptic seizures, the detailed unfolding of creative insight, the texture of mathematical understanding—demonstrating that trained attention discloses experiential complexity invisible to casual introspection.
+
+The reliability question sharpens at the [confabulation void](/voids/confabulation-void/): where unaided introspection is blind by construction — a sub-personal generator supplies positive content and the felt-rightness signal is anti-correlated with accuracy in the conditions that matter — what does *disciplined* first-person method offer? Microphenomenology's [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) is the catalogue's home for the structured-method response: second-person scaffolding (evocation, position-direction prompts, re-anchoring in embodied memory) that *restricts the confabulation-eligible space* rather than dissolving it. The method's principals concede the *interviewer-prompts-novelty* objection — the structured question may generate new content the subject did not have until prompted, with the same felt-veridicality as genuine recovery. The discipline approximates the boundary without claiming to cross it; whether the restriction reaches access is methodologically undetermined. This is partial purchase, in the register [evidential-status-discipline](/project/evidential-status-discipline/) requires.
 
 ## What Makes Phenomenological Evidence Reliable
 

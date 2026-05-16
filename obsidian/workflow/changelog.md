@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T06:55:00+00:00
+ai_modified: 2026-05-16T07:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 07:23 UTC - deep-review
+- **Status**: Success
+- **Task**: P3 — Propagate Confabulation-Resistance Discipline to three deferred articles (chain from 2026-05-15 cross-coherence audit §"Out-of-scope future work")
+- **Files modified**: 4
+  - `topics/phenomenal-authority-and-first-person-evidence.md` (target a): 3513 → 3655 words (+142); paragraph installed in §"Methodological Implications" between heterophenomenology and neurophenomenology paragraphs; layer-2/upper-layer-3 reliability response register.
+  - `concepts/phenomenological-evidence.md` (target b — equivalent for missing `epistemology-of-phenomenal-reports.md`): 2601 → 2728 words (+127); paragraph installed in §"Microphenomenology" subsection; named as catalogue's home for *epistemological reliability* register (distinct from target a's *evidential weight* home).
+  - `topics/phenomenology-of-memory-and-the-self.md` (target c): 3038 → 3192 words (+154); paragraph installed in §"Memory as Self-Threat" before §"Deflationary Readings of Pastness"; memory-confabulation register with Hurlburt's DES named alongside Petitmengin's method; closing clause preserves pastness-quale irreducibility argument by separating *phenomenal* claim from *access* claim.
+  - `topics/microphenomenological-interview-method.md` (source): 3521 → 3574 words (+53); reciprocal back-links installed in §"Further Reading" with locus annotations for all three new targets; frontmatter `related_articles` updated to include `phenomenology-of-memory-and-the-self`.
+- **Equivalent-resolution decision**: Target (b) — the task notes specified `epistemology-of-phenomenal-reports.md` "if exists or the equivalent." That file does not exist (was coalesced into target (a) per its `coalesced_from` frontmatter); the propagation cannot redundantly install in target (a) for target (b)'s role. The "equivalent" is `concepts/phenomenological-evidence.md` — the catalogue's home for the *epistemological reliability* register of phenomenal reports (distinct from target (a)'s home for the *evidential weight* register). This catalogue assignment is recorded in the deep-review archive's Stability Notes for future propagation passes.
+- **Canonical vocabulary preserved across all 3 propagations**: "restricts the confabulation-eligible space," "*interviewer-prompts-novelty*," "methodologically undetermined," "approximates the boundary without claiming to cross it," "partial purchase," "second-person scaffolding."
+- **Critical issues addressed**: 0 (no calibration slippage, no source/Map conflation, no boundary substitution, no label leakage, no dropped qualifiers, no misattribution)
+- **Medium issues addressed**: 0 (surgical paragraphs, no disturbance of existing named-opponent engagements)
+- **Enhancements made**: 4 (three propagation paragraphs + reciprocal back-link installation in source)
+- **Engagement classification**: No new named-opponent engagements introduced; surrounding heterophenomenology (target a, Mode Three), Nisbett-Wilson/Schwitzgebel (target b, Mode Two + Three), and source-monitoring/Everettian/Frankish-illusionism (target c, Mode Two + Three + bedrock-clash) engagements preserved unchanged.
+- **Reciprocity verified**: Forward links from all three targets to `[[topics/microphenomenological-interview-method#confabulation-resistance-discipline]]` resolve; back-links from source to all three targets installed in §"Further Reading" with locus annotations.
+- **Length**: All four targets remain in soft_warning, none reaches hard threshold; additions address load-bearing absences per cross-review length-neutrality discipline.
+- **Stability**: Confabulation-Resistance Discipline framing now stable across 8-article footprint (source + 5 from 2026-05-15 + 3 from today). No third-pass cross-coherence audit required.
+- **Output**: [[reviews/deep-review-2026-05-16-confabulation-resistance-deferred-propagation]]
 
 ## 2026-05-16 06:55 UTC - deep-review
 - **Status**: Success

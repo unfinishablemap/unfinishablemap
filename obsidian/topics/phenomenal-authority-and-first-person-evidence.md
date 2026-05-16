@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-05-16T07:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[galilean-exclusion]]"
   - "[[mysterianism]]"
+  - "[[evidential-status-discipline]]"
 related_articles:
   - "[[tenets]]"
   - "[[epistemic-advantages-of-dualism]]"
@@ -55,12 +56,14 @@ related_articles:
   - "[[phenomenology-of-intellectual-life]]"
   - "[[clinical-evidence-quality-standards-consciousness-research]]"
   - "[[eliminative-materialism]]"
+  - "[[microphenomenological-interview-method]]"
+  - "[[voids/confabulation-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-04-06T07:26:00+00:00
+last_deep_review: 2026-05-16T07:23:00+00:00
 coalesced_from:
   - "/topics/phenomenal-conservatism-and-introspective-evidence/"
   - "/topics/phenomenal-authority-epistemic-weight-first-person-reports/"
@@ -175,6 +178,8 @@ Eliminativism faces [[self-stultification]]. A theorist arguing that phenomenal 
 Dennett's [[heterophenomenology]] treats reports as texts to be interpreted, neutral on whether experiences are as reported. This neutrality presupposes that no epistemically distinctive first-person access exists — the very question at issue. The [[philosophical-zombies|conceivability of zombies]] demonstrates that functional and phenomenal description are logically independent; evidence standards appropriate to one cannot exhaust what the other investigates.
 
 Heterophenomenology is harder to convict of self-stultification than crude eliminativism, but the self-undermining charge gains traction at a narrower point: assessing whether a theoretical framework *adequately captures what experience is like* seems to require phenomenal acquaintance with the states being theorised about.
+
+The [[voids/confabulation-void|confabulation void]] sharpens the reliability question at layer 2 and the upper edge of layer 3: a sub-personal generator supplies positive content where direct access is missing, and the felt-rightness signal that would distinguish fabrication from veridical access is anti-correlated with accuracy in the conditions that matter most. The catalogue's home for the structured-discipline response is the microphenomenological interview's [[topics/microphenomenological-interview-method#confabulation-resistance-discipline|Confabulation-Resistance Discipline]] — second-person scaffolding (evocation, position-direction prompts, re-anchoring in embodied memory) that *restricts the confabulation-eligible space* rather than dissolving it. The method's principals concede the *interviewer-prompts-novelty* objection: the structured question may generate new content the subject did not have until prompted, with the same felt-veridicality as genuine recovery. The discipline approximates the boundary without claiming to cross it; whether the restriction reaches access remains methodologically undetermined. This is partial purchase against the structural void, in the disciplined register that [[evidential-status-discipline]] requires.
 
 Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] treats first-person reports and third-person neural data as mutually constraining. Lutz et al. (2002) demonstrated that trained meditators' phenomenological reports of distinct attentional states predicted variations in neural synchrony invisible without the phenomenological categories. The bridge is genuine but partial: identifying which neural signature corresponds to which phenomenal state still requires first-person reports, reintroducing phenomenological evidence into its own validation chain. Neurophenomenology narrows this circularity without breaking it.
 

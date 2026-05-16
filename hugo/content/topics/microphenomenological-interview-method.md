@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-05-15 10:30:00+00:00
+ai_modified: 2026-05-16 07:23:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -31,6 +31,7 @@ related_articles:
 - '[[voids/confabulation-void]]'
 - '[[voids/source-attribution-void]]'
 - '[[voids/noetic-feelings-void]]'
+- '[[phenomenology-of-memory-and-the-self]]'
 title: The Microphenomenological Interview Method
 topics: []
 ---
@@ -148,9 +149,10 @@ The Map does *not* claim that Petitmengin or her collaborators hold any tenet th
 
 ## Further Reading
 
-- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — the broader epistemological frame and the claim the method operationalises
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — the broader epistemological frame and the claim the method operationalises; cites the Confabulation-Resistance Discipline at §"Methodological Implications" as the structured-method layer-2/3 reliability response
 - [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — the programme microphenomenology serves
-- [phenomenological-evidence](/concepts/phenomenological-evidence/) — concept page for the evidence type
+- [phenomenological-evidence](/concepts/phenomenological-evidence/) — concept page for the evidence type; cites the Confabulation-Resistance Discipline at §"Microphenomenology" as the structured-method response to confabulation
+- [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) — memory-introspection territory where Hurlburt's DES and Petitmengin's method are most relevant; cites the Confabulation-Resistance Discipline at §"Memory as Self-Threat" as the structured-method response to memory-confabulation
 - [introspection](/concepts/introspection/) — the baseline the method aims to improve on
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — a cognate trained-observation tradition
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — a parallel argument that disciplined first-person inquiry yields evidence of philosophical consequence
