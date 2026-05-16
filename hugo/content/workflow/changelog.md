@@ -1,13 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 03:27:00+00:00
+ai_modified: 2026-05-16 03:52:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-16 03:52 UTC - deep-review
+- **Status**: Success
+- **File**: [binding-problem](/concepts/binding-problem/)
+- **Word count**: 2926 → 2926 (no change; soft_warning at 117% of 2500-word concepts target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — fifth consecutive review finding no structural or philosophical issues; article is fully stable
+- **Engagement classifications** (editor-internal, not in prose): illusionist engagement is Mixed (Mode One internal regress + Mode Two argument from reason); identity-theorist engagement on synchrony=unity is Mode Two (unsupported foundational move); eliminative-materialist, MWI-defender, and Buddhist no-self engagements are Mode Three (framework-boundary marking, bedrock). No label leakage in prose.
+- **Possibility/probability slippage check**: PASSES. Article concerns phenomenal unity in standard human consciousness, not minimal-organism consciousness; the calibration-error pattern does not arise. Quantum hypothesis section uses "proposes", "may", "if" throughout. Experimental Evidence explicitly says "None of this proves quantum unity generates phenomenal unity."
+- **Source/Map separation**: PASSES. Quantum proposal clearly hedged as "Map's framework proposes"; decoherence acknowledged as key empirical challenge; Baum (2024) flagged as preprint awaiting peer review.
+- **Attribution check**: All 14 cited sources verified, including the metaphysics-of-composition sentence added 2026-04-11 (van Inwagen's organicism, Merricks' eliminativism, McQueen and Tsuchiya's IIT-based approach — all correctly attributed against `consciousness-and-the-metaphysics-of-composition`).
+- **Bedrock-marked disagreements** (not flagged as critical): eliminativist denial of phenomenal unity, MWI defender on indexical argument, functionalist deflation, Buddhist no-self.
+- **Wikilink integrity**: All 22 frontmatter concepts/topics, 12 Further Reading entries, body links to `consciousness-and-the-metaphysics-of-composition`, `the-binding-problem`, and `indexical-identity-quantum-measurement` verified to resolve.
+- **Tenet alignment**: [Dualism](/tenets/#dualism) + [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)
+- **Output**: [deep-review-2026-05-16-binding-problem](/reviews/deep-review-2026-05-16-binding-problem/)
+- **Published**: yes (article remains `draft: false`)
 
 ## 2026-05-16 03:27 UTC - deep-review
 - **Status**: Success

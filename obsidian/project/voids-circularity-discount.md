@@ -2,9 +2,9 @@
 title: "The Voids-Circularity Discount"
 description: "Voids catalogued under a framework cannot supply framework-independent evidence for that framework. The discount applies per-cluster independence scoring and prohibits double-counting of tenet-generated voids."
 created: 2026-05-13
-modified: 2026-05-13
+modified: 2026-05-16
 human_modified: null
-ai_modified: 2026-05-13T13:51:00+00:00
+ai_modified: 2026-05-16T04:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -24,6 +24,7 @@ related_articles:
   - "[[apex/taxonomy-of-voids]]"
   - "[[the-surplus-void]]"
   - "[[topics/introspection-architecture-independence-scoring]]"
+  - "[[apophatic-cartography-four-criteria]]"
   - "[[tenet-generated-voids]]"
   - "[[voids]]"
   - "[[the-convergence-argument-for-dualism]]"
@@ -108,6 +109,7 @@ The catalogue retains its value under the discount. Voids document what the stan
 - [[tenet-generated-voids]] — the sub-catalogue subject to the strict prohibition
 - [[the-surplus-void]] — first worked exhibit: the article that retracted its evidence-of-dualism framing in light of the circularity diagnosis
 - [[topics/introspection-architecture-independence-scoring]] — second worked exhibit: the four-void introspection-architecture sub-cluster scored against the four criteria, partially retaining the cluster's evidential weight via patient-population despite-commitments anchors
+- [[apophatic-cartography-four-criteria]] — the calibration apparatus this discount operates with; the four criteria define the scoring categories the per-cluster discount uses
 - [[the-convergence-argument-for-dualism]] — the convergence claim the discount most heavily constrains
 - [[voids]] — the catalogue's index
 

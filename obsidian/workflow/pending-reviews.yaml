@@ -505,3 +505,39 @@
   subject_articles:
   - topics/phantom-limb-phenomena.md
   subject_source: reuse:pending-reviews:outer-review-2026-05-16-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/43f865fd7566eb80
+  commissioned_at: '2026-05-16T04:39:03.195988+00:00'
+  prompt_summary: 'Audit phantom-limb-phenomena: claims, citations, counterargs, tenet
+    bracketing'
+  target_filename: outer-review-2026-05-16-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'I''d like a Deep Research audit of the article at https://unfinishablemap.org/topics/phantom-limb-phenomena/,
+    part of The Unfinishable Map, a philosophical content platform exploring consciousness
+    from a dualist perspective. The site''s recent activity is logged at https://unfinishablemap.org/workflow/changelog/.
+
+
+    Phantom-limb phenomena are a useful empirical testbed for dualist theories of
+    mind. The article makes claims about cortical remapping, mirror-box therapy, telescoping,
+    and how these data interact with the site''s five tenets (substance dualism, minimal
+    quantum interaction, bidirectional consciousness-matter influence, rejection of
+    many-worlds, and limits on Occam''s razor).
+
+
+    Please critically evaluate: (a) accuracy and currency of empirical claims against
+    the 2020s neuroscience and amputee-rehabilitation literature; (b) which cited
+    results have been challenged, retracted, or replicated; (c) whether the tenet-bracketed
+    framings hold up; (d) untested counterarguments or competing frameworks the article
+    omits.
+
+
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit phantom-limb-phenomena
+  subject_articles:
+  - topics/phantom-limb-phenomena.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-16-chatgpt-5-5-pro.md

@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-05-16T02:52:00+00:00
+ai_modified: 2026-05-16T04:40:00+00:00
 last_deep_review: 2026-05-15T22:52:00+00:00
 draft: false
 topics:
@@ -26,6 +26,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
   - "[[tenet-generated-voids]]"
   - "[[apophatic-cartography]]"
+  - "[[apophatic-cartography-four-criteria]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -49,7 +50,7 @@ The introspection-architecture sub-cluster names the cluster of voids documentin
 
 ## The Apex's Four Criteria
 
-[[apex/taxonomy-of-voids]] at line 162 cites [[apophatic-cartography]]'s four criteria for treating cognitive failure as data about genuine limits rather than current ignorance:
+[[apex/taxonomy-of-voids]] at line 162 cites the four criteria from [[apophatic-cartography]] (consolidated and operationalised at the dedicated [[apophatic-cartography-four-criteria]] concept page) for treating cognitive failure as data about genuine limits rather than current ignorance:
 
 1. **Signature specificity.** The cluster must produce a *specific* failure signature, not generic mystery — different voids produce different signatures.
 2. **Structured persistence.** The failure must persist across time and across competing frameworks.
@@ -144,7 +145,8 @@ The exhibit is a scoring artefact, not a closure. The despite-commitments / beca
 - [[voids-circularity-discount]] — the cluster-level application of common-cause-null
 - [[evidential-status-discipline]] — the single-claim calibration layer
 - [[tenet-generated-voids]] — the strict-prohibition sub-catalogue the discount applies to
-- [[apophatic-cartography]] — source of the four scoring criteria
+- [[apophatic-cartography]] — originating page with the broader five-criteria list
+- [[apophatic-cartography-four-criteria]] — dedicated concept page consolidating the four scoring criteria as the catalogue's calibration backbone; this exhibit is its partial-retention case
 - [[introspection]] — the architectural feature the cluster is about
 - [[cross-review-2026-05-15-introspection-architecture-cluster-audit]] — the audit that named the cluster
 

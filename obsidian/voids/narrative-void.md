@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own s
 created: 2026-02-25
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-05-15T12:29:00+00:00
+ai_modified: 2026-05-16T04:40:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -18,6 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[self-opacity]]"
   - "[[topics/introspection-architecture-independence-scoring]]"
+  - "[[apophatic-cartography-four-criteria]]"
   - "[[inaccessible-past]]"
   - "[[imagination-and-creativity-void]]"
   - "[[self-maintained-cognitive-limits]]"
@@ -34,7 +35,7 @@ last_deep_review: 2026-03-11T20:31:00+00:00
 
 Consciousness constructs a running story of who you are—a coherent narrative from fragmentary, discontinuous experience. But the construction process is invisible to the one living inside the result. The Unfinishable Map calls this the narrative void: the gap between raw experience and the story consciousness tells about itself. What gets edited out, smoothed over, or fabricated to maintain coherence cannot be observed from within the narrative. Worse, the fabrication presents itself with the same phenomenological confidence as genuine memory.
 
-This void is not merely an epistemic limitation. It is a three-layered structure—partly unexplored, partly unexplorable, and actively occluded—that raises sharp questions about self-knowledge, personal identity, and the nature of conscious agency. It sits within the introspection-architecture sub-cluster alongside [[source-attribution-void]], [[noetic-feelings-void]], [[confabulation-void]], and the methodological [[self-opacity]], each of which catalogues a distinct face of the introspector's bounded access to its own substrate. [[topics/introspection-architecture-independence-scoring|The independence-scoring exhibit]] scores the four-void cluster against the [[voids-circularity-discount|voids-circularity discount]]'s four criteria; this void's anchors (Nisbett-Wilson, Gazzaniga, Johansson-Hall) contribute to the cluster's healthy-adult despite-commitments channel.
+This void is not merely an epistemic limitation. It is a three-layered structure—partly unexplored, partly unexplorable, and actively occluded—that raises sharp questions about self-knowledge, personal identity, and the nature of conscious agency. It sits within the introspection-architecture sub-cluster alongside [[source-attribution-void]], [[noetic-feelings-void]], [[confabulation-void]], and the methodological [[self-opacity]], each of which catalogues a distinct face of the introspector's bounded access to its own substrate. [[topics/introspection-architecture-independence-scoring|The independence-scoring exhibit]] scores the four-void cluster against the [[apophatic-cartography-four-criteria|catalogue's four criteria]] (the calibration apparatus the [[voids-circularity-discount|voids-circularity discount]] operates against); this void's anchors (Nisbett-Wilson, Gazzaniga, Johansson-Hall) contribute to the cluster's healthy-adult despite-commitments channel.
 
 ## The Unreliable Narrator
 

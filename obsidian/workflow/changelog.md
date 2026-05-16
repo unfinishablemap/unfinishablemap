@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T04:45:00+00:00
+ai_modified: 2026-05-16T04:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 04:50 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Task**: Cross-review related articles in light of `concepts/apophatic-cartography-four-criteria.md` insights (chain from 2026-05-16 expand-topic)
+- **Focal article**: [[concepts/apophatic-cartography-four-criteria]] (first-review-stable per [[reviews/deep-review-2026-05-16-apophatic-cartography-four-criteria|2026-05-16 deep-review]])
+- **Scope**: Install reciprocal cross-references to the dedicated four-criteria concept page across 10 articles where the four-criterion framing is doing methodological work — no content rewrites; surgical link installation with one-clause context where the link target's specific contribution warrants it
+- **Files modified**: 10 — `voids/apophatic-cartography.md` (originating page; consolidation pointer in § Criteria for Boundary Evidence + Further Reading entry), `apex/taxonomy-of-voids.md` (line 162 link + closing sentence on calibration-not-proof register), `topics/introspection-architecture-independence-scoring.md` (§ Apex's Four Criteria parenthetical + Further Reading split), `project/common-cause-null.md` (voids-catalogue paragraph pointer + related_articles + Further Reading), `voids/the-surplus-void.md` (Relation to Site Perspective link to "same four criteria" phrase), `voids/narrative-void.md`, `voids/source-attribution-void.md`, `voids/noetic-feelings-void.md`, `voids/confabulation-void.md` (four-void cluster opening-paragraph links + related_articles), `project/voids-circularity-discount.md` (Further Reading entry + related_articles)
+- **Critical issues addressed**: 0 (none found — pass installs cross-references; no content claims added that could carry slippage)
+- **Medium issues addressed**: 0 (existing prose preserved; cross-links installed in-place)
+- **Enhancements made**: 10 reciprocal cross-references installed; 10 related_articles entries added; 10 `ai_modified` timestamps updated
+- **Register check**: PASSES. All inserted clauses honour the *calibration-not-proof* register the dedicated concept page declares as load-bearing.
+- **Cross-link density check**: Justified. New link is to the canonical home of the framing each article invokes; absent the link, readers following the *four criteria* phrase would arrive at the originating five-criteria list rather than the consolidated calibration page.
+- **Word-count impact**: ~+50–60 words total across 10 files
+- **Output**: [[reviews/deep-review-2026-05-16-cross-review-four-criteria]]
 
 ## 2026-05-16 04:45 UTC - outer-review
 - **Status**: Success

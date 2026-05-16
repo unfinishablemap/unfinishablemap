@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot detect when it fa
 created: 2026-05-15
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-15T18:28:00+00:00
+ai_modified: 2026-05-16T04:40:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -17,6 +17,7 @@ related_articles:
   - "[[voids]]"
   - "[[apex/taxonomy-of-voids]]"
   - "[[topics/introspection-architecture-independence-scoring]]"
+  - "[[apophatic-cartography-four-criteria]]"
   - "[[tenets]]"
   - "[[narrative-void]]"
   - "[[source-attribution-void]]"
@@ -40,7 +41,7 @@ last_curated:
 
 Confabulation is the production of plausible-sounding but ungrounded explanations for one's own behaviour, beliefs, and mental contents. The Confabulation Void is the structural reason consciousness cannot detect this operation from inside: a sub-personal generator supplies positive content where direct access is missing, a metacognitive signal marks the fabricated content with felt-rightness equal to or higher than veridical access, and the fraction of one's own self-explanations that are confabulated rather than true is unknowable from within. The void is not silence where there should be report. It is fabrication where there should be silence, with no interior way to tell the difference.
 
-This puts the Confabulation Void in a different position from its siblings within the **introspection-architecture sub-cluster**. The [[source-attribution-void|source-attribution void]] names *absent* origin signals. The [[narrative-void|narrative void]] names the *unobservability* of the storytelling operation. The [[noetic-feelings-void|noetic-feelings void]] names the *gating-signal* opacity. The methodological [[self-opacity]] frames the broader self-knowledge context. The Confabulation Void names what fills the absence: a generative system that produces replacement content carrying the phenomenology of accurate report. The category mix is **Occluded + Unexplorable** — occluded because the filling-in is functional rather than accidental, unexplorable because the test that would distinguish confabulation from accurate report is structurally unavailable to the introspector. The [[apex/taxonomy-of-voids#the-self-knowledge-cluster|taxonomy of voids]] registers the four-void introspection-architecture sub-cluster as a structural sub-cluster within the self-knowledge domain, with the Coutinho et al. (2021) inverse-correlation finding singled out as the sub-cluster's empirical anchor. [[topics/introspection-architecture-independence-scoring|The independence-scoring exhibit]] scores the cluster jointly against the four-criterion methodology and assigns Coutinho et al. to the healthy-adult despite-commitments channel; Schnider's orbitofrontal patients supply the cluster's strongest patient-population anchor.
+This puts the Confabulation Void in a different position from its siblings within the **introspection-architecture sub-cluster**. The [[source-attribution-void|source-attribution void]] names *absent* origin signals. The [[narrative-void|narrative void]] names the *unobservability* of the storytelling operation. The [[noetic-feelings-void|noetic-feelings void]] names the *gating-signal* opacity. The methodological [[self-opacity]] frames the broader self-knowledge context. The Confabulation Void names what fills the absence: a generative system that produces replacement content carrying the phenomenology of accurate report. The category mix is **Occluded + Unexplorable** — occluded because the filling-in is functional rather than accidental, unexplorable because the test that would distinguish confabulation from accurate report is structurally unavailable to the introspector. The [[apex/taxonomy-of-voids#the-self-knowledge-cluster|taxonomy of voids]] registers the four-void introspection-architecture sub-cluster as a structural sub-cluster within the self-knowledge domain, with the Coutinho et al. (2021) inverse-correlation finding singled out as the sub-cluster's empirical anchor. [[topics/introspection-architecture-independence-scoring|The independence-scoring exhibit]] scores the cluster jointly against the [[apophatic-cartography-four-criteria|four-criterion methodology]] and assigns Coutinho et al. to the healthy-adult despite-commitments channel; Schnider's orbitofrontal patients supply the cluster's strongest patient-population anchor.
 
 ## The Three-Face Structure
 

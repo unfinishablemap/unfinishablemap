@@ -3,7 +3,7 @@ title: "Apophatic Cartography: Method and Its Limits"
 created: 2026-01-10
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-29T11:34:00+00:00
+ai_modified: 2026-05-16T04:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,6 +33,7 @@ related_articles:
   - "[[conceptual-scheme-void]]"
   - "[[suspension-void]]"
   - "[[conjunction-coalesce]]"
+  - "[[apophatic-cartography-four-criteria]]"
 description: "How apophatic methods map the boundaries of consciousness through negation—and why any such cartography is constitutively incomplete, unable to catalog its own blind spots."
 ai_contribution: 100
 author: null
@@ -62,7 +63,7 @@ Colin McGinn's [[mysterianism|new mysterianism]] applies apophatic reasoning to 
 
 ## Criteria for Boundary Evidence
 
-Void-mapping requires explicit evidential standards for when cognitive failure counts as data about genuine boundaries. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] embeds these within a broader framework of eliminative inference.
+Void-mapping requires explicit evidential standards for when cognitive failure counts as data about genuine boundaries. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] embeds these within a broader framework of eliminative inference. The five criteria below are the page's original list; the [[apophatic-cartography-four-criteria|consolidated four-criteria concept page]] is the catalogue's canonical referential anchor, folding *progressive articulation* into structured persistence's temporal face and supplying two worked exhibits ([[the-surplus-void]] and [[topics/introspection-architecture-independence-scoring|the introspection-architecture sub-cluster]]) that operationalise the criteria as a *calibration* instrument rather than a proof procedure.
 
 **Structured persistence.** A failure must produce a specific breakdown—self-refutation, aporia, introspective opacity, systematic illusion—rather than vague confusion, and must resist correction across time and frameworks. The explanatory gap has persisted through centuries of increasingly sophisticated attempts at resolution.
 
@@ -160,6 +161,7 @@ Apophatic cartography provides the methodological backbone for the Map's most di
 
 ## Further Reading
 
+- [[apophatic-cartography-four-criteria|The Four Criteria of Apophatic Cartography]] — Dedicated concept page consolidating the criteria as the catalogue's calibration backbone, with two worked exhibits and the *calibration-not-proof* register
 - [[medium-status-voids-in-cognition|Medium-Status Voids in Cognition]] — Apex synthesis on operations that structure cognition while remaining invisible from inside; apophatic method is the natural cartographic discipline for medium-status voids whose interior cannot be entered directly
 - [[voids|Voids in the Map]] — Broader context
 - [[taxonomy-of-voids|A Taxonomy of Voids]] — Synthesis placing cartographic limits within the full voids architecture
