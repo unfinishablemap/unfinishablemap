@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T11:52:00+00:00
+ai_modified: 2026-05-16T12:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 12:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Source**: outer-review (Claude Opus 4.7 §3.1 — "the most consequential omission")
+- **Review file**: [[reviews/outer-review-2026-05-16-claude-opus-4-7]]
+- **Changes**: Added new section §"The Neuromatrix Picture and Where the Map's Reading Differs" {#neuromatrix} (~750 words, 5 paragraphs) engaging Melzack 1990/2001 as the canonical contemporary physicalist competitor; conceded that brain-constructed felt body, persistent central representation, innate default body schema, and top-down modulation of nociception are all neuromatrix-theory commitments, not findings the theory must accommodate against the grain. Reformulated lede feature (i) to drop the periphery-readout strawman framing of materialism; added explicit acknowledgment that the central-construction view is convergent across modern pain science (neuromatrix, predictive processing, biopsychosocial), not Map-distinctive. Qualified the "Whatever pain is, it is not simply the conscious read-out of nociceptive transduction" passage in §"What Phantom Pain Tells Us About Pain" with the same convergence acknowledgment. Reframed the Dualism subsection of §"Relation to Site Perspective" to mark the framework-boundary disagreement honestly (phantoms exhibit the standard hard problem rather than differentially refuting materialism; "consistent with" rather than "evidence for" the dualist reading where the relation is in fact compatibility).
+- **New citations** (2): Melzack 1990 (*Trends Neurosci.* 13(3):88–92, "Phantom limbs and the concept of a neuromatrix"); Melzack 2001 (*J Dent Educ* 65(12):1378–1382, "Pain and the neuromatrix in the brain"). Both foundational pain-theory references with stable bibliographic metadata; no DOI verification required.
+- **Reasoning-mode** (editor-internal): engagement with Melzack neuromatrix theory — Mode Three (framework-boundary marking); the Map cedes essentially all of neuromatrix theory's empirical commitments and locates the disagreement at the framework boundary (whether the mechanism story redeems the bridge to felt content within physicalist resources). On its own terms, neuromatrix theory is engaged as the best contemporary articulation of the production-conditions story the Map shares with it, not refuted. Companion correction: engagement with the strawman peripheralist materialism — Mode One; defective on its own terms because no twenty-first-century pain theorist holds the position; corrective action is retraction rather than upgrade. No mode labels in article body.
+- **Scope**: ~750 words added (new section) + ~150 words reformulated across lede, "What Phantom Pain Tells Us About Pain", and Dualism subsection + 2 new citations + frontmatter timestamp + refinement log.
+- **Outstanding** (handled by sibling P1 tasks): predictive-processing engagement, somatic-interface em-dash tenet bleed, mirror-therapy current-literature qualification, Price 2006 + Root 2022 congenital phantoms.
+- **Published**: yes
 
 ## 2026-05-16 11:52 UTC - refine-draft
 - **Status**: Success
