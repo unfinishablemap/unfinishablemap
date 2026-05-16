@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T11:35:00+00:00
+ai_modified: 2026-05-16T11:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 11:45 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-16
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-5-pro, claude-opus-4-7; gemini-2-5-pro still in collected/not-yet-processed state at synthesis time)
+- **Subject**: topics/phantom-limb-phenomena.md (subject_type: recent, fallback:recent-aged)
+- **Clusters**: 4 convergent (Makin programme on cortical-map stability; predictive-processing as physicalist competitor; mirror-therapy claims need qualification; congenital phantoms under-sourced), 4 singletons (Claude: Melzack neuromatrix, em-dash tenet bleed, falsifier #3 reformulation, common-cause-null audit on three pillars), 3 additional convergent findings recorded only (peripheral mechanisms, peripheralist strawman, top-down ≠ mental causation — no dedicated open task, addressed by completed cross-review + singletons), 0 divergent
+- **Tasks upgraded**: 3 (P2 → P1: predictive-processing, mirror-therapy qualification, Price 2006 + Root 2022 congenital phantoms). Makin task already P1; rewritten in place with cross-reviewer attribution.
+- **Tasks deduplicated**: 0 (ChatGPT-derived tasks for these clusters had already been completed earlier in the day — cross-review reciprocal integration + dual-domain-capabilities overclaim — so no sibling deletions needed; the Claude tasks stand as single open tasks for each convergent cluster).
+- **Methodological convergences**: 4 (recency gate; contemporary physicalist competitor pass; top-down lint / tenet-bleed lint; reviews-are-provisional). Recorded in synthesis for next system-tune cycle.
+- **Output**: [[reviews/outer-review-synthesis-2026-05-16]]
 
 ## 2026-05-16 11:35 UTC - outer-review
 - **Status**: Success
