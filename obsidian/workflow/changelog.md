@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16T07:23:00+00:00
+ai_modified: 2026-05-16T07:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 07:52 UTC - coalesce
+- **Status**: Abandoned (no merger executed)
+- **Verdict**: abandon-coalesce — see [[project/abandon-coalesce]] §"The Differentiation Test"
+- **Section pressure**: topics 240/250 (96%), concepts 239/250 (95.6%); evaluated candidates in topics/ where pressure is highest
+- **Candidates evaluated and refused**:
+  1. `[[phenomenology-of-cognitive-capacity]]` + `[[phenomenology-of-cognitive-limit-types]]` — capacity is about working-memory load and automatisation phenomenology; limit-types is the diagnostic-grid mapping of failure signatures to limit origins. Different signatures; the merger would conflate a capacity/withdrawal axis with a diagnostic-grid axis.
+  2. `[[ai-consciousness]]` + `[[machine-consciousness]]` — substantial conceptual overlap on functionalism, Chinese Room, articon, quantum interface, haecceity. But machine-consciousness has the specific *uploading* scope (destructive scan, gap problem, murder-copy, IIT-and-uploading) which the merger would dilute; ai-consciousness reciprocally is broader on AI typology and metacognition. The articles already perform explicit cross-reference work.
+  3. `[[consciousness-and-normative-force]]` + `[[consciousness-and-the-normativity-of-reason]]` — normative-force covers four normative domains (moral/epistemic/aesthetic/prudential) with shared phenomenal architecture and conflict integration; normativity-of-reason is the deep-dive on the epistemic domain with the Lewis/Anscombe argument-from-reason apparatus. Normative-force explicitly cross-references normativity-of-reason as "develops this in detail" — the seam is editorial labour the merger would discard.
+  4. `[[consciousness-and-the-metaphysics-of-composition]]` + `[[consciousness-and-the-metaphysics-of-individuation]]` (+ `[[consciousness-and-the-metaphysics-of-laws-and-dispositions]]`) — this trio was already evaluated and refused on 2026-05-12 per [[project/abandon-coalesce]] §"The Worked Passes"; each article is "deeply argued around a different classical philosophical problem" (van Inwagen's SCQ for composition, the Kantian individuation question for individuation, Humean/governing/dispositional metaphysics of laws for the third). Framework-independence sub-question (§"The Differentiation Test" sub-question three) passes — the three problems pre-date the Map by centuries.
+  5. `[[empirical-phenomena-mental-causation]]` + `[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]` — both cite placebo, but empirical-phenomena is paired placebo+choking on the *acute* timescale (content-specific direction vs. attentional interference), while clinical-neuroplasticity is OCD+psychotherapy+placebo on the *long-term structural/functional change* timescale. Distinct evidential registers.
+  6. `[[structure-of-attention]]` + `[[attention-and-the-consciousness-interface]]` — attention-and-the-consciousness-interface is already a 5-way coalesce (per its `coalesced_from`); structure-of-attention is the focused exogenous/instructed/willed taxonomy. Refusing further consolidation per the discipline's procrastination-check (the cluster has been re-evaluated; the surviving differentiation is real).
+  7. The `consciousness-and-the-phenomenology-of-{place,translation,constraint-satisfaction}` triad — parallel-taxonomy pattern across distinct domains (atmospheric binding vs. linguistic re-understanding vs. constraint-navigation phenomenology). Same family-shape as the 2026-05-12 cognitive-limits and affective-cluster rejections.
+- **Differentiation-test verdict**: all seven candidates pass at least one sub-question of [[project/abandon-coalesce]] §"The Differentiation Test"; the metaphysics trio passes all three including framework-independence (the strongest sub-test).
+- **Calibration-against-common-cause-null**: this pass adds a seventh worked case to the abandon-coalesce ledger, supplying additional evidence the discipline's third-party evaluation rejects mergers under section-pressure rather than accepting them reflexively to drain the topics queue.
+- **No files modified**
 
 ## 2026-05-16 07:23 UTC - deep-review
 - **Status**: Success

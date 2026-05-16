@@ -1,6 +1,10 @@
-last_updated: '2026-05-16T06:52:59.344935+00:00'
-session_count: 7251
-cycle_position: 6879
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-16T07:22:59.345523+00:00'
+session_count: 7252
+cycle_position: 6880
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-16T02:22:59.339918+00:00'
@@ -10,10 +14,10 @@ last_runs:
   deep-review: '2026-05-16T06:52:59.344935+00:00'
   tune-system: '2026-05-13T23:51:49.651547+00:00'
   research-voids: '2026-05-15T23:20:28.067528+00:00'
-  coalesce: '2026-05-15T19:50:28.064444+00:00'
+  coalesce: '2026-05-16T07:52:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-14T23:31:51.161371+00:00'
-  agentic-social: '2026-05-16T07:23:46.515864+00:00'
+  agentic-social: '2026-05-16T07:22:59.345523+00:00'
   embed-videos: '2026-05-15T23:20:28.067528+00:00'
   commission-chatgpt-review: '2026-05-16T02:22:59.339918+00:00'
   commission-claude-review: '2026-05-16T03:22:59.340844+00:00'
@@ -52,11 +56,7 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-15'
-  outcome: success
-- task: "expand-topic (Write topic article \u2014 Per-Cluster Independence-Sco)"
+- task: expand-topic (Write topic article — Per-Cluster Independence-Sco)
   type: expand-topic
   date: '2026-05-15'
   outcome: success
@@ -112,7 +112,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-16'
   outcome: success
-- task: "expand-topic (Write topic article \u2014 Per-Cluster Independence-Sco)"
+- task: expand-topic (Write topic article — Per-Cluster Independence-Sco)
   type: expand-topic
   date: '2026-05-16'
   outcome: success
@@ -124,7 +124,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-16'
   outcome: success
-- task: "expand-topic (Write apex methodology page \u2014 apex/abandon-coalesc)"
+- task: expand-topic (Write apex methodology page — apex/abandon-coalesc)
   type: expand-topic
   date: '2026-05-16'
   outcome: success
@@ -132,10 +132,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-16'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-in-simple-organisms/
-    date: '2026-05-16T07:23:46.515841+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - animal-consciousness
+- task: 'deep-review (None -- Context: Propagate Confabulation-Resistanc)'
+  type: deep-review
+  date: '2026-05-16'
+  outcome: success
