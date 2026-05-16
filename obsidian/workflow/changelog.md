@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-15T23:43:00+00:00
+ai_modified: 2026-05-16T00:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-16 00:10 UTC - research-topic
+- **Status**: Success
+- **Topic**: cross-tradition channel (Advaita / Sufi / Stoic) for introspection-architecture independence scoring
+- **Output**: [[research/cross-tradition-channel-introspection-architecture-independence-2026-05-16]]
+- **Sources consulted**: 20+ (Shankara's *Adhyāsa Bhāṣya*, *antaḥkaraṇa* doctrine, *pratibimbavāda*, *vāsanā/saṃskāra*, Muḥāsibī's *muḥāsaba*, *khawāṭir* taxonomy, Al-Ghazālī on *ghurūr* and hidden *riyāʾ*, Ibn ʿArabī on *khayāl/barzakh*, Stoic *phantasia/synkatathesis*, *propatheia* (Seneca), *prosochē*, Sorabji, Ganeri, Albahari, Thompson, Pyrrho-Buddhism scholarship, Sufi-Vedānta exchange documentation, Stoic-CBT lineage). Key finding: the *Sufi khawāṭir taxonomy* is the strongest single structural parallel to [[source-attribution-void]] (the doctrine that thoughts arrive without delivered source-tags); the *Stoic propatheia* (Seneca's "first movements") is the strongest *despite-commitments* observation across the three traditions (added under empirical pressure to handle involuntary affect the pure cognitive theory of emotion did not predict). Historical-isolation defence is *contested*: Stoicism may be downstream of Pyrrho-Buddhism contact; late Sufism (Ibn ʿArabī) is heavily Vedānta-influenced; only Muḥāsibī's early-Sufi *muḥāsaba* and Shankara's *Adhyāsa Bhāṣya* have reasonably clean independence claims. Stoic-CBT lineage (Ellis, Beck) is a *partial common-cause channel* for the modern cognitive-psychology evidence in the parent exhibit. Net: cross-tradition channel earns *calibration-grade* (moderate-not-load-bearing) convergence; upgrades the parent exhibit's Criterion 3 (cross-observer convergence) from "moderate at contemplative-tradition boundary (*kleshas*-only)" to *low-moderate at cross-tradition boundary*, with explicit despite-commitments scoring at the architectural-specifics level rather than the framework level.
 
 ## 2026-05-15 23:43 UTC - research-voids
 - **Status**: Success
