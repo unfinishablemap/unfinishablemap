@@ -1,28 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-01 14:53:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-05-17 00:00:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts: []
 created: 2026-01-16
-date: &id001 2026-01-16
+date: &id001 2026-05-17
+description: A consolidated catalogue of what observations would update for or against
+  the Map's framework. Distinguishes decisive disconfirmers from weak evidence from
+  non-evidence, separating tenet-register support from evidence-register support to
+  forestall possibility/probability slippage.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-05-17 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[project]]'
 - '[[framework-stage-calibration]]'
+- '[[evidential-status-discipline]]'
+- '[[direct-refutation-discipline]]'
+- '[[falsification-roadmap-for-the-interface-model]]'
+- '[[mqi-empirical-fragility]]'
+- '[[bedrock-clash-vs-absorption]]'
 title: Testability Ledger
 topics: []
 ---
 
-This ledger tracks what observations would update for or against The Unfinishable Map's framework. Several pages claim the framework is falsifiable, but the specific test hooks are scattered. This document consolidates them into a central reference, separating decisive disconfirmers from weak evidence from non-evidence.
+This ledger tracks what observations would update for or against The Unfinishable Map's framework, consolidating test hooks scattered across the site. It separates decisive disconfirmers from weak evidence from non-evidence — and from data the framework's enthusiasts sometimes count as evidence but should not.
 
-The goal is epistemic hygiene: avoiding unfalsifiability accusations by being explicit about what could change our minds.
+The goal is epistemic hygiene in two directions: avoiding unfalsifiability accusations by being explicit about what could change our minds, *and* avoiding the opposite failure mode of treating tenet-coherence as evidence-elevation. The ledger operationalises the [evidential-status discipline](/project/evidential-status-discipline/)'s core move: keep *tenet-register support* (a tenet removes a defeater) separable from *evidence-register support* (positive empirical findings raise probability). Items the framework permits but the data do not yet support belong in the [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/)'s "what would have to occur" register, not here.
+
+The ledger also distinguishes *tenet-level* disconfirmation from *mechanism-level* disconfirmation. The Map's interface model is at the [pre-Keplerian stage](/project/framework-stage-calibration/) — accumulating measurements without an inferred psychophysical law — so the same observation that devastates one specific proposal (Stapp's quantum-Zeno mechanism, Orch OR microtubule coherence) leaves the broader interactionist tenet intact unless *no* mechanism in the available class survives. The ledger tracks tenet-level disconfirmers; the "Relation to Site Perspective" section below revisits the layering.
 
 ## The Framework's Core Claims
 
@@ -34,7 +45,7 @@ The [tenets](/tenets/) make five commitments:
 4. **No Many Worlds**: Collapse is real; branching interpretations are rejected
 5. **Occam's Razor Has Limits**: Simplicity is not a reliable guide when knowledge is incomplete
 
-Each claim has potential disconfirmers.
+Each claim has potential disconfirmers. Two further sections track derived theoretical commitments — **Filter Theory** and **Retrocausality / Atemporal Selection** — that the Map adopts but are not themselves tenets. They are listed below for completeness because the catalogue makes substantive claims about them, but disconfirming a derived commitment does not by itself disconfirm the tenets the commitment helps elaborate.
 
 ---
 
@@ -93,7 +104,7 @@ Each claim has potential disconfirmers.
 
 | Observation | Impact | Current Status |
 |-------------|--------|----------------|
-| Anomalies in random number generator data during mass events | Would suggest consciousness affects outcomes | Contested (Global Consciousness Project) |
+| Anomalies in random number generator data during mass events | Would suggest consciousness affects outcomes | Methodologically contested (Global Consciousness Project; widely critiqued for post-hoc event selection and multiple-comparisons issues) |
 | Neural quantum effects surviving longer than expected | Would strengthen mechanism plausibility | Some evidence (avian magnetoreception, microtubule coherence) |
 | Correlations between attention and neural quantum states | Would support Stapp's Zeno mechanism | Preliminary research |
 
@@ -177,9 +188,9 @@ Each claim has potential disconfirmers.
 
 ---
 
-## 5. Filter Theory
+## 5. Filter Theory (derived commitment)
 
-**The claim**: The brain filters/transmits consciousness rather than producing it. Correlations don't establish production.
+**The claim**: The brain filters/transmits consciousness rather than producing it. Correlations don't establish production. This is a derived theoretical commitment elaborating Tenet 1 (Dualism), not a tenet itself; falsifying the filter reading does not by itself falsify the dualism tenet, which is compatible with other consciousness-substrate relationships.
 
 ### Decisive Disconfirmers
 
@@ -193,7 +204,7 @@ Each claim has potential disconfirmers.
 
 | Observation | Impact | Current Status |
 |-------------|--------|----------------|
-| More brain activity → more consciousness consistently | Would fit production better than filtering | Psychedelics and NDEs show opposite pattern |
+| More brain activity → more consciousness consistently | Would fit production better than filtering | Mixed: gross arousal correlates with reportable consciousness, but psychedelic and some NDE contexts show enhanced experience alongside disrupted (not uniformly increased) activity. The picture is underdetermined rather than monotonic |
 | Brain damage destroying consciousness entirely (not just limiting it) | Would suggest production | Evidence is ambiguous (covert consciousness cases) |
 | No enhanced experience during brain compromise | Would weaken filter paradox | Enhancement is documented |
 
@@ -201,7 +212,7 @@ Each claim has potential disconfirmers.
 
 | Observation | Impact | Current Status |
 |-------------|--------|----------------|
-| Reduced brain activity → enhanced experience (psychedelics, NDEs) | Fits filtering, embarrasses production | Documented |
+| Reduced default-mode-network activity coinciding with enhanced experience (psychedelics, some NDE contexts) | Compatible with filtering; also compatible with REBUS, entropic-brain, and predictive-processing accounts that explain the same signatures without filtering. Compatibility does not entail support without an independent discriminator (see [evidential-status-discipline](/project/evidential-status-discipline/) on compatibility vs. support) | Documented but underdetermined |
 | Covert consciousness in unresponsive patients | Shows consciousness persists beyond expression | ~25% of "vegetative" patients |
 | Memory retrieval mechanisms found without stable storage | Fits Bergson's prediction | Engram remains elusive |
 
@@ -213,9 +224,9 @@ Each claim has potential disconfirmers.
 
 ---
 
-## 6. Retrocausality / Atemporal Selection
+## 6. Retrocausality / Atemporal Selection (derived commitment)
 
-**The claim**: Consciousness may select outcomes atemporally, with apparent retrocausal influence (Libet resolution).
+**The claim**: Consciousness may select outcomes atemporally, with apparent retrocausal influence (Libet resolution). Like Filter Theory, this is a derived commitment elaborating (not entailed by) Tenet 3. The catalogue labels it *speculative integration*: tenet-coherent and worth investigating, but the case rests on metaphysical compatibility plus suggestive interpretation rather than positive empirical support.
 
 ### Decisive Disconfirmers
 
@@ -238,7 +249,7 @@ Each claim has potential disconfirmers.
 | Observation | Impact | Current Status |
 |-------------|--------|----------------|
 | Delayed-choice experiments behaving as if retrocausal | Would support framework | Standard QM result |
-| Time-symmetric interpretations (TSVF) being viable | Would support conceptual framework | Actively researched |
+| Time-symmetric interpretations (TSVF) being viable | Compatibility with retrocausal framework (not direct support; TSVF is interpretively neutral on consciousness) | Actively researched |
 | Libet-style experiments showing systematic patterns | Would support non-random selection | Some evidence |
 
 ---
@@ -251,7 +262,7 @@ Each claim has potential disconfirmers.
 | Minimal Quantum Interaction | Closing measurement problem without observers | Open research question |
 | Bidirectional Interaction | Demonstrating epiphenomenalism empirically | Strongly challenged by self-stultification |
 | No Many Worlds | Solving MWI probability problem | Active research problem |
-| Filter Theory | Production model explaining paradoxical findings | Currently embarrassed by data |
+| Filter Theory | Production model with independent discriminator for the paradoxical findings (psychedelic/NDE neuroimaging signatures) | Underdetermined: psychedelic and NDE data are compatible with filtering but also with REBUS, entropic-brain, and predictive-processing accounts |
 | Retrocausality | Ruling out time-symmetric QM | Not imminent |
 
 ## What Would Update the Map's Confidence
@@ -259,7 +270,7 @@ Each claim has potential disconfirmers.
 ### High-impact updates possible:
 
 1. **Neural decoherence debate resolution**: If Tegmark is definitively right (too fast for quantum effects), mechanisms need revision
-2. **Random number generator experiments**: Convincingly positive or negative results would update
+2. **Random number generator experiments**: Convincingly positive results under pre-registered, replicable protocols (not post-hoc event analysis) would update toward mechanism; sustained, well-powered negative results would update against. The Global Consciousness Project as currently conducted does not meet the methodological bar in either direction
 3. **IIT or GWT predictions confirmed**: Would shift balance toward functionalism
 4. **New measurement problem proposals**: Could close or expand logical space
 
@@ -278,21 +289,27 @@ Each claim has potential disconfirmers.
 
 ---
 
+## Relation to Site Perspective
+
+The ledger is the catalogue's accountability artefact for the five tenets. The structure enforces three things the Map's perspective requires.
+
+**Honest falsifiability.** Tenet 5 (Occam's Razor Has Limits) is the most vulnerable to unfalsifiability accusations. The ledger answers by stipulating *empirical* disconfirmers for the other four tenets so that the anti-parsimony commitment is not load-bearing for the framework's resistance to disconfirmation. Tenet 5 is the epistemological framing, not an empirical shield.
+
+**Separation of registers.** The four-category structure operationalises the [evidential-status discipline](/project/evidential-status-discipline/)'s distinction between *tenet-register support* (a tenet removes a defeater) and *evidence-register support* (positive empirical findings raise the probability of a claim). The Non-Evidence category is the discipline's structural protection against possibility/probability slippage: items the framework permits but the data do not establish belong nowhere on the support side of the ledger.
+
+**Stage-calibrated claims.** Per [framework-stage-calibration](/project/framework-stage-calibration/), the decisive disconfirmers listed for MQI and Bidirectional Interaction target the *class of interactionist proposals*, not any specific mechanism. Stapp's quantum-Zeno proposal, Eccles' tunneling-bias proposal, and Orch OR are proto-models; their individual disconfirmation would constrain the field without by itself disconfirming the tenets they serve. See [mqi-empirical-fragility](/project/mqi-empirical-fragility/) for mechanism-specific tracking.
+
 ## Using This Ledger
 
-This ledger should be updated when:
-- Major empirical developments occur in consciousness science
-- New philosophical arguments appear
-- the Map's positions shift based on evidence
-- New test hooks are identified
-
-The purpose is accountability: being explicit about what would change our minds distinguishes principled commitment from dogmatism.
+Update entries when major empirical developments occur, when new philosophical arguments appear, when the Map's positions shift, or when new test hooks are identified. The purpose is accountability — being explicit about what would change our minds distinguishes principled commitment from dogmatism.
 
 ## Further Reading
 
-- [tenets](/tenets/) — The foundational commitments being tracked
-- [framework-stage-calibration](/project/framework-stage-calibration/) — The methodological discipline that names the catalogue's developmental stage (pre-Keplerian); the ledger's "decisive disconfirmer" structure is consistent with the discipline's commitment to in-principle decidability
-- [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms that could be disconfirmed
-- [filter-theory](/concepts/filter-theory/) — Framework with specific predictions
-- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What would close the explanatory gap
-- [many-worlds](/concepts/many-worlds/) — Arguments against MWI that could be refuted
+- [tenets](/tenets/) — Foundational commitments being tracked
+- [evidential-status-discipline](/project/evidential-status-discipline/) — Five-tier scale and two-registers distinction the ledger's category structure operationalises
+- [framework-stage-calibration](/project/framework-stage-calibration/) — Pre-Keplerian developmental-stage discipline
+- [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — Tenet-by-tenet falsification with the intermediate experimental advances required to apply this ledger's decisive disconfirmers
+- [mqi-empirical-fragility](/project/mqi-empirical-fragility/) — Mechanism-specific fragility for MQI, separable from the tenet's disconfirmation conditions
+- [direct-refutation-discipline](/project/direct-refutation-discipline/) — How the catalogue classifies engagements with named opponents without conflating framework-boundary disagreement with in-framework refutation
+- [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — Handling clashes the ledger's disconfirmers do not resolve
+- [quantum-consciousness](/concepts/quantum-consciousness/) · [filter-theory](/concepts/filter-theory/) · [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) · [many-worlds](/concepts/many-worlds/) — Domain articles whose specific predictions the ledger tracks

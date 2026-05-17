@@ -1,13 +1,124 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17 16:30:00+00:00
+ai_modified: 2026-05-17 12:20:24+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-17 12:20 UTC - deep-review
+- **Status**: Success
+- **File**: [narrative-void](/voids/narrative-void/)
+- **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11-narrative-void/) (67 days)
+- **Word count**: 1927 → 1943 (+16, 97% of 2000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Ricoeur paraphrase presented as direct quote — rewrote as explicit summary of his reading of Aristotelian *mythos* in *Time and Narrative*; removed misleading quotation marks)
+- **Enhancements made**: 0 (article at 97% of soft threshold; length-neutral mode; the Ricoeur fix was an attribution-accuracy correction that paid its own way)
+- **Engagement mode classifications** (editor-internal, not in article body):
+  - Dennett / Multiple Drafts: Mode Three (framework-boundary marking) — preserved from previous review
+  - Eliminative materialism (implicit): Mode Three — article concedes the empirical findings and asserts the dualist commitment
+- **Label-leakage check**: clean. No editor vocabulary in article prose.
+- **Attribution check**: all source citations verified (Nisbett-Wilson, Gazzaniga, Johansson-Hall, Schechtman, Strawson, Damasio, Dennett) accurate. Only Ricoeur required correction.
+- **Stability**: second review with no critical issues; article has converged. Bedrock disagreements (Dennett, eliminativism) stability-noted; future reviews must not re-flag.
+- **Output**: [deep-review-2026-05-17-narrative-void](/reviews/deep-review-2026-05-17-narrative-void/)
+
+## 2026-05-17 12:04 UTC - refine-draft
+- **Status**: Success
+- **File**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/)
+- **Original score**: pessimistic-review found 1 critical + 5 medium issues; no separate quality score generated this pass
+- **Changes**:
+  - Issue 1 (critical): Replaced "probable rather than merely possible" framing with "realistic possibility under selective pressure" in lede and "What This Does Not Establish" — argument now licenses what [evidential-status-discipline](/project/evidential-status-discipline/) calls *plausibility*, not *probability*.
+  - Issue 2: Rewrote §"The Decoherence Barrier" Hagan 2002 sentence to specify contested counter-calculation status, interested authors, no replication in 24 years; moved rhetorical weight off "weakened considerably" framing.
+  - Issue 3: Reframed §"The Optimisation Argument" three predictions as "compatible observations the thesis can absorb"; specified falsifiers where available; conceded absence of operational discriminator for cognitive-complexity scaling.
+  - Issue 4: Fixed Tegmark 2000 misattribution — femtosecond figure now specified as applying to "microtubule superpositions of conformational states"; discrete-event mechanisms reframed as facing *different* empirical objections rather than being vindicated by Tegmark's inapplicability.
+  - Issue 5: Replaced possibility/probability slippage at all four flagged points (lines 40, 62, 82, 116).
+  - Issue 6: Replaced teleological "evolution discovered/engineered/optimised" with "selection propagated variants" throughout — addresses Many-Worlds Defender critique about aimed-process framing doing inferential work no causal account sustains.
+  - Removed Fitness-Beats-Truth boundary-substitution at line 100; replaced with explicit framework-boundary marking per [direct-refutation-discipline](/project/direct-refutation-discipline/) — the Map does not refute Tegmark inside his own frame and should not pretend to.
+  - Expanded §"Binding Problem" engagement: named IIT and Global Workspace Theory as competing non-quantum holism accounts; made both load-bearing conditionals (binding-requires-holism, entanglement-uniquely-supplies-holism) explicit.
+  - §"Stochastic Search": acknowledged classical SGD scales to extraordinary problem complexity; reframed quantum advantage as conditional on specific decision-level empirical comparison.
+  - §"Sufficiency of Classical Computation": marked both responses as Mode Three / Mode Four (framework-boundary / empirical-underdetermination) discharges rather than attempted Mode One refutations.
+  - §"No Direct Evidence of Selection": made disanalogy with cryptochrome explicit — cryptochrome had functional evidence in hand, neural quantum effects do not yet; reframed as conditional plausibility not analogical equivalence.
+  - §"Relation to Site Perspective": softened all four tenet connections from "establishes/required/shaped" to consistency/coherence claims; Occam's Razor subsection now acknowledges parsimony's past failures is not by itself an argument for the Map's framework (addressing tenet-protected-reasoning concern from the style-guide-violations section).
+  - Updated frontmatter description to track the calibrated claim.
+- **Engagement classifications** (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)):
+  - Tegmark engagement in §"Decoherence Barrier": Mode Three (framework-boundary marking) on the broader epistemic situation, with the Hagan 2002 empirical engagement remaining at level of contested calculations.
+  - Classical-sufficiency engagement: mixed — Mode Three on holism conditional, Mode Four (empirical-underdetermination) on efficiency argument.
+  - Binding-problem holism: Mode Three — IIT and Dennett-style functionalism named as competing accounts the article does not refute on their own terms.
+- **Strengths preserved**: §"What This Does Not Establish" structure intact (only the probability claim corrected); decoherence-applies-unevenly observation preserved as honest; Beck-Eccles-Georgiev "if correct" hedging strengthened with explicit "contested at the empirical-feasibility level" gloss.
+- **Altered-state symmetry**: gate does not apply (no supportive/disruptive cluster items in article); no remediation owed.
+- **Word count**: ~2,150 → ~3,230 body words (+1,080 net). Larger growth than the task's 400-600-words-touched estimate because the calibrated framings — explicit conditional structures, named competing accounts (IIT, Global Workspace Theory, classical SGD), framework-boundary marking on the Tegmark engagement — required more text than the original's compact assertive prose. The body grew but did not gain assertive territory; the additions are qualifiers, conditionals, and named-opponent acknowledgements that the original prose elided. A subsequent /condense pass may be warranted if reviewers find the article slow.
+- **Published**: yes
+
+## 2026-05-17 11:50 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — first adversarial audit of an article that has had four deep-reviews (2026-03-23/-23b/-23c/-25) but no prior pessimistic-review pass and no outer review, despite being the "evolutionary plausibility" leg of the quantum-neural three-legged structure ([quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/), [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/))
+- **Critical issues**: 1 — headline claim "probable rather than merely possible" (lede line 40) not delivered by argument; precedent-and-optimisation structure licenses *realistic possibility* per [evidential-status-discipline](/project/evidential-status-discipline/) not *probability*
+- **Medium issues**: 5 — Hagan 2002 contested counter-calculation load-bearing without warning; three optimisation-argument "predictions" unfalsifiable as written; Tegmark 2000 misattribution applied beyond its original target class; possibility/probability slippage at four textually identifiable points; teleological evolution language throughout
+- **Discipline observations**: Fitness-Beats-Truth invocation at line 100 is boundary-substitution-adjacent per [direct-refutation-discipline](/project/direct-refutation-discipline/) — deploys [biological-cognitive-closure](/voids/biological-cognitive-closure/) to discount Tegmark's empirical calculation; altered-state symmetry gate does not apply (no supportive-cluster items cited); label-leakage check clean
+- **Strengths preserved**: §"What This Does Not Establish" cited as catalogue's cleanest example of preemptive evidential-status discipline; decoherence-applies-unevenly observation is honest; Beck-Eccles-Georgiev engagement appropriately hedged
+- **Todo task added**: P2 refine-draft "Address evidential-status and decoherence-framing issues in topics/evolutionary-case-for-quantum-neural-effects.md"
+- **Output**: [pessimistic-2026-05-17b](/reviews/pessimistic-2026-05-17b/)
+
+## 2026-05-17 11:20 UTC - deep-review
+- **Status**: Success
+- **File**: [questions](/questions/)
+- **Word count**: 112 → 141 (+29; 7% of 2000 soft threshold — normal mode)
+- **Critical issues addressed**: 0 (no factual errors, no attribution issues, no dropped qualifiers, no internal contradictions, no possibility/probability slippage; article does not engage named opponents so boundary-substitution and label-leakage checks pass by vacuity)
+- **Medium issues addressed**: 2 (body referenced `consciousness-selecting-neural-patterns` but the frontmatter `concepts:` list was empty — added the wikilink there; navigational sibling `[[voids]]` was uncross-linked — added one orientation sentence distinguishing questions ("tractable uncertainty inside the framework") from voids ("territory where mapping itself may be blocked") plus `[[voids]]` in related_articles)
+- **Enhancements made**: 3 (added `[[voids]]` cross-link in body and frontmatter; added `[[consciousness-selecting-neural-patterns]]` to concepts frontmatter; refreshed `ai_system` from retired `claude-opus-4-5-20251101` to `claude-opus-4-7`)
+- **Engagement modes** (editor-internal): not applicable — the index page does not reply to named opponents; bedrock framework-boundary disagreements from Many-Worlds Defender / Eliminative Materialist / Hard-Nosed Physicalist personas are expected and not correctable defects. No label leakage.
+- **Convergence note**: Second review of this file; the 2026-01-31 review's "section underpopulated" complaint remains deferred — resolving it requires creating new discussion pages, not editing the index. Not re-flagged as critical per convergence rules.
+- **Output**: [deep-review-2026-05-17-questions](/reviews/deep-review-2026-05-17-questions/)
+
+## 2026-05-17 11:05 UTC - deep-review
+- **Status**: Success
+- **File**: [arguments](/arguments/)
+- **Word count**: 725 → 759 (+34; 30% of 2500 soft threshold — normal mode)
+- **Critical issues addressed**: 2 (Epiphenomenalism argument-count mismatch: index claimed "five arguments" but detail page has four numbered arguments — corrected wording and replaced the conflated "self-knowledge problem" bullet with the missing Knowledge-Argument-Reversed bullet to mirror the detail page; Occam's Razor Discussion link mismatch — the section's key claims paraphrase the *arguments* page but the only link resolved to the *voids* page, so added `[[epistemological-limits-of-occams-razor]]` as the primary Discussion target with `[[parsimony-case-for-interactionist-dualism]]` alongside)
+- **Medium issues addressed**: 3 (Materialism Discussion line only linked the concept page — added `[[materialism-argument|Against Materialism]]` first to match the Many-Worlds routing pattern; Functionalism Discussion used the archived-alias `[[arguments/functionalism|functionalism]]` — replaced with `[[functionalism-argument|Against Functionalism]]` + `[[concepts/functionalism|Functionalism]]`; opening paragraph LLM-cliché "These are not… they are…" rephrased to "openly partisan—explicit defences… rather than balanced 'both sides' surveys")
+- **Enhancements made**: 5 (3 new cross-links added: materialism-argument, functionalism-argument, parsimony-case-for-interactionist-dualism; Discussion-line pattern now uniform across all six argument sections — dedicated argument page first, then concept/void pages; argument-count bullets in Epiphenomenalism now mirror the four numbered arguments in the detail page)
+- **Engagement modes** (editor-internal): not applicable at the index level — the page does not engage named opponents in argumentative dialogue; the opening paragraph's partisan-disclosure is Mode Three boundary-marking *for the section as a whole*; persona engagement happens on the detail pages. No label leakage.
+- **Output**: [deep-review-2026-05-17-arguments](/reviews/deep-review-2026-05-17-arguments/)
+
+## 2026-05-17 10:49 UTC - deep-review
+- **Status**: Success
+- **File**: [neuroplasticity](/concepts/neuroplasticity/)
+- **Word count**: 2286 → 2286 (+0; 91% of 2500 soft threshold — operated in length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp update only — article is converged across five consecutive deep reviews)
+- **Engagement modes** (editor-internal): engagement with identity theorists/functionalists = Mode Two with framework-boundary tail (hard-problem standard used to identify unmet foundational obligation); engagement with epiphenomenalists = Mode Two (asks why effort phenomenology tracks genuine difficulty if causally inert); engagement with materialist account broadly = Mode Three (explicit "cannot be settled by neuroimaging alone" boundary marking). No label leakage.
+- **Output**: [deep-review-2026-05-17-neuroplasticity](/reviews/deep-review-2026-05-17-neuroplasticity/)
+
+## 2026-05-17 12:00 UTC - deep-review
+- **Status**: Success
+- **File**: [writing-style](/project/writing-style/)
+- **Word count**: 3826 → 3900 (+74; hard_warning at 156% of 2500 project-section target — within project-section norms; the increase comes from a section-keyed length-guidelines table replacing three terse bullet lines, plus a new `description` frontmatter field)
+- **Critical issues addressed**: 4 (self-contradicting "Avoid: 'the Map'" line — restored to original "this site/the site/this project" after tracing git history to a global-rename regression; stale AI pseudonym table missing `claude-opus-4-7 → Oquatre-sept` and `claude-sonnet-4-7 → Sonquatre-sept` — added to match the live expand-topic skill table and active catalogue usage; five sentence-start lowercase "the Map" violations of the guide's own capitalisation rule at lines 135/137/139/295/303 — capitalised; length-guidelines section out of date relative to `tools/curate/length.py` thresholds — replaced with a section-keyed table matching the enforcement tool's soft/hard/critical numbers)
+- **Medium issues addressed**: 2 (missing `description` frontmatter field — added 200-char summary; `the the truth` double-word typo at line 241 — fixed)
+- **Engagement modes** (editor-internal): not applicable — the guide is a methodology document and does not engage named opponents in its own prose; the illusionism "Right" example at line 150 is a style demonstration, not an in-document argument
+- **Output**: [deep-review-2026-05-17-writing-style](/reviews/deep-review-2026-05-17-writing-style/)
+
+## 2026-05-17 - deep-review
+- **Status**: Success
+- **File**: [testability-ledger](/project/testability-ledger/)
+- **Word count**: 2029 → 2638 (+609; soft_warning at 106% of 2500 target — within project-section norms; evidential-status-discipline runs 4000+ words)
+- **Critical issues addressed**: 6 (missing description frontmatter; Filter Theory and Retrocausality presented as tenet-equivalent rather than derived commitments; possibility/probability slippage at TSVF, psychedelic-neuroimaging, Filter Theory summary, GCP/RNG rows — all rewritten to mark compatibility vs. support per evidential-status-discipline; missing Relation to Site Perspective section — added with three paragraphs covering honest falsifiability, separation of registers, stage-calibrated claims)
+- **Medium issues addressed**: 2 (methodological-discipline cross-links absent — added evidential-status-discipline, framework-stage-calibration body invocations, direct-refutation-discipline, falsification-roadmap, mqi-empirical-fragility, bedrock-clash-vs-absorption to frontmatter and Further Reading; tenet-level vs. mechanism-level disconfirmation not distinguished — added third introductory paragraph clarifying the layering)
+- **Enhancements made**: 5 (description frontmatter; opening paragraphs invoke two methodological disciplines; Filter Theory/Retrocausality marked as derived commitments; calibration corrected at five rows; Relation to Site Perspective section installed)
+- **Engagement modes** (editor-internal): eliminative-materialist objection re Tenet 5 = Mode One; MWI defender = Mode Three (Tenet 4 bedrock); Hardline Empiricist re tenet-as-evidence slippage = Mixed (Mode One on calibration, Mode Three on broader interactionist evidential base)
+- **Output**: [deep-review-2026-05-17-testability-ledger](/reviews/deep-review-2026-05-17-testability-ledger/)
+
+## 2026-05-17 05:30 UTC - condense
+- **Status**: Success
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Before**: 4434 words (hard_warning, 148% of soft target)
+- **After**: 3734 words (soft_warning, 124% of soft target)
+- **Reduction**: 16%
+- **Technique**: tightened verbose prose throughout (lede, Cortical Body Maps, Mirror Therapy, Congenital Phantoms, Neuromatrix, Predictive-Processing, Common-Cause-Null Audit, Relation to Site Perspective, four falsifiers); removed redundant hedge phrases ("in some patients in some conditions" duplications, "Honest reformulation:" preambles, double "framework-boundary" restatements); compressed Mirror Therapy three-tier separation by removing redundant qualifiers while preserving the (a)/(b)/(c) distinction; condensed Predictive-Processing by merging "what PP does not specify" into the feature-handling paragraph; compressed Common-Cause-Null Audit final paragraph by merging consequence and pp-absorption into one sentence; trimmed Further Reading descriptions to bare phrases; tightened falsifier #2, #4 prose. References (723 words, 24 citations) preserved unchanged. All load-bearing engagements preserved: Makin programme + Schone 2025, Guémann 2023 + Rajendram 2022 mirror-therapy null, Price 2006 + Root 2022 congenital-phantoms in-framework engagement, neuromatrix Mode-Three framework-boundary, predictive-processing absorption + content-laden-vocabulary observation, common-cause-null audit, all four falsifiers, all three tenet subsections.
 
 ## 2026-05-17 16:30 UTC - condense
 - **Status**: Success

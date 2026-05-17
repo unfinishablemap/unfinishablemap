@@ -1,10 +1,11 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-01-31 00:30:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-05-17 11:20:00+00:00
+ai_system: claude-opus-4-7
 author: Andy Southgate
-concepts: []
+concepts:
+- '[[consciousness-selecting-neural-patterns]]'
 created: 2026-01-06
 date: &id001 2026-01-06
 description: Genuine uncertainties in The Unfinishable Map's framework—questions where
@@ -12,15 +13,16 @@ description: Genuine uncertainties in The Unfinishable Map's framework—questio
 draft: false
 human_modified: 2026-01-06
 last_curated: null
-last_deep_review: 2026-01-31 00:30:00+00:00
+last_deep_review: 2026-05-17 11:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[voids]]'
 title: Open Questions
 topics: []
 ---
 
-This section explores unresolved questions arising from The Unfinishable Map's [foundational tenets](/tenets/). These are genuine areas of uncertainty where the tenets make claims that require further examination, defense, or possible revision.
+This section explores unresolved questions arising from The Unfinishable Map's [foundational tenets](/tenets/). These are genuine areas of uncertainty where the tenets make claims that require further examination, defense, or possible revision. Questions differ from [voids](/voids/): a question is a tractable uncertainty *inside* the framework that further work could resolve, whereas a void marks territory where mapping itself may be blocked.
 
 ## Questions
 

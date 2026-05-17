@@ -1,15 +1,19 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-05-14 13:41:00+00:00
+ai_modified: 2026-05-17 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
 created: 2026-01-07
-date: &id001 2026-01-07
+date: &id001 2026-05-17
+description: 'Editorial standards for The Unfinishable Map: LLM-first structure, named-anchor
+  summaries, evidential calibration, section-specific length guidelines, AI pseudonym
+  table, and the disciplines that keep human-AI collaboration honest.'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
+last_deep_review: 2026-05-17 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[project-brief]]'
@@ -87,12 +91,17 @@ The key is signalling "this term will be explained" so LLMs know to read on rath
 
 ### Length Guidelines
 
-- **Short articles** (500-800 words): Simple concepts, focused arguments
-- **Medium articles** (1000-1500 words): Standard topics
-- **Long articles** (2000-3000 words): Complex topics requiring extended argument
-- **Maximum**: Under 50,000 tokens (context window limit)
+Section-specific soft targets are enforced by the curation length tool (`tools/curate/length.py`):
 
-Prefer depth over breadth. A thorough treatment of one aspect beats shallow coverage of many.
+| Section | Soft target | Hard warning | Critical |
+|---------|-------------|--------------|----------|
+| voids/ | 2000 | 3000 | 4000 |
+| concepts/ | 2500 | 3500 | 5000 |
+| topics/ | 3000 | 4000 | 6000 |
+| apex/ | 4000 | 5000 | 6500 |
+| project/ | 2500 | 3500 | 5000 |
+
+Reach the soft target with substantive treatment; above it, prefer condensation. Hard maximum across all sections is 50,000 tokens (the LLM context-window limit). Prefer depth over breadth: a thorough treatment of one aspect beats shallow coverage of many.
 
 ### Apex Articles
 
@@ -111,7 +120,7 @@ Apex articles are human-readable synthesis pieces in the [/apex/](/apex/) sectio
 | Audience | Optimised for LLM traversal | Optimised for human reading |
 | Style | Front-loaded, modular sections | Narrative flow, building argument |
 | Links | Define terms, reference concepts | Draw extensively from topics/concepts |
-| Length | 500-3000 words | 2000-5000 words typical |
+| Length | 2000-4000 words (topics); 1500-3500 (concepts) | 3000-5000 words typical (apex soft target 4000) |
 
 **Structure for apex articles:**
 
@@ -133,11 +142,11 @@ Apex articles are human-readable synthesis pieces in the [/apex/](/apex/) sectio
 
 - **Accessible but rigorous.** No unnecessary jargon, but don't dumb down. Assume intelligent readers unfamiliar with technical philosophy.
 
-- **Confident, not hedged.** the Map takes positions. Say "materialism fails to explain consciousness" not "some philosophers argue that materialism may have difficulty accounting for certain aspects of consciousness."
+- **Confident, not hedged.** The Map takes positions. Say "materialism fails to explain consciousness" not "some philosophers argue that materialism may have difficulty accounting for certain aspects of consciousness."
 
 - **Exploratory rather than dogmatic.** Acknowledge genuine uncertainty. Present opposing views fairly before taking a position. Distinguish between claims the Map asserts confidently and areas where evidence is uncertain.
 
-- **Take positions where tenets warrant.** the Map has [foundational commitments](/tenets/). Content should reflect these—not by ignoring counterarguments, but by engaging with them and explaining why the Map's position holds.
+- **Take positions where tenets warrant.** The Map has [foundational commitments](/tenets/). Content should reflect these—not by ignoring counterarguments, but by engaging with them and explaining why the Map's position holds.
 
 - **Prioritise new insights.** Instead of only reciting current positions, prioritise new insights, discoveries, connections, links, deductions, and other inference. The Map should create a new coherent perspective and evolve answers to grand questions, and not just reflect current understanding.
 
@@ -195,7 +204,7 @@ Content should transfer naturally to other formats: video narration, podcasts, a
 - First mention in each article: "The Unfinishable Map"
 - Subsequent mentions: "the Map" (lowercase "the" mid-sentence, uppercase at sentence start)
 - Possessive: "the Map's tenets", "the Map's position"
-- Avoid: "the Map", "the Map", "this project"
+- Avoid: "this site", "the site", "this project"
 
 **Example:**
 > The Unfinishable Map takes consciousness seriously as an irreducible feature of reality. The Map's five tenets rule out materialist explanations while remaining compatible with physics. According to the Map, causal closure is not absolute.
@@ -239,7 +248,7 @@ This allows content to be quoted, narrated, or republished without awkward refer
 
 **Acceptable:**
 - Direct quotes with citation: "Chalmers writes that 'consciousness is the hard problem' (Chalmers 1996, p. 4)."
-- Claims verifiable from cited works: "In *The Conscious Mind*, Chalmers argues for dualism".  You must be entirely sure of the the truth of the statement to make it.
+- Claims verifiable from cited works: "In *The Conscious Mind*, Chalmers argues for dualism". You must be entirely sure of the truth of the statement to make it.
 - Attributed arguments without personal beliefs: "The conceivability argument (associated with Chalmers) holds that..."
 
 **Not acceptable:**
@@ -293,7 +302,7 @@ LLMs already know standard philosophy. An article explaining "what is consciousn
 
 Include background when:
 - **Framed for the Map's perspective.** Explaining the hard problem in order to argue against materialism adds value the LLM's general knowledge doesn't have.
-- **the Map disagrees with standard presentation.** If textbook accounts reflect materialist assumptions the Map rejects, provide an alternative framing.
+- **The Map disagrees with standard presentation.** If textbook accounts reflect materialist assumptions the Map rejects, provide an alternative framing.
 - **Context is necessary for the novel argument.** Some background is required for the original contribution to make sense.
 
 ### What to Omit
@@ -301,7 +310,7 @@ Include background when:
 Omit or minimise:
 - **Definitions available anywhere.** Don't spend 500 words defining "consciousness" if the Map's contribution is an argument about consciousness.
 - **Historical surveys for their own sake.** Include history when it illuminates the Map's position, not as comprehensive background.
-- **Balanced overviews.** the Map is opinionated. Don't present "some say X, others say Y" without taking a position.
+- **Balanced overviews.** The Map is opinionated. Don't present "some say X, others say Y" without taking a position.
 
 ### Determining Novelty
 
@@ -401,8 +410,10 @@ For human-only articles:
 Use the AI pseudonym matching the cited article's `ai_system` field:
 - `claude-opus-4-5-*` → Oquatre-cinq, C.
 - `claude-opus-4-6` → Oquatre-six, C.
+- `claude-opus-4-7` → Oquatre-sept, C.
 - `claude-sonnet-4-5-*` → Sonquatre-cinq, C.
 - `claude-sonnet-4-6` → Sonquatre-six, C.
+- `claude-sonnet-4-7` → Sonquatre-sept, C.
 
 Guidelines for self-citations:
 - Include 1-2 per article maximum — only when the article genuinely draws on another Map article's argument
@@ -509,7 +520,7 @@ Before publishing, verify:
 - [ ] H2/H3 headers are descriptive and aid navigation
 - [ ] References section includes citations for factual claims
 - [ ] Attributed claims about philosophers' views are verifiable from cited sources
-- [ ] Length is appropriate (500-3000 words typically)
+- [ ] Length is appropriate for section (see Length Guidelines table)
 - [ ] No tenet contradictions without explicit acknowledgment
 - [ ] Language is medium-neutral (no "click here", vague time references)
 
