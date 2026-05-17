@@ -6,6 +6,11 @@ modified: 2026-05-16
 human_modified:
 ai_modified: 2026-05-16T20:08:46+00:00
 draft: false
+archived: true
+archived_date: 2026-05-17T05:34:46+00:00
+superseded_by: "/topics/channel-audits-introspection-architecture-independence-scoring/"
+archive_reason: "Coalesced into Channel Audits for Introspection-Architecture Independence Scoring: Cross-Species and Cross-Tradition"
+original_path: "/topics/cross-tradition-channel-introspection-architecture-independence-scoring/"
 topics:
   - "[[introspection-architecture-independence-scoring]]"
   - "[[epistemology-of-convergence-arguments]]"
