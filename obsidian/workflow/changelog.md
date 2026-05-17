@@ -5,6 +5,13 @@ ai_modified: 2026-05-17T05:34:46+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-17 05:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Neoplatonist Common-Cause Weight for Cross-Tradition Introspection-Architecture Parallels
+- **Output**: [[topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]]
+- **Word count**: 3009
+- **Based on research**: yes, [[research/neoplatonist-common-cause-introspection-architecture-2026-05-16]]
+
 ## 2026-05-17 05:34 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/cross-species-channel-introspection-architecture-independence-scoring]], [[topics/cross-tradition-channel-introspection-architecture-independence-scoring]]
