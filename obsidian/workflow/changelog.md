@@ -5,6 +5,16 @@ ai_modified: 2026-05-17T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-17 11:50 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/evolutionary-case-for-quantum-neural-effects]] — first adversarial audit of an article that has had four deep-reviews (2026-03-23/-23b/-23c/-25) but no prior pessimistic-review pass and no outer review, despite being the "evolutionary plausibility" leg of the quantum-neural three-legged structure ([[concepts/quantum-biology-and-neural-mechanisms]], [[topics/quantum-biology-and-neural-consciousness]])
+- **Critical issues**: 1 — headline claim "probable rather than merely possible" (lede line 40) not delivered by argument; precedent-and-optimisation structure licenses *realistic possibility* per [[evidential-status-discipline]] not *probability*
+- **Medium issues**: 5 — Hagan 2002 contested counter-calculation load-bearing without warning; three optimisation-argument "predictions" unfalsifiable as written; Tegmark 2000 misattribution applied beyond its original target class; possibility/probability slippage at four textually identifiable points; teleological evolution language throughout
+- **Discipline observations**: Fitness-Beats-Truth invocation at line 100 is boundary-substitution-adjacent per [[direct-refutation-discipline]] — deploys [[biological-cognitive-closure]] to discount Tegmark's empirical calculation; altered-state symmetry gate does not apply (no supportive-cluster items cited); label-leakage check clean
+- **Strengths preserved**: §"What This Does Not Establish" cited as catalogue's cleanest example of preemptive evidential-status discipline; decoherence-applies-unevenly observation is honest; Beck-Eccles-Georgiev engagement appropriately hedged
+- **Todo task added**: P2 refine-draft "Address evidential-status and decoherence-framing issues in topics/evolutionary-case-for-quantum-neural-effects.md"
+- **Output**: [[reviews/pessimistic-2026-05-17b]]
+
 ## 2026-05-17 11:20 UTC - deep-review
 - **Status**: Success
 - **File**: [[questions/questions]]
