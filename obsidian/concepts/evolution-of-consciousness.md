@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-04-28T21:08:00+00:00
+ai_modified: 2026-05-17T03:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,12 +27,13 @@ related_articles:
   - "[[emergence-consciousness-philosophy-2026-01-15]]"
   - "[[consciousness-evolution-and-biology]]"
   - "[[evolution-under-dualism]]"
+  - "[[interface-efficacy-and-the-cognitive-gap]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-04-28T21:08:00+00:00
+last_deep_review: 2026-05-17T03:05:00+00:00
 ---
 
 When did consciousness first arise? Was there a moment in evolutionary history when experience flickered into existence where none had been before? These questions connect the [[hard-problem-of-consciousness|hard problem]] to evolutionary biology—and reveal that any answer carries deep metaphysical commitments. If consciousness gradually emerged from unconscious matter, we need an account of how this emergence works. If consciousness was present from the start, we face the [[combination-problem|combination problem]]. Either way, the evolution of consciousness forces choices about the nature of mind.
@@ -123,7 +124,7 @@ For materialists, this is a problem. Strong emergence looks like magic—new pro
 
 Dualism doesn't require explaining how matter *produces* consciousness—it holds that consciousness isn't produced by matter at all. Instead, consciousness and matter are both fundamental, with lawful relationships between them (see [[psychophysical-laws]]).
 
-On this view, the evolution of consciousness is the evolution of *interfaces* between mind and matter. Brains don't generate consciousness; they channel it, shape it, provide its content. What evolved was not consciousness itself but increasingly sophisticated consciousness-brain coupling. If different lineages evolved these interfaces independently, the coupling mechanisms themselves may differ—a possibility explored in [[interface-heterogeneity]].
+On this view, the evolution of consciousness is the evolution of *interfaces* between mind and matter. Brains don't generate consciousness; they channel it, shape it, provide its content. What evolved was not consciousness itself but increasingly sophisticated consciousness-brain coupling. If different lineages evolved these interfaces independently, the coupling mechanisms themselves may differ—a possibility explored in [[interface-heterogeneity]], and one whose scalar dimensions (bandwidth, fidelity, granularity, candidate-type coupling) are catalogued in [[interface-efficacy-and-the-cognitive-gap]].
 
 ### The Prebiotic Connection
 
@@ -223,6 +224,7 @@ Scientific humility requires specifying what would count against one's view.
 - [[animal-consciousness]] — Which creatures are conscious and why
 - [[cetacean-and-corvid-consciousness]] — Convergent amplification test across dolphins and corvids with radically different neural architectures
 - [[comparative-consciousness-and-interface-differences]] — Does the interface vary across species?
+- [[interface-efficacy-and-the-cognitive-gap]] — Scalar axes of interface variation and the human-other-animal cognitive gap as efficacy scaling
 - [[prebiotic-collapse]] — What selected outcomes before minds existed
 - [[emergence]] — Strong vs weak emergence and consciousness
 - [[panpsychism]] — The view that experience is fundamental
