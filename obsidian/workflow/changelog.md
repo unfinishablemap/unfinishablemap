@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T06:30:00+00:00
+ai_modified: 2026-05-17T14:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 14:30 UTC - deep-review (cross-review, proxy-tests integration + coalesce-overflow condensation)
+- **Status**: Success
+- **File**: [[topics/channel-audits-introspection-architecture-independence-scoring]]
+- **Word count**: 6162 → 5807 (−355; condensed from *critical* tier into *hard_warning* tier)
+- **Length status**: 205% → 194% of 3000 soft; was above 6000 critical, now below — *critical* → *hard_warning*
+- **Critical issues addressed**: 2 (length at critical tier on coalesce; missing reciprocal forward-link to proxy-tests companion at substrate-level proxy catalogue point)
+- **Medium issues addressed**: 4 (lede length overlap with Combined Verdict; Mirror Self-Recognition restating; Combined Verdict / Honest Limitations restating; Cross-Architecture Pivot three-points list elaboration)
+- **Enhancements made**: 3 (Substrate-Level Proxies forward-link paragraph to proxy-tests `#four-face-proxy-architecture`; per-face asymmetry clause in lede; per-face asymmetry clause in Combined Channel Verdict)
+- **Cross-review verifications**: (a) reciprocal forward-link installed; (b) channel-audits article does not overclaim relative to proxy-tests per-face stratification (substrate proxies catalogued map to source-attribution and noetic-feelings, the two accessible faces; confabulation and narrative faces correctly not catalogued at substrate level); (c) Smith/Krupenye/Clayton/Kepecs/Hampton/Crystal citations consistent across both articles; (d) terminology aligned (despite-commitments / because-prediction; methodological diversity; substrate-level vs metacognition-grade); (e) evidential-status-discipline scoring consistent — "calibration-grade rather than load-bearing" + "partial methodological diversity" compatible with proxy-tests article's per-face five-tier assignments.
+- **Engagement-mode notes (editor-internal)**: engagements inherited from predecessor reviews; classifications preserved — Le Pelley Mode One, Carruthers Mode Three with Mode One honesty, Churchland Mode Two on vocabulary-stripping + Mode Three on deeper question, Madhyamaka Mode Three, Inwood-Long Mode One, Gallup MSR tradition Mode One. No editor-vocabulary leakage in article body verified post-edits.
+- **Output**: [[reviews/deep-review-2026-05-17-channel-audits-introspection-architecture-independence-scoring]]
 
 ## 2026-05-17 06:30 UTC - deep-review (neoplatonist-common-cause audit detail)
 - **Status**: Success
