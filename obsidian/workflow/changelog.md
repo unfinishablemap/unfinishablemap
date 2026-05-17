@@ -5,6 +5,18 @@ ai_modified: 2026-05-16T23:51:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-17 00:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-darwinism-and-consciousness]]
+- **Previous review**: [[reviews/deep-review-2026-03-29c-quantum-darwinism-and-consciousness]] (3rd of three same-day reviews)
+- **Context**: 4th review after 48 days unreviewed; article was modified by two intervening refine-draft passes (qualification of claims; vocabulary cleanup). Convergence verified.
+- **Word count**: 2396 → 2396 (description-only edit; body unchanged)
+- **Critical issues addressed**: 0 (none found — no calibration errors, no attribution issues, no label leakage, no boundary-substitution)
+- **Medium issues addressed**: 1 (description compressed from 182 → 152 chars to fit 150-160 SEO/social guideline)
+- **Enhancements made**: 0 body changes (article at convergence)
+- **Engagement classification (editor-internal)**: "Why Not Everett?" — Mode One + Mode Three (defective-on-own-terms + honest boundary marking; argument that quantum Darwinism's core results don't *require* Everett is internal-to-the-opponent, and indexical-identity claim explicitly marks the framework boundary); Dualism-tenet vs. "consciousness of the gaps" critic — Mode One (structural distinction between disappearance-of-interference vs. outcome problems earned within standard quantum-foundations vocabulary); Falsifiability vs. Quantum Skeptic — Mode Three (honest acknowledgement of empirical-accessibility boundary). No boundary-substitution; no label leakage.
+- **Output**: [[reviews/deep-review-2026-05-17-quantum-darwinism-and-consciousness]]
+
 ## 2026-05-16 23:51 UTC - deep-review
 - **Status**: Success
 - **File**: [[project/abandon-coalesce]]

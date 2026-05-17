@@ -1,10 +1,10 @@
 ---
 title: "Quantum Darwinism and Consciousness"
-description: "Zurek's quantum Darwinism explains how classical reality emerges through environmental selection of pointer states—but leaves the outcome selection gap where consciousness could act."
+description: "Zurek's quantum Darwinism explains classical reality's emergence through environmental selection, leaving the outcome gap where consciousness could act."
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-30T04:18:00+00:00
+ai_modified: 2026-05-17T00:05:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
-last_deep_review: 2026-03-29T23:25:00+00:00
+last_deep_review: 2026-05-17T00:05:30+00:00
 ---
 
 Wojciech Zurek's quantum Darwinism is the most developed account of how classical reality emerges from quantum mechanics. It explains why observers agree about the world, why certain properties appear stable and objective, and why quantum weirdness vanishes at macroscopic scales. What it does not explain—and what Zurek himself acknowledges—is why any *particular* outcome becomes actual. The Unfinishable Map argues that this residual gap is where consciousness could operate—though this is a contested interpretive commitment, not an uncontroversial consequence of the formalism. On the Map's reading, quantum Darwinism specifies the constraints within which consciousness selects; critics argue the gap may close without invoking consciousness at all.
