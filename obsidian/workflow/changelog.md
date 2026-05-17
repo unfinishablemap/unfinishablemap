@@ -5,6 +5,33 @@ ai_modified: 2026-05-17T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-17 12:04 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/evolutionary-case-for-quantum-neural-effects]]
+- **Original score**: pessimistic-review found 1 critical + 5 medium issues; no separate quality score generated this pass
+- **Changes**:
+  - Issue 1 (critical): Replaced "probable rather than merely possible" framing with "realistic possibility under selective pressure" in lede and "What This Does Not Establish" — argument now licenses what [[evidential-status-discipline]] calls *plausibility*, not *probability*.
+  - Issue 2: Rewrote §"The Decoherence Barrier" Hagan 2002 sentence to specify contested counter-calculation status, interested authors, no replication in 24 years; moved rhetorical weight off "weakened considerably" framing.
+  - Issue 3: Reframed §"The Optimisation Argument" three predictions as "compatible observations the thesis can absorb"; specified falsifiers where available; conceded absence of operational discriminator for cognitive-complexity scaling.
+  - Issue 4: Fixed Tegmark 2000 misattribution — femtosecond figure now specified as applying to "microtubule superpositions of conformational states"; discrete-event mechanisms reframed as facing *different* empirical objections rather than being vindicated by Tegmark's inapplicability.
+  - Issue 5: Replaced possibility/probability slippage at all four flagged points (lines 40, 62, 82, 116).
+  - Issue 6: Replaced teleological "evolution discovered/engineered/optimised" with "selection propagated variants" throughout — addresses Many-Worlds Defender critique about aimed-process framing doing inferential work no causal account sustains.
+  - Removed Fitness-Beats-Truth boundary-substitution at line 100; replaced with explicit framework-boundary marking per [[direct-refutation-discipline]] — the Map does not refute Tegmark inside his own frame and should not pretend to.
+  - Expanded §"Binding Problem" engagement: named IIT and Global Workspace Theory as competing non-quantum holism accounts; made both load-bearing conditionals (binding-requires-holism, entanglement-uniquely-supplies-holism) explicit.
+  - §"Stochastic Search": acknowledged classical SGD scales to extraordinary problem complexity; reframed quantum advantage as conditional on specific decision-level empirical comparison.
+  - §"Sufficiency of Classical Computation": marked both responses as Mode Three / Mode Four (framework-boundary / empirical-underdetermination) discharges rather than attempted Mode One refutations.
+  - §"No Direct Evidence of Selection": made disanalogy with cryptochrome explicit — cryptochrome had functional evidence in hand, neural quantum effects do not yet; reframed as conditional plausibility not analogical equivalence.
+  - §"Relation to Site Perspective": softened all four tenet connections from "establishes/required/shaped" to consistency/coherence claims; Occam's Razor subsection now acknowledges parsimony's past failures is not by itself an argument for the Map's framework (addressing tenet-protected-reasoning concern from the style-guide-violations section).
+  - Updated frontmatter description to track the calibrated claim.
+- **Engagement classifications** (editor-internal, per [[direct-refutation-discipline]]):
+  - Tegmark engagement in §"Decoherence Barrier": Mode Three (framework-boundary marking) on the broader epistemic situation, with the Hagan 2002 empirical engagement remaining at level of contested calculations.
+  - Classical-sufficiency engagement: mixed — Mode Three on holism conditional, Mode Four (empirical-underdetermination) on efficiency argument.
+  - Binding-problem holism: Mode Three — IIT and Dennett-style functionalism named as competing accounts the article does not refute on their own terms.
+- **Strengths preserved**: §"What This Does Not Establish" structure intact (only the probability claim corrected); decoherence-applies-unevenly observation preserved as honest; Beck-Eccles-Georgiev "if correct" hedging strengthened with explicit "contested at the empirical-feasibility level" gloss.
+- **Altered-state symmetry**: gate does not apply (no supportive/disruptive cluster items in article); no remediation owed.
+- **Word count**: ~2,150 → ~3,230 body words (+1,080 net). Larger growth than the task's 400-600-words-touched estimate because the calibrated framings — explicit conditional structures, named competing accounts (IIT, Global Workspace Theory, classical SGD), framework-boundary marking on the Tegmark engagement — required more text than the original's compact assertive prose. The body grew but did not gain assertive territory; the additions are qualifiers, conditionals, and named-opponent acknowledgements that the original prose elided. A subsequent /condense pass may be warranted if reviewers find the article slow.
+- **Published**: yes
+
 ## 2026-05-17 11:50 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/evolutionary-case-for-quantum-neural-effects]] — first adversarial audit of an article that has had four deep-reviews (2026-03-23/-23b/-23c/-25) but no prior pessimistic-review pass and no outer review, despite being the "evolutionary plausibility" leg of the quantum-neural three-legged structure ([[concepts/quantum-biology-and-neural-mechanisms]], [[topics/quantum-biology-and-neural-consciousness]])
