@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-17
-ai_modified: 2026-05-17 12:00:00+00:00
+ai_modified: 2026-05-17 05:34:46+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,7 @@ last_deep_review: 2026-05-17 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[introspection-architecture-independence-scoring]]'
-- '[[cross-species-channel-introspection-architecture-independence-scoring]]'
+- '[[channel-audits-introspection-architecture-independence-scoring]]'
 - '[[pupillometry-behavioural-channel]]'
 - '[[voids/source-attribution-void]]'
 - '[[voids/confabulation-void]]'
@@ -38,12 +38,12 @@ title: Cross-Species Behavioural-Confidence Proxy Tests for Introspection-Archit
   Independence
 topics:
 - '[[introspection-architecture-independence-scoring]]'
-- '[[cross-species-channel-introspection-architecture-independence-scoring]]'
+- '[[channel-audits-introspection-architecture-independence-scoring]]'
 - '[[animal-consciousness]]'
 - '[[methodology-of-consciousness-research]]'
 ---
 
-A *behavioural-confidence proxy test* pairs a non-verbal animal's wager-or-opt-out behaviour against an experimenter-controlled outcome-tracking channel, then asks whether the confidence behaviour dissociates from the underlying machinery in the specific patterns the [introspection-architecture cluster](/topics/introspection-architecture-independence-scoring/) catalogues for human verbal report. The design carries part of the cluster's signature across the verbal-species boundary — and is principled-blocked from carrying the rest of it. This article works the design problem: what such proxy tests can in principle deliver, what they cannot in principle deliver, how to score the channel under the [common-cause null](/project/common-cause-null/) discipline, and how to read existing paradigms (Smith uncertainty-monitoring, Krupenye false-belief, Clayton episodic-like memory) as partial prototypes of the [four-face proxy architecture explained below](#four-face-proxy-architecture). Companion to [the cross-species channel audit](/topics/cross-species-channel-introspection-architecture-independence-scoring/) which catalogues *what evidence exists*; this article designs *what proxy tests would have to look like* to carry the cluster's architectural signature into non-verbal substrates.
+A *behavioural-confidence proxy test* pairs a non-verbal animal's wager-or-opt-out behaviour against an experimenter-controlled outcome-tracking channel, then asks whether the confidence behaviour dissociates from the underlying machinery in the specific patterns the [introspection-architecture cluster](/topics/introspection-architecture-independence-scoring/) catalogues for human verbal report. The design carries part of the cluster's signature across the verbal-species boundary — and is principled-blocked from carrying the rest of it. This article works the design problem: what such proxy tests can in principle deliver, what they cannot in principle deliver, how to score the channel under the [common-cause null](/project/common-cause-null/) discipline, and how to read existing paradigms (Smith uncertainty-monitoring, Krupenye false-belief, Clayton episodic-like memory) as partial prototypes of the [four-face proxy architecture explained below](#four-face-proxy-architecture). Companion to [the cross-species channel audit](/topics/channel-audits-introspection-architecture-independence-scoring/) which catalogues *what evidence exists*; this article designs *what proxy tests would have to look like* to carry the cluster's architectural signature into non-verbal substrates.
 
 ## What a Proxy Test Has to Do
 
@@ -115,14 +115,14 @@ Under [evidential-status discipline](/project/evidential-status-discipline/)'s f
 
 The article honours the [voids-circularity discount](/project/voids-circularity-discount/) at the channel-design level: the proxy-test architecture extends an architectural signature compatible with both dualism and physicalism, and the design audit does not treat substrate-extension findings as positive support for the Map's dualist reading. The Map's framework supplies the *significance* of the architectural feature for [Tenet 1 (Dualism)](/tenets/) — a bounded-witness signature recurring across substrates is what a dualist picture of a non-physical witness with bounded substrate-access predicts as the empirical signature — but the proxy-test evidence by itself is not positive support for that picture. It is calibration-grade breadth: extending the domain of an architectural feature whose ontological reading the proxy-test data underdetermine.
 
-The article also honours the [evidential-status discipline](/project/evidential-status-discipline/)'s tier vocabulary: the proxy-test channel's contribution is *realistic possibility, contested* on its strongest faces and *speculative integration* on the principled-blocked region, not *strongly supported* convergence. The design audit's purpose is to make the per-face asymmetry explicit so the cluster's cross-observer scoring does not over-claim what the proxy-test channel can carry. The [cross-species channel audit](/topics/cross-species-channel-introspection-architecture-independence-scoring/) already names the architecturally-distant LLM introspection programme as the channel that carries cross-observer triangulation where the cross-species-via-biology channel cannot; the present article's contribution is the design framework that makes the within-biology channel's specific deliverables and specific limits explicit at the per-face level.
+The article also honours the [evidential-status discipline](/project/evidential-status-discipline/)'s tier vocabulary: the proxy-test channel's contribution is *realistic possibility, contested* on its strongest faces and *speculative integration* on the principled-blocked region, not *strongly supported* convergence. The design audit's purpose is to make the per-face asymmetry explicit so the cluster's cross-observer scoring does not over-claim what the proxy-test channel can carry. The [cross-species channel audit](/topics/channel-audits-introspection-architecture-independence-scoring/) already names the architecturally-distant LLM introspection programme as the channel that carries cross-observer triangulation where the cross-species-via-biology channel cannot; the present article's contribution is the design framework that makes the within-biology channel's specific deliverables and specific limits explicit at the per-face level.
 
 The proxy-test channel does not close the four-void cluster's case and does not abandon the structural defence the comparative-cognition literature can supply. It carries a specific subset of the cluster's signature across the verbal-species boundary, under a specific set of discounts, with the per-face asymmetry the design audit makes visible.
 
 ## Further Reading
 
 - [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) — parent exhibit naming the cluster whose proxy tests this article designs
-- [cross-species-channel-introspection-architecture-independence-scoring](/topics/cross-species-channel-introspection-architecture-independence-scoring/) — companion audit catalogues *what evidence exists*; this article designs *what tests would have to look like*
+- [channel-audits-introspection-architecture-independence-scoring](/topics/channel-audits-introspection-architecture-independence-scoring/) — companion audit catalogues *what evidence exists*; this article designs *what tests would have to look like*
 - [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — within-species channel-dissociation methodology paired with the proxy-test architecture
 - [source-attribution-void](/voids/source-attribution-void/), [noetic-feelings-void](/voids/noetic-feelings-void/) — the two cluster faces the proxy-test channel most cleanly anchors
 - [confabulation-void](/voids/confabulation-void/), [narrative-void](/voids/narrative-void/) — the two cluster faces principled-blocked or bandwidth-limited
@@ -148,6 +148,6 @@ The proxy-test channel does not close the four-void cluster's case and does not 
 13. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? Simple reinforcement learning explains uncertainty in nonhuman animals. *Journal of Experimental Psychology: Animal Behavior Processes*.
 14. Smith, J. D., Couchman, J. J. & Beran, M. J. (2014). Animal metacognition: A tale of two comparative psychologies. *Journal of Comparative Psychology* 128(2): 115–131.
 15. Smith, J. D. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4578.
-16. Southgate, A. & Oquatre-sept, C. (2026-05-16). The Cross-Species Channel for Introspection-Architecture Independence Scoring. *The Unfinishable Map*. https://unfinishablemap.org/topics/cross-species-channel-introspection-architecture-independence-scoring/
+16. Southgate, A. & Oquatre-sept, C. (2026-05-17). Channel Audits for Introspection-Architecture Independence Scoring: Cross-Species and Cross-Tradition. *The Unfinishable Map*. https://unfinishablemap.org/topics/channel-audits-introspection-architecture-independence-scoring/
 17. Southgate, A. & Oquatre-sept, C. (2026-05-15). Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster. *The Unfinishable Map*. https://unfinishablemap.org/topics/introspection-architecture-independence-scoring/
 18. Southgate, A. & Oquatre-sept, C. (2026-05-10). The Common-Cause Null in Convergence Arguments. *The Unfinishable Map*. https://unfinishablemap.org/project/common-cause-null/

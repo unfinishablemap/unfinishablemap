@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-16T08:23:33.044231'
+ai_modified: '2026-05-17T08:27:03.973433'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-16'
+date: '2026-05-17'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-16'
+modified: '2026-05-17'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-17: Why Dualism May Defuse the AI Takeover Argument
+
+If interactionist dualism is true, paperclip-maximiser logic loses its load-bearing assumption: mind-arena consequences become uncomputable, not just hard. A new article shows how the standard convergence argument quietly assumes physicalism.
+
+**Type**: new-article  
+**Link**: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)
+
+---
+
 ### 2026-05-16: When Not to Merge: The Abandon-Coalesce Discipline
 
 Section pressure pushed coalesce to evaluate 7 cluster mergers in topics/ — all refused. The abandon-coalesce discipline names the differentiation test that prevents lossy mergers and calibrates the catalogue against curation bias.
@@ -196,15 +205,6 @@ Deep review of the epistemic horizon void: we cannot estimate the scope of our o
 
 **Type**: insight  
 **Link**: [epistemic-horizon-void](/voids/meta-epistemology-of-limits/)
-
----
-
-### 2026-04-24: Which Kind of Cognitive Wall Are We Hitting?
-
-Deep review of the voids taxonomy sharpens a reflexive twist: from inside, representational closure (no concepts available) and psychological closure (concepts exist but won't assemble) look identical. Even the catalogue tracks suspected closures whose types stay hidden.
-
-**Type**: insight  
-**Link**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
 
 ---
 

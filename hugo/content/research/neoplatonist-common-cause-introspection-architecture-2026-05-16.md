@@ -27,7 +27,7 @@ topics:
 # Research: Neoplatonist Common-Cause Weight for Cross-Tradition Introspection-Architecture Parallels
 
 **Date**: 2026-05-16
-**Originating task**: P2 research-topic from pessimistic-review 2026-05-16b Issue 3 — the cross-tradition channel article's [score](/topics/cross-tradition-channel-introspection-architecture-independence-scoring/) is conditional on an un-audited Neoplatonist common-cause channel; the parent article names this as the open programme on which Criterion 3 (cross-observer convergence) depends.
+**Originating task**: P2 research-topic from pessimistic-review 2026-05-16b Issue 3 — the cross-tradition channel article's [score](/topics/channel-audits-introspection-architecture-independence-scoring/) is conditional on an un-audited Neoplatonist common-cause channel; the parent article names this as the open programme on which Criterion 3 (cross-observer convergence) depends.
 
 **Search queries used**:
 - "Plotinus inner faculty doctrine soul Stoic cognitive theory influence Enneads introspection"
