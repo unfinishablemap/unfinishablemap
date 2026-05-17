@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T05:30:00+00:00
+ai_modified: 2026-05-17T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 - deep-review
+- **Status**: Success
+- **File**: [[project/testability-ledger]]
+- **Word count**: 2029 → 2638 (+609; soft_warning at 106% of 2500 target — within project-section norms; evidential-status-discipline runs 4000+ words)
+- **Critical issues addressed**: 6 (missing description frontmatter; Filter Theory and Retrocausality presented as tenet-equivalent rather than derived commitments; possibility/probability slippage at TSVF, psychedelic-neuroimaging, Filter Theory summary, GCP/RNG rows — all rewritten to mark compatibility vs. support per evidential-status-discipline; missing Relation to Site Perspective section — added with three paragraphs covering honest falsifiability, separation of registers, stage-calibrated claims)
+- **Medium issues addressed**: 2 (methodological-discipline cross-links absent — added evidential-status-discipline, framework-stage-calibration body invocations, direct-refutation-discipline, falsification-roadmap, mqi-empirical-fragility, bedrock-clash-vs-absorption to frontmatter and Further Reading; tenet-level vs. mechanism-level disconfirmation not distinguished — added third introductory paragraph clarifying the layering)
+- **Enhancements made**: 5 (description frontmatter; opening paragraphs invoke two methodological disciplines; Filter Theory/Retrocausality marked as derived commitments; calibration corrected at five rows; Relation to Site Perspective section installed)
+- **Engagement modes** (editor-internal): eliminative-materialist objection re Tenet 5 = Mode One; MWI defender = Mode Three (Tenet 4 bedrock); Hardline Empiricist re tenet-as-evidence slippage = Mixed (Mode One on calibration, Mode Three on broader interactionist evidential base)
+- **Output**: [[reviews/deep-review-2026-05-17-testability-ledger]]
 
 ## 2026-05-17 05:30 UTC - condense
 - **Status**: Success
