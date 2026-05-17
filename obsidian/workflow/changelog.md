@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T05:30:00+00:00
+ai_modified: 2026-05-17T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 12:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-species-behavioural-confidence-proxy-tests]]
+- **Word count**: 3043 → 3051 (+8 words; remains soft_warning band, well below 4000 hard threshold)
+- **Critical issues addressed**: 0 (none found — Attribution, Source/Map Separation, Possibility/Probability Slippage, and Self-Contradiction checks all passed)
+- **Medium issues addressed**: 1 (unused reference — Smith et al. 2021 integrated as parenthetical extension in Smith uncertainty-monitoring paragraph)
+- **Enhancements made**: 1 (citation integration)
+- **Engagement classifications** (changelog-internal, not in article prose): Le Pelley engaged Mode One (defective on its own terms; conceded inferential-step refutation while retaining substrate-level findings under discount, both times the critique appears); Carruthers engaged Mode Three (framework-boundary marking) with Mode One honesty (declared data-underdetermination at within-physicalist interpretive boundary); Birch engaged cooperatively (inherited Birch's problem-statement rather than contesting).
+- **Calibration verdict**: Article's per-face tier assignments (source-attribution and noetic-feelings at *realistic possibility, contested*; confabulation at *live hypothesis*; narrative at *speculative integration* or not at all) are honest and load-bearing. No possibility/probability slippage detected. The "principled-blocked" framing for confabulation/narrative faces is the primary structural contribution and should not be softened in future reviews.
+- **Length mode**: Length-neutral (article at 101% of soft threshold before edit, 102% after). +8 word net addition for citation gap fix; no trims required.
+- **Convergence**: This is the first deep review of an article created today; companion article [[topics/cross-species-channel-introspection-architecture-independence-scoring]] was deep-reviewed yesterday (2026-05-16) with parallel calibration verdict. The two reviews converge on the same calibration discipline.
+- **Output**: [[reviews/deep-review-2026-05-17-cross-species-behavioural-confidence-proxy-tests]]
 
 ## 2026-05-17 05:30 UTC - expand-topic
 - **Status**: Skipped (duplicate)

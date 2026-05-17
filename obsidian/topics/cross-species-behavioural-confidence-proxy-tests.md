@@ -4,7 +4,8 @@ description: "Human+AI design audit of how a behavioural-confidence channel pair
 created: 2026-05-17
 modified: 2026-05-17
 human_modified:
-ai_modified: 2026-05-17T00:00:00+00:00
+ai_modified: 2026-05-17T12:00:00+00:00
+last_deep_review: 2026-05-17T12:00:00+00:00
 draft: false
 topics:
   - "[[introspection-architecture-independence-scoring]]"
@@ -79,7 +80,7 @@ The architecture makes explicit what existing proxy-test paradigms attempt and w
 
 Three programmes within the comparative-cognition literature are read here as partial prototypes of the architecture, each succeeding on a different face.
 
-**Smith uncertainty-monitoring** (Smith, Couchman & Beran 2014; programme since the 1990s). Rhesus macaques, capuchins, and dolphins given a perceptual discrimination with an opt-out third response choose the opt-out more on harder trials than on easier ones, paralleling human uncertainty-monitoring. The paradigm satisfies the noetic-feelings architecture across all four components, with opt-out rate scaling with the substrate's difficulty-expectation. Despite-commitments score: contested. Le Pelley 2012 showed associative-learning models reproduce the paradigm's hallmark patterns without invoking metacognition; the 2010s methodological responses tightened controls without delivering consensus closure. Scored under [[project/evidential-status-discipline|evidential-status discipline]] as *realistic possibility, contested*.
+**Smith uncertainty-monitoring** (Smith, Couchman & Beran 2014; programme since the 1990s; Smith et al. 2021 extension to rodent temporal-betting). Rhesus macaques, capuchins, and dolphins given a perceptual discrimination with an opt-out third response choose the opt-out more on harder trials than on easier ones, paralleling human uncertainty-monitoring. The paradigm satisfies the noetic-feelings architecture across all four components, with opt-out rate scaling with the substrate's difficulty-expectation. Despite-commitments score: contested. Le Pelley 2012 showed associative-learning models reproduce the paradigm's hallmark patterns without invoking metacognition; the 2010s methodological responses tightened controls without delivering consensus closure. Scored under [[project/evidential-status-discipline|evidential-status discipline]] as *realistic possibility, contested*.
 
 **Krupenye false-belief looking** (Krupenye et al. 2016; subsequent replications). Great apes (chimpanzees, bonobos, orangutans) shown a video of a protagonist forming a false belief anticipate the protagonist's *belief-consistent* search-location, not the object's actual location. The anticipatory-looking direction is a non-verbal commitment to specific content (an inferred mental state, not a perceived object) the underlying perceptual machinery did not supply — the principled-blocked confabulation region reached softly rather than absolutely. Scored as *live hypothesis* with bandwidth caveats.
 
