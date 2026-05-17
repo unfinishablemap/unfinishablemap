@@ -4,7 +4,7 @@ description: "Why materialism, functionalism, and epiphenomenalism fail to expla
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06
-ai_modified: 2026-03-14T21:03:00+00:00
+ai_modified: 2026-05-17T11:05:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -14,10 +14,10 @@ author: Andy Southgate
 ai_system:
 ai_generated_date:
 last_curated:
-last_deep_review: 2026-01-31T00:20:00+00:00
+last_deep_review: 2026-05-17T11:05:00+00:00
 ---
 
-This section presents arguments against positions that conflict with The Unfinishable Map's foundational tenets. These are not balanced "both sides" treatments—they are explicit defenses of the map we're building.
+This section presents arguments against positions that conflict with The Unfinishable Map's foundational tenets. The treatments here are openly partisan—explicit defences of the map we're building rather than balanced "both sides" surveys.
 
 ## Arguments
 
@@ -30,7 +30,7 @@ A comprehensive case against materialism in all its forms—eliminative, reducti
 - Chalmers' zombie argument shows consciousness is not entailed by physical facts
 - Quantum mechanics is not causally closed in the way materialism requires
 
-**Discussion:** [[concepts/materialism]]
+**Discussion:** [[materialism-argument|Against Materialism]], [[concepts/materialism|Materialism]]
 
 ### For Interactionist Dualism
 
@@ -58,13 +58,13 @@ The many-worlds interpretation of quantum mechanics claims to solve the measurem
 
 ### Against Epiphenomenalism
 
-Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. This page presents five arguments showing that epiphenomenalism is self-undermining.
+Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. This page presents four arguments showing that epiphenomenalism is self-undermining.
 
 **Key claims:**
 - The self-stultification argument: if consciousness causes nothing, reports about consciousness are accidentally correct at best
 - The evolutionary argument: consciousness has no fitness effects if epiphenomenal, so natural selection cannot explain its existence
-- The introspection problem: introspective access to consciousness becomes inexplicable
-- The self-knowledge problem: knowledge of our own minds requires causal connection
+- The knowledge argument reversed: epiphenomenalism requires unexplained correlation between phenomenal states and behavioural changes
+- The introspection problem: introspective access to consciousness becomes inexplicable when phenomenal states cannot causally contribute to the reports about them
 
 **Discussion:** [[epiphenomenalism-argument|Against Epiphenomenalism]]
 
@@ -79,7 +79,7 @@ Functionalism defines mental states by their functional roles—what they do rat
 - Multiple realizability cuts both ways: if substrate doesn't matter for function, why should function determine consciousness?
 - The explanatory gap: functional description doesn't explain why there's experience at all
 
-**Discussion:** [[arguments/functionalism|functionalism]]
+**Discussion:** [[functionalism-argument|Against Functionalism]], [[concepts/functionalism|Functionalism]]
 
 ### Occam's Razor Has Limits
 
@@ -91,7 +91,7 @@ Occam's Razor—the principle that simpler explanations should be preferred—is
 - Accounts of why parsimony works in empirical science do not extend to metaphysical theory choice
 - History repeatedly shows parsimony pointing away from truth when conceptual tools are inadequate
 
-**Discussion:** [[epistemological-limits-occams-razor]]
+**Discussion:** [[epistemological-limits-of-occams-razor|Epistemological Limits of Occam's Razor]], [[parsimony-case-for-interactionist-dualism|The Parsimony Case for Interactionist Dualism]], [[epistemological-limits-occams-razor|The Parsimony Void]]
 
 ## Relation to Site Perspective
 

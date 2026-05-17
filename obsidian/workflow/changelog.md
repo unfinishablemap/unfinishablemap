@@ -5,6 +5,16 @@ ai_modified: 2026-05-17T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-17 11:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[arguments/arguments]]
+- **Word count**: 725 → 759 (+34; 30% of 2500 soft threshold — normal mode)
+- **Critical issues addressed**: 2 (Epiphenomenalism argument-count mismatch: index claimed "five arguments" but detail page has four numbered arguments — corrected wording and replaced the conflated "self-knowledge problem" bullet with the missing Knowledge-Argument-Reversed bullet to mirror the detail page; Occam's Razor Discussion link mismatch — the section's key claims paraphrase the *arguments* page but the only link resolved to the *voids* page, so added `[[epistemological-limits-of-occams-razor]]` as the primary Discussion target with `[[parsimony-case-for-interactionist-dualism]]` alongside)
+- **Medium issues addressed**: 3 (Materialism Discussion line only linked the concept page — added `[[materialism-argument|Against Materialism]]` first to match the Many-Worlds routing pattern; Functionalism Discussion used the archived-alias `[[arguments/functionalism|functionalism]]` — replaced with `[[functionalism-argument|Against Functionalism]]` + `[[concepts/functionalism|Functionalism]]`; opening paragraph LLM-cliché "These are not… they are…" rephrased to "openly partisan—explicit defences… rather than balanced 'both sides' surveys")
+- **Enhancements made**: 5 (3 new cross-links added: materialism-argument, functionalism-argument, parsimony-case-for-interactionist-dualism; Discussion-line pattern now uniform across all six argument sections — dedicated argument page first, then concept/void pages; argument-count bullets in Epiphenomenalism now mirror the four numbered arguments in the detail page)
+- **Engagement modes** (editor-internal): not applicable at the index level — the page does not engage named opponents in argumentative dialogue; the opening paragraph's partisan-disclosure is Mode Three boundary-marking *for the section as a whole*; persona engagement happens on the detail pages. No label leakage.
+- **Output**: [[reviews/deep-review-2026-05-17-arguments]]
+
 ## 2026-05-17 10:49 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/neuroplasticity]]
