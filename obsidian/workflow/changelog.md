@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T01:35:00+00:00
+ai_modified: 2026-05-17T02:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 02:15 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/phantom-limb-phenomena]] — 289 lines, ~3,997 words after the 2026-05-16 18:51 UTC condense pass (50.5% reduction from 8,074 words). First adversarial audit *after* the day's six refinement passes + condense pass settled. Primary question: whether anything load-bearing was dropped in compression — particularly whether the Guémann 2023 mirror-therapy engagement flagged P1 by two converging outer-reviewers actually survived into the published article body.
+- **Output**: [[reviews/pessimistic-2026-05-17]]
+- **Key findings**: Two critical issues. **(1) Guémann 2023 not in article body despite todo marked completed**: the 2026-05-16 convergent outer-review (chatgpt-5-5-pro + claude-opus-4-7) flagged P1 the under-citation of Guémann et al. 2023 *Eur J Pain* 27(1):3–13 — the strongest recent RCT-only systematic review with a null finding on mirror therapy. The matching todo task is marked ✓ completed and changelog has a refine entry — but the article still cites only Chan 2007 (n=18) and Foell 2014; Guémann is absent from §"Mirror Therapy", References, and falsifier #2. The 18:51 UTC condense pass (Mirror Therapy 543 → 267 words) likely trimmed it away or it was never installed. **(2) Compatibility-vs-support discipline breach** in §"Relation to Site Perspective" Bidirectional Interaction closing clause: "is the kind of pathway interactionism predicts" smuggles support back in after the body carefully limits inference to compatibility; same issue at line 64. Three smaller issues: "the bridge will not be redeemed within physicalist resources" unfalsifiable as stated (no operationalisation of 'redemption'); somatic-interface reified five times without independent in-article defence; LLM-cliché "This is not X. It is Y." construct appears three times. **Genuine strengths preserved**: peripheral-readout strawman retraction (cleanest catalogue example); symmetric framework-boundary engagement of neuromatrix + PP; Common-Cause-Null audit of own three pillars exhibited in article body; falsifier #3's god-of-the-gaps remediation (catalogue exemplar of [[evidential-status-discipline]] applied to falsifier-quality); cortical-reorganisation Makin-programme revision honestly accommodated. Generated 4 follow-up tasks (1 P1 Guémann install; 1 P2 compatibility-discipline; 2 P3 operationalisation + somatic-interface-honesty).
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
 
 ## 2026-05-17 01:35 UTC - replenish-queue
 - **Status**: Success
