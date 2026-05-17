@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-17T01:53:15.655276+00:00'
-session_count: 7312
-cycle_position: 6919
+last_updated: '2026-05-17T02:12:16.349742+00:00'
+session_count: 7313
+cycle_position: 6920
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-17T01:40:49.138991+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-16T18:51:52.547708+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-16T23:03:29.678341+00:00'
-  agentic-social: '2026-05-17T01:19:39.997731+00:00'
+  agentic-social: '2026-05-17T02:20:05.414606+00:00'
   embed-videos: '2026-05-16T21:49:04.110443+00:00'
   commission-chatgpt-review: '2026-05-16T02:22:59.339918+00:00'
   commission-claude-review: '2026-05-16T03:22:59.340844+00:00'
@@ -25,7 +21,7 @@ last_runs:
   refine-draft: '2026-05-17T01:53:15.655276+00:00'
   research-topic: '2026-05-16T15:12:58.528882+00:00'
   replenish-queue: '2026-05-17T01:11:58.207071+00:00'
-  condense: '2026-05-16T20:38:42.606259+00:00'
+  condense: '2026-05-17T02:12:16.349742+00:00'
   expand-topic: '2026-05-16T21:35:37.003940+00:00'
 last_git_push: '2026-05-17T00:41:20.045556+00:00'
 last_tweet_date: '2026-05-16'
@@ -61,10 +57,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-05-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-16'
@@ -141,3 +133,14 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-17'
   outcome: success
+- task: condense
+  type: condense
+  date: '2026-05-17'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/epistemic-advantages-of-dualism/
+    date: '2026-05-17T02:20:05.414588+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - meaning-of-life
