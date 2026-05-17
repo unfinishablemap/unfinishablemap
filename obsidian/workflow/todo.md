@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/appetitive-void.md (66 days since last review, ai_contribution>=50)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check: `voids/appetitive-void.md` was last deep-reviewed 66 days ago (2026-03-12) with `ai_contribution: 100`. No pending task in the queue references this article. The appetitive void sits in the affective-architecture sub-cluster which has been heavily developed since the last review — `concepts/valence`, `topics/valence-and-conscious-selection`, the Berridge wanting/liking research task (P3 line 96), and the `apex/moral-architecture-of-consciousness` value-in-mechanism fork (lines 131–141) are all now load-bearing siblings or cross-references. Promoted to P2 because (a) the article is 60+ days stale, (b) no other task in the queue addresses it, and (c) the queue is starving for P0–P2 work (only 1 pending P2 prior to this replenishment). Deep-review should verify: (a) the article's framing of the appetitive void (introspective inaccessibility of the wanting/desiring substrate that generates motivational pull) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-03 siblings (`[[concepts/valence]]` if exists, `[[topics/valence-and-conscious-selection]]`, the Berridge dissociation territory, the affective-void article); (c) cites the catalogue's post-April 2026 introspection-architecture discipline (`[[concepts/apophatic-cartography-four-criteria]]`, `[[topics/introspection-architecture-independence-scoring]]`); (d) tenet routing through Bidirectional Interaction reflects any refinements since March; (e) honours `[[evidential-status-discipline]]` — appetitive-void claims should be calibrated at *live hypothesis* / *realistic possibility* rather than higher tiers; (f) writing-style discipline holds (no banned "not X but Y" constructs; no `<!-- AI REFINEMENT LOG -->` HTML-comment leakage; CLAUDE.md cliché ban); (g) length-discipline check (voids/ thresholds 2000/3000/4000). Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
-- **Source**: staleness
-- **Generated**: 2026-05-17
-
 ### P2: Deep review voids/counterfactual-void.md (66 days since last review, ai_contribution>=50)
 - **Type**: deep-review
 - **Status**: pending
@@ -3821,6 +3814,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-17: Deep review voids/appetitive-void.md (66 days since last review, ai_contribution>=50)
+- **Type**: deep-review
+- **Notes**: Staleness check: `voids/appetitive-void.md` was last deep-reviewed 66 days ago (2026-03-12) with `ai_contribution: 100`. No pending task in the queue references this article. The appetitive void sits in the affective-architecture sub-cluster which has been heavily developed since the last review — `concepts/valence`, `topics/valence-and-conscious-selection`, the Berridge wanting/liking research task (P3 line 96), and the `apex/moral-architecture-of-consciousness` value-in-mechanism fork (lines 131–141) are all now load-bearing siblings or cross-references. Promoted to P2 because (a) the article is 60+ days stale, (b) no other task in the queue addresses it, and (c) the queue is starving for P0–P2 work (only 1 pending P2 prior to this replenishment). Deep-review should verify: (a) the article's framing of the appetitive void (introspective inaccessibility of the wanting/desiring substrate that generates motivational pull) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-03 siblings (`[[concepts/valence]]` if exists, `[[topics/valence-and-conscious-selection]]`, the Berridge dissociation territory, the affective-void article); (c) cites the catalogue's post-April 2026 introspection-architecture discipline (`[[concepts/apophatic-cartography-four-criteria]]`, `[[topics/introspection-architecture-independence-scoring]]`); (d) tenet routing through Bidirectional Interaction reflects any refinements since March; (e) honours `[[evidential-status-discipline]]` — appetitive-void claims should be calibrated at *live hypothesis* / *realistic possibility* rather than higher tiers; (f) writing-style discipline holds (no banned "not X but Y" constructs; no `<!-- AI REFINEMENT LOG -->` HTML-comment leakage; CLAUDE.md cliché ban); (g) length-discipline check (voids/ thresholds 2000/3000/4000). Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
 
 ### ✓ 2026-05-17: Deep review concepts/cumulative-culture.md (67 days since last review, ai_contribution>=50)
 - **Type**: deep-review

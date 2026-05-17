@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T14:04:26+00:00
+ai_modified: 2026-05-17T14:50:03+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 14:50 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/appetitive-void]]
+- **Previous deep review**: [[reviews/deep-review-2026-03-11-appetitive-void|2026-03-11]] (2nd review; 67 days since last)
+- **Word count**: 1905 → 1927 (+22, length-neutral; 96% of 2000 soft threshold for voids/, well within 3000 hard)
+- **Critical issues addressed**: 0 (none found — article has converged; previously identified critical issues from 2026-03-11 remain resolved)
+- **Medium issues addressed**: 2 (missing References entry for the in-body *Trends in Cognitive Sciences* citation now added; thin third falsification condition sharpened to specify variability-across-individuals-and-tasks and make the prediction-vs-randomness contrast explicit)
+- **Reasoning-mode classifications** (editor-internal): No named-opponent replies present. The article expounds convergent traditions (Schopenhauer, Buddhism, Spinoza, Nietzsche, Lacan, predictive processing) rather than refuting opponents. Mode classification not applicable. No label leakage detected in article prose.
+- **Calibration check**: Article does not engage minimal-organism consciousness or boundary cases. No possibility/probability slippage risk. The void thesis sits at appropriate confidence given the "What Would Challenge This View?" section's three concrete falsification conditions.
+- **Enhancements made**: 3 (References entry added; Predictive Processing paragraph tightened to absorb +length cost; falsification condition #3 expanded for specificity)
+- **Stability**: Article reached convergence by 2nd review (1 critical + 3 medium → 0 critical + 2 medium). Adversarial-persona objections from outside the Map's framework remain bedrock disagreements, not correctable defects, per the 2026-03-11 stability note.
+- **Output**: [[reviews/deep-review-2026-05-17-appetitive-void]]
 
 ## 2026-05-17 14:04 UTC - deep-review
 - **Status**: Success
