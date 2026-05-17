@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-15 08:41:00+00:00
+ai_modified: 2026-05-17 02:35:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[illusionism]]'
 - '[[phenomenal-concepts-strategy]]'
 - '[[mental-causation-and-downward-causation]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
 created: 2026-01-14
 date: &id001 2026-01-19
 description: Mental states become conscious when we become aware of them. HOT explains
@@ -22,7 +23,7 @@ description: Mental states become conscious when we become aware of them. HOT ex
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 01:02:00+00:00
+last_deep_review: 2026-05-17 02:35:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -221,6 +222,7 @@ The hard problem remains hard.
 - [global-workspace-theory](/concepts/global-workspace-theory/) — A complementary functionalist theory
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The recursive structure HOT requires
 - [self-opacity](/voids/self-opacity/) — The void where consciousness cannot fully examine itself
+- [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/) — How transparency and opacity bear on the self-representation HOT requires
 - [functionalism](/concepts/functionalism/) — The philosophical framework underlying HOT
 - [illusionism](/concepts/illusionism/) — HOT's logical extreme: phenomenal consciousness as illusion
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Physicalism's parallel attempt to explain the gap

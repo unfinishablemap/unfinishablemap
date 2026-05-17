@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-28 21:08:00+00:00
+ai_modified: 2026-05-17 03:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: 'When did consciousness arise? Dualism avoids the strong emergence 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 21:08:00+00:00
+last_deep_review: 2026-05-17 03:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,6 +32,7 @@ related_articles:
 - '[[emergence-consciousness-philosophy-2026-01-15]]'
 - '[[consciousness-evolution-and-biology]]'
 - '[[evolution-under-dualism]]'
+- '[[interface-efficacy-and-the-cognitive-gap]]'
 title: Evolution of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -125,7 +126,7 @@ For materialists, this is a problem. Strong emergence looks like magic—new pro
 
 Dualism doesn't require explaining how matter *produces* consciousness—it holds that consciousness isn't produced by matter at all. Instead, consciousness and matter are both fundamental, with lawful relationships between them (see [psychophysical-laws](/concepts/psychophysical-laws/)).
 
-On this view, the evolution of consciousness is the evolution of *interfaces* between mind and matter. Brains don't generate consciousness; they channel it, shape it, provide its content. What evolved was not consciousness itself but increasingly sophisticated consciousness-brain coupling. If different lineages evolved these interfaces independently, the coupling mechanisms themselves may differ—a possibility explored in [interface-heterogeneity](/concepts/interface-heterogeneity/).
+On this view, the evolution of consciousness is the evolution of *interfaces* between mind and matter. Brains don't generate consciousness; they channel it, shape it, provide its content. What evolved was not consciousness itself but increasingly sophisticated consciousness-brain coupling. If different lineages evolved these interfaces independently, the coupling mechanisms themselves may differ—a possibility explored in [interface-heterogeneity](/concepts/interface-heterogeneity/), and one whose scalar dimensions (bandwidth, fidelity, granularity, candidate-type coupling) are catalogued in [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/).
 
 ### The Prebiotic Connection
 
@@ -225,6 +226,7 @@ Scientific humility requires specifying what would count against one's view.
 - [animal-consciousness](/topics/animal-consciousness/) — Which creatures are conscious and why
 - [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Convergent amplification test across dolphins and corvids with radically different neural architectures
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across species?
+- [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) — Scalar axes of interface variation and the human-other-animal cognitive gap as efficacy scaling
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What selected outcomes before minds existed
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness
 - [panpsychism](/concepts/panpsychism/) — The view that experience is fundamental

@@ -27,6 +27,7 @@ related_articles:
 - '[[direct-refutation-discipline]]'
 - '[[common-cause-null]]'
 - '[[abandon-coalesce]]'
+- '[[mechanism-costs-cartography]]'
 - '[[testability-ledger]]'
 - '[[the-convergence-argument-for-dualism]]'
 - '[[the-binding-problem]]'
@@ -108,6 +109,7 @@ It also serves the [Dualism](/tenets/#dualism) tenet indirectly. The Map's centr
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — System-level inflation-resistance the discipline serves
 - [testability-ledger](/project/testability-ledger/) — Falsifier-design pattern this discipline operationalises
 - [abandon-coalesce](/project/abandon-coalesce/) — Editorial-curation companion at the cluster-evaluation grain: refuses mergers when adjacent voids encode deliberately differentiated failure signatures, supplying the local-differentiation evidence the cluster-integration discipline relies on at the within-cluster shape level
+- [mechanism-costs-cartography](/project/mechanism-costs-cartography/) — Cartographic-layer cousin: where cluster-integration governs how a single article structures a multi-part *inference* via correspondence between cluster-shape and explanandum-shape, mechanism-costs cartography governs how a single article structures a multi-cell *cost accounting* via parallel-structured exposition under a fixed question battery. Both work over a structured space and earn argumentative weight from a load-bearing structural feature (correspondence claim / question battery)
 
 ## References
 

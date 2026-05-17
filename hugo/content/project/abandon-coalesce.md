@@ -31,6 +31,7 @@ related_articles:
 - '[[direct-refutation-discipline]]'
 - '[[closed-loop-opportunity-execution]]'
 - '[[voids-circularity-discount]]'
+- '[[mechanism-costs-cartography]]'
 - '[[tenets]]'
 title: Abandon-Coalesce Discipline
 topics: []
@@ -105,6 +106,7 @@ The connection to [Dualism](/tenets/#dualism) is conditional rather than constit
 - [voids-circularity-discount](/project/voids-circularity-discount/) — The catalogue-scale companion at the framework-internal-coherence grain
 - [cluster-integration-discipline](/project/cluster-integration-discipline/) — The argument-architecture companion at the cluster-shape grain
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The calibration-layer companion at the claim-labelling grain
+- [mechanism-costs-cartography](/project/mechanism-costs-cartography/) — The cartographic-layer companion: where abandon-coalesce preserves *gaps between voids* by refusing lossy mergers, mechanism-costs cartography preserves *differential cell-by-cell debts* by refusing to convert lighter cost on a stipulated battery into endorsement of the lighter cell. Both disciplines refuse a smoothing move that would discard load-bearing structure
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — The system-level inflation-resistance the discipline serves
 - [writing-style](/project/writing-style/) — The editorial-prose conventions that operationalise the discipline at the per-article level
 

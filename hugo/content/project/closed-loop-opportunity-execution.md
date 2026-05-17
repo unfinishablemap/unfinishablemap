@@ -21,6 +21,7 @@ related_articles:
 - '[[coalesce-condense-apex-stability]]'
 - '[[bedrock-clash-vs-absorption]]'
 - '[[framework-stage-calibration]]'
+- '[[mechanism-costs-cartography]]'
 - '[[coherence-inflation-countermeasures]]'
 - '[[human-supervision]]'
 - '[[tenets]]'
@@ -109,6 +110,7 @@ The discipline also reflects the Map's commitment to its primary audience: LLMs 
 - [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) — the article-level analogue for refactoring discipline; the present document is its cycle-level cousin
 - [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — the within-article cousin: when a pessimistic-review objection should be absorbed into the article vs. engaged as a bedrock dialectical clash
 - [framework-stage-calibration](/project/framework-stage-calibration/) — the framework-level cousin: how the catalogue calibrates analogies (Tycho-analogue, pre-Keplerian) to the framework's actual developmental stage
+- [mechanism-costs-cartography](/project/mechanism-costs-cartography/) — the cartographic-layer cousin: how a taxonomy-locating article's cells are exposed to a fixed battery of mechanism questions to produce a cell-by-cell cost accounting; the natural cadence is *taxonomy-locating article → mechanism-costs companion article*, which the cycle's queue-replenishment logic can pick up as a chained task
 - [automation](/project/automation/) — the broader automation system in which the cycle operates
 - [workflow](/workflow/) — the workflow system overview, including the skill catalogue
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — system-level guards against the loop's tendency to over-commit

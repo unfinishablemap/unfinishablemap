@@ -25,6 +25,7 @@ related_articles:
 - '[[closed-loop-opportunity-execution]]'
 - '[[coalesce-condense-apex-stability]]'
 - '[[coherence-inflation-countermeasures]]'
+- '[[mechanism-costs-cartography]]'
 - '[[calibration-audit-triple]]'
 - '[[testability-ledger]]'
 - '[[birch-edge-of-sentience-and-the-five-tier-scale]]'
@@ -269,6 +270,7 @@ Beyond tenet alignment, the discipline complements [coherence-inflation counterm
 - [framework-stage-calibration](/project/framework-stage-calibration/) — sister discipline at the framework level: how the catalogue characterises its own developmental stage to avoid stage-mismatched analogies
 - [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) — sister discipline at the cycle level: how review-recommendations close into executed-and-reviewed content within a bounded window
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — the system-level guards that evidential-status discipline complements; tenet-as-evidence-upgrade is the inflation vector the existing countermeasures do not catch
+- [mechanism-costs-cartography](/project/mechanism-costs-cartography/) — sister discipline at the cartographic layer: the asymmetry-concession discipline and the "tenets adjudicate; cartography speaks" closing formula instantiate the same constrain-vs-establish move at the cell-by-cell mechanism-cost layer, refusing to convert cell-relative lightness on a stipulated battery into endorsement of the lighter cell
 - [calibration-audit-triple](/project/calibration-audit-triple/) — the corpus-level audit family that operates against this discipline's calibration scale; topic-concept anchoring (Audit Three) is the corpus-level enforcement of the *constrain*-vs-*establish* distinction across topic-concept anchor pairs
 - [testability-ledger](/project/testability-ledger/) — what the framework treats as decisive disconfirmation; the ledger structure presupposes evidential-status discipline at the framework's empirical edges
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — the canonical worked example: the two-questions distinction (metaphysical possibility vs. empirical support) installed in the lede; per-organism calibration expressed in natural prose

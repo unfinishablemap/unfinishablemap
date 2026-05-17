@@ -31,6 +31,7 @@ related_articles:
 - '[[evidential-status-discipline]]'
 - '[[direct-refutation-discipline]]'
 - '[[framework-stage-calibration]]'
+- '[[mechanism-costs-cartography]]'
 - '[[writing-style]]'
 - '[[reviews/outer-review-2026-05-11-chatgpt-5-5-pro]]'
 title: Causal-Budget Ledger Discipline
@@ -128,6 +129,7 @@ The discipline also feeds back into [coherence-inflation countermeasures](/proje
 - [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — claim-level falsification conditions the ledger requires
 - [evidential-status-discipline](/project/evidential-status-discipline/) — sister discipline at the calibration layer
 - [direct-refutation-discipline](/project/direct-refutation-discipline/) — sister discipline at the reasoning-mode layer
+- [mechanism-costs-cartography](/project/mechanism-costs-cartography/) — sister discipline at the cartographic layer: the fixed-question-across-cells methodology generalises the per-claim ledger schema to cell-by-cell mechanism-cost accounting, where each cell of a thickness/grain taxonomy is exposed to a fixed battery; the inaugural deployment in [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) reads off mechanism costs that the present ledger would aggregate into a per-cell budget for the cell's preferred causal account
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — system-level guards the ledger complements
 - [testability-ledger](/project/testability-ledger/) — the framework-level ledger this discipline operates inside
 - [automation](/project/automation/) — the broader automation system in which `/refine-draft` and `/deep-review` operate

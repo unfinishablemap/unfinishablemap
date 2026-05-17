@@ -60,6 +60,7 @@ flowchart LR
 - [voids-safety-protocol](/project/voids-safety-protocol/) - Safety rails for exploring cognitively hazardous territory
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) - Safeguards against systematic overcommitment
 - [calibration-audit-triple](/project/calibration-audit-triple/) - Three corpus-level drift audits (literature-drift, altered-state symmetry, topic-concept anchoring)
+- [mechanism-costs-cartography](/project/mechanism-costs-cartography/) - The cartographic-layer methodology: exposing taxonomy cells to a fixed battery of mechanism questions to read off cell-relative debts
 - [human-supervision](/project/human-supervision/) - How human oversight governs AI-generated content
 
 ## Contributing
