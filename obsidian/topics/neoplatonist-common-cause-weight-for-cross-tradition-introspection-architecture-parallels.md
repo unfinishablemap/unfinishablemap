@@ -4,7 +4,8 @@ description: "Differentiated audit of Neoplatonist transmission as a common-caus
 created: 2026-05-17
 modified: 2026-05-17
 human_modified:
-ai_modified: 2026-05-17T05:50:00+00:00
+ai_modified: 2026-05-17T06:30:00+00:00
+last_deep_review: 2026-05-17T06:30:00+00:00
 draft: false
 topics:
   - "[[introspection-architecture-independence-scoring]]"
@@ -33,7 +34,7 @@ ai_generated_date: 2026-05-17
 last_curated:
 ---
 
-The [[channel-audits-introspection-architecture-independence-scoring|cross-tradition channel audit]] for the [[introspection-architecture-independence-scoring|introspection-architecture independence exhibit]] scores Advaita, Sufi, and Stoic articulations of bounded introspective access at *low-moderate* convergence. That score was originally pending a sharper test: how much of the apparent agreement is *common-cause Neoplatonism* — a single Plotinian articulation of bounded conscious access propagating downstream through Porphyry, Iamblichus, Proclus, Evagrius, the Arabic Plotinus, Avicenna, al-Ghazālī, Suhrawardī, and Ibn ʿArabī? This article is that audit. The verdict is **differentiated and asymmetric**: the Neoplatonist common-cause channel earns *weak* discount for Stoicism (chronology runs the wrong way — Plotinus is downstream of the Stoa), *weak-to-negligible* discount for Advaita (Bréhier-Armstrong-Aklan consensus on Plotinian-Indian non-influence; Mughal mediation runs the wrong direction for Shankara), and *moderate-to-substantial* discount for Sufism (Christian-monastic-via-Evagrius prefigures *khawāṭir* by ~400 years; al-Kindī's Arabic Plotinus is contemporaneous with Muḥāsibī in mid-9th-century Baghdad).
+The [[channel-audits-introspection-architecture-independence-scoring|cross-tradition channel audit]] for the [[introspection-architecture-independence-scoring|introspection-architecture independence exhibit]] scores Advaita, Sufi, and Stoic articulations of bounded introspective access at *low-moderate* convergence. That score required a sharper test: how much of the apparent agreement is *common-cause Neoplatonism* — a single Plotinian articulation of bounded conscious access propagating downstream through Porphyry, Iamblichus, Proclus, Evagrius, the Arabic Plotinus, Avicenna, al-Ghazālī, Suhrawardī, and Ibn ʿArabī? This article is the detail underpinning the unified channel-audits summary. The verdict is **differentiated and asymmetric**: the Neoplatonist common-cause channel earns *weak* discount for Stoicism (chronology runs the wrong way — Plotinus is downstream of the Stoa), *weak-to-negligible* discount for Advaita (Bréhier-Armstrong-Aklan consensus on Plotinian-Indian non-influence; Mughal mediation runs the wrong direction for Shankara), and *moderate-to-substantial* discount for Sufism (Christian-monastic-via-Evagrius prefigures *khawāṭir* by ~400 years; al-Kindī's Arabic Plotinus is contemporaneous with Muḥāsibī in mid-9th-century Baghdad).
 
 The net effect on the parent exhibit: the cross-tradition channel score holds at *low-moderate* — the audit is a *calibration adjustment*, not a *defeater* — but the internal weighting shifts. The "cleanest historical-isolation defence" attribution moves from early Sufi practice (where the audit identifies transmission channels) to Advaita Vedānta (where it does not). Ghazālī's hidden *riyāʾ* finding softens at the *framing* level (Avicennan-Neoplatonist faculty psychology) while the *finding* survives. Stoic *propatheia* and Advaitic *vāsanā* / *adhyāsa* findings are unaffected.
 
@@ -45,7 +46,7 @@ Plotinus deploys a tetrad of consciousness-related concepts corresponding to lev
 
 For the audit, two distinctions matter. First, Plotinus's claim is *framework-level*: the soul has activity beyond conscious apprehension, framed within a Neoplatonist hierarchy in which the higher hypostases (Intellect, the One) are present in the soul but not always thematised. Second, the *specific* architectural findings the cross-tradition cluster catalogues — Sufi *khawāṭir* on incoming-thought source attribution, Stoic *propatheia* on sub-assent affective machinery, Advaitic *vāsanā* on latent dispositional contamination, hidden *riyāʾ* on confabulatory motivation — are *more specific* than Plotinus's general claim. The Plotinian articulation can supply a *framework-level* common cause for the general fact of bounded introspective access without supplying *architectural-specifics-level* common cause for the per-tradition findings. The audit's discount has to be applied at the right resolution: at the framework-vocabulary level, generously; at the architectural-specifics level, sparingly.
 
-The Schwyzer-Hendrix reading is not uncontested: Emilsson (2007) and Remes (2008) are more cautious about projecting modern "unconscious" categories onto the *Enneads*. The framework-level common-cause weight depends partly on which reading prevails — a question this audit names but does not settle.
+The Schwyzer-Hendrix reading is contested: Emilsson (2007) and Remes (2008) caution against projecting modern "unconscious" categories onto the *Enneads*. The framework-level common-cause weight depends partly on which reading prevails — a question this audit names but does not settle.
 
 ## Stoicism: The Channel is Closed by Chronology
 
