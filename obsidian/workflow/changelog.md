@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T14:50:03+00:00
+ai_modified: 2026-05-17T15:04:45+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 15:04 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/integrated-information-theory]]
+- **Previous deep review**: [[reviews/deep-review-2026-03-29-integrated-information-theory|2026-03-29]] (7th review; 49 days since last)
+- **Word count**: 3322 → 3322 (0; length-neutral mode at 133% of 2500 soft threshold for concepts/, within 3500 hard)
+- **Critical issues addressed**: 0 (none found — article has converged across seven reviews; pessimistic personas raise only bedrock framework-boundary disagreements)
+- **Medium issues addressed**: 0 (one borderline language observation in Process Philosophy section deliberately not acted on to avoid the over-correction warned against by the skill)
+- **Reasoning-mode classifications** (editor-internal): engagement with illusionism — Mode Three (boundary marking with honest acknowledgement that illusionism denies what IIT presupposes); engagement with identity theory — Mode Two (uses opponents' own empirical-confirmation standards to identify the unsupported foundational move); engagement with Whitehead — Mode Three (explicitly notes the Map sides closer to Whitehead). No label leakage in article prose.
+- **Calibration check**: *C. elegans* / minimal-Phi discussion is properly conditional on IIT's correctness, does not elevate evidential status via tenet-load. A tenet-accepting reviewer would not flag the claims as overstated. Hardline Empiricist persona finds the calibration honest.
+- **Attribution check**: Aaronson, Tononi, Frankish/Dennett, McQueen & Tsuchiya, Kerskens & Pérez (2022), COGITATE Consortium (2025) — all attributions verified correct; no dropped qualifiers; no position-strength overstatement.
+- **Enhancements made**: 0 (article at 133% soft threshold; length-neutral mode; no expansion warranted)
+- **Stability**: Seventh review; full convergence reached. Both recent reviews (2026-03-29, 2026-05-17) found zero critical issues. Future reviews should treat this article as a stable model and not re-flag bedrock disagreements as defects.
+- **Output**: [[reviews/deep-review-2026-05-17-integrated-information-theory]]
 
 ## 2026-05-17 14:50 UTC - deep-review
 - **Status**: Success
