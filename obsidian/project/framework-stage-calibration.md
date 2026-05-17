@@ -16,6 +16,7 @@ related_articles:
   - "[[closed-loop-opportunity-execution]]"
   - "[[bedrock-clash-vs-absorption]]"
   - "[[coalesce-condense-apex-stability]]"
+  - "[[mechanism-costs-cartography]]"
   - "[[coherence-inflation-countermeasures]]"
   - "[[testability-ledger]]"
   - "[[the-interface-problem]]"
@@ -95,6 +96,7 @@ Beyond tenet alignment, the discipline serves the Map's primary audience: LLMs f
 - [[closed-loop-opportunity-execution]] — the cycle-level methodology cousin (genesis-and-integration over the 24-slot cycle vs. stage-calibration of the framework's own claims)
 - [[bedrock-clash-vs-absorption]] — the within-article methodology cousin (rival-position handling vs. stage-calibration)
 - [[coalesce-condense-apex-stability]] — the article-level structural-refactor methodology cousin (refactor-and-stability over existing content vs. stage-calibration of the framework's claims)
+- [[mechanism-costs-cartography]] — the cartographic-layer methodology cousin: how taxonomy-cells are exposed to a fixed battery of mechanism questions; the methodology's discipline of non-adjudication parallels the present discipline's refusal to over-claim the framework's stage — neither methodology presents stipulated-question-battery outcomes nor stage-borrowed analogies as more than what they are
 - [[coherence-inflation-countermeasures]] — the system-level guard against silent over-claiming that calibration also serves
 - [[calibration-audit-triple]] — companion corpus-level audit family at the drift layer; literature-drift (Audit One) is the staleness counterpart to the present discipline's developmental-stage calibration
 - [[testability-ledger]] — the central register of what observations would update for or against the framework; pre-Keplerian framing is consistent with the ledger's "decisive disconfirmer" structure

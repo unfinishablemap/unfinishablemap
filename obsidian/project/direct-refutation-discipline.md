@@ -16,6 +16,7 @@ related_articles:
   - "[[framework-stage-calibration]]"
   - "[[evidential-status-discipline]]"
   - "[[closed-loop-opportunity-execution]]"
+  - "[[mechanism-costs-cartography]]"
   - "[[testability-ledger]]"
   - "[[writing-style]]"
   - "[[tenets]]"
@@ -227,6 +228,7 @@ Beyond tenet alignment, the discipline feeds back into [[coherence-inflation-cou
 - [[framework-stage-calibration]] — sister discipline at the framework level: how the catalogue characterises its own developmental stage to avoid stage-mismatched analogies
 - [[evidential-status-discipline]] — sister discipline at the calibration layer: the *constrain*-vs-*establish* distinction Mode Four builds on, and the five-tier scale the editor uses when assessing whether the empirical evidence underdetermines the philosophical conclusion
 - [[closed-loop-opportunity-execution]] — sister discipline at the cycle level: how review-recommendations close into executed-and-reviewed content within a bounded window
+- [[mechanism-costs-cartography]] — sister discipline at the cartographic layer: the methodology explicitly preserves Mode Three engagement at the cell-by-cell mechanism-cost layer (cells differ in what they owe, not in whether they are defensible) and cites the present discipline's reasoning-mode taxonomy as the apparatus that secures the preservation
 - [[coherence-inflation-countermeasures]] — the system-level guards that direct-refutation discipline complements; perimeter-substitution is the inflation vector the existing countermeasures do not catch
 - [[calibration-audit-triple]] — companion corpus-level audit family at the drift layer; altered-state symmetry (Audit Two) is the convergence-counting counterpart to the perimeter-substitution catch this discipline addresses at the dialectical layer
 - [[testability-ledger]] — what the framework treats as decisive disconfirmation; the ledger structure presupposes the direct-refutation mode at the framework's empirical edges

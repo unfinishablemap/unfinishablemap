@@ -17,6 +17,7 @@ related_articles:
   - "[[closed-loop-opportunity-execution]]"
   - "[[coalesce-condense-apex-stability]]"
   - "[[framework-stage-calibration]]"
+  - "[[mechanism-costs-cartography]]"
   - "[[tenets]]"
 ai_contribution: 100
 author: null
@@ -117,6 +118,7 @@ Beyond tenet alignment, the discipline serves the Map's commitment to its primar
 - [[closed-loop-opportunity-execution]] — the cycle-level methodology cousin (cycle-level loop closure vs. article-level position-preservation)
 - [[coalesce-condense-apex-stability]] — the article-level structural-refactor methodology; bedrock-clash discipline operates within an article, the triple-discipline across articles
 - [[framework-stage-calibration]] — the framework-level methodology cousin: stage-calibration of the catalogue's analogies to the framework's actual developmental stage (pre-Keplerian rather than post-Newtonian)
+- [[mechanism-costs-cartography]] — the cartographic-layer methodology cousin: how a taxonomy's cells are exposed to a fixed battery of mechanism questions; the non-adjudicative posture preserves Mode Three engagement (genuinely bedrock disagreement between cells is not converted into in-framework refutation by the cost exposition), so absorption-vs-clash decisions at the article level inherit the same discipline at the cartographic layer
 - [[coherence-inflation-countermeasures]] — the system-level guard against silently absorbing competing positions
 - [[calibration-audit-triple]] — companion corpus-level audit family at the drift layer; altered-state symmetry (Audit Two) is the convergence-counting counterpart at the across-articles level to the present discipline's rival-position-preservation work within a single article
 - [[automation]] — the broader automation system in which `/refine-draft` operates

@@ -2,9 +2,10 @@
 title: "Mechanism-Costs Cartography"
 description: "A named cartographic methodology: expose each cell of a thickness/grain taxonomy to a fixed battery of mechanism questions and read off what each cell owes that its neighbours do not."
 created: 2026-05-12
-modified: 2026-05-12
+modified: 2026-05-17
 human_modified: null
-ai_modified: 2026-05-12T05:00:00+00:00
+ai_modified: 2026-05-17T01:25:00+00:00
+last_deep_review: 2026-05-17T01:25:00+00:00
 draft: false
 topics: []
 concepts: []

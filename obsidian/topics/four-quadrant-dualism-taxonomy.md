@@ -20,6 +20,7 @@ concepts:
   - trumping-preemption
 related_articles:
   - "[[mechanism-costs-dualism-thickness-quadrants]]"
+  - "[[mechanism-costs-cartography]]"
   - "[[dualism]]"
   - "[[interactionist-dualism]]"
   - "[[substance-property-dualism]]"
@@ -139,21 +140,22 @@ The **Dualism** tenet rules out the idealist limit of Q3 but is compatible with 
 
 Net: the tenets forbid pure Q2 and the idealist limit of Q3, leaving Q1, Q4, and physical-thin / mind-variable hybrids in between as genuine options. The Map's current default reading — physical-thin plus mind-medium — sits close to Q1 with room to expand along the mind axis if Myersian or Jamesian evidence warrants. The Map is not committed to a specific quadrant; it is committed to a *region* of the taxonomy that excludes epiphenomenalist and idealist extremes.
 
-The Map's [[parsimony-case-for-interactionist-dualism|parsimony argument]] should be read in this light. When the Map argues that an interactionist dualism is parsimonious, it means "parsimonious given what we are committed to" — not "absolutely minimal across both axes." The "Occam's Razor Has Limits" tenet authorises selective inflation where the explanatory gain warrants it. Q4 inhabitants (Descartes, Stapp, Goff) are not automatic losers on parsimony grounds. They lose only when a specific explanatory task fails to justify the extra weight.
+The Map's [[parsimony-case-for-interactionist-dualism|parsimony argument]] should be read in this light: "parsimonious given what we are committed to," not "absolutely minimal across both axes." The "Occam's Razor Has Limits" tenet authorises selective inflation where the explanatory gain warrants it. Q4 inhabitants (Descartes, Stapp, Goff) are not automatic losers on parsimony grounds; they lose only when a specific explanatory task fails to justify the extra weight.
 
 ## Where the Taxonomy Points Next
 
 Three open questions deserve further work.
 
-**Q1 articulability**: can a non-stipulative authority-selecting law be articulated at the psychophysical level that keeps both axes at their minimum, or does any workable specification inflate one side? The question is about the availability of an argument, not dynamical-system forces on a position — the "stability" framing imports connotations that can mislead. Saad's delegatory dualism, built on the [[trumping-preemption]] template, is the current best candidate; whether a non-stipulative authority law can be given for it is the sharpest test of whether Q1 is a genuine quadrant or a degenerate limit between Q2 and Q4. The [[trumping-preemption#costs-of-the-template|prior review of the template]] identifies the underlying difficulty as the fiction-to-nature gap inherited from Schaffer's stipulative cases (Merlin's spell, military rank). That burden is what may push Q1 inhabitants back toward Q2 (if the law requires thick physics) or toward Q4 (if it requires thick mind).
+**Q1 articulability**: can a non-stipulative authority-selecting law be articulated at the psychophysical level that keeps both axes at their minimum, or does any workable specification inflate one side? Saad's delegatory dualism, built on the [[trumping-preemption]] template, is the current best candidate; whether a non-stipulative authority law can be given for it is the sharpest test of whether Q1 is a genuine quadrant or a degenerate limit between Q2 and Q4. The [[trumping-preemption#costs-of-the-template|prior review of the template]] identifies the underlying difficulty as the fiction-to-nature gap inherited from Schaffer's stipulative cases (Merlin's spell, military rank). That burden may push Q1 inhabitants back toward Q2 (if the law requires thick physics) or toward Q4 (if it requires thick mind).
 
-**Thick-mind empirical anchors**: the Myers–James subliminal-self tradition offers a non-trivial programme for what a thick mind commits to — unperceived content, layered causal roles, an ego that is a narrow selection from a larger individuality. Dissociation, hypnogogia, and dream mentation are candidate empirical anchors. Whether any of these phenomena warrant inflating the mind-side beyond introspective minimum is a question the Map has not yet settled.
+**Thick-mind empirical anchors**: the Myers–James subliminal-self tradition offers a non-trivial programme for what a thick mind commits to — unperceived content, layered causal roles, an ego that is a narrow selection from a larger individuality. Dissociation, hypnogogia, and dream mentation are candidate empirical anchors; whether any warrant inflating the mind-side beyond introspective minimum is a question the Map has not yet settled.
 
-**Thick physics compatibility with MQI**: Russellian intrinsic natures, Stoljar's ignorance-facts, and Bohmian hidden variables each offer different ways of making the physical side "thick." Which of these (if any) is compatible with Minimal Quantum Interaction is a constraint worth working out case by case, rather than assuming all max-physical moves are equivalent.
+**Thick physics compatibility with MQI**: Russellian intrinsic natures, Stoljar's ignorance-facts, and Bohmian hidden variables each offer different ways of making the physical side "thick." Which (if any) is compatible with Minimal Quantum Interaction is a constraint to work out case by case, rather than assuming all max-physical moves are equivalent.
 
 ## Further Reading
 
-- [[mechanism-costs-dualism-thickness-quadrants]]
+- [[mechanism-costs-dualism-thickness-quadrants]] — the inaugural deployment of [[mechanism-costs-cartography]] on this taxonomy: walks the four quadrants through a fixed three-question battery (causation, interface, conservation) and reads off cell-relative mechanism debts the present article locates but does not expose
+- [[mechanism-costs-cartography]] — the cartographic methodology the inaugural deployment instantiates: this article supplies the cells; the cartography exposes cell-relative debts under a fixed battery without arguing any cell is right
 - [[dualism]]
 - [[interactionist-dualism]]
 - [[substance-property-dualism]]

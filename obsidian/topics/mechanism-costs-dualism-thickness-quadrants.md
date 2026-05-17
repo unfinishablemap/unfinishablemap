@@ -22,6 +22,7 @@ concepts:
   - conservation-laws-and-mental-causation
 related_articles:
   - "[[four-quadrant-dualism-taxonomy]]"
+  - "[[mechanism-costs-cartography]]"
   - "[[dualism]]"
   - "[[interactionist-dualism]]"
   - "[[substance-property-dualism]]"
@@ -47,7 +48,7 @@ last_curated:
 
 Naming the [[four-quadrant-dualism-taxonomy|mind-side × physical-side thickness axes]] sorts dualist positions by *how much* ontology each side carries. It does not yet say what each cell of the resulting grid *commits its inhabitants to* mechanistically. Two positions that share a kind-of-relation classification (both Type-D, say) can sit in different thickness cells and owe entirely different debts: a different account of mental causation, a different specification of the mind–physical interface, a different engagement with conservation laws. This article walks the four quadrants — min-mind / min-physical (Q1), min-mind / max-physical (Q2), max-mind / min-physical (Q3), max-mind / max-physical (Q4) — and reads off, for each, what the inhabitant owes on three mechanism questions. The exercise is cartographic rather than adjudicative: the goal is to make visible what occupying a cell costs, not to argue that any one cell is right.
 
-The taxonomy and quadrant population are stated in the [[four-quadrant-dualism-taxonomy|companion taxonomy article]]. Readers who want the axes defined, the named-position inventory, or the orthogonality argument against Chalmers' Type-D/E/F classification should read that piece first. This article assumes the grid and asks: what mechanism account does each cell require?
+The taxonomy and quadrant population are stated in the [[four-quadrant-dualism-taxonomy|companion taxonomy article]]. Readers who want the axes defined, the named-position inventory, or the orthogonality argument against Chalmers' Type-D/E/F classification should read that piece first. This article assumes the grid and asks: what mechanism account does each cell require? It is the inaugural deployment of the [[mechanism-costs-cartography|mechanism-costs cartography]] discipline — the cartographic-layer methodology that exposes each cell of a prior locating taxonomy to a fixed battery of mechanism questions and reads off cell-relative debts without converting cell-by-cell lightness on the chosen battery into endorsement of the lighter cell.
 
 ## The Three Mechanism Questions {#three-questions}
 
@@ -145,7 +146,8 @@ Nothing in this article argues that any cell is *wrong*. The cells differ in wha
 
 ## Further Reading
 
-- [[four-quadrant-dualism-taxonomy]]
+- [[four-quadrant-dualism-taxonomy]] — the parent locating taxonomy whose cells this article exposes to the fixed three-question mechanism-cost battery
+- [[mechanism-costs-cartography]] — the methodology this article inaugurates, naming the discipline (fixed-question-across-cells, asymmetry-concession, non-adjudicative posture) and specifying the editorial rules future deployments must satisfy
 - [[dualism]]
 - [[interactionist-dualism]]
 - [[delegatory-dualism]]

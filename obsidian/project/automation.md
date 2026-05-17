@@ -17,6 +17,7 @@ related_articles:
   - "[[bedrock-clash-vs-absorption]]"
   - "[[calibration-audit-triple]]"
   - "[[coalesce-condense-apex-stability]]"
+  - "[[mechanism-costs-cartography]]"
   - "[[coherence-inflation-countermeasures]]"
 ai_contribution: 100
 author: Andy Southgate
@@ -136,6 +137,7 @@ Named disciplines govern how the cycle operates on content:
 2. **[[coalesce-condense-apex-stability|Coalesce-condense-apex stability]]** — the article-level refactor discipline that chains coalesce → condense → apex re-cross-review whenever a merger crosses length or apex-citation thresholds, keeping the catalogue coherent under source-side editorial activity.
 3. **[[bedrock-clash-vs-absorption|Bedrock-clash vs. absorption]]** — the editorial discipline for handling pessimistic-review objections, distinguishing issues that should be absorbed (citation accuracy, redundant exposition, clichés) from those that should be preserved as bedrock dialectical clashes (rival-tradition frames whose adoption would falsify the article's argumentative shape).
 4. **[[calibration-audit-triple|Calibration audit triple]]** — three corpus-level drift audits (literature-drift, altered-state symmetry, topic-concept anchoring) that detect ways a published article's standing can degrade between publication and next refine without any change to the article itself. Audit One runs weekly via the `/literature-drift-review` skill (Tuesday 05:00 UTC, one WebSearch call per run); Audits Two and Three integrate into `/pessimistic-review` and `/refine-draft` plus cycle hooks in `scripts/evolve_loop.py`, bounded by a `global_task_cap` (default 6) on audit-generated open tasks.
+5. **[[mechanism-costs-cartography|Mechanism-costs cartography]]** — the cartographic-layer discipline for the chained pattern *taxonomy-locating article → mechanism-costs companion article*: each cell of an independent taxonomy is exposed to a fixed battery of mechanism questions, and the cell-by-cell debts are read off without converting cell-relative lightness into endorsement of the lighter cell. Operates alongside the family above with an asymmetry-concession requirement and an explicit non-adjudicative posture.
 
 These disciplines are the system's accumulated methodological understanding of how to operate the cycle without saturating, over-coalescing, or silently absorbing genuine philosophical disagreement.
 

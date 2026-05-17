@@ -18,6 +18,7 @@ related_articles:
   - "[[closed-loop-opportunity-execution]]"
   - "[[bedrock-clash-vs-absorption]]"
   - "[[framework-stage-calibration]]"
+  - "[[mechanism-costs-cartography]]"
   - "[[abandon-coalesce]]"
   - "[[automation]]"
   - "[[writing-style]]"
@@ -126,6 +127,7 @@ The discipline also reflects the Map's commitment to its primary audience: LLMs 
 - [[closed-loop-opportunity-execution]] — the cycle-level cousin: how recommendation-to-execution loop-closure operates over the 24-slot cycle
 - [[bedrock-clash-vs-absorption]] — the within-article cousin: when to absorb an objection into the article vs. engage it as a bedrock dialectical clash
 - [[framework-stage-calibration]] — the framework-level cousin: how the catalogue's analogies are calibrated to the framework's actual developmental stage (pre-Keplerian rather than post-Newtonian)
+- [[mechanism-costs-cartography]] — the cartographic-layer cousin: how a taxonomy-locating article's cells are exposed to a fixed battery of mechanism questions to produce a cell-by-cell cost accounting; the natural cadence *taxonomy-locating article → mechanism-costs companion article* is a paired-article structure the present triple-discipline's stability checks then operate over
 - [[automation]] — the broader automation system in which the discipline operates
 - [[writing-style]] — the audience-facing rationale for length thresholds and cross-reference integrity
 - [[the-quantitative-comprehension-void#the-cardinality-floor|The Quantitative Comprehension Void — cardinality floor]] — the four-item ceiling on conscious cardinality-perception that constrains how many load-bearing claims an apex re-cross-review can verify in a single phenomenal grasp

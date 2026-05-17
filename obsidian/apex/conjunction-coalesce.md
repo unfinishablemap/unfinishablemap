@@ -25,6 +25,7 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[coalesce-condense-apex-stability]]"
   - "[[abandon-coalesce]]"
+  - "[[mechanism-costs-cartography]]"
   - "[[tenets]]"
   - "[[suspension-void]]"
   - "[[imagery-void]]"
@@ -196,6 +197,7 @@ This synthesis draws on:
 - [[temporal-void|The Temporal Void]] — Cluster candidate: confinement, duration paradox, memory-anticipation asymmetry
 - [[taxonomy-of-voids|A Taxonomy of Voids]] — The broader methodological context for treating void structure as data
 - [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — The negation-based investigative tradition the discipline participates in
+- [[mechanism-costs-cartography|Mechanism-Costs Cartography]] — Adjacent cartographic-layer discipline that operates over taxonomy cells rather than voids: where conjunction-coalesce preserves a seam *within* a void because the seam is the claim, mechanism-costs cartography preserves cell-by-cell debt asymmetries *across* a taxonomy because the asymmetry is the cartographic output. Both refuse a smoothing move that would discard load-bearing structure
 
 ## References
 
