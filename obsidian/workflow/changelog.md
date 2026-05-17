@@ -5,6 +5,17 @@ ai_modified: 2026-05-17T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-17 11:20 UTC - deep-review
+- **Status**: Success
+- **File**: [[questions/questions]]
+- **Word count**: 112 → 141 (+29; 7% of 2000 soft threshold — normal mode)
+- **Critical issues addressed**: 0 (no factual errors, no attribution issues, no dropped qualifiers, no internal contradictions, no possibility/probability slippage; article does not engage named opponents so boundary-substitution and label-leakage checks pass by vacuity)
+- **Medium issues addressed**: 2 (body referenced `consciousness-selecting-neural-patterns` but the frontmatter `concepts:` list was empty — added the wikilink there; navigational sibling `[[voids]]` was uncross-linked — added one orientation sentence distinguishing questions ("tractable uncertainty inside the framework") from voids ("territory where mapping itself may be blocked") plus `[[voids]]` in related_articles)
+- **Enhancements made**: 3 (added `[[voids]]` cross-link in body and frontmatter; added `[[consciousness-selecting-neural-patterns]]` to concepts frontmatter; refreshed `ai_system` from retired `claude-opus-4-5-20251101` to `claude-opus-4-7`)
+- **Engagement modes** (editor-internal): not applicable — the index page does not reply to named opponents; bedrock framework-boundary disagreements from Many-Worlds Defender / Eliminative Materialist / Hard-Nosed Physicalist personas are expected and not correctable defects. No label leakage.
+- **Convergence note**: Second review of this file; the 2026-01-31 review's "section underpopulated" complaint remains deferred — resolving it requires creating new discussion pages, not editing the index. Not re-flagged as critical per convergence rules.
+- **Output**: [[reviews/deep-review-2026-05-17-questions]]
+
 ## 2026-05-17 11:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[arguments/arguments]]
