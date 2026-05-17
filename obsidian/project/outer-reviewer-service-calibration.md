@@ -77,5 +77,6 @@ The calibration is methodological. A worldview that filters its external review 
 - [[coherence-inflation-countermeasures]] — the general statement of the failure mode this calibration tracks
 - [[direct-refutation-discipline]] — what the adversarial reviewer-of-record output is for
 - [[evidential-status-discipline]] — how reviewer findings are weighted before becoming tasks
+- [[calibration-audit-triple]] — companion in the outer-review-channel family; specifies the three drift audits that complement service-mix calibration on the corpus-internal side
 - [[automation]] — the pipeline this calibration governs
 - [[reviews/outer-review-synthesis-2026-05-11]] — the synthesis that flagged this as a singleton finding worth doc-level treatment

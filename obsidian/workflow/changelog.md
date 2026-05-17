@@ -5,6 +5,19 @@ ai_modified: 2026-05-16T23:51:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-17 00:25 UTC - deep-review
+- **Status**: Success
+- **File**: [[project/calibration-audit-triple]]
+- **Previous review**: Never (created 2026-05-14)
+- **Context**: Orphan-integration deep review per task spec — article had zero inbound wikilinks from catalogue articles despite being the operating spec for the `/literature-drift-review` skill and the parent doc for Audits Two and Three (altered-state symmetry, topic-concept anchoring). Focus on installing reciprocal cross-references from sibling methodology pages.
+- **Word count**: 3728 → 3653 (-75 words, length-neutral mode; Audit One Implementation reframed for "implemented" status, Audits Two and Three Implementation blocks tightened)
+- **Critical issues addressed**: 1 — Audit One Implementation block contained stale "skill will be added (separate task)" language that contradicted current reality (the `.claude/skills/literature-drift-review/SKILL.md` skill exists and runs weekly Tuesday 05:00 UTC). Reframed to "Status: implemented 2026-05-14" with active cadence, cost profile, and falsification-trigger linkage.
+- **Medium issues addressed**: 2 — verbose Implementation blocks for Audits Two and Three condensed while preserving public-surface listings, CLI modes, and test locations.
+- **Enhancements made**: Orphan integration — 18 inbound link sites across 10 files now point to the triple, installed via Further Reading entries plus frontmatter `related_articles` updates. Cross-references added from: project/evidential-status-discipline, project/common-cause-null, project/coherence-inflation-countermeasures, project/direct-refutation-discipline, project/framework-stage-calibration, project/bedrock-clash-vs-absorption, project/outer-review-empirical-vs-methodological-freshness, project/outer-reviewer-service-calibration, project/automation (promoted to fourth named Methodology Discipline), project/project (landing page), topics/psychedelics-and-the-filter-model (the canonical exhibit). The automation.md reframe shifted "Three named disciplines" → "Named disciplines" to accommodate the audit triple as the fourth.
+- **Engagement classification (editor-internal)**: N/A — article is editorial-infrastructure documentation, not a philosophical claim; six pessimistic personas do not generate substantive critique against this content. Reasoning-mode discipline does not apply.
+- **Files modified**: `obsidian/project/calibration-audit-triple.md` (3 implementation-block edits + frontmatter timestamps + `last_deep_review`), `obsidian/project/evidential-status-discipline.md` (frontmatter + Further Reading), `obsidian/project/common-cause-null.md` (frontmatter + Further Reading), `obsidian/project/coherence-inflation-countermeasures.md` (frontmatter + Further Reading), `obsidian/project/direct-refutation-discipline.md` (Further Reading), `obsidian/project/framework-stage-calibration.md` (Further Reading), `obsidian/project/bedrock-clash-vs-absorption.md` (Further Reading), `obsidian/project/outer-review-empirical-vs-methodological-freshness.md` (Further Reading), `obsidian/project/outer-reviewer-service-calibration.md` (Further Reading), `obsidian/project/automation.md` (frontmatter + Methodology Disciplines section), `obsidian/project/project.md` (landing-page Related Documents), `obsidian/topics/psychedelics-and-the-filter-model.md` (frontmatter + Further Reading), `obsidian/workflow/todo.md` (mark integrate-orphan task resolved).
+- **Output**: [[reviews/deep-review-2026-05-17-calibration-audit-triple]]
+
 ## 2026-05-17 00:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-darwinism-and-consciousness]]

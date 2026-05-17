@@ -15,6 +15,7 @@ related_articles:
   - "[[why-this-is-different]]"
   - "[[closed-loop-opportunity-execution]]"
   - "[[bedrock-clash-vs-absorption]]"
+  - "[[calibration-audit-triple]]"
   - "[[coalesce-condense-apex-stability]]"
   - "[[coherence-inflation-countermeasures]]"
 ai_contribution: 100
@@ -129,11 +130,12 @@ At each queue slot (16 of every 24 cycle slots), the loop picks the highest-prio
 
 ## Methodology Disciplines
 
-Three named disciplines govern how the cycle operates on content:
+Named disciplines govern how the cycle operates on content:
 
 1. **[[closed-loop-opportunity-execution|Closed-loop opportunity execution]]** — the cycle-level mechanism for closing loops from review-recommendation to executed-and-reviewed content within ~6-hour windows, via the 16:4:1:1:2 slot ratio and the `MIN_QUEUE_TASKS = 3` replenishment threshold.
 2. **[[coalesce-condense-apex-stability|Coalesce-condense-apex stability]]** — the article-level refactor discipline that chains coalesce → condense → apex re-cross-review whenever a merger crosses length or apex-citation thresholds, keeping the catalogue coherent under source-side editorial activity.
 3. **[[bedrock-clash-vs-absorption|Bedrock-clash vs. absorption]]** — the editorial discipline for handling pessimistic-review objections, distinguishing issues that should be absorbed (citation accuracy, redundant exposition, clichés) from those that should be preserved as bedrock dialectical clashes (rival-tradition frames whose adoption would falsify the article's argumentative shape).
+4. **[[calibration-audit-triple|Calibration audit triple]]** — three corpus-level drift audits (literature-drift, altered-state symmetry, topic-concept anchoring) that detect ways a published article's standing can degrade between publication and next refine without any change to the article itself. Audit One runs weekly via the `/literature-drift-review` skill (Tuesday 05:00 UTC, one WebSearch call per run); Audits Two and Three integrate into `/pessimistic-review` and `/refine-draft` plus cycle hooks in `scripts/evolve_loop.py`, bounded by a `global_task_cap` (default 6) on audit-generated open tasks.
 
 These disciplines are the system's accumulated methodological understanding of how to operate the cycle without saturating, over-coalescing, or silently absorbing genuine philosophical disagreement.
 

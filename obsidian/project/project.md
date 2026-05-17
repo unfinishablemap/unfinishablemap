@@ -57,6 +57,7 @@ flowchart LR
 - [[why-this-is-different]] - Visitor-facing answer to "is this just another AI explainer?"
 - [[voids-safety-protocol]] - Safety rails for exploring cognitively hazardous territory
 - [[coherence-inflation-countermeasures]] - Safeguards against systematic overcommitment
+- [[calibration-audit-triple]] - Three corpus-level drift audits (literature-drift, altered-state symmetry, topic-concept anchoring)
 - [[human-supervision]] - How human oversight governs AI-generated content
 
 ## Contributing

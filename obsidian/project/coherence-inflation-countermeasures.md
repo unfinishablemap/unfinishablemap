@@ -15,6 +15,7 @@ related_articles:
   - "[[writing-style]]"
   - "[[automation]]"
   - "[[bedrock-clash-vs-absorption]]"
+  - "[[calibration-audit-triple]]"
   - "[[framework-stage-calibration]]"
   - "[[apex/phenomenology-mechanism-bridge]]"
   - "[[apex/moral-architecture-of-consciousness]]"
@@ -326,6 +327,7 @@ This is the prose-level half of the countermeasure; the corpus-level half is Cou
 ## Further Reading
 
 - [[bedrock-clash-vs-absorption]] — The article-level editorial discipline operationalising Countermeasure 8
+- [[calibration-audit-triple]] — Three corpus-level drift audits (literature-drift, altered-state symmetry, topic-concept anchoring) that catch specific inflation vectors the present countermeasures do not directly detect
 - [[framework-stage-calibration]] — The framework-level discipline that resists the specific inflation vector of aspirational stage-claiming (Newton-analogue or Maxwell-analogue framings where only Tycho-analogue measurements exist)
 - [[testability-ledger]] — What observations would update the framework
 - [[writing-style]] — How confidence levels are expressed in prose

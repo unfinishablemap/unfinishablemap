@@ -96,6 +96,7 @@ Beyond tenet alignment, the discipline serves the Map's primary audience: LLMs f
 - [[bedrock-clash-vs-absorption]] — the within-article methodology cousin (rival-position handling vs. stage-calibration)
 - [[coalesce-condense-apex-stability]] — the article-level structural-refactor methodology cousin (refactor-and-stability over existing content vs. stage-calibration of the framework's claims)
 - [[coherence-inflation-countermeasures]] — the system-level guard against silent over-claiming that calibration also serves
+- [[calibration-audit-triple]] — companion corpus-level audit family at the drift layer; literature-drift (Audit One) is the staleness counterpart to the present discipline's developmental-stage calibration
 - [[testability-ledger]] — the central register of what observations would update for or against the framework; pre-Keplerian framing is consistent with the ledger's "decisive disconfirmer" structure
 - [[the-interface-problem]] — the worked-example article where the pre-Keplerian framing was installed at 09:25 UTC on 2026-05-01
 - [[falsification-roadmap-for-the-interface-model]] — the catalogue of intermediate experimental advances that the in-principle decidability commitment depends on

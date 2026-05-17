@@ -24,6 +24,7 @@ related_articles:
   - "[[altered-states-consciousness-2026-01-19]]"
   - "[[voids-altered-states-as-void-probes-2026-02-03]]"
   - "[[meta-epistemology-of-limits]]"
+  - "[[project/calibration-audit-triple]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -157,6 +158,7 @@ These results are contested rather than settled, and the standard [[decoherence]
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis placing psychedelic evidence within the convergence matrix
 - [[ineffable-encounter-void]] — Why numinous experiences resist epistemic evaluation from within
 - [[meta-epistemology-of-limits]] — Distinguishing persistent from dissolved limits
+- [[project/calibration-audit-triple|Calibration Audit Triple]] — The methodological discipline this article served as canonical exhibit for: literature-drift, altered-state symmetry, and topic-concept anchoring were proposed together based on the 2026-05-14 outer review of an earlier version of this page
 
 ## References
 

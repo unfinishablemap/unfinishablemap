@@ -13,6 +13,7 @@ related_articles:
   - "[[automation]]"
   - "[[bedrock-clash-vs-absorption]]"
   - "[[coherence-inflation-countermeasures]]"
+  - "[[calibration-audit-triple]]"
   - "[[evidential-status-discipline]]"
   - "[[framework-stage-calibration]]"
   - "[[direct-refutation-discipline]]"
@@ -117,6 +118,7 @@ The discipline complements [[direct-refutation-discipline|direct-refutation disc
 - [[framework-stage-calibration]] — sister discipline at the framework level
 - [[closed-loop-opportunity-execution]] — sister discipline at the cycle level
 - [[coherence-inflation-countermeasures]] — the system-level guards the present discipline complements; cumulative-convergence is the inflation vector the existing countermeasures do not catch
+- [[calibration-audit-triple]] — companion corpus-level audit family; altered-state symmetry (Audit Two) is the convergence-counting enforcement of the same inferential discipline the common-cause null requires
 - [[testability-ledger]] — what the framework treats as decisive disconfirmation
 - [[apex/phenomenal-output-causal-machinery-dissociation]] — the canonical worked instance: the apex's line 144 is the catalogue's first article-level engagement with the common-cause hypothesis
 - [[the-convergence-argument-for-dualism]] — the convergence claim with the most demanding common-cause objection in the catalogue

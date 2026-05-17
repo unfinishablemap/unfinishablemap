@@ -2,9 +2,10 @@
 title: "Calibration Audit Triple: Literature Drift, Altered-State Symmetry, Topic-Concept Anchoring"
 description: "Three new audits detect drift the existing methodology does not catch: stale citations, asymmetric handling of altered states, and topic articles more confident than their anchor concept pages."
 created: 2026-05-14
-modified: 2026-05-14
+modified: 2026-05-17
 human_modified: null
-ai_modified: 2026-05-14T21:10:00+00:00
+ai_modified: 2026-05-17T00:00:00+00:00
+last_deep_review: 2026-05-17T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -70,9 +71,7 @@ The literature-drift audit runs on a *long* cadence — default weekly, with one
 
 ### Implementation
 
-A new skill `.claude/skills/literature-drift-review/SKILL.md` will be added (separate task; tracked as a P1 follow-up to this document). The skill drives one literature-drift audit per invocation. Until the skill exists, the audit can be run manually by invoking the audit logic against a target article and recording the output as a `refine-draft` task in the queue.
-
-The skill output is recorded in `obsidian/workflow/changelog.md` as `literature-drift-review` entries with the target article, the median-year-of-cited-papers result, and the missing-citation list. This produces a longitudinal record from which the audit's own calibration can be checked: if no articles are ever flagged, the threshold is too loose; if every article is flagged, the threshold is too tight.
+**Status: implemented 2026-05-14.** The skill lives at `.claude/skills/literature-drift-review/SKILL.md`. It drives one literature-drift audit per invocation, fires weekly on Tuesday 05:00 UTC outside the Chrome automation window, and consumes one WebSearch call per run. Output is recorded in `obsidian/workflow/changelog.md` as `literature-drift-review` entries with the target article, the median-year-of-cited-papers result, and the missing-citation list. This produces a longitudinal record from which the audit's own calibration can be checked: if no articles are ever flagged, the threshold is too loose; if every article is flagged, the threshold is too tight. The `flagged_audits / total_audits` ratio over the most recent 30-audit horizon is the falsification trigger.
 
 ## Audit Two: Altered-State Symmetry Discipline
 
@@ -104,7 +103,7 @@ The audit runs on the same weekly cadence as literature-drift, on a different da
 
 The altered-state symmetry audit does not require a new skill — it is a check within `/pessimistic-review` and `/refine-draft`. The implementation adds a section to the `pessimistic-review` skill's checklist (*altered-state convergence symmetry*) and a corresponding remediation step to `refine-draft` (*if the pessimistic-review flagged altered-state asymmetry, the refine pass must add symmetric accommodation work, naming the disruptive-cluster items the framing also owes*).
 
-**Status: implemented 2026-05-14.** The audit logic lives at `tools/curate/altered_state_symmetry.py` with the public surface `compute_symmetry_profile()`, `evaluate_symmetry()`, `get_symmetry_flags()`, and `format_refine_task()`. The CLI wrapper at `scripts/altered_state_symmetry_audit.py` supports dry-run by default and `--apply` to prepend `refine-draft` tasks to `obsidian/workflow/todo.md`. Tests live at `tests/test_altered_state_symmetry.py` and include a corpus smoke test plus a guard against regression on the canonical exhibit (`topics/psychedelics-and-the-filter-model.md` must clear the audit). The `/pessimistic-review` skill at `.claude/skills/pessimistic-review/SKILL.md` carries the *Altered-State Symmetry* checklist; `/refine-draft` at `.claude/skills/refine-draft/SKILL.md` carries the *Altered-State Symmetry Remediation* section (§3.7). The pessimistic-review check is the upstream that should catch the failure mode at review time; the refine-draft remediation is the downstream that installs the fix, with verification that the audit subsequently clears the article.
+**Status: implemented 2026-05-14.** Audit logic at `tools/curate/altered_state_symmetry.py` (public surface: `compute_symmetry_profile()`, `evaluate_symmetry()`, `get_symmetry_flags()`, `format_refine_task()`); CLI wrapper at `scripts/altered_state_symmetry_audit.py` (`--apply` prepends `refine-draft` tasks to `todo.md`); tests at `tests/test_altered_state_symmetry.py` including a corpus smoke and a regression guard on the canonical exhibit. The `/pessimistic-review` skill carries the *Altered-State Symmetry* checklist; `/refine-draft` carries §3.7 *Altered-State Symmetry Remediation*. Pessimistic-review catches the failure mode at review time; refine-draft installs the fix, with verification that the audit then clears the article.
 
 ## Audit Three: Topic-Concept Anchoring
 
@@ -134,7 +133,7 @@ The topic-concept anchoring audit runs every cycle on the topic article most-rec
 
 ### Implementation
 
-The audit is a Python utility at `tools/curate/anchoring.py` (shipped 2026-05-14). Public surface: `get_anchoring_flags()`, `evaluate_anchoring()`, `compute_profile()`, `format_refine_task()`. The CLI wrapper at `scripts/anchoring_audit.py` supports dry-run by default and `--apply` to prepend tasks to `obsidian/workflow/todo.md`. The cycle hook is `run_anchoring_audit()` in `scripts/evolve_loop.py`, fired on every cycle completion subject to `audit_triple.topic_concept_anchoring.run_every_n_cycles` and the `audit_triple.global_task_cap` (default 6) which limits total open audit-generated tasks across the literature-drift and topic-concept-anchoring audits combined. Tests live at `tests/test_anchoring.py`. The audit runs against the live obsidian/ tree (not the rendered site), so it is current to the filesystem and not subject to index lag.
+**Status: implemented 2026-05-14.** Python utility at `tools/curate/anchoring.py` (public surface: `get_anchoring_flags()`, `evaluate_anchoring()`, `compute_profile()`, `format_refine_task()`); CLI wrapper at `scripts/anchoring_audit.py` (`--apply` prepends tasks to `todo.md`); tests at `tests/test_anchoring.py`. Cycle hook `run_anchoring_audit()` in `scripts/evolve_loop.py` fires on every cycle completion subject to `audit_triple.topic_concept_anchoring.run_every_n_cycles` and `audit_triple.global_task_cap` (default 6, shared with literature-drift). The audit runs against the live obsidian/ tree, so it is current to the filesystem and not subject to index lag.
 
 ## Why a Triple, Not Three Separate Documents
 
