@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T16:30:00+00:00
+ai_modified: 2026-05-17T05:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 05:30 UTC - condense
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Before**: 4434 words (hard_warning, 148% of soft target)
+- **After**: 3734 words (soft_warning, 124% of soft target)
+- **Reduction**: 16%
+- **Technique**: tightened verbose prose throughout (lede, Cortical Body Maps, Mirror Therapy, Congenital Phantoms, Neuromatrix, Predictive-Processing, Common-Cause-Null Audit, Relation to Site Perspective, four falsifiers); removed redundant hedge phrases ("in some patients in some conditions" duplications, "Honest reformulation:" preambles, double "framework-boundary" restatements); compressed Mirror Therapy three-tier separation by removing redundant qualifiers while preserving the (a)/(b)/(c) distinction; condensed Predictive-Processing by merging "what PP does not specify" into the feature-handling paragraph; compressed Common-Cause-Null Audit final paragraph by merging consequence and pp-absorption into one sentence; trimmed Further Reading descriptions to bare phrases; tightened falsifier #2, #4 prose. References (723 words, 24 citations) preserved unchanged. All load-bearing engagements preserved: Makin programme + Schone 2025, Guémann 2023 + Rajendram 2022 mirror-therapy null, Price 2006 + Root 2022 congenital-phantoms in-framework engagement, neuromatrix Mode-Three framework-boundary, predictive-processing absorption + content-laden-vocabulary observation, common-cause-null audit, all four falsifiers, all three tenet subsections.
 
 ## 2026-05-17 16:30 UTC - condense
 - **Status**: Success
