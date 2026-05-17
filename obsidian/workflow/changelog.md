@@ -5,6 +5,15 @@ ai_modified: 2026-05-17T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-17 12:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[project/writing-style]]
+- **Word count**: 3826 → 3900 (+74; hard_warning at 156% of 2500 project-section target — within project-section norms; the increase comes from a section-keyed length-guidelines table replacing three terse bullet lines, plus a new `description` frontmatter field)
+- **Critical issues addressed**: 4 (self-contradicting "Avoid: 'the Map'" line — restored to original "this site/the site/this project" after tracing git history to a global-rename regression; stale AI pseudonym table missing `claude-opus-4-7 → Oquatre-sept` and `claude-sonnet-4-7 → Sonquatre-sept` — added to match the live expand-topic skill table and active catalogue usage; five sentence-start lowercase "the Map" violations of the guide's own capitalisation rule at lines 135/137/139/295/303 — capitalised; length-guidelines section out of date relative to `tools/curate/length.py` thresholds — replaced with a section-keyed table matching the enforcement tool's soft/hard/critical numbers)
+- **Medium issues addressed**: 2 (missing `description` frontmatter field — added 200-char summary; `the the truth` double-word typo at line 241 — fixed)
+- **Engagement modes** (editor-internal): not applicable — the guide is a methodology document and does not engage named opponents in its own prose; the illusionism "Right" example at line 150 is a style demonstration, not an in-document argument
+- **Output**: [[reviews/deep-review-2026-05-17-writing-style]]
+
 ## 2026-05-17 - deep-review
 - **Status**: Success
 - **File**: [[project/testability-ledger]]
