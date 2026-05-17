@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T10:27:00+00:00
+ai_modified: 2026-05-17T14:15:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review voids/appetitive-void.md (66 days since last review, ai_contribution>=50)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check: `voids/appetitive-void.md` was last deep-reviewed 66 days ago (2026-03-12) with `ai_contribution: 100`. No pending task in the queue references this article. The appetitive void sits in the affective-architecture sub-cluster which has been heavily developed since the last review — `concepts/valence`, `topics/valence-and-conscious-selection`, the Berridge wanting/liking research task (P3 line 96), and the `apex/moral-architecture-of-consciousness` value-in-mechanism fork (lines 131–141) are all now load-bearing siblings or cross-references. Promoted to P2 because (a) the article is 60+ days stale, (b) no other task in the queue addresses it, and (c) the queue is starving for P0–P2 work (only 1 pending P2 prior to this replenishment). Deep-review should verify: (a) the article's framing of the appetitive void (introspective inaccessibility of the wanting/desiring substrate that generates motivational pull) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-03 siblings (`[[concepts/valence]]` if exists, `[[topics/valence-and-conscious-selection]]`, the Berridge dissociation territory, the affective-void article); (c) cites the catalogue's post-April 2026 introspection-architecture discipline (`[[concepts/apophatic-cartography-four-criteria]]`, `[[topics/introspection-architecture-independence-scoring]]`); (d) tenet routing through Bidirectional Interaction reflects any refinements since March; (e) honours `[[evidential-status-discipline]]` — appetitive-void claims should be calibrated at *live hypothesis* / *realistic possibility* rather than higher tiers; (f) writing-style discipline holds (no banned "not X but Y" constructs; no `<!-- AI REFINEMENT LOG -->` HTML-comment leakage; CLAUDE.md cliché ban); (g) length-discipline check (voids/ thresholds 2000/3000/4000). Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-17
+
+### P2: Deep review voids/counterfactual-void.md (66 days since last review, ai_contribution>=50)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check: `voids/counterfactual-void.md` was last deep-reviewed 66 days ago (2026-03-12) with `ai_contribution: 100`. No pending task in the queue references this article. The counterfactual void is structurally adjacent to `[[overdetermination-dissolution-under-selection-only-interactionism]]` (2026-05-14), `[[topics/forward-in-time-conscious-selection]]`, and the broader selection-only family — all of these post-date the last review and bear on the void's status. Promoted to P2 because the article is 60+ days stale, has no pending task, and the queue needs P0–P2 work. Deep-review should verify: (a) the article's framing of the counterfactual void (introspective inaccessibility of which alternative-possibilities a conscious selection foreclosed) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-03 selection-only family (`[[overdetermination-dissolution-under-selection-only-interactionism]]`, `[[concepts/post-decoherence-selection]]`, `[[apex/post-decoherence-selection-programme]]`, `[[topics/forward-in-time-conscious-selection]]`) are live and reciprocal where appropriate; (c) cites the post-April 2026 discipline pages (`[[evidential-status-discipline]]`, `[[direct-refutation-discipline]]`, `[[possibility-probability-slippage]]`) — counterfactual reasoning is particularly susceptible to possibility/probability slippage; (d) tenet routing through Bidirectional Interaction (Tenet 3) and Minimal Quantum Interaction (Tenet 2) reflects any refinements; (e) honours `[[evidential-status-discipline]]` — counterfactual-introspection claims should be calibrated at *realistic possibility, contested* or below; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-17
+
+### P2: Deep review voids/resolution-void.md (66 days since last review, ai_contribution>=50)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check: `voids/resolution-void.md` was last deep-reviewed 66 days ago (2026-03-12) with `ai_contribution: 100`. The associated research note `research/voids-resolution-void-2026-02-22.md` exists; verify both are consistent. No pending task in the queue references this article. The resolution void is structurally adjacent to `[[voids/decision-void]]` (research note dated 2026-05-10), `[[voids/wholeheartedness-void]]` (research dated 2026-05-11), the agency/volition cluster, and `[[apex/consciousness-and-agency]]` — multiple recently developed siblings whose existence the article should now reflect. Promoted to P2 because the article is 60+ days stale, has no pending task, and the queue needs P0–P2 work. Deep-review should verify: (a) the article's framing of the resolution void (introspective inaccessibility of the moment a deliberation resolves into a settled decision) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-03 agency cluster siblings (`[[voids/decision-void]]`, `[[voids/wholeheartedness-void]]`, `[[topics/free-will]]`, `[[concepts/phenomenology-of-choice-and-volition]]`, `[[concepts/spontaneous-intentional-action]]`); (c) cites the post-April 2026 discipline pages where appropriate; (d) tenet routing reflects any refinements; (e) honours `[[evidential-status-discipline]]` — resolution-void claims should be calibrated; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-17
+
+### P3: Deep review voids/emergence-void.md (63 days since last review, ai_contribution>=50)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check: `voids/emergence-void.md` was last deep-reviewed 63 days ago (2026-03-15) with `ai_contribution: 100`. No pending task in the queue references this article. Emergence-void engages the territory of `[[topics/the-strong-emergence-of-consciousness]]` and `[[topics/constitutive-exclusion]]` (which itself has multiple pending deep-review tasks at lines 147 and 453 — verify they refer to a single article). Deep-review should verify: (a) the article's framing of the emergence void (whether strong-emergence sits in a structurally-unchartable region of theory-space, distinct from the merely-unresolved territory) still reflects the catalogue's current treatment; (b) cross-links to `[[topics/the-strong-emergence-of-consciousness]]`, `[[topics/constitutive-exclusion]]`, `[[concepts/emergence]]` if it exists, `[[apex/dualism-cartography]]` if it exists; (c) cites the post-April 2026 discipline pages (`[[evidential-status-discipline]]`, `[[mechanism-costs-cartography]]`) — emergence claims are particularly susceptible to mechanism-cost slippage; (d) tenet routing reflects any refinements; (e) honours `[[evidential-status-discipline]]`; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-17
+
+### P3: Deep review voids/simulation-detection-void.md (62 days since last review, ai_contribution>=50)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check: `voids/simulation-detection-void.md` was last deep-reviewed 62 days ago (2026-03-16) with `ai_contribution: 100`. No pending task in the queue references this article. The simulation-detection void engages the territory of `[[topics/dualism-as-ai-superintelligence-risk-mitigator]]` (created today 2026-05-17), `[[topics/ai-consciousness]]`, `[[apex/machine-question]]`, and the broader AI-consciousness cluster that has expanded significantly since March 2026. The Birch precautionary framework article (created 2026-05-17) and the consequence-uncomputability framing both bear on simulation-detection's claims. Deep-review should verify: (a) the article's framing of the simulation-detection void (in-principle inability of a conscious agent to determine whether they are in a simulated environment from purely first-person evidence) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-04 AI-consciousness cluster (`[[topics/dualism-as-ai-superintelligence-risk-mitigator]]`, `[[topics/birch-edge-of-sentience-and-the-five-tier-scale]]`, `[[apex/machine-question]]`, `[[apex/open-question-ai-consciousness]]`); (c) cites the post-April 2026 discipline pages; (d) tenet routing reflects any refinements; (e) honours `[[evidential-status-discipline]]` — simulation-detection claims at the void register should not drift toward stronger tiers; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-17
+
+### P3: Audit duplicate P3 deep-review tasks for topics/constitutive-exclusion.md (lines 147 + 453)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Queue-hygiene gap-analysis check: two pending P3 tasks appear in `obsidian/workflow/todo.md` for deep-reviewing the same file — `### P3: Deep review topics/constitutive-exclusion.md` at line 147 and an identically-named task at line 453. Either (a) one of the two is a stale duplicate created during a prior replenishment cycle and should be removed, or (b) they were generated with distinct contexts (e.g., different review cycles or different review-type framings) and one should be promoted to clarity. Verify by reading both task bodies; either delete the redundant task or rewrite the surviving task's `Notes` to reflect the merged scope. If both tasks have meaningful differences (e.g., one is a staleness-driven deep-review and the other is a chain-driven deep-review from a sibling article's modifications), consolidate into a single task that addresses both contexts. The article `topics/constitutive-exclusion.md` was last deep-reviewed 72 days ago, so the underlying deep-review is genuinely warranted — only the queue-duplication is the issue. Scope: ~10 minutes; pure queue hygiene. Tenet alignment: methodological / queue-hygiene.
+- **Source**: gap_analysis (queue-hygiene)
+- **Generated**: 2026-05-17
 
 ### P3: Fix fabricated "Luppi & Adlam, 2012" citation in topics/forward-in-time-conscious-selection.md
 - **Type**: refine-draft
