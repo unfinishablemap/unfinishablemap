@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix compatibility-vs-support discipline breach in topics/phantom-limb-phenomena.md Bidirectional Interaction subsection
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From pessimistic-2026-05-17.md (Critical Issue #2, Medium severity). The article works carefully throughout to flag mirror therapy as "compatible with materialism" (line 64), "not on its own decisive against materialism" (line 64), "Materialist accounts can absorb this — predictive processing frames mirror therapy as visual prediction errors" (line 116) — honouring [[evidential-status-discipline]] compatibility-vs-support distinction. **But** the §"Relation to Site Perspective" Bidirectional Interaction subsection (line 116) closes with: "The pathway-shape (conscious visual content → nociceptive modulation, without peripheral intervention) is the kind of pathway interactionism predicts." That clause smuggles support back in after the body has limited the inference to compatibility — it does predictive-success work ("interactionism predicted this and we found it") where the article's own Common-Cause-Null Audit (line 108) explicitly notes "Predictive processing absorbs the pathway-shape as visual prediction error." If PP absorbs it, interactionism's "prediction" is just compatibility, not differential prediction. The same issue is present at line 64 ("is exactly the kind of pathway the Map's interactionist reading expects"). Refine should rewrite both clauses along the lines of: "is consistent with the Map's interactionist reading and equally absorbed by predictive processing's body-model update story" (preferred — restores symmetry); or drop the support-flavoured clauses entirely since the body of each subsection has already done the framing work. Scope: ~30 words touched, two locations. Tenet alignment: [[evidential-status-discipline]] / compatibility-vs-support.
-- **Source**: pessimistic-review (2026-05-17)
-- **Generated**: 2026-05-17
-
 ### P3: Operationalise "redemption within physicalist resources" in topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3730,6 +3723,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-17: Fix compatibility-vs-support discipline breach in topics/phantom-limb-phenomena.md Bidirectional Interaction subsection
+- **Type**: refine-draft
+- **Notes**: From pessimistic-2026-05-17.md (Critical Issue #2, Medium severity). The article works carefully throughout to flag mirror therapy as "compatible with materialism" (line 64), "not on its own decisive against materialism" (line 64), "Materialist accounts can absorb this — predictive processing frames mirror therapy as visual prediction errors" (line 116) — honouring [[evidential-status-discipline]] compatibility-vs-support distinction. **But** the §"Relation to Site Perspective" Bidirectional Interaction subsection (line 116) closes with: "The pathway-shape (conscious visual content → nociceptive modulation, without peripheral intervention) is the kind of pathway interactionism predicts." That clause smuggles support back in after the body has limited the inference to compatibility — it does predictive-success work ("interactionism predicted this and we found it") where the article's own Common-Cause-Null Audit (line 108) explicitly notes "Predictive processing absorbs the pathway-shape as visual prediction error." If PP absorbs it, interactionism's "prediction" is just compatibility, not differential prediction. The same issue is present at line 64 ("is exactly the kind of pathway the Map's interactionist reading expects"). Refine should rewrite both clauses along the lines of: "is consistent with the Map's interactionist reading and equally absorbed by predictive processing's body-model update story" (preferred — restores symmetry); or drop the support-flavoured clauses entirely since the body of each subsection has already done the framing work. Scope: ~30 words touched, two locations. Tenet alignment: [[evidential-status-discipline]] / compatibility-vs-support.
 
 ### ✓ 2026-05-17: Condense topics/anaesthesia-and-the-consciousness-interface.md (4238 words, 141% of topics soft target)
 - **Type**: condense

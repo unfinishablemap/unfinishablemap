@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T02:35:33+00:00
+ai_modified: 2026-05-17T04:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 04:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Original score**: pessimistic-2026-05-17.md Critical Issue #2 (Medium severity) — compatibility-vs-support discipline breach at two locations (line 64 closing clause of §"Mirror Therapy and Top-Down Modulation"; line 116 closing clause of §"Relation to Site Perspective" Bidirectional Interaction subsection). Both clauses smuggled differential-prediction work back in after the body had limited inference to compatibility; the Common-Cause-Null Audit (line 108) explicitly notes "Predictive processing absorbs the pathway-shape as visual prediction error", so any "interactionism predicts/anticipates" framing in either subsection contradicts the audit's calibration.
+- **Changes**: (a) line 64 — replaced "is consistent with the kind of pathway the Map's interactionist reading anticipates, while equally absorbable by the predictive-processing account engaged below" with "equally compatible with the Map's interactionist reading; the predictive-processing account engaged below absorbs the same pathway shape as visual prediction errors revising a generative body-model, so the shape's availability to either framework is compatibility on both sides rather than differential support for one"; (b) line 116 — replaced "is the kind of pathway interactionism predicts" with "is consistent with the Map's interactionist reading and equally absorbed by predictive processing's body-model update story — compatibility on both sides rather than differential prediction success". Removes the smuggling verbs ("predicts", "anticipates"); installs explicit symmetric-compatibility framing at both locations; names the asymmetric inference the article is declining to draw so the discipline is exhibited rather than only obeyed.
+- **Engagement classifications (editor-internal)**: Compatibility-vs-support discipline remediation, not engagement with a named opponent. Honours [[evidential-status-discipline]]'s compatibility-vs-support distinction by bringing both closing clauses into line with the article's own Common-Cause-Null Audit. No label leakage detected.
+- **Scope**: ~50 words touched across 2 locations; no new citations; conclusion preserved.
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
 
 ## 2026-05-17 02:35 UTC - deep-review
 - **Status**: Success
