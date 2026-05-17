@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own s
 created: 2026-02-25
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-05-16T18:00:00+00:00
+ai_modified: 2026-05-17T12:20:24+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
-last_deep_review: 2026-03-11T20:31:00+00:00
+last_deep_review: 2026-05-17T12:20:24+00:00
 ---
 
 Consciousness constructs a running story of who you are—a coherent narrative from fragmentary, discontinuous experience. But the construction process is invisible to the one living inside the result. The Unfinishable Map calls this the narrative void: the gap between raw experience and the story consciousness tells about itself. What gets edited out, smoothed over, or fabricated to maintain coherence cannot be observed from within the narrative. Worse, the fabrication presents itself with the same phenomenological confidence as genuine memory.
@@ -60,7 +60,7 @@ The narrative void spans all three categories in the [[voids]] framework.
 
 **Unexplored.** The specific mechanisms by which consciousness converts fragmentary experience into coherent narrative remain poorly understood. We know confabulation occurs. We do not know the full scope of what gets edited, compressed, or invented in normal cognition. Every moment of conscious experience passes through narrative processing whose operations have barely been mapped.
 
-**Unexplorable.** Ricoeur argued that experience is always already narratively structured—that temporal experience itself emerges through narrative. "From the structure of one thing after another arises the conceptual relation of one thing because of another." If narrative is not a filter applied to raw experience but the very form of experience, then there is no vantage point from which to observe the pre-narrative material. The narration does not distort a signal; it may constitute the signal. This would make the gap between input and output permanently inaccessible.
+**Unexplorable.** Ricoeur argued that experience is always already narratively structured—that temporal experience itself emerges through narrative. In *Time and Narrative*, he reads Aristotle's account of *mythos* as showing how mere succession (one thing after another) acquires the form of consequence (one thing because of another) only when emplotment imposes it. If narrative is not a filter applied to raw experience but the very form of experience, then there is no vantage point from which to observe the pre-narrative material. The narration does not distort a signal; it may constitute the signal. This would make the gap between input and output permanently inaccessible.
 
 **Occluded.** The left-hemisphere interpreter actively conceals the gaps and inconsistencies in its narratives. Confabulation does not announce itself as confabulation. Fabricated explanations arrive with the same phenomenological texture as genuine memories. This is not passive ignorance but active concealment—the narrator covers its own tracks.
 
