@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T02:15:00+00:00
+ai_modified: 2026-05-17T03:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 03:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Original score**: pessimistic-2026-05-17.md Critical Issue #1 (High severity) + Issue #3 driver — convergent outer-reviewer P1 flag from 2026-05-16 (chatgpt-5-5-pro + claude-opus-4-7) on under-citation of Guémann et al. 2023 mirror-therapy null-RCT systematic review; the matching 2026-05-16 todo task was marked completed but the work did not land in the article body (likely trimmed by the 18:51 UTC condense pass, 50.5% total reduction; Mirror Therapy 543 → 267 words).
+- **Changes**: (a) installed Guémann et al. 2023 (*European Journal of Pain* 27(1):3–13, DOI 10.1002/ejp.2049) in Mirror Therapy section second paragraph as the strongest recent placebo-controlled-RCT-only systematic review with a null clinical-efficacy finding; (b) installed Rajendram et al. 2022 (*BMJ Military Health* 168(2):173–177) on equivalence of mirror therapy with virtual reality and graded motor imagery, weakening the specifically-visual-feedback causal-shape claim; (c) restructured Mirror Therapy paragraph 2 to distinguish three tiers — phenomenological modulation (well-attested, Ramachandran 1996), short-term subjective pain reduction (moderate, Chan 2007 + Foell 2014), durable long-term placebo-controlled clinical efficacy (weak, Guémann 2023 finding null); (d) downgraded lede feature (ii) from "phantom pain is reliably modulated by purely visual interventions" → "can be modulated by purely visual interventions in some patients in some conditions"; (e) relocated Mirror Therapy load-bearing claim from clinical-efficacy effect to phenomenological-modulation effect; (f) rewrote falsifier #2 — explicitly acknowledges Guémann 2023 has partially met the falsifier at the clinical-efficacy level, specifies that further null work on the *phenomenological-modulation* effect specifically would shift the balance against top-down causation pillar, notes Rajendram 2022's equivalence finding already weakens the specifically-visual-feedback causal-shape claim; (g) softened "exactly the kind of pathway the Map's interactionist reading expects" → "consistent with the kind of pathway the Map's interactionist reading anticipates, while equally absorbable by the predictive-processing account engaged below" (compatibility-vs-support discipline fix bundled with Mirror Therapy rewrite — separate P2 task remains for the Bidirectional Interaction subsection equivalent at line 116). Spot-check verified other load-bearing qualifications survived the condense pass: peripheral-readout strawman retraction (line 40), Makin-programme cortical-reorganisation revision (lines 50–56), Price 2006 congenital-phantoms engagement (lines 66–74), neuromatrix Mode-Three engagement (lines 82–88), predictive-processing engagement (lines 90–98), common-cause-null audit (lines 100–108), falsifier #3 god-of-the-gaps remediation (line 128), falsifier #4 Price-2006-direct engagement (line 130) all intact.
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
 
 ## 2026-05-17 02:15 UTC - pessimistic-review
 - **Status**: Success
