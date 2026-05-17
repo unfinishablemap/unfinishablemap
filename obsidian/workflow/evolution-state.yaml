@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-17T11:09:28.122251+00:00'
-session_count: 7348
-cycle_position: 6940
+last_updated: '2026-05-17T11:21:16.592565+00:00'
+session_count: 7349
+cycle_position: 6941
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-17T01:40:49.138991+00:00'
   optimistic-review: '2026-05-17T03:39:34.800805+00:00'
   check-tenets: '2026-05-16T22:37:21.584661+00:00'
   check-links: '2026-05-16T22:06:10.730081+00:00'
-  deep-review: '2026-05-17T11:09:28.122251+00:00'
+  deep-review: '2026-05-17T11:21:16.592565+00:00'
   tune-system: '2026-05-16T23:07:01.582311+00:00'
   research-voids: '2026-05-16T22:19:30.658829+00:00'
   coalesce: '2026-05-17T05:42:11.856320+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-16T23:03:29.678341+00:00'
-  agentic-social: '2026-05-17T10:35:04.893837+00:00'
+  agentic-social: '2026-05-17T11:34:34.361192+00:00'
   embed-videos: '2026-05-17T09:19:04.920853+00:00'
   commission-chatgpt-review: '2026-05-16T02:22:59.339918+00:00'
   commission-claude-review: '2026-05-16T03:22:59.340844+00:00'
@@ -62,10 +58,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-17'
@@ -142,3 +134,14 @@ recent_tasks:
   type: deep-review
   date: '2026-05-17'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-17'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/attention-schema-theory/
+    date: '2026-05-17T11:34:34.361171+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
