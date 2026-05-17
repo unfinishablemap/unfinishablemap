@@ -5,6 +5,29 @@ ai_modified: 2026-05-17T12:20:24+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-17 12:51 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/post-decoherence-selection]]
+- **Previous review**: [[reviews/deep-review-2026-03-29-post-decoherence-selection|2026-03-29]] (49 days; intermediate cluster cross-reviews 2026-05-15 touched the article via reciprocal-link installation but did not deep-review it on its own terms)
+- **Word count**: 1816 → 1866 (+50, 75% of 2500 soft threshold; below soft — normal improvements allowed)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Missing cross-link to companion topic article [[forward-in-time-conscious-selection]] — installed in `related_articles` frontmatter + inline in Pre/Post-Decoherence Interaction section + Further Reading with role-explainer phrasing; the three-level apex ↔ concept ↔ topic cluster is now fully bidirectionally linked)
+- **Enhancements made**: 0 (single targeted cluster-integration fix only)
+- **Engagement mode classifications** (editor-internal, not in article body):
+  - Stapp's quantum Zeno: Mode Three (framework-boundary marking)
+  - Penrose-Hameroff Orch OR: Mode Three (framework-boundary marking)
+  - Tegmark's decoherence-timescale objection: Mode One (defective on its own terms when applied to post-decoherence variant — the objection presupposes pre-decoherence coherence is required)
+  - Bohmian determinism (Dürr/Goldstein/Zanghì): Mode Three (framework-boundary marking)
+  - Many Worlds (Everett): Mode Three (framework-boundary marking via No Many Worlds tenet)
+  - Objective collapse (GRW, Penrose-Diósi, CSL): Mode Two (unsupported foundational move — ad hoc parameters chosen to match observation rather than derived from first principles, invoking a standard physicalism itself endorses)
+  - Consistent histories (Griffiths/Gell-Mann/Hartle): Mode Two (unsupported foundational move — set selection problem identified as framework-internal gap)
+- **Label-leakage check**: clean. No editor vocabulary in article prose.
+- **Attribution check**: all source citations verified (Schlosshauer 2004, d'Espagnat 1976, Colanero 2012, von Neumann 1932, Stapp 1993, GRW 1986, Penrose-Diósi, Tegmark 2000, Dürr/Goldstein/Zanghì, Griffiths 1984, Gell-Mann/Hartle, Cramer, Kastner 2012, Torres Alegre 2025). The 2026-03-29 first-pass correction of the fabricated "Luppi & Adlam, 2012" citation remains in force in this article.
+- **Calibration test**: no possibility/probability slippage detected. All evidential-status-tier claims appropriately modal; tenet-coherence claims explicitly distinguished from evidence-elevation claims.
+- **Stability**: second-pass deep review; the article has converged on a stable structure since 2026-03-29. Bedrock disagreements (Many-Worlds, Bohmian determinism, eliminative materialism, hard physicalism) stability-noted; future reviews must not re-flag. The mid-tier-of-three-level-cluster role is the new stability note added this pass.
+- **Follow-up task generated**: P3 refine-draft for fabricated "Luppi & Adlam, 2012" citation in `topics/forward-in-time-conscious-selection.md` (the same fabricated citation that the 2026-03-29 review caught and removed from this article — has propagated to a sibling topic article).
+- **Output**: [[reviews/deep-review-2026-05-17-post-decoherence-selection]]
+
 ## 2026-05-17 12:20 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/narrative-void]]

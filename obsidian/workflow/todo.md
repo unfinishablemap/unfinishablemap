@@ -58,6 +58,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-17
 
+### P3: Fix fabricated "Luppi & Adlam, 2012" citation in topics/forward-in-time-conscious-selection.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Surfaced by deep-review of `concepts/post-decoherence-selection.md` (2026-05-17). The fabricated citation `Luppi & Adlam, 2012` appears on line 71 of `topics/forward-in-time-conscious-selection.md` in the improper/proper mixture discussion. The 2026-03-29 first-pass deep-review of `concepts/post-decoherence-selection.md` caught and removed this same fabricated citation (arXiv:1208.0904 is by Klaus Colanero, titled "Decoherence and definite outcomes"); the canonical philosophy-of-physics reference for the improper/proper mixture distinction is d'Espagnat (1976). Replace the `(Luppi & Adlam, 2012)` parenthetical with `(d'Espagnat, 1976; Colanero, 2012)` matching the canonical citation pattern already used in `concepts/post-decoherence-selection.md`. Add both references to the article's References section if missing. Scope: ~1 inline citation fix + possibly 2 References entries. Tenet alignment: methodological / attribution accuracy — fabricated citations are catalogue-level critical issues per CLAUDE.md attribution-accuracy guidance.
+- **Source**: deep-review (2026-05-17 of concepts/post-decoherence-selection.md)
+- **Generated**: 2026-05-17
+
 ### P3: Deep review project/project.md (never deep-reviewed, ai_contribution=100, age 4 months)
 - **Type**: deep-review
 - **Status**: pending
