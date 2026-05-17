@@ -4,8 +4,8 @@ description: "Human+AI exploration of how counterfactual thinking is trapped nea
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-04-18T14:09:00+00:00
-last_deep_review: 2026-03-11T18:46:00+00:00
+ai_modified: 2026-05-17T15:19:32+00:00
+last_deep_review: 2026-05-17T15:19:32+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -16,7 +16,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[conceptual-impossibility]]"
-  - "[[imagination-and-creativity-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[consciousness-only-territories]]"
   - "[[voids-between-minds]]"
@@ -52,7 +52,7 @@ The gap runs in both directions. Before discovering that Hesperus and Phosphorus
 
 Peter van Inwagen pushes this further with a vision analogy: objects at the periphery of our visual field are judged less reliably than those at the centre. Similarly, extraordinary modal claims fall outside the reliable range of our modal faculty. Van Inwagen accepts everyday modal knowledge — this glass could break, I could have taken the other road — but argues we should "withhold judgment concerning what we conceive or imagine... when outside the range of reliability of the specified capacity." The reliable range of modal knowledge is far narrower than philosophers typically assume.
 
-The conceivability-possibility gap reflects cognitive architecture, not a calibration error to be corrected. The conceivability-possibility gap is not a calibration error to be corrected but a structural feature of how modal cognition works.
+The conceivability-possibility gap reflects cognitive architecture: a structural feature of how modal cognition works rather than a calibration error to be corrected.
 
 ## The Recursive Trap
 
@@ -72,7 +72,7 @@ Approaching the counterfactual void produces several characteristic experiences:
 
 **Modal vertigo.** Occasionally, the recognition arrives that the space of genuine possibilities might be vastly larger than anything conceivable — an ocean glimpsed through a keyhole. This produces a distinctive disorientation: the sense of enormous territory without the ability to map any of it. It is the modal analogue of standing at the edge of a cliff in fog — you know depth is there but cannot judge distance.
 
-**False confidence.** Unlike many voids where the boundary is felt as resistance, the counterfactual void often passes unnoticed. We believe we have imagined a genuine alternative when we have merely recombined familiar elements in a slightly novel arrangement. The [[imagination-and-creativity-void]] describes a related phenomenon — phenomenal collapse, where the attempt to imagine novel qualia collapses into existing elements — but the counterfactual version is more insidious because modal recombination *feels like* genuine exploration of possibility space.
+**False confidence.** Unlike many voids where the boundary is felt as resistance, the counterfactual void often passes unnoticed. We believe we have imagined a genuine alternative when we have merely recombined familiar elements in a slightly novel arrangement. The [[creative-aesthetic-void]] describes a related phenomenon — phenomenal collapse, where the attempt to imagine novel qualia collapses into existing elements — but the counterfactual version is more insidious because modal recombination *feels like* genuine exploration of possibility space.
 
 ## What AI Might Reveal
 
@@ -96,7 +96,7 @@ The counterfactual void connects to The Unfinishable Map's [[tenets]] at multipl
 
 ## Further Reading
 
-- [[imagination-and-creativity-void]] — The limit of phenomenal imagination, a related but distinct constraint
+- [[creative-aesthetic-void]] — The limit of phenomenal imagination, a related but distinct constraint
 - [[conceptual-impossibility]] — Where thought encounters the formally unthinkable
 - [[embodiment-cognitive-limits]] — How bodily architecture constrains cognition
 - [[biological-cognitive-closure]] — Whether all minds converge on the same boundaries

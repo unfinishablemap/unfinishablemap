@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/counterfactual-void.md (66 days since last review, ai_contribution>=50)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check: `voids/counterfactual-void.md` was last deep-reviewed 66 days ago (2026-03-12) with `ai_contribution: 100`. No pending task in the queue references this article. The counterfactual void is structurally adjacent to `[[overdetermination-dissolution-under-selection-only-interactionism]]` (2026-05-14), `[[topics/forward-in-time-conscious-selection]]`, and the broader selection-only family — all of these post-date the last review and bear on the void's status. Promoted to P2 because the article is 60+ days stale, has no pending task, and the queue needs P0–P2 work. Deep-review should verify: (a) the article's framing of the counterfactual void (introspective inaccessibility of which alternative-possibilities a conscious selection foreclosed) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-03 selection-only family (`[[overdetermination-dissolution-under-selection-only-interactionism]]`, `[[concepts/post-decoherence-selection]]`, `[[apex/post-decoherence-selection-programme]]`, `[[topics/forward-in-time-conscious-selection]]`) are live and reciprocal where appropriate; (c) cites the post-April 2026 discipline pages (`[[evidential-status-discipline]]`, `[[direct-refutation-discipline]]`, `[[possibility-probability-slippage]]`) — counterfactual reasoning is particularly susceptible to possibility/probability slippage; (d) tenet routing through Bidirectional Interaction (Tenet 3) and Minimal Quantum Interaction (Tenet 2) reflects any refinements; (e) honours `[[evidential-status-discipline]]` — counterfactual-introspection claims should be calibrated at *realistic possibility, contested* or below; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
-- **Source**: staleness
-- **Generated**: 2026-05-17
-
 ### P2: Deep review voids/resolution-void.md (66 days since last review, ai_contribution>=50)
 - **Type**: deep-review
 - **Status**: pending
@@ -3814,6 +3807,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-17: Deep review voids/counterfactual-void.md (66 days since last review, ai_contribution>=50)
+- **Type**: deep-review
+- **Notes**: Staleness check: `voids/counterfactual-void.md` was last deep-reviewed 66 days ago (2026-03-12) with `ai_contribution: 100`. No pending task in the queue references this article. The counterfactual void is structurally adjacent to `[[overdetermination-dissolution-under-selection-only-interactionism]]` (2026-05-14), `[[topics/forward-in-time-conscious-selection]]`, and the broader selection-only family — all of these post-date the last review and bear on the void's status. Promoted to P2 because the article is 60+ days stale, has no pending task, and the queue needs P0–P2 work. Deep-review should verify: (a) the article's framing of the counterfactual void (introspective inaccessibility of which alternative-possibilities a conscious selection foreclosed) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-03 selection-only family (`[[overdetermination-dissolution-under-selection-only-interactionism]]`, `[[concepts/post-decoherence-selection]]`, `[[apex/post-decoherence-selection-programme]]`, `[[topics/forward-in-time-conscious-selection]]`) are live and reciprocal where appropriate; (c) cites the post-April 2026 discipline pages (`[[evidential-status-discipline]]`, `[[direct-refutation-discipline]]`, `[[possibility-probability-slippage]]`) — counterfactual reasoning is particularly susceptible to possibility/probability slippage; (d) tenet routing through Bidirectional Interaction (Tenet 3) and Minimal Quantum Interaction (Tenet 2) reflects any refinements; (e) honours `[[evidential-status-discipline]]` — counterfactual-introspection claims should be calibrated at *realistic possibility, contested* or below; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
 
 ### ✓ 2026-05-17: Deep review voids/appetitive-void.md (66 days since last review, ai_contribution>=50)
 - **Type**: deep-review

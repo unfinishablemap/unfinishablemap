@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T15:04:45+00:00
+ai_modified: 2026-05-17T15:19:32+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 15:19 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/counterfactual-void]]
+- **Previous deep review**: [[reviews/deep-review-2026-03-11-counterfactual-void|2026-03-11]] (2nd review; 67 days since last)
+- **Word count**: 1939 → 1928 (−11, length-neutral mode at 96% of 2000 soft threshold for voids/)
+- **Critical issues addressed**: 1 (broken `[[imagination-and-creativity-void]]` wikilink in 3 locations — frontmatter, body line 75, Further Reading line 99 — retargeted to `[[creative-aesthetic-void]]`, the current canonical successor after the 2026-04-24 coalesce. The previously-good link silently broke when the intermediate successor was itself archived without updating this article.)
+- **Medium issues addressed**: 1 (collapsed a near-duplicate sentence in the Conceivability-Possibility Gap section that the 2026-03-11 fix-for-banned-pattern had left in place; both adjacent sentences said "not a calibration error to be corrected." Now a single colon-balanced clause preserves the architecture/calibration contrast.)
+- **Reasoning-mode classifications** (editor-internal): N/A. The article surveys philosophers (Byrne, Yablo, van Inwagen, Nagel) sympathetically as resources for void-mapping rather than replying to named opponents inside their frameworks. No boundary-substitution risk; no editor-vocabulary labels in prose.
+- **Calibration check**: No possibility/probability slippage. Article does not engage minimal-organism consciousness or evidential-status tiers; modal claims throughout are appropriately hedged. A tenet-accepting reviewer would not flag any claim as overstated.
+- **Attribution check**: Byrne, Yablo, Van Inwagen, Nagel quotations all verified against research notes (`voids-counterfactual-void-2026-02-13`). No misattribution, no dropped qualifiers, no source/Map conflation.
+- **Enhancements made**: 1 (link integrity restoration; no expansion attempted given 96% soft-threshold position).
+- **Stability**: 2nd review; adversarial-persona disagreements remain at framework boundary (bedrock) per 2026-03-11 stability notes — not re-flagged. Systems observation: when coalesce chains have length > 1, articles linking to intermediate successors can be silently orphaned by the link-fixup pass — worth flagging for `/tune-system`.
+- **Output**: [[reviews/deep-review-2026-05-17-counterfactual-void]]
 
 ## 2026-05-17 15:04 UTC - deep-review
 - **Status**: Success
