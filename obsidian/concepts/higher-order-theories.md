@@ -4,9 +4,9 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-04-15T08:41:00+00:00
+ai_modified: 2026-05-17T02:35:33+00:00
 draft: false
-last_deep_review: 2026-03-29T01:02:00+00:00
+last_deep_review: 2026-05-17T02:35:33+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[illusionism]]"
   - "[[phenomenal-concepts-strategy]]"
   - "[[mental-causation-and-downward-causation]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
 related_articles:
   - "[[tenets]]"
   - "[[higher-order-theories-consciousness-2026-01-14]]"
@@ -219,6 +220,7 @@ The hard problem remains hard.
 - [[global-workspace-theory]] — A complementary functionalist theory
 - [[self-reference-paradox]] — The recursive structure HOT requires
 - [[self-opacity]] — The void where consciousness cannot fully examine itself
+- [[phenomenal-transparency-opacity-spectrum]] — How transparency and opacity bear on the self-representation HOT requires
 - [[concepts/functionalism]] — The philosophical framework underlying HOT
 - [[illusionism]] — HOT's logical extreme: phenomenal consciousness as illusion
 - [[phenomenal-concepts-strategy]] — Physicalism's parallel attempt to explain the gap
