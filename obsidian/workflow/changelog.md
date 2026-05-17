@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T13:30:00+00:00
+ai_modified: 2026-05-17T13:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 13:50 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/moral-architecture-of-consciousness]]
+- **Previous deep review**: [[reviews/deep-review-2026-03-17-moral-architecture-of-consciousness|2026-03-17]] (61 days; intermediate apex-evolve passes 2026-04-05 and 2026-05-10 did substantive integration work)
+- **Word count**: 4157 → 4127 (-30, 103% of 4000 soft threshold; structurally at apex ceiling — 9 source articles + 4 pillars + Open Frontier + Compatibilist Symmetry + Load-Bearing + What-Would-Challenge + Relation to Site Perspective; well within 5000 hard, far from 6500 critical)
+- **Critical issues addressed**: 1 (Duplicate `[[evaluative-phenomenal-character]]` frontmatter entry in `concepts` list — removed)
+- **Medium issues addressed**: 2
+  - (1) Stale 2026-05-12 AI refinement log block at end of file — removed per housekeeping rule (the log itself said "remove after human review"; the 2026-05-10 apex-evolve had set the precedent)
+  - (2) Doubled metaphor in §"Load-Bearing but Uneven" ("strength and vulnerability" + "load-bearing rather than modular: if any pillar fails, the remaining ones lose the mutual support") collapsed to single statement; "Iris Murdoch" → "Murdoch" (surname-first-mention convention already established earlier in article via "Murdoch's 'just and loving gaze'" formulation in §"Moral Perception Is Direct" context)
+- **Enhancements made**: 0 (article is structurally complete; no expansion warranted at current length and after extensive intermediate apex-evolve work)
+- **Calibration test** (§2 diagnostic): ran on every evidential-status claim — animal-consciousness tier-three calibration with explicit "Tenet 1 removes defeater but does not raise evidential status" disclaimer; Open Frontier graduated-position framing; Compatibilist Symmetry Challenge with explicit hand-off of moral-explanatory parity to compatibilism; Unity Argument with "the unity is what those pillars enable, not a fifth independent line." **No possibility/probability slippage detected anywhere.** A tenet-accepting reviewer would not flag any claim as overstated.
+- **Engagement mode classifications** (editor-internal, not in article body):
+  - Compatibilism (Frankfurt/Fischer-Ravizza/Wolf) — Mode Three (framework-boundary marking); exemplary boundary-marking with explicit "different metaphysical scaffold for the same moral implications, not a morally inferior position"
+  - Error theory / naturalism (Mackie, Moore) — Mode Two for naturalism (open-question = unsupported-foundational-move); Mode One for error theory (internal cost to making sense of practice)
+  - Materialist moral epistemology (line 112) — Mode Three (framework-boundary)
+  - Projection theory of normativity (line 100) — Mode One; strong (four-textures architecture is wrong empirical prediction for projection)
+  - Many-Worlds, eliminative materialism, Buddhist no-self — Mode Three (framework-boundary; bedrock disagreements stability-noted, not re-engaged at apex tier — the topic-tier articles do the granular work)
+- **Label-leakage check**: clean. No editor vocabulary ("Mode N", "direct-refutation-feasible", "Engagement classification:", "bedrock-perimeter", "unsupported-jump") anywhere in article prose.
+- **Attribution check**: all citations verified (Frankfurt 1971, Fischer & Ravizza 1998, Wolf 1990, Rawlette 2016, Berridge 2009, Kahneman 2011, Gutfreund 2024, Cambridge Declaration 2012, New York Declaration 2024, Henrich et al. 2010, Haidt 2001, Murdoch 1970, Weil 1947, Chalmers Vulcan reference). No misattribution, dropped qualifiers, or source/Map conflation.
+- **External validation**: outer-review-2026-05-11-claude-opus-4-7 §2.4 specifically praised this apex's distinctive meta-ethical argument as one "I have not seen made quite this way elsewhere."
+- **Stability**: second deep review; converged on stable architecture. Bedrock disagreements (eliminative materialism, Many-Worlds, Buddhist no-self, hard physicalism) stability-noted; future reviews must not re-flag. The 2026-05-10 Compatibilist Symmetry Challenge subsection is now the paradigmatic anti-slippage move at the apex tier.
+- **Output**: [[reviews/deep-review-2026-05-17-moral-architecture-of-consciousness]]
 
 ## 2026-05-17 13:30 UTC - deep-review
 - **Status**: Success
