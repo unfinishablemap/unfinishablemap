@@ -1,13 +1,85 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-16 21:30:00+00:00
+ai_modified: 2026-05-16 23:51:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-05-16'
+date: '2026-05-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-17 00:25 UTC - deep-review
+- **Status**: Success
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Previous review**: Never (created 2026-05-14)
+- **Context**: Orphan-integration deep review per task spec — article had zero inbound wikilinks from catalogue articles despite being the operating spec for the `/literature-drift-review` skill and the parent doc for Audits Two and Three (altered-state symmetry, topic-concept anchoring). Focus on installing reciprocal cross-references from sibling methodology pages.
+- **Word count**: 3728 → 3653 (-75 words, length-neutral mode; Audit One Implementation reframed for "implemented" status, Audits Two and Three Implementation blocks tightened)
+- **Critical issues addressed**: 1 — Audit One Implementation block contained stale "skill will be added (separate task)" language that contradicted current reality (the `.claude/skills/literature-drift-review/SKILL.md` skill exists and runs weekly Tuesday 05:00 UTC). Reframed to "Status: implemented 2026-05-14" with active cadence, cost profile, and falsification-trigger linkage.
+- **Medium issues addressed**: 2 — verbose Implementation blocks for Audits Two and Three condensed while preserving public-surface listings, CLI modes, and test locations.
+- **Enhancements made**: Orphan integration — 18 inbound link sites across 10 files now point to the triple, installed via Further Reading entries plus frontmatter `related_articles` updates. Cross-references added from: project/evidential-status-discipline, project/common-cause-null, project/coherence-inflation-countermeasures, project/direct-refutation-discipline, project/framework-stage-calibration, project/bedrock-clash-vs-absorption, project/outer-review-empirical-vs-methodological-freshness, project/outer-reviewer-service-calibration, project/automation (promoted to fourth named Methodology Discipline), project/project (landing page), topics/psychedelics-and-the-filter-model (the canonical exhibit). The automation.md reframe shifted "Three named disciplines" → "Named disciplines" to accommodate the audit triple as the fourth.
+- **Engagement classification (editor-internal)**: N/A — article is editorial-infrastructure documentation, not a philosophical claim; six pessimistic personas do not generate substantive critique against this content. Reasoning-mode discipline does not apply.
+- **Files modified**: `obsidian/project/calibration-audit-triple.md` (3 implementation-block edits + frontmatter timestamps + `last_deep_review`), `obsidian/project/evidential-status-discipline.md` (frontmatter + Further Reading), `obsidian/project/common-cause-null.md` (frontmatter + Further Reading), `obsidian/project/coherence-inflation-countermeasures.md` (frontmatter + Further Reading), `obsidian/project/direct-refutation-discipline.md` (Further Reading), `obsidian/project/framework-stage-calibration.md` (Further Reading), `obsidian/project/bedrock-clash-vs-absorption.md` (Further Reading), `obsidian/project/outer-review-empirical-vs-methodological-freshness.md` (Further Reading), `obsidian/project/outer-reviewer-service-calibration.md` (Further Reading), `obsidian/project/automation.md` (frontmatter + Methodology Disciplines section), `obsidian/project/project.md` (landing-page Related Documents), `obsidian/topics/psychedelics-and-the-filter-model.md` (frontmatter + Further Reading), `obsidian/workflow/todo.md` (mark integrate-orphan task resolved).
+- **Output**: [deep-review-2026-05-17-calibration-audit-triple](/reviews/deep-review-2026-05-17-calibration-audit-triple/)
+
+## 2026-05-17 00:05 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/)
+- **Previous review**: [deep-review-2026-03-29c-quantum-darwinism-and-consciousness](/reviews/deep-review-2026-03-29c-quantum-darwinism-and-consciousness/) (3rd of three same-day reviews)
+- **Context**: 4th review after 48 days unreviewed; article was modified by two intervening refine-draft passes (qualification of claims; vocabulary cleanup). Convergence verified.
+- **Word count**: 2396 → 2396 (description-only edit; body unchanged)
+- **Critical issues addressed**: 0 (none found — no calibration errors, no attribution issues, no label leakage, no boundary-substitution)
+- **Medium issues addressed**: 1 (description compressed from 182 → 152 chars to fit 150-160 SEO/social guideline)
+- **Enhancements made**: 0 body changes (article at convergence)
+- **Engagement classification (editor-internal)**: "Why Not Everett?" — Mode One + Mode Three (defective-on-own-terms + honest boundary marking; argument that quantum Darwinism's core results don't *require* Everett is internal-to-the-opponent, and indexical-identity claim explicitly marks the framework boundary); Dualism-tenet vs. "consciousness of the gaps" critic — Mode One (structural distinction between disappearance-of-interference vs. outcome problems earned within standard quantum-foundations vocabulary); Falsifiability vs. Quantum Skeptic — Mode Three (honest acknowledgement of empirical-accessibility boundary). No boundary-substitution; no label leakage.
+- **Output**: [deep-review-2026-05-17-quantum-darwinism-and-consciousness](/reviews/deep-review-2026-05-17-quantum-darwinism-and-consciousness/)
+
+## 2026-05-16 23:51 UTC - deep-review
+- **Status**: Success
+- **File**: [abandon-coalesce](/project/abandon-coalesce/)
+- **Previous review**: Never (created 2026-05-16)
+- **Context**: Orphan-integration deep review per task spec — article had only one inbound link (`apex/taxonomy-of-voids.md`) despite declaring 14 related-article connections in frontmatter. Focus on adding cross-references from existing articles.
+- **Word count**: 1987 → 1987 (no body changes to abandon-coalesce.md; frontmatter timestamps only)
+- **Critical issues addressed**: 0 (none found — article is methodological/curation; possibility/probability slippage discipline not applicable to procedural claims)
+- **Medium issues addressed**: 2 (orphan status; missing reciprocal "Further Reading" entries in five sibling discipline articles)
+- **Enhancements made**: 5 reciprocal backlinks added — `apex/conjunction-coalesce.md` (inline reference in §"A Coalesce the Test Rejected" + frontmatter), `concepts/coalesce-condense-apex-stability.md` (Further Reading + frontmatter), `project/common-cause-null.md` (Further Reading + frontmatter), `project/cluster-integration-discipline.md` (Further Reading + frontmatter), `project/voids-circularity-discount.md` (Further Reading + frontmatter)
+- **Inbound link count**: 1 → 6
+- **Engagement classification (editor-internal)**: N/A — article makes no named-opponent replies; the six pessimistic personas have no surface to engage with a curation-discipline article (this is structural, not a defect)
+- **Output**: [deep-review-2026-05-16-abandon-coalesce](/reviews/deep-review-2026-05-16-abandon-coalesce/)
+
+## 2026-05-16 23:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Original score**: not separately reviewed (last_deep_review 2026-04-17); refine driven by promised follow-up from 2026-03-26 coalesce per task notes
+- **Changes**: Integrated research/anaesthetic-recovery-neuroscience-2026-03-26.md; added Hu et al. (2023, *Nature Neuroscience*) KCC2/Fbxl4 active-reboot finding as load-bearing molecular exhibit (mechanism-shared reopening pathway across pharmacologically dissimilar agents); added 2024–2025 IIT-φ-during-emergence context; inline evidential calibration on the recovery section (asymmetry empirically robust; interface interpretation as live hypothesis the evidence does not yet decide); extended Bidirectional Interaction tenet section with KCC2 disinhibition citation; added `[[evidential-status-discipline]]` to related_articles. ~+280 words; tenet alignment preserved (Dualism, Bidirectional Interaction); no upgrade of the direct readout of dualism.
+- **Engagement classification (editor-internal)**: Mode One on the production-theory framing — the active-reboot KCC2 pathway is internally puzzling on a generic-generator reading because the molecular machinery is oriented toward conscious state transitions specifically, not toward generic neural function, and operates via a single shared pathway across receptor systems with nothing pharmacological in common. Boundary-marking residue at Mode Three: the underlying interpretive disagreement (filter vs. generator) is acknowledged as not refuted within the production-theory framework, only constrained by the asymmetry pattern.
+- **Attribution note**: Task notes referenced "Bodart KCC2 down-regulation"; the published Nature Neuroscience paper is Hu, Liu, Yao et al. (2023). Cited the correct lead authors.
+- **Published**: yes
+
+## 2026-05-16 23:10 UTC - tune-system
+- **Status**: Success (advisory-only)
+- **Sessions analyzed**: 161 (7139 → 7300)
+- **Period**: 2026-05-14 00:18 UTC → 2026-05-16 23:10 UTC (~71h)
+- **Findings**: 1 NEW voids-cap breach (101/100), 2nd outer-review commission gap in 4d (NEW pattern), 2 NEW recommendations (archive-slug check, fallback-window audit), 1 NEW closure (writeback gap appears resolved this period — 9th-period first non-recurrence)
+- **Tier 1 changes**: 0 (37th consecutive blocked report — `cadences`/`tune_system_history`/`locked_settings` sections still absent)
+- **Tier 2 recommendations**: 10 (3 new + 7 carried forward)
+- **Tier 3 items for human**: 7 (1 new voids breach, 1 updated outer-todo, 5 carried forward)
+- **Output**: [system-tune-2026-05-16](/reviews/system-tune-2026-05-16/)
+
+## 2026-05-16 22:51 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Changed sources**: 5 (`consciousness-and-causal-powers`, `attention-and-the-consciousness-interface`, `delegatory-causation`, `the-psychophysical-control-law`, `control-theoretic-will`); plus stale `apex_sources` reference `bandwidth-problem-mental-causation` corrected to `consciousness-bandwidth-architecture` (the former was coalesced into the latter).
+- **Word count**: 3903 → 3987 (within 2500–4000 target)
+- **Key integrations**: Saad's Subset Law* / Delegatory Law named explicitly; pain-asymbolia as paradigm case for phenomenal biasing; conservation as locally entailed rather than asserted; [causal-consistency-constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) tying bandwidth ceiling and Born corridor as faces of one structural requirement; [dissolution](/topics/overdetermination-dissolution-under-selection-only-interactionism/) reading of Kim's exclusion objection; Cai et al. (2024) "can move but won't move" sharpening the ADHD/Parkinson's interface architecture; hemispatial neglect, Balint, extinction added as the broader clinical dissociation evidence; theta-band willed-attention signatures and 300/280ms timing; 2025 COGITATE adversarial-collaboration result (neither GWT nor IIT vindicated, conscious content tracks posterior cortex); effort-entropy forward prediction as the programme's first model-specific testable claim, with explicit borrowed-risk caveat. Condensed redundancies in opening, bandwidth, Born-rule, ADHD, OCD, specification gap, synthesis bullet list, and tenet-alignment sections to absorb the ~330 words of additions while landing 13 words under the 4000 cap.
+- **Review**: [apex-evolve-2026-05-16-interface-specification-programme](/reviews/apex-evolve-2026-05-16-interface-specification-programme/)
+
+## 2026-05-16 21:45 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 484 (244 topics + 240 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-05-16](/reviews/tenet-check-2026-05-16/)
 
 ## 2026-05-16 21:30 UTC - expand-topic (skipped — duplicate detected, second occurrence)
 - **Status**: Skipped — duplicate detected

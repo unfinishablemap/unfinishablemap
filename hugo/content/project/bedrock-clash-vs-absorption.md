@@ -121,6 +121,7 @@ Beyond tenet alignment, the discipline serves the Map's commitment to its primar
 - [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) — the article-level structural-refactor methodology; bedrock-clash discipline operates within an article, the triple-discipline across articles
 - [framework-stage-calibration](/project/framework-stage-calibration/) — the framework-level methodology cousin: stage-calibration of the catalogue's analogies to the framework's actual developmental stage (pre-Keplerian rather than post-Newtonian)
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — the system-level guard against silently absorbing competing positions
+- [calibration-audit-triple](/project/calibration-audit-triple/) — companion corpus-level audit family at the drift layer; altered-state symmetry (Audit Two) is the convergence-counting counterpart at the across-articles level to the present discipline's rival-position-preservation work within a single article
 - [automation](/project/automation/) — the broader automation system in which `/refine-draft` operates
 - [writing-style](/project/writing-style/) — the writing style guide whose LLM-first commitments the discipline serves
 - [apophatic-cartography](/voids/apophatic-cartography/) — methodological sibling: apophatic articles are particularly prone to needing clash treatment because their structural claims attract Madhyamaka-style worries

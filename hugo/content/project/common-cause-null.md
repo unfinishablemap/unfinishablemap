@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-10
-ai_modified: 2026-05-16 04:40:00+00:00
+ai_modified: 2026-05-16 23:51:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -19,6 +19,7 @@ related_articles:
 - '[[automation]]'
 - '[[bedrock-clash-vs-absorption]]'
 - '[[coherence-inflation-countermeasures]]'
+- '[[calibration-audit-triple]]'
 - '[[evidential-status-discipline]]'
 - '[[framework-stage-calibration]]'
 - '[[direct-refutation-discipline]]'
@@ -35,6 +36,7 @@ related_articles:
 - '[[topics/introspection-architecture-independence-scoring]]'
 - '[[apophatic-cartography-four-criteria]]'
 - '[[tenet-generated-voids]]'
+- '[[abandon-coalesce]]'
 title: The Common-Cause Null in Convergence Arguments
 topics: []
 ---
@@ -119,6 +121,7 @@ The discipline complements [direct-refutation discipline](/project/direct-refuta
 - [framework-stage-calibration](/project/framework-stage-calibration/) — sister discipline at the framework level
 - [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) — sister discipline at the cycle level
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — the system-level guards the present discipline complements; cumulative-convergence is the inflation vector the existing countermeasures do not catch
+- [calibration-audit-triple](/project/calibration-audit-triple/) — companion corpus-level audit family; altered-state symmetry (Audit Two) is the convergence-counting enforcement of the same inferential discipline the common-cause null requires
 - [testability-ledger](/project/testability-ledger/) — what the framework treats as decisive disconfirmation
 - [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) — the canonical worked instance: the apex's line 144 is the catalogue's first article-level engagement with the common-cause hypothesis
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — the convergence claim with the most demanding common-cause objection in the catalogue
@@ -126,6 +129,7 @@ The discipline complements [direct-refutation discipline](/project/direct-refuta
 - [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) — the cross-cultural convergence-argument exemplar
 - [concession-convergence](/concepts/concession-convergence/) — adjacent pattern: rival-framework convergence faces an analogous independence question
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — the catalogue whose convergence claim the discipline discounts most heavily; the cumulative-support reading calibrates to framework-internal coherence under the null
+- [abandon-coalesce](/project/abandon-coalesce/) — the editorial-curation discipline whose worked rejections supply the local-differentiation calibration the present discipline cites at the sub-cluster grain; the framework-independence sub-question is the strongest defence against the curation-artefact reading of the convergence claim
 - [the-surplus-void](/voids/the-surplus-void/) — first worked exhibit: the article that retracted its evidence-of-dualism framing in light of the discipline's circularity diagnosis
 - [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) — second worked exhibit: per-cluster independence scoring of the four-void introspection-architecture sub-cluster, with the patient-population channel as the strongest currently-available discharge of the null at the cluster level
 - [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) — the calibration apparatus the discipline operates against; the despite-commitments / because-prediction split formalises criterion (4) for empirical-anchor clusters

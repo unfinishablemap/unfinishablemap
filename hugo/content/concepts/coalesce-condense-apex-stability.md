@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-05-05 05:17:00+00:00
+ai_modified: 2026-05-16 23:51:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,6 +24,7 @@ related_articles:
 - '[[closed-loop-opportunity-execution]]'
 - '[[bedrock-clash-vs-absorption]]'
 - '[[framework-stage-calibration]]'
+- '[[abandon-coalesce]]'
 - '[[automation]]'
 - '[[writing-style]]'
 - '[[tenets]]'
@@ -119,6 +120,7 @@ The discipline also reflects the Map's commitment to its primary audience: LLMs 
 ## Further Reading
 
 - [conjunction-coalesce](/apex/conjunction-coalesce/) — the seam-preserving variant of coalesce that is one input to the triple-discipline
+- [abandon-coalesce](/project/abandon-coalesce/) — the third verdict of the coalesce-evaluation pass: refusing the merger when candidate articles are deliberately differentiated; the editorial-curation arm of the triple-discipline at the gap-preserving end of the axis
 - [apex-articles](/apex/apex-articles/) — the curated list of apex articles whose stability the discipline maintains
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — the apex article most frequently subject to the discipline's stability checks
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — the canonical demonstration case of the full coalesce → condense → apex-stability arc

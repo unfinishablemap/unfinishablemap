@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-13
-ai_modified: 2026-05-16 04:40:00+00:00
+ai_modified: 2026-05-16 23:51:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -18,6 +18,7 @@ related_articles:
 - '[[project]]'
 - '[[automation]]'
 - '[[common-cause-null]]'
+- '[[abandon-coalesce]]'
 - '[[evidential-status-discipline]]'
 - '[[direct-refutation-discipline]]'
 - '[[coherence-inflation-countermeasures]]'
@@ -115,6 +116,7 @@ The catalogue retains its value under the discount. Voids document what the stan
 - [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) — the calibration apparatus this discount operates with; the four criteria define the scoring categories the per-cluster discount uses
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — the convergence claim the discount most heavily constrains
 - [voids](/voids/) — the catalogue's index
+- [abandon-coalesce](/project/abandon-coalesce/) — editorial-curation companion: the discipline whose worked rejections supply the local-differentiation calibration the catalogue-scale discount cannot supply on its own; refusing mergers across deliberately differentiated voids is the catalogue's defence against the curation-driven reading of its convergence pattern
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-05-12 03:35:00+00:00
+ai_modified: 2026-05-16 23:51:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-12 03:35:00+00:00
 apex_sources:
@@ -50,6 +50,7 @@ related_articles:
 - '[[apophatic-cartography]]'
 - '[[compound-failure-signatures]]'
 - '[[coalesce-condense-apex-stability]]'
+- '[[abandon-coalesce]]'
 - '[[tenets]]'
 - '[[suspension-void]]'
 - '[[imagery-void]]'
@@ -134,7 +135,7 @@ The seam test rejected this. The decisive feature is the first refinement of the
 
 The structural feature that failed was *thematic-without-structural-conjunction*. The candidate joint claim, when scrutinised, was a redescription of "all three articles are about affect and all three involve opacity," which is a topic label rather than an analytical claim. Compare this to the voids-between-minds case, where the joint claim—*even granting existence, encounter still delivers what no inference can; even granting encounter, sharing remains open*—is a specific assertion the three faces collectively support and none alone can state. The affective trio offered no analogue. There is no claim of the form "even granting range opacity, valence opacity still delivers something the range-face cannot, and mood opacity in turn delivers something neither can." The three faces are not co-implicated in a way that would force such a joint claim into existence.
 
-The test discriminated three outcomes, not two: the articles were not redundant (their differentiations were doing analytical work) and the apparent conjunction did not make a stronger claim (the joint claim collapsed into a topic label), so the correct verdict was *leave separate and modify no files*. The same session examined six further clusters under the same reading and rejected each, demonstrating the discipline's practical falsifiability.
+The test discriminated three outcomes, not two: the articles were not redundant (their differentiations were doing analytical work) and the apparent conjunction did not make a stronger claim (the joint claim collapsed into a topic label), so the correct verdict was *leave separate and modify no files*. The same session examined six further clusters under the same reading and rejected each, demonstrating the discipline's practical falsifiability. This rejection-pattern is the empirical basis the [abandon-coalesce discipline](/project/abandon-coalesce/) subsequently named and operationalised as a third verdict alongside redundancy-coalesce and conjunction-coalesce — the present section's affective-trio case is its paradigmatic worked failure.
 
 ## A Cluster Awaiting the Move
 

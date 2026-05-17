@@ -35,6 +35,7 @@ related_articles:
 - '[[altered-states-consciousness-2026-01-19]]'
 - '[[voids-altered-states-as-void-probes-2026-02-03]]'
 - '[[meta-epistemology-of-limits]]'
+- '[[project/calibration-audit-triple]]'
 title: Psychedelics and the Filter Model
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -160,6 +161,7 @@ These results are contested rather than settled, and the standard [decoherence](
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis placing psychedelic evidence within the convergence matrix
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Why numinous experiences resist epistemic evaluation from within
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Distinguishing persistent from dissolved limits
+- [Calibration Audit Triple](/project/calibration-audit-triple/) — The methodological discipline this article served as canonical exhibit for: literature-drift, altered-state symmetry, and topic-concept anchoring were proposed together based on the 2026-05-14 outer review of an earlier version of this page
 
 ## References
 

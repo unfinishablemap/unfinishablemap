@@ -88,6 +88,7 @@ The calibration is methodological — what survives the pipeline matters more th
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — the general failure-mode this calibration protects against at channel level
 - [direct-refutation-discipline](/project/direct-refutation-discipline/) — the methodological discipline that emerged from the 2026-05-04 convergent finding
 - [evidential-status-discipline](/project/evidential-status-discipline/) — calibration of empirical-claim labels inside the catalogue itself
+- [calibration-audit-triple](/project/calibration-audit-triple/) — companion at the internal-verification layer; literature-drift (Audit One) is the catalogue-internal counterpart to this channel-level discipline's empirical-vs-methodological split
 - [automation](/project/automation/) — the pipeline this calibration governs
 - [outer-review-2026-05-04-claude-opus-4-7](/reviews/outer-review-2026-05-04-claude-opus-4-7/) — the source review
 - [outer-review-synthesis-2026-05-04](/reviews/outer-review-synthesis-2026-05-04/) — the synthesis pass that captured the singleton finding

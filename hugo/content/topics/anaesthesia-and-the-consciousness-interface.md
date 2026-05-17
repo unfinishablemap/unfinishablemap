@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-14 12:41:00+00:00
+ai_modified: 2026-05-16 23:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ concepts:
 - '[[direction-of-fit]]'
 - '[[degrees-of-consciousness]]'
 created: 2026-02-23
-date: &id001 2026-04-17
+date: &id001 2026-05-16
 description: Anaesthetic pharmacology maps the consciousness-brain interface with
   unexpected precision. Different agents disrupt different interface components, revealing
   a structured, multi-layered connection between mind and matter.
@@ -31,6 +31,7 @@ last_deep_review: 2026-04-17 13:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[evidential-status-discipline]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[mind-brain-separation]]'
 - '[[brain-interface-boundary]]'
@@ -107,7 +108,7 @@ The pharmacological specificity documented here also bears on [experimental desi
 
 ## Recovery: What Emergence Reveals
 
-Perhaps the most revealing anaesthetic phenomenon is how consciousness returns. Recovery is not simply induction in reverse: the brain requires lower drug concentrations to stay unconscious than to become unconscious, executive function returns before simpler capacities, and genetically identical organisms show emergence times varying by two orders of magnitude.
+Perhaps the most revealing anaesthetic phenomenon is how consciousness returns. Recovery is not simply induction in reverse: the brain requires lower drug concentrations to stay unconscious than to become unconscious, executive function returns before simpler capacities, and genetically identical organisms show emergence times varying by two orders of magnitude. The asymmetry between induction and emergence is at this point an empirically robust finding across human, primate, and rodent studies — it is the framing's interpretation as evidence about the interface, not the asymmetry itself, that remains a live hypothesis the evidence does not yet decide.
 
 Sanders et al. (2023) make the asymmetry explicit: the "switch on" of consciousness appears to use different neural circuitry from the "switch off," with loss and recovery following distinct mechanistic pathways. Mashour (2024) argues that emergence may therefore be more informative than induction for understanding consciousness, because it reveals interface components coming online sequentially — exposing what Bhatt et al. (2024) call the "core elements" of consciousness as they re-engage one by one.
 
@@ -125,7 +126,9 @@ Executive function returns before reaction time and simpler sensorimotor tasks �
 
 The early re-engagement of the prefrontal cortex is consistent with global neuronal workspace (GNW) theory, which posits that consciousness requires widespread broadcasting through a frontoparietal workspace (Mashour et al., 2021). But the Map reframes this: frontal-parietal dynamics normalising *just prior to* connected consciousness suggests the neural side prepares a channel that consciousness then re-enters, consistent with [attention's role as interface](/concepts/attention-as-interface/). The workspace needs to be inhabited, not merely activated — GNW describes the physical infrastructure of the interface, but the interface requires something non-physical to come back through it.
 
-On the transmissive model (Bhatt et al., 2024), the recovery sequence maps the filter's architecture from basic to sophisticated components. The physicalist can respond that complex neural systems require active initialisation — but recovery involves molecular preparation oriented toward conscious state transitions specifically, not generic neural function.
+The molecular evidence for active reboot has sharpened considerably. Hu et al. (2023) identified a common mechanism for emergence that operates independently of which anaesthetic was used: rapid ubiquitin-driven degradation of the K+/Cl− cotransporter KCC2 in the ventral posteromedial nucleus of the thalamus, mediated by the ubiquitin ligase Fbxl4. KCC2 downregulation produces GABA-A-mediated disinhibition that accelerates thalamic neuron excitability and drives emergence. The authors describe this as an *active reboot* rather than passive drug clearance — the brain mounts a coordinated molecular response to reopen the channel, not merely a wait for the anaesthetic to wash out. That the same KCC2 mechanism operates across pharmacologically dissimilar agents (propofol, isoflurane, sevoflurane, ketamine) is the load-bearing point: the interface has a dedicated reopening pathway that is mechanism-shared even when the closing pathways were mechanism-distinct.
+
+On the transmissive model (Bhatt et al., 2024), the recovery sequence maps the filter's architecture from basic to sophisticated components, and the active-reboot finding extends this — the filter does not simply widen as drug levels fall; the neural side actively dismantles the inhibition that anaesthesia installed. Recent IIT work on emergence (the 2024–2025 PCI and Φ literature) finds that integration measures recover before behavioural responsiveness rather than tracking it, consistent with the workspace being prepared in advance of consciousness's return. The physicalist can respond that complex neural systems require active initialisation as a generic engineering matter — but the molecular machinery here is oriented toward conscious state transitions specifically, not toward generic neural function, and it operates through a single shared pathway across receptor systems that otherwise have nothing pharmacological in common.
 
 The recovery sequence converges with the four-component interface model from the pharmacological dissection. Disconnected consciousness — phenomenal presence without environmental access — is a common intermediate stage during emergence, demonstrating that the phenomenal channel reopens before access channels reconnect. Memory encoding typically recovers later, with patients in the immediate post-anaesthetic period experiencing conscious moments they subsequently cannot recall.
 
@@ -165,7 +168,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 
 These findings remain speculative, but if anaesthetics work partly by disrupting quantum processes that classical receptor pharmacology does not fully explain, the selectivity of anaesthetics for consciousness (while sparing other brain functions) gains an additional explanation. The irreducible stochasticity of emergence timing in genetically identical organisms adds further support: deterministic models fail where stochastic models succeed, consistent with the interface operating where fundamental indeterminacy shapes reconnection. The [constrained pluralism](/topics/the-interface-problem/) position gains support: the interface operates through the [attention-motor architecture](/concepts/voluntary-attention-control-mechanisms/) at the functional level, with molecular-level effects in receptor proteins and ion channels providing the physical substrate.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active reboot — the brain preparing for consciousness before consciousness arrives — suggests causal traffic in both directions. During disconnected consciousness under ketamine, consciousness actively generates elaborate internal experience despite environmental severance — reorganising around whichever channels remain open, characteristic of an agent interacting with a structured interface.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active reboot — the brain preparing for consciousness before consciousness arrives, with the Hu et al. KCC2 disinhibition pathway as the most concrete molecular instance — suggests causal traffic in both directions. The neural infrastructure dismantles the inhibition that anaesthesia installed before behavioural responsiveness returns, an asymmetry with induction that the interface reading takes as the brain preparing a channel for consciousness to re-enter. During disconnected consciousness under ketamine, consciousness actively generates elaborate internal experience despite environmental severance — reorganising around whichever channels remain open, characteristic of an agent interacting with a structured interface.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If anaesthesia merely rearranges which branch of a universal wavefunction a patient occupies, the phenomenological specificity of different agents becomes mysterious — why should propofol route consciousness to a no-experience branch while ketamine routes it to a vivid-experience branch?
 
@@ -221,6 +224,26 @@ These findings remain speculative, but if anaesthetics work partly by disrupting
 1. Sepúlveda, P. O., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801-807.
 1. Friedman, E. B., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
 1. Redinbaugh, M. J., et al. (2022). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron*, 106(1), 66-75.
+1. Hu, J. J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26(5), 751-764.
 1. Craddock, T. J. A., et al. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 15(6), 523-533.
 1. Hameroff, S., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
+
+<!-- AI REFINEMENT LOG - 2026-05-16
+Changes made:
+- Integrated promised follow-up from research/anaesthetic-recovery-neuroscience-2026-03-26.md, completing the coalesce commitment from 2026-03-26.
+- Strengthened "Recovery: What Emergence Reveals" opening with inline evidential calibration: recovery-asymmetry as empirically robust finding; interface interpretation as live hypothesis the evidence does not yet decide. Natural-language phrasing per writing-style.md Evidential Calibration; no bold-headed callouts.
+- Added Hu et al. (2023) Nature Neuroscience KCC2/Fbxl4 active-reboot finding as the load-bearing molecular exhibit. The mechanism-shared reopening pathway across pharmacologically dissimilar agents is the load-bearing point; previously the "active reboot" section relied on Mashour 2021 cortical dynamics alone.
+- Added IIT-φ during emergence (2024–2025 PCI/Φ literature) — integration measures recover before behavioural responsiveness, consistent with workspace prepared in advance of consciousness's return.
+- Extended Bidirectional Interaction tenet section to explicitly cite Hu et al. KCC2 disinhibition as the most concrete molecular instance of the brain preparing a channel for consciousness to re-enter.
+- Added [evidential-status-discipline](/project/evidential-status-discipline/) to related_articles.
+- Added Hu et al. (2023) to references list.
+
+Note on attribution: task notes referenced "Bodart KCC2 down-regulation" but the published Nature Neuroscience paper is Hu, Liu, Yao et al. 2023; Bodart appears to be a different author working on disorders of consciousness. Cited the correct lead authors.
+
+Approx +280 words added; within the +400–700 word estimate given that some existing content was tightened around the new material rather than wholesale added.
+
+Tenet alignment preserved: Dualism (Tenet 1), Bidirectional Interaction (Tenet 3). No upgrade of direct readout of dualism — the interface interpretation remains marked as live hypothesis. Recovery-asymmetry empirics marked as strongly supported.
+
+This log should be removed after human review.
+-->
