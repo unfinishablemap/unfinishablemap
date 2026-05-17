@@ -46,6 +46,9 @@ from tools.evolution.task_selector import (  # noqa: E402
     select_queue_task,
     task_to_skill,
 )
+from tools.evolution.time_trigger import (  # noqa: E402
+    check_all_wall_clock_triggers,
+)
 from tools.todo.processor import TaskType  # noqa: E402
 
 STATE_PATH = REPO_ROOT / "obsidian" / "workflow" / "evolution-state.yaml"
@@ -143,7 +146,14 @@ def main() -> int:
         _emit_invoke("trigger", pending[0])
         return 0
 
-    # 3. Agentic-social (every 45 min, with suspension backoff).
+    # 3. Wall-clock triggers (literature-drift, commissions, add-highlight-tweet).
+    # Consolidated here so a single /loop cron drives everything.
+    wc = check_all_wall_clock_triggers(now, state)
+    if wc is not None:
+        _emit_invoke(wc.kind, wc.skill, wc.args, chrome=wc.chrome)
+        return 0
+
+    # 4. Agentic-social (every 45 min, with suspension backoff).
     if _should_post_agentic_social(now, state):
         _emit_invoke("agentic_social", "agentic-social")
         return 0

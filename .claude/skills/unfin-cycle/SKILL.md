@@ -29,8 +29,15 @@ Parse the single line of JSON it prints. The shape is:
 
 - **Idle**: `{"action": "idle", "kind": "stop_signal|queue_empty|idle", "reason": "..."}`
   → Log the reason briefly and **stop**. Do not invoke anything.
-- **Invoke**: `{"action": "invoke", "kind": "queue|cycle|trigger|replenish|collect|combine|agentic_social", "skill": "<name>", "args": "<args>", "chrome": true (optional), "queue_task_line": <int> (only when kind==queue)}`
+- **Invoke**: `{"action": "invoke", "kind": "queue|cycle|trigger|replenish|collect|combine|agentic_social|commission", "skill": "<name>", "args": "<args>", "chrome": true (optional), "queue_task_line": <int> (only when kind==queue)}`
   → Proceed to step 2.
+
+The single /loop driving `/unfin-cycle` now handles every task type —
+deterministic cycle slots, queue tasks, replenishment, collect/combine
+of outer reviews, agentic-social, *and* the wall-clock triggers
+(commission-{chatgpt,claude,gemini}-review fired at 02/03/04 UTC,
+literature-drift-review on Tuesdays at 05 UTC, add-highlight-tweet at
+08 UTC). No separate cron `/loop`s are required.
 
 ### 2. Invoke the per-task skill
 
