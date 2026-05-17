@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T03:35:00+00:00
+ai_modified: 2026-05-17T05:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 05:00 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cross-Species Behavioural-Confidence Proxy Tests for Introspection-Architecture Independence
+- **Output**: [[topics/cross-species-behavioural-confidence-proxy-tests]]
+- **Word count**: 3043 (101% of 3000 topics target; soft_warning band, well below 4000 hard)
+- **Based on research**: yes — [[research/cross-species-channel-introspection-architecture-independence-2026-05-15]]
+- **Section**: topics/ (244 → 245 of 250 cap; 5 slots remaining)
+- **Angle**: Design-audit of the proxy-test architecture (companion to the 2026-05-16 cross-species channel audit which catalogues *what evidence exists*). Article designs *what proxy tests would have to look like* — four-face proxy architecture (substrate marker / behavioural channel / outcome-tracking channel / dissociation criterion) for source-attribution, noetic-feelings, confabulation, and narrative faces; explicit principled-blocked region (confabulation weak, narrative blocked) versus accessible region (source-attribution clean, noetic-feelings partial); existing prototype scoring (Smith uncertainty-monitoring as noetic-feelings prototype; Krupenye 2016 false-belief looking as confabulation prototype at low bandwidth; Clayton 1998/2024-25 episodic-like memory as source-attribution prototype); despite-commitments / because-prediction split under Le Pelley and Carruthers critiques; per-face scoring under evidential-status discipline (source-attribution and noetic-feelings at *realistic possibility, contested*; confabulation at *live hypothesis*; narrative at *speculative integration* or not at all).
+- **Calibration honesty**: Channel does not earn despite-commitments triangulation against strongest common-cause null; earns partial methodological diversity extending architectural feature's substrate domain across clades under within-frame discounts. Per-face asymmetry across the four faces named as the design audit's primary finding rather than averaged out. Constraint-vs-establish discipline preserved at architectural-feature inference.
+- **Cross-links**: introspection-architecture-independence-scoring (parent), cross-species-channel-introspection-architecture-independence-scoring (companion), pupillometry-behavioural-channel (within-species channel-dissociation pair), four voids cluster faces, common-cause-null, voids-circularity-discount, evidential-status-discipline, taxonomy-of-voids.
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
 
 ## 2026-05-17 03:35 UTC - optimistic-review
 - **Status**: Success

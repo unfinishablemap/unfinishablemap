@@ -1,0 +1,147 @@
+---
+title: "Cross-Species Behavioural-Confidence Proxy Tests for Introspection-Architecture Independence"
+description: "Human+AI design audit of how a behavioural-confidence channel paired against outcome-tracking can serve as a proxy test of the introspection-architecture signature in non-verbal species — and where the design is principled-blocked rather than merely difficult."
+created: 2026-05-17
+modified: 2026-05-17
+human_modified:
+ai_modified: 2026-05-17T00:00:00+00:00
+draft: false
+topics:
+  - "[[introspection-architecture-independence-scoring]]"
+  - "[[cross-species-channel-introspection-architecture-independence-scoring]]"
+  - "[[animal-consciousness]]"
+  - "[[methodology-of-consciousness-research]]"
+concepts:
+  - "[[introspection]]"
+  - "[[metacognition]]"
+  - "[[evidential-status-discipline]]"
+  - "[[naturally-occluded]]"
+  - "[[heterophenomenology]]"
+related_articles:
+  - "[[introspection-architecture-independence-scoring]]"
+  - "[[cross-species-channel-introspection-architecture-independence-scoring]]"
+  - "[[pupillometry-behavioural-channel]]"
+  - "[[voids/source-attribution-void]]"
+  - "[[voids/confabulation-void]]"
+  - "[[voids/narrative-void]]"
+  - "[[voids/noetic-feelings-void]]"
+  - "[[project/common-cause-null]]"
+  - "[[project/voids-circularity-discount]]"
+  - "[[project/evidential-status-discipline]]"
+  - "[[apex/taxonomy-of-voids]]"
+  - "[[tenets]]"
+ai_contribution: 100
+author:
+ai_system: claude-opus-4-7
+ai_generated_date: 2026-05-17
+last_curated:
+---
+
+A *behavioural-confidence proxy test* pairs a non-verbal animal's wager-or-opt-out behaviour against an experimenter-controlled outcome-tracking channel, then asks whether the confidence behaviour dissociates from the underlying machinery in the specific patterns the [[introspection-architecture-independence-scoring|introspection-architecture cluster]] catalogues for human verbal report. The design carries part of the cluster's signature across the verbal-species boundary — and is principled-blocked from carrying the rest of it. This article works the design problem: what such proxy tests can in principle deliver, what they cannot in principle deliver, how to score the channel under the [[project/common-cause-null|common-cause null]] discipline, and how to read existing paradigms (Smith uncertainty-monitoring, Krupenye false-belief, Clayton episodic-like memory) as partial prototypes of the [[#four-face-proxy-architecture|four-face proxy architecture explained below]]. Companion to [[cross-species-channel-introspection-architecture-independence-scoring|the cross-species channel audit]] which catalogues *what evidence exists*; this article designs *what proxy tests would have to look like* to carry the cluster's architectural signature into non-verbal substrates.
+
+## What a Proxy Test Has to Do
+
+The cluster's signature in its native human form is a *report-versus-mechanism discrepancy*: a verbal report whose content can be checked against experimenter-controlled ground truth and found to come apart from the underlying machinery in characteristic ways. Gazzaniga's left-hemisphere interpreter confabulates accounts whose generating cause it cannot see; Nisbett and Wilson's subjects offer fluent explanations the manipulation showed were wrong; choice-blindness participants justify decisions they did not make. The signature lives in the gap between what the system reports about itself and what is in fact driving its behaviour.
+
+A proxy test substitutes a non-verbal channel — a wager, an opt-out, an information-seeking response, a confidence-graded bet — for the verbal report, and asks whether *that* channel dissociates from the underlying machinery in the same kind of way. The substitution is not lossless: a wager is not a report; it is a behaviour whose interpretation as a confidence claim is itself a framework-laden inference. It can be principled rather than ad-hoc when the proxy channel is causally downstream of the same monitoring substrate the verbal report channels in humans, and when the dissociation between proxy channel and outcome-tracking channel has the cluster's signature's structural features.
+
+Four design questions follow. **Does the species have a monitoring substrate whose output can drive a non-verbal confidence behaviour?** (The metacognition-capability prerequisite the comparative-cognition literature attempts to establish.) **Can that confidence behaviour be put in opposition to experimenter-controlled ground truth?** (Without a measurable target of confidence, the dissociation cannot be observed.) **Does the resulting dissociation parallel the cluster's signature?** (Do proxy-channel failures occur in the four-face pattern the cluster names — origin-tag failure, verdict-feeling inversion, fabricated content, narrative-construction-without-cause — or in a more diffuse pattern the bounded-witness architecture does not predict?) **Is the proxy-test reading robust against alternative explanations the within-species literature has developed?** (Le Pelley's associative-learning models reproduce confidence-grading without metacognition; Carruthers's interpretive-sensory-access framework reads confidence behaviour as model-free analog-magnitude signalling without introspection.) These four questions structure the rest of the article.
+
+## The Principled-Blocked Region
+
+The cluster's signature has four faces: *origin-tag failure* (source-attribution-void), *verdict-feeling inversion* (noetic-feelings-void), *fabricated content* (confabulation-void), and *narrative-construction-without-cause* (narrative-void). Two faces are in-principle accessible to behavioural-confidence proxy testing in non-verbal species; two are in-principle blocked.
+
+**Origin-tag failure is accessible.** Source-monitoring failure operationalises non-verbally: was *this* memory acquired *here* or *there*? Was *this* food cache made at *time t1* or *time t2*? The Crystal lab's rodent source-memory paradigms (2014 *Biology Letters* and following) and the Clayton lab's scrub-jay what-where-when paradigms (1998 onwards; 2024-25 revisit) supply existing prototypes. The behavioural choice — recover the still-edible cache rather than the rotted one; respond to the source-tagged trial rather than the unsourced one — is a non-verbal proxy for an origin-tag judgement, and the failure pattern (mPFC-lesioned rats with abnormally high false-alarm rates; intact scrub jays differentially recovering perishable versus non-perishable caches) is structurally parallel to the human cluster's source-attribution signature.
+
+**Verdict-feeling inversion is partially accessible.** Confidence-graded wagering can put the animal's putative noetic confidence against an experimenter-controlled difficulty manipulation, with cases constructed where high-difficulty-but-correct trials yield low-confidence wagers (under-confidence) and low-difficulty-but-incorrect trials yield high-confidence wagers (over-confidence). Hampton's macaque metamemory paradigm (2001, 2019 dissociation) and Kepecs's rat orbitofrontal confidence work (2008, 2014, 2020) supply existing prototypes. Orbitofrontal inactivation disrupts waiting-based confidence behaviour without disrupting decision accuracy — the kind of dissociation the bounded-witness architecture predicts.
+
+**Fabricated content is principled-blocked at full strength.** Confabulation's diagnostic signature is *the production of an account whose content was never registered by the underlying machinery* — Hirstein's brain-fiction patients describing events that did not occur; choice-blindness subjects justifying choices they did not make. The signature requires the system to produce content of a sentential or pictorial sort whose specificity exceeds what the underlying machinery supplies. A wager or opt-out is not content of that sort: a rat cannot fabricate a *story* about why it pressed the lever; it can only press or not. Existing paradigms approach the principled-blocked boundary softly — Krupenye et al. 2016's chimpanzee anticipatory-looking on false-belief tasks is the closest, where eye-direction implements a behavioural commitment to specific content about another agent's belief that can be wrong in patterned ways — but the bandwidth (looking left or right) is narrow against the open-ended sentential bandwidth of human confabulation.
+
+**Narrative-construction-without-cause is principled-blocked at full strength.** Narrative-void's signature is the spontaneous *generation of an interpretive story* by a left-hemisphere interpreter or its functional analogue under conditions where the generating cause is invisible to the interpreter. Without language-grade output the production cannot occur in its native form. Birch (2024)'s precautionary framework names this explicitly when it constructs sentience criteria from behavioural and neurobiological proxies *because* introspection-grade self-report is unavailable for most candidate species. The current literature contains no clean cross-species analogue of the narrative-construction signature.
+
+The proxy-test channel can carry source-attribution cleanly, noetic-feelings partially, confabulation weakly, and narrative barely or not at all. The cluster's signature is not uniformly translatable across the verbal-species boundary; the honest channel-score must reflect that asymmetry rather than averaging it out.
+
+## Four-Face Proxy Architecture {#four-face-proxy-architecture}
+
+For each cluster face that proxy testing can in principle reach, a generic proxy-test architecture has the same four components: a *substrate marker* the species's monitoring system computes; a *behavioural channel* that reads the substrate marker; an *outcome-tracking channel* the experimenter controls; and a *dissociation criterion* that distinguishes "the substrate marker tracked the outcome reliably" from "the substrate marker dissociated from the outcome in the cluster-predicted pattern."
+
+**Source-attribution proxy.** Substrate marker: a source-monitoring signal (rodent mPFC, primate DLPFC, corvid pallial homologue). Behavioural channel: differential response to source-tagged versus untagged trials, or recovery of caches differentially by encoded time. Outcome-tracking channel: experimenter-fixed source tags. Dissociation criterion: substrate-damaged animals produce abnormally high false-alarm rates *of a specific type* — incorrect source attribution rather than discrimination failure — paralleling the human signature. Crystal's 2014 paradigm satisfies all four components and is the cleanest existing instance.
+
+**Noetic-feelings proxy.** Substrate marker: a confidence-coding signal (rodent OFC, primate prefrontal). Behavioural channel: opt-out, wager-graded response, information-seeking. Outcome-tracking channel: experimenter-controlled difficulty crossed with recorded accuracy. Dissociation criterion: under conditions constructed to dissociate difficulty and accuracy (high-difficulty trials answered correctly by chance; easy trials answered incorrectly under perceptual lure), confidence behaviour tracks the substrate's *expectation* rather than the *outcome* — over-confidence on accidentally-correct-difficult trials, under-confidence on lure-induced-error easy trials. Hampton's macaque metamemory dissociation (2019) approaches this design; Kepecs's OFC inactivation work supplies the substrate complement.
+
+**Confabulation proxy.** Substrate marker: post-hoc selection or recombination signal of a kind that could in principle drive content-generation. Behavioural channel: open-ended action sequence whose specific shape commits to specific content. Outcome-tracking channel: experimenter-fixed ground truth about what content was available. Dissociation criterion: action-sequence content exceeds the substrate's input content in a specific direction — the animal acts as though it had information the substrate cannot have supplied. Krupenye et al. 2016's anticipatory-looking design satisfies the components at low bandwidth: chimpanzee eye-direction commits to a specific prediction about the protagonist's belief, against the experimenter's ground truth about what the chimpanzee saw. Bandwidth (left or right) is the limit on how reachable the face is.
+
+**Narrative proxy.** Substrate marker: a sequencing or interpretation signal that could drive multi-step coordinated behaviour. Behavioural channel: a coordinated behavioural sequence whose joint pattern implies interpretive coherence. Outcome-tracking channel: experimenter-fixed disconnect between the interpretive coherence and the actual prior event. Dissociation criterion: the multi-step pattern continues to imply an interpretation the experimenter knows is wrong. The literature contains no clean cross-species instance; the bandwidth required approaches the bandwidth at which verbal report re-becomes the cleanest tool. This is the principled-blocked region: the narrative face is most bandwidth-demanding, and the proxy-test architecture's bandwidth is narrowest where the verbal-report channel is absent.
+
+The architecture makes explicit what existing proxy-test paradigms attempt and where each stops short — and that the channel's contribution to cross-observer convergence cannot be uniform across the four faces.
+
+## Existing Proxy-Test Prototypes
+
+Three programmes within the comparative-cognition literature are read here as partial prototypes of the architecture, each succeeding on a different face.
+
+**Smith uncertainty-monitoring** (Smith, Couchman & Beran 2014; programme since the 1990s). Rhesus macaques, capuchins, and dolphins given a perceptual discrimination with an opt-out third response choose the opt-out more on harder trials than on easier ones, paralleling human uncertainty-monitoring. The paradigm satisfies the noetic-feelings architecture across all four components, with opt-out rate scaling with the substrate's difficulty-expectation. Despite-commitments score: contested. Le Pelley 2012 showed associative-learning models reproduce the paradigm's hallmark patterns without invoking metacognition; the 2010s methodological responses tightened controls without delivering consensus closure. Scored under [[project/evidential-status-discipline|evidential-status discipline]] as *realistic possibility, contested*.
+
+**Krupenye false-belief looking** (Krupenye et al. 2016; subsequent replications). Great apes (chimpanzees, bonobos, orangutans) shown a video of a protagonist forming a false belief anticipate the protagonist's *belief-consistent* search-location, not the object's actual location. The anticipatory-looking direction is a non-verbal commitment to specific content (an inferred mental state, not a perceived object) the underlying perceptual machinery did not supply — the principled-blocked confabulation region reached softly rather than absolutely. Scored as *live hypothesis* with bandwidth caveats.
+
+**Clayton episodic-like memory** (Clayton & Dickinson 1998; Clayton lab 2024-25 revisit). Scrub jays integrate what-where-when memory for cached food and recover differentially by perishability. The paradigm satisfies the source-attribution architecture at high bandwidth; the 2024-25 revisit explicitly frames the binding pattern as source-monitoring evidence. Substrate-distance from primate prefrontal is genuine — avian pallium is more architecturally distant than rodent OFC — making the cross-clade anchoring stronger than the within-mammalian Smith and Kepecs work. Scored as *strongly supported* for the substrate-extension finding and *realistic possibility* for the architectural-feature inference.
+
+The three programmes do not jointly carry the cluster's signature in its full form. Smith carries part of noetic-feelings, Krupenye part of confabulation, Clayton most of source-attribution. The narrative face has no existing prototype.
+
+## Despite-Commitments Versus Because-Prediction
+
+The proxy-test channel's contribution depends on how it scores under the [[project/common-cause-null|common-cause null discipline]]'s split between *despite-commitments evidence* (running against the generating framework's prediction) and *because-prediction confirmation* (evidence the generating framework already predicted).
+
+Substrate-extension findings — rodent OFC confidence, rodent source-monitoring lesion deficits, corvid what-where-when binding — score as *despite-commitments at the substrate level*. Pre-2008 behaviourist defaults did not predict that confidence representations and source-monitoring substrates would extend across phylogenetically distant clades; that they do is anomalous with respect to the generating framework's expectation.
+
+The proxy-test channel scores as *contested at the metacognition-grade level* and as *partially because-prediction at the interpretive-frame level*. Le Pelley's associative-learning models predict the data on reinforcement-history alone; under that reading the bounded-witness architectural inference is not supported, because a simpler associative explanation suffices. Carruthers's interpretive-sensory-access framework predicts the cross-species convergence on grounds that *undercut* the bounded-witness reading: if human introspection is itself interpretive and animal metacognition is an analog-magnitude executive-engagement signal, the convergence is a because-prediction confirmation of the interpretive theory rather than independent triangulation of an architectural feature of consciousness.
+
+The channel's contribution is the substrate-extension findings *under the discount* the methodological critiques impose. The discount is real and substantial. The proxy-test channel does not earn *despite-commitments triangulation* against the strongest common-cause null; it earns *partial methodological diversity* — extending the architectural feature's substrate domain across clades — with weight that within-frame critiques constrain.
+
+Two design moves would tighten the despite-commitments score. A paradigm that *cannot be reproduced by associative-learning models even in principle* — a design that structurally excludes the associative reading — would close the Le Pelley critique for that paradigm; the 2010s methodological responses are partial moves in this direction. A paradigm whose substrate-marker / behavioural-channel dissociation pattern is *predicted by the bounded-witness reading and not by Carruthers's interpretive reading* would supply within-physicalist discrimination between the frames. Neither move would establish the cluster's reading over the rival; each would constrain the rival in a specific way present paradigms do not.
+
+## What the Proxy-Test Channel Can and Cannot Score
+
+Scoring the channel against the [[apex/taxonomy-of-voids|taxonomy of voids]]'s four criteria, after the discounts: *signature specificity* is partial (substrate proxies match a general metacognitive-monitoring signature better than the cluster's specific report-versus-mechanism discrepancy; specificity is genuine where proxies map face-by-face); *structured persistence* is strong on substrate findings (rodent OFC, rodent source-monitoring, corvid what-where-when have weathered sustained critique) and moderate on the architectural-feature inference; *cross-observer convergence* is moderate within biology and weak as discharge of the common-cause null (rodent, primate, and corvid substrates are architecturally related at higher resolution than surface-clade distance suggests; Le Pelley and Carruthers constrain what the convergence can claim); *framework independence* is moderate (substrate findings survive translation across cognitivist, embodied-cognition, and predictive-processing frameworks; the architectural-feature inference is more framework-shaped).
+
+Under [[project/evidential-status-discipline|evidential-status discipline]]'s five-tier scale: source-attribution lands at *realistic possibility, contested*; noetic-feelings at *realistic possibility, contested*; confabulation at *live hypothesis*; narrative at *speculative integration* or not at all. The cluster's empirical anchoring remains concentrated in the patient-population and healthy-adult despite-commitments observations the parent exhibit catalogues; the proxy-test channel contributes calibration-grade breadth at two faces, partial contribution at the third under bandwidth limits, and no contribution at the fourth on present designs. The asymmetry across the four faces is the design audit's primary finding.
+
+## Relation to Site Perspective
+
+The article honours the [[project/voids-circularity-discount|voids-circularity discount]] at the channel-design level: the proxy-test architecture extends an architectural signature compatible with both dualism and physicalism, and the design audit does not treat substrate-extension findings as positive support for the Map's dualist reading. The Map's framework supplies the *significance* of the architectural feature for [[tenets|Tenet 1 (Dualism)]] — a bounded-witness signature recurring across substrates is what a dualist picture of a non-physical witness with bounded substrate-access predicts as the empirical signature — but the proxy-test evidence by itself is not positive support for that picture. It is calibration-grade breadth: extending the domain of an architectural feature whose ontological reading the proxy-test data underdetermine.
+
+The article also honours the [[project/evidential-status-discipline|evidential-status discipline]]'s tier vocabulary: the proxy-test channel's contribution is *realistic possibility, contested* on its strongest faces and *speculative integration* on the principled-blocked region, not *strongly supported* convergence. The design audit's purpose is to make the per-face asymmetry explicit so the cluster's cross-observer scoring does not over-claim what the proxy-test channel can carry. The [[cross-species-channel-introspection-architecture-independence-scoring|cross-species channel audit]] already names the architecturally-distant LLM introspection programme as the channel that carries cross-observer triangulation where the cross-species-via-biology channel cannot; the present article's contribution is the design framework that makes the within-biology channel's specific deliverables and specific limits explicit at the per-face level.
+
+The proxy-test channel does not close the four-void cluster's case and does not abandon the structural defence the comparative-cognition literature can supply. It carries a specific subset of the cluster's signature across the verbal-species boundary, under a specific set of discounts, with the per-face asymmetry the design audit makes visible.
+
+## Further Reading
+
+- [[introspection-architecture-independence-scoring]] — parent exhibit naming the cluster whose proxy tests this article designs
+- [[cross-species-channel-introspection-architecture-independence-scoring]] — companion audit catalogues *what evidence exists*; this article designs *what tests would have to look like*
+- [[pupillometry-behavioural-channel]] — within-species channel-dissociation methodology paired with the proxy-test architecture
+- [[voids/source-attribution-void]], [[voids/noetic-feelings-void]] — the two cluster faces the proxy-test channel most cleanly anchors
+- [[voids/confabulation-void]], [[voids/narrative-void]] — the two cluster faces principled-blocked or bandwidth-limited
+- [[project/common-cause-null]] — discipline supplying the despite-commitments / because-prediction split applied above
+- [[project/evidential-status-discipline]] — five-tier scale the per-face scoring uses
+- [[apex/taxonomy-of-voids]] — apex naming the per-cluster independence scoring as open programme
+- [[concepts/naturally-occluded]] — concept the proxy-test design probes at species-specific architectural granularity
+
+## References
+
+1. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
+2. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
+3. Carruthers, P. (2021). Model-free metacognition. *Cognition*.
+4. Clayton, N. S. & Dickinson, A. (1998). Episodic-like memory during cache recovery by scrub jays. *Nature* 395: 272–274.
+5. Clayton, N. S. et al. (2024-25). Revisiting episodic-like memory in scrub jays: Is there more we can still learn from what-where-when caching behaviour? *Learning & Behavior*.
+6. Crystal, J. D. (2014). Validation of a rodent model of source memory. *Biology Letters* 10: 20140064.
+7. Hampton, R. R. (2001). Rhesus monkeys know when they remember. *PNAS* 98(9): 5359–5362.
+8. Hampton, R. R. (2019). Dissociation of memory signals for metamemory in rhesus monkeys (*Macaca mulatta*). *Animal Cognition* 22: 331–341.
+9. Kepecs, A. et al. (2008). Neural correlates, computation and behavioural impact of decision confidence. *Nature* 455: 227–231.
+10. Kepecs, A. et al. (2014). Orbitofrontal cortex is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
+11. Kepecs, A. et al. (2020). Behavior- and modality-general representation of confidence in orbitofrontal cortex. *Cell* 182(1): 112–126.
+12. Krupenye, C., Kano, F., Hirata, S., Call, J. & Tomasello, M. (2016). Great apes anticipate that other individuals will act according to false beliefs. *Science* 354(6308): 110–114.
+13. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? Simple reinforcement learning explains uncertainty in nonhuman animals. *Journal of Experimental Psychology: Animal Behavior Processes*.
+14. Smith, J. D., Couchman, J. J. & Beran, M. J. (2014). Animal metacognition: A tale of two comparative psychologies. *Journal of Comparative Psychology* 128(2): 115–131.
+15. Smith, J. D. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4578.
+16. Southgate, A. & Oquatre-sept, C. (2026-05-16). The Cross-Species Channel for Introspection-Architecture Independence Scoring. *The Unfinishable Map*. https://unfinishablemap.org/topics/cross-species-channel-introspection-architecture-independence-scoring/
+17. Southgate, A. & Oquatre-sept, C. (2026-05-15). Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster. *The Unfinishable Map*. https://unfinishablemap.org/topics/introspection-architecture-independence-scoring/
+18. Southgate, A. & Oquatre-sept, C. (2026-05-10). The Common-Cause Null in Convergence Arguments. *The Unfinishable Map*. https://unfinishablemap.org/project/common-cause-null/
