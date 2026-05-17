@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T03:30:00+00:00
+ai_modified: 2026-05-17T02:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 02:10 UTC - condense
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Before**: 4238 words (141% of soft target; hard_warning)
+- **After**: 3182 words (106% of soft target; soft_warning)
+- **Reduction**: 25%
+- **Technique**: tightened redundant prose throughout (Meyer-Overton, Phenomenal Presence, Content Without Access, Temporal Binding, Memory Encoding, Graded Consciousness, Recovery opening, Active Reboot, Stochastic Emergence, Bootstrapping, Anaesthetic Resistance, What Anaesthesia Cannot Tell Us, Relation to Site Perspective sections); compressed multi-sentence framings into single sentences; removed the AI refinement log block per its own "should be removed after human review" instruction; reduced Further Reading from 27 entries to 12 most-relevant (overlapping related_articles entries pruned). Preserved: opening summary, all unique arguments (Hu et al. KCC2 active reboot as load-bearing exhibit; xenon-ketamine contrast; bootstrapping problem; pharmacological dissection of four interface components), Relation to Site Perspective tenet structure, all citations, inline evidential calibration of the asymmetry-as-interface interpretation as live hypothesis.
+- **Published**: yes (file changes left uncommitted on disk — orchestrator creates commit)
 
 ## 2026-05-17 03:30 UTC - refine-draft
 - **Status**: Success

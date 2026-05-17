@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review (2026-05-17)
 - **Generated**: 2026-05-17
 
-### P1: Condense topics/anaesthesia-and-the-consciousness-interface.md (4238 words, 141% of topics soft target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Length analysis flags `topics/anaesthesia-and-the-consciousness-interface.md` at 4238 words = 141% of the 3000-word soft target for topics/; this is the only non-research article in the corpus exceeding the hard threshold (4000 words) for its section. Critical threshold (6000 words) is not breached, so register is *hard_warning* rather than *critical*. The article is a load-bearing topic in the altered-states cluster and a frequent inbound-link target. Condense should (a) preserve the article's main arguments — the hierarchical-restoration phenomenology, the KCC2 / Bodart 2021 active-reboot finding, the interface-modulation reading, and tenet routing through Bidirectional Interaction and Minimal Quantum Interaction; (b) preserve the bridging clauses to `[[anaesthetic-recovery-and-the-filter-problem]]` (the article it absorbed in the 2026-03-26 coalesce), `[[altered-states-as-interface-evidence]]`, `[[hypnagogic-phenomenology-and-interface-modulation]]`, `[[degrees-of-consciousness]]`, and the AI-consciousness applications via the Birch precautionary framework; (c) trim redundancy — likely candidates are repetitive lede-paragraph framing, over-narrated empirical citations that could be reduced to citation-with-one-line-summary, and detailed exposition of mechanisms that the dedicated concept pages now own; (d) defer detailed phenomenological exposition to the dedicated topic article when it lands (a stand-alone phenomenology-of-returning-to-consciousness topic article is queued at P3 below); (e) honour `[[evidential-status-discipline]]` — the article's interface-modulation reading is *realistic possibility* / *live hypothesis* and must remain calibrated rather than upgrading to *strongly supported* through compression; (f) target ≤3500 words; (g) verify cross-link density to the cluster remains intact post-condense. Tenet alignment: methodological / writing-style / length-discipline. See `/condense` skill and `tools/curate/length.py` for thresholds.
-- **Source**: length_analysis
-- **Generated**: 2026-05-17
-
 ### P2: Cross-review related articles considering topics/evolved-mind-brain-interface-efficacy.md insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3737,6 +3730,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-17: Condense topics/anaesthesia-and-the-consciousness-interface.md (4238 words, 141% of topics soft target)
+- **Type**: condense
+- **Notes**: Length analysis flags `topics/anaesthesia-and-the-consciousness-interface.md` at 4238 words = 141% of the 3000-word soft target for topics/; this is the only non-research article in the corpus exceeding the hard threshold (4000 words) for its section. Critical threshold (6000 words) is not breached, so register is *hard_warning* rather than *critical*. The article is a load-bearing topic in the altered-states cluster and a frequent inbound-link target. Condense should (a) preserve the article's main arguments — the hierarchical-restoration phenomenology, the KCC2 / Bodart 2021 active-reboot finding, the interface-modulation reading, and tenet routing through Bidirectional Interaction and Minimal Quantum Interaction; (b) preserve the bridging clauses to `[[anaesthetic-recovery-and-the-filter-problem]]` (the article it absorbed in the 2026-03-26 coalesce), `[[altered-states-as-interface-evidence]]`, `[[hypnagogic-phenomenology-and-interface-modulation]]`, `[[degrees-of-consciousness]]`, and the AI-consciousness applications via the Birch precautionary framework; (c) trim redundancy — likely candidates are repetitive lede-paragraph framing, over-narrated empirical citations that could be reduced to citation-with-one-line-summary, and detailed exposition of mechanisms that the dedicated concept pages now own; (d) defer detailed phenomenological exposition to the dedicated topic article when it lands (a stand-alone phenomenology-of-returning-to-consciousness topic article is queued at P3 below); (e) honour `[[evidential-status-discipline]]` — the article's interface-modulation reading is *realistic possibility* / *live hypothesis* and must remain calibrated rather than upgrading to *strongly supported* through compression; (f) target ≤3500 words; (g) verify cross-link density to the cluster remains intact post-condense. Tenet alignment: methodological / writing-style / length-discipline. See `/condense` skill and `tools/curate/length.py` for thresholds.
 
 ### ✓ 2026-05-17: Install Guémann 2023 mirror-therapy null-RCT review in topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
