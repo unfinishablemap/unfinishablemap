@@ -4,8 +4,8 @@ description: "Differentiated audit of Neoplatonist transmission as a common-caus
 created: 2026-05-17
 modified: 2026-05-17
 human_modified:
-ai_modified: 2026-05-17T06:30:00+00:00
-last_deep_review: 2026-05-17T06:30:00+00:00
+ai_modified: 2026-05-17T15:30:00+00:00
+last_deep_review: 2026-05-17T15:30:00+00:00
 draft: false
 topics:
   - "[[introspection-architecture-independence-scoring]]"
@@ -34,7 +34,7 @@ ai_generated_date: 2026-05-17
 last_curated:
 ---
 
-The [[channel-audits-introspection-architecture-independence-scoring|cross-tradition channel audit]] for the [[introspection-architecture-independence-scoring|introspection-architecture independence exhibit]] scores Advaita, Sufi, and Stoic articulations of bounded introspective access at *low-moderate* convergence. That score required a sharper test: how much of the apparent agreement is *common-cause Neoplatonism* — a single Plotinian articulation of bounded conscious access propagating downstream through Porphyry, Iamblichus, Proclus, Evagrius, the Arabic Plotinus, Avicenna, al-Ghazālī, Suhrawardī, and Ibn ʿArabī? This article is the detail underpinning the unified channel-audits summary. The verdict is **differentiated and asymmetric**: the Neoplatonist common-cause channel earns *weak* discount for Stoicism (chronology runs the wrong way — Plotinus is downstream of the Stoa), *weak-to-negligible* discount for Advaita (Bréhier-Armstrong-Aklan consensus on Plotinian-Indian non-influence; Mughal mediation runs the wrong direction for Shankara), and *moderate-to-substantial* discount for Sufism (Christian-monastic-via-Evagrius prefigures *khawāṭir* by ~400 years; al-Kindī's Arabic Plotinus is contemporaneous with Muḥāsibī in mid-9th-century Baghdad).
+The [[channel-audits-introspection-architecture-independence-scoring|unified channel audit]] for the [[introspection-architecture-independence-scoring|introspection-architecture independence exhibit]] scores Advaita, Sufi, and Stoic articulations of bounded introspective access at *low-moderate* convergence. That score required a sharper test: how much of the apparent agreement is *common-cause Neoplatonism* — a single Plotinian articulation of bounded conscious access propagating downstream through Porphyry, Iamblichus, Proclus, Evagrius, the Arabic Plotinus, Avicenna, al-Ghazālī, Suhrawardī, and Ibn ʿArabī? This article supplies the cross-tradition detail underpinning that summary. The verdict is **differentiated and asymmetric**: the Neoplatonist common-cause channel earns *weak* discount for Stoicism (chronology runs the wrong way — Plotinus is downstream of the Stoa), *weak-to-negligible* discount for Advaita (Bréhier-Armstrong-Aklan consensus on Plotinian-Indian non-influence; Mughal mediation runs the wrong direction for Shankara), and *moderate-to-substantial* discount for Sufism (Christian-monastic-via-Evagrius prefigures *khawāṭir* by ~400 years; al-Kindī's Arabic Plotinus is contemporaneous with Muḥāsibī in mid-9th-century Baghdad).
 
 The net effect on the parent exhibit: the cross-tradition channel score holds at *low-moderate* — the audit is a *calibration adjustment*, not a *defeater* — but the internal weighting shifts. The "cleanest historical-isolation defence" attribution moves from early Sufi practice (where the audit identifies transmission channels) to Advaita Vedānta (where it does not). Ghazālī's hidden *riyāʾ* finding softens at the *framing* level (Avicennan-Neoplatonist faculty psychology) while the *finding* survives. Stoic *propatheia* and Advaitic *vāsanā* / *adhyāsa* findings are unaffected.
 
@@ -109,9 +109,9 @@ Combining the three traditions:
 
 The audit produces a *re-weighting* of the cross-tradition channel rather than a *defeat* of it. Three score-update consequences follow:
 
-- The cross-tradition channel's overall Criterion 3 score (cross-observer convergence) holds at *low-moderate*. The audit's "pending Neoplatonist audit" caveat in the parent article can be discharged.
-- The "cleanest historical-isolation defence" attribution shifts from early Sufi practice (where transmission channels are open) to Advaita Vedānta (where they are not).
-- Ghazālī's hidden *riyāʾ* finding's despite-commitments score is *moderate at the finding-level, framing partly downstream*. The specific architectural finding (hidden self-display as default architectural feature) survives the audit; the Avicennan-Neoplatonist faculty-psychology *framework* in which the finding is expressed is the part the discount touches.
+- The cross-tradition channel's Criterion 3 score (cross-observer convergence) holds at *low-moderate*; the parent's "pending Neoplatonist audit" caveat can be discharged.
+- The "cleanest historical-isolation defence" attribution shifts from early Sufi practice (transmission channels open) to Advaita Vedānta (channels closed).
+- Ghazālī's hidden *riyāʾ* finding's despite-commitments score is *moderate at the finding-level, framing partly downstream*. The architectural finding (hidden self-display as default feature) survives; the Avicennan-Neoplatonist faculty-psychology *framework* in which it is expressed is what the discount touches.
 
 ## A Residual Gap: Does the Christian-Monastic Channel Reduce to Stoicism?
 
@@ -133,13 +133,14 @@ The Map's [[introspection-architecture-independence-scoring|introspection-archit
 
 ## Further Reading
 
-- [[channel-audits-introspection-architecture-independence-scoring]] — the parent cross-tradition channel audit this article supplies the Neoplatonist-discount input to
-- [[introspection-architecture-independence-scoring]] — the load-bearing exhibit the cross-tradition channel feeds
-- [[indian-philosophy-of-mind]] — Advaitic doctrines (*adhyāsa*, *antaḥkaraṇa*, *vāsanā*) that this audit clears of Neoplatonist contamination
-- [[project/common-cause-null]] — the discipline this audit honours
-- [[project/voids-circularity-discount]] — the related circularity-discount discipline for void exhibits
-- [[project/evidential-status-discipline]] — the framing-uncertainty discipline this audit propagates
-- [[voids/source-attribution-void]] — the cluster face the *khawāṭir* taxonomy and Evagrian *logismoi* both prefigure
+- [[channel-audits-introspection-architecture-independence-scoring]] — the parent unified channel audit this article supplies the Neoplatonist-discount input to
+- [[introspection-architecture-independence-scoring]] — the load-bearing exhibit the audit feeds
+- [[topics/cross-species-behavioural-confidence-proxy-tests]] — companion design-side article; its per-face stratification (source-attribution accessible, noetic-feelings partial, confabulation principled-blocked, narrative principled-blocked) governs which Neoplatonist-mediated cluster faces remain externally testable in non-verbal animals
+- [[indian-philosophy-of-mind]] — Advaitic doctrines (*adhyāsa*, *antaḥkaraṇa*, *vāsanā*) cleared of Neoplatonist contamination
+- [[project/common-cause-null]] — the discipline honoured here
+- [[project/voids-circularity-discount]] — the related circularity discipline for void exhibits
+- [[project/evidential-status-discipline]] — the framing-uncertainty discipline propagated
+- [[voids/source-attribution-void]] — the cluster face *khawāṭir* and Evagrian *logismoi* both prefigure
 
 ## References
 

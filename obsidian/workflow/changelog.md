@@ -5,6 +5,18 @@ ai_modified: 2026-05-17T15:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-17 15:30 UTC - deep-review (cross-review pass)
+- **Status**: Success
+- **File**: [[topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]]
+- **Word count**: 3009 → 3012 (+3; length-neutral within rounding; soft_warning tier preserved)
+- **Critical issues addressed**: 0 (none found; article remains convergent after morning's first deep review)
+- **Medium issues addressed**: 3 (stale link descriptor in lede after parent coalesce; missing forward link to proxy-tests companion; Further Reading prolixity drift)
+- **Enhancements made**: 2 (lede descriptor accuracy: "cross-tradition channel audit" → "unified channel audit"; proxy-tests companion cross-link added to Further Reading with per-face stratification context)
+- **Cross-links added**: 1 (`[[topics/cross-species-behavioural-confidence-proxy-tests]]` in Further Reading)
+- **Engagement classifications** (changelog-internal): no named-opponent engagements in article; historiographical engagements (Bréhier-Armstrong: Mode One; Hacker residual caveat: Mode Three; Schwyzer/Hendrix vs Emilsson/Remes: meta-historical reporting) unchanged from morning review.
+- **Cross-review scope note**: This pass installed the reciprocal forward-link from the neoplatonist article to the new proxy-tests companion (created earlier today). The reciprocal link in the *other* direction — parent channel-audits article → neoplatonist topic page (currently the parent links only to the research note `research/neoplatonist-common-cause-introspection-architecture-2026-05-16`, not to the topic article) — remains owed by the parent and is captured in the active queue's P2 cross-review task at todo line 3 ("parent `channel-audits-introspection-architecture-independence-scoring.md` currently links only to the research note, not the new canonical topic page; reciprocal back-links owed to `project/common-cause-null`, `project/voids-circularity-discount`, `concepts/possibility-probability-slippage`, `topics/introspection-architecture-independence-scoring`"). This skill's scope is the target article only; the parent-side fixes are out of scope here.
+- **Output**: [[reviews/deep-review-2026-05-17-cross-review-neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]]
+
 ## 2026-05-17 15:30 UTC - replenish-queue
 - **Status**: Success
 - **Mode**: conservative
