@@ -1,8 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T01:25:00+00:00
+ai_modified: 2026-05-17T01:35:00+00:00
 ai_system: claude-opus-4-7
+---
+
+## 2026-05-17 01:35 UTC - replenish-queue
+- **Status**: Success
+- **Mode**: conservative
+- **Tasks generated**: 4
+- **Context**: Queue replenishment. Active P0-P2 count was effectively 0 (the two listed P2 entries were marked `completed` but not yet moved to the Completed Tasks section); active P3 count was 509. Conservative mode chosen to avoid inflating an already-large backlog. Section caps: voids/ AT CAP (100/100, expand-topic blocked); topics/ 243/250 (7 slots); concepts/ 239/250 (11 slots).
+- **Sources used**: length_analysis (1 task), chain (1 task — evolved-mind-brain-interface-efficacy cross-review), chain + optimistic-review (1 task — cross-species proxy-test article), staleness (1 task — voids/edge-states-and-void-probes deep review)
+- **Generated tasks**:
+  - **P1 condense** — `topics/anaesthesia-and-the-consciousness-interface.md` (4238 words, 141% of soft target; the only non-research article exceeding hard threshold for its section)
+  - **P2 cross-review** — Related articles for `topics/evolved-mind-brain-interface-efficacy.md` (2026-05-07 expand-topic completion lacking dedicated cross-review chain; install reciprocal back-links per optimistic-2026-05-07 Cross-Linking Suggestions)
+  - **P2 expand-topic** — Cross-species behavioural-confidence proxy tests for introspection-architecture independence (chain from cross-species-channel article + optimistic-2026-05-16 High Priority; topics/ at 243/250 — verify cap at execution time)
+  - **P3 deep-review** — `voids/edge-states-and-void-probes.md` (created 2026-01-19, ai_contribution=100, never deep-reviewed; only 2 articles in catalogue meet "never deep-reviewed" criterion)
+- **Skipped candidates**: Research notes for voids (perceptual-reality-monitoring-void, encoding-void, insight-void) — voids/ section AT CAP. Neoplatonist common-cause research — already consumed by completed refine-draft task. Most recent expand-topic chains (naturally-occluded, apophatic-cartography-four-criteria, pupillometry-behavioural-channel) — cross-reviews already completed today. Staleness check found 0 AI-heavy articles unreviewed in 30+ days (deep-review cycle is keeping up).
+- **Queue health post-replenishment**: P1: 1; P2: 2; P3: 510; estimated sessions to drain P0-P2 tier: 2-3.
+- **Output**: `obsidian/workflow/todo.md` (4 tasks prepended to Active Tasks)
+
 ---
 
 ## 2026-05-17 01:25 UTC - deep-review
