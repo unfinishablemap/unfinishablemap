@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T12:20:24+00:00
+ai_modified: 2026-05-17T13:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 13:30 UTC - deep-review
+- **Status**: Success
+- **File**: [[arguments/epiphenomenalism-argument]]
+- **Previous review**: [[reviews/deep-review-2026-03-14-epiphenomenalism-argument|2026-03-14]] (64 days; article unchanged since)
+- **Word count**: 2357 → 2485 (+128, 99% of 2500 soft threshold; at structural ceiling — future additions need compensating trim)
+- **Critical issues addressed**: 3 (all clustered in §Decoherence Response, all calibration errors inside the Map's framework per the §2 diagnostic test — a tenet-accepting reviewer reading both this article and `concepts/decoherence.md` would flag each)
+  - (1) Arithmetic: "seven orders of magnitude longer" → "eight or more orders" — Tegmark 10⁻¹³ vs Hagan 10⁻⁵ is 8 orders, not 7; matches canonical `decoherence.md` figure
+  - (2) Selective citation of Hagan as a closed rebuttal of Tegmark — added one-sentence acknowledgment of the Reimers (2009) / McKemmish (2009) re-derivation dispute; reframed Map's position from "Hagan settles it" to "Tegmark's figure cannot be cited as a closed rebuttal, not that Hagan closes the question the other direction." The canonical `concepts/decoherence.md` explicitly warns against this selective citation
+  - (3) Princeton-study overstatement + year mismatch — "confirmed the quantum mechanism computationally" → "(Xu et al., 2026) added computational support for the radical-pair mechanism"; References entry fixed from 2025 to 2026 with title hedge updated ("Computational support for..." not "Computational confirmation of..."), matching the Map-wide convention used in `decoherence.md`, `substance-property-dualism.md`, `tenets.md`. Added one-clause hedge that cryptochrome's molecular architecture does not by itself license neural-scale coherence
+- **Medium issues addressed**: 0 (no medium issues identified beyond the calibration cluster; argument structure stable across three reviews)
+- **Enhancements made**: 2 (cross-link to `[[decoherence]]` from §Decoherence Response; 2 new references: Reimers et al. 2009 and McKemmish et al. 2009)
+- **Engagement mode classifications** (editor-internal, not in article body):
+  - Argument 1 (self-stultification) — Mode One: defective on its own terms; epiphenomenalism's commitment to evidence-based rational belief is what makes the position unholdable
+  - Argument 2 (evolutionary objection) — Mode Two: unsupported foundational move; "systematic tracking by causally inert phenomenal states" is helped to without explanation, reply invokes evolutionary parsimony
+  - Argument 3 (knowledge argument reversed) — Mode One: pre-established harmony cannot be justified on epiphenomenalism's own terms
+  - Argument 4 (introspection) — Mode One: epiphenomenalism makes its own characterisation of introspection structurally impossible
+  - Illusionism (regress response) — Mode One: regress shows the illusionist commitment to "seemings caused by neural states" hits the same self-stultification at one remove
+  - Decoherence Challenge — Mixed (Mode Two + Mode Three): Mode Two for "decoherence solves measurement" being an unearned move; Mode Three for the Map's positive quantum-interactionist commitment being at the framework boundary
+- **Label-leakage check**: clean. No editor vocabulary in article prose.
+- **Attribution check**: post-edit, all citations correct (James 1890, Huxley 1874, Jackson 1982, Hagan/Hameroff/Tuszyński 2002, Reimers et al. 2009, McKemmish et al. 2009, Tegmark 2000, Xu et al. 2026, Chalmers 1996, Frankish 2016, Kim 1998, Robinson 2019, Stapp 2007, Whitehead 1929). The Xu 2025→2026 year correction brings this article into alignment with the Map-wide citation convention.
+- **Stability note**: Third deep review. The four core arguments, illusionism regress response, Whitehead alternative frame, "What Would Challenge This View?" section, and Relation to Map's Perspective are all stable across all three reviews — no oscillation. Future reviews should not re-litigate them. The Decoherence Response calibration is now aligned with `concepts/decoherence.md` post-edit; this should not re-drift unless the canonical treatment itself changes.
+- **Output**: [[reviews/deep-review-2026-05-17-epiphenomenalism-argument]]
 
 ## 2026-05-17 12:51 UTC - deep-review
 - **Status**: Success
