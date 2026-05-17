@@ -4,8 +4,8 @@ description: "The brain's ability to reorganize through experience—and what Sc
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-04-02T21:38:00+00:00
-last_deep_review: 2026-03-29T01:33:00+00:00
+ai_modified: 2026-05-17T10:49:53+00:00
+last_deep_review: 2026-05-17T10:49:53+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
