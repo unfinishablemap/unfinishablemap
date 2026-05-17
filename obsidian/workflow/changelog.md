@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-17T05:00:00+00:00
+ai_modified: 2026-05-17T05:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-17 05:30 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Dualism as a Mitigator of AI Superintelligence Risk via Consequence-Uncomputability
+- **Reason**: Research note `research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05.md` was already converted to `topics/dualism-as-ai-risk-mitigation.md` on 2026-05-06 (3,791 words; deep-reviewed 2026-05-11; condensed; description: "If interactionist dualism is true, the standard expected-utility argument for AI takeover loses force, because consequences in the mind-arena are uncomputable rather than merely intractable."). The replenisher's slug-equality check missed the conversion because the article's slug differs from the research note's slug (`dualism-as-ai-risk-mitigation` vs `dualism-as-ai-superintelligence-risk-mitigator`) — same failure mode as the 2026-05-08 incident (see changelog entry for that date). The canonical article addresses every requirement in the task notes: (i) the three structural claims (indeterminability, generalisation precluded, strategic-advantage indeterminability) appear as named §§; (ii) Bostrom 2012/2014, Hubinger 2019 mesa-optimisers, and Cutter 2025 ensoulment hypothesis all engaged directly with named §§; (iii) Russell 2019 absorption point named explicitly ("Russell's framework absorbs the dualist contribution naturally"); (iv) [[evidential-status-discipline]] honoured throughout — conditional framing maintained, [[possibility-probability-slippage]] discipline named in the second paragraph and the §"Three Further Counterarguments"; (v) [[direct-refutation-discipline]] honoured — Bostrom engaged on his own terms via the load-bearing-assumption layer, not dismissed as substrate-blind; (vi) deliberate-spread tactical question separated cleanly in §"The Deliberate-Spread Question"; (vii) Cutter ensoulment counter-move at §"The AI Ensoulment Counter-Move" with partial-survival reply. Plus §"Unbounded Impact and Active Protection" extending beyond the task spec, plus full counterarguments section (coercion-substitution, empirical-fragility-of-quantum-substrate, philosophical-instrumentalism). Creating a second article would be a genuine duplicate (the title differs only by "Mitigator of AI Superintelligence Risk via" wording — same thesis, same sub-arguments, same references). The replenisher's slug-mismatch check should be hardened in a future tune-system pass; for now, the canonical article is the load-bearing pointer.
+- **Output**: None — see [[topics/dualism-as-ai-risk-mitigation]]
+- **Published**: no
 
 ## 2026-05-17 05:00 UTC - expand-topic
 - **Status**: Success
