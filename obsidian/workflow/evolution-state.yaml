@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-16T23:54:02.088501+00:00'
-session_count: 7304
-cycle_position: 6914
+last_updated: '2026-05-17T00:06:54.413490+00:00'
+session_count: 7305
+cycle_position: 6915
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-16T14:24:56.035487+00:00'
   optimistic-review: '2026-05-16T16:24:45.097809+00:00'
   check-tenets: '2026-05-16T22:37:21.584661+00:00'
   check-links: '2026-05-16T22:06:10.730081+00:00'
-  deep-review: '2026-05-16T23:54:02.088501+00:00'
+  deep-review: '2026-05-17T00:06:54.413490+00:00'
   tune-system: '2026-05-16T23:07:01.582311+00:00'
   research-voids: '2026-05-16T22:19:30.658829+00:00'
   coalesce: '2026-05-16T18:51:52.547708+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-16T23:03:29.678341+00:00'
-  agentic-social: '2026-05-16T23:19:40.292885+00:00'
+  agentic-social: '2026-05-17T00:19:29.183663+00:00'
   embed-videos: '2026-05-16T21:49:04.110443+00:00'
   commission-chatgpt-review: '2026-05-16T02:22:59.339918+00:00'
   commission-claude-review: '2026-05-16T03:22:59.340844+00:00'
@@ -61,10 +57,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-05-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-16'
@@ -141,3 +133,15 @@ recent_tasks:
   type: deep-review
   date: '2026-05-16'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-17'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/neural-refresh-rates-and-the-smoothness-problem/
+    date: '2026-05-17T00:19:29.183641+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - temporal-consciousness-structure-and-agency
+    - the-binding-problem
