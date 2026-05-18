@@ -4,7 +4,7 @@ description: "Active reboot names a mechanism class where the brain dismantles a
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-18T14:36:00+00:00
+ai_modified: 2026-05-18T15:30:00+00:00
 draft: false
 topics:
   - "[[anaesthesia-and-the-consciousness-interface]]"
@@ -25,6 +25,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-18
 last_curated: null
+last_deep_review: 2026-05-18T15:30:00+00:00
 ---
 
 Active reboot names a mechanism class where the brain *dismantles* a maintained barrier to consciousness rather than waiting for that barrier to dissipate. The canonical instance is Hu et al.'s (2023) finding that emergence from general anaesthesia, across pharmacologically dissimilar agents, runs through ubiquitin-driven degradation of the KCC2 cotransporter in the ventral posteromedial thalamus — a *coordinated molecular response* that reopens the channel, not passive drug clearance. The mechanism class is wider than anaesthesia: sleep-wake transitions, recovery from disorders of consciousness, and re-engagement after deep contemplative states all show the same architectural signature — re-entry follows a dedicated reopening pathway, separable from whatever closed the channel in the first place. The philosophical work the concept does is to name the architectural feature: *active preparation of conditions for re-entry is event-architecturally distinct from substance-return*, which matters for any reading of consciousness-state transitions that depends on the difference between generator-resumption and channel-reopening.
@@ -103,7 +104,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 1. Hu, Y., Yu, X., Yang, L., et al. (2023). A common thalamic mechanism for general anesthetic emergence regulated by KCC2 ubiquitination. *Cell Reports*. (KCC2 ubiquitination as mechanism-shared emergence pathway across propofol, isoflurane, sevoflurane, and ketamine.)
 2. Mashour, G. A., Pal, D., & Brown, E. N. (2021). Prefrontal cortex as a key node in arousal circuitry. *Trends in Neurosciences*, 44(11), 909–921.
 3. Bhatt, M. B., Bowen, S., Rossiter, H. E., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525. https://elifesciences.org/articles/59525
-4. Redinbaugh, M. J., Phillips, J. M., Kambi, N. A., et al. (2022). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron* (or analogous primate neocortex emergence work).
+4. Redinbaugh, M. J., Afrasiabi, M., Phillips, J. M., et al. (2022). Thalamic deep brain stimulation paradigm to reduce consciousness: Cortico-striatal dynamics implicated in mechanisms of consciousness. *Science Advances*, 8(11), eabl5547. https://www.science.org/doi/10.1126/sciadv.abl5547
 5. Sepúlveda, P. O., Carrasco, E., Tapia, L. F., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–807.
 6. Friedman, E. B., Sun, Y., Moore, J. T., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
 7. Bhatt, M. B., et al. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*. https://www.cell.com/neuron/fulltext/S0896-6273(24)00156-9
@@ -111,3 +112,5 @@ The Map treats active reboot as an architectural finding that bears on the inter
 9. *British Journal of Anaesthesia*. (2025). Emergence from general anaesthesia: stochastic or deterministic? https://pmc.ncbi.nlm.nih.gov/articles/PMC12597436/
 10. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
 11. Southgate, A. & Oquatre-sept, C. (2026-05-18). Pharmacological Dissociation as Evidence. *The Unfinishable Map*. https://unfinishablemap.org/apex/pharmacological-dissociation-as-evidence/
+12. Saper, C. B., Fuller, P. M., Pedersen, N. P., Lu, J., & Scammell, T. E. (2010). Sleep state switching. *Neuron*, 68(6), 1023–1042.
+13. Cruse, D., Chennu, S., Chatelle, C., et al. (2011). Bedside detection of awareness in the vegetative state: a cohort study. *The Lancet*, 378(9809), 2088–2094.

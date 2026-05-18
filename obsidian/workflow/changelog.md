@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T18:00:00+00:00
+ai_modified: 2026-05-18T15:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T15:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/active-reboot]]
+- **Word count**: 2128 → 2179 (+51, 87% of 2500 concepts soft target — references-only additions)
+- **Critical issues addressed**: 3 (uncertain Redinbaugh 2022 citation hedge "*Neuron* (or analogous primate neocortex emergence work)" corrected to the 2022 *Science Advances* DBS paper; Saper et al. (2010) cited inline but missing from References list — added as Ref 12; Cruse et al. (2011) cited inline but missing from References list — added as Ref 13)
+- **Medium issues addressed**: 0 (one borderline issue noted — quantum-coupling phrase before evidential-tier framing — left in place because surrounding "suggestive but unresolved" language preserves calibration integrity)
+- **Enhancements made**: Bibliographic integrity raised to match article's empirical care; no prose changes needed beyond reference list
+- **Reasoning-mode classification**: Not applicable — article does not engage named philosophical opponents in direct-refutation style. §Relation to Site Perspective uses Mode Three (framework-boundary marking) honestly, disclaiming what active reboot does *not* establish. No boundary-substitution or label-leakage to flag.
+- **Calibration check**: No possibility/probability slippage. Article repeatedly distinguishes structural facts from interpretive readings, labels each at the correct evidential tier (realistic-possibility for interface architecture, live-hypothesis for the interactionist reading), and explicitly disclaims what the finding does not establish. Tenet-accepting reviewer would not flag the calibration as overstated.
+- **Stability notes**: Bedrock physicalist disagreement with interface reading should not be re-flagged as critical in future reviews. Cross-tenet quantum-coupling question is genuinely open; "suggestive but unresolved" framing should be preserved.
+- **Output**: [[reviews/deep-review-2026-05-18-active-reboot]]
 
 ## 2026-05-18T18:00:00+00:00 - deep-review
 - **Status**: Success
