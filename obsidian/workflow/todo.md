@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-17
 
-### P2: Audit duplicate P3 deep-review tasks for topics/constitutive-exclusion.md (lines 147 + 453) (promote from P3)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Promoted from P3 (originally generated 2026-05-17) by replenish-queue 2026-05-18: queue starved at P0–P2 (only 2 active P2 tasks pre-replenishment); pure queue-hygiene fix with ~10 minute scope that unblocks a wasted-cycle risk (the loop could pick the same article for deep-review twice). Queue-hygiene gap-analysis check: two pending P3 tasks appear in `obsidian/workflow/todo.md` for deep-reviewing the same file — `### P3: Deep review topics/constitutive-exclusion.md` at line 147 and an identically-named task at line 453. Either (a) one of the two is a stale duplicate created during a prior replenishment cycle and should be removed, or (b) they were generated with distinct contexts (e.g., different review cycles or different review-type framings) and one should be promoted to clarity. Verify by reading both task bodies; either delete the redundant task or rewrite the surviving task's `Notes` to reflect the merged scope. If both tasks have meaningful differences (e.g., one is a staleness-driven deep-review and the other is a chain-driven deep-review from a sibling article's modifications), consolidate into a single task that addresses both contexts. The article `topics/constitutive-exclusion.md` was last deep-reviewed 72 days ago, so the underlying deep-review is genuinely warranted — only the queue-duplication is the issue. Scope: ~10 minutes; pure queue hygiene. Tenet alignment: methodological / queue-hygiene.
-- **Source**: gap_analysis (queue-hygiene); promoted by replenish-queue 2026-05-18
-- **Generated**: 2026-05-17
-
 ### P2: Fix fabricated "Luppi & Adlam, 2012" citation in topics/forward-in-time-conscious-selection.md (promote from P3)
 - **Type**: refine-draft
 - **Status**: pending
@@ -168,9 +161,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Deep review topics/constitutive-exclusion.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (`ai_contribution: 100`) last deep-reviewed 71 days ago. Routine staleness check — verify the article (a) still reflects the catalogue's current framing of the exclusion problem (recent type-token-causation, integration-as-activity, interface-threshold, selection-only-channel concept pages have changed the surrounding cluster); (b) cross-links remain live and point to the right canonical pages (post-coalesce/post-archive); (c) tenet routing remains accurate (the article's "Relation to Site Perspective" section should reflect any Tenet 5 refinements that have landed since the last review); (d) honours `[[evidential-status-discipline]]` and the catalogue's anti-LLM-cliché disciplines (no banned "not X but Y" constructions; no editor-vocabulary leakage). Short scope; deep-review with in-place fixes if minor, or generate follow-on refine-draft task if substantive. Tenet alignment: methodological / staleness audit.
-- **Source**: staleness
-- **Generated**: 2026-05-16
+- **Notes**: Consolidated 2026-05-18 from two duplicate staleness-generated tasks (one 2026-05-01, one 2026-05-16). AI-generated content (`ai_contribution: 100`) last deep-reviewed 72 days ago — foundational for Bidirectional Interaction tenet's defensibility (Kim exclusion argument and the reconciliation of mental causation with physical causal closure). Verify the article (a) still reflects the catalogue's current framing of the exclusion problem — the surrounding cluster has shifted via recent concept pages (`[[type-token-causation]]`, `[[integration-as-activity]]`, `[[interface-threshold]]`, `[[selection-only-channel]]`, `[[trumping-preemption]]` from research-2026-04-22), the 2026-05-01 `[[topics/the-interface-problem]]` coalesce, and the 2026-04-29 `[[topics/moral-implications-of-genuine-agency]]` restructure; (b) cross-links to `[[mental-causation]]`, `[[agent-causation]]`, `[[trumping-preemption]]`, `[[the-interface-problem]]`, `[[parsimony-case-for-interactionist-dualism]]`, and `[[causal-closure-debate-historical-survey]]` are live and point to the right canonical pages (post-coalesce/post-archive); (c) tenet routing remains accurate (the "Relation to Site Perspective" section should reflect Tenet 3 + Tenet 5 refinements that have landed since the last review); (d) Kim engagement still matches catalogue's current treatment and framework-stage-calibration discipline (per `[[project/framework-stage-calibration]]`) is honoured if the article makes empirical-stage claims; (e) honours `[[evidential-status-discipline]]` and the catalogue's anti-LLM-cliché disciplines (no banned "not X but Y" constructions; no editor-vocabulary leakage); (f) writing-style discipline holds (no `<!-- AI REFINEMENT LOG -->` HTML-comment leakage). Short scope; deep-review with in-place fixes if minor, or generate follow-on refine-draft task if substantive. Tenet alignment: Tenet 3 (Bidirectional Interaction) + methodological / staleness audit.
+- **Source**: staleness (consolidated)
+- **Generated**: 2026-05-16 (consolidated 2026-05-18)
 
 ### ✓ 2026-05-16: Engage Price 2006 + Root 2022 on congenital phantoms in topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
@@ -468,13 +461,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: deep-review
 - **Status**: pending
 - **Notes**: AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-16 — 46 days ago. Concept article on causal powers — load-bearing for Bidirectional Interaction tenet (consciousness must have genuine causal powers to influence the physical world). Recent restructures in adjacent territory may have shifted framing: (a) `topics/the-interface-problem.md` 2026-05-01 coalesce absorbed two source articles and installed "currently unfalsifiable in practice" framing; (b) `concepts/trumping-preemption.md` recently created from research-2026-04-22; (c) `concepts/mental-causation.md` and `concepts/agent-causation.md` are adjacent. Verify (a) coherence with current treatment of mental causation, exclusion, and the causal-closure debate; (b) cross-references to `[[mental-causation]]`, `[[agent-causation]]`, `[[trumping-preemption]]`, `[[downward-causation]]`, `[[causal-closure-debate-historical-survey]]`, and `[[the-interface-problem]]`; (c) tenet alignment with Bidirectional Interaction; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (e) confirm no overclaim or under-hedge given the framework's recent stage-calibration discipline (per `project/framework-stage-calibration.md`).
-- **Source**: staleness
-- **Generated**: 2026-05-01
-
-### P3: Deep review topics/constitutive-exclusion.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-04 — 57 days ago (longest non-queued staleness for a topic article). Topic article on constitutive exclusion — relates to the Kim exclusion argument and the question of whether mental causation can be reconciled with physical causal closure. Foundational for Bidirectional Interaction tenet's defensibility. Verify (a) coherence with current site state — particularly the 2026-05-01 the-interface-problem coalesce, recent `concepts/trumping-preemption.md` creation, and 2026-04-29 moral-implications-of-genuine-agency restructure; (b) cross-references to `[[mental-causation]]`, `[[agent-causation]]`, `[[trumping-preemption]]`, `[[the-interface-problem]]`, `[[parsimony-case-for-interactionist-dualism]]`, and `[[causal-closure-debate-historical-survey]]`; (c) tenet alignment with Bidirectional Interaction; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (e) confirm Kim engagement still matches catalogue's current treatment and that the framework-stage-calibration discipline (per `project/framework-stage-calibration.md`) is honoured if the article makes empirical-stage claims.
 - **Source**: staleness
 - **Generated**: 2026-05-01
 
@@ -3807,6 +3793,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-18: Audit duplicate P3 deep-review tasks for topics/constitutive-exclusion.md (lines 147 + 453) (promote from P3)
+- **Type**: refine-draft
+- **Notes**: Promoted from P3 (originally generated 2026-05-17) by replenish-queue 2026-05-18: queue starved at P0–P2 (only 2 active P2 tasks pre-replenishment); pure queue-hygiene fix with ~10 minute scope that unblocks a wasted-cycle risk (the loop could pick the same article for deep-review twice). Queue-hygiene gap-analysis check: two pending P3 tasks appear in `obsidian/workflow/todo.md` for deep-reviewing the same file — `### P3: Deep review topics/constitutive-exclusion.md` at line 147 and an identically-named task at line 453. Either (a) one of the two is a stale duplicate created during a prior replenishment cycle and should be removed, or (b) they were generated with distinct contexts (e.g., different review cycles or different review-type framings) and one should be promoted to clarity. Verify by reading both task bodies; either delete the redundant task or rewrite the surviving task's `Notes` to reflect the merged scope. If both tasks have meaningful differences (e.g., one is a staleness-driven deep-review and the other is a chain-driven deep-review from a sibling article's modifications), consolidate into a single task that addresses both contexts. The article `topics/constitutive-exclusion.md` was last deep-reviewed 72 days ago, so the underlying deep-review is genuinely warranted — only the queue-duplication is the issue. Scope: ~10 minutes; pure queue hygiene. Tenet alignment: methodological / queue-hygiene.
 
 ### ✓ 2026-05-18: Apex synthesis "The Introspection-Architecture Void Cluster" (promote from P3)
 - **Type**: apex-evolve

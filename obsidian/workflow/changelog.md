@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T10:30:00+00:00
+ai_modified: 2026-05-18T13:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T13:15:00+00:00 - refine-draft (queue-hygiene)
+- **Status**: Success
+- **File**: `obsidian/workflow/todo.md` (queue dedup, not an article refine)
+- **Action**: Consolidated two duplicate P3 deep-review tasks for `topics/constitutive-exclusion.md` (one generated 2026-05-01, one generated 2026-05-16) into a single surviving task at the 2026-05-16 position. Merged the older task's specific cross-reference checklist (`mental-causation`, `agent-causation`, `trumping-preemption`, `the-interface-problem`, `parsimony-case-for-interactionist-dualism`, `causal-closure-debate-historical-survey`) and its catalogue-shift context (2026-05-01 the-interface-problem coalesce, 2026-04-29 moral-implications-of-genuine-agency restructure) into the surviving task's Notes; preserved the newer task's recent surrounding-cluster signal (type-token-causation, integration-as-activity, interface-threshold, selection-only-channel concept pages) and updated staleness reading to 72 days. Surviving task tagged `Source: staleness (consolidated)` and `Generated: 2026-05-16 (consolidated 2026-05-18)`. Deleted the duplicate at the former line 474.
+- **Driver**: Promoted P3→P2 by replenish-queue 2026-05-18 (queue starved); wasted-cycle risk (loop could pick the same article twice).
+- **Outcome**: Single deep-review task remains for `topics/constitutive-exclusion.md`; underlying deep-review (genuinely warranted at 72d staleness) preserved for a future cycle. No edits to the article itself.
+- **Published**: yes (todo.md only — no article changes)
 
 ## 2026-05-18T10:30:00+00:00 - apex-evolve
 - **Status**: Complete (mode: create)
