@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-16 06:39:00+00:00
+ai_modified: 2026-05-18 18:53:31+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -41,6 +41,7 @@ related_articles:
 - '[[pragmatisms-path-to-dualism]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
 - '[[functional-seeming]]'
+- '[[anaesthesia-and-the-consciousness-interface]]'
 title: Self-Stultification as Master Argument
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -78,6 +79,8 @@ The epiphenomenalist who presents arguments, responds to objections, and revises
 The [convergence with illusionism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) deepens this point: illusionism inherits the same self-stultification because it preserves exactly the causal structure that generates the problem—phenomenal properties remain causally idle whether they are declared inert or declared non-existent. Frankish's [functional-seeming](/concepts/functional-seeming/) defence—that "seeming conscious" reduces to functional dispositions—reinforces rather than evades the problem: if the illusionist's own assessment of consciousness is merely functional, their reasoning is causally identical to a [zombie's](/concepts/philosophical-zombies/).
 
 Phenomenal intentionality adds a further layer: the belief in epiphenomenalism must be genuinely *about* consciousness—it must have determinate intentional content directed at phenomenal experience. If the [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) is correct, this aboutness itself requires phenomenal character. The epiphenomenalist's position is thus doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character is required to give the denial its content.
+
+[Ketamine anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) provides the catalogue's strongest clinical worked exhibit of the master argument applied to a specific pharmacological context. Patients under ketamine show behavioural unresponsiveness matching propofol, yet later report vivid experiences—elaborate dreams, perceived journeys, encounters with other beings—with brain dynamics showing wakefulness-like complexity (Sarasso et al. 2015). The retrospective reports demonstrate that consciousness during the dissociated interval maintained its causal connection to memory encoding, even when severed from behavioural output. If consciousness were epiphenomenal during this state, the reports would be self-stultifying in the strongest sense: their reliable correspondence to a phenomenally rich interval would presuppose the very causal efficacy epiphenomenalism denies. The pharmacological case sharpens the general argument because the dissociation is mechanistically isolable: ketamine's NMDA antagonism severs access channels while sparing the phenomenal interface, producing a clinical configuration where the self-stultification problem appears at a specific, drug-induced, time-bounded interval rather than diffusely across waking life.
 
 ### Physicalism and the Argument from Reason
 
@@ -197,4 +200,17 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 1. Plantinga, A. (1993). *Warrant and Proper Function*. Oxford University Press.
 1. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.
+1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1.
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Changes made:
+- Added a paragraph in §Epiphenomenalism (following the phenomenal-intentionality paragraph) citing the ketamine + self-stultification engagement from anaesthesia-and-the-consciousness-interface line 74 as the catalogue's strongest clinical worked exhibit of the master argument applied to a specific pharmacological context. The paragraph names Sarasso et al. 2015 for the dissociation, and frames the pharmacological case as sharpening the general argument because the dissociation is mechanistically isolable, time-bounded, and ketamine-specific rather than diffusely cross-cutting waking life.
+- Preserved all four self-stultification target sections (epiphenomenalism, physicalism, eliminativism, global skepticism) and their existing calibration. The clinical-pharmacological worked exhibit is added as a *case* within the epiphenomenalism section rather than as a new section.
+- Added Sarasso 2015 to references; added anaesthesia-and-the-consciousness-interface to related_articles.
+
+Task: refine-draft from optimistic-2026-05-17.md Medium Priority cross-link installation (d).
+Key improvements: ketamine + self-stultification engagement now reciprocally cited from the master-argument page; pharmacological worked exhibit of the master argument anchored at the right tier.
+
+This log should be removed after human review.
+-->

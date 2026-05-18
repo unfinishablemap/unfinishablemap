@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-14 12:10:00+00:00
+ai_modified: 2026-05-18 18:53:31+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -86,7 +86,7 @@ Different anaesthetics produce identical behavioural outputs—unresponsiveness,
 
 Sarasso et al. (2015) compared brain complexity under propofol, xenon, and ketamine. Propofol and xenon both abolished reported experience but through mechanistically distinct neural signatures. Ketamine preserved wakefulness-like complexity despite equivalent behavioural unresponsiveness—subjects reported long, vivid dreams. Three agents, three distinct neural signatures, two radically different phenomenological outcomes. This pattern refutes naive unified-switch physicalism but not sophisticated functionalism, which accommodates dissociability by positing consciousness realised in coupled subsystems. Filter theory attributes the same dissociable pattern to separable interface components; the [anesthesia void](/voids/anesthesia-void/) examines how the first-person gap underdetermines which decomposition is correct.
 
-Consciousness under anaesthesia does not switch off at a threshold; it narrows continuously as dosage increases—fitting a progressively constricting filter better than a generator being powered down. The [full pharmacological analysis](/topics/anaesthesia-and-the-consciousness-interface/) reveals at least four separable interface components that can be independently disrupted. Sensory information reaches the brain during light sedation but is not perceived (Noreika et al. 2018)—the signal arrives at sensory cortex; the interface blocks transmission.
+Consciousness under anaesthesia does not switch off at a threshold; it narrows continuously as dosage increases—fitting a progressively constricting filter better than a generator being powered down. The [full pharmacological analysis](/topics/anaesthesia-and-the-consciousness-interface/) reveals at least four separable interface components that can be independently disrupted: **phenomenal presence** (whether there is something it is like), **behavioural access** (whether content can drive output), **temporal binding** (whether experience has coherent sequence), and **memory encoding** (whether content is retained). Each component pairs with characteristic pharmacology—propofol and xenon target phenomenal presence through mechanistically distinct routes; ketamine severs access while sparing the phenomenal channel; volatile agents fragment temporal binding; midazolam isolates memory encoding "almost surgically" from other components. This four-component structured-interface vocabulary is the concept-page-level commitment the filter framework makes about what the interface *is*: not a single dimmer but multiple semi-independent channels that pharmacology can engage selectively. Sensory information reaches the brain during light sedation but is not perceived (Noreika et al. 2018)—the signal arrives at sensory cortex; the interface blocks transmission.
 
 ### Hypnagogic Loosening
 
@@ -218,3 +218,14 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 1. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Changes made:
+- Expanded the "Anesthetic Divergence" subsection to install the four-component structured-interface vocabulary at the concept-page level. Each component (phenomenal presence, behavioural access, temporal binding, memory encoding) is now paired with its characteristic pharmacology (propofol/xenon, ketamine, volatile agents, midazolam). The concept-page-level commitment about what the interface *is* — multiple semi-independent channels rather than a single dimmer — is now stated explicitly rather than left implicit in the topic-page treatment.
+- Preserved the existing Sarasso (2015) framing and the rest of the Anesthetic Divergence subsection's calibration intact.
+
+Task: refine-draft from optimistic-2026-05-17.md Medium Priority cross-link installation (b).
+Key improvements: structured-interface vocabulary installed at concept-page tier; upward flow from topic article to concept page corrected.
+
+This log should be removed after human review.
+-->

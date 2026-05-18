@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-11 18:26:00+00:00
+ai_modified: 2026-05-18 15:30:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-26 02:48:00+00:00
 apex_sources:
@@ -38,7 +38,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/GnGdrzel6OA
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-11 18:26:00+00:00
+last_deep_review: 2026-05-18 15:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ Flow thus reveals that the four features are partially dissociable. Selection an
 
 Meditation training provides a longitudinal window into the phenomenology of working consciousness. Beginners find sustained attention intensely effortful. With practice, the effort diminishes — not because consciousness stops working, but because the [interface](/concepts/attention-as-interface/) has been trained. Neural pathways supporting stable attention strengthen, and the brain requires less correction.
 
-Advanced practitioners access modes that illuminate the features from unusual angles. [Witness consciousness](/concepts/witness-consciousness/) — observing without selecting — represents consciousness deliberately adopting passivity. This is not unconsciousness but a mode where selection, holding, and effort are deliberately suspended while awareness continues. The capacity to move between active and witnessing modes is itself an exercise of agency at a higher level — meta-selection of whether to select.
+Advanced practitioners access modes that illuminate the features from unusual angles. [Witness consciousness](/concepts/witness-consciousness/) — observing without selecting — represents consciousness deliberately adopting passivity. Awareness continues, but selection, holding, and effort are deliberately suspended; the mode is therefore distinct from unconsciousness. The capacity to move between active and witnessing modes is itself an exercise of agency at a higher level — meta-selection of whether to select.
 
 Contemplative evidence also bears on the opacity feature. Buddhist traditions describe observing intentions arise with extraordinary precision — noticing the moment of *cetanā* (volition) before action occurs — yet even the most refined introspective access cannot penetrate *how* the intention produces its effect. The opacity holds at every level of contemplative attainment reported across traditions, suggesting it is structural rather than a function of insufficient practice.
 

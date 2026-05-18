@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-05-16 06:55:00+00:00
+ai_modified: 2026-05-18 19:20:42+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,6 +26,7 @@ related_articles:
 - '[[tenets]]'
 - '[[experiential-alignment]]'
 - '[[purpose-and-alignment]]'
+- '[[apex/moral-architecture-of-consciousness]]'
 title: The Consciousness-Value Connection
 topics:
 - '[[meaning-of-life]]'
@@ -132,6 +133,8 @@ This has radical implications. A superintelligent AI that lacks phenomenal consc
 
 The question shifts from "Is it intelligent?" to "Is there something it is like to be it?"
 
+The [moral architecture apex extends this connection with an indexical-token claim](/apex/moral-architecture-of-consciousness/#value-lives-in-experience): *this* token experience matters, not just experiences-of-this-type. The token-versus-type distinction is what constrains how copies, uploads, and replicas figure in moral accounting—if value attached to experience-types alone, qualitatively identical replicas would multiply value; if value attaches to token experiences, the moral status of any particular token is not redundant with the moral status of qualitatively identical tokens elsewhere. This indexical extension is one of the load-bearing routes by which the consciousness-value connection translates into the apex's broader moral architecture, and it is the route by which the [No Many Worlds](/tenets/#no-many-worlds) tenet enters value theory in particular (see the next subsection).
+
 ### For Meaning
 
 The [meaning of life](/topics/meaning-of-life/) connects directly. If value requires consciousness, and meaningful lives require value, then meaning is grounded in conscious experience itself. Nihilism's claim that nothing matters fails because mattering *does* occur—within conscious experience, things genuinely matter. The nihilist's "view from nowhere" is an abstraction that eliminates the only perspectives from which anything could matter at all.
@@ -193,6 +196,7 @@ These conditions do not currently obtain. The connection stands.
 - [panpsychism](/concepts/panpsychism/) — What follows if consciousness is ubiquitous
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — Evaluative qualia and moral phenomenology: how consciousness carries intrinsic evaluative structure
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms the moral landscape
+- [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: the indexical-token extension of the consciousness-value connection within a unified moral framework
 - [tenets](/tenets/) — The foundational commitments grounding this view
 
 ## References
@@ -203,3 +207,13 @@ These conditions do not currently obtain. The connection stands.
 1. Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item g — reciprocate the moral-architecture apex's indexical-token framing extension of the consciousness-value connection).
+- §For Ethics: installed a paragraph after the "Is it intelligent?" → "Is there something it is like to be it?" framing that names the apex's indexical-token extension explicitly. The token-versus-type distinction is stated in the apex's own terms (this token experience matters, not just experiences-of-this-type) and the moral-accounting consequence is named (constrains how copies, uploads, and replicas figure). The paragraph also flags that this indexical extension is what routes the No Many Worlds tenet into value theory specifically, linking forward to the next subsection.
+- Frontmatter: added apex/moral-architecture-of-consciousness to related_articles.
+- §Further Reading: added wikilink to apex/moral-architecture-of-consciousness with one-line description.
+- ai_modified timestamp updated.
+
+This log should be removed after human review.
+-->

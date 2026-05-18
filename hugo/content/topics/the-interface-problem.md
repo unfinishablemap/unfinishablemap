@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-05-15 04:31:00+00:00
+ai_modified: 2026-05-18 17:37:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -26,14 +26,14 @@ concepts:
 - '[[pairing-problem]]'
 - '[[valence]]'
 created: 2026-02-09
-date: &id001 2026-05-05
+date: &id001 2026-05-18
 description: Where does consciousness meet the brain, and how does conscious state
   map to physical selection? The two faces of the central open challenge for The Unfinishable
   Map's interactionist framework.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-09 06:43:00+00:00
+last_deep_review: 2026-05-18 17:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,6 +51,7 @@ related_articles:
 - '[[interface-efficacy-and-the-cognitive-gap]]'
 - '[[empirical-phenomena-mental-causation]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
+- '[[consciousness-and-causal-powers]]'
 title: 'The Interface Problem: Location and Specification'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -120,7 +121,7 @@ Eccles proposed that conscious intention modulates quantum tunneling probability
 
 ### Three Unspecified Candidates
 
-Three candidates remain qualitative. **[Valence](/concepts/valence/) → action selection**: felt pleasure and pain bias approach/avoidance. Pain asymbolia (cognitive recognition without felt badness) supports valence's causal role; [valence may serve as a selection currency](/topics/valence-and-conscious-selection/) for incommensurable outcomes. No quantum mechanism proposed. **Qualia → basis selection**: qualitative character might determine which measurement basis applies — speculative. **Phenomenal unity → sustained entanglement**: experiential binding might correspond to sustained coherence; correlation does not establish direction.
+Three candidates remain qualitative. **[Valence](/concepts/valence/) → action selection**: felt pleasure and pain bias approach/avoidance. Pain asymbolia (cognitive recognition without felt badness) *constrains* the simplest representational claim that felt valence just is nociceptive activation, without on its own *establishing* a quantum-selection reading — a predictive-processing affective-prior account predicts the same dissociation (see [pain-asymbolia](/concepts/pain-asymbolia/) for the constrain-vs-establish discipline). [Valence may serve as a selection currency](/topics/valence-and-conscious-selection/) for incommensurable outcomes, though whether valence enters selection through any quantum mechanism rather than through conventional neurochemistry remains an open fork. No quantum mechanism proposed. **Qualia → basis selection**: qualitative character might determine which measurement basis applies — speculative. **Phenomenal unity → sustained entanglement**: experiential binding might correspond to sustained coherence; correlation does not establish direction.
 
 ## Why Specification Is Hard
 

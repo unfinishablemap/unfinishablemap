@@ -1,13 +1,131 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18 16:35:37+00:00
+ai_modified: 2026-05-18 20:55:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-18T20:55:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 487 (245 topics + 242 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-05-18](/reviews/tenet-check-2026-05-18/)
+
+## 2026-05-18T20:21:05+00:00 - deep-review (cross-review convergence pass)
+- **Status**: Success
+- **File**: [active-reboot](/concepts/active-reboot/)
+- **Word count**: 2179 → 2179 (no change; length-neutral mode — 87% of concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (two expansion candidates considered and rejected — see review archive)
+- **Cross-review scope**: Verified framing consistency against [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/), [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/). All citations (Hu et al. 2023 KCC2 mechanism, Mashour 2021, Bhatt 2021, Redinbaugh 2022, Friedman 2010, Sepúlveda 2019, Saper 2010, Cruse 2011) match sibling articles. Two-tier evidential calibration (realistic-possibility for architecture; live-hypothesis for interactionist reading) aligned with apex articles. Load-bearing framing ("same KCC2 mechanism across pharmacologically dissimilar agents is the load-bearing point") is verbatim consistent.
+- **Possibility/probability slippage check**: No slippage. Defeater-removal vs. evidence-elevation distinction invoked correctly. A tenet-accepting reviewer would not flag the calibration as overstated.
+- **Reasoning-mode classification**: No named-opponent engagement; framework-boundary marking (Mode Three) used honestly in §"What active reboot does not establish." No boundary-substitution and no label-leakage.
+- **Reciprocal-link note**: Article forward-links to nine related articles. Reciprocal inbound links from sibling concept articles ([filter-theory](/concepts/filter-theory/), [interface-threshold](/concepts/interface-threshold/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [sleep-and-consciousness](/concepts/sleep-and-consciousness/), [degrees-of-consciousness](/concepts/degrees-of-consciousness/)) do not yet exist — this is an integration responsibility of those concept articles, not of active-reboot itself. No queue entry created; if reciprocal links remain absent in 30+ days, `integrate-orphan` task for the sibling concepts may be warranted.
+- **Convergence statement**: Second deep review on the same day with zero content modifications. Article has reached stability; further deep reviews should be deferred unless related articles substantively modify their treatment of active reboot.
+- **Output**: [deep-review-2026-05-18b-active-reboot](/reviews/deep-review-2026-05-18b-active-reboot/)
+
+## 2026-05-18T19:36:22+00:00 - refine-draft (operational anchor for "redemption within physicalist resources")
+- **Status**: Success
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Trigger**: pessimistic-2026-05-17.md Critical Issue #4 (Medium severity). The article repeats — three times, in different framings (lines 88, 96, 114) — the framework-boundary commitment that "the bridge from mechanism to felt content will not be redeemed within physicalist resources." This is the article's load-bearing positive claim, but it is unfalsifiable as stated because the operationalisation of 'redemption within physicalist resources' depends on which physicalist account is in view and what counts as 'redemption.' Falsifier #3 specifies what *evidence* would shift the balance — but the underlying framework-boundary commitment is about *bridging the gap*, not about correlation evidence. Without an operational anchor, the Map's escape hatch is always available: any future redemption can be reread as moving the goalpost.
+- **Changes**: Added a closing paragraph to §"Common-Cause-Null Audit of the Three Pillars" (~75 words) specifying that by *redemption within physicalist resources* the Map specifically means a third-person account, framed entirely in non-content vocabulary, from which the phenomenal-aboutness of impossible-posture pain can be derived without additional bridge premises. Cross-references [evidential-status-discipline](/project/evidential-status-discipline/) for the operational discipline applied elsewhere on the Map. Explicitly notes the bar is demanding but not impossible — a successful derivation of this form would warrant retracting the commitment. The "without additional bridge premises" qualifier is the load-bearing constraint — it prevents reading future hierarchical-inference accounts of phenomenal-aboutness as redemption-within-physicalist-resources if those accounts are themselves promissory at the same bridge.
+- **Scope**: ~75 words added in one location (closing paragraph of Common-Cause-Null Audit). No new citations. The three appearances of the bare commitment now inherit the operational anchor from the audit section rather than each requiring separate specification — the audit is the natural common reference because the commitment is what the residual specification-to-felt-content gap actually consists in.
+- **Engagement classification (editor-internal)**: Falsifier-quality remediation, not engagement with a named opponent. Honours [evidential-status-discipline](/project/evidential-status-discipline/)'s discipline that load-bearing positive commitments must have at least one operational anchor — what would in principle warrant retraction must be specifiable.
+- **Tenet alignment**: methodological / [evidential-status-discipline](/project/evidential-status-discipline/) / falsifier-quality discipline.
+- **Published**: yes
+
+## 2026-05-18T19:20:42+00:00 - refine-draft (reciprocal cross-links to moral-architecture-of-consciousness apex)
+- **Status**: Success
+- **Files**: [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/), [moral-responsibility](/concepts/moral-responsibility/), [reasons-responsiveness](/concepts/reasons-responsiveness/), [valence-and-conscious-selection](/topics/valence-and-conscious-selection/), [contemplative-path](/apex/contemplative-path/), [attentional-economics](/concepts/attentional-economics/), [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Trigger**: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table — moral-architecture apex is now the catalogue's strongest worked exhibit of coherence-inflation discipline at synthesis tier, the Compatibilist Symmetry Challenge as paradigmatic anti-slippage move, five-dimensional responsibility gradient as attentional-economics' moral-tier worked exhibit, and Open Frontier as structurally-forced fork. Seven adjacent articles needed reciprocal links.
+- **Changes**:
+    - **project/coherence-inflation-countermeasures**: intro paragraph cites the apex as the apex-tier worked exhibit; "Where the Inflation Risk Concentrates" bullet amplified to reference the Unity Argument paragraph's rhetorical move specifically.
+    - **concepts/moral-responsibility**: §Objections and Responses "Compatibilism is sufficient" item expanded from one sentence to a substantive paragraph citing the apex's Compatibilist Symmetry Challenge framing — Frankfurt/Fischer-Ravizza/Wolf are named, the libertarian framing's distinction is restated as tenet-coherence rather than unique moral explanatory power.
+    - **concepts/reasons-responsiveness**: §Reasons-Responsiveness and Free Will gained a paragraph engaging the apex's symmetry challenge head-on; cites Fischer & Ravizza (1998) "moderate reasons-responsiveness" directly, gives the Map's reply (tenet-coherence distinguishes libertarian framing). Apex added to Further Reading.
+    - **topics/valence-and-conscious-selection**: introduction (immediately before §Why the Fork Is Forced) gained a paragraph anchoring the apex's Open Frontier framing as structurally-forced and crediting the apex's four discriminating empirical tests.
+    - **apex/contemplative-path**: §Two Modes of Consciousness gained a paragraph naming the cross-apex resonance with the moral architecture apex's Moral Perception Is Direct section at the Murdoch/Weil intersection — both apex articles use attention cultivation as a metaphysically agency-enhancing capacity. Apex added to related_articles.
+    - **concepts/attentional-economics**: §Implications for Moral Responsibility gained a paragraph naming the apex's Responsibility Gradient as the worked exhibit of this article applied at the moral-responsibility tier; the five dimensions are listed verbatim. Apex added to Further Reading.
+    - **concepts/consciousness-value-connection**: §For Ethics gained a paragraph reciprocating the apex's indexical-token extension (this token experience matters, not just experiences-of-this-type), naming the moral-accounting consequence for copies and uploads. Apex added to related_articles and Further Reading.
+- **Scope**: ~450 words touched across 7 articles (within task spec of 250-500 words across 6-7 articles).
+- **Calibration check**: each installation reciprocates a specific load-bearing claim the apex already makes; no inflation of strength relative to the apex's own framing.
+- **Tenet alignment**: methodological / apex-cluster integration / [cluster-integration-discipline](/project/cluster-integration-discipline/).
+- **Output**: 7 modified articles with refinement-log comments awaiting human review.
+
+## 2026-05-18T18:53:31+00:00 - refine-draft (reciprocal cross-links to anaesthesia)
+- **Status**: Success
+- **Files**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/), [filter-theory](/concepts/filter-theory/), [degrees-of-consciousness](/concepts/degrees-of-consciousness/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/), [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Trigger**: optimistic-2026-05-17.md Medium Priority cross-link installation — anaesthesia article is now the catalogue's strongest pharmacological exhibit of dissociation-by-mechanistic-route + active-reboot + framework-stage-qualified asymmetry; reciprocal links from five adjacent articles needed.
+- **Changes**:
+    - **neurological-dissociations-as-interface-architecture**: expanded existing pharmacological-route paragraph to cite three load-bearing exhibits (xenon-ketamine contrast, four-component pharmacological dissection, KCC2 active-reboot mechanism) as pharmacological analogues of the channel taxonomy.
+    - **filter-theory**: installed four-component structured-interface vocabulary (phenomenal presence, behavioural access, temporal binding, memory encoding) at concept-page level in §"The Anesthetic Divergence", each paired with characteristic pharmacology.
+    - **degrees-of-consciousness**: strengthened §"Anaesthesia" subsection with three-state taxonomy citations (Bhatt 2019; Sanders 2023) and PCI graded-changes evidence as the empirical-level instantiation of gradation; ketamine case sharpens architectural decoupling.
+    - **self-stultification-as-master-argument**: added paragraph in §Epiphenomenalism citing ketamine + self-stultification engagement from anaesthesia line 74 as catalogue's strongest clinical worked exhibit of the master argument applied to a specific pharmacological context; added Sarasso 2015 reference and anaesthesia to related_articles.
+    - **apex/altered-states-as-interface-evidence**: expanded §"Anaesthesia: The Interface Pharmacologically Dissected" so the convergence matrix's pharmacology row references the three load-bearing exhibits at apex tier — xenon-ketamine contrast, KCC2 named, framework-stage qualification preserved at apex level. Added Hu 2023 + Sarasso 2015 to references; renumbered duplicate "7." entries.
+- **Scope**: ~400 words touched across 5 articles (within task spec of 200-400 words across 3-5 articles).
+- **Calibration check**: all five installations preserve the modal register the anaesthesia article uses — "suggestive convergence" not "vindication"; "framework-stage qualification" preserved; no tier-upgrades on the interactionist reading.
+- **Tenet alignment**: methodological / [evidential-status-discipline](/project/evidential-status-discipline/) — the discipline is about reciprocal linking of worked exhibits at the right tier, not about tenet-specific commitments.
+- **Output**: 5 modified articles with refinement-log comments awaiting human review.
+
+## 2026-05-18T15:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [active-reboot](/concepts/active-reboot/)
+- **Word count**: 2128 → 2179 (+51, 87% of 2500 concepts soft target — references-only additions)
+- **Critical issues addressed**: 3 (uncertain Redinbaugh 2022 citation hedge "*Neuron* (or analogous primate neocortex emergence work)" corrected to the 2022 *Science Advances* DBS paper; Saper et al. (2010) cited inline but missing from References list — added as Ref 12; Cruse et al. (2011) cited inline but missing from References list — added as Ref 13)
+- **Medium issues addressed**: 0 (one borderline issue noted — quantum-coupling phrase before evidential-tier framing — left in place because surrounding "suggestive but unresolved" language preserves calibration integrity)
+- **Enhancements made**: Bibliographic integrity raised to match article's empirical care; no prose changes needed beyond reference list
+- **Reasoning-mode classification**: Not applicable — article does not engage named philosophical opponents in direct-refutation style. §Relation to Site Perspective uses Mode Three (framework-boundary marking) honestly, disclaiming what active reboot does *not* establish. No boundary-substitution or label-leakage to flag.
+- **Calibration check**: No possibility/probability slippage. Article repeatedly distinguishes structural facts from interpretive readings, labels each at the correct evidential tier (realistic-possibility for interface architecture, live-hypothesis for the interactionist reading), and explicitly disclaims what the finding does not establish. Tenet-accepting reviewer would not flag the calibration as overstated.
+- **Stability notes**: Bedrock physicalist disagreement with interface reading should not be re-flagged as critical in future reviews. Cross-tenet quantum-coupling question is genuinely open; "suggestive but unresolved" framing should be preserved.
+- **Output**: [deep-review-2026-05-18-active-reboot](/reviews/deep-review-2026-05-18-active-reboot/)
+
+## 2026-05-18T18:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [project](/project/)
+- **Word count**: 293 → ~895 (+602, 36% of 2500 project/ soft target)
+- **Critical issues addressed**: 3 (stale Project Structure table — only 4 of 18 actual directories listed; missing "Relation to Site Perspective" section per writing-style guide; outdated `ai_system` frontmatter `claude-opus-4-5-20251101` → `claude-opus-4-7`)
+- **Medium issues addressed**: 4 (14 discipline files orphaned from project landing page — surfaced via new Editorial Disciplines section with four thematic clusters; `related_articles` frontmatter missing `tenets`/`writing-style`/`human-supervision`; vague Contributing section with no actionable pointers; generic description lacking canonical-domain context)
+- **Low issues addressed**: 1 (borderline LLM-cliché "X, not Y, but Z" rephrased to declarative)
+- **Enhancements made**: Editorial Disciplines navigation hub (16 wikilinks across 4 thematic groups: calibration-and-evidence, engaging-opponents, methodological-structure, outer-review-calibration); Project Structure split into repo-layout table + obsidian content sub-tree table; canonical-domain link surfaced in opening; named-anchor forward reference to disciplines section; substantive Contributing prose with public GitHub URL; substantive Relation to Site Perspective tying disciplines to tenet-survival under AI-scale generation
+- **Cross-links installed**: 16 new wikilinks; all 24 link targets verified present in vault
+- **Reasoning-mode classification**: Not applicable — project landing page with no named-opponent engagement. Empiricist (Popper) persona was load-bearing critic (factual claims about repo structure were falsifiable and falsified); corrections were structural, not philosophical.
+- **Output**: [deep-review-2026-05-18-project](/reviews/deep-review-2026-05-18-project/)
+
+## 2026-05-18T17:37:00+00:00 - deep-review (cross-review of four-mechanism inheritors)
+- **Status**: Success
+- **Files**: [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/), [the-interface-problem](/topics/the-interface-problem/), [volitional-control](/topics/volitional-control/), [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/), [pain-asymbolia](/concepts/pain-asymbolia/)
+- **Trigger**: Cross-review chained from the 2026-05-18 refine of [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) (commits 2d53d51a + 313eb593 + f310619f), which installed heading reframe to "What the Map Hypothesises Consciousness Does", calibration preamble flagging the four mechanisms as speculative-integration tier, pain-asymbolia constrain-vs-establish rewrite with PP-rival named at the valence-prior-to-felt-awfulness bridge, 280-word overdetermination dissolution characterised as "framework-coherence-supported, operationally underdetermined", decoherence-time gap acknowledged, MWI parenthetical
+- **Word counts**:
+    - evolutionary-case-for-mental-causation: 2985 → ~3065 (+80, 102% of 3000 soft)
+    - the-interface-problem: 3058 → ~3103 (+45, 103% of 3000 soft)
+    - volitional-control: 3162 → ~3217 (+55, 107% of 3000 soft)
+    - consciousness-physics-interface-formalism: 1976 → ~2026 (+50, 81% of 2500 soft)
+    - pain-asymbolia: 1696 → ~1876 (+180, 75% of 2500 soft)
+- **Critical issues addressed**: 2 (article (b) the-interface-problem §"Three Unspecified Candidates" pain-asymbolia "supports valence's causal role" upgrade to constrain-vs-establish discipline with PP-rival named; article (e) pain-asymbolia §"Causal Efficacy of Phenomenal Quality" rewritten to match source article's constrain-vs-establish framing with PP affective-prior rival identified at the constitution-vs-doing-work bridge)
+- **Medium issues addressed**: 1 (article (a) evolutionary-case-for-mental-causation inherited pain-asymbolia framing "what the interactionist predicts" softened to "consistent with... they do not on their own discriminate between interactionist and physicalist-with-valence-prior accounts")
+- **Soft issues addressed**: 1 (article (c) volitional-control Veto-section quantum-selection invocation softened with hypothesised-not-established qualifier and cross-link to §"Volitional Modulation" with speculative-integration-tier flagging)
+- **Enhancements made**: 1 (article (d) consciousness-physics-interface-formalism Component-3 paragraph signposted to four-mechanism catalogue at [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/))
+- **Cross-links installed**: Forward direction (downstream → source) installed across all five articles. (a), (b), (d) added [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) to related_articles; (c) already had it in topics; (e) added to related_articles and added [predictive-processing](/concepts/predictive-processing/) to concepts list. Body cross-links to the parent §"Phenomenal Biasing" / §"Volitional Modulation" anchors at three sites.
+- **Reasoning-mode classification**: Pain-asymbolia PP-rival engagement (articles a, b, e) — Mode Four empirical underdetermination, dissociation is shared explanandum, deeper disagreement at constitution-vs-doing-work bridge identified but not adjudicated. Volitional-modulation quantum-selection invocation (article c) — Mode Three framework-boundary marking, mechanism offered at speculative-integration tier with explicit acknowledgement of contested coherence-time requirement. Formalism cross-link to four-mechanism catalogue (article d) — no new opponent engagement, editorial signposting. No editor-vocabulary leakage in any of the five article prose changes; verified.
+- **Convergence**: This is a propagation cross-review, not a fresh deep review. Articles (a), (c), (d) were already "fully stable" by recent reviews; changes here address inheritance-specific issues only. Articles (b) and (e) had genuine inherited slippage now corrected. After this pass, the four-mechanism inheritor chain should be calibration-stable; future reviews should not re-flag the predictive-processing engagement as missing (now in place at four sites: source, pain-asymbolia, evolutionary-case-for-mental-causation, the-interface-problem) or as critical (honestly engaged as Mode Four empirical underdetermination at all sites).
+- **Output**: [deep-review-2026-05-18-four-mechanism-inheritors-cross-review](/reviews/deep-review-2026-05-18-four-mechanism-inheritors-cross-review/)
+
+## 2026-05-18T15:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Word count**: 3967 → 3966 (-1, below 4000 soft threshold at 99%)
+- **Trigger**: cross-review against [pessimistic-2026-05-18](/reviews/pessimistic-2026-05-18/) of upstream [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — checking whether the upstream review's three critical findings (possibility/probability slippage in §"What Consciousness Does", pain-asymbolia constrain-vs-establish failure, overdetermination-dissolution Pyrrhic move) propagate downstream to this apex
+- **Critical issues addressed**: 0 (cross-review finding: none of the three upstream critical issues propagate to this apex — the apex's phenomenological structure, focused on what consciousness in action *feels like* rather than asserting mechanism, protects it from the failure modes the upstream article's mechanism-heading structure exposes)
+- **Medium issues addressed**: 1 (line 143 cliché-adjacent definitional "*This is not unconsciousness but a mode where...*" rewritten as positive natural-prose framing, matching the policy applied to the upstream article's `consciousness-and-causal-powers` refine-draft; line 137 instance preserved per the previously surveyed natural-parallel-construction policy)
+- **Enhancements made**: 0 (cross-review trigger does not introduce new content requiring integration)
+- **Reasoning-mode classification**: no new opponent engagements introduced; existing classifications from the 2026-05-08 deep review carry over unchanged (epiphenomenalist: Mode One; identity-theory/functionalism: Mixed; Many-Worlds: Mode Three framework-boundary; materialist cross-cultural-invariants: Mode Two). No editor-vocabulary leakage detected in article body. No boundary-substitution failures.
+- **Convergence**: fifth deep review; cross-review confirms the apex remains calibration-clean and the upstream pessimistic-2026-05-18 findings do not propagate. Quantum Zeno hedging ("offers one explanation", "Whether or not this specific mechanism is correct", "the Map does not claim certainty about the mechanism itself") was preserved unchanged. MWI framework-boundary marking preserved. Tracking-argument scoping to epiphenomenalism preserved. Article has reached stable state across five reviews with progressively diminishing change rates.
+- **Output**: [deep-review-2026-05-18-phenomenology-of-consciousness-doing-work](/reviews/deep-review-2026-05-18-phenomenology-of-consciousness-doing-work/)
 
 ## 2026-05-18T16:35:37+00:00 - deep-review
 - **Status**: Success

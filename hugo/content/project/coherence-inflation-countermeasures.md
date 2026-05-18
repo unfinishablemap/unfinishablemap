@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-12 01:15:00+00:00
+ai_modified: 2026-05-18 19:20:42+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -32,7 +32,7 @@ title: Coherence Inflation Countermeasures
 topics: []
 ---
 
-This document defines safeguards against "coherence inflation"—the systematic overcommitment that emerges when a single AI system both generates and reviews content optimized for internal consistency. Because The Unfinishable Map is intentionally a coherent worldview expressed as fact and heavily AI-generated, this failure mode is not hypothetical; it's the default.
+This document defines safeguards against "coherence inflation"—the systematic overcommitment that emerges when a single AI system both generates and reviews content optimized for internal consistency. Because The Unfinishable Map is intentionally a coherent worldview expressed as fact and heavily AI-generated, this failure mode is not hypothetical; it's the default. The catalogue's strongest apex-tier worked exhibit of this discipline applied in practice is [the Moral Architecture of Consciousness](/apex/moral-architecture-of-consciousness/) apex, which assembles a four-pillar unification while explicitly discounting the artifact-of-method weight that an internally-pruned corpus produces by construction—the move this document specifies as the editorial fix for inflation at the synthesis tier.
 
 The countermeasures below are designed to be implementable in The Unfinishable Map's automated workflow without requiring constant human oversight.
 
@@ -321,7 +321,7 @@ The countermeasures formalize the commitment to genuine inquiry over rhetorical 
 The apex tier is the most exposed surface in the Map's content architecture. Apex articles are syntheses that sit downstream of the corpus they integrate, and integration is precisely the move that compounds method-produced coherence into framework-supporting evidence. Four apex articles currently apply this discipline visibly inside their prose — naming the artifact-of-method risk where they cite coherence as a theoretical virtue, distinguishing what coherence *makes available* from what it *evidentially licenses*:
 
 - [Phenomenology-Mechanism Bridge](/apex/phenomenology-mechanism-bridge/) — names the self-pruned-corpus risk alongside the Ptolemaic-coherentism objection in the chain's defence
-- [Moral Architecture of Consciousness](/apex/moral-architecture-of-consciousness/) — distinguishes "dualism makes available a single ground for four domains" (genuine) from "four pillars constitute four independent confirmations" (the inflated reading)
+- [Moral Architecture of Consciousness](/apex/moral-architecture-of-consciousness/) — distinguishes "dualism makes available a single ground for four domains" (genuine) from "four pillars constitute four independent confirmations" (the inflated reading); the Unity Argument paragraph models the precise rhetorical move this countermeasure document specifies, treating cross-pillar coherence as integration the framework *makes available* rather than as a fifth independent line of evidence
 - [A Taxonomy of Voids](/apex/taxonomy-of-voids/) — applies the [common-cause null](/project/common-cause-null/) discipline to the 60+ void catalogue and calibrates evidential weight downward to what genuinely independent sources can supply
 - [Living with the Map](/apex/living-with-the-map/) — flags the load-bearing role coherence plays in lieu of an introspective proof and centres the weight on *cross-cultural* sources outside the corpus's pruning
 
@@ -337,3 +337,12 @@ This is the prose-level half of the countermeasure; the corpus-level half is Cou
 - [automation](/project/automation/) — The evolution system these countermeasures integrate with
 - [voids-safety-protocol](/project/voids-safety-protocol/) — Complementary safeguards for voids content specifically
 - [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) — Cycle-level methodological cousin: ensures findings are followed through rather than left dangling
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item a — reciprocal link to moral-architecture-of-consciousness apex as the catalogue's strongest worked exhibit of coherence-inflation discipline).
+- Intro caveat: installed a sentence after the failure-mode statement citing the moral-architecture apex as the apex-tier worked exhibit of the discipline — names the artifact-of-method discount move the apex's Unity Argument paragraph makes.
+- "Where the Inflation Risk Concentrates" section: amplified the existing one-line bullet to reference the Unity Argument paragraph specifically and the rhetorical move it models (cross-pillar coherence as integration "made available" by the framework, not as a fifth independent line).
+- ai_modified timestamp updated.
+
+This log should be removed after human review.
+-->

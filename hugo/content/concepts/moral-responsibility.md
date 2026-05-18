@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-14 20:42:00+00:00
+ai_modified: 2026-05-18 19:20:42+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -142,7 +142,7 @@ Three responses: (1) Tegmark's original calculations are disputed—Hameroff's g
 
 **"We can't detect it empirically."** We can't detect consciousness empirically either, yet we're certain we're conscious. The evidence is phenomenological (experience of choice) and argumentative (failures of deterministic alternatives). [introspection](/concepts/introspection/) provides first-person access that tracks genuine features of mental life.
 
-**"Compatibilism is sufficient."** Perhaps. But if people *don't* really deserve anything, moral practice rests on useful fictions. Agent causation offers a framework where moral practice tracks reality.
+**"Compatibilism is sufficient."** Perhaps. But if people *don't* really deserve anything, moral practice rests on useful fictions. Agent causation offers a framework where moral practice tracks reality. The [moral architecture apex's Compatibilist Symmetry Challenge](/apex/moral-architecture-of-consciousness/#the-compatibilist-symmetry-challenge) addresses this objection at length: sophisticated reasons-responsive determinism (Frankfurt, Fischer-Ravizza, Wolf) plausibly secures the same deliberative phenomenology, praise/blame practices, character-formation arc, and moral seriousness as agent causation. The honest answer, considered in moral theory alone, is that the libertarian framing's distinguishing work is tenet-coherence with [dualism](/tenets/#dualism) and [bidirectional interaction](/tenets/#bidirectional-interaction)—not unique moral explanatory power. Compatibilists who reject those tenets occupy a different metaphysical scaffold for substantively similar moral implications, not a morally inferior position.
 
 **"Buddhist ethics shows responsibility without selfhood."** [Buddhism](/concepts/buddhism-and-dualism/) rejects *permanent* self, not moment-to-moment continuity. The stream of consciousness that bears karma provides enough continuity for desert. Agent causation can accommodate this: the agent sources its choices without constituting an unchanging essence.
 
@@ -206,3 +206,11 @@ This framework respects the ordinary intuition that people deserve praise and bl
 1. Tallis, R. (2011). *Aping Mankind*. Acumen.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item b — reciprocate link to the moral-architecture apex's Compatibilist Symmetry Challenge framing).
+- §Objections and Responses, "Compatibilism is sufficient" item: expanded from one sentence to a substantive paragraph that names the apex's symmetry-challenge framing, cites Frankfurt/Fischer-Ravizza/Wolf as the sophisticated-compatibilist tradition the apex engages, and adopts the apex's honest framing — the libertarian view's distinguishing work is tenet-coherence rather than unique moral explanatory power. The article still endorses agent causation but no longer treats compatibilism as a position whose adherents have settled for moral fiction; it engages compatibilism's substantive desert claims directly.
+- ai_modified timestamp updated.
+
+This log should be removed after human review.
+-->

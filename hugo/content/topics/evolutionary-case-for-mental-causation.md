@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-04-23 06:38:00+00:00
+ai_modified: 2026-05-18 17:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,14 +15,14 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[philosophical-zombies]]'
 created: 2026-02-05
-date: &id001 2026-02-05
+date: &id001 2026-05-18
 description: Evolution provides significant evidence that consciousness causally contributes
   to intelligence—but physicalists and dualists both accept this. The further step
   to non-physicality requires additional arguments.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-02 01:45:00+00:00
+last_deep_review: 2026-05-18 17:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[interactionist-dualism]]'
 - '[[consciousness-influence-intelligence-2026-01-21]]'
 - '[[consciousness-evolution-and-biology]]'
+- '[[consciousness-and-causal-powers]]'
 title: The Evolutionary Case for Mental Causation
 topics:
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
@@ -74,7 +75,7 @@ The epiphenomenalist must explain this correlation without invoking mental causa
 
 The interactionist has a straightforward answer: pleasures promote the behaviours they accompany *because* the pleasures cause approach behaviour. Pains prevent the behaviours they accompany *because* the pains cause avoidance. The tracking is not coincidental; it reflects causal connection—[valence functions as the currency](/topics/valence-and-conscious-selection/) through which consciousness selects fitness-promoting outcomes.
 
-Sophisticated epiphenomenalists might respond that neural systems optimized for adaptive behavior would tend to produce corresponding phenomenal states as a byproduct—not by coincidence but by co-optimization. Yet this response faces its own difficulty: it requires that the *specific character* of experiences (why pain feels bad rather than good) tracks biological significance without that character mattering. The neural system must somehow "know" to pair beneficial behaviors with pleasant experiences and harmful ones with unpleasant experiences, even though pleasantness and unpleasantness are supposedly causally inert. The alternative—that phenomenal valence is arbitrary—would predict that some organisms might experience injury as pleasant and feeding as painful, yet still avoid injury and seek food. Such cases are rare but not entirely absent: pain asymbolia patients perceive pain without finding it unpleasant, yet their avoidance behaviours are impaired—which, notably, is what the interactionist predicts if phenomenal valence drives behaviour (see [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) for the full argument). Congenital insensitivity to pain, where pain experience is absent entirely, likewise impairs protective behaviour. These clinical cases complicate the picture but arguably support rather than undermine the link between phenomenal character and adaptive function.
+Sophisticated epiphenomenalists might respond that neural systems optimized for adaptive behavior would tend to produce corresponding phenomenal states as a byproduct—not by coincidence but by co-optimization. Yet this response faces its own difficulty: it requires that the *specific character* of experiences (why pain feels bad rather than good) tracks biological significance without that character mattering. The neural system must somehow "know" to pair beneficial behaviors with pleasant experiences and harmful ones with unpleasant experiences, even though pleasantness and unpleasantness are supposedly causally inert. The alternative—that phenomenal valence is arbitrary—would predict that some organisms might experience injury as pleasant and feeding as painful, yet still avoid injury and seek food. Such cases are rare but not entirely absent: pain asymbolia patients perceive pain without finding it unpleasant, yet their avoidance behaviours are impaired. The case is consistent with the interactionist prediction that phenomenal valence drives behaviour; it is also compatible with a predictive-processing account in which a separate valence-prior drives avoidance-policy selection and damage disrupts the prior rather than the experience-doing-causal-work bridge (see [pain-asymbolia](/concepts/pain-asymbolia/) for the constrain-vs-establish discipline that separates the dissociation phenomenon from any specific reading of it, and [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) for the broader argument). Congenital insensitivity to pain, where pain experience is absent entirely, likewise impairs protective behaviour. These clinical cases complicate the picture and are consistent with the link between phenomenal character and adaptive function, though they do not on their own discriminate between interactionist and physicalist-with-valence-prior accounts.
 
 ### The Elaboration Problem
 
@@ -98,7 +99,7 @@ This observation connects the evolutionary argument to the [Minimal Quantum Inte
 
 For the dualist, classical physics presents a problem: its deterministic causal closure leaves no room for mental causation that is not reducible to physical causation. Quantum indeterminacy provides a potential opening—consciousness might bias otherwise undetermined outcomes without injecting energy or violating [conservation laws](/concepts/conservation-laws-and-mental-causation/).
 
-The Map does not claim certainty about the mechanism. The evolutionary argument establishes *that* consciousness is causally efficacious; the further arguments discussed in "The Physicalist Account of Mental Causation" (in the section by that name) address whether this efficacy implies non-physicality; and the quantum hypothesis proposes *how* non-physical causation might operate if dualism is correct. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops the complementary argument: evolution likely built the quantum substrate through which consciousness operates, just as it built the quantum compass in a bird's eye.
+The Map does not claim certainty about the mechanism. The evolutionary argument establishes *that* consciousness is causally efficacious; the further arguments discussed in "The Physicalist Account of Mental Causation" (in the section by that name) address whether this efficacy implies non-physicality; and the quantum hypothesis proposes *how* non-physical causation might operate if dualism is correct. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops the complementary argument: evolution likely built the quantum substrate through which consciousness operates, just as it built the quantum compass in a bird's eye. The Map's specific hypothesised causal architecture — selection of action, sustained attention, phenomenal biasing, volitional modulation — is catalogued at [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), where the four mechanisms are properly flagged as the framework's *hypothesised* causal role at the speculative-integration evidential tier rather than as established findings.
 
 ## Functions Consciousness Enables
 

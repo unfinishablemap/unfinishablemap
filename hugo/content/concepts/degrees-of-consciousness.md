@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-27 19:27:00+00:00
+ai_modified: 2026-05-18 18:53:31+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -57,11 +57,13 @@ These dimensions can vary independently. Ketamine dissociation involves high phe
 
 ### Anaesthesia
 
-[Anaesthetic pharmacology](/topics/anaesthesia-and-the-consciousness-interface/) has established that the transition from consciousness to unconsciousness is not a single step but a series of dissociable transitions. Research identifies at least three distinct states:
+[Anaesthetic pharmacology](/topics/anaesthesia-and-the-consciousness-interface/) is the catalogue's strongest clinical-evidence worked exhibit of graded consciousness. It establishes that the transition from consciousness to unconsciousness is not a single step but a series of dissociable transitions. Research identifies at least three distinct states (Bhatt et al. 2019; Sanders et al. 2023):
 
 - **Connected consciousness** — awareness of self and environment, responsive
 - **Disconnected consciousness** — phenomenal experience persists (dreams, hallucinations) but connection to external stimuli is severed
 - **Unconsciousness** — no reportable experience
+
+Perturbational complexity index (PCI) measurements—the most rigorous current quantitative probe of conscious capacity—show continuous, graded changes under propofol rather than a sharp threshold, directly instantiating gradation at the empirical level rather than only at the phenomenological one. Ketamine sharpens the architectural point: PCI remains at waking levels while consciousness is environmentally disconnected, showing that integration measures and access channels dissociate. The three-state taxonomy combined with PCI's graded readout is the cleanest clinical demonstration that consciousness varies along multiple independent axes rather than along a single depth dimension.
 
 Different agents produce different gradation profiles. Propofol creates relatively sharp transitions. Ketamine preserves vivid phenomenal states while disconnecting access and motor control. Xenon produces graded dimming. Complete [loss of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) under deep anaesthesia represents the endpoint of this gradient, though even here the boundary is contested. The pharmacological diversity of these profiles — each agent targeting distinct molecular systems — maps the interface architecture through which consciousness connects to neural activity.
 
@@ -141,4 +143,18 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 4. Bodien, Y.G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 5. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 6. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness. *Philosophy and the Mind Sciences*, 1(I), 7.
-7. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Minimal Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/minimal-consciousness/
+7. Bhatt, M. B., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.
+8. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
+9. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Minimal Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/minimal-consciousness/
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Changes made:
+- Strengthened the "Anaesthesia" subsection in §Evidence for Gradation to cite the anaesthesia article as the catalogue's strongest clinical-evidence worked exhibit of graded consciousness. Added the three-state taxonomy citations (Bhatt et al. 2019; Sanders et al. 2023) and installed a paragraph naming PCI graded-changes evidence as the empirical-level instantiation of gradation, with the ketamine case as the architectural-decoupling sharpening (PCI at waking levels while consciousness is environmentally disconnected).
+- Preserved the article's existing multidimensional-gradation argument; the additions sharpen the clinical-evidence subsection rather than altering the framework.
+- Added Bhatt 2019 and Sanders 2023 to references.
+
+Task: refine-draft from optimistic-2026-05-17.md Medium Priority cross-link installation (c).
+Key improvements: three-state taxonomy + PCI graded-changes evidence now serve as the clinical-evidence worked exhibit at the concept-page tier.
+
+This log should be removed after human review.
+-->
