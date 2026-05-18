@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18 17:30:00+00:00
+ai_modified: 2026-05-18 16:35:37+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-18T16:35:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
+- **Word count**: 2657 → 2655 (-2, length-neutral mode at 106% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (opening calibration drift — lead paragraph stated realist interpretation of weak values as if established when the article body correctly treats it as contested; tightened "indicating that future boundary conditions contribute genuine physical content" to "on a realist reading of TSVF these anomalous values indicate..." and reframed "provides empirical evidence that quantum systems are shaped by both past preparation and future outcomes" around "real, reproducible pointer shifts that are naturally described as..."; equivalently trimmed §"Status of This Proposal" by consolidating two redundant statements of the structural-analogy point)
+- **Enhancements made**: 0 (length-neutral; previous review's cross-link inventory remains comprehensive)
+- **Reasoning-mode classification**: article does not engage named opponents in extended replies; the §Relation to Site Perspective engagement with Many-Worlds is Mode Three (framework-boundary marking) and properly bounded; no editor-vocabulary leakage detected
+- **Convergence**: second deep review; prior review's stability notes (bedrock disagreements with eliminativists / MWI defenders / empiricists' decisive-falsifiability concerns) remain valid and were not re-flagged. Only correction this pass was an interpretive-register tightening, signalling article stability.
+- **Output**: [deep-review-2026-05-18-weak-measurement-and-post-selection](/reviews/deep-review-2026-05-18-weak-measurement-and-post-selection/)
 
 ## 2026-05-18T17:30:00+00:00 - refine-draft
 - **Status**: Success
