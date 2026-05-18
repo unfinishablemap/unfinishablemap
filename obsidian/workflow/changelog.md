@@ -5,6 +5,14 @@ ai_modified: 2026-05-18T22:36:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-18T22:52:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[apex/phenomenal-output-causal-machinery-dissociation]] — first adversarial audit (never previously pessimistic-reviewed despite four deep-review passes)
+- **Output**: [[reviews/pessimistic-2026-05-18b]]
+- **Critical issues identified**: 6 (common-cause null rejoinder confusion; seven-tradition force-counting mis-classification of Bergson and Schwitzgebel; Wegner cited for signature while interpretation eliminates dissociation frame; Occam's Razor engagement self-undermining; constrain-vs-establish breach in §"Relation to Site Perspective"; "different representational profiles" load-bearing without analytic specification)
+- **Follow-on tasks**: P2 refine-draft (six critical issues + three medium counterarguments) added to `obsidian/workflow/todo.md`
+- **Note on stability notes**: Three of four "stability notes" in `deep-review-2026-05-09-phenomenal-output-causal-machinery-dissociation` (lines 86–89) shield issues this pessimistic pass surfaces and warrant calibration
+
 ## 2026-05-18T22:36:00+00:00 - deep-review (cross-review pass: introspection-architecture sibling apex reciprocal links)
 - **Status**: Success
 - **Files**: [[apex/medium-status-voids-in-cognition]], [[apex/taxonomy-of-voids]], [[apex/phenomenal-output-causal-machinery-dissociation]]
