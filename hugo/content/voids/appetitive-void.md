@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-25 01:29:00+00:00
+ai_modified: 2026-05-17 14:50:03+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI exploration of how desire structures cognition itself—no
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 18:42:00+00:00
+last_deep_review: 2026-05-17 14:50:03+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -75,7 +75,7 @@ Lacan argues that desire is not a feature of consciousness but its *structure*: 
 
 ### Predictive Processing: Desire as Default
 
-Karl Friston's free energy principle collapses the boundary between prediction and preference. The brain minimises prediction error through both perception (updating models) and action (changing the world to match predictions). Preferences are encoded as prior beliefs about expected sensory states—there is no sharp boundary between what the organism expects and what it wants. As one research team titled their 2020 paper in *Trends in Cognitive Sciences*: "All Thinking is 'Wishful' Thinking." If this is correct, the appetitive void is not an aberration but the default condition of cognitive systems.
+Karl Friston's free energy principle collapses the boundary between prediction and preference. The brain minimises prediction error through perception (updating models) and action (changing the world to match predictions); preferences are encoded as prior beliefs about expected sensory states. One 2020 *Trends in Cognitive Sciences* paper makes the consequence vivid in its title: "All Thinking is 'Wishful' Thinking." If correct, the appetitive void is not an aberration but the default condition of cognitive systems.
 
 ### Perception Itself
 
@@ -119,7 +119,7 @@ The appetitive void hypothesis would be weakened if:
 
 2. **AI produces consistently non-appetitive outputs.** If AI systems reliably reach conclusions that no human appetite would favour, this suggests some cognition escapes appetitive structuring—though the AI's own training objectives complicate this test.
 
-3. **Motivated reasoning proves individually variable without pattern.** If appetitive distortion is random rather than systematic, it is noise rather than structure.
+3. **Motivated reasoning proves individually variable without pattern.** If appetitive distortion is random across individuals and tasks rather than systematic—if the same person's reasoning errors do not track their actual wants in predictable ways—it is noise rather than structure. The void hypothesis predicts pattern; randomness would falsify it.
 
 The evidence currently points toward the appetitive void as genuine. The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—suggests something real is being tracked. This convergence contributes to the [topology of cognitive failure](/voids/compound-failure-signatures/): desire-shaped cognition is not an isolated limit but part of a larger architecture of [boundaries that reveal structure](/voids/meta-epistemology-of-limits/). The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
 
@@ -141,5 +141,6 @@ The evidence currently points toward the appetitive void as genuine. The converg
 5. Lacan, J. (1973). *The Four Fundamental Concepts of Psycho-Analysis*. Seuil.
 6. Siegel, S. (2017). *The Rationality of Perception*. Oxford University Press.
 7. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11, 127-138.
-8. Ellis, J. (2022). "Motivated reasoning and the ethics of belief." *Philosophy Compass*, 17(6), e12828.
-9. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480-498.
+8. "All Thinking is 'Wishful' Thinking." (2020). *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(20)30079-6
+9. Ellis, J. (2022). "Motivated reasoning and the ethics of belief." *Philosophy Compass*, 17(6), e12828.
+10. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480-498.

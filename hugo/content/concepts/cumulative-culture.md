@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-11 23:07:00+00:00
+ai_modified: 2026-05-17 14:04:26+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Cumulative culture requires metarepresentation—representing knowl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 23:07:00+00:00
+last_deep_review: 2026-05-17 14:04:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,7 +135,7 @@ The cumulative culture hypothesis generates testable predictions:
 
 Cumulative culture strengthens the evolutionary argument for conscious causation. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert—cumulative culture should be achievable through neural complexity alone. Great apes, with brains only slightly smaller than early human ancestors, should show at least proto-cumulative culture. They don't.
 
-The pattern suggests consciousness does causal work. It enables the metarepresentation that cumulative culture requires. Small changes in conscious capacity produced the vast cultural gap between species—a gap the [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) article frames as a phase transition, where consciousness becomes sufficiently integrated with neural architecture to enable qualitatively new operations. This makes sense only if consciousness causally contributes to cognition rather than merely accompanying it.
+The pattern suggests consciousness does causal work. If the metarepresentational hypothesis is correct, consciousness enables the capacity cumulative culture requires. Small changes in conscious capacity may have produced the vast cultural gap between species—a gap the [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) article frames as a phase transition, where consciousness becomes sufficiently integrated with neural architecture to enable qualitatively new operations. The pattern fits more naturally with consciousness contributing causally to cognition than with consciousness merely accompanying it—though epiphenomenalists may attribute the gap to as-yet-unidentified neural differences rather than to consciousness itself.
 
 This supports the [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis: consciousness doesn't add computational power but enables flexible deployment of cognitive resources. Cumulative culture exemplifies this amplification—the same neural resources that produce stable ape traditions produce exponentially more when consciousness enables metarepresentation.
 
@@ -151,7 +151,7 @@ This response faces several difficulties:
 
 **The zombie reformulation**: A [philosophical zombie](/concepts/philosophical-zombies/)—functionally identical but non-conscious—should achieve cumulative culture if only functional processing is required. Yet cumulative culture requires grasping innovations *as* improvements, not merely processing patterns that correlate with improvement. The zombie would process the same information but wouldn't *know* it was improving anything—it would lack the metarepresentational awareness the task requires.
 
-**The developmental pattern**: Human children show cumulative cultural capacities exactly when phenomenal consciousness expands—around age 4-5 when they pass false-belief tasks (Wellman et al., 2001) and report richer inner experience. If phenomenal consciousness is illusory, this correlation is coincidental.
+**The developmental pattern**: Human children show cumulative cultural capacities exactly when phenomenal consciousness expands—around age 4-5 when they pass false-belief tasks (Wellman et al., 2001) and report richer inner experience. Illusionists can explain this correlation through coordinated maturation of underlying mechanisms, but the convergence of phenomenal report and metarepresentational capacity remains a pattern the illusionist must explain rather than dissolve.
 
 ## Process Philosophy Perspective
 
@@ -161,9 +161,9 @@ Alfred North Whitehead's process philosophy illuminates why cumulative culture m
 
 Buddhist philosophy offers independent analysis of the metarepresentational capacity cumulative culture requires. The distinction between having mental states and knowing that you have them parallels the Buddhist distinction between *vijñāna* (consciousness of objects) and *sampajañña* (clear comprehension of one's mental processes).
 
-*Sampajañña*—typically cultivated through mindfulness practice—involves four aspects: (1) purpose-awareness (*sātthaka*)—knowing why you're doing something; (2) suitability-awareness (*sappāya*)—knowing whether the method fits the goal; (3) domain-awareness (*gocara*)—staying focused on the relevant field; (4) non-delusion (*asammoha*)—clear understanding rather than confusion. Each aspect requires representing one's mental states *as* mental states—precisely the metarepresentational capacity the [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) suggests apes lack.
+*Sampajañña*—cultivated through mindfulness practice—has four aspects: purpose-awareness (*sātthaka*), suitability-awareness (*sappāya*), domain-awareness (*gocara*), and non-delusion (*asammoha*). Each requires representing one's mental states *as* mental states—precisely the metarepresentational capacity the [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) suggests apes lack.
 
-The *Satipaṭṭhāna Sutta* (Foundations of Mindfulness) instructs practitioners to observe "mind in mind"—*cittānupassanā*—recognising mental states as they occur. This reflexive awareness—the mind taking itself as object—corresponds to the declarative metacognition that enables cumulative culture. The Buddha's pedagogy (*desanā*) itself exemplifies conscious cultural transmission: not merely demonstrating practices but explaining their purpose, evaluating their suitability for different students, and explicitly teaching methods of self-evaluation (*yoniso manasikāra*—wise attention).
+The *Satipaṭṭhāna Sutta* instructs practitioners to observe "mind in mind" (*cittānupassanā*)—the reflexive awareness corresponding to the declarative metacognition that enables cumulative culture. The Buddha's pedagogy (*desanā*) exemplifies conscious cultural transmission: explaining purposes, evaluating suitability for different students, teaching methods of self-evaluation.
 
 This contemplative evidence converges with developmental and comparative data: the capacity to represent one's own knowledge as knowledge—whether cultivated through meditation or expressed through cultural innovation—appears to require phenomenal consciousness rather than mere information processing.
 
@@ -187,7 +187,7 @@ The [Dualism](/tenets/#dualism) tenet asserts consciousness is irreducible to ph
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims consciousness causally influences the physical world. Cumulative culture provides a specific mechanism: consciousness enables organisms to represent their knowledge as knowledge, take their practices as objects of evaluation, and deliberately improve upon what previous generations achieved. Without this metarepresentational capacity, cultural accumulation is impossible. If metarepresentation requires consciousness, consciousness causally enables humanity's most distinctive achievement.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims consciousness causally influences the physical world. Cumulative culture provides a candidate mechanism: consciousness enables organisms to represent their knowledge as knowledge, take their practices as objects of evaluation, and deliberately improve upon what previous generations achieved. Without metarepresentational capacity, cultural accumulation is impossible. If metarepresentation requires consciousness—the article's central conjecture rather than an established claim—then consciousness causally enables humanity's most distinctive achievement.
 
 ### No Many Worlds
 

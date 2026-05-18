@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-05-15 04:31:00+00:00
+ai_modified: 2026-05-17 12:51:48+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,13 +25,14 @@ description: Post-decoherence selection is the process that actualizes one outco
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 11:57:00+00:00
+last_deep_review: 2026-05-17 12:51:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[decoherence-and-macroscopic-superposition]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
+- '[[forward-in-time-conscious-selection]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[quantum-darwinism-and-consciousness]]'
@@ -70,7 +71,7 @@ Every interpretation of quantum mechanics must take a stance on this gap—wheth
 
 Established quantum consciousness proposals—Stapp's quantum Zeno mechanism and Penrose-Hameroff Orch OR—place consciousness's causal role *before* or *during* decoherence. They require quantum coherence in neural structures to persist long enough for consciousness to interact with superposed states. This exposes them to the [timing gap problem](/concepts/timing-gap-problem/): Tegmark's (2000) calculations suggest decoherence in neural tissue occurs within femtoseconds, while conscious decisions take hundreds of milliseconds. Even revised estimates narrowing the gap by seven orders of magnitude leave a factor of roughly a thousand.
 
-The Map's post-decoherence selection proposal sidesteps this objection entirely. If consciousness acts on the already-decohered mixture—selecting which element of the improper mixture becomes actual—the decoherence timescale becomes irrelevant. Consciousness operates not on fragile quantum superpositions but on the robust, classically distinguishable alternatives that decoherence has already prepared.
+The Map's post-decoherence selection proposal sidesteps this objection entirely. If consciousness acts on the already-decohered mixture—selecting which element of the improper mixture becomes actual—the decoherence timescale becomes irrelevant. Consciousness operates not on fragile quantum superpositions but on the robust, classically distinguishable alternatives that decoherence has already prepared. The companion topic article [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) catalogues the candidate mechanisms (pre-decoherence variants from Penrose-Hameroff, Stapp, and Chalmers-McQueen alongside the post-decoherence path) and shows why the post-decoherence variant is the Map's strongest version of the forward-in-time strategy.
 
 The metaphysical advantage is significant: immunity to the strongest empirical objection against quantum consciousness theories. The epistemological cost is equally significant: post-decoherence selection is harder to falsify. Pre-decoherence models make predictions about coherence maintenance in biological tissue that experiments could in principle test. Post-decoherence models operate at the interpretive level—the gap between formalism and outcome—where empirical access is indirect at best.
 
@@ -95,6 +96,7 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 ## Further Reading
 
 - [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) — Apex synthesis integrating this concept with quantum Darwinism, contextuality, weak measurement, and stochastic amplification
+- [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — Topic-level mechanism catalogue placing post-decoherence selection alongside pre-decoherence candidates (Penrose-Hameroff, Stapp, Chalmers-McQueen)
 - [Decoherence](/concepts/decoherence/)
 - [The Measurement Problem](/concepts/measurement-problem/)
 - [The Timing Gap Problem](/concepts/timing-gap-problem/)

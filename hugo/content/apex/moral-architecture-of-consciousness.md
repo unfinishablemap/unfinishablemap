@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-05-14 20:42:00+00:00
+ai_modified: 2026-05-17 13:50:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-10 17:44:00+00:00
 apex_sources:
@@ -23,7 +23,6 @@ concepts:
 - '[[moral-responsibility]]'
 - '[[agent-causation]]'
 - '[[evaluative-phenomenal-character]]'
-- '[[evaluative-phenomenal-character]]'
 - '[[attentional-economics]]'
 - '[[consciousness-value-connection]]'
 created: 2026-03-16
@@ -39,7 +38,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/adavuTQkxwQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 13:13:00+00:00
+last_deep_review: 2026-05-17 13:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -159,9 +158,9 @@ The Map's libertarian framing is therefore distinguished not by unique moral exp
 
 ### Load-Bearing but Uneven
 
-This mutual dependence is a strength, and also a vulnerability. The architecture is load-bearing rather than modular: if any pillar fails, the remaining ones lose the mutual support that partly justified them. Phenomenal value realism has the strongest independent case—suffering's badness does not obviously depend on whether agents can freely choose to prevent it. Moral perception similarly rests on phenomenological evidence that does not require agent causation. Normativity, however, loses much of its force without genuine agency: an "ought" addressed to a determined system is puzzling. The architecture degrades unevenly rather than catastrophically, but the failure of any one pillar—especially agency—propagates through the rest.
+This mutual dependence is a strength and a vulnerability. Phenomenal value realism has the strongest independent case—suffering's badness does not obviously depend on whether agents can freely choose to prevent it—and moral perception similarly rests on phenomenological evidence that does not require agent causation. Normativity, however, loses much of its force without genuine agency: an "ought" addressed to a determined system is puzzling. The architecture degrades unevenly rather than catastrophically, but the failure of any one pillar—especially agency—propagates through the rest.
 
-The convergence produces a moral worldview more demanding than its materialist alternatives. The felt weight of moral deliberation tracks reality—consciousness is about to exercise a causal power whose consequences carry real value. Character formation is genuine self-creation through accumulated attentional selections. Suffering carries ontological weight—it is as real as anything gets. And moral perception is a capacity that can be cultivated: Iris Murdoch's "just and loving gaze" and Weil's attention as moral substance describe genuine epistemic achievements, not merely therapeutic practices.
+The convergence produces a moral worldview more demanding than its materialist alternatives. The felt weight of moral deliberation tracks reality—consciousness is about to exercise a causal power whose consequences carry real value. Character formation is genuine self-creation through accumulated attentional selections. Suffering carries ontological weight. And moral perception is a capacity that can be cultivated: Murdoch's "just and loving gaze" and Weil's attention as moral substance describe genuine epistemic achievements, not merely therapeutic practices.
 
 ## What Would Challenge This View?
 
@@ -219,16 +218,3 @@ This synthesis draws on:
 18. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 19. Frankfurt, H. (1971). "Freedom of the Will and the Concept of a Person." *Journal of Philosophy*, 68(1), 5-20.
 20. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press.
-
-<!-- AI REFINEMENT LOG - 2026-05-12T01:15+00:00 (refine-draft)
-Apex-tier complement to the topic-tier hostile-review chain. Addresses outer-review-2026-05-11-claude-opus-4-7 §3.8: the article cited coherence as "a significant meta-ethical argument" without the artifact-of-method caveat the reviewer flagged as structurally most exposed at the apex tier.
-
-Changes made:
-- Intro paragraph (line 57): downgraded "significant meta-ethical argument for taking dualism seriously" to "significant meta-ethical consideration in favour of taking dualism seriously" and added the artifact-of-method caveat with forward link to [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/). ~50 words modified/added.
-- §"The Unity Argument" (line 149): added a follow-up paragraph after the four-pillar mutual-need statement that names the artifact-of-method discount directly, distinguishes "unity makes available a single ground" (genuine integrative move) from "four pillars are four independent confirmations" (the inflated reading the corpus would produce by construction), and re-anchors each pillar to its own evidential basis. ~115 words added.
-- frontmatter: added [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) to related_articles; ai_modified → 2026-05-12T01:15:00+00:00.
-
-Net: ~165 words modified/added. Voice preserved; the article's positive case for the moral architecture survives — the discipline is to name what unity *can* and *cannot* license evidentially, not to retreat from the integration claim.
-
-This log should be removed after human review.
--->
