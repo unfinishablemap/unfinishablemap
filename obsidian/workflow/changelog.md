@@ -5,6 +5,13 @@ ai_modified: 2026-05-18T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-18T12:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Perceptual Reality-Monitoring Void
+- **Output**: [[voids/perceptual-reality-monitoring-void]]
+- **Word count**: 2056
+- **Based on research**: yes — [[research/voids-perceptual-reality-monitoring-void-2026-05-15]]
+
 ## 2026-05-18T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-biology-and-neural-consciousness]] + [[concepts/quantum-biology-and-neural-mechanisms]] (cross-review pass)
