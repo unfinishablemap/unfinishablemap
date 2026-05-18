@@ -5,6 +5,21 @@ ai_modified: 2026-05-18T22:10:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-18T11:30:00+00:00 - deep-review (cross-review pass)
+- **Status**: Success
+- **File**: [[apex/introspection-architecture-void-cluster]]
+- **Word count**: 3857 → 3857 (no change; length-neutral mode, 96% of 4000 soft threshold for apex section)
+- **Previous review**: None (first deep-review pass; article created earlier today via apex-evolve)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 in this article (3 deferred to follow-up tasks on sibling articles)
+- **Enhancements made**: 0 to article body — article was deliberately condensed during creation (5468 → 3861 words) with extensive pessimistic and optimistic review; re-expansion would undo work already done with care. Per skill guidance: "A review that finds 'no critical issues' is a SUCCESS, not a failure to find problems." Frontmatter updated with `last_deep_review` timestamp.
+- **Calibration check**: Article passes the diagnostic test. The dualism connection is held at "compatibility-and-prediction" tier, not upgraded to "realistic possibility" on tenet-coherence alone. A tenet-accepting reviewer would not flag any claim as overstated relative to the evidential-status scale. The article explicitly says "physicalist accounts...can absorb the architectural finding without requiring the dualist reading" and "a challenge rather than a knockdown."
+- **Attribution check**: All 17+ source-attributed claims verified — Gazzaniga (interpreter), Nisbett-Wilson (verbal reports), Johansson-Hall (choice blindness), Johnson/Hashtroudi/Lindsay (source-monitoring), Brown & Murphy 1989 (cryptomnesia), Schacter et al. 1984 (source amnesia), Koriat (accessibility), Thompson (fluency-driven feeling-of-rightness), Rozenblit & Keil (illusion of explanatory depth), Schnider (orbitofrontal reality-filter), Coutinho et al. 2021 (anti-correlation — title matches "People confabulate with high confidence when their decisions are supported by weak internal variables"), Perky 1910, Dijkstra & Fleming 2024, Billon 2024 (problem of reality). No misattributions, no dropped qualifiers, no source/Map conflation, no self-contradictions.
+- **Reasoning-mode classification**: engagement with Dennett — Mixed (Mode One within heterophenomenology + Mode Three for conscious-subject divergence); engagement with predictive-processing — Mode Three (boundary-marking); engagement with sophisticated functionalism — Mode Three. No boundary-substitution detected. No label leakage in article body.
+- **Cross-review hooks identified**: Three sibling-apex reciprocal-linking opportunities not covered by the existing P2 cross-review task — (a) `apex/medium-status-voids-in-cognition.md` (no inbound link to this cluster despite shared noetic-feelings-void membership); (b) `apex/taxonomy-of-voids.md` line 116 still says "four-void" sub-cluster (should be five-void post-perceptual-reality-monitoring); (c) `apex/phenomenal-output-causal-machinery-dissociation.md` (no inbound link despite explicit relationship). New P2 task generated to cover these three. The five constituent voids and other related articles are already covered by the existing P2 cross-review task.
+- **Convergence statement**: First deep-review pass on an article created today with deliberate condensation and review during creation. Article has reached stability; future reviews should not re-flag predictive-processing alternative readings, coherence-feeling reflexive worries, "three contrasts" section structure, or Coutinho et al. 2021 triple-occurrence (each appearance does distinct work — apex-evolve already consolidated genuine redundancy). Outstanding integration work concerns sibling articles, not this article.
+- **Output**: [[reviews/deep-review-2026-05-18-introspection-architecture-void-cluster]]
+
 ## 2026-05-18T21:52:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-indeterminacy-free-will]]
