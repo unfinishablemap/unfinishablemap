@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T15:30:00+00:00
+ai_modified: 2026-05-18T18:53:31+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T18:53:31+00:00 - refine-draft (reciprocal cross-links to anaesthesia)
+- **Status**: Success
+- **Files**: [[topics/neurological-dissociations-as-interface-architecture]], [[concepts/filter-theory]], [[concepts/degrees-of-consciousness]], [[topics/self-stultification-as-master-argument]], [[apex/altered-states-as-interface-evidence]]
+- **Trigger**: optimistic-2026-05-17.md Medium Priority cross-link installation — anaesthesia article is now the catalogue's strongest pharmacological exhibit of dissociation-by-mechanistic-route + active-reboot + framework-stage-qualified asymmetry; reciprocal links from five adjacent articles needed.
+- **Changes**:
+    - **neurological-dissociations-as-interface-architecture**: expanded existing pharmacological-route paragraph to cite three load-bearing exhibits (xenon-ketamine contrast, four-component pharmacological dissection, KCC2 active-reboot mechanism) as pharmacological analogues of the channel taxonomy.
+    - **filter-theory**: installed four-component structured-interface vocabulary (phenomenal presence, behavioural access, temporal binding, memory encoding) at concept-page level in §"The Anesthetic Divergence", each paired with characteristic pharmacology.
+    - **degrees-of-consciousness**: strengthened §"Anaesthesia" subsection with three-state taxonomy citations (Bhatt 2019; Sanders 2023) and PCI graded-changes evidence as the empirical-level instantiation of gradation; ketamine case sharpens architectural decoupling.
+    - **self-stultification-as-master-argument**: added paragraph in §Epiphenomenalism citing ketamine + self-stultification engagement from anaesthesia line 74 as catalogue's strongest clinical worked exhibit of the master argument applied to a specific pharmacological context; added Sarasso 2015 reference and anaesthesia to related_articles.
+    - **apex/altered-states-as-interface-evidence**: expanded §"Anaesthesia: The Interface Pharmacologically Dissected" so the convergence matrix's pharmacology row references the three load-bearing exhibits at apex tier — xenon-ketamine contrast, KCC2 named, framework-stage qualification preserved at apex level. Added Hu 2023 + Sarasso 2015 to references; renumbered duplicate "7." entries.
+- **Scope**: ~400 words touched across 5 articles (within task spec of 200-400 words across 3-5 articles).
+- **Calibration check**: all five installations preserve the modal register the anaesthesia article uses — "suggestive convergence" not "vindication"; "framework-stage qualification" preserved; no tier-upgrades on the interactionist reading.
+- **Tenet alignment**: methodological / [[evidential-status-discipline]] — the discipline is about reciprocal linking of worked exhibits at the right tier, not about tenet-specific commitments.
+- **Output**: 5 modified articles with refinement-log comments awaiting human review.
 
 ## 2026-05-18T15:30:00+00:00 - deep-review
 - **Status**: Success

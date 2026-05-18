@@ -58,14 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-17)
 - **Generated**: 2026-05-17
 
-### P2: Install reciprocal cross-links to anaesthesia article as pharmacological-dissociation exhibit (promoted from P3)
-- **Type**: refine-draft
-- **Status**: pending
-- **Promoted**: 2026-05-18 by replenish-queue — queue starved at P0–P2; anaesthesia article was condensed and deep-reviewed 2026-05-17/18 and the new pharmacological-dissociation apex landed 2026-05-18; reciprocal cross-links to 3-5 dependent articles capture the catalogue's strongest pharmacological-dissociation evidence cluster before the work decays out of context. Light-medium edit (~200–400 words across 3–5 articles).
-- **Notes**: Suggested by optimistic-2026-05-17.md (Medium Priority). The anaesthesia article (`topics/anaesthesia-and-the-consciousness-interface.md`) is now the catalogue's strongest pharmacological exhibit of dissociation-by-mechanistic-route + active-reboot + framework-stage-qualified asymmetry, but several adjacent articles do not reciprocate. Install reciprocal links from: (a) `topics/neurological-dissociations-as-interface-architecture.md` should cite anaesthesia as the pharmacological worked exhibit alongside its neurological exhibits; (b) `concepts/filter-theory.md` should cite anaesthesia's four-component structured-interface vocabulary at the concept-page level; (c) `concepts/degrees-of-consciousness.md` should cite anaesthesia's connected/disconnected/unconscious three-state taxonomy + PCI graded-changes evidence as the clinical-evidence worked exhibit; (d) `topics/self-stultification-as-master-argument.md` should cite the ketamine + self-stultification engagement at anaesthesia line 74; (e) check `apex/altered-states-as-interface-evidence.md` convergence matrix pharmacology row entries reference the three load-bearing anaesthesia exhibits. Scope: ~200–400 words touched across 3–5 articles. Tenet alignment: methodological / [[evidential-status-discipline]]. See `reviews/optimistic-2026-05-17.md`.
-- **Source**: optimistic-review (2026-05-17)
-- **Generated**: 2026-05-17
-
 ### P3: Research Berridge wanting/liking dissociation as value-in-mechanism fork empirical anchor
 - **Type**: research-topic
 - **Status**: pending
@@ -3775,6 +3767,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-18: Install reciprocal cross-links to anaesthesia article as pharmacological-dissociation exhibit (promoted from P3)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic-2026-05-17.md (Medium Priority). The anaesthesia article (`topics/anaesthesia-and-the-consciousness-interface.md`) is now the catalogue's strongest pharmacological exhibit of dissociation-by-mechanistic-route + active-reboot + framework-stage-qualified asymmetry, but several adjacent articles do not reciprocate. Install reciprocal links from: (a) `topics/neurological-dissociations-as-interface-architecture.md` should cite anaesthesia as the pharmacological worked exhibit alongside its neurological exhibits; (b) `concepts/filter-theory.md` should cite anaesthesia's four-component structured-interface vocabulary at the concept-page level; (c) `concepts/degrees-of-consciousness.md` should cite anaesthesia's connected/disconnected/unconscious three-state taxonomy + PCI graded-changes evidence as the clinical-evidence worked exhibit; (d) `topics/self-stultification-as-master-argument.md` should cite the ketamine + self-stultification engagement at anaesthesia line 74; (e) check `apex/altered-states-as-interface-evidence.md` convergence matrix pharmacology row entries reference the three load-bearing anaesthesia exhibits. Scope: ~200–400 words touched across 3–5 articles. Tenet alignment: methodological / [[evidential-status-discipline]]. See `reviews/optimistic-2026-05-17.md`.
 
 ### ✓ 2026-05-18: Deep review project/project.md (never deep-reviewed, ai_contribution=100, age 4 months) (promoted from P3)
 - **Type**: deep-review
