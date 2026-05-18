@@ -1,0 +1,175 @@
+---
+title: "Pharmacological Dissociation as Evidence"
+description: "Three classes of pharmacological dissociation—same-target-opposite-outcome, different-target-convergent-outcome, same-behaviour-different-mechanism-different-phenomenology—jointly specify what the Map asks pharmacology to do, with anaesthesia as the worked exhibit and matching patterns across neurology, clinical dissociation, and contemplative practice."
+created: 2026-05-18
+modified: 2026-05-18
+human_modified: null
+ai_modified: 2026-05-18T13:55:00+00:00
+draft: false
+topics:
+  - "[[hard-problem-of-consciousness]]"
+  - "[[philosophy-of-mind]]"
+  - "[[the-interface-problem]]"
+concepts:
+  - "[[filter-theory]]"
+  - "[[interactionist-dualism]]"
+  - "[[interface-friction]]"
+  - "[[altered-states-of-consciousness]]"
+  - "[[attention-as-interface]]"
+  - "[[mind-matter-interface]]"
+  - "[[phenomenal-consciousness]]"
+related_articles:
+  - "[[apex]]"
+  - "[[apex-articles]]"
+  - "[[tenets]]"
+  - "[[anaesthesia-and-the-consciousness-interface]]"
+  - "[[neurological-dissociations-as-interface-architecture]]"
+  - "[[clinical-dissociation-as-systematic-evidence]]"
+  - "[[contemplative-pathology-and-interface-malfunction]]"
+  - "[[altered-states-as-interface-evidence]]"
+  - "[[interface-specification-programme]]"
+  - "[[evidential-status-discipline]]"
+  - "[[self-stultification-as-master-argument]]"
+  - "[[anesthesia-void]]"
+  - "[[reviews/optimistic-2026-05-17]]"
+
+ai_contribution: 100
+author: null
+ai_system: claude-opus-4-7
+ai_generated_date: 2026-05-18
+last_curated: null
+
+apex_sources:
+  - topics/anaesthesia-and-the-consciousness-interface
+  - topics/neurological-dissociations-as-interface-architecture
+  - topics/clinical-dissociation-as-systematic-evidence
+  - topics/contemplative-pathology-and-interface-malfunction
+  - concepts/filter-theory
+  - concepts/interface-friction
+  - concepts/mind-matter-interface
+apex_last_synthesis: 2026-05-18T13:55:00+00:00
+apex_thesis: "Pharmacological dissociation furnishes evidence for a structured, multi-channel consciousness-brain interface in three distinguishable classes—same target / opposite outcome, different targets / convergent outcome, same behavioural depth / different mechanism / different phenomenology—each of which constrains the simplest identity reading rather than establishing the Map's interactionist version, with cumulative force coming from convergence across pharmacology, neurology, clinical dissociation, and contemplative practice."
+---
+
+Pharmacology is in an unusual epistemic position with respect to consciousness. A drug binds to a known receptor, modulates a known signalling pathway, and produces a phenomenological outcome the patient can later report. The chain from molecule to experience is short by neuroscience's standards, and the contrasts between drugs are sharp: two compounds acting on the same receptor produce different conscious states; two compounds acting on different receptors produce the same one; two compounds producing the same behavioural depth deliver different first-person interiors. Each contrast is a dissociation, and dissociations are the form of evidence the Unfinishable Map's interface model is best positioned to use.
+
+What the catalogue has lacked is a piece that lifts pharmacological dissociation into a named evidence pattern at the methodology grain. The [[anaesthesia-and-the-consciousness-interface|anaesthesia article]] carries three distinct dissociation contrasts in its body, each load-bearing in different ways, but the pattern they exhibit together is not specified at any single location. The [[neurological-dissociations-as-interface-architecture|neurological dissociations]], [[clinical-dissociation-as-systematic-evidence|clinical dissociations]], and [[contemplative-pathology-and-interface-malfunction|contemplative pathology]] clusters each reach the same architecture by independent routes, and the [[altered-states-as-interface-evidence|altered-states apex]] gathers five state-modalities into a convergence matrix—but none of these names what pharmacological dissociation *as a class* asks of the interface model, what it can and cannot do, and what discipline keeps its evidential weight calibrated.
+
+This synthesis names three pharmacological-dissociation classes, supplies the anaesthetic exhibit for each, locates the matching patterns in the catalogue's parallel clusters, and installs the [[evidential-status-discipline|evidential-status discipline]] that prevents the convergence from inflating beyond what the evidence licenses. The methodology is not a tenet-specific commitment. It is a discipline about how the Map identifies dissociation patterns as evidence for interface architecture, sustained by the discriminating insight that *which* drugs dissociate from *which* drugs reveals more about the interface than what any single drug does.
+
+## What a Pharmacological Dissociation Is
+
+A pharmacological dissociation is a contrast between two drug effects that separates components ordinary observation does not. The structure has three terms: a pharmacological variable (target receptor, mechanism, behavioural depth), a phenomenological observation (presence, content, access, encoding, temporal binding, ownership), and a contrast between two drug regimes that varies one term while holding another fixed. When the held-fixed term predicts the same outcome on a single-channel model and the actual outcome diverges, the divergence localises a component the single-channel model failed to anticipate.
+
+The discipline matters because pharmacology is full of correlations that are not dissociations. Anaesthetic potency correlates with lipid solubility (the [[anaesthesia-and-the-consciousness-interface|Meyer-Overton correlation]]); this is a continuous relationship, not a dissociation, and was historically read as evidence for a single nonspecific membrane mechanism. The interface model gets no traction from continuous correlations; it gets traction from contrasts where the structure predicts a unified outcome that fails to obtain.
+
+Three contrast structures recur across the catalogue. Each is a different way pharmacology can pry apart a component. Together they specify what pharmacological dissociation as evidence can do.
+
+## Class A: Same Target, Opposite Outcome
+
+**The structure.** Two drugs act on the same primary receptor; their phenomenological outcomes diverge in direction (not just magnitude). The receptor-level commonality predicts shared phenomenology under any model that locates consciousness in the receptor's activity. Divergent phenomenology localises a component the receptor itself does not exhaust.
+
+**The anaesthetic exhibit: xenon-ketamine.** Both xenon and ketamine are NMDA receptor antagonists. Both render patients behaviourally unresponsive at anaesthetic doses. The phenomenological outcomes diverge as sharply as the catalogue's clinical literature has on offer: xenon extinguishes phenomenal experience entirely—patients report nothing, no dreams, no sense of time—while ketamine preserves vivid first-person content, with elaborate dream-like journeys, perceived encounters, and persisting reportable interiors. Sarasso et al. (2015) measured the underlying neural patterns: propofol and xenon converge on slow-wave collapse with phenomenal extinction; ketamine retains wakefulness-like complex activation despite matched unresponsiveness. The disambiguating factor is xenon's broader action on two-pore potassium channels—a second molecular site that ketamine does not engage—which suppresses the phenomenal interface while ketamine's selective NMDA blockade severs access channels only. The contrast is internally specified: the dissociation works on the pharmacology alone, without any framework reading needing to enter the inference. The framework reading is then licensed by fit, not forced by argumentative pressure.
+
+**What the contrast establishes.** Same-target-opposite-outcome dissociations establish that interface components are pharmacologically separable *within* a single receptor system. Phenomenal presence and behavioural access are separable interface components rather than two aspects of one phenomenon. The conclusion does not require the Map's specific interactionist version of structured components; sophisticated functionalism predicts the same modular dissociation. What the contrast forecloses is the simplest reading—identity of consciousness with receptor activity at the implicated site—and the live dialectical question becomes what is decomposing: separable subsystems that constitute consciousness, or separable channels connecting consciousness to brain mechanisms of content generation and access.
+
+**Parallel patterns across the catalogue.** [[neurological-dissociations-as-interface-architecture|Blindsight and pain asymbolia]] together exhibit the same-channel-opposite-outcome structure at the neural level: both involve damage in primary perceptual cortex, but the affective-motivational dimension can be abolished while sensory-discriminative content survives, and conversely the sensory channel can be destroyed while affective machinery remains. The two dissociations together separate sensory and affective ascending channels in the same way xenon-ketamine separates the phenomenal-presence and access channels in pharmacology. The architecture replicates: the same component-structure shows up whether the contrast is generated by lesion or by drug.
+
+## Class B: Different Targets, Convergent Outcome
+
+**The structure.** Two drugs act on mechanistically distinct molecular targets and produce the same phenomenological outcome. The mechanistic distinctness rules out a single-pathway explanation; the convergence localises a higher-level component that multiple pathways can reach.
+
+**The anaesthetic exhibit: propofol-xenon.** Propofol acts via GABA-A receptors; xenon via NMDA receptor antagonism plus two-pore potassium channels. Two receptor systems with no shared primary target. Both extinguish phenomenal experience. Sarasso et al. (2015) showed neural patterns differ strikingly—propofol produces a low-amplitude, spatially local slow wave; xenon produces a high-amplitude, spatially global one—yet first-person outcome is unified. The convergence on extinction-of-experience through different routes implies a single interface component being disabled through multiple molecular pathways, rather than two different things that happen to share a behavioural label.
+
+**The active-reboot extension.** Hu et al.'s (2023) discovery that ubiquitin-driven degradation of the KCC2 cotransporter in the ventral posteromedial thalamus is the common emergence mechanism across pharmacologically dissimilar agents (propofol, isoflurane, sevoflurane, ketamine) sharpens the convergence into its strongest form. *That the same KCC2 mechanism operates across pharmacologically dissimilar agents is the load-bearing point*: the interface has a dedicated reopening pathway that is mechanism-shared even when closing pathways were mechanism-distinct. Different doorways close; one doorway reopens. The asymmetry between closing and reopening pathways is itself an architectural fact about the interface, not a coincidence of pharmacology.
+
+**What the contrast establishes.** Different-target-convergent-outcome dissociations establish that interface components are not artefacts of any single molecular pathway. A component that can be reached from multiple mechanistic routes has the structural shape of a real architectural feature, not a single-pathway artefact. The mechanism-shared reopening is particularly informative: passive recovery models cannot accommodate why molecularly distinct closing pathways would converge on a single active reopening, but an interface that is a real structural entity—with dedicated machinery for reconfiguration—naturally produces this asymmetry.
+
+**Parallel patterns across the catalogue.** The [[clinical-dissociation-as-systematic-evidence|clinical dissociation cluster]] supplies the strongest non-pharmacological version. DID, depersonalisation-derealisation, dissociative amnesia, and conversion disorder reach the same channel-level architecture as anaesthesia and neurological lesions, but through *functional* connectivity disruption rather than structural damage or receptor pharmacology. Four distinct precipitants—trauma, severe stress, threatening events, psychological conflict—converge on the same selective disconnections between intact processing regions. The convergence across three independent perturbation routes (lesion, pharmacology, psychogenic dissociation) on the same channel taxonomy is itself a Class B signature scaled up: the architecture replicates under perturbations with no shared mechanism, which is the structural shape pharmacological convergence exhibits within a single perturbation class.
+
+## Class C: Same Behavioural Depth, Different Mechanism, Different Phenomenology
+
+**The structure.** Two drugs produce matched behavioural depth—comparable apparent sedation, unresponsiveness, or task impairment—but their underlying mechanisms differ and their first-person interiors diverge. The matched behaviour predicts matched phenomenology on any view that takes behaviour as a proxy for consciousness. Divergent phenomenology under matched behaviour exposes the proxy as inadequate and the underlying mechanism as load-bearing.
+
+**The anaesthetic exhibit: ketamine-midazolam at sub-anaesthetic doses.** Ketamine (NMDA antagonist) and midazolam (benzodiazepine, GABA-A positive modulator) at sub-anaesthetic doses can produce similar behavioural depth—patients remain responsive, capable of conversation and simple tasks. The phenomenological outcomes diverge surgically. Ketamine at this depth often preserves vivid experiential content with dissociative quality—patients later report rich interiors, sometimes elaborate. Midazolam produces profound amnesia with minimal sedation, isolating the memory-encoding function "almost surgically from other components." A patient under sub-anaesthetic midazolam may converse, follow instructions, and recall content within working memory across seconds—then fail to form lasting memories of the interval at all. Behavioural depth is matched; experiential content is preserved in both cases; what diverges is the encoding channel. The same behavioural surface conceals different interface configurations.
+
+**What the contrast establishes.** Same-behaviour-different-mechanism-different-phenomenology dissociations establish that behavioural-level matching is not a reliable proxy for interface-level matching. Different components can be operating at the level of phenomenal presence (intact), access (intact), and memory encoding (severed)—and the behavioural surface tells you nothing about which. The conclusion strengthens the interface model's separability claim: memory encoding is a separable channel that pharmacology can isolate while leaving the rest of the architecture functioning, which is the surgical-isolation profile that anaesthetic pharmacology furnishes more cleanly than any other intervention.
+
+**Parallel patterns across the catalogue.** [[contemplative-pathology-and-interface-malfunction|Contemplative pathology]] supplies the most direct Class C analogue. Practitioners who reach the *dukkha nanas* or other contemplative crises maintain behavioural function—they can speak, navigate, perform daily tasks—while their interior phenomenology fragments: temporal binding breaks, ownership of experience dissolves, phenomenal flooding strips ordinary filters. The behavioural surface looks comparable to ordinary altered-state reports; the interior is markedly different and selectively disrupted. The contrast structure is the same as ketamine-midazolam: matched surface, distinct mechanism (sustained voluntary attention versus pharmacological agent), distinct phenomenology. The catalogue's interface model predicts this generalisation: behavioural depth is an interface-coarse measure, and any intervention that reaches the interface architecture at finer grain than behaviour will exhibit Class C dissociations under matched behaviour.
+
+## The Cumulative Convergence
+
+The three classes are not independent. Anaesthesia is the catalogue's strongest worked exhibit precisely because all three operate together in one article body. The xenon-ketamine contrast (Class A), the propofol-xenon contrast with KCC2 reopening (Class B), and the ketamine-midazolam contrast (Class C) co-occur in the same pharmacological literature, on the same clinical populations, with overlapping receptor systems—and the three contrasts converge on the same four-component interface architecture: phenomenal presence, behavioural access, temporal binding, and memory encoding.
+
+What this convergence does evidentially is constrained by the [[evidential-status-discipline]]. Each dissociation, taken alone, *constrains* the simplest identity reading—the reading that locates consciousness in a single mechanism, pathway, or receptor's activity—without *establishing* the Map's specific interactionist alternative. The dissociations are compatible with sophisticated functionalist readings: separable subsystems whose coupling constitutes consciousness rather than separable channels connecting an already-unified consciousness to brain mechanisms. The interface reading is *one* reading that fits the data; the functionalist reading is *another* that fits the same data. Adjudication requires evidence the dissociations alone cannot supply.
+
+What the convergence raises is the *explanatory cost on absorption*. The materialist position that accommodates pharmacological dissociations must specify which connectivity patterns generate consciousness, why those patterns and not neighbouring ones, why mechanism-distinct closing pathways converge on a single active reopening, and why behavioural-level matching fails to track first-person matching. Each accommodation is available; the cumulative cost across classes raises the bar on what a fully spelled-out materialism must explain.
+
+The convergence with non-pharmacological evidence multiplies the effect. The [[neurological-dissociations-as-interface-architecture|neurological dissociations]] reach the same channel architecture by structural damage. The [[clinical-dissociation-as-systematic-evidence|clinical dissociations]] reach it by functional disconnection without structural damage. The [[contemplative-pathology-and-interface-malfunction|contemplative pathology]] cluster reaches it by voluntary attentional restructuring pushing the interface beyond its operating parameters. Pharmacology, lesion, functional disconnection, and contemplative practice are four independent perturbation routes, each capable of selectively disrupting the same components in the same agent-specific patterns. The architecture replicates under perturbations with no shared mechanism. *That* is the cumulative-convergence move that pharmacological dissociation contributes one quarter of, with the [[altered-states-as-interface-evidence|altered-states apex]] gathering five state-modalities into a complementary matrix at the systems-level rather than the mechanism-level.
+
+The catalogue's [[interface-specification-programme|interface specification programme]] reads this convergence as specification work: each route adds resolution to the picture of what the interface is, where it has components, how its components fail, and how it reconfigures. The methodology is not "consciousness is dualist because pharmacology shows dissociations"; the methodology is *"the architecture pharmacology reveals has the same component-structure that lesion, dissociation, and contemplative practice reveal, and the convergence raises the explanatory cost on the unified-substrate alternative."* The discipline holds the conclusion at the right level of strength.
+
+## Calibration Discipline
+
+The [[evidential-status-discipline]] supplies the operational language for what each dissociation can and cannot establish. The two-registers distinction (tenet register / evidence register) applies cleanly: the Map's tenets *permit* the interactionist reading of pharmacological dissociation, but permission is defeater-removal, not positive evidence. The five-tier evidential-status scale locates the inference: pharmacological dissociation as *evidence for structured interface architecture* sits at the *realistic-possibility* level. The Map's *specific* interactionist reading of that structure—consciousness as ontologically distinct, interfacing through quantum-sensitive molecular systems—remains at the *live-hypothesis* level. The distance between the two tiers is held by the constrain-vs-establish discipline: pharmacology constrains the simplest identity readings without establishing the Map's specific alternative.
+
+The discipline is symmetric. The materialist must not treat the existence of a known molecular mechanism for each anaesthetic as if it *established* the reduction; receptor pharmacology is a necessary condition for an explanation of consciousness, not a sufficient one, and the pharmacology cannot adjudicate between sophisticated readings of what the receptor activity is doing. The dualist must not treat the dissociation pattern as if it *established* the interface reading; the same pattern is predicted by sophisticated functionalism, and the discriminating work is done by convergence with non-pharmacological evidence and by independent considerations the dissociations alone cannot bear.
+
+Where pharmacology does positive disambiguating work, it does so through cases like the ketamine self-stultification argument. Patients later reporting vivid ketamine experiences demonstrate consciousness maintained its causal connection to memory even while severed from behavioural output. If consciousness were epiphenomenal during the ketamine state, these reports would be [[self-stultification-as-master-argument|self-stultifying]]—presupposing the very causal efficacy epiphenomenalism denies. Pharmacological dissociation here is not constraining identity readings in general but supplying a specific clinical case to which the master argument applies with unusual precision: the ketamine interior is reportable in a clinically reliable way, and the reportability is itself evidence that the experience was causally connected to memory consolidation while behaviourally inaccessible. The argument's force is local to this case rather than to consciousness in general, and the catalogue's discipline preserves the local-vs-general distinction throughout.
+
+## What Pharmacological Dissociation Cannot Tell Us
+
+The methodology has limits the discipline names rather than hides. Three are load-bearing.
+
+First, anaesthetic pharmacology is incomplete. Current anaesthetics were discovered empirically, so interface components not targeted by any known drug remain invisible to the pharmacological dissection. The four-component architecture (phenomenal presence, access, temporal binding, memory encoding) is what current pharmacology *can* pry apart; a complete architecture may have further components beyond what the existing drug repertoire reaches. The pharmacological map is bounded by what the drug catalogue happens to contain.
+
+Second, the necessary-vs-where distinction matters. Pharmacological evidence shows specific molecular systems are necessary for the interface to function. It does not prove these systems are *where* consciousness connects—some may be interface infrastructure rather than interface points. The KCC2 reopening pathway is necessary for emergence; whether the pathway is the interface or the mechanism that prepares conditions for an interface elsewhere to re-engage is a question the pharmacology cannot decide alone.
+
+Third, the methodology is silent on the deeper metaphysical question. Pharmacological dissociation establishes that the interface has components. It does not establish what the interface *is*. The interactionist reading—consciousness as ontologically distinct, with the interface as a bridge between domains—is one reading. The functionalist reading—the interface as a higher-order physical property whose components are realised in coupled neural subsystems—is another. The dissociations are *evidence for structured interface architecture* at the realistic-possibility level. The Map's interactionist version of that structure remains at a tier that pharmacology alone cannot reach.
+
+## Relation to Site Perspective
+
+Pharmacological dissociation as an evidence pattern touches each of the Map's [[tenets|five tenets]] differently, with the calibration discipline applied at each.
+
+**[[tenets#^dualism|Dualism]]**: The dissociation classes constrain identity readings of consciousness without establishing dualism. What they support is the structured interface picture that dualism predicts and that materialism must accommodate by locating consciousness in specific connectivity patterns. The Map's reading is preferred-by-fit, not forced-by-argument; the framework-stage discipline locates this at the live-hypothesis level for the interactionist version of the picture.
+
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Several anaesthetic targets involve conformational changes at scales where thermal noise and quantum uncertainty overlap. The contested Hameroff et al. (2025) delayed-luminescence work on anaesthetic effects in microtubule quantum properties, the stochastic emergence variability in genetically identical organisms (orders-of-magnitude variation under identical conditions), and the structural shape of receptor pharmacology at the molecular boundary are all compatible with quantum-sensitive interface architecture. The compatibility is not entailment, and the framework's specific quantum-bridge commitments remain at the live-hypothesis tier.
+
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The active-reboot KCC2 mechanism—the brain's coordinated dismantling of anaesthesia-installed inhibition *before* behavioural responsiveness returns—is consistent with an interface that the neural infrastructure prepares for consciousness to re-engage. The reading is one available interpretation, not the only one; the convergence across four pharmacologically distinct agents on a single active reopening pathway raises the explanatory cost on passive-recovery models.
+
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The diagnostic specificity of dissociations depends on each case being a definite fact—this patient under this drug regimen produced this dissociation, revealing this architectural feature. The methodology's evidential force depends on outcomes being indexically determinate rather than branch-relative. Under many-worlds interpretations, the architecture pharmacology reveals would be one branch-relative arrangement among countless alternatives, and the convergence across perturbation routes loses the structural significance the Map's reading depends on.
+
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The architecture pharmacological dissociation maps is not simple. Four separable components, mechanism-shared reopening, agent-specific failure profiles, behavioural-surface decoupling from interior phenomenology, hysteresis in the close/reopen asymmetry—this is complex machinery. A simpler model fails to account for the dissociation pattern. The methodology's discipline is honesty about this complexity rather than parsimony for parsimony's sake.
+
+## The Methodology Stated Once
+
+Pharmacological dissociation furnishes evidence for a structured, multi-channel consciousness-brain interface in three classes:
+
+- **Class A** (same target, opposite outcome) constrains identity readings within a single receptor system, separating interface components the receptor itself does not exhaust.
+- **Class B** (different targets, convergent outcome) constrains single-pathway readings, localising components that multiple mechanistic routes can reach and revealing close/reopen architectural asymmetries.
+- **Class C** (same behavioural depth, different mechanism, different phenomenology) constrains behavioural-proxy readings, exposing the interior decoupling that behavioural surface measures cannot detect.
+
+The three classes are operative simultaneously in the anaesthesia exhibit and recur with structural fidelity across the catalogue's neurological-lesion, clinical-dissociation, and contemplative-pathology clusters. The cumulative-convergence force comes from the architecture replicating under perturbations with no shared mechanism. The evidential-status discipline holds each class at the *constrain* level rather than the *establish* level; the discipline holds the cumulative pattern at the *realistic-possibility* level for structured interface architecture rather than at the *strongly-supported* level for the Map's specific interactionist reading. The methodology is teachable, testable against the constrain-vs-establish criterion, and vulnerable to a specific failure mode the discipline names: the slippage from defeater-removal to evidence-elevation when pharmacological dissociation is presented as if it had positively supported the Map's interactionist version of the structure.
+
+The catalogue uses the methodology to discriminate evidence-bearing dissociations from continuous correlations, to identify the architectural features that recur across perturbation routes, and to keep the cumulative case at the level of strength the evidence actually licenses. The methodology's value is not in lifting the conclusion higher; it is in specifying *what work each class of dissociation can do, what it cannot, and which convergences with non-pharmacological evidence add discriminating weight*.
+
+## Source Articles
+
+This synthesis integrates:
+
+- [[anaesthesia-and-the-consciousness-interface|Anaesthesia and the Consciousness Interface]] — Worked exhibit: all three pharmacological-dissociation classes co-occur, with xenon-ketamine (Class A), propofol-xenon + KCC2 reopening (Class B), and ketamine-midazolam (Class C) as the load-bearing contrasts
+- [[neurological-dissociations-as-interface-architecture|Neurological Dissociations as Interface Architecture]] — Parallel pattern: lesion-generated dissociations reaching the same four-component architecture by structural damage
+- [[clinical-dissociation-as-systematic-evidence|Clinical Dissociation as Systematic Evidence]] — Parallel pattern: functional disconnection without structural damage reaching the same channel taxonomy across DID, DPDR, dissociative amnesia, conversion disorder
+- [[contemplative-pathology-and-interface-malfunction|Contemplative Pathology and Interface Malfunction]] — Parallel pattern: voluntary attentional restructuring pushing the interface beyond operating parameters, generating Class C dissociations under matched behavioural surface
+- [[filter-theory|Filter Theory]] — The structural commitment that pharmacological dissociation tests
+- [[interface-friction|Interface Friction]] — The friction-reveals-structure discipline that organises what each dissociation contributes
+- [[mind-matter-interface|Mind-Matter Interface]] — The two-layer architecture the dissociations map
+
+## Further Reading
+
+- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex companion at the systems-level, with anaesthesia as one of five altered-state windows
+- [[interface-specification-programme|The Interface Specification Programme]] — The wider research programme that pharmacological dissociation contributes one specification route to
+- [[evidential-status-discipline|Evidential-Status Discipline]] — The calibration methodology that holds the cumulative case at the right tier of strength
+- [[self-stultification-as-master-argument|Self-Stultification as Master Argument]] — The local-disambiguating argument the ketamine case supplies
+- [[anesthesia-void|The Anaesthesia Void]] — The first-person epistemic structure of the pharmacological interval
+- [[consciousness-disruption-and-the-mind-brain-interface|Consciousness Disruption and the Mind-Brain Interface]] — Disorders-of-consciousness as a further parallel-perturbation route

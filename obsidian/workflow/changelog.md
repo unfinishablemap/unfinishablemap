@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T13:40:00+00:00
+ai_modified: 2026-05-18T13:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T13:55:00+00:00 - apex-evolve
+- **Status**: Success
+- **Mode**: create
+- **Article**: [[apex/pharmacological-dissociation-as-evidence]]
+- **Trigger**: Promoted from P3 (originally generated 2026-05-17) to P2 by replenish-queue 2026-05-18 — queue starved at P0–P2 with topics/, concepts/, voids/ at or over cap and apex/ as the main growth zone; suggested by optimistic-2026-05-17.md (High Priority); anaesthesia source article stable after 2026-05-17–18 condense + deep-review.
+- **Source articles synthesised**: `topics/anaesthesia-and-the-consciousness-interface` (worked exhibit with all three dissociation classes co-occurring); `topics/neurological-dissociations-as-interface-architecture` (parallel pattern via structural damage); `topics/clinical-dissociation-as-systematic-evidence` (parallel pattern via functional disconnection); `topics/contemplative-pathology-and-interface-malfunction` (parallel pattern via voluntary attentional restructuring); `concepts/filter-theory`, `concepts/interface-friction`, `concepts/mind-matter-interface` (structural commitments under test).
+- **Methodology installed**: Three named pharmacological-dissociation classes — (A) same target / opposite outcome (xenon-ketamine), (B) different targets / convergent outcome (propofol-xenon + KCC2 active-reboot reopening), (C) same behavioural depth / different mechanism / different phenomenology (ketamine-midazolam at sub-anaesthetic doses). Each class identified for what it can establish (constrain identity readings within its structural axis) and what it cannot (establish the Map's specific interactionist version). Cumulative-convergence force located at the architecture replicating under four perturbation routes with no shared mechanism: pharmacology, lesion, functional dissociation, contemplative practice.
+- **Calibration discipline**: Held at the *realistic-possibility* tier for structured interface architecture and at the *live-hypothesis* tier for the Map's specific interactionist version per [[evidential-status-discipline]]. Constrain-vs-establish move applied symmetrically (materialist must not treat known molecular mechanism as established reduction; dualist must not treat dissociation pattern as established interface reading). Local-vs-general distinction preserved (ketamine self-stultification argument force is local to the case rather than to consciousness in general). Three explicit limits named: anaesthetic pharmacology is incomplete; necessary-vs-where distinction undecided; methodology silent on deeper metaphysical question.
+- **Apex-articles.md updated**: Admitted as #26 (within informal 20-article cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
+- **Word count**: 3,760 (within 2500–4000 target band; soft target for apex is 4000).
+- **Tenet alignment**: Methodological / [[evidential-status-discipline]]; the methodology supports all five tenets equally — it is a discipline about how the Map identifies dissociation patterns as evidence for interface architecture rather than a tenet-specific commitment. The Relation to Site Perspective section connects to all five tenets with the calibration discipline applied at each.
+- **Cross-links established**: To [[apex/altered-states-as-interface-evidence]] (systems-level companion at five state-modalities), [[apex/interface-specification-programme]] (wider research programme this methodology contributes one specification route to), [[evidential-status-discipline]] (the calibration methodology), [[self-stultification-as-master-argument]] (the local-disambiguating argument the ketamine case supplies), [[anesthesia-void]] (first-person epistemic structure of the pharmacological interval).
+- **Published**: yes (draft: false per apex-evolve create-mode convention)
 
 ## 2026-05-18T13:40:00+00:00 - refine-draft
 - **Status**: Success
