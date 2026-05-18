@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/forward-in-time-conscious-selection.md considering quantum-darwinism-and-consciousness.md stable form
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from `topics/quantum-darwinism-and-consciousness.md` reaching full convergence after its fourth deep-review on 2026-05-17 (see `reviews/deep-review-2026-05-17-quantum-darwinism-and-consciousness.md` — no critical issues; only a description-length tightening). The quantum-darwinism article's stable three-point constraint structure (pointer basis, Born rule, agreement) and its careful improper/proper-mixture framing now anchor the catalogue's strongest interpretation-neutral treatment of post-decoherence selection. `topics/forward-in-time-conscious-selection.md` (the temporal-direction-specific selection mechanism article) and `concepts/post-decoherence-selection.md` (also recently deep-reviewed 2026-05-17) are the two articles that share quantum-darwinism's framing load most directly. Cross-review should (a) audit forward-in-time-conscious-selection for places where the now-stable quantum-darwinism framing should be cited rather than re-derived inline; (b) verify the improper/proper mixture distinction is treated consistently across all three articles (note the existing P3 line ~61 fix for fabricated Luppi & Adlam citation in forward-in-time-conscious-selection, which traces to this same conceptual territory); (c) install reciprocal cross-references where the three articles share load-bearing claims; (d) check that forward-in-time-conscious-selection's temporal-direction commitments do not over-claim what quantum-darwinism's interpretation-neutral framing supports; (e) honour [[evidential-status-discipline]] — quantum-darwinism is "tenet-coherent, not evidence-elevating" (per the deep-review's stability notes); preserve this register across the cluster. Estimated scope: ~200–500 words touched across 3 articles. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) + methodological. See [[reviews/deep-review-2026-05-17-quantum-darwinism-and-consciousness]] and [[reviews/deep-review-2026-05-17-post-decoherence-selection]].
-- **Source**: chain (from quantum-darwinism-and-consciousness convergence)
-- **Generated**: 2026-05-18
-
 ### P2: Apex synthesis "The Introspection-Architecture Void Cluster" (promote from P3)
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3821,6 +3814,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-18: Cross-review topics/forward-in-time-conscious-selection.md considering quantum-darwinism-and-consciousness.md stable form
+- **Type**: cross-review
+- **Notes**: Chain from `topics/quantum-darwinism-and-consciousness.md` reaching full convergence after its fourth deep-review on 2026-05-17 (see `reviews/deep-review-2026-05-17-quantum-darwinism-and-consciousness.md` — no critical issues; only a description-length tightening). The quantum-darwinism article's stable three-point constraint structure (pointer basis, Born rule, agreement) and its careful improper/proper-mixture framing now anchor the catalogue's strongest interpretation-neutral treatment of post-decoherence selection. `topics/forward-in-time-conscious-selection.md` (the temporal-direction-specific selection mechanism article) and `concepts/post-decoherence-selection.md` (also recently deep-reviewed 2026-05-17) are the two articles that share quantum-darwinism's framing load most directly. Cross-review should (a) audit forward-in-time-conscious-selection for places where the now-stable quantum-darwinism framing should be cited rather than re-derived inline; (b) verify the improper/proper mixture distinction is treated consistently across all three articles (note the existing P3 line ~61 fix for fabricated Luppi & Adlam citation in forward-in-time-conscious-selection, which traces to this same conceptual territory); (c) install reciprocal cross-references where the three articles share load-bearing claims; (d) check that forward-in-time-conscious-selection's temporal-direction commitments do not over-claim what quantum-darwinism's interpretation-neutral framing supports; (e) honour [[evidential-status-discipline]] — quantum-darwinism is "tenet-coherent, not evidence-elevating" (per the deep-review's stability notes); preserve this register across the cluster. Estimated scope: ~200–500 words touched across 3 articles. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) + methodological. See [[reviews/deep-review-2026-05-17-quantum-darwinism-and-consciousness]] and [[reviews/deep-review-2026-05-17-post-decoherence-selection]].
 
 ### ✓ 2026-05-18: Write voids/perceptual-reality-monitoring-void from research note
 - **Type**: expand-topic
