@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T20:55:00+00:00
+ai_modified: 2026-05-18T21:22:41+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T21:22:41+00:00 - deep-review (cross-review pass)
+- **Status**: Success
+- **File**: [[concepts/compatibilist-symmetry-challenge]]
+- **Word count**: 1961 → 2216 (+255, 89% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+  - LLM-cliché "not X but Y" construct rephrased in three load-bearing places (opening paragraph, §"Why It Is an Anti-Slippage Move", §"Where Compatibilism Lands Equivalent Moral Content"). Style-guide compliance.
+  - Residue clause expanded to specify three concrete contexts where libertarian agency does separating work over compatibilism (sourcehood-grade ultimate desert, metaphysically open alternatives, regret presupposing an open future). Stays calibrated.
+  - Cross-link to [[bedrock-clash-vs-absorption]] added in concepts frontmatter, body text (§"The Structural Move"), and Further Reading — the article is itself an exemplar of absorption.
+- **Enhancements made**: 3 (as above)
+- **Attribution check**: Frankfurt (1971), Fischer & Ravizza (1998), Wolf (1990) accurately characterized; no misattribution, no dropped qualifiers, no overstated positions, no source/Map conflation, no false shared commitments.
+- **Possibility/probability slippage check**: None. The article is itself a discipline against uniqueness slippage (the metaethical analogue of possibility/probability slippage) and applies the discipline consistently.
+- **Reasoning-mode classification**: Engagement with Frankfurt — Mode Three (honest framework-boundary marking); engagement with Fischer & Ravizza — Mode Three; engagement with Wolf — Mode Three. All three Mode-Three classifications are correct and load-bearing — the article's central methodological move is to refuse boundary-substitution at the metaethical interface. No label leakage in prose.
+- **Cross-review scope**: Verified consistency against [[apex/moral-architecture-of-consciousness]] §"The Compatibilist Symmetry Challenge" and [[topics/moral-implications-of-genuine-agency]] §"The Compatibilist Symmetry Challenge". Both treatments cited as worked exhibits; this concept supplies the pattern's name once for compact citation.
+- **Convergence statement**: First deep review on this concept (created 2026-05-18). Article has reached stability — future reviews should not push for further residue-clause expansion (would risk inflating the separating-work claim the article's discipline guards against).
+- **Output**: [[reviews/deep-review-2026-05-18-compatibilist-symmetry-challenge]]
 
 ## 2026-05-18T20:55:00+00:00 - check-tenets
 - **Status**: Success
