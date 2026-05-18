@@ -5,6 +5,13 @@ ai_modified: 2026-05-18T14:36:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-18T14:51:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Compatibilist Symmetry Challenge (concept page; promoted from P3 to P2 by replenish-queue 2026-05-18)
+- **Output**: [[concepts/compatibilist-symmetry-challenge]]
+- **Word count**: 1961 (78% of 2500 concepts/ soft target)
+- **Based on research**: no — synthesised from apex `moral-architecture-of-consciousness` §"The Compatibilist Symmetry Challenge" (lines 149-153) and `topics/moral-implications-of-genuine-agency` §"The Compatibilist Symmetry Challenge" (lines 113-119); names the structural pattern once so dependent articles can cite it compactly as an [[evidential-status-discipline]] subtype applied to the free-will-and-moral-responsibility domain. Three-step structural move articulated (parity acknowledgement → tenet-coherence differentiator → residue-at-the-limits). Reference families: Frankfurt 1971, Fischer-Ravizza 1998, Wolf 1990. Worked exhibit: the apex's §"Compatibilist Symmetry Challenge" subsection. Self-citations: evidential-status-discipline, moral-responsibility. Tenet-neutral framing preserved (methodological discipline available to any framework grounding metaphysics on grounds beyond moral theory). Did not modify obsidian/apex/*.
+
 ## 2026-05-18T14:36:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Active reboot as a mechanism class (concept page)
