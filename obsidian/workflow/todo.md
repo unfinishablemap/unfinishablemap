@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/phenomenology-of-consciousness-doing-work.md against pessimistic-2026-05-18 calibration findings
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the consciousness-and-causal-powers.md pessimistic review (2026-05-18). The apex article `apex/phenomenology-of-consciousness-doing-work.md` is the catalogue's existing phenomenological apex on causal powers; it inherits the four-mechanism causal-powers framing (Selection of Action, Sustained Attention, Phenomenal Biasing, Volitional Modulation) and references the topic article as its source. The pessimistic review identified that the four-mechanism exposition silently treats framework-permission as evidence-positive content — a *possibility/probability slippage* per `[[evidential-status-discipline]]`. Once the P1 critical-issues task lands (reframing the four-mechanism heading and adding the evidential-status preamble in the topic article), the apex article should be cross-reviewed for the same slippage at the synthesis tier. Specifically: (a) verify the apex distinguishes "the Map's framework permits this causal role" from "consciousness performs this causal role" — the apex's phenomenology-to-mechanism inferences are particularly susceptible to the slippage Pessimistic-2026-05-18 Issue 1 names; (b) verify the apex engages predictive-processing as the principal rival reading (Pessimistic-2026-05-18 Issue 2 — the pain-asymbolia constrain-vs-establish failure may be inherited at the apex tier); (c) verify the apex's overdetermination treatment is not inherited as a Pyrrhic dissolution (Pessimistic-2026-05-18 Issue 3); (d) check whether the apex's tier-language matches the topic article's revised calibration after the P1 task lands. Short-medium scope (~300–600 words touched at the apex). Tenet alignment: Tenet 3 (Bidirectional Interaction) at the synthesis tier. **Sequencing**: should land *after* the P1 critical-issues task on the source topic article, so the apex can be cross-reviewed against the article's revised calibration.
-- **Source**: chain (from pessimistic-review 2026-05-18)
-- **Generated**: 2026-05-18
-
 ### P2: Cross-review downstream inheritors of the causal-powers four-mechanism framing
 - **Type**: cross-review
 - **Status**: pending
@@ -3793,6 +3786,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-18: Cross-review apex/phenomenology-of-consciousness-doing-work.md against pessimistic-2026-05-18 calibration findings
+- **Type**: cross-review
+- **Notes**: Chain from the consciousness-and-causal-powers.md pessimistic review (2026-05-18). The apex article `apex/phenomenology-of-consciousness-doing-work.md` is the catalogue's existing phenomenological apex on causal powers; it inherits the four-mechanism causal-powers framing (Selection of Action, Sustained Attention, Phenomenal Biasing, Volitional Modulation) and references the topic article as its source. The pessimistic review identified that the four-mechanism exposition silently treats framework-permission as evidence-positive content — a *possibility/probability slippage* per `[[evidential-status-discipline]]`. Once the P1 critical-issues task lands (reframing the four-mechanism heading and adding the evidential-status preamble in the topic article), the apex article should be cross-reviewed for the same slippage at the synthesis tier. Specifically: (a) verify the apex distinguishes "the Map's framework permits this causal role" from "consciousness performs this causal role" — the apex's phenomenology-to-mechanism inferences are particularly susceptible to the slippage Pessimistic-2026-05-18 Issue 1 names; (b) verify the apex engages predictive-processing as the principal rival reading (Pessimistic-2026-05-18 Issue 2 — the pain-asymbolia constrain-vs-establish failure may be inherited at the apex tier); (c) verify the apex's overdetermination treatment is not inherited as a Pyrrhic dissolution (Pessimistic-2026-05-18 Issue 3); (d) check whether the apex's tier-language matches the topic article's revised calibration after the P1 task lands. Short-medium scope (~300–600 words touched at the apex). Tenet alignment: Tenet 3 (Bidirectional Interaction) at the synthesis tier. **Sequencing**: should land *after* the P1 critical-issues task on the source topic article, so the apex can be cross-reviewed against the article's revised calibration.
 
 ### ✓ 2026-05-18: Address pessimistic-2026-05-18 counterarguments, unsupported claims, and language fixes in topics/consciousness-and-causal-powers.md
 - **Type**: refine-draft

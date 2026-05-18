@@ -4,8 +4,8 @@ description: "What does it feel like when consciousness acts on matter? Effort, 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-05-11T18:26:00+00:00
-last_deep_review: 2026-05-11T18:26:00+00:00
+ai_modified: 2026-05-18T15:30:00+00:00
+last_deep_review: 2026-05-18T15:30:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-agency-vs-passivity]]"
@@ -140,7 +140,7 @@ Flow thus reveals that the four features are partially dissociable. Selection an
 
 Meditation training provides a longitudinal window into the phenomenology of working consciousness. Beginners find sustained attention intensely effortful. With practice, the effort diminishes — not because consciousness stops working, but because the [[attention-as-interface|interface]] has been trained. Neural pathways supporting stable attention strengthen, and the brain requires less correction.
 
-Advanced practitioners access modes that illuminate the features from unusual angles. [[witness-consciousness|Witness consciousness]] — observing without selecting — represents consciousness deliberately adopting passivity. This is not unconsciousness but a mode where selection, holding, and effort are deliberately suspended while awareness continues. The capacity to move between active and witnessing modes is itself an exercise of agency at a higher level — meta-selection of whether to select.
+Advanced practitioners access modes that illuminate the features from unusual angles. [[witness-consciousness|Witness consciousness]] — observing without selecting — represents consciousness deliberately adopting passivity. Awareness continues, but selection, holding, and effort are deliberately suspended; the mode is therefore distinct from unconsciousness. The capacity to move between active and witnessing modes is itself an exercise of agency at a higher level — meta-selection of whether to select.
 
 Contemplative evidence also bears on the opacity feature. Buddhist traditions describe observing intentions arise with extraordinary precision — noticing the moment of *cetanā* (volition) before action occurs — yet even the most refined introspective access cannot penetrate *how* the intention produces its effect. The opacity holds at every level of contemplative attainment reported across traditions, suggesting it is structural rather than a function of insufficient practice.
 
