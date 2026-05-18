@@ -1,13 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18 11:50:24+00:00
+ai_modified: 2026-05-18 13:40:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-18T13:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Original score**: N/A (pessimistic-review-driven refine pass; pessimistic-2026-05-18 found 3 critical issues + 6 smaller findings + 5 unsupported claims)
+- **Changes**: Critical-1 (possibility/probability slippage): renamed §"What Consciousness Does (According to the Map)" → §"What the Map Hypothesises Consciousness Does"; added one-paragraph calibration preamble flagging the four sub-section mechanisms as speculative-integration-tier per [evidential-status-discipline](/project/evidential-status-discipline/). Critical-2 (constrain-vs-establish failure): rewrote §"Phenomenal Biasing" pain-asymbolia argument to acknowledge the predictive-processing affective-prior rival (parietal/insular damage disrupts valence-prior; behavioural collapse follows) and locate the Map's substantive disagreement at the sub-personal-valence-prior-to-felt-awfulness bridge rather than the dissociation phenomenon. Critical-3 (overdetermination dissolution): replaced single-sentence gesture with ~280-word summary of the move from [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/) (candidate set + Born-rule probabilities + non-sufficient physical contribution + mind-side selection); added explicit acknowledgement that under [causal-consistency-constraint](/concepts/causal-consistency-constraint/) the bias is operationally indistinguishable from no-bias on single-event tests, characterising the position as framework-coherence-supported, operationally underdetermined. Smaller: added ~150-word decoherence-time-gap paragraph in §"Sustained Attention" naming the 12–16 orders-of-magnitude mismatch between $\geq 10^{13}$ Hz observation rate and 10–30 Hz attentional phenomenology; added MWI parenthetical to §"Selection among alternatives" naming the framework-level dependency on rejecting Tenet 4 honestly; cut banned "not X but Y" construct at line 51; replaced substance-talk "possesses" → "exercises"; softened over-strong "must explain" at line 157; cut self-congratulatory "and not merely by assertion"; expanded cognitive-load claim into honest acknowledgement of contested literature; softened phenomenal-effort-corresponds-to-causal-influence claim into hypothesised-rather-than-measured with rival; rewrote luck-objection paragraph to acknowledge the objection cuts against constrained powers too.
+- **Engagement classifications**: engagement with predictive-processing (pain-asymbolia rewrite): Mode Four — empirical underdetermination acknowledged at the dissociation level, substantive disagreement located at the sub-personal-valence-prior-to-felt-awfulness bridge but not adjudicated. Engagement with MWI (parenthetical): Mode Three — honest framework-boundary marking; Tenet 4 rejection named as load-bearing without claiming in-framework refutation of Everettianism. Engagement with Tegmark/decoherence (sustained-attention rewrite): Mode One adjacent — the framework concedes the in-framework challenge from quantitative-physics standards the materialist physicist accepts and notes the framework has not resolved it. Engagement with Kim's exclusion argument (overdetermination summary): Mode One — derives the structural failure of the sufficiency premise locally at quantum indeterminacies using premises Kim's framework can recognise.
+- **Preserved strengths** (per pessimistic-2026-05-18 §"Strengths"): §"What Consciousness Does Not Do" prohibitive section untouched; §"Absence of Direct Evidence" concession untouched and now properly anchoring the calibration preamble; §"Identity Theory Engagement" lines 181–183 untouched.
+- **Word count**: ~2,936 → ~3,750 words (net +~800). Over the ~300–500 word refine-pass guidance because the three critical issues required substantive expansion (calibration preamble, decoherence-time paragraph, overdetermination summary). No deletions to load-bearing prose.
+- **Published**: yes
+
+## 2026-05-18T13:20:12+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — 221 lines, ~2,936 words; first pessimistic-review pass on the Map's principal Tenet 3 / Tenet 2-scope exposition (article created 2026-02-11, last deep-reviewed 2026-05-15, never previously adversarially audited).
+- **Findings**: 3 critical issues (possibility/probability slippage in §"What Consciousness Does" heading + four sub-sections; constrain-vs-establish failure in pain-asymbolia argument lines 113–115; overdetermination "dissolution" at line 197 is Born-statistics-preservation-induced Pyrrhic move). 6 smaller findings (decoherence-time gap for Zeno mechanism unacknowledged; MWI dependence unmarked; banned "not X but Y" construct at line 51; substance-talk "possesses"; over-strong "the correct theory must explain"; self-congratulatory "and not merely by assertion"). 5 unsupported claims. Six critic personas all converge on possibility/probability slippage as the article's primary structural weakness — Churchland names it directly, Dennett targets the operationally-undetectable-bias problem, Tegmark the decoherence-time gap, Deutsch the MWI dependency, Popperian the asymmetry between operational prohibitions and unfalsifiable affirmations, Nāgārjuna the substance-reification.
+- **Output**: [pessimistic-2026-05-18](/reviews/pessimistic-2026-05-18/)
+- **Follow-up**: 1 P2 refine-draft task added to todo.md.
+
+## 2026-05-18T12:35:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Original score**: N/A (sympathetic-persona pass; optimistic-2026-05-17 Medium Priority refine target)
+- **Changes**: Lifted Sanders et al. 2023 *disconnection-not-extinction* framing from mid-paragraph (it was the closing sentence of the Bhatt et al. 2019 paragraph) to a load-bearing introductory paragraph at the opening of §"Graded Consciousness and Filter Theory Predictions." New framing names the mainstream-anaesthesiology consensus-shift explicitly as Map-supportive *convergence* and holds the modal register at suggestive-convergence ("suggestive rather than vindicating"; "the same data are compatible with sophisticated production-model reinterpretation") per [evidential-status-discipline](/project/evidential-status-discipline/). Preserved all load-bearing exhibits: xenon-ketamine contrast, KCC2 active-reboot mechanism, framework-stage qualification on the induction-emergence asymmetry, self-stultification engagement, and the line 132 underdetermination acknowledgement (catalogue-distinctive evidence pattern remains intact post-condense).
+- **Scope**: ~150 words added in one location (§"Graded Consciousness and Filter Theory Predictions" opening). No deletions to load-bearing prose; the Bhatt paragraph is leaner because the Sanders sentences moved up.
+- **Published**: yes
+
+## 2026-05-18T12:21:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)
+- **Word count**: 2236 → 2244 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (body cross-link to alternative pathway now points to dedicated topic article rather than concept-page anchor)
+- **Enhancements made**: 1
+- **Engagement classifications**: engagement with illusionism: Mode One; the article identifies the forward-only-causation assumption the standard conclusion depends on and challenges that assumption using time-symmetric physics. engagement with MWI defenders: Mode Three; the framework-boundary disagreement is declared honestly as a tenet-level commitment, not dressed as in-framework refutation.
+- **Convergence**: Fourth review of this article (2026-02-01, 2026-03-07, 2026-03-30, 2026-05-18). No critical issues across all four. Article remains stable.
+- **Output**: [deep-review-2026-05-18-time-symmetric-selection-mechanism](/reviews/deep-review-2026-05-18-time-symmetric-selection-mechanism/)
 
 ## 2026-05-18T11:50:24+00:00 - refine-draft
 - **Status**: Success

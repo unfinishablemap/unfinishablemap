@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-17 02:11:00+00:00
+ai_modified: 2026-05-18 12:35:30+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ concepts:
 - '[[direction-of-fit]]'
 - '[[degrees-of-consciousness]]'
 created: 2026-02-23
-date: &id001 2026-05-17
+date: &id001 2026-05-18
 description: Anaesthetic pharmacology maps the consciousness-brain interface with
   unexpected precision. Different agents disrupt different interface components, revealing
   a structured, multi-layered connection between mind and matter.
@@ -86,9 +86,9 @@ Nearly all anaesthetics disrupt explicit memory formation at sub-anaesthetic dos
 
 ## Graded Consciousness and Filter Theory Predictions
 
-Production and transmission theories make identical predictions in normal cases; they diverge where consciousness *persists or intensifies* despite severe neural disruption.
+Production and transmission theories make identical predictions in normal cases; they diverge where consciousness *persists or intensifies* despite severe neural disruption. One of the article's strongest exhibits sits at this divergence: mainstream anaesthesiology has itself moved toward a *disconnection-not-extinction* framing — the framing filter theory predicts. Sanders et al. (2023) state the clinical point explicitly: anaesthesia does not require full loss of consciousness; disconnection from the environment is sufficient. Most clinical-evidence articles for filter framing have to argue against mainstream consensus; this one has the mainstream consensus moving toward the framing it would otherwise have to defend. The convergence is *suggestive* rather than *vindicating* — mainstream anaesthesiology arrived at disconnection-as-sufficient through its own empirical work (residual awareness during anaesthesia, the isolated forearm technique, Bhatt et al.'s component decomposition), and the same data are compatible with sophisticated production-model reinterpretation. What the convergence shows is that a framing filter theory was committed to ahead of the evidence has, over the last decade of clinical work, become the framing the field uses to describe what it sees.
 
-Bhatt et al. (2019) decompose conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness. Different agents selectively impair different components, producing agent-specific profiles rather than uniform suppression. Connected consciousness (detectable via the isolated forearm technique) occurs in 0.1–0.2% of general anaesthetics, rising to 1% with neuromuscular blockade. Disconnected consciousness involves vivid dreaming while environmental access is severed; in some protocols nearly all unresponsive participants recalled dreaming on emergence. Sanders et al. (2023) state the clinical point explicitly: anaesthesia does not require full loss of consciousness — disconnection from the environment is sufficient. Mainstream anaesthesiology acknowledging primarily *disconnection* rather than extinction aligns with filter theory.
+Bhatt et al. (2019) decompose conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness. Different agents selectively impair different components, producing agent-specific profiles rather than uniform suppression. Connected consciousness (detectable via the isolated forearm technique) occurs in 0.1–0.2% of general anaesthetics, rising to 1% with neuromuscular blockade. Disconnected consciousness involves vivid dreaming while environmental access is severed; in some protocols nearly all unresponsive participants recalled dreaming on emergence.
 
 Perturbational complexity index (PCI) measurements show continuous, graded changes under propofol rather than a sharp threshold. A progressively constricted filter produces this kind of graded narrowing; a generator powering down might too, but the qualitative differences between agents — propofol silence versus ketamine vividness at equivalent behavioural depths — are harder to reconcile with one mechanism at different power levels. Ketamine poses a specific challenge to integrated information theory: PCI remains at waking levels yet consciousness is disconnected. Filter theory accommodates this naturally — integration is intact, but access channels are pharmacologically blocked.
 
@@ -188,3 +188,16 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Craddock, T. J. A., et al. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 15(6), 523-533.
 1. Hameroff, S., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Changes made:
+- Added a framing paragraph at the opening of §"Graded Consciousness and Filter Theory Predictions" that lifts the Sanders et al. 2023 consensus-shift observation from mid-paragraph (where it previously sat as the closing sentence of the Bhatt et al. 2019 paragraph) into a load-bearing introductory position. The framing names mainstream anaesthesiology's move toward "disconnection-not-extinction" as Map-supportive convergence — calibrated as *suggestive*, not *vindicating*, per [evidential-status-discipline](/project/evidential-status-discipline/).
+- The Sanders et al. 2023 framing is now stated at the top of the section rather than buried at the end of the Bhatt paragraph; the Bhatt paragraph itself is now leaner (the Sanders sentence and the consensus-shift sentence were moved up).
+- Preserved all existing load-bearing exhibits per task notes: xenon-ketamine contrast (line 72), KCC2 active-reboot mechanism (line 108 region), framework-stage qualification at the induction-emergence asymmetry, self-stultification engagement, and the line 132 "Anaesthetic evidence alone cannot distinguish" honest-underdetermination move.
+- The new framing paragraph explicitly states: "the convergence is *suggestive* rather than *vindicating*", "the same data are compatible with sophisticated production-model reinterpretation", honouring the modal register the task notes specified.
+
+Based on review scoring (sympathetic-persona pass, Medium Priority — no numeric score, but optimistic-2026-05-17.md identified this as the Medium Priority refine target).
+Key improvements: load-bearing surface for the *catalogue-distinctive* consensus-shift observation; modal register held at suggestive-convergence; no upgrade to higher tier.
+
+This log should be removed after human review.
+-->

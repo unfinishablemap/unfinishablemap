@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T13:20:12+00:00
+ai_modified: 2026-05-18T13:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T13:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-causal-powers]]
+- **Original score**: N/A (pessimistic-review-driven refine pass; pessimistic-2026-05-18 found 3 critical issues + 6 smaller findings + 5 unsupported claims)
+- **Changes**: Critical-1 (possibility/probability slippage): renamed §"What Consciousness Does (According to the Map)" → §"What the Map Hypothesises Consciousness Does"; added one-paragraph calibration preamble flagging the four sub-section mechanisms as speculative-integration-tier per [[evidential-status-discipline]]. Critical-2 (constrain-vs-establish failure): rewrote §"Phenomenal Biasing" pain-asymbolia argument to acknowledge the predictive-processing affective-prior rival (parietal/insular damage disrupts valence-prior; behavioural collapse follows) and locate the Map's substantive disagreement at the sub-personal-valence-prior-to-felt-awfulness bridge rather than the dissociation phenomenon. Critical-3 (overdetermination dissolution): replaced single-sentence gesture with ~280-word summary of the move from [[overdetermination-dissolution-under-selection-only-interactionism]] (candidate set + Born-rule probabilities + non-sufficient physical contribution + mind-side selection); added explicit acknowledgement that under [[causal-consistency-constraint]] the bias is operationally indistinguishable from no-bias on single-event tests, characterising the position as framework-coherence-supported, operationally underdetermined. Smaller: added ~150-word decoherence-time-gap paragraph in §"Sustained Attention" naming the 12–16 orders-of-magnitude mismatch between $\geq 10^{13}$ Hz observation rate and 10–30 Hz attentional phenomenology; added MWI parenthetical to §"Selection among alternatives" naming the framework-level dependency on rejecting Tenet 4 honestly; cut banned "not X but Y" construct at line 51; replaced substance-talk "possesses" → "exercises"; softened over-strong "must explain" at line 157; cut self-congratulatory "and not merely by assertion"; expanded cognitive-load claim into honest acknowledgement of contested literature; softened phenomenal-effort-corresponds-to-causal-influence claim into hypothesised-rather-than-measured with rival; rewrote luck-objection paragraph to acknowledge the objection cuts against constrained powers too.
+- **Engagement classifications**: engagement with predictive-processing (pain-asymbolia rewrite): Mode Four — empirical underdetermination acknowledged at the dissociation level, substantive disagreement located at the sub-personal-valence-prior-to-felt-awfulness bridge but not adjudicated. Engagement with MWI (parenthetical): Mode Three — honest framework-boundary marking; Tenet 4 rejection named as load-bearing without claiming in-framework refutation of Everettianism. Engagement with Tegmark/decoherence (sustained-attention rewrite): Mode One adjacent — the framework concedes the in-framework challenge from quantitative-physics standards the materialist physicist accepts and notes the framework has not resolved it. Engagement with Kim's exclusion argument (overdetermination summary): Mode One — derives the structural failure of the sufficiency premise locally at quantum indeterminacies using premises Kim's framework can recognise.
+- **Preserved strengths** (per pessimistic-2026-05-18 §"Strengths"): §"What Consciousness Does Not Do" prohibitive section untouched; §"Absence of Direct Evidence" concession untouched and now properly anchoring the calibration preamble; §"Identity Theory Engagement" lines 181–183 untouched.
+- **Word count**: ~2,936 → ~3,750 words (net +~800). Over the ~300–500 word refine-pass guidance because the three critical issues required substantive expansion (calibration preamble, decoherence-time paragraph, overdetermination summary). No deletions to load-bearing prose.
+- **Published**: yes
 
 ## 2026-05-18T13:20:12+00:00 - pessimistic-review
 - **Status**: Success

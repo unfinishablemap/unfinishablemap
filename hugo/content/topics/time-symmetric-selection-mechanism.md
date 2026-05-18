@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-04-30 19:21:00+00:00
+ai_modified: 2026-05-18 12:21:34+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Consciousness selects quantum outcomes atemporally via transactiona
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-30 01:44:00+00:00
+last_deep_review: 2026-05-18 12:21:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,7 +120,7 @@ The atemporal model fits the phenomenology of decision better than sequential ca
 Henry Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) proposes that mental attention acts as repeated observation, holding neural patterns stable through the Zeno effect. The Zeno mechanism is compatible with both selection pathways:
 
 - On the **time-symmetric** pathway (this article): Zeno describes *how* consciousness interfaces with quantum processes at each observation event, while time-symmetry explains *when* this operates—atemporally, determining which patterns become actual across time.
-- On the **[non-retrocausal](/concepts/consciousness-selecting-neural-patterns/#forward-in-time-vs-retrocausal-selection)** pathway: Zeno operates forward in time, with consciousness holding desired neural patterns through rapid observation at the moment of collapse. No backward causation is needed.
+- On the **[non-retrocausal](/topics/forward-in-time-conscious-selection/)** pathway: Zeno operates forward in time, with consciousness holding desired neural patterns through rapid observation at the moment of collapse. No backward causation is needed (see also [the selection-mechanism discussion](/concepts/consciousness-selecting-neural-patterns/#forward-in-time-vs-retrocausal-selection)).
 
 The Zeno mechanism itself is temporally neutral—it describes an observation-based interface that works regardless of whether the selection is atemporal or forward-in-time. What differs between the pathways is the temporal structure of the selection, not the observation mechanism.
 
