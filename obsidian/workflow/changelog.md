@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T09:00:00+00:00
+ai_modified: 2026-05-18T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]] + [[concepts/quantum-biology-and-neural-mechanisms]] (cross-review pass)
+- **Driver**: Cross-review against [[pessimistic-2026-05-17b]] findings on the sibling article [[evolutionary-case-for-quantum-neural-effects]]; mandate to check whether the six defects identified in the source article had propagated into or independently existed in the other two legs of the quantum-biology-neural three-legged structure
+- **Word count**: topic 3301 → 3413 (+112); concept 2590 → 2754 (+164)
+- **Critical issues addressed**: 3 (both articles' Further Reading "probable" cross-link descriptions; concept article's Hagan 2002 settled-correction framing; topic article's Tegmark 2000 scope-inconsistency between line 45 and line 149)
+- **Medium issues addressed**: 3 (teleological evolution language across both articles; "computational payoffs would dwarf" claim; concept article's "predictions held up" framing recalibrated)
+- **Enhancements made**: 15 line-level edits; coherence-time table in concept article reworked to include scope/status column; apex/post-decoherence-selection-programme added to concept article's related_articles; stale 2026-05-11 AI refinement log removed from topic article; both articles' frontmatter timestamps updated
+- **Engagement classifications (editor-internal)**: Tegmark engagement upgraded to mixed Mode-Two (helps itself to applicability to discrete-event mechanisms it did not address) + Mode-Three (boundary-marking the unresolved Hagan dispute); illusionism engagement (concept article) stands as Mixed Mode-Two/Mode-Three
+- **Output**: [[reviews/deep-review-2026-05-18-quantum-biology-and-neural-consciousness]]
 
 ## 2026-05-18T09:00:00+00:00 - deep-review
 - **Status**: Success

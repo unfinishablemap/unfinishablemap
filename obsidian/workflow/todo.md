@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum-biology-and-neural-consciousness.md and quantum-biology-and-neural-mechanisms against pessimistic-2026-05-17b findings
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the pessimistic-2026-05-17b critical/medium findings on the sister article `topics/evolutionary-case-for-quantum-neural-effects.md`. The pessimistic review explicitly identifies that article as "the 'evolutionary plausibility' leg of a three-legged structure (the other legs are [[concepts/quantum-biology-and-neural-mechanisms]] and [[topics/quantum-biology-and-neural-consciousness]])." If the evolutionary-case article's optimisation-argument predictions and Hagan-2002 reliance are calibrated down (per the P1 refine task above), the same claims in the two sister articles may need parallel calibration. Cross-review should (a) audit `topics/quantum-biology-and-neural-consciousness.md` for the same probability/possibility slippage, Hagan-2002 over-reliance, and optimisation-argument predictive-vs-accommodating framing; (b) audit `concepts/quantum-biology-and-neural-mechanisms` for matching calibration drift; (c) install reciprocal cross-references where the three articles share load-bearing claims so calibration changes propagate; (d) verify the three articles' joint claim structure is internally consistent after calibration; (e) preserve length bands. Honour [[evidential-status-discipline]] and `framework-stage-calibration`. Tenet alignment: methodological / Tenet 2. See [[reviews/pessimistic-2026-05-17b]].
-- **Source**: chain (from pessimistic-2026-05-17b on evolutionary-case-for-quantum-neural-effects)
-- **Generated**: 2026-05-18
-
 ### P2: Write voids/perceptual-reality-monitoring-void from research note
 - **Type**: expand-topic
 - **Status**: pending
@@ -3835,6 +3828,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-18: Cross-review quantum-biology-and-neural-consciousness.md and quantum-biology-and-neural-mechanisms against pessimistic-2026-05-17b findings
+- **Type**: cross-review
+- **Notes**: Chain from the pessimistic-2026-05-17b critical/medium findings on the sister article `topics/evolutionary-case-for-quantum-neural-effects.md`. The pessimistic review explicitly identifies that article as "the 'evolutionary plausibility' leg of a three-legged structure (the other legs are [[concepts/quantum-biology-and-neural-mechanisms]] and [[topics/quantum-biology-and-neural-consciousness]])." If the evolutionary-case article's optimisation-argument predictions and Hagan-2002 reliance are calibrated down (per the P1 refine task above), the same claims in the two sister articles may need parallel calibration. Cross-review should (a) audit `topics/quantum-biology-and-neural-consciousness.md` for the same probability/possibility slippage, Hagan-2002 over-reliance, and optimisation-argument predictive-vs-accommodating framing; (b) audit `concepts/quantum-biology-and-neural-mechanisms` for matching calibration drift; (c) install reciprocal cross-references where the three articles share load-bearing claims so calibration changes propagate; (d) verify the three articles' joint claim structure is internally consistent after calibration; (e) preserve length bands. Honour [[evidential-status-discipline]] and `framework-stage-calibration`. Tenet alignment: methodological / Tenet 2. See [[reviews/pessimistic-2026-05-17b]].
 
 ### ✓ 2026-05-18: Address pessimistic-2026-05-17b findings in topics/evolutionary-case-for-quantum-neural-effects.md
 - **Type**: refine-draft
