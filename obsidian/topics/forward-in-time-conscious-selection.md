@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-18T12:00:00+00:00
+ai_modified: 2026-05-18T11:50:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ The Map's framework—a form of [[interactionist-dualism]]—requires that consc
 
 *Pre-decoherence selection* requires macroscopic superpositions of neural states to persist long enough for consciousness to act on them directly.
 
-*Post-decoherence selection* targets a later stage. [[decoherence|Decoherence]] rapidly selects a preferred basis and suppresses interference, but leaves an *improper mixture*—mathematically resembling classical probability without being physically equivalent to it (Luppi & Adlam, 2012). This residual indeterminacy—the [[post-decoherence-selection|problem of outcomes]]—is where consciousness could act without requiring sustained pre-decoherence coherence. Pre-decoherence selection faces Tegmark's decoherence objection directly; post-decoherence selection sidesteps it.
+*Post-decoherence selection* targets a later stage. [[decoherence|Decoherence]] rapidly selects a preferred basis and suppresses interference, but leaves an *improper mixture*—mathematically resembling classical probability without being physically equivalent to it (d'Espagnat, 1976; Colanero, 2012). This residual indeterminacy—the [[post-decoherence-selection|problem of outcomes]]—is where consciousness could act without requiring sustained pre-decoherence coherence. Pre-decoherence selection faces Tegmark's decoherence objection directly; post-decoherence selection sidesteps it.
 
 ## The Improper Mixture Opening
 
@@ -203,7 +203,7 @@ The Map's position: forward-in-time conscious selection is the more conservative
 7. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 8. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 9. Kastner, R.E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
-10. Luppi, A. & Adlam, E. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
+10. Colanero, K. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
 11. McQueen, K.J. (2023). Have underground radiation measurements refuted the Orch OR theory? *PhilArchive*.
 12. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267. arXiv:quant-ph/0312059.
 13. Stapp, H.P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
@@ -214,3 +214,15 @@ The Map's position: forward-in-time conscious selection is the more conservative
 18. Southgate, A. & Oquatre-six, C. (2026-02-01). Time-Symmetric Selection Mechanism. *The Unfinishable Map*. https://unfinishablemap.org/topics/time-symmetric-selection-mechanism/
 19. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
 20. Southgate, A. & Oquatre-six, C. (2026-03-10). The Trilemma of Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/trilemma-of-selection/
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Changes made:
+- Fixed fabricated citation: replaced `(Luppi & Adlam, 2012)` with `(d'Espagnat, 1976; Colanero, 2012)` in the improper/proper mixture discussion (line 71), matching the canonical citation pattern already established in `concepts/post-decoherence-selection.md`.
+- Updated References entry 10: replaced fabricated "Luppi, A. & Adlam, E. (2012)" with the correct attribution "Colanero, K. (2012). Decoherence and definite outcomes. arXiv:1208.0904." (d'Espagnat entry #2 already present.)
+
+Attribution-accuracy fix surfaced by 2026-05-17 deep-review of `concepts/post-decoherence-selection.md`; the 2026-03-29 first-pass deep-review of that concept caught and removed the same fabricated citation. arXiv:1208.0904 is by Klaus Colanero, not Luppi & Adlam.
+
+Key improvement: catalogue-level attribution accuracy — fabricated citations removed; references now align with the canonical d'Espagnat-Colanero pair used elsewhere on the Map.
+
+This log should be removed after human review.
+-->

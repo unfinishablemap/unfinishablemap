@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T13:15:00+00:00
+ai_modified: 2026-05-18T11:50:24+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T11:50:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Original score**: N/A (targeted attribution fix; not a full quality review)
+- **Changes**: Replaced fabricated citation `(Luppi & Adlam, 2012)` with canonical `(d'Espagnat, 1976; Colanero, 2012)` in the improper/proper mixture discussion; corrected References entry 10 from Luppi & Adlam to Colanero (arXiv:1208.0904 is by Klaus Colanero, titled "Decoherence and definite outcomes"). Citation pattern now matches the canonical pairing already used in `concepts/post-decoherence-selection.md` (entries 2 and 3 there).
+- **Driver**: Promoted P3→P2 by replenish-queue 2026-05-18; surfaced by 2026-05-17 deep-review of `concepts/post-decoherence-selection.md`. Catalogue-level attribution-accuracy fix per CLAUDE.md.
+- **Published**: yes
 
 ## 2026-05-18T13:15:00+00:00 - refine-draft (queue-hygiene)
 - **Status**: Success
