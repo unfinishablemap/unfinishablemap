@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T17:37:00+00:00
+ai_modified: 2026-05-18T18:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T18:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[project/project]]
+- **Word count**: 293 → ~895 (+602, 36% of 2500 project/ soft target)
+- **Critical issues addressed**: 3 (stale Project Structure table — only 4 of 18 actual directories listed; missing "Relation to Site Perspective" section per writing-style guide; outdated `ai_system` frontmatter `claude-opus-4-5-20251101` → `claude-opus-4-7`)
+- **Medium issues addressed**: 4 (14 discipline files orphaned from project landing page — surfaced via new Editorial Disciplines section with four thematic clusters; `related_articles` frontmatter missing `tenets`/`writing-style`/`human-supervision`; vague Contributing section with no actionable pointers; generic description lacking canonical-domain context)
+- **Low issues addressed**: 1 (borderline LLM-cliché "X, not Y, but Z" rephrased to declarative)
+- **Enhancements made**: Editorial Disciplines navigation hub (16 wikilinks across 4 thematic groups: calibration-and-evidence, engaging-opponents, methodological-structure, outer-review-calibration); Project Structure split into repo-layout table + obsidian content sub-tree table; canonical-domain link surfaced in opening; named-anchor forward reference to disciplines section; substantive Contributing prose with public GitHub URL; substantive Relation to Site Perspective tying disciplines to tenet-survival under AI-scale generation
+- **Cross-links installed**: 16 new wikilinks; all 24 link targets verified present in vault
+- **Reasoning-mode classification**: Not applicable — project landing page with no named-opponent engagement. Empiricist (Popper) persona was load-bearing critic (factual claims about repo structure were falsifiable and falsified); corrections were structural, not philosophical.
+- **Output**: [[reviews/deep-review-2026-05-18-project]]
 
 ## 2026-05-18T17:37:00+00:00 - deep-review (cross-review of four-mechanism inheritors)
 - **Status**: Success
