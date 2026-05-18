@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T13:55:00+00:00
+ai_modified: 2026-05-18T14:20:20+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T14:20:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
+- **Previous review**: [[reviews/deep-review-2026-03-30-consciousness-disruption-and-the-mind-brain-interface|2026-03-30]] (49 days since)
+- **Word count**: 3514 → 3506 words (length-neutral mode; -8 words)
+- **Critical issues addressed**: 1 (quantitative overstatement: "order of magnitude" propofol complexity reduction replaced with multi-measure description; Mashour 2024 source does not support a specific factor-of-10 claim across all complexity measures, and the sister anaesthesia article uses "graded changes / continuous")
+- **Medium issues addressed**: 2 (active-reboot interpretive overreach tightened with direct Hu et al. 2023 citation and cross-agent mechanism-sharing point; Further Reading trimmed from 18 to 9 items, removing duplicates already linked in body text)
+- **Enhancements made**: Added Sarasso (2015) and Hu (2023) as proper references previously implicit in prose
+- **Engagement classifications**: engagement with Functionalism (§"How Theories Handle the Evidence"): Mode One; engagement with GNWT: Mode One (empirical via COGITATE 2025); engagement with IIT: Mode One (empirical via COGITATE 2025); engagement with Higher-order theories: Mode One (dilemma from CMD); engagement with Illusionism / Frankish: Mode Two (regress + propofol/ketamine challenge). No label leakage, no boundary substitution detected.
+- **Bedrock disagreements preserved as not-critical**: MWI defender on indexical identity argument; quantum skeptic on Minimal Quantum Interaction tenet connection (both noted in previous review's Stability Notes; not re-flagged per convergence rule)
+- **Output**: [[reviews/deep-review-2026-05-18-consciousness-disruption-and-the-mind-brain-interface]]
 
 ## 2026-05-18T13:55:00+00:00 - apex-evolve
 - **Status**: Success

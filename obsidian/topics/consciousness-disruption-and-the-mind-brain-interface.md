@@ -2,9 +2,9 @@
 title: "Consciousness Disruption and the Mind-Brain Interface"
 description: "Clinical evidence from anesthesia, coma, and disorders of consciousness consistently favours an interface model over production models. Consciousness persists when production theories predict its absence, and disappears in patterns that reveal a configurable interface."
 created: 2026-01-15
-modified: 2026-03-30
+modified: 2026-05-18
 human_modified:
-ai_modified: 2026-03-31T17:52:00+00:00
+ai_modified: 2026-05-18T14:20:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-30
 last_curated:
-last_deep_review: 2026-03-30T12:44:00+00:00
+last_deep_review: 2026-05-18T14:20:20+00:00
 coalesced_from:
   - "/topics/disorders-of-consciousness-as-test-cases/"
   - "/topics/loss-of-consciousness/"
@@ -102,7 +102,7 @@ Comparing different anesthetic drugs reveals a dissociation that production mode
 
 Yet the subjective realities differ radically.
 
-Propofol produces near-total extinction of consciousness. Patients report nothing—no dreams, no experiences, no sense of time passing. Brain complexity under propofol decreases by an order of magnitude (Mashour, 2024). The posterior cortical hot zone essentially goes silent.
+Propofol produces near-total extinction of consciousness. Patients report nothing—no dreams, no experiences, no sense of time passing. Measures of neural complexity—perturbational complexity index, Lempel-Ziv complexity, integrated information—drop substantially under propofol (Mashour, 2024; Sarasso et al., 2015), and the posterior cortical hot zone essentially goes silent.
 
 Ketamine produces "dissociative anesthesia" with vivid dreams, complex hallucinations, and out-of-body experiences. Brain dynamics under ketamine remain similar to waking consciousness. Patients emerge with elaborate narratives of journeys, encounters, and transformations.
 
@@ -146,7 +146,7 @@ Under general anesthesia, time does not merely pass quickly—it vanishes entire
 
 ## The Active Reboot and the Illusionist Challenge
 
-Recovery from anesthesia is not simply the reverse of induction. As drugs clear from the system, the brain appears to actively "reboot" consciousness through specific mechanisms including KCC2 downregulation, rather than passively waiting for pharmacological effects to dissipate. This suggests the brain *prepares* for consciousness rather than *produces* it—as if neural structures orient themselves to receive something that comes from elsewhere.
+Recovery from anesthesia is not simply the reverse of induction. As drugs clear from the system, the brain actively "reboots" consciousness through dedicated molecular mechanisms—most notably ubiquitin-driven KCC2 downregulation in the ventral posteromedial thalamus (Hu et al., 2023)—rather than passively waiting for pharmacological effects to dissipate. The same emergence pathway operates across pharmacologically distinct agents, suggesting the interface has a dedicated reopening mechanism that is mechanism-shared even when the closing pathways were mechanism-distinct. On a filter reading this is the brain preparing the interface; production models require an additional account of why a generator would need a coordinated reboot.
 
 [[illusionism|Illusionists]] argue that the "experiencing subject" is a model the brain maintains rather than a genuine entity—anesthesia disrupts the brain's self-model rather than eliminating consciousness. This objection faces the regress problem: if the appearance of consciousness is an illusion, something must experience that illusion. The propofol/ketamine divergence poses a specific challenge: both drugs disrupt self-modelling, yet produce radically different phenomenologies. Whatever distinguishes propofol's extinction from ketamine's preservation is precisely what filter theory identifies as the consciousness-brain interface.
 
@@ -189,18 +189,9 @@ The Map's [[tenets]] converge on consciousness disruption as a domain where the 
 - [[identity-across-transformations]] — Apex synthesis: how indexical identity persists through anesthesia, split-brain, altered states, and death
 - [[altered-states-as-interface-evidence]] — Apex synthesis placing loss of consciousness within a convergence matrix
 - [[anaesthesia-and-the-consciousness-interface]] — How different anaesthetic agents map the structured, multi-layered consciousness interface
-- [[filter-theory]] — The transmission model of brain-consciousness relation
-- [[neural-correlates-of-consciousness]] — Why correlations do not settle the production versus interface debate
-- [[terminal-lucidity-and-filter-transmission-theory]] — Cognitive return despite severe structural damage
 - [[near-death-experiences]] — Heightened consciousness during minimal brain function
 - [[clinical-phenomenology-and-altered-experience]] — How clinical cases generate philosophical evidence
 - [[neurological-dissociations-as-interface-architecture]] — Blindsight, anosognosia, and alien hand syndrome mapping the interface
-- [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity
-- [[sleep-and-consciousness]] — The evolved mechanism of consciousness reduction
-- [[hypnagogic-phenomenology-and-interface-modulation]] — The graded interface transition at sleep onset
-- [[integrated-information-theory]] — The Φ framework and its predictions for DoC
-- [[illusionism]] — The strongest physicalist challenge and why it fails here
-- [[hard-problem-of-consciousness]] — The explanatory gap that DoC cases illuminate
 - [[psychedelics-and-the-filter-model]] — Decreased brain activity producing expanded consciousness
 - [[interactionist-dualism]] — The philosophical framework grounding the interface model
 - [[death-and-consciousness]] — Consciousness at and beyond death
@@ -210,15 +201,17 @@ The Map's [[tenets]] converge on consciousness disruption as a domain where the 
 1. Bodien, Y. G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 2. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 3. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*.
-4. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*.
-5. Bergson, H. (1896). *Matter and Memory*.
-6. Huxley, A. (1954). *The Doors of Perception*.
-7. Giacino, J. T., et al. (2002). The minimally conscious state: definition and diagnostic criteria. *Neurology*, 58(3), 349-353.
-8. Owen, A. M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.
-9. Schnakers, C., et al. (2009). Diagnostic accuracy of the vegetative and minimally conscious state. *BMC Neurology*, 9, 35.
-10. Bodart, O., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*.
-11. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
-12. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-13. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
-14. Thompson, E. (2014). *Waking, Dreaming, Being*. Columbia University Press.
-15. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+4. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
+5. Hu, B., et al. (2023). Ubiquitin-driven KCC2 degradation in the ventral posteromedial thalamus drives emergence from anesthesia. *Neuron*.
+6. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*.
+7. Bergson, H. (1896). *Matter and Memory*.
+8. Huxley, A. (1954). *The Doors of Perception*.
+9. Giacino, J. T., et al. (2002). The minimally conscious state: definition and diagnostic criteria. *Neurology*, 58(3), 349-353.
+10. Owen, A. M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.
+11. Schnakers, C., et al. (2009). Diagnostic accuracy of the vegetative and minimally conscious state. *BMC Neurology*, 9, 35.
+12. Bodart, O., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*.
+13. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
+14. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+15. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
+16. Thompson, E. (2014). *Waking, Dreaming, Being*. Columbia University Press.
+17. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
