@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T22:36:00+00:00
+ai_modified: 2026-05-18T23:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T23:50:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Source review**: [[reviews/pessimistic-2026-05-18b]]
+- **Original score**: not formally re-scored (carries deep-review-2026-05-18 strengths through revision; addresses six High/Medium-High criticals)
+- **Critical issues addressed**: 6 (common-cause null rejoinder; seven-tradition force-counting; Wegner cited-while-eliminated; Occam's recursion self-undermining; constrain-vs-establish breach in §"Relation to Site Perspective"; "different representational profiles" load-bearing without analytic specification)
+- **Medium counterarguments addressed**: 3 (cognitive-science-finding-what-it-was-looking-for note; mode-fragility/contemplative engagement relocated from falsification to §"The Diagnostic Signature"; Hróbjartsson & Gøtzsche 2010 Cochrane meta-analysis recalibration of placebo content-specificity)
+- **Language fixes**: "rests not on X but on Y" → reflowed; "tightest demonstration" → "most developed worked instance"; "lifts" → "what is offered as raising"; description recalibrated; apex_thesis updated to reflect re-count
+- **Word count**: ~4244 body → ~4992 (under apex hard threshold 5000; over soft 4000)
+- **Section header**: §"Seven Traditions on the Same Architecture" → §"Independent Traditions on the Same Architecture" (reflects re-count to five-or-six)
+- **Engagement classification (editor-internal, per direct-refutation-discipline)**: Wegner: Mode Two upgraded — confabulation-vs-dissociation fork now argued from positive-companion structural commitment rather than asserted as straightforward convergence; materialist absorption strategies: Mode Three retained (boundary-marking + cost-of-explanation rhetoric, with explicit recursion-acknowledgment against Map's own use of explanatory-cost); Bergson: not engagement-as-opponent — re-classified as parallel proposer; Schwitzgebel: Mode Three with bilateral honesty (his scepticism cuts symmetrically against the cluster's outputs-as-given premise, acknowledged in prose)
+- **Reference added**: Hróbjartsson & Gøtzsche 2010 Cochrane meta-analysis
+- **Stability-note calibration**: deep-review-2026-05-09 stability notes at lines 86–89 not modified in this pass (they live in the review file, not the article); the article's revisions independently surface what those notes shielded
+- **Published**: yes
 
 ## 2026-05-18T22:52:00+00:00 - pessimistic-review
 - **Status**: Success
