@@ -4,7 +4,8 @@ description: "How can introspection distinguish genuine phenomenal consciousness
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-18T23:37:59+00:00
+ai_modified: 2026-05-18T23:50:25+00:00
+last_deep_review: 2026-05-18T23:50:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +23,8 @@ concepts:
   - "[[ai-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epistemology-of-limit-knowledge.md]]"
+  - "[[epistemology-of-limit-knowledge]]"
+  - "[[bedrock-clash-vs-absorption]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -57,15 +59,17 @@ A subtler form (the "[[phenomenal-concepts-strategy|phenomenal concepts]]" line,
 
 Externally, the discrimination problem is the question lurking behind every proposed test for consciousness. Verbal report fails by construction: a [[philosophical-zombies|zombie]], by stipulation, says exactly what we say. Behavioural tests (mirror self-recognition, contingency learning, perceptual report under masking) measure capacities that may be necessary but not sufficient for phenomenality. Neural correlates of consciousness (NCC) research identifies brain activity that *covaries* with reportable experience in human subjects, but covariation is not identity, and the methodology presupposes that report tracks experience in the human case—begging the question one level down.
 
-Daniel Dennett's heterophenomenology (see [[heterophenomenology]]) tries to dissolve the problem by treating verbal reports as data about how things *seem* to a subject, neutrally between realism and illusionism about the underlying phenomenality. The discrimination problem returns one step later: heterophenomenology can tell us what a subject *judges* to be the case, but the question of whether the judgements track genuine phenomenal facts is precisely what is left open. For Dennett this is a feature; for realists about phenomenal consciousness it is the same hole in different clothes.
+Daniel Dennett's heterophenomenology (see [[heterophenomenology]]) tries to dissolve the problem by treating verbal reports as data about how things *seem* to a subject, neutrally between realism and illusionism about the underlying phenomenality. By its own protocols heterophenomenology brackets the question of whether seemings have phenomenal backing; the method's announced neutrality is just the discrimination problem under a different name. It can tell us what a subject *judges* to be the case, but whether the judgement tracks a genuine phenomenal fact is precisely what is left open. For Dennett this is a feature; for realists about phenomenal consciousness it is the same hole in different clothes.
 
-Tests for [[ai-consciousness|AI consciousness]] inherit the problem in pure form. A language model can produce fluent, structurally appropriate reports about "feeling" various states. Whether anything corresponds to the reports is the discrimination problem at its sharpest, because the system is by hypothesis built to produce report-like outputs without any guarantee about inner states. Proposed solutions—architectural similarity to brains, computational tests inspired by [[consciousness-and-integrated-information|integrated information theory]] or global workspace theory, behavioural signatures—presuppose a theory of consciousness that fixes which features matter. The choice of theory is *itself* the discrimination criterion; the test does not independently establish it.
+Tests for [[ai-consciousness|AI consciousness]] inherit the problem in pure form. A language model can produce fluent, structurally appropriate reports about "feeling" various states. Whether anything corresponds to the reports is the discrimination problem at its sharpest, because the system is by hypothesis built to produce report-like outputs without any guarantee about inner states. The Map's [[ai-consciousness-typology|AI consciousness typology]] tracks this directly by separating *functional* signatures (which AI systems demonstrably possess) from *phenomenal* signatures (which the discrimination problem leaves open). Proposed solutions—architectural similarity to brains, computational tests inspired by [[consciousness-and-integrated-information|integrated information theory]] or global workspace theory, behavioural signatures—presuppose a theory of consciousness that fixes which features matter. The choice of theory is *itself* the discrimination criterion; the test does not independently establish it.
 
 ## Why It Is Stubborn {#stubborn}
 
 The discrimination problem is robust because of a structural asymmetry. Whatever discriminator we propose—introspective judgement, verbal report, neural signature, computational property—is a *functional* state. Functional states are exactly the kind of thing a [[philosophical-zombies|zombie]] (or, less exotically, an unconscious mechanism that mimics consciousness) could share with us. The discriminator therefore cannot, on its own, settle a question whose answer turns on whether functional duplication is sufficient for phenomenality. That settling requires a prior metaphysical commitment—physicalist functionalism, dualism, illusionism, panpsychism, or some other—imported from outside the data.
 
 This is why the problem connects so tightly to the [[meta-problem-of-consciousness|meta-problem]]: explaining why we *judge* there is a hard problem is comparatively tractable, but the explanation does not, by itself, decide whether the judgement is correct. A successful theory of why people produce consciousness-reports would, at best, identify the functional state *Q* that drives such reports. Whether *P* (phenomenality) accompanies *Q* in any given case is precisely what the discrimination problem holds open.
+
+The standoff this produces between physicalist-functionalist and realist readings is the kind of framework-boundary disagreement examined in [[bedrock-clash-vs-absorption]]: the discriminator question cannot be settled by data the disputing frameworks already share, because each framework reads the same data through its own metaphysical commitments.
 
 ## Boundary Cases That Sharpen the Problem {#cases}
 
@@ -87,11 +91,11 @@ If consciousness is non-physical (see [[tenets#^dualism|dualism]]), the discrimi
 
 ### Bidirectional Interaction
 
-The Map's [[tenets#^bidirectional|bidirectional interaction]] tenet softens, but does not solve, the problem. If consciousness causally influences physical states—through small biases on quantum outcomes, in the Map's preferred picture—then the third-person channel is not in principle hopeless: a real causal signature exists. But the signature would have to be unusually small (per the [[tenets#^minimal|minimal-interaction]] tenet), and distinguishing it from noise without an independently motivated theory of *how* consciousness influences physics is itself a discrimination problem in another register. The Map's expectation is that tests for consciousness will remain underdetermined by data alone, and that progress requires honest co-investment in metaphysics and measurement.
+The Map's [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet softens, but does not solve, the problem. If consciousness causally influences physical states—through small biases on quantum outcomes, in the Map's preferred picture—then the third-person channel is not in principle hopeless: a real causal signature exists. But the signature would have to be unusually small (per the [[tenets#^minimal-quantum-interaction|minimal-interaction]] tenet), and distinguishing it from noise without an independently motivated theory of *how* consciousness influences physics is itself a discrimination problem in another register. The Map's expectation is that tests for consciousness will remain underdetermined by data alone, and that progress requires honest co-investment in metaphysics and measurement.
 
 ### Limits of Occam's Razor
 
-The temptation to collapse the discrimination problem by stipulating that "functional-duplicate equals phenomenal-duplicate" is, in Map terms, a misuse of parsimony (see [[tenets#^razor|Occam's Razor Has Limits]]). It buys simplicity by ignoring the very phenomenon that motivated the question—the felt character of experience as distinct from its functional profile. The Map prefers an explicit metaphysical commitment that preserves the data, even at the cost of explanatory parsimony, over a deflationary move that resolves the problem by changing the subject.
+The temptation to collapse the discrimination problem by stipulating that "functional-duplicate equals phenomenal-duplicate" is, in Map terms, a misuse of parsimony (see [[tenets#^occams-limits|Occam's Razor Has Limits]]). It buys simplicity by ignoring the very phenomenon that motivated the question—the felt character of experience as distinct from its functional profile. The Map prefers an explicit metaphysical commitment that preserves the data, even at the cost of explanatory parsimony, over a deflationary move that resolves the problem by changing the subject.
 
 ### The Voids Connection
 

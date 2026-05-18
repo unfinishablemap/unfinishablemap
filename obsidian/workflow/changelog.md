@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T23:55:00+00:00
+ai_modified: 2026-05-18T23:50:25+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T23:50:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/discrimination-problem]]
+- **Word count**: 1715 → 1802 (+87)
+- **Critical issues addressed**: 2 (broken tenet anchors `^minimal`/`^bidirectional`/`^razor` → corrected to `^minimal-quantum-interaction`/`^bidirectional-interaction`/`^occams-limits`; broken wikilink in frontmatter `[[epistemology-of-limit-knowledge.md]]` → `[[epistemology-of-limit-knowledge]]`)
+- **Medium issues addressed**: 3 (strengthened Dennett reply via Mode Two move grounded in heterophenomenology's own protocols; added cross-link to [[bedrock-clash-vs-absorption]] in "Why It Is Stubborn"; added cross-link to [[ai-consciousness-typology]] in AI section)
+- **Enhancements made**: 3 (cross-links and Dennett-reply strengthening)
+- **Engagement classification (editor-internal, per direct-refutation-discipline)**: Dennett (heterophenomenology): Mode Mixed leaning Mode Two — strengthened to use heterophenomenology's announced neutrality as itself the discrimination problem; illusionism (Frankish/Loar): Mode Mixed — reductio framing (Mode Three) for stark illusionism, light Mode Two move on phenomenal-concepts strategy's unsupported "directness" posit; NCC methodology: Mode Two — identifies that report-tracking-experience presupposition runs in NCC researchers' own framework. No label leakage in article body.
+- **Attribution check**: passed (Schwitzgebel, Loar, Dennett, Frankish all fairly characterised; no misattribution, no dropped qualifiers, no source/Map conflation)
+- **Calibration check**: passed (Bidirectional Interaction section appropriately restrained — no possibility/probability slippage; declines to upgrade third-person channel reliability on tenet-load alone)
+- **Output**: [[reviews/deep-review-2026-05-18-discrimination-problem]]
 
 ## 2026-05-18T23:55:00+00:00 - expand-topic
 - **Status**: Success
