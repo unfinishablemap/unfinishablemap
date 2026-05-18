@@ -1,9 +1,9 @@
 ---
 title: "Volitional Control"
 created: 2026-03-20
-modified: 2026-03-24
+modified: 2026-05-18
 human_modified:
-ai_modified: 2026-04-29T20:04:00+00:00
+ai_modified: 2026-05-18T17:37:00+00:00
 draft: false
 description: "The experience of willing tracks real causal architecture, not post-hoc confabulation. Phenomenology and empirical evidence converge against epiphenomenalism."
 topics:
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-04-29T20:04:00+00:00
+last_deep_review: 2026-05-18T17:37:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-volitional-control/"
   - "/topics/volitional-control-empirical-evidence/"
@@ -104,7 +104,7 @@ Libet himself recognized that his experiments did not eliminate conscious causal
 
 The "whether" component is the most philosophically significant. When subjects intentionally inhibited a prepared action, Brass and Haggard observed specific activation in dFMC, which exerts top-down inhibition of premotor areas. This is not merely the absence of a go signal — it is an active neural process of cancellation, with its own distinct circuitry.
 
-Critics have objected that the veto itself must be unconsciously initiated, generating an infinite regress. But this objection assumes what it needs to prove — that every neural event must have a prior neural cause sufficient to explain it. The Map's framework offers an alternative: the "whether" decision is precisely where [[consciousness-selecting-neural-patterns|consciousness selects among neural patterns]], biasing quantum-indeterminate outcomes toward one resolution rather than another. The veto does not require a prior unconscious veto because it operates at the [[attention-as-interface|interface]] where conscious selection meets neural preparation. For how this mechanism might work through the quantum Zeno effect applied to motor selection, see [[motor-control-quantum-zeno|Motor Control and the Quantum Zeno Framework]].
+Critics have objected that the veto itself must be unconsciously initiated, generating an infinite regress. But this objection assumes what it needs to prove — that every neural event must have a prior neural cause sufficient to explain it. The Map's framework offers an alternative the framework hypothesises rather than establishes empirically: the "whether" decision is precisely where [[consciousness-selecting-neural-patterns|consciousness selects among neural patterns]], biasing quantum-indeterminate outcomes toward one resolution rather than another. This is the *volitional modulation* mechanism in the Map's hypothesised four-mechanism architecture (see [[consciousness-and-causal-powers#Volitional Modulation]] for the framework-level calibration: the mechanism is offered at the speculative-integration evidential tier, with the underlying neural-timescale quantum-coherence requirement an open and contested empirical question). The veto does not require a prior unconscious veto because it operates at the [[attention-as-interface|interface]] where conscious selection meets neural preparation, on the Map's reading. For how this mechanism might work through the quantum Zeno effect applied to motor selection, see [[motor-control-quantum-zeno|Motor Control and the Quantum Zeno Framework]].
 
 ## Intentional Binding: An Implicit Measure
 

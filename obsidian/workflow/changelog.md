@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T15:30:00+00:00
+ai_modified: 2026-05-18T17:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T17:37:00+00:00 - deep-review (cross-review of four-mechanism inheritors)
+- **Status**: Success
+- **Files**: [[topics/evolutionary-case-for-mental-causation]], [[topics/the-interface-problem]], [[topics/volitional-control]], [[concepts/consciousness-physics-interface-formalism]], [[concepts/pain-asymbolia]]
+- **Trigger**: Cross-review chained from the 2026-05-18 refine of [[topics/consciousness-and-causal-powers]] (commits 2d53d51a + 313eb593 + f310619f), which installed heading reframe to "What the Map Hypothesises Consciousness Does", calibration preamble flagging the four mechanisms as speculative-integration tier, pain-asymbolia constrain-vs-establish rewrite with PP-rival named at the valence-prior-to-felt-awfulness bridge, 280-word overdetermination dissolution characterised as "framework-coherence-supported, operationally underdetermined", decoherence-time gap acknowledged, MWI parenthetical
+- **Word counts**:
+    - evolutionary-case-for-mental-causation: 2985 → ~3065 (+80, 102% of 3000 soft)
+    - the-interface-problem: 3058 → ~3103 (+45, 103% of 3000 soft)
+    - volitional-control: 3162 → ~3217 (+55, 107% of 3000 soft)
+    - consciousness-physics-interface-formalism: 1976 → ~2026 (+50, 81% of 2500 soft)
+    - pain-asymbolia: 1696 → ~1876 (+180, 75% of 2500 soft)
+- **Critical issues addressed**: 2 (article (b) the-interface-problem §"Three Unspecified Candidates" pain-asymbolia "supports valence's causal role" upgrade to constrain-vs-establish discipline with PP-rival named; article (e) pain-asymbolia §"Causal Efficacy of Phenomenal Quality" rewritten to match source article's constrain-vs-establish framing with PP affective-prior rival identified at the constitution-vs-doing-work bridge)
+- **Medium issues addressed**: 1 (article (a) evolutionary-case-for-mental-causation inherited pain-asymbolia framing "what the interactionist predicts" softened to "consistent with... they do not on their own discriminate between interactionist and physicalist-with-valence-prior accounts")
+- **Soft issues addressed**: 1 (article (c) volitional-control Veto-section quantum-selection invocation softened with hypothesised-not-established qualifier and cross-link to §"Volitional Modulation" with speculative-integration-tier flagging)
+- **Enhancements made**: 1 (article (d) consciousness-physics-interface-formalism Component-3 paragraph signposted to four-mechanism catalogue at [[consciousness-and-causal-powers]])
+- **Cross-links installed**: Forward direction (downstream → source) installed across all five articles. (a), (b), (d) added [[consciousness-and-causal-powers]] to related_articles; (c) already had it in topics; (e) added to related_articles and added [[predictive-processing]] to concepts list. Body cross-links to the parent §"Phenomenal Biasing" / §"Volitional Modulation" anchors at three sites.
+- **Reasoning-mode classification**: Pain-asymbolia PP-rival engagement (articles a, b, e) — Mode Four empirical underdetermination, dissociation is shared explanandum, deeper disagreement at constitution-vs-doing-work bridge identified but not adjudicated. Volitional-modulation quantum-selection invocation (article c) — Mode Three framework-boundary marking, mechanism offered at speculative-integration tier with explicit acknowledgement of contested coherence-time requirement. Formalism cross-link to four-mechanism catalogue (article d) — no new opponent engagement, editorial signposting. No editor-vocabulary leakage in any of the five article prose changes; verified.
+- **Convergence**: This is a propagation cross-review, not a fresh deep review. Articles (a), (c), (d) were already "fully stable" by recent reviews; changes here address inheritance-specific issues only. Articles (b) and (e) had genuine inherited slippage now corrected. After this pass, the four-mechanism inheritor chain should be calibration-stable; future reviews should not re-flag the predictive-processing engagement as missing (now in place at four sites: source, pain-asymbolia, evolutionary-case-for-mental-causation, the-interface-problem) or as critical (honestly engaged as Mode Four empirical underdetermination at all sites).
+- **Output**: [[reviews/deep-review-2026-05-18-four-mechanism-inheritors-cross-review]]
 
 ## 2026-05-18T15:30:00+00:00 - deep-review
 - **Status**: Success

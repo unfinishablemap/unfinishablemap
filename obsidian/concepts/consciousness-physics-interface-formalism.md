@@ -2,9 +2,9 @@
 title: "Consciousness-Physics Interface Formalism"
 description: "The formal mathematical components and constraints any theory of consciousness-physics interaction must satisfy: state spaces, coupling maps, and the five non-negotiable bounds from quantum foundations."
 created: 2026-03-19
-modified: 2026-03-19
+modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-15T04:31:00+00:00
+ai_modified: 2026-05-18T17:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,12 +25,13 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[mind-matter-interface]]"
   - "[[interface-formalization-void]]"
+  - "[[consciousness-and-causal-powers]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-04-25T05:29:00+00:00
+last_deep_review: 2026-05-18T17:37:00+00:00
 ---
 
 Any theory claiming that consciousness interacts with physics must specify three formal components: a state space for consciousness, a state space for physics, and a mathematical coupling between them. The Unfinishable Map holds that this coupling is real and causal — not merely correlational — but that quantum foundations impose five non-negotiable constraints on its mathematical form. These constraints are not philosophical preferences; they follow from the structure of quantum mechanics itself. This article defines the formal components and bounds that any adequate interface formalism must satisfy.
@@ -43,7 +44,7 @@ A complete interface formalism requires three mathematical ingredients.
 
 **Component 2: Experiential state space E.** This is the formal representation of conscious states. Unlike P, no consensus exists on E's mathematical structure. Kleiner (2020) argues that E must have its own autonomous structure encoding the relational properties of qualia — similarity, intensity, composition — with an automorphism group Aut(E) capturing the epistemic asymmetry that makes consciousness hard to study from the outside. Depending on which aspect of experience is modelled, E might instantiate as a Riemannian manifold (colour qualia), a partial order (inclusion relations), a Hilbert space (algebraic structure of simultaneous qualia), or a pretopological space (similarity without metrics). What matters for the formalism is that E is not derived from P. If it were, [[interactionist-dualism]] would collapse into identity theory.
 
-**Component 3: Coupling map C: E × P → P.** This is the mathematical expression of consciousness influencing physics — a function, operator, or structural correspondence that maps states in the product space E × P to evolved states in P. The coupling map is where the [[psychophysical-laws|psychophysical law]] lives in formal terms. It must specify: given a conscious state e ∈ E and a physical state p ∈ P (typically a superposition awaiting measurement), which outcome becomes actual? The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires C to be non-trivial — consciousness genuinely changes what happens in P. Note that C as defined here captures only the E → P direction. A complete bidirectional formalism also requires a map D: P → E specifying how physical states generate conscious experiences — the "upward" direction from brain states to qualia. Most frameworks treat D as implicit (the "easy problems" of consciousness), while C formalises the harder, more contested causal direction.
+**Component 3: Coupling map C: E × P → P.** This is the mathematical expression of consciousness influencing physics — a function, operator, or structural correspondence that maps states in the product space E × P to evolved states in P. The coupling map is where the [[psychophysical-laws|psychophysical law]] lives in formal terms. It must specify: given a conscious state e ∈ E and a physical state p ∈ P (typically a superposition awaiting measurement), which outcome becomes actual? The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires C to be non-trivial — consciousness genuinely changes what happens in P. The Map's hypothesised content for C — what causal work consciousness would do under this formalism — is catalogued at [[consciousness-and-causal-powers]] as four mechanisms (selection of action, sustained attention, phenomenal biasing, volitional modulation), offered at the speculative-integration evidential tier with the supporting calibration discipline. Note that C as defined here captures only the E → P direction. A complete bidirectional formalism also requires a map D: P → E specifying how physical states generate conscious experiences — the "upward" direction from brain states to qualia. Most frameworks treat D as implicit (the "easy problems" of consciousness), while C formalises the harder, more contested causal direction.
 
 No existing framework fully specifies all three components. Proposals specify one or two while leaving the coupling underspecified — the formal expression of the [[the-interface-problem|interface specification problem]].
 
