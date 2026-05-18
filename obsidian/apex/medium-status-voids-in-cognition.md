@@ -1,10 +1,10 @@
 ---
 title: "Medium-Status Voids in Cognition"
 created: 2026-04-29
-modified: 2026-05-10
+modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-10T02:22:00+00:00
-last_deep_review: 2026-05-10T02:22:00+00:00
+ai_modified: 2026-05-18T22:36:00+00:00
+last_deep_review: 2026-05-18T22:36:00+00:00
 draft: false
 description: "Four cognitive voids name operations that structure other contents — significance, filtering, gating, framing — while remaining invisible from inside."
 topics:
@@ -30,6 +30,7 @@ related_articles:
   - "[[taxonomy-of-voids]]"
   - "[[the-quantitative-comprehension-void]]"
   - "[[phenomenal-output-causal-machinery-dissociation]]"
+  - "[[apex/introspection-architecture-void-cluster]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -132,7 +133,7 @@ The convergence of four medium-status voids on a single structural feature is it
 
 The cluster does not establish that the medium is non-physical. The four articles individually flag the available alternatives — physicalist functional explanations, deflationary readings of Vervaeke's non-computability claim, eliminative responses to the noetic-feelings claim — and this synthesis inherits those hedges. What the cluster establishes is that medium-status is a coherent category satisfied by four operations, posing a structural challenge for any reductive account that takes contents within the field as basic — a challenge rather than a knockdown argument.
 
-The cluster also stands in close relation to the [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]], a sibling apex tracking opacity from a different angle. Medium-status names operations that *constitute* the field; phenomenal-output names the gap between phenomenal *verdict* and underlying *operation*. The noetic-feelings void sits at the intersection — both a medium of gating and a verdict-issuing layer with hidden machinery — while other members fall under one criterion only. The cardinality floor is a phenomenal-output dissociation without being medium-status: counting does not constitute the cognitive field. The conceptual scheme is medium-status without being centrally a verdict-issuing layer: a categorial framework does not arrive as a one-shot finished judgement. The two cuts share substantial vocabulary (mode-fragility, outputs-by-deformation) and identify the same recursive opacity from complementary angles, with the convergence between them itself part of the cumulative architectural picture.
+The cluster also stands in close relation to two sibling apex articles tracking opacity from different angles. The [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]] names the gap between phenomenal *verdict* and underlying *operation*; medium-status names operations that *constitute* the field. The noetic-feelings void sits at the intersection — both a medium of gating and a verdict-issuing layer with hidden machinery. The cardinality floor is phenomenal-output without being medium-status (counting does not constitute the cognitive field); the conceptual scheme is medium-status without being centrally a verdict-issuing layer. The [[apex/introspection-architecture-void-cluster|introspection-architecture void cluster]] sharpens the same opacity on introspection specifically — five voids (narrative, source-attribution, noetic-feelings, confabulation, perceptual-reality-monitoring) naming distinct mechanisms by which a sub-personal substrate delivers reconstructed output without delivering the operation that produced it. The noetic-feelings void belongs to both clusters under different cuts: medium-status emphasises its constitutive-of-the-field role; introspection-architecture emphasises its bounded-access-to-substrate role. The three apex articles share vocabulary (mode-fragility, outputs-by-deformation) and identify the same recursive opacity from complementary angles, with the convergence between them part of the cumulative architectural picture.
 
 One asymmetric external probe deserves mention. AI systems with architectural access to softmax distributions, log-probabilities, and calibration metrics offer a numerical view of quantities that, in humans, generate the opaque feelings that gate cognition. The noetic-feelings face is the most directly testable this way: an AI's confidence values are inspectable in ways fluency traces are not in biological systems. This does not dissolve the cluster — the AI faces its own version of the void (mechanism traces without felt authority, inability to self-certify its own calibration metrics) — but the asymmetry of access between architectures is informative. The probe is uneven across faces: the relevance face admits limited softmax-attention analogues; the conceptual-scheme face has no clean architectural counterpart, since the AI's categories are themselves a scheme.
 

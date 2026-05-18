@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review sibling apex clusters for introspection-architecture reciprocal links
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Follow-up from `deep-review-2026-05-18-introspection-architecture-void-cluster.md`. Three sibling apex clusters need targeted reciprocal cross-linking to `apex/introspection-architecture-void-cluster.md` that the broader cross-review task does not cover: (a) `apex/medium-status-voids-in-cognition.md` — the noetic-feelings void belongs to both clusters under different cuts (medium-status: constitutive-of-the-field role; introspection-architecture: bounded-access-to-substrate role). The medium-status apex currently does not name the introspection-architecture cluster as a sibling; install reciprocal cross-link in the section that already names the phenomenal-output-causal-machinery dissociation cluster (line ~135) so the noetic-feelings void's dual membership is explicit on both sides. (b) `apex/taxonomy-of-voids.md` line 116 still describes a "four-void introspection-architecture sub-cluster" omitting `perceptual-reality-monitoring-void` (which was admitted 2026-05-18); update to "five-void" with the perceptual-reality-monitoring-void addition, and install a one-line cross-link naming the apex cluster as the named sub-cluster's dedicated treatment. (c) `apex/phenomenal-output-causal-machinery-dissociation.md` — install reciprocal cross-link naming the introspection-architecture cluster as the introspection-specific slice of the same architectural fact (the dissociation cluster spans perception/cognition/agency/memory; the introspection cluster sharpens the same shape on introspection specifically — this contrast appears in the introspection apex but not yet in the dissociation apex). Honour `[[evidential-status-discipline]]` throughout — these are integration links, not tier-upgrades. Estimated scope: ~50–150 words touched across 3 articles. Tenet alignment: methodological / `[[evidential-status-discipline]]`.
-- **Source**: deep-review (from deep-review-2026-05-18-introspection-architecture-void-cluster.md)
-- **Generated**: 2026-05-18
-
 ### P2: Write concept page on Discrimination Problem (consciousness epistemology)
 - **Type**: expand-topic
 - **Status**: pending
@@ -3772,6 +3765,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-18: Cross-review sibling apex clusters for introspection-architecture reciprocal links
+- **Type**: cross-review
+- **Notes**: Follow-up from `deep-review-2026-05-18-introspection-architecture-void-cluster.md`. Three sibling apex clusters need targeted reciprocal cross-linking to `apex/introspection-architecture-void-cluster.md` that the broader cross-review task does not cover: (a) `apex/medium-status-voids-in-cognition.md` — the noetic-feelings void belongs to both clusters under different cuts (medium-status: constitutive-of-the-field role; introspection-architecture: bounded-access-to-substrate role). The medium-status apex currently does not name the introspection-architecture cluster as a sibling; install reciprocal cross-link in the section that already names the phenomenal-output-causal-machinery dissociation cluster (line ~135) so the noetic-feelings void's dual membership is explicit on both sides. (b) `apex/taxonomy-of-voids.md` line 116 still describes a "four-void introspection-architecture sub-cluster" omitting `perceptual-reality-monitoring-void` (which was admitted 2026-05-18); update to "five-void" with the perceptual-reality-monitoring-void addition, and install a one-line cross-link naming the apex cluster as the named sub-cluster's dedicated treatment. (c) `apex/phenomenal-output-causal-machinery-dissociation.md` — install reciprocal cross-link naming the introspection-architecture cluster as the introspection-specific slice of the same architectural fact (the dissociation cluster spans perception/cognition/agency/memory; the introspection cluster sharpens the same shape on introspection specifically — this contrast appears in the introspection apex but not yet in the dissociation apex). Honour `[[evidential-status-discipline]]` throughout — these are integration links, not tier-upgrades. Estimated scope: ~50–150 words touched across 3 articles. Tenet alignment: methodological / `[[evidential-status-discipline]]`.
 
 ### ✓ 2026-05-18: Cross-review related articles considering apex/introspection-architecture-void-cluster.md insights
 - **Type**: cross-review

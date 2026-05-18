@@ -1,12 +1,12 @@
 ---
 title: "A Taxonomy of Voids"
 created: 2026-03-10
-modified: 2026-05-16
+modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-16T21:00:00+00:00
+ai_modified: 2026-05-18T22:36:00+00:00
 draft: false
 description: "Sixty+ cognitive voids cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
-last_deep_review: 2026-05-15T14:00:00+00:00
+last_deep_review: 2026-05-18T22:36:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -60,6 +60,8 @@ related_articles:
   - "[[source-attribution-void]]"
   - "[[apophatic-cartography-four-criteria]]"
   - "[[naturally-occluded]]"
+  - "[[perceptual-reality-monitoring-void]]"
+  - "[[apex/introspection-architecture-void-cluster]]"
 
 ai_contribution: 100
 author: null
@@ -113,7 +115,7 @@ The densest cluster surrounds the mind's attempt to examine itself. The [[self-o
 
 These voids reinforce each other, creating what the Map calls [[compound-failure-signatures|compound cognitive limits]]—emergent failure modes that no single void predicts. The cluster is especially resistant to investigation because the instrument and the object are the same. As [[what-voids-reveal|the limits reveal]], this tells us something specific about what we are: beings whose cognitive architecture includes systematic opacity about its own operations.
 
-A four-void *introspection-architecture* sub-cluster names distinct mechanisms of the introspector's bounded access to its own substrate: the [[narrative-void|narrative void]] (unobservability of the storytelling operation), the [[source-attribution-void|source-attribution void]] (absence of native origin tags), the [[noetic-feelings-void|noetic-feelings void]] (opacity of the gating signals licensing cognition from inside), and the [[confabulation-void|confabulation void]]—a sub-personal interpreter producing fabricated explanations that carry the phenomenology of accurate report. Confabulation-void is cross-categorial (Occluded plus Unexplorable: the test distinguishing fabricated from veridical report is unavailable to the introspector), and Coutinho et al.'s 2021 finding that the felt-rightness signal tracks accuracy *inversely* where reliability matters most marks it as the active twin of source-attribution—positive-content fabrication filling the absence source-attribution names.
+A five-void *introspection-architecture* sub-cluster names distinct mechanisms of the introspector's bounded access to its own substrate: the [[narrative-void|narrative void]] (unobservability of the storytelling operation), the [[source-attribution-void|source-attribution void]] (absence of native origin tags), the [[noetic-feelings-void|noetic-feelings void]] (opacity of the gating signals licensing cognition from inside), the [[confabulation-void|confabulation void]] (a sub-personal interpreter producing fabricated explanations that carry the phenomenology of accurate report), and the [[perceptual-reality-monitoring-void|perceptual reality-monitoring void]] (the moment-by-moment operation by which consciousness decides whether a current content is perceived or imagined, inspectable only by its outputs). Confabulation-void is cross-categorial (Occluded plus Unexplorable: the test distinguishing fabricated from veridical report is unavailable to the introspector), and Coutinho et al.'s 2021 finding that the felt-rightness signal tracks accuracy *inversely* where reliability matters most marks it as the active twin of source-attribution—positive-content fabrication filling the absence source-attribution names. [[apex/introspection-architecture-void-cluster|The introspection-architecture void cluster]] develops the apex-grain treatment, walking from storytelling to source-tag to gating-signal to fabrication to reality-judgement and naming the shared architectural signature (phenomenal-output-without-operation with felt-rightness calibrated to the verdict rather than to the world).
 
 The [[erasure-void|erasure void]] extends the cluster across time: consciousness cannot inventory its own deletions, because the monitoring system that would detect cognitive loss typically erodes alongside the capacity itself. Clinical anosognosia—patients with damage to both a function and its monitoring system sincerely deny their deficits—is the stark case, but the structure is universal, visible in ordinary ageing and in the Dunning-Kruger dynamic where the metacognitive skills required to recognise incompetence coincide with the skills themselves. This void introduces a failure mode the others lack: where introspective opacity is noticed as opacity, the erasure void is not noticed at all. The world simply appears complete.
 

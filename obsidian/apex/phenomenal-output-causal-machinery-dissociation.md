@@ -1,10 +1,10 @@
 ---
 title: "Phenomenal Output and Causal Machinery"
 created: 2026-05-09
-modified: 2026-05-09
+modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-11T18:26:00+00:00
-last_deep_review: 2026-05-11T18:26:00+00:00
+ai_modified: 2026-05-18T22:36:00+00:00
+last_deep_review: 2026-05-18T22:36:00+00:00
 draft: false
 description: "A structural cluster recurring across perception, cognition, agency, and memory in which phenomenal access reaches outputs but not the operations that produce them — the catalogue's tightest worked instance of the cumulative-convergence move."
 topics:
@@ -34,6 +34,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
   - "[[common-cause-null]]"
   - "[[medium-status-voids-in-cognition]]"
+  - "[[apex/introspection-architecture-void-cluster]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -95,7 +96,7 @@ The [[noetic-feelings-void|noetic-feelings void]] generalises across felt episte
 
 The [[agency-void|agency void]] picks up the same dissociation in the felt sense of being the cause of one's actions. Howard and colleagues (2016) showed that physical and mental effort disrupt the implicit sense of agency even as the explicit sense often rises. Wegner's work establishes that the *experience* of willing arises from interpreting thoughts as causes on cues of priority, consistency, and exclusivity; the cues, not the willing, are what the introspector has access to. Wegner's thesis inverts the cluster's preferred reading — he treats the felt sense as confabulation rather than as an opaque report on real underlying willing — and the cluster cites his observations for the structural signature he documents while flagging the divergence. The [[suspension-void|suspension void]] adds *refraining* from selection: the felt act of holding back has phenomenal character whose machinery is hidden the same way.
 
-These four — felt-effort, felt-agency, felt-suspension, felt-knowing — sit as one functional family of sub-personally generated signals that gate distinct operations while sharing the same opacity pattern. [[self-opacity]]'s §Introspective Opacity *Process* dimension states the diagnostic in its most general form: consciousness accesses mental contents — thoughts, images, feelings — but not the processes that produce them. James's "spinning top," Nisbett and Wilson's confabulation experiments, Johansson's choice-blindness, Libet-and-after timing data, and Wegner's reconstructive account of willing all converge on the same observation, even where interpretive readings diverge.
+These four — felt-effort, felt-agency, felt-suspension, felt-knowing — sit as one functional family of sub-personally generated signals that gate distinct operations while sharing the same opacity pattern. [[self-opacity]]'s §Introspective Opacity *Process* dimension states the diagnostic in its most general form: consciousness accesses mental contents — thoughts, images, feelings — but not the processes that produce them. James's "spinning top," Nisbett and Wilson's confabulation experiments, Johansson's choice-blindness, Libet-and-after timing data, and Wegner's reconstructive account of willing all converge on the same observation, even where interpretive readings diverge. [[apex/introspection-architecture-void-cluster|The introspection-architecture void cluster]] sharpens the present cluster's shape onto introspection specifically: where this cluster spans perception, cognition, agency, and memory at the level of each domain's verdict-vs-operation gap, the introspection-architecture cluster names five distinct mechanisms (narrative, source-attribution, noetic-feelings, confabulation, perceptual-reality-monitoring) by which the introspector's bounded access to its own substrate delivers reconstructed outputs without delivering the operation that produced them — the same architectural fact under two cuts, with the noetic-feelings void at the intersection.
 
 ### Across Time
 

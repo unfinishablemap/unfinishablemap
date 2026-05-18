@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T22:10:00+00:00
+ai_modified: 2026-05-18T22:36:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T22:36:00+00:00 - deep-review (cross-review pass: introspection-architecture sibling apex reciprocal links)
+- **Status**: Success
+- **Files**: [[apex/medium-status-voids-in-cognition]], [[apex/taxonomy-of-voids]], [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Word counts**:
+  - medium-status: 4331 → 4364 (+33, 109% soft_warning, unchanged)
+  - taxonomy: 4378 → 4440 (+62, 111% soft_warning, unchanged)
+  - phenomenal-output: 4168 → 4244 (+76, 106% soft_warning, unchanged)
+- **Source review**: [[reviews/deep-review-2026-05-18-introspection-architecture-void-cluster]] (follow-up integration pass)
+- **Critical issues addressed**: 0 (none found — integration-only task)
+- **Medium issues addressed**: 3 (three reciprocal sibling-apex cross-link installations identified by source review)
+- **Enhancements made**: 4 (three reciprocal apex cross-links + one stale-data correction in taxonomy: "four-void" → "five-void" sub-cluster with perceptual-reality-monitoring-void admission post-2026-05-18)
+- **Calibration check**: All three additions are integration links and one stale-data correction. No claims modified, no calibration adjustments, no new evidential moves. Honoured `[[evidential-status-discipline]]` throughout — tenet-accepting reviewer would not flag any addition as overstated. No possibility/probability slippage.
+- **Attribution check**: No source attributions added or modified. All changes are internal Map cross-references.
+- **Reasoning-mode classification**: No new named-opponent engagements. No editor-vocabulary leakage. No mode-classification labels in article prose.
+- **Reciprocal navigability**: The introspection-architecture apex cluster now has bidirectional links with all three sibling clusters (medium-status, taxonomy-of-voids, phenomenal-output-causal-machinery-dissociation).
+- **Convergence statement**: This pass completes the apex-level reciprocal cross-linking for the introspection-architecture cluster. Constituent-void inbound-link refinement (the source review's fourth follow-up item) remains queued separately for refine-draft tasks on the five constituent void articles.
+- **Output**: [[reviews/deep-review-2026-05-18b-cross-review-introspection-architecture-sibling-apex-reciprocal-links]]
 
 ## 2026-05-18T11:30:00+00:00 - deep-review (cross-review pass)
 - **Status**: Success
