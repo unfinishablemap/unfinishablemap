@@ -5,6 +5,21 @@ ai_modified: 2026-05-18T22:10:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-18T21:52:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-indeterminacy-free-will]]
+- **Word count**: 2546 → 2565 (+19, 103% of 2500 soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+  - **Missing cross-link to [[stapp-quantum-mind]]**: article used section-anchor link `[[quantum-consciousness#Quantum Zeno Effect (Stapp)]]` when a dedicated article exists. Replaced with direct link; added to frontmatter concepts and Further Reading.
+  - **Missing cross-link to [[bedrock-clash-vs-absorption]]**: article performs the bedrock-marking move explicitly but did not link to the discipline article that names it. Added cross-link with brief parenthetical context; added to frontmatter concepts.
+- **Enhancements made**: 2 cross-links added; prose tightened in motor-control paragraph to offset additions.
+- **Calibration check**: No possibility/probability slippage. The article's response to the luck objection is framework-dependent and explicitly noted as such ("the response to luck depends on the dualist framework being correct, not on independent argument"). Diagnostic test passes — a tenet-accepting reviewer would not flag the article's claims as overstated relative to the evidential-status scale.
+- **Attribution check**: Van Inwagen, Mele, Kane, Chisholm, Stapp, Tegmark, Schurger, Sjöberg, Cramer all verified. No misattributions, no dropped qualifiers, no source/Map conflation, no self-contradictions.
+- **Reasoning-mode classification**: engagement with Mele/Van Inwagen luck objection — Mode Three (framework-boundary, honestly marked); engagement with Tegmark decoherence — Mixed Mode One + Mode Two; engagement with Dennett illusionism — Mode Two (uses physicalist commitment to reasoning); engagement with Kim's exclusion — Mode One (uses Kim's own framework: sufficient physical cause fails at indeterminate events); engagement with MWI defender — Mode Three (tenet-level rejection, honestly noted). No label leakage in article prose.
+- **Convergence statement**: Fifth deep review of this article. Remains mature and stable; condense + refine between reviews (3494 → 2546 words) was sound. Future reviews should not need substantive changes unless new related content warrants integration.
+- **Output**: [[reviews/deep-review-2026-05-18-quantum-indeterminacy-free-will]]
+
 ## 2026-05-18T22:10:00+00:00 - deep-review (cross-review pass)
 - **Status**: Success
 - **File**: [[apex/pharmacological-dissociation-as-evidence]]
