@@ -65,14 +65,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-17b)
 - **Generated**: 2026-05-17
 
-### P2: Operationalise "redemption within physicalist resources" in topics/phantom-limb-phenomena.md (promoted from P3)
-- **Type**: refine-draft
-- **Status**: pending
-- **Promoted**: 2026-05-18 by replenish-queue — queue starved at P0–P2; falsifier-quality discipline fix on an article that repeats the load-bearing positive claim three times (lines 88, 96, 114) without operationalisation. Anchors the framework-boundary claim against goalpost-moving while remaining demanding-but-not-impossible per [[evidential-status-discipline]]. ~50–80 word fix in one location; high leverage for small scope.
-- **Notes**: From pessimistic-2026-05-17.md (Critical Issue #4, Medium severity). The article repeats — three times, in different framings (lines 88, 96, 114) — the framework-boundary commitment that "the bridge from mechanism to felt content will not be redeemed within physicalist resources." This is the article's load-bearing positive claim. But it is unfalsifiable as stated because the operationalisation of 'redeemed within physicalist resources' depends on which physicalist account is in view and what counts as 'redemption.' Falsifier #3 (predictive content-specific neural correlates) specifies what *evidence* would shift the balance — but the underlying framework-boundary commitment is about *bridging the gap*, not about correlation evidence. Add a one-sentence specification, possibly in the predictive-processing section's fifth paragraph or as a new short clause at the end of the Common-Cause-Null Audit: "By 'redemption within physicalist resources' the Map specifically means a third-person account, framed entirely in non-content vocabulary, from which the phenomenal-aboutness of impossible-posture pain can be derived without additional bridge premises — the same operationalisation [[evidential-status-discipline]] applies elsewhere." This anchors the framework-boundary claim against goalpost-moving while remaining demanding-but-not-impossible. Scope: ~50-80 words added in one location. Tenet alignment: methodological / [[evidential-status-discipline]] / falsifier-quality discipline.
-- **Source**: pessimistic-review (2026-05-17)
-- **Generated**: 2026-05-17
-
 ### P3: Acknowledge somatic-interface as imported framework commitment in topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3759,6 +3751,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-18: Operationalise "redemption within physicalist resources" in topics/phantom-limb-phenomena.md (promoted from P3)
+- **Type**: refine-draft
+- **Notes**: From pessimistic-2026-05-17.md (Critical Issue #4, Medium severity). The article repeats — three times, in different framings (lines 88, 96, 114) — the framework-boundary commitment that "the bridge from mechanism to felt content will not be redeemed within physicalist resources." This is the article's load-bearing positive claim. But it is unfalsifiable as stated because the operationalisation of 'redeemed within physicalist resources' depends on which physicalist account is in view and what counts as 'redemption.' Falsifier #3 (predictive content-specific neural correlates) specifies what *evidence* would shift the balance — but the underlying framework-boundary commitment is about *bridging the gap*, not about correlation evidence. Add a one-sentence specification, possibly in the predictive-processing section's fifth paragraph or as a new short clause at the end of the Common-Cause-Null Audit: "By 'redemption within physicalist resources' the Map specifically means a third-person account, framed entirely in non-content vocabulary, from which the phenomenal-aboutness of impossible-posture pain can be derived without additional bridge premises — the same operationalisation [[evidential-status-discipline]] applies elsewhere." This anchors the framework-boundary claim against goalpost-moving while remaining demanding-but-not-impossible. Scope: ~50-80 words added in one location. Tenet alignment: methodological / [[evidential-status-discipline]] / falsifier-quality discipline.
 
 ### ✓ 2026-05-18: Install reciprocal cross-links from moral-architecture apex to concept pages and contemplative-path apex (promoted from P3)
 - **Type**: refine-draft

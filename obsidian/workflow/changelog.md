@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T19:20:42+00:00
+ai_modified: 2026-05-18T19:36:22+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T19:36:22+00:00 - refine-draft (operational anchor for "redemption within physicalist resources")
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Trigger**: pessimistic-2026-05-17.md Critical Issue #4 (Medium severity). The article repeats — three times, in different framings (lines 88, 96, 114) — the framework-boundary commitment that "the bridge from mechanism to felt content will not be redeemed within physicalist resources." This is the article's load-bearing positive claim, but it is unfalsifiable as stated because the operationalisation of 'redemption within physicalist resources' depends on which physicalist account is in view and what counts as 'redemption.' Falsifier #3 specifies what *evidence* would shift the balance — but the underlying framework-boundary commitment is about *bridging the gap*, not about correlation evidence. Without an operational anchor, the Map's escape hatch is always available: any future redemption can be reread as moving the goalpost.
+- **Changes**: Added a closing paragraph to §"Common-Cause-Null Audit of the Three Pillars" (~75 words) specifying that by *redemption within physicalist resources* the Map specifically means a third-person account, framed entirely in non-content vocabulary, from which the phenomenal-aboutness of impossible-posture pain can be derived without additional bridge premises. Cross-references [[evidential-status-discipline]] for the operational discipline applied elsewhere on the Map. Explicitly notes the bar is demanding but not impossible — a successful derivation of this form would warrant retracting the commitment. The "without additional bridge premises" qualifier is the load-bearing constraint — it prevents reading future hierarchical-inference accounts of phenomenal-aboutness as redemption-within-physicalist-resources if those accounts are themselves promissory at the same bridge.
+- **Scope**: ~75 words added in one location (closing paragraph of Common-Cause-Null Audit). No new citations. The three appearances of the bare commitment now inherit the operational anchor from the audit section rather than each requiring separate specification — the audit is the natural common reference because the commitment is what the residual specification-to-felt-content gap actually consists in.
+- **Engagement classification (editor-internal)**: Falsifier-quality remediation, not engagement with a named opponent. Honours [[evidential-status-discipline]]'s discipline that load-bearing positive commitments must have at least one operational anchor — what would in principle warrant retraction must be specifiable.
+- **Tenet alignment**: methodological / [[evidential-status-discipline]] / falsifier-quality discipline.
+- **Published**: yes
 
 ## 2026-05-18T19:20:42+00:00 - refine-draft (reciprocal cross-links to moral-architecture-of-consciousness apex)
 - **Status**: Success
