@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T15:35:00+00:00
+ai_modified: 2026-05-18T16:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T16:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-causal-powers]]
+- **Original score**: addressing pessimistic-2026-05-18 P1 task; three critical issues landed in 13:42 pass, this follow-up pass covers the cliché audit segment
+- **Changes**: rewrote two surviving "not X but Y" constructs flagged in pessimistic-2026-05-18 §"Language Improvements" — line 63 (Pattern amplification bullet) and line 77 (Interface Constraint paragraph, which simultaneously fixed the "This explains why" overclaim using the review-table-suggested rewrite); preserved line 51 and line 159 instances as natural-idiom parallel constructions rather than the banned LLM cliché; left the article's three real strengths (§"What Consciousness Does Not Do", §"Absence of Direct Evidence", identity-theory engagement at lines 181–183) untouched; preserved the article's overall calibration architecture from the 13:42 pass (the four-mechanism reframe, the pain-asymbolia rewrite, the overdetermination summary, the decoherence-gap paragraph, and the MWI parenthetical)
+- **Published**: yes
 
 ## 2026-05-18T15:35:00+00:00 - optimistic-review
 - **Status**: Success

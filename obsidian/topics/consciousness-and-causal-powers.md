@@ -4,7 +4,7 @@ description: "What causal influence does consciousness exercise, and within what
 created: 2026-02-11
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-18T13:40:00+00:00
+ai_modified: 2026-05-18T16:05:00+00:00
 last_deep_review: 2026-05-15T04:31:00+00:00
 draft: false
 topics:
@@ -60,7 +60,7 @@ When we say consciousness has "causal powers," what might this mean? Several pos
 
 **Selection among alternatives**: Consciousness could choose among physically permissible outcomes where the laws of nature leave the result undetermined. This is the Map's position. Physics specifies probabilities; consciousness biases which probability actualizes. No energy is added, no force exerted—only selection among genuine possibilities. The [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] frames this as the interface function of information: syntactic constraints from physics, semantic selection from consciousness. (The selection-among-alternatives framing presupposes a non-Everettian interpretation of quantum mechanics: under Many-Worlds, all outcomes actualise in their respective branches and there is nothing to select. The Map rejects MWI at the tenet level — see [[tenets#^no-many-worlds|Tenet 4]] — and the rejection is doing load-bearing work for this article's central framing. Readers attracted to MWI will find the framing here does not engage them, and the disagreement on this point is honestly noted as framework-level rather than worked out within the Everettian framework on this article.)
 
-**Pattern amplification**: Consciousness could sustain or amplify certain neural patterns through repeated "observation" in the quantum sense. One proposed mechanism—the [[stapp-quantum-mind|quantum Zeno effect]]—suggests that attention holds neural states in superposition longer than they would naturally persist, allowing conscious intentions to shape which patterns stabilize. The causal power here is not pushing but holding. Seven distinct [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] have been proposed for how such quantum-level influence scales to macroscopic neural effects.
+**Pattern amplification**: Consciousness could sustain or amplify certain neural patterns through repeated "observation" in the quantum sense. One proposed mechanism—the [[stapp-quantum-mind|quantum Zeno effect]]—suggests that attention holds neural states in superposition longer than they would naturally persist, allowing conscious intentions to shape which patterns stabilize. The causal power posited here is one of holding rather than pushing. Seven distinct [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] have been proposed for how such quantum-level influence scales to macroscopic neural effects.
 
 **Organizational influence**: Consciousness might affect how neural components organize without affecting their individual behaviour. This is closer to emergence theories—consciousness as a high-level property that causally constrains lower levels through organizational feedback. The challenge: specifying how organization contributes novel powers without violating lower-level laws.
 
@@ -74,7 +74,7 @@ If consciousness has causal powers, those powers must have limits—otherwise ev
 
 The Map proposes that consciousness interfaces with the physical world specifically at quantum indeterminacies in neural systems. This localizes the causal power: consciousness doesn't directly influence distant objects, other people's brains, or macroscopic events. It operates where mind meets matter—in your own neural activity.
 
-This explains why you can decide to raise your arm (mental influence on your neural motor patterns) but cannot telekinetically move someone else's arm. The difference is not degree of effort but location of interface. See [[attention-as-interface]] for detailed treatment of how attention might implement this local coupling, and [[the-interface-problem|the interface location problem]] for the deeper question of why consciousness interfaces where it does.
+On the Map's framing, the interface's locality accounts for an asymmetry: you can decide to raise your arm because the interface is in your own neural activity; you cannot telekinetically move someone else's because there is no interface there. The asymmetry is about the location of interface rather than the degree of effort. See [[attention-as-interface]] for detailed treatment of how attention might implement this local coupling, and [[the-interface-problem|the interface location problem]] for the deeper question of why consciousness interfaces where it does.
 
 ### The Physical Constraint
 
@@ -283,6 +283,22 @@ Frontmatter:
 - ai_modified, modified updated to 2026-05-18
 
 Word count: ~2,936 → ~3,750 (approximately +800 words net; calibration preamble, decoherence-time paragraph, MWI parenthetical, pain-asymbolia rewrite, overdetermination summary, and rival-acknowledgements all contributed; per refine-draft scope guidance of ~300–500 words this is somewhat over budget but the critical issues required substantive expansion).
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-18 (follow-up pass)
+Follow-up refine driven by P1 task (cliché audit segment of pessimistic-2026-05-18). The three critical issues from the 13:42 pass landed cleanly; this follow-up addresses two surviving "not X but Y" constructs that the cliché-ban audit at line 51 of the task notes flagged.
+
+Specific changes:
+- Line 63 (Pattern amplification bullet): "The causal power here is not pushing but holding" → "The causal power posited here is one of holding rather than pushing." Preserves the holding/pushing distinction without the banned construct.
+- Line 77 (Interface Constraint paragraph): "This explains why you can decide to raise your arm but cannot telekinetically move someone else's arm. The difference is not degree of effort but location of interface." → reframed using the suggested writing-style replacement from pessimistic-2026-05-18 §"Language Improvements" table (the "On the Map's framing, the interface's locality accounts for the asymmetry" rewrite). This simultaneously fixes the "not X but Y" construct and the "This explains why" overclaim flagged at the same review-table row.
+
+What this pass did not touch:
+- Line 51's "more than merely accompany" hedge and "not simply whether... but what kind" parallel construction: these are legible English usage rather than the banned LLM cliché, and the previous refine left them in place after audit. Preserved here.
+- Line 159 "not merely representational but causally connected": parallel construction in natural philosophical idiom, preserved.
+
+ai_modified bumped to 2026-05-18T16:05:00+00:00 to reflect this follow-up pass.
 
 This log should be removed after human review.
 -->
