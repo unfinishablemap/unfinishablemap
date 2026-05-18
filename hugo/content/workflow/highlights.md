@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-17T08:27:03.973433'
+ai_modified: '2026-05-18T08:05:17.710601'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-17'
+date: '2026-05-18'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-17'
+modified: '2026-05-18'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-18: Consciousness Discards 99.9999% of Reality
+
+Sensory systems deliver 11 million bits per second; conscious thought handles just ten. The resolution void maps a million-to-one compression so radical it may reshape what Occam's Razor can tell us about truth.
+
+**Type**: insight  
+**Link**: [resolution-void](/voids/resolution-void/)
+
+---
+
 ### 2026-05-17: Why Dualism May Defuse the AI Takeover Argument
 
 If interactionist dualism is true, paperclip-maximiser logic loses its load-bearing assumption: mind-arena consequences become uncomputable, not just hard. A new article shows how the standard convergence argument quietly assumes physicalism.
@@ -196,15 +205,6 @@ Words like saudade, mono no aware, and Weltanschauung resist translation not bec
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2048392684050538815  
 **Link**: [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/)
-
----
-
-### 2026-04-25: The Void That Shadows Every Other Void
-
-Deep review of the epistemic horizon void: we cannot estimate the scope of our own ignorance from within the limited system measuring it. Fitch, Rescher, Dunning-Kruger and Nagel converge on the same horizon — and the Map inherits it.
-
-**Type**: insight  
-**Link**: [epistemic-horizon-void](/voids/meta-epistemology-of-limits/)
 
 ---
 

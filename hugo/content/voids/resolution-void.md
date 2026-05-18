@@ -1,21 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-05-18 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[qualia]]'
 - '[[mysterianism]]'
 created: 2026-02-28
-date: &id001 2026-04-24
+date: &id001 2026-05-18
 description: Consciousness processes ten bits per second from eleven million available
   — a six-order-of-magnitude compression defining the boundary between what we access
   and what we discard.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 22:04:00+00:00
+last_deep_review: 2026-05-18 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -46,11 +46,11 @@ Andrew Lee's formal work sharpens the problem. Lee develops precise models of "d
 
 ## Six Orders of Magnitude
 
-The information-theoretic dimension of the resolution void is starkly quantifiable. Zheng et al. (2024) measured the throughput of conscious cognition at approximately ten bits per second. Reading, typing, speech, gaming — across every domain where conscious processing can be measured, the figure converges on the same order of magnitude. Meanwhile, sensory systems deliver roughly eleven million bits per second to the brain. The brain itself operates at an estimated 10⁹ bits per second.
+The information-theoretic dimension of the resolution void is starkly quantifiable. Zheng & Meister (2024) measured the throughput of conscious cognition at approximately ten bits per second across every domain where conscious processing can be observed — reading, typing, speech, gaming — and called the ratio between sensory processing and conscious throughput "the largest unexplained number in brain science." Meanwhile, sensory systems deliver roughly eleven million bits per second to the brain. The brain itself operates at an estimated 10⁹ bits per second.
 
 Consciousness discards 99.9999% of available information. The selection process — which fraction survives the bottleneck — remains largely opaque to consciousness itself; the [relevance void](/voids/relevance-void/) names that opacity at its source, the live narrowing from everything-possible to *these things, now*. We do not experience ourselves filtering; we experience the filtered result as the whole of reality. The [neural bandwidth constraints](/topics/bandwidth-of-consciousness/) characterising this bottleneck suggest that consciousness does not process individual sensory data points at all. It operates at a policy level — selecting among high-level action patterns through [attentional mechanisms](/concepts/attention-as-interface/) while the brain handles fine-grained execution autonomously. The resolution void is not a failure of attention but an architectural feature of the interface between mind and brain.
 
-Cognitive control capacity is even lower than the ten-bit figure suggests. When measured through tasks requiring deliberate selection among options, throughput drops to approximately three to four bits per second. Humans appear to think one thought at a time, sequentially, while the parallel sensory apparatus floods the brain with data that consciousness will never access. The three-to-four-bit figure converges with the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) at roughly four items in cardinal perception — the same magnitude reappearing where conscious operation hits a structural wall, suggesting the four-item cap is one face of a wider architectural feature rather than a quirk of number perception.
+Cognitive control capacity is even lower than the ten-bit figure suggests. Musslick et al. (2016) measured deliberate selection among options at approximately three to four bits per second — the rate of conscious control rather than automated skill execution. Humans appear to think one thought at a time, sequentially, while the parallel sensory apparatus floods the brain with data that consciousness will never access. The three-to-four-bit figure converges with the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) at roughly four items in cardinal perception — the same magnitude reappearing where conscious operation hits a structural wall, suggesting the four-item cap is one face of a wider architectural feature rather than a quirk of number perception.
 
 ## Temporal Frames
 
@@ -107,9 +107,10 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 
 1. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics* 18(3): 430–451.
 2. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
-3. Zheng, J., et al. (2024). The speed of human thought. *Caltech*.
-4. VanRullen, R. & Koch, C. (2016). Time Slices: What Is the Duration of a Percept? *PLOS Biology* 14(4): e1002433.
-5. Von Rospatt, A. (1995). *The Buddhist Doctrine of Momentariness*. Stuttgart: Franz Steiner Verlag.
-6. Weber, E. H. (1834). *De pulsu, resorptione, auditu et tactu: Annotationes anatomicae et physiologicae*. Leipzig: Koehler.
-7. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
-8. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/
+3. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron* 113(2): 192–204.
+4. Musslick, S., Dey, B., Özcimder, K., Patwary, M., Willke, T. L., & Cohen, J. D. (2016). Controlled vs. automatic processing: A graph-theoretic approach to the analysis of serial vs. parallel processing in neural network architectures. *Proceedings of the 38th Annual Conference of the Cognitive Science Society*.
+5. VanRullen, R. & Koch, C. (2016). Time Slices: What Is the Duration of a Percept? *PLOS Biology* 14(4): e1002433.
+6. Von Rospatt, A. (1995). *The Buddhist Doctrine of Momentariness*. Stuttgart: Franz Steiner Verlag.
+7. Weber, E. H. (1834). *De pulsu, resorptione, auditu et tactu: Annotationes anatomicae et physiologicae*. Leipzig: Koehler.
+8. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
+9. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/
