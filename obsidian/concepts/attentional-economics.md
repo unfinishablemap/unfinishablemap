@@ -4,7 +4,7 @@ description: "Agency is fundamentally the allocation of attention over time. Fre
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-04-01T18:48:00+00:00
+ai_modified: 2026-05-18T19:20:42+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -127,6 +127,8 @@ Attentional economics interprets this as a capital constraint. Limited working m
 
 If agency scales with attentional skill, [[moral-responsibility|moral responsibility]] gains texture. The Map already grounds desert in [[agent-causation|agent causation]]—the agent as genuine source of action. Attentional economics adds that the *extent* of authorship varies with attentional capacity.
 
+The [[apex/moral-architecture-of-consciousness#The Responsibility Gradient|moral architecture apex's Responsibility Gradient]] is the catalogue's worked exhibit of attentional economics applied at the moral-responsibility tier. The apex specifies five dimensions along which attentional capacity varies—**bandwidth** (how many considerations can be held simultaneously), **stability** (whether moral reasoning can be sustained against distraction), **scope** (how broadly the attentional field surveys consequences), **flexibility** (the capacity to shift between perspectives), and **availability** (how much attentional resource remains after competing demands)—and uses this five-dimensional decomposition to produce a graded account of desert that unifies what legal systems already recognise piecemeal (diminished capacity, duress, mental impairment) under the single mechanism this article specifies: each operates by constraining the attentional channel through which consciousness exercises control. The apex's surgeon-after-36-hour-shift and exhausted-driver examples are the worked illustrations of the gradient under realistic conditions.
+
 This doesn't excuse wrongdoing—"I couldn't sustain attention on the consequences" doesn't eliminate responsibility. But it suggests:
 
 **Mitigation scaling**: Impaired attentional capacity (addiction, trauma, developmental factors) genuinely reduces authorship even if it doesn't eliminate it.
@@ -211,6 +213,7 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 - [[concepts/consciousness-selecting-neural-patterns]] — The mechanism by which attention shapes neural outcomes
 - [[working-memory]] — The "liquid assets" of attentional capital
 - [[topics/free-will]] — The broader framework of agency and determinism
+- [[apex/moral-architecture-of-consciousness]] — Apex synthesis: the five-dimensional responsibility gradient applies attentional economics at the moral-responsibility tier
 
 ## References
 
@@ -219,3 +222,12 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item f — cite the moral-architecture apex's five-dimensional responsibility gradient as the worked exhibit of attentional-economics at the moral-responsibility tier).
+- §Implications for Moral Responsibility: installed a paragraph after the opening framing that names the apex's Responsibility Gradient section as the worked exhibit. Lists the five dimensions verbatim (bandwidth, stability, scope, flexibility, availability), names what the gradient unifies (diminished capacity, duress, mental impairment as legal categories operating through one mechanism — constraining the attentional channel), and cites the apex's surgeon and exhausted-driver examples as the worked illustrations. The reciprocal direction (apex → this article) is already present in the apex's section.
+- §Further Reading: added wikilink to apex/moral-architecture-of-consciousness with one-line description.
+- ai_modified timestamp updated.
+
+This log should be removed after human review.
+-->

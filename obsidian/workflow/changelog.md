@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T18:53:31+00:00
+ai_modified: 2026-05-18T19:20:42+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T19:20:42+00:00 - refine-draft (reciprocal cross-links to moral-architecture-of-consciousness apex)
+- **Status**: Success
+- **Files**: [[project/coherence-inflation-countermeasures]], [[concepts/moral-responsibility]], [[concepts/reasons-responsiveness]], [[topics/valence-and-conscious-selection]], [[apex/contemplative-path]], [[concepts/attentional-economics]], [[concepts/consciousness-value-connection]]
+- **Trigger**: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table — moral-architecture apex is now the catalogue's strongest worked exhibit of coherence-inflation discipline at synthesis tier, the Compatibilist Symmetry Challenge as paradigmatic anti-slippage move, five-dimensional responsibility gradient as attentional-economics' moral-tier worked exhibit, and Open Frontier as structurally-forced fork. Seven adjacent articles needed reciprocal links.
+- **Changes**:
+    - **project/coherence-inflation-countermeasures**: intro paragraph cites the apex as the apex-tier worked exhibit; "Where the Inflation Risk Concentrates" bullet amplified to reference the Unity Argument paragraph's rhetorical move specifically.
+    - **concepts/moral-responsibility**: §Objections and Responses "Compatibilism is sufficient" item expanded from one sentence to a substantive paragraph citing the apex's Compatibilist Symmetry Challenge framing — Frankfurt/Fischer-Ravizza/Wolf are named, the libertarian framing's distinction is restated as tenet-coherence rather than unique moral explanatory power.
+    - **concepts/reasons-responsiveness**: §Reasons-Responsiveness and Free Will gained a paragraph engaging the apex's symmetry challenge head-on; cites Fischer & Ravizza (1998) "moderate reasons-responsiveness" directly, gives the Map's reply (tenet-coherence distinguishes libertarian framing). Apex added to Further Reading.
+    - **topics/valence-and-conscious-selection**: introduction (immediately before §Why the Fork Is Forced) gained a paragraph anchoring the apex's Open Frontier framing as structurally-forced and crediting the apex's four discriminating empirical tests.
+    - **apex/contemplative-path**: §Two Modes of Consciousness gained a paragraph naming the cross-apex resonance with the moral architecture apex's Moral Perception Is Direct section at the Murdoch/Weil intersection — both apex articles use attention cultivation as a metaphysically agency-enhancing capacity. Apex added to related_articles.
+    - **concepts/attentional-economics**: §Implications for Moral Responsibility gained a paragraph naming the apex's Responsibility Gradient as the worked exhibit of this article applied at the moral-responsibility tier; the five dimensions are listed verbatim. Apex added to Further Reading.
+    - **concepts/consciousness-value-connection**: §For Ethics gained a paragraph reciprocating the apex's indexical-token extension (this token experience matters, not just experiences-of-this-type), naming the moral-accounting consequence for copies and uploads. Apex added to related_articles and Further Reading.
+- **Scope**: ~450 words touched across 7 articles (within task spec of 250-500 words across 6-7 articles).
+- **Calibration check**: each installation reciprocates a specific load-bearing claim the apex already makes; no inflation of strength relative to the apex's own framing.
+- **Tenet alignment**: methodological / apex-cluster integration / [[cluster-integration-discipline]].
+- **Output**: 7 modified articles with refinement-log comments awaiting human review.
 
 ## 2026-05-18T18:53:31+00:00 - refine-draft (reciprocal cross-links to anaesthesia)
 - **Status**: Success

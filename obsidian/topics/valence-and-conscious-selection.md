@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-05-18T19:20:42+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -41,6 +41,8 @@ coalesced_from:
 The Unfinishable Map commits to two claims that jointly force an unresolved question. First, consciousness causally selects among physically underdetermined outcomes ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]). Second, value resides in phenomenal experience—the felt badness of suffering is intrinsic, not projected ([[consciousness-value-connection]]). The question these commitments force: **does the selection mechanism operate guided by valence, or is it value-blind?**
 
 If selection is *value-blind*, consciousness steers neural outcomes through attention and intention alone, treating these as neutral pointers. Valence is real but causally idle in the selection process itself—value becomes epiphenomenal to the very mechanism the Map claims consciousness operates through. If selection is *value-sensitive*, valence directly influences which outcomes get selected. The felt goodness or badness of anticipated states shapes which quantum possibilities become actual, making the Map's physics locally teleological: outcomes are selected *because they matter*, not merely *by* something to which things matter. The metaethical stakes are sharpened in [[topics/phenomenal-value-realism#against-epiphenomenal-value|phenomenal value realism's case against epiphenomenal value]]: the metaethical position alone secures that value is real and grounded in conscious experience, but unless the *evaluative* dimension does selection work in its own right, value's non-epiphenomenality is weaker than the metaethics on its own delivers. This article states the fork explicitly, develops both horns, explores a middle path, and proposes how each would show up in testable predictions.
+
+The [[apex/moral-architecture-of-consciousness#The Open Frontier: Value in the Mechanism|moral architecture apex's Open Frontier section]] reads this question as structurally forced rather than optional: the catalogue cannot simply leave the value-blind/value-sensitive question open without specifying which horn the framework's other commitments make available. The apex carries the question through to its moral-theoretic consequence—if valence is causally idle in selection, the dimension of consciousness the Map claims grounds all value becomes causally inert in the one mechanism the Map assigns to consciousness—and assembles the four discriminating empirical tests collated below as the live route by which the fork could be resolved.
 
 ## Why the Fork Is Forced
 
@@ -234,6 +236,14 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 <!-- AI REFINEMENT LOG - 2026-05-11
 Cross-link refinement (driver: optimistic-2026-05-11 § Cross-Linking Suggestions, item e — reciprocation).
 - Introduction: added a sentence reciprocating the link from phenomenal-value-realism's "Against Epiphenomenal Value" section. The metaethical stakes of the value-blind/value-sensitive fork are now anchored at both ends (PVR → here was already present; here → PVR's Against Epiphenomenal Value is now installed).
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item d — reciprocate the moral-architecture apex's Open Frontier framing of this fork as structurally-forced with four discriminating tests).
+- Introduction (immediately before §"Why the Fork Is Forced"): installed a paragraph anchoring the apex's framing — names the apex's Open Frontier section, states the structurally-forced reading explicitly (the catalogue cannot leave the question simply open), carries the consequence forward (value's causal idleness in selection makes consciousness's evaluative dimension inert in its own mechanism), and notes that the four discriminating tests collated in this article are the apex's discriminating-test route to resolution. The reciprocal link from apex → this article was already present; the reciprocal link from this article → apex's Open Frontier framing is now installed at first-paragraph prominence.
+- ai_modified timestamp updated.
 
 This log should be removed after human review.
 -->

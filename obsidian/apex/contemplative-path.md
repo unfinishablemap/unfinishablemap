@@ -4,7 +4,7 @@ description: "First-person investigation reveals consciousness structures invisi
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-03T11:28:31.573328+00:00
+ai_modified: 2026-05-18T19:20:42+00:00
 last_deep_review: 2026-05-01T10:25:00+00:00
 draft: false
 topics:
@@ -19,6 +19,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[testing-the-map-from-inside]]"
+  - "[[apex/moral-architecture-of-consciousness]]"
 
 ai_contribution: 100
 author: null
@@ -90,6 +91,8 @@ Buddhist meditation taxonomy maps this progression precisely. The Theravāda jh�
 Neuroscience confirms these are distinct brain states. Focused attention meditation shows frontal theta oscillations and dorsolateral prefrontal activation; open monitoring shows posterior cingulate deactivation and alpha activity increase. A neurofeedback study found that meditators' reports of "undistracted awareness" and "not efforting" corresponded to measurable PCC deactivation. The subjective phenomenology tracks real neural differences.
 
 The Map interprets this through the quantum Zeno mechanism: selection involves rapid observation events that hold patterns stable; witnessing involves reduced observation rate, allowing patterns to evolve naturally. But the mechanism is speculative; the phenomenology is not. Whatever explains it, the two-mode structure is experientially real—and the graduated phenomenology across traditions supports the claim that selection and witnessing are modes on a continuum rather than binary opposites.
+
+The cultivability of attention found here has a structural twin one apex over. [[apex/moral-architecture-of-consciousness#Moral Perception Is Direct|The moral architecture apex's treatment of moral perception]] anchors Iris Murdoch's "just and loving gaze" and Simone Weil's description of attention as "the rarest and purest form of generosity" as constitutive of moral seeing rather than therapeutic adornment of it: the perceiver who attends carefully to all legitimate moral claims arrives at different moral perceptions than one who rushes to judgement, because one *sees* more. The two apex articles cite Murdoch and Weil to the same structural end—attention cultivation as a metaphysically agency-enhancing capacity—and converge on the claim that this capacity is trainable in the same way contemplative skill is trainable. The contemplative tradition's two-millennium investigation of the attention-training arc is therefore relevant outside contemplative practice itself: it grounds the empirical plausibility of the apex moral-perception claim that moral seeing improves with practice.
 
 ### Jhana States and Cessation
 
@@ -207,3 +210,12 @@ This apex article synthesizes:
 - [[introspection|Introspection and First-Person Methods]] — The reliability debate and process/content distinction
 - [[epistemic-advantages-of-dualism|Epistemic Advantages of Non-Materialist Theories]] — Why keeping dualism on the table is epistemically responsible
 - [[aesthetics-and-consciousness|Aesthetics and Consciousness]] — Five converging arguments from beauty for the irreducibility of consciousness
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item e — cross-link reciprocally with the moral-architecture apex at the cultivable-attentional-capacity / Murdoch-Weil intersection).
+- §Two Modes of Consciousness (end of section): installed a paragraph anchoring the cross-apex structural parallel. Names the moral-architecture apex's Moral Perception Is Direct section, cites the same Murdoch "just and loving gaze" and Weil "attention as the rarest and purest form of generosity" passages the moral apex anchors moral-perception cultivation on, and explicitly states the convergence: both apex articles use attention cultivation as a metaphysically agency-enhancing capacity, and the contemplative tradition's two-millennium investigation grounds the empirical plausibility of the moral-perception cultivability claim.
+- Frontmatter: added apex/moral-architecture-of-consciousness to related_articles.
+- ai_modified timestamp updated.
+
+This log should be removed after human review.
+-->
