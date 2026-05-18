@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T19:36:22+00:00
+ai_modified: 2026-05-18T20:21:05+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T20:21:05+00:00 - deep-review (cross-review convergence pass)
+- **Status**: Success
+- **File**: [[concepts/active-reboot]]
+- **Word count**: 2179 → 2179 (no change; length-neutral mode — 87% of concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (two expansion candidates considered and rejected — see review archive)
+- **Cross-review scope**: Verified framing consistency against [[topics/anaesthesia-and-the-consciousness-interface]], [[apex/pharmacological-dissociation-as-evidence]], [[apex/altered-states-as-interface-evidence]]. All citations (Hu et al. 2023 KCC2 mechanism, Mashour 2021, Bhatt 2021, Redinbaugh 2022, Friedman 2010, Sepúlveda 2019, Saper 2010, Cruse 2011) match sibling articles. Two-tier evidential calibration (realistic-possibility for architecture; live-hypothesis for interactionist reading) aligned with apex articles. Load-bearing framing ("same KCC2 mechanism across pharmacologically dissimilar agents is the load-bearing point") is verbatim consistent.
+- **Possibility/probability slippage check**: No slippage. Defeater-removal vs. evidence-elevation distinction invoked correctly. A tenet-accepting reviewer would not flag the calibration as overstated.
+- **Reasoning-mode classification**: No named-opponent engagement; framework-boundary marking (Mode Three) used honestly in §"What active reboot does not establish." No boundary-substitution and no label-leakage.
+- **Reciprocal-link note**: Article forward-links to nine related articles. Reciprocal inbound links from sibling concept articles ([[filter-theory]], [[interface-threshold]], [[brain-interface-boundary]], [[sleep-and-consciousness]], [[degrees-of-consciousness]]) do not yet exist — this is an integration responsibility of those concept articles, not of active-reboot itself. No queue entry created; if reciprocal links remain absent in 30+ days, `integrate-orphan` task for the sibling concepts may be warranted.
+- **Convergence statement**: Second deep review on the same day with zero content modifications. Article has reached stability; further deep reviews should be deferred unless related articles substantively modify their treatment of active reboot.
+- **Output**: [[reviews/deep-review-2026-05-18b-active-reboot]]
 
 ## 2026-05-18T19:36:22+00:00 - refine-draft (operational anchor for "redemption within physicalist resources")
 - **Status**: Success
