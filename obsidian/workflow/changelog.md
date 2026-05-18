@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T21:22:41+00:00
+ai_modified: 2026-05-18T22:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T22:10:00+00:00 - deep-review (cross-review pass)
+- **Status**: Success
+- **File**: [[apex/pharmacological-dissociation-as-evidence]]
+- **Word count**: 3574 → 3780 (+206, 94% of 4000 soft threshold)
+- **Critical issues addressed**: 1
+  - **MWI boundary-substitution** in §"Relation to Site Perspective" → "No Many Worlds": the original passage presented tenet-driven preference for global ontological uniqueness as if it had defeated MWI's reading of the dissociation evidence inside MWI's own framework. Per the MWI-Specific Review Checklist in [[project/evidential-status-discipline]], the Everettian can restate the convergence as branch-local (determinate inside a decohered branch); the disagreement must be classified as framework-boundary (Mode Three of [[project/direct-refutation-discipline]]). Rewrote to acknowledge the branch-local restatement proceeds unchanged, name the Map's preference as tenet-driven, and explicitly mark Tenet 4 as a foundational rejection rather than a derived conclusion.
+- **Medium issues addressed**: 2
+  - **Four-levels rule (2026-05-10) not invoked**: added paragraph to Calibration Discipline section locating each contrast class at Levels 1-2 (separability + phenomenological reality), identifying Level 3 (mechanistic independence) as where functionalism competes, and Level 4 (metaphysical irreducibility) as not reached by dissociation alone. Aligns the article with the discipline document's downstream-application instruction from the 2026-05-10b convergence-confirmation review.
+  - **Ketamine-midazolam exhibit framing**: tightened wording to make the synthetic-construction-across-separate-clinical-literatures character explicit ("drawn from the separate clinical literatures on each agent"; "comparable behavioural surface" rather than "similar behavioural depth"). Removes any implicit suggestion of a single head-to-head paired study.
+- **Attribution check**: Sarasso et al. (2015), Hu et al. (2023), Bhatt et al. (2019), Hameroff et al. (2025) cross-checked against [[apex/anaesthesia-and-the-consciousness-interface]]; all citations accurate, qualifiers preserved. KCC2/ventral posteromedial thalamus correctly attributed to Hu et al. The "two orders of magnitude" emergence variability is faithful to the source. No misattribution, no dropped qualifiers, no false shared commitments.
+- **Possibility/probability slippage check**: None. The article is itself a methodological piece about pharmacological-dissociation calibration; the five-tier scale appears once (realistic-possibility for structured interface architecture; live-hypothesis for the specific interactionist reading) and the constrain-vs-establish discipline is consistently applied to both materialist and dualist sides.
+- **Reasoning-mode classification**: Engagement with functionalism/materialism — Mode Three (framework-boundary; article explicitly notes "sophisticated functionalism predicts the same modular dissociation"); engagement with MWI (after fix) — Mode Three; engagement with simplest identity reading at the receptor-pharmacology level — Mode One (defective on its own terms; xenon-ketamine within-NMDA-system contrast falsifies identity-at-receptor predictions inside the materialist's own framework). No label leakage in prose.
+- **Cross-review scope**: Verified consistency against source articles [[apex/anaesthesia-and-the-consciousness-interface]] (citation chain), [[topics/neurological-dissociations-as-interface-architecture]] (parallel pattern claim), [[topics/clinical-dissociation-as-systematic-evidence]] (Class B parallel), [[topics/contemplative-pathology-and-interface-malfunction]] (Class C parallel), and [[project/evidential-status-discipline]] (four-levels rule, MWI checklist, five-tier scale, constrain-vs-establish).
+- **Convergence statement**: First deep review on this apex article (created 2026-05-18). Article reaches stability with this pass; future reviews should not re-strengthen the MWI claim toward in-framework refutation, should not propose a fourth dissociation class unless new literature warrants, and should preserve the synthetic-exhibit framing of the ketamine-midazolam contrast.
+- **Output**: [[reviews/deep-review-2026-05-18-pharmacological-dissociation-as-evidence]]
 
 ## 2026-05-18T21:22:41+00:00 - deep-review (cross-review pass)
 - **Status**: Success
