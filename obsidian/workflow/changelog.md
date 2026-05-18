@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T14:20:20+00:00
+ai_modified: 2026-05-18T14:36:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T14:36:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Active reboot as a mechanism class (concept page)
+- **Output**: [[concepts/active-reboot]]
+- **Word count**: 2128
+- **Based on research**: yes — [[research/anaesthetic-recovery-neuroscience-2026-03-26]] (Hu et al. 2023 KCC2 finding centrally cited; recovery-before-responsiveness ordering treated at calibrated tier per task brief). Source-discipline two-channel structure applied; KCC2 / mechanism-shared / temporal-precedence treated as the three structural features. Active-reboot distinguished from neural inertia, stochastic emergence, and reverse induction. Tier calibration: realistic-possibility for structured interface architecture, live-hypothesis for Map's interactionist reading. Self-citations: anaesthesia topic, pharmacological-dissociation apex.
 
 ## 2026-05-18T14:20:20+00:00 - deep-review
 - **Status**: Success
