@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-05-18 10:30:00+00:00
+ai_modified: 2026-05-18 13:55:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -569,6 +569,27 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 - voids/self-opacity
 
 **Status**: Created 2026-05-18 (admitted as #25 — promoted from P3 to P2 per task brief, originally generated 2026-05-15; the sub-cluster reached integration threshold once `voids/perceptual-reality-monitoring-void` (P2 expand-topic task) was added as the fifth face. Walks the reader from storytelling-operation invisibility through origin-tag failure to anti-correlated gating signals to positive-content fabrication to online type-attribution gap; names the organising structure — each void identifies a distinct architectural mechanism of introspective bounded-access; treats the reflexive consequence at apex-grain without using reflexivity as defensive shield; honours [evidential-status-discipline](/project/evidential-status-discipline/); cross-links to `[[apex/taxonomy-of-voids]]`, `[[apex/phenomenology-mechanism-bridge]]`, `[[apex/conjunction-coalesce]]`, `[[apex/medium-status-voids-in-cognition]]`, the constituent voids, and methodological siblings (`[[heterophenomenology]]`, `[[topics/microphenomenological-interview-method]]`, `[[topics/introspection-architecture-independence-scoring]]`, `[[topics/pupillometry-behavioural-channel]]`). Tenet alignment: Tenet 1 (Dualism — bounded-access architecture is what dualism predicts) + methodological. 3,861 words. Apex now at #25 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
+
+---
+
+### 26. Pharmacological Dissociation as Evidence
+
+**Slug**: `pharmacological-dissociation-as-evidence`
+
+**Subtitle**: How same-target, different-target, and same-behaviour drug contrasts furnish a Map-distinctive evidence pattern for structured interface architecture
+
+**Thesis**: Pharmacological dissociation furnishes evidence for a structured, multi-channel consciousness-brain interface in three distinguishable classes — same target / opposite outcome, different targets / convergent outcome, same behavioural depth / different mechanism / different phenomenology — each of which constrains the simplest identity reading rather than establishing the Map's interactionist version, with cumulative force coming from convergence across pharmacology, neurology, clinical dissociation, and contemplative practice.
+
+**Source articles**:
+- topics/anaesthesia-and-the-consciousness-interface
+- topics/neurological-dissociations-as-interface-architecture
+- topics/clinical-dissociation-as-systematic-evidence
+- topics/contemplative-pathology-and-interface-malfunction
+- concepts/filter-theory
+- concepts/interface-friction
+- concepts/mind-matter-interface
+
+**Status**: Created 2026-05-18 (admitted as #26 — promoted from P3 to P2 by replenish-queue 2026-05-18 per task brief: queue starved at P0–P2 with topics/, concepts/, voids/ at or over cap and apex/ as the catalogue's main growth zone. Suggested by optimistic-2026-05-17.md High Priority. The anaesthesia article is the catalogue's strongest current exhibit of pharmacological dissociation — three distinct contrasts in one article body, each load-bearing in different ways: xenon-ketamine (same NMDA receptor, opposite phenomenological outcomes), ketamine-midazolam (same sub-anaesthetic behavioural surface, distinct mechanism, distinct memory-encoding outcome), and propofol-xenon (two mechanistically distinct routes converging on extinction of experience, with the Hu et al. 2023 KCC2 active-reboot pathway as mechanism-shared reopening). The apex specifies the three dissociation classes once at the catalogue level, names the discipline (constrain vs establish, defeater-removal vs evidence-elevation per [evidential-status-discipline](/project/evidential-status-discipline/)), provides anaesthesia as the worked exhibit, and identifies the matching dissociation patterns across neurological lesions, clinical dissociation, and contemplative pathology as cumulative-convergence force. The methodology is held at the *realistic-possibility* tier for structured interface architecture and at the *live-hypothesis* tier for the Map's specific interactionist version of that structure. 3,760 words. Apex now at #26 within the informal 20-article cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
 
 ---
 

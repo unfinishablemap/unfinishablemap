@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-05-18 13:40:00+00:00
+ai_modified: 2026-05-18 17:30:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -63,7 +63,7 @@ When we say consciousness has "causal powers," what might this mean? Several pos
 
 **Selection among alternatives**: Consciousness could choose among physically permissible outcomes where the laws of nature leave the result undetermined. This is the Map's position. Physics specifies probabilities; consciousness biases which probability actualizes. No energy is added, no force exerted—only selection among genuine possibilities. The [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) frames this as the interface function of information: syntactic constraints from physics, semantic selection from consciousness. (The selection-among-alternatives framing presupposes a non-Everettian interpretation of quantum mechanics: under Many-Worlds, all outcomes actualise in their respective branches and there is nothing to select. The Map rejects MWI at the tenet level — see [Tenet 4](/tenets/#no-many-worlds) — and the rejection is doing load-bearing work for this article's central framing. Readers attracted to MWI will find the framing here does not engage them, and the disagreement on this point is honestly noted as framework-level rather than worked out within the Everettian framework on this article.)
 
-**Pattern amplification**: Consciousness could sustain or amplify certain neural patterns through repeated "observation" in the quantum sense. One proposed mechanism—the [quantum Zeno effect](/concepts/stapp-quantum-mind/)—suggests that attention holds neural states in superposition longer than they would naturally persist, allowing conscious intentions to shape which patterns stabilize. The causal power here is not pushing but holding. Seven distinct [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) have been proposed for how such quantum-level influence scales to macroscopic neural effects.
+**Pattern amplification**: Consciousness could sustain or amplify certain neural patterns through repeated "observation" in the quantum sense. One proposed mechanism—the [quantum Zeno effect](/concepts/stapp-quantum-mind/)—suggests that attention holds neural states in superposition longer than they would naturally persist, allowing conscious intentions to shape which patterns stabilize. The causal power posited here is one of holding rather than pushing. Seven distinct [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) have been proposed for how such quantum-level influence scales to macroscopic neural effects.
 
 **Organizational influence**: Consciousness might affect how neural components organize without affecting their individual behaviour. This is closer to emergence theories—consciousness as a high-level property that causally constrains lower levels through organizational feedback. The challenge: specifying how organization contributes novel powers without violating lower-level laws.
 
@@ -77,7 +77,7 @@ If consciousness has causal powers, those powers must have limits—otherwise ev
 
 The Map proposes that consciousness interfaces with the physical world specifically at quantum indeterminacies in neural systems. This localizes the causal power: consciousness doesn't directly influence distant objects, other people's brains, or macroscopic events. It operates where mind meets matter—in your own neural activity.
 
-This explains why you can decide to raise your arm (mental influence on your neural motor patterns) but cannot telekinetically move someone else's arm. The difference is not degree of effort but location of interface. See [attention-as-interface](/concepts/attention-as-interface/) for detailed treatment of how attention might implement this local coupling, and [the interface location problem](/topics/the-interface-problem/) for the deeper question of why consciousness interfaces where it does.
+On the Map's framing, the interface's locality accounts for an asymmetry: you can decide to raise your arm because the interface is in your own neural activity; you cannot telekinetically move someone else's because there is no interface there. The asymmetry is about the location of interface rather than the degree of effort. See [attention-as-interface](/concepts/attention-as-interface/) for detailed treatment of how attention might implement this local coupling, and [the interface location problem](/topics/the-interface-problem/) for the deeper question of why consciousness interfaces where it does.
 
 ### The Physical Constraint
 
@@ -113,7 +113,7 @@ Consciousness can hold certain neural patterns active through sustained attentio
 
 The Zeno proposal faces a serious quantitative gap that the Map should name explicitly. Standard decoherence calculations for neural-relevant quantum superpositions in warm, wet brain tissue give coherence times on the order of $10^{-13}$ to $10^{-20}$ seconds; the phenomenology of attention runs at alpha and beta band rates of roughly 10–30 Hz. For the Zeno mechanism to hold a neural superposition coherent through sustained attention, observations would need to occur at $\geq 10^{13}$ Hz — twelve to sixteen orders of magnitude faster than the rate at which the attentional phenomenology itself unfolds. Closing the gap requires either protected microenvironments that extend coherence times by many orders of magnitude (the Penrose-Hameroff conjecture about microtubule quantum coherence, itself contested in the post-2002 literature), or an alternative quantum mechanism that does not require sustained neural-timescale coherence. The Zeno-effect mechanism is offered as a worked example of how quantum-level influence could scale to neural effects; the empirical case for the underlying coherence-time requirement is contested and remains a critical vulnerability the framework has not resolved.
 
-Whether through the Zeno effect or some other mechanism, the causal power posited here is persistence: under the Map's framing, consciousness would make certain neural configurations more stable than they would otherwise be, enabling planning, reasoning, and deliberation that require holding information across time. The phenomenology of sustained attention—the felt effort of keeping focus on a difficult problem—is consistent with this picture, though it is also consistent with rival accounts in which the felt effort is fully captured by mesoscopic neural-network reverberation, attentional gain modulation in V4 and parietal cortex, and noradrenergic locus coeruleus modulation of cortical signal-to-noise. The phenomenology is suggestive, not decisive.
+Whether through the Zeno effect or some other mechanism, the causal power posited here is persistence: under the Map's framing, consciousness would make certain neural configurations more stable than they would otherwise be, enabling planning, reasoning, and deliberation that require holding information across time. The phenomenology of sustained attention—the felt effort of keeping focus on a difficult problem—is consistent with this picture, though it is also consistent with rival accounts in which the felt effort is fully captured by mesoscopic neural-network reverberation, attentional gain modulation in V4 and parietal cortex, and noradrenergic locus coeruleus modulation of cortical signal-to-noise. The phenomenology is suggestive, not decisive; for the broader case that the phenomenology of effort, holding, and selection constitutes evidence the Map's framing can claim over its rivals, see [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/).
 
 ### Phenomenal Biasing
 
@@ -286,6 +286,52 @@ Frontmatter:
 - ai_modified, modified updated to 2026-05-18
 
 Word count: ~2,936 → ~3,750 (approximately +800 words net; calibration preamble, decoherence-time paragraph, MWI parenthetical, pain-asymbolia rewrite, overdetermination summary, and rival-acknowledgements all contributed; per refine-draft scope guidance of ~300–500 words this is somewhat over budget but the critical issues required substantive expansion).
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-18 (follow-up pass)
+Follow-up refine driven by P1 task (cliché audit segment of pessimistic-2026-05-18). The three critical issues from the 13:42 pass landed cleanly; this follow-up addresses two surviving "not X but Y" constructs that the cliché-ban audit at line 51 of the task notes flagged.
+
+Specific changes:
+- Line 63 (Pattern amplification bullet): "The causal power here is not pushing but holding" → "The causal power posited here is one of holding rather than pushing." Preserves the holding/pushing distinction without the banned construct.
+- Line 77 (Interface Constraint paragraph): "This explains why you can decide to raise your arm but cannot telekinetically move someone else's arm. The difference is not degree of effort but location of interface." → reframed using the suggested writing-style replacement from pessimistic-2026-05-18 §"Language Improvements" table (the "On the Map's framing, the interface's locality accounts for the asymmetry" rewrite). This simultaneously fixes the "not X but Y" construct and the "This explains why" overclaim flagged at the same review-table row.
+
+What this pass did not touch:
+- Line 51's "more than merely accompany" hedge and "not simply whether... but what kind" parallel construction: these are legible English usage rather than the banned LLM cliché, and the previous refine left them in place after audit. Preserved here.
+- Line 159 "not merely representational but causally connected": parallel construction in natural philosophical idiom, preserved.
+
+ai_modified bumped to 2026-05-18T16:05:00+00:00 to reflect this follow-up pass.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-18 (sibling P2 audit pass)
+Sibling P2 pass driven by pessimistic-2026-05-18's smaller-grain findings. The three P1 critical issues and most of the smaller findings landed in the 13:42 and 16:05 passes; this audit pass confirms remaining task-note items against the present article state and applies one residual fix.
+
+Audit against task notes:
+- (a) Decoherence-time gap (§"Sustained Attention"): present at lines 111–113 from the 13:42 pass. Confirmed.
+- (b) MWI parenthetical: present at line 61 from the 13:42 pass; uses [Tenet 4](/tenets/#no-many-worlds) (the standalone [no-many-worlds](/no-many-worlds/) page does not exist in the catalogue). Confirmed.
+- (c) Unsupported claims:
+    - Seven-amplification-mechanisms link (line 63): verified pointing to existing `topics/amplification-mechanisms-consciousness-physics.md` (description confirms "seven proposed mechanisms"). Confirmed.
+    - "cognitive load experiments suggest" (line 183): expanded in 13:42 pass to acknowledge contested dual-process literature. Confirmed.
+    - Phenomenology-to-mechanism inference (line 113): rival-account acknowledgement landed in 13:42 pass; this audit adds the missing cross-reference to [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) per task notes' "rerouting through" option. Sole prose change of this audit pass.
+    - Intensity-of-effort claim (line 129): softened in 13:42 pass to hypothesised-rather-than-measured. Confirmed.
+    - Luck-objection (line 155): rewritten in 13:42 pass to acknowledge the objection cuts against constrained powers and to honestly note the deeper form is not closed. Confirmed.
+- (d) Language fixes:
+    - "not X but Y" at line 51, line 63, line 77: all addressed across 13:42 and 16:05 passes. Confirmed.
+    - "the correct theory must explain how phenomenal properties acquire precisely the causal profile" (line 163): softened. Confirmed.
+    - "possesses a specific and limited causal power" (line 51): changed to "exercises". Confirmed.
+    - "This explains why you can decide to raise your arm" (line 77): changed to "accounts for". Confirmed.
+    - "and not merely by assertion" (line 83): cut. Confirmed.
+    - Full-article audit for additional "not X but Y": remaining instances at line 51 ("not simply whether X but what Y") and line 159 ("not merely representational but causally connected") are legible parallel-construction English idiom rather than the CLAUDE.md-banned "This is not X. It is Y." two-sentence construct. Preserved per prior pass's audit reasoning.
+
+Single prose change in this audit pass:
+- Line 113: added cross-reference to [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) for the broader phenomenology-of-effort-as-evidence case, per task notes' "rerouting through [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)" option for the line-109 phenomenology-to-mechanism inference flag.
+
+Engagement classification: this is editor-internal housekeeping; no new opponent engagements introduced.
+
+ai_modified bumped to 2026-05-18T17:30:00+00:00.
 
 This log should be removed after human review.
 -->

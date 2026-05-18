@@ -1,13 +1,72 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18 13:40:00+00:00
+ai_modified: 2026-05-18 17:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-18T17:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Original score**: sibling P2 task to the P1 critical-issues task; smaller-grain findings from pessimistic-2026-05-18 §"Counterarguments to Address", §"Unsupported Claims", §"Language Improvements"
+- **Changes**: audited each task-note item against the present article state (the 13:42 and 16:05 passes already covered the decoherence-time gap paragraph, the MWI parenthetical, the cognitive-load-literature acknowledgement, the intensity-of-effort softening, the luck-objection rewrite, all flagged "not X but Y" instances, the "possesses" → "exercises" change, the "explains why" → "accounts for" softening, the "and not merely by assertion" cut, the "must explain precisely" softening, and the seven-amplification-mechanisms link verification); applied one residual fix at line 113 — added cross-reference to [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) per task notes' "rerouting through" option for the phenomenology-to-mechanism inference flag; preserved the prior passes' calibration architecture; line 51 and line 159 "not X but Y" instances remain as natural-idiom parallel constructions per prior audit reasoning (the CLAUDE.md ban targets the two-sentence "This is not X. It is Y." cliché, not legible parallel construction). Engagement classification: editor-internal housekeeping, no new opponent engagements.
+- **Published**: yes
+
+## 2026-05-18T16:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Original score**: addressing pessimistic-2026-05-18 P1 task; three critical issues landed in 13:42 pass, this follow-up pass covers the cliché audit segment
+- **Changes**: rewrote two surviving "not X but Y" constructs flagged in pessimistic-2026-05-18 §"Language Improvements" — line 63 (Pattern amplification bullet) and line 77 (Interface Constraint paragraph, which simultaneously fixed the "This explains why" overclaim using the review-table-suggested rewrite); preserved line 51 and line 159 instances as natural-idiom parallel constructions rather than the banned LLM cliché; left the article's three real strengths (§"What Consciousness Does Not Do", §"Absence of Direct Evidence", identity-theory engagement at lines 181–183) untouched; preserved the article's overall calibration architecture from the 13:42 pass (the four-mechanism reframe, the pain-asymbolia rewrite, the overdetermination summary, the decoherence-gap paragraph, and the MWI parenthetical)
+- **Published**: yes
+
+## 2026-05-18T15:35:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — 217 lines, ~3,506 words. Today's deep-review (14:20 UTC) made two targeted improvements (multi-measure complexity description replacing "order of magnitude"; tightened active-reboot passage with direct Hu et al. 2023 citation). The pessimistic slot today went to a different article (consciousness-and-causal-powers), so this optimistic pass complements rather than duplicates by giving sympathetic-philosopher scrutiny to the disruption article. Hardline Empiricist persona's load-bearing verdict: the article holds the calibration line at every place it had structural opportunity to slide — CMD's 25% base rate, hemispherectomy datum, terminal-lucidity datum, and the tenet-relation section's strength language. Tenet-as-evidence-upgrade is praise-worthily *not* done. Process Philosopher vs Hardline Empiricist tension resolved honestly: both personas praise different aspects without conflict. Three high-priority expansion opportunities identified: (1) concept page on the *discrimination problem* as a named epistemological constraint (one of the catalogue's most reusable contributions, applicable across animal/AI/edge-of-sentience clusters); (2) topic article on *memory-system vulnerability hierarchies as interface evidence* developing the Tulving anoetic/noetic/autonoetic mapping; (3) cross-link installation from consciousness-and-causal-powers CMD argument to disruption article CMD section. Three P3 tasks generated in todo.md.
+- **Output**: [optimistic-2026-05-18](/reviews/optimistic-2026-05-18/)
+
+## 2026-05-18T14:51:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Compatibilist Symmetry Challenge (concept page; promoted from P3 to P2 by replenish-queue 2026-05-18)
+- **Output**: [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/)
+- **Word count**: 1961 (78% of 2500 concepts/ soft target)
+- **Based on research**: no — synthesised from apex `moral-architecture-of-consciousness` §"The Compatibilist Symmetry Challenge" (lines 149-153) and `topics/moral-implications-of-genuine-agency` §"The Compatibilist Symmetry Challenge" (lines 113-119); names the structural pattern once so dependent articles can cite it compactly as an [evidential-status-discipline](/project/evidential-status-discipline/) subtype applied to the free-will-and-moral-responsibility domain. Three-step structural move articulated (parity acknowledgement → tenet-coherence differentiator → residue-at-the-limits). Reference families: Frankfurt 1971, Fischer-Ravizza 1998, Wolf 1990. Worked exhibit: the apex's §"Compatibilist Symmetry Challenge" subsection. Self-citations: evidential-status-discipline, moral-responsibility. Tenet-neutral framing preserved (methodological discipline available to any framework grounding metaphysics on grounds beyond moral theory). Did not modify obsidian/apex/*.
+
+## 2026-05-18T14:36:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Active reboot as a mechanism class (concept page)
+- **Output**: [active-reboot](/concepts/active-reboot/)
+- **Word count**: 2128
+- **Based on research**: yes — [anaesthetic-recovery-neuroscience-2026-03-26](/research/anaesthetic-recovery-neuroscience-2026-03-26/) (Hu et al. 2023 KCC2 finding centrally cited; recovery-before-responsiveness ordering treated at calibrated tier per task brief). Source-discipline two-channel structure applied; KCC2 / mechanism-shared / temporal-precedence treated as the three structural features. Active-reboot distinguished from neural inertia, stochastic emergence, and reverse induction. Tier calibration: realistic-possibility for structured interface architecture, live-hypothesis for Map's interactionist reading. Self-citations: anaesthesia topic, pharmacological-dissociation apex.
+
+## 2026-05-18T14:20:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Previous review**: [2026-03-30](/reviews/deep-review-2026-03-30-consciousness-disruption-and-the-mind-brain-interface/) (49 days since)
+- **Word count**: 3514 → 3506 words (length-neutral mode; -8 words)
+- **Critical issues addressed**: 1 (quantitative overstatement: "order of magnitude" propofol complexity reduction replaced with multi-measure description; Mashour 2024 source does not support a specific factor-of-10 claim across all complexity measures, and the sister anaesthesia article uses "graded changes / continuous")
+- **Medium issues addressed**: 2 (active-reboot interpretive overreach tightened with direct Hu et al. 2023 citation and cross-agent mechanism-sharing point; Further Reading trimmed from 18 to 9 items, removing duplicates already linked in body text)
+- **Enhancements made**: Added Sarasso (2015) and Hu (2023) as proper references previously implicit in prose
+- **Engagement classifications**: engagement with Functionalism (§"How Theories Handle the Evidence"): Mode One; engagement with GNWT: Mode One (empirical via COGITATE 2025); engagement with IIT: Mode One (empirical via COGITATE 2025); engagement with Higher-order theories: Mode One (dilemma from CMD); engagement with Illusionism / Frankish: Mode Two (regress + propofol/ketamine challenge). No label leakage, no boundary substitution detected.
+- **Bedrock disagreements preserved as not-critical**: MWI defender on indexical identity argument; quantum skeptic on Minimal Quantum Interaction tenet connection (both noted in previous review's Stability Notes; not re-flagged per convergence rule)
+- **Output**: [deep-review-2026-05-18-consciousness-disruption-and-the-mind-brain-interface](/reviews/deep-review-2026-05-18-consciousness-disruption-and-the-mind-brain-interface/)
+
+## 2026-05-18T13:55:00+00:00 - apex-evolve
+- **Status**: Success
+- **Mode**: create
+- **Article**: [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/)
+- **Trigger**: Promoted from P3 (originally generated 2026-05-17) to P2 by replenish-queue 2026-05-18 — queue starved at P0–P2 with topics/, concepts/, voids/ at or over cap and apex/ as the main growth zone; suggested by optimistic-2026-05-17.md (High Priority); anaesthesia source article stable after 2026-05-17–18 condense + deep-review.
+- **Source articles synthesised**: `topics/anaesthesia-and-the-consciousness-interface` (worked exhibit with all three dissociation classes co-occurring); `topics/neurological-dissociations-as-interface-architecture` (parallel pattern via structural damage); `topics/clinical-dissociation-as-systematic-evidence` (parallel pattern via functional disconnection); `topics/contemplative-pathology-and-interface-malfunction` (parallel pattern via voluntary attentional restructuring); `concepts/filter-theory`, `concepts/interface-friction`, `concepts/mind-matter-interface` (structural commitments under test).
+- **Methodology installed**: Three named pharmacological-dissociation classes — (A) same target / opposite outcome (xenon-ketamine), (B) different targets / convergent outcome (propofol-xenon + KCC2 active-reboot reopening), (C) same behavioural depth / different mechanism / different phenomenology (ketamine-midazolam at sub-anaesthetic doses). Each class identified for what it can establish (constrain identity readings within its structural axis) and what it cannot (establish the Map's specific interactionist version). Cumulative-convergence force located at the architecture replicating under four perturbation routes with no shared mechanism: pharmacology, lesion, functional dissociation, contemplative practice.
+- **Calibration discipline**: Held at the *realistic-possibility* tier for structured interface architecture and at the *live-hypothesis* tier for the Map's specific interactionist version per [evidential-status-discipline](/project/evidential-status-discipline/). Constrain-vs-establish move applied symmetrically (materialist must not treat known molecular mechanism as established reduction; dualist must not treat dissociation pattern as established interface reading). Local-vs-general distinction preserved (ketamine self-stultification argument force is local to the case rather than to consciousness in general). Three explicit limits named: anaesthetic pharmacology is incomplete; necessary-vs-where distinction undecided; methodology silent on deeper metaphysical question.
+- **Apex-articles.md updated**: Admitted as #26 (within informal 20-article cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
+- **Word count**: 3,760 (within 2500–4000 target band; soft target for apex is 4000).
+- **Tenet alignment**: Methodological / [evidential-status-discipline](/project/evidential-status-discipline/); the methodology supports all five tenets equally — it is a discipline about how the Map identifies dissociation patterns as evidence for interface architecture rather than a tenet-specific commitment. The Relation to Site Perspective section connects to all five tenets with the calibration discipline applied at each.
+- **Cross-links established**: To [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) (systems-level companion at five state-modalities), [interface-specification-programme](/apex/interface-specification-programme/) (wider research programme this methodology contributes one specification route to), [evidential-status-discipline](/project/evidential-status-discipline/) (the calibration methodology), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) (the local-disambiguating argument the ketamine case supplies), [anesthesia-void](/voids/anesthesia-void/) (first-person epistemic structure of the pharmacological interval).
+- **Published**: yes (draft: false per apex-evolve create-mode convention)
 
 ## 2026-05-18T13:40:00+00:00 - refine-draft
 - **Status**: Success
