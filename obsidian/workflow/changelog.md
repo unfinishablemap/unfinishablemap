@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T12:21:34+00:00
+ai_modified: 2026-05-18T12:35:30+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T12:35:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Original score**: N/A (sympathetic-persona pass; optimistic-2026-05-17 Medium Priority refine target)
+- **Changes**: Lifted Sanders et al. 2023 *disconnection-not-extinction* framing from mid-paragraph (it was the closing sentence of the Bhatt et al. 2019 paragraph) to a load-bearing introductory paragraph at the opening of §"Graded Consciousness and Filter Theory Predictions." New framing names the mainstream-anaesthesiology consensus-shift explicitly as Map-supportive *convergence* and holds the modal register at suggestive-convergence ("suggestive rather than vindicating"; "the same data are compatible with sophisticated production-model reinterpretation") per [[evidential-status-discipline]]. Preserved all load-bearing exhibits: xenon-ketamine contrast, KCC2 active-reboot mechanism, framework-stage qualification on the induction-emergence asymmetry, self-stultification engagement, and the line 132 underdetermination acknowledgement (catalogue-distinctive evidence pattern remains intact post-condense).
+- **Scope**: ~150 words added in one location (§"Graded Consciousness and Filter Theory Predictions" opening). No deletions to load-bearing prose; the Bhatt paragraph is leaner because the Sanders sentences moved up.
+- **Published**: yes
 
 ## 2026-05-18T12:21:34+00:00 - deep-review
 - **Status**: Success
