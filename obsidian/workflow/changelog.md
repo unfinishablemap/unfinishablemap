@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T16:05:00+00:00
+ai_modified: 2026-05-18T17:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T17:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-causal-powers]]
+- **Original score**: sibling P2 task to the P1 critical-issues task; smaller-grain findings from pessimistic-2026-05-18 §"Counterarguments to Address", §"Unsupported Claims", §"Language Improvements"
+- **Changes**: audited each task-note item against the present article state (the 13:42 and 16:05 passes already covered the decoherence-time gap paragraph, the MWI parenthetical, the cognitive-load-literature acknowledgement, the intensity-of-effort softening, the luck-objection rewrite, all flagged "not X but Y" instances, the "possesses" → "exercises" change, the "explains why" → "accounts for" softening, the "and not merely by assertion" cut, the "must explain precisely" softening, and the seven-amplification-mechanisms link verification); applied one residual fix at line 113 — added cross-reference to [[phenomenology-of-consciousness-doing-work]] per task notes' "rerouting through" option for the phenomenology-to-mechanism inference flag; preserved the prior passes' calibration architecture; line 51 and line 159 "not X but Y" instances remain as natural-idiom parallel constructions per prior audit reasoning (the CLAUDE.md ban targets the two-sentence "This is not X. It is Y." cliché, not legible parallel construction). Engagement classification: editor-internal housekeeping, no new opponent engagements.
+- **Published**: yes
 
 ## 2026-05-18T16:05:00+00:00 - refine-draft
 - **Status**: Success

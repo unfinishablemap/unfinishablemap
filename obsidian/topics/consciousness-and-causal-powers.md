@@ -4,7 +4,7 @@ description: "What causal influence does consciousness exercise, and within what
 created: 2026-02-11
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-18T16:05:00+00:00
+ai_modified: 2026-05-18T17:30:00+00:00
 last_deep_review: 2026-05-15T04:31:00+00:00
 draft: false
 topics:
@@ -110,7 +110,7 @@ Consciousness can hold certain neural patterns active through sustained attentio
 
 The Zeno proposal faces a serious quantitative gap that the Map should name explicitly. Standard decoherence calculations for neural-relevant quantum superpositions in warm, wet brain tissue give coherence times on the order of $10^{-13}$ to $10^{-20}$ seconds; the phenomenology of attention runs at alpha and beta band rates of roughly 10–30 Hz. For the Zeno mechanism to hold a neural superposition coherent through sustained attention, observations would need to occur at $\geq 10^{13}$ Hz — twelve to sixteen orders of magnitude faster than the rate at which the attentional phenomenology itself unfolds. Closing the gap requires either protected microenvironments that extend coherence times by many orders of magnitude (the Penrose-Hameroff conjecture about microtubule quantum coherence, itself contested in the post-2002 literature), or an alternative quantum mechanism that does not require sustained neural-timescale coherence. The Zeno-effect mechanism is offered as a worked example of how quantum-level influence could scale to neural effects; the empirical case for the underlying coherence-time requirement is contested and remains a critical vulnerability the framework has not resolved.
 
-Whether through the Zeno effect or some other mechanism, the causal power posited here is persistence: under the Map's framing, consciousness would make certain neural configurations more stable than they would otherwise be, enabling planning, reasoning, and deliberation that require holding information across time. The phenomenology of sustained attention—the felt effort of keeping focus on a difficult problem—is consistent with this picture, though it is also consistent with rival accounts in which the felt effort is fully captured by mesoscopic neural-network reverberation, attentional gain modulation in V4 and parietal cortex, and noradrenergic locus coeruleus modulation of cortical signal-to-noise. The phenomenology is suggestive, not decisive.
+Whether through the Zeno effect or some other mechanism, the causal power posited here is persistence: under the Map's framing, consciousness would make certain neural configurations more stable than they would otherwise be, enabling planning, reasoning, and deliberation that require holding information across time. The phenomenology of sustained attention—the felt effort of keeping focus on a difficult problem—is consistent with this picture, though it is also consistent with rival accounts in which the felt effort is fully captured by mesoscopic neural-network reverberation, attentional gain modulation in V4 and parietal cortex, and noradrenergic locus coeruleus modulation of cortical signal-to-noise. The phenomenology is suggestive, not decisive; for the broader case that the phenomenology of effort, holding, and selection constitutes evidence the Map's framing can claim over its rivals, see [[phenomenology-of-consciousness-doing-work]].
 
 ### Phenomenal Biasing
 
@@ -299,6 +299,36 @@ What this pass did not touch:
 - Line 159 "not merely representational but causally connected": parallel construction in natural philosophical idiom, preserved.
 
 ai_modified bumped to 2026-05-18T16:05:00+00:00 to reflect this follow-up pass.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-18 (sibling P2 audit pass)
+Sibling P2 pass driven by pessimistic-2026-05-18's smaller-grain findings. The three P1 critical issues and most of the smaller findings landed in the 13:42 and 16:05 passes; this audit pass confirms remaining task-note items against the present article state and applies one residual fix.
+
+Audit against task notes:
+- (a) Decoherence-time gap (§"Sustained Attention"): present at lines 111–113 from the 13:42 pass. Confirmed.
+- (b) MWI parenthetical: present at line 61 from the 13:42 pass; uses [[tenets#^no-many-worlds|Tenet 4]] (the standalone [[no-many-worlds]] page does not exist in the catalogue). Confirmed.
+- (c) Unsupported claims:
+    - Seven-amplification-mechanisms link (line 63): verified pointing to existing `topics/amplification-mechanisms-consciousness-physics.md` (description confirms "seven proposed mechanisms"). Confirmed.
+    - "cognitive load experiments suggest" (line 183): expanded in 13:42 pass to acknowledge contested dual-process literature. Confirmed.
+    - Phenomenology-to-mechanism inference (line 113): rival-account acknowledgement landed in 13:42 pass; this audit adds the missing cross-reference to [[phenomenology-of-consciousness-doing-work]] per task notes' "rerouting through" option. Sole prose change of this audit pass.
+    - Intensity-of-effort claim (line 129): softened in 13:42 pass to hypothesised-rather-than-measured. Confirmed.
+    - Luck-objection (line 155): rewritten in 13:42 pass to acknowledge the objection cuts against constrained powers and to honestly note the deeper form is not closed. Confirmed.
+- (d) Language fixes:
+    - "not X but Y" at line 51, line 63, line 77: all addressed across 13:42 and 16:05 passes. Confirmed.
+    - "the correct theory must explain how phenomenal properties acquire precisely the causal profile" (line 163): softened. Confirmed.
+    - "possesses a specific and limited causal power" (line 51): changed to "exercises". Confirmed.
+    - "This explains why you can decide to raise your arm" (line 77): changed to "accounts for". Confirmed.
+    - "and not merely by assertion" (line 83): cut. Confirmed.
+    - Full-article audit for additional "not X but Y": remaining instances at line 51 ("not simply whether X but what Y") and line 159 ("not merely representational but causally connected") are legible parallel-construction English idiom rather than the CLAUDE.md-banned "This is not X. It is Y." two-sentence construct. Preserved per prior pass's audit reasoning.
+
+Single prose change in this audit pass:
+- Line 113: added cross-reference to [[phenomenology-of-consciousness-doing-work]] for the broader phenomenology-of-effort-as-evidence case, per task notes' "rerouting through [[phenomenology-of-consciousness-doing-work]]" option for the line-109 phenomenology-to-mechanism inference flag.
+
+Engagement classification: this is editor-internal housekeeping; no new opponent engagements introduced.
+
+ai_modified bumped to 2026-05-18T17:30:00+00:00.
 
 This log should be removed after human review.
 -->
