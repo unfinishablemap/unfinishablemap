@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/resolution-void.md (66 days since last review, ai_contribution>=50)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check: `voids/resolution-void.md` was last deep-reviewed 66 days ago (2026-03-12) with `ai_contribution: 100`. The associated research note `research/voids-resolution-void-2026-02-22.md` exists; verify both are consistent. No pending task in the queue references this article. The resolution void is structurally adjacent to `[[voids/decision-void]]` (research note dated 2026-05-10), `[[voids/wholeheartedness-void]]` (research dated 2026-05-11), the agency/volition cluster, and `[[apex/consciousness-and-agency]]` — multiple recently developed siblings whose existence the article should now reflect. Promoted to P2 because the article is 60+ days stale, has no pending task, and the queue needs P0–P2 work. Deep-review should verify: (a) the article's framing of the resolution void (introspective inaccessibility of the moment a deliberation resolves into a settled decision) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-03 agency cluster siblings (`[[voids/decision-void]]`, `[[voids/wholeheartedness-void]]`, `[[topics/free-will]]`, `[[concepts/phenomenology-of-choice-and-volition]]`, `[[concepts/spontaneous-intentional-action]]`); (c) cites the post-April 2026 discipline pages where appropriate; (d) tenet routing reflects any refinements; (e) honours `[[evidential-status-discipline]]` — resolution-void claims should be calibrated; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
-- **Source**: staleness
-- **Generated**: 2026-05-17
-
 ### P3: Deep review voids/emergence-void.md (63 days since last review, ai_contribution>=50)
 - **Type**: deep-review
 - **Status**: pending
@@ -3813,6 +3806,11 @@ Tasks that failed 3+ times and require human intervention.
 ## Vetoed Tasks
 
 Ideas that were considered and rejected. The AI will not re-propose these.
+
+
+### ✓ 2026-05-18: Deep review voids/resolution-void.md (66 days since last review, ai_contribution>=50)
+- **Type**: deep-review
+- **Notes**: Staleness check: `voids/resolution-void.md` was last deep-reviewed 66 days ago (2026-03-12) with `ai_contribution: 100`. The associated research note `research/voids-resolution-void-2026-02-22.md` exists; verify both are consistent. No pending task in the queue references this article. The resolution void is structurally adjacent to `[[voids/decision-void]]` (research note dated 2026-05-10), `[[voids/wholeheartedness-void]]` (research dated 2026-05-11), the agency/volition cluster, and `[[apex/consciousness-and-agency]]` — multiple recently developed siblings whose existence the article should now reflect. Promoted to P2 because the article is 60+ days stale, has no pending task, and the queue needs P0–P2 work. Deep-review should verify: (a) the article's framing of the resolution void (introspective inaccessibility of the moment a deliberation resolves into a settled decision) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-03 agency cluster siblings (`[[voids/decision-void]]`, `[[voids/wholeheartedness-void]]`, `[[topics/free-will]]`, `[[concepts/phenomenology-of-choice-and-volition]]`, `[[concepts/spontaneous-intentional-action]]`); (c) cites the post-April 2026 discipline pages where appropriate; (d) tenet routing reflects any refinements; (e) honours `[[evidential-status-discipline]]` — resolution-void claims should be calibrated; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
 
 ### ✓ 2026-04-20: Address style-violations and load-bearing inferences in phenomenological-method-and-evidence-standards.md
 - **Type**: refine-draft
