@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-05-17 12:04:14+00:00
+ai_modified: 2026-05-18 08:37:14+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -86,11 +86,11 @@ In every established quantum biological case, selection has not merely tolerated
 
 If quantum effects occur in neural systems — and the [converging evidence](/topics/quantum-biology-and-neural-consciousness/) is suggestive but not yet conclusive — the same optimisation logic *would* apply *if* neural systems are shown to face problems classical mechanisms cannot solve. The article has not delivered that demonstration. What follows are not predictions the quantum-neural-evolution thesis earns but *compatible observations* the thesis can absorb. Each has a classical explanation or is empirically undischarged; none currently licenses a falsification test:
 
-**Protected microenvironments.** Just as cryptochrome proteins shield radical pairs from decoherence, quantum-functional neural structures would provide environments where coherence persists longer than in unprotected tissue. The hydrophobic interior of microtubules and the densely packed fascicle structure of the axon initial segment (proposed by QBIT theory) are consistent with this prediction. A demonstration that microtubule interiors are no less decoherence-prone than bulk cytosol would weigh against it; absent that test, the cytoskeletal organisation can equally be read as classical structural function.
+**Protected microenvironments.** Just as cryptochrome proteins shield radical pairs from decoherence, quantum-functional neural structures would provide environments where coherence persists longer than in unprotected tissue. The hydrophobic interior of microtubules and the densely packed fascicle structure of the axon initial segment (proposed by QBIT theory) are consistent with this expectation. A demonstration that microtubule interiors are no less decoherence-prone than bulk cytosol would weigh against it; absent that test, the cytoskeletal organisation can equally be read as classical structural function.
 
-**Conserved quantum-relevant proteins.** If quantum effects are functionally important, the proteins mediating them should be highly conserved across species. Tubulin — the protein composing microtubules — is among the most conserved proteins in eukaryotic biology. Tubulin conservation has well-supported classical explanations (cytoskeletal function), and the conservation pattern is fully accommodated by structural-cytoskeletal constraints; the prediction is unfalsifiable from this datum alone unless a residual signal beyond classical constraint can be isolated.
+**Conserved quantum-relevant proteins.** If quantum effects are functionally important, the proteins mediating them should be highly conserved across species. Tubulin — the protein composing microtubules — is among the most conserved proteins in eukaryotic biology. Tubulin conservation has well-supported classical explanations (cytoskeletal function), and the conservation pattern is fully accommodated by structural-cytoskeletal constraints; the observation is non-discriminating from this datum alone unless a residual signal beyond classical constraint can be isolated.
 
-**Scaling with cognitive complexity.** If quantum neural effects contribute to cognitive capacity, species with greater cognitive demands might show more elaborate quantum-relevant neural architecture. Current evidence cannot confirm or refute this, and the article has not specified what quantitative scaling would count as success or what flat or inverse scaling would count as failure. The compatible-observation framing is honest; the predictive-success framing would not be.
+**Scaling with cognitive complexity.** If quantum neural effects contribute to cognitive capacity, species with greater cognitive demands might show more elaborate quantum-relevant neural architecture. Current evidence cannot confirm or refute this, and the article has not specified what quantitative scaling would count as success or what flat or inverse scaling would count as failure. The compatible-observation framing is honest; a predictive-success framing would not be.
 
 ## Objections to the Evolutionary Argument
 
@@ -159,6 +159,20 @@ The evolutionary argument connects to the Map's [tenets](/tenets/) at several po
 6. Qaswal, A. B. (2022). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels. *Quantum Reports*, 4(1), 10.
 7. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 8. Southgate, A. & Oquatre-six, C. (2026-01-27). Quantum Biology and Neural Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-biology-and-neural-consciousness/
+
+<!-- AI REFINEMENT LOG - 2026-05-18
+Verification pass on the prior 2026-05-17 refine that addressed pessimistic-2026-05-17b.md (this todo task was re-dispatched after the original pass). Confirmed all six issues remain fixed: no "probable rather than merely possible" / "weakened considerably" / "would dwarf" / "evolution discovered/engineered" / "evolution actively optimises" / "thermodynamically prohibitive" / "Fitness-Beats-Truth" phrases in article body. Tegmark 2000 figure correctly attributed to "microtubule superpositions of conformational states" not "brain processes" generically. Hagan 2002 framed as contested unreplicated counter-calculation rather than partial defeater. No editor-vocabulary (Mode One/Two/Three/Four, direct-refutation-feasible, bedrock-perimeter, Engagement classification) leaks into article body. Altered-state symmetry gate does not fire (no items from either cluster in body).
+
+Minor tightening this pass:
+- §"The Optimisation Argument": Lines 86, 88, 90 still used "prediction" terminology inconsistently with the section's reframed "compatible observations" framing introduced in the prior pass (line 84 explicitly states "What follows are not predictions the quantum-neural-evolution thesis earns but compatible observations the thesis can absorb"). Replaced residual "consistent with this prediction" → "consistent with this expectation"; "the prediction is unfalsifiable" → "the observation is non-discriminating"; "predictive-success framing" → "a predictive-success framing" (article-internal contrast preserved). The bullet items now match the section's framing throughout.
+
+Engagement classifications carried forward unchanged from 2026-05-17 (editor-internal):
+- Tegmark §"Decoherence Barrier": Mode Three on broader epistemic situation; Hagan empirical engagement at contested-calculations level.
+- Classical-sufficiency §: Mixed (Mode Three for holism conditional; empirical-underdetermination for efficiency argument).
+- Binding-problem holism: Mode Three (IIT and Dennett-style functionalism named as competing accounts).
+
+This log should be removed after human review.
+-->
 
 <!-- AI REFINEMENT LOG - 2026-05-17
 Changes made (addressing pessimistic-2026-05-17b.md):

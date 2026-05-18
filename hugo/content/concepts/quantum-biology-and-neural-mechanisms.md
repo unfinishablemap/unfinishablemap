@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-05-11 01:02:00+00:00
+ai_modified: 2026-05-18 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,17 +33,18 @@ concepts:
 - '[[haecceity]]'
 - '[[witness-consciousness]]'
 created: 2026-01-16
-date: &id001 2026-03-26
+date: &id001 2026-05-18
 description: Established quantum effects in living systems—photosynthesis, magnetoreception,
   enzyme catalysis—and five proposed neural quantum mechanisms with coherence protection
   strategies and experimental evidence.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-11 01:02:00+00:00
+last_deep_review: 2026-05-18 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[apex/post-decoherence-selection-programme]]'
 - '[[quantum-biology-consciousness-2026-01-16]]'
 - '[[quantum-biology-neural-mechanisms-2026-01-24]]'
 - '[[quantum-superposition-brain-consciousness-2026-01-18]]'
@@ -73,11 +74,11 @@ Migratory birds navigate using Earth's magnetic field through radical pair quant
 
 Luo et al. (2025) showed how protein reorganisation drives radical pair stability in cryptochrome-4a. Denton et al. (2024) demonstrated in *Nature Communications* that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism Stapp proposes for mental causation, providing the first biological precedent at neural-relevant timescales.
 
-Natural selection produced a quantum compass in bird eyes—the strongest evidence that evolution can optimise biological systems for quantum-coherent function. The [evolutionary case](/topics/evolutionary-case-for-quantum-neural-effects/) extends this logic to neural systems.
+Selection has propagated cryptochrome variants that exploit radical-pair quantum coherence for magnetic compass function—the strongest evidence that biological systems can retain quantum-coherent dynamics under selective pressure. The [evolutionary case](/topics/evolutionary-case-for-quantum-neural-effects/) examines whether the same logic licenses an inference to neural systems; the extension is a realistic possibility, not a demonstrated probability.
 
 ### Enzyme Quantum Tunneling
 
-Many enzyme-catalysed reactions proceed faster than classical transition-state theory predicts through quantum tunneling: particles tunnel *through* energy barriers rather than going over them. Large kinetic isotope effects, anomalous temperature dependencies, and QM/MM simulations confirm the mechanism. Evolution exploited quantum tunneling to accelerate reactions by factors of 10¹² to 10¹⁷.
+Many enzyme-catalysed reactions proceed faster than classical transition-state theory predicts through quantum tunneling: particles tunnel *through* energy barriers rather than going over them. Large kinetic isotope effects, anomalous temperature dependencies, and QM/MM simulations confirm the mechanism. Selection has propagated active-site geometries that exploit tunneling to accelerate reactions by factors of 10¹² to 10¹⁷.
 
 ### Olfaction (Controversial)
 
@@ -85,17 +86,17 @@ Turin proposed that smell detection involves inelastic electron tunneling spectr
 
 ## The Decoherence Challenge
 
-[Tegmark (2000)](/concepts/decoherence/) estimated brain microtubule coherence would decay in ~10⁻¹³ seconds—ten billion times shorter than millisecond neural processes. Hagan et al. (2002) challenged this: Tegmark assumed thermal equilibrium (dead tissue), oversized superposition separations, and charge-charge rather than dipole interactions. Corrected coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—eight to nine orders of magnitude longer.
+[Tegmark (2000)](/concepts/decoherence/) estimated microtubule conformational superpositions—the structures Penrose-Hameroff orchestrated-objective-reduction requires—would decay in ~10⁻¹³ seconds; ten billion times shorter than millisecond neural processes. Tegmark's calculation was specifically aimed at this proposal class and does not directly address discrete-event mechanisms (ion-channel tunnelling, SNARE tunnelling, Posner-molecule nuclear spins). Hagan, Hameroff & Tuszynski (2002) presented a counter-calculation: they argued Tegmark assumed thermal equilibrium (dead tissue), oversized superposition separations, and charge-charge rather than dipole interactions, yielding estimates around 10⁻⁵ to 10⁻⁴ seconds (~10-100 microseconds). Hagan et al. are Hameroff collaborators with vested interest in defending Orch OR; their counter-calculation has not been independently replicated in the 24 years since publication, and the underlying assumptions remain contested by decoherence theorists. The dispute is unresolved, not a settled correction.
 
-| Source | Coherence Time | Key Assumption |
-|--------|---------------|----------------|
-| Tegmark (2000) | 10⁻¹³ s | Thermal equilibrium, large separation |
-| Hagan et al. (2002) | 10⁻⁵ to 10⁻⁴ s | Corrected model, smaller separation |
-| Fisher (2015) | ~10⁵ s | Nuclear spin mechanism (different scale) |
+| Source | Coherence Time | Status |
+|--------|---------------|--------|
+| Tegmark (2000) | 10⁻¹³ s | Aimed at Orch-OR-style microtubule conformational superpositions; thermal-equilibrium assumption disputed |
+| Hagan et al. (2002) | 10⁻⁵ to 10⁻⁴ s | Counter-calculation by Hameroff collaborators; not independently replicated |
+| Fisher (2015) | ~10⁵ s | Nuclear spin mechanism (different scale and substrate; estimates remain disputed) |
 
 ### The Remaining Timescale Gap
 
-Even microsecond coherence remains three orders of magnitude below millisecond neural firing. Two responses: [Stapp's](/concepts/stapp-quantum-mind/) quantum Zeno mechanism uses rapid repeated mental "observations" to refresh superpositions faster than decoherence destroys them (Denton et al. 2024 demonstrated biological Zeno effects in cryptochrome). Alternatively, if consciousness selects among quantum alternatives many times per second, microsecond coherence windows suffice—see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
+Even microsecond coherence remains three orders of magnitude below millisecond neural firing—a gap that matters for sustained-coherence proposals (Orch OR, Fröhlich-microtubule lines) but not for discrete-event mechanisms or [post-decoherence-selection](/apex/post-decoherence-selection-programme/) proposals, which locate the consciousness-relevant event in a different temporal regime. Two responses within the sustained-coherence frame: [Stapp's](/concepts/stapp-quantum-mind/) quantum Zeno mechanism uses rapid repeated mental "observations" to refresh superpositions faster than decoherence destroys them (Denton et al. 2024 demonstrated biological Zeno effects in cryptochrome). Alternatively, if consciousness selects among quantum alternatives many times per second, microsecond coherence windows suffice—see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
 
 More fundamentally, decoherence doesn't solve the [measurement-problem](/concepts/measurement-problem/): it explains why superpositions appear classical but not why measurements yield definite outcomes.
 
@@ -145,7 +146,7 @@ Baum (2024) formalised this: zero-lag gamma synchrony (40-100 Hz, <1ms precision
 
 ## Experimental Convergence
 
-None of this proves quantum consciousness, but it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia (confirmed, Cohen's d = 1.9), measurable entanglement signatures during awareness (Kerskens & Pérez 2022, disputed by Warren 2023), viable coherence times—and those predictions held up. NV-centre diamond quantum sensors now combine nanoscale spatial with microsecond temporal resolution, enabling single-neuron signal detection that may resolve these disputes empirically. Wiest (2025) argues consciousness arising from quantum entanglement gains genuine causal power—not [epiphenomenal](/concepts/epiphenomenalism/) but physically efficacious. The [convergence analysis](/topics/quantum-biology-and-neural-consciousness/) examines how these independent lines collectively strengthen the case.
+None of this proves quantum consciousness, and the discipline of "predictions held up" deserves care: microtubule involvement in anaesthesia is consistent with quantum models (Khan et al. 2024, Cohen's d = 1.9) but also accommodates classical microtubule-disruption accounts; measurable entanglement signatures during awareness were claimed (Kerskens & Pérez 2022) but disputed (Warren 2023) and not independently replicated. NV-centre diamond quantum sensors now combine nanoscale spatial with microsecond temporal resolution, enabling single-neuron signal detection that may resolve these disputes empirically. Wiest (2025) argues consciousness arising from quantum entanglement would gain genuine causal power—not [epiphenomenal](/concepts/epiphenomenalism/) but physically efficacious. The [convergence analysis](/topics/quantum-biology-and-neural-consciousness/) examines how these independent lines may collectively shift the burden, while remaining honest that each line accommodates classical explanations.
 
 ## The Illusionist Challenge
 
@@ -191,7 +192,7 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Side-by-side comparison of Orch OR, QBIT, Stapp, Fisher, and others
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — The experimental case for consciousness selecting among quantum outcomes
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — The five mathematical constraints any consciousness-physics coupling must satisfy
-- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic establishes quantum neural effects as a realistic possibility under selective pressure
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Mechanism-specific evidence evaluation and crucial experiments
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Henry Stapp's quantum Zeno approach to mental causation

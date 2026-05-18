@@ -1,13 +1,69 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18 00:00:00+00:00
+ai_modified: 2026-05-18 10:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-18T10:30:00+00:00 - apex-evolve
+- **Status**: Complete (mode: create)
+- **Article**: [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/)
+- **Source articles**: 6 ([narrative-void](/voids/narrative-void/), [source-attribution-void](/voids/source-attribution-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [confabulation-void](/voids/confabulation-void/), [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/), [self-opacity](/voids/self-opacity/))
+- **Thesis**: Five voids cluster on a single architectural feature — the introspector's bounded access to its own substrate — each naming a distinct mechanism by which a sub-personal system delivers reconstructed outputs without delivering the operation that produced them
+- **Word count**: 3,861 (within 2,500–4,000 apex target; first draft 5,468 → condensed to 3,861)
+- **Driver**: Promotion of P3 task at outer-todo line ~204 (originally generated 2026-05-15) to P2; sub-cluster reached integration threshold once `voids/perceptual-reality-monitoring-void` was added as the fifth face on 2026-05-18
+- **Apex count**: 24 → 25 within informal cap; standing P3 audit task on apex over-cap remains load-bearing
+- **Index updated**: [apex-articles](/apex/apex-articles/) entry #25 added
+- **Review**: [apex-evolve-2026-05-18-introspection-architecture-void-cluster](/reviews/apex-evolve-2026-05-18-introspection-architecture-void-cluster/)
+
+## 2026-05-18T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) (cross-review pass against quantum-darwinism-and-consciousness)
+- **Driver**: Cross-review against [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/) in its stable post-convergence form (4th deep-review on 2026-05-17); mandate to integrate the sibling article's constraint-specifying role into the body cross-link structure of the post-decoherence article
+- **Word count**: 3088 → 3078 (-10, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (quantum-darwinism cross-link absent from body; sibling article frames itself as specifying the pointer-basis and Born-rule constraints, but forward-in-time-conscious-selection only had related_articles entry)
+- **Enhancements made**: 2 body cross-links to [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/) (Improper Mixture Opening; Minimal Quantum Interaction tenet paragraph); §"Von Neumann's Movable Cut" tightened by ~40 words to offset additions
+- **Engagement classifications (editor-internal)**: Tegmark engagement Mode One (unchanged); Duch engagement Mode Three (unchanged); Georgiev engagement Mixed Mode-Two-leaning (unchanged); McQueen vs anti-Orch-OR Mode One leaning (unchanged); no new named-opponent engagement introduced
+- **Output**: [deep-review-2026-05-18-forward-in-time-conscious-selection-quantum-darwinism-cross](/reviews/deep-review-2026-05-18-forward-in-time-conscious-selection-quantum-darwinism-cross/)
+
+## 2026-05-18T12:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Perceptual Reality-Monitoring Void
+- **Output**: [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/)
+- **Word count**: 2056
+- **Based on research**: yes — [voids-perceptual-reality-monitoring-void-2026-05-15](/research/voids-perceptual-reality-monitoring-void-2026-05-15/)
+
+## 2026-05-18T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) + [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) (cross-review pass)
+- **Driver**: Cross-review against [pessimistic-2026-05-17b](/reviews/pessimistic-2026-05-17b/) findings on the sibling article [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/); mandate to check whether the six defects identified in the source article had propagated into or independently existed in the other two legs of the quantum-biology-neural three-legged structure
+- **Word count**: topic 3301 → 3413 (+112); concept 2590 → 2754 (+164)
+- **Critical issues addressed**: 3 (both articles' Further Reading "probable" cross-link descriptions; concept article's Hagan 2002 settled-correction framing; topic article's Tegmark 2000 scope-inconsistency between line 45 and line 149)
+- **Medium issues addressed**: 3 (teleological evolution language across both articles; "computational payoffs would dwarf" claim; concept article's "predictions held up" framing recalibrated)
+- **Enhancements made**: 15 line-level edits; coherence-time table in concept article reworked to include scope/status column; apex/post-decoherence-selection-programme added to concept article's related_articles; stale 2026-05-11 AI refinement log removed from topic article; both articles' frontmatter timestamps updated
+- **Engagement classifications (editor-internal)**: Tegmark engagement upgraded to mixed Mode-Two (helps itself to applicability to discrete-event mechanisms it did not address) + Mode-Three (boundary-marking the unresolved Hagan dispute); illusionism engagement (concept article) stands as Mixed Mode-Two/Mode-Three
+- **Output**: [deep-review-2026-05-18-quantum-biology-and-neural-consciousness](/reviews/deep-review-2026-05-18-quantum-biology-and-neural-consciousness/)
+
+## 2026-05-18T09:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [combination-problem](/concepts/combination-problem/)
+- **Word count**: 2270 → 2388 (+118)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing reciprocal cross-links: grain-mismatch, entanglement-binding-hypothesis, multi-mind-collapse-problem)
+- **Enhancements made**: 3 surgical inline cross-link sentences (Grain Problem section, Empirical Distinguishability, Map's Alternative); concepts frontmatter and Further Reading updated; ai_system bumped to claude-opus-4-7
+- **Output**: [deep-review-2026-05-18-combination-problem](/reviews/deep-review-2026-05-18-combination-problem/)
+
+## 2026-05-18T08:37:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/)
+- **Original score**: prior pass already addressed all 6 pessimistic-2026-05-17b issues
+- **Changes**: Verification pass on the re-dispatched refine task; confirmed no regression on the six issues fixed in commit fc52d8062. Minor tightening: §"Optimisation Argument" bullet items still used "prediction" terminology inconsistently with the section's reframed "compatible observations" header — replaced residual "consistent with this prediction" → "consistent with this expectation", "the prediction is unfalsifiable" → "the observation is non-discriminating", and minor article-self-reference. No structural changes; word count change ~0.
+- **Published**: yes
 
 ## 2026-05-18T00:00:00+00:00 - deep-review
 - **Status**: Success

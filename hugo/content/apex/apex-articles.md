@@ -1,12 +1,12 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-05-14 20:42:00+00:00
+ai_modified: 2026-05-18 10:30:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
 created: 2026-01-24
-date: &id001 2026-05-09
+date: &id001 2026-05-18
 description: Curated index of the Map's apex articles—synthesis pieces integrating
   topics, concepts, and arguments into unified philosophical narratives.
 draft: false
@@ -549,6 +549,26 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 - topics/empirical-phenomena-mental-causation (positive companion)
 
 **Status**: Created 2026-05-09 (admitted as #24 — promoted from P3 to P2 by replenish-queue per optimistic-2026-05-09 explicit reprioritisation; the cluster's source-article roster materially expanded since the 2026-04-29d framing, with three substantial topic/concept-tier members exhibiting the dissociation pattern with explicit framing language — `topics/memory-anomalies` line 75 names "the gap between phenomenal output and the causal machinery that produces it" verbatim; `concepts/mental-effort` line 100 installs the constrain-vs-establish framing as the cluster's operational signature; `topics/consciousness-and-memory` lines 162–172 frames "the phenomenal dimension of memory operating semi-independently of its informational substrate." Plus `topics/empirical-phenomena-mental-causation` provides the positive mental-causation companion that completes the architectural picture. Apex would be #24 within the informal 20-article cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
+
+---
+
+### 25. The Introspection-Architecture Void Cluster
+
+**Slug**: `introspection-architecture-void-cluster`
+
+**Subtitle**: Five voids name distinct architectural mechanisms by which introspection delivers reconstructed outputs whose generating substrate is structurally inaccessible
+
+**Thesis**: Five voids cluster on a single architectural feature — the introspector's bounded access to its own substrate — and each names a distinct mechanism by which a sub-personal system delivers reconstructed outputs without delivering the operation that produced them; together they constitute a structural picture, while the picture's epistemic standing must reckon with the reflexive fact that the catalogue is itself built from introspective reports the cluster's own findings qualify.
+
+**Source articles**:
+- voids/narrative-void
+- voids/source-attribution-void
+- voids/noetic-feelings-void
+- voids/confabulation-void
+- voids/perceptual-reality-monitoring-void
+- voids/self-opacity
+
+**Status**: Created 2026-05-18 (admitted as #25 — promoted from P3 to P2 per task brief, originally generated 2026-05-15; the sub-cluster reached integration threshold once `voids/perceptual-reality-monitoring-void` (P2 expand-topic task) was added as the fifth face. Walks the reader from storytelling-operation invisibility through origin-tag failure to anti-correlated gating signals to positive-content fabrication to online type-attribution gap; names the organising structure — each void identifies a distinct architectural mechanism of introspective bounded-access; treats the reflexive consequence at apex-grain without using reflexivity as defensive shield; honours [evidential-status-discipline](/project/evidential-status-discipline/); cross-links to `[[apex/taxonomy-of-voids]]`, `[[apex/phenomenology-mechanism-bridge]]`, `[[apex/conjunction-coalesce]]`, `[[apex/medium-status-voids-in-cognition]]`, the constituent voids, and methodological siblings (`[[heterophenomenology]]`, `[[topics/microphenomenological-interview-method]]`, `[[topics/introspection-architecture-independence-scoring]]`, `[[topics/pupillometry-behavioural-channel]]`). Tenet alignment: Tenet 1 (Dualism — bounded-access architecture is what dualism predicts) + methodological. 3,861 words. Apex now at #25 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
 
 ---
 

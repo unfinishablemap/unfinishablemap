@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-05-15 04:31:00+00:00
+ai_modified: 2026-05-18 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ concepts:
 - '[[conservation-laws-and-mental-causation]]'
 - '[[process-philosophy]]'
 created: 2026-03-18
-date: &id001 2026-05-10
+date: &id001 2026-05-18
 description: How consciousness might select among quantum possibilities without reaching
   backward through time. Three frameworks—Orch OR, Stapp's Zeno mechanism, and Chalmers-McQueen
   CSL—operate before decoherence; a fourth route operates after. The post-decoherence
@@ -32,7 +32,7 @@ description: How consciousness might select among quantum possibilities without 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-10 23:01:00+00:00
+last_deep_review: 2026-05-18 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ The Map's framework—a form of [interactionist-dualism](/concepts/interactionis
 
 ## The Improper Mixture Opening
 
-After decoherence, the system's reduced density matrix is diagonal in the pointer basis—it *looks* like a classical probability distribution. But it is an *improper* mixture, derived by tracing out the environment from a larger entangled state. A proper mixture represents genuine ignorance; an improper mixture carries no such implication. As d'Espagnat (1976) established, mathematical identity between the two does not license treating them as physically equivalent. Schlosshauer (2004) confirms the gap: "Decoherence does not tell how and why only one of these outcomes is measured."
+After decoherence, the system's reduced density matrix is diagonal in the pointer basis—it *looks* like a classical probability distribution. But it is an *improper* mixture, derived by tracing out the environment from a larger entangled state. A proper mixture represents genuine ignorance; an improper mixture carries no such implication. As d'Espagnat (1976) established, mathematical identity between the two does not license treating them as physically equivalent. Schlosshauer (2004) confirms the gap: "Decoherence does not tell how and why only one of these outcomes is measured." [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) sharpens what the pointer basis is and why environmental redundancy ensures intersubjective agreement, while leaving this outcome question open.
 
 If the post-decoherence state were a proper mixture, the outcome would already be settled. An improper mixture is not: it has lost interference terms but has not yet yielded a single definite outcome. The Map places consciousness as the converter; alternative frameworks (MWI, relational QM, modal interpretations) handle the same formal feature without invoking consciousness. [Post-decoherence selection](/concepts/post-decoherence-selection/) names the Map's commitment, not a consequence the formal feature forces on its own.
 
@@ -112,11 +112,11 @@ The three sub-frameworks share a minimal commitment—post-decoherence indetermi
 
 ### Von Neumann's Movable Cut
 
-Von Neumann (1932) demonstrated that the boundary between "measured system" and "measuring apparatus" can be placed anywhere in the causal chain without changing the theory's predictions. The collapse can occur at the particle detector, at the observer's retina, at the visual cortex, or at the point of conscious awareness. This *movable cut* means quantum mechanics itself is agnostic about where selection happens.
+Von Neumann (1932) demonstrated that the boundary between "measured system" and "measuring apparatus" can be placed anywhere in the causal chain without changing the theory's predictions—at the detector, the retina, the visual cortex, or the point of conscious awareness. This *movable cut* means quantum mechanics is agnostic about where selection happens.
 
-For post-decoherence selection, this is significant: even after environmental decoherence has suppressed interference at the microscopic level, the von Neumann chain extends through the observer's nervous system to the point of experience. The formalism permits placing the selection event anywhere in the chain, including at consciousness, treating the entire physical chain—including decoherence—as part of the "measured system" whose outcome consciousness determines.
+For post-decoherence selection, this is significant: even after decoherence has suppressed microscopic interference, the von Neumann chain extends through the nervous system to the point of experience. The formalism permits placing the selection event at consciousness, treating the entire physical chain as the "measured system" whose outcome consciousness determines.
 
-The mechanism here is minimal. Consciousness does not need to maintain quantum coherence, inject energy, or interact with superpositions—the [energy conservation objection](/concepts/conservation-laws-and-mental-causation/) does not arise. It acts at the endpoint of a chain that physics has already prepared, selecting which element of the mixture becomes experientially actual. The physical dynamics do all the preparatory work; consciousness contributes the final determination—which is the framework's substantive commitment, not a minor addendum.
+The mechanism is minimal. Consciousness does not maintain quantum coherence, inject energy, or interact with superpositions—the [energy conservation objection](/concepts/conservation-laws-and-mental-causation/) does not arise. It acts at the endpoint of a chain physics has prepared, selecting which element becomes experientially actual. The physical dynamics do the preparatory work; consciousness contributes the final determination—the framework's substantive commitment, not a minor addendum.
 
 ### Stapp's Process 1 Relocated
 
@@ -172,7 +172,7 @@ The Map's framework is compatible with both retrocausal and forward-in-time sele
 
 The [Dualism](/tenets/#dualism) tenet is served because post-decoherence selection requires something beyond the physical formalism: physics produces the improper mixture but not the definite outcome.
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet finds its strongest expression in the post-decoherence variant. Pre-decoherence models require consciousness to maintain coherence against environmental pressure; post-decoherence selection asks consciousness only to choose among alternatives physics has already prepared. The strict [selection-only reading](/topics/selection-only-mind-influence/) follows naturally and supplies information-theoretic signatures: a per-event ceiling of log₂(N) bits, a Born-rule-preserving rate that vanishes at the ensemble scale, and content-confinement to the brain-generated candidate set.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet finds its strongest expression in the post-decoherence variant. Pre-decoherence models require consciousness to maintain coherence against environmental pressure; post-decoherence selection asks consciousness only to choose among the pointer-basis alternatives [quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) has already prepared, within Born statistics. The strict [selection-only reading](/topics/selection-only-mind-influence/) supplies information-theoretic signatures: a per-event ceiling of log₂(N) bits, a Born-rule-preserving rate that vanishes at the ensemble scale, and content-confinement to the brain-generated candidate set.
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is directly enacted: the brain presents decohered alternatives (world-to-mind); consciousness selects among them (mind-to-world). The [trilemma of selection](/topics/trilemma-of-selection/) shows that, given dualism, directed resolution of genuine indeterminacy is the only framework preserving authorship—neither determinism nor randomness can deliver it. The asymmetry between third-person measurability of commitment-relevant signal and first-person opacity of the closing-itself—catalogued as the [decision-void](/voids/decision-void/)—is what an interface doing causal work at a primitive seam predicts: the cause cannot be observed from inside the system whose cause it is.
 

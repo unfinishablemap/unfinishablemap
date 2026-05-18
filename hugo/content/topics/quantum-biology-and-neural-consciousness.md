@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-11 09:06:00+00:00
+ai_modified: 2026-05-18 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -15,13 +15,13 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
 created: 2026-01-27
-date: &id001 2026-04-23
+date: &id001 2026-05-18
 description: Six converging evidence lines—from biological precedent through EEG entanglement
   to theoretical convergence—reshape what quantum biology means for consciousness.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 22:28:00+00:00
+last_deep_review: 2026-05-18 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ Quantum biology has shifted the burden of proof in consciousness debates. For de
 
 ## The Objection That Collapsed
 
-Max Tegmark's influential 2000 calculation estimated that [decoherence](/concepts/decoherence/)—the process by which quantum superpositions dissolve through environmental interaction—would destroy neural quantum states in femtoseconds (10⁻¹³ seconds). Neural processes operate on millisecond timescales, twelve orders of magnitude slower. The [timing gap](/concepts/timing-gap-problem/) appeared unbridgeable.
+Max Tegmark's influential 2000 calculation estimated that [decoherence](/concepts/decoherence/)—the process by which quantum superpositions dissolve through environmental interaction—would destroy neural superpositions of the specific kind orchestrated-objective-reduction (Orch OR) requires (microtubule conformational states, ion superpositions in open neural membranes) in femtoseconds (10⁻¹³ seconds). Neural processes operate on millisecond timescales, twelve orders of magnitude slower. The [timing gap](/concepts/timing-gap-problem/) appeared unbridgeable for the proposals Tegmark targeted. As the "Decoherence Debate Today" section below clarifies, the calculation does not address discrete-event mechanisms (ion-channel tunnelling, synaptic SNARE tunnelling, Posner-molecule nuclear spins, Stapp-style quantum Zeno events), which face different empirical objections rather than this one.
 
 The assumption proved false. Nature had already solved the decoherence problem multiple times:
 
@@ -52,7 +52,7 @@ The assumption proved false. Nature had already solved the decoherence problem m
 
 **Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷. Kinetic isotope effects confirm the mechanism. **Photosynthetic energy transfer** exploits quantum coherence for near-perfect efficiency, though coherence times are shorter than initially claimed.
 
-The categorical objection has weakened. We know evolution optimises quantum effects for biological advantage, so warm biological environments are not categorically inhospitable to quantum function. What this does not establish is that neural systems specifically sustain coherence at the scales consciousness would require: cryptochrome radical pairs are an extremely specific molecular architecture, and the precedent supplies plausibility rather than licence for neural-microtubule coherence. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops the why-might-they-do-this question in detail—if natural selection discovered quantum solutions for navigation and chemistry, the computational payoffs in neural systems would dwarf those of a compass or a faster enzyme—but that is an evolutionary argument from possibility, not a demonstration of actuality. The mechanism question stays open.
+The categorical objection has weakened. Selection has propagated biochemical variants whose dynamics involve quantum effects in non-neural tissue, so warm biological environments are not categorically inhospitable to quantum function. What this does not establish is that neural systems specifically sustain coherence at the scales consciousness would require: cryptochrome radical pairs are an extremely specific molecular architecture, and the precedent supplies plausibility rather than licence for neural-microtubule coherence. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops the why-might-they-do-this question in detail—variants supplying neural quantum capacity could face selective pressure if neural problems demand quantum solutions classical mechanisms cannot deliver—but that is an evolutionary argument from realistic possibility, not a demonstration of actuality, and the bridging premise (that neural problems genuinely demand quantum solutions) is itself contested. The mechanism question stays open.
 
 ## Candidate Neural Mechanisms
 
@@ -70,7 +70,7 @@ These vary in evidential support—from well-established radical pair biology to
 
 The strongest current evidence linking quantum effects to consciousness comes from anaesthetic studies.
 
-**Anaesthetic targeting of microtubules.** Wiest's 2025 review in *Neuroscience of Consciousness* marshals evidence that inhalational anaesthetics functionally target intraneuronal microtubules, disrupting quantum activities in consciousness-relevant proteins while leaving other proteins unaffected (Wiest, 2025). This selectivity aligns with quantum consciousness predictions. Wiest further argues that quantum entanglement across microtubule networks provides a natural solution to the [binding problem](/concepts/binding-problem/)—how unified experience arises from distributed processing—and that the quantum substrate addresses epiphenomenalism by making consciousness causally embedded in neural computation rather than a passive by-product.
+**Anaesthetic targeting of microtubules.** Wiest's 2025 review marshals evidence that inhalational anaesthetics functionally target intraneuronal microtubules, disrupting quantum activities in consciousness-relevant proteins while leaving other proteins unaffected (Wiest, 2025). Wiest argues this aligns with quantum consciousness predictions, that quantum entanglement across microtubule networks could provide a substrate for the [binding problem](/concepts/binding-problem/), and that quantum-embedded consciousness addresses epiphenomenalism by making it causally efficacious rather than a passive by-product.
 
 **The epothilone B experiment.** Khan et al. (2024) found that rats given epothilone B—a microtubule-stabilising drug—took over a minute longer to lose consciousness under anaesthesia (Cohen's d = 1.9). If consciousness had nothing to do with microtubule quantum states, stabilising microtubules should not affect anaesthetic onset. Quantum models predicted this result in advance.
 
@@ -110,7 +110,7 @@ Each evidence line has limitations. The force of the case lies in convergence ac
 
 | Evidence Type | What It Shows | What It Does Not Show |
 |---------------|---------------|----------------------|
-| Biological precedent | Evolution exploits quantum effects in warm biology | That neurons specifically do so |
+| Biological precedent | Selection has propagated quantum-exploiting variants in warm biology (cryptochromes, enzymes, photosystems) | That neurons specifically do so |
 | Pharmacological | Quantum disruption correlates with consciousness loss | That quantum effects cause consciousness |
 | Direct measurement | Quantum phenomena exist in neural components | That they persist in vivo or are functional |
 | Cognitive correlation | Quantum stimulus conditions correlate with performance | That biological entanglement causes the effect |
@@ -133,9 +133,9 @@ Quantum biology matters to the substrate question, but it matters differently fo
 
 **Established:**
 - Quantum effects operate in warm, wet biology
-- Evolution optimises quantum phenomena for biological function
+- Selection has propagated specific molecular architectures (cryptochromes, certain enzymes, photosystems) whose dynamics exploit quantum effects
 - Multiple candidate mechanisms exist for neural quantum effects
-- Decoherence is not categorically prohibitive
+- Decoherence is not categorically prohibitive (though it remains a serious constraint, addressed differently by sustained-coherence and discrete-event mechanisms)
 - At least six independent evidence lines converge on neural quantum relevance
 
 **Uncertain:**
@@ -150,7 +150,7 @@ Quantum biology matters to the substrate question, but it matters differently fo
 
 Tegmark's femtosecond estimate targeted ion superpositions in open neural membranes—the least protected environment. Subsequent calculations yield very different results, and the literature has not converged:
 
-- Hagan et al. (2002): Disputed Tegmark's parameter choices for microtubule interiors and obtained corrected estimates around 10⁻⁵ to 10⁻⁴ seconds. This is one estimate in a contested calculation, not a refutation that the field has accepted.
+- Hagan et al. (2002): Disputed Tegmark's parameter choices for microtubule interiors and obtained corrected estimates around 10⁻⁵ to 10⁻⁴ seconds. This is one counter-calculation by Hameroff collaborators (interested parties in defending Orch OR) that has not been independently replicated in the 24 years since publication; the underlying assumptions remain contested by decoherence theorists. The dispute is unresolved, not a settled rebuttal of Tegmark.
 - Radical pair systems: Microsecond coherence demonstrated experimentally — but in cryptochrome, not in neural tissue, and the architecture is specific to that molecular context.
 - QBIT theory: Axon initial segment provides structural protection; spintronic coherence may evade the original calculation entirely.
 
@@ -191,7 +191,7 @@ Two structural responses follow. *First*, the convergent-conclusion-opposite-rea
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Designing experiments to test consciousness-collapse hypotheses
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — Mechanism-specific catalogue of what brain-internal experiments would foreclose the corridor reading of Tenet 2
 - [causal-closure](/concepts/causal-closure/) — Why causal closure is not absolute at quantum indeterminacies
-- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic establishes quantum neural effects as a realistic possibility under selective pressure
 - [tenets](/tenets/) — The Map's foundational commitments
 - [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The strongest competent classical-computational dissent against the article's central claim
 
@@ -219,15 +219,3 @@ Two structural responses follow. *First*, the convergent-conclusion-opposite-rea
 20. Xu, J., et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
 21. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 22. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
-
-<!-- AI REFINEMENT LOG - 2026-05-11
-Changes made (companion edit to obsidian/tenets/tenets.md Tenet 2 restructure):
-- "The Objection That Collapsed" section: softened "the objection has inverted / the burden shifts" to "the categorical objection has weakened" with an explicit acknowledgement that cryptochrome radical-pair coherence supplies plausibility rather than licence for neural-microtubule coherence. The evolutionary-case-for-quantum-neural-effects pointer is preserved but reframed as an argument from possibility rather than a demonstration of actuality.
-- "The Decoherence Debate Today" section: Hagan et al. (2002) is now explicitly framed as one estimate in a contested calculation rather than a settled rebuttal of Tegmark. Added the range "roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters." Added an explicit pointer to [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) noting that the timescale gap matters only for mechanism candidates requiring pre-decoherence coherence; post-decoherence-selection proposals do not depend on it.
-- "Why This Matters for Consciousness" section: added a forward-link to the apex post-decoherence-selection-programme as the Map's most developed account, and an explicit two-paths framing — pre-decoherence-coherence mechanisms find the evidence here load-bearing; post-decoherence-selection mechanisms find it a plausibility supplement.
-- Frontmatter: added apex/post-decoherence-selection-programme to related_articles; updated ai_modified.
-
-Driver: convergent outer reviews 2026-05-11 (Claude Opus 4.7 + ChatGPT 5.5 Pro). The defect identified on the tenets page (Hagan-Tegmark presented as settled; cryptochrome treated as licence for neural coherence; Post-Decoherence Selection Programme not surfaced) had a corresponding echo here. The remedy keeps this article's substantive convergence-of-evidence argument intact while propagating the precedent-vs-licence and pre-vs-post-decoherence distinctions.
-
-This log should be removed after human review.
--->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-17
-ai_modified: 2026-05-17 03:35:00+00:00
+ai_modified: 2026-05-18 10:36:23+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -121,7 +121,7 @@ The Process Philosopher's praise above (event-architectural framing, persistent 
 #### Cross-link installation: anaesthesia as worked exhibit of dissociation-by-mechanistic-route
 
 - **Builds on**: The xenon-ketamine + ketamine-midazolam + propofol-xenon dissociation triad in `anaesthesia-and-the-consciousness-interface.md`.
-- **Would address**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) should cite the anaesthesia article as the *pharmacological* worked exhibit alongside its current neurological exhibits. Reciprocal cross-link should be installed. [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) should be checked for whether its dissociation taxonomy needs to absorb the pharmacological-dissociation class. [altered-states-as-interface-evidence](/topics/altered-states-as-interface-evidence/) (apex, already cross-linked in Further Reading) should be checked for whether its convergence matrix specifies the pharmacological-dissociation row at the right granularity.
+- **Would address**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) should cite the anaesthesia article as the *pharmacological* worked exhibit alongside its current neurological exhibits. Reciprocal cross-link should be installed. [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) should be checked for whether its dissociation taxonomy needs to absorb the pharmacological-dissociation class. [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) (apex, already cross-linked in Further Reading) should be checked for whether its convergence matrix specifies the pharmacological-dissociation row at the right granularity.
 - **Estimated scope**: Short refine-draft (~200–400 words touched across 3–4 articles).
 - **Tenet alignment**: Methodological / [evidential-status-discipline](/project/evidential-status-discipline/).
 
