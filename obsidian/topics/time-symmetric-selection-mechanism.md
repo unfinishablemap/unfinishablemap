@@ -4,7 +4,7 @@ description: "Consciousness selects quantum outcomes atemporally via transaction
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-04-30T19:21:00+00:00
+ai_modified: 2026-05-18T12:21:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-03-30T01:44:00+00:00
+last_deep_review: 2026-05-18T12:21:34+00:00
 ---
 
 Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through [[atemporal-causation|atemporal constraint satisfaction]]. On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [[libet-experiments|Libet experiments]]: neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
@@ -118,7 +118,7 @@ The atemporal model fits the phenomenology of decision better than sequential ca
 Henry Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] proposes that mental attention acts as repeated observation, holding neural patterns stable through the Zeno effect. The Zeno mechanism is compatible with both selection pathways:
 
 - On the **time-symmetric** pathway (this article): Zeno describes *how* consciousness interfaces with quantum processes at each observation event, while time-symmetry explains *when* this operates—atemporally, determining which patterns become actual across time.
-- On the **[[consciousness-selecting-neural-patterns#Forward-in-Time vs. Retrocausal Selection|non-retrocausal]]** pathway: Zeno operates forward in time, with consciousness holding desired neural patterns through rapid observation at the moment of collapse. No backward causation is needed.
+- On the **[[forward-in-time-conscious-selection|non-retrocausal]]** pathway: Zeno operates forward in time, with consciousness holding desired neural patterns through rapid observation at the moment of collapse. No backward causation is needed (see also [[consciousness-selecting-neural-patterns#Forward-in-Time vs. Retrocausal Selection|the selection-mechanism discussion]]).
 
 The Zeno mechanism itself is temporally neutral—it describes an observation-based interface that works regardless of whether the selection is atemporal or forward-in-time. What differs between the pathways is the temporal structure of the selection, not the observation mechanism.
 
