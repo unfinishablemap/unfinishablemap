@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T12:35:30+00:00
+ai_modified: 2026-05-18T13:20:12+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T13:20:12+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/consciousness-and-causal-powers]] — 221 lines, ~2,936 words; first pessimistic-review pass on the Map's principal Tenet 3 / Tenet 2-scope exposition (article created 2026-02-11, last deep-reviewed 2026-05-15, never previously adversarially audited).
+- **Findings**: 3 critical issues (possibility/probability slippage in §"What Consciousness Does" heading + four sub-sections; constrain-vs-establish failure in pain-asymbolia argument lines 113–115; overdetermination "dissolution" at line 197 is Born-statistics-preservation-induced Pyrrhic move). 6 smaller findings (decoherence-time gap for Zeno mechanism unacknowledged; MWI dependence unmarked; banned "not X but Y" construct at line 51; substance-talk "possesses"; over-strong "the correct theory must explain"; self-congratulatory "and not merely by assertion"). 5 unsupported claims. Six critic personas all converge on possibility/probability slippage as the article's primary structural weakness — Churchland names it directly, Dennett targets the operationally-undetectable-bias problem, Tegmark the decoherence-time gap, Deutsch the MWI dependency, Popperian the asymmetry between operational prohibitions and unfalsifiable affirmations, Nāgārjuna the substance-reification.
+- **Output**: [[reviews/pessimistic-2026-05-18]]
+- **Follow-up**: 1 P2 refine-draft task added to todo.md.
 
 ## 2026-05-18T12:35:30+00:00 - refine-draft
 - **Status**: Success
