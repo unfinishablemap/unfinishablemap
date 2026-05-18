@@ -4,7 +4,6 @@ description: "If electrons have micro-experiences, how do billions combine into 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-23T20:16:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,14 +15,18 @@ concepts:
   - "[[unity-of-consciousness]]"
   - "[[binding-problem]]"
   - "[[minimal-consciousness]]"
+  - "[[grain-mismatch]]"
+  - "[[entanglement-binding-hypothesis]]"
+  - "[[multi-mind-collapse-problem]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-29T08:48:00+00:00
+last_deep_review: 2026-05-18T09:00:00+00:00
+ai_modified: 2026-05-18T09:00:00+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
@@ -70,7 +73,7 @@ Panpsychists face a dilemma:
 
 Physical structure is discrete (particles, neurons); consciousness seems continuous (a unified visual field). How does one give rise to the other?
 
-Nagel noted that the discreteness of physical composition seems categorically different from the smooth, unified character of experience. Even if we grant that electrons have experiences, those experiences would be scattered across space at electron-locations. How do they constitute a spatially continuous visual field?
+Nagel noted that the discreteness of physical composition seems categorically different from the smooth, unified character of experience. Even if we grant that electrons have experiences, those experiences would be scattered across space at electron-locations. How do they constitute a spatially continuous visual field? This is the same structural incompatibility the Map analyses under [[grain-mismatch|the grain mismatch]]—homogeneous phenomenal qualities cannot be identical to discrete physical structures because identity requires shared properties.
 
 ### The Structure Problem
 
@@ -128,7 +131,7 @@ The Map's [[interactionist-dualism|interactionist framework]] avoids the combina
 
 On this view, matter does not have micro-experiences. Consciousness is not ubiquitous but *distinct*—a separate ontological category that interacts with matter rather than constituting it. There's no need to explain how micro-experiences combine because there are no micro-experiences.
 
-Instead of combination, the Map posits *interaction*. Consciousness interfaces with the brain at [[quantum-consciousness|quantum indeterminacies]], biasing otherwise undetermined outcomes. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the locus; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms the causal relation.
+Instead of combination, the Map posits *interaction*. Consciousness interfaces with the brain at [[quantum-consciousness|quantum indeterminacies]], biasing otherwise undetermined outcomes. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the locus; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms the causal relation. Interface locality also resolves the coordination puzzles a quantum framework might inherit—each consciousness interfaces only with its own brain (see [[multi-mind-collapse-problem]]), so no cross-mind combination is required at any level.
 
 ### Comparing the Problems
 
@@ -147,7 +150,7 @@ The difference—if there is one—is in the *type* of problem each faces. The c
 
 Can we test which problem is more tractable? Several lines of evidence bear on the question:
 
-**Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & Pérez 2022) reports MRI signals suggesting entanglement that tracks waking consciousness. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine.
+**Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & Pérez 2022) reports MRI signals suggesting entanglement that tracks waking consciousness. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine. The Map's [[entanglement-binding-hypothesis|entanglement binding hypothesis]] explores quantum holism as the candidate physical structure that could underwrite phenomenal unity without invoking combination of micro-subjects.
 
 **Simple organism studies**: Research on [[minimal-consciousness|C. elegans and Hydra]] tests panpsychist predictions. If [[unity-of-consciousness|phenomenal unity]] requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—302-neuron nematodes show integrated information (positive Phi) yet fail behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
 
@@ -185,6 +188,9 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [[russellian-monism]] — A related framework also facing combination
 - [[unity-of-consciousness|phenomenal unity]] — Why experience is unified in the first place
 - [[binding-problem]] — The neural coordination challenge (related but distinct)
+- [[entanglement-binding-hypothesis]] — Quantum holism as a candidate physical structure for unity
+- [[grain-mismatch]] — The structural incompatibility behind the grain dimension of the problem
+- [[multi-mind-collapse-problem]] — Interface locality resolves coordination puzzles a quantum framework would inherit
 - [[minimal-consciousness]] — Empirical testing ground in simple organisms
 - [[interactionist-dualism]] — The alternative avoiding the problem
 - [[topics/free-will]] — Mental causation implications of the interaction alternative
