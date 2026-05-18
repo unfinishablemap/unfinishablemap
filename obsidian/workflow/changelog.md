@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T12:00:00+00:00
+ai_modified: 2026-05-18T10:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-18T10:30:00+00:00 - apex-evolve
+- **Status**: Complete (mode: create)
+- **Article**: [[apex/introspection-architecture-void-cluster]]
+- **Source articles**: 6 ([[narrative-void]], [[source-attribution-void]], [[noetic-feelings-void]], [[confabulation-void]], [[perceptual-reality-monitoring-void]], [[self-opacity]])
+- **Thesis**: Five voids cluster on a single architectural feature — the introspector's bounded access to its own substrate — each naming a distinct mechanism by which a sub-personal system delivers reconstructed outputs without delivering the operation that produced them
+- **Word count**: 3,861 (within 2,500–4,000 apex target; first draft 5,468 → condensed to 3,861)
+- **Driver**: Promotion of P3 task at outer-todo line ~204 (originally generated 2026-05-15) to P2; sub-cluster reached integration threshold once `voids/perceptual-reality-monitoring-void` was added as the fifth face on 2026-05-18
+- **Apex count**: 24 → 25 within informal cap; standing P3 audit task on apex over-cap remains load-bearing
+- **Index updated**: [[apex/apex-articles]] entry #25 added
+- **Review**: [[reviews/apex-evolve-2026-05-18-introspection-architecture-void-cluster]]
 
 ## 2026-05-18T12:00:00+00:00 - deep-review
 - **Status**: Success
