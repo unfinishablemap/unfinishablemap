@@ -308,7 +308,7 @@ Sibling P2 pass driven by pessimistic-2026-05-18's smaller-grain findings. The t
 
 Audit against task notes:
 - (a) Decoherence-time gap (§"Sustained Attention"): present at lines 111–113 from the 13:42 pass. Confirmed.
-- (b) MWI parenthetical: present at line 61 from the 13:42 pass; uses [[tenets#^no-many-worlds|Tenet 4]] (the standalone [[no-many-worlds]] page does not exist in the catalogue). Confirmed.
+- (b) MWI parenthetical: present at line 61 from the 13:42 pass; uses [[tenets#^no-many-worlds|Tenet 4]] (the standalone `no-many-worlds` page does not exist in the catalogue). Confirmed.
 - (c) Unsupported claims:
     - Seven-amplification-mechanisms link (line 63): verified pointing to existing `topics/amplification-mechanisms-consciousness-physics.md` (description confirms "seven proposed mechanisms"). Confirmed.
     - "cognitive load experiments suggest" (line 183): expanded in 13:42 pass to acknowledge contested dual-process literature. Confirmed.
