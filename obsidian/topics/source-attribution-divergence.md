@@ -4,7 +4,7 @@ description: "Human+AI exploration of source-attribution divergence—the within
 created: 2026-05-09
 modified: 2026-05-09
 human_modified:
-ai_modified: 2026-05-19T23:30:00+00:00
+ai_modified: 2026-05-19T23:45:00+00:00
 last_deep_review: 2026-05-09T17:09:00+00:00
 draft: false
 topics:
@@ -108,6 +108,8 @@ The Map holds: the case carries cumulative weight in the cluster regardless of w
 
 The cluster-level point is the same as at aphantasia and synaesthesia: source-attribution divergence alone may be locally absorbable—a sufficiently fine-grained functionalism could individuate functional source-tagging at the level the divergence requires. The joint package of aphantasia *and* synaesthesia *and* source-attribution divergence appears to put strain on the absorption strategy, because the absorption would have to deliver fine-grained individuation across three architecturally distinct dimensions of within-species variation while preserving task-level functional equivalence. Whether the strain is decisive or merely suggestive seems underdetermined by the data alone, and the cluster-level argument is honestly noted as such.
 
+One further structural honesty is owed at the cluster-level move. The article both *uses* the within-species cluster (citing aphantasia and synaesthesia alongside source-attribution divergence to discharge the local-absorption objection) and *contributes to* it (the source-attribution case is one of the cluster's three legs). The article is not an independent observer of the cluster; it is part of what the cluster counts. The local-absorption objection is therefore discharged at the cluster level only on the condition that the cluster's apparent convergence is genuine independent triangulation rather than one upstream architecture producing the within-species variation signature across all three legs—the common-cause null that the [[project/common-cause-null|common-cause-null discipline]] specifies and that the apex [[apex/phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation]] synthesis treats at length. The apex concedes that the cross-substrate convergence is currently consistent both with the architectural reading the cluster develops and with the common-cause null the apex cannot yet defeat. The honest evidential status of the cluster-level discharge here is therefore: the cluster-level move reaches the [[evidential-status-discipline|strongly-supported tier]] only conditional on the common-cause-null surviving the discrimination tests catalogued at the apex; absent that survival, the cluster-level move sits at *live hypothesis*. The relitigation belongs at the apex, not here; this article registers the conditional dependence and defers the discharge.
+
 ## Why Single-Species Variation Matters
 
 Most philosophical thought experiments about phenomenal divergence are imagined—inverted spectra, zombies, qualia varying across functional duplicates. Source-attribution divergence is empirically anchored. The minds whose source-attribution accuracy diverges share the same neural architecture, the same evolutionary history, the same language community, and approximate task performance at standard behavioural grain. They differ in inner architecture, and the difference must be taken seriously without the easements of inter-species or inter-system comparison.
@@ -138,6 +140,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [[hard-problem-of-consciousness]] — The broader frame within which the function-phenomenology gap sits
 - [[introspection]] — Why the only tool for studying source attribution is the tool whose unreliability is part of the question
 - [[evidential-status-discipline]] — The calibration norm the article applies when noting the data are "compatible with reconstructive-cognition physicalism" and the interface reading earns its place from cluster-level convergence rather than this case alone
+- [[project/common-cause-null]] — The methodological discipline the article's cluster-level discharge defers to; the cluster-level move reaches *strongly-supported* tier only conditional on the common-cause null surviving the discrimination tests catalogued at [[apex/phenomenal-output-causal-machinery-dissociation]]
 
 ## References
 

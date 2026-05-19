@@ -4,7 +4,7 @@ description: "Human+AI inquiry into three memory anomalies as a structural clust
 created: 2026-05-09
 modified: 2026-05-09
 human_modified:
-ai_modified: 2026-05-19T23:30:00+00:00
+ai_modified: 2026-05-19T23:45:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -100,6 +100,8 @@ A third connection runs through the Map's treatment of [[introspection]] and [[p
 
 The trio sits as one face of the broader [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]] the Map catalogues across perception, cognition, agency, and memory. The synthesis treats memory anomalies as the across-time face of a structural pattern that also covers recognition, mental effort, noetic feelings, agency, and suspension; what does the evidential work is the cumulative convergence across the cluster's members, not any one rotation taken alone.
 
+One structural honesty is owed about the cumulative-convergence move. This article both *uses* the cluster (deferring its local-absorption discharge to the cluster's cross-member convergence) and *contributes to* it (memory anomalies are the cluster's across-time face). The article is therefore not an independent observer of the convergence; it is part of what the convergence counts. The cumulative-convergence discharge of the local-absorption objection holds only on the condition that the cluster's apparent triangulation is genuine independent triangulation rather than one upstream architecture — bandwidth-limited reconstructive human introspection — producing the same dissociation signature across timescales and substrates. The [[project/common-cause-null|common-cause-null discipline]] names this objection; the apex [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation]] synthesis concedes that the cross-substrate convergence is currently consistent both with the architectural reading the cluster develops and with the common-cause null the apex cannot yet defeat. The honest evidential status of the cumulative-convergence discharge here is therefore: the cluster-level move reaches the [[evidential-status-discipline|strongly-supported tier]] only conditional on the common-cause-null surviving the discrimination tests catalogued at the apex; absent that survival, the cluster-level move sits at *live hypothesis*. The relitigation belongs at the apex; this article registers the conditional dependence and defers the discharge.
+
 ## Further Reading
 
 - [[consciousness-and-memory]]
@@ -114,6 +116,7 @@ The trio sits as one face of the broader [[phenomenal-output-causal-machinery-di
 - [[hard-problem-of-consciousness]]
 - [[arguments-against-materialism]]
 - [[evidential-status-discipline]] — The methodological discipline that names the constrain-vs-establish move applied here to Bergson's "memory of the present" treatment
+- [[project/common-cause-null]] — The methodological discipline the article's cumulative-convergence discharge defers to; the cluster-level move reaches *strongly-supported* tier only conditional on the common-cause null surviving the discrimination tests catalogued at [[apex/phenomenal-output-causal-machinery-dissociation]]
 
 ## References
 
